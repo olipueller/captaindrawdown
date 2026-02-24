@@ -1,0 +1,69 @@
+/* CaptainDrawdown brand colors */
+:root {
+  --brand-navy: #0a1930;
+  --brand-teal: #00c8b4;
+}
+
+body.dark {
+  --primary: #00c8b4;
+  --secondary: #8899aa;
+  --theme: #0a1930;
+  --entry: #0f2340;
+  --border: #1a3355;
+  --code-bg: #0f2340;
+}
+
+body.dark .post-title,
+body.dark .post-content h1,
+body.dark .post-content h2,
+body.dark .post-content h3 {
+  color: #e8ecf1;
+}
+
+body.dark a {
+  color: #00c8b4;
+}
+
+body.dark a:hover {
+  color: #33d6c8;
+}
+
+body.dark .entry:hover {
+  background: #132a4a;
+}
+
+body.dark .home-info .entry-content {
+  color: #b0bec5;
+}
+
+.social-icons a svg {
+  fill: #00c8b4;
+}
+
+.social-icons a:hover svg {
+  fill: #33d6c8;
+}
+
+body.dark .footer {
+  color: #6b7d8d;
+}
+
+body.dark .nav a {
+  color: #00c8b4;
+}
+
+body.dark .logo a {
+  color: #00c8b4;
+}
+
+/* Tag pills */
+body.dark .post-tags a {
+  background: #0f2340;
+  border: 1px solid #00c8b4;
+  color: #00c8b4;
+}
+
+body.dark .post-tags a:hover {
+  background: #00c8b4;
+  color: #0a1930;
+}
