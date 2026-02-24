@@ -14,7 +14,7 @@ Rocks naturally absorb CO₂. When rain (which is slightly acidic from dissolved
 
 This is actually one of Earth's primary long-term carbon regulation mechanisms. Over geological timescales, rock weathering has prevented runaway greenhouse effects.
 
-The problem? It's **slow**. Natural weathering removes only about 1.1 GtCO₂ per year globally. We need to remove 6-16 Gt/yr by 2050.
+The problem? It's **slow**. Natural weathering removes roughly **0.1–1.1 GtCO₂ per year** globally ([Isson et al., 2020](https://www.sciencedirect.com/science/article/abs/pii/S0012825225002703); [Puro.earth](https://puro.earth/enhanced-rock-weathering)). We need to remove 5–16 Gt/yr by 2050 ([IPCC AR6 WGIII, 2022](https://www.ipcc.ch/report/ar6/wg3/downloads/outreach/IPCC_AR6_WGIII_Factsheet_CDR.pdf)).
 
 ## Speed It Up
 
@@ -34,7 +34,7 @@ This is where EW gets genuinely exciting. It's not just carbon removal — sprea
 
 - **Raises soil pH** (counteracting acidification, similar to liming)
 - **Adds essential nutrients** like calcium, magnesium, potassium, and silicon
-- **Can improve crop yields** — field trials have shown 10-30% yield increases in some conditions
+- **Can improve crop yields** — field trials have shown yield increases of around 10–20% in some conditions, with an UNDO trial reporting 9–21% higher yields across different cultivation methods ([Kelland et al., *Frontiers in Climate*, 2024 via Newcastle University](https://www.ncl.ac.uk/press/articles/archive/2024/03/enhancedrockweathering/); [UNDO, 2024](https://un-do.com/resources/blog/new-study-shows-the-agronomic-benefits-of-enhanced-rock-weathering/))
 - **Reduces the need for synthetic lime and fertilizer** (which have their own carbon footprints)
 
 Farmers aren't doing this as a favor to the climate. They're getting better soil and better harvests. The carbon removal is a bonus — and a potential revenue stream through carbon credits.
@@ -60,6 +60,15 @@ EW isn't without hurdles:
 
 ## The Potential
 
-A 2024 modeling study estimated global EW potential at **2-4 GtCO₂/yr** on existing cropland, at costs below $200/tonne. That's a meaningful chunk of the removal we need, at a competitive price, with agricultural co-benefits built in.
+A landmark 2020 modeling study in *Nature* by Beerling et al. estimated global EW potential at **2–4 GtCO₂/yr** on existing cropland, at costs of US$80–180/tonne ([Beerling et al., *Nature*, 2020](https://www.nature.com/articles/s41586-020-2448-9)). That's a meaningful chunk of the removal we need, at a competitive price, with agricultural co-benefits built in.
 
 Enhanced weathering isn't a silver bullet. Nothing is. But it might be the most underappreciated tool in the CDR toolbox. 🪨
+
+## Sources
+
+1. Isson, T.T. et al. (2020), via Puro.earth. "Enhanced Rock Weathering." [puro.earth](https://puro.earth/enhanced-rock-weathering)
+2. IPCC AR6 WGIII (2022). Carbon Dioxide Removal Factsheet. [ipcc.ch](https://www.ipcc.ch/report/ar6/wg3/downloads/outreach/IPCC_AR6_WGIII_Factsheet_CDR.pdf)
+3. Kelland, M.E. et al. (2024). "Study shows the crop benefits of enhanced rock weathering." Newcastle University / *Frontiers in Climate*. [ncl.ac.uk](https://www.ncl.ac.uk/press/articles/archive/2024/03/enhancedrockweathering/)
+4. UNDO Carbon (2024). "New Study Shows The Agronomic Benefits of Enhanced Rock Weathering." [un-do.com](https://un-do.com/resources/blog/new-study-shows-the-agronomic-benefits-of-enhanced-rock-weathering/)
+5. Beerling, D.J. et al. (2020). "Potential for large-scale CO₂ removal via enhanced rock weathering with croplands." *Nature*, 583, 242–248. [doi:10.1038/s41586-020-2448-9](https://www.nature.com/articles/s41586-020-2448-9)
+6. Amann, T. et al. (2024). "Enhanced weathering in the US Corn Belt delivers carbon removal with agronomic benefits." *PNAS*. [doi:10.1073/pnas.2319436121](https://www.pnas.org/doi/10.1073/pnas.2319436121)
