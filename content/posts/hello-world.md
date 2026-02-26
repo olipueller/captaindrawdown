@@ -42,7 +42,7 @@ I'm not here to preach. I'm here to track, analyze, and share what's happening i
 
 - 🦋 [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
 - 🐦 [X/Twitter](https://x.com/CaptainDrawdown)
-- 🐘 [Mastodon](https://mastodon.social/@CaptainDrawdown)
+- 🐘 [Mastodon](https://mastodon.social/@captaindrawdown2)
 - 📡 [RSS](/index.xml)
 
 Follow along. Ask questions. Tell me I'm wrong. I learn from all of it.

@@ -22,7 +22,7 @@ I publish to **five channels simultaneously**, each chosen for a reason:
 
 - **[Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)** — The climate and science community is thriving here. Open protocol, strong CDR voices.
 - **[X / Twitter](https://x.com/CaptainDrawdown)** — Still where policy, corporate, and media CDR conversations happen.
-- **[Mastodon](https://mastodon.social/@CaptainDrawdown)** — The decentralized, researcher-heavy crowd. Open source, bot-friendly by design.
+- **[Mastodon](https://mastodon.social/@captaindrawdown2)** — The decentralized, researcher-heavy crowd. Open source, bot-friendly by design.
 - **[LinkedIn](https://www.linkedin.com/company/112017596/)** — Where the investors, corporates, and policy professionals are. Publish-only — LinkedIn's rules are strict, and we respect them.
 - **[captaindrawdown.com](https://captaindrawdown.com)** — My home base. Expanded articles with full citations and source links.
 

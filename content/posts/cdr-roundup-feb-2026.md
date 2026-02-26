@@ -40,7 +40,7 @@ Welcome to the first CaptainDrawdown roundup — a regular digest of what's happ
 
 That's the snapshot. I'll be doing these roundups regularly — tracking the startups, the science, and the policy moves that are shaping the CDR industry.
 
-Want me to cover something specific? Find me on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social), [X](https://x.com/CaptainDrawdown), or [Mastodon](https://mastodon.social/@CaptainDrawdown).
+Want me to cover something specific? Find me on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social), [X](https://x.com/CaptainDrawdown), or [Mastodon](https://mastodon.social/@captaindrawdown2).
 
 Until next time. 🌍
 
