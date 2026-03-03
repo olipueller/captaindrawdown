@@ -1,69 +1,38 @@
 ---
-title: "CDR Daily Digest — 2 March 2026"
-date: 2026-03-02T14:00:00Z
+title: "CDR Daily Digest — March 2, 2026"
+date: 2026-03-02
 slug: cdr-daily-digest-2026-03-02
-description: "US EPA guts the Endangerment Finding while the EU's carbon border tax triggers a global domino effect. A Nature Reviews paper challenges ERW readiness. Carbon TerraVault eyes California's first CO₂ injection. Ocean CDR startups advance."
-tags: ["CDR", "carbon removal", "CCS", "ERW", "CBAM", "EPA", "DAC", "ocean CDR", "policy", "daily digest"]
+tags: ["digest", "cdr", "carbon-removal"]
+summary: "Microsoft bought 93% of all carbon removal credits last year — and the market still needs more buyers."
 image: "/images/posts/daily-digest-default.png"
 ---
 
-Your daily scan of what's moving in carbon dioxide removal — funding, policy, science, and market signals.
+## Microsoft Bought 93% of All Carbon Removal Credits Last Year
 
-## Market Tone
+New data from BloombergNEF and the Business Council for Sustainable Energy confirms what many suspected: Microsoft is essentially _the_ carbon removal market. The tech giant purchased 93% of all global CDR credits in 2025, driven by its pledge to remove every tonne of CO₂ the company has emitted since 1975.
 
-**Divergent.** The US-Europe policy gap on climate just became a canyon. The EPA's Endangerment Finding repeal removes the legal backbone of American GHG regulation, while the EU's CBAM is catalysing carbon pricing adoption across multiple continents. CDR market fundamentals remain strong: VCM growth at 31% CAGR, CCS pipeline at 734 projects globally, but the political environment in the US is adding risk to every project that needs federal permitting.
+That kind of anchor buying — paying $500+ per tonne for high-quality DAC and engineered removal — is keeping startups like Climeworks and Heirloom alive and scaling. But one buyer propping up an entire sector isn't a strategy. It's a lifeline. Governments need to step up as procurement partners if this market is going to mature beyond Microsoft's goodwill. ([Latitude Media](https://www.latitudemedia.com/news/microsoft-is-the-carbon-removal-market/))
 
----
+## 🌊 Gulf of Maine Ocean Alkalinity Trial: CO₂ Removed, No Immediate Harm
 
-## Headlines
+Researchers dissolved sodium hydroxide into coastal waters off Maine and measured removal of up to 10 tonnes of CO₂ — with no detectable acute harm to marine life. It's a small-scale proof of concept, not a green light for deployment, but it's real-world data on a pathway that's been mostly theoretical until now. Longer trials, broader monitoring, and the sticky question of ocean governance still lie ahead. ([AllToc](https://alltoc.com/science/what-did-the-ocean-alkalinity-trial-reveal))
 
-### 🇺🇸 Carbon TerraVault Targets California's First CO₂ Injection
-Carbon TerraVault (CRC subsidiary) completed construction at Elk Hills and is commissioning for **first CO₂ injection in spring 2026**. They've signed MOUs for 6.8 MMTPA of storage and submitted 352 MMT of storage capacity to the EPA. 2026 capex: $12–20M. ([GlobeNewsWire](https://www.globenewswire.com/news-release/2026/03/02/3247336/0/en/Carbon-TerraVault-Provides-2025-Update.html))
+## 🇸🇦 Climeworks Deepens Saudi DAC Partnership
 
-### 🚨 EPA Rescinds Endangerment Finding
-The Trump EPA gutted the 2009 finding that greenhouse gases threaten public health — the legal foundation for regulating emissions under the Clean Air Act. Environmental groups have filed federal lawsuits. The administration also cut NASA's IPCC support and fired State Dept climate diplomacy staff. ([Hartford Courant](https://www.courant.com/2026/03/02/ct-environmental-groups-are-sounding-the-alarm-after-epa-guts-critical-regulation-heres-why/), [New Republic](https://newrepublic.com/article/207000/trump-climate-science-funding))
+Climeworks signed a new MOU with Saudi Arabia's Royal Commission for Jubail and Yanbu to move from feasibility studies toward a DAC demonstration plant. A mobile test unit at Jubail Industrial College has been collecting data for three months, confirming strong performance in coastal conditions — after earlier tests in Riyadh's arid desert also delivered. The Kingdom is positioning itself as a serious DAC deployment location. ([Carbon Herald](https://carbonherald.com/climeworks-and-rcjy-strenghten-partnership-to-advance-large-scale-dac-in-saudi-arabia/))
 
-### 🇪🇺 EU CBAM Triggers Global Carbon Pricing Domino
-The EU's Carbon Border Adjustment Mechanism took full effect on 1 January. Australia released its final carbon leakage review recommending its own CBAM. The UK is developing a similar levy for 2027. China, India, and Brazil have expanded or introduced carbon pricing in response. ([IPS Journal](https://www.ips-journal.eu/topics/economy-and-ecology/keeping-the-climate-flywheel-spinning-8895))
+## 🇺🇸 Carbon TerraVault Eyes California's First CO₂ Injection
 
-### 🔬 Nature Reviews: ERW "Not Yet Reliable" for Climate Mitigation
-Schiedung et al. published in *Nature Reviews Earth & Environment*, arguing it's currently not possible to quantify how much CO₂ ERW actually sequesters in practice. This matters for the growing number of companies selling ERW credits. ([Phys.org](https://phys.org/news/2026-02-weathering-reliable-climate.html))
+CRC subsidiary Carbon TerraVault completed construction at its Elk Hills facility and targets first injection in spring 2026. They've signed MOUs for 6.8 million tonnes per year of storage capacity and submitted 352 MMT to the EPA for review. California's CCS ambitions are getting real. ([GlobeNewsWire](https://www.globenewswire.com/news-release/2026/03/02/3247336/0/en/Carbon-TerraVault-Provides-2025-Update.html))
 
-*For context: CDI has published extensive ERW MRV research, including a [3-part series on ERW lifetime carbon balance](https://www.carbon-drawdown.de/blog/2025-12-3-lifetime-carbon-balance-of-enhanced-rock-weathering-explained-part-1) and a January 2026 piece on [carbon vs. cation-based MRV](https://www.carbon-drawdown.de/blog/2026-1-6-new-paper-carbon-vs-cation-based-mrv-for-enhanced-rock-weathering-and-why-we-should-check-how-much-soil-carbon-matters). Real-world field data from ERW deployments is starting to answer the questions this paper raises.*
+## 🌍 UNESCO Flags "Blind Spot" in Ocean Carbon Science
 
-### 🌊 Ocean CDR Advances: SeaCURE, Captura, SeaO₂
-A feature on ocean-based carbon removal highlights three companies piloting direct ocean capture. SeaCURE (UK) acidifies seawater to release dissolved CO₂; Captura (US) and SeaO₂ (Netherlands) use electrodialysis. Social license remains a major hurdle. ([DML](https://dml.or.id/harnessing-the-ocean-for-carbon-capture/))
+A report coordinated by IOC-UNESCO — written by 72 authors across 23 countries — finds that climate models differ by 10-20% on how much carbon the ocean actually absorbs. That uncertainty directly affects emissions targets, adaptation planning, and whether ocean-based CDR can be reliably quantified. Without better monitoring, we're making climate decisions with incomplete data. ([UNESCO](https://www.unesco.org/en/articles/unesco-report-major-blind-spot-ocean-carbon-research-could-undermine-global-climate-predictions))
 
-### 🇬🇧 Mission Zero Technologies: DAC + Construction Materials
-London's MZT won The Engineer's C2I 2025 Energy Award for integrating electrochemical DAC with OCO Technology's waste-to-aggregate process — creating carbon-negative building materials at a Norfolk facility. ([The Engineer](https://www.theengineer.co.uk/content/in-depth/c2i-2025-energy-winner-carbon-capture-for-sustainable-construction))
+## 🇰🇷🇲🇲 UN Approves First Paris Agreement Carbon Credits
 
-### 🇮🇳 India's Carbon Trading Scheme Goes Live
-India's CCTS entered its first compliance period (April 2025–March 2026) with ~490 industrial units across seven sectors. Entities below emission targets earn tradeable credits. Steel and fertiliser excluded from Phase 1. ([EduNovations](https://edunovations.com/currentaffairs/national/carbon-trading-programme/))
+The UN issued its first credits under the Paris Agreement's Article 6.4 mechanism — a clean cooking project in Myanmar implemented with South Korea. It's a milestone for cross-border climate finance, though critics warn these offset schemes can undermine ambition if poorly designed. ([Al Jazeera](https://www.aljazeera.com/news/2026/2/26/un-approves-first-carbon-credits-under-paris-agreement-market-mechanism))
 
 ---
 
-## Quick Numbers
-
-| Metric | Value |
-|--------|-------|
-| VCM 2025 value | $1.38B |
-| VCM 2032 projection | $8.98B (31.2% CAGR) |
-| CTV storage MOUs | 6.8 MMTPA |
-| Global CCS facilities | 77 operating |
-| CCS pipeline | 734 projects |
-| CCS 2030 capacity target | 337 Mtpa |
-| India CCTS Phase 1 units | ~490 |
-
----
-
-## What to Watch
-
-- **Carbon TerraVault first injection** — spring 2026; California's CCS ambitions on the line
-- **Schiedung ERW paper ripple effects** — will buyers cite this to slow ERW procurement?
-- **EU CBAM package review** — Commission considering fertiliser compensation, scope expansion
-- **Australia CBAM** — implementation timeline after the leakage review
-- **India CCTS** — first compliance period ends March 2026
-
----
-
-*Sources linked inline. Published by [Captain Drawdown](https://www.captaindrawdown.com) — tracking the CDR market daily.*
+*[Captain Drawdown](https://www.captaindrawdown.com) tracks the CDR market daily. Got a tip? Find us on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social).*
