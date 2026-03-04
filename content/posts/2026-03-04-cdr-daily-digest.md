@@ -2,76 +2,64 @@
 title: "CDR Daily Digest — March 4, 2026"
 date: 2026-03-04T05:00:00Z
 draft: false
-tags: ["cdr", "enhanced-rock-weathering", "carbon-markets", "germany", "india", "biochar", "daily-digest"]
-description: "Germany creates its first CDR budget line (€98M), India formalizes carbon credit trading, Microsoft signs 1.8M-credit African reforestation deal, and LEGO diversifies into marine CDR."
+tags: ["cdr", "germany", "biochar", "enhanced-weathering", "mrv", "amazon", "daily-digest"]
+description: "Germany puts €98M into CDR, Varaha raises $45M for biochar scaling, Swiss cows eat biochar and it survives digestion, CDI spotlights Everest's real-time EW sensors, and the Amazon quietly became a carbon source."
 ---
 
-Government money is finally arriving. Here's what moved in the last 24 hours.
+Five stories across four continents. Today's thread: money, measurement, and a rainforest that stopped doing its job.
 
-## 🇩🇪 Germany Creates First Dedicated CDR Budget Line — €98M
+## 🇩🇪 Germany Puts Real Money Behind CDR — €98 Million in 2026
 
-The 2026 German federal budget allocates **€98 million for carbon dioxide removal projects** and **€11.5 million for purchasing CDR certificates**. This is the first time Germany has earmarked dedicated funding for carbon removal — a milestone that shifts CDR from voluntary corporate territory into government procurement.
+The Handelsblatt dropped a significant story that barely registered outside German media: **Germany's 2026 federal budget includes €98 million for CDR projects and €11.5 million for purchasing CO₂ removal certificates.** This is a first.
 
-Handelsblatt's deep dive profiles both biochar and enhanced rock weathering as key pathways. Novocarbo's Carbon Removal Park in Bochum will supply district heating to 26,000 households while producing biochar. The piece also highlights enhanced weathering companies spreading rock dust on farmland — including CDI portfolio company [Inplanet](https://www.carbon-drawdown.de/blog/2025-3-31-portfolio-spotlight-inplanet).
+The German Association for Negative Emissions (Verband für negative Emissionen) says more is coming — a pathway to continued funding through 2033. CDR startups like Novocarbo (biochar) and InPlanet (enhanced weathering) get specific mentions as German companies building in this space.
 
-Why it matters: Government procurement creates predictable demand. Sweden and Switzerland led; Germany following with nearly €110M signals that European CDR policy is graduating from strategy papers to purchase orders. The German Association for Negative Emissions says additional CDR funding through 2033 is planned.
+Why this matters beyond Germany: the EU has been finalizing voluntary certification methodologies for permanent carbon removals. Germany putting budget money on the table — not just policy frameworks but actual procurement — sends a signal to the entire European CDR ecosystem. Government as buyer, not just regulator.
 
-CDI's three-part series on [ERW lifecycle carbon balance](https://www.carbon-drawdown.de/blog/2025-12-3-lifetime-carbon-balance-of-enhanced-rock-weathering-explained-part-1) explains exactly why these government purchases need robust MRV — the question isn't just "did carbon get removed?" but "what was the net balance after mining, grinding, and transport?"
+CDI has been tracking the economics of CDR certificate sales. Their analysis of [whether you can profitably sell CDR certificates](https://www.carbon-drawdown.de/blog/2026-2-4-can-you-profitably-sell-cdr-certificates-using-online-marketing) is worth revisiting now that a G7 government is officially buying.
 
 **Source:** [Handelsblatt](https://www.handelsblatt.com/unternehmen/nachhaltigkeit/klimaziele-co-entnahme-im-kampf-gegen-den-klimawandel-ist-entscheidend/100201919.html)
 
-## 🇮🇳 India Formalizes Carbon Credit Trading
+## 💰 Varaha Raises $45M Series B — Biochar Carbon Removal Goes Global
 
-India's Central Electricity Regulatory Commission (CERC) has published the "Terms and Conditions for Purchase and Sale of Carbon Credit Certificates Regulations, 2026" — effective immediately. The rules create:
+India's Varaha just closed a **$45 million Series B** led by WestBridge Capital. The company already sells carbon removal credits to Google and Microsoft, and operates across India, Nepal, Bangladesh, and now Africa via its new VIPP program (Varaha Industrial Partners Program).
 
-- A **Compliance Market** for entities with mandatory emission reduction targets
-- An **Offset Market** for voluntary participants
-- Real-time bid verification by the Grid Controller of India
-- Floor and ceiling prices set by CERC
-- Each certificate = 1 tonne CO₂ equivalent removed, reduced, or avoided
+VIPP's first target: **Côte d'Ivoire**, where Varaha is partnering with local operators to scale industrial biochar production. Credits will be issued through Puro.earth's biochar methodology. It's the same playbook CDI portfolio companies like [Cotierra](https://www.carbon-drawdown.de/blog/2026-1-24-portfolio-spotlight-cotierra-turning-agricultural-waste-into-climate-resilience) and [Happy Ground](https://www.carbon-drawdown.de/blog/2025-9-10-portfolio-spotlight-happy-ground-biochar-in-thailand) use — turn agricultural waste into durable carbon removal, generate credits, improve farmer livelihoods.
 
-This gives the world's most populous country a formal, regulated carbon market. For CDR companies: India is now a potential credit buyer at national scale.
+$45M for a biochar company signals that this pathway is maturing fast. CDI's recent piece on [biochar at different scales](https://www.carbon-drawdown.de/blog/2026-2-9-how-to-make-biochar-at-different-scales-large-and-small-ft-cotierra-amp-syncraft) explains why decentralized production like VIPP matters.
 
-**Source:** [SolarQuarter](https://solarquarter.com/2026/03/03/cerc-notifies-2026-regulations-to-formalize-indias-carbon-credit-trading-market/)
+**Source:** [AgroTech Space](https://agrotech.space/2026/02/25/varaha-biochar-carbon-credits-divoire/)
 
-## 🌍 Microsoft's 1.8M-Credit African Reforestation Deal
+## 🐄 Swiss Study: Feed Biochar to Cows, Get Carbon Storage in Pastures
 
-Microsoft signed a **15-year offtake agreement** with Rainforest Builder for up to **1.8 million carbon removal credits** from Project Buffalo in Sierra Leone. The project restores 15,000 hectares of degraded Upper Guinean Forest — one of the most biodiverse yet threatened ecosystems on Earth — planting more than 10 million trees.
+This one's fun. Swiss researchers fed dairy cows a diet containing 1% biochar — and found that **70–90% of the biochar survived the entire digestive process**. Even better: **98% of recovered fragments remained physically and chemically intact**, retaining their condensed carbon structure.
 
-This is one of the largest single-project carbon removal agreements announced in Africa. The long-term structure provides revenue certainty for restoration, workforce development, and monitoring systems. Rainforest Builder employs 2,500+ people across Sierra Leone, Ghana, and Guinea.
+The implication: cows could become natural biochar distribution systems. Instead of manually spreading biochar on fields (labour-intensive, expensive), farmers incorporate it into feed. Cows graze, deposit manure, biochar ends up in the soil. Carbon stored for centuries, delivered by livestock.
 
-**Source:** [Carbon Credits](https://carboncredits.com/microsoft-secures-1-8m-carbon-credits-from-africas-rainforest-builder/)
+There's a bonus: previous studies suggest biochar in cattle feed may reduce methane emissions from manure. Carbon removal and methane reduction from the same intervention.
 
-## 🧱 LEGO Goes Multi-Pathway on Carbon Removal
+It's early research — eight cows, controlled conditions. But the concept is elegant: use existing agricultural systems as CDR infrastructure.
 
-LEGO invested ~$2.8M into four carbon removal projects spanning reforestation (Mexico), biomass geological storage, mineralization, and marine CDR. Total CDR investment: **$8.4M**. The projects are managed through Climate Impact Partners and ClimeFi.
+**Source:** [Paryawaran](https://paryawaran.com/2026/03/03/feeding-biochar-to-cows-could-turn-livestock-into-carbon-storing-soil-allies/)
 
-What's notable: a consumer brand explicitly diversifying across nature-based and technology-based CDR pathways. ClimeFi CEO Paolo Piffaretti: *"No single pathway can solve the problems of climate change alone."*
+## 📡 CDI Portfolio Spotlight: Everest — Real-Time EW Measurement
 
-**Source:** [ESG Dive](https://www.esgdive.com/news/lego-invests-28m-in-carbon-removal-projects-climate-impact-partners-climefi/813658/)
+CDI just published their latest [Portfolio Spotlight on Everest](https://www.carbon-drawdown.de/blog/2026-3-3-portfolio-spotlight-everest-measuring-ew-in-real-time), a company building in-field electronic sensors that measure alkalinity 24/7. No sampling. No shipping. No lab waiting.
 
-## 🇸🇬 Singapore Commits $800M to Low-Carbon Tech
+This directly addresses the biggest bottleneck in enhanced weathering: proving the carbon is actually being removed. CDI installed 15 of the first 300 Everest sensors in their XXL lysimeters and immediately saw clear signals — treated plots showed significantly higher cumulative alkalinity export than controls.
 
-Singapore announced $800M over five years for its Decarbonisation Research, Innovation and Enterprise Grand Challenge, covering solar, hydrogen, carbon capture & utilization, and grid modernization. Separately, Budget 2026 allows companies to offset up to 5% of carbon tax liability using international carbon credits.
+Everest is now on their third-generation sensors. CDI's own [MRV proxy research](https://www.carbon-drawdown.de/blog/2026-1-23-19-mrv-proxies-for-ew-a-guided-tour-through-our-data-from-our-two-year-greenhouse-experiment) demonstrated why continuous measurement matters: EC tracks alkalinity beautifully at macro scale but breaks down at micro scale. Real-time sensors like Everest's fill exactly that gap.
 
-**Source:** [SolarQuarter](https://solarquarter.com/2026/03/03/singapore-commits-800-million-to-accelerate-low-carbon-technology-under-rie2030-plan/)
+If enhanced weathering is the engine, Everest is the dashboard.
 
----
+**Source:** [CDI Blog](https://www.carbon-drawdown.de/blog/2026-3-3-portfolio-spotlight-everest-measuring-ew-in-real-time)
 
-## 📈 Quick Numbers
+## 🌳 The Amazon Flipped — From Carbon Sink to Carbon Source
 
-| Metric | Value |
-|---|---|
-| Germany CDR budget | €98M (projects) + €11.5M (certificates) |
-| Microsoft × Rainforest Builder | 1.8M credits over 15 years |
-| LEGO total CDR investment | $8.4M |
-| Singapore decarbonization fund | $800M / 5 years |
-| India carbon market | Formal regulations — effective now |
+A new study in AGU Advances confirms what climatologists feared: during the severe 2023 drought, **the Amazon became a net carbon source**. Reduced vegetation uptake meant the world's largest tropical forest was releasing more CO₂ than it absorbed.
 
-## 🌡️ Market Tone
+This isn't a one-off curiosity. Amazon droughts are getting more frequent and more severe. Every time the forest flips from sink to source, atmospheric CO₂ accumulates faster than models predicted. It's a feedback loop that makes every tonne of engineered CDR more valuable.
 
-**Demand-side infrastructure is being built.** Germany, India, and Singapore all made structural moves this week: budget allocations, regulated trading frameworks, and R&D commitments. Meanwhile, corporate buyers like Microsoft and LEGO continue signing long-term removal agreements. The pattern is clear — the CDR market is professionalizing from "voluntary pledges" to "regulated procurement." The bottleneck is no longer demand. It's verified supply.
+The CDR community often gets asked: "Why not just plant trees?" This is why. Nature-based removal is essential but vulnerable. Engineered removal — biochar, enhanced weathering, DAC, ocean alkalinity — provides the durability that forests increasingly can't guarantee. As CDI argued in their piece on [shifting from "Speed & Scale" to "Prove & Learn"](https://www.carbon-drawdown.de/blog/2026-2-24-cdr-must-shift-from-speed-amp-scale-to-prove-amp-learn), durability and verification are the frontier.
 
----
-
-*Daily Digest by [Captain Drawdown](https://www.captaindrawdown.com). Data sourced from Handelsblatt, SolarQuarter, ESG Dive, Carbon Credits, WPR, New Scientist, Inside Story Australia. CDI portfolio references link to [carbon-drawdown.de](https://www.carbon-drawdown.de).*
+**Source:** [Eos / AGU](https://eos.org/editor-highlights/severe-2023-drought-sinking-carbon-sink-in-the-amazon)
