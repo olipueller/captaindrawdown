@@ -4,6 +4,10 @@ date: 2026-03-05
 draft: false
 tags: ["CCU", "carbon capture", "Japan", "materials science", "CO2 utilization", "Nature Communications"]
 description: "Gifu University researchers created a rubber elastomer that absorbs 220mg CO₂ per gram, becoming 1,000 times harder. Reversible with heat. Published in Nature Communications."
+cover:
+  image: "/images/posts/20260305-04.png"
+  alt: "Japanese Scientists Made Rubber That Eats CO₂ and Turns Into Plastic"
+  relative: false
 ---
 
 Materials science just produced one of those results that makes you do a double take.

@@ -4,6 +4,10 @@ date: 2026-03-04T04:00:00Z
 draft: false
 tags: ["cdr", "germany", "biochar", "enhanced-weathering", "mrv", "amazon", "daily-digest"]
 description: "Germany puts €98M into CDR, Varaha raises $45M for biochar scaling, Swiss cows eat biochar and it survives digestion, CDI spotlights Everest's real-time EW sensors, and the Amazon quietly became a carbon source."
+cover:
+  image: "/images/digests/2026-03-04.png"
+  alt: "CDR Daily Digest — March 4, 2026"
+  relative: false
 ---
 
 Five stories across four continents. Today's thread: money, measurement, and a rainforest that stopped doing its job.

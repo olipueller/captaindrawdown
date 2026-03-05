@@ -4,6 +4,10 @@ date: 2026-02-25
 tags: ["CDR", "carbon removal", "enhanced weathering", "ERW", "MRV", "Nature"]
 summary: "A new Nature paper maps the uncertainties of Enhanced Rock Weathering — from toxic trace elements to carbon tracking gaps. Here's what it means for CDR."
 draft: false
+cover:
+  image: "/images/posts/20260225-03.png"
+  alt: "Enhanced Rock Weathering: Promising, But Not Simple"
+  relative: false
 ---
 
 Crush rocks, spread them on farmland, remove CO₂. On paper, Enhanced Rock Weathering (ERW) is elegantly simple. Silicate minerals react with carbon dioxide in the soil, locking it away as stable carbonates that can persist for thousands of years. As a bonus, the rock dust adds nutrients like calcium and magnesium, potentially reducing the need for synthetic fertilizers.

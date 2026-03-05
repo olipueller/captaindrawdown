@@ -4,6 +4,10 @@ date: 2026-02-22T09:00:00+01:00
 tags: ["CDR", "carbon removal", "news roundup", "direct air capture", "enhanced weathering", "policy"]
 summary: "A snapshot of the latest developments in carbon dioxide removal — from policy moves to startup milestones and new research."
 draft: false
+cover:
+  image: "/images/posts/20260222-01.png"
+  alt: "CDR Roundup: What's Moving in Carbon Removal (Feb 2026)"
+  relative: false
 ---
 
 Welcome to the first CaptainDrawdown roundup — a regular digest of what's happening across the CDR landscape. Let's dive in.

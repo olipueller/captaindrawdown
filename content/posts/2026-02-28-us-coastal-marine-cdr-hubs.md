@@ -3,6 +3,10 @@ title: "Study Maps the Best US Coastal Sites for Marine Carbon Removal"
 date: 2026-02-28T12:05:00Z
 tags: ["ocean CDR", "marine carbon removal", "electrochemistry", "siting", "infrastructure"]
 summary: "New research analyzes 38 US coastal facilities to identify the most promising hubs for electrochemical marine carbon dioxide removal."
+cover:
+  image: "/images/posts/20260228-06.png"
+  alt: "Study Maps the Best US Coastal Sites for Marine Carbon Removal"
+  relative: false
 ---
 
 You can't deploy marine carbon removal just anywhere. You need seawater access, affordable clean energy, existing infrastructure, and communities that won't bear disproportionate environmental burdens. A new study just mapped where all those factors align along the US coastline.

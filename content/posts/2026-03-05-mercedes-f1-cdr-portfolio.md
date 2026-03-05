@@ -4,6 +4,10 @@ date: 2026-03-05
 draft: false
 tags: ["CDR", "carbon removal", "Mercedes F1", "DAC", "biochar", "OAE", "ERW", "BECCS", "CUR8", "corporate buyers"]
 description: "Mercedes-AMG PETRONAS adds seven CDR projects spanning direct air capture to ocean alkalinity enhancement, pushing its removal portfolio to nearly 19,000 tonnes."
+cover:
+  image: "/images/posts/20260305-05.png"
+  alt: "Mercedes F1 Goes All-In on Carbon Removal — 7 New Projects Across 6 Pathways"
+  relative: false
 ---
 
 Formula 1 teams aren't usually associated with carbon removal. But Mercedes-AMG PETRONAS just made one of the most diversified CDR investments any sports organization has ever announced.

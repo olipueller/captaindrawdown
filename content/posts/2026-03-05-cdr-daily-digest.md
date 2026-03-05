@@ -4,6 +4,10 @@ date: 2026-03-05
 draft: false
 tags: ["CDR", "carbon removal", "enhanced rock weathering", "ERW", "DAC", "biochar", "carbon credits", "CRCF", "Microsoft", "Mercedes F1", "AirMyne", "LEGO", "India", "voluntary carbon market"]
 description: "Cornell ERW study models up to 1.1 Gt/yr removal by 2100, Microsoft bought 93% of global CDR credits, EU CRCF methodologies enter scrutiny, AirMyne lands ENEOS investment, and India formalizes carbon credit trading."
+cover:
+  image: "/images/digests/2026-03-05.png"
+  alt: "CDR Daily Digest — March 5, 2026"
+  relative: false
 ---
 
 ## 🔬 Top Story: Cornell Study Puts ERW at Up to 1.1 Billion Tonnes/Year by 2100

@@ -5,6 +5,10 @@ slug: ac-paradox-cooling-heating-feedback
 description: "A Nature Communications study finds rising AC use could emit more CO₂ than the entire US — and most of it isn't from climate change itself."
 tags: ["climate change", "emissions", "cooling", "CDR", "feedback loops"]
 image: "/images/posts/20260302-03.png"
+cover:
+  image: "/images/posts/20260302-01.png"
+  alt: "The AC Paradox: Air Conditioning Could Add 8.5 Billion Tonnes of CO₂ by 2050"
+  relative: false
 ---
 
 Here's a climate feedback loop that doesn't get enough attention: the hotter it gets, the more we cool ourselves, and the more we cool ourselves, the hotter it gets.

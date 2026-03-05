@@ -5,6 +5,10 @@ slug: erw-uncertainties-nature-paper
 description: "A new Nature Reviews Earth & Environment paper and Germany's Thünen Institute highlight ERW uncertainties. Here's what that means — and why it's not the end of enhanced weathering."
 tags: ["ERW", "enhanced rock weathering", "MRV", "carbon removal", "research"]
 image: "/images/posts/20260302-01.png"
+cover:
+  image: "/images/posts/20260302-03.png"
+  alt: "ERW Under Fire: What the Nature Paper on Uncertainties Actually Says"
+  relative: false
 ---
 
 A new paper in *Nature Reviews Earth & Environment* has mapped out the uncertainties that still plague enhanced rock weathering (ERW) as a carbon dioxide removal strategy. Meanwhile, Germany's Thünen Institute — a federal agricultural research body — has gone further, calling ERW "not yet a reliable climate protection measure."

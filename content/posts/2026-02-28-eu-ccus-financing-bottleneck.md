@@ -3,6 +3,10 @@ title: "EU Risks Losing Heavy Industry If CCUS Deployment Stalls"
 date: 2026-02-28T14:50:00Z
 tags: ["CCUS", "EU policy", "industrial decarbonization", "carbon capture", "Net Zero Industry Act"]
 summary: "A CCSA/Deloitte analysis warns that Europe's slow CCUS financing could drive heavy industry to jurisdictions with faster-moving climate infrastructure."
+cover:
+  image: "/images/posts/20260228-03.png"
+  alt: "EU Risks Losing Heavy Industry If CCUS Deployment Stalls"
+  relative: false
 ---
 
 Europe has no shortage of carbon capture project proposals. What it lacks is bankable deals. And according to a new analysis from the Carbon Capture and Storage Association (CCSA) and Deloitte, that gap could cost the bloc both its climate targets and its industrial base.

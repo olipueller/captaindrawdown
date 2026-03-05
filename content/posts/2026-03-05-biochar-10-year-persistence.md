@@ -4,6 +4,10 @@ date: 2026-03-05
 draft: false
 tags: ["biochar", "carbon sequestration", "soil science", "CDR", "Frontiers", "permanence"]
 description: "A 10-year field study in Oregon confirms that a single biochar application maintains soil carbon gains and pH improvements for over a decade."
+cover:
+  image: "/images/posts/20260305-01.png"
+  alt: "Biochar's Carbon Benefits Last a Decade — New 10-Year Field Study Confirms"
+  relative: false
 ---
 
 One of the persistent questions about biochar as a carbon removal pathway is permanence. Spread charred biomass on a field — does it actually stay there?

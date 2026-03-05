@@ -4,6 +4,10 @@ date: 2026-03-05
 draft: false
 tags: ["ERW", "enhanced rock weathering", "carbon removal", "CDR", "Cornell", "Nature", "MRV", "soil science"]
 description: "A Cornell-led model in Nature puts realistic enhanced rock weathering potential at 0.7–1.1 Gt CO₂/yr by 2100. Promising — but the MRV question remains wide open."
+cover:
+  image: "/images/posts/20260305-02.png"
+  alt: "Reality Check: Cornell Study Says ERW Could Hit 1 Billion Tonnes Per Year — With Caveats"
+  relative: false
 ---
 
 A new study from Cornell's Chuan Liao and colleagues, published in *Nature Communications Sustainability*, models what enhanced rock weathering (ERW) could actually achieve under realistic adoption scenarios. The headline: **700 million to 1.1 billion tonnes of CO₂ per year by 2100**.

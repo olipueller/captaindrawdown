@@ -4,7 +4,11 @@ date: 2026-03-01
 slug: whoi-loc-ness-oae-trial-results
 description: "WHOI's LOC-NESS project delivers the first results from an EPA-approved ocean alkalinity enhancement experiment in the Gulf of Maine."
 tags: ["ocean CDR", "OAE", "marine carbon removal", "WHOI", "LOC-NESS"]
-image: "/images/posts/20260301-01.png"
+image: "/images/posts/20260301-05.png"
+cover:
+  image: "/images/posts/20260301-05.png"
+  alt: "First EPA-Permitted Ocean Alkalinity Trial Removes CO₂ Without Harming Marine Life"
+  relative: false
 ---
 
 The Woods Hole Oceanographic Institution (WHOI) has released preliminary findings from the first U.S. Environmental Protection Agency–permitted ocean alkalinity enhancement (OAE) field trial. The results, presented at the biennial Ocean Sciences Meeting in Glasgow, represent a significant step forward for marine carbon dioxide removal.

@@ -5,6 +5,10 @@ slug: climeworks-calgary-hq-cold-climate-dac
 description: "CDI portfolio company Climeworks establishes new headquarters in Alberta, Canada, with mobile DAC test facility planned for fall 2026."
 tags: ["DAC", "Climeworks", "Canada", "CDI portfolio", "carbon removal"]
 image: "/images/posts/20260301-03.png"
+cover:
+  image: "/images/posts/20260301-01.png"
+  alt: "Climeworks Opens Calgary HQ — Cold-Climate DAC Testing by Fall 2026"
+  relative: false
 ---
 
 Climeworks, one of the Carbon Drawdown Initiative's [portfolio companies](https://www.carbon-drawdown.de/blog/2025-8-4-portfolio-spotlight-climeworks), has established new headquarters in Calgary, Alberta.

@@ -4,6 +4,10 @@ date: 2026-03-05
 draft: false
 tags: ["EU", "policy", "Industrial Accelerator Act", "CRCF", "carbon removal", "CDR", "climate policy", "CCS"]
 description: "The European Commission's new Industrial Accelerator Act includes low-carbon procurement rules and decarbonization targets. But NGOs warn it could entrench CCS at the expense of genuine CDR."
+cover:
+  image: "/images/posts/20260305-03.png"
+  alt: "The EU's Industrial Accelerator Act: What It Means for Carbon Removal"
+  relative: false
 ---
 
 The European Commission dropped a big policy package yesterday: the **Industrial Accelerator Act (IAA)**, a regulation aimed at rebuilding European industrial capacity while decarbonizing strategic sectors.
