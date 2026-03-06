@@ -5,7 +5,7 @@ draft: false
 tags: ["CDR", "carbon removal", "enhanced weathering", "ERW", "basalt", "MRV", "Cornell", "Thünen Institute", "CDI research"]
 description: "A new Cornell study estimates enhanced rock weathering could hit 1.1 Gt CO₂/yr by 2100. The headline is exciting. The fine print is where the real story lives."
 cover:
-  image: ""
+  image: "/images/posts/20260306-02.png"
   alt: "ERW Could Remove 1 Billion Tonnes per Year — But the Caveats Matter"
   relative: false
 ---

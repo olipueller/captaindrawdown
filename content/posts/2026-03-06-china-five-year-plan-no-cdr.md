@@ -5,7 +5,7 @@ draft: false
 tags: ["CDR", "carbon removal", "China", "climate policy", "five-year plan", "carbon intensity", "renewables", "coal"]
 description: "China's 15th Five-Year Plan targets a 17% carbon intensity reduction by 2030 — but mentions nothing about carbon dioxide removal. That gap is becoming harder to ignore."
 cover:
-  image: ""
+  image: "/images/posts/20260306-03.png"
   alt: "China's New Five-Year Plan: 17% Carbon Intensity Cut, Zero CDR"
   relative: false
 ---

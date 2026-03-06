@@ -5,7 +5,7 @@ draft: false
 tags: ["CDR", "carbon removal", "Boeing", "Carbonfuture", "biochar", "aviation", "CORSIA", "Global South", "CDI portfolio"]
 description: "Boeing signs one of aviation's largest carbon removal deals — 40,000 tonnes of durable CDR through CDI portfolio company Carbonfuture's biochar projects in the Global South."
 cover:
-  image: ""
+  image: "/images/posts/20260306-01.png"
   alt: "Boeing Bets Big on Biochar — 40,000 Tonnes of Carbon Removal via Carbonfuture"
   relative: false
 ---

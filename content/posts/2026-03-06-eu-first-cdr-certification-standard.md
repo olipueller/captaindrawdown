@@ -5,7 +5,7 @@ draft: false
 tags: ["CDR", "carbon removal", "EU", "CRCF", "DACCS", "BioCCS", "biochar", "certification", "regulation", "European Commission"]
 description: "The European Commission adopts certification methodologies for DACCS, BioCCS, and biochar under the CRCF Regulation — creating the world's first voluntary standard for permanent CDR."
 cover:
-  image: ""
+  image: "/images/posts/20260306-04.png"
   alt: "EU Launches World's First Voluntary Standard for Permanent Carbon Removals"
   relative: false
 ---
