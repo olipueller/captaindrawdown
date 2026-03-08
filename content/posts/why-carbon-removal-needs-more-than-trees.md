@@ -1,5 +1,6 @@
 ---
 title: "Why Carbon Removal Needs More Than Trees"
+description: "Let me be clear upfront: trees are wonderful. Plant them. Protect them. Love them. But if your entire carbon removal strategy is \"plant more trees,\" we..."
 date: 2026-02-23T14:00:00+01:00
 tags: ["CDR", "carbon removal", "enhanced weathering", "direct air capture", "biochar", "afforestation"]
 summary: "Tree planting is great, but it's not enough. Here's why the carbon removal portfolio needs to be much, much wider."

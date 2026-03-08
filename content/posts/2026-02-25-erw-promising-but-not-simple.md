@@ -1,5 +1,6 @@
 ---
 title: "Enhanced Rock Weathering: Promising, But Not Simple"
+description: "Crush rocks, spread them on farmland, remove CO₂. On paper, Enhanced Rock Weathering (ERW) is elegantly simple. Silicate minerals react with carbon..."
 date: 2026-02-25
 tags: ["CDR", "carbon removal", "enhanced weathering", "ERW", "MRV", "Nature"]
 summary: "A new Nature paper maps the uncertainties of Enhanced Rock Weathering — from toxic trace elements to carbon tracking gaps. Here's what it means for CDR."

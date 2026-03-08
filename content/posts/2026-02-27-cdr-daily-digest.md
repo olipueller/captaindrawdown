@@ -1,5 +1,6 @@
 ---
 title: "CDR Daily Digest — 27 Feb 2026"
+description: "The carbon removal space doesn't slow down. Here's what moved yesterday."
 date: 2026-02-27T06:00:00Z
 tags: ["CDR", "carbon removal", "market intelligence", "daily digest", "OAE", "biochar", "DAC", "policy"]
 summary: "First US ocean CDR bill introduced, WHOI's alkalinity trial shows no marine harm, forward carbon credit deals hit $5.8B, and Sweden freezes a BECCS project. Your daily carbon removal roundup."

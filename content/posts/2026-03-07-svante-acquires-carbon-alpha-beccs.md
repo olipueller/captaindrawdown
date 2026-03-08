@@ -1,5 +1,6 @@
 ---
 title: "Svante Acquires Carbon Alpha: BECCS Meets First Nations Partnership"
+description: "Svante Technologies just acquired Carbon Alpha, picking up a BECCS project, a CO₂ pipeline, and a geological storage hub in Western Canada. The deal..."
 date: 2026-03-07T15:00:00+01:00
 draft: false
 tags: ["BECCS", "Canada", "acquisition", "First Nations", "CCS"]

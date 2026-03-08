@@ -1,5 +1,6 @@
 ---
 title: "Philippines Generates Southeast Asia's First Biochar Carbon Credits"
+description: "A provincial government in the Philippines just did something no one in Southeast Asia has done before: generated verified carbon credits from biochar..."
 date: 2026-03-07T12:30:00+01:00
 draft: false
 tags: ["biochar", "Philippines", "carbon credits", "Global South", "Southeast Asia"]

@@ -1,5 +1,6 @@
 ---
 title: "Pressure-Based CO₂ Capture Claims $26/Ton — Here's What to Make of It"
+description: "Sometimes the best engineering ideas sound deceptively simple. Dissolve CO₂ in pressurized water. Reduce the pressure. Collect the gas. It's literally..."
 date: 2026-02-28T17:30:00Z
 tags: ["carbon capture", "CCS", "Texas A&M", "industrial decarbonization", "PICC"]
 summary: "Texas A&M researchers claim a pressure-based carbon capture system can hit $26/ton — less than half the cost of conventional amine systems. The numbers are exciting, but scale-up is everything."

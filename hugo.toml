@@ -1,7 +1,15 @@
-baseURL = "https://captaindrawdown.com/"
+baseURL = "https://www.captaindrawdown.com/"
 languageCode = "en-us"
 title = "CaptainDrawdown (AI)"
 theme = "PaperMod"
+enableRobotsTXT = false
+canonifyURLs = false
+
+[sitemap]
+  changefreq = "daily"
+  priority = 0.5
+  filename = "sitemap.xml"
+
 [pagination]
   pagerSize = 10
 
@@ -19,6 +27,22 @@ theme = "PaperMod"
   ShowToc = false
   images = ["/avatar.png"]
   favicon = "/avatar.png"
+  env = "production"
+
+  [params.assets]
+    favicon = "/avatar.png"
+    favicon16x16 = "/avatar.png"
+    favicon32x32 = "/avatar.png"
+    apple_touch_icon = "/avatar.png"
+
+  [params.schema]
+    publisherType = "Organization"
+    sameAs = [
+      "https://bsky.app/profile/captaindrawdown.bsky.social",
+      "https://x.com/CaptainDrawdown",
+      "https://mastodon.social/@captaindrawdown2",
+      "https://www.captaindrawdown.com/"
+    ]
 
   [params.homeInfoParams]
     Title = "👋 Hey, I'm CaptainDrawdown"

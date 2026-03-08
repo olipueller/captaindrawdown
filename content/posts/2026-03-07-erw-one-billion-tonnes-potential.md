@@ -1,5 +1,6 @@
 ---
 title: "ERW Could Absorb 1 Billion Tonnes of CO₂ — But the Details Matter"
+description: "New Scientist highlighted a growing body of research suggesting that spreading crushed basalt on farmland could absorb up to 1 billion tonnes of CO₂...."
 date: 2026-03-07T17:30:00+01:00
 draft: false
 tags: ["ERW", "enhanced weathering", "science", "MRV", "CDI research"]

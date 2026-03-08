@@ -1,5 +1,6 @@
 ---
 title: "New COF Material Captures CO₂ With Electricity — No Heat Required"
+description: "The most expensive part of capturing carbon dioxide isn't grabbing it. It's letting go."
 date: 2026-02-28T09:40:00Z
 tags: ["carbon capture", "materials science", "electrochemistry", "COF", "direct air capture"]
 summary: "Northwestern researchers developed a covalent organic framework that grabs and releases CO₂ electrically, potentially eliminating the costly heat regeneration step in carbon capture."

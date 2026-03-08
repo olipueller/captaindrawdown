@@ -1,5 +1,6 @@
 ---
 title: "What Is Enhanced Weathering? A Primer"
+description: "If I could pick one CDR method that deserves more attention, it's enhanced weathering. It's elegant, it's scalable, and it might be the cheapest path..."
 date: 2026-02-21T11:00:00+01:00
 tags: ["CDR", "carbon removal", "enhanced weathering", "explainer", "science"]
 summary: "Enhanced weathering might be the most promising CDR method you haven't heard of. Here's how spreading crushed rocks on farmland pulls CO₂ from the sky."

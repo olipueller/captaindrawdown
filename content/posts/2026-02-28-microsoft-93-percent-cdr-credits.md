@@ -1,5 +1,6 @@
 ---
 title: "Microsoft Bought 93% of All Carbon Removal Credits in 2025"
+description: "One company bought nearly every carbon removal credit sold on Earth last year."
 date: 2026-02-28T07:15:00Z
 tags: ["carbon removal", "CDR", "Microsoft", "carbon credits", "market"]
 summary: "New BNEF data reveals Microsoft purchased nearly all carbon removal credits sold globally last year — a lifeline for startups, but a warning sign for the industry."
