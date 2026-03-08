@@ -5,177 +5,89 @@
     padding: 2rem 1rem;
     margin-bottom: 2rem;
   }
-  .directory-header h1 {
-    font-size: 2rem;
-    margin-bottom: 0.5rem;
-  }
-  .directory-header p {
-    color: var(--secondary);
-    font-size: 1.1rem;
-    max-width: 600px;
-    margin: 0 auto;
-  }
+  .directory-header h1 { font-size: 2rem; margin-bottom: 0.5rem; }
+  .directory-header p { color: var(--secondary); font-size: 1.1rem; max-width: 600px; margin: 0 auto; }
   .directory-stats {
-    display: flex;
-    gap: 1.5rem;
-    justify-content: center;
-    flex-wrap: wrap;
-    margin: 1.5rem 0;
+    display: flex; gap: 1.5rem; justify-content: center; flex-wrap: wrap; margin: 1.5rem 0;
   }
   .stat-box {
-    background: var(--code-bg);
-    border-radius: 8px;
-    padding: 0.8rem 1.2rem;
-    text-align: center;
-    min-width: 100px;
+    background: var(--code-bg); border-radius: 8px; padding: 0.8rem 1.2rem; text-align: center; min-width: 100px;
   }
-  .stat-box .num {
-    font-size: 1.8rem;
-    font-weight: 700;
-    color: var(--primary);
-    display: block;
+  .stat-box .num { font-size: 1.8rem; font-weight: 700; color: var(--primary); display: block; }
+  .stat-box .label { font-size: 0.8rem; color: var(--secondary); text-transform: uppercase; letter-spacing: 0.05em; }
+  .charts-section { margin-bottom: 2.5rem; }
+  .charts-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; margin-bottom: 1.5rem; }
+  .chart-box {
+    background: var(--code-bg); border-radius: 8px; padding: 1.2rem;
   }
-  .stat-box .label {
-    font-size: 0.8rem;
-    color: var(--secondary);
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
+  .chart-box h3 { margin: 0 0 1rem 0; font-size: 1rem; color: var(--secondary); }
+  .bar-chart { display: flex; flex-direction: column; gap: 0.4rem; }
+  .bar-row { display: flex; align-items: center; gap: 0.5rem; font-size: 0.8rem; }
+  .bar-label { min-width: 120px; text-align: right; color: var(--secondary); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .bar-track { flex: 1; height: 20px; background: var(--theme); border-radius: 3px; overflow: hidden; position: relative; }
+  .bar-fill { height: 100%; border-radius: 3px; transition: width 0.3s; }
+  .bar-fill.cat-bicrs { background: #4ade80; }
+  .bar-fill.cat-dac { background: #60a5fa; }
+  .bar-fill.cat-min { background: #f59e0b; }
+  .bar-fill.cat-marine { background: #06b6d4; }
+  .bar-fill.cat-country { background: #8b5cf6; }
+  .bar-count { min-width: 30px; font-size: 0.75rem; color: var(--secondary); }
+  #map-container { width: 100%; height: 400px; background: var(--code-bg); border-radius: 8px; position: relative; overflow: hidden; }
+  #world-map { width: 100%; height: 100%; }
+  .map-tooltip {
+    position: absolute; background: var(--theme); border: 1px solid var(--border); border-radius: 6px;
+    padding: 0.4rem 0.7rem; font-size: 0.8rem; pointer-events: none; display: none; z-index: 10;
+    color: var(--primary); box-shadow: 0 2px 8px rgba(0,0,0,0.3);
   }
-  .controls {
-    display: flex;
-    gap: 0.75rem;
-    flex-wrap: wrap;
-    margin-bottom: 1.5rem;
-    align-items: center;
-  }
+  .controls { display: flex; gap: 0.75rem; flex-wrap: wrap; margin-bottom: 1.5rem; align-items: center; }
   #search {
-    flex: 1;
-    min-width: 200px;
-    padding: 0.6rem 1rem;
-    border: 1px solid var(--border);
-    border-radius: 6px;
-    font-size: 1rem;
-    background: var(--theme);
-    color: var(--primary);
+    flex: 1; min-width: 200px; padding: 0.6rem 1rem; border: 1px solid var(--border);
+    border-radius: 6px; font-size: 1rem; background: var(--theme); color: var(--primary);
   }
-  #search::placeholder {
-    color: var(--secondary);
-  }
+  #search::placeholder { color: var(--secondary); }
   .filter-select {
-    padding: 0.6rem 0.8rem;
-    border: 1px solid var(--border);
-    border-radius: 6px;
-    font-size: 0.9rem;
-    background: var(--theme);
-    color: var(--primary);
-    cursor: pointer;
+    padding: 0.6rem 0.8rem; border: 1px solid var(--border); border-radius: 6px;
+    font-size: 0.9rem; background: var(--theme); color: var(--primary); cursor: pointer;
   }
-  .result-count {
-    font-size: 0.9rem;
-    color: var(--secondary);
-    margin-bottom: 1rem;
-  }
-  .company-table {
-    width: 100%;
-    border-collapse: collapse;
-    font-size: 0.9rem;
-  }
+  .result-count { font-size: 0.9rem; color: var(--secondary); margin-bottom: 1rem; }
+  .company-table { width: 100%; border-collapse: collapse; font-size: 0.9rem; }
   .company-table th {
-    text-align: left;
-    padding: 0.7rem 0.5rem;
-    border-bottom: 2px solid var(--border);
-    font-weight: 600;
-    color: var(--secondary);
-    font-size: 0.8rem;
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
-    cursor: pointer;
-    user-select: none;
-    white-space: nowrap;
+    text-align: left; padding: 0.7rem 0.5rem; border-bottom: 2px solid var(--border);
+    font-weight: 600; color: var(--secondary); font-size: 0.8rem; text-transform: uppercase;
+    letter-spacing: 0.05em; cursor: pointer; user-select: none; white-space: nowrap;
   }
-  .company-table th:hover {
-    color: var(--primary);
-  }
-  .company-table th .sort-arrow {
-    margin-left: 0.3rem;
-    opacity: 0.3;
-  }
-  .company-table th.sorted .sort-arrow {
-    opacity: 1;
-  }
-  .company-table td {
-    padding: 0.6rem 0.5rem;
-    border-bottom: 1px solid var(--border);
-    vertical-align: top;
-  }
-  .company-table tr:hover td {
-    background: var(--code-bg);
-  }
-  .company-name {
-    font-weight: 600;
-  }
-  .company-name a {
-    text-decoration: none;
-    color: var(--primary);
-  }
-  .company-name a:hover {
-    text-decoration: underline;
-  }
+  .company-table th:hover { color: var(--primary); }
+  .company-table th .sort-arrow { margin-left: 0.3rem; opacity: 0.3; }
+  .company-table th.sorted .sort-arrow { opacity: 1; }
+  .company-table td { padding: 0.6rem 0.5rem; border-bottom: 1px solid var(--border); vertical-align: top; }
+  .company-table tr:hover td { background: var(--code-bg); }
+  .company-name { font-weight: 600; }
+  .company-name a { text-decoration: none; color: var(--primary); }
+  .company-name a:hover { text-decoration: underline; }
   .cdi-badge {
-    background: #4ade80;
-    color: #1e293b;
-    font-size: 0.65rem;
-    padding: 0.15rem 0.4rem;
-    border-radius: 3px;
-    font-weight: 700;
-    margin-left: 0.4rem;
-    vertical-align: middle;
+    background: #4ade80; color: #1e293b; font-size: 0.65rem; padding: 0.15rem 0.4rem;
+    border-radius: 3px; font-weight: 700; margin-left: 0.4rem; vertical-align: middle;
   }
   .method-tag {
-    display: inline-block;
-    background: var(--code-bg);
-    border-radius: 4px;
-    padding: 0.15rem 0.5rem;
-    font-size: 0.8rem;
-    white-space: nowrap;
+    display: inline-block; background: var(--code-bg); border-radius: 4px;
+    padding: 0.15rem 0.5rem; font-size: 0.8rem; white-space: nowrap;
   }
-  .country-cell {
-    white-space: nowrap;
-  }
-  .no-results {
-    text-align: center;
-    padding: 3rem 1rem;
-    color: var(--secondary);
-  }
+  .country-cell { white-space: nowrap; }
+  .no-results { text-align: center; padding: 3rem 1rem; color: var(--secondary); }
   .attribution {
-    margin-top: 2rem;
-    padding: 1rem;
-    background: var(--code-bg);
-    border-radius: 8px;
-    font-size: 0.85rem;
-    color: var(--secondary);
-    line-height: 1.6;
+    margin-top: 2rem; padding: 1rem; background: var(--code-bg); border-radius: 8px;
+    font-size: 0.85rem; color: var(--secondary); line-height: 1.6;
   }
-  .attribution a {
-    color: var(--primary);
-  }
+  .attribution a { color: var(--primary); }
   @media (max-width: 768px) {
-    .controls {
-      flex-direction: column;
-    }
-    #search {
-      min-width: unset;
-      width: 100%;
-    }
-    .company-table {
-      font-size: 0.8rem;
-    }
-    .company-table th, .company-table td {
-      padding: 0.4rem 0.3rem;
-    }
-    .tech-col {
-      display: none;
-    }
+    .charts-grid { grid-template-columns: 1fr; }
+    .controls { flex-direction: column; }
+    #search { min-width: unset; width: 100%; }
+    .company-table { font-size: 0.8rem; }
+    .company-table th, .company-table td { padding: 0.4rem 0.3rem; }
+    .tech-col { display: none; }
+    .bar-label { min-width: 80px; font-size: 0.7rem; }
+    #map-container { height: 280px; }
   }
 </style>
 
@@ -189,47 +101,56 @@
   </div>
 </div>
 
-<div class="controls">
-  <input type="text" id="search" placeholder="Search company, country, method..." autocomplete="off">
-  <select class="filter-select" id="filter-category">
-    <option value="">All Categories</option>
-  </select>
-  <select class="filter-select" id="filter-method">
-    <option value="">All Methods</option>
-  </select>
-  <select class="filter-select" id="filter-country">
-    <option value="">All Countries</option>
-  </select>
+<div class="charts-section">
+  <div class="charts-grid">
+    <div class="chart-box">
+      <h3>📊 Companies by Method</h3>
+      <div class="bar-chart" id="chart-methods"></div>
+    </div>
+    <div class="chart-box">
+      <h3>🌍 Companies by Country (Top 15)</h3>
+      <div class="bar-chart" id="chart-countries"></div>
+    </div>
+  </div>
+  <div class="chart-box">
+    <h3>🗺️ Global Distribution</h3>
+    <div id="map-container">
+      <svg id="world-map" viewBox="0 0 1000 500"></svg>
+      <div class="map-tooltip" id="map-tooltip"></div>
+    </div>
+  </div>
 </div>
 
+<div class="controls">
+  <input type="text" id="search" placeholder="Search company, country, method..." autocomplete="off">
+  <select class="filter-select" id="filter-category"><option value="">All Categories</option></select>
+  <select class="filter-select" id="filter-method"><option value="">All Methods</option></select>
+  <select class="filter-select" id="filter-country"><option value="">All Countries</option></select>
+</div>
 <div class="result-count" id="result-count"></div>
 
 <table class="company-table" id="company-table">
   <thead>
     <tr>
-      <th data-sort="name">Company <span class="sort-arrow">↕</span></th>
+      <th data-sort="name" class="sorted">Company <span class="sort-arrow">↑</span></th>
       <th data-sort="method">Method <span class="sort-arrow">↕</span></th>
       <th data-sort="country">Country <span class="sort-arrow">↕</span></th>
       <th class="tech-col" data-sort="tech_note">Tech Note <span class="sort-arrow">↕</span></th>
     </tr>
   </thead>
-  <tbody id="company-tbody">
-  </tbody>
+  <tbody id="company-tbody"></tbody>
 </table>
-
-<div class="no-results" id="no-results" style="display:none;">
-  No companies match your filters. Try broadening your search.
-</div>
+<div class="no-results" id="no-results" style="display:none;">No companies match your filters.</div>
 
 <div class="attribution">
-  <strong>Data sources:</strong> Initial dataset from 
-  <a href="https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal" target="_blank">Grant Faber's CDR Company List</a> 
+  <strong>Data sources:</strong> Initial dataset from
+  <a href="https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal" target="_blank">Grant Faber's CDR Company List</a>
   (Jan 2026, CC BY-NC-SA 4.0). Enriched and maintained by CaptainDrawdown through daily CDR news scanning.
-  Companies flagged <span class="cdi-badge">CDI</span> are portfolio companies of the 
+  Companies flagged <span class="cdi-badge">CDI</span> are portfolio companies of the
   <a href="https://www.carbon-drawdown.de/" target="_blank">Carbon Drawdown Initiative</a>.
   <br><br>
-  <strong>Missing a company?</strong> Tell us on 
-  <a href="https://bsky.app/profile/captaindrawdown.bsky.social" target="_blank">Bluesky</a> or 
+  <strong>Missing a company?</strong> Tell us on
+  <a href="https://bsky.app/profile/captaindrawdown.bsky.social" target="_blank">Bluesky</a> or
   <a href="https://x.com/CaptainDrawdown" target="_blank">X</a>.
 </div>
 
@@ -239,12 +160,41 @@
   let sortCol = 'name';
   let sortAsc = true;
 
+  // Country centroids for map (lon, lat) — Mercator projection
+  const COUNTRY_COORDS = {
+    "United States": [-98, 39], "United Kingdom": [-2, 54], "Germany": [10, 51],
+    "Canada": [-106, 56], "Sweden": [16, 62], "Australia": [134, -25],
+    "France": [2, 47], "Switzerland": [8, 47], "India": [79, 22],
+    "Netherlands": [5, 52], "China": [104, 35], "Japan": [138, 36],
+    "Brazil": [-51, -14], "South Korea": [128, 36], "Norway": [8, 62],
+    "Denmark": [10, 56], "Finland": [26, 64], "Austria": [14, 47],
+    "Italy": [12, 42], "Spain": [-4, 40], "Ireland": [-8, 53],
+    "Belgium": [4, 51], "Israel": [35, 31], "Kenya": [38, 0],
+    "South Africa": [24, -30], "Singapore": [104, 1], "Indonesia": [115, -5],
+    "New Zealand": [174, -41], "Chile": [-71, -34], "Mexico": [-102, 23],
+    "Iceland": [-19, 65], "Portugal": [-8, 39], "Estonia": [26, 59],
+    "Czech Republic": [15, 50], "Poland": [20, 52], "Turkey": [35, 39],
+    "UAE": [54, 24], "Saudi Arabia": [45, 24], "Oman": [57, 21],
+    "Ghana": [-2, 8], "Nigeria": [8, 10], "Philippines": [122, 13],
+    "Thailand": [101, 15], "Vietnam": [108, 16], "Colombia": [-74, 4],
+    "Argentina": [-64, -34], "Peru": [-76, -10], "Morocco": [-6, 32],
+    "Egypt": [30, 27], "Tanzania": [35, -6], "Uganda": [32, 1],
+    "Rwanda": [30, -2], "Mozambique": [35, -18], "Ivory Coast": [-5, 7],
+    "Jordan": [36, 31], "Bahrain": [50, 26], "Qatar": [51, 25],
+    "Luxembourg": [6, 50], "Malta": [14, 36], "Greece": [22, 39],
+    "Romania": [25, 46], "Bulgaria": [25, 43], "Hungary": [19, 47],
+    "Slovakia": [19, 49], "Croatia": [16, 45], "Lithuania": [24, 55],
+    "Latvia": [25, 57], "Slovenia": [15, 46], "Cyprus": [33, 35],
+  };
+
   fetch('/data/companies.json')
     .then(r => r.json())
     .then(data => {
       companies = data;
       initFilters();
       renderStats();
+      renderCharts();
+      renderMap();
       render();
     });
 
@@ -252,26 +202,18 @@
     const categories = [...new Set(companies.map(c => c.category))].sort();
     const methods = [...new Set(companies.map(c => c.method))].sort();
     const countries = [...new Set(companies.map(c => c.country).filter(Boolean))].sort();
+    populateSelect('filter-category', categories, 'category');
+    populateSelect('filter-method', methods, 'method');
+    populateSelect('filter-country', countries, 'country');
+  }
 
-    const catSel = document.getElementById('filter-category');
-    categories.forEach(c => {
+  function populateSelect(id, values, field) {
+    const sel = document.getElementById(id);
+    values.forEach(v => {
       const o = document.createElement('option');
-      o.value = c; o.textContent = c + ' (' + companies.filter(x => x.category === c).length + ')';
-      catSel.appendChild(o);
-    });
-
-    const methSel = document.getElementById('filter-method');
-    methods.forEach(m => {
-      const o = document.createElement('option');
-      o.value = m; o.textContent = m + ' (' + companies.filter(x => x.method === m).length + ')';
-      methSel.appendChild(o);
-    });
-
-    const countrySel = document.getElementById('filter-country');
-    countries.forEach(c => {
-      const o = document.createElement('option');
-      o.value = c; o.textContent = c + ' (' + companies.filter(x => x.country === c).length + ')';
-      countrySel.appendChild(o);
+      o.value = v;
+      o.textContent = v + ' (' + companies.filter(c => c[field] === v).length + ')';
+      sel.appendChild(o);
     });
   }
 
@@ -281,19 +223,138 @@
     document.getElementById('method-count').textContent = new Set(companies.map(c => c.method)).size;
   }
 
+  function renderCharts() {
+    // Methods chart
+    const methodCounts = {};
+    companies.forEach(c => { methodCounts[c.method] = (methodCounts[c.method] || 0) + 1; });
+    const methodsSorted = Object.entries(methodCounts).sort((a, b) => b[1] - a[1]);
+    const maxMethod = methodsSorted[0][1];
+    const catColors = {
+      'Biochar': 'cat-bicrs', 'BECCS': 'cat-bicrs', 'BiCRS (Other)': 'cat-bicrs',
+      'Bio-oil Sequestration': 'cat-bicrs', 'Biomass Gasification': 'cat-bicrs',
+      'Biomass Sinking/Burial': 'cat-bicrs', 'Biomass Fermentation': 'cat-bicrs',
+    };
+    const methodHTML = methodsSorted.map(([m, n]) => {
+      let cls = 'cat-dac';
+      if (m.startsWith('DAC')) cls = 'cat-dac';
+      else if (catColors[m]) cls = catColors[m];
+      else if (m.includes('Ocean') || m.includes('Marine') || m.includes('Direct Ocean')) cls = 'cat-marine';
+      else if (m.includes('Mineral') || m.includes('Rock') || m.includes('Weathering')) cls = 'cat-min';
+      const pct = (n / maxMethod * 100).toFixed(0);
+      return `<div class="bar-row">
+        <span class="bar-label" title="${m}">${m}</span>
+        <div class="bar-track"><div class="bar-fill ${cls}" style="width:${pct}%"></div></div>
+        <span class="bar-count">${n}</span>
+      </div>`;
+    }).join('');
+    document.getElementById('chart-methods').innerHTML = methodHTML;
+
+    // Countries chart (top 15)
+    const countryCounts = {};
+    companies.forEach(c => { if (c.country) countryCounts[c.country] = (countryCounts[c.country] || 0) + 1; });
+    const countriesSorted = Object.entries(countryCounts).sort((a, b) => b[1] - a[1]).slice(0, 15);
+    const maxCountry = countriesSorted[0][1];
+    const countryHTML = countriesSorted.map(([c, n]) => {
+      const pct = (n / maxCountry * 100).toFixed(0);
+      return `<div class="bar-row">
+        <span class="bar-label" title="${c}">${c}</span>
+        <div class="bar-track"><div class="bar-fill cat-country" style="width:${pct}%"></div></div>
+        <span class="bar-count">${n}</span>
+      </div>`;
+    }).join('');
+    document.getElementById('chart-countries').innerHTML = countryHTML;
+  }
+
+  function renderMap() {
+    const svg = document.getElementById('world-map');
+    const tooltip = document.getElementById('map-tooltip');
+
+    // Country counts
+    const counts = {};
+    companies.forEach(c => { if (c.country) counts[c.country] = (counts[c.country] || 0) + 1; });
+    const maxCount = Math.max(...Object.values(counts));
+
+    // Simple world outline (simplified Natural Earth)
+    const worldPath = "M145,120L148,118L152,119L155,120L157,123L155,127L152,128L148,127L145,124ZM170,90L175,87L180,88L182,92L180,97L175,98L170,95ZM480,95L490,90L500,92L510,95L520,97L525,100L530,105L535,112L538,120L540,128L538,135L535,140L530,145L525,148L520,150L510,155L500,160L490,165L480,168L470,170L460,168L450,165L445,160L442,155L440,148L442,140L445,135L448,130L450,125L452,120L455,115L458,110L462,105L468,100ZM300,130L310,125L320,123L330,125L340,130L350,138L355,148L358,160L360,170L358,180L355,190L350,198L345,205L338,210L330,215L320,218L310,220L300,218L290,215L282,210L275,205L270,198L265,190L262,180L260,170L262,160L265,148L270,138L280,130ZM700,180L710,175L720,178L725,185L720,195L710,200L700,195L698,188ZM130,220L140,215L155,218L165,225L170,235L168,248L160,258L150,265L138,268L128,265L120,258L115,248L118,235Z";
+
+    // Draw a simple background world shape
+    svg.innerHTML = `
+      <rect width="1000" height="500" fill="transparent"/>
+      <g id="map-dots"></g>
+    `;
+
+    // Draw dots for each country
+    const dotsG = document.getElementById('map-dots');
+    Object.entries(counts).forEach(([country, count]) => {
+      const coords = COUNTRY_COORDS[country];
+      if (!coords) return;
+
+      // Mercator-ish projection
+      const x = ((coords[0] + 180) / 360) * 920 + 40;
+      const latRad = coords[1] * Math.PI / 180;
+      const y = 250 - (Math.log(Math.tan(Math.PI/4 + latRad/2)) / Math.PI) * 250;
+
+      const radius = Math.max(4, Math.min(25, Math.sqrt(count / maxCount) * 25));
+      const opacity = 0.4 + (count / maxCount) * 0.5;
+
+      const circle = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
+      circle.setAttribute('cx', x);
+      circle.setAttribute('cy', y);
+      circle.setAttribute('r', radius);
+      circle.setAttribute('fill', `rgba(139, 92, 246, ${opacity})`);
+      circle.setAttribute('stroke', '#8b5cf6');
+      circle.setAttribute('stroke-width', '1');
+      circle.style.cursor = 'pointer';
+
+      circle.addEventListener('mouseenter', (e) => {
+        tooltip.style.display = 'block';
+        tooltip.innerHTML = `<strong>${country}</strong>: ${count} companies`;
+        tooltip.style.left = (e.offsetX + 10) + 'px';
+        tooltip.style.top = (e.offsetY - 30) + 'px';
+      });
+      circle.addEventListener('mousemove', (e) => {
+        tooltip.style.left = (e.offsetX + 10) + 'px';
+        tooltip.style.top = (e.offsetY - 30) + 'px';
+      });
+      circle.addEventListener('mouseleave', () => {
+        tooltip.style.display = 'none';
+      });
+      circle.addEventListener('click', () => {
+        document.getElementById('filter-country').value = country;
+        render();
+        document.getElementById('company-table').scrollIntoView({behavior: 'smooth'});
+      });
+
+      dotsG.appendChild(circle);
+
+      // Add count label for big dots
+      if (count >= 20) {
+        const text = document.createElementNS('http://www.w3.org/2000/svg', 'text');
+        text.setAttribute('x', x);
+        text.setAttribute('y', y + 4);
+        text.setAttribute('text-anchor', 'middle');
+        text.setAttribute('fill', 'white');
+        text.setAttribute('font-size', '10');
+        text.setAttribute('font-weight', '600');
+        text.setAttribute('pointer-events', 'none');
+        text.textContent = count;
+        dotsG.appendChild(text);
+      }
+    });
+  }
+
   function getFiltered() {
     const q = document.getElementById('search').value.toLowerCase().trim();
     const cat = document.getElementById('filter-category').value;
     const meth = document.getElementById('filter-method').value;
     const country = document.getElementById('filter-country').value;
-
     return companies.filter(c => {
       if (cat && c.category !== cat) return false;
       if (meth && c.method !== meth) return false;
       if (country && c.country !== country) return false;
       if (q) {
-        const searchable = (c.name + ' ' + c.method + ' ' + c.country + ' ' + c.location + ' ' + c.tech_note).toLowerCase();
-        return searchable.includes(q);
+        const s = (c.name + ' ' + c.method + ' ' + c.country + ' ' + c.location + ' ' + c.tech_note).toLowerCase();
+        return s.includes(q);
       }
       return true;
     });
@@ -301,8 +362,6 @@
 
   function render() {
     let filtered = getFiltered();
-
-    // Sort
     filtered.sort((a, b) => {
       let va = (a[sortCol] || '').toLowerCase();
       let vb = (b[sortCol] || '').toLowerCase();
@@ -310,13 +369,6 @@
       if (va > vb) return sortAsc ? 1 : -1;
       return 0;
     });
-
-    // CDI companies first within sort
-    if (sortCol === 'name' && sortAsc) {
-      const cdi = filtered.filter(c => c.cdi_portfolio);
-      const rest = filtered.filter(c => !c.cdi_portfolio);
-      // Don't force CDI first — let natural sort work
-    }
 
     const tbody = document.getElementById('company-tbody');
     const noResults = document.getElementById('no-results');
@@ -326,14 +378,9 @@
       ? `Showing all ${filtered.length} companies`
       : `Showing ${filtered.length} of ${companies.length} companies`;
 
-    if (filtered.length === 0) {
-      tbody.innerHTML = '';
-      noResults.style.display = 'block';
-      return;
-    }
+    if (filtered.length === 0) { tbody.innerHTML = ''; noResults.style.display = 'block'; return; }
     noResults.style.display = 'none';
 
-    // Render max 200 at a time for performance
     const show = filtered.slice(0, 500);
     tbody.innerHTML = show.map(c => {
       const nameHtml = c.url
@@ -350,52 +397,34 @@
 
     if (filtered.length > 500) {
       tbody.innerHTML += `<tr><td colspan="4" style="text-align:center;color:var(--secondary);padding:1rem;">
-        Showing first 500 of ${filtered.length} results. Narrow your search to see more.
-      </td></tr>`;
+        Showing first 500. Narrow your search.</td></tr>`;
     }
 
-    // Update sort arrows
     document.querySelectorAll('.company-table th').forEach(th => {
       th.classList.toggle('sorted', th.dataset.sort === sortCol);
       const arrow = th.querySelector('.sort-arrow');
-      if (arrow) {
-        arrow.textContent = th.dataset.sort === sortCol ? (sortAsc ? '↑' : '↓') : '↕';
-      }
+      if (arrow) arrow.textContent = th.dataset.sort === sortCol ? (sortAsc ? '↑' : '↓') : '↕';
     });
   }
 
   function esc(s) {
     if (!s) return '';
-    return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+    return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
   }
 
-  // Event listeners
   let debounceTimer;
-  document.getElementById('search').addEventListener('input', () => {
-    clearTimeout(debounceTimer);
-    debounceTimer = setTimeout(render, 150);
-  });
-  document.getElementById('filter-category').addEventListener('change', () => {
-    document.getElementById('filter-method').value = '';
-    render();
-  });
+  document.getElementById('search').addEventListener('input', () => { clearTimeout(debounceTimer); debounceTimer = setTimeout(render, 150); });
+  document.getElementById('filter-category').addEventListener('change', () => { document.getElementById('filter-method').value = ''; render(); });
   document.getElementById('filter-method').addEventListener('change', render);
   document.getElementById('filter-country').addEventListener('change', render);
-
-  // Column sorting
   document.querySelectorAll('.company-table th[data-sort]').forEach(th => {
     th.addEventListener('click', () => {
       const col = th.dataset.sort;
-      if (sortCol === col) {
-        sortAsc = !sortAsc;
-      } else {
-        sortCol = col;
-        sortAsc = true;
-      }
+      if (sortCol === col) sortAsc = !sortAsc;
+      else { sortCol = col; sortAsc = true; }
       render();
     });
   });
 })();
 </script>
-
 {{ end }}
