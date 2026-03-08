@@ -42,3 +42,11 @@ The [Net Zero Industry Act](https://single-market-economy.ec.europa.eu/industry/
 
 - [Carbon Herald: CCSA Warns CCUS Delays Could Drive Industry Out Of The EU](https://carbonherald.com/ccsa-warns-ccus-delays-eu/)
 - [CCSA Europe Market Study](https://www.ccsassociation.org/resources/ccsa-europe-market-study/)
+
+---
+
+### 🔗 Related Reading
+
+- [Pressure-Based CO₂ Capture Claims $26/Ton — Here's What to Make of It](/posts/2026-02-28-pressure-based-co2-capture-26-per-ton/)
+- [New COF Material Captures CO₂ With Electricity — No Heat Required](/posts/2026-02-28-cof-electrochemical-carbon-capture/)
+- [Japanese Scientists Made Rubber That Eats CO₂ and Turns Into Plastic](/posts/2026-03-05-japan-co2-rubber/)

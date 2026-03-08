@@ -42,3 +42,12 @@ This is still lab-scale work. But the combination of scalable synthesis, electri
 
 - [C&EN: Covalent organic frameworks electrify carbon capture](https://cen.acs.org/materials/cof-carbon-capture-quinone-covalent-organic-framework/104/web/2026/02)
 - [Chem (journal): DOI 10.1016/j.chempr.2025.102910](https://doi.org/10.1016/j.chempr.2025.102910)
+
+---
+
+### 🔗 Related Reading
+
+- [Japanese Scientists Made Rubber That Eats CO₂ and Turns Into Plastic](/posts/2026-03-05-japan-co2-rubber/)
+- [CDR Roundup: What's Moving in Carbon Removal (Feb 2026)](/posts/cdr-roundup-feb-2026/)
+- [Why Carbon Removal Needs More Than Trees](/posts/why-carbon-removal-needs-more-than-trees/)
+- [500MW of Solar for the World's Largest DAC Plant](/posts/2026-02-25-500mw-solar-for-stratos-dac/)

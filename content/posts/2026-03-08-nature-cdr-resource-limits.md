@@ -27,7 +27,7 @@ The paper's framing is important — it doesn't argue against scaling CDR. It ar
 
 This reinforces what CDI has been writing about: the need to [shift from "Speed & Scale" to "Prove & Learn"](https://www.carbon-drawdown.de/blog/2026-2-24-cdr-must-shift-from-speed-amp-scale-to-prove-amp-learn). Rushing to gigatons without understanding resource constraints isn't ambition — it's recklessness.
 
-For enhanced weathering specifically, the mineral supply question is real but manageable. The feedstock (basalt, limestone) is abundant, but processing, transport, and application at scale still require significant energy and infrastructure. CDI's own research on ERW MRV has consistently highlighted that [understanding what's actually happening in the soil](https://carbondrawdown.substack.com/p/59-leachate-ph-macro-and-micro-scale) matters more than headline removal estimates.
+For [enhanced weathering](/posts/what-is-enhanced-weathering/) specifically, the mineral supply question is real but manageable. The feedstock (basalt, limestone) is abundant, but processing, transport, and application at scale still require significant energy and infrastructure. CDI's own research on [ERW](/posts/what-is-enhanced-weathering/) MRV has consistently highlighted that [understanding what's actually happening in the soil](https://carbondrawdown.substack.com/p/59-leachate-ph-macro-and-micro-scale) matters more than headline removal estimates.
 
 ## Bottom Line
 
@@ -38,3 +38,12 @@ Read the paper. Then read it again.
 ---
 
 *Source: [Cobo et al. (2026) — Negative emissions technologies and practices could challenge global resource supply and environmental limits, Communications Earth & Environment](https://www.nature.com/articles/s43247-026-03348-8)*
+
+---
+
+### 🔗 Related Reading
+
+- [Mercedes F1 Goes All-In on Carbon Removal — 7 New Projects Across 6 Pathways](/posts/2026-03-05-mercedes-f1-cdr-portfolio/)
+- [Mercedes F1 Builds One of Motorsport's Biggest CDR Portfolios — 18,900 Tonnes Across 6 Pathways](/posts/2026-03-08-mercedes-f1-cdr-portfolio/)
+- [Why Carbon Removal Needs More Than Trees](/posts/why-carbon-removal-needs-more-than-trees/)
+- [500MW of Solar for the World's Largest DAC Plant](/posts/2026-02-25-500mw-solar-for-stratos-dac/)

@@ -13,7 +13,7 @@ cover:
 
 Quick: which carbon removal method dominates the commercial credit market?
 
-If you guessed Direct Air Capture or Enhanced Rock Weathering, you'd be wrong. The answer is biochar — and it's not even close.
+If you guessed Direct Air Capture or [Enhanced Rock Weathering](/posts/what-is-enhanced-weathering/), you'd be wrong. The answer is biochar — and it's not even close.
 
 ## The Numbers
 
@@ -63,3 +63,12 @@ The quiet giant of CDR is growing fast. And the rest of the industry should be p
 4. Inkwood Research — [China Biochar Market Analysis](https://www.inkwoodresearch.com/china-biochar-market-the-agricultural-waste-revolution/)
 5. PR Newswire — [Varaha Launches VIPP in Côte d'Ivoire](https://www.prnewswire.co.uk/news-releases/varaha-launches-varaha-industrial-partners-program-vipp-to-scale-industrial-biochar-carbon-removal-in-cote-divoire-302692188.html) (Feb 2026)
 6. Recorder Online — [Major funding for Tribe water, biochar projects](https://www.recorderonline.com/gallery/major-funding-for-tribe-water-biochar-projects/article_787b4c65-a16d-4d52-b434-5b62e2b4e890.html) (Feb 2026)
+
+---
+
+### 🔗 Related Reading
+
+- [Microsoft Bought 93% of All Carbon Removal Credits in 2025](/posts/2026-02-28-microsoft-93-percent-cdr-credits/)
+- [Philippines Generates Southeast Asia's First Biochar Carbon Credits](/posts/2026-03-07-philippines-first-southeast-asia-biochar-credits/)
+- [Why Carbon Removal Needs More Than Trees](/posts/why-carbon-removal-needs-more-than-trees/)
+- [Japan-India Biochar Alliance: Industrial-Scale CDR Comes to Asia](/posts/green-carbon-india-biochar-partnership/)

@@ -29,7 +29,7 @@ Here's why:
 
 This is why the CDR field talks about a **portfolio** of removal methods:
 
-- **Enhanced weathering (EW):** Spreading crushed silicate rocks on agricultural land to accelerate natural CO₂-absorbing chemical reactions. Added benefit: it can improve soil health and crop yields ([Beerling et al., *Nature*, 2020](https://www.nature.com/articles/s41586-020-2448-9)). Companies like [UNDO](https://un-do.com/) and [Lithos](https://lithoscarbon.com/) are scaling this now.
+- **[Enhanced weathering](/posts/what-is-enhanced-weathering/) (EW):** Spreading crushed silicate rocks on agricultural land to accelerate natural CO₂-absorbing chemical reactions. Added benefit: it can improve soil health and crop yields ([Beerling et al., *Nature*, 2020](https://www.nature.com/articles/s41586-020-2448-9)). Companies like [UNDO](https://un-do.com/) and [Lithos](https://lithoscarbon.com/) are scaling this now.
 
 - **Direct air capture (DAC):** Giant machines that chemically scrub CO₂ from ambient air. Energy-intensive and expensive today (~$400–1,000/tonne), but costs are falling and permanence is essentially guaranteed when combined with geological storage ([WRI, 2024](https://www.wri.org/insights/direct-air-capture-resource-considerations-and-costs-carbon-removal)). [Climeworks](https://climeworks.com/) and [1PointFive](https://www.1pointfive.com/) are leading the charge.
 
@@ -61,3 +61,12 @@ I'll be tracking all of it. Stay tuned. 🌍
 10. Kalu, S. et al. (2024). "Biochar – a sustainable soil conditioner." *Frontiers in Soil Science*. [doi:10.3389/fsoil.2024.1376159](https://www.frontiersin.org/journals/soil-science/articles/10.3389/fsoil.2024.1376159/full)
 11. NOAA. "Ocean Acidification." [noaa.gov](https://www.noaa.gov/education/resource-collections/ocean-coasts/ocean-acidification)
 12. Friedlingstein, P. et al., via Carbon Brief (2020). "The oceans are absorbing more carbon than previously thought." [carbonbrief.org](https://www.carbonbrief.org/guest-post-the-oceans-are-absorbing-more-carbon-than-previously-thought/)
+
+---
+
+### 🔗 Related Reading
+
+- [CDR Roundup: What's Moving in Carbon Removal (Feb 2026)](/posts/cdr-roundup-feb-2026/)
+- [What Is Enhanced Weathering? A Primer](/posts/what-is-enhanced-weathering/)
+- [500MW of Solar for the World's Largest DAC Plant](/posts/2026-02-25-500mw-solar-for-stratos-dac/)
+- [Biochar: The Quiet Giant of Carbon Removal](/posts/2026-02-25-biochar-quiet-giant-of-cdr/)

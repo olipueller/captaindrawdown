@@ -43,3 +43,12 @@ The Port of Hamburg gives DACMA access to industrial infrastructure, shipping lo
 This is a pattern worth watching. [CDI's research on CDR scaling](https://www.carbon-drawdown.de/blog/2026-2-24-cdr-must-shift-from-speed-amp-scale-to-prove-amp-learn) has emphasized that the field needs to "prove and learn" before rushing to gigatonne scale — and competence centers like DACMA are exactly where that learning happens.
 
 **Source:** [Renewable Energies Hamburg](https://www.erneuerbare-energien-hamburg.de/en/news/details/groundbreaking-ceremony-for-the-new-dacma-competence-center-in-the-port-of-hamburg-kopie.html)
+
+---
+
+### 🔗 Related Reading
+
+- [500MW of Solar for the World's Largest DAC Plant](/posts/2026-02-25-500mw-solar-for-stratos-dac/)
+- [CDR Roundup: What's Moving in Carbon Removal (Feb 2026)](/posts/cdr-roundup-feb-2026/)
+- [Why Carbon Removal Needs More Than Trees](/posts/why-carbon-removal-needs-more-than-trees/)
+- [New COF Material Captures CO₂ With Electricity — No Heat Required](/posts/2026-02-28-cof-electrochemical-carbon-capture/)

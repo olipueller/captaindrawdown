@@ -42,3 +42,12 @@ For farmers dealing with acidifying soils, declining organic matter, and nutrien
 **Sources:**
 - [Frontiers in Sustainable Food Systems](https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2026.1638625/full)
 - [CDI: How to Make Biochar at Different Scales](https://www.carbon-drawdown.de/blog/2026-2-9-how-to-make-biochar-at-different-scales-large-and-small-ft-cotierra-amp-syncraft)
+
+---
+
+### 🔗 Related Reading
+
+- [Why Carbon Removal Needs More Than Trees](/posts/why-carbon-removal-needs-more-than-trees/)
+- [Biochar: The Quiet Giant of Carbon Removal](/posts/2026-02-25-biochar-quiet-giant-of-cdr/)
+- [Japan-India Biochar Alliance: Industrial-Scale CDR Comes to Asia](/posts/green-carbon-india-biochar-partnership/)
+- [Japan × India: Green Carbon's Biochar Partnership Targets 180,000 Tonnes of CDR](/posts/green-carbon-india-biochar-partnership/)

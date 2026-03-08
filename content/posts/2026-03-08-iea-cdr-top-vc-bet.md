@@ -32,3 +32,12 @@ The real question isn't whether CDR will attract capital. It's whether the indus
 ---
 
 *Source: [Carbon Herald — IEA: Carbon Management Technologies Gain Funding and Policy Support](https://carbonherald.com/iea-carbon-management-technologies-gain-funding-and-policy-support/) · [IEA State of Energy Innovation 2026 (PDF)](https://iea.blob.core.windows.net/assets/d24ccc77-ef68-491c-848d-b9c0ec0c484b/TheStateofEnergyInnovation2026.pdf)*
+
+---
+
+### 🔗 Related Reading
+
+- [$1.2 Billion in US DAC Hub Funding: Cancelled. What Happens Now?](/posts/2026-03-08-us-dac-hub-funding-cancelled/)
+- [CDR Roundup: What's Moving in Carbon Removal (Feb 2026)](/posts/cdr-roundup-feb-2026/)
+- [The EU's Industrial Accelerator Act: What It Means for Carbon Removal](/posts/2026-03-05-eu-industrial-accelerator-act/)
+- [Germany Puts €98 Million Into CDR — Its First Dedicated Federal Budget Line Ever](/posts/2026-03-08-germany-98m-cdr-budget/)

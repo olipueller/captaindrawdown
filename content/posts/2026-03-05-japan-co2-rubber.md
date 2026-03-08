@@ -37,3 +37,12 @@ This isn't an isolated data point. Japan's CDR ecosystem is growing fast. ENEOS 
 For a country with limited land area but massive industrial capacity, materials-based carbon capture could be a natural fit.
 
 **Source:** [Japan Forward](https://japan-forward.com/scientists-develop-new-rubber-material-that-absorbs-co2/) · [Nature Communications](https://www.nature.com/articles/s41467-025-65495-4)
+
+---
+
+### 🔗 Related Reading
+
+- [New COF Material Captures CO₂ With Electricity — No Heat Required](/posts/2026-02-28-cof-electrochemical-carbon-capture/)
+- [EU Risks Losing Heavy Industry If CCUS Deployment Stalls](/posts/2026-02-28-eu-ccus-financing-bottleneck/)
+- [Pressure-Based CO₂ Capture Claims $26/Ton — Here's What to Make of It](/posts/2026-02-28-pressure-based-co2-capture-26-per-ton/)
+- [Japan-India Biochar Alliance: Industrial-Scale CDR Comes to Asia](/posts/green-carbon-india-biochar-partnership/)

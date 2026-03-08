@@ -10,13 +10,13 @@ cover:
   relative: false
 ---
 
-New research from Cornell University modelled the global adoption potential of enhanced rock weathering and landed on a striking number: **1.1 billion tonnes of CO₂ removed per year by 2100**. That's roughly 3% of current annual fossil fuel emissions — meaningful at planetary scale.
+New research from Cornell University modelled the global adoption potential of [enhanced rock weathering](/posts/what-is-enhanced-weathering/) and landed on a striking number: **1.1 billion tonnes of CO₂ removed per year by 2100**. That's roughly 3% of current annual fossil fuel emissions — meaningful at planetary scale.
 
 The headline is exciting. The fine print is where the real story lives.
 
 ## What the Study Actually Shows
 
-The Cornell team did something most ERW projections skip: they modelled *adoption rates* rather than just theoretical capacity. Using historical data on how fast farmers adopt new practices (like irrigation), they estimated a range of 350 million to 750 million tonnes per year by 2050, scaling to 700M–1.1 Gt by 2100.
+The Cornell team did something most [ERW](/posts/what-is-enhanced-weathering/) projections skip: they modelled *adoption rates* rather than just theoretical capacity. Using historical data on how fast farmers adopt new practices (like irrigation), they estimated a range of 350 million to 750 million tonnes per year by 2050, scaling to 700M–1.1 Gt by 2100.
 
 They also found that the Global South — Asia, Latin America, sub-Saharan Africa — would eventually surpass Europe and North America in ERW deployment. Higher temperatures and rainfall accelerate weathering. Farmers in tropical regions could earn more per tonne of rock spread, making it economically viable earlier.
 
@@ -43,3 +43,12 @@ Both questions need answers. At least we're finally asking them at the same time
 ---
 
 *Sources: [New Scientist](https://www.newscientist.com/article/2517484-spreading-crushed-rock-on-farms-could-absorb-1-billion-tonnes-of-co2/) · [CDI: Soil Processes Govern Alkalinity & Cation Retention](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-5402/) · [CDI: Carbon vs Cation-Based MRV](https://www.carbon-drawdown.de/blog/2026-1-6-new-paper-carbon-vs-cation-based-mrv-for-enhanced-rock-weathering-and-why-we-should-check-how-much-soil-carbon-matters) · [Nature Reviews — Schiedung et al.](https://www.nature.com/articles/s43017-026-00761-7)*
+
+---
+
+### 🔗 Related Reading
+
+- [ERW Could Absorb 1 Billion Tonnes of CO₂ — But the Details Matter](/posts/2026-03-07-erw-one-billion-tonnes-potential/)
+- [Enhanced Rock Weathering: Promising, But Not Simple](/posts/2026-02-25-erw-promising-but-not-simple/)
+- [Reality Check: Cornell Study Says ERW Could Hit 1 Billion Tonnes Per Year — With Caveats](/posts/2026-03-05-cornell-erw-billion-tonnes/)
+- [ERW Under Fire: What the Nature Paper on Uncertainties Actually Says](/posts/erw-uncertainties-nature-paper/)

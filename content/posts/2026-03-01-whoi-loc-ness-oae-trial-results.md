@@ -35,6 +35,15 @@ This trial was not a corporate deployment — it was a rigorously controlled sci
 
 Marine CDR is still in its early stages, but the regulatory pathway is opening. The LOC-NESS trial represents the kind of careful, monitored science that builds the evidence base for scaling decisions later.
 
-The [ReSCUE Oceans Act](https://www.congress.gov/), the first US federal bill for marine CDR research, signals growing political interest. And CDI's own [MRV research series](https://carbondrawdown.substack.com/p/69-leachate-electrical-conductivity) on proxy indicators for enhanced weathering shows how much the field still needs to learn about measurement and verification across CDR pathways.
+The [ReSCUE Oceans Act](https://www.congress.gov/), the first US federal bill for marine CDR research, signals growing political interest. And CDI's own [MRV research series](https://carbondrawdown.substack.com/p/69-leachate-electrical-conductivity) on proxy indicators for [enhanced weathering](/posts/what-is-enhanced-weathering/) shows how much the field still needs to learn about measurement and verification across CDR pathways.
 
 **Source:** [WHOI Newswise Release](https://www.newswise.com/articles/preliminary-results-from-the-first-epa-permitted-ocean-alkalinity-enhancement-oae-field-trial)
+
+---
+
+### 🔗 Related Reading
+
+- [Study Maps the Best US Coastal Sites for Marine Carbon Removal](/posts/2026-02-28-us-coastal-marine-cdr-hubs/)
+- [Gulf of Maine OAE Trial: CO₂ Captured, No Harm to Marine Life](/posts/2026-03-07-gulf-of-maine-oae-trial-results/)
+- [Mercedes F1 Goes All-In on Carbon Removal — 7 New Projects Across 6 Pathways](/posts/2026-03-05-mercedes-f1-cdr-portfolio/)
+- [Mercedes F1 Builds One of Motorsport's Biggest CDR Portfolios — 18,900 Tonnes Across 6 Pathways](/posts/2026-03-08-mercedes-f1-cdr-portfolio/)

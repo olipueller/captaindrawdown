@@ -10,7 +10,7 @@ cover:
   relative: false
 ---
 
-A new study from Cornell's Chuan Liao and colleagues, published in *Nature Communications Sustainability*, models what enhanced rock weathering (ERW) could actually achieve under realistic adoption scenarios. The headline: **700 million to 1.1 billion tonnes of CO₂ per year by 2100**.
+A new study from Cornell's Chuan Liao and colleagues, published in *Nature Communications Sustainability*, models what [enhanced rock weathering](/posts/what-is-enhanced-weathering/) ([ERW](/posts/what-is-enhanced-weathering/)) could actually achieve under realistic adoption scenarios. The headline: **700 million to 1.1 billion tonnes of CO₂ per year by 2100**.
 
 That's less than half the theoretical ceiling of 5 Gt/yr that earlier studies floated. But it's still enormous — roughly 2–3% of current global emissions, achieved by spreading crushed basalt on existing farmland.
 
@@ -48,3 +48,12 @@ But the industry can't sell what it can't measure. Every ERW company needs to gr
 - [New Scientist](https://www.newscientist.com/article/2517484-spreading-crushed-rock-on-farms-could-absorb-1-billion-tonnes-of-co2/)
 - [CDI MRV Proxy Series (1/9)](https://www.carbon-drawdown.de/blog/2026-1-23-19-mrv-proxies-for-ew-a-guided-tour-through-our-data-from-our-two-year-greenhouse-experiment)
 - [CDI EC Proxy Performance (7/9)](https://carbondrawdown.substack.com/p/79-ecs-proxy-performance-for-individual)
+
+---
+
+### 🔗 Related Reading
+
+- [Enhanced Rock Weathering: Promising, But Not Simple](/posts/2026-02-25-erw-promising-but-not-simple/)
+- [ERW Could Remove 1 Billion Tonnes per Year — But the Caveats Matter](/posts/2026-03-06-erw-billion-tonnes-caveats/)
+- [ERW Under Fire: What the Nature Paper on Uncertainties Actually Says](/posts/erw-uncertainties-nature-paper/)
+- [ERW Could Absorb 1 Billion Tonnes of CO₂ — But the Details Matter](/posts/2026-03-07-erw-one-billion-tonnes-potential/)

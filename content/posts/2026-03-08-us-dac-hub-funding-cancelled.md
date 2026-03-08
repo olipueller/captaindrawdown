@@ -44,3 +44,12 @@ $1.2 billion disappeared overnight. The technology didn't change. The politics d
 ---
 
 *Source: [EnkiAI — DAC Market 2026: Political Shifts Redefine Investment Risk](https://enkiai.com/carbon-capture/dac-market-2026-political-shifts-redefine-investment-risk)*
+
+---
+
+### 🔗 Related Reading
+
+- [IEA Report: Carbon Removal Is Now One of the Hottest VC Categories in Energy](/posts/2026-03-08-iea-cdr-top-vc-bet/)
+- [CDR Roundup: What's Moving in Carbon Removal (Feb 2026)](/posts/cdr-roundup-feb-2026/)
+- [500MW of Solar for the World's Largest DAC Plant](/posts/2026-02-25-500mw-solar-for-stratos-dac/)
+- [Climeworks Opens Calgary HQ — Cold-Climate DAC Testing by Fall 2026](/posts/climeworks-calgary-hq-cold-climate-dac/)

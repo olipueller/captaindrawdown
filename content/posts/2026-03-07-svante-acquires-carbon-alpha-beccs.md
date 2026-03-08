@@ -36,3 +36,12 @@ CDI tracks BECCS alongside other CDR pathways because the diversity of approache
 ---
 
 *Source: [Carbon Herald](https://carbonherald.com/svante-acquires-canada-based-cdr-developer-carbon-alpha/)*
+
+---
+
+### 🔗 Related Reading
+
+- [Pressure-Based CO₂ Capture Claims $26/Ton — Here's What to Make of It](/posts/2026-02-28-pressure-based-co2-capture-26-per-ton/)
+- [Climeworks Opens Calgary HQ — Cold-Climate DAC Testing by Fall 2026](/posts/climeworks-calgary-hq-cold-climate-dac/)
+- [The EU's Industrial Accelerator Act: What It Means for Carbon Removal](/posts/2026-03-05-eu-industrial-accelerator-act/)
+- [Mercedes F1 Goes All-In on Carbon Removal — 7 New Projects Across 6 Pathways](/posts/2026-03-05-mercedes-f1-cdr-portfolio/)

@@ -77,3 +77,12 @@ Enhanced weathering isn't a silver bullet. Nothing is. But it might be the most 
 4. UNDO Carbon (2024). "New Study Shows The Agronomic Benefits of Enhanced Rock Weathering." [un-do.com](https://un-do.com/resources/blog/new-study-shows-the-agronomic-benefits-of-enhanced-rock-weathering/)
 5. Beerling, D.J. et al. (2020). "Potential for large-scale CO₂ removal via enhanced rock weathering with croplands." *Nature*, 583, 242–248. [doi:10.1038/s41586-020-2448-9](https://www.nature.com/articles/s41586-020-2448-9)
 6. Amann, T. et al. (2024). "Enhanced weathering in the US Corn Belt delivers carbon removal with agronomic benefits." *PNAS*. [doi:10.1073/pnas.2319436121](https://www.pnas.org/doi/10.1073/pnas.2319436121)
+
+---
+
+### 🔗 Related Reading
+
+- [ERW Could Absorb 1 Billion Tonnes of CO₂ — But the Details Matter](/posts/2026-03-07-erw-one-billion-tonnes-potential/)
+- [CDR Roundup: What's Moving in Carbon Removal (Feb 2026)](/posts/cdr-roundup-feb-2026/)
+- [Why Carbon Removal Needs More Than Trees](/posts/why-carbon-removal-needs-more-than-trees/)
+- [Enhanced Rock Weathering: Promising, But Not Simple](/posts/2026-02-25-erw-promising-but-not-simple/)

@@ -34,3 +34,12 @@ For DAC in Africa, the question was never "can it work here?" — the geology an
 ---
 
 *Source: [Carbon Herald](https://carbonherald.com/octavia-carbon-secures-an-offtake-agreement-via-carbon-direct/)*
+
+---
+
+### 🔗 Related Reading
+
+- [Climeworks Opens Calgary HQ — Cold-Climate DAC Testing by Fall 2026](/posts/climeworks-calgary-hq-cold-climate-dac/)
+- [Boeing Bets Big on Biochar — 40,000 Tonnes of Carbon Removal via Carbonfuture](/posts/2026-03-06-boeing-carbonfuture-40k-tonnes/)
+- [500MW of Solar for the World's Largest DAC Plant](/posts/2026-02-25-500mw-solar-for-stratos-dac/)
+- [Hamburg Breaks Ground on DACMA: German DAC Engineering Goes Global](/posts/dacma-hamburg-dac-competence-center/)

@@ -45,3 +45,11 @@ These aren't glamorous questions, but they're the ones that determine whether a 
 ## Sources
 
 - [AZoCleantech: New Study Identifies Prime US Coastal Sites for Carbon Removal](https://www.azocleantech.com/news.aspx?newsID=36190)
+
+---
+
+### 🔗 Related Reading
+
+- [First EPA-Permitted Ocean Alkalinity Trial Removes CO₂ Without Harming Marine Life](/posts/whoi-loc-ness-oae-trial-results/)
+- [New COF Material Captures CO₂ With Electricity — No Heat Required](/posts/2026-02-28-cof-electrochemical-carbon-capture/)
+- [Gulf of Maine OAE Trial: CO₂ Captured, No Harm to Marine Life](/posts/2026-03-07-gulf-of-maine-oae-trial-results/)

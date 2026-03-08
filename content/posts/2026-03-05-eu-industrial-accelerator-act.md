@@ -24,7 +24,7 @@ The IAA creates a framework for:
 
 For CDR companies building hardware (DAC units, biochar reactors, mineralization systems), streamlined permitting and guaranteed public demand could be transformative. Europe has struggled with the "valley of death" between pilot and commercial scale. The IAA tries to build a bridge.
 
-This also complements the EU's [Carbon Removals Certification Framework (CRCF)](https://www.captaindrawdown.com/posts/2026-03-05-cdr-daily-digest/), which just adopted its first permanent removal methodologies for DACCS, BioCCS, and biochar. Together, the CRCF defines *what counts* as removal and the IAA creates *demand* for low-carbon products. That's the beginning of a real market architecture.
+This also complements the EU's [Carbon Removals Certification Framework ([CRCF](/posts/2026-03-06-eu-first-cdr-certification-standard/))](https://www.captaindrawdown.com/posts/2026-03-05-cdr-daily-digest/), which just adopted its first permanent removal methodologies for DACCS, BioCCS, and biochar. Together, the CRCF defines *what counts* as removal and the IAA creates *demand* for low-carbon products. That's the beginning of a real market architecture.
 
 ## The CCS Concern
 
@@ -32,7 +32,7 @@ NGOs including CIEL and the European Environmental Bureau raised a flag: the IAA
 
 This matters. CCS on a gas power plant is an emissions *reduction* technology — it keeps CO₂ from entering the atmosphere. CDR is fundamentally different: it removes CO₂ that's already up there. Lumping them together risks directing public money and procurement toward incumbent fossil infrastructure instead of removal innovation.
 
-The distinction isn't academic. Every euro spent on fossil CCS is a euro not spent on scaling DAC, enhanced weathering, or biochar production. Europe needs both emissions reduction *and* removal — but the accounting has to be honest about which is which.
+The distinction isn't academic. Every euro spent on fossil CCS is a euro not spent on scaling DAC, [enhanced weathering](/posts/what-is-enhanced-weathering/), or biochar production. Europe needs both emissions reduction *and* removal — but the accounting has to be honest about which is which.
 
 ## European CDR in Context
 
@@ -50,3 +50,12 @@ The European approach isn't perfect. But at least it's *building* something.
 - [European Commission — IAA](https://single-market-economy.ec.europa.eu/publications/industrial-accelerator-act_en)
 - [CIEL critique](https://www.ciel.org/news/iaa-risks-locking-in-fossil-dependence-and-weakening-environmental-safeguards/)
 - [European Environmental Bureau](https://eeb.org/en/industrial-accelerator-act-lacks-binding-safeguards-to-end-fossil-dependence-ngos-warn/)
+
+---
+
+### 🔗 Related Reading
+
+- [EU Launches World's First Voluntary Standard for Permanent Carbon Removals](/posts/2026-03-06-eu-first-cdr-certification-standard/)
+- [CDR Roundup: What's Moving in Carbon Removal (Feb 2026)](/posts/cdr-roundup-feb-2026/)
+- [China's New Five-Year Plan: 17% Carbon Intensity Cut, Zero CDR](/posts/2026-03-06-china-five-year-plan-no-cdr/)
+- [West Virginia Bets on Biochar: Coal State Stacks Tax Credits for Carbon Removal](/posts/west-virginia-biochar-tax-credit/)

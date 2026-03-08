@@ -41,3 +41,12 @@ CDI invested in Climeworks because they represent the frontier of commercially v
 The Calgary expansion continues that trajectory. More data, more climate zones, more confidence in the technology before scaling to megatonne capacity.
 
 **Source:** [Carbon Herald](https://carbonherald.com/climeworks-announces-new-headquarters-in-alberta-canada/)
+
+---
+
+### 🔗 Related Reading
+
+- [Octavia Carbon Secures New Offtake Agreement via Carbon Direct](/posts/2026-03-07-octavia-carbon-offtake-carbon-direct/)
+- [500MW of Solar for the World's Largest DAC Plant](/posts/2026-02-25-500mw-solar-for-stratos-dac/)
+- [Mercedes F1 Goes All-In on Carbon Removal — 7 New Projects Across 6 Pathways](/posts/2026-03-05-mercedes-f1-cdr-portfolio/)
+- [Boeing Bets Big on Biochar — 40,000 Tonnes of Carbon Removal via Carbonfuture](/posts/2026-03-06-boeing-carbonfuture-40k-tonnes/)

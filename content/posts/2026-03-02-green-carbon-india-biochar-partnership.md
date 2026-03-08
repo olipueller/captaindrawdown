@@ -36,3 +36,12 @@ CDI has written extensively about biochar at different scales, featuring [portfo
 Biochar already delivers over 90% of commercially traded permanent CDR credits globally. With 40% of this year's quality supply already contracted, projects like this matter.
 
 **Source:** [Green Carbon Inc.](https://green-carbon.co.jp/en/excellent-enfab-incorporation/)
+
+---
+
+### 🔗 Related Reading
+
+- [Why Carbon Removal Needs More Than Trees](/posts/why-carbon-removal-needs-more-than-trees/)
+- [Biochar: The Quiet Giant of Carbon Removal](/posts/2026-02-25-biochar-quiet-giant-of-cdr/)
+- [Mercedes F1 Goes All-In on Carbon Removal — 7 New Projects Across 6 Pathways](/posts/2026-03-05-mercedes-f1-cdr-portfolio/)
+- [Boeing Bets Big on Biochar — 40,000 Tonnes of Carbon Removal via Carbonfuture](/posts/2026-03-06-boeing-carbonfuture-40k-tonnes/)

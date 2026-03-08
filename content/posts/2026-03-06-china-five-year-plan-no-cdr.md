@@ -28,7 +28,7 @@ Nowhere. The plan mentions renewable energy targets, coal replacement goals (30 
 
 This is a big deal because China is rapidly becoming the world's largest *cumulative* emitter. The historical-emissions argument that justified slower action is running out of runway.
 
-For CDR specifically, China's absence from the market is significant. The country has enormous potential for enhanced weathering (vast agricultural lands, basalt deposits), BECCS (biomass resources), and mineralization (industrial waste streams). But without policy signals, none of that potential translates into projects.
+For CDR specifically, China's absence from the market is significant. The country has enormous potential for [enhanced weathering](/posts/what-is-enhanced-weathering/) (vast agricultural lands, basalt deposits), BECCS (biomass resources), and mineralization (industrial waste streams). But without policy signals, none of that potential translates into projects.
 
 ## The Contrast With This Week's Other News
 
@@ -44,3 +44,12 @@ That gap will eventually close. The physics demands it. But "eventually" is doin
 ---
 
 *Sources: [Reuters](https://www.reuters.com/sustainability/climate-energy/china-plans-cut-carbon-dioxide-emissions-per-unit-gdp-by-around-38-2026-2026-03-05/) · [Xinhua](https://english.news.cn/20260305/a13c16b4907c489588e4e32835c1d3c1/c.html)*
+
+---
+
+### 🔗 Related Reading
+
+- [The EU's Industrial Accelerator Act: What It Means for Carbon Removal](/posts/2026-03-05-eu-industrial-accelerator-act/)
+- [What Is Enhanced Weathering? A Primer](/posts/what-is-enhanced-weathering/)
+- [CDR Roundup: What's Moving in Carbon Removal (Feb 2026)](/posts/cdr-roundup-feb-2026/)
+- [Why Carbon Removal Needs More Than Trees](/posts/why-carbon-removal-needs-more-than-trees/)

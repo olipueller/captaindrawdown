@@ -37,3 +37,12 @@ The question now shifts to supply. Can biochar projects scale fast enough to mee
 ---
 
 *Sources: [ESG News](https://esgnews.com/boeing-secures-40000-tonnes-of-durable-carbon-removal-credits-in-multi-year-deal-with-carbonfuture/) · [Carbon Herald](https://carbonherald.com/boeing-inks-a-new-deal-with-carbonfuture-for-one-of-aviations-boldest-cdr-procurements/) · [CDI Portfolio Spotlight: Carbonfuture](https://www.carbon-drawdown.de/blog/2025-10-9-portfolio-spotlight-carbonfuture-a-digital-infrastructure-for-carbon-removal)*
+
+---
+
+### 🔗 Related Reading
+
+- [Octavia Carbon Secures New Offtake Agreement via Carbon Direct](/posts/2026-03-07-octavia-carbon-offtake-carbon-direct/)
+- [Philippines Generates Southeast Asia's First Biochar Carbon Credits](/posts/2026-03-07-philippines-first-southeast-asia-biochar-credits/)
+- [Why Carbon Removal Needs More Than Trees](/posts/why-carbon-removal-needs-more-than-trees/)
+- [Biochar: The Quiet Giant of Carbon Removal](/posts/2026-02-25-biochar-quiet-giant-of-cdr/)

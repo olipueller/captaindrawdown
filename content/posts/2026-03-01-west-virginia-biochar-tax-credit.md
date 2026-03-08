@@ -43,3 +43,12 @@ WVU is already part of MASbio, a research consortium studying biochar sustainabi
 The Global Carbon Council recently launched a [public consultation on a biochar carbon removal methodology](https://globalcarboncouncil.com/gcc-opens-public-stakeholder-consultation-on-draft-methodology-for-durable-biochar-production/), and biochar credit prices have stabilized around $150/tCO₂e. With both policy support and market pricing improving, biochar is moving from niche to mainstream.
 
 **Source:** [The Real WV](https://therealwv.com/2026/02/26/senate-hopes-to-incentivize-biochar-companies-to-locate-in-wv/)
+
+---
+
+### 🔗 Related Reading
+
+- [Germany Puts €98 Million Into CDR — Its First Dedicated Federal Budget Line Ever](/posts/2026-03-08-germany-98m-cdr-budget/)
+- [CDR Roundup: What's Moving in Carbon Removal (Feb 2026)](/posts/cdr-roundup-feb-2026/)
+- [Why Carbon Removal Needs More Than Trees](/posts/why-carbon-removal-needs-more-than-trees/)
+- [Biochar: The Quiet Giant of Carbon Removal](/posts/2026-02-25-biochar-quiet-giant-of-cdr/)

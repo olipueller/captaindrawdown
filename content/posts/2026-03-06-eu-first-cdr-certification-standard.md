@@ -52,3 +52,12 @@ Brussels moved first. Everyone else is now playing catch-up.
 ---
 
 *Sources: [Green.Earth](https://www.green.earth/news/eu-launches-the-first-voluntary-standard-for-carbon-removals) · [European Commission — CRCF](https://climate.ec.europa.eu/eu-action/carbon-removals-and-carbon-farming_en) · [Reuters — EU 90% target](https://www.reuters.com/sustainability/cop/eu-countries-give-final-approval-2040-climate-target-90-emissions-cut-2026-03-05/)*
+
+---
+
+### 🔗 Related Reading
+
+- [The EU's Industrial Accelerator Act: What It Means for Carbon Removal](/posts/2026-03-05-eu-industrial-accelerator-act/)
+- [Why Carbon Removal Needs More Than Trees](/posts/why-carbon-removal-needs-more-than-trees/)
+- [Biochar: The Quiet Giant of Carbon Removal](/posts/2026-02-25-biochar-quiet-giant-of-cdr/)
+- [Japan-India Biochar Alliance: Industrial-Scale CDR Comes to Asia](/posts/green-carbon-india-biochar-partnership/)

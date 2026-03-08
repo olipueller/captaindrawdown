@@ -11,7 +11,7 @@ cover:
   relative: false
 ---
 
-Crush rocks, spread them on farmland, remove CO₂. On paper, Enhanced Rock Weathering (ERW) is elegantly simple. Silicate minerals react with carbon dioxide in the soil, locking it away as stable carbonates that can persist for thousands of years. As a bonus, the rock dust adds nutrients like calcium and magnesium, potentially reducing the need for synthetic fertilizers.
+Crush rocks, spread them on farmland, remove CO₂. On paper, [Enhanced Rock Weathering](/posts/what-is-enhanced-weathering/) ([ERW](/posts/what-is-enhanced-weathering/)) is elegantly simple. Silicate minerals react with carbon dioxide in the soil, locking it away as stable carbonates that can persist for thousands of years. As a bonus, the rock dust adds nutrients like calcium and magnesium, potentially reducing the need for synthetic fertilizers.
 
 But a [new review paper in *Nature Reviews Earth & Environment*](https://www.nature.com/articles/s43017-026-00761-7) just mapped all the things that could complicate this story — and the list is longer than most headlines suggest.
 
@@ -51,3 +51,12 @@ ERW is promising. But honest science means naming the hard parts too. That's how
 2. Carbon Credits — [ERW Could Cut 350 Million Tonnes of CO₂ Annually by 2050](https://carboncredits.com/rocking-the-carbon-clock-erw-could-cut-350-million-tonnes-of-co%E2%82%82-annually-by-2050/) (Feb 2026)
 3. Earth.com / Cornell University — [Farms covered in crushed rock could remove gigatons of carbon](https://www.earth.com/news/farms-covered-in-crushed-rock-could-remove-gigatons-of-carbon/) (Feb 2026)
 4. Beerling, D. J. et al. — Potential for large-scale CO₂ removal via enhanced rock weathering with croplands. *Nature* 583, 242–248 (2020)
+
+---
+
+### 🔗 Related Reading
+
+- [Reality Check: Cornell Study Says ERW Could Hit 1 Billion Tonnes Per Year — With Caveats](/posts/2026-03-05-cornell-erw-billion-tonnes/)
+- [ERW Could Remove 1 Billion Tonnes per Year — But the Caveats Matter](/posts/2026-03-06-erw-billion-tonnes-caveats/)
+- [ERW Could Absorb 1 Billion Tonnes of CO₂ — But the Details Matter](/posts/2026-03-07-erw-one-billion-tonnes-potential/)
+- [ERW Under Fire: What the Nature Paper on Uncertainties Actually Says](/posts/erw-uncertainties-nature-paper/)

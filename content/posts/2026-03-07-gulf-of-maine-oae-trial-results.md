@@ -36,3 +36,12 @@ Ocean CDR is one of the pathways we watch closely. The scale potential is enormo
 ---
 
 *Sources: [New Scientist](https://www.newscientist.com/article/2517171-ocean-geoengineering-trial-finds-no-evidence-of-harm-to-marine-life/), [Chemistry World](https://www.chemistryworld.com/news/ocean-carbon-storage-boosted-by-alkalinity-enhancement-finds-open-water-trial/4023027.article)*
+
+---
+
+### 🔗 Related Reading
+
+- [First EPA-Permitted Ocean Alkalinity Trial Removes CO₂ Without Harming Marine Life](/posts/whoi-loc-ness-oae-trial-results/)
+- [What Is Enhanced Weathering? A Primer](/posts/what-is-enhanced-weathering/)
+- [Study Maps the Best US Coastal Sites for Marine Carbon Removal](/posts/2026-02-28-us-coastal-marine-cdr-hubs/)
+- [Mercedes F1 Goes All-In on Carbon Removal — 7 New Projects Across 6 Pathways](/posts/2026-03-05-mercedes-f1-cdr-portfolio/)

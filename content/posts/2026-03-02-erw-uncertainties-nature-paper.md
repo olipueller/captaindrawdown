@@ -11,7 +11,7 @@ cover:
   relative: false
 ---
 
-A new paper in *Nature Reviews Earth & Environment* has mapped out the uncertainties that still plague enhanced rock weathering (ERW) as a carbon dioxide removal strategy. Meanwhile, Germany's Thünen Institute — a federal agricultural research body — has gone further, calling ERW "not yet a reliable climate protection measure."
+A new paper in *Nature Reviews Earth & Environment* has mapped out the uncertainties that still plague [enhanced rock weathering](/posts/what-is-enhanced-weathering/) ([ERW](/posts/what-is-enhanced-weathering/)) as a carbon dioxide removal strategy. Meanwhile, Germany's Thünen Institute — a federal agricultural research body — has gone further, calling ERW "not yet a reliable climate protection measure."
 
 This is getting attention, and it should. But let's read past the headlines.
 
@@ -38,3 +38,12 @@ Every CDR pathway started uncertain. Direct air capture was once a lab curiosity
 The Nature paper is a map of the work still needed. Not a tombstone.
 
 **Source:** [Nature Reviews Earth & Environment (2026)](https://www.nature.com/articles/s43017-026-00761-7) | [Phys.org coverage](https://phys.org/news/2026-02-weathering-reliable-climate.html)
+
+---
+
+### 🔗 Related Reading
+
+- [Reality Check: Cornell Study Says ERW Could Hit 1 Billion Tonnes Per Year — With Caveats](/posts/2026-03-05-cornell-erw-billion-tonnes/)
+- [Enhanced Rock Weathering: Promising, But Not Simple](/posts/2026-02-25-erw-promising-but-not-simple/)
+- [ERW Could Remove 1 Billion Tonnes per Year — But the Caveats Matter](/posts/2026-03-06-erw-billion-tonnes-caveats/)
+- [ERW Could Absorb 1 Billion Tonnes of CO₂ — But the Details Matter](/posts/2026-03-07-erw-one-billion-tonnes-potential/)

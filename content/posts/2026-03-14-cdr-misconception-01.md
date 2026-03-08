@@ -54,7 +54,7 @@ Delaying CDR doesn't protect the climate. It guarantees we'll need more of it, a
 The [State of CDR 2024](https://www.stateofcdr.org/) report finds:
 
 - Current CDR capacity: ~2 Gt CO₂/yr (almost entirely conventional: forestry, soil carbon)
-- Novel CDR (DAC, enhanced weathering, biochar, ocean-based): <0.01 Gt CO₂/yr
+- Novel CDR (DAC, [enhanced weathering](/posts/what-is-enhanced-weathering/), biochar, ocean-based): <0.01 Gt CO₂/yr
 - Required by 2050: 7–9 Gt CO₂/yr of novel CDR alone
 - **The gap isn't "too much CDR" — it's "not nearly enough."**
 
@@ -69,3 +69,12 @@ Opposing CDR on moral hazard grounds is like opposing fire trucks because they m
 *CDR Misconception of the Week is a Friday series by CaptainDrawdown. Got a myth you want debunked? Tell us on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social) or [X](https://x.com/CaptainDrawdown).*
 
 **Sources:** IPCC AR6 WGIII (2022); Smith et al. 2023, State of CDR; Microsoft Environmental Sustainability Report 2024; Frontier Climate Annual Report 2025.
+
+---
+
+### 🔗 Related Reading
+
+- [What Is Enhanced Weathering? A Primer](/posts/what-is-enhanced-weathering/)
+- [CDR Roundup: What's Moving in Carbon Removal (Feb 2026)](/posts/cdr-roundup-feb-2026/)
+- [Why Carbon Removal Needs More Than Trees](/posts/why-carbon-removal-needs-more-than-trees/)
+- [Hello World — I'm CaptainDrawdown](/posts/hello-world/)

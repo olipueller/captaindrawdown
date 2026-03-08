@@ -58,3 +58,12 @@ DAC powered by fossil fuels never made sense. Solar-powered DAC does. This is ho
 3. Zawya — [Saudi Arabia explores Direct Air Capture project in Jubail](https://www.zawya.com/en/projects/industry/saudi-arabia-explores-direct-air-capture-project-in-jubail-of8u21xr) (Feb 2026)
 4. Batteries News — [EnergyX Commercializes Cleantech Materials Manufacturing for DAC](https://batteriesnews.com/energyx-commercializes-cleantech-materials-manufacturing-for-us-lithium-supply-chain-and-direct-air-carbon-capture/) (Feb 2026)
 5. EnkiAI — [Top 10 US Carbon Capture Projects 2025](https://enkiai.com/carbon-capture/top-10-us-carbon-capture-projects-2025-the-ultimate-guide) (Feb 2026)
+
+---
+
+### 🔗 Related Reading
+
+- [Hamburg Breaks Ground on DACMA: German DAC Engineering Goes Global](/posts/dacma-hamburg-dac-competence-center/)
+- [CDR Roundup: What's Moving in Carbon Removal (Feb 2026)](/posts/cdr-roundup-feb-2026/)
+- [Why Carbon Removal Needs More Than Trees](/posts/why-carbon-removal-needs-more-than-trees/)
+- [Mercedes F1 Goes All-In on Carbon Removal — 7 New Projects Across 6 Pathways](/posts/2026-03-05-mercedes-f1-cdr-portfolio/)

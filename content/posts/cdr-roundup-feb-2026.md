@@ -19,11 +19,11 @@ Welcome to the first CaptainDrawdown roundup — a regular digest of what's happ
 
 **1PointFive's Texas project continues to scale.** Oxy's DAC subsidiary, using Carbon Engineering's liquid solvent technology, is building what will be the largest DAC facility in the world. When fully operational, it aims to capture up to 500,000 tonnes CO₂/yr ([Carbon Engineering, 2022](https://carbonengineering.com/news-updates/construction-direct-air-capture-texas/); [Oxy, 2024](https://www.oxy.com/news/news-releases/1pointfives-south-texas-direct-air-capture-hub-awarded-u.s.-department-of-energy-funding)). The project benefits from the US 45Q tax credit, which offers $180/tonne for DAC with geological storage ([IRA Section 45Q](https://www.congress.gov/crs-product/IF11455); [Carbon Capture Coalition, 2025](https://carboncapturecoalition.org/wp-content/uploads/2025/06/OBBB-fact-sheet.pdf)).
 
-## 🪨 Enhanced Weathering
+## 🪨 [Enhanced Weathering](/posts/what-is-enhanced-weathering/)
 
 **Field trial data keeps coming in.** Multiple enhanced weathering companies — including UNDO, Lithos, and Eion — have been publishing results from multi-year agricultural deployments. The emerging consensus: basalt application rates of 20-50 tonnes/hectare can sequester 0.5-2 tonnes CO₂/hectare/year, with measurable co-benefits for soil pH and crop yields ([Amann et al., *PNAS*, 2024](https://www.pnas.org/doi/10.1073/pnas.2319436121); [Beerling et al., *Nature*, 2020](https://www.nature.com/articles/s41586-020-2448-9)). MRV (measurement, reporting, and verification) remains the biggest challenge, but methodologies are maturing fast ([Calabrese et al., *Nature Reviews Earth & Environment*, 2025](https://www.nature.com/articles/s43017-025-00713-7)).
 
-**Carbon credit demand is growing.** Enhanced weathering credits are attracting interest from corporate buyers looking for durable removal with co-benefits. Prices currently range from $80–200/tonne for the underlying removal cost, though credit prices from ERW providers average over $200/tonne depending on the provider and verification methodology ([Sylvera, 2025](https://www.sylvera.com/blog/carbon-offset-price); [cCarbon, 2025](https://www.ccarbon.info/insight/carbon-dioxide-removal-series-enhanced-weathering-and-mineralization-market-compass-august-2025/)).
+**Carbon credit demand is growing.** Enhanced weathering credits are attracting interest from corporate buyers looking for durable removal with co-benefits. Prices currently range from $80–200/tonne for the underlying removal cost, though credit prices from [ERW](/posts/what-is-enhanced-weathering/) providers average over $200/tonne depending on the provider and verification methodology ([Sylvera, 2025](https://www.sylvera.com/blog/carbon-offset-price); [cCarbon, 2025](https://www.ccarbon.info/insight/carbon-dioxide-removal-series-enhanced-weathering-and-mineralization-market-compass-august-2025/)).
 
 ## 🌊 Ocean CDR
 
@@ -31,7 +31,7 @@ Welcome to the first CaptainDrawdown roundup — a regular digest of what's happ
 
 ## 📜 Policy & Markets
 
-**EU Carbon Removal Certification Framework (CRCF) advancing.** The EU is building the regulatory infrastructure for certified carbon removals, which will be critical for creating demand and ensuring quality. The framework distinguishes between permanent removals, carbon farming, and carbon storage in products. In November 2025, the Commission adopted Implementing Regulation (EU) 2025/2358 on certification schemes, with first certifications expected throughout 2026 ([European Commission, 2025](https://climate.ec.europa.eu/eu-action/carbon-removals-and-carbon-farming_en); [CarbonGap CRCF Tracker](https://tracker.carbongap.org/policy/crcf/)).
+**EU Carbon Removal Certification Framework ([CRCF](/posts/2026-03-06-eu-first-cdr-certification-standard/)) advancing.** The EU is building the regulatory infrastructure for certified carbon removals, which will be critical for creating demand and ensuring quality. The framework distinguishes between permanent removals, carbon farming, and carbon storage in products. In November 2025, the Commission adopted Implementing Regulation (EU) 2025/2358 on certification schemes, with first certifications expected throughout 2026 ([European Commission, 2025](https://climate.ec.europa.eu/eu-action/carbon-removals-and-carbon-farming_en); [CarbonGap CRCF Tracker](https://tracker.carbongap.org/policy/crcf/)).
 
 **Voluntary carbon market stabilizing.** After a turbulent 2023-2024 period of scrutiny and quality concerns, the voluntary market for carbon removal credits is showing signs of maturation. Buyers are increasingly sophisticated, demanding high-quality MRV and favoring durable removal methods over avoidance credits.
 
@@ -70,3 +70,12 @@ Until next time. 🌍
 17. Kalu, S. et al. (2024). "Biochar – a sustainable soil conditioner." *Frontiers in Soil Science*. [doi:10.3389/fsoil.2024.1376159](https://www.frontiersin.org/journals/soil-science/articles/10.3389/fsoil.2024.1376159/full)
 18. Belfer Center, Harvard Kennedy School (2023). "Prospects for DACCS: Costs, Scale, and Funding." [belfercenter.org](https://www.belfercenter.org/publication/prospects-direct-air-carbon-capture-and-storage-costs-scale-and-funding)
 19. De Luna, P. (2024). "Will Direct Air Capture Ever Cost Less Than $100 Per Ton?" *Forbes*. [forbes.com](https://www.forbes.com/sites/phildeluna/2024/11/29/will-direct-air-capture-ever-cost-less-than-100-per-ton-of-co/)
+
+---
+
+### 🔗 Related Reading
+
+- [Why Carbon Removal Needs More Than Trees](/posts/why-carbon-removal-needs-more-than-trees/)
+- [What Is Enhanced Weathering? A Primer](/posts/what-is-enhanced-weathering/)
+- [500MW of Solar for the World's Largest DAC Plant](/posts/2026-02-25-500mw-solar-for-stratos-dac/)
+- [Enhanced Rock Weathering: Promising, But Not Simple](/posts/2026-02-25-erw-promising-but-not-simple/)

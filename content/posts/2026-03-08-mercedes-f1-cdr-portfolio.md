@@ -16,7 +16,7 @@ Just ahead of the 2026 F1 season opener, Mercedes-AMG PETRONAS has announced wha
 The technologies span the full CDR spectrum:
 - **Direct Air Capture (DAC)**
 - **Biochar**
-- **Enhanced Rock Weathering (ERW)**
+- **[Enhanced Rock Weathering](/posts/what-is-enhanced-weathering/) ([ERW](/posts/what-is-enhanced-weathering/))**
 - **Ocean Alkalinity Enhancement (OAE)**
 - **Bioenergy with Carbon Capture and Storage (BECCS)**
 - **Biomass Storage**
@@ -44,3 +44,12 @@ And for F1 fans: the cars may run on [newly approved sustainable fuel](https://w
 ---
 
 *Source: [Carbon Herald — The Mercedes-AMG PETRONAS F1 Team Expands Its Global CDR Portfolio](https://carbonherald.com/the-mercedes-amg-petronas-f1-team-expands-its-global-cdr-portfolio/) · [Mercedes-AMG PETRONAS official announcement](https://www.mercedesamgf1.com/news/team-sets-new-benchmark-for-sustainable-leadership-in-f1-expanding-carbon)*
+
+---
+
+### 🔗 Related Reading
+
+- [Mercedes F1 Goes All-In on Carbon Removal — 7 New Projects Across 6 Pathways](/posts/2026-03-05-mercedes-f1-cdr-portfolio/)
+- [Germany Puts €98 Million Into CDR — Its First Dedicated Federal Budget Line Ever](/posts/2026-03-08-germany-98m-cdr-budget/)
+- [New Nature Paper: Scaling CDR to Gigatons Could Strain Global Mineral and Nutrient Supplies](/posts/2026-03-08-nature-cdr-resource-limits/)
+- [Why Carbon Removal Needs More Than Trees](/posts/why-carbon-removal-needs-more-than-trees/)

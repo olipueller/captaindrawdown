@@ -15,7 +15,7 @@ Germany just did something it has never done before: put carbon dioxide removal 
 
 The 2026 Bundeshaushalt includes **€98 million for CDR projects** and an additional **€11.5 million specifically for purchasing carbon removal certificates**. According to the German Association for Negative Emissions (*Deutscher Verband für negative Emissionen*), the pipeline extends further — with additional funding planned through 2033.
 
-[Handelsblatt broke the story](https://www.handelsblatt.com/unternehmen/nachhaltigkeit/klimaziele-co-entnahme-im-kampf-gegen-den-klimawandel-ist-entscheidend/100201919.html), profiling two approaches already operational in Germany: biochar (led by Hamburg-based Novocarbo, which won the German Sustainability Prize 2025) and enhanced rock weathering.
+[Handelsblatt broke the story](https://www.handelsblatt.com/unternehmen/nachhaltigkeit/klimaziele-co-entnahme-im-kampf-gegen-den-klimawandel-ist-entscheidend/100201919.html), profiling two approaches already operational in Germany: biochar (led by Hamburg-based Novocarbo, which won the German Sustainability Prize 2025) and [enhanced rock weathering](/posts/what-is-enhanced-weathering/).
 
 ## Why This Matters for CDR
 
@@ -23,7 +23,7 @@ Germany has traditionally been a CCS skeptic, with political resistance to under
 
 Novocarbo's model is worth noting: its pyrolysis plants produce biochar *and* district heating. In Bochum, a new "Carbon Removal Park" will supply green heat to 26,000 households while permanently sequestering carbon. That's the kind of dual-revenue model that makes CDR bankable.
 
-For enhanced weathering, the Handelsblatt feature highlighted the growing role of field-scale deployment in warm, rainy regions. CDI has been [publishing extensively](https://www.carbon-drawdown.de/blog) on ERW measurement challenges — the German government's willingness to fund this pathway suggests the MRV conversation is maturing.
+For enhanced weathering, the Handelsblatt feature highlighted the growing role of field-scale deployment in warm, rainy regions. CDI has been [publishing extensively](https://www.carbon-drawdown.de/blog) on [ERW](/posts/what-is-enhanced-weathering/) measurement challenges — the German government's willingness to fund this pathway suggests the MRV conversation is maturing.
 
 ## The European Context
 
@@ -36,3 +36,12 @@ The €11.5 million for certificate purchases is particularly interesting — it
 ---
 
 *Source: [Handelsblatt — CO₂-Entnahme im Kampf gegen den Klimawandel ist entscheidend](https://www.handelsblatt.com/unternehmen/nachhaltigkeit/klimaziele-co-entnahme-im-kampf-gegen-den-klimawandel-ist-entscheidend/100201919.html)*
+
+---
+
+### 🔗 Related Reading
+
+- [Mercedes F1 Goes All-In on Carbon Removal — 7 New Projects Across 6 Pathways](/posts/2026-03-05-mercedes-f1-cdr-portfolio/)
+- [Mercedes F1 Builds One of Motorsport's Biggest CDR Portfolios — 18,900 Tonnes Across 6 Pathways](/posts/2026-03-08-mercedes-f1-cdr-portfolio/)
+- [West Virginia Bets on Biochar: Coal State Stacks Tax Credits for Carbon Removal](/posts/west-virginia-biochar-tax-credit/)
+- [CDR Roundup: What's Moving in Carbon Removal (Feb 2026)](/posts/cdr-roundup-feb-2026/)

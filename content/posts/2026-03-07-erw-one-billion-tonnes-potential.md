@@ -11,7 +11,7 @@ cover:
   hidden: false
 ---
 
-New Scientist highlighted a growing body of research suggesting that spreading crushed basalt on farmland could absorb up to 1 billion tonnes of CO₂. Field trials in Queensland, Australia, are among the latest to generate real data. Nations like Brazil are already deploying enhanced rock weathering (ERW) at scale, partly because crushed silicate rock also reduces fertiliser costs.
+New Scientist highlighted a growing body of research suggesting that spreading crushed basalt on farmland could absorb up to 1 billion tonnes of CO₂. Field trials in Queensland, Australia, are among the latest to generate real data. Nations like Brazil are already deploying [enhanced rock weathering](/posts/what-is-enhanced-weathering/) ([ERW](/posts/what-is-enhanced-weathering/)) at scale, partly because crushed silicate rock also reduces fertiliser costs.
 
 Big number. Important caveat: "could" is doing a lot of work in that headline.
 
@@ -36,3 +36,12 @@ The rocks work. Proving they worked — that's the hard part.
 ---
 
 *Sources: [New Scientist](https://www.newscientist.com/article/2517484-spreading-crushed-rock-on-farms-could-absorb-1-billion-tonnes-of-co2/), [CDI Research](https://www.carbon-drawdown.de/blog/2026-3-3-portfolio-spotlight-everest-measuring-ew-in-real-time)*
+
+---
+
+### 🔗 Related Reading
+
+- [ERW Could Remove 1 Billion Tonnes per Year — But the Caveats Matter](/posts/2026-03-06-erw-billion-tonnes-caveats/)
+- [Enhanced Rock Weathering: Promising, But Not Simple](/posts/2026-02-25-erw-promising-but-not-simple/)
+- [What Is Enhanced Weathering? A Primer](/posts/what-is-enhanced-weathering/)
+- [ERW Under Fire: What the Nature Paper on Uncertainties Actually Says](/posts/erw-uncertainties-nature-paper/)

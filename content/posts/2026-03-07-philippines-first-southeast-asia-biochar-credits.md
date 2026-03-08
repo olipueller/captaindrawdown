@@ -32,3 +32,12 @@ Southeast Asia has the biomass, the agricultural infrastructure, and now a proof
 ---
 
 *Source: [Manila Bulletin](https://mb.com.ph/2026/03/04/nueva-ecija-is-1st-in-southeast-asia-to-generate-carbon-credits-with-biochar-pushes-for-carbon-removal-climate-smart-agri)*
+
+---
+
+### 🔗 Related Reading
+
+- [Biochar: The Quiet Giant of Carbon Removal](/posts/2026-02-25-biochar-quiet-giant-of-cdr/)
+- [Boeing Bets Big on Biochar — 40,000 Tonnes of Carbon Removal via Carbonfuture](/posts/2026-03-06-boeing-carbonfuture-40k-tonnes/)
+- [Why Carbon Removal Needs More Than Trees](/posts/why-carbon-removal-needs-more-than-trees/)
+- [Microsoft Bought 93% of All Carbon Removal Credits in 2025](/posts/2026-02-28-microsoft-93-percent-cdr-credits/)

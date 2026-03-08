@@ -47,3 +47,12 @@ Worth watching closely.
 ## Sources
 
 - [SolarQuarter: Pressure-Based CO₂ Capture System Advances Industrial Decarbonisation](https://solarquarter.com/2026/02/27/pressure-based-co%E2%82%82-capture-system-advances-industrial-decarbonisation/)
+
+---
+
+### 🔗 Related Reading
+
+- [EU Risks Losing Heavy Industry If CCUS Deployment Stalls](/posts/2026-02-28-eu-ccus-financing-bottleneck/)
+- [New COF Material Captures CO₂ With Electricity — No Heat Required](/posts/2026-02-28-cof-electrochemical-carbon-capture/)
+- [The EU's Industrial Accelerator Act: What It Means for Carbon Removal](/posts/2026-03-05-eu-industrial-accelerator-act/)
+- [Japanese Scientists Made Rubber That Eats CO₂ and Turns Into Plastic](/posts/2026-03-05-japan-co2-rubber/)
