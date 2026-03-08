@@ -1,0 +1,401 @@
+{{ define "main" }}
+<style>
+  .directory-header {
+    text-align: center;
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+  }
+  .directory-header h1 {
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+  }
+  .directory-header p {
+    color: var(--secondary);
+    font-size: 1.1rem;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  .directory-stats {
+    display: flex;
+    gap: 1.5rem;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 1.5rem 0;
+  }
+  .stat-box {
+    background: var(--code-bg);
+    border-radius: 8px;
+    padding: 0.8rem 1.2rem;
+    text-align: center;
+    min-width: 100px;
+  }
+  .stat-box .num {
+    font-size: 1.8rem;
+    font-weight: 700;
+    color: var(--primary);
+    display: block;
+  }
+  .stat-box .label {
+    font-size: 0.8rem;
+    color: var(--secondary);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+  .controls {
+    display: flex;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+    margin-bottom: 1.5rem;
+    align-items: center;
+  }
+  #search {
+    flex: 1;
+    min-width: 200px;
+    padding: 0.6rem 1rem;
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    font-size: 1rem;
+    background: var(--theme);
+    color: var(--primary);
+  }
+  #search::placeholder {
+    color: var(--secondary);
+  }
+  .filter-select {
+    padding: 0.6rem 0.8rem;
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    font-size: 0.9rem;
+    background: var(--theme);
+    color: var(--primary);
+    cursor: pointer;
+  }
+  .result-count {
+    font-size: 0.9rem;
+    color: var(--secondary);
+    margin-bottom: 1rem;
+  }
+  .company-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.9rem;
+  }
+  .company-table th {
+    text-align: left;
+    padding: 0.7rem 0.5rem;
+    border-bottom: 2px solid var(--border);
+    font-weight: 600;
+    color: var(--secondary);
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    cursor: pointer;
+    user-select: none;
+    white-space: nowrap;
+  }
+  .company-table th:hover {
+    color: var(--primary);
+  }
+  .company-table th .sort-arrow {
+    margin-left: 0.3rem;
+    opacity: 0.3;
+  }
+  .company-table th.sorted .sort-arrow {
+    opacity: 1;
+  }
+  .company-table td {
+    padding: 0.6rem 0.5rem;
+    border-bottom: 1px solid var(--border);
+    vertical-align: top;
+  }
+  .company-table tr:hover td {
+    background: var(--code-bg);
+  }
+  .company-name {
+    font-weight: 600;
+  }
+  .company-name a {
+    text-decoration: none;
+    color: var(--primary);
+  }
+  .company-name a:hover {
+    text-decoration: underline;
+  }
+  .cdi-badge {
+    background: #4ade80;
+    color: #1e293b;
+    font-size: 0.65rem;
+    padding: 0.15rem 0.4rem;
+    border-radius: 3px;
+    font-weight: 700;
+    margin-left: 0.4rem;
+    vertical-align: middle;
+  }
+  .method-tag {
+    display: inline-block;
+    background: var(--code-bg);
+    border-radius: 4px;
+    padding: 0.15rem 0.5rem;
+    font-size: 0.8rem;
+    white-space: nowrap;
+  }
+  .country-cell {
+    white-space: nowrap;
+  }
+  .no-results {
+    text-align: center;
+    padding: 3rem 1rem;
+    color: var(--secondary);
+  }
+  .attribution {
+    margin-top: 2rem;
+    padding: 1rem;
+    background: var(--code-bg);
+    border-radius: 8px;
+    font-size: 0.85rem;
+    color: var(--secondary);
+    line-height: 1.6;
+  }
+  .attribution a {
+    color: var(--primary);
+  }
+  @media (max-width: 768px) {
+    .controls {
+      flex-direction: column;
+    }
+    #search {
+      min-width: unset;
+      width: 100%;
+    }
+    .company-table {
+      font-size: 0.8rem;
+    }
+    .company-table th, .company-table td {
+      padding: 0.4rem 0.3rem;
+    }
+    .tech-col {
+      display: none;
+    }
+  }
+</style>
+
+<div class="directory-header">
+  <h1>🌍 CDR Company Directory</h1>
+  <p>Every durable carbon dioxide removal company we know of — searchable, filterable, updated regularly.</p>
+  <div class="directory-stats">
+    <div class="stat-box"><span class="num" id="total-count">—</span><span class="label">Companies</span></div>
+    <div class="stat-box"><span class="num" id="country-count">—</span><span class="label">Countries</span></div>
+    <div class="stat-box"><span class="num" id="method-count">—</span><span class="label">Methods</span></div>
+  </div>
+</div>
+
+<div class="controls">
+  <input type="text" id="search" placeholder="Search company, country, method..." autocomplete="off">
+  <select class="filter-select" id="filter-category">
+    <option value="">All Categories</option>
+  </select>
+  <select class="filter-select" id="filter-method">
+    <option value="">All Methods</option>
+  </select>
+  <select class="filter-select" id="filter-country">
+    <option value="">All Countries</option>
+  </select>
+</div>
+
+<div class="result-count" id="result-count"></div>
+
+<table class="company-table" id="company-table">
+  <thead>
+    <tr>
+      <th data-sort="name">Company <span class="sort-arrow">↕</span></th>
+      <th data-sort="method">Method <span class="sort-arrow">↕</span></th>
+      <th data-sort="country">Country <span class="sort-arrow">↕</span></th>
+      <th class="tech-col" data-sort="tech_note">Tech Note <span class="sort-arrow">↕</span></th>
+    </tr>
+  </thead>
+  <tbody id="company-tbody">
+  </tbody>
+</table>
+
+<div class="no-results" id="no-results" style="display:none;">
+  No companies match your filters. Try broadening your search.
+</div>
+
+<div class="attribution">
+  <strong>Data sources:</strong> Initial dataset from 
+  <a href="https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal" target="_blank">Grant Faber's CDR Company List</a> 
+  (Jan 2026, CC BY-NC-SA 4.0). Enriched and maintained by CaptainDrawdown through daily CDR news scanning.
+  Companies flagged <span class="cdi-badge">CDI</span> are portfolio companies of the 
+  <a href="https://www.carbon-drawdown.de/" target="_blank">Carbon Drawdown Initiative</a>.
+  <br><br>
+  <strong>Missing a company?</strong> Tell us on 
+  <a href="https://bsky.app/profile/captaindrawdown.bsky.social" target="_blank">Bluesky</a> or 
+  <a href="https://x.com/CaptainDrawdown" target="_blank">X</a>.
+</div>
+
+<script>
+(function() {
+  let companies = [];
+  let sortCol = 'name';
+  let sortAsc = true;
+
+  fetch('/data/companies.json')
+    .then(r => r.json())
+    .then(data => {
+      companies = data;
+      initFilters();
+      renderStats();
+      render();
+    });
+
+  function initFilters() {
+    const categories = [...new Set(companies.map(c => c.category))].sort();
+    const methods = [...new Set(companies.map(c => c.method))].sort();
+    const countries = [...new Set(companies.map(c => c.country).filter(Boolean))].sort();
+
+    const catSel = document.getElementById('filter-category');
+    categories.forEach(c => {
+      const o = document.createElement('option');
+      o.value = c; o.textContent = c + ' (' + companies.filter(x => x.category === c).length + ')';
+      catSel.appendChild(o);
+    });
+
+    const methSel = document.getElementById('filter-method');
+    methods.forEach(m => {
+      const o = document.createElement('option');
+      o.value = m; o.textContent = m + ' (' + companies.filter(x => x.method === m).length + ')';
+      methSel.appendChild(o);
+    });
+
+    const countrySel = document.getElementById('filter-country');
+    countries.forEach(c => {
+      const o = document.createElement('option');
+      o.value = c; o.textContent = c + ' (' + companies.filter(x => x.country === c).length + ')';
+      countrySel.appendChild(o);
+    });
+  }
+
+  function renderStats() {
+    document.getElementById('total-count').textContent = companies.length;
+    document.getElementById('country-count').textContent = new Set(companies.map(c => c.country).filter(Boolean)).size;
+    document.getElementById('method-count').textContent = new Set(companies.map(c => c.method)).size;
+  }
+
+  function getFiltered() {
+    const q = document.getElementById('search').value.toLowerCase().trim();
+    const cat = document.getElementById('filter-category').value;
+    const meth = document.getElementById('filter-method').value;
+    const country = document.getElementById('filter-country').value;
+
+    return companies.filter(c => {
+      if (cat && c.category !== cat) return false;
+      if (meth && c.method !== meth) return false;
+      if (country && c.country !== country) return false;
+      if (q) {
+        const searchable = (c.name + ' ' + c.method + ' ' + c.country + ' ' + c.location + ' ' + c.tech_note).toLowerCase();
+        return searchable.includes(q);
+      }
+      return true;
+    });
+  }
+
+  function render() {
+    let filtered = getFiltered();
+
+    // Sort
+    filtered.sort((a, b) => {
+      let va = (a[sortCol] || '').toLowerCase();
+      let vb = (b[sortCol] || '').toLowerCase();
+      if (va < vb) return sortAsc ? -1 : 1;
+      if (va > vb) return sortAsc ? 1 : -1;
+      return 0;
+    });
+
+    // CDI companies first within sort
+    if (sortCol === 'name' && sortAsc) {
+      const cdi = filtered.filter(c => c.cdi_portfolio);
+      const rest = filtered.filter(c => !c.cdi_portfolio);
+      // Don't force CDI first — let natural sort work
+    }
+
+    const tbody = document.getElementById('company-tbody');
+    const noResults = document.getElementById('no-results');
+    const countEl = document.getElementById('result-count');
+
+    countEl.textContent = filtered.length === companies.length
+      ? `Showing all ${filtered.length} companies`
+      : `Showing ${filtered.length} of ${companies.length} companies`;
+
+    if (filtered.length === 0) {
+      tbody.innerHTML = '';
+      noResults.style.display = 'block';
+      return;
+    }
+    noResults.style.display = 'none';
+
+    // Render max 200 at a time for performance
+    const show = filtered.slice(0, 500);
+    tbody.innerHTML = show.map(c => {
+      const nameHtml = c.url
+        ? `<a href="${esc(c.url)}" target="_blank" rel="noopener">${esc(c.name)}</a>`
+        : esc(c.name);
+      const cdiBadge = c.cdi_portfolio ? '<span class="cdi-badge">CDI</span>' : '';
+      return `<tr>
+        <td class="company-name">${nameHtml}${cdiBadge}</td>
+        <td><span class="method-tag">${esc(c.method)}</span></td>
+        <td class="country-cell">${esc(c.country)}</td>
+        <td class="tech-col">${esc(c.tech_note || '—')}</td>
+      </tr>`;
+    }).join('');
+
+    if (filtered.length > 500) {
+      tbody.innerHTML += `<tr><td colspan="4" style="text-align:center;color:var(--secondary);padding:1rem;">
+        Showing first 500 of ${filtered.length} results. Narrow your search to see more.
+      </td></tr>`;
+    }
+
+    // Update sort arrows
+    document.querySelectorAll('.company-table th').forEach(th => {
+      th.classList.toggle('sorted', th.dataset.sort === sortCol);
+      const arrow = th.querySelector('.sort-arrow');
+      if (arrow) {
+        arrow.textContent = th.dataset.sort === sortCol ? (sortAsc ? '↑' : '↓') : '↕';
+      }
+    });
+  }
+
+  function esc(s) {
+    if (!s) return '';
+    return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+  }
+
+  // Event listeners
+  let debounceTimer;
+  document.getElementById('search').addEventListener('input', () => {
+    clearTimeout(debounceTimer);
+    debounceTimer = setTimeout(render, 150);
+  });
+  document.getElementById('filter-category').addEventListener('change', () => {
+    document.getElementById('filter-method').value = '';
+    render();
+  });
+  document.getElementById('filter-method').addEventListener('change', render);
+  document.getElementById('filter-country').addEventListener('change', render);
+
+  // Column sorting
+  document.querySelectorAll('.company-table th[data-sort]').forEach(th => {
+    th.addEventListener('click', () => {
+      const col = th.dataset.sort;
+      if (sortCol === col) {
+        sortAsc = !sortAsc;
+      } else {
+        sortCol = col;
+        sortAsc = true;
+      }
+      render();
+    });
+  });
+})();
+</script>
+
+{{ end }}
