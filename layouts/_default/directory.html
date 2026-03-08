@@ -21,17 +21,17 @@
     background: var(--code-bg); border-radius: 8px; padding: 1.2rem;
   }
   .chart-box h3 { margin: 0 0 1rem 0; font-size: 1rem; color: var(--secondary); }
-  .bar-chart { display: flex; flex-direction: column; gap: 0.4rem; }
-  .bar-row { display: flex; align-items: center; gap: 0.5rem; font-size: 0.8rem; }
-  .bar-label { min-width: 120px; text-align: right; color: var(--secondary); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-  .bar-track { flex: 1; height: 20px; background: var(--theme); border-radius: 3px; overflow: hidden; position: relative; }
-  .bar-fill { height: 100%; border-radius: 3px; transition: width 0.3s; }
+  .bar-chart { display: flex; flex-direction: column; gap: 0.35rem; }
+  .bar-row { display: grid; grid-template-columns: 180px 1fr 70px; align-items: center; gap: 0.5rem; font-size: 0.8rem; }
+  .bar-label { text-align: right; color: var(--secondary); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .bar-track { height: 20px; background: var(--theme); border-radius: 3px; overflow: hidden; }
+  .bar-fill { height: 100%; border-radius: 3px; transition: width 0.3s; min-width: 2px; }
   .bar-fill.cat-bicrs { background: #4ade80; }
   .bar-fill.cat-dac { background: #60a5fa; }
   .bar-fill.cat-min { background: #f59e0b; }
   .bar-fill.cat-marine { background: #06b6d4; }
   .bar-fill.cat-country { background: #8b5cf6; }
-  .bar-count { min-width: 30px; font-size: 0.75rem; color: var(--secondary); }
+  .bar-count { font-size: 0.75rem; color: var(--secondary); text-align: left; }
   #map-container { width: 100%; height: 400px; background: var(--code-bg); border-radius: 8px; position: relative; overflow: hidden; }
   #world-map { width: 100%; height: 100%; }
   .map-tooltip {
@@ -87,6 +87,7 @@
     .company-table th, .company-table td { padding: 0.4rem 0.3rem; }
     .tech-col { display: none; }
     .bar-label { min-width: 80px; font-size: 0.7rem; }
+    .bar-row { grid-template-columns: 120px 1fr 60px; }
     #map-container { height: 280px; }
   }
 </style>
@@ -160,33 +161,6 @@
   let sortCol = 'name';
   let sortAsc = true;
 
-  // Country centroids for map (lon, lat) — Mercator projection
-  const COUNTRY_COORDS = {
-    "United States": [-98, 39], "United Kingdom": [-2, 54], "Germany": [10, 51],
-    "Canada": [-106, 56], "Sweden": [16, 62], "Australia": [134, -25],
-    "France": [2, 47], "Switzerland": [8, 47], "India": [79, 22],
-    "Netherlands": [5, 52], "China": [104, 35], "Japan": [138, 36],
-    "Brazil": [-51, -14], "South Korea": [128, 36], "Norway": [8, 62],
-    "Denmark": [10, 56], "Finland": [26, 64], "Austria": [14, 47],
-    "Italy": [12, 42], "Spain": [-4, 40], "Ireland": [-8, 53],
-    "Belgium": [4, 51], "Israel": [35, 31], "Kenya": [38, 0],
-    "South Africa": [24, -30], "Singapore": [104, 1], "Indonesia": [115, -5],
-    "New Zealand": [174, -41], "Chile": [-71, -34], "Mexico": [-102, 23],
-    "Iceland": [-19, 65], "Portugal": [-8, 39], "Estonia": [26, 59],
-    "Czech Republic": [15, 50], "Poland": [20, 52], "Turkey": [35, 39],
-    "UAE": [54, 24], "Saudi Arabia": [45, 24], "Oman": [57, 21],
-    "Ghana": [-2, 8], "Nigeria": [8, 10], "Philippines": [122, 13],
-    "Thailand": [101, 15], "Vietnam": [108, 16], "Colombia": [-74, 4],
-    "Argentina": [-64, -34], "Peru": [-76, -10], "Morocco": [-6, 32],
-    "Egypt": [30, 27], "Tanzania": [35, -6], "Uganda": [32, 1],
-    "Rwanda": [30, -2], "Mozambique": [35, -18], "Ivory Coast": [-5, 7],
-    "Jordan": [36, 31], "Bahrain": [50, 26], "Qatar": [51, 25],
-    "Luxembourg": [6, 50], "Malta": [14, 36], "Greece": [22, 39],
-    "Romania": [25, 46], "Bulgaria": [25, 43], "Hungary": [19, 47],
-    "Slovakia": [19, 49], "Croatia": [16, 45], "Lithuania": [24, 55],
-    "Latvia": [25, 57], "Slovenia": [15, 46], "Cyprus": [33, 35],
-  };
-
   fetch('/data/companies.json')
     .then(r => r.json())
     .then(data => {
@@ -224,6 +198,8 @@
   }
 
   function renderCharts() {
+    const total = companies.length;
+    
     // Methods chart
     const methodCounts = {};
     companies.forEach(c => { methodCounts[c.method] = (methodCounts[c.method] || 0) + 1; });
@@ -240,11 +216,12 @@
       else if (catColors[m]) cls = catColors[m];
       else if (m.includes('Ocean') || m.includes('Marine') || m.includes('Direct Ocean')) cls = 'cat-marine';
       else if (m.includes('Mineral') || m.includes('Rock') || m.includes('Weathering')) cls = 'cat-min';
-      const pct = (n / maxMethod * 100).toFixed(0);
+      const barPct = (n / maxMethod * 100).toFixed(0);
+      const dataPct = (n / total * 100).toFixed(1);
       return `<div class="bar-row">
         <span class="bar-label" title="${m}">${m}</span>
-        <div class="bar-track"><div class="bar-fill ${cls}" style="width:${pct}%"></div></div>
-        <span class="bar-count">${n}</span>
+        <div class="bar-track"><div class="bar-fill ${cls}" style="width:${barPct}%"></div></div>
+        <span class="bar-count">${n} (${dataPct}%)</span>
       </div>`;
     }).join('');
     document.getElementById('chart-methods').innerHTML = methodHTML;
@@ -255,18 +232,19 @@
     const countriesSorted = Object.entries(countryCounts).sort((a, b) => b[1] - a[1]).slice(0, 15);
     const maxCountry = countriesSorted[0][1];
     const countryHTML = countriesSorted.map(([c, n]) => {
-      const pct = (n / maxCountry * 100).toFixed(0);
+      const barPct = (n / maxCountry * 100).toFixed(0);
+      const dataPct = (n / total * 100).toFixed(1);
       return `<div class="bar-row">
         <span class="bar-label" title="${c}">${c}</span>
-        <div class="bar-track"><div class="bar-fill cat-country" style="width:${pct}%"></div></div>
-        <span class="bar-count">${n}</span>
+        <div class="bar-track"><div class="bar-fill cat-country" style="width:${barPct}%"></div></div>
+        <span class="bar-count">${n} (${dataPct}%)</span>
       </div>`;
     }).join('');
     document.getElementById('chart-countries').innerHTML = countryHTML;
   }
 
   function renderMap() {
-    const svg = document.getElementById('world-map');
+    const container = document.getElementById('map-container');
     const tooltip = document.getElementById('map-tooltip');
 
     // Country counts
@@ -274,73 +252,165 @@
     companies.forEach(c => { if (c.country) counts[c.country] = (counts[c.country] || 0) + 1; });
     const maxCount = Math.max(...Object.values(counts));
 
-    // Simple world outline (simplified Natural Earth)
-    const worldPath = "M145,120L148,118L152,119L155,120L157,123L155,127L152,128L148,127L145,124ZM170,90L175,87L180,88L182,92L180,97L175,98L170,95ZM480,95L490,90L500,92L510,95L520,97L525,100L530,105L535,112L538,120L540,128L538,135L535,140L530,145L525,148L520,150L510,155L500,160L490,165L480,168L470,170L460,168L450,165L445,160L442,155L440,148L442,140L445,135L448,130L450,125L452,120L455,115L458,110L462,105L468,100ZM300,130L310,125L320,123L330,125L340,130L350,138L355,148L358,160L360,170L358,180L355,190L350,198L345,205L338,210L330,215L320,218L310,220L300,218L290,215L282,210L275,205L270,198L265,190L262,180L260,170L262,160L265,148L270,138L280,130ZM700,180L710,175L720,178L725,185L720,195L710,200L700,195L698,188ZM130,220L140,215L155,218L165,225L170,235L168,248L160,258L150,265L138,268L128,265L120,258L115,248L118,235Z";
+    // ISO 3166 numeric → our country name mapping
+    const ID_TO_NAME = {
+      "840":"United States","826":"United Kingdom","276":"Germany","124":"Canada",
+      "752":"Sweden","036":"Australia","250":"France","756":"Switzerland","356":"India",
+      "528":"Netherlands","156":"China","392":"Japan","076":"Brazil","410":"South Korea",
+      "578":"Norway","208":"Denmark","246":"Finland","040":"Austria","380":"Italy",
+      "724":"Spain","372":"Ireland","056":"Belgium","376":"Israel","404":"Kenya",
+      "710":"South Africa","702":"Singapore","360":"Indonesia","554":"New Zealand",
+      "152":"Chile","484":"Mexico","352":"Iceland","620":"Portugal","233":"Estonia",
+      "203":"Czech Republic","616":"Poland","792":"Turkey","784":"UAE","682":"Saudi Arabia",
+      "512":"Oman","288":"Ghana","566":"Nigeria","608":"Philippines","764":"Thailand",
+      "704":"Vietnam","170":"Colombia","032":"Argentina","604":"Peru","504":"Morocco",
+      "818":"Egypt","834":"Tanzania","800":"Uganda","646":"Rwanda","508":"Mozambique",
+      "384":"Ivory Coast","400":"Jordan","048":"Bahrain","634":"Qatar","442":"Luxembourg",
+      "470":"Malta","300":"Greece","642":"Romania","100":"Bulgaria","348":"Hungary",
+      "703":"Slovakia","191":"Croatia","440":"Lithuania","428":"Latvia","705":"Slovenia",
+      "196":"Cyprus","840":"United States","158":"Taiwan","643":"Russia","804":"Ukraine",
+      "586":"Pakistan","050":"Bangladesh","116":"Cambodia","104":"Myanmar",
+    };
 
-    // Draw a simple background world shape
-    svg.innerHTML = `
-      <rect width="1000" height="500" fill="transparent"/>
-      <g id="map-dots"></g>
-    `;
+    // Load TopoJSON world map
+    fetch('/data/world-110m.json')
+      .then(r => r.json())
+      .then(world => {
+        // TopoJSON → GeoJSON conversion (inline, no library needed)
+        const countries = topojsonFeature(world, world.objects.countries);
+        
+        const W = 960, H = 500;
+        const svg = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
+        svg.setAttribute('viewBox', `0 0 ${W} ${H}`);
+        svg.setAttribute('width', '100%');
+        svg.setAttribute('height', '100%');
+        svg.style.background = 'transparent';
 
-    // Draw dots for each country
-    const dotsG = document.getElementById('map-dots');
-    Object.entries(counts).forEach(([country, count]) => {
-      const coords = COUNTRY_COORDS[country];
-      if (!coords) return;
+        // Simple equirectangular projection
+        function project(lon, lat) {
+          const x = (lon + 180) / 360 * W;
+          const y = (90 - lat) / 180 * H;
+          return [x, y];
+        }
 
-      // Mercator-ish projection
-      const x = ((coords[0] + 180) / 360) * 920 + 40;
-      const latRad = coords[1] * Math.PI / 180;
-      const y = 250 - (Math.log(Math.tan(Math.PI/4 + latRad/2)) / Math.PI) * 250;
+        function ringToPath(ring) {
+          return ring.map((p, i) => {
+            const [x, y] = project(p[0], p[1]);
+            return (i === 0 ? 'M' : 'L') + x.toFixed(1) + ',' + y.toFixed(1);
+          }).join('') + 'Z';
+        }
 
-      const radius = Math.max(4, Math.min(25, Math.sqrt(count / maxCount) * 25));
-      const opacity = 0.4 + (count / maxCount) * 0.5;
+        function geoToPath(geometry) {
+          if (geometry.type === 'Polygon') {
+            return geometry.coordinates.map(ringToPath).join(' ');
+          } else if (geometry.type === 'MultiPolygon') {
+            return geometry.coordinates.map(poly => poly.map(ringToPath).join(' ')).join(' ');
+          }
+          return '';
+        }
 
-      const circle = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
-      circle.setAttribute('cx', x);
-      circle.setAttribute('cy', y);
-      circle.setAttribute('r', radius);
-      circle.setAttribute('fill', `rgba(139, 92, 246, ${opacity})`);
-      circle.setAttribute('stroke', '#8b5cf6');
-      circle.setAttribute('stroke-width', '1');
-      circle.style.cursor = 'pointer';
+        countries.features.forEach(f => {
+          const id = f.id || f.properties.id;
+          const name = ID_TO_NAME[id];
+          const count = name ? (counts[name] || 0) : 0;
+          
+          const path = document.createElementNS('http://www.w3.org/2000/svg', 'path');
+          path.setAttribute('d', geoToPath(f.geometry));
+          
+          if (count > 0) {
+            const intensity = Math.min(1, 0.2 + (count / maxCount) * 0.8);
+            path.setAttribute('fill', `rgba(139, 92, 246, ${intensity})`);
+            path.setAttribute('stroke', '#8b5cf6');
+            path.setAttribute('stroke-width', '0.5');
+            path.style.cursor = 'pointer';
+            
+            path.addEventListener('mouseenter', (e) => {
+              tooltip.style.display = 'block';
+              tooltip.innerHTML = `<strong>${name}</strong>: ${count} companies`;
+              const rect = container.getBoundingClientRect();
+              tooltip.style.left = (e.clientX - rect.left + 10) + 'px';
+              tooltip.style.top = (e.clientY - rect.top - 30) + 'px';
+              path.setAttribute('stroke-width', '1.5');
+            });
+            path.addEventListener('mousemove', (e) => {
+              const rect = container.getBoundingClientRect();
+              tooltip.style.left = (e.clientX - rect.left + 10) + 'px';
+              tooltip.style.top = (e.clientY - rect.top - 30) + 'px';
+            });
+            path.addEventListener('mouseleave', () => {
+              tooltip.style.display = 'none';
+              path.setAttribute('stroke-width', '0.5');
+            });
+            path.addEventListener('click', () => {
+              document.getElementById('filter-country').value = name;
+              render();
+              document.getElementById('company-table').scrollIntoView({behavior: 'smooth'});
+            });
+          } else {
+            path.setAttribute('fill', 'rgba(100, 116, 139, 0.15)');
+            path.setAttribute('stroke', 'rgba(100, 116, 139, 0.3)');
+            path.setAttribute('stroke-width', '0.3');
+          }
+          
+          svg.appendChild(path);
+        });
 
-      circle.addEventListener('mouseenter', (e) => {
-        tooltip.style.display = 'block';
-        tooltip.innerHTML = `<strong>${country}</strong>: ${count} companies`;
-        tooltip.style.left = (e.offsetX + 10) + 'px';
-        tooltip.style.top = (e.offsetY - 30) + 'px';
+        // Replace the placeholder SVG
+        const oldSvg = document.getElementById('world-map');
+        if (oldSvg) oldSvg.remove();
+        container.insertBefore(svg, tooltip);
       });
-      circle.addEventListener('mousemove', (e) => {
-        tooltip.style.left = (e.offsetX + 10) + 'px';
-        tooltip.style.top = (e.offsetY - 30) + 'px';
-      });
-      circle.addEventListener('mouseleave', () => {
-        tooltip.style.display = 'none';
-      });
-      circle.addEventListener('click', () => {
-        document.getElementById('filter-country').value = country;
-        render();
-        document.getElementById('company-table').scrollIntoView({behavior: 'smooth'});
-      });
+  }
 
-      dotsG.appendChild(circle);
+  // Minimal TopoJSON → GeoJSON converter (no library needed)
+  function topojsonFeature(topology, object) {
+    const tf = topology.transform;
+    const arcs = topology.arcs;
 
-      // Add count label for big dots
-      if (count >= 20) {
-        const text = document.createElementNS('http://www.w3.org/2000/svg', 'text');
-        text.setAttribute('x', x);
-        text.setAttribute('y', y + 4);
-        text.setAttribute('text-anchor', 'middle');
-        text.setAttribute('fill', 'white');
-        text.setAttribute('font-size', '10');
-        text.setAttribute('font-weight', '600');
-        text.setAttribute('pointer-events', 'none');
-        text.textContent = count;
-        dotsG.appendChild(text);
+    function decodeArc(arcIdx) {
+      const arc = arcs[arcIdx < 0 ? ~arcIdx : arcIdx];
+      const coords = [];
+      let x = 0, y = 0;
+      arc.forEach(p => {
+        x += p[0]; y += p[1];
+        coords.push([
+          x * tf.scale[0] + tf.translate[0],
+          y * tf.scale[1] + tf.translate[1]
+        ]);
+      });
+      if (arcIdx < 0) coords.reverse();
+      return coords;
+    }
+
+    function decodeRing(indices) {
+      const coords = [];
+      indices.forEach(idx => {
+        const arc = decodeArc(idx);
+        // Remove duplicate point at arc junction
+        if (coords.length > 0) arc.shift();
+        coords.push(...arc);
+      });
+      return coords;
+    }
+
+    function decodeGeometry(geom) {
+      if (geom.type === 'Polygon') {
+        return { type: 'Polygon', coordinates: geom.arcs.map(decodeRing) };
+      } else if (geom.type === 'MultiPolygon') {
+        return { type: 'MultiPolygon', coordinates: geom.arcs.map(poly => poly.map(decodeRing)) };
       }
-    });
+      return geom;
+    }
+
+    return {
+      type: 'FeatureCollection',
+      features: object.geometries.map(geom => ({
+        type: 'Feature',
+        id: geom.id,
+        properties: geom.properties || {},
+        geometry: decodeGeometry(geom)
+      }))
+    };
   }
 
   function getFiltered() {
