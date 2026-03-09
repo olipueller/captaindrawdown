@@ -22,7 +22,7 @@ Key findings:
 
 - **350M–750M tCO₂/yr by 2050** under limited-to-widespread adoption
 - **700M–1.1B tCO₂/yr by 2100** as supply chains mature
-- **The Global South overtakes the North** as the dominant ERW region by mid-century — higher temperatures accelerate weathering, and developing nations gain access to rock supply chains
+- **The Global South overtakes the North** as the dominant [ERW](/posts/what-is-enhanced-weathering/) region by mid-century — higher temperatures accelerate weathering, and developing nations gain access to rock supply chains
 
 That last point is critical. ERW could be a genuine equity lever in the carbon market, with tropical and subtropical regions holding the highest removal potential.
 

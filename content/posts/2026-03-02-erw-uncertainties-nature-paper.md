@@ -17,7 +17,7 @@ This is getting attention, and it should. But let's read past the headlines.
 
 ## What the Paper Actually Says
 
-The Nature paper doesn't claim ERW doesn't work. It catalogs the variables that make precise quantification difficult: soil type, mineral grain size, local climate, microbial activity, and leaching dynamics all influence how fast basalt dissolves and how much CO₂ is actually captured and stored.
+The Nature paper doesn't claim [ERW](/posts/what-is-enhanced-weathering/) doesn't work. It catalogs the variables that make precise quantification difficult: soil type, mineral grain size, local climate, microbial activity, and leaching dynamics all influence how fast basalt dissolves and how much CO₂ is actually captured and stored.
 
 In other words: ERW works in principle, but the *how much* varies enormously depending on where and how you deploy it. That's a measurement challenge, not a fundamental flaw.
 

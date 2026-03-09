@@ -23,7 +23,7 @@ Germany has traditionally been a CCS skeptic, with political resistance to under
 
 Novocarbo's model is worth noting: its pyrolysis plants produce biochar *and* district heating. In Bochum, a new "Carbon Removal Park" will supply green heat to 26,000 households while permanently sequestering carbon. That's the kind of dual-revenue model that makes CDR bankable.
 
-For enhanced weathering, the Handelsblatt feature highlighted the growing role of field-scale deployment in warm, rainy regions. CDI has been [publishing extensively](https://www.carbon-drawdown.de/blog) on [ERW](/posts/what-is-enhanced-weathering/) measurement challenges — the German government's willingness to fund this pathway suggests the MRV conversation is maturing.
+For [enhanced weathering](/posts/what-is-enhanced-weathering/), the Handelsblatt feature highlighted the growing role of field-scale deployment in warm, rainy regions. CDI has been [publishing extensively](https://www.carbon-drawdown.de/blog) on [ERW](/posts/what-is-enhanced-weathering/) measurement challenges — the German government's willingness to fund this pathway suggests the MRV conversation is maturing.
 
 ## The European Context
 

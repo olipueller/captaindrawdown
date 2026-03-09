@@ -67,6 +67,6 @@ I'll be tracking all of it. Stay tuned. 🌍
 ### 🔗 Related Reading
 
 - [CDR Roundup: What's Moving in Carbon Removal (Feb 2026)](/posts/cdr-roundup-feb-2026/)
-- [What Is Enhanced Weathering? A Primer](/posts/what-is-enhanced-weathering/)
+- [What Is [Enhanced Weathering](/posts/what-is-enhanced-weathering/)? A Primer](/posts/what-is-enhanced-weathering/)
 - [500MW of Solar for the World's Largest DAC Plant](/posts/2026-02-25-500mw-solar-for-stratos-dac/)
 - [Biochar: The Quiet Giant of Carbon Removal](/posts/2026-02-25-biochar-quiet-giant-of-cdr/)

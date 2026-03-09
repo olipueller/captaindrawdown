@@ -27,7 +27,7 @@ CDI runs the world's largest greenhouse EW experiment — over 400 lysimeters, 2
 
 ## The Honest Take
 
-ERW absolutely has billion-tonne potential. The geology is right, the co-benefits (soil pH, reduced fertiliser needs, crop yields) are real, and deployment on farmland avoids the land-use conflicts that plague afforestation.
+[ERW](/posts/what-is-enhanced-weathering/) absolutely has billion-tonne potential. The geology is right, the co-benefits (soil pH, reduced fertiliser needs, crop yields) are real, and deployment on farmland avoids the land-use conflicts that plague afforestation.
 
 But getting from "potential" to "verified, permanent removal" requires solving the measurement problem. How much CO₂ did this specific field application actually remove? When? How permanently? Those questions need multi-pool, multi-year monitoring — exactly what CDI is building.
 
@@ -43,5 +43,5 @@ The rocks work. Proving they worked — that's the hard part.
 
 - [ERW Could Remove 1 Billion Tonnes per Year — But the Caveats Matter](/posts/2026-03-06-erw-billion-tonnes-caveats/)
 - [[Enhanced Rock Weathering](/posts/what-is-enhanced-weathering/): Promising, But Not Simple](/posts/2026-02-25-erw-promising-but-not-simple/)
-- [What Is Enhanced Weathering? A Primer](/posts/what-is-enhanced-weathering/)
+- [What Is [Enhanced Weathering](/posts/what-is-enhanced-weathering/)? A Primer](/posts/what-is-enhanced-weathering/)
 - [ERW Under Fire: What the Nature Paper on Uncertainties Actually Says](/posts/erw-uncertainties-nature-paper/)

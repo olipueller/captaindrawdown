@@ -30,7 +30,7 @@ This is where we put on our CDI hat. The projection numbers assume weathering ra
 
 **Dry conditions dramatically slow things down.** The Thünen Institute's Marcus Schiedung [flagged this in Nature Reviews](https://www.nature.com/articles/s43017-026-00761-7) — without rainfall, CDR can be **up to 25× slower** than wet-condition estimates suggest.
 
-**Carbon-based MRV has fundamental limits in field systems.** CDI and collaborators have argued in [Biogeosciences](https://www.carbon-drawdown.de/blog/2026-1-6-new-paper-carbon-vs-cation-based-mrv-for-enhanced-rock-weathering-and-why-we-should-check-how-much-soil-carbon-matters) that cation-based MRV — not carbon flux measurement — should be the standard for ERW verification.
+**Carbon-based MRV has fundamental limits in field systems.** CDI and collaborators have argued in [Biogeosciences](https://www.carbon-drawdown.de/blog/2026-1-6-new-paper-carbon-vs-cation-based-mrv-for-enhanced-rock-weathering-and-why-we-should-check-how-much-soil-carbon-matters) that cation-based MRV — not carbon flux measurement — should be the standard for [ERW](/posts/what-is-enhanced-weathering/) verification.
 
 ## The Bottom Line
 

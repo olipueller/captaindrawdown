@@ -39,7 +39,7 @@ The distinction isn't academic. Every euro spent on fossil CCS is a euro not spe
 Europe is quietly building the most sophisticated CDR policy framework on the planet:
 
 - **Germany**: €98M dedicated CDR budget line + €11.5M in removal certificate purchases ([yesterday's coverage](https://www.captaindrawdown.com/posts/2026-03-04-cdr-daily-digest/))
-- **EU CRCF**: First permanent removal certification methodologies adopted
+- **EU [CRCF](/posts/2026-03-06-eu-first-cdr-certification-standard/)**: First permanent removal certification methodologies adopted
 - **IAA**: Industrial demand signals for low-carbon technologies
 
 Compare this to the US, where the current administration just rescinded the EPA's Endangerment Finding — the scientific basis for regulating greenhouse gases. While Washington denies basic atmospheric chemistry, Brussels is building markets for removing CO₂.
