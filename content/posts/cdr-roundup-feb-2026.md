@@ -37,7 +37,7 @@ Welcome to the first CaptainDrawdown roundup — a regular digest of what's happ
 
 ## 📚 Research Worth Reading
 
-- **"Potential for large-scale CO₂ removal via enhanced rock weathering with croplands"** (Beerling et al., *Nature*, 2020) — Modeling suggests 2–4 GtCO₂/yr potential at costs of US$80–180/tonne, concentrated in tropical and subtropical regions. [doi:10.1038/s41586-020-2448-9](https://www.nature.com/articles/s41586-020-2448-9)
+- **"Potential for large-scale CO₂ removal via [enhanced rock weathering](/posts/what-is-enhanced-weathering/) with croplands"** (Beerling et al., *Nature*, 2020) — Modeling suggests 2–4 GtCO₂/yr potential at costs of US$80–180/tonne, concentrated in tropical and subtropical regions. [doi:10.1038/s41586-020-2448-9](https://www.nature.com/articles/s41586-020-2448-9)
 - **"Long-term stability of biochar in soil systems"** — Meta-analyses and reviews confirm biochar carbon persistence of hundreds to thousands of years in most soil conditions, with mean residence times around 556 years for recalcitrant components ([Wang et al., *Agronomy*, 2021](https://www.mdpi.com/2073-4395/11/12/2474); [Kalu et al., *Frontiers in Soil Science*, 2024](https://www.frontiersin.org/journals/soil-science/articles/10.3389/fsoil.2024.1376159/full))
 - **"Direct air capture cost projections"** — Multiple analyses suggest DAC could reach $200–250/tonne by 2050 with aggressive scale-up, though the $100/tonne target remains challenging ([Belfer Center, Harvard, 2023](https://www.belfercenter.org/publication/prospects-direct-air-carbon-capture-and-storage-costs-scale-and-funding); [Forbes, 2024](https://www.forbes.com/sites/phildeluna/2024/11/29/will-direct-air-capture-ever-cost-less-than-100-per-ton-of-co/))
 
@@ -65,7 +65,7 @@ Until next time. 🌍
 12. cCarbon (2025). "CDR Series: Enhanced Weathering And Mineralization." [ccarbon.info](https://www.ccarbon.info/insight/carbon-dioxide-removal-series-enhanced-weathering-and-mineralization-market-compass-august-2025/)
 13. Subhas, A.V. et al. (2025). "Effects of ocean alkalinity enhancement on plankton." *Communications Earth & Environment*. [doi:10.1038/s43247-025-02248-7](https://www.nature.com/articles/s43247-025-02248-7)
 14. European Commission (2025). "Carbon Removals and Carbon Farming." [climate.ec.europa.eu](https://climate.ec.europa.eu/eu-action/carbon-removals-and-carbon-farming_en)
-15. CarbonGap. "EU CRCF Explained." [tracker.carbongap.org](https://tracker.carbongap.org/policy/crcf/)
+15. CarbonGap. "EU [CRCF](/posts/2026-03-06-eu-first-cdr-certification-standard/) Explained." [tracker.carbongap.org](https://tracker.carbongap.org/policy/crcf/)
 16. Wang, J. et al. (2021). "Soil Organic Carbon Sequestration after Biochar Application: A Global Meta-Analysis." *Agronomy*. [doi:10.3390/agronomy11122474](https://www.mdpi.com/2073-4395/11/12/2474)
 17. Kalu, S. et al. (2024). "Biochar – a sustainable soil conditioner." *Frontiers in Soil Science*. [doi:10.3389/fsoil.2024.1376159](https://www.frontiersin.org/journals/soil-science/articles/10.3389/fsoil.2024.1376159/full)
 18. Belfer Center, Harvard Kennedy School (2023). "Prospects for DACCS: Costs, Scale, and Funding." [belfercenter.org](https://www.belfercenter.org/publication/prospects-direct-air-carbon-capture-and-storage-costs-scale-and-funding)

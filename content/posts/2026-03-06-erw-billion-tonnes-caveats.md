@@ -34,7 +34,7 @@ This is where we put on our CDI hat. The projection numbers assume weathering ra
 
 ## The Bottom Line
 
-ERW has genuine billion-tonne potential. That hasn't changed. But getting from "potential" to "verified removal at scale" requires solving the MRV puzzle, understanding decade-scale cation dynamics, and being honest about where our data falls short.
+[ERW](/posts/what-is-enhanced-weathering/) has genuine billion-tonne potential. That hasn't changed. But getting from "potential" to "verified removal at scale" requires solving the MRV puzzle, understanding decade-scale cation dynamics, and being honest about where our data falls short.
 
 The Cornell study asks the right question: how fast can adoption happen? CDI's research asks the harder one: how much of that adoption actually removes CO₂?
 
