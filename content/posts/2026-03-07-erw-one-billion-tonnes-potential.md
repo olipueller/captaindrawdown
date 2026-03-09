@@ -19,7 +19,7 @@ Big number. Important caveat: "could" is doing a lot of work in that headline.
 
 CDI runs the world's largest greenhouse EW experiment — over 400 lysimeters, 2+ years of data, roughly 1 million CO₂ readings through [Project Carbdown](https://www.carbon-drawdown.de/blog/2026-3-3-portfolio-spotlight-everest-measuring-ew-in-real-time). What we've learned tempers the enthusiasm with specifics:
 
-**Soil type determines everything.** Acidic soils are where ERW works best. High-pH soils hit saturation and produce minimal additional weathering. A global "1 billion tonnes" number obscures massive variability by geography and soil chemistry.
+**Soil type determines everything.** Acidic soils are where [ERW](/posts/what-is-enhanced-weathering/) works best. High-pH soils hit saturation and produce minimal additional weathering. A global "1 billion tonnes" number obscures massive variability by geography and soil chemistry.
 
 **Cation retention is the elephant in the room.** In Year 1, [CDI's data shows](https://carbondrawdown.substack.com/p/79-ecs-proxy-performance-for-individual) 10–50× more cations retained in soil than exported as alkalinity. Measuring only what leaves the field drastically underestimates total weathering — but also means the carbon isn't in the ocean yet, and the permanence timeline is longer than simple models suggest.
 
@@ -42,6 +42,6 @@ The rocks work. Proving they worked — that's the hard part.
 ### 🔗 Related Reading
 
 - [ERW Could Remove 1 Billion Tonnes per Year — But the Caveats Matter](/posts/2026-03-06-erw-billion-tonnes-caveats/)
-- [Enhanced Rock Weathering: Promising, But Not Simple](/posts/2026-02-25-erw-promising-but-not-simple/)
+- [[Enhanced Rock Weathering](/posts/what-is-enhanced-weathering/): Promising, But Not Simple](/posts/2026-02-25-erw-promising-but-not-simple/)
 - [What Is Enhanced Weathering? A Primer](/posts/what-is-enhanced-weathering/)
 - [ERW Under Fire: What the Nature Paper on Uncertainties Actually Says](/posts/erw-uncertainties-nature-paper/)

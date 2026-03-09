@@ -16,7 +16,7 @@ That's less than half the theoretical ceiling of 5 Gt/yr that earlier studies fl
 
 ## The Realistic Adoption Model
 
-Instead of asking "how much rock could physically fit on fields," the Cornell team modeled how quickly farmers would actually adopt ERW based on historical technology uptake curves for innovations like irrigation and precision agriculture.
+Instead of asking "how much rock could physically fit on fields," the Cornell team modeled how quickly farmers would actually adopt [ERW](/posts/what-is-enhanced-weathering/) based on historical technology uptake curves for innovations like irrigation and precision agriculture.
 
 Key findings:
 
@@ -53,7 +53,7 @@ But the industry can't sell what it can't measure. Every ERW company needs to gr
 
 ### 🔗 Related Reading
 
-- [Enhanced Rock Weathering: Promising, But Not Simple](/posts/2026-02-25-erw-promising-but-not-simple/)
+- [[Enhanced Rock Weathering](/posts/what-is-enhanced-weathering/): Promising, But Not Simple](/posts/2026-02-25-erw-promising-but-not-simple/)
 - [ERW Could Remove 1 Billion Tonnes per Year — But the Caveats Matter](/posts/2026-03-06-erw-billion-tonnes-caveats/)
 - [ERW Under Fire: What the Nature Paper on Uncertainties Actually Says](/posts/erw-uncertainties-nature-paper/)
 - [ERW Could Absorb 1 Billion Tonnes of CO₂ — But the Details Matter](/posts/2026-03-07-erw-one-billion-tonnes-potential/)

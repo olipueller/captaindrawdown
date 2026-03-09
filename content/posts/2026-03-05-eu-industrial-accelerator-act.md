@@ -24,7 +24,7 @@ The IAA creates a framework for:
 
 For CDR companies building hardware (DAC units, biochar reactors, mineralization systems), streamlined permitting and guaranteed public demand could be transformative. Europe has struggled with the "valley of death" between pilot and commercial scale. The IAA tries to build a bridge.
 
-This also complements the EU's [Carbon Removals Certification Framework ([CRCF](/posts/2026-03-06-eu-first-cdr-certification-standard/))](https://www.captaindrawdown.com/posts/2026-03-05-cdr-daily-digest/), which just adopted its first permanent removal methodologies for DACCS, BioCCS, and biochar. Together, the CRCF defines *what counts* as removal and the IAA creates *demand* for low-carbon products. That's the beginning of a real market architecture.
+This also complements the EU's [Carbon Removals Certification Framework ([CRCF](/posts/2026-03-06-eu-first-cdr-certification-standard/))](https://www.captaindrawdown.com/posts/2026-03-05-cdr-daily-digest/), which just adopted its first permanent removal methodologies for DACCS, BioCCS, and biochar. Together, the [CRCF](/posts/2026-03-06-eu-first-cdr-certification-standard/) defines *what counts* as removal and the IAA creates *demand* for low-carbon products. That's the beginning of a real market architecture.
 
 ## The CCS Concern
 

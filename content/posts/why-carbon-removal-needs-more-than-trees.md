@@ -56,7 +56,7 @@ I'll be tracking all of it. Stay tuned. 🌍
 5. Deprez, A. et al., via Harfoot, M.B.J. et al. (2026). "Charting our forest future." *npj Climate Action*. [doi:10.1038/s44168-026-00335-9](https://www.nature.com/articles/s44168-026-00335-9)
 6. Copernicus Atmosphere Monitoring Service (2023). "2023: A year of intense global wildfire activity." [atmosphere.copernicus.eu](https://atmosphere.copernicus.eu/2023-year-intense-global-wildfire-activity)
 7. Walker, X.J. et al. (2024). "Carbon emissions from the 2023 Canadian wildfires." *Nature*. [doi:10.1038/s41586-024-07878-z](https://www.nature.com/articles/s41586-024-07878-z)
-8. Beerling, D.J. et al. (2020). "Potential for large-scale CO₂ removal via enhanced rock weathering with croplands." *Nature*, 583, 242–248. [doi:10.1038/s41586-020-2448-9](https://www.nature.com/articles/s41586-020-2448-9)
+8. Beerling, D.J. et al. (2020). "Potential for large-scale CO₂ removal via [enhanced rock weathering](/posts/what-is-enhanced-weathering/) with croplands." *Nature*, 583, 242–248. [doi:10.1038/s41586-020-2448-9](https://www.nature.com/articles/s41586-020-2448-9)
 9. World Resources Institute (2024). "Direct Air Capture: 6 Things To Know." [wri.org](https://www.wri.org/insights/direct-air-capture-resource-considerations-and-costs-carbon-removal)
 10. Kalu, S. et al. (2024). "Biochar – a sustainable soil conditioner." *Frontiers in Soil Science*. [doi:10.3389/fsoil.2024.1376159](https://www.frontiersin.org/journals/soil-science/articles/10.3389/fsoil.2024.1376159/full)
 11. NOAA. "Ocean Acidification." [noaa.gov](https://www.noaa.gov/education/resource-collections/ocean-coasts/ocean-acidification)

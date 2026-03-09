@@ -18,7 +18,7 @@ The headline is exciting. The fine print is where the real story lives.
 
 The Cornell team did something most [ERW](/posts/what-is-enhanced-weathering/) projections skip: they modelled *adoption rates* rather than just theoretical capacity. Using historical data on how fast farmers adopt new practices (like irrigation), they estimated a range of 350 million to 750 million tonnes per year by 2050, scaling to 700M–1.1 Gt by 2100.
 
-They also found that the Global South — Asia, Latin America, sub-Saharan Africa — would eventually surpass Europe and North America in ERW deployment. Higher temperatures and rainfall accelerate weathering. Farmers in tropical regions could earn more per tonne of rock spread, making it economically viable earlier.
+They also found that the Global South — Asia, Latin America, sub-Saharan Africa — would eventually surpass Europe and North America in [ERW](/posts/what-is-enhanced-weathering/) deployment. Higher temperatures and rainfall accelerate weathering. Farmers in tropical regions could earn more per tonne of rock spread, making it economically viable earlier.
 
 ## Where CDI's Research Adds Important Nuance
 
@@ -49,6 +49,6 @@ Both questions need answers. At least we're finally asking them at the same time
 ### 🔗 Related Reading
 
 - [ERW Could Absorb 1 Billion Tonnes of CO₂ — But the Details Matter](/posts/2026-03-07-erw-one-billion-tonnes-potential/)
-- [Enhanced Rock Weathering: Promising, But Not Simple](/posts/2026-02-25-erw-promising-but-not-simple/)
+- [[Enhanced Rock Weathering](/posts/what-is-enhanced-weathering/): Promising, But Not Simple](/posts/2026-02-25-erw-promising-but-not-simple/)
 - [Reality Check: Cornell Study Says ERW Could Hit 1 Billion Tonnes Per Year — With Caveats](/posts/2026-03-05-cornell-erw-billion-tonnes/)
 - [ERW Under Fire: What the Nature Paper on Uncertainties Actually Says](/posts/erw-uncertainties-nature-paper/)

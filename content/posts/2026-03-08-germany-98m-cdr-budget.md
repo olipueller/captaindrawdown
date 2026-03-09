@@ -19,7 +19,7 @@ The 2026 Bundeshaushalt includes **€98 million for CDR projects** and an addit
 
 ## Why This Matters for CDR
 
-Germany has traditionally been a CCS skeptic, with political resistance to underground CO₂ storage running deep. The pivot to CDR — particularly biochar and enhanced weathering, which don't require geological storage — represents a pragmatic shift.
+Germany has traditionally been a CCS skeptic, with political resistance to underground CO₂ storage running deep. The pivot to CDR — particularly biochar and [enhanced weathering](/posts/what-is-enhanced-weathering/), which don't require geological storage — represents a pragmatic shift.
 
 Novocarbo's model is worth noting: its pyrolysis plants produce biochar *and* district heating. In Bochum, a new "Carbon Removal Park" will supply green heat to 26,000 households while permanently sequestering carbon. That's the kind of dual-revenue model that makes CDR bankable.
 

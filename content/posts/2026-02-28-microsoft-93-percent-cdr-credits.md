@@ -50,5 +50,5 @@ Microsoft deserves credit — literally — for keeping this industry alive. But
 
 - [Biochar: The Quiet Giant of Carbon Removal](/posts/2026-02-25-biochar-quiet-giant-of-cdr/)
 - [Philippines Generates Southeast Asia's First Biochar Carbon Credits](/posts/2026-03-07-philippines-first-southeast-asia-biochar-credits/)
-- [What Is Enhanced Weathering? A Primer](/posts/what-is-enhanced-weathering/)
+- [What Is [Enhanced Weathering](/posts/what-is-enhanced-weathering/)? A Primer](/posts/what-is-enhanced-weathering/)
 - [CDR Roundup: What's Moving in Carbon Removal (Feb 2026)](/posts/cdr-roundup-feb-2026/)

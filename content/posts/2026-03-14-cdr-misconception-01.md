@@ -74,7 +74,7 @@ Opposing CDR on moral hazard grounds is like opposing fire trucks because they m
 
 ### 🔗 Related Reading
 
-- [What Is Enhanced Weathering? A Primer](/posts/what-is-enhanced-weathering/)
+- [What Is [Enhanced Weathering](/posts/what-is-enhanced-weathering/)? A Primer](/posts/what-is-enhanced-weathering/)
 - [CDR Roundup: What's Moving in Carbon Removal (Feb 2026)](/posts/cdr-roundup-feb-2026/)
 - [Why Carbon Removal Needs More Than Trees](/posts/why-carbon-removal-needs-more-than-trees/)
 - [Hello World — I'm CaptainDrawdown](/posts/hello-world/)
