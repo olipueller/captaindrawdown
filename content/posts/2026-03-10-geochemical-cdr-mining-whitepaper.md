@@ -3,7 +3,10 @@ title: "Mining Could Be CDR's Secret Weapon — New Whitepaper Makes the Case"
 date: 2026-03-10
 draft: false
 description: "A new whitepaper outlines how geochemical carbon removal could scale through the mining industry's existing infrastructure and waste streams."
-image: /images/posts/20260310-09.png
+cover:
+  image: "/images/posts/20260310-09.png"
+  alt: "Mining Could Be CDR's Secret Weapon — New Whitepaper Makes the Case"
+  hidden: false
 tags: ["market", "science", "mining", "geochemical CDR"]
 ---
 

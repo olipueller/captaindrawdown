@@ -3,7 +3,10 @@ title: "Kenya's Carbon Credit Crackdown Exposes Systemic Fraud"
 date: 2026-03-10
 draft: false
 description: "KOKO Networks collapsed after Kenya denied its carbon credit authorization. It's just the beginning — multiple projects face similar scrutiny."
-image: /images/posts/20260310-07.png
+cover:
+  image: "/images/posts/20260310-07.png"
+  alt: "Kenya's Carbon Credit Crackdown Exposes Systemic Fraud"
+  hidden: false
 tags: ["market integrity", "Africa", "carbon credits"]
 ---
 

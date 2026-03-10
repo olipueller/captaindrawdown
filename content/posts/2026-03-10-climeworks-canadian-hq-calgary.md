@@ -4,7 +4,10 @@ date: 2026-03-10
 slug: climeworks-canadian-hq-calgary
 description: "The Swiss DAC pioneer opens its Canadian headquarters in Calgary, with plans for what could become its largest direct air capture facility in Alberta."
 tags: ["DAC", "Climeworks", "Canada"]
-image: /images/posts/20260310-02.png
+cover:
+  image: /images/posts/20260310-02.png
+  alt: "Climeworks Plants Its Flag in Calgary"
+  hidden: false
 ---
 
 Climeworks — the Swiss company that built the world's first commercial direct air capture plants — just opened its Canadian headquarters in Calgary. And it's not just a symbolic office: they're planning what could become the company's largest DAC facility anywhere.

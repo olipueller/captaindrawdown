@@ -4,7 +4,10 @@ date: 2026-03-10
 slug: sustaera-dac-breakthrough-3x-cheaper
 description: "North Carolina startup Sustaera says its electro-thermal DAC technology achieves 90%+ energy efficiency and 3-5x lower capital costs, putting sub-$100/ton in sight."
 tags: ["DAC", "science", "market"]
-image: /images/posts/20260310-03.png
+cover:
+  image: /images/posts/20260310-03.png
+  alt: "Sustaera Claims 90%+ Efficiency in DAC — 3x Cheaper Than Incumbents"
+  hidden: false
 ---
 
 Sustaera, a North Carolina-based DAC startup, just dropped a bold claim: their third-generation electro-thermal approach captures CO₂ from air at 90%+ energy efficiency, with capital costs 3-5x lower than existing thermal DAC technologies.

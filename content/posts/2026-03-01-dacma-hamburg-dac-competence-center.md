@@ -4,7 +4,6 @@ date: 2026-03-01
 slug: dacma-hamburg-dac-competence-center
 description: "DACMA opens a Direct Air Capture competence center in Hamburg's port, landing a major order from Canada's Deep Sky for a facility scaling to 1 megatonne per year."
 tags: ["DAC", "direct air capture", "Germany", "Hamburg", "Deep Sky", "DACMA"]
-image: "/images/posts/20260301-02.png"
 cover:
   image: "/images/posts/20260301-02.png"
   alt: "Hamburg Breaks Ground on DACMA: German DAC Engineering Goes Global"

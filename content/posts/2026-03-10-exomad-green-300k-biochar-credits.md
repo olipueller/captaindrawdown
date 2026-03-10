@@ -4,7 +4,10 @@ date: 2026-03-10
 slug: exomad-green-300k-biochar-credits
 description: "Bolivia-based Exomad Green passes 300,000 delivered carbon removal credits from large-scale biochar operations across the Global South."
 tags: ["biochar", "market", "Global South"]
-image: /images/posts/20260310-04.png
+cover:
+  image: /images/posts/20260310-04.png
+  alt: "Exomad Green Hits 300,000 Biochar Carbon Removal Credits"
+  hidden: false
 ---
 
 Exomad Green just crossed 300,000 delivered carbon removal credits from its biochar operations. Based in Bolivia, the company converts agricultural waste into biochar across the Global South — and it's now one of the largest biochar CDR producers by volume.

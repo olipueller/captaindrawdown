@@ -3,7 +3,10 @@ title: "Washington State Moves to Join the California-Québec Carbon Market"
 date: 2026-03-10
 draft: false
 description: "A draft agreement outlines how Washington could link its cap-and-invest program to North America's largest carbon trading system."
-image: /images/posts/20260310-06.png
+cover:
+  image: /images/posts/20260310-06.png
+  alt: "Washington State Moves to Join the California-Québec Carbon Market"
+  hidden: false
 tags: ["policy", "carbon markets", "North America"]
 ---
 

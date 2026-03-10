@@ -4,7 +4,6 @@ date: 2026-03-01
 slug: green-carbon-india-biochar-partnership
 description: "Japan's Green Carbon Inc. partners with India's Excellent Enfab to build industrial-scale biochar carbon removal in Ahmedabad, launching Q2 2026."
 tags: ["biochar", "carbon removal", "India", "Japan", "Asia", "CDR"]
-image: "/images/posts/20260301-05.png"
 cover:
   image: "/images/posts/20260301-03.png"
   alt: "Japan-India Biochar Alliance: Industrial-Scale CDR Comes to Asia"

@@ -5,7 +5,6 @@ date: 2026-03-02
 slug: cdr-daily-digest-2026-03-02
 tags: ["digest", "cdr", "carbon-removal"]
 summary: "Microsoft bought 93% of all carbon removal credits last year — and the market still needs more buyers."
-image: "/images/digests/2026-03-02.png"
 cover:
   image: "/images/posts/20260302-02.png"
   alt: "CDR Daily Digest — March 2, 2026"

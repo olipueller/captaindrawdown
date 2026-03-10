@@ -4,7 +4,10 @@ date: 2026-03-10
 slug: ocean-cdr-nutrient-cycling-limits
 description: "New research shows carbon and phosphorus cycle at different speeds in the ocean, meaning biological CDR approaches like iron fertilization may overestimate long-term effectiveness."
 tags: ["science", "ocean CDR", "mCDR"]
-image: /images/posts/20260310-05.png
+cover:
+  image: /images/posts/20260310-05.png
+  alt: "Ocean CDR Has a Nutrient Problem"
+  hidden: false
 ---
 
 A new study throws cold water on some of the rosier projections for biological ocean carbon removal. The core finding: carbon and phosphorus have different residence times in the ocean, and failing to account for this nutrient cycling mismatch could lead to serious overestimates of how much CO₂ actually stays sequestered.

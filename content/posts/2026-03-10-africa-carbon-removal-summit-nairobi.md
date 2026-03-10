@@ -3,7 +3,10 @@ title: "Africa's First Carbon Removal Summit Comes to Nairobi"
 date: 2026-03-10
 draft: false
 description: "Strathmore University maps CDR across sub-Saharan Africa as Nairobi prepares to host the continent's first dedicated carbon removal summit in April."
-image: /images/posts/20260310-10.png
+cover:
+  image: "/images/posts/20260310-10.png"
+  alt: "Africa's First Carbon Removal Summit Comes to Nairobi"
+  hidden: false
 tags: ["Africa", "market", "CDR ecosystem"]
 ---
 
