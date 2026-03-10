@@ -27,7 +27,7 @@ The Nature paper identifies several categories of concern that the CDR community
 
 **Toxic trace elements.** Not all silicate rocks are clean. Some contain heavy metals like nickel, chromium, and cadmium that could accumulate in soils and enter the food chain. The composition varies enormously depending on the rock source, which means quality control at scale becomes a real challenge.
 
-**Carbon tracking from soil to ocean.** ERW's carbon accounting depends on dissolved bicarbonate eventually reaching the ocean. But the pathway from field to stream to river to sea is long and uncertain. Some of that carbon may be released back to the atmosphere along the way. Current MRV (measurement, reporting, and verification) methods struggle to track this journey with confidence.
+**Carbon tracking from soil to ocean.** [ERW](/posts/what-is-enhanced-weathering/)'s carbon accounting depends on dissolved bicarbonate eventually reaching the ocean. But the pathway from field to stream to river to sea is long and uncertain. Some of that carbon may be released back to the atmosphere along the way. Current MRV (measurement, reporting, and verification) methods struggle to track this journey with confidence.
 
 **Soil impacts.** Changing soil chemistry at scale could affect microbial communities, nutrient cycling, and crop performance in ways we don't fully understand yet. The interactions are complex and site-specific.
 

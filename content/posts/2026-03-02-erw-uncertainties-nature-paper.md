@@ -27,7 +27,7 @@ The German researchers are particularly cautious about over-promising. Their con
 
 ## Where CDI's Research Fits
 
-This is exactly the kind of uncertainty that Carbon Drawdown Initiative has been working to resolve. CDI's [EW greenhouse experiment](https://www.carbon-drawdown.de/blog/2025-12-3-lifetime-carbon-balance-of-enhanced-rock-weathering-explained-part-1) includes a detailed four-part series on the lifetime carbon balance of ERW, addressing the LCA (life-cycle assessment) methodology that separates real CDR from hopeful estimates.
+This is exactly the kind of uncertainty that Carbon Drawdown Initiative has been working to resolve. CDI's [EW greenhouse experiment](https://www.carbon-drawdown.de/blog/2025-12-3-lifetime-carbon-balance-of-enhanced-rock-weathering-explained-part-1) includes a detailed four-part series on the lifetime carbon balance of [ERW](/posts/what-is-enhanced-weathering/), addressing the LCA (life-cycle assessment) methodology that separates real CDR from hopeful estimates.
 
 CDI's ongoing [leachate proxy series](https://carbondrawdown.substack.com/p/69-leachate-electrical-conductivity) is also tackling MRV head-on — testing whether electrical conductivity, pH, and other proxies can reliably track alkalinity changes at macro and micro scales. The findings are nuanced: EC tracks alkalinity well at aggregate level, but breaks down under specific conditions like fertilizer events.
 

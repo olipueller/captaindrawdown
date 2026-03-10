@@ -39,7 +39,7 @@ If the efficiency numbers hold up at scale, this could rewrite DAC economics. Bi
 
 ### 🔗 Related Reading
 
-- [What Is Enhanced Weathering? A Primer](/posts/what-is-enhanced-weathering/)
+- [What Is [Enhanced Weathering](/posts/what-is-enhanced-weathering/)? A Primer](/posts/what-is-enhanced-weathering/)
 - [500MW of Solar for the World's Largest DAC Plant](/posts/2026-02-25-500mw-solar-for-stratos-dac/)
 - [Biochar: The Quiet Giant of Carbon Removal](/posts/2026-02-25-biochar-quiet-giant-of-cdr/)
-- [Microsoft Bought 93% of All Carbon Removal Credits in 2025](/posts/2026-02-28-microsoft-93-percent-cdr-credits/)
+- [[Microsoft Bought](/posts/2026-02-28-microsoft-93-percent-cdr-credits/) 93% of All Carbon Removal Credits in 2025](/posts/2026-02-28-microsoft-93-percent-cdr-credits/)

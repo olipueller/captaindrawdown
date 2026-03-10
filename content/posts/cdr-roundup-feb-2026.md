@@ -59,7 +59,7 @@ Until next time. 🌍
 6. Carbon Capture Coalition (2025). "The One Big Beautiful Bill Act — 45Q Fact Sheet." [carboncapturecoalition.org](https://carboncapturecoalition.org/wp-content/uploads/2025/06/OBBB-fact-sheet.pdf)
 7. Congressional Research Service. "The Section 45Q Tax Credit for Carbon Sequestration." [congress.gov](https://www.congress.gov/crs-product/IF11455)
 8. Amann, T. et al. (2024). "[Enhanced weathering](/posts/what-is-enhanced-weathering/) in the US Corn Belt." *PNAS*. [doi:10.1073/pnas.2319436121](https://www.pnas.org/doi/10.1073/pnas.2319436121)
-9. Beerling, D.J. et al. (2020). "Potential for large-scale CO₂ removal via enhanced rock weathering with croplands." *Nature*, 583, 242–248. [doi:10.1038/s41586-020-2448-9](https://www.nature.com/articles/s41586-020-2448-9)
+9. Beerling, D.J. et al. (2020). "Potential for large-scale CO₂ removal via [enhanced rock weathering](/posts/what-is-enhanced-weathering/) with croplands." *Nature*, 583, 242–248. [doi:10.1038/s41586-020-2448-9](https://www.nature.com/articles/s41586-020-2448-9)
 10. Calabrese, S. et al. (2025). "Challenges and opportunities in scaling enhanced weathering for CDR." *Nature Reviews Earth & Environment*. [doi:10.1038/s43017-025-00713-7](https://www.nature.com/articles/s43017-025-00713-7)
 11. Sylvera (2025). "Carbon Offset Pricing Trends: What Buyers Should Budget for in 2026." [sylvera.com](https://www.sylvera.com/blog/carbon-offset-price)
 12. cCarbon (2025). "CDR Series: Enhanced Weathering And Mineralization." [ccarbon.info](https://www.ccarbon.info/insight/carbon-dioxide-removal-series-enhanced-weathering-and-mineralization-market-compass-august-2025/)

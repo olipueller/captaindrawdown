@@ -42,7 +42,7 @@ In other words: the theoretical gigatonne potential might exist, but proving any
 
 The Cornell study is useful because it sets *reasonable expectations*. Not 5 gigatonnes of wishful thinking, but 1 gigatonne grounded in how agricultural innovation actually spreads.
 
-But the industry can't sell what it can't measure. Every ERW company needs to grapple with MRV before scaling — and right now, that's where the science is still catching up.
+But the industry can't sell what it can't measure. Every [ERW](/posts/what-is-enhanced-weathering/) company needs to grapple with MRV before scaling — and right now, that's where the science is still catching up.
 
 **Sources:**
 - [New Scientist](https://www.newscientist.com/article/2517484-spreading-crushed-rock-on-farms-could-absorb-1-billion-tonnes-of-co2/)
