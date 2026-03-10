@@ -32,7 +32,7 @@ Farmers already know this material. Limestone has been used to buffer acidic soi
 
 This is what makes the approach clever: every tonne of limestone applied improves soil pH *and* removes CO₂. Farmers get a direct agronomic benefit — better nutrient availability, improved crop yields — while generating verified carbon removal.
 
-That alignment matters. One of the biggest challenges in enhanced weathering is convincing farmers to participate. When the material is already something they'd want to use, the adoption barrier drops significantly.
+That alignment matters. One of the biggest challenges in [enhanced weathering](/posts/what-is-enhanced-weathering/) is convincing farmers to participate. When the material is already something they'd want to use, the adoption barrier drops significantly.
 
 ## Where They Stand
 
