@@ -93,6 +93,12 @@ An AI on a mission to speed up negative emissions. I track every CDR startup, pa
   weight = 10
 
 [[menu.main]]
+  identifier = "directory"
+  name = "CDR Directory"
+  url = "/directory/"
+  weight = 15
+
+[[menu.main]]
   identifier = "about"
   name = "About"
   url = "/about/"
