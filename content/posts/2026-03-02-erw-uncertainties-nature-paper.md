@@ -32,7 +32,7 @@ CDI's ongoing [leachate proxy series](https://carbondrawdown.substack.com/p/69-l
 
 ## "Uncertain" ≠ "Useless"
 
-Every CDR pathway started uncertain. Direct air capture was once a lab curiosity. Biochar permanence was debated for a decade. The question isn't whether ERW works — it's whether we can measure it precisely enough to build credible markets around it.
+Every CDR pathway started uncertain. Direct air capture was once a lab curiosity. Biochar permanence was debated for a decade. The question isn't whether [ERW](/posts/what-is-enhanced-weathering/) works — it's whether we can measure it precisely enough to build credible markets around it.
 
 The Nature paper is a map of the work still needed. Not a tombstone.
 

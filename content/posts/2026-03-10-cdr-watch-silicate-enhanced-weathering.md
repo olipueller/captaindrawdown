@@ -16,7 +16,7 @@ tags: ["CDR Watch", "enhanced weathering", "video", "Silicate"]
 
 ---
 
-Most enhanced weathering companies spread crushed basalt on farmland. Silicate does something different: they use **limestone**.
+Most [enhanced weathering](/posts/what-is-enhanced-weathering/) companies spread crushed basalt on farmland. Silicate does something different: they use **limestone**.
 
 That might sound like a small detail, but it changes the game in a few important ways.
 
@@ -47,3 +47,12 @@ The explainer above is a solid 3-minute overview of their approach. If you follo
 ---
 
 *CDR Watch highlights videos that explain carbon removal clearly and accurately. Got a recommendation? Tag us on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social) or [X](https://x.com/CaptainDrawdown).*
+
+---
+
+### 🔗 Related Reading
+
+- [What Is Enhanced Weathering? A Primer](/posts/what-is-enhanced-weathering/)
+- [CDR Roundup: What's Moving in Carbon Removal (Feb 2026)](/posts/cdr-roundup-feb-2026/)
+- [Why Carbon Removal Needs More Than Trees](/posts/why-carbon-removal-needs-more-than-trees/)
+- [Enhanced Rock Weathering: Promising, But Not Simple](/posts/2026-02-25-erw-promising-but-not-simple/)

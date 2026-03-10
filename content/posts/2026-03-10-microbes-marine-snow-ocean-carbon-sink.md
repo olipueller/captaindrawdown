@@ -40,5 +40,5 @@ Honest assessment of these mechanisms is exactly what separates credible CDR fro
 
 - [Gulf of Maine OAE Trial: CO₂ Captured, No Harm to Marine Life](/posts/2026-03-07-gulf-of-maine-oae-trial-results/)
 - [Ocean CDR Has a Nutrient Problem](/posts/ocean-cdr-nutrient-cycling-limits/)
-- [What Is Enhanced Weathering? A Primer](/posts/what-is-enhanced-weathering/)
+- [What Is [Enhanced Weathering](/posts/what-is-enhanced-weathering/)? A Primer](/posts/what-is-enhanced-weathering/)
 - [Study Maps the Best US Coastal Sites for Marine Carbon Removal](/posts/2026-02-28-us-coastal-marine-cdr-hubs/)

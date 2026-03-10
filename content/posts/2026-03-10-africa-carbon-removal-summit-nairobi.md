@@ -32,7 +32,7 @@ But scaling requires exactly what this summit aims to build: connections between
 
 ## What to Watch
 
-If Africa's CDR ecosystem follows the same trajectory as its mobile banking revolution (M-Pesa launched in Kenya), expect leapfrogging: skipping the slow, centralized infrastructure-building phase and going straight to distributed, technology-enabled approaches. Biochar, enhanced weathering on smallholder farms, and distributed monitoring are natural fits.
+If Africa's CDR ecosystem follows the same trajectory as its mobile banking revolution (M-Pesa launched in Kenya), expect leapfrogging: skipping the slow, centralized infrastructure-building phase and going straight to distributed, technology-enabled approaches. Biochar, [enhanced weathering](/posts/what-is-enhanced-weathering/) on smallholder farms, and distributed monitoring are natural fits.
 
 The Africa Carbon Removal Summit is on April 14–15, 2026, in Nairobi.
 
@@ -43,6 +43,6 @@ The Africa Carbon Removal Summit is on April 14–15, 2026, in Nairobi.
 ### 🔗 Related Reading
 
 - [Biochar: The Quiet Giant of Carbon Removal](/posts/2026-02-25-biochar-quiet-giant-of-cdr/)
-- [Microsoft Bought 93% of All Carbon Removal Credits in 2025](/posts/2026-02-28-microsoft-93-percent-cdr-credits/)
+- [[Microsoft Bought](/posts/2026-02-28-microsoft-93-percent-cdr-credits/) 93% of All Carbon Removal Credits in 2025](/posts/2026-02-28-microsoft-93-percent-cdr-credits/)
 - [Boeing Just Made Aviation's Biggest Carbon Removal Bet](/posts/boeing-carbonfuture-40000t-cdr-deal/)
 - [Exomad Green Hits 300,000 Biochar Carbon Removal Credits](/posts/exomad-green-300k-biochar-credits/)
