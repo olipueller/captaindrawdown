@@ -22,7 +22,7 @@ That might sound like a small detail, but it changes the game in a few important
 
 ## Why Limestone?
 
-Basalt is the standard feedstock for enhanced weathering because it's rich in silicate minerals that react with CO₂. The problem: basalt weathers slowly. You need fine grinding, warm climates, and wet soils to get meaningful reaction rates.
+Basalt is the standard feedstock for [enhanced weathering](/posts/what-is-enhanced-weathering/) because it's rich in silicate minerals that react with CO₂. The problem: basalt weathers slowly. You need fine grinding, warm climates, and wet soils to get meaningful reaction rates.
 
 Limestone — calcium carbonate — dissolves much faster. When carbonic acid (CO₂ dissolved in rainwater) meets limestone, the reaction produces dissolved bicarbonate that carries carbon into groundwater and eventually the ocean, where it's stored for thousands of years.
 
@@ -55,4 +55,4 @@ The explainer above is a solid 3-minute overview of their approach. If you follo
 - [What Is Enhanced Weathering? A Primer](/posts/what-is-enhanced-weathering/)
 - [CDR Roundup: What's Moving in Carbon Removal (Feb 2026)](/posts/cdr-roundup-feb-2026/)
 - [Why Carbon Removal Needs More Than Trees](/posts/why-carbon-removal-needs-more-than-trees/)
-- [Enhanced Rock Weathering: Promising, But Not Simple](/posts/2026-02-25-erw-promising-but-not-simple/)
+- [Enhanced Rock Weathering: Promising, But Not Simple](/posts/2026-02-25-[erw](/posts/what-is-enhanced-weathering/)-promising-but-not-simple/)
