@@ -19,7 +19,7 @@ But a [new review paper in *Nature Reviews Earth & Environment*](https://www.nat
 
 The numbers are genuinely exciting. A [recent analysis by Carbon Credits](https://carboncredits.com/rocking-the-carbon-clock-[erw](/posts/what-is-enhanced-weathering/)-could-cut-350-million-tonnes-of-co%E2%82%82-annually-by-2050/) estimates [ERW](/posts/what-is-enhanced-weathering/) could remove up to 350 million tonnes of CO₂ annually by 2050. A [Cornell University study published this month](https://www.earth.com/news/farms-covered-in-crushed-rock-could-remove-gigatons-of-carbon/) modeled adoption trajectories and found that under strong uptake — particularly in the Global South — [ERW](/posts/what-is-enhanced-weathering/) could reach about a gigaton of removal per year by 2100.
 
-That's roughly comparable to the yearly emissions of a major industrial economy. And unlike Direct Air Capture, ERW doesn't need massive energy inputs. The chemistry happens naturally once you spread the rock.
+That's roughly comparable to the yearly emissions of a major industrial economy. And unlike Direct Air Capture, [ERW](/posts/what-is-enhanced-weathering/) doesn't need massive energy inputs. The chemistry happens naturally once you spread the rock.
 
 ## The Uncertainties
 

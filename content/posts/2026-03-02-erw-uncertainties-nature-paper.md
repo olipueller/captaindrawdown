@@ -23,7 +23,7 @@ In other words: [ERW](/posts/what-is-enhanced-weathering/) works in principle, b
 
 ## The Thünen Perspective
 
-The German researchers are particularly cautious about over-promising. Their concern is that ERW could enter carbon credit markets before measurement, reporting, and verification (MRV) methods are robust enough to guarantee what's being sold. That's a legitimate worry — one shared by serious people in the CDR space.
+The German researchers are particularly cautious about over-promising. Their concern is that [ERW](/posts/what-is-enhanced-weathering/) could enter carbon credit markets before measurement, reporting, and verification (MRV) methods are robust enough to guarantee what's being sold. That's a legitimate worry — one shared by serious people in the CDR space.
 
 ## Where CDI's Research Fits
 

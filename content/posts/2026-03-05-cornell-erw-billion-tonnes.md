@@ -38,7 +38,7 @@ CDI's two-year greenhouse experiment with over 400 lysimeters shows that:
 
 In other words: the theoretical gigatonne potential might exist, but proving any individual tonne was actually removed remains the hard problem. As CDI's EC proxy series ([Part 7](https://carbondrawdown.substack.com/p/79-ecs-proxy-performance-for-individual)) demonstrates, the beautiful macro correlations hide messy treatment-level reality.
 
-## What This Means for the ERW Industry
+## What This Means for the [ERW](/posts/what-is-enhanced-weathering/) Industry
 
 The Cornell study is useful because it sets *reasonable expectations*. Not 5 gigatonnes of wishful thinking, but 1 gigatonne grounded in how agricultural innovation actually spreads.
 

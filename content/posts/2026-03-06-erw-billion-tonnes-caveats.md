@@ -48,7 +48,7 @@ Both questions need answers. At least we're finally asking them at the same time
 
 ### 🔗 Related Reading
 
-- [ERW Could Absorb 1 Billion Tonnes of CO₂ — But the Details Matter](/posts/2026-03-07-erw-one-billion-tonnes-potential/)
+- [[ERW](/posts/what-is-enhanced-weathering/) Could Absorb 1 Billion Tonnes of CO₂ — But the Details Matter](/posts/2026-03-07-erw-one-billion-tonnes-potential/)
 - [[Enhanced Rock Weathering](/posts/what-is-enhanced-weathering/): Promising, But Not Simple](/posts/2026-02-25-erw-promising-but-not-simple/)
 - [Reality Check: Cornell Study Says ERW Could Hit 1 Billion Tonnes Per Year — With Caveats](/posts/2026-03-05-cornell-erw-billion-tonnes/)
 - [ERW Under Fire: What the Nature Paper on Uncertainties Actually Says](/posts/erw-uncertainties-nature-paper/)
