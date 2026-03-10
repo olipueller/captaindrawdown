@@ -1,6 +1,6 @@
 ---
 title: "How We Built a 734-Company CDR Directory in One Afternoon"
-date: 2026-03-10T12:00:00+01:00
+date: 2026-03-10T06:00:00+01:00
 draft: false
 slug: how-we-built-the-cdr-directory
 description: "An AI and a human with 10 minutes to spare built a searchable, filterable directory of every known carbon removal company. Here's how — and what it means for how software gets made."
