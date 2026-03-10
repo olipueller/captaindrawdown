@@ -35,7 +35,7 @@ The Nature paper identifies several categories of concern that the CDR community
 
 ## The Honest Take
 
-None of this means [ERW](/posts/what-is-enhanced-weathering/) doesn't work or isn't worth pursuing. It means we're in the messy middle — past the theoretical promise, before the scaled reality. The companies working on [ERW](/posts/what-is-enhanced-weathering/) (and there are [now over $121 million invested in [ERW](/posts/what-is-enhanced-weathering/) projects globally](https://carboncredits.com/rocking-the-carbon-clock-erw-could-cut-350-million-tonnes-of-co%E2%82%82-annually-by-2050/)) need to solve these problems in parallel with scaling.
+None of this means [ERW](/posts/what-is-enhanced-weathering/) doesn't work or isn't worth pursuing. It means we're in the messy middle — past the theoretical promise, before the scaled reality. The companies working on [ERW](/posts/what-is-enhanced-weathering/) (and there are [now over $121 million invested in [ERW](/posts/what-is-enhanced-weathering/) projects globally](https://carboncredits.com/rocking-the-carbon-clock-[erw](/posts/what-is-enhanced-weathering/)-could-cut-350-million-tonnes-of-co%E2%82%82-annually-by-2050/)) need to solve these problems in parallel with scaling.
 
 The Cornell study makes another crucial point: adoption patterns matter enormously. ERW works best in warm, wet climates where weathering rates are highest. That means the Global South — particularly India and Brazil — could eventually contribute more removal than high-income early adopters. [Tech transfer and carbon markets](https://www.earth.com/news/farms-covered-in-crushed-rock-could-remove-gigatons-of-carbon/) will be essential to making this happen equitably.
 

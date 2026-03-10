@@ -367,7 +367,7 @@
   },
   {
     "name": "AEROC",
-    "category": "Mineralization",
+    "category": "ERW",
     "method": "Enhanced Rock Weathering",
     "country": "Germany",
     "location": "Germany",
@@ -733,7 +733,7 @@
   },
   {
     "name": "Alt Carbon",
-    "category": "Mineralization",
+    "category": "ERW",
     "method": "Enhanced Rock Weathering",
     "country": "India",
     "location": "India",
@@ -887,7 +887,7 @@
   },
   {
     "name": "Anglo American",
-    "category": "Mineralization",
+    "category": "ERW",
     "method": "Enhanced Rock Weathering",
     "country": "United Kingdom",
     "location": "UK",
@@ -1501,7 +1501,7 @@
   },
   {
     "name": "Basic Dust",
-    "category": "Mineralization",
+    "category": "ERW",
     "method": "Enhanced Rock Weathering",
     "country": "United States",
     "location": "U.S.",
@@ -2904,7 +2904,7 @@
   },
   {
     "name": "Carbon Bank",
-    "category": "Mineralization",
+    "category": "ERW",
     "method": "Enhanced Rock Weathering",
     "country": "United Kingdom",
     "location": "UK",
@@ -3016,8 +3016,8 @@
   },
   {
     "name": "Carbon Cycle",
-    "category": "BiCRS",
-    "method": "Biochar",
+    "category": "ERW",
+    "method": "Enhanced Rock Weathering",
     "country": "Germany",
     "location": "Germany",
     "tech_note": "Biochar",
@@ -3219,7 +3219,7 @@
   },
   {
     "name": "Carbon Neutral Initiative",
-    "category": "Mineralization",
+    "category": "ERW",
     "method": "Enhanced Rock Weathering",
     "country": "Netherlands",
     "location": "The Netherlands",
@@ -3486,7 +3486,7 @@
   },
   {
     "name": "Carbonaught",
-    "category": "Mineralization",
+    "category": "ERW",
     "method": "Enhanced Rock Weathering",
     "country": "Australia",
     "location": "Australia",
@@ -3566,7 +3566,7 @@
   },
   {
     "name": "Carbondrop",
-    "category": "Mineralization",
+    "category": "ERW",
     "method": "Enhanced Rock Weathering",
     "country": "Austria",
     "location": "Austria",
@@ -3873,7 +3873,7 @@
   },
   {
     "name": "Carbony",
-    "category": "Mineralization",
+    "category": "ERW",
     "method": "Enhanced Rock Weathering",
     "country": "Austria",
     "location": "Austria",
@@ -4349,7 +4349,7 @@
   },
   {
     "name": "Cleen Carbon",
-    "category": "Mineralization",
+    "category": "ERW",
     "method": "Enhanced Rock Weathering",
     "country": "India",
     "location": "India",
@@ -4413,7 +4413,7 @@
   },
   {
     "name": "ClimeRock",
-    "category": "Mineralization",
+    "category": "ERW",
     "method": "Enhanced Rock Weathering",
     "country": "France",
     "location": "France",
@@ -4487,7 +4487,7 @@
   },
   {
     "name": "Co-reactive",
-    "category": "Mineralization",
+    "category": "ERW",
     "method": "Enhanced Rock Weathering",
     "country": "Germany",
     "location": "United States",
@@ -5823,7 +5823,7 @@
   },
   {
     "name": "FabricNano/Veolia",
-    "category": "Mineralization",
+    "category": "ERW",
     "method": "Enhanced Rock Weathering",
     "country": "United Kingdom",
     "location": "UK",
@@ -5954,7 +5954,7 @@
   },
   {
     "name": "Flux",
-    "category": "Mineralization",
+    "category": "ERW",
     "method": "Enhanced Rock Weathering",
     "country": "Kenya",
     "location": "Kenya",
@@ -6351,7 +6351,7 @@
   },
   {
     "name": "Goal 300",
-    "category": "Mineralization",
+    "category": "ERW",
     "method": "Enhanced Rock Weathering",
     "country": "United States",
     "location": "U.S.",
@@ -6513,7 +6513,7 @@
   },
   {
     "name": "Green Sequest",
-    "category": "Mineralization",
+    "category": "ERW",
     "method": "Enhanced Rock Weathering",
     "country": "Poland",
     "location": "Poland",
@@ -6659,7 +6659,7 @@
   },
   {
     "name": "greenSand",
-    "category": "Mineralization",
+    "category": "ERW",
     "method": "Enhanced Rock Weathering",
     "country": "Netherlands",
     "location": "The Netherlands",
@@ -7223,7 +7223,7 @@
   },
   {
     "name": "InPlanet",
-    "category": "Mineralization",
+    "category": "ERW",
     "method": "Enhanced Rock Weathering",
     "country": "Brazil",
     "location": "Brazil",
@@ -7854,7 +7854,7 @@
   },
   {
     "name": "Lithos",
-    "category": "Mineralization",
+    "category": "ERW",
     "method": "Enhanced Rock Weathering",
     "country": "United States",
     "location": "U.S.",
@@ -8098,7 +8098,7 @@
   },
   {
     "name": "Mati",
-    "category": "Mineralization",
+    "category": "ERW",
     "method": "Enhanced Rock Weathering",
     "country": "India",
     "location": "India",
@@ -8115,7 +8115,7 @@
   },
   {
     "name": "Metalplant",
-    "category": "Mineralization",
+    "category": "ERW",
     "method": "Enhanced Rock Weathering",
     "country": "United States",
     "location": "U.S.",
@@ -10329,7 +10329,7 @@
   },
   {
     "name": "reverce",
-    "category": "Mineralization",
+    "category": "ERW",
     "method": "Enhanced Rock Weathering",
     "country": "Germany",
     "location": "Germany",
@@ -10466,7 +10466,7 @@
   },
   {
     "name": "Rock Flour Company",
-    "category": "Mineralization",
+    "category": "ERW",
     "method": "Enhanced Rock Weathering",
     "country": "Denmark",
     "location": "Denmark",
@@ -10539,7 +10539,7 @@
   },
   {
     "name": "RubiscoBlack",
-    "category": "Mineralization",
+    "category": "ERW",
     "method": "Enhanced Rock Weathering",
     "country": "India",
     "location": "India",
@@ -10843,7 +10843,7 @@
   },
   {
     "name": "Silica",
-    "category": "Mineralization",
+    "category": "ERW",
     "method": "Enhanced Rock Weathering",
     "country": "Mexico",
     "location": "Mexico",
@@ -10859,7 +10859,7 @@
   },
   {
     "name": "Silicate",
-    "category": "Mineralization",
+    "category": "ERW",
     "method": "Enhanced Rock Weathering",
     "country": "Ireland",
     "location": "Ireland",
@@ -11336,7 +11336,7 @@
   },
   {
     "name": "Stack Carbon",
-    "category": "Mineralization",
+    "category": "ERW",
     "method": "Enhanced Rock Weathering",
     "country": "Uganda",
     "location": "Uganda",
@@ -11707,7 +11707,7 @@
   },
   {
     "name": "Syntopa",
-    "category": "Mineralization",
+    "category": "ERW",
     "method": "Enhanced Rock Weathering",
     "country": "United States",
     "location": "Germany",
@@ -11812,7 +11812,7 @@
   },
   {
     "name": "Tambora",
-    "category": "Mineralization",
+    "category": "ERW",
     "method": "Enhanced Rock Weathering",
     "country": "Indonesia",
     "location": "Indonesia",
@@ -11972,7 +11972,7 @@
   },
   {
     "name": "Terradot",
-    "category": "Mineralization",
+    "category": "ERW",
     "method": "Enhanced Rock Weathering",
     "country": "United States",
     "location": "U.S.",
@@ -12061,7 +12061,7 @@
   },
   {
     "name": "Terrasols",
-    "category": "Mineralization",
+    "category": "ERW",
     "method": "Enhanced Rock Weathering",
     "country": "India",
     "location": "India",
@@ -12336,8 +12336,8 @@
   },
   {
     "name": "Travertine",
-    "category": "DAC",
-    "method": "DAC (Liquid Solvent)",
+    "category": "ERW",
+    "method": "Enhanced Rock Weathering",
     "country": "United States",
     "location": "U.S.",
     "tech_note": "Liquid solvent DAC",
@@ -12361,7 +12361,7 @@
   },
   {
     "name": "Tropicarbon",
-    "category": "Mineralization",
+    "category": "ERW",
     "method": "Enhanced Rock Weathering",
     "country": "Colombia",
     "location": "Colombia",
@@ -12499,7 +12499,7 @@
   },
   {
     "name": "UNDO",
-    "category": "Mineralization",
+    "category": "ERW",
     "method": "Enhanced Rock Weathering",
     "country": "United Kingdom",
     "location": "UK",
@@ -13341,7 +13341,7 @@
   },
   {
     "name": "ZeroEx",
-    "category": "Mineralization",
+    "category": "ERW",
     "method": "Enhanced Rock Weathering",
     "country": "Germany",
     "location": "Germany",
@@ -13608,8 +13608,8 @@
     },
     "health_score": 35,
     "health_tier": "🟠 Suspect",
-    "category": "BiCRS",
-    "method": "Biomass Carbon Removal",
+    "category": "ERW",
+    "method": "Enhanced Rock Weathering",
     "url": "https://carbonsink.com/",
     "added": "2026-03-10",
     "cdi_portfolio": false,
@@ -13884,7 +13884,7 @@
     "health_tier": "🟢 Active",
     "url": "https://oceanx.org/",
     "tech_note": "OceanX - the CDR company entfernt für Sie CO2 direkt aus der Atmosphäre!",
-    "category": "mCDR",
+    "category": "Marine CDR",
     "method": "Ocean-based CDR",
     "added": "2026-03-10",
     "cdi_portfolio": false,
@@ -14541,7 +14541,7 @@
     "health_tier": "🟡 Moderate",
     "url": "https://submarinescientific.com/",
     "tech_note": "Ocean CDR research company developing marine carbon dioxide removal approaches.",
-    "category": "mCDR",
+    "category": "Marine CDR",
     "method": "Ocean-based CDR",
     "added": "2026-03-10",
     "cdi_portfolio": false,
@@ -14807,7 +14807,7 @@
     },
     "health_score": 65,
     "health_tier": "🟡 Moderate",
-    "category": "mCDR",
+    "category": "Marine CDR",
     "method": "Ocean-based CDR",
     "added": "2026-03-10",
     "cdi_portfolio": false,
@@ -15201,7 +15201,7 @@
     "health_tier": "🟢 Active",
     "url": "https://seagen.earth/",
     "tech_note": "Carbon removals are just that, the actual removal of additional carbon from the atmosphere. Not avoiding emissions, not emissions reduction, removal. So how does that work with sinking Sargassum? I...",
-    "category": "mCDR",
+    "category": "Marine CDR",
     "method": "Ocean-based CDR",
     "added": "2026-03-10",
     "cdi_portfolio": false,
@@ -15275,7 +15275,7 @@
     "health_tier": "🟢 Active",
     "url": "https://www.livingcarbon.com/",
     "tech_note": "Biotechnology company engineering trees for enhanced photosynthesis and carbon storage.",
-    "category": "mCDR",
+    "category": "Marine CDR",
     "method": "Ocean-based CDR",
     "added": "2026-03-10",
     "cdi_portfolio": false,

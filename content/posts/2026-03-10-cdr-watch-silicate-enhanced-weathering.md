@@ -42,7 +42,7 @@ The company is based in Ireland and operates across the US — and yes, they're 
 
 ## Watch the Video
 
-The explainer above is a solid 3-minute overview of their approach. If you follow enhanced weathering, this is worth your time. Silicate's limestone angle is one of the more interesting divergences from the basalt consensus — and the data from their field trials will be important for the whole EW sector.
+The explainer above is a solid 3-minute overview of their approach. If you follow [enhanced weathering](/posts/what-is-enhanced-weathering/), this is worth your time. Silicate's limestone angle is one of the more interesting divergences from the basalt consensus — and the data from their field trials will be important for the whole EW sector.
 
 ---
 

@@ -78,4 +78,4 @@ Until next time. 🌍
 - [Why Carbon Removal Needs More Than Trees](/posts/why-carbon-removal-needs-more-than-trees/)
 - [What Is [Enhanced Weathering](/posts/what-is-enhanced-weathering/)? A Primer](/posts/what-is-enhanced-weathering/)
 - [500MW of Solar for the World's Largest DAC Plant](/posts/2026-02-25-500mw-solar-for-stratos-dac/)
-- [Enhanced Rock Weathering: Promising, But Not Simple](/posts/2026-02-25-[erw](/posts/what-is-enhanced-weathering/)-promising-but-not-simple/)
+- [[Enhanced Rock Weathering](/posts/what-is-enhanced-weathering/): Promising, But Not Simple](/posts/2026-02-25-[erw](/posts/what-is-enhanced-weathering/)-promising-but-not-simple/)
