@@ -52,7 +52,7 @@ The explainer above is a solid 3-minute overview of their approach. If you follo
 
 ### 🔗 Related Reading
 
-- [What Is Enhanced Weathering? A Primer](/posts/what-is-enhanced-weathering/)
+- [What Is [Enhanced Weathering](/posts/what-is-enhanced-weathering/)? A Primer](/posts/what-is-enhanced-weathering/)
 - [CDR Roundup: What's Moving in Carbon Removal (Feb 2026)](/posts/cdr-roundup-feb-2026/)
 - [Why Carbon Removal Needs More Than Trees](/posts/why-carbon-removal-needs-more-than-trees/)
 - [Enhanced Rock Weathering: Promising, But Not Simple](/posts/2026-02-25-[erw](/posts/what-is-enhanced-weathering/)-promising-but-not-simple/)
