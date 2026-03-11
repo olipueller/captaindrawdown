@@ -12,10 +12,28 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 25,
-    "health_tier": "🟠 Suspect",
+    "health_score": 60,
+    "health_tier": "🟡 Moderate",
     "last_web_mention": null,
-    "last_checked": "2026-03-10T19:59:23.456009"
+    "last_checked": "2026-03-10T19:59:23.456009",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "1pointfive",
+        "total_sold": 9126,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 5,
+        "num_purchasers": 2,
+        "methods": [
+          "Direct Air Carbon Capture and Sequestration (DACCS)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/1pointfive"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "22 Energy",
@@ -48,8 +66,8 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 65,
-    "health_tier": "🟡 Moderate",
+    "health_score": 70,
+    "health_tier": "🟢 Active",
     "last_web_mention": null,
     "last_checked": "2026-03-10T19:59:23.456026",
     "registry_data": {
@@ -59,8 +77,24 @@
         "company_size": "xxs",
         "scanned": "2026-03-10",
         "status": "hiring"
+      },
+      "cdrfyi": {
+        "slug": "280-earth",
+        "total_sold": 61571,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 1,
+        "num_purchasers": 1,
+        "methods": [
+          "Direct Air Carbon Capture and Sequestration (DACCS)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/280-earth"
       }
-    }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "323ppm",
@@ -581,8 +615,26 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 25,
-    "health_tier": "🟠 Suspect"
+    "health_score": 50,
+    "health_tier": "🟡 Moderate",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "airhive",
+        "total_sold": 943,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 1,
+        "num_purchasers": 1,
+        "methods": [
+          "Direct Air Carbon Capture and Sequestration (DACCS)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/airhive"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "AirMyne",
@@ -596,7 +648,7 @@
     "source": "Faber CDR Company List (Jan 2026), CC BY-NC-SA 4.0",
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
-    "last_seen": null,
+    "last_seen": "2026-03-10",
     "registry_data": {
       "cdrjobs": {
         "job_count": 1,
@@ -710,10 +762,26 @@
         "company_size": "xxs",
         "scanned": "2026-03-10",
         "status": "hiring"
+      },
+      "cdrfyi": {
+        "slug": "alithic",
+        "total_sold": 285,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 1,
+        "num_purchasers": 1,
+        "methods": [
+          "Direct Air Carbon Capture and Sequestration (DACCS)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/alithic"
       }
     },
     "health_score": 50,
-    "health_tier": "🟡 Moderate"
+    "health_tier": "🟡 Moderate",
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Alpine X",
@@ -751,10 +819,26 @@
         "company_size": "xxs",
         "scanned": "2026-03-10",
         "status": "hiring"
+      },
+      "cdrfyi": {
+        "slug": "alt-carbon",
+        "total_sold": 21901,
+        "total_delivered": 437.92,
+        "latest_delivery": "2025-04-25",
+        "num_transactions": 5,
+        "num_purchasers": 4,
+        "methods": [
+          "Enhanced Weathering"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/alt-carbon"
       }
     },
     "health_score": 80,
-    "health_tier": "🟢 Active"
+    "health_tier": "🟢 Active",
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "alterBiota",
@@ -818,7 +902,8 @@
     "added": "2026-03-08",
     "last_seen": null,
     "registries": [
-      "Puro.earth"
+      "Puro.earth",
+      "CDR.fyi"
     ],
     "registry_data": {
       "puro": {
@@ -832,10 +917,23 @@
         ],
         "scanned": "2026-03-10",
         "status": "active"
+      },
+      "cdrfyi": {
+        "slug": "americanbiocarbon",
+        "total_sold": 129,
+        "total_delivered": 129,
+        "latest_delivery": "2025-12-15",
+        "num_transactions": 5,
+        "num_purchasers": 3,
+        "methods": [
+          "Biochar Carbon Removal (BCR)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/americanbiocarbon"
       }
     },
-    "health_score": 65,
-    "health_tier": "🟡 Moderate"
+    "health_score": 75,
+    "health_tier": "🟢 Active"
   },
   {
     "name": "American BioChar Company",
@@ -866,8 +964,26 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 0,
-    "health_tier": "🔴 Likely Dead"
+    "health_score": 75,
+    "health_tier": "🟢 Active",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "andes",
+        "total_sold": 11995,
+        "total_delivered": 3923,
+        "latest_delivery": "2025-12-12",
+        "num_transactions": 5,
+        "num_purchasers": 4,
+        "methods": [
+          "Mineralization"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/andes"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Anew Climate",
@@ -930,8 +1046,26 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 0,
-    "health_tier": "🔴 Likely Dead"
+    "health_score": 50,
+    "health_tier": "🟡 Moderate",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "anvil",
+        "total_sold": 357,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 1,
+        "num_purchasers": 1,
+        "methods": [
+          "Mineralization"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/anvil"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "APChemi",
@@ -1083,10 +1217,26 @@
         "company_size": "xxs",
         "scanned": "2026-03-10",
         "status": "hiring"
+      },
+      "cdrfyi": {
+        "slug": "aquarry",
+        "total_sold": 500,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 2,
+        "num_purchasers": 2,
+        "methods": [
+          "Alkalinity Enhancement"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/aquarry"
       }
     },
     "health_score": 50,
-    "health_tier": "🟡 Moderate"
+    "health_tier": "🟡 Moderate",
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Aramco/Siemens Energy",
@@ -1124,10 +1274,26 @@
         "company_size": "xxs",
         "scanned": "2026-03-10",
         "status": "hiring"
+      },
+      "cdrfyi": {
+        "slug": "arbon",
+        "total_sold": 523,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 4,
+        "num_purchasers": 4,
+        "methods": [
+          "Direct Air Carbon Capture and Sequestration (DACCS)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/arbon"
       }
     },
     "health_score": 50,
-    "health_tier": "🟡 Moderate"
+    "health_tier": "🟡 Moderate",
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Arbon Earth",
@@ -1142,8 +1308,26 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 0,
-    "health_tier": "🔴 Likely Dead"
+    "health_score": 50,
+    "health_tier": "🟡 Moderate",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "arbon",
+        "total_sold": 523,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 4,
+        "num_purchasers": 4,
+        "methods": [
+          "Direct Air Carbon Capture and Sequestration (DACCS)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/arbon"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Arbor",
@@ -1158,8 +1342,26 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 0,
-    "health_tier": "🔴 Likely Dead"
+    "health_score": 70,
+    "health_tier": "🟢 Active",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "arbor",
+        "total_sold": 160132,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 5,
+        "num_purchasers": 3,
+        "methods": [
+          "Bioenergy with Carbon Capture and Sequestration (BECCS)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/arbor"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "ARC",
@@ -1174,8 +1376,26 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 25,
-    "health_tier": "🟠 Suspect"
+    "health_score": 75,
+    "health_tier": "🟢 Active",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "arc",
+        "total_sold": 100.27,
+        "total_delivered": 40.27,
+        "latest_delivery": "2024-06-19",
+        "num_transactions": 1,
+        "num_purchasers": 1,
+        "methods": [
+          "Bioenergy with Carbon Capture and Sequestration (BECCS)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/arc"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Arca",
@@ -1197,10 +1417,26 @@
         "company_size": "xs",
         "scanned": "2026-03-10",
         "status": "hiring"
+      },
+      "cdrfyi": {
+        "slug": "arca",
+        "total_sold": 294043,
+        "total_delivered": 91.2,
+        "latest_delivery": "2022-12-15",
+        "num_transactions": 5,
+        "num_purchasers": 4,
+        "methods": [
+          "Mineralization"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/arca"
       }
     },
-    "health_score": 65,
-    "health_tier": "🟡 Moderate"
+    "health_score": 75,
+    "health_tier": "🟢 Active",
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Aries Clean Technologies",
@@ -1263,8 +1499,26 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 25,
-    "health_tier": "🟠 Suspect"
+    "health_score": 70,
+    "health_tier": "🟢 Active",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "arukah",
+        "total_sold": 56774,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 4,
+        "num_purchasers": 2,
+        "methods": [
+          "Biochar Carbon Removal (BCR)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/arukah"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "ASF GmbH",
@@ -1343,8 +1597,26 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 25,
-    "health_tier": "🟠 Suspect"
+    "health_score": 70,
+    "health_tier": "🟢 Active",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "atmosclear",
+        "total_sold": 6787500,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 1,
+        "num_purchasers": 1,
+        "methods": [
+          "Bioenergy with Carbon Capture and Sequestration (BECCS)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/atmosclear"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Atmosfuture Limited",
@@ -1496,8 +1768,26 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 25,
-    "health_tier": "🟠 Suspect"
+    "health_score": 50,
+    "health_tier": "🟡 Moderate",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "banyu-carbon",
+        "total_sold": 360,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 1,
+        "num_purchasers": 1,
+        "methods": [
+          "Direct Ocean Removal"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/banyu-carbon"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Basic Dust",
@@ -1562,7 +1852,8 @@
     "added": "2026-03-08",
     "last_seen": null,
     "registries": [
-      "Puro.earth"
+      "Puro.earth",
+      "CDR.fyi"
     ],
     "registry_data": {
       "puro": {
@@ -1583,10 +1874,23 @@
         "company_size": "xs",
         "scanned": "2026-03-10",
         "status": "hiring"
+      },
+      "cdrfyi": {
+        "slug": "bc-biocarbon",
+        "total_sold": 48,
+        "total_delivered": 48,
+        "latest_delivery": "2025-12-15",
+        "num_transactions": 5,
+        "num_purchasers": 3,
+        "methods": [
+          "Biochar Carbon Removal (BCR)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/bc-biocarbon"
       }
     },
-    "health_score": 50,
-    "health_tier": "🟡 Moderate"
+    "health_score": 75,
+    "health_tier": "🟢 Active"
   },
   {
     "name": "BC&E",
@@ -1714,7 +2018,8 @@
     "added": "2026-03-08",
     "last_seen": null,
     "registries": [
-      "Puro.earth"
+      "Puro.earth",
+      "CDR.fyi"
     ],
     "registry_data": {
       "puro": {
@@ -1728,10 +2033,23 @@
         ],
         "scanned": "2026-03-10",
         "status": "active"
+      },
+      "cdrfyi": {
+        "slug": "bio-logical",
+        "total_sold": 27651,
+        "total_delivered": 710,
+        "latest_delivery": "2023-10-23",
+        "num_transactions": 5,
+        "num_purchasers": 5,
+        "methods": [
+          "Biochar Carbon Removal (BCR)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/bio-logical"
       }
     },
-    "health_score": 50,
-    "health_tier": "🟡 Moderate"
+    "health_score": 75,
+    "health_tier": "🟢 Active"
   },
   {
     "name": "Bio-Restorative Ideas",
@@ -1746,8 +2064,26 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 25,
-    "health_tier": "🟠 Suspect"
+    "health_score": 60,
+    "health_tier": "🟡 Moderate",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "bio-restorative-ideas",
+        "total_sold": 3100,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 2,
+        "num_purchasers": 2,
+        "methods": [
+          "Biochar Carbon Removal (BCR)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/bio-restorative-ideas"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "BioC",
@@ -1833,10 +2169,26 @@
         "company_size": "xxs",
         "scanned": "2026-03-10",
         "status": "hiring"
+      },
+      "cdrfyi": {
+        "slug": "biocare",
+        "total_sold": 540,
+        "total_delivered": 540,
+        "latest_delivery": "2025-12-19",
+        "num_transactions": 1,
+        "num_purchasers": 1,
+        "methods": [
+          "Biochar Carbon Removal (BCR)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/biocare"
       }
     },
-    "health_score": 50,
-    "health_tier": "🟡 Moderate"
+    "health_score": 75,
+    "health_tier": "🟢 Active",
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Biochar Byte",
@@ -1883,8 +2235,26 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 25,
-    "health_tier": "🟠 Suspect"
+    "health_score": 75,
+    "health_tier": "🟢 Active",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "biochar-life",
+        "total_sold": 10324,
+        "total_delivered": 10228,
+        "latest_delivery": "2025-07-16",
+        "num_transactions": 5,
+        "num_purchasers": 1,
+        "methods": [
+          "Biochar Carbon Removal (BCR)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/biochar-life"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Biochar Now",
@@ -1938,10 +2308,26 @@
         "company_size": "m",
         "scanned": "2026-03-10",
         "status": "hiring"
+      },
+      "cdrfyi": {
+        "slug": "biocirc",
+        "total_sold": 7374,
+        "total_delivered": 9,
+        "latest_delivery": "2025-12-23",
+        "num_transactions": 3,
+        "num_purchasers": 2,
+        "methods": [
+          "Bioenergy with Carbon Capture and Sequestration (BECCS)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/biocirc"
       }
     },
-    "health_score": 65,
-    "health_tier": "🟡 Moderate"
+    "health_score": 75,
+    "health_tier": "🟢 Active",
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Bioenergie Frauenfeld",
@@ -1956,8 +2342,26 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 25,
-    "health_tier": "🟠 Suspect"
+    "health_score": 75,
+    "health_tier": "🟢 Active",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "bioenergie-frauenfeld",
+        "total_sold": 1145.4,
+        "total_delivered": 1145.4,
+        "latest_delivery": "2025-02-18",
+        "num_transactions": 5,
+        "num_purchasers": 1,
+        "methods": [
+          "Biochar Carbon Removal (BCR)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/bioenergie-frauenfeld"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Biofine",
@@ -2036,8 +2440,26 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 25,
-    "health_tier": "🟠 Suspect"
+    "health_score": 75,
+    "health_tier": "🟢 Active",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "bionero",
+        "total_sold": 9778.93,
+        "total_delivered": 5458.93,
+        "latest_delivery": "2025-09-15",
+        "num_transactions": 5,
+        "num_purchasers": 1,
+        "methods": [
+          "Biochar Carbon Removal (BCR)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/bionero"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Bionika",
@@ -2100,8 +2522,26 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 25,
-    "health_tier": "🟠 Suspect"
+    "health_score": 75,
+    "health_tier": "🟢 Active",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "biosorra",
+        "total_sold": 1947.19,
+        "total_delivered": 147.19,
+        "latest_delivery": "2025-01-16",
+        "num_transactions": 4,
+        "num_purchasers": 4,
+        "methods": [
+          "Biochar Carbon Removal (BCR)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/biosorra"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Black Bull Biochar",
@@ -2123,10 +2563,26 @@
         "company_size": "xxs",
         "scanned": "2026-03-10",
         "status": "hiring"
+      },
+      "cdrfyi": {
+        "slug": "black-bull-biochar",
+        "total_sold": 276,
+        "total_delivered": 276,
+        "latest_delivery": "2025-08-22",
+        "num_transactions": 2,
+        "num_purchasers": 1,
+        "methods": [
+          "Biochar Carbon Removal (BCR)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/black-bull-biochar"
       }
     },
     "health_score": 80,
-    "health_tier": "🟢 Active"
+    "health_tier": "🟢 Active",
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "BLOCK",
@@ -2246,8 +2702,26 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 25,
-    "health_tier": "🟠 Suspect"
+    "health_score": 75,
+    "health_tier": "🟢 Active",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "bluefield-renewable-energy",
+        "total_sold": 5.85,
+        "total_delivered": 5.85,
+        "latest_delivery": "2024-05-06",
+        "num_transactions": 5,
+        "num_purchasers": 1,
+        "methods": [
+          "Biochar Carbon Removal (BCR)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/bluefield-renewable-energy"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "BlueGreen",
@@ -2285,10 +2759,26 @@
         "company_size": "xs",
         "scanned": "2026-03-10",
         "status": "hiring"
+      },
+      "cdrfyi": {
+        "slug": "blueshift",
+        "total_sold": 10,
+        "total_delivered": 10,
+        "latest_delivery": "2025-06-26",
+        "num_transactions": 1,
+        "num_purchasers": 1,
+        "methods": [
+          "Direct Ocean Removal"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/blueshift"
       }
     },
     "health_score": 80,
-    "health_tier": "🟢 Active"
+    "health_tier": "🟢 Active",
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Blusink",
@@ -2403,7 +2893,8 @@
     "added": "2026-03-08",
     "last_seen": null,
     "registries": [
-      "Puro.earth"
+      "Puro.earth",
+      "CDR.fyi"
     ],
     "registry_data": {
       "puro": {
@@ -2418,10 +2909,23 @@
         ],
         "scanned": "2026-03-10",
         "status": "active"
+      },
+      "cdrfyi": {
+        "slug": "bussme",
+        "total_sold": 147,
+        "total_delivered": 147,
+        "latest_delivery": "2026-02-11",
+        "num_transactions": 5,
+        "num_purchasers": 4,
+        "methods": [
+          "Biochar Carbon Removal (BCR)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/bussme"
       }
     },
-    "health_score": 65,
-    "health_tier": "🟡 Moderate"
+    "health_score": 75,
+    "health_tier": "🟢 Active"
   },
   {
     "name": "Bygen",
@@ -2580,8 +3084,26 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 0,
-    "health_tier": "🔴 Likely Dead"
+    "health_score": 70,
+    "health_tier": "🟢 Active",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "captura",
+        "total_sold": 30552,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 3,
+        "num_purchasers": 3,
+        "methods": [
+          "Direct Ocean Removal"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/captura"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Capture6",
@@ -2603,10 +3125,26 @@
         "company_size": "xs",
         "scanned": "2026-03-10",
         "status": "hiring"
+      },
+      "cdrfyi": {
+        "slug": "capture6",
+        "total_sold": 1062,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 5,
+        "num_purchasers": 2,
+        "methods": [
+          "Direct Air Carbon Capture and Sequestration (DACCS)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/capture6"
       }
     },
     "health_score": 65,
-    "health_tier": "🟡 Moderate"
+    "health_tier": "🟡 Moderate",
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "CapturePoint",
@@ -2644,10 +3182,26 @@
         "company_size": "xxs",
         "scanned": "2026-03-10",
         "status": "hiring"
+      },
+      "cdrfyi": {
+        "slug": "carba",
+        "total_sold": 44350,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 2,
+        "num_purchasers": 2,
+        "methods": [
+          "Biomass Direct Storage"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/carba"
       }
     },
-    "health_score": 65,
-    "health_tier": "🟡 Moderate"
+    "health_score": 70,
+    "health_tier": "🟢 Active",
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Carbex",
@@ -2726,10 +3280,26 @@
         "company_size": "xs",
         "scanned": "2026-03-10",
         "status": "hiring"
+      },
+      "cdrfyi": {
+        "slug": "carbo-culture",
+        "total_sold": 1585.56,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 5,
+        "num_purchasers": 5,
+        "methods": [
+          "Biochar Carbon Removal (BCR)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/carbo-culture"
       }
     },
-    "health_score": 50,
-    "health_tier": "🟡 Moderate"
+    "health_score": 60,
+    "health_tier": "🟡 Moderate",
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Carbo-FORCE",
@@ -2786,7 +3356,8 @@
     "added": "2026-03-08",
     "last_seen": null,
     "registries": [
-      "Puro.earth"
+      "Puro.earth",
+      "CDR.fyi"
     ],
     "registry_data": {
       "puro": {
@@ -2801,10 +3372,23 @@
         ],
         "scanned": "2026-03-10",
         "status": "active"
+      },
+      "cdrfyi": {
+        "slug": "carbofex",
+        "total_sold": 696,
+        "total_delivered": 696,
+        "latest_delivery": "2026-02-06",
+        "num_transactions": 5,
+        "num_purchasers": 4,
+        "methods": [
+          "Biochar Carbon Removal (BCR)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/carbofex"
       }
     },
-    "health_score": 65,
-    "health_tier": "🟡 Moderate"
+    "health_score": 75,
+    "health_tier": "🟢 Active"
   },
   {
     "name": "Carbogenics",
@@ -2851,8 +3435,26 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 25,
-    "health_tier": "🟠 Suspect"
+    "health_score": 75,
+    "health_tier": "🟢 Active",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "carboliva",
+        "total_sold": 53.09,
+        "total_delivered": 53.09,
+        "latest_delivery": "2025-01-28",
+        "num_transactions": 5,
+        "num_purchasers": 2,
+        "methods": [
+          "Biochar Carbon Removal (BCR)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/carboliva"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Carbominer",
@@ -2979,8 +3581,26 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 25,
-    "health_tier": "🟠 Suspect"
+    "health_score": 70,
+    "health_tier": "🟢 Active",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "carbon-centric",
+        "total_sold": 40000,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 1,
+        "num_purchasers": 1,
+        "methods": [
+          "Bioenergy with Carbon Capture and Sequestration (BECCS)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/carbon-centric"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Carbon Collect",
@@ -3028,7 +3648,8 @@
     "added": "2026-03-08",
     "last_seen": null,
     "registries": [
-      "Puro.earth"
+      "Puro.earth",
+      "CDR.fyi"
     ],
     "registry_data": {
       "puro": {
@@ -3042,10 +3663,23 @@
         ],
         "scanned": "2026-03-10",
         "status": "active"
+      },
+      "cdrfyi": {
+        "slug": "carbon-cycle",
+        "total_sold": 117,
+        "total_delivered": 117,
+        "latest_delivery": "2026-02-18",
+        "num_transactions": 5,
+        "num_purchasers": 3,
+        "methods": [
+          "Biochar Carbon Removal (BCR)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/carbon-cycle"
       }
     },
-    "health_score": 65,
-    "health_tier": "🟡 Moderate"
+    "health_score": 75,
+    "health_tier": "🟢 Active"
   },
   {
     "name": "Carbon Energy",
@@ -3109,7 +3743,8 @@
     "added": "2026-03-08",
     "last_seen": null,
     "registries": [
-      "Puro.earth"
+      "Puro.earth",
+      "CDR.fyi"
     ],
     "registry_data": {
       "puro": {
@@ -3123,10 +3758,23 @@
         ],
         "scanned": "2026-03-10",
         "status": "active"
+      },
+      "cdrfyi": {
+        "slug": "carbon-hill",
+        "total_sold": 385,
+        "total_delivered": 385,
+        "latest_delivery": "2026-01-27",
+        "num_transactions": 5,
+        "num_purchasers": 3,
+        "methods": [
+          "Biochar Carbon Removal (BCR)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/carbon-hill"
       }
     },
-    "health_score": 50,
-    "health_tier": "🟡 Moderate"
+    "health_score": 75,
+    "health_tier": "🟢 Active"
   },
   {
     "name": "Carbon Iceland",
@@ -3319,8 +3967,26 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 0,
-    "health_tier": "🔴 Likely Dead"
+    "health_score": 75,
+    "health_tier": "🟢 Active",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "carbon-sequestration-inc",
+        "total_sold": 4100,
+        "total_delivered": 3050,
+        "latest_delivery": "2024-12-19",
+        "num_transactions": 2,
+        "num_purchasers": 1,
+        "methods": [
+          "Biomass Direct Storage"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/carbon-sequestration-inc"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Carbon Square",
@@ -3376,8 +4042,26 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 0,
-    "health_tier": "🔴 Likely Dead"
+    "health_score": 60,
+    "health_tier": "🟡 Moderate",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "carbon-to-stone",
+        "total_sold": 1444,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 2,
+        "num_purchasers": 2,
+        "methods": [
+          "Enhanced Weathering"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/carbon-to-stone"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Carbon Universe",
@@ -3481,8 +4165,26 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 25,
-    "health_tier": "🟠 Suspect"
+    "health_score": 75,
+    "health_tier": "🟢 Active",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "carbonapp",
+        "total_sold": 319,
+        "total_delivered": 319,
+        "latest_delivery": "2024-12-19",
+        "num_transactions": 5,
+        "num_purchasers": 1,
+        "methods": [
+          "Biochar Carbon Removal (BCR)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/carbonapp"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Carbonaught",
@@ -3529,8 +4231,26 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 25,
-    "health_tier": "🟠 Suspect"
+    "health_score": 50,
+    "health_tier": "🟡 Moderate",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "carbonblue",
+        "total_sold": 400,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 1,
+        "num_purchasers": 1,
+        "methods": [
+          "Direct Ocean Removal"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/carbonblue"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "CarbonCapture Inc.",
@@ -3545,8 +4265,26 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 25,
-    "health_tier": "🟠 Suspect"
+    "health_score": 50,
+    "health_tier": "🟡 Moderate",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "carboncapture",
+        "total_sold": 0.31,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 5,
+        "num_purchasers": 1,
+        "methods": [
+          "Direct Air Carbon Capture and Sequestration (DACCS)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/carboncapture"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "CarbonChip",
@@ -3600,10 +4338,26 @@
         "company_size": "xxs",
         "scanned": "2026-03-10",
         "status": "hiring"
+      },
+      "cdrfyi": {
+        "slug": "carboneers",
+        "total_sold": 4790.22,
+        "total_delivered": 3865.2200000000003,
+        "latest_delivery": "2025-12-19",
+        "num_transactions": 5,
+        "num_purchasers": 3,
+        "methods": [
+          "Biochar Carbon Removal (BCR)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/carboneers"
       }
     },
-    "health_score": 65,
-    "health_tier": "🟡 Moderate"
+    "health_score": 75,
+    "health_tier": "🟢 Active",
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Carboneyes",
@@ -3649,7 +4403,7 @@
     "source": "CDI Portfolio, added by CaptainDrawdown",
     "source_url": "https://www.carbon-drawdown.de/",
     "added": "2026-03-08",
-    "last_seen": "2026-03-09",
+    "last_seen": "2026-03-10",
     "registry_data": {
       "cdrjobs": {
         "job_count": 2,
@@ -3723,8 +4477,26 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 25,
-    "health_tier": "🟠 Suspect"
+    "health_score": 75,
+    "health_tier": "🟢 Active",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "carbonity",
+        "total_sold": 36000,
+        "total_delivered": 170,
+        "latest_delivery": "2024-05-22",
+        "num_transactions": 1,
+        "num_purchasers": 1,
+        "methods": [
+          "Biochar Carbon Removal (BCR)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/carbonity"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Carbonloop",
@@ -3771,8 +4543,26 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 25,
-    "health_tier": "🟠 Suspect"
+    "health_score": 75,
+    "health_tier": "🟢 Active",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "carbonrun",
+        "total_sold": 54,
+        "total_delivered": 42,
+        "latest_delivery": "2026-01-23",
+        "num_transactions": 5,
+        "num_purchasers": 3,
+        "methods": [
+          "Alkalinity Enhancement"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/carbonrun"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Carbons Finland",
@@ -3820,7 +4610,8 @@
     "added": "2026-03-08",
     "last_seen": null,
     "registries": [
-      "Puro.earth"
+      "Puro.earth",
+      "CDR.fyi"
     ],
     "registry_data": {
       "puro": {
@@ -3834,10 +4625,23 @@
         ],
         "scanned": "2026-03-10",
         "status": "active"
+      },
+      "cdrfyi": {
+        "slug": "carbonsate",
+        "total_sold": 1611,
+        "total_delivered": 291,
+        "latest_delivery": "2026-02-27",
+        "num_transactions": 5,
+        "num_purchasers": 5,
+        "methods": [
+          "Biomass Direct Storage"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/carbonsate"
       }
     },
-    "health_score": 50,
-    "health_tier": "🟡 Moderate"
+    "health_score": 75,
+    "health_tier": "🟢 Active"
   },
   {
     "name": "Carbonvert",
@@ -3973,8 +4777,26 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 25,
-    "health_tier": "🟠 Suspect"
+    "health_score": 75,
+    "health_tier": "🟢 Active",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "carbuna",
+        "total_sold": 784,
+        "total_delivered": 554,
+        "latest_delivery": "2025-12-03",
+        "num_transactions": 5,
+        "num_purchasers": 1,
+        "methods": [
+          "Biochar Carbon Removal (BCR)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/carbuna"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Carbyon",
@@ -4069,8 +4891,26 @@
     "source_url": "https://www.carbon-drawdown.de/",
     "added": "2026-03-08",
     "last_seen": "2026-03-08",
-    "health_score": 0,
-    "health_tier": "🔴 Likely Dead"
+    "health_score": 60,
+    "health_tier": "🟡 Moderate",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "cella",
+        "total_sold": 3556,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 3,
+        "num_purchasers": 2,
+        "methods": [
+          "Mineralization"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/cella"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Char2Cool",
@@ -4101,8 +4941,26 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 25,
-    "health_tier": "🟠 Suspect"
+    "health_score": 60,
+    "health_tier": "🟡 Moderate",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "charline",
+        "total_sold": 1405.0,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 5,
+        "num_purchasers": 1,
+        "methods": [
+          "Biochar Carbon Removal (BCR)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/charline"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Charm Industrial",
@@ -4124,10 +4982,26 @@
         "company_size": "xs",
         "scanned": "2026-03-10",
         "status": "hiring"
+      },
+      "cdrfyi": {
+        "slug": "charm-industrial",
+        "total_sold": 44047.479999999996,
+        "total_delivered": 47.48,
+        "latest_delivery": "2026-02-28",
+        "num_transactions": 5,
+        "num_purchasers": 4,
+        "methods": [
+          "Biomass Geological Sequestration"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/charm-industrial"
       }
     },
-    "health_score": 65,
-    "health_tier": "🟡 Moderate"
+    "health_score": 75,
+    "health_tier": "🟢 Active",
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Charolina",
@@ -4197,10 +5071,26 @@
         "company_size": "xs",
         "scanned": "2026-03-10",
         "status": "hiring"
+      },
+      "cdrfyi": {
+        "slug": "circular-carbon",
+        "total_sold": 1500.05,
+        "total_delivered": 1500.05,
+        "latest_delivery": "2024-03-06",
+        "num_transactions": 1,
+        "num_purchasers": 1,
+        "methods": [
+          "Biochar Carbon Removal (BCR)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/circular-carbon"
       }
     },
-    "health_score": 50,
-    "health_tier": "🟡 Moderate"
+    "health_score": 75,
+    "health_tier": "🟢 Active",
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Circular Carbon Pathways",
@@ -4312,7 +5202,8 @@
     "added": "2026-03-08",
     "last_seen": null,
     "registries": [
-      "Puro.earth"
+      "Puro.earth",
+      "CDR.fyi"
     ],
     "registry_data": {
       "puro": {
@@ -4326,10 +5217,23 @@
         ],
         "scanned": "2026-03-10",
         "status": "active"
+      },
+      "cdrfyi": {
+        "slug": "clean-maine-carbon",
+        "total_sold": 114,
+        "total_delivered": 114,
+        "latest_delivery": "2025-03-25",
+        "num_transactions": 1,
+        "num_purchasers": 1,
+        "methods": [
+          "Biochar Carbon Removal (BCR)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/clean-maine-carbon"
       }
     },
-    "health_score": 50,
-    "health_tier": "🟡 Moderate"
+    "health_score": 75,
+    "health_tier": "🟢 Active"
   },
   {
     "name": "CleanCapture Tech",
@@ -4439,9 +5343,10 @@
     "source": "Faber CDR Company List (Jan 2026), CC BY-NC-SA 4.0",
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
-    "last_seen": "2026-03-09",
+    "last_seen": "2026-03-10",
     "registries": [
-      "Puro.earth"
+      "Puro.earth",
+      "CDR.fyi"
     ],
     "registry_data": {
       "puro": {
@@ -4464,6 +5369,19 @@
         "company_size": "m",
         "scanned": "2026-03-10",
         "status": "hiring"
+      },
+      "cdrfyi": {
+        "slug": "climeworks",
+        "total_sold": 316,
+        "total_delivered": 316,
+        "latest_delivery": "2025-12-19",
+        "num_transactions": 5,
+        "num_purchasers": 5,
+        "methods": [
+          "Direct Air Carbon Capture and Sequestration (DACCS)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/climeworks"
       }
     },
     "health_score": 80,
@@ -4514,8 +5432,26 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 0,
-    "health_tier": "🔴 Likely Dead"
+    "health_score": 70,
+    "health_tier": "🟢 Active",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "co2-energie",
+        "total_sold": 21800,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 1,
+        "num_purchasers": 1,
+        "methods": [
+          "Bioenergy with Carbon Capture and Sequestration (BECCS)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/co2-energie"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "CO2 Sink",
@@ -4553,10 +5489,26 @@
         "company_size": "xs",
         "scanned": "2026-03-10",
         "status": "hiring"
+      },
+      "cdrfyi": {
+        "slug": "co280",
+        "total_sold": 4359446,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 3,
+        "num_purchasers": 3,
+        "methods": [
+          "Bioenergy with Carbon Capture and Sequestration (BECCS)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/co280"
       }
     },
-    "health_score": 65,
-    "health_tier": "🟡 Moderate"
+    "health_score": 70,
+    "health_tier": "🟢 Active",
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "CO2CirculAir",
@@ -4674,10 +5626,26 @@
         "company_size": "xxs",
         "scanned": "2026-03-10",
         "status": "hiring"
+      },
+      "cdrfyi": {
+        "slug": "cotierra",
+        "total_sold": 5,
+        "total_delivered": 5,
+        "latest_delivery": "2025-11-17",
+        "num_transactions": 1,
+        "num_purchasers": 1,
+        "methods": [
+          "Biochar Carbon Removal (BCR)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/cotierra"
       }
     },
-    "health_score": 65,
-    "health_tier": "🟡 Moderate"
+    "health_score": 75,
+    "health_tier": "🟢 Active",
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Cowboy Clean Fuels",
@@ -4731,10 +5699,26 @@
         "company_size": "xxs",
         "scanned": "2026-03-10",
         "status": "hiring"
+      },
+      "cdrfyi": {
+        "slug": "crew",
+        "total_sold": 10,
+        "total_delivered": 10,
+        "latest_delivery": "2026-01-17",
+        "num_transactions": 5,
+        "num_purchasers": 5,
+        "methods": [
+          "Alkalinity Enhancement"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/crew"
       }
     },
     "health_score": 80,
-    "health_tier": "🟢 Active"
+    "health_tier": "🟢 Active",
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "CTRL + Z",
@@ -4838,8 +5822,26 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 25,
-    "health_tier": "🟠 Suspect"
+    "health_score": 75,
+    "health_tier": "🟢 Active",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "dark-earth-carbon",
+        "total_sold": 207.74,
+        "total_delivered": 207.74,
+        "latest_delivery": "2025-11-17",
+        "num_transactions": 5,
+        "num_purchasers": 1,
+        "methods": [
+          "Biochar Carbon Removal (BCR)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/dark-earth-carbon"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "De Beers",
@@ -4885,7 +5887,7 @@
     "source": "Faber CDR Company List (Jan 2026), CC BY-NC-SA 4.0",
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
-    "last_seen": null,
+    "last_seen": "2026-03-10",
     "registry_data": {
       "cdrjobs": {
         "job_count": 9,
@@ -4893,10 +5895,26 @@
         "company_size": "xs",
         "scanned": "2026-03-10",
         "status": "hiring"
+      },
+      "cdrfyi": {
+        "slug": "deep-sky",
+        "total_sold": 21547,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 5,
+        "num_purchasers": 4,
+        "methods": [
+          "Direct Air Carbon Capture and Sequestration (DACCS)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/deep-sky"
       }
     },
     "health_score": 80,
-    "health_tier": "🟢 Active"
+    "health_tier": "🟢 Active",
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Desert Ocean",
@@ -5153,8 +6171,26 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 25,
-    "health_tier": "🟠 Suspect"
+    "health_score": 60,
+    "health_tier": "🟡 Moderate",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "ebb",
+        "total_sold": 8589,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 4,
+        "num_purchasers": 3,
+        "methods": [
+          "Direct Ocean Removal"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/ebb"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Echo Tech Carbon Corporation",
@@ -5235,7 +6271,8 @@
     "added": "2026-03-08",
     "last_seen": null,
     "registries": [
-      "Puro.earth"
+      "Puro.earth",
+      "CDR.fyi"
     ],
     "registry_data": {
       "puro": {
@@ -5249,10 +6286,23 @@
         ],
         "scanned": "2026-03-10",
         "status": "active"
+      },
+      "cdrfyi": {
+        "slug": "ecoera",
+        "total_sold": 293,
+        "total_delivered": 293,
+        "latest_delivery": "2025-11-27",
+        "num_transactions": 5,
+        "num_purchasers": 3,
+        "methods": [
+          "Biochar Carbon Removal (BCR)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/ecoera"
       }
     },
-    "health_score": 65,
-    "health_tier": "🟡 Moderate"
+    "health_score": 75,
+    "health_tier": "🟢 Active"
   },
   {
     "name": "EcoFix",
@@ -5283,8 +6333,26 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 25,
-    "health_tier": "🟠 Suspect"
+    "health_score": 75,
+    "health_tier": "🟢 Active",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "ecolocked",
+        "total_sold": 1.3,
+        "total_delivered": 1.3,
+        "latest_delivery": "2025-11-17",
+        "num_transactions": 2,
+        "num_purchasers": 1,
+        "methods": [
+          "Mineralization"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/ecolocked"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Ecomerit Technologies",
@@ -5347,8 +6415,26 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 25,
-    "health_tier": "🟠 Suspect"
+    "health_score": 50,
+    "health_tier": "🟡 Moderate",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "edac-labs",
+        "total_sold": 317,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 1,
+        "num_purchasers": 1,
+        "methods": [
+          "Enhanced Weathering"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/edac-labs"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "EGoS",
@@ -5450,10 +6536,26 @@
         "company_size": "xxs",
         "scanned": "2026-03-10",
         "status": "hiring"
+      },
+      "cdrfyi": {
+        "slug": "energiewerk-ilg",
+        "total_sold": 5.609999999999999,
+        "total_delivered": 5.609999999999999,
+        "latest_delivery": "2025-11-17",
+        "num_transactions": 5,
+        "num_purchasers": 2,
+        "methods": [
+          "Biochar Carbon Removal (BCR)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/energiewerk-ilg"
       }
     },
     "health_score": 80,
-    "health_tier": "🟢 Active"
+    "health_tier": "🟢 Active",
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Energy Farmers",
@@ -5580,8 +6682,26 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 25,
-    "health_tier": "🟠 Suspect"
+    "health_score": 75,
+    "health_tier": "🟢 Active",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "eoc-energy-ocean",
+        "total_sold": 124.0,
+        "total_delivered": 124.0,
+        "latest_delivery": "2025-11-17",
+        "num_transactions": 5,
+        "num_purchasers": 1,
+        "methods": [
+          "Biochar Carbon Removal (BCR)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/eoc-energy-ocean"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Ephemeral",
@@ -5611,7 +6731,7 @@
     "source": "Faber CDR Company List (Jan 2026), CC BY-NC-SA 4.0",
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
-    "last_seen": "2026-03-09",
+    "last_seen": "2026-03-10",
     "registry_data": {
       "cdrjobs": {
         "job_count": 2,
@@ -5619,10 +6739,26 @@
         "company_size": "xs",
         "scanned": "2026-03-10",
         "status": "hiring"
+      },
+      "cdrfyi": {
+        "slug": "equatic",
+        "total_sold": 801,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 5,
+        "num_purchasers": 5,
+        "methods": [
+          "Direct Ocean Removal"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/equatic"
       }
     },
     "health_score": 65,
-    "health_tier": "🟡 Moderate"
+    "health_tier": "🟡 Moderate",
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Equilibrium",
@@ -5728,7 +6864,8 @@
     "added": "2026-03-08",
     "last_seen": null,
     "registries": [
-      "Puro.earth"
+      "Puro.earth",
+      "CDR.fyi"
     ],
     "registry_data": {
       "puro": {
@@ -5743,6 +6880,19 @@
         ],
         "scanned": "2026-03-10",
         "status": "active"
+      },
+      "cdrfyi": {
+        "slug": "exomad-green",
+        "total_sold": 106376,
+        "total_delivered": 1376,
+        "latest_delivery": "2026-03-04",
+        "num_transactions": 5,
+        "num_purchasers": 3,
+        "methods": [
+          "Biochar Carbon Removal (BCR)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/exomad-green"
       }
     },
     "health_score": 80,
@@ -5762,7 +6912,8 @@
     "added": "2026-03-08",
     "last_seen": null,
     "registries": [
-      "Puro.earth"
+      "Puro.earth",
+      "CDR.fyi"
     ],
     "registry_data": {
       "puro": {
@@ -5775,10 +6926,23 @@
           "Biochar, 2022"
         ],
         "scanned": "2026-03-10"
+      },
+      "cdrfyi": {
+        "slug": "explocom",
+        "total_sold": 363,
+        "total_delivered": 363,
+        "latest_delivery": "2025-04-14",
+        "num_transactions": 5,
+        "num_purchasers": 2,
+        "methods": [
+          "Biochar Carbon Removal (BCR)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/explocom"
       }
     },
-    "health_score": 35,
-    "health_tier": "🟠 Suspect"
+    "health_score": 75,
+    "health_tier": "🟢 Active"
   },
   {
     "name": "Exterra",
@@ -5851,7 +7015,8 @@
     "added": "2026-03-08",
     "last_seen": null,
     "registries": [
-      "Puro.earth"
+      "Puro.earth",
+      "CDR.fyi"
     ],
     "registry_data": {
       "puro": {
@@ -5867,10 +7032,23 @@
         ],
         "scanned": "2026-03-10",
         "status": "active"
+      },
+      "cdrfyi": {
+        "slug": "fasera-holdings",
+        "total_sold": 2428,
+        "total_delivered": 2428,
+        "latest_delivery": "2025-12-19",
+        "num_transactions": 5,
+        "num_purchasers": 3,
+        "methods": [
+          "Biochar Carbon Removal (BCR)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/fasera-holdings"
       }
     },
-    "health_score": 50,
-    "health_tier": "🟡 Moderate"
+    "health_score": 75,
+    "health_tier": "🟢 Active"
   },
   {
     "name": "FCL Belle Plaine",
@@ -6202,7 +7380,8 @@
     "added": "2026-03-08",
     "last_seen": null,
     "registries": [
-      "Puro.earth"
+      "Puro.earth",
+      "CDR.fyi"
     ],
     "registry_data": {
       "puro": {
@@ -6216,6 +7395,19 @@
         ],
         "scanned": "2026-03-10",
         "status": "active"
+      },
+      "cdrfyi": {
+        "slug": "gevo",
+        "total_sold": 21603,
+        "total_delivered": 21603,
+        "latest_delivery": "2026-02-10",
+        "num_transactions": 5,
+        "num_purchasers": 4,
+        "methods": [
+          "Bioenergy with Carbon Capture and Sequestration (BECCS)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/gevo"
       }
     },
     "health_score": 80,
@@ -6241,10 +7433,26 @@
         "company_size": "xs",
         "scanned": "2026-03-10",
         "status": "hiring"
+      },
+      "cdrfyi": {
+        "slug": "gigablue",
+        "total_sold": 400000,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 2,
+        "num_purchasers": 2,
+        "methods": [
+          "Marine Biomass Carbon Capture and Sequestration (MBCCS)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/gigablue"
       }
     },
-    "health_score": 65,
-    "health_tier": "🟡 Moderate"
+    "health_score": 70,
+    "health_tier": "🟢 Active",
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "GigaDAC/Victory Over Carbon",
@@ -6385,10 +7593,26 @@
         "company_size": "xxs",
         "scanned": "2026-03-10",
         "status": "hiring"
+      },
+      "cdrfyi": {
+        "slug": "graphyte",
+        "total_sold": 14081,
+        "total_delivered": 2020,
+        "latest_delivery": "2026-01-26",
+        "num_transactions": 5,
+        "num_purchasers": 5,
+        "methods": [
+          "Biomass Direct Storage"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/graphyte"
       }
     },
-    "health_score": 65,
-    "health_tier": "🟡 Moderate"
+    "health_score": 75,
+    "health_tier": "🟢 Active",
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Grassroots Biochar",
@@ -6629,8 +7853,26 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 25,
-    "health_tier": "🟠 Suspect"
+    "health_score": 70,
+    "health_tier": "🟢 Active",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "greenglow",
+        "total_sold": 50000,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 1,
+        "num_purchasers": 1,
+        "methods": [
+          "Biochar Carbon Removal (BCR)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/greenglow"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Greenlyte Carbon Technologies",
@@ -6670,8 +7912,26 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 25,
-    "health_tier": "🟠 Suspect"
+    "health_score": 75,
+    "health_tier": "🟢 Active",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "greensand",
+        "total_sold": 1021.02,
+        "total_delivered": 255,
+        "latest_delivery": "2023-03-17",
+        "num_transactions": 5,
+        "num_purchasers": 3,
+        "methods": [
+          "Enhanced Weathering"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/greensand"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Groh Land Air & Water",
@@ -6718,8 +7978,26 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 25,
-    "health_tier": "🟠 Suspect"
+    "health_score": 50,
+    "health_tier": "🟡 Moderate",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "groundwork-bioag",
+        "total_sold": 615,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 4,
+        "num_purchasers": 1,
+        "methods": [
+          "Mineralization"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/groundwork-bioag"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Groupe Bordet",
@@ -6767,8 +8045,26 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 25,
-    "health_tier": "🟠 Suspect"
+    "health_score": 70,
+    "health_tier": "🟢 Active",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "hafslund-celsio",
+        "total_sold": 1223662,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 3,
+        "num_purchasers": 3,
+        "methods": [
+          "Bioenergy with Carbon Capture and Sequestration (BECCS)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/hafslund-celsio"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Hago Energetics",
@@ -6854,10 +8150,26 @@
         "company_size": "xxs",
         "scanned": "2026-03-10",
         "status": "hiring"
+      },
+      "cdrfyi": {
+        "slug": "heimdal",
+        "total_sold": 30,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 1,
+        "num_purchasers": 1,
+        "methods": [
+          "Direct Air Carbon Capture and Sequestration (DACCS)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/heimdal"
       }
     },
     "health_score": 50,
-    "health_tier": "🟡 Moderate"
+    "health_tier": "🟡 Moderate",
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Heirloom",
@@ -6879,10 +8191,26 @@
         "company_size": "xs",
         "scanned": "2026-03-10",
         "status": "hiring"
+      },
+      "cdrfyi": {
+        "slug": "heirloom",
+        "total_sold": 26995,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 5,
+        "num_purchasers": 2,
+        "methods": [
+          "Direct Air Carbon Capture and Sequestration (DACCS)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/heirloom"
       }
     },
     "health_score": 80,
-    "health_tier": "🟢 Active"
+    "health_tier": "🟢 Active",
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "HEMPALTA",
@@ -7042,8 +8370,26 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 25,
-    "health_tier": "🟠 Suspect"
+    "health_score": 75,
+    "health_tier": "🟢 Active",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "husk",
+        "total_sold": 45.61,
+        "total_delivered": 0.51,
+        "latest_delivery": "2023-12-28",
+        "num_transactions": 5,
+        "num_purchasers": 4,
+        "methods": [
+          "Biochar Carbon Removal (BCR)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/husk"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Hydrocell",
@@ -7186,8 +8532,26 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 25,
-    "health_tier": "🟠 Suspect"
+    "health_score": 75,
+    "health_tier": "🟢 Active",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "inkoh",
+        "total_sold": 10061,
+        "total_delivered": 2161,
+        "latest_delivery": "2024-01-01",
+        "num_transactions": 5,
+        "num_purchasers": 1,
+        "methods": [
+          "Biochar Carbon Removal (BCR)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/inkoh"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "InnoSepra",
@@ -7241,10 +8605,26 @@
         "company_size": "xs",
         "scanned": "2026-03-10",
         "status": "hiring"
+      },
+      "cdrfyi": {
+        "slug": "inplanet",
+        "total_sold": 34184,
+        "total_delivered": 215,
+        "latest_delivery": "2025-11-24",
+        "num_transactions": 5,
+        "num_purchasers": 3,
+        "methods": [
+          "Enhanced Weathering"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/inplanet"
       }
     },
-    "health_score": 65,
-    "health_tier": "🟡 Moderate"
+    "health_score": 75,
+    "health_tier": "🟢 Active",
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Inspiratus Technology",
@@ -7276,7 +8656,8 @@
     "added": "2026-03-08",
     "last_seen": null,
     "registries": [
-      "Puro.earth"
+      "Puro.earth",
+      "CDR.fyi"
     ],
     "registry_data": {
       "puro": {
@@ -7290,10 +8671,23 @@
         ],
         "scanned": "2026-03-10",
         "status": "active"
+      },
+      "cdrfyi": {
+        "slug": "interearth",
+        "total_sold": 5997,
+        "total_delivered": 39,
+        "latest_delivery": "2025-09-29",
+        "num_transactions": 5,
+        "num_purchasers": 4,
+        "methods": [
+          "Biomass Direct Storage"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/interearth"
       }
     },
-    "health_score": 50,
-    "health_tier": "🟡 Moderate"
+    "health_score": 75,
+    "health_tier": "🟢 Active"
   },
   {
     "name": "Interholco",
@@ -7308,8 +8702,26 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 25,
-    "health_tier": "🟠 Suspect"
+    "health_score": 60,
+    "health_tier": "🟡 Moderate",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "interholco",
+        "total_sold": 2125.2599999999998,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 5,
+        "num_purchasers": 5,
+        "methods": [
+          "Biochar Carbon Removal (BCR)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/interholco"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "International Paper",
@@ -7398,7 +8810,8 @@
     "added": "2026-03-08",
     "last_seen": null,
     "registries": [
-      "Puro.earth"
+      "Puro.earth",
+      "CDR.fyi"
     ],
     "registry_data": {
       "puro": {
@@ -7412,10 +8825,23 @@
         ],
         "scanned": "2026-03-10",
         "status": "active"
+      },
+      "cdrfyi": {
+        "slug": "jeffries-group",
+        "total_sold": 341,
+        "total_delivered": 341,
+        "latest_delivery": "2025-06-02",
+        "num_transactions": 5,
+        "num_purchasers": 2,
+        "methods": [
+          "Biochar Carbon Removal (BCR)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/jeffries-group"
       }
     },
-    "health_score": 50,
-    "health_tier": "🟡 Moderate"
+    "health_score": 75,
+    "health_tier": "🟢 Active"
   },
   {
     "name": "Jiaxing Tongao Technology/Climate Future",
@@ -7462,8 +8888,26 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 25,
-    "health_tier": "🟠 Suspect"
+    "health_score": 50,
+    "health_tier": "🟡 Moderate",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "kairos-carbon",
+        "total_sold": 615,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 4,
+        "num_purchasers": 4,
+        "methods": [
+          "Bioenergy with Carbon Capture and Sequestration (BECCS)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/kairos-carbon"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Kanadevia Inova",
@@ -7511,7 +8955,8 @@
     "added": "2026-03-08",
     "last_seen": null,
     "registries": [
-      "Puro.earth"
+      "Puro.earth",
+      "CDR.fyi"
     ],
     "registry_data": {
       "puro": {
@@ -7525,10 +8970,23 @@
         ],
         "scanned": "2026-03-10",
         "status": "active"
+      },
+      "cdrfyi": {
+        "slug": "karbonetiq",
+        "total_sold": 2928,
+        "total_delivered": 125,
+        "latest_delivery": "2026-01-15",
+        "num_transactions": 5,
+        "num_purchasers": 5,
+        "methods": [
+          "Mineralization"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/karbonetiq"
       }
     },
-    "health_score": 50,
-    "health_tier": "🟡 Moderate"
+    "health_score": 75,
+    "health_tier": "🟢 Active"
   },
   {
     "name": "Karbonwerke",
@@ -7623,8 +9081,26 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 25,
-    "health_tier": "🟠 Suspect"
+    "health_score": 75,
+    "health_tier": "🟢 Active",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "klimafarmer",
+        "total_sold": 136.52,
+        "total_delivered": 105.23,
+        "latest_delivery": "2024-05-06",
+        "num_transactions": 5,
+        "num_purchasers": 1,
+        "methods": [
+          "Biochar Carbon Removal (BCR)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/klimafarmer"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "KohleHelden",
@@ -7735,8 +9211,26 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 0,
-    "health_tier": "🔴 Likely Dead"
+    "health_score": 50,
+    "health_tier": "🟡 Moderate",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "levitree",
+        "total_sold": 155,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 5,
+        "num_purchasers": 5,
+        "methods": [
+          "Biomass Direct Storage"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/levitree"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "LightNET Carbon Capture",
@@ -7783,8 +9277,26 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 25,
-    "health_tier": "🟠 Suspect"
+    "health_score": 50,
+    "health_tier": "🟡 Moderate",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "lillianah-technologies",
+        "total_sold": 150,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 2,
+        "num_purchasers": 1,
+        "methods": [
+          "Marine Biomass Carbon Capture and Sequestration (MBCCS)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/lillianah-technologies"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Limenet",
@@ -7806,10 +9318,26 @@
         "company_size": "xs",
         "scanned": "2026-03-10",
         "status": "hiring"
+      },
+      "cdrfyi": {
+        "slug": "limenet",
+        "total_sold": 1462,
+        "total_delivered": 14,
+        "latest_delivery": "2024-04-20",
+        "num_transactions": 3,
+        "num_purchasers": 3,
+        "methods": [
+          "Alkalinity Enhancement"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/limenet"
       }
     },
-    "health_score": 50,
-    "health_tier": "🟡 Moderate"
+    "health_score": 75,
+    "health_tier": "🟢 Active",
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Linhe Climate Science & Technology Co. Ltd",
@@ -7866,7 +9394,8 @@
     "added": "2026-03-08",
     "last_seen": null,
     "registries": [
-      "Puro.earth"
+      "Puro.earth",
+      "CDR.fyi"
     ],
     "registry_data": {
       "puro": {
@@ -7889,10 +9418,23 @@
         "company_size": "xxs",
         "scanned": "2026-03-10",
         "status": "hiring"
+      },
+      "cdrfyi": {
+        "slug": "lithos",
+        "total_sold": 2505,
+        "total_delivered": 2505,
+        "latest_delivery": "2025-12-17",
+        "num_transactions": 5,
+        "num_purchasers": 3,
+        "methods": [
+          "Enhanced Weathering"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/lithos"
       }
     },
-    "health_score": 65,
-    "health_tier": "🟡 Moderate"
+    "health_score": 75,
+    "health_tier": "🟢 Active"
   },
   {
     "name": "LOCOAL",
@@ -8058,10 +9600,26 @@
         "company_size": "s",
         "scanned": "2026-03-10",
         "status": "hiring"
+      },
+      "cdrfyi": {
+        "slug": "mash-makes",
+        "total_sold": 48.8,
+        "total_delivered": 41.79,
+        "latest_delivery": "2025-11-17",
+        "num_transactions": 5,
+        "num_purchasers": 1,
+        "methods": [
+          "Biochar Carbon Removal (BCR)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/mash-makes"
       }
     },
     "health_score": 80,
-    "health_tier": "🟢 Active"
+    "health_tier": "🟢 Active",
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Mast Reforestation",
@@ -8077,7 +9635,8 @@
     "added": "2026-03-08",
     "last_seen": null,
     "registries": [
-      "Puro.earth"
+      "Puro.earth",
+      "CDR.fyi"
     ],
     "registry_data": {
       "puro": {
@@ -8091,10 +9650,23 @@
         ],
         "scanned": "2026-03-10",
         "status": "active"
+      },
+      "cdrfyi": {
+        "slug": "mast-reforestation",
+        "total_sold": 41,
+        "total_delivered": 41,
+        "latest_delivery": "2026-03-04",
+        "num_transactions": 5,
+        "num_purchasers": 5,
+        "methods": [
+          "Biomass Direct Storage"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/mast-reforestation"
       }
     },
-    "health_score": 65,
-    "health_tier": "🟡 Moderate"
+    "health_score": 75,
+    "health_tier": "🟢 Active"
   },
   {
     "name": "Mati",
@@ -8109,9 +9681,26 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "registry_data": {},
-    "health_score": 25,
-    "health_tier": "🟠 Suspect"
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "mati",
+        "total_sold": 6147,
+        "total_delivered": 88,
+        "latest_delivery": "2025-05-23",
+        "num_transactions": 5,
+        "num_purchasers": 2,
+        "methods": [
+          "Enhanced Weathering"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/mati"
+      }
+    },
+    "health_score": 75,
+    "health_tier": "🟢 Active",
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Metalplant",
@@ -8206,8 +9795,26 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 0,
-    "health_tier": "🔴 Likely Dead"
+    "health_score": 75,
+    "health_tier": "🟢 Active",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "miotech",
+        "total_sold": 330,
+        "total_delivered": 330,
+        "latest_delivery": "2025-12-15",
+        "num_transactions": 4,
+        "num_purchasers": 3,
+        "methods": [
+          "Biochar Carbon Removal (BCR)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/miotech"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Miraïa",
@@ -8238,8 +9845,26 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 25,
-    "health_tier": "🟠 Suspect"
+    "health_score": 50,
+    "health_tier": "🟡 Moderate",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "mission-zero",
+        "total_sold": 866,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 4,
+        "num_purchasers": 4,
+        "methods": [
+          "Direct Air Carbon Capture and Sequestration (DACCS)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/mission-zero"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Mitsubishi",
@@ -8430,10 +10055,26 @@
         "company_size": "xs",
         "scanned": "2026-03-10",
         "status": "hiring"
+      },
+      "cdrfyi": {
+        "slug": "neocarbon",
+        "total_sold": 514,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 5,
+        "num_purchasers": 4,
+        "methods": [
+          "Direct Air Carbon Capture and Sequestration (DACCS)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/neocarbon"
       }
     },
     "health_score": 50,
-    "health_tier": "🟡 Moderate"
+    "health_tier": "🟡 Moderate",
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "NetZero",
@@ -8449,7 +10090,8 @@
     "added": "2026-03-08",
     "last_seen": null,
     "registries": [
-      "Puro.earth"
+      "Puro.earth",
+      "CDR.fyi"
     ],
     "registry_data": {
       "puro": {
@@ -8465,10 +10107,23 @@
         ],
         "scanned": "2026-03-10",
         "status": "active"
+      },
+      "cdrfyi": {
+        "slug": "netzero",
+        "total_sold": 3650,
+        "total_delivered": 2250,
+        "latest_delivery": "2025-12-22",
+        "num_transactions": 5,
+        "num_purchasers": 4,
+        "methods": [
+          "Biochar Carbon Removal (BCR)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/netzero"
       }
     },
-    "health_score": 65,
-    "health_tier": "🟡 Moderate"
+    "health_score": 75,
+    "health_tier": "🟢 Active"
   },
   {
     "name": "Neustark",
@@ -8490,10 +10145,26 @@
         "company_size": "s",
         "scanned": "2026-03-10",
         "status": "hiring"
+      },
+      "cdrfyi": {
+        "slug": "neustark",
+        "total_sold": 12965,
+        "total_delivered": 1126,
+        "latest_delivery": "2025-10-20",
+        "num_transactions": 5,
+        "num_purchasers": 3,
+        "methods": [
+          "Mineralization"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/neustark"
       }
     },
-    "health_score": 50,
-    "health_tier": "🟡 Moderate"
+    "health_score": 75,
+    "health_tier": "🟢 Active",
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Neutralizing Environmental Trash Inc.",
@@ -8605,7 +10276,8 @@
     "added": "2026-03-08",
     "last_seen": null,
     "registries": [
-      "Puro.earth"
+      "Puro.earth",
+      "CDR.fyi"
     ],
     "registry_data": {
       "puro": {
@@ -8618,10 +10290,23 @@
           "Biochar, 2022"
         ],
         "scanned": "2026-03-10"
+      },
+      "cdrfyi": {
+        "slug": "nordgau",
+        "total_sold": 731,
+        "total_delivered": 731,
+        "latest_delivery": "2024-11-08",
+        "num_transactions": 5,
+        "num_purchasers": 3,
+        "methods": [
+          "Biochar Carbon Removal (BCR)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/nordgau"
       }
     },
-    "health_score": 35,
-    "health_tier": "🟠 Suspect"
+    "health_score": 75,
+    "health_tier": "🟢 Active"
   },
   {
     "name": "Nordic Carbon",
@@ -8684,9 +10369,26 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "registry_data": {},
-    "health_score": 25,
-    "health_tier": "🟠 Suspect"
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "norma",
+        "total_sold": 172,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 3,
+        "num_purchasers": 3,
+        "methods": [
+          "Direct Air Carbon Capture and Sequestration (DACCS)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/norma"
+      }
+    },
+    "health_score": 50,
+    "health_tier": "🟡 Moderate",
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Norsk e-Fuel",
@@ -8750,7 +10452,8 @@
     "added": "2026-03-08",
     "last_seen": null,
     "registries": [
-      "Puro.earth"
+      "Puro.earth",
+      "CDR.fyi"
     ],
     "registry_data": {
       "puro": {
@@ -8766,10 +10469,23 @@
         ],
         "scanned": "2026-03-10",
         "status": "active"
+      },
+      "cdrfyi": {
+        "slug": "novocarbo",
+        "total_sold": 200,
+        "total_delivered": 100,
+        "latest_delivery": "2025-10-21",
+        "num_transactions": 5,
+        "num_purchasers": 2,
+        "methods": [
+          "Biochar Carbon Removal (BCR)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/novocarbo"
       }
     },
-    "health_score": 65,
-    "health_tier": "🟡 Moderate"
+    "health_score": 75,
+    "health_tier": "🟢 Active"
   },
   {
     "name": "NuAria",
@@ -8800,8 +10516,26 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 25,
-    "health_tier": "🟠 Suspect"
+    "health_score": 75,
+    "health_tier": "🟢 Active",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "nulife-greentech",
+        "total_sold": 122046.2,
+        "total_delivered": 23.2,
+        "latest_delivery": "2026-01-07",
+        "num_transactions": 5,
+        "num_purchasers": 4,
+        "methods": [
+          "Biomass Geological Sequestration"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/nulife-greentech"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "NuWa Solutions",
@@ -8832,8 +10566,26 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 25,
-    "health_tier": "🟠 Suspect"
+    "health_score": 50,
+    "health_tier": "🟡 Moderate",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "nuxsen",
+        "total_sold": 2,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 1,
+        "num_purchasers": 1,
+        "methods": [
+          "Direct Air Carbon Capture and Sequestration (DACCS)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/nuxsen"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "NY Carbon",
@@ -8848,8 +10600,26 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 0,
-    "health_tier": "🔴 Likely Dead"
+    "health_score": 50,
+    "health_tier": "🟡 Moderate",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "ny-carbon",
+        "total_sold": 42,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 1,
+        "num_purchasers": 1,
+        "methods": [
+          "Biochar Carbon Removal (BCR)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/ny-carbon"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Néolithe",
@@ -8881,7 +10651,8 @@
     "added": "2026-03-08",
     "last_seen": null,
     "registries": [
-      "Puro.earth"
+      "Puro.earth",
+      "CDR.fyi"
     ],
     "registry_data": {
       "puro": {
@@ -8904,6 +10675,19 @@
         "company_size": "s",
         "scanned": "2026-03-10",
         "status": "hiring"
+      },
+      "cdrfyi": {
+        "slug": "oco-technology",
+        "total_sold": 4137,
+        "total_delivered": 4137,
+        "latest_delivery": "2026-02-14",
+        "num_transactions": 5,
+        "num_purchasers": 1,
+        "methods": [
+          "Mineralization"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/oco-technology"
       }
     },
     "health_score": 80,
@@ -9018,7 +10802,7 @@
     "source": "Faber CDR Company List (Jan 2026), CC BY-NC-SA 4.0",
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
-    "last_seen": null,
+    "last_seen": "2026-03-10",
     "registry_data": {
       "cdrjobs": {
         "job_count": 1,
@@ -9026,10 +10810,26 @@
         "company_size": "s",
         "scanned": "2026-03-10",
         "status": "hiring"
+      },
+      "cdrfyi": {
+        "slug": "octavia-carbon",
+        "total_sold": 649,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 5,
+        "num_purchasers": 3,
+        "methods": [
+          "Direct Air Carbon Capture and Sequestration (DACCS)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/octavia-carbon"
       }
     },
     "health_score": 50,
-    "health_tier": "🟡 Moderate"
+    "health_tier": "🟡 Moderate",
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "OLNEO",
@@ -9141,7 +10941,8 @@
     "added": "2026-03-08",
     "last_seen": null,
     "registries": [
-      "Puro.earth"
+      "Puro.earth",
+      "CDR.fyi"
     ],
     "registry_data": {
       "puro": {
@@ -9155,6 +10956,19 @@
         ],
         "scanned": "2026-03-10",
         "status": "active"
+      },
+      "cdrfyi": {
+        "slug": "oregon-biochar-solutions",
+        "total_sold": 870,
+        "total_delivered": 870,
+        "latest_delivery": "2026-02-20",
+        "num_transactions": 5,
+        "num_purchasers": 3,
+        "methods": [
+          "Biochar Carbon Removal (BCR)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/oregon-biochar-solutions"
       }
     },
     "health_score": 80,
@@ -9228,10 +11042,26 @@
         "company_size": "xxl",
         "scanned": "2026-03-10",
         "status": "hiring"
+      },
+      "cdrfyi": {
+        "slug": "orsted",
+        "total_sold": 4001500,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 3,
+        "num_purchasers": 2,
+        "methods": [
+          "Bioenergy with Carbon Capture and Sequestration (BECCS)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/orsted"
       }
     },
-    "health_score": 50,
-    "health_tier": "🟡 Moderate"
+    "health_score": 70,
+    "health_tier": "🟢 Active",
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Oxford Charcoal Company",
@@ -9335,8 +11165,26 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 25,
-    "health_tier": "🟠 Suspect"
+    "health_score": 60,
+    "health_tier": "🟡 Moderate",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "parallelcarbon",
+        "total_sold": 1418,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 3,
+        "num_purchasers": 3,
+        "methods": [
+          "Direct Air Carbon Capture and Sequestration (DACCS)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/parallelcarbon"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Partanna",
@@ -9383,8 +11231,26 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 25,
-    "health_tier": "🟠 Suspect"
+    "health_score": 50,
+    "health_tier": "🟡 Moderate",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "phathom",
+        "total_sold": 714,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 2,
+        "num_purchasers": 2,
+        "methods": [
+          "Alkalinity Enhancement"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/phathom"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Phlair",
@@ -9406,10 +11272,26 @@
         "company_size": "xs",
         "scanned": "2026-03-10",
         "status": "hiring"
+      },
+      "cdrfyi": {
+        "slug": "phlair",
+        "total_sold": 58276,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 5,
+        "num_purchasers": 4,
+        "methods": [
+          "Direct Air Carbon Capture and Sequestration (DACCS)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/phlair"
       }
     },
     "health_score": 80,
-    "health_tier": "🟢 Active"
+    "health_tier": "🟢 Active",
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Phoenix Energy",
@@ -9480,9 +11362,27 @@
     "source": "Faber CDR Company List (Jan 2026), CC BY-NC-SA 4.0",
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
-    "last_seen": null,
-    "health_score": 25,
-    "health_tier": "🟠 Suspect"
+    "last_seen": "2026-03-10",
+    "health_score": 75,
+    "health_tier": "🟢 Active",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "planetary",
+        "total_sold": 7037,
+        "total_delivered": 510,
+        "latest_delivery": "2025-12-19",
+        "num_transactions": 5,
+        "num_purchasers": 4,
+        "methods": [
+          "Alkalinity Enhancement"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/planetary"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Planeteers",
@@ -9504,10 +11404,26 @@
         "company_size": "xxs",
         "scanned": "2026-03-10",
         "status": "hiring"
+      },
+      "cdrfyi": {
+        "slug": "planeteers",
+        "total_sold": 636,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 5,
+        "num_purchasers": 5,
+        "methods": [
+          "Alkalinity Enhancement"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/planeteers"
       }
     },
     "health_score": 65,
-    "health_tier": "🟡 Moderate"
+    "health_tier": "🟡 Moderate",
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "POET",
@@ -9698,8 +11614,26 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 25,
-    "health_tier": "🟠 Suspect"
+    "health_score": 50,
+    "health_tier": "🟡 Moderate",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "pronoe",
+        "total_sold": 333,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 1,
+        "num_purchasers": 1,
+        "methods": [
+          "Alkalinity Enhancement"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/pronoe"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Provocative",
@@ -9746,8 +11680,26 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 25,
-    "health_tier": "🟠 Suspect"
+    "health_score": 50,
+    "health_tier": "🟡 Moderate",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "pull-to-refresh",
+        "total_sold": 0.56,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 5,
+        "num_purchasers": 1,
+        "methods": [
+          "Marine Biomass Carbon Capture and Sequestration (MBCCS)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/pull-to-refresh"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Pure Carbon Blue",
@@ -9810,8 +11762,26 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 25,
-    "health_tier": "🟠 Suspect"
+    "health_score": 50,
+    "health_tier": "🟡 Moderate",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "pyrogen",
+        "total_sold": 1000,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 1,
+        "num_purchasers": 1,
+        "methods": [
+          "Biochar Carbon Removal (BCR)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/pyrogen"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Pyronam",
@@ -9938,8 +11908,27 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 25,
-    "health_tier": "🟠 Suspect"
+    "health_score": 75,
+    "health_tier": "🟢 Active",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "recoal",
+        "total_sold": 1762,
+        "total_delivered": 2,
+        "latest_delivery": "2026-03-04",
+        "num_transactions": 2,
+        "num_purchasers": 2,
+        "methods": [
+          "Biomass Direct Storage",
+          "Bioenergy with Carbon Capture and Sequestration (BECCS)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/recoal"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "RecyCoal",
@@ -10066,8 +12055,26 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 25,
-    "health_tier": "🟠 Suspect"
+    "health_score": 60,
+    "health_tier": "🟡 Moderate",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "releaf-earth",
+        "total_sold": 1693,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 4,
+        "num_purchasers": 4,
+        "methods": [
+          "Biochar Carbon Removal (BCR)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/releaf-earth"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Rement",
@@ -10179,8 +12186,26 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 25,
-    "health_tier": "🟠 Suspect"
+    "health_score": 50,
+    "health_tier": "🟡 Moderate",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "repair",
+        "total_sold": 199,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 1,
+        "num_purchasers": 1,
+        "methods": [
+          "Direct Air Carbon Capture and Sequestration (DACCS)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/repair"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Repsol Sinopec",
@@ -10244,7 +12269,8 @@
     "added": "2026-03-08",
     "last_seen": null,
     "registries": [
-      "Puro.earth"
+      "Puro.earth",
+      "CDR.fyi"
     ],
     "registry_data": {
       "puro": {
@@ -10258,10 +12284,23 @@
         ],
         "scanned": "2026-03-10",
         "status": "active"
+      },
+      "cdrfyi": {
+        "slug": "restoration-fuels",
+        "total_sold": 291,
+        "total_delivered": 291,
+        "latest_delivery": "2025-12-23",
+        "num_transactions": 5,
+        "num_purchasers": 3,
+        "methods": [
+          "Biochar Carbon Removal (BCR)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/restoration-fuels"
       }
     },
-    "health_score": 50,
-    "health_tier": "🟡 Moderate"
+    "health_score": 75,
+    "health_tier": "🟢 Active"
   },
   {
     "name": "Restord",
@@ -10276,8 +12315,26 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 0,
-    "health_tier": "🔴 Likely Dead"
+    "health_score": 75,
+    "health_tier": "🟢 Active",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "restord",
+        "total_sold": 52,
+        "total_delivered": 9,
+        "latest_delivery": "2026-01-08",
+        "num_transactions": 3,
+        "num_purchasers": 3,
+        "methods": [
+          "Biochar Carbon Removal (BCR)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/restord"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Retort Biofuels",
@@ -10363,10 +12420,26 @@
         "company_size": "s",
         "scanned": "2026-03-10",
         "status": "hiring"
+      },
+      "cdrfyi": {
+        "slug": "reverion",
+        "total_sold": 96000,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 1,
+        "num_purchasers": 1,
+        "methods": [
+          "Bioenergy with Carbon Capture and Sequestration (BECCS)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/reverion"
       }
     },
     "health_score": 80,
-    "health_tier": "🟢 Active"
+    "health_tier": "🟢 Active",
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Reverse Carbon",
@@ -10854,8 +12927,26 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 0,
-    "health_tier": "🔴 Likely Dead"
+    "health_score": 60,
+    "health_tier": "🟡 Moderate",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "silica",
+        "total_sold": 1266,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 1,
+        "num_purchasers": 1,
+        "methods": [
+          "Enhanced Weathering"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/silica"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Silicate",
@@ -10869,9 +12960,27 @@
     "source": "Faber CDR Company List (Jan 2026), CC BY-NC-SA 4.0",
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
-    "last_seen": "2026-03-09",
-    "health_score": 25,
-    "health_tier": "🟠 Suspect"
+    "last_seen": "2026-03-10",
+    "health_score": 60,
+    "health_tier": "🟡 Moderate",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "silicate",
+        "total_sold": 2734,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 4,
+        "num_purchasers": 3,
+        "methods": [
+          "Enhanced Weathering"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/silicate"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Silver Bullet Biochar",
@@ -10909,10 +13018,26 @@
         "company_size": "xxs",
         "scanned": "2026-03-10",
         "status": "hiring"
+      },
+      "cdrfyi": {
+        "slug": "sinkco-labs",
+        "total_sold": 225,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 2,
+        "num_purchasers": 1,
+        "methods": [
+          "Biomass Geological Sequestration"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/sinkco-labs"
       }
     },
     "health_score": 65,
-    "health_tier": "🟡 Moderate"
+    "health_tier": "🟡 Moderate",
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "SIOTUU",
@@ -10927,8 +13052,26 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 25,
-    "health_tier": "🟠 Suspect"
+    "health_score": 75,
+    "health_tier": "🟢 Active",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "siotuu",
+        "total_sold": 407.55,
+        "total_delivered": 407.55,
+        "latest_delivery": "2025-06-11",
+        "num_transactions": 3,
+        "num_purchasers": 1,
+        "methods": [
+          "Biochar Carbon Removal (BCR)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/siotuu"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Sirona Technologies",
@@ -10942,7 +13085,7 @@
     "source": "Faber CDR Company List (Jan 2026), CC BY-NC-SA 4.0",
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
-    "last_seen": "2026-03-09",
+    "last_seen": "2026-03-10",
     "registry_data": {
       "cdrjobs": {
         "job_count": 2,
@@ -10950,10 +13093,26 @@
         "company_size": "xxs",
         "scanned": "2026-03-10",
         "status": "hiring"
+      },
+      "cdrfyi": {
+        "slug": "sirona-technologies",
+        "total_sold": 1138,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 5,
+        "num_purchasers": 4,
+        "methods": [
+          "Direct Air Carbon Capture and Sequestration (DACCS)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/sirona-technologies"
       }
     },
     "health_score": 65,
-    "health_tier": "🟡 Moderate"
+    "health_tier": "🟡 Moderate",
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Sitos Group",
@@ -11016,8 +13175,26 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 25,
-    "health_tier": "🟠 Suspect"
+    "health_score": 50,
+    "health_tier": "🟡 Moderate",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "skyrenu",
+        "total_sold": 20,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 1,
+        "num_purchasers": 1,
+        "methods": [
+          "Direct Air Carbon Capture and Sequestration (DACCS)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/skyrenu"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Skytree",
@@ -11186,7 +13363,8 @@
     "added": "2026-03-08",
     "last_seen": null,
     "registries": [
-      "Puro.earth"
+      "Puro.earth",
+      "CDR.fyi"
     ],
     "registry_data": {
       "puro": {
@@ -11201,10 +13379,23 @@
         ],
         "scanned": "2026-03-10",
         "status": "active"
+      },
+      "cdrfyi": {
+        "slug": "sonnenerde",
+        "total_sold": 5695,
+        "total_delivered": 415,
+        "latest_delivery": "2026-01-23",
+        "num_transactions": 5,
+        "num_purchasers": 2,
+        "methods": [
+          "Biochar Carbon Removal (BCR)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/sonnenerde"
       }
     },
-    "health_score": 50,
-    "health_tier": "🟡 Moderate"
+    "health_score": 75,
+    "health_tier": "🟢 Active"
   },
   {
     "name": "Sosna Metelyk",
@@ -11299,8 +13490,26 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 0,
-    "health_tier": "🔴 Likely Dead"
+    "health_score": 50,
+    "health_tier": "🟡 Moderate",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "spiritus",
+        "total_sold": 291.32,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 5,
+        "num_purchasers": 2,
+        "methods": [
+          "Direct Air Carbon Capture and Sequestration (DACCS)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/spiritus"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Sponge DAC",
@@ -11411,8 +13620,26 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 0,
-    "health_tier": "🔴 Likely Dead"
+    "health_score": 75,
+    "health_tier": "🟢 Active",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "stiesdal",
+        "total_sold": 24.27,
+        "total_delivered": 8.44,
+        "latest_delivery": "2024-03-27",
+        "num_transactions": 3,
+        "num_purchasers": 1,
+        "methods": [
+          "Biochar Carbon Removal (BCR)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/stiesdal"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Stockholm Exergi",
@@ -11427,8 +13654,26 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 25,
-    "health_tier": "🟠 Suspect"
+    "health_score": 70,
+    "health_tier": "🟢 Active",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "stockholm-exergi",
+        "total_sold": 5259998,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 3,
+        "num_purchasers": 2,
+        "methods": [
+          "Bioenergy with Carbon Capture and Sequestration (BECCS)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/stockholm-exergi"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Storegga/Pale Blue Dot Energy",
@@ -11570,9 +13815,27 @@
     "source": "Faber CDR Company List (Jan 2026), CC BY-NC-SA 4.0",
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
-    "last_seen": "2026-03-09",
-    "health_score": 0,
-    "health_tier": "🔴 Likely Dead"
+    "last_seen": "2026-03-10",
+    "health_score": 60,
+    "health_tier": "🟡 Moderate",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "sustaera",
+        "total_sold": 5959,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 4,
+        "num_purchasers": 4,
+        "methods": [
+          "Direct Air Carbon Capture and Sequestration (DACCS)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/sustaera"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Svante/Carbon Alpha",
@@ -11789,10 +14052,26 @@
         "company_size": "xxs",
         "scanned": "2026-03-10",
         "status": "hiring"
+      },
+      "cdrfyi": {
+        "slug": "takachar",
+        "total_sold": 3605,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 3,
+        "num_purchasers": 3,
+        "methods": [
+          "Biochar Carbon Removal (BCR)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/takachar"
       }
     },
-    "health_score": 50,
-    "health_tier": "🟡 Moderate"
+    "health_score": 60,
+    "health_tier": "🟡 Moderate",
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Takatena",
@@ -11823,8 +14102,26 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 25,
-    "health_tier": "🟠 Suspect"
+    "health_score": 60,
+    "health_tier": "🟡 Moderate",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "tambora",
+        "total_sold": 4440,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 1,
+        "num_purchasers": 1,
+        "methods": [
+          "Enhanced Weathering"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/tambora"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Tapovanam",
@@ -11983,8 +14280,26 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 25,
-    "health_tier": "🟠 Suspect"
+    "health_score": 70,
+    "health_tier": "🟢 Active",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "terradot",
+        "total_sold": 301998,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 3,
+        "num_purchasers": 3,
+        "methods": [
+          "Enhanced Weathering"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/terradot"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "TerraFixing",
@@ -12006,10 +14321,26 @@
         "company_size": "xxs",
         "scanned": "2026-03-10",
         "status": "hiring"
+      },
+      "cdrfyi": {
+        "slug": "terrafixing",
+        "total_sold": 34.56,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 5,
+        "num_purchasers": 2,
+        "methods": [
+          "Direct Air Carbon Capture and Sequestration (DACCS)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/terrafixing"
       }
     },
     "health_score": 65,
-    "health_tier": "🟡 Moderate"
+    "health_tier": "🟡 Moderate",
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Terrafront",
@@ -12104,8 +14435,26 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 25,
-    "health_tier": "🟠 Suspect"
+    "health_score": 50,
+    "health_tier": "🟡 Moderate",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "terrawatt",
+        "total_sold": 501.25,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 3,
+        "num_purchasers": 3,
+        "methods": [
+          "Biochar Carbon Removal (BCR)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/terrawatt"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Thalo Labs",
@@ -12145,8 +14494,26 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 25,
-    "health_tier": "🟠 Suspect"
+    "health_score": 75,
+    "health_tier": "🟢 Active",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "the-carbon-removers",
+        "total_sold": 4414,
+        "total_delivered": 480,
+        "latest_delivery": "2025-08-02",
+        "num_transactions": 5,
+        "num_purchasers": 5,
+        "methods": [
+          "Bioenergy with Carbon Capture and Sequestration (BECCS)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/the-carbon-removers"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "The New Black Biochar",
@@ -12226,7 +14593,8 @@
     "added": "2026-03-08",
     "last_seen": null,
     "registries": [
-      "Puro.earth"
+      "Puro.earth",
+      "CDR.fyi"
     ],
     "registry_data": {
       "puro": {
@@ -12240,10 +14608,23 @@
         ],
         "scanned": "2026-03-10",
         "status": "active"
+      },
+      "cdrfyi": {
+        "slug": "tierra-prieta",
+        "total_sold": 512,
+        "total_delivered": 512,
+        "latest_delivery": "2025-12-26",
+        "num_transactions": 4,
+        "num_purchasers": 3,
+        "methods": [
+          "Biochar Carbon Removal (BCR)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/tierra-prieta"
       }
     },
-    "health_score": 50,
-    "health_tier": "🟡 Moderate"
+    "health_score": 75,
+    "health_tier": "🟢 Active"
   },
   {
     "name": "TimberTurn",
@@ -12329,10 +14710,26 @@
         "company_size": "s",
         "scanned": "2026-03-10",
         "status": "hiring"
+      },
+      "cdrfyi": {
+        "slug": "towing",
+        "total_sold": 210,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 1,
+        "num_purchasers": 1,
+        "methods": [
+          "Biochar Carbon Removal (BCR)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/towing"
       }
     },
     "health_score": 80,
-    "health_tier": "🟢 Active"
+    "health_tier": "🟢 Active",
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Travertine",
@@ -12354,10 +14751,26 @@
         "company_size": "xxs",
         "scanned": "2026-03-10",
         "status": "hiring"
+      },
+      "cdrfyi": {
+        "slug": "travertine",
+        "total_sold": 365,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 1,
+        "num_purchasers": 1,
+        "methods": [
+          "Enhanced Weathering"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/travertine"
       }
     },
     "health_score": 65,
-    "health_tier": "🟡 Moderate"
+    "health_tier": "🟡 Moderate",
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Tropicarbon",
@@ -12389,7 +14802,8 @@
     "added": "2026-03-08",
     "last_seen": null,
     "registries": [
-      "Puro.earth"
+      "Puro.earth",
+      "CDR.fyi"
     ],
     "registry_data": {
       "puro": {
@@ -12403,10 +14817,23 @@
         ],
         "scanned": "2026-03-10",
         "status": "active"
+      },
+      "cdrfyi": {
+        "slug": "truecoco-ghana",
+        "total_sold": 1977,
+        "total_delivered": 1977,
+        "latest_delivery": "2026-02-26",
+        "num_transactions": 5,
+        "num_purchasers": 2,
+        "methods": [
+          "Biochar Carbon Removal (BCR)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/truecoco-ghana"
       }
     },
-    "health_score": 50,
-    "health_tier": "🟡 Moderate"
+    "health_score": 75,
+    "health_tier": "🟢 Active"
   },
   {
     "name": "TVERF",
@@ -12460,10 +14887,26 @@
         "company_size": "xxs",
         "scanned": "2026-03-10",
         "status": "hiring"
+      },
+      "cdrfyi": {
+        "slug": "ucaneo",
+        "total_sold": 682,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 3,
+        "num_purchasers": 3,
+        "methods": [
+          "Direct Air Carbon Capture and Sequestration (DACCS)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/ucaneo"
       }
     },
     "health_score": 65,
-    "health_tier": "🟡 Moderate"
+    "health_tier": "🟡 Moderate",
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Uisa",
@@ -12494,8 +14937,26 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 25,
-    "health_tier": "🟠 Suspect"
+    "health_score": 75,
+    "health_tier": "🟢 Active",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "underground-forest",
+        "total_sold": 12,
+        "total_delivered": 12,
+        "latest_delivery": "2025-11-25",
+        "num_transactions": 1,
+        "num_purchasers": 1,
+        "methods": [
+          "Biomass Direct Storage"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/underground-forest"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "UNDO",
@@ -12517,10 +14978,26 @@
         "company_size": "s",
         "scanned": "2026-03-10",
         "status": "hiring"
+      },
+      "cdrfyi": {
+        "slug": "undo",
+        "total_sold": 35617,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 5,
+        "num_purchasers": 5,
+        "methods": [
+          "Enhanced Weathering"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/undo"
       }
     },
-    "health_score": 50,
-    "health_tier": "🟡 Moderate"
+    "health_score": 70,
+    "health_tier": "🟢 Active",
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Unemit",
@@ -12625,7 +15102,8 @@
     "added": "2026-03-08",
     "last_seen": null,
     "registries": [
-      "Puro.earth"
+      "Puro.earth",
+      "CDR.fyi"
     ],
     "registry_data": {
       "puro": {
@@ -12639,10 +15117,23 @@
           "Biochar, 2022"
         ],
         "scanned": "2026-03-10"
+      },
+      "cdrfyi": {
+        "slug": "v-grid-energy-systems",
+        "total_sold": 822,
+        "total_delivered": 411,
+        "latest_delivery": "2023-01-27",
+        "num_transactions": 5,
+        "num_purchasers": 2,
+        "methods": [
+          "Biochar Carbon Removal (BCR)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/v-grid-energy-systems"
       }
     },
-    "health_score": 35,
-    "health_tier": "🟠 Suspect"
+    "health_score": 75,
+    "health_tier": "🟢 Active"
   },
   {
     "name": "Valero",
@@ -12690,7 +15181,8 @@
     "added": "2026-03-08",
     "last_seen": null,
     "registries": [
-      "Puro.earth"
+      "Puro.earth",
+      "CDR.fyi"
     ],
     "registry_data": {
       "puro": {
@@ -12712,6 +15204,19 @@
         "company_size": "s",
         "scanned": "2026-03-10",
         "status": "hiring"
+      },
+      "cdrfyi": {
+        "slug": "varaha",
+        "total_sold": 113576,
+        "total_delivered": 6576,
+        "latest_delivery": "2026-02-24",
+        "num_transactions": 5,
+        "num_purchasers": 4,
+        "methods": [
+          "Biochar Carbon Removal (BCR)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/varaha"
       }
     },
     "health_score": 80,
@@ -12785,10 +15290,26 @@
         "company_size": "xxs",
         "scanned": "2026-03-10",
         "status": "hiring"
+      },
+      "cdrfyi": {
+        "slug": "vaulted-deep",
+        "total_sold": 509,
+        "total_delivered": 395,
+        "latest_delivery": "2026-02-20",
+        "num_transactions": 5,
+        "num_purchasers": 5,
+        "methods": [
+          "Biomass Geological Sequestration"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/vaulted-deep"
       }
     },
     "health_score": 80,
-    "health_tier": "🟢 Active"
+    "health_tier": "🟢 Active",
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Velocys",
@@ -12851,8 +15372,26 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 25,
-    "health_tier": "🟠 Suspect"
+    "health_score": 75,
+    "health_tier": "🟢 Active",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "verora",
+        "total_sold": 18.529999999999998,
+        "total_delivered": 18.529999999999998,
+        "latest_delivery": "2025-11-17",
+        "num_transactions": 5,
+        "num_purchasers": 1,
+        "methods": [
+          "Biochar Carbon Removal (BCR)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/verora"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Vesta",
@@ -12931,8 +15470,26 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 0,
-    "health_tier": "🔴 Likely Dead"
+    "health_score": 50,
+    "health_tier": "🟡 Moderate",
+    "registry_data": {
+      "cdrfyi": {
+        "slug": "vycarb",
+        "total_sold": 658,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 3,
+        "num_purchasers": 3,
+        "methods": [
+          "Alkalinity Enhancement"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/vycarb"
+      }
+    },
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Växjö Energi",
@@ -12980,7 +15537,8 @@
     "added": "2026-03-08",
     "last_seen": null,
     "registries": [
-      "Puro.earth"
+      "Puro.earth",
+      "CDR.fyi"
     ],
     "registry_data": {
       "puro": {
@@ -13003,6 +15561,19 @@
         "company_size": "xs",
         "scanned": "2026-03-10",
         "status": "hiring"
+      },
+      "cdrfyi": {
+        "slug": "wakefield-biochar",
+        "total_sold": 1705,
+        "total_delivered": 1705,
+        "latest_delivery": "2026-02-12",
+        "num_transactions": 5,
+        "num_purchasers": 4,
+        "methods": [
+          "Biochar Carbon Removal (BCR)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/wakefield-biochar"
       }
     },
     "health_score": 80,
@@ -13044,10 +15615,26 @@
         "company_size": "xxs",
         "scanned": "2026-03-10",
         "status": "hiring"
+      },
+      "cdrfyi": {
+        "slug": "wastex",
+        "total_sold": 1168.14,
+        "total_delivered": 1.14,
+        "latest_delivery": "2025-11-17",
+        "num_transactions": 5,
+        "num_purchasers": 2,
+        "methods": [
+          "Biochar Carbon Removal (BCR)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/wastex"
       }
     },
-    "health_score": 50,
-    "health_tier": "🟡 Moderate"
+    "health_score": 75,
+    "health_tier": "🟢 Active",
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Waterberg Carbon Co",
@@ -13359,10 +15946,26 @@
         "company_size": "xs",
         "scanned": "2026-03-10",
         "status": "hiring"
+      },
+      "cdrfyi": {
+        "slug": "zeroex",
+        "total_sold": 477,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 5,
+        "num_purchasers": 4,
+        "methods": [
+          "Enhanced Weathering"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/zeroex"
       }
     },
     "health_score": 65,
-    "health_tier": "🟡 Moderate"
+    "health_tier": "🟡 Moderate",
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "ZS2",
@@ -13484,7 +16087,8 @@
     "source": "Puro.earth registry",
     "source_url": "https://registry.puro.earth/",
     "registries": [
-      "Puro.earth"
+      "Puro.earth",
+      "CDR.fyi"
     ],
     "registry_data": {
       "puro": {
@@ -13498,10 +16102,23 @@
         ],
         "scanned": "2026-03-10",
         "status": "active"
+      },
+      "cdrfyi": {
+        "slug": "pacific-biochar",
+        "total_sold": 707,
+        "total_delivered": 649,
+        "latest_delivery": "2026-02-27",
+        "num_transactions": 5,
+        "num_purchasers": 5,
+        "methods": [
+          "Biochar Carbon Removal (BCR)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/pacific-biochar"
       }
     },
-    "health_score": 65,
-    "health_tier": "🟡 Moderate",
+    "health_score": 75,
+    "health_tier": "🟢 Active",
     "tech_note": "I’ll break down how I think this ... of Pacific Biochar. Response to 1.) Yes, of course. It doesn’t appear to be new on Microsoft’s radar, but I’m thankful they’re highlighting it because I appreci...",
     "category": "BiCRS",
     "method": "Biomass Carbon Removal",
@@ -13517,7 +16134,8 @@
     "source": "Puro.earth registry",
     "source_url": "https://registry.puro.earth/",
     "registries": [
-      "Puro.earth"
+      "Puro.earth",
+      "CDR.fyi"
     ],
     "registry_data": {
       "puro": {
@@ -13538,10 +16156,23 @@
         "company_size": "xs",
         "scanned": "2026-03-10",
         "status": "hiring"
+      },
+      "cdrfyi": {
+        "slug": "eion",
+        "total_sold": 97319.29,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 5,
+        "num_purchasers": 5,
+        "methods": [
+          "Enhanced Weathering"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/eion"
       }
     },
-    "health_score": 50,
-    "health_tier": "🟡 Moderate",
+    "health_score": 70,
+    "health_tier": "🟢 Active",
     "tech_note": "Eion is the first company that brought a solution to us that scientifically we believe can permanently remove carbon, do it with ease, and with little to no disruption whatsoever to the grower base...",
     "category": "ERW",
     "method": "Enhanced Rock Weathering",
@@ -13622,7 +16253,8 @@
     "source": "Puro.earth registry",
     "source_url": "https://registry.puro.earth/",
     "registries": [
-      "Puro.earth"
+      "Puro.earth",
+      "CDR.fyi"
     ],
     "registry_data": {
       "puro": {
@@ -13637,10 +16269,23 @@
         ],
         "scanned": "2026-03-10",
         "status": "active"
+      },
+      "cdrfyi": {
+        "slug": "pyrocal",
+        "total_sold": 236,
+        "total_delivered": 236,
+        "latest_delivery": "2025-12-18",
+        "num_transactions": 5,
+        "num_purchasers": 3,
+        "methods": [
+          "Biochar Carbon Removal (BCR)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/pyrocal"
       }
     },
-    "health_score": 50,
-    "health_tier": "🟡 Moderate",
+    "health_score": 75,
+    "health_tier": "🟢 Active",
     "tech_note": "Pyrocal makes this possible with its high-performing, cost-saving carbonisation technology which converts biosolids and other organic waste from businesses, councils, and utilities into biochar.",
     "category": "BiCRS",
     "method": "Biomass Carbon Removal",
@@ -13656,7 +16301,8 @@
     "source": "Puro.earth registry",
     "source_url": "https://registry.puro.earth/",
     "registries": [
-      "Puro.earth"
+      "Puro.earth",
+      "CDR.fyi"
     ],
     "registry_data": {
       "puro": {
@@ -13670,10 +16316,23 @@
         ],
         "scanned": "2026-03-10",
         "status": "active"
+      },
+      "cdrfyi": {
+        "slug": "premier-forest",
+        "total_sold": 153,
+        "total_delivered": 153,
+        "latest_delivery": "2025-09-30",
+        "num_transactions": 5,
+        "num_purchasers": 4,
+        "methods": [
+          "Biochar Carbon Removal (BCR)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/premier-forest"
       }
     },
-    "health_score": 50,
-    "health_tier": "🟡 Moderate",
+    "health_score": 75,
+    "health_tier": "🟢 Active",
     "category": "BiCRS",
     "method": "Biomass Carbon Removal",
     "url": "https://www.premierforest.co.uk",
@@ -14608,10 +17267,23 @@
         "company_size": "xxs",
         "scanned": "2026-03-10",
         "status": "hiring"
+      },
+      "cdrfyi": {
+        "slug": "circonomy",
+        "total_sold": 302,
+        "total_delivered": 302,
+        "latest_delivery": "2025-11-14",
+        "num_transactions": 4,
+        "num_purchasers": 1,
+        "methods": [
+          "Biochar Carbon Removal (BCR)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/circonomy"
       }
     },
-    "health_score": 65,
-    "health_tier": "🟡 Moderate",
+    "health_score": 75,
+    "health_tier": "🟢 Active",
     "url": "https://circonomy.com.au/",
     "tech_note": "Biochar and circular economy company converting organic waste into biochar for carbon removal.",
     "category": "BiCRS",
@@ -14619,7 +17291,10 @@
     "linkedin": "https://sg.linkedin.com/company/circonomy",
     "added": "2026-03-10",
     "cdi_portfolio": false,
-    "location": "Australia"
+    "location": "Australia",
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Skynano",
@@ -15195,6 +17870,19 @@
         "company_size": "xs",
         "scanned": "2026-03-10",
         "status": "hiring"
+      },
+      "cdrfyi": {
+        "slug": "seagen",
+        "total_sold": 0.16,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 5,
+        "num_purchasers": 1,
+        "methods": [
+          "Marine Biomass Carbon Capture and Sequestration (MBCCS)"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/seagen"
       }
     },
     "health_score": 80,
@@ -15205,7 +17893,10 @@
     "method": "Ocean-based CDR",
     "added": "2026-03-10",
     "cdi_portfolio": false,
-    "location": "United States"
+    "location": "United States",
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "RedoxNRG",
@@ -15303,7 +17994,8 @@
     "method": "CDR Platform/Marketplace",
     "added": "2026-03-10",
     "cdi_portfolio": false,
-    "location": "United States"
+    "location": "United States",
+    "last_seen": "2026-03-10"
   },
   {
     "name": "CarbonCure",
@@ -15317,10 +18009,23 @@
         "company_size": "xs",
         "scanned": "2026-03-10",
         "status": "hiring"
+      },
+      "cdrfyi": {
+        "slug": "carboncure",
+        "total_sold": 22987,
+        "total_delivered": 11611,
+        "latest_delivery": "2024-07-01",
+        "num_transactions": 5,
+        "num_purchasers": 4,
+        "methods": [
+          "Mineralization"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/carboncure"
       }
     },
-    "health_score": 65,
-    "health_tier": "🟡 Moderate",
+    "health_score": 75,
+    "health_tier": "🟢 Active",
     "url": "https://www.carboncure.com/",
     "tech_note": "Carbon utilization technology that injects CO2 into fresh concrete, permanently mineralizing it and reducing cement usage.",
     "category": "Utilization",
@@ -15328,7 +18033,10 @@
     "linkedin": "https://ca.linkedin.com/company/carboncure-technologies",
     "added": "2026-03-10",
     "cdi_portfolio": false,
-    "location": "Canada"
+    "location": "Canada",
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Carbon Gap",
@@ -15367,6 +18075,19 @@
         "company_size": "xs",
         "scanned": "2026-03-10",
         "status": "hiring"
+      },
+      "cdrfyi": {
+        "slug": "carbonbuilt",
+        "total_sold": 6315,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 4,
+        "num_purchasers": 3,
+        "methods": [
+          "Mineralization"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/carbonbuilt"
       }
     },
     "health_score": 65,
@@ -15377,7 +18098,10 @@
     "added": "2026-03-10",
     "cdi_portfolio": false,
     "url": "https://www.carbonbuilt.com/",
-    "location": "United States"
+    "location": "United States",
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "Chestnut Carbon",
@@ -15440,6 +18164,19 @@
         "company_size": "xxs",
         "scanned": "2026-03-10",
         "status": "hiring"
+      },
+      "cdrfyi": {
+        "slug": "everest-carbon",
+        "total_sold": 3,
+        "total_delivered": 0,
+        "latest_delivery": null,
+        "num_transactions": 2,
+        "num_purchasers": 2,
+        "methods": [
+          "Enhanced Weathering"
+        ],
+        "scanned": "2026-03-11",
+        "url": "https://www.cdr.fyi/supplier/everest-carbon"
       }
     },
     "health_score": 50,
@@ -15451,7 +18188,10 @@
     "linkedin": "https://www.linkedin.com/company/everest-carbon",
     "added": "2026-03-10",
     "cdi_portfolio": false,
-    "location": "United States"
+    "location": "United States",
+    "registries": [
+      "CDR.fyi"
+    ]
   },
   {
     "name": "goodcarbon",

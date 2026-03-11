@@ -47,5 +47,5 @@ This isn't the only CO₂-to-fuel race happening. AirCo is building containerize
 
 - [What Is [Enhanced Weathering](/posts/what-is-enhanced-weathering/)? A Primer](/posts/what-is-enhanced-weathering/)
 - [Japanese Scientists Made Rubber That Eats CO₂ and Turns Into Plastic](/posts/2026-03-05-japan-co2-rubber/)
-- [[ERW](/posts/what-is-enhanced-weathering/) Could Absorb 1 Billion Tonnes of CO₂ — But the Details Matter](/posts/2026-03-07-erw-one-billion-tonnes-potential/)
+- [[ERW](/posts/what-is-enhanced-weathering/) Could Absorb 1 Billion Tonnes of CO₂ — But the Details Matter](/posts/2026-03-07-[erw](/posts/what-is-enhanced-weathering/)-one-billion-tonnes-potential/)
 - [Gulf of Maine OAE Trial: CO₂ Captured, No Harm to Marine Life](/posts/2026-03-07-gulf-of-maine-oae-trial-results/)
