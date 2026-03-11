@@ -183,14 +183,6 @@
       html += '</div></div>';
     }
 
-    // Registry Data
-    if (c.registries && c.registries.length > 0) {
-      html += '<div class="company-section"><h2>📋 Registry Presence</h2>';
-      html += `<p>Found on: ${c.registries.map(r => '<span class="meta-tag">' + esc(r) + '</span>').join(' ')}</p>`;
-      if (c.registry_tonnes) html += `<p>Total registered tonnes: <strong>${Number(c.registry_tonnes).toLocaleString()}</strong></p>`;
-      html += '</div>';
-    }
-
     // Data Provenance
     html += '<div class="company-section"><h2>ℹ️ Data Provenance</h2>';
     html += '<div class="info-grid">';
