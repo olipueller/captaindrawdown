@@ -1,0 +1,8 @@
+---
+title: "Aries Clean Technologies"
+layout: "single"
+type: "directory"
+description: "Aries Clean Technologies develops, designs, and builds proprietary fluidized bed and downdraft gasification systems to convert wastewater biosolids into energy "
+url: "/directory/aries-clean-technologies/"
+noindex: false
+---

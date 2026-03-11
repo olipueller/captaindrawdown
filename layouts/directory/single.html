@@ -1,0 +1,209 @@
+{{ define "main" }}
+<style>
+  .company-page { max-width: 800px; margin: 0 auto; padding: 1rem; }
+  .company-header { margin-bottom: 2rem; }
+  .company-header h1 { font-size: 2rem; margin-bottom: 0.3rem; }
+  .company-meta { display: flex; gap: 0.7rem; flex-wrap: wrap; align-items: center; margin-bottom: 1rem; }
+  .meta-tag {
+    display: inline-block; background: var(--code-bg); border-radius: 4px;
+    padding: 0.2rem 0.6rem; font-size: 0.85rem; color: var(--secondary);
+  }
+  .cdi-badge-lg {
+    background: #4ade80; color: #1e293b; font-size: 0.75rem; padding: 0.2rem 0.6rem;
+    border-radius: 4px; font-weight: 700;
+  }
+  .status-badge { border-radius: 4px; padding: 0.2rem 0.6rem; font-size: 0.85rem; font-weight: 600; }
+  .status-badge.active { background: rgba(34,197,94,0.15); color: #22c55e; }
+  .status-badge.moderate { background: rgba(234,179,8,0.15); color: #eab308; }
+  .status-badge.suspect { background: rgba(249,115,22,0.15); color: #f97316; }
+  .status-badge.dead { background: rgba(239,68,68,0.15); color: #ef4444; }
+  .ai-warning {
+    background: #fef3c7; border: 1px solid #f59e0b; border-radius: 8px;
+    padding: 0.8rem 1rem; font-size: 0.8rem; color: #92400e; margin-bottom: 1.5rem;
+  }
+  @media (prefers-color-scheme: dark) {
+    .ai-warning { background: rgba(245,158,11,0.1); border-color: rgba(245,158,11,0.3); color: #fbbf24; }
+  }
+  .company-section { margin-bottom: 2rem; }
+  .company-section h2 { font-size: 1.2rem; margin-bottom: 0.8rem; border-bottom: 1px solid var(--border); padding-bottom: 0.4rem; }
+  .screenshot-container { margin-bottom: 1.5rem; }
+  .screenshot-container img {
+    width: 100%; max-width: 700px; border-radius: 8px; border: 1px solid var(--border);
+    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+  }
+  .info-grid { display: grid; grid-template-columns: 140px 1fr; gap: 0.5rem 1rem; font-size: 0.95rem; }
+  .info-label { color: var(--secondary); font-weight: 600; }
+  .info-value { color: var(--primary); }
+  .info-value a { color: var(--primary); }
+  .evidence-card {
+    background: var(--code-bg); border-radius: 8px; padding: 1rem; margin-top: 0.5rem;
+  }
+  .evidence-card .ev-date { font-weight: 600; margin-bottom: 0.3rem; }
+  .evidence-card .ev-type { color: var(--secondary); font-size: 0.85rem; }
+  .evidence-card a { word-break: break-all; }
+  .back-link { margin-bottom: 1.5rem; font-size: 0.9rem; }
+  .back-link a { color: var(--secondary); text-decoration: none; }
+  .back-link a:hover { color: var(--primary); }
+  .company-description { font-size: 1.05rem; line-height: 1.7; margin-bottom: 1.5rem; color: var(--primary); }
+  .ext-links { display: flex; gap: 0.8rem; flex-wrap: wrap; margin-top: 0.5rem; }
+  .ext-link {
+    display: inline-flex; align-items: center; gap: 0.3rem;
+    background: var(--code-bg); border-radius: 6px; padding: 0.4rem 0.8rem;
+    font-size: 0.85rem; text-decoration: none; color: var(--primary);
+    border: 1px solid var(--border); transition: border-color 0.2s;
+  }
+  .ext-link:hover { border-color: var(--primary); }
+</style>
+
+<div class="company-page" id="company-page">
+  <div class="back-link"><a href="/directory/">← Back to CDR Directory</a></div>
+  <div class="ai-warning">
+    ⚠️ <strong>AI-generated content</strong> — The information on this page was gathered and summarized by AI through automated web searches. It <strong>may contain errors, outdated information, or inaccuracies</strong>. Please verify important details independently.
+  </div>
+  <div id="company-content"><p style="color:var(--secondary)">Loading company data...</p></div>
+</div>
+
+<script>
+(function() {
+  const slug = window.location.pathname.replace('/directory/','').replace(/\/$/,'');
+
+  fetch('/data/companies.json?v=' + Date.now())
+    .then(r => r.json())
+    .then(data => {
+      const c = data.find(co => companySlug(co.name) === slug);
+      if (!c) {
+        document.getElementById('company-content').innerHTML = '<h1>Company not found</h1><p>This company is not in our directory. <a href="/directory/">Browse all companies →</a></p>';
+        return;
+      }
+      renderCompany(c);
+    });
+
+  function companySlug(name) {
+    return name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+  }
+
+  function esc(s) {
+    if (!s) return '';
+    return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+  }
+
+  function healthClass(c) {
+    const t = (c.health_tier || '').toLowerCase();
+    if (t.includes('active')) return 'active';
+    if (t.includes('moderate')) return 'moderate';
+    if (t.includes('suspect')) return 'suspect';
+    return 'dead';
+  }
+
+  function healthLabel(c) {
+    const cls = healthClass(c);
+    return { active: '🟢 Active', moderate: '🟡 Moderate', suspect: '🟠 Suspect', dead: '🔴 Maybe Dead?' }[cls] || 'Unknown';
+  }
+
+  function formatDate(d) {
+    if (!d) return null;
+    try {
+      const dt = new Date(d);
+      return dt.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+    } catch { return d; }
+  }
+
+  function evidenceTypeLabel(t) {
+    const map = {
+      'news': '📰 News Article',
+      'blog': '📝 Blog Post',
+      'blog_post': '📝 Blog Post',
+      'registry': '📋 Registry Activity',
+      'funding': '💰 Funding Announcement',
+      'job_posting': '💼 Job Posting',
+      'company_site': '🌐 Company Website',
+      'company_blog': '📝 Company Blog'
+    };
+    return map[t] || '🔗 Web Source';
+  }
+
+  function renderCompany(c) {
+    const cls = healthClass(c);
+    const slug = companySlug(c.name);
+    let domain = '';
+    try { domain = new URL(c.url).hostname; } catch {}
+
+    let html = '';
+
+    // Header
+    html += '<div class="company-header">';
+    html += `<h1>${esc(c.name)}</h1>`;
+    html += '<div class="company-meta">';
+    html += `<span class="status-badge ${cls}">${healthLabel(c)}</span>`;
+    html += `<span class="meta-tag">${esc(c.method)}</span>`;
+    if (c.category) html += `<span class="meta-tag">${esc(c.category)}</span>`;
+    if (c.country) html += `<span class="meta-tag">📍 ${esc(c.country)}</span>`;
+    if (c.cdi_portfolio) html += '<span class="cdi-badge-lg">CDI Portfolio</span>';
+    html += '</div>';
+    html += '</div>';
+
+    // Description
+    if (c.description) {
+      html += `<div class="company-description">${esc(c.description)}</div>`;
+    }
+
+    // Screenshot
+    if (c.screenshot) {
+      html += '<div class="screenshot-container">';
+      html += `<img src="/data/thumbnails/${esc(c.screenshot)}" alt="Screenshot of ${esc(c.name)} website" loading="lazy">`;
+      html += '</div>';
+    }
+
+    // Links
+    html += '<div class="company-section"><h2>🔗 Links</h2>';
+    html += '<div class="ext-links">';
+    if (c.url) html += `<a href="${esc(c.url)}" target="_blank" rel="noopener" class="ext-link">🌐 ${esc(domain || 'Website')}</a>`;
+    if (c.linkedin) html += `<a href="${esc(c.linkedin)}" target="_blank" rel="noopener" class="ext-link">💼 LinkedIn</a>`;
+    html += '</div></div>';
+
+    // Company Details
+    html += '<div class="company-section"><h2>📋 Details</h2>';
+    html += '<div class="info-grid">';
+    html += `<span class="info-label">Method</span><span class="info-value">${esc(c.method)}</span>`;
+    if (c.category) html += `<span class="info-label">Category</span><span class="info-value">${esc(c.category)}</span>`;
+    if (c.country) html += `<span class="info-label">Country</span><span class="info-value">${esc(c.country)}</span>`;
+    if (c.location && c.location !== c.country) html += `<span class="info-label">Location</span><span class="info-value">${esc(c.location)}</span>`;
+    if (c.tech_note && c.tech_note !== '—') html += `<span class="info-label">Tech Note</span><span class="info-value">${esc(c.tech_note)}</span>`;
+    html += `<span class="info-label">Status</span><span class="info-value">${healthLabel(c)} (Score: ${c.health_score || 0}/100)</span>`;
+    if (c.cdi_portfolio) html += `<span class="info-label">CDI Portfolio</span><span class="info-value">✅ Yes — <a href="https://www.carbon-drawdown.de/what-we-do" target="_blank">Carbon Drawdown Initiative</a></span>`;
+    html += '</div></div>';
+
+    // Latest Evidence
+    if (c.last_evidence_date || c.last_evidence_url) {
+      html += '<div class="company-section"><h2>📰 Latest Evidence of Activity</h2>';
+      html += '<div class="evidence-card">';
+      if (c.last_evidence_date) html += `<div class="ev-date">${formatDate(c.last_evidence_date)}</div>`;
+      if (c.last_evidence_type) html += `<div class="ev-type">${evidenceTypeLabel(c.last_evidence_type)}</div>`;
+      if (c.last_evidence_url) html += `<div style="margin-top:0.4rem"><a href="${esc(c.last_evidence_url)}" target="_blank" rel="noopener">${esc(c.last_evidence_url)}</a></div>`;
+      html += '</div></div>';
+    }
+
+    // Registry Data
+    if (c.registries && c.registries.length > 0) {
+      html += '<div class="company-section"><h2>📋 Registry Presence</h2>';
+      html += `<p>Found on: ${c.registries.map(r => '<span class="meta-tag">' + esc(r) + '</span>').join(' ')}</p>`;
+      if (c.registry_tonnes) html += `<p>Total registered tonnes: <strong>${Number(c.registry_tonnes).toLocaleString()}</strong></p>`;
+      html += '</div>';
+    }
+
+    // Data Provenance
+    html += '<div class="company-section"><h2>ℹ️ Data Provenance</h2>';
+    html += '<div class="info-grid">';
+    if (c.added) html += `<span class="info-label">Added</span><span class="info-value">${formatDate(c.added)}</span>`;
+    if (c.last_checked) html += `<span class="info-label">Last Checked</span><span class="info-value">${formatDate(c.last_checked)}</span>`;
+    if (c.source) html += `<span class="info-label">Original Source</span><span class="info-value">${esc(c.source)}</span>`;
+    html += '</div>';
+    html += '<p style="margin-top:1rem;font-size:0.8rem;color:var(--secondary)">Status assessments and descriptions are AI-generated and may not be accurate. If this information is wrong, please reach out on <a href="https://bsky.app/profile/captaindrawdown.bsky.social" target="_blank">Bluesky</a> or <a href="https://x.com/CaptainDrawdown" target="_blank">X</a>.</p>';
+    html += '</div>';
+
+    document.getElementById('company-content').innerHTML = html;
+    document.title = c.name + ' — CDR Company Directory | CaptainDrawdown';
+  }
+})();
+</script>
+{{ end }}

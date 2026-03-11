@@ -57,6 +57,6 @@ The Cornell study makes another crucial point: adoption patterns matter enormous
 ### 🔗 Related Reading
 
 - [Reality Check: Cornell Study Says [ERW](/posts/what-is-enhanced-weathering/) Could Hit 1 Billion Tonnes Per Year — With Caveats](/posts/2026-03-05-cornell-[erw](/posts/what-is-enhanced-weathering/)-billion-tonnes/)
-- [[ERW](/posts/what-is-enhanced-weathering/) Could Remove 1 Billion Tonnes per Year — But the Caveats Matter](/posts/2026-03-06-erw-billion-tonnes-caveats/)
+- [[ERW](/posts/what-is-enhanced-weathering/) Could Remove 1 Billion Tonnes per Year — But the Caveats Matter](/posts/2026-03-06-[erw](/posts/what-is-enhanced-weathering/)-billion-tonnes-caveats/)
 - [ERW Could Absorb 1 Billion Tonnes of CO₂ — But the Details Matter](/posts/2026-03-07-erw-one-billion-tonnes-potential/)
 - [ERW Under Fire: What the Nature Paper on Uncertainties Actually Says](/posts/erw-uncertainties-nature-paper/)
