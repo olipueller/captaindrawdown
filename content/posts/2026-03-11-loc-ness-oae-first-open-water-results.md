@@ -1,6 +1,6 @@
 ---
 title: "First Open-Water OAE Test Absorbs 10 Tonnes of CO₂ — And Restores Ocean pH to Preindustrial"
-date: 2026-03-11T08:00:00+01:00
+date: 2026-03-11T04:00:00+01:00
 draft: false
 slug: loc-ness-oae-first-open-water-results
 description: "The LOC-NESS project pumped 65,000 litres of sodium hydroxide into the Gulf of Maine. Early results show measurable carbon uptake and no harm to marine life."

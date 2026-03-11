@@ -39,7 +39,7 @@ None of this means [ERW](/posts/what-is-enhanced-weathering/) doesn't work or is
 
 The Cornell study makes another crucial point: adoption patterns matter enormously. [ERW](/posts/what-is-enhanced-weathering/) works best in warm, wet climates where weathering rates are highest. That means the Global South — particularly India and Brazil — could eventually contribute more removal than high-income early adopters. [Tech transfer and carbon markets](https://www.earth.com/news/farms-covered-in-crushed-rock-could-remove-gigatons-of-carbon/) will be essential to making this happen equitably.
 
-ERW is promising. But honest science means naming the hard parts too. That's how we build a CDR industry that actually delivers on its promises.
+[ERW](/posts/what-is-enhanced-weathering/) is promising. But honest science means naming the hard parts too. That's how we build a CDR industry that actually delivers on its promises.
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "EU Carbon Market Under Fire: Italy Wants the ETS Suspended"
-date: 2026-03-11T10:00:00+01:00
+date: 2026-03-11T04:00:00+01:00
 draft: false
 slug: eu-ets-suspension-italy-summit
 description: "Italy's industry minister called for suspending the EU Emissions Trading System. The Commission says no. A summit on March 19 will decide the next move."

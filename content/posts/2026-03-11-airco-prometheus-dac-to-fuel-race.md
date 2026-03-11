@@ -1,6 +1,6 @@
 ---
 title: "The DAC-to-Fuel Race Is On: AirCo Gets $15M for Military CO₂ Modules, Prometheus Unveils Electrochemical Kerosene"
-date: 2026-03-11T17:00:00+01:00
+date: 2026-03-11T04:00:00+01:00
 draft: false
 slug: airco-prometheus-dac-to-fuel-race
 description: "Two startups are racing to make fuel from captured CO₂. AirCo is building containerized units for the US military; Prometheus says it can make kerosene cheaper than fossil fuel."
