@@ -869,8 +869,14 @@
     "source_url": "https://www.carbon-drawdown.de/",
     "added": "2026-03-08",
     "last_seen": "2026-03-08",
-    "health_score": 25,
-    "health_tier": "🟠 Suspect"
+    "health_score": 75,
+    "health_tier": "🟢 Active",
+    "last_checked": "2026-03-11T11:02:45.018602+00:00",
+    "description": "Altitude Carbon is a company that procures biochar-based carbon removal (CDR) credits, committing to purchase large quantities from facilities in Southeast Asia and Argentina.",
+    "last_evidence_date": "2025-08-01",
+    "last_evidence_url": "https://www.cdr.fyi/blog/cdr-monthly-recap-august-2025",
+    "last_evidence_type": "blog",
+    "screenshot": "altitude-carbon.jpg"
   },
   {
     "name": "Alto",
@@ -4413,8 +4419,14 @@
         "status": "hiring"
       }
     },
-    "health_score": 65,
-    "health_tier": "🟡 Moderate"
+    "health_score": 90,
+    "health_tier": "🟢 Active",
+    "last_checked": "2026-03-11T11:02:56.304518+00:00",
+    "description": "Carbonfuture provides a digital infrastructure for carbon removal, specializing in biochar carbon removal (BCR) by enabling certification, credit sales, and project scaling for suppliers, and ensuring long-term carbon storage through agricultural application or durable construction materials.",
+    "last_evidence_date": "2025-10-09",
+    "last_evidence_url": "https://www.cdr.fyi/blog/cdr-monthly-recap-september-2025",
+    "last_evidence_type": "blog",
+    "screenshot": "carbonfuture.jpg"
   },
   {
     "name": "Carboniferous",
@@ -4640,8 +4652,14 @@
         "url": "https://www.cdr.fyi/supplier/carbonsate"
       }
     },
-    "health_score": 75,
-    "health_tier": "🟢 Active"
+    "health_score": 100,
+    "health_tier": "🟢 Active",
+    "last_checked": "2026-03-11T11:03:07.706111+00:00",
+    "description": "Carbonsate specializes in carbon dioxide removal through biomass storage technology, capturing CO2 via photosynthesis and biomass storage to offer certified carbon credits.",
+    "last_evidence_date": "2026-01-19",
+    "last_evidence_url": "https://carbonherald.com/carbonsate-marks-first-credit-issuance-from-its-puro-earth-certified-biomass-storage-project/",
+    "last_evidence_type": "news",
+    "screenshot": "carbonsate.jpg"
   },
   {
     "name": "Carbonvert",
@@ -4891,8 +4909,8 @@
     "source_url": "https://www.carbon-drawdown.de/",
     "added": "2026-03-08",
     "last_seen": "2026-03-08",
-    "health_score": 60,
-    "health_tier": "🟡 Moderate",
+    "health_score": 85,
+    "health_tier": "🟢 Active",
     "registry_data": {
       "cdrfyi": {
         "slug": "cella",
@@ -4910,7 +4928,12 @@
     },
     "registries": [
       "CDR.fyi"
-    ]
+    ],
+    "last_checked": "2026-03-11T11:03:16.963440+00:00",
+    "description": "Cella Mineral Storage accelerates the natural geological process of turning captured atmospheric CO2 into mineralized rock by injecting it into volcanic rocks, permanently locking it underground.",
+    "last_evidence_date": "2026-03-11",
+    "last_evidence_url": "registry_activity",
+    "last_evidence_type": "registry"
   },
   {
     "name": "Char2Cool",
@@ -5384,8 +5407,14 @@
         "url": "https://www.cdr.fyi/supplier/climeworks"
       }
     },
-    "health_score": 80,
-    "health_tier": "🟢 Active"
+    "health_score": 100,
+    "health_tier": "🟢 Active",
+    "last_checked": "2026-03-11T11:03:25.226692+00:00",
+    "description": "Climeworks is a Swiss-based company that operates commercial Direct Air Capture (DAC) facilities using solid sorbent technology to remove CO₂ from the air. They also offer tailored carbon removal portfolios combining DAC with nature-based solutions like biochar and reforestation.",
+    "last_evidence_date": "2026-02-10",
+    "last_evidence_url": "https://carbonherald.com/is-balancing-short-term-and-durable-carbon-removals-the-key-to-reaching-climate-targets/",
+    "last_evidence_type": "news",
+    "screenshot": "climeworks.jpg"
   },
   {
     "name": "Climitra",
@@ -5416,8 +5445,14 @@
     "source_url": "https://www.carbon-drawdown.de/",
     "added": "2026-03-08",
     "last_seen": "2026-03-08",
-    "health_score": 25,
-    "health_tier": "🟠 Suspect"
+    "health_score": 90,
+    "health_tier": "🟢 Active",
+    "last_checked": "2026-03-11T11:03:36.325412+00:00",
+    "description": "Co-reactive develops a breakthrough carbon mineralization technology to create value from CO2 by converting it into high-performance cementitious additives. They were founded in 2024 based on research in enhanced rock weathering.",
+    "last_evidence_date": "2026-03-03",
+    "last_evidence_url": "https://pitchbook.com/profiles/company/543888-64",
+    "last_evidence_type": "registry",
+    "screenshot": "co-reactive.jpg"
   },
   {
     "name": "CO2 Energie",
@@ -5641,11 +5676,17 @@
         "url": "https://www.cdr.fyi/supplier/cotierra"
       }
     },
-    "health_score": 75,
+    "health_score": 100,
     "health_tier": "🟢 Active",
     "registries": [
       "CDR.fyi"
-    ]
+    ],
+    "last_checked": "2026-03-11T11:03:47.559180+00:00",
+    "description": "Cotierra transforms agricultural residues into biochar using decentralized, on-farm technology to permanently store carbon in soils, particularly focusing on coffee cultivation in Colombia.",
+    "last_evidence_date": "2026-02-12",
+    "last_evidence_url": "https://carbondrawdown.substack.com/p/how-to-make-biochar-at-different",
+    "last_evidence_type": "blog",
+    "screenshot": "cotierra.jpg"
   },
   {
     "name": "Cowboy Clean Fuels",
@@ -5714,11 +5755,17 @@
         "url": "https://www.cdr.fyi/supplier/crew"
       }
     },
-    "health_score": 80,
+    "health_score": 100,
     "health_tier": "🟢 Active",
     "registries": [
       "CDR.fyi"
-    ]
+    ],
+    "last_checked": "2026-03-11T11:03:59.018009+00:00",
+    "description": "CREW Carbon uses Wastewater Alkalinity Enhancement (WAE) technology, adding finely crushed, soluble alkaline materials like limestone to wastewater to convert carbon dioxide into stable bicarbonate ions, which then travel to the ocean for permanent storage. Their process also improves wastewater treatment efficiency and pollutant removal.",
+    "last_evidence_date": "2026-02-19",
+    "last_evidence_url": "https://carbonherald.com/the-colorado-energy-office-awards-2-35m-to-crew-carbon-and-its-wastewater-treatment-cdr-tech/",
+    "last_evidence_type": "news",
+    "screenshot": "crew-carbon.jpg"
   },
   {
     "name": "CTRL + Z",
@@ -7144,8 +7191,14 @@
     "added": "2026-03-08",
     "last_seen": null,
     "registry_data": {},
-    "health_score": 25,
-    "health_tier": "🟠 Suspect"
+    "health_score": 90,
+    "health_tier": "🟢 Active",
+    "last_checked": "2026-03-11T11:04:10.478276+00:00",
+    "description": "Flux is a Kenya-based company that scales enhanced rock weathering across Africa. They spread crushed silicate rocks on farmlands to remove carbon dioxide from the atmosphere and improve crop yields.",
+    "last_evidence_date": "2025-11-24",
+    "last_evidence_url": "https://rmi.org/the-opportunity-for-direct-air-capture-in-africa/",
+    "last_evidence_type": "news",
+    "screenshot": "flux.jpg"
   },
   {
     "name": "Forge Minerals",
@@ -8105,14 +8158,20 @@
     "country": "Thailand",
     "location": "Germany",
     "tech_note": "Biochar production for carbon removal",
-    "url": "https://www.happyground.de/",
+    "url": "https://happyground.org/",
     "cdi_portfolio": true,
     "source": "CDI Portfolio, added by CaptainDrawdown",
     "source_url": "https://www.carbon-drawdown.de/",
     "added": "2026-03-08",
     "last_seen": "2026-03-08",
-    "health_score": 0,
-    "health_tier": "🔴 Likely Dead"
+    "health_score": 85,
+    "health_tier": "🟢 Active",
+    "last_checked": "2026-03-11T11:04:21.208943+00:00",
+    "screenshot": "happy-ground.jpg",
+    "description": "Happy Ground is a BiCRS company based in Thailand that turns agricultural residues into biochar to achieve measurable climate impact through carbon removal, utilizing supply chain traceability and a digital insetting platform.",
+    "last_evidence_date": "2025-09-11",
+    "last_evidence_url": "https://www.carbon-drawdown.de/blog/2025-9-10-portfolio-spotlight-happy-ground-biochar-in-thailand",
+    "last_evidence_type": "blog"
   },
   {
     "name": "Harvestone",
@@ -8620,11 +8679,17 @@
         "url": "https://www.cdr.fyi/supplier/inplanet"
       }
     },
-    "health_score": 75,
+    "health_score": 100,
     "health_tier": "🟢 Active",
     "registries": [
       "CDR.fyi"
-    ]
+    ],
+    "last_checked": "2026-03-11T11:04:33.694290+00:00",
+    "description": "InPlanet is an AgTech company that pioneers Enhanced Rock Weathering (ERW) in tropical soils, specifically in Brazil, to remove carbon dioxide and provide regenerative agriculture benefits.",
+    "last_evidence_date": "2025-12-27",
+    "last_evidence_url": "https://carboncredits.com/microsoft-backs-inplanets-enhanced-rock-weathering-push-to-remove-28500-tons-of-co%E2%82%82-in-brazil/",
+    "last_evidence_type": "news",
+    "screenshot": "inplanet.jpg"
   },
   {
     "name": "Inspiratus Technology",
@@ -9433,8 +9498,14 @@
         "url": "https://www.cdr.fyi/supplier/lithos"
       }
     },
-    "health_score": 75,
-    "health_tier": "🟢 Active"
+    "health_score": 100,
+    "health_tier": "🟢 Active",
+    "last_checked": "2026-03-11T11:04:49.003605+00:00",
+    "description": "Lithos Carbon is a carbon removal company that uses enhanced rock weathering by applying crushed basalt rock dust to agricultural fields to permanently capture carbon dioxide from the atmosphere.",
+    "last_evidence_date": "2025-12-03",
+    "last_evidence_url": "https://www.businesswire.com/news/home/20251202793450/en/Lithos-Carbon-Delivers-5160-Registry-Certified-Tons-of-Carbon-Removal-in-Worlds-Largest-Enhanced-Rock-Weathering-Issuance-to-Date",
+    "last_evidence_type": "news",
+    "screenshot": "lithos.jpg"
   },
   {
     "name": "LOCOAL",
@@ -9715,8 +9786,14 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 0,
-    "health_tier": "🔴 Likely Dead"
+    "health_score": 90,
+    "health_tier": "🟢 Active",
+    "last_checked": "2026-03-11T10:50:18.163235+00:00",
+    "description": "Metalplant combines Enhanced Rock Weathering (ERW) with phytomining using hyperaccumulator plants to sequester atmospheric CO₂ and simultaneously produce carbon-negative nickel.",
+    "last_evidence_date": "2026-01-06",
+    "last_evidence_url": "https://metalplant.com/",
+    "last_evidence_type": "company_site",
+    "screenshot": "metalplant.jpg"
   },
   {
     "name": "Metzler",
@@ -10825,11 +10902,17 @@
         "url": "https://www.cdr.fyi/supplier/octavia-carbon"
       }
     },
-    "health_score": 50,
-    "health_tier": "🟡 Moderate",
+    "health_score": 100,
+    "health_tier": "🟢 Active",
     "registries": [
       "CDR.fyi"
-    ]
+    ],
+    "last_checked": "2026-03-11T11:04:59.522631+00:00",
+    "description": "Octavia Carbon is a Kenyan Direct Air Capture (DAC) company that designs, builds, and deploys solid sorbent DAC technology to capture CO2 from the atmosphere, leveraging Kenya's renewable energy and geology for permanent storage through mineralization in volcanic rock.",
+    "last_evidence_date": "2025-11-24",
+    "last_evidence_url": "https://rmi.org/the-opportunity-for-direct-air-capture-in-africa/",
+    "last_evidence_type": "blog",
+    "screenshot": "octavia-carbon.jpg"
   },
   {
     "name": "OLNEO",
@@ -11419,11 +11502,17 @@
         "url": "https://www.cdr.fyi/supplier/planeteers"
       }
     },
-    "health_score": 65,
-    "health_tier": "🟡 Moderate",
+    "health_score": 100,
+    "health_tier": "🟢 Active",
     "registries": [
       "CDR.fyi"
-    ]
+    ],
+    "last_checked": "2026-03-11T11:05:13.825516+00:00",
+    "description": "Planeteers is a German climate tech startup that uses reactor-based ocean alkalinity enhancement (OAE) and accelerated rock weathering to capture CO2 from industrial sources and store it as alkaline solution or mineral compounds in marine environments.",
+    "last_evidence_date": "2025-12-11",
+    "last_evidence_url": "https://planeteers.de/en/what-we-do/",
+    "last_evidence_type": "company_site",
+    "screenshot": "planeteers.jpg"
   },
   {
     "name": "POET",
@@ -12559,8 +12648,14 @@
         "status": "hiring"
       }
     },
-    "health_score": 50,
-    "health_tier": "🟡 Moderate"
+    "health_score": 85,
+    "health_tier": "🟢 Active",
+    "last_checked": "2026-03-11T11:05:25.143297+00:00",
+    "description": "Rock Flour Company collects glacial rock flour from Greenland and applies it to croplands to enhance soil health, boost crop yields, and sequester carbon dioxide through enhanced rock weathering.",
+    "last_evidence_date": "2025-10-08",
+    "last_evidence_url": "https://www.cleancluster.dk/en/case/rock-flour-company-receives-e6-1-million/",
+    "last_evidence_type": "news",
+    "screenshot": "rock-flour-company.jpg"
   },
   {
     "name": "Rockburst Technologies",
@@ -12961,8 +13056,8 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": "2026-03-10",
-    "health_score": 60,
-    "health_tier": "🟡 Moderate",
+    "health_score": 95,
+    "health_tier": "🟢 Active",
     "registry_data": {
       "cdrfyi": {
         "slug": "silicate",
@@ -12980,7 +13075,13 @@
     },
     "registries": [
       "CDR.fyi"
-    ]
+    ],
+    "last_checked": "2026-03-11T11:05:35.951541+00:00",
+    "description": "Silicate uses geochemistry to permanently remove carbon dioxide from the atmosphere by processing virgin limestone and reactive silicate minerals into a fine dust, which farmers apply to fields as a soil pH amendment.",
+    "last_evidence_date": "2025-07-30",
+    "last_evidence_url": "https://carbonremoval.org/news/portfolio-spotlight-silicate-cdr-with-calcite",
+    "last_evidence_type": "blog",
+    "screenshot": "silicate.jpg"
   },
   {
     "name": "Silver Bullet Biochar",
@@ -13720,8 +13821,14 @@
     "source_url": "https://www.carbon-drawdown.de/",
     "added": "2026-03-08",
     "last_seen": "2026-03-08",
-    "health_score": 25,
-    "health_tier": "🟠 Suspect"
+    "health_score": 65,
+    "health_tier": "🟡 Moderate",
+    "last_checked": "2026-03-11T11:05:46.719323+00:00",
+    "description": "Subtidal is a marine CDR company developing a scalable solution for directly measuring ocean carbon dioxide removals.",
+    "last_evidence_date": "2024-01-01",
+    "last_evidence_url": "https://jobs.schmidtmarine.org/companies/subtidal-2/jobs/40747543-part-time-ocean-data-scientist-contractor-remote-u-s-based",
+    "last_evidence_type": "job_posting",
+    "screenshot": "subtidal.jpg"
   },
   {
     "name": "SUEZ",
@@ -13965,8 +14072,14 @@
         "status": "hiring"
       }
     },
-    "health_score": 80,
-    "health_tier": "🟢 Active"
+    "health_score": 95,
+    "health_tier": "🟢 Active",
+    "last_checked": "2026-03-11T11:05:59.484230+00:00",
+    "description": "Syncraft is an Austrian high-tech company that builds large, centralized biochar plants (Reversepowerplants) which use forest residues to generate electricity, heat, and high-quality biochar, permanently storing CO2.",
+    "last_evidence_date": "2026-02-11",
+    "last_evidence_url": "https://www.carbon-drawdown.de/blog/2026-2-9-how-to-make-biochar-at-different-scales-large-and-small-ft-cotierra-amp-syncraft",
+    "last_evidence_type": "blog",
+    "screenshot": "syncraft.jpg"
   },
   {
     "name": "Syntopa",
@@ -13981,8 +14094,14 @@
     "source_url": "https://www.carbon-drawdown.de/",
     "added": "2026-03-08",
     "last_seen": "2026-03-08",
-    "health_score": 25,
-    "health_tier": "🟠 Suspect"
+    "health_score": 85,
+    "health_tier": "🟢 Active",
+    "last_checked": "2026-03-11T11:06:13.977700+00:00",
+    "description": "Syntopa is a startup focused on Enhanced Rock Weathering (ERW) for carbon removal. They aim to accelerate the weathering rate of rock dust on croplands by leveraging microbes to improve carbon capture and storage.",
+    "last_evidence_date": "2025-07-30",
+    "last_evidence_url": "https://www.carbon-drawdown.de/blog/2025-4-22-portfolio-spotlight-syntopa",
+    "last_evidence_type": "blog",
+    "screenshot": "syntopa.jpg"
   },
   {
     "name": "Söderenergi",
@@ -14280,7 +14399,7 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 70,
+    "health_score": 100,
     "health_tier": "🟢 Active",
     "registry_data": {
       "cdrfyi": {
@@ -14299,7 +14418,13 @@
     },
     "registries": [
       "CDR.fyi"
-    ]
+    ],
+    "last_checked": "2026-03-11T11:06:27.945828+00:00",
+    "description": "Terradot is a carbon removal company that uses Enhanced Rock Weathering (ERW) to sequester carbon by spreading crushed volcanic rock over farmland, accelerating a natural process to durably remove CO2 from the atmosphere.",
+    "last_evidence_date": "2026-03-11",
+    "last_evidence_url": "registry_activity",
+    "last_evidence_type": "registry",
+    "screenshot": "terradot.jpg"
   },
   {
     "name": "TerraFixing",
@@ -14785,8 +14910,14 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 25,
-    "health_tier": "🟠 Suspect"
+    "health_score": 95,
+    "health_tier": "🟢 Active",
+    "last_checked": "2026-03-11T11:06:42.223778+00:00",
+    "description": "Tropicarbon removes carbon at scale using enhanced rock weathering in tropical regions, specifically in Latin America and Colombia, by applying silicate rock powder on farmland to convert CO2 into stable minerals, while also benefiting farmers with increased crop yields.",
+    "last_evidence_date": "2026-01-06",
+    "last_evidence_url": "https://tracxn.com/d/companies/tropicarbon/__ZLzI5ELQl8S_k5eRBYurltZGTGfqGat_UGNb2_R4JXM",
+    "last_evidence_type": "registry",
+    "screenshot": "tropicarbon.jpg"
   },
   {
     "name": "Truecoco Ghana",
@@ -15267,8 +15398,14 @@
     "source_url": "https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal",
     "added": "2026-03-08",
     "last_seen": null,
-    "health_score": 25,
-    "health_tier": "🟠 Suspect"
+    "health_score": 75,
+    "health_tier": "🟢 Active",
+    "last_checked": "2026-03-11T11:06:57.427574+00:00",
+    "description": "Vault 44.01 is a carbon capture and sequestration (CCS) project development team focused on enabling cost-effective, wholesale decarbonization of industrial emitters through permanent geological storage of CO2, specifically involved in BECCS projects.",
+    "last_evidence_date": "2024-11-27",
+    "last_evidence_url": "https://natural-resources.canada.ca/science-and-data/funding-partnerships/opportunities/current-investments/hinton-pulp-beccs-for-negative-emissions-feed-study/25233",
+    "last_evidence_type": "registry",
+    "screenshot": "vault-44-01.jpg"
   },
   {
     "name": "Vaulted Deep",
@@ -15850,8 +15987,14 @@
     "source_url": "https://www.carbon-drawdown.de/",
     "added": "2026-03-08",
     "last_seen": "2026-03-08",
-    "health_score": 0,
-    "health_tier": "🔴 Likely Dead"
+    "health_score": 85,
+    "health_tier": "🟢 Active",
+    "last_checked": "2026-03-11T11:07:11.862619+00:00",
+    "description": "ZEN Carbon is a Kenyan company that mineralizes captured CO₂ directly into concrete, creating carbon-negative building materials. Their process locks CO₂ into concrete as stable minerals.",
+    "last_evidence_date": "2025-11-13",
+    "last_evidence_url": "https://carbondrawdown.substack.com/p/portfolio-spotlight-zen-carbon-building",
+    "last_evidence_type": "blog",
+    "screenshot": "zen-carbon.jpg"
   },
   {
     "name": "Zenid/Royal Schipol Group",
