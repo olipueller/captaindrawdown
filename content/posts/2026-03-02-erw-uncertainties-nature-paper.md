@@ -45,4 +45,4 @@ The Nature paper is a map of the work still needed. Not a tombstone.
 - [Reality Check: Cornell Study Says [ERW](/posts/what-is-enhanced-weathering/) Could Hit 1 Billion Tonnes Per Year — With Caveats](/posts/2026-03-05-cornell-[erw](/posts/what-is-enhanced-weathering/)-billion-tonnes/)
 - [[Enhanced Rock Weathering](/posts/what-is-enhanced-weathering/): Promising, But Not Simple](/posts/2026-02-25-[erw](/posts/what-is-enhanced-weathering/)-promising-but-not-simple/)
 - [[ERW](/posts/what-is-enhanced-weathering/) Could Remove 1 Billion Tonnes per Year — But the Caveats Matter](/posts/2026-03-06-[erw](/posts/what-is-enhanced-weathering/)-billion-tonnes-caveats/)
-- [[ERW](/posts/what-is-enhanced-weathering/) Could Absorb 1 Billion Tonnes of CO₂ — But the Details Matter](/posts/2026-03-07-erw-one-billion-tonnes-potential/)
+- [[ERW](/posts/what-is-enhanced-weathering/) Could Absorb 1 Billion Tonnes of CO₂ — But the Details Matter](/posts/2026-03-07-[erw](/posts/what-is-enhanced-weathering/)-one-billion-tonnes-potential/)

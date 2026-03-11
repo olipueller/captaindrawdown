@@ -73,6 +73,21 @@
     padding: 0.15rem 0.5rem; font-size: 0.8rem; white-space: nowrap;
   }
   .country-cell { white-space: nowrap; }
+  .status-dot {
+    display: inline-block; width: 12px; height: 12px; border-radius: 50%; vertical-align: middle;
+  }
+  .status-dot.active { background: #22c55e; }
+  .status-dot.moderate { background: #eab308; }
+  .status-dot.suspect { background: #f97316; }
+  .status-dot.dead { background: #ef4444; }
+  .status-label { font-size: 0.8rem; margin-left: 0.35rem; vertical-align: middle; }
+  .status-cell { white-space: nowrap; }
+  .status-legend {
+    background: var(--code-bg); border-radius: 8px; padding: 1rem 1.2rem;
+    margin-bottom: 1.5rem; font-size: 0.85rem; color: var(--secondary); line-height: 1.8;
+  }
+  .status-legend strong { color: var(--primary); }
+  .legend-row { display: inline-flex; align-items: center; gap: 0.3rem; margin-right: 1.2rem; }
   .no-results { text-align: center; padding: 3rem 1rem; color: var(--secondary); }
   .attribution {
     margin-top: 2rem; padding: 1rem; background: var(--code-bg); border-radius: 8px;
@@ -86,9 +101,11 @@
     .company-table { font-size: 0.8rem; }
     .company-table th, .company-table td { padding: 0.4rem 0.3rem; }
     .tech-col { display: none; }
+    .status-label { display: none; }
     .bar-label { min-width: 80px; font-size: 0.7rem; }
     .bar-row { grid-template-columns: 120px 1fr 60px; }
     #map-container { height: 280px; }
+    .legend-row { display: flex; margin-bottom: 0.2rem; }
   }
 </style>
 
@@ -127,7 +144,23 @@
   <select class="filter-select" id="filter-category"><option value="">All Categories</option></select>
   <select class="filter-select" id="filter-method"><option value="">All Methods</option></select>
   <select class="filter-select" id="filter-country"><option value="">All Countries</option></select>
+  <select class="filter-select" id="filter-status">
+    <option value="">All Statuses</option>
+    <option value="active">🟢 Active</option>
+    <option value="moderate">🟡 Moderate</option>
+    <option value="suspect">🟠 Suspect</option>
+    <option value="dead">🔴 Likely Dead</option>
+  </select>
 </div>
+
+<div class="status-legend">
+  <strong>Company Status</strong> — estimated from public signals including news coverage, registry activity, job postings, web presence, and funding announcements. Updated regularly.<br>
+  <span class="legend-row"><span class="status-dot active"></span> <strong>Active</strong> — recent signals of activity</span>
+  <span class="legend-row"><span class="status-dot moderate"></span> <strong>Moderate</strong> — some signals, but limited recent evidence</span>
+  <span class="legend-row"><span class="status-dot suspect"></span> <strong>Suspect</strong> — few or no recent signals</span>
+  <span class="legend-row"><span class="status-dot dead"></span> <strong>Likely Dead</strong> — no detectable activity</span>
+</div>
+
 <div class="result-count" id="result-count"></div>
 
 <table class="company-table" id="company-table">
@@ -136,6 +169,7 @@
       <th data-sort="name" class="sorted">Company <span class="sort-arrow">↑</span></th>
       <th data-sort="method">Method <span class="sort-arrow">↕</span></th>
       <th data-sort="country">Country <span class="sort-arrow">↕</span></th>
+      <th data-sort="health_sort" class="status-col">Status <span class="sort-arrow">↕</span></th>
       <th class="tech-col" data-sort="tech_note">Tech Note <span class="sort-arrow">↕</span></th>
     </tr>
   </thead>
@@ -418,10 +452,12 @@
     const cat = document.getElementById('filter-category').value;
     const meth = document.getElementById('filter-method').value;
     const country = document.getElementById('filter-country').value;
+    const status = document.getElementById('filter-status').value;
     return companies.filter(c => {
       if (cat && c.category !== cat) return false;
       if (meth && c.method !== meth) return false;
       if (country && c.country !== country) return false;
+      if (status && healthClass(c) !== status) return false;
       if (q) {
         const s = (c.name + ' ' + c.method + ' ' + c.country + ' ' + c.location + ' ' + c.tech_note).toLowerCase();
         return s.includes(q);
@@ -430,9 +466,38 @@
     });
   }
 
+  function healthClass(c) {
+    const t = (c.health_tier || '').toLowerCase();
+    if (t.includes('active')) return 'active';
+    if (t.includes('moderate')) return 'moderate';
+    if (t.includes('suspect')) return 'suspect';
+    if (t.includes('dead')) return 'dead';
+    return 'suspect';
+  }
+
+  function healthSortOrder(c) {
+    const cls = healthClass(c);
+    if (cls === 'active') return 0;
+    if (cls === 'moderate') return 1;
+    if (cls === 'suspect') return 2;
+    return 3;
+  }
+
+  function healthLabel(c) {
+    const cls = healthClass(c);
+    const labels = { active: 'Active', moderate: 'Moderate', suspect: 'Suspect', dead: 'Likely Dead' };
+    return labels[cls] || 'Unknown';
+  }
+
   function render() {
     let filtered = getFiltered();
     filtered.sort((a, b) => {
+      if (sortCol === 'health_sort') {
+        const va = healthSortOrder(a);
+        const vb = healthSortOrder(b);
+        if (va !== vb) return sortAsc ? va - vb : vb - va;
+        return 0;
+      }
       let va = (a[sortCol] || '').toLowerCase();
       let vb = (b[sortCol] || '').toLowerCase();
       if (va < vb) return sortAsc ? -1 : 1;
@@ -457,16 +522,19 @@
         ? `<a href="${esc(c.url)}" target="_blank" rel="noopener">${esc(c.name)}</a>`
         : esc(c.name);
       const cdiBadge = c.cdi_portfolio ? '<span class="cdi-badge">CDI</span>' : '';
+      const cls = healthClass(c);
+      const lbl = healthLabel(c);
       return `<tr>
         <td class="company-name">${nameHtml}${cdiBadge}</td>
         <td><span class="method-tag">${esc(c.method)}</span></td>
         <td class="country-cell">${esc(c.country)}</td>
+        <td class="status-cell"><span class="status-dot ${cls}"></span><span class="status-label">${lbl}</span></td>
         <td class="tech-col">${esc(c.tech_note || '—')}</td>
       </tr>`;
     }).join('');
 
     if (filtered.length > 500) {
-      tbody.innerHTML += `<tr><td colspan="4" style="text-align:center;color:var(--secondary);padding:1rem;">
+      tbody.innerHTML += `<tr><td colspan="5" style="text-align:center;color:var(--secondary);padding:1rem;">
         Showing first 500. Narrow your search.</td></tr>`;
     }
 
@@ -487,6 +555,7 @@
   document.getElementById('filter-category').addEventListener('change', () => { document.getElementById('filter-method').value = ''; render(); });
   document.getElementById('filter-method').addEventListener('change', render);
   document.getElementById('filter-country').addEventListener('change', render);
+  document.getElementById('filter-status').addEventListener('change', render);
   document.querySelectorAll('.company-table th[data-sort]').forEach(th => {
     th.addEventListener('click', () => {
       const col = th.dataset.sort;

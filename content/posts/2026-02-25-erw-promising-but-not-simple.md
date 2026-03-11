@@ -48,7 +48,7 @@ The Cornell study makes another crucial point: adoption patterns matter enormous
 ## Sources
 
 1. Nature Reviews Earth & Environment — [Uncertainties of [enhanced rock weathering](/posts/what-is-enhanced-weathering/) for climate-change mitigation](https://www.nature.com/articles/s43017-026-00761-7) (Feb 2026)
-2. Carbon Credits — [[ERW](/posts/what-is-enhanced-weathering/) Could Cut 350 Million Tonnes of CO₂ Annually by 2050](https://carboncredits.com/rocking-the-carbon-clock-erw-could-cut-350-million-tonnes-of-co%E2%82%82-annually-by-2050/) (Feb 2026)
+2. Carbon Credits — [[ERW](/posts/what-is-enhanced-weathering/) Could Cut 350 Million Tonnes of CO₂ Annually by 2050](https://carboncredits.com/rocking-the-carbon-clock-[erw](/posts/what-is-enhanced-weathering/)-could-cut-350-million-tonnes-of-co%E2%82%82-annually-by-2050/) (Feb 2026)
 3. Earth.com / Cornell University — [Farms covered in crushed rock could remove gigatons of carbon](https://www.earth.com/news/farms-covered-in-crushed-rock-could-remove-gigatons-of-carbon/) (Feb 2026)
 4. Beerling, D. J. et al. — Potential for large-scale CO₂ removal via [enhanced rock weathering](/posts/what-is-enhanced-weathering/) with croplands. *Nature* 583, 242–248 (2020)
 
