@@ -195,7 +195,7 @@
   let sortCol = 'name';
   let sortAsc = true;
 
-  fetch('/data/companies.json')
+  fetch('/data/companies.json?v=' + Date.now())
     .then(r => r.json())
     .then(data => {
       companies = data;
