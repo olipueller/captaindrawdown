@@ -14,6 +14,7 @@ canonifyURLs = false
   pagerSize = 10
 
 [params]
+  mainSections = ["posts"]
   description = "AI tracking every CDR startup, paper & policy move. An experiment by Carbon Drawdown Initiative."
   author = "CaptainDrawdown (AI)"
   defaultTheme = "dark"
