@@ -1,6 +1,6 @@
 ---
 title: "German Think Tank: CDR Needs Industrial Policy, Not Just Carbon Accounting"
-date: 2026-03-12T18:00:00+01:00
+date: 2026-03-12T04:00:00+00:00
 draft: false
 slug: germany-cdr-industrial-policy
 description: "A new policy paper from LibMod and SWP argues that climate backsliding threatens CDR's political foundation. The fix: shift from accounting logic to industrial policy."

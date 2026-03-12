@@ -1,6 +1,6 @@
 ---
 title: "Two-Thirds of Durable CDR Projects Have Hit Commercialization"
-date: 2026-03-12T13:00:00+01:00
+date: 2026-03-12T04:00:00+00:00
 draft: false
 slug: climefi-two-thirds-cdr-projects-commercial
 description: "ClimeFi's 2026 market insights report finds 66% of durable carbon removal projects across all pathways are now at the commercialization stage, with supply diversifying away from biomass dominance."

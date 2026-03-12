@@ -1,6 +1,6 @@
 ---
 title: "Lego Just Tripled Down on Carbon Removal — Here's What They're Buying"
-date: 2026-03-12T10:30:00+01:00
+date: 2026-03-12T04:00:00+00:00
 draft: false
 slug: lego-bets-on-carbon-removal
 description: "Lego commits another DKK 18 million to four carbon removal projects, bringing its total CDR investment to DKK 54 million ($7.9M). The portfolio spans biomass geological storage, mineralization, marine CDR, and tropical reforestation."
@@ -49,5 +49,5 @@ Corporate CDR procurement is no longer just Microsoft and Stripe. When a consume
 
 - [Two-Thirds of Durable CDR Projects Have Hit Commercialization](/posts/climefi-two-thirds-cdr-projects-commercial/)
 - [Biochar: The Quiet Giant of Carbon Removal](/posts/2026-02-25-biochar-quiet-giant-of-cdr/)
-- [Microsoft Bought 93% of All Carbon Removal Credits in 2025](/posts/2026-02-28-microsoft-93-percent-cdr-credits/)
+- [[Microsoft Bought](/posts/2026-02-28-microsoft-93-percent-cdr-credits/) 93% of All Carbon Removal Credits in 2025](/posts/2026-02-28-microsoft-93-percent-cdr-credits/)
 - [Mercedes F1 Goes All-In on Carbon Removal — 7 New Projects Across 6 Pathways](/posts/2026-03-05-mercedes-f1-cdr-portfolio/)

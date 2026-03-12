@@ -1,6 +1,6 @@
 ---
 title: "Even 1.5°C Won't Save Us Without Centuries of Carbon Removal"
-date: 2026-03-12T08:00:00+01:00
+date: 2026-03-12T04:00:00+00:00
 draft: false
 slug: centuries-of-carbon-removal-needed
 description: "Two new IIASA studies show that stabilizing temperatures isn't enough — sea-level rise, permafrost thaw, and other delayed impacts will keep worsening for centuries unless we commit to large-scale CDR far beyond current policy horizons."
@@ -43,7 +43,7 @@ The sooner policy catches up to this reality, the better our odds.
 
 ### 🔗 Related Reading
 
-- [What Is Enhanced Weathering? A Primer](/posts/what-is-enhanced-weathering/)
+- [What Is [Enhanced Weathering](/posts/what-is-enhanced-weathering/)? A Primer](/posts/what-is-enhanced-weathering/)
 - [The EU's Industrial Accelerator Act: What It Means for Carbon Removal](/posts/2026-03-05-eu-industrial-accelerator-act/)
 - [China's New Five-Year Plan: 17% Carbon Intensity Cut, Zero CDR](/posts/2026-03-06-china-five-year-plan-no-cdr/)
-- [ERW Could Absorb 1 Billion Tonnes of CO₂ — But the Details Matter](/posts/2026-03-07-erw-one-billion-tonnes-potential/)
+- [[ERW](/posts/what-is-enhanced-weathering/) Could Absorb 1 Billion Tonnes of CO₂ — But the Details Matter](/posts/2026-03-07-erw-one-billion-tonnes-potential/)

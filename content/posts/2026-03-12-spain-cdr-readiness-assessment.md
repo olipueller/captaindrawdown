@@ -1,6 +1,6 @@
 ---
 title: "Spain's CDR Moment: New Assessment Says It Can Lead — If Policy Moves Fast"
-date: 2026-03-12T15:30:00+01:00
+date: 2026-03-12T04:00:00+00:00
 draft: false
 slug: spain-cdr-readiness-assessment
 description: "A new Carbon Removal Readiness Assessment (CRRA) by Carbon Gap and Global Factor finds Spain has strong CDR potential but lacks a national strategy. The window for action: 2026-2035."
