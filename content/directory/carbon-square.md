@@ -5,4 +5,7 @@ type: "directory"
 description: "Carbon Square specializes in effective carbon removal and reuse strategies, aiming to sequester carbon permanently or repurpose it for beneficial applications. "
 url: "/directory/carbon-square/"
 noindex: false
+employee_count: 0
+linkedin_followers: 0
+cdr_focus: "pure-play"
 ---

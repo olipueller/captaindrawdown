@@ -5,4 +5,8 @@ type: "directory"
 description: "Carbon Removal AS/Nordic DAC Group is an environmental services company that develops and operates direct air capture (DAC) plants in Norway to capture millions"
 url: "/directory/carbon-removal-as-nordic-dac-group/"
 noindex: false
+employee_count: 6
+employee_growth_yoy: 100.0
+linkedin_followers: 0
+cdr_focus: "pure-play"
 ---

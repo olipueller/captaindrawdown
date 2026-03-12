@@ -5,4 +5,7 @@ type: "directory"
 description: "Enrzi is a company committed to revolutionizing the energy sector with innovative biomass pyrolysis solutions, sharing expert opinions about sustainability thro"
 url: "/directory/enrzi/"
 noindex: false
+employee_count: 0
+linkedin_followers: 0
+cdr_focus: "pure-play"
 ---

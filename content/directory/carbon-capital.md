@@ -5,4 +5,7 @@ type: "directory"
 description: "Carbon Capital is a project development and capital raising company in Namibia, producing certified biochar from invasive encroacher bush at its Farm Gai Kaisa "
 url: "/directory/carbon-capital/"
 noindex: false
+employee_count: 0
+linkedin_followers: 360
+cdr_focus: "pure-play"
 ---

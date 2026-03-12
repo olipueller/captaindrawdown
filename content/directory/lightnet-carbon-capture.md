@@ -5,4 +5,8 @@ type: "directory"
 description: "LightNET Carbon Capture (LNCC) develops industrial solutions for CO2 capture, sequestration, and valorization, inspired by natural CO2 mineralization processes."
 url: "/directory/lightnet-carbon-capture/"
 noindex: false
+employee_count: 4
+employee_count_inferred: 1
+linkedin_followers: 41
+cdr_focus: "pure-play"
 ---

@@ -5,4 +5,9 @@ type: "directory"
 description: "Aquarry enhances the alkalinity of mine pit lakes, transforming them into durable carbon dioxide removal systems and effective carbon sinks by dissolving alkali"
 url: "/directory/aquarry/"
 noindex: false
+employee_count: 5
+employee_count_inferred: 6
+employee_growth_yoy: 0.0
+linkedin_followers: 1428
+cdr_focus: "pure-play"
 ---

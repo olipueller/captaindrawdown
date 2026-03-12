@@ -12,6 +12,12 @@
     background: #4ade80; color: #1e293b; font-size: 0.75rem; padding: 0.2rem 0.6rem;
     border-radius: 4px; font-weight: 700;
   }
+  .focus-badge {
+    display: inline-block; font-size: 0.75rem; padding: 0.2rem 0.6rem;
+    border-radius: 4px; font-weight: 700;
+  }
+  .focus-badge.pure-play { background: rgba(34,197,94,0.15); color: #22c55e; border: 1px solid rgba(34,197,94,0.3); }
+  .focus-badge.division { background: rgba(96,165,250,0.15); color: #60a5fa; border: 1px solid rgba(96,165,250,0.3); }
   .status-badge { border-radius: 4px; padding: 0.2rem 0.6rem; font-size: 0.85rem; font-weight: 600; }
   .status-badge.active { background: rgba(34,197,94,0.15); color: #22c55e; }
   .status-badge.moderate { background: rgba(234,179,8,0.15); color: #eab308; }
@@ -53,6 +59,79 @@
     border: 1px solid var(--border); transition: border-color 0.2s;
   }
   .ext-link:hover { border-color: var(--primary); }
+
+  /* Employee / Workforce Section */
+  .workforce-card {
+    background: var(--code-bg); border-radius: 10px; padding: 1.2rem 1.5rem;
+    margin-bottom: 1.5rem; border: 1px solid var(--border);
+  }
+  .workforce-card h2 {
+    font-size: 1.1rem; margin: 0 0 1rem 0; padding: 0; border: none;
+    color: var(--primary); display: flex; align-items: center; gap: 0.5rem;
+  }
+  .wf-stats-row {
+    display: flex; gap: 1.5rem; flex-wrap: wrap; margin-bottom: 1rem; align-items: flex-start;
+  }
+  .wf-stat {
+    display: flex; flex-direction: column;
+  }
+  .wf-stat .wf-num {
+    font-size: 2rem; font-weight: 800; line-height: 1.1; color: var(--primary);
+  }
+  .wf-stat .wf-label {
+    font-size: 0.75rem; color: var(--secondary); text-transform: uppercase;
+    letter-spacing: 0.05em; margin-top: 0.2rem;
+  }
+  .wf-growth {
+    display: inline-flex; align-items: center; gap: 0.2rem;
+    font-size: 1.1rem; font-weight: 700; padding: 0.2rem 0.5rem;
+    border-radius: 4px;
+  }
+  .wf-growth.positive { color: #22c55e; background: rgba(34,197,94,0.1); }
+  .wf-growth.negative { color: #ef4444; background: rgba(239,68,68,0.1); }
+  .wf-growth.neutral { color: var(--secondary); background: var(--code-bg); }
+  .wf-followers {
+    font-size: 0.85rem; color: var(--secondary); margin-top: 0.5rem;
+    display: flex; align-items: center; gap: 0.3rem;
+  }
+  .wf-followers a { color: var(--secondary); text-decoration: none; }
+  .wf-followers a:hover { color: var(--primary); }
+
+  /* Mini sparkline bar chart */
+  .sparkline-container {
+    margin-top: 0.8rem;
+  }
+  .sparkline-label {
+    font-size: 0.75rem; color: var(--secondary); margin-bottom: 0.4rem;
+    text-transform: uppercase; letter-spacing: 0.05em;
+  }
+  .sparkline-bars {
+    display: flex; align-items: flex-end; gap: 2px; height: 40px;
+  }
+  .sparkline-bar {
+    flex: 1; min-width: 4px; border-radius: 2px 2px 0 0;
+    background: rgba(139,92,246,0.4); transition: background 0.2s;
+    position: relative;
+  }
+  .sparkline-bar:last-child { background: rgba(139,92,246,0.9); }
+  .sparkline-bar:hover { background: rgba(139,92,246,0.8); }
+  .sparkline-dates {
+    display: flex; justify-content: space-between;
+    font-size: 0.6rem; color: var(--secondary); margin-top: 0.2rem;
+    opacity: 0.7;
+  }
+
+  /* No data state */
+  .wf-nodata {
+    color: var(--secondary); font-size: 0.9rem; padding: 0.8rem 0;
+    font-style: italic;
+  }
+
+  @media (max-width: 600px) {
+    .wf-stats-row { gap: 1rem; }
+    .wf-stat .wf-num { font-size: 1.5rem; }
+    .sparkline-bars { height: 30px; }
+  }
 </style>
 
 <div class="company-page" id="company-page">
@@ -108,6 +187,11 @@
     } catch { return d; }
   }
 
+  function fmtNum(n) {
+    if (n == null) return '—';
+    return n.toLocaleString();
+  }
+
   function evidenceTypeLabel(t) {
     const map = {
       'news': '📰 News Article',
@@ -120,6 +204,82 @@
       'company_blog': '📝 Company Blog'
     };
     return map[t] || '🔗 Web Source';
+  }
+
+  function renderWorkforce(c) {
+    const hasData = c.employee_count != null;
+    let html = '<div class="workforce-card">';
+    html += '<h2>👥 Workforce</h2>';
+
+    if (!hasData) {
+      html += '<div class="wf-nodata">No LinkedIn workforce data available for this company. This typically means the company is very early-stage, pre-launch, or operates under a different name.</div>';
+      html += '</div>';
+      return html;
+    }
+
+    // CDR Focus badge
+    if (c.cdr_focus) {
+      const isPure = c.cdr_focus === 'pure-play';
+      html += `<div style="margin-bottom:0.8rem"><span class="focus-badge ${isPure ? 'pure-play' : 'division'}">${isPure ? '🌱 Pure-play CDR' : '🏢 CDR Division'}</span></div>`;
+    }
+
+    // Main stats
+    html += '<div class="wf-stats-row">';
+    html += `<div class="wf-stat"><span class="wf-num">${fmtNum(c.employee_count)}</span><span class="wf-label">LinkedIn Employees</span></div>`;
+
+    // Growth
+    if (c.employee_growth_yoy != null) {
+      const g = c.employee_growth_yoy;
+      const cls = g > 0 ? 'positive' : g < 0 ? 'negative' : 'neutral';
+      const arrow = g > 0 ? '↑' : g < 0 ? '↓' : '→';
+      const sign = g > 0 ? '+' : '';
+      html += `<div class="wf-stat"><span class="wf-growth ${cls}">${arrow} ${sign}${g.toFixed(1)}%</span><span class="wf-label">Year-over-Year</span></div>`;
+    }
+
+    if (c.employee_count_inferred != null) {
+      html += `<div class="wf-stat"><span class="wf-num" style="font-size:1.3rem;color:var(--secondary)">${fmtNum(c.employee_count_inferred)}</span><span class="wf-label">Inferred Headcount</span></div>`;
+    }
+    html += '</div>';
+
+    // LinkedIn followers
+    if (c.linkedin_followers != null) {
+      const linkedinUrl = c.linkedin_slug ? `https://www.linkedin.com/company/${esc(c.linkedin_slug)}/` : '#';
+      html += `<div class="wf-followers"><a href="${linkedinUrl}" target="_blank" rel="noopener">💼 ${fmtNum(c.linkedin_followers)} LinkedIn followers</a></div>`;
+    }
+
+    // Sparkline - 12-month trend
+    const history = c.employee_count_history;
+    if (history && history.length > 1) {
+      const sorted = [...history].sort((a, b) => a.date.localeCompare(b.date));
+      const counts = sorted.map(h => h.count);
+      const maxCount = Math.max(...counts);
+      const minCount = Math.min(...counts);
+      const range = maxCount - minCount || 1;
+
+      html += '<div class="sparkline-container">';
+      html += '<div class="sparkline-label">12-Month Trend</div>';
+      html += '<div class="sparkline-bars">';
+      sorted.forEach((h, i) => {
+        const pct = Math.max(10, ((h.count - minCount) / range) * 90 + 10);
+        const isLast = i === sorted.length - 1;
+        html += `<div class="sparkline-bar" style="height:${pct}%" title="${h.date}: ${h.count} employees"></div>`;
+      });
+      html += '</div>';
+      if (sorted.length >= 2) {
+        const firstDate = sorted[0].date.substring(0, 7);
+        const lastDate = sorted[sorted.length - 1].date.substring(0, 7);
+        html += `<div class="sparkline-dates"><span>${firstDate}</span><span>${lastDate}</span></div>`;
+      }
+      html += '</div>';
+    }
+
+    // Data date
+    if (c.employee_count_date) {
+      html += `<div style="margin-top:0.8rem;font-size:0.7rem;color:var(--secondary)">Data as of ${formatDate(c.employee_count_date)} · Source: LinkedIn via Coresignal</div>`;
+    }
+
+    html += '</div>';
+    return html;
   }
 
   function renderCompany(c) {
@@ -147,6 +307,9 @@
       html += `<div class="company-description">${esc(c.description)}</div>`;
     }
 
+    // Workforce section (NEW — prominent placement before screenshot)
+    html += renderWorkforce(c);
+
     // Screenshot
     if (c.screenshot) {
       html += '<div class="screenshot-container">';
@@ -158,7 +321,8 @@
     html += '<div class="company-section"><h2>🔗 Links</h2>';
     html += '<div class="ext-links">';
     if (c.url) html += `<a href="${esc(c.url)}" target="_blank" rel="noopener" class="ext-link">🌐 ${esc(domain || 'Website')}</a>`;
-    if (c.linkedin) html += `<a href="${esc(c.linkedin)}" target="_blank" rel="noopener" class="ext-link">💼 LinkedIn</a>`;
+    if (c.linkedin_slug) html += `<a href="https://www.linkedin.com/company/${esc(c.linkedin_slug)}/" target="_blank" rel="noopener" class="ext-link">💼 LinkedIn</a>`;
+    else if (c.linkedin) html += `<a href="${esc(c.linkedin)}" target="_blank" rel="noopener" class="ext-link">💼 LinkedIn</a>`;
     html += '</div></div>';
 
     // Company Details
@@ -170,6 +334,7 @@
     if (c.location && c.location !== c.country) html += `<span class="info-label">Location</span><span class="info-value">${esc(c.location)}</span>`;
     if (c.tech_note && c.tech_note !== '—') html += `<span class="info-label">Tech Note</span><span class="info-value">${esc(c.tech_note)}</span>`;
     html += `<span class="info-label">Status</span><span class="info-value">${healthLabel(c)} (Score: ${c.health_score || 0}/100)</span>`;
+    if (c.coresignal_industry) html += `<span class="info-label">Industry</span><span class="info-value">${esc(c.coresignal_industry)}</span>`;
     if (c.cdi_portfolio) html += `<span class="info-label">CDI Portfolio</span><span class="info-value">✅ Yes — <a href="https://www.carbon-drawdown.de/what-we-do" target="_blank">Carbon Drawdown Initiative</a></span>`;
     html += '</div></div>';
 
