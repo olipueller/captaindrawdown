@@ -41,7 +41,7 @@ It's one study, one soil type, one basalt source. But it adds to a growing body 
 
 ### 🔗 Related Reading
 
-- [[ERW](/posts/what-is-enhanced-weathering/) Could Absorb 1 Billion Tonnes of CO₂ — But the Details Matter](/posts/2026-03-07-erw-one-billion-tonnes-potential/)
+- [[ERW](/posts/what-is-enhanced-weathering/) Could Absorb 1 Billion Tonnes of CO₂ — But the Details Matter](/posts/2026-03-07-[erw](/posts/what-is-enhanced-weathering/)-one-billion-tonnes-potential/)
 - [[Enhanced Weathering](/posts/what-is-enhanced-weathering/) Could Remove Up to 0.7 Gt CO₂/yr — But Efficiency Is Low](/posts/ew-expert-elicitation-cdr-potential/)
 - [What Is [Enhanced Weathering](/posts/what-is-enhanced-weathering/)? A Primer](/posts/what-is-enhanced-weathering/)
 - [[Enhanced Rock Weathering](/posts/what-is-enhanced-weathering/): Promising, But Not Simple](/posts/2026-02-25-erw-promising-but-not-simple/)

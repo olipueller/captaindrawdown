@@ -2,6 +2,8 @@
 title: "CDR Misconception #1: Carbon Removal Is Just an Excuse to Keep Polluting"
 date: 2026-03-13T09:00:00+01:00
 slug: cdr-misconception-01
+aliases:
+  - /posts/2026-03-14-cdr-misconception-01/
 description: "The #1 objection to carbon dioxide removal, debunked with IPCC data and real buyer behavior."
 tags: ["CDR", "misconceptions", "carbon removal", "IPCC", "mitigation"]
 categories: ["Misconception of the Week"]
