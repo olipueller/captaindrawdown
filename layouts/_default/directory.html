@@ -607,8 +607,8 @@
         return 0;
       }
       if (sortCol === 'employee_count') {
-        const va = a.employee_count || 0;
-        const vb = b.employee_count || 0;
+        const va = a.employee_count_inferred || a.employee_count || 0;
+        const vb = b.employee_count_inferred || b.employee_count || 0;
         return sortAsc ? va - vb : vb - va;
       }
       let va = (a[sortCol] || '').toLowerCase();
