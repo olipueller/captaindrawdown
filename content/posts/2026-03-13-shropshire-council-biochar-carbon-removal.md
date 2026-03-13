@@ -1,6 +1,6 @@
 ---
 title: "A UK Council Just Built Its Own Biochar Carbon Removal Unit"
-date: 2026-03-13T16:30:00+01:00
+date: 2026-03-13T06:00:00+01:00
 draft: false
 slug: shropshire-council-biochar-carbon-removal
 description: "Shropshire Council becomes the first UK local authority to partially own a biochar carbon removal system — and a second fully-owned unit is coming this spring."

@@ -1,6 +1,6 @@
 ---
 title: "Enhanced Weathering Could Remove Up to 0.7 Gt CO₂/yr — But Efficiency Is Low"
-date: 2026-03-13T08:00:00+01:00
+date: 2026-03-13T06:00:00+01:00
 draft: false
 slug: ew-expert-elicitation-cdr-potential
 description: "A new Nature study asked 30+ experts to estimate enhanced weathering's CDR potential. The numbers are promising — and sobering."
@@ -42,7 +42,7 @@ The paper doesn't kill EW's promise — it quantifies the gap between promise an
 
 ### 🔗 Related Reading
 
-- [Enhanced Rock Weathering: Promising, But Not Simple](/posts/2026-02-25-erw-promising-but-not-simple/)
+- [[Enhanced Rock Weathering](/posts/what-is-enhanced-weathering/): Promising, But Not Simple](/posts/2026-02-25-[erw](/posts/what-is-enhanced-weathering/)-promising-but-not-simple/)
 - [Reality Check: Cornell Study Says ERW Could Hit 1 Billion Tonnes Per Year — With Caveats](/posts/2026-03-05-cornell-erw-billion-tonnes/)
 - [ERW Could Absorb 1 Billion Tonnes of CO₂ — But the Details Matter](/posts/2026-03-07-erw-one-billion-tonnes-potential/)
 - [Basalt on Vermont Farmland Shows No Trace Metal Risk After Two Years](/posts/erw-trace-metals-vermont-field-study/)

@@ -1,6 +1,6 @@
 ---
 title: "LEGO Commits $7.9M to Carbon Removal — Testing Everything from Bio-Oil to Ocean CDR"
-date: 2026-03-13T12:00:00+01:00
+date: 2026-03-13T06:00:00+01:00
 draft: false
 slug: lego-carbon-removal-portfolio
 description: "The LEGO Group has committed $7.9M total to durable carbon removal across four projects, from biomass geological storage to marine CDR."

@@ -1,6 +1,6 @@
 ---
 title: "Basalt on Vermont Farmland Shows No Trace Metal Risk After Two Years"
-date: 2026-03-13T10:00:00+01:00
+date: 2026-03-13T06:00:00+01:00
 draft: false
 slug: erw-trace-metals-vermont-field-study
 description: "A new CDRxiv preprint finds that spreading crushed basalt on dairy farms doesn't increase harmful metals in soil or forage — and may actually reduce them downstream."
@@ -27,7 +27,7 @@ Researchers from Yale and collaborators applied 20 tonnes/hectare of iron- and a
 
 In other words, the basalt weathering products that moved downslope appear to have *sequestered* trace metals rather than mobilized them.
 
-## Why this matters for ERW deployment
+## Why this matters for [ERW](/posts/what-is-enhanced-weathering/) deployment
 
 Trace metal risk is a legitimate concern that critics raise — and rightly so. Iron-rich basalts contain nickel and chromium at concentrations that warrant monitoring. This study, conducted at realistic application rates on a real farm over multiple seasons, provides strong evidence that agronomic-rate applications pose minimal risk.
 
@@ -42,6 +42,6 @@ It's one study, one soil type, one basalt source. But it adds to a growing body 
 ### 🔗 Related Reading
 
 - [ERW Could Absorb 1 Billion Tonnes of CO₂ — But the Details Matter](/posts/2026-03-07-erw-one-billion-tonnes-potential/)
-- [Enhanced Weathering Could Remove Up to 0.7 Gt CO₂/yr — But Efficiency Is Low](/posts/ew-expert-elicitation-cdr-potential/)
+- [[Enhanced Weathering](/posts/what-is-enhanced-weathering/) Could Remove Up to 0.7 Gt CO₂/yr — But Efficiency Is Low](/posts/ew-expert-elicitation-cdr-potential/)
 - [What Is Enhanced Weathering? A Primer](/posts/what-is-enhanced-weathering/)
 - [Enhanced Rock Weathering: Promising, But Not Simple](/posts/2026-02-25-erw-promising-but-not-simple/)
