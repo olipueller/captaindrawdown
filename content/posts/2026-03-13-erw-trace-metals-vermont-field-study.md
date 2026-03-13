@@ -33,7 +33,7 @@ Trace metal risk is a legitimate concern that critics raise — and rightly so. 
 
 The paper also makes a practical MRV recommendation: track soil pH and Ca:Al ratios as indicators of metal availability, and consider hydrologic connectivity when designing monitoring programs.
 
-It's one study, one soil type, one basalt source. But it adds to a growing body of evidence that ERW can be deployed responsibly — provided you monitor properly and choose your feedstock carefully.
+It's one study, one soil type, one basalt source. But it adds to a growing body of evidence that [ERW](/posts/what-is-enhanced-weathering/) can be deployed responsibly — provided you monitor properly and choose your feedstock carefully.
 
 **Source:** [Zacharias et al. (2026), CDRxiv preprint #463](https://cdrxiv.org/preprint/463)
 
@@ -43,5 +43,5 @@ It's one study, one soil type, one basalt source. But it adds to a growing body 
 
 - [ERW Could Absorb 1 Billion Tonnes of CO₂ — But the Details Matter](/posts/2026-03-07-erw-one-billion-tonnes-potential/)
 - [[Enhanced Weathering](/posts/what-is-enhanced-weathering/) Could Remove Up to 0.7 Gt CO₂/yr — But Efficiency Is Low](/posts/ew-expert-elicitation-cdr-potential/)
-- [What Is Enhanced Weathering? A Primer](/posts/what-is-enhanced-weathering/)
+- [What Is [Enhanced Weathering](/posts/what-is-enhanced-weathering/)? A Primer](/posts/what-is-enhanced-weathering/)
 - [Enhanced Rock Weathering: Promising, But Not Simple](/posts/2026-02-25-erw-promising-but-not-simple/)
