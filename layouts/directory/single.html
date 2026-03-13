@@ -225,7 +225,10 @@
 
     // Main stats
     html += '<div class="wf-stats-row">';
-    html += `<div class="wf-stat"><span class="wf-num">${fmtNum(c.employee_count)}</span><span class="wf-label">LinkedIn Employees</span></div>`;
+    // Show inferred as primary (more accurate), LinkedIn listed as secondary
+    const primaryCount = c.employee_count_inferred || c.employee_count;
+    const primaryLabel = c.employee_count_inferred ? 'Estimated Employees' : 'LinkedIn Employees';
+    html += `<div class="wf-stat"><span class="wf-num">${fmtNum(primaryCount)}</span><span class="wf-label">${primaryLabel}</span></div>`;
 
     // Growth
     if (c.employee_growth_yoy != null) {
@@ -236,8 +239,8 @@
       html += `<div class="wf-stat"><span class="wf-growth ${cls}">${arrow} ${sign}${g.toFixed(1)}%</span><span class="wf-label">Year-over-Year</span></div>`;
     }
 
-    if (c.employee_count_inferred != null) {
-      html += `<div class="wf-stat"><span class="wf-num" style="font-size:1.3rem;color:var(--secondary)">${fmtNum(c.employee_count_inferred)}</span><span class="wf-label">Inferred Headcount</span></div>`;
+    if (c.employee_count_inferred != null && c.employee_count != null && c.employee_count !== c.employee_count_inferred) {
+      html += `<div class="wf-stat"><span class="wf-num" style="font-size:1.3rem;color:var(--secondary)">${fmtNum(c.employee_count)}</span><span class="wf-label">LinkedIn Profiles</span></div>`;
     }
     html += '</div>';
 

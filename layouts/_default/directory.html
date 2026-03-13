@@ -1,5 +1,8 @@
 {{ define "main" }}
 <style>
+  /* Break out of PaperMod's narrow container */
+  .main { max-width: 100% !important; padding: 0 2rem; }
+
   .directory-header {
     text-align: center;
     padding: 2rem 1rem;
@@ -112,7 +115,7 @@
     .company-table th, .company-table td { padding: 0.4rem 0.3rem; }
     .tech-col { display: none; }
     .status-label { display: none; }
-    .emp-cell { display: none; }
+    .method-col { display: none; }
     .bar-label { min-width: 80px; font-size: 0.7rem; }
     .bar-row { grid-template-columns: 120px 1fr 60px; }
     #map-container { height: 280px; }
@@ -219,7 +222,7 @@
   <thead>
     <tr>
       <th data-sort="name" class="sorted">Company <span class="sort-arrow">↑</span></th>
-      <th data-sort="method">Method <span class="sort-arrow">↕</span></th>
+      <th class="method-col" data-sort="method">Method <span class="sort-arrow">↕</span></th>
       <th data-sort="country">Country <span class="sort-arrow">↕</span></th>
       <th data-sort="health_sort" class="status-col">Status <span class="sort-arrow">↕</span></th>
       <th data-sort="employee_count" data-sort-numeric="true">Employees <span class="sort-arrow">↕</span></th>
@@ -635,7 +638,7 @@
       const lbl = healthLabel(c);
       return `<tr>
         <td class="company-name">${nameHtml}${cdiBadge}</td>
-        <td><span class="method-tag">${esc(c.method)}</span></td>
+        <td class="method-col"><span class="method-tag">${esc(c.method)}</span></td>
         <td class="country-cell">${esc(c.country)}</td>
         <td class="status-cell"><span class="status-dot ${cls}"></span><span class="status-label">${lbl}</span></td>
         <td class="emp-cell">${empCell(c)}</td>
@@ -662,7 +665,8 @@
 
   function empCell(c) {
     if (!c.employee_count) return '<span style="color:var(--secondary)">—</span>';
-    let html = '' + c.employee_count.toLocaleString();
+    const count = c.employee_count_inferred || c.employee_count;
+    let html = '' + count.toLocaleString();
     if (c.employee_growth_yoy != null) {
       const g = c.employee_growth_yoy;
       if (g > 0) html += ' <span style="color:#22c55e;font-size:0.75rem">↑</span>';
