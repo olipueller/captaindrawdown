@@ -40,3 +40,9 @@ Commercial scale is still a few years out. But having a government concession �
 For a field dominated by DAC and biochar headlines, in-situ mineralization is the quiet pathway worth watching.
 
 **Sources:** [Zawya](https://www.zawya.com/en/economy/gcc/oman-the-future-of-carbon-removal-is-in-the-hajar-mountains-g7rei26d) · [University of Manchester](https://www.manchester.ac.uk/about/news/carbon-trapping-rocks-demonstrate-earths-natural-ability-to-store-carbon-dioxide)
+
+---
+
+### 🔗 Related Reading
+
+- [Frontier Opens 2026 Carbon Removal Innovation Program](/posts/frontier-2026-cdr-innovation-program/)
