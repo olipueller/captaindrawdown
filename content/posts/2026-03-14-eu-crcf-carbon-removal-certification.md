@@ -27,7 +27,7 @@ If [CRCF](/posts/2026-03-06-eu-first-cdr-certification-standard/) credits become
 
 ## Three Categories
 
-The CRCF differentiates between:
+The [CRCF](/posts/2026-03-06-eu-first-cdr-certification-standard/) differentiates between:
 
 1. **Permanent carbon removal** — storage for several centuries (think geological storage, mineralization)
 2. **Carbon storage in products** — processes that store carbon for at least 35 years (like biochar in concrete)
@@ -54,4 +54,4 @@ The timing is deliberate. As the voluntary carbon market cleans house after year
 - [The EU's Industrial Accelerator Act: What It Means for Carbon Removal](/posts/2026-03-05-eu-industrial-accelerator-act/)
 - [EU Launches World's First Voluntary Standard for Permanent Carbon Removals](/posts/2026-03-06-eu-first-cdr-certification-standard/)
 - [Biochar: The Quiet Giant of Carbon Removal](/posts/2026-02-25-biochar-quiet-giant-of-cdr/)
-- [[Microsoft Bought](/posts/2026-02-28-[microsoft-93-percent-cdr-credits](/posts/2026-02-28-microsoft-93-percent-cdr-credits/)/) 93% of All Carbon Removal Credits in 2025](/posts/2026-02-28-microsoft-93-percent-cdr-credits/)
+- [[Microsoft Bought](/posts/2026-02-28-[microsoft-93-percent-cdr-credits](/posts/2026-02-28-[microsoft-93-percent-cdr-credits](/posts/2026-02-28-microsoft-93-percent-cdr-credits/)/)/) 93% of All Carbon Removal Credits in 2025](/posts/2026-02-28-microsoft-93-percent-cdr-credits/)

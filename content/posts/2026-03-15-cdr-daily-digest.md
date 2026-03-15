@@ -3,8 +3,8 @@ title: "CDR Daily Digest — March 15, 2026"
 date: 2026-03-15T20:00:00+00:00
 draft: false
 slug: 2026-03-15-cdr-daily-digest
-description: "The EU builds its first government CDR credit label, €260M flows to Belgian CCS infrastructure, net-zero concrete hits real construction sites, Frontier opens its 2026 innovation program, and a German critique of CDR sparks debate."
-tags: ["CDR", "daily digest", "EU", "CRCF", "CCS", "biochar", "Frontier"]
+description: "$600M in new CDR capital, a 500,000-tonne BECCS project, centuries of carbon removal needed, moisture-swing DAC breakthroughs, EU policy acceleration, and biochar in concrete."
+tags: ["CDR", "daily digest", "BECCS", "DAC", "nature-based", "investment", "EU", "CRCF"]
 categories: ["Daily Digest"]
 cover:
   image: "/images/digests/2026-03-15.png"
@@ -12,13 +12,55 @@ cover:
   hidden: false
 ---
 
-A weekend dominated by EU policy and infrastructure. The CRCF creates the world's first government-backed carbon removal certification, Belgium gets €260M for CCS pipe-and-store, and Frontier opens the funding spigot for 2026. Plus: a German op-ed argues CDR is a "dangerous dream" — and it's worth reading even if you disagree.
+A blockbuster Sunday for carbon removal. Over $600 million in new CDR capital announced, a BECCS project targeting 500,000 tonnes per year, research showing we may need centuries of removal, and a materials science breakthrough that could reshape DAC economics. Plus the EU builds its first government CDR certification framework and biochar enters concrete.
+
+---
 
 ## Today on CaptainDrawdown
 
+### 🏭 A US Paper Mill Wants to Capture Half a Million Tonnes of CO₂ Per Year
+
+Svante Technologies advances a BECCS facility at a southeastern US paper mill targeting 500,000+ tonnes of biogenic CO₂ annually — more than 13× Climeworks' Mammoth capacity. Paper mills are almost purpose-built for BECCS: biomass feedstock on-site, biogenic CO₂ in flue gas, and Svante's solid sorbent rotary contactors could offer faster cycling and lower energy penalties than liquid solvent systems. Captured CO₂ heads to Gulf Coast geological storage. Still in feasibility, but if it reaches FID this becomes one of the largest CDR projects in the world.
+
+**[Read our full analysis →](/posts/2026-03-15-svante-beccs-paper-mill-500k-tonnes/)**
+
+---
+
+### ⏳ Net Zero Won't Be Enough — We May Need Centuries of Carbon Removal
+
+New IIASA research (Johannes Bednar et al., *Environmental Research Letters*) delivers a sobering finding: sea levels keep rising and permafrost keeps thawing for centuries after temperatures stabilize. Net zero doesn't freeze climate damage. Permafrost feedback adds ~5% to total CDR needs. The implication for investors: CDR isn't a bridge technology — it's permanent infrastructure. The market for durable storage is structurally larger than most projections assume.
+
+**[Read our deep dive →](/posts/2026-03-15-centuries-carbon-removal-iiasa-study/)**
+
+---
+
+### 🌾 Octopus Energy Ups Its Grasslands CDR Bet to $100 Million
+
+Octopus Energy Generation expanded its partnership with nature-based solutions provider Cultivo from $40M to $100M, accelerating grassland regeneration across 650,000+ acres of US grasslands. Target: 9 million tonnes of CO₂ removal over 30 years. Cultivo plans to surpass 2 million enrolled acres this year after acquiring grasslands developer Kateri. Serious institutional capital validating grasslands as a real CDR pathway alongside forests and engineered solutions.
+
+**[Read the story →](/posts/2026-03-15-cultivo-octopus-energy-100m-grasslands/)**
+
+---
+
+### 🌍 Half a Billion Dollars for Ecosystem Restoration in the Global South
+
+Bregal Sphere commits up to $500M to Imperative's global ecosystem restoration pipeline across Africa, Asia, and Latin America — total committed capital now $1.25 billion. The flagship project: large-scale spekboom restoration in South Africa's Eastern Cape, where this succulent may sequester more CO₂ per hectare than tropical rainforest. Directly addresses the chronic funding gap for Global South restoration, where the highest-impact opportunities sit.
+
+**[Read our coverage →](/posts/2026-03-15-bregal-sphere-imperative-500m-nature-restoration/)**
+
+---
+
+### 🔬 Moisture-Swing Polymers Could Make Direct Air Capture Radically Cheaper
+
+ASU researchers published the first comprehensive structural characterization of two commercial moisture-swing sorbent polymers in *Materials Today Chemistry*. The key finding: macropore structure governs CO₂ capture capacity and kinetics. Bigger pores = faster, more efficient capture. This turns sorbent development from trial-and-error into targeted engineering — and moisture-swing DAC needs only water, not heat, potentially slashing costs far below today's $400–1,000+/tonne.
+
+**[Read the breakdown →](/posts/2026-03-15-moisture-swing-polymers-dac-asu-study/)**
+
+---
+
 ### 🏛️ The EU Just Built the World's First Government CDR Credit Label
 
-While the voluntary market debates methodology updates, Brussels built a state-backed certification framework. The **Carbon Removals and Carbon Farming Regulation (CRCF)** creates government-accredited certifiers, formal legislative methodologies, and — critically — a potential pathway to ETS integration. If CDR credits become eligible for the EU Emissions Trading System, that's a compliance market for engineered removal. The Commission must assess ETS integration by July 2026.
+The **Carbon Removals and Carbon Farming Regulation (CRCF)** creates government-accredited certifiers, formal legislative methodologies, and a potential pathway to ETS integration. If CDR credits become eligible for the EU Emissions Trading System, that's a compliance market for engineered removal. The Commission must assess ETS integration by July 2026.
 
 **[Read our analysis →](/posts/eu-crcf-carbon-removal-certification/)**
 
@@ -26,7 +68,7 @@ While the voluntary market debates methodology updates, Brussels built a state-b
 
 ### 🏗️ EU Greenlights €260M for Belgian CCS — Antwerp to North Sea Pipeline
 
-The Commission approved €260M in state aid for the **Kairos@C** project. Air Liquide and BASF will capture CO₂ from industrial hydrogen and ammonia production in Antwerp and pipe it for permanent storage beneath the North Sea. Target: 20 million tonnes avoided over 15 years. Funding is performance-linked — payments only if reduction thresholds are met. This is CCS, not CDR, but every pipeline and storage site built lowers the barrier for future BECCS and DACCS.
+The Commission approved €260M in state aid for the **Kairos@C** project. Air Liquide and BASF will capture CO₂ from industrial production in Antwerp and pipe it for permanent storage beneath the North Sea. Target: 20 million tonnes avoided over 15 years. CCS, not CDR — but every pipeline and storage site built lowers the barrier for future BECCS and DACCS.
 
 **[Read the full breakdown →](/posts/eu-kairos-ccs-belgium-260m/)**
 
@@ -34,7 +76,7 @@ The Commission approved €260M in state aid for the **Kairos@C** project. Air L
 
 ### 🧱 UK's First Net-Zero Concrete Uses Biochar From Coffee Waste
 
-Holcim UK and Canary Wharf Group achieved **net-negative carbon concrete** using biochar derived from spent coffee grounds. Net GWP: **-14 kgCO₂e/m³**. These were full-scale pours on real construction sites, verified by Arup, Queen's University Belfast, and Cambridge. With 14 billion m³ of concrete poured globally each year, biochar in construction could become a significant carbon removal pathway.
+Holcim UK and Canary Wharf Group achieved **net-negative carbon concrete** using biochar from spent coffee grounds. Net GWP: **-14 kgCO₂e/m³**. Full-scale pours on real construction sites, verified by Arup, Queen's University Belfast, and Cambridge. With 14 billion m³ of concrete poured globally each year, biochar in construction could become a significant removal pathway.
 
 **[Read the story →](/posts/holcim-net-zero-concrete-biochar-coffee/)**
 
@@ -42,44 +84,42 @@ Holcim UK and Canary Wharf Group achieved **net-negative carbon concrete** using
 
 ### 🚀 Frontier Opens 2026 Carbon Removal Innovation Program
 
-Frontier — the $1B+ advance market commitment backed by Stripe, Alphabet, Shopify, and Meta — opened applications for 2026. Two tracks: prepurchases ($250K–$1.5M) and R&D grants ($250K–$750K). Priority areas: mineralization, ocean/inland alkalinity enhancement, and MRV for open-system pathways. In 2025, Frontier portfolio companies began building ~1.4M tonnes/yr removal capacity.
+Frontier — the $1B+ advance market commitment backed by Stripe, Alphabet, Shopify, and Meta — opened applications for 2026. Two tracks: prepurchases ($250K–$1.5M) and R&D grants ($250K–$750K). Priority: mineralization, ocean/inland alkalinity enhancement, and MRV for open-system pathways.
 
 **[Read our coverage →](/posts/frontier-2026-cdr-innovation-program/)**
 
 ---
 
-## Also Published This Weekend
+## Also Published Today
 
-**⛏️ Abandoned Mines as Carbon Vaults** — Rewind Earth stores biomass in deep mine chambers, sequestering carbon while fixing acid drainage and methane emissions. Georgia's first site is operational with BlueLayer handling dMRV. ([Read →](/posts/rewind-earth-mine-storage-cdr/))
-
-**🔥 A $25M Warning From Oregon** — The Warm Springs Tribes' forest carbon offset project earned $25M in credits — until the Lionshead Fire burned 200,000 acres and rendered them worthless. A cautionary tale for permanence. ([Read →](/posts/warm-springs-forest-carbon-wildfire/))
-
-**🇳🇴 Norway's BECCS Push** — Carbon Centric's Project Kirkenær targets 32,000t of biogenic CO₂ annually from a Norwegian CHP plant. Just passed Puro.earth's Preliminary Assessment. ([Read →](/posts/carbon-centric-beccs-certification/))
-
-**💰 Biochar at $100/ton** — Carba and the University of Minnesota are pushing biochar costs well below DAC territory. NPR covered the Minnesota startup's approach to cracking CDR's cost problem. ([Read →](/posts/carba-biochar-cost-breakthrough/))
-
-**🇩🇪 German Media vs. OAE** — How FOCUS Online framed the LOC-NESS experiment reveals the public perception gap between English-language CDR discourse and how non-English media covers ocean CDR. ([Read →](/posts/german-media-oae-loc-ness/))
+- **⛏️ Abandoned Mines as Carbon Vaults** — Rewind Earth stores biomass in deep mine chambers, sequestering carbon while fixing acid drainage. ([Read →](/posts/rewind-earth-mine-storage-cdr/))
+- **🔥 A $25M Warning From Oregon** — Warm Springs Tribes' forest carbon offset project earned $25M in credits — until wildfire rendered them worthless. ([Read →](/posts/warm-springs-forest-carbon-wildfire/))
+- **🇳🇴 Norway's BECCS Push** — Carbon Centric's 32,000t/yr BECCS at a Norwegian CHP plant passes Puro.earth assessment. ([Read →](/posts/carbon-centric-beccs-certification/))
+- **💰 Biochar at $100/ton** — Carba and University of Minnesota push biochar costs well below DAC territory. ([Read →](/posts/carba-biochar-cost-breakthrough/))
+- **🇩🇪 German Media vs. OAE** — How FOCUS Online framed the LOC-NESS experiment reveals the public perception gap in non-English CDR coverage. ([Read →](/posts/german-media-oae-loc-ness/))
 
 ---
 
 ## Also Noteworthy
 
-**🐙 Octopus Energy Commits $60M to Nature-Based Carbon Removal** — Octopus Energy Generation expands its partnership with Cultivo to $100M total, funding grasslands regeneration and carbon removal projects across 650,000+ acres of US grasslands. Nature-based, not engineered, but serious money moving. ([Source](https://www.esgtoday.com/octopus-energy-generation-signs-60-million-carbon-removal-deal-with-nature-based-solutions-provider-cultivo/))
+**🌊 Bio-DAC: Microalgae for Direct Air Capture** — Researchers demonstrated bio-DAC using 600 m² microalgae raceway reactors growing Scenedesmus under extreme carbon limitation, capturing CO₂ directly from ambient air. An intriguing hybrid of biology and atmospheric capture. ([Source](https://x.com/geoengineering1/status/2032909151899365483))
 
-**🌊 Bio-DAC: Microalgae Raceway Reactors for Direct Air Capture** — Researchers demonstrated bio-DAC using a 600 m² microalgae raceway system growing Scenedesmus under extreme carbon limitation, capturing CO₂ directly from ambient air. An interesting hybrid approach merging biology with atmospheric capture. ([Source](https://x.com/geoengineering1/status/2032909151899365483))
+**🤖 ML Platform Boosts Biochar Efficiency 18%** — A machine learning platform increased biochar adsorption efficiency by over 18%, showing how data-driven optimization can accelerate CDR materials development. ([Source](https://bsky.app/profile/biochartoday.bsky.social/post/3mh2jgkhtgm2r))
 
-**🇩🇪 "The Dangerous Dream of CO₂ Removal"** — Klimareporter published a sharp op-ed by Peter Droege (Eurosolar) arguing that Germany's CDR terra/CDR mare research programs distract from emission reduction. Worth reading as a window into European CDR skepticism, even if the framing overstates the either/or tension. ([Source](https://klimareporter.de/technik/der-gefaehrliche-traum-von-der-co2-entnahme))
-
-**⏳ Centuries of Carbon Removal Needed** — New research in *Environmental Research Letters* (IIASA's Johannes Bednar) shows that sea level rise and permafrost thaw keep intensifying long after temperatures stabilize. Net zero is the first step, not the last — large-scale removal may need to continue for centuries. ([Source](https://www.earth.com/news/stopping-climate-damage-may-require-centuries-of-carbon-removal/))
+**🇩🇪 "The Dangerous Dream of CO₂ Removal"** — Klimareporter published a sharp op-ed arguing Germany's CDR research programs distract from emission cuts. Worth reading as a window into European CDR skepticism, even if the either/or framing overstates the tension. ([Source](https://klimareporter.de/technik/der-gefaehrliche-traum-von-der-co2-entnahme))
 
 ---
 
-## 📊 Weekend Snapshot
+## 📊 Daily Snapshot
 
-- **EU policy acceleration** — CRCF + €260M CCS investment in the same week signals Brussels is serious about building CDR infrastructure and market architecture
-- **Biochar diversifying fast** — Concrete, mine storage, low-cost production: biochar is no longer just a soil amendment story
-- **Frontier 2026** — Mineralization, OAE, and MRV remain the frontier (pun intended) of innovation funding
-- **CDR skepticism publishing** — Two critical pieces (Klimareporter, centuries-of-removal study) remind the field that public trust and scientific honesty remain paramount
+| Category | Signal |
+|---|---|
+| **Capital deployed** | $600M+ announced: $100M (Octopus/Cultivo grasslands) + $500M (Bregal/Imperative restoration) |
+| **BECCS pipeline** | Svante's 500,000 t/yr paper mill + Carbon Centric's Norwegian BECCS — BECCS accelerating in 2026 |
+| **DAC science** | Moisture-swing macropore discovery opens targeted sorbent engineering; low-energy DAC moves closer |
+| **EU policy** | CRCF certification + €260M CCS state aid — Brussels building both market architecture and physical infrastructure |
+| **Nature-based** | Grasslands and Global South restoration both attract nine-figure capital commitments |
+| **Framing shift** | "Centuries of CDR" (IIASA) reframes removal as permanent infrastructure, not a temporary bridge |
 
 ---
 

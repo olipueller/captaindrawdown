@@ -45,5 +45,5 @@ It's still early days. But the combination of CDR + environmental remediation + 
 
 - [[Enhanced Rock Weathering](/posts/what-is-enhanced-weathering/): Promising, But Not Simple](/posts/2026-02-25-[erw](/posts/what-is-enhanced-weathering/)-promising-but-not-simple/)
 - [[ERW](/posts/what-is-enhanced-weathering/) Under Fire: What the Nature Paper on Uncertainties Actually Says](/posts/[erw](/posts/what-is-enhanced-weathering/)-uncertainties-nature-paper/)
-- [Reality Check: Cornell Study Says [ERW](/posts/what-is-enhanced-weathering/) Could Hit 1 Billion Tonnes Per Year — With Caveats](/posts/2026-03-05-cornell-erw-billion-tonnes/)
+- [Reality Check: Cornell Study Says [ERW](/posts/what-is-enhanced-weathering/) Could Hit 1 Billion Tonnes Per Year — With Caveats](/posts/2026-03-05-cornell-[erw](/posts/what-is-enhanced-weathering/)-billion-tonnes/)
 - [ERW Could Remove 1 Billion Tonnes per Year — But the Caveats Matter](/posts/2026-03-06-erw-billion-tonnes-caveats/)
