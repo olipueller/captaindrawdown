@@ -23,7 +23,7 @@ Every existing carbon credit certification (Verra's VCS, ICVCM's Core Carbon Pri
 - Methodologies are established by **delegated acts** (i.e., formal EU legislation)
 - There's a clear pathway to **ETS integration** — the Commission must assess by July 2026 how permanently stored carbon removals can be integrated into the EU Emissions Trading System
 
-If CRCF credits become ETS-eligible, that would create the world's first compliance market pathway for engineered CDR.
+If [CRCF](/posts/2026-03-06-eu-first-cdr-certification-standard/) credits become ETS-eligible, that would create the world's first compliance market pathway for engineered CDR.
 
 ## Three Categories
 
@@ -54,4 +54,4 @@ The timing is deliberate. As the voluntary carbon market cleans house after year
 - [The EU's Industrial Accelerator Act: What It Means for Carbon Removal](/posts/2026-03-05-eu-industrial-accelerator-act/)
 - [EU Launches World's First Voluntary Standard for Permanent Carbon Removals](/posts/2026-03-06-eu-first-cdr-certification-standard/)
 - [Biochar: The Quiet Giant of Carbon Removal](/posts/2026-02-25-biochar-quiet-giant-of-cdr/)
-- [[Microsoft Bought](/posts/2026-02-28-microsoft-93-percent-cdr-credits/) 93% of All Carbon Removal Credits in 2025](/posts/2026-02-28-microsoft-93-percent-cdr-credits/)
+- [[Microsoft Bought](/posts/2026-02-28-[microsoft-93-percent-cdr-credits](/posts/2026-02-28-microsoft-93-percent-cdr-credits/)/) 93% of All Carbon Removal Credits in 2025](/posts/2026-02-28-microsoft-93-percent-cdr-credits/)
