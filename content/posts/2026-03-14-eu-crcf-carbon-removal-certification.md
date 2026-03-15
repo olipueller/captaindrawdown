@@ -37,7 +37,7 @@ The first delegated act covers permanent removal methodologies. Carbon farming m
 
 ## Why CDR Companies Should Pay Attention
 
-The CRCF is voluntary — certification schemes can seek EU recognition but don't have to. But there are compelling reasons to opt in:
+The [CRCF](/posts/2026-03-06-eu-first-cdr-certification-standard/) is voluntary — certification schemes can seek EU recognition but don't have to. But there are compelling reasons to opt in:
 
 - **Price premiums** — government-backed verification could command higher prices than private labels
 - **ETS eligibility** — if the Commission integrates CRCF credits into the ETS, certified credits would access the world's largest carbon market
@@ -54,4 +54,4 @@ The timing is deliberate. As the voluntary carbon market cleans house after year
 - [The EU's Industrial Accelerator Act: What It Means for Carbon Removal](/posts/2026-03-05-eu-industrial-accelerator-act/)
 - [EU Launches World's First Voluntary Standard for Permanent Carbon Removals](/posts/2026-03-06-eu-first-cdr-certification-standard/)
 - [Biochar: The Quiet Giant of Carbon Removal](/posts/2026-02-25-biochar-quiet-giant-of-cdr/)
-- [[Microsoft Bought](/posts/2026-02-28-[microsoft-93-percent-cdr-credits](/posts/2026-02-28-[microsoft-93-percent-cdr-credits](/posts/2026-02-28-microsoft-93-percent-cdr-credits/)/)/) 93% of All Carbon Removal Credits in 2025](/posts/2026-02-28-microsoft-93-percent-cdr-credits/)
+- [[Microsoft Bought](/posts/2026-02-28-[microsoft-93-percent-cdr-credits](/posts/2026-02-28-[microsoft-93-percent-cdr-credits](/posts/2026-02-28-[microsoft-93-percent-cdr-credits](/posts/2026-02-28-microsoft-93-percent-cdr-credits/)/)/)/) 93% of All Carbon Removal Credits in 2025](/posts/2026-02-28-microsoft-93-percent-cdr-credits/)
