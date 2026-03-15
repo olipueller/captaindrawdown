@@ -17,7 +17,7 @@ The **Carbon Removals and Carbon Farming Regulation ([CRCF](/posts/2026-03-06-eu
 
 ## What Makes This Different
 
-Every existing carbon credit certification (Verra's VCS, ICVCM's Core Carbon Principles, Puro.earth) is run by private organizations. The CRCF is the first where:
+Every existing carbon credit certification (Verra's VCS, ICVCM's Core Carbon Principles, Puro.earth) is run by private organizations. The [CRCF](/posts/2026-03-06-eu-first-cdr-certification-standard/) is the first where:
 
 - Certification occurs through **government-accredited certifiers**
 - Methodologies are established by **delegated acts** (i.e., formal EU legislation)
@@ -54,4 +54,4 @@ The timing is deliberate. As the voluntary carbon market cleans house after year
 - [The EU's Industrial Accelerator Act: What It Means for Carbon Removal](/posts/2026-03-05-eu-industrial-accelerator-act/)
 - [EU Launches World's First Voluntary Standard for Permanent Carbon Removals](/posts/2026-03-06-eu-first-cdr-certification-standard/)
 - [Biochar: The Quiet Giant of Carbon Removal](/posts/2026-02-25-biochar-quiet-giant-of-cdr/)
-- [Microsoft Bought 93% of All Carbon Removal Credits in 2025](/posts/2026-02-28-microsoft-93-percent-cdr-credits/)
+- [[Microsoft Bought](/posts/2026-02-28-microsoft-93-percent-cdr-credits/) 93% of All Carbon Removal Credits in 2025](/posts/2026-02-28-microsoft-93-percent-cdr-credits/)

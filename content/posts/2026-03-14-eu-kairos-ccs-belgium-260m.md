@@ -45,5 +45,5 @@ This comes as eight EU countries — including Spain and the Netherlands — [wa
 
 - [The EU's Industrial Accelerator Act: What It Means for Carbon Removal](/posts/2026-03-05-eu-industrial-accelerator-act/)
 - [EU Carbon Market Under Fire: Italy Wants the ETS Suspended](/posts/eu-ets-suspension-italy-summit/)
-- [The EU Just Built the World's First Government CDR Credit Label](/posts/eu-crcf-carbon-removal-certification/)
+- [The EU Just Built the World's First Government CDR Credit Label](/posts/eu-[crcf](/posts/2026-03-06-eu-first-cdr-certification-standard/)-carbon-removal-certification/)
 - [CDR Roundup: What's Moving in Carbon Removal (Feb 2026)](/posts/cdr-roundup-feb-2026/)
