@@ -2,6 +2,7 @@
 title: "EU's Carbon Removal Certification Framework Gets Its First Methodologies"
 description: "The European Commission has adopted certification methodologies for permanent carbon removals under the CRCF. It's the world's first government-issued CDR credit label — and it could reshape the market."
 date: 2026-03-16T12:45:00+01:00
+slug: eu-crcf-certification-methodologies
 tags: ["CDR", "carbon removal", "EU", "CRCF", "policy", "certification", "carbon credits", "regulation"]
 summary: "The EU just adopted its first certification methodologies for permanent carbon removals. This government-backed label could become the quality benchmark for CDR credits globally."
 draft: false
@@ -17,7 +18,7 @@ The European Commission has adopted a [delegated act](https://www.globalelr.com/
 
 ## What the [CRCF](/posts/2026-03-06-eu-first-cdr-certification-standard/) Actually Is
 
-The CRCF — adopted in December 2024 as part of the EU's climate neutrality 2050 strategy — establishes a standardized framework for certifying carbon dioxide removal activities across Europe. Think of it as a government-backed quality stamp for CDR credits.
+The [CRCF](/posts/2026-03-06-eu-first-cdr-certification-standard/) — adopted in December 2024 as part of the EU's climate neutrality 2050 strategy — establishes a standardized framework for certifying carbon dioxide removal activities across Europe. Think of it as a government-backed quality stamp for CDR credits.
 
 Here's what it covers:
 

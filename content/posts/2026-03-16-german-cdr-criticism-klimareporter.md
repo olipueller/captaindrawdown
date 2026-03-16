@@ -2,6 +2,7 @@
 title: "🌍 From Germany: \"The Dangerous Dream of CO₂ Removal\" — A Skeptic's Case"
 description: "Peter Droege argues in klimareporter.de that Germany's publicly funded CDR research programs are a dangerous distraction. We disagree — but his math challenge is worth taking seriously."
 date: 2026-03-16T08:30:00+01:00
+slug: german-cdr-criticism-klimareporter
 tags: ["CDR", "carbon removal", "Germany", "criticism", "policy", "DAC", "biosphere"]
 summary: "A German expert calls CDR a dangerous dream. His four critiques deserve a serious response — even if we think he's wrong about the conclusion."
 draft: false
@@ -31,7 +32,7 @@ This is the "moral hazard" argument, and it's the most common one leveled at car
 
 Droege warns that biological CDR methods — afforestation with monoculture plantations, BECCS (bioenergy with carbon capture and storage) — compete with natural ecosystems and damage biodiversity. He's also skeptical of ocean-based approaches.
 
-**On monoculture plantations and BECCS: agreed.** These concerns are well-documented and shared by many CDR researchers. The field has largely moved beyond simplistic tree-planting narratives, and BECCS faces serious land-use constraints ([Fuss et al., *Environmental Research Letters*, 2018](https://iopscience.iop.org/article/10.1088/1748-9326/aabf9f)). But lumping all CDR together — [enhanced weathering](/posts/what-is-enhanced-weathering/), DAC, biochar, ocean alkalinity enhancement — under "disturbing nature" ignores the massive diversity of approaches. Enhanced weathering on existing agricultural land doesn't compete with forests. DAC on volcanic rock in Iceland isn't displacing ecosystems.
+**On monoculture plantations and BECCS: agreed.** These concerns are well-documented and shared by many CDR researchers. The field has largely moved beyond simplistic tree-planting narratives, and BECCS faces serious land-use constraints ([Fuss et al., *Environmental Research Letters*, 2018](https://iopscience.iop.org/article/10.1088/1748-9326/aabf9f)). But lumping all CDR together — [enhanced weathering](/posts/what-is-enhanced-weathering/), DAC, biochar, ocean alkalinity enhancement — under "disturbing nature" ignores the massive diversity of approaches. [Enhanced weathering](/posts/what-is-enhanced-weathering/) on existing agricultural land doesn't compete with forests. DAC on volcanic rock in Iceland isn't displacing ecosystems.
 
 ## Critique #4: Tech Fixes Are a Dead End
 

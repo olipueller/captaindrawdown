@@ -2,6 +2,7 @@
 title: "Diapers → Biochar: Turning Baby Waste Into Carbon Removal"
 description: "Disposable diapers are the third-largest consumer item in US landfills. Diaper Stork collects bamboo diapers and pyrolyzes them into biochar. CDR has never been this unexpected."
 date: 2026-03-16T18:20:00+01:00
+slug: diapers-biochar-diaper-stork
 tags: ["CDR", "carbon removal", "biochar", "circular economy", "diapers", "Diaper Stork", "pyrolysis"]
 summary: "A Seattle company makes bamboo diapers, takes them back, and turns them into biochar. Over 3 million diapers diverted from landfills. Carbon removal from baby poop."
 draft: false

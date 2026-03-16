@@ -2,6 +2,7 @@
 title: "Investment Lessons From Standing Next to Mammoth"
 description: "A financial planning team visited Climeworks' Mammoth in Iceland. The real lesson isn't about the technology — it's about the gap between corporate climate promises and follow-through."
 date: 2026-03-16T15:00:00+01:00
+slug: mammoth-dac-investment-lessons
 tags: ["CDR", "carbon removal", "DAC", "Climeworks", "investment", "corporate accountability", "greenwashing"]
 summary: "Visiting the world's largest DAC plant in Iceland makes carbon removal feel viscerally real. But the investment landscape tells a more complicated story."
 draft: false
