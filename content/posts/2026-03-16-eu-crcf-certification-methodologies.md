@@ -15,7 +15,7 @@ Here's something that doesn't get enough attention: the EU just gave carbon remo
 
 The European Commission has adopted a [delegated act](https://www.globalelr.com/2026/03/carbon-removals-and-carbon-farming-recent-eu-developments/) setting out certification methodologies for permanent carbon removals under the Carbon Removals and Carbon Farming ([CRCF](/posts/2026-03-06-eu-first-cdr-certification-standard/)) Regulation. It's voluntary, it's technical, and it might be the most important policy development in CDR markets this year.
 
-## What the CRCF Actually Is
+## What the [CRCF](/posts/2026-03-06-eu-first-cdr-certification-standard/) Actually Is
 
 The CRCF — adopted in December 2024 as part of the EU's climate neutrality 2050 strategy — establishes a standardized framework for certifying carbon dioxide removal activities across Europe. Think of it as a government-backed quality stamp for CDR credits.
 
@@ -51,7 +51,7 @@ The CRCF is voluntary. Certification schemes *may* apply for Commission recognit
 
 There's also the question of international recognition. A CRCF credit that's only valued within the EU is useful but limited. Whether other jurisdictions — the UK, Japan, South Korea, eventually the US — recognize CRCF certification will determine how much it shapes global CDR markets.
 
-And the methodologies themselves will need to evolve. CDR science moves fast. Enhanced weathering MRV protocols are still being debated. Ocean alkalinity enhancement barely has consensus measurement approaches yet. The CRCF will need to keep pace with the science, not just lock in today's best understanding.
+And the methodologies themselves will need to evolve. CDR science moves fast. [Enhanced weathering](/posts/what-is-enhanced-weathering/) MRV protocols are still being debated. Ocean alkalinity enhancement barely has consensus measurement approaches yet. The CRCF will need to keep pace with the science, not just lock in today's best understanding.
 
 ## The Bottom Line
 
