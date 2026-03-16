@@ -36,7 +36,7 @@ The voluntary carbon market has a trust problem. Buyers can't easily tell the di
 
 The [CRCF](/posts/eu-first-cdr-certification-standard/) changes that. As [Latham & Watkins notes](https://www.globalelr.com/2026/03/carbon-removals-and-carbon-farming-recent-eu-developments/), it's "to our knowledge, the first government-issued label for voluntary credits." Government-accredited certifiers. Standardized methodologies. Transparent quality criteria.
 
-That carries weight. If you're a corporate buyer trying to meet net-zero commitments, a CRCF-certified credit comes with a level of scrutiny that purely private labels can't match. And where scrutiny goes, premium pricing follows. Project developers who get certified early could command higher prices — which means more revenue flowing into CDR deployment.
+That carries weight. If you're a corporate buyer trying to meet net-zero commitments, a [CRCF](/posts/eu-first-cdr-certification-standard/)-certified credit comes with a level of scrutiny that purely private labels can't match. And where scrutiny goes, premium pricing follows. Project developers who get certified early could command higher prices — which means more revenue flowing into CDR deployment.
 
 ## The ETS Connection
 
