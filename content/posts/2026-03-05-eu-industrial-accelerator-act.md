@@ -1,6 +1,7 @@
 ---
 title: "The EU's Industrial Accelerator Act: What It Means for Carbon Removal"
 date: 2026-03-05
+slug: eu-industrial-accelerator-act
 draft: false
 tags: ["EU", "policy", "Industrial Accelerator Act", "CRCF", "carbon removal", "CDR", "climate policy", "CCS"]
 description: "The European Commission's new Industrial Accelerator Act includes low-carbon procurement rules and decarbonization targets. But NGOs warn it could entrench CCS at the expense of genuine CDR."

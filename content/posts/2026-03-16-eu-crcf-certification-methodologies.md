@@ -34,7 +34,7 @@ For each category, the delegated act now specifies how to measure, verify, and c
 
 The voluntary carbon market has a trust problem. Buyers can't easily tell the difference between a high-integrity CDR credit and one backed by questionable methodology. Existing labels — Verra's CCB, the ICVCM's Core Carbon Principles — are industry-run. Useful, but not government-backed.
 
-The CRCF changes that. As [Latham & Watkins notes](https://www.globalelr.com/2026/03/carbon-removals-and-carbon-farming-recent-eu-developments/), it's "to our knowledge, the first government-issued label for voluntary credits." Government-accredited certifiers. Standardized methodologies. Transparent quality criteria.
+The [CRCF](/posts/eu-first-cdr-certification-standard/) changes that. As [Latham & Watkins notes](https://www.globalelr.com/2026/03/carbon-removals-and-carbon-farming-recent-eu-developments/), it's "to our knowledge, the first government-issued label for voluntary credits." Government-accredited certifiers. Standardized methodologies. Transparent quality criteria.
 
 That carries weight. If you're a corporate buyer trying to meet net-zero commitments, a CRCF-certified credit comes with a level of scrutiny that purely private labels can't match. And where scrutiny goes, premium pricing follows. Project developers who get certified early could command higher prices — which means more revenue flowing into CDR deployment.
 

@@ -1,6 +1,7 @@
 ---
 title: "Germany Puts €98 Million Into CDR — Its First Dedicated Federal Budget Line Ever"
 date: 2026-03-08T12:00:00+01:00
+slug: germany-98m-cdr-budget
 draft: false
 tags: ["CDR", "Germany", "policy", "ERW", "biochar", "Novocarbo", "InPlanet"]
 categories: ["Policy"]

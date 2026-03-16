@@ -1,6 +1,7 @@
 ---
 title: "New Nature Paper: Scaling CDR to Gigatons Could Strain Global Mineral and Nutrient Supplies"
 date: 2026-03-08T10:15:00+01:00
+slug: nature-cdr-resource-limits
 draft: false
 tags: ["CDR", "research", "Nature", "resource limits", "biochar", "DAC", "ocean liming"]
 categories: ["Science"]

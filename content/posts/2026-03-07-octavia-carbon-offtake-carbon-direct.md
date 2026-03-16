@@ -2,6 +2,7 @@
 title: "Octavia Carbon Secures New Offtake Agreement via Carbon Direct"
 description: "Kenya-based direct air capture company Octavia Carbon just locked in a new offtake agreement, facilitated by Carbon Direct. It's the latest signal that..."
 date: 2026-03-07T08:30:00+01:00
+slug: octavia-carbon-offtake-carbon-direct
 draft: false
 tags: ["DAC", "Kenya", "offtake", "CDI portfolio", "Global South"]
 categories: ["News"]

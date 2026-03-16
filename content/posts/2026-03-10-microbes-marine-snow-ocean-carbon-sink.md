@@ -1,6 +1,7 @@
 ---
 title: "Microbes on Marine Snow May Limit How Deep Carbon Actually Sinks"
 date: 2026-03-10
+slug: microbes-marine-snow-ocean-carbon-sink
 draft: false
 description: "New research reveals bacteria hitchhiking on sinking particles dissolve calcium carbonate faster than expected, with implications for ocean CDR."
 cover:

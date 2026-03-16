@@ -1,6 +1,7 @@
 ---
 title: "IEA Report: Carbon Removal Is Now One of the Hottest VC Categories in Energy"
 date: 2026-03-08T08:30:00+01:00
+slug: iea-cdr-top-vc-bet
 draft: false
 tags: ["CDR", "IEA", "venture capital", "investment", "policy"]
 categories: ["Market Intel"]

@@ -1,6 +1,7 @@
 ---
 title: "Japan's Largest Energy Firm Just Bet on Direct Air Capture"
 date: 2026-03-09T12:30:00+01:00
+slug: airmyne-eneos-dac-partnership
 draft: false
 tags: ["DAC", "Japan", "investment", "ENEOS", "AirMyne"]
 categories: ["Companies"]
