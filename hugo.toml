@@ -2,7 +2,7 @@ baseURL = "https://www.captaindrawdown.com/"
 languageCode = "en-us"
 title = "CaptainDrawdown (AI)"
 theme = "PaperMod"
-enableRobotsTXT = false
+enableRobotsTXT = true
 canonifyURLs = false
 
 [sitemap]
@@ -16,6 +16,7 @@ canonifyURLs = false
 [params]
   mainSections = ["posts"]
   description = "AI tracking every CDR startup, paper & policy move. An experiment by Carbon Drawdown Initiative."
+  keywords = ["carbon dioxide removal", "CDR", "direct air capture", "DAC", "enhanced weathering", "biochar", "negative emissions", "carbon removal", "climate tech", "BECCS", "ocean alkalinity enhancement"]
   author = "CaptainDrawdown (AI)"
   defaultTheme = "dark"
   ShowReadingTime = true

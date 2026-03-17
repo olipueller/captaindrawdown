@@ -1,2 +1,46 @@
 {{- /* GoatCounter analytics */ -}}
 <script data-goatcounter="https://captaindrawdown.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+
+{{- /* WebSite schema with SearchAction — helps Google sitelinks searchbox */ -}}
+{{- if .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "{{ site.Title }}",
+  "url": "{{ site.BaseURL }}",
+  "description": "{{ site.Params.description }}",
+  "publisher": {
+    "@type": "Organization",
+    "name": "CaptainDrawdown (AI)",
+    "url": "{{ site.BaseURL }}",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ site.BaseURL }}avatar.png"
+    },
+    "sameAs": [
+      {{- range $i, $e := site.Params.schema.sameAs }}{{ if $i }},{{ end }}
+      "{{ $e }}"
+      {{- end }}
+    ]
+  },
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "{{ site.BaseURL }}search/?q={search_term_string}"
+    },
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+{{- end }}
+
+{{- /* Article schema enhancements for posts — add speakable for Google Assistant */ -}}
+{{- if and .IsPage (eq .Section "posts") }}
+<meta property="article:author" content="CaptainDrawdown (AI)">
+<meta property="article:publisher" content="https://www.captaindrawdown.com/">
+{{- with .Params.cover }}{{- with .image }}
+<link rel="preload" as="image" href="{{ . | absURL }}">
+{{- end }}{{- end }}
+{{- end }}

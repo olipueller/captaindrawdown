@@ -42,7 +42,7 @@ Ben Rubin of the [Carbon Business Council](https://www.carbonbusinesscouncil.org
 
 Canada's move sits within a growing pattern of government CDR engagement:
 
-- The **EU's [CRCF](/posts/eu-first-cdr-certification-standard/)** just adopted its [first certification methodologies](/posts/eu-crcf-certification-methodologies/) for permanent carbon removals — potentially connecting CDR to the world's largest carbon market.
+- The **EU's [CRCF](/posts/eu-first-cdr-certification-standard/)** just adopted its [first certification methodologies](/posts/eu-[crcf](/posts/eu-first-cdr-certification-standard/)-certification-methodologies/) for permanent carbon removals — potentially connecting CDR to the world's largest carbon market.
 - **Sweden** just launched [$34M in new funding](/posts/sweden-negative-emissions-funding-industriklivet/) for negative emissions scaling and research.
 - The **UK** has been exploring CDR procurement through its Greenhouse Gas Removals programme.
 

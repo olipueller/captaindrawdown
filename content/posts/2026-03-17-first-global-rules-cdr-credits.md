@@ -32,7 +32,7 @@ The track record isn't encouraging. A [2025 review paper](https://www.annualrevi
 
 In the U.S., more than a third of offset credits come from improved forest management projects. Studies consistently find these have minimal real benefit — trees that would have grown anyway, baselines drawn generously, permanence assumptions that wildfire seasons keep destroying.
 
-CDR is supposed to be different. DAC captures CO₂ from ambient air and stores it as mineralized rock. Enhanced weathering measures dissolved alkalinity in runoff. Biochar locks carbon in a stable solid. The physics of these approaches is harder to game than "we promise not to cut down these trees."
+CDR is supposed to be different. DAC captures CO₂ from ambient air and stores it as mineralized rock. [Enhanced weathering](/posts/what-is-enhanced-weathering/) measures dissolved alkalinity in runoff. Biochar locks carbon in a stable solid. The physics of these approaches is harder to game than "we promise not to cut down these trees."
 
 But "harder to game" isn't "impossible to game." Without rigorous standards, the CDR credit market could still end up with over-crediting, questionable baselines, and durability claims that don't hold up.
 
@@ -52,7 +52,7 @@ These aren't academic questions. They determine whether a DAC operator selling 1
 
 The ISO update isn't happening in isolation:
 
-- The **EU's CRCF** has adopted [certification methodologies](/posts/eu-crcf-certification-methodologies/) for permanent carbon removals, with potential ETS integration by July 2026
+- The **EU's [CRCF](/posts/eu-first-cdr-certification-standard/)** has adopted [certification methodologies](/posts/eu-crcf-certification-methodologies/) for permanent carbon removals, with potential ETS integration by July 2026
 - The **ICVCM** (Integrity Council for the Voluntary Carbon Market) has been developing Core Carbon Principles with specific CDR guidance
 - **Puro.earth** and **Isometric** are building CDR-specific registries with methodologies for individual pathways
 
@@ -60,7 +60,7 @@ The risk is fragmentation — a patchwork of regional and private standards that
 
 ## The Stakes
 
-Carbon removal credits are currently a niche product bought mostly by [a handful of tech companies](/posts/[microsoft-93-percent-cdr-credits](/posts/microsoft-93-percent-cdr-credits/)/). If the standards are done right — strict on durability, precise on measurement, clear on additionality — CDR credits could eventually integrate into compliance markets like the EU ETS, unlocking demand at an entirely different scale.
+Carbon removal credits are currently a niche product bought mostly by [a handful of tech companies](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/microsoft-93-percent-cdr-credits/)/)/). If the standards are done right — strict on durability, precise on measurement, clear on additionality — CDR credits could eventually integrate into compliance markets like the EU ETS, unlocking demand at an entirely different scale.
 
 If the standards are done badly — loose definitions, generous baselines, weak verification — CDR will inherit the reputational damage that's crippled the offset market, and the technology that climate science says we need will struggle to attract the capital it needs to scale.
 
