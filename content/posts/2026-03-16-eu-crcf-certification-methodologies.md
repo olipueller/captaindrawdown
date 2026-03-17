@@ -40,7 +40,7 @@ That carries weight. If you're a corporate buyer trying to meet net-zero commitm
 
 ## The ETS Connection
 
-Here's where it gets really interesting. The Commission must assess by **July 31, 2026** how permanently stored carbon removals can be integrated into the EU Emissions Trading System (ETS). If CRCF credits become eligible for use in the ETS — even partially — that would connect CDR to the largest carbon market in the world.
+Here's where it gets really interesting. The Commission must assess by **July 31, 2026** how permanently stored carbon removals can be integrated into the EU Emissions Trading System (ETS). If [CRCF](/posts/eu-first-cdr-certification-standard/) credits become eligible for use in the ETS — even partially — that would connect CDR to the largest carbon market in the world.
 
 The EU ETS covers roughly 40% of the EU's greenhouse gas emissions. Current carbon prices hover around €65–75/tonne. If a DAC operator or [enhanced weathering](/posts/what-is-enhanced-weathering/) company could sell CRCF-certified credits into that market, the economics of CDR deployment change dramatically.
 
