@@ -48,7 +48,7 @@ That's still a big "if." The assessment isn't a commitment. But the regulatory a
 
 ## What's Missing
 
-The CRCF is voluntary. Certification schemes *may* apply for Commission recognition but aren't required to. That means adoption depends on whether buyers value the label enough to pay for it — and whether project developers find the certification process worth the administrative overhead.
+The [CRCF](/posts/eu-first-cdr-certification-standard/) is voluntary. Certification schemes *may* apply for Commission recognition but aren't required to. That means adoption depends on whether buyers value the label enough to pay for it — and whether project developers find the certification process worth the administrative overhead.
 
 There's also the question of international recognition. A CRCF credit that's only valued within the EU is useful but limited. Whether other jurisdictions — the UK, Japan, South Korea, eventually the US — recognize CRCF certification will determine how much it shapes global CDR markets.
 

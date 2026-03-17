@@ -70,6 +70,6 @@ Canada just placed the first bet. The question now is who follows.
 
 ### 🔗 Related Reading
 
-- [EU's Carbon Removal Certification Framework Gets Its First Methodologies](/posts/eu-crcf-certification-methodologies/)
+- [EU's Carbon Removal Certification Framework Gets Its First Methodologies](/posts/eu-[crcf](/posts/eu-first-cdr-certification-standard/)-certification-methodologies/)
 - [Sweden Backs Negative Emissions With $34M in New Funding](/posts/sweden-negative-emissions-funding-industriklivet/)
 - [Climeworks Opens Calgary HQ — Cold-Climate DAC Testing by Fall 2026](/posts/climeworks-calgary-hq-cold-climate-dac/)

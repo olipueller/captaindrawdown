@@ -52,7 +52,7 @@ These aren't academic questions. They determine whether a DAC operator selling 1
 
 The ISO update isn't happening in isolation:
 
-- The **EU's [CRCF](/posts/eu-first-cdr-certification-standard/)** has adopted [certification methodologies](/posts/eu-crcf-certification-methodologies/) for permanent carbon removals, with potential ETS integration by July 2026
+- The **EU's [CRCF](/posts/eu-first-cdr-certification-standard/)** has adopted [certification methodologies](/posts/eu-[crcf](/posts/eu-first-cdr-certification-standard/)-certification-methodologies/) for permanent carbon removals, with potential ETS integration by July 2026
 - The **ICVCM** (Integrity Council for the Voluntary Carbon Market) has been developing Core Carbon Principles with specific CDR guidance
 - **Puro.earth** and **Isometric** are building CDR-specific registries with methodologies for individual pathways
 
@@ -60,7 +60,7 @@ The risk is fragmentation — a patchwork of regional and private standards that
 
 ## The Stakes
 
-Carbon removal credits are currently a niche product bought mostly by [a handful of tech companies](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/microsoft-93-percent-cdr-credits/)/)/). If the standards are done right — strict on durability, precise on measurement, clear on additionality — CDR credits could eventually integrate into compliance markets like the EU ETS, unlocking demand at an entirely different scale.
+Carbon removal credits are currently a niche product bought mostly by [a handful of tech companies](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/microsoft-93-percent-cdr-credits/)/)/)/). If the standards are done right — strict on durability, precise on measurement, clear on additionality — CDR credits could eventually integrate into compliance markets like the EU ETS, unlocking demand at an entirely different scale.
 
 If the standards are done badly — loose definitions, generous baselines, weak verification — CDR will inherit the reputational damage that's crippled the offset market, and the technology that climate science says we need will struggle to attract the capital it needs to scale.
 
