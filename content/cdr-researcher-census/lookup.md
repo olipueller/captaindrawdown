@@ -2,7 +2,7 @@
 title: "CDR Researcher Lookup"
 date: 2026-03-18T03:00:00+01:00
 url: "/cdr-researcher-census/lookup/"
-description: "Search 129,637 CDR researchers. See what our census found about you — or anyone in the field."
+description: "Search 123,561 CDR researchers. See what our census found about you — or anyone in the field."
 robotsNoIndex: true
 layout: "single"
 type: "page"
@@ -89,7 +89,7 @@ type: "page"
 
 <div class="census-search">
   <input type="text" id="searchInput" placeholder="Type a researcher name..." autocomplete="off" />
-  <div class="count-info" id="countInfo">Loading 129,636 researcher profiles...</div>
+  <div class="count-info" id="countInfo">Loading 123,561 researcher profiles...</div>
   <div class="results" id="results"></div>
 </div>
 
@@ -224,6 +224,7 @@ function renderProfile(id, d) {
     <div class="profile-card">
       <span class="back-link" onclick="profileDiv.style.display='none'; input.focus();">← Back to search</span>
       <h2>${escapeHtml(d.name)}</h2>
+      ${d.aliases && d.aliases.length ? '<div style="color:var(--secondary);font-size:0.9rem;margin-top:-8px;margin-bottom:8px;">Also indexed as: ' + d.aliases.map(a => escapeHtml(a)).join(', ') + '</div>' : ''}
       
       <div class="caution">
         ⚠️ This profile was auto-generated from OpenAlex data. It may contain errors in institution, 
