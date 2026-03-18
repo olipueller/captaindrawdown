@@ -4,7 +4,8 @@ date: 2026-03-18T08:00:00+01:00
 slug: "cdr-census-top-researchers"
 description: "The 10 most prolific researchers in each CDR pathway, with clickable ORCID links. Transparency builds trust — but it also exposes our method's limitations."
 tags: ["CDR", "carbon removal", "researchers", "DAC", "enhanced weathering", "biochar", "BECCS", "ocean CDR"]
-draft: true
+robotsNoIndex: true
+hidenInHomeInfo: true
 cover:
   image: ""
   alt: "Top CDR Researchers"

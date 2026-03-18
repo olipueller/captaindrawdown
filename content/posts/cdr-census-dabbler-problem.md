@@ -4,7 +4,8 @@ date: 2026-03-18T08:00:00+01:00
 slug: "cdr-census-dabbler-problem"
 description: "66% of CDR researchers have it as less than 10% of their work. But the trajectory data reveals something more nuanced — and more hopeful."
 tags: ["CDR", "carbon removal", "research", "talent", "career", "census"]
-draft: true
+robotsNoIndex: true
+hidenInHomeInfo: true
 cover:
   image: ""
   alt: "CDR Research Commitment"

@@ -4,7 +4,8 @@ date: 2026-03-18T08:00:00+01:00
 slug: "cdr-researcher-census"
 description: "129,637 researchers. 39,278 papers. 185 countries. 7 CDR pathways. The first researcher-centric census of the carbon dioxide removal field."
 tags: ["CDR", "carbon removal", "research", "census", "OpenAlex", "scientists"]
-draft: true
+robotsNoIndex: true
+hidenInHomeInfo: true
 cover:
   image: ""
   alt: "CDR Researcher Census"
