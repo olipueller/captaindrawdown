@@ -134,17 +134,30 @@ function doSearch() {
     return;
   }
   
-  // Search by name prefix (fast)
-  const matches = [];
+  // Search with relevance ranking
+  const candidates = [];
   const qParts = q.split(/\s+/);
   for (const item of searchData) {
     const nameLower = item.name.toLowerCase();
-    // All query parts must match somewhere in the name
-    if (qParts.every(p => nameLower.includes(p))) {
-      matches.push(item);
-      if (matches.length >= 20) break;
+    if (!qParts.every(p => nameLower.includes(p))) continue;
+    // Score: exact match > starts-with > contains. Bonus for h-index.
+    let score = 0;
+    if (nameLower === q) score += 1000;  // Exact match
+    else if (nameLower.startsWith(q)) score += 500;  // Starts with full query
+    else {
+      // Check if last name matches (most useful signal)
+      const lastQ = qParts[qParts.length - 1];
+      const nameParts = nameLower.split(' ');
+      if (nameParts[nameParts.length - 1] === lastQ) score += 300;
+      else if (nameParts[nameParts.length - 1].startsWith(lastQ)) score += 200;
     }
+    score += Math.min(item.h, 100);  // h-index tiebreak (capped)
+    candidates.push({...item, score});
+    if (candidates.length >= 100) break;  // Pre-filter cap
   }
+  // Sort by score descending, take top 20
+  candidates.sort((a, b) => b.score - a.score);
+  const matches = candidates.slice(0, 20);
   
   if (matches.length === 0) {
     resultsDiv.innerHTML = '<div class="result-item"><span class="result-meta">No results found. Try a different spelling.</span></div>';
