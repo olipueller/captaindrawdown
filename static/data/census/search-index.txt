@@ -20114,7 +20114,6 @@ David Bastviken|A5078790493|SE|DAC|72
 David Bauer|A5019696697|DE|Soil Carbon|1
 David Bazak|A5075575224|US|DAC|18
 David Bednarski|A5040073830|US|General CDR|8
-David Beerling|A5128879317||General CDR|0
 David Beltrán-Marcos|A5060677174|ES|Soil Carbon|9
 David Benavente|A5067752615|ES|General CDR|46
 David Benn|A5128340154||Soil Carbon|0
@@ -20253,12 +20252,7 @@ David I. Wilson|A5102012314|NZ|Soil Carbon|26
 David Ismangil|A5092507878|NL|General CDR|1
 David Izikowitz|A5049820728|CN|DAC|5
 David Izuchukwu Ugwu|A5070731458|NG|Biochar|17
-David J Beerling|A5127472970|GB|Enhanced Weathering|0
 David J. Beerling|A5073877737|GB|Enhanced Weathering|95
-David J. Beerling|A5129034877|GB|General CDR|0
-David J. Beerling|A5124051408|GB|General CDR|0
-David J. Beerling|A5124748518|GB|General CDR|0
-David J. Beerling|A5126276693|GB|General CDR|0
 David J. Bottjer|A5061379088|US|Enhanced Weathering|67
 David J. Castillo David J. Castillo|A5114060086||Soil Carbon|0
 David J. Dowling|A5024157568|US|BECCS|31
@@ -42141,12 +42135,6 @@ Jens O. Krömer|A5024569149|DE|BECCS|39
 Jens Poetsch|A5032448671|DE|Soil Carbon|6
 Jens Redemann|A5049228917|US|DAC|59
 Jens Rubner|A5079208358|DE|General CDR|7
-Jens S Hammes|A5123346277||Enhanced Weathering|0
-Jens S. Hammes|A5036555324|DE|Enhanced Weathering|1
-Jens S. Hammes|A5129070558|PL|General CDR|0
-Jens S. Hammes|A5124706957|US|General CDR|0
-Jens S. Hammes|A5121978666|PL|Ocean CDR|0
-Jens S. Hammes|A5123441706||Enhanced Weathering|0
 Jens Schuster|A5045804562|DE|General CDR|13
 Jens Strauß|A5005729469|DE|Enhanced Weathering|34
 Jens Zinke|A5045277524|GB|Ocean CDR|39
@@ -73142,16 +73130,10 @@ Noa Dijstelbloem|A5116439458|US|General CDR|0
 Noah Bretz|A5106279210|US|General CDR|0
 Noah Fierer|A5090803123|US|General CDR|142
 Noah Francis Ryoichi Vento|A5059394235|US|Enhanced Weathering|2
-Noah J Planavsky|A5128598402|GB|General CDR|0
 Noah J. Planavsky|A5031830595|US|Enhanced Weathering|82
-Noah J. Planavsky|A5128961118|US|General CDR|0
-Noah J. Planavsky|A5121021855|US|Enhanced Weathering|1
-Noah J. Planavsky|A5125090044||Enhanced Weathering|0
 Noah M. Pauline|A5059135439|TZ|General CDR|10
 Noah McQueen|A5036880054|US|DAC|12
 Noah Mohammed Saleh|A5034274121||General CDR|9
-Noah Planavsky|A5128910431||General CDR|0
-Noah Planavsky|A5127431075|US|Enhanced Weathering|0
 Noah S. Diffenbaugh|A5073005936|US|General CDR|69
 Noah Shannon|A5072474499|US|DAC|3
 Noah Steinacher|A5116276063|AT|Enhanced Weathering|2
@@ -76982,12 +76964,6 @@ Pete H. Anderson|A5072755379|US|Soil Carbon|5
 Pete Ingraham|A5006010001|US|Soil Carbon|13
 Pete Pearson|A5122090280||Soil Carbon|0
 Pete Smith|A5028843362|GB|Soil Carbon|169
-Pete Smith|A5129091938|GB|Soil Carbon|0
-Pete Smith|A5052928990|GB|BECCS|2
-Pete Smith|A5123630306|GB|Soil Carbon|0
-Pete Smith|A5123760272|GB|Soil Carbon|0
-Pete Smith|A5121808542|GB|Soil Carbon|1
-Pete Smith|A5123507396|GB|Soil Carbon|0
 Pete Whittington|A5065808417|CA|Soil Carbon|16
 Peter A Bonis|A5063806000|HU|Soil Carbon|37
 Peter A. Cawood|A5006685240|AU|Enhanced Weathering|107
@@ -77487,15 +77463,6 @@ Philippe Bryère|A5087424391|FR|General CDR|15
 Philippe C. Baveye|A5084710018|CH|Soil Carbon|61
 Philippe Choler|A5066803237||Enhanced Weathering|52
 Philippe Ciais|A5070378593|FR|General CDR|221
-Philippe Ciais|A5125338244|FR|General CDR|0
-Philippe Ciais|A5121899019|FR|General CDR|0
-Philippe Ciais|A5123985638||General CDR|0
-Philippe Ciais|A5129033273|FR|Soil Carbon|0
-Philippe Ciais|A5108709215|FR|BECCS|16
-Philippe Ciais|A5122367882|FR|Enhanced Weathering|0
-Philippe Ciais|A5126545699||Ocean CDR|0
-Philippe Ciais|A5128401604|FR|Soil Carbon|0
-Philippe Ciais|A5109965481|FR|Soil Carbon|15
 Philippe Ciffroy|A5011689517|FR|Soil Carbon|22
 Philippe Claeys|A5032588554|BE|Enhanced Weathering|54
 Philippe Colomban|A5041064899|FR|DAC|73
@@ -99760,14 +99727,6 @@ Tomoki Nakamura|A5040687148|TW|Enhanced Weathering|54
 Tomoki Nakayama|A5050550034|JP|Enhanced Weathering|32
 Tomoki Takahashi|A5064121789|JP|Soil Carbon|24
 Tomoko Hasegawa|A5060236040|US|General CDR|62
-Tomoko Hasegawa|A5124356546|JP|General CDR|0
-Tomoko Hasegawa|A5123840358|JP|General CDR|1
-Tomoko Hasegawa|A5124310879|JP|General CDR|0
-Tomoko Hasegawa|A5125690600|JP|General CDR|0
-Tomoko Hasegawa|A5127883758|JP|General CDR|0
-Tomoko Hasegawa|A5129021039||General CDR|0
-Tomoko Hasegawa|A5126039315|JP|BECCS|0
-Tomoko Hasegawa|A5122356365|JP|BECCS|0
 Tomoko Kato|A5104088213|JP|BECCS|5
 Tomoko Komada|A5066138754|US|Ocean CDR|24
 Tomomi KANEMITSU|A5027957511|JP|Ocean CDR|4
@@ -110903,14 +110862,6 @@ Yajun Zhang|A5100443320|CN|DAC|8
 Yakdiel Rodríguez-Gallo|A5009077967|SV|Soil Carbon|4
 Yakhari Kashung|A5030112450|IN|Soil Carbon|2
 Yakov Kuzyakov|A5062508940|RU|Soil Carbon|142
-Yakov Kuzyakov|A5102656365||Soil Carbon|5
-Yakov Kuzyakov|A5123744492|DE|Soil Carbon|0
-Yakov Kuzyakov|A5129076037|DE|Soil Carbon|0
-Yakov Kuzyakov|A5122128953|DE|Soil Carbon|0
-Yakov Kuzyakov|A5128900751||Soil Carbon|0
-Yakov Kuzyakov|A5128426458|RU|Soil Carbon|0
-Yakov Kuzyakov|A5122459779|RU|Soil Carbon|0
-Yakov Kuzyakov|A5128785875|RU|Soil Carbon|0
 Yakubu Azeh|A5027622259|NG|Biochar|11
 Yakui Chen|A5042445042|CN|Soil Carbon|3
 Yakui Shao|A5028995579|CN|Soil Carbon|10
