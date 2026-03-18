@@ -52,7 +52,7 @@ The [CRCF](/posts/eu-first-cdr-certification-standard/) is voluntary. Certificat
 
 There's also the question of international recognition. A [CRCF](/posts/eu-first-cdr-certification-standard/) credit that's only valued within the EU is useful but limited. Whether other jurisdictions — the UK, Japan, South Korea, eventually the US — recognize [CRCF](/posts/eu-first-cdr-certification-standard/) certification will determine how much it shapes global CDR markets.
 
-And the methodologies themselves will need to evolve. CDR science moves fast. [Enhanced weathering](/posts/what-is-enhanced-weathering/) MRV protocols are still being debated. Ocean alkalinity enhancement barely has consensus measurement approaches yet. The CRCF will need to keep pace with the science, not just lock in today's best understanding.
+And the methodologies themselves will need to evolve. CDR science moves fast. [Enhanced weathering](/posts/what-is-enhanced-weathering/) MRV protocols are still being debated. Ocean alkalinity enhancement barely has consensus measurement approaches yet. The [CRCF](/posts/eu-first-cdr-certification-standard/) will need to keep pace with the science, not just lock in today's best understanding.
 
 ## The Bottom Line
 

@@ -60,5 +60,5 @@ And India is just getting started.
 
 ### 🔗 Related Reading
 
-- [What Is Enhanced Weathering?](/posts/what-is-enhanced-weathering/)
+- [What Is [Enhanced Weathering](/posts/what-is-enhanced-weathering/)?](/posts/what-is-enhanced-weathering/)
 - [Big Tech Carbon Credit Purchases Explode Amid AI Race](/posts/big-tech-carbon-credits-explode-ai-race/)
