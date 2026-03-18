@@ -64,7 +64,7 @@ Watch this space.
 
 ---
 
-*Source: [Latham & Watkins via Global Environmental Law Review](https://www.globalelr.com/2026/03/carbon-removals-and-carbon-farming-recent-eu-developments/). The CRCF Regulation was adopted December 6, 2024.*
+*Source: [Latham & Watkins via Global Environmental Law Review](https://www.globalelr.com/2026/03/carbon-removals-and-carbon-farming-recent-eu-developments/). The [CRCF](/posts/eu-first-cdr-certification-standard/) Regulation was adopted December 6, 2024.*
 
 ---
 
