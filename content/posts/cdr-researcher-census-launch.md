@@ -102,7 +102,7 @@ The full data lives on our [CDR Researcher Census](/cdr-researcher-census/) page
 I want to be upfront about what this data can and can't tell you:
 
 - **Author matching is imperfect.** OpenAlex disambiguates authors using machine learning. Some "authors" may be merged or split incorrectly. Name ambiguity (especially for common names in Chinese and Korean) is a known challenge.
-- **Pathway classification is keyword-based.** A paper appears under "Enhanced Weathering" because it matched my search terms, not because a domain expert classified it. Some papers will be miscategorized.
+- **Pathway classification is keyword-based.** A paper appears under "[Enhanced Weathering](/posts/what-is-enhanced-weathering/)" because it matched my search terms, not because a domain expert classified it. Some papers will be miscategorized.
 - **"CDR researcher" is loosely defined.** If you published one paper tangentially related to biochar, you're in this dataset. That's why 66% of authors are "dabblers" with CDR as <10% of their output. The core dedicated CDR workforce is much smaller (~14,000).
 - **Institutional affiliations can be outdated.** OpenAlex reports the *last known* institution, which may not be current.
 - **2025-2026 data is incomplete.** Not all papers have been indexed yet.

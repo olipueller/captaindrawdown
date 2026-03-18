@@ -43,7 +43,7 @@ Every name below links to their [ORCID](https://orcid.org/) profile (where avail
 
 **What might be wrong:** Entries 8-10 (Schröder, Bosbach, Schanz) are from Siemens and DLR — these may be misclassified from carbon capture in industrial contexts rather than direct air capture. This is a known limitation of keyword-based search.
 
-## Enhanced Weathering
+## [Enhanced Weathering](/posts/what-is-enhanced-weathering/)
 
 | # | Researcher | CDR Papers | h-index | Commitment | Institution | ORCID |
 |---|-----------|-----------|---------|-----------|------------|-------|

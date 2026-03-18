@@ -56,7 +56,7 @@ And the methodologies themselves will need to evolve. CDR science moves fast. [E
 
 ## The Bottom Line
 
-Regulated markets attract serious capital. The voluntary carbon market is worth roughly $2 billion. The EU ETS trades over €700 billion per year. If the CRCF creates a credible bridge between CDR and compliance markets, it could unlock investment at a scale that voluntary commitments alone never will.
+Regulated markets attract serious capital. The voluntary carbon market is worth roughly $2 billion. The EU ETS trades over €700 billion per year. If the [CRCF](/posts/eu-first-cdr-certification-standard/) creates a credible bridge between CDR and compliance markets, it could unlock investment at a scale that voluntary commitments alone never will.
 
 This isn't exciting the way a new DAC plant is exciting. It's a delegated act with certification methodologies. But market infrastructure is how technologies go from demonstration to deployment. The EU is building that infrastructure.
 

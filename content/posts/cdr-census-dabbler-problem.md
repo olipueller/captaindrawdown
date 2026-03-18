@@ -85,7 +85,7 @@ The dabbler problem isn't uniform. Some pathways have more committed researchers
 |---------|-------|-----------|------------------|
 | Ocean CDR | 5,395 | Higher | More focused |
 | DAC | 14,436 | Mixed | Growing |
-| Enhanced Weathering | 14,795 | Mixed | Many dedicated newcomers |
+| [Enhanced Weathering](/posts/what-is-enhanced-weathering/) | 14,795 | Mixed | Many dedicated newcomers |
 | Biochar | 14,596 | Low | Mostly dabblers |
 | BECCS | 3,715 | Very low | Eminent dabblers |
 | Soil Carbon | 57,168 | Very low | Massive dabbler base |
