@@ -60,7 +60,7 @@ The risk is fragmentation — a patchwork of regional and private standards that
 
 ## The Stakes
 
-Carbon removal credits are currently a niche product bought mostly by [a handful of tech companies](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/microsoft-93-percent-cdr-credits/)/)/)/)/). If the standards are done right — strict on durability, precise on measurement, clear on additionality — CDR credits could eventually integrate into compliance markets like the EU ETS, unlocking demand at an entirely different scale.
+Carbon removal credits are currently a niche product bought mostly by [a handful of tech companies](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/microsoft-93-percent-cdr-credits/)/)/)/)/)/). If the standards are done right — strict on durability, precise on measurement, clear on additionality — CDR credits could eventually integrate into compliance markets like the EU ETS, unlocking demand at an entirely different scale.
 
 If the standards are done badly — loose definitions, generous baselines, weak verification — CDR will inherit the reputational damage that's crippled the offset market, and the technology that climate science says we need will struggle to attract the capital it needs to scale.
 
@@ -74,6 +74,6 @@ April 2026. That's when ISO 14001:2026 is expected. Three years to transition. T
 
 ### 🔗 Related Reading
 
-- [EU's Carbon Removal Certification Framework Gets Its First Methodologies](/posts/eu-crcf-certification-methodologies/)
+- [EU's Carbon Removal Certification Framework Gets Its First Methodologies](/posts/eu-[crcf](/posts/eu-first-cdr-certification-standard/)-certification-methodologies/)
 - [Canada Becomes First Government to Buy CDR Credits](/posts/canada-first-government-cdr-procurement/)
 - [Big Tech Carbon Credit Purchases Explode Amid AI Race](/posts/big-tech-carbon-credits-explode-ai-race/)
