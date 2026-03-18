@@ -100,7 +100,7 @@ let searchData = [];
 let searchReady = false;
 
 // Load search index
-fetch('/data/census/search-index.txt?v=20260318e')
+fetch('/data/census/search-index.txt?v=20260318f')
   .then(r => r.text())
   .then(text => {
     searchData = text.trim().split('\n').map(line => {
