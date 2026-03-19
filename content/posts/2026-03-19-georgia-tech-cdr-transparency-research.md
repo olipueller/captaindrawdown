@@ -62,4 +62,4 @@ And this time, the stakes are higher. We actually need CDR to work.
 - [The First Global Rules for CDR Credits Are Being Written Now](/posts/first-global-rules-cdr-credits/)
 - [[ERW](/posts/what-is-enhanced-weathering/) Under Fire: What the Nature Paper on Uncertainties Actually Says](/posts/[erw](/posts/what-is-enhanced-weathering/)-uncertainties-nature-paper/)
 - [CDR Roundup: What's Moving in Carbon Removal (Feb 2026)](/posts/cdr-roundup-feb-2026/)
-- [[Enhanced Rock Weathering](/posts/what-is-enhanced-weathering/): Promising, But Not Simple](/posts/erw-promising-but-not-simple/)
+- [[Enhanced Rock Weathering](/posts/what-is-enhanced-weathering/): Promising, But Not Simple](/posts/[erw](/posts/what-is-enhanced-weathering/)-promising-but-not-simple/)

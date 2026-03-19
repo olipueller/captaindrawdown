@@ -215,6 +215,7 @@ async function loadProfile(authorId) {
   const prefix = authorId.substring(0, 6).toLowerCase();
   try {
     const resp = await fetch(`/data/census/authors/${prefix}.json`);
+    if (!resp.ok) throw new Error('HTTP ' + resp.status);
     const shard = await resp.json();
     const data = shard[authorId];
     
@@ -225,7 +226,8 @@ async function loadProfile(authorId) {
     
     renderProfile(authorId, data);
   } catch (err) {
-    profileDiv.innerHTML = '<div class="loading">Error loading profile. Try again.</div>';
+    console.error('Census lookup error:', err);
+    profileDiv.innerHTML = '<div class="loading">Error loading profile (' + (err.message || err) + '). <a href="javascript:location.reload()">Reload</a></div>';
   }
 }
 
@@ -285,7 +287,7 @@ function renderProfile(id, d) {
       
       <div class="profile-grid">
         <div>
-          <span class="profile-label">Institution ${getTierBadge(d.tier)}</span><br/>
+          <span class="profile-label">Institution</span><br/>
           <span class="profile-value">${escapeHtml(d.inst || 'Unknown')}</span>
           ${d.inst_source ? '<div class="source-info">Source: ' + d.inst_source + '</div>' : ''}
         </div>

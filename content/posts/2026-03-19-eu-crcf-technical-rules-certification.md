@@ -18,7 +18,7 @@ Translation: the EU didn't just say "we want certified carbon removal." It speci
 
 ## What the [CRCF](/posts/eu-first-cdr-certification-standard/) Covers
 
-The CRCF Regulation (EU) 2024/3012 established the first EU-wide voluntary certification framework for three categories:
+The [CRCF](/posts/eu-first-cdr-certification-standard/) Regulation (EU) 2024/3012 established the first EU-wide voluntary certification framework for three categories:
 
 - **Permanent carbon removals** — DAC, BECCS, and other engineered approaches with durable storage
 - **Carbon farming** — agricultural and land-use practices that sequester carbon in soils and biomass
