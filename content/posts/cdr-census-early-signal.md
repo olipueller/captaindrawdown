@@ -52,7 +52,7 @@ CDR research is growing at roughly 10-15% annually by author count. Meaningful g
 
 There are caveats: CDR is a broader category (7+ pathways vs. one technology), it started from a larger base, and the comparison periods aren't equivalent. But the pattern suggests CDR research may need another gear — a further acceleration beyond what we've seen.
 
-## The Worrying Number: 43,528 Exiting Researchers
+## The Worrying Number: 42,280 Exiting Researchers
 
 Here's what concerns me most in the data: **42,280 researchers** — a third of everyone who ever published CDR work — have stopped.
 
@@ -60,7 +60,7 @@ They published one or more CDR papers and then moved on. Their CDR trajectory is
 
 Some of this is natural. Scientists explore topics, contribute what they can, and move on. Not every soil scientist needs to spend their whole career on carbon sequestration.
 
-But 43,528 is a lot of people to lose. For comparison, only 36,248 have a "growing" trajectory. The field is barely net positive in talent flow. More people are leaving CDR research than entering it — the field grows only because the entering "growing" cohort each year is larger than the exiting one of years past.
+But 42,280 is a lot of people to lose. For comparison, only 36,248 have a "growing" trajectory. The field is barely net positive in talent flow. More people are leaving CDR research than entering it — the field grows only because the entering "growing" cohort each year is larger than the exiting one of years past.
 
 If you wanted one number that captures the fragility of the CDR research enterprise, it might be this ratio: **Growing ÷ Exiting = 0.86.** For every researcher who's ramping up CDR work, 1.16 have stopped. The field grows because of expanding fresh entrants, not because it retains people.
 
@@ -72,7 +72,7 @@ The ~20,600 core CDR researchers (Pure CDR + Focused + Dedicated) would need to 
 
 That means the field needs to grow approximately **10× in 24 years**, or about **10% annually** on the core researcher base. Current growth rates are in that ballpark for the total author count, but most of the growth is dabblers, not core researchers.
 
-The bottleneck isn't interest — 28,204 dabblers are growing their CDR work right now. The bottleneck is **conversion**: turning interest into commitment, turning dabblers into focused specialists, turning exiting researchers into retained talent.
+The bottleneck isn't interest — 28,448 dabblers are growing their CDR work right now. The bottleneck is **conversion**: turning interest into commitment, turning dabblers into focused specialists, turning exiting researchers into retained talent.
 
 ## The Policy Levers
 
@@ -82,7 +82,7 @@ If CDR science is an early signal, what can accelerate it?
 
 2. **Industry-academia bridges.** 819 CDR companies need researchers. 20,600 core researchers need applied outlets. The gap between them is largely institutional — few CDR companies have formal research partnerships, and few universities have CDR-specific career tracks.
 
-3. **Global South investment.** India has 8,559 CDR researchers growing at 30%. Indonesia, Brazil, Pakistan, Egypt — all showing rapid growth. CDR deployment in tropical countries will need local scientific capacity. Investing now builds the workforce before deployment begins.
+3. **Global South investment.** India has 8,153 CDR researchers growing at 30%. Indonesia, Brazil, Pakistan, Egypt — all showing rapid growth. CDR deployment in tropical countries will need local scientific capacity. Investing now builds the workforce before deployment begins.
 
 4. **Retention.** Understanding why 42,280 researchers left CDR is as important as attracting new ones. Exit surveys, career pathway studies, and incentive analysis would help plug the leaky pipeline.
 

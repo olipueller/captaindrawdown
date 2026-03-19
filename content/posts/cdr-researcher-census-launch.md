@@ -4,7 +4,7 @@ hiddenInHomeList: true
 title: "I Counted Every CDR Researcher on Earth. Here's What I Found."
 date: 2026-03-18T08:00:00+01:00
 slug: "cdr-researcher-census"
-description: "122,674 researchers. 39,278 papers. 185 countries. 7 CDR pathways. The first researcher-centric census of the carbon dioxide removal field."
+description: "122,674 researchers. 39,278 papers. 186 countries. 7 CDR pathways. The first researcher-centric census of the carbon dioxide removal field."
 tags: ["CDR", "carbon removal", "research", "census", "OpenAlex", "scientists"]
 robotsNoIndex: true
 hidenInHomeInfo: true
@@ -31,7 +31,7 @@ Over the past several days, I queried [OpenAlex](https://openalex.org/) — the 
 
 This was not a quick search. The pipeline made approximately 135,000 API calls over three days, staying within OpenAlex's official rate limits and [polite pool](https://docs.openalex.org/how-to-use-the-api/rate-limits-and-authentication) guidelines. No scraping, no terms-of-service violations — just patient, systematic data collection.
 
-The result: **122,674 unique researchers** who have authored at least one of **39,278 CDR-related papers**, working at **12,750 institutions** across **185 countries**.
+The result: **122,674 unique researchers** who have authored at least one of **39,278 CDR-related papers**, working at **18,108 institutions** across **186 countries**.
 
 ## How This Compares to Lück et al.
 
@@ -42,12 +42,12 @@ My approach is different:
 | | Lück et al. (2025) | This Census |
 |---|---|---|
 | **Papers** | ~53,000 (37,776 classified) | 39,278 |
-| **Authors** | Not measured | 129,637 |
+| **Authors** | Not measured | 122,674 |
 | **Methods** | 13 categories (incl. nature-based) | 7 tech CDR pathways |
 | **Approach** | Paper-centric (ML classification) | Researcher-centric (author profiling) |
-| **Data source** | OpenAlex | OpenAlex |
+| **Data source** | OpenAlex | OpenAlex + ORCID |
 | **Career data** | No | Yes (stage, trajectory, commitment) |
-| **Institutions** | No | Yes (12,841 mapped) |
+| **Institutions** | No | Yes (18,108 mapped) |
 
 I find fewer papers because my search focuses on technological CDR methods — I deliberately excluded afforestation, forest management, and some nature-based approaches that Lück includes. But I add something they didn't attempt: **profiling every single author**.
 
@@ -59,9 +59,9 @@ Both questions matter. Their work is the foundation mine builds on.
 
 - **129,637** unique researchers have published CDR-related work
 - **39,278** papers across 7 CDR pathways
-- **185** countries represented
-- **12,841** institutions
-- **81,096** researchers have ORCID identifiers (62%) — [you can verify them](https://orcid.org/)
+- **186** countries represented
+- **18,108** institutions
+- **80,519** researchers have ORCID identifiers (66%) — [you can verify them](https://orcid.org/)
 
 ## The Growth Signal
 
@@ -107,7 +107,7 @@ I want to be upfront about what this data can and can't tell you:
 - **Author matching is imperfect.** OpenAlex disambiguates authors using machine learning. Some "authors" may be merged or split incorrectly. Name ambiguity (especially for common names in Chinese and Korean) is a known challenge.
 - **Pathway classification is keyword-based.** A paper appears under "[Enhanced Weathering](/posts/what-is-enhanced-weathering/)" because it matched my search terms, not because a domain expert classified it. Some papers will be miscategorized.
 - **"CDR researcher" is loosely defined.** If you published one paper tangentially related to biochar, you're in this dataset. That's why 69% of authors are "dabblers" with CDR as <10% of their output. The core dedicated CDR workforce is much smaller (~20,600).
-- **Institutional affiliations can be outdated.** OpenAlex reports the *last known* institution, which may not be current.
+- **Institutional affiliations use ORCID where available.** 66% of researchers have ORCID profiles with self-reported affiliations. For the remaining 34%, we fall back to OpenAlex's *last known* institution, which may not be current.
 - **2025-2026 data is incomplete.** Not all papers have been indexed yet.
 
 If you spot errors — a researcher misclassified, an institution wrong, a pathway mislabeled — [please tell me](https://bsky.app/profile/captaindrawdown.bsky.social). Every correction makes this better.
@@ -116,11 +116,11 @@ If you spot errors — a researcher misclassified, an institution wrong, a pathw
 
 **Data source:** [OpenAlex API](https://openalex.org/) (open access, CC0 license)
 **Search strategy:** 11 search queries across 7 CDR pathways, collecting all matching works and their authors
-**Enrichment:** Full author profiles via OpenAlex author endpoint (h-index, institutions, affiliations, ORCID)
+**Enrichment:** Full author profiles via OpenAlex author endpoint (h-index, institutions, affiliations, ORCID) + ORCID API for self-reported institution and country
 **Classification:** Career stage (early/mid/senior/eminent based on h-index and career span), sector, CDR commitment level, publication trajectory
 **Validation benchmark:** [Lück et al. (2025)](https://doi.org/10.1038/s41467-025-56166-9), Nature Communications
 **Pipeline:** ~135,000 API calls over 3 days, all within OpenAlex rate limits
-**Database:** 398 MB SQLite, 122,674 author profiles
+**Database:** 78 MB SQLite, 122,674 author profiles
 
 ---
 

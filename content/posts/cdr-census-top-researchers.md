@@ -15,7 +15,7 @@ cover:
 
 > **⚠️ Work in Progress — First Shot on Goal**
 >
-> Rankings are based on number of CDR papers found in our search, not on subjective importance. Some researchers may be misclassified — a soil scientist whose work touches biochar might appear under the wrong pathway. ORCID links let you verify every name. **If you see errors, tell me** — I'll fix them. [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social) · [X](https://x.com/CaptainDrawdown)
+> Rankings are based on number of CDR papers found in our search, not on subjective importance. Some researchers may be misclassified — a soil scientist whose work touches biochar might appear under the wrong pathway. Institution and country data uses ORCID self-reported affiliations where available (66% of researchers), with OpenAlex as fallback. ORCID links let you verify every name. **If you see errors, tell me** — I'll fix them. [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social) · [X](https://x.com/CaptainDrawdown)
 
 ---
 
@@ -33,7 +33,7 @@ Every name below links to their [ORCID](https://orcid.org/) profile (where avail
 |---|-----------|-----------|---------|-----------|------------|-------|
 | 1 | Christopher W. Jones | 39 | 99 | Dabbler | Georgia Tech 🇺🇸 | [0000-0003-3255-5791](https://orcid.org/0000-0003-3255-5791) |
 | 2 | Ryan P. Lively | 38 | 62 | Part-time | Georgia Tech 🇺🇸 | [0000-0002-8039-4008](https://orcid.org/0000-0002-8039-4008) |
-| 3 | Mijndert van der Spek | 35 | 24 | Focused | — | [0000-0002-3365-2289](https://orcid.org/0000-0002-3365-2289) |
+| 3 | Mijndert van der Spek | 35 | 24 | Focused | ETH Zürich 🇨🇭 | [0000-0002-3365-2289](https://orcid.org/0000-0002-3365-2289) |
 | 4 | Matthew J. Realff | 34 | 45 | Part-time | Georgia Tech 🇺🇸 | [0000-0002-5423-5206](https://orcid.org/0000-0002-5423-5206) |
 | 5 | Radu Custelcean | 32 | 46 | Dabbler | Oak Ridge National Lab 🇺🇸 | [0000-0002-0727-7972](https://orcid.org/0000-0002-0727-7972) |
 | 6 | Susana García | 25 | 36 | Part-time | Heriot-Watt University 🇬🇧 | [0000-0002-3713-311X](https://orcid.org/0000-0002-3713-311X) |
@@ -73,10 +73,10 @@ Every name below links to their [ORCID](https://orcid.org/) profile (where avail
 | 4 | Junfeng Su | 18 | 47 | Dabbler | Xi'an 🇨🇳 | [0000-0001-8434-0851](https://orcid.org/0000-0001-8434-0851) |
 | 5 | Yong Sik Ok | 15 | 180 | Dabbler | — | [0000-0003-3401-0912](https://orcid.org/0000-0003-3401-0912) |
 | 6 | Claudia Kammann | 15 | 55 | Dabbler | Geisenheim 🇩🇪 | [0000-0001-7477-1279](https://orcid.org/0000-0001-7477-1279) |
-| 7 | Hans-Peter Schmidt | 15 | 44 | Dabbler | Ithaka 🇺🇸 | [0000-0001-8275-7506](https://orcid.org/0000-0001-8275-7506) |
+| 7 | Hans-Peter Schmidt | 15 | 44 | Dabbler | Ithaka 🇨🇭 | [0000-0001-8275-7506](https://orcid.org/0000-0001-8275-7506) |
 | 8 | Cecilia Sundberg | 15 | 39 | Part-time | SLU 🇸🇪 | [0000-0001-5979-9521](https://orcid.org/0000-0001-5979-9521) |
 | 9 | Yalan Chen | 15 | 24 | Part-time | CAS 🇨🇳 | [0000-0003-2339-2986](https://orcid.org/0000-0003-2339-2986) |
-| 10 | Nikolas Hagemann | 15 | 22 | Part-time | Ithaka 🇺🇸 | [0000-0001-8005-9392](https://orcid.org/0000-0001-8005-9392) |
+| 10 | Nikolas Hagemann | 15 | 22 | Part-time | Ithaka 🇩🇪 | [0000-0001-8005-9392](https://orcid.org/0000-0001-8005-9392) |
 
 **The dabbler dominance:** 8 of 10 top biochar researchers are "dabblers" — biochar is a fraction of their wider work in soil science, environmental engineering, or materials science. This pathway has very few pure-play researchers.
 
@@ -86,8 +86,8 @@ Every name below links to their [ORCID](https://orcid.org/) profile (where avail
 |---|-----------|-----------|---------|-----------|------------|-------|
 | 1 | Lennart T. Bach | 81 | 45 | Part-time | Tasmania 🇦🇺 | [0000-0003-0202-3671](https://orcid.org/0000-0003-0202-3671) |
 | 2 | Ulf Riebesell | 76 | 97 | Dabbler | GEOMAR 🇩🇪 | [0000-0002-9442-452X](https://orcid.org/0000-0002-9442-452X) |
-| 3 | Andreas Oschlies | 45 | 74 | Dabbler | Utrecht 🇳🇱 | [0000-0002-8295-4013](https://orcid.org/0000-0002-8295-4013) |
-| 4 | David P. Keller | 40 | 24 | Part-time | — 🇺🇸 | [0000-0002-7546-4614](https://orcid.org/0000-0002-7546-4614) |
+| 3 | Andreas Oschlies | 45 | 74 | Dabbler | GEOMAR 🇩🇪 | [0000-0002-8295-4013](https://orcid.org/0000-0002-8295-4013) |
+| 4 | David P. Keller | 40 | 24 | Part-time | Carbon to Sea 🇺🇸 | [0000-0002-7546-4614](https://orcid.org/0000-0002-7546-4614) |
 | 5 | Kai G. Schulz | 36 | 51 | Part-time | Southern Cross 🇦🇺 | [0000-0002-8481-4639](https://orcid.org/0000-0002-8481-4639) |
 | 6 | Charly A. Moras | 33 | 7 | Dedicated | Hamburg 🇩🇪 | [0000-0001-6819-6167](https://orcid.org/0000-0001-6819-6167) |
 | 7 | Phil Renforth | 30 | 43 | Focused | Heriot-Watt 🇬🇧 | [0000-0002-1460-9947](https://orcid.org/0000-0002-1460-9947) |
@@ -117,11 +117,11 @@ Every name below links to their [ORCID](https://orcid.org/) profile (where avail
 
 | # | Researcher | CDR Papers | h-index | Commitment | Institution | ORCID |
 |---|-----------|-----------|---------|-----------|------------|-------|
-| 1 | Yakov Kuzyakov | 110 | 142 | Dabbler | RUDN 🇷🇺 | [0000-0002-9863-8461](https://orcid.org/0000-0002-9863-8461) |
+| 1 | Yakov Kuzyakov | 110 | 142 | Dabbler | Göttingen 🇩🇪 | [0000-0002-9863-8461](https://orcid.org/0000-0002-9863-8461) |
 | 2 | Josep Peñuelas | 64 | 183 | Dabbler | CSIC 🇪🇸 | [0000-0002-7215-0150](https://orcid.org/0000-0002-7215-0150) |
 | 3 | Pete Smith | 47 | 169 | Dabbler | Aberdeen 🇬🇧 | [0000-0002-3784-1124](https://orcid.org/0000-0002-3784-1124) |
-| 4 | Rattan Lal | 46 | 167 | Dabbler | — 🇮🇳 | [0000-0002-9016-2972](https://orcid.org/0000-0002-9016-2972) |
-| 5 | Jordi Sardans | 46 | 96 | Dabbler | — 🇨🇳 | [0000-0003-2478-0219](https://orcid.org/0000-0003-2478-0219) |
+| 4 | Rattan Lal | 46 | 167 | Dabbler | Ohio State 🇺🇸 | [0000-0002-9016-2972](https://orcid.org/0000-0002-9016-2972) |
+| 5 | Jordi Sardans | 46 | 96 | Dabbler | CREAF 🇪🇸 | [0000-0003-2478-0219](https://orcid.org/0000-0003-2478-0219) |
 
 **The most prolific CDR researcher overall:** Yakov Kuzyakov with 110 CDR papers — but soil carbon is a fraction of his broader soil science career. This encapsulates the "dabbler problem" explored in [Part 4](/posts/cdr-census-dabbler-problem/).
 

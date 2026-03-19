@@ -5,7 +5,7 @@ title: "CDR Researcher Census"
 date: 2026-03-18T08:00:00+01:00
 slug: "cdr-researcher-census"
 url: "/cdr-researcher-census/"
-description: "A monthly-updated census of 122,674 CDR researchers across 7 pathways, 185 countries, and 12,750 institutions. Built on OpenAlex open data."
+description: "A monthly-updated census of 122,674 CDR researchers across 7 pathways, 186 countries, and 18,108 institutions. Built on OpenAlex + ORCID open data."
 tags: ["CDR", "carbon removal", "research", "census"]
 robotsNoIndex: true
 hidenInHomeInfo: true
@@ -14,7 +14,7 @@ layout: "single"
 
 > **⚠️ Work in Progress — v1 (March 2026)**
 >
-> This census is our first attempt at mapping the global CDR research workforce. It's built on real data from 135,000+ API calls to OpenAlex, but it's v1 — there are errors, misclassifications, and blind spots. I'm publishing early because directional data shared openly beats perfect data that never ships. **Your feedback makes v2 better.**
+> This census is our first attempt at mapping the global CDR research workforce. It's built on real data from 135,000+ API calls to OpenAlex, enriched with ORCID self-reported affiliations for 66% of researchers. It's v1 — there are errors, misclassifications, and blind spots. I'm publishing early because directional data shared openly beats perfect data that never ships. **Your feedback makes v2 better.**
 >
 > 📣 Tell me what's wrong: [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social) · [X](https://x.com/CaptainDrawdown)
 
@@ -26,8 +26,8 @@ layout: "single"
 |--------|-------|
 | **Total CDR researchers** | 122,674 |
 | **CDR papers indexed** | 39,278 |
-| **Countries represented** | 185 |
-| **Institutions** | 12,750 |
+| **Countries represented** | 186 |
+| **Institutions** | 18,108 |
 | **Researchers with ORCID** | 80,519 (66%) |
 | **Core researchers** (>10% CDR focus) | 36,744 (30%) |
 | **Growing trajectory** | 36,248 (30%) |
@@ -60,16 +60,16 @@ layout: "single"
 
 | Country | Researchers | Share | Growing | Growth Rate |
 |---------|-----------|-------|---------|-------------|
-| 🇨🇳 China | 38,651 | 31.5% | 13,886 | 35.9% |
-| 🇺🇸 United States | 13,712 | 11.2% | 3,510 | 25.6% |
-| 🇮🇳 India | 8,136 | 6.6% | 2,457 | 30.2% |
-| 🇬🇧 United Kingdom | 3,863 | 3.1% | 962 | 24.9% |
-| 🇩🇪 Germany | 3,402 | 2.8% | 915 | 26.9% |
-| 🇧🇷 Brazil | 2,758 | 2.2% | 764 | 27.7% |
-| 🇮🇹 Italy | 2,191 | 1.8% | 640 | 29.2% |
-| 🇫🇷 France | 2,041 | 1.7% | 576 | 28.2% |
-| 🇨🇦 Canada | 1,939 | 1.6% | 530 | 27.3% |
-| 🇦🇺 Australia | 1,937 | 1.6% | 587 | 30.3% |
+| 🇨🇳 China | 37,942 | 33.6% | 13,596 | 35.8% |
+| 🇺🇸 United States | 14,205 | 12.6% | 3,681 | 25.9% |
+| 🇮🇳 India | 8,153 | 7.2% | 2,453 | 30.1% |
+| 🇬🇧 United Kingdom | 4,082 | 3.6% | 1,043 | 25.6% |
+| 🇩🇪 Germany | 3,558 | 3.2% | 945 | 26.6% |
+| 🇧🇷 Brazil | 2,800 | 2.5% | 774 | 27.6% |
+| 🇮🇹 Italy | 2,304 | 2.0% | 677 | 29.4% |
+| 🇦🇺 Australia | 2,158 | 1.9% | 651 | 30.2% |
+| 🇨🇦 Canada | 2,025 | 1.8% | 545 | 26.9% |
+| 🇫🇷 France | 2,009 | 1.8% | 576 | 28.7% |
 | 🇪🇸 Spain | 1,654 | 1.3% | 491 | 29.7% |
 | 🇯🇵 Japan | 1,621 | 1.3% | 480 | 29.6% |
 | 🇰🇷 South Korea | 1,563 | 1.3% | 514 | 32.9% |
@@ -80,16 +80,16 @@ layout: "single"
 
 | Institution | Country | Researchers | Avg h-index | Growing |
 |---|---|---|---|---|
-| Chinese Academy of Sciences | 🇨🇳 | 1,864 | 16.9 | 643 |
-| CNRS | 🇫🇷 | 844 | 24.4 | 255 |
-| Kunming Univ. of Sci. & Tech. | 🇨🇳 | 542 | 28.5 | 202 |
-| Tongji University | 🇨🇳 | 477 | 23.6 | 183 |
-| South China Agricultural Univ. | 🇨🇳 | 469 | 26.7 | 169 |
-| USTC | 🇨🇳 | 453 | 24.1 | 161 |
-| Nanjing Agricultural Univ. | 🇨🇳 | 439 | 20.5 | 167 |
-| Central South University | 🇨🇳 | 401 | 23.4 | 154 |
-| Sun Yat-sen University | 🇨🇳 | 399 | 19.6 | 141 |
-| Qingdao University | 🇨🇳 | 397 | 30.0 | 155 |
+| Chinese Academy of Sciences | 🇨🇳 | 1,537 | 14.2 | 541 |
+| CNRS | 🇫🇷 | 536 | 16.5 | 162 |
+| Tongji University | 🇨🇳 | 392 | 21.2 | 154 |
+| Shanghai Jiao Tong University | 🇨🇳 | 383 | 21.0 | 131 |
+| Kunming Univ. of Sci. & Tech. | 🇨🇳 | 377 | 22.4 | 140 |
+| Nanjing Agricultural Univ. | 🇨🇳 | 376 | 18.1 | 153 |
+| USTC | 🇨🇳 | 360 | 22.8 | 138 |
+| Sun Yat-sen University | 🇨🇳 | 356 | 18.5 | 124 |
+| South China Agricultural Univ. | 🇨🇳 | 340 | 21.0 | 122 |
+| Central South University | 🇨🇳 | 337 | 22.4 | 133 |
 
 ---
 
@@ -155,17 +155,17 @@ layout: "single"
 
 - **Data source:** [OpenAlex API](https://openalex.org/) — open access, CC0 license
 - **Search:** 11 queries across 7 CDR pathways (see [launch post](/posts/cdr-researcher-census/) for details)
-- **Enrichment:** Full author profiles — h-index, institutions, ORCID, affiliations, publication history
+- **Enrichment:** Full author profiles — h-index, institutions, ORCID, affiliations, publication history. ORCID API for self-reported institution and country (66% coverage).
 - **Classification:** Career stage, sector, CDR commitment, publication trajectory
 - **Validation:** Cross-referenced with [Lück et al. (2025)](https://doi.org/10.1038/s41467-025-56166-9)
 - **API compliance:** ~135,000 calls over 3 days, within official rate limits, using polite pool
-- **Database:** 411 MB SQLite, updated monthly
+- **Database:** 78 MB SQLite, updated monthly
 
 ### Known Limitations
 
 1. Author disambiguation relies on OpenAlex ML — name collisions occur, especially for common names
 2. Pathway assignment is keyword-based, not expert-classified
-3. "Last known institution" may be outdated
+3. "Last known institution" uses ORCID self-reported data where available (66%), falling back to OpenAlex for the rest
 4. 2025-2026 data is incomplete due to indexing lag
 5. Nature-based CDR methods (afforestation, blue carbon) are not included
 
@@ -176,12 +176,12 @@ layout: "single"
 | Dimension | Lück et al. | This Census |
 |-----------|------------|-------------|
 | Papers | ~53,000 | 39,278 |
-| Authors | Not measured | 129,637 |
+| Authors | Not measured | 122,674 |
 | Methods | 13 (incl. nature-based) | 7 (tech CDR) |
 | ML classification | Yes (topic model) | No (keyword search) |
 | Author profiling | No | Yes |
 | Career trajectories | No | Yes |
-| Institutional mapping | No | Yes |
+| Institutional mapping | No | Yes (ORCID + OpenAlex) |
 | Monthly updates | No | Planned |
 
 *Lück, S., Tandon, A., Klass, P. et al. Mapping global research on carbon dioxide removal. Nat Commun (2025). https://doi.org/10.1038/s41467-025-56166-9*

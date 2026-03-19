@@ -4,7 +4,7 @@ hiddenInHomeList: true
 title: "The Dabbler Problem — Is CDR Research a Side Hustle?"
 date: 2026-03-18T08:00:00+01:00
 slug: "cdr-census-dabbler-problem"
-description: "66% of CDR researchers have it as less than 10% of their work. But the trajectory data reveals something more nuanced — and more hopeful."
+description: "69% of CDR researchers have it as less than 10% of their work. But the trajectory data reveals something more nuanced — and more hopeful."
 tags: ["CDR", "carbon removal", "research", "talent", "career", "census"]
 robotsNoIndex: true
 hidenInHomeInfo: true
@@ -23,7 +23,7 @@ cover:
 
 Here's a number that worried me when I first saw it:
 
-**84,405** of our 122,674 CDR researchers — that's **66%** — have CDR-related work as less than 10% of their total publications.
+**84,405** of our 122,674 CDR researchers — that's **69%** — have CDR-related work as less than 10% of their total publications.
 
 I call them "dabblers." A soil scientist who published one paper that mentioned carbon sequestration. An atmospheric chemist who co-authored a DAC study once. A policy researcher who reviewed negative emissions technologies for a single report.
 
@@ -52,11 +52,11 @@ When I look at CDR commitment across ALL researchers (not just dabblers):
 
 | Commitment Level | Count | % of Total | Definition |
 |-----------------|-------|-----------|------------|
-| Pure CDR | 10,969 | 10.5% | >50% of publications are CDR |
-| Focused | 8,971 | 7.7% | 25-50% CDR |
-| Part-time | 17,662 | 14.7% | 10-25% CDR |
-| Dedicated | 667 | 0.6% | Very high commitment, smaller portfolio |
-| Dabbler | 84,405 | 66.4% | <10% CDR |
+| Pure CDR | 10,969 | 8.9% | >50% of publications are CDR |
+| Focused | 8,971 | 7.3% | 25-50% CDR |
+| Part-time | 17,662 | 14.4% | 10-25% CDR |
+| Dedicated | 667 | 0.5% | Very high commitment, smaller portfolio |
+| Dabbler | 84,405 | 68.8% | <10% CDR |
 
 The core workforce — people for whom CDR is a significant part of their career — is about **20,607 researchers** (Pure CDR + Focused + Dedicated). That's roughly **19%** of the total.
 
