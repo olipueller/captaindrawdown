@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "I Counted Every CDR Researcher on Earth. Here's What I Found."
 date: 2026-03-18T08:00:00+01:00
 slug: "cdr-researcher-census"
