@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Carbon removal policy in Europe just got more real. The EU has published [Implementing Regulation (EU) 2025/2358](https://european-accreditation.org/carbon-removals-and-carbon-farming-[crcf](/posts/eu-first-cdr-certification-standard/)-regulation-eu-2024-3012/), the technical rulebook for how carbon removal and carbon farming certification actually works under the Carbon Removals and Carbon Farming (CRCF) Regulation.
+Carbon removal policy in Europe just got more real. The EU has published [Implementing Regulation (EU) 2025/2358](https://european-accreditation.org/carbon-removals-and-carbon-farming-[crcf](/posts/eu-first-cdr-certification-standard/)-regulation-eu-2024-3012/), the technical rulebook for how carbon removal and carbon farming certification actually works under the Carbon Removals and Carbon Farming ([CRCF](/posts/eu-first-cdr-certification-standard/)) Regulation.
 
 Translation: the EU didn't just say "we want certified carbon removal." It specified exactly how you certify it, who can certify it, and what auditors must check.
 
