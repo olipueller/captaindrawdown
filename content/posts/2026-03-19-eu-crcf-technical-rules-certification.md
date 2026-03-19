@@ -36,7 +36,7 @@ Organizations that certify carbon removal projects must be accredited according 
 
 ### 2. Certification Schemes
 
-Schemes that want to certify carbon removal under the CRCF must comply with the new implementing rules. The European Commission will assess each scheme — including consulting the European cooperation for Accreditation (EA) — before granting official recognition.
+Schemes that want to certify carbon removal under the [CRCF](/posts/eu-first-cdr-certification-standard/) must comply with the new implementing rules. The European Commission will assess each scheme — including consulting the European cooperation for Accreditation (EA) — before granting official recognition.
 
 ### 3. Certification Methodologies
 
