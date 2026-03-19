@@ -5,7 +5,6 @@ title: "CDR Researcher Lookup"
 date: 2026-03-18T03:00:00+01:00
 url: "/cdr-researcher-census/lookup/"
 description: "Search 122,675 CDR researchers. See what our census found about you — or anyone in the field."
-robotsNoIndex: true
 layout: "single"
 type: "page"
 ---
