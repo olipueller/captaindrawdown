@@ -56,5 +56,5 @@ The CATF report is essentially a roadmap: here are 18 things your protocols shou
 
 - [EU's Carbon Removal Certification Framework Gets Its First Methodologies](/posts/eu-[crcf](/posts/eu-first-cdr-certification-standard/)-certification-methodologies/)
 - [The First Global Rules for CDR Credits Are Being Written Now](/posts/first-global-rules-cdr-credits/)
-- [The EU Just Built the World's First Government CDR Credit Label](/posts/eu-crcf-carbon-removal-certification/)
+- [The EU Just Built the World's First Government CDR Credit Label](/posts/eu-[crcf](/posts/eu-first-cdr-certification-standard/)-carbon-removal-certification/)
 - [Biochar: The Quiet Giant of Carbon Removal](/posts/biochar-quiet-giant-of-cdr/)

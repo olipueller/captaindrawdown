@@ -212,7 +212,7 @@ async function loadProfile(authorId) {
   profileDiv.style.display = 'block';
   profileDiv.innerHTML = '<div class="loading">Loading profile...</div>';
   
-  const prefix = authorId.substring(0, 4).toLowerCase();
+  const prefix = authorId.substring(0, 6).toLowerCase();
   try {
     const resp = await fetch(`/data/census/authors/${prefix}.json`);
     const shard = await resp.json();

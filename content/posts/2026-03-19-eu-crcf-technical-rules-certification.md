@@ -16,7 +16,7 @@ Carbon removal policy in Europe just got more real. The EU has published [Implem
 
 Translation: the EU didn't just say "we want certified carbon removal." It specified exactly how you certify it, who can certify it, and what auditors must check.
 
-## What the CRCF Covers
+## What the [CRCF](/posts/eu-first-cdr-certification-standard/) Covers
 
 The CRCF Regulation (EU) 2024/3012 established the first EU-wide voluntary certification framework for three categories:
 
