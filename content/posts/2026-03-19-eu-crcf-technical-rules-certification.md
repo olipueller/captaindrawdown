@@ -60,7 +60,7 @@ The EU is building the rails. Now the industry needs to run on them.
 
 ### 🔗 Related Reading
 
-- [EU's Carbon Removal Certification Framework Gets Its First Methodologies](/posts/eu-crcf-certification-methodologies/)
+- [EU's Carbon Removal Certification Framework Gets Its First Methodologies](/posts/eu-[crcf](/posts/eu-first-cdr-certification-standard/)-certification-methodologies/)
 - [EU Launches World's First Voluntary Standard for Permanent Carbon Removals](/posts/eu-first-cdr-certification-standard/)
 - [The EU Just Built the World's First Government CDR Credit Label](/posts/eu-crcf-carbon-removal-certification/)
 - [The EU's Industrial Accelerator Act: What It Means for Carbon Removal](/posts/eu-industrial-accelerator-act/)
