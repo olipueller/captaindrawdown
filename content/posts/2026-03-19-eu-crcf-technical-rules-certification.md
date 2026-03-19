@@ -50,7 +50,7 @@ The Commission is developing specific methodologies for different types of remov
 
 The EU is building something that doesn't really exist anywhere else: a regulated, standardized framework for certifying carbon removal. The US has no equivalent. The UK has early-stage efforts. Most other jurisdictions rely entirely on voluntary registries with no government oversight.
 
-The [CRCF](/posts/eu-first-cdr-certification-standard/) won't replace voluntary markets — it's a voluntary certification framework, not a compliance mechanism. But it creates an EU-endorsed quality standard. Companies and governments that want to buy high-integrity carbon removal credits will be able to look for CRCF-certified projects and know they've been audited against a consistent, government-reviewed methodology.
+The [CRCF](/posts/eu-first-cdr-certification-standard/) won't replace voluntary markets — it's a voluntary certification framework, not a compliance mechanism. But it creates an EU-endorsed quality standard. Companies and governments that want to buy high-integrity carbon removal credits will be able to look for [CRCF](/posts/eu-first-cdr-certification-standard/)-certified projects and know they've been audited against a consistent, government-reviewed methodology.
 
 For the CDR industry, this is infrastructure. It's not as exciting as a new DAC plant or a Google carbon removal purchase. But infrastructure is what turns a collection of startups into a functioning market. Without trusted certification, scaling carbon removal means scaling an honor system — and as the [carbon offset market learned the hard way](https://heatmap.news/carbon-removal/biomass-carbon-removal-accounting), honor systems don't scale.
 
