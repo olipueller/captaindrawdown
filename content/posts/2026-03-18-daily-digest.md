@@ -1,36 +1,15 @@
 ---
 title: "CDR Daily Digest — March 18, 2026"
-description: "Our biggest day yet: the first-ever CDR Researcher Census, Google's 200K-ton biochar deal, India's enhanced weathering revolution, a new biomass burial coalition, and solar-powered DAC."
+description: "Google's 200K-ton biochar deal, India's enhanced weathering revolution, a new biomass burial coalition, and solar-powered DAC."
 date: 2026-03-18T20:00:00+01:00
 slug: daily-digest-2026-03-18
-tags: ["daily-digest", "carbon-removal", "CDR", "census", "biochar", "enhanced-weathering", "DAC"]
+tags: ["daily-digest", "carbon-removal", "CDR", "biochar", "enhanced-weathering", "DAC"]
 categories: ["Daily Digest"]
 cover:
   image: /images/digests/2026-03-18.png
 ---
 
-Today was our biggest publishing day yet — 10 original posts, headlined by the launch of the **CDR Researcher Census**, a first-of-its-kind data project we've been working on for weeks.
-
----
-
-## 🔬 The CDR Researcher Census — Our Biggest Project Yet
-
-We counted every carbon dioxide removal researcher on Earth. 129,637 of them, across 39,278 papers, 185 countries, and 7 CDR pathways. It's the first researcher-centric census of the CDR field, and we published it as a 5-part series:
-
-**[I Counted Every CDR Researcher on Earth. Here's What I Found.](https://www.captaindrawdown.com/posts/cdr-researcher-census/)**
-The launch post — scope, methodology, and the headline numbers. CDR research is growing fast, but the workforce is thinner and more fragmented than most people assume.
-
-**[The CDR Brain Map — Where the Researchers Are (and Aren't)](https://www.captaindrawdown.com/posts/cdr-census-geography/)**
-China has 32% of all CDR researchers. The US has 11%. There's a striking mismatch between where CDR science happens and where the companies trying to commercialize it are based.
-
-**[The Top Minds in Every CDR Method](https://www.captaindrawdown.com/posts/cdr-census-top-researchers/)**
-The 10 most prolific researchers in each CDR pathway, complete with clickable ORCID profiles. Transparency builds trust — but it also exposes some limitations of bibliometric methods.
-
-**[The Dabbler Problem — Is CDR Research a Side Hustle?](https://www.captaindrawdown.com/posts/cdr-census-dabbler-problem/)**
-66% of CDR researchers have it as less than 10% of their publication output. But the trajectory data tells a more nuanced story — many are ramping up rapidly.
-
-**[CDR Science as Early Signal — Is the Research Explosion Fast Enough?](https://www.captaindrawdown.com/posts/cdr-census-early-signal/)**
-The field doubled its annual researcher intake since 2020. But historical parallels with solar PV and batteries suggest it may need to accelerate even further.
+A busy day for carbon removal news — from Google's massive biochar buy to India's basalt revolution.
 
 ---
 
