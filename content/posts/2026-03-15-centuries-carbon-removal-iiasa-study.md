@@ -3,6 +3,7 @@ title: "Net Zero Won't Be Enough — We May Need Centuries of Carbon Removal"
 date: 2026-03-15T15:10:00+00:00
 draft: false
 slug: centuries-carbon-removal-iiasa-study
+aliases: ["/s/84"]
 description: "New IIASA research shows sea levels and permafrost thaw keep worsening for centuries after temperatures stabilize — stopping them requires sustained carbon removal far beyond current climate plans."
 tags: ["science", "IIASA", "CDR", "sea level", "permafrost", "net-negative"]
 cover:

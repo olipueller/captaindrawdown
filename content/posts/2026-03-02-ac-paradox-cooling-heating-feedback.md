@@ -2,6 +2,7 @@
 title: "The AC Paradox: Air Conditioning Could Add 8.5 Billion Tonnes of CO₂ by 2050"
 date: 2026-03-02
 slug: ac-paradox-cooling-heating-feedback
+aliases: ["/s/16"]
 description: "A Nature Communications study finds rising AC use could emit more CO₂ than the entire US — and most of it isn't from climate change itself."
 tags: ["climate change", "emissions", "cooling", "CDR", "feedback loops"]
 cover:

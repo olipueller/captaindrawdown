@@ -3,6 +3,7 @@ title: "Chinese Startup Claims Competitive Synthetic Fuel From Air and Water"
 description: "Shanghai-based Carbonology, co-founded by a former Tesla VP, says it can produce synthetic petrol, diesel, and jet fuel from air and water at market-competitive prices. Big claims with few details."
 date: 2026-03-20T15:00:00+01:00
 slug: china-carbonology-synthetic-fuel-dac
+aliases: ["/s/114"]
 tags: ["CDR", "carbon removal", "DAC", "e-fuels", "synthetic fuel", "China", "Carbonology", "power-to-liquid"]
 summary: "Shanghai startup Carbonology claims synthetic fuel from air and water at market-competitive prices. Co-founded by a former Tesla VP. Big claims, thin on details."
 draft: false

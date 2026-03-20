@@ -2,6 +2,7 @@
 title: "Japan × India: Green Carbon's Biochar Partnership Targets 180,000 Tonnes of CDR"
 date: 2026-03-02
 slug: green-carbon-india-biochar-partnership
+aliases: ["/s/13"]
 description: "Japanese company Green Carbon partners with India's Excellent Enfab to build industrial biochar plants in Gujarat and West Bengal, targeting 180,000 tonnes of Isometric-certified CDR."
 tags: ["biochar", "India", "Japan", "CDR", "carbon removal", "Asia"]
 cover:

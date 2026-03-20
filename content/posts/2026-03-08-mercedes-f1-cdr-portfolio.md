@@ -2,6 +2,7 @@
 title: "Mercedes F1 Builds One of Motorsport's Biggest CDR Portfolios — 18,900 Tonnes Across 6 Pathways"
 date: 2026-03-08T14:30:00+01:00
 slug: mercedes-f1-cdr-portfolio
+aliases: ["/s/23"]
 draft: false
 tags: ["CDR", "F1", "Mercedes", "biochar", "DAC", "OAE", "ERW", "BECCS"]
 categories: ["Market Intel"]

@@ -3,6 +3,7 @@ title: "CDR Daily Digest — March 16, 2026"
 date: 2026-03-16T20:00:00+00:00
 draft: false
 slug: 2026-03-16-cdr-daily-digest
+aliases: ["/s/89"]
 description: "German CDR skepticism meets EU certification reality, algae pull CO₂ from thin air, Mammoth teaches investors a lesson in accountability, and baby diapers become biochar."
 tags: ["CDR", "daily digest", "DAC", "bio-DAC", "EU", "CRCF", "biochar", "Germany", "investment"]
 categories: ["Daily Digest"]

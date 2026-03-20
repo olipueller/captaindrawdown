@@ -3,6 +3,7 @@ title: "CDR Daily Digest — March 19, 2026"
 description: "Biomass credit accounting risks, Bolivia's first big biochar facility, what alkalinity does to mussels, and the EU's CRCF gets real."
 date: 2026-03-19T20:00:00+01:00
 slug: daily-digest-2026-03-19
+aliases: ["/s/108"]
 tags: ["daily-digest", "carbon-removal", "CDR", "biochar", "OAE", "EU-policy", "transparency"]
 categories: ["Daily Digest"]
 cover:

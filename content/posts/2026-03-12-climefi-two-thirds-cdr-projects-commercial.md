@@ -5,6 +5,7 @@ draft: false
 slug: climefi-two-thirds-cdr-projects-commercial
 aliases:
   - /posts/2026-03-12-climefi-two-thirds-cdr-projects-commercial/
+  - "/s/62"
 description: "ClimeFi's 2026 market insights report finds 66% of durable carbon removal projects across all pathways are now at the commercialization stage, with supply diversifying away from biomass dominance."
 tags: ["market", "ClimeFi", "CDR", "DACCS", "ERW", "biochar"]
 cover:

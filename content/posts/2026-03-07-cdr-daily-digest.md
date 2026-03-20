@@ -2,6 +2,7 @@
 title: "CDR Daily Digest — March 7, 2026"
 date: 2026-03-07
 slug: cdr-daily-digest
+aliases: ["/s/5"]
 description: "Sirona Technologies signs multi-year DAC deal via Patch, SASHA Coalition warns CORSIA undermines aviation decarbonization, CNRL pauses $8.25B oil sands project over carbon pricing, plus new CO₂ mineralization research."
 tags: ["CDR", "DAC", "CORSIA", "aviation", "carbon pricing", "mineralization", "MRV", "CarbFix", "EU policy"]
 cover:

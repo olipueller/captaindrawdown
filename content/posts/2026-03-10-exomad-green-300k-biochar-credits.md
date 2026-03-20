@@ -2,6 +2,7 @@
 title: "Exomad Green Hits 300,000 Biochar Carbon Removal Credits"
 date: 2026-03-10
 slug: exomad-green-300k-biochar-credits
+aliases: ["/s/46"]
 description: "Bolivia-based Exomad Green passes 300,000 delivered carbon removal credits from large-scale biochar operations across the Global South."
 tags: ["biochar", "market", "Global South"]
 cover:

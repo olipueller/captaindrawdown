@@ -3,6 +3,7 @@ title: "A $25 Million Warning: Oregon Forest Carbon Project Destroyed by Wildfir
 date: 2026-03-14T09:30:00+01:00
 draft: false
 slug: warm-springs-forest-carbon-wildfire
+aliases: ["/s/81"]
 description: "The Warm Springs Tribes' forest carbon offset project earned $25M — until the Lionshead Fire burned 200,000 acres and made the credits worthless."
 tags: ["carbon offsets", "wildfire", "permanence", "forest carbon", "Oregon"]
 cover:

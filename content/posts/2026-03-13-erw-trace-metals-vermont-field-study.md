@@ -3,6 +3,7 @@ title: "Basalt on Vermont Farmland Shows No Trace Metal Risk After Two Years"
 date: 2026-03-13T06:00:00+01:00
 draft: false
 slug: erw-trace-metals-vermont-field-study
+aliases: ["/s/69"]
 description: "A new CDRxiv preprint finds that spreading crushed basalt on dairy farms doesn't increase harmful metals in soil or forage — and may actually reduce them downstream."
 tags: ["ERW", "science", "field study", "trace metals"]
 cover:

@@ -2,6 +2,7 @@
 title: "EU Launches World's First Voluntary Standard for Permanent Carbon Removals"
 date: 2026-03-06
 slug: eu-first-cdr-certification-standard
+aliases: ["/s/27"]
 draft: false
 tags: ["CDR", "carbon removal", "EU", "CRCF", "DACCS", "BioCCS", "biochar", "certification", "regulation", "European Commission"]
 description: "The European Commission adopts certification methodologies for DACCS, BioCCS, and biochar under the CRCF Regulation — creating the world's first voluntary standard for permanent CDR."

@@ -3,6 +3,7 @@ title: "Biochar at $100/ton: Carba and the University of Minnesota Are Cracking 
 date: 2026-03-14T08:00:00+01:00
 draft: false
 slug: carba-biochar-cost-breakthrough
+aliases: ["/s/73"]
 description: "Minnesota startup Carba converts plant waste into biochar that sequesters carbon for 1,000+ years — at a fraction of DAC costs."
 tags: ["biochar", "carbon removal", "Carba", "cost reduction", "Minnesota"]
 cover:

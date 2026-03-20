@@ -2,6 +2,7 @@
 title: "Boeing Just Made Aviation's Biggest Carbon Removal Bet"
 date: 2026-03-10
 slug: boeing-carbonfuture-40000t-cdr-deal
+aliases: ["/s/43"]
 description: "Boeing signs multi-year deal with CDI portfolio company Carbonfuture for 40,000+ tonnes of durable carbon removal credits from biochar projects in the Global South."
 tags: ["market", "biochar", "aviation", "CDR"]
 cover:

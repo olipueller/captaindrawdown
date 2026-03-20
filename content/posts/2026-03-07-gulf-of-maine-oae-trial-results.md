@@ -3,6 +3,7 @@ title: "Gulf of Maine OAE Trial: CO₂ Captured, No Harm to Marine Life"
 description: "The first ship-based ocean alkalinity enhancement (OAE) experiment just delivered results. Woods Hole Oceanographic Institution poured 65,000 litres of..."
 date: 2026-03-07T10:15:00+01:00
 slug: gulf-of-maine-oae-trial-results
+aliases: ["/s/29"]
 draft: false
 tags: ["ocean CDR", "OAE", "ocean alkalinity enhancement", "marine CDR", "science"]
 categories: ["Science"]

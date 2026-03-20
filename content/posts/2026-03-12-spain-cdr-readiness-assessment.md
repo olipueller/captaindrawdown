@@ -5,6 +5,7 @@ draft: false
 slug: spain-cdr-readiness-assessment
 aliases:
   - /posts/2026-03-12-spain-cdr-readiness-assessment/
+  - "/s/65"
 description: "A new Carbon Removal Readiness Assessment (CRRA) by Carbon Gap and Global Factor finds Spain has strong CDR potential but lacks a national strategy. The window for action: 2026-2035."
 tags: ["policy", "Spain", "Europe", "CDR", "Carbon Gap"]
 cover:

@@ -2,6 +2,7 @@
 title: "CDR Daily Digest — March 9, 2026"
 date: 2026-03-09
 slug: cdr-daily-digest
+aliases: ["/s/5"]
 draft: false
 tags: ["CDR", "Marine CDR", "Enhanced Rock Weathering", "Direct Air Capture", "Carbon Removal", "Canada", "Weekly Roundup"]
 description: "Vox spotlights marine CDR as Equatic prepares world's largest ocean removal plant. Plus: record deal week with Boeing, Tapestry, Mercedes F1, LEGO, and Canada's $100M coalition."

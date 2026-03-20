@@ -3,6 +3,7 @@ title: "🌍 From Germany: \"The Dangerous Dream of CO₂ Removal\" — A Skepti
 description: "Peter Droege argues in klimareporter.de that Germany's publicly funded CDR research programs are a dangerous distraction. We disagree — but his math challenge is worth taking seriously."
 date: 2026-03-16T08:30:00+01:00
 slug: german-cdr-criticism-klimareporter
+aliases: ["/s/92"]
 tags: ["CDR", "carbon removal", "Germany", "criticism", "policy", "DAC", "biosphere"]
 summary: "A German expert calls CDR a dangerous dream. His four critiques deserve a serious response — even if we think he's wrong about the conclusion."
 draft: false

@@ -3,6 +3,7 @@ title: "The EU's Carbon Removal Certification Framework Gets Its Technical Ruleb
 description: "The EU has published Implementing Regulation 2025/2358, laying down detailed technical rules for how carbon removal certification schemes, bodies, and audits must operate under the CRCF."
 date: 2026-03-19T17:50:00+01:00
 slug: eu-crcf-technical-rules-certification
+aliases: ["/s/109"]
 tags: ["CDR", "carbon removal", "EU", "CRCF", "certification", "policy", "regulation", "carbon farming"]
 summary: "The EU's Carbon Removal and Carbon Farming regulation now has its technical rulebook. Implementing Regulation 2025/2358 specifies how certification schemes and auditors must operate."
 draft: false

@@ -3,6 +3,7 @@ draft: false
 title: "The CDR Brain Map — Where the Researchers Are (and Aren't)"
 date: 2026-03-20T21:55:00+01:00
 slug: "cdr-census-geography"
+aliases: ["/s/119"]
 description: "China has 34% of all CDR researchers. The US has 13%. And the mismatch between where the science happens and where the companies are tells us something important."
 tags: ["CDR", "carbon removal", "research", "geography", "China", "census"]
 cover:

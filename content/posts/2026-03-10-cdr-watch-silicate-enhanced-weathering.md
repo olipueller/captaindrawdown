@@ -2,6 +2,7 @@
 title: "CDR Watch: Silicate's Limestone Approach to Enhanced Weathering"
 date: 2026-03-10T11:00:00Z
 slug: cdr-watch-silicate-enhanced-weathering
+aliases: ["/s/44"]
 draft: false
 description: "Silicate is the first enhanced weathering company to use limestone instead of basalt — and the science behind it is worth understanding."
 cover:

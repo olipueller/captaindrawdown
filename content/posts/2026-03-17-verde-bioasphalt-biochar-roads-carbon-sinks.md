@@ -3,6 +3,7 @@ title: "Roads as Carbon Sinks: Verde Locks In Major Biochar Supply"
 description: "Verde Resources secured a supply of 38,500 tons/year of engineered biochar for its BioAsphalt™ technology — roads that sequester CO₂ and earn verified carbon credits."
 date: 2026-03-17T13:00:00+01:00
 slug: verde-bioasphalt-biochar-roads-carbon-sinks
+aliases: ["/s/99"]
 tags: ["CDR", "carbon removal", "biochar", "infrastructure", "carbon credits", "Puro.earth", "Verde", "BioAsphalt"]
 summary: "Verde Resources just locked in 38,500 tons/year of engineered biochar for roads that sequester carbon. They already earned the world's first carbon removal credits from an asphalt application."
 draft: false

@@ -2,6 +2,7 @@
 title: "CDR Daily Digest — March 8, 2026"
 date: 2026-03-08
 slug: cdr-daily-digest
+aliases: ["/s/5"]
 draft: false
 tags: ["carbon-removal", "CDR", "IEA", "DAC", "biochar", "BECCS", "carbon-credits", "venture-capital"]
 description: "IEA confirms CDR now captures one-third of energy VC. Boeing signs 40,000t deal with Carbonfuture. Canada launches $100M CDR coalition. Svante acquires Carbon Alpha for BECCS scale-up."

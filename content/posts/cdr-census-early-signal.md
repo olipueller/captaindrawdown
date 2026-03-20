@@ -3,6 +3,7 @@ draft: false
 title: "CDR Science as Early Signal — Is the Research Explosion Fast Enough?"
 date: 2026-03-20T21:40:00+01:00
 slug: "cdr-census-early-signal"
+aliases: ["/s/118"]
 description: "The CDR research field doubled its annual intake since 2020. But historical parallels with solar PV and batteries suggest it may need to grow even faster."
 tags: ["CDR", "carbon removal", "research", "growth", "climate", "early signal", "census"]
 cover:

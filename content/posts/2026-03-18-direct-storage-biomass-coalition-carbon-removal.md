@@ -3,6 +3,7 @@ title: "New Coalition Wants to Bury Biomass for Carbon Removal — 17 Companies 
 description: "The Carbon Business Council launched the Direct Storage of Biomass Coalition with 17 members including Graphyte, Carba, and Puro.Earth to advance biomass burial as a CDR pathway."
 date: 2026-03-18T10:05:00+01:00
 slug: direct-storage-biomass-coalition-carbon-removal
+aliases: ["/s/103"]
 tags: ["CDR", "carbon removal", "biomass", "coalition", "Carbon Business Council", "Graphyte", "Carba", "Puro.Earth"]
 summary: "17 companies formed the Direct Storage of Biomass Coalition to advance burying organic waste as a scalable carbon removal pathway. Low-tech, built on existing supply chains."
 draft: false

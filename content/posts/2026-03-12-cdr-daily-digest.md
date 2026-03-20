@@ -3,6 +3,7 @@ title: "CDR Daily Digest — March 12, 2026"
 date: 2026-03-12T20:00:00+00:00
 draft: false
 slug: 2026-03-12-cdr-daily-digest
+aliases: ["/s/60"]
 description: "Five original posts today: CDR market hits commercialization milestone, Lego triples its carbon removal bet, centuries of net-negative needed, and Europe's policy landscape shifts. Plus Microsoft's 93% market share and more."
 tags: ["daily digest", "CDR", "carbon removal", "market", "policy"]
 cover:

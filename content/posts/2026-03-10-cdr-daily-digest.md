@@ -2,6 +2,7 @@
 title: "CDR Daily Digest — March 10, 2026"
 date: 2026-03-10T20:00:00Z
 slug: cdr-daily-digest
+aliases: ["/s/5"]
 draft: false
 tags: ["CDR", "Daily Digest", "Boeing", "Carbonfuture", "Silicate", "Climeworks", "DAC", "Biochar", "Enhanced Weathering", "Ocean CDR"]
 description: "Boeing makes aviation's biggest carbon removal bet with CDI portfolio company Carbonfuture. Plus: Sustaera's 3x cheaper DAC, Climeworks goes to Calgary, Kenya's carbon credit crackdown, a 734-company CDR directory, and two ocean papers that challenge assumptions."

@@ -3,6 +3,7 @@ title: "Google Buys 200,000 Tons of Carbon Removal From Waste-to-Biochar Pioneer
 description: "Google signed a deal with AMP to remove 200,000 metric tons of CO₂ by 2030 — by using AI to sort organics from landfill waste and convert them into biochar."
 date: 2026-03-18T08:05:00+01:00
 slug: google-amp-waste-biochar-200k-tons-carbon-removal
+aliases: ["/s/104"]
 tags: ["CDR", "carbon removal", "biochar", "Google", "AMP", "waste", "AI", "methane"]
 summary: "Google signed a multiyear deal with AMP to remove 200,000 metric tons of CO₂ by 2030 — turning landfill-bound organic waste into biochar using AI-powered sorting."
 draft: false

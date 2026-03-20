@@ -3,6 +3,7 @@ title: "UK's First Net-Zero Concrete Uses Biochar From Coffee Waste"
 date: 2026-03-14T00:01:00+01:00
 draft: false
 slug: holcim-net-zero-concrete-biochar-coffee
+aliases: ["/s/79"]
 description: "Holcim UK and Canary Wharf Group achieve net-negative carbon concrete using biochar from spent coffee grounds — a first for the construction industry."
 tags: ["biochar", "concrete", "construction", "UK", "Holcim", "carbon removal"]
 cover:

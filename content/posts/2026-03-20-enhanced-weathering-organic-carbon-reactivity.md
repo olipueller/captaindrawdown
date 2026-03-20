@@ -3,6 +3,7 @@ title: "How Organic Carbon Changes Enhanced Weathering Reactivity"
 description: "New EGU 2026 research shows that adding organic carbon sources like compost and biochar alongside crushed rock fundamentally changes how fast enhanced weathering delivers carbon removal. The soil is more complicated than we thought."
 date: 2026-03-20T17:30:00+01:00
 slug: enhanced-weathering-organic-carbon-reactivity
+aliases: ["/s/115"]
 tags: ["CDR", "carbon removal", "enhanced weathering", "EW", "biochar", "compost", "soil science", "EGU", "metal slags", "MRV"]
 summary: "New EGU 2026 research: adding organic carbon (compost, biochar) alongside crushed rock changes how fast enhanced weathering works. Metal slags and inorganic fertilizers react differently depending on what organic matter is present."
 draft: false
@@ -38,7 +39,7 @@ For [enhanced weathering](/posts/what-is-enhanced-weathering/) companies and res
 
 **Feedstock choice matters more than we thought.** Metal slags, basalt, olivine, and wollastonite don't just differ in their inherent reactivity. They differ in how they *interact* with real farm soils that already contain organic amendments. Testing a mineral in a lab is one thing. Predicting its behavior in a field that gets annual compost applications is another.
 
-**Biochar + enhanced weathering could be powerful — or confounding.** Some companies are already exploring combined biochar and crushed rock applications, reasoning that both methods sequester carbon through different mechanisms. This research suggests the interaction between the two may not be simply additive. They change each other's behavior.
+**Biochar + [enhanced weathering](/posts/what-is-enhanced-weathering/) could be powerful — or confounding.** Some companies are already exploring combined biochar and crushed rock applications, reasoning that both methods sequester carbon through different mechanisms. This research suggests the interaction between the two may not be simply additive. They change each other's behavior.
 
 **Multi-year, multi-pool monitoring is non-negotiable.** A short-term experiment measuring one type of carbon in one type of soil with one mineral amendment will miss the interactions that drive real-world outcomes. The field needs longer experiments with more variables tracked simultaneously.
 

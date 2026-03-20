@@ -2,6 +2,7 @@
 title: "West Virginia Bets on Biochar: Coal State Stacks Tax Credits for Carbon Removal"
 date: 2026-03-01
 slug: west-virginia-biochar-tax-credit
+aliases: ["/s/14"]
 description: "West Virginia's Senate passes SB893, adding state tax credits on top of federal incentives to attract biochar carbon removal facilities."
 tags: ["biochar", "carbon removal", "policy", "West Virginia", "tax credits"]
 cover:

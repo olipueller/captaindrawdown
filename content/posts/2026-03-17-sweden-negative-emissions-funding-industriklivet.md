@@ -3,6 +3,7 @@ title: "Sweden Backs Negative Emissions With $34M in New Funding"
 description: "Sweden's Energy Agency launched two new calls under Industriklivet: $32M for scaling negative emissions projects and $1.6M for research. Applications open until April 29."
 date: 2026-03-17T15:45:00+01:00
 slug: sweden-negative-emissions-funding-industriklivet
+aliases: ["/s/98"]
 tags: ["CDR", "carbon removal", "Sweden", "policy", "funding", "Bio-CCS", "DAC", "Industriklivet", "negative emissions"]
 summary: "Sweden just launched $34M in new funding for negative emissions under Industriklivet — $32M for scaling projects and $1.6M for research. Nordic countries keep quietly leading on CDR."
 draft: false

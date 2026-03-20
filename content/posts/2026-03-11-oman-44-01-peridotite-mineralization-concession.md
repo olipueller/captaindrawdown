@@ -3,6 +3,7 @@ title: "Oman Signs World's First Commercial Peridotite Carbon Mineralization Con
 date: 2026-03-11T04:00:00+01:00
 draft: false
 slug: oman-44-01-peridotite-mineralization-concession
+aliases: ["/s/59"]
 description: "Startup 44.01 secured a government concession to mineralize CO₂ in Oman's Hajar Mountains — the first commercial-scale project using peridotite rock."
 tags: ["mineralization", "Oman", "44.01", "Middle East", "in-situ CDR"]
 cover:

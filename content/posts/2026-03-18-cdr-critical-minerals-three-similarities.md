@@ -3,6 +3,7 @@ title: "CDR and Critical Minerals Have More in Common Than You'd Think"
 description: "Carbon removal and critical minerals face strikingly similar challenges: hard-tech development timelines, competition from riskier alternatives, and dependence on the same policy tools to scale."
 date: 2026-03-18T11:55:00+01:00
 slug: cdr-critical-minerals-three-similarities
+aliases: ["/s/100"]
 tags: ["CDR", "carbon removal", "critical minerals", "policy", "hard tech", "market", "analysis"]
 summary: "A thoughtful analysis from Carbon Based Commentary: CDR and critical minerals are both hard-tech industries facing similar structural challenges — and could benefit from the same solutions."
 draft: false

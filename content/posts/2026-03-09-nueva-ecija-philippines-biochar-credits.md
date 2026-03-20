@@ -2,6 +2,7 @@
 title: "A Philippine Province Just Made Southeast Asian Biochar History"
 date: 2026-03-09T15:00:00+01:00
 slug: nueva-ecija-philippines-biochar-credits
+aliases: ["/s/40"]
 draft: false
 tags: ["biochar", "Philippines", "carbon credits", "Global South"]
 categories: ["Biochar"]

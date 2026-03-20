@@ -2,6 +2,7 @@
 title: "Ocean CDR Has a Nutrient Problem"
 date: 2026-03-10
 slug: ocean-cdr-nutrient-cycling-limits
+aliases: ["/s/51"]
 description: "New research shows carbon and phosphorus cycle at different speeds in the ocean, meaning biological CDR approaches like iron fertilization may overestimate long-term effectiveness."
 tags: ["science", "ocean CDR", "mCDR"]
 cover:

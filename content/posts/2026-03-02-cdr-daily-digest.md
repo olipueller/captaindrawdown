@@ -3,6 +3,7 @@ title: "CDR Daily Digest — March 2, 2026"
 description: "New data from BloombergNEF and the Business Council for Sustainable Energy confirms what many suspected: Microsoft is essentially _the_ carbon removal..."
 date: 2026-03-02
 slug: cdr-daily-digest-2026-03-02
+aliases: ["/s/17"]
 tags: ["digest", "cdr", "carbon-removal"]
 summary: "Microsoft bought 93% of all carbon removal credits last year — and the market still needs more buyers."
 cover:

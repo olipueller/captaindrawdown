@@ -3,6 +3,7 @@ title: "A US Paper Mill Wants to Capture Half a Million Tonnes of CO₂ Per Year
 date: 2026-03-15T14:15:00+00:00
 draft: false
 slug: svante-beccs-paper-mill-500k-tonnes
+aliases: ["/s/87"]
 description: "Svante advances a BECCS project at a southeastern US paper mill that would capture and permanently store over 500,000 tonnes of biogenic CO₂ annually — rivaling Climeworks' entire current capacity."
 tags: ["BECCS", "Svante", "pulp and paper", "CDR", "carbon capture"]
 cover:

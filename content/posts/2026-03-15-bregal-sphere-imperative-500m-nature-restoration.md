@@ -3,6 +3,7 @@ title: "Half a Billion Dollars for Ecosystem Restoration in the Global South"
 date: 2026-03-15T17:30:00+00:00
 draft: false
 slug: bregal-sphere-imperative-500m-nature-restoration
+aliases: ["/s/82"]
 description: "Bregal Sphere commits up to $500 million to Imperative's global ecosystem restoration projects across Africa, Asia, and Latin America — including South Africa's flagship spekboom restoration."
 tags: ["nature-based", "restoration", "CDR", "Global South", "investment"]
 cover:

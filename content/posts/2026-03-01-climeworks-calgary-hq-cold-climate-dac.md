@@ -2,6 +2,7 @@
 title: "Climeworks Opens Calgary HQ — Cold-Climate DAC Testing by Fall 2026"
 date: 2026-03-01
 slug: climeworks-calgary-hq-cold-climate-dac
+aliases: ["/s/11"]
 description: "CDI portfolio company Climeworks establishes new headquarters in Alberta, Canada, with mobile DAC test facility planned for fall 2026."
 tags: ["DAC", "Climeworks", "Canada", "CDI portfolio", "carbon removal"]
 cover:

@@ -3,6 +3,7 @@ title: "🌍 From Germany: \"65,000 Liters of Chemicals Into the Ocean?\" — Ho
 date: 2026-03-14T16:30:00+01:00
 draft: false
 slug: german-media-oae-loc-ness
+aliases: ["/s/78"]
 description: "FOCUS Online reports on the LOC-NESS ocean alkalinity enhancement experiment — and the framing reveals how public perception of CDR differs across languages."
 tags: ["OAE", "ocean alkalinity", "LOC-NESS", "Germany", "media coverage", "WHOI"]
 cover:

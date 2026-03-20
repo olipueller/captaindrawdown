@@ -3,6 +3,7 @@ title: "EU Greenlights €260M for Belgian CCS — Antwerp to North Sea Pipeline
 date: 2026-03-14T00:03:00+01:00
 draft: false
 slug: eu-kairos-ccs-belgium-260m
+aliases: ["/s/76"]
 description: "The European Commission approves €260M in state aid for the Kairos@C project — Air Liquide and BASF building a cross-border CCS value chain from Antwerp to North Sea storage."
 tags: ["CCS", "EU", "Belgium", "Air Liquide", "BASF", "policy", "state aid"]
 cover:

@@ -3,6 +3,7 @@ title: "India's Quiet Carbon Removal Revolution: From Basalt Dust to Corporate L
 description: "Indian farmers are spreading basalt powder on rice paddies — and the verified carbon removal is showing up on corporate climate reports thousands of kilometers away."
 date: 2026-03-18T09:15:00+01:00
 slug: india-carbon-removal-basalt-fields-corporate-ledgers
+aliases: ["/s/105"]
 tags: ["CDR", "carbon removal", "enhanced weathering", "India", "basalt", "carbon credits", "Global South"]
 summary: "Nearly 50 CDR projects are registered in India, generating 214,000 verified removal credits. Farmers spread basalt on paddies; corporations log the removals on their ledgers."
 draft: false

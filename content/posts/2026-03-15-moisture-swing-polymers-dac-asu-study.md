@@ -3,6 +3,7 @@ title: "Moisture-Swing Polymers Could Make Direct Air Capture Radically Cheaper"
 date: 2026-03-15T18:45:00+00:00
 draft: false
 slug: moisture-swing-polymers-dac-asu-study
+aliases: ["/s/86"]
 description: "ASU researchers reveal that macropore structure determines how well moisture-swing sorbents capture CO₂ — a key insight for designing cheaper, low-energy direct air capture materials."
 tags: ["DAC", "science", "materials", "CDR", "sorbents"]
 cover:

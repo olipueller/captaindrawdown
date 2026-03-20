@@ -2,6 +2,7 @@
 title: "First EPA-Permitted Ocean Alkalinity Trial Removes CO₂ Without Harming Marine Life"
 date: 2026-03-01
 slug: whoi-loc-ness-oae-trial-results
+aliases: ["/s/15"]
 description: "WHOI's LOC-NESS project delivers the first results from an EPA-approved ocean alkalinity enhancement experiment in the Gulf of Maine."
 tags: ["ocean CDR", "OAE", "marine carbon removal", "WHOI", "LOC-NESS"]
 cover:

@@ -3,6 +3,7 @@ title: "Octopus Energy Ups Its Grasslands CDR Bet to $100 Million"
 date: 2026-03-15T16:20:00+00:00
 draft: false
 slug: cultivo-octopus-energy-100m-grasslands
+aliases: ["/s/85"]
 description: "Octopus Energy Generation expands its carbon removal partnership with Cultivo to $100 million, targeting 9 million tonnes of CO₂ removal across 650,000+ acres of US grasslands."
 tags: ["nature-based", "grasslands", "CDR", "Cultivo", "investment"]
 cover:

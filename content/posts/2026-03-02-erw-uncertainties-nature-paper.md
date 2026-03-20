@@ -2,6 +2,7 @@
 title: "ERW Under Fire: What the Nature Paper on Uncertainties Actually Says"
 date: 2026-03-02
 slug: erw-uncertainties-nature-paper
+aliases: ["/s/18"]
 description: "A new Nature Reviews Earth & Environment paper and Germany's Thünen Institute highlight ERW uncertainties. Here's what that means — and why it's not the end of enhanced weathering."
 tags: ["ERW", "enhanced rock weathering", "MRV", "carbon removal", "research"]
 cover:

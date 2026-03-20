@@ -3,6 +3,7 @@ draft: false
 title: "The Dabbler Problem — Is CDR Research a Side Hustle?"
 date: 2026-03-20T21:45:00+01:00
 slug: "cdr-census-dabbler-problem"
+aliases: ["/s/117"]
 description: "69% of CDR researchers have it as less than 10% of their work. But the trajectory data reveals something more nuanced — and more hopeful."
 tags: ["CDR", "carbon removal", "research", "talent", "career", "census"]
 cover:

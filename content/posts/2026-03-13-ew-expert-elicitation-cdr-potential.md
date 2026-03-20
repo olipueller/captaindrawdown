@@ -3,6 +3,7 @@ title: "Enhanced Weathering Could Remove Up to 0.7 Gt CO₂/yr — But Efficienc
 date: 2026-03-13T06:00:00+01:00
 draft: false
 slug: ew-expert-elicitation-cdr-potential
+aliases: ["/s/70"]
 description: "A new Nature study asked 30+ experts to estimate enhanced weathering's CDR potential. The numbers are promising — and sobering."
 tags: ["ERW", "science", "CDR", "Nature"]
 cover:

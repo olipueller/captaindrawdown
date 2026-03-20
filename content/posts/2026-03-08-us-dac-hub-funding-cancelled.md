@@ -2,6 +2,7 @@
 title: "$1.2 Billion in US DAC Hub Funding: Cancelled. What Happens Now?"
 date: 2026-03-08T17:00:00+01:00
 slug: us-dac-hub-funding-cancelled
+aliases: ["/s/36"]
 draft: false
 tags: ["DAC", "policy", "US", "investment", "Trump", "45Q"]
 categories: ["Policy"]

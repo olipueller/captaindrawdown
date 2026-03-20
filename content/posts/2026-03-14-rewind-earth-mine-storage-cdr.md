@@ -3,6 +3,7 @@ title: "Abandoned Mines as Carbon Vaults: How Rewind Earth Is Turning Toxic Liab
 date: 2026-03-14T14:00:00+01:00
 draft: false
 slug: rewind-earth-mine-storage-cdr
+aliases: ["/s/80"]
 description: "Rewind Earth stores biomass in deep mine chambers — sequestering carbon while fixing acid drainage and methane emissions."
 tags: ["carbon removal", "mine storage", "MRV", "Rewind Earth", "BlueLayer"]
 cover:

@@ -3,6 +3,7 @@ title: "CDR Daily Digest — March 13, 2026"
 date: 2026-03-13T20:00:00+00:00
 draft: false
 slug: 2026-03-13-cdr-daily-digest
+aliases: ["/s/66"]
 description: "ERW efficiency gets a reality check, Vermont basalt passes the trace metal test, a UK council builds its own biochar unit, LEGO hits $7.9M in CDR, and Boeing locks in 40,000 tonnes of biochar credits."
 tags: ["CDR", "daily digest", "ERW", "biochar", "corporate buyers"]
 categories: ["Daily Digest"]

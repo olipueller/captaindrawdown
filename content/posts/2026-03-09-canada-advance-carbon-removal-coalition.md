@@ -2,6 +2,7 @@
 title: "Canada Assembles Its CDR Dream Team With $100M Coalition"
 date: 2026-03-09T08:00:00+01:00
 slug: canada-advance-carbon-removal-coalition
+aliases: ["/s/39"]
 draft: false
 tags: ["carbon removal", "Canada", "policy", "investment"]
 categories: ["Market"]

@@ -3,6 +3,7 @@ title: "New Catalyst Turns Atmospheric CO₂ Into Ethylene — While Removing 3 
 date: 2026-03-11T04:00:00+01:00
 draft: false
 slug: northwestern-co2-to-ethylene-nature-synthesis
+aliases: ["/s/58"]
 description: "Northwestern researchers published a Nature Synthesis paper showing a bismuth-copper catalyst can convert captured CO₂ directly into ethylene, with a net-negative carbon footprint when powered by renewables."
 tags: ["CCU", "science", "ethylene", "Northwestern", "Nature Synthesis"]
 cover:

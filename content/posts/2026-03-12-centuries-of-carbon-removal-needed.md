@@ -3,6 +3,7 @@ title: "Even 1.5°C Won't Save Us Without Centuries of Carbon Removal"
 date: 2026-03-12T04:00:00+00:00
 draft: false
 slug: centuries-of-carbon-removal-needed
+aliases: ["/s/61"]
 description: "Two new IIASA studies show that stabilizing temperatures isn't enough — sea-level rise, permafrost thaw, and other delayed impacts will keep worsening for centuries unless we commit to large-scale CDR far beyond current policy horizons."
 tags: ["science", "CDR", "IIASA", "climate policy", "net-negative"]
 cover:

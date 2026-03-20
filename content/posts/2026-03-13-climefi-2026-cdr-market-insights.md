@@ -3,6 +3,7 @@ title: "CDR Supply Is Tightening: Only 52% of 2026 Still Available"
 date: 2026-03-13T06:00:00+01:00
 draft: false
 slug: climefi-2026-cdr-market-insights
+aliases: ["/s/68"]
 description: "ClimeFi's latest market analysis shows durable CDR supply is running short. 114 suppliers, 142 projects, and prices are converging."
 tags: ["CDR market", "ClimeFi", "supply", "pricing"]
 cover:
