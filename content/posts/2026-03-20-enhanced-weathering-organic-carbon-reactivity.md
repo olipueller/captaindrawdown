@@ -53,6 +53,6 @@ Research like this narrows that gap — not by making the answer simpler, but by
 
 ### 🔗 Related Reading
 
-- [What Is Enhanced Weathering?](/posts/what-is-enhanced-weathering/)
+- [What Is [Enhanced Weathering](/posts/what-is-enhanced-weathering/)?](/posts/what-is-enhanced-weathering/)
 - [I Counted Every CDR Researcher on Earth. Here's What I Found.](/posts/cdr-researcher-census/)
 - [Bolivia Gets Its First Large-Scale Biochar Facility — 70,000 Tons CO₂/Year](/posts/bolivia-biochar-facility-70000-tons/)
