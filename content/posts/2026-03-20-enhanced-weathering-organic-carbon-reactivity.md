@@ -45,7 +45,7 @@ For [enhanced weathering](/posts/what-is-enhanced-weathering/) companies and res
 
 ## The Bigger Picture
 
-Enhanced weathering is one of the [most researched CDR pathways globally](/posts/cdr-researcher-census/), and for good reason — it's potentially cheap, scalable, and produces co-benefits for agriculture. But the gap between "this works in a controlled pot study" and "we can reliably measure how much carbon this removed from a real farm field" remains wide.
+[Enhanced weathering](/posts/what-is-enhanced-weathering/) is one of the [most researched CDR pathways globally](/posts/cdr-researcher-census/), and for good reason — it's potentially cheap, scalable, and produces co-benefits for agriculture. But the gap between "this works in a controlled pot study" and "we can reliably measure how much carbon this removed from a real farm field" remains wide.
 
 Research like this narrows that gap — not by making the answer simpler, but by showing us where the complexity actually lies. The soil doesn't care about our models. It reacts to what's actually in it.
 
