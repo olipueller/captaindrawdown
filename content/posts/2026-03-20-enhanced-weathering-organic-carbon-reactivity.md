@@ -20,7 +20,7 @@ New [research presented at EGU 2026](https://doi.org/10.5194/egusphere-egu26-591
 
 The researchers tested how different rock materials — specifically metal slags and inorganic fertilizer minerals — react when combined with various organic carbon sources, including compost and biochar. They measured how these combinations affected the dissolution rate of the minerals and the dynamics of inorganic carbon in the soil.
 
-This matters because in real-world farming, enhanced weathering rarely happens in isolation. Farmers already add compost, manure, and sometimes biochar to their soils. If a CDR company comes along and says "also spread this crushed basalt," the rock doesn't land on a blank canvas. It lands in a complex soup of organic matter, microbes, root exudates, and existing minerals.
+This matters because in real-world farming, [enhanced weathering](/posts/what-is-enhanced-weathering/) rarely happens in isolation. Farmers already add compost, manure, and sometimes biochar to their soils. If a CDR company comes along and says "also spread this crushed basalt," the rock doesn't land on a blank canvas. It lands in a complex soup of organic matter, microbes, root exudates, and existing minerals.
 
 ## Why Organic Carbon Changes the Game
 

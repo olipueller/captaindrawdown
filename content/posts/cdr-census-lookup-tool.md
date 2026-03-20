@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "Find Yourself in the CDR Census — 122,674 Researchers, Searchable"
-date: 2026-03-25T10:00:00+01:00
+date: 2026-03-20T21:35:00+01:00
 slug: "cdr-census-lookup-tool"
 description: "Search 122,674 CDR researchers by name. See your pathway, commitment level, trajectory, and how you compare. Built on OpenAlex + ORCID open data."
 tags: ["CDR", "carbon removal", "research", "census", "lookup", "tool"]
