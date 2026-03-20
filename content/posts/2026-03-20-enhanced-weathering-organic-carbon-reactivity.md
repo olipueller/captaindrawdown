@@ -32,7 +32,7 @@ This isn't surprising if you think about it. Compost is biologically active and 
 
 ## Implications for CDR
 
-For enhanced weathering companies and researchers, this has several practical consequences:
+For [enhanced weathering](/posts/what-is-enhanced-weathering/) companies and researchers, this has several practical consequences:
 
 **MRV gets harder.** If the rate and pathway of mineral dissolution depend on what else is in the soil, then measuring carbon removal requires understanding the full soil system — not just how much rock you spread. [Cation-based and total alkalinity-based MRV approaches](/posts/what-is-enhanced-weathering/) may be better suited to capture these interactions than simple soil carbon measurements.
 
