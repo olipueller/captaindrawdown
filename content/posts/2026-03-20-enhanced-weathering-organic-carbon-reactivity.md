@@ -14,7 +14,7 @@ cover:
 
 [Enhanced weathering](/posts/what-is-enhanced-weathering/) sounds simple in theory: spread crushed rock on farmland, let it dissolve in soil water, and the chemical reactions pull CO₂ out of the atmosphere. In practice, the soil has opinions.
 
-New [research presented at EGU 2026](https://doi.org/10.5194/egusphere-egu26-5913) — the European Geosciences Union General Assembly in Vienna — digs into one of the field's most important open questions: what happens when you combine enhanced weathering with organic carbon amendments? The answer appears to be "it depends" — which in soil science means "it's complicated."
+New [research presented at EGU 2026](https://doi.org/10.5194/egusphere-egu26-5913) — the European Geosciences Union General Assembly in Vienna — digs into one of the field's most important open questions: what happens when you combine [enhanced weathering](/posts/what-is-enhanced-weathering/) with organic carbon amendments? The answer appears to be "it depends" — which in soil science means "it's complicated."
 
 ## The Experiment
 
