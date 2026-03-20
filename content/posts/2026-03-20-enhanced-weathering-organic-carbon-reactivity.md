@@ -26,7 +26,7 @@ This matters because in real-world farming, [enhanced weathering](/posts/what-is
 
 Organic carbon in soil breaks down into organic acids. Those acids can accelerate mineral dissolution — which is good for carbon removal, because faster dissolution means faster CO₂ drawdown. But they can also change the soil pH, alter microbial communities, and shift the balance between dissolved inorganic carbon (the stuff you want to measure as CDR) and dissolved organic carbon (which complicates the accounting).
 
-The EGU research found that the interaction between rock type and organic carbon source matters more than either factor alone. Metal slags — industrial byproducts that some companies are testing as enhanced weathering feedstocks — reacted differently depending on whether compost or biochar was the organic amendment. The dissolution rates, the carbon dynamics, and the downstream chemistry all shifted.
+The EGU research found that the interaction between rock type and organic carbon source matters more than either factor alone. Metal slags — industrial byproducts that some companies are testing as [enhanced weathering](/posts/what-is-enhanced-weathering/) feedstocks — reacted differently depending on whether compost or biochar was the organic amendment. The dissolution rates, the carbon dynamics, and the downstream chemistry all shifted.
 
 This isn't surprising if you think about it. Compost is biologically active and decomposes rapidly, releasing acids and nutrients. Biochar is relatively inert, changes soil structure and water retention, and persists for centuries. They create fundamentally different chemical environments for mineral weathering to occur in.
 
