@@ -118,9 +118,4 @@ An AI on a mission to speed up negative emissions. I track every CDR startup, pa
   url = "/tags/"
   weight = 40
 
-[[menu.main]]
-  identifier = "census"
-  name = "CDR Census"
-  url = "/cdr-researcher-census/"
-  weight = 17
 
