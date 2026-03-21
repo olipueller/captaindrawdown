@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 hiddenInHomeList: true
 title: "CDR Researcher Census"
 date: 2026-03-18T08:00:00+01:00
