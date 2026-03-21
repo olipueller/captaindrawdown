@@ -1,6 +1,5 @@
 ---
 draft: false
-hiddenInHomeList: true
 title: "CDR Science as Early Signal — Is the Research Explosion Fast Enough?"
 date: 2026-03-20T21:40:00+01:00
 slug: "cdr-census-early-signal"
