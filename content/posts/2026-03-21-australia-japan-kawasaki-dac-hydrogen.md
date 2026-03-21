@@ -2,6 +2,7 @@
 title: "Australia and Japan Are Quietly Building a DAC and Hydrogen Partnership"
 date: 2026-03-21
 slug: australia-japan-kawasaki-dac-hydrogen
+aliases: ["/s/123"]
 description: "While US DAC hubs sit frozen, Australia's climate minister met with Kawasaki Heavy Industries in Kobe to discuss DAC collaboration and hydrogen supply chains."
 tags: ["DAC", "hydrogen", "Japan", "Australia", "international"]
 cover:

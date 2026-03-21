@@ -2,6 +2,7 @@
 title: "$3.5 Billion in DAC Hubs Are Stuck in Political Limbo"
 date: 2026-03-21
 slug: doe-dac-hubs-stalled-audit
+aliases: ["/s/126"]
 description: "The DOE's flagship carbon removal hubs have been frozen for 500+ days under Trump admin audits. Startups can't wait forever."
 tags: ["DAC", "policy", "US", "Climeworks", "Heirloom", "Occidental"]
 cover:

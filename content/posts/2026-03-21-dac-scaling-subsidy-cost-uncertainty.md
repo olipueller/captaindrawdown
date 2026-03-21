@@ -2,6 +2,7 @@
 title: "The Math on DAC Subsidies: $900B to $3T, and It's Worth It (With a Giant Asterisk)"
 date: 2026-03-21
 slug: dac-scaling-subsidy-cost-uncertainty
+aliases: ["/s/125"]
 description: "New research quantifies DAC's subsidy needs for the first time. The price tag is eye-watering — but the math works IF we also cut emissions."
 tags: ["DAC", "policy", "economics", "research"]
 cover:

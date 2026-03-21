@@ -2,6 +2,7 @@
 title: "Biochar Just Got Another Job: Destroying Antibiotics in Water"
 date: 2026-03-21
 slug: biochar-nanotube-antibiotic-water-treatment
+aliases: ["/s/124"]
 description: "A new biochar-nanotube composite removes 90%+ of antibiotics from wastewater. More co-benefits, stronger CDR business case."
 tags: ["biochar", "water treatment", "research", "co-benefits"]
 cover:
