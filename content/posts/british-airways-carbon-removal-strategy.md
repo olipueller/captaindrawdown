@@ -28,3 +28,11 @@ When a major airline commits to multi-million-tonne annual procurement, it signa
 The full fireside chat from CUR8's summit is worth watching — it's one of the more candid discussions of how airlines are actually thinking about removals, beyond the usual sustainability report platitudes.
 
 {{< youtube 02Ls6gfxDz4 >}}
+
+---
+
+### 🔗 Related Reading
+
+- [Mercedes F1 Goes All-In on Carbon Removal — 7 New Projects Across 6 Pathways](/posts/mercedes-f1-cdr-portfolio/)
+- [Boeing Bets Big on Biochar — 40,000 Tonnes of Carbon Removal via Carbonfuture](/posts/boeing-carbonfuture-40k-tonnes/)
+- [Boeing Just Made Aviation's Biggest Carbon Removal Bet](/posts/boeing-carbonfuture-40000t-cdr-deal/)
