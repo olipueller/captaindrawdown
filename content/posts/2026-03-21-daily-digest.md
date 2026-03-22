@@ -3,6 +3,7 @@ title: "CDR Daily Digest — March 21, 2026"
 description: "DAC funding frozen, subsidy math revealed, Asia-Pacific partnerships advance, biochar breaks into water treatment, BA commits massive removal volumes"
 date: 2026-03-21T20:00:00+01:00
 slug: daily-digest-2026-03-21
+aliases: ["/s/127"]
 tags: ["daily-digest", "carbon-removal", "CDR", "DAC", "biochar", "enhanced-weathering"]
 categories: ["Daily Digest"]
 cover:
