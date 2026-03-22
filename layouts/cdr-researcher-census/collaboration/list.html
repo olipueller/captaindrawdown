@@ -1,0 +1,295 @@
+{{ define "main" }}
+
+<div class="post-content collaboration-atlas">
+
+  <nav class="breadcrumbs" aria-label="Breadcrumbs">
+    <a href="/">Home</a> /
+    <a href="/cdr-researcher-census/">CDR Census</a> /
+    <span>Collaboration Atlas</span>
+  </nav>
+
+  <h1>🌐 CDR Collaboration Atlas</h1>
+  <p class="atlas-subtitle">Who works with whom in carbon dioxide removal research — mapped across 114,000+ connected researchers.</p>
+
+  <!-- Hero Stats -->
+  <div id="hero-stats" class="stats-grid">
+    <div class="stat-card"><div class="stat-number" id="stat-researchers">—</div><div class="stat-label">Connected Researchers</div></div>
+    <div class="stat-card"><div class="stat-number" id="stat-edges">—</div><div class="stat-label">Co-authorship Links</div></div>
+    <div class="stat-card"><div class="stat-number" id="stat-communities">—</div><div class="stat-label">Research Communities</div></div>
+    <div class="stat-card"><div class="stat-number" id="stat-bridges">—</div><div class="stat-label">Cross-Method Bridges</div></div>
+  </div>
+
+  <!-- Pathway Heatmap -->
+  <h2>🔥 How CDR Methods Cross-Pollinate</h2>
+  <p>This heatmap shows co-authorship intensity between researchers from different CDR methods. Darker = more collaboration. Diagonal = within-method collaboration.</p>
+  <div id="pathway-heatmap" class="viz-container"></div>
+
+  <!-- Country Collaboration -->
+  <h2>🌍 Top Country Collaborations</h2>
+  <p>The strongest international research partnerships in CDR, measured by co-authored papers.</p>
+  <div id="country-chart" class="viz-container"></div>
+
+  <!-- Top Connectors -->
+  <h2>🔗 Bridge Researchers</h2>
+  <p>These researchers connect the most CDR methods through their co-authorship network — the rare people who span biochar, DAC, ocean CDR, and more.</p>
+  <div id="connectors-table" class="table-container"></div>
+
+  <!-- Community Explorer -->
+  <h2>🏘️ Research Communities</h2>
+  <p>Louvain community detection found <span id="community-count">—</span> distinct research clusters. Here are the largest — each with a dominant CDR method, country, and institution.</p>
+  <div id="communities-list"></div>
+
+  <!-- Institution Network -->
+  <h2>🏛️ Institution Collaboration Network</h2>
+  <p>The top 200 research institutions and how they connect through co-authored CDR papers. Node size = number of researchers. Edge thickness = collaboration strength.</p>
+  <div id="institution-network" class="viz-container" style="height:600px;border:1px solid var(--border);border-radius:8px;position:relative;">
+    <div id="network-loading" style="position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);color:var(--secondary);">Loading network...</div>
+  </div>
+
+  <nav class="researcher-nav" style="margin-top:3rem;">
+    <a href="/cdr-researcher-census/" class="nav-link">&larr; Back to Census</a>
+    <a href="/cdr-researcher-census/lookup/" class="nav-link">Search Researchers</a>
+  </nav>
+
+</div>
+
+<style>
+.collaboration-atlas { max-width: 960px; margin: 2rem auto; }
+.atlas-subtitle { font-size: 1.15em; color: var(--secondary); margin-bottom: 2rem; }
+.breadcrumbs { font-size: 0.9em; color: var(--secondary); margin-bottom: 2rem; padding-bottom: 1rem; border-bottom: 1px solid var(--border); }
+.breadcrumbs a { color: var(--tertiary); text-decoration: none; }
+.breadcrumbs a:hover { text-decoration: underline; }
+
+.stats-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 1rem; margin: 2rem 0; }
+.stat-card { background: var(--code-bg); border-radius: 8px; padding: 1.2rem; text-align: center; }
+.stat-number { font-size: 1.8em; font-weight: 700; color: var(--primary); }
+.stat-label { font-size: 0.85em; color: var(--secondary); margin-top: 0.3rem; }
+
+.viz-container { margin: 1.5rem 0 2.5rem 0; }
+.table-container { margin: 1.5rem 0 2.5rem 0; overflow-x: auto; }
+
+.connector-table { width: 100%; border-collapse: collapse; font-size: 0.9em; }
+.connector-table th { text-align: left; padding: 0.6rem 0.8rem; border-bottom: 2px solid var(--border); color: var(--secondary); font-weight: 600; }
+.connector-table td { padding: 0.5rem 0.8rem; border-bottom: 1px solid var(--border); }
+.connector-table tr:hover { background: var(--code-bg); }
+
+.method-badge { display: inline-block; padding: 2px 8px; border-radius: 12px; font-size: 0.78em; font-weight: 600; margin: 1px 2px; }
+.method-badge.soil-carbon { background: #a0d468; color: #2a5e0f; }
+.method-badge.biochar { background: #6d4c41; color: #fff; }
+.method-badge.dac { background: #64b5f6; color: #0d47a1; }
+.method-badge.enhanced-weathering { background: #bcaaa4; color: #3e2723; }
+.method-badge.beccs { background: #ff8a65; color: #4e2600; }
+.method-badge.ocean-cdr { background: #4dd0e1; color: #004d40; }
+.method-badge.general-cdr { background: #b39ddb; color: #311b92; }
+
+.community-card { background: var(--code-bg); border-radius: 8px; padding: 1.2rem; margin: 1rem 0; }
+.community-card h3 { margin: 0 0 0.5rem 0; font-size: 1.05em; }
+.community-meta { display: flex; flex-wrap: wrap; gap: 1.5rem; font-size: 0.88em; color: var(--secondary); }
+.community-meta strong { color: var(--primary); }
+
+.country-bar { display: flex; align-items: center; margin: 0.4rem 0; font-size: 0.88em; }
+.country-pair { width: 120px; flex-shrink: 0; font-weight: 600; }
+.country-bar-fill { height: 22px; background: var(--tertiary); border-radius: 4px; margin: 0 8px; opacity: 0.7; }
+.country-bar-val { color: var(--secondary); font-size: 0.85em; }
+
+@media (max-width: 600px) {
+  .stats-grid { grid-template-columns: repeat(2, 1fr); }
+  .community-meta { flex-direction: column; gap: 0.5rem; }
+}
+</style>
+
+<script src="https://unpkg.com/@sigmajs/sigma@3.0.0-beta.12/build/sigma.min.js"></script>
+<script src="https://unpkg.com/graphology@0.25.4/dist/graphology.umd.min.js"></script>
+<script src="https://unpkg.com/graphology-layout-forceatlas2@0.10.1/build/graphology-layout-forceatlas2.min.js"></script>
+<script src="https://d3js.org/d3.v7.min.js"></script>
+
+<script>
+const DATA_BASE = '/data/census/collaboration/';
+const fmt = n => n?.toLocaleString() ?? '—';
+
+function badgeClass(pathway) {
+  return 'method-badge ' + (pathway||'').toLowerCase().replace(/\s+/g,'-');
+}
+function badge(pathway) {
+  return `<span class="${badgeClass(pathway)}">${pathway}</span>`;
+}
+
+// Load all data
+Promise.all([
+  fetch(DATA_BASE+'global-stats.json').then(r=>r.json()),
+  fetch(DATA_BASE+'pathway-matrix.json').then(r=>r.json()),
+  fetch(DATA_BASE+'country-network.json').then(r=>r.json()),
+  fetch(DATA_BASE+'top-connectors.json').then(r=>r.json()),
+  fetch(DATA_BASE+'communities.json').then(r=>r.json()),
+  fetch(DATA_BASE+'institution-network.json').then(r=>r.json()),
+]).then(([stats, matrix, countries, connectors, communities, institutions]) => {
+  // Hero stats
+  document.getElementById('stat-researchers').textContent = fmt(stats.connectedResearchers);
+  document.getElementById('stat-edges').textContent = fmt(stats.coauthorEdges);
+  document.getElementById('stat-communities').textContent = fmt(stats.communities);
+  document.getElementById('stat-bridges').textContent = fmt(stats.bridgeResearchers);
+  document.getElementById('community-count').textContent = stats.communities;
+
+  renderHeatmap(matrix);
+  renderCountryChart(countries);
+  renderConnectors(connectors);
+  renderCommunities(communities);
+  renderInstitutionNetwork(institutions);
+}).catch(e => console.error('Atlas load error:', e));
+
+function renderHeatmap(data) {
+  const container = document.getElementById('pathway-heatmap');
+  const paths = data.pathways.map(p => p.replace('Enhanced Weathering','EW').replace('Soil Carbon','Soil C').replace('Ocean CDR','Ocean').replace('General CDR','General'));
+  const n = paths.length;
+  const cellSize = Math.min(80, (container.clientWidth - 100) / n);
+  const margin = {top: 80, left: 100};
+  const w = margin.left + n * cellSize;
+  const h = margin.top + n * cellSize;
+
+  // Get max off-diagonal value for color scale
+  let maxVal = 0;
+  data.matrix.forEach((row,i) => row.forEach((v,j) => { if(i!==j) maxVal = Math.max(maxVal, v); }));
+
+  const svg = d3.select(container).append('svg').attr('viewBox', `0 0 ${w} ${h}`).style('max-width','100%');
+  const color = d3.scaleSequential(d3.interpolateYlOrRd).domain([0, maxVal]);
+
+  // Cells
+  data.matrix.forEach((row, i) => {
+    row.forEach((val, j) => {
+      svg.append('rect')
+        .attr('x', margin.left + j * cellSize).attr('y', margin.top + i * cellSize)
+        .attr('width', cellSize - 2).attr('height', cellSize - 2)
+        .attr('rx', 3)
+        .attr('fill', i===j ? '#555' : color(val))
+        .append('title').text(`${data.pathways[i]} ↔ ${data.pathways[j]}: ${fmt(val)}`);
+
+      if(val > 0) {
+        svg.append('text')
+          .attr('x', margin.left + j * cellSize + cellSize/2 - 1)
+          .attr('y', margin.top + i * cellSize + cellSize/2 + 1)
+          .attr('text-anchor','middle').attr('dominant-baseline','middle')
+          .attr('font-size', cellSize < 60 ? '8px' : '10px')
+          .attr('fill', val > maxVal*0.6 || i===j ? '#fff' : '#333')
+          .text(val > 999 ? (val/1000).toFixed(1)+'k' : val);
+      }
+    });
+  });
+
+  // Labels
+  paths.forEach((p, i) => {
+    svg.append('text').attr('x', margin.left - 8).attr('y', margin.top + i * cellSize + cellSize/2)
+      .attr('text-anchor','end').attr('dominant-baseline','middle').attr('font-size','11px').attr('fill','var(--primary)').text(p);
+    svg.append('text').attr('x', margin.left + i * cellSize + cellSize/2).attr('y', margin.top - 8)
+      .attr('text-anchor','middle').attr('font-size','11px').attr('fill','var(--primary)')
+      .attr('transform', `rotate(-45, ${margin.left + i * cellSize + cellSize/2}, ${margin.top - 8})`).text(p);
+  });
+}
+
+function renderCountryChart(data) {
+  const container = document.getElementById('country-chart');
+  const top20 = data.edges.sort((a,b) => b.papers - a.papers).slice(0, 20);
+  const maxPapers = top20[0]?.papers || 1;
+
+  let html = '';
+  top20.forEach(e => {
+    const pct = (e.papers / maxPapers * 100).toFixed(0);
+    html += `<div class="country-bar">
+      <span class="country-pair">${e.country1} ↔ ${e.country2}</span>
+      <div class="country-bar-fill" style="width:${pct}%"></div>
+      <span class="country-bar-val">${fmt(e.papers)} papers</span>
+    </div>`;
+  });
+  container.innerHTML = html;
+}
+
+function renderConnectors(data) {
+  const container = document.getElementById('connectors-table');
+  let html = '<table class="connector-table"><thead><tr><th>#</th><th>Researcher</th><th>Methods Bridged</th><th>Co-authors</th><th>Primary Method</th><th>Institution</th><th>Country</th></tr></thead><tbody>';
+  data.slice(0, 50).forEach((c, i) => {
+    html += `<tr>
+      <td>${i+1}</td>
+      <td><strong>${c.name}</strong></td>
+      <td>${c.methodsBridged}</td>
+      <td>${c.degree}</td>
+      <td>${badge(c.primaryPathway)}</td>
+      <td>${c.institution || '—'}</td>
+      <td>${c.country || '—'}</td>
+    </tr>`;
+  });
+  html += '</tbody></table>';
+  container.innerHTML = html;
+}
+
+function renderCommunities(data) {
+  const container = document.getElementById('communities-list');
+  let html = '';
+  data.slice(0, 20).forEach((c, i) => {
+    html += `<div class="community-card">
+      <h3>Community ${i+1}: ${c.dominantPathway} cluster (${fmt(c.size)} researchers)</h3>
+      <div class="community-meta">
+        <span>🔬 ${badge(c.dominantPathway)} <strong>${c.pathwayPct}%</strong></span>
+        <span>🌍 <strong>${c.dominantCountry}</strong> (${c.countryPct}%)</span>
+        <span>🏛️ <strong>${c.topInstitution}</strong></span>
+      </div>
+      ${c.topResearchers ? `<div style="margin-top:0.5rem;font-size:0.85em;color:var(--secondary)">Top researchers: ${c.topResearchers.join(', ')}</div>` : ''}
+    </div>`;
+  });
+  container.innerHTML = html;
+}
+
+function renderInstitutionNetwork(data) {
+  const container = document.getElementById('institution-network');
+  const loadingEl = document.getElementById('network-loading');
+  
+  try {
+    const graph = new graphology.Graph();
+    
+    // Add nodes
+    data.nodes.forEach(n => {
+      graph.addNode(n.id, {
+        label: n.label,
+        size: Math.max(3, Math.sqrt(n.researchers) * 1.5),
+        color: n.dominantPathway === 'Soil Carbon' ? '#a0d468' :
+               n.dominantPathway === 'Biochar' ? '#8d6e63' :
+               n.dominantPathway === 'DAC' ? '#64b5f6' :
+               n.dominantPathway === 'Enhanced Weathering' ? '#bcaaa4' :
+               n.dominantPathway === 'BECCS' ? '#ff8a65' :
+               n.dominantPathway === 'Ocean CDR' ? '#4dd0e1' :
+               '#b39ddb',
+        x: Math.random() * 100,
+        y: Math.random() * 100,
+      });
+    });
+
+    // Add edges
+    data.edges.forEach(e => {
+      if (graph.hasNode(e.source) && graph.hasNode(e.target)) {
+        graph.addEdge(e.source, e.target, {
+          weight: e.papers,
+          size: Math.max(0.5, Math.log2(e.papers + 1) * 0.5),
+          color: 'rgba(128,128,128,0.15)',
+        });
+      }
+    });
+
+    // Run ForceAtlas2 layout
+    const settings = graphologyLayoutForceAtlas2.inferSettings(graph);
+    graphologyLayoutForceAtlas2.assign(graph, { iterations: 100, settings });
+
+    // Render with Sigma
+    loadingEl.remove();
+    const renderer = new Sigma(graph, container, {
+      renderLabels: true,
+      labelRenderedSizeThreshold: 8,
+      labelSize: 11,
+      labelColor: { color: 'var(--primary)' },
+      defaultEdgeColor: 'rgba(128,128,128,0.15)',
+    });
+  } catch(e) {
+    loadingEl.textContent = 'Network visualization requires a modern browser.';
+    console.error('Sigma error:', e);
+  }
+}
+</script>
+
+{{ end }}

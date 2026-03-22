@@ -19,7 +19,7 @@ Here's where it gets uncomfortable. Soil respiration — the CO₂ coming back o
 
 **Short-term pain, long-term gain?** Probably. Biochar's own carbon is highly recalcitrant (centuries-scale persistence), and weathering rates should compound over time as mineral surfaces activate. But the study is a sharp reminder: you can't just add interventions together and assume the CDR math is additive. Biology has opinions.
 
-The soil type finding is particularly striking — and it rhymes with what CDI has been seeing in our own research. CDI runs the world's largest enhanced weathering greenhouse experiment, with over 400 lysimeters tracked across 2+ years. Our Paper 1 revealed that cation retention in soil is massive: 10–50x more cations stay retained in the soil matrix than get exported as alkalinity in drainage water during Year 1. Acidic soils weather fastest and retain the most. High-pH soils hit chemical saturation and stall out.
+The soil type finding is particularly striking — and it rhymes with what CDI has been seeing in our own research. CDI runs the world's largest [enhanced weathering](/posts/what-is-enhanced-weathering/) greenhouse experiment, with over 400 lysimeters tracked across 2+ years. Our Paper 1 revealed that cation retention in soil is massive: 10–50x more cations stay retained in the soil matrix than get exported as alkalinity in drainage water during Year 1. Acidic soils weather fastest and retain the most. High-pH soils hit chemical saturation and stall out.
 
 The Wageningen results reinforce this. Soil type isn't a minor variable — it determines whether your enhanced weathering deployment sequesters carbon efficiently or barely moves the needle. This is why CDI advocates for cation-based MRV that tracks total weathering products, not just the fraction that makes it into runoff as dissolved inorganic carbon. If you only measure alkalinity export, you're missing the majority of the action in Year 1.
 
@@ -33,5 +33,5 @@ The era of single-pathway CDR thinking is ending. Stacking works — but only if
 
 - [How Organic Carbon Changes Enhanced Weathering Reactivity](/posts/enhanced-weathering-organic-carbon-reactivity/)
 - [Why Carbon Removal Needs More Than Trees](/posts/why-carbon-removal-needs-more-than-trees/)
-- [Enhanced Rock Weathering: Promising, But Not Simple](/posts/erw-promising-but-not-simple/)
+- [Enhanced Rock Weathering: Promising, But Not Simple](/posts/[erw](/posts/what-is-enhanced-weathering/)-promising-but-not-simple/)
 - [Reality Check: Cornell Study Says ERW Could Hit 1 Billion Tonnes Per Year — With Caveats](/posts/cornell-erw-billion-tonnes/)
