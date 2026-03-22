@@ -5,6 +5,7 @@ title: "CDR Researcher Census"
 date: 2026-03-18T08:00:00+01:00
 slug: "cdr-researcher-census"
 url: "/cdr-researcher-census/"
+aliases: ["/census", "/census/", "/researchers", "/researchers/", "/cdr-census", "/cdr-census/"]
 description: "A monthly-updated census of 122,674 CDR researchers across 7 pathways, 186 countries, and 18,108 institutions. Built on OpenAlex + ORCID open data."
 tags: ["CDR", "carbon removal", "research", "census"]
 layout: "single"
