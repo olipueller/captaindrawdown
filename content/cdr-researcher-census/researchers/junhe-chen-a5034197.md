@@ -1,0 +1,78 @@
+---
+title: "Junhe Chen"
+description: "Junhe Chen is a Mid-career Soil Carbon researcher at Qingdao University in CN. With 57 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-22T05:13:06.250062
+url: "/cdr-researcher-census/researchers/junhe-chen-a5034197/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Junhe Chen",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/junhe-chen-a5034197/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Qingdao University"
+  },
+  "sameAs": [
+    "https://orcid.org/0000-0001-8258-0456",
+    "https://openalex.org/A5034197238"
+  ]
+}
+</script>
+
+## Profile
+
+**Junhe Chen**  
+Qingdao University · 🇨🇳 CN
+
+**Career Stage:** Mid-career
+
+## CDR Specialization
+
+**Soil Carbon**
+
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 12 |
+| Citations | 460 |
+| Publications | 57 |
+| CDR Focus | 10.5% |
+| Trajectory | Declining |
+
+## Top CDR Publications
+
+1. **Interactions between the Grain‐for‐Green Program and check dams increased vegetation carbon sequestration in the Yanhe basin, Loess Plateau** (2023)
+   13 citations · Soil Carbon
+
+2. **Distribution and Transport of CO<sub>2</sub> in Hyperbranched Poly(ethylenimine)-Loaded MCM-41: A Molecular Dynamics Simulation Approach** (2023)
+   12 citations · DAC
+
+3. **Exploring the natural-socioeconomic driving and response mechanisms of ecosystem services interactions to optimize ecosystem management: A case study in the Yarlung Zangbo River Basin** (2024)
+   10 citations · Soil Carbon
+
+4. **Plateau pika burrowing and yak grazing jointly determine ecosystem greenhouse gas emissions of alpine meadow** (2022)
+   6 citations · Soil Carbon
+
+5. **CO<sub>2</sub> Capture Characteristics of Hyperbranched Poly(alkylene imine): A Molecular Dynamics Simulation Approach** (2025)
+   1 citations · DAC
+
+6. **Responses of carbon sequestration services to multiple soil and water conservation projects in Yanhe Basin, Loess Plateau** (2022)
+   0 citations · Soil Carbon
+
+## External Profiles
+
+- [ORCID](https://orcid.org/0000-0001-8258-0456)
+- [OpenAlex](https://openalex.org/A5034197238)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

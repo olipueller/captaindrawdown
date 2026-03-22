@@ -1,0 +1,77 @@
+---
+title: "Yumei Peng"
+description: "Yumei Peng is a Mid-career Soil Carbon researcher at China Agricultural University in CN. With 28 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-22T05:13:06.087143
+url: "/cdr-researcher-census/researchers/yumei-peng-a5086112/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Yumei Peng",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yumei-peng-a5086112/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "China Agricultural University"
+  },
+  "sameAs": "https://openalex.org/A5086112881"
+}
+</script>
+
+## Profile
+
+**Yumei Peng**  
+China Agricultural University · 🇨🇳 CN
+
+**Career Stage:** Mid-career
+
+## CDR Specialization
+
+**Soil Carbon**
+
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 11 |
+| Citations | 760 |
+| Publications | 28 |
+| CDR Focus | 25.0% |
+| Trajectory | Stable |
+
+## Top CDR Publications
+
+1. **Effects of erosion and deposition on the extent and characteristics of organic carbon associated with soil minerals in Mollisol landscape** (2023)
+   25 citations · Soil Carbon
+
+2. **Soil organic carbon pool distribution and stability with grazing and topography in a Mongolian grassland** (2023)
+   25 citations · Soil Carbon
+
+3. **Mechanisms controlling the stability and sequestration of mineral associated organic carbon upon erosion and deposition** (2024)
+   23 citations · Soil Carbon
+
+4. **Biocrusts benefit soil carbon sequestration via increasing the stability of soil dissolved organic carbon in dryland ecosystem** (2025)
+   9 citations · Soil Carbon
+
+5. **Changes in long-term land use alter deep soil microbial necromass and organic carbon stabilization** (2025)
+   8 citations · Soil Carbon
+
+6. **Microplastic Mixture Diversity Destabilizes Mineral-Associated Carbon via Constraining the Accumulation of Microbial Necromass** (2025)
+   2 citations · Soil Carbon
+
+7. **Substrate-specific priming of mineral-associated organic carbon in various cropland soils** (2025)
+   0 citations · Soil Carbon
+
+## External Profiles
+
+- [OpenAlex](https://openalex.org/A5086112881)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

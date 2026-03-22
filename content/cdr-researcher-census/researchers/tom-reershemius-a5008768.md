@@ -1,0 +1,90 @@
+---
+title: "Tom Reershemius"
+description: "Tom Reershemius is a Mid-career Enhanced Weathering researcher at Newcastle University in GB. With 34 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-22T05:13:06.330571
+url: "/cdr-researcher-census/researchers/tom-reershemius-a5008768/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Tom Reershemius",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/tom-reershemius-a5008768/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Newcastle University"
+  },
+  "sameAs": [
+    "https://orcid.org/0000-0003-3512-6693",
+    "https://openalex.org/A5008768478"
+  ]
+}
+</script>
+
+## Profile
+
+**Tom Reershemius**  
+Newcastle University · 🇬🇧 GB
+
+**Career Stage:** Mid-career
+
+## CDR Specialization
+
+**Enhanced Weathering**
+
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 7 |
+| Citations | 389 |
+| Publications | 34 |
+| CDR Focus | 82.4% |
+| Trajectory | Stable |
+
+## Top CDR Publications
+
+1. **Enhanced weathering in the US Corn Belt delivers carbon removal with agronomic benefits** (2024)
+   110 citations · Enhanced Weathering
+
+2. **River chemistry constraints on the carbon capture potential of surficial enhanced rock weathering** (2022)
+   57 citations · Enhanced Weathering
+
+3. **Initial Validation of a Soil-Based Mass-Balance Approach for Empirical Monitoring of Enhanced Rock Weathering Rates** (2023)
+   56 citations · Enhanced Weathering
+
+4. **A review of measurement for quantification of carbon dioxide removal by enhanced weathering in soil** (2024)
+   40 citations · Enhanced Weathering
+
+5. **A tool for assessing the sensitivity of soil-based approaches for quantifying enhanced weathering: a US case study** (2024)
+   13 citations · Enhanced Weathering
+
+6. **On error, uncertainty, and assumptions in calculating carbon dioxide removal rates by enhanced rock weathering in Kantola et al., 2023** (2023)
+   9 citations · Enhanced Weathering
+
+7. **A Review of Measurement for Quantification of Carbon Dioxide Removal by Enhanced Weathering in Soil** (2023)
+   6 citations · Enhanced Weathering
+
+8. **Initial validation of a soil-based mass-balance approach for empirical monitoring of enhanced rock weathering rates** (2023)
+   6 citations · Enhanced Weathering
+
+9. **Enhanced weathering in the U.S. Corn Belt delivers carbon removal with agronomic benefits** (2023)
+   5 citations · Enhanced Weathering
+
+10. **Weathering without inorganic CDR revealed through cation tracing** (2025)
+   3 citations · Enhanced Weathering
+
+## External Profiles
+
+- [ORCID](https://orcid.org/0000-0003-3512-6693)
+- [OpenAlex](https://openalex.org/A5008768478)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

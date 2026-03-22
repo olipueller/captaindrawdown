@@ -1,0 +1,60 @@
+---
+title: "Hadi Hamdi Mahdi"
+description: "Hadi Hamdi Mahdi is a Mid-career General CDR researcher. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-22T05:13:07.304838
+url: "/cdr-researcher-census/researchers/hadi-hamdi-mahdi-a5034239/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Hadi Hamdi Mahdi",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/hadi-hamdi-mahdi-a5034239/",
+  "sameAs": "https://openalex.org/A5034239368"
+}
+</script>
+
+## Profile
+
+**Hadi Hamdi Mahdi**
+
+**Career Stage:** Mid-career
+
+## CDR Specialization
+
+**General CDR**
+
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 6 |
+| Citations | 111 |
+| Publications | 13 |
+| CDR Focus | 23.1% |
+| Trajectory | Growing |
+
+## Top CDR Publications
+
+1. **Isotherm and kinetic models of SO2 adsorption on palm kernel shell-activated carbon and xerogel blends: Effect of flow rate and contact time** (2025)
+   8 citations · General CDR
+
+2. **Waste-to-Energy Innovations and Advances in Hydrothermal Carbonization, Microwave, and Pyrolysis Processes: A Review** (2026)
+   0 citations · Soil Carbon
+
+3. **Optimization for the Effects of Coconut Shell Activated Carbon Xerogel Weight and Temperature on the Hydrogen Sulphide Adsorption Using Response Surface Methodology** (2024)
+   0 citations · Biochar
+
+## External Profiles
+
+- [OpenAlex](https://openalex.org/A5034239368)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

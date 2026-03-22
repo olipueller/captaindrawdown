@@ -1,0 +1,72 @@
+---
+title: "Gabriella D. Kitch"
+description: "Gabriella D. Kitch is a Mid-career General CDR researcher at National Oceanic and Atmospheric Administration in US. With 24 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-22T05:13:07.574110
+url: "/cdr-researcher-census/researchers/gabriella-d-kitch-a5080740/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Gabriella D. Kitch",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/gabriella-d-kitch-a5080740/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "National Oceanic and Atmospheric Administration"
+  },
+  "sameAs": [
+    "https://orcid.org/0000-0003-3866-3005",
+    "https://openalex.org/A5080740723"
+  ]
+}
+</script>
+
+## Profile
+
+**Gabriella D. Kitch**  
+National Oceanic and Atmospheric Administration · 🇺🇸 US
+
+**Career Stage:** Mid-career
+
+## CDR Specialization
+
+**General CDR**
+
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 6 |
+| Citations | 86 |
+| Publications | 24 |
+| CDR Focus | 16.7% |
+| Trajectory | Growing |
+
+## Top CDR Publications
+
+1. **Calcium isotope ratios of malformed foraminifera reveal biocalcification stress preceded Oceanic Anoxic Event 2** (2022)
+   12 citations · General CDR
+
+2. **Early Career Recommendations for the Equitable Growth of a Marine Carbon Dioxide Removal Sector** (2025)
+   3 citations · General CDR
+
+3. **Perspectives on Marine Carbon Dioxide Removal from the Global Ocean Acidification Observing Network** (2025)
+   2 citations · General CDR
+
+4. **The importance of engagement with fisheries, aquaculture, and Indigenous communities in the planning and implementation of marine carbon dioxide removal (mCDR)** (2025)
+   0 citations · General CDR
+
+## External Profiles
+
+- [ORCID](https://orcid.org/0000-0003-3866-3005)
+- [OpenAlex](https://openalex.org/A5080740723)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

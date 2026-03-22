@@ -1,0 +1,78 @@
+---
+title: "Etienne Schneider"
+description: "Etienne Schneider is a Mid-career General CDR researcher at University of Vienna in AT. With 40 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-22T05:13:06.197979
+url: "/cdr-researcher-census/researchers/etienne-schneider-a5089196/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Etienne Schneider",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/etienne-schneider-a5089196/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "University of Vienna"
+  },
+  "sameAs": [
+    "https://orcid.org/0000-0002-4243-7337",
+    "https://openalex.org/A5089196024"
+  ]
+}
+</script>
+
+## Profile
+
+**Etienne Schneider**  
+University of Vienna · 🇦🇹 AT
+
+**Career Stage:** Mid-career
+
+## CDR Specialization
+
+**General CDR**
+
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 10 |
+| Citations | 531 |
+| Publications | 40 |
+| CDR Focus | 15.0% |
+| Trajectory | Stable |
+
+## Top CDR Publications
+
+1. **Carbon dioxide removal and mitigation deterrence in EU climate policy: Towards a research approach** (2023)
+   38 citations · General CDR
+
+2. **Whose negative emissions? Exploring emergent perspectives on CDR from the EU's hard to abate and fossil industries** (2024)
+   16 citations · General CDR
+
+3. **The politics of carbon management in Austria: Emerging fault lines on carbon capture, storage, utilization and removal** (2024)
+   5 citations · BECCS
+
+4. **Existing demand-side climate change mitigation policies neglect avoid options** (2025)
+   3 citations · General CDR
+
+5. **Carbon removal, mitigation deterrence and the politics of target separation. Evidence from the EU 2040 climate target negotiation** (2025)
+   2 citations · General CDR
+
+6. **Existing demand-side climate change mitigation policies neglect avoid options** (2025)
+   1 citations · General CDR
+
+## External Profiles
+
+- [ORCID](https://orcid.org/0000-0002-4243-7337)
+- [OpenAlex](https://openalex.org/A5089196024)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

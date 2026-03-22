@@ -1,0 +1,87 @@
+---
+title: "Guopeng Zhou"
+description: "Guopeng Zhou is a Senior Soil Carbon researcher at Chinese Academy of Agricultural Sciences in CN. With 52 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-22T05:13:05.954818
+url: "/cdr-researcher-census/researchers/guopeng-zhou-a5060585/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Guopeng Zhou",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/guopeng-zhou-a5060585/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Chinese Academy of Agricultural Sciences"
+  },
+  "sameAs": [
+    "https://orcid.org/0000-0002-9334-2637",
+    "https://openalex.org/A5060585872"
+  ]
+}
+</script>
+
+## Profile
+
+**Guopeng Zhou**  
+Chinese Academy of Agricultural Sciences · 🇨🇳 CN
+
+**Career Stage:** Senior
+
+## CDR Specialization
+
+**Soil Carbon**
+
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 25 |
+| Citations | 1,692 |
+| Publications | 52 |
+| CDR Focus | 17.3% |
+| Trajectory | Stable |
+
+## Top CDR Publications
+
+1. **The potential of green manure to increase soil carbon sequestration and reduce the yield-scaled carbon footprint of rice production in southern China** (2022)
+   37 citations · Soil Carbon
+
+2. **The effects of co-utilizing green manure and rice straw on soil aggregates and soil carbon stability in a paddy soil in southern China** (2022)
+   33 citations · Soil Carbon
+
+3. **Long-term green manuring increases soil carbon sequestration via decreasing qCO2 caused by lower microbial phosphorus limitation in a dry land field** (2024)
+   31 citations · Soil Carbon
+
+4. **Appropriately delayed flooding before rice transplanting increases net ecosystem economic benefit in the winter green manure-rice rotation system** (2024)
+   12 citations · Soil Carbon
+
+5. **Paddy fields can gain high productivity with low net global warming potential by utilizing green manure** (2025)
+   11 citations · Soil Carbon
+
+6. **Rice straw returning under winter green manuring enhances soil carbon pool via stoichiometric regulation of extracellular enzymes** (2025)
+   6 citations · Soil Carbon
+
+7. **The Application of Rice Straw with Reduced N Fertilizer Improves the Rice Yield While Decreasing Environmental N Losses in Southern China** (2024)
+   4 citations · Soil Carbon
+
+8. **Long-term organic fertilization decreases soil carbon biodegradability by mediating molecular transformation of dissolved organic matter** (2025)
+   3 citations · Soil Carbon
+
+9. **Co-Incorporating Dom from Chinese Milk Vetch and Rice Straw with Rape Straw Biochar Mitigates Cd Uptake by Rice: The Physiology and Passivation Mechanism** (2024)
+   0 citations · Biochar
+
+## External Profiles
+
+- [ORCID](https://orcid.org/0000-0002-9334-2637)
+- [OpenAlex](https://openalex.org/A5060585872)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

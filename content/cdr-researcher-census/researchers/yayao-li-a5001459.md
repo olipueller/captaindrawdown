@@ -1,0 +1,69 @@
+---
+title: "Yayao Li"
+description: "Yayao Li is a Mid-career Biochar researcher at Hainan University in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-22T05:13:07.030723
+url: "/cdr-researcher-census/researchers/yayao-li-a5001459/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Yayao Li",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yayao-li-a5001459/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Hainan University"
+  },
+  "sameAs": [
+    "https://orcid.org/0000-0002-5415-0253",
+    "https://openalex.org/A5001459771"
+  ]
+}
+</script>
+
+## Profile
+
+**Yayao Li**  
+Hainan University · 🇨🇳 CN
+
+**Career Stage:** Mid-career
+
+## CDR Specialization
+
+**Biochar**
+
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 6 |
+| Citations | 145 |
+| Publications | 13 |
+| CDR Focus | 23.1% |
+| Trajectory | Exiting |
+
+## Top CDR Publications
+
+1. **Biomass-assisted synthesis of long-rod TiO2 with oxygen vacancies active sites and biomass carbon for efficient photocatalytic reduction of Cr(VI) under visible light** (2024)
+   12 citations · Biochar
+
+2. **A study on the role of high-energy holes and reactive oxygen species in photocatalytic degradation using oxygen-doped/biochar-modified 2D carbon nitride** (2024)
+   11 citations · Biochar
+
+3. **A Study on the Role of High-Energy Holes and Reactive Oxygen Species in Photocatalytic Degradation Using Oxygen-Doped/Biochar-Modified 2d Carbon Nitride** (2024)
+   0 citations · Biochar
+
+## External Profiles
+
+- [ORCID](https://orcid.org/0000-0002-5415-0253)
+- [OpenAlex](https://openalex.org/A5001459771)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

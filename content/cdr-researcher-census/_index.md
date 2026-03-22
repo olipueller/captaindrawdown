@@ -34,6 +34,17 @@ layout: "single"
 
 ---
 
+## Explore the Census
+
+### 📊 Individual Researcher Profiles
+
+Browse **10,000+ individual researcher profiles** — each with metrics, publications, pathways, and links to ORCID and OpenAlex profiles. A deep SEO play that makes the global CDR workforce discoverable.
+
+- **[Browse 10,635 Researcher Profiles](/cdr-researcher-census/researchers/)** — Sorted by citation count
+- **[Search & Filter](/cdr-researcher-census/lookup/)** — Find by name, country, institution, pathway
+
+---
+
 ## CDR Pathways
 
 | Pathway | Researchers | Papers | Companies* |

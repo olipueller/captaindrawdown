@@ -1,0 +1,59 @@
+---
+title: "Ibrahim Cisse"
+description: "Ibrahim Cisse is a Mid-career Soil Carbon researcher at Rochester Institute of Technology in US. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-22T05:13:06.624559
+url: "/cdr-researcher-census/researchers/ibrahim-cisse-a5037502/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Ibrahim Cisse",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/ibrahim-cisse-a5037502/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Rochester Institute of Technology"
+  },
+  "sameAs": "https://openalex.org/A5037502178"
+}
+</script>
+
+## Profile
+
+**Ibrahim Cisse**  
+Rochester Institute of Technology · 🇺🇸 US
+
+**Career Stage:** Mid-career
+
+## CDR Specialization
+
+**Soil Carbon**
+
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 5 |
+| Citations | 237 |
+| Publications | 7 |
+| CDR Focus | 14.3% |
+| Trajectory | Stable |
+
+## Top CDR Publications
+
+1. **Characterization of biochar produced by pyrolysis of biomass and co-pyrolysis of biomass and agricultural mulch film** (2021)
+   1 citations · Biochar
+
+## External Profiles
+
+- [OpenAlex](https://openalex.org/A5037502178)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

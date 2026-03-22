@@ -1,0 +1,66 @@
+---
+title: "Pin-Han Chen"
+description: "Pin-Han Chen is a Mid-career Soil Carbon researcher at Providence University in TW. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-22T05:13:07.144738
+url: "/cdr-researcher-census/researchers/pin-han-chen-a5002717/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Pin-Han Chen",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/pin-han-chen-a5002717/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Providence University"
+  },
+  "sameAs": [
+    "https://orcid.org/0009-0004-1507-6822",
+    "https://openalex.org/A5002717572"
+  ]
+}
+</script>
+
+## Profile
+
+**Pin-Han Chen**  
+Providence University · 🇹🇼 TW
+
+**Career Stage:** Mid-career
+
+## CDR Specialization
+
+**Soil Carbon**
+
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 5 |
+| Citations | 129 |
+| Publications | 17 |
+| CDR Focus | 11.8% |
+| Trajectory | Growing |
+
+## Top CDR Publications
+
+1. **Recovery of Alkaline Earth Metals from Desalination Brine for Carbon Capture and Sodium Removal** (2021)
+   24 citations · General CDR
+
+2. **Quantifying the Carbon Sequestration Potential of Check Dams: A Baseline Study Using Precipitation Events** (2025)
+   0 citations · Enhanced Weathering
+
+## External Profiles
+
+- [ORCID](https://orcid.org/0009-0004-1507-6822)
+- [OpenAlex](https://openalex.org/A5002717572)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

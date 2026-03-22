@@ -1,0 +1,66 @@
+---
+title: "Thaer Abdulwahhab Shihab"
+description: "Thaer Abdulwahhab Shihab is a Mid-career General CDR researcher at Bayan College in OM. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-22T05:13:06.547446
+url: "/cdr-researcher-census/researchers/thaer-abdulwahhab-shihab-a5006975/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Thaer Abdulwahhab Shihab",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/thaer-abdulwahhab-shihab-a5006975/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Bayan College"
+  },
+  "sameAs": [
+    "https://orcid.org/0000-0002-8978-9436",
+    "https://openalex.org/A5006975714"
+  ]
+}
+</script>
+
+## Profile
+
+**Thaer Abdulwahhab Shihab**  
+Bayan College ·  OM
+
+**Career Stage:** Mid-career
+
+## CDR Specialization
+
+**General CDR**
+
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 9 |
+| Citations | 264 |
+| Publications | 20 |
+| CDR Focus | 10.0% |
+| Trajectory | Stable |
+
+## Top CDR Publications
+
+1. **Isotherm and kinetic models of SO2 adsorption on palm kernel shell-activated carbon and xerogel blends: Effect of flow rate and contact time** (2025)
+   8 citations · General CDR
+
+2. **Optimization for the Effects of Coconut Shell Activated Carbon Xerogel Weight and Temperature on the Hydrogen Sulphide Adsorption Using Response Surface Methodology** (2024)
+   0 citations · Biochar
+
+## External Profiles
+
+- [ORCID](https://orcid.org/0000-0002-8978-9436)
+- [OpenAlex](https://openalex.org/A5006975714)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

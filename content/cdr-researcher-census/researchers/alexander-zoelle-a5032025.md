@@ -1,0 +1,65 @@
+---
+title: "Alexander Zoelle"
+description: "Alexander Zoelle is a Mid-career DAC researcher at National Energy Technology Laboratory in US. With 30 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-22T05:13:06.003942
+url: "/cdr-researcher-census/researchers/alexander-zoelle-a5032025/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Alexander Zoelle",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/alexander-zoelle-a5032025/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "National Energy Technology Laboratory"
+  },
+  "sameAs": "https://openalex.org/A5032025185"
+}
+</script>
+
+## Profile
+
+**Alexander Zoelle**  
+National Energy Technology Laboratory · 🇺🇸 US
+
+**Career Stage:** Mid-career
+
+## CDR Specialization
+
+**DAC**
+
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 10 |
+| Citations | 1,156 |
+| Publications | 30 |
+| CDR Focus | 10.0% |
+| Trajectory | Growing |
+
+## Top CDR Publications
+
+1. **Direct Air Capture Case Studies: Sorbent System** (2022)
+   23 citations · DAC
+
+2. **Direct Air Capture Case Studies: Solvent System** (2022)
+   11 citations · DAC
+
+3. **Techno-Economic Analysis of Sorbent-Based Direct Air Capture Informed by EPC Input and Recent Technological Advancements** (2025)
+   1 citations · DAC
+
+## External Profiles
+
+- [OpenAlex](https://openalex.org/A5032025185)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

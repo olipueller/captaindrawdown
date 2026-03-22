@@ -1,0 +1,81 @@
+---
+title: "Jingwei Shi"
+description: "Jingwei Shi is a Senior Soil Carbon researcher at South China Botanical Garden in CN. With 31 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-22T05:13:06.065121
+url: "/cdr-researcher-census/researchers/jingwei-shi-a5063489/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Jingwei Shi",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/jingwei-shi-a5063489/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "South China Botanical Garden"
+  },
+  "sameAs": [
+    "https://orcid.org/0000-0003-2847-7487",
+    "https://openalex.org/A5063489083"
+  ]
+}
+</script>
+
+## Profile
+
+**Jingwei Shi**  
+South China Botanical Garden · 🇨🇳 CN
+
+**Career Stage:** Senior
+
+## CDR Specialization
+
+**Soil Carbon**
+
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 17 |
+| Citations | 831 |
+| Publications | 31 |
+| CDR Focus | 22.6% |
+| Trajectory | Declining |
+
+## Top CDR Publications
+
+1. **Carbon stabilization pathways in soil aggregates during long-term forest succession: Implications from δ13C signatures** (2023)
+   83 citations · Soil Carbon
+
+2. **Recalcitrant organic carbon plays a key role in soil carbon sequestration along a long-term vegetation succession on the Loess Plateau** (2023)
+   60 citations · Soil Carbon
+
+3. **Soil Organic Carbon Increases With Decreasing Microbial Carbon Use Efficiency During Vegetation Restoration** (2024)
+   53 citations · Soil Carbon
+
+4. **Deciphering microbial drivers of soil organic matter mineralization in surface and subsurface soil during long-term vegetation succession** (2024)
+   29 citations · Soil Carbon
+
+5. **Inorganic Carbon Should Be Considered for Carbon Sequestration in Agricultural Soils** (2025)
+   23 citations · Biochar
+
+6. **Dynamics and driving mechanisms of soil organic carbon sequestration in grasslands after grazing exclusion: A review.** (2024)
+   0 citations · Soil Carbon
+
+7. **Carbon Stabilization Pathways in Soil Aggregates During Long-Term Forest Succession: Implications from Δ13c Signatures** (2022)
+   0 citations · Soil Carbon
+
+## External Profiles
+
+- [ORCID](https://orcid.org/0000-0003-2847-7487)
+- [OpenAlex](https://openalex.org/A5063489083)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

@@ -1,0 +1,66 @@
+---
+title: "Jose Rodriguez"
+description: "Jose Rodriguez is a Senior General CDR researcher at University of Nottingham in GB. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-22T05:13:06.367828
+url: "/cdr-researcher-census/researchers/jose-rodriguez-a5055035/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Jose Rodriguez",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/jose-rodriguez-a5055035/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "University of Nottingham"
+  },
+  "sameAs": [
+    "https://orcid.org/0000-0002-3698-684X",
+    "https://openalex.org/A5055035979"
+  ]
+}
+</script>
+
+## Profile
+
+**Jose Rodriguez**  
+University of Nottingham · 🇬🇧 GB
+
+**Career Stage:** Senior
+
+## CDR Specialization
+
+**General CDR**
+
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 10 |
+| Citations | 359 |
+| Publications | 20 |
+| CDR Focus | 10.0% |
+| Trajectory | Exiting |
+
+## Top CDR Publications
+
+1. **Microwave pyrolysis of waste biomass and synthesis of micro-mesoporous activated carbons: The role of textural properties for CO2 and textile dye adsorption** (2024)
+   54 citations · General CDR
+
+2. **Microwave Pyrolysis of Waste Biomass and Synthesis of Micro-Mesoporous Activated Carbons. The Role of Textural Properties for Co2 and Textile Dye Adsorption** (2024)
+   1 citations · General CDR
+
+## External Profiles
+
+- [ORCID](https://orcid.org/0000-0002-3698-684X)
+- [OpenAlex](https://openalex.org/A5055035979)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

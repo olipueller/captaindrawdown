@@ -1,0 +1,66 @@
+---
+title: "Iranzi Emile Rushimisha"
+description: "Iranzi Emile Rushimisha is a Mid-career Biochar researcher at Shantou University in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-22T05:13:06.721271
+url: "/cdr-researcher-census/researchers/iranzi-emile-rushimisha-a5064707/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Iranzi Emile Rushimisha",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/iranzi-emile-rushimisha-a5064707/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Shantou University"
+  },
+  "sameAs": [
+    "https://orcid.org/0000-0003-0948-5959",
+    "https://openalex.org/A5064707423"
+  ]
+}
+</script>
+
+## Profile
+
+**Iranzi Emile Rushimisha**  
+Shantou University · 🇨🇳 CN
+
+**Career Stage:** Mid-career
+
+## CDR Specialization
+
+**Biochar**
+
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 6 |
+| Citations | 209 |
+| Publications | 10 |
+| CDR Focus | 20.0% |
+| Trajectory | Stable |
+
+## Top CDR Publications
+
+1. **Effect of fresh and aged biochar on electrogenic hydrocarbon degradation in soil microbial electrochemical remediation** (2022)
+   22 citations · Biochar
+
+2. **Application of biochar on soil bioelectrochemical remediation: behind roles, progress, and potential** (2022)
+   22 citations · Biochar
+
+## External Profiles
+
+- [ORCID](https://orcid.org/0000-0003-0948-5959)
+- [OpenAlex](https://openalex.org/A5064707423)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

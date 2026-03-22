@@ -1,0 +1,65 @@
+---
+title: "Riham Surkatti"
+description: "Riham Surkatti is a Senior DAC researcher at Hamad bin Khalifa University in QA. With 28 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-22T05:13:06.138109
+url: "/cdr-researcher-census/researchers/riham-surkatti-a5054469/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Riham Surkatti",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/riham-surkatti-a5054469/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Hamad bin Khalifa University"
+  },
+  "sameAs": "https://openalex.org/A5054469529"
+}
+</script>
+
+## Profile
+
+**Riham Surkatti**  
+Hamad bin Khalifa University ·  QA
+
+**Career Stage:** Senior
+
+## CDR Specialization
+
+**DAC**
+
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 12 |
+| Citations | 636 |
+| Publications | 28 |
+| CDR Focus | 10.7% |
+| Trajectory | Growing |
+
+## Top CDR Publications
+
+1. **Comparative analysis of amine-functionalized silica for direct air capture (DAC): Material characterization, performance, and thermodynamic efficiency** (2024)
+   34 citations · DAC
+
+2. **Amine free direct air capture integrated with buildings’ cooling systems in humid environments** (2025)
+   1 citations · DAC
+
+3. **Technoeconomic Analysis of a Novel Amine-Free Direct Air Capture System Integrated with HVAC** (2025)
+   0 citations · DAC
+
+## External Profiles
+
+- [OpenAlex](https://openalex.org/A5054469529)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

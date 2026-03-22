@@ -1,0 +1,65 @@
+---
+title: "C. Eckhardt"
+description: "C. Eckhardt is a Senior Soil Carbon researcher at Justus-Liebig-Universität Gießen in DE. With 27 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-22T05:13:06.636772
+url: "/cdr-researcher-census/researchers/c-eckhardt-a5044715/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "C. Eckhardt",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/c-eckhardt-a5044715/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Justus-Liebig-Universit\u00e4t Gie\u00dfen"
+  },
+  "sameAs": "https://openalex.org/A5044715391"
+}
+</script>
+
+## Profile
+
+**C. Eckhardt**  
+Justus-Liebig-Universität Gießen · 🇩🇪 DE
+
+**Career Stage:** Senior
+
+## CDR Specialization
+
+**Soil Carbon**
+
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 8 |
+| Citations | 232 |
+| Publications | 27 |
+| CDR Focus | 11.1% |
+| Trajectory | Exiting |
+
+## Top CDR Publications
+
+1. **Climate-Smart Agriculture Practices for Mitigating Greenhouse Gas Emissions** (2021)
+   15 citations · Biochar
+
+2. **Greenhouse Gases from Agriculture** (2021)
+   8 citations · Enhanced Weathering
+
+3. **Long-Term Phosphorus Fertilisation: Effects on Nitrogen and Carbon Cycle Dynamics and Greenhouse Gas Fluxes in European Agricultural Soils&amp;#160;** (2024)
+   0 citations · Soil Carbon
+
+## External Profiles
+
+- [OpenAlex](https://openalex.org/A5044715391)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

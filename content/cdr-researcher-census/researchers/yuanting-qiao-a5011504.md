@@ -1,0 +1,69 @@
+---
+title: "Yuanting Qiao"
+description: "Yuanting Qiao is a Mid-career DAC researcher at Swansea University in GB. With 21 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-22T05:13:06.210081
+url: "/cdr-researcher-census/researchers/yuanting-qiao-a5011504/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Yuanting Qiao",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yuanting-qiao-a5011504/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Swansea University"
+  },
+  "sameAs": [
+    "https://orcid.org/0000-0002-7741-9278",
+    "https://openalex.org/A5011504221"
+  ]
+}
+</script>
+
+## Profile
+
+**Yuanting Qiao**  
+Swansea University · 🇬🇧 GB
+
+**Career Stage:** Mid-career
+
+## CDR Specialization
+
+**DAC**
+
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 10 |
+| Citations | 515 |
+| Publications | 21 |
+| CDR Focus | 14.3% |
+| Trajectory | Growing |
+
+## Top CDR Publications
+
+1. **Potential photo-switching sorbents for CO2 capture – A review** (2022)
+   34 citations · DAC
+
+2. **Biochar production, activation, and applications: A comprehensive technical review** (2025)
+   13 citations · Biochar
+
+3. **From Innovation to Integration: The Evolving Role of Carbon Capture and Storage in Global Decarbonization** (2025)
+   3 citations · BECCS
+
+## External Profiles
+
+- [ORCID](https://orcid.org/0000-0002-7741-9278)
+- [OpenAlex](https://openalex.org/A5011504221)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

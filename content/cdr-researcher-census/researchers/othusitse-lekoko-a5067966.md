@@ -1,0 +1,59 @@
+---
+title: "Othusitse Lekoko"
+description: "Othusitse Lekoko is an Early-career Soil Carbon researcher at Human Growth Foundation in US. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-22T05:13:07.301557
+url: "/cdr-researcher-census/researchers/othusitse-lekoko-a5067966/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Othusitse Lekoko",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/othusitse-lekoko-a5067966/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Human Growth Foundation"
+  },
+  "sameAs": "https://openalex.org/A5067966122"
+}
+</script>
+
+## Profile
+
+**Othusitse Lekoko**  
+Human Growth Foundation · 🇺🇸 US
+
+**Career Stage:** Early-career
+
+## CDR Specialization
+
+**Soil Carbon**
+
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 2 |
+| Citations | 112 |
+| Publications | 3 |
+| CDR Focus | 33.3% |
+| Trajectory | Exiting |
+
+## Top CDR Publications
+
+1. **Framework for a savanna burning emissions abatement methodology applicable to fire-prone miombo woodlands in southern Africa** (2024)
+   6 citations · Soil Carbon
+
+## External Profiles
+
+- [OpenAlex](https://openalex.org/A5067966122)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

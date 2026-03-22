@@ -1,0 +1,59 @@
+---
+title: "Ruoya Ma"
+description: "Ruoya Ma is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-22T05:13:06.251505
+url: "/cdr-researcher-census/researchers/ruoya-ma-a5022366/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Ruoya Ma",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/ruoya-ma-a5022366/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Nanjing Agricultural University"
+  },
+  "sameAs": "https://openalex.org/A5022366711"
+}
+</script>
+
+## Profile
+
+**Ruoya Ma**  
+Nanjing Agricultural University · 🇨🇳 CN
+
+**Career Stage:** Mid-career
+
+## CDR Specialization
+
+**Soil Carbon**
+
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 5 |
+| Citations | 457 |
+| Publications | 9 |
+| CDR Focus | 11.1% |
+| Trajectory | Growing |
+
+## Top CDR Publications
+
+1. **Location-optimized remediation measures for soil multifunctionality and carbon sequestration of saline-alkali land in China** (2025)
+   7 citations · Soil Carbon
+
+## External Profiles
+
+- [OpenAlex](https://openalex.org/A5022366711)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

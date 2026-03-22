@@ -1,0 +1,57 @@
+---
+title: "Zuohe Zhang"
+description: "Zuohe Zhang is a Mid-career Soil Carbon researcher. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-22T05:13:07.880322
+url: "/cdr-researcher-census/researchers/zuohe-zhang-a5055412/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Zuohe Zhang",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/zuohe-zhang-a5055412/",
+  "sameAs": "https://openalex.org/A5055412331"
+}
+</script>
+
+## Profile
+
+**Zuohe Zhang**
+
+**Career Stage:** Mid-career
+
+## CDR Specialization
+
+**Soil Carbon**
+
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 4 |
+| Citations | 68 |
+| Publications | 6 |
+| CDR Focus | 33.3% |
+| Trajectory | Stable |
+
+## Top CDR Publications
+
+1. **Straw return alleviates the greenhouse effect of paddy fields by increasing soil organic carbon sequestration under water-saving irrigation** (2023)
+   45 citations · Soil Carbon
+
+2. **Biochar modulates microbial- and plant-derived carbon allocation in soil aggregates to enhance organic carbon sequestration in paddy fields under different water management practices** (2025)
+   0 citations · Biochar
+
+## External Profiles
+
+- [OpenAlex](https://openalex.org/A5055412331)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

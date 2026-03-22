@@ -1,0 +1,69 @@
+---
+title: "Andrew G. Star"
+description: "Andrew G. Star is a Senior DAC researcher at Argonne National Laboratory in US. With 29 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-22T05:13:06.271076
+url: "/cdr-researcher-census/researchers/andrew-g-star-a5072502/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Andrew G. Star",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/andrew-g-star-a5072502/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Argonne National Laboratory"
+  },
+  "sameAs": [
+    "https://orcid.org/0000-0003-0985-7724",
+    "https://openalex.org/A5072502720"
+  ]
+}
+</script>
+
+## Profile
+
+**Andrew G. Star**  
+Argonne National Laboratory · 🇺🇸 US
+
+**Career Stage:** Senior
+
+## CDR Specialization
+
+**DAC**
+
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 11 |
+| Citations | 434 |
+| Publications | 29 |
+| CDR Focus | 10.3% |
+| Trajectory | Stable |
+
+## Top CDR Publications
+
+1. **Optimizing utilization of point source and atmospheric carbon dioxide as a feedstock in electrochemical CO2 reduction** (2022)
+   21 citations · DAC
+
+2. **CO2ROpt (Feedstock Allocation Optimization Model) [SWR-22-13]** (2021)
+   0 citations · DAC
+
+3. **Optimizing Utilization of Point Source and Atmospheric Carbon Dioxide as a Feedstock in Electrochemical CO &lt;sub&gt;2&lt;/sub&gt; Reduction** (2021)
+   0 citations · DAC
+
+## External Profiles
+
+- [ORCID](https://orcid.org/0000-0003-0985-7724)
+- [OpenAlex](https://openalex.org/A5072502720)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

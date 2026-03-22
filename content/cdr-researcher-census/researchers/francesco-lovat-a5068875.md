@@ -1,0 +1,72 @@
+---
+title: "Francesco Lovat"
+description: "Francesco Lovat is an Early-career DAC researcher at Danish Energy Agency in DK. With 12 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-22T05:13:07.091650
+url: "/cdr-researcher-census/researchers/francesco-lovat-a5068875/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Francesco Lovat",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/francesco-lovat-a5068875/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Danish Energy Agency"
+  },
+  "sameAs": [
+    "https://orcid.org/0000-0002-4331-980X",
+    "https://openalex.org/A5068875745"
+  ]
+}
+</script>
+
+## Profile
+
+**Francesco Lovat**  
+Danish Energy Agency · 🇩🇰 DK
+
+**Career Stage:** Early-career
+
+## CDR Specialization
+
+**DAC**
+
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 3 |
+| Citations | 135 |
+| Publications | 12 |
+| CDR Focus | 33.3% |
+| Trajectory | Exiting |
+
+## Top CDR Publications
+
+1. **Fairness and feasibility in deep mitigation pathways with novel carbon dioxide removal considering institutional capacity to mitigate** (2023)
+   31 citations · DAC
+
+2. **Fairness and feasibility in deep mitigation pathways with novel carbon dioxide removal considering institutional capacity to mitigate** (2023)
+   3 citations · DAC
+
+3. **Dataset for Gidden, Brutschin et. al. 2023** (2023)
+   0 citations · DAC
+
+4. **Dataset for Gidden, Brutschin et. al. 2023** (2023)
+   0 citations · DAC
+
+## External Profiles
+
+- [ORCID](https://orcid.org/0000-0002-4331-980X)
+- [OpenAlex](https://openalex.org/A5068875745)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

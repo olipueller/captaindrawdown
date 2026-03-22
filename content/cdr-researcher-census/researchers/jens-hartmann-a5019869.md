@@ -1,0 +1,90 @@
+---
+title: "Jens Hartmann"
+description: "Jens Hartmann is an Eminent General CDR researcher at Universität Hamburg in DE. With 402 publications and an h-index of 67, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-22T05:13:05.860284
+url: "/cdr-researcher-census/researchers/jens-hartmann-a5019869/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Jens Hartmann",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/jens-hartmann-a5019869/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Universit\u00e4t Hamburg"
+  },
+  "sameAs": [
+    "https://orcid.org/0000-0003-1878-9321",
+    "https://openalex.org/A5019869869"
+  ]
+}
+</script>
+
+## Profile
+
+**Jens Hartmann**  
+Universität Hamburg · 🇩🇪 DE
+
+**Career Stage:** Eminent
+
+## CDR Specialization
+
+**General CDR**
+
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 67 |
+| Citations | 22,052 |
+| Publications | 402 |
+| CDR Focus | 15.2% |
+| Trajectory | Stable |
+
+## Top CDR Publications
+
+1. **Potential CO2 removal from enhanced weathering by ecosystem responses to powdered rock** (2021)
+   188 citations · BECCS
+
+2. **Stability of alkalinity in ocean alkalinity enhancement (OAE) approaches – consequences for durability of CO <sub>2</sub> storage** (2023)
+   137 citations · General CDR
+
+3. **Is the climate change mitigation effect of enhanced silicate weathering governed by biological processes?** (2021)
+   132 citations · Enhanced Weathering
+
+4. **Enhanced Weathering Using Basalt Rock Powder: Carbon Sequestration, Co-benefits and Risks in a Mesocosm Study With Solanum tuberosum** (2022)
+   110 citations · Enhanced Weathering
+
+5. **Enhanced weathering potentials—the role of in situ CO2 and grain size distribution** (2022)
+   54 citations · General CDR
+
+6. **Using ikaite and other hydrated carbonate minerals to increase ocean alkalinity for carbon dioxide removal and environmental remediation** (2022)
+   36 citations · General CDR
+
+7. **Carbon Accounting for Enhanced Weathering** (2022)
+   30 citations · Enhanced Weathering
+
+8. **Alkalinity generation from carbonate weathering in a silicate-dominated headwater catchment at Iskorasfjellet, northern Norway** (2023)
+   25 citations · Enhanced Weathering
+
+9. **Stability of alkalinity in Ocean Alkalinity Enhancement (OAE) approaches – consequences for durability of CO <sub>2</sub> storage** (2022)
+   25 citations · General CDR
+
+10. **Ocean alkalinity enhancement approaches and the predictability of runaway precipitation processes: results of an experimental study to determine critical alkalinity ranges for safe and sustainable application scenarios** (2024)
+   24 citations · Ocean CDR
+
+## External Profiles
+
+- [ORCID](https://orcid.org/0000-0003-1878-9321)
+- [OpenAlex](https://openalex.org/A5019869869)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

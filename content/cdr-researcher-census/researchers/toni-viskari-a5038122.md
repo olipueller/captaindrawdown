@@ -1,0 +1,90 @@
+---
+title: "Toni Viskari"
+description: "Toni Viskari is a Senior Soil Carbon researcher at Joint Research Centre in IT. With 81 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-22T05:13:05.983026
+url: "/cdr-researcher-census/researchers/toni-viskari-a5038122/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Toni Viskari",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/toni-viskari-a5038122/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Joint Research Centre"
+  },
+  "sameAs": [
+    "https://orcid.org/0000-0002-3357-1374",
+    "https://openalex.org/A5038122938"
+  ]
+}
+</script>
+
+## Profile
+
+**Toni Viskari**  
+Joint Research Centre · 🇮🇹 IT
+
+**Career Stage:** Senior
+
+## CDR Specialization
+
+**Soil Carbon**
+
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 13 |
+| Citations | 1,344 |
+| Publications | 81 |
+| CDR Focus | 13.6% |
+| Trajectory | Stable |
+
+## Top CDR Publications
+
+1. **Towards agricultural soil carbon monitoring, reporting, and verification through the Field Observatory Network (FiON)** (2022)
+   35 citations · Soil Carbon
+
+2. **Implementation of mycorrhizal mechanisms into soil carbon model improves the prediction of long-term processes of plant litter decomposition** (2022)
+   12 citations · Soil Carbon
+
+3. **Implementation of mycorrhizal mechanisms into soil carbon model improves the prediction of long-term processes of plant litter decomposition** (2021)
+   3 citations · Soil Carbon
+
+4. **Towards agricultural soil carbon monitoring, reporting and verification through Field Observatory Network (FiON)** (2021)
+   2 citations · Soil Carbon
+
+5. **Implementation and initial calibration of carbon-13 soil organic matter decomposition in Yasso model** (2021)
+   1 citations · Soil Carbon
+
+6. **Comment on gi-2021-21** (2021)
+   0 citations · Soil Carbon
+
+7. **Comment on bg-2021-275** (2021)
+   0 citations · Soil Carbon
+
+8. **Comment on bg-2021-275** (2021)
+   0 citations · Soil Carbon
+
+9. **Comment on bg-2021-275** (2021)
+   0 citations · Soil Carbon
+
+10. **Comment on bg-2021-275** (2021)
+   0 citations · Soil Carbon
+
+## External Profiles
+
+- [ORCID](https://orcid.org/0000-0002-3357-1374)
+- [OpenAlex](https://openalex.org/A5038122938)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

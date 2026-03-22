@@ -1,0 +1,84 @@
+---
+title: "Snowie Jane C. Galgo"
+description: "Snowie Jane C. Galgo is a Mid-career Soil Carbon researcher at Gyeongsang National University in KR. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-22T05:13:06.599436
+url: "/cdr-researcher-census/researchers/snowie-jane-c-galgo-a5051971/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Snowie Jane C. Galgo",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/snowie-jane-c-galgo-a5051971/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Gyeongsang National University"
+  },
+  "sameAs": [
+    "https://orcid.org/0000-0002-2806-2321",
+    "https://openalex.org/A5051971729"
+  ]
+}
+</script>
+
+## Profile
+
+**Snowie Jane C. Galgo**  
+Gyeongsang National University · 🇰🇷 KR
+
+**Career Stage:** Mid-career
+
+## CDR Specialization
+
+**Soil Carbon**
+
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 9 |
+| Citations | 246 |
+| Publications | 26 |
+| CDR Focus | 30.8% |
+| Trajectory | Declining |
+
+## Top CDR Publications
+
+1. **Advancements in modified biochar production techniques and soil application: a critical review** (2025)
+   19 citations · Biochar
+
+2. **Importance of biochar as a key amendment to convert rice paddy into carbon negative** (2023)
+   16 citations · Biochar
+
+3. **Increase of soil organic carbon stock by iron slag-based silicate fertilizer application in paddy soils** (2024)
+   9 citations · Soil Carbon
+
+4. **Biochar manure decreases ammonia volatilization loss and sustains crop productivity in rice paddy** (2024)
+   7 citations · Biochar
+
+5. **Iron fertilization and soil carbon sequestration in rice paddies** (2024)
+   1 citations · Soil Carbon
+
+6. **Greenhouse Gas Mitigation and Carbon Sequestration Potential of Biochar Derived from Plant and Animal Biomasses Under Submerged Soil Condition** (2025)
+   0 citations · Biochar
+
+7. **Effect of Biochar Manure on Reducing Ammonia (Nh3) Volatilization Loss in Rice Paddy** (2023)
+   0 citations · Biochar
+
+8. **High organic carbon input can accelerate global warming in rice paddy soil: increase unprotected soil organic carbon and CH4 emission** (2021)
+   0 citations · Soil Carbon
+
+## External Profiles
+
+- [ORCID](https://orcid.org/0000-0002-2806-2321)
+- [OpenAlex](https://openalex.org/A5051971729)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

@@ -1,0 +1,65 @@
+---
+title: "Paulína Nalevanková"
+description: "Paulína Nalevanková is a Mid-career Soil Carbon researcher in GB. With 24 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-22T05:13:06.796909
+url: "/cdr-researcher-census/researchers/paulina-nalevankova-a5005688/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Paul\u00edna Nalevankov\u00e1",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/paulina-nalevankova-a5005688/",
+  "sameAs": [
+    "https://orcid.org/0000-0002-4740-2459",
+    "https://openalex.org/A5005688573"
+  ]
+}
+</script>
+
+## Profile
+
+**Paulína Nalevanková**  
+🇬🇧 GB
+
+**Career Stage:** Mid-career
+
+## CDR Specialization
+
+**Soil Carbon**
+
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 9 |
+| Citations | 189 |
+| Publications | 24 |
+| CDR Focus | 12.5% |
+| Trajectory | Stable |
+
+## Top CDR Publications
+
+1. **Norway Spruce Monoculture Has Lower Resilience and Carbon Sequestration Capacity than More Diverse Broadleaved Forest in Central Europe** (2025)
+   0 citations · Soil Carbon
+
+2. **C Sequestration in a Norway Spruce Plantation and Natural Mixed Broadleaved Forest in a Warming and Drying Climate in Central Europe** (2024)
+   0 citations · Soil Carbon
+
+3. **Effects of drought and disturbance on the CO2 and CH4 fluxes in a mixed forest and spruce monoculture** (2024)
+   0 citations · Soil Carbon
+
+## External Profiles
+
+- [ORCID](https://orcid.org/0000-0002-4740-2459)
+- [OpenAlex](https://openalex.org/A5005688573)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
