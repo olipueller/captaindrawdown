@@ -34,6 +34,6 @@ But "eventually" is doing a lot of heavy lifting. Right now, 80% of high-durabil
 ### 🔗 Related Reading
 
 - [Biochar: The Quiet Giant of Carbon Removal](/posts/biochar-quiet-giant-of-cdr/)
-- [[Microsoft Bought](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/microsoft-93-percent-cdr-credits/)/)/)/)/)/) 93% of All Carbon Removal Credits in 2025](/posts/microsoft-93-percent-cdr-credits/)
+- [[Microsoft Bought](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/microsoft-93-percent-cdr-credits/)/)/)/)/)/)/) 93% of All Carbon Removal Credits in 2025](/posts/microsoft-93-percent-cdr-credits/)
 - [EU's Carbon Removal Certification Framework Gets Its First Methodologies](/posts/eu-[crcf](/posts/eu-first-cdr-certification-standard/)-certification-methodologies/)
 - [Big Tech Carbon Credit Purchases Explode Amid AI Race](/posts/big-tech-carbon-credits-explode-ai-race/)

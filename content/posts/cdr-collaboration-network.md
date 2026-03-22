@@ -68,7 +68,7 @@ Each tribe has a personality. A dominant pathway, a home country, anchor institu
 
 **The General CDR Policy Cluster** (Community 2 — 852 researchers). The integrated assessment modelers and policy researchers. 58% General CDR, anchored by IIASA in Austria. Thomas Gasser (h-index 46) and Benjamin Sovacool (h-index 132) lead a community that spans Germany, the UK, and the US. These are the people modeling CDR portfolios — but the data shows even they collaborate mostly within their own tribe.
 
-**The Phil Renforth Cluster** (Community 11 — 663 researchers). A genuinely cross-method community. Enhanced Weathering (25%), General CDR (27%), Ocean CDR (17%), and DAC (12%) all represented. Led by Phil Renforth at Heriot-Watt and Mijndert van der Spek at ETH Zürich. This is what cross-pollination looks like — and it's the exception, not the rule.
+**The Phil Renforth Cluster** (Community 11 — 663 researchers). A genuinely cross-method community. [Enhanced Weathering](/posts/what-is-enhanced-weathering/) (25%), General CDR (27%), Ocean CDR (17%), and DAC (12%) all represented. Led by Phil Renforth at Heriot-Watt and Mijndert van der Spek at ETH Zürich. This is what cross-pollination looks like — and it's the exception, not the rule.
 
 ## Bridge Researchers Are Rare (and They Matter)
 
