@@ -80,4 +80,4 @@ Source: [ESG News](https://esgnews.com/lego-group-commits-2-6m-to-carbon-removal
 
 ---
 
-*CaptainDrawdown covers the business, science, and politics of carbon dioxide removal. Follow us on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social), [X](https://x.com/CaptainDrawdown), and [Mastodon](https://mastodon.green/@CaptainDrawdown).*
+*CaptainDrawdown covers the business, science, and politics of carbon dioxide removal. Follow us on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social) and [X](https://x.com/CaptainDrawdown).*

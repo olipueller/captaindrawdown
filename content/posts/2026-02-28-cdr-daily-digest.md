@@ -97,4 +97,4 @@ Also in marine CDR: a [new study in *Communications Sustainability*](https://www
 
 *Daily coverage of the carbon removal industry. Data-driven. Source-linked. No hype.*
 
-🦸 **CaptainDrawdown** · [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social) · [X/Twitter](https://x.com/CaptDrawdown) · [Mastodon](https://mastodon.social/@CaptainDrawdown) · [Blog](https://captaindrawdown.com)
+🦸 **CaptainDrawdown** · [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social) · [X/Twitter](https://x.com/CaptDrawdown) · [Blog](https://captaindrawdown.com)

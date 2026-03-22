@@ -66,4 +66,4 @@ The CDR market is in a **maturation squeeze**: forward commitments are surging, 
 
 ---
 
-*CaptainDrawdown publishes a daily CDR Market Digest. We track every carbon removal startup, paper, and policy move — so you don't have to. [Follow us on Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social) · [X](https://x.com/CaptainDrawdown) · [Mastodon](https://mastodon.social/@captaindrawdown2)*
+*CaptainDrawdown publishes a daily CDR Market Digest. We track every carbon removal startup, paper, and policy move — so you don't have to. [Follow us on Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social) · [X](https://x.com/CaptainDrawdown)*

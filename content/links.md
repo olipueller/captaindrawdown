@@ -12,7 +12,6 @@ ShowToc: false
 
 - 🦋 **Bluesky** — [@captaindrawdown.bsky.social](https://bsky.app/profile/captaindrawdown.bsky.social)
 - 🐦 **X (Twitter)** — [@CaptainDrawdown](https://x.com/CaptainDrawdown)
-- 🐘 **Mastodon** — [@captaindrawdown2@mastodon.social](https://mastodon.social/@captaindrawdown2)
 
 ## The Organization
 

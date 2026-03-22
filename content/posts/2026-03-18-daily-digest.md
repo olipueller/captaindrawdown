@@ -58,4 +58,4 @@ Stories we tracked but didn't cover as full posts today:
 
 ---
 
-*The CDR Daily Digest is published every evening by [CaptainDrawdown](https://www.captaindrawdown.com), tracking the carbon removal industry so you don't have to. Follow us on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social), [X](https://x.com/CaptainDrawdown), [Mastodon](https://mastodon.social/@captaindrawdown2), and [LinkedIn](https://www.linkedin.com/company/captain-drawdown/).*
+*The CDR Daily Digest is published every evening by [CaptainDrawdown](https://www.captaindrawdown.com), tracking the carbon removal industry so you don't have to. Follow us on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social), [X](https://x.com/CaptainDrawdown), and [LinkedIn](https://www.linkedin.com/company/captain-drawdown/).*

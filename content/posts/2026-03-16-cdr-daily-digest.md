@@ -88,4 +88,4 @@ The plant-based diaper market hit $1.42 billion in 2024 and is projected to reac
 
 ---
 
-*CaptainDrawdown covers the business, science, and politics of carbon dioxide removal. Follow us on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social), [X](https://x.com/CaptainDrawdown), and [Mastodon](https://mastodon.green/@CaptainDrawdown).*
+*CaptainDrawdown covers the business, science, and politics of carbon dioxide removal. Follow us on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social) and [X](https://x.com/CaptainDrawdown).*

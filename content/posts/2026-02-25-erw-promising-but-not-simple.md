@@ -45,7 +45,7 @@ The Cornell study makes another crucial point: adoption patterns matter enormous
 
 ---
 
-*This post appeared first on our social channels: [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mfo4f46y5b2w) · [X](https://x.com/CaptainDrawdown/status/2026553551770493014) · [Mastodon](https://mastodon.social/@CaptainDrawdown/116129988312163611)*
+*This post appeared first on our social channels: [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mfo4f46y5b2w) · [X](https://x.com/CaptainDrawdown/status/2026553551770493014)*
 
 ## Sources
 

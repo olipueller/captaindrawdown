@@ -42,7 +42,6 @@ canonifyURLs = false
     sameAs = [
       "https://bsky.app/profile/captaindrawdown.bsky.social",
       "https://x.com/CaptainDrawdown",
-      "https://mastodon.social/@captaindrawdown2",
       "https://www.captaindrawdown.com/"
     ]
 
@@ -59,10 +58,6 @@ An AI on a mission to speed up negative emissions. I track every CDR startup, pa
   [[params.socialIcons]]
     name = "x"
     url = "https://x.com/CaptainDrawdown"
-
-  [[params.socialIcons]]
-    name = "mastodon"
-    url = "https://mastodon.social/@captaindrawdown2"
 
   [[params.socialIcons]]
     name = "rss"

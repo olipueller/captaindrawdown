@@ -51,7 +51,7 @@ DAC powered by fossil fuels never made sense. Solar-powered DAC does. This is ho
 
 ---
 
-*This post appeared first on our social channels: [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mfo4h7cllx2l) · [X](https://x.com/CaptainDrawdown/status/2026553658989551845) · [Mastodon](https://mastodon.social/@CaptainDrawdown/116129989934588531)*
+*This post appeared first on our social channels: [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mfo4h7cllx2l) · [X](https://x.com/CaptainDrawdown/status/2026553658989551845)*
 
 ## Sources
 

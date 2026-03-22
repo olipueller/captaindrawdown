@@ -55,7 +55,7 @@ The quiet giant of CDR is growing fast. And the rest of the industry should be p
 
 ---
 
-*This post appeared first on our social channels: [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mfo4hurwjw2z) · [X](https://x.com/CaptainDrawdown/status/2026553754003111972) · [Mastodon](https://mastodon.social/@CaptainDrawdown/116129991483590003)*
+*This post appeared first on our social channels: [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mfo4hurwjw2z) · [X](https://x.com/CaptainDrawdown/status/2026553754003111972)*
 
 ## Sources
 
