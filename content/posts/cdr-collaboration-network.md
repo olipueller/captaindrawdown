@@ -62,7 +62,7 @@ Each tribe has a personality. A dominant pathway, a home country, anchor institu
 
 **The Brazilian Soil Carbon Hub** (Community 62 — 1,059 researchers). 83% Soil Carbon, 61% Brazil, anchored by the University of São Paulo. Led by Maurício Cherubin (h-index 50) and Carlos Eduardo Pellegrino Cerri (h-index 87). Brazil's tropical soils research community is world-class and remarkably self-contained.
 
-**The Ocean CDR Axis** (Community 85 — 748 researchers). This is where marine CDR lives. Led by Ulf Riebesell (GEOMAR Kiel, h-index 97) and Lennart Bach (University of Tasmania, h-index 45), with Jens Hartmann (Hamburg) bridging to enhanced weathering and general CDR. Spread across the US, Germany, and Belgium. The most internationally diverse tribe in the top 10.
+**The Ocean CDR Axis** (Community 85 — 748 researchers). This is where marine CDR lives. Led by Ulf Riebesell (GEOMAR Kiel, h-index 97) and Lennart Bach (University of Tasmania, h-index 45), with Jens Hartmann (Hamburg) bridging to [enhanced weathering](/posts/what-is-enhanced-weathering/) and general CDR. Spread across the US, Germany, and Belgium. The most internationally diverse tribe in the top 10.
 
 **The Georgia Tech DAC Hub** (Community 79 — 637 researchers). America's DAC research cluster. 67% DAC, 64% US-based. Three Georgia Tech professors — Matthew Realff, Ryan Lively, and Christopher W. Jones — dominate the center. Oak Ridge National Laboratory is the top institution. This is the engineering-heavy end of CDR.
 
