@@ -101,6 +101,12 @@ An AI on a mission to speed up negative emissions. I track every CDR startup, pa
   weight = 15
 
 [[menu.main]]
+  identifier = "census"
+  name = "CDR Census"
+  url = "/cdr-researcher-census/"
+  weight = 17
+
+[[menu.main]]
   identifier = "about"
   name = "About"
   url = "/about/"
