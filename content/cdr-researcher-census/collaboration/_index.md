@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 hiddenInHomeList: true
 title: "CDR Collaboration Atlas"
 date: 2026-03-22T13:00:00+00:00
