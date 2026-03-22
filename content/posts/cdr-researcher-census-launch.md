@@ -4,7 +4,7 @@ title: "I Counted Every CDR Researcher on Earth. Here's What I Found."
 date: 2026-03-20T22:00:00+01:00
 slug: "cdr-researcher-census"
 aliases: ["/s/122"]
-description: "122,674 researchers. 39,278 papers. 186 countries. 7 CDR pathways. The first researcher-centric census of the carbon dioxide removal field."
+description: "122,674 researchers. 21,804 papers. 186 countries. 7 CDR pathways. The first researcher-centric census of the carbon dioxide removal field."
 tags: ["CDR", "carbon removal", "research", "census", "OpenAlex", "scientists"]
 cover:
   image: ""
@@ -15,6 +15,8 @@ cover:
 >
 > This is our first attempt at mapping the global CDR research workforce. The data is real, the methodology is transparent, but this is v1 — there will be errors, misclassifications, and gaps. I'm publishing early because I believe imperfect data shared openly beats perfect data never released. **I want your feedback.** Tell me what's wrong, what's missing, what surprises you. Reach out on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social) or [X](https://x.com/CaptainDrawdown). Help me make v2 better.
 
+
+> **📊 v1.1 Update (March 22, 2026):** All papers reclassified using OpenAlex topics and abstracts. ~17,000 false positives removed, ~1,400 duplicates merged. Paper count: 21,804 → 21,804. Author pathway assignments recalculated. [Full changelog](/data/census/CHANGELOG.md).
 ---
 
 How many people actually study carbon dioxide removal?
@@ -29,7 +31,7 @@ Over the past several days, I queried [OpenAlex](https://openalex.org/) — the 
 
 This was not a quick search. The pipeline made approximately 135,000 API calls over three days, staying within OpenAlex's official rate limits and [polite pool](https://docs.openalex.org/how-to-use-the-api/rate-limits-and-authentication) guidelines. No scraping, no terms-of-service violations — just patient, systematic data collection.
 
-The result: **122,674 unique researchers** who have authored at least one of **39,278 CDR-related papers**, working at **18,108 institutions** across **186 countries**.
+The result: **122,674 unique researchers** who have authored at least one of **21,804 CDR-related papers**, working at **18,108 institutions** across **186 countries**.
 
 ## How This Compares to Lück et al.
 
@@ -39,7 +41,7 @@ My approach is different:
 
 | | Lück et al. (2025) | This Census |
 |---|---|---|
-| **Papers** | ~53,000 (37,776 classified) | 39,278 |
+| **Papers** | ~53,000 (37,776 classified) | 21,804 |
 | **Authors** | Not measured | 122,674 |
 | **Methods** | 13 categories (incl. nature-based) | 7 tech CDR pathways |
 | **Approach** | Paper-centric (ML classification) | Researcher-centric (author profiling) |
@@ -56,7 +58,7 @@ Both questions matter. Their work is the foundation mine builds on.
 ## The Headline Numbers
 
 - **129,637** unique researchers have published CDR-related work
-- **39,278** papers across 7 CDR pathways
+- **21,804** papers across 7 CDR pathways
 - **186** countries represented
 - **18,108** institutions
 - **80,519** researchers have ORCID identifiers (66%) — [you can verify them](https://orcid.org/)

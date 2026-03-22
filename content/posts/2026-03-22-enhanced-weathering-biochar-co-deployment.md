@@ -33,5 +33,5 @@ The era of single-pathway CDR thinking is ending. Stacking works — but only if
 
 - [How Organic Carbon Changes [Enhanced Weathering](/posts/what-is-enhanced-weathering/) Reactivity](/posts/enhanced-weathering-organic-carbon-reactivity/)
 - [Why Carbon Removal Needs More Than Trees](/posts/why-carbon-removal-needs-more-than-trees/)
-- [Enhanced Rock Weathering: Promising, But Not Simple](/posts/[erw](/posts/what-is-enhanced-weathering/)-promising-but-not-simple/)
+- [[Enhanced Rock Weathering](/posts/what-is-enhanced-weathering/): Promising, But Not Simple](/posts/[erw](/posts/what-is-enhanced-weathering/)-promising-but-not-simple/)
 - [Reality Check: Cornell Study Says [ERW](/posts/what-is-enhanced-weathering/) Could Hit 1 Billion Tonnes Per Year — With Caveats](/posts/cornell-[erw](/posts/what-is-enhanced-weathering/)-billion-tonnes/)
