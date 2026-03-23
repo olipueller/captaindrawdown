@@ -37,67 +37,67 @@ This matrix shows co-authorship links between researchers from different CDR met
 <th style="padding:6px 4px;text-align:center;font-size:0.85em;writing-mode:vertical-lr;transform:rotate(180deg);height:80px">General</th>
 </tr>
 <tr><td style="padding:4px 8px;font-weight:600;white-space:nowrap;font-size:0.9em">Soil C.</td>
-<td style="padding:4px;text-align:center;background:#555;color:#fff;min-width:50px;font-size:0.85em" title="Soil Carbon ↔ Soil Carbon: 109,749">109.7k</td>
-<td style="padding:4px;text-align:center;background:rgb(148,159,201);color:#fff;min-width:50px;font-size:0.85em" title="Soil Carbon ↔ Biochar: 5,808">5.8k</td>
-<td style="padding:4px;text-align:center;background:rgb(252,253,253);color:#333;min-width:50px;font-size:0.85em" title="Soil Carbon ↔ DAC: 110">110</td>
-<td style="padding:4px;text-align:center;background:rgb(233,235,244);color:#333;min-width:50px;font-size:0.85em" title="Soil Carbon ↔ Enhanced Weathering: 1,190">1.2k</td>
-<td style="padding:4px;text-align:center;background:rgb(153,163,204);color:#fff;min-width:50px;font-size:0.85em" title="Soil Carbon ↔ BECCS: 5,583">5.6k</td>
+<td style="padding:4px;text-align:center;background:#555;color:#fff;min-width:50px;font-size:0.85em" title="Soil Carbon ↔ Soil Carbon: 105,342">105.3k</td>
+<td style="padding:4px;text-align:center;background:rgb(119,133,187);color:#fff;min-width:50px;font-size:0.85em" title="Soil Carbon ↔ Biochar: 7,100">7.1k</td>
+<td style="padding:4px;text-align:center;background:rgb(252,252,253);color:#333;min-width:50px;font-size:0.85em" title="Soil Carbon ↔ DAC: 126">126</td>
+<td style="padding:4px;text-align:center;background:rgb(231,233,243);color:#333;min-width:50px;font-size:0.85em" title="Soil Carbon ↔ Enhanced Weathering: 1,245">1.2k</td>
+<td style="padding:4px;text-align:center;background:rgb(151,161,203);color:#fff;min-width:50px;font-size:0.85em" title="Soil Carbon ↔ BECCS: 5,439">5.4k</td>
 <td style="padding:4px;text-align:center;background:rgb(254,254,254);color:#333;min-width:50px;font-size:0.85em" title="Soil Carbon ↔ Ocean CDR: 7">7</td>
-<td style="padding:4px;text-align:center;background:rgb(55,75,155);color:#fff;min-width:50px;font-size:0.85em" title="Soil Carbon ↔ General CDR: 10,958">11.0k</td>
+<td style="padding:4px;text-align:center;background:rgb(55,75,155);color:#fff;min-width:50px;font-size:0.85em" title="Soil Carbon ↔ General CDR: 10,516">10.5k</td>
 </tr>
 <tr><td style="padding:4px 8px;font-weight:600;white-space:nowrap;font-size:0.9em">Biochar</td>
-<td style="padding:4px;text-align:center;background:rgb(148,159,201);color:#fff;min-width:50px;font-size:0.85em" title="Biochar ↔ Soil Carbon: 5,808">5.8k</td>
-<td style="padding:4px;text-align:center;background:#555;color:#fff;min-width:50px;font-size:0.85em" title="Biochar ↔ Biochar: 30,857">30.9k</td>
-<td style="padding:4px;text-align:center;background:rgb(251,252,253);color:#333;min-width:50px;font-size:0.85em" title="Biochar ↔ DAC: 177">177</td>
-<td style="padding:4px;text-align:center;background:rgb(251,252,253);color:#333;min-width:50px;font-size:0.85em" title="Biochar ↔ Enhanced Weathering: 168">168</td>
-<td style="padding:4px;text-align:center;background:rgb(245,246,250);color:#333;min-width:50px;font-size:0.85em" title="Biochar ↔ BECCS: 495">495</td>
+<td style="padding:4px;text-align:center;background:rgb(119,133,187);color:#fff;min-width:50px;font-size:0.85em" title="Biochar ↔ Soil Carbon: 7,100">7.1k</td>
+<td style="padding:4px;text-align:center;background:#555;color:#fff;min-width:50px;font-size:0.85em" title="Biochar ↔ Biochar: 35,508">35.5k</td>
+<td style="padding:4px;text-align:center;background:rgb(249,250,252);color:#333;min-width:50px;font-size:0.85em" title="Biochar ↔ DAC: 263">263</td>
+<td style="padding:4px;text-align:center;background:rgb(251,251,253);color:#333;min-width:50px;font-size:0.85em" title="Biochar ↔ Enhanced Weathering: 206">206</td>
+<td style="padding:4px;text-align:center;background:rgb(242,243,248);color:#333;min-width:50px;font-size:0.85em" title="Biochar ↔ BECCS: 647">647</td>
 <td style="padding:4px;text-align:center;background:rgb(255,255,255);color:#333;min-width:50px;font-size:0.85em" title="Biochar ↔ Ocean CDR: 0">0</td>
-<td style="padding:4px;text-align:center;background:rgb(207,212,231);color:#333;min-width:50px;font-size:0.85em" title="Biochar ↔ General CDR: 2,598">2.6k</td>
+<td style="padding:4px;text-align:center;background:rgb(206,211,230);color:#333;min-width:50px;font-size:0.85em" title="Biochar ↔ General CDR: 2,527">2.5k</td>
 </tr>
 <tr><td style="padding:4px 8px;font-weight:600;white-space:nowrap;font-size:0.9em">DAC</td>
-<td style="padding:4px;text-align:center;background:rgb(252,253,253);color:#333;min-width:50px;font-size:0.85em" title="DAC ↔ Soil Carbon: 110">110</td>
-<td style="padding:4px;text-align:center;background:rgb(251,252,253);color:#333;min-width:50px;font-size:0.85em" title="DAC ↔ Biochar: 177">177</td>
-<td style="padding:4px;text-align:center;background:#555;color:#fff;min-width:50px;font-size:0.85em" title="DAC ↔ DAC: 15,849">15.8k</td>
-<td style="padding:4px;text-align:center;background:rgb(253,253,254);color:#333;min-width:50px;font-size:0.85em" title="DAC ↔ Enhanced Weathering: 103">103</td>
-<td style="padding:4px;text-align:center;background:rgb(250,251,252);color:#333;min-width:50px;font-size:0.85em" title="DAC ↔ BECCS: 232">232</td>
-<td style="padding:4px;text-align:center;background:rgb(254,254,254);color:#333;min-width:50px;font-size:0.85em" title="DAC ↔ Ocean CDR: 1">1</td>
-<td style="padding:4px;text-align:center;background:rgb(178,186,216);color:#333;min-width:50px;font-size:0.85em" title="DAC ↔ General CDR: 4,197">4.2k</td>
+<td style="padding:4px;text-align:center;background:rgb(252,252,253);color:#333;min-width:50px;font-size:0.85em" title="DAC ↔ Soil Carbon: 126">126</td>
+<td style="padding:4px;text-align:center;background:rgb(249,250,252);color:#333;min-width:50px;font-size:0.85em" title="DAC ↔ Biochar: 263">263</td>
+<td style="padding:4px;text-align:center;background:#555;color:#fff;min-width:50px;font-size:0.85em" title="DAC ↔ DAC: 19,436">19.4k</td>
+<td style="padding:4px;text-align:center;background:rgb(251,252,253);color:#333;min-width:50px;font-size:0.85em" title="DAC ↔ Enhanced Weathering: 170">170</td>
+<td style="padding:4px;text-align:center;background:rgb(248,249,251);color:#333;min-width:50px;font-size:0.85em" title="DAC ↔ BECCS: 321">321</td>
+<td style="padding:4px;text-align:center;background:rgb(254,254,254);color:#333;min-width:50px;font-size:0.85em" title="DAC ↔ Ocean CDR: 21">21</td>
+<td style="padding:4px;text-align:center;background:rgb(182,189,218);color:#333;min-width:50px;font-size:0.85em" title="DAC ↔ General CDR: 3,798">3.8k</td>
 </tr>
 <tr><td style="padding:4px 8px;font-weight:600;white-space:nowrap;font-size:0.9em">EW</td>
-<td style="padding:4px;text-align:center;background:rgb(233,235,244);color:#333;min-width:50px;font-size:0.85em" title="Enhanced Weathering ↔ Soil Carbon: 1,190">1.2k</td>
-<td style="padding:4px;text-align:center;background:rgb(251,252,253);color:#333;min-width:50px;font-size:0.85em" title="Enhanced Weathering ↔ Biochar: 168">168</td>
-<td style="padding:4px;text-align:center;background:rgb(253,253,254);color:#333;min-width:50px;font-size:0.85em" title="Enhanced Weathering ↔ DAC: 103">103</td>
-<td style="padding:4px;text-align:center;background:#555;color:#fff;min-width:50px;font-size:0.85em" title="Enhanced Weathering ↔ Enhanced Weathering: 5,397">5.4k</td>
-<td style="padding:4px;text-align:center;background:rgb(253,253,254);color:#333;min-width:50px;font-size:0.85em" title="Enhanced Weathering ↔ BECCS: 86">86</td>
-<td style="padding:4px;text-align:center;background:rgb(251,252,253);color:#333;min-width:50px;font-size:0.85em" title="Enhanced Weathering ↔ Ocean CDR: 182">182</td>
-<td style="padding:4px;text-align:center;background:rgb(210,215,232);color:#333;min-width:50px;font-size:0.85em" title="Enhanced Weathering ↔ General CDR: 2,422">2.4k</td>
+<td style="padding:4px;text-align:center;background:rgb(231,233,243);color:#333;min-width:50px;font-size:0.85em" title="Enhanced Weathering ↔ Soil Carbon: 1,245">1.2k</td>
+<td style="padding:4px;text-align:center;background:rgb(251,251,253);color:#333;min-width:50px;font-size:0.85em" title="Enhanced Weathering ↔ Biochar: 206">206</td>
+<td style="padding:4px;text-align:center;background:rgb(251,252,253);color:#333;min-width:50px;font-size:0.85em" title="Enhanced Weathering ↔ DAC: 170">170</td>
+<td style="padding:4px;text-align:center;background:#555;color:#fff;min-width:50px;font-size:0.85em" title="Enhanced Weathering ↔ Enhanced Weathering: 7,457">7.5k</td>
+<td style="padding:4px;text-align:center;background:rgb(253,253,254);color:#333;min-width:50px;font-size:0.85em" title="Enhanced Weathering ↔ BECCS: 101">101</td>
+<td style="padding:4px;text-align:center;background:rgb(251,251,253);color:#333;min-width:50px;font-size:0.85em" title="Enhanced Weathering ↔ Ocean CDR: 191">191</td>
+<td style="padding:4px;text-align:center;background:rgb(218,222,236);color:#333;min-width:50px;font-size:0.85em" title="Enhanced Weathering ↔ General CDR: 1,918">1.9k</td>
 </tr>
 <tr><td style="padding:4px 8px;font-weight:600;white-space:nowrap;font-size:0.9em">BECCS</td>
-<td style="padding:4px;text-align:center;background:rgb(153,163,204);color:#fff;min-width:50px;font-size:0.85em" title="BECCS ↔ Soil Carbon: 5,583">5.6k</td>
-<td style="padding:4px;text-align:center;background:rgb(245,246,250);color:#333;min-width:50px;font-size:0.85em" title="BECCS ↔ Biochar: 495">495</td>
-<td style="padding:4px;text-align:center;background:rgb(250,251,252);color:#333;min-width:50px;font-size:0.85em" title="BECCS ↔ DAC: 232">232</td>
-<td style="padding:4px;text-align:center;background:rgb(253,253,254);color:#333;min-width:50px;font-size:0.85em" title="BECCS ↔ Enhanced Weathering: 86">86</td>
-<td style="padding:4px;text-align:center;background:#555;color:#fff;min-width:50px;font-size:0.85em" title="BECCS ↔ BECCS: 9,978">10.0k</td>
+<td style="padding:4px;text-align:center;background:rgb(151,161,203);color:#fff;min-width:50px;font-size:0.85em" title="BECCS ↔ Soil Carbon: 5,439">5.4k</td>
+<td style="padding:4px;text-align:center;background:rgb(242,243,248);color:#333;min-width:50px;font-size:0.85em" title="BECCS ↔ Biochar: 647">647</td>
+<td style="padding:4px;text-align:center;background:rgb(248,249,251);color:#333;min-width:50px;font-size:0.85em" title="BECCS ↔ DAC: 321">321</td>
+<td style="padding:4px;text-align:center;background:rgb(253,253,254);color:#333;min-width:50px;font-size:0.85em" title="BECCS ↔ Enhanced Weathering: 101">101</td>
+<td style="padding:4px;text-align:center;background:#555;color:#fff;min-width:50px;font-size:0.85em" title="BECCS ↔ BECCS: 10,210">10.2k</td>
 <td style="padding:4px;text-align:center;background:rgb(254,254,254);color:#333;min-width:50px;font-size:0.85em" title="BECCS ↔ Ocean CDR: 14">14</td>
-<td style="padding:4px;text-align:center;background:rgb(196,202,225);color:#333;min-width:50px;font-size:0.85em" title="BECCS ↔ General CDR: 3,181">3.2k</td>
+<td style="padding:4px;text-align:center;background:rgb(195,201,225);color:#333;min-width:50px;font-size:0.85em" title="BECCS ↔ General CDR: 3,104">3.1k</td>
 </tr>
 <tr><td style="padding:4px 8px;font-weight:600;white-space:nowrap;font-size:0.9em">Ocean</td>
 <td style="padding:4px;text-align:center;background:rgb(254,254,254);color:#333;min-width:50px;font-size:0.85em" title="Ocean CDR ↔ Soil Carbon: 7">7</td>
 <td style="padding:4px;text-align:center;background:rgb(255,255,255);color:#333;min-width:50px;font-size:0.85em" title="Ocean CDR ↔ Biochar: 0">0</td>
-<td style="padding:4px;text-align:center;background:rgb(254,254,254);color:#333;min-width:50px;font-size:0.85em" title="Ocean CDR ↔ DAC: 1">1</td>
-<td style="padding:4px;text-align:center;background:rgb(251,252,253);color:#333;min-width:50px;font-size:0.85em" title="Ocean CDR ↔ Enhanced Weathering: 182">182</td>
+<td style="padding:4px;text-align:center;background:rgb(254,254,254);color:#333;min-width:50px;font-size:0.85em" title="Ocean CDR ↔ DAC: 21">21</td>
+<td style="padding:4px;text-align:center;background:rgb(251,251,253);color:#333;min-width:50px;font-size:0.85em" title="Ocean CDR ↔ Enhanced Weathering: 191">191</td>
 <td style="padding:4px;text-align:center;background:rgb(254,254,254);color:#333;min-width:50px;font-size:0.85em" title="Ocean CDR ↔ BECCS: 14">14</td>
-<td style="padding:4px;text-align:center;background:#555;color:#fff;min-width:50px;font-size:0.85em" title="Ocean CDR ↔ Ocean CDR: 1,582">1.6k</td>
-<td style="padding:4px;text-align:center;background:rgb(226,229,240);color:#333;min-width:50px;font-size:0.85em" title="Ocean CDR ↔ General CDR: 1,580">1.6k</td>
+<td style="padding:4px;text-align:center;background:#555;color:#fff;min-width:50px;font-size:0.85em" title="Ocean CDR ↔ Ocean CDR: 1,734">1.7k</td>
+<td style="padding:4px;text-align:center;background:rgb(225,228,240);color:#333;min-width:50px;font-size:0.85em" title="Ocean CDR ↔ General CDR: 1,551">1.6k</td>
 </tr>
 <tr><td style="padding:4px 8px;font-weight:600;white-space:nowrap;font-size:0.9em">General</td>
-<td style="padding:4px;text-align:center;background:rgb(55,75,155);color:#fff;min-width:50px;font-size:0.85em" title="General CDR ↔ Soil Carbon: 10,958">11.0k</td>
-<td style="padding:4px;text-align:center;background:rgb(207,212,231);color:#333;min-width:50px;font-size:0.85em" title="General CDR ↔ Biochar: 2,598">2.6k</td>
-<td style="padding:4px;text-align:center;background:rgb(178,186,216);color:#333;min-width:50px;font-size:0.85em" title="General CDR ↔ DAC: 4,197">4.2k</td>
-<td style="padding:4px;text-align:center;background:rgb(210,215,232);color:#333;min-width:50px;font-size:0.85em" title="General CDR ↔ Enhanced Weathering: 2,422">2.4k</td>
-<td style="padding:4px;text-align:center;background:rgb(196,202,225);color:#333;min-width:50px;font-size:0.85em" title="General CDR ↔ BECCS: 3,181">3.2k</td>
-<td style="padding:4px;text-align:center;background:rgb(226,229,240);color:#333;min-width:50px;font-size:0.85em" title="General CDR ↔ Ocean CDR: 1,580">1.6k</td>
-<td style="padding:4px;text-align:center;background:#555;color:#fff;min-width:50px;font-size:0.85em" title="General CDR ↔ General CDR: 74,129">74.1k</td>
+<td style="padding:4px;text-align:center;background:rgb(55,75,155);color:#fff;min-width:50px;font-size:0.85em" title="General CDR ↔ Soil Carbon: 10,516">10.5k</td>
+<td style="padding:4px;text-align:center;background:rgb(206,211,230);color:#333;min-width:50px;font-size:0.85em" title="General CDR ↔ Biochar: 2,527">2.5k</td>
+<td style="padding:4px;text-align:center;background:rgb(182,189,218);color:#333;min-width:50px;font-size:0.85em" title="General CDR ↔ DAC: 3,798">3.8k</td>
+<td style="padding:4px;text-align:center;background:rgb(218,222,236);color:#333;min-width:50px;font-size:0.85em" title="General CDR ↔ Enhanced Weathering: 1,918">1.9k</td>
+<td style="padding:4px;text-align:center;background:rgb(195,201,225);color:#333;min-width:50px;font-size:0.85em" title="General CDR ↔ BECCS: 3,104">3.1k</td>
+<td style="padding:4px;text-align:center;background:rgb(225,228,240);color:#333;min-width:50px;font-size:0.85em" title="General CDR ↔ Ocean CDR: 1,551">1.6k</td>
+<td style="padding:4px;text-align:center;background:#555;color:#fff;min-width:50px;font-size:0.85em" title="General CDR ↔ General CDR: 67,733">67.7k</td>
 </tr>
 </table></div>
 
@@ -300,7 +300,7 @@ These researchers connect the most CDR methods through their co-authorship netwo
 <td style="padding:0.4rem 0.5rem"><strong>Noah J. Planavsky</strong></td>
 <td style="padding:0.4rem 0.5rem;text-align:center">6</td>
 <td style="padding:0.4rem 0.5rem;text-align:center">106</td>
-<td style="padding:0.4rem 0.5rem"><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#b39ddb;color:#311b92">General CDR</span></td>
+<td style="padding:0.4rem 0.5rem"><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#bcaaa4;color:#3e2723">Enhanced Weathering</span></td>
 <td style="padding:0.4rem 0.5rem;font-size:0.9em">Planetary Science Institute</td>
 <td style="padding:0.4rem 0.5rem">United States</td>
 </tr>
@@ -318,7 +318,7 @@ These researchers connect the most CDR methods through their co-authorship netwo
 <td style="padding:0.4rem 0.5rem"><strong>David J. Beerling</strong></td>
 <td style="padding:0.4rem 0.5rem;text-align:center">4</td>
 <td style="padding:0.4rem 0.5rem;text-align:center">141</td>
-<td style="padding:0.4rem 0.5rem"><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#b39ddb;color:#311b92">General CDR</span></td>
+<td style="padding:0.4rem 0.5rem"><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#bcaaa4;color:#3e2723">Enhanced Weathering</span></td>
 <td style="padding:0.4rem 0.5rem;font-size:0.9em">Leverhulme Trust</td>
 <td style="padding:0.4rem 0.5rem">United Kingdom</td>
 </tr>
@@ -498,7 +498,7 @@ These researchers connect the most CDR methods through their co-authorship netwo
 <td style="padding:0.4rem 0.5rem"><strong>Christopher T. Reinhard</strong></td>
 <td style="padding:0.4rem 0.5rem;text-align:center">3</td>
 <td style="padding:0.4rem 0.5rem;text-align:center">62</td>
-<td style="padding:0.4rem 0.5rem"><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#b39ddb;color:#311b92">General CDR</span></td>
+<td style="padding:0.4rem 0.5rem"><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#bcaaa4;color:#3e2723">Enhanced Weathering</span></td>
 <td style="padding:0.4rem 0.5rem;font-size:0.9em">Georgia Institute of Technology</td>
 <td style="padding:0.4rem 0.5rem">United States</td>
 </tr>
@@ -633,7 +633,7 @@ These researchers connect the most CDR methods through their co-authorship netwo
 <td style="padding:0.4rem 0.5rem"><strong>Radu Custelcean</strong></td>
 <td style="padding:0.4rem 0.5rem;text-align:center">2</td>
 <td style="padding:0.4rem 0.5rem;text-align:center">51</td>
-<td style="padding:0.4rem 0.5rem"><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#b39ddb;color:#311b92">General CDR</span></td>
+<td style="padding:0.4rem 0.5rem"><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#64b5f6;color:#0d47a1">DAC</span></td>
 <td style="padding:0.4rem 0.5rem;font-size:0.9em">Oak Ridge National Laboratory</td>
 <td style="padding:0.4rem 0.5rem">United States</td>
 </tr>
@@ -682,7 +682,7 @@ Louvain community detection found **115 distinct research clusters**. Here are t
 <div style="background:var(--code-bg);border-radius:8px;padding:1rem 1.2rem;margin:0.8rem 0">
 <h3 style="margin:0 0 0.4rem 0;font-size:1em">Community 1: Soil Carbon cluster (1,498 researchers)</h3>
 <div style="display:flex;flex-wrap:wrap;gap:1.2rem;font-size:0.88em;color:var(--secondary)">
-<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#a0d468;color:#2a5e0f">Soil Carbon</span> <strong>68%</strong></span>
+<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#a0d468;color:#2a5e0f">Soil Carbon</span> <strong>66%</strong></span>
 <span>🌍 <strong>India</strong> (72%)</span>
 <span>🏛️ <strong>Indian Agricultural Research Institute</strong></span>
 </div>
@@ -691,7 +691,7 @@ Louvain community detection found **115 distinct research clusters**. Here are t
 <div style="background:var(--code-bg);border-radius:8px;padding:1rem 1.2rem;margin:0.8rem 0">
 <h3 style="margin:0 0 0.4rem 0;font-size:1em">Community 2: Soil Carbon cluster (829 researchers)</h3>
 <div style="display:flex;flex-wrap:wrap;gap:1.2rem;font-size:0.88em;color:var(--secondary)">
-<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#a0d468;color:#2a5e0f">Soil Carbon</span> <strong>71%</strong></span>
+<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#a0d468;color:#2a5e0f">Soil Carbon</span> <strong>62%</strong></span>
 <span>🌍 <strong>China</strong> (74%)</span>
 <span>🏛️ <strong>Chinese Academy of Sciences</strong></span>
 </div>
@@ -700,7 +700,7 @@ Louvain community detection found **115 distinct research clusters**. Here are t
 <div style="background:var(--code-bg);border-radius:8px;padding:1rem 1.2rem;margin:0.8rem 0">
 <h3 style="margin:0 0 0.4rem 0;font-size:1em">Community 3: General CDR cluster (800 researchers)</h3>
 <div style="display:flex;flex-wrap:wrap;gap:1.2rem;font-size:0.88em;color:var(--secondary)">
-<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#b39ddb;color:#311b92">General CDR</span> <strong>62%</strong></span>
+<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#b39ddb;color:#311b92">General CDR</span> <strong>60%</strong></span>
 <span>🌍 <strong>Germany</strong> (19%)</span>
 <span>🏛️ <strong>GEOMAR Helmholtz Centre for Ocean Research Kiel</strong></span>
 </div>
@@ -709,7 +709,7 @@ Louvain community detection found **115 distinct research clusters**. Here are t
 <div style="background:var(--code-bg);border-radius:8px;padding:1rem 1.2rem;margin:0.8rem 0">
 <h3 style="margin:0 0 0.4rem 0;font-size:1em">Community 4: Soil Carbon cluster (776 researchers)</h3>
 <div style="display:flex;flex-wrap:wrap;gap:1.2rem;font-size:0.88em;color:var(--secondary)">
-<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#a0d468;color:#2a5e0f">Soil Carbon</span> <strong>78%</strong></span>
+<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#a0d468;color:#2a5e0f">Soil Carbon</span> <strong>77%</strong></span>
 <span>🌍 <strong>China</strong> (60%)</span>
 <span>🏛️ <strong>Nanjing Agricultural University</strong></span>
 </div>
@@ -718,7 +718,7 @@ Louvain community detection found **115 distinct research clusters**. Here are t
 <div style="background:var(--code-bg);border-radius:8px;padding:1rem 1.2rem;margin:0.8rem 0">
 <h3 style="margin:0 0 0.4rem 0;font-size:1em">Community 5: General CDR cluster (638 researchers)</h3>
 <div style="display:flex;flex-wrap:wrap;gap:1.2rem;font-size:0.88em;color:var(--secondary)">
-<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#b39ddb;color:#311b92">General CDR</span> <strong>68%</strong></span>
+<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#b39ddb;color:#311b92">General CDR</span> <strong>67%</strong></span>
 <span>🌍 <strong>United Kingdom</strong> (16%)</span>
 <span>🏛️ <strong>International Institute for Applied Systems Analysis</strong></span>
 </div>
@@ -736,7 +736,7 @@ Louvain community detection found **115 distinct research clusters**. Here are t
 <div style="background:var(--code-bg);border-radius:8px;padding:1rem 1.2rem;margin:0.8rem 0">
 <h3 style="margin:0 0 0.4rem 0;font-size:1em">Community 7: Soil Carbon cluster (611 researchers)</h3>
 <div style="display:flex;flex-wrap:wrap;gap:1.2rem;font-size:0.88em;color:var(--secondary)">
-<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#a0d468;color:#2a5e0f">Soil Carbon</span> <strong>70%</strong></span>
+<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#a0d468;color:#2a5e0f">Soil Carbon</span> <strong>69%</strong></span>
 <span>🌍 <strong>Brazil</strong> (63%)</span>
 <span>🏛️ <strong>Universidade de São Paulo</strong></span>
 </div>
@@ -745,16 +745,16 @@ Louvain community detection found **115 distinct research clusters**. Here are t
 <div style="background:var(--code-bg);border-radius:8px;padding:1rem 1.2rem;margin:0.8rem 0">
 <h3 style="margin:0 0 0.4rem 0;font-size:1em">Community 8: Soil Carbon cluster (557 researchers)</h3>
 <div style="display:flex;flex-wrap:wrap;gap:1.2rem;font-size:0.88em;color:var(--secondary)">
-<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#a0d468;color:#2a5e0f">Soil Carbon</span> <strong>57%</strong></span>
+<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#a0d468;color:#2a5e0f">Soil Carbon</span> <strong>54%</strong></span>
 <span>🌍 <strong>China</strong> (29%)</span>
 <span>🏛️ <strong>Pir Mehr Ali Shah Arid Agriculture University</strong></span>
 </div>
 <div style="margin-top:0.4rem;font-size:0.82em;color:var(--secondary)">Top: Qaiser Hussain, Ghulam Yasin, Muhammad Nadeem Ashraf, Usman Zulfiqar, Xudong Wang</div>
 </div>
 <div style="background:var(--code-bg);border-radius:8px;padding:1rem 1.2rem;margin:0.8rem 0">
-<h3 style="margin:0 0 0.4rem 0;font-size:1em">Community 9: General CDR cluster (556 researchers)</h3>
+<h3 style="margin:0 0 0.4rem 0;font-size:1em">Community 9: Enhanced Weathering cluster (556 researchers)</h3>
 <div style="display:flex;flex-wrap:wrap;gap:1.2rem;font-size:0.88em;color:var(--secondary)">
-<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#b39ddb;color:#311b92">General CDR</span> <strong>39%</strong></span>
+<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#bcaaa4;color:#3e2723">Enhanced Weathering</span> <strong>36%</strong></span>
 <span>🌍 <strong>United States</strong> (24%)</span>
 <span>🏛️ <strong>Woods Hole Oceanographic Institution</strong></span>
 </div>
@@ -781,7 +781,7 @@ Louvain community detection found **115 distinct research clusters**. Here are t
 <div style="background:var(--code-bg);border-radius:8px;padding:1rem 1.2rem;margin:0.8rem 0">
 <h3 style="margin:0 0 0.4rem 0;font-size:1em">Community 12: General CDR cluster (531 researchers)</h3>
 <div style="display:flex;flex-wrap:wrap;gap:1.2rem;font-size:0.88em;color:var(--secondary)">
-<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#b39ddb;color:#311b92">General CDR</span> <strong>56%</strong></span>
+<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#b39ddb;color:#311b92">General CDR</span> <strong>52%</strong></span>
 <span>🌍 <strong>United States</strong> (29%)</span>
 <span>🏛️ <strong>Imperial College London</strong></span>
 </div>
@@ -817,7 +817,7 @@ Louvain community detection found **115 distinct research clusters**. Here are t
 <div style="background:var(--code-bg);border-radius:8px;padding:1rem 1.2rem;margin:0.8rem 0">
 <h3 style="margin:0 0 0.4rem 0;font-size:1em">Community 16: General CDR cluster (478 researchers)</h3>
 <div style="display:flex;flex-wrap:wrap;gap:1.2rem;font-size:0.88em;color:var(--secondary)">
-<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#b39ddb;color:#311b92">General CDR</span> <strong>56%</strong></span>
+<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#b39ddb;color:#311b92">General CDR</span> <strong>54%</strong></span>
 <span>🌍 <strong>Germany</strong> (18%)</span>
 <span>🏛️ <strong>ETH Zurich</strong></span>
 </div>
@@ -826,7 +826,7 @@ Louvain community detection found **115 distinct research clusters**. Here are t
 <div style="background:var(--code-bg);border-radius:8px;padding:1rem 1.2rem;margin:0.8rem 0">
 <h3 style="margin:0 0 0.4rem 0;font-size:1em">Community 17: Soil Carbon cluster (472 researchers)</h3>
 <div style="display:flex;flex-wrap:wrap;gap:1.2rem;font-size:0.88em;color:var(--secondary)">
-<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#a0d468;color:#2a5e0f">Soil Carbon</span> <strong>68%</strong></span>
+<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#a0d468;color:#2a5e0f">Soil Carbon</span> <strong>62%</strong></span>
 <span>🌍 <strong>China</strong> (76%)</span>
 <span>🏛️ <strong>Chinese Academy of Sciences</strong></span>
 </div>
@@ -844,7 +844,7 @@ Louvain community detection found **115 distinct research clusters**. Here are t
 <div style="background:var(--code-bg);border-radius:8px;padding:1rem 1.2rem;margin:0.8rem 0">
 <h3 style="margin:0 0 0.4rem 0;font-size:1em">Community 19: Soil Carbon cluster (469 researchers)</h3>
 <div style="display:flex;flex-wrap:wrap;gap:1.2rem;font-size:0.88em;color:var(--secondary)">
-<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#a0d468;color:#2a5e0f">Soil Carbon</span> <strong>54%</strong></span>
+<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#a0d468;color:#2a5e0f">Soil Carbon</span> <strong>49%</strong></span>
 <span>🌍 <strong>India</strong> (54%)</span>
 <span>🏛️ <strong>Tamil Nadu Agricultural University</strong></span>
 </div>
@@ -853,7 +853,7 @@ Louvain community detection found **115 distinct research clusters**. Here are t
 <div style="background:var(--code-bg);border-radius:8px;padding:1rem 1.2rem;margin:0.8rem 0">
 <h3 style="margin:0 0 0.4rem 0;font-size:1em">Community 20: DAC cluster (465 researchers)</h3>
 <div style="display:flex;flex-wrap:wrap;gap:1.2rem;font-size:0.88em;color:var(--secondary)">
-<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#64b5f6;color:#0d47a1">DAC</span> <strong>69%</strong></span>
+<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#64b5f6;color:#0d47a1">DAC</span> <strong>78%</strong></span>
 <span>🌍 <strong>United States</strong> (70%)</span>
 <span>🏛️ <strong>Oak Ridge National Laboratory</strong></span>
 </div>

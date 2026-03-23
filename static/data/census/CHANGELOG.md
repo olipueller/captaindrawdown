@@ -85,3 +85,29 @@ papers inflated author paper counts.
   - Pathway classification is noisy (fuzzy search matches non-CDR papers)
   - Duplicate papers (~2,400 — preprints + published versions both indexed)
   - OpenAlex institution disambiguation bugs (Oldham Council, East Sussex CC)
+
+### v1.1.1 Hotfix (2026-03-23)
+**Title-based pathway classification**
+
+Bug: The v1.1 reclassifier checked topics, abstracts, and keywords — but not paper titles.
+Result: 1,004 papers with pathway terms literally in the title were missing that pathway classification.
+
+**Fix:** Added title-based classification (exact phrase matching) as a HIGH confidence signal.
+
+| Impact | Count |
+|--------|-------|
+| Papers with added pathway | 1,004 |
+| Authors with changed primary pathway | 2,701 |
+
+Example: Dirk Paessler had 6 EW papers but was classified "General CDR" because General CDR appeared on all 6 while EW was missing from 2 (supplementary material + data paper without abstract). Now correctly: Enhanced Weathering.
+
+Per-pathway author counts after fix:
+| Pathway | v1.1 | v1.1.1 |
+|---------|------|--------|
+| General CDR | 25,491 | 24,006 |
+| Soil Carbon | 24,531 | 23,590 |
+| Biochar | 10,844 | 12,128 |
+| DAC | 4,552 | 5,387 |
+| BECCS | 4,175 | 4,283 |
+| Enhanced Weathering | 1,516 | 1,717 |
+| Ocean CDR | 305 | 326 |
