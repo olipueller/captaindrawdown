@@ -21,7 +21,7 @@ This **Collaboration Atlas** maps the research networks of **122,000+ CDR scient
 ### How It Was Built
 
 1. **Co-authorship networks**: Every paper co-authored by CDR researchers creates a connection in the network
-2. **Louvain community detection**: Algorithmic clustering identified 115 distinct research communities that frequently publish together
+2. **Louvain community detection**: Algorithmic clustering identified 131 distinct research communities that frequently publish together
 3. **Pathway classification**: Each community's dominant method was determined by OpenAlex classification + LLM filtering
 4. **Bridge scoring**: Researchers with high network betweenness centrality — spanning multiple methods and geographies — are flagged as "bridge researchers"
 
@@ -47,10 +47,10 @@ This **Collaboration Atlas** maps the research networks of **122,000+ CDR scient
 ---
 
 <div class="stats-grid">
-<div class="stat-card"><div class="stat-number">66,717</div><div class="stat-label">Connected Researchers</div></div>
-<div class="stat-card"><div class="stat-number">248,947</div><div class="stat-label">Co-authorship Links</div></div>
+<div class="stat-card"><div class="stat-number">75,234</div><div class="stat-label">Connected Researchers</div></div>
+<div class="stat-card"><div class="stat-number">284,547</div><div class="stat-label">Co-authorship Links</div></div>
 <div class="stat-card"><div class="stat-number">115</div><div class="stat-label">Research Communities</div></div>
-<div class="stat-card"><div class="stat-number">3,827</div><div class="stat-label">Cross-Method Bridges</div></div>
+<div class="stat-card"><div class="stat-number">3,264</div><div class="stat-label">Cross-Method Bridges</div></div>
 </div>
 
 ---
@@ -653,7 +653,7 @@ These researchers connect the most CDR methods through their co-authorship netwo
 
 ## 🌐 Research Communities by CDR Method
 
-The 115 detected communities, grouped by dominant pathway. Each cluster represents researchers who frequently co-author together, revealing natural research subfields within CDR.
+The 131 detected communities, grouped by dominant pathway. Each cluster represents researchers who frequently co-author together, revealing natural research subfields within CDR.
 
 ## Soil Carbon
 
