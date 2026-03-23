@@ -6,16 +6,16 @@ date: 2026-03-18T08:00:00+01:00
 slug: "cdr-researcher-census"
 url: "/cdr-researcher-census/"
 aliases: ["/census", "/census/", "/researchers", "/researchers/", "/cdr-census", "/cdr-census/"]
-description: "A monthly-updated census of 122,674 CDR researchers across 7 pathways, 186 countries, and 18,108 institutions. Built on OpenAlex + ORCID open data."
+description: "A monthly-updated census of 122,674 CDR researchers across 7 pathways, 186 countries, and 18,133 institutions. Built on OpenAlex + ORCID open data. v2: LLM-classified papers."
 tags: ["CDR", "carbon removal", "research", "census"]
 layout: "single"
 ---
 
-> **⚠️ Work in Progress — v1 (March 2026)**
+> **v2 — March 23, 2026**
 >
-> This census is our first attempt at mapping the global CDR research workforce. It's built on real data from 135,000+ API calls to OpenAlex, enriched with ORCID self-reported affiliations for 66% of researchers. It's v1 — there are errors, misclassifications, and blind spots. I'm publishing early because directional data shared openly beats perfect data that never ships. **Your feedback makes v2 better.**
+> This census maps the global CDR research workforce using 135,000+ API calls to OpenAlex, enriched with ORCID self-reported affiliations (66% of researchers). In v2, every paper has been individually classified by LLM (Gemini Flash) using title + abstract — replacing the keyword-based approach of v1. This removed 12,384 non-CDR papers and significantly improved pathway accuracy, especially for DAC, Ocean CDR, and Biochar.
 >
-> 📣 Tell me what's wrong: [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social) · [X](https://x.com/CaptainDrawdown)
+> 📣 Feedback welcome: [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social) · [X](https://x.com/CaptainDrawdown)
 
 ---
 
@@ -166,7 +166,8 @@ Browse **10,000+ individual researcher profiles** — each with metrics, publica
 - **Data source:** [OpenAlex API](https://openalex.org/) — open access, CC0 license
 - **Search:** 11 queries across 7 CDR pathways (see [launch post](/posts/cdr-researcher-census/) for details)
 - **Enrichment:** Full author profiles — h-index, institutions, ORCID, affiliations, publication history. ORCID API for self-reported institution and country (66% coverage).
-- **Classification:** Career stage, sector, CDR commitment, publication trajectory
+- **Paper classification (v2):** Every paper individually classified by LLM (Gemini Flash) using title + abstract into 7 CDR pathways or NOT_CDR. Removed 12,384 non-CDR papers (33%). Replaces keyword-based assignment from v1.
+- **Author classification:** Career stage, sector, CDR commitment, publication trajectory
 - **Validation:** Cross-referenced with [Lück et al. (2025)](https://doi.org/10.1038/s41467-025-56166-9)
 - **API compliance:** ~135,000 calls over 3 days, within official rate limits, using polite pool
 - **Database:** 78 MB SQLite, updated monthly
@@ -174,7 +175,7 @@ Browse **10,000+ individual researcher profiles** — each with metrics, publica
 ### Known Limitations
 
 1. Author disambiguation relies on OpenAlex ML — name collisions occur, especially for common names
-2. Pathway assignment is keyword-based, not expert-classified
+2. Pathway assignment uses LLM classification (Gemini Flash) on title + abstract — highly accurate but not expert-reviewed
 3. "Last known institution" uses ORCID self-reported data where available (66%), falling back to OpenAlex for the rest
 4. 2025-2026 data is incomplete due to indexing lag
 5. Nature-based CDR methods (afforestation, blue carbon) are not included
@@ -185,10 +186,10 @@ Browse **10,000+ individual researcher profiles** — each with metrics, publica
 
 | Dimension | Lück et al. | This Census |
 |-----------|------------|-------------|
-| Papers | ~53,000 | 39,278 |
+| Papers | ~53,000 | 24,749 (37,133 pre-filter) |
 | Authors | Not measured | 122,674 |
 | Methods | 13 (incl. nature-based) | 7 (tech CDR) |
-| ML classification | Yes (topic model) | No (keyword search) |
+| ML classification | Yes (topic model) | Yes (LLM, per paper) |
 | Author profiling | No | Yes |
 | Career trajectories | No | Yes |
 | Institutional mapping | No | Yes (ORCID + OpenAlex) |
@@ -205,6 +206,15 @@ Browse **10,000+ individual researcher profiles** — each with metrics, publica
 3. [The Top Minds in CDR](/posts/cdr-census-top-researchers/) — Top 10 per pathway
 4. [The Dabbler Problem](/posts/cdr-census-dabbler-problem/) — Is CDR research a side hustle?
 5. [CDR Science as Early Signal](/posts/cdr-census-early-signal/) — Is the growth fast enough?
+
+---
+
+## Changelog
+
+| Version | Date | Changes |
+|---------|------|---------|
+| v1 | 2026-03-18 | Initial launch. 122,674 authors, 39,278 papers. Keyword-based pathway classification. |
+| v2 | 2026-03-23 | LLM reclassification of all 37,350 papers by title + abstract (Gemini Flash). Removed 12,384 non-CDR papers. Papers: 39,278 → 24,749. Major corrections: DAC 2,372 → 30, Ocean CDR 737 → 1,835, Biochar 3,471 → 4,799, Soil Carbon 8,334 → 13,184. 11,237 authors reclassified with no remaining CDR papers. |
 
 ---
 
