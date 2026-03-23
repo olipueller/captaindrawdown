@@ -41,9 +41,11 @@ The rocks work. Proving they worked — that's the hard part.
 
 ---
 
+---
+
 ### 🔗 Related Reading
 
-- [[ERW](/posts/what-is-enhanced-weathering/) Could Remove 1 Billion Tonnes per Year — But the Caveats Matter](/posts/2026-03-06-[erw](/posts/what-is-enhanced-weathering/)-billion-tonnes-caveats/)
-- [[Enhanced Rock Weathering](/posts/what-is-enhanced-weathering/): Promising, But Not Simple](/posts/2026-02-25-[erw](/posts/what-is-enhanced-weathering/)-promising-but-not-simple/)
-- [What Is [Enhanced Weathering](/posts/what-is-enhanced-weathering/)? A Primer](/posts/what-is-enhanced-weathering/)
-- [[ERW](/posts/what-is-enhanced-weathering/) Under Fire: What the Nature Paper on Uncertainties Actually Says](/posts/[erw](/posts/what-is-enhanced-weathering/)-uncertainties-nature-paper/)
+- [ERW Could Remove 1 Billion Tonnes per Year — But the Caveats Matter](/posts/erw-billion-tonnes-caveats/)
+- [Enhanced Rock Weathering: Promising, But Not Simple](/posts/erw-promising-but-not-simple/)
+- [What Is Enhanced Weathering? A Primer](/posts/what-is-enhanced-weathering/)
+- [ERW Under Fire: What the Nature Paper on Uncertainties Actually Says](/posts/erw-uncertainties-nature-paper/)

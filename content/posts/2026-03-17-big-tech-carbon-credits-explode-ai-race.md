@@ -13,7 +13,7 @@ cover:
   relative: false
 ---
 
-Sixty-eight point four million. That's how many permanent carbon removal credits Amazon, Google, Meta, and Microsoft purchased in 2025, according to data compiled by carbon credit management platform [Ceezer](https://www.cnbc.com/2026/03/16/[microsoft-carbon-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/microsoft-93-percent-cdr-credits/)/)/)/)/)/)/)/)/)/)/)/)/)/)/)/)/)/)/)/)/)/)/)/)/)/)/)/)/)/)/)/)/)/)/)/)/)/)/)/)/)/)/)/)/)/)/)/)/)/)-ai-tech-google-meta.html) for CNBC.
+Sixty-eight point four million. That's how many permanent carbon removal credits Amazon, Google, Meta, and Microsoft purchased in 2025, according to data compiled by carbon credit management platform [Ceezer](https://www.cnbc.com/2026/03/16/microsoft-carbon-credits-ai-tech-google-meta.html) for CNBC.
 
 That's a 181% jump from 2024. And 2024 was already a 104% increase over 2023.
 
@@ -62,8 +62,11 @@ The irony of AI accelerating both the climate problem and the climate solution i
 
 ---
 
+---
+
 ### 🔗 Related Reading
 
 - [Microsoft Bought 93% of All Carbon Removal Credits in 2025](/posts/microsoft-93-percent-cdr-credits/)
-- [Investment Lessons From Standing Next to Mammoth](/posts/mammoth-dac-investment-lessons/)
-- [AI's Carbon Confession: Your Chatbot Has a Climate Problem](/posts/ai-carbon-confession/)
+- [Biochar: The Quiet Giant of Carbon Removal](/posts/biochar-quiet-giant-of-cdr/)
+- [Carbon Removal Gets Its Own Stage at the World's Biggest Energy Conference](/posts/ceraweek-2026-carbon-removal-energy-conference/)
+- [Sustaera Claims 90%+ Efficiency in DAC — 3x Cheaper Than Incumbents](/posts/sustaera-dac-breakthrough-3x-cheaper/)

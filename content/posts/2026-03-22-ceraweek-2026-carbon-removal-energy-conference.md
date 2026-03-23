@@ -27,9 +27,11 @@ Will a week in Houston change the trajectory of carbon removal? No. But the fact
 
 ---
 
+---
+
 ### 🔗 Related Reading
 
 - [Big Tech Carbon Credit Purchases Explode Amid AI Race](/posts/big-tech-carbon-credits-explode-ai-race/)
 - [500MW of Solar for the World's Largest DAC Plant](/posts/500mw-solar-for-stratos-dac/)
-- [[Microsoft Bought](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/[microsoft-93-percent-cdr-credits](/posts/microsoft-93-percent-cdr-credits/)/)/)/)/)/)/)/)/)/)/)/)/)/)/)/)/)/) 93% of All Carbon Removal Credits in 2025](/posts/microsoft-93-percent-cdr-credits/)
+- [Microsoft Bought 93% of All Carbon Removal Credits in 2025](/posts/microsoft-93-percent-cdr-credits/)
 - [Mercedes F1 Goes All-In on Carbon Removal — 7 New Projects Across 6 Pathways](/posts/mercedes-f1-cdr-portfolio/)
