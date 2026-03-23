@@ -144,7 +144,7 @@ This deserves study. In fact, if you're doing research on CDR talent and retenti
 
 3. **The middle tier is the real opportunity.** Part-timers (8,018) and focused researchers (4,847) are the ones who could move to Pure CDR roles. They already have one foot in the door. Career pathways into industry, funding for CDR-specific labs, industry-academic partnerships — these shift people from part-time to full-time.
 
-4. **Specialist pathways are sustainable but small.** Ocean CDR (2,485 total) and Enhanced Weathering (3,344 total) have proportionally more committed researchers. That's good for technical depth. But at 2,000–3,000 people per pathway, any disruption (funding cuts, failed projects, policy shifts) could crater the community.
+4. **Specialist pathways are sustainable but small.** Ocean CDR (2,485 total) and [Enhanced Weathering](/posts/what-is-enhanced-weathering/) (3,344 total) have proportionally more committed researchers. That's good for technical depth. But at 2,000–3,000 people per pathway, any disruption (funding cuts, failed projects, policy shifts) could crater the community.
 
 ---
 
