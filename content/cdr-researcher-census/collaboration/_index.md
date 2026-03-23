@@ -8,10 +8,8 @@ description: "Interactive map of collaboration networks across 122,674+ CDR rese
 type: "page"
 _build:
   render: always
-  list: never
+  list: always
   publishResources: true
-sitemap:
-  _disable: true
 ---
 
 ## What This Page Shows
