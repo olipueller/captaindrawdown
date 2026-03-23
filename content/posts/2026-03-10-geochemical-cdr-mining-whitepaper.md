@@ -9,6 +9,7 @@ cover:
   image: "/images/posts/20260310-09.png"
   alt: "Mining Could Be CDR's Secret Weapon — New Whitepaper Makes the Case"
   hidden: false
+pillar: "science"
 tags: ["market", "science", "mining", "geochemical CDR"]
 ---
 

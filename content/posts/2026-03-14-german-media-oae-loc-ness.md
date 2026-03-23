@@ -5,6 +5,7 @@ draft: false
 slug: german-media-oae-loc-ness
 aliases: ["/s/78"]
 description: "FOCUS Online reports on the LOC-NESS ocean alkalinity enhancement experiment — and the framing reveals how public perception of CDR differs across languages."
+pillar: "news"
 tags: ["OAE", "ocean alkalinity", "LOC-NESS", "Germany", "media coverage", "WHOI"]
 cover:
   image: "/images/posts/20260314-05.png"

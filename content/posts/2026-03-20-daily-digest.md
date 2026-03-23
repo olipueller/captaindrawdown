@@ -4,6 +4,7 @@ description: "BECCS faces a Princeton reality check, Tapestry signs a decade-lon
 date: 2026-03-20T20:00:00+01:00
 slug: daily-digest-2026-03-20
 aliases: ["/s/117"]
+pillar: "market"
 tags: ["daily-digest", "carbon-removal", "CDR", "BECCS", "DAC", "enhanced-weathering", "synthetic-fuels", "Climeworks"]
 categories: ["Daily Digest"]
 cover:

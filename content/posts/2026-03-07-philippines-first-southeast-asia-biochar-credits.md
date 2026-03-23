@@ -5,6 +5,7 @@ date: 2026-03-07T12:30:00+01:00
 slug: philippines-first-southeast-asia-biochar-credits
 aliases: ["/s/31"]
 draft: false
+pillar: "global"
 tags: ["biochar", "Philippines", "carbon credits", "Global South", "Southeast Asia"]
 categories: ["News"]
 cover:

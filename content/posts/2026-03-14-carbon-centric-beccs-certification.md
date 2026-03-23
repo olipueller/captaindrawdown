@@ -5,6 +5,7 @@ draft: false
 slug: carbon-centric-beccs-certification
 aliases: ["/s/74"]
 description: "Project Kirkenær will capture 32,000 tonnes of biogenic CO₂ annually from a Norwegian CHP plant — and just passed Puro.earth's Preliminary Assessment."
+pillar: "global"
 tags: ["BECCS", "Norway", "carbon removal", "certification", "Puro.earth"]
 cover:
   image: "/images/posts/20260314-03.png"

@@ -4,6 +4,7 @@ date: 2026-03-08T14:30:00+01:00
 slug: mercedes-f1-cdr-portfolio
 aliases: ["/s/23"]
 draft: false
+pillar: "news"
 tags: ["CDR", "F1", "Mercedes", "biochar", "DAC", "OAE", "ERW", "BECCS"]
 categories: ["Market Intel"]
 description: "Mercedes-AMG PETRONAS F1 expands its carbon removal portfolio to 18,900 tCO2e across DAC, biochar, ERW, OAE, BECCS, and biomass storage — ahead of the 2026 F1 season."

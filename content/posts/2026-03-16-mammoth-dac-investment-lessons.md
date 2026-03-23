@@ -4,6 +4,7 @@ description: "A financial planning team visited Climeworks' Mammoth in Iceland. 
 date: 2026-03-16T15:00:00+01:00
 slug: mammoth-dac-investment-lessons
 aliases: ["/s/93"]
+pillar: "news"
 tags: ["CDR", "carbon removal", "DAC", "Climeworks", "investment", "corporate accountability", "greenwashing"]
 summary: "Visiting the world's largest DAC plant in Iceland makes carbon removal feel viscerally real. But the investment landscape tells a more complicated story."
 draft: false

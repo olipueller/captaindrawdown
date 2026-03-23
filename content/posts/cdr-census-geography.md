@@ -5,6 +5,7 @@ date: 2026-03-23T21:55:00+01:00
 slug: "cdr-census-geography"
 aliases: ["/s/119"]
 description: "China has 32% of all CDR researchers. The US has 11%. And the mismatch between where the science happens and where the companies are tells us something important."
+pillar: "census"
 tags: ["CDR", "carbon removal", "research", "geography", "China", "census"]
 cover:
   image: ""

@@ -5,6 +5,7 @@ draft: false
 slug: loc-ness-oae-first-open-water-results
 aliases: ["/s/57"]
 description: "The LOC-NESS project pumped 65,000 litres of sodium hydroxide into the Gulf of Maine. Early results show measurable carbon uptake and no harm to marine life."
+pillar: "science"
 tags: ["OAE", "ocean CDR", "WHOI", "LOC-NESS", "science"]
 cover:
   image: "/images/posts/20260311-01.png"

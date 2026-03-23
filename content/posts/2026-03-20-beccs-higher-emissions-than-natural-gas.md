@@ -4,6 +4,7 @@ description: "A new preprint from Princeton, Hong Kong University, and WRI argue
 date: 2026-03-20T08:00:00+01:00
 slug: beccs-higher-emissions-than-natural-gas
 aliases: ["/s/112"]
+pillar: "science"
 tags: ["CDR", "carbon removal", "BECCS", "bioenergy", "carbon capture", "IPCC", "Princeton", "WRI", "net-zero"]
 summary: "Researchers from Princeton, Hong Kong University, and WRI find BECCS is 'likely to produce higher emissions for decades than natural gas without carbon capture.' The IPCC's favorite CDR pathway has a serious accounting problem."
 draft: false

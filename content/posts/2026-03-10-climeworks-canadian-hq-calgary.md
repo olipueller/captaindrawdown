@@ -4,6 +4,7 @@ date: 2026-03-10
 slug: climeworks-canadian-hq-calgary
 aliases: ["/s/45"]
 description: "The Swiss DAC pioneer opens its Canadian headquarters in Calgary, with plans for what could become its largest direct air capture facility in Alberta."
+pillar: "news"
 tags: ["DAC", "Climeworks", "Canada"]
 cover:
   image: /images/posts/20260310-02.png

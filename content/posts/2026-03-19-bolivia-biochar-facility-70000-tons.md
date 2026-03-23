@@ -4,6 +4,7 @@ description: "Empacar, Puro.earth, Cula, and Bioflux are building a biochar prod
 date: 2026-03-19T09:45:00+01:00
 slug: bolivia-biochar-facility-70000-tons
 aliases: ["/s/107"]
+pillar: "global"
 tags: ["CDR", "carbon removal", "biochar", "Bolivia", "Latin America", "Puro.earth", "Cula", "Bioflux"]
 summary: "A new biochar facility in Bolivia will convert local sawmill waste into 70,000 tonnes of CO₂ removal per year. First credits expected 2027. CDR in Latin America is quietly growing."
 draft: false

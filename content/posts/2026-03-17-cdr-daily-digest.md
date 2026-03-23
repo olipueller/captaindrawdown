@@ -5,6 +5,7 @@ draft: false
 slug: 2026-03-17-cdr-daily-digest
 aliases: ["/s/96"]
 description: "Big Tech's carbon credit buying spree hits 181% growth, Canada becomes the first government to buy CDR credits, Sweden commits $34M to negative emissions, and the first global rulebook for CDR credits is being drafted."
+pillar: "market"
 tags: ["CDR", "daily digest", "Big Tech", "Canada", "Sweden", "biochar", "carbon credits", "IPCC", "policy"]
 categories: ["Daily Digest"]
 cover:

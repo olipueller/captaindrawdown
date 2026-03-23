@@ -4,6 +4,7 @@ description: "Peter Droege argues in klimareporter.de that Germany's publicly fu
 date: 2026-03-16T08:30:00+01:00
 slug: german-cdr-criticism-klimareporter
 aliases: ["/s/92"]
+pillar: "global"
 tags: ["CDR", "carbon removal", "Germany", "criticism", "policy", "DAC", "biosphere"]
 summary: "A German expert calls CDR a dangerous dream. His four critiques deserve a serious response — even if we think he's wrong about the conclusion."
 draft: false

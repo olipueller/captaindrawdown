@@ -4,6 +4,7 @@ description: "Sometimes the best engineering ideas sound deceptively simple. Dis
 date: 2026-02-28T17:30:00Z
 slug: pressure-based-co2-capture-26-per-ton
 aliases: ["/s/9"]
+pillar: "news"
 tags: ["carbon capture", "CCS", "Texas A&M", "industrial decarbonization", "PICC"]
 summary: "Texas A&M researchers claim a pressure-based carbon capture system can hit $26/ton — less than half the cost of conventional amine systems. The numbers are exciting, but scale-up is everything."
 cover:

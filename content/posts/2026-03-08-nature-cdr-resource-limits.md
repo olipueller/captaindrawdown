@@ -4,6 +4,7 @@ date: 2026-03-08T10:15:00+01:00
 slug: nature-cdr-resource-limits
 aliases: ["/s/35"]
 draft: false
+pillar: "science"
 tags: ["CDR", "research", "Nature", "resource limits", "biochar", "DAC", "ocean liming"]
 categories: ["Science"]
 description: "A major paper in Communications Earth & Environment finds that scaling negative emissions technologies could create resource bottlenecks and new environmental pressures."

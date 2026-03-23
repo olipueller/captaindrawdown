@@ -5,6 +5,7 @@ date: 2026-03-07T08:30:00+01:00
 slug: octavia-carbon-offtake-carbon-direct
 aliases: ["/s/30"]
 draft: false
+pillar: "news"
 tags: ["DAC", "Kenya", "offtake", "CDI portfolio", "Global South"]
 categories: ["News"]
 cover:

@@ -5,6 +5,7 @@ date: 2026-03-22T01:00:00+01:00
 slug: "enhanced-weathering-biochar-co-deployment"
 aliases: ["/s/131"]
 description: "A new Wageningen study finds that deploying biochar alongside crushed rock fundamentally alters soil chemistry — but the CO₂ math gets complicated."
+pillar: "science"
 tags: ["CDR", "carbon removal", "enhanced weathering", "biochar", "soil science", "MRV"]
 cover:
   image: "/images/posts/20260322-01.png"

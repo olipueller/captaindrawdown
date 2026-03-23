@@ -4,6 +4,7 @@ description: "DAC funding frozen, subsidy math revealed, Asia-Pacific partnershi
 date: 2026-03-21T20:00:00+01:00
 slug: daily-digest-2026-03-21
 aliases: ["/s/127"]
+pillar: "market"
 tags: ["daily-digest", "carbon-removal", "CDR", "DAC", "biochar", "enhanced-weathering"]
 categories: ["Daily Digest"]
 cover:

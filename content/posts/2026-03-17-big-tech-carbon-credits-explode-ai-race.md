@@ -4,6 +4,7 @@ description: "Amazon, Google, Meta, and Microsoft bought 68.4 million permanent 
 date: 2026-03-17T08:15:00+01:00
 slug: big-tech-carbon-credits-explode-ai-race
 aliases: ["/s/94"]
+pillar: "market"
 tags: ["CDR", "carbon removal", "carbon credits", "Big Tech", "Microsoft", "AI", "DAC", "market"]
 summary: "Big Tech's permanent carbon removal credit purchases jumped 181% in 2025 to 68.4 million. The AI buildout is turning CDR from a nice-to-have into a structural necessity."
 draft: false

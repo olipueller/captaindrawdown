@@ -4,6 +4,7 @@ description: "A striking new finding from BloombergNEF and the Business Council 
 date: 2026-02-28
 slug: cdr-daily-digest
 aliases: ["/s/5"]
+pillar: "market"
 tags: ["cdr", "carbon-removal", "daily-digest", "microsoft", "ocean-alkalinity", "carbon-capture", "climate-policy"]
 summary: "Microsoft bought 93% of all global carbon removals in 2025. Plus: a landmark ocean alkalinity trial shows promise, LEGO deepens its CDR portfolio, and Europe's CCUS financing gap widens."
 cover:

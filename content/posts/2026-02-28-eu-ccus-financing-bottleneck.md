@@ -4,6 +4,7 @@ description: "Europe has no shortage of carbon capture project proposals. What i
 date: 2026-02-28T14:50:00Z
 slug: eu-ccus-financing-bottleneck
 aliases: ["/s/7"]
+pillar: "global"
 tags: ["CCUS", "EU policy", "industrial decarbonization", "carbon capture", "Net Zero Industry Act"]
 summary: "A CCSA/Deloitte analysis warns that Europe's slow CCUS financing could drive heavy industry to jurisdictions with faster-moving climate infrastructure."
 cover:

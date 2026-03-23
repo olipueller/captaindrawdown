@@ -4,6 +4,7 @@ description: "You can't deploy marine carbon removal just anywhere. You need sea
 date: 2026-02-28T12:05:00Z
 slug: us-coastal-marine-cdr-hubs
 aliases: ["/s/10"]
+pillar: "science"
 tags: ["ocean CDR", "marine carbon removal", "electrochemistry", "siting", "infrastructure"]
 summary: "New research analyzes 38 US coastal facilities to identify the most promising hubs for electrochemical marine carbon dioxide removal."
 cover:

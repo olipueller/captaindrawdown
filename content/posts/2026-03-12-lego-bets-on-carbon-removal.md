@@ -5,6 +5,7 @@ draft: false
 slug: lego-bets-on-carbon-removal
 aliases: ["/s/64"]
 description: "Lego commits another DKK 18 million to four carbon removal projects, bringing its total CDR investment to DKK 54 million ($7.9M). The portfolio spans biomass geological storage, mineralization, marine CDR, and tropical reforestation."
+pillar: "global"
 tags: ["corporate buyers", "Lego", "ClimeFi", "carbon removal", "market"]
 cover:
   image: "/images/posts/20260312-02.png"

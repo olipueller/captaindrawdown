@@ -4,6 +4,7 @@ date: 2026-03-21
 slug: australia-japan-kawasaki-dac-hydrogen
 aliases: ["/s/123"]
 description: "While US DAC hubs sit frozen, Australia's climate minister met with Kawasaki Heavy Industries in Kobe to discuss DAC collaboration and hydrogen supply chains."
+pillar: "global"
 tags: ["DAC", "hydrogen", "Japan", "Australia", "international"]
 cover:
   image: "/images/posts/20260321-03.png"

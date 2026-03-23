@@ -5,6 +5,7 @@ date: 2026-03-23T21:45:00+01:00
 slug: "cdr-census-dabbler-problem"
 aliases: ["/s/117"]
 description: "52.8% of CDR researchers have it as less than 10% of their work. V2 data reveals something unexpected — the dabblers shrank, but the core pipeline actually strengthened."
+pillar: "census"
 tags: ["CDR", "carbon removal", "research", "talent", "census", "methodology"]
 cover:
   image: "/images/posts/census-dabbler-20260323.png"

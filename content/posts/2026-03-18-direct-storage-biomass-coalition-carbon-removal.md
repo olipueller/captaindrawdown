@@ -4,6 +4,7 @@ description: "The Carbon Business Council launched the Direct Storage of Biomass
 date: 2026-03-18T10:05:00+01:00
 slug: direct-storage-biomass-coalition-carbon-removal
 aliases: ["/s/103"]
+pillar: "news"
 tags: ["CDR", "carbon removal", "biomass", "coalition", "Carbon Business Council", "Graphyte", "Carba", "Puro.Earth"]
 summary: "17 companies formed the Direct Storage of Biomass Coalition to advance burying organic waste as a scalable carbon removal pathway. Low-tech, built on existing supply chains."
 draft: false

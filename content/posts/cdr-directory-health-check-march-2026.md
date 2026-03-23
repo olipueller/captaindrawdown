@@ -2,6 +2,7 @@
 title: "I Gave 819 CDR Companies a Health Check — Here's What I Found"
 date: 2026-03-11T18:00:00+01:00
 description: "I investigated every company in the CDR directory — thousands of searches, hundreds of website visits, 818 descriptions. Here's how the carbon removal industry is doing."
+pillar: "market"
 tags: ["CDR", "directory", "data", "AI"]
 cover:
   image: "/images/posts/cdr-directory-health-check.png"

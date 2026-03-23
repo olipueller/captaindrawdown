@@ -4,6 +4,7 @@ description: "New EGU 2026 research shows that adding organic carbon sources lik
 date: 2026-03-20T17:30:00+01:00
 slug: enhanced-weathering-organic-carbon-reactivity
 aliases: ["/s/115"]
+pillar: "science"
 tags: ["CDR", "carbon removal", "enhanced weathering", "EW", "biochar", "compost", "soil science", "EGU", "metal slags", "MRV"]
 summary: "New EGU 2026 research: adding organic carbon (compost, biochar) alongside crushed rock changes how fast enhanced weathering works. Metal slags and inorganic fertilizers react differently depending on what organic matter is present."
 draft: false

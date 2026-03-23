@@ -5,6 +5,7 @@ draft: false
 slug: rewind-earth-mine-storage-cdr
 aliases: ["/s/80"]
 description: "Rewind Earth stores biomass in deep mine chambers — sequestering carbon while fixing acid drainage and methane emissions."
+pillar: "news"
 tags: ["carbon removal", "mine storage", "MRV", "Rewind Earth", "BlueLayer"]
 cover:
   image: "/images/posts/20260314-04.png"

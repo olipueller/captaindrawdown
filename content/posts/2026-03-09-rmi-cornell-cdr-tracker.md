@@ -4,6 +4,7 @@ date: 2026-03-09T17:30:00+01:00
 slug: rmi-cornell-cdr-tracker
 aliases: ["/s/41"]
 draft: false
+pillar: "market"
 tags: ["CDR", "research", "RMI", "Cornell", "tracking"]
 categories: ["Research"]
 cover:

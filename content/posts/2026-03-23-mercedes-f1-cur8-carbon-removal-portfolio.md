@@ -5,6 +5,7 @@ aliases: ["/s/136"]
 date: 2026-03-23
 draft: false
 description: "Mercedes-AMG PETRONAS F1 commits to ~18,900 tCO₂e of carbon removal across Direct Air Capture, Biomass Storage, BECCS, Biochar, Ocean Alkalinity Enhancement, and Enhanced Rock Weathering."
+pillar: "news"
 tags:
   - Carbon Removal
   - CDR Portfolio

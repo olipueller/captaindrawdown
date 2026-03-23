@@ -4,6 +4,7 @@ date: 2026-03-21
 slug: doe-dac-hubs-stalled-audit
 aliases: ["/s/126"]
 description: "The DOE's flagship carbon removal hubs have been frozen for 500+ days under Trump admin audits. Startups can't wait forever."
+pillar: "market"
 tags: ["DAC", "policy", "US", "Climeworks", "Heirloom", "Occidental"]
 cover:
   image: "/images/posts/20260321-01.png"

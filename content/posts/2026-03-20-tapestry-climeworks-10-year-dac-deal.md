@@ -4,6 +4,7 @@ description: "Tapestry — the company behind Coach, Kate Spade, and Stuart Weit
 date: 2026-03-20T12:15:00+01:00
 slug: tapestry-climeworks-10-year-dac-deal
 aliases: ["/s/116"]
+pillar: "market"
 tags: ["CDR", "carbon removal", "DAC", "Climeworks", "Tapestry", "Coach", "Kate Spade", "fashion", "corporate buyers"]
 summary: "Tapestry — parent of Coach and Kate Spade — signs a 10-year DAC partnership with Climeworks. First North American fashion company to buy direct air capture removal."
 draft: false

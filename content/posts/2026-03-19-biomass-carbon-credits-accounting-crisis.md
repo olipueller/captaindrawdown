@@ -4,6 +4,7 @@ description: "A new CATF report assessed 25 biomass carbon removal certification
 date: 2026-03-19T08:20:00+01:00
 slug: biomass-carbon-credits-accounting-crisis
 aliases: ["/s/106"]
+pillar: "market"
 tags: ["CDR", "carbon removal", "biomass", "carbon credits", "certification", "CATF", "MRV", "accounting"]
 summary: "88% of carbon removal credits sold involve biomass. A new CATF report checked 25 protocols — almost all have notable flaws. The offset market crashed from bad accounting. CDR can't afford a repeat."
 draft: false

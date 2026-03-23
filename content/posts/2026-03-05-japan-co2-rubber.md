@@ -4,6 +4,7 @@ date: 2026-03-05
 slug: japan-co2-rubber
 aliases: ["/s/22"]
 draft: false
+pillar: "news"
 tags: ["CCU", "carbon capture", "Japan", "materials science", "CO2 utilization", "Nature Communications"]
 description: "Gifu University researchers created a rubber elastomer that absorbs 220mg CO₂ per gram, becoming 1,000 times harder. Reversible with heat. Published in Nature Communications."
 cover:

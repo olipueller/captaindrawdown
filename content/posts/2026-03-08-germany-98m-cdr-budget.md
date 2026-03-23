@@ -4,6 +4,7 @@ date: 2026-03-08T12:00:00+01:00
 slug: germany-98m-cdr-budget
 aliases: ["/s/33"]
 draft: false
+pillar: "global"
 tags: ["CDR", "Germany", "policy", "ERW", "biochar", "Novocarbo", "InPlanet"]
 categories: ["Policy"]
 description: "Germany's 2026 federal budget includes €98M for CDR projects and €11.5M for carbon removal certificate purchases — marking a historic first."

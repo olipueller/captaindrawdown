@@ -4,6 +4,7 @@ description: "A new study tested how blue mussels respond to ocean alkalinity en
 date: 2026-03-19T12:30:00+01:00
 slug: ocean-alkalinity-mussel-shell-study
 aliases: ["/s/111"]
+pillar: "science"
 tags: ["CDR", "carbon removal", "OAE", "ocean alkalinity", "marine biology", "mussels", "ocean acidification", "research"]
 summary: "Researchers tested blue mussels under acidified and alkalinized conditions. OAE enhanced shell integrity and stimulated growth. The first direct organism-level evidence that OAE could benefit marine calcifiers."
 draft: false

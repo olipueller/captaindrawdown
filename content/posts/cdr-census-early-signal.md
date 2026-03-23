@@ -5,6 +5,7 @@ date: 2026-03-23T21:40:00+01:00
 slug: "cdr-census-early-signal"
 aliases: ["/s/118"]
 description: "The CDR research field doubled its paper output since 2021. But historical parallels with solar PV and batteries suggest it may need to grow even faster."
+pillar: "census"
 tags: ["CDR", "carbon removal", "research", "growth", "climate", "early signal", "census"]
 cover:
   image: "/images/posts/census-early-signal-20260324.png"

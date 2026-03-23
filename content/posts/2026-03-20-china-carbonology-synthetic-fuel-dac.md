@@ -4,6 +4,7 @@ description: "Shanghai-based Carbonology, co-founded by a former Tesla VP, says 
 date: 2026-03-20T15:00:00+01:00
 slug: china-carbonology-synthetic-fuel-dac
 aliases: ["/s/114"]
+pillar: "news"
 tags: ["CDR", "carbon removal", "DAC", "e-fuels", "synthetic fuel", "China", "Carbonology", "power-to-liquid"]
 summary: "Shanghai startup Carbonology claims synthetic fuel from air and water at market-competitive prices. Co-founded by a former Tesla VP. Big claims, thin on details."
 draft: false

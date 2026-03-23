@@ -5,6 +5,7 @@ draft: false
 slug: airco-prometheus-dac-to-fuel-race
 aliases: ["/s/54"]
 description: "Two startups are racing to make fuel from captured CO₂. AirCo is building containerized units for the US military; Prometheus says it can make kerosene cheaper than fossil fuel."
+pillar: "news"
 tags: ["DAC", "synthetic fuels", "AirCo", "Prometheus", "startups"]
 cover:
   image: "/images/posts/20260311-05.png"

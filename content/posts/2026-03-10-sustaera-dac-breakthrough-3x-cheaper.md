@@ -4,6 +4,7 @@ date: 2026-03-10
 slug: sustaera-dac-breakthrough-3x-cheaper
 aliases: ["/s/52"]
 description: "North Carolina startup Sustaera says its electro-thermal DAC technology achieves 90%+ energy efficiency and 3-5x lower capital costs, putting sub-$100/ton in sight."
+pillar: "science"
 tags: ["DAC", "science", "market"]
 cover:
   image: /images/posts/20260310-03.png

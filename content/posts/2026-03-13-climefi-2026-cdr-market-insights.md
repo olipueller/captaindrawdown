@@ -5,6 +5,7 @@ draft: false
 slug: climefi-2026-cdr-market-insights
 aliases: ["/s/68"]
 description: "ClimeFi's latest market analysis shows durable CDR supply is running short. 114 suppliers, 142 projects, and prices are converging."
+pillar: "market"
 tags: ["CDR market", "ClimeFi", "supply", "pricing"]
 cover:
   image: "/images/posts/20260313-04.png"

@@ -9,6 +9,7 @@ cover:
   image: /images/posts/20260310-06.png
   alt: "Washington State Moves to Join the California-Québec Carbon Market"
   hidden: false
+pillar: "market"
 tags: ["policy", "carbon markets", "North America"]
 ---
 

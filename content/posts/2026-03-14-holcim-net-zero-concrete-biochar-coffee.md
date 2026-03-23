@@ -5,6 +5,7 @@ draft: false
 slug: holcim-net-zero-concrete-biochar-coffee
 aliases: ["/s/79"]
 description: "Holcim UK and Canary Wharf Group achieve net-negative carbon concrete using biochar from spent coffee grounds — a first for the construction industry."
+pillar: "global"
 tags: ["biochar", "concrete", "construction", "UK", "Holcim", "carbon removal"]
 cover:
   image: "/images/posts/20260314-06.png"

@@ -4,6 +4,7 @@ description: "Crush rocks, spread them on farmland, remove CO₂. On paper, Enha
 date: 2026-02-25
 slug: erw-promising-but-not-simple
 aliases: ["/s/3"]
+pillar: "science"
 tags: ["CDR", "carbon removal", "enhanced weathering", "ERW", "MRV", "Nature"]
 summary: "A new Nature paper maps the uncertainties of Enhanced Rock Weathering — from toxic trace elements to carbon tracking gaps. Here's what it means for CDR."
 draft: false

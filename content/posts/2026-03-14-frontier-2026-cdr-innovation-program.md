@@ -5,6 +5,7 @@ draft: false
 slug: frontier-2026-cdr-innovation-program
 aliases: ["/s/77"]
 description: "Frontier's $1B+ advance market commitment opens applications for its 2026 innovation track — targeting mineralization, OAE, and MRV breakthroughs."
+pillar: "news"
 tags: ["Frontier", "carbon removal", "innovation", "market", "OAE", "mineralization", "MRV"]
 cover:
   image: "/images/posts/20260314-07.png"

@@ -5,6 +5,7 @@ draft: false
 slug: oman-44-01-peridotite-mineralization-concession
 aliases: ["/s/59"]
 description: "Startup 44.01 secured a government concession to mineralize CO₂ in Oman's Hajar Mountains — the first commercial-scale project using peridotite rock."
+pillar: "global"
 tags: ["mineralization", "Oman", "44.01", "Middle East", "in-situ CDR"]
 cover:
   image: "/images/posts/20260311-03.png"

@@ -5,6 +5,7 @@ draft: false
 slug: cultivo-octopus-energy-100m-grasslands
 aliases: ["/s/85"]
 description: "Octopus Energy Generation expands its carbon removal partnership with Cultivo to $100 million, targeting 9 million tonnes of CO₂ removal across 650,000+ acres of US grasslands."
+pillar: "market"
 tags: ["nature-based", "grasslands", "CDR", "Cultivo", "investment"]
 cover:
   image: "/images/posts/20260315-03.png"

@@ -9,6 +9,7 @@ cover:
   image: "/images/posts/20260310-10.png"
   alt: "Africa's First Carbon Removal Summit Comes to Nairobi"
   hidden: false
+pillar: "global"
 tags: ["Africa", "market", "CDR ecosystem"]
 ---
 

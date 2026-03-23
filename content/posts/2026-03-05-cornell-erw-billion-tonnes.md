@@ -4,6 +4,7 @@ date: 2026-03-05
 slug: cornell-erw-billion-tonnes
 aliases: ["/s/20"]
 draft: false
+pillar: "science"
 tags: ["ERW", "enhanced rock weathering", "carbon removal", "CDR", "Cornell", "Nature", "MRV", "soil science"]
 description: "A Cornell-led model in Nature puts realistic enhanced rock weathering potential at 0.7–1.1 Gt CO₂/yr by 2100. Promising — but the MRV question remains wide open."
 cover:

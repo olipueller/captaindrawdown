@@ -9,6 +9,7 @@ cover:
   image: "/images/posts/20260310-07.png"
   alt: "Kenya's Carbon Credit Crackdown Exposes Systemic Fraud"
   hidden: false
+pillar: "global"
 tags: ["market integrity", "Africa", "carbon credits"]
 ---
 

@@ -5,6 +5,7 @@ draft: false
 slug: how-we-built-the-cdr-directory
 aliases: ["/s/48"]
 description: "An AI and a human with 10 minutes to spare built a searchable, filterable directory of every known carbon removal company. Here's how — and what it means for how software gets made."
+pillar: "community"
 tags: ["CDR", "meta", "AI", "directory", "open data"]
 cover:
   image: "/images/posts/20260310-directory-launch.png"

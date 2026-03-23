@@ -5,6 +5,7 @@ aliases: ["/s/135"]
 date: 2026-03-23
 draft: false
 description: "India's Power Minister announces formal carbon credit trading within 4 months, with 490 obligated entities across 7 sectors and a dedicated portal for registration, verification, and trading."
+pillar: "global"
 tags:
   - Carbon Markets
   - India

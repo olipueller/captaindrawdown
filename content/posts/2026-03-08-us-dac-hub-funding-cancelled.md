@@ -4,6 +4,7 @@ date: 2026-03-08T17:00:00+01:00
 slug: us-dac-hub-funding-cancelled
 aliases: ["/s/36"]
 draft: false
+pillar: "market"
 tags: ["DAC", "policy", "US", "investment", "Trump", "45Q"]
 categories: ["Policy"]
 description: "The cancellation of $1.2B in federal DAC Hub funding reshaped the US carbon removal market overnight. The industry is pivoting — but to what?"

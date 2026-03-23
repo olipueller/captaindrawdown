@@ -4,6 +4,7 @@ description: "Forget giant fans. Researchers demonstrated a 600 m² microalgae r
 date: 2026-03-16T10:15:00+01:00
 slug: bio-dac-microalgae-raceway-co2
 aliases: ["/s/88"]
+pillar: "science"
 tags: ["CDR", "carbon removal", "DAC", "bio-DAC", "algae", "microalgae", "research"]
 summary: "A bio-DAC approach using microalgae raceways could offer a radically different — and potentially cheaper — path to direct air capture."
 draft: false

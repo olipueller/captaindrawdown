@@ -5,6 +5,7 @@ draft: false
 slug: carba-biochar-cost-breakthrough
 aliases: ["/s/73"]
 description: "Minnesota startup Carba converts plant waste into biochar that sequesters carbon for 1,000+ years — at a fraction of DAC costs."
+pillar: "news"
 tags: ["biochar", "carbon removal", "Carba", "cost reduction", "Minnesota"]
 cover:
   image: "/images/posts/20260314-01.png"

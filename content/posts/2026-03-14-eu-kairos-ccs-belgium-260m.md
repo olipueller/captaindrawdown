@@ -5,6 +5,7 @@ draft: false
 slug: eu-kairos-ccs-belgium-260m
 aliases: ["/s/76"]
 description: "The European Commission approves €260M in state aid for the Kairos@C project — Air Liquide and BASF building a cross-border CCS value chain from Antwerp to North Sea storage."
+pillar: "global"
 tags: ["CCS", "EU", "Belgium", "Air Liquide", "BASF", "policy", "state aid"]
 cover:
   image: "/images/posts/20260314-08.png"

@@ -4,6 +4,7 @@ description: "Google's 200K-ton biochar deal, India's enhanced weathering revolu
 date: 2026-03-18T20:00:00+01:00
 slug: daily-digest-2026-03-18
 aliases: ["/s/102"]
+pillar: "market"
 tags: ["daily-digest", "carbon-removal", "CDR", "biochar", "enhanced-weathering", "DAC"]
 categories: ["Daily Digest"]
 cover:

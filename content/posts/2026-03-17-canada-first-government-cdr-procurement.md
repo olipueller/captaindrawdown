@@ -4,6 +4,7 @@ description: "Canada launched a $10M CAD procurement program for carbon dioxide 
 date: 2026-03-17T10:30:00+01:00
 slug: canada-first-government-cdr-procurement
 aliases: ["/s/95"]
+pillar: "global"
 tags: ["CDR", "carbon removal", "Canada", "policy", "procurement", "DAC", "BECCS", "biochar", "enhanced mineralization"]
 summary: "Canada just became the first national government to launch a dedicated carbon removal procurement program. $10M CAD for federal departments to buy CDR credits across DAC, BECCS, biochar, and enhanced mineralization."
 draft: false

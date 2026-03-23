@@ -5,6 +5,7 @@ draft: false
 slug: erw-trace-metals-vermont-field-study
 aliases: ["/s/69"]
 description: "A new CDRxiv preprint finds that spreading crushed basalt on dairy farms doesn't increase harmful metals in soil or forage — and may actually reduce them downstream."
+pillar: "science"
 tags: ["ERW", "science", "field study", "trace metals"]
 cover:
   image: "/images/posts/20260313-02.png"

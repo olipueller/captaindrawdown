@@ -5,6 +5,7 @@ draft: false
 slug: ew-expert-elicitation-cdr-potential
 aliases: ["/s/70"]
 description: "A new Nature study asked 30+ experts to estimate enhanced weathering's CDR potential. The numbers are promising — and sobering."
+pillar: "science"
 tags: ["ERW", "science", "CDR", "Nature"]
 cover:
   image: "/images/posts/20260313-01.png"

@@ -5,6 +5,7 @@ draft: false
 slug: northwestern-co2-to-ethylene-nature-synthesis
 aliases: ["/s/58"]
 description: "Northwestern researchers published a Nature Synthesis paper showing a bismuth-copper catalyst can convert captured CO₂ directly into ethylene, with a net-negative carbon footprint when powered by renewables."
+pillar: "science"
 tags: ["CCU", "science", "ethylene", "Northwestern", "Nature Synthesis"]
 cover:
   image: "/images/posts/20260311-04.png"

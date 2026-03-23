@@ -4,6 +4,7 @@ date: 2026-03-05
 slug: mercedes-f1-cdr-portfolio
 aliases: ["/s/23"]
 draft: false
+pillar: "news"
 tags: ["CDR", "carbon removal", "Mercedes F1", "DAC", "biochar", "OAE", "ERW", "BECCS", "CUR8", "corporate buyers"]
 description: "Mercedes-AMG PETRONAS adds seven CDR projects spanning direct air capture to ocean alkalinity enhancement, pushing its removal portfolio to nearly 19,000 tonnes."
 cover:

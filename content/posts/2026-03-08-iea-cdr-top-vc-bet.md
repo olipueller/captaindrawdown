@@ -4,6 +4,7 @@ date: 2026-03-08T08:30:00+01:00
 slug: iea-cdr-top-vc-bet
 aliases: ["/s/34"]
 draft: false
+pillar: "news"
 tags: ["CDR", "IEA", "venture capital", "investment", "policy"]
 categories: ["Market Intel"]
 description: "The IEA's State of Energy Innovation 2026 report confirms CDR has become a top venture capital category, offsetting the decline in EV funding."

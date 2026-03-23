@@ -5,6 +5,7 @@ draft: false
 slug: warm-springs-forest-carbon-wildfire
 aliases: ["/s/81"]
 description: "The Warm Springs Tribes' forest carbon offset project earned $25M — until the Lionshead Fire burned 200,000 acres and made the credits worthless."
+pillar: "news"
 tags: ["carbon offsets", "wildfire", "permanence", "forest carbon", "Oregon"]
 cover:
   image: "/images/posts/20260314-02.png"

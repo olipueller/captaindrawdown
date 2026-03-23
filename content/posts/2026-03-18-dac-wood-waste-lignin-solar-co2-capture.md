@@ -4,6 +4,7 @@ description: "Researchers developed a direct air capture material from upcycled 
 date: 2026-03-18T11:10:00+01:00
 slug: dac-wood-waste-lignin-solar-co2-capture
 aliases: ["/s/101"]
+pillar: "science"
 tags: ["CDR", "carbon removal", "DAC", "direct air capture", "sorbent", "lignin", "solar", "research"]
 summary: "A new DAC sorbent made from upcycled wood waste uses lignin's photothermal properties to release captured CO₂ with sunlight alone — potentially slashing the biggest cost in direct air capture."
 draft: false

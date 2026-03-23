@@ -5,6 +5,7 @@ date: 2026-03-22T01:00:00+01:00
 slug: "oae-optimal-regions-cost-analysis"
 aliases: ["/s/132"]
 description: "An EGU 2026 study models the massive regional cost variation in ocean alkalinity enhancement — geography may determine whether OAE costs $100/ton or $1,000/ton."
+pillar: "science"
 tags: ["CDR", "carbon removal", "OAE", "ocean alkalinity enhancement", "ocean CDR", "cost analysis"]
 cover:
   image: "/images/posts/20260322-04.png"

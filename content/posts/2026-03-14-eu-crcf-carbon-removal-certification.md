@@ -5,6 +5,7 @@ draft: false
 slug: eu-crcf-carbon-removal-certification
 aliases: ["/s/75"]
 description: "The EU's Carbon Removals and Carbon Farming Regulation creates the first government-backed certification for carbon removal credits — and it could reshape the entire market."
+pillar: "global"
 tags: ["EU", "CRCF", "certification", "carbon credits", "policy", "market"]
 cover:
   image: "/images/posts/20260314-09.png"

@@ -5,6 +5,7 @@ date: 2026-03-07T17:30:00+01:00
 slug: erw-one-billion-tonnes-potential
 aliases: ["/s/28"]
 draft: false
+pillar: "science"
 tags: ["ERW", "enhanced weathering", "science", "MRV", "CDI research"]
 categories: ["Science"]
 cover:

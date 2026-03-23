@@ -7,6 +7,7 @@ aliases:
   - /posts/2026-03-12-germany-cdr-industrial-policy/
   - "/s/63"
 description: "A new policy paper from LibMod and SWP argues that climate backsliding threatens CDR's political foundation. The fix: shift from accounting logic to industrial policy."
+pillar: "global"
 tags: ["policy", "Germany", "Europe", "CDR", "climate backsliding"]
 cover:
   image: "/images/posts/20260312-05.png"

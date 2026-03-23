@@ -4,6 +4,7 @@ date: 2026-03-21
 slug: dac-scaling-subsidy-cost-uncertainty
 aliases: ["/s/125"]
 description: "New research quantifies DAC's subsidy needs for the first time. The price tag is eye-watering — but the math works IF we also cut emissions."
+pillar: "science"
 tags: ["DAC", "policy", "economics", "research"]
 cover:
   image: "/images/posts/20260321-02.png"

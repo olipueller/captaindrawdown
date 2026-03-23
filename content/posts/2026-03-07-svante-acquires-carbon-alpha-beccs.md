@@ -5,6 +5,7 @@ date: 2026-03-07T15:00:00+01:00
 slug: svante-acquires-carbon-alpha-beccs
 aliases: ["/s/32"]
 draft: false
+pillar: "news"
 tags: ["BECCS", "Canada", "acquisition", "First Nations", "CCS"]
 categories: ["News"]
 cover:

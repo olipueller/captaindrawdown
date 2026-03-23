@@ -5,6 +5,7 @@ draft: false
 slug: eu-ets-suspension-italy-summit
 aliases: ["/s/56"]
 description: "Italy's industry minister called for suspending the EU Emissions Trading System. The Commission says no. A summit on March 19 will decide the next move."
+pillar: "global"
 tags: ["EU", "ETS", "carbon market", "policy", "Europe"]
 cover:
   image: "/images/posts/20260311-02.png"

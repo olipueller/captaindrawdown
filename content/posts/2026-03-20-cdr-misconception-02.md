@@ -4,6 +4,7 @@ date: 2026-03-20T09:00:00+01:00
 slug: cdr-misconception-02
 aliases: ["/s/113"]
 description: "Direct air capture needs a lot of energy. But 'a lot' is relative — and the energy equation is changing fast."
+pillar: "community"
 tags: ["CDR", "misconceptions", "DAC", "direct air capture", "energy", "renewables"]
 categories: ["Misconception of the Week"]
 cover:

@@ -4,6 +4,7 @@ date: 2026-03-09T10:00:00+01:00
 slug: apacdr-asia-pacific-carbon-removal
 aliases: ["/s/38"]
 draft: false
+pillar: "global"
 tags: ["carbon removal", "Asia-Pacific", "policy", "Singapore"]
 categories: ["Policy"]
 cover:

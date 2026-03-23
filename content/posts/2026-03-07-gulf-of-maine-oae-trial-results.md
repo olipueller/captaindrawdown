@@ -5,6 +5,7 @@ date: 2026-03-07T10:15:00+01:00
 slug: gulf-of-maine-oae-trial-results
 aliases: ["/s/29"]
 draft: false
+pillar: "science"
 tags: ["ocean CDR", "OAE", "ocean alkalinity enhancement", "marine CDR", "science"]
 categories: ["Science"]
 cover:

@@ -5,6 +5,7 @@ draft: false
 slug: 2026-03-11-cdr-daily-digest
 aliases: ["/s/55"]
 description: "Ocean alkalinity gets its first open-water data, Italy attacks the EU carbon market, Oman bets on peridotite, Northwestern cracks carbon-negative ethylene, and the DAC-to-fuel race heats up."
+pillar: "market"
 tags: ["daily digest", "CDR", "OAE", "EU ETS", "mineralization", "CCU", "DAC"]
 cover:
   image: "/images/digests/2026-03-11.png"

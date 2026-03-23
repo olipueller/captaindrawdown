@@ -5,6 +5,7 @@ date: 2026-03-22T01:00:00+01:00
 slug: "dac-dual-function-materials-capture-convert"
 aliases: ["/s/130"]
 description: "New FeNi-modified calcium-zirconium materials capture CO₂ from air and convert it in a single reactor — eliminating DAC's most expensive step."
+pillar: "science"
 tags: ["CDR", "carbon removal", "DAC", "direct air capture", "materials science", "dual-function materials"]
 cover:
   image: "/images/posts/20260322-02.png"

@@ -4,6 +4,7 @@ date: 2026-03-03T05:00:00Z
 slug: cdr-daily-digest
 aliases: ["/s/5"]
 draft: false
+pillar: "market"
 tags: ["cdr", "enhanced-rock-weathering", "ocean-alkalinity", "carbon-markets", "DAC", "daily-digest"]
 description: "ERW could absorb 1.1Gt CO₂/yr but MRV is the bottleneck, WHOI's first EPA-permitted OAE trial shows results, Hamburg builds DAC R&D hub, and the UN issues its first-ever Paris Agreement carbon credits."
 cover:

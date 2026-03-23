@@ -9,6 +9,7 @@ cover:
   image: /images/posts/cdr-watch-silicate.jpg
   alt: "The Silicate team standing in front of farm equipment in Ireland"
   hidden: false
+pillar: "news"
 tags: ["CDR Watch", "enhanced weathering", "video", "Silicate"]
 ---
 

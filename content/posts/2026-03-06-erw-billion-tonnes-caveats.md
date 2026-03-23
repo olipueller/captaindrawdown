@@ -4,6 +4,7 @@ date: 2026-03-06
 slug: erw-billion-tonnes-caveats
 aliases: ["/s/26"]
 draft: false
+pillar: "science"
 tags: ["CDR", "carbon removal", "enhanced weathering", "ERW", "basalt", "MRV", "Cornell", "Thünen Institute", "CDI research"]
 description: "A new Cornell study estimates enhanced rock weathering could hit 1.1 Gt CO₂/yr by 2100. The headline is exciting. The fine print is where the real story lives."
 cover:

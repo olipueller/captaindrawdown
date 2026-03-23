@@ -4,6 +4,7 @@ description: "The European Commission has adopted certification methodologies fo
 date: 2026-03-16T12:45:00+01:00
 slug: eu-crcf-certification-methodologies
 aliases: ["/s/91"]
+pillar: "global"
 tags: ["CDR", "carbon removal", "EU", "CRCF", "policy", "certification", "carbon credits", "regulation"]
 summary: "The EU just adopted its first certification methodologies for permanent carbon removals. This government-backed label could become the quality benchmark for CDR credits globally."
 draft: false

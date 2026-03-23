@@ -5,6 +5,7 @@ date: 2026-03-22T01:00:00+01:00
 slug: "ceraweek-2026-carbon-removal-energy-conference"
 aliases: ["/s/129"]
 description: "CERAWeek 2026 gives carbon management its own Innovation Agora track — and Microsoft's CDR lead is on the speaker list."
+pillar: "market"
 tags: ["CDR", "carbon removal", "CERAWeek", "Microsoft", "energy industry", "DAC", "carbon management"]
 cover:
   image: "/images/posts/20260322-05.png"

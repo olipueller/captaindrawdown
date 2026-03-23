@@ -5,6 +5,7 @@ aliases: ["/s/137"]
 date: 2026-03-23
 draft: false
 description: "A new Nature Energy paper from MIT describes an electrochemical cell that converts CO₂ and water into jet fuel hydrocarbons using renewable electricity — no biomass required."
+pillar: "news"
 tags:
   - Sustainable Aviation Fuel
   - Electrochemistry

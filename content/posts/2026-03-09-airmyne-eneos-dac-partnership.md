@@ -4,6 +4,7 @@ date: 2026-03-09T12:30:00+01:00
 slug: airmyne-eneos-dac-partnership
 aliases: ["/s/37"]
 draft: false
+pillar: "global"
 tags: ["DAC", "Japan", "investment", "ENEOS", "AirMyne"]
 categories: ["Companies"]
 cover:

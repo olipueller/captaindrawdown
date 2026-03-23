@@ -4,6 +4,7 @@ description: "A new Nature NPJ Climate Action paper from Georgia Tech argues tha
 date: 2026-03-19T15:15:00+01:00
 slug: georgia-tech-cdr-transparency-research
 aliases: ["/s/110"]
+pillar: "science"
 tags: ["CDR", "carbon removal", "transparency", "MRV", "policy", "Georgia Tech", "research", "voluntary carbon market"]
 summary: "Researchers argue CDR needs radical transparency — not just in carbon accounting, but in costs, methods, and community benefits. Without it, removal risks staying a niche market practice."
 draft: false

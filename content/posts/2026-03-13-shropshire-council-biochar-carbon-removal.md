@@ -5,6 +5,7 @@ draft: false
 slug: shropshire-council-biochar-carbon-removal
 aliases: ["/s/72"]
 description: "Shropshire Council becomes the first UK local authority to partially own a biochar carbon removal system — and a second fully-owned unit is coming this spring."
+pillar: "global"
 tags: ["biochar", "UK", "local government", "Shropshire"]
 cover:
   image: "/images/posts/20260313-05.png"

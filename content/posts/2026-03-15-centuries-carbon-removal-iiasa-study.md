@@ -5,6 +5,7 @@ draft: false
 slug: centuries-carbon-removal-iiasa-study
 aliases: ["/s/84"]
 description: "New IIASA research shows sea levels and permafrost thaw keep worsening for centuries after temperatures stabilize — stopping them requires sustained carbon removal far beyond current climate plans."
+pillar: "science"
 tags: ["science", "IIASA", "CDR", "sea level", "permafrost", "net-negative"]
 cover:
   image: "/images/posts/20260315-02.png"

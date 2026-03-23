@@ -6,6 +6,7 @@ aliases:
   - /posts/2026-03-14-cdr-misconception-01/
   - "/s/67"
 description: "The #1 objection to carbon dioxide removal, debunked with IPCC data and real buyer behavior."
+pillar: "community"
 tags: ["CDR", "misconceptions", "carbon removal", "IPCC", "mitigation"]
 categories: ["Misconception of the Week"]
 cover:

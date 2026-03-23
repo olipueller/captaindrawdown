@@ -4,6 +4,7 @@ date: 2026-03-02
 slug: erw-uncertainties-nature-paper
 aliases: ["/s/18"]
 description: "A new Nature Reviews Earth & Environment paper and Germany's Thünen Institute highlight ERW uncertainties. Here's what that means — and why it's not the end of enhanced weathering."
+pillar: "science"
 tags: ["ERW", "enhanced rock weathering", "MRV", "carbon removal", "research"]
 cover:
   image: "/images/posts/20260302-03.png"

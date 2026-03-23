@@ -9,6 +9,7 @@ cover:
   image: /images/posts/20260310-08.png
   alt: "Microbes on Marine Snow May Limit How Deep Carbon Actually Sinks"
   hidden: false
+pillar: "science"
 tags: ["science", "ocean CDR", "marine carbon"]
 ---
 

@@ -4,6 +4,7 @@ date: 2026-03-02
 slug: ac-paradox-cooling-heating-feedback
 aliases: ["/s/16"]
 description: "A Nature Communications study finds rising AC use could emit more CO₂ than the entire US — and most of it isn't from climate change itself."
+pillar: "science"
 tags: ["climate change", "emissions", "cooling", "CDR", "feedback loops"]
 cover:
   image: "/images/posts/20260302-01.png"

@@ -4,6 +4,7 @@ date: 2026-03-06
 slug: cdr-daily-digest
 aliases: ["/s/5"]
 draft: false
+pillar: "market"
 tags: ["CDR", "carbon removal", "daily digest", "Canada", "Boeing", "Carbonfuture", "Climeworks", "DAC", "biochar", "BECCS", "EU climate", "China", "Svante"]
 description: "Canada launches $100M Advance Carbon Removal Coalition. Boeing signs 40,000-tonne CDR deal with Carbonfuture. Climeworks opens Canadian HQ. EU finalizes 90% emissions target."
 cover:

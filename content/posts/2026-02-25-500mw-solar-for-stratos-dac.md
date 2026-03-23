@@ -4,6 +4,7 @@ description: "There's always been an uncomfortable question hanging over Direct 
 date: 2026-02-25
 slug: 500mw-solar-for-stratos-dac
 aliases: ["/s/1"]
+pillar: "news"
 tags: ["CDR", "carbon removal", "direct air capture", "DAC", "solar", "STRATOS", "Occidental"]
 summary: "Origis Energy's 500MW Swift Air Solar complex is now powering Occidental's STRATOS Direct Air Capture facility in Texas. DAC finally gets the clean energy it needs."
 draft: false

@@ -4,6 +4,7 @@ date: 2026-03-06
 slug: china-five-year-plan-no-cdr
 aliases: ["/s/25"]
 draft: false
+pillar: "global"
 tags: ["CDR", "carbon removal", "China", "climate policy", "five-year plan", "carbon intensity", "renewables", "coal"]
 description: "China's 15th Five-Year Plan targets a 17% carbon intensity reduction by 2030 — but mentions nothing about carbon dioxide removal. That gap is becoming harder to ignore."
 cover:

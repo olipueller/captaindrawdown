@@ -5,6 +5,7 @@ draft: false
 slug: lego-carbon-removal-portfolio
 aliases: ["/s/71"]
 description: "The LEGO Group has committed $7.9M total to durable carbon removal across four projects, from biomass geological storage to marine CDR."
+pillar: "news"
 tags: ["LEGO", "corporate buyers", "CDR market", "ClimeFi"]
 cover:
   image: "/images/posts/20260313-03.png"

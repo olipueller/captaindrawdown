@@ -4,6 +4,7 @@ description: "Disposable diapers are the third-largest consumer item in US landf
 date: 2026-03-16T18:20:00+01:00
 slug: diapers-biochar-diaper-stork
 aliases: ["/s/90"]
+pillar: "news"
 tags: ["CDR", "carbon removal", "biochar", "circular economy", "diapers", "Diaper Stork", "pyrolysis"]
 summary: "A Seattle company makes bamboo diapers, takes them back, and turns them into biochar. Over 3 million diapers diverted from landfills. Carbon removal from baby poop."
 draft: false

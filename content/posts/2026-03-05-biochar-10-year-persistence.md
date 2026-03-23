@@ -4,6 +4,7 @@ date: 2026-03-05
 slug: biochar-10-year-persistence
 aliases: ["/s/19"]
 draft: false
+pillar: "science"
 tags: ["biochar", "carbon sequestration", "soil science", "CDR", "Frontiers", "permanence"]
 description: "A 10-year field study in Oregon confirms that a single biochar application maintains soil carbon gains and pH improvements for over a decade."
 cover:

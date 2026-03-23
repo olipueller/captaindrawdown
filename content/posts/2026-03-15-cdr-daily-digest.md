@@ -5,6 +5,7 @@ draft: false
 slug: 2026-03-15-cdr-daily-digest
 aliases: ["/s/83"]
 description: "$600M in new CDR capital, a 500,000-tonne BECCS project, centuries of carbon removal needed, moisture-swing DAC breakthroughs, EU policy acceleration, and biochar in concrete."
+pillar: "market"
 tags: ["CDR", "daily digest", "BECCS", "DAC", "nature-based", "investment", "EU", "CRCF"]
 categories: ["Daily Digest"]
 cover:

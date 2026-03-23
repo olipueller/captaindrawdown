@@ -5,6 +5,7 @@ date: 2026-03-22T01:00:00+01:00
 slug: "cdr-durability-gap-nature-based-credits"
 aliases: ["/s/128"]
 description: "Carbon Direct's 2026 VCM report reveals a market flooded with short-lived removal credits while high-durability CDR capacity withers without buyers."
+pillar: "market"
 tags: ["CDR", "carbon removal", "carbon markets", "VCM", "carbon credits", "durability"]
 cover:
   image: "/images/posts/20260322-03.png"

@@ -4,6 +4,7 @@ description: "Quick: which carbon removal method dominates the commercial credit
 date: 2026-02-25
 slug: biochar-quiet-giant-of-cdr
 aliases: ["/s/2"]
+pillar: "news"
 tags: ["CDR", "carbon removal", "biochar", "carbon credits", "market"]
 summary: "Biochar delivers over 90% of all commercially traded permanent CDR credits. The $838M market is growing fast — here's why it matters."
 draft: false

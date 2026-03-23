@@ -4,6 +4,7 @@ description: "The ISO is drafting updated standards for how carbon removal credi
 date: 2026-03-17T18:30:00+01:00
 slug: first-global-rules-cdr-credits
 aliases: ["/s/97"]
+pillar: "market"
 tags: ["CDR", "carbon removal", "carbon credits", "ISO", "IPCC", "standards", "verification", "MRV", "policy"]
 summary: "The ISO is updating its climate management standards to include carbon removal verification. The revised ISO 14001:2026 is expected in April — and it could determine whether CDR credits are trusted or dismissed."
 draft: false

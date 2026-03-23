@@ -4,6 +4,7 @@ date: 2026-03-10
 slug: ocean-cdr-nutrient-cycling-limits
 aliases: ["/s/51"]
 description: "New research shows carbon and phosphorus cycle at different speeds in the ocean, meaning biological CDR approaches like iron fertilization may overestimate long-term effectiveness."
+pillar: "science"
 tags: ["science", "ocean CDR", "mCDR"]
 cover:
   image: /images/posts/20260310-05.png

@@ -5,6 +5,7 @@ aliases: ["/s/134"]
 date: 2026-03-23
 draft: false
 description: "A new assessment by Sweco Finland and Carbon Gap finds Germany could remove up to 95 MtCO₂ per year by 2045 — but only with unprecedented coordination between government and industry."
+pillar: "global"
 tags:
   - Carbon Removal
   - Germany

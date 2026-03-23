@@ -5,6 +5,7 @@ draft: false
 slug: moisture-swing-polymers-dac-asu-study
 aliases: ["/s/86"]
 description: "ASU researchers reveal that macropore structure determines how well moisture-swing sorbents capture CO₂ — a key insight for designing cheaper, low-energy direct air capture materials."
+pillar: "science"
 tags: ["DAC", "science", "materials", "CDR", "sorbents"]
 cover:
   image: "/images/posts/20260315-05.png"
