@@ -1,7 +1,7 @@
 ---
 title: "Appala Raju Badireddy"
-description: "Appala Raju Badireddy is a Mid-career Soil Carbon researcher at University of Vermont in US. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.059505
+description: "Appala Raju Badireddy is a Mid-career General CDR researcher at University of Vermont in US. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.537669
 url: "/cdr-researcher-census/researchers/appala-raju-badireddy-a5109611/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ University of Vermont · 🇺🇸 US
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 846 |
 | Publications | 6 |
-| CDR Focus | 16.7% |
+| CDR Focus | 1670.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Resilient Soils for Resilient Farms: An Integrative Approach to Assess, Promote, and Value Soil Health for Small- and Medium-Size Farms** (2022)
-   11 citations · Soil Carbon
+   11 citations · General CDR
 
 ## External Profiles
 

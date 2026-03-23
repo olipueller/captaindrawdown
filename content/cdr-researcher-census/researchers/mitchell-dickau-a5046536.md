@@ -1,7 +1,7 @@
 ---
 title: "Mitchell Dickau"
-description: "Mitchell Dickau is a Mid-career Ocean CDR researcher at Concordia University in CA. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.952594
+description: "Mitchell Dickau is a Mid-career General CDR researcher at Concordia University in CA. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.927078
 url: "/cdr-researcher-census/researchers/mitchell-dickau-a5046536/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Concordia University · 🇨🇦 CA
 
 ## CDR Specialization
 
-**Ocean CDR**
+**General CDR**
 
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,19 +45,19 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 5 |
 | Citations | 157 |
 | Publications | 15 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Temporary land carbon storage can avoid slow-responding climate changes** (2026)
-   0 citations · Ocean CDR
-
-2. **Comment on egusphere-2025-5292** (2025)
    0 citations · General CDR
 
+2. **Comment on egusphere-2025-5292** (2025)
+   0 citations
+
 3. **The proportionality between tonne-years of temporary carbon storage and inertial climate variables&amp;#160;** (2025)
-   0 citations · Ocean CDR
+   0 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Zhijian Mou"
 description: "Zhijian Mou is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 31 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.122352
+date: 2026-03-23T11:46:59.650979
 url: "/cdr-researcher-census/researchers/zhijian-mou-a5000624/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 11 |
 | Citations | 667 |
 | Publications | 31 |
-| CDR Focus | 38.7% |
+| CDR Focus | 2260.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications

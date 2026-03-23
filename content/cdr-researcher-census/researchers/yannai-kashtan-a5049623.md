@@ -1,7 +1,7 @@
 ---
 title: "Yannai Kashtan"
-description: "Yannai Kashtan is a Mid-career DAC researcher at Healthy Start in US. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.002968
+description: "Yannai Kashtan is a Mid-career carbon dioxide removal researcher at Healthy Start in US. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.992093
 url: "/cdr-researcher-census/researchers/yannai-kashtan-a5049623/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Healthy Start · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,19 +39,19 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 5 |
 | Citations | 149 |
 | Publications | 18 |
-| CDR Focus | 16.7% |
+| CDR Focus | 560.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Code for "Direct air capture has substantial health and climate opportunity costs"** (2026)
-   0 citations · DAC
+   0 citations
 
 2. **Code for "Direct air capture has substantial health and climate opportunity costs"** (2026)
-   0 citations · DAC
+   0 citations
 
 3. **Code for "Direct air capture has substantial health and climate opportunity costs"** (2026)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "J. E. Rheuban"
 description: "J. E. Rheuban is a Mid-career Ocean CDR researcher at Woods Hole Oceanographic Institution in US. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.275997
+date: 2026-03-23T11:47:01.287055
 url: "/cdr-researcher-census/researchers/j-e-rheuban-a5030677/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,13 +42,13 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 2 |
 | Citations | 114 |
 | Publications | 4 |
-| CDR Focus | 25.0% |
+| CDR Focus | 2500.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **The effects of elevated seawater pH and total alkalinity following dosing of sodium hydroxide in <i>Calanus finmarchicus</i>** (2026)
-   0 citations · General CDR
+   0 citations · Ocean CDR
 
 ## External Profiles
 

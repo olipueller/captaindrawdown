@@ -1,7 +1,7 @@
 ---
 title: "Moran Wang"
-description: "Moran Wang is a Mid-career Soil Carbon researcher at Shanghai Normal University in CN. With 10 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.860882
+description: "Moran Wang is a Mid-career carbon dioxide removal researcher at Shanghai Normal University in CN. With 10 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.808132
 url: "/cdr-researcher-census/researchers/moran-wang-a5058394/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Shanghai Normal University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 3 |
 | Citations | 176 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Metagenomic insights into the carbon decomposition of plant and microbial biomass in forests across biomes** (2025)
-   0 citations · Soil Carbon
+   0 citations
 
 ## External Profiles
 

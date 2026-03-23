@@ -1,7 +1,7 @@
 ---
 title: "Jieyun Guo"
 description: "Jieyun Guo is a Mid-career Soil Carbon researcher. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.241166
+date: 2026-03-23T11:46:59.869696
 url: "/cdr-researcher-census/researchers/jieyun-guo-a5046708/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -37,7 +37,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 474 |
 | Publications | 16 |
-| CDR Focus | 12.5% |
+| CDR Focus | 620.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -46,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    201 citations · Soil Carbon
 
 2. **Nitrogen addition stimulates soil aggregation and enhances carbon storage in terrestrial ecosystems of China: A meta-analysis** (2021)
-   0 citations · Soil Carbon
+   0 citations
 
 ## External Profiles
 

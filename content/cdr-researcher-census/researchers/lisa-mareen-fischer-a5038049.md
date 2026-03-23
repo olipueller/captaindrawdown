@@ -1,7 +1,7 @@
 ---
 title: "Lisa Mareen Fischer"
 description: "Lisa Mareen Fischer is an Early-career Soil Carbon researcher at Technical University of Munich in DE. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.412235
+date: 2026-03-23T11:47:01.427941
 url: "/cdr-researcher-census/researchers/lisa-mareen-fischer-a5038049/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 2 |
 | Citations | 101 |
 | Publications | 2 |
-| CDR Focus | 100.0% |
+| CDR Focus | 10000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

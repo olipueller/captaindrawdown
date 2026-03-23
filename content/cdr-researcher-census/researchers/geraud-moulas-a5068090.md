@@ -1,7 +1,7 @@
 ---
 title: "Géraud Moulas"
 description: "Géraud Moulas is a Senior General CDR researcher at Arttic (France) in FR. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.357164
+date: 2026-03-23T11:47:00.065073
 url: "/cdr-researcher-census/researchers/geraud-moulas-a5068090/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 6 |
 | Citations | 367 |
 | Publications | 12 |
-| CDR Focus | 25.0% |
+| CDR Focus | 830.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Data for the consolidated European synthesis of CO2 emissions and removals for EU27 and UK: 1990-2020** (2022)
-   9 citations · General CDR
+   9 citations
 
 2. **Data for the consolidated European synthesis of CO2 emissions and removals for EU27 and UK: 1990-2020** (2022)
-   0 citations · General CDR
+   0 citations
 
 3. **Data for the consolidated European synthesis of CO2 emissions and removals for EU27 and UK: 1990-2020** (2022)
    0 citations · General CDR

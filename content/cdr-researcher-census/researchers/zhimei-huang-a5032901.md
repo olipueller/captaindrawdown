@@ -1,7 +1,7 @@
 ---
 title: "Zhimei Huang"
 description: "Zhimei Huang is an Early-career Soil Carbon researcher at Southwest University in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.206047
+date: 2026-03-23T11:47:01.211808
 url: "/cdr-researcher-census/researchers/zhimei-huang-a5032901/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 122 |
 | Publications | 7 |
-| CDR Focus | 28.6% |
+| CDR Focus | 1430.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    6 citations · Soil Carbon
 
 2. **The Synergy Between Ecosystem Services and Biodiversity Depends on the Ecosystem Type and Evaluation Scale** (2025)
-   0 citations · Soil Carbon
+   0 citations
 
 ## External Profiles
 

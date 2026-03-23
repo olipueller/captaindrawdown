@@ -1,7 +1,7 @@
 ---
 title: "Masakazu Murase"
-description: "Masakazu Murase is a Senior DAC researcher at Toyota Central Research and Development Laboratories (Japan) in JP. With 28 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.943038
+description: "Masakazu Murase is a Senior carbon dioxide removal researcher at Toyota Central Research and Development Laboratories (Japan) in JP. With 28 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.916920
 url: "/cdr-researcher-census/researchers/masakazu-murase-a5017737/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Toyota Central Research and Development Laboratories (Japan) · 🇯🇵 JP
 
 **Career Stage:** Senior
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,22 +39,22 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 8 |
 | Citations | 159 |
 | Publications | 28 |
-| CDR Focus | 14.3% |
+| CDR Focus | 710.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Frontispiz: Electrochemical CO<sub>2</sub> Fixation and Release Cycle Featuring a Trinuclear Zinc Complex for Direct Air Capture** (2025)
-   0 citations · DAC
+   0 citations
 
 2. **Frontispiece: Electrochemical CO<sub>2</sub> Fixation and Release Cycle Featuring a Trinuclear Zinc Complex for Direct Air Capture** (2025)
-   0 citations · DAC
+   0 citations
 
 3. **Electrochemical CO<sub>2</sub> Fixation and Release Cycle Featuring a Trinuclear Zinc Complex for Direct Air Capture** (2024)
-   0 citations · DAC
+   0 citations
 
 4. **Electrochemical CO<sub>2</sub> Fixation and Release Cycle Featuring a Trinuclear Zinc Complex for Direct Air Capture** (2024)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Alberto Azevedo Gomes"
-description: "Alberto Azevedo Gomes is a Mid-career Soil Carbon researcher at Instituto Nacional de Investigação Agrária e Veterinária in PT. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.942376
+description: "Alberto Azevedo Gomes is a Mid-career BECCS researcher at Instituto Nacional de Investigação Agrária e Veterinária in PT. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.915328
 url: "/cdr-researcher-census/researchers/alberto-azevedo-gomes-a5066665/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Instituto Nacional de Investigação Agrária e Veterinária · 🇵🇹 PT
 
 ## CDR Specialization
 
-**Soil Carbon**
+**BECCS**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 160 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Impact of Fertilization with Cattle Slurry in a Poplar Short Rotation Coppice on Mass Balance of Nutrients and Biomass Productivity** (2025)
-   0 citations · Soil Carbon
+   0 citations · BECCS
 
 ## External Profiles
 

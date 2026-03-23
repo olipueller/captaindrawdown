@@ -1,7 +1,7 @@
 ---
 title: "Ina Säumel"
 description: "Ina Säumel is a Senior Soil Carbon researcher at Humboldt-Universität zu Berlin in DE. With 78 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.919298
+date: 2026-03-23T11:46:59.218808
 url: "/cdr-researcher-census/researchers/ina-saumel-a5073254/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 22 |
 | Citations | 2,560 |
 | Publications | 78 |
-| CDR Focus | 10.3% |
+| CDR Focus | 770.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -57,13 +57,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    3 citations · Soil Carbon
 
 3. **Post-Extractivism and Bioeconomy: An Experimental Analysis of Combustion and Pyrolysis Processes as Alternatives to Add Value to Agro-Residues (Coffee Husks) Generated in Farmer Cooperatives of the Ecuadorian Amazon** (2024)
-   1 citations · Biochar
+   1 citations
 
 4. **Back to the future- Conservative grassland management for Anthropocene soils in the changed landscapes of Uruguay?** (2022)
    1 citations · Soil Carbon
 
 5. **Reply on RC2** (2022)
-   0 citations · Soil Carbon
+   0 citations
 
 6. **Comment on egusphere-2022-335** (2022)
    0 citations · Soil Carbon
@@ -72,7 +72,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    0 citations · Soil Carbon
 
 8. **Comment on egusphere-2022-335** (2022)
-   0 citations · Soil Carbon
+   0 citations
 
 ## External Profiles
 

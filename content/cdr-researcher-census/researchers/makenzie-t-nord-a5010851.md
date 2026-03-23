@@ -1,7 +1,7 @@
 ---
 title: "Makenzie T. Nord"
-description: "Makenzie T. Nord is a Mid-career DAC researcher at Oregon State University in US. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.371370
+description: "Makenzie T. Nord is a Mid-career carbon dioxide removal researcher at Oregon State University in US. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.089509
 url: "/cdr-researcher-census/researchers/makenzie-t-nord-a5010851/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Oregon State University · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,22 +39,22 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 8 |
 | Citations | 357 |
 | Publications | 20 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Carbon Dioxide Capture by Niobium Polyoxometalate Fragmentation** (2024)
-   18 citations · DAC
+   18 citations
 
 2. **Tetraperoxotitanates for High-Capacity Direct Air Capture of Carbon Dioxide** (2024)
-   2 citations · DAC
+   2 citations
 
 3. **Carbon Dioxide Capture by Niobium Polyoxometalate Fragments** (2024)
-   1 citations · DAC
+   1 citations
 
 4. **Tetraperoxotitanates for High Capacity Direct Air Capture of Carbon Dioxide** (2024)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

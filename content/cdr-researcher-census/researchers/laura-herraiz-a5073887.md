@@ -1,7 +1,7 @@
 ---
 title: "Laura Herraiz"
-description: "Laura Herraiz is a Mid-career BECCS researcher at University of Edinburgh in GB. With 32 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.358543
+description: "Laura Herraiz is a Mid-career General CDR researcher at University of Edinburgh in GB. With 32 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.067566
 url: "/cdr-researcher-census/researchers/laura-herraiz-a5073887/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Edinburgh · 🇬🇧 GB
 
 ## CDR Specialization
 
-**BECCS**
+**General CDR**
 
-Combining biomass energy with carbon capture and storage to achieve negative emissions.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 10 |
 | Citations | 366 |
 | Publications | 32 |
-| CDR Focus | 15.6% |
+| CDR Focus | 620.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,16 +54,16 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
    45 citations · DAC
 
 2. **On the Cost of Zero Carbon Hydrogen: A Techno-Economic Analysis of Steam Methane Reforming with Carbon Capture and Storage** (2022)
-   5 citations · DAC
+   5 citations · General CDR
 
 3. **Negative Emissions in the Waste-to-Energy Sector: An Overview of the Newest-CCUS Programme** (2021)
-   4 citations · BECCS
+   4 citations · General CDR
 
 4. **Life cycle assessment of four waste-to-energy plant configurations equipped with post-combustion carbon capture and storage** (2026)
    0 citations · BECCS
 
 5. **Life Cycle Assessment of Four Waste-to-Energy Plant Configurations Equipped with Post-Combustion Carbon Capture and Storage** (2025)
-   0 citations · BECCS
+   0 citations · General CDR
 
 ## External Profiles
 

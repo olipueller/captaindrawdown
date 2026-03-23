@@ -1,7 +1,7 @@
 ---
 title: "Rebecca Kamire"
 description: "Rebecca Kamire is a Mid-career General CDR researcher. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.469959
+date: 2026-03-23T11:47:00.254115
 url: "/cdr-researcher-census/researchers/rebecca-kamire-a5038920/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 4 |
 | Citations | 297 |
 | Publications | 11 |
-| CDR Focus | 27.3% |
+| CDR Focus | 2730.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -49,10 +49,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    0 citations · General CDR
 
 2. **"Carbon Dioxide Removal by Ionic Liquid System for Mobility (CDRILS-M) for Mars Exploration Extravehicular Mobility Unit (mxEMU)"** (2025)
-   0 citations · General CDR
+   0 citations
 
 3. **Carbon Dioxide Removal by Ionic Liquid System (CDRILS): Continuous Operation and Full-Scale Brassboard Testing** (2021)
-   0 citations · General CDR
+   0 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Yolanda A. Criado"
 description: "Yolanda A. Criado is a Mid-career DAC researcher at Instituto de Ciencia y Tecnología del Carbono in ES. With 35 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.978775
+date: 2026-03-23T11:46:59.354467
 url: "/cdr-researcher-census/researchers/yolanda-a-criado-a5012909/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,22 +45,22 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 18 |
 | Citations | 1,391 |
 | Publications | 35 |
-| CDR Focus | 11.4% |
+| CDR Focus | 1140.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Carbonation Rates of Dry Ca(OH)<sub>2</sub> Mortars for CO<sub>2</sub> Capture Applications at Ambient Temperatures** (2022)
-   31 citations · DAC
+   31 citations
 
 2. **Direct capture of carbon dioxide from the atmosphere using bricks of calcium hydroxide** (2023)
-   18 citations · DAC
+   18 citations
 
 3. **Techno-economic study of a direct air capture system based on the carbonation of Ca(OH)2 plates integrated into cooling towers** (2024)
    5 citations · DAC
 
 4. **Experimental demonstration of an air contactor to capture CO2 from the atmosphere using Ca(OH)2 solid forms** (2025)
-   2 citations · DAC
+   2 citations
 
 ## External Profiles
 

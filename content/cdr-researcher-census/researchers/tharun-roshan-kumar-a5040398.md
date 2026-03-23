@@ -1,7 +1,7 @@
 ---
 title: "Tharun Roshan Kumar"
 description: "Tharun Roshan Kumar is a Mid-career BECCS researcher at Chalmers University of Technology in SE. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.245689
+date: 2026-03-23T11:47:01.254249
 url: "/cdr-researcher-census/researchers/tharun-roshan-kumar-a5040398/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 5 |
 | Citations | 117 |
 | Publications | 12 |
-| CDR Focus | 41.7% |
+| CDR Focus | 2500.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,10 +54,10 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
    31 citations · BECCS
 
 2. **Integration of sorbent-based direct air capture into combined heat and power plants with post-combustion carbon capture** (2025)
-   5 citations · DAC
+   5 citations
 
 3. **A million scenarios to identify conditions for robust bioenergy carbon capture in Sweden** (2025)
-   1 citations · BECCS
+   1 citations
 
 4. **Integration of Sorbent-Based Direct Air Capture into Combined Heat and Power Plants with Post-Combustion Carbon Capture** (2025)
    0 citations · DAC

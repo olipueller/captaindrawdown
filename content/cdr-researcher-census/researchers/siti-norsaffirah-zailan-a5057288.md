@@ -1,7 +1,7 @@
 ---
 title: "Siti Norsaffirah Zailan"
-description: "Siti Norsaffirah Zailan is a Mid-career Biochar researcher at Universiti Malaysia Perlis in MY. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.771621
+description: "Siti Norsaffirah Zailan is a Mid-career carbon dioxide removal researcher at Universiti Malaysia Perlis in MY. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.674776
 url: "/cdr-researcher-census/researchers/siti-norsaffirah-zailan-a5057288/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Universiti Malaysia Perlis · 🇲🇾 MY
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Biochar**
-
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,19 +39,19 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 6 |
 | Citations | 195 |
 | Publications | 11 |
-| CDR Focus | 27.3% |
+| CDR Focus | 910.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Adsorption efficiency and photocatalytic activity of silver sulphide-activated carbon (Ag2S-AC) composites** (2024)
-   3 citations · Biochar
+   3 citations
 
 2. **Ground Coffee Waste-Derived Activated Carbon: A Sustainable Adsorbent and Photocatalyst for Effective Methylene Blue Dye Degradation** (2024)
-   2 citations · General CDR
+   2 citations
 
 3. **Magnetite (Fe3O4)-Activated Carbon Composite from Ground Coffee Waste for the Removal of Copper Ions (Cu2+) from Solution** (2024)
-   1 citations · Biochar
+   1 citations
 
 ## External Profiles
 

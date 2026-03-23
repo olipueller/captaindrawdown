@@ -1,7 +1,7 @@
 ---
 title: "Sophie Gill"
-description: "Sophie Gill is a Mid-career General CDR researcher. With 10 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.275960
+description: "Sophie Gill is a Mid-career Ocean CDR researcher. With 10 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.940431
 url: "/cdr-researcher-census/researchers/sophie-gill-a5073665/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,9 +29,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**General CDR**
+**Ocean CDR**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
 
 ## Metrics
 
@@ -40,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 2 |
 | Citations | 429 |
 | Publications | 10 |
-| CDR Focus | 80.0% |
+| CDR Focus | 6000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -49,7 +49,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    8 citations · General CDR
 
 2. **From source to sink: Quantification of Riverine and Marine Carbonate System Losses for Alkalinity-Based Carbon Dioxide Removal** (2026)
-   0 citations · Enhanced Weathering
+   0 citations · General CDR
 
 3. **The Physiological Response of Contrasting Coccolithophore Species to Ocean Alkalinity Enhancement** (2025)
    0 citations · Ocean CDR
@@ -67,7 +67,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    0 citations · General CDR
 
 8. **Assessing the response of coccolithophores and foraminifera to enhanced ocean alkalinity as a CO2 sequestration technique** (2021)
-   0 citations · Enhanced Weathering
+   0 citations · Ocean CDR
 
 ## External Profiles
 

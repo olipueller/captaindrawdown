@@ -1,7 +1,7 @@
 ---
 title: "Xin Zhao"
 description: "Xin Zhao is a Senior Soil Carbon researcher at China Agricultural University in CN. With 131 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.892513
+date: 2026-03-23T11:46:59.149648
 url: "/cdr-researcher-census/researchers/xin-zhao-a5083475/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 38 |
 | Citations | 4,208 |
 | Publications | 131 |
-| CDR Focus | 15.3% |
+| CDR Focus | 1450.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -63,7 +63,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    55 citations · Soil Carbon
 
 5. **Greenhouse gas emissions from the wheat-maize cropping system under different tillage and crop residue management practices in the North China Plain** (2022)
-   44 citations · General CDR
+   44 citations · Soil Carbon
 
 6. **Optimizing the rate of straw returning to balance trade-offs between carbon emission budget and rice yield in China** (2024)
    34 citations · Soil Carbon
@@ -72,7 +72,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    32 citations · Soil Carbon
 
 8. **Effects of fertilizer application strategies on soil organic carbon and total nitrogen storage under different agronomic practices: A meta‐analysis** (2023)
-   25 citations · Soil Carbon
+   25 citations · General CDR
 
 9. **Enhancing soil ecosystem multifunctionality through combined conservation tillage and legume-based crop rotation in the North China Plain** (2024)
    22 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Aidan Klemm"
 description: "Aidan Klemm is a Mid-career DAC researcher at Case Western Reserve University in US. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.248005
+date: 2026-03-23T11:46:59.884057
 url: "/cdr-researcher-census/researchers/aidan-klemm-a5069196/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,25 +45,25 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 10 |
 | Citations | 463 |
 | Publications | 19 |
-| CDR Focus | 26.3% |
+| CDR Focus | 2630.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Deep Eutectic Solvent Formed by Imidazolium Cyanopyrrolide and Ethylene Glycol for Reactive CO<sub>2</sub> Separations** (2021)
-   91 citations · DAC
+   91 citations
 
 2. **Perspective and challenges in electrochemical approaches for reactive CO2 separations** (2021)
    56 citations · DAC
 
 3. **Ionic Liquid Functionalizes the Metal Organic Framework for Microwave-Assisted Direct Air Capture of CO<sub>2</sub>** (2024)
-   23 citations · DAC
+   23 citations
 
 4. **Microwave Regeneration and Thermal and Oxidative Stability of Imidazolium Cyanopyrrolide Ionic Liquid for Direct Air Capture of Carbon Dioxide** (2023)
-   22 citations · DAC
+   22 citations
 
 5. **Ionic Liquid–Glycol Mixtures for Direct Air Capture of CO<sub>2</sub>: Decreased Viscosity and Mitigation of Evaporation Via Encapsulation** (2024)
-   21 citations · DAC
+   21 citations
 
 ## External Profiles
 

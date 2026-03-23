@@ -1,7 +1,7 @@
 ---
 title: "Hugh Burley"
-description: "Hugh Burley is a Mid-career Soil Carbon researcher at Commonwealth Scientific and Industrial Research Organisation in AU. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.312822
+description: "Hugh Burley is a Mid-career General CDR researcher at Commonwealth Scientific and Industrial Research Organisation in AU. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.993766
 url: "/cdr-researcher-census/researchers/hugh-burley-a5008763/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Commonwealth Scientific and Industrial Research Organisation · 🇦🇺 AU
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,16 +45,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 402 |
 | Publications | 18 |
-| CDR Focus | 11.1% |
+| CDR Focus | 560.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Structural inequities shape biodiversity and climate mitigation outcomes in livestock systems** (2026)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 2. **Tailoring Australian carbon farming can realise greater co-benefits** (2026)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

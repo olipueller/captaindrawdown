@@ -1,7 +1,7 @@
 ---
 title: "Luhui Kuang"
 description: "Luhui Kuang is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.148515
+date: 2026-03-23T11:46:59.701770
 url: "/cdr-researcher-census/researchers/luhui-kuang-a5062701/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 10 |
 | Citations | 617 |
 | Publications | 18 |
-| CDR Focus | 38.9% |
+| CDR Focus | 2780.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications

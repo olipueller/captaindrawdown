@@ -1,7 +1,7 @@
 ---
 title: "Gamze Ünlü"
 description: "Gamze Ünlü is a Mid-career General CDR researcher at International Institute for Applied Systems Analysis in AT. With 22 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.291443
+date: 2026-03-23T11:46:59.961941
 url: "/cdr-researcher-census/researchers/gamze-unlu-a5060844/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 6 |
 | Citations | 417 |
 | Publications | 22 |
-| CDR Focus | 36.4% |
+| CDR Focus | 1360.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,22 +54,22 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    31 citations · DAC
 
 2. **ENGAGE Global Scenarios** (2021)
-   6 citations · General CDR
+   6 citations
 
 3. **Fairness and feasibility in deep mitigation pathways with novel carbon dioxide removal considering institutional capacity to mitigate** (2023)
-   3 citations · DAC
+   3 citations
 
 4. **ENGAGE Global Scenarios** (2021)
-   2 citations · General CDR
+   2 citations
 
 5. **Dataset for Gidden, Brutschin et. al. 2023** (2023)
    0 citations · DAC
 
 6. **ENGAGE Global Scenarios** (2021)
-   0 citations · General CDR
+   0 citations
 
 7. **Dataset for Gidden, Brutschin et. al. 2023** (2023)
-   0 citations · DAC
+   0 citations
 
 8. **ENGAGE Global Scenarios** (2021)
    0 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Wayne Keeling"
 description: "Wayne Keeling is a Senior Soil Carbon researcher at Texas A&M University – Central Texas in US. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.676024
+date: 2026-03-23T11:47:00.548208
 url: "/cdr-researcher-census/researchers/wayne-keeling-a5061838/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 222 |
 | Publications | 19 |
-| CDR Focus | 10.5% |
+| CDR Focus | 530.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

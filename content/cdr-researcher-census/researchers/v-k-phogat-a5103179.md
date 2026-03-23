@@ -1,7 +1,7 @@
 ---
 title: "V. K. Phogat"
-description: "V. K. Phogat is a Mid-career Soil Carbon researcher. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.853877
+description: "V. K. Phogat is a Mid-career General CDR researcher. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.800016
 url: "/cdr-researcher-census/researchers/v-k-phogat-a5103179/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,9 +26,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -37,13 +37,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 177 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Evaluation of Carbon Sequestration Following Land Use Change Across Cropping Systems and Soil Textures in Aridisols, Entisols, and Inceptisols** (2024)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Shuhao Zhu"
-description: "Shuhao Zhu is a Mid-career Soil Carbon researcher at Agro-Environmental Protection Institute in CN. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.929360
+description: "Shuhao Zhu is a Mid-career carbon dioxide removal researcher at Agro-Environmental Protection Institute in CN. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.897537
 url: "/cdr-researcher-census/researchers/shuhao-zhu-a5029285/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Agro-Environmental Protection Institute · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 3 |
 | Citations | 162 |
 | Publications | 3 |
-| CDR Focus | 33.3% |
+| CDR Focus | 3330.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **The response of agronomic characters and rice yield to organic fertilization in subtropical China: A three-level meta-analysis** (2021)
-   56 citations · Biochar
+   56 citations
 
 ## External Profiles
 

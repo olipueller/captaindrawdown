@@ -1,7 +1,7 @@
 ---
 title: "Shengpeng Li"
-description: "Shengpeng Li is a Mid-career Soil Carbon researcher at China University of Geosciences (Beijing) in CN. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.076564
+description: "Shengpeng Li is a Mid-career General CDR researcher at China University of Geosciences (Beijing) in CN. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.072720
 url: "/cdr-researcher-census/researchers/shengpeng-li-a5027288/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ China University of Geosciences (Beijing) · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,16 +45,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 138 |
 | Publications | 9 |
-| CDR Focus | 22.2% |
+| CDR Focus | 1110.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Temporal-spatial evolution and driving mechanism of ecosystem service in coal-based towns in loess region, China** (2024)
-   7 citations · Soil Carbon
+   7 citations
 
 2. **Zonal gaming and overall enhancement of ecosystem services: A case from the compound area of mine-city and agriculture-forestry-grass in loess region, China** (2025)
-   2 citations · Soil Carbon
+   2 citations · General CDR
 
 ## External Profiles
 

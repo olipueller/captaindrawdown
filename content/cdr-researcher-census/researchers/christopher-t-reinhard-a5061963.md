@@ -1,7 +1,7 @@
 ---
 title: "Christopher T. Reinhard"
-description: "Christopher T. Reinhard is an Eminent Enhanced Weathering researcher at Georgia Institute of Technology in US. With 278 publications and an h-index of 56, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.865152
+description: "Christopher T. Reinhard is an Eminent General CDR researcher at Georgia Institute of Technology in US. With 278 publications and an h-index of 56, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.086282
 url: "/cdr-researcher-census/researchers/christopher-t-reinhard-a5061963/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Georgia Institute of Technology · 🇺🇸 US
 
 ## CDR Specialization
 
-**Enhanced Weathering**
+**General CDR**
 
-Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,22 +45,22 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 56 |
 | Citations | 13,993 |
 | Publications | 278 |
-| CDR Focus | 18.0% |
+| CDR Focus | 1370.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Enhanced weathering in the US Corn Belt delivers carbon removal with agronomic benefits** (2024)
-   110 citations · Enhanced Weathering
+   110 citations
 
 2. **Ocean alkalinity enhancement through restoration of blue carbon ecosystems** (2023)
-   65 citations · General CDR
+   65 citations · Ocean CDR
 
 3. **River chemistry constraints on the carbon capture potential of surficial enhanced rock weathering** (2022)
    57 citations · Enhanced Weathering
 
 4. **Initial Validation of a Soil-Based Mass-Balance Approach for Empirical Monitoring of Enhanced Rock Weathering Rates** (2023)
-   56 citations · Enhanced Weathering
+   56 citations
 
 5. **A biogeochemical model of mineral-based ocean alkalinity enhancement: impacts on the biological pump and ocean carbon uptake** (2023)
    52 citations · General CDR

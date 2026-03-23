@@ -1,7 +1,7 @@
 ---
 title: "Ze-ning Yu"
-description: "Ze-ning Yu is an Early-career Enhanced Weathering researcher at South China Agricultural University in CN. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.229505
+description: "Ze-ning Yu is an Early-career Biochar researcher at South China Agricultural University in CN. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.236901
 url: "/cdr-researcher-census/researchers/ze-ning-yu-a5113183/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ South China Agricultural University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Enhanced Weathering**
+**Biochar**
 
-Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 2 |
 | Citations | 119 |
 | Publications | 4 |
-| CDR Focus | 25.0% |
+| CDR Focus | 2500.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **The key role of biochar in amending acidic soil: reducing soil acidity and improving soil acid buffering capacity** (2025)
-   58 citations · Enhanced Weathering
+   58 citations · Biochar
 
 ## External Profiles
 

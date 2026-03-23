@@ -1,7 +1,7 @@
 ---
 title: "Yifei Qiu"
-description: "Yifei Qiu is a Mid-career Ocean CDR researcher at Nanjing University in CN. With 19 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.137878
+description: "Yifei Qiu is a Mid-career Soil Carbon researcher at Nanjing University in CN. With 19 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.679400
 url: "/cdr-researcher-census/researchers/yifei-qiu-a5004109/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Nanjing University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Ocean CDR**
+**Soil Carbon**
 
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 11 |
 | Citations | 636 |
 | Publications | 19 |
-| CDR Focus | 15.8% |
+| CDR Focus | 1580.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,10 +54,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    54 citations · Soil Carbon
 
 2. **Global patterns of organic carbon transfer and accumulation across the land–ocean continuum constrained by radiocarbon data** (2024)
-   17 citations · General CDR
+   17 citations · Ocean CDR
 
 3. **Global patterns of organic carbon transferand accumulation across the land&amp;#8211;oceancontinuum constrained by radiocarbon data** (2025)
-   0 citations · General CDR
+   0 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Charly A. Moras"
 description: "Charly A. Moras is a Mid-career Ocean CDR researcher at Universität Hamburg in DE. With 39 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.528271
+date: 2026-03-23T11:47:00.349629
 url: "/cdr-researcher-census/researchers/charly-a-moras-a5020057/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,22 +45,22 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 7 |
 | Citations | 271 |
 | Publications | 39 |
-| CDR Focus | 87.2% |
+| CDR Focus | 4870.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Ocean alkalinity enhancement – avoiding runaway CaCO <sub>3</sub> precipitation during quick and hydrated lime dissolution** (2022)
-   157 citations · General CDR
+   157 citations · Ocean CDR
 
 2. **Ocean alkalinity enhancement approaches and the predictability of runaway precipitation processes: results of an experimental study to determine critical alkalinity ranges for safe and sustainable application scenarios** (2024)
-   24 citations · Ocean CDR
+   24 citations · General CDR
 
 3. **Ocean Alkalinity Enhancement – Avoiding runaway CaCO <sub>3</sub> precipitation during quick and hydrated lime dissolution** (2021)
-   15 citations · Ocean CDR
+   15 citations
 
 4. **Effects of grain size and seawater salinity on brucite dissolution and secondary calcium carbonate precipitation kinetics: implications for Ocean Alkalinity Enhancement** (2023)
-   13 citations · General CDR
+   13 citations · Ocean CDR
 
 5. **Effects of grain size and seawater salinity on magnesium hydroxide dissolution and secondary calcium carbonate precipitation kinetics: implications for ocean alkalinity enhancement** (2024)
    9 citations · Ocean CDR
@@ -72,13 +72,13 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    4 citations · Ocean CDR
 
 8. **Ocean alkalinity enhancement approaches and the predictability of runaway precipitation processes – Results of an experimental study to determine critical alkalinity ranges for safe and sustainable application scenarios** (2023)
-   3 citations · Ocean CDR
+   3 citations
 
 9. **Stability of alkalinity in the land-ocean transition zone: a geochemical CDR perspective for the Elbe River, Germany** (2025)
    2 citations · Enhanced Weathering
 
 10. **Surface area and Ω-aragonite oversaturation as controls of the runaway precipitation process in ocean alkalinity enhancement** (2025)
-   2 citations · General CDR
+   2 citations · Ocean CDR
 
 ## External Profiles
 

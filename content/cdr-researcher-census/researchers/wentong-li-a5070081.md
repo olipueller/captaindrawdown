@@ -1,7 +1,7 @@
 ---
 title: "Wentong Li"
 description: "Wentong Li is an Early-career Soil Carbon researcher at Minzu University of China in CN. With 17 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.904272
+date: 2026-03-23T11:47:00.866631
 url: "/cdr-researcher-census/researchers/wentong-li-a5070081/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 167 |
 | Publications | 17 |
-| CDR Focus | 11.8% |
+| CDR Focus | 590.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    2 citations · Soil Carbon
 
 2. **Agricultural Activities Increased Soil Organic Carbon in Shiyang River Basin, a typical inland river basin in China** (2024)
-   1 citations · Soil Carbon
+   1 citations
 
 ## External Profiles
 

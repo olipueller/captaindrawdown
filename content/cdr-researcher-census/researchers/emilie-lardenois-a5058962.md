@@ -1,7 +1,7 @@
 ---
 title: "Émilie Lardenois"
-description: "Émilie Lardenois is a Mid-career General CDR researcher at Université de Lorraine in FR. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.071696
+description: "Émilie Lardenois is a Mid-career carbon dioxide removal researcher at Université de Lorraine in FR. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.067077
 url: "/cdr-researcher-census/researchers/emilie-lardenois-a5058962/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Université de Lorraine · 🇫🇷 FR
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,16 +36,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 6 |
 | Citations | 138 |
 | Publications | 18 |
-| CDR Focus | 11.1% |
+| CDR Focus | 560.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **IMPACT OF DIFFERENT VENTILATION STRATEGIES ON GAS EXCHANGES AND CIRCULATION DURING PROLONGED MECHANICAL CARDIO-PULMONARY RESUSCITATION IN A PORCINE MODEL** (2021)
-   6 citations · General CDR
+   6 citations
 
 2. **Impact of Different Ventilation Strategies on Gas Exchanges and Circulation During Prolonged Mechanical Cardio-Pulmonary Resuscitation in a Porcine Model** (2021)
-   1 citations · General CDR
+   1 citations
 
 ## External Profiles
 

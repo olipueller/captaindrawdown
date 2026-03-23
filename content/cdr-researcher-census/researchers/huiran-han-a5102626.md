@@ -1,7 +1,7 @@
 ---
 title: "Huiran Han"
-description: "Huiran Han is a Senior Soil Carbon researcher at Anhui Normal University in CN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.417232
+description: "Huiran Han is a Senior General CDR researcher at Anhui Normal University in CN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.163808
 url: "/cdr-researcher-census/researchers/huiran-han-a5102626/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Anhui Normal University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 327 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Ecosystem service supply-demand coupling for multifunctional agroforestry landscape planning: A case study of Yunnan, China** (2026)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

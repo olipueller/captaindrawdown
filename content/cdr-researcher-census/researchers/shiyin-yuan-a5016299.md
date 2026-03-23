@@ -1,7 +1,7 @@
 ---
 title: "Shiyin Yuan"
-description: "Shiyin Yuan is an Early-career Biochar researcher at State Key Laboratory of Pollution Control and Resource Reuse in CN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.792848
+description: "Shiyin Yuan is an Early-career carbon dioxide removal researcher at State Key Laboratory of Pollution Control and Resource Reuse in CN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.700480
 url: "/cdr-researcher-census/researchers/shiyin-yuan-a5016299/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ State Key Laboratory of Pollution Control and Resource Reuse · 🇨🇳 CN
 
 **Career Stage:** Early-career
 
-## CDR Specialization
-
-**Biochar**
-
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 4 |
 | Citations | 190 |
 | Publications | 6 |
-| CDR Focus | 16.7% |
+| CDR Focus | 1670.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Recent Advances in Carbon-Based Materials for Adsorptive and Photocatalytic Antibiotic Removal** (2022)
-   48 citations · Biochar
+   48 citations
 
 ## External Profiles
 

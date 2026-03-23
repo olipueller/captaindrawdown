@@ -1,7 +1,7 @@
 ---
 title: "Eric Slessarev"
-description: "Eric Slessarev is a Mid-career General CDR researcher at Yale University in US. With 69 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.920231
+description: "Eric Slessarev is a Mid-career Soil Carbon researcher at Yale University in US. With 69 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.220553
 url: "/cdr-researcher-census/researchers/eric-slessarev-a5048601/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Yale University · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**Soil Carbon**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 17 |
 | Citations | 2,539 |
 | Publications | 69 |
-| CDR Focus | 20.3% |
+| CDR Focus | 1590.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -66,7 +66,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    5 citations · Enhanced Weathering
 
 6. **Reduced accrual of mineral-associated organic matter after two years of enhanced rock weathering in cropland soils, though no net losses of soil organic carbon** (2024)
-   4 citations · Enhanced Weathering
+   4 citations
 
 7. **Microbially-enhanced silicate weathering in agricultural soils to remove carbon dioxide** (2024)
    2 citations · Enhanced Weathering
@@ -75,7 +75,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    1 citations · DAC
 
 9. **Microbially-enhanced silicate weathering in agricultural soils to remove carbon dioxide** (2024)
-   1 citations · Enhanced Weathering
+   1 citations
 
 10. **Microbial growth kinetics under deeply- vs. shallow-rooted plants with soil depth profiles** (2023)
    1 citations · Soil Carbon

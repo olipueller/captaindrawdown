@@ -1,7 +1,7 @@
 ---
 title: "Xiang Zheng"
 description: "Xiang Zheng is a Senior Soil Carbon researcher at Nanjing Forestry University in CN. With 26 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.514754
+date: 2026-03-23T11:47:00.328457
 url: "/cdr-researcher-census/researchers/xiang-zheng-a5006593/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 10 |
 | Citations | 277 |
 | Publications | 26 |
-| CDR Focus | 11.5% |
+| CDR Focus | 1150.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Soil N2O emissions increased by litter removal but decreased by phosphorus additions** (2021)
-   12 citations · General CDR
+   12 citations · Soil Carbon
 
 2. **Effects of co-applied biochar and plant growth-promoting bacteria on soil carbon mineralization and nutrient availability under two nitrogen addition rates** (2023)
    11 citations · Biochar

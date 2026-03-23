@@ -1,7 +1,7 @@
 ---
 title: "Arij Yusof"
-description: "Arij Yusof is a Senior General CDR researcher at National University of Malaysia in MY. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.376157
+description: "Arij Yusof is a Senior carbon dioxide removal researcher at National University of Malaysia in MY. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.396576
 url: "/cdr-researcher-census/researchers/arij-yusof-a5088854/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ National University of Malaysia · 🇲🇾 MY
 
 **Career Stage:** Senior
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 3 |
 | Citations | 104 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Kinetics evaluation of a pilot scale anaerobic biofilm digester treating leachate from a municipal solid waste transfer station** (2022)
-   7 citations · General CDR
+   7 citations
 
 ## External Profiles
 

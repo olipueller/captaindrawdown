@@ -1,7 +1,7 @@
 ---
 title: "Robert de Kler"
 description: "Robert de Kler is a Mid-career General CDR researcher at Netherlands Organisation for Applied Scientific Research in NL. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.070557
+date: 2026-03-23T11:47:01.066449
 url: "/cdr-researcher-census/researchers/robert-de-kler-a5060800/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,13 +42,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 3 |
 | Citations | 138 |
 | Publications | 6 |
-| CDR Focus | 16.7% |
+| CDR Focus | 1670.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Moving toward the low-carbon hydrogen economy: Experiences and key learnings from national case studies** (2022)
-   76 citations · DAC
+   76 citations · General CDR
 
 ## External Profiles
 

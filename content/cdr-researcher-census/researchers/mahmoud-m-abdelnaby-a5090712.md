@@ -1,7 +1,7 @@
 ---
 title: "Mahmoud M. Abdelnaby"
-description: "Mahmoud M. Abdelnaby is a Mid-career DAC researcher at King Fahd University of Petroleum and Minerals (KFUPM) in SA. With 60 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.032374
+description: "Mahmoud M. Abdelnaby is a Mid-career General CDR researcher at King Fahd University of Petroleum and Minerals (KFUPM) in SA. With 60 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.476873
 url: "/cdr-researcher-census/researchers/mahmoud-m-abdelnaby-a5090712/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ King Fahd University of Petroleum and Minerals (KFUPM) · 🇸🇦 SA
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,22 +45,22 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 19 |
 | Citations | 975 |
 | Publications | 60 |
-| CDR Focus | 13.3% |
+| CDR Focus | 830.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Azo-Linked Porous Organic Polymers for Selective Carbon Dioxide Capture and Metal Ion Removal** (2022)
-   36 citations · General CDR
+   36 citations
 
 2. **Post-synthetic modification of UiO-66 analogue metal-organic framework as potential solid sorbent for direct air capture** (2023)
-   35 citations · DAC
+   35 citations
 
 3. **Structural design of covalent organic frameworks and their recent advancements in carbon capture applications: A review** (2025)
-   9 citations · DAC
+   9 citations
 
 4. **Potential of Integrating Solar Energy into Systems of Thermal Power Generation, Cooling-Refrigeration, Hydrogen Production, and Carbon Capture** (2023)
-   6 citations · DAC
+   6 citations
 
 5. **New carbazole-based conjugated frameworks for carbon dioxide capture and water purification: Insights on the adsorptive sites' chemistry** (2022)
    4 citations · General CDR
@@ -69,7 +69,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    2 citations · DAC
 
 7. **Robust Amine-Grafted Porous Organic Polymer for Highly Selective Carbon Dioxide Capture from Air** (2025)
-   2 citations · DAC
+   2 citations
 
 8. **Optimal Design of a <scp>PV</scp>/Hydrogen‐Based Storage System to Supply Heat and Power to a Direct Air Carbon Capture System** (2025)
    2 citations · DAC

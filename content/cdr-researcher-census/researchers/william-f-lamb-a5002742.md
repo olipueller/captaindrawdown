@@ -1,7 +1,7 @@
 ---
 title: "William F. Lamb"
 description: "William F. Lamb is an Eminent General CDR researcher at University of Leeds in GB. With 128 publications and an h-index of 41, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.867849
+date: 2026-03-23T11:46:59.090896
 url: "/cdr-researcher-census/researchers/william-f-lamb-a5002742/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 41 |
 | Citations | 11,861 |
 | Publications | 128 |
-| CDR Focus | 13.3% |
+| CDR Focus | 1020.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **The carbon dioxide removal gap** (2024)
-   70 citations · BECCS
+   70 citations
 
 2. **Near-term deployment of novel carbon removal to facilitate longer-term deployment** (2023)
    41 citations · General CDR
@@ -60,19 +60,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    31 citations · General CDR
 
 4. **Evaluating the near- and long-term role of carbon dioxide removal in meeting global climate objectives** (2024)
-   27 citations · DAC
+   27 citations · General CDR
 
 5. **The size and composition of residual emissions in integrated assessment scenarios at net-zero CO <sub>2</sub>** (2024)
    13 citations · General CDR
 
 6. **The carbon dioxide removal gap** (2023)
-   8 citations · BECCS
+   8 citations · General CDR
 
 7. **Scientific literature on carbon dioxide removal much larger than previously suggested: insights from an AI-enhanced systematic map** (2024)
-   7 citations · Biochar
+   7 citations · General CDR
 
 8. **Scientific literature on carbon dioxide removal revealed as much larger through AI-enhanced systematic mapping** (2025)
-   6 citations · Biochar
+   6 citations · General CDR
 
 9. **Carbon dioxide removal deployment consistent with global climate objectives** (2024)
    6 citations · General CDR

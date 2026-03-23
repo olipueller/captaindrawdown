@@ -1,7 +1,7 @@
 ---
 title: "Olabiyi Obayomi"
-description: "Olabiyi Obayomi is a Mid-career Biochar researcher at STAR Council in US. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.503522
+description: "Olabiyi Obayomi is a Mid-career Soil Carbon researcher at STAR Council in US. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.311396
 url: "/cdr-researcher-census/researchers/olabiyi-obayomi-a5063075/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ STAR Council · 🇺🇸 US
 
 ## CDR Specialization
 
-**Biochar**
+**Soil Carbon**
 
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 7 |
 | Citations | 282 |
 | Publications | 18 |
-| CDR Focus | 16.7% |
+| CDR Focus | 1670.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Aayzaz Ahmed"
-description: "Aayzaz Ahmed is a Mid-career Soil Carbon researcher at Karachi Medical and Dental College in PK. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.364501
+description: "Aayzaz Ahmed is a Mid-career Enhanced Weathering researcher at Karachi Medical and Dental College in PK. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.381378
 url: "/cdr-researcher-census/researchers/aayzaz-ahmed-a5112733/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Karachi Medical and Dental College · 🇵🇰 PK
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Enhanced Weathering**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 3 |
 | Citations | 106 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Critical review of methods, mechanisms, and feedstocks in mineral carbonation for enhanced carbon neutrality: From waste to climate solution** (2025)
-   6 citations · Soil Carbon
+   6 citations · Enhanced Weathering
 
 ## External Profiles
 

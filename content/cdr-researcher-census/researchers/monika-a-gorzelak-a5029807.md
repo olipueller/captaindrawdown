@@ -1,7 +1,7 @@
 ---
 title: "Monika A. Gorzelak"
 description: "Monika A. Gorzelak is a Senior Soil Carbon researcher at Lethbridge Research and Development Centre in CA. With 36 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.004462
+date: 2026-03-23T11:46:59.420511
 url: "/cdr-researcher-census/researchers/monika-a-gorzelak-a5029807/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 14 |
 | Citations | 1,154 |
 | Publications | 36 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    45 citations · Soil Carbon
 
 2. **Arbuscular mycorrhizal fungi community linkages to soil nutrient availability across contrasting agroecosystems** (2022)
-   26 citations · Soil Carbon
+   26 citations
 
 3. **Carbohydrate flow through agricultural ecosystems: Implications for synthesis and microbial conversion of carbohydrates** (2023)
    20 citations · Soil Carbon

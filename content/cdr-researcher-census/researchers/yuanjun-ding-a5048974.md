@@ -1,7 +1,7 @@
 ---
 title: "Yuanjun Ding"
-description: "Yuanjun Ding is a Mid-career Biochar researcher at Nanjing Agricultural University in CN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.957672
+description: "Yuanjun Ding is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.933317
 url: "/cdr-researcher-census/researchers/yuanjun-ding-a5048974/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Nanjing Agricultural University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Biochar**
+**Soil Carbon**
 
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
 
 ## Metrics
 
@@ -42,7 +42,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 6 |
 | Citations | 156 |
 | Publications | 18 |
-| CDR Focus | 16.7% |
+| CDR Focus | 1670.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    8 citations · Biochar
 
 3. **Changes in Aggregate C Pools and Chemical Composition of Topsoil Organic Matter Following Crop Residue Amendment in Different Forms in a Paddy** (2023)
-   0 citations · Biochar
+   0 citations · Soil Carbon
 
 ## External Profiles
 

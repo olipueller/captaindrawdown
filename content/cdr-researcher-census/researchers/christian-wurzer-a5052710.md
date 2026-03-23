@@ -1,7 +1,7 @@
 ---
 title: "Christian Wurzer"
 description: "Christian Wurzer is a Mid-career Biochar researcher at University Of Edinburgh in GB. With 32 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.116370
+date: 2026-03-23T11:46:59.643368
 url: "/cdr-researcher-census/researchers/christian-wurzer-a5052710/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 14 |
 | Citations | 677 |
 | Publications | 32 |
-| CDR Focus | 15.6% |
+| CDR Focus | 1250.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -60,7 +60,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    56 citations · Biochar
 
 4. **Hydrothermal recycling of carbon absorbents loaded with emerging wastewater contaminants** (2022)
-   14 citations · Biochar
+   14 citations
 
 5. **Biochar derived from the invasive aquatic plant Myriophyllum spicatum: Characterization via SEM–EDX and application in lead removal** (2025)
    0 citations · Biochar

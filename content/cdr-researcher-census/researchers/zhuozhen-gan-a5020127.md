@@ -1,7 +1,7 @@
 ---
 title: "Zhuozhen Gan"
 description: "Zhuozhen Gan is a Mid-career DAC researcher at Shanghai Jiao Tong University in CN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.238837
+date: 2026-03-23T11:46:59.865115
 url: "/cdr-researcher-census/researchers/zhuozhen-gan-a5020127/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,40 +45,40 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 5 |
 | Citations | 477 |
 | Publications | 10 |
-| CDR Focus | 100.0% |
+| CDR Focus | 8000.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Recent advances in direct air capture by adsorption** (2022)
-   387 citations · DAC
+   387 citations
 
 2. **Facile synthesis of structured adsorbent with enhanced hydrophobicity and low energy consumption for CO2 capture from the air** (2023)
-   34 citations · DAC
+   34 citations
 
 3. **3D printing of poly(ethyleneimine)-functionalized Mg-Al mixed metal oxide monoliths for direct air capture of CO2** (2024)
-   20 citations · DAC
+   20 citations
 
 4. **A direct air capture rotary adsorber for CO2 enrichment in greenhouses** (2024)
-   13 citations · DAC
+   13 citations
 
 5. **Scalable Synthesis of Amine-Grafted Ultrafine Layered Double Hydroxide Nanosheets with Improved Carbon Dioxide Capture Capacity from Air** (2023)
-   12 citations · DAC
+   12 citations
 
 6. **Single-component and binary H2O and CO2 co-adsorption isotherm model on amine-functionalised Mg-Al mixed metal oxides** (2024)
-   5 citations · DAC
+   5 citations
 
 7. **Integrated power to methanol processes with steam-assisted direct air capture** (2025)
    4 citations · DAC
 
 8. **Multi-dimensional process optimization of temperature-vacuum swing adsorption for CO2 capture from humid air** (2025)
-   2 citations · DAC
+   2 citations
 
 9. **Integrated Power to Methanol Processes with Steam-Assisted Direct Air Capture** (2024)
    0 citations · DAC
 
 10. **A Rotary Direct Air Capture Adsorber with Ultrahigh Productivity for Efficient CO&lt;sub&gt;2&lt;/sub&gt; Enrichment in Greenhouse** (2023)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Hongyan Nan"
 description: "Hongyan Nan is a Senior Biochar researcher at Zhengzhou University in CN. With 44 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.942264
+date: 2026-03-23T11:46:59.278892
 url: "/cdr-researcher-census/researchers/hongyan-nan-a5103067/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 18 |
 | Citations | 1,887 |
 | Publications | 44 |
-| CDR Focus | 18.2% |
+| CDR Focus | 680.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -63,7 +63,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    12 citations · Biochar
 
 5. **New Insights into the Enhancement Effect of Exogenous Calcium on Biochar Stability during Its Aging in Farmland Soil** (2023)
-   3 citations · Biochar
+   3 citations
 
 6. **New Insights into the Enhancement Effect of Exogenous Calcium on Biochar Stability during Its Aging in Farmland Soil** (2023)
    2 citations · Biochar
@@ -72,7 +72,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    2 citations · Biochar
 
 8. **Study of particle deposition of supercritical carbon dioxide in narrow rectangular heat exchange channel** (2025)
-   0 citations · General CDR
+   0 citations
 
 ## External Profiles
 

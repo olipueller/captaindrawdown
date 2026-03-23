@@ -1,7 +1,7 @@
 ---
 title: "Pornphimol Winyuchakrit"
-description: "Pornphimol Winyuchakrit is a Mid-career BECCS researcher at Sustainable Energy and Built Environment, Thammasat University in TH. With 30 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.298075
+description: "Pornphimol Winyuchakrit is a Mid-career General CDR researcher at Sustainable Energy and Built Environment, Thammasat University in TH. With 30 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.970798
 url: "/cdr-researcher-census/researchers/pornphimol-winyuchakrit-a5031396/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Sustainable Energy and Built Environment, Thammasat University · 🇹🇭 TH
 
 ## CDR Specialization
 
-**BECCS**
+**General CDR**
 
-Combining biomass energy with carbon capture and storage to achieve negative emissions.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,16 +45,16 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 12 |
 | Citations | 412 |
 | Publications | 30 |
-| CDR Focus | 10.0% |
+| CDR Focus | 670.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Thailand’s net-zero emissions by 2050: analysis of economy-wide impacts** (2023)
-   36 citations · BECCS
+   36 citations · General CDR
 
 2. **A Multicriteria Decision Analysis to Selection of Low-carbon Emitting Technologies under Joint Crediting Mechanism for Thailand's Carbon Neutrality 2050** (2024)
-   1 citations · BECCS
+   1 citations · General CDR
 
 3. **Role of Discount Rate and Social Cost of Carbon for Carbon Capture Utilization and Storage Technologies in Thailand’s Low Emissions Pathways** (2025)
    0 citations · BECCS

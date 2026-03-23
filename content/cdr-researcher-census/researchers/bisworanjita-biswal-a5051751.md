@@ -1,7 +1,7 @@
 ---
 title: "Bisworanjita Biswal"
-description: "Bisworanjita Biswal is a Mid-career Soil Carbon researcher at National Dairy Research Institute in IN. With 26 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.824829
+description: "Bisworanjita Biswal is a Mid-career General CDR researcher at National Dairy Research Institute in IN. With 26 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.762076
 url: "/cdr-researcher-census/researchers/bisworanjita-biswal-a5051751/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ National Dairy Research Institute · 🇮🇳 IN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,19 +45,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 183 |
 | Publications | 26 |
-| CDR Focus | 11.5% |
+| CDR Focus | 1150.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Carbon Sequestration Potential in Agricultural Systems** (2022)
-   8 citations · Soil Carbon
+   8 citations · General CDR
 
 2. **Evidence-Based Agroforestry Systems as Climate-Resilient Farming Practices for Improving Livelihood and Sustainability in India** (2024)
-   1 citations · Soil Carbon
+   1 citations · General CDR
 
 3. **Re-Carbonation of Terrestrial Production Landscapes Through Regenerative Agriculture** (2024)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

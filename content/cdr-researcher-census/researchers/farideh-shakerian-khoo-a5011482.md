@@ -1,7 +1,7 @@
 ---
 title: "Farideh Shakerian Khoo"
-description: "Farideh Shakerian Khoo is a Mid-career Biochar researcher at Islamic Azad University of Shiraz in IR. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.842610
+description: "Farideh Shakerian Khoo is a Mid-career carbon dioxide removal researcher at Islamic Azad University of Shiraz in IR. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.786044
 url: "/cdr-researcher-census/researchers/farideh-shakerian-khoo-a5011482/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Islamic Azad University of Shiraz ·  IR
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Biochar**
-
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 3 |
 | Citations | 179 |
 | Publications | 3 |
-| CDR Focus | 33.3% |
+| CDR Focus | 3330.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Nanomagnetic carbon-based adsorbents for intensifying dye uptake from wastewater (a review study)** (2024)
-   11 citations · Biochar
+   11 citations
 
 ## External Profiles
 

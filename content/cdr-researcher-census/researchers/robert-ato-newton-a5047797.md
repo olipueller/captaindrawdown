@@ -1,7 +1,7 @@
 ---
 title: "Robert Ato Newton"
 description: "Robert Ato Newton is a Mid-career Biochar researcher at Jan Evangelista Purkyně University in Ústí nad Labem in CZ. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.250678
+date: 2026-03-23T11:47:01.259736
 url: "/cdr-researcher-census/researchers/robert-ato-newton-a5047797/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 6 |
 | Citations | 117 |
 | Publications | 15 |
-| CDR Focus | 13.3% |
+| CDR Focus | 1330.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **State of Brownfields in the Northern Bohemia, Saxony and Lower Silesian Regions and Prospects for Regeneration by Utilization of the Phytotechnology with the Second Generation Crops** (2023)
-   7 citations · Biochar
+   7 citations
 
 2. **Field scale evaluation of the influence of organic amendments on Miscanthus × giganteus biomass production and soil bioindicators in the marginal degraded land** (2025)
    2 citations · Biochar

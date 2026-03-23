@@ -1,7 +1,7 @@
 ---
 title: "Pei-Hao Li"
-description: "Pei-Hao Li is a Mid-career BECCS researcher at Energy Institute in GB. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.109095
+description: "Pei-Hao Li is a Mid-career General CDR researcher at Energy Institute in GB. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.109876
 url: "/cdr-researcher-census/researchers/pei-hao-li-a5012042/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Energy Institute · 🇬🇧 GB
 
 ## CDR Specialization
 
-**BECCS**
+**General CDR**
 
-Combining biomass energy with carbon capture and storage to achieve negative emissions.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 6 |
 | Citations | 133 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Revealing technological entanglements in uncertain decarbonisation pathways using bayesian networks** (2024)
-   11 citations · BECCS
+   11 citations · General CDR
 
 ## External Profiles
 

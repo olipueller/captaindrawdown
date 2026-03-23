@@ -1,7 +1,7 @@
 ---
 title: "Miori Kataoka"
-description: "Miori Kataoka is an Early-career DAC researcher at Tokyo Metropolitan University in JP. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.974369
+description: "Miori Kataoka is an Early-career carbon dioxide removal researcher at Tokyo Metropolitan University in JP. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.952496
 url: "/cdr-researcher-census/researchers/miori-kataoka-a5011168/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Tokyo Metropolitan University · 🇯🇵 JP
 
 **Career Stage:** Early-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 3 |
 | Citations | 153 |
 | Publications | 5 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Development of Amino-Functionalized Silica by Co-condensation and Alkylation for Direct Air Capture** (2024)
-   5 citations · DAC
+   5 citations
 
 ## External Profiles
 

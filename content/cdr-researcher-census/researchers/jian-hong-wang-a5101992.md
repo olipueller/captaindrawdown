@@ -1,7 +1,7 @@
 ---
 title: "Jian-Hong Wang"
-description: "Jian-Hong Wang is a Senior General CDR researcher at Xi’an Children’s Hospital in CN. With 10 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.866726
+description: "Jian-Hong Wang is a Senior carbon dioxide removal researcher at Xi’an Children’s Hospital in CN. With 10 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.813698
 url: "/cdr-researcher-census/researchers/jian-hong-wang-a5101992/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Xi’an Children’s Hospital · 🇨🇳 CN
 
 **Career Stage:** Senior
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 3 |
 | Citations | 174 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Cfd Modeling on the Chemical Absorption of Co2 with the Mesoscale Mass Transfer Model** (2021)
-   0 citations · General CDR
+   0 citations
 
 ## External Profiles
 

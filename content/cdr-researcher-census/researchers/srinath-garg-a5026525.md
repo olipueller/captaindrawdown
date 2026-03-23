@@ -1,7 +1,7 @@
 ---
 title: "Srinath Garg"
-description: "Srinath Garg is a Senior Ocean CDR researcher at Hydrogenics (Canada) in CA. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.716132
+description: "Srinath Garg is a Senior General CDR researcher at Hydrogenics (Canada) in CA. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.602477
 url: "/cdr-researcher-census/researchers/srinath-garg-a5026525/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Hydrogenics (Canada) · 🇨🇦 CA
 
 ## CDR Specialization
 
-**Ocean CDR**
+**General CDR**
 
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,16 +42,16 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 5 |
 | Citations | 210 |
 | Publications | 7 |
-| CDR Focus | 28.6% |
+| CDR Focus | 1430.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Integrating Carbon Capture in Mining Through Metallurgy. Part 1: Leaching and Reclamation of Asbestos Tailings: Thetford Mines Carbon Capture and Remediation Project** (2023)
-   1 citations · DAC
+   1 citations · General CDR
 
 2. **Integrating Carbon Capture in Mining Through Metallurgy. Part 2: Integration into the Piaui Nickel–Cobalt Laterite Operations** (2023)
-   0 citations · DAC
+   0 citations · General CDR
 
 ## External Profiles
 

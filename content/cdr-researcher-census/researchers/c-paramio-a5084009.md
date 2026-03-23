@@ -1,7 +1,7 @@
 ---
 title: "C. Paramio"
-description: "C. Paramio is an Early-career General CDR researcher at Universidad Autónoma de Madrid in ES. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.115979
+description: "C. Paramio is an Early-career carbon dioxide removal researcher at Universidad Autónoma de Madrid in ES. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.117226
 url: "/cdr-researcher-census/researchers/c-paramio-a5084009/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Universidad Autónoma de Madrid · 🇪🇸 ES
 
 **Career Stage:** Early-career
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 4 |
 | Citations | 132 |
 | Publications | 4 |
-| CDR Focus | 25.0% |
+| CDR Focus | 2500.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Aspen plus supported design of pre-combustion CO2 capture processes based on ionic liquids** (2022)
-   60 citations · General CDR
+   60 citations
 
 ## External Profiles
 

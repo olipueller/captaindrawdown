@@ -1,7 +1,7 @@
 ---
 title: "Zhangheng Ren"
 description: "Zhangheng Ren is a Mid-career Soil Carbon researcher at Northwest A&F University in CN. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.825466
+date: 2026-03-23T11:47:00.762767
 url: "/cdr-researcher-census/researchers/zhangheng-ren-a5037752/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 183 |
 | Publications | 6 |
-| CDR Focus | 16.7% |
+| CDR Focus | 1670.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

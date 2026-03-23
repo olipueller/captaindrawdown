@@ -1,7 +1,7 @@
 ---
 title: "Hellen F. V. Cunha"
-description: "Hellen F. V. Cunha is a Mid-career Soil Carbon researcher at Instituto Nacional de Pesquisas da Amazônia in BR. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.271711
+description: "Hellen F. V. Cunha is a Mid-career carbon dioxide removal researcher at Instituto Nacional de Pesquisas da Amazônia in BR. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.931740
 url: "/cdr-researcher-census/researchers/hellen-f-v-cunha-a5086777/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Instituto Nacional de Pesquisas da Amazônia · 🇧🇷 BR
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 434 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Direct evidence for phosphorus limitation on Amazon forest productivity** (2022)
-   211 citations · Soil Carbon
+   211 citations
 
 ## External Profiles
 

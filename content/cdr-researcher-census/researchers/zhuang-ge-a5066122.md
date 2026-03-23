@@ -1,7 +1,7 @@
 ---
 title: "Zhuang Ge"
 description: "Zhuang Ge is a Mid-career Soil Carbon researcher at Shenyang Agricultural University in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.328510
+date: 2026-03-23T11:47:00.015780
 url: "/cdr-researcher-census/researchers/zhuang-ge-a5066122/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 391 |
 | Publications | 11 |
-| CDR Focus | 27.3% |
+| CDR Focus | 2730.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

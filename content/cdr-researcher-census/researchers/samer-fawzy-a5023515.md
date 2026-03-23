@@ -1,7 +1,7 @@
 ---
 title: "Samer Fawzy"
-description: "Samer Fawzy is a Mid-career Biochar researcher at Queen's University Belfast in GB. With 26 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.882229
+description: "Samer Fawzy is a Mid-career General CDR researcher at Queen's University Belfast in GB. With 26 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.123834
 url: "/cdr-researcher-census/researchers/samer-fawzy-a5023515/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Queen's University Belfast · 🇬🇧 GB
 
 ## CDR Specialization
 
-**Biochar**
+**General CDR**
 
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 16 |
 | Citations | 5,744 |
 | Publications | 26 |
-| CDR Focus | 23.1% |
+| CDR Focus | 2310.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

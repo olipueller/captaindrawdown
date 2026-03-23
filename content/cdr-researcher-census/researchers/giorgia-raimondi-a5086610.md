@@ -1,7 +1,7 @@
 ---
 title: "Giorgia Raimondi"
 description: "Giorgia Raimondi is a Mid-career Soil Carbon researcher at University of Padua in IT. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.000539
+date: 2026-03-23T11:47:00.989627
 url: "/cdr-researcher-census/researchers/giorgia-raimondi-a5086610/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 150 |
 | Publications | 15 |
-| CDR Focus | 13.3% |
+| CDR Focus | 1330.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    3 citations · Soil Carbon
 
 2. **Short-term soil carbon accumulation following sustainable practices: A Life Cycle Assessment and carbon credit analysis** (2025)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

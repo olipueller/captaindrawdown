@@ -1,7 +1,7 @@
 ---
 title: "Pedro Rochedo"
 description: "Pedro Rochedo is a Senior General CDR researcher at Khalifa University of Science and Technology in AE. With 124 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.898445
+date: 2026-03-23T11:46:59.166603
 url: "/cdr-researcher-census/researchers/pedro-rochedo-a5013873/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 32 |
 | Citations | 3,580 |
 | Publications | 124 |
-| CDR Focus | 16.9% |
+| CDR Focus | 810.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,19 +54,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    64 citations · General CDR
 
 2. **Long-term deep decarbonisation pathways for Ecuador: Insights from an integrated assessment model** (2021)
-   47 citations · BECCS
+   47 citations · General CDR
 
 3. **Nature‐based solutions are critical for putting Brazil on track towards net‐zero emissions by 2050** (2023)
-   27 citations · BECCS
+   27 citations · General CDR
 
 4. **Calcium looping post-combustion CO2 capture in sugarcane bagasse fuelled power plants** (2021)
-   23 citations · BECCS
+   23 citations · General CDR
 
 5. **Are there synergies in the decarbonization of aviation and shipping? An integrated perspective for the case of Brazil** (2022)
    19 citations · General CDR
 
 6. **Stranded crude oil resources and just transition: Why do crude oil quality, climate ambitions and land-use emissions matter** (2022)
-   17 citations · General CDR
+   17 citations
 
 7. **The role of bioenergy in Brazil's low-carbon future** (2023)
    10 citations · BECCS
@@ -75,10 +75,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    7 citations · BECCS
 
 9. **ENGAGE Global Scenarios** (2021)
-   6 citations · General CDR
+   6 citations
 
 10. **Climate strategies for oil and gas production under the lens of an Integrated Assessment Model: The case of Brazil** (2024)
-   4 citations · BECCS
+   4 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Guanchao Cheng"
 description: "Guanchao Cheng is a Mid-career Soil Carbon researcher at Zhejiang A & F University in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.269741
+date: 2026-03-23T11:47:01.280916
 url: "/cdr-researcher-census/researchers/guanchao-cheng-a5075781/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 115 |
 | Publications | 12 |
-| CDR Focus | 41.7% |
+| CDR Focus | 3330.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

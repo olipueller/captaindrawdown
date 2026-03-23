@@ -1,7 +1,7 @@
 ---
 title: "Ximan Sun"
-description: "Ximan Sun is an Early-career Soil Carbon researcher at East China Normal University in CN. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.075608
+description: "Ximan Sun is an Early-career carbon dioxide removal researcher at East China Normal University in CN. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.072064
 url: "/cdr-researcher-census/researchers/ximan-sun-a5078156/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ East China Normal University · 🇨🇳 CN
 
 **Career Stage:** Early-career
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 138 |
 | Publications | 4 |
-| CDR Focus | 25.0% |
+| CDR Focus | 2500.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Assessment of the effectiveness of China’s protected areas in enhancing ecosystem services** (2023)
-   64 citations · Soil Carbon
+   64 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Yu‐Xin Wei"
 description: "Yu‐Xin Wei is a Mid-career Soil Carbon researcher at China People's Public Security University in CN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.745374
+date: 2026-03-23T11:47:00.639971
 url: "/cdr-researcher-census/researchers/yuxin-wei-a5039230/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 202 |
 | Publications | 12 |
-| CDR Focus | 33.3% |
+| CDR Focus | 3330.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Jerzy Weber"
 description: "Jerzy Weber is a Senior Soil Carbon researcher at Wroclaw University of Environmental and Life Sciences in PL. With 70 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.992820
+date: 2026-03-23T11:46:59.393845
 url: "/cdr-researcher-census/researchers/jerzy-weber-a5082684/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 16 |
 | Citations | 1,248 |
 | Publications | 70 |
-| CDR Focus | 11.4% |
+| CDR Focus | 1000.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -57,16 +57,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    5 citations · Soil Carbon
 
 3. **Molecular characteristics of humin fraction isolated from soils of temperate climate: a study on Chernozems and Phaeozems in Poland** (2023)
-   1 citations · Soil Carbon
+   1 citations
 
 4. **Influence of management practices on soil organic matter composition evaluated by complementary analytical techniques: XANES and mass spectrometry** (2025)
    0 citations · Soil Carbon
 
 5. **Soil management effects on soil organic matter properties and carbon sequestration (SOMPACS)** (2023)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 6. **Soil management effects on soil organic matter properties and carbon sequestration (SOMPACS)** (2023)
-   0 citations · Biochar
+   0 citations
 
 7. **Luminescence properties of the humin fraction isolated from Chernozems and Phaeozems from various regions of Poland&amp;#160;** (2022)
    0 citations · Soil Carbon

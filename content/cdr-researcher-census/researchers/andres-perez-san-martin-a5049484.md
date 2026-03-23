@@ -1,7 +1,7 @@
 ---
 title: "Andrés Pérez-San Martín"
-description: "Andrés Pérez-San Martín is a Mid-career Soil Carbon researcher at Temuco Catholic University in CL. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.415944
+description: "Andrés Pérez-San Martín is a Mid-career General CDR researcher at Temuco Catholic University in CL. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.431240
 url: "/cdr-researcher-census/researchers/andres-perez-san-martin-a5049484/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Temuco Catholic University ·  CL
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 101 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Comparative Study between Silvopastoral and Agroforest Systems on Soil Quality in a Disturbed Native Forest of South-Central Chile** (2023)
-   6 citations · Soil Carbon
+   6 citations · General CDR
 
 ## External Profiles
 

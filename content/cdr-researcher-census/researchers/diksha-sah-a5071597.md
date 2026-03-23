@@ -1,7 +1,7 @@
 ---
 title: "Diksha Sah"
 description: "Diksha Sah is an Early-career Soil Carbon researcher at Guildford College in GB. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.353120
+date: 2026-03-23T11:47:01.368144
 url: "/cdr-researcher-census/researchers/diksha-sah-a5071597/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 107 |
 | Publications | 8 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

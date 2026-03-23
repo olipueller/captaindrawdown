@@ -1,7 +1,7 @@
 ---
 title: "Lucas Desport"
-description: "Lucas Desport is a Mid-career BECCS researcher at Total (France) in FR. With 25 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.828819
+description: "Lucas Desport is a Mid-career General CDR researcher at Total (France) in FR. With 25 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.766200
 url: "/cdr-researcher-census/researchers/lucas-desport-a5014740/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Total (France) · 🇫🇷 FR
 
 ## CDR Specialization
 
-**BECCS**
+**General CDR**
 
-Combining biomass energy with carbon capture and storage to achieve negative emissions.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,22 +42,22 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 5 |
 | Citations | 182 |
 | Publications | 25 |
-| CDR Focus | 24.0% |
+| CDR Focus | 1200.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Deploying direct air capture at scale: How close to reality?** (2023)
-   26 citations · BECCS
+   26 citations · DAC
 
 2. **Feasibility, conditions, and opportunities for achieving net-negative emissions in the global cement industry** (2024)
-   6 citations · BECCS
+   6 citations
 
 3. **Deploying Direct Air Capture at Scale: How Close to Reality?** (2023)
    2 citations · DAC
 
 4. **Feasibility, Conditions, and Opportunities for Achieving Net-Negative Emissions in the Global Cement Industry** (2024)
-   1 citations · BECCS
+   1 citations · General CDR
 
 5. **Exploring the conditions and implications of deploying direct air capture at scale** (2023)
    0 citations · DAC

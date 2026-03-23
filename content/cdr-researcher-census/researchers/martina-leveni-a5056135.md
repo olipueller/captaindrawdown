@@ -1,7 +1,7 @@
 ---
 title: "Martina Leveni"
-description: "Martina Leveni is a Mid-career DAC researcher at The Ohio State University in US. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.833585
+description: "Martina Leveni is a Mid-career General CDR researcher at The Ohio State University in US. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.771892
 url: "/cdr-researcher-census/researchers/martina-leveni-a5056135/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ The Ohio State University · 🇺🇸 US
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,16 +45,16 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 6 |
 | Citations | 181 |
 | Publications | 18 |
-| CDR Focus | 16.7% |
+| CDR Focus | 1670.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **A potential for climate benign direct air CO<sub>2</sub> capture with CO<sub>2</sub>-driven geothermal utilization and storage (DACCUS)** (2023)
-   8 citations · DAC
+   8 citations · General CDR
 
 2. **Climate-Benign Direct Air CO2 Capture, Utilization, and Storage (DACCUS)** (2022)
-   0 citations · BECCS
+   0 citations
 
 3. **Climate-Benign Direct Air CO2 Capture, Utilization, and Storage (DACCUS)&amp;#160;** (2022)
    0 citations · DAC

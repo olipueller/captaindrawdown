@@ -1,7 +1,7 @@
 ---
 title: "Paul Schweng"
-description: "Paul Schweng is a Mid-career DAC researcher at University of Vienna in AT. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.169249
+description: "Paul Schweng is a Mid-career carbon dioxide removal researcher at University of Vienna in AT. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.169692
 url: "/cdr-researcher-census/researchers/paul-schweng-a5048209/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ University of Vienna · 🇦🇹 AT
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,16 +39,16 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 6 |
 | Citations | 126 |
 | Publications | 15 |
-| CDR Focus | 13.3% |
+| CDR Focus | 670.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **A Robust and Low‐Cost Sulfonated Hypercrosslinked Polymer for Atmospheric Water Harvesting** (2023)
-   39 citations · DAC
+   39 citations
 
 2. **Scalable sulfonated activated carbons as high-capacity sorbents for atmospheric water harvesting** (2025)
-   2 citations · DAC
+   2 citations
 
 ## External Profiles
 

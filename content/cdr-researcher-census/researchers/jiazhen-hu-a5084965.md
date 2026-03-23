@@ -1,7 +1,7 @@
 ---
 title: "Jiazhen Hu"
 description: "Jiazhen Hu is a Mid-career Soil Carbon researcher at Hohai University in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.411594
+date: 2026-03-23T11:47:01.427511
 url: "/cdr-researcher-census/researchers/jiazhen-hu-a5084965/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 101 |
 | Publications | 13 |
-| CDR Focus | 15.4% |
+| CDR Focus | 1540.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    5 citations · Soil Carbon
 
 2. **CO2 Fluxes Over Water-Saving Paddy Fields with Different Straw Management Methods on the Basis of the Same Amount of Carbon Input** (2024)
-   0 citations · Biochar
+   0 citations · Soil Carbon
 
 ## External Profiles
 

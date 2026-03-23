@@ -1,7 +1,7 @@
 ---
 title: "P. Poonia"
-description: "P. Poonia is a Senior Soil Carbon researcher at Jai Narain Vyas University in IN. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.956155
+description: "P. Poonia is a Senior Biochar researcher at Jai Narain Vyas University in IN. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.304637
 url: "/cdr-researcher-census/researchers/p-poonia-a5036109/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Jai Narain Vyas University · 🇮🇳 IN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 1,661 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

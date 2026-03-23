@@ -1,7 +1,7 @@
 ---
 title: "Xuehua Deng"
-description: "Xuehua Deng is a Mid-career Soil Carbon researcher at Guizhou Normal University in CN. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.123327
+description: "Xuehua Deng is a Mid-career carbon dioxide removal researcher at Guizhou Normal University in CN. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.123686
 url: "/cdr-researcher-census/researchers/xuehua-deng-a5072902/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Guizhou Normal University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 132 |
 | Publications | 5 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **The impact of multiple driving factors on forest ecosystem services in karst desertification control** (2023)
-   8 citations · Soil Carbon
+   8 citations
 
 ## External Profiles
 

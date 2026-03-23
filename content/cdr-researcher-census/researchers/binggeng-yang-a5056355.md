@@ -1,7 +1,7 @@
 ---
 title: "Binggeng Yang"
 description: "Binggeng Yang is an Early-career Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.150675
+date: 2026-03-23T11:47:01.148898
 url: "/cdr-researcher-census/researchers/binggeng-yang-a5056355/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 129 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

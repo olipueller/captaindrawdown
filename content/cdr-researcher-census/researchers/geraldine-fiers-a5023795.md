@@ -1,7 +1,7 @@
 ---
 title: "Géraldine Fiers"
 description: "Géraldine Fiers is a Mid-career Enhanced Weathering researcher at University College Ghent in BE. With 28 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.334069
+date: 2026-03-23T11:47:01.352920
 url: "/cdr-researcher-census/researchers/geraldine-fiers-a5023795/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 5 |
 | Citations | 108 |
 | Publications | 28 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1070.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    1 citations · Enhanced Weathering
 
 3. **Ocean alkalinity enhancement through enhanced silicate weathering in coastal areas: a long-term mesocosm study** (2023)
-   1 citations · Ocean CDR
+   1 citations · Enhanced Weathering
 
 4. **Monitoring of olivine weathering using 4D X-ray micro-computed tomography** (2024)
    0 citations · Enhanced Weathering

@@ -1,7 +1,7 @@
 ---
 title: "Silvan Aeschlimann"
-description: "Silvan Aeschlimann is an Early-career DAC researcher. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.861588
+description: "Silvan Aeschlimann is an Early-career General CDR researcher. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.808759
 url: "/cdr-researcher-census/researchers/silvan-aeschlimann-a5069235/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,9 +29,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -40,28 +40,28 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 3 |
 | Citations | 175 |
 | Publications | 7 |
-| CDR Focus | 85.7% |
+| CDR Focus | 2860.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **A roadmap for achieving scalable, safe, and low-cost direct air carbon capture and storage** (2023)
-   88 citations · DAC
+   88 citations
 
 2. **Geochemical Negative Emissions Technologies: Part I. Review** (2022)
    58 citations · DAC
 
 3. **Breaking Barriers in Carbon Dioxide Removal with Electrochemistry** (2025)
-   3 citations · DAC
+   3 citations · General CDR
 
 4. **A Roadmap for Achieving Scalable, Safe, and Low-cost Direct Air Carbon Capture and Storage** (2023)
-   3 citations · DAC
+   3 citations
 
 5. **A Roadmap for Achieving Scalable, Safe, and Low-cost Direct Air Carbon Capture and Storage** (2023)
-   3 citations · DAC
+   3 citations
 
 6. **A Roadmap for Achieving Scalable, Safe, and Low-cost Direct Air Carbon Capture and Storage** (2023)
-   1 citations · DAC
+   1 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Nina Zeyen"
 description: "Nina Zeyen is a Mid-career Enhanced Weathering researcher at University of Geneva in CH. With 56 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.151258
+date: 2026-03-23T11:46:59.707514
 url: "/cdr-researcher-census/researchers/nina-zeyen-a5054079/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 15 |
 | Citations | 611 |
 | Publications | 56 |
-| CDR Focus | 16.1% |
+| CDR Focus | 1610.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    43 citations · Enhanced Weathering
 
 3. **Cation Exchange in Smectites as a New Approach to Mineral Carbonation** (2022)
-   28 citations · General CDR
+   28 citations · Enhanced Weathering
 
 4. **Unlocking the potential of hydraulic fracturing flowback and produced water for CO2 removal via mineral carbonation** (2022)
    28 citations · DAC

@@ -1,7 +1,7 @@
 ---
 title: "Matheus Flavio da Silva"
-description: "Matheus Flavio da Silva is a Mid-career Soil Carbon researcher at Universidade Estadual Paulista (Unesp) in BR. With 7 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.986192
+description: "Matheus Flavio da Silva is a Mid-career carbon dioxide removal researcher at Universidade Estadual Paulista (Unesp) in BR. With 7 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.966283
 url: "/cdr-researcher-census/researchers/matheus-flavio-da-silva-a5017769/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Universidade Estadual Paulista (Unesp) · 🇧🇷 BR
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 152 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Contribution of tillage systems and crop succession to soil structuring** (2021)
-   17 citations · Soil Carbon
+   17 citations
 
 ## External Profiles
 

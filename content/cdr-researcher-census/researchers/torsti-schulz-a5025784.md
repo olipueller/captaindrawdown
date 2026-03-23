@@ -1,7 +1,7 @@
 ---
 title: "Torsti Schulz"
 description: "Torsti Schulz is a Mid-career Soil Carbon researcher at University of Helsinki in FI. With 24 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.287330
+date: 2026-03-23T11:46:59.956416
 url: "/cdr-researcher-census/researchers/torsti-schulz-a5025784/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 10 |
 | Citations | 421 |
 | Publications | 24 |
-| CDR Focus | 25.0% |
+| CDR Focus | 830.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -57,16 +57,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    1 citations · BECCS
 
 3. **Modelling the Effects of Forest use Change on Brownification of Finnish Rivers under Atmospheric Pressure** (2024)
-   1 citations · Soil Carbon
+   1 citations
 
 4. **Modelling the effects of forest use change on brownification of Finnish rivers under atmospheric pressure** (2025)
-   0 citations · Soil Carbon
+   0 citations
 
 5. **Regional greenhouse gas net emission intensities by land cover category in Finland** (2023)
    0 citations · Soil Carbon
 
 6. **Regional greenhouse gas net emission intensities by land cover category in Finland** (2023)
-   0 citations · Soil Carbon
+   0 citations
 
 ## External Profiles
 

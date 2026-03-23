@@ -1,7 +1,7 @@
 ---
 title: "Mehnaz Mosharrof"
-description: "Mehnaz Mosharrof is a Mid-career Soil Carbon researcher at Universiti Putra Malaysia in MY. With 10 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.495125
+description: "Mehnaz Mosharrof is a Mid-career Biochar researcher at Universiti Putra Malaysia in MY. With 10 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.297568
 url: "/cdr-researcher-census/researchers/mehnaz-mosharrof-a5032489/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Universiti Putra Malaysia · 🇲🇾 MY
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 10 |
 | Citations | 285 |
 | Publications | 10 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

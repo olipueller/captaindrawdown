@@ -1,7 +1,7 @@
 ---
 title: "Adam Ward"
-description: "Adam Ward is a Senior DAC researcher at Oregon State University in US. With 31 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.895539
+description: "Adam Ward is a Senior General CDR researcher at Oregon State University in US. With 31 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.854876
 url: "/cdr-researcher-census/researchers/adam-ward-a5030507/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Oregon State University · 🇺🇸 US
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 6 |
 | Citations | 168 |
 | Publications | 31 |
-| CDR Focus | 12.9% |
+| CDR Focus | 970.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **The impact of design and operational parameters on the optimal performance of direct air capture units using solid sorbents** (2024)
-   9 citations · DAC
+   9 citations
 
 2. **Geochemical perspectives on measuring, reporting and verifying carbon dioxide removal from the atmosphere.** (2024)
    0 citations · General CDR
@@ -60,7 +60,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    0 citations · DAC
 
 4. **Design and Optimization of a Steam-assisted Adsorption Process for Direct Air Capture** (2024)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

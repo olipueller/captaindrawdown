@@ -1,7 +1,7 @@
 ---
 title: "Bavatharny Thevarajah"
-description: "Bavatharny Thevarajah is a Mid-career General CDR researcher at University of Moratuwa in LK. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.339280
+description: "Bavatharny Thevarajah is a Mid-career BECCS researcher at University of Moratuwa in LK. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.030854
 url: "/cdr-researcher-census/researchers/bavatharny-thevarajah-a5025597/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Moratuwa ·  LK
 
 ## CDR Specialization
 
-**General CDR**
+**BECCS**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 
@@ -45,16 +45,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 9 |
 | Citations | 381 |
 | Publications | 19 |
-| CDR Focus | 10.5% |
+| CDR Focus | 530.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Microalgal biofuels: Challenges and prospective in the framework of circular bioeconomy** (2024)
-   14 citations · Biochar
+   14 citations · BECCS
 
 2. **Harnessing Algae: Advancements in Wastewater Treatment and Resource Recovery** (2024)
-   5 citations · General CDR
+   5 citations
 
 ## External Profiles
 

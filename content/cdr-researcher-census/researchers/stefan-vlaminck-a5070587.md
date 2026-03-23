@@ -1,7 +1,7 @@
 ---
 title: "Stefan Vlaminck"
-description: "Stefan Vlaminck is a Senior General CDR researcher. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.311836
+description: "Stefan Vlaminck is a Senior Enhanced Weathering researcher. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.991895
 url: "/cdr-researcher-census/researchers/stefan-vlaminck-a5070587/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,9 +26,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**General CDR**
+**Enhanced Weathering**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 
@@ -37,16 +37,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 9 |
 | Citations | 402 |
 | Publications | 17 |
-| CDR Focus | 11.8% |
+| CDR Focus | 590.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Machine learning-based identification of key biotic and abiotic drivers of mineral weathering rate in a complex enhanced weathering experiment** (2025)
-   1 citations · Biochar
+   1 citations
 
 2. **Machine learning-based identification of key biotic and abiotic drivers of mineral weathering rate in a complex enhanced weathering experiment** (2025)
-   0 citations · Biochar
+   0 citations · Enhanced Weathering
 
 ## External Profiles
 

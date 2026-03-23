@@ -1,7 +1,7 @@
 ---
 title: "Robert J. Caldwell"
 description: "Robert J. Caldwell is a Senior Enhanced Weathering researcher at Lakes Environmental (Canada) in CA. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.371668
+date: 2026-03-23T11:47:00.089914
 url: "/cdr-researcher-census/researchers/robert-j-caldwell-a5044596/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 8 |
 | Citations | 357 |
 | Publications | 19 |
-| CDR Focus | 10.5% |
+| CDR Focus | 530.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

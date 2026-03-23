@@ -1,7 +1,7 @@
 ---
 title: "Maoyin Sheng"
 description: "Maoyin Sheng is a Senior Soil Carbon researcher at Guizhou Normal University in CN. With 50 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.094967
+date: 2026-03-23T11:46:59.602989
 url: "/cdr-researcher-census/researchers/maoyin-sheng-a5012478/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 14 |
 | Citations | 735 |
 | Publications | 50 |
-| CDR Focus | 18.0% |
+| CDR Focus | 1200.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -63,7 +63,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    5 citations · Soil Carbon
 
 5. **Carbon sequestration law by phytoliths in the bamboo forests: Insights for the management of phytolith carbon sink** (2025)
-   3 citations · Soil Carbon
+   3 citations · General CDR
 
 6. **Effects of forest age and bedrock on soil phytolith-occluded organic carbon accumulation of large-diameter bamboo forests in southwest China** (2024)
    3 citations · Soil Carbon

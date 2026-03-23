@@ -1,7 +1,7 @@
 ---
 title: "Orlando Palone"
-description: "Orlando Palone is a Mid-career DAC researcher at Sapienza University of Rome in IT. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.817125
+description: "Orlando Palone is a Mid-career General CDR researcher at Sapienza University of Rome in IT. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.752476
 url: "/cdr-researcher-census/researchers/orlando-palone-a5015387/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Sapienza University of Rome · 🇮🇹 IT
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,16 +45,16 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 9 |
 | Citations | 184 |
 | Publications | 19 |
-| CDR Focus | 10.5% |
+| CDR Focus | 1050.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Techno-economic analysis of sustainable methanol and ammonia production by chemical looping hydrogen generation from waste plastic** (2023)
-   43 citations · DAC
+   43 citations
 
 2. **Methanol Production by a Chemical Looping Cycle Using Blast Furnace Gases** (2022)
-   1 citations · DAC
+   1 citations · General CDR
 
 ## External Profiles
 

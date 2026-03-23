@@ -1,7 +1,7 @@
 ---
 title: "Qiulian Lin"
-description: "Qiulian Lin is a Mid-career Soil Carbon researcher at Xiamen University in CN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.253664
+description: "Qiulian Lin is a Mid-career General CDR researcher at Xiamen University in CN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.263262
 url: "/cdr-researcher-census/researchers/qiulian-lin-a5024895/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Xiamen University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,16 +45,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 117 |
 | Publications | 10 |
-| CDR Focus | 20.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Changes in Mangrove Blue Carbon under Elevated Atmospheric CO <sub>2</sub>** (2023)
-   7 citations · Soil Carbon
+   7 citations · General CDR
 
 2. **Enhancing Carbon Storage in Mangrove Ecosystems of China through Sustainable Restoration and Aquaculture Actions** (2021)
-   7 citations · Soil Carbon
+   7 citations · General CDR
 
 ## External Profiles
 

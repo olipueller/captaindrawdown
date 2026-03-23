@@ -1,7 +1,7 @@
 ---
 title: "Youlin Luo"
 description: "Youlin Luo is a Mid-career Soil Carbon researcher at Sichuan Agricultural University in CN. With 42 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.141540
+date: 2026-03-23T11:46:59.684893
 url: "/cdr-researcher-census/researchers/youlin-luo-a5064855/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 13 |
 | Citations | 631 |
 | Publications | 42 |
-| CDR Focus | 11.9% |
+| CDR Focus | 950.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications

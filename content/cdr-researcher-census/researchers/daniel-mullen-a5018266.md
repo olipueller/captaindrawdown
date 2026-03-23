@@ -1,7 +1,7 @@
 ---
 title: "Daniel Mullen"
-description: "Daniel Mullen is a Mid-career DAC researcher. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.101643
+description: "Daniel Mullen is a Mid-career General CDR researcher. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.103212
 url: "/cdr-researcher-census/researchers/daniel-mullen-a5018266/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,9 +29,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -40,7 +40,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 5 |
 | Citations | 134 |
 | Publications | 15 |
-| CDR Focus | 13.3% |
+| CDR Focus | 670.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -49,7 +49,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    45 citations · DAC
 
 2. **On the Cost of Zero Carbon Hydrogen: A Techno-Economic Analysis of Steam Methane Reforming with Carbon Capture and Storage** (2022)
-   5 citations · DAC
+   5 citations · General CDR
 
 ## External Profiles
 

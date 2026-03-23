@@ -1,7 +1,7 @@
 ---
 title: "Fabian Stenzel"
-description: "Fabian Stenzel is a Senior Soil Carbon researcher at Stockholm Resilience Centre in SE. With 64 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.306538
+description: "Fabian Stenzel is a Senior General CDR researcher at Stockholm Resilience Centre in SE. With 64 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.985084
 url: "/cdr-researcher-census/researchers/fabian-stenzel-a5068728/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Stockholm Resilience Centre · 🇸🇪 SE
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 406 |
 | Publications | 64 |
-| CDR Focus | 14.1% |
+| CDR Focus | 940.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -57,19 +57,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    9 citations · Soil Carbon
 
 3. **A protein transition can free up land to tap vast energy and negative emission potentials** (2024)
-   8 citations · BECCS
+   8 citations · General CDR
 
 4. **Multiple planetary boundaries preclude biomass crops for carbon capture and storage outside of agricultural areas** (2025)
    7 citations · BECCS
 
 5. **Biological nitrogen fixation of natural and agricultural vegetation simulated with LPJmL 5.7.9** (2024)
-   4 citations · Soil Carbon
+   4 citations
 
 6. **Climate-water-biosphere functions compared between three forests type scenarios** (2026)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 7. **Comment on egusphere-2023-2946** (2024)
-   0 citations · Soil Carbon
+   0 citations
 
 8. **Comment on egusphere-2023-2946** (2024)
    0 citations · Soil Carbon

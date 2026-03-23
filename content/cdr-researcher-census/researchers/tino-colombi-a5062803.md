@@ -1,7 +1,7 @@
 ---
 title: "Tino Colombi"
 description: "Tino Colombi is a Senior Soil Carbon researcher at University of Nottingham in GB. With 83 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.920829
+date: 2026-03-23T11:46:59.222738
 url: "/cdr-researcher-census/researchers/tino-colombi-a5062803/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 23 |
 | Citations | 2,498 |
 | Publications | 83 |
-| CDR Focus | 10.8% |
+| CDR Focus | 840.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    3 citations · Soil Carbon
 
 2. **Missing the input: The underrepresentation of plant physiology in global soil carbon research** (2024)
-   2 citations · Soil Carbon
+   2 citations
 
 3. **Intraspecific diversity of cereals – root architecture and quantification of root carbon inputs** (2026)
    0 citations · Soil Carbon
@@ -63,7 +63,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    0 citations · Soil Carbon
 
 5. **The potential of crop variety selection to enhance soil organic carbon stocks and yields: a soil-crop modelling study for spring barley in a Nordic climate** (2026)
-   0 citations · Enhanced Weathering
+   0 citations · Soil Carbon
 
 6. **Reply on RC2** (2025)
    0 citations · Soil Carbon

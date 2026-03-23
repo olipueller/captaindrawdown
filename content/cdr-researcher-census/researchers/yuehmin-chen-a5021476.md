@@ -1,7 +1,7 @@
 ---
 title: "Yuehmin Chen"
 description: "Yuehmin Chen is a Senior Soil Carbon researcher at Fujian Normal University in CN. With 66 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.995576
+date: 2026-03-23T11:46:59.401760
 url: "/cdr-researcher-census/researchers/yuehmin-chen-a5021476/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,16 +45,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 20 |
 | Citations | 1,217 |
 | Publications | 66 |
-| CDR Focus | 10.6% |
+| CDR Focus | 1060.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Contrasting effects of warming and N deposition on soil microbial functional genes in a subtropical forest** (2021)
-   15 citations · Soil Carbon
+   15 citations
 
 2. **Contrasting priming effect intensities and drivers in single and repeated glucose additions to a forest soil receiving long-term N fertilization** (2023)
-   7 citations · Soil Carbon
+   7 citations
 
 3. **Soil particulate organic carbon regulates microbial carbon use efficiency in subtropical forests under nitrogen addition in different seasons** (2024)
    5 citations · Soil Carbon
@@ -69,7 +69,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    1 citations · Soil Carbon
 
 7. **Relationship between Soil Bacterial Communities and Dissolved Organic Matter in a Subtropical Pinus Taiwanensis Forest after Short-Term Nitrogen Addition** (2021)
-   1 citations · Soil Carbon
+   1 citations
 
 ## External Profiles
 

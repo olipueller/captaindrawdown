@@ -1,7 +1,7 @@
 ---
 title: "Arlene L. Gonzales"
-description: "Arlene L. Gonzales is a Senior Soil Carbon researcher at Mariano Marcos State University in PH. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.600776
+description: "Arlene L. Gonzales is a Senior General CDR researcher at Mariano Marcos State University in PH. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.442950
 url: "/cdr-researcher-census/researchers/arlene-l-gonzales-a5006192/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Mariano Marcos State University · 🇵🇭 PH
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 3 |
 | Citations | 246 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Soil Carbon Sequestration in Rice-Based Cropping Systems in Batac, Philippines** (2025)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

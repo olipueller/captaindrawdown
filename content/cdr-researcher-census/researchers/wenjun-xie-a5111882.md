@@ -1,7 +1,7 @@
 ---
 title: "Wenjun Xie"
 description: "Wenjun Xie is a Senior Soil Carbon researcher at Qingdao University of Science and Technology in CN. With 26 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.198928
+date: 2026-03-23T11:46:59.792830
 url: "/cdr-researcher-census/researchers/wenjun-xie-a5111882/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 10 |
 | Citations | 531 |
 | Publications | 26 |
-| CDR Focus | 11.5% |
+| CDR Focus | 1150.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

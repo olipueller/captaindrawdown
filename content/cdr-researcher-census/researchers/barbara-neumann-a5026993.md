@@ -1,7 +1,7 @@
 ---
 title: "Barbara Neumann"
 description: "Barbara Neumann is a Senior General CDR researcher at Research Institute For Sustainability – Helmholtz Centre Potsdam in DE. With 53 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.890294
+date: 2026-03-23T11:46:59.143823
 url: "/cdr-researcher-census/researchers/barbara-neumann-a5026993/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 16 |
 | Citations | 4,375 |
 | Publications | 53 |
-| CDR Focus | 11.3% |
+| CDR Focus | 750.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

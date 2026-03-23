@@ -1,7 +1,7 @@
 ---
 title: "Zhiming Guo"
 description: "Zhiming Guo is a Mid-career Soil Carbon researcher at Jiangsu University in CN. With 26 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.110570
+date: 2026-03-23T11:46:59.631686
 url: "/cdr-researcher-census/researchers/zhiming-guo-a5016307/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 14 |
 | Citations | 695 |
 | Publications | 26 |
-| CDR Focus | 11.5% |
+| CDR Focus | 770.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    5 citations · Soil Carbon
 
 3. **Regulation of soil organic carbon dynamics by microbial communities during reforestation of Chinese fir plantations after clearcutting** (2023)
-   0 citations · Soil Carbon
+   0 citations
 
 ## External Profiles
 

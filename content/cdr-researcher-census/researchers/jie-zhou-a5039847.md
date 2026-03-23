@@ -1,7 +1,7 @@
 ---
 title: "Jie Zhou"
 description: "Jie Zhou is a Senior Soil Carbon researcher at Nanjing Agricultural University in CN. With 99 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.890054
+date: 2026-03-23T11:46:59.143377
 url: "/cdr-researcher-census/researchers/jie-zhou-a5039847/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 32 |
 | Citations | 4,411 |
 | Publications | 99 |
-| CDR Focus | 15.2% |
+| CDR Focus | 1310.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -75,7 +75,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    17 citations · Soil Carbon
 
 9. **Microplastic contamination accelerates soil carbon loss through positive priming** (2024)
-   16 citations · Soil Carbon
+   16 citations
 
 10. **Depth-dependent patterns in soil organic C, enzymatic stochiometric ratio, and soil quality under conventional tillage and reduced tillage after 55-years** (2025)
    12 citations · Soil Carbon

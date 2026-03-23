@@ -1,7 +1,7 @@
 ---
 title: "Jessica Ruijsch"
 description: "Jessica Ruijsch is a Mid-career Soil Carbon researcher at Ghent University in BE. With 24 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.036758
+date: 2026-03-23T11:47:01.026789
 url: "/cdr-researcher-census/researchers/jessica-ruijsch-a5012807/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,16 +45,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 144 |
 | Publications | 24 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Clustered land restoration projects increase cloud formation in West African drylands** (2026)
-   0 citations · Enhanced Weathering
+   0 citations · Soil Carbon
 
 2. **Heeft landgebruik effect op ons weer? : Literatuuronderzoek relatie landgebruik en klimaat op regionale en lokale schaal: De Kleine Waterkringloop** (2023)
-   0 citations · DAC
+   0 citations
 
 3. **Detecting regreening effects of land restoration in semi-arid Africa using a spatial-context approach in Google Earth Engine** (2022)
    0 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Yoshito Izumi"
-description: "Yoshito Izumi is a Senior DAC researcher. With 11 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.759098
+description: "Yoshito Izumi is a Senior General CDR researcher. With 11 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.658638
 url: "/cdr-researcher-census/researchers/yoshito-izumi-a5080416/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,9 +26,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -37,16 +37,16 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 3 |
 | Citations | 198 |
 | Publications | 11 |
-| CDR Focus | 18.2% |
+| CDR Focus | 1820.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **A CO2 removal technology based on mineral carbonation and the stability of product carbon storage in a cement matrix** (2024)
-   14 citations · DAC
+   14 citations · General CDR
 
 2. **Assessment of product carbon accounting associated with carbon dioxide-storing concrete via mineral carbonation and utilization** (2025)
-   2 citations · DAC
+   2 citations · Enhanced Weathering
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Jingmeng Wang"
-description: "Jingmeng Wang is a Senior BECCS researcher at Tsinghua University in CN. With 30 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.237466
+description: "Jingmeng Wang is a Senior General CDR researcher at Tsinghua University in CN. With 30 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.862972
 url: "/cdr-researcher-census/researchers/jingmeng-wang-a5012158/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Tsinghua University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**BECCS**
+**General CDR**
 
-Combining biomass energy with carbon capture and storage to achieve negative emissions.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 10 |
 | Citations | 478 |
 | Publications | 30 |
-| CDR Focus | 20.0% |
+| CDR Focus | 1670.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -66,7 +66,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
    5 citations · BECCS
 
 6. **Contributions of countries without a carbon neutrality target to limit global warming** (2024)
-   0 citations · BECCS
+   0 citations
 
 ## External Profiles
 

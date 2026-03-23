@@ -1,7 +1,7 @@
 ---
 title: "Yangqiu Jiao"
-description: "Yangqiu Jiao is a Mid-career Soil Carbon researcher at Hainan University in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.509908
+description: "Yangqiu Jiao is a Mid-career carbon dioxide removal researcher at Hainan University in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.321149
 url: "/cdr-researcher-census/researchers/yangqiu-jiao-a5028331/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Hainan University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 279 |
 | Publications | 8 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Productivity and quality of banana in response to chemical fertilizer reduction with bio-organic fertilizer: Insight into soil properties and microbial ecology** (2021)
-   78 citations · Soil Carbon
+   78 citations
 
 ## External Profiles
 

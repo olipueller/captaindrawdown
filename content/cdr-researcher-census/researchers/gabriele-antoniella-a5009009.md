@@ -1,7 +1,7 @@
 ---
 title: "Gabriele Antoniella"
 description: "Gabriele Antoniella is a Mid-career Soil Carbon researcher at Università degli Studi della Tuscia in IT. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.085969
+date: 2026-03-23T11:47:01.084229
 url: "/cdr-researcher-census/researchers/gabriele-antoniella-a5009009/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,37 +45,37 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 136 |
 | Publications | 12 |
-| CDR Focus | 75.0% |
+| CDR Focus | 6670.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Carbon farming practices for European cropland: A review on the effect on soil organic carbon** (2024)
-   19 citations · Soil Carbon
+   19 citations · General CDR
 
 2. **Recent advances in regenerative sustainable agricultural strategies for managing soil carbon and mitigating climate change consequences** (2025)
-   13 citations · Biochar
+   13 citations · General CDR
 
 3. **The misconception of soil organic carbon sequestration notion: When do we achieve climate benefit?** (2023)
-   12 citations · Biochar
+   12 citations · General CDR
 
 4. **Do poplar plantations enhance organic carbon stocks in arable soils? A comprehensive study from Northern Italy** (2024)
-   6 citations · BECCS
+   6 citations
 
 5. **Agronomic practices for storing soil carbon and reducing greenhouse gas emission in the Mediterranean region** (2024)
-   2 citations · Biochar
+   2 citations · Soil Carbon
 
 6. **Impact of coppice conversion to high forest as a carbon farming practice: a case study from broadleaved forests in central Italy** (2026)
    0 citations · Soil Carbon
 
 7. **As forests reclaim the land: Latitudinal variations in carbon-biodiversity trade-offs under natural forest expansion in Italy** (2026)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 8. **Do poplar plantations contribute to soil organic carbon storage? A closer look** (2025)
    0 citations · Soil Carbon
 
 9. **Do Poplar Plantations Enhance Organic Carbon Stocks in Arable Soils? A Comprehensive Study from Northern Italy** (2024)
-   0 citations · BECCS
+   0 citations · Soil Carbon
 
 ## External Profiles
 

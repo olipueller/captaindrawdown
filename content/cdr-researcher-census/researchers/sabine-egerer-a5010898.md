@@ -1,7 +1,7 @@
 ---
 title: "Sabine Egerer"
 description: "Sabine Egerer is a Mid-career General CDR researcher at Ludwig-Maximilians-Universität München in DE. With 31 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.249329
+date: 2026-03-23T11:46:59.887181
 url: "/cdr-researcher-census/researchers/sabine-egerer-a5010898/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 9 |
 | Citations | 460 |
 | Publications | 31 |
-| CDR Focus | 16.1% |
+| CDR Focus | 1610.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications

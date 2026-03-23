@@ -1,7 +1,7 @@
 ---
 title: "Tyler Cyronak"
 description: "Tyler Cyronak is a Senior Ocean CDR researcher at Georgia Southern University in US. With 107 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.910093
+date: 2026-03-23T11:46:59.195736
 url: "/cdr-researcher-census/researchers/tyler-cyronak-a5082795/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,37 +45,37 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 25 |
 | Citations | 2,964 |
 | Publications | 107 |
-| CDR Focus | 14.0% |
+| CDR Focus | 1120.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Ocean alkalinity enhancement – avoiding runaway CaCO <sub>3</sub> precipitation during quick and hydrated lime dissolution** (2022)
-   157 citations · General CDR
+   157 citations · Ocean CDR
 
 2. **Field experiments in ocean alkalinity enhancement research** (2023)
    19 citations · General CDR
 
 3. **Ocean Alkalinity Enhancement – Avoiding runaway CaCO <sub>3</sub> precipitation during quick and hydrated lime dissolution** (2021)
-   15 citations · Ocean CDR
+   15 citations
 
 4. **Effects of grain size and seawater salinity on brucite dissolution and secondary calcium carbonate precipitation kinetics: implications for Ocean Alkalinity Enhancement** (2023)
-   13 citations · General CDR
+   13 citations · Ocean CDR
 
 5. **Effects of grain size and seawater salinity on magnesium hydroxide dissolution and secondary calcium carbonate precipitation kinetics: implications for ocean alkalinity enhancement** (2024)
    9 citations · Ocean CDR
 
 6. **Field experiments in ocean alkalinity enhancement research** (2023)
-   9 citations · General CDR
+   9 citations
 
 7. **Carbon dioxide removal efficiency of iron and steel slag in seawater via ocean alkalinity enhancement** (2024)
    4 citations · Enhanced Weathering
 
 8. **Effects of grain size and seawater salinity on magnesium hydroxide dissolution and secondary calcium carbonate precipitation kinetics: implications for ocean alkalinity enhancement** (2024)
-   1 citations · Ocean CDR
+   1 citations
 
 9. **Comment on egusphere-2024-645** (2024)
-   0 citations · Ocean CDR
+   0 citations · General CDR
 
 10. **Reply on RC3** (2023)
    0 citations · General CDR

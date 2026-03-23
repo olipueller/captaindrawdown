@@ -1,7 +1,7 @@
 ---
 title: "Qiong Xiao"
 description: "Qiong Xiao is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 77 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.045838
+date: 2026-03-23T11:46:59.508049
 url: "/cdr-researcher-census/researchers/qiong-xiao-a5049361/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 18 |
 | Citations | 904 |
 | Publications | 77 |
-| CDR Focus | 10.4% |
+| CDR Focus | 650.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -69,7 +69,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    4 citations · Enhanced Weathering
 
 7. **Assessing the impacts of motorway construction on groundwater in karst mountain areas, Southwest China** (2025)
-   2 citations · Enhanced Weathering
+   2 citations
 
 8. **Long-term fertilization-induced increases in glomalin-related soil protein depend on phosphorus input and aggregate stability across climatic zones** (2025)
    0 citations · Soil Carbon

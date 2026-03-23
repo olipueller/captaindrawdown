@@ -1,7 +1,7 @@
 ---
 title: "Duong Thuy Phuc Nguyen"
 description: "Duong Thuy Phuc Nguyen is a Mid-career Biochar researcher at Vietnam National University Ho Chi Minh City in VN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.796482
+date: 2026-03-23T11:47:00.705269
 url: "/cdr-researcher-census/researchers/duong-thuy-phuc-nguyen-a5010837/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 5 |
 | Citations | 189 |
 | Publications | 8 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

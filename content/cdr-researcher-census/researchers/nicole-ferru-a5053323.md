@@ -1,7 +1,7 @@
 ---
 title: "Nicole Ferru"
-description: "Nicole Ferru is an Early-career DAC researcher. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.256221
+description: "Nicole Ferru is an Early-career carbon dioxide removal researcher. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.266256
 url: "/cdr-researcher-census/researchers/nicole-ferru-a5053323/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -27,12 +27,6 @@ robots: "index, follow"
 
 **Career Stage:** Early-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -40,25 +34,25 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 3 |
 | Citations | 116 |
 | Publications | 9 |
-| CDR Focus | 55.6% |
+| CDR Focus | 2220.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Measuring and Modeling Water and Carbon Dioxide Adsorption on Amine Functionalized Alumina under Direct Air Capture Conditions** (2025)
-   13 citations · DAC
+   13 citations
 
 2. **Direct air capture by direct steam heating - experiments and comparison with indirect heating** (2025)
-   1 citations · DAC
+   1 citations
 
 3. **Latent Heat-Temperature Vacuum Swing Adsorption for Energy-Efficient Direct Air Capture** (2026)
-   0 citations · DAC
+   0 citations
 
 4. **Direct air capture by direct steam heating - experiments and comparison with indirect heating** (2025)
-   0 citations · DAC
+   0 citations
 
 5. **Direct Air Capture by Direct Steam Heating - Experiments and Comparison with Indirect Heating** (2025)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

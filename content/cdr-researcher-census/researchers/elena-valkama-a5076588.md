@@ -1,7 +1,7 @@
 ---
 title: "Elena Valkama"
 description: "Elena Valkama is a Senior Soil Carbon researcher at Natural Resources Institute Finland (Luke) in FI. With 85 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.938228
+date: 2026-03-23T11:46:59.269775
 url: "/cdr-researcher-census/researchers/elena-valkama-a5076588/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,40 +45,40 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 23 |
 | Citations | 1,964 |
 | Publications | 85 |
-| CDR Focus | 21.2% |
+| CDR Focus | 1410.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **New pedotransfer approaches to predict soil bulk density using WoSIS soil data and environmental covariates in Mediterranean agro-ecosystems** (2021)
-   77 citations · Soil Carbon
+   77 citations
 
 2. **Computation of total soil organic carbon stock and its standard deviation from layered soils** (2022)
    32 citations · Soil Carbon
 
 3. **Quality assessment of meta-analyses on soil organic carbon** (2023)
-   29 citations · Biochar
+   29 citations · General CDR
 
 4. **Trade‐offs and synergies of soil carbon sequestration: Addressing knowledge gaps related to soil management strategies** (2024)
-   23 citations · Biochar
+   23 citations · General CDR
 
 5. **Do Soil Microbes Drive the Trade-Off Between C Sequestration and Non-CO2 GHG Emissions in EU Agricultural Soils? A Systematic Review** (2025)
-   2 citations · Soil Carbon
+   2 citations · General CDR
 
 6. **Can Conservation Agriculture Enhance Soil Organic Carbon Sequestration In Mediterranean And Humid Subtropical Climates? A Meta-Analysis** (2021)
    2 citations · Soil Carbon
 
 7. **Quality Assessment of Meta-Analyses on Soil Organic Carbon** (2022)
-   1 citations · Biochar
+   1 citations
 
 8. **Revealing trade-offs in cropping systems sustainability by piecing together pedo-climatic datasets and agronomic knowledge with fuzzy logic** (2023)
-   0 citations · Soil Carbon
+   0 citations
 
 9. **Cover Crops Affecting Pool Specific Soil Organic Carbon Sequestration in Cropland – A Meta-Analysis** (2023)
    0 citations · Soil Carbon
 
 10. **A meta-analysis of field experiments on the effect of organic matter inputs on N2O emissions in European arable land** (2023)
-   0 citations · Biochar
+   0 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Puttipong Chunark"
-description: "Puttipong Chunark is a Mid-career BECCS researcher at Electricity Generating Authority of Thailand in TH. With 18 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.506501
+description: "Puttipong Chunark is a Mid-career General CDR researcher at Electricity Generating Authority of Thailand in TH. With 18 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.317127
 url: "/cdr-researcher-census/researchers/puttipong-chunark-a5004896/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Electricity Generating Authority of Thailand · 🇹🇭 TH
 
 ## CDR Specialization
 
-**BECCS**
+**General CDR**
 
-Combining biomass energy with carbon capture and storage to achieve negative emissions.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,19 +45,19 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 11 |
 | Citations | 280 |
 | Publications | 18 |
-| CDR Focus | 16.7% |
+| CDR Focus | 1670.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Energy system transformation for attainability of net zero emissions in Thailand** (2022)
-   26 citations · BECCS
+   26 citations · General CDR
 
 2. **Thailand’s mid-century greenhouse gas emission pathways to achieve the 2 degrees Celsius target** (2022)
-   23 citations · BECCS
+   23 citations · General CDR
 
 3. **Scaling up climate ambition post-2030: a long-term GHG mitigation analysis for Thailand** (2022)
-   7 citations · BECCS
+   7 citations · General CDR
 
 ## External Profiles
 

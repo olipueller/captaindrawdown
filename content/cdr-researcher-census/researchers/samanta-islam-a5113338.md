@@ -1,7 +1,7 @@
 ---
 title: "Samanta Islam"
-description: "Samanta Islam is a Mid-career Soil Carbon researcher at Jatiya Kabi Kazi Nazrul Islam University in BD. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.210560
+description: "Samanta Islam is a Mid-career General CDR researcher at Jatiya Kabi Kazi Nazrul Islam University in BD. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.216500
 url: "/cdr-researcher-census/researchers/samanta-islam-a5113338/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Jatiya Kabi Kazi Nazrul Islam University · 🇧🇩 BD
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 121 |
 | Publications | 16 |
-| CDR Focus | 12.5% |
+| CDR Focus | 620.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Role of Renewable Energy, Economic Growth, Agricultural Productivity, and Urbanization Toward Achieving China’s Goal of Net-zero Emissions** (2023)
-   3 citations · Enhanced Weathering
+   3 citations · General CDR
 
 2. **Enhancing Soil Carbon Sequestration and Land Restoration through Tropical Forest Management** (2023)
    2 citations · Soil Carbon

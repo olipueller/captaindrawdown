@@ -1,7 +1,7 @@
 ---
 title: "Linjie Ma"
 description: "Linjie Ma is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 6 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.525950
+date: 2026-03-23T11:47:00.344030
 url: "/cdr-researcher-census/researchers/linjie-ma-a5078411/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 273 |
 | Publications | 6 |
-| CDR Focus | 16.7% |
+| CDR Focus | 1670.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Responses of greenhouse gas emissions to different straw management methods with the same amount of carbon input in cotton field** (2021)
-   37 citations · Biochar
+   37 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Theeradit Phothitontimongkol"
-description: "Theeradit Phothitontimongkol is a Mid-career Biochar researcher at Chulalongkorn University in TH. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.258073
+description: "Theeradit Phothitontimongkol is a Mid-career carbon dioxide removal researcher at Chulalongkorn University in TH. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.267997
 url: "/cdr-researcher-census/researchers/theeradit-phothitontimongkol-a5072944/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Chulalongkorn University · 🇹🇭 TH
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Biochar**
-
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 3 |
 | Citations | 116 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Process Optimization and Modeling of Low-cost Activated Carbon Preparation and Its Application in Chromium (VI) Removal** (2022)
-   1 citations · Biochar
+   1 citations
 
 ## External Profiles
 

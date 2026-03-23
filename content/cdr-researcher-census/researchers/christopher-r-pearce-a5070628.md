@@ -1,7 +1,7 @@
 ---
 title: "Christopher R. Pearce"
 description: "Christopher R. Pearce is a Senior General CDR researcher at National Oceanography Centre in GB. With 99 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.894613
+date: 2026-03-23T11:46:59.156583
 url: "/cdr-researcher-census/researchers/christopher-r-pearce-a5070628/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 35 |
 | Citations | 3,931 |
 | Publications | 99 |
-| CDR Focus | 23.2% |
+| CDR Focus | 1620.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,13 +54,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    121 citations · Enhanced Weathering
 
 2. **Enhanced weathering in the US Corn Belt delivers carbon removal with agronomic benefits** (2024)
-   110 citations · Enhanced Weathering
+   110 citations
 
 3. **Quantification of CO2 removal in a large-scale enhanced weathering field trial on an oil palm plantation in Sabah, Malaysia** (2022)
    62 citations · Enhanced Weathering
 
 4. **Contrasting Estuarine Processing of Dissolved Organic Matter Derived From Natural and Human‐Impacted Landscapes** (2021)
-   42 citations · Ocean CDR
+   42 citations
 
 5. **Seawater carbonate chemistry based carbon dioxide removal: towards commonly agreed principles for carbon monitoring, reporting, and verification** (2025)
    8 citations · General CDR
@@ -78,7 +78,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    0 citations · Enhanced Weathering
 
 10. **Tile drain water chemistry dataset from an enhanced rock weathering field trial at the Energy Farm, University of Illinois** (2026)
-   0 citations · Enhanced Weathering
+   0 citations
 
 ## External Profiles
 

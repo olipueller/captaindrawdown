@@ -1,7 +1,7 @@
 ---
 title: "Lv HuanZhe"
 description: "Lv HuanZhe is a Senior Soil Carbon researcher at China Land Surveying and Planning Institute in CN. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.180447
+date: 2026-03-23T11:47:01.183086
 url: "/cdr-researcher-census/researchers/lv-huanzhe-a5000508/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 2 |
 | Citations | 125 |
 | Publications | 4 |
-| CDR Focus | 25.0% |
+| CDR Focus | 2500.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

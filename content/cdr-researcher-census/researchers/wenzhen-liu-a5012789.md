@@ -1,7 +1,7 @@
 ---
 title: "Wenzhen Liu"
-description: "Wenzhen Liu is a Mid-career Soil Carbon researcher at Institute of Forestry in RS. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.596986
+description: "Wenzhen Liu is a Mid-career carbon dioxide removal researcher at Institute of Forestry in RS. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.437365
 url: "/cdr-researcher-census/researchers/wenzhen-liu-a5012789/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Institute of Forestry ·  RS
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,16 +36,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 248 |
 | Publications | 19 |
-| CDR Focus | 10.5% |
+| CDR Focus | 530.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Nutrient Resorption and Stoichiometric Characteristics of Wuyi Rock Tea Cultivars** (2023)
-   2 citations · Soil Carbon
+   2 citations
 
 2. **Nutrient resorption and stoichiometric characteristics of Wuyi rock tea cultivars** (2022)
-   0 citations · Soil Carbon
+   0 citations
 
 ## External Profiles
 

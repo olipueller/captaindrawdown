@@ -1,7 +1,7 @@
 ---
 title: "Ángel Galán‐Martín"
-description: "Ángel Galán‐Martín is a Senior BECCS researcher at University of Jaén in ES. With 65 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.929483
+description: "Ángel Galán‐Martín is a Senior General CDR researcher at University of Jaén in ES. With 65 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.246628
 url: "/cdr-researcher-census/researchers/angel-galanmartin-a5067787/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Jaén · 🇪🇸 ES
 
 ## CDR Specialization
 
-**BECCS**
+**General CDR**
 
-Combining biomass energy with carbon capture and storage to achieve negative emissions.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 28 |
 | Citations | 2,201 |
 | Publications | 65 |
-| CDR Focus | 20.0% |
+| CDR Focus | 1850.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -60,10 +60,10 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
    44 citations · BECCS
 
 4. **The potential role of olive groves to deliver carbon dioxide removal in a carbon-neutral Europe: Opportunities and challenges** (2022)
-   43 citations · Biochar
+   43 citations · General CDR
 
 5. **The role of hydrogen in heavy transport to operate within planetary boundaries** (2021)
-   37 citations · BECCS
+   37 citations
 
 6. **Economic and environmental implications of carbon capture in an olive pruning tree biomass biorefinery** (2024)
    9 citations · BECCS
@@ -75,7 +75,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
    1 citations · BECCS
 
 9. **Planetary boundary analysis in the environmental assessment of corn stover biorefineries** (2025)
-   1 citations · Biochar
+   1 citations
 
 10. **Assessing Pathways to Carbon Neutrality in the Ceramic Sector: A Prospective Life Cycle Assessment under Energy System Projections and Technology Scenarios** (2025)
    0 citations · General CDR

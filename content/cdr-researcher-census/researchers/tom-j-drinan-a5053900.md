@@ -1,7 +1,7 @@
 ---
 title: "Tom J. Drinan"
-description: "Tom J. Drinan is a Mid-career Soil Carbon researcher at University of Limerick in IE. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.034828
+description: "Tom J. Drinan is a Mid-career General CDR researcher at University of Limerick in IE. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.024436
 url: "/cdr-researcher-census/researchers/tom-j-drinan-a5053900/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Limerick ·  IE
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 145 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Achieving agricultural and environmental targets in a changing climate requires a whole-system based approach** (2025)
-   1 citations · Soil Carbon
+   1 citations · General CDR
 
 ## External Profiles
 

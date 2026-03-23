@@ -1,7 +1,7 @@
 ---
 title: "Ming-Qin Cao"
 description: "Ming-Qin Cao is a Mid-career Soil Carbon researcher at Shanxi Agricultural University in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.294085
+date: 2026-03-23T11:46:59.965596
 url: "/cdr-researcher-census/researchers/ming-qin-cao-a5031852/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 416 |
 | Publications | 8 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

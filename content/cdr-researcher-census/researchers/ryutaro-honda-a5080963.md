@@ -1,7 +1,7 @@
 ---
 title: "Ryutaro Honda"
-description: "Ryutaro Honda is a Mid-career DAC researcher. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.335287
+description: "Ryutaro Honda is a Mid-career carbon dioxide removal researcher. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.353937
 url: "/cdr-researcher-census/researchers/ryutaro-honda-a5080963/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -24,12 +24,6 @@ robots: "index, follow"
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -37,13 +31,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 6 |
 | Citations | 108 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Assembly of Defect-Free Microgel Nanomembranes for CO<sub>2</sub> Separation** (2021)
-   35 citations · DAC
+   35 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Brian Krohn"
 description: "Brian Krohn is a Senior Enhanced Weathering researcher. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.121201
+date: 2026-03-23T11:46:59.649728
 url: "/cdr-researcher-census/researchers/brian-krohn-a5068612/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -37,13 +37,13 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 6 |
 | Citations | 668 |
 | Publications | 11 |
-| CDR Focus | 18.2% |
+| CDR Focus | 910.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Life Cycle Analysis and Full Carbon Accounting of Enhanced Rock Weathering** (2025)
-   0 citations · Enhanced Weathering
+   0 citations
 
 2. **Life Cycle Analysis and Full Carbon Accounting of Enhanced Rock Weathering** (2025)
    0 citations · Enhanced Weathering

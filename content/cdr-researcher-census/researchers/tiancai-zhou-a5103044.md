@@ -1,7 +1,7 @@
 ---
 title: "Tiancai Zhou"
 description: "Tiancai Zhou is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.156680
+date: 2026-03-23T11:46:59.718568
 url: "/cdr-researcher-census/researchers/tiancai-zhou-a5103044/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 602 |
 | Publications | 20 |
-| CDR Focus | 15.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Responses of carbon dynamics to grazing exclusion in natural alpine grassland ecosystems on the QingZang Plateau** (2022)
-   10 citations · Soil Carbon
+   10 citations · General CDR
 
 2. **Complex climatic, CO2, and grazing controls on the net primary productivity and carbon stocks in grasslands of the Tibetan Plateau** (2025)
    1 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Xiaohui He"
 description: "Xiaohui He is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 27 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.775054
+date: 2026-03-23T11:47:00.680058
 url: "/cdr-researcher-census/researchers/xiaohui-he-a5015024/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 195 |
 | Publications | 27 |
-| CDR Focus | 14.8% |
+| CDR Focus | 1110.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    0 citations · Soil Carbon
 
 3. **The effect of afforestation on inorganic carbon in soils of arid and semi-arid lands of northwest China** (2023)
-   0 citations · Soil Carbon
+   0 citations
 
 4. **The effect of afforestation on inorganic carbon in soils of arid and semi-arid lands of northwest China** (2023)
    0 citations · Soil Carbon

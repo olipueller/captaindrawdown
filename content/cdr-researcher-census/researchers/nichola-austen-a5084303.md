@@ -1,7 +1,7 @@
 ---
 title: "Nichola Austen"
 description: "Nichola Austen is a Senior Soil Carbon researcher at University of Illinois Urbana-Champaign in US. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.143381
+date: 2026-03-23T11:47:01.141100
 url: "/cdr-researcher-census/researchers/nichola-austen-a5084303/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 130 |
 | Publications | 12 |
-| CDR Focus | 16.7% |
+| CDR Focus | 830.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

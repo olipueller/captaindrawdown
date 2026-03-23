@@ -1,7 +1,7 @@
 ---
 title: "Yawen Zheng"
-description: "Yawen Zheng is a Mid-career DAC researcher at Guangdong University of Technology in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.169036
+description: "Yawen Zheng is a Mid-career General CDR researcher at Guangdong University of Technology in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.169494
 url: "/cdr-researcher-census/researchers/yawen-zheng-a5100546/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Guangdong University of Technology · 🇨🇳 CN
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,7 +42,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 7 |
 | Citations | 126 |
 | Publications | 14 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

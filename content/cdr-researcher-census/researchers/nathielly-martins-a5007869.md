@@ -1,7 +1,7 @@
 ---
 title: "Nathielly Martins"
 description: "Nathielly Martins is a Mid-career Enhanced Weathering researcher at Technical University of Munich in DE. With 28 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.568266
+date: 2026-03-23T11:47:00.405878
 url: "/cdr-researcher-census/researchers/nathielly-martins-a5007869/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,16 +45,16 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 5 |
 | Citations | 256 |
 | Publications | 28 |
-| CDR Focus | 10.7% |
+| CDR Focus | 1070.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Fine roots stimulate nutrient release during early stages of leaf litter decomposition in a Central Amazon rainforest** (2021)
-   51 citations · Enhanced Weathering
+   51 citations
 
 2. **Amazon forest's carbon sink strength depends on plant nutrient efficiency at the root-soil interface** (2026)
-   0 citations · Enhanced Weathering
+   0 citations · Soil Carbon
 
 3. **Plasticity of nutrient mechanism acquisition in the Amazonian understory under elevated atmospheric carbon dioxide** (2024)
    0 citations · Enhanced Weathering

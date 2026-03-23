@@ -1,7 +1,7 @@
 ---
 title: "Christine Merk"
 description: "Christine Merk is a Mid-career General CDR researcher at Kiel Institute for the World Economy in DE. With 51 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.039487
+date: 2026-03-23T11:46:59.490808
 url: "/cdr-researcher-census/researchers/christine-merk-a5017545/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 16 |
 | Citations | 946 |
 | Publications | 51 |
-| CDR Focus | 31.4% |
+| CDR Focus | 2750.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    18 citations · BECCS
 
 4. **Presenting balanced geoengineering information has little effect on mitigation engagement** (2024)
-   14 citations · General CDR
+   14 citations
 
 5. **Lay person perceptions of marine carbon dioxide removal (CDR) – Working paper** (2021)
    6 citations · General CDR
@@ -69,7 +69,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    5 citations · General CDR
 
 8. **Interim report on public perceptions of marine CDR** (2022)
-   4 citations · BECCS
+   4 citations · General CDR
 
 9. **Exploring Site‐Specific Carbon Dioxide Removal Options With Storage or Sequestration in the Marine Environment – The 10 Mt CO<sub>2</sub> yr<sup>−1</sup> Removal Challenge for Germany** (2025)
    3 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Nico Bauer"
 description: "Nico Bauer is an Eminent General CDR researcher at Potsdam Institute for Climate Impact Research in DE. With 190 publications and an h-index of 55, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.862205
+date: 2026-03-23T11:46:59.080157
 url: "/cdr-researcher-census/researchers/nico-bauer-a5055801/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 55 |
 | Citations | 18,135 |
 | Publications | 190 |
-| CDR Focus | 10.5% |
+| CDR Focus | 740.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -63,13 +63,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    103 citations · General CDR
 
 5. **Bioenergy-induced land-use-change emissions with sectorally fragmented policies** (2023)
-   39 citations · General CDR
+   39 citations · BECCS
 
 6. **Food matters: Dietary shifts increase the feasibility of 1.5°C pathways in line with the Paris Agreement** (2024)
    30 citations · General CDR
 
 7. **Exploring risks and benefits of overshooting a 1.5 °C carbon budget over space and time** (2023)
-   24 citations · Ocean CDR
+   24 citations · General CDR
 
 8. **The contribution of bioenergy to the decarbonization of transport: a multi-model assessment** (2022)
    19 citations · BECCS
@@ -78,7 +78,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    8 citations · General CDR
 
 10. **Separating CO2 emission from removal targets comes with limited cost impacts** (2024)
-   1 citations · General CDR
+   1 citations
 
 ## External Profiles
 

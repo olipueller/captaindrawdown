@@ -1,7 +1,7 @@
 ---
 title: "Galina V. Shendel"
 description: "Galina V. Shendel is a Senior Soil Carbon researcher at Ufa Institute of Chemistry in RU. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.569796
+date: 2026-03-23T11:47:00.408289
 url: "/cdr-researcher-census/researchers/galina-v-shendel-a5039005/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 256 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

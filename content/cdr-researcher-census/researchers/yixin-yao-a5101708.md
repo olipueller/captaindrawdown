@@ -1,7 +1,7 @@
 ---
 title: "Yixin Yao"
-description: "Yixin Yao is a Mid-career Soil Carbon researcher at Zhejiang University in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.476334
+description: "Yixin Yao is a Mid-career General CDR researcher at Zhejiang University in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.263946
 url: "/cdr-researcher-census/researchers/yixin-yao-a5101708/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Zhejiang University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 295 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Transformative Solutions and Green Finance in the People’s Republic of China and Mongolia** (2022)
-   2 citations · Soil Carbon
+   2 citations · General CDR
 
 ## External Profiles
 

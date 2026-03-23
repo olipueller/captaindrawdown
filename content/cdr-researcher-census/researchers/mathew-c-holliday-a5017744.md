@@ -1,7 +1,7 @@
 ---
 title: "Mathew C. Holliday"
-description: "Mathew C. Holliday is an Early-career Soil Carbon researcher at University of Hull in GB. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.250409
+description: "Mathew C. Holliday is an Early-career Biochar researcher at University of Hull in GB. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.259534
 url: "/cdr-researcher-census/researchers/mathew-c-holliday-a5017744/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ University of Hull · 🇬🇧 GB
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 3 |
 | Citations | 117 |
 | Publications | 4 |
-| CDR Focus | 25.0% |
+| CDR Focus | 2500.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

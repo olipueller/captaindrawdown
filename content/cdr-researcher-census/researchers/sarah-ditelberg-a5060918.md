@@ -1,7 +1,7 @@
 ---
 title: "Sarah Ditelberg"
-description: "Sarah Ditelberg is a Mid-career General CDR researcher at Loyola University Chicago in US. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.107506
+description: "Sarah Ditelberg is a Mid-career carbon dioxide removal researcher at Loyola University Chicago in US. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.108632
 url: "/cdr-researcher-census/researchers/sarah-ditelberg-a5060918/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Loyola University Chicago · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 5 |
 | Citations | 133 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Safety protocols, precautions, and countermeasures aboard the International Space Station to prevent ocular injury** (2024)
-   5 citations · General CDR
+   5 citations
 
 ## External Profiles
 

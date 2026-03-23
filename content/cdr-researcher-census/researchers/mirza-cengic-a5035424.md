@@ -1,7 +1,7 @@
 ---
 title: "Mirza Čengić"
-description: "Mirza Čengić is a Mid-career General CDR researcher at Radboud University Nijmegen in NL. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.075067
+description: "Mirza Čengić is a Mid-career BECCS researcher at Radboud University Nijmegen in NL. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.563782
 url: "/cdr-researcher-census/researchers/mirza-cengic-a5035424/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Radboud University Nijmegen · 🇳🇱 NL
 
 ## CDR Specialization
 
-**General CDR**
+**BECCS**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 9 |
 | Citations | 797 |
 | Publications | 19 |
-| CDR Focus | 10.5% |
+| CDR Focus | 1050.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

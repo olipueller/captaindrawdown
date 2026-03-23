@@ -1,7 +1,7 @@
 ---
 title: "L. Douglas Smith"
-description: "L. Douglas Smith is a Mid-career General CDR researcher at Centennial Medical Center in US. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.969780
+description: "L. Douglas Smith is a Mid-career carbon dioxide removal researcher at Centennial Medical Center in US. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.334768
 url: "/cdr-researcher-census/researchers/l-douglas-smith-a5101664/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Centennial Medical Center · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 4 |
 | Citations | 1,494 |
 | Publications | 8 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **What the <i>American Journal of Critical Care</i> Junior Peer Reviewers Were Reading During Year 2 of the Program** (2022)
-   0 citations · General CDR
+   0 citations
 
 ## External Profiles
 

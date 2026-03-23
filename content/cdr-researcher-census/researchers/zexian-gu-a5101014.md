@@ -1,7 +1,7 @@
 ---
 title: "Zexian Gu"
-description: "Zexian Gu is a Mid-career Soil Carbon researcher at Yunnan University in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.702117
+description: "Zexian Gu is a Mid-career General CDR researcher at Yunnan University in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.583810
 url: "/cdr-researcher-census/researchers/zexian-gu-a5101014/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Yunnan University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,16 +42,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 214 |
 | Publications | 18 |
-| CDR Focus | 11.1% |
+| CDR Focus | 560.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Achieving the supply-demand balance of ecosystem services through zoning regulation based on land use thresholds** (2024)
-   63 citations · Soil Carbon
+   63 citations
 
 2. **Study on the Evolution Mechanism of Ecosystem Services in Karst Mountainous Areas from the Perspective of Humanities** (2022)
-   4 citations · Soil Carbon
+   4 citations · General CDR
 
 ## External Profiles
 

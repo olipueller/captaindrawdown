@@ -1,7 +1,7 @@
 ---
 title: "Steven Dauwe"
-description: "Steven Dauwe is a Mid-career Ocean CDR researcher at Flanders Marine Institute in BE. With 6 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.052167
+description: "Steven Dauwe is a Mid-career General CDR researcher at Flanders Marine Institute in BE. With 6 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.044549
 url: "/cdr-researcher-census/researchers/steven-dauwe-a5089340/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Flanders Marine Institute · 🇧🇪 BE
 
 ## CDR Specialization
 
-**Ocean CDR**
+**General CDR**
 
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,7 +42,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 2 |
 | Citations | 141 |
 | Publications | 6 |
-| CDR Focus | 16.7% |
+| CDR Focus | 1670.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

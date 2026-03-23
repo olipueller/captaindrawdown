@@ -1,7 +1,7 @@
 ---
 title: "Anne Ware"
-description: "Anne Ware is a Senior Soil Carbon researcher at National Renewable Energy Laboratory in US. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.144015
+description: "Anne Ware is a Senior carbon dioxide removal researcher at National Renewable Energy Laboratory in US. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.141684
 url: "/cdr-researcher-census/researchers/anne-ware-a5001574/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ National Renewable Energy Laboratory · 🇺🇸 US
 
 **Career Stage:** Senior
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 3 |
 | Citations | 130 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Analytical Approaches for Characterization of Lignocellulosic Biomass Cell Walls to Develop Optimized Feedstocks for the Bioderived Value Chain** (2022)
-   0 citations · Soil Carbon
+   0 citations
 
 ## External Profiles
 

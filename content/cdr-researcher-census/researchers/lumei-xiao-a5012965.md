@@ -1,7 +1,7 @@
 ---
 title: "Lumei Xiao"
 description: "Lumei Xiao is a Mid-career Soil Carbon researcher at Chengdu Institute of Biology in CN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.239052
+date: 2026-03-23T11:46:59.865325
 url: "/cdr-researcher-census/researchers/lumei-xiao-a5012965/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 477 |
 | Publications | 11 |
-| CDR Focus | 18.2% |
+| CDR Focus | 1820.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Margarita A. Charalambous"
-description: "Margarita A. Charalambous is a Mid-career DAC researcher at ETH Zurich in CH. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.783233
+description: "Margarita A. Charalambous is a Mid-career General CDR researcher at ETH Zurich in CH. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.690353
 url: "/cdr-researcher-census/researchers/margarita-a-charalambous-a5067951/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ ETH Zurich · 🇨🇭 CH
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,28 +45,28 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 6 |
 | Citations | 192 |
 | Publications | 18 |
-| CDR Focus | 33.3% |
+| CDR Focus | 2220.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Navigating within the Safe Operating Space with Carbon Capture On-Board** (2022)
-   34 citations · DAC
+   34 citations
 
 2. **Sustainable Development Goals assessment of carbon capture on-board** (2023)
-   6 citations · DAC
+   6 citations · General CDR
 
 3. **Absolute environmental sustainability assessment of renewable dimethyl ether fuelled heavy-duty trucks** (2023)
-   0 citations · BECCS
+   0 citations · DAC
 
 4. **Planetary boundaries analysis of Fischer-Tropsch Diesel for decarbonizing heavy-duty transport** (2022)
-   0 citations · DAC
+   0 citations
 
 5. **Planetary boundaries analysis of Fischer-Tropsch Diesel for decarbonizing heavy-duty transport** (2022)
    0 citations · DAC
 
 6. **Absolute environmental sustainability assessment of renewable dimethyl ether fuelled heavy-duty trucks** (2023)
-   0 citations · BECCS
+   0 citations
 
 ## External Profiles
 

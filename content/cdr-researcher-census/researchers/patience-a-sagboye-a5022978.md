@@ -1,7 +1,7 @@
 ---
 title: "Patience A. Sagboye"
-description: "Patience A. Sagboye is a Mid-career Biochar researcher at University of Ilorin in NG. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.385362
+description: "Patience A. Sagboye is a Mid-career carbon dioxide removal researcher at University of Ilorin in NG. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.110442
 url: "/cdr-researcher-census/researchers/patience-a-sagboye-a5022978/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ University of Ilorin ·  NG
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Biochar**
-
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 5 |
 | Citations | 347 |
 | Publications | 5 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **A comprehensive review on the sequestration of dyes from aqueous media using maize-/corn-based adsorbents** (2023)
-   28 citations · Biochar
+   28 citations
 
 ## External Profiles
 

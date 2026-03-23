@@ -1,7 +1,7 @@
 ---
 title: "Mary Farina"
 description: "Mary Farina is a Mid-career Soil Carbon researcher at Montana State University in US. With 32 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.904755
+date: 2026-03-23T11:46:59.182953
 url: "/cdr-researcher-census/researchers/mary-farina-a5073267/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 13 |
 | Citations | 3,206 |
 | Publications | 32 |
-| CDR Focus | 12.5% |
+| CDR Focus | 940.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,10 +54,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    213 citations · General CDR
 
 2. **<scp>Pan‐Arctic</scp> soil moisture control on tundra carbon sequestration and plant productivity** (2022)
-   48 citations · Soil Carbon
+   48 citations · General CDR
 
 3. **Earlier snowmelt may lead to late season declines in plant productivity and carbon sequestration in Arctic tundra ecosystems** (2022)
-   35 citations · Soil Carbon
+   35 citations
 
 4. **Earlier Snowmelt May Lead to Late Season Declines in Plant Productivity and Carbon Sequestration in Arctic Tundra Ecosystems** (2021)
    4 citations · Soil Carbon

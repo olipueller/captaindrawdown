@@ -1,7 +1,7 @@
 ---
 title: "Wangyu Wei"
-description: "Wangyu Wei is a Senior Enhanced Weathering researcher at Tsinghua University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.257123
+description: "Wangyu Wei is a Senior General CDR researcher at Tsinghua University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.903646
 url: "/cdr-researcher-census/researchers/wangyu-wei-a5101676/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Tsinghua University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Enhanced Weathering**
+**General CDR**
 
-Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 5 |
 | Citations | 451 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **The 2023 China report of the Lancet Countdown on health and climate change: taking stock for a thriving future** (2023)
-   96 citations · Enhanced Weathering
+   96 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Omkar Patange"
-description: "Omkar Patange is a Mid-career BECCS researcher at International Institute for Applied Systems Analysis in AT. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.136954
+description: "Omkar Patange is a Mid-career General CDR researcher at International Institute for Applied Systems Analysis in AT. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.675970
 url: "/cdr-researcher-census/researchers/omkar-patange-a5007561/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ International Institute for Applied Systems Analysis · 🇦🇹 AT
 
 ## CDR Specialization
 
-**BECCS**
+**General CDR**
 
-Combining biomass energy with carbon capture and storage to achieve negative emissions.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 10 |
 | Citations | 639 |
 | Publications | 19 |
-| CDR Focus | 15.8% |
+| CDR Focus | 1050.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
    18 citations · BECCS
 
 2. **The AFOLU sector’s role in national decarbonization: a comparative analysis of low-GHG development pathways in Brazil, India and Indonesia** (2024)
-   4 citations · Soil Carbon
+   4 citations · General CDR
 
 3. **An Integrated Bottom-Up Optimization to Investigate the Role of Beccs in Transitioning Towards a Net-Zero Energy System: A Case Study from Gujarat, India** (2022)
    0 citations · BECCS

@@ -1,7 +1,7 @@
 ---
 title: "Jorge Duque-Rivera"
 description: "Jorge Duque-Rivera is a Senior BECCS researcher at Escuela Superior Politecnica del Litoral in EC. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.473018
+date: 2026-03-23T11:47:00.257839
 url: "/cdr-researcher-census/researchers/jorge-duque-rivera-a5080967/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 4 |
 | Citations | 296 |
 | Publications | 8 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

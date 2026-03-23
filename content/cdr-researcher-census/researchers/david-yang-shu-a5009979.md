@@ -1,7 +1,7 @@
 ---
 title: "David Yang Shu"
-description: "David Yang Shu is a Mid-career DAC researcher at ETH Zurich in CH. With 27 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.173357
+description: "David Yang Shu is a Mid-career General CDR researcher at ETH Zurich in CH. With 27 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.746180
 url: "/cdr-researcher-census/researchers/david-yang-shu-a5009979/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ ETH Zurich · 🇨🇭 CH
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,22 +45,22 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 10 |
 | Citations | 573 |
 | Publications | 27 |
-| CDR Focus | 14.8% |
+| CDR Focus | 1110.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **An ecosystem of carbon dioxide removal reviews – part 1: direct air CO <sub>2</sub> capture and storage** (2025)
-   11 citations · DAC
+   11 citations · General CDR
 
 2. **Prospective life cycle assessment of megatonne-scale direct air carbon capture and storage via calcium-looping** (2025)
    0 citations · DAC
 
 3. **Author response for "An Ecosystem of Carbon Dioxide Removal Reviews - Part 1: Direct Air CO2 Capture and Storage"** (2025)
-   0 citations · DAC
+   0 citations
 
 4. **Author response for "An Ecosystem of Carbon Dioxide Removal Reviews - Part 1: Direct Air CO2 Capture and Storage"** (2025)
-   0 citations · DAC
+   0 citations · General CDR
 
 ## External Profiles
 

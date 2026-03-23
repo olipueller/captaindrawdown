@@ -1,7 +1,7 @@
 ---
 title: "Frantseska-Maria Pellera"
-description: "Frantseska-Maria Pellera is a Mid-career Soil Carbon researcher at Technical University of Crete in GR. With 10 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.054376
+description: "Frantseska-Maria Pellera is a Mid-career Biochar researcher at Technical University of Crete in GR. With 10 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.527288
 url: "/cdr-researcher-census/researchers/frantseska-maria-pellera-a5041589/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Technical University of Crete · 🇬🇷 GR
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 866 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

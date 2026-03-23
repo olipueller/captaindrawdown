@@ -1,7 +1,7 @@
 ---
 title: "Zhaohai Zeng"
 description: "Zhaohai Zeng is a Mid-career Soil Carbon researcher at Xinyang Central Hospital in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.949915
+date: 2026-03-23T11:47:00.923137
 url: "/cdr-researcher-census/researchers/zhaohai-zeng-a5084718/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 158 |
 | Publications | 19 |
-| CDR Focus | 10.5% |
+| CDR Focus | 530.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    46 citations · Soil Carbon
 
 2. **Multi-objective optimization framework for cropping structure based on water-carbon-economy nexus: Large-scale case study in Northeast China** (2026)
-   1 citations · Enhanced Weathering
+   1 citations · Soil Carbon
 
 ## External Profiles
 

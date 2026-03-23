@@ -1,7 +1,7 @@
 ---
 title: "Panpan Ma"
 description: "Panpan Ma is a Mid-career Soil Carbon researcher at Qinghai University in CN. With 26 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.154998
+date: 2026-03-23T11:46:59.715613
 url: "/cdr-researcher-census/researchers/panpan-ma-a5101552/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 12 |
 | Citations | 604 |
 | Publications | 26 |
-| CDR Focus | 15.4% |
+| CDR Focus | 1150.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Conversion of SIC to SOC enhances soil carbon sequestration and soil structural stability in alpine ecosystems of the Qinghai-Tibet Plateau** (2024)
-   42 citations · Soil Carbon
+   42 citations
 
 2. **Estimating spatiotemporal variations of cropland soil organic carbon and its sequestration potential in central China from 1984 to 2019** (2024)
    3 citations · Soil Carbon

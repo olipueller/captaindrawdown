@@ -1,7 +1,7 @@
 ---
 title: "Charnett Chau"
-description: "Charnett Chau is a Mid-career Soil Carbon researcher at Saint-Gobain (France) in FR. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.725076
+description: "Charnett Chau is a Mid-career General CDR researcher at Saint-Gobain (France) in FR. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.611818
 url: "/cdr-researcher-census/researchers/charnett-chau-a5034419/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Saint-Gobain (France) · 🇫🇷 FR
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,16 +45,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 208 |
 | Publications | 11 |
-| CDR Focus | 18.2% |
+| CDR Focus | 910.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **The environmental performance of protecting seedlings with plastic tree shelters for afforestation in temperate oceanic regions: A UK case study** (2021)
-   8 citations · Ocean CDR
+   8 citations
 
 2. **The environmental performance of different end-of-life options for compostable diapers in a UK system** (2025)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

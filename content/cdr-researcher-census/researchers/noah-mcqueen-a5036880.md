@@ -1,7 +1,7 @@
 ---
 title: "Noah McQueen"
 description: "Noah McQueen is a Mid-career DAC researcher at Carbon Carbon Advanced Technologies (United States) in US. With 25 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.930032
+date: 2026-03-23T11:46:59.247514
 url: "/cdr-researcher-census/researchers/noah-mcqueen-a5036880/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 12 |
 | Citations | 2,188 |
 | Publications | 25 |
-| CDR Focus | 48.0% |
+| CDR Focus | 3600.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -60,22 +60,22 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    135 citations · DAC
 
 4. **Natural Gas vs. Electricity for Solvent-Based Direct Air Capture** (2021)
-   86 citations · DAC
+   86 citations
 
 5. **The cost of direct air capture and storage: the impact of technological learning, regional diversity, and policy.** (2022)
-   12 citations · DAC
+   12 citations
 
 6. **Direct Air Capture: Resource Considerations and Costs for Carbon Removal** (2021)
    10 citations · DAC
 
 7. **The use of warehouse automation technology for scalable and low-cost direct air capture** (2024)
-   9 citations · DAC
+   9 citations
 
 8. **The cost of direct air capture and storage: the impact of technological learning, regional diversity, and policy.** (2022)
    5 citations · DAC
 
 9. **The cost of direct air capture and storage: the impact of technological learning, regional diversity, and policy.** (2022)
-   4 citations · DAC
+   4 citations
 
 10. **Prospective life cycle assessment of megatonne-scale direct air carbon capture and storage via calcium-looping** (2025)
    0 citations · DAC

@@ -1,7 +1,7 @@
 ---
 title: "Sara Lago-Olveira"
-description: "Sara Lago-Olveira is a Mid-career Soil Carbon researcher at Universidade de Santiago de Compostela in ES. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.352476
+description: "Sara Lago-Olveira is a Mid-career General CDR researcher at Universidade de Santiago de Compostela in ES. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.367545
 url: "/cdr-researcher-census/researchers/sara-lago-olveira-a5091309/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Universidade de Santiago de Compostela · 🇪🇸 ES
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,19 +45,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 107 |
 | Publications | 10 |
-| CDR Focus | 40.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Quantifying spatially explicit LCA midpoint characterization factors to assess the impact of specific farming practices on ecosystem services** (2024)
-   10 citations · Soil Carbon
+   10 citations · General CDR
 
 2. **Environmental benefits of ozonated water for sustainable grapevine disease control: A life cycle and carbon sequestration analysis** (2024)
-   5 citations · Soil Carbon
+   5 citations · General CDR
 
 3. **A comprehensive environmental analysis of olive oil production in Apulia, Italy** (2025)
-   1 citations · Soil Carbon
+   1 citations
 
 4. **Sustainable vineyard management: Assessing the environmental impact of vermicompost compared over mineral fertilizers** (2025)
    0 citations · Soil Carbon

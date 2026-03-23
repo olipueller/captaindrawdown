@@ -1,7 +1,7 @@
 ---
 title: "Biswa R. Patra"
 description: "Biswa R. Patra is a Mid-career Biochar researcher at King Tide Carbon Canada Ltd in CA. With 40 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.957912
+date: 2026-03-23T11:46:59.306378
 url: "/cdr-researcher-census/researchers/biswa-r-patra-a5002085/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 13 |
 | Citations | 1,647 |
 | Publications | 40 |
-| CDR Focus | 10.0% |
+| CDR Focus | 500.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

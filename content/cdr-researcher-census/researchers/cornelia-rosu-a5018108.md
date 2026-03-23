@@ -1,7 +1,7 @@
 ---
 title: "Cornelia Rosu"
 description: "Cornelia Rosu is a Senior DAC researcher at Georgia Institute of Technology in US. With 35 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.072084
+date: 2026-03-23T11:46:59.558873
 url: "/cdr-researcher-census/researchers/cornelia-rosu-a5018108/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,25 +45,25 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 13 |
 | Citations | 805 |
 | Publications | 35 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Sub-Ambient Temperature Direct Air Capture of CO<sub>2</sub> using Amine-Impregnated MIL-101(Cr) Enables Ambient Temperature CO<sub>2</sub> Recovery** (2022)
-   168 citations · DAC
+   168 citations
 
 2. **Research needs targeting direct air capture of carbon dioxide: Material &amp; process performance characteristics under realistic environmental conditions** (2022)
    94 citations · DAC
 
 3. **Direct Air Capture of CO<sub>2</sub> Using Amine/Alumina Sorbents at Cold Temperature** (2023)
-   77 citations · DAC
+   77 citations
 
 4. **Cold-Temperature Capture of Carbon Dioxide with Water Coproduction from Air Using Commercial Zeolites** (2022)
-   62 citations · DAC
+   62 citations
 
 5. **Sequential polymer infusion into solid substrates (SPISS): Impact of processing on sorbent CO2 adsorption properties** (2022)
-   10 citations · DAC
+   10 citations
 
 ## External Profiles
 

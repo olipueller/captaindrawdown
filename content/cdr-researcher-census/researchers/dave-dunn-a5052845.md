@@ -1,7 +1,7 @@
 ---
 title: "Dave Dunn"
 description: "Dave Dunn is a Mid-career Soil Carbon researcher at Natural Resources Canada in CA. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.392813
+date: 2026-03-23T11:47:01.410922
 url: "/cdr-researcher-census/researchers/dave-dunn-a5052845/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 3 |
 | Citations | 103 |
 | Publications | 5 |
-| CDR Focus | 40.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    25 citations · Soil Carbon
 
 2. **Manganese Limitations and the Enhanced Soil Carbon Sequestration of Temperate Rainforests** (2021)
-   1 citations · Soil Carbon
+   1 citations
 
 ## External Profiles
 

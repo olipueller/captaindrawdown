@@ -1,7 +1,7 @@
 ---
 title: "Heather A. Enloe"
 description: "Heather A. Enloe is a Senior Soil Carbon researcher at University of Florida in US. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.586179
+date: 2026-03-23T11:47:00.427759
 url: "/cdr-researcher-census/researchers/heather-a-enloe-a5069109/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 251 |
 | Publications | 12 |
-| CDR Focus | 16.7% |
+| CDR Focus | 1670.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Development of sandy soil properties within subtropical residential landscapes** (2023)
-   1 citations · Soil Carbon
+   1 citations
 
 2. **Development of Sandy Soil Properties Over Time within Subtropical Residential Landscapes** (2023)
    0 citations · Soil Carbon

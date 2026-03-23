@@ -1,7 +1,7 @@
 ---
 title: "Hamza A. Asmaly"
 description: "Hamza A. Asmaly is a Mid-career General CDR researcher at King Fahd University of Petroleum and Minerals in SA. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.226181
+date: 2026-03-23T11:46:59.844929
 url: "/cdr-researcher-census/researchers/hamza-a-asmaly-a5055783/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 8 |
 | Citations | 495 |
 | Publications | 19 |
-| CDR Focus | 10.5% |
+| CDR Focus | 530.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    4 citations · General CDR
 
 2. **New Carbazole-Based Conjugated Frameworks for Carbon Dioxide Capture and Water Purification: Insights on the Adsorptive Sites' Chemistry** (2022)
-   0 citations · General CDR
+   0 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Zihua Tang"
-description: "Zihua Tang is a Senior Soil Carbon researcher at Nanjing University of Chinese Medicine in CN. With 23 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.115819
+description: "Zihua Tang is a Senior General CDR researcher at Nanjing University of Chinese Medicine in CN. With 23 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.642760
 url: "/cdr-researcher-census/researchers/zihua-tang-a5053502/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Nanjing University of Chinese Medicine · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,19 +45,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 10 |
 | Citations | 678 |
 | Publications | 23 |
-| CDR Focus | 13.0% |
+| CDR Focus | 870.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Contrasting CO <sub>2</sub> Dynamics in Seagrass Meadows Between Organic Carbon (OC)‐Rich Reef and OC‐Poor Terrestrial Sediments: Implications for Enhanced Alkalinity Production** (2025)
-   4 citations · General CDR
+   4 citations · Ocean CDR
 
 2. **Globally synchronous acceleration of soil formation approximately 12,000 years ago** (2025)
-   0 citations · Soil Carbon
+   0 citations
 
 3. **Hothouse Earth during the Cretaceous‒Paleogene period: an overview** (2025)
-   0 citations · Enhanced Weathering
+   0 citations · General CDR
 
 ## External Profiles
 

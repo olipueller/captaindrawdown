@@ -1,7 +1,7 @@
 ---
 title: "Thi-Hanh Nguyen"
-description: "Thi-Hanh Nguyen is a Senior Biochar researcher at VNU University of Science in VN. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.503269
+description: "Thi-Hanh Nguyen is a Senior carbon dioxide removal researcher at VNU University of Science in VN. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.311009
 url: "/cdr-researcher-census/researchers/thi-hanh-nguyen-a5049953/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ VNU University of Science · 🇻🇳 VN
 
 **Career Stage:** Senior
 
-## CDR Specialization
-
-**Biochar**
-
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 7 |
 | Citations | 282 |
 | Publications | 8 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Removal of direct blue 71 and methylene blue from water by graphene oxide: effects of charge interaction and experimental parameters** (2022)
-   14 citations · Biochar
+   14 citations
 
 ## External Profiles
 

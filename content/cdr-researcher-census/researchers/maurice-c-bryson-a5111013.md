@@ -1,7 +1,7 @@
 ---
 title: "Maurice C. Bryson"
 description: "Maurice C. Bryson is a Senior Enhanced Weathering researcher at University College Dublin in IE. With 48 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.946196
+date: 2026-03-23T11:46:59.286461
 url: "/cdr-researcher-census/researchers/maurice-c-bryson-a5111013/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 17 |
 | Citations | 1,834 |
 | Publications | 48 |
-| CDR Focus | 10.4% |
+| CDR Focus | 1040.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications

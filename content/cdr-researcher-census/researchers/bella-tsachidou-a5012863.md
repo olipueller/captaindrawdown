@@ -1,7 +1,7 @@
 ---
 title: "Bella Tsachidou"
-description: "Bella Tsachidou is a Mid-career Soil Carbon researcher at Université Libre de Bruxelles in BE. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.887603
+description: "Bella Tsachidou is a Mid-career Biochar researcher at Université Libre de Bruxelles in BE. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.844953
 url: "/cdr-researcher-census/researchers/bella-tsachidou-a5012863/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Université Libre de Bruxelles · 🇧🇪 BE
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 170 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Biogas residues in the battle for terrestrial carbon sequestration: A comparative decomposition study in the grassland soils of the Greater Region** (2021)
-   13 citations · Soil Carbon
+   13 citations · Biochar
 
 ## External Profiles
 

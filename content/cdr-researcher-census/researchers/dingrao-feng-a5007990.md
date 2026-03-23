@@ -1,7 +1,7 @@
 ---
 title: "Dingrao Feng"
-description: "Dingrao Feng is a Mid-career Soil Carbon researcher at China University of Geosciences (Beijing) in CN. With 8 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.369962
+description: "Dingrao Feng is a Mid-career General CDR researcher at China University of Geosciences (Beijing) in CN. With 8 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.086653
 url: "/cdr-researcher-census/researchers/dingrao-feng-a5007990/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ China University of Geosciences (Beijing) · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 359 |
 | Publications | 8 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Relationship of Ecosystem Services in the Beijing–Tianjin–Hebei Region Based on the Production Possibility Frontier** (2021)
-   23 citations · Soil Carbon
+   23 citations · General CDR
 
 ## External Profiles
 

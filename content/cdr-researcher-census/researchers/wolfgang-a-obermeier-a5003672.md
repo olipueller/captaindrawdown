@@ -1,7 +1,7 @@
 ---
 title: "Wolfgang A. Obermeier"
 description: "Wolfgang A. Obermeier is a Mid-career General CDR researcher at Ludwig Maximilian University of Munich in DE. With 58 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.010859
+date: 2026-03-23T11:46:59.435783
 url: "/cdr-researcher-census/researchers/wolfgang-a-obermeier-a5003672/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 15 |
 | Citations | 1,103 |
 | Publications | 58 |
-| CDR Focus | 17.2% |
+| CDR Focus | 1380.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -63,7 +63,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    1 citations · General CDR
 
 5. **Effects of Advance Regeneration and Deadwood Retention on Forest Hydrometeorology after Disturbance** (2026)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 6. **Socioeconomic determinants of re/afforestation efforts** (2025)
    0 citations · General CDR
@@ -78,7 +78,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    0 citations · BECCS
 
 10. **Reviewing differences and uncertainties in land-use CO2 flux estimates** (2024)
-   0 citations · BECCS
+   0 citations · General CDR
 
 ## External Profiles
 

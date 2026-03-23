@@ -1,7 +1,7 @@
 ---
 title: "Mansi Tripathi"
-description: "Mansi Tripathi is a Mid-career Soil Carbon researcher at International Management Institute in IN. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.237029
+description: "Mansi Tripathi is a Mid-career General CDR researcher at International Management Institute in IN. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.862695
 url: "/cdr-researcher-census/researchers/mansi-tripathi-a5012232/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ International Management Institute · 🇮🇳 IN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 3 |
 | Citations | 479 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Nature-Positive Watershed Management Strategies for Enhanced Carbon Sequestration: A Case Study of Watersheds in Maharashtra, India** (2025)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Shicong Geng"
 description: "Shicong Geng is a Mid-career Soil Carbon researcher at Chongqing University in CN. With 23 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.495869
+date: 2026-03-23T11:47:00.298717
 url: "/cdr-researcher-census/researchers/shicong-geng-a5102948/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 10 |
 | Citations | 285 |
 | Publications | 23 |
-| CDR Focus | 13.0% |
+| CDR Focus | 870.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Nitrogen addition decreases soil aggregation but enhances soil organic carbon stability in a temperate forest** (2022)
-   24 citations · Soil Carbon
+   24 citations
 
 2. **Precipitation reduction rather than nitrogen deposition promotes soil organic carbon sequestration by improving aggregate stability: Implications from 13C natural abundance** (2025)
    3 citations · Soil Carbon

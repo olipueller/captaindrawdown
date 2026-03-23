@@ -1,7 +1,7 @@
 ---
 title: "Akram S. Ghanem"
-description: "Akram S. Ghanem is a Mid-career General CDR researcher at King Fahd University of Petroleum and Minerals in SA. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.228463
+description: "Akram S. Ghanem is a Mid-career carbon dioxide removal researcher at King Fahd University of Petroleum and Minerals in SA. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.848510
 url: "/cdr-researcher-census/researchers/akram-s-ghanem-a5022909/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ King Fahd University of Petroleum and Minerals · 🇸🇦 SA
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 7 |
 | Citations | 492 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **A Review on SAPO‐34 Zeolite Materials for CO<sub>2</sub> Capture and Conversion** (2022)
-   59 citations · General CDR
+   59 citations
 
 ## External Profiles
 

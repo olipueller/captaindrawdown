@@ -1,7 +1,7 @@
 ---
 title: "Zhongbing Chang"
 description: "Zhongbing Chang is a Mid-career Soil Carbon researcher at Ministry of Education of the People's Republic of China in CN. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.556819
+date: 2026-03-23T11:47:00.387927
 url: "/cdr-researcher-census/researchers/zhongbing-chang-a5085578/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 261 |
 | Publications | 26 |
-| CDR Focus | 11.5% |
+| CDR Focus | 1150.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Analysis of Spatio-Temporal Relationship Between Ecosystem Services and Human Footprints Under Different Human Activity Gradients: A Case Study of Xiangjiang River Basin** (2024)
-   6 citations · Soil Carbon
+   6 citations
 
 2. **Acid deposition promotes soil carbon sequestration in terrestrial ecosystems of China** (2024)
    1 citations · Soil Carbon

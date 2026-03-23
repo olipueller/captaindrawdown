@@ -1,7 +1,7 @@
 ---
 title: "Sibo Zeng"
 description: "Sibo Zeng is a Mid-career Enhanced Weathering researcher at Southwest University in CN. With 36 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.061665
+date: 2026-03-23T11:46:59.539595
 url: "/cdr-researcher-census/researchers/sibo-zeng-a5072963/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 14 |
 | Citations | 841 |
 | Publications | 36 |
-| CDR Focus | 22.2% |
+| CDR Focus | 1390.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    15 citations · Enhanced Weathering
 
 3. **Carbon sinks associated with biological carbon pump in karst surface waters: Progress, challenges, and prospects** (2024)
-   14 citations · Enhanced Weathering
+   14 citations · General CDR
 
 4. **High stability of carbonate weathering relevant carbon sink under biological pump effect in inland waters: Insights from Shawan Karst Experimental Site, Southwest China** (2024)
    11 citations · Enhanced Weathering
@@ -66,10 +66,10 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    6 citations · Enhanced Weathering
 
 6. **Extreme dry climate conditions undermine the benefits of ecological restoration on carbonate weathering: A case study from 7 years of monitoring data for an underground river in a typical karst trough valley, in Southwest China** (2025)
-   0 citations · Enhanced Weathering
+   0 citations
 
 7. **Carbon fertilization of autochthonous production in karst surface waters and its role in carbon reduction and eutrophication mitigation—a nature-based solution (NbS)** (2025)
-   0 citations · Enhanced Weathering
+   0 citations · General CDR
 
 8. **The evolution of carbonate weathering carbon sinks under climatic and anthropogenic perturbations** (2021)
    0 citations · Enhanced Weathering

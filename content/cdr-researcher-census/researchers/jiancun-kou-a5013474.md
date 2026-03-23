@@ -1,7 +1,7 @@
 ---
 title: "Jiancun Kou"
 description: "Jiancun Kou is a Mid-career Soil Carbon researcher at Agriculture and Forestry University in NP. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.363199
+date: 2026-03-23T11:47:00.075456
 url: "/cdr-researcher-census/researchers/jiancun-kou-a5013474/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 364 |
 | Publications | 22 |
-| CDR Focus | 13.6% |
+| CDR Focus | 1360.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

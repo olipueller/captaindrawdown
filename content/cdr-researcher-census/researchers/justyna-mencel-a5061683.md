@@ -1,7 +1,7 @@
 ---
 title: "Justyna Mencel"
-description: "Justyna Mencel is a Mid-career Soil Carbon researcher at University of Life Sciences in Poznań in PL. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.966564
+description: "Justyna Mencel is a Mid-career carbon dioxide removal researcher at University of Life Sciences in Poznań in PL. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.944064
 url: "/cdr-researcher-census/researchers/justyna-mencel-a5061683/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ University of Life Sciences in Poznań ·  PL
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 155 |
 | Publications | 8 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Effect of Grassland Vegetation Units on Soil Biochemical Properties and the Abundance of Selected Microorganisms in the Obra River Valley** (2025)
-   0 citations · Soil Carbon
+   0 citations
 
 ## External Profiles
 

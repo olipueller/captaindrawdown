@@ -1,7 +1,7 @@
 ---
 title: "Cecilia Chapa‐Balcorta"
 description: "Cecilia Chapa‐Balcorta is a Mid-career Ocean CDR researcher at Universidad del Mar in CL. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.895757
+date: 2026-03-23T11:47:00.855090
 url: "/cdr-researcher-census/researchers/cecilia-chapabalcorta-a5050893/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,16 +45,16 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 6 |
 | Citations | 168 |
 | Publications | 17 |
-| CDR Focus | 11.8% |
+| CDR Focus | 1180.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Ocean acidification in the Gulf of Mexico: Drivers, impacts, and unknowns** (2022)
-   33 citations · General CDR
+   33 citations · Ocean CDR
 
 2. **Editorial: Ocean acidification in Latin America** (2026)
-   0 citations · General CDR
+   0 citations · Ocean CDR
 
 ## External Profiles
 

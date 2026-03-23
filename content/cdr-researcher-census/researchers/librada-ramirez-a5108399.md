@@ -1,7 +1,7 @@
 ---
 title: "Librada Ramírez"
 description: "Librada Ramírez is a Senior Ocean CDR researcher at Universidad de Málaga in ES. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.646281
+date: 2026-03-23T11:47:00.510259
 url: "/cdr-researcher-census/researchers/librada-ramirez-a5108399/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 7 |
 | Citations | 229 |
 | Publications | 20 |
-| CDR Focus | 35.0% |
+| CDR Focus | 1500.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    5 citations · Ocean CDR
 
 3. **Ocean Alkalinity Enhancement (OAE) does not cause cellular stress in a phytoplankton community of the sub-tropical Atlantic Ocean** (2024)
-   5 citations · General CDR
+   5 citations
 
 4. **Ocean alkalinity enhancement using sodium carbonate salts does not impact Fe dynamics in a mesocosm experiment** (2023)
    3 citations · Ocean CDR
@@ -66,7 +66,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    2 citations · Ocean CDR
 
 6. **Phytoplankton Cell Death Under the Global Change Scenario** (2025)
-   0 citations · Ocean CDR
+   0 citations
 
 7. **Supplementary material to "Ocean alkalinity enhancement using sodium carbonate salts does not impact Fe dynamics in a mesocosm experiment"** (2023)
    0 citations · Ocean CDR

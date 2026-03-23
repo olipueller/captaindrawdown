@@ -1,7 +1,7 @@
 ---
 title: "Shelby C. McClelland"
 description: "Shelby C. McClelland is a Senior Soil Carbon researcher at Stony Brook University in US. With 39 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.964554
+date: 2026-03-23T11:46:59.319475
 url: "/cdr-researcher-census/researchers/shelby-c-mcclelland-a5043807/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,34 +45,34 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 13 |
 | Citations | 1,569 |
 | Publications | 39 |
-| CDR Focus | 20.5% |
+| CDR Focus | 2050.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Infrequent compost applications increased plant productivity and soil organic carbon in irrigated pasture but not degraded rangeland** (2022)
-   25 citations · General CDR
+   25 citations · Soil Carbon
 
 2. **Soil carbon offset markets are not a just climate solution** (2024)
-   15 citations · Soil Carbon
+   15 citations · General CDR
 
 3. **Opportunities for carbon sequestration from removing or intensifying pasture-based beef production** (2024)
-   7 citations · Soil Carbon
+   7 citations · General CDR
 
 4. **Climate mitigation potential of cover crops in the United States is regionally concentrated and lower than previous estimates** (2024)
-   7 citations · Soil Carbon
+   7 citations · General CDR
 
 5. **Soil organic carbon sequestration mediated by plant–microbe interactions after compost application** (2025)
    1 citations · Soil Carbon
 
 6. **Sensationalized soil carbon sequestration estimates excuse further climate inaction** (2023)
-   1 citations · Soil Carbon
+   1 citations · General CDR
 
 7. **Centering resilience in US federal agricultural policy** (2026)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 8. **Regenerative Grazing as a Climate Change Mitigation Strategy: A Systematic Review** (2025)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Paloma Campos"
-description: "Paloma Campos is a Mid-career Biochar researcher at Consejo Superior de Investigaciones Científicas in ES. With 34 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.255055
+description: "Paloma Campos is a Mid-career Soil Carbon researcher at Consejo Superior de Investigaciones Científicas in ES. With 34 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.899485
 url: "/cdr-researcher-census/researchers/paloma-campos-a5014465/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Consejo Superior de Investigaciones Científicas · 🇪🇸 ES
 
 ## CDR Specialization
 
-**Biochar**
+**Soil Carbon**
 
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 10 |
 | Citations | 453 |
 | Publications | 34 |
-| CDR Focus | 11.8% |
+| CDR Focus | 880.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -57,10 +57,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    9 citations · Biochar
 
 3. **Impact of organic amendments on carbon stability and carbon use efficiency in acidic and alkaline soils** (2025)
-   0 citations · Biochar
+   0 citations · Soil Carbon
 
 4. **From waste to worth: Harnessing residual biomass to boost soil quality and carbon sequestration** (2025)
-   0 citations · Biochar
+   0 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Sampo Pihlainen"
-description: "Sampo Pihlainen is a Mid-career Soil Carbon researcher at Finnish Environment Institute in FI. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.299479
+description: "Sampo Pihlainen is a Mid-career General CDR researcher at Finnish Environment Institute in FI. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.973807
 url: "/cdr-researcher-census/researchers/sampo-pihlainen-a5085657/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Finnish Environment Institute ·  FI
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 411 |
 | Publications | 19 |
-| CDR Focus | 10.5% |
+| CDR Focus | 530.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    16 citations · Soil Carbon
 
 2. **Forest conservation as a CO2 offset measure: a case of an urban development project in Finland** (2024)
-   4 citations · Soil Carbon
+   4 citations · General CDR
 
 ## External Profiles
 

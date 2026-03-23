@@ -1,7 +1,7 @@
 ---
 title: "Daniel Schmider"
 description: "Daniel Schmider is a Mid-career DAC researcher at European Institute for Energy Research in DE. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.498784
+date: 2026-03-23T11:47:00.304205
 url: "/cdr-researcher-census/researchers/daniel-schmider-a5069947/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 5 |
 | Citations | 283 |
 | Publications | 17 |
-| CDR Focus | 11.8% |
+| CDR Focus | 1180.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    6 citations · DAC
 
 2. **Systematic Determination of Optimal Design-Points of Fully Integrated Power-to-SNG Process Chains Via Detailed Simulation of SOEC Stacks** (2023)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Dominic Lenzi"
 description: "Dominic Lenzi is a Mid-career General CDR researcher at University of Twente in NL. With 42 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.925133
+date: 2026-03-23T11:46:59.236598
 url: "/cdr-researcher-census/researchers/dominic-lenzi-a5023443/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 14 |
 | Citations | 2,313 |
 | Publications | 42 |
-| CDR Focus | 11.9% |
+| CDR Focus | 1190.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -63,7 +63,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    0 citations · General CDR
 
 5. **The Earth System in the Anthropocene and the Primacy of Joint Collective Ownership** (2025)
-   0 citations · DAC
+   0 citations · General CDR
 
 ## External Profiles
 

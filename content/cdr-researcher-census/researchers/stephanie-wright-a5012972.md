@@ -1,7 +1,7 @@
 ---
 title: "Stephanie Wright"
 description: "Stephanie Wright is a Mid-career Soil Carbon researcher at Queen's University in CA. With 23 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.300525
+date: 2026-03-23T11:47:01.314338
 url: "/cdr-researcher-census/researchers/stephanie-wright-a5012972/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 112 |
 | Publications | 23 |
-| CDR Focus | 13.0% |
+| CDR Focus | 870.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    1 citations · Soil Carbon
 
 3. **Comment on egusphere-2024-1047** (2024)
-   0 citations · Soil Carbon
+   0 citations
 
 ## External Profiles
 

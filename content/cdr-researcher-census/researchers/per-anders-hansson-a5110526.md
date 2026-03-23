@@ -1,7 +1,7 @@
 ---
 title: "Per-Anders Hansson"
-description: "Per-Anders Hansson is a Mid-career Soil Carbon researcher at Swedish University of Agricultural Sciences in SE. With 7 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.253275
+description: "Per-Anders Hansson is a Mid-career BECCS researcher at Swedish University of Agricultural Sciences in SE. With 7 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.895467
 url: "/cdr-researcher-census/researchers/per-anders-hansson-a5110526/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Swedish University of Agricultural Sciences · 🇸🇪 SE
 
 ## CDR Specialization
 
-**Soil Carbon**
+**BECCS**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 2 |
 | Citations | 456 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Climate impact of yeast oil from fast-growing perennial biomass (willow)** (2025)
-   1 citations · Soil Carbon
+   1 citations · BECCS
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Carlo Valsecchi"
-description: "Carlo Valsecchi is a Senior General CDR researcher at Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico in IT. With 19 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.079131
+description: "Carlo Valsecchi is a Senior carbon dioxide removal researcher at Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico in IT. With 19 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.573467
 url: "/cdr-researcher-census/researchers/carlo-valsecchi-a5046508/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico · 🇮🇹 IT
 
 **Career Stage:** Senior
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,16 +36,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 4 |
 | Citations | 781 |
 | Publications | 19 |
-| CDR Focus | 10.5% |
+| CDR Focus | 530.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Enhanced extracorporeal carbon dioxide removal by acidification and metabolic control** (2023)
-   3 citations · General CDR
+   3 citations
 
 2. **Alkaline Liquid Ventilation of the Membrane Lung for Extracorporeal Carbon Dioxide Removal (ECCO2R): In Vitro Study** (2021)
-   3 citations · General CDR
+   3 citations
 
 ## External Profiles
 

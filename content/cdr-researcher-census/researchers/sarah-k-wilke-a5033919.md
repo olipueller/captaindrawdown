@@ -1,7 +1,7 @@
 ---
 title: "Sarah K. Wilke"
-description: "Sarah K. Wilke is a Senior General CDR researcher at E Ink (South Korea) in KR. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.161655
+description: "Sarah K. Wilke is a Senior carbon dioxide removal researcher at E Ink (South Korea) in KR. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.727911
 url: "/cdr-researcher-census/researchers/sarah-k-wilke-a5033919/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ E Ink (South Korea) · 🇰🇷 KR
 
 **Career Stage:** Senior
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 5 |
 | Citations | 589 |
 | Publications | 8 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Quantitative Gas Exchange in Extracorporeal Membrane Oxygenation-A New Device: Accuracy, Approach-based Difficulties, and Caloric Targeting** (2022)
-   4 citations · General CDR
+   4 citations
 
 ## External Profiles
 

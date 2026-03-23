@@ -1,7 +1,7 @@
 ---
 title: "Anna Gunina"
 description: "Anna Gunina is a Senior Soil Carbon researcher at University of Kassel in DE. With 152 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.884935
+date: 2026-03-23T11:46:59.131300
 url: "/cdr-researcher-census/researchers/anna-gunina-a5045801/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,16 +45,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 36 |
 | Citations | 5,293 |
 | Publications | 152 |
-| CDR Focus | 13.2% |
+| CDR Focus | 1120.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Organic matter chemistry and bacterial community structure regulate decomposition processes in post-fire forest soils** (2021)
-   114 citations · Soil Carbon
+   114 citations
 
 2. **Carbon stabilization pathways in soil aggregates during long-term forest succession: Implications from δ13C signatures** (2023)
-   83 citations · Soil Carbon
+   83 citations
 
 3. **Diversified cropping systems benefit soil carbon and nitrogen stocks by increasing aggregate stability: Results of three fractionation methods** (2022)
    72 citations · Soil Carbon

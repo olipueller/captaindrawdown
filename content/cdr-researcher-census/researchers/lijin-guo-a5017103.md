@@ -1,7 +1,7 @@
 ---
 title: "Lijin Guo"
 description: "Lijin Guo is a Senior Soil Carbon researcher at South China Agricultural University in CN. With 48 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.969043
+date: 2026-03-23T11:46:59.333115
 url: "/cdr-researcher-census/researchers/lijin-guo-a5017103/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 21 |
 | Citations | 1,502 |
 | Publications | 48 |
-| CDR Focus | 14.6% |
+| CDR Focus | 1040.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -66,7 +66,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    1 citations · Soil Carbon
 
 6. **Magnesium enhances soil carbon sequestration by modulating carbon-cycling microorganisms under reduced fertilisation conditions** (2025)
-   0 citations · Soil Carbon
+   0 citations
 
 7. **Magnesium Enhances Soil Carbon Sequestration by Modulating Carbon-Cycling Microorganisms Under Reduced Fertilisation Conditions** (2025)
    0 citations · Soil Carbon

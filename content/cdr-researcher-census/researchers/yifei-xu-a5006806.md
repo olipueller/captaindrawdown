@@ -1,7 +1,7 @@
 ---
 title: "Yifei Xu"
-description: "Yifei Xu is a Mid-career Soil Carbon researcher at Yunnan University in CN. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.743129
+description: "Yifei Xu is a Mid-career General CDR researcher at Yunnan University in CN. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.635713
 url: "/cdr-researcher-census/researchers/yifei-xu-a5006806/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Yunnan University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,19 +45,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 203 |
 | Publications | 13 |
-| CDR Focus | 23.1% |
+| CDR Focus | 770.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Achieving the supply-demand balance of ecosystem services through zoning regulation based on land use thresholds** (2024)
-   63 citations · Soil Carbon
+   63 citations
 
 2. **A new framework for multi-level territorial spatial zoning management: Integrating ecosystem services supply-demand balance and land use structure** (2024)
-   40 citations · Soil Carbon
+   40 citations · General CDR
 
 3. **Quantifying the supply-demand relationship of ecosystem services to identify ecological management zoning: A case study in mountainous areas of northwest Yunnan, China** (2024)
-   8 citations · Soil Carbon
+   8 citations · General CDR
 
 ## External Profiles
 

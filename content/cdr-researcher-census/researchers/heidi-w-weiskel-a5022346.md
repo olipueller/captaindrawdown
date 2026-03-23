@@ -1,7 +1,7 @@
 ---
 title: "Heidi W. Weiskel"
-description: "Heidi W. Weiskel is a Senior Ocean CDR researcher at International Union for Conservation of Nature in US. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.494713
+description: "Heidi W. Weiskel is a Senior General CDR researcher at International Union for Conservation of Nature in US. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.296345
 url: "/cdr-researcher-census/researchers/heidi-w-weiskel-a5022346/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ International Union for Conservation of Nature · 🇺🇸 US
 
 ## CDR Specialization
 
-**Ocean CDR**
+**General CDR**
 
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,7 +42,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 5 |
 | Citations | 285 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

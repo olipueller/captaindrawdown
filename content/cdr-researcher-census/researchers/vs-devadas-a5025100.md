@@ -1,7 +1,7 @@
 ---
 title: "V.S. Devadas"
-description: "V.S. Devadas is a Mid-career Soil Carbon researcher at GIET University in IN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.404316
+description: "V.S. Devadas is a Mid-career carbon dioxide removal researcher at GIET University in IN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.421922
 url: "/cdr-researcher-census/researchers/vs-devadas-a5025100/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ GIET University · 🇮🇳 IN
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 102 |
 | Publications | 8 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Controlled Environment Ecosystem: A plant growth system to combat climate change through soilless culture** (2023)
-   24 citations · Soil Carbon
+   24 citations
 
 ## External Profiles
 

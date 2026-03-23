@@ -1,7 +1,7 @@
 ---
 title: "Timothy J. Rogers"
-description: "Timothy J. Rogers is a Mid-career Soil Carbon researcher at University of North Carolina at Charlotte in US. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.681870
+description: "Timothy J. Rogers is a Mid-career Ocean CDR researcher at University of North Carolina at Charlotte in US. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.555499
 url: "/cdr-researcher-census/researchers/timothy-j-rogers-a5035749/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of North Carolina at Charlotte · 🇺🇸 US
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Ocean CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
 
 ## Metrics
 
@@ -45,16 +45,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 220 |
 | Publications | 14 |
-| CDR Focus | 14.3% |
+| CDR Focus | 710.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **The Helium and Carbon Isotope Characteristics of the Andean Convergent Margin** (2022)
-   47 citations · Ocean CDR
+   47 citations
 
 2. **Virus-mediated recycling of chemoautotrophic biomass** (2025)
-   0 citations · Soil Carbon
+   0 citations · Ocean CDR
 
 ## External Profiles
 

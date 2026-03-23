@@ -1,7 +1,7 @@
 ---
 title: "Cameron Wade"
 description: "Cameron Wade is a Mid-career DAC researcher at University of Helsinki in FI. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.580766
+date: 2026-03-23T11:47:00.421313
 url: "/cdr-researcher-census/researchers/cameron-wade-a5022584/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 8 |
 | Citations | 252 |
 | Publications | 17 |
-| CDR Focus | 11.8% |
+| CDR Focus | 590.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    29 citations · DAC
 
 2. **Diverse Decarbonization Pathways Under Near Cost-Optimal Futures** (2023)
-   2 citations · DAC
+   2 citations
 
 ## External Profiles
 

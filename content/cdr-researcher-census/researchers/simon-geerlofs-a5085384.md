@@ -1,7 +1,7 @@
 ---
 title: "Simon Geerlofs"
 description: "Simon Geerlofs is a Senior General CDR researcher at Pacific Northwest National Laboratory in US. With 28 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.766803
+date: 2026-03-23T11:47:00.668102
 url: "/cdr-researcher-census/researchers/simon-geerlofs-a5085384/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 6 |
 | Citations | 196 |
 | Publications | 28 |
-| CDR Focus | 10.7% |
+| CDR Focus | 1070.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    1 citations · General CDR
 
 3. **Powering Negative-Emissions Technologies with Marine Renewable Energy** (2021)
-   0 citations · BECCS
+   0 citations · General CDR
 
 ## External Profiles
 

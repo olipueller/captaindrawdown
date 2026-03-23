@@ -1,7 +1,7 @@
 ---
 title: "Wenye Cheng"
 description: "Wenye Cheng is a Senior Soil Carbon researcher at Gansu Research Academy of Forestry Science and Technology in CN. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.106156
+date: 2026-03-23T11:47:01.107025
 url: "/cdr-researcher-census/researchers/wenye-cheng-a5049744/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 3 |
 | Citations | 134 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

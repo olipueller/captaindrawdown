@@ -1,7 +1,7 @@
 ---
 title: "Sílvio Vaz"
-description: "Sílvio Vaz is an Early-career BECCS researcher at Universidade Federal de Ouro Preto in BR. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.867699
+description: "Sílvio Vaz is an Early-career General CDR researcher at Universidade Federal de Ouro Preto in BR. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.814836
 url: "/cdr-researcher-census/researchers/silvio-vaz-a5105827/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Universidade Federal de Ouro Preto · 🇧🇷 BR
 
 ## CDR Specialization
 
-**BECCS**
+**General CDR**
 
-Combining biomass energy with carbon capture and storage to achieve negative emissions.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 3 |
 | Citations | 174 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Technologies for carbon dioxide capture: A review applied to energy sectors** (2022)
-   144 citations · BECCS
+   144 citations · General CDR
 
 ## External Profiles
 

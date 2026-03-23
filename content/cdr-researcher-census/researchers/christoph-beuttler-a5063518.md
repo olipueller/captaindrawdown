@@ -1,7 +1,7 @@
 ---
 title: "Christoph Beuttler"
 description: "Christoph Beuttler is an Early-career DAC researcher. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.491261
+date: 2026-03-23T11:47:00.289645
 url: "/cdr-researcher-census/researchers/christoph-beuttler-a5063518/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -37,7 +37,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 3 |
 | Citations | 287 |
 | Publications | 5 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Unknown |
 
 ## Top CDR Publications

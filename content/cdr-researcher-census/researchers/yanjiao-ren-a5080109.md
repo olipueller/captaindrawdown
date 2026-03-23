@@ -1,7 +1,7 @@
 ---
 title: "Yanjiao Ren"
-description: "Yanjiao Ren is a Mid-career Soil Carbon researcher at Capital University of Economics and Business in CN. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.162364
+description: "Yanjiao Ren is a Mid-career General CDR researcher at Capital University of Economics and Business in CN. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.729816
 url: "/cdr-researcher-census/researchers/yanjiao-ren-a5080109/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Capital University of Economics and Business · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 589 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Revealing the Spatial Interactions and Driving Factors of Ecosystem Services: Enlightenments under Vegetation Restoration** (2024)
-   8 citations · Soil Carbon
+   8 citations · General CDR
 
 ## External Profiles
 

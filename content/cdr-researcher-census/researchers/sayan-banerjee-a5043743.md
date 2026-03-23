@@ -1,7 +1,7 @@
 ---
 title: "Sayan Banerjee"
-description: "Sayan Banerjee is a Mid-career DAC researcher at Georgia Institute of Technology in US. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.938797
+description: "Sayan Banerjee is a Mid-career carbon dioxide removal researcher at Georgia Institute of Technology in US. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.270995
 url: "/cdr-researcher-census/researchers/sayan-banerjee-a5043743/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Georgia Institute of Technology · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,16 +39,16 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 10 |
 | Citations | 1,959 |
 | Publications | 18 |
-| CDR Focus | 11.1% |
+| CDR Focus | 560.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Tuning sorbent properties to reduce the cost of direct air capture** (2024)
-   49 citations · DAC
+   49 citations
 
 2. **Tuning sorbent properties to reduce the cost of direct air capture** (2024)
-   3 citations · DAC
+   3 citations
 
 ## External Profiles
 

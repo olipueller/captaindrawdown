@@ -1,7 +1,7 @@
 ---
 title: "Clarissa Bergman-Fonte"
 description: "Clarissa Bergman-Fonte is a Mid-career General CDR researcher at Universidade Federal do Rio de Janeiro in BR. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.732033
+date: 2026-03-23T11:47:00.623946
 url: "/cdr-researcher-census/researchers/clarissa-bergman-fonte-a5058332/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 7 |
 | Citations | 205 |
 | Publications | 19 |
-| CDR Focus | 21.1% |
+| CDR Focus | 530.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,13 +54,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    19 citations · General CDR
 
 2. **Climate strategies for oil and gas production under the lens of an Integrated Assessment Model: The case of Brazil** (2024)
-   4 citations · BECCS
+   4 citations · General CDR
 
 3. **Are There Synergies in the Decarbonization of Aviation and Shipping? An Integrated Perspective for the Case of Brazil** (2022)
    3 citations · General CDR
 
 4. **Climate Strategies for Oil and Gas Production Under the Lens of an Integrated Assessment Model: The Case of Brazil** (2023)
-   0 citations · BECCS
+   0 citations · General CDR
 
 ## External Profiles
 

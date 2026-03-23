@@ -1,7 +1,7 @@
 ---
 title: "Rebecca A. Lybrand"
 description: "Rebecca A. Lybrand is a Mid-career Soil Carbon researcher at University of California, Davis in US. With 59 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.082379
+date: 2026-03-23T11:46:59.577770
 url: "/cdr-researcher-census/researchers/rebecca-a-lybrand-a5083657/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,31 +45,31 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 16 |
 | Citations | 775 |
 | Publications | 59 |
-| CDR Focus | 11.9% |
+| CDR Focus | 680.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Impacts of photovoltaic solar energy on soil carbon: A global systematic review and framework** (2024)
-   26 citations · Soil Carbon
+   26 citations
 
 2. **Deciphering the Incipient Phases of Ice–Mineral Interactions as a Precursor of Physical Weathering** (2021)
-   6 citations · Enhanced Weathering
+   6 citations
 
 3. **Organic carbon enables the biotic engineering of beneficial soil structure in Profundihumic and Haplic Ferralsols** (2023)
-   5 citations · Enhanced Weathering
+   5 citations · Soil Carbon
 
 4. **Assessing decadal soil redistribution rates using <sup>239+240</sup> Pu across diverse lithologies in Southeast Alaska** (2024)
    3 citations · Soil Carbon
 
 5. **Impacts of Photovoltaic Solar Energy on Soil Carbon: A Global Systematic Review and Framework** (2024)
-   1 citations · Soil Carbon
+   1 citations
 
 6. **Soil surface properties and implications for soil carbon sequestration in early-stage ecovoltaic grassland restoration** (2025)
    0 citations · Soil Carbon
 
 7. **Assessing Decadal Soil Redistribution Rates Using 239+240pu Across Varied Lithologies in the Coastal Temperate Rainforest of Southeast Alaska** (2023)
-   0 citations · Soil Carbon
+   0 citations
 
 ## External Profiles
 

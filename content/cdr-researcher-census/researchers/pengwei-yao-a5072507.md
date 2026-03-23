@@ -1,7 +1,7 @@
 ---
 title: "Pengwei Yao"
 description: "Pengwei Yao is a Mid-career Soil Carbon researcher at Henan Agricultural University in CN. With 28 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.080856
+date: 2026-03-23T11:46:59.575872
 url: "/cdr-researcher-census/researchers/pengwei-yao-a5072507/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 16 |
 | Citations | 777 |
 | Publications | 28 |
-| CDR Focus | 17.9% |
+| CDR Focus | 1430.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,13 +54,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    11 citations · Soil Carbon
 
 2. **Greenhouse gas emissions and net ecosystem carbon budget from tobacco-planted soil with different organic amendments** (2021)
-   6 citations · Biochar
+   6 citations · Soil Carbon
 
 3. **Characteristics of soil respiration and net ecosystem carbon budget from tobacco-planted soil with different organic amendments** (2024)
-   5 citations · Biochar
+   5 citations · Soil Carbon
 
 4. **Legume Cover Crops Differentially Alter Soil Organic Carbon Fractions Across Species and Over Time: Microbial-Mediated Mechanisms and Carbon Sequestration Implications** (2025)
-   0 citations · Soil Carbon
+   0 citations
 
 5. **Legume Cover Crops Differentially Alter Soil Organic Carbon Fractions Across Species and Over Time: Microbial-Mediated Mechanisms and Carbon Sequestration Implications** (2025)
    0 citations · Soil Carbon

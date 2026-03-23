@@ -1,7 +1,7 @@
 ---
 title: "Jiajia Duan"
-description: "Jiajia Duan is a Mid-career Soil Carbon researcher at North West Agriculture and Forestry University in CN. With 9 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.159203
+description: "Jiajia Duan is a Mid-career General CDR researcher at North West Agriculture and Forestry University in CN. With 9 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.158010
 url: "/cdr-researcher-census/researchers/jiajia-duan-a5077703/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ North West Agriculture and Forestry University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 128 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Assessment and Multiscenario Simulation of Land Use and Ecosystem Services Interactions in Inner Mongolia** (2024)
-   10 citations · Soil Carbon
+   10 citations · General CDR
 
 ## External Profiles
 

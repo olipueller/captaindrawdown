@@ -1,7 +1,7 @@
 ---
 title: "Lukas Wehrle"
 description: "Lukas Wehrle is a Mid-career DAC researcher at Karlsruhe Institute of Technology in DE. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.449592
+date: 2026-03-23T11:47:00.219991
 url: "/cdr-researcher-census/researchers/lukas-wehrle-a5017928/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 8 |
 | Citations | 307 |
 | Publications | 19 |
-| CDR Focus | 10.5% |
+| CDR Focus | 1050.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    6 citations · DAC
 
 2. **Systematic Determination of Optimal Design-Points of Fully Integrated Power-to-SNG Process Chains Via Detailed Simulation of SOEC Stacks** (2023)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

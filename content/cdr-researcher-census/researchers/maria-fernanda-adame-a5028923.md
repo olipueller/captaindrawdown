@@ -1,7 +1,7 @@
 ---
 title: "María Fernanda Adame"
 description: "María Fernanda Adame is an Eminent Soil Carbon researcher at Griffith University in AU. With 155 publications and an h-index of 45, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.878969
+date: 2026-03-23T11:46:59.114727
 url: "/cdr-researcher-census/researchers/maria-fernanda-adame-a5028923/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,16 +45,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 45 |
 | Citations | 6,432 |
 | Publications | 155 |
-| CDR Focus | 10.3% |
+| CDR Focus | 710.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Future carbon emissions from global mangrove forest loss** (2021)
-   223 citations · Soil Carbon
+   223 citations · General CDR
 
 2. **An Australian blue carbon method to estimate climate change mitigation benefits of coastal wetland restoration** (2022)
-   128 citations · Soil Carbon
+   128 citations · General CDR
 
 3. **Deconstructing the mangrove carbon cycle: Gains, transformation, and losses** (2024)
    47 citations · Soil Carbon
@@ -66,19 +66,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    29 citations · Soil Carbon
 
 6. **Ecosystem type drives tea litter decomposition and associated prokaryotic microbiome communities in freshwater and coastal wetlands at a continental scale** (2021)
-   29 citations · Soil Carbon
+   29 citations
 
 7. **Mangrove sinkholes ( <i>cenotes</i> ) of the Yucatan Peninsula, a global hotspot of carbon sequestration** (2021)
    27 citations · Soil Carbon
 
 8. **Organic matter decomposition and associated microbial communities in wetlands: insights from tropical and subtropical Melaleuca forests in Australia** (2023)
-   6 citations · Soil Carbon
+   6 citations
 
 9. **Greenhouse gas emissions from tropical coastal wetlands and their alternative agricultural lands: Where significant mitigation gains lie** (2021)
-   3 citations · Soil Carbon
+   3 citations · General CDR
 
 10. **Abundant and active acetogens enhance the carbon dioxide sink of Blue Carbon ecosystems** (2025)
-   2 citations · Soil Carbon
+   2 citations · Ocean CDR
 
 ## External Profiles
 

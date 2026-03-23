@@ -1,7 +1,7 @@
 ---
 title: "Gaojie Chen"
-description: "Gaojie Chen is a Senior Soil Carbon researcher at Hunan University in CN. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.444381
+description: "Gaojie Chen is a Senior carbon dioxide removal researcher at Hunan University in CN. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.211133
 url: "/cdr-researcher-census/researchers/gaojie-chen-a5103149/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Hunan University · 🇨🇳 CN
 
 **Career Stage:** Senior
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 310 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Toward Low-Carbon Rice Production in China: Historical Changes, Driving Factors, and Mitigation Potential** (2024)
-   20 citations · Soil Carbon
+   20 citations
 
 ## External Profiles
 

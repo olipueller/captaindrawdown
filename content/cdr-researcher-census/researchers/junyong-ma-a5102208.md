@@ -1,7 +1,7 @@
 ---
 title: "Junyong Ma"
 description: "Junyong Ma is a Senior Soil Carbon researcher at Ministry of Education of the People's Republic of China in CN. With 28 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.419276
+date: 2026-03-23T11:47:00.169654
 url: "/cdr-researcher-census/researchers/junyong-ma-a5102208/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 325 |
 | Publications | 28 |
-| CDR Focus | 17.9% |
+| CDR Focus | 1070.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

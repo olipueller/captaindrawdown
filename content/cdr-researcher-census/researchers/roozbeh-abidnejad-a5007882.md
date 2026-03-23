@@ -1,7 +1,7 @@
 ---
 title: "Roozbeh Abidnejad"
 description: "Roozbeh Abidnejad is a Mid-career Biochar researcher at Aalto University in FI. With 35 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.143774
+date: 2026-03-23T11:46:59.690796
 url: "/cdr-researcher-census/researchers/roozbeh-abidnejad-a5007882/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,13 +42,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 11 |
 | Citations | 627 |
 | Publications | 35 |
-| CDR Focus | 11.4% |
+| CDR Focus | 1140.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Biochar-infused cellulose foams with PEG-based phase change materials for enhanced thermal energy storage and photothermal performance** (2025)
-   6 citations · Biochar
+   6 citations
 
 2. **Biochar-reinforced polyamide 12 composites for sustainable selective laser sintering 3D printing: Performance enhancement and carbon footprint reduction** (2025)
    5 citations · Biochar

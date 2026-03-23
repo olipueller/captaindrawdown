@@ -1,7 +1,7 @@
 ---
 title: "Tianchen Zheng"
-description: "Tianchen Zheng is a Mid-career Soil Carbon researcher at Ghent University in BE. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.656175
+description: "Tianchen Zheng is a Mid-career carbon dioxide removal researcher at Ghent University in BE. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.521473
 url: "/cdr-researcher-census/researchers/tianchen-zheng-a5103893/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Ghent University · 🇧🇪 BE
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,16 +36,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 3 |
 | Citations | 227 |
 | Publications | 4 |
-| CDR Focus | 50.0% |
+| CDR Focus | 2500.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Trade-offs and synergies of forest ecosystem services from the perspective of plant functional traits: A systematic review** (2022)
-   55 citations · Soil Carbon
+   55 citations
 
 2. **Trade-Offs and Synergies of Forest Ecosystem Services from the Perspective of Plant Functional Traits: A Systematic Review** (2022)
-   3 citations · Soil Carbon
+   3 citations
 
 ## External Profiles
 

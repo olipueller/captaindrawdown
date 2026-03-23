@@ -1,7 +1,7 @@
 ---
 title: "Gurdeep Singh Malhi"
 description: "Gurdeep Singh Malhi is a Mid-career General CDR researcher at Chaudhary Charan Singh Haryana Agricultural University in IN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.959064
+date: 2026-03-23T11:46:59.309600
 url: "/cdr-researcher-census/researchers/gurdeep-singh-malhi-a5020841/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 7 |
 | Citations | 1,633 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Rice residue management in the Indo-Gangetic Plains for climate and food security. A review** (2022)
-   81 citations · Biochar
+   81 citations · General CDR
 
 ## External Profiles
 

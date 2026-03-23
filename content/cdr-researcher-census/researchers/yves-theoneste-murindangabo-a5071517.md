@@ -1,7 +1,7 @@
 ---
 title: "Yves Theoneste Murindangabo"
 description: "Yves Theoneste Murindangabo is a Mid-career Soil Carbon researcher at Czech Academy of Sciences in CZ. With 29 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.395958
+date: 2026-03-23T11:47:00.126277
 url: "/cdr-researcher-census/researchers/yves-theoneste-murindangabo-a5071517/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 10 |
 | Citations | 340 |
 | Publications | 29 |
-| CDR Focus | 13.8% |
+| CDR Focus | 1030.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Felix Havermann"
 description: "Felix Havermann is a Mid-career General CDR researcher at LMU Munich in DE. With 52 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.180629
+date: 2026-03-23T11:46:59.756280
 url: "/cdr-researcher-census/researchers/felix-havermann-a5061945/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 12 |
 | Citations | 564 |
 | Publications | 52 |
-| CDR Focus | 13.5% |
+| CDR Focus | 1350.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -63,7 +63,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    0 citations · General CDR
 
 5. **Scaling Carbon Dioxide Removal in Germany: Insights from the CDRterra Framework and Scenario** (2025)
-   0 citations · BECCS
+   0 citations · General CDR
 
 6. **Exploring site-specific carbon dioxide removal options with storage or sequestration in the marine environment - The 10 Mt CO2 yr-1 removal challenge for Germany** (2024)
    0 citations · General CDR

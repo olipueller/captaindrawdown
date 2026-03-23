@@ -1,7 +1,7 @@
 ---
 title: "Feifei Deng"
-description: "Feifei Deng is a Senior General CDR researcher at National Oceanography Centre in GB. With 31 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.041827
+description: "Feifei Deng is a Senior Enhanced Weathering researcher at National Oceanography Centre in GB. With 31 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.498199
 url: "/cdr-researcher-census/researchers/feifei-deng-a5001075/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ National Oceanography Centre · 🇬🇧 GB
 
 ## CDR Specialization
 
-**General CDR**
+**Enhanced Weathering**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 10 |
 | Citations | 928 |
 | Publications | 31 |
-| CDR Focus | 19.4% |
+| CDR Focus | 1610.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -66,7 +66,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    0 citations · Enhanced Weathering
 
 6. **Quantification of carbon dioxide removal via growth of <i>Bluetime</i>&gt; peas in basalt amended soil** (2024)
-   0 citations · General CDR
+   0 citations · Enhanced Weathering
 
 ## External Profiles
 

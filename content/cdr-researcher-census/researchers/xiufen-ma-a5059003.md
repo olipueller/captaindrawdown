@@ -1,7 +1,7 @@
 ---
 title: "Xiu‐Fen Ma"
 description: "Xiu‐Fen Ma is a Mid-career Biochar researcher at Hainan University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.074451
+date: 2026-03-23T11:47:01.069953
 url: "/cdr-researcher-census/researchers/xiufen-ma-a5059003/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 5 |
 | Citations | 138 |
 | Publications | 8 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

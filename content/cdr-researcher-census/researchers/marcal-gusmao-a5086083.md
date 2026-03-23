@@ -1,7 +1,7 @@
 ---
 title: "Marçal Gusmão"
 description: "Marçal Gusmão is a Mid-career Soil Carbon researcher at National University of East Timor in TL. With 20 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.132743
+date: 2026-03-23T11:47:01.133117
 url: "/cdr-researcher-census/researchers/marcal-gusmao-a5086083/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 3 |
 | Citations | 131 |
 | Publications | 20 |
-| CDR Focus | 10.0% |
+| CDR Focus | 500.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    0 citations · Soil Carbon
 
 2. **Traditional agroforestry systems in Timor-Leste can store large amounts of carbon in both soil and biomass** (2024)
-   0 citations · Soil Carbon
+   0 citations
 
 ## External Profiles
 

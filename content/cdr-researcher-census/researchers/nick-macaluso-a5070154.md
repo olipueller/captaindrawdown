@@ -1,7 +1,7 @@
 ---
 title: "Nick Macaluso"
 description: "Nick Macaluso is a Mid-career DAC researcher at Environment and Climate Change Canada in CA. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.210303
+date: 2026-03-23T11:46:59.814421
 url: "/cdr-researcher-census/researchers/nick-macaluso-a5070154/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 8 |
 | Citations | 515 |
 | Publications | 20 |
-| CDR Focus | 15.0% |
+| CDR Focus | 1500.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    29 citations · DAC
 
 2. **Modeling the energy mix and economic costs of deep decarbonization scenarios in a CGE framework** (2023)
-   9 citations · BECCS
+   9 citations · DAC
 
 3. **Exploring water use pathways under deep decarbonization scenarios in Canada at subnational scales using GCAM-Canada** (2025)
    0 citations · DAC

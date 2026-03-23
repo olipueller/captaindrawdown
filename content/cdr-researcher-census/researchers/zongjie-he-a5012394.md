@@ -1,7 +1,7 @@
 ---
 title: "Zongjie He"
-description: "Zongjie He is a Mid-career DAC researcher at Second Military Medical University in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.058456
+description: "Zongjie He is a Mid-career carbon dioxide removal researcher at Second Military Medical University in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.051589
 url: "/cdr-researcher-census/researchers/zongjie-he-a5012394/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Second Military Medical University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,16 +36,16 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 6 |
 | Citations | 140 |
 | Publications | 15 |
-| CDR Focus | 13.3% |
+| CDR Focus | 670.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Highly scalable honeycomb-like aminated PVDF-g-PEI hollow fiber membranes for direct air capture of CO2** (2025)
-   1 citations · DAC
+   1 citations
 
 2. **Highly Scalable Honeycomb-Like Aminated Pvdf-G-Pei Hollow Fiber Membranes for Direct Air Capture of Co2** (2025)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

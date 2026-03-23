@@ -1,7 +1,7 @@
 ---
 title: "Eric Toensmeier"
-description: "Eric Toensmeier is a Mid-career Soil Carbon researcher at Bay Area Discovery Museum in US. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.050474
+description: "Eric Toensmeier is a Mid-career General CDR researcher at Bay Area Discovery Museum in US. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.042754
 url: "/cdr-researcher-census/researchers/eric-toensmeier-a5039949/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Bay Area Discovery Museum · 🇺🇸 US
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,16 +45,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 142 |
 | Publications | 20 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Policy pathways for perennial agriculture** (2022)
-   17 citations · Soil Carbon
+   17 citations · General CDR
 
 2. **Perennial Staple Crops and Agroforestry for Climate Change Mitigation** (2024)
-   4 citations · Soil Carbon
+   4 citations · General CDR
 
 ## External Profiles
 

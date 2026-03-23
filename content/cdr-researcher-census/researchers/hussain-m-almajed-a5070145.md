@@ -1,7 +1,7 @@
 ---
 title: "Hussain M. Almajed"
 description: "Hussain M. Almajed is an Early-career DAC researcher at University of Colorado Boulder in US. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.937806
+date: 2026-03-23T11:47:00.908940
 url: "/cdr-researcher-census/researchers/hussain-m-almajed-a5070145/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 4 |
 | Citations | 160 |
 | Publications | 6 |
-| CDR Focus | 33.3% |
+| CDR Focus | 3330.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Closing the Loop: Unexamined Performance Trade-Offs of Integrating Direct Air Capture with (Bi)carbonate Electrolysis** (2024)
-   33 citations · DAC
+   33 citations
 
 2. **The design and operational space of syngas production via integrated direct air capture with gaseous CO2 electrolysis** (2024)
    0 citations · DAC

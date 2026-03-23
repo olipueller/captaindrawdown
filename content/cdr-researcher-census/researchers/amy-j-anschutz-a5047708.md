@@ -1,7 +1,7 @@
 ---
 title: "Amy J. Anschutz"
-description: "Amy J. Anschutz is a Senior Ocean CDR researcher at Leibniz Institute for Baltic Sea Research in DE. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.171835
+description: "Amy J. Anschutz is a Senior General CDR researcher at Leibniz Institute for Baltic Sea Research in DE. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.743987
 url: "/cdr-researcher-census/researchers/amy-j-anschutz-a5047708/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Leibniz Institute for Baltic Sea Research · 🇩🇪 DE
 
 ## CDR Specialization
 
-**Ocean CDR**
+**General CDR**
 
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,7 +42,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 4 |
 | Citations | 575 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

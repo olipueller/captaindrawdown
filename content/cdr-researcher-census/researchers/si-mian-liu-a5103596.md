@@ -1,7 +1,7 @@
 ---
 title: "Si-mian Liu"
-description: "Si-mian Liu is a Mid-career DAC researcher at Yan'an University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.980888
+description: "Si-mian Liu is a Mid-career carbon dioxide removal researcher at Yan'an University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.359733
 url: "/cdr-researcher-census/researchers/si-mian-liu-a5103596/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Yan'an University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 5 |
 | Citations | 1,363 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **CO2 separation-adsorption until efficient reduction based porous multinuclear clusters metal−organic frameworks** (2025)
-   1 citations · DAC
+   1 citations
 
 ## External Profiles
 

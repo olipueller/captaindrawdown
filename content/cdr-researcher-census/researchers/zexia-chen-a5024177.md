@@ -1,7 +1,7 @@
 ---
 title: "Zexia Chen"
 description: "Zexia Chen is a Mid-career Soil Carbon researcher at Sun Yat-sen University in CN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.020160
+date: 2026-03-23T11:47:01.010156
 url: "/cdr-researcher-census/researchers/zexia-chen-a5024177/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 147 |
 | Publications | 18 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    34 citations · Soil Carbon
 
 2. **Identification of Priority Supply Areas for Carbon Sinks Based on Ecosystem Service Flow: A Case Study for the Hexi Region in Northwestern China** (2024)
-   3 citations · Soil Carbon
+   3 citations · General CDR
 
 ## External Profiles
 

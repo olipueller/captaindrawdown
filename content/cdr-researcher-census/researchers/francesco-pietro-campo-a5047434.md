@@ -1,7 +1,7 @@
 ---
 title: "Francesco Pietro Campo"
 description: "Francesco Pietro Campo is a Mid-career Ocean CDR researcher at Politecnico di Milano in IT. With 22 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.530987
+date: 2026-03-23T11:47:00.352617
 url: "/cdr-researcher-census/researchers/francesco-pietro-campo-a5047434/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,16 +45,16 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 6 |
 | Citations | 270 |
 | Publications | 22 |
-| CDR Focus | 45.5% |
+| CDR Focus | 4550.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Life cycle assessment of ocean liming for carbon dioxide removal from the atmosphere** (2022)
-   59 citations · General CDR
+   59 citations
 
 2. **Techno-economic evaluation of buffered accelerated weathering of limestone as a CO2 capture and storage option** (2023)
-   9 citations · General CDR
+   9 citations · Enhanced Weathering
 
 3. **Assessment of potential environmental impacts of an Enhanced Rock Weathering process for carbon dioxide removal in the form of bicarbonates by means of Life Cycle Assessment** (2024)
    1 citations · Enhanced Weathering
@@ -75,7 +75,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    0 citations · General CDR
 
 9. **Assessment of the potential life-cycle environmental impacts of ocean alkalinity enhancement: from limestone extraction to slaked lime discharge in the sea, including carbon dioxide storage** (2023)
-   0 citations · Enhanced Weathering
+   0 citations · General CDR
 
 10. **Feasibility, potential and environmental impacts of ocean alkalinity enhancement for removing CO2 from the atmosphere and counteracting seawater acidification** (2022)
    0 citations · General CDR

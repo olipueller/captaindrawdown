@@ -1,7 +1,7 @@
 ---
 title: "Enrico Balugani"
 description: "Enrico Balugani is a Senior Soil Carbon researcher at University of Bologna in IT. With 73 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.217689
+date: 2026-03-23T11:46:59.828271
 url: "/cdr-researcher-census/researchers/enrico-balugani-a5076562/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 12 |
 | Citations | 507 |
 | Publications | 73 |
-| CDR Focus | 35.6% |
+| CDR Focus | 3010.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    8 citations · Biochar
 
 4. **A Modified Version of RothC to Model the Direct and Indirect Effects of Rice Straw Mulching on Soil Carbon Dynamics, Calibrated in Two Valencian Citrus Orchards** (2024)
-   6 citations · Soil Carbon
+   6 citations · General CDR
 
 5. **Use of soil respiration measurements and RothC modelling show effects of catch crops and precision and traditional agriculture on productivity and soil organic carbon dynamics in a 5 year study in Mediterranean climate** (2023)
    2 citations · Soil Carbon
@@ -69,7 +69,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    2 citations · Biochar
 
 7. **A modified version of RothC to model the direct and indirect effects of rice straw mulching on soil carbon dynamics, calibrated in a Mediterranean citrus orchard** (2023)
-   1 citations · Soil Carbon
+   1 citations · General CDR
 
 8. **Long Term Experiment Platform : proposition for a global site network and experience coordination for the study of agronomical and environmental effects of biochar** (2023)
    1 citations · Biochar

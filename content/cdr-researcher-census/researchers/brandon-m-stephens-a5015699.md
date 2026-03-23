@@ -1,7 +1,7 @@
 ---
 title: "Brandon M. Stephens"
 description: "Brandon M. Stephens is a Senior Ocean CDR researcher at National Taiwan University in TW. With 48 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.010351
+date: 2026-03-23T11:46:59.434524
 url: "/cdr-researcher-census/researchers/brandon-m-stephens-a5015699/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 17 |
 | Citations | 1,106 |
 | Publications | 48 |
-| CDR Focus | 12.5% |
+| CDR Focus | 830.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,19 +54,19 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    13 citations · Ocean CDR
 
 2. **Oxidation state of bioavailable dissolved organic matter influences bacterioplankton respiration and growth efficiency** (2025)
-   3 citations · Ocean CDR
+   3 citations
 
 3. **An upper-mesopelagic-zone carbon budget for the subarctic North Pacific** (2025)
-   2 citations · General CDR
+   2 citations · Ocean CDR
 
 4. **An upper mesopelagic zone carbon budget for the subarctic North Pacific** (2024)
-   1 citations · General CDR
+   1 citations · Ocean CDR
 
 5. **Reply on RC2** (2025)
-   0 citations · General CDR
+   0 citations · Ocean CDR
 
 6. **Reply on RC1** (2025)
-   0 citations · General CDR
+   0 citations · Ocean CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Vinícius J. Amaral"
 description: "Vinícius J. Amaral is a Mid-career Ocean CDR researcher at University of California, Santa Cruz in US. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.981412
+date: 2026-03-23T11:47:00.960865
 url: "/cdr-researcher-census/researchers/vinicius-j-amaral-a5066760/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,16 +45,16 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 5 |
 | Citations | 152 |
 | Publications | 10 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **An upper-mesopelagic-zone carbon budget for the subarctic North Pacific** (2025)
-   2 citations · General CDR
+   2 citations · Ocean CDR
 
 2. **An upper mesopelagic zone carbon budget for the subarctic North Pacific** (2024)
-   1 citations · General CDR
+   1 citations · Ocean CDR
 
 ## External Profiles
 

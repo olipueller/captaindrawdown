@@ -1,7 +1,7 @@
 ---
 title: "Renée Z. Wang"
 description: "Renée Z. Wang is a Mid-career Soil Carbon researcher at University of California, Berkeley in US. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.903861
+date: 2026-03-23T11:47:00.865501
 url: "/cdr-researcher-census/researchers/renee-z-wang-a5046390/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 167 |
 | Publications | 16 |
-| CDR Focus | 12.5% |
+| CDR Focus | 620.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Simulated nitrogen deposition and precipitation events alter microbial carbon cycling during early stages of litter decomposition** (2024)
-   1 citations · Soil Carbon
+   1 citations
 
 2. **Simulated nitrogen deposition and precipitation events alter microbial carbon cycling during early stages of litter decomposition** (2022)
    1 citations · Soil Carbon

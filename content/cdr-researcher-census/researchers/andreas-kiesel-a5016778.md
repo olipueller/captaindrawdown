@@ -1,7 +1,7 @@
 ---
 title: "Andreas Kiesel"
-description: "Andreas Kiesel is a Senior Soil Carbon researcher at University of Hohenheim in DE. With 61 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.941037
+description: "Andreas Kiesel is a Senior BECCS researcher at University of Hohenheim in DE. With 61 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.277675
 url: "/cdr-researcher-census/researchers/andreas-kiesel-a5016778/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Hohenheim · 🇩🇪 DE
 
 ## CDR Specialization
 
-**Soil Carbon**
+**BECCS**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 25 |
 | Citations | 1,897 |
 | Publications | 61 |
-| CDR Focus | 11.5% |
+| CDR Focus | 1150.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    47 citations · BECCS
 
 2. **A parsimonious model for calculating the greenhouse gas emissions of miscanthus cultivation using current commercial practice in the United Kingdom** (2021)
-   20 citations · Soil Carbon
+   20 citations · General CDR
 
 3. **Novel Miscanthus hybrids: Modelling productivity on marginal land in Europe using dynamics of canopy development determined by light interception** (2023)
    14 citations · BECCS
@@ -63,13 +63,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    8 citations · Soil Carbon
 
 5. **Valorisation of marginal agricultural land in the bioeconomy** (2023)
-   5 citations · Soil Carbon
+   5 citations · General CDR
 
 6. **Sustained Soil Organic Carbon Sequestration by Perennial Miscanthus: A Long-Term Assessment Against Annual Maize and a Crop Rotation** (2025)
    0 citations · Soil Carbon
 
 7. **Comparing miscanthus hybrids &amp;#8211; growth and environmental impacts** (2022)
-   0 citations · Soil Carbon
+   0 citations · BECCS
 
 ## External Profiles
 

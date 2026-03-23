@@ -1,7 +1,7 @@
 ---
 title: "Pengzhi Zhao"
 description: "Pengzhi Zhao is a Mid-career Soil Carbon researcher at Université Libre de Bruxelles in BE. With 42 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.322283
+date: 2026-03-23T11:47:00.007688
 url: "/cdr-researcher-census/researchers/pengzhi-zhao-a5048598/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 10 |
 | Citations | 394 |
 | Publications | 42 |
-| CDR Focus | 19.0% |
+| CDR Focus | 1190.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -57,16 +57,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    38 citations · Soil Carbon
 
 3. **Factors controlling <scp>SOC</scp> stability in colluvial soils under contrasting climate and soil weathering conditions** (2022)
-   5 citations · Enhanced Weathering
+   5 citations · Soil Carbon
 
 4. **Coupled geomorphic and climate-driven biogeochemical processes regulate soil organic carbon stocks in agricultural terraces** (2026)
    0 citations · Soil Carbon
 
 5. **Characterizing agricultural terraces-new quantitative geomorphometric approaches to estimate soil volumes stored.** (2021)
-   0 citations · Soil Carbon
+   0 citations
 
 6. **Climate-dependent pedogenic trajectories control the carbon sequestration potential of agricultural terraces** (2023)
-   0 citations · Enhanced Weathering
+   0 citations · Soil Carbon
 
 7. **Climate conditions control the SOC sequestration potential of agricultural terraces** (2024)
    0 citations · Soil Carbon

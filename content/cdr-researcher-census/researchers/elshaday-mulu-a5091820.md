@@ -1,7 +1,7 @@
 ---
 title: "Elshaday Mulu"
-description: "Elshaday Mulu is an Early-career General CDR researcher at Moi University in KE. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.766568
+description: "Elshaday Mulu is an Early-career carbon dioxide removal researcher at Moi University in KE. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.667884
 url: "/cdr-researcher-census/researchers/elshaday-mulu-a5091820/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Moi University ·  KE
 
 **Career Stage:** Early-career
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,22 +36,22 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 4 |
 | Citations | 196 |
 | Publications | 5 |
-| CDR Focus | 80.0% |
+| CDR Focus | 8000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **A review of recent developments in application of low cost natural materials in purification and upgrade of biogas** (2021)
-   149 citations · General CDR
+   149 citations
 
 2. **Biogas upgrade using modified natural clay** (2021)
-   24 citations · General CDR
+   24 citations
 
 3. **Potential of wood ash in purification of biogas** (2021)
-   17 citations · General CDR
+   17 citations
 
 4. **Carbon dioxide removal from biogas through sorption processes using natural and activated zeolite adsorbents** (2022)
-   4 citations · General CDR
+   4 citations
 
 ## External Profiles
 

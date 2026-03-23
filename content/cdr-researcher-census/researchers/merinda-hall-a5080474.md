@@ -1,7 +1,7 @@
 ---
 title: "Merinda Hall"
 description: "Merinda Hall is a Mid-career Soil Carbon researcher. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.958471
+date: 2026-03-23T11:47:00.934337
 url: "/cdr-researcher-census/researchers/merinda-hall-a5080474/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -37,13 +37,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 156 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Arbuscular mycorrhizal symbiosis enhances water stable aggregate formation and organic matter stabilization in Fe ore tailings** (2021)
-   33 citations · Enhanced Weathering
+   33 citations · Soil Carbon
 
 ## External Profiles
 

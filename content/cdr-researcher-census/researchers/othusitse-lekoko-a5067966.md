@@ -1,7 +1,7 @@
 ---
 title: "Othusitse Lekoko"
-description: "Othusitse Lekoko is an Early-career Soil Carbon researcher at Human Growth Foundation in US. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.301557
+description: "Othusitse Lekoko is an Early-career General CDR researcher at Human Growth Foundation in US. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.316801
 url: "/cdr-researcher-census/researchers/othusitse-lekoko-a5067966/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Human Growth Foundation · 🇺🇸 US
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 2 |
 | Citations | 112 |
 | Publications | 3 |
-| CDR Focus | 33.3% |
+| CDR Focus | 3330.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Framework for a savanna burning emissions abatement methodology applicable to fire-prone miombo woodlands in southern Africa** (2024)
-   6 citations · Soil Carbon
+   6 citations · General CDR
 
 ## External Profiles
 

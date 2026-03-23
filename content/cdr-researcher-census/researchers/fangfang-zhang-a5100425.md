@@ -1,7 +1,7 @@
 ---
 title: "Fangfang Zhang"
 description: "Fangfang Zhang is a Senior Soil Carbon researcher at Luoyang Normal University in CN. With 38 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.108696
+date: 2026-03-23T11:46:59.628881
 url: "/cdr-researcher-census/researchers/fangfang-zhang-a5100425/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 18 |
 | Citations | 698 |
 | Publications | 38 |
-| CDR Focus | 10.5% |
+| CDR Focus | 530.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

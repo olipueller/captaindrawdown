@@ -1,7 +1,7 @@
 ---
 title: "Njato Mickaël Rakotoarisoa"
 description: "Njato Mickaël Rakotoarisoa is a Mid-career Soil Carbon researcher at Centre National de la Recherche Appliquée au Developpement Rural in MG. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.651841
+date: 2026-03-23T11:47:00.517730
 url: "/cdr-researcher-census/researchers/njato-mickael-rakotoarisoa-a5072063/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 228 |
 | Publications | 12 |
-| CDR Focus | 16.7% |
+| CDR Focus | 830.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Deciphering the impact of active aluminum and iron on soil organic carbon stabilization in volcanic and non-volcanic paddy soils of the central highlands of Madagascar** (2025)
-   0 citations · Soil Carbon
+   0 citations
 
 2. **Deciphering the Impact of Active Aluminum and Iron on Soil Organic Carbon Stabilization in Volcanic and Non-Volcanic Paddy Soils of the Central Highlands of Madagascar** (2025)
    0 citations · Soil Carbon

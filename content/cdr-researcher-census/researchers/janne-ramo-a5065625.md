@@ -1,7 +1,7 @@
 ---
 title: "Janne Rämö"
-description: "Janne Rämö is a Mid-career Soil Carbon researcher at Natural Resources Institute Finland in FI. With 26 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.166307
+description: "Janne Rämö is a Mid-career General CDR researcher at Natural Resources Institute Finland in FI. With 26 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.736665
 url: "/cdr-researcher-census/researchers/janne-ramo-a5065625/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Natural Resources Institute Finland ·  FI
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,19 +45,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 13 |
 | Citations | 583 |
 | Publications | 26 |
-| CDR Focus | 11.5% |
+| CDR Focus | 770.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Development towards low carbon and sustainable agriculture in Finland is possible with moderate changes in land use and diets** (2022)
-   26 citations · Soil Carbon
+   26 citations · General CDR
 
 2. **Simulation modelling of greenhouse gas balance in continuous-cover forestry of Norway spruce stands on nutrient-rich drained peatlands** (2021)
-   25 citations · Soil Carbon
+   25 citations
 
 3. **Continuous Cover Forestry and Cost of Carbon Abatement on Mineral Soils and Peatlands** (2022)
-   10 citations · Soil Carbon
+   10 citations · General CDR
 
 ## External Profiles
 

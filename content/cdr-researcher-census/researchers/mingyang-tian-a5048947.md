@@ -1,7 +1,7 @@
 ---
 title: "Mingyang Tian"
-description: "Mingyang Tian is a Mid-career Soil Carbon researcher at Universität Hamburg in DE. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.359387
+description: "Mingyang Tian is a Mid-career Enhanced Weathering researcher at Universität Hamburg in DE. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.069880
 url: "/cdr-researcher-census/researchers/mingyang-tian-a5048947/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Universität Hamburg · 🇩🇪 DE
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Enhanced Weathering**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 365 |
 | Publications | 12 |
-| CDR Focus | 16.7% |
+| CDR Focus | 1670.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

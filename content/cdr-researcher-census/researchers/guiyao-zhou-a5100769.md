@@ -1,7 +1,7 @@
 ---
 title: "Guiyao Zhou"
 description: "Guiyao Zhou is a Senior Soil Carbon researcher at Consejo Superior de Investigaciones Científicas in ES. With 160 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.893571
+date: 2026-03-23T11:46:59.153435
 url: "/cdr-researcher-census/researchers/guiyao-zhou-a5100769/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 33 |
 | Citations | 4,036 |
 | Publications | 160 |
-| CDR Focus | 10.6% |
+| CDR Focus | 620.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -69,7 +69,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    14 citations · Soil Carbon
 
 7. **Meta-analysis shows that microplastics affect ecosystem services in terrestrial environments** (2024)
-   11 citations · Soil Carbon
+   11 citations
 
 8. **A transition from arbuscular to ectomycorrhizal forests halts soil carbon sequestration during subtropical forest rewilding** (2024)
    2 citations · Soil Carbon

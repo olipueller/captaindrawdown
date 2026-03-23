@@ -1,7 +1,7 @@
 ---
 title: "Violeta Matus-Acuña"
-description: "Violeta Matus-Acuña is a Mid-career Soil Carbon researcher at Universidad Nacional Autónoma de México in MX. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.113160
+description: "Violeta Matus-Acuña is a Mid-career carbon dioxide removal researcher at Universidad Nacional Autónoma de México in MX. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.113876
 url: "/cdr-researcher-census/researchers/violeta-matus-acuna-a5071706/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Universidad Nacional Autónoma de México · 🇲🇽 MX
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 3 |
 | Citations | 133 |
 | Publications | 3 |
-| CDR Focus | 33.3% |
+| CDR Focus | 3330.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **The influence of maize genotype on the rhizosphere eukaryotic community** (2021)
-   16 citations · Soil Carbon
+   16 citations
 
 ## External Profiles
 

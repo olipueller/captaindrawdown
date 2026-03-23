@@ -1,7 +1,7 @@
 ---
 title: "Hannah V. Eshelman"
-description: "Hannah V. Eshelman is a Mid-career DAC researcher at Lawrence Livermore National Laboratory in US. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.906443
+description: "Hannah V. Eshelman is a Mid-career carbon dioxide removal researcher at Lawrence Livermore National Laboratory in US. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.869800
 url: "/cdr-researcher-census/researchers/hannah-v-eshelman-a5079274/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Lawrence Livermore National Laboratory · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,19 +39,19 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 8 |
 | Citations | 166 |
 | Publications | 14 |
-| CDR Focus | 21.4% |
+| CDR Focus | 2140.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Probing the Kinetic Origin of Varying Oxidative Stability of Ethyl‐ vs. Propyl‐spaced Amines for Direct Air Capture** (2022)
-   22 citations · DAC
+   22 citations
 
 2. **Oxidation of Supported Amines for CO <sub>2</sub> Direct Air Capture: Assessing Impact on Physical Properties and Mobility via NMR Relaxometry** (2024)
-   11 citations · DAC
+   11 citations
 
 3. **Proton NMR Relaxometry as a Rapid and Non-Destructive Technique for Probing Degradation of Supported Poly(ethylenimine) for CO2 Direct Air Capture** (2023)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

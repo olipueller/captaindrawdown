@@ -1,7 +1,7 @@
 ---
 title: "Viola Becattini"
-description: "Viola Becattini is a Mid-career DAC researcher at ETH Zurich in CH. With 54 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.966346
+description: "Viola Becattini is a Mid-career General CDR researcher at ETH Zurich in CH. With 54 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.324599
 url: "/cdr-researcher-census/researchers/viola-becattini-a5055416/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ ETH Zurich · 🇨🇭 CH
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 16 |
 | Citations | 1,540 |
 | Publications | 54 |
-| CDR Focus | 16.7% |
+| CDR Focus | 1480.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    140 citations · DAC
 
 2. **How to make climate-neutral aviation fly** (2023)
-   114 citations · DAC
+   114 citations
 
 3. **Carbon dioxide mineralization in recycled concrete aggregates can contribute immediately to carbon-neutrality** (2022)
    83 citations · BECCS
@@ -69,13 +69,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    2 citations · General CDR
 
 7. **Carbon Dioxide Reduction and Removal toward Net-Zero: A Needed Change of Narrative** (2025)
-   1 citations · DAC
+   1 citations · BECCS
 
 8. **Enhanced Oil Recovery using carbon dioxide directly captured from air does not enable carbon-neutral oil** (2025)
    1 citations · DAC
 
 9. **Climate-neutral aviation: will it fly?** (2022)
-   1 citations · DAC
+   1 citations · General CDR
 
 ## External Profiles
 

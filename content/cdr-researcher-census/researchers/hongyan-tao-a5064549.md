@@ -1,7 +1,7 @@
 ---
 title: "Hong‐Yan Tao"
 description: "Hong‐Yan Tao is a Mid-career Soil Carbon researcher at State Key Laboratory of Herbage Improvement and Grassland Agro-ecosystems. With 46 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.026093
+date: 2026-03-23T11:46:59.463759
 url: "/cdr-researcher-census/researchers/hongyan-tao-a5064549/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 19 |
 | Citations | 1,012 |
 | Publications | 46 |
-| CDR Focus | 10.9% |
+| CDR Focus | 650.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Cole D. Gross"
 description: "Cole D. Gross is a Mid-career Soil Carbon researcher at SUNY College of Environmental Science and Forestry in US. With 32 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.245271
+date: 2026-03-23T11:46:59.877226
 url: "/cdr-researcher-census/researchers/cole-d-gross-a5010542/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 10 |
 | Citations | 468 |
 | Publications | 32 |
-| CDR Focus | 18.8% |
+| CDR Focus | 1560.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,13 +54,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    87 citations · Biochar
 
 2. **Agroforestry perennials reduce nitrous oxide emissions and their live and dead trees increase ecosystem carbon storage** (2022)
-   26 citations · Soil Carbon
+   26 citations · General CDR
 
 3. **Carbon stocks differ among land-uses in agroforestry systems in western Canada** (2021)
    21 citations · Soil Carbon
 
 4. **Corn and Wheat Residue Management Effects on Greenhouse Gas Emissions in the Mid-Atlantic USA** (2022)
-   18 citations · General CDR
+   18 citations
 
 5. **Forested lands have lower soil carbon priming effects than croplands in hedgerow agroforestry systems** (2025)
    1 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Viesturs Ozols"
-description: "Viesturs Ozols is a Mid-career General CDR researcher at University of Latvia in LV. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.981662
+description: "Viesturs Ozols is a Mid-career Biochar researcher at University of Latvia in LV. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.961141
 url: "/cdr-researcher-census/researchers/viesturs-ozols-a5052214/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Latvia ·  LV
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 5 |
 | Citations | 152 |
 | Publications | 8 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Hydrothermal Carbonisation of Biomass Wastes as a Tool for Carbon Capture** (2022)
-   6 citations · General CDR
+   6 citations · Biochar
 
 ## External Profiles
 

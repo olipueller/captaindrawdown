@@ -1,7 +1,7 @@
 ---
 title: "Thaer Abdulwahhab Shihab"
-description: "Thaer Abdulwahhab Shihab is a Mid-career General CDR researcher at Bayan College in OM. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.547446
+description: "Thaer Abdulwahhab Shihab is a Mid-career Biochar researcher at Bayan College in OM. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.376539
 url: "/cdr-researcher-census/researchers/thaer-abdulwahhab-shihab-a5006975/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Bayan College ·  OM
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 9 |
 | Citations | 264 |
 | Publications | 20 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Isotherm and kinetic models of SO2 adsorption on palm kernel shell-activated carbon and xerogel blends: Effect of flow rate and contact time** (2025)
-   8 citations · General CDR
+   8 citations
 
 2. **Optimization for the Effects of Coconut Shell Activated Carbon Xerogel Weight and Temperature on the Hydrogen Sulphide Adsorption Using Response Surface Methodology** (2024)
    0 citations · Biochar

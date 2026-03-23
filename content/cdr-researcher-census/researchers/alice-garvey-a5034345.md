@@ -1,7 +1,7 @@
 ---
 title: "Alice Garvey"
 description: "Alice Garvey is a Mid-career General CDR researcher at University of Leeds in GB. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.243624
+date: 2026-03-23T11:46:59.873343
 url: "/cdr-researcher-census/researchers/alice-garvey-a5034345/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 7 |
 | Citations | 471 |
 | Publications | 16 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

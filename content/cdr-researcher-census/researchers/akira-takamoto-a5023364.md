@@ -1,7 +1,7 @@
 ---
 title: "Akira Takamoto"
 description: "Akira Takamoto is a Mid-career Soil Carbon researcher at Tohoku Agricultural Research Center in JP. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.000058
+date: 2026-03-23T11:47:00.988767
 url: "/cdr-researcher-census/researchers/akira-takamoto-a5023364/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 150 |
 | Publications | 18 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

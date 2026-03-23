@@ -1,7 +1,7 @@
 ---
 title: "Heidi M. Hartmann"
-description: "Heidi M. Hartmann is a Senior Soil Carbon researcher at Argonne National Laboratory in US. With 27 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.191641
+description: "Heidi M. Hartmann is a Senior carbon dioxide removal researcher at Argonne National Laboratory in US. With 27 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.777807
 url: "/cdr-researcher-census/researchers/heidi-m-hartmann-a5012613/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Argonne National Laboratory · 🇺🇸 US
 
 **Career Stage:** Senior
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,19 +39,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 12 |
 | Citations | 544 |
 | Publications | 27 |
-| CDR Focus | 11.1% |
+| CDR Focus | 740.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Opportunities for agrivoltaic systems to achieve synergistic food-energy-environmental needs and address sustainability goals** (2022)
-   79 citations · Soil Carbon
+   79 citations
 
 2. **Impacts of photovoltaic solar energy on soil carbon: A global systematic review and framework** (2024)
-   26 citations · Soil Carbon
+   26 citations
 
 3. **Impacts of Photovoltaic Solar Energy on Soil Carbon: A Global Systematic Review and Framework** (2024)
-   1 citations · Soil Carbon
+   1 citations
 
 ## External Profiles
 

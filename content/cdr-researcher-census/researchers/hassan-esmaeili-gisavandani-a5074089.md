@@ -1,7 +1,7 @@
 ---
 title: "Hassan Esmaeili-Gisavandani"
 description: "Hassan Esmaeili-Gisavandani is a Mid-career Soil Carbon researcher at Shahid Chamran University of Ahvaz in IR. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.446780
+date: 2026-03-23T11:47:00.215669
 url: "/cdr-researcher-census/researchers/hassan-esmaeili-gisavandani-a5074089/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 309 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

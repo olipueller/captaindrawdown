@@ -1,7 +1,7 @@
 ---
 title: "Jung-Hwan Yoon"
 description: "Jung-Hwan Yoon is a Mid-career Soil Carbon researcher at Kangwon National University in KR. With 38 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.174099
+date: 2026-03-23T11:46:59.746936
 url: "/cdr-researcher-census/researchers/jung-hwan-yoon-a5101861/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 573 |
 | Publications | 38 |
-| CDR Focus | 10.5% |
+| CDR Focus | 790.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

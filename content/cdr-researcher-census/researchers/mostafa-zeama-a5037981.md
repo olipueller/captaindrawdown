@@ -1,7 +1,7 @@
 ---
 title: "Mostafa Zeama"
 description: "Mostafa Zeama is a Mid-career General CDR researcher at Materials Research Group (United States) in US. With 36 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.206488
+date: 2026-03-23T11:46:59.808394
 url: "/cdr-researcher-census/researchers/mostafa-zeama-a5037981/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,22 +45,22 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 12 |
 | Citations | 518 |
 | Publications | 36 |
-| CDR Focus | 11.1% |
+| CDR Focus | 560.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Azo-Linked Porous Organic Polymers for Selective Carbon Dioxide Capture and Metal Ion Removal** (2022)
-   36 citations · General CDR
+   36 citations
 
 2. **Post-synthetic modification of UiO-66 analogue metal-organic framework as potential solid sorbent for direct air capture** (2023)
-   35 citations · DAC
+   35 citations
 
 3. **New carbazole-based conjugated frameworks for carbon dioxide capture and water purification: Insights on the adsorptive sites' chemistry** (2022)
    4 citations · General CDR
 
 4. **New Carbazole-Based Conjugated Frameworks for Carbon Dioxide Capture and Water Purification: Insights on the Adsorptive Sites' Chemistry** (2022)
-   0 citations · General CDR
+   0 citations
 
 ## External Profiles
 

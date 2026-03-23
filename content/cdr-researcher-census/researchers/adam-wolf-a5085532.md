@@ -1,7 +1,7 @@
 ---
 title: "Adam Wolf"
 description: "Adam Wolf is a Senior Enhanced Weathering researcher at Eion Corp in US. With 82 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.885557
+date: 2026-03-23T11:46:59.135315
 url: "/cdr-researcher-census/researchers/adam-wolf-a5085532/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 30 |
 | Citations | 5,047 |
 | Publications | 82 |
-| CDR Focus | 11.0% |
+| CDR Focus | 730.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -66,7 +66,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    0 citations · Enhanced Weathering
 
 6. **Life Cycle Analysis and Full Carbon Accounting of Enhanced Rock Weathering** (2025)
-   0 citations · Enhanced Weathering
+   0 citations
 
 7. **Life Cycle Analysis and Full Carbon Accounting of Enhanced Rock Weathering** (2025)
    0 citations · Enhanced Weathering
@@ -75,7 +75,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    0 citations · Enhanced Weathering
 
 9. **Olivine and Lime Application in the US Midwest: A Field Study for Quantifying Carbon Dioxide Removal, Soil, and Crop Health** (2023)
-   0 citations · General CDR
+   0 citations · Enhanced Weathering
 
 ## External Profiles
 

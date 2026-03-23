@@ -1,7 +1,7 @@
 ---
 title: "Wangjia Ji"
 description: "Wangjia Ji is a Mid-career Soil Carbon researcher at Peking University in CN. With 24 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.444182
+date: 2026-03-23T11:47:00.210725
 url: "/cdr-researcher-census/researchers/wangjia-ji-a5049026/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 310 |
 | Publications | 24 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

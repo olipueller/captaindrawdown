@@ -1,7 +1,7 @@
 ---
 title: "Jiacheng Gao"
 description: "Jiacheng Gao is a Senior Soil Carbon researcher at China Meteorological Administration in CN. With 37 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.248680
+date: 2026-03-23T11:46:59.886172
 url: "/cdr-researcher-census/researchers/jiacheng-gao-a5101841/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 10 |
 | Citations | 462 |
 | Publications | 37 |
-| CDR Focus | 10.8% |
+| CDR Focus | 810.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Desert Abiotic Carbon Sequestration Weakening by Precipitation** (2023)
-   21 citations · Soil Carbon
+   21 citations
 
 2. **Evaluation of carbon sink in the Taklimakan Desert based on correction of abnormal negative CO2 flux of IRGASON** (2022)
    21 citations · Soil Carbon

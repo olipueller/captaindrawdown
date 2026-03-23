@@ -1,7 +1,7 @@
 ---
 title: "Wallace Vieira da Silva"
-description: "Wallace Vieira da Silva is a Mid-career General CDR researcher at Instituto Português de Administração de Marketing in PT. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.947748
+description: "Wallace Vieira da Silva is a Mid-career Soil Carbon researcher at Instituto Português de Administração de Marketing in PT. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.921416
 url: "/cdr-researcher-census/researchers/wallace-vieira-da-silva-a5062565/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Instituto Português de Administração de Marketing · 🇵🇹 PT
 
 ## CDR Specialization
 
-**General CDR**
+**Soil Carbon**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 5 |
 | Citations | 158 |
 | Publications | 5 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Impacts of Fire Frequency on Net CO2 Emissions in the Cerrado Savanna Vegetation** (2024)
-   8 citations · General CDR
+   8 citations · Soil Carbon
 
 ## External Profiles
 

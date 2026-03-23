@@ -1,7 +1,7 @@
 ---
 title: "Wenwen Lv"
 description: "Wenwen Lv is a Mid-career Soil Carbon researcher at Northwest A&F University in CN. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.076329
+date: 2026-03-23T11:47:01.072505
 url: "/cdr-researcher-census/researchers/wenwen-lv-a5066352/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 138 |
 | Publications | 10 |
-| CDR Focus | 30.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

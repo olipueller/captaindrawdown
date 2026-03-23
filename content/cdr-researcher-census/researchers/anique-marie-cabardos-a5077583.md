@@ -1,7 +1,7 @@
 ---
 title: "Anique-Marie Cabardos"
 description: "Anique-Marie Cabardos is a Mid-career General CDR researcher at International Institute for Applied Systems Analysis in AT. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.350059
+date: 2026-03-23T11:47:00.052862
 url: "/cdr-researcher-census/researchers/anique-marie-cabardos-a5077583/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 5 |
 | Citations | 371 |
 | Publications | 9 |
-| CDR Focus | 55.6% |
+| CDR Focus | 1110.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -51,13 +51,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    64 citations · General CDR
 
 2. **ENGAGE Global Scenarios** (2021)
-   6 citations · General CDR
+   6 citations
 
 3. **ENGAGE Global Scenarios** (2021)
-   2 citations · General CDR
+   2 citations
 
 4. **ENGAGE Global Scenarios** (2021)
-   0 citations · General CDR
+   0 citations
 
 5. **ENGAGE Global Scenarios** (2021)
    0 citations · General CDR

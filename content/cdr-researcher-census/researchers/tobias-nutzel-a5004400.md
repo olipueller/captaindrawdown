@@ -1,7 +1,7 @@
 ---
 title: "Tobias Nützel"
 description: "Tobias Nützel is a Mid-career General CDR researcher at Max Planck Institute for Meteorology in DE. With 30 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.190715
+date: 2026-03-23T11:46:59.774859
 url: "/cdr-researcher-census/researchers/tobias-nutzel-a5004400/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 7 |
 | Citations | 547 |
 | Publications | 30 |
-| CDR Focus | 26.7% |
+| CDR Focus | 2670.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

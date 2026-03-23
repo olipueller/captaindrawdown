@@ -1,7 +1,7 @@
 ---
 title: "Ahmed I. Yunus"
 description: "Ahmed I. Yunus is a Mid-career Biochar researcher at Georgia Institute of Technology in US. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.307829
+date: 2026-03-23T11:47:01.321881
 url: "/cdr-researcher-census/researchers/ahmed-i-yunus-a5063759/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 4 |
 | Citations | 111 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

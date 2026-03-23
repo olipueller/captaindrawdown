@@ -1,7 +1,7 @@
 ---
 title: "George Peridas"
 description: "George Peridas is a Senior General CDR researcher at Lawrence Livermore National Laboratory in US. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.635086
+date: 2026-03-23T11:47:00.496118
 url: "/cdr-researcher-census/researchers/george-peridas-a5059762/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 5 |
 | Citations | 232 |
 | Publications | 7 |
-| CDR Focus | 28.6% |
+| CDR Focus | 2860.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

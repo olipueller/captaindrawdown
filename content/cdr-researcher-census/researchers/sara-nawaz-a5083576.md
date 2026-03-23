@@ -1,7 +1,7 @@
 ---
 title: "Sara Nawaz"
 description: "Sara Nawaz is a Mid-career General CDR researcher at Physicians Committee for Responsible Medicine in US. With 32 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.438870
+date: 2026-03-23T11:47:00.202140
 url: "/cdr-researcher-census/researchers/sara-nawaz-a5083576/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,16 +45,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 11 |
 | Citations | 312 |
 | Publications | 32 |
-| CDR Focus | 53.1% |
+| CDR Focus | 4690.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Public evaluations of four approaches to ocean-based carbon dioxide removal** (2023)
-   49 citations · DAC
+   49 citations · General CDR
 
 2. **Exploring public acceptability of direct air carbon capture with storage: climate urgency, moral hazards and perceptions of the ‘whole versus the parts’** (2023)
-   49 citations · DAC
+   49 citations · General CDR
 
 3. **Broaden Research on Ocean Alkalinity Enhancement to Better Characterize Social Impacts** (2023)
    29 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Sachin Nandgude"
 description: "Sachin Nandgude is an Early-career Soil Carbon researcher at Mahatma Phule Krishi Vidyapeeth in IN. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.252131
+date: 2026-03-23T11:47:01.261241
 url: "/cdr-researcher-census/researchers/sachin-nandgude-a5082314/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 117 |
 | Publications | 4 |
-| CDR Focus | 50.0% |
+| CDR Focus | 5000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    11 citations · Soil Carbon
 
 2. **Impact Assessment of Soil and Water Conservation Measures on Carbon Sequestration: A Case Study for the Tropical Watershed Using Advanced Geospatial Techniques** (2022)
-   6 citations · Soil Carbon
+   6 citations · General CDR
 
 ## External Profiles
 

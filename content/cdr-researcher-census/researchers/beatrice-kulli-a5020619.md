@@ -1,7 +1,7 @@
 ---
 title: "Beatrice Kulli"
-description: "Beatrice Kulli is a Senior Soil Carbon researcher at ZHAW Zurich University of Applied Sciences in CH. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.329908
+description: "Beatrice Kulli is a Senior General CDR researcher at ZHAW Zurich University of Applied Sciences in CH. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.017930
 url: "/cdr-researcher-census/researchers/beatrice-kulli-a5020619/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ ZHAW Zurich University of Applied Sciences · 🇨🇭 CH
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 390 |
 | Publications | 19 |
-| CDR Focus | 10.5% |
+| CDR Focus | 1050.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    7 citations · Biochar
 
 2. **Soil carbon sequestration in Switzerland: analysis of potentials and measures (Postulate Bourgeois 19.3639)** (2021)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

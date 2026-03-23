@@ -1,7 +1,7 @@
 ---
 title: "Tong Chi"
-description: "Tong Chi is a Mid-career DAC researcher at Everbright International (China) in CN. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.379284
+description: "Tong Chi is a Mid-career carbon dioxide removal researcher at Everbright International (China) in CN. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.100914
 url: "/cdr-researcher-census/researchers/tong-chi-a5002290/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Everbright International (China) · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 3 |
 | Citations | 351 |
 | Publications | 4 |
-| CDR Focus | 25.0% |
+| CDR Focus | 2500.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Highly efficient and regenerable amine-impregnated adsorbents: Mechanistic insights into glycerol modification for enhanced direct air capture** (2025)
-   40 citations · DAC
+   40 citations
 
 ## External Profiles
 

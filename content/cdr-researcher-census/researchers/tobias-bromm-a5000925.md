@@ -1,7 +1,7 @@
 ---
 title: "Tobias Bromm"
 description: "Tobias Bromm is a Mid-career Biochar researcher in GB. With 36 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.169418
+date: 2026-03-23T11:46:59.740543
 url: "/cdr-researcher-census/researchers/tobias-bromm-a5000925/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -41,7 +41,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 11 |
 | Citations | 578 |
 | Publications | 36 |
-| CDR Focus | 16.7% |
+| CDR Focus | 1670.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

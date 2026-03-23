@@ -1,7 +1,7 @@
 ---
 title: "Zejian Ai"
 description: "Zejian Ai is a Mid-career Biochar researcher at Central South University in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.254827
+date: 2026-03-23T11:46:59.898980
 url: "/cdr-researcher-census/researchers/zejian-ai-a5052392/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 7 |
 | Citations | 453 |
 | Publications | 13 |
-| CDR Focus | 23.1% |
+| CDR Focus | 770.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Jéssica Schmeisk Rosa"
-description: "Jéssica Schmeisk Rosa is a Mid-career Soil Carbon researcher at Instituto Nacional de Pesquisas da Amazônia in BR. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.206963
+description: "Jéssica Schmeisk Rosa is a Mid-career carbon dioxide removal researcher at Instituto Nacional de Pesquisas da Amazônia in BR. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.809839
 url: "/cdr-researcher-census/researchers/jessica-schmeisk-rosa-a5020233/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Instituto Nacional de Pesquisas da Amazônia · 🇧🇷 BR
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,16 +39,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 518 |
 | Publications | 13 |
-| CDR Focus | 15.4% |
+| CDR Focus | 1540.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Direct evidence for phosphorus limitation on Amazon forest productivity** (2022)
-   211 citations · Soil Carbon
+   211 citations
 
 2. **Fine roots stimulate nutrient release during early stages of leaf litter decomposition in a Central Amazon rainforest** (2021)
-   51 citations · Enhanced Weathering
+   51 citations
 
 ## External Profiles
 

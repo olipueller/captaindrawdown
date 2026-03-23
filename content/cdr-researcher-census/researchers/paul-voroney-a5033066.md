@@ -1,7 +1,7 @@
 ---
 title: "Paul Voroney"
 description: "Paul Voroney is a Senior Soil Carbon researcher at University of Guelph in CA. With 82 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.973633
+date: 2026-03-23T11:46:59.342634
 url: "/cdr-researcher-census/researchers/paul-voroney-a5033066/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 24 |
 | Citations | 1,446 |
 | Publications | 82 |
-| CDR Focus | 11.0% |
+| CDR Focus | 980.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Chemical composition of soil humin in an organic soil profile** (2024)
-   14 citations · Soil Carbon
+   14 citations
 
 2. **Soil organic carbon enhancement in diverse temperate riparian buffer systems in comparison with adjacent agricultural soils** (2021)
    13 citations · Soil Carbon
@@ -57,13 +57,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    9 citations · General CDR
 
 4. **Evidence for the formation of fused aromatic ring structures in an organic soil profile in the early diagenesis** (2023)
-   8 citations · Soil Carbon
+   8 citations
 
 5. **The effect of land-use conversion from agriculture to perennial biomass crops and nitrogen fertilizer on soil organic carbon stock in southern Ontario, Canada** (2023)
    6 citations · Soil Carbon
 
 6. **An Extensive Field-Scale Dataset of Topsoil Organic Carbon Content Aimed to Assess Remote Sensed Datasets and Data-Derived Products from Modeling Approaches** (2022)
-   4 citations · Soil Carbon
+   4 citations · General CDR
 
 7. **Evidence for the formation of recalcitrant carboxyl-rich alicyclic molecules (CRAM) in an organic soil profile** (2024)
    0 citations · Soil Carbon
@@ -72,7 +72,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    0 citations · Soil Carbon
 
 9. **Improving modelling estimations of soil organic carbon sequestration in manure-amended croplands** (2021)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

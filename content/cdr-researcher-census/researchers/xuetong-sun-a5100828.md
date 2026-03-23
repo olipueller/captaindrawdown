@@ -1,7 +1,7 @@
 ---
 title: "Xuetong Sun"
 description: "Xuetong Sun is a Senior Soil Carbon researcher at Northeast Agricultural University in CN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.362284
+date: 2026-03-23T11:47:00.075003
 url: "/cdr-researcher-census/researchers/xuetong-sun-a5100828/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 364 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

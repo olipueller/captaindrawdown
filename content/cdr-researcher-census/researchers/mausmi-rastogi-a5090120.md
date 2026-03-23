@@ -1,7 +1,7 @@
 ---
 title: "Mausmi Rastogi"
 description: "Mausmi Rastogi is a Mid-career Soil Carbon researcher at Sardar Vallabhbhai Patel University of Agriculture & Technology in IN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.187039
+date: 2026-03-23T11:47:01.190682
 url: "/cdr-researcher-census/researchers/mausmi-rastogi-a5090120/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 124 |
 | Publications | 9 |
-| CDR Focus | 33.3% |
+| CDR Focus | 3330.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    32 citations · Soil Carbon
 
 2. **Soil Management Practices to Enhance Carbon Sequestration Rates- A Review** (2023)
-   7 citations · Biochar
+   7 citations · General CDR
 
 3. **A Review on Agroforestry Practices for Biodiversity Restoration and Ecosystem Resilience** (2026)
    0 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Weiguang Guo"
-description: "Weiguang Guo is a Mid-career Biochar researcher at Sichuan Academy Of Social Sciences in CN. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.017453
+description: "Weiguang Guo is a Mid-career carbon dioxide removal researcher at Sichuan Academy Of Social Sciences in CN. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.007996
 url: "/cdr-researcher-census/researchers/weiguang-guo-a5073908/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Sichuan Academy Of Social Sciences · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Biochar**
-
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 3 |
 | Citations | 147 |
 | Publications | 3 |
-| CDR Focus | 33.3% |
+| CDR Focus | 3330.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Adsorption-based removal of PFASs from water: mechanisms, materials and future perspective** (2025)
-   3 citations · Biochar
+   3 citations
 
 ## External Profiles
 

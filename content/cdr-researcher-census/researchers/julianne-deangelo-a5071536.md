@@ -1,7 +1,7 @@
 ---
 title: "Julianne DeAngelo"
-description: "Julianne DeAngelo is a Mid-career General CDR researcher at University of California, Irvine in US. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.248234
+description: "Julianne DeAngelo is a Mid-career Ocean CDR researcher at University of California, Irvine in US. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.885064
 url: "/cdr-researcher-census/researchers/julianne-deangelo-a5071536/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of California, Irvine · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**Ocean CDR**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
 
 ## Metrics
 
@@ -45,19 +45,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 6 |
 | Citations | 462 |
 | Publications | 12 |
-| CDR Focus | 25.0% |
+| CDR Focus | 1670.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Large global variations in the carbon dioxide removal potential of seaweed farming due to biophysical constraints** (2023)
-   30 citations · General CDR
+   30 citations · Ocean CDR
 
 2. **Biophysical potential and uncertainties of global seaweed farming** (2022)
    7 citations · General CDR
 
 3. **Author Correction: Large global variations in the carbon dioxide removal potential of seaweed farming due to biophysical constraints** (2024)
-   0 citations · General CDR
+   0 citations · Ocean CDR
 
 ## External Profiles
 

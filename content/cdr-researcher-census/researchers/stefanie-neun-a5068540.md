@@ -1,7 +1,7 @@
 ---
 title: "Stefanie Neun"
 description: "Stefanie Neun is a Mid-career DAC researcher at National University of Misiones in AR. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.540929
+date: 2026-03-23T11:47:00.367795
 url: "/cdr-researcher-census/researchers/stefanie-neun-a5068540/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 7 |
 | Citations | 266 |
 | Publications | 15 |
-| CDR Focus | 13.3% |
+| CDR Focus | 670.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    2 citations · DAC
 
 2. **Enzyme Assisted Direct Air Capture of carbon dioxide** (2024)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

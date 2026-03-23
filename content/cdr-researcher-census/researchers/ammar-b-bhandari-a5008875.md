@@ -1,7 +1,7 @@
 ---
 title: "Ammar B. Bhandari"
-description: "Ammar B. Bhandari is a Mid-career Soil Carbon researcher at Agricultural Research Service in US. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.106369
+description: "Ammar B. Bhandari is a Mid-career General CDR researcher at Agricultural Research Service in US. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.107221
 url: "/cdr-researcher-census/researchers/ammar-b-bhandari-a5008875/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Agricultural Research Service · 🇺🇸 US
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,16 +45,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 134 |
 | Publications | 19 |
-| CDR Focus | 10.5% |
+| CDR Focus | 1050.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Seasonal variations in net ecosystem exchange of CO<sub>2</sub> and conservation of water use efficiency of cotton in the Mississippi Delta** (2025)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 2. **Seasonal variations in net ecosystem exchange of CO 2 and conservation of water use efficiency of cotton in the Mississippi Delta** (2024)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

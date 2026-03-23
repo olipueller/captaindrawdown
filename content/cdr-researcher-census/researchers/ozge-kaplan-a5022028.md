@@ -1,7 +1,7 @@
 ---
 title: "Ozge Kaplan"
 description: "Ozge Kaplan is an Early-career DAC researcher at Environmental Protection Agency in US. With 5 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.305673
+date: 2026-03-23T11:47:01.320050
 url: "/cdr-researcher-census/researchers/ozge-kaplan-a5022028/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,13 +42,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 2 |
 | Citations | 111 |
 | Publications | 5 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Net-zero CO2 by 2050 scenarios for the United States in the Energy Modeling Forum 37 study** (2023)
-   99 citations · BECCS
+   99 citations · DAC
 
 ## External Profiles
 

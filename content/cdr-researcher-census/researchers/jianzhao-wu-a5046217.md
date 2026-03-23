@@ -1,7 +1,7 @@
 ---
 title: "Jianzhao Wu"
 description: "Jianzhao Wu is a Senior Soil Carbon researcher at Chinese University of Hong Kong in CN. With 63 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.885255
+date: 2026-03-23T11:46:59.135001
 url: "/cdr-researcher-census/researchers/jianzhao-wu-a5046217/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 25 |
 | Citations | 5,104 |
 | Publications | 63 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1110.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Driving factors of ecosystem services and their spatiotemporal change assessment based on land use types in the Loess Plateau** (2022)
-   210 citations · Soil Carbon
+   210 citations · General CDR
 
 2. **Forestation delivers significantly more effective results in soil C and N sequestrations than natural succession on badly degraded areas: Evidence from the Central Loess Plateau case** (2021)
    61 citations · Soil Carbon
@@ -63,7 +63,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    53 citations · Soil Carbon
 
 5. **Inorganic Carbon Should Be Considered for Carbon Sequestration in Agricultural Soils** (2025)
-   23 citations · Biochar
+   23 citations · Soil Carbon
 
 6. **Vegetation restoration in the coarse‐textured soil area is more conducive to the accumulation of Fe‐associated C** (2024)
    12 citations · Soil Carbon
@@ -75,7 +75,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    0 citations · Soil Carbon
 
 9. **Microbial regulation mechanisms of soil organic carbon sequestration by biochar application** (2026)
-   0 citations · Biochar
+   0 citations
 
 ## External Profiles
 

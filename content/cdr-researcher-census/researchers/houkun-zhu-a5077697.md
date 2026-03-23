@@ -1,7 +1,7 @@
 ---
 title: "Houkun Zhu"
-description: "Houkun Zhu is a Mid-career General CDR researcher at China University of Mining and Technology in CN. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.125814
+description: "Houkun Zhu is a Mid-career carbon dioxide removal researcher at China University of Mining and Technology in CN. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.126090
 url: "/cdr-researcher-census/researchers/houkun-zhu-a5077697/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ China University of Mining and Technology · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 3 |
 | Citations | 131 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Efficient removal of H2S from BFG by ZnO and K2CO3 modified activated carbon at room temperature** (2025)
-   3 citations · General CDR
+   3 citations
 
 ## External Profiles
 

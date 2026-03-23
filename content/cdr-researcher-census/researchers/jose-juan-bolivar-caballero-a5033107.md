@@ -1,7 +1,7 @@
 ---
 title: "José Juan Bolívar Caballero"
 description: "José Juan Bolívar Caballero is an Early-career BECCS researcher at KTH Royal Institute of Technology in SE. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.857554
+date: 2026-03-23T11:47:00.803748
 url: "/cdr-researcher-census/researchers/jose-juan-bolivar-caballero-a5033107/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 4 |
 | Citations | 176 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

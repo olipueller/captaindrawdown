@@ -1,7 +1,7 @@
 ---
 title: "Saket Shrivastava"
 description: "Saket Shrivastava is an Early-career DAC researcher. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.474833
+date: 2026-03-23T11:47:00.260338
 url: "/cdr-researcher-census/researchers/saket-shrivastava-a5052391/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 3 |
 | Citations | 295 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

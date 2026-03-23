@@ -1,7 +1,7 @@
 ---
 title: "Wei‐Jen Lin"
 description: "Wei‐Jen Lin is a Mid-career Soil Carbon researcher at National Chung Hsing University in TW. With 34 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.644679
+date: 2026-03-23T11:47:00.507086
 url: "/cdr-researcher-census/researchers/weijen-lin-a5066341/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 230 |
 | Publications | 34 |
-| CDR Focus | 23.5% |
+| CDR Focus | 1180.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -57,22 +57,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    20 citations · Soil Carbon
 
 3. **Tidal influence on carbon dioxide and methane fluxes from tree stems and soils in mangrove forests** (2024)
-   7 citations · Soil Carbon
+   7 citations · General CDR
 
 4. **Exploring Spatial and Temporal Variations in Stem-Mediated Greenhouse Gas Emissions from Different Species of Mangroves** (2025)
-   1 citations · Soil Carbon
+   1 citations · General CDR
 
 5. **Comment on egusphere-2024-533** (2024)
-   0 citations · Soil Carbon
+   0 citations
 
 6. **Comment on egusphere-2024-533** (2024)
-   0 citations · Soil Carbon
+   0 citations
 
 7. **Comment on egusphere-2024-533** (2024)
-   0 citations · Soil Carbon
+   0 citations · Ocean CDR
 
 8. **Tidal influence on carbon dioxide and methane fluxes from tree stems and soils in mangrove forests** (2024)
-   0 citations · Soil Carbon
+   0 citations
 
 ## External Profiles
 

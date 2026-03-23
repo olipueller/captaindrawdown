@@ -1,7 +1,7 @@
 ---
 title: "Mathieu Thévenot"
 description: "Mathieu Thévenot is a Senior Soil Carbon researcher at Centre National de la Recherche Scientifique in FR. With 37 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.006144
+date: 2026-03-23T11:46:59.423840
 url: "/cdr-researcher-census/researchers/mathieu-thevenot-a5013931/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 12 |
 | Citations | 1,141 |
 | Publications | 37 |
-| CDR Focus | 10.8% |
+| CDR Focus | 810.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    0 citations · Soil Carbon
 
 3. **Effect of soil water content on soil respiration sensitivity to temperature (Q10) in a temperate beech forest: overview of data processing from four years of observation with automatic chambers** (2025)
-   0 citations · General CDR
+   0 citations
 
 4. **Effects of biochar and its co-application with inorganic and organic fertilizers on soil microbial respiration and temperature sensitivity of carbon mineralization.** (2024)
    0 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Wesly Kiprotich Cheruiyot"
 description: "Wesly Kiprotich Cheruiyot is a Mid-career Soil Carbon researcher at Jomo Kenyatta University of Agriculture and Technology in KE. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.476545
+date: 2026-03-23T11:47:00.264131
 url: "/cdr-researcher-census/researchers/wesly-kiprotich-cheruiyot-a5026468/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 295 |
 | Publications | 8 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

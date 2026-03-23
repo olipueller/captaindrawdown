@@ -1,7 +1,7 @@
 ---
 title: "Ahmed M. Alloush"
 description: "Ahmed M. Alloush is a Mid-career General CDR researcher at Khalifa University of Science and Technology in AE. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.282006
+date: 2026-03-23T11:46:59.948761
 url: "/cdr-researcher-census/researchers/ahmed-m-alloush-a5043192/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,22 +45,22 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 9 |
 | Citations | 425 |
 | Publications | 13 |
-| CDR Focus | 30.8% |
+| CDR Focus | 2310.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Post-synthetic modification of UiO-66 analogue metal-organic framework as potential solid sorbent for direct air capture** (2023)
-   35 citations · DAC
+   35 citations
 
 2. **Microwave-assisted synthesis of novel porous organic polymers for effective selective capture of CO2** (2022)
-   31 citations · General CDR
+   31 citations
 
 3. **New carbazole-based conjugated frameworks for carbon dioxide capture and water purification: Insights on the adsorptive sites' chemistry** (2022)
    4 citations · General CDR
 
 4. **New Carbazole-Based Conjugated Frameworks for Carbon Dioxide Capture and Water Purification: Insights on the Adsorptive Sites' Chemistry** (2022)
-   0 citations · General CDR
+   0 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Bi–Ni Jiang"
 description: "Bi–Ni Jiang is a Mid-career Biochar researcher at Nanjing Normal University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.500903
+date: 2026-03-23T11:47:00.308759
 url: "/cdr-researcher-census/researchers/bini-jiang-a5102403/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 5 |
 | Citations | 282 |
 | Publications | 8 |
-| CDR Focus | 62.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    6 citations · Biochar
 
 4. **Microbial biomass stoichiometry and proportion of Fe organic complexes separately shape the heterogeneity of mixotrophic denitrification and net N2O sinks in iron-carbon amended ecological ditch** (2024)
-   5 citations · Biochar
+   5 citations
 
 5. **Tree-Structured Parzen Estimator Optimized-Automated Machine Learning Assisted by Meta–Analysis for Predicting Biochar–Driven N2o Mitigation Effect in Constructed Wetlands** (2023)
    0 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Meijia Jiang"
-description: "Meijia Jiang is an Early-career Ocean CDR researcher at Xiamen University in CN. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.526151
+description: "Meijia Jiang is an Early-career General CDR researcher at Xiamen University in CN. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.344768
 url: "/cdr-researcher-census/researchers/meijia-jiang-a5072765/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Xiamen University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Ocean CDR**
+**General CDR**
 
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 4 |
 | Citations | 273 |
 | Publications | 4 |
-| CDR Focus | 25.0% |
+| CDR Focus | 2500.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **The potential of seaweed cultivation to achieve carbon neutrality and mitigate deoxygenation and eutrophication** (2021)
-   144 citations · Ocean CDR
+   144 citations · General CDR
 
 ## External Profiles
 

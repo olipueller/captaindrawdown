@@ -1,7 +1,7 @@
 ---
 title: "Matilyn Bindl"
 description: "Matilyn Bindl is a Mid-career General CDR researcher. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.039977
+date: 2026-03-23T11:47:01.031677
 url: "/cdr-researcher-census/researchers/matilyn-bindl-a5066148/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 3 |
 | Citations | 143 |
 | Publications | 8 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Adam Gillespie"
 description: "Adam Gillespie is a Senior Soil Carbon researcher at University of Guelph in CA. With 86 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.948372
+date: 2026-03-23T11:46:59.291147
 url: "/cdr-researcher-census/researchers/adam-gillespie-a5075858/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 24 |
 | Citations | 1,765 |
 | Publications | 86 |
-| CDR Focus | 15.1% |
+| CDR Focus | 1280.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    16 citations · Soil Carbon
 
 2. **Chemical composition of soil humin in an organic soil profile** (2024)
-   14 citations · Soil Carbon
+   14 citations
 
 3. **Chemical composition and thermal stability of topsoil organic carbon: Influence of cropping system and tillage practices** (2024)
    12 citations · Soil Carbon
@@ -63,13 +63,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    9 citations · General CDR
 
 5. **Adaptive multi-paddock grazing increases soil carbon stocks and decreases the carbon footprint of beef production in Ontario, Canada** (2024)
-   8 citations · Soil Carbon
+   8 citations · General CDR
 
 6. **Evidence for the formation of fused aromatic ring structures in an organic soil profile in the early diagenesis** (2023)
-   8 citations · Soil Carbon
+   8 citations
 
 7. **An Extensive Field-Scale Dataset of Topsoil Organic Carbon Content Aimed to Assess Remote Sensed Datasets and Data-Derived Products from Modeling Approaches** (2022)
-   4 citations · Soil Carbon
+   4 citations · General CDR
 
 8. **Drivers of high rates of carbon burial in a riverine-influenced freshwater marsh in the Long Point Walsingham Priority Place of southern Ontario** (2025)
    1 citations · Soil Carbon

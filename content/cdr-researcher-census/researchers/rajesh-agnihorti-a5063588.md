@@ -1,7 +1,7 @@
 ---
 title: "Rajesh Agnihorti"
 description: "Rajesh Agnihorti is a Mid-career Soil Carbon researcher. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.021204
+date: 2026-03-23T11:47:01.011923
 url: "/cdr-researcher-census/researchers/rajesh-agnihorti-a5063588/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -37,7 +37,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 147 |
 | Publications | 5 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

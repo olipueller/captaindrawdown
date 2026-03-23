@@ -1,7 +1,7 @@
 ---
 title: "Annika Stechemesser"
-description: "Annika Stechemesser is a Mid-career Ocean CDR researcher at Potsdam Institute for Climate Impact Research in DE. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.080618
+description: "Annika Stechemesser is a Mid-career General CDR researcher at Potsdam Institute for Climate Impact Research in DE. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.575642
 url: "/cdr-researcher-census/researchers/annika-stechemesser-a5025945/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Potsdam Institute for Climate Impact Research · 🇩🇪 DE
 
 ## CDR Specialization
 
-**Ocean CDR**
+**General CDR**
 
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 7 |
 | Citations | 777 |
 | Publications | 20 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

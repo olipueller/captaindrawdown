@@ -1,7 +1,7 @@
 ---
 title: "Haobo Feng"
-description: "Haobo Feng is a Mid-career Soil Carbon researcher at Beijing Forestry University in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.174051
+description: "Haobo Feng is a Mid-career General CDR researcher at Beijing Forestry University in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.176481
 url: "/cdr-researcher-census/researchers/haobo-feng-a5014510/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Beijing Forestry University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,16 +42,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 126 |
 | Publications | 15 |
-| CDR Focus | 13.3% |
+| CDR Focus | 670.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Research on the driving mechanisms of ecosystem services in the alpine canyon areas of Southwest China** (2025)
-   1 citations · Soil Carbon
+   1 citations · General CDR
 
 2. **Synergistic management enhances ecosystem services through optimized specialty agro-pastoralism in the context of food security** (2025)
-   0 citations · Soil Carbon
+   0 citations
 
 ## External Profiles
 

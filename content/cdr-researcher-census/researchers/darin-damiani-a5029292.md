@@ -1,7 +1,7 @@
 ---
 title: "Darin Damiani"
 description: "Darin Damiani is a Mid-career General CDR researcher at Vehicle Technologies Office in US. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.153139
+date: 2026-03-23T11:47:01.151408
 url: "/cdr-researcher-census/researchers/darin-damiani-a5029292/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 4 |
 | Citations | 128 |
 | Publications | 15 |
-| CDR Focus | 13.3% |
+| CDR Focus | 1330.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Yu-Fang Chang"
-description: "Yu-Fang Chang is a Mid-career Soil Carbon researcher at National Ilan University in TW. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.060740
+description: "Yu-Fang Chang is a Mid-career Biochar researcher at National Ilan University in TW. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.053077
 url: "/cdr-researcher-census/researchers/yu-fang-chang-a5048027/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ National Ilan University · 🇹🇼 TW
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 140 |
 | Publications | 19 |
-| CDR Focus | 10.5% |
+| CDR Focus | 1050.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Irshad Ibranshahib"
-description: "Irshad Ibranshahib is an Early-career Soil Carbon researcher at Huazhong University of Science and Technology in CN. With 1 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.896786
+description: "Irshad Ibranshahib is an Early-career Biochar researcher at Huazhong University of Science and Technology in CN. With 1 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.855968
 url: "/cdr-researcher-census/researchers/irshad-ibranshahib-a5080265/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Huazhong University of Science and Technology · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 1 |
 | Citations | 168 |
 | Publications | 1 |
-| CDR Focus | 100.0% |
+| CDR Focus | 10000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

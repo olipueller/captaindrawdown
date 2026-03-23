@@ -1,7 +1,7 @@
 ---
 title: "Guoyi Zhou"
 description: "Guoyi Zhou is a Senior Soil Carbon researcher at China Meteorological Administration in CN. With 37 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.964784
+date: 2026-03-23T11:46:59.320415
 url: "/cdr-researcher-census/researchers/guoyi-zhou-a5090779/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 16 |
 | Citations | 1,566 |
 | Publications | 37 |
-| CDR Focus | 10.8% |
+| CDR Focus | 810.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    288 citations · Soil Carbon
 
 2. **China’s forestation on marginal land was less efficient in carbon sequestration compared with non-marginal land** (2023)
-   20 citations · Soil Carbon
+   20 citations · General CDR
 
 3. **Reduced turnover rate of topsoil organic carbon in old-growth forests: a case study in subtropical China** (2021)
    11 citations · Soil Carbon

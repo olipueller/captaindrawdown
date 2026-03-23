@@ -1,7 +1,7 @@
 ---
 title: "Fangwei Cheng"
-description: "Fangwei Cheng is a Mid-career DAC researcher at Princeton University in US. With 36 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.030530
+description: "Fangwei Cheng is a Mid-career General CDR researcher at Princeton University in US. With 36 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.472331
 url: "/cdr-researcher-census/researchers/fangwei-cheng-a5004607/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Princeton University · 🇺🇸 US
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 14 |
 | Citations | 987 |
 | Publications | 36 |
-| CDR Focus | 16.7% |
+| CDR Focus | 830.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    78 citations · BECCS
 
 2. **Direct air capture integration with low-carbon heat: Process engineering and power system analysis** (2024)
-   9 citations · DAC
+   9 citations
 
 3. **Biopower with molten carbonate fuel cell carbon dioxide capture: Performance, cost, and grid-integration evaluations** (2024)
    7 citations · BECCS
@@ -63,7 +63,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    0 citations · BECCS
 
 5. **Direct Air Capture Integration with Low-Carbon Heat: Process Engineering and Power System Analysis** (2023)
-   0 citations · DAC
+   0 citations
 
 6. **Direct Air Capture Integration with Low-Carbon Heat: Process Engineering and Power System Analysis** (2023)
    0 citations · DAC

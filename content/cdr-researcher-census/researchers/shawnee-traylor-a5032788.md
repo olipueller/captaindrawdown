@@ -1,7 +1,7 @@
 ---
 title: "Shawnee Traylor"
 description: "Shawnee Traylor is a Mid-career Ocean CDR researcher at Woods Hole Oceanographic Institution in US. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.057618
+date: 2026-03-23T11:47:01.050809
 url: "/cdr-researcher-census/researchers/shawnee-traylor-a5032788/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 6 |
 | Citations | 140 |
 | Publications | 14 |
-| CDR Focus | 21.4% |
+| CDR Focus | 1430.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,10 +54,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    13 citations · Ocean CDR
 
 2. **An upper-mesopelagic-zone carbon budget for the subarctic North Pacific** (2025)
-   2 citations · General CDR
+   2 citations · Ocean CDR
 
 3. **An upper mesopelagic zone carbon budget for the subarctic North Pacific** (2024)
-   1 citations · General CDR
+   1 citations · Ocean CDR
 
 ## External Profiles
 

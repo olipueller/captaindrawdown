@@ -1,7 +1,7 @@
 ---
 title: "Hongrun Liu"
 description: "Hongrun Liu is a Mid-career Soil Carbon researcher at Ministry of Education in IR. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.304844
+date: 2026-03-23T11:46:59.983672
 url: "/cdr-researcher-census/researchers/hongrun-liu-a5026268/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 407 |
 | Publications | 17 |
-| CDR Focus | 11.8% |
+| CDR Focus | 590.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    108 citations · Soil Carbon
 
 2. **Sustainability of Maize–Soybean Rotation for Future Climate Change Scenarios in Northeast China** (2025)
-   1 citations · Enhanced Weathering
+   1 citations · Soil Carbon
 
 ## External Profiles
 

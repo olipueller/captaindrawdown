@@ -1,7 +1,7 @@
 ---
 title: "Chunyan Qu"
 description: "Chunyan Qu is a Senior Soil Carbon researcher at Northwest A&F University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.630416
+date: 2026-03-23T11:47:00.488958
 url: "/cdr-researcher-census/researchers/chunyan-qu-a5015187/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 235 |
 | Publications | 9 |
-| CDR Focus | 33.3% |
+| CDR Focus | 3330.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Ronley C. Canatoy"
 description: "Ronley C. Canatoy is a Mid-career Soil Carbon researcher at Gyeongsang National University in KR. With 31 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.587540
+date: 2026-03-23T11:47:00.428860
 url: "/cdr-researcher-census/researchers/ronley-c-canatoy-a5088663/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 10 |
 | Citations | 250 |
 | Publications | 31 |
-| CDR Focus | 25.8% |
+| CDR Focus | 1940.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -63,7 +63,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    7 citations · Biochar
 
 5. **Iron fertilization and soil carbon sequestration in rice paddies** (2024)
-   1 citations · Soil Carbon
+   1 citations · Ocean CDR
 
 6. **Greenhouse Gas Mitigation and Carbon Sequestration Potential of Biochar Derived from Plant and Animal Biomasses Under Submerged Soil Condition** (2025)
    0 citations · Biochar

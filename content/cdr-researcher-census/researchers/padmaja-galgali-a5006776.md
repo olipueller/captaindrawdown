@@ -1,7 +1,7 @@
 ---
 title: "Padmaja Galgali"
-description: "Padmaja Galgali is a Senior Biochar researcher. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.415594
+description: "Padmaja Galgali is a Senior carbon dioxide removal researcher. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.160098
 url: "/cdr-researcher-census/researchers/padmaja-galgali-a5006776/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -27,12 +27,6 @@ robots: "index, follow"
 
 **Career Stage:** Senior
 
-## CDR Specialization
-
-**Biochar**
-
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
-
 ## Metrics
 
 | Metric | Value |
@@ -40,13 +34,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 6 |
 | Citations | 328 |
 | Publications | 8 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Remediation of potentially toxic elements -containing wastewaters using water hyacinth – a review** (2022)
-   23 citations · Biochar
+   23 citations
 
 ## External Profiles
 

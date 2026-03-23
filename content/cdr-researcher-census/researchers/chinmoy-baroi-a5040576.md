@@ -1,7 +1,7 @@
 ---
 title: "Chinmoy Baroi"
 description: "Chinmoy Baroi is a Senior DAC researcher at Idaho National Laboratory in US. With 37 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.057539
+date: 2026-03-23T11:46:59.533379
 url: "/cdr-researcher-census/researchers/chinmoy-baroi-a5040576/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 13 |
 | Citations | 856 |
 | Publications | 37 |
-| CDR Focus | 18.9% |
+| CDR Focus | 540.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    0 citations · DAC
 
 3. **Advanced Nuclear Reactor Driven Direct Air Capture for Achieving Net-Negative Emissions** (2025)
-   0 citations · DAC
+   0 citations
 
 4. **Colorado (Pueblo) Regional Direct Air Capture (DAC) Hub** (2025)
    0 citations · DAC

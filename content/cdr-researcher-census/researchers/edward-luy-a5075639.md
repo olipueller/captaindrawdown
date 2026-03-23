@@ -1,7 +1,7 @@
 ---
 title: "Edward Luy"
-description: "Edward Luy is a Mid-career Ocean CDR researcher at Dalhousie University in CA. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.263144
+description: "Edward Luy is a Mid-career General CDR researcher at Dalhousie University in CA. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.276632
 url: "/cdr-researcher-census/researchers/edward-luy-a5075639/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Dalhousie University · 🇨🇦 CA
 
 ## CDR Specialization
 
-**Ocean CDR**
+**General CDR**
 
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 5 |
 | Citations | 115 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

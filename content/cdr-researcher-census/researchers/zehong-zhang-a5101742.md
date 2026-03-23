@@ -1,7 +1,7 @@
 ---
 title: "Zehong Zhang"
 description: "Zehong Zhang is a Senior Soil Carbon researcher at Shanghai Jiao Tong University in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.431218
+date: 2026-03-23T11:47:00.189691
 url: "/cdr-researcher-census/researchers/zehong-zhang-a5101742/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 317 |
 | Publications | 17 |
-| CDR Focus | 11.8% |
+| CDR Focus | 590.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Deqiang Zhao"
 description: "Deqiang Zhao is a Mid-career Soil Carbon researcher at Bangor University in GB. With 17 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.119843
+date: 2026-03-23T11:46:59.648675
 url: "/cdr-researcher-census/researchers/deqiang-zhao-a5102794/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 13 |
 | Citations | 670 |
 | Publications | 17 |
-| CDR Focus | 17.6% |
+| CDR Focus | 1760.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Effects of soil warming and straw return on soil organic matter and greenhouse gas fluxes in winter wheat seasons in the North China Plain** (2022)
-   80 citations · General CDR
+   80 citations · Soil Carbon
 
 2. **Subsoil <scp>SOC</scp> increased by high C:N ratio straw application with optimized nitrogen supplementation** (2024)
    13 citations · Soil Carbon

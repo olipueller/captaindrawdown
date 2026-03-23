@@ -1,7 +1,7 @@
 ---
 title: "Mojtaba Fakhraee"
-description: "Mojtaba Fakhraee is a Senior General CDR researcher at University of Connecticut in US. With 63 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.990194
+description: "Mojtaba Fakhraee is a Senior Ocean CDR researcher at University of Connecticut in US. With 63 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.383927
 url: "/cdr-researcher-census/researchers/mojtaba-fakhraee-a5051417/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Connecticut · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**Ocean CDR**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 21 |
 | Citations | 1,285 |
 | Publications | 63 |
-| CDR Focus | 12.7% |
+| CDR Focus | 1270.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Ocean alkalinity enhancement through restoration of blue carbon ecosystems** (2023)
-   65 citations · General CDR
+   65 citations · Ocean CDR
 
 2. **A biogeochemical model of mineral-based ocean alkalinity enhancement: impacts on the biological pump and ocean carbon uptake** (2023)
    52 citations · General CDR
@@ -60,16 +60,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    19 citations · General CDR
 
 4. **Ocean Alkalinity Enhancement Through Blue Carbon Ecosystem Restoration** (2022)
-   1 citations · General CDR
+   1 citations · Ocean CDR
 
 5. **In-situ deep ocean monitoring reveals rapid kelp degradation limits marine biomass-based carbon sequestration potential and alters benthic ecosystems** (2026)
-   0 citations · General CDR
+   0 citations · Ocean CDR
 
 6. **Bridging time lags in durable carbon removal on working lands** (2026)
    0 citations · Biochar
 
 7. **Seaweed farms enhance alkalinity production and carbon capture** (2026)
-   0 citations · General CDR
+   0 citations · Ocean CDR
 
 8. **Coupling acid neutralization and resource recovery to scale ocean alkalinity enhancement** (2025)
    0 citations · General CDR

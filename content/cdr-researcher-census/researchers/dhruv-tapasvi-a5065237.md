@@ -1,7 +1,7 @@
 ---
 title: "Dhruv Tapasvi"
-description: "Dhruv Tapasvi is a Mid-career General CDR researcher at Lindum (Norway) in NO. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.409420
+description: "Dhruv Tapasvi is a Mid-career Biochar researcher at Lindum (Norway) in NO. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.149648
 url: "/cdr-researcher-census/researchers/dhruv-tapasvi-a5065237/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Lindum (Norway) · 🇳🇴 NO
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 6 |
 | Citations | 331 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Yunfeng Zhao"
-description: "Yunfeng Zhao is a Senior Enhanced Weathering researcher at Nanjing Agricultural University in CN. With 30 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.422704
+description: "Yunfeng Zhao is a Senior Soil Carbon researcher at Nanjing Agricultural University in CN. With 30 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.174370
 url: "/cdr-researcher-census/researchers/yunfeng-zhao-a5110963/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Nanjing Agricultural University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Enhanced Weathering**
+**Soil Carbon**
 
-Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
 
 ## Metrics
 
@@ -42,31 +42,31 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 8 |
 | Citations | 323 |
 | Publications | 30 |
-| CDR Focus | 26.7% |
+| CDR Focus | 1000.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Moderate precipitation reduction enhances nitrogen cycling and soil nitrous oxide emissions in a semi‐arid grassland** (2023)
-   61 citations · Enhanced Weathering
+   61 citations · Soil Carbon
 
 2. **Precipitation increase promotes soil organic carbon formation and stability via the mycorrhizal fungal pathway** (2025)
    2 citations · Soil Carbon
 
 3. **Supplementary original data** (2023)
-   0 citations · Enhanced Weathering
+   0 citations · Soil Carbon
 
 4. **Supplementary original data** (2023)
-   0 citations · Enhanced Weathering
+   0 citations · Soil Carbon
 
 5. **Supplementary original data** (2023)
-   0 citations · Enhanced Weathering
+   0 citations · Soil Carbon
 
 6. **Moderate precipitation reduction enhances nitrogen cycling and soil nitrous oxide emissions in a semi-arid grassland** (2023)
-   0 citations · Enhanced Weathering
+   0 citations
 
 7. **Data from: Moderate precipitation reduction enhances nitrogen cycling and soil nitrous oxide emissions in a semi-arid grassland** (2023)
-   0 citations · Enhanced Weathering
+   0 citations · Soil Carbon
 
 8. **Climate warming suppresses soil abundant fungal taxa and reduces soil carbon efflux in a semi-arid grassland** (2023)
    0 citations · Soil Carbon

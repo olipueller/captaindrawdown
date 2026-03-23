@@ -1,7 +1,7 @@
 ---
 title: "Charles Lo"
-description: "Charles Lo is a Senior DAC researcher at University of Minnesota in US. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.248249
+description: "Charles Lo is a Senior carbon dioxide removal researcher at University of Minnesota in US. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.256577
 url: "/cdr-researcher-census/researchers/charles-lo-a5034093/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ University of Minnesota · 🇺🇸 US
 
 **Career Stage:** Senior
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 5 |
 | Citations | 117 |
 | Publications | 6 |
-| CDR Focus | 16.7% |
+| CDR Focus | 1670.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Large-scale PM2.5 removal and CO2 DAC to mitigate ambient air pollution and combat global climate change** (2025)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

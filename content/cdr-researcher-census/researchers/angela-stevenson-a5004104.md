@@ -1,7 +1,7 @@
 ---
 title: "Angela Stevenson"
 description: "Angela Stevenson is a Mid-career General CDR researcher at Marine Biological Association of the United Kingdom in GB. With 43 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.201545
+date: 2026-03-23T11:46:59.798274
 url: "/cdr-researcher-census/researchers/angela-stevenson-a5004104/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 13 |
 | Citations | 526 |
 | Publications | 43 |
-| CDR Focus | 14.0% |
+| CDR Focus | 930.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    36 citations · General CDR
 
 2. **Scoping carbon dioxide removal options for Germany–What is their potential contribution to Net-Zero CO2?** (2022)
-   33 citations · BECCS
+   33 citations · General CDR
 
 3. **A Comprehensive Assessment of Carbon Dioxide Removal Options for Germany** (2024)
    17 citations · BECCS
@@ -63,10 +63,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    0 citations · General CDR
 
 5. **A Comprehensive Assessment of Carbon Dioxide Removal Options for Germany** (2023)
-   0 citations · BECCS
+   0 citations
 
 6. **A Comprehensive Assessment of Carbon Dioxide Removal Options for Germany** (2023)
-   0 citations · General CDR
+   0 citations
 
 ## External Profiles
 

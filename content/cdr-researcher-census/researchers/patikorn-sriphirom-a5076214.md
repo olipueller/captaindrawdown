@@ -1,7 +1,7 @@
 ---
 title: "Patikorn Sriphirom"
 description: "Patikorn Sriphirom is a Mid-career Soil Carbon researcher at Silpakorn University in TH. With 27 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.227260
+date: 2026-03-23T11:46:59.846502
 url: "/cdr-researcher-census/researchers/patikorn-sriphirom-a5076214/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 494 |
 | Publications | 27 |
-| CDR Focus | 14.8% |
+| CDR Focus | 1480.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications

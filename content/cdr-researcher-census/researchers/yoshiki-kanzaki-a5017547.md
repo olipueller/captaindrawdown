@@ -1,7 +1,7 @@
 ---
 title: "Yoshiki Kanzaki"
-description: "Yoshiki Kanzaki is a Mid-career Enhanced Weathering researcher at Georgia Institute of Technology in US. With 77 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.135966
+description: "Yoshiki Kanzaki is a Mid-career General CDR researcher at Georgia Institute of Technology in US. With 77 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.674673
 url: "/cdr-researcher-census/researchers/yoshiki-kanzaki-a5017547/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Georgia Institute of Technology · 🇺🇸 US
 
 ## CDR Specialization
 
-**Enhanced Weathering**
+**General CDR**
 
-Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 14 |
 | Citations | 640 |
 | Publications | 77 |
-| CDR Focus | 40.3% |
+| CDR Focus | 2730.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -75,7 +75,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    4 citations · Enhanced Weathering
 
 9. **In silico calculation of soil pH by SCEPTER v1.0** (2024)
-   3 citations · Enhanced Weathering
+   3 citations
 
 10. **Expert elicitation on agricultural enhanced weathering highlights CO2 removal potential and uncertainties in loss pathways** (2025)
    2 citations · Enhanced Weathering

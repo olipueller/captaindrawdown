@@ -1,7 +1,7 @@
 ---
 title: "Xiong Yang"
-description: "Xiong Yang is a Mid-career DAC researcher at Central South University of Forestry and Technology in CN. With 17 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.535560
+description: "Xiong Yang is a Mid-career carbon dioxide removal researcher at Central South University of Forestry and Technology in CN. With 17 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.360872
 url: "/cdr-researcher-census/researchers/xiong-yang-a5115467/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Central South University of Forestry and Technology · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,16 +39,16 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 11 |
 | Citations | 268 |
 | Publications | 17 |
-| CDR Focus | 11.8% |
+| CDR Focus | 590.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Washcoated zeolite structured adsorbents for CO2 capture and recovery by rotary adsorption** (2025)
-   4 citations · DAC
+   4 citations
 
 2. **Washcoated Zeolite Structured Adsorbents for Co2 Capture and Recovery by Rotary Adsorption** (2024)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

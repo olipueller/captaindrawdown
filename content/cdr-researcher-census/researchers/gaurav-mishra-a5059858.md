@@ -1,7 +1,7 @@
 ---
 title: "Gaurav Mishra"
 description: "Gaurav Mishra is a Senior Soil Carbon researcher at ICFRE in IN. With 115 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.021577
+date: 2026-03-23T11:46:59.454631
 url: "/cdr-researcher-census/researchers/gaurav-mishra-a5059858/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 17 |
 | Citations | 1,045 |
 | Publications | 115 |
-| CDR Focus | 10.4% |
+| CDR Focus | 780.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -57,13 +57,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    17 citations · Soil Carbon
 
 3. **Climate-resilient pathways and nature-based solutions to reduce vulnerabilities to climate change in the Indian Himalayan Region** (2023)
-   10 citations · Soil Carbon
+   10 citations · General CDR
 
 4. **Modeling Land Use and Climate Change Effects on Soil Organic Carbon Storage under Different Plantation Systems in Mizoram, Northeast India** (2023)
    9 citations · Soil Carbon
 
 5. **Impact of land use Change on Carbon Management Index- A Study from the Foothills of Western Himalayas** (2024)
-   4 citations · Soil Carbon
+   4 citations · General CDR
 
 6. **Impact of Land Uses on Soil Organic Carbon Dynamics in the Indian Himalayan Region** (2023)
    3 citations · Soil Carbon
@@ -72,7 +72,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    3 citations · Soil Carbon
 
 8. **Viable land use options to achieve multiple ecosystem services in the Eastern Himalayas of India** (2023)
-   2 citations · Soil Carbon
+   2 citations · General CDR
 
 9. **Role of Traditional Farming Practices of Northeast India in Soil and Water Conservation and Sustainable Nutrient Management** (2024)
    1 citations · Soil Carbon

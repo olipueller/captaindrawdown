@@ -1,7 +1,7 @@
 ---
 title: "Maria Fernanda Rojas Michaga"
-description: "Maria Fernanda Rojas Michaga is a Mid-career DAC researcher at University of Sheffield in GB. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.210997
+description: "Maria Fernanda Rojas Michaga is a Mid-career General CDR researcher at University of Sheffield in GB. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.815100
 url: "/cdr-researcher-census/researchers/maria-fernanda-rojas-michaga-a5008537/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Sheffield · 🇬🇧 GB
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 5 |
 | Citations | 514 |
 | Publications | 12 |
-| CDR Focus | 33.3% |
+| CDR Focus | 3330.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

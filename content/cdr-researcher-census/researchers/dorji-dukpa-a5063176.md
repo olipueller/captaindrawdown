@@ -1,7 +1,7 @@
 ---
 title: "Dorji Dukpa"
-description: "Dorji Dukpa is a Senior Soil Carbon researcher. With 7 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.750751
+description: "Dorji Dukpa is a Senior carbon dioxide removal researcher. With 7 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.646541
 url: "/cdr-researcher-census/researchers/dorji-dukpa-a5063176/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -24,12 +24,6 @@ robots: "index, follow"
 
 **Career Stage:** Senior
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -37,13 +31,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 201 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Community perception of ecosystem services from commercially managed forests in Bhutan** (2021)
-   40 citations · Soil Carbon
+   40 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Xueya Zhou"
 description: "Xueya Zhou is a Mid-career Soil Carbon researcher at Peking University in CN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.403376
+date: 2026-03-23T11:47:01.420857
 url: "/cdr-researcher-census/researchers/xueya-zhou-a5087264/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 102 |
 | Publications | 8 |
-| CDR Focus | 37.5% |
+| CDR Focus | 2500.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Nitrogen addition decreases soil aggregation but enhances soil organic carbon stability in a temperate forest** (2022)
-   24 citations · Soil Carbon
+   24 citations
 
 2. **Precipitation reduction rather than nitrogen deposition promotes soil organic carbon sequestration by improving aggregate stability: Implications from 13C natural abundance** (2025)
    3 citations · Soil Carbon

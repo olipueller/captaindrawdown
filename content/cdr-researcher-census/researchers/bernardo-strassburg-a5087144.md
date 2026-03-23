@@ -1,7 +1,7 @@
 ---
 title: "Bernardo Strassburg"
-description: "Bernardo Strassburg is a Mid-career Soil Carbon researcher at Pontifical Catholic University of Rio de Janeiro in BR. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.130905
+description: "Bernardo Strassburg is a Mid-career Biochar researcher at Pontifical Catholic University of Rio de Janeiro in BR. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.665458
 url: "/cdr-researcher-census/researchers/bernardo-strassburg-a5087144/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Pontifical Catholic University of Rio de Janeiro · 🇧🇷 BR
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 650 |
 | Publications | 17 |
-| CDR Focus | 11.8% |
+| CDR Focus | 1180.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

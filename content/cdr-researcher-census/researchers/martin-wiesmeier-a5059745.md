@@ -1,7 +1,7 @@
 ---
 title: "Martin Wiesmeier"
 description: "Martin Wiesmeier is an Eminent Soil Carbon researcher at Technical University of Munich in DE. With 179 publications and an h-index of 47, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.869758
+date: 2026-03-23T11:46:59.095194
 url: "/cdr-researcher-census/researchers/martin-wiesmeier-a5059745/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 47 |
 | Citations | 9,560 |
 | Publications | 179 |
-| CDR Focus | 11.2% |
+| CDR Focus | 950.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -63,7 +63,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    99 citations · Soil Carbon
 
 5. **Soil carbon sequestration by agroforestry systems in China: A meta-analysis** (2021)
-   82 citations · Soil Carbon
+   82 citations · General CDR
 
 6. **Soil organic carbon sequestration in agricultural long-term field experiments as derived from particulate and mineral-associated organic matter** (2023)
    59 citations · Soil Carbon

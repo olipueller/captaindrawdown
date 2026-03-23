@@ -1,7 +1,7 @@
 ---
 title: "Barkat Ullah"
-description: "Barkat Ullah is a Mid-career Soil Carbon researcher at COMSATS University Islamabad in PK. With 26 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.811388
+description: "Barkat Ullah is a Mid-career Biochar researcher at COMSATS University Islamabad in PK. With 26 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.721199
 url: "/cdr-researcher-census/researchers/barkat-ullah-a5062083/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ COMSATS University Islamabad · 🇵🇰 PK
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 185 |
 | Publications | 26 |
-| CDR Focus | 11.5% |
+| CDR Focus | 1150.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    1 citations · Biochar
 
 2. **Sustainable soil management under changing climate** (2024)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 3. **Biochar for carbon sequestration under heavy metal–contaminated soils** (2024)
    0 citations · Biochar

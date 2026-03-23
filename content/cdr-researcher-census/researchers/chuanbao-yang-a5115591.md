@@ -1,7 +1,7 @@
 ---
 title: "Chuanbao Yang"
 description: "Chuanbao Yang is a Mid-career Soil Carbon researcher at China National Bamboo Research Center in CN. With 19 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.127374
+date: 2026-03-23T11:46:59.660862
 url: "/cdr-researcher-census/researchers/chuanbao-yang-a5115591/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 13 |
 | Citations | 656 |
 | Publications | 19 |
-| CDR Focus | 21.1% |
+| CDR Focus | 2110.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    21 citations · Soil Carbon
 
 3. **Effects of chicken farming on soil extracellular enzyme activity and microbial nutrient limitation in Lei bamboo forest (Phyllostachys praecox) in subtropical China** (2021)
-   13 citations · Soil Carbon
+   13 citations
 
 4. **Introducing Native Tree Species Alter the Soil Organic Carbon, Nitrogen, Phosphorus, and Fine Roots in Moso Bamboo Plantations** (2024)
    4 citations · Soil Carbon

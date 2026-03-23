@@ -1,7 +1,7 @@
 ---
 title: "Pietro Andreoni"
-description: "Pietro Andreoni is a Mid-career DAC researcher at RFF-CMCC European Institute on Economics and the Environment in IT. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.225545
+description: "Pietro Andreoni is a Mid-career General CDR researcher at RFF-CMCC European Institute on Economics and the Environment in IT. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.233132
 url: "/cdr-researcher-census/researchers/pietro-andreoni-a5057397/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ RFF-CMCC European Institute on Economics and the Environment · 🇮🇹 IT
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,16 +45,16 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 7 |
 | Citations | 119 |
 | Publications | 14 |
-| CDR Focus | 21.4% |
+| CDR Focus | 1430.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Inequality repercussions of financing negative emissions** (2023)
-   27 citations · DAC
+   27 citations · General CDR
 
 2. **Inequality repercussions of financing negative emissions** (2022)
-   7 citations · DAC
+   7 citations
 
 3. **Unpacking the bottlenecks of deploying Direct Air Capture at scale** (2025)
    0 citations · DAC

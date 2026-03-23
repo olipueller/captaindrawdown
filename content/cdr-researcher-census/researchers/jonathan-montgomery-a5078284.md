@@ -1,7 +1,7 @@
 ---
 title: "Jonathan Montgomery"
-description: "Jonathan Montgomery is a Mid-career Soil Carbon researcher at Cal Poly Humboldt in US. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.361092
+description: "Jonathan Montgomery is a Mid-career Biochar researcher at Cal Poly Humboldt in US. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.376982
 url: "/cdr-researcher-census/researchers/jonathan-montgomery-a5078284/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Cal Poly Humboldt · 🇺🇸 US
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 3 |
 | Citations | 106 |
 | Publications | 4 |
-| CDR Focus | 25.0% |
+| CDR Focus | 2500.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

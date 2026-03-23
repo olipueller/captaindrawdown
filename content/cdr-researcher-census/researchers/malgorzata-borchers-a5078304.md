@@ -1,7 +1,7 @@
 ---
 title: "Malgorzata Borchers"
 description: "Malgorzata Borchers is a Mid-career General CDR researcher at Helmholtz Centre for Environmental Research in DE. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.683662
+date: 2026-03-23T11:47:00.559226
 url: "/cdr-researcher-census/researchers/malgorzata-borchers-a5078304/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 7 |
 | Citations | 219 |
 | Publications | 20 |
-| CDR Focus | 75.0% |
+| CDR Focus | 5500.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    36 citations · General CDR
 
 2. **Scoping carbon dioxide removal options for Germany–What is their potential contribution to Net-Zero CO2?** (2022)
-   33 citations · BECCS
+   33 citations · General CDR
 
 3. **A Comprehensive Assessment of Carbon Dioxide Removal Options for Germany** (2024)
    17 citations · BECCS
@@ -63,13 +63,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    12 citations · BECCS
 
 5. **Scientific literature on carbon dioxide removal much larger than previously suggested: insights from an AI-enhanced systematic map** (2024)
-   7 citations · Biochar
+   7 citations · General CDR
 
 6. **Scientific literature on carbon dioxide removal revealed as much larger through AI-enhanced systematic mapping** (2025)
-   6 citations · Biochar
+   6 citations · General CDR
 
 7. **Dynamics of bio-based carbon dioxide removal in Germany** (2024)
-   4 citations · BECCS
+   4 citations
 
 8. **Exploring Site‐Specific Carbon Dioxide Removal Options With Storage or Sequestration in the Marine Environment – The 10 Mt CO<sub>2</sub> yr<sup>−1</sup> Removal Challenge for Germany** (2025)
    3 citations · General CDR

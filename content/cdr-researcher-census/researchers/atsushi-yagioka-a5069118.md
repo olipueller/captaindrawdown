@@ -1,7 +1,7 @@
 ---
 title: "Atsushi Yagioka"
 description: "Atsushi Yagioka is a Mid-career Soil Carbon researcher at Hokkaido Agricultural Research Center in JP. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.663952
+date: 2026-03-23T11:47:00.530497
 url: "/cdr-researcher-census/researchers/atsushi-yagioka-a5069118/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 225 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

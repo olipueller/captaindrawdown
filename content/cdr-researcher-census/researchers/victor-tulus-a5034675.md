@@ -1,7 +1,7 @@
 ---
 title: "Víctor Tulus"
 description: "Víctor Tulus is a Mid-career DAC researcher at ETH Zurich in CH. With 37 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.950114
+date: 2026-03-23T11:46:59.293654
 url: "/cdr-researcher-census/researchers/victor-tulus-a5034675/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 17 |
 | Citations | 1,744 |
 | Publications | 37 |
-| CDR Focus | 18.9% |
+| CDR Focus | 1350.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,19 +54,19 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    46 citations · BECCS
 
 2. **The role of hydrogen in heavy transport to operate within planetary boundaries** (2021)
-   37 citations · BECCS
+   37 citations
 
 3. **Microalgae Biofuel for a Heavy-Duty Transport Sector within Planetary Boundaries** (2023)
    12 citations · DAC
 
 4. **Absolute environmental sustainability assessment of renewable dimethyl ether fuelled heavy-duty trucks** (2023)
-   0 citations · BECCS
+   0 citations · DAC
 
 5. **Absolute environmental sustainability assessment of renewable dimethyl ether fuelled heavy-duty trucks** (2023)
-   0 citations · BECCS
+   0 citations
 
 6. **Dataset: The implications of microalgae biofuel production for the heavy-duty transport sector under planetary boundary perspective** (2023)
-   0 citations · DAC
+   0 citations
 
 7. **Dataset: The implications of microalgae biofuel production for the heavy-duty transport sector under planetary boundary perspective** (2023)
    0 citations · DAC

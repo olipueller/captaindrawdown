@@ -1,7 +1,7 @@
 ---
 title: "Beccy Wilebore"
-description: "Beccy Wilebore is a Mid-career Soil Carbon researcher at National Air Traffic Services (United Kingdom) in GB. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.462744
+description: "Beccy Wilebore is a Mid-career General CDR researcher at National Air Traffic Services (United Kingdom) in GB. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.240147
 url: "/cdr-researcher-census/researchers/beccy-wilebore-a5070215/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ National Air Traffic Services (United Kingdom) · 🇬🇧 GB
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 301 |
 | Publications | 8 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **A High-resolution Soil Organic Carbon Map for Great Britain** (2024)
-   2 citations · Soil Carbon
+   2 citations · General CDR
 
 ## External Profiles
 

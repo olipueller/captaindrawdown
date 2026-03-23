@@ -1,7 +1,7 @@
 ---
 title: "Jeffrey H. Xu"
-description: "Jeffrey H. Xu is a Mid-career DAC researcher. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.915087
+description: "Jeffrey H. Xu is a Mid-career carbon dioxide removal researcher. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.882184
 url: "/cdr-researcher-census/researchers/jeffrey-h-xu-a5066381/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -27,12 +27,6 @@ robots: "index, follow"
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -40,16 +34,16 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 6 |
 | Citations | 164 |
 | Publications | 20 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Encapsulation of Nanoparticle Organic Hybrid Materials within Electrospun Hydrophobic Polymer/Ceramic Fibers for Enhanced CO<sub>2</sub> Capture** (2023)
-   9 citations · DAC
+   9 citations
 
 2. **Encapsulation of Nanoparticle Organic Hybrid Materials within Electrospun Hydrophobic Polymer/Ceramic Fibers for Enhanced CO<sub>2</sub> Capture (Adv. Funct. Mater. 32/2023)** (2023)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

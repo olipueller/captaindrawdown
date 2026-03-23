@@ -1,7 +1,7 @@
 ---
 title: "Lucinda Watt"
-description: "Lucinda Watt is a Mid-career Soil Carbon researcher at Commonwealth Scientific and Industrial Research Organisation in AU. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.416954
+description: "Lucinda Watt is a Mid-career General CDR researcher at Commonwealth Scientific and Industrial Research Organisation in AU. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.433074
 url: "/cdr-researcher-census/researchers/lucinda-watt-a5025818/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Commonwealth Scientific and Industrial Research Organisation · 🇦🇺 AU
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,16 +45,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 101 |
 | Publications | 16 |
-| CDR Focus | 12.5% |
+| CDR Focus | 620.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Structural inequities shape biodiversity and climate mitigation outcomes in livestock systems** (2026)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 2. **Tailoring Australian carbon farming can realise greater co-benefits** (2026)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Hoda Shokrollahzadeh Behbahani"
 description: "Hoda Shokrollahzadeh Behbahani is a Mid-career DAC researcher at California University of Pennsylvania in US. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.101403
+date: 2026-03-23T11:47:01.102732
 url: "/cdr-researcher-census/researchers/hoda-shokrollahzadeh-behbahani-a5042632/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,19 +45,19 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 7 |
 | Citations | 134 |
 | Publications | 14 |
-| CDR Focus | 35.7% |
+| CDR Focus | 3570.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Quaternary Ammonium-Functionalized Poly(Arylene Ether Sulfone) Random Copolymers for Direct Air Capture** (2023)
-   17 citations · DAC
+   17 citations
 
 2. **Polydiallylammonium-Polysulfone Multiblock Copolymers for Moisture-Swing Direct Air Capture of Carbon Dioxide** (2024)
-   14 citations · DAC
+   14 citations
 
 3. **Polymers in direct air capture: a mini review** (2025)
-   2 citations · DAC
+   2 citations
 
 4. **Direct Air Capture of CO<sub>2</sub>** (2023)
    2 citations · DAC

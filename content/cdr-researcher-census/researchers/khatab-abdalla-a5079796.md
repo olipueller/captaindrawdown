@@ -1,7 +1,7 @@
 ---
 title: "Khatab Abdalla"
 description: "Khatab Abdalla is a Mid-career Soil Carbon researcher at Friedrich-Alexander-Universität Erlangen-Nürnberg in DE. With 34 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.183250
+date: 2026-03-23T11:46:59.762301
 url: "/cdr-researcher-census/researchers/khatab-abdalla-a5079796/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 12 |
 | Citations | 560 |
 | Publications | 34 |
-| CDR Focus | 20.6% |
+| CDR Focus | 2060.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Long-term continuous farmyard manure application increases soil carbon when combined with mineral fertilizers due to lower priming effects** (2022)
-   54 citations · Soil Carbon
+   54 citations
 
 2. **High soil salinity reduces straw decomposition but primes soil organic carbon loss** (2025)
    22 citations · Soil Carbon
@@ -69,7 +69,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    0 citations · Soil Carbon
 
 7. **Can cup-plant (Silphium perfoliatum L.) as a perennial bioenergy crop surpass silage maize (Zea mays L.) for C sequestration?** (2023)
-   0 citations · Soil Carbon
+   0 citations · BECCS
 
 ## External Profiles
 

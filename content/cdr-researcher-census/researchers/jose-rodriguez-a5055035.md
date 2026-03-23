@@ -1,7 +1,7 @@
 ---
 title: "Jose Rodriguez"
-description: "Jose Rodriguez is a Senior General CDR researcher at University of Nottingham in GB. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.367828
+description: "Jose Rodriguez is a Senior Biochar researcher at University of Nottingham in GB. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.084182
 url: "/cdr-researcher-census/researchers/jose-rodriguez-a5055035/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Nottingham · 🇬🇧 GB
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -45,16 +45,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 10 |
 | Citations | 359 |
 | Publications | 20 |
-| CDR Focus | 10.0% |
+| CDR Focus | 500.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Microwave pyrolysis of waste biomass and synthesis of micro-mesoporous activated carbons: The role of textural properties for CO2 and textile dye adsorption** (2024)
-   54 citations · General CDR
+   54 citations
 
 2. **Microwave Pyrolysis of Waste Biomass and Synthesis of Micro-Mesoporous Activated Carbons. The Role of Textural Properties for Co2 and Textile Dye Adsorption** (2024)
-   1 citations · General CDR
+   1 citations · Biochar
 
 ## External Profiles
 

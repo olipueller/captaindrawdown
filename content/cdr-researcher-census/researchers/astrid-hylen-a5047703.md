@@ -1,7 +1,7 @@
 ---
 title: "Astrid Hylén"
-description: "Astrid Hylén is a Mid-career Ocean CDR researcher at CEREGE in FR. With 49 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.305663
+description: "Astrid Hylén is a Mid-career Enhanced Weathering researcher at CEREGE in FR. With 49 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.984222
 url: "/cdr-researcher-census/researchers/astrid-hylen-a5047703/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ CEREGE · 🇫🇷 FR
 
 ## CDR Specialization
 
-**Ocean CDR**
+**Enhanced Weathering**
 
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 12 |
 | Citations | 406 |
 | Publications | 49 |
-| CDR Focus | 24.5% |
+| CDR Focus | 1840.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,16 +54,16 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    20 citations · Enhanced Weathering
 
 2. **Microbial Community Structure in Contrasting Hawaiian Coastal Sediments** (2025)
-   1 citations · General CDR
+   1 citations
 
 3. **Microbial community structure in contrasting Hawaiian coastal sediments** (2025)
-   1 citations · General CDR
+   1 citations
 
 4. **Review and syntheses: Ocean alkalinity enhancement and carbon dioxide removal through coastal enhanced silicate weathering with olivine** (2024)
    1 citations · Enhanced Weathering
 
 5. **Ocean alkalinity enhancement through enhanced silicate weathering in coastal areas: a long-term mesocosm study** (2023)
-   1 citations · Ocean CDR
+   1 citations · Enhanced Weathering
 
 6. **A natural analogue of enhanced rock weathering: microbial communities in the olivine-rich Papakōlea Beach (Hawaii, USA)** (2025)
    0 citations · Enhanced Weathering
@@ -75,10 +75,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    0 citations · Enhanced Weathering
 
 9. **The age of reason for mineral-based ocean alkalinity enhancement?** (2024)
-   0 citations · Ocean CDR
+   0 citations · General CDR
 
 10. **Spatial constraints on ocean alkalinity enhancement through coastal enhanced silicate weathering** (2024)
-   0 citations · Ocean CDR
+   0 citations · Enhanced Weathering
 
 ## External Profiles
 

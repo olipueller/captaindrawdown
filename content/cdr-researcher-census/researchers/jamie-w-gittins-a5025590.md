@@ -1,7 +1,7 @@
 ---
 title: "Jamie W. Gittins"
-description: "Jamie W. Gittins is a Mid-career DAC researcher at University of Cambridge in GB. With 32 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.113272
+description: "Jamie W. Gittins is a Mid-career Ocean CDR researcher at University of Cambridge in GB. With 32 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.637419
 url: "/cdr-researcher-census/researchers/jamie-w-gittins-a5025590/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Cambridge · 🇬🇧 GB
 
 ## CDR Specialization
 
-**DAC**
+**Ocean CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
 
 ## Metrics
 
@@ -45,22 +45,22 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 9 |
 | Citations | 687 |
 | Publications | 32 |
-| CDR Focus | 12.5% |
+| CDR Focus | 620.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Capturing carbon dioxide from air with charged-sorbents** (2024)
-   127 citations · DAC
+   127 citations
 
 2. **Capturing Carbon Dioxide from Air with Charged-Sorbents** (2024)
-   3 citations · DAC
+   3 citations
 
 3. **Demonstrating Electrochemical CO$_2$ Capture on Redox-Active Metal-Organic Frameworks** (2024)
-   0 citations · DAC
+   0 citations · Ocean CDR
 
 4. **Capturing Carbon Dioxide from Air with Charged Sorbents** (2023)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

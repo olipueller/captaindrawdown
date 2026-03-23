@@ -1,7 +1,7 @@
 ---
 title: "Sana Wahab"
-description: "Sana Wahab is a Mid-career Soil Carbon researcher at Quaid-i-Azam University in PK. With 50 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.544784
+description: "Sana Wahab is a Mid-career Biochar researcher at Quaid-i-Azam University in PK. With 50 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.373272
 url: "/cdr-researcher-census/researchers/sana-wahab-a5023323/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Quaid-i-Azam University · 🇵🇰 PK
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -45,22 +45,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 265 |
 | Publications | 50 |
-| CDR Focus | 10.0% |
+| CDR Focus | 800.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Relationship between the Floristic Composition and Soil Characteristics of a Tropical Rainforest (TRF)** (2023)
-   11 citations · BECCS
+   11 citations
 
 2. **Biochar effects on soil biology** (2024)
    1 citations · Biochar
 
 3. **Biochar impacts on soil–plant ecosystems** (2024)
-   0 citations · Soil Carbon
+   0 citations · Biochar
 
 4. **Sustainable soil management under changing climate** (2024)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 5. **Biochar for carbon sequestration under heavy metal–contaminated soils** (2024)
    0 citations · Biochar

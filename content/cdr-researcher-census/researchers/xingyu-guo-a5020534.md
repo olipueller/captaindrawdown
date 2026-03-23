@@ -1,7 +1,7 @@
 ---
 title: "Xingyu Guo"
 description: "Xingyu Guo is a Mid-career Soil Carbon researcher at Northeast Forestry University in CN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.212248
+date: 2026-03-23T11:47:01.218080
 url: "/cdr-researcher-census/researchers/xingyu-guo-a5020534/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 121 |
 | Publications | 13 |
-| CDR Focus | 30.8% |
+| CDR Focus | 2310.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    10 citations · Soil Carbon
 
 4. **Integrated assessment reveals plowing/no-tillage rotation as the trade-off considering crop yield and environmental performance in the Loess Plateau** (2025)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Kaikai Min"
 description: "Kaikai Min is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.383812
+date: 2026-03-23T11:47:01.402455
 url: "/cdr-researcher-census/researchers/kaikai-min-a5020506/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 104 |
 | Publications | 11 |
-| CDR Focus | 36.4% |
+| CDR Focus | 3640.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -54,10 +54,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    16 citations · Soil Carbon
 
 2. **Bacterial community structure and assembly dynamics hinge on plant litter quality** (2023)
-   6 citations · Soil Carbon
+   6 citations
 
 3. **Ecotypes shape extracellular enzyme stoichiometries via microbial resource allocation** (2024)
-   3 citations · Soil Carbon
+   3 citations
 
 4. **Distinct decomposition dynamics of heterogeneous carbon components in cultivated agricultural soils controlled by flexible microbial substrate utilization strategy** (2025)
    0 citations · Soil Carbon

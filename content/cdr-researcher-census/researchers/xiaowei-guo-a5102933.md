@@ -1,7 +1,7 @@
 ---
 title: "Xiaowei Guo"
 description: "Xiaowei Guo is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 28 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.083809
+date: 2026-03-23T11:46:59.580509
 url: "/cdr-researcher-census/researchers/xiaowei-guo-a5102933/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 12 |
 | Citations | 770 |
 | Publications | 28 |
-| CDR Focus | 10.7% |
+| CDR Focus | 1070.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Luca Giuliano Bernardini"
 description: "Luca Giuliano Bernardini is a Mid-career Soil Carbon researcher at BOKU University in AT. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.204123
+date: 2026-03-23T11:47:01.209530
 url: "/cdr-researcher-census/researchers/luca-giuliano-bernardini-a5088383/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 122 |
 | Publications | 20 |
-| CDR Focus | 15.0% |
+| CDR Focus | 1500.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,10 +54,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    36 citations · Soil Carbon
 
 2. **Benchmarking carbon sequestration potentials in arable soils by on-farm research on innovative pioneer farms** (2022)
-   25 citations · Soil Carbon
+   25 citations
 
 3. **Improved prediction of soil organic carbon sequestration potentials in Austrian arable soils as simulated by multi-model ensembles** (2023)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Jiacheng Sun"
 description: "Jiacheng Sun is an Early-career Biochar researcher at University of Edinburgh in GB. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.507479
+date: 2026-03-23T11:47:00.317851
 url: "/cdr-researcher-census/researchers/jiacheng-sun-a5030738/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 4 |
 | Citations | 280 |
 | Publications | 8 |
-| CDR Focus | 62.5% |
+| CDR Focus | 3750.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

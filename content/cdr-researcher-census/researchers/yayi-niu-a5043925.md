@@ -1,7 +1,7 @@
 ---
 title: "Yayi Niu"
 description: "Yayi Niu is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 25 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.290932
+date: 2026-03-23T11:46:59.961282
 url: "/cdr-researcher-census/researchers/yayi-niu-a5043925/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 12 |
 | Citations | 418 |
 | Publications | 25 |
-| CDR Focus | 12.0% |
+| CDR Focus | 1200.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

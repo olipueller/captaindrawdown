@@ -1,7 +1,7 @@
 ---
 title: "Danilo Perecin"
 description: "Danilo Perecin is a Mid-career BECCS researcher at Universidade de São Paulo in BR. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.533624
+date: 2026-03-23T11:47:00.356722
 url: "/cdr-researcher-census/researchers/danilo-perecin-a5028320/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 6 |
 | Citations | 269 |
 | Publications | 19 |
-| CDR Focus | 15.8% |
+| CDR Focus | 1050.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Spencer Clark"
-description: "Spencer Clark is a Senior Ocean CDR researcher at University of Melbourne in AU. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.041124
+description: "Spencer Clark is a Senior General CDR researcher at University of Melbourne in AU. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.032765
 url: "/cdr-researcher-census/researchers/spencer-clark-a5011630/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Melbourne · 🇦🇺 AU
 
 ## CDR Specialization
 
-**Ocean CDR**
+**General CDR**
 
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 5 |
 | Citations | 143 |
 | Publications | 12 |
-| CDR Focus | 16.7% |
+| CDR Focus | 1670.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

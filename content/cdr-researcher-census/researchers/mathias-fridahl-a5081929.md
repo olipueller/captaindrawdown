@@ -1,7 +1,7 @@
 ---
 title: "Mathias Fridahl"
 description: "Mathias Fridahl is a Senior General CDR researcher at Linköping University in SE. With 69 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.951402
+date: 2026-03-23T11:46:59.296027
 url: "/cdr-researcher-census/researchers/mathias-fridahl-a5081929/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 25 |
 | Citations | 1,728 |
 | Publications | 69 |
-| CDR Focus | 30.4% |
+| CDR Focus | 2750.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,13 +54,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    142 citations · General CDR
 
 2. **Integrating Carbon Dioxide Removal Into European Emissions Trading** (2021)
-   108 citations · BECCS
+   108 citations · DAC
 
 3. **Cancel (Out) Emissions? The Envisaged Role of Carbon Dioxide Removal Technologies in Long-Term National Climate Strategies** (2021)
    54 citations · General CDR
 
 4. **Procure, Bank, Release: Carbon Removal Certificate Reserves to Manage Carbon Prices on the Path to Net-Zero** (2022)
-   42 citations · BECCS
+   42 citations · General CDR
 
 5. **Socio-Economic Determinants for Biochar Deployment in the Southern Highlands of Tanzania** (2021)
    40 citations · Biochar

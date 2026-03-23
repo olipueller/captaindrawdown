@@ -1,7 +1,7 @@
 ---
 title: "Rory Jacobson"
 description: "Rory Jacobson is a Mid-career General CDR researcher at Fossil Energy Research (United States) in US. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.285579
+date: 2026-03-23T11:46:59.954102
 url: "/cdr-researcher-census/researchers/rory-jacobson-a5078779/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,13 +42,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 5 |
 | Citations | 422 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **An Overview of the U.S. Department of Energy Office of Fossil Energy and Carbon Management's Carbon Dioxide Removal Program** (2024)
-   0 citations · DAC
+   0 citations · General CDR
 
 ## External Profiles
 

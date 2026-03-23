@@ -1,7 +1,7 @@
 ---
 title: "Shenyan Dai"
-description: "Shenyan Dai is a Mid-career Soil Carbon researcher at Nanjing Normal University in CN. With 18 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.315177
+description: "Shenyan Dai is a Mid-career Biochar researcher at Nanjing Normal University in CN. With 18 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.997298
 url: "/cdr-researcher-census/researchers/shenyan-dai-a5102924/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Nanjing Normal University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -45,19 +45,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 11 |
 | Citations | 400 |
 | Publications | 18 |
-| CDR Focus | 16.7% |
+| CDR Focus | 1110.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Effects of 18 years repeated N fertilizer applications on gross N transformation rates in a subtropical rain-fed purple soil** (2023)
-   19 citations · Soil Carbon
+   19 citations
 
 2. **Biochar application can mitigate NH3 volatilization in acidic forest and upland soils but stimulates gaseous N losses in flooded acidic paddy soil** (2022)
    17 citations · Biochar
 
 3. **Biochar Application Can Mitigate Nh3 Volatilization in Acidic Forest and Upland Soils But Stimulates Gaseous N Losses in Flooded Acidic Paddy Soil** (2022)
-   0 citations · Biochar
+   0 citations
 
 ## External Profiles
 

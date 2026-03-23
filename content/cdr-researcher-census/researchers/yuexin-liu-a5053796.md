@@ -1,7 +1,7 @@
 ---
 title: "Yuexin Liu"
-description: "Yuexin Liu is a Mid-career Soil Carbon researcher at Inner Mongolia University in CN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.750546
+description: "Yuexin Liu is a Mid-career carbon dioxide removal researcher at Inner Mongolia University in CN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.646271
 url: "/cdr-researcher-census/researchers/yuexin-liu-a5053796/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Inner Mongolia University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 201 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Assessment of the effectiveness of China’s protected areas in enhancing ecosystem services** (2023)
-   64 citations · Soil Carbon
+   64 citations
 
 ## External Profiles
 

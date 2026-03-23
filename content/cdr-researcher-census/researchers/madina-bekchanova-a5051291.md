@@ -1,7 +1,7 @@
 ---
 title: "Madina Bekchanova"
 description: "Madina Bekchanova is an Early-career Biochar researcher at Hasselt University in BE. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.422448
+date: 2026-03-23T11:47:00.174080
 url: "/cdr-researcher-census/researchers/madina-bekchanova-a5051291/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 4 |
 | Citations | 323 |
 | Publications | 10 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

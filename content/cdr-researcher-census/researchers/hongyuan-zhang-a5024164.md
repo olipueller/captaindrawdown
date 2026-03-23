@@ -1,7 +1,7 @@
 ---
 title: "Hongyuan Zhang"
 description: "Hongyuan Zhang is a Senior Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 80 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.974904
+date: 2026-03-23T11:46:59.343876
 url: "/cdr-researcher-census/researchers/hongyuan-zhang-a5024164/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 21 |
 | Citations | 1,436 |
 | Publications | 80 |
-| CDR Focus | 10.0% |
+| CDR Focus | 880.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Potentially toxic trace element pollution in long-term fertilized agricultural soils in China: A meta-analysis** (2021)
-   42 citations · Soil Carbon
+   42 citations
 
 2. **High soil salinity reduces straw decomposition but primes soil organic carbon loss** (2025)
    22 citations · Soil Carbon

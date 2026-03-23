@@ -1,7 +1,7 @@
 ---
 title: "Michael L. Barsoum"
-description: "Michael L. Barsoum is a Mid-career DAC researcher. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.528546
+description: "Michael L. Barsoum is a Mid-career General CDR researcher. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.349978
 url: "/cdr-researcher-census/researchers/michael-l-barsoum-a5012999/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,9 +29,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -40,25 +40,25 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 7 |
 | Citations | 271 |
 | Publications | 18 |
-| CDR Focus | 27.8% |
+| CDR Focus | 2220.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Suitability of a diamine functionalized metal–organic framework for direct air capture** (2023)
-   47 citations · DAC
+   47 citations
 
 2. **Probing Structural Transformations and Degradation Mechanisms by Direct Observation in SIFSIX-3-Ni for Direct Air Capture** (2024)
-   20 citations · DAC
+   20 citations
 
 3. **Expanding the Library of Ions for Moisture-Swing Carbon Capture** (2023)
-   20 citations · DAC
+   20 citations
 
 4. **Platform Materials for Moisture-Swing Carbon Capture** (2025)
-   5 citations · DAC
+   5 citations · General CDR
 
 5. **Correction to “Probing Structural Transformations and Degradation Mechanisms by Direct Observation in SIFSIX-3-Ni for Direct Air Capture”** (2024)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

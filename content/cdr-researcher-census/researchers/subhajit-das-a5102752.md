@@ -1,7 +1,7 @@
 ---
 title: "Subhajit Das"
 description: "Subhajit Das is a Mid-career Biochar researcher at University of Engineering & Management in IN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.353960
+date: 2026-03-23T11:47:00.058942
 url: "/cdr-researcher-census/researchers/subhajit-das-a5102752/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 8 |
 | Citations | 369 |
 | Publications | 19 |
-| CDR Focus | 15.8% |
+| CDR Focus | 530.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

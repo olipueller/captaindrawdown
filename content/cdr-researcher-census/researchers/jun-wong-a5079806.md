@@ -1,7 +1,7 @@
 ---
 title: "Jun Wong"
 description: "Jun Wong is a Mid-career BECCS researcher at University of Nottingham Malaysia Campus in MY. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.217206
+date: 2026-03-23T11:47:01.224562
 url: "/cdr-researcher-census/researchers/jun-wong-a5079806/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 5 |
 | Citations | 120 |
 | Publications | 7 |
-| CDR Focus | 28.6% |
+| CDR Focus | 2860.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

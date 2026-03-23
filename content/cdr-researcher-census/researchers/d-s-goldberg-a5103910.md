@@ -1,7 +1,7 @@
 ---
 title: "D. S. Goldberg"
-description: "D. S. Goldberg is a Senior Ocean CDR researcher at Lamont-Doherty Earth Observatory in US. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.661953
+description: "D. S. Goldberg is a Senior Enhanced Weathering researcher at Lamont-Doherty Earth Observatory in US. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.528636
 url: "/cdr-researcher-census/researchers/d-s-goldberg-a5103910/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Lamont-Doherty Earth Observatory · 🇺🇸 US
 
 ## CDR Specialization
 
-**Ocean CDR**
+**Enhanced Weathering**
 
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 5 |
 | Citations | 225 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Solid Carbon's CO2 removal experiment in the NE Pacific ocean crust** (2026)
-   0 citations · General CDR
+   0 citations · Enhanced Weathering
 
 ## External Profiles
 

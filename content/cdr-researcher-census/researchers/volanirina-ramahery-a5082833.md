@@ -1,7 +1,7 @@
 ---
 title: "Volanirina Ramahery"
-description: "Volanirina Ramahery is a Senior Soil Carbon researcher. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.924517
+description: "Volanirina Ramahery is a Senior Ocean CDR researcher. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.892650
 url: "/cdr-researcher-census/researchers/volanirina-ramahery-a5082833/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,9 +26,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Ocean CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
 
 ## Metrics
 
@@ -37,13 +37,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 163 |
 | Publications | 5 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Dynamics and fate of blue carbon in a mangrove–seagrass seascape: influence of landscape configuration and land-use change** (2021)
-   54 citations · Soil Carbon
+   54 citations · Ocean CDR
 
 ## External Profiles
 

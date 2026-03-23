@@ -1,7 +1,7 @@
 ---
 title: "Jiajun Wu"
-description: "Jiajun Wu is a Mid-career General CDR researcher at City University of Hong Kong in HK. With 27 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.904597
+description: "Jiajun Wu is a Mid-career Ocean CDR researcher at City University of Hong Kong in HK. With 27 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.867605
 url: "/cdr-researcher-census/researchers/jiajun-wu-a5075845/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ City University of Hong Kong · 🇭🇰 HK
 
 ## CDR Specialization
 
-**General CDR**
+**Ocean CDR**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
 
 ## Metrics
 
@@ -45,19 +45,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 5 |
 | Citations | 166 |
 | Publications | 27 |
-| CDR Focus | 77.8% |
+| CDR Focus | 5930.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Carbon dioxide removal via macroalgae open-ocean mariculture and sinking: an Earth system modeling study** (2023)
-   73 citations · General CDR
+   73 citations · Ocean CDR
 
 2. **Scoping carbon dioxide removal options for Germany–What is their potential contribution to Net-Zero CO2?** (2022)
-   33 citations · BECCS
+   33 citations · General CDR
 
 3. **Carbon Dioxide Removal via Macroalgae Open-ocean Mariculture and Sinking: An Earth System Modeling Study** (2022)
-   27 citations · General CDR
+   27 citations
 
 4. **A Comprehensive Assessment of Carbon Dioxide Removal Options for Germany** (2024)
    17 citations · BECCS
@@ -66,10 +66,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    5 citations · General CDR
 
 6. **Nearshore Macroalgae Cultivation for Carbon Sequestration by Biomass Harvesting: Evaluating Potential and Impacts With an Earth System Model** (2025)
-   1 citations · General CDR
+   1 citations · Ocean CDR
 
 7. **Nearshore Macroalgae Cultivation for Carbon Sequestration by Biomass Harvesting: Evaluating Potential and Impacts with An Earth System Model** (2024)
-   1 citations · General CDR
+   1 citations
 
 8. **Meeting Carbon Dioxide Removal Demand in 2030: The Potential of Macroalgae Cultivation and Harvest** (2025)
    0 citations · General CDR
@@ -78,7 +78,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    0 citations · General CDR
 
 10. **A Comprehensive Assessment of Carbon Dioxide Removal Options for Germany** (2023)
-   0 citations · BECCS
+   0 citations
 
 ## External Profiles
 

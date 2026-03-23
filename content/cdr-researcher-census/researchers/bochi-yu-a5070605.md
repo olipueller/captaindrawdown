@@ -1,7 +1,7 @@
 ---
 title: "Bochi Yu"
-description: "Bochi Yu is a Mid-career Biochar researcher at Institute of Plant Protection in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.571465
+description: "Bochi Yu is a Mid-career carbon dioxide removal researcher at Institute of Plant Protection in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.410299
 url: "/cdr-researcher-census/researchers/bochi-yu-a5070605/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Institute of Plant Protection · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Biochar**
-
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 6 |
 | Citations | 255 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Urine from Intensive Care Patients as a Hotspot for Pharmaceutical Emissions and Sorbent-Based Treatment** (2025)
-   0 citations · Biochar
+   0 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Karlien Moeys"
-description: "Karlien Moeys is an Early-career Soil Carbon researcher at KU Leuven in BE. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.028410
+description: "Karlien Moeys is an Early-career carbon dioxide removal researcher at KU Leuven in BE. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.017846
 url: "/cdr-researcher-census/researchers/karlien-moeys-a5033396/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ KU Leuven · 🇧🇪 BE
 
 **Career Stage:** Early-career
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 146 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Variation in insect herbivory across an urbanization gradient: The role of abiotic factors and leaf secondary metabolites** (2024)
-   5 citations · Soil Carbon
+   5 citations
 
 ## External Profiles
 

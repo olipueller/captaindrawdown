@@ -1,7 +1,7 @@
 ---
 title: "Sahil Chauhan"
-description: "Sahil Chauhan is a Mid-career Soil Carbon researcher at Central Pollution Control Board in IN. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.229034
+description: "Sahil Chauhan is a Mid-career General CDR researcher at Central Pollution Control Board in IN. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.236342
 url: "/cdr-researcher-census/researchers/sahil-chauhan-a5047663/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Central Pollution Control Board · 🇮🇳 IN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 119 |
 | Publications | 15 |
-| CDR Focus | 13.3% |
+| CDR Focus | 1330.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Carbon Dynamics in Agroforestry Systems: Implications for Climate Change Mitigation and Adaptation** (2025)
-   3 citations · Biochar
+   3 citations · General CDR
 
 2. **The Black Gold: How Biochar Can Save Our Soils and Climate** (2025)
    0 citations · Biochar

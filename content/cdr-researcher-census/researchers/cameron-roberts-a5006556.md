@@ -1,7 +1,7 @@
 ---
 title: "Cameron Roberts"
 description: "Cameron Roberts is a Mid-career General CDR researcher at Carleton University in CA. With 32 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.969286
+date: 2026-03-23T11:46:59.333379
 url: "/cdr-researcher-census/researchers/cameron-roberts-a5006556/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 11 |
 | Citations | 1,500 |
 | Publications | 32 |
-| CDR Focus | 18.8% |
+| CDR Focus | 940.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

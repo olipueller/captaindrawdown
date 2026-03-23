@@ -1,7 +1,7 @@
 ---
 title: "Kaixuan Qian"
-description: "Kaixuan Qian is a Mid-career Soil Carbon researcher at Xinjiang Normal University in CN. With 10 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.348698
+description: "Kaixuan Qian is a Mid-career carbon dioxide removal researcher at Xinjiang Normal University in CN. With 10 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.049099
 url: "/cdr-researcher-census/researchers/kaixuan-qian-a5036044/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Xinjiang Normal University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 10 |
 | Citations | 373 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Influences of Ecological Restoration Programs on Ecosystem Services in Sandy Areas, Northern China** (2023)
-   16 citations · Soil Carbon
+   16 citations
 
 ## External Profiles
 

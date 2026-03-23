@@ -1,7 +1,7 @@
 ---
 title: "Till Strunge"
-description: "Till Strunge is a Mid-career DAC researcher at Heriot-Watt University in GB. With 30 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.323683
+description: "Till Strunge is a Mid-career General CDR researcher at Heriot-Watt University in GB. With 30 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.010348
 url: "/cdr-researcher-census/researchers/till-strunge-a5036779/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Heriot-Watt University · 🇬🇧 GB
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 11 |
 | Citations | 392 |
 | Publications | 30 |
-| CDR Focus | 13.3% |
+| CDR Focus | 670.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,13 +54,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    11 citations · General CDR
 
 2. **An Open-Source Toolkit to Design and Evaluate Net-Zero Pathways for Industrial Clusters** (2022)
-   4 citations · DAC
+   4 citations · General CDR
 
 3. **Perception of carbon capture and utilization - a framing analysis of German-speaking media** (2024)
    3 citations · DAC
 
 4. **Marginal Cost Curves Show Least-Cost, Full Decarbonisation of European Cement Includes CO2 Capture and Storage, Alternative Clinkers, and Carbon Dioxide Removal** (2024)
-   2 citations · DAC
+   2 citations · General CDR
 
 ## External Profiles
 

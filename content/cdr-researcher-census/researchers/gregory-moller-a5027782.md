@@ -1,7 +1,7 @@
 ---
 title: "Gregory Möller"
 description: "Gregory Möller is a Senior Biochar researcher at University of Idaho in US. With 54 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.966958
+date: 2026-03-23T11:46:59.326025
 url: "/cdr-researcher-census/researchers/gregory-moller-a5027782/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 19 |
 | Citations | 1,535 |
 | Publications | 54 |
-| CDR Focus | 13.0% |
+| CDR Focus | 1300.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications

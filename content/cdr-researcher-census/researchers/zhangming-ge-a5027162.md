@@ -1,7 +1,7 @@
 ---
 title: "Zhangming Ge"
 description: "Zhangming Ge is a Mid-career General CDR researcher at Harbin University of Science and Technology in CN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.474632
+date: 2026-03-23T11:47:00.260132
 url: "/cdr-researcher-census/researchers/zhangming-ge-a5027162/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 4 |
 | Citations | 295 |
 | Publications | 8 |
-| CDR Focus | 25.0% |
+| CDR Focus | 2500.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

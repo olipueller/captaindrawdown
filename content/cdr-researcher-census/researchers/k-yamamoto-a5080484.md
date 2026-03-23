@@ -1,7 +1,7 @@
 ---
 title: "K. Yamamoto"
-description: "K. Yamamoto is a Senior General CDR researcher at University of California, Santa Barbara in US. With 47 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.683932
+description: "K. Yamamoto is a Senior Ocean CDR researcher at University of California, Santa Barbara in US. With 47 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.559493
 url: "/cdr-researcher-census/researchers/k-yamamoto-a5080484/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of California, Santa Barbara · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**Ocean CDR**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 6 |
 | Citations | 219 |
 | Publications | 47 |
-| CDR Focus | 10.6% |
+| CDR Focus | 1060.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    1 citations · DAC
 
 3. **On the Efficiency and Durability of Purposefully Sinking Seaweed Biomass as a Marine Carbon Dioxide Removal Strategy** (2025)
-   0 citations · General CDR
+   0 citations · Ocean CDR
 
 4. **Corrigendum: Metrics for quantifying the efficiency of atmospheric CO<sub>2</sub> reduction by marine carbon dioxide removal (mCDR) (2024 <i>Environ. Res. Lett.</i> 19 104053)** (2025)
    0 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Zhangliu Du"
 description: "Zhangliu Du is a Senior Soil Carbon researcher at China Agricultural University in CN. With 90 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.913358
+date: 2026-03-23T11:46:59.204032
 url: "/cdr-researcher-census/researchers/zhangliu-du-a5069658/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 34 |
 | Citations | 2,734 |
 | Publications | 90 |
-| CDR Focus | 16.7% |
+| CDR Focus | 1440.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -69,7 +69,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    9 citations · Soil Carbon
 
 7. **Divergent stabilization characteristics of soil organic carbon between topsoil and subsoil under different land use types** (2025)
-   8 citations · Soil Carbon
+   8 citations
 
 8. **Dosage- and site-dependent retention of black carbon and polycyclic aromatic hydrocarbons in farmland soils via long-term biochar addition** (2024)
    8 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Mirjana Petronijević"
 description: "Mirjana Petronijević is a Mid-career Biochar researcher at University of Novi Sad in RS. With 22 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.639074
+date: 2026-03-23T11:47:00.500731
 url: "/cdr-researcher-census/researchers/mirjana-petronijevic-a5005226/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 7 |
 | Citations | 231 |
 | Publications | 22 |
-| CDR Focus | 13.6% |
+| CDR Focus | 910.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,10 +54,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    2 citations · Biochar
 
 2. **Beneficial aspects of in-situ non-metal-doped carbocatalysts for the removal of contaminants of emerging concern from wastewater** (2026)
-   0 citations · Biochar
+   0 citations
 
 3. **Beneficial aspects of in-situ non-metal-doped carbocatalysts for the removal of contaminants of emerging concern from wastewater** (2026)
-   0 citations · Biochar
+   0 citations
 
 ## External Profiles
 

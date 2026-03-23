@@ -1,7 +1,7 @@
 ---
 title: "Juliane El Zohbi"
 description: "Juliane El Zohbi is a Mid-career General CDR researcher at Helmholtz-Zentrum Hereon in DE. With 29 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.417454
+date: 2026-03-23T11:47:00.164027
 url: "/cdr-researcher-census/researchers/juliane-el-zohbi-a5054871/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,19 +45,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 7 |
 | Citations | 326 |
 | Publications | 29 |
-| CDR Focus | 10.3% |
+| CDR Focus | 1030.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **What regional agricultural actors want to know about carbon dioxide removal in Northern Germany** (2025)
-   0 citations · Biochar
+   0 citations · General CDR
 
 2. **A storyline approach: integrating comprehensive, interdisciplinary research results to create narratives – in the context of the net-zero target in Germany** (2024)
    0 citations · General CDR
 
 3. **Agriculture can contribute to carbon dioxide removal from the atmosphere &amp;#8211; but what information do regional practitioners need from research?&amp;#160;** (2024)
-   0 citations · Biochar
+   0 citations · General CDR
 
 ## External Profiles
 

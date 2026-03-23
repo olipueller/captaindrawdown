@@ -1,7 +1,7 @@
 ---
 title: "Javid McLawrence"
 description: "Javid McLawrence is an Early-career Soil Carbon researcher. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.998126
+date: 2026-03-23T11:47:00.985973
 url: "/cdr-researcher-census/researchers/javid-mclawrence-a5080378/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -37,7 +37,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 150 |
 | Publications | 6 |
-| CDR Focus | 50.0% |
+| CDR Focus | 5000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

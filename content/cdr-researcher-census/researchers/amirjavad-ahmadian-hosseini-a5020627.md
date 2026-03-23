@@ -1,7 +1,7 @@
 ---
 title: "Amirjavad Ahmadian Hosseini"
-description: "Amirjavad Ahmadian Hosseini is a Mid-career DAC researcher at Florida Atlantic University in US. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.736576
+description: "Amirjavad Ahmadian Hosseini is a Mid-career carbon dioxide removal researcher at Florida Atlantic University in US. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.629683
 url: "/cdr-researcher-census/researchers/amirjavad-ahmadian-hosseini-a5020627/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Florida Atlantic University · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 4 |
 | Citations | 204 |
 | Publications | 5 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **A comprehensive evaluation of amine-impregnated silica materials for direct air capture of carbon dioxide** (2023)
-   36 citations · DAC
+   36 citations
 
 ## External Profiles
 

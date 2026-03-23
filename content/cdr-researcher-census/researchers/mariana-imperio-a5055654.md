@@ -1,7 +1,7 @@
 ---
 title: "Mariana Império"
-description: "Mariana Império is a Mid-career BECCS researcher at Universidade Federal do Rio de Janeiro in BR. With 23 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.212784
+description: "Mariana Império is a Mid-career General CDR researcher at Universidade Federal do Rio de Janeiro in BR. With 23 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.818055
 url: "/cdr-researcher-census/researchers/mariana-imperio-a5055654/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Universidade Federal do Rio de Janeiro · 🇧🇷 BR
 
 ## CDR Specialization
 
-**BECCS**
+**General CDR**
 
-Combining biomass energy with carbon capture and storage to achieve negative emissions.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,28 +45,28 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 10 |
 | Citations | 512 |
 | Publications | 23 |
-| CDR Focus | 26.1% |
+| CDR Focus | 1740.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Long-term deep decarbonisation pathways for Ecuador: Insights from an integrated assessment model** (2021)
-   47 citations · BECCS
+   47 citations · General CDR
 
 2. **Nature‐based solutions are critical for putting Brazil on track towards net‐zero emissions by 2050** (2023)
-   27 citations · BECCS
+   27 citations · General CDR
 
 3. **The role of bioenergy in Brazil's low-carbon future** (2023)
    10 citations · BECCS
 
 4. **Climate strategies for oil and gas production under the lens of an Integrated Assessment Model: The case of Brazil** (2024)
-   4 citations · BECCS
+   4 citations · General CDR
 
 5. **Nature-Based Solutions Are Critical for Putting Brazil on Track Towards Net Zero** (2022)
-   3 citations · BECCS
+   3 citations · General CDR
 
 6. **Climate Strategies for Oil and Gas Production Under the Lens of an Integrated Assessment Model: The Case of Brazil** (2023)
-   0 citations · BECCS
+   0 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Oliver Gröger"
-description: "Oliver Gröger is a Mid-career General CDR researcher at Volkswagen Group (United States) in US. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.196383
+description: "Oliver Gröger is a Mid-career DAC researcher at Volkswagen Group (United States) in US. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.789820
 url: "/cdr-researcher-census/researchers/oliver-groger-a5022265/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Volkswagen Group (United States) · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 
@@ -42,7 +42,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 2 |
 | Citations | 533 |
 | Publications | 4 |
-| CDR Focus | 25.0% |
+| CDR Focus | 2500.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

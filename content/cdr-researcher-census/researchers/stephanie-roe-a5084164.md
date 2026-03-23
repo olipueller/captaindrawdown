@@ -1,7 +1,7 @@
 ---
 title: "Stephanie Roe"
 description: "Stephanie Roe is a Mid-career General CDR researcher at World Wildlife Fund in US. With 31 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.931023
+date: 2026-03-23T11:46:59.252809
 url: "/cdr-researcher-census/researchers/stephanie-roe-a5084164/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 10 |
 | Citations | 2,116 |
 | Publications | 31 |
-| CDR Focus | 25.8% |
+| CDR Focus | 1940.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -60,7 +60,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    9 citations · General CDR
 
 4. **Global and Regional Hydrological Impacts of Global Forest Expansion** (2024)
-   5 citations · General CDR
+   5 citations
 
 5. **Considering durability in carbon dioxide removal strategies for climate change mitigation** (2025)
    4 citations · General CDR

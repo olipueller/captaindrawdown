@@ -1,7 +1,7 @@
 ---
 title: "Stephen M. Tifft"
-description: "Stephen M. Tifft is a Mid-career Biochar researcher at National Renewable Energy Laboratory in US. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.564629
+description: "Stephen M. Tifft is a Mid-career BECCS researcher at National Renewable Energy Laboratory in US. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.399010
 url: "/cdr-researcher-census/researchers/stephen-m-tifft-a5063398/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ National Renewable Energy Laboratory · 🇺🇸 US
 
 ## CDR Specialization
 
-**Biochar**
+**BECCS**
 
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 5 |
 | Citations | 258 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **“Waste”-to-energy for Decarbonization** (2023)
-   0 citations · Biochar
+   0 citations · BECCS
 
 ## External Profiles
 

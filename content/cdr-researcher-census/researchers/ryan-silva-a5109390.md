@@ -1,7 +1,7 @@
 ---
 title: "Ryan Silva"
 description: "Ryan Silva is a Mid-career Soil Carbon researcher at Universidade Federal de Goiás in BR. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.245210
+date: 2026-03-23T11:47:01.253204
 url: "/cdr-researcher-census/researchers/ryan-silva-a5109390/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 118 |
 | Publications | 8 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Qimeng Ning"
-description: "Qimeng Ning is a Mid-career Soil Carbon researcher at Hunan City University in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.226978
+description: "Qimeng Ning is a Mid-career General CDR researcher at Hunan City University in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.845880
 url: "/cdr-researcher-census/researchers/qimeng-ning-a5112116/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Hunan City University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,16 +42,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 495 |
 | Publications | 20 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Impacts of the land use transition on ecosystem services in the Dongting Lake area** (2024)
-   15 citations · Soil Carbon
+   15 citations · General CDR
 
 2. **Impacts of Land Use Transition on Ecosystem Services in the Dongting Lake Area** (2024)
-   1 citations · Soil Carbon
+   1 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Emily K. Bechtold"
 description: "Emily K. Bechtold is a Mid-career Soil Carbon researcher at Colorado State University in US. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.063065
+date: 2026-03-23T11:47:01.057676
 url: "/cdr-researcher-census/researchers/emily-k-bechtold-a5056928/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 140 |
 | Publications | 19 |
-| CDR Focus | 10.5% |
+| CDR Focus | 530.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

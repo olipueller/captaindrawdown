@@ -1,7 +1,7 @@
 ---
 title: "Subhodeep Banerjee"
-description: "Subhodeep Banerjee is a Mid-career DAC researcher at Defense Logistics Agency in US. With 50 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.297830
+description: "Subhodeep Banerjee is a Mid-career carbon dioxide removal researcher at Defense Logistics Agency in US. With 50 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.970581
 url: "/cdr-researcher-census/researchers/subhodeep-banerjee-a5073652/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Defense Logistics Agency · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,31 +39,31 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 10 |
 | Citations | 412 |
 | Publications | 50 |
-| CDR Focus | 14.0% |
+| CDR Focus | 600.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Propylamine functionalized porous fiber sorbents with high oxidation stability for direct air capture** (2025)
-   4 citations · DAC
+   4 citations
 
 2. **Algal Microbial Symbiotic System-From a Biological Process to Biorefinery** (2023)
-   2 citations · General CDR
+   2 citations
 
 3. **Propylamine Functionalized Porous Fiber Sorbents with High Oxidation Stability for Direct Air Capture** (2025)
-   0 citations · DAC
+   0 citations
 
 4. **Propylamine Functionalized Porous Fiber Sorbents with High Oxidation Stability for Direct Air Capture** (2025)
-   0 citations · DAC
+   0 citations
 
 5. **Propylamine Functionalized Porous Fiber Sorbents with High Oxidation Stability for Direct Air Capture** (2024)
-   0 citations · DAC
+   0 citations
 
 6. **CFD Model Development of a Small-Scale Fixed-Bed Reactor for Direct Air Capture of CO2** (2024)
-   0 citations · DAC
+   0 citations
 
 7. **Characterization of Solid Sorbent for Direct Air Capture of CO2 using a CFD-based Methodology** (2024)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

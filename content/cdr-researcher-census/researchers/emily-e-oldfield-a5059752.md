@@ -1,7 +1,7 @@
 ---
 title: "Emily E. Oldfield"
-description: "Emily E. Oldfield is a Senior Soil Carbon researcher at Environmental Defense Fund in US. With 54 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.901731
+description: "Emily E. Oldfield is a Senior General CDR researcher at Environmental Defense Fund in US. With 54 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.176324
 url: "/cdr-researcher-census/researchers/emily-e-oldfield-a5059752/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Environmental Defense Fund · 🇺🇸 US
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,25 +45,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 25 |
 | Citations | 3,368 |
 | Publications | 54 |
-| CDR Focus | 14.8% |
+| CDR Focus | 1480.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Crediting agricultural soil carbon sequestration** (2022)
-   182 citations · Soil Carbon
+   182 citations · General CDR
 
 2. **Soil organic matter protects US maize yields and lowers crop insurance payouts under drought** (2021)
-   114 citations · Soil Carbon
+   114 citations
 
 3. **The need for knowledge transfer and communication among stakeholders in the voluntary carbon market** (2022)
-   24 citations · Soil Carbon
+   24 citations · General CDR
 
 4. **Greenhouse gas mitigation on croplands: clarifying the debate on knowns, unknowns and risks to move forward with effective management interventions** (2024)
-   21 citations · Soil Carbon
+   21 citations · General CDR
 
 5. **Climate mitigation through soil amendments: quantification, evidence, and uncertainty** (2023)
-   15 citations · Soil Carbon
+   15 citations · General CDR
 
 6. **Expert elicitation on agricultural enhanced weathering highlights CO2 removal potential and uncertainties in loss pathways** (2025)
    2 citations · Enhanced Weathering

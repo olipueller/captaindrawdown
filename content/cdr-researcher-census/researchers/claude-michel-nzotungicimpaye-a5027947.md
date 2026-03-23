@@ -1,7 +1,7 @@
 ---
 title: "Claude-Michel Nzotungicimpaye"
-description: "Claude-Michel Nzotungicimpaye is a Mid-career Ocean CDR researcher at Environment and Climate Change Canada in CA. With 23 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.706442
+description: "Claude-Michel Nzotungicimpaye is a Mid-career General CDR researcher at Environment and Climate Change Canada in CA. With 23 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.590473
 url: "/cdr-researcher-census/researchers/claude-michel-nzotungicimpaye-a5027947/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Environment and Climate Change Canada · 🇨🇦 CA
 
 ## CDR Specialization
 
-**Ocean CDR**
+**General CDR**
 
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 7 |
 | Citations | 212 |
 | Publications | 23 |
-| CDR Focus | 21.7% |
+| CDR Focus | 1740.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    10 citations · General CDR
 
 2. **Quantifying land carbon cycle feedbacks under negative CO <sub>2</sub> emissions** (2022)
-   5 citations · General CDR
+   5 citations
 
 3. **Reviewer comment on bg-2022-168** (2022)
    0 citations · General CDR

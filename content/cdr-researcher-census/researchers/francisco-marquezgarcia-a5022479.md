@@ -1,7 +1,7 @@
 ---
 title: "Francisco Márquez‐García"
-description: "Francisco Márquez‐García is a Mid-career Soil Carbon researcher at University of Córdoba in ES. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.734911
+description: "Francisco Márquez‐García is a Mid-career General CDR researcher at University of Córdoba in ES. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.627758
 url: "/cdr-researcher-census/researchers/francisco-marquezgarcia-a5022479/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Córdoba · 🇪🇸 ES
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,16 +45,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 205 |
 | Publications | 16 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Global Trends in Conservation Agriculture and Climate Change Research: A Bibliometric Analysis** (2025)
-   5 citations · Soil Carbon
+   5 citations · General CDR
 
 2. **Climate smart agriculture for Africa: the potential role of conservation agriculture in climate smart agriculture.** (2022)
-   1 citations · Soil Carbon
+   1 citations · General CDR
 
 ## External Profiles
 

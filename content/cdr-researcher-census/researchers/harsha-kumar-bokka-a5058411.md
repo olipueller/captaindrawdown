@@ -1,7 +1,7 @@
 ---
 title: "Harsha Kumar Bokka"
-description: "Harsha Kumar Bokka is a Mid-career BECCS researcher at National University of Singapore in SG. With 7 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.669251
+description: "Harsha Kumar Bokka is a Mid-career General CDR researcher at National University of Singapore in SG. With 7 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.538928
 url: "/cdr-researcher-census/researchers/harsha-kumar-bokka-a5058411/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ National University of Singapore · 🇸🇬 SG
 
 ## CDR Specialization
 
-**BECCS**
+**General CDR**
 
-Combining biomass energy with carbon capture and storage to achieve negative emissions.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,16 +45,16 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 7 |
 | Citations | 223 |
 | Publications | 7 |
-| CDR Focus | 28.6% |
+| CDR Focus | 2860.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **A Review of the Status of Fossil and Renewable Energies in Southeast Asia and Its Implications on the Decarbonization of ASEAN** (2022)
-   60 citations · BECCS
+   60 citations
 
 2. **Getting Serious with Net-Zero: Implementing Large-Scale Carbon Capture and Storage Projects in ASEAN** (2022)
-   11 citations · BECCS
+   11 citations · General CDR
 
 ## External Profiles
 

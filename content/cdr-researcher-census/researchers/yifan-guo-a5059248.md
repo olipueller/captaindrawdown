@@ -1,7 +1,7 @@
 ---
 title: "Yifan Guo"
 description: "Yifan Guo is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 31 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.424104
+date: 2026-03-23T11:47:00.176170
 url: "/cdr-researcher-census/researchers/yifan-guo-a5059248/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 12 |
 | Citations | 322 |
 | Publications | 31 |
-| CDR Focus | 12.9% |
+| CDR Focus | 1290.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    0 citations · Biochar
 
 3. **Exogenous Carbon Additions Enhance Dom Stability in Paddy Soils Through Improving Microbial-Mediated Carbon Processes** (2024)
-   0 citations · Biochar
+   0 citations · Soil Carbon
 
 4. **Linking Soil Microbial Community to the Molecular Composition of Dissolved Organic Matter in a Boreal Forest During Freeze-Thaw Cycles** (2022)
    0 citations · Soil Carbon

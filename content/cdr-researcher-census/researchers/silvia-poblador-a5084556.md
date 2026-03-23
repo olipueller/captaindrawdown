@@ -1,7 +1,7 @@
 ---
 title: "Sílvia Poblador"
-description: "Sílvia Poblador is a Mid-career Soil Carbon researcher at Global Ecology Unit CREAF-CSIC-UAB in ES. With 55 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.103751
+description: "Sílvia Poblador is a Mid-career Enhanced Weathering researcher at Global Ecology Unit CREAF-CSIC-UAB in ES. With 55 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.618336
 url: "/cdr-researcher-census/researchers/silvia-poblador-a5084556/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Global Ecology Unit CREAF-CSIC-UAB · 🇪🇸 ES
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Enhanced Weathering**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 12 |
 | Citations | 711 |
 | Publications | 55 |
-| CDR Focus | 20.0% |
+| CDR Focus | 1450.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    19 citations · Enhanced Weathering
 
 4. **Basalt addition improves the performance of young grassland monocultures under more persistent weather featuring longer dry and wet spells** (2023)
-   10 citations · Soil Carbon
+   10 citations · Enhanced Weathering
 
 5. **Soil Carbon Sequestration and the Role of Earthworms in an Enhanced Weathering Mesocosm Experiment** (2023)
    6 citations · Enhanced Weathering
@@ -69,13 +69,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    3 citations · Enhanced Weathering
 
 7. **Basalt Addition Improved Climate Change Adaptation Potential of Young Grassland Monocultures Under More Persistent Precipitation Regimes** (2023)
-   1 citations · Soil Carbon
+   1 citations · Enhanced Weathering
 
 8. **Enhanced weathering in acid and alkaline agricultural soils: greenhouse gas emissions and soil bacterial communities implications** (2022)
    1 citations · Enhanced Weathering
 
 9. **Earthworms in an Enhanced Weathering Mesocosm Experiment:Effects on Soil Carbon Sequestration, Base Cation Exchange and Soil Co2 Efflux** (2024)
-   0 citations · Enhanced Weathering
+   0 citations
 
 10. **Enhancing soil carbon sequestration in the parks of the city of Barcelona&amp;#160;** (2024)
    0 citations · Enhanced Weathering

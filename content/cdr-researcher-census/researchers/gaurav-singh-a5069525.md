@@ -1,7 +1,7 @@
 ---
 title: "Gaurav Singh"
 description: "Gaurav Singh is a Senior Soil Carbon researcher at Dr. A.P.J. Abdul Kalam Technical University in IN. With 38 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.382555
+date: 2026-03-23T11:47:00.107051
 url: "/cdr-researcher-census/researchers/gaurav-singh-a5069525/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 349 |
 | Publications | 38 |
-| CDR Focus | 13.2% |
+| CDR Focus | 790.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

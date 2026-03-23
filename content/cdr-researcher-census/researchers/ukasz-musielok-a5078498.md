@@ -1,7 +1,7 @@
 ---
 title: "Łukasz Musielok"
 description: "Łukasz Musielok is a Mid-career Soil Carbon researcher at Jagiellonian University in PL. With 30 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.305324
+date: 2026-03-23T11:46:59.983920
 url: "/cdr-researcher-census/researchers/ukasz-musielok-a5078498/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 407 |
 | Publications | 30 |
-| CDR Focus | 20.0% |
+| CDR Focus | 1330.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -63,10 +63,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    0 citations · Soil Carbon
 
 5. **Change in soil organic carbon content in European mountain forests based on LUCAS soil databases 2009-2018** (2023)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 6. **The role of soil-forming processes and changes in land cover in the storage and stabilization of soil organic carbon - preliminary results from the Carpathians (Southern Poland)** (2023)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

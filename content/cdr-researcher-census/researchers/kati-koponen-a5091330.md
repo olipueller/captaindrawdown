@@ -1,7 +1,7 @@
 ---
 title: "Kati Koponen"
 description: "Kati Koponen is a Mid-career General CDR researcher at VTT Technical Research Centre of Finland in FI. With 49 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.118903
+date: 2026-03-23T11:46:59.647214
 url: "/cdr-researcher-census/researchers/kati-koponen-a5091330/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 13 |
 | Citations | 671 |
 | Publications | 49 |
-| CDR Focus | 10.2% |
+| CDR Focus | 1020.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    4 citations · BECCS
 
 3. **Modelling of Demands of Selected Minerals and Metals in Clean Energy Transition with 1.5–2.0 °C Mitigation Targets** (2024)
-   3 citations · BECCS
+   3 citations · General CDR
 
 4. **District heating with negative emissions – direct air carbon capture and storage combined with small modular reactors** (2025)
    0 citations · DAC

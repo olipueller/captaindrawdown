@@ -1,7 +1,7 @@
 ---
 title: "Huifang Yang"
-description: "Huifang Yang is a Mid-career Enhanced Weathering researcher at State Ethnic Affairs Commission in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.769191
+description: "Huifang Yang is a Mid-career carbon dioxide removal researcher at State Ethnic Affairs Commission in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.671315
 url: "/cdr-researcher-census/researchers/huifang-yang-a5101590/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ State Ethnic Affairs Commission · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Enhanced Weathering**
-
-Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,16 +39,16 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 8 |
 | Citations | 196 |
 | Publications | 17 |
-| CDR Focus | 11.8% |
+| CDR Focus | 590.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Mechanisms of swelling inhibition and seepage promotion of weathered crust elution-deposited rare earth ore by hydroxypropyl methyl cellulose** (2023)
-   17 citations · Enhanced Weathering
+   17 citations
 
 2. **Swelling inhibition and percolation promotion of PQ-10 on weathered crust elution-deposited rare earth ores** (2024)
-   6 citations · Enhanced Weathering
+   6 citations
 
 ## External Profiles
 

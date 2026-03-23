@@ -1,7 +1,7 @@
 ---
 title: "Litao Lin"
 description: "Litao Lin is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 28 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.852951
+date: 2026-03-23T11:47:00.798996
 url: "/cdr-researcher-census/researchers/litao-lin-a5045708/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 177 |
 | Publications | 28 |
-| CDR Focus | 10.7% |
+| CDR Focus | 710.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    2 citations · Soil Carbon
 
 3. **Comparison of soil exchangeable calcium estimated using five extractants and near-infrared spectroscopy** (2024)
-   0 citations · Soil Carbon
+   0 citations
 
 ## External Profiles
 

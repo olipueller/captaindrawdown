@@ -1,7 +1,7 @@
 ---
 title: "Md. Nasirul Islam"
-description: "Md. Nasirul Islam is an Early-career Ocean CDR researcher at University of Dhaka in BD. With 10 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.022187
+description: "Md. Nasirul Islam is an Early-career General CDR researcher at University of Dhaka in BD. With 10 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.013444
 url: "/cdr-researcher-census/researchers/md-nasirul-islam-a5069158/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Dhaka · 🇧🇩 BD
 
 ## CDR Specialization
 
-**Ocean CDR**
+**General CDR**
 
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 3 |
 | Citations | 146 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

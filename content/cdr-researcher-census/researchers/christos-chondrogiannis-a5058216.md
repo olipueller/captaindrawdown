@@ -1,7 +1,7 @@
 ---
 title: "Christos Chondrogiannis"
 description: "Christos Chondrogiannis is a Mid-career Enhanced Weathering researcher at University of Patras in GR. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.823746
+date: 2026-03-23T11:47:00.761147
 url: "/cdr-researcher-census/researchers/christos-chondrogiannis-a5058216/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 6 |
 | Citations | 183 |
 | Publications | 16 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

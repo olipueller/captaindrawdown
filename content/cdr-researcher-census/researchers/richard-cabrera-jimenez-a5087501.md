@@ -1,7 +1,7 @@
 ---
 title: "Richard Cabrera-Jiménez"
-description: "Richard Cabrera-Jiménez is an Early-career DAC researcher. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.367161
+description: "Richard Cabrera-Jiménez is an Early-career General CDR researcher. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.384865
 url: "/cdr-researcher-census/researchers/richard-cabrera-jimenez-a5087501/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,9 +29,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -40,7 +40,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 4 |
 | Citations | 105 |
 | Publications | 12 |
-| CDR Focus | 41.7% |
+| CDR Focus | 2500.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -49,13 +49,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    12 citations · DAC
 
 2. **Assessing Pathways to Carbon Neutrality in the Ceramic Sector: A Prospective Life Cycle Assessment under Energy System Projections and Technology Scenarios** (2026)
-   0 citations · General CDR
+   0 citations
 
 3. **Assessing Pathways to Carbon Neutrality in the Ceramic Sector: A Prospective Life Cycle Assessment under Energy System Projections and Technology Scenarios** (2025)
    0 citations · General CDR
 
 4. **Dataset: The implications of microalgae biofuel production for the heavy-duty transport sector under planetary boundary perspective** (2023)
-   0 citations · DAC
+   0 citations
 
 5. **Dataset: The implications of microalgae biofuel production for the heavy-duty transport sector under planetary boundary perspective** (2023)
    0 citations · DAC

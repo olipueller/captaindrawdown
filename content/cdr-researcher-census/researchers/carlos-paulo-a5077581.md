@@ -1,7 +1,7 @@
 ---
 title: "Carlos Paulo"
 description: "Carlos Paulo is a Senior Enhanced Weathering researcher at Trent University in CA. With 59 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.090264
+date: 2026-03-23T11:46:59.593926
 url: "/cdr-researcher-census/researchers/carlos-paulo-a5077581/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 15 |
 | Citations | 751 |
 | Publications | 59 |
-| CDR Focus | 30.5% |
+| CDR Focus | 2880.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -57,13 +57,13 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    43 citations · Enhanced Weathering
 
 3. **Rates of atmospheric CO2 capture using magnesium oxide powder** (2022)
-   41 citations · General CDR
+   41 citations
 
 4. **The Mining Industry’s Role in Enhanced Weathering and Mineralization for CO<sub>2</sub> Removal** (2023)
    32 citations · Enhanced Weathering
 
 5. **Cation Exchange in Smectites as a New Approach to Mineral Carbonation** (2022)
-   28 citations · General CDR
+   28 citations · Enhanced Weathering
 
 6. **Geochemical modeling of CO2 sequestration in ultramafic mine wastes from Australia, Canada, and South Africa: Implications for carbon accounting and monitoring** (2023)
    26 citations · Enhanced Weathering

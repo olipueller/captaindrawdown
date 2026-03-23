@@ -1,7 +1,7 @@
 ---
 title: "Dibyajyoti Nath"
 description: "Dibyajyoti Nath is a Mid-career Soil Carbon researcher at Johns Hopkins University in US. With 24 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.589088
+date: 2026-03-23T11:47:00.430773
 url: "/cdr-researcher-census/researchers/dibyajyoti-nath-a5069477/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 10 |
 | Citations | 250 |
 | Publications | 24 |
-| CDR Focus | 12.5% |
+| CDR Focus | 830.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,10 +54,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    24 citations · Soil Carbon
 
 2. **Microbial Ecosystems as Guardians of Food Security and Water Resources in the Era of Climate Change** (2024)
-   17 citations · Soil Carbon
+   17 citations
 
 3. **Agroforestry and Soil Carbon Sequestration: A Nexus for System Sustainability** (2024)
-   1 citations · Soil Carbon
+   1 citations · General CDR
 
 ## External Profiles
 

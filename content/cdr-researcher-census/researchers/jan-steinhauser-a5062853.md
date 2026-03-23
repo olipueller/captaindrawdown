@@ -1,7 +1,7 @@
 ---
 title: "Jan Steinhauser"
 description: "Jan Steinhauser is a Mid-career General CDR researcher at International Institute for Applied Systems Analysis in AT. With 28 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.452453
+date: 2026-03-23T11:47:00.225407
 url: "/cdr-researcher-census/researchers/jan-steinhauser-a5062853/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,19 +45,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 8 |
 | Citations | 305 |
 | Publications | 28 |
-| CDR Focus | 28.6% |
+| CDR Focus | 1430.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **The carbon dioxide removal gap** (2024)
-   70 citations · BECCS
+   70 citations
 
 2. **Climate policy for a net-zero future: ten recommendations for Direct Air Capture** (2022)
    66 citations · DAC
 
 3. **The carbon dioxide removal gap** (2023)
-   8 citations · BECCS
+   8 citations · General CDR
 
 4. **Current national proposals are off track to meet carbon dioxide removal needs** (2024)
    5 citations · General CDR
@@ -72,7 +72,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    0 citations · BECCS
 
 8. **The carbon dioxide removal gap: current removals and country proposals versus future requirements for limiting warming to 2°C or lower** (2023)
-   0 citations · BECCS
+   0 citations · DAC
 
 ## External Profiles
 

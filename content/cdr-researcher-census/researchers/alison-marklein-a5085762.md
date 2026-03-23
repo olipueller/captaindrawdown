@@ -1,7 +1,7 @@
 ---
 title: "Alison Marklein"
 description: "Alison Marklein is a Senior Enhanced Weathering researcher. With 42 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.915198
+date: 2026-03-23T11:46:59.208870
 url: "/cdr-researcher-census/researchers/alison-marklein-a5085762/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 17 |
 | Citations | 2,688 |
 | Publications | 42 |
-| CDR Focus | 14.3% |
+| CDR Focus | 710.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -61,7 +61,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    0 citations · Enhanced Weathering
 
 6. **Olivine and Lime Application in the US Midwest: A Field Study for Quantifying Carbon Dioxide Removal, Soil, and Crop Health** (2023)
-   0 citations · General CDR
+   0 citations · Enhanced Weathering
 
 ## External Profiles
 

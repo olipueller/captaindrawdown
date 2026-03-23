@@ -1,7 +1,7 @@
 ---
 title: "Yun‐Hao Bai"
-description: "Yun‐Hao Bai is a Mid-career Enhanced Weathering researcher at Peking University in CN. With 23 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.054073
+description: "Yun‐Hao Bai is a Mid-career Soil Carbon researcher at Peking University in CN. With 23 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.047120
 url: "/cdr-researcher-census/researchers/yunhao-bai-a5100624/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Peking University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Enhanced Weathering**
+**Soil Carbon**
 
-Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 7 |
 | Citations | 141 |
 | Publications | 23 |
-| CDR Focus | 17.4% |
+| CDR Focus | 870.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,13 +54,13 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    21 citations · Soil Carbon
 
 2. **Trait-based neighbourhood effects modulate the growth-weather relationships of subtropical trees** (2024)
-   3 citations · Enhanced Weathering
+   3 citations
 
 3. **Trait-based neighbourhood effects on the growth–weather relationships of subtropical trees.** (2023)
-   0 citations · Enhanced Weathering
+   0 citations
 
 4. **Trait-based neighbourhood effects on the growth–weather relationships of subtropical trees.** (2023)
-   0 citations · Enhanced Weathering
+   0 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Mohammad Mehdi Parivazh"
-description: "Mohammad Mehdi Parivazh is a Mid-career General CDR researcher at Amirkabir University of Technology in IR. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.283662
+description: "Mohammad Mehdi Parivazh is a Mid-career carbon dioxide removal researcher at Amirkabir University of Technology in IR. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.295596
 url: "/cdr-researcher-census/researchers/mohammad-mehdi-parivazh-a5053573/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Amirkabir University of Technology ·  IR
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 5 |
 | Citations | 113 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Numerical Investigation on a Liquid–Gas Ejector for Carbon Dioxide Removal Using Amine Solution: Hydrodynamics and Mass Transfer Evaluation** (2022)
-   3 citations · General CDR
+   3 citations
 
 ## External Profiles
 

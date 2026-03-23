@@ -1,7 +1,7 @@
 ---
 title: "Rafael Bohn Reckziegel"
 description: "Rafael Bohn Reckziegel is a Mid-career Soil Carbon researcher at Commonwealth Scientific and Industrial Research Organisation in AU. With 22 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.671490
+date: 2026-03-23T11:47:00.542227
 url: "/cdr-researcher-census/researchers/rafael-bohn-reckziegel-a5044483/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 223 |
 | Publications | 22 |
-| CDR Focus | 18.2% |
+| CDR Focus | 1360.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -54,13 +54,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    5 citations · Soil Carbon
 
 2. **Hydrological and pedological effects of combining Italian alder and blackberries in an agroforestry windbreak system in South Africa** (2024)
-   4 citations · Soil Carbon
+   4 citations
 
 3. **Hydrological and pedological effects of combining Italian alder and blackberries in an agroforestry windbreak system in South Africa** (2023)
-   3 citations · Soil Carbon
+   3 citations
 
 4. **Multivariate characterisation of a blackberry–alder agroforestry system in South Africa: hydrological, pedological, dendrological and meteorological measurements** (2024)
-   2 citations · Soil Carbon
+   2 citations
 
 ## External Profiles
 

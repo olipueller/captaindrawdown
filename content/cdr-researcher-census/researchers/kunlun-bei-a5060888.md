@@ -1,7 +1,7 @@
 ---
 title: "Kunlun Bei"
-description: "Kunlun Bei is an Early-career Biochar researcher at Taiyuan University of Technology in CN. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.421809
+description: "Kunlun Bei is an Early-career carbon dioxide removal researcher at Taiyuan University of Technology in CN. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.437401
 url: "/cdr-researcher-census/researchers/kunlun-bei-a5060888/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Taiyuan University of Technology · 🇨🇳 CN
 
 **Career Stage:** Early-career
 
-## CDR Specialization
-
-**Biochar**
-
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 3 |
 | Citations | 100 |
 | Publications | 3 |
-| CDR Focus | 33.3% |
+| CDR Focus | 3330.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Synergistic effects of heteroatom doping and narrow micropores on carbon dioxide capture in bamboo shoot shell-based porous carbon** (2024)
-   40 citations · Biochar
+   40 citations
 
 ## External Profiles
 

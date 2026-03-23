@@ -1,7 +1,7 @@
 ---
 title: "Niels Suitner"
 description: "Niels Suitner is an Early-career Ocean CDR researcher at Universität Hamburg in DE. With 23 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.702955
+date: 2026-03-23T11:47:00.585353
 url: "/cdr-researcher-census/researchers/niels-suitner-a5035414/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 4 |
 | Citations | 213 |
 | Publications | 23 |
-| CDR Focus | 95.7% |
+| CDR Focus | 6520.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,16 +54,16 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    137 citations · General CDR
 
 2. **Stability of alkalinity in Ocean Alkalinity Enhancement (OAE) approaches – consequences for durability of CO <sub>2</sub> storage** (2022)
-   25 citations · General CDR
+   25 citations
 
 3. **Ocean alkalinity enhancement approaches and the predictability of runaway precipitation processes: results of an experimental study to determine critical alkalinity ranges for safe and sustainable application scenarios** (2024)
-   24 citations · Ocean CDR
+   24 citations · General CDR
 
 4. **Supplementary material to "Ocean alkalinity enhancement in an open ocean ecosystem: Biogeochemical responses and carbon storage durability"** (2024)
-   8 citations · Ocean CDR
+   8 citations · General CDR
 
 5. **Ocean alkalinity enhancement in an open-ocean ecosystem: biogeochemical responses and carbon storage durability** (2025)
-   4 citations · General CDR
+   4 citations · Ocean CDR
 
 6. **Ocean alkalinity enhancement in an open ocean ecosystem: Biogeochemical responses and carbon storage durability** (2024)
    4 citations · General CDR
@@ -72,13 +72,13 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    4 citations · Ocean CDR
 
 8. **Ocean alkalinity enhancement approaches and the predictability of runaway precipitation processes – Results of an experimental study to determine critical alkalinity ranges for safe and sustainable application scenarios** (2023)
-   3 citations · Ocean CDR
+   3 citations
 
 9. **Stability of alkalinity in the land-ocean transition zone: a geochemical CDR perspective for the Elbe River, Germany** (2025)
    2 citations · Enhanced Weathering
 
 10. **Surface area and Ω-aragonite oversaturation as controls of the runaway precipitation process in ocean alkalinity enhancement** (2025)
-   2 citations · General CDR
+   2 citations · Ocean CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Baoling Duan"
-description: "Baoling Duan is a Senior Soil Carbon researcher at Shanxi University of Finance and Economics in CN. With 12 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.442505
+description: "Baoling Duan is a Senior General CDR researcher at Shanxi University of Finance and Economics in CN. With 12 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.208170
 url: "/cdr-researcher-census/researchers/baoling-duan-a5056333/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Shanxi University of Finance and Economics · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,19 +45,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 311 |
 | Publications | 12 |
-| CDR Focus | 25.0% |
+| CDR Focus | 2500.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Ecosystem Services Supply–Demand Matching and Its Driving Factors: A Case Study of the Shanxi Section of the Yellow River Basin, China** (2023)
-   13 citations · Soil Carbon
+   13 citations · General CDR
 
 2. **The Effects of Land-Use Change/Conversion on Trade-Offs of Ecosystem Services in Three Precipitation Zones** (2021)
-   11 citations · Soil Carbon
+   11 citations · General CDR
 
 3. **Relationship between Ecosystem-Services Trade-Offs and Supply–Demand Balance along a Precipitation Gradient: A Case Study in the Central Loess Plateau of China** (2024)
-   4 citations · Soil Carbon
+   4 citations
 
 ## External Profiles
 

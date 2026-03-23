@@ -1,7 +1,7 @@
 ---
 title: "Nanping Lin"
 description: "Nanping Lin is an Early-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.072159
+date: 2026-03-23T11:47:01.067301
 url: "/cdr-researcher-census/researchers/nanping-lin-a5060167/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 138 |
 | Publications | 5 |
-| CDR Focus | 60.0% |
+| CDR Focus | 4000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    75 citations · Soil Carbon
 
 2. **Ammoniated straw returning: A win-win strategy for increasing crop production and soil carbon sequestration** (2024)
-   30 citations · Soil Carbon
+   30 citations · Biochar
 
 3. **Plastic film-mulched ridges and straw-mulched furrows increase soil carbon sequestration and net ecosystem economic benefit in a wheat-maize rotation** (2022)
-   21 citations · General CDR
+   21 citations · Soil Carbon
 
 ## External Profiles
 

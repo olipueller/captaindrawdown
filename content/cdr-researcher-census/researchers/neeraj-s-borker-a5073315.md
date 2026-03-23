@@ -1,7 +1,7 @@
 ---
 title: "Neeraj S. Borker"
-description: "Neeraj S. Borker is a Mid-career DAC researcher at 3M (United States) in US. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.276200
+description: "Neeraj S. Borker is a Mid-career carbon dioxide removal researcher at 3M (United States) in US. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.287513
 url: "/cdr-researcher-census/researchers/neeraj-s-borker-a5073315/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ robots: "index, follow"
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 5 |
 | Citations | 114 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Engineering design of direct‐air‐capture contactors composed of sorbent particles using numerical simulations** (2023)
-   3 citations · DAC
+   3 citations
 
 ## External Profiles
 

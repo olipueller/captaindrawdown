@@ -1,7 +1,7 @@
 ---
 title: "Paul-Enguerrand Fady"
 description: "Paul-Enguerrand Fady is a Mid-career Biochar researcher at King's College London in GB. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.475688
+date: 2026-03-23T11:47:00.262082
 url: "/cdr-researcher-census/researchers/paul-enguerrand-fady-a5076957/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 5 |
 | Citations | 295 |
 | Publications | 20 |
-| CDR Focus | 10.0% |
+| CDR Focus | 500.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    14 citations · Biochar
 
 2. **Biochar filtration of drug-resistant bacteria and active pharmaceutical ingredients to combat antimicrobial resistance** (2024)
-   3 citations · Biochar
+   3 citations
 
 ## External Profiles
 

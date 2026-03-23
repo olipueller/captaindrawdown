@@ -1,7 +1,7 @@
 ---
 title: "Ke Zhang"
-description: "Ke Zhang is a Mid-career Soil Carbon researcher at Beijing Forestry University in CN. With 5 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.925348
+description: "Ke Zhang is a Mid-career carbon dioxide removal researcher at Beijing Forestry University in CN. With 5 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.894305
 url: "/cdr-researcher-census/researchers/ke-zhang-a5100954/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Beijing Forestry University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 1 |
 | Citations | 163 |
 | Publications | 5 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Asymbiotic biological nitrogen fixation makes a great contribution to nitrogen balance in unfertilized alpine grasslands across the Qinghai-Tibet Plateau** (2025)
-   1 citations · Soil Carbon
+   1 citations
 
 ## External Profiles
 

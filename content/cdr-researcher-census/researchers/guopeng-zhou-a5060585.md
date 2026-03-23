@@ -1,7 +1,7 @@
 ---
 title: "Guopeng Zhou"
 description: "Guopeng Zhou is a Senior Soil Carbon researcher at Chinese Academy of Agricultural Sciences in CN. With 52 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.954818
+date: 2026-03-23T11:46:59.301971
 url: "/cdr-researcher-census/researchers/guopeng-zhou-a5060585/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 25 |
 | Citations | 1,692 |
 | Publications | 52 |
-| CDR Focus | 17.3% |
+| CDR Focus | 1150.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **The potential of green manure to increase soil carbon sequestration and reduce the yield-scaled carbon footprint of rice production in southern China** (2022)
-   37 citations · Soil Carbon
+   37 citations · General CDR
 
 2. **The effects of co-utilizing green manure and rice straw on soil aggregates and soil carbon stability in a paddy soil in southern China** (2022)
    33 citations · Soil Carbon
@@ -69,7 +69,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    6 citations · Soil Carbon
 
 7. **The Application of Rice Straw with Reduced N Fertilizer Improves the Rice Yield While Decreasing Environmental N Losses in Southern China** (2024)
-   4 citations · Soil Carbon
+   4 citations
 
 8. **Long-term organic fertilization decreases soil carbon biodegradability by mediating molecular transformation of dissolved organic matter** (2025)
    3 citations · Soil Carbon

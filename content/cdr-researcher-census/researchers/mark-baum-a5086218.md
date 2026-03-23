@@ -1,0 +1,61 @@
+---
+title: "Mark Baum"
+description: "Mark Baum is a Senior Enhanced Weathering researcher. With 28 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.580131
+url: "/cdr-researcher-census/researchers/mark-baum-a5086218/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Mark Baum",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/mark-baum-a5086218/",
+  "sameAs": [
+    "https://orcid.org/0000-0001-8832-4963",
+    "https://openalex.org/A5086218864"
+  ]
+}
+</script>
+
+## Profile
+
+**Mark Baum**
+
+**Career Stage:** Senior
+
+## CDR Specialization
+
+**Enhanced Weathering**
+
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 5 |
+| Citations | 214 |
+| Publications | 28 |
+| CDR Focus | 710.0% |
+| Trajectory | Stable |
+
+## Top CDR Publications
+
+1. **Mass-Balance MRV for Carbon Dioxide Removal by Enhanced Rock Weathering: Methods, Simulation, and Inference** (2024)
+   1 citations · Enhanced Weathering
+
+2. **Mass-Balance MRV for Carbon Dioxide Removal by Enhanced Rock Weathering** (2025)
+   0 citations · Enhanced Weathering
+
+## External Profiles
+
+- [ORCID](https://orcid.org/0000-0001-8832-4963)
+- [OpenAlex](https://openalex.org/A5086218864)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

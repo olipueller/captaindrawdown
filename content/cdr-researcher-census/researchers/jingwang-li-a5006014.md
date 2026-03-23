@@ -1,7 +1,7 @@
 ---
 title: "Jingwang Li"
 description: "Jingwang Li is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.039173
+date: 2026-03-23T11:47:01.028890
 url: "/cdr-researcher-census/researchers/jingwang-li-a5006014/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 144 |
 | Publications | 9 |
-| CDR Focus | 33.3% |
+| CDR Focus | 3330.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

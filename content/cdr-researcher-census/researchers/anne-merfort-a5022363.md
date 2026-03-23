@@ -1,7 +1,7 @@
 ---
 title: "Anne Merfort"
 description: "Anne Merfort is an Early-career General CDR researcher. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.696309
+date: 2026-03-23T11:47:00.575829
 url: "/cdr-researcher-census/researchers/anne-merfort-a5022363/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 4 |
 | Citations | 215 |
 | Publications | 14 |
-| CDR Focus | 21.4% |
+| CDR Focus | 1430.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -49,7 +49,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    8 citations · General CDR
 
 2. **Separating CO2 emission from removal targets comes with limited cost impacts** (2024)
-   1 citations · General CDR
+   1 citations
 
 3. **Incorporating Geological Carbon Storage Constraints in Integrated Assessment Models** (2026)
    0 citations · General CDR

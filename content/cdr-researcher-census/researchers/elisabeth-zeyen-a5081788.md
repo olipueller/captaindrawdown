@@ -1,7 +1,7 @@
 ---
 title: "Elisabeth Zeyen"
-description: "Elisabeth Zeyen is a Mid-career DAC researcher at Energy Transitions (United Kingdom) in GB. With 42 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.081874
+description: "Elisabeth Zeyen is a Mid-career General CDR researcher at Energy Transitions (United Kingdom) in GB. With 42 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.577299
 url: "/cdr-researcher-census/researchers/elisabeth-zeyen-a5081788/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Energy Transitions (United Kingdom) · 🇬🇧 GB
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 11 |
 | Citations | 775 |
 | Publications | 42 |
-| CDR Focus | 11.9% |
+| CDR Focus | 950.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Are biofuel mandates cost-effective? - An analysis of transport fuels and biomass usage to achieve emissions targets in the European energy system** (2022)
-   48 citations · General CDR
+   48 citations · BECCS
 
 2. **Diversity of biomass usage pathways to achieve emissions targets in the European energy system** (2025)
    35 citations · BECCS
@@ -60,7 +60,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    24 citations · DAC
 
 4. **Biomass exclusion must be weighed against benefits of carbon supply in European energy system** (2025)
-   5 citations · DAC
+   5 citations · BECCS
 
 5. **H$_2$ and CO$_2$ Network Strategies for the European Energy System** (2024)
    0 citations · DAC

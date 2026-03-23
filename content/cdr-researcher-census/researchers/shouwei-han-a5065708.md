@@ -1,7 +1,7 @@
 ---
 title: "Shou‐Wei Han"
 description: "Shou‐Wei Han is a Mid-career Soil Carbon researcher at Ministry of Agriculture and Rural Affairs in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.818632
+date: 2026-03-23T11:47:00.754944
 url: "/cdr-researcher-census/researchers/shouwei-han-a5065708/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 184 |
 | Publications | 10 |
-| CDR Focus | 70.0% |
+| CDR Focus | 7000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    55 citations · Soil Carbon
 
 2. **Effects of fertilizer application strategies on soil organic carbon and total nitrogen storage under different agronomic practices: A meta‐analysis** (2023)
-   25 citations · Soil Carbon
+   25 citations · General CDR
 
 3. **Higher sequestration of wheat versus maize crop carbon in soils under rotations** (2021)
    7 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Dechang Ji"
 description: "Dechang Ji is a Mid-career Soil Carbon researcher at Shenyang Agricultural University in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.894092
+date: 2026-03-23T11:47:00.852562
 url: "/cdr-researcher-census/researchers/dechang-ji-a5003431/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 169 |
 | Publications | 13 |
-| CDR Focus | 30.8% |
+| CDR Focus | 3080.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Crop residue decomposition and nutrient release are independently affected by nitrogen fertilization, plastic film mulching, and residue type** (2022)
-   18 citations · Soil Carbon
+   18 citations
 
 2. **Grassland above- and below-ground inputs have similar effects on soil organic matter: A five-year field trial** (2025)
    0 citations · Soil Carbon

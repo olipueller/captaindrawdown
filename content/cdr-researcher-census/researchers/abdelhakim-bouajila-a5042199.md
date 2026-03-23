@@ -1,7 +1,7 @@
 ---
 title: "Abdelhakim Bouajila"
 description: "Abdelhakim Bouajila is a Mid-career Soil Carbon researcher at University of Gabès in TN. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.510324
+date: 2026-03-23T11:47:00.321565
 url: "/cdr-researcher-census/researchers/abdelhakim-bouajila-a5042199/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 279 |
 | Publications | 20 |
-| CDR Focus | 15.0% |
+| CDR Focus | 1500.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

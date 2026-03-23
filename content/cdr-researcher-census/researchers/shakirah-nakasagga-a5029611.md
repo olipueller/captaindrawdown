@@ -1,7 +1,7 @@
 ---
 title: "Shakirah Nakasagga"
-description: "Shakirah Nakasagga is a Mid-career Soil Carbon researcher at Missouri State University in US. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.045138
+description: "Shakirah Nakasagga is a Mid-career General CDR researcher at Missouri State University in US. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.036651
 url: "/cdr-researcher-census/researchers/shakirah-nakasagga-a5029611/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Missouri State University · 🇺🇸 US
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,16 +45,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 143 |
 | Publications | 9 |
-| CDR Focus | 22.2% |
+| CDR Focus | 2220.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Improving Forest Soil Health and Ecosystem Services to Minimize the Impact of Climate Change** (2023)
-   3 citations · Soil Carbon
+   3 citations · General CDR
 
 2. **Prediction of regrowth and biomass of perennial sorghum using unoccupied aerial systems** (2022)
-   3 citations · Soil Carbon
+   3 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Diana L. Ortiz‐Montalvo"
 description: "Diana L. Ortiz‐Montalvo is a Senior DAC researcher at National Institute of Standards and Technology in US. With 32 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.242393
+date: 2026-03-23T11:46:59.872380
 url: "/cdr-researcher-census/researchers/diana-l-ortizmontalvo-a5102900/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,19 +45,19 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 9 |
 | Citations | 472 |
 | Publications | 32 |
-| CDR Focus | 12.5% |
+| CDR Focus | 620.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Reproducible sorbent materials foundry for carbon capture at scale** (2022)
-   3 citations · DAC
+   3 citations
 
 2. **Intrinsic direct air capture** (2025)
-   1 citations · DAC
+   1 citations
 
 3. **Intrinsic Direct Air Capture** (2025)
-   0 citations · DAC
+   0 citations
 
 4. **Reproducible Sorbent Materials Foundry for Carbon Capture at Scale** (2022)
    0 citations · DAC

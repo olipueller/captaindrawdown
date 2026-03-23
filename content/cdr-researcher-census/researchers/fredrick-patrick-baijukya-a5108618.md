@@ -1,7 +1,7 @@
 ---
 title: "Fredrick Patrick Baijukya"
 description: "Fredrick Patrick Baijukya is a Mid-career Soil Carbon researcher at International Institute of Tropical Agriculture in TZ. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.272494
+date: 2026-03-23T11:47:01.284602
 url: "/cdr-researcher-census/researchers/fredrick-patrick-baijukya-a5108618/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 115 |
 | Publications | 5 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

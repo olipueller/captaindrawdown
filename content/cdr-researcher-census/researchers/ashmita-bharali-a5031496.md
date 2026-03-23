@@ -1,7 +1,7 @@
 ---
 title: "Ashmita Bharali"
-description: "Ashmita Bharali is a Mid-career Soil Carbon researcher at Tezpur University in IN. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.859761
+description: "Ashmita Bharali is a Mid-career Biochar researcher at Tezpur University in IN. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.805797
 url: "/cdr-researcher-census/researchers/ashmita-bharali-a5031496/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Tezpur University · 🇮🇳 IN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 176 |
 | Publications | 8 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **The use of Azolla caroliniana compost as organic input to irrigated and rainfed rice ecosystems: Comparison of its effects in relation to CH4 emission pattern, soil carbon storage, and grain C interactions** (2021)
-   25 citations · Soil Carbon
+   25 citations · Biochar
 
 ## External Profiles
 

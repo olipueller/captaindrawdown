@@ -1,7 +1,7 @@
 ---
 title: "Haidar Hosamo"
-description: "Haidar Hosamo is a Mid-career Enhanced Weathering researcher at Prince Sultan University in SA. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.148766
+description: "Haidar Hosamo is a Mid-career General CDR researcher at Prince Sultan University in SA. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.145948
 url: "/cdr-researcher-census/researchers/haidar-hosamo-a5095775/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Prince Sultan University · 🇸🇦 SA
 
 ## CDR Specialization
 
-**Enhanced Weathering**
+**General CDR**
 
-Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 5 |
 | Citations | 129 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Assessing the Global Warming Potential of a Novel Hybrid Timber-Based Façade System Through Life Cycle and Considering Future Climate Conditions** (2025)
-   1 citations · Enhanced Weathering
+   1 citations · General CDR
 
 ## External Profiles
 

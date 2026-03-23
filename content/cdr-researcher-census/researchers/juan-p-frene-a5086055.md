@@ -1,7 +1,7 @@
 ---
 title: "Juan P. Frene"
 description: "Juan P. Frene is a Mid-career Soil Carbon researcher at New Mexico State University in US. With 45 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.524074
+date: 2026-03-23T11:47:00.340493
 url: "/cdr-researcher-census/researchers/juan-p-frene-a5086055/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 274 |
 | Publications | 45 |
-| CDR Focus | 13.3% |
+| CDR Focus | 1110.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Winston Wang"
 description: "Winston Wang is a Senior DAC researcher at The University of Texas at Austin in US. With 27 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.177262
+date: 2026-03-23T11:46:59.751439
 url: "/cdr-researcher-census/researchers/winston-wang-a5077921/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,28 +45,28 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 10 |
 | Citations | 568 |
 | Publications | 27 |
-| CDR Focus | 25.9% |
+| CDR Focus | 1850.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Moisture-driven CO2 pump for direct air capture** (2023)
-   22 citations · DAC
+   22 citations
 
 2. **Quaternary Ammonium-Functionalized Poly(Arylene Ether Sulfone) Random Copolymers for Direct Air Capture** (2023)
-   17 citations · DAC
+   17 citations
 
 3. **CO <sub>2</sub> Sorption in Moisture Swing Anion Exchange Resins for Direct Air Capture: Experimental Isotherm Determination and Modeling** (2026)
-   2 citations · DAC
+   2 citations
 
 4. **Characterizing and modeling the mechanical behavior of an anion exchange membrane for carbon capture applications** (2025)
-   0 citations · DAC
+   0 citations
 
 5. **Characterizing and modeling the mechanical behavior of an anion exchange membrane for carbon capture applications** (2025)
-   0 citations · DAC
+   0 citations
 
 6. **Moisture Driven Co2 Pump for Direct Air Capture** (2023)
-   0 citations · DAC
+   0 citations
 
 7. **Mining Air for Fuels and Fine Chemicals** (2022)
    0 citations · DAC

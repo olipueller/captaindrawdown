@@ -1,7 +1,7 @@
 ---
 title: "Paul Skinner"
 description: "Paul Skinner is a Senior Soil Carbon researcher at St. Helena Hospital in US. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.213378
+date: 2026-03-23T11:47:01.219741
 url: "/cdr-researcher-census/researchers/paul-skinner-a5113633/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 121 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

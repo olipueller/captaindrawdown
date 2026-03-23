@@ -1,7 +1,7 @@
 ---
 title: "Laura Castañeda‐Gómez"
 description: "Laura Castañeda‐Gómez is a Mid-career Soil Carbon researcher at Department of Biological Sciences in BY. With 27 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.080141
+date: 2026-03-23T11:46:59.575187
 url: "/cdr-researcher-census/researchers/laura-castanedagomez-a5003960/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 10 |
 | Citations | 778 |
 | Publications | 27 |
-| CDR Focus | 18.5% |
+| CDR Focus | 1480.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    0 citations · Soil Carbon
 
 4. **Non-mycorrhizal root-associated fungi increase soil C stocks and stability via diverse mechanisms** (2023)
-   0 citations · Soil Carbon
+   0 citations
 
 5. **A diversity of fungal pathways contribute to improved soil carbon stability and storage** (2023)
    0 citations · Soil Carbon

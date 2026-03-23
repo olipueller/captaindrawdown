@@ -1,7 +1,7 @@
 ---
 title: "Soosan Kim"
-description: "Soosan Kim is a Mid-career DAC researcher at Columbia University in US. With 28 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.949859
+description: "Soosan Kim is a Mid-career carbon dioxide removal researcher at Columbia University in US. With 28 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.292922
 url: "/cdr-researcher-census/researchers/soosan-kim-a5038065/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Columbia University · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,31 +39,31 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 18 |
 | Citations | 1,747 |
 | Publications | 28 |
-| CDR Focus | 25.0% |
+| CDR Focus | 1790.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Moisture-enhanced CO2 desorption from alkali and alkaline earth metal-based sorbents direct air capture** (2025)
-   2 citations · DAC
+   2 citations
 
 2. **Effect of moisture (2 mol%) on CO2 enhanced desorption from nano-dispersed Na2O/Al2O3 for direct air capture** (2024)
-   2 citations · DAC
+   2 citations
 
 3. **Bench-Scale Development of a Novel Direct Air Capture Technology Using High-Capacity Structured Sorbents** (2024)
-   2 citations · DAC
+   2 citations
 
 4. **Enhancement of CO2 adsorption on dual functional materials/catalytic methanation with varying moisture contents present in atmospheric ambient air** (2025)
-   0 citations · DAC
+   0 citations
 
 5. **Enhancement of Co2 Adsorption on Dual Functional Materials/Catalytic Methanation with Varying Moisture Contents Present in Atmospheric Ambient Air** (2025)
-   0 citations · DAC
+   0 citations
 
 6. **Catalytic Pretreatment of Sorbents for Enhanced Co2 Capture (Direct Air Capture) with Moisture Enhanced Desorption** (2025)
-   0 citations · DAC
+   0 citations
 
 7. **Effect of Moisture (2 Mol%) on Co2 Enhanced Desorption from Nano-Dispersed Na2o/Al2o3 for Direct Air Capture** (2024)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

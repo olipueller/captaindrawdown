@@ -1,7 +1,7 @@
 ---
 title: "Andréa Davrinche"
 description: "Andréa Davrinche is a Mid-career Soil Carbon researcher at University of Helsinki in FI. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.940478
+date: 2026-03-23T11:47:00.910923
 url: "/cdr-researcher-census/researchers/andrea-davrinche-a5087996/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 160 |
 | Publications | 20 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

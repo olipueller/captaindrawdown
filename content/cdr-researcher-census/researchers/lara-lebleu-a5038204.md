@@ -1,7 +1,7 @@
 ---
 title: "Lara Lebleu"
-description: "Lara Lebleu is an Early-career Ocean CDR researcher at Scientific Centre of Monaco in MC. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.608902
+description: "Lara Lebleu is an Early-career General CDR researcher at Scientific Centre of Monaco in MC. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.456793
 url: "/cdr-researcher-census/researchers/lara-lebleu-a5038204/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Scientific Centre of Monaco ·  MC
 
 ## CDR Specialization
 
-**Ocean CDR**
+**General CDR**
 
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 4 |
 | Citations | 242 |
 | Publications | 5 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

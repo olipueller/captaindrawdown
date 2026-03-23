@@ -1,7 +1,7 @@
 ---
 title: "Paul E. Savas"
-description: "Paul E. Savas is a Mid-career DAC researcher at Rice University in US. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.181737
+description: "Paul E. Savas is a Mid-career carbon dioxide removal researcher at Rice University in US. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.760022
 url: "/cdr-researcher-census/researchers/paul-e-savas-a5032539/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Rice University · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 5 |
 | Citations | 561 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Carbon Dioxide Sorbent from Construction and Textile Plastic Waste** (2023)
-   3 citations · DAC
+   3 citations
 
 ## External Profiles
 

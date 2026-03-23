@@ -1,7 +1,7 @@
 ---
 title: "Hanwoong Kim"
-description: "Hanwoong Kim is a Mid-career DAC researcher at Princeton University in US. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.703201
+description: "Hanwoong Kim is a Mid-career General CDR researcher at Princeton University in US. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.585623
 url: "/cdr-researcher-census/researchers/hanwoong-kim-a5041776/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Princeton University · 🇺🇸 US
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,16 +42,16 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 7 |
 | Citations | 213 |
 | Publications | 17 |
-| CDR Focus | 17.6% |
+| CDR Focus | 1180.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Decarbonization pathways for Korea's industrial sector towards its 2050 carbon neutrality goal** (2024)
-   17 citations · BECCS
+   17 citations · General CDR
 
 2. **Provincial-scale assessment of direct air capture to meet China’s climate neutrality goal under limited bioenergy supply** (2024)
-   5 citations · BECCS
+   5 citations · DAC
 
 3. **Corrigendum: provincial-scale assessment of direct air capture to meet China’s climate neutrality goal under limited bioenergy supply (2024 <i>Environ. Res. Lett.</i> 19 114021)** (2025)
    0 citations · DAC

@@ -1,7 +1,7 @@
 ---
 title: "Whitney Kirkendall"
 description: "Whitney Kirkendall is a Mid-career General CDR researcher at Lawrence Livermore National Laboratory in US. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.766270
+date: 2026-03-23T11:47:00.667670
 url: "/cdr-researcher-census/researchers/whitney-kirkendall-a5016263/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 3 |
 | Citations | 196 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

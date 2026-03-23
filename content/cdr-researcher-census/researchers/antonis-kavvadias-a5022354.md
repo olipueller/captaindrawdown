@@ -1,7 +1,7 @@
 ---
 title: "Antonis Kavvadias"
-description: "Antonis Kavvadias is an Early-career Soil Carbon researcher at Agricultural University of Athens in GR. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.314514
+description: "Antonis Kavvadias is an Early-career General CDR researcher at Agricultural University of Athens in GR. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.329360
 url: "/cdr-researcher-census/researchers/antonis-kavvadias-a5022354/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Agricultural University of Athens · 🇬🇷 GR
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 3 |
 | Citations | 111 |
 | Publications | 6 |
-| CDR Focus | 16.7% |
+| CDR Focus | 1670.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **High-accuracy UAS imagery for the estimation of olive tree canopy volume** (2025)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Zhiyuan Bai"
 description: "Zhiyuan Bai is a Mid-career Soil Carbon researcher at Ministry of Agriculture and Rural Affairs in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.519238
+date: 2026-03-23T11:47:00.334725
 url: "/cdr-researcher-census/researchers/zhiyuan-bai-a5081922/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 276 |
 | Publications | 12 |
-| CDR Focus | 16.7% |
+| CDR Focus | 1670.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Challenges and strategies in estimating soil organic carbon for multi-cropping systems: a review** (2024)
-   10 citations · Soil Carbon
+   10 citations · General CDR
 
 2. **Impacts of inorganic and organic fertilization on soil organic carbon and crop production: a meta-analysis** (2026)
    0 citations · Soil Carbon

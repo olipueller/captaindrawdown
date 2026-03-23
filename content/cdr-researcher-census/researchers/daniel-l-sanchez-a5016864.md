@@ -1,7 +1,7 @@
 ---
 title: "Daniel L. Sanchez"
 description: "Daniel L. Sanchez is a Senior General CDR researcher at Universidad Autónoma de Baja California in MX. With 92 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.887781
+date: 2026-03-23T11:46:59.138555
 url: "/cdr-researcher-census/researchers/daniel-l-sanchez-a5016864/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 30 |
 | Citations | 4,678 |
 | Publications | 92 |
-| CDR Focus | 15.2% |
+| CDR Focus | 1200.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -60,7 +60,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    54 citations · General CDR
 
 4. **Leveraging the bioeconomy for carbon drawdown** (2023)
-   47 citations · General CDR
+   47 citations · BECCS
 
 5. **Biomass Carbon Removal and Storage (BiRCS) Roadmap** (2021)
    47 citations · General CDR

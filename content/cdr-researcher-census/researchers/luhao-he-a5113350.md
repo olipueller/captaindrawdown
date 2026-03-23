@@ -1,7 +1,7 @@
 ---
 title: "Luhao He"
-description: "Luhao He is a Mid-career Ocean CDR researcher at Sun Yat-sen University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.399269
+description: "Luhao He is a Mid-career General CDR researcher at Sun Yat-sen University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.417591
 url: "/cdr-researcher-census/researchers/luhao-he-a5113350/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Sun Yat-sen University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Ocean CDR**
+**General CDR**
 
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 5 |
 | Citations | 102 |
 | Publications | 8 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **A Systematic Review of Carbon Sink Pathways and Deployment Strategies** (2025)
-   0 citations · BECCS
+   0 citations · General CDR
 
 ## External Profiles
 

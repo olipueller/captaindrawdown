@@ -1,7 +1,7 @@
 ---
 title: "Alison Thieme"
-description: "Alison Thieme is a Mid-career Soil Carbon researcher at Agricultural Research Service in US. With 21 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.701815
+description: "Alison Thieme is a Mid-career General CDR researcher at Agricultural Research Service in US. With 21 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.582764
 url: "/cdr-researcher-census/researchers/alison-thieme-a5071434/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Agricultural Research Service · 🇺🇸 US
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,19 +45,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 214 |
 | Publications | 21 |
-| CDR Focus | 14.3% |
+| CDR Focus | 950.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Spaceborne imaging spectroscopy enables carbon trait estimation in cover crop and cash crop residues** (2024)
-   3 citations · Soil Carbon
+   3 citations · General CDR
 
 2. **Toward the quantification of the climate co-benefits of invasive mammal eradication on islands: a scalable framework for restoration monitoring** (2024)
-   2 citations · Ocean CDR
+   2 citations
 
 3. **Satellite Remote Sensing Analysis to Support Winter Cover Crop Conservation Program Management in Maryland, USA** (2024)
-   1 citations · Soil Carbon
+   1 citations · General CDR
 
 ## External Profiles
 

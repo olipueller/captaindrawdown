@@ -1,7 +1,7 @@
 ---
 title: "Abhijeet Singh"
 description: "Abhijeet Singh is a Mid-career Enhanced Weathering researcher at Uppsala University in SE. With 49 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.156958
+date: 2026-03-23T11:46:59.719556
 url: "/cdr-researcher-census/researchers/abhijeet-singh-a5044155/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,28 +45,28 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 13 |
 | Citations | 600 |
 | Publications | 49 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1220.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **How earthworms thrive and drive silicate rock weathering in an artificial organo-mineral system** (2024)
-   8 citations · Biochar
+   8 citations · Enhanced Weathering
 
 2. **Alive and dead earthworms capture carbon during mineral weathering through different pathways** (2025)
    3 citations · Enhanced Weathering
 
 3. **Machine learning-based identification of key biotic and abiotic drivers of mineral weathering rate in a complex enhanced weathering experiment** (2025)
-   1 citations · Biochar
+   1 citations
 
 4. **Microbial dissolution of Gran Canaria lapilli in small-scale flow through columns: carbon dioxide removal potential** (2025)
-   1 citations · General CDR
+   1 citations · Enhanced Weathering
 
 5. **Alkalinity production and carbon capture from dunite weathering: Individual effects of oxalate, citrate, and EDTA salts** (2025)
    0 citations · Enhanced Weathering
 
 6. **Machine learning-based identification of key biotic and abiotic drivers of mineral weathering rate in a complex enhanced weathering experiment** (2025)
-   0 citations · Biochar
+   0 citations · Enhanced Weathering
 
 7. **Contribution of dissolved organic carbon to total alkalinity&amp;#160;** (2025)
    0 citations · Enhanced Weathering

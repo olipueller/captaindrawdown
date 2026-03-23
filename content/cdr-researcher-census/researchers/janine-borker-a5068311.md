@@ -1,7 +1,7 @@
 ---
 title: "Janine Börker"
-description: "Janine Börker is a Mid-career General CDR researcher at Universität Hamburg in DE. With 29 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.184174
+description: "Janine Börker is a Mid-career Biochar researcher at Universität Hamburg in DE. With 29 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.763257
 url: "/cdr-researcher-census/researchers/janine-borker-a5068311/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Universität Hamburg · 🇩🇪 DE
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 9 |
 | Citations | 558 |
 | Publications | 29 |
-| CDR Focus | 10.3% |
+| CDR Focus | 1030.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    6 citations · Biochar
 
 2. **Natural ocean alkalinization through erosion of glacial till and weathering at the seafloor** (2025)
-   0 citations · Enhanced Weathering
+   0 citations · Ocean CDR
 
 3. **Synergistic effects of co-application and co-pyrolysis of biochar and enhanced weathering materials for CO2 removal in an Oxisol** (2025)
    0 citations · Biochar

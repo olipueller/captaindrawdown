@@ -1,7 +1,7 @@
 ---
 title: "Hobimiarantsoa Rakotonindrina"
 description: "Hobimiarantsoa Rakotonindrina is a Mid-career Soil Carbon researcher at University of Antananarivo in MG. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.051500
+date: 2026-03-23T11:47:01.043898
 url: "/cdr-researcher-census/researchers/hobimiarantsoa-rakotonindrina-a5011874/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 142 |
 | Publications | 14 |
-| CDR Focus | 14.3% |
+| CDR Focus | 710.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Deciphering the impact of active aluminum and iron on soil organic carbon stabilization in volcanic and non-volcanic paddy soils of the central highlands of Madagascar** (2025)
-   0 citations · Soil Carbon
+   0 citations
 
 2. **Deciphering the Impact of Active Aluminum and Iron on Soil Organic Carbon Stabilization in Volcanic and Non-Volcanic Paddy Soils of the Central Highlands of Madagascar** (2025)
    0 citations · Soil Carbon

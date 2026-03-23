@@ -1,7 +1,7 @@
 ---
 title: "Juanyu Wu"
-description: "Juanyu Wu is a Mid-career Soil Carbon researcher at South China University of Technology in CN. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.428074
+description: "Juanyu Wu is a Mid-career carbon dioxide removal researcher at South China University of Technology in CN. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.184953
 url: "/cdr-researcher-census/researchers/juanyu-wu-a5060655/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ South China University of Technology · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,16 +39,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 319 |
 | Publications | 15 |
-| CDR Focus | 13.3% |
+| CDR Focus | 670.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Spatial and temporal driving mechanisms of ecosystem service trade-off/synergy in national key urban agglomerations: A case study of the Yangtze River Delta urban agglomeration in China** (2023)
-   75 citations · Soil Carbon
+   75 citations
 
 2. **Evaluating the spatiotemporal dynamics of ecosystem service supply-demand risk from the perspective of service flow to support regional ecosystem management: A case study of yangtze river delta urban agglomeration** (2024)
-   46 citations · Soil Carbon
+   46 citations
 
 ## External Profiles
 

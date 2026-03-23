@@ -1,7 +1,7 @@
 ---
 title: "Elena Tello-García"
 description: "Elena Tello-García is a Mid-career Soil Carbon researcher at Universität Innsbruck in AT. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.740096
+date: 2026-03-23T11:47:00.631854
 url: "/cdr-researcher-census/researchers/elena-tello-garcia-a5003813/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 204 |
 | Publications | 15 |
-| CDR Focus | 13.3% |
+| CDR Focus | 1330.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    4 citations · Soil Carbon
 
 2. **Shrub encroachment modifies soil properties through plant resource economic traits** (2024)
-   1 citations · Soil Carbon
+   1 citations
 
 ## External Profiles
 

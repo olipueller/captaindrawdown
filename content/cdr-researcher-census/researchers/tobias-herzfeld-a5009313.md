@@ -1,7 +1,7 @@
 ---
 title: "Tobias Herzfeld"
-description: "Tobias Herzfeld is a Senior Soil Carbon researcher at Shell (Germany) in DE. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.628395
+description: "Tobias Herzfeld is a Senior General CDR researcher at Shell (Germany) in DE. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.484343
 url: "/cdr-researcher-census/researchers/tobias-herzfeld-a5009313/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Shell (Germany) · 🇩🇪 DE
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,28 +45,28 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 236 |
 | Publications | 15 |
-| CDR Focus | 40.0% |
+| CDR Focus | 4000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Soil organic carbon dynamics from agricultural management practices under climate change** (2021)
-   64 citations · Soil Carbon
+   64 citations · General CDR
 
 2. **SOC sequestration potentials for agricultural management practices under climate change** (2021)
-   3 citations · Soil Carbon
+   3 citations · General CDR
 
 3. **Reply on RC1** (2021)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 4. **Comment on esd-2021-35** (2021)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 5. **Comment on esd-2021-35** (2021)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 6. **Reply on RC2** (2021)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

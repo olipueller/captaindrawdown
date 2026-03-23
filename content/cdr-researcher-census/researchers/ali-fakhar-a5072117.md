@@ -1,7 +1,7 @@
 ---
 title: "Ali Fakhar"
-description: "Ali Fakhar is a Mid-career Soil Carbon researcher at Aarhus University in DK. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.012868
+description: "Ali Fakhar is a Mid-career Biochar researcher at Aarhus University in DK. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.438410
 url: "/cdr-researcher-census/researchers/ali-fakhar-a5072117/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Aarhus University · 🇩🇰 DK
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 1,096 |
 | Publications | 16 |
-| CDR Focus | 12.5% |
+| CDR Focus | 620.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

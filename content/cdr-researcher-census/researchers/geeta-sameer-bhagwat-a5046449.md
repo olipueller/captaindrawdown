@@ -1,7 +1,7 @@
 ---
 title: "Geeta Sameer Bhagwat"
-description: "Geeta Sameer Bhagwat is a Mid-career Soil Carbon researcher at D.Y. Patil University in IN. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.206465
+description: "Geeta Sameer Bhagwat is a Mid-career General CDR researcher at D.Y. Patil University in IN. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.212373
 url: "/cdr-researcher-census/researchers/geeta-sameer-bhagwat-a5046449/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ D.Y. Patil University · 🇮🇳 IN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 3 |
 | Citations | 122 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Mulberry: A Multipurpose Plant** (2023)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Apostolia-Lemonia Skoura"
-description: "Apostolia-Lemonia Skoura is a Mid-career General CDR researcher at University Hospital of Larissa in GR. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.284788
+description: "Apostolia-Lemonia Skoura is a Mid-career carbon dioxide removal researcher at University Hospital of Larissa in GR. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.296918
 url: "/cdr-researcher-census/researchers/apostolia-lemonia-skoura-a5028380/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ University Hospital of Larissa · 🇬🇷 GR
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 4 |
 | Citations | 113 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Extracorporeal organ support for critically ill patients: Overcoming the past, achieving the maximum at present, and redefining the future** (2024)
-   4 citations · General CDR
+   4 citations
 
 ## External Profiles
 

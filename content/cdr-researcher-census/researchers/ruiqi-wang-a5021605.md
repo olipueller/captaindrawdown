@@ -1,7 +1,7 @@
 ---
 title: "Ruiqi Wang"
-description: "Ruiqi Wang is a Mid-career DAC researcher at Changzhou University in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.555917
+description: "Ruiqi Wang is a Mid-career carbon dioxide removal researcher at Changzhou University in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.386934
 url: "/cdr-researcher-census/researchers/ruiqi-wang-a5021605/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Changzhou University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 6 |
 | Citations | 261 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Solid oxide fuel cells with integrated direct air carbon capture: A techno-economic study** (2024)
-   12 citations · DAC
+   12 citations
 
 ## External Profiles
 

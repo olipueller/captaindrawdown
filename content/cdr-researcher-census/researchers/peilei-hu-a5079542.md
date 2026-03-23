@@ -1,7 +1,7 @@
 ---
 title: "Peilei Hu"
 description: "Peilei Hu is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 82 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.962452
+date: 2026-03-23T11:46:59.316712
 url: "/cdr-researcher-census/researchers/peilei-hu-a5079542/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 22 |
 | Citations | 1,585 |
 | Publications | 82 |
-| CDR Focus | 11.0% |
+| CDR Focus | 730.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -66,13 +66,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    4 citations · Soil Carbon
 
 6. **Bedrock geochemistry regulates glomalin-related soil protein accrual in subtropical karst forest soils, Southwest China** (2025)
-   3 citations · Enhanced Weathering
+   3 citations · Soil Carbon
 
 7. **Afforestation increases glomalin-related soil protein content and enhances its association with stable soil carbon in karst regions** (2025)
    3 citations · Soil Carbon
 
 8. **Linking rock outcrop size and distance to soil multifunctionality in mountain ecosystems** (2025)
-   2 citations · Enhanced Weathering
+   2 citations
 
 9. **Afforestation Enhances Soil Mineral-Associated Organic Carbon Accumulation Through Calcium and Microbial Interactions in Karst Ecosystems** (2025)
    0 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Luciano E. Di Paolo"
-description: "Luciano E. Di Paolo is an Early-career Soil Carbon researcher at Food and Agriculture Organization of the United Nations in IT. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.099811
+description: "Luciano E. Di Paolo is an Early-career General CDR researcher at Food and Agriculture Organization of the United Nations in IT. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.610137
 url: "/cdr-researcher-census/researchers/luciano-e-di-paolo-a5011445/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Food and Agriculture Organization of the United Nations · 🇮🇹 IT
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 3 |
 | Citations | 724 |
 | Publications | 5 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Argentina: Soil Organic Carbon Sequestration Potential National Map. National Report. Version 1.0. Year: 2021** (2021)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

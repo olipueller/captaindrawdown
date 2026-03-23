@@ -1,7 +1,7 @@
 ---
 title: "Biplov Oli"
 description: "Biplov Oli is an Early-career Soil Carbon researcher at Agriculture and Forestry University in NP. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.612585
+date: 2026-03-23T11:47:00.461918
 url: "/cdr-researcher-census/researchers/biplov-oli-a5072717/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 241 |
 | Publications | 10 |
-| CDR Focus | 20.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

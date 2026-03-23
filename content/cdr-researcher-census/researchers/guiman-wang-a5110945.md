@@ -1,7 +1,7 @@
 ---
 title: "Guiman Wang"
 description: "Guiman Wang is a Mid-career Soil Carbon researcher at Jilin Meteorological Bureau in CN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.568780
+date: 2026-03-23T11:47:00.406308
 url: "/cdr-researcher-census/researchers/guiman-wang-a5110945/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 256 |
 | Publications | 7 |
-| CDR Focus | 71.4% |
+| CDR Focus | 4290.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -57,10 +57,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    5 citations · Soil Carbon
 
 4. **Comment on egusphere-2022-963** (2023)
-   0 citations · Soil Carbon
+   0 citations
 
 5. **Comment on egusphere-2022-963** (2022)
-   0 citations · Soil Carbon
+   0 citations
 
 ## External Profiles
 

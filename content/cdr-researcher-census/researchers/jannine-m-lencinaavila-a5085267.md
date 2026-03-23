@@ -1,7 +1,7 @@
 ---
 title: "Jannine M. Lencina‐Avila"
 description: "Jannine M. Lencina‐Avila is a Mid-career Ocean CDR researcher at Leibniz Institute for Baltic Sea Research in DE. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.570042
+date: 2026-03-23T11:47:00.408932
 url: "/cdr-researcher-census/researchers/jannine-m-lencinaavila-a5085267/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 8 |
 | Citations | 255 |
 | Publications | 17 |
-| CDR Focus | 23.5% |
+| CDR Focus | 2350.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,10 +54,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    3 citations · General CDR
 
 2. **Direct effects of ocean alkalinity enhancement in the Baltic Sea–results from in-silico experiments** (2025)
-   2 citations · General CDR
+   2 citations · Ocean CDR
 
 3. **Corrigendum: Direct effects of ocean alkalinity enhancement in the Baltic Sea–results from in-silico experiments** (2025)
-   0 citations · Ocean CDR
+   0 citations · General CDR
 
 4. **Exploring site-specific carbon dioxide removal options with storage or sequestration in the marine environment - The 10 Mt CO2 yr-1 removal challenge for Germany** (2024)
    0 citations · General CDR

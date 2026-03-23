@@ -1,7 +1,7 @@
 ---
 title: "Jawad Mustafa"
-description: "Jawad Mustafa is a Mid-career General CDR researcher. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.287606
+description: "Jawad Mustafa is a Mid-career Ocean CDR researcher. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.957261
 url: "/cdr-researcher-census/researchers/jawad-mustafa-a5085245/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,9 +29,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**General CDR**
+**Ocean CDR**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
 
 ## Metrics
 
@@ -40,19 +40,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 10 |
 | Citations | 420 |
 | Publications | 20 |
-| CDR Focus | 15.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Electrodialysis based waste utilization methodology for the desalination industry** (2021)
-   31 citations · General CDR
+   31 citations
 
 2. **Treatment of saline wastewater and carbon dioxide capture using electrodialysis** (2021)
-   6 citations · General CDR
+   6 citations
 
 3. **Sustainable Brine Management and Carbon Dioxide Capture: Minimizing Water Footprint, Addressing Environmental Challenges, and Promoting Resource Recovery** (2024)
-   0 citations · General CDR
+   0 citations · Ocean CDR
 
 ## External Profiles
 

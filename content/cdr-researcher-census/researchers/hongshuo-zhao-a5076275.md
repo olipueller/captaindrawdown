@@ -1,7 +1,7 @@
 ---
 title: "Hongshuo Zhao"
-description: "Hongshuo Zhao is an Early-career DAC researcher at Tongji University in CN. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.008359
+description: "Hongshuo Zhao is an Early-career carbon dioxide removal researcher at Tongji University in CN. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.997806
 url: "/cdr-researcher-census/researchers/hongshuo-zhao-a5076275/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Tongji University · 🇨🇳 CN
 
 **Career Stage:** Early-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 3 |
 | Citations | 148 |
 | Publications | 3 |
-| CDR Focus | 33.3% |
+| CDR Focus | 3330.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Direct air capture of CO2 in designed metal-organic frameworks at lab and pilot scale** (2023)
-   30 citations · DAC
+   30 citations
 
 ## External Profiles
 

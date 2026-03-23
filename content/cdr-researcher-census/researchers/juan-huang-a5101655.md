@@ -1,7 +1,7 @@
 ---
 title: "Juan Huang"
 description: "Juan Huang is a Mid-career Soil Carbon researcher at South China Botanical Garden in CN. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.429187
+date: 2026-03-23T11:47:00.186544
 url: "/cdr-researcher-census/researchers/juan-huang-a5101655/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 318 |
 | Publications | 10 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    24 citations · Soil Carbon
 
 2. **Soil Quality Assessment for Sustainable Management: A Minimum Dataset for Long-Term Fertilization in Subtropical Plantations in South China** (2025)
-   0 citations · Enhanced Weathering
+   0 citations
 
 ## External Profiles
 

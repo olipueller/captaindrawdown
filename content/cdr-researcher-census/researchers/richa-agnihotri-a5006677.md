@@ -1,7 +1,7 @@
 ---
 title: "Richa Agnihotri"
 description: "Richa Agnihotri is a Senior Soil Carbon researcher at Indian Institute of Technology Palakkad in IN. With 48 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.992106
+date: 2026-03-23T11:46:59.388088
 url: "/cdr-researcher-census/researchers/richa-agnihotri-a5006677/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,16 +45,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 15 |
 | Citations | 1,265 |
 | Publications | 48 |
-| CDR Focus | 18.8% |
+| CDR Focus | 1250.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Glycoproteins of arbuscular mycorrhiza for soil carbon sequestration: Review of mechanisms and controls** (2021)
-   268 citations · Soil Carbon
+   268 citations
 
 2. **Deciphering the dynamics of glomalin and heavy metals in soils contaminated with hazardous municipal solid wastes** (2021)
-   64 citations · Soil Carbon
+   64 citations
 
 3. **Glomalin related protein and C16:1ω5 PLFA associated with AM fungi as potential signatures for assessing the soil C sequestration under contrasting soil management practices** (2021)
    56 citations · Soil Carbon
@@ -69,7 +69,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    1 citations · Soil Carbon
 
 7. **Belowground–Aboveground climate allies: arbuscular mycorrhizal fungi as ecosystem bridges for greenhouse gas mitigation** (2026)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 8. **Exploring microbial symbionts for improving soybean production and soil carbon sequestration** (2023)
    0 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Mohamed A. El-Nemr"
 description: "Mohamed A. El-Nemr is a Senior Biochar researcher at Minia University in EG. With 50 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.961562
+date: 2026-03-23T11:46:59.315521
 url: "/cdr-researcher-census/researchers/mohamed-a-el-nemr-a5039642/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 24 |
 | Citations | 1,591 |
 | Publications | 50 |
-| CDR Focus | 10.0% |
+| CDR Focus | 800.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Humphrey Adun"
 description: "Humphrey Adun is a Senior General CDR researcher at Near East University in CY. With 85 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.918975
+date: 2026-03-23T11:46:59.218054
 url: "/cdr-researcher-census/researchers/humphrey-adun-a5027923/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 31 |
 | Citations | 2,573 |
 | Publications | 85 |
-| CDR Focus | 21.2% |
+| CDR Focus | 1880.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -60,16 +60,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    41 citations · General CDR
 
 4. **The complementary role of carbon dioxide removal: A catalyst for advancing the COP28 pledges towards the 1.5 °C Paris Agreement target** (2024)
-   29 citations · Biochar
+   29 citations · General CDR
 
 5. **Deployment expectations of multi-gigatonne scale carbon removal could have adverse impacts on Asia’s energy-water-land nexus** (2024)
    22 citations · General CDR
 
 6. **Sustainability implications of different carbon dioxide removal technologies in the context of Europe's climate neutrality goal** (2024)
-   22 citations · BECCS
+   22 citations · General CDR
 
 7. **Does China's pathway to carbon neutrality require the integration of land-based biological negative emission solutions with geochemical and chemical alternatives?** (2023)
-   16 citations · General CDR
+   16 citations · Enhanced Weathering
 
 8. **Targeted carbon dioxide removal measures are essential for the cost and energy transformation of the electricity sector by 2050** (2025)
    13 citations · General CDR

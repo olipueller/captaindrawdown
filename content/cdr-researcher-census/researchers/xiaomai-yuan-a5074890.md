@@ -1,7 +1,7 @@
 ---
 title: "Xiaomai Yuan"
-description: "Xiaomai Yuan is an Early-career Soil Carbon researcher at Guangxi University in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.103693
+description: "Xiaomai Yuan is an Early-career Biochar researcher at Guangxi University in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.103918
 url: "/cdr-researcher-census/researchers/xiaomai-yuan-a5074890/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Guangxi University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 134 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

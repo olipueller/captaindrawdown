@@ -1,7 +1,7 @@
 ---
 title: "Marius L. van der Vyver"
-description: "Marius L. van der Vyver is a Mid-career Soil Carbon researcher at Nelson Mandela University in ZA. With 8 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.585967
+description: "Marius L. van der Vyver is a Mid-career General CDR researcher at Nelson Mandela University in ZA. With 8 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.427549
 url: "/cdr-researcher-census/researchers/marius-l-van-der-vyver-a5076802/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Nelson Mandela University · 🇿🇦 ZA
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 251 |
 | Publications | 8 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Herbivory and misidentification of target habitat constrain region-wide restoration success of spekboom (<i>Portulacaria afra</i>) in South African subtropical succulent thicket** (2021)
-   18 citations · Soil Carbon
+   18 citations · General CDR
 
 ## External Profiles
 

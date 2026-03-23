@@ -1,7 +1,7 @@
 ---
 title: "Rose C. Ramkat"
-description: "Rose C. Ramkat is a Senior General CDR researcher at Moi University in KE. With 40 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.063600
+description: "Rose C. Ramkat is a Senior carbon dioxide removal researcher at Moi University in KE. With 40 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.543809
 url: "/cdr-researcher-census/researchers/rose-c-ramkat-a5077241/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Moi University ·  KE
 
 **Career Stage:** Senior
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,22 +39,22 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 14 |
 | Citations | 834 |
 | Publications | 40 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **A review of recent developments in application of low cost natural materials in purification and upgrade of biogas** (2021)
-   149 citations · General CDR
+   149 citations
 
 2. **Biogas upgrade using modified natural clay** (2021)
-   24 citations · General CDR
+   24 citations
 
 3. **Potential of wood ash in purification of biogas** (2021)
-   17 citations · General CDR
+   17 citations
 
 4. **Carbon dioxide removal from biogas through sorption processes using natural and activated zeolite adsorbents** (2022)
-   4 citations · General CDR
+   4 citations
 
 ## External Profiles
 

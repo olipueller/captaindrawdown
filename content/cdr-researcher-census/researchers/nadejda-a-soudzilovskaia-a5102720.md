@@ -1,7 +1,7 @@
 ---
 title: "Nadejda A. Soudzilovskaia"
 description: "Nadejda A. Soudzilovskaia is a Senior Soil Carbon researcher at Leiden University in NL. With 53 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.889700
+date: 2026-03-23T11:46:59.143040
 url: "/cdr-researcher-census/researchers/nadejda-a-soudzilovskaia-a5102720/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 25 |
 | Citations | 4,423 |
 | Publications | 53 |
-| CDR Focus | 13.2% |
+| CDR Focus | 1130.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    12 citations · Soil Carbon
 
 2. **Implementation of mycorrhizal mechanisms into soil carbon model improves the prediction of long-term processes of plant litter decomposition** (2021)
-   3 citations · Soil Carbon
+   3 citations
 
 3. **Comment on bg-2021-275** (2021)
    0 citations · Soil Carbon

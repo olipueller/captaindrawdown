@@ -1,7 +1,7 @@
 ---
 title: "Joshua A. Thompson"
-description: "Joshua A. Thompson is a Senior DAC researcher at Chevron in US. With 39 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.970229
+description: "Joshua A. Thompson is a Senior carbon dioxide removal researcher at Chevron in US. With 39 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.334988
 url: "/cdr-researcher-census/researchers/joshua-a-thompson-a5029102/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Chevron · 🇺🇸 US
 
 **Career Stage:** Senior
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,22 +39,22 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 16 |
 | Citations | 1,490 |
 | Publications | 39 |
-| CDR Focus | 10.3% |
+| CDR Focus | 770.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Performance Degradation of Amine-Infused Fiber Sorbents for Direct Air Capture: Mechanisms and Solutions** (2025)
-   6 citations · DAC
+   6 citations
 
 2. **Sub-Ambient Performance of Potassium Sarcosinate for Direct Air Capture Applications: CO2 Flux and Viscosity Measurements** (2024)
-   6 citations · DAC
+   6 citations
 
 3. **A multifunctional rooftop unit for direct air capture** (2024)
-   6 citations · DAC
+   6 citations
 
 4. **Sub-Ambient Performance of Potassium Sarcosinate for Direct Air Capture Applications: Co₂ Flux and Viscosity Measurements** (2024)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

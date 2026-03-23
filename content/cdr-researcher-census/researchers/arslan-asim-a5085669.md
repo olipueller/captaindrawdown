@@ -1,7 +1,7 @@
 ---
 title: "Arslan Asim"
-description: "Arslan Asim is a Mid-career Enhanced Weathering researcher at Niğde Ömer Halisdemir Üniversitesi in TR. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.727444
+description: "Arslan Asim is a Mid-career Biochar researcher at Niğde Ömer Halisdemir Üniversitesi in TR. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.616448
 url: "/cdr-researcher-census/researchers/arslan-asim-a5085669/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Niğde Ömer Halisdemir Üniversitesi ·  TR
 
 ## CDR Specialization
 
-**Enhanced Weathering**
+**Biochar**
 
-Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 5 |
 | Citations | 207 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Biochar for Climate Change Adaptation and Mitigation** (2025)
-   0 citations · Enhanced Weathering
+   0 citations · Biochar
 
 ## External Profiles
 

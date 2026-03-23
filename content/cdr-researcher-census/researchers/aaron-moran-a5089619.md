@@ -1,7 +1,7 @@
 ---
 title: "Aaron Moran"
-description: "Aaron Moran is a Mid-career DAC researcher at ResearchWorks (United States) in US. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.926728
+description: "Aaron Moran is a Mid-career carbon dioxide removal researcher at ResearchWorks (United States) in US. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.895912
 url: "/cdr-researcher-census/researchers/aaron-moran-a5089619/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ ResearchWorks (United States) · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 4 |
 | Citations | 162 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Co2-water Co-adsorption Measurements and Process Modelling of Amine-functionalised Polymeric Resins for Direct Air Capture** (2025)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

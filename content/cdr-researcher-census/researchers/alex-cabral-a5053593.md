@@ -1,7 +1,7 @@
 ---
 title: "Alex Cabral"
-description: "Alex Cabral is a Mid-career Soil Carbon researcher at Trinity College Dublin in IE. With 42 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.122852
+description: "Alex Cabral is a Mid-career Ocean CDR researcher at Trinity College Dublin in IE. With 42 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.653371
 url: "/cdr-researcher-census/researchers/alex-cabral-a5053593/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Trinity College Dublin ·  IE
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Ocean CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 12 |
 | Citations | 664 |
 | Publications | 42 |
-| CDR Focus | 11.9% |
+| CDR Focus | 710.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -54,16 +54,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    36 citations · Ocean CDR
 
 2. **Large Porewater‐Derived Carbon Outwelling Across Mangrove Seascapes Revealed by Radium Isotopes** (2024)
-   12 citations · Soil Carbon
+   12 citations · Ocean CDR
 
 3. **Efficient oxidation attenuates porewater‐derived methane fluxes in mangrove waters** (2024)
-   5 citations · Soil Carbon
+   5 citations
 
 4. **Carbon and mercury burial in mangrove soils across an anthropogenic gradient** (2025)
    2 citations · Soil Carbon
 
 5. **Large porewater-derived carbon outwelling across two mangrove-seascapes revealed by radium isotopes** (2024)
-   0 citations · Soil Carbon
+   0 citations · Ocean CDR
 
 ## External Profiles
 

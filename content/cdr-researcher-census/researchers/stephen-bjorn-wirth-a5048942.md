@@ -1,7 +1,7 @@
 ---
 title: "Stephen Björn Wirth"
 description: "Stephen Björn Wirth is a Mid-career Soil Carbon researcher at Max Planck Institute for the Science of Human History in DE. With 37 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.559606
+date: 2026-03-23T11:47:00.394188
 url: "/cdr-researcher-census/researchers/stephen-bjorn-wirth-a5048942/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 259 |
 | Publications | 37 |
-| CDR Focus | 18.9% |
+| CDR Focus | 1350.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    9 citations · Soil Carbon
 
 2. **Biological nitrogen fixation of natural and agricultural vegetation simulated with LPJmL 5.7.9** (2024)
-   4 citations · Soil Carbon
+   4 citations
 
 3. **Estimating the carbon dioxide removal potential of alley-cropping agroforestry systems in Germany** (2025)
    0 citations · General CDR
@@ -66,7 +66,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    0 citations · Soil Carbon
 
 6. **Comment on egusphere-2023-2946** (2024)
-   0 citations · Soil Carbon
+   0 citations
 
 7. **Comment on egusphere-2023-2946** (2024)
    0 citations · Soil Carbon

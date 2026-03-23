@@ -1,7 +1,7 @@
 ---
 title: "Dejin Dong"
-description: "Dejin Dong is a Mid-career Soil Carbon researcher at Kyushu University in JP. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.025883
+description: "Dejin Dong is a Mid-career carbon dioxide removal researcher at Kyushu University in JP. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.015985
 url: "/cdr-researcher-census/researchers/dejin-dong-a5067180/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Kyushu University · 🇯🇵 JP
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,16 +39,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 146 |
 | Publications | 19 |
-| CDR Focus | 10.5% |
+| CDR Focus | 530.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Potential effects of fertilization strategies on greenhouse gas emissions from bamboo forest soils** (2025)
-   0 citations · Biochar
+   0 citations
 
 2. **Potential effects of fertilization strategies on greenhouse gas emissions from bamboo forest soils** (2025)
-   0 citations · Biochar
+   0 citations
 
 ## External Profiles
 

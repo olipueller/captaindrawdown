@@ -1,7 +1,7 @@
 ---
 title: "Ümran Tezcan Ün"
 description: "Ümran Tezcan Ün is a Senior General CDR researcher at Eskisehir Technical University in TR. With 48 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.950364
+date: 2026-03-23T11:46:59.294345
 url: "/cdr-researcher-census/researchers/umran-tezcan-un-a5048950/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,22 +45,22 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 20 |
 | Citations | 1,736 |
 | Publications | 48 |
-| CDR Focus | 10.4% |
+| CDR Focus | 830.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Effect of Temperature and Gas Flow Rate on CO&lt;sub&gt;2&lt;/sub&gt; Capture** (2022)
-   27 citations · General CDR
+   27 citations
 
 2. **Carbon dioxide absorption using monoethanolamine, piperazine and n-metil-2-pirolidon solvents under counter current regime in packed column reactor** (2023)
-   7 citations · General CDR
+   7 citations
 
 3. **Optimization of carbon dioxide absorption in a continuous bubble column reactor using response surface methodology** (2023)
    4 citations · General CDR
 
 4. **Carbon Dioxide Absorption Using Monoethanolamine, Piperazine and N-Metil-2-Pirolidon Solvents Under Counter Current Regime in Packed Column Reactor** (2023)
-   0 citations · General CDR
+   0 citations
 
 5. **Carbon Dioxide Absorption Using Different Solvents (MEA, NaOH, KOH and Mg(OH)2) in Bubble Column Reactor** (2023)
    0 citations · General CDR

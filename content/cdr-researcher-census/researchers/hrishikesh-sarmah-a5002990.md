@@ -1,7 +1,7 @@
 ---
 title: "Hrishikesh Sarmah"
-description: "Hrishikesh Sarmah is a Mid-career General CDR researcher at North East Institute of Science and Technology in IN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.035628
+description: "Hrishikesh Sarmah is a Mid-career carbon dioxide removal researcher at North East Institute of Science and Technology in IN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.025549
 url: "/cdr-researcher-census/researchers/hrishikesh-sarmah-a5002990/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ North East Institute of Science and Technology · 🇮🇳 IN
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 6 |
 | Citations | 144 |
 | Publications | 8 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Stripping of carbon dioxide from ethanol solution of PAMAM dendrimer using hollow Fibre membrane contactor** (2022)
-   3 citations · General CDR
+   3 citations
 
 ## External Profiles
 

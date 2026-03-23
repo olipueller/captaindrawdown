@@ -1,7 +1,7 @@
 ---
 title: "Bernardo Caldas"
 description: "Bernardo Caldas is a Senior Soil Carbon researcher at Bioversity International in CO. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.173134
+date: 2026-03-23T11:47:01.175349
 url: "/cdr-researcher-census/researchers/bernardo-caldas-a5072481/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 126 |
 | Publications | 8 |
-| CDR Focus | 25.0% |
+| CDR Focus | 1250.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    13 citations · Soil Carbon
 
 2. **Coupling remote sensing and eDNA to monitor environmental impact: A pilot to quantify the environmental benefits of sustainable agriculture in the Brazilian Amazon** (2023)
-   0 citations · Soil Carbon
+   0 citations
 
 ## External Profiles
 

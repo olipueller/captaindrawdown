@@ -1,7 +1,7 @@
 ---
 title: "Boren Dai"
-description: "Boren Dai is a Mid-career Biochar researcher at Nanjing Forestry University in CN. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.249279
+description: "Boren Dai is a Mid-career carbon dioxide removal researcher at Nanjing Forestry University in CN. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.257829
 url: "/cdr-researcher-census/researchers/boren-dai-a5068617/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Nanjing Forestry University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Biochar**
-
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 5 |
 | Citations | 117 |
 | Publications | 5 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Boosted activity of δ-MnO2 by Kenaf derived carbon fiber for high-efficient oxidative degradation of bisphenol A in water** (2021)
-   23 citations · Biochar
+   23 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Danusorn Congsomjit"
-description: "Danusorn Congsomjit is a Mid-career General CDR researcher at Kasetsart University in TH. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.366692
+description: "Danusorn Congsomjit is a Mid-career carbon dioxide removal researcher at Kasetsart University in TH. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.384410
 url: "/cdr-researcher-census/researchers/danusorn-congsomjit-a5038787/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Kasetsart University · 🇹🇭 TH
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 3 |
 | Citations | 105 |
 | Publications | 3 |
-| CDR Focus | 33.3% |
+| CDR Focus | 3330.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Application of sugarcane bagasse fly ash for syrup decolorization through activated carbon production and the circular utilization of its waste** (2024)
-   11 citations · General CDR
+   11 citations
 
 ## External Profiles
 

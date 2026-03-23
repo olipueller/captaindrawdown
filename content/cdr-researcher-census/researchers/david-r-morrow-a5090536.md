@@ -1,7 +1,7 @@
 ---
 title: "David R. Morrow"
 description: "David R. Morrow is a Senior General CDR researcher at American University in US. With 61 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.993143
+date: 2026-03-23T11:46:59.394283
 url: "/cdr-researcher-census/researchers/david-r-morrow-a5090536/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 21 |
 | Citations | 1,247 |
 | Publications | 61 |
-| CDR Focus | 24.6% |
+| CDR Focus | 1970.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -60,22 +60,22 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    41 citations · General CDR
 
 4. **GCAM-CDR v1.0: enhancing the representation of carbon dioxide removal technologies and policies in an integrated assessment model** (2023)
-   23 citations · BECCS
+   23 citations · DAC
 
 5. **Splitting Climate Engineering Governance: How Problem Structure Shapes Institutional Design** (2021)
    19 citations · General CDR
 
 6. **Does China's pathway to carbon neutrality require the integration of land-based biological negative emission solutions with geochemical and chemical alternatives?** (2023)
-   16 citations · General CDR
+   16 citations · Enhanced Weathering
 
 7. **Is there a role for carbon capture and storage in a just transition?** (2021)
-   6 citations · BECCS
+   6 citations · General CDR
 
 8. **Scaling carbon removal without delaying emission reductions** (2025)
    4 citations · General CDR
 
 9. **GCAM-CDR v1.0: Enhancing the Representation of Carbon Dioxide Removal Technologies and Policies in an Integrated Assessment Model** (2022)
-   4 citations · BECCS
+   4 citations
 
 10. **Carbon removal trading can promote economic growth in the Global South but could undermine food and energy security** (2025)
    0 citations · General CDR

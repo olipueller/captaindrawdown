@@ -1,7 +1,7 @@
 ---
 title: "Olivier Rezazgui"
 description: "Olivier Rezazgui is a Mid-career Biochar researcher at Université du Québec à Trois-Rivières in CA. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.031351
+date: 2026-03-23T11:47:01.020408
 url: "/cdr-researcher-census/researchers/olivier-rezazgui-a5063458/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 5 |
 | Citations | 145 |
 | Publications | 11 |
-| CDR Focus | 18.2% |
+| CDR Focus | 1820.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

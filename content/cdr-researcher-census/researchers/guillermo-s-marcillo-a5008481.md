@@ -1,7 +1,7 @@
 ---
 title: "Guillermo S. Marcillo"
-description: "Guillermo S. Marcillo is a Mid-career Soil Carbon researcher. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.283900
+description: "Guillermo S. Marcillo is a Mid-career General CDR researcher. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.951692
 url: "/cdr-researcher-census/researchers/guillermo-s-marcillo-a5008481/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,9 +29,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -40,16 +40,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 424 |
 | Publications | 14 |
-| CDR Focus | 14.3% |
+| CDR Focus | 710.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Adapting irrigated maize cropping to a changing climate** (2023)
-   0 citations · Enhanced Weathering
+   0 citations · General CDR
 
 2. **Agricultural Management and Soil Carbon Sequestration: the potential of APSIM model to support climate change mitigation** (2022)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

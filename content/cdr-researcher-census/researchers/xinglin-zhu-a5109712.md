@@ -1,0 +1,68 @@
+---
+title: "Xinglin Zhu"
+description: "Xinglin Zhu is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 43 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.976114
+url: "/cdr-researcher-census/researchers/xinglin-zhu-a5109712/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Xinglin Zhu",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/xinglin-zhu-a5109712/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Chinese Academy of Sciences"
+  },
+  "sameAs": "https://openalex.org/A5109712692"
+}
+</script>
+
+## Profile
+
+**Xinglin Zhu**  
+Chinese Academy of Sciences · 🇨🇳 CN
+
+**Career Stage:** Mid-career
+
+## CDR Specialization
+
+**Soil Carbon**
+
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 12 |
+| Citations | 410 |
+| Publications | 43 |
+| CDR Focus | 930.0% |
+| Trajectory | Stable |
+
+## Top CDR Publications
+
+1. **Soil organic carbon distribution and multi-scale drivers in semi-arid alpine Regions: Implications for carbon storage function stability** (2025)
+   2 citations · Soil Carbon
+
+2. **Effects of ecological afforestation on soil inorganic carbon in arid region: a case study of desert margin in Alxa region, China** (2025)
+   0 citations · Soil Carbon
+
+3. **Study on the changes of soil inorganic carbon after afforestation in arid sandy land of Alxa** (2023)
+   0 citations · Soil Carbon
+
+4. **The effect of afforestation on inorganic carbon in soils of arid and semi-arid lands of northwest China** (2023)
+   0 citations · Soil Carbon
+
+## External Profiles
+
+- [OpenAlex](https://openalex.org/A5109712692)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

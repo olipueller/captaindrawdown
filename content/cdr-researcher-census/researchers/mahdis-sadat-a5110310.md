@@ -1,7 +1,7 @@
 ---
 title: "Mahdis Sadat"
-description: "Mahdis Sadat is a Mid-career Soil Carbon researcher at Nangarhar University in AF. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.438543
+description: "Mahdis Sadat is a Mid-career General CDR researcher at Nangarhar University in AF. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.201814
 url: "/cdr-researcher-census/researchers/mahdis-sadat-a5110310/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Nangarhar University ·  AF
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 313 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Spatiotemporal ecosystem services: Response to structural changes (A case study in Lahijan, Iran)** (2023)
-   3 citations · Soil Carbon
+   3 citations · General CDR
 
 ## External Profiles
 

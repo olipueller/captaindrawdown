@@ -1,7 +1,7 @@
 ---
 title: "Mary E. Zick"
 description: "Mary E. Zick is a Mid-career DAC researcher at Cornell University in US. With 27 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.359159
+date: 2026-03-23T11:47:00.069568
 url: "/cdr-researcher-census/researchers/mary-e-zick-a5006783/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,37 +45,37 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 9 |
 | Citations | 365 |
 | Publications | 27 |
-| CDR Focus | 33.3% |
+| CDR Focus | 1850.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Capturing carbon dioxide from air with charged-sorbents** (2024)
-   127 citations · DAC
+   127 citations
 
 2. **Carbon Dioxide Capture at Nucleophilic Hydroxide Sites in Oxidation‐Resistant Cyclodextrin‐Based Metal–Organic Frameworks**** (2022)
-   50 citations · DAC
+   50 citations
 
 3. **Carbon Capture Beyond Amines: CO<sub>2</sub> Sorption at Nucleophilic Oxygen Sites in Materials** (2022)
    9 citations · DAC
 
 4. **Carbon Dioxide Capture at Nucleophilic Hydroxide Sites in Oxidation‐Resistant Cyclodextrin‐Based Metal–Organic Frameworks**** (2022)
-   9 citations · DAC
+   9 citations
 
 5. **Carbon Capture from Natural Gas Flue Emissions and Air via (Bi)Carbonate Formation in a Cyclodextrin-Based Metal–Organic Framework** (2025)
    5 citations · DAC
 
 6. **Carbon Dioxide Capture at Nucleophilic Hydroxide Sites in Oxidation-Resistant Cyclodextrin-Based Metal-Organic Frameworks** (2022)
-   4 citations · DAC
+   4 citations
 
 7. **Carbon Capture from Natural Gas Flue Emissions and Air via (Bi)Carbonate Formation in a Cyclodextrin-Based Metal-Organic Framework** (2024)
-   3 citations · DAC
+   3 citations
 
 8. **Capturing Carbon Dioxide from Air with Charged-Sorbents** (2024)
-   3 citations · DAC
+   3 citations
 
 9. **Capturing Carbon Dioxide from Air with Charged Sorbents** (2023)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Daiki Yanai"
-description: "Daiki Yanai is an Early-career DAC researcher at The University of Tokyo in JP. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.775836
+description: "Daiki Yanai is an Early-career carbon dioxide removal researcher at The University of Tokyo in JP. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.681517
 url: "/cdr-researcher-census/researchers/daiki-yanai-a5092116/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ The University of Tokyo · 🇯🇵 JP
 
 **Career Stage:** Early-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 4 |
 | Citations | 194 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Alkaline composite inorganic membrane for high temperature carbon dioxide separation** (2024)
-   1 citations · DAC
+   1 citations
 
 ## External Profiles
 

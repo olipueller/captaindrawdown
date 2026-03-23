@@ -1,7 +1,7 @@
 ---
 title: "Vijoyeta Chakraborty"
 description: "Vijoyeta Chakraborty is a Senior Biochar researcher at Jadavpur University in IN. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.489614
+date: 2026-03-23T11:47:00.286569
 url: "/cdr-researcher-census/researchers/vijoyeta-chakraborty-a5091217/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,13 +42,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 9 |
 | Citations | 288 |
 | Publications | 13 |
-| CDR Focus | 15.4% |
+| CDR Focus | 770.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Synthesis and application of various metal oxide–/biomaterial–coated carbonaceous nanomaterials derived from waste biomass for removal of Cr+6 present in solution** (2021)
-   9 citations · Biochar
+   9 citations
 
 2. **Experimental study on removal of chromium using nano-silica coated pyrolysed biochar in batch, fixed bed and fluidized bed reactor: Synthesis, characterization, experimentation and mechanism** (2023)
    4 citations · Biochar

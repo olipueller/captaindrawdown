@@ -1,7 +1,7 @@
 ---
 title: "Yanbo Yang"
 description: "Yanbo Yang is a Mid-career Soil Carbon researcher at Zhejiang A & F University in CN. With 24 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.739181
+date: 2026-03-23T11:47:00.630791
 url: "/cdr-researcher-census/researchers/yanbo-yang-a5036406/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 204 |
 | Publications | 24 |
-| CDR Focus | 20.8% |
+| CDR Focus | 2080.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

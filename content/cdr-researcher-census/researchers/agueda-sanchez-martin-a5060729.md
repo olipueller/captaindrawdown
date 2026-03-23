@@ -1,7 +1,7 @@
 ---
 title: "Águeda Sánchez-Martín"
 description: "Águeda Sánchez-Martín is a Mid-career Soil Carbon researcher at Instituto de Recursos Naturales y Agrobiología de Sevilla in ES. With 27 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.195391
+date: 2026-03-23T11:47:01.199176
 url: "/cdr-researcher-census/researchers/agueda-sanchez-martin-a5060729/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 3 |
 | Citations | 123 |
 | Publications | 27 |
-| CDR Focus | 14.8% |
+| CDR Focus | 1480.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -57,10 +57,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    2 citations · Biochar
 
 3. **Impact of organic amendments on carbon stability and carbon use efficiency in acidic and alkaline soils** (2025)
-   0 citations · Biochar
+   0 citations · Soil Carbon
 
 4. **From waste to worth: Harnessing residual biomass to boost soil quality and carbon sequestration** (2025)
-   0 citations · Biochar
+   0 citations · Soil Carbon
 
 ## External Profiles
 

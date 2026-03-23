@@ -1,7 +1,7 @@
 ---
 title: "Arin Mishra"
-description: "Arin Mishra is a Mid-career General CDR researcher. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.021955
+description: "Arin Mishra is a Mid-career carbon dioxide removal researcher. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.012693
 url: "/cdr-researcher-census/researchers/arin-mishra-a5089386/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -24,12 +24,6 @@ robots: "index, follow"
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -37,13 +31,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 3 |
 | Citations | 146 |
 | Publications | 6 |
-| CDR Focus | 16.7% |
+| CDR Focus | 1670.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **A review on biogas upgradation systems** (2022)
-   47 citations · General CDR
+   47 citations
 
 ## External Profiles
 

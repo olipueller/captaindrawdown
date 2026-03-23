@@ -1,7 +1,7 @@
 ---
 title: "Anas Al-Dailami"
-description: "Anas Al-Dailami is a Mid-career Biochar researcher at University of Technology Malaysia in MY. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.984547
+description: "Anas Al-Dailami is a Mid-career General CDR researcher at University of Technology Malaysia in MY. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.964161
 url: "/cdr-researcher-census/researchers/anas-al-dailami-a5075836/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ University of Technology Malaysia · 🇲🇾 MY
 
 ## CDR Specialization
 
-**Biochar**
+**General CDR**
 
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 5 |
 | Citations | 152 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Role of Algae in Built Environment and Green Cities: A Holistic approach towards Sustainability** (2022)
-   9 citations · Biochar
+   9 citations · General CDR
 
 ## External Profiles
 

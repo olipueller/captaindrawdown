@@ -1,7 +1,7 @@
 ---
 title: "Zeki Karaca"
-description: "Zeki Karaca is a Mid-career Soil Carbon researcher at University of Maine System in US. With 7 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.314308
+description: "Zeki Karaca is a Mid-career Enhanced Weathering researcher at University of Maine System in US. With 7 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.329153
 url: "/cdr-researcher-census/researchers/zeki-karaca-a5054768/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Maine System · 🇺🇸 US
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Enhanced Weathering**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 2 |
 | Citations | 111 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Parameters affecting the conversion ratio of lime to calcium carbonate in mineral carbonation reaction in clay-free sand and calcium efficiency** (2023)
-   0 citations · Soil Carbon
+   0 citations · Enhanced Weathering
 
 ## External Profiles
 

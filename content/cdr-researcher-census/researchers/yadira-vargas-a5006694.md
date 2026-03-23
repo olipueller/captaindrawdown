@@ -1,7 +1,7 @@
 ---
 title: "Yadira Vargas"
 description: "Yadira Vargas is a Mid-career Soil Carbon researcher at Instituto Nacional de Investigaciones Agropecuarias in EC. With 30 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.322920
+date: 2026-03-23T11:47:01.339373
 url: "/cdr-researcher-census/researchers/yadira-vargas-a5006694/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 110 |
 | Publications | 30 |
-| CDR Focus | 10.0% |
+| CDR Focus | 670.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,10 +54,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    23 citations · Soil Carbon
 
 2. **Contribution of Agroforestry Systems in the Cultivation of Naranjilla (Solanum quitoense) Grown in the Amazon Region of Ecuador** (2022)
-   5 citations · Soil Carbon
+   5 citations
 
 3. **Nutrient Contribution and Carbon Sequestration of an Agroforestry System of Coffea canephora Cultivated by Conventional and Organic Management in the Ecuadorian Amazon** (2024)
-   3 citations · Soil Carbon
+   3 citations · General CDR
 
 ## External Profiles
 

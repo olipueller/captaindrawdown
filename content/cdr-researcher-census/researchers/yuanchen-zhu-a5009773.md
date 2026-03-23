@@ -1,7 +1,7 @@
 ---
 title: "Yuanchen Zhu"
 description: "Yuanchen Zhu is a Mid-career Soil Carbon researcher at University of Ottawa in CA. With 31 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.194079
+date: 2026-03-23T11:46:59.785529
 url: "/cdr-researcher-census/researchers/yuanchen-zhu-a5009773/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 12 |
 | Citations | 537 |
 | Publications | 31 |
-| CDR Focus | 12.9% |
+| CDR Focus | 970.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Evaluation of the soil aggregate stability under long term manure and chemical fertilizer applications: Insights from organic carbon and humic acid structure in aggregates** (2024)
-   36 citations · Soil Carbon
+   36 citations
 
 2. **Long-term organic material application enhances black soil productivity by improving aggregate stability and dissolved organic matter dynamics** (2025)
    19 citations · Soil Carbon

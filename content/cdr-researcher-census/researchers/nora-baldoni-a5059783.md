@@ -1,7 +1,7 @@
 ---
 title: "Nora Baldoni"
-description: "Nora Baldoni is a Mid-career Soil Carbon researcher at Marche Polytechnic University in IT. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.997031
+description: "Nora Baldoni is a Mid-career General CDR researcher at Marche Polytechnic University in IT. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.984577
 url: "/cdr-researcher-census/researchers/nora-baldoni-a5059783/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Marche Polytechnic University · 🇮🇹 IT
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 150 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Management of a Mediterranean Forage/Cereal-Based Cropping System: An Ecosystem Service Multisectoral Analysis in the Perspective of Climate Change** (2022)
-   8 citations · Biochar
+   8 citations · General CDR
 
 ## External Profiles
 

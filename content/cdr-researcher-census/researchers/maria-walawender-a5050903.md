@@ -1,7 +1,7 @@
 ---
 title: "Maria Walawender"
-description: "Maria Walawender is a Mid-career Enhanced Weathering researcher at University College London in GB. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.932298
+description: "Maria Walawender is a Mid-career General CDR researcher at University College London in GB. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.256119
 url: "/cdr-researcher-census/researchers/maria-walawender-a5050903/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University College London · 🇬🇧 GB
 
 ## CDR Specialization
 
-**Enhanced Weathering**
+**General CDR**
 
-Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,16 +45,16 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 10 |
 | Citations | 2,077 |
 | Publications | 19 |
-| CDR Focus | 10.5% |
+| CDR Focus | 530.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **The 2023 China report of the Lancet Countdown on health and climate change: taking stock for a thriving future** (2023)
-   96 citations · Enhanced Weathering
+   96 citations · General CDR
 
 2. **The 2023 Latin America report of the Lancet Countdown on health and climate change: the imperative for health-centred climate-resilient development** (2024)
-   76 citations · DAC
+   76 citations · General CDR
 
 ## External Profiles
 

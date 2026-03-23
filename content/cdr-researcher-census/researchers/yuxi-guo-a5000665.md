@@ -1,7 +1,7 @@
 ---
 title: "Yuxi Guo"
 description: "Yuxi Guo is a Mid-career Soil Carbon researcher at University of Florida in US. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.038230
+date: 2026-03-23T11:47:01.028084
 url: "/cdr-researcher-census/researchers/yuxi-guo-a5000665/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,25 +45,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 144 |
 | Publications | 19 |
-| CDR Focus | 26.3% |
+| CDR Focus | 1050.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Interactive effects of land-use intensity, grazing and fire on decomposition of subtropical seasonal wetlands** (2021)
-   11 citations · Soil Carbon
+   11 citations
 
 2. **Foliar phosphorus concentrations in Bahiagrass are well-predicted by the abundance of a Fusarium taxa** (2025)
-   0 citations · Enhanced Weathering
+   0 citations
 
 3. **Divalent cations outweigh metal oxides in stabilizing organic carbon in humid subtropical grassland soils** (2025)
    0 citations · Soil Carbon
 
 4. **Rhizosphere Fusarium and other siderophore-producing fungi predict foliar phosphorus beyond soil chemistry in Bahiagrass** (2025)
-   0 citations · Enhanced Weathering
+   0 citations
 
 5. **The Pathogen Fusarium Variasi is Associated with Increased Total and Plant-Available Soil Phosphorus, and with Higher Foliar Phosphorus Concentrations in Paspalum Notatum** (2025)
-   0 citations · Soil Carbon
+   0 citations
 
 ## External Profiles
 

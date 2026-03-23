@@ -1,7 +1,7 @@
 ---
 title: "Bocar Ahamadou"
 description: "Bocar Ahamadou is a Senior Soil Carbon researcher at Institut Polytechnique Rural de Formation et de Recherche Appliquée in ML. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.279789
+date: 2026-03-23T11:46:59.945222
 url: "/cdr-researcher-census/researchers/bocar-ahamadou-a5032066/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 428 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

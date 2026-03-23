@@ -1,7 +1,7 @@
 ---
 title: "Xiaomei Tang"
 description: "Xiaomei Tang is a Mid-career Soil Carbon researcher at Sichuan Agricultural University in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.223573
+date: 2026-03-23T11:46:59.840743
 url: "/cdr-researcher-census/researchers/xiaomei-tang-a5021458/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 498 |
 | Publications | 5 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Jinsai Chen"
 description: "Jinsai Chen is a Mid-career Soil Carbon researcher at Fonctionnement et Conduite des Systèmes de Culture Tropicaux et Méditerranéens in FR. With 25 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.222131
+date: 2026-03-23T11:46:59.837184
 url: "/cdr-researcher-census/researchers/jinsai-chen-a5049849/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 12 |
 | Citations | 500 |
 | Publications | 25 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Greenhouse gas emissions from the wheat-maize cropping system under different tillage and crop residue management practices in the North China Plain** (2022)
-   44 citations · General CDR
+   44 citations · Soil Carbon
 
 2. **Effects of tillage and straw management on grain yield and SOC storage in a wheat-maize cropping system** (2022)
    32 citations · Soil Carbon

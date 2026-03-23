@@ -1,7 +1,7 @@
 ---
 title: "Ashrafun Nessa"
-description: "Ashrafun Nessa is a Mid-career Soil Carbon researcher at Griffith University in AU. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.319605
+description: "Ashrafun Nessa is a Mid-career Biochar researcher at Griffith University in AU. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.336535
 url: "/cdr-researcher-census/researchers/ashrafun-nessa-a5102793/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Griffith University · 🇦🇺 AU
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 110 |
 | Publications | 16 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

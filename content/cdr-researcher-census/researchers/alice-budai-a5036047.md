@@ -1,7 +1,7 @@
 ---
 title: "Alice Budai"
-description: "Alice Budai is a Senior Soil Carbon researcher at Norwegian Institute of Bioeconomy Research in NO. With 35 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.926132
+description: "Alice Budai is a Senior General CDR researcher at Norwegian Institute of Bioeconomy Research in NO. With 35 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.239255
 url: "/cdr-researcher-census/researchers/alice-budai-a5036047/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Norwegian Institute of Bioeconomy Research · 🇳🇴 NO
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 14 |
 | Citations | 2,293 |
 | Publications | 35 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1140.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,16 +54,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    52 citations · Biochar
 
 2. **Qualitative evaluation of nine agricultural methods for increasing soil carbon storage in Norway** (2024)
-   8 citations · Biochar
+   8 citations · General CDR
 
 3. **Efficiency of Plant Biomass Processing Pathways for Long‐Term Soil Carbon Storage** (2025)
-   3 citations · Biochar
+   3 citations · General CDR
 
 4. **Decomposition and stabilization of organic C in soils of different cultivation systems&amp;#160;** (2025)
    0 citations · Soil Carbon
 
 5. **Efficiency of plant biomass processing pathways for long-term soil carbon storage** (2025)
-   0 citations · Biochar
+   0 citations
 
 ## External Profiles
 

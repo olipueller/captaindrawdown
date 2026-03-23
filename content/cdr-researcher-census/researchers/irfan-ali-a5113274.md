@@ -1,7 +1,7 @@
 ---
 title: "Irfan Ali"
-description: "Irfan Ali is a Mid-career General CDR researcher. With 10 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.183475
+description: "Irfan Ali is a Mid-career carbon dioxide removal researcher. With 10 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.187747
 url: "/cdr-researcher-census/researchers/irfan-ali-a5113274/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -27,12 +27,6 @@ robots: "index, follow"
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -40,13 +34,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 2 |
 | Citations | 124 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **CO2 Removal from CH4 by using Cellulose Acetate (CA) Membrane in Comparison with Adsorption, Absorption and Cryogenic Processes: A Case Study** (2021)
-   1 citations · General CDR
+   1 citations
 
 ## External Profiles
 

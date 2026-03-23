@@ -1,7 +1,7 @@
 ---
 title: "Laura L. de Sosa"
 description: "Laura L. de Sosa is a Mid-career Soil Carbon researcher at Centre National de la Recherche Scientifique in FR. With 45 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.187271
+date: 2026-03-23T11:46:59.768783
 url: "/cdr-researcher-census/researchers/laura-l-de-sosa-a5084886/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 12 |
 | Citations | 554 |
 | Publications | 45 |
-| CDR Focus | 17.8% |
+| CDR Focus | 1110.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -60,16 +60,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    5 citations · Soil Carbon
 
 4. **Agricultural use of compost under different irrigation strategies in a hedgerow olive grove under Mediterranean conditions. A comparison with traditional systems** (2023)
-   1 citations · Soil Carbon
+   1 citations
 
 5. **Soil microbial community structure and carbon dynamics in response to compost and livestock management in grassland soils** (2026)
-   0 citations · Soil Carbon
+   0 citations
 
 6. **Soil microbial community structure and carbon dynamics in response to compost and livestock management in grassland soils** (2025)
    0 citations · Soil Carbon
 
 7. **Comment on egusphere-2022-1524** (2023)
-   0 citations · Soil Carbon
+   0 citations
 
 8. **Comment on egusphere-2022-1524** (2023)
    0 citations · Soil Carbon

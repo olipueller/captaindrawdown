@@ -1,7 +1,7 @@
 ---
 title: "Katarzyna Anna Koryś"
-description: "Katarzyna Anna Koryś is a Mid-career Soil Carbon researcher at Universidade Federal de Santa Catarina in BR. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.341336
+description: "Katarzyna Anna Koryś is a Mid-career Biochar researcher at Universidade Federal de Santa Catarina in BR. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.035985
 url: "/cdr-researcher-census/researchers/katarzyna-anna-korys-a5041511/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Universidade Federal de Santa Catarina · 🇧🇷 BR
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 379 |
 | Publications | 15 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Maximus L. L. Beaumont"
 description: "Maximus L. L. Beaumont is a Senior DAC researcher. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.117529
+date: 2026-03-23T11:47:01.118915
 url: "/cdr-researcher-census/researchers/maximus-l-l-beaumont-a5028365/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -37,7 +37,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 2 |
 | Citations | 132 |
 | Publications | 2 |
-| CDR Focus | 50.0% |
+| CDR Focus | 5000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Shuailong Cheng"
-description: "Shuailong Cheng is a Mid-career Biochar researcher at Nantong University in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.306968
+description: "Shuailong Cheng is a Mid-career carbon dioxide removal researcher at Nantong University in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.985678
 url: "/cdr-researcher-census/researchers/shuailong-cheng-a5070969/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Nantong University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Biochar**
-
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 6 |
 | Citations | 406 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Simulation study of phosphorus remediation using lanthanum chloride-modified fly ash and Mg-O modified biochar at the sediment water interface** (2024)
-   0 citations · Biochar
+   0 citations
 
 ## External Profiles
 

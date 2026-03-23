@@ -1,7 +1,7 @@
 ---
 title: "Yewen Shang"
-description: "Yewen Shang is a Mid-career Soil Carbon researcher at Project Management Institute in US. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.323118
+description: "Yewen Shang is a Mid-career Biochar researcher at Project Management Institute in US. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.339610
 url: "/cdr-researcher-census/researchers/yewen-shang-a5091275/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Project Management Institute · 🇺🇸 US
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 110 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Co-hydrothermal carbonization of waste biomass and phosphate rock: promoted carbon sequestration and enhanced phosphorus bioavailability** (2024)
-   24 citations · Soil Carbon
+   24 citations · Biochar
 
 ## External Profiles
 

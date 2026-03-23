@@ -1,7 +1,7 @@
 ---
 title: "Jean-Francois Mecure"
-description: "Jean-Francois Mecure is an Early-career General CDR researcher. With 2 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.980391
+description: "Jean-Francois Mecure is an Early-career Enhanced Weathering researcher. With 2 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.960126
 url: "/cdr-researcher-census/researchers/jean-francois-mecure-a5076056/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,9 +26,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**General CDR**
+**Enhanced Weathering**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 
@@ -37,7 +37,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 1 |
 | Citations | 152 |
 | Publications | 2 |
-| CDR Focus | 100.0% |
+| CDR Focus | 10000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

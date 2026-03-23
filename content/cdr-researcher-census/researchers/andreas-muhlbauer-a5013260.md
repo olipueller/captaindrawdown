@@ -1,7 +1,7 @@
 ---
 title: "Andreas Mühlbauer"
 description: "Andreas Mühlbauer is a Senior General CDR researcher at OTH Regensburg in DE. With 57 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.028161
+date: 2026-03-23T11:46:59.468954
 url: "/cdr-researcher-census/researchers/andreas-muhlbauer-a5013260/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 17 |
 | Citations | 996 |
 | Publications | 57 |
-| CDR Focus | 12.3% |
+| CDR Focus | 1050.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,10 +54,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    27 citations · General CDR
 
 2. **Energy, Health, and Climate Costs of Carbon-Capture and Direct-Air-Capture versus 100%-Wind-Water-Solar Climate Policies in 149 Countries** (2025)
-   22 citations · DAC
+   22 citations · General CDR
 
 3. **Assessment of technologies and economics for carbon dioxide removal from a portfolio perspective** (2025)
-   18 citations · BECCS
+   18 citations · DAC
 
 4. **Analysis of production routes for silicon carbide using air as carbon source empowering negative emissions** (2024)
    18 citations · DAC

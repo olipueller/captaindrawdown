@@ -1,7 +1,7 @@
 ---
 title: "Kalu Davies"
-description: "Kalu Davies is a Mid-career General CDR researcher in GB. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.231400
+description: "Kalu Davies is a Mid-career Enhanced Weathering researcher in GB. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.854269
 url: "/cdr-researcher-census/researchers/kalu-davies-a5004833/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -30,9 +30,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**General CDR**
+**Enhanced Weathering**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 
@@ -41,7 +41,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 7 |
 | Citations | 487 |
 | Publications | 12 |
-| CDR Focus | 41.7% |
+| CDR Focus | 2500.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -50,16 +50,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    143 citations · Enhanced Weathering
 
 2. **In-field carbon dioxide removal via weathering of crushed basalt applied to acidic tropical agricultural soil** (2024)
-   18 citations · Enhanced Weathering
+   18 citations
 
 3. **In-field carbon dioxide removal via weathering of crushed basalt applied to acidic tropical agricultural soil** (2024)
-   0 citations · General CDR
+   0 citations
 
 4. **In-Field Carbon Dioxide Removal Via Weathering of Crushed Basalt Applied to Acidic Tropical Agricultural Soil** (2024)
    0 citations · Enhanced Weathering
 
 5. **Quantifying carbon dioxide removal in an enhanced rock weathering field trial in Queensland, Australia: a soil-based mass balance approach** (2023)
-   0 citations · Enhanced Weathering
+   0 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Saurav Das"
-description: "Saurav Das is a Mid-career Soil Carbon researcher at University of Nebraska–Lincoln in US. With 26 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.516757
+description: "Saurav Das is a Mid-career General CDR researcher at University of Nebraska–Lincoln in US. With 26 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.331047
 url: "/cdr-researcher-census/researchers/saurav-das-a5075604/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Nebraska–Lincoln · 🇺🇸 US
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,28 +45,28 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 277 |
 | Publications | 26 |
-| CDR Focus | 23.1% |
+| CDR Focus | 770.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Soil organic carbon: measurement and monitoring using remote sensing data** (2024)
-   6 citations · Soil Carbon
+   6 citations · General CDR
 
 2. **Soil Carbon Sequestration: A Mechanistic Perspective on Limitations and Future Possibilities** (2025)
-   5 citations · Soil Carbon
+   5 citations
 
 3. **Soil Carbon Sequestration: A Mechanistic Perspective on Limitations and Future Possibilities** (2025)
-   2 citations · Soil Carbon
+   2 citations · General CDR
 
 4. **Soil Carbon Sequestration: A Mechanistic Perspective on Limitations and Future Possibilities** (2024)
-   0 citations · Soil Carbon
+   0 citations
 
 5. **Soil Carbon Sequestration: A Mechanistic Perspective on Limitations and Future Possibilities** (2024)
-   0 citations · Soil Carbon
+   0 citations
 
 6. **Soil Carbon Sequestration: A Mechanistic Perspective on Limitations and Future Possibilities** (2024)
-   0 citations · Soil Carbon
+   0 citations
 
 ## External Profiles
 

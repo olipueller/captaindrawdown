@@ -1,7 +1,7 @@
 ---
 title: "Hanna Breunig"
-description: "Hanna Breunig is a Senior DAC researcher at Lawrence Berkeley National Laboratory in US. With 85 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.987949
+description: "Hanna Breunig is a Senior General CDR researcher at Lawrence Berkeley National Laboratory in US. With 85 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.379443
 url: "/cdr-researcher-census/researchers/hanna-breunig-a5091742/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Lawrence Berkeley National Laboratory · 🇺🇸 US
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 22 |
 | Citations | 1,293 |
 | Publications | 85 |
-| CDR Focus | 10.6% |
+| CDR Focus | 940.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -60,22 +60,22 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    12 citations · DAC
 
 4. **Techno-economic analysis of a CO2 direct air capture-cooling tower hybrid process at a geothermal facility** (2023)
-   2 citations · DAC
+   2 citations
 
 5. **Economical deployment of quarry minerals for land-based enhanced weathering in Northern California** (2024)
    1 citations · DAC
 
 6. **Economical deployment of quarry minerals for land-based enhanced weathering in Northern California** (2024)
-   1 citations · DAC
+   1 citations
 
 7. **Clean Energy Technology Applications on US Mine Land: Technical Analysis** (2023)
-   1 citations · DAC
+   1 citations
 
 8. **Emerging concepts in carbon dioxide storage** (2022)
    1 citations · DAC
 
 9. **Systems‐level strategies for development and integration of novel CO2 capture and utilization technologies** (2021)
-   0 citations · BECCS
+   0 citations · General CDR
 
 ## External Profiles
 

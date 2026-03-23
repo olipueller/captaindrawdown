@@ -1,7 +1,7 @@
 ---
 title: "Srinivasan Balakumar"
-description: "Srinivasan Balakumar is a Mid-career Biochar researcher at SASTRA University in IN. With 26 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.149924
+description: "Srinivasan Balakumar is a Mid-career carbon dioxide removal researcher at SASTRA University in IN. With 26 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.703994
 url: "/cdr-researcher-census/researchers/srinivasan-balakumar-a5079089/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ SASTRA University · 🇮🇳 IN
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Biochar**
-
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,19 +39,19 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 10 |
 | Citations | 615 |
 | Publications | 26 |
-| CDR Focus | 11.5% |
+| CDR Focus | 770.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Carbon-based adsorbents as proficient tools for the removal of heavy metals from aqueous solution: A state of art-review emphasizing recent progress and prospects** (2022)
-   92 citations · Biochar
+   92 citations
 
 2. **9 Carbon composites in the mitigation of micro and nanoplastics** (2024)
-   2 citations · Biochar
+   2 citations
 
 3. **Carbon composites in the mitigation of micro and nanoplastics** (2024)
-   0 citations · Biochar
+   0 citations
 
 ## External Profiles
 

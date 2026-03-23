@@ -1,0 +1,84 @@
+---
+title: "Harun I. Gitari"
+description: "Harun I. Gitari is a Senior Soil Carbon researcher at Kenyatta University in KE. With 131 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.174041
+url: "/cdr-researcher-census/researchers/harun-i-gitari-a5064033/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Harun I. Gitari",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/harun-i-gitari-a5064033/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Kenyatta University"
+  },
+  "sameAs": [
+    "https://orcid.org/0000-0002-1996-119X",
+    "https://openalex.org/A5064033623"
+  ]
+}
+</script>
+
+## Profile
+
+**Harun I. Gitari**  
+Kenyatta University ·  KE
+
+**Career Stage:** Senior
+
+## CDR Specialization
+
+**Soil Carbon**
+
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 33 |
+| Citations | 3,409 |
+| Publications | 131 |
+| CDR Focus | 530.0% |
+| Trajectory | Stable |
+
+## Top CDR Publications
+
+1. **Cultivating sustainability: A comprehensive review on intercropping in a changing climate** (2023)
+   41 citations · General CDR
+
+2. **The nexus between intercropping systems, ecosystem services and sustainable agriculture: A review** (2025)
+   18 citations · Soil Carbon
+
+3. **Agroforestry: A Resource Conserving Technology for Efficient Utilization of Agricultural Inputs, Leads to Food and Environmental Security** (2024)
+   13 citations · General CDR
+
+4. **Revitalizing the Biochemical Soil Properties of Degraded Coastal Soil Using Prosopis juliflora Biochar** (2023)
+   13 citations · Biochar
+
+5. **Ecosystem Services Through Agroforestry Systems and Its Sustainability** (2024)
+   12 citations · General CDR
+
+6. **Economic Viability and Market Prospects of Organic and Natural Farming in Climate-Resilient Agriculture** (2025)
+   4 citations · General CDR
+
+7. **Organic Mulch and Compost Synergy Revitalizes Soil Multifunctionality for Resilient Agroecosystems** (2025)
+   1 citations · Soil Carbon
+
+8. **Response of Soil Microbial Communities to Climate Change** (2025)
+   0 citations · Soil Carbon
+
+## External Profiles
+
+- [ORCID](https://orcid.org/0000-0002-1996-119X)
+- [OpenAlex](https://openalex.org/A5064033623)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

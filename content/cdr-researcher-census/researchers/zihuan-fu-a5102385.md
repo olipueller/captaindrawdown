@@ -1,7 +1,7 @@
 ---
 title: "Zihuan Fu"
 description: "Zihuan Fu is a Mid-career Soil Carbon researcher at Plant & Food Research in NZ. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.417032
+date: 2026-03-23T11:47:00.162654
 url: "/cdr-researcher-census/researchers/zihuan-fu-a5102385/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 10 |
 | Citations | 327 |
 | Publications | 16 |
-| CDR Focus | 18.8% |
+| CDR Focus | 1880.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Land use effects on soil hydraulic properties and the contribution of soil organic carbon** (2021)
-   70 citations · Soil Carbon
+   70 citations · General CDR
 
 2. **Soil macroaggregate-occluded mineral-associated organic carbon drives the response of soil organic carbon to land use change** (2024)
    14 citations · Soil Carbon

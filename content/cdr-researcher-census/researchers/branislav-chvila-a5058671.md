@@ -1,7 +1,7 @@
 ---
 title: "Branislav Chvíla"
 description: "Branislav Chvíla is a Senior Soil Carbon researcher at Slovak Hydrometeorological Institute in SK. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.280750
+date: 2026-03-23T11:46:59.947015
 url: "/cdr-researcher-census/researchers/branislav-chvila-a5058671/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 427 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

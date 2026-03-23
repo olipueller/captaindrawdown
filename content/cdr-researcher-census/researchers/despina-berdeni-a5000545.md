@@ -1,7 +1,7 @@
 ---
 title: "Despina Berdeni"
 description: "Despina Berdeni is a Mid-career Soil Carbon researcher at University of Sheffield in GB. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.380486
+date: 2026-03-23T11:47:00.103318
 url: "/cdr-researcher-census/researchers/despina-berdeni-a5000545/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 350 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

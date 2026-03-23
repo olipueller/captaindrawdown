@@ -1,0 +1,59 @@
+---
+title: "Fengge Hao"
+description: "Fengge Hao is a Senior Soil Carbon researcher at Henan Institute of Science and Technology in CN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.446533
+url: "/cdr-researcher-census/researchers/fengge-hao-a5044158/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Fengge Hao",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/fengge-hao-a5044158/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Henan Institute of Science and Technology"
+  },
+  "sameAs": "https://openalex.org/A5044158441"
+}
+</script>
+
+## Profile
+
+**Fengge Hao**  
+Henan Institute of Science and Technology · 🇨🇳 CN
+
+**Career Stage:** Senior
+
+## CDR Specialization
+
+**Soil Carbon**
+
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 5 |
+| Citations | 245 |
+| Publications | 11 |
+| CDR Focus | 910.0% |
+| Trajectory | Exiting |
+
+## Top CDR Publications
+
+1. **Effect of Wheat Straw Addition on Organic Carbon Mineralisation and Bacterial Community in Orchard Soil** (2023)
+   11 citations · Soil Carbon
+
+## External Profiles
+
+- [OpenAlex](https://openalex.org/A5044158441)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

@@ -1,7 +1,7 @@
 ---
 title: "Richard Hixson"
-description: "Richard Hixson is a Mid-career Soil Carbon researcher at County Durham and Darlington NHS Foundation Trust in GB. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.230593
+description: "Richard Hixson is a Mid-career carbon dioxide removal researcher at County Durham and Darlington NHS Foundation Trust in GB. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.853756
 url: "/cdr-researcher-census/researchers/richard-hixson-a5084900/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ County Durham and Darlington NHS Foundation Trust · 🇬🇧 GB
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 488 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Sustainability in anaesthesia and critical care: beyond carbon** (2022)
-   17 citations · DAC
+   17 citations
 
 ## External Profiles
 

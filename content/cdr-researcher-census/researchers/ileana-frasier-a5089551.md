@@ -1,7 +1,7 @@
 ---
 title: "Ileana Frasier"
 description: "Ileana Frasier is a Mid-career Soil Carbon researcher at Instituto Nacional de Tecnologia in BR. With 36 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.340617
+date: 2026-03-23T11:47:00.034039
 url: "/cdr-researcher-census/researchers/ileana-frasier-a5089551/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 380 |
 | Publications | 36 |
-| CDR Focus | 11.1% |
+| CDR Focus | 830.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,10 +54,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    7 citations · Soil Carbon
 
 2. **From science to practice: The AGSUS protocol for monitoring and certification of sustainable soil management and carbon sequestration** (2024)
-   4 citations · Soil Carbon
+   4 citations · General CDR
 
 3. **TRUESOIL Project: Understanding Trade-offs and Dynamic Interactions between SOC Stocks and GHG Emissions for Climate Smart Agrisoil Management** (2023)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 4. **Roots are the Key for Soil C Restoration: A Comparison of Land Management in the Semiarid Argentinean Pampa** (2022)
    0 citations · Soil Carbon

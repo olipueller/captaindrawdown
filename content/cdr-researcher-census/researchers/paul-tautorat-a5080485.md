@@ -1,7 +1,7 @@
 ---
 title: "Paul Tautorat"
-description: "Paul Tautorat is a Mid-career BECCS researcher at ETH Zurich in CH. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.716763
+description: "Paul Tautorat is a Mid-career General CDR researcher at ETH Zurich in CH. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.602881
 url: "/cdr-researcher-census/researchers/paul-tautorat-a5080485/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ ETH Zurich · 🇨🇭 CH
 
 ## CDR Specialization
 
-**BECCS**
+**General CDR**
 
-Combining biomass energy with carbon capture and storage to achieve negative emissions.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 3 |
 | Citations | 210 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Real options analysis of decarbonization investments in the chemical industry** (2025)
-   3 citations · BECCS
+   3 citations · General CDR
 
 ## External Profiles
 

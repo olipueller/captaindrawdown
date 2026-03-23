@@ -1,7 +1,7 @@
 ---
 title: "Taiwo Temitayo Micheal"
 description: "Taiwo Temitayo Micheal is a Mid-career Biochar researcher at Ladoke Akintola University of Technology in NG. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.681241
+date: 2026-03-23T11:47:00.554337
 url: "/cdr-researcher-census/researchers/taiwo-temitayo-micheal-a5092764/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,19 +45,19 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 8 |
 | Citations | 220 |
 | Publications | 11 |
-| CDR Focus | 36.4% |
+| CDR Focus | 2730.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **A comprehensive review on the sequestration of dyes from aqueous media using maize-/corn-based adsorbents** (2023)
-   28 citations · Biochar
+   28 citations
 
 2. **Comparative assessment of biochar produced from LDPE and neem leaves using batch and semi-batch biomass fuel-based reactors** (2023)
    22 citations · Biochar
 
 3. **Production and characterization of sunflower stalk biochar and ash: a study on batch versus semi-batch gasifier systems** (2025)
-   5 citations · Biochar
+   5 citations · BECCS
 
 4. **Sustainable Recycling of Polyester Fabric Waste and Sugarcane Bagasse into Biochar** (2024)
    5 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Haojie Feng"
 description: "Haojie Feng is a Senior Soil Carbon researcher at Shandong Agricultural University in CN. With 52 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.009497
+date: 2026-03-23T11:46:59.433015
 url: "/cdr-researcher-census/researchers/haojie-feng-a5039706/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 18 |
 | Citations | 1,111 |
 | Publications | 52 |
-| CDR Focus | 11.5% |
+| CDR Focus | 1150.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    49 citations · Soil Carbon
 
 3. **Effects of straw returning combined with blended controlled-release urea fertilizer on crop yields, greenhouse gas emissions, and net ecosystem economic benefits: A nine-year field trial** (2024)
-   25 citations · Soil Carbon
+   25 citations
 
 4. **Fractions, stability, and influencing factors of soil organic carbon under different land-use in sodic soils** (2022)
    11 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Avijit Ghosh"
 description: "Avijit Ghosh is a Senior Soil Carbon researcher at Indian Grassland and Fodder Research Institute in IN. With 160 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.914307
+date: 2026-03-23T11:46:59.206540
 url: "/cdr-researcher-census/researchers/avijit-ghosh-a5069313/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 26 |
 | Citations | 2,712 |
 | Publications | 160 |
-| CDR Focus | 10.6% |
+| CDR Focus | 1000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -66,7 +66,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    7 citations · Soil Carbon
 
 6. **Soil Carbon Sequestration for Soil Quality Improvement and Climate Change Mitigation** (2021)
-   7 citations · Soil Carbon
+   7 citations · General CDR
 
 7. **60 years of fertilization and liming impacts on soil organic carbon stabilization in a sub-tropical Alfisol** (2021)
    6 citations · Soil Carbon

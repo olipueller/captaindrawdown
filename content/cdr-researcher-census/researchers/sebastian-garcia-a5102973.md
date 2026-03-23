@@ -1,7 +1,7 @@
 ---
 title: "Sebastián García"
-description: "Sebastián García is a Mid-career BECCS researcher at Universidad Loyola Andalucía in ES. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.822024
+description: "Sebastián García is a Mid-career General CDR researcher at Universidad Loyola Andalucía in ES. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.759262
 url: "/cdr-researcher-census/researchers/sebastian-garcia-a5102973/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Universidad Loyola Andalucía · 🇪🇸 ES
 
 ## CDR Specialization
 
-**BECCS**
+**General CDR**
 
-Combining biomass energy with carbon capture and storage to achieve negative emissions.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,16 +45,16 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 8 |
 | Citations | 183 |
 | Publications | 20 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Partial oxycombustion-calcium looping hybridisation for CO2 capture in waste-to-energy power plants** (2023)
-   15 citations · BECCS
+   15 citations · General CDR
 
 2. **Conceptual assessment of sustainable methane production from oxycombustion CO2 capture in waste-to-energy power plants** (2023)
-   11 citations · BECCS
+   11 citations
 
 ## External Profiles
 

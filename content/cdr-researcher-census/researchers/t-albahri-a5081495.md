@@ -1,7 +1,7 @@
 ---
 title: "T. Albahri"
 description: "T. Albahri is a Mid-career Enhanced Weathering researcher. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.934728
+date: 2026-03-23T11:46:59.263195
 url: "/cdr-researcher-census/researchers/t-albahri-a5081495/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 7 |
 | Citations | 2,018 |
 | Publications | 15 |
-| CDR Focus | 46.7% |
+| CDR Focus | 3330.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -58,7 +58,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    0 citations · Enhanced Weathering
 
 5. **Quantifying potential carbon dioxide removal via enhanced weathering using porewater from a field trial in Scotland** (2025)
-   0 citations · Enhanced Weathering
+   0 citations
 
 6. **Quantifying Carbon Dioxide Removal using Pore Water Data from Enhanced Rock Weathering Field Trials in Scotland** (2025)
    0 citations · Enhanced Weathering

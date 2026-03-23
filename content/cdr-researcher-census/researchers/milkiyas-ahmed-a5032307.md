@@ -1,7 +1,7 @@
 ---
 title: "Milkiyas Ahmed"
 description: "Milkiyas Ahmed is a Mid-career Soil Carbon researcher at Jimma University in ET. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.654699
+date: 2026-03-23T11:47:00.520450
 url: "/cdr-researcher-census/researchers/milkiyas-ahmed-a5032307/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 227 |
 | Publications | 20 |
-| CDR Focus | 10.0% |
+| CDR Focus | 500.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

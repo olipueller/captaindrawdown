@@ -1,7 +1,7 @@
 ---
 title: "Ramy Hamouda"
 description: "Ramy Hamouda is a Mid-career Soil Carbon researcher at Heliopolis University in EG. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.157009
+date: 2026-03-23T11:47:01.155074
 url: "/cdr-researcher-census/researchers/ramy-hamouda-a5080315/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 128 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

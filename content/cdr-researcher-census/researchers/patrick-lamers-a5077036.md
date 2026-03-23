@@ -1,7 +1,7 @@
 ---
 title: "Patrick Lamers"
 description: "Patrick Lamers is a Senior General CDR researcher at National Renewable Energy Laboratory in US. With 86 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.900747
+date: 2026-03-23T11:46:59.171603
 url: "/cdr-researcher-census/researchers/patrick-lamers-a5077036/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 29 |
 | Citations | 3,452 |
 | Publications | 86 |
-| CDR Focus | 14.0% |
+| CDR Focus | 930.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -57,10 +57,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    49 citations · General CDR
 
 3. **Biochar as a carbon dioxide removal strategy in integrated long-run mitigation scenarios** (2024)
-   13 citations · BECCS
+   13 citations · Biochar
 
 4. **Biochar as a carbon dioxide removal strategy in integrated long-run climate scenarios** (2022)
-   10 citations · BECCS
+   10 citations · Biochar
 
 5. **Evolving electricity supply and demand to achieve net-zero emissions: Insights from the EMF-37 study** (2025)
    7 citations · DAC

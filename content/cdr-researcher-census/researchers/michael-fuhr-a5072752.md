@@ -1,7 +1,7 @@
 ---
 title: "Michael Fuhr"
-description: "Michael Fuhr is a Mid-career General CDR researcher at GEOMAR Helmholtz Centre for Ocean Research Kiel in DE. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.356931
+description: "Michael Fuhr is a Mid-career Enhanced Weathering researcher at GEOMAR Helmholtz Centre for Ocean Research Kiel in DE. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.064642
 url: "/cdr-researcher-census/researchers/michael-fuhr-a5072752/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ GEOMAR Helmholtz Centre for Ocean Research Kiel · 🇩🇪 DE
 
 ## CDR Specialization
 
-**General CDR**
+**Enhanced Weathering**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 9 |
 | Citations | 367 |
 | Publications | 18 |
-| CDR Focus | 44.4% |
+| CDR Focus | 4440.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -60,10 +60,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    17 citations · Enhanced Weathering
 
 4. **Disentangling artificial and natural benthic weathering in organic rich Baltic Sea sediments** (2023)
-   17 citations · Ocean CDR
+   17 citations · Enhanced Weathering
 
 5. **Seafloor alkalinity enhancement as a carbon dioxide removal strategy in the Baltic Sea** (2024)
-   10 citations · General CDR
+   10 citations · Ocean CDR
 
 6. **Calcite is an efficient and low-cost material to enhance benthic weathering in shelf sediments of the Baltic Sea** (2025)
    5 citations · Enhanced Weathering
@@ -72,7 +72,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    0 citations · Enhanced Weathering
 
 8. **Benthic dunite and calcite weathering as a method for ocean alkalinity enhancement** (2023)
-   0 citations · Ocean CDR
+   0 citations · Enhanced Weathering
 
 ## External Profiles
 

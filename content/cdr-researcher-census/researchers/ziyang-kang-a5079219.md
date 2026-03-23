@@ -1,7 +1,7 @@
 ---
 title: "Ziyang Kang"
 description: "Ziyang Kang is an Early-career Biochar researcher at North China University of Science and Technology in CN. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.817339
+date: 2026-03-23T11:47:00.753089
 url: "/cdr-researcher-census/researchers/ziyang-kang-a5079219/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 3 |
 | Citations | 184 |
 | Publications | 3 |
-| CDR Focus | 66.7% |
+| CDR Focus | 3330.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Qian Yan"
-description: "Qian Yan is a Mid-career Ocean CDR researcher at Beijing Forestry University in CN. With 27 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.306220
+description: "Qian Yan is a Mid-career Enhanced Weathering researcher at Beijing Forestry University in CN. With 27 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.984792
 url: "/cdr-researcher-census/researchers/qian-yan-a5101942/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Beijing Forestry University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Ocean CDR**
+**Enhanced Weathering**
 
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 11 |
 | Citations | 406 |
 | Publications | 27 |
-| CDR Focus | 11.1% |
+| CDR Focus | 740.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,10 +54,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    8 citations · Enhanced Weathering
 
 2. **Alkalinity factory can achieve positive climate benefits within decades** (2025)
-   2 citations · General CDR
+   2 citations · Enhanced Weathering
 
 3. **Alkalinity Factory Can Achieve Positive Climate Benefits Within Decades.** (2025)
-   0 citations · General CDR
+   0 citations
 
 ## External Profiles
 

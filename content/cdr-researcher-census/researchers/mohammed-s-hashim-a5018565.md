@@ -1,7 +1,7 @@
 ---
 title: "Mohammed S. Hashim"
 description: "Mohammed S. Hashim is a Mid-career Ocean CDR researcher at University of Southern California in US. With 24 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.629369
+date: 2026-03-23T11:47:00.486506
 url: "/cdr-researcher-census/researchers/mohammed-s-hashim-a5018565/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,16 +45,16 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 7 |
 | Citations | 235 |
 | Publications | 24 |
-| CDR Focus | 20.8% |
+| CDR Focus | 1670.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Mineral formation during shipboard ocean alkalinity enhancement experiments in the North Atlantic** (2025)
-   2 citations · General CDR
+   2 citations · Ocean CDR
 
 2. **Mineral Formation during Shipboard Ocean Alkalinity Enhancement Experiments in the North Atlantic** (2025)
-   2 citations · General CDR
+   2 citations
 
 3. **Reply on RC1** (2025)
    0 citations · General CDR
@@ -63,7 +63,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    0 citations · General CDR
 
 5. **Mineral Formation during Ocean Alkalinity Enhancement Laboratory Experiments** (2025)
-   0 citations · General CDR
+   0 citations · Ocean CDR
 
 ## External Profiles
 

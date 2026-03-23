@@ -1,7 +1,7 @@
 ---
 title: "Zishi Fu"
 description: "Zishi Fu is a Senior Soil Carbon researcher. With 35 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.093990
+date: 2026-03-23T11:46:59.601535
 url: "/cdr-researcher-census/researchers/zishi-fu-a5100961/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -37,7 +37,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 11 |
 | Citations | 738 |
 | Publications | 35 |
-| CDR Focus | 20.0% |
+| CDR Focus | 570.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -46,10 +46,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    16 citations · Biochar
 
 2. **Linking rhizospheric microbiota and metabolite interactions with harvested aboveground carbon and soil carbon of lakeshore reed wetlands in a subtropical region** (2024)
-   4 citations · Soil Carbon
+   4 citations
 
 3. **Effects of substrate improvement on winter nitrogen removal in riparian reed (Phragmites australis) wetlands: rhizospheric crosstalk between plants and microbes** (2023)
-   4 citations · Biochar
+   4 citations
 
 4. **Linking rhizospheric microbiota and metabolite interactions with harvested aboveground carbon and soil carbon of lakeshore reed wetlands in a subtropical region** (2023)
    1 citations · Soil Carbon
@@ -58,7 +58,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    0 citations · Soil Carbon
 
 6. **Effects of substrate improvement on winter nitrogen removal in riparian reed (Phragmites australis) wetlands: Rhizospheric crosstalk between plants and microbes** (2023)
-   0 citations · Biochar
+   0 citations
 
 7. **Rhizospheric Microbiota and Metabolite Interactions Affect the Aboveground Carbon and Soil Carbon of Lakeshore Reed (Phragmites Australis) Wetlands in a Subtropical Region** (2022)
    0 citations · Soil Carbon

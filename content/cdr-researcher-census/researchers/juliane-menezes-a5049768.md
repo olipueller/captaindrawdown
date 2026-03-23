@@ -1,7 +1,7 @@
 ---
 title: "Juliane Menezes"
-description: "Juliane Menezes is a Mid-career Enhanced Weathering researcher at National Institute of Amazonian Research in BR. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.422237
+description: "Juliane Menezes is a Mid-career carbon dioxide removal researcher at National Institute of Amazonian Research in BR. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.438414
 url: "/cdr-researcher-census/researchers/juliane-menezes-a5049768/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ National Institute of Amazonian Research · 🇧🇷 BR
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Enhanced Weathering**
-
-Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 3 |
 | Citations | 100 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Fine roots stimulate nutrient release during early stages of leaf litter decomposition in a Central Amazon rainforest** (2021)
-   51 citations · Enhanced Weathering
+   51 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Ayokunle Omosebi"
 description: "Ayokunle Omosebi is a Senior DAC researcher at University of Kentucky in US. With 83 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.933970
+date: 2026-03-23T11:46:59.260341
 url: "/cdr-researcher-census/researchers/ayokunle-omosebi-a5060653/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,40 +45,40 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 19 |
 | Citations | 2,033 |
 | Publications | 83 |
-| CDR Focus | 12.0% |
+| CDR Focus | 1200.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Promoting CO <sub>2</sub> Release from CO <sub>3</sub> <sup>2−</sup> -Containing Solvents during Water Electrolysis for Direct Air Capture** (2022)
-   10 citations · DAC
+   10 citations
 
 2. **Electrochemical stripping of CO2 from potassium-based salts to facilitate direct air capture** (2024)
-   4 citations · DAC
+   4 citations
 
 3. **Optimizing Direct Air Capture Solvents to Minimize Energy Consumption of CO<sub>2</sub> Release in a Carbonate Electrolyzer** (2024)
    4 citations · DAC
 
 4. **Micropatterning of alumina tubular membranes via laser carving for enhanced direct air capture** (2023)
-   2 citations · DAC
+   2 citations
 
 5. **A Bench-Scale Demonstration of Direct Air Capture Using an Enhanced Electrochemical System** (2025)
-   1 citations · DAC
+   1 citations
 
 6. **Electrochemically Regenerated Solvent for Direct Air Capture with Co-generation of Hydrogen at Bench-scale** (2024)
    1 citations · DAC
 
 7. **(Invited) Elucidating the Hydrodynamic Behavior of Multi-Species Gas Bubbles in an Electrochemical Solvent Regenerator for Direct Air Capture** (2022)
-   1 citations · DAC
+   1 citations
 
 8. **Electrochemically Assisted Direct Air De-Carbonization with Hydrogen Co-Generation** (2022)
    1 citations · DAC
 
 9. **Minimize Energy Consumption of CO<sub>2</sub> Release in a Flow Electrolyzer By Optimizing Direct Air Capture Solvents** (2024)
-   0 citations · DAC
+   0 citations
 
 10. **Enhanced Depolarized Electro-Membrane System (EDEMS) for Direct Capture of Carbon Dioxide from Ambient Air (Final Report)** (2022)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

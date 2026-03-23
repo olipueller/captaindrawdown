@@ -1,7 +1,7 @@
 ---
 title: "Sylvia Ngaira Indoshi"
 description: "Sylvia Ngaira Indoshi is a Mid-career Soil Carbon researcher at Lanzhou University in CN. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.660893
+date: 2026-03-23T11:47:00.527281
 url: "/cdr-researcher-census/researchers/sylvia-ngaira-indoshi-a5056083/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 226 |
 | Publications | 6 |
-| CDR Focus | 16.7% |
+| CDR Focus | 1670.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

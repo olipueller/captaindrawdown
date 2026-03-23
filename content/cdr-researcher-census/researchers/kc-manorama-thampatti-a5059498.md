@@ -1,7 +1,7 @@
 ---
 title: "K.C. Manorama Thampatti"
-description: "K.C. Manorama Thampatti is a Senior Soil Carbon researcher at Kerala Agricultural University in IN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.068698
+description: "K.C. Manorama Thampatti is a Senior carbon dioxide removal researcher at Kerala Agricultural University in IN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.063315
 url: "/cdr-researcher-census/researchers/kc-manorama-thampatti-a5059498/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Kerala Agricultural University · 🇮🇳 IN
 
 **Career Stage:** Senior
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,16 +36,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 139 |
 | Publications | 16 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Thermochemical digestate fertilizer from solid waste: Characterization, labile carbon dynamics, dehydrogenase activity, water holding capacity and biomass allocation in banana** (2021)
-   33 citations · Soil Carbon
+   33 citations
 
 2. **Humification evaluation and carbon recalcitrance of a rapid thermochemical digestate fertiliser from degradable solid waste for climate change mitigation in the tropics** (2022)
-   6 citations · Soil Carbon
+   6 citations
 
 ## External Profiles
 

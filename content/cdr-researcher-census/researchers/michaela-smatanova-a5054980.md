@@ -1,7 +1,7 @@
 ---
 title: "Michaela Smatanová"
 description: "Michaela Smatanová is a Senior Soil Carbon researcher at Central Institute for Supervising and Testing in Agriculture in CZ. With 17 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.405416
+date: 2026-03-23T11:47:00.139660
 url: "/cdr-researcher-census/researchers/michaela-smatanova-a5054980/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 11 |
 | Citations | 335 |
 | Publications | 17 |
-| CDR Focus | 17.6% |
+| CDR Focus | 1760.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

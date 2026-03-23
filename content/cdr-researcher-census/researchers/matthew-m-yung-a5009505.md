@@ -1,0 +1,81 @@
+---
+title: "Matthew M. Yung"
+description: "Matthew M. Yung is a Senior DAC researcher at National Renewable Energy Laboratory in US. With 83 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.187886
+url: "/cdr-researcher-census/researchers/matthew-m-yung-a5009505/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Matthew M. Yung",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/matthew-m-yung-a5009505/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "National Renewable Energy Laboratory"
+  },
+  "sameAs": [
+    "https://orcid.org/0000-0001-9034-7072",
+    "https://openalex.org/A5009505579"
+  ]
+}
+</script>
+
+## Profile
+
+**Matthew M. Yung**  
+National Renewable Energy Laboratory · 🇺🇸 US
+
+**Career Stage:** Senior
+
+## CDR Specialization
+
+**DAC**
+
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 31 |
+| Citations | 3,111 |
+| Publications | 83 |
+| CDR Focus | 720.0% |
+| Trajectory | Stable |
+
+## Top CDR Publications
+
+1. **Influence of residual chlorine on Ru/TiO2 active sites during CO2 methanation** (2023)
+   27 citations
+
+2. **Application of Solid-Supported Amines for Thermocatalytic Reactive CO<sub>2</sub> Capture** (2025)
+   9 citations · DAC
+
+3. **Improving the direct air capture capacity of grafted amines <i>via</i> thermal treatment** (2024)
+   4 citations
+
+4. **Photo-Reactive Amine-Based Direct Air Capture and Conversion of CO2** (2026)
+   0 citations
+
+5. **Direct Air Reactive Capture and Conversion for Utility-Scale Energy Storage (Final Report)** (2025)
+   0 citations · DAC
+
+6. **Efficient synthetic natural gas production from direct air capture using titania-based dual function materials** (2025)
+   0 citations
+
+7. **Correction: Improving the direct air capture capacity of grafted amines <i>via</i> thermal treatment** (2024)
+   0 citations
+
+## External Profiles
+
+- [ORCID](https://orcid.org/0000-0001-9034-7072)
+- [OpenAlex](https://openalex.org/A5009505579)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

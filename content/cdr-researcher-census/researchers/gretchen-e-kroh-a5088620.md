@@ -1,7 +1,7 @@
 ---
 title: "Gretchen E. Kroh"
-description: "Gretchen E. Kroh is a Mid-career Soil Carbon researcher at Carbon180 in US. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.349626
+description: "Gretchen E. Kroh is a Mid-career General CDR researcher at Carbon180 in US. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.052231
 url: "/cdr-researcher-census/researchers/gretchen-e-kroh-a5088620/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Carbon180 · 🇺🇸 US
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 372 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Centering resilience in US federal agricultural policy** (2026)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Neil-Yohan Musadji"
 description: "Neil-Yohan Musadji is a Senior Soil Carbon researcher at Institute of Inorganic Chemistry of the Slovak Academy of Sciences in SK. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.051079
+date: 2026-03-23T11:47:01.043530
 url: "/cdr-researcher-census/researchers/neil-yohan-musadji-a5061573/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 142 |
 | Publications | 15 |
-| CDR Focus | 13.3% |
+| CDR Focus | 1330.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

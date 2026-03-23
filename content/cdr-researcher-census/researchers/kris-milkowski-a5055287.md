@@ -1,7 +1,7 @@
 ---
 title: "Kris Milkowski"
 description: "Kris Milkowski is a Senior BECCS researcher at University of Sheffield in GB. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.251217
+date: 2026-03-23T11:46:59.891078
 url: "/cdr-researcher-census/researchers/kris-milkowski-a5055287/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,13 +42,13 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 7 |
 | Citations | 457 |
 | Publications | 17 |
-| CDR Focus | 23.5% |
+| CDR Focus | 1760.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Comparison of TERC and TNO’s LR2 CO2 capture rigs for normal and accelerated degradation** (2022)
-   2 citations · DAC
+   2 citations · General CDR
 
 2. **Pilot-scale demonstration and practical challenges of bioenergy with CCS (BECCS) using rotating packed bed** (2025)
    0 citations · BECCS

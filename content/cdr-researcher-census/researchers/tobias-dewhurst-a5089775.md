@@ -1,7 +1,7 @@
 ---
 title: "Tobias Dewhurst"
 description: "Tobias Dewhurst is a Mid-career General CDR researcher. With 28 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.439119
+date: 2026-03-23T11:47:00.202367
 url: "/cdr-researcher-census/researchers/tobias-dewhurst-a5089775/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 9 |
 | Citations | 312 |
 | Publications | 28 |
-| CDR Focus | 10.7% |
+| CDR Focus | 710.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -52,7 +52,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    26 citations · General CDR
 
 3. **Quantifying baseline costs and cataloging potential optimization strategies for kelp aquaculture carbon dioxide removal** (2022)
-   5 citations · General CDR
+   5 citations
 
 ## External Profiles
 

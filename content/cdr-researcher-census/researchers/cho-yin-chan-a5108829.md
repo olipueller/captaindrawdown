@@ -1,7 +1,7 @@
 ---
 title: "Cho-Yin Chan"
 description: "Cho-Yin Chan is a Senior General CDR researcher at Hong Kong Institute of Vocational Education in CN. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.252453
+date: 2026-03-23T11:46:59.893348
 url: "/cdr-researcher-census/researchers/cho-yin-chan-a5108829/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 4 |
 | Citations | 456 |
 | Publications | 4 |
-| CDR Focus | 25.0% |
+| CDR Focus | 2500.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

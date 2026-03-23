@@ -1,7 +1,7 @@
 ---
 title: "Janos Szuhánszki"
 description: "Janos Szuhánszki is a Mid-career BECCS researcher at Petronas (Malaysia) in MY. With 30 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.273075
+date: 2026-03-23T11:46:59.933574
 url: "/cdr-researcher-census/researchers/janos-szuhanszki-a5075971/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 12 |
 | Citations | 433 |
 | Publications | 30 |
-| CDR Focus | 13.3% |
+| CDR Focus | 1000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

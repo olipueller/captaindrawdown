@@ -1,7 +1,7 @@
 ---
 title: "Juliana A. Coelho"
-description: "Juliana A. Coelho is a Senior DAC researcher at Universidade Federal do Ceará in BR. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.871298
+description: "Juliana A. Coelho is a Senior carbon dioxide removal researcher at Universidade Federal do Ceará in BR. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.820977
 url: "/cdr-researcher-census/researchers/juliana-a-coelho-a5051721/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Universidade Federal do Ceará · 🇧🇷 BR
 
 **Career Stage:** Senior
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,16 +39,16 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 6 |
 | Citations | 173 |
 | Publications | 18 |
-| CDR Focus | 11.1% |
+| CDR Focus | 560.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Zeolite A grown on fiberglass: A prominent CO2 adsorbent for CO2/CH4 separation** (2023)
-   11 citations · DAC
+   11 citations
 
 2. **Zeolite a Grown on Fiberglass: A Prominent Co2 Adsorbent for Co2/Ch4 Separation** (2023)
-   1 citations · DAC
+   1 citations
 
 ## External Profiles
 

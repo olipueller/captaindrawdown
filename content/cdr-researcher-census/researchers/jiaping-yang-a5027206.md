@@ -1,7 +1,7 @@
 ---
 title: "Jiaping Yang"
 description: "Jiaping Yang is a Mid-career Soil Carbon researcher at Griffith University in AU. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.128541
+date: 2026-03-23T11:47:01.128553
 url: "/cdr-researcher-census/researchers/jiaping-yang-a5027206/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 131 |
 | Publications | 18 |
-| CDR Focus | 27.8% |
+| CDR Focus | 2780.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Huaibao Zhao"
 description: "Huaibao Zhao is a Senior Soil Carbon researcher at Department of Ecology and Environment of Hainan Province in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.674157
+date: 2026-03-23T11:47:00.544896
 url: "/cdr-researcher-census/researchers/huaibao-zhao-a5007978/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 222 |
 | Publications | 12 |
-| CDR Focus | 16.7% |
+| CDR Focus | 830.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Resilience of Mangrove Carbon Sequestration Under Typhoon Disturbance: Insights from Different Restoration Ages** (2025)
-   3 citations · Enhanced Weathering
+   3 citations · Soil Carbon
 
 2. **Spatiotemporal characteristics of carbon storage in mangrove communities at different restoration stages and its influencing factors in Hainan Province** (2025)
    0 citations · Soil Carbon

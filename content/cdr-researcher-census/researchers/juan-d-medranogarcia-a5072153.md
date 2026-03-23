@@ -1,7 +1,7 @@
 ---
 title: "Juan D. Medrano‐García"
-description: "Juan D. Medrano‐García is a Mid-career DAC researcher at ETH Zurich in CH. With 30 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.389812
+description: "Juan D. Medrano‐García is a Mid-career General CDR researcher at ETH Zurich in CH. With 30 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.115829
 url: "/cdr-researcher-census/researchers/juan-d-medranogarcia-a5072153/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ ETH Zurich · 🇨🇭 CH
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,19 +45,19 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 10 |
 | Citations | 344 |
 | Publications | 30 |
-| CDR Focus | 13.3% |
+| CDR Focus | 1000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Navigating within the Safe Operating Space with Carbon Capture On-Board** (2022)
-   34 citations · DAC
+   34 citations
 
 2. **Sustainable Development Goals assessment of carbon capture on-board** (2023)
-   6 citations · DAC
+   6 citations · General CDR
 
 3. **Planetary boundaries analysis of Fischer-Tropsch Diesel for decarbonizing heavy-duty transport** (2022)
-   0 citations · DAC
+   0 citations
 
 4. **Planetary boundaries analysis of Fischer-Tropsch Diesel for decarbonizing heavy-duty transport** (2022)
    0 citations · DAC

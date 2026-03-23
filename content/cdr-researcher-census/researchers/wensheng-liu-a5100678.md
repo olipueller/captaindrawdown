@@ -1,7 +1,7 @@
 ---
 title: "Wensheng Liu"
 description: "Wensheng Liu is a Mid-career Soil Carbon researcher at Central South University of Forestry and Technology in CN. With 44 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.027579
+date: 2026-03-23T11:46:59.467092
 url: "/cdr-researcher-census/researchers/wensheng-liu-a5100678/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 16 |
 | Citations | 1,002 |
 | Publications | 44 |
-| CDR Focus | 11.4% |
+| CDR Focus | 1140.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

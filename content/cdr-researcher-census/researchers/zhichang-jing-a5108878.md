@@ -1,7 +1,7 @@
 ---
 title: "Zhichang Jing"
 description: "Zhichang Jing is a Senior Soil Carbon researcher at Qingdao Agricultural University in CN. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.112133
+date: 2026-03-23T11:47:01.112399
 url: "/cdr-researcher-census/researchers/zhichang-jing-a5108878/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 3 |
 | Citations | 133 |
 | Publications | 4 |
-| CDR Focus | 75.0% |
+| CDR Focus | 7500.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

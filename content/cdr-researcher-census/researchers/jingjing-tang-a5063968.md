@@ -1,7 +1,7 @@
 ---
 title: "Jingjing Tang"
-description: "Jingjing Tang is a Mid-career Soil Carbon researcher at Guangxi University in CN. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.199110
+description: "Jingjing Tang is a Mid-career General CDR researcher at Guangxi University in CN. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.204687
 url: "/cdr-researcher-census/researchers/jingjing-tang-a5063968/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Guangxi University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,16 +42,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 123 |
 | Publications | 17 |
-| CDR Focus | 11.8% |
+| CDR Focus | 590.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Ecosystem service supply-demand coupling for multifunctional agroforestry landscape planning: A case study of Yunnan, China** (2026)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 2. **Spatial reconstruction of multifunctional agroforestry landscapes based on ecosystem service supply-demand coupling: A case study of Yunnan Province, China** (2025)
-   0 citations · Soil Carbon
+   0 citations
 
 ## External Profiles
 

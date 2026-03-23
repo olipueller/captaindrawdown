@@ -1,7 +1,7 @@
 ---
 title: "Iris Janssens"
 description: "Iris Janssens is a Mid-career Enhanced Weathering researcher at KU Leuven in BE. With 29 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.726550
+date: 2026-03-23T11:47:00.614650
 url: "/cdr-researcher-census/researchers/iris-janssens-a5051345/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 8 |
 | Citations | 207 |
 | Publications | 29 |
-| CDR Focus | 17.2% |
+| CDR Focus | 1380.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,16 +54,16 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    9 citations · Enhanced Weathering
 
 2. **How earthworms thrive and drive silicate rock weathering in an artificial organo-mineral system** (2024)
-   8 citations · Biochar
+   8 citations · Enhanced Weathering
 
 3. **Machine learning-based identification of key biotic and abiotic drivers of mineral weathering rate in a complex enhanced weathering experiment** (2025)
-   1 citations · Biochar
+   1 citations
 
 4. **Contribution of dissolved organic carbon to total alkalinity in Enhanced Weathering experiments** (2026)
    0 citations · Enhanced Weathering
 
 5. **Machine learning-based identification of key biotic and abiotic drivers of mineral weathering rate in a complex enhanced weathering experiment** (2025)
-   0 citations · Biochar
+   0 citations · Enhanced Weathering
 
 ## External Profiles
 

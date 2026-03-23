@@ -1,7 +1,7 @@
 ---
 title: "Zhouchang Yu"
 description: "Zhouchang Yu is a Mid-career Soil Carbon researcher at Jiangxi Agricultural University in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.252374
+date: 2026-03-23T11:47:01.261555
 url: "/cdr-researcher-census/researchers/zhouchang-yu-a5016076/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 117 |
 | Publications | 13 |
-| CDR Focus | 38.5% |
+| CDR Focus | 3850.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications

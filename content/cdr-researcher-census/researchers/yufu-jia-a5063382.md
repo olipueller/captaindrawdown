@@ -1,7 +1,7 @@
 ---
 title: "Yufu Jia"
 description: "Yufu Jia is a Mid-career Soil Carbon researcher at Beijing Botanical Garden in CN. With 36 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.036481
+date: 2026-03-23T11:46:59.484411
 url: "/cdr-researcher-census/researchers/yufu-jia-a5063382/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 15 |
 | Citations | 959 |
 | Publications | 36 |
-| CDR Focus | 11.1% |
+| CDR Focus | 830.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

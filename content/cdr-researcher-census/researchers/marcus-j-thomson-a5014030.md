@@ -1,7 +1,7 @@
 ---
 title: "Marcus J. Thomson"
 description: "Marcus J. Thomson is a Mid-career General CDR researcher at National Center for Ecological Analysis and Synthesis in US. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.463485
+date: 2026-03-23T11:47:00.241103
 url: "/cdr-researcher-census/researchers/marcus-j-thomson-a5014030/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 8 |
 | Citations | 300 |
 | Publications | 17 |
-| CDR Focus | 11.8% |
+| CDR Focus | 1180.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

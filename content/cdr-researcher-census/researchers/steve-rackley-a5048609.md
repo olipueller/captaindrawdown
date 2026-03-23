@@ -1,7 +1,7 @@
 ---
 title: "Steve Rackley"
 description: "Steve Rackley is a Mid-career Ocean CDR researcher at Planetary Science Institute in US. With 39 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.285254
+date: 2026-03-23T11:47:01.297168
 url: "/cdr-researcher-census/researchers/steve-rackley-a5048609/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 5 |
 | Citations | 113 |
 | Publications | 39 |
-| CDR Focus | 23.1% |
+| CDR Focus | 2050.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -54,16 +54,16 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    3 citations · General CDR
 
 3. **Direct air capture** (2023)
-   2 citations · DAC
+   2 citations
 
 4. **CO2 adsorption** (2023)
-   1 citations · DAC
+   1 citations
 
 5. **Afforestation and other land- and soil-based methods** (2023)
-   1 citations · Enhanced Weathering
+   1 citations · Soil Carbon
 
 6. **The viability and safety of Ocean Alkalinity Enhancement: encouraging results from collaborative industry-academic field studies in Canada, the USA and the UK** (2025)
-   0 citations · General CDR
+   0 citations · Ocean CDR
 
 7. **The impacts of ocean physics on the efficiency of ocean alkalinity enhancement in a one-dimensional model** (2024)
    0 citations · Ocean CDR

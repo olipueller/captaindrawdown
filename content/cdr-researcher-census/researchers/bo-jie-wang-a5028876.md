@@ -1,7 +1,7 @@
 ---
 title: "Bo-jie Wang"
-description: "Bo-jie Wang is a Senior Soil Carbon researcher at Ministry of Education of the People's Republic of China in CN. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.365471
+description: "Bo-jie Wang is a Senior General CDR researcher at Ministry of Education of the People's Republic of China in CN. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.382928
 url: "/cdr-researcher-census/researchers/bo-jie-wang-a5028876/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Ministry of Education of the People's Republic of China · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 2 |
 | Citations | 106 |
 | Publications | 4 |
-| CDR Focus | 25.0% |
+| CDR Focus | 2500.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **[Spatiotemporal Pattern and Driving Factors of the Ecosystem Services in Saihanwula Nature Reserve].** (2026)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

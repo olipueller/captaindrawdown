@@ -1,7 +1,7 @@
 ---
 title: "Xuguang Zhang"
 description: "Xuguang Zhang is a Mid-career Soil Carbon researcher at Shandong University in CN. With 25 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.642784
+date: 2026-03-23T11:47:00.505499
 url: "/cdr-researcher-census/researchers/xuguang-zhang-a5100709/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 230 |
 | Publications | 25 |
-| CDR Focus | 12.0% |
+| CDR Focus | 1200.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    32 citations · Soil Carbon
 
 2. **Evaluation of the kinetics of direct aqueous mineral carbonation of wood combustion ash using modified shrinking core models** (2022)
-   8 citations · BECCS
+   8 citations · Enhanced Weathering
 
 3. **Study on the influence of structural characteristics of urban green space plant communities on carbon sequestration and its optimal regulation** (2023)
    0 citations · Soil Carbon

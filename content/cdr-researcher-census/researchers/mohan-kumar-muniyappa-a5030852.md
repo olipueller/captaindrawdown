@@ -1,7 +1,7 @@
 ---
 title: "Mohan Kumar Muniyappa"
-description: "Mohan Kumar Muniyappa is a Senior Biochar researcher at School Based Health Alliance in US. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.273639
+description: "Mohan Kumar Muniyappa is a Senior Soil Carbon researcher at School Based Health Alliance in US. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.934850
 url: "/cdr-researcher-census/researchers/mohan-kumar-muniyappa-a5030852/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ School Based Health Alliance · 🇺🇸 US
 
 ## CDR Specialization
 
-**Biochar**
+**Soil Carbon**
 
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
 
 ## Metrics
 
@@ -42,16 +42,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 5 |
 | Citations | 433 |
 | Publications | 13 |
-| CDR Focus | 15.4% |
+| CDR Focus | 770.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Innovative Green Roof Materials for India: Synergizing Nature-Based Solutions and Sustainable Manufacturing for Climate-Responsive Cities** (2026)
-   0 citations · Biochar
+   0 citations
 
 2. **Innovative Green Roof Materials for India: Synergizing Nature-Based Solutions and Sustainable Manufacturing for Climate-Responsive Cities** (2026)
-   0 citations · Biochar
+   0 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Aman Malik"
-description: "Aman Malik is a Mid-career General CDR researcher. With 30 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.091544
+description: "Aman Malik is a Mid-career Enhanced Weathering researcher. With 30 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.597833
 url: "/cdr-researcher-census/researchers/aman-malik-a5027257/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,9 +29,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**General CDR**
+**Enhanced Weathering**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 
@@ -40,22 +40,22 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 11 |
 | Citations | 743 |
 | Publications | 30 |
-| CDR Focus | 16.7% |
+| CDR Focus | 670.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Enhanced weathering potentials—the role of in situ CO2 and grain size distribution** (2022)
-   54 citations · General CDR
+   54 citations · Enhanced Weathering
 
 2. **ENGAGE Global Scenarios** (2021)
-   6 citations · General CDR
+   6 citations
 
 3. **ENGAGE Global Scenarios** (2021)
-   2 citations · General CDR
+   2 citations
 
 4. **ENGAGE Global Scenarios** (2021)
-   0 citations · General CDR
+   0 citations
 
 5. **ENGAGE Global Scenarios** (2021)
    0 citations · General CDR

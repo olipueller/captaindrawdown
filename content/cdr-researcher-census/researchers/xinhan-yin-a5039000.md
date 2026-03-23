@@ -1,7 +1,7 @@
 ---
 title: "Xinhan Yin"
 description: "Xinhan Yin is an Early-career Soil Carbon researcher. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.158203
+date: 2026-03-23T11:47:01.156235
 url: "/cdr-researcher-census/researchers/xinhan-yin-a5039000/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -37,7 +37,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 128 |
 | Publications | 6 |
-| CDR Focus | 16.7% |
+| CDR Focus | 1670.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

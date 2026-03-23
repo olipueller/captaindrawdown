@@ -1,7 +1,7 @@
 ---
 title: "Alemu Nega"
-description: "Alemu Nega is a Mid-career Enhanced Weathering researcher at Wolaita Sodo University in ET. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.120770
+description: "Alemu Nega is a Mid-career carbon dioxide removal researcher at Wolaita Sodo University in ET. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.120943
 url: "/cdr-researcher-census/researchers/alemu-nega-a5084558/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Wolaita Sodo University ·  ET
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Enhanced Weathering**
-
-Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 5 |
 | Citations | 132 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Climate Change Impacts on Agriculture: A Review of Plant Diseases and Insect Pests in Ethiopia and East Africa, With Adaptation and Mitigation Strategies** (2025)
-   12 citations · Enhanced Weathering
+   12 citations
 
 ## External Profiles
 

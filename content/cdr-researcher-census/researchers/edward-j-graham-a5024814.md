@@ -1,7 +1,7 @@
 ---
 title: "Edward J. Graham"
 description: "Edward J. Graham is a Senior DAC researcher at Massachusetts Institute of Technology in US. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.560225
+date: 2026-03-23T11:47:00.394432
 url: "/cdr-researcher-census/researchers/edward-j-graham-a5024814/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 9 |
 | Citations | 259 |
 | Publications | 26 |
-| CDR Focus | 15.4% |
+| CDR Focus | 1150.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -60,7 +60,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    1 citations · DAC
 
 4. **Techno-economic analysis of a combined power plant CO2 capture and direct air capture concept for flexible power plant operation** (2023)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

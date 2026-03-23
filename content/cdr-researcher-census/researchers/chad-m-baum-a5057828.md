@@ -1,7 +1,7 @@
 ---
 title: "Chad M. Baum"
 description: "Chad M. Baum is a Senior General CDR researcher at Aarhus University in DK. With 72 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.977206
+date: 2026-03-23T11:46:59.351389
 url: "/cdr-researcher-census/researchers/chad-m-baum-a5057828/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 21 |
 | Citations | 1,402 |
 | Publications | 72 |
-| CDR Focus | 33.3% |
+| CDR Focus | 3190.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Taking it outside: Exploring social opposition to 21 early-stage experiments in radical climate interventions** (2022)
-   81 citations · Enhanced Weathering
+   81 citations · General CDR
 
 2. **Public perceptions and support of climate intervention technologies across the Global North and Global South** (2024)
    78 citations · General CDR
@@ -66,16 +66,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    53 citations · BECCS
 
 6. **Reviewing the sociotechnical dynamics of carbon removal** (2023)
-   53 citations · BECCS
+   53 citations · DAC
 
 7. **Risk–risk governance in a low‐carbon future: Exploring institutional, technological, and behavioral tradeoffs in climate geoengineering pathways** (2022)
    51 citations · General CDR
 
 8. **Beyond the new normal for sustainability: transformative operations and supply chain management for negative emissions** (2024)
-   25 citations · Biochar
+   25 citations · General CDR
 
 9. **Coral reefs, cloud forests and radical climate interventions in Australia’s Wet Tropics and Great Barrier Reef** (2023)
-   19 citations · Enhanced Weathering
+   19 citations · General CDR
 
 10. **Determining our climate policy future: expert opinions about negative emissions and solar radiation management pathways** (2022)
    14 citations · General CDR

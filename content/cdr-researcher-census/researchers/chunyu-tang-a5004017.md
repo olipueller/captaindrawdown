@@ -1,7 +1,7 @@
 ---
 title: "Chunyu Tang"
 description: "Chunyu Tang is a Mid-career Soil Carbon researcher at Zhejiang Ocean University in CN. With 46 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.996308
+date: 2026-03-23T11:46:59.402655
 url: "/cdr-researcher-census/researchers/chunyu-tang-a5004017/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 17 |
 | Citations | 1,215 |
 | Publications | 46 |
-| CDR Focus | 17.4% |
+| CDR Focus | 1090.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    54 citations · Soil Carbon
 
 2. **Carbon Materials Advancing Microorganisms in Driving Soil Organic Carbon Regulation** (2022)
-   31 citations · Biochar
+   31 citations · General CDR
 
 3. **Application of typical artificial carbon materials from biomass in environmental remediation and improvement: A review** (2021)
    31 citations · Biochar
@@ -63,7 +63,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    29 citations · Soil Carbon
 
 5. **Moderating carbon dynamics in black soil by combined application of biochar and an artificial humic substance** (2022)
-   14 citations · Enhanced Weathering
+   14 citations · Biochar
 
 6. **Effects of artificial humic acid on decomposition of returning straw and enhancement of carbon sequestration** (2024)
    10 citations · Soil Carbon

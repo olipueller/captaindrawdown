@@ -1,7 +1,7 @@
 ---
 title: "Casey L. France"
 description: "Casey L. France is an Early-career Soil Carbon researcher. With 1 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.371082
+date: 2026-03-23T11:47:01.388896
 url: "/cdr-researcher-census/researchers/casey-l-france-a5000277/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -37,7 +37,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 1 |
 | Citations | 105 |
 | Publications | 1 |
-| CDR Focus | 100.0% |
+| CDR Focus | 10000.0% |
 | Trajectory | Unknown |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Peter Psarras"
-description: "Peter Psarras is a Mid-career DAC researcher at University of Pennsylvania in US. With 66 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.915778
+description: "Peter Psarras is a Mid-career General CDR researcher at University of Pennsylvania in US. With 66 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.209948
 url: "/cdr-researcher-census/researchers/peter-psarras-a5075179/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Pennsylvania · 🇺🇸 US
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 18 |
 | Citations | 2,666 |
 | Publications | 66 |
-| CDR Focus | 25.8% |
+| CDR Focus | 1820.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    169 citations · DAC
 
 2. **Natural Gas vs. Electricity for Solvent-Based Direct Air Capture** (2021)
-   86 citations · DAC
+   86 citations
 
 3. **Roads to Removal: Options for Carbon Dioxide Removal in the United States** (2023)
    54 citations · General CDR
@@ -63,10 +63,10 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    15 citations · DAC
 
 5. **The cost of direct air capture and storage: the impact of technological learning, regional diversity, and policy.** (2022)
-   12 citations · DAC
+   12 citations
 
 6. **An ecosystem of carbon dioxide removal reviews – part 1: direct air CO <sub>2</sub> capture and storage** (2025)
-   11 citations · DAC
+   11 citations · General CDR
 
 7. **Opportunities for rail in the transport of carbon dioxide in the United States** (2024)
    11 citations · General CDR
@@ -75,7 +75,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    5 citations · DAC
 
 9. **The cost of direct air capture and storage: the impact of technological learning, regional diversity, and policy.** (2022)
-   4 citations · DAC
+   4 citations
 
 10. **Advancing geothermal energy utilization opportunities: potential and strategies for integrating direct air capture** (2025)
    2 citations · DAC

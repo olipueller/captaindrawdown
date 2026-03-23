@@ -1,7 +1,7 @@
 ---
 title: "Steef V. Hanssen"
-description: "Steef V. Hanssen is a Mid-career BECCS researcher at Radboud University Nijmegen in NL. With 37 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.936932
+description: "Steef V. Hanssen is a Mid-career General CDR researcher at Radboud University Nijmegen in NL. With 37 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.267200
 url: "/cdr-researcher-census/researchers/steef-v-hanssen-a5085343/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Radboud University Nijmegen · 🇳🇱 NL
 
 ## CDR Specialization
 
-**BECCS**
+**General CDR**
 
-Combining biomass energy with carbon capture and storage to achieve negative emissions.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 17 |
 | Citations | 1,985 |
 | Publications | 37 |
-| CDR Focus | 18.9% |
+| CDR Focus | 1890.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -57,13 +57,13 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
    29 citations · General CDR
 
 3. **Increased but not pristine soil organic carbon stocks in restored ecosystems** (2025)
-   23 citations · Soil Carbon
+   23 citations · General CDR
 
 4. **Forest-based climate mitigation: a systems perspective focused on bio-energy and carbon** (2026)
    0 citations · BECCS
 
 5. **Empirically Based Estimates of Soil Organic Carbon Gains After Ecosystem Restoration and Their Global Climate Benefits** (2026)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 6. **Comparing GHG Emissions of Residue‐Based BECCS to Alternative Biomass Uses** (2025)
    0 citations · BECCS

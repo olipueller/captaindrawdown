@@ -1,7 +1,7 @@
 ---
 title: "Manuel Moreno‐García"
 description: "Manuel Moreno‐García is a Mid-career Soil Carbon researcher at Andalusian Institute of Agricultural and Fisheries Research and Training in ES. With 24 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.386045
+date: 2026-03-23T11:47:00.111176
 url: "/cdr-researcher-census/researchers/manuel-morenogarcia-a5035935/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 347 |
 | Publications | 24 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    2 citations · Soil Carbon
 
 3. **Climate smart agriculture for Africa: the potential role of conservation agriculture in climate smart agriculture.** (2022)
-   1 citations · Soil Carbon
+   1 citations · General CDR
 
 ## External Profiles
 

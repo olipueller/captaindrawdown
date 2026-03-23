@@ -1,7 +1,7 @@
 ---
 title: "Arief Surachman"
-description: "Arief Surachman is a Mid-career DAC researcher at National Nuclear Energy Agency of Indonesia in ID. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.477001
+description: "Arief Surachman is a Mid-career carbon dioxide removal researcher at National Nuclear Energy Agency of Indonesia in ID. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.265758
 url: "/cdr-researcher-census/researchers/arief-surachman-a5078204/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ National Nuclear Energy Agency of Indonesia · 🇮🇩 ID
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 4 |
 | Citations | 294 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Mitigation on CO_2 Reduction with Direct Air Capture Technology: Preliminary Investigation to Identify the Gas Flow Behavior in Adsorbent** (2024)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

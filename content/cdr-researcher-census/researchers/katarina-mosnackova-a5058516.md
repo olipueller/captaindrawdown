@@ -1,7 +1,7 @@
 ---
 title: "Katarína Mosnáčková"
-description: "Katarína Mosnáčková is a Mid-career Biochar researcher at Slovak Academy of Sciences in SK. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.851928
+description: "Katarína Mosnáčková is a Mid-career carbon dioxide removal researcher at Slovak Academy of Sciences in SK. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.798014
 url: "/cdr-researcher-census/researchers/katarina-mosnackova-a5058516/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Slovak Academy of Sciences ·  SK
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Biochar**
-
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 6 |
 | Citations | 177 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Application of Engineered Biochar for Wastewater Treatment** (2024)
-   0 citations · Biochar
+   0 citations
 
 ## External Profiles
 

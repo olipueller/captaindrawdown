@@ -1,7 +1,7 @@
 ---
 title: "Pierre Oesterle"
 description: "Pierre Oesterle is a Mid-career Biochar researcher at Umeå University in SE. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.905086
+date: 2026-03-23T11:47:00.868147
 url: "/cdr-researcher-census/researchers/pierre-oesterle-a5017730/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 5 |
 | Citations | 166 |
 | Publications | 12 |
-| CDR Focus | 16.7% |
+| CDR Focus | 1670.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    84 citations · Biochar
 
 2. **Hydrothermal recycling of carbon absorbents loaded with emerging wastewater contaminants** (2022)
-   14 citations · Biochar
+   14 citations
 
 ## External Profiles
 

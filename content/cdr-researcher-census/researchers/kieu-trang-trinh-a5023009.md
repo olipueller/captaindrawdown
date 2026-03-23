@@ -1,7 +1,7 @@
 ---
 title: "Kieu Trang Trinh"
-description: "Kieu Trang Trinh is a Mid-career Soil Carbon researcher at Kyushu Institute of Technology in JP. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.414268
+description: "Kieu Trang Trinh is a Mid-career Biochar researcher at Kyushu Institute of Technology in JP. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.157531
 url: "/cdr-researcher-census/researchers/kieu-trang-trinh-a5023009/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Kyushu Institute of Technology · 🇯🇵 JP
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 329 |
 | Publications | 14 |
-| CDR Focus | 14.3% |
+| CDR Focus | 710.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    63 citations · Biochar
 
 2. **Land application of microsized basalt particles: A perspective on their mobility in the soil environment** (2025)
-   0 citations · Soil Carbon
+   0 citations · Enhanced Weathering
 
 ## External Profiles
 

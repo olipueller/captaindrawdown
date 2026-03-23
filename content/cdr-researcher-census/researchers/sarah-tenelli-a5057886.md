@@ -1,7 +1,7 @@
 ---
 title: "Sarah Tenelli"
 description: "Sarah Tenelli is a Mid-career Soil Carbon researcher at Universidade de São Paulo in BR. With 31 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.205448
+date: 2026-03-23T11:46:59.806908
 url: "/cdr-researcher-census/researchers/sarah-tenelli-a5057886/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 12 |
 | Citations | 519 |
 | Publications | 31 |
-| CDR Focus | 16.1% |
+| CDR Focus | 1290.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Soil carbon allocation, composition, and sequestration changes induced by cropping diversification in tropical systems** (2025)
-   12 citations · Enhanced Weathering
+   12 citations · Soil Carbon
 
 2. **Quantity, quality and physical protection of soil carbon associated with sugarcane straw removal in southern Brazil** (2023)
    9 citations · Soil Carbon

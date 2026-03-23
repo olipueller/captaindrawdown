@@ -1,7 +1,7 @@
 ---
 title: "Artur Zajchowski"
-description: "Artur Zajchowski is a Mid-career General CDR researcher at Tauron Wytwarzanie (Poland) in PL. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.344177
+description: "Artur Zajchowski is a Mid-career carbon dioxide removal researcher at Tauron Wytwarzanie (Poland) in PL. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.361251
 url: "/cdr-researcher-census/researchers/artur-zajchowski-a5081836/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Tauron Wytwarzanie (Poland) ·  PL
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 3 |
 | Citations | 107 |
 | Publications | 3 |
-| CDR Focus | 33.3% |
+| CDR Focus | 3330.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Treatment of Flue Gas in a CO2 Capture Pilot Plant for a Commercial CFB Boiler** (2021)
-   20 citations · General CDR
+   20 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Tianyi Wu"
 description: "Tianyi Wu is a Mid-career Soil Carbon researcher. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.877750
+date: 2026-03-23T11:47:00.831873
 url: "/cdr-researcher-census/researchers/tianyi-wu-a5086240/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 172 |
 | Publications | 14 |
-| CDR Focus | 14.3% |
+| CDR Focus | 710.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

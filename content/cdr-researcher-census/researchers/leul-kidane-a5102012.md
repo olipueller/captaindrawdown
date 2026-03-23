@@ -1,7 +1,7 @@
 ---
 title: "Leul Kidane"
-description: "Leul Kidane is a Mid-career Soil Carbon researcher at Mekelle University in ET. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.546644
+description: "Leul Kidane is a Mid-career carbon dioxide removal researcher at Mekelle University in ET. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.375976
 url: "/cdr-researcher-census/researchers/leul-kidane-a5102012/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Mekelle University ·  ET
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 265 |
 | Publications | 8 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Socio-ecological Benefit of Homegarden Agroforestry and Their Indigenous Management System: A Case Study in Digelu Tijo District, Oromia, Ethiopia** (2024)
-   4 citations · Soil Carbon
+   4 citations
 
 ## External Profiles
 

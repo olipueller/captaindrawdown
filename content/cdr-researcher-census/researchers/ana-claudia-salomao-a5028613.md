@@ -1,7 +1,7 @@
 ---
 title: "Ana Cláudia Salomão"
-description: "Ana Cláudia Salomão is an Early-career Soil Carbon researcher at National Institute of Amazonian Research in BR. With 2 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.713948
+description: "Ana Cláudia Salomão is an Early-career carbon dioxide removal researcher at National Institute of Amazonian Research in BR. With 2 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.599483
 url: "/cdr-researcher-census/researchers/ana-claudia-salomao-a5028613/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ National Institute of Amazonian Research · 🇧🇷 BR
 
 **Career Stage:** Early-career
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 1 |
 | Citations | 211 |
 | Publications | 2 |
-| CDR Focus | 50.0% |
+| CDR Focus | 5000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Direct evidence for phosphorus limitation on Amazon forest productivity** (2022)
-   211 citations · Soil Carbon
+   211 citations
 
 ## External Profiles
 

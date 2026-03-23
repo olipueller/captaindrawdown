@@ -1,7 +1,7 @@
 ---
 title: "Jianan Li"
 description: "Jianan Li is a Mid-career Soil Carbon researcher at Huaiyin Institute of Technology in CN. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.204322
+date: 2026-03-23T11:47:01.209761
 url: "/cdr-researcher-census/researchers/jianan-li-a5091619/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 2 |
 | Citations | 122 |
 | Publications | 2 |
-| CDR Focus | 50.0% |
+| CDR Focus | 5000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

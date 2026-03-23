@@ -1,7 +1,7 @@
 ---
 title: "Holger Pabst"
-description: "Holger Pabst is a Mid-career Soil Carbon researcher. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.023604
+description: "Holger Pabst is a Mid-career General CDR researcher. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.459754
 url: "/cdr-researcher-census/researchers/holger-pabst-a5032285/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,9 +29,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -40,16 +40,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 1,024 |
 | Publications | 20 |
-| CDR Focus | 10.0% |
+| CDR Focus | 500.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Navigating Europe's agricultural transition: Systemic policy approaches to mixed farming and agroforestry** (2026)
-   0 citations · Soil Carbon
+   0 citations
 
 2. **Navigating Europe's agricultural transition: Systemic policy approaches to mixed farming and agroforestry** (2025)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Karanika Sonowal"
-description: "Karanika Sonowal is a Mid-career Soil Carbon researcher at Indian Institute of Technology Guwahati in IN. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.274063
+description: "Karanika Sonowal is a Mid-career General CDR researcher at Indian Institute of Technology Guwahati in IN. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.936660
 url: "/cdr-researcher-census/researchers/karanika-sonowal-a5072123/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Indian Institute of Technology Guwahati · 🇮🇳 IN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,16 +45,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 11 |
 | Citations | 432 |
 | Publications | 20 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Exploring bio-based materials for effective CO2 mitigation** (2026)
-   0 citations · DAC
+   0 citations · General CDR
 
 2. **Innovative biobased materials in carbon capture technologies** (2026)
-   0 citations · Biochar
+   0 citations · General CDR
 
 ## External Profiles
 

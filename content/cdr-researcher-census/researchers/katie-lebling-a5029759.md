@@ -1,7 +1,7 @@
 ---
 title: "Katie Lebling"
 description: "Katie Lebling is a Mid-career General CDR researcher at Climate Central in US. With 51 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.719542
+date: 2026-03-23T11:47:00.606183
 url: "/cdr-researcher-census/researchers/katie-lebling-a5029759/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 8 |
 | Citations | 209 |
 | Publications | 51 |
-| CDR Focus | 11.8% |
+| CDR Focus | 780.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

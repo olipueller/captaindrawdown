@@ -1,7 +1,7 @@
 ---
 title: "Sylvia H. Vetter"
-description: "Sylvia H. Vetter is a Mid-career Soil Carbon researcher at University of Aberdeen in GB. With 62 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.979068
+description: "Sylvia H. Vetter is a Mid-career General CDR researcher at University of Aberdeen in GB. With 62 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.354777
 url: "/cdr-researcher-census/researchers/sylvia-h-vetter-a5015424/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Aberdeen · 🇬🇧 GB
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 15 |
 | Citations | 1,388 |
 | Publications | 62 |
-| CDR Focus | 16.1% |
+| CDR Focus | 1450.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -63,22 +63,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    3 citations · Soil Carbon
 
 5. **Evaluation of the ECOSSE-Model for Estimating Soil Respiration from Eight European Permanent Grassland Sites** (2023)
-   3 citations · Soil Carbon
+   3 citations · General CDR
 
 6. **Biological Carbon Sequestration Technologies** (2022)
-   3 citations · Soil Carbon
+   3 citations · General CDR
 
 7. **Larger rock extraction sites could improve the efficiency of enhanced rock weathering in the United Kingdom** (2025)
    1 citations · Enhanced Weathering
 
 8. **Measuring and monitoring soil carbon sequestration** (2022)
-   1 citations · Soil Carbon
+   1 citations · General CDR
 
 9. **Toward Credible Carbon Dioxide Removal: Harmonized Accounting and Data Gaps Across Six CDR Approaches** (2026)
-   0 citations · BECCS
+   0 citations · DAC
 
 10. **Potential soil carbon sequestration of agricultural land around the world** (2021)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

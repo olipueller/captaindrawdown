@@ -1,7 +1,7 @@
 ---
 title: "Selene Cobo"
-description: "Selene Cobo is a Mid-career BECCS researcher at Universidad de Cantabria in ES. With 29 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.112329
+description: "Selene Cobo is a Mid-career General CDR researcher at Universidad de Cantabria in ES. With 29 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.636149
 url: "/cdr-researcher-census/researchers/selene-cobo-a5082806/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Universidad de Cantabria · 🇪🇸 ES
 
 ## CDR Specialization
 
-**BECCS**
+**General CDR**
 
-Combining biomass energy with carbon capture and storage to achieve negative emissions.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 12 |
 | Citations | 689 |
 | Publications | 29 |
-| CDR Focus | 31.0% |
+| CDR Focus | 2760.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
    77 citations · BECCS
 
 2. **Sustainable scale-up of negative emissions technologies and practices: where to focus** (2022)
-   48 citations · DAC
+   48 citations · General CDR
 
 3. **Human and planetary health implications of negative emissions technologies** (2022)
    46 citations · BECCS
@@ -66,16 +66,16 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
    3 citations · BECCS
 
 6. **Negative emissions will challenge global resource supply and environmental limits** (2025)
-   0 citations · BECCS
+   0 citations · General CDR
 
 7. **Negative emissions pose trade-offs among human health, planetary boundaries and mineral resources** (2025)
-   0 citations · BECCS
+   0 citations · General CDR
 
 8. **Environmental Sustainability Assessment of Hydrogen from Waste Polymers** (2023)
-   0 citations · BECCS
+   0 citations
 
 9. **Environmental Sustainability Assessment of Hydrogen from Waste Polymers** (2023)
-   0 citations · BECCS
+   0 citations
 
 ## External Profiles
 

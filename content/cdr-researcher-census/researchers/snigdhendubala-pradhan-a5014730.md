@@ -1,0 +1,72 @@
+---
+title: "Snigdhendubala Pradhan"
+description: "Snigdhendubala Pradhan is a Mid-career Biochar researcher at Hamad bin Khalifa University in QA. With 53 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.489725
+url: "/cdr-researcher-census/researchers/snigdhendubala-pradhan-a5014730/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Snigdhendubala Pradhan",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/snigdhendubala-pradhan-a5014730/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Hamad bin Khalifa University"
+  },
+  "sameAs": [
+    "https://orcid.org/0000-0002-9742-9203",
+    "https://openalex.org/A5014730016"
+  ]
+}
+</script>
+
+## Profile
+
+**Snigdhendubala Pradhan**  
+Hamad bin Khalifa University ·  QA
+
+**Career Stage:** Mid-career
+
+## CDR Specialization
+
+**Biochar**
+
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 16 |
+| Citations | 949 |
+| Publications | 53 |
+| CDR Focus | 570.0% |
+| Trajectory | Exiting |
+
+## Top CDR Publications
+
+1. **High-performance activated carbon from coconut shells for dye removal: study of isotherm and thermodynamics** (2024)
+   24 citations · Biochar
+
+2. **Removal of lithium from aqueous solution by spent coffee ground activated biochar** (2024)
+   13 citations · Biochar
+
+3. **A kinetic evaluation of nutrient and organic matter removal in greywater for green Walls: Assessing the performance of Mineral-Based, Organic, and Waste-Derived plant support media** (2024)
+   9 citations
+
+4. **Biochar: a sustainable approach for water stress and plant growth** (2021)
+   6 citations · Biochar
+
+## External Profiles
+
+- [ORCID](https://orcid.org/0000-0002-9742-9203)
+- [OpenAlex](https://openalex.org/A5014730016)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

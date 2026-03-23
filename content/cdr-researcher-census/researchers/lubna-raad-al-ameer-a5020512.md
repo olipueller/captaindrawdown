@@ -1,7 +1,7 @@
 ---
 title: "Lubna Raad Al-Ameer"
 description: "Lubna Raad Al-Ameer is an Early-career Biochar researcher at University of Kerbala in IQ. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.024837
+date: 2026-03-23T11:47:01.014685
 url: "/cdr-researcher-census/researchers/lubna-raad-al-ameer-a5020512/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 4 |
 | Citations | 146 |
 | Publications | 5 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

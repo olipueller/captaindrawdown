@@ -1,7 +1,7 @@
 ---
 title: "Luiz C. Cotovicz"
-description: "Luiz C. Cotovicz is a Mid-career Soil Carbon researcher at Universidade Federal do Paraná in BR. With 53 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.038296
+description: "Luiz C. Cotovicz is a Mid-career Ocean CDR researcher at Universidade Federal do Paraná in BR. With 53 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.488764
 url: "/cdr-researcher-census/researchers/luiz-c-cotovicz-a5062438/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Universidade Federal do Paraná · 🇧🇷 BR
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Ocean CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
 
 ## Metrics
 
@@ -45,28 +45,28 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 18 |
 | Citations | 951 |
 | Publications | 53 |
-| CDR Focus | 11.3% |
+| CDR Focus | 940.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Blue Carbon Ecosystems in Brazil: Overview and an Urgent Call for Conservation and Restoration** (2022)
-   29 citations · Soil Carbon
+   29 citations · Ocean CDR
 
 2. **Large Porewater‐Derived Carbon Outwelling Across Mangrove Seascapes Revealed by Radium Isotopes** (2024)
-   12 citations · Soil Carbon
+   12 citations · Ocean CDR
 
 3. **Blue carbon stock heterogeneity in Brazilian mangrove forests: A systematic review** (2023)
    12 citations · General CDR
 
 4. **Efficient oxidation attenuates porewater‐derived methane fluxes in mangrove waters** (2024)
-   5 citations · Soil Carbon
+   5 citations
 
 5. **Tropicalization Enhances Mangrove Methane Emissions to the Atmosphere** (2026)
-   0 citations · Soil Carbon
+   0 citations
 
 6. **Large porewater-derived carbon outwelling across two mangrove-seascapes revealed by radium isotopes** (2024)
-   0 citations · Soil Carbon
+   0 citations · Ocean CDR
 
 ## External Profiles
 

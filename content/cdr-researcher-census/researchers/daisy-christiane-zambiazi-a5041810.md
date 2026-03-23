@@ -1,0 +1,63 @@
+---
+title: "Daisy Christiane Zambiazi"
+description: "Daisy Christiane Zambiazi is a Mid-career Soil Carbon researcher at Universidade Federal de Santa Catarina in BR. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.238738
+url: "/cdr-researcher-census/researchers/daisy-christiane-zambiazi-a5041810/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Daisy Christiane Zambiazi",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/daisy-christiane-zambiazi-a5041810/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Universidade Federal de Santa Catarina"
+  },
+  "sameAs": [
+    "https://orcid.org/0000-0001-9774-7335",
+    "https://openalex.org/A5041810458"
+  ]
+}
+</script>
+
+## Profile
+
+**Daisy Christiane Zambiazi**  
+Universidade Federal de Santa Catarina · 🇧🇷 BR
+
+**Career Stage:** Mid-career
+
+## CDR Specialization
+
+**Soil Carbon**
+
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 5 |
+| Citations | 119 |
+| Publications | 14 |
+| CDR Focus | 710.0% |
+| Trajectory | Exiting |
+
+## Top CDR Publications
+
+1. **Carbon sequestration potential of pastures in Southern Brazil: A systematic review** (2024)
+   10 citations · Soil Carbon
+
+## External Profiles
+
+- [ORCID](https://orcid.org/0000-0001-9774-7335)
+- [OpenAlex](https://openalex.org/A5041810458)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

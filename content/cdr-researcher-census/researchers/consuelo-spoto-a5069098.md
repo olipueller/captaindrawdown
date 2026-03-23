@@ -1,7 +1,7 @@
 ---
 title: "Consuelo Spoto"
 description: "Consuelo Spoto is a Mid-career Biochar researcher at University of Trieste in IT. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.859246
+date: 2026-03-23T11:47:00.805004
 url: "/cdr-researcher-census/researchers/consuelo-spoto-a5069098/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 3 |
 | Citations | 176 |
 | Publications | 4 |
-| CDR Focus | 25.0% |
+| CDR Focus | 2500.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

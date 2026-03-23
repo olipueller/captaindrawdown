@@ -1,0 +1,69 @@
+---
+title: "Oscar Zapata"
+description: "Oscar Zapata is a Senior Biochar researcher at University of Saskatchewan in CA. With 32 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.436485
+url: "/cdr-researcher-census/researchers/oscar-zapata-a5014630/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Oscar Zapata",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/oscar-zapata-a5014630/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "University of Saskatchewan"
+  },
+  "sameAs": [
+    "https://orcid.org/0000-0001-5453-3564",
+    "https://openalex.org/A5014630719"
+  ]
+}
+</script>
+
+## Profile
+
+**Oscar Zapata**  
+University of Saskatchewan · 🇨🇦 CA
+
+**Career Stage:** Senior
+
+## CDR Specialization
+
+**Biochar**
+
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 13 |
+| Citations | 1,102 |
+| Publications | 32 |
+| CDR Focus | 620.0% |
+| Trajectory | Growing |
+
+## Top CDR Publications
+
+1. **Investigations of thermal effects during pyrolysis of agro-forestry biomass and physicochemical characterizations of biofuel products** (2024)
+   14 citations · Biochar
+
+2. **KOH-Assisted Chemical Activation of Camelina Meal (Wild Flax) to Treat PFOA-Contaminated Wastewater** (2025)
+   3 citations · Biochar
+
+3. **Steam activation of camelina meal biochar to remediate PFOA-contaminated wastewater** (2025)
+   0 citations · Biochar
+
+## External Profiles
+
+- [ORCID](https://orcid.org/0000-0001-5453-3564)
+- [OpenAlex](https://openalex.org/A5014630719)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

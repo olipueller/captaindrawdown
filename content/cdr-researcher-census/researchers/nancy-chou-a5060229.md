@@ -1,7 +1,7 @@
 ---
 title: "Nancy Chou"
-description: "Nancy Chou is a Mid-career General CDR researcher at University of Calgary in CA. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.762722
+description: "Nancy Chou is a Mid-career carbon dioxide removal researcher at University of Calgary in CA. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.663236
 url: "/cdr-researcher-census/researchers/nancy-chou-a5060229/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ University of Calgary · 🇨🇦 CA
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,16 +36,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 8 |
 | Citations | 197 |
 | Publications | 15 |
-| CDR Focus | 13.3% |
+| CDR Focus | 670.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Investigating activated carbons for SO2 adsorption in wet flue gas** (2023)
-   36 citations · General CDR
+   36 citations
 
 2. **Investigating Activated Carbons for So2 Adsorption in Wet Flue Gas** (2023)
-   0 citations · General CDR
+   0 citations
 
 ## External Profiles
 

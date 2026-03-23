@@ -1,7 +1,7 @@
 ---
 title: "Mario A. Heredia Salgado"
-description: "Mario A. Heredia Salgado is a Senior Soil Carbon researcher at Humboldt-Universität zu Berlin in DE. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.666302
+description: "Mario A. Heredia Salgado is a Senior Biochar researcher at Humboldt-Universität zu Berlin in DE. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.534074
 url: "/cdr-researcher-census/researchers/mario-a-heredia-salgado-a5042479/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Humboldt-Universität zu Berlin · 🇩🇪 DE
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 224 |
 | Publications | 26 |
-| CDR Focus | 11.5% |
+| CDR Focus | 770.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    2 citations · Biochar
 
 3. **Post-Extractivism and Bioeconomy: An Experimental Analysis of Combustion and Pyrolysis Processes as Alternatives to Add Value to Agro-Residues (Coffee Husks) Generated in Farmer Cooperatives of the Ecuadorian Amazon** (2024)
-   1 citations · Biochar
+   1 citations
 
 ## External Profiles
 

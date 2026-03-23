@@ -1,7 +1,7 @@
 ---
 title: "Jude O. Asibor"
-description: "Jude O. Asibor is a Mid-career Enhanced Weathering researcher at Cranfield University in GB. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.409219
+description: "Jude O. Asibor is a Mid-career General CDR researcher at Cranfield University in GB. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.149399
 url: "/cdr-researcher-census/researchers/jude-o-asibor-a5085225/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Cranfield University · 🇬🇧 GB
 
 ## CDR Specialization
 
-**Enhanced Weathering**
+**General CDR**
 
-Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,16 +45,16 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 5 |
 | Citations | 331 |
 | Publications | 10 |
-| CDR Focus | 40.0% |
+| CDR Focus | 4000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Assessment of optimal conditions for the performance of greenhouse gas removal methods** (2021)
-   23 citations · BECCS
+   23 citations · General CDR
 
 2. **A country-level assessment of the deployment potential of greenhouse gas removal technologies** (2022)
-   13 citations · BECCS
+   13 citations · General CDR
 
 3. **A machine learning approach for country-level deployment of greenhouse gas removal technologies** (2023)
    1 citations · BECCS

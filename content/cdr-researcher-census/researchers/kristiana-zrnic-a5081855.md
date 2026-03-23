@@ -1,7 +1,7 @@
 ---
 title: "Kristiana Zrnić"
 description: "Kristiana Zrnić is a Mid-career Biochar researcher at University of Novi Sad in RS. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.897373
+date: 2026-03-23T11:47:00.856548
 url: "/cdr-researcher-census/researchers/kristiana-zrnic-a5081855/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 3 |
 | Citations | 168 |
 | Publications | 4 |
-| CDR Focus | 25.0% |
+| CDR Focus | 2500.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

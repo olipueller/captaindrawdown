@@ -1,7 +1,7 @@
 ---
 title: "Rajendran Nandhini"
 description: "Rajendran Nandhini is a Mid-career BECCS researcher at National Institute of Technology Tiruchirappalli in IN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.477624
+date: 2026-03-23T11:47:00.266223
 url: "/cdr-researcher-census/researchers/rajendran-nandhini-a5024261/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 5 |
 | Citations | 294 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

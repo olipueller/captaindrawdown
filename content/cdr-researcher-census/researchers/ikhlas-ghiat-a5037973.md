@@ -1,7 +1,7 @@
 ---
 title: "Ikhlas Ghiat"
-description: "Ikhlas Ghiat is a Mid-career DAC researcher at Hamad Bin Khalifa University in QA. With 30 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.009226
+description: "Ikhlas Ghiat is a Mid-career General CDR researcher at Hamad Bin Khalifa University in QA. With 30 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.432513
 url: "/cdr-researcher-census/researchers/ikhlas-ghiat-a5037973/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Hamad Bin Khalifa University ·  QA
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 12 |
 | Citations | 1,111 |
 | Publications | 30 |
-| CDR Focus | 13.3% |
+| CDR Focus | 1330.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -60,7 +60,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    1 citations · DAC
 
 4. **Technoeconomic Analysis of a Novel Amine-Free Direct Air Capture System Integrated with HVAC** (2025)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

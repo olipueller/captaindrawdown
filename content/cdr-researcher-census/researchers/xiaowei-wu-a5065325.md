@@ -1,7 +1,7 @@
 ---
 title: "Xiaowei Wu"
 description: "Xiaowei Wu is a Mid-career DAC researcher at Brooks Institute in US. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.117299
+date: 2026-03-23T11:47:01.118338
 url: "/cdr-researcher-census/researchers/xiaowei-wu-a5065325/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 5 |
 | Citations | 132 |
 | Publications | 13 |
-| CDR Focus | 38.5% |
+| CDR Focus | 3080.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,16 +54,16 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    51 citations · DAC
 
 2. **Surface Hydration of Porous Nickel Hydroxides Facilitates the Reversible Adsorption of CO<sub>2</sub> from Ambient Air** (2025)
-   3 citations · DAC
+   3 citations
 
 3. **Carbon Dioxide Sorbent from Construction and Textile Plastic Waste** (2023)
-   3 citations · DAC
+   3 citations
 
 4. **Kinetically Constrained Capture and Conversion of CO <sub>2</sub> from Ambient Air Using Excess Oxygen-Derived Recalcitrant Carbonates** (2026)
-   0 citations · DAC
+   0 citations
 
 5. **Critical Role of Amine–Surface Hydroxyl Interactions in Direct Air Capture over Amine-Impregnated Sorbents** (2025)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

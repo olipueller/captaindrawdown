@@ -1,7 +1,7 @@
 ---
 title: "David Cann"
-description: "David Cann is a Mid-career General CDR researcher at University of Hull in GB. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.732567
+description: "David Cann is a Mid-career DAC researcher at University of Hull in GB. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.624722
 url: "/cdr-researcher-census/researchers/david-cann-a5075538/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Hull · 🇬🇧 GB
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 5 |
 | Citations | 205 |
 | Publications | 8 |
-| CDR Focus | 25.0% |
+| CDR Focus | 2500.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    140 citations · DAC
 
 2. **Experimental analysis of CO2 frost front behaviour in moving packed beds for cryogenic CO2 capture** (2021)
-   24 citations · General CDR
+   24 citations
 
 ## External Profiles
 

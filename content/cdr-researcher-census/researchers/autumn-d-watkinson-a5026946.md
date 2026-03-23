@@ -1,7 +1,7 @@
 ---
 title: "Autumn D. Watkinson"
-description: "Autumn D. Watkinson is a Senior Soil Carbon researcher at University of Alberta in CA. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.924938
+description: "Autumn D. Watkinson is a Senior Enhanced Weathering researcher at University of Alberta in CA. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.893713
 url: "/cdr-researcher-census/researchers/autumn-d-watkinson-a5026946/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Alberta · 🇨🇦 CA
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Enhanced Weathering**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 
@@ -45,16 +45,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 163 |
 | Publications | 18 |
-| CDR Focus | 11.1% |
+| CDR Focus | 560.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Effect of wetting and drying processes on ultramafic and mafic tailing minerals amended with topsoil** (2024)
-   5 citations · Soil Carbon
+   5 citations · Enhanced Weathering
 
 2. **Relative Stability of Ultramafic/Mafic (U/M) Tailings Minerals with Addition of Topsoil** (2022)
-   0 citations · Soil Carbon
+   0 citations · Enhanced Weathering
 
 ## External Profiles
 

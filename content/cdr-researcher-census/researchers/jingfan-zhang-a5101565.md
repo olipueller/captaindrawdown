@@ -1,7 +1,7 @@
 ---
 title: "Jingfan Zhang"
 description: "Jingfan Zhang is a Mid-career Soil Carbon researcher at South China Botanical Garden in CN. With 52 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.100551
+date: 2026-03-23T11:46:59.612214
 url: "/cdr-researcher-census/researchers/jingfan-zhang-a5101565/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 17 |
 | Citations | 721 |
 | Publications | 52 |
-| CDR Focus | 13.5% |
+| CDR Focus | 960.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    32 citations · Soil Carbon
 
 2. **Blue carbon storage of tidal flats and salt marshes: A comparative assessment in two Chinese coastal areas** (2024)
-   16 citations · Soil Carbon
+   16 citations · Ocean CDR
 
 3. **Enhanced abundance of generalist and litter saprotrophs explain increased tropical forest soil carbon with long‐term nitrogen deposition** (2023)
    12 citations · Soil Carbon
@@ -63,7 +63,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    7 citations · Soil Carbon
 
 5. **Mangrove restoration enhances blue carbon sequestration and its stability in a subtropical tidal wetland** (2025)
-   5 citations · Soil Carbon
+   5 citations · Ocean CDR
 
 6. **Responses of depth-dependence of C:N:P stoichiometry to check dam in mangrove wetlands** (2024)
    4 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Kyle A. Arndt"
 description: "Kyle A. Arndt is a Mid-career Soil Carbon researcher at Woodwell Climate Research Center in US. With 79 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.996033
+date: 2026-03-23T11:46:59.402314
 url: "/cdr-researcher-census/researchers/kyle-a-arndt-a5052225/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,34 +45,34 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 16 |
 | Citations | 1,215 |
 | Publications | 79 |
-| CDR Focus | 10.1% |
+| CDR Focus | 510.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **<scp>Pan‐Arctic</scp> soil moisture control on tundra carbon sequestration and plant productivity** (2022)
-   48 citations · Soil Carbon
+   48 citations · General CDR
 
 2. **Earlier snowmelt may lead to late season declines in plant productivity and carbon sequestration in Arctic tundra ecosystems** (2022)
-   35 citations · Soil Carbon
+   35 citations
 
 3. **Initial soil conditions outweigh management in a cool-season dairy farm's carbon sequestration potential** (2021)
    32 citations · Soil Carbon
 
 4. **Response of vegetation and carbon fluxes to brown lemming herbivory in northern Alaska** (2022)
-   6 citations · General CDR
+   6 citations · Soil Carbon
 
 5. **Earlier Snowmelt May Lead to Late Season Declines in Plant Productivity and Carbon Sequestration in Arctic Tundra Ecosystems** (2021)
    4 citations · Soil Carbon
 
 6. **Response of vegetation and carbon fluxes to brown lemming herbivory in Northern Alaska** (2021)
-   1 citations · General CDR
+   1 citations
 
 7. **Initial soil conditions outweigh management in a cool-season dairy farm's carbon sequestration potential** (2021)
-   0 citations · Soil Carbon
+   0 citations
 
 8. **Initial soil conditions outweigh management in a cool-season dairy farm's carbon sequestration potential** (2021)
-   0 citations · Soil Carbon
+   0 citations
 
 ## External Profiles
 

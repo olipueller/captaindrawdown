@@ -1,7 +1,7 @@
 ---
 title: "Viktor Ivakhov"
 description: "Viktor Ivakhov is a Mid-career Soil Carbon researcher at Voeikov Main Geophysical Observatory in RU. With 29 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.166557
+date: 2026-03-23T11:46:59.736874
 url: "/cdr-researcher-census/researchers/viktor-ivakhov-a5047845/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 583 |
 | Publications | 29 |
-| CDR Focus | 10.3% |
+| CDR Focus | 690.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,10 +54,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    22 citations · Soil Carbon
 
 2. **Comment on bg-2022-5** (2022)
-   0 citations · Soil Carbon
+   0 citations
 
 3. **Variation in CO <sub>2</sub> and CH <sub>4</sub> Fluxes Among Land Cover Types in Heterogeneous Arctic Tundra in Northeastern Siberia** (2022)
-   0 citations · Soil Carbon
+   0 citations
 
 ## External Profiles
 

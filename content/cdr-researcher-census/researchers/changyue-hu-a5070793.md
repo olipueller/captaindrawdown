@@ -1,7 +1,7 @@
 ---
 title: "Changyue Hu"
-description: "Changyue Hu is a Mid-career Soil Carbon researcher at China Railway Corporation in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.091001
+description: "Changyue Hu is a Mid-career carbon dioxide removal researcher at China Railway Corporation in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.090559
 url: "/cdr-researcher-census/researchers/changyue-hu-a5070793/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ China Railway Corporation · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 136 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Ecological Response of Urban Forest Carbon Density to Site Conditions: A Case Study of a Typical Karst Mountainous Regions in Southwest China** (2022)
-   11 citations · Soil Carbon
+   11 citations
 
 ## External Profiles
 

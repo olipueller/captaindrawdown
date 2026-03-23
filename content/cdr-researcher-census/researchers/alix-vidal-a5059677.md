@@ -1,7 +1,7 @@
 ---
 title: "Alix Vidal"
 description: "Alix Vidal is a Senior Enhanced Weathering researcher at Wageningen University & Research in NL. With 68 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.964266
+date: 2026-03-23T11:46:59.318619
 url: "/cdr-researcher-census/researchers/alix-vidal-a5059677/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 16 |
 | Citations | 1,573 |
 | Publications | 68 |
-| CDR Focus | 17.6% |
+| CDR Focus | 1470.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    9 citations · Enhanced Weathering
 
 3. **How earthworms thrive and drive silicate rock weathering in an artificial organo-mineral system** (2024)
-   8 citations · Biochar
+   8 citations · Enhanced Weathering
 
 4. **From waste to soil: Can we create functioning manufactured soils by recycling rock processing waste?** (2024)
    6 citations · Enhanced Weathering
@@ -69,16 +69,16 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    2 citations · Enhanced Weathering
 
 7. **Machine learning-based identification of key biotic and abiotic drivers of mineral weathering rate in a complex enhanced weathering experiment** (2025)
-   1 citations · Biochar
+   1 citations
 
 8. **Machine learning-based identification of key biotic and abiotic drivers of mineral weathering rate in a complex enhanced weathering experiment** (2025)
-   0 citations · Biochar
+   0 citations · Enhanced Weathering
 
 9. **Contribution of dissolved organic carbon to total alkalinity&amp;#160;** (2025)
    0 citations · Enhanced Weathering
 
 10. **Grounding carbon farming, or how to break the market logic and promote the cocreation of farming systems** (2025)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

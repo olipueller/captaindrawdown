@@ -1,7 +1,7 @@
 ---
 title: "C. Eckhardt"
 description: "C. Eckhardt is a Senior Soil Carbon researcher at Justus-Liebig-Universität Gießen in DE. With 27 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.636772
+date: 2026-03-23T11:47:00.497949
 url: "/cdr-researcher-census/researchers/c-eckhardt-a5044715/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 232 |
 | Publications | 27 |
-| CDR Focus | 11.1% |
+| CDR Focus | 740.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Climate-Smart Agriculture Practices for Mitigating Greenhouse Gas Emissions** (2021)
-   15 citations · Biochar
+   15 citations · Soil Carbon
 
 2. **Greenhouse Gases from Agriculture** (2021)
-   8 citations · Enhanced Weathering
+   8 citations
 
 3. **Long-Term Phosphorus Fertilisation: Effects on Nitrogen and Carbon Cycle Dynamics and Greenhouse Gas Fluxes in European Agricultural Soils&amp;#160;** (2024)
    0 citations · Soil Carbon

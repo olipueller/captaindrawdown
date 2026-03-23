@@ -1,7 +1,7 @@
 ---
 title: "Jianguo Tao"
 description: "Jianguo Tao is a Mid-career Soil Carbon researcher at Tsinghua University in CN. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.596293
+date: 2026-03-23T11:47:00.436076
 url: "/cdr-researcher-census/researchers/jianguo-tao-a5109299/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 248 |
 | Publications | 14 |
-| CDR Focus | 21.4% |
+| CDR Focus | 710.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Mirabela Marin"
 description: "Mirabela Marin is a Mid-career Soil Carbon researcher. With 28 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.386519
+date: 2026-03-23T11:47:00.111892
 url: "/cdr-researcher-census/researchers/mirabela-marin-a5035374/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,16 +40,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 11 |
 | Citations | 347 |
 | Publications | 28 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **The Role of Trees in Sand Dune Rehabilitation: Insights from Global Experiences** (2025)
-   8 citations · Soil Carbon
+   8 citations
 
 2. **Pine afforestation on degraded lands: a global review of carbon sequestration potential** (2025)
-   5 citations · Soil Carbon
+   5 citations · General CDR
 
 3. **Dynamics of Forest Floor, Soil Organic Matter, and Carbon Stock Estimation in Temperate Forests of Romania** (2025)
    0 citations · Soil Carbon

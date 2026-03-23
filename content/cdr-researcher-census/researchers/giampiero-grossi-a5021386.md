@@ -1,7 +1,7 @@
 ---
 title: "Giampiero Grossi"
 description: "Giampiero Grossi is a Mid-career Soil Carbon researcher at Università degli Studi della Tuscia in IT. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.103981
+date: 2026-03-23T11:46:59.619156
 url: "/cdr-researcher-census/researchers/giampiero-grossi-a5021386/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,16 +45,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 710 |
 | Publications | 20 |
-| CDR Focus | 10.0% |
+| CDR Focus | 500.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Greenhouse Gas Emissions and Carbon Sinks of an Italian Natural Park** (2021)
-   11 citations · General CDR
+   11 citations · Soil Carbon
 
 2. **Harmonizing soil carbon simulation models, emission factors and direct measurements used in LCA of agricultural systems** (2025)
-   8 citations · Soil Carbon
+   8 citations · General CDR
 
 ## External Profiles
 

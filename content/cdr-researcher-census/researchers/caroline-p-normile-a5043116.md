@@ -1,7 +1,7 @@
 ---
 title: "Caroline P. Normile"
-description: "Caroline P. Normile is a Senior Soil Carbon researcher at Bipartisan Policy Center in US. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.439771
+description: "Caroline P. Normile is a Senior General CDR researcher at Bipartisan Policy Center in US. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.203157
 url: "/cdr-researcher-census/researchers/caroline-p-normile-a5043116/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Bipartisan Policy Center · 🇺🇸 US
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,16 +45,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 312 |
 | Publications | 12 |
-| CDR Focus | 16.7% |
+| CDR Focus | 1670.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Informing Nature‐based Climate Solutions for the United States with the best‐available science** (2022)
-   91 citations · Soil Carbon
+   91 citations · General CDR
 
 2. **Uncertainty drives carbon ambition, even as deployment potential still at some remove** (2021)
-   2 citations · BECCS
+   2 citations · General CDR
 
 ## External Profiles
 

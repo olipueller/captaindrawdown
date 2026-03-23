@@ -1,7 +1,7 @@
 ---
 title: "Hyo-Jeong Kim"
-description: "Hyo-Jeong Kim is a Mid-career Ocean CDR researcher at City University of Hong Kong in HK. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.570663
+description: "Hyo-Jeong Kim is a Mid-career General CDR researcher at City University of Hong Kong in HK. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.409333
 url: "/cdr-researcher-census/researchers/hyo-jeong-kim-a5021327/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ City University of Hong Kong · 🇭🇰 HK
 
 ## CDR Specialization
 
-**Ocean CDR**
+**General CDR**
 
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 6 |
 | Citations | 255 |
 | Publications | 19 |
-| CDR Focus | 10.5% |
+| CDR Focus | 1050.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Pervasive fire danger continued under a negative emission scenario** (2024)
-   6 citations · Enhanced Weathering
+   6 citations · General CDR
 
 2. **Irreversible changes in surface temperature and precipitation to CO2 forcing** (2023)
    1 citations · General CDR

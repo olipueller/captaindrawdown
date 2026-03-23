@@ -1,7 +1,7 @@
 ---
 title: "Eduard Garrido Ribó"
-description: "Eduard Garrido Ribó is a Mid-career DAC researcher. With 30 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.889465
+description: "Eduard Garrido Ribó is a Mid-career carbon dioxide removal researcher. With 30 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.848219
 url: "/cdr-researcher-census/researchers/eduard-garrido-ribo-a5007483/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -27,12 +27,6 @@ robots: "index, follow"
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -40,25 +34,25 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 5 |
 | Citations | 169 |
 | Publications | 30 |
-| CDR Focus | 16.7% |
+| CDR Focus | 1330.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Carbon Dioxide Capture by Niobium Polyoxometalate Fragmentation** (2024)
-   18 citations · DAC
+   18 citations
 
 2. **Implementing vanadium peroxides as direct air carbon capture materials** (2023)
-   12 citations · DAC
+   12 citations
 
 3. **Tetraperoxotitanates for High-Capacity Direct Air Capture of Carbon Dioxide** (2024)
-   2 citations · DAC
+   2 citations
 
 4. **Tetraperoxotitanates for High Capacity Direct Air Capture of Carbon Dioxide** (2024)
-   0 citations · DAC
+   0 citations
 
 5. **Tetraperoxotitanates for High Capacity Direct Air Capture of Carbon Dioxide** (2024)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

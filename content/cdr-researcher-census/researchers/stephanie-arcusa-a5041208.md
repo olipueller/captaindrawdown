@@ -1,7 +1,7 @@
 ---
 title: "Stéphanie Arcusa"
 description: "Stéphanie Arcusa is a Mid-career General CDR researcher. With 50 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.491957
+date: 2026-03-23T11:47:00.292264
 url: "/cdr-researcher-census/researchers/stephanie-arcusa-a5041208/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 8 |
 | Citations | 286 |
 | Publications | 50 |
-| CDR Focus | 18.0% |
+| CDR Focus | 800.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -49,25 +49,25 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    32 citations · General CDR
 
 2. **Snapshot of the Carbon Dioxide Removal Certification and Standards Ecosystem (2021-2022)** (2022)
-   4 citations · General CDR
+   4 citations
 
 3. **Intergenerational equity and responsibility: a call to internalize impermanence into certifying carbon sequestration** (2022)
-   3 citations · General CDR
+   3 citations
 
 4. **Definitions and mechanisms for managing durability and reversals in standards and procurers of carbon dioxide removal** (2024)
    2 citations · General CDR
 
 5. **Definitions and mechanisms for managing durability and reversals in standards and procurers of carbon dioxide removal** (2023)
-   2 citations · General CDR
+   2 citations
 
 6. **Terrestrial carbon removal activities, standards, certifications, and their expected durations** (2023)
    0 citations · General CDR
 
 7. **Intergenerational equity and responsibility: a call to internalize impermanence into certifying carbon sequestration** (2025)
-   0 citations · General CDR
+   0 citations
 
 8. **Snapshot of the Carbon Dioxide Removal certification and standards ecosystem (2021–2022)** (2022)
-   0 citations · General CDR
+   0 citations
 
 9. **Database of definitions and mechanisms for managing durability and reversals in standards of carbon dioxide removal** (2024)
    0 citations · General CDR

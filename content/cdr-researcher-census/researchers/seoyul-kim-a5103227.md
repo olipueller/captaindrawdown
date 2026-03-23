@@ -1,7 +1,7 @@
 ---
 title: "Seo‐Yul Kim"
-description: "Seo‐Yul Kim is an Early-career DAC researcher at Georgia Institute of Technology in US. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.408402
+description: "Seo‐Yul Kim is an Early-career carbon dioxide removal researcher at Georgia Institute of Technology in US. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.425261
 url: "/cdr-researcher-census/researchers/seoyul-kim-a5103227/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Georgia Institute of Technology · 🇺🇸 US
 
 **Career Stage:** Early-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,25 +39,25 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 4 |
 | Citations | 101 |
 | Publications | 10 |
-| CDR Focus | 50.0% |
+| CDR Focus | 5000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Near-cryogenic direct air capture using adsorbents** (2025)
-   15 citations · DAC
+   15 citations
 
 2. **Polymer‐Sorbent Direct Air Capture Contactors with Complex Geometries 3D‐Printed via Templated Phase Inversion** (2024)
-   10 citations · DAC
+   10 citations
 
 3. **Two keys to scalable direct air capture: water management and contactor productivity** (2025)
-   2 citations · DAC
+   2 citations
 
 4. **Electrically-operated sorbent-coated carbon fiber modules for direct air capture** (2025)
-   2 citations · DAC
+   2 citations
 
 5. **Polymer‐Sorbent Direct Air Capture Contactors with Complex Geometries 3D‐Printed via Templated Phase Inversion (Adv. Funct. Mater. 9/2025)** (2025)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

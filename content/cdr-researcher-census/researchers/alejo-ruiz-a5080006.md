@@ -1,7 +1,7 @@
 ---
 title: "Alejo Ruiz"
 description: "Alejo Ruiz is a Mid-career Soil Carbon researcher at Iowa State University in US. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.785119
+date: 2026-03-23T11:47:00.692328
 url: "/cdr-researcher-census/researchers/alejo-ruiz-a5080006/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 192 |
 | Publications | 18 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Historical increases in plant density increased vegetative maize biomass while breeding increased reproductive biomass and allocation to ear over stem** (2024)
-   18 citations · Soil Carbon
+   18 citations
 
 2. **Large increases in maize residue carbon inputs in the US Corn Belt from 1980 to 2020** (2025)
    0 citations · Soil Carbon

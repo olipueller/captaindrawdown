@@ -1,7 +1,7 @@
 ---
 title: "Do Yeong Kim"
-description: "Do Yeong Kim is a Senior DAC researcher at Kyungpook National University in KR. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.604003
+description: "Do Yeong Kim is a Senior carbon dioxide removal researcher at Kyungpook National University in KR. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.447881
 url: "/cdr-researcher-census/researchers/do-yeong-kim-a5113183/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Kyungpook National University · 🇰🇷 KR
 
 **Career Stage:** Senior
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,19 +36,19 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 9 |
 | Citations | 244 |
 | Publications | 19 |
-| CDR Focus | 15.8% |
+| CDR Focus | 1050.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Sodium cation exchanged zeolites for direct air capture of CO2** (2024)
-   14 citations · DAC
+   14 citations
 
 2. **Active metal cation exchanged in ZSM-5 for enhanced direct air capture of CO2** (2024)
-   11 citations · DAC
+   11 citations
 
 3. **Synergistic interaction between Ni and K2CO3 on γ-Al2O3 for integrated direct CO2 capture and methanation under varying humidity conditions** (2025)
-   3 citations · DAC
+   3 citations
 
 ## External Profiles
 

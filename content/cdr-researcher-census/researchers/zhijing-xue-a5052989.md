@@ -1,7 +1,7 @@
 ---
 title: "Zhijing Xue"
 description: "Zhijing Xue is a Mid-career Soil Carbon researcher at Shaanxi Normal University in CN. With 36 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.019585
+date: 2026-03-23T11:46:59.449374
 url: "/cdr-researcher-census/researchers/zhijing-xue-a5052989/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 15 |
 | Citations | 1,058 |
 | Publications | 36 |
-| CDR Focus | 13.9% |
+| CDR Focus | 1110.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    13 citations · Soil Carbon
 
 3. **[Advances in the research of transformation and stabilization of soil organic carbon from plant and microbe].** (2024)
-   8 citations · Soil Carbon
+   8 citations · General CDR
 
 4. **Is the Change of Soil Carbon Capacity Persistence Rising or Remain Stable With Maturity of Vegetation Restoration?** (2021)
    6 citations · Soil Carbon

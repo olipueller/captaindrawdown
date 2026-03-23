@@ -1,7 +1,7 @@
 ---
 title: "Amir-Ali Akhavi"
-description: "Amir-Ali Akhavi is a Mid-career DAC researcher at University of California, Riverside in US. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.775638
+description: "Amir-Ali Akhavi is a Mid-career General CDR researcher at University of California, Riverside in US. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.681317
 url: "/cdr-researcher-census/researchers/amir-ali-akhavi-a5076953/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ University of California, Riverside · 🇺🇸 US
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 5 |
 | Citations | 194 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Progress in carbon dioxide capture materials for deep decarbonization** (2022)
-   110 citations · DAC
+   110 citations · General CDR
 
 ## External Profiles
 

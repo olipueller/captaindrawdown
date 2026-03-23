@@ -1,7 +1,7 @@
 ---
 title: "A.R.G. Mason"
 description: "A.R.G. Mason is an Early-career Soil Carbon researcher at The University of Adelaide in AU. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.138112
+date: 2026-03-23T11:47:01.137020
 url: "/cdr-researcher-census/researchers/arg-mason-a5036915/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,19 +45,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 130 |
 | Publications | 7 |
-| CDR Focus | 57.1% |
+| CDR Focus | 5710.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Microbial solutions to soil carbon sequestration** (2023)
-   103 citations · Biochar
+   103 citations · Soil Carbon
 
 2. **Response of wheat to arbuscular mycorrhizal fungi inoculation and biochar application: Implications for soil carbon sequestration** (2024)
    9 citations · Biochar
 
 3. **Arbuscular mycorrhizal fungi inoculation and biochar application enhance soil carbon and productivity in wheat and barley** (2025)
-   7 citations · Biochar
+   7 citations · General CDR
 
 4. **Enhanced stabilisation of soil carbon via arbuscular mycorrhizal fungi and biochar** (2025)
    0 citations · Biochar

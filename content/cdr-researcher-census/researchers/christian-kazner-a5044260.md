@@ -1,7 +1,7 @@
 ---
 title: "Christian Kazner"
 description: "Christian Kazner is a Senior Biochar researcher at Bochum University of Applied Sciences in DE. With 41 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.042666
+date: 2026-03-23T11:46:59.499633
 url: "/cdr-researcher-census/researchers/christian-kazner-a5044260/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 15 |
 | Citations | 925 |
 | Publications | 41 |
-| CDR Focus | 12.2% |
+| CDR Focus | 730.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,13 +54,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    7 citations · Biochar
 
 3. **Retention of per- and polyfluoroalkyl substances (PFAS) and influencing factors by conventional and modified constructed wetlands treating municipal wastewater effluent** (2025)
-   6 citations · Biochar
+   6 citations
 
 4. **Retention of Per- and Polyfluoroalkyl Substances (Pfas) and Influencing Factors by Conventional and Modified Constructed Wetlands Treating Municipal Wastewater Effluent** (2025)
-   0 citations · Biochar
+   0 citations
 
 5. **Retention of Per- and Polyfluoroalkyl Substances (Pfas) and Influencing Factors by Conventional and Modified Constructed Wetlands Treating Municipal Wastewater Effluent** (2025)
-   0 citations · Biochar
+   0 citations
 
 ## External Profiles
 

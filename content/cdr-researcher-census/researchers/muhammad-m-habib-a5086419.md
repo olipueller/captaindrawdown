@@ -1,7 +1,7 @@
 ---
 title: "Muhammad M. Habib"
-description: "Muhammad M. Habib is a Mid-career Soil Carbon researcher at King Saud University in SA. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.212691
+description: "Muhammad M. Habib is a Mid-career General CDR researcher at King Saud University in SA. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.219273
 url: "/cdr-researcher-census/researchers/muhammad-m-habib-a5086419/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ King Saud University · 🇸🇦 SA
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 121 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Urban Parks and Native Trees: A Profitable Strategy for Carbon Sequestration and Climate Resilience** (2025)
-   2 citations · Soil Carbon
+   2 citations · General CDR
 
 ## External Profiles
 

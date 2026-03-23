@@ -1,7 +1,7 @@
 ---
 title: "Jinsen Zheng"
 description: "Jinsen Zheng is a Mid-career Soil Carbon researcher at Shenzhen University in CN. With 31 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.516512
+date: 2026-03-23T11:47:00.330788
 url: "/cdr-researcher-census/researchers/jinsen-zheng-a5074967/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 10 |
 | Citations | 277 |
 | Publications | 31 |
-| CDR Focus | 12.9% |
+| CDR Focus | 650.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    18 citations · Soil Carbon
 
 2. **Divergent effects of soil organic matter and carbonate on soil aggregation and structure in arid regions** (2025)
-   5 citations · Soil Carbon
+   5 citations
 
 3. **Cropland intensification mediates the radiative balance of greenhouse gas emissions and soil carbon sequestration in maize systems of sub-Saharan Africa** (2022)
    5 citations · Soil Carbon

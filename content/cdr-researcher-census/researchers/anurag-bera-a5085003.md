@@ -1,7 +1,7 @@
 ---
 title: "Anurag Bera"
 description: "Anurag Bera is a Mid-career Soil Carbon researcher. With 33 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.881805
+date: 2026-03-23T11:47:00.837739
 url: "/cdr-researcher-census/researchers/anurag-bera-a5085003/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 171 |
 | Publications | 33 |
-| CDR Focus | 12.1% |
+| CDR Focus | 910.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -49,7 +49,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    12 citations · Soil Carbon
 
 2. **Synergizing sustainability: a critical review on harnessing agroforestry for biomass, carbon sequestration, and water-food-energy nexus** (2024)
-   6 citations · Soil Carbon
+   6 citations · BECCS
 
 3. **The use of biochar to reduce carbon footprint: toward net zero emission from agriculture** (2024)
    1 citations · Biochar

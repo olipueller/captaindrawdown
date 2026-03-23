@@ -1,7 +1,7 @@
 ---
 title: "Kari Williams"
-description: "Kari Williams is a Senior General CDR researcher at Minneapolis Heart Institute Foundation in US. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.007250
+description: "Kari Williams is a Senior carbon dioxide removal researcher at Minneapolis Heart Institute Foundation in US. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.428763
 url: "/cdr-researcher-census/researchers/kari-williams-a5047937/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Minneapolis Heart Institute Foundation · 🇺🇸 US
 
 **Career Stage:** Senior
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 4 |
 | Citations | 1,124 |
 | Publications | 8 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Treatment of Severe Hypercapnic Respiratory Failure Caused by SARS-CoV-2 Lung Injury with ECCO2R Using the Hemolung Respiratory Assist System** (2021)
-   12 citations · General CDR
+   12 citations
 
 ## External Profiles
 

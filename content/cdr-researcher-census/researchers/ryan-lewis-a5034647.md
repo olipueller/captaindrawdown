@@ -1,7 +1,7 @@
 ---
 title: "Ryan Lewis"
 description: "Ryan Lewis is a Mid-career General CDR researcher at US Forest Service in US. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.351502
+date: 2026-03-23T11:47:00.055629
 url: "/cdr-researcher-census/researchers/ryan-lewis-a5034647/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 4 |
 | Citations | 370 |
 | Publications | 6 |
-| CDR Focus | 16.7% |
+| CDR Focus | 1670.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

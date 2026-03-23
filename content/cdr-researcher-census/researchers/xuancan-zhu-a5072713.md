@@ -1,7 +1,7 @@
 ---
 title: "Xuancan Zhu"
-description: "Xuancan Zhu is a Senior DAC researcher at Shanghai Jiao Tong University in CN. With 43 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.911472
+description: "Xuancan Zhu is a Senior General CDR researcher at Shanghai Jiao Tong University in CN. With 43 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.198607
 url: "/cdr-researcher-census/researchers/xuancan-zhu-a5072713/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Shanghai Jiao Tong University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,37 +45,37 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 21 |
 | Citations | 2,864 |
 | Publications | 43 |
-| CDR Focus | 53.5% |
+| CDR Focus | 4650.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Recent advances in direct air capture by adsorption** (2022)
-   387 citations · DAC
+   387 citations
 
 2. **Operating temperatures affect direct air capture of CO2 in polyamine-loaded mesoporous silica** (2021)
-   129 citations · DAC
+   129 citations
 
 3. **Mixed Diethanolamine and Polyethyleneimine with Enhanced CO<sub>2</sub> Capture Capacity from Air** (2023)
-   49 citations · DAC
+   49 citations
 
 4. **Modified layered double hydroxides for efficient and reversible carbon dioxide capture from air** (2021)
-   48 citations · DAC
+   48 citations
 
 5. **The analysis and evaluation of direct air capture adsorbents on the material characterization level** (2022)
-   47 citations · DAC
+   47 citations
 
 6. **Mixed polyamines promotes CO2 adsorption from air** (2022)
-   44 citations · DAC
+   44 citations
 
 7. **Facile synthesis of structured adsorbent with enhanced hydrophobicity and low energy consumption for CO2 capture from the air** (2023)
-   34 citations · DAC
+   34 citations
 
 8. **Additives enhancing supported amines performance in CO<sub>2</sub> capture from air** (2023)
-   28 citations · DAC
+   28 citations
 
 9. **Minimizing the effect of oxygen on supported polyamine for direct air capture** (2022)
-   26 citations · DAC
+   26 citations
 
 10. **Frontier science and challenges on offshore carbon storage** (2023)
    23 citations · General CDR

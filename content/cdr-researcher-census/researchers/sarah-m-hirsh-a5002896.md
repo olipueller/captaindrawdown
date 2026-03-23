@@ -1,7 +1,7 @@
 ---
 title: "Sarah M. Hirsh"
-description: "Sarah M. Hirsh is a Mid-career Enhanced Weathering researcher at University of Maryland Eastern Shore in US. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.288308
+description: "Sarah M. Hirsh is a Mid-career Soil Carbon researcher at University of Maryland Eastern Shore in US. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.300215
 url: "/cdr-researcher-census/researchers/sarah-m-hirsh-a5002896/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Maryland Eastern Shore · 🇺🇸 US
 
 ## CDR Specialization
 
-**Enhanced Weathering**
+**Soil Carbon**
 
-Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 4 |
 | Citations | 113 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Cover Crop Management to Reduce Nitrogen Leaching from Cropland: A Decade of Research in the Mid-Atlantic USA** (2025)
-   0 citations · Enhanced Weathering
+   0 citations · Soil Carbon
 
 ## External Profiles
 

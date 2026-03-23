@@ -1,7 +1,7 @@
 ---
 title: "Aiping Zhang"
-description: "Aiping Zhang is a Mid-career BECCS researcher at Shanghai Maritime University in CN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.886032
+description: "Aiping Zhang is a Mid-career carbon dioxide removal researcher at Shanghai Maritime University in CN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.843084
 url: "/cdr-researcher-census/researchers/aiping-zhang-a5114804/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Shanghai Maritime University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**BECCS**
-
-Combining biomass energy with carbon capture and storage to achieve negative emissions.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 5 |
 | Citations | 170 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **The implications for energy crops under China's climate change challenges** (2021)
-   23 citations · BECCS
+   23 citations
 
 ## External Profiles
 

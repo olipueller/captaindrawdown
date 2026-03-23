@@ -1,7 +1,7 @@
 ---
 title: "Yingting Gong"
 description: "Yingting Gong is a Mid-career Soil Carbon researcher at Guangdong Academy of Agricultural Sciences in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.433764
+date: 2026-03-23T11:47:00.193234
 url: "/cdr-researcher-census/researchers/yingting-gong-a5002724/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 316 |
 | Publications | 16 |
-| CDR Focus | 31.2% |
+| CDR Focus | 3120.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Response of soil carbon dioxide emissions to no-tillage and moldboard plow systems on Andosols in a humid, subtropical climate, Japan** (2021)
-   19 citations · Soil Carbon
+   19 citations
 
 2. **Addition of biochar decreased soil respiration in a permanent no-till cover crop system for organic soybean production** (2023)
    9 citations · Biochar

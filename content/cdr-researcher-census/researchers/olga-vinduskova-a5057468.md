@@ -1,7 +1,7 @@
 ---
 title: "Olga Vindušková"
 description: "Olga Vindušková is a Senior Soil Carbon researcher at Charles University in CZ. With 64 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.983564
+date: 2026-03-23T11:46:59.366189
 url: "/cdr-researcher-census/researchers/olga-vinduskova-a5057468/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 13 |
 | Citations | 1,339 |
 | Publications | 64 |
-| CDR Focus | 10.9% |
+| CDR Focus | 780.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    19 citations · Enhanced Weathering
 
 3. **KEYLINK: towards a more integrative soil representation for inclusion in ecosystem scale models—II: model description, implementation and testing** (2021)
-   16 citations · Soil Carbon
+   16 citations
 
 4. **Soil Carbon Sequestration and the Role of Earthworms in an Enhanced Weathering Mesocosm Experiment** (2023)
    6 citations · Enhanced Weathering
@@ -66,10 +66,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    3 citations · Enhanced Weathering
 
 6. **Predicting and Understanding Increased C Sequestration from Amf Inoculation of Corn, Using the Mcsim Process-Based Model** (2025)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 7. **Earthworms in an Enhanced Weathering Mesocosm Experiment:Effects on Soil Carbon Sequestration, Base Cation Exchange and Soil Co2 Efflux** (2024)
-   0 citations · Enhanced Weathering
+   0 citations
 
 ## External Profiles
 

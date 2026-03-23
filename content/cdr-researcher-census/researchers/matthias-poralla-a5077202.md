@@ -1,7 +1,7 @@
 ---
 title: "Matthias Poralla"
 description: "Matthias Poralla is an Early-career General CDR researcher at Climate Analytics in DE. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.844480
+date: 2026-03-23T11:47:00.788740
 url: "/cdr-researcher-census/researchers/matthias-poralla-a5077202/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 4 |
 | Citations | 178 |
 | Publications | 9 |
-| CDR Focus | 66.7% |
+| CDR Focus | 6670.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,10 +54,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    84 citations · General CDR
 
 2. **The ABC of Governance Principles for Carbon Dioxide Removal Policy** (2022)
-   41 citations · BECCS
+   41 citations · General CDR
 
 3. **International carbon markets for carbon dioxide removal** (2023)
-   40 citations · Biochar
+   40 citations · General CDR
 
 4. **Sewage treatment for the skies: mobilising carbon dioxide removal through public policies and private financing** (2021)
    5 citations · General CDR

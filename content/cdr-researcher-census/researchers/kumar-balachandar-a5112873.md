@@ -1,0 +1,59 @@
+---
+title: "Kumar Balachandar"
+description: "Kumar Balachandar is a Mid-career Ocean CDR researcher at Anna University, Chennai in IN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.851528
+url: "/cdr-researcher-census/researchers/kumar-balachandar-a5112873/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Kumar Balachandar",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/kumar-balachandar-a5112873/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Anna University, Chennai"
+  },
+  "sameAs": "https://openalex.org/A5112873259"
+}
+</script>
+
+## Profile
+
+**Kumar Balachandar**  
+Anna University, Chennai · 🇮🇳 IN
+
+**Career Stage:** Mid-career
+
+## CDR Specialization
+
+**Ocean CDR**
+
+Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 7 |
+| Citations | 169 |
+| Publications | 19 |
+| CDR Focus | 530.0% |
+| Trajectory | Exiting |
+
+## Top CDR Publications
+
+1. **Assessment of blue carbon in seagrass meadows in Pulicat Lake, Andhra Pradesh, India** (2023)
+   7 citations · Ocean CDR
+
+## External Profiles
+
+- [OpenAlex](https://openalex.org/A5112873259)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

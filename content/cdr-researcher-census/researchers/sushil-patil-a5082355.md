@@ -1,7 +1,7 @@
 ---
 title: "Sushil Patil"
 description: "Sushil Patil is a Mid-career Soil Carbon researcher at Abbott (India) in IN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.991526
+date: 2026-03-23T11:47:00.978223
 url: "/cdr-researcher-census/researchers/sushil-patil-a5082355/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 151 |
 | Publications | 17 |
-| CDR Focus | 11.8% |
+| CDR Focus | 1180.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    1 citations · Soil Carbon
 
 2. **Carbon stock and ecosystem benefits of shaded coffee systems in India: Implications for biodiversity and climate resilience** (2025)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

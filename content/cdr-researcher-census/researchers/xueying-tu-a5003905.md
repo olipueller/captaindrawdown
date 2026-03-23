@@ -1,7 +1,7 @@
 ---
 title: "Xueying Tu"
 description: "Xueying Tu is a Mid-career Soil Carbon researcher at Zhejiang A & F University in CN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.481229
+date: 2026-03-23T11:47:00.270172
 url: "/cdr-researcher-census/researchers/xueying-tu-a5003905/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 293 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Bingyao Ge"
 description: "Bingyao Ge is a Mid-career DAC researcher at North China Electric Power University in CN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.192135
+date: 2026-03-23T11:46:59.779542
 url: "/cdr-researcher-census/researchers/bingyao-ge-a5024012/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,34 +45,34 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 7 |
 | Citations | 542 |
 | Publications | 10 |
-| CDR Focus | 100.0% |
+| CDR Focus | 8000.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Recent advances in direct air capture by adsorption** (2022)
-   387 citations · DAC
+   387 citations
 
 2. **Mixed Diethanolamine and Polyethyleneimine with Enhanced CO<sub>2</sub> Capture Capacity from Air** (2023)
-   49 citations · DAC
+   49 citations
 
 3. **Additives enhancing supported amines performance in CO<sub>2</sub> capture from air** (2023)
-   28 citations · DAC
+   28 citations
 
 4. **Innovative process integrating high temperature heat pump and direct air capture** (2023)
-   21 citations · DAC
+   21 citations
 
 5. **3D printing of poly(ethyleneimine)-functionalized Mg-Al mixed metal oxide monoliths for direct air capture of CO2** (2024)
-   20 citations · DAC
+   20 citations
 
 6. **Enhancing adsorbent performance for direct air capture of CO2 by in-situ amine-grafting of layered double hydroxides** (2024)
-   16 citations · DAC
+   16 citations
 
 7. **Scalable Synthesis of Amine-Grafted Ultrafine Layered Double Hydroxide Nanosheets with Improved Carbon Dioxide Capture Capacity from Air** (2023)
-   12 citations · DAC
+   12 citations
 
 8. **Single-component and binary H2O and CO2 co-adsorption isotherm model on amine-functionalised Mg-Al mixed metal oxides** (2024)
-   5 citations · DAC
+   5 citations
 
 9. **Integrated power to methanol processes with steam-assisted direct air capture** (2025)
    4 citations · DAC

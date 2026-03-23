@@ -1,7 +1,7 @@
 ---
 title: "Tongshuo Bai"
-description: "Tongshuo Bai is a Mid-career Enhanced Weathering researcher at Nanjing Agricultural University in CN. With 36 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.990527
+description: "Tongshuo Bai is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 36 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.384253
 url: "/cdr-researcher-census/researchers/tongshuo-bai-a5016741/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Nanjing Agricultural University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Enhanced Weathering**
+**Soil Carbon**
 
-Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 16 |
 | Citations | 1,283 |
 | Publications | 36 |
-| CDR Focus | 27.8% |
+| CDR Focus | 1670.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -54,28 +54,28 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    66 citations · Soil Carbon
 
 2. **Moderate precipitation reduction enhances nitrogen cycling and soil nitrous oxide emissions in a semi‐arid grassland** (2023)
-   61 citations · Enhanced Weathering
+   61 citations · Soil Carbon
 
 3. **Climate change drivers alter root controls over litter decomposition in a semi-arid grassland** (2021)
-   41 citations · Soil Carbon
+   41 citations
 
 4. **Soil pH and precipitation controls on organic carbon retention from organic amendments across soil orders: A meta-analysis** (2025)
-   18 citations · Enhanced Weathering
+   18 citations · Soil Carbon
 
 5. **Precipitation increase promotes soil organic carbon formation and stability via the mycorrhizal fungal pathway** (2025)
    2 citations · Soil Carbon
 
 6. **Supplementary original data** (2023)
-   0 citations · Enhanced Weathering
+   0 citations · Soil Carbon
 
 7. **Supplementary original data** (2023)
-   0 citations · Enhanced Weathering
+   0 citations · Soil Carbon
 
 8. **Moderate precipitation reduction enhances nitrogen cycling and soil nitrous oxide emissions in a semi-arid grassland** (2023)
-   0 citations · Enhanced Weathering
+   0 citations
 
 9. **Data from: Moderate precipitation reduction enhances nitrogen cycling and soil nitrous oxide emissions in a semi-arid grassland** (2023)
-   0 citations · Enhanced Weathering
+   0 citations · Soil Carbon
 
 10. **Climate warming suppresses soil abundant fungal taxa and reduces soil carbon efflux in a semi-arid grassland** (2023)
    0 citations · Soil Carbon

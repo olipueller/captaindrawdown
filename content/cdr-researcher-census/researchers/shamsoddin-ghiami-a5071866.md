@@ -1,7 +1,7 @@
 ---
 title: "Shamsoddin Ghiami"
 description: "Shamsoddin Ghiami is a Mid-career BECCS researcher at Edinburgh Napier University in GB. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.689544
+date: 2026-03-23T11:47:00.567965
 url: "/cdr-researcher-census/researchers/shamsoddin-ghiami-a5071866/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 4 |
 | Citations | 217 |
 | Publications | 6 |
-| CDR Focus | 16.7% |
+| CDR Focus | 1670.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

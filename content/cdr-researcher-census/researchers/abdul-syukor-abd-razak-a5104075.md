@@ -1,7 +1,7 @@
 ---
 title: "Abdul Syukor Abd Razak"
 description: "Abdul Syukor Abd Razak is a Mid-career Biochar researcher at Universiti Malaysia Pahang Al-Sultan Abdullah in MY. With 11 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.030889
+date: 2026-03-23T11:46:59.472554
 url: "/cdr-researcher-census/researchers/abdul-syukor-abd-razak-a5104075/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 10 |
 | Citations | 987 |
 | Publications | 11 |
-| CDR Focus | 18.2% |
+| CDR Focus | 1820.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

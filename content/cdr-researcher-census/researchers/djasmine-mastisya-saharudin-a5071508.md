@@ -1,7 +1,7 @@
 ---
 title: "Djasmine Mastisya Saharudin"
-description: "Djasmine Mastisya Saharudin is an Early-career Biochar researcher at University of Manchester in GB. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.834260
+description: "Djasmine Mastisya Saharudin is an Early-career General CDR researcher at University of Manchester in GB. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.772655
 url: "/cdr-researcher-census/researchers/djasmine-mastisya-saharudin-a5071508/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Manchester · 🇬🇧 GB
 
 ## CDR Specialization
 
-**Biochar**
+**General CDR**
 
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 4 |
 | Citations | 181 |
 | Publications | 6 |
-| CDR Focus | 66.7% |
+| CDR Focus | 6670.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Environmental sustainability of negative emissions technologies: A review** (2022)
-   96 citations · BECCS
+   96 citations · General CDR
 
 2. **Biochar from agricultural wastes: Environmental sustainability, economic viability and the potential as a negative emissions technology in Malaysia** (2024)
    39 citations · Biochar

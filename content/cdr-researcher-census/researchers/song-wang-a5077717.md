@@ -1,7 +1,7 @@
 ---
 title: "Song Wang"
-description: "Song Wang is a Senior Soil Carbon researcher at Shanxi Medical University in CN. With 43 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.225916
+description: "Song Wang is a Senior General CDR researcher at Shanxi Medical University in CN. With 43 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.844448
 url: "/cdr-researcher-census/researchers/song-wang-a5077717/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Shanxi Medical University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,22 +45,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 13 |
 | Citations | 495 |
 | Publications | 43 |
-| CDR Focus | 11.6% |
+| CDR Focus | 930.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Temperature responses of ecosystem respiration** (2024)
-   76 citations · Soil Carbon
+   76 citations
 
 2. **Changing plant species composition and richness benefit soil carbon sequestration under climate warming** (2022)
-   25 citations · Soil Carbon
+   25 citations
 
 3. **Reparameterization Required After Model Structure Changes From Carbon Only to Carbon‐Nitrogen Coupling** (2022)
    25 citations · Soil Carbon
 
 4. **Experimental warming shifts coupling of carbon and nitrogen cycles in an alpine meadow** (2021)
-   23 citations · Soil Carbon
+   23 citations
 
 5. **The dynamic trajectory of carbon dioxide removal from terrestrial ecosystem restoration: A critical review** (2024)
    3 citations · General CDR

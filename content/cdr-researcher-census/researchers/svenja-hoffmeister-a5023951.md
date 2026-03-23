@@ -1,7 +1,7 @@
 ---
 title: "Svenja Hoffmeister"
 description: "Svenja Hoffmeister is a Mid-career Soil Carbon researcher at Karlsruhe Institute of Technology in DE. With 28 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.955439
+date: 2026-03-23T11:47:00.931083
 url: "/cdr-researcher-census/researchers/svenja-hoffmeister-a5023951/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,25 +45,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 157 |
 | Publications | 28 |
-| CDR Focus | 32.1% |
+| CDR Focus | 2500.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Hydrological and pedological effects of combining Italian alder and blackberries in an agroforestry windbreak system in South Africa** (2024)
-   4 citations · Soil Carbon
+   4 citations
 
 2. **Hydrological and pedological effects of combining Italian alder and blackberries in an agroforestry windbreak system in South Africa** (2023)
-   3 citations · Soil Carbon
+   3 citations
 
 3. **Multivariate characterisation of a blackberry–alder agroforestry system in South Africa: hydrological, pedological, dendrological and meteorological measurements** (2024)
-   2 citations · Soil Carbon
+   2 citations
 
 4. **Coupling of soil carbon and water cycles in two agroforestry systems in Malawi** (2025)
-   1 citations · Soil Carbon
+   1 citations · General CDR
 
 5. **Coupling of soil carbon and water dynamics in two agroforestry systems in Malawi** (2026)
-   0 citations · Soil Carbon
+   0 citations
 
 6. **Coupling of soil carbon and water dynamics in two agroforestry systems in Malawi** (2026)
    0 citations · Soil Carbon

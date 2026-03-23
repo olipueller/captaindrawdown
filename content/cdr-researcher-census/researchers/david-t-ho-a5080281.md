@@ -1,7 +1,7 @@
 ---
 title: "David T. Ho"
 description: "David T. Ho is an Eminent General CDR researcher at University of Hawaiʻi at Mānoa in US. With 179 publications and an h-index of 40, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.883719
+date: 2026-03-23T11:46:59.128310
 url: "/cdr-researcher-census/researchers/david-t-ho-a5080281/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 40 |
 | Citations | 5,468 |
 | Publications | 179 |
-| CDR Focus | 19.0% |
+| CDR Focus | 1450.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Toward a consensus framework to evaluate air–sea <scp>CO<sub>2</sub></scp> equilibration for marine <scp>CO<sub>2</sub></scp> removal** (2023)
-   74 citations · Enhanced Weathering
+   74 citations · General CDR
 
 2. **Carbon dioxide removal is not a current climate solution — we need to change the narrative** (2023)
    60 citations · General CDR
@@ -63,13 +63,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    41 citations · General CDR
 
 5. **Mapping the global variation in the efficiency of ocean alkalinity enhancement for carbon dioxide removal** (2024)
-   36 citations · General CDR
+   36 citations · Ocean CDR
 
 6. **Monitoring, Reporting, and Verification for Ocean Alkalinity Enhancement** (2023)
-   29 citations · General CDR
+   29 citations
 
 7. **Ocean dynamics and biological feedbacks limit the potential of macroalgae carbon dioxide removal** (2023)
-   27 citations · General CDR
+   27 citations · Ocean CDR
 
 8. **Deployment expectations of multi-gigatonne scale carbon removal could have adverse impacts on Asia’s energy-water-land nexus** (2024)
    22 citations · General CDR

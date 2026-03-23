@@ -1,7 +1,7 @@
 ---
 title: "Francielle Carvalho"
 description: "Francielle Carvalho is a Mid-career General CDR researcher at Universidade Federal do Rio de Janeiro in BR. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.481523
+date: 2026-03-23T11:47:00.270942
 url: "/cdr-researcher-census/researchers/francielle-carvalho-a5031780/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 8 |
 | Citations | 292 |
 | Publications | 14 |
-| CDR Focus | 21.4% |
+| CDR Focus | 1430.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

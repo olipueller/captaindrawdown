@@ -1,7 +1,7 @@
 ---
 title: "Changwei Zhuang"
-description: "Changwei Zhuang is a Senior Soil Carbon researcher at Guangdong Provincial Academy of Environmental Science in CN. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.113740
+description: "Changwei Zhuang is a Senior General CDR researcher at Guangdong Provincial Academy of Environmental Science in CN. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.638280
 url: "/cdr-researcher-census/researchers/changwei-zhuang-a5101242/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Guangdong Provincial Academy of Environmental Science · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,16 +42,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 10 |
 | Citations | 687 |
 | Publications | 17 |
-| CDR Focus | 17.6% |
+| CDR Focus | 1180.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Win-win-win pathway for ecological restoration by balancing hydrological, ecological, and agricultural dimensions: Contrasting lessons from highly eroded agroforestry** (2021)
-   34 citations · Soil Carbon
+   34 citations
 
 2. **Policy-driven co-evolution of the food–water–ecosystem–livelihood nexus in two ecosystem conservation hotspots in southern China** (2021)
-   20 citations · Soil Carbon
+   20 citations · General CDR
 
 3. **Effects of Forest Conversion on Soil Ecosystem Services in Liuxihe National Forest Park, China** (2022)
    3 citations · Soil Carbon

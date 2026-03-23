@@ -1,7 +1,7 @@
 ---
 title: "Mengfei Cong"
 description: "Mengfei Cong is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 24 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.446322
+date: 2026-03-23T11:47:00.214728
 url: "/cdr-researcher-census/researchers/mengfei-cong-a5020622/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 309 |
 | Publications | 24 |
-| CDR Focus | 37.5% |
+| CDR Focus | 3330.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

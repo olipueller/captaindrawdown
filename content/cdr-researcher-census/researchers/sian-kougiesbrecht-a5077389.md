@@ -1,7 +1,7 @@
 ---
 title: "Sian Kou‐Giesbrecht"
 description: "Sian Kou‐Giesbrecht is a Mid-career Soil Carbon researcher at Simon Fraser University in CA. With 75 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.057271
+date: 2026-03-23T11:46:59.533111
 url: "/cdr-researcher-census/researchers/sian-kougiesbrecht-a5077389/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 16 |
 | Citations | 857 |
 | Publications | 75 |
-| CDR Focus | 10.7% |
+| CDR Focus | 800.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -54,22 +54,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    48 citations · Soil Carbon
 
 2. **Evaluating nitrogen cycling in terrestrial biosphere models: a disconnect between the carbon and nitrogen cycles** (2023)
-   38 citations · Soil Carbon
+   38 citations · General CDR
 
 3. **Evaluating Nitrogen Cycling in Terrestrial Biosphere Models: Implications for the Future Terrestrial Carbon Sink** (2023)
-   3 citations · Soil Carbon
+   3 citations · General CDR
 
 4. **Nitrogen Cycling in Earth System Models: From Constraining Carbon Budgets to Projecting Pollution for Planetary Stewardship** (2025)
-   1 citations · Soil Carbon
+   1 citations · General CDR
 
 5. **Reply on RC3** (2023)
    0 citations · Soil Carbon
 
 6. **Reply on RC1** (2023)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 7. **Comment on egusphere-2023-167** (2023)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 8. **How do nitrogen-fixing trees influence the extent to which forests mitigate and exacerbate climate change?** (2021)
    0 citations · Soil Carbon

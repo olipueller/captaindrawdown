@@ -1,7 +1,7 @@
 ---
 title: "David Tokarski"
 description: "David Tokarski is a Mid-career Soil Carbon researcher at Hochschule für Technik und Wirtschaft Dresden – University of Applied Sciences in DE. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.506264
+date: 2026-03-23T11:47:00.316079
 url: "/cdr-researcher-census/researchers/david-tokarski-a5083394/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 281 |
 | Publications | 16 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

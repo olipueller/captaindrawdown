@@ -1,7 +1,7 @@
 ---
 title: "Carmen Li"
-description: "Carmen Li is a Mid-career BECCS researcher at University of Cambridge in GB. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.094237
+description: "Carmen Li is a Mid-career carbon dioxide removal researcher at University of Cambridge in GB. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.094874
 url: "/cdr-researcher-census/researchers/carmen-li-a5058104/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ University of Cambridge · 🇬🇧 GB
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**BECCS**
-
-Combining biomass energy with carbon capture and storage to achieve negative emissions.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 6 |
 | Citations | 135 |
 | Publications | 8 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Modelling flexibility requirements in deep decarbonisation scenarios: The role of conventional flexibility and sector coupling options in the European 2050 energy system** (2024)
-   25 citations · BECCS
+   25 citations
 
 ## External Profiles
 

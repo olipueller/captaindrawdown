@@ -1,7 +1,7 @@
 ---
 title: "J. L. Meshalkina"
 description: "J. L. Meshalkina is a Senior Soil Carbon researcher at Lomonosov Moscow State University in RU. With 67 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.495642
+date: 2026-03-23T11:47:00.298421
 url: "/cdr-researcher-census/researchers/j-l-meshalkina-a5041662/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 285 |
 | Publications | 67 |
-| CDR Focus | 10.4% |
+| CDR Focus | 900.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -54,10 +54,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    13 citations · Soil Carbon
 
 2. **Forecasting the Carbon Stock Dynamics in the Soils of Cultivated Croplands in European Russia in the Context of the Low-Carbon Development** (2023)
-   5 citations · Soil Carbon
+   5 citations · General CDR
 
 3. **Soil Organic Carbon Sequestration Potential Maps in the Russian Cropland** (2024)
-   1 citations · Soil Carbon
+   1 citations · General CDR
 
 4. **Assessment of the Most Important Carbon Pools in Moscow Oblast Mixed Forests** (2025)
    0 citations · Soil Carbon
@@ -66,10 +66,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    0 citations · Soil Carbon
 
 6. **Sensitivity Analysis of the RothC Model Using Two Climatic Datasets: A Case Study of Arable Soils in Rostov Oblast** (2024)
-   0 citations · Enhanced Weathering
+   0 citations · Soil Carbon
 
 7. **Map of Potential Sequestration of Carbon by Arable Soils in Rostov Oblast Updated Using Rosstat Data** (2024)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

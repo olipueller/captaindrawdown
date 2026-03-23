@@ -1,7 +1,7 @@
 ---
 title: "Alice McGlashan"
-description: "Alice McGlashan is an Early-career Soil Carbon researcher at Australian Government in AU. With 2 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.157819
+description: "Alice McGlashan is an Early-career General CDR researcher at Australian Government in AU. With 2 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.155871
 url: "/cdr-researcher-census/researchers/alice-mcglashan-a5059155/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Australian Government · 🇦🇺 AU
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 1 |
 | Citations | 128 |
 | Publications | 2 |
-| CDR Focus | 50.0% |
+| CDR Focus | 5000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **An Australian blue carbon method to estimate climate change mitigation benefits of coastal wetland restoration** (2022)
-   128 citations · Soil Carbon
+   128 citations · General CDR
 
 ## External Profiles
 

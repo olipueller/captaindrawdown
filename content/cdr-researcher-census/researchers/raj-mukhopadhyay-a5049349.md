@@ -1,7 +1,7 @@
 ---
 title: "Raj Mukhopadhyay"
 description: "Raj Mukhopadhyay is a Senior Soil Carbon researcher at Central Soil Salinity Research Institute in IN. With 68 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.903052
+date: 2026-03-23T11:46:59.179166
 url: "/cdr-researcher-census/researchers/raj-mukhopadhyay-a5049349/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,19 +45,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 25 |
 | Citations | 3,290 |
 | Publications | 68 |
-| CDR Focus | 10.3% |
+| CDR Focus | 880.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Biochar-microorganism interactions for organic pollutant remediation: Challenges and perspectives** (2022)
-   188 citations · BECCS
+   188 citations · Biochar
 
 2. **Natural and engineered clays and clay minerals for the removal of poly- and perfluoroalkyl substances from water: State-of-the-art and future perspectives** (2021)
-   122 citations · Biochar
+   122 citations
 
 3. **Synthesis and characterization of PCN-222 metal organic framework and its application for removing perfluorooctane sulfonate from water** (2023)
-   60 citations · Biochar
+   60 citations
 
 4. **Restoring soil quality and carbon sequestration potential of waterlogged saline land using subsurface drainage technology to achieve land degradation neutrality in India** (2023)
    28 citations · Soil Carbon
@@ -69,7 +69,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    5 citations · Soil Carbon
 
 7. **Carbon Sequestration in Aquaculture System** (2022)
-   2 citations · Biochar
+   2 citations · Soil Carbon
 
 ## External Profiles
 

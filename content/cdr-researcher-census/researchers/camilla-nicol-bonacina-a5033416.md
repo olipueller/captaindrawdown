@@ -1,7 +1,7 @@
 ---
 title: "Camilla Nicol Bonacina"
-description: "Camilla Nicol Bonacina is a Mid-career DAC researcher. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.306496
+description: "Camilla Nicol Bonacina is a Mid-career carbon dioxide removal researcher. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.320993
 url: "/cdr-researcher-census/researchers/camilla-nicol-bonacina-a5033416/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -27,12 +27,6 @@ robots: "index, follow"
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -40,13 +34,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 4 |
 | Citations | 111 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Techno-economic study of chimneyless electric arc furnace plants for the coproduction of steel and of electricity, hydrogen, or methanol** (2024)
-   11 citations · DAC
+   11 citations
 
 ## External Profiles
 

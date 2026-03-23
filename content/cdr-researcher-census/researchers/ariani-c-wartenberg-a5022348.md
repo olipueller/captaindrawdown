@@ -1,7 +1,7 @@
 ---
 title: "Ariani C. Wartenberg"
 description: "Ariani C. Wartenberg is a Mid-career Soil Carbon researcher. With 28 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.199421
+date: 2026-03-23T11:46:59.794589
 url: "/cdr-researcher-census/researchers/ariani-c-wartenberg-a5022348/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 12 |
 | Citations | 530 |
 | Publications | 28 |
-| CDR Focus | 10.7% |
+| CDR Focus | 710.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -49,7 +49,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    6 citations · Soil Carbon
 
 2. **Identifying drivers of change and predicting future land-use impacts in established farmlands** (2021)
-   0 citations · Soil Carbon
+   0 citations
 
 3. **Crop transitions can drive economic and ecological shifts in an established farming landscape: a case study from California** (2021)
    0 citations · Soil Carbon

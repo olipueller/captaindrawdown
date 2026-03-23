@@ -1,7 +1,7 @@
 ---
 title: "Paul Reginato"
 description: "Paul Reginato is a Mid-career General CDR researcher at Broad Institute in US. With 42 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.029286
+date: 2026-03-23T11:46:59.471025
 url: "/cdr-researcher-census/researchers/paul-reginato-a5086975/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 9 |
 | Citations | 991 |
 | Publications | 42 |
-| CDR Focus | 16.7% |
+| CDR Focus | 1430.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications

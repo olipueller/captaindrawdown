@@ -1,7 +1,7 @@
 ---
 title: "Catriona C. James"
-description: "Catriona C. James is a Mid-career DAC researcher at University of Amsterdam in NL. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.154049
+description: "Catriona C. James is a Mid-career carbon dioxide removal researcher at University of Amsterdam in NL. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.152390
 url: "/cdr-researcher-census/researchers/catriona-c-james-a5051837/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ University of Amsterdam · 🇳🇱 NL
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 6 |
 | Citations | 128 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Examining the Oxygen Tolerance of Mn(bpy)(CO)3Br in Electrochemical CO2 Conversion to CO and Formic Acid** (2025)
-   1 citations · DAC
+   1 citations
 
 ## External Profiles
 

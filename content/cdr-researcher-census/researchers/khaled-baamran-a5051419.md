@@ -1,7 +1,7 @@
 ---
 title: "Khaled Baamran"
 description: "Khaled Baamran is a Mid-career DAC researcher at Defense Logistics Agency in US. With 33 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.159177
+date: 2026-03-23T11:46:59.724080
 url: "/cdr-researcher-census/researchers/khaled-baamran-a5051419/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 16 |
 | Citations | 594 |
 | Publications | 33 |
-| CDR Focus | 27.3% |
+| CDR Focus | 1820.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -51,28 +51,28 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    48 citations · DAC
 
 2. **Formulation and processing of dual functional Adsorbent/Catalyst structured monoliths using an additively manufactured contactor for direct Capture/Conversion of CO2 with cogeneration of ethylene** (2021)
-   36 citations · DAC
+   36 citations
 
 3. **Adsorption-Enhanced Bifunctional Catalysts for In Situ CO<sub>2</sub> Capture and Utilization in Propylene Production: A Proof-Of-Concept Study** (2022)
-   33 citations · DAC
+   33 citations
 
 4. **Propylamine functionalized porous fiber sorbents with high oxidation stability for direct air capture** (2025)
-   4 citations · DAC
+   4 citations
 
 5. **Amine functionalized flat sheet porous polymer sorbents with oxidative degradation resistance for efficient low CO2 concentration capture applications** (2025)
-   0 citations · DAC
+   0 citations
 
 6. **Scalable High Performance Flat Sheet Adsorbents for Carbon Capture** (2025)
-   0 citations · DAC
+   0 citations
 
 7. **Propylamine Functionalized Porous Fiber Sorbents with High Oxidation Stability for Direct Air Capture** (2025)
-   0 citations · DAC
+   0 citations
 
 8. **Propylamine Functionalized Porous Fiber Sorbents with High Oxidation Stability for Direct Air Capture** (2025)
-   0 citations · DAC
+   0 citations
 
 9. **Propylamine Functionalized Porous Fiber Sorbents with High Oxidation Stability for Direct Air Capture** (2024)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

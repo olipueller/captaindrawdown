@@ -1,7 +1,7 @@
 ---
 title: "Yueru Fang"
 description: "Yueru Fang is a Mid-career Biochar researcher at North West Agriculture and Forestry University in CN. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.928345
+date: 2026-03-23T11:47:00.896506
 url: "/cdr-researcher-census/researchers/yueru-fang-a5043269/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 5 |
 | Citations | 162 |
 | Publications | 6 |
-| CDR Focus | 16.7% |
+| CDR Focus | 1670.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

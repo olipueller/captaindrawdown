@@ -1,7 +1,7 @@
 ---
 title: "Shuyu He"
-description: "Shuyu He is a Mid-career Soil Carbon researcher at Beijing Forestry University in CN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.354184
+description: "Shuyu He is a Mid-career General CDR researcher at Beijing Forestry University in CN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.368891
 url: "/cdr-researcher-census/researchers/shuyu-he-a5086280/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Beijing Forestry University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 107 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **[Identification of ecological functional zoning and its influencing factors in the Sihu Lake Basin, China].** (2023)
-   4 citations · Soil Carbon
+   4 citations · General CDR
 
 ## External Profiles
 

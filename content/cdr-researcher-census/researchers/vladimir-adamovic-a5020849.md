@@ -1,7 +1,7 @@
 ---
 title: "Vladimir Adamović"
 description: "Vladimir Adamović is a Mid-career Biochar researcher at Institute for Technology of Nuclear and other Mineral Raw Materials in RS. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.737670
+date: 2026-03-23T11:47:00.629886
 url: "/cdr-researcher-census/researchers/vladimir-adamovic-a5020849/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 6 |
 | Citations | 204 |
 | Publications | 19 |
-| CDR Focus | 10.5% |
+| CDR Focus | 530.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Thermochemical conversion of non-edible fruit waste for dye removal from wastewater** (2023)
-   8 citations · Biochar
+   8 citations
 
 2. **Application of biochar derived from sour cherry pit and kombucha scoby for the removal of lead (II) ions from wastewater** (2024)
    0 citations · Biochar

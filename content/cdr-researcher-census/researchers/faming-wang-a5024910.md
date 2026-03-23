@@ -1,7 +1,7 @@
 ---
 title: "Faming Wang"
 description: "Faming Wang is an Eminent Soil Carbon researcher at South China Botanical Garden in CN. With 194 publications and an h-index of 40, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.880529
+date: 2026-03-23T11:46:59.119224
 url: "/cdr-researcher-census/researchers/faming-wang-a5024910/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 40 |
 | Citations | 6,137 |
 | Publications | 194 |
-| CDR Focus | 12.9% |
+| CDR Focus | 930.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    94 citations · Soil Carbon
 
 2. **Contributions of plant‐ and microbial‐derived residuals to mangrove soil carbon stocks: Implications for blue carbon sequestration** (2024)
-   72 citations · Soil Carbon
+   72 citations · General CDR
 
 3. **Accumulation of glomalin‐related soil protein benefits soil carbon sequestration: Tropical coastal forest restoration experiences** (2022)
    41 citations · Soil Carbon
@@ -78,7 +78,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    23 citations · Soil Carbon
 
 10. **Blue carbon storage of tidal flats and salt marshes: A comparative assessment in two Chinese coastal areas** (2024)
-   16 citations · Soil Carbon
+   16 citations · Ocean CDR
 
 ## External Profiles
 

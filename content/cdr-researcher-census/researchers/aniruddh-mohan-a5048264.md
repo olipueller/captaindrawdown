@@ -1,7 +1,7 @@
 ---
 title: "Aniruddh Mohan"
-description: "Aniruddh Mohan is a Mid-career DAC researcher at Princeton University in US. With 30 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.442953
+description: "Aniruddh Mohan is a Mid-career General CDR researcher at Princeton University in US. With 30 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.209066
 url: "/cdr-researcher-census/researchers/aniruddh-mohan-a5048264/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Princeton University · 🇺🇸 US
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 9 |
 | Citations | 310 |
 | Publications | 30 |
-| CDR Focus | 23.3% |
+| CDR Focus | 1000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    13 citations · General CDR
 
 2. **Direct air capture integration with low-carbon heat: Process engineering and power system analysis** (2024)
-   9 citations · DAC
+   9 citations
 
 3. **Direct air capture with thermal energy storage: process design and electricity system impacts** (2025)
    1 citations · DAC
@@ -63,10 +63,10 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    0 citations · DAC
 
 5. **Author response for "Direct air capture with thermal energy storage: process design and electricity system impacts"** (2025)
-   0 citations · DAC
+   0 citations
 
 6. **Direct Air Capture Integration with Low-Carbon Heat: Process Engineering and Power System Analysis** (2023)
-   0 citations · DAC
+   0 citations
 
 7. **Direct Air Capture Integration with Low-Carbon Heat: Process Engineering and Power System Analysis** (2023)
    0 citations · DAC

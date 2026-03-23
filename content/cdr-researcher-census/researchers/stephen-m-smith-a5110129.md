@@ -1,7 +1,7 @@
 ---
 title: "Stephen M. Smith"
 description: "Stephen M. Smith is a Senior General CDR researcher at National Park Service in US. With 91 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.891319
+date: 2026-03-23T11:46:59.146646
 url: "/cdr-researcher-census/researchers/stephen-m-smith-a5110129/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 27 |
 | Citations | 4,317 |
 | Publications | 91 |
-| CDR Focus | 18.7% |
+| CDR Focus | 1430.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,10 +54,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    142 citations · General CDR
 
 3. **The carbon dioxide removal gap** (2024)
-   70 citations · BECCS
+   70 citations
 
 4. **Quantifying global carbon dioxide removal deployment** (2023)
-   52 citations · BECCS
+   52 citations · DAC
 
 5. **Near-term deployment of novel carbon removal to facilitate longer-term deployment** (2023)
    41 citations · General CDR

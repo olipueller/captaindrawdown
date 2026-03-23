@@ -1,7 +1,7 @@
 ---
 title: "Jessica A. Drysdale"
-description: "Jessica A. Drysdale is a Senior Ocean CDR researcher at Woods Hole Oceanographic Institution in US. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.501731
+description: "Jessica A. Drysdale is a Senior General CDR researcher at Woods Hole Oceanographic Institution in US. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.309384
 url: "/cdr-researcher-census/researchers/jessica-a-drysdale-a5070888/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Woods Hole Oceanographic Institution · 🇺🇸 US
 
 ## CDR Specialization
 
-**Ocean CDR**
+**General CDR**
 
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 8 |
 | Citations | 282 |
 | Publications | 19 |
-| CDR Focus | 10.5% |
+| CDR Focus | 1050.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

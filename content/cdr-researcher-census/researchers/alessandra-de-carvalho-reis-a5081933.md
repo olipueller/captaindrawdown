@@ -1,7 +1,7 @@
 ---
 title: "Alessandra de Carvalho Reis"
-description: "Alessandra de Carvalho Reis is a Mid-career DAC researcher at Universidade Federal do Rio de Janeiro in BR. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.216802
+description: "Alessandra de Carvalho Reis is a Mid-career carbon dioxide removal researcher at Universidade Federal do Rio de Janeiro in BR. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.224346
 url: "/cdr-researcher-census/researchers/alessandra-de-carvalho-reis-a5081933/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Universidade Federal do Rio de Janeiro · 🇧🇷 BR
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,16 +39,16 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 3 |
 | Citations | 120 |
 | Publications | 8 |
-| CDR Focus | 25.0% |
+| CDR Focus | 1250.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Supercritical Direct-Methane-to-Methanol Coupled with Gas-to-Wire for Low-Emission Offshore Processing of CO2-Rich Natural Gas: Techno-Economic and Thermodynamic Analyses** (2024)
-   3 citations · DAC
+   3 citations
 
 2. **Thermodynamic Analysis of Direct Methane-to-Methanol Processes** (2024)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

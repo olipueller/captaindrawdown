@@ -1,7 +1,7 @@
 ---
 title: "Ramiro Saavedra-Romero"
-description: "Ramiro Saavedra-Romero is a Mid-career General CDR researcher. With 28 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.879617
+description: "Ramiro Saavedra-Romero is a Mid-career carbon dioxide removal researcher. With 28 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.835078
 url: "/cdr-researcher-census/researchers/ramiro-saavedra-romero-a5017657/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -27,12 +27,6 @@ robots: "index, follow"
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -40,19 +34,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 8 |
 | Citations | 171 |
 | Publications | 28 |
-| CDR Focus | 10.7% |
+| CDR Focus | 710.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Extracorporeal Carbon Dioxide Removal to Avoid Invasive Ventilation During Exacerbations of Chronic Obstructive Pulmonary Disease: VENT-AVOID Trial – A Randomized Clinical Trial** (2024)
-   17 citations · General CDR
+   17 citations
 
 2. **Treatment of Severe Hypercapnic Respiratory Failure Caused by SARS-CoV-2 Lung Injury with ECCO2R Using the Hemolung Respiratory Assist System** (2021)
-   12 citations · General CDR
+   12 citations
 
 3. **Low-flow Respiratory Dialysis System to Improve Refractory Hypercarbic Respiratory Acidosis in COVID-19** (2021)
-   0 citations · General CDR
+   0 citations
 
 ## External Profiles
 

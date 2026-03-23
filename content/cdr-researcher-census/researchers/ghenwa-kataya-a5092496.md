@@ -1,7 +1,7 @@
 ---
 title: "Ghenwa Kataya"
 description: "Ghenwa Kataya is a Mid-career Biochar researcher at École Nationale Supérieure de Chimie de Montpellier in FR. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.851506
+date: 2026-03-23T11:47:00.797329
 url: "/cdr-researcher-census/researchers/ghenwa-kataya-a5092496/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 5 |
 | Citations | 177 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Shamal Shasang Kumar"
-description: "Shamal Shasang Kumar is a Mid-career Soil Carbon researcher. With 34 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.195538
+description: "Shamal Shasang Kumar is a Mid-career General CDR researcher. With 34 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.788397
 url: "/cdr-researcher-census/researchers/shamal-shasang-kumar-a5101782/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,9 +29,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -40,13 +40,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 10 |
 | Citations | 535 |
 | Publications | 34 |
-| CDR Focus | 11.8% |
+| CDR Focus | 1180.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Multi-scale processes influencing global carbon storage and land-carbon-climate nexus: A critical review** (2022)
-   74 citations · Soil Carbon
+   74 citations · General CDR
 
 2. **Pyrolyzed and unpyrolyzed residues enhance maize yield under varying rates of application and fertilization regimes** (2024)
    2 citations · Biochar
@@ -55,7 +55,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    1 citations · Biochar
 
 4. **Prospects of the sugarcane industry in Fiji for carbon sequestration and environmental sustainability amidst changing climate: a critical overview** (2024)
-   1 citations · Biochar
+   1 citations · General CDR
 
 ## External Profiles
 

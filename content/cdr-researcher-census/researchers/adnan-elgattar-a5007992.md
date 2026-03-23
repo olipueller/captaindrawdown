@@ -1,7 +1,7 @@
 ---
 title: "Adnan Elgattar"
-description: "Adnan Elgattar is a Mid-career DAC researcher at Florida Institute of Technology in US. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.265359
+description: "Adnan Elgattar is a Mid-career carbon dioxide removal researcher at Florida Institute of Technology in US. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.277805
 url: "/cdr-researcher-census/researchers/adnan-elgattar-a5007992/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Florida Institute of Technology · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,16 +39,16 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 7 |
 | Citations | 115 |
 | Publications | 11 |
-| CDR Focus | 18.2% |
+| CDR Focus | 910.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Photochemically‐Driven CO<sub>2</sub> Release Using a Metastable‐State Photoacid for Energy Efficient Direct Air Capture** (2023)
-   37 citations · DAC
+   37 citations
 
 2. **Photochemically‐Driven CO<sub>2</sub> Release Using a Metastable‐State Photoacid for Energy Efficient Direct Air Capture** (2023)
-   6 citations · DAC
+   6 citations
 
 ## External Profiles
 

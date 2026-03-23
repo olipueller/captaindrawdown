@@ -1,7 +1,7 @@
 ---
 title: "Juan Pablo Almeida"
 description: "Juan Pablo Almeida is a Mid-career Soil Carbon researcher at Lund University in SE. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.641023
+date: 2026-03-23T11:47:00.502944
 url: "/cdr-researcher-census/researchers/juan-pablo-almeida-a5046000/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 231 |
 | Publications | 22 |
-| CDR Focus | 22.7% |
+| CDR Focus | 1820.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -63,7 +63,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    0 citations · Soil Carbon
 
 5. **Nitrophobic ectomycorrhizal fungi are associated with enhanced hydrophobicity of soil organic matter in a Norway spruce forest** (2022)
-   0 citations · Soil Carbon
+   0 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Bronach Healy"
-description: "Bronach Healy is a Mid-career Biochar researcher at National University of Ireland, Maynooth in IE. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.199872
+description: "Bronach Healy is a Mid-career carbon dioxide removal researcher at National University of Ireland, Maynooth in IE. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.795084
 url: "/cdr-researcher-census/researchers/bronach-healy-a5110738/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ National University of Ireland, Maynooth ·  IE
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Biochar**
-
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 5 |
 | Citations | 529 |
 | Publications | 5 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Recent Developments in Chitosan-Based Adsorbents for the Removal of Pollutants from Aqueous Environments** (2021)
-   338 citations · Biochar
+   338 citations
 
 ## External Profiles
 

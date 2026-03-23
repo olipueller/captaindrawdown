@@ -1,7 +1,7 @@
 ---
 title: "Lihua Ma"
 description: "Lihua Ma is a Senior Soil Carbon researcher at Southwest University in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.908598
+date: 2026-03-23T11:47:00.872344
 url: "/cdr-researcher-census/researchers/lihua-ma-a5100954/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 166 |
 | Publications | 16 |
-| CDR Focus | 18.8% |
+| CDR Focus | 1880.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    37 citations · Soil Carbon
 
 2. **Ecosystem service interactions and their driving factors based on a geospatially explainable framework: A case study in the Yangtze River Basin, China** (2026)
-   0 citations · Soil Carbon
+   0 citations
 
 3. **Influence of Organic Fertilization on Soil Organic Matter Erosion Loss from Slope Croplands** (2024)
    0 citations · Soil Carbon

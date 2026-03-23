@@ -1,7 +1,7 @@
 ---
 title: "Glory A. Russell-Parks"
-description: "Glory A. Russell-Parks is a Mid-career DAC researcher at National Renewable Energy Laboratory in US. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.146022
+description: "Glory A. Russell-Parks is a Mid-career carbon dioxide removal researcher at National Renewable Energy Laboratory in US. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.143130
 url: "/cdr-researcher-census/researchers/glory-a-russell-parks-a5086017/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ National Renewable Energy Laboratory · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,16 +39,16 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 6 |
 | Citations | 129 |
 | Publications | 9 |
-| CDR Focus | 22.2% |
+| CDR Focus | 2220.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Fundamental Insight into Humid CO <sub>2</sub> Uptake in Direct Air Capture Nanocomposites Using Fluorescence and Portable NMR Relaxometry** (2023)
-   25 citations · DAC
+   25 citations
 
 2. **Fluorescent Probe of Aminopolymer Mobility in Bulk and in Nanoconfined Direct Air CO<sub>2</sub> Capture Supports** (2022)
-   16 citations · DAC
+   16 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "J. M. Narvel"
-description: "J. M. Narvel is a Senior Soil Carbon researcher at Bayer (United States) in US. With 9 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.328730
+description: "J. M. Narvel is a Senior carbon dioxide removal researcher at Bayer (United States) in US. With 9 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.016248
 url: "/cdr-researcher-census/researchers/j-m-narvel-a5111964/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Bayer (United States) · 🇺🇸 US
 
 **Career Stage:** Senior
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 391 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Historical increases in plant density increased vegetative maize biomass while breeding increased reproductive biomass and allocation to ear over stem** (2024)
-   18 citations · Soil Carbon
+   18 citations
 
 ## External Profiles
 

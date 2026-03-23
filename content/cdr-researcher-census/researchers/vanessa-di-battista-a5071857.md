@@ -1,7 +1,7 @@
 ---
 title: "Vanessa Di Battista"
-description: "Vanessa Di Battista is a Mid-career General CDR researcher at Université de Sherbrooke in CA. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.207843
+description: "Vanessa Di Battista is a Mid-career carbon dioxide removal researcher at Université de Sherbrooke in CA. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.214574
 url: "/cdr-researcher-census/researchers/vanessa-di-battista-a5071857/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Université de Sherbrooke · 🇨🇦 CA
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,16 +36,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 4 |
 | Citations | 121 |
 | Publications | 13 |
-| CDR Focus | 15.4% |
+| CDR Focus | 770.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Numerical investigation of gas distribution layer (GDL) influence on methane removal efficiency in engineered methane oxidation biosystems (MOBs)** (2025)
-   0 citations · General CDR
+   0 citations
 
 2. **Numerical Investigation of Gas Distribution Layer (Gdl) Influence on Methane Removal Efficiency in Engineered Methane Oxidation Biosystems (Mobs)** (2025)
-   0 citations · General CDR
+   0 citations
 
 ## External Profiles
 

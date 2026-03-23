@@ -1,7 +1,7 @@
 ---
 title: "Guoyin Chen"
 description: "Guoyin Chen is a Mid-career Soil Carbon researcher at South China Botanical Garden in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.162158
+date: 2026-03-23T11:46:59.728853
 url: "/cdr-researcher-census/researchers/guoyin-chen-a5058746/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 589 |
 | Publications | 19 |
-| CDR Focus | 26.3% |
+| CDR Focus | 1580.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Increased interactions between iron oxides and organic carbon under acid deposition drive large increases in soil organic carbon in a tropical forest in southern China** (2022)
-   20 citations · Enhanced Weathering
+   20 citations · Soil Carbon
 
 2. **Soil Organic Carbon Sequestration after 20-Year Afforestation of Mangrove Plantations on Qi’ao Island, Southern China** (2023)
    7 citations · Soil Carbon
@@ -63,7 +63,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    1 citations · Soil Carbon
 
 5. **Increased Iron-Carbon Interactions Under Long-Term Acid Deposition Enhance Soil Organic Carbon Sequestration in A Tropical Forest in Southern China** (2021)
-   1 citations · Enhanced Weathering
+   1 citations · Soil Carbon
 
 ## External Profiles
 

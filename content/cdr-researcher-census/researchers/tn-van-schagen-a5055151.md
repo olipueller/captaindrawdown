@@ -1,7 +1,7 @@
 ---
 title: "T.N. van Schagen"
-description: "T.N. van Schagen is an Early-career DAC researcher at University of Twente in NL. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.135541
+description: "T.N. van Schagen is an Early-career carbon dioxide removal researcher at University of Twente in NL. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.135359
 url: "/cdr-researcher-census/researchers/tn-van-schagen-a5055151/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ University of Twente · 🇳🇱 NL
 
 **Career Stage:** Early-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,22 +39,22 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 4 |
 | Citations | 130 |
 | Publications | 7 |
-| CDR Focus | 57.1% |
+| CDR Focus | 4290.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Process optimization of a fixed bed reactor system for direct air capture** (2021)
-   76 citations · DAC
+   76 citations
 
 2. **Development of a novel, through-flow microwave-based regenerator for sorbent-based direct air capture** (2021)
-   35 citations · DAC
+   35 citations
 
 3. **1D Modeling Approach for Heat Transfer in Packed Beds with Embedded Heat Sources** (2023)
-   5 citations · DAC
+   5 citations
 
 4. **Process Optimization of a Fixed Bed Reactor System for Direct Air Capture** (2021)
-   2 citations · DAC
+   2 citations
 
 ## External Profiles
 

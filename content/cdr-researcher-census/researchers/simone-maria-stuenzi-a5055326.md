@@ -1,7 +1,7 @@
 ---
 title: "Simone Maria Stuenzi"
 description: "Simone Maria Stuenzi is a Mid-career Soil Carbon researcher at Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung in DE. With 30 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.399542
+date: 2026-03-23T11:47:00.132269
 url: "/cdr-researcher-census/researchers/simone-maria-stuenzi-a5055326/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 11 |
 | Citations | 338 |
 | Publications | 30 |
-| CDR Focus | 13.3% |
+| CDR Focus | 1000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,13 +54,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    13 citations · Soil Carbon
 
 2. **Novel coupled permafrost-forest model revealing the interplay between permafrost, vegetation, and climate across eastern Siberia** (2021)
-   3 citations · Soil Carbon
+   3 citations
 
 3. **Canopy-Mediated Climate Feedbacks in the Boreal Continuous Permafrost Zone** (2025)
    0 citations · Soil Carbon
 
 4. **Comment on gmd-2021-304** (2021)
-   0 citations · Soil Carbon
+   0 citations
 
 ## External Profiles
 

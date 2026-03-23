@@ -1,7 +1,7 @@
 ---
 title: "Barbara Maco"
-description: "Barbara Maco is a Mid-career Soil Carbon researcher at National Institute for Research and Development in Environmental Protection in RO. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.139600
+description: "Barbara Maco is a Mid-career Biochar researcher at National Institute for Research and Development in Environmental Protection in RO. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.138409
 url: "/cdr-researcher-census/researchers/barbara-maco-a5017432/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ National Institute for Research and Development in Environmental Protection ·  
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 130 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

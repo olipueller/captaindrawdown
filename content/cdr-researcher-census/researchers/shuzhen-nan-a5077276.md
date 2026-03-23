@@ -1,7 +1,7 @@
 ---
 title: "Shuzhen Nan"
 description: "Shuzhen Nan is a Mid-career Soil Carbon researcher at Qinghai University in CN. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.584969
+date: 2026-03-23T11:47:00.426453
 url: "/cdr-researcher-census/researchers/shuzhen-nan-a5077276/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 10 |
 | Citations | 251 |
 | Publications | 19 |
-| CDR Focus | 10.5% |
+| CDR Focus | 530.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Conversion of SIC to SOC enhances soil carbon sequestration and soil structural stability in alpine ecosystems of the Qinghai-Tibet Plateau** (2024)
-   42 citations · Soil Carbon
+   42 citations
 
 2. **Conversion of Sic to SOC Enhances Soil Carbon Sequestration and Soil Structural Stability in Alpine Ecosystems of the Qinghai-Tibet Plateau** (2023)
    1 citations · Soil Carbon

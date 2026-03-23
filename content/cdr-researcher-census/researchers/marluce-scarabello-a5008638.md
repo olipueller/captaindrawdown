@@ -1,7 +1,7 @@
 ---
 title: "Marluce Scarabello"
-description: "Marluce Scarabello is a Mid-career BECCS researcher. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.521064
+description: "Marluce Scarabello is a Mid-career General CDR researcher. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.337832
 url: "/cdr-researcher-census/researchers/marluce-scarabello-a5008638/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,9 +29,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**BECCS**
+**General CDR**
 
-Combining biomass energy with carbon capture and storage to achieve negative emissions.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -40,16 +40,16 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 6 |
 | Citations | 275 |
 | Publications | 17 |
-| CDR Focus | 11.8% |
+| CDR Focus | 1180.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Nature‐based solutions are critical for putting Brazil on track towards net‐zero emissions by 2050** (2023)
-   27 citations · BECCS
+   27 citations · General CDR
 
 2. **Nature-Based Solutions Are Critical for Putting Brazil on Track Towards Net Zero** (2022)
-   3 citations · BECCS
+   3 citations · General CDR
 
 ## External Profiles
 

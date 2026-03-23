@@ -1,7 +1,7 @@
 ---
 title: "E.A. Owusu"
-description: "E.A. Owusu is a Senior Soil Carbon researcher at New Mexico Institute of Mining and Technology in US. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.223097
+description: "E.A. Owusu is a Senior Enhanced Weathering researcher at New Mexico Institute of Mining and Technology in US. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.230705
 url: "/cdr-researcher-census/researchers/ea-owusu-a5059771/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ New Mexico Institute of Mining and Technology · 🇺🇸 US
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Enhanced Weathering**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 3 |
 | Citations | 120 |
 | Publications | 8 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Carbon Mineralization in Basaltic Rocks: Mechanisms, Applications, and Prospects for Permanent CO2 Sequestration** (2025)
-   7 citations · Soil Carbon
+   7 citations · Enhanced Weathering
 
 ## External Profiles
 

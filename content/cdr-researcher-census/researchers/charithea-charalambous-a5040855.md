@@ -1,7 +1,7 @@
 ---
 title: "Charithea Charalambous"
-description: "Charithea Charalambous is a Mid-career DAC researcher at Rocky Mountain Institute in US. With 47 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.042357
+description: "Charithea Charalambous is a Mid-career General CDR researcher at Rocky Mountain Institute in US. With 47 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.498756
 url: "/cdr-researcher-census/researchers/charithea-charalambous-a5040855/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Rocky Mountain Institute · 🇺🇸 US
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 13 |
 | Citations | 926 |
 | Publications | 47 |
-| CDR Focus | 21.3% |
+| CDR Focus | 850.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -54,28 +54,28 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    169 citations · DAC
 
 2. **A roadmap for achieving scalable, safe, and low-cost direct air carbon capture and storage** (2023)
-   88 citations · DAC
+   88 citations
 
 3. **The cost of direct air capture and storage: the impact of technological learning, regional diversity, and policy.** (2022)
-   12 citations · DAC
+   12 citations
 
 4. **The cost of direct air capture and storage: the impact of technological learning, regional diversity, and policy.** (2022)
    5 citations · DAC
 
 5. **The cost of direct air capture and storage: the impact of technological learning, regional diversity, and policy.** (2022)
-   4 citations · DAC
+   4 citations
 
 6. **Breaking Barriers in Carbon Dioxide Removal with Electrochemistry** (2025)
-   3 citations · DAC
+   3 citations · General CDR
 
 7. **A Roadmap for Achieving Scalable, Safe, and Low-cost Direct Air Carbon Capture and Storage** (2023)
-   3 citations · DAC
+   3 citations
 
 8. **A Roadmap for Achieving Scalable, Safe, and Low-cost Direct Air Carbon Capture and Storage** (2023)
-   3 citations · DAC
+   3 citations
 
 9. **A Roadmap for Achieving Scalable, Safe, and Low-cost Direct Air Carbon Capture and Storage** (2023)
-   1 citations · DAC
+   1 citations
 
 10. **Driving down the cost of direct air capture with intelligent policy design and technology deployment** (2022)
    0 citations · DAC

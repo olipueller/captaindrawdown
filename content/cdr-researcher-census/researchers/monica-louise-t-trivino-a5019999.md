@@ -1,7 +1,7 @@
 ---
 title: "Monica Louise T. Triviño"
-description: "Monica Louise T. Triviño is a Mid-career DAC researcher at Technology Innovation Institute in AE. With 9 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.601408
+description: "Monica Louise T. Triviño is a Mid-career carbon dioxide removal researcher at Technology Innovation Institute in AE. With 9 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.444703
 url: "/cdr-researcher-census/researchers/monica-louise-t-trivino-a5019999/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Technology Innovation Institute · 🇦🇪 AE
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 8 |
 | Citations | 245 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Ti(OH)4-assisted amine-modified silica aerogels for enhancing CO2 adsorption capacity and amine efficiency** (2025)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

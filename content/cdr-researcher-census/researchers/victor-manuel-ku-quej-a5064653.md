@@ -1,7 +1,7 @@
 ---
 title: "Víctor Manuel Kú-Quej"
 description: "Víctor Manuel Kú-Quej is a Mid-career Soil Carbon researcher at El Colegio de la Frontera Sur in MX. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.040892
+date: 2026-03-23T11:46:59.495886
 url: "/cdr-researcher-census/researchers/victor-manuel-ku-quej-a5064653/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 935 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

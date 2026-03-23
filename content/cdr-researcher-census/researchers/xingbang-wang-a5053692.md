@@ -1,7 +1,7 @@
 ---
 title: "Xingbang Wang"
 description: "Xingbang Wang is a Mid-career Soil Carbon researcher at Southwest University in CN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.483235
+date: 2026-03-23T11:47:00.274376
 url: "/cdr-researcher-census/researchers/xingbang-wang-a5053692/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 292 |
 | Publications | 20 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Gaurav Ganti"
 description: "Gaurav Ganti is a Mid-career General CDR researcher at International Institute for Applied Systems Analysis in AT. With 42 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.171622
+date: 2026-03-23T11:46:59.743775
 url: "/cdr-researcher-census/researchers/gaurav-ganti-a5002533/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 9 |
 | Citations | 575 |
 | Publications | 42 |
-| CDR Focus | 40.5% |
+| CDR Focus | 3100.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -60,13 +60,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    31 citations · DAC
 
 4. **Evaluating the near- and long-term role of carbon dioxide removal in meeting global climate objectives** (2024)
-   27 citations · DAC
+   27 citations · General CDR
 
 5. **An emission pathway classification reflecting the Paris Agreement climate objectives** (2022)
-   10 citations · General CDR
+   10 citations
 
 6. **Overconfidence in climate overshoot** (2023)
-   7 citations · General CDR
+   7 citations
 
 7. **Carbon dioxide removal deployment consistent with global climate objectives** (2024)
    6 citations · General CDR
@@ -75,7 +75,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    4 citations · General CDR
 
 9. **Fairness and feasibility in deep mitigation pathways with novel carbon dioxide removal considering institutional capacity to mitigate** (2023)
-   3 citations · DAC
+   3 citations
 
 10. **Biodiversity implications of land-intensive carbon dioxide removal** (2026)
    0 citations · BECCS

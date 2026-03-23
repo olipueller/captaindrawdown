@@ -1,7 +1,7 @@
 ---
 title: "Xingjian Dun"
 description: "Xingjian Dun is a Mid-career Soil Carbon researcher at Shandong Academy of Forestry in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.712729
+date: 2026-03-23T11:47:00.598157
 url: "/cdr-researcher-census/researchers/xingjian-dun-a5087511/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 211 |
 | Publications | 17 |
-| CDR Focus | 41.2% |
+| CDR Focus | 4120.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

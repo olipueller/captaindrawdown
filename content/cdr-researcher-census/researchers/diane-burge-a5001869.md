@@ -1,7 +1,7 @@
 ---
 title: "Diane Bürge"
-description: "Diane Bürge is a Mid-career General CDR researcher at Agroscope in CH. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.321341
+description: "Diane Bürge is a Mid-career Biochar researcher at Agroscope in CH. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.006247
 url: "/cdr-researcher-census/researchers/diane-burge-a5001869/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Agroscope · 🇨🇭 CH
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -42,7 +42,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 5 |
 | Citations | 394 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

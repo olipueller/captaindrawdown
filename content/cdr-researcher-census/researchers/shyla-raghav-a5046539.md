@@ -1,7 +1,7 @@
 ---
 title: "Shyla Raghav"
-description: "Shyla Raghav is a Mid-career Soil Carbon researcher at Conservation International in US. With 3 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.849459
+description: "Shyla Raghav is a Mid-career General CDR researcher at Conservation International in US. With 3 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.794671
 url: "/cdr-researcher-census/researchers/shyla-raghav-a5046539/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Conservation International · 🇺🇸 US
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 1 |
 | Citations | 178 |
 | Publications | 3 |
-| CDR Focus | 33.3% |
+| CDR Focus | 3330.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Irrecoverable Carbon: The places we must protect to avert climate catastrophe** (2021)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

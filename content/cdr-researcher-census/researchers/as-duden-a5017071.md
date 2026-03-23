@@ -1,7 +1,7 @@
 ---
 title: "A.S. Duden"
 description: "A.S. Duden is a Mid-career BECCS researcher at Utrecht University in NL. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.010088
+date: 2026-03-23T11:47:00.999167
 url: "/cdr-researcher-census/researchers/as-duden-a5017071/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 5 |
 | Citations | 148 |
 | Publications | 16 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "José González"
 description: "José González is a Senior Ocean CDR researcher at Universidade de Vigo in ES. With 39 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.315411
+date: 2026-03-23T11:46:59.998732
 url: "/cdr-researcher-census/researchers/jose-gonzalez-a5100626/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,16 +45,16 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 8 |
 | Citations | 399 |
 | Publications | 39 |
-| CDR Focus | 10.3% |
+| CDR Focus | 1030.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Ocean liming in eutrophic vs. ultraoligotrophic environments and the response of algal calcifiers** (2024)
-   1 citations · Ocean CDR
+   1 citations · General CDR
 
 2. **The impact of ocean liming on phytoplankton size-structure and the balance of photosynthesis and respiration in two contrasting environments** (2024)
-   1 citations · Ocean CDR
+   1 citations · General CDR
 
 3. **Ocean liming in the oligotrophic Eastern Mediterranean: impact on the planktonic microbial food web** (2024)
    1 citations · General CDR

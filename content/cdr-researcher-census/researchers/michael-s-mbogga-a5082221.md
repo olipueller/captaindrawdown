@@ -1,7 +1,7 @@
 ---
 title: "Michael S. Mbogga"
-description: "Michael S. Mbogga is a Senior Soil Carbon researcher at Makerere University in UG. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.262583
+description: "Michael S. Mbogga is a Senior General CDR researcher at Makerere University in UG. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.914725
 url: "/cdr-researcher-census/researchers/michael-s-mbogga-a5082221/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Makerere University ·  UG
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,16 +45,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 444 |
 | Publications | 10 |
-| CDR Focus | 20.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Carbon stock of Agoro Agu Central Forest reserve, in Lamwo district, Northern Uganda** (2023)
-   11 citations · Soil Carbon
+   11 citations
 
 2. **Carbon stock of Agoro Agu Central Forest Reserve, in Lamwo District, Northern Uganda** (2022)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

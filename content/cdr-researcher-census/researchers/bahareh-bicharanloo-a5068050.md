@@ -1,7 +1,7 @@
 ---
 title: "Bahareh Bicharanloo"
 description: "Bahareh Bicharanloo is a Mid-career Soil Carbon researcher at The University of Sydney in AU. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.458078
+date: 2026-03-23T11:47:00.233557
 url: "/cdr-researcher-census/researchers/bahareh-bicharanloo-a5068050/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 303 |
 | Publications | 16 |
-| CDR Focus | 18.8% |
+| CDR Focus | 1880.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

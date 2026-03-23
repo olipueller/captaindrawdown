@@ -1,7 +1,7 @@
 ---
 title: "Luke Dubey"
-description: "Luke Dubey is a Mid-career Enhanced Weathering researcher. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.653251
+description: "Luke Dubey is a Mid-career DAC researcher. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.519147
 url: "/cdr-researcher-census/researchers/luke-dubey-a5011791/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,9 +29,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**Enhanced Weathering**
+**DAC**
 
-Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 
@@ -40,7 +40,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 7 |
 | Citations | 227 |
 | Publications | 11 |
-| CDR Focus | 18.2% |
+| CDR Focus | 1820.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -49,7 +49,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    29 citations · BECCS
 
 2. **Life cycle assessment of negative emission technologies for effectiveness in carbon sequestration** (2022)
-   20 citations · BECCS
+   20 citations · DAC
 
 ## External Profiles
 

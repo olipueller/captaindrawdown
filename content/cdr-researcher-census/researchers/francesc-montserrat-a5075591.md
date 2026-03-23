@@ -1,7 +1,7 @@
 ---
 title: "Francesc Montserrat"
-description: "Francesc Montserrat is a Senior General CDR researcher at Universiteit van Amsterdam in NL. With 41 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.979606
+description: "Francesc Montserrat is a Senior Enhanced Weathering researcher at Universiteit van Amsterdam in NL. With 41 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.356521
 url: "/cdr-researcher-census/researchers/francesc-montserrat-a5075591/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Universiteit van Amsterdam · 🇳🇱 NL
 
 ## CDR Specialization
 
-**General CDR**
+**Enhanced Weathering**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 
@@ -45,22 +45,22 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 17 |
 | Citations | 1,379 |
 | Publications | 41 |
-| CDR Focus | 17.1% |
+| CDR Focus | 980.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Microbial Catalysis for CO<sub>2</sub>Sequestration: A Geobiological Approach** (2023)
-   5 citations · Enhanced Weathering
+   5 citations · General CDR
 
 2. **Metal bioaccumulation and effects of olivine sand exposure on benthic marine invertebrates** (2024)
    4 citations · Enhanced Weathering
 
 3. **Microbial Community Structure in Contrasting Hawaiian Coastal Sediments** (2025)
-   1 citations · General CDR
+   1 citations
 
 4. **Microbial community structure in contrasting Hawaiian coastal sediments** (2025)
-   1 citations · General CDR
+   1 citations
 
 5. **A natural analogue of enhanced rock weathering: microbial communities in the olivine-rich Papakōlea Beach (Hawaii, USA)** (2025)
    0 citations · Enhanced Weathering

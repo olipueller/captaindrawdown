@@ -1,7 +1,7 @@
 ---
 title: "Richard Heap"
 description: "Richard Heap is a Senior General CDR researcher. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.333406
+date: 2026-03-23T11:47:01.352053
 url: "/cdr-researcher-census/researchers/richard-heap-a5014499/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 5 |
 | Citations | 108 |
 | Publications | 6 |
-| CDR Focus | 50.0% |
+| CDR Focus | 5000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -52,7 +52,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    16 citations · General CDR
 
 3. **Decision making for net zero policy design and climate action: considerations for improving translation at the research-policy interface: a UK Carbon Dioxide Removal case study** (2023)
-   8 citations · Enhanced Weathering
+   8 citations · General CDR
 
 ## External Profiles
 

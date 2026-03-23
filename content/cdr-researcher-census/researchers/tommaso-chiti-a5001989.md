@@ -1,7 +1,7 @@
 ---
 title: "Tommaso Chiti"
 description: "Tommaso Chiti is a Senior Soil Carbon researcher at Università degli Studi della Tuscia Dipartimento per la Innovazione nei sistemi Biologici Agroali­mentari e Forestali in IT. With 85 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.965140
+date: 2026-03-23T11:46:59.321040
 url: "/cdr-researcher-census/researchers/tommaso-chiti-a5001989/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 25 |
 | Citations | 1,565 |
 | Publications | 85 |
-| CDR Focus | 18.8% |
+| CDR Focus | 1410.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,16 +54,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    53 citations · Biochar
 
 2. **Carbon farming practices for European cropland: A review on the effect on soil organic carbon** (2024)
-   19 citations · Soil Carbon
+   19 citations · General CDR
 
 3. **Carbon sequestration in a bamboo plantation: a case study in a Mediterranean area** (2024)
-   17 citations · Soil Carbon
+   17 citations · General CDR
 
 4. **Recent advances in regenerative sustainable agricultural strategies for managing soil carbon and mitigating climate change consequences** (2025)
-   13 citations · Biochar
+   13 citations · General CDR
 
 5. **The misconception of soil organic carbon sequestration notion: When do we achieve climate benefit?** (2023)
-   12 citations · Biochar
+   12 citations · General CDR
 
 6. **Carbon sequestration of hazelnut orchards in central Italy** (2022)
    12 citations · Soil Carbon
@@ -72,13 +72,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    9 citations · Soil Carbon
 
 8. **Do poplar plantations enhance organic carbon stocks in arable soils? A comprehensive study from Northern Italy** (2024)
-   6 citations · BECCS
+   6 citations
 
 9. **Soil organic carbon sequestration during secondary forest succession in a Mediterranean area** (2025)
    5 citations · Soil Carbon
 
 10. **A review of forest management practices potentially suitable for carbon farming in European forests** (2025)
-   2 citations · Soil Carbon
+   2 citations
 
 ## External Profiles
 

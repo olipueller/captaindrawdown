@@ -1,7 +1,7 @@
 ---
 title: "Ziwen Ma"
 description: "Ziwen Ma is a Mid-career Soil Carbon researcher at Beijing Forestry University in CN. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.272187
+date: 2026-03-23T11:46:59.932148
 url: "/cdr-researcher-census/researchers/ziwen-ma-a5102375/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 10 |
 | Citations | 434 |
 | Publications | 16 |
-| CDR Focus | 12.5% |
+| CDR Focus | 620.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

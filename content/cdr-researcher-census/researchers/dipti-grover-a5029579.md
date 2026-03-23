@@ -1,7 +1,7 @@
 ---
 title: "Dipti Grover"
-description: "Dipti Grover is a Mid-career Soil Carbon researcher at Kurukshetra University in IN. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.141266
+description: "Dipti Grover is a Mid-career General CDR researcher at Kurukshetra University in IN. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.139238
 url: "/cdr-researcher-census/researchers/dipti-grover-a5029579/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Kurukshetra University · 🇮🇳 IN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,22 +45,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 130 |
 | Publications | 15 |
-| CDR Focus | 26.7% |
+| CDR Focus | 2670.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Regenerative Agriculture as Climate Smart Solution to Improve Soil Health and Crop Productivity Thereby Catalysing Farmers’ Livelihood and Sustainability** (2022)
-   19 citations · Soil Carbon
+   19 citations · General CDR
 
 2. **Carbon Sequestration Potential in Agricultural Systems** (2022)
-   8 citations · Soil Carbon
+   8 citations · General CDR
 
 3. **SOIL HEALTH FOR SUSTAINABLE AGRICULTURE** (2024)
-   3 citations · Soil Carbon
+   3 citations · General CDR
 
 4. **Re-Carbonation of Terrestrial Production Landscapes Through Regenerative Agriculture** (2024)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

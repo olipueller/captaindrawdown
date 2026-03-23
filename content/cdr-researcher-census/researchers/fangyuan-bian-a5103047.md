@@ -1,7 +1,7 @@
 ---
 title: "Fangyuan Bian"
 description: "Fangyuan Bian is a Mid-career Soil Carbon researcher at China National Bamboo Research Center in CN. With 27 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.137204
+date: 2026-03-23T11:46:59.677230
 url: "/cdr-researcher-census/researchers/fangyuan-bian-a5103047/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 13 |
 | Citations | 638 |
 | Publications | 27 |
-| CDR Focus | 22.2% |
+| CDR Focus | 1850.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -57,13 +57,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    21 citations · Soil Carbon
 
 3. **Effects of chicken farming on soil extracellular enzyme activity and microbial nutrient limitation in Lei bamboo forest (Phyllostachys praecox) in subtropical China** (2021)
-   13 citations · Soil Carbon
+   13 citations
 
 4. **Forest management alters soil microbial necromass and its contribution to soil organic carbon in Moso bamboo plantations in subtropical China** (2024)
    11 citations · Soil Carbon
 
 5. **Introducing sedum affects root‐soil interface phytoremediation of heavy metals in <i>lei</i> bamboo forest and potential risks from edible bamboo shoots** (2022)
-   3 citations · Soil Carbon
+   3 citations
 
 6. **Effects of Bamboo-Sourced Organic Fertilizer on the Soil Microbial Necromass Carbon and Its Contribution to Soil Organic Carbon in Moso Bamboo (Phyllostachys edulis) Forest** (2025)
    0 citations · Soil Carbon

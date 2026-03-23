@@ -1,7 +1,7 @@
 ---
 title: "Lingying Xu"
 description: "Lingying Xu is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 37 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.229157
+date: 2026-03-23T11:46:59.850537
 url: "/cdr-researcher-census/researchers/lingying-xu-a5013603/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 12 |
 | Citations | 491 |
 | Publications | 37 |
-| CDR Focus | 10.8% |
+| CDR Focus | 1080.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

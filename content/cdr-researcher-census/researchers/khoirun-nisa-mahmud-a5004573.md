@@ -1,7 +1,7 @@
 ---
 title: "Khoirun Nisa Mahmud"
 description: "Khoirun Nisa Mahmud is a Mid-career Biochar researcher at University of Technology Malaysia in MY. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.136806
+date: 2026-03-23T11:47:01.136602
 url: "/cdr-researcher-census/researchers/khoirun-nisa-mahmud-a5004573/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 4 |
 | Citations | 130 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

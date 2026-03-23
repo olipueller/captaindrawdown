@@ -1,7 +1,7 @@
 ---
 title: "Stavros Michailos"
-description: "Stavros Michailos is a Senior DAC researcher at University of Hull in GB. With 60 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.938567
+description: "Stavros Michailos is a Senior General CDR researcher at University of Hull in GB. With 60 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.270779
 url: "/cdr-researcher-census/researchers/stavros-michailos-a5052441/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Hull · 🇬🇧 GB
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 22 |
 | Citations | 1,959 |
 | Publications | 60 |
-| CDR Focus | 20.0% |
+| CDR Focus | 1670.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -60,7 +60,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    92 citations · BECCS
 
 4. **A Modelling Study of Post-Combustion Capture Plant Process Conditions to Facilitate 95–99% CO2 Capture Levels From Gas Turbine Flue Gases** (2022)
-   32 citations · General CDR
+   32 citations
 
 5. **Comprehensive process simulation of a biomass-based hydrogen production system through gasification within the BECCS concept in a commercial two-stage fixed bed gasifier** (2023)
    27 citations · BECCS

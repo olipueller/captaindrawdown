@@ -1,7 +1,7 @@
 ---
 title: "Vera Laísa da Silva Arruda"
-description: "Vera Laísa da Silva Arruda is a Mid-career General CDR researcher at Universidade de Brasília in BR. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.231617
+description: "Vera Laísa da Silva Arruda is a Mid-career Soil Carbon researcher at Universidade de Brasília in BR. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.854475
 url: "/cdr-researcher-census/researchers/vera-laisa-da-silva-arruda-a5090026/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Universidade de Brasília · 🇧🇷 BR
 
 ## CDR Specialization
 
-**General CDR**
+**Soil Carbon**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 5 |
 | Citations | 487 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Impacts of Fire Frequency on Net CO2 Emissions in the Cerrado Savanna Vegetation** (2024)
-   8 citations · General CDR
+   8 citations · Soil Carbon
 
 ## External Profiles
 

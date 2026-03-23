@@ -1,7 +1,7 @@
 ---
 title: "Kaichang Wang"
 description: "Kaichang Wang is a Mid-career Soil Carbon researcher at Ministry of Education of the People's Republic of China in CN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.690780
+date: 2026-03-23T11:47:00.568878
 url: "/cdr-researcher-census/researchers/kaichang-wang-a5015208/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 217 |
 | Publications | 11 |
-| CDR Focus | 18.2% |
+| CDR Focus | 1820.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

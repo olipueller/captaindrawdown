@@ -1,7 +1,7 @@
 ---
 title: "Ruchira Gangahagedara"
-description: "Ruchira Gangahagedara is a Mid-career Soil Carbon researcher at University of Peradeniya in LK. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.135011
+description: "Ruchira Gangahagedara is a Mid-career General CDR researcher at University of Peradeniya in LK. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.673432
 url: "/cdr-researcher-census/researchers/ruchira-gangahagedara-a5023766/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Peradeniya ·  LK
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 642 |
 | Publications | 5 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Role of organic farming for achieving sustainability in agriculture** (2023)
-   505 citations · Soil Carbon
+   505 citations · General CDR
 
 ## External Profiles
 

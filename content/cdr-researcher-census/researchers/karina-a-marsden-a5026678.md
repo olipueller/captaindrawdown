@@ -1,7 +1,7 @@
 ---
 title: "Karina A. Marsden"
 description: "Karina A. Marsden is a Mid-career Soil Carbon researcher at Bangor University in GB. With 40 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.981573
+date: 2026-03-23T11:46:59.362201
 url: "/cdr-researcher-census/researchers/karina-a-marsden-a5026678/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 17 |
 | Citations | 1,353 |
 | Publications | 40 |
-| CDR Focus | 10.0% |
+| CDR Focus | 500.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,13 +54,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    13 citations · Soil Carbon
 
 2. **<b>Microbial community traits and necromass dynamics shape soil carbon accumulation: evidence from a 180-year fertilisation trial</b>** (2025)
-   0 citations · Soil Carbon
+   0 citations
 
 3. **<b>Microbial community traits and necromass dynamics shape soil carbon accumulation: evidence from a 180-year fertilisation trial</b>** (2025)
-   0 citations · Soil Carbon
+   0 citations
 
 4. **<b>Microbial community traits and necromass dynamics shape soil carbon accumulation: evidence from a 180-year fertilisation trial</b>** (2025)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Aryane A. Marciniak"
 description: "Aryane A. Marciniak is a Mid-career DAC researcher. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.354879
+date: 2026-03-23T11:47:00.060573
 url: "/cdr-researcher-census/researchers/aryane-a-marciniak-a5031732/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 6 |
 | Citations | 368 |
 | Publications | 20 |
-| CDR Focus | 10.0% |
+| CDR Focus | 500.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -49,7 +49,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    10 citations · DAC
 
 2. **Trends in Carbon Dioxide Capture and Conversion** (2022)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

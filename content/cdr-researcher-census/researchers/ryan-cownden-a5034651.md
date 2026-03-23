@@ -1,7 +1,7 @@
 ---
 title: "Ryan Cownden"
-description: "Ryan Cownden is a Senior DAC researcher at University of Sheffield in GB. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.759291
+description: "Ryan Cownden is a Senior carbon dioxide removal researcher at University of Sheffield in GB. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.658821
 url: "/cdr-researcher-census/researchers/ryan-cownden-a5034651/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ University of Sheffield · 🇬🇧 GB
 
 **Career Stage:** Senior
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 4 |
 | Citations | 198 |
 | Publications | 6 |
-| CDR Focus | 16.7% |
+| CDR Focus | 1670.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Assessing Best Practices in Natural Gas Production and Emerging CO<sub>2</sub> Capture Techniques to Minimize the Carbon Footprint of Electricity Generation** (2024)
-   7 citations · DAC
+   7 citations
 
 ## External Profiles
 

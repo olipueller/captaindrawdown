@@ -1,7 +1,7 @@
 ---
 title: "Jiaoyang Xu"
 description: "Jiaoyang Xu is a Mid-career Soil Carbon researcher at Heilongjiang University of Chinese Medicine in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.302293
+date: 2026-03-23T11:47:01.318017
 url: "/cdr-researcher-census/researchers/jiaoyang-xu-a5063926/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 112 |
 | Publications | 15 |
-| CDR Focus | 13.3% |
+| CDR Focus | 670.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Forest restoration regulates the ecosystem service supply-demand relationship in a mountainous small watershed** (2025)
-   1 citations · Soil Carbon
+   1 citations
 
 2. **Carbon Stock and Environmental Variations of Typical Plantations in Mufu Mountain in Hubei Province, China** (2025)
    0 citations · Soil Carbon

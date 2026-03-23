@@ -1,7 +1,7 @@
 ---
 title: "Yoshihiro Mine"
-description: "Yoshihiro Mine is a Senior DAC researcher at Kawasaki Heavy Industries (Japan) in JP. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.470677
+description: "Yoshihiro Mine is a Senior carbon dioxide removal researcher at Kawasaki Heavy Industries (Japan) in JP. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.254952
 url: "/cdr-researcher-census/researchers/yoshihiro-mine-a5023214/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Kawasaki Heavy Industries (Japan) · 🇯🇵 JP
 
 **Career Stage:** Senior
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,16 +36,16 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 3 |
 | Citations | 297 |
 | Publications | 6 |
-| CDR Focus | 33.3% |
+| CDR Focus | 1670.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Novel Direct Air Capture Process using Kawasaki Solid Sorbent for Commercial Scale Plant** (2025)
-   0 citations · DAC
+   0 citations
 
 2. **Novel Direct Air Capture Process using Kawasaki Solid Sorbent for Commercial Scale Plant** (2025)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

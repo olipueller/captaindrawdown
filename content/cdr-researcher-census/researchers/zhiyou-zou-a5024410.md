@@ -1,7 +1,7 @@
 ---
 title: "Zhiyou Zou"
-description: "Zhiyou Zou is an Early-career Soil Carbon researcher at Yangtze University in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.928568
+description: "Zhiyou Zou is an Early-career Biochar researcher at Yangtze University in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.896705
 url: "/cdr-researcher-census/researchers/zhiyou-zou-a5024410/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Yangtze University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 162 |
 | Publications | 7 |
-| CDR Focus | 28.6% |
+| CDR Focus | 2860.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

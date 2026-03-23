@@ -1,7 +1,7 @@
 ---
 title: "Shengnan Jia"
 description: "Shengnan Jia is an Early-career Soil Carbon researcher at Nanjing University of Information Science and Technology in CN. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.423968
+date: 2026-03-23T11:47:01.440568
 url: "/cdr-researcher-census/researchers/shengnan-jia-a5074746/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 3 |
 | Citations | 100 |
 | Publications | 3 |
-| CDR Focus | 66.7% |
+| CDR Focus | 6670.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

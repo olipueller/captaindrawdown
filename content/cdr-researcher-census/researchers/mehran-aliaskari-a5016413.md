@@ -1,7 +1,7 @@
 ---
 title: "Mehran Aliaskari"
-description: "Mehran Aliaskari is a Mid-career General CDR researcher at DVGW-Forschungsstelle am Engler-Bunte-Institut des Karlsruher Instituts für Technologie in DE. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.415326
+description: "Mehran Aliaskari is a Mid-career Ocean CDR researcher at DVGW-Forschungsstelle am Engler-Bunte-Institut des Karlsruher Instituts für Technologie in DE. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.159293
 url: "/cdr-researcher-census/researchers/mehran-aliaskari-a5016413/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ DVGW-Forschungsstelle am Engler-Bunte-Institut des Karlsruher Instituts für Tec
 
 ## CDR Specialization
 
-**General CDR**
+**Ocean CDR**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
 
 ## Metrics
 
@@ -45,16 +45,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 6 |
 | Citations | 328 |
 | Publications | 10 |
-| CDR Focus | 20.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **A systematic analysis of operating parameters for CO2 capture from seawater by Bipolar Membrane Electrodialysis (BPMED)** (2024)
-   29 citations · General CDR
+   29 citations · Ocean CDR
 
 2. **A Systematic Analysis of Operating Parameters for Co2 Capture from Seawater by Bipolar Membrane Electrodialysis (Bpmed)** (2023)
-   1 citations · General CDR
+   1 citations · Ocean CDR
 
 ## External Profiles
 

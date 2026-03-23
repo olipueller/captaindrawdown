@@ -1,7 +1,7 @@
 ---
 title: "Horia Domnariu"
 description: "Horia Domnariu is a Mid-career Soil Carbon researcher at University of Bucharest in RO. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.269499
+date: 2026-03-23T11:47:01.280651
 url: "/cdr-researcher-census/researchers/horia-domnariu-a5008738/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 115 |
 | Publications | 20 |
-| CDR Focus | 15.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Soil organic carbon and total nitrogen stocks related to land use and basic environmental properties − assessment of soil carbon sequestration potential in different ecosystems** (2024)
-   26 citations · Soil Carbon
+   26 citations · General CDR
 
 2. **Assessing soils’ health by using soil organic carbon (SOC) content, SOC/clay ratio and mean SOC reference values: a case study on Romanian mineral soils** (2025)
    1 citations · Soil Carbon

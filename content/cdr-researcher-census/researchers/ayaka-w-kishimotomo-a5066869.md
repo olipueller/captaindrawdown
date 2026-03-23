@@ -1,7 +1,7 @@
 ---
 title: "Ayaka W. Kishimoto‐Mo"
-description: "Ayaka W. Kishimoto‐Mo is a Mid-career Soil Carbon researcher at National Agriculture and Food Research Organization in JP. With 36 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.063085
+description: "Ayaka W. Kishimoto‐Mo is a Mid-career Biochar researcher at National Agriculture and Food Research Organization in JP. With 36 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.542915
 url: "/cdr-researcher-census/researchers/ayaka-w-kishimotomo-a5066869/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ National Agriculture and Food Research Organization · 🇯🇵 JP
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 13 |
 | Citations | 835 |
 | Publications | 36 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    188 citations · Biochar
 
 2. **Management of a Mediterranean Forage/Cereal-Based Cropping System: An Ecosystem Service Multisectoral Analysis in the Perspective of Climate Change** (2022)
-   8 citations · Biochar
+   8 citations · General CDR
 
 3. **Wood gasification biochar enhances soil carbon sequestration without affecting greenhouse gas fluxes or wheat yield in sub-alkaline soil** (2025)
    5 citations · Biochar

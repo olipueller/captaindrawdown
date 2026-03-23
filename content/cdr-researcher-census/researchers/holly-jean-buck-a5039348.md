@@ -1,7 +1,7 @@
 ---
 title: "Holly Jean Buck"
 description: "Holly Jean Buck is a Senior General CDR researcher. With 65 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.937531
+date: 2026-03-23T11:46:59.267881
 url: "/cdr-researcher-census/researchers/holly-jean-buck-a5039348/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 25 |
 | Citations | 1,983 |
 | Publications | 65 |
-| CDR Focus | 15.4% |
+| CDR Focus | 1230.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -49,7 +49,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    165 citations · General CDR
 
 2. **Soil carbon sequestration as a climate strategy: what do farmers think?** (2022)
-   67 citations · Soil Carbon
+   67 citations · General CDR
 
 3. **Navigating Potential Hype and Opportunity in Governing Marine Carbon Removal** (2021)
    62 citations · General CDR
@@ -70,7 +70,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    29 citations · General CDR
 
 9. **Soil science in the time of climate mitigation** (2022)
-   13 citations · Soil Carbon
+   13 citations · General CDR
 
 10. **Why Residual Emissions Matter Right Now** (2022)
    11 citations · General CDR

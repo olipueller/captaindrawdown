@@ -1,7 +1,7 @@
 ---
 title: "Kelpie Wilson"
-description: "Kelpie Wilson is a Mid-career Soil Carbon researcher at Biosearch Technologies (United States) in US. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.621449
+description: "Kelpie Wilson is a Mid-career Biochar researcher at Biosearch Technologies (United States) in US. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.475145
 url: "/cdr-researcher-census/researchers/kelpie-wilson-a5079696/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Biosearch Technologies (United States) · 🇺🇸 US
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 238 |
 | Publications | 20 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

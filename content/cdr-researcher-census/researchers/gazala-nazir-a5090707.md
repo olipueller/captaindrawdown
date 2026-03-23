@@ -1,7 +1,7 @@
 ---
 title: "Gazala Nazir"
 description: "Gazala Nazir is a Mid-career Soil Carbon researcher at Sher-e-Kashmir University of Agricultural Sciences and Technology of Kashmir in IN. With 49 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.916678
+date: 2026-03-23T11:47:00.884097
 url: "/cdr-researcher-census/researchers/gazala-nazir-a5090707/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,16 +45,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 164 |
 | Publications | 49 |
-| CDR Focus | 10.2% |
+| CDR Focus | 1020.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **A review on carbon pools and sequestration as influenced by long-term management practices in a rice–wheat cropping system** (2021)
-   31 citations · Soil Carbon
+   31 citations · General CDR
 
 2. **Influence of different management practices on carbon sequestration of agricultural soils – a review** (2022)
-   8 citations · Biochar
+   8 citations · General CDR
 
 3. **Management of Saline and Sodic Soils for Carbon Sequestration** (2025)
    5 citations · Soil Carbon

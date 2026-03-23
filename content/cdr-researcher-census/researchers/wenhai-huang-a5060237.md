@@ -1,7 +1,7 @@
 ---
 title: "Wenhai Huang"
-description: "Wenhai Huang is a Mid-career Soil Carbon researcher at NARI Group (China) in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.499842
+description: "Wenhai Huang is a Mid-career carbon dioxide removal researcher at NARI Group (China) in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.305467
 url: "/cdr-researcher-census/researchers/wenhai-huang-a5060237/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ NARI Group (China) · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 283 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Optimizing crop rotation increases soil carbon and reduces GHG emissions without sacrificing yields** (2022)
-   54 citations · Soil Carbon
+   54 citations
 
 ## External Profiles
 

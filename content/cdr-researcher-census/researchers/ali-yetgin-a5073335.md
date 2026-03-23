@@ -1,0 +1,69 @@
+---
+title: "Ali Yetgin"
+description: "Ali Yetgin is a Mid-career Soil Carbon researcher at Toros University in TR. With 35 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.221059
+url: "/cdr-researcher-census/researchers/ali-yetgin-a5073335/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Ali Yetgin",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/ali-yetgin-a5073335/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Toros University"
+  },
+  "sameAs": [
+    "https://orcid.org/0000-0001-7683-8836",
+    "https://openalex.org/A5073335792"
+  ]
+}
+</script>
+
+## Profile
+
+**Ali Yetgin**  
+Toros University ·  TR
+
+**Career Stage:** Mid-career
+
+## CDR Specialization
+
+**Soil Carbon**
+
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 10 |
+| Citations | 307 |
+| Publications | 35 |
+| CDR Focus | 570.0% |
+| Trajectory | Stable |
+
+## Top CDR Publications
+
+1. **An overall review on influence of root architecture on soil carbon sequestration potential** (2024)
+   18 citations · Soil Carbon
+
+2. **The role of legume roots in carbon sequestration, soil health enhancement, and salinity mitigation under climate change: A comprehensive review** (2025)
+   7 citations · General CDR
+
+3. **Correction to: An overall review on influence of root architecture on soil carbon sequestration potential** (2024)
+   4 citations · Soil Carbon
+
+## External Profiles
+
+- [ORCID](https://orcid.org/0000-0001-7683-8836)
+- [OpenAlex](https://openalex.org/A5073335792)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

@@ -1,7 +1,7 @@
 ---
 title: "Yan Zhang"
-description: "Yan Zhang is a Senior Soil Carbon researcher at Shanxi Agricultural University in CN. With 53 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.097140
+description: "Yan Zhang is a Mid-career Soil Carbon researcher at Fudan University in CN. With 30 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.007167
 url: "/cdr-researcher-census/researchers/yan-zhang-a5100456/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,11 +16,11 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yan-zhang-a5100456/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Shanxi Agricultural University"
+    "name": "Fudan University"
   },
   "sameAs": [
-    "https://orcid.org/0000-0001-9268-3440",
-    "https://openalex.org/A5100456170"
+    "https://orcid.org/0000-0002-8874-6709",
+    "https://openalex.org/A5100456331"
   ]
 }
 </script>
@@ -28,9 +28,9 @@ robots: "index, follow"
 ## Profile
 
 **Yan Zhang**  
-Shanxi Agricultural University · 🇨🇳 CN
+Fudan University · 🇨🇳 CN
 
-**Career Stage:** Senior
+**Career Stage:** Mid-career
 
 ## CDR Specialization
 
@@ -42,39 +42,24 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 13 |
-| Citations | 729 |
-| Publications | 53 |
-| CDR Focus | 13.2% |
+| h-index | 12 |
+| Citations | 394 |
+| Publications | 30 |
+| CDR Focus | 670.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
-1. **Phosphorus addition decreases plant lignin but increases microbial necromass contribution to soil organic carbon in a subalpine forest** (2022)
-   182 citations · Soil Carbon
+1. **Ecosystem carbon storage and sink/source of temperate forested wetlands in Xiaoxing’anling, northeast China** (2021)
+   29 citations · Soil Carbon
 
-2. **Influence of environmental factors on soil organic carbon in different soil layers for Chinese Mollisols under intensive maize cropping** (2022)
-   22 citations · Soil Carbon
-
-3. **Linking Rock-Eval parameters to soil heterotrophic respiration and microbial residues in a black soil** (2023)
-   9 citations · Soil Carbon
-
-4. **Laboratory incubation reveals greater soil carbon stabilization by coniferous leaf litter than by broadleaf leaf litter despite slower decomposition** (2026)
-   0 citations · Soil Carbon
-
-5. **Effects of conservation tillage on soil organic carbon storage, fractions and stability in Black soil** (2024)
-   0 citations · Soil Carbon
-
-6. **Imbalanced Transformation between Soil Organic Carbon and Inorganic Carbon in Long-Term Conservation Tillage Soil** (2022)
-   0 citations · Soil Carbon
-
-7. **Conservation tillage and soil biodiversity in the black soil region of northeast China: results from a long-term tillage trial** (2022)
-   0 citations · Soil Carbon
+2. **Effects of ecological restoration on carbon sink and carbon drawdown of degraded salt marshes with carbon‐rich additives application** (2022)
+   16 citations · Biochar
 
 ## External Profiles
 
-- [ORCID](https://orcid.org/0000-0001-9268-3440)
-- [OpenAlex](https://openalex.org/A5100456170)
+- [ORCID](https://orcid.org/0000-0002-8874-6709)
+- [OpenAlex](https://openalex.org/A5100456331)
 
 ---
 

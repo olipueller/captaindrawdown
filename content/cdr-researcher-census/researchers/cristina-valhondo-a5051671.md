@@ -1,7 +1,7 @@
 ---
 title: "Cristina Valhondo"
 description: "Cristina Valhondo is a Senior Biochar researcher at Consejo Superior de Investigaciones Científicas in ES. With 69 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.132387
+date: 2026-03-23T11:46:59.668277
 url: "/cdr-researcher-census/researchers/cristina-valhondo-a5051671/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 12 |
 | Citations | 648 |
 | Publications | 69 |
-| CDR Focus | 10.1% |
+| CDR Focus | 870.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,22 +54,22 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    9 citations · Biochar
 
 2. **Mapping water content dynamics in SAT systems using 3D electrical tomography** (2026)
-   0 citations · Biochar
+   0 citations
 
 3. **Reply on RC2** (2026)
-   0 citations · Biochar
+   0 citations · Soil Carbon
 
 4. **Comment on egusphere-2025-3994** (2026)
-   0 citations · Biochar
+   0 citations
 
 5. **Reply on CC2** (2025)
-   0 citations · Biochar
+   0 citations
 
 6. **Reply on CC1** (2025)
-   0 citations · Biochar
+   0 citations
 
 7. **Mapping Water Content Dynamics in MAR-SAT systems using 3D Electrical Tomography** (2025)
-   0 citations · Biochar
+   0 citations
 
 ## External Profiles
 

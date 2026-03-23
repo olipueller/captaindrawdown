@@ -1,7 +1,7 @@
 ---
 title: "Xinyuan Wei"
 description: "Xinyuan Wei is a Mid-career Soil Carbon researcher at Institute of Environment and Sustainable Development in Agriculture in CN. With 60 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.125346
+date: 2026-03-23T11:46:59.656892
 url: "/cdr-researcher-census/researchers/xinyuan-wei-a5028329/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 15 |
 | Citations | 660 |
 | Publications | 60 |
-| CDR Focus | 13.3% |
+| CDR Focus | 830.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    55 citations · General CDR
 
 2. **Fates of Terrigenous Dissolved Organic Carbon in the Gulf of Maine** (2024)
-   9 citations · Soil Carbon
+   9 citations
 
 3. **The North American Greenhouse Gas Budget: Emissions, Removals, and Integration for CO<sub>2</sub>, CH<sub>4</sub>, and N<sub>2</sub>O (2010–2019): Results From the Second REgional Carbon Cycle Assessment and Processes Study (RECCAP2)** (2025)
    8 citations · General CDR
 
 4. **Modeling exports of dissolved organic carbon from landscapes: a review of challenges and opportunities** (2024)
-   5 citations · Soil Carbon
+   5 citations · General CDR
 
 5. **Functionalized biochar for enhancing the removal of antibiotics and resistance genes in swine manure composting: A review** (2025)
    4 citations · Biochar

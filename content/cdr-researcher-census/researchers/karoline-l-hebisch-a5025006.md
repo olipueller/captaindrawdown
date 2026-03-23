@@ -1,7 +1,7 @@
 ---
 title: "Karoline L. Hebisch"
-description: "Karoline L. Hebisch is a Mid-career DAC researcher at Korea Advanced Institute of Science and Technology in KR. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.772271
+description: "Karoline L. Hebisch is a Mid-career carbon dioxide removal researcher at Korea Advanced Institute of Science and Technology in KR. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.676106
 url: "/cdr-researcher-census/researchers/karoline-l-hebisch-a5025006/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Korea Advanced Institute of Science and Technology · 🇰🇷 KR
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,19 +39,19 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 6 |
 | Citations | 195 |
 | Publications | 15 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Scale-Bridging Solid Adsorbents for Direct Air Capture: Integrating Material Chemistry, Structured Contactors, and Advanced Regeneration Processes** (2026)
-   0 citations · DAC
+   0 citations
 
 2. **Solvent-Free Manufacturing of Electrified Structured Sorbents for Scalable Direct Air Capture** (2026)
-   0 citations · DAC
+   0 citations
 
 3. **Sub-hour Rapid Cycling of Direct Air Capture Enabled by Engineered Hollow Fiber Sorbents** (2026)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Nauzet Hernández‐Hernández"
 description: "Nauzet Hernández‐Hernández is a Mid-career Ocean CDR researcher at Universidad de Las Palmas de Gran Canaria in ES. With 47 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.319091
+date: 2026-03-23T11:47:00.003371
 url: "/cdr-researcher-census/researchers/nauzet-hernandezhernandez-a5042115/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 12 |
 | Citations | 396 |
 | Publications | 47 |
-| CDR Focus | 21.3% |
+| CDR Focus | 1060.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -57,19 +57,19 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    14 citations · Ocean CDR
 
 3. **Responses of microbial metabolic rates to non-equilibrated silicate- versus calcium-based ocean alkalinity enhancement** (2024)
-   3 citations · Ocean CDR
+   3 citations · General CDR
 
 4. **Assessing the impact of CO <sub>2</sub> equilibrated ocean alkalinity enhancement on microbial metabolic rates in an oligotrophic system** (2023)
-   3 citations · Ocean CDR
+   3 citations
 
 5. **Supplementary material to "Assessing the impact of CO <sub>2</sub> equilibrated ocean alkalinity enhancement on microbial metabolic rates in an oligotrophic system"** (2023)
-   1 citations · Ocean CDR
+   1 citations · General CDR
 
 6. **“Assessment of potential eutrophication in coastal waters of Gran Canaria: Impact on plankton community under CO2 depletion”** (2024)
    0 citations · Ocean CDR
 
 7. **Comment on egusphere-2024-1776** (2024)
-   0 citations · Ocean CDR
+   0 citations
 
 8. **Responses of microbial metabolic rates to non-equilibrated silicate vs calcium-based ocean alkalinity enhancement** (2024)
    0 citations · Ocean CDR
@@ -78,7 +78,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    0 citations · Ocean CDR
 
 10. **Comment on egusphere-2023-2409** (2024)
-   0 citations · Ocean CDR
+   0 citations
 
 ## External Profiles
 

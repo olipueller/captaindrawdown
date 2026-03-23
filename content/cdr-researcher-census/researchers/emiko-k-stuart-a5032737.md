@@ -1,7 +1,7 @@
 ---
 title: "Emiko K. Stuart"
 description: "Emiko K. Stuart is a Mid-career Soil Carbon researcher at Western Sydney University in AU. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.233757
+date: 2026-03-23T11:47:01.240001
 url: "/cdr-researcher-census/researchers/emiko-k-stuart-a5032737/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 119 |
 | Publications | 7 |
-| CDR Focus | 42.9% |
+| CDR Focus | 1430.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    6 citations · Soil Carbon
 
 3. **Non-mycorrhizal root-associated fungi increase soil C stocks and stability via diverse mechanisms** (2023)
-   0 citations · Soil Carbon
+   0 citations
 
 ## External Profiles
 

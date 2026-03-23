@@ -1,7 +1,7 @@
 ---
 title: "Chi Zhang"
-description: "Chi Zhang is a Mid-career Soil Carbon researcher at South China Agricultural University in CN. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.941524
+description: "Chi Zhang is a Mid-career General CDR researcher at South China Agricultural University in CN. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.912108
 url: "/cdr-researcher-census/researchers/chi-zhang-a5101934/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ South China Agricultural University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 160 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Current Progress and Future Trends in Carbon Sources and Sinks in Farmland Ecosystems: A Bibliometric Analysis (2002–2023)** (2025)
-   4 citations · Soil Carbon
+   4 citations · General CDR
 
 ## External Profiles
 

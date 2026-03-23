@@ -1,7 +1,7 @@
 ---
 title: "Junzhe Song"
-description: "Junzhe Song is a Mid-career Biochar researcher at Chinese Academy of Sciences in CN. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.237801
+description: "Junzhe Song is a Mid-career carbon dioxide removal researcher at Chinese Academy of Sciences in CN. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.243992
 url: "/cdr-researcher-census/researchers/junzhe-song-a5111299/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Chinese Academy of Sciences · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Biochar**
-
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 3 |
 | Citations | 118 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **The synergistic effect of adsorption and Fenton oxidation for organic pollutants in water remediation: an overview** (2024)
-   43 citations · Biochar
+   43 citations
 
 ## External Profiles
 

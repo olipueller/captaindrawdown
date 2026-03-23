@@ -1,7 +1,7 @@
 ---
 title: "Hai‐Lin Zhang"
 description: "Hai‐Lin Zhang is an Eminent Soil Carbon researcher at China Agricultural University in CN. With 249 publications and an h-index of 51, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.873993
+date: 2026-03-23T11:46:59.104339
 url: "/cdr-researcher-census/researchers/hailin-zhang-a5040808/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 51 |
 | Citations | 7,913 |
 | Publications | 249 |
-| CDR Focus | 10.8% |
+| CDR Focus | 920.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -63,7 +63,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    55 citations · Soil Carbon
 
 5. **Greenhouse gas emissions from the wheat-maize cropping system under different tillage and crop residue management practices in the North China Plain** (2022)
-   44 citations · General CDR
+   44 citations · Soil Carbon
 
 6. **Optimizing the rate of straw returning to balance trade-offs between carbon emission budget and rice yield in China** (2024)
    34 citations · Soil Carbon
@@ -75,7 +75,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    27 citations · Soil Carbon
 
 9. **Effects of fertilizer application strategies on soil organic carbon and total nitrogen storage under different agronomic practices: A meta‐analysis** (2023)
-   25 citations · Soil Carbon
+   25 citations · General CDR
 
 10. **Enhancing soil ecosystem multifunctionality through combined conservation tillage and legume-based crop rotation in the North China Plain** (2024)
    22 citations · Soil Carbon

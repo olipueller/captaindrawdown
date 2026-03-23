@@ -1,7 +1,7 @@
 ---
 title: "Janusz Zdeb"
-description: "Janusz Zdeb is a Mid-career BECCS researcher at Tauron Wytwarzanie (Poland) in PL. With 25 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.340892
+description: "Janusz Zdeb is a Mid-career General CDR researcher at Tauron Wytwarzanie (Poland) in PL. With 25 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.034979
 url: "/cdr-researcher-census/researchers/janusz-zdeb-a5061608/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Tauron Wytwarzanie (Poland) ·  PL
 
 ## CDR Specialization
 
-**BECCS**
+**General CDR**
 
-Combining biomass energy with carbon capture and storage to achieve negative emissions.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,22 +42,22 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 10 |
 | Citations | 379 |
 | Publications | 25 |
-| CDR Focus | 16.0% |
+| CDR Focus | 1200.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Treatment of Flue Gas in a CO2 Capture Pilot Plant for a Commercial CFB Boiler** (2021)
-   20 citations · General CDR
+   20 citations
 
 2. **Techno-economic analysis of heat integrated stripper application in chemical absorption process for CO2 capture: Insights from pilot plant studies** (2025)
-   10 citations · BECCS
+   10 citations
 
 3. **Experimental study on combined valorization of bituminous coal derived fluidized bed fly ash and carbon dioxide from energy sector** (2022)
-   8 citations · DAC
+   8 citations · General CDR
 
 4. **Techno-Economic Analysis of Heat Integrated Stripper Application in Chemical Absorption Process for Co2 Capture: Insights from Pilot Plant Studies** (2025)
-   1 citations · BECCS
+   1 citations
 
 ## External Profiles
 

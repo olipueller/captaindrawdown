@@ -1,7 +1,7 @@
 ---
 title: "Guangcan Yu"
 description: "Guangcan Yu is a Senior Soil Carbon researcher at Shenzhen University in CN. With 24 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.004735
+date: 2026-03-23T11:47:00.993486
 url: "/cdr-researcher-census/researchers/guangcan-yu-a5004306/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 149 |
 | Publications | 24 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,10 +54,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    9 citations · Soil Carbon
 
 2. **Analysis of Spatio-Temporal Relationship Between Ecosystem Services and Human Footprints Under Different Human Activity Gradients: A Case Study of Xiangjiang River Basin** (2024)
-   6 citations · Soil Carbon
+   6 citations
 
 3. **Adsorption/desorption processes dominate the soil P fractions dynamic under long-term N/P addition in a subtropical forest** (2025)
-   4 citations · Enhanced Weathering
+   4 citations
 
 ## External Profiles
 

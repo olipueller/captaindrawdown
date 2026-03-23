@@ -1,7 +1,7 @@
 ---
 title: "Shaoqing Zhu"
 description: "Shaoqing Zhu is a Mid-career Soil Carbon researcher at Youjiang Medical College for Nationalities in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.723059
+date: 2026-03-23T11:47:00.609351
 url: "/cdr-researcher-census/researchers/shaoqing-zhu-a5100541/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 208 |
 | Publications | 19 |
-| CDR Focus | 15.8% |
+| CDR Focus | 1050.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Quorum Sensing Enhances Direct Interspecies Electron Transfer in Anaerobic Methane Production** (2024)
-   84 citations · General CDR
+   84 citations
 
 2. **Cover cropping promotes soil carbon sequestration by enhancing microaggregate-protected and mineral-associated carbon** (2023)
    26 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Quanxin Zeng"
 description: "Quanxin Zeng is a Mid-career Soil Carbon researcher at Fujian Normal University in CN. With 45 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.365314
+date: 2026-03-23T11:47:00.079866
 url: "/cdr-researcher-census/researchers/quanxin-zeng-a5043467/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 10 |
 | Citations | 362 |
 | Publications | 45 |
-| CDR Focus | 13.3% |
+| CDR Focus | 1330.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Contrasting priming effect intensities and drivers in single and repeated glucose additions to a forest soil receiving long-term N fertilization** (2023)
-   7 citations · Soil Carbon
+   7 citations
 
 2. **Soil particulate organic carbon regulates microbial carbon use efficiency in subtropical forests under nitrogen addition in different seasons** (2024)
    5 citations · Soil Carbon
@@ -63,10 +63,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    1 citations · Soil Carbon
 
 5. **Relationship between Soil Bacterial Communities and Dissolved Organic Matter in a Subtropical Pinus Taiwanensis Forest after Short-Term Nitrogen Addition** (2021)
-   1 citations · Soil Carbon
+   1 citations
 
 6. **Short-term nitrogen enrichment alters microbial phosphorous limitation in Pinus taiwanensis forest soils** (2026)
-   0 citations · Soil Carbon
+   0 citations
 
 ## External Profiles
 

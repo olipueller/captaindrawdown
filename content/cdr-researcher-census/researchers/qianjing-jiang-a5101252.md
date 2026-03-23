@@ -1,7 +1,7 @@
 ---
 title: "Qianjing Jiang"
 description: "Qianjing Jiang is a Mid-career Soil Carbon researcher at Hohai University in CN. With 57 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.131198
+date: 2026-03-23T11:46:59.665729
 url: "/cdr-researcher-census/researchers/qianjing-jiang-a5101252/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 16 |
 | Citations | 650 |
 | Publications | 57 |
-| CDR Focus | 15.8% |
+| CDR Focus | 1050.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,25 +54,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    8 citations · Soil Carbon
 
 3. **Potential contribution of water management practices under intensive crop production to climate-change-associated global warming** (2024)
-   6 citations · Soil Carbon
+   6 citations
 
 4. **Simulation of soil temperature under maize: An inter-comparison among 33 maize models** (2024)
-   5 citations · Soil Carbon
+   5 citations
 
 5. **Quantifying microbial necromass contributions to soil carbon sequestration under diverse cropland management practices: A meta-analysis** (2025)
-   3 citations · Soil Carbon
+   3 citations · General CDR
 
 6. **Cover crops potentially enhance soil organic carbon sequestration to offset greenhouse gas emissions without yield penalty towards net-zero rice agriculture** (2025)
    0 citations · Soil Carbon
 
 7. **Unlocking the potential of microbial necromass for enhancing soil carbon sequestration: A global perspective on cropland management using meta-analysis** (2025)
-   0 citations · Soil Carbon
+   0 citations · Biochar
 
 8. **Data-driven optimization of county-scale straw management for low-carbon and income-enhancing rice production in China** (2025)
    0 citations · Soil Carbon
 
 9. **Data-Driven Optimization of County-Scale Straw Management for Low-Carbon and Income-Enhancing Rice Production in China** (2025)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

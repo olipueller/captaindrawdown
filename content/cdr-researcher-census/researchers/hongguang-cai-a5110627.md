@@ -1,7 +1,7 @@
 ---
 title: "Hongguang Cai"
 description: "Hongguang Cai is a Senior Soil Carbon researcher at Inner Mongolia Electric Power (China) in CN. With 40 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.978028
+date: 2026-03-23T11:46:59.353420
 url: "/cdr-researcher-census/researchers/hongguang-cai-a5110627/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 18 |
 | Citations | 1,397 |
 | Publications | 40 |
-| CDR Focus | 22.5% |
+| CDR Focus | 2250.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    142 citations · Biochar
 
 2. **Climate-smart agriculture practice promotes sustainable maize production in northeastern China: Higher grain yield while less carbon footprint** (2023)
-   28 citations · Soil Carbon
+   28 citations · General CDR
 
 3. **Soil organic carbon accumulation mechanisms in soil amended with straw and biochar: entombing effect or biochemical protection?** (2025)
    26 citations · Biochar

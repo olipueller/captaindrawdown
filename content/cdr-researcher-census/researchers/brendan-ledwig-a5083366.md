@@ -1,7 +1,7 @@
 ---
 title: "Brendan Ledwig"
-description: "Brendan Ledwig is a Mid-career General CDR researcher at Kiel University in DE. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.895292
+description: "Brendan Ledwig is a Mid-career Enhanced Weathering researcher at Kiel University in DE. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.854637
 url: "/cdr-researcher-census/researchers/brendan-ledwig-a5083366/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Kiel University · 🇩🇪 DE
 
 ## CDR Specialization
 
-**General CDR**
+**Enhanced Weathering**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 
@@ -42,7 +42,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 3 |
 | Citations | 168 |
 | Publications | 3 |
-| CDR Focus | 33.3% |
+| CDR Focus | 3330.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

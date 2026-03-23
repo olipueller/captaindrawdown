@@ -1,7 +1,7 @@
 ---
 title: "Brendan R. Carter"
 description: "Brendan R. Carter is a Senior Ocean CDR researcher at CICOES in US. With 127 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.889176
+date: 2026-03-23T11:46:59.142310
 url: "/cdr-researcher-census/researchers/brendan-r-carter-a5008670/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 32 |
 | Citations | 4,474 |
 | Publications | 127 |
-| CDR Focus | 21.3% |
+| CDR Focus | 1100.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,28 +54,28 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    90 citations · General CDR
 
 2. **Modelling considerations for research on ocean alkalinity enhancement (OAE)** (2023)
-   32 citations · Ocean CDR
+   32 citations · General CDR
 
 3. **An updated version of the global interior ocean biogeochemical data product, GLODAPv2.2021** (2021)
-   23 citations · Ocean CDR
+   23 citations · General CDR
 
 4. **Modeling considerations for research on Ocean Alkalinity Enhancement (OAE)** (2023)
-   20 citations · Ocean CDR
+   20 citations · General CDR
 
 5. **An assessment of ocean alkalinity enhancement using aqueous hydroxides: kinetics, efficiency, and precipitation thresholds** (2024)
-   19 citations · General CDR
+   19 citations · Ocean CDR
 
 6. **Mixing and dilution controls on marine CO<sub>2</sub> removal using alkalinity enhancement** (2024)
    14 citations · Ocean CDR
 
 7. **Novel field trial for ocean alkalinity enhancement using electrochemically derived aqueous alkalinity** (2025)
-   8 citations · General CDR
+   8 citations · Ocean CDR
 
 8. **Random and systematic uncertainty in ship‐based seawater carbonate chemistry observations** (2024)
    8 citations · General CDR
 
 9. **Biological Responses to Ocean Acidification Are Changing the Global Ocean Carbon Cycle** (2025)
-   7 citations · General CDR
+   7 citations · Ocean CDR
 
 10. **A comprehensive assessment of electrochemical ocean alkalinity enhancement in seawater: kinetics, efficiency, and precipitation thresholds** (2024)
    6 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Michiel Van Tendeloo"
 description: "Michiel Van Tendeloo is a Mid-career Enhanced Weathering researcher at University of Antwerp in BE. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.500602
+date: 2026-03-23T11:47:00.308486
 url: "/cdr-researcher-census/researchers/michiel-van-tendeloo-a5075775/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 9 |
 | Citations | 282 |
 | Publications | 22 |
-| CDR Focus | 40.9% |
+| CDR Focus | 3180.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -57,25 +57,25 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    9 citations · Enhanced Weathering
 
 3. **How earthworms thrive and drive silicate rock weathering in an artificial organo-mineral system** (2024)
-   8 citations · Biochar
+   8 citations · Enhanced Weathering
 
 4. **Machine learning-based identification of key biotic and abiotic drivers of mineral weathering rate in a complex enhanced weathering experiment** (2025)
-   1 citations · Biochar
+   1 citations
 
 5. **Microbial dissolution of Gran Canaria lapilli in small-scale flow through columns: carbon dioxide removal potential** (2025)
-   1 citations · General CDR
+   1 citations · Enhanced Weathering
 
 6. **Alkalinity production and carbon capture from dunite weathering: Individual effects of oxalate, citrate, and EDTA salts** (2025)
    0 citations · Enhanced Weathering
 
 7. **Economic feasibility of a novel bio-accelerated silicate weathering reactor concept for climate change mitigation** (2025)
-   0 citations · Biochar
+   0 citations · Enhanced Weathering
 
 8. **Machine learning-based identification of key biotic and abiotic drivers of mineral weathering rate in a complex enhanced weathering experiment** (2025)
-   0 citations · Biochar
+   0 citations · Enhanced Weathering
 
 9. **Economic Feasibility of a Novel Bio-Accelerated Silicate Weathering Reactor Concept for Climate Change Mitigation** (2024)
-   0 citations · Biochar
+   0 citations · Enhanced Weathering
 
 ## External Profiles
 

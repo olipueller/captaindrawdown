@@ -1,7 +1,7 @@
 ---
 title: "K. R. Sooryamol"
 description: "K. R. Sooryamol is a Mid-career Soil Carbon researcher at Indian Council of Agricultural Research in IN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.859548
+date: 2026-03-23T11:47:00.805401
 url: "/cdr-researcher-census/researchers/k-r-sooryamol-a5003532/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 176 |
 | Publications | 20 |
-| CDR Focus | 15.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,10 +54,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    12 citations · Soil Carbon
 
 2. **<sup>137</sup> Cs radiotracer in investigating influence of hillslope positions and land use on soil erosion and soil organic carbon stock—A case study in the Himalayan region** (2024)
-   7 citations · Enhanced Weathering
+   7 citations · Soil Carbon
 
 3. **Smart Farming and Carbon Sequestration to Combat the Climate Crisis** (2023)
-   1 citations · Soil Carbon
+   1 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Ginjo Gitima"
 description: "Ginjo Gitima is a Mid-career Soil Carbon researcher at Institute of Geography in KZ. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.198695
+date: 2026-03-23T11:47:01.203752
 url: "/cdr-researcher-census/researchers/ginjo-gitima-a5020198/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 123 |
 | Publications | 10 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    1 citations · Soil Carbon
 
 2. **Carbon stock dynamics in Sheka forest biosphere reserve, Ethiopia: A 60-year trajectory (1990–2050) and its implications for ecosystem services and conservation** (2025)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

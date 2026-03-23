@@ -1,7 +1,7 @@
 ---
 title: "David H. Le"
-description: "David H. Le is a Mid-career General CDR researcher at Oregon State University in US. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.344612
+description: "David H. Le is a Mid-career carbon dioxide removal researcher at Oregon State University in US. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.361518
 url: "/cdr-researcher-census/researchers/david-h-le-a5054418/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Oregon State University · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 3 |
 | Citations | 107 |
 | Publications | 4 |
-| CDR Focus | 25.0% |
+| CDR Focus | 2500.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Robust metal-organic frameworks for dry and wet biogas upgrading** (2021)
-   32 citations · General CDR
+   32 citations
 
 ## External Profiles
 

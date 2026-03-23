@@ -1,7 +1,7 @@
 ---
 title: "Zhenghua Lian"
-description: "Zhenghua Lian is a Mid-career Soil Carbon researcher. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.081624
+description: "Zhenghua Lian is a Mid-career General CDR researcher. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.077589
 url: "/cdr-researcher-census/researchers/zhenghua-lian-a5107745/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,9 +26,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -37,13 +37,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 137 |
 | Publications | 5 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **The Role of Fertilization on Soil Carbon Sequestration in Bibliometric Analysis** (2024)
-   7 citations · Biochar
+   7 citations · General CDR
 
 ## External Profiles
 

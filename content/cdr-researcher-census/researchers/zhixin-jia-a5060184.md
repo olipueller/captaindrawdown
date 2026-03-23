@@ -1,7 +1,7 @@
 ---
 title: "Zhixin Jia"
 description: "Zhixin Jia is a Mid-career Soil Carbon researcher at Shanxi Agricultural University in CN. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.589317
+date: 2026-03-23T11:47:00.431222
 url: "/cdr-researcher-census/researchers/zhixin-jia-a5060184/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 250 |
 | Publications | 6 |
-| CDR Focus | 50.0% |
+| CDR Focus | 5000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

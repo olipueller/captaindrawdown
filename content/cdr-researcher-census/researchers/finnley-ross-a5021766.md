@@ -1,7 +1,7 @@
 ---
 title: "Finnley Ross"
-description: "Finnley Ross is an Early-career Ocean CDR researcher at Deakin University in AU. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.724862
+description: "Finnley Ross is an Early-career General CDR researcher at Deakin University in AU. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.611596
 url: "/cdr-researcher-census/researchers/finnley-ross-a5021766/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Deakin University · 🇦🇺 AU
 
 ## CDR Specialization
 
-**Ocean CDR**
+**General CDR**
 
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 4 |
 | Citations | 208 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **A critical analysis of marine carbon sequestration opportunities in South Korea** (2025)
-   3 citations · Ocean CDR
+   3 citations · General CDR
 
 ## External Profiles
 

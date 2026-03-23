@@ -1,7 +1,7 @@
 ---
 title: "Alexander Zoelle"
 description: "Alexander Zoelle is a Mid-career DAC researcher at National Energy Technology Laboratory in US. With 30 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.003942
+date: 2026-03-23T11:46:59.419726
 url: "/cdr-researcher-census/researchers/alexander-zoelle-a5032025/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 10 |
 | Citations | 1,156 |
 | Publications | 30 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Direct Air Capture Case Studies: Sorbent System** (2022)
-   23 citations · DAC
+   23 citations
 
 2. **Direct Air Capture Case Studies: Solvent System** (2022)
-   11 citations · DAC
+   11 citations
 
 3. **Techno-Economic Analysis of Sorbent-Based Direct Air Capture Informed by EPC Input and Recent Technological Advancements** (2025)
    1 citations · DAC

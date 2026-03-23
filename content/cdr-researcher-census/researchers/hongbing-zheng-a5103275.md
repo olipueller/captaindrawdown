@@ -1,7 +1,7 @@
 ---
 title: "Hongbing Zheng"
 description: "Hongbing Zheng is a Senior Soil Carbon researcher. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.304600
+date: 2026-03-23T11:46:59.983467
 url: "/cdr-researcher-census/researchers/hongbing-zheng-a5103275/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 407 |
 | Publications | 22 |
-| CDR Focus | 18.2% |
+| CDR Focus | 1360.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -49,13 +49,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    15 citations · Soil Carbon
 
 2. **Sustainable Soil Management in Alkaline Soils: The Role of Biochar and Organic Nitrogen in Enhancing Soil Fertility** (2024)
-   2 citations · Biochar
+   2 citations
 
 3. **Sustainable Soil Management in Alkaline Soils: The Role of Biochar and Organic Nitrogen in Enhancing Soil Fertility** (2024)
    2 citations · Biochar
 
 4. **Carbon Sequestration and Sustainable Soil Management** (2025)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

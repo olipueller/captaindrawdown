@@ -1,7 +1,7 @@
 ---
 title: "Ofori Prince Danso"
 description: "Ofori Prince Danso is an Early-career Biochar researcher at University of Science and Technology of China in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.155686
+date: 2026-03-23T11:47:01.153594
 url: "/cdr-researcher-census/researchers/ofori-prince-danso-a5033642/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 4 |
 | Citations | 128 |
 | Publications | 5 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

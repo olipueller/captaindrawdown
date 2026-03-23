@@ -1,0 +1,59 @@
+---
+title: "Ranzhe Jiang"
+description: "Ranzhe Jiang is a Mid-career Soil Carbon researcher at Jilin University in CN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.355700
+url: "/cdr-researcher-census/researchers/ranzhe-jiang-a5065201/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Ranzhe Jiang",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/ranzhe-jiang-a5065201/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Jilin University"
+  },
+  "sameAs": "https://openalex.org/A5065201279"
+}
+</script>
+
+## Profile
+
+**Ranzhe Jiang**  
+Jilin University · 🇨🇳 CN
+
+**Career Stage:** Mid-career
+
+## CDR Specialization
+
+**Soil Carbon**
+
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 9 |
+| Citations | 270 |
+| Publications | 16 |
+| CDR Focus | 620.0% |
+| Trajectory | Exiting |
+
+## Top CDR Publications
+
+1. **Estimation of soil organic carbon by combining hyperspectral and radar remote sensing to reduce coupling effects of soil surface moisture and roughness** (2024)
+   28 citations · Soil Carbon
+
+## External Profiles
+
+- [OpenAlex](https://openalex.org/A5065201279)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

@@ -1,7 +1,7 @@
 ---
 title: "Junzhen Li"
-description: "Junzhen Li is a Mid-career Soil Carbon researcher at Sichuan University in CN. With 12 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.080712
+description: "Junzhen Li is a Mid-career Biochar researcher at Sichuan University in CN. With 12 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.076649
 url: "/cdr-researcher-census/researchers/junzhen-li-a5077374/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Sichuan University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 3 |
 | Citations | 137 |
 | Publications | 12 |
-| CDR Focus | 16.7% |
+| CDR Focus | 1670.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Microplastics Alter Growth and Reproduction Strategy of Scirpus mariqueter by Modifying Soil Nutrient Availability** (2025)
-   0 citations · Soil Carbon
+   0 citations
 
 2. **Spartina alterniflora-Derived Biochar Alters Biomass Allocation and Root Traits of Native Scirpus mariqueter** (2025)
    0 citations · Biochar

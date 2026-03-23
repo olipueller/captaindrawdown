@@ -1,7 +1,7 @@
 ---
 title: "Xuemin Tang"
 description: "Xuemin Tang is a Mid-career Soil Carbon researcher at Guizhou Minzu University in CN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.865884
+date: 2026-03-23T11:47:00.811975
 url: "/cdr-researcher-census/researchers/xuemin-tang-a5036747/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 175 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

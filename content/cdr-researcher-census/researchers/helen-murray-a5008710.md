@@ -1,7 +1,7 @@
 ---
 title: "Helen Murray"
-description: "Helen Murray is a Senior Soil Carbon researcher at University of Glasgow in GB. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.590148
+description: "Helen Murray is a Senior General CDR researcher at University of Glasgow in GB. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.432093
 url: "/cdr-researcher-census/researchers/helen-murray-a5008710/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ University of Glasgow · 🇬🇧 GB
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 3 |
 | Citations | 250 |
 | Publications | 6 |
-| CDR Focus | 16.7% |
+| CDR Focus | 1670.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Identifying and understanding how critical landscapes for carbon sequestration respond to development for low carbon energy production: Insight to inform optimal land planning and management strategies** (2025)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

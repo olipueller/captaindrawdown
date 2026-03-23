@@ -1,7 +1,7 @@
 ---
 title: "Hiral Jariwala"
-description: "Hiral Jariwala is an Early-career Soil Carbon researcher at University of Guelph in CA. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.645979
+description: "Hiral Jariwala is an Early-career Enhanced Weathering researcher at University of Guelph in CA. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.510008
 url: "/cdr-researcher-census/researchers/hiral-jariwala-a5035746/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Guelph · 🇨🇦 CA
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Enhanced Weathering**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 229 |
 | Publications | 5 |
-| CDR Focus | 60.0% |
+| CDR Focus | 4000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    10 citations · Enhanced Weathering
 
 3. **GeoRewind: Engineering carbon-sequestering soil amendments for carbon- smart soils** (2022)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

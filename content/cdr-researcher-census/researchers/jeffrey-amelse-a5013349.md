@@ -1,7 +1,7 @@
 ---
 title: "Jeffrey Amelse"
-description: "Jeffrey Amelse is a Senior DAC researcher at University of Aveiro in PT. With 36 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.102447
+description: "Jeffrey Amelse is a Senior General CDR researcher at University of Aveiro in PT. With 36 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.616417
 url: "/cdr-researcher-census/researchers/jeffrey-amelse-a5013349/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Aveiro · 🇵🇹 PT
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 11 |
 | Citations | 715 |
 | Publications | 36 |
-| CDR Focus | 25.0% |
+| CDR Focus | 1390.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -57,19 +57,19 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    2 citations · DAC
 
 3. **An ECIU (European Consortium of Innovative Universities) Micromodule on Global Warming, Renewable Energy, and Decarbonization** (2024)
-   1 citations · BECCS
+   1 citations · General CDR
 
 4. **Sequestering Biomass for Natural, Efficient, and Low-Cost Direct Air Capture of Carbon Dioxide** (2021)
    1 citations · DAC
 
 5. **A European Consortium of Innovative Universities Micromodule on Global Warming, Renewable Energy, and Decarbonization** (2025)
-   0 citations · BECCS
+   0 citations · General CDR
 
 6. **Sequestering Biomass for Natural, Efficient, and Low-Cost Direct Air Capture of Carbon Dioxide** (2021)
    0 citations · DAC
 
 7. **Sequestering Biomass for Natural, Efficient, and Low-Cost Direct Air Capture of Carbon Dioxide** (2021)
-   0 citations · DAC
+   0 citations
 
 8. **Sequestering Biomass for Natural, Efficient, and Low-Cost Direct Air Capture of Carbon Dioxide** (2021)
    0 citations · DAC

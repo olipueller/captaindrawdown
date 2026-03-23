@@ -1,7 +1,7 @@
 ---
 title: "Zhaofeng Chang"
-description: "Zhaofeng Chang is a Mid-career Soil Carbon researcher at Kunming University of Science and Technology in CN. With 61 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.032945
+description: "Zhaofeng Chang is a Mid-career Biochar researcher at Kunming University of Science and Technology in CN. With 61 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.478105
 url: "/cdr-researcher-census/researchers/zhaofeng-chang-a5003993/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Kunming University of Science and Technology · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 19 |
 | Citations | 973 |
 | Publications | 61 |
-| CDR Focus | 13.1% |
+| CDR Focus | 660.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -63,7 +63,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    9 citations · Soil Carbon
 
 5. **Environmental implications of residual pyrogenic carbonaceous materials from incomplete biomass combustion: a review** (2024)
-   8 citations · Soil Carbon
+   8 citations · Biochar
 
 6. **The dual effect of disodium anthraquinone-2,6-disulfonate (AQDS) on the Cr(VI) removal by biochar: The enhanced electron transfer and the inhibited adsorption** (2023)
    7 citations · Biochar

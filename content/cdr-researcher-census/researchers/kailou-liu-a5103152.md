@@ -1,7 +1,7 @@
 ---
 title: "Kailou Liu"
 description: "Kailou Liu is a Mid-career Soil Carbon researcher at Jiangxi Institute of Red Soil in CN. With 26 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.209845
+date: 2026-03-23T11:46:59.813600
 url: "/cdr-researcher-census/researchers/kailou-liu-a5103152/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 12 |
 | Citations | 516 |
 | Publications | 26 |
-| CDR Focus | 11.5% |
+| CDR Focus | 770.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Organic manure rather than chemical fertilization improved dark CO2 fixation by regulating associated microbial functional traits in upland red soils** (2024)
-   2 citations · Soil Carbon
+   2 citations
 
 2. **Linkages between enhanced soil cellobiohydrolase activity and nutrient status-driven shifts in cbhI-harboring fungal community under long-term swine manure fertilization** (2025)
    0 citations · Soil Carbon

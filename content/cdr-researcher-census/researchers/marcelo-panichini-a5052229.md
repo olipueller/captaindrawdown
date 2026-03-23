@@ -1,7 +1,7 @@
 ---
 title: "Marcelo Panichini"
 description: "Marcelo Panichini is a Senior Soil Carbon researcher. With 22 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.186999
+date: 2026-03-23T11:46:59.768485
 url: "/cdr-researcher-census/researchers/marcelo-panichini-a5052229/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -37,16 +37,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 10 |
 | Citations | 554 |
 | Publications | 22 |
-| CDR Focus | 18.2% |
+| CDR Focus | 1360.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Silvopastoral Systems on Degraded Lands for Soil Carbon Sequestration and Climate Change Mitigation** (2023)
-   8 citations · Soil Carbon
+   8 citations · General CDR
 
 2. **Comparative Study between Silvopastoral and Agroforest Systems on Soil Quality in a Disturbed Native Forest of South-Central Chile** (2023)
-   6 citations · Soil Carbon
+   6 citations · General CDR
 
 3. **How Natural Regeneration After Severe Disturbance Affects Ecosystem Services Provision of Andean Forest Soils at Contrasting Timescales** (2025)
    4 citations · Soil Carbon

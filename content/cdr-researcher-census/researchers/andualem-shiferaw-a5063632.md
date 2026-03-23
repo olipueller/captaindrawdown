@@ -1,7 +1,7 @@
 ---
 title: "Andualem Shiferaw"
 description: "Andualem Shiferaw is a Mid-career Soil Carbon researcher at University of Nebraska–Lincoln in US. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.292527
+date: 2026-03-23T11:46:59.964016
 url: "/cdr-researcher-census/researchers/andualem-shiferaw-a5063632/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 417 |
 | Publications | 17 |
-| CDR Focus | 11.8% |
+| CDR Focus | 1180.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Soil organic carbon trends in US Midwest continuous maize and maize–soybean systems over 20 years** (2025)
-   1 citations · Soil Carbon
+   1 citations · General CDR
 
 2. **Soil Organic Carbon Trends in Midwest Maize and Maize-Soybean Systems Over 20 Years** (2023)
    0 citations · Soil Carbon

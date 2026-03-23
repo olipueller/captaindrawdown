@@ -1,7 +1,7 @@
 ---
 title: "Endré Schiberna"
-description: "Endré Schiberna is a Senior Soil Carbon researcher at University of Sopron in HU. With 20 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.415206
+description: "Endré Schiberna is a Senior General CDR researcher at University of Sopron in HU. With 20 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.430281
 url: "/cdr-researcher-census/researchers/endre-schiberna-a5065626/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Sopron ·  HU
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,16 +45,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 101 |
 | Publications | 20 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Carbon credit revenue assessment for four shelterbelt projects following EU CRCF protocols** (2025)
-   4 citations · Soil Carbon
+   4 citations · General CDR
 
 2. **From Climate Liability to Market Opportunity: Valuing Carbon Sequestration and Storage Services in the Forest-Based Sector** (2025)
-   2 citations · Soil Carbon
+   2 citations · General CDR
 
 ## External Profiles
 

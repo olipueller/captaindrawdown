@@ -1,7 +1,7 @@
 ---
 title: "Chuangji Feng"
 description: "Chuangji Feng is an Early-career Enhanced Weathering researcher at University of Science and Technology of China in CN. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.220166
+date: 2026-03-23T11:47:01.227326
 url: "/cdr-researcher-census/researchers/chuangji-feng-a5101194/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 4 |
 | Citations | 120 |
 | Publications | 12 |
-| CDR Focus | 16.7% |
+| CDR Focus | 830.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

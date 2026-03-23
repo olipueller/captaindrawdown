@@ -1,7 +1,7 @@
 ---
 title: "Peyman Babakhani"
 description: "Peyman Babakhani is a Mid-career Ocean CDR researcher at University of Leeds in GB. With 36 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.052591
+date: 2026-03-23T11:46:59.523769
 url: "/cdr-researcher-census/researchers/peyman-babakhani-a5043786/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 14 |
 | Citations | 872 |
 | Publications | 36 |
-| CDR Focus | 11.1% |
+| CDR Focus | 830.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,13 +54,13 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    101 citations · Soil Carbon
 
 2. **Potential use of engineered nanoparticles in ocean fertilization for large-scale atmospheric carbon dioxide removal** (2022)
-   53 citations · General CDR
+   53 citations · Ocean CDR
 
 3. **A potential nanoscience and technology solution for ocean-based carbon dioxide removal and sequestration on a global scale: A remarkable opportunity for advanced analytical techniques** (2024)
    0 citations · General CDR
 
 4. **POTENTIAL USE OF ENGINEERED NANOPARTICLES IN OCEAN FERTILIZATION FOR LARGE-SCALE ATMOSPHERIC CARBON DIOXIDE REMOVAL** (2024)
-   0 citations · General CDR
+   0 citations · Ocean CDR
 
 ## External Profiles
 

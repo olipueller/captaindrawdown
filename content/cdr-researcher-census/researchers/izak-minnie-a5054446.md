@@ -1,7 +1,7 @@
 ---
 title: "Izak Minnie"
-description: "Izak Minnie is an Early-career General CDR researcher. With 5 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.264968
+description: "Izak Minnie is an Early-career carbon dioxide removal researcher. With 5 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.277417
 url: "/cdr-researcher-census/researchers/izak-minnie-a5054446/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -24,12 +24,6 @@ robots: "index, follow"
 
 **Career Stage:** Early-career
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -37,13 +31,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 1 |
 | Citations | 115 |
 | Publications | 5 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **The use of hollow fibre membrane dialysers in a liquid-liquid configuration for respiratory support** (2022)
-   0 citations · General CDR
+   0 citations
 
 ## External Profiles
 

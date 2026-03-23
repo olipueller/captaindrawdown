@@ -1,7 +1,7 @@
 ---
 title: "Andrés C. Acosta"
-description: "Andrés C. Acosta is a Senior Soil Carbon researcher. With 13 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.042675
+description: "Andrés C. Acosta is a Senior Biochar researcher. With 13 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.034218
 url: "/cdr-researcher-census/researchers/andres-c-acosta-a5028092/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,9 +29,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -40,22 +40,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 3 |
 | Citations | 143 |
 | Publications | 13 |
-| CDR Focus | 30.8% |
+| CDR Focus | 2310.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Hydrothermal carbonization and pyrolysis in wetland engineering: Carbon sequestration, phosphorus recovery, and structural characterization of willow-based chars with X-ray μ-computed tomography** (2024)
-   16 citations · Soil Carbon
+   16 citations · Biochar
 
 2. **Application Potential of Wastewater Fertigated Short Rotation Coppice Systems in a Selected Region (Aligarh, UP, India)** (2023)
    1 citations · Soil Carbon
 
 3. **Hydrothermal and Thermochemical Processing for Resource Recovery in Wetland Engineering:Synthesis and Characterization of Willow-Based Chars, Activated Carbons, and Platform Chemicals** (2024)
-   0 citations · BECCS
+   0 citations · Biochar
 
 4. **Hydrothermal Carbonization and Pyrolysis in Wetland Engineering: Carbon Sequestration, Phosphorus Recovery, and Structural Characterization of Willow-Based Chars with X-Ray Μ-Computed Tomography** (2024)
-   0 citations · Soil Carbon
+   0 citations · Biochar
 
 ## External Profiles
 

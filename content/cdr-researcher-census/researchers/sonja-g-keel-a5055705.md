@@ -1,7 +1,7 @@
 ---
 title: "Sonja G. Keel"
-description: "Sonja G. Keel is a Senior Soil Carbon researcher at Agroscope in CH. With 59 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.902035
+description: "Sonja G. Keel is a Senior General CDR researcher at Agroscope in CH. With 59 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.176909
 url: "/cdr-researcher-census/researchers/sonja-g-keel-a5055705/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Agroscope · 🇨🇭 CH
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 23 |
 | Citations | 3,360 |
 | Publications | 59 |
-| CDR Focus | 15.3% |
+| CDR Focus | 1190.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,28 +54,28 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    52 citations · Biochar
 
 2. **Quantifying negative radiative forcing of non-permanent and permanent soil carbon sinks** (2022)
-   24 citations · Soil Carbon
+   24 citations · General CDR
 
 3. **Soil carbon sequestration potential bounded by population growth, land availability, food production, and climate change** (2023)
-   14 citations · Biochar
+   14 citations · General CDR
 
 4. **Organic carbon contents of mineral grassland soils in Switzerland over the last 30 years** (2022)
-   11 citations · Soil Carbon
+   11 citations · General CDR
 
 5. **Efficiency of Plant Biomass Processing Pathways for Long‐Term Soil Carbon Storage** (2025)
-   3 citations · Biochar
+   3 citations · General CDR
 
 6. **Efficiency of plant biomass processing pathways for long-term soil carbon storage** (2025)
-   0 citations · Biochar
+   0 citations
 
 7. **Realistic soil carbon sequestration considering food security and climate change** (2022)
-   0 citations · Biochar
+   0 citations
 
 8. **Realistic soil carbon sequestration considering food security and climate change** (2022)
-   0 citations · Biochar
+   0 citations · General CDR
 
 9. **Soil carbon sequestration in Switzerland: analysis of potentials and measures (Postulate Bourgeois 19.3639)** (2021)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

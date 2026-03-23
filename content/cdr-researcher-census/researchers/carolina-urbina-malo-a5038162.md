@@ -1,7 +1,7 @@
 ---
 title: "Carolina Urbina Malo"
 description: "Carolina Urbina Malo is a Mid-career Soil Carbon researcher at Leibniz University Hannover in DE. With 17 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.593437
+date: 2026-03-23T11:47:00.433375
 url: "/cdr-researcher-census/researchers/carolina-urbina-malo-a5038162/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 249 |
 | Publications | 17 |
-| CDR Focus | 17.6% |
+| CDR Focus | 1760.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Seasonal dynamics of soil microbial growth, respiration, biomass, and carbon use efficiency in temperate soils** (2023)
-   72 citations · Soil Carbon
+   72 citations
 
 2. **Seasonal Dynamics of Soil Microbial Growth, Respiration, Biomass, and Carbon Use Efficiency** (2022)
    8 citations · Soil Carbon

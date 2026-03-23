@@ -1,7 +1,7 @@
 ---
 title: "Jhon Kenedy Moura Chagas"
-description: "Jhon Kenedy Moura Chagas is a Mid-career Soil Carbon researcher at Universidade de Brasília in BR. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.448116
+description: "Jhon Kenedy Moura Chagas is a Mid-career Biochar researcher at Universidade de Brasília in BR. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.217532
 url: "/cdr-researcher-census/researchers/jhon-kenedy-moura-chagas-a5004759/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Universidade de Brasília · 🇧🇷 BR
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 308 |
 | Publications | 15 |
-| CDR Focus | 20.0% |
+| CDR Focus | 1330.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

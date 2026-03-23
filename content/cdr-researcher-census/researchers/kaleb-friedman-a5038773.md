@@ -1,7 +1,7 @@
 ---
 title: "Kaleb Friedman"
-description: "Kaleb Friedman is an Early-career General CDR researcher at University at Buffalo, State University of New York in US. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.153348
+description: "Kaleb Friedman is an Early-career carbon dioxide removal researcher at University at Buffalo, State University of New York in US. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.151797
 url: "/cdr-researcher-census/researchers/kaleb-friedman-a5038773/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ University at Buffalo, State University of New York · 🇺🇸 US
 
 **Career Stage:** Early-career
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,16 +36,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 4 |
 | Citations | 128 |
 | Publications | 8 |
-| CDR Focus | 25.0% |
+| CDR Focus | 2500.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **A facilitated transport membrane composed of amine-containing ionic liquid confined in a GO/CNT network for highly efficient carbon capture** (2024)
-   16 citations · General CDR
+   16 citations
 
 2. **Epoxide-Modified Diethylenetriamine for Ambient-Temperature Direct Air Capture** (2026)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

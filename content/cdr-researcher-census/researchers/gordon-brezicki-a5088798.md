@@ -1,7 +1,7 @@
 ---
 title: "Gordon Brezicki"
-description: "Gordon Brezicki is a Mid-career DAC researcher at North Carolina Institute of Medicine in US. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.477417
+description: "Gordon Brezicki is a Mid-career carbon dioxide removal researcher at North Carolina Institute of Medicine in US. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.266012
 url: "/cdr-researcher-census/researchers/gordon-brezicki-a5088798/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ North Carolina Institute of Medicine · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 6 |
 | Citations | 294 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Bench-Scale Development of Promoted High-Capacity Structured Sorbents (Final Technical Report)** (2026)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

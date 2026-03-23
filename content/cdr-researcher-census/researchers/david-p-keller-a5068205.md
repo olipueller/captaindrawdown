@@ -1,7 +1,7 @@
 ---
 title: "David P. Keller"
-description: "David P. Keller is a Senior Ocean CDR researcher at Carbon to Sea Initiative in US. With 165 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.926698
+description: "David P. Keller is a Senior General CDR researcher at Carbon to Sea Initiative in US. With 165 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.240453
 url: "/cdr-researcher-census/researchers/david-p-keller-a5068205/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Carbon to Sea Initiative · 🇺🇸 US
 
 ## CDR Specialization
 
-**Ocean CDR**
+**General CDR**
 
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,22 +45,22 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 24 |
 | Citations | 2,261 |
 | Publications | 165 |
-| CDR Focus | 27.9% |
+| CDR Focus | 2180.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Carbon dioxide removal via macroalgae open-ocean mariculture and sinking: an Earth system modeling study** (2023)
-   73 citations · General CDR
+   73 citations · Ocean CDR
 
 2. **Modelling considerations for research on ocean alkalinity enhancement (OAE)** (2023)
-   32 citations · Ocean CDR
+   32 citations · General CDR
 
 3. **Carbon Dioxide Removal via Macroalgae Open-ocean Mariculture and Sinking: An Earth System Modeling Study** (2022)
-   27 citations · General CDR
+   27 citations
 
 4. **Modeling considerations for research on Ocean Alkalinity Enhancement (OAE)** (2023)
-   20 citations · Ocean CDR
+   20 citations · General CDR
 
 5. **Mechanisms Underpinning the Net Removal Rates of Dissolved Organic Carbon in the Global Ocean** (2024)
    14 citations · Ocean CDR
@@ -69,7 +69,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    12 citations · General CDR
 
 7. **Scientific literature on carbon dioxide removal much larger than previously suggested: insights from an AI-enhanced systematic map** (2024)
-   7 citations · Biochar
+   7 citations · General CDR
 
 8. **CMIP6 models agree on similar carbon cycle feedbacks between enhancing terrestrial and marine carbon sinks** (2025)
    6 citations · General CDR

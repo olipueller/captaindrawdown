@@ -1,7 +1,7 @@
 ---
 title: "Jianhua Zhu"
 description: "Jianhua Zhu is a Senior Soil Carbon researcher at Chongqing University in CN. With 40 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.173134
+date: 2026-03-23T11:46:59.745770
 url: "/cdr-researcher-census/researchers/jianhua-zhu-a5012091/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 12 |
 | Citations | 574 |
 | Publications | 40 |
-| CDR Focus | 15.0% |
+| CDR Focus | 750.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -57,10 +57,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    41 citations · Soil Carbon
 
 3. **Urbanization Intensifies the Mismatch between the Supply and Demand of Regional Ecosystem Services: A Large-Scale Case of the Yangtze River Economic Belt in China** (2022)
-   27 citations · Soil Carbon
+   27 citations
 
 4. **The Carbon Neutral Potential of Forests in the Yangtze River Economic Belt of China** (2022)
-   10 citations · Soil Carbon
+   10 citations · General CDR
 
 5. **Phenological season-dependent temperature effects on soil respiration in a subtropical Pinus massoniana forest** (2022)
    6 citations · Soil Carbon

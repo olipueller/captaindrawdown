@@ -1,7 +1,7 @@
 ---
 title: "Guangjin Zhou"
-description: "Guangjin Zhou is a Mid-career Soil Carbon researcher at Ministry of Ecology and Environment in CN. With 23 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.487788
+description: "Guangjin Zhou is a Mid-career General CDR researcher at Ministry of Ecology and Environment in CN. With 23 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.284820
 url: "/cdr-researcher-census/researchers/guangjin-zhou-a5024681/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Ministry of Ecology and Environment · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,19 +45,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 289 |
 | Publications | 23 |
-| CDR Focus | 13.0% |
+| CDR Focus | 1300.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Constructing a multi-leveled ecological security pattern for improving ecosystem connectivity in the Asian water Tower region** (2023)
-   28 citations · Soil Carbon
+   28 citations
 
 2. **Identifying Ecological Priority Areas for Synergistic Conservation across Scales in the Asian Water Tower Region** (2023)
-   10 citations · Soil Carbon
+   10 citations · General CDR
 
 3. **Threshold effects of vegetation increase on ecosystem services based on the constraint line method in the Loess Plateau gully Zone** (2025)
-   4 citations · Soil Carbon
+   4 citations
 
 ## External Profiles
 

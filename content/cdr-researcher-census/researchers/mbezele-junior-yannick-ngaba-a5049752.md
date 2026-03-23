@@ -1,7 +1,7 @@
 ---
 title: "Mbezele Junior Yannick Ngaba"
 description: "Mbezele Junior Yannick Ngaba is a Mid-career Soil Carbon researcher at Kunming Institute of Botany in CN. With 43 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.360115
+date: 2026-03-23T11:47:00.071139
 url: "/cdr-researcher-census/researchers/mbezele-junior-yannick-ngaba-a5049752/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,19 +45,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 11 |
 | Citations | 365 |
 | Publications | 43 |
-| CDR Focus | 18.6% |
+| CDR Focus | 1400.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Meta-analysis unveils differential effects of agroforestry on soil properties in different zonobiomes** (2023)
-   47 citations · Soil Carbon
+   47 citations
 
 2. **Meta-analysis of 21st century studies shows that deforestation induces profound changes in soil characteristics, particularly soil organic carbon accumulation** (2024)
    29 citations · Soil Carbon
 
 3. **Low-level nitrogen and short-term addition increase soil carbon sequestration in Chinese forest ecosystems** (2022)
-   20 citations · Soil Carbon
+   20 citations
 
 4. **Patterns and controlling factors of soil carbon sequestration in nitrogen-limited and -rich forests in China—a meta-analysis** (2023)
    8 citations · Soil Carbon
@@ -66,13 +66,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    7 citations · Biochar
 
 6. **Ecological restoration stimulates environmental outcomes but exacerbates water shortage in the Loess Plateau** (2022)
-   6 citations · Soil Carbon
+   6 citations
 
 7. **Low-Level Nitrogen and Short-Term Addition Increase Soil Carbon Sequestration in Chinese Forest Ecosystems** (2021)
    0 citations · Soil Carbon
 
 8. **Ecological restoration stimulates environmental outcomes but exacerbates water shortage in the Loess Plateau** (2021)
-   0 citations · Soil Carbon
+   0 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Al Ibtida Sultana"
-description: "Al Ibtida Sultana is a Mid-career Soil Carbon researcher at Florida Institute of Technology in US. With 12 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.498158
+description: "Al Ibtida Sultana is a Mid-career Biochar researcher at Florida Institute of Technology in US. With 12 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.302829
 url: "/cdr-researcher-census/researchers/al-ibtida-sultana-a5088917/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Florida Institute of Technology · 🇺🇸 US
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -45,16 +45,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 283 |
 | Publications | 12 |
-| CDR Focus | 16.7% |
+| CDR Focus | 1670.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Recent Progress on Emerging Applications of Hydrochar** (2022)
-   57 citations · Soil Carbon
+   57 citations · Biochar
 
 2. **Multifunctional Loblolly Pine-Derived Superactivated Hydrochar: Effect of Hydrothermal Carbonization on Hydrogen and Electron Storage with Carbon Dioxide and Dye Removal** (2022)
-   14 citations · General CDR
+   14 citations · Biochar
 
 ## External Profiles
 

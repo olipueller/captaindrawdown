@@ -1,7 +1,7 @@
 ---
 title: "Yalou Guo"
-description: "Yalou Guo is a Mid-career DAC researcher at Monash University in AU. With 27 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.309131
+description: "Yalou Guo is a Mid-career General CDR researcher at Monash University in AU. With 27 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.987910
 url: "/cdr-researcher-census/researchers/yalou-guo-a5008470/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Monash University · 🇦🇺 AU
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,22 +42,22 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 12 |
 | Citations | 404 |
 | Publications | 27 |
-| CDR Focus | 14.8% |
+| CDR Focus | 740.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Hydrogen production from the air** (2022)
-   137 citations · DAC
+   137 citations · General CDR
 
 2. **Hydrogen Production from the Air** (2021)
-   2 citations · DAC
+   2 citations
 
 3. **Incorporation of azolate-based ionic liquids into MCM-41 silica for direct air capture of CO2** (2026)
-   0 citations · DAC
+   0 citations
 
 4. **Incorporation of Azolate-Based Ionic Liquids into MCM-41 Silica for High-Performance Direct Air Capture of CO2** (2025)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

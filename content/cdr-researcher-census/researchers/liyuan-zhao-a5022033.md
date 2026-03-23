@@ -1,7 +1,7 @@
 ---
 title: "Liyuan Zhao"
 description: "Liyuan Zhao is a Mid-career Soil Carbon researcher at Northeast Normal University in CN. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.311722
+date: 2026-03-23T11:47:01.325455
 url: "/cdr-researcher-census/researchers/liyuan-zhao-a5022033/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 111 |
 | Publications | 5 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

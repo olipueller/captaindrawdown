@@ -1,7 +1,7 @@
 ---
 title: "Mamadou Bousso"
-description: "Mamadou Bousso is a Senior Soil Carbon researcher at Université de Thiès in SN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.114751
+description: "Mamadou Bousso is a Senior General CDR researcher at Université de Thiès in SN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.116215
 url: "/cdr-researcher-census/researchers/mamadou-bousso-a5069075/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Université de Thiès ·  SN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 133 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Ten years of carbon dioxide fluxes and carbon balance at a mixed cultivated savannah and an open forest in a tropical humid climate in West Africa** (2025)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Benjamin Morgan"
 description: "Benjamin Morgan is a Senior Soil Carbon researcher at United States Bureau of Reclamation in US. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.231196
+date: 2026-03-23T11:47:01.237694
 url: "/cdr-researcher-census/researchers/benjamin-morgan-a5101358/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 119 |
 | Publications | 12 |
-| CDR Focus | 16.7% |
+| CDR Focus | 1670.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

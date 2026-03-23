@@ -1,7 +1,7 @@
 ---
 title: "Baoan Hu"
 description: "Baoan Hu is a Senior Soil Carbon researcher at Central South University of Forestry and Technology in CN. With 28 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.369542
+date: 2026-03-23T11:47:00.085979
 url: "/cdr-researcher-census/researchers/baoan-hu-a5071956/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 359 |
 | Publications | 28 |
-| CDR Focus | 10.7% |
+| CDR Focus | 710.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Effects of Betula platyphylla invasion in North China on soil aggregate stability, soil organic carbon and active carbon composition of larch plantation** (2023)
-   6 citations · Soil Carbon
+   6 citations
 
 2. **Unraveling the Divergent Contributions of Plant‐ and Microbial‐Derived Carbon to Soil Organic Carbon During Subtropical Vegetation Restoration** (2025)
    0 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Simone Marzeddu"
 description: "Simone Marzeddu is a Mid-career Biochar researcher at Sapienza University of Rome in IT. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.347953
+date: 2026-03-23T11:47:00.047930
 url: "/cdr-researcher-census/researchers/simone-marzeddu-a5053325/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 11 |
 | Citations | 373 |
 | Publications | 20 |
-| CDR Focus | 20.0% |
+| CDR Focus | 1500.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

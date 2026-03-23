@@ -1,7 +1,7 @@
 ---
 title: "Sean McCoy"
-description: "Sean McCoy is a Senior DAC researcher at University of Calgary in CA. With 100 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.905738
+description: "Sean McCoy is a Senior General CDR researcher at University of Calgary in CA. With 100 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.187055
 url: "/cdr-researcher-census/researchers/sean-mccoy-a5001684/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Calgary · 🇨🇦 CA
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 25 |
 | Citations | 3,115 |
 | Publications | 100 |
-| CDR Focus | 13.0% |
+| CDR Focus | 900.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -57,22 +57,22 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    17 citations · DAC
 
 3. **On the climate impacts of blue hydrogen production** (2021)
-   12 citations · General CDR
+   12 citations · BECCS
 
 4. **On the climate impacts of blue hydrogen production** (2021)
-   8 citations · General CDR
+   8 citations
 
 5. **How do ambient conditions influence sorbent selection in adsorption-based direct air capture?** (2025)
-   3 citations · DAC
+   3 citations
 
 6. **Carbon and energy analysis of coupled direct air capture of CO2 with underground energy recovery** (2022)
    3 citations · DAC
 
 7. **Achieving net negative CO2 emissions with sorbent direct air capture under different energy inputs and climate variations** (2022)
-   2 citations · DAC
+   2 citations
 
 8. **How Do Ambient Conditions Influence Sorbent Selection in Adsorption-Based Direct Air Capture?** (2025)
-   1 citations · DAC
+   1 citations
 
 9. **Could the Post-SAGD Heat Recovery Supply the Direct Air CO2 Capture (DAC) Energy in a Net Negative Carbon Emission Environment?** (2023)
    1 citations · DAC

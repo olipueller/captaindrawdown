@@ -1,7 +1,7 @@
 ---
 title: "Caleb H. Geissler"
 description: "Caleb H. Geissler is a Mid-career BECCS researcher at Princeton University in US. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.163118
+date: 2026-03-23T11:47:01.162607
 url: "/cdr-researcher-census/researchers/caleb-h-geissler-a5003817/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 5 |
 | Citations | 127 |
 | Publications | 13 |
-| CDR Focus | 23.1% |
+| CDR Focus | 2310.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

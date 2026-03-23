@@ -1,7 +1,7 @@
 ---
 title: "Ioanna Itskou"
-description: "Ioanna Itskou is a Mid-career General CDR researcher at Imperial College London in GB. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.972613
+description: "Ioanna Itskou is a Mid-career carbon dioxide removal researcher at Imperial College London in GB. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.951586
 url: "/cdr-researcher-census/researchers/ioanna-itskou-a5087443/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Imperial College London · 🇬🇧 GB
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,16 +39,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 7 |
 | Citations | 153 |
 | Publications | 18 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Physicochemical Properties, Equilibrium Adsorption Performance, Manufacturability, and Stability of TIFSIX-3-Ni for Direct Air Capture of CO <sub>2</sub>** (2024)
-   14 citations · DAC
+   14 citations
 
 2. **Physicochemical properties, equilibrium adsorption performance, manufacturability, and stability of TIFSIX-3-Ni for direct air capture** (2024)
-   2 citations · DAC
+   2 citations
 
 ## External Profiles
 

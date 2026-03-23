@@ -1,7 +1,7 @@
 ---
 title: "Florence Nantaba"
-description: "Florence Nantaba is a Mid-career Biochar researcher at Makerere University in UG. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.489323
+description: "Florence Nantaba is a Mid-career carbon dioxide removal researcher at Makerere University in UG. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.286322
 url: "/cdr-researcher-census/researchers/florence-nantaba-a5016574/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Makerere University ·  UG
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Biochar**
-
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 4 |
 | Citations | 288 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Bioadsorbents for removal of microplastics from water ecosystems: a review** (2024)
-   25 citations · Biochar
+   25 citations
 
 ## External Profiles
 

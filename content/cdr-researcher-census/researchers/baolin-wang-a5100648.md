@@ -1,7 +1,7 @@
 ---
 title: "Baolin Wang"
 description: "Baolin Wang is a Senior Enhanced Weathering researcher at Forschungszentrum Jülich in DE. With 57 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.265677
+date: 2026-03-23T11:46:59.923669
 url: "/cdr-researcher-census/researchers/baolin-wang-a5100648/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 13 |
 | Citations | 438 |
 | Publications | 57 |
-| CDR Focus | 14.0% |
+| CDR Focus | 1400.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    43 citations · Enhanced Weathering
 
 3. **Cation Exchange in Smectites as a New Approach to Mineral Carbonation** (2022)
-   28 citations · General CDR
+   28 citations · Enhanced Weathering
 
 4. **Unlocking the potential of hydraulic fracturing flowback and produced water for CO2 removal via mineral carbonation** (2022)
    28 citations · DAC

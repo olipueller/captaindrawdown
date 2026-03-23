@@ -1,7 +1,7 @@
 ---
 title: "Kai Yang"
 description: "Kai Yang is a Senior Soil Carbon researcher in GB. With 39 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.003231
+date: 2026-03-23T11:46:59.418672
 url: "/cdr-researcher-census/researchers/kai-yang-a5101506/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -41,7 +41,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 18 |
 | Citations | 1,162 |
 | Publications | 39 |
-| CDR Focus | 12.8% |
+| CDR Focus | 770.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -50,13 +50,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    33 citations · Soil Carbon
 
 2. **A large carbon sink induced by the implementation of the largest afforestation program on Earth** (2023)
-   25 citations · Soil Carbon
+   25 citations · General CDR
 
 3. **Assessing the ecological effects of the World’s Largest Forestry Eco-engineering: Three-North Protective Forest Program within the initially scheduled range from 1978 to 2022** (2024)
-   16 citations · Soil Carbon
+   16 citations
 
 4. **Carbon sink of forest ecosystems: Concept, time effect and improvement approaches.** (2024)
-   3 citations · Biochar
+   3 citations · General CDR
 
 5. **Mycorrhizal associations drive the tradeoff between plant biomass and soil carbon accumulations in forest ecosystems under N deposition and warming** (2023)
    1 citations · Soil Carbon

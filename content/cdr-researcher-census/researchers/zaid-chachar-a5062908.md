@@ -1,7 +1,7 @@
 ---
 title: "Zaid Chachar"
 description: "Zaid Chachar is a Mid-career Soil Carbon researcher at Chinese University of Hong Kong, Shenzhen in CN. With 33 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.061914
+date: 2026-03-23T11:46:59.540035
 url: "/cdr-researcher-census/researchers/zaid-chachar-a5062908/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 15 |
 | Citations | 841 |
 | Publications | 33 |
-| CDR Focus | 12.1% |
+| CDR Focus | 610.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Symbiotic synergy: How Arbuscular Mycorrhizal Fungi enhance nutrient uptake, stress tolerance, and soil health through molecular mechanisms and hormonal regulation** (2025)
-   54 citations · Soil Carbon
+   54 citations
 
 2. **The role of biochar in enhancing soil health &amp; interactions with rhizosphere properties and enzyme activities in organic fertilizer substitution** (2025)
    35 citations · Biochar

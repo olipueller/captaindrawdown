@@ -1,7 +1,7 @@
 ---
 title: "Mingshuo Zhu"
 description: "Mingshuo Zhu is an Early-career Biochar researcher at Shandong University in CN. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.338476
+date: 2026-03-23T11:47:01.355696
 url: "/cdr-researcher-census/researchers/mingshuo-zhu-a5102389/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 2 |
 | Citations | 108 |
 | Publications | 2 |
-| CDR Focus | 50.0% |
+| CDR Focus | 5000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

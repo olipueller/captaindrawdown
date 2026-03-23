@@ -1,7 +1,7 @@
 ---
 title: "Xinlu Bai"
 description: "Xinlu Bai is a Mid-career Soil Carbon researcher at Tarim University in CN. With 27 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.367582
+date: 2026-03-23T11:47:00.083258
 url: "/cdr-researcher-census/researchers/xinlu-bai-a5023818/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 360 |
 | Publications | 27 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    5 citations · Soil Carbon
 
 3. **Global assessment of the fate of nitrogen deposition in forest ecosystems: Insights from <sup>15</sup> N tracer studies** (2025)
-   0 citations · Soil Carbon
+   0 citations
 
 ## External Profiles
 

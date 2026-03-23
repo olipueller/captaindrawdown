@@ -1,7 +1,7 @@
 ---
 title: "Dónal Mc Gee"
 description: "Dónal Mc Gee is a Mid-career General CDR researcher at Molecular Discovery (United Kingdom) in GB. With 16 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.437015
+date: 2026-03-23T11:47:00.199876
 url: "/cdr-researcher-census/researchers/donal-mc-gee-a5076305/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 11 |
 | Citations | 313 |
 | Publications | 16 |
-| CDR Focus | 12.5% |
+| CDR Focus | 620.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    0 citations · General CDR
 
 2. **Integrating Microalgal Co2 Capture and Valorisation in Mushroom Cultivation: A Circular Bioprocess Approach** (2025)
-   0 citations · General CDR
+   0 citations
 
 ## External Profiles
 

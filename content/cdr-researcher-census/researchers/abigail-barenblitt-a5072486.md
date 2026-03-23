@@ -1,7 +1,7 @@
 ---
 title: "Abigail Barenblitt"
 description: "Abigail Barenblitt is a Mid-career Soil Carbon researcher at Essilor (Germany) in DE. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.620170
+date: 2026-03-23T11:47:00.473253
 url: "/cdr-researcher-census/researchers/abigail-barenblitt-a5072486/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 238 |
 | Publications | 15 |
-| CDR Focus | 13.3% |
+| CDR Focus | 1330.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

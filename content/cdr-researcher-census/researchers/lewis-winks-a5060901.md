@@ -1,7 +1,7 @@
 ---
 title: "Lewis Winks"
 description: "Lewis Winks is a Mid-career General CDR researcher at Total (France) in FR. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.152045
+date: 2026-03-23T11:47:01.150733
 url: "/cdr-researcher-census/researchers/lewis-winks-a5060901/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,22 +45,22 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 6 |
 | Citations | 128 |
 | Publications | 17 |
-| CDR Focus | 23.5% |
+| CDR Focus | 590.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Public engagement and collaboration for carbon dioxide removal: lessons from a project in the Dominican Republic** (2024)
-   11 citations · Enhanced Weathering
+   11 citations · General CDR
 
 2. **Localized governance of carbon dioxide removal in small island developing states** (2023)
-   8 citations · Enhanced Weathering
+   8 citations · General CDR
 
 3. **Localized governance of carbon dioxide removal in Small Island Developing States** (2022)
-   5 citations · Enhanced Weathering
+   5 citations · General CDR
 
 4. **Opportunities and Challenges to Collaborative Governance of Carbon Dioxide Removal: Lessons From an Ocean Alkalinity Enhancement Project in Dominican Republic** (2023)
-   0 citations · Enhanced Weathering
+   0 citations · General CDR
 
 ## External Profiles
 

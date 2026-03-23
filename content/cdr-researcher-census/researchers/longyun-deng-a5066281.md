@@ -1,7 +1,7 @@
 ---
 title: "Longyun Deng"
-description: "Longyun Deng is a Mid-career Soil Carbon researcher. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.838246
+description: "Longyun Deng is a Mid-career carbon dioxide removal researcher. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.776527
 url: "/cdr-researcher-census/researchers/longyun-deng-a5066281/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -24,12 +24,6 @@ robots: "index, follow"
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -37,13 +31,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 181 |
 | Publications | 5 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Spatiotemporal heterogeneity in ecosystem service trade-offs and their drivers in the Huang-Huai-Hai Plain, China** (2024)
-   34 citations · Soil Carbon
+   34 citations
 
 ## External Profiles
 

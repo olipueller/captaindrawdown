@@ -1,7 +1,7 @@
 ---
 title: "Feihong Liang"
-description: "Feihong Liang is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 27 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.464868
+description: "Feihong Liang is a Mid-career Biochar researcher at Chinese Academy of Sciences in CN. With 27 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.243791
 url: "/cdr-researcher-census/researchers/feihong-liang-a5022604/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Chinese Academy of Sciences · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 11 |
 | Citations | 300 |
 | Publications | 27 |
-| CDR Focus | 14.8% |
+| CDR Focus | 1480.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    2 citations · Biochar
 
 4. **Integrated carbon sequestration and agricultural efficiency enhancement: Reconstruction of tomato ecosystem carbon cycle via carbonized biomass ash-biogas slurry system** (2025)
-   1 citations · Soil Carbon
+   1 citations · Biochar
 
 ## External Profiles
 

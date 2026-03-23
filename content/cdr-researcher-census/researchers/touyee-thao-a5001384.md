@@ -1,7 +1,7 @@
 ---
 title: "Touyee Thao"
-description: "Touyee Thao is a Mid-career Soil Carbon researcher at University of California System in US. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.730878
+description: "Touyee Thao is a Mid-career General CDR researcher at University of California System in US. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.622646
 url: "/cdr-researcher-census/researchers/touyee-thao-a5001384/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of California System · 🇺🇸 US
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,16 +45,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 206 |
 | Publications | 16 |
-| CDR Focus | 12.5% |
+| CDR Focus | 620.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **What’s Soil Got to Do with Climate Change?** (2022)
-   16 citations · Soil Carbon
+   16 citations · General CDR
 
 2. **Influence of woodchip size and nitrogen fertilization on carbon dioxide and nitrous oxide emissions from soils amended with orchard biomass** (2024)
-   3 citations · Soil Carbon
+   3 citations · General CDR
 
 ## External Profiles
 

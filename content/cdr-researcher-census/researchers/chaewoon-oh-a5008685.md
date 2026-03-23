@@ -1,7 +1,7 @@
 ---
 title: "Chaewoon Oh"
-description: "Chaewoon Oh is a Mid-career DAC researcher. With 40 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.051766
+description: "Chaewoon Oh is a Mid-career General CDR researcher. With 40 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.044343
 url: "/cdr-researcher-census/researchers/chaewoon-oh-a5008685/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,9 +29,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -40,7 +40,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 7 |
 | Citations | 141 |
 | Publications | 40 |
-| CDR Focus | 17.5% |
+| CDR Focus | 1750.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

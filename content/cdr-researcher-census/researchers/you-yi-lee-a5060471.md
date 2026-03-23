@@ -1,7 +1,7 @@
 ---
 title: "You-Yi Lee"
-description: "You-Yi Lee is a Mid-career Soil Carbon researcher at National Taiwan University in TW. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.627737
+description: "You-Yi Lee is a Mid-career General CDR researcher at National Taiwan University in TW. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.483088
 url: "/cdr-researcher-census/researchers/you-yi-lee-a5060471/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ National Taiwan University · 🇹🇼 TW
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,16 +45,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 236 |
 | Publications | 13 |
-| CDR Focus | 15.4% |
+| CDR Focus | 770.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Innovative fertilization strategies for in-situ pollution control and carbon negativity enhancement in agriculture** (2024)
-   6 citations · Biochar
+   6 citations · General CDR
 
 2. **The circularity of marine microplastics under the influence of climate change** (2023)
-   1 citations · Enhanced Weathering
+   1 citations
 
 ## External Profiles
 

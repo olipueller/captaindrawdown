@@ -1,7 +1,7 @@
 ---
 title: "Niklas Schmücker"
-description: "Niklas Schmücker is a Mid-career Enhanced Weathering researcher at ETH Zurich in CH. With 7 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.320895
+description: "Niklas Schmücker is a Mid-career Soil Carbon researcher at ETH Zurich in CH. With 7 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.337586
 url: "/cdr-researcher-census/researchers/niklas-schmucker-a5085290/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ ETH Zurich · 🇨🇭 CH
 
 ## CDR Specialization
 
-**Enhanced Weathering**
+**Soil Carbon**
 
-Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 2 |
 | Citations | 110 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **A Novel Multi-Factor Interpretation of Visual Evaluation of Soil Structure in Forest Soils** (2026)
-   0 citations · Enhanced Weathering
+   0 citations · Soil Carbon
 
 ## External Profiles
 

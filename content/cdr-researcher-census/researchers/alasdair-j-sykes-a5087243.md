@@ -1,7 +1,7 @@
 ---
 title: "Alasdair J. Sykes"
 description: "Alasdair J. Sykes is a Mid-career Soil Carbon researcher at Scotland's Rural College in GB. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.429390
+date: 2026-03-23T11:47:00.187043
 url: "/cdr-researcher-census/researchers/alasdair-j-sykes-a5087243/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 318 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

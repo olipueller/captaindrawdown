@@ -1,7 +1,7 @@
 ---
 title: "Ruth Dikki"
-description: "Ruth Dikki is a Mid-career DAC researcher at Case Western Reserve University in US. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.685054
+description: "Ruth Dikki is a Mid-career carbon dioxide removal researcher at Case Western Reserve University in US. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.560939
 url: "/cdr-researcher-census/researchers/ruth-dikki-a5031167/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Case Western Reserve University · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 7 |
 | Citations | 219 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Microwave Regeneration and Thermal and Oxidative Stability of Imidazolium Cyanopyrrolide Ionic Liquid for Direct Air Capture of Carbon Dioxide** (2023)
-   22 citations · DAC
+   22 citations
 
 ## External Profiles
 

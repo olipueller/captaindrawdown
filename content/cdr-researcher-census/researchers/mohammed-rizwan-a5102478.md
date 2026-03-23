@@ -1,7 +1,7 @@
 ---
 title: "Mohammed Rizwan"
-description: "Mohammed Rizwan is a Senior Soil Carbon researcher at Heidelberg University in DE. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.132317
+description: "Mohammed Rizwan is a Senior General CDR researcher at Heidelberg University in DE. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.132431
 url: "/cdr-researcher-census/researchers/mohammed-rizwan-a5102478/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Heidelberg University · 🇩🇪 DE
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 131 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **CCS in Onshore Deep Carbonate Saline Aquifer: Fast-Track from Feasibility to Project Implementation** (2023)
-   8 citations · Soil Carbon
+   8 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Ricksy Prematuri"
-description: "Ricksy Prematuri is a Mid-career Soil Carbon researcher at IPB University in ID. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.740301
+description: "Ricksy Prematuri is a Mid-career General CDR researcher at IPB University in ID. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.632048
 url: "/cdr-researcher-census/researchers/ricksy-prematuri-a5017290/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ IPB University · 🇮🇩 ID
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 204 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Tropical Fungi and LULUCF: Synergies for Climate Mitigation Through Nature-Based Culture (NbC)** (2025)
-   1 citations · Soil Carbon
+   1 citations · General CDR
 
 ## External Profiles
 

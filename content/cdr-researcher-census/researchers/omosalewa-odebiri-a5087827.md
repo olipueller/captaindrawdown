@@ -1,7 +1,7 @@
 ---
 title: "Omosalewa Odebiri"
 description: "Omosalewa Odebiri is a Mid-career Soil Carbon researcher at Deakin University in AU. With 24 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.235680
+date: 2026-03-23T11:46:59.861025
 url: "/cdr-researcher-census/researchers/omosalewa-odebiri-a5087827/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 11 |
 | Citations | 481 |
 | Publications | 24 |
-| CDR Focus | 20.8% |
+| CDR Focus | 1250.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -60,10 +60,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    25 citations · Soil Carbon
 
 4. **Remote sensing of depth-induced variations in soil organic carbon stocks distribution within different vegetated landscapes** (2024)
-   13 citations · Soil Carbon
+   13 citations · General CDR
 
 5. **Mapping sub-surface distribution of soil organic carbon stocks in South Africa's arid and semi-arid landscapes: Implications for land management and climate change mitigation** (2024)
-   10 citations · Soil Carbon
+   10 citations · General CDR
 
 ## External Profiles
 

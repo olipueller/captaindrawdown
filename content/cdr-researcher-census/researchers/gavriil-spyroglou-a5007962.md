@@ -1,7 +1,7 @@
 ---
 title: "Gavriil Spyroglou"
 description: "Gavriil Spyroglou is a Mid-career Soil Carbon researcher at Forest Research Institute in BG. With 39 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.465114
+date: 2026-03-23T11:47:00.244721
 url: "/cdr-researcher-census/researchers/gavriil-spyroglou-a5007962/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 300 |
 | Publications | 39 |
-| CDR Focus | 10.3% |
+| CDR Focus | 1030.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    1 citations · Soil Carbon
 
 3. **Disentangling the effect of stand structure on the C-balance of Mediterranean Pine forests using a process-based forest model** (2025)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 4. **Carbon sequestration in litterfall, forest floor, roots and soil in Robinia pseudoacacia restoration plantations.** (2022)
    0 citations · Soil Carbon

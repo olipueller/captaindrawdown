@@ -1,7 +1,7 @@
 ---
 title: "Jonah M. Greene"
 description: "Jonah M. Greene is a Mid-career DAC researcher at Colorado State University in US. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.466257
+date: 2026-03-23T11:47:00.246968
 url: "/cdr-researcher-census/researchers/jonah-m-greene-a5014483/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,16 +45,16 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 10 |
 | Citations | 299 |
 | Publications | 17 |
-| CDR Focus | 11.8% |
+| CDR Focus | 590.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Integrated techno-economic and life cycle assessment of a novel algae-based coating for direct air carbon capture and sequestration** (2023)
-   24 citations · Biochar
+   24 citations
 
 2. **Integrated Techno-Economic and Life Cycle Assessment of a Novel Algae-Based Coating for Direct Air Carbon Capture and Sequestration** (2022)
-   1 citations · Biochar
+   1 citations · DAC
 
 ## External Profiles
 

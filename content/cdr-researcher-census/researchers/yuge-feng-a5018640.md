@@ -1,7 +1,7 @@
 ---
 title: "Yuge Feng"
-description: "Yuge Feng is a Mid-career General CDR researcher at Rice University in US. With 28 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.031114
+description: "Yuge Feng is a Mid-career carbon dioxide removal researcher at Rice University in US. With 28 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.472971
 url: "/cdr-researcher-census/researchers/yuge-feng-a5018640/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Rice University · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,19 +39,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 15 |
 | Citations | 984 |
 | Publications | 28 |
-| CDR Focus | 10.7% |
+| CDR Focus | 710.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Continuous carbon capture in an electrochemical solid-electrolyte reactor** (2023)
-   216 citations · General CDR
+   216 citations
 
 2. **Improving the operational stability of electrochemical CO2 reduction reaction via salt precipitation understanding and management** (2025)
-   97 citations · General CDR
+   97 citations
 
 3. **Improved Electrochemical Direct Air Capture by an Extended Absorption Layer** (2026)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

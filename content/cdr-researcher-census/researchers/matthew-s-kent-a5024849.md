@@ -1,7 +1,7 @@
 ---
 title: "Matthew S. Kent"
 description: "Matthew S. Kent is a Mid-career Soil Carbon researcher at University of Nottingham in GB. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.630752
+date: 2026-03-23T11:47:00.489239
 url: "/cdr-researcher-census/researchers/matthew-s-kent-a5024849/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 235 |
 | Publications | 19 |
-| CDR Focus | 10.5% |
+| CDR Focus | 530.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    3 citations · Soil Carbon
 
 2. **Missing the input: The underrepresentation of plant physiology in global soil carbon research** (2024)
-   2 citations · Soil Carbon
+   2 citations
 
 ## External Profiles
 

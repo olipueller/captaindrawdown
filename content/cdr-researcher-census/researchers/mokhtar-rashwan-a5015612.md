@@ -1,7 +1,7 @@
 ---
 title: "Mokhtar Rashwan"
 description: "Mokhtar Rashwan is a Mid-career General CDR researcher. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.125367
+date: 2026-03-23T11:47:01.125901
 url: "/cdr-researcher-census/researchers/mokhtar-rashwan-a5015612/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,19 +40,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 5 |
 | Citations | 131 |
 | Publications | 16 |
-| CDR Focus | 18.8% |
+| CDR Focus | 1880.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Carbon Dioxide Capture by Niobium Polyoxometalate Fragmentation** (2024)
-   18 citations · DAC
+   18 citations
 
 2. **Direct observation of carbon dioxide adsorption and binding at the air/aqueous interface** (2025)
-   5 citations · DAC
+   5 citations · General CDR
 
 3. **Carbon Dioxide Capture by Niobium Polyoxometalate Fragments** (2024)
-   1 citations · DAC
+   1 citations
 
 ## External Profiles
 

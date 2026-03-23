@@ -1,7 +1,7 @@
 ---
 title: "Leigh‐Anne Bullough"
-description: "Leigh‐Anne Bullough is a Mid-career Soil Carbon researcher at University of Oxford in GB. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.028621
+description: "Leigh‐Anne Bullough is a Mid-career General CDR researcher at University of Oxford in GB. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.018221
 url: "/cdr-researcher-census/researchers/leighanne-bullough-a5075429/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Oxford · 🇬🇧 GB
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 3 |
 | Citations | 146 |
 | Publications | 5 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Enabling conditions for conservation on Indigenous and community lands** (2025)
-   1 citations · Soil Carbon
+   1 citations · General CDR
 
 ## External Profiles
 

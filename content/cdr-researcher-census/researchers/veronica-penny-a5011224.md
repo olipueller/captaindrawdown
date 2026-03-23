@@ -1,7 +1,7 @@
 ---
 title: "Veronica Penny"
-description: "Veronica Penny is a Mid-career Enhanced Weathering researcher at Manaaki Whenua – Landcare Research in NZ. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.156374
+description: "Veronica Penny is a Mid-career Soil Carbon researcher at Manaaki Whenua – Landcare Research in NZ. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.153989
 url: "/cdr-researcher-census/researchers/veronica-penny-a5011224/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Manaaki Whenua – Landcare Research · 🇳🇿 NZ
 
 ## CDR Specialization
 
-**Enhanced Weathering**
+**Soil Carbon**
 
-Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 5 |
 | Citations | 128 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Long-Term Effects of Fertilizer Application and Irrigation on Soils Under Pasture Land Use** (2022)
-   5 citations · Enhanced Weathering
+   5 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Jitendra Ahirwal"
 description: "Jitendra Ahirwal is a Senior Soil Carbon researcher at University of Allahabad in IN. With 59 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.945328
+date: 2026-03-23T11:46:59.284606
 url: "/cdr-researcher-census/researchers/jitendra-ahirwal-a5007419/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 24 |
 | Citations | 1,852 |
 | Publications | 59 |
-| CDR Focus | 10.2% |
+| CDR Focus | 1020.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Changes in soil properties and carbon fluxes following afforestation and agriculture in tropical forest** (2021)
-   60 citations · Soil Carbon
+   60 citations
 
 2. **Stability of soil organic carbon pools affected by land use and land cover changes in forests of eastern Himalayan region, India** (2022)
    36 citations · Soil Carbon
@@ -63,7 +63,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    9 citations · Soil Carbon
 
 5. **Soil carbon dynamics under extreme climate events in agroecosystem** (2025)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 6. **Carbon Sequestration Potential of Restored Coal Mine Soils** (2023)
    0 citations · Soil Carbon

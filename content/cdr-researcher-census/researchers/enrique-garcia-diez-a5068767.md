@@ -1,7 +1,7 @@
 ---
 title: "Enrique García-Díez"
 description: "Enrique García-Díez is a Senior DAC researcher at Heriot-Watt University in ES. With 33 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.975631
+date: 2026-03-23T11:46:59.345604
 url: "/cdr-researcher-census/researchers/enrique-garcia-diez-a5068767/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,31 +45,31 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 14 |
 | Citations | 1,427 |
 | Publications | 33 |
-| CDR Focus | 21.2% |
+| CDR Focus | 1210.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **The impact of binary water–CO <sub>2</sub> isotherm models on the optimal performance of sorbent-based direct air capture processes** (2021)
-   153 citations · DAC
+   153 citations
 
 2. **The impact of binary water-CO2 isotherm models on the optimal performance of sorbent-based direct air capture processes.** (2021)
    6 citations · DAC
 
 3. **The impact of binary water-CO2 isotherm models on the optimal performance of sorbent-based direct air capture processes.** (2021)
-   5 citations · DAC
+   5 citations
 
 4. **Investigating H2O and CO2 co-adsorption on amine-functionalised solid sorbents for direct air capture** (2021)
-   4 citations · DAC
+   4 citations
 
 5. **Towards benchmarking and advancing solid-sorbent direct air capture** (2022)
-   3 citations · DAC
+   3 citations
 
 6. **The impact of binary water-CO2 isotherm models on the optimal performance of sorbent-based direct air capture processes.** (2021)
-   0 citations · DAC
+   0 citations
 
 7. **The impact of binary water-CO2 isotherm models on the optimal performance of sorbent-based direct air capture processes.** (2021)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

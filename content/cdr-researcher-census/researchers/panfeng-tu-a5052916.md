@@ -1,7 +1,7 @@
 ---
 title: "Panfeng Tu"
-description: "Panfeng Tu is a Mid-career Soil Carbon researcher at South China Agricultural University in CN. With 33 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.025852
+description: "Panfeng Tu is a Mid-career Biochar researcher at South China Agricultural University in CN. With 33 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.463526
 url: "/cdr-researcher-census/researchers/panfeng-tu-a5052916/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ South China Agricultural University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 16 |
 | Citations | 1,012 |
 | Publications | 33 |
-| CDR Focus | 12.1% |
+| CDR Focus | 610.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    90 citations · Biochar
 
 2. **Symbiotic synergy: How Arbuscular Mycorrhizal Fungi enhance nutrient uptake, stress tolerance, and soil health through molecular mechanisms and hormonal regulation** (2025)
-   54 citations · Soil Carbon
+   54 citations
 
 3. **Optimizing the dual role of biochar for phosphorus availability and arsenic immobilization in soils** (2024)
    12 citations · Biochar

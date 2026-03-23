@@ -1,7 +1,7 @@
 ---
 title: "Liam A. Bullock"
-description: "Liam A. Bullock is a Mid-career General CDR researcher at Instituto Geológico y Minero de España in ES. With 57 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.160688
+description: "Liam A. Bullock is a Mid-career Enhanced Weathering researcher at Instituto Geológico y Minero de España in ES. With 57 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.725666
 url: "/cdr-researcher-census/researchers/liam-a-bullock-a5076444/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Instituto Geológico y Minero de España · 🇪🇸 ES
 
 ## CDR Specialization
 
-**General CDR**
+**Enhanced Weathering**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 15 |
 | Citations | 592 |
 | Publications | 57 |
-| CDR Focus | 21.1% |
+| CDR Focus | 1400.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -57,25 +57,25 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    42 citations · Enhanced Weathering
 
 3. **Geochemical carbon dioxide removal potential of Spain** (2022)
-   25 citations · General CDR
+   25 citations · Enhanced Weathering
 
 4. **Potential of enhanced weathering of calcite in packed bubble columns with seawater for carbon dioxide removal** (2021)
    21 citations · Enhanced Weathering
 
 5. **Catalogue of South African mine tailings for geochemical carbon dioxide removal purposes** (2023)
-   9 citations · General CDR
+   9 citations · Enhanced Weathering
 
 6. **Global carbon dioxide removal potential of waste materials from metal and diamond mining** (2021)
-   4 citations · General CDR
+   4 citations · Enhanced Weathering
 
 7. **Experimental investigation of multiple industrial wastes for carbon dioxide removal strategies** (2023)
-   3 citations · General CDR
+   3 citations · Enhanced Weathering
 
 8. **Harnessing green roofs for urban-based carbon dioxide removal via enhanced rock weathering in Europe** (2025)
    0 citations · Enhanced Weathering
 
 9. **Experimental investigation of multiple industrial wastes for geochemical carbon dioxide removal strategies** (2023)
-   0 citations · General CDR
+   0 citations
 
 10. **Experimental investigation of multiple industrial wastes for geochemical carbon dioxide removal strategies** (2023)
    0 citations · Enhanced Weathering

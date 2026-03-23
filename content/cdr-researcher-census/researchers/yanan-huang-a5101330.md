@@ -1,7 +1,7 @@
 ---
 title: "Yanan Huang"
 description: "Yanan Huang is a Mid-career Soil Carbon researcher at Sun Yat-sen University in CN. With 30 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.146074
+date: 2026-03-23T11:46:59.695633
 url: "/cdr-researcher-census/researchers/yanan-huang-a5101330/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 621 |
 | Publications | 30 |
-| CDR Focus | 10.0% |
+| CDR Focus | 670.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Effects of substitution of chemical fertilizer by Chinese milk vetch on distribution and composition of aggregates-associated organic carbon fractions in paddy soils** (2022)
-   21 citations · Soil Carbon
+   21 citations
 
 2. **Effects of long-term green manure application on organic carbon fractions and clay minerals and their interactions in paddy soil aggregates** (2023)
    15 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Jessica Cross"
 description: "Jessica Cross is a Senior Ocean CDR researcher at Pacific Northwest National Laboratory in US. With 99 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.896895
+date: 2026-03-23T11:46:59.164068
 url: "/cdr-researcher-census/researchers/jessica-cross-a5031991/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 27 |
 | Citations | 3,622 |
 | Publications | 99 |
-| CDR Focus | 14.1% |
+| CDR Focus | 910.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -78,7 +78,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    0 citations · General CDR
 
 10. **Top-down life cycle assessment protocols for all mineralization-based CO2 removal methods** (2025)
-   0 citations · General CDR
+   0 citations · Enhanced Weathering
 
 ## External Profiles
 

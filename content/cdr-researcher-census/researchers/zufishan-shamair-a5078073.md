@@ -1,7 +1,7 @@
 ---
 title: "Zufishan Shamair"
-description: "Zufishan Shamair is a Mid-career DAC researcher at Teesside University in GB. With 15 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.037037
+description: "Zufishan Shamair is a Mid-career carbon dioxide removal researcher at Teesside University in GB. With 15 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.485719
 url: "/cdr-researcher-census/researchers/zufishan-shamair-a5078073/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Teesside University · 🇬🇧 GB
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,19 +36,19 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 11 |
 | Citations | 956 |
 | Publications | 15 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Alkaline salts of L-lysine as green solvents for direct air capture: Characterisation and performance analysis** (2025)
-   5 citations · DAC
+   5 citations
 
 2. **Passive Direct Air Capture of Carbon Dioxide with an Alkaline Amino Acid Salt in Water-Based Paints** (2024)
-   3 citations · DAC
+   3 citations
 
 3. **Alkaline Amino Acid Salt for Passive Capture of Carbon Dioxide Directly from the Air** (2023)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

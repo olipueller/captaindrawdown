@@ -1,7 +1,7 @@
 ---
 title: "Thomas Sutcliffe"
-description: "Thomas Sutcliffe is a Mid-career Soil Carbon researcher at Norwegian Institute for Nature Research in NO. With 19 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.198902
+description: "Thomas Sutcliffe is a Mid-career General CDR researcher at Norwegian Institute for Nature Research in NO. With 19 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.204019
 url: "/cdr-researcher-census/researchers/thomas-sutcliffe-a5046797/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Norwegian Institute for Nature Research · 🇳🇴 NO
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,16 +42,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 3 |
 | Citations | 123 |
 | Publications | 19 |
-| CDR Focus | 10.5% |
+| CDR Focus | 1050.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Effects of land use and land cover changes on biodiversity, ecosystem services, and carbon storage in Norway: A systematic map and decision support tool (Web of Science).** (2024)
-   1 citations · Soil Carbon
+   1 citations · General CDR
 
 2. **Effects of land use and land cover changes on biodiversity, ecosystem services, and carbon storage in Norway: A systematic map and decision support tool (Scopus).** (2024)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

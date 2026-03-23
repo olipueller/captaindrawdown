@@ -1,7 +1,7 @@
 ---
 title: "Federico Capra"
 description: "Federico Capra is a Mid-career Soil Carbon researcher at Università Cattolica del Sacro Cuore in IT. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.468950
+date: 2026-03-23T11:47:00.251860
 url: "/cdr-researcher-census/researchers/federico-capra-a5068932/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 298 |
 | Publications | 16 |
-| CDR Focus | 18.8% |
+| CDR Focus | 1250.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

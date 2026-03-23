@@ -1,7 +1,7 @@
 ---
 title: "Nicolas Alaux"
 description: "Nicolas Alaux is a Mid-career General CDR researcher at Graz University of Technology in AT. With 33 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.483898
+date: 2026-03-23T11:47:00.275743
 url: "/cdr-researcher-census/researchers/nicolas-alaux-a5069741/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 10 |
 | Citations | 291 |
 | Publications | 33 |
-| CDR Focus | 12.1% |
+| CDR Focus | 910.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Future trends in materials manufacturing for low carbon building stocks: A prospective macro-scale analysis at the provincial level** (2022)
-   35 citations · BECCS
+   35 citations · General CDR
 
 2. **Whole-life greenhouse gas emission reduction and removal strategies for buildings: Impacts and diffusion potentials across EU Member States** (2024)
    34 citations · General CDR

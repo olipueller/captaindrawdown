@@ -1,7 +1,7 @@
 ---
 title: "Xinyi Tu"
-description: "Xinyi Tu is a Mid-career Soil Carbon researcher. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.149566
+description: "Xinyi Tu is a Mid-career General CDR researcher. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.146737
 url: "/cdr-researcher-census/researchers/xinyi-tu-a5029341/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,9 +29,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -40,13 +40,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 129 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Smallholder farms have and can store more carbon than previously estimated** (2022)
-   12 citations · Soil Carbon
+   12 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Yeo‐Myoung Cho"
 description: "Yeo‐Myoung Cho is a Senior Biochar researcher at Stanford University in US. With 32 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.039943
+date: 2026-03-23T11:46:59.491526
 url: "/cdr-researcher-census/researchers/yeomyoung-cho-a5064474/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 15 |
 | Citations | 944 |
 | Publications | 32 |
-| CDR Focus | 12.5% |
+| CDR Focus | 940.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

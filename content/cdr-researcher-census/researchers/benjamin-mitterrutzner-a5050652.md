@@ -1,7 +1,7 @@
 ---
 title: "Benjamin Mitterrutzner"
 description: "Benjamin Mitterrutzner is a Mid-career DAC researcher at Norwegian University of Science and Technology in NO. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.206704
+date: 2026-03-23T11:47:01.212621
 url: "/cdr-researcher-census/researchers/benjamin-mitterrutzner-a5050652/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 5 |
 | Citations | 121 |
 | Publications | 12 |
-| CDR Focus | 33.3% |
+| CDR Focus | 1670.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,13 +54,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    31 citations · DAC
 
 2. **Fairness and feasibility in deep mitigation pathways with novel carbon dioxide removal considering institutional capacity to mitigate** (2023)
-   3 citations · DAC
+   3 citations
 
 3. **Dataset for Gidden, Brutschin et. al. 2023** (2023)
    0 citations · DAC
 
 4. **Dataset for Gidden, Brutschin et. al. 2023** (2023)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

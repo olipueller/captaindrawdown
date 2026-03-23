@@ -1,7 +1,7 @@
 ---
 title: "Elena Magenau"
-description: "Elena Magenau is a Mid-career Soil Carbon researcher at University of Hohenheim in DE. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.454713
+description: "Elena Magenau is a Mid-career BECCS researcher at University of Hohenheim in DE. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.228926
 url: "/cdr-researcher-census/researchers/elena-magenau-a5032837/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Hohenheim · 🇩🇪 DE
 
 ## CDR Specialization
 
-**Soil Carbon**
+**BECCS**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 304 |
 | Publications | 16 |
-| CDR Focus | 31.2% |
+| CDR Focus | 3120.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -63,7 +63,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    0 citations · Soil Carbon
 
 5. **Comparing miscanthus hybrids &amp;#8211; growth and environmental impacts** (2022)
-   0 citations · Soil Carbon
+   0 citations · BECCS
 
 ## External Profiles
 

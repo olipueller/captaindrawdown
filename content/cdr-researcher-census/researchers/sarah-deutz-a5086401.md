@@ -1,7 +1,7 @@
 ---
 title: "Sarah Deutz"
 description: "Sarah Deutz is a Mid-career DAC researcher at Forschungszentrum Jülich in DE. With 33 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.943319
+date: 2026-03-23T11:46:59.280697
 url: "/cdr-researcher-census/researchers/sarah-deutz-a5086401/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 10 |
 | Citations | 1,871 |
 | Publications | 33 |
-| CDR Focus | 12.1% |
+| CDR Focus | 610.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

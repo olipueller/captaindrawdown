@@ -1,7 +1,7 @@
 ---
 title: "Vara Prasad Kasa"
-description: "Vara Prasad Kasa is a Mid-career Soil Carbon researcher at Indian Institute of Technology Kharagpur in IN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.098642
+description: "Vara Prasad Kasa is a Mid-career General CDR researcher at Indian Institute of Technology Kharagpur in IN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.099297
 url: "/cdr-researcher-census/researchers/vara-prasad-kasa-a5073662/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Indian Institute of Technology Kharagpur · 🇮🇳 IN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 135 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **From slag to green: Aided-phytoremediation as a sustainable tool to rehabilitate land contaminated by steel slag and assessment of CO2 sequestration** (2024)
-   3 citations · Soil Carbon
+   3 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Serge Wiltshire"
-description: "Serge Wiltshire is a Senior Soil Carbon researcher. With 27 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.355580
+description: "Serge Wiltshire is a Senior General CDR researcher. With 27 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.062174
 url: "/cdr-researcher-census/researchers/serge-wiltshire-a5051287/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,9 +29,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -40,19 +40,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 11 |
 | Citations | 368 |
 | Publications | 27 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Soil carbon sequestration through regenerative agriculture in the U.S. state of Vermont** (2022)
-   33 citations · Soil Carbon
+   33 citations · General CDR
 
 2. **Integrating climate change into projections of soil carbon sequestration from regenerative agriculture** (2023)
-   7 citations · Soil Carbon
+   7 citations · General CDR
 
 3. **Granularity of model input data impacts estimates of carbon storage in soils** (2024)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

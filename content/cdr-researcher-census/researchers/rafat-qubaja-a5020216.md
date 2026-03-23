@@ -1,7 +1,7 @@
 ---
 title: "Rafat Qubaja"
 description: "Rafat Qubaja is a Mid-career Soil Carbon researcher at Weizmann Institute of Science in IL. With 25 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.608060
+date: 2026-03-23T11:47:00.454624
 url: "/cdr-researcher-census/researchers/rafat-qubaja-a5020216/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,16 +45,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 243 |
 | Publications | 25 |
-| CDR Focus | 16.0% |
+| CDR Focus | 800.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Ecophysiology of an urban citrus orchard** (2021)
-   7 citations · Soil Carbon
+   7 citations
 
 2. **Potential Global Sequestration of Atmospheric Carbon Dioxide by Drylands Forestation** (2025)
-   1 citations · Soil Carbon
+   1 citations
 
 3. **Disentangling the soil and atmospheric stress on carbon sequestration in a Mediterranean pine forest** (2025)
    0 citations · Soil Carbon

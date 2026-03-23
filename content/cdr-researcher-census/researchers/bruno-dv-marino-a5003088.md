@@ -1,7 +1,7 @@
 ---
 title: "Bruno D.V Marino"
-description: "Bruno D.V Marino is a Senior Soil Carbon researcher at Planetary Science Institute in US. With 40 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.936669
+description: "Bruno D.V Marino is a Senior General CDR researcher at Planetary Science Institute in US. With 40 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.266938
 url: "/cdr-researcher-census/researchers/bruno-dv-marino-a5003088/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Planetary Science Institute · 🇺🇸 US
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,22 +45,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 19 |
 | Citations | 1,987 |
 | Publications | 40 |
-| CDR Focus | 10.0% |
+| CDR Focus | 750.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Science to Commerce: A Commercial-Scale Protocol for Carbon Trading Applied to a 28-Year Record of Forest Carbon Monitoring at the Harvard Forest** (2021)
-   20 citations · Soil Carbon
+   20 citations · General CDR
 
 2. **Commercial Forest Carbon Protocol Over-Credit Bias Delimited by Zero-Threshold Carbon Accounting** (2021)
-   5 citations · Soil Carbon
+   5 citations
 
 3. **Commercial Forest Carbon Protocol Over-credit Bias Delimited by Zero-threshold Carbon Accounting** (2021)
-   2 citations · Soil Carbon
+   2 citations · General CDR
 
 4. **Howland Forest, ME, USA: Multi-Gas Flux Record (CO2, CH4, N2O) Establishes New Forest Products Linked to Social Cost of Emission in Contrast to Carbon Limited Sequestration Proxies** (2021)
-   1 citations · Soil Carbon
+   1 citations · General CDR
 
 ## External Profiles
 

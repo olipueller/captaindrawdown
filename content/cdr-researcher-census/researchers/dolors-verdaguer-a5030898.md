@@ -1,7 +1,7 @@
 ---
 title: "Dolors Verdaguer"
 description: "Dolors Verdaguer is a Senior Soil Carbon researcher at University of Girona in ES. With 50 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.972377
+date: 2026-03-23T11:46:59.340163
 url: "/cdr-researcher-census/researchers/dolors-verdaguer-a5030898/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,25 +45,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 21 |
 | Citations | 1,463 |
 | Publications | 50 |
-| CDR Focus | 10.0% |
+| CDR Focus | 600.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Litter decomposition of three halophytes in a Mediterranean salt marsh: Relevance of litter quality, microbial activity and microhabitat** (2022)
-   26 citations · Soil Carbon
+   26 citations
 
 2. **Carbon Stocks in Vegetation and Soil and Their Relationship with Plant Community Traits in a Mediterranean Non-tidal Salt Marsh** (2023)
    9 citations · Soil Carbon
 
 3. **Seasonal carbon fluxes from vegetation and soil in a Mediterranean non-tidal salt marsh** (2025)
-   1 citations · Soil Carbon
+   1 citations · Ocean CDR
 
 4. **Seasonal carbon fluxes from vegetation and soil in a Mediterranean non-tidal salt marsh** (2024)
-   1 citations · Soil Carbon
+   1 citations
 
 5. **Comment on egusphere-2024-1320** (2024)
-   0 citations · Soil Carbon
+   0 citations
 
 ## External Profiles
 

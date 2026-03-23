@@ -1,7 +1,7 @@
 ---
 title: "Jingjing Tao"
 description: "Jingjing Tao is a Mid-career Soil Carbon researcher at University of Washington in US. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.935685
+date: 2026-03-23T11:47:00.905380
 url: "/cdr-researcher-census/researchers/jingjing-tao-a5015173/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 161 |
 | Publications | 14 |
-| CDR Focus | 21.4% |
+| CDR Focus | 2140.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    26 citations · Soil Carbon
 
 2. **Soil Acidification by Nitrification Controls Co 2  Emission from Soil Carbonates: 14 C Labeling of Caco 3** (2023)
-   0 citations · Soil Carbon
+   0 citations
 
 3. **Nitrogen fertilizers control CO2 emission from calcareous soils:&amp;#160;implications for land management and global warming** (2022)
    0 citations · Soil Carbon

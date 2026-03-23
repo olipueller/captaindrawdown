@@ -1,7 +1,7 @@
 ---
 title: "Hans Sloterdijk"
-description: "Hans Sloterdijk is a Mid-career Ocean CDR researcher at Kiel Institute for the World Economy in DE. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.892923
+description: "Hans Sloterdijk is a Mid-career General CDR researcher at Kiel Institute for the World Economy in DE. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.851135
 url: "/cdr-researcher-census/researchers/hans-sloterdijk-a5005707/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Kiel Institute for the World Economy · 🇩🇪 DE
 
 ## CDR Specialization
 
-**Ocean CDR**
+**General CDR**
 
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,16 +45,16 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 6 |
 | Citations | 169 |
 | Publications | 19 |
-| CDR Focus | 10.5% |
+| CDR Focus | 1050.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Future Scenarios of Global Fisheries and Ocean Alkalinity Enhancement Under Socio‐Economic and Climate Pathways** (2025)
-   1 citations · Ocean CDR
+   1 citations · General CDR
 
 2. **Marine Geoengineering for a Sustainable Future: Integrating Fisheries and Ocean Alkalinity Enhancement in Global Scenarios** (2024)
-   0 citations · Ocean CDR
+   0 citations · General CDR
 
 ## External Profiles
 

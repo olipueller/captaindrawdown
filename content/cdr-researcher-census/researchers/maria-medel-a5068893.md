@@ -1,7 +1,7 @@
 ---
 title: "María Medel"
 description: "María Medel is a Senior DAC researcher at Sustainability Institute in ZA. With 28 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.140556
+date: 2026-03-23T11:46:59.683558
 url: "/cdr-researcher-census/researchers/maria-medel-a5068893/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,25 +45,25 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 9 |
 | Citations | 632 |
 | Publications | 28 |
-| CDR Focus | 17.9% |
+| CDR Focus | 1070.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Alkaline Stability of Poly(2-methacryloyloxyethyl trimethylammonium chloride) for Direct Air Capture Applications** (2026)
-   0 citations · DAC
+   0 citations
 
 2. **Comprehensive structural characterization of charged polymers involved in moisture-driven direct air capture** (2026)
-   0 citations · DAC
+   0 citations
 
 3. **ASU’s DAC polymer-enhanced cyanobacterial bioproductivity (AUDACity)** (2026)
    0 citations · DAC
 
 4. **Comprehensive Structural Characterization of Charged Polymers Involved in Moisture-Driven Direct Air Capture** (2025)
-   0 citations · DAC
+   0 citations
 
 5. **Comprehensive Structural Characterization of Charged Polymers Involved in Moisture-Driven Direct Air Capture** (2025)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

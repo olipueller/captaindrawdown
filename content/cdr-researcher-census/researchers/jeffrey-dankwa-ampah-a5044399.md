@@ -1,7 +1,7 @@
 ---
 title: "Jeffrey Dankwa Ampah"
 description: "Jeffrey Dankwa Ampah is a Senior General CDR researcher at Tianjin University in CN. With 90 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.917267
+date: 2026-03-23T11:46:59.214307
 url: "/cdr-researcher-census/researchers/jeffrey-dankwa-ampah-a5044399/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 30 |
 | Citations | 2,616 |
 | Publications | 90 |
-| CDR Focus | 26.7% |
+| CDR Focus | 2110.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -60,16 +60,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    41 citations · General CDR
 
 4. **Role of negative emission technologies in South Africa's pathway to net zero emissions by 2050** (2024)
-   28 citations · BECCS
+   28 citations · General CDR
 
 5. **Deployment expectations of multi-gigatonne scale carbon removal could have adverse impacts on Asia’s energy-water-land nexus** (2024)
    22 citations · General CDR
 
 6. **Sustainability implications of different carbon dioxide removal technologies in the context of Europe's climate neutrality goal** (2024)
-   22 citations · BECCS
+   22 citations · General CDR
 
 7. **Does China's pathway to carbon neutrality require the integration of land-based biological negative emission solutions with geochemical and chemical alternatives?** (2023)
-   16 citations · General CDR
+   16 citations · Enhanced Weathering
 
 8. **Targeted carbon dioxide removal measures are essential for the cost and energy transformation of the electricity sector by 2050** (2025)
    13 citations · General CDR

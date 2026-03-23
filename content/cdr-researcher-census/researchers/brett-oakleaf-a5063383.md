@@ -1,7 +1,7 @@
 ---
 title: "Brett Oakleaf"
 description: "Brett Oakleaf is a Senior DAC researcher at National Renewable Energy Laboratory in US. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.145341
+date: 2026-03-23T11:46:59.694064
 url: "/cdr-researcher-census/researchers/brett-oakleaf-a5063383/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 5 |
 | Citations | 622 |
 | Publications | 8 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

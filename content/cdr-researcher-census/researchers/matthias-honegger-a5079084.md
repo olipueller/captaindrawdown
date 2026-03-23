@@ -1,7 +1,7 @@
 ---
 title: "Matthias Honegger"
-description: "Matthias Honegger is a Mid-career BECCS researcher at Perspectives Climate Research gGmbH in DE. With 55 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.053155
+description: "Matthias Honegger is a Mid-career General CDR researcher at Perspectives Climate Research gGmbH in DE. With 55 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.525091
 url: "/cdr-researcher-census/researchers/matthias-honegger-a5079084/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Perspectives Climate Research gGmbH · 🇩🇪 DE
 
 ## CDR Specialization
 
-**BECCS**
+**General CDR**
 
-Combining biomass energy with carbon capture and storage to achieve negative emissions.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 13 |
 | Citations | 870 |
 | Publications | 55 |
-| CDR Focus | 40.0% |
+| CDR Focus | 3820.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -57,10 +57,10 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
    53 citations · General CDR
 
 3. **The ABC of Governance Principles for Carbon Dioxide Removal Policy** (2022)
-   41 citations · BECCS
+   41 citations · General CDR
 
 4. **International carbon markets for carbon dioxide removal** (2023)
-   40 citations · Biochar
+   40 citations · General CDR
 
 5. **Toward the effective and fair funding of CO2 removal technologies** (2023)
    23 citations · General CDR

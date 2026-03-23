@@ -1,7 +1,7 @@
 ---
 title: "Christian Groves"
-description: "Christian Groves is an Early-career Biochar researcher at Fraunhofer Institute for Environmental, Safety and Energy Technology UMSICHT in DE. With 28 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.287269
+description: "Christian Groves is an Early-career BECCS researcher at Fraunhofer Institute for Environmental, Safety and Energy Technology UMSICHT in DE. With 28 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.299421
 url: "/cdr-researcher-census/researchers/christian-groves-a5029536/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Fraunhofer Institute for Environmental, Safety and Energy Technology UMSICHT · 
 
 ## CDR Specialization
 
-**Biochar**
+**BECCS**
 
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 
@@ -42,22 +42,22 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 3 |
 | Citations | 113 |
 | Publications | 28 |
-| CDR Focus | 14.3% |
+| CDR Focus | 710.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **INDUSTRIAL AND RURAL USE-CASES UNDERPINNED BY BIOMASS-BASED SOLUTIONS FOR CARBON REMOVAL, CHEMICALS AND RENEWABLE ENERGY - THE NET-FUELS PROJECT** (2025)
-   0 citations · Biochar
+   0 citations
 
 2. **INDUSTRIAL AND RURAL USE-CASES UNDERPINNED BY BIOMASS-BASED SOLUTIONS FOR CARBON REMOVAL, CHEMICALS AND RENEWABLE ENERGY - THE NET-FUELS PROJECT** (2025)
-   0 citations · Biochar
+   0 citations · BECCS
 
 3. **Industrial and rural partnerships underpinned by biomass-based solutions for carbon removal, chemicals, and renewable energy — the NET-Fuels project** (2025)
-   0 citations · Biochar
+   0 citations
 
 4. **Industrial and rural partnerships underpinned by biomass-based solutions for carbon removal, chemicals, and renewable energy — the NET-Fuels project** (2025)
-   0 citations · Biochar
+   0 citations · BECCS
 
 ## External Profiles
 

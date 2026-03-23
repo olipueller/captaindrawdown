@@ -1,7 +1,7 @@
 ---
 title: "Christelle Rabbat"
-description: "Christelle Rabbat is a Mid-career Biochar researcher at Centre National de la Recherche Scientifique in FR. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.597925
+description: "Christelle Rabbat is a Mid-career General CDR researcher at Centre National de la Recherche Scientifique in FR. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.439596
 url: "/cdr-researcher-census/researchers/christelle-rabbat-a5054895/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Centre National de la Recherche Scientifique · 🇫🇷 FR
 
 ## CDR Specialization
 
-**Biochar**
+**General CDR**
 
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 5 |
 | Citations | 247 |
 | Publications | 8 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Study of the valorization of biomass-based building materials at the end-of-life** (2023)
-   1 citations · Biochar
+   1 citations · General CDR
 
 ## External Profiles
 

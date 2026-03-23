@@ -1,7 +1,7 @@
 ---
 title: "Abbas Abdullah Ajlan"
-description: "Abbas Abdullah Ajlan is a Mid-career Soil Carbon researcher at Taiz University in YE. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.246886
+description: "Abbas Abdullah Ajlan is a Mid-career Biochar researcher at Taiz University in YE. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.880472
 url: "/cdr-researcher-census/researchers/abbas-abdullah-ajlan-a5070433/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Taiz University ·  YE
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 2 |
 | Citations | 466 |
 | Publications | 2 |
-| CDR Focus | 50.0% |
+| CDR Focus | 5000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

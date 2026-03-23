@@ -1,7 +1,7 @@
 ---
 title: "Peng Tian"
 description: "Peng Tian is a Mid-career Soil Carbon researcher at Anhui Agricultural University in CN. With 46 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.983288
+date: 2026-03-23T11:46:59.365927
 url: "/cdr-researcher-census/researchers/peng-tian-a5011450/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 19 |
 | Citations | 1,340 |
 | Publications | 46 |
-| CDR Focus | 15.2% |
+| CDR Focus | 1520.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -57,10 +57,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    25 citations · Soil Carbon
 
 3. **Non-additive effects of nitrogen and phosphorus fertilization on microbial biomass and residue distribution in a subtropical plantation** (2021)
-   17 citations · Soil Carbon
+   17 citations
 
 4. **Greater influences of nitrogen addition on priming effect in forest subsoil than topsoil regardless of incubation warming** (2024)
-   12 citations · Soil Carbon
+   12 citations
 
 5. **Carbon and nitrogen addition-derived enzyme activities in topsoil but nitrogen availability in subsoil controls the response of soil organic carbon decomposition to warming** (2024)
    4 citations · Soil Carbon

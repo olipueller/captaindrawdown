@@ -1,7 +1,7 @@
 ---
 title: "Ke‐Qing Xiao"
 description: "Ke‐Qing Xiao is a Senior Soil Carbon researcher at University of Leeds Faculty of Environment in GB. With 79 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.910643
+date: 2026-03-23T11:46:59.196543
 url: "/cdr-researcher-census/researchers/keqing-xiao-a5044682/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 28 |
 | Citations | 2,941 |
 | Publications | 79 |
-| CDR Focus | 13.9% |
+| CDR Focus | 1140.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,16 +54,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    101 citations · Soil Carbon
 
 2. **Drivers of the global phosphorus cycle over geological time** (2024)
-   46 citations · Enhanced Weathering
+   46 citations
 
 3. **Lithium isotopic constraints on the evolution of continental clay mineral factory and marine oxygenation in the earliest Paleozoic Era** (2024)
-   33 citations · Enhanced Weathering
+   33 citations · General CDR
 
 4. **Biochar as a green solution to drive the soil carbon pump** (2024)
    17 citations · Biochar
 
 5. **Rethinking Organic Carbon Sequestration in Agricultural Soils From the Elemental Stoichiometry Perspective** (2025)
-   16 citations · Soil Carbon
+   16 citations · General CDR
 
 6. **‘Super-stable’ interlayer organic carbon in soil clay minerals and its impact on soil carbon sequestration** (2024)
    9 citations · Soil Carbon
@@ -75,7 +75,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    6 citations · Soil Carbon
 
 9. **[Soil microbial carbon pump conceptual framework 2.0].** (2024)
-   5 citations · Soil Carbon
+   5 citations · General CDR
 
 10. **Biochar and straw application reshape organic carbon pool via altering soil carbon pump function based on a decadal field experiment** (2025)
    3 citations · Biochar

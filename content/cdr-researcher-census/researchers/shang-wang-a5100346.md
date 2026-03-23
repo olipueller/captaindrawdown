@@ -1,7 +1,7 @@
 ---
 title: "Shang Wang"
 description: "Shang Wang is a Mid-career Soil Carbon researcher at Helmholtz Centre for Environmental Research in DE. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.435262
+date: 2026-03-23T11:47:00.196302
 url: "/cdr-researcher-census/researchers/shang-wang-a5100346/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 10 |
 | Citations | 315 |
 | Publications | 19 |
-| CDR Focus | 21.1% |
+| CDR Focus | 1050.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    22 citations · Soil Carbon
 
 2. **Energy and matter dynamics in an estuarine soil are more sensitive to warming than salinization** (2025)
-   6 citations · Soil Carbon
+   6 citations
 
 3. **Reply on AC1** (2025)
    0 citations · Soil Carbon

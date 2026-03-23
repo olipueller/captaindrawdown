@@ -1,7 +1,7 @@
 ---
 title: "Tine Engedal"
 description: "Tine Engedal is a Mid-career Soil Carbon researcher at University of Copenhagen in DK. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.448940
+date: 2026-03-23T11:47:00.219183
 url: "/cdr-researcher-census/researchers/tine-engedal-a5063752/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 308 |
 | Publications | 20 |
-| CDR Focus | 25.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

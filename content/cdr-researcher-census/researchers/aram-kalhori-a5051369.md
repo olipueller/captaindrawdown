@@ -1,7 +1,7 @@
 ---
 title: "Aram Kalhori"
 description: "Aram Kalhori is a Mid-career General CDR researcher at GFZ Helmholtz Centre for Geosciences in DE. With 65 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.982412
+date: 2026-03-23T11:46:59.363210
 url: "/cdr-researcher-census/researchers/aram-kalhori-a5051369/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,19 +45,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 17 |
 | Citations | 1,348 |
 | Publications | 65 |
-| CDR Focus | 12.3% |
+| CDR Focus | 770.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **<scp>Pan‐Arctic</scp> soil moisture control on tundra carbon sequestration and plant productivity** (2022)
-   48 citations · Soil Carbon
+   48 citations · General CDR
 
 2. **Earlier snowmelt may lead to late season declines in plant productivity and carbon sequestration in Arctic tundra ecosystems** (2022)
-   35 citations · Soil Carbon
+   35 citations
 
 3. **Scoping carbon dioxide removal options for Germany–What is their potential contribution to Net-Zero CO2?** (2022)
-   33 citations · BECCS
+   33 citations · General CDR
 
 4. **A Comprehensive Assessment of Carbon Dioxide Removal Options for Germany** (2024)
    17 citations · BECCS
@@ -69,10 +69,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    0 citations · General CDR
 
 7. **A Comprehensive Assessment of Carbon Dioxide Removal Options for Germany** (2023)
-   0 citations · BECCS
+   0 citations
 
 8. **A Comprehensive Assessment of Carbon Dioxide Removal Options for Germany** (2023)
-   0 citations · General CDR
+   0 citations
 
 ## External Profiles
 

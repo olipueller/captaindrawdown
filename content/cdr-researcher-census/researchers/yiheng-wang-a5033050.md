@@ -1,7 +1,7 @@
 ---
 title: "Yiheng Wang"
-description: "Yiheng Wang is a Senior Soil Carbon researcher at Hohai University in CN. With 5 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.005937
+description: "Yiheng Wang is a Senior General CDR researcher at Hohai University in CN. With 5 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.994870
 url: "/cdr-researcher-census/researchers/yiheng-wang-a5033050/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Hohai University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 2 |
 | Citations | 149 |
 | Publications | 5 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Interplay between saltmarsh carbon burial and lateral exchange in coastal wetlands: The role of biomorphodynamic feedback** (2025)
-   1 citations · Soil Carbon
+   1 citations · General CDR
 
 ## External Profiles
 

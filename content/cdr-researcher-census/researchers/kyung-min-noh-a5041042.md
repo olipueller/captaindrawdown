@@ -1,7 +1,7 @@
 ---
 title: "Kyung Min Noh"
 description: "Kyung Min Noh is a Mid-career General CDR researcher at Princeton University in US. With 37 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.523310
+date: 2026-03-23T11:47:00.339807
 url: "/cdr-researcher-census/researchers/kyung-min-noh-a5041042/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 10 |
 | Citations | 274 |
 | Publications | 37 |
-| CDR Focus | 13.5% |
+| CDR Focus | 1350.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -60,7 +60,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    0 citations · General CDR
 
 4. **Emergence of the ocean CO2 uptake hole under global warming** (2024)
-   0 citations · General CDR
+   0 citations · Ocean CDR
 
 5. **How will global carbon cycle respond to negative emissions?** (2023)
    0 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Gustavo Vicentini Popin"
-description: "Gustavo Vicentini Popin is a Mid-career Enhanced Weathering researcher at Forest Science and Research Institute in BR. With 21 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.322533
+description: "Gustavo Vicentini Popin is a Mid-career Soil Carbon researcher at Forest Science and Research Institute in BR. With 21 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.007927
 url: "/cdr-researcher-census/researchers/gustavo-vicentini-popin-a5073864/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Forest Science and Research Institute · 🇧🇷 BR
 
 ## CDR Specialization
 
-**Enhanced Weathering**
+**Soil Carbon**
 
-Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
 
 ## Metrics
 
@@ -45,19 +45,19 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 7 |
 | Citations | 394 |
 | Publications | 21 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Soil carbon allocation, composition, and sequestration changes induced by cropping diversification in tropical systems** (2025)
-   12 citations · Enhanced Weathering
+   12 citations · Soil Carbon
 
 2. **Mudança no uso da terra e intensificação agrícola: impactos na distribuição de carbono e nitrogênio em solos na fronteira Amazônia-Cerrado** (2024)
-   0 citations · Enhanced Weathering
+   0 citations · Soil Carbon
 
 3. **Land-use change and agricultural intensification: impacts on carbon and nitrogen distribution in soil profiles of the Amazon-Cerrado frontier** (2024)
-   0 citations · Enhanced Weathering
+   0 citations · Soil Carbon
 
 ## External Profiles
 

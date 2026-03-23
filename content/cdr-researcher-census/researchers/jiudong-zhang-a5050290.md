@@ -1,7 +1,7 @@
 ---
 title: "Jiudong Zhang"
 description: "Jiudong Zhang is a Senior Soil Carbon researcher at Gansu Academy of Agricultural Sciences in CN. With 49 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.108196
+date: 2026-03-23T11:46:59.628181
 url: "/cdr-researcher-census/researchers/jiudong-zhang-a5050290/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 14 |
 | Citations | 699 |
 | Publications | 49 |
-| CDR Focus | 10.2% |
+| CDR Focus | 1020.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    2 citations · Soil Carbon
 
 4. **Long-term green manuring reduces net greenhouse gas emissions in upland cropping systems in China** (2025)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 5. **Multi-year intercropping with green manure increases maize yield by improving soil quality, regulating element content, and influencing microbial communities** (2025)
    0 citations · Soil Carbon

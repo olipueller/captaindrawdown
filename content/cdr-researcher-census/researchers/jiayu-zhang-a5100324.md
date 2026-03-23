@@ -1,7 +1,7 @@
 ---
 title: "Jiayu Zhang"
-description: "Jiayu Zhang is a Mid-career Soil Carbon researcher at University of Electronic Science and Technology of China in CN. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.666074
+description: "Jiayu Zhang is a Mid-career General CDR researcher at University of Electronic Science and Technology of China in CN. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.533788
 url: "/cdr-researcher-census/researchers/jiayu-zhang-a5100324/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Electronic Science and Technology of China · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 224 |
 | Publications | 20 |
-| CDR Focus | 10.0% |
+| CDR Focus | 500.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Carbon Sequestration Potential of Biomass Production along Highways in China** (2023)
-   13 citations · Soil Carbon
+   13 citations · General CDR
 
 2. **Estimation of carbon sequestration potential and air quality impacts of biochar production from straw in China** (2024)
    5 citations · Biochar

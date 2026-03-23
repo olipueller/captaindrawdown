@@ -1,7 +1,7 @@
 ---
 title: "Jiaying Guo"
 description: "Jiaying Guo is a Mid-career Ocean CDR researcher at University of Tasmania in AU. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.855264
+date: 2026-03-23T11:47:00.801604
 url: "/cdr-researcher-census/researchers/jiaying-guo-a5087186/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 6 |
 | Citations | 176 |
 | Publications | 19 |
-| CDR Focus | 78.9% |
+| CDR Focus | 6320.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -57,28 +57,28 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    25 citations · Enhanced Weathering
 
 3. **Effects of ocean alkalinity enhancement on plankton in the Equatorial Pacific** (2025)
-   12 citations · General CDR
+   12 citations · Ocean CDR
 
 4. **Influence of Ocean Alkalinity Enhancement with Olivine or Steel Slag on a Coastal Plankton Community in Tasmania** (2023)
-   5 citations · Enhanced Weathering
+   5 citations
 
 5. **Investigating the effect of nickel concentration on phytoplankton growth to inform the assessment of ocean alkalinity enhancement** (2022)
    4 citations · Enhanced Weathering
 
 6. **Reply on RC3** (2023)
-   0 citations · Enhanced Weathering
+   0 citations · General CDR
 
 7. **Reply on RC1** (2023)
-   0 citations · Enhanced Weathering
+   0 citations · General CDR
 
 8. **Comment on egusphere-2023-2120** (2023)
-   0 citations · Enhanced Weathering
+   0 citations
 
 9. **Reply on RC1** (2023)
-   0 citations · Enhanced Weathering
+   0 citations · General CDR
 
 10. **Supplementary material to "Influence of Ocean Alkalinity Enhancement with Olivine or Steel Slag on a Coastal Plankton Community in Tasmania"** (2023)
-   0 citations · Ocean CDR
+   0 citations · General CDR
 
 ## External Profiles
 

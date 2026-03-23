@@ -1,7 +1,7 @@
 ---
 title: "Steven Bustillos"
-description: "Steven Bustillos is a Mid-career General CDR researcher at University of California, Los Angeles in US. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.029271
+description: "Steven Bustillos is a Mid-career Ocean CDR researcher at University of California, Los Angeles in US. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.019368
 url: "/cdr-researcher-census/researchers/steven-bustillos-a5078750/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of California, Los Angeles · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**Ocean CDR**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
 
 ## Metrics
 
@@ -45,22 +45,22 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 6 |
 | Citations | 145 |
 | Publications | 13 |
-| CDR Focus | 30.8% |
+| CDR Focus | 2310.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Electrolytic Seawater Mineralization and the Mass Balances That Demonstrate Carbon Dioxide Removal** (2023)
-   54 citations · General CDR
+   54 citations · Ocean CDR
 
 2. **Process Simulations Reveal the Carbon Dioxide Removal Potential of a Process That Mineralizes Industrial Waste Streams via an Ion Exchange-Based Regenerable pH Swing** (2022)
-   9 citations · General CDR
+   9 citations · Enhanced Weathering
 
 3. **Electrolytic seawater mineralization and how it ensures (net) carbon dioxide removal** (2023)
-   2 citations · General CDR
+   2 citations · Ocean CDR
 
 4. **Net carbon dioxide removal via electrolytic seawater mineralization** (2023)
-   0 citations · General CDR
+   0 citations · Ocean CDR
 
 ## External Profiles
 

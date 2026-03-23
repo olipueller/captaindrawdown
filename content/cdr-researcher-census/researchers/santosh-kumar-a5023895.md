@@ -1,7 +1,7 @@
 ---
 title: "Santosh Kumar"
 description: "Santosh Kumar is a Mid-career Soil Carbon researcher. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.296061
+date: 2026-03-23T11:46:59.967570
 url: "/cdr-researcher-census/researchers/santosh-kumar-a5023895/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -37,13 +37,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 414 |
 | Publications | 8 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Greenhouse Gas Emission from Different Fertilizers (Organic, Inorganic, and Integrated) in Management Agroecosystems** (2024)
-   2 citations · Enhanced Weathering
+   2 citations · Soil Carbon
 
 ## External Profiles
 

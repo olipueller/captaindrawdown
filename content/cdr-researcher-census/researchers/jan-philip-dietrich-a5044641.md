@@ -1,7 +1,7 @@
 ---
 title: "Jan Philip Dietrich"
-description: "Jan Philip Dietrich is a Mid-career General CDR researcher at Potsdam Institute for Climate Impact Research in DE. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.747265
+description: "Jan Philip Dietrich is a Mid-career BECCS researcher at Potsdam Institute for Climate Impact Research in DE. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.642208
 url: "/cdr-researcher-census/researchers/jan-philip-dietrich-a5044641/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Potsdam Institute for Climate Impact Research · 🇩🇪 DE
 
 ## CDR Specialization
 
-**General CDR**
+**BECCS**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 
@@ -42,7 +42,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 2 |
 | Citations | 201 |
 | Publications | 3 |
-| CDR Focus | 33.3% |
+| CDR Focus | 3330.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

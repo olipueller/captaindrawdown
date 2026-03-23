@@ -1,7 +1,7 @@
 ---
 title: "Michael Windisch"
 description: "Michael Windisch is a Mid-career General CDR researcher at ETH Zurich in CH. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.652502
+date: 2026-03-23T11:47:00.518526
 url: "/cdr-researcher-census/researchers/michael-windisch-a5062751/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 6 |
 | Citations | 227 |
 | Publications | 20 |
-| CDR Focus | 15.0% |
+| CDR Focus | 1500.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    1 citations · General CDR
 
 2. **Extreme events and land use changes in the climate crisis** (2024)
-   1 citations · BECCS
+   1 citations · General CDR
 
 3. **Defending climate targets under threat of forest carbon impermanence** (2023)
    0 citations · General CDR

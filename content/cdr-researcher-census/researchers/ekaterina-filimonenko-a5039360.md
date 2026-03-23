@@ -1,7 +1,7 @@
 ---
 title: "Ekaterina Filimonenko"
 description: "Ekaterina Filimonenko is a Mid-career Soil Carbon researcher at King Saud University in SA. With 66 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.097985
+date: 2026-03-23T11:46:59.606557
 url: "/cdr-researcher-census/researchers/ekaterina-filimonenko-a5039360/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 12 |
 | Citations | 728 |
 | Publications | 66 |
-| CDR Focus | 15.2% |
+| CDR Focus | 1520.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -66,7 +66,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    3 citations · Soil Carbon
 
 6. **The over-estimation of long-term mineral fertilizer on CO2 release from soil carbonates** (2025)
-   3 citations · Soil Carbon
+   3 citations
 
 7. **Thermal Stability of Soil Organic Matter in Postagrogenic Luvic Phaeozems** (2023)
    3 citations · Soil Carbon

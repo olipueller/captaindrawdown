@@ -1,7 +1,7 @@
 ---
 title: "Oliver Geden"
 description: "Oliver Geden is a Senior General CDR researcher at Stiftung Wissenschaft und Politik, German Institute for International and Security Affairs in DE. With 118 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.875209
+date: 2026-03-23T11:46:59.106267
 url: "/cdr-researcher-census/researchers/oliver-geden-a5016996/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 31 |
 | Citations | 7,594 |
 | Publications | 118 |
-| CDR Focus | 18.6% |
+| CDR Focus | 1530.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -57,10 +57,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    142 citations · General CDR
 
 3. **Integrating Carbon Dioxide Removal Into European Emissions Trading** (2021)
-   108 citations · BECCS
+   108 citations · DAC
 
 4. **The carbon dioxide removal gap** (2024)
-   70 citations · BECCS
+   70 citations
 
 5. **Near-term deployment of novel carbon removal to facilitate longer-term deployment** (2023)
    41 citations · General CDR
@@ -78,7 +78,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    30 citations · General CDR
 
 10. **Evaluating the near- and long-term role of carbon dioxide removal in meeting global climate objectives** (2024)
-   27 citations · DAC
+   27 citations · General CDR
 
 ## External Profiles
 

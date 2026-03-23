@@ -1,7 +1,7 @@
 ---
 title: "Wenxiu Teng"
 description: "Wenxiu Teng is a Mid-career Soil Carbon researcher at University of Massachusetts Amherst in US. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.827107
+date: 2026-03-23T11:47:00.764203
 url: "/cdr-researcher-census/researchers/wenxiu-teng-a5079196/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 183 |
 | Publications | 19 |
-| CDR Focus | 10.5% |
+| CDR Focus | 530.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

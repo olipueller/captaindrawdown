@@ -1,7 +1,7 @@
 ---
 title: "Chunhuan He"
 description: "Chunhuan He is a Senior Soil Carbon researcher at South China Agricultural University in CN. With 18 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.112051
+date: 2026-03-23T11:46:59.635884
 url: "/cdr-researcher-census/researchers/chunhuan-he-a5012226/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 12 |
 | Citations | 690 |
 | Publications | 18 |
-| CDR Focus | 16.7% |
+| CDR Focus | 1670.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

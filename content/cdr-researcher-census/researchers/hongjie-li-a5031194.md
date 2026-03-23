@@ -1,7 +1,7 @@
 ---
 title: "Hongjie Li"
-description: "Hongjie Li is a Mid-career Enhanced Weathering researcher at University of Science and Technology Beijing in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.390344
+description: "Hongjie Li is a Mid-career Biochar researcher at University of Science and Technology Beijing in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.116382
 url: "/cdr-researcher-census/researchers/hongjie-li-a5031194/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Science and Technology Beijing · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Enhanced Weathering**
+**Biochar**
 
-Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 5 |
 | Citations | 344 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Combined application of biochar and phosphorus influenced maize production and soil properties in the Yellow River Delta: a comparison between contrasting weather conditions** (2025)
-   1 citations · Enhanced Weathering
+   1 citations · Biochar
 
 ## External Profiles
 

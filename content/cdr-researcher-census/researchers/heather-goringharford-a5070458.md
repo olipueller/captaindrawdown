@@ -1,7 +1,7 @@
 ---
 title: "Heather Goring‐Harford"
 description: "Heather Goring‐Harford is a Mid-career Enhanced Weathering researcher at University of Southampton in GB. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.558146
+date: 2026-03-23T11:47:00.390058
 url: "/cdr-researcher-census/researchers/heather-goringharford-a5070458/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 6 |
 | Citations | 260 |
 | Publications | 17 |
-| CDR Focus | 41.2% |
+| CDR Focus | 2940.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    62 citations · Enhanced Weathering
 
 2. **Tile drain water chemistry dataset from an enhanced rock weathering field trial at the Energy Farm, University of Illinois** (2026)
-   0 citations · Enhanced Weathering
+   0 citations
 
 3. **Tile drain water chemistry dataset from an enhanced rock weathering field trial at the Energy Farm, University of Illinois** (2026)
    0 citations · Enhanced Weathering

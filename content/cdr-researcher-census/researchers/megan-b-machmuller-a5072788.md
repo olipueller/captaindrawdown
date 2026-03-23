@@ -1,7 +1,7 @@
 ---
 title: "Megan B. Machmuller"
 description: "Megan B. Machmuller is a Senior Soil Carbon researcher at Colorado State University in US. With 49 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.898754
+date: 2026-03-23T11:46:59.167318
 url: "/cdr-researcher-census/researchers/megan-b-machmuller-a5072788/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 18 |
 | Citations | 3,579 |
 | Publications | 49 |
-| CDR Focus | 16.3% |
+| CDR Focus | 1220.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    51 citations · Soil Carbon
 
 2. **Greenhouse gas mitigation on croplands: clarifying the debate on knowns, unknowns and risks to move forward with effective management interventions** (2024)
-   21 citations · Soil Carbon
+   21 citations · General CDR
 
 3. **Compost amendment to enhance carbon sequestration in rangelands** (2023)
    19 citations · Soil Carbon
@@ -66,10 +66,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    2 citations · Soil Carbon
 
 6. **Centering resilience in US federal agricultural policy** (2026)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 7. **Sowing Solutions: Analysis and Recommendations for Diversified Agricultural Systems and Their Impact on Soil Carbon, Soil Health, and Crop Yields** (2025)
-   0 citations · Enhanced Weathering
+   0 citations · General CDR
 
 8. **Developing a Rangeland Carbon Tracking and Monitoring System Using Remote Sensing Imagery Coupled With a Modeling Approach** (2024)
    0 citations · Soil Carbon

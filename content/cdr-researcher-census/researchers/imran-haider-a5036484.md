@@ -1,7 +1,7 @@
 ---
 title: "Imran Haider"
 description: "Imran Haider is a Mid-career Soil Carbon researcher at Islamia University of Bahawalpur in PK. With 32 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.077805
+date: 2026-03-23T11:46:59.571052
 url: "/cdr-researcher-census/researchers/imran-haider-a5036484/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 11 |
 | Citations | 786 |
 | Publications | 32 |
-| CDR Focus | 12.5% |
+| CDR Focus | 620.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

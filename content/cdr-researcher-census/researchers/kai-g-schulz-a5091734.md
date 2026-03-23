@@ -1,7 +1,7 @@
 ---
 title: "Kai G. Schulz"
 description: "Kai G. Schulz is an Eminent Ocean CDR researcher at Southern Cross University in AU. With 339 publications and an h-index of 51, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.870667
+date: 2026-03-23T11:46:59.096436
 url: "/cdr-researcher-census/researchers/kai-g-schulz-a5091734/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 51 |
 | Citations | 9,059 |
 | Publications | 339 |
-| CDR Focus | 10.6% |
+| CDR Focus | 860.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Ocean alkalinity enhancement – avoiding runaway CaCO <sub>3</sub> precipitation during quick and hydrated lime dissolution** (2022)
-   157 citations · General CDR
+   157 citations · Ocean CDR
 
 2. **Assessing the influence of ocean alkalinity enhancement on a coastal phytoplankton community** (2022)
    145 citations · Ocean CDR
@@ -63,22 +63,22 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    33 citations · General CDR
 
 5. **Investigating the effect of silicate- and calcium-based ocean alkalinity enhancement on diatom silicification** (2024)
-   26 citations · General CDR
+   26 citations · Ocean CDR
 
 6. **Ocean Alkalinity Enhancement – Avoiding runaway CaCO <sub>3</sub> precipitation during quick and hydrated lime dissolution** (2021)
-   15 citations · Ocean CDR
+   15 citations
 
 7. **Investigating the effect of silicate and calcium based ocean alkalinity enhancement on diatom silicification** (2023)
-   14 citations · General CDR
+   14 citations · Ocean CDR
 
 8. **Effects of grain size and seawater salinity on brucite dissolution and secondary calcium carbonate precipitation kinetics: implications for Ocean Alkalinity Enhancement** (2023)
-   13 citations · General CDR
+   13 citations · Ocean CDR
 
 9. **Effects of grain size and seawater salinity on magnesium hydroxide dissolution and secondary calcium carbonate precipitation kinetics: implications for ocean alkalinity enhancement** (2024)
    9 citations · Ocean CDR
 
 10. **Assessing the influence of ocean alkalinity enhancement on a coastal phytoplankton community** (2022)
-   9 citations · Ocean CDR
+   9 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Shenglin Liu"
 description: "Shenglin Liu is a Senior Soil Carbon researcher at Shandong Academy of Agricultural Sciences in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.196760
+date: 2026-03-23T11:47:01.200764
 url: "/cdr-researcher-census/researchers/shenglin-liu-a5076995/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 123 |
 | Publications | 11 |
-| CDR Focus | 18.2% |
+| CDR Focus | 1820.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

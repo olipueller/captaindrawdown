@@ -1,7 +1,7 @@
 ---
 title: "Jianda Guo"
-description: "Jianda Guo is a Mid-career Soil Carbon researcher at China University of Mining and Technology in CN. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.155279
+description: "Jianda Guo is a Mid-career Biochar researcher at China University of Mining and Technology in CN. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.153177
 url: "/cdr-researcher-census/researchers/jianda-guo-a5112727/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ China University of Mining and Technology · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 128 |
 | Publications | 4 |
-| CDR Focus | 25.0% |
+| CDR Focus | 2500.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Shuina Dang"
 description: "Shuina Dang is a Mid-career Soil Carbon researcher at Baoji University of Arts and Sciences in CN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.112965
+date: 2026-03-23T11:47:01.113685
 url: "/cdr-researcher-census/researchers/shuina-dang-a5112587/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 133 |
 | Publications | 8 |
-| CDR Focus | 25.0% |
+| CDR Focus | 2500.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

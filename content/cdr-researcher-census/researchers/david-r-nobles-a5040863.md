@@ -1,7 +1,7 @@
 ---
 title: "David R. Nobles"
 description: "David R. Nobles is a Senior DAC researcher at The University of Texas at Austin in US. With 27 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.047105
+date: 2026-03-23T11:46:59.510563
 url: "/cdr-researcher-census/researchers/david-r-nobles-a5040863/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,19 +45,19 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 15 |
 | Citations | 896 |
 | Publications | 27 |
-| CDR Focus | 11.1% |
+| CDR Focus | 740.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Integrated techno-economic and life cycle assessment of a novel algae-based coating for direct air carbon capture and sequestration** (2023)
-   24 citations · Biochar
+   24 citations
 
 2. **A newly isolated alkaliphilic cyanobacterium for biomass production with direct air CO2 capture** (2023)
-   20 citations · DAC
+   20 citations
 
 3. **Integrated Techno-Economic and Life Cycle Assessment of a Novel Algae-Based Coating for Direct Air Carbon Capture and Sequestration** (2022)
-   1 citations · Biochar
+   1 citations · DAC
 
 ## External Profiles
 

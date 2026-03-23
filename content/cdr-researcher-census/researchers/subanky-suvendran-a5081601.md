@@ -1,7 +1,7 @@
 ---
 title: "Subanky Suvendran"
 description: "Subanky Suvendran is a Mid-career Soil Carbon researcher at New Mexico State University in US. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.243292
+date: 2026-03-23T11:47:01.249161
 url: "/cdr-researcher-census/researchers/subanky-suvendran-a5081601/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 118 |
 | Publications | 13 |
-| CDR Focus | 15.4% |
+| CDR Focus | 770.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Effect of Irrigation Water Quality and Soil Compost Treatment on Salinity Management to Improve Soil Health and Plant Yield** (2024)
-   16 citations · Soil Carbon
+   16 citations
 
 2. **Effect of Irrigation Water Quality and Soil Compost Treatment on Salinity Management to Improve Soil Health and Plant Yield** (2023)
    1 citations · Soil Carbon

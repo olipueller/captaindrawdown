@@ -1,7 +1,7 @@
 ---
 title: "Hongyang Ding"
-description: "Hongyang Ding is a Senior Soil Carbon researcher at Dongbei University of Finance and Economics in CN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.866276
+description: "Hongyang Ding is a Senior carbon dioxide removal researcher at Dongbei University of Finance and Economics in CN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.813039
 url: "/cdr-researcher-census/researchers/hongyang-ding-a5041154/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Dongbei University of Finance and Economics · 🇨🇳 CN
 
 **Career Stage:** Senior
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 175 |
 | Publications | 6 |
-| CDR Focus | 16.7% |
+| CDR Focus | 1670.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Effects of Water-Fertilizer Synergy Management on Sustainable Rice Production: Growth, Yield, and Environmental Impacts** (2025)
-   0 citations · Soil Carbon
+   0 citations
 
 ## External Profiles
 

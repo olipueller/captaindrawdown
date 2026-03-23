@@ -1,7 +1,7 @@
 ---
 title: "Elie Hanna"
 description: "Elie Hanna is an Early-career Soil Carbon researcher at Consejo Superior de Investigaciones Científicas in ES. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.097042
+date: 2026-03-23T11:47:01.097918
 url: "/cdr-researcher-census/researchers/elie-hanna-a5063352/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 135 |
 | Publications | 4 |
-| CDR Focus | 50.0% |
+| CDR Focus | 5000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **The ecosystem services supplied by urban green infrastructure depend on their naturalness, functionality and imperviousness** (2023)
-   22 citations · Soil Carbon
+   22 citations · General CDR
 
 2. **Scenario Analysis of Green Infrastructure to Adapt Medium-Size Cities to Climate Change: The Case of Zaragoza, Spain** (2024)
    6 citations · Soil Carbon

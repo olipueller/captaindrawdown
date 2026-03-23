@@ -1,7 +1,7 @@
 ---
 title: "Yafeng Han"
 description: "Yafeng Han is an Early-career Soil Carbon researcher at Henan University of Science and Technology in CN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.272285
+date: 2026-03-23T11:47:01.284211
 url: "/cdr-researcher-census/researchers/yafeng-han-a5004460/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 115 |
 | Publications | 9 |
-| CDR Focus | 33.3% |
+| CDR Focus | 2220.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

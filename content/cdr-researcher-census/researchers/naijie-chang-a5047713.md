@@ -1,7 +1,7 @@
 ---
 title: "Naijie Chang"
 description: "Naijie Chang is a Mid-career Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 22 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.251722
+date: 2026-03-23T11:46:59.892343
 url: "/cdr-researcher-census/researchers/naijie-chang-a5047713/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 12 |
 | Citations | 457 |
 | Publications | 22 |
-| CDR Focus | 13.6% |
+| CDR Focus | 1360.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

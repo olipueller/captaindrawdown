@@ -1,7 +1,7 @@
 ---
 title: "Ludwig Baldaszti"
 description: "Ludwig Baldaszti is a Mid-career Soil Carbon researcher at Royal Botanic Garden Edinburgh in GB. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.898480
+date: 2026-03-23T11:47:00.858066
 url: "/cdr-researcher-census/researchers/ludwig-baldaszti-a5082611/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 168 |
 | Publications | 14 |
-| CDR Focus | 21.4% |
+| CDR Focus | 2140.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Seasonal dynamics of soil microbial growth, respiration, biomass, and carbon use efficiency in temperate soils** (2023)
-   72 citations · Soil Carbon
+   72 citations
 
 2. **Seasonal Dynamics of Soil Microbial Growth, Respiration, Biomass, and Carbon Use Efficiency** (2022)
    8 citations · Soil Carbon

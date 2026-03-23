@@ -1,7 +1,7 @@
 ---
 title: "Haewon McJeon"
 description: "Haewon McJeon is an Eminent General CDR researcher at Korea Advanced Institute of Science and Technology in KR. With 194 publications and an h-index of 40, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.877021
+date: 2026-03-23T11:46:59.111743
 url: "/cdr-researcher-census/researchers/haewon-mcjeon-a5062879/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,16 +45,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 40 |
 | Citations | 6,771 |
 | Publications | 194 |
-| CDR Focus | 16.5% |
+| CDR Focus | 1390.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Diverse carbon dioxide removal approaches could reduce impacts on the energy–water–land system** (2023)
-   184 citations · BECCS
+   184 citations · General CDR
 
 2. **The role of direct air capture and negative emissions technologies in the shared socioeconomic pathways towards +1.5 °C and +2 °C futures** (2021)
-   106 citations · BECCS
+   106 citations · DAC
 
 3. **The role of carbon dioxide removal in net-zero emissions pledges** (2021)
    58 citations · General CDR
@@ -69,7 +69,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    29 citations · DAC
 
 7. **Effects of Direct Air Capture Technology Availability on Stranded Assets and Committed Emissions in the Power Sector** (2021)
-   24 citations · DAC
+   24 citations · BECCS
 
 8. **Deployment expectations of multi-gigatonne scale carbon removal could have adverse impacts on Asia’s energy-water-land nexus** (2024)
    22 citations · General CDR

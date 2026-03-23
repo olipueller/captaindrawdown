@@ -1,7 +1,7 @@
 ---
 title: "Harun Niron"
 description: "Harun Niron is a Mid-career Enhanced Weathering researcher at Antwerp Management School in BE. With 30 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.531877
+date: 2026-03-23T11:47:00.353299
 url: "/cdr-researcher-census/researchers/harun-niron-a5045276/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 8 |
 | Citations | 270 |
 | Publications | 30 |
-| CDR Focus | 66.7% |
+| CDR Focus | 6000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -66,7 +66,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    8 citations · Enhanced Weathering
 
 6. **How earthworms thrive and drive silicate rock weathering in an artificial organo-mineral system** (2024)
-   8 citations · Biochar
+   8 citations · Enhanced Weathering
 
 7. **Alive and dead earthworms capture carbon during mineral weathering through different pathways** (2025)
    3 citations · Enhanced Weathering
@@ -78,7 +78,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    2 citations · Enhanced Weathering
 
 10. **Machine learning-based identification of key biotic and abiotic drivers of mineral weathering rate in a complex enhanced weathering experiment** (2025)
-   1 citations · Biochar
+   1 citations
 
 ## External Profiles
 

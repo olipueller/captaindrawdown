@@ -1,7 +1,7 @@
 ---
 title: "Jufeng Zheng"
 description: "Jufeng Zheng is an Eminent Soil Carbon researcher at Nanjing Agricultural University in CN. With 138 publications and an h-index of 46, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.874807
+date: 2026-03-23T11:46:59.105902
 url: "/cdr-researcher-census/researchers/jufeng-zheng-a5100736/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 46 |
 | Citations | 7,710 |
 | Publications | 138 |
-| CDR Focus | 11.6% |
+| CDR Focus | 1010.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    51 citations · Soil Carbon
 
 3. **Amendment of crop residue in different forms shifted micro-pore system structure and potential functionality of macroaggregates while changed their mass proportion and carbon storage of paddy topsoil** (2021)
-   40 citations · Biochar
+   40 citations · Soil Carbon
 
 4. **Quantitative assessment of the effects of biochar amendment on photosynthetic carbon assimilation and dynamics in a rice–soil system** (2021)
    27 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Abdur-Rahman Ali"
 description: "Abdur-Rahman Ali is a Mid-career General CDR researcher at Technische Universität Braunschweig in DE. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.979829
+date: 2026-03-23T11:47:00.959395
 url: "/cdr-researcher-census/researchers/abdur-rahman-ali-a5014330/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,16 +45,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 8 |
 | Citations | 152 |
 | Publications | 20 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Life cycle assessment of carbon dioxide removal and utilisation strategies: Comparative analysis across Europe** (2024)
-   11 citations · DAC
+   11 citations · General CDR
 
 2. **Life Cycle Assessments of Carbon Capture, Utilisation, and Storage Strategies – Production of Fuels and Polymers** (2024)
-   1 citations · DAC
+   1 citations · General CDR
 
 ## External Profiles
 

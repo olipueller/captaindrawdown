@@ -1,7 +1,7 @@
 ---
 title: "Latamo Lameso Lelamo"
 description: "Latamo Lameso Lelamo is an Early-career Soil Carbon researcher at Amhara Regional Agricultural Research Institute in ET. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.224048
+date: 2026-03-23T11:47:01.232047
 url: "/cdr-researcher-census/researchers/latamo-lameso-lelamo-a5056036/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 120 |
 | Publications | 8 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

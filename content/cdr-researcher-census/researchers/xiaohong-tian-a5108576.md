@@ -1,7 +1,7 @@
 ---
 title: "Xiaohong Tian"
 description: "Xiaohong Tian is a Senior Soil Carbon researcher at China Three Gorges University in CN. With 67 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.951026
+date: 2026-03-23T11:46:59.295208
 url: "/cdr-researcher-census/researchers/xiaohong-tian-a5108576/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 20 |
 | Citations | 1,732 |
 | Publications | 67 |
-| CDR Focus | 20.9% |
+| CDR Focus | 2090.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

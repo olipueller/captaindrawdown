@@ -1,7 +1,7 @@
 ---
 title: "Abby Lunstrum"
-description: "Abby Lunstrum is a Mid-career Ocean CDR researcher at Yale University in US. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.485527
+description: "Abby Lunstrum is a Mid-career Enhanced Weathering researcher at Yale University in US. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.278763
 url: "/cdr-researcher-census/researchers/abby-lunstrum-a5042359/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Yale University · 🇺🇸 US
 
 ## CDR Specialization
 
-**Ocean CDR**
+**Enhanced Weathering**
 
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 8 |
 | Citations | 290 |
 | Publications | 17 |
-| CDR Focus | 29.4% |
+| CDR Focus | 1180.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    54 citations · General CDR
 
 2. **CaCO3 dissolution in carbonate-poor shelf sands increases with ocean acidification and porewater residence time** (2022)
-   27 citations · Ocean CDR
+   27 citations · Enhanced Weathering
 
 3. **A framework for understanding efficiency losses of Ocean Alkalinity Enhancement** (2025)
    0 citations · Ocean CDR

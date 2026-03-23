@@ -1,7 +1,7 @@
 ---
 title: "Yujia Zhai"
 description: "Yujia Zhai is a Mid-career Soil Carbon researcher at Tongji University in CN. With 19 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.626201
+date: 2026-03-23T11:47:00.481806
 url: "/cdr-researcher-census/researchers/yujia-zhai-a5101639/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 2 |
 | Citations | 237 |
 | Publications | 19 |
-| CDR Focus | 10.5% |
+| CDR Focus | 1050.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    1 citations · Soil Carbon
 
 2. **Exotic plant invaders as ecosystem engineers: Impacts on blue carbon accumulation by altering carbon emissions and thermal responses** (2025)
-   0 citations · Soil Carbon
+   0 citations · Ocean CDR
 
 ## External Profiles
 

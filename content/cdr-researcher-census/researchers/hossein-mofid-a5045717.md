@@ -1,7 +1,7 @@
 ---
 title: "Hossein Mofid"
-description: "Hossein Mofid is a Mid-career BECCS researcher at Petroleum University of Technology in IR. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.665659
+description: "Hossein Mofid is a Mid-career General CDR researcher at Petroleum University of Technology in IR. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.533543
 url: "/cdr-researcher-census/researchers/hossein-mofid-a5045717/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Petroleum University of Technology ·  IR
 
 ## CDR Specialization
 
-**BECCS**
+**General CDR**
 
-Combining biomass energy with carbon capture and storage to achieve negative emissions.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 5 |
 | Citations | 224 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Water-energy-carbon nexus and sustainability-oriented prioritization of negative emissions technologies for the oil &amp; gas industry: A decision support system under Fermatean fuzzy environment** (2023)
-   19 citations · BECCS
+   19 citations · General CDR
 
 ## External Profiles
 

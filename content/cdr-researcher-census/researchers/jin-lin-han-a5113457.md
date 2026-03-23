@@ -1,7 +1,7 @@
 ---
 title: "Jin Lin Han"
-description: "Jin Lin Han is a Senior General CDR researcher at National Ilan University in TW. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.229362
+description: "Jin Lin Han is a Senior carbon dioxide removal researcher at National Ilan University in TW. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.850939
 url: "/cdr-researcher-census/researchers/jin-lin-han-a5113457/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ National Ilan University · 🇹🇼 TW
 
 **Career Stage:** Senior
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 7 |
 | Citations | 490 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Discussions on the Adsorption Behaviors Affected by the Differences Between Graphene Oxide and Graphene Grafted by Chitosan** (2025)
-   2 citations · General CDR
+   2 citations
 
 ## External Profiles
 

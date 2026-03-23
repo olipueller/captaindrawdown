@@ -1,7 +1,7 @@
 ---
 title: "Enrico Martani"
 description: "Enrico Martani is a Mid-career Soil Carbon researcher. With 21 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.502808
+date: 2026-03-23T11:47:00.310130
 url: "/cdr-researcher-census/researchers/enrico-martani-a5000971/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 11 |
 | Citations | 282 |
 | Publications | 21 |
-| CDR Focus | 23.8% |
+| CDR Focus | 1900.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -58,7 +58,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    0 citations · Soil Carbon
 
 5. **Comparing miscanthus hybrids &amp;#8211; growth and environmental impacts** (2022)
-   0 citations · Soil Carbon
+   0 citations · BECCS
 
 ## External Profiles
 

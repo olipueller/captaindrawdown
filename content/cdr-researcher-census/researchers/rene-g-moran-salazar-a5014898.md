@@ -1,7 +1,7 @@
 ---
 title: "Rene G. Morán-Salazar"
 description: "Rene G. Morán-Salazar is a Mid-career Biochar researcher at Universidad de Guadalajara in MX. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.983915
+date: 2026-03-23T11:47:00.963356
 url: "/cdr-researcher-census/researchers/rene-g-moran-salazar-a5014898/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 4 |
 | Citations | 152 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

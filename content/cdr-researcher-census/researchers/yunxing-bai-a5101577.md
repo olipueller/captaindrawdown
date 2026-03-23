@@ -1,7 +1,7 @@
 ---
 title: "Yunxing Bai"
 description: "Yunxing Bai is a Mid-career Soil Carbon researcher at Guizhou University in CN. With 35 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.247120
+date: 2026-03-23T11:46:59.881096
 url: "/cdr-researcher-census/researchers/yunxing-bai-a5101577/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 11 |
 | Citations | 466 |
 | Publications | 35 |
-| CDR Focus | 11.4% |
+| CDR Focus | 860.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

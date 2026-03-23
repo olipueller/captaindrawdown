@@ -1,7 +1,7 @@
 ---
 title: "Anfan Zhu"
-description: "Anfan Zhu is a Mid-career Soil Carbon researcher at Jiangxi Agricultural University in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.313703
+description: "Anfan Zhu is a Mid-career carbon dioxide removal researcher at Jiangxi Agricultural University in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.327724
 url: "/cdr-researcher-census/researchers/anfan-zhu-a5025377/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Jiangxi Agricultural University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 111 |
 | Publications | 5 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **The Application of Rice Straw with Reduced N Fertilizer Improves the Rice Yield While Decreasing Environmental N Losses in Southern China** (2024)
-   4 citations · Soil Carbon
+   4 citations
 
 ## External Profiles
 

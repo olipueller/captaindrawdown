@@ -1,7 +1,7 @@
 ---
 title: "Sophie Drexler"
 description: "Sophie Drexler is a Mid-career Soil Carbon researcher. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.006924
+date: 2026-03-23T11:47:00.996949
 url: "/cdr-researcher-census/researchers/sophie-drexler-a5086463/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,13 +40,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 148 |
 | Publications | 8 |
-| CDR Focus | 50.0% |
+| CDR Focus | 5000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Carbon sequestration in hedgerow biomass and soil in the temperate climate zone** (2021)
-   85 citations · Soil Carbon
+   85 citations · General CDR
 
 2. **Carbon storage in old hedgerows: The importance of below‐ground biomass** (2023)
    10 citations · Soil Carbon

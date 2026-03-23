@@ -1,7 +1,7 @@
 ---
 title: "Junhu Tang"
 description: "Junhu Tang is a Mid-career Soil Carbon researcher at Xinjiang University in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.167243
+date: 2026-03-23T11:47:01.166511
 url: "/cdr-researcher-census/researchers/junhu-tang-a5029780/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 127 |
 | Publications | 15 |
-| CDR Focus | 13.3% |
+| CDR Focus | 670.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Dynamic Bayesian networks for spatiotemporal modeling and its uncertainty in tradeoffs and synergies of ecosystem services: a case study in the Tarim River Basin, China** (2024)
-   10 citations · Soil Carbon
+   10 citations
 
 2. **The Oasisization Process Promotes the Transformation of Soil Organic Carbon into Soil Inorganic Carbon** (2024)
    9 citations · Soil Carbon

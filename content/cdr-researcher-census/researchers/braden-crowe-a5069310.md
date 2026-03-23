@@ -1,7 +1,7 @@
 ---
 title: "Braden Crowe"
-description: "Braden Crowe is a Mid-career DAC researcher at MicroBio Engineering (United States) in US. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.101070
+description: "Braden Crowe is a Mid-career Ocean CDR researcher at MicroBio Engineering (United States) in US. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.613394
 url: "/cdr-researcher-census/researchers/braden-crowe-a5069310/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ MicroBio Engineering (United States) · 🇺🇸 US
 
 ## CDR Specialization
 
-**DAC**
+**Ocean CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
 
 ## Metrics
 
@@ -45,19 +45,19 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 7 |
 | Citations | 719 |
 | Publications | 15 |
-| CDR Focus | 20.0% |
+| CDR Focus | 670.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **A newly isolated alkaliphilic cyanobacterium for biomass production with direct air CO2 capture** (2023)
-   20 citations · DAC
+   20 citations
 
 2. **Mass transfer coefficients, kL, and air-CO2 ingassing rates in 3.4 m2 and 1-acre raceway ponds.** (2022)
-   0 citations · DAC
+   0 citations · Ocean CDR
 
 3. **Air Carbon for Algae Production (AirCAP) – Expanding algae resource potential via direct (in-pond) air-CO2 capture.** (2024)
-   0 citations · DAC
+   0 citations · Ocean CDR
 
 ## External Profiles
 

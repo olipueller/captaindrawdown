@@ -1,7 +1,7 @@
 ---
 title: "Chenghao Liu"
-description: "Chenghao Liu is a Mid-career Soil Carbon researcher at Nanchang University in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.971509
+description: "Chenghao Liu is a Mid-career carbon dioxide removal researcher at Nanchang University in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.950479
 url: "/cdr-researcher-census/researchers/chenghao-liu-a5036708/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Nanchang University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,16 +39,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 154 |
 | Publications | 16 |
-| CDR Focus | 12.5% |
+| CDR Focus | 620.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **The spatiotemporal effects on ecosystem services supply-demand from industrial transformation and upgrading: Promotion or inhibition?** (2024)
-   6 citations · Soil Carbon
+   6 citations
 
 2. **The Spatiotemporal Effects on Ecosystem Services Supply-Demand from Industrial Transformation and Upgrading: Promotion or Inhibition?** (2023)
-   0 citations · Soil Carbon
+   0 citations
 
 ## External Profiles
 

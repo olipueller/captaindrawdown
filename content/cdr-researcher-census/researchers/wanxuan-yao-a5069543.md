@@ -1,7 +1,7 @@
 ---
 title: "Wanxuan Yao"
-description: "Wanxuan Yao is a Mid-career General CDR researcher at GEOMAR Helmholtz Centre for Ocean Research Kiel in DE. With 21 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.315019
+description: "Wanxuan Yao is a Mid-career Ocean CDR researcher at GEOMAR Helmholtz Centre for Ocean Research Kiel in DE. With 21 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.330116
 url: "/cdr-researcher-census/researchers/wanxuan-yao-a5069543/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ GEOMAR Helmholtz Centre for Ocean Research Kiel · 🇩🇪 DE
 
 ## CDR Specialization
 
-**General CDR**
+**Ocean CDR**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 6 |
 | Citations | 110 |
 | Publications | 21 |
-| CDR Focus | 38.1% |
+| CDR Focus | 2860.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -60,10 +60,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    3 citations · General CDR
 
 4. **Nearshore Macroalgae Cultivation for Carbon Sequestration by Biomass Harvesting: Evaluating Potential and Impacts With an Earth System Model** (2025)
-   1 citations · General CDR
+   1 citations · Ocean CDR
 
 5. **Nearshore Macroalgae Cultivation for Carbon Sequestration by Biomass Harvesting: Evaluating Potential and Impacts with An Earth System Model** (2024)
-   1 citations · General CDR
+   1 citations
 
 6. **Monitoring marine carbon dioxide removal: quantitative analysis of indicators for carbon removed and environmental side-effects** (2025)
    0 citations · General CDR
@@ -72,7 +72,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    0 citations · General CDR
 
 8. **Misconceptions of the marine biological carbon pump in a changing climate: Thinking outside the &amp;#8220;export&amp;#8221; box** (2024)
-   0 citations · General CDR
+   0 citations · Ocean CDR
 
 ## External Profiles
 

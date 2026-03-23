@@ -1,7 +1,7 @@
 ---
 title: "Adam O’Toole"
-description: "Adam O’Toole is a Mid-career Soil Carbon researcher at Norwegian Institute of Bioeconomy Research in NO. With 33 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.037298
+description: "Adam O’Toole is a Mid-career General CDR researcher at Norwegian Institute of Bioeconomy Research in NO. With 33 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.486330
 url: "/cdr-researcher-census/researchers/adam-otoole-a5026418/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Norwegian Institute of Bioeconomy Research · 🇳🇴 NO
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 10 |
 | Citations | 956 |
 | Publications | 33 |
-| CDR Focus | 18.2% |
+| CDR Focus | 1820.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,19 +54,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    57 citations · Biochar
 
 2. **Trade‐offs and synergies of soil carbon sequestration: Addressing knowledge gaps related to soil management strategies** (2024)
-   23 citations · Biochar
+   23 citations · General CDR
 
 3. **Qualitative evaluation of nine agricultural methods for increasing soil carbon storage in Norway** (2024)
-   8 citations · Biochar
+   8 citations · General CDR
 
 4. **Biochar mitigation potential in Norway estimated by IPCC Tier 1 and Tier 2 methods** (2024)
    3 citations · Biochar
 
 5. **A meta-analysis of field experiments on the effect of organic matter inputs on N2O emissions in European arable land** (2023)
-   0 citations · Biochar
+   0 citations · Soil Carbon
 
 6. **Trade-offs between soil carbon sequestration and greenhouse gas emissions, and nitrogen leaching losses: addressing knowledge gaps** (2022)
-   0 citations · Biochar
+   0 citations · General CDR
 
 ## External Profiles
 

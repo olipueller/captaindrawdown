@@ -1,7 +1,7 @@
 ---
 title: "Sahar Mahnaee"
-description: "Sahar Mahnaee is an Early-career Biochar researcher at Universidad de Valladolid in ES. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.172484
+description: "Sahar Mahnaee is an Early-career carbon dioxide removal researcher at Universidad de Valladolid in ES. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.745023
 url: "/cdr-researcher-census/researchers/sahar-mahnaee-a5015663/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Universidad de Valladolid · 🇪🇸 ES
 
 **Career Stage:** Early-career
 
-## CDR Specialization
-
-**Biochar**
-
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 2 |
 | Citations | 574 |
 | Publications | 4 |
-| CDR Focus | 25.0% |
+| CDR Focus | 2500.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Carbon based materials: a review of adsorbents for inorganic and organic compounds** (2021)
-   560 citations · Biochar
+   560 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Deepak Upreti"
-description: "Deepak Upreti is a Mid-career Soil Carbon researcher at National University of Ireland, Maynooth in IE. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.614646
+description: "Deepak Upreti is a Mid-career General CDR researcher at National University of Ireland, Maynooth in IE. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.464479
 url: "/cdr-researcher-census/researchers/deepak-upreti-a5051178/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ National University of Ireland, Maynooth ·  IE
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 241 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Application and Evaluation of a Simple Crop Modelling Framework: A Case Study for Spring Barley, Winter Wheat and Winter Oilseed Rape over Ireland** (2022)
-   4 citations · Soil Carbon
+   4 citations · General CDR
 
 ## External Profiles
 

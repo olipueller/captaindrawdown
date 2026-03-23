@@ -1,7 +1,7 @@
 ---
 title: "Li‐Qing Jiang"
 description: "Li‐Qing Jiang is a Senior Ocean CDR researcher at Scripps Institution of Oceanography in US. With 68 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.912629
+date: 2026-03-23T11:46:59.202024
 url: "/cdr-researcher-census/researchers/liqing-jiang-a5080947/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,34 +45,34 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 26 |
 | Citations | 2,763 |
 | Publications | 68 |
-| CDR Focus | 11.8% |
+| CDR Focus | 740.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Why are Surface Ocean pH and CaCO<sub>3</sub> Saturation State Often out of Phase in Spatial Patterns and Seasonal Cycles?** (2021)
-   31 citations · General CDR
+   31 citations · Ocean CDR
 
 2. **Effects of the Pandemic on Observing the Global Ocean** (2022)
-   13 citations · Enhanced Weathering
+   13 citations
 
 3. **Data reporting and sharing for ocean alkalinity enhancement research** (2023)
-   2 citations · Ocean CDR
+   2 citations · General CDR
 
 4. **Data reporting and sharing for ocean alkalinity enhancement research** (2023)
-   2 citations · Ocean CDR
+   2 citations
 
 5. **Reply on RC1** (2023)
-   0 citations · Ocean CDR
+   0 citations · General CDR
 
 6. **Reply on AC1** (2023)
-   0 citations · Ocean CDR
+   0 citations · General CDR
 
 7. **Reply on RC2** (2023)
-   0 citations · Ocean CDR
+   0 citations · General CDR
 
 8. **Comment on sp-2023-6** (2023)
-   0 citations · Ocean CDR
+   0 citations · General CDR
 
 ## External Profiles
 

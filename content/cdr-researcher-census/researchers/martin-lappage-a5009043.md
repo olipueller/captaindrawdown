@@ -1,7 +1,7 @@
 ---
 title: "Martin Lappage"
 description: "Martin Lappage is a Mid-career Soil Carbon researcher at University of Leeds in GB. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.161116
+date: 2026-03-23T11:46:59.726726
 url: "/cdr-researcher-census/researchers/martin-lappage-a5009043/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 591 |
 | Publications | 13 |
-| CDR Focus | 15.4% |
+| CDR Focus | 1540.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

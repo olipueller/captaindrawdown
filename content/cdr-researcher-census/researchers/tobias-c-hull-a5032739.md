@@ -1,7 +1,7 @@
 ---
 title: "Tobias C. Hull"
 description: "Tobias C. Hull is a Mid-career DAC researcher at National Renewable Energy Laboratory in US. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.313101
+date: 2026-03-23T11:46:59.994145
 url: "/cdr-researcher-census/researchers/tobias-c-hull-a5032739/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 4 |
 | Citations | 401 |
 | Publications | 6 |
-| CDR Focus | 16.7% |
+| CDR Focus | 1670.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

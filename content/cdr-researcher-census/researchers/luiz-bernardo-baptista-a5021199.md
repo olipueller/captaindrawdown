@@ -1,7 +1,7 @@
 ---
 title: "Luiz Bernardo Baptista"
 description: "Luiz Bernardo Baptista is a Mid-career General CDR researcher at Universidade Federal do Rio de Janeiro in BR. With 27 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.322954
+date: 2026-03-23T11:47:00.008753
 url: "/cdr-researcher-census/researchers/luiz-bernardo-baptista-a5021199/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 9 |
 | Citations | 393 |
 | Publications | 27 |
-| CDR Focus | 11.1% |
+| CDR Focus | 740.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

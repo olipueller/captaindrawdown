@@ -1,7 +1,7 @@
 ---
 title: "Angela Fiore"
-description: "Angela Fiore is a Senior Soil Carbon researcher at Istituto Superiore per la Protezione e la Ricerca Ambientale in IT. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.942172
+description: "Angela Fiore is a Senior General CDR researcher at Istituto Superiore per la Protezione e la Ricerca Ambientale in IT. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.914536
 url: "/cdr-researcher-census/researchers/angela-fiore-a5091870/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Istituto Superiore per la Protezione e la Ricerca Ambientale · 🇮🇹 IT
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,16 +45,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 160 |
 | Publications | 16 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **A harmonized dataset relating alternative farmer management practices to crop yield, soil organic carbon stock, nitrous oxide emissions, and nitrate leaching generated using IPCC methodologies and meta-analyses** (2024)
-   2 citations · Soil Carbon
+   2 citations · General CDR
 
 2. **Revealing trade-offs in cropping systems sustainability by piecing together pedo-climatic datasets and agronomic knowledge with fuzzy logic** (2023)
-   0 citations · Soil Carbon
+   0 citations
 
 ## External Profiles
 

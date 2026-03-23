@@ -1,7 +1,7 @@
 ---
 title: "Zetian Qiu"
-description: "Zetian Qiu is a Mid-career General CDR researcher at ShanghaiTech University in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.715512
+description: "Zetian Qiu is a Mid-career Enhanced Weathering researcher at ShanghaiTech University in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.602048
 url: "/cdr-researcher-census/researchers/zetian-qiu-a5050637/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ ShanghaiTech University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**General CDR**
+**Enhanced Weathering**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 6 |
 | Citations | 210 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

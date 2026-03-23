@@ -1,7 +1,7 @@
 ---
 title: "Minxuan Sun"
-description: "Minxuan Sun is a Mid-career BECCS researcher at Tsinghua University in CN. With 21 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.444822
+description: "Minxuan Sun is a Mid-career General CDR researcher at Tsinghua University in CN. With 21 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.212370
 url: "/cdr-researcher-census/researchers/minxuan-sun-a5026638/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Tsinghua University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**BECCS**
+**General CDR**
 
-Combining biomass energy with carbon capture and storage to achieve negative emissions.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 7 |
 | Citations | 309 |
 | Publications | 21 |
-| CDR Focus | 19.0% |
+| CDR Focus | 1430.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -57,10 +57,10 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
    0 citations · BECCS
 
 3. **Afforestation on Abandoned Croplands in China Has the Potential to Increase Carbon Sequestration by half** (2025)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 4. **Contributions of countries without a carbon neutrality target to limit global warming** (2024)
-   0 citations · BECCS
+   0 citations
 
 ## External Profiles
 

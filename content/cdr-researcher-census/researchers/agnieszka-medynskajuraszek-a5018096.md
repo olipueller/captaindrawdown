@@ -1,7 +1,7 @@
 ---
 title: "Agnieszka Medyńska‐Juraszek"
 description: "Agnieszka Medyńska‐Juraszek is a Senior Biochar researcher at Wrocław University of Science and Technology in PL. With 50 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.011947
+date: 2026-03-23T11:46:59.437552
 url: "/cdr-researcher-census/researchers/agnieszka-medynskajuraszek-a5018096/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 21 |
 | Citations | 1,100 |
 | Publications | 50 |
-| CDR Focus | 12.0% |
+| CDR Focus | 800.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -57,10 +57,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    28 citations · Biochar
 
 3. **Enzyme Activity and Dissolved Organic Carbon Content in Soils Amended with Different Types of Biochar and Exogenous Organic Matter** (2023)
-   10 citations · Biochar
+   10 citations
 
 4. **Biochar and Organic Fertilizer Co-Application Enhances Soil Carbon Priming, Increasing CO2 Fluxes in Two Contrasting Arable Soils** (2023)
-   8 citations · Biochar
+   8 citations
 
 5. **Enzyme Activity and Dissolved Organic Carbon Content in Soils Amended with Different Types of Biochar and Exogenous Organic Matter** (2023)
    7 citations · Biochar

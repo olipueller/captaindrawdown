@@ -1,7 +1,7 @@
 ---
 title: "George P. Lithoxoos"
-description: "George P. Lithoxoos is a Senior DAC researcher at Saudi Aramco (Saudi Arabia) in SA. With 23 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.114902
+description: "George P. Lithoxoos is a Senior carbon dioxide removal researcher at Saudi Aramco (Saudi Arabia) in SA. With 23 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.640230
 url: "/cdr-researcher-census/researchers/george-p-lithoxoos-a5057115/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Saudi Aramco (Saudi Arabia) · 🇸🇦 SA
 
 **Career Stage:** Senior
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,19 +36,19 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 7 |
 | Citations | 684 |
 | Publications | 23 |
-| CDR Focus | 13.0% |
+| CDR Focus | 870.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Unraveling the CO2/H2O co-adsorption mechanism: A dynamic study on templated carbons for CO2 capture** (2026)
-   0 citations · DAC
+   0 citations
 
 2. **Quantitative analysis of temperature-dependent transition of CO2 adsorption mechanisms by adsorbents – From enthalpy-driven interactions to pore-filling capture** (2026)
-   0 citations · DAC
+   0 citations
 
 3. **Unraveling the CO2/H2O co-adsorption mechanism: A dynamic study on templated carbons for CO2 capture** (2025)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Miguel Ramirez-Elias"
 description: "Miguel Ramirez-Elias is a Mid-career Biochar researcher. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.257493
+date: 2026-03-23T11:47:01.267305
 url: "/cdr-researcher-census/researchers/miguel-ramirez-elias-a5061472/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 7 |
 | Citations | 116 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

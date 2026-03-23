@@ -1,7 +1,7 @@
 ---
 title: "Qingyun Cai"
-description: "Qingyun Cai is a Mid-career Biochar researcher at Hunan University in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.759771
+description: "Qingyun Cai is a Mid-career carbon dioxide removal researcher at Hunan University in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.659260
 url: "/cdr-researcher-census/researchers/qingyun-cai-a5110340/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Hunan University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Biochar**
-
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 4 |
 | Citations | 198 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Fabrication of Partially Graphitic Biochar for the Removal of Diclofenac and Ibuprofen from Aqueous Solution: Laboratory Conditions and Real Sample Applications** (2021)
-   11 citations · Biochar
+   11 citations
 
 ## External Profiles
 

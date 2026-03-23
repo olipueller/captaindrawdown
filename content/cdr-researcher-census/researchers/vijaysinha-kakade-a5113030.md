@@ -1,7 +1,7 @@
 ---
 title: "Vijaysinha Kakade"
 description: "Vijaysinha Kakade is a Mid-career Soil Carbon researcher at National Institute of Abiotic Stress Management in IN. With 22 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.048974
+date: 2026-03-23T11:46:59.515595
 url: "/cdr-researcher-census/researchers/vijaysinha-kakade-a5113030/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 12 |
 | Citations | 887 |
 | Publications | 22 |
-| CDR Focus | 27.3% |
+| CDR Focus | 1820.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Biomass Production and Carbon Sequestration Potential of Different Agroforestry Systems in India: A Critical Review** (2022)
-   86 citations · Soil Carbon
+   86 citations · BECCS
 
 2. **Degraded land rehabilitation through agroforestry in India: Achievements, current understanding, and future prospectives** (2023)
    83 citations · Soil Carbon

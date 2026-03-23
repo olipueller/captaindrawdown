@@ -1,7 +1,7 @@
 ---
 title: "Yunying Fang"
 description: "Yunying Fang is a Senior Soil Carbon researcher at Griffith University in AU. With 156 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.886378
+date: 2026-03-23T11:46:59.137150
 url: "/cdr-researcher-census/researchers/yunying-fang-a5005260/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 38 |
 | Citations | 4,800 |
 | Publications | 156 |
-| CDR Focus | 14.1% |
+| CDR Focus | 1090.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    65 citations · Biochar
 
 4. **Microbial Necromass, Lignin, and Glycoproteins for Determining and Optimizing Blue Carbon Formation** (2023)
-   49 citations · Soil Carbon
+   49 citations · Ocean CDR
 
 5. **Organic blue carbon sequestration in vegetated coastal wetlands: Processes and influencing factors** (2024)
    47 citations · Soil Carbon

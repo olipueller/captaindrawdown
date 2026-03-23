@@ -1,7 +1,7 @@
 ---
 title: "Tobias Klöffel"
-description: "Tobias Klöffel is a Mid-career Enhanced Weathering researcher at University of Copenhagen in DK. With 25 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.358286
+description: "Tobias Klöffel is a Mid-career Soil Carbon researcher at University of Copenhagen in DK. With 25 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.067023
 url: "/cdr-researcher-census/researchers/tobias-kloffel-a5006174/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ University of Copenhagen · 🇩🇰 DK
 
 ## CDR Specialization
 
-**Enhanced Weathering**
+**Soil Carbon**
 
-Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
 
 ## Metrics
 
@@ -42,7 +42,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 11 |
 | Citations | 366 |
 | Publications | 25 |
-| CDR Focus | 12.0% |
+| CDR Focus | 800.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

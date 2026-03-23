@@ -1,7 +1,7 @@
 ---
 title: "Cheng‐Hsiu Yu"
-description: "Cheng‐Hsiu Yu is a Mid-career General CDR researcher at National Taiwan University of Science and Technology in TW. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.935913
+description: "Cheng‐Hsiu Yu is a Mid-career carbon dioxide removal researcher at National Taiwan University of Science and Technology in TW. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.265204
 url: "/cdr-researcher-census/researchers/chenghsiu-yu-a5008110/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ National Taiwan University of Science and Technology · 🇹🇼 TW
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,16 +39,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 9 |
 | Citations | 1,998 |
 | Publications | 17 |
-| CDR Focus | 11.8% |
+| CDR Focus | 1180.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Process Modeling of CO<sub>2</sub> Absorption with Monoethanolamine Aqueous Solutions Using Rotating Packed Beds** (2022)
-   13 citations · General CDR
+   13 citations
 
 2. **Electrochemical Biogas Upgrading: Energy, Environmental, Economic, and Engineering Considerations** (2025)
-   0 citations · General CDR
+   0 citations
 
 ## External Profiles
 

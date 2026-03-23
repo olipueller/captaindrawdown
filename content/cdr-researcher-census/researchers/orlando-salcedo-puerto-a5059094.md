@@ -1,7 +1,7 @@
 ---
 title: "Orlando Salcedo-Puerto"
-description: "Orlando Salcedo-Puerto is a Mid-career Soil Carbon researcher at Lappeenranta-Lahti University of Technology in FI. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.930848
+description: "Orlando Salcedo-Puerto is a Mid-career BECCS researcher at Lappeenranta-Lahti University of Technology in FI. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.899790
 url: "/cdr-researcher-census/researchers/orlando-salcedo-puerto-a5059094/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Lappeenranta-Lahti University of Technology ·  FI
 
 ## CDR Specialization
 
-**Soil Carbon**
+**BECCS**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 162 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Renewable Energy Potential and CO2 Performance of Main Biomasses Used in Brazil** (2023)
-   18 citations · Soil Carbon
+   18 citations · BECCS
 
 ## External Profiles
 

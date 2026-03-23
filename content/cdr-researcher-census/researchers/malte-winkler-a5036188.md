@@ -1,7 +1,7 @@
 ---
 title: "Malte Winkler"
 description: "Malte Winkler is a Mid-career General CDR researcher at Climate Analytics in DE. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.762005
+date: 2026-03-23T11:47:00.662664
 url: "/cdr-researcher-census/researchers/malte-winkler-a5036188/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,16 +45,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 6 |
 | Citations | 197 |
 | Publications | 20 |
-| CDR Focus | 15.0% |
+| CDR Focus | 1500.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **The ABC of Governance Principles for Carbon Dioxide Removal Policy** (2022)
-   41 citations · BECCS
+   41 citations · General CDR
 
 2. **International carbon markets for carbon dioxide removal** (2023)
-   40 citations · Biochar
+   40 citations · General CDR
 
 3. **Exploring key dimensions of policy instruments for carbon dioxide removal** (2025)
    2 citations · General CDR

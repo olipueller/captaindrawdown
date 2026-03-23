@@ -1,7 +1,7 @@
 ---
 title: "Jun Ling"
 description: "Jun Ling is a Mid-career Soil Carbon researcher at China Agricultural University in CN. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.239474
+date: 2026-03-23T11:46:59.866045
 url: "/cdr-researcher-census/researchers/jun-ling-a5031460/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 476 |
 | Publications | 13 |
-| CDR Focus | 23.1% |
+| CDR Focus | 2310.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Effects of soil warming and straw return on soil organic matter and greenhouse gas fluxes in winter wheat seasons in the North China Plain** (2022)
-   80 citations · General CDR
+   80 citations · Soil Carbon
 
 2. **Subsoil <scp>SOC</scp> increased by high C:N ratio straw application with optimized nitrogen supplementation** (2024)
    13 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Xueling Sun"
-description: "Xueling Sun is a Mid-career Soil Carbon researcher at Ocean University of China in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.297209
+description: "Xueling Sun is a Mid-career Biochar researcher at Ocean University of China in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.310299
 url: "/cdr-researcher-census/researchers/xueling-sun-a5088282/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Ocean University of China · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 112 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

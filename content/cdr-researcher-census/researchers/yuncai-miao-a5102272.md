@@ -1,7 +1,7 @@
 ---
 title: "Yuncai Miao"
 description: "Yuncai Miao is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.435715
+date: 2026-03-23T11:47:00.197305
 url: "/cdr-researcher-census/researchers/yuncai-miao-a5102272/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 314 |
 | Publications | 12 |
-| CDR Focus | 25.0% |
+| CDR Focus | 2500.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

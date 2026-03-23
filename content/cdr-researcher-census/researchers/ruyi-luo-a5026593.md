@@ -1,7 +1,7 @@
 ---
 title: "Ruyi Luo"
 description: "Ruyi Luo is a Mid-career Soil Carbon researcher at Institute of Mountain Hazards and Environment in CN. With 33 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.067956
+date: 2026-03-23T11:46:59.550693
 url: "/cdr-researcher-census/researchers/ruyi-luo-a5026593/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 11 |
 | Citations | 824 |
 | Publications | 33 |
-| CDR Focus | 12.1% |
+| CDR Focus | 1210.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    2 citations · Soil Carbon
 
 4. **Soil microbial resource limitation and use efficiency shift with turf transplantation and polygonal cracking in alpine meadows of the Tibetan Plateau** (2025)
-   2 citations · Soil Carbon
+   2 citations
 
 ## External Profiles
 

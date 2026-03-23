@@ -1,7 +1,7 @@
 ---
 title: "David Ballenghien"
-description: "David Ballenghien is an Early-career General CDR researcher. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.955924
+description: "David Ballenghien is an Early-career carbon dioxide removal researcher. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.932208
 url: "/cdr-researcher-census/researchers/david-ballenghien-a5028346/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -27,12 +27,6 @@ robots: "index, follow"
 
 **Career Stage:** Early-career
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -40,16 +34,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 3 |
 | Citations | 156 |
 | Publications | 4 |
-| CDR Focus | 50.0% |
+| CDR Focus | 2500.0% |
 | Trajectory | Unknown |
 
 ## Top CDR Publications
 
 1. **Supercritical water oxidation for the destruction of spent media wastes generated from PFAS treatment** (2023)
-   28 citations · General CDR
+   28 citations
 
 2. **Supercritical Water Oxidation for the Destruction of Spent Media Wastes Generated from Pfas Treatment** (2022)
-   0 citations · General CDR
+   0 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Rong Wang"
 description: "Rong Wang is a Senior Soil Carbon researcher at Lanzhou University in CN. With 29 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.976570
+date: 2026-03-23T11:46:59.349067
 url: "/cdr-researcher-census/researchers/rong-wang-a5100737/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 13 |
 | Citations | 1,414 |
 | Publications | 29 |
-| CDR Focus | 10.3% |
+| CDR Focus | 1030.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

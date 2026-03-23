@@ -1,7 +1,7 @@
 ---
 title: "Alex Fowler"
-description: "Alex Fowler is a Senior BECCS researcher at GGG (France) in FR. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.711172
+description: "Alex Fowler is a Senior carbon dioxide removal researcher at GGG (France) in FR. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.595823
 url: "/cdr-researcher-census/researchers/alex-fowler-a5038149/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ GGG (France) · 🇫🇷 FR
 
 **Career Stage:** Senior
 
-## CDR Specialization
-
-**BECCS**
-
-Combining biomass energy with carbon capture and storage to achieve negative emissions.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 3 |
 | Citations | 211 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Offshore Geothermal: A Major Resource for a Stressed Planet** (2024)
-   1 citations · BECCS
+   1 citations
 
 ## External Profiles
 

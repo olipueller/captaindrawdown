@@ -1,7 +1,7 @@
 ---
 title: "Md Yeasir A. Rahman"
 description: "Md Yeasir A. Rahman is a Mid-career Biochar researcher at University of South Florida in US. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.886522
+date: 2026-03-23T11:47:00.843297
 url: "/cdr-researcher-census/researchers/md-yeasir-a-rahman-a5032097/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 4 |
 | Citations | 170 |
 | Publications | 5 |
-| CDR Focus | 40.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Faisal Shehzad"
-description: "Muhammad Faisal Shehzad is a Mid-career DAC researcher at University of Victoria in CA. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.566193
+description: "Muhammad Faisal Shehzad is a Mid-career General CDR researcher at University of Victoria in CA. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.402477
 url: "/cdr-researcher-census/researchers/muhammad-faisal-shehzad-a5036916/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Victoria · 🇨🇦 CA
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 8 |
 | Citations | 257 |
 | Publications | 15 |
-| CDR Focus | 26.7% |
+| CDR Focus | 2000.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    4 citations · DAC
 
 3. **Dynamic Modeling and Optimal Control Schemes for an Offshore-Wind Driven Direct Air Capture System Including Energy Storage** (2024)
-   0 citations · DAC
+   0 citations · General CDR
 
 4. **Linear programming model predictive control for offshore wind-direct air capture system using battery storage** (2023)
    0 citations · DAC

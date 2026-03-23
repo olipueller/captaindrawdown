@@ -1,7 +1,7 @@
 ---
 title: "Fengsheng Liu"
-description: "Fengsheng Liu is a Senior DAC researcher at Huaneng Clean Energy Research Institute in CN. With 40 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.029779
+description: "Fengsheng Liu is a Senior carbon dioxide removal researcher at Huaneng Clean Energy Research Institute in CN. With 40 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.471695
 url: "/cdr-researcher-census/researchers/fengsheng-liu-a5037463/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Huaneng Clean Energy Research Institute · 🇨🇳 CN
 
 **Career Stage:** Senior
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,34 +39,34 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 15 |
 | Citations | 989 |
 | Publications | 40 |
-| CDR Focus | 20.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Modified metal–organic framework by a novel coordinatively unsaturated amine grafting mechanism for direct air capture of CO2** (2022)
-   60 citations · DAC
+   60 citations
 
 2. **Humidity sensitivity reducing of moisture swing adsorbents by hydrophobic carrier doping for CO2 direct air capture** (2023)
-   43 citations · DAC
+   43 citations
 
 3. **Ultra-highly efficient adsorbent for CO2 capture from air by directional deprotonation regulation of MOFs-based amine grafting** (2024)
-   17 citations · DAC
+   17 citations
 
 4. **Unidirectional ice-templating for aerogel adsorbents: Excellent pore structure and high CO2 capture performance for direct air capture** (2024)
-   12 citations · DAC
+   12 citations
 
 5. **Module optimization and array design of moisture swing direct air capture based on 2D-3D coupled analysis** (2024)
-   5 citations · DAC
+   5 citations
 
 6. **Modified Metal-Organic Framework by a Novel Coordinatively Unsaturated Amine Grafting Mechanism for Direct Air Capture of Co2** (2022)
-   3 citations · DAC
+   3 citations
 
 7. **Challenges of Integrating Direct Air Capture with Methanol Synthesis: A Techno-Economic Analysis** (2025)
-   1 citations · DAC
+   1 citations
 
 8. **Challenges of Integrating Direct Air Capture with Methanol Synthesis: A Techno-Economic Analysis** (2025)
-   1 citations · DAC
+   1 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Diarmaid Clery"
 description: "Diarmaid Clery is a Mid-career BECCS researcher at University of Manchester in GB. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.814433
+date: 2026-03-23T11:47:00.750140
 url: "/cdr-researcher-census/researchers/diarmaid-clery-a5025748/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 5 |
 | Citations | 184 |
 | Publications | 11 |
-| CDR Focus | 36.4% |
+| CDR Focus | 3640.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

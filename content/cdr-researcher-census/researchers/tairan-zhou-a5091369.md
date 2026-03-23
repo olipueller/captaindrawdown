@@ -1,7 +1,7 @@
 ---
 title: "Tairan Zhou"
 description: "Tairan Zhou is a Mid-career Soil Carbon researcher at China Agricultural University in CN. With 35 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.882931
+date: 2026-03-23T11:47:00.839247
 url: "/cdr-researcher-census/researchers/tairan-zhou-a5091369/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 171 |
 | Publications | 35 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1140.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

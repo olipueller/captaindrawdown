@@ -1,7 +1,7 @@
 ---
 title: "Suzi Pugh"
-description: "Suzi Pugh is a Mid-career DAC researcher at University of Cambridge in GB. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.381330
+description: "Suzi Pugh is a Mid-career carbon dioxide removal researcher at University of Cambridge in GB. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.105146
 url: "/cdr-researcher-census/researchers/suzi-pugh-a5010335/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ University of Cambridge · 🇬🇧 GB
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,19 +36,19 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 8 |
 | Citations | 349 |
 | Publications | 20 |
-| CDR Focus | 15.0% |
+| CDR Focus | 500.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Carbon Dioxide Capture at Nucleophilic Hydroxide Sites in Oxidation‐Resistant Cyclodextrin‐Based Metal–Organic Frameworks**** (2022)
-   50 citations · DAC
+   50 citations
 
 2. **Carbon Dioxide Capture at Nucleophilic Hydroxide Sites in Oxidation‐Resistant Cyclodextrin‐Based Metal–Organic Frameworks**** (2022)
-   9 citations · DAC
+   9 citations
 
 3. **Carbon Dioxide Capture at Nucleophilic Hydroxide Sites in Oxidation-Resistant Cyclodextrin-Based Metal-Organic Frameworks** (2022)
-   4 citations · DAC
+   4 citations
 
 ## External Profiles
 

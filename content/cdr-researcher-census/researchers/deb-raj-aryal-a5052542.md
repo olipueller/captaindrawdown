@@ -1,7 +1,7 @@
 ---
 title: "Deb Raj Aryal"
 description: "Deb Raj Aryal is a Mid-career Soil Carbon researcher at El Colegio de la Frontera Sur in MX. With 82 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.038623
+date: 2026-03-23T11:46:59.489103
 url: "/cdr-researcher-census/researchers/deb-raj-aryal-a5052542/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 19 |
 | Citations | 950 |
 | Publications | 82 |
-| CDR Focus | 14.6% |
+| CDR Focus | 1220.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -57,16 +57,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    30 citations · Soil Carbon
 
 3. **Carbon storage and sequestration rates in Leucaena leucocephala-based silvopasture in Southern Mexico** (2023)
-   22 citations · Soil Carbon
+   22 citations · General CDR
 
 4. **Fine root biomass stocks but not the production and turnover rates vary with the age of tropical successional forests in Southern Mexico** (2022)
    22 citations · Soil Carbon
 
 5. **Biomass recovery along a tropical forest succession: Trends on tree diversity, wood traits and stand structure** (2024)
-   21 citations · Soil Carbon
+   21 citations
 
 6. **Grazing intensity in grassland ecosystems: implications for carbon storage and functional properties** (2022)
-   10 citations · Soil Carbon
+   10 citations · General CDR
 
 7. **Silvopastoral systems reduce soil CO2 emissions, enhance carbon stocks, and regulate the micro-environment in tropical grazing lands** (2025)
    5 citations · Soil Carbon

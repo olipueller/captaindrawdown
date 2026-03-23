@@ -1,7 +1,7 @@
 ---
 title: "Husen Qiu"
 description: "Husen Qiu is a Mid-career Soil Carbon researcher at Suzhou University of Science and Technology in CN. With 40 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.170996
+date: 2026-03-23T11:46:59.742759
 url: "/cdr-researcher-census/researchers/husen-qiu-a5103657/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 12 |
 | Citations | 576 |
 | Publications | 40 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

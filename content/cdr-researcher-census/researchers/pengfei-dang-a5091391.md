@@ -1,7 +1,7 @@
 ---
 title: "Pengfei Dang"
 description: "Pengfei Dang is a Mid-career Soil Carbon researcher at Agriculture and Forestry University in NP. With 39 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.996555
+date: 2026-03-23T11:46:59.402940
 url: "/cdr-researcher-census/researchers/pengfei-dang-a5091391/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 17 |
 | Citations | 1,215 |
 | Publications | 39 |
-| CDR Focus | 12.8% |
+| CDR Focus | 1280.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

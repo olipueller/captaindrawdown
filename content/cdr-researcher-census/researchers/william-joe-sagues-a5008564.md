@@ -1,7 +1,7 @@
 ---
 title: "William Joe Sagues"
 description: "William Joe Sagues is a Mid-career General CDR researcher at North Carolina State University in US. With 54 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.018826
+date: 2026-03-23T11:46:59.448640
 url: "/cdr-researcher-census/researchers/william-joe-sagues-a5008564/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 15 |
 | Citations | 1,059 |
 | Publications | 54 |
-| CDR Focus | 24.1% |
+| CDR Focus | 1670.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,16 +54,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    54 citations · General CDR
 
 2. **Leveraging the bioeconomy for carbon drawdown** (2023)
-   47 citations · General CDR
+   47 citations · BECCS
 
 3. **Green Needle Coke Production from Pyrolysis Biocrude toward Bio-based Anode Material Manufacture: Biochar Fines Addition Effect as “Physical Template” on the Crystalline Order** (2023)
    8 citations · Biochar
 
 4. **Biomass composting with gaseous carbon dioxide capture** (2024)
-   6 citations · General CDR
+   6 citations · BECCS
 
 5. **A techno-economic assessment of carbon dioxide removal pathways via biochemical conversion of lignocellulose to biofuels and bioplastics** (2025)
-   5 citations · General CDR
+   5 citations · BECCS
 
 6. **Biogenic carbon capture at pulp mills via sodium spiking and oxy-fuel calcination** (2025)
    3 citations · BECCS
@@ -72,13 +72,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    3 citations · General CDR
 
 8. **Biocarbon Flow Capacitors (BFCs) for Energy Storage and Carbon Removal** (2025)
-   0 citations · Biochar
-
-9. **Gaseous carbon dioxide removal from composting of biomass and cotton textile waste** (2025)
    0 citations · General CDR
 
+9. **Gaseous carbon dioxide removal from composting of biomass and cotton textile waste** (2025)
+   0 citations · Biochar
+
 10. **Gaseous Carbon Dioxide Removal from Composting of Biomass and Cotton Textile Waste** (2025)
-   0 citations · DAC
+   0 citations · Biochar
 
 ## External Profiles
 

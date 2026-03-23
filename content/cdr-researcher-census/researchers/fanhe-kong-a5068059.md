@@ -1,7 +1,7 @@
 ---
 title: "Fanhe Kong"
 description: "Fanhe Kong is a Mid-career DAC researcher at Shandong University in CN. With 25 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.052818
+date: 2026-03-23T11:46:59.524089
 url: "/cdr-researcher-census/researchers/fanhe-kong-a5068059/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,22 +45,22 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 15 |
 | Citations | 872 |
 | Publications | 25 |
-| CDR Focus | 16.0% |
+| CDR Focus | 1600.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Sub-Ambient Temperature Direct Air Capture of CO<sub>2</sub> using Amine-Impregnated MIL-101(Cr) Enables Ambient Temperature CO<sub>2</sub> Recovery** (2022)
-   168 citations · DAC
+   168 citations
 
 2. **Research needs targeting direct air capture of carbon dioxide: Material &amp; process performance characteristics under realistic environmental conditions** (2022)
    94 citations · DAC
 
 3. **Cold-Temperature Capture of Carbon Dioxide with Water Coproduction from Air Using Commercial Zeolites** (2022)
-   62 citations · DAC
+   62 citations
 
 4. **Dynamic study of direct CO<sub>2</sub> capture from indoor air using poly(ethylenimine)-impregnated fiber sorbents** (2023)
-   17 citations · DAC
+   17 citations
 
 ## External Profiles
 

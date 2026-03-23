@@ -1,7 +1,7 @@
 ---
 title: "Martha Lustosa Carvalho"
 description: "Martha Lustosa Carvalho is a Mid-career Soil Carbon researcher at Universidade de São Paulo in BR. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.887843
+date: 2026-03-23T11:47:00.845669
 url: "/cdr-researcher-census/researchers/martha-lustosa-carvalho-a5034505/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 170 |
 | Publications | 14 |
-| CDR Focus | 28.6% |
+| CDR Focus | 2140.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,10 +54,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    9 citations · Soil Carbon
 
 2. **Carbon farming in the living soils of the Americas** (2024)
-   4 citations · Soil Carbon
+   4 citations
 
 3. **Carbon farming in the Living Soils of the Americas** (2023)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 4. **Alterations in soil physical and hydraulic properties under sugarcane straw removal management: basis for assessment of ecosystem services related to water flow regulation and erosion control** (2021)
    0 citations · Soil Carbon

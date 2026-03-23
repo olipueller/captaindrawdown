@@ -1,7 +1,7 @@
 ---
 title: "Ewuketu Linger"
-description: "Ewuketu Linger is a Mid-career Soil Carbon researcher at Hainan University in CN. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.946448
+description: "Ewuketu Linger is a Mid-career General CDR researcher at Hainan University in CN. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.920054
 url: "/cdr-researcher-census/researchers/ewuketu-linger-a5081592/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Hainan University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 3 |
 | Citations | 159 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Drivers of biomass dynamics in a tropical seasonal rainforest of Southwest China: The roles of environment and forest attributes** (2025)
-   2 citations · Soil Carbon
+   2 citations · General CDR
 
 ## External Profiles
 

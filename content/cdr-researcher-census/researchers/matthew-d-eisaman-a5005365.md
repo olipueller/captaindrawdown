@@ -1,7 +1,7 @@
 ---
 title: "Matthew D. Eisaman"
 description: "Matthew D. Eisaman is a Senior Ocean CDR researcher at Yale University in US. With 111 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.885955
+date: 2026-03-23T11:46:59.135780
 url: "/cdr-researcher-census/researchers/matthew-d-eisaman-a5005365/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,22 +45,22 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 22 |
 | Citations | 4,876 |
 | Publications | 111 |
-| CDR Focus | 21.6% |
+| CDR Focus | 1620.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Assessing the technical aspects of ocean-alkalinity-enhancement approaches** (2023)
-   94 citations · Enhanced Weathering
+   94 citations · General CDR
 
 2. **Simulated Impact of Ocean Alkalinity Enhancement on Atmospheric CO<sub>2</sub> Removal in the Bering Sea** (2022)
    90 citations · General CDR
 
 3. **Assessing technical aspects of ocean alkalinity enhancement approaches** (2023)
-   21 citations · Enhanced Weathering
+   21 citations · General CDR
 
 4. **An assessment of ocean alkalinity enhancement using aqueous hydroxides: kinetics, efficiency, and precipitation thresholds** (2024)
-   19 citations · General CDR
+   19 citations · Ocean CDR
 
 5. **Pathways for marine carbon dioxide removal using electrochemical acid-base generation** (2024)
    15 citations · General CDR
@@ -72,13 +72,13 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    6 citations · General CDR
 
 8. **Biological response of eelgrass epifauna, Taylor’s sea hare (Phyllaplysia taylori) and eelgrass isopod (Idotea resecata), to elevated ocean alkalinity** (2024)
-   5 citations · General CDR
+   5 citations · Ocean CDR
 
 9. **Regional Uncertainty Analysis in the Air–Sea CO<sub>2</sub> Flux** (2025)
    1 citations · General CDR
 
 10. **Using Magnesium Hydroxide for Ocean Alkalinity Enhancement: Elucidating the Role of Formation Conditions on Material Properties and Dissolution Kinetics** (2025)
-   1 citations · Ocean CDR
+   1 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Noah J. Planavsky"
 description: "Noah J. Planavsky is an Eminent Enhanced Weathering researcher at Planetary Science Institute in US. With 539 publications and an h-index of 82, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.858939
+date: 2026-03-23T11:46:59.074576
 url: "/cdr-researcher-census/researchers/noah-j-planavsky-a5031830/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 82 |
 | Citations | 27,846 |
 | Publications | 539 |
-| CDR Focus | 15.8% |
+| CDR Focus | 1020.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,22 +54,22 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    112 citations · Enhanced Weathering
 
 2. **Enhanced weathering in the US Corn Belt delivers carbon removal with agronomic benefits** (2024)
-   110 citations · Enhanced Weathering
+   110 citations
 
 3. **Ocean alkalinity enhancement through restoration of blue carbon ecosystems** (2023)
-   65 citations · General CDR
+   65 citations · Ocean CDR
 
 4. **River chemistry constraints on the carbon capture potential of surficial enhanced rock weathering** (2022)
    57 citations · Enhanced Weathering
 
 5. **Initial Validation of a Soil-Based Mass-Balance Approach for Empirical Monitoring of Enhanced Rock Weathering Rates** (2023)
-   56 citations · Enhanced Weathering
+   56 citations
 
 6. **A biogeochemical model of mineral-based ocean alkalinity enhancement: impacts on the biological pump and ocean carbon uptake** (2023)
    52 citations · General CDR
 
 7. **The evolution of the marine carbonate factory** (2023)
-   47 citations · Ocean CDR
+   47 citations
 
 8. **Transforming US agriculture for carbon removal with enhanced weathering** (2025)
    38 citations · Enhanced Weathering

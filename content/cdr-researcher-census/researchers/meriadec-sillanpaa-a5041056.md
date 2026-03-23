@@ -1,7 +1,7 @@
 ---
 title: "Mériadec Sillanpää"
 description: "Mériadec Sillanpää is a Mid-career Soil Carbon researcher at National University of Singapore in SG. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.189622
+date: 2026-03-23T11:46:59.773588
 url: "/cdr-researcher-census/researchers/meriadec-sillanpaa-a5041056/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 549 |
 | Publications | 14 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    6 citations · Soil Carbon
 
 2. **Mangrove blue carbon in the face of deforestation, climate change and restoration** (2021)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Auwal"
-description: "Muhammad Auwal is a Mid-career Soil Carbon researcher at Kano State University of Technology in NG. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.228216
+description: "Muhammad Auwal is a Mid-career Biochar researcher at Kano State University of Technology in NG. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.235251
 url: "/cdr-researcher-census/researchers/muhammad-auwal-a5056208/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Kano State University of Technology ·  NG
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 119 |
 | Publications | 8 |
-| CDR Focus | 37.5% |
+| CDR Focus | 2500.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,10 +54,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    70 citations · Biochar
 
 2. **The phosphorus limitation in the post-fire forest soils increases soil CO2 emission via declining cellular carbon use efficiency and increasing extracellular phosphatase** (2023)
-   21 citations · Soil Carbon
+   21 citations
 
 3. **The Phosphorus Limitation in the Post-Fire Forest Soils Increases Soil CO2 Emission Via Declining Cellular Carbon Use Efficiency and Increasing Extracellular Phosphatase** (2022)
-   1 citations · Soil Carbon
+   1 citations
 
 ## External Profiles
 

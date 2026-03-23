@@ -1,7 +1,7 @@
 ---
 title: "Elena Blanc‐Betes"
-description: "Elena Blanc‐Betes is a Senior Soil Carbon researcher at University of Illinois Urbana-Champaign in US. With 59 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.049628
+description: "Elena Blanc‐Betes is a Senior Enhanced Weathering researcher at University of Illinois Urbana-Champaign in US. With 59 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.516825
 url: "/cdr-researcher-census/researchers/elena-blancbetes-a5011965/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Illinois Urbana-Champaign · 🇺🇸 US
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Enhanced Weathering**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 15 |
 | Citations | 885 |
 | Publications | 59 |
-| CDR Focus | 16.9% |
+| CDR Focus | 1530.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -54,10 +54,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    74 citations · Enhanced Weathering
 
 2. **Bioenergy Underground: Challenges and opportunities for phenotyping roots and the microbiome for sustainable bioenergy crop production** (2022)
-   24 citations · Soil Carbon
+   24 citations · BECCS
 
 3. **Assessing the Returns to Land and Greenhouse Gas Savings from Producing Energy Crops on Conservation Reserve Program Land** (2021)
-   24 citations · Soil Carbon
+   24 citations
 
 4. **Improving nitrogen cycling in a land surface model (CLM5) to quantify soil N <sub>2</sub> O, NO, and NH <sub>3</sub> emissions from enhanced rock weathering with croplands** (2023)
    15 citations · Enhanced Weathering
@@ -66,10 +66,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    8 citations · BECCS
 
 6. **Improving nitrogen cycling in a land surface model (CLM5) to quantify soil N <sub>2</sub> O, NO and NH <sub>3</sub> emissions from enhanced rock weathering with croplands** (2023)
-   4 citations · Enhanced Weathering
+   4 citations
 
 7. **Land conversion to energy crops for sustainable aviation fuel production reduces greenhouse gas emissions in the United States** (2025)
-   3 citations · Soil Carbon
+   3 citations · BECCS
 
 8. **Validating assumptions in calculating carbon dioxide removal by enhanced rock weathering in Kantola et al., 2023** (2023)
    2 citations · Enhanced Weathering

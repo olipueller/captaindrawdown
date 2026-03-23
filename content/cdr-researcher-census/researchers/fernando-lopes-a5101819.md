@@ -1,7 +1,7 @@
 ---
 title: "Fernando Lopes"
 description: "Fernando Lopes is a Senior Soil Carbon researcher at Universidade dos Açores in PT. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.606368
+date: 2026-03-23T11:47:00.451171
 url: "/cdr-researcher-census/researchers/fernando-lopes-a5101819/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 244 |
 | Publications | 13 |
-| CDR Focus | 15.4% |
+| CDR Focus | 770.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    7 citations · Soil Carbon
 
 2. **The value of forest recreation in Azorean public parks** (2021)
-   0 citations · Soil Carbon
+   0 citations
 
 ## External Profiles
 

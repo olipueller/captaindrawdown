@@ -1,7 +1,7 @@
 ---
 title: "Ajay Thapa"
-description: "Ajay Thapa is a Mid-career General CDR researcher at Université Bourgogne Franche-Comté in FR. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.791597
+description: "Ajay Thapa is a Mid-career carbon dioxide removal researcher at Université Bourgogne Franche-Comté in FR. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.699880
 url: "/cdr-researcher-census/researchers/ajay-thapa-a5033510/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Université Bourgogne Franche-Comté · 🇫🇷 FR
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 7 |
 | Citations | 190 |
 | Publications | 8 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **In-situ biogas upgrading in an anaerobic trickling filter bed reactor treating a thermal post-treated digestate** (2021)
-   27 citations · General CDR
+   27 citations
 
 ## External Profiles
 

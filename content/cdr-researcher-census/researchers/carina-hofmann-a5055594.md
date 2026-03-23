@@ -1,7 +1,7 @@
 ---
 title: "Carina Hofmann"
-description: "Carina Hofmann is a Mid-career DAC researcher at Technical University of Darmstadt in DE. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.118179
+description: "Carina Hofmann is a Mid-career General CDR researcher at Technical University of Darmstadt in DE. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.119735
 url: "/cdr-researcher-census/researchers/carina-hofmann-a5055594/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Technical University of Darmstadt · 🇩🇪 DE
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,16 +42,16 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 7 |
 | Citations | 132 |
 | Publications | 11 |
-| CDR Focus | 18.2% |
+| CDR Focus | 910.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Efficient CO2 capture from lime production by an indirectly heated carbonate looping process** (2021)
-   35 citations · DAC
+   35 citations
 
 2. **Efficient CO2 Capture from Lime Production by an Indirectly Heated Carbonate Looping Process** (2021)
-   8 citations · DAC
+   8 citations · General CDR
 
 ## External Profiles
 

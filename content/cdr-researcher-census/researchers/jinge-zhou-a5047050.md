@@ -1,7 +1,7 @@
 ---
 title: "Jinge Zhou"
 description: "Jinge Zhou is a Mid-career Soil Carbon researcher at South China Botanical Garden in CN. With 31 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.209602
+date: 2026-03-23T11:46:59.813317
 url: "/cdr-researcher-census/researchers/jinge-zhou-a5047050/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 14 |
 | Citations | 516 |
 | Publications | 31 |
-| CDR Focus | 45.2% |
+| CDR Focus | 2580.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Contributions of plant‐ and microbial‐derived residuals to mangrove soil carbon stocks: Implications for blue carbon sequestration** (2024)
-   72 citations · Soil Carbon
+   72 citations · General CDR
 
 2. **Fiddling with the blue carbon: Fiddler crab burrows enhance CO2 and CH4 efflux in saltmarsh** (2022)
    36 citations · Soil Carbon
@@ -69,7 +69,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    23 citations · Soil Carbon
 
 7. **Blue carbon storage of tidal flats and salt marshes: A comparative assessment in two Chinese coastal areas** (2024)
-   16 citations · Soil Carbon
+   16 citations · Ocean CDR
 
 8. **Nitrogen deposition in low-phosphorus tropical forests benefits soil C sequestration but not stabilization** (2022)
    14 citations · Soil Carbon
@@ -78,7 +78,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    12 citations · Soil Carbon
 
 10. **Mangrove restoration enhances blue carbon sequestration and its stability in a subtropical tidal wetland** (2025)
-   5 citations · Soil Carbon
+   5 citations · Ocean CDR
 
 ## External Profiles
 

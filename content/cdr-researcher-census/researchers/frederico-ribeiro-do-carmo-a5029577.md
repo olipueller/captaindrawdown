@@ -1,7 +1,7 @@
 ---
 title: "Frederico Ribeiro do Carmo"
 description: "Frederico Ribeiro do Carmo is a Mid-career Biochar researcher at Universidade Federal Rural do Semi-Árido in BR. With 37 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.432088
+date: 2026-03-23T11:47:00.191312
 url: "/cdr-researcher-census/researchers/frederico-ribeiro-do-carmo-a5029577/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 11 |
 | Citations | 316 |
 | Publications | 37 |
-| CDR Focus | 10.8% |
+| CDR Focus | 810.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -60,7 +60,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    0 citations · Biochar
 
 4. **Beyond bioenergy with carbon capture and storage: RothC-based assessment of biochar systems for removal and land-based carbon offsets in semi-arid soils of Brazil** (2025)
-   0 citations · BECCS
+   0 citations · Biochar
 
 ## External Profiles
 

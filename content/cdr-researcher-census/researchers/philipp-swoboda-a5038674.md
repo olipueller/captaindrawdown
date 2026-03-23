@@ -1,7 +1,7 @@
 ---
 title: "Philipp Swoboda"
 description: "Philipp Swoboda is a Mid-career Enhanced Weathering researcher. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.317676
+date: 2026-03-23T11:47:00.001696
 url: "/cdr-researcher-census/researchers/philipp-swoboda-a5038674/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -37,7 +37,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 5 |
 | Citations | 397 |
 | Publications | 14 |
-| CDR Focus | 64.3% |
+| CDR Focus | 4290.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -52,13 +52,13 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    40 citations · Enhanced Weathering
 
 4. **A Review of Measurement for Quantification of Carbon Dioxide Removal by Enhanced Weathering in Soil** (2023)
-   6 citations · Enhanced Weathering
+   6 citations
 
 5. **Agronomic co-benefits of enhanced rock weathering (ERW) with basalt applied to sugarcane grown on acidic soil in Brazil** (2025)
    1 citations · Enhanced Weathering
 
 6. **Chemical and Mineralogical Classification of Silicate Agrominerals** (2026)
-   0 citations · Soil Carbon
+   0 citations · Enhanced Weathering
 
 7. **Carbon dioxide removal and co-benefits of enhanced weathering in tropical soils: a case study with sugarcane in Brazil** (2025)
    0 citations · Enhanced Weathering

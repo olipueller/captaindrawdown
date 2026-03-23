@@ -1,7 +1,7 @@
 ---
 title: "Klaas Korte"
 description: "Klaas Korte is a Mid-career General CDR researcher at Helmholtz Centre for Environmental Research in DE. With 45 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.314539
+date: 2026-03-23T11:46:59.996241
 url: "/cdr-researcher-census/researchers/klaas-korte-a5034385/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 11 |
 | Citations | 400 |
 | Publications | 45 |
-| CDR Focus | 17.8% |
+| CDR Focus | 1110.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -69,10 +69,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    0 citations · General CDR
 
 7. **A Comprehensive Assessment of Carbon Dioxide Removal Options for Germany** (2023)
-   0 citations · BECCS
+   0 citations
 
 8. **A Comprehensive Assessment of Carbon Dioxide Removal Options for Germany** (2023)
-   0 citations · General CDR
+   0 citations
 
 ## External Profiles
 

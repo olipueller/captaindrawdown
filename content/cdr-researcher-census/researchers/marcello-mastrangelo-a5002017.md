@@ -1,7 +1,7 @@
 ---
 title: "Marcello Mastrangelo"
 description: "Marcello Mastrangelo is a Mid-career Soil Carbon researcher at Cereal Research Centre in IT. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.077820
+date: 2026-03-23T11:47:01.074908
 url: "/cdr-researcher-census/researchers/marcello-mastrangelo-a5002017/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 137 |
 | Publications | 17 |
-| CDR Focus | 11.8% |
+| CDR Focus | 1180.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    3 citations · Soil Carbon
 
 2. **Mixed Compost Application: A Sustainable Tool for Improving Soil Carbon Dynamics in a Peach Orchard Under Mediterranean Conditions** (2025)
-   0 citations · General CDR
+   0 citations · Soil Carbon
 
 ## External Profiles
 

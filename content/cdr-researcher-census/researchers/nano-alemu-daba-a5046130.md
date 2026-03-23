@@ -1,7 +1,7 @@
 ---
 title: "Nano Alemu Daba"
 description: "Nano Alemu Daba is a Mid-career Soil Carbon researcher at Haramaya University in ET. With 41 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.258865
+date: 2026-03-23T11:46:59.907034
 url: "/cdr-researcher-census/researchers/nano-alemu-daba-a5046130/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,25 +45,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 12 |
 | Citations | 449 |
 | Publications | 41 |
-| CDR Focus | 12.2% |
+| CDR Focus | 980.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Carbon sequestration rate, nitrogen use efficiency and rice yield responses to long-term substitution of chemical fertilizer by organic manure in a rice–rice cropping system** (2022)
-   48 citations · Soil Carbon
+   48 citations · General CDR
 
 2. **Long-Term Effect of Fertilizations on Yield Sustainability, Soil Organic Carbon Sequestration and Apparent Phosphorus Balance in Acidic Paddy Soil** (2022)
    12 citations · Soil Carbon
 
 3. **Long-term substitution of synthetic fertilizer by cattle manure: Effects on carbon footprint, carbon sequestration, and yield in a double rice system** (2025)
-   3 citations · Soil Carbon
+   3 citations · General CDR
 
 4. **Soil humus and aluminum—iron interactions enhance carbon sequestration and yield sustainability after long-term fertilization in three different soils** (2025)
    2 citations · Soil Carbon
 
 5. **Soil Carbon Sequestration and Its Role in Agriculture** (2025)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

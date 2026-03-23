@@ -1,7 +1,7 @@
 ---
 title: "Adam V. Subhas"
 description: "Adam V. Subhas is a Senior Ocean CDR researcher at Woods Hole Oceanographic Institution in US. With 85 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.985468
+date: 2026-03-23T11:46:59.372021
 url: "/cdr-researcher-census/researchers/adam-v-subhas-a5048374/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 20 |
 | Citations | 1,317 |
 | Publications | 85 |
-| CDR Focus | 28.2% |
+| CDR Focus | 2240.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,10 +54,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    58 citations · General CDR
 
 2. **Natural Analogs to Ocean Alkalinity Enhancement** (2023)
-   6 citations · Ocean CDR
+   6 citations
 
 3. **Site selection for ocean alkalinity enhancement informed by passive tracer simulations** (2025)
-   4 citations · General CDR
+   4 citations · Ocean CDR
 
 4. **A tracer study for the development of in-water monitoring, reporting, and verification (MRV) of ship-based ocean alkalinity enhancement** (2025)
    3 citations · General CDR
@@ -69,16 +69,16 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    2 citations · General CDR
 
 7. **Mineral formation during shipboard ocean alkalinity enhancement experiments in the North Atlantic** (2025)
-   2 citations · General CDR
+   2 citations · Ocean CDR
 
 8. **Mineral Formation during Shipboard Ocean Alkalinity Enhancement Experiments in the North Atlantic** (2025)
-   2 citations · General CDR
+   2 citations
 
 9. **Data reporting and sharing for ocean alkalinity enhancement research** (2023)
-   2 citations · Ocean CDR
+   2 citations · General CDR
 
 10. **Data reporting and sharing for ocean alkalinity enhancement research** (2023)
-   2 citations · Ocean CDR
+   2 citations
 
 ## External Profiles
 

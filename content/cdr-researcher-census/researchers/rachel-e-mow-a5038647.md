@@ -1,7 +1,7 @@
 ---
 title: "Rachel E. Mow"
-description: "Rachel E. Mow is a Mid-career DAC researcher at National Renewable Energy Laboratory in US. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.548167
+description: "Rachel E. Mow is a Mid-career carbon dioxide removal researcher at National Renewable Energy Laboratory in US. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.377114
 url: "/cdr-researcher-census/researchers/rachel-e-mow-a5038647/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ National Renewable Energy Laboratory · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 8 |
 | Citations | 264 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Fluorescent Probe of Aminopolymer Mobility in Bulk and in Nanoconfined Direct Air CO<sub>2</sub> Capture Supports** (2022)
-   16 citations · DAC
+   16 citations
 
 ## External Profiles
 

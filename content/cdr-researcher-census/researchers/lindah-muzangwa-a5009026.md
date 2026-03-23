@@ -1,7 +1,7 @@
 ---
 title: "Lindah Muzangwa"
 description: "Lindah Muzangwa is a Mid-career Soil Carbon researcher at University of Fort Hare in ZA. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.875191
+date: 2026-03-23T11:47:00.828000
 url: "/cdr-researcher-census/researchers/lindah-muzangwa-a5009026/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,16 +45,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 172 |
 | Publications | 14 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Impact of conservation agriculture on soil health: lessons from the university of fort hare trial.** (2022)
-   4 citations · General CDR
+   4 citations · Soil Carbon
 
 2. **Soil C sequestration and CO<sub>2</sub> fluxes under maize-based Conservation Agriculture systems in the Eastern Cape, South Africa** (2021)
-   2 citations · General CDR
+   2 citations · Soil Carbon
 
 ## External Profiles
 

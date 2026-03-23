@@ -1,7 +1,7 @@
 ---
 title: "Iosif Kapellakis"
 description: "Iosif Kapellakis is a Senior Soil Carbon researcher at Neapolis University Pafos in CY. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.275028
+date: 2026-03-23T11:46:59.937725
 url: "/cdr-researcher-census/researchers/iosif-kapellakis-a5011007/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 431 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

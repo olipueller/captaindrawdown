@@ -1,7 +1,7 @@
 ---
 title: "Anežka Borčinová Radková"
 description: "Anežka Borčinová Radková is a Mid-career Enhanced Weathering researcher at Queen's University in CA. With 21 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.526655
+date: 2026-03-23T11:47:00.346324
 url: "/cdr-researcher-census/researchers/anezka-borcinova-radkova-a5037816/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 9 |
 | Citations | 272 |
 | Publications | 21 |
-| CDR Focus | 33.3% |
+| CDR Focus | 2860.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    1 citations · Enhanced Weathering
 
 2. **Quantifying potential carbon dioxide removal via enhanced weathering using porewater from a field trial in Scotland** (2025)
-   0 citations · Enhanced Weathering
+   0 citations
 
 3. **Novel extraction method designed to estimate the topsoil pore water reservoir of carbon dioxide removal through enhanced weathering of silicate minerals** (2025)
    0 citations · Enhanced Weathering

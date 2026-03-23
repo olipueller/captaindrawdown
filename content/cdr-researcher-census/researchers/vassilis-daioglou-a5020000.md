@@ -1,7 +1,7 @@
 ---
 title: "Vassilis Daioglou"
-description: "Vassilis Daioglou is an Eminent BECCS researcher at Netherlands Environmental Assessment Agency in NL. With 126 publications and an h-index of 42, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.871045
+description: "Vassilis Daioglou is an Eminent General CDR researcher at Netherlands Environmental Assessment Agency in NL. With 126 publications and an h-index of 42, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.097104
 url: "/cdr-researcher-census/researchers/vassilis-daioglou-a5020000/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Netherlands Environmental Assessment Agency · 🇳🇱 NL
 
 ## CDR Specialization
 
-**BECCS**
+**General CDR**
 
-Combining biomass energy with carbon capture and storage to achieve negative emissions.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 42 |
 | Citations | 9,032 |
 | Publications | 126 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1190.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
    135 citations · DAC
 
 3. **Reducing sectoral hard-to-abate emissions to limit reliance on carbon dioxide removal** (2024)
-   63 citations · BECCS
+   63 citations · General CDR
 
 4. **Global implications of crop‐based bioenergy with carbon capture and storage for terrestrial vertebrate biodiversity** (2021)
    47 citations · BECCS
@@ -66,7 +66,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
    36 citations · DAC
 
 6. **Decarbonizing the cement industry: Findings from coupling prospective life cycle assessment of clinker with integrated assessment model scenarios** (2024)
-   33 citations · BECCS
+   33 citations · General CDR
 
 7. **Integrated assessment of the role of bioenergy within the EU energy transition targets to 2050** (2021)
    27 citations · BECCS
@@ -78,7 +78,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
    19 citations · BECCS
 
 10. **Using Decomposition Analysis to Determine the Main Contributing Factors to Carbon Neutrality across Sectors** (2021)
-   13 citations · BECCS
+   13 citations · General CDR
 
 ## External Profiles
 

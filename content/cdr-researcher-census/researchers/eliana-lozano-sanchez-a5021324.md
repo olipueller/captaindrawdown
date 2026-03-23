@@ -1,7 +1,7 @@
 ---
 title: "Eliana Lozano Sanchez"
-description: "Eliana Lozano Sanchez is a Mid-career DAC researcher at Aalborg University in DK. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.629966
+description: "Eliana Lozano Sanchez is a Mid-career BECCS researcher at Aalborg University in DK. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.487558
 url: "/cdr-researcher-census/researchers/eliana-lozano-sanchez-a5021324/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Aalborg University · 🇩🇰 DK
 
 ## CDR Specialization
 
-**DAC**
+**BECCS**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 9 |
 | Citations | 235 |
 | Publications | 17 |
-| CDR Focus | 29.4% |
+| CDR Focus | 2350.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -60,10 +60,10 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    3 citations · BECCS
 
 4. **Impact of adsorption kinetics on the integration of temperature vacuum swing adsorption-based direct air capture (TVSA-DAC) with e-methanol production** (2025)
-   2 citations · DAC
+   2 citations
 
 5. **Techno-Economic Study of Integrated High-Temperature Direct Air Capture with Hydrogen-Based Calcination and Fischer-Tropsch Synthesis for Jet Fuel Production** (2024)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

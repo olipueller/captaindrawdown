@@ -1,7 +1,7 @@
 ---
 title: "Yanxia Wang"
-description: "Yanxia Wang is a Mid-career DAC researcher at State Ethnic Affairs Commission in CN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.747917
+description: "Yanxia Wang is a Mid-career carbon dioxide removal researcher at State Ethnic Affairs Commission in CN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.642799
 url: "/cdr-researcher-census/researchers/yanxia-wang-a5083151/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ State Ethnic Affairs Commission · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 5 |
 | Citations | 201 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **High Adsorption Capacity Fe@13X Zeolite for Direct Air CO<sub>2</sub> Capture** (2023)
-   44 citations · DAC
+   44 citations
 
 ## External Profiles
 

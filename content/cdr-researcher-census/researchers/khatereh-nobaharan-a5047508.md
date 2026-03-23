@@ -1,7 +1,7 @@
 ---
 title: "Khatereh Nobaharan"
-description: "Khatereh Nobaharan is a Mid-career General CDR researcher. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.351718
+description: "Khatereh Nobaharan is a Mid-career Biochar researcher. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.055831
 url: "/cdr-researcher-census/researchers/khatereh-nobaharan-a5047508/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,9 +26,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -37,7 +37,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 6 |
 | Citations | 370 |
 | Publications | 10 |
-| CDR Focus | 20.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -46,7 +46,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    116 citations · Biochar
 
 2. **Removal of pharmaceuticals and personal care products from water and wastewater through biological processes: an overview** (2022)
-   5 citations · General CDR
+   5 citations
 
 ## External Profiles
 

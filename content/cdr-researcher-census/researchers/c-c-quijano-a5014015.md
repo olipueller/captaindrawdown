@@ -1,7 +1,7 @@
 ---
 title: "C. C. Quijano"
-description: "C. C. Quijano is a Senior Soil Carbon researcher. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.467366
+description: "C. C. Quijano is a Senior General CDR researcher. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.248101
 url: "/cdr-researcher-census/researchers/c-c-quijano-a5014015/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,9 +26,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -37,13 +37,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 299 |
 | Publications | 8 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Unlocking the Carbon Sequestration Potential of Agricultural Soils through Deep Tillage —A Dynamic Life Cycle Analysis Perspective** (2024)
-   2 citations · Soil Carbon
+   2 citations · General CDR
 
 ## External Profiles
 

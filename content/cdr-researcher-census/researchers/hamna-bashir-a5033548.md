@@ -1,7 +1,7 @@
 ---
 title: "Hamna Bashir"
 description: "Hamna Bashir is a Mid-career Soil Carbon researcher at Hamdard University in PK. With 19 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.336928
+date: 2026-03-23T11:47:00.027795
 url: "/cdr-researcher-census/researchers/hamna-bashir-a5033548/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 3 |
 | Citations | 384 |
 | Publications | 19 |
-| CDR Focus | 10.5% |
+| CDR Focus | 1050.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

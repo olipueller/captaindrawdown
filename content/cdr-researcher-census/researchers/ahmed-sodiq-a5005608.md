@@ -1,7 +1,7 @@
 ---
 title: "Ahmed Sodiq"
 description: "Ahmed Sodiq is a Mid-career DAC researcher at Summit University in QA. With 29 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.917924
+date: 2026-03-23T11:46:59.215480
 url: "/cdr-researcher-census/researchers/ahmed-sodiq-a5005608/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 16 |
 | Citations | 2,596 |
 | Publications | 29 |
-| CDR Focus | 20.7% |
+| CDR Focus | 2070.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -57,16 +57,16 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    93 citations · DAC
 
 3. **Comparative analysis of amine-functionalized silica for direct air capture (DAC): Material characterization, performance, and thermodynamic efficiency** (2024)
-   34 citations · DAC
+   34 citations
 
 4. **Optimizing chemisorption based direct air capture unit efficiency in HVAC systems: A study on the impact of DAC location and adsorption conditions as a response to the climate crisis and indoor air quality** (2023)
    30 citations · DAC
 
 5. **Unlocking the potentials of integrating direct air capture with HVAC system** (2023)
-   2 citations · DAC
+   2 citations
 
 6. **Amine free direct air capture integrated with buildings’ cooling systems in humid environments** (2025)
-   1 citations · DAC
+   1 citations
 
 ## External Profiles
 

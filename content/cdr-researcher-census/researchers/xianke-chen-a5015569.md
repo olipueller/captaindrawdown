@@ -1,7 +1,7 @@
 ---
 title: "Xianke Chen"
 description: "Xianke Chen is a Mid-career Soil Carbon researcher at Shandong University in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.592988
+date: 2026-03-23T11:47:00.433165
 url: "/cdr-researcher-census/researchers/xianke-chen-a5015569/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 249 |
 | Publications | 19 |
-| CDR Focus | 10.5% |
+| CDR Focus | 1050.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Sauradeep Majumdar"
-description: "Sauradeep Majumdar is a Mid-career DAC researcher. With 31 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.217059
+description: "Sauradeep Majumdar is a Mid-career carbon dioxide removal researcher. With 31 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.827041
 url: "/cdr-researcher-census/researchers/sauradeep-majumdar-a5015180/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -27,12 +27,6 @@ robots: "index, follow"
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -40,25 +34,25 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 8 |
 | Citations | 507 |
 | Publications | 31 |
-| CDR Focus | 16.1% |
+| CDR Focus | 650.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Inverse design of metal–organic frameworks for direct air capture of CO <sub>2</sub> <i>via</i> deep reinforcement learning** (2024)
-   55 citations · DAC
+   55 citations
 
 2. **Inverse design of metal-organic frameworks for direct air capture of CO2 via deep reinforcement learning** (2023)
-   8 citations · DAC
+   8 citations
 
 3. **Inverse design of metal-organic frameworks for direct air capture of CO2 via deep reinforcement learning** (2023)
-   3 citations · DAC
+   3 citations
 
 4. **Inverse design of metal-organic frameworks for direct air capture of CO2 via deep reinforcement learning** (2023)
-   3 citations · DAC
+   3 citations
 
 5. **Inverse design of metal-organic frameworks for direct air capture of CO2 via deep reinforcement learning** (2023)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

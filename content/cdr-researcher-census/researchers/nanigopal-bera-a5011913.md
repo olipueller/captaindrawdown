@@ -1,7 +1,7 @@
 ---
 title: "Nanigopal Bera"
-description: "Nanigopal Bera is a Mid-career DAC researcher. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.829040
+description: "Nanigopal Bera is a Mid-career carbon dioxide removal researcher. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.766403
 url: "/cdr-researcher-census/researchers/nanigopal-bera-a5011913/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -27,12 +27,6 @@ robots: "index, follow"
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -40,16 +34,16 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 8 |
 | Citations | 182 |
 | Publications | 20 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Direct Air Capture of CO<sub>2</sub> by Amino Acid-Functionalized Ionic Liquid-Based Deep Eutectic Solvents** (2024)
-   32 citations · DAC
+   32 citations
 
 2. **Arginine-Based Ionic Liquid in a Water–DMSO Binary Mixture for Highly Efficient CO<sub>2</sub> Capture from Open Air** (2023)
-   15 citations · DAC
+   15 citations
 
 ## External Profiles
 

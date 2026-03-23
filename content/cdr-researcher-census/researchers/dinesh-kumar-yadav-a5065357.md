@@ -1,7 +1,7 @@
 ---
 title: "Dinesh Kumar Yadav"
 description: "Dinesh Kumar Yadav is an Early-career Soil Carbon researcher. With 5 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.261737
+date: 2026-03-23T11:46:59.912878
 url: "/cdr-researcher-census/researchers/dinesh-kumar-yadav-a5065357/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 2 |
 | Citations | 445 |
 | Publications | 5 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

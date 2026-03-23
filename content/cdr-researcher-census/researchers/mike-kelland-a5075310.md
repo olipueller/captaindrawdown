@@ -1,7 +1,7 @@
 ---
 title: "Mike Kelland"
 description: "Mike Kelland is a Mid-career General CDR researcher at Weatherford (United Kingdom) in GB. With 21 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.066572
+date: 2026-03-23T11:46:59.549330
 url: "/cdr-researcher-census/researchers/mike-kelland-a5075310/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,16 +45,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 6 |
 | Citations | 825 |
 | Publications | 21 |
-| CDR Focus | 81.0% |
+| CDR Focus | 4760.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Initial Validation of a Soil-Based Mass-Balance Approach for Empirical Monitoring of Enhanced Rock Weathering Rates** (2023)
-   56 citations · Enhanced Weathering
+   56 citations
 
 2. **Initial agronomic benefits of enhanced weathering using basalt: A study of spring oat in a temperate climate** (2024)
-   37 citations · Enhanced Weathering
+   37 citations
 
 3. **Initial validation of a soil-based mass-balance approach for empirical monitoring of enhanced rock weathering rates** (2023)
    6 citations · Enhanced Weathering
@@ -63,13 +63,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    1 citations · Enhanced Weathering
 
 5. **Initial agronomic benefits of enhanced weathering using basalt: A study of spring oat in a temperate climate** (2024)
-   1 citations · Enhanced Weathering
+   1 citations
 
 6. **Initial agronomic benefits of enhanced weathering using basalt: A study of spring oat in a temperate climate** (2023)
    1 citations · Enhanced Weathering
 
 7. **Integrating Carbon Capture in Mining Through Metallurgy. Part 1: Leaching and Reclamation of Asbestos Tailings: Thetford Mines Carbon Capture and Remediation Project** (2023)
-   1 citations · DAC
+   1 citations · General CDR
 
 8. **Assessing carbon dioxide removal across wollastonite application gradients in mesocosm enhanced rock weathering experiments** (2026)
    0 citations · Enhanced Weathering
@@ -78,7 +78,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    0 citations · Enhanced Weathering
 
 10. **Quantifying potential carbon dioxide removal via enhanced weathering using porewater from a field trial in Scotland** (2025)
-   0 citations · Enhanced Weathering
+   0 citations
 
 ## External Profiles
 

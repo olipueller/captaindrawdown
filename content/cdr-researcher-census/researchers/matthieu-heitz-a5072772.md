@@ -1,7 +1,7 @@
 ---
 title: "Matthieu Heitz"
-description: "Matthieu Heitz is a Mid-career General CDR researcher at University of British Columbia in CA. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.797560
+description: "Matthieu Heitz is a Mid-career Biochar researcher at University of British Columbia in CA. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.706910
 url: "/cdr-researcher-census/researchers/matthieu-heitz-a5072772/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of British Columbia · 🇨🇦 CA
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 4 |
 | Citations | 188 |
 | Publications | 12 |
-| CDR Focus | 16.7% |
+| CDR Focus | 1670.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

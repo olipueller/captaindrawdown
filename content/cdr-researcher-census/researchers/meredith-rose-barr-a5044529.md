@@ -1,7 +1,7 @@
 ---
 title: "Meredith Rose Barr"
 description: "Meredith Rose Barr is a Mid-career Biochar researcher at London South Bank University in GB. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.423674
+date: 2026-03-23T11:47:00.175659
 url: "/cdr-researcher-census/researchers/meredith-rose-barr-a5044529/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 9 |
 | Citations | 322 |
 | Publications | 16 |
-| CDR Focus | 12.5% |
+| CDR Focus | 620.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    14 citations · Biochar
 
 2. **Biochar filtration of drug-resistant bacteria and active pharmaceutical ingredients to combat antimicrobial resistance** (2024)
-   3 citations · Biochar
+   3 citations
 
 ## External Profiles
 

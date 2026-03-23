@@ -1,7 +1,7 @@
 ---
 title: "Roberto Martínez-Orío"
-description: "Roberto Martínez-Orío is a Mid-career BECCS researcher. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.201685
+description: "Roberto Martínez-Orío is a Mid-career General CDR researcher. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.206686
 url: "/cdr-researcher-census/researchers/roberto-martinez-orio-a5015019/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,9 +29,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**BECCS**
+**General CDR**
 
-Combining biomass energy with carbon capture and storage to achieve negative emissions.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -40,13 +40,13 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 4 |
 | Citations | 122 |
 | Publications | 5 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Hubs and clusters approach to unlock the development of carbon capture and storage – Case study in Spain** (2021)
-   90 citations · BECCS
+   90 citations · General CDR
 
 ## External Profiles
 

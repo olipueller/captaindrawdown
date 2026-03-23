@@ -1,7 +1,7 @@
 ---
 title: "Amaya Sankhe"
 description: "Amaya Sankhe is an Early-career Biochar researcher at University of Mumbai in IN. With 10 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.810826
+date: 2026-03-23T11:47:00.720417
 url: "/cdr-researcher-census/researchers/amaya-sankhe-a5096914/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 3 |
 | Citations | 185 |
 | Publications | 10 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Katrin Sievert"
-description: "Katrin Sievert is an Early-career DAC researcher at ETH Zurich in CH. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.979608
+description: "Katrin Sievert is an Early-career General CDR researcher at ETH Zurich in CH. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.959179
 url: "/cdr-researcher-census/researchers/katrin-sievert-a5094051/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ ETH Zurich · 🇨🇭 CH
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 3 |
 | Citations | 152 |
 | Publications | 7 |
-| CDR Focus | 71.4% |
+| CDR Focus | 5710.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -60,7 +60,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    9 citations · DAC
 
 4. **(How to) avoid the inflationary labeling of emissions as “hard to abate”** (2025)
-   2 citations · DAC
+   2 citations · General CDR
 
 5. **Unpacking the bottlenecks of deploying Direct Air Capture at scale** (2025)
    0 citations · DAC

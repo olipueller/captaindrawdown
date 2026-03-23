@@ -1,7 +1,7 @@
 ---
 title: "Jihong Yuan"
 description: "Jihong Yuan is a Mid-career Soil Carbon researcher at Jiangxi Academy of Forestry in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.458756
+date: 2026-03-23T11:47:00.234269
 url: "/cdr-researcher-census/researchers/jihong-yuan-a5025698/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 303 |
 | Publications | 19 |
-| CDR Focus | 10.5% |
+| CDR Focus | 1050.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

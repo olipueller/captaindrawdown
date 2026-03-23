@@ -1,7 +1,7 @@
 ---
 title: "Laura Sofie Harbo"
 description: "Laura Sofie Harbo is a Mid-career Soil Carbon researcher at Aarhus University in DK. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.075390
+date: 2026-03-23T11:47:01.071857
 url: "/cdr-researcher-census/researchers/laura-sofie-harbo-a5011480/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 138 |
 | Publications | 20 |
-| CDR Focus | 30.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -60,13 +60,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    2 citations · Soil Carbon
 
 4. **Importance of sampling frequency for the observed dynamics of SOC content in the Danish long-term monitoring network** (2025)
-   1 citations · Soil Carbon
+   1 citations · General CDR
 
 5. **Stocks and changes in organic carbon in Danish agricultural soils &amp;#8211; role of bulk density and stone fractions** (2021)
    1 citations · Soil Carbon
 
 6. **Quantifying changes in agricultural soil organic carbon stocks** (2023)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "L. Penteado"
 description: "L. Penteado is a Senior Soil Carbon researcher at Universidade de Ribeirão Preto in BR. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.416006
+date: 2026-03-23T11:47:00.161051
 url: "/cdr-researcher-census/researchers/l-penteado-a5051685/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 328 |
 | Publications | 18 |
-| CDR Focus | 11.1% |
+| CDR Focus | 560.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Effects of land use change and agricultural management on soil carbon stocks in tropical pastures** (2025)
-   1 citations · Soil Carbon
+   1 citations
 
 2. **Effects of Land Use Change and Agricultural Management on Soil Carbon Stocks in Tropical Pastures** (2025)
    0 citations · Soil Carbon

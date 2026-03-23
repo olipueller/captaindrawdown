@@ -1,7 +1,7 @@
 ---
 title: "Jian‐Yong Wang"
 description: "Jian‐Yong Wang is a Mid-career Soil Carbon researcher at Northeast Normal University in CN. With 13 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.113034
+date: 2026-03-23T11:46:59.636995
 url: "/cdr-researcher-census/researchers/jianyong-wang-a5115602/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 11 |
 | Citations | 688 |
 | Publications | 13 |
-| CDR Focus | 15.4% |
+| CDR Focus | 1540.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

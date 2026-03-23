@@ -1,7 +1,7 @@
 ---
 title: "Sourav Bagchi Ratul"
 description: "Sourav Bagchi Ratul is a Mid-career Soil Carbon researcher at Xiamen University in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.282179
+date: 2026-03-23T11:47:01.292955
 url: "/cdr-researcher-census/researchers/sourav-bagchi-ratul-a5030817/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 114 |
 | Publications | 15 |
-| CDR Focus | 13.3% |
+| CDR Focus | 670.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

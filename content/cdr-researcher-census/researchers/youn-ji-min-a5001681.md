@@ -1,7 +1,7 @@
 ---
 title: "Youn Ji Min"
 description: "Youn Ji Min is a Mid-career DAC researcher at Georgia Institute of Technology in US. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.374707
+date: 2026-03-23T11:47:01.395300
 url: "/cdr-researcher-census/researchers/youn-ji-min-a5001681/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 4 |
 | Citations | 104 |
 | Publications | 6 |
-| CDR Focus | 66.7% |
+| CDR Focus | 6670.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Direct Air Capture of CO<sub>2</sub> Using Poly(ethyleneimine)-Functionalized Expanded Poly(tetrafluoroethylene)/Silica Composite Structured Sorbents** (2022)
-   60 citations · DAC
+   60 citations
 
 2. **Model-Based Energy and Cost Analysis of Direct Air Capture Using ePTFE-Based Laminate-Structured Gas–Solid Contactors** (2024)
    17 citations · DAC

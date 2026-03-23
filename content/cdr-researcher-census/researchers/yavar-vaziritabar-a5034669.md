@@ -1,7 +1,7 @@
 ---
 title: "Yavar Vaziritabar"
 description: "Yavar Vaziritabar is a Mid-career Soil Carbon researcher at University of Giessen in DE. With 12 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.424592
+date: 2026-03-23T11:47:01.441261
 url: "/cdr-researcher-census/researchers/yavar-vaziritabar-a5034669/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 3 |
 | Citations | 100 |
 | Publications | 12 |
-| CDR Focus | 16.7% |
+| CDR Focus | 830.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Twenty percent of agricultural management effects on organic carbon stocks occur in subsoils – Results of ten long-term experiments** (2023)
-   55 citations · Soil Carbon
+   55 citations
 
 2. **Twenty Percent of Agricultural Management Effects on Organic Carbon Stocks Occur in Subsoils – Results of Ten Long-Term Experiments** (2023)
    3 citations · Soil Carbon

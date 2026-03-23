@@ -1,7 +1,7 @@
 ---
 title: "Liza Goldberg"
-description: "Liza Goldberg is a Mid-career Soil Carbon researcher at Stanford Medicine in US. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.983980
+description: "Liza Goldberg is a Mid-career General CDR researcher at Stanford Medicine in US. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.368979
 url: "/cdr-researcher-census/researchers/liza-goldberg-a5051759/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Stanford Medicine · 🇺🇸 US
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 1,333 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Future carbon emissions from global mangrove forest loss** (2021)
-   223 citations · Soil Carbon
+   223 citations · General CDR
 
 ## External Profiles
 

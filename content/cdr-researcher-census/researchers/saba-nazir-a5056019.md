@@ -1,7 +1,7 @@
 ---
 title: "Saba Nazir"
 description: "Saba Nazir is a Mid-career Soil Carbon researcher at University of Lahore in PK. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.479244
+date: 2026-03-23T11:47:00.268188
 url: "/cdr-researcher-census/researchers/saba-nazir-a5056019/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 294 |
 | Publications | 18 |
-| CDR Focus | 11.1% |
+| CDR Focus | 560.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    21 citations · Soil Carbon
 
 2. **Climate-Smart Agriculture: Potential Role in Carbon Sequestration and to Address Climate Change Under Irrigated Agro-Ecosystems** (2024)
-   2 citations · Soil Carbon
+   2 citations · General CDR
 
 ## External Profiles
 

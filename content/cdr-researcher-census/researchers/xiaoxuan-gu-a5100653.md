@@ -1,7 +1,7 @@
 ---
 title: "Xiaoxuan Gu"
-description: "Xiaoxuan Gu is a Mid-career Soil Carbon researcher at Xiamen University in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.828338
+description: "Xiaoxuan Gu is a Mid-career General CDR researcher at Xiamen University in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.765372
 url: "/cdr-researcher-census/researchers/xiaoxuan-gu-a5100653/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Xiamen University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 182 |
 | Publications | 20 |
-| CDR Focus | 15.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    20 citations · Soil Carbon
 
 2. **Changes in Mangrove Blue Carbon under Elevated Atmospheric CO <sub>2</sub>** (2023)
-   7 citations · Soil Carbon
+   7 citations · General CDR
 
 3. **Blue carbon potential from rehabilitating urban mangrove forests in coastal city** (2025)
    6 citations · General CDR

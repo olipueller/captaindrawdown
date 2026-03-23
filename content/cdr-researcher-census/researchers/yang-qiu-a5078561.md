@@ -1,7 +1,7 @@
 ---
 title: "Yang Qiu"
 description: "Yang Qiu is a Senior General CDR researcher at China Geological Survey in CN. With 48 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.900204
+date: 2026-03-23T11:46:59.170270
 url: "/cdr-researcher-census/researchers/yang-qiu-a5078561/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 11 |
 | Citations | 3,507 |
 | Publications | 48 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1040.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    19 citations · General CDR
 
 3. **Provincial-scale assessment of direct air capture to meet China’s climate neutrality goal under limited bioenergy supply** (2024)
-   5 citations · BECCS
+   5 citations · DAC
 
 4. **The role and deployment timing of direct air capture in Saudi Arabia’s net-zero transition** (2024)
    5 citations · DAC

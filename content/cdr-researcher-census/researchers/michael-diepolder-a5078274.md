@@ -1,7 +1,7 @@
 ---
 title: "Michael Diepolder"
 description: "Michael Diepolder is a Mid-career Soil Carbon researcher at Bavarian State Research Center for Agriculture in DE. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.033779
+date: 2026-03-23T11:47:01.022248
 url: "/cdr-researcher-census/researchers/michael-diepolder-a5078274/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 3 |
 | Citations | 145 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

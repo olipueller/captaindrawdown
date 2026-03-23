@@ -1,7 +1,7 @@
 ---
 title: "Sahar Ghafari"
 description: "Sahar Ghafari is a Mid-career Soil Carbon researcher. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.960528
+date: 2026-03-23T11:47:00.935929
 url: "/cdr-researcher-census/researchers/sahar-ghafari-a5079716/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 156 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

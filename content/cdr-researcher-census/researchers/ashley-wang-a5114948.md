@@ -1,7 +1,7 @@
 ---
 title: "Ashley Wang"
-description: "Ashley Wang is a Mid-career Soil Carbon researcher at Dartmouth College in US. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.039781
+description: "Ashley Wang is a Mid-career General CDR researcher at Dartmouth College in US. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.031493
 url: "/cdr-researcher-census/researchers/ashley-wang-a5114948/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Dartmouth College · 🇺🇸 US
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 144 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **274 Evaluating climate-smart beef production practices through sustainability metrics.** (2025)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Xin Hong Tai"
-description: "Xin Hong Tai is a Mid-career General CDR researcher. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.393233
+description: "Xin Hong Tai is a Mid-career carbon dioxide removal researcher. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.122398
 url: "/cdr-researcher-census/researchers/xin-hong-tai-a5058670/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -27,12 +27,6 @@ robots: "index, follow"
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -40,16 +34,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 7 |
 | Citations | 341 |
 | Publications | 16 |
-| CDR Focus | 12.5% |
+| CDR Focus | 620.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Fluorinated photoreduced graphene oxide with semi-ionic C–F bonds: An effective carbon based photocatalyst for the removal of volatile organic compounds** (2023)
-   11 citations · General CDR
+   11 citations
 
 2. **A Novel Photocatalytic Integrated Carbon Capture and Utilization (ICCU) Approach for Conversion of CO2 to Methanol in Amine Solution** (2024)
-   1 citations · General CDR
+   1 citations
 
 ## External Profiles
 

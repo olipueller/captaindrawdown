@@ -1,7 +1,7 @@
 ---
 title: "Kafil Chowdhury"
-description: "Kafil Chowdhury is a Mid-career DAC researcher at San Diego State University in US. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.093338
+description: "Kafil Chowdhury is a Mid-career carbon dioxide removal researcher at San Diego State University in US. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.094163
 url: "/cdr-researcher-census/researchers/kafil-chowdhury-a5039894/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ San Diego State University · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 5 |
 | Citations | 135 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **The emerging role of conducting polymers as catalysts for sustainable carbon dioxide (CO2) reduction pathways** (2025)
-   3 citations · DAC
+   3 citations
 
 ## External Profiles
 

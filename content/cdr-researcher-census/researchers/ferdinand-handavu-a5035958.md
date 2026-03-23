@@ -1,7 +1,7 @@
 ---
 title: "Ferdinand Handavu"
-description: "Ferdinand Handavu is a Mid-career Soil Carbon researcher at Mulungushi University in ZM. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.656863
+description: "Ferdinand Handavu is a Mid-career General CDR researcher at Mulungushi University in ZM. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.522791
 url: "/cdr-researcher-census/researchers/ferdinand-handavu-a5035958/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Mulungushi University ·  ZM
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,16 +45,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 227 |
 | Publications | 14 |
-| CDR Focus | 14.3% |
+| CDR Focus | 710.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Ecological Intensification: Towards Food and Environmental Security in Sub-Saharan Africa** (2021)
-   3 citations · Soil Carbon
+   3 citations · General CDR
 
 2. **A review of carbon dynamics and REDD+ projects in the Miombo Ecoregion: opportunities and challenges** (2026)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

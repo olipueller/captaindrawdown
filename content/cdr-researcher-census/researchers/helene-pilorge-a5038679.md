@@ -1,7 +1,7 @@
 ---
 title: "Hélène Pilorgé"
-description: "Hélène Pilorgé is a Mid-career DAC researcher at Université Claude Bernard Lyon 1 in FR. With 41 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.955151
+description: "Hélène Pilorgé is a Mid-career General CDR researcher at Université Claude Bernard Lyon 1 in FR. With 41 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.303006
 url: "/cdr-researcher-census/researchers/helene-pilorge-a5038679/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Université Claude Bernard Lyon 1 · 🇫🇷 FR
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,7 +42,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 15 |
 | Citations | 1,684 |
 | Publications | 41 |
-| CDR Focus | 34.1% |
+| CDR Focus | 2200.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -57,19 +57,19 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    15 citations · DAC
 
 4. **The cost of direct air capture and storage: the impact of technological learning, regional diversity, and policy.** (2022)
-   12 citations · DAC
+   12 citations
 
 5. **Opportunities for rail in the transport of carbon dioxide in the United States** (2024)
    11 citations · General CDR
 
 6. **Assessment of the carbon abatement and removal opportunities of the Arabian Gulf Countries** (2021)
-   6 citations · DAC
+   6 citations · General CDR
 
 7. **The cost of direct air capture and storage: the impact of technological learning, regional diversity, and policy.** (2022)
    5 citations · DAC
 
 8. **The cost of direct air capture and storage: the impact of technological learning, regional diversity, and policy.** (2022)
-   4 citations · DAC
+   4 citations
 
 9. **Advancing geothermal energy utilization opportunities: potential and strategies for integrating direct air capture** (2025)
    2 citations · DAC

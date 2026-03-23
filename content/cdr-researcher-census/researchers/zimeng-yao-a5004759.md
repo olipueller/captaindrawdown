@@ -1,7 +1,7 @@
 ---
 title: "Zimeng Yao"
 description: "Zimeng Yao is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 29 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.412017
+date: 2026-03-23T11:47:01.427727
 url: "/cdr-researcher-census/researchers/zimeng-yao-a5004759/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 101 |
 | Publications | 29 |
-| CDR Focus | 10.3% |
+| CDR Focus | 1030.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    3 citations · Soil Carbon
 
 3. **Soil pH controls oxidative and hydrolytic enzyme activities regulating organic matter accumulation in rice cultivation systems** (2025)
-   0 citations · Soil Carbon
+   0 citations
 
 ## External Profiles
 

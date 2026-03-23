@@ -1,7 +1,7 @@
 ---
 title: "Quanyi Hu"
 description: "Quanyi Hu is a Mid-career Soil Carbon researcher at Northeast Agricultural University in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.400228
+date: 2026-03-23T11:47:00.133748
 url: "/cdr-researcher-census/researchers/quanyi-hu-a5076952/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 337 |
 | Publications | 15 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

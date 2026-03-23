@@ -1,7 +1,7 @@
 ---
 title: "Alan Emanuel Silva Cerqueira"
 description: "Alan Emanuel Silva Cerqueira is a Mid-career Soil Carbon researcher at Universidade Federal de Viçosa in BR. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.372664
+date: 2026-03-23T11:47:01.391260
 url: "/cdr-researcher-census/researchers/alan-emanuel-silva-cerqueira-a5085324/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 105 |
 | Publications | 13 |
-| CDR Focus | 15.4% |
+| CDR Focus | 770.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

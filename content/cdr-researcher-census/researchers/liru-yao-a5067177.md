@@ -1,7 +1,7 @@
 ---
 title: "Liru Yao"
-description: "Liru Yao is a Mid-career Soil Carbon researcher at Anshan Hospital in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.148131
+description: "Liru Yao is a Mid-career Biochar researcher at Anshan Hospital in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.145339
 url: "/cdr-researcher-census/researchers/liru-yao-a5067177/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Anshan Hospital · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 129 |
 | Publications | 8 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

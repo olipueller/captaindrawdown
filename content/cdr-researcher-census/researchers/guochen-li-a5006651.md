@@ -1,7 +1,7 @@
 ---
 title: "Guochen Li"
 description: "Guochen Li is a Mid-career Enhanced Weathering researcher at Chinese Academy of Sciences in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.303443
+date: 2026-03-23T11:46:59.982194
 url: "/cdr-researcher-census/researchers/guochen-li-a5006651/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 7 |
 | Citations | 407 |
 | Publications | 14 |
-| CDR Focus | 57.1% |
+| CDR Focus | 3570.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

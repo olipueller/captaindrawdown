@@ -1,7 +1,7 @@
 ---
 title: "Abdulkarem I. Amhamed"
 description: "Abdulkarem I. Amhamed is a Senior DAC researcher at Qatar Environment and Energy Research Institute in QA. With 75 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.947071
+date: 2026-03-23T11:46:59.288184
 url: "/cdr-researcher-census/researchers/abdulkarem-i-amhamed-a5037947/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 22 |
 | Citations | 1,796 |
 | Publications | 75 |
-| CDR Focus | 16.0% |
+| CDR Focus | 1600.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    93 citations · DAC
 
 3. **Comparative analysis of amine-functionalized silica for direct air capture (DAC): Material characterization, performance, and thermodynamic efficiency** (2024)
-   34 citations · DAC
+   34 citations
 
 4. **Optimizing chemisorption based direct air capture unit efficiency in HVAC systems: A study on the impact of DAC location and adsorption conditions as a response to the climate crisis and indoor air quality** (2023)
    30 citations · DAC
@@ -66,13 +66,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    12 citations · DAC
 
 6. **Preliminary Design and Analysis of a Photovoltaic-Powered Direct Air Capture System for a Residential Building** (2023)
-   2 citations · DAC
+   2 citations
 
 7. **Unlocking the potentials of integrating direct air capture with HVAC system** (2023)
-   2 citations · DAC
+   2 citations
 
 8. **Amine free direct air capture integrated with buildings’ cooling systems in humid environments** (2025)
-   1 citations · DAC
+   1 citations
 
 9. **Life Cycle Assessment of an Integrated Direct Air Carbon Capture and Utilization System** (2025)
    1 citations · DAC

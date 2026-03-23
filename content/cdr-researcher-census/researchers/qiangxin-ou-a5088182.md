@@ -1,7 +1,7 @@
 ---
 title: "Qiangxin Ou"
-description: "Qiangxin Ou is a Mid-career Soil Carbon researcher at Anhui Agricultural University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.027487
+description: "Qiangxin Ou is a Mid-career General CDR researcher at Anhui Agricultural University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.017246
 url: "/cdr-researcher-census/researchers/qiangxin-ou-a5088182/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Anhui Agricultural University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 146 |
 | Publications | 8 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **The Carbon Neutral Potential of Forests in the Yangtze River Economic Belt of China** (2022)
-   10 citations · Soil Carbon
+   10 citations · General CDR
 
 ## External Profiles
 

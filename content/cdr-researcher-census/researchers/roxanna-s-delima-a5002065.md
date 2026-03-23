@@ -1,7 +1,7 @@
 ---
 title: "Roxanna S. Delima"
 description: "Roxanna S. Delima is a Mid-career General CDR researcher at University of British Columbia in CA. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.147718
+date: 2026-03-23T11:46:59.700580
 url: "/cdr-researcher-census/researchers/roxanna-s-delima-a5002065/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 10 |
 | Citations | 617 |
 | Publications | 18 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Electrolytic Sulfuric Acid Production with Carbon Mineralization for Permanent Carbon Dioxide Removal** (2023)
-   29 citations · General CDR
+   29 citations · Enhanced Weathering
 
 2. **Electrifying Sulfate Waste: A Sustainable Approach to Chemical Production and Gigaton-Scale Carbon Dioxide Removal** (2024)
    1 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Chenyi Yan"
 description: "Chenyi Yan is a Mid-career Soil Carbon researcher at Beijing Normal University in CN. With 30 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.468663
+date: 2026-03-23T11:47:00.251632
 url: "/cdr-researcher-census/researchers/chenyi-yan-a5029453/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 298 |
 | Publications | 30 |
-| CDR Focus | 10.0% |
+| CDR Focus | 670.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    8 citations · Soil Carbon
 
 2. **Monitoring carbon dynamics and driving forces in arid and semi-arid river basin: A case study of China's West Liao river Basin** (2025)
-   0 citations · Enhanced Weathering
+   0 citations
 
 3. **Analysis of the Phosphorus Mobilization, Uptake, Transport, and Utilization Processes of Dominant C3 and C4 Grasses in a Grassland in Northern China Based on a Conceptual Phosphorus–Carbon Economy System** (2025)
    0 citations · Soil Carbon

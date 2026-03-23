@@ -1,7 +1,7 @@
 ---
 title: "Jebin Joseph"
 description: "Jebin Joseph is a Senior Soil Carbon researcher at Mahatma Gandhi University in IN. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.883353
+date: 2026-03-23T11:47:00.839669
 url: "/cdr-researcher-census/researchers/jebin-joseph-a5101320/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 3 |
 | Citations | 171 |
 | Publications | 6 |
-| CDR Focus | 33.3% |
+| CDR Focus | 1670.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    18 citations · Soil Carbon
 
 2. **A critical analysis of ecology and diversity of Cyanobacteria in long-term chemicalized tropical plantation field soils: Implications for sustainable soil fertility management** (2025)
-   2 citations · Soil Carbon
+   2 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Luis Colcombet"
 description: "Luis Colcombet is a Mid-career Soil Carbon researcher. With 16 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.640103
+date: 2026-03-23T11:47:00.501735
 url: "/cdr-researcher-census/researchers/luis-colcombet-a5078146/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -37,7 +37,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 231 |
 | Publications | 16 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -46,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    0 citations · Soil Carbon
 
 2. **The Argentinian experience with yerba mate in agroforestry** (2024)
-   0 citations · Enhanced Weathering
+   0 citations · General CDR
 
 ## External Profiles
 

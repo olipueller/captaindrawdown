@@ -1,7 +1,7 @@
 ---
 title: "Francis Dubé"
 description: "Francis Dubé is a Senior Soil Carbon researcher at University of Concepción in CL. With 46 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.058348
+date: 2026-03-23T11:46:59.534656
 url: "/cdr-researcher-census/researchers/francis-dube-a5011529/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,22 +45,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 14 |
 | Citations | 854 |
 | Publications | 46 |
-| CDR Focus | 13.0% |
+| CDR Focus | 1090.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Silvopastoral Systems on Degraded Lands for Soil Carbon Sequestration and Climate Change Mitigation** (2023)
-   8 citations · Soil Carbon
+   8 citations · General CDR
 
 2. **Comparative Study between Silvopastoral and Agroforest Systems on Soil Quality in a Disturbed Native Forest of South-Central Chile** (2023)
-   6 citations · Soil Carbon
+   6 citations · General CDR
 
 3. **How Natural Regeneration After Severe Disturbance Affects Ecosystem Services Provision of Andean Forest Soils at Contrasting Timescales** (2025)
    4 citations · Soil Carbon
 
 4. **Soil Carbon Sequestration in Nothofagus obliqua Forests with Different Canopy Cover Levels Under Silvopastoral Management** (2025)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 5. **Soil Carbon Sequestration in <i>Nothofagus obliqua</i> Forests with Different Canopy Cover Levels under Silvopastoral Management** (2025)
    0 citations · Soil Carbon

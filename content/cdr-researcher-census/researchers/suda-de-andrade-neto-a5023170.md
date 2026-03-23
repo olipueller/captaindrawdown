@@ -1,7 +1,7 @@
 ---
 title: "Sudá de Andrade Neto"
-description: "Sudá de Andrade Neto is a Mid-career BECCS researcher at Universidade Federal do Rio de Janeiro in BR. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.176189
+description: "Sudá de Andrade Neto is a Mid-career General CDR researcher at Universidade Federal do Rio de Janeiro in BR. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.178650
 url: "/cdr-researcher-census/researchers/suda-de-andrade-neto-a5023170/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Universidade Federal do Rio de Janeiro · 🇧🇷 BR
 
 ## CDR Specialization
 
-**BECCS**
+**General CDR**
 
-Combining biomass energy with carbon capture and storage to achieve negative emissions.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 3 |
 | Citations | 125 |
 | Publications | 3 |
-| CDR Focus | 33.3% |
+| CDR Focus | 3330.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Calcium looping post-combustion CO2 capture in sugarcane bagasse fuelled power plants** (2021)
-   23 citations · BECCS
+   23 citations · General CDR
 
 ## External Profiles
 

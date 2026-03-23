@@ -1,7 +1,7 @@
 ---
 title: "Nicha Prigyai"
 description: "Nicha Prigyai is a Mid-career Biochar researcher at Thailand Institute of Scientific and Technological Research in TH. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.441873
+date: 2026-03-23T11:47:00.207476
 url: "/cdr-researcher-census/researchers/nicha-prigyai-a5089839/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 8 |
 | Citations | 311 |
 | Publications | 18 |
-| CDR Focus | 16.7% |
+| CDR Focus | 560.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

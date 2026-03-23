@@ -1,7 +1,7 @@
 ---
 title: "Wenqiang Lv"
 description: "Wenqiang Lv is a Mid-career Soil Carbon researcher at Jilin University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.860164
+date: 2026-03-23T11:47:00.806364
 url: "/cdr-researcher-census/researchers/wenqiang-lv-a5057972/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 176 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

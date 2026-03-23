@@ -1,7 +1,7 @@
 ---
 title: "W. A. M. A. N. Illankoon"
-description: "W. A. M. A. N. Illankoon is a Mid-career Biochar researcher at University of Milano-Bicocca in IT. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.087927
+description: "W. A. M. A. N. Illankoon is a Mid-career carbon dioxide removal researcher at University of Milano-Bicocca in IT. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.086265
 url: "/cdr-researcher-census/researchers/w-a-m-a-n-illankoon-a5052061/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ University of Milano-Bicocca · 🇮🇹 IT
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Biochar**
-
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 7 |
 | Citations | 136 |
 | Publications | 8 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Rice Industry By-Products as Adsorbent Materials for Removing Fluoride and Arsenic from Drinking Water—A Review** (2022)
-   35 citations · Biochar
+   35 citations
 
 ## External Profiles
 

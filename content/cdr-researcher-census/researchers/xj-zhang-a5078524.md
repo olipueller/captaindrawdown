@@ -1,7 +1,7 @@
 ---
 title: "X.J. Zhang"
 description: "X.J. Zhang is a Mid-career DAC researcher at Zhejiang University in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.357271
+date: 2026-03-23T11:47:01.372364
 url: "/cdr-researcher-census/researchers/xj-zhang-a5078524/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,19 +42,19 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 6 |
 | Citations | 106 |
 | Publications | 8 |
-| CDR Focus | 50.0% |
+| CDR Focus | 5000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Moisture swing adsorption for direct air capture: Establishment of thermodynamic cycle** (2024)
-   23 citations · DAC
+   23 citations
 
 2. **Solar-assisted temperature vacuum swing adsorption for direct air capture: Effect of relative humidity** (2023)
-   23 citations · DAC
+   23 citations
 
 3. **Techno-economic analysis on temperature vacuum swing adsorption system integrated with pre-dehumidification for direct air capture** (2024)
-   16 citations · DAC
+   16 citations
 
 4. **Understandings on design and application for direct air capture: From advanced sorbents to thermal cycles** (2023)
    14 citations · DAC

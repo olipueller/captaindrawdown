@@ -1,7 +1,7 @@
 ---
 title: "Aya Gomaa Abdelkader Mohamed"
 description: "Aya Gomaa Abdelkader Mohamed is a Mid-career General CDR researcher at Helmholtz-Zentrum Berlin für Materialien und Energie in DE. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.017915
+date: 2026-03-23T11:46:59.447089
 url: "/cdr-researcher-census/researchers/aya-gomaa-abdelkader-mohamed-a5059375/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 10 |
 | Citations | 1,064 |
 | Publications | 18 |
-| CDR Focus | 22.2% |
+| CDR Focus | 2220.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    3 citations · General CDR
 
 2. **From CO2 to solid carbon: reaction mechanism, active species, and conditioning the Ce-alloyed GaInSn catalyst** (2024)
-   1 citations · General CDR
+   1 citations
 
 3. **From CO2 to Solid Carbon &amp;#8211; Realizing Carbon Dioxide Removal with Liquid Metal-Based Electrocatalysis** (2025)
    0 citations · General CDR

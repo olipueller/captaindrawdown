@@ -1,7 +1,7 @@
 ---
 title: "Songjuan Gao"
 description: "Songjuan Gao is a Senior Soil Carbon researcher at Nanjing Agricultural University in CN. With 64 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.946771
+date: 2026-03-23T11:46:59.287665
 url: "/cdr-researcher-census/researchers/songjuan-gao-a5101127/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 29 |
 | Citations | 1,802 |
 | Publications | 64 |
-| CDR Focus | 10.9% |
+| CDR Focus | 780.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **The potential of green manure to increase soil carbon sequestration and reduce the yield-scaled carbon footprint of rice production in southern China** (2022)
-   37 citations · Soil Carbon
+   37 citations · General CDR
 
 2. **The effects of co-utilizing green manure and rice straw on soil aggregates and soil carbon stability in a paddy soil in southern China** (2022)
    33 citations · Soil Carbon

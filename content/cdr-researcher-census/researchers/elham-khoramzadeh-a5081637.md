@@ -1,7 +1,7 @@
 ---
 title: "Elham Khoramzadeh"
-description: "Elham Khoramzadeh is a Mid-career General CDR researcher at Persian Gulf University in IR. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.445024
+description: "Elham Khoramzadeh is a Mid-career carbon dioxide removal researcher at Persian Gulf University in IR. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.212632
 url: "/cdr-researcher-census/researchers/elham-khoramzadeh-a5081637/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Persian Gulf University ·  IR
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 3 |
 | Citations | 309 |
 | Publications | 5 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Nitrogen rejection from natural gas by adsorption processes and swing technologies** (2024)
-   2 citations · General CDR
+   2 citations
 
 ## External Profiles
 

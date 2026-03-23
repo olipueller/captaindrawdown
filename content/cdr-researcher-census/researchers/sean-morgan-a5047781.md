@@ -1,7 +1,7 @@
 ---
 title: "Sean Morgan"
 description: "Sean Morgan is a Mid-career Ocean CDR researcher. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.365700
+date: 2026-03-23T11:47:01.383527
 url: "/cdr-researcher-census/researchers/sean-morgan-a5047781/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 4 |
 | Citations | 105 |
 | Publications | 13 |
-| CDR Focus | 23.1% |
+| CDR Focus | 2310.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -49,10 +49,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    47 citations · General CDR
 
 2. **Physical controls on alkalinity variability in Halifax Harbour: The roles of wind and tides** (2026)
-   0 citations · General CDR
+   0 citations · Ocean CDR
 
 3. **Wave Glider‐Based Measurements and Corrections of Near‐Surface <i>p</i> CO <sub>2</sub> Gradients in the Coastal Ocean** (2025)
-   0 citations · DAC
+   0 citations · General CDR
 
 ## External Profiles
 

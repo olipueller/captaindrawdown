@@ -1,7 +1,7 @@
 ---
 title: "Jazz Kok"
 description: "Jazz Kok is an Early-career Soil Carbon researcher at Wageningen University & Research in NL. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.778693
+date: 2026-03-23T11:47:00.683512
 url: "/cdr-researcher-census/researchers/jazz-kok-a5114148/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 2 |
 | Citations | 194 |
 | Publications | 4 |
-| CDR Focus | 25.0% |
+| CDR Focus | 2500.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

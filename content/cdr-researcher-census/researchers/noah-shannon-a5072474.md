@@ -1,7 +1,7 @@
 ---
 title: "Noah Shannon"
-description: "Noah Shannon is an Early-career DAC researcher at Rocky Mountain Institute in US. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.273738
+description: "Noah Shannon is an Early-career carbon dioxide removal researcher at Rocky Mountain Institute in US. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.286017
 url: "/cdr-researcher-census/researchers/noah-shannon-a5072474/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Rocky Mountain Institute · 🇺🇸 US
 
 **Career Stage:** Early-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,22 +36,22 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 3 |
 | Citations | 114 |
 | Publications | 6 |
-| CDR Focus | 66.7% |
+| CDR Focus | 1670.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **A roadmap for achieving scalable, safe, and low-cost direct air carbon capture and storage** (2023)
-   88 citations · DAC
+   88 citations
 
 2. **A Roadmap for Achieving Scalable, Safe, and Low-cost Direct Air Carbon Capture and Storage** (2023)
-   3 citations · DAC
+   3 citations
 
 3. **A Roadmap for Achieving Scalable, Safe, and Low-cost Direct Air Carbon Capture and Storage** (2023)
-   3 citations · DAC
+   3 citations
 
 4. **A Roadmap for Achieving Scalable, Safe, and Low-cost Direct Air Carbon Capture and Storage** (2023)
-   1 citations · DAC
+   1 citations
 
 ## External Profiles
 

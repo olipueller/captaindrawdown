@@ -1,7 +1,7 @@
 ---
 title: "Bin Wang"
 description: "Bin Wang is a Senior Soil Carbon researcher at Chinese Academy of Agricultural Sciences in CN. With 36 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.021840
+date: 2026-03-23T11:46:59.456637
 url: "/cdr-researcher-census/researchers/bin-wang-a5100662/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 17 |
 | Citations | 1,036 |
 | Publications | 36 |
-| CDR Focus | 13.9% |
+| CDR Focus | 1390.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    65 citations · Soil Carbon
 
 3. **Four pathways towards carbon neutrality by controlling net greenhouse gas emissions in Chinese cropland** (2022)
-   46 citations · Soil Carbon
+   46 citations · General CDR
 
 4. **Annual greenhouse gas emissions from a rice paddy with different water-nitrogen management strategies in Central China** (2023)
    25 citations · Soil Carbon

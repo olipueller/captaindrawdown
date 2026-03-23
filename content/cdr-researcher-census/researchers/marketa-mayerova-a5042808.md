@@ -1,7 +1,7 @@
 ---
 title: "Markéta Mayerová"
 description: "Markéta Mayerová is a Mid-career Soil Carbon researcher at Agrifood Research Finland in FI. With 29 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.510558
+date: 2026-03-23T11:47:00.322582
 url: "/cdr-researcher-census/researchers/marketa-mayerova-a5042808/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,16 +45,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 279 |
 | Publications | 29 |
-| CDR Focus | 10.3% |
+| CDR Focus | 690.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Dataset Generated Using the EPIC-IIASA CZ Simulation Model** (2026)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 2. **Carbon Sequestration Potential in Model Systems of Conventional and Organic Farming** (2025)
-   0 citations · Soil Carbon
+   0 citations
 
 3. **Carbon Sequestration Potential in Model Systems of Conventional and Organic Farming** (2025)
    0 citations · Soil Carbon

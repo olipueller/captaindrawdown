@@ -1,7 +1,7 @@
 ---
 title: "Amir Taqieddin"
-description: "Amir Taqieddin is a Mid-career Ocean CDR researcher at Solid Power (United States) in US. With 26 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.974137
+description: "Amir Taqieddin is a Mid-career General CDR researcher at Solid Power (United States) in US. With 26 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.342859
 url: "/cdr-researcher-census/researchers/amir-taqieddin-a5042267/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Solid Power (United States) · 🇺🇸 US
 
 ## CDR Specialization
 
-**Ocean CDR**
+**General CDR**
 
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,16 +45,16 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 12 |
 | Citations | 1,445 |
 | Publications | 26 |
-| CDR Focus | 11.5% |
+| CDR Focus | 1150.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Electrochemical ocean iron fertilization and alkalinity enhancement approach toward CO2 sequestration** (2024)
-   8 citations · Ocean CDR
+   8 citations · General CDR
 
 2. **Design and Implementation of Iron-Based Electrochemical System for Simultaneous Carbon Capture and Hydrogen Gas Recovery** (2024)
-   0 citations · General CDR
+   0 citations · Ocean CDR
 
 3. **Investigations of the solid-fluid interactions using carbon/iron- based materials for electrochemical water treatment and carbon dioxide sequestration** (2023)
    0 citations · General CDR

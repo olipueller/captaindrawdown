@@ -1,7 +1,7 @@
 ---
 title: "Carl Lim"
 description: "Carl Lim is an Early-career Ocean CDR researcher at Universität Hamburg in DE. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.641863
+date: 2026-03-23T11:47:00.504830
 url: "/cdr-researcher-census/researchers/carl-lim-a5015184/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 4 |
 | Citations | 230 |
 | Publications | 10 |
-| CDR Focus | 100.0% |
+| CDR Focus | 5000.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -57,16 +57,16 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    35 citations · Enhanced Weathering
 
 3. **Stability of alkalinity in Ocean Alkalinity Enhancement (OAE) approaches – consequences for durability of CO <sub>2</sub> storage** (2022)
-   25 citations · General CDR
+   25 citations
 
 4. **Ocean alkalinity enhancement approaches and the predictability of runaway precipitation processes: results of an experimental study to determine critical alkalinity ranges for safe and sustainable application scenarios** (2024)
-   24 citations · Ocean CDR
+   24 citations · General CDR
 
 5. **Supplementary material to "Ocean alkalinity enhancement approaches and the predictability of runaway precipitation processes – Results of an experimental study to determine critical alkalinity ranges for safe and sustainable application scenarios"** (2023)
    4 citations · Ocean CDR
 
 6. **Ocean alkalinity enhancement approaches and the predictability of runaway precipitation processes – Results of an experimental study to determine critical alkalinity ranges for safe and sustainable application scenarios** (2023)
-   3 citations · Ocean CDR
+   3 citations
 
 7. **Stability of alkalinity in the land-ocean transition zone: a geochemical CDR perspective for the Elbe River, Germany** (2025)
    2 citations · Enhanced Weathering
@@ -75,7 +75,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    0 citations · Ocean CDR
 
 9. **Comment on egusphere-2023-2611** (2024)
-   0 citations · Ocean CDR
+   0 citations
 
 10. **The nature of runaway precipitation and consequences for the safe applicability of OAE** (2023)
    0 citations · Ocean CDR

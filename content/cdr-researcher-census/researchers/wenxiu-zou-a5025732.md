@@ -1,7 +1,7 @@
 ---
 title: "Wenxiu Zou"
 description: "Wenxiu Zou is a Senior Soil Carbon researcher at Iowa State University in US. With 94 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.008487
+date: 2026-03-23T11:46:59.430382
 url: "/cdr-researcher-census/researchers/wenxiu-zou-a5025732/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,19 +45,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 19 |
 | Citations | 1,118 |
 | Publications | 94 |
-| CDR Focus | 11.7% |
+| CDR Focus | 960.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Evaluation of the soil aggregate stability under long term manure and chemical fertilizer applications: Insights from organic carbon and humic acid structure in aggregates** (2024)
-   36 citations · Soil Carbon
+   36 citations
 
 2. **Long-term organic material application enhances black soil productivity by improving aggregate stability and dissolved organic matter dynamics** (2025)
    19 citations · Soil Carbon
 
 3. **Temporal dynamics of density separated soil organic carbon pools as revealed by δ13C changes under 17 years of straw return** (2023)
-   15 citations · Soil Carbon
+   15 citations · Biochar
 
 4. **Land use effects on soil carbon retention through glomalin-mediated aggregation** (2025)
    13 citations · Soil Carbon
@@ -66,7 +66,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    4 citations · Soil Carbon
 
 6. **Effects of the construction of fertile and cultivated soil layer on soil fertility and maize yield in Albic soil.** (2023)
-   4 citations · Soil Carbon
+   4 citations
 
 7. **Mechanism of biochar decomposition mediated by bacteria shifts the molecular structure of soil organic matter to high molecular aromatic components** (2024)
    3 citations · Biochar

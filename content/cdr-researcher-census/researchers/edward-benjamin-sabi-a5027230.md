@@ -1,7 +1,7 @@
 ---
 title: "Edward Benjamin Sabi"
 description: "Edward Benjamin Sabi is a Mid-career Soil Carbon researcher at University of Ghana in GH. With 35 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.220913
+date: 2026-03-23T11:46:59.835042
 url: "/cdr-researcher-census/researchers/edward-benjamin-sabi-a5027230/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 11 |
 | Citations | 502 |
 | Publications | 35 |
-| CDR Focus | 11.4% |
+| CDR Focus | 1140.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    1 citations · Biochar
 
 3. **Oil palm empty fruit bunch amendments improved the structural and functional properties of a tropical Acrisol** (2026)
-   0 citations · Enhanced Weathering
+   0 citations · Biochar
 
 4. **Short-term effects of Greenlandic glacial rock flour on soil physical properties and maize yield** (2026)
    0 citations · Enhanced Weathering

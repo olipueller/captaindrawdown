@@ -1,7 +1,7 @@
 ---
 title: "Samuel Ijiehon"
-description: "Samuel Ijiehon is an Early-career Soil Carbon researcher at University of Antwerp in BE. With 1 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.320026
+description: "Samuel Ijiehon is an Early-career Enhanced Weathering researcher at University of Antwerp in BE. With 1 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.337157
 url: "/cdr-researcher-census/researchers/samuel-ijiehon-a5054035/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ University of Antwerp · 🇧🇪 BE
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Enhanced Weathering**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 1 |
 | Citations | 110 |
 | Publications | 1 |
-| CDR Focus | 100.0% |
+| CDR Focus | 10000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

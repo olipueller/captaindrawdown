@@ -1,7 +1,7 @@
 ---
 title: "InJun Park"
 description: "InJun Park is an Early-career DAC researcher at Korea Advanced Institute of Science and Technology in KR. With 5 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.398008
+date: 2026-03-23T11:47:01.416710
 url: "/cdr-researcher-census/researchers/injun-park-a5063687/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,19 +42,19 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 1 |
 | Citations | 102 |
 | Publications | 5 |
-| CDR Focus | 80.0% |
+| CDR Focus | 8000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Scale-Bridging Solid Adsorbents for Direct Air Capture: Integrating Material Chemistry, Structured Contactors, and Advanced Regeneration Processes** (2026)
-   0 citations · DAC
+   0 citations
 
 2. **Solvent-Free Manufacturing of Electrified Structured Sorbents for Scalable Direct Air Capture** (2026)
-   0 citations · DAC
+   0 citations
 
 3. **Sub-hour Rapid Cycling of Direct Air Capture Enabled by Engineered Hollow Fiber Sorbents** (2026)
-   0 citations · DAC
+   0 citations
 
 4. **Additive manufacturing of architected Ca(OH)2 monoliths for accelerated CO2 mineralization** (2026)
    0 citations · DAC

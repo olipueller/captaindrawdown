@@ -1,7 +1,7 @@
 ---
 title: "Jack Shepherd"
-description: "Jack Shepherd is an Early-career DAC researcher at UNSW Sydney in AU. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.346123
+description: "Jack Shepherd is an Early-career General CDR researcher at UNSW Sydney in AU. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.363010
 url: "/cdr-researcher-census/researchers/jack-shepherd-a5083856/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ UNSW Sydney · 🇦🇺 AU
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,7 +42,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 3 |
 | Citations | 107 |
 | Publications | 4 |
-| CDR Focus | 50.0% |
+| CDR Focus | 2500.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    45 citations · DAC
 
 2. **A Model for Assessing Pathways to Integrate Intermittent Renewable Energy for E-Methanol Production** (2023)
-   1 citations · DAC
+   1 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Jing-Yan Tan"
 description: "Jing-Yan Tan is an Early-career Biochar researcher at Harbin Institute of Technology in CN. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.896387
+date: 2026-03-23T11:47:00.855582
 url: "/cdr-researcher-census/researchers/jing-yan-tan-a5032821/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 2 |
 | Citations | 168 |
 | Publications | 3 |
-| CDR Focus | 33.3% |
+| CDR Focus | 3330.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

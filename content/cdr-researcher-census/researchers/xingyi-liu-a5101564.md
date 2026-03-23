@@ -1,7 +1,7 @@
 ---
 title: "Xingyi Liu"
-description: "Xingyi Liu is a Mid-career General CDR researcher at Tianjin Agricultural University in CN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.357370
+description: "Xingyi Liu is a Mid-career carbon dioxide removal researcher at Tianjin Agricultural University in CN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.065265
 url: "/cdr-researcher-census/researchers/xingyi-liu-a5101564/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Tianjin Agricultural University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 7 |
 | Citations | 367 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Molecular Mechanism and Absorption Performance Evaluation of CO<sub>2</sub> Capture from the PCC Process by Monoethanolamine-Based Deep Eutectic Solvents** (2021)
-   27 citations · General CDR
+   27 citations
 
 ## External Profiles
 

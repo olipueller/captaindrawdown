@@ -1,7 +1,7 @@
 ---
 title: "Leah K. Clayton"
-description: "Leah K. Clayton is an Early-career General CDR researcher. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.126435
+description: "Leah K. Clayton is an Early-career carbon dioxide removal researcher. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.126505
 url: "/cdr-researcher-census/researchers/leah-k-clayton-a5040720/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -27,12 +27,6 @@ robots: "index, follow"
 
 **Career Stage:** Early-career
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -40,13 +34,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 4 |
 | Citations | 131 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Near-term Opportunities for BiCRS Pathways to Address the Wildfire Crisis: New Learnings from Early Geospatial Analyses and Field Deployments of Biomass Burial in the US West** (2026)
-   0 citations · General CDR
+   0 citations
 
 ## External Profiles
 

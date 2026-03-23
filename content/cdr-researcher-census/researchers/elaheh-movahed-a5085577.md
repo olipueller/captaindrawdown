@@ -1,7 +1,7 @@
 ---
 title: "Elaheh Movahed"
-description: "Elaheh Movahed is a Mid-career Biochar researcher at New York State Department of Health in US. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.299255
+description: "Elaheh Movahed is a Mid-career General CDR researcher at New York State Department of Health in US. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.973168
 url: "/cdr-researcher-census/researchers/elaheh-movahed-a5085577/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ New York State Department of Health · 🇺🇸 US
 
 ## CDR Specialization
 
-**Biochar**
+**General CDR**
 
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 6 |
 | Citations | 411 |
 | Publications | 8 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Biotechnology for carbon capture and fixation: Critical review and future directions** (2021)
-   96 citations · Biochar
+   96 citations · General CDR
 
 ## External Profiles
 

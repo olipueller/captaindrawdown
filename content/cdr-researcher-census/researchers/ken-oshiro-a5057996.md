@@ -1,7 +1,7 @@
 ---
 title: "Ken Oshiro"
 description: "Ken Oshiro is a Senior General CDR researcher at Hokkaido University in JP. With 130 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.908079
+date: 2026-03-23T11:46:59.192286
 url: "/cdr-researcher-census/researchers/ken-oshiro-a5057996/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 28 |
 | Citations | 3,023 |
 | Publications | 130 |
-| CDR Focus | 13.8% |
+| CDR Focus | 1080.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -57,28 +57,28 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    64 citations · General CDR
 
 3. **Alternative, but expensive, energy transition scenario featuring carbon capture and utilization can preserve existing energy demand technologies** (2023)
-   22 citations · BECCS
+   22 citations · DAC
 
 4. **Mid-century net-zero emissions pathways for Japan: Potential roles of global mitigation scenarios in informing national decarbonization strategies** (2024)
    12 citations · General CDR
 
 5. **Residual emissions and carbon removal towards Japan’s net-zero goal: a multi-model analysis** (2024)
-   11 citations · BECCS
+   11 citations · General CDR
 
 6. **Scaling up climate ambition post-2030: a long-term GHG mitigation analysis for Thailand** (2022)
-   7 citations · BECCS
+   7 citations · General CDR
 
 7. **ENGAGE Global Scenarios** (2021)
-   6 citations · General CDR
+   6 citations
 
 8. **ENGAGE Global Scenarios** (2021)
-   2 citations · General CDR
+   2 citations
 
 9. **Conflicted public perceptions of different net-zero mitigation pathways between feasibility and desirability** (2026)
    1 citations · General CDR
 
 10. **Carbon-dependent net-zero emission energy systems without reliance on fossil fuels and bioenergy** (2022)
-   1 citations · BECCS
+   1 citations · DAC
 
 ## External Profiles
 

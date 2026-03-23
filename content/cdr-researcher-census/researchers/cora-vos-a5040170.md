@@ -1,7 +1,7 @@
 ---
 title: "Cora Vos"
 description: "Cora Vos is a Mid-career Soil Carbon researcher at Johann Heinrich von Thünen-Institut in DE. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.046900
+date: 2026-03-23T11:46:59.510136
 url: "/cdr-researcher-census/researchers/cora-vos-a5040170/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 899 |
 | Publications | 20 |
-| CDR Focus | 10.0% |
+| CDR Focus | 500.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    7 citations · Soil Carbon
 
 2. **A baseline projection of soil organic carbon stocks in German mineral croplands** (2026)
-   0 citations · Enhanced Weathering
+   0 citations · General CDR
 
 ## External Profiles
 

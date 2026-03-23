@@ -1,7 +1,7 @@
 ---
 title: "Ali Abdelshafy"
-description: "Ali Abdelshafy is a Mid-career Biochar researcher at RWTH Aachen University in DE. With 27 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.344931
+description: "Ali Abdelshafy is a Mid-career General CDR researcher at RWTH Aachen University in DE. With 27 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.361769
 url: "/cdr-researcher-census/researchers/ali-abdelshafy-a5067012/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ RWTH Aachen University · 🇩🇪 DE
 
 ## CDR Specialization
 
-**Biochar**
+**General CDR**
 
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 7 |
 | Citations | 107 |
 | Publications | 27 |
-| CDR Focus | 18.5% |
+| CDR Focus | 1110.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    1 citations · Biochar
 
 3. **Evaluation of biomass utilization pathways – a methodological framework** (2025)
-   0 citations · Biochar
+   0 citations
 
 4. **Evaluation of biomass utilization pathways – a methodological framework** (2025)
    0 citations · BECCS

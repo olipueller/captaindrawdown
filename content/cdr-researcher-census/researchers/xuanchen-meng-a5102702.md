@@ -1,7 +1,7 @@
 ---
 title: "Xuanchen Meng"
 description: "Xuanchen Meng is a Mid-career Soil Carbon researcher at Heilongjiang University in CN. With 6 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.011991
+date: 2026-03-23T11:47:01.000892
 url: "/cdr-researcher-census/researchers/xuanchen-meng-a5102702/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 148 |
 | Publications | 6 |
-| CDR Focus | 33.3% |
+| CDR Focus | 3330.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

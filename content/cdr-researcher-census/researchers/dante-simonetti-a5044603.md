@@ -1,0 +1,78 @@
+---
+title: "Dante Simonetti"
+description: "Dante Simonetti is a Senior Ocean CDR researcher at University of California, Los Angeles in US. With 70 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.159091
+url: "/cdr-researcher-census/researchers/dante-simonetti-a5044603/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Dante Simonetti",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/dante-simonetti-a5044603/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "University of California, Los Angeles"
+  },
+  "sameAs": [
+    "https://orcid.org/0000-0002-5708-460X",
+    "https://openalex.org/A5044603752"
+  ]
+}
+</script>
+
+## Profile
+
+**Dante Simonetti**  
+University of California, Los Angeles · 🇺🇸 US
+
+**Career Stage:** Senior
+
+## CDR Specialization
+
+**Ocean CDR**
+
+Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 26 |
+| Citations | 3,847 |
+| Publications | 70 |
+| CDR Focus | 710.0% |
+| Trajectory | Exiting |
+
+## Top CDR Publications
+
+1. **Controls on CO<sub>2</sub> Mineralization Using Natural and Industrial Alkaline Solids under Ambient Conditions** (2021)
+   61 citations · Enhanced Weathering
+
+2. **Electrolytic Seawater Mineralization and the Mass Balances That Demonstrate Carbon Dioxide Removal** (2023)
+   54 citations · Ocean CDR
+
+3. **Process Simulations Reveal the Carbon Dioxide Removal Potential of a Process That Mineralizes Industrial Waste Streams via an Ion Exchange-Based Regenerable pH Swing** (2022)
+   9 citations · Enhanced Weathering
+
+4. **Electrolytic seawater mineralization and how it ensures (net) carbon dioxide removal** (2023)
+   2 citations · Ocean CDR
+
+5. **Seawater Enables High-Quality Carbon Removal** (2024)
+   1 citations · General CDR
+
+6. **Net carbon dioxide removal via electrolytic seawater mineralization** (2023)
+   0 citations · Ocean CDR
+
+## External Profiles
+
+- [ORCID](https://orcid.org/0000-0002-5708-460X)
+- [OpenAlex](https://openalex.org/A5044603752)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

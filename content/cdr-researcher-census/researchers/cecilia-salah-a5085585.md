@@ -1,7 +1,7 @@
 ---
 title: "Cecilia Salah"
-description: "Cecilia Salah is an Early-career BECCS researcher at ETH Zurich in CH. With 11 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.237597
+description: "Cecilia Salah is an Early-career carbon dioxide removal researcher at ETH Zurich in CH. With 11 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.243801
 url: "/cdr-researcher-census/researchers/cecilia-salah-a5085585/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ ETH Zurich · 🇨🇭 CH
 
 **Career Stage:** Early-career
 
-## CDR Specialization
-
-**BECCS**
-
-Combining biomass energy with carbon capture and storage to achieve negative emissions.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,16 +39,16 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 3 |
 | Citations | 118 |
 | Publications | 11 |
-| CDR Focus | 18.2% |
+| CDR Focus | 910.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Environmental Sustainability Assessment of Hydrogen from Waste Polymers** (2023)
-   0 citations · BECCS
+   0 citations
 
 2. **Environmental Sustainability Assessment of Hydrogen from Waste Polymers** (2023)
-   0 citations · BECCS
+   0 citations
 
 ## External Profiles
 

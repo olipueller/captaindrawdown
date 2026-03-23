@@ -1,7 +1,7 @@
 ---
 title: "Song Guan"
-description: "Song Guan is a Senior Biochar researcher at Jilin Agricultural University in CN. With 60 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.081354
+description: "Song Guan is a Senior Soil Carbon researcher at Jilin Agricultural University in CN. With 60 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.576163
 url: "/cdr-researcher-census/researchers/song-guan-a5103926/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Jilin Agricultural University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Biochar**
+**Soil Carbon**
 
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
 
 ## Metrics
 
@@ -42,7 +42,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 13 |
 | Citations | 776 |
 | Publications | 60 |
-| CDR Focus | 18.3% |
+| CDR Focus | 1670.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    12 citations · Biochar
 
 4. **Straw Inputs Improve Soil Hydrophobicity and Enhance Organic Carbon Mineralization** (2023)
-   10 citations · Soil Carbon
+   10 citations · Biochar
 
 5. **Enhancement of soil humic acid hydrophobicity by 5 consecutive years of full-amount straw shallow-mixed field return** (2024)
    6 citations · Soil Carbon
@@ -66,13 +66,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    6 citations · Biochar
 
 7. **Comment on egusphere-2025-5686** (2026)
-   0 citations · Biochar
+   0 citations
 
 8. **Comment on egusphere-2025-5686** (2026)
-   0 citations · Biochar
+   0 citations · Soil Carbon
 
 9. **Magnetic separation reveals overestimation of soil organic matter due to undecomposed particulate residues** (2025)
-   0 citations · Biochar
+   0 citations
 
 10. **Optimal rate of biochar application has positive effects on soil functional microbial abundance and agroecological function in a black soil of Northeast China** (2025)
    0 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Yihe Miao"
-description: "Yihe Miao is a Mid-career DAC researcher at Shanghai Jiao Tong University in CN. With 20 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.044284
+description: "Yihe Miao is a Mid-career General CDR researcher at Shanghai Jiao Tong University in CN. With 20 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.504295
 url: "/cdr-researcher-census/researchers/yihe-miao-a5086130/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Shanghai Jiao Tong University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,40 +45,40 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 12 |
 | Citations | 912 |
 | Publications | 20 |
-| CDR Focus | 85.0% |
+| CDR Focus | 8500.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Recent advances in direct air capture by adsorption** (2022)
-   387 citations · DAC
+   387 citations
 
 2. **Operating temperatures affect direct air capture of CO2 in polyamine-loaded mesoporous silica** (2021)
-   129 citations · DAC
+   129 citations
 
 3. **A comparative review of performance of nanomaterials for Direct Air Capture** (2021)
    62 citations · DAC
 
 4. **Mixed Diethanolamine and Polyethyleneimine with Enhanced CO<sub>2</sub> Capture Capacity from Air** (2023)
-   49 citations · DAC
+   49 citations
 
 5. **Mixed polyamines promotes CO2 adsorption from air** (2022)
-   44 citations · DAC
+   44 citations
 
 6. **Reviewing direct air capture startups and emerging technologies** (2024)
    36 citations · DAC
 
 7. **Additives enhancing supported amines performance in CO<sub>2</sub> capture from air** (2023)
-   28 citations · DAC
+   28 citations
 
 8. **Minimizing the effect of oxygen on supported polyamine for direct air capture** (2022)
-   26 citations · DAC
+   26 citations
 
 9. **Frontier science and challenges on offshore carbon storage** (2023)
    23 citations · General CDR
 
 10. **Wind curtailment powered flexible direct air capture** (2024)
-   16 citations · DAC
+   16 citations
 
 ## External Profiles
 

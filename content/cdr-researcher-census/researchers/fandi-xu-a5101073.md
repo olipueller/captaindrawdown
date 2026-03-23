@@ -1,7 +1,7 @@
 ---
 title: "Fandi Xu"
 description: "Fandi Xu is a Mid-career Soil Carbon researcher at Chongqing University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.728085
+date: 2026-03-23T11:47:00.618411
 url: "/cdr-researcher-census/researchers/fandi-xu-a5101073/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 207 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

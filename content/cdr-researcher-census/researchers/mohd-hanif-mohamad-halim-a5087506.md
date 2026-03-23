@@ -1,7 +1,7 @@
 ---
 title: "Mohd Hanif Mohamad Halim"
-description: "Mohd Hanif Mohamad Halim is a Mid-career Enhanced Weathering researcher at Petronas (Malaysia) in MY. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.211145
+description: "Mohd Hanif Mohamad Halim is a Mid-career General CDR researcher at Petronas (Malaysia) in MY. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.217079
 url: "/cdr-researcher-census/researchers/mohd-hanif-mohamad-halim-a5087506/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Petronas (Malaysia) · 🇲🇾 MY
 
 ## CDR Specialization
 
-**Enhanced Weathering**
+**General CDR**
 
-Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 3 |
 | Citations | 121 |
 | Publications | 8 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Comparative Predictive Modeling of CO <sub>2</sub> Adsorption Bed Performance Using LSTM with Particle Swarm Optimization** (2025)
-   0 citations · Enhanced Weathering
+   0 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Pierre Carrère"
 description: "Pierre Carrère is a Mid-career Soil Carbon researcher. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.167450
+date: 2026-03-23T11:47:01.167089
 url: "/cdr-researcher-census/researchers/pierre-carrere-a5034634/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 127 |
 | Publications | 8 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

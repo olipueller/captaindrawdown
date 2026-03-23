@@ -1,7 +1,7 @@
 ---
 title: "Livia Fritz"
 description: "Livia Fritz is a Mid-career General CDR researcher at Aarhus University in DK. With 80 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.088880
+date: 2026-03-23T11:46:59.591971
 url: "/cdr-researcher-census/researchers/livia-fritz-a5064622/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 14 |
 | Citations | 753 |
 | Publications | 80 |
-| CDR Focus | 20.0% |
+| CDR Focus | 1880.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -57,22 +57,22 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    53 citations · BECCS
 
 4. **Coral reefs, cloud forests and radical climate interventions in Australia’s Wet Tropics and Great Barrier Reef** (2023)
-   19 citations · Enhanced Weathering
+   19 citations · General CDR
 
 5. **Drivers and attitudes of public support for technological solutions to climate change in 30 countries** (2024)
    13 citations · General CDR
 
 6. **An ecosystem of carbon dioxide removal reviews – part 1: direct air CO <sub>2</sub> capture and storage** (2025)
-   11 citations · DAC
+   11 citations · General CDR
 
 7. **Minority groups, Indigenousness and Indigeneity, and place in social perceptions of future climate interventions** (2024)
-   10 citations · BECCS
+   10 citations · DAC
 
 8. **Demographics shape public preferences for carbon dioxide removal and solar geoengineering interventions across 30 countries** (2024)
    8 citations · General CDR
 
 9. **The sociotechnical dynamics of blue carbon management: Testing typologies of ideographs, innovation, and co-impacts for marine carbon removal** (2024)
-   7 citations · Ocean CDR
+   7 citations · General CDR
 
 10. **A new hope or phantom menace? Exploring climate emotions and public support for climate interventions across 30 countries** (2025)
    3 citations · General CDR

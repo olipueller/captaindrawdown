@@ -1,7 +1,7 @@
 ---
 title: "Joachim Block"
-description: "Joachim Block is a Senior Soil Carbon researcher at Institute of Forest Ecology of the Slovak Academy of Sciences in SK. With 6 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.117459
+description: "Joachim Block is a Senior carbon dioxide removal researcher at Institute of Forest Ecology of the Slovak Academy of Sciences in SK. With 6 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.645521
 url: "/cdr-researcher-census/researchers/joachim-block-a5112466/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Institute of Forest Ecology of the Slovak Academy of Sciences ·  SK
 
 **Career Stage:** Senior
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 674 |
 | Publications | 6 |
-| CDR Focus | 16.7% |
+| CDR Focus | 1670.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Cycling and retention of nitrogen in European beech ( <i>Fagus sylvatica</i> L.) ecosystems under elevated fructification frequency** (2021)
-   20 citations · Soil Carbon
+   20 citations
 
 ## External Profiles
 

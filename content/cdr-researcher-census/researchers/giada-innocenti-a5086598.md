@@ -1,7 +1,7 @@
 ---
 title: "Giada Innocenti"
-description: "Giada Innocenti is a Mid-career DAC researcher at Georgia Institute of Technology in US. With 25 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.177942
+description: "Giada Innocenti is a Mid-career carbon dioxide removal researcher at Georgia Institute of Technology in US. With 25 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.752899
 url: "/cdr-researcher-census/researchers/giada-innocenti-a5086598/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Georgia Institute of Technology · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,22 +39,22 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 12 |
 | Citations | 567 |
 | Publications | 25 |
-| CDR Focus | 16.0% |
+| CDR Focus | 1200.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Insights into the Oxidative Degradation Mechanism of Solid Amine Sorbents for CO <sub>2</sub> Capture from Air: Roles of Atmospheric Water** (2023)
-   95 citations · DAC
+   95 citations
 
 2. **Contributions of CO <sub>2</sub> , O <sub>2</sub> , and H <sub>2</sub> O to the Oxidative Stability of Solid Amine Direct Air Capture Sorbents at Intermediate Temperature** (2023)
-   47 citations · DAC
+   47 citations
 
 3. **Insights into the Oxidative Degradation Mechanism of Solid Amine Sorbents for CO <sub>2</sub> Capture from Air: Roles of Atmospheric Water** (2023)
-   13 citations · DAC
+   13 citations
 
 4. **Contributions of CO2, O2 and H2O to the Oxidative Stability of Solid Amine Direct Air Capture Sorbents at Intermediate Temperature** (2023)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

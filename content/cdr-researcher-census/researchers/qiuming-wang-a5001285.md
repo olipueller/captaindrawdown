@@ -1,7 +1,7 @@
 ---
 title: "Qiuming Wang"
-description: "Qiuming Wang is a Senior DAC researcher at Defense Logistics Agency in US. With 97 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.906048
+description: "Qiuming Wang is a Senior General CDR researcher at Defense Logistics Agency in US. With 97 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.187344
 url: "/cdr-researcher-census/researchers/qiuming-wang-a5001285/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Defense Logistics Agency · 🇺🇸 US
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,40 +45,40 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 25 |
 | Citations | 3,113 |
 | Publications | 97 |
-| CDR Focus | 11.3% |
+| CDR Focus | 930.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Big Data Analysis and Technical Review of Regeneration for Carbon Capture Processes** (2023)
-   20 citations · DAC
+   20 citations · General CDR
 
 2. **Scale-up of immobilized amine sorbent pellets for landfill gas upgrading, using benchtop and pilot equipment** (2021)
-   12 citations · General CDR
+   12 citations
 
 3. **Directly Spun Epoxy‐Crosslinked Polyethylenimine Fiber Sorbents for Direct Air Capture and Postcombustion Capture of CO<sub>2</sub>** (2022)
-   7 citations · DAC
+   7 citations
 
 4. **Recent Advances and Future Perspectives of Low-Concentration CO <sub>2</sub> Enrichment and Emerging Applications** (2025)
-   5 citations · DAC
+   5 citations
 
 5. **Directly Spun Epoxy‐Crosslinked Polyethylenimine Fiber Sorbents for Direct Air Capture and Postcombustion Capture of CO<sub>2</sub>** (2022)
-   5 citations · DAC
+   5 citations
 
 6. **Directly Spun Epoxy‐Crosslinked Polyethylenimine Fiber Sorbents for Direct Air Capture and Postcombustion Capture of CO<sub>2</sub>** (2022)
-   1 citations · DAC
+   1 citations
 
 7. **Advancements in Direct Air Capture: Unveiling a Simple and Robust Synthesized Fibrous Amine-functionalized Matrix (FAM) Sorbent for Commercial Scale-up** (2024)
-   0 citations · DAC
+   0 citations
 
 8. **Innovations in Direct Air Capture: Unveiling a Simple and Robust Synthesized Fibrous Amine-functionalized Matrix (FAM) Sorbent for Commercial Scale-up** (2024)
    0 citations · DAC
 
 9. **Direct Air Capture of CO2 Using a Robust Synthesized Fibrous-Amine functionalized Matrix (FAM) Sorbent** (2023)
-   0 citations · DAC
+   0 citations
 
 10. **Directly-Spun Epoxy-Crosslinked PEI Chemisorption Fiber Sorbents (CHEFS) for Direct Air Capture (DAC) of CO2** (2022)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

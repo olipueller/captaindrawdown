@@ -1,7 +1,7 @@
 ---
 title: "Aurélie Paquirissamy"
 description: "Aurélie Paquirissamy is a Mid-career General CDR researcher at Centre National de la Recherche Scientifique in FR. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.214764
+date: 2026-03-23T11:47:01.222136
 url: "/cdr-researcher-census/researchers/aurelie-paquirissamy-a5010194/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 7 |
 | Citations | 120 |
 | Publications | 14 |
-| CDR Focus | 21.4% |
+| CDR Focus | 710.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Data for the consolidated European synthesis of CO2 emissions and removals for EU27 and UK: 1990-2020** (2022)
-   9 citations · General CDR
+   9 citations
 
 2. **Data for the consolidated European synthesis of CO2 emissions and removals for EU27 and UK: 1990-2020** (2022)
-   0 citations · General CDR
+   0 citations
 
 3. **Data for the consolidated European synthesis of CO2 emissions and removals for EU27 and UK: 1990-2020** (2022)
    0 citations · General CDR

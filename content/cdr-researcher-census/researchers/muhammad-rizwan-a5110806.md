@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Rizwan"
 description: "Muhammad Rizwan is a Mid-career Biochar researcher at Changsha University of Science and Technology in CN. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.332098
+date: 2026-03-23T11:47:00.020441
 url: "/cdr-researcher-census/researchers/muhammad-rizwan-a5110806/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 8 |
 | Citations | 388 |
 | Publications | 12 |
-| CDR Focus | 16.7% |
+| CDR Focus | 830.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

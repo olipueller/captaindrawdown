@@ -1,7 +1,7 @@
 ---
 title: "Tommaso Tadiello"
 description: "Tommaso Tadiello is a Mid-career Soil Carbon researcher at Michigan State University in US. With 28 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.537240
+date: 2026-03-23T11:47:00.361714
 url: "/cdr-researcher-census/researchers/tommaso-tadiello-a5015558/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,19 +45,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 268 |
 | Publications | 28 |
-| CDR Focus | 25.0% |
+| CDR Focus | 1790.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **New pedotransfer approaches to predict soil bulk density using WoSIS soil data and environmental covariates in Mediterranean agro-ecosystems** (2021)
-   77 citations · Soil Carbon
+   77 citations
 
 2. **Computation of total soil organic carbon stock and its standard deviation from layered soils** (2022)
    32 citations · Soil Carbon
 
 3. **A multi model ensemble reveals net climate benefits from regenerative practices in US Midwest croplands** (2025)
-   7 citations · Soil Carbon
+   7 citations · General CDR
 
 4. **Regenerative practices can lead to carbon-negative orange groves in Sicily** (2024)
    6 citations · Soil Carbon
@@ -66,10 +66,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    2 citations · Soil Carbon
 
 6. **Computation of total soil organic carbon stock and its standard deviation from layered soils** (2022)
-   0 citations · Soil Carbon
+   0 citations
 
 7. **New pedotransfer approaches to predict soil bulk density using WoSIS soil data and environmental covariates in Mediterranean agro-ecosystems** (2021)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

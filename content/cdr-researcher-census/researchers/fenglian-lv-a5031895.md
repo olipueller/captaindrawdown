@@ -1,7 +1,7 @@
 ---
 title: "Fenglian Lv"
 description: "Fenglian Lv is a Mid-career Soil Carbon researcher at North West Agriculture and Forestry University in CN. With 18 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.110324
+date: 2026-03-23T11:46:59.631464
 url: "/cdr-researcher-census/researchers/fenglian-lv-a5031895/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 11 |
 | Citations | 695 |
 | Publications | 18 |
-| CDR Focus | 11.1% |
+| CDR Focus | 560.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    25 citations · Soil Carbon
 
 2. **Manure Replacing Synthetic Fertilizer Improves Crop Yield Sustainability and Reduces the Carbon Footprint Under a Double Cropping System** (2023)
-   0 citations · Soil Carbon
+   0 citations
 
 ## External Profiles
 

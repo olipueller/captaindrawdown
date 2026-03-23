@@ -1,7 +1,7 @@
 ---
 title: "Iordanis Magiopoulos"
 description: "Iordanis Magiopoulos is a Mid-career Ocean CDR researcher at Hellenic Centre for Marine Research in GR. With 39 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.354650
+date: 2026-03-23T11:47:00.060339
 url: "/cdr-researcher-census/researchers/iordanis-magiopoulos-a5069820/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 11 |
 | Citations | 368 |
 | Publications | 39 |
-| CDR Focus | 20.5% |
+| CDR Focus | 1540.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,22 +54,22 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    1 citations · Ocean CDR
 
 2. **Ocean liming in eutrophic vs. ultraoligotrophic environments and the response of algal calcifiers** (2024)
-   1 citations · Ocean CDR
+   1 citations · General CDR
 
 3. **The impact of ocean liming on phytoplankton size-structure and the balance of photosynthesis and respiration in two contrasting environments** (2024)
-   1 citations · Ocean CDR
+   1 citations · General CDR
 
 4. **Ocean liming in the oligotrophic Eastern Mediterranean: impact on the planktonic microbial food web** (2024)
    1 citations · General CDR
 
 5. **The effect of ocean alkalinity enhancement on zooplankton standing stock and community composition in the Eastern Mediterranean Sea: a mesocosm study** (2025)
-   0 citations · General CDR
+   0 citations · Ocean CDR
 
 6. **Genus-specific calcification dynamics in coralline algae: insights into Mg incorporation as response to Ocean Alkalinity Enhancement** (2025)
    0 citations · Ocean CDR
 
 7. **Genus-specific and microanatomical controls on element incorporation in coralline calcification revealed by Ocean Alkalinity Enhancement experiments** (2025)
-   0 citations · General CDR
+   0 citations · Ocean CDR
 
 8. **Coccolithophore response to marine alkalinization: The results of ocean alkalinity enhancement exposure.** (2024)
    0 citations · Ocean CDR

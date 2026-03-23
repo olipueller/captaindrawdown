@@ -1,7 +1,7 @@
 ---
 title: "Yalan Chen"
-description: "Yalan Chen is a Senior Soil Carbon researcher at Beijing Normal University in CN. With 73 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.956772
+description: "Yalan Chen is a Senior Biochar researcher at Beijing Normal University in CN. With 73 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.305266
 url: "/cdr-researcher-census/researchers/yalan-chen-a5007453/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Beijing Normal University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 24 |
 | Citations | 1,659 |
 | Publications | 73 |
-| CDR Focus | 21.9% |
+| CDR Focus | 1640.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -63,7 +63,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    47 citations · Biochar
 
 5. **Photodegradation of pyrogenic dissolved organic matter increases bioavailability: Novel insight into bioalteration, microbial community succession, and C and N dynamics** (2022)
-   37 citations · Ocean CDR
+   37 citations
 
 6. **Biochar as a green solution to drive the soil carbon pump** (2024)
    17 citations · Biochar
@@ -78,7 +78,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    3 citations · Biochar
 
 10. **High-Dose Biochar Hinders Micro/Nanoplastic-Induced Soil Positive Priming by Reducing Substrate Quality and Microbial Activity** (2026)
-   1 citations · Biochar
+   1 citations · Soil Carbon
 
 ## External Profiles
 

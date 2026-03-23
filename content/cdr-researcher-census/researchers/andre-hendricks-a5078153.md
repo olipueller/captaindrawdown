@@ -1,7 +1,7 @@
 ---
 title: "Andre Hendricks"
-description: "Andre Hendricks is a Mid-career Ocean CDR researcher at Dalhousie University in CA. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.175101
+description: "Andre Hendricks is a Mid-career General CDR researcher at Dalhousie University in CA. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.177966
 url: "/cdr-researcher-census/researchers/andre-hendricks-a5078153/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Dalhousie University · 🇨🇦 CA
 
 ## CDR Specialization
 
-**Ocean CDR**
+**General CDR**
 
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 4 |
 | Citations | 125 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

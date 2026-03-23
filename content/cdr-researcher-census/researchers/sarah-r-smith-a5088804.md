@@ -1,7 +1,7 @@
 ---
 title: "Sarah R. Smith"
-description: "Sarah R. Smith is a Senior Ocean CDR researcher at Moss Landing Marine Laboratories in US. With 38 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.909016
+description: "Sarah R. Smith is a Senior General CDR researcher at Moss Landing Marine Laboratories in US. With 38 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.193708
 url: "/cdr-researcher-census/researchers/sarah-r-smith-a5088804/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Moss Landing Marine Laboratories · 🇺🇸 US
 
 ## CDR Specialization
 
-**Ocean CDR**
+**General CDR**
 
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 16 |
 | Citations | 3,002 |
 | Publications | 38 |
-| CDR Focus | 10.5% |
+| CDR Focus | 1050.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Katy M. Christiansen"
-description: "Katy M. Christiansen is a Senior Soil Carbon researcher at Lawrence Berkeley National Laboratory in US. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.106390
+description: "Katy M. Christiansen is a Senior General CDR researcher at Lawrence Berkeley National Laboratory in US. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.624152
 url: "/cdr-researcher-census/researchers/katy-m-christiansen-a5075195/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Lawrence Berkeley National Laboratory · 🇺🇸 US
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,16 +42,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 703 |
 | Publications | 14 |
-| CDR Focus | 14.3% |
+| CDR Focus | 710.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Biological Carbon Sequestration for Climate and Soil Health** (2021)
-   1 citations · Soil Carbon
+   1 citations · General CDR
 
 2. **Biological Carbon Sequestration for Climate and Soil Health** (2021)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

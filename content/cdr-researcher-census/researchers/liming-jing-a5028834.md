@@ -1,0 +1,59 @@
+---
+title: "Liming Jing"
+description: "Liming Jing is a Mid-career Biochar researcher at Shaanxi University of Science and Technology in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.596947
+url: "/cdr-researcher-census/researchers/liming-jing-a5028834/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Liming Jing",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/liming-jing-a5028834/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Shaanxi University of Science and Technology"
+  },
+  "sameAs": "https://openalex.org/A5028834879"
+}
+</script>
+
+## Profile
+
+**Liming Jing**  
+Shaanxi University of Science and Technology · 🇨🇳 CN
+
+**Career Stage:** Mid-career
+
+## CDR Specialization
+
+**Biochar**
+
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 8 |
+| Citations | 211 |
+| Publications | 14 |
+| CDR Focus | 710.0% |
+| Trajectory | Exiting |
+
+## Top CDR Publications
+
+1. **[Adsorption of Iopamidol by NaHCO<sub>3</sub>-activated Buckwheat Biochar].** (2023)
+   1 citations · Biochar
+
+## External Profiles
+
+- [OpenAlex](https://openalex.org/A5028834879)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

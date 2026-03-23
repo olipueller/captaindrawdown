@@ -1,7 +1,7 @@
 ---
 title: "Zachary S. Campbell"
-description: "Zachary S. Campbell is a Mid-career DAC researcher at Georgia Institute of Technology in US. With 25 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.488923
+description: "Zachary S. Campbell is a Mid-career carbon dioxide removal researcher at Georgia Institute of Technology in US. With 25 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.285620
 url: "/cdr-researcher-census/researchers/zachary-s-campbell-a5018903/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Georgia Institute of Technology · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,22 +39,22 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 11 |
 | Citations | 288 |
 | Publications | 25 |
-| CDR Focus | 16.0% |
+| CDR Focus | 1600.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **CO<sub>2</sub> Uptake and Stability Enhancement in Vinyltrimethoxysilane‐Treated SBA‐15 Solid Amine‐Based Sorbents** (2024)
-   7 citations · DAC
+   7 citations
 
 2. **Performance Degradation of Amine-Infused Fiber Sorbents for Direct Air Capture: Mechanisms and Solutions** (2025)
-   6 citations · DAC
+   6 citations
 
 3. **Direct Air CO2 Capture via Hot Water Cycling of Poly(ethyleneimine)/Silica Hollow Fiber Sorbents** (2025)
-   0 citations · DAC
+   0 citations
 
 4. **CO2 Selective PEI-Loaded γ-Al2O3 Fiber Sorbents for Direct Air Capture** (2025)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

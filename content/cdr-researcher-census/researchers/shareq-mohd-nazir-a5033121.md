@@ -1,7 +1,7 @@
 ---
 title: "Shareq Mohd Nazir"
-description: "Shareq Mohd Nazir is a Mid-career DAC researcher at KTH Royal Institute of Technology in SE. With 42 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.073977
+description: "Shareq Mohd Nazir is a Mid-career General CDR researcher at KTH Royal Institute of Technology in SE. With 42 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.562022
 url: "/cdr-researcher-census/researchers/shareq-mohd-nazir-a5033121/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ KTH Royal Institute of Technology · 🇸🇪 SE
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,16 +45,16 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 14 |
 | Citations | 799 |
 | Publications | 42 |
-| CDR Focus | 14.3% |
+| CDR Focus | 950.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Process concepts and analysis for co-removing methane and carbon dioxide from the atmosphere** (2023)
-   11 citations · DAC
+   11 citations
 
 2. **Multiple greenhouse gases mitigation (MGM): Process concepts to co-remove non-CO2 (CH4) greenhouse gases and CO2 from air** (2022)
-   3 citations · DAC
+   3 citations · General CDR
 
 3. **BECCS potential in the pulp and paper industry: Technical and practical considerations for oxyfuel firing in Kraft recovery boilers** (2025)
    0 citations · BECCS
@@ -63,10 +63,10 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    0 citations · General CDR
 
 5. **Reduced life cycle climate impact from manure through catalytic methane conversion and carbon dioxide removal** (2025)
-   0 citations · General CDR
+   0 citations
 
 6. **Co-removing methane and carbon dioxide from the atmosphere: Process concepts and analysis** (2023)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

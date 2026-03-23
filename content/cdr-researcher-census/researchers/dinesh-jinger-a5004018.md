@@ -1,7 +1,7 @@
 ---
 title: "Dinesh Jinger"
 description: "Dinesh Jinger is a Senior Soil Carbon researcher at ICAR Indian Institute of Soil and Water Conservation in IN. With 95 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.953689
+date: 2026-03-23T11:46:59.300496
 url: "/cdr-researcher-census/researchers/dinesh-jinger-a5004018/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 19 |
 | Citations | 1,700 |
 | Publications | 95 |
-| CDR Focus | 13.7% |
+| CDR Focus | 1160.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -63,7 +63,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    46 citations · Soil Carbon
 
 5. **Global assessment of production benefits and risk reduction in agroforestry during extreme weather events under climate change scenarios** (2024)
-   20 citations · Enhanced Weathering
+   20 citations · General CDR
 
 6. **Enhancing productivity and sustainability of ravine lands through horti-silviculture and soil moisture conservation: A pathway to land degradation neutrality** (2024)
    20 citations · Soil Carbon

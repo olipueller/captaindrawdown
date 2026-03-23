@@ -1,7 +1,7 @@
 ---
 title: "Abir Dey"
 description: "Abir Dey is a Senior Soil Carbon researcher at Indian Agricultural Research Institute in IN. With 80 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.018200
+date: 2026-03-23T11:46:59.447698
 url: "/cdr-researcher-census/researchers/abir-dey-a5036886/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 16 |
 | Citations | 1,063 |
 | Publications | 80 |
-| CDR Focus | 11.2% |
+| CDR Focus | 1120.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -66,10 +66,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    4 citations · Soil Carbon
 
 6. **Soil Carbon Sequestration in the Context of Climate Change** (2024)
-   3 citations · Soil Carbon
+   3 citations · General CDR
 
 7. **Belowground Carbon Storage and Dynamics** (2021)
-   3 citations · Soil Carbon
+   3 citations · General CDR
 
 8. **Impact of Conservation Agriculture on Soil Carbon Sequestration under a Rice (Oryza sativa)-Wheat (Triticum aestivum)-Mungbean (Vigna radiata) Cropping System in the Indo-Gangetic Plains** (2024)
    1 citations · Soil Carbon

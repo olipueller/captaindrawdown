@@ -1,7 +1,7 @@
 ---
 title: "Jinyuan Yu"
 description: "Jinyuan Yu is a Mid-career Soil Carbon researcher at Universitat Autònoma de Barcelona in ES. With 23 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.054840
+date: 2026-03-23T11:46:59.529625
 url: "/cdr-researcher-census/researchers/jinyuan-yu-a5008750/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 863 |
 | Publications | 23 |
-| CDR Focus | 13.0% |
+| CDR Focus | 1300.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

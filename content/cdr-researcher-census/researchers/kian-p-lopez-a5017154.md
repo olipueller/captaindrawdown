@@ -1,7 +1,7 @@
 ---
 title: "Kian P. Lopez"
-description: "Kian P. Lopez is a Mid-career General CDR researcher. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.602803
+description: "Kian P. Lopez is a Mid-career carbon dioxide removal researcher. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.446907
 url: "/cdr-researcher-census/researchers/kian-p-lopez-a5017154/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -27,12 +27,6 @@ robots: "index, follow"
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -40,13 +34,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 5 |
 | Citations | 244 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Liquid Water Membranes for Carbon Dioxide Removal and Humidity Condensation in Spaceflight Systems** (2025)
-   0 citations · General CDR
+   0 citations
 
 ## External Profiles
 

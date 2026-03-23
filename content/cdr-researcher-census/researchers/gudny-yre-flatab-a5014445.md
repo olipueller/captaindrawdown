@@ -1,7 +1,7 @@
 ---
 title: "Gudny Øyre Flatabø"
 description: "Gudny Øyre Flatabø is a Mid-career Biochar researcher at University of South-Eastern Norway in NO. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.161912
+date: 2026-03-23T11:47:01.161798
 url: "/cdr-researcher-census/researchers/gudny-yre-flatab-a5014445/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 5 |
 | Citations | 127 |
 | Publications | 15 |
-| CDR Focus | 20.0% |
+| CDR Focus | 1330.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

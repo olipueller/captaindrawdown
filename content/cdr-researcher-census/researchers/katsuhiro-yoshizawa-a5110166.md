@@ -1,7 +1,7 @@
 ---
 title: "Katsuhiro Yoshizawa"
 description: "Katsuhiro Yoshizawa is a Senior DAC researcher at Kawasaki Heavy Industries (Japan) in JP. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.520597
+date: 2026-03-23T11:47:00.336932
 url: "/cdr-researcher-census/researchers/katsuhiro-yoshizawa-a5110166/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 7 |
 | Citations | 275 |
 | Publications | 15 |
-| CDR Focus | 13.3% |
+| CDR Focus | 1330.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    4 citations · DAC
 
 2. **Direct air capture by Kawasaki CO2 Capture technology: demonstration at various climatic condition using novel amine solid sorbent** (2022)
-   1 citations · DAC
+   1 citations
 
 ## External Profiles
 

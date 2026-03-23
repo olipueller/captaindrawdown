@@ -1,7 +1,7 @@
 ---
 title: "Harmen Dekker"
 description: "Harmen Dekker is a Senior Soil Carbon researcher at European Community Shipowners' Associations in BE. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.769457
+date: 2026-03-23T11:47:00.671573
 url: "/cdr-researcher-census/researchers/harmen-dekker-a5033221/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,22 +42,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 196 |
 | Publications | 16 |
-| CDR Focus | 37.5% |
+| CDR Focus | 1880.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Assessment of the Carbon and Nitrogen Mineralisation of Digestates Elaborated from Distinct Feedstock Profiles** (2022)
-   31 citations · Soil Carbon
+   31 citations
 
 2. **Quantifying CO2 Emissions and Carbon Sequestration from Digestate-Amended Soil Using Natural 13C Abundance as a Tracer** (2023)
    9 citations · Soil Carbon
 
 3. **Unpublished data: Quantifying CO2 Emissions and Carbon Sequestration from Digestate-Amended Soil Using Natural 13C Abundance as a Tracer** (2023)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 4. **Unpublished data: Quantifying CO2 Emissions and Carbon Sequestration from Digestate-Amended Soil Using Natural 13C Abundance as a Tracer** (2023)
-   0 citations · Soil Carbon
+   0 citations · Biochar
 
 5. **Unpublished data: Quantifying CO2 Emissions and Carbon Sequestration from Digestate-Amended Soil Using Natural 13C Abundance as a Tracer** (2023)
    0 citations · Soil Carbon

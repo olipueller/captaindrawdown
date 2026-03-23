@@ -1,7 +1,7 @@
 ---
 title: "Stefan Bube"
-description: "Stefan Bube is a Mid-career DAC researcher at Universität Hamburg in DE. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.697516
+description: "Stefan Bube is a Mid-career General CDR researcher at Universität Hamburg in DE. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.576580
 url: "/cdr-researcher-census/researchers/stefan-bube-a5032168/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Universität Hamburg · 🇩🇪 DE
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 6 |
 | Citations | 215 |
 | Publications | 17 |
-| CDR Focus | 11.8% |
+| CDR Focus | 590.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    0 citations · DAC
 
 2. **Scaling sustainable aviation fuel for net-zero CO2 emissions by 2050 – Pathways, requirements and challenges** (2025)
-   0 citations · DAC
+   0 citations · BECCS
 
 ## External Profiles
 

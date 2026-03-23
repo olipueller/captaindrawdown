@@ -1,7 +1,7 @@
 ---
 title: "Joana Melo"
 description: "Joana Melo is a Senior General CDR researcher at Joint Research Centre in IT. With 36 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.133901
+date: 2026-03-23T11:46:59.670880
 url: "/cdr-researcher-census/researchers/joana-melo-a5091773/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 13 |
 | Citations | 645 |
 | Publications | 36 |
-| CDR Focus | 13.9% |
+| CDR Focus | 1110.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -57,10 +57,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    26 citations · General CDR
 
 3. **Exploring the application of Earth Observation datasets for SEEA carbon accounting and its comparison with national GHG reporting to the UNFCCC** (2026)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 4. **Revised and updated geospatial monitoring of twenty-first century forest carbon fluxes** (2024)
-   0 citations · General CDR
+   0 citations · Soil Carbon
 
 5. **Referee's comment on essd-2022-104** (2022)
    0 citations · General CDR

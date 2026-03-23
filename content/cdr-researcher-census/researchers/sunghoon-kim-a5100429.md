@@ -1,7 +1,7 @@
 ---
 title: "Sunghoon Kim"
 description: "Sunghoon Kim is a Senior Ocean CDR researcher at University of California, Santa Barbara in US. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.563225
+date: 2026-03-23T11:47:00.397509
 url: "/cdr-researcher-census/researchers/sunghoon-kim-a5100429/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 4 |
 | Citations | 258 |
 | Publications | 6 |
-| CDR Focus | 16.7% |
+| CDR Focus | 1670.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Brucite-inspired ocean alkalinity enhancement alters the biogeochemistry and composition of a phytoplankton community: a Santa Barbara channel case report** (2025)
-   0 citations · General CDR
+   0 citations · Ocean CDR
 
 ## External Profiles
 

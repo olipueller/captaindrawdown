@@ -1,7 +1,7 @@
 ---
 title: "Lucas Moreau"
 description: "Lucas Moreau is a Mid-career General CDR researcher. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.235384
+date: 2026-03-23T11:47:01.242115
 url: "/cdr-researcher-census/researchers/lucas-moreau-a5018862/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,13 +40,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 5 |
 | Citations | 118 |
 | Publications | 12 |
-| CDR Focus | 16.7% |
+| CDR Focus | 1670.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Impact of Biogenic Carbon Neutrality Assumption for Achieving a Net-Zero Emission Target: Insights from a Techno-Economic Analysis** (2023)
-   21 citations · BECCS
+   21 citations · General CDR
 
 2. **Does the assumption of biogenic carbon neutrality affect decarbonization pathways? Lessons learned from a techno-economic analysis** (2023)
    1 citations · BECCS

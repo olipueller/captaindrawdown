@@ -1,7 +1,7 @@
 ---
 title: "Leon Merfort"
 description: "Leon Merfort is a Mid-career General CDR researcher at Leibniz Association in DE. With 40 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.052337
+date: 2026-03-23T11:46:59.522818
 url: "/cdr-researcher-census/researchers/leon-merfort-a5010129/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 8 |
 | Citations | 873 |
 | Publications | 40 |
-| CDR Focus | 25.0% |
+| CDR Focus | 2250.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    498 citations · General CDR
 
 2. **Bioenergy-induced land-use-change emissions with sectorally fragmented policies** (2023)
-   39 citations · General CDR
+   39 citations · BECCS
 
 3. **Food matters: Dietary shifts increase the feasibility of 1.5°C pathways in line with the Paris Agreement** (2024)
    30 citations · General CDR
@@ -63,19 +63,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    8 citations · General CDR
 
 5. **Separating CO2 emission from removal targets comes with limited cost impacts** (2024)
-   1 citations · General CDR
+   1 citations
 
 6. **Assessing Earth system feedbacks in deep mitigation scenarios with activity-driven simulation of carbon dioxide removal** (2025)
    0 citations · General CDR
 
 7. **Projecting long-term pathways of greenhouse gas emissions and carbon dioxide removal with an Integrated Assessment Model emulator** (2025)
-   0 citations · BECCS
+   0 citations · DAC
 
 8. **Bottom-up estimate of the carbon dioxide removal potential of land-based mitigation technologies using a coupled ESM/ land-use change model framework** (2025)
-   0 citations · BECCS
+   0 citations · General CDR
 
 9. **Representing carbon dioxide removal in Earth System Models: towards an activity-driven framework.** (2025)
-   0 citations · BECCS
+   0 citations · General CDR
 
 10. **Defending climate targets under threat of forest carbon impermanence** (2023)
    0 citations · General CDR

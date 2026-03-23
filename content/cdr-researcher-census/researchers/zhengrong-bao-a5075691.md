@@ -1,7 +1,7 @@
 ---
 title: "Zhengrong Bao"
-description: "Zhengrong Bao is a Mid-career Soil Carbon researcher at Shenyang Agricultural University in CN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.418679
+description: "Zhengrong Bao is a Mid-career Biochar researcher at Shenyang Agricultural University in CN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.168163
 url: "/cdr-researcher-census/researchers/zhengrong-bao-a5075691/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Shenyang Agricultural University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 325 |
 | Publications | 7 |
-| CDR Focus | 42.9% |
+| CDR Focus | 4290.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

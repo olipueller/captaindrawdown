@@ -1,7 +1,7 @@
 ---
 title: "Thidarat Rupngam"
-description: "Thidarat Rupngam is a Mid-career Biochar researcher at Chiang Mai University in TH. With 16 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.375844
+description: "Thidarat Rupngam is a Mid-career Soil Carbon researcher at Chiang Mai University in TH. With 16 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.396176
 url: "/cdr-researcher-census/researchers/thidarat-rupngam-a5046433/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Chiang Mai University · 🇹🇭 TH
 
 ## CDR Specialization
 
-**Biochar**
+**Soil Carbon**
 
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
 
 ## Metrics
 
@@ -45,19 +45,19 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 4 |
 | Citations | 104 |
 | Publications | 16 |
-| CDR Focus | 25.0% |
+| CDR Focus | 1880.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Unraveling the Interactions between Flooding Dynamics and Agricultural Productivity in a Changing Climate** (2024)
-   64 citations · General CDR
+   64 citations
 
 2. **Contrasting Pre- and Post-Pyrolysis Incorporation of Bentonite into Manure Biochar: Impacts on Nutrient Availability, Carbon Stability, and Physicochemical Properties** (2025)
    2 citations · Biochar
 
 3. **A Critical Review of Regenerative Soil Management: A Novel Scoring System for <scp>SOC</scp> and <scp>GHG</scp> Emissions in Southeast Asia** (2025)
-   1 citations · Biochar
+   1 citations · General CDR
 
 4. **Sustainable bioremediation of atrazine-contaminated soils via biochar and microbial ball co-amendments** (2025)
    0 citations · Biochar

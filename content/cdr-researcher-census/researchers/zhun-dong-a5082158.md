@@ -1,7 +1,7 @@
 ---
 title: "Zhun Dong"
-description: "Zhun Dong is a Mid-career DAC researcher at Ricoh (Japan) in JP. With 26 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.154031
+description: "Zhun Dong is a Mid-career carbon dioxide removal researcher at Ricoh (Japan) in JP. With 26 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.715377
 url: "/cdr-researcher-census/researchers/zhun-dong-a5082158/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Ricoh (Japan) · 🇯🇵 JP
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,19 +39,19 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 15 |
 | Citations | 604 |
 | Publications | 26 |
-| CDR Focus | 11.5% |
+| CDR Focus | 1150.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Harnessing the Hybridization of a Metal‐Organic Framework and Superbase‐Derived Ionic Liquid for High‐Performance Direct Air Capture of CO<sub>2</sub>** (2023)
-   24 citations · DAC
+   24 citations
 
 2. **High‐Performance CO<sub>2</sub> Capture from Air by Harnessing the Power of CaO‐ and Superbase‐Ionic‐Liquid‐Engineered Sorbents** (2023)
-   19 citations · DAC
+   19 citations
 
 3. **Harnessing the Hybridization of a Metal‐Organic Framework and Superbase‐Derived Ionic Liquid for High‐Performance Direct Air Capture of CO<sub>2</sub> (Small 41/2023)** (2023)
-   3 citations · DAC
+   3 citations
 
 ## External Profiles
 

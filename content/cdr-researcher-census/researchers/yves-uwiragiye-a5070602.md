@@ -1,7 +1,7 @@
 ---
 title: "Yves Uwiragiye"
 description: "Yves Uwiragiye is a Mid-career Soil Carbon researcher at Nanjing Normal University in CN. With 48 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.144902
+date: 2026-03-23T11:46:59.693241
 url: "/cdr-researcher-census/researchers/yves-uwiragiye-a5070602/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,16 +45,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 12 |
 | Citations | 624 |
 | Publications | 48 |
-| CDR Focus | 14.6% |
+| CDR Focus | 1040.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Meta-analysis unveils differential effects of agroforestry on soil properties in different zonobiomes** (2023)
-   47 citations · Soil Carbon
+   47 citations
 
 2. **Low-level nitrogen and short-term addition increase soil carbon sequestration in Chinese forest ecosystems** (2022)
-   20 citations · Soil Carbon
+   20 citations
 
 3. **Degradable film mulching increases soil carbon sequestration in major Chinese dryland agroecosystems** (2025)
    15 citations · Soil Carbon
@@ -63,13 +63,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    8 citations · Soil Carbon
 
 5. **Ecological restoration stimulates environmental outcomes but exacerbates water shortage in the Loess Plateau** (2022)
-   6 citations · Soil Carbon
+   6 citations
 
 6. **Low-Level Nitrogen and Short-Term Addition Increase Soil Carbon Sequestration in Chinese Forest Ecosystems** (2021)
    0 citations · Soil Carbon
 
 7. **Ecological restoration stimulates environmental outcomes but exacerbates water shortage in the Loess Plateau** (2021)
-   0 citations · Soil Carbon
+   0 citations
 
 ## External Profiles
 

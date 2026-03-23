@@ -1,7 +1,7 @@
 ---
 title: "Yongbo Zhao"
 description: "Yongbo Zhao is a Senior Soil Carbon researcher at Northwest University in US. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.107056
+date: 2026-03-23T11:46:59.626391
 url: "/cdr-researcher-census/researchers/yongbo-zhao-a5103631/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 10 |
 | Citations | 701 |
 | Publications | 18 |
-| CDR Focus | 11.1% |
+| CDR Focus | 560.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

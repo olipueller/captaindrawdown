@@ -1,7 +1,7 @@
 ---
 title: "Xia Wang"
 description: "Xia Wang is a Mid-career Soil Carbon researcher at Qinghai Normal University in CN. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.781124
+date: 2026-03-23T11:47:00.686645
 url: "/cdr-researcher-census/researchers/xia-wang-a5101569/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 3 |
 | Citations | 193 |
 | Publications | 5 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

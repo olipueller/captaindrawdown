@@ -1,7 +1,7 @@
 ---
 title: "Daniel Fallu"
 description: "Daniel Fallu is a Mid-career Soil Carbon researcher at Centre for Arctic Gas Hydrate, Environment and Climate in NO. With 40 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.418955
+date: 2026-03-23T11:47:00.168870
 url: "/cdr-researcher-census/researchers/daniel-fallu-a5043817/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 10 |
 | Citations | 325 |
 | Publications | 40 |
-| CDR Focus | 20.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    38 citations · Soil Carbon
 
 3. **Factors controlling <scp>SOC</scp> stability in colluvial soils under contrasting climate and soil weathering conditions** (2022)
-   5 citations · Enhanced Weathering
+   5 citations · Soil Carbon
 
 4. **Coupled geomorphic and climate-driven biogeochemical processes regulate soil organic carbon stocks in agricultural terraces** (2026)
    0 citations · Soil Carbon
@@ -69,7 +69,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    0 citations · Soil Carbon
 
 7. **New quantitative geomorphometric approach to estimate soil volumes stored in agricultural terraces.** (2021)
-   0 citations · Soil Carbon
+   0 citations
 
 8. **A geomorphometric approach to estimate soil volumes stored in agricultural terrace systems** (2021)
    0 citations · Soil Carbon

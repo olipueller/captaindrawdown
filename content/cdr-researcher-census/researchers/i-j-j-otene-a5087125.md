@@ -1,7 +1,7 @@
 ---
 title: "I. J. J. Otene"
-description: "I. J. J. Otene is a Mid-career Soil Carbon researcher at Kogi State University in NG. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.270163
+description: "I. J. J. Otene is a Mid-career General CDR researcher at Kogi State University in NG. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.281717
 url: "/cdr-researcher-census/researchers/i-j-j-otene-a5087125/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Kogi State University ·  NG
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 115 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Comparative Assessment of Soil Carbon Sequestration and Carbon Dioxide Emissions from Agroforestry Systems in Kogi East Nigeria** (2022)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

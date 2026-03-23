@@ -1,7 +1,7 @@
 ---
 title: "Priskila Adjani Diankristanti"
-description: "Priskila Adjani Diankristanti is a Mid-career DAC researcher at National Cheng Kung University in TW. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.016218
+description: "Priskila Adjani Diankristanti is a Mid-career BECCS researcher at National Cheng Kung University in TW. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.007006
 url: "/cdr-researcher-census/researchers/priskila-adjani-diankristanti-a5017742/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ National Cheng Kung University · 🇹🇼 TW
 
 ## CDR Specialization
 
-**DAC**
+**BECCS**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 6 |
 | Citations | 147 |
 | Publications | 15 |
-| CDR Focus | 33.3% |
+| CDR Focus | 1330.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,16 +54,16 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    39 citations · BECCS
 
 2. **Direct air capture using halophilic Cyanobacterium aponinum PCC10605 under illumination of light-emitting diodes in marine environment** (2024)
-   4 citations · DAC
+   4 citations
 
 3. **Sustainable Outdoor Cultivation of <i>Cyanobacterium aponinum</i> under Artificial Lighting Using Low-Cost Fertilizer Medium** (2025)
    0 citations · DAC
 
 4. **Navigating microalgae under dynamic CO2 for waste-to-energy conversion** (2025)
-   0 citations · BECCS
+   0 citations
 
 5. **Rewiring carbonic anhydrase isoforms for adaptive carbon dioxide capture in Chlamydomonas reinhardtii CC400** (2025)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

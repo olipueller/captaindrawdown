@@ -14,6 +14,38 @@ sitemap:
   _disable: true
 ---
 
+## What This Page Shows
+
+This **Collaboration Atlas** maps the research networks of **122,000+ CDR scientists** using co-authorship data from OpenAlex. The 248,000+ co-authored papers reveal how researchers collaborate across disciplines, institutions, and countries — and which scientific communities are bridging the gap between different carbon dioxide removal methods.
+
+### How It Was Built
+
+1. **Co-authorship networks**: Every paper co-authored by CDR researchers creates a connection in the network
+2. **Louvain community detection**: Algorithmic clustering identified 115 distinct research communities that frequently publish together
+3. **Pathway classification**: Each community's dominant method was determined by OpenAlex classification + LLM filtering
+4. **Bridge scoring**: Researchers with high network betweenness centrality — spanning multiple methods and geographies — are flagged as "bridge researchers"
+
+### What the Data Means
+
+- **Communities** = clusters of researchers who co-author papers frequently (strong scientific coupling)
+- **Bridges** = individuals whose network position connects otherwise disconnected research areas
+- **Country collaborations** = international co-authorship intensity (a proxy for knowledge flow)
+- **Institutions** = research centers where CDR work concentrates
+
+<div style="background:var(--code-bg);border-left:4px solid #f0ad4e;border-radius:4px;padding:1rem 1.2rem;margin:1.5rem 0">
+<strong>⚠️ Experimental Analysis</strong>
+<p style="margin:0.5rem 0 0">This analysis is **highly experimental** and comes with important caveats:</p>
+<ul style="margin:0.5rem 0 0;padding-left:1.2rem">
+<li>Based on co-authorship data from <strong>OpenAlex</strong>, which has known coverage gaps (especially in non-English publications)</li>
+<li>Community detection is <strong>algorithmic</strong> — detected clusters are approximate, not ground truth</li>
+<li>"Bridge researcher" scores use <strong>network metrics</strong> (betweenness centrality), not editorial judgment</li>
+<li>CDR pathway assignment uses <strong>automated classification</strong> (code-based + LLM filtering) and may misclassify interdisciplinary work</li>
+<li>Data is a <strong>snapshot from March 2026</strong> — older publications underrepresented</li>
+</ul>
+</div>
+
+---
+
 <div class="stats-grid">
 <div class="stat-card"><div class="stat-number">66,717</div><div class="stat-label">Connected Researchers</div></div>
 <div class="stat-card"><div class="stat-number">248,947</div><div class="stat-label">Co-authorship Links</div></div>
@@ -21,9 +53,11 @@ sitemap:
 <div class="stat-card"><div class="stat-number">3,827</div><div class="stat-label">Cross-Method Bridges</div></div>
 </div>
 
+---
+
 ## 🔥 How CDR Methods Cross-Pollinate
 
-This matrix shows co-authorship links between researchers from different CDR methods. Higher numbers = more collaboration.
+This matrix shows co-authorship links between researchers from different CDR methods. Higher numbers = more collaboration between specialties.
 
 <div style="overflow-x:auto;margin:1.5rem 0">
 <table style="border-collapse:collapse;font-size:0.82em;min-width:500px">
@@ -101,6 +135,8 @@ This matrix shows co-authorship links between researchers from different CDR met
 </tr>
 </table></div>
 
+---
+
 ## 🌍 Top Country Collaborations
 
 The strongest international research partnerships in CDR, measured by co-authored papers.
@@ -141,76 +177,13 @@ The strongest international research partnerships in CDR, measured by co-authore
 <div style="height:20px;background:var(--tertiary);border-radius:4px;opacity:0.6;width:14%;min-width:2px"></div>
 <span style="margin-left:8px;color:var(--secondary);font-size:0.85em;white-space:nowrap">1,293 papers</span>
 </div>
-<div style="display:flex;align-items:center;margin:0.35rem 0;font-size:0.88em">
-<span style="width:200px;flex-shrink:0;font-weight:600">China ↔ Hong Kong</span>
-<div style="height:20px;background:var(--tertiary);border-radius:4px;opacity:0.6;width:13%;min-width:2px"></div>
-<span style="margin-left:8px;color:var(--secondary);font-size:0.85em;white-space:nowrap">1,207 papers</span>
 </div>
-<div style="display:flex;align-items:center;margin:0.35rem 0;font-size:0.88em">
-<span style="width:200px;flex-shrink:0;font-weight:600">Germany ↔ United States</span>
-<div style="height:20px;background:var(--tertiary);border-radius:4px;opacity:0.6;width:11%;min-width:2px"></div>
-<span style="margin-left:8px;color:var(--secondary);font-size:0.85em;white-space:nowrap">1,044 papers</span>
-</div>
-<div style="display:flex;align-items:center;margin:0.35rem 0;font-size:0.88em">
-<span style="width:200px;flex-shrink:0;font-weight:600">Canada ↔ United States</span>
-<div style="height:20px;background:var(--tertiary);border-radius:4px;opacity:0.6;width:11%;min-width:2px"></div>
-<span style="margin-left:8px;color:var(--secondary);font-size:0.85em;white-space:nowrap">1,006 papers</span>
-</div>
-<div style="display:flex;align-items:center;margin:0.35rem 0;font-size:0.88em">
-<span style="width:200px;flex-shrink:0;font-weight:600">China ↔ Pakistan</span>
-<div style="height:20px;background:var(--tertiary);border-radius:4px;opacity:0.6;width:11%;min-width:2px"></div>
-<span style="margin-left:8px;color:var(--secondary);font-size:0.85em;white-space:nowrap">996 papers</span>
-</div>
-<div style="display:flex;align-items:center;margin:0.35rem 0;font-size:0.88em">
-<span style="width:200px;flex-shrink:0;font-weight:600">China ↔ Spain</span>
-<div style="height:20px;background:var(--tertiary);border-radius:4px;opacity:0.6;width:11%;min-width:2px"></div>
-<span style="margin-left:8px;color:var(--secondary);font-size:0.85em;white-space:nowrap">978 papers</span>
-</div>
-<div style="display:flex;align-items:center;margin:0.35rem 0;font-size:0.88em">
-<span style="width:200px;flex-shrink:0;font-weight:600">Australia ↔ United States</span>
-<div style="height:20px;background:var(--tertiary);border-radius:4px;opacity:0.6;width:10%;min-width:2px"></div>
-<span style="margin-left:8px;color:var(--secondary);font-size:0.85em;white-space:nowrap">911 papers</span>
-</div>
-<div style="display:flex;align-items:center;margin:0.35rem 0;font-size:0.88em">
-<span style="width:200px;flex-shrink:0;font-weight:600">China ↔ France</span>
-<div style="height:20px;background:var(--tertiary);border-radius:4px;opacity:0.6;width:9%;min-width:2px"></div>
-<span style="margin-left:8px;color:var(--secondary);font-size:0.85em;white-space:nowrap">817 papers</span>
-</div>
-<div style="display:flex;align-items:center;margin:0.35rem 0;font-size:0.88em">
-<span style="width:200px;flex-shrink:0;font-weight:600">Germany ↔ United Kingdom</span>
-<div style="height:20px;background:var(--tertiary);border-radius:4px;opacity:0.6;width:9%;min-width:2px"></div>
-<span style="margin-left:8px;color:var(--secondary);font-size:0.85em;white-space:nowrap">789 papers</span>
-</div>
-<div style="display:flex;align-items:center;margin:0.35rem 0;font-size:0.88em">
-<span style="width:200px;flex-shrink:0;font-weight:600">China ↔ Japan</span>
-<div style="height:20px;background:var(--tertiary);border-radius:4px;opacity:0.6;width:8%;min-width:2px"></div>
-<span style="margin-left:8px;color:var(--secondary);font-size:0.85em;white-space:nowrap">697 papers</span>
-</div>
-<div style="display:flex;align-items:center;margin:0.35rem 0;font-size:0.88em">
-<span style="width:200px;flex-shrink:0;font-weight:600">South Korea ↔ United States</span>
-<div style="height:20px;background:var(--tertiary);border-radius:4px;opacity:0.6;width:8%;min-width:2px"></div>
-<span style="margin-left:8px;color:var(--secondary);font-size:0.85em;white-space:nowrap">686 papers</span>
-</div>
-<div style="display:flex;align-items:center;margin:0.35rem 0;font-size:0.88em">
-<span style="width:200px;flex-shrink:0;font-weight:600">China ↔ Singapore</span>
-<div style="height:20px;background:var(--tertiary);border-radius:4px;opacity:0.6;width:7%;min-width:2px"></div>
-<span style="margin-left:8px;color:var(--secondary);font-size:0.85em;white-space:nowrap">645 papers</span>
-</div>
-<div style="display:flex;align-items:center;margin:0.35rem 0;font-size:0.88em">
-<span style="width:200px;flex-shrink:0;font-weight:600">China ↔ Denmark</span>
-<div style="height:20px;background:var(--tertiary);border-radius:4px;opacity:0.6;width:6%;min-width:2px"></div>
-<span style="margin-left:8px;color:var(--secondary);font-size:0.85em;white-space:nowrap">560 papers</span>
-</div>
-<div style="display:flex;align-items:center;margin:0.35rem 0;font-size:0.88em">
-<span style="width:200px;flex-shrink:0;font-weight:600">Brazil ↔ United States</span>
-<div style="height:20px;background:var(--tertiary);border-radius:4px;opacity:0.6;width:6%;min-width:2px"></div>
-<span style="margin-left:8px;color:var(--secondary);font-size:0.85em;white-space:nowrap">558 papers</span>
-</div>
-</div>
+
+---
 
 ## 🔗 Bridge Researchers
 
-These researchers connect the most CDR methods through their co-authorship network — the rare people who span biochar, DAC, ocean CDR, and more.
+These researchers connect the most CDR methods through their co-authorship network — the rare people who span biochar, DAC, ocean CDR, and more. Click names to visit their researcher profile.
 
 <div style="overflow-x:auto;margin:1.5rem 0">
 <table style="width:100%;border-collapse:collapse;font-size:0.88em">
@@ -222,10 +195,11 @@ These researchers connect the most CDR methods through their co-authorship netwo
 <th style="text-align:left;padding:0.5rem;border-bottom:2px solid var(--border)">Primary</th>
 <th style="text-align:left;padding:0.5rem;border-bottom:2px solid var(--border)">Institution</th>
 <th style="text-align:left;padding:0.5rem;border-bottom:2px solid var(--border)">Country</th>
-</tr></thead><tbody>
+</tr></thead>
+<tbody>
 <tr style="border-bottom:1px solid var(--border)">
 <td style="padding:0.4rem 0.5rem">1</td>
-<td style="padding:0.4rem 0.5rem"><strong>Yakov Kuzyakov</strong></td>
+<td style="padding:0.4rem 0.5rem"><a href="/cdr-researcher-census/researchers/yakov-kuzyakov-a5062508/" style="text-decoration:none;color:inherit"><strong>Yakov Kuzyakov</strong></a></td>
 <td style="padding:0.4rem 0.5rem;text-align:center">4</td>
 <td style="padding:0.4rem 0.5rem;text-align:center">482</td>
 <td style="padding:0.4rem 0.5rem"><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#a0d468;color:#2a5e0f">Soil Carbon</span></td>
@@ -234,16 +208,16 @@ These researchers connect the most CDR methods through their co-authorship netwo
 </tr>
 <tr style="border-bottom:1px solid var(--border)">
 <td style="padding:0.4rem 0.5rem">2</td>
-<td style="padding:0.4rem 0.5rem"><strong>Pete Smith</strong></td>
+<td style="padding:0.4rem 0.5rem"><a href="/cdr-researcher-census/researchers/pete-smith-a5028843/" style="text-decoration:none;color:inherit"><strong>Pete Smith</strong></a></td>
 <td style="padding:0.4rem 0.5rem;text-align:center">6</td>
 <td style="padding:0.4rem 0.5rem;text-align:center">193</td>
 <td style="padding:0.4rem 0.5rem"><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#a0d468;color:#2a5e0f">Soil Carbon</span></td>
-<td style="padding:0.4rem 0.5rem;font-size:0.9em">Scotland's Climate Change Centre of Expertise (ClimateXChange)</td>
+<td style="padding:0.4rem 0.5rem;font-size:0.9em">Scotland Clinical Change Centre of Expertise</td>
 <td style="padding:0.4rem 0.5rem">United Kingdom</td>
 </tr>
 <tr style="border-bottom:1px solid var(--border)">
 <td style="padding:0.4rem 0.5rem">3</td>
-<td style="padding:0.4rem 0.5rem"><strong>Josep Peñuelas</strong></td>
+<td style="padding:0.4rem 0.5rem"><a href="/cdr-researcher-census/researchers/josep-penuelas-a5016893/" style="text-decoration:none;color:inherit"><strong>Josep Peñuelas</strong></a></td>
 <td style="padding:0.4rem 0.5rem;text-align:center">5</td>
 <td style="padding:0.4rem 0.5rem;text-align:center">241</td>
 <td style="padding:0.4rem 0.5rem"><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#a0d468;color:#2a5e0f">Soil Carbon</span></td>
@@ -252,7 +226,7 @@ These researchers connect the most CDR methods through their co-authorship netwo
 </tr>
 <tr style="border-bottom:1px solid var(--border)">
 <td style="padding:0.4rem 0.5rem">4</td>
-<td style="padding:0.4rem 0.5rem"><strong>Philippe Ciais</strong></td>
+<td style="padding:0.4rem 0.5rem"><a href="/cdr-researcher-census/researchers/philippe-ciais-a5070378/" style="text-decoration:none;color:inherit"><strong>Philippe Ciais</strong></a></td>
 <td style="padding:0.4rem 0.5rem;text-align:center">5</td>
 <td style="padding:0.4rem 0.5rem;text-align:center">171</td>
 <td style="padding:0.4rem 0.5rem"><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#b39ddb;color:#311b92">General CDR</span></td>
@@ -261,7 +235,7 @@ These researchers connect the most CDR methods through their co-authorship netwo
 </tr>
 <tr style="border-bottom:1px solid var(--border)">
 <td style="padding:0.4rem 0.5rem">5</td>
-<td style="padding:0.4rem 0.5rem"><strong>Phil Renforth</strong></td>
+<td style="padding:0.4rem 0.5rem"><a href="/cdr-researcher-census/researchers/phil-renforth-a5011758/" style="text-decoration:none;color:inherit"><strong>Phil Renforth</strong></a></td>
 <td style="padding:0.4rem 0.5rem;text-align:center">6</td>
 <td style="padding:0.4rem 0.5rem;text-align:center">141</td>
 <td style="padding:0.4rem 0.5rem"><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#b39ddb;color:#311b92">General CDR</span></td>
@@ -270,7 +244,7 @@ These researchers connect the most CDR methods through their co-authorship netwo
 </tr>
 <tr style="border-bottom:1px solid var(--border)">
 <td style="padding:0.4rem 0.5rem">6</td>
-<td style="padding:0.4rem 0.5rem"><strong>Rattan Lal</strong></td>
+<td style="padding:0.4rem 0.5rem"><a href="/cdr-researcher-census/researchers/rattan-lal-a5049890/" style="text-decoration:none;color:inherit"><strong>Rattan Lal</strong></a></td>
 <td style="padding:0.4rem 0.5rem;text-align:center">5</td>
 <td style="padding:0.4rem 0.5rem;text-align:center">153</td>
 <td style="padding:0.4rem 0.5rem"><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#a0d468;color:#2a5e0f">Soil Carbon</span></td>
@@ -279,7 +253,7 @@ These researchers connect the most CDR methods through their co-authorship netwo
 </tr>
 <tr style="border-bottom:1px solid var(--border)">
 <td style="padding:0.4rem 0.5rem">7</td>
-<td style="padding:0.4rem 0.5rem"><strong>Maurício Roberto Cherubin</strong></td>
+<td style="padding:0.4rem 0.5rem"><a href="/cdr-researcher-census/researchers/mauricio-roberto-cherubin-a5047372/" style="text-decoration:none;color:inherit"><strong>Maurício Roberto Cherubin</strong></a></td>
 <td style="padding:0.4rem 0.5rem;text-align:center">4</td>
 <td style="padding:0.4rem 0.5rem;text-align:center">115</td>
 <td style="padding:0.4rem 0.5rem"><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#a0d468;color:#2a5e0f">Soil Carbon</span></td>
@@ -288,7 +262,7 @@ These researchers connect the most CDR methods through their co-authorship netwo
 </tr>
 <tr style="border-bottom:1px solid var(--border)">
 <td style="padding:0.4rem 0.5rem">8</td>
-<td style="padding:0.4rem 0.5rem"><strong>Carlos Eduardo Pellegrino Cerri</strong></td>
+<td style="padding:0.4rem 0.5rem"><a href="/cdr-researcher-census/researchers/carlos-eduardo-pellegrino-cerri-a5082434/" style="text-decoration:none;color:inherit"><strong>Carlos Eduardo Pellegrino Cerri</strong></a></td>
 <td style="padding:0.4rem 0.5rem;text-align:center">5</td>
 <td style="padding:0.4rem 0.5rem;text-align:center">114</td>
 <td style="padding:0.4rem 0.5rem"><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#a0d468;color:#2a5e0f">Soil Carbon</span></td>
@@ -297,7 +271,7 @@ These researchers connect the most CDR methods through their co-authorship netwo
 </tr>
 <tr style="border-bottom:1px solid var(--border)">
 <td style="padding:0.4rem 0.5rem">9</td>
-<td style="padding:0.4rem 0.5rem"><strong>Noah J. Planavsky</strong></td>
+<td style="padding:0.4rem 0.5rem"><a href="/cdr-researcher-census/researchers/noah-j-planavsky-a5031830/" style="text-decoration:none;color:inherit"><strong>Noah J. Planavsky</strong></a></td>
 <td style="padding:0.4rem 0.5rem;text-align:center">6</td>
 <td style="padding:0.4rem 0.5rem;text-align:center">106</td>
 <td style="padding:0.4rem 0.5rem"><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#bcaaa4;color:#3e2723">Enhanced Weathering</span></td>
@@ -306,7 +280,7 @@ These researchers connect the most CDR methods through their co-authorship netwo
 </tr>
 <tr style="border-bottom:1px solid var(--border)">
 <td style="padding:0.4rem 0.5rem">10</td>
-<td style="padding:0.4rem 0.5rem"><strong>Ji Chen</strong></td>
+<td style="padding:0.4rem 0.5rem"><a href="/cdr-researcher-census/researchers/ji-chen-a5100652/" style="text-decoration:none;color:inherit"><strong>Ji Chen</strong></a></td>
 <td style="padding:0.4rem 0.5rem;text-align:center">4</td>
 <td style="padding:0.4rem 0.5rem;text-align:center">167</td>
 <td style="padding:0.4rem 0.5rem"><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#a0d468;color:#2a5e0f">Soil Carbon</span></td>
@@ -315,7 +289,7 @@ These researchers connect the most CDR methods through their co-authorship netwo
 </tr>
 <tr style="border-bottom:1px solid var(--border)">
 <td style="padding:0.4rem 0.5rem">11</td>
-<td style="padding:0.4rem 0.5rem"><strong>David J. Beerling</strong></td>
+<td style="padding:0.4rem 0.5rem"><a href="/cdr-researcher-census/researchers/david-j-beerling-a5073877/" style="text-decoration:none;color:inherit"><strong>David J. Beerling</strong></a></td>
 <td style="padding:0.4rem 0.5rem;text-align:center">4</td>
 <td style="padding:0.4rem 0.5rem;text-align:center">141</td>
 <td style="padding:0.4rem 0.5rem"><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#bcaaa4;color:#3e2723">Enhanced Weathering</span></td>
@@ -324,7 +298,7 @@ These researchers connect the most CDR methods through their co-authorship netwo
 </tr>
 <tr style="border-bottom:1px solid var(--border)">
 <td style="padding:0.4rem 0.5rem">12</td>
-<td style="padding:0.4rem 0.5rem"><strong>Kadambot H. M. Siddique</strong></td>
+<td style="padding:0.4rem 0.5rem"><a href="/cdr-researcher-census/researchers/kadambot-h-m-siddique-a5082109/" style="text-decoration:none;color:inherit"><strong>Kadambot H. M. Siddique</strong></a></td>
 <td style="padding:0.4rem 0.5rem;text-align:center">4</td>
 <td style="padding:0.4rem 0.5rem;text-align:center">131</td>
 <td style="padding:0.4rem 0.5rem"><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#a0d468;color:#2a5e0f">Soil Carbon</span></td>
@@ -333,7 +307,7 @@ These researchers connect the most CDR methods through their co-authorship netwo
 </tr>
 <tr style="border-bottom:1px solid var(--border)">
 <td style="padding:0.4rem 0.5rem">13</td>
-<td style="padding:0.4rem 0.5rem"><strong>Lennart T. Bach</strong></td>
+<td style="padding:0.4rem 0.5rem"><a href="/cdr-researcher-census/researchers/lennart-t-bach-a5044360/" style="text-decoration:none;color:inherit"><strong>Lennart T. Bach</strong></a></td>
 <td style="padding:0.4rem 0.5rem;text-align:center">3</td>
 <td style="padding:0.4rem 0.5rem;text-align:center">74</td>
 <td style="padding:0.4rem 0.5rem"><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#4dd0e1;color:#004d40">Ocean CDR</span></td>
@@ -342,7 +316,7 @@ These researchers connect the most CDR methods through their co-authorship netwo
 </tr>
 <tr style="border-bottom:1px solid var(--border)">
 <td style="padding:0.4rem 0.5rem">14</td>
-<td style="padding:0.4rem 0.5rem"><strong>Chao Liang</strong></td>
+<td style="padding:0.4rem 0.5rem"><a href="/cdr-researcher-census/researchers/chao-liang-a5019539/" style="text-decoration:none;color:inherit"><strong>Chao Liang</strong></a></td>
 <td style="padding:0.4rem 0.5rem;text-align:center">3</td>
 <td style="padding:0.4rem 0.5rem;text-align:center">143</td>
 <td style="padding:0.4rem 0.5rem"><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#a0d468;color:#2a5e0f">Soil Carbon</span></td>
@@ -351,7 +325,7 @@ These researchers connect the most CDR methods through their co-authorship netwo
 </tr>
 <tr style="border-bottom:1px solid var(--border)">
 <td style="padding:0.4rem 0.5rem">15</td>
-<td style="padding:0.4rem 0.5rem"><strong>Ulf Riebesell</strong></td>
+<td style="padding:0.4rem 0.5rem"><a href="/cdr-researcher-census/researchers/ulf-riebesell-a5005675/" style="text-decoration:none;color:inherit"><strong>Ulf Riebesell</strong></a></td>
 <td style="padding:0.4rem 0.5rem;text-align:center">3</td>
 <td style="padding:0.4rem 0.5rem;text-align:center">98</td>
 <td style="padding:0.4rem 0.5rem"><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#4dd0e1;color:#004d40">Ocean CDR</span></td>
@@ -360,16 +334,16 @@ These researchers connect the most CDR methods through their co-authorship netwo
 </tr>
 <tr style="border-bottom:1px solid var(--border)">
 <td style="padding:0.4rem 0.5rem">16</td>
-<td style="padding:0.4rem 0.5rem"><strong>Ondřej Mašek</strong></td>
+<td style="padding:0.4rem 0.5rem"><a href="/cdr-researcher-census/researchers/ondrej-masek-a5087096/" style="text-decoration:none;color:inherit"><strong>Ondřej Mašek</strong></a></td>
 <td style="padding:0.4rem 0.5rem;text-align:center">6</td>
 <td style="padding:0.4rem 0.5rem;text-align:center">92</td>
-<td style="padding:0.4rem 0.5rem"><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#6d4c41;color:#fff">Biochar</span></td>
+<td style="padding:0.4rem 0.5rem"><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#8d6e63;color:#3e2723">Biochar</span></td>
 <td style="padding:0.4rem 0.5rem;font-size:0.9em">University of Edinburgh</td>
 <td style="padding:0.4rem 0.5rem">United Kingdom</td>
 </tr>
 <tr style="border-bottom:1px solid var(--border)">
 <td style="padding:0.4rem 0.5rem">17</td>
-<td style="padding:0.4rem 0.5rem"><strong>Jordi Sardans</strong></td>
+<td style="padding:0.4rem 0.5rem"><a href="/cdr-researcher-census/researchers/jordi-sardans-a5061849/" style="text-decoration:none;color:inherit"><strong>Jordi Sardans</strong></a></td>
 <td style="padding:0.4rem 0.5rem;text-align:center">5</td>
 <td style="padding:0.4rem 0.5rem;text-align:center">165</td>
 <td style="padding:0.4rem 0.5rem"><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#a0d468;color:#2a5e0f">Soil Carbon</span></td>
@@ -378,7 +352,7 @@ These researchers connect the most CDR methods through their co-authorship netwo
 </tr>
 <tr style="border-bottom:1px solid var(--border)">
 <td style="padding:0.4rem 0.5rem">18</td>
-<td style="padding:0.4rem 0.5rem"><strong>Andreas Oschlies</strong></td>
+<td style="padding:0.4rem 0.5rem"><a href="/cdr-researcher-census/researchers/andreas-oschlies-a5063745/" style="text-decoration:none;color:inherit"><strong>Andreas Oschlies</strong></a></td>
 <td style="padding:0.4rem 0.5rem;text-align:center">4</td>
 <td style="padding:0.4rem 0.5rem;text-align:center">101</td>
 <td style="padding:0.4rem 0.5rem"><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#b39ddb;color:#311b92">General CDR</span></td>
@@ -387,7 +361,7 @@ These researchers connect the most CDR methods through their co-authorship netwo
 </tr>
 <tr style="border-bottom:1px solid var(--border)">
 <td style="padding:0.4rem 0.5rem">19</td>
-<td style="padding:0.4rem 0.5rem"><strong>Rajan Ghimire</strong></td>
+<td style="padding:0.4rem 0.5rem"><a href="/cdr-researcher-census/researchers/rajan-ghimire-a5049277/" style="text-decoration:none;color:inherit"><strong>Rajan Ghimire</strong></a></td>
 <td style="padding:0.4rem 0.5rem;text-align:center">4</td>
 <td style="padding:0.4rem 0.5rem;text-align:center">59</td>
 <td style="padding:0.4rem 0.5rem"><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#a0d468;color:#2a5e0f">Soil Carbon</span></td>
@@ -396,7 +370,7 @@ These researchers connect the most CDR methods through their co-authorship netwo
 </tr>
 <tr style="border-bottom:1px solid var(--border)">
 <td style="padding:0.4rem 0.5rem">20</td>
-<td style="padding:0.4rem 0.5rem"><strong>Jens Hartmann</strong></td>
+<td style="padding:0.4rem 0.5rem"><a href="/cdr-researcher-census/researchers/jens-hartmann-a5019869/" style="text-decoration:none;color:inherit"><strong>Jens Hartmann</strong></a></td>
 <td style="padding:0.4rem 0.5rem;text-align:center">6</td>
 <td style="padding:0.4rem 0.5rem;text-align:center">130</td>
 <td style="padding:0.4rem 0.5rem"><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#bcaaa4;color:#3e2723">Enhanced Weathering</span></td>
@@ -405,7 +379,7 @@ These researchers connect the most CDR methods through their co-authorship netwo
 </tr>
 <tr style="border-bottom:1px solid var(--border)">
 <td style="padding:0.4rem 0.5rem">21</td>
-<td style="padding:0.4rem 0.5rem"><strong>Yiqi Luo</strong></td>
+<td style="padding:0.4rem 0.5rem"><a href="/cdr-researcher-census/researchers/yiqi-luo-a5068115/" style="text-decoration:none;color:inherit"><strong>Yiqi Luo</strong></a></td>
 <td style="padding:0.4rem 0.5rem;text-align:center">3</td>
 <td style="padding:0.4rem 0.5rem;text-align:center">140</td>
 <td style="padding:0.4rem 0.5rem"><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#a0d468;color:#2a5e0f">Soil Carbon</span></td>
@@ -414,7 +388,7 @@ These researchers connect the most CDR methods through their co-authorship netwo
 </tr>
 <tr style="border-bottom:1px solid var(--border)">
 <td style="padding:0.4rem 0.5rem">22</td>
-<td style="padding:0.4rem 0.5rem"><strong>Ryan P. Lively</strong></td>
+<td style="padding:0.4rem 0.5rem"><a href="/cdr-researcher-census/researchers/ryan-p-lively-a5021581/" style="text-decoration:none;color:inherit"><strong>Ryan P. Lively</strong></a></td>
 <td style="padding:0.4rem 0.5rem;text-align:center">3</td>
 <td style="padding:0.4rem 0.5rem;text-align:center">67</td>
 <td style="padding:0.4rem 0.5rem"><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#b39ddb;color:#311b92">General CDR</span></td>
@@ -423,7 +397,7 @@ These researchers connect the most CDR methods through their co-authorship netwo
 </tr>
 <tr style="border-bottom:1px solid var(--border)">
 <td style="padding:0.4rem 0.5rem">23</td>
-<td style="padding:0.4rem 0.5rem"><strong>Christopher W. Jones</strong></td>
+<td style="padding:0.4rem 0.5rem"><a href="/cdr-researcher-census/researchers/christopher-w-jones-a5052807/" style="text-decoration:none;color:inherit"><strong>Christopher W. Jones</strong></a></td>
 <td style="padding:0.4rem 0.5rem;text-align:center">2</td>
 <td style="padding:0.4rem 0.5rem;text-align:center">65</td>
 <td style="padding:0.4rem 0.5rem"><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#b39ddb;color:#311b92">General CDR</span></td>
@@ -432,7 +406,7 @@ These researchers connect the most CDR methods through their co-authorship netwo
 </tr>
 <tr style="border-bottom:1px solid var(--border)">
 <td style="padding:0.4rem 0.5rem">24</td>
-<td style="padding:0.4rem 0.5rem"><strong>Zhouping Shangguan</strong></td>
+<td style="padding:0.4rem 0.5rem"><a href="/cdr-researcher-census/researchers/zhouping-shangguan-a5071526/" style="text-decoration:none;color:inherit"><strong>Zhouping Shangguan</strong></a></td>
 <td style="padding:0.4rem 0.5rem;text-align:center">3</td>
 <td style="padding:0.4rem 0.5rem;text-align:center">72</td>
 <td style="padding:0.4rem 0.5rem"><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#a0d468;color:#2a5e0f">Soil Carbon</span></td>
@@ -441,7 +415,7 @@ These researchers connect the most CDR methods through their co-authorship netwo
 </tr>
 <tr style="border-bottom:1px solid var(--border)">
 <td style="padding:0.4rem 0.5rem">25</td>
-<td style="padding:0.4rem 0.5rem"><strong>Matthew J. Realff</strong></td>
+<td style="padding:0.4rem 0.5rem"><a href="/cdr-researcher-census/researchers/matthew-j-realff-a5078923/" style="text-decoration:none;color:inherit"><strong>Matthew J. Realff</strong></a></td>
 <td style="padding:0.4rem 0.5rem;text-align:center">3</td>
 <td style="padding:0.4rem 0.5rem;text-align:center">69</td>
 <td style="padding:0.4rem 0.5rem"><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#b39ddb;color:#311b92">General CDR</span></td>
@@ -450,7 +424,7 @@ These researchers connect the most CDR methods through their co-authorship netwo
 </tr>
 <tr style="border-bottom:1px solid var(--border)">
 <td style="padding:0.4rem 0.5rem">26</td>
-<td style="padding:0.4rem 0.5rem"><strong>Axel Don</strong></td>
+<td style="padding:0.4rem 0.5rem"><a href="/cdr-researcher-census/researchers/axel-don-a5040614/" style="text-decoration:none;color:inherit"><strong>Axel Don</strong></a></td>
 <td style="padding:0.4rem 0.5rem;text-align:center">4</td>
 <td style="padding:0.4rem 0.5rem;text-align:center">79</td>
 <td style="padding:0.4rem 0.5rem"><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#a0d468;color:#2a5e0f">Soil Carbon</span></td>
@@ -459,7 +433,7 @@ These researchers connect the most CDR methods through their co-authorship netwo
 </tr>
 <tr style="border-bottom:1px solid var(--border)">
 <td style="padding:0.4rem 0.5rem">27</td>
-<td style="padding:0.4rem 0.5rem"><strong>Scott X. Chang</strong></td>
+<td style="padding:0.4rem 0.5rem"><a href="/cdr-researcher-census/researchers/scott-x-chang-a5086611/" style="text-decoration:none;color:inherit"><strong>Scott X. Chang</strong></a></td>
 <td style="padding:0.4rem 0.5rem;text-align:center">6</td>
 <td style="padding:0.4rem 0.5rem;text-align:center">99</td>
 <td style="padding:0.4rem 0.5rem"><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#a0d468;color:#2a5e0f">Soil Carbon</span></td>
@@ -468,7 +442,7 @@ These researchers connect the most CDR methods through their co-authorship netwo
 </tr>
 <tr style="border-bottom:1px solid var(--border)">
 <td style="padding:0.4rem 0.5rem">28</td>
-<td style="padding:0.4rem 0.5rem"><strong>Tida Ge</strong></td>
+<td style="padding:0.4rem 0.5rem"><a href="/cdr-researcher-census/researchers/tida-ge-a5076632/" style="text-decoration:none;color:inherit"><strong>Tida Ge</strong></a></td>
 <td style="padding:0.4rem 0.5rem;text-align:center">1</td>
 <td style="padding:0.4rem 0.5rem;text-align:center">112</td>
 <td style="padding:0.4rem 0.5rem"><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#a0d468;color:#2a5e0f">Soil Carbon</span></td>
@@ -477,7 +451,7 @@ These researchers connect the most CDR methods through their co-authorship netwo
 </tr>
 <tr style="border-bottom:1px solid var(--border)">
 <td style="padding:0.4rem 0.5rem">29</td>
-<td style="padding:0.4rem 0.5rem"><strong>Peng Li</strong></td>
+<td style="padding:0.4rem 0.5rem"><a href="/cdr-researcher-census/researchers/peng-li-a5100432/" style="text-decoration:none;color:inherit"><strong>Peng Li</strong></a></td>
 <td style="padding:0.4rem 0.5rem;text-align:center">3</td>
 <td style="padding:0.4rem 0.5rem;text-align:center">75</td>
 <td style="padding:0.4rem 0.5rem"><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#a0d468;color:#2a5e0f">Soil Carbon</span></td>
@@ -486,7 +460,7 @@ These researchers connect the most CDR methods through their co-authorship netwo
 </tr>
 <tr style="border-bottom:1px solid var(--border)">
 <td style="padding:0.4rem 0.5rem">30</td>
-<td style="padding:0.4rem 0.5rem"><strong>Manuel Delgado‐Baquerizo</strong></td>
+<td style="padding:0.4rem 0.5rem"><a href="/cdr-researcher-census/researchers/manuel-delgadobaquerizo-a5090300/" style="text-decoration:none;color:inherit"><strong>Manuel Delgado‐Baquerizo</strong></a></td>
 <td style="padding:0.4rem 0.5rem;text-align:center">3</td>
 <td style="padding:0.4rem 0.5rem;text-align:center">135</td>
 <td style="padding:0.4rem 0.5rem"><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#a0d468;color:#2a5e0f">Soil Carbon</span></td>
@@ -495,7 +469,7 @@ These researchers connect the most CDR methods through their co-authorship netwo
 </tr>
 <tr style="border-bottom:1px solid var(--border)">
 <td style="padding:0.4rem 0.5rem">31</td>
-<td style="padding:0.4rem 0.5rem"><strong>Christopher T. Reinhard</strong></td>
+<td style="padding:0.4rem 0.5rem"><a href="/cdr-researcher-census/researchers/christopher-t-reinhard-a5061963/" style="text-decoration:none;color:inherit"><strong>Christopher T. Reinhard</strong></a></td>
 <td style="padding:0.4rem 0.5rem;text-align:center">3</td>
 <td style="padding:0.4rem 0.5rem;text-align:center">62</td>
 <td style="padding:0.4rem 0.5rem"><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#b39ddb;color:#311b92">General CDR</span></td>
@@ -504,7 +478,7 @@ These researchers connect the most CDR methods through their co-authorship netwo
 </tr>
 <tr style="border-bottom:1px solid var(--border)">
 <td style="padding:0.4rem 0.5rem">32</td>
-<td style="padding:0.4rem 0.5rem"><strong>Han Y. H. Chen</strong></td>
+<td style="padding:0.4rem 0.5rem"><a href="/cdr-researcher-census/researchers/han-y-h-chen-a5100734/" style="text-decoration:none;color:inherit"><strong>Han Y. H. Chen</strong></a></td>
 <td style="padding:0.4rem 0.5rem;text-align:center">3</td>
 <td style="padding:0.4rem 0.5rem;text-align:center">89</td>
 <td style="padding:0.4rem 0.5rem"><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#a0d468;color:#2a5e0f">Soil Carbon</span></td>
@@ -513,7 +487,7 @@ These researchers connect the most CDR methods through their co-authorship netwo
 </tr>
 <tr style="border-bottom:1px solid var(--border)">
 <td style="padding:0.4rem 0.5rem">33</td>
-<td style="padding:0.4rem 0.5rem"><strong>Sara Vicca</strong></td>
+<td style="padding:0.4rem 0.5rem"><a href="/cdr-researcher-census/researchers/sara-vicca-a5006929/" style="text-decoration:none;color:inherit"><strong>Sara Vicca</strong></a></td>
 <td style="padding:0.4rem 0.5rem;text-align:center">5</td>
 <td style="padding:0.4rem 0.5rem;text-align:center">96</td>
 <td style="padding:0.4rem 0.5rem"><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#bcaaa4;color:#3e2723">Enhanced Weathering</span></td>
@@ -522,7 +496,7 @@ These researchers connect the most CDR methods through their co-authorship netwo
 </tr>
 <tr style="border-bottom:1px solid var(--border)">
 <td style="padding:0.4rem 0.5rem">34</td>
-<td style="padding:0.4rem 0.5rem"><strong>Haishui Yang</strong></td>
+<td style="padding:0.4rem 0.5rem"><a href="/cdr-researcher-census/researchers/haishui-yang-a5026336/" style="text-decoration:none;color:inherit"><strong>Haishui Yang</strong></a></td>
 <td style="padding:0.4rem 0.5rem;text-align:center">3</td>
 <td style="padding:0.4rem 0.5rem;text-align:center">92</td>
 <td style="padding:0.4rem 0.5rem"><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#a0d468;color:#2a5e0f">Soil Carbon</span></td>
@@ -531,7 +505,7 @@ These researchers connect the most CDR methods through their co-authorship netwo
 </tr>
 <tr style="border-bottom:1px solid var(--border)">
 <td style="padding:0.4rem 0.5rem">35</td>
-<td style="padding:0.4rem 0.5rem"><strong>Roland Bol</strong></td>
+<td style="padding:0.4rem 0.5rem"><a href="/cdr-researcher-census/researchers/roland-bol-a5029408/" style="text-decoration:none;color:inherit"><strong>Roland Bol</strong></a></td>
 <td style="padding:0.4rem 0.5rem;text-align:center">3</td>
 <td style="padding:0.4rem 0.5rem;text-align:center">92</td>
 <td style="padding:0.4rem 0.5rem"><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#a0d468;color:#2a5e0f">Soil Carbon</span></td>
@@ -540,7 +514,7 @@ These researchers connect the most CDR methods through their co-authorship netwo
 </tr>
 <tr style="border-bottom:1px solid var(--border)">
 <td style="padding:0.4rem 0.5rem">36</td>
-<td style="padding:0.4rem 0.5rem"><strong>Nanthi Bolan</strong></td>
+<td style="padding:0.4rem 0.5rem"><a href="/cdr-researcher-census/researchers/nanthi-bolan-a5007065/" style="text-decoration:none;color:inherit"><strong>Nanthi Bolan</strong></a></td>
 <td style="padding:0.4rem 0.5rem;text-align:center">4</td>
 <td style="padding:0.4rem 0.5rem;text-align:center">82</td>
 <td style="padding:0.4rem 0.5rem"><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#a0d468;color:#2a5e0f">Soil Carbon</span></td>
@@ -549,7 +523,7 @@ These researchers connect the most CDR methods through their co-authorship netwo
 </tr>
 <tr style="border-bottom:1px solid var(--border)">
 <td style="padding:0.4rem 0.5rem">37</td>
-<td style="padding:0.4rem 0.5rem"><strong>Minggang Xu</strong></td>
+<td style="padding:0.4rem 0.5rem"><a href="/cdr-researcher-census/researchers/minggang-xu-a5101588/" style="text-decoration:none;color:inherit"><strong>Minggang Xu</strong></a></td>
 <td style="padding:0.4rem 0.5rem;text-align:center">3</td>
 <td style="padding:0.4rem 0.5rem;text-align:center">83</td>
 <td style="padding:0.4rem 0.5rem"><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#a0d468;color:#2a5e0f">Soil Carbon</span></td>
@@ -558,7 +532,7 @@ These researchers connect the most CDR methods through their co-authorship netwo
 </tr>
 <tr style="border-bottom:1px solid var(--border)">
 <td style="padding:0.4rem 0.5rem">38</td>
-<td style="padding:0.4rem 0.5rem"><strong>Jens Leifeld</strong></td>
+<td style="padding:0.4rem 0.5rem"><a href="/cdr-researcher-census/researchers/jens-leifeld-a5078135/" style="text-decoration:none;color:inherit"><strong>Jens Leifeld</strong></a></td>
 <td style="padding:0.4rem 0.5rem;text-align:center">4</td>
 <td style="padding:0.4rem 0.5rem;text-align:center">82</td>
 <td style="padding:0.4rem 0.5rem"><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#b39ddb;color:#311b92">General CDR</span></td>
@@ -567,7 +541,7 @@ These researchers connect the most CDR methods through their co-authorship netwo
 </tr>
 <tr style="border-bottom:1px solid var(--border)">
 <td style="padding:0.4rem 0.5rem">39</td>
-<td style="padding:0.4rem 0.5rem"><strong>Lukas Van Zwieten</strong></td>
+<td style="padding:0.4rem 0.5rem"><a href="/cdr-researcher-census/researchers/lukas-van-zwieten-a5021650/" style="text-decoration:none;color:inherit"><strong>Lukas Van Zwieten</strong></a></td>
 <td style="padding:0.4rem 0.5rem;text-align:center">3</td>
 <td style="padding:0.4rem 0.5rem;text-align:center">112</td>
 <td style="padding:0.4rem 0.5rem"><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#a0d468;color:#2a5e0f">Soil Carbon</span></td>
@@ -576,7 +550,7 @@ These researchers connect the most CDR methods through their co-authorship netwo
 </tr>
 <tr style="border-bottom:1px solid var(--border)">
 <td style="padding:0.4rem 0.5rem">40</td>
-<td style="padding:0.4rem 0.5rem"><strong>Davey L. Jones</strong></td>
+<td style="padding:0.4rem 0.5rem"><a href="/cdr-researcher-census/researchers/davey-l-jones-a5064381/" style="text-decoration:none;color:inherit"><strong>Davey L. Jones</strong></a></td>
 <td style="padding:0.4rem 0.5rem;text-align:center">4</td>
 <td style="padding:0.4rem 0.5rem;text-align:center">86</td>
 <td style="padding:0.4rem 0.5rem"><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#a0d468;color:#2a5e0f">Soil Carbon</span></td>
@@ -585,7 +559,7 @@ These researchers connect the most CDR methods through their co-authorship netwo
 </tr>
 <tr style="border-bottom:1px solid var(--border)">
 <td style="padding:0.4rem 0.5rem">41</td>
-<td style="padding:0.4rem 0.5rem"><strong>Ian Power</strong></td>
+<td style="padding:0.4rem 0.5rem"><a href="/cdr-researcher-census/researchers/ian-power-a5058336/" style="text-decoration:none;color:inherit"><strong>Ian Power</strong></a></td>
 <td style="padding:0.4rem 0.5rem;text-align:center">4</td>
 <td style="padding:0.4rem 0.5rem;text-align:center">52</td>
 <td style="padding:0.4rem 0.5rem"><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#bcaaa4;color:#3e2723">Enhanced Weathering</span></td>
@@ -594,7 +568,7 @@ These researchers connect the most CDR methods through their co-authorship netwo
 </tr>
 <tr style="border-bottom:1px solid var(--border)">
 <td style="padding:0.4rem 0.5rem">42</td>
-<td style="padding:0.4rem 0.5rem"><strong>Jay Fuhrman</strong></td>
+<td style="padding:0.4rem 0.5rem"><a href="/cdr-researcher-census/researchers/jay-fuhrman-a5034052/" style="text-decoration:none;color:inherit"><strong>Jay Fuhrman</strong></a></td>
 <td style="padding:0.4rem 0.5rem;text-align:center">4</td>
 <td style="padding:0.4rem 0.5rem;text-align:center">87</td>
 <td style="padding:0.4rem 0.5rem"><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#b39ddb;color:#311b92">General CDR</span></td>
@@ -603,7 +577,7 @@ These researchers connect the most CDR methods through their co-authorship netwo
 </tr>
 <tr style="border-bottom:1px solid var(--border)">
 <td style="padding:0.4rem 0.5rem">43</td>
-<td style="padding:0.4rem 0.5rem"><strong>Yunting Fang</strong></td>
+<td style="padding:0.4rem 0.5rem"><a href="/cdr-researcher-census/researchers/yunting-fang-a5012369/" style="text-decoration:none;color:inherit"><strong>Yunting Fang</strong></a></td>
 <td style="padding:0.4rem 0.5rem;text-align:center">4</td>
 <td style="padding:0.4rem 0.5rem;text-align:center">108</td>
 <td style="padding:0.4rem 0.5rem"><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#a0d468;color:#2a5e0f">Soil Carbon</span></td>
@@ -612,7 +586,7 @@ These researchers connect the most CDR methods through their co-authorship netwo
 </tr>
 <tr style="border-bottom:1px solid var(--border)">
 <td style="padding:0.4rem 0.5rem">44</td>
-<td style="padding:0.4rem 0.5rem"><strong>Qaiser Hussain</strong></td>
+<td style="padding:0.4rem 0.5rem"><a href="/cdr-researcher-census/researchers/qaiser-hussain-a5042485/" style="text-decoration:none;color:inherit"><strong>Qaiser Hussain</strong></a></td>
 <td style="padding:0.4rem 0.5rem;text-align:center">4</td>
 <td style="padding:0.4rem 0.5rem;text-align:center">78</td>
 <td style="padding:0.4rem 0.5rem"><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#a0d468;color:#2a5e0f">Soil Carbon</span></td>
@@ -621,7 +595,7 @@ These researchers connect the most CDR methods through their co-authorship netwo
 </tr>
 <tr style="border-bottom:1px solid var(--border)">
 <td style="padding:0.4rem 0.5rem">45</td>
-<td style="padding:0.4rem 0.5rem"><strong>Raymond R. Tan</strong></td>
+<td style="padding:0.4rem 0.5rem"><a href="/cdr-researcher-census/researchers/raymond-r-tan-a5016388/" style="text-decoration:none;color:inherit"><strong>Raymond R. Tan</strong></a></td>
 <td style="padding:0.4rem 0.5rem;text-align:center">4</td>
 <td style="padding:0.4rem 0.5rem;text-align:center">39</td>
 <td style="padding:0.4rem 0.5rem"><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#b39ddb;color:#311b92">General CDR</span></td>
@@ -630,7 +604,7 @@ These researchers connect the most CDR methods through their co-authorship netwo
 </tr>
 <tr style="border-bottom:1px solid var(--border)">
 <td style="padding:0.4rem 0.5rem">46</td>
-<td style="padding:0.4rem 0.5rem"><strong>Radu Custelcean</strong></td>
+<td style="padding:0.4rem 0.5rem"><a href="/cdr-researcher-census/researchers/radu-custelcean-a5064099/" style="text-decoration:none;color:inherit"><strong>Radu Custelcean</strong></a></td>
 <td style="padding:0.4rem 0.5rem;text-align:center">2</td>
 <td style="padding:0.4rem 0.5rem;text-align:center">51</td>
 <td style="padding:0.4rem 0.5rem"><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#b39ddb;color:#311b92">General CDR</span></td>
@@ -639,7 +613,7 @@ These researchers connect the most CDR methods through their co-authorship netwo
 </tr>
 <tr style="border-bottom:1px solid var(--border)">
 <td style="padding:0.4rem 0.5rem">47</td>
-<td style="padding:0.4rem 0.5rem"><strong>Hai‐Lin Zhang</strong></td>
+<td style="padding:0.4rem 0.5rem"><a href="/cdr-researcher-census/researchers/hailin-zhang-a5040808/" style="text-decoration:none;color:inherit"><strong>Hai‐Lin Zhang</strong></a></td>
 <td style="padding:0.4rem 0.5rem;text-align:center">2</td>
 <td style="padding:0.4rem 0.5rem;text-align:center">56</td>
 <td style="padding:0.4rem 0.5rem"><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#a0d468;color:#2a5e0f">Soil Carbon</span></td>
@@ -648,7 +622,7 @@ These researchers connect the most CDR methods through their co-authorship netwo
 </tr>
 <tr style="border-bottom:1px solid var(--border)">
 <td style="padding:0.4rem 0.5rem">48</td>
-<td style="padding:0.4rem 0.5rem"><strong>Jinshui Wu</strong></td>
+<td style="padding:0.4rem 0.5rem"><a href="/cdr-researcher-census/researchers/jinshui-wu-a5103718/" style="text-decoration:none;color:inherit"><strong>Jinshui Wu</strong></a></td>
 <td style="padding:0.4rem 0.5rem;text-align:center">3</td>
 <td style="padding:0.4rem 0.5rem;text-align:center">89</td>
 <td style="padding:0.4rem 0.5rem"><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#a0d468;color:#2a5e0f">Soil Carbon</span></td>
@@ -657,7 +631,7 @@ These researchers connect the most CDR methods through their co-authorship netwo
 </tr>
 <tr style="border-bottom:1px solid var(--border)">
 <td style="padding:0.4rem 0.5rem">49</td>
-<td style="padding:0.4rem 0.5rem"><strong>David P. Keller</strong></td>
+<td style="padding:0.4rem 0.5rem"><a href="/cdr-researcher-census/researchers/david-p-keller-a5068205/" style="text-decoration:none;color:inherit"><strong>David P. Keller</strong></a></td>
 <td style="padding:0.4rem 0.5rem;text-align:center">3</td>
 <td style="padding:0.4rem 0.5rem;text-align:center">83</td>
 <td style="padding:0.4rem 0.5rem"><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#b39ddb;color:#311b92">General CDR</span></td>
@@ -666,7 +640,7 @@ These researchers connect the most CDR methods through their co-authorship netwo
 </tr>
 <tr style="border-bottom:1px solid var(--border)">
 <td style="padding:0.4rem 0.5rem">50</td>
-<td style="padding:0.4rem 0.5rem"><strong>Haewon McJeon</strong></td>
+<td style="padding:0.4rem 0.5rem"><a href="/cdr-researcher-census/researchers/haewon-mcjeon-a5062879/" style="text-decoration:none;color:inherit"><strong>Haewon McJeon</strong></a></td>
 <td style="padding:0.4rem 0.5rem;text-align:center">3</td>
 <td style="padding:0.4rem 0.5rem;text-align:center">101</td>
 <td style="padding:0.4rem 0.5rem"><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#b39ddb;color:#311b92">General CDR</span></td>
@@ -675,264 +649,284 @@ These researchers connect the most CDR methods through their co-authorship netwo
 </tr>
 </tbody></table></div>
 
-## 🏘️ Research Communities
+---
 
-Louvain community detection found **115 distinct research clusters**. Here are the 20 largest — each with a dominant CDR method, country, and institution.
+## 🌐 Research Communities by CDR Method
+
+The 115 detected communities, grouped by dominant pathway. Each cluster represents researchers who frequently co-author together, revealing natural research subfields within CDR.
+
+## Soil Carbon
 
 <div style="background:var(--code-bg);border-radius:8px;padding:1rem 1.2rem;margin:0.8rem 0">
-<h3 style="margin:0 0 0.4rem 0;font-size:1em">Community 1: Soil Carbon cluster (1,498 researchers)</h3>
+<h3 style="margin:0 0 0.4rem 0;font-size:0.95em">Community 14: Soil Carbon (1,800 researchers)</h3>
 <div style="display:flex;flex-wrap:wrap;gap:1.2rem;font-size:0.88em;color:var(--secondary)">
-<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#a0d468;color:#2a5e0f">Soil Carbon</span> <strong>68%</strong></span>
-<span>🌍 <strong>India</strong> (72%)</span>
-<span>🏛️ <strong>Indian Agricultural Research Institute</strong></span>
+<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.75em;font-weight:600;background:#a0d468;color:#2a5e0f">Soil Carbon</span> <strong>68%</strong></span>
+<span>🌍 <strong>IN</strong></span>
+<span>🏛️ <strong style="font-size:0.9em">Indian Agricultural Research Institute</strong></span>
 </div>
-<div style="margin-top:0.4rem;font-size:0.82em;color:var(--secondary)">Top: Avijit Ghosh, Ram Swaroop Meena, Vishnu D. Rajput, Amit Kumar, Ashim Datta</div>
+<div style="margin-top:0.4rem;font-size:0.82em;color:var(--secondary)">Top researchers: Ram Swaroop Meena, Avijit Ghosh, M.L. Jat, Manoj Kumar Jhariya, Arun Jyoti Nath</div>
 </div>
 <div style="background:var(--code-bg);border-radius:8px;padding:1rem 1.2rem;margin:0.8rem 0">
-<h3 style="margin:0 0 0.4rem 0;font-size:1em">Community 2: Soil Carbon cluster (829 researchers)</h3>
+<h3 style="margin:0 0 0.4rem 0;font-size:0.95em">Community 11: Soil Carbon (1,191 researchers)</h3>
 <div style="display:flex;flex-wrap:wrap;gap:1.2rem;font-size:0.88em;color:var(--secondary)">
-<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#a0d468;color:#2a5e0f">Soil Carbon</span> <strong>68%</strong></span>
-<span>🌍 <strong>China</strong> (74%)</span>
-<span>🏛️ <strong>Chinese Academy of Sciences</strong></span>
+<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.75em;font-weight:600;background:#a0d468;color:#2a5e0f">Soil Carbon</span> <strong>79%</strong></span>
+<span>🌍 <strong>CN</strong></span>
+<span>🏛️ <strong style="font-size:0.9em">Chinese Academy of Sciences</strong></span>
 </div>
-<div style="margin-top:0.4rem;font-size:0.82em;color:var(--secondary)">Top: Josep Peñuelas, Jordi Sardans, Tida Ge, Lukas Van Zwieten, Jinshui Wu</div>
+<div style="margin-top:0.4rem;font-size:0.82em;color:var(--secondary)">Top researchers: Yakov Kuzyakov, Chao Liang, Tida Ge, Jinshui Wu, Baorong Wang</div>
 </div>
 <div style="background:var(--code-bg);border-radius:8px;padding:1rem 1.2rem;margin:0.8rem 0">
-<h3 style="margin:0 0 0.4rem 0;font-size:1em">Community 3: General CDR cluster (800 researchers)</h3>
+<h3 style="margin:0 0 0.4rem 0;font-size:0.95em">Community 12: Soil Carbon (1,094 researchers)</h3>
 <div style="display:flex;flex-wrap:wrap;gap:1.2rem;font-size:0.88em;color:var(--secondary)">
-<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#b39ddb;color:#311b92">General CDR</span> <strong>42%</strong></span>
-<span>🌍 <strong>Germany</strong> (19%)</span>
-<span>🏛️ <strong>GEOMAR Helmholtz Centre for Ocean Research Kiel</strong></span>
+<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.75em;font-weight:600;background:#a0d468;color:#2a5e0f">Soil Carbon</span> <strong>66%</strong></span>
+<span>🌍 <strong>CN</strong></span>
+<span>🏛️ <strong style="font-size:0.9em">Chinese Academy of Sciences</strong></span>
 </div>
-<div style="margin-top:0.4rem;font-size:0.82em;color:var(--secondary)">Top: Lennart T. Bach, Ulf Riebesell, Andreas Oschlies, Jens Hartmann, Sara Vicca</div>
-</div>
-<div style="background:var(--code-bg);border-radius:8px;padding:1rem 1.2rem;margin:0.8rem 0">
-<h3 style="margin:0 0 0.4rem 0;font-size:1em">Community 4: Soil Carbon cluster (776 researchers)</h3>
-<div style="display:flex;flex-wrap:wrap;gap:1.2rem;font-size:0.88em;color:var(--secondary)">
-<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#a0d468;color:#2a5e0f">Soil Carbon</span> <strong>87%</strong></span>
-<span>🌍 <strong>China</strong> (60%)</span>
-<span>🏛️ <strong>Nanjing Agricultural University</strong></span>
-</div>
-<div style="margin-top:0.4rem;font-size:0.82em;color:var(--secondary)">Top: Yakov Kuzyakov, Haishui Yang, Anna Gunina, Kazem Zamanian, Jianglan Shi</div>
-</div>
-<div style="background:var(--code-bg);border-radius:8px;padding:1rem 1.2rem;margin:0.8rem 0">
-<h3 style="margin:0 0 0.4rem 0;font-size:1em">Community 5: General CDR cluster (638 researchers)</h3>
-<div style="display:flex;flex-wrap:wrap;gap:1.2rem;font-size:0.88em;color:var(--secondary)">
-<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#b39ddb;color:#311b92">General CDR</span> <strong>77%</strong></span>
-<span>🌍 <strong>United Kingdom</strong> (16%)</span>
-<span>🏛️ <strong>International Institute for Applied Systems Analysis</strong></span>
-</div>
-<div style="margin-top:0.4rem;font-size:0.82em;color:var(--secondary)">Top: Mathias Fridahl, Benjamin K. Sovacool, Carl‐Friedrich Schleussner, Matthew Gidden, Joeri Rogelj</div>
-</div>
-<div style="background:var(--code-bg);border-radius:8px;padding:1rem 1.2rem;margin:0.8rem 0">
-<h3 style="margin:0 0 0.4rem 0;font-size:1em">Community 6: Soil Carbon cluster (625 researchers)</h3>
-<div style="display:flex;flex-wrap:wrap;gap:1.2rem;font-size:0.88em;color:var(--secondary)">
-<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#a0d468;color:#2a5e0f">Soil Carbon</span> <strong>69%</strong></span>
-<span>🌍 <strong>China</strong> (74%)</span>
-<span>🏛️ <strong>South China Botanical Garden</strong></span>
-</div>
-<div style="margin-top:0.4rem;font-size:0.82em;color:var(--secondary)">Top: Dafeng Hui, Ying‐Ping Wang, Faming Wang, Hans Lambers, Xinhua He</div>
-</div>
-<div style="background:var(--code-bg);border-radius:8px;padding:1rem 1.2rem;margin:0.8rem 0">
-<h3 style="margin:0 0 0.4rem 0;font-size:1em">Community 7: Soil Carbon cluster (611 researchers)</h3>
-<div style="display:flex;flex-wrap:wrap;gap:1.2rem;font-size:0.88em;color:var(--secondary)">
-<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#a0d468;color:#2a5e0f">Soil Carbon</span> <strong>73%</strong></span>
-<span>🌍 <strong>Brazil</strong> (63%)</span>
-<span>🏛️ <strong>Universidade de São Paulo</strong></span>
-</div>
-<div style="margin-top:0.4rem;font-size:0.82em;color:var(--secondary)">Top: Maurício Roberto Cherubin, Carlos Eduardo Pellegrino Cerri, Marcos Gervásio Pereira, Dener Márcio da Silva Oliveira, José Ricardo Macedo Pezzopane</div>
-</div>
-<div style="background:var(--code-bg);border-radius:8px;padding:1rem 1.2rem;margin:0.8rem 0">
-<h3 style="margin:0 0 0.4rem 0;font-size:1em">Community 8: Soil Carbon cluster (557 researchers)</h3>
-<div style="display:flex;flex-wrap:wrap;gap:1.2rem;font-size:0.88em;color:var(--secondary)">
-<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#a0d468;color:#2a5e0f">Soil Carbon</span> <strong>55%</strong></span>
-<span>🌍 <strong>China</strong> (29%)</span>
-<span>🏛️ <strong>Pir Mehr Ali Shah Arid Agriculture University</strong></span>
-</div>
-<div style="margin-top:0.4rem;font-size:0.82em;color:var(--secondary)">Top: Qaiser Hussain, Ghulam Yasin, Muhammad Nadeem Ashraf, Usman Zulfiqar, Xudong Wang</div>
-</div>
-<div style="background:var(--code-bg);border-radius:8px;padding:1rem 1.2rem;margin:0.8rem 0">
-<h3 style="margin:0 0 0.4rem 0;font-size:1em">Community 9: General CDR cluster (556 researchers)</h3>
-<div style="display:flex;flex-wrap:wrap;gap:1.2rem;font-size:0.88em;color:var(--secondary)">
-<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#b39ddb;color:#311b92">General CDR</span> <strong>30%</strong></span>
-<span>🌍 <strong>United States</strong> (24%)</span>
-<span>🏛️ <strong>Woods Hole Oceanographic Institution</strong></span>
-</div>
-<div style="margin-top:0.4rem;font-size:0.82em;color:var(--secondary)">Top: Phil Renforth, Spyros Foteinis, Mijndert van der Spek, Filip J. R. Meysman, Adam V. Subhas</div>
-</div>
-<div style="background:var(--code-bg);border-radius:8px;padding:1rem 1.2rem;margin:0.8rem 0">
-<h3 style="margin:0 0 0.4rem 0;font-size:1em">Community 10: Soil Carbon cluster (549 researchers)</h3>
-<div style="display:flex;flex-wrap:wrap;gap:1.2rem;font-size:0.88em;color:var(--secondary)">
-<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#a0d468;color:#2a5e0f">Soil Carbon</span> <strong>56%</strong></span>
-<span>🌍 <strong>Austria</strong> (23%)</span>
-<span>🏛️ <strong>BOKU University</strong></span>
-</div>
-<div style="margin-top:0.4rem;font-size:0.82em;color:var(--secondary)">Top: Jens Leifeld, Carsten W. Mueller, Rebecca Hood‐Nowotny, Sophie Zechmeister‐Boltenstern, Katharina Keiblinger</div>
-</div>
-<div style="background:var(--code-bg);border-radius:8px;padding:1rem 1.2rem;margin:0.8rem 0">
-<h3 style="margin:0 0 0.4rem 0;font-size:1em">Community 11: Soil Carbon cluster (534 researchers)</h3>
-<div style="display:flex;flex-wrap:wrap;gap:1.2rem;font-size:0.88em;color:var(--secondary)">
-<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#a0d468;color:#2a5e0f">Soil Carbon</span> <strong>51%</strong></span>
-<span>🌍 <strong>France</strong> (19%)</span>
-<span>🏛️ <strong>Centre National de la Recherche Scientifique</strong></span>
-</div>
-<div style="margin-top:0.4rem;font-size:0.82em;color:var(--secondary)">Top: Cornélia Rumpel, Budiman Minasny, Johan Six, Christine Merk, Rémi Cardinael</div>
-</div>
-<div style="background:var(--code-bg);border-radius:8px;padding:1rem 1.2rem;margin:0.8rem 0">
-<h3 style="margin:0 0 0.4rem 0;font-size:1em">Community 12: General CDR cluster (531 researchers)</h3>
-<div style="display:flex;flex-wrap:wrap;gap:1.2rem;font-size:0.88em;color:var(--secondary)">
-<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#b39ddb;color:#311b92">General CDR</span> <strong>74%</strong></span>
-<span>🌍 <strong>United States</strong> (29%)</span>
-<span>🏛️ <strong>Imperial College London</strong></span>
-</div>
-<div style="margin-top:0.4rem;font-size:0.82em;color:var(--secondary)">Top: Jay Fuhrman, Haewon McJeon, Gonzalo Guillén‐Gosálbez, Niall Mac Dowell, Jeffrey Dankwa Ampah</div>
-</div>
-<div style="background:var(--code-bg);border-radius:8px;padding:1rem 1.2rem;margin:0.8rem 0">
-<h3 style="margin:0 0 0.4rem 0;font-size:1em">Community 13: Soil Carbon cluster (522 researchers)</h3>
-<div style="display:flex;flex-wrap:wrap;gap:1.2rem;font-size:0.88em;color:var(--secondary)">
-<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#a0d468;color:#2a5e0f">Soil Carbon</span> <strong>67%</strong></span>
-<span>🌍 <strong>China</strong> (80%)</span>
-<span>🏛️ <strong>Chinese Academy of Sciences</strong></span>
-</div>
-<div style="margin-top:0.4rem;font-size:0.82em;color:var(--secondary)">Top: Yunting Fang, Wei Zhang, Xinhui Han, Chengjie Ren, Ling Wang</div>
-</div>
-<div style="background:var(--code-bg);border-radius:8px;padding:1rem 1.2rem;margin:0.8rem 0">
-<h3 style="margin:0 0 0.4rem 0;font-size:1em">Community 14: Soil Carbon cluster (515 researchers)</h3>
-<div style="display:flex;flex-wrap:wrap;gap:1.2rem;font-size:0.88em;color:var(--secondary)">
-<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#a0d468;color:#2a5e0f">Soil Carbon</span> <strong>54%</strong></span>
-<span>🌍 <strong>China</strong> (41%)</span>
-<span>🏛️ <strong>Centre National de la Recherche Scientifique</strong></span>
-</div>
-<div style="margin-top:0.4rem;font-size:0.82em;color:var(--secondary)">Top: Philippe Ciais, Thomas Gasser, Wei Li, Daniel S. Goll, Thomas Kätterer</div>
-</div>
-<div style="background:var(--code-bg);border-radius:8px;padding:1rem 1.2rem;margin:0.8rem 0">
-<h3 style="margin:0 0 0.4rem 0;font-size:1em">Community 15: Soil Carbon cluster (504 researchers)</h3>
-<div style="display:flex;flex-wrap:wrap;gap:1.2rem;font-size:0.88em;color:var(--secondary)">
-<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#a0d468;color:#2a5e0f">Soil Carbon</span> <strong>83%</strong></span>
-<span>🌍 <strong>China</strong> (54%)</span>
-<span>🏛️ <strong>Chinese Academy of Sciences</strong></span>
-</div>
-<div style="margin-top:0.4rem;font-size:0.82em;color:var(--secondary)">Top: Minggang Xu, Jeroen Meersmans, Andong Cai, Gilles Colinet, Adnan Mustafa</div>
-</div>
-<div style="background:var(--code-bg);border-radius:8px;padding:1rem 1.2rem;margin:0.8rem 0">
-<h3 style="margin:0 0 0.4rem 0;font-size:1em">Community 16: General CDR cluster (478 researchers)</h3>
-<div style="display:flex;flex-wrap:wrap;gap:1.2rem;font-size:0.88em;color:var(--secondary)">
-<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#b39ddb;color:#311b92">General CDR</span> <strong>66%</strong></span>
-<span>🌍 <strong>Germany</strong> (18%)</span>
-<span>🏛️ <strong>ETH Zurich</strong></span>
-</div>
-<div style="margin-top:0.4rem;font-size:0.82em;color:var(--secondary)">Top: Marco Mazzotti, Detlef P. van Vuuren, Vassilis Daioglou, William Joe Sagues, Christoph Müller</div>
-</div>
-<div style="background:var(--code-bg);border-radius:8px;padding:1rem 1.2rem;margin:0.8rem 0">
-<h3 style="margin:0 0 0.4rem 0;font-size:1em">Community 17: Soil Carbon cluster (472 researchers)</h3>
-<div style="display:flex;flex-wrap:wrap;gap:1.2rem;font-size:0.88em;color:var(--secondary)">
-<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#a0d468;color:#2a5e0f">Soil Carbon</span> <strong>62%</strong></span>
-<span>🌍 <strong>China</strong> (76%)</span>
-<span>🏛️ <strong>Chinese Academy of Sciences</strong></span>
-</div>
-<div style="margin-top:0.4rem;font-size:0.82em;color:var(--secondary)">Top: Zhouping Shangguan, Peng Li, Lei Deng, Lingbo Dong, Jiwei Li</div>
-</div>
-<div style="background:var(--code-bg);border-radius:8px;padding:1rem 1.2rem;margin:0.8rem 0">
-<h3 style="margin:0 0 0.4rem 0;font-size:1em">Community 18: Soil Carbon cluster (470 researchers)</h3>
-<div style="display:flex;flex-wrap:wrap;gap:1.2rem;font-size:0.88em;color:var(--secondary)">
-<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#a0d468;color:#2a5e0f">Soil Carbon</span> <strong>44%</strong></span>
-<span>🌍 <strong>United States</strong> (38%)</span>
-<span>🏛️ <strong>Colorado State University</strong></span>
-</div>
-<div style="margin-top:0.4rem;font-size:0.82em;color:var(--secondary)">Top: M. Francesca Cotrufo, Johannes Lehmann, Jonathan Sanderman, Cecilia Sundberg, Dominic Woolf</div>
-</div>
-<div style="background:var(--code-bg);border-radius:8px;padding:1rem 1.2rem;margin:0.8rem 0">
-<h3 style="margin:0 0 0.4rem 0;font-size:1em">Community 19: Soil Carbon cluster (469 researchers)</h3>
-<div style="display:flex;flex-wrap:wrap;gap:1.2rem;font-size:0.88em;color:var(--secondary)">
-<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#a0d468;color:#2a5e0f">Soil Carbon</span> <strong>61%</strong></span>
-<span>🌍 <strong>India</strong> (54%)</span>
-<span>🏛️ <strong>Tamil Nadu Agricultural University</strong></span>
-</div>
-<div style="margin-top:0.4rem;font-size:0.82em;color:var(--secondary)">Top: Dinesh Chand Meena, Pritpal Singh, Harun I. Gitari, Akbar Hossain, Biswajit Pramanick</div>
-</div>
-<div style="background:var(--code-bg);border-radius:8px;padding:1rem 1.2rem;margin:0.8rem 0">
-<h3 style="margin:0 0 0.4rem 0;font-size:1em">Community 20: General CDR cluster (465 researchers)</h3>
-<div style="display:flex;flex-wrap:wrap;gap:1.2rem;font-size:0.88em;color:var(--secondary)">
-<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.78em;font-weight:600;background:#b39ddb;color:#311b92">General CDR</span> <strong>44%</strong></span>
-<span>🌍 <strong>United States</strong> (70%)</span>
-<span>🏛️ <strong>Oak Ridge National Laboratory</strong></span>
-</div>
-<div style="margin-top:0.4rem;font-size:0.82em;color:var(--secondary)">Top: Ryan P. Lively, Christopher W. Jones, Matthew J. Realff, Radu Custelcean, Simon H. Pang</div>
+<div style="margin-top:0.4rem;font-size:0.82em;color:var(--secondary)">Top researchers: Josep Peñuelas, Jordi Sardans, Hailong Wang, Zhaoliang Song, Faming Wang</div>
 </div>
 
-## 🏛️ Institution Collaboration Network
+## Biochar
 
-The top 200 research institutions and how they connect through co-authored CDR papers. Node size = number of researchers. Edge thickness = collaboration strength. Colored by dominant CDR method.
-
-<div id="institution-network" style="height:600px;border:1px solid var(--border);border-radius:8px;position:relative;margin:1.5rem 0">
-<div id="network-loading" style="position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);color:var(--secondary)">Loading network...</div>
+<div style="background:var(--code-bg);border-radius:8px;padding:1rem 1.2rem;margin:0.8rem 0">
+<h3 style="margin:0 0 0.4rem 0;font-size:0.95em">Community 34: Biochar (785 researchers)</h3>
+<div style="display:flex;flex-wrap:wrap;gap:1.2rem;font-size:0.88em;color:var(--secondary)">
+<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.75em;font-weight:600;background:#8d6e63;color:#3e2723">Biochar</span> <strong>72%</strong></span>
+<span>🌍 <strong>CN</strong></span>
+<span>🏛️ <strong style="font-size:0.9em">Shanghai Jiao Tong University</strong></span>
+</div>
+<div style="margin-top:0.4rem;font-size:0.82em;color:var(--secondary)">Top researchers: Daniel C.W. Tsang, Jörg Rinklebe, Yong Sik Ok, Chunfei Wu, Meththika Vithanage</div>
+</div>
+<div style="background:var(--code-bg);border-radius:8px;padding:1rem 1.2rem;margin:0.8rem 0">
+<h3 style="margin:0 0 0.4rem 0;font-size:0.95em">Community 53: Biochar (528 researchers)</h3>
+<div style="display:flex;flex-wrap:wrap;gap:1.2rem;font-size:0.88em;color:var(--secondary)">
+<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.75em;font-weight:600;background:#8d6e63;color:#3e2723">Biochar</span> <strong>66%</strong></span>
+<span>🌍 <strong>IN</strong></span>
+<span>🏛️ <strong style="font-size:0.9em">Chiang Mai University</strong></span>
+</div>
+<div style="margin-top:0.4rem;font-size:0.82em;color:var(--secondary)">Top researchers: Wei‐Hsin Chen, Manish Kumar, Eilhann E. Kwon, Huu Hao Ngo, Ashok Pandey</div>
+</div>
+<div style="background:var(--code-bg);border-radius:8px;padding:1rem 1.2rem;margin:0.8rem 0">
+<h3 style="margin:0 0 0.4rem 0;font-size:0.95em">Community 72: Biochar (460 researchers)</h3>
+<div style="display:flex;flex-wrap:wrap;gap:1.2rem;font-size:0.88em;color:var(--secondary)">
+<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.75em;font-weight:600;background:#8d6e63;color:#3e2723">Biochar</span> <strong>57%</strong></span>
+<span>🌍 <strong>CN</strong></span>
+<span>🏛️ <strong style="font-size:0.9em">Huazhong University of Science and Technology</strong></span>
+</div>
+<div style="margin-top:0.4rem;font-size:0.82em;color:var(--secondary)">Top researchers: Bin Li, Hanping Chen, Shu Zhang, Shisuo Fan, Pietro Bartocci</div>
 </div>
 
-<script src="https://cdn.jsdelivr.net/npm/graphology@0.25.4/dist/graphology.umd.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/sigma@2.4.0/build/sigma.min.js"></script>
+## General CDR
+
+<div style="background:var(--code-bg);border-radius:8px;padding:1rem 1.2rem;margin:0.8rem 0">
+<h3 style="margin:0 0 0.4rem 0;font-size:0.95em">Community 2: General CDR (883 researchers)</h3>
+<div style="display:flex;flex-wrap:wrap;gap:1.2rem;font-size:0.88em;color:var(--secondary)">
+<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.75em;font-weight:600;background:#b39ddb;color:#311b92">General CDR</span> <strong>69%</strong></span>
+<span>🌍 <strong>DE</strong></span>
+<span>🏛️ <strong style="font-size:0.9em">International Institute for Applied Systems Analysis</strong></span>
+</div>
+<div style="margin-top:0.4rem;font-size:0.82em;color:var(--secondary)">Top researchers: Benjamin K. Sovacool, Detlef P. van Vuuren, Matthew Gidden, Carl‐Friedrich Schleussner, Alexandre Szklo</div>
+</div>
+<div style="background:var(--code-bg);border-radius:8px;padding:1rem 1.2rem;margin:0.8rem 0">
+<h3 style="margin:0 0 0.4rem 0;font-size:0.95em">Community 74: General CDR (733 researchers)</h3>
+<div style="display:flex;flex-wrap:wrap;gap:1.2rem;font-size:0.88em;color:var(--secondary)">
+<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.75em;font-weight:600;background:#b39ddb;color:#311b92">General CDR</span> <strong>57%</strong></span>
+<span>🌍 <strong>US</strong></span>
+<span>🏛️ <strong style="font-size:0.9em">Oak Ridge National Laboratory</strong></span>
+</div>
+<div style="margin-top:0.4rem;font-size:0.82em;color:var(--secondary)">Top researchers: Haewon McJeon, Jay Fuhrman, David T. Ho, Jeffrey Dankwa Ampah, Laurent Bopp</div>
+</div>
+<div style="background:var(--code-bg);border-radius:8px;padding:1rem 1.2rem;margin:0.8rem 0">
+<h3 style="margin:0 0 0.4rem 0;font-size:0.95em">Community 1: General CDR (652 researchers)</h3>
+<div style="display:flex;flex-wrap:wrap;gap:1.2rem;font-size:0.88em;color:var(--secondary)">
+<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.75em;font-weight:600;background:#b39ddb;color:#311b92">General CDR</span> <strong>59%</strong></span>
+<span>🌍 <strong>DE</strong></span>
+<span>🏛️ <strong style="font-size:0.9em">Dalhousie University</strong></span>
+</div>
+<div style="margin-top:0.4rem;font-size:0.82em;color:var(--secondary)">Top researchers: Andreas Oschlies, David P. Keller, Jong‐Seong Kug, Mathias Fridahl, Jörg Schwinger</div>
+</div>
+
+## Ocean CDR
+
+<div style="background:var(--code-bg);border-radius:8px;padding:1rem 1.2rem;margin:0.8rem 0">
+<h3 style="margin:0 0 0.4rem 0;font-size:0.95em">Community 40: Ocean CDR (808 researchers)</h3>
+<div style="display:flex;flex-wrap:wrap;gap:1.2rem;font-size:0.88em;color:var(--secondary)">
+<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.75em;font-weight:600;background:#4dd0e1;color:#004d40">Ocean CDR</span> <strong>29%</strong></span>
+<span>🌍 <strong>DE</strong></span>
+<span>🏛️ <strong style="font-size:0.9em">University of Antwerp</strong></span>
+</div>
+<div style="margin-top:0.4rem;font-size:0.82em;color:var(--secondary)">Top researchers: Phil Renforth, Lennart T. Bach, Ulf Riebesell, Jens Hartmann, Sara Vicca</div>
+</div>
+<div style="background:var(--code-bg);border-radius:8px;padding:1rem 1.2rem;margin:0.8rem 0">
+<h3 style="margin:0 0 0.4rem 0;font-size:0.95em">Community 94: Ocean CDR (390 researchers)</h3>
+<div style="display:flex;flex-wrap:wrap;gap:1.2rem;font-size:0.88em;color:var(--secondary)">
+<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.75em;font-weight:600;background:#4dd0e1;color:#004d40">Ocean CDR</span> <strong>53%</strong></span>
+<span>🌍 <strong>US</strong></span>
+<span>🏛️ <strong style="font-size:0.9em">Pacific Northwest National Laboratory</strong></span>
+</div>
+<div style="margin-top:0.4rem;font-size:0.82em;color:var(--secondary)">Top researchers: Brendan R. Carter, Wei‐Jun Cai, Jessica Cross, Matthew D. Eisaman, Adam V. Subhas</div>
+</div>
+<div style="background:var(--code-bg);border-radius:8px;padding:1rem 1.2rem;margin:0.8rem 0">
+<h3 style="margin:0 0 0.4rem 0;font-size:0.95em">Community 91: Ocean CDR (370 researchers)</h3>
+<div style="display:flex;flex-wrap:wrap;gap:1.2rem;font-size:0.88em;color:var(--secondary)">
+<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.75em;font-weight:600;background:#4dd0e1;color:#004d40">Ocean CDR</span> <strong>37%</strong></span>
+<span>🌍 <strong>CN</strong></span>
+<span>🏛️ <strong style="font-size:0.9em">Xiamen University</strong></span>
+</div>
+<div style="margin-top:0.4rem;font-size:0.82em;color:var(--secondary)">Top researchers: Filip J. R. Meysman, Emily Cox, Eric P. Achterberg, Minhan Dai, Sonja Geilert</div>
+</div>
+
+## Enhanced Weathering
+
+<div style="background:var(--code-bg);border-radius:8px;padding:1rem 1.2rem;margin:0.8rem 0">
+<h3 style="margin:0 0 0.4rem 0;font-size:0.95em">Community 6: Enhanced Weathering (543 researchers)</h3>
+<div style="display:flex;flex-wrap:wrap;gap:1.2rem;font-size:0.88em;color:var(--secondary)">
+<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.75em;font-weight:600;background:#bcaaa4;color:#3e2723">Enhanced Weathering</span> <strong>37%</strong></span>
+<span>🌍 <strong>US</strong></span>
+<span>🏛️ <strong style="font-size:0.9em">North Carolina State University</strong></span>
+</div>
+<div style="margin-top:0.4rem;font-size:0.82em;color:var(--secondary)">Top researchers: Noah J. Planavsky, David J. Beerling, Christopher T. Reinhard, William Joe Sagues, Tom Reershemius</div>
+</div>
+<div style="background:var(--code-bg);border-radius:8px;padding:1rem 1.2rem;margin:0.8rem 0">
+<h3 style="margin:0 0 0.4rem 0;font-size:0.95em">Community 59: Enhanced Weathering (513 researchers)</h3>
+<div style="display:flex;flex-wrap:wrap;gap:1.2rem;font-size:0.88em;color:var(--secondary)">
+<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.75em;font-weight:600;background:#bcaaa4;color:#3e2723">Enhanced Weathering</span> <strong>54%</strong></span>
+<span>🌍 <strong>CN</strong></span>
+<span>🏛️ <strong style="font-size:0.9em">Chinese Academy of Sciences</strong></span>
+</div>
+<div style="margin-top:0.4rem;font-size:0.82em;color:var(--secondary)">Top researchers: Philip A.E. Pogge von Strandmann, Wolfram Buss, Eelco J. Rohling, Kang‐Jun Huang, Tangfu Xiao</div>
+</div>
+
+## BECCS
+
+*No research communities detected for BECCS in this dataset.*
+
+## DAC
+
+*No research communities detected for DAC in this dataset.*
+
+---
+
+## 🌐 CDR Method Collaboration Chord
+
+How do CDR research methods connect through co-authorship? This chord diagram shows the flow of collaboration between pathways — thicker ribbons mean more co-authored papers linking researchers across methods.
+
+<div id="chord-container" style="max-width:640px;margin:1.5rem auto;position:relative">
+<svg id="chord-svg" viewBox="0 0 640 640" style="width:100%;height:auto"></svg>
+</div>
+
 <script>
-// Simple force-directed layout (replaces forceatlas2 which has no UMD build)
-function forceLayout(graph, iterations) {
-  const nodes = [];
-  graph.forEachNode((key, attrs) => { nodes.push({key, x: attrs.x, y: attrs.y, dx: 0, dy: 0, mass: attrs.size || 1}); });
-  const nodeMap = Object.fromEntries(nodes.map((n,i) => [n.key, i]));
-  for (let iter = 0; iter < iterations; iter++) {
-    const k = 0.1, gravity = 0.05, speed = Math.max(0.01, 1 - iter/iterations);
-    // Reset forces
-    nodes.forEach(n => { n.dx = 0; n.dy = 0; });
-    // Repulsion (Barnes-Hut simplified: direct pairs, sampled for perf)
-    for (let i = 0; i < nodes.length; i++) {
-      for (let j = i+1; j < nodes.length; j++) {
-        let dx = nodes[i].x - nodes[j].x, dy = nodes[i].y - nodes[j].y;
-        let dist = Math.sqrt(dx*dx + dy*dy) || 0.01;
-        let force = (nodes[i].mass * nodes[j].mass) / (dist * dist) * 50;
-        let fx = dx/dist * force, fy = dy/dist * force;
-        nodes[i].dx += fx; nodes[i].dy += fy;
-        nodes[j].dx -= fx; nodes[j].dy -= fy;
-      }
-    }
-    // Attraction along edges
-    graph.forEachEdge((edge, attrs, src, tgt) => {
-      let si = nodeMap[src], ti = nodeMap[tgt];
-      if (si === undefined || ti === undefined) return;
-      let dx = nodes[ti].x - nodes[si].x, dy = nodes[ti].y - nodes[si].y;
-      let dist = Math.sqrt(dx*dx + dy*dy) || 0.01;
-      let w = Math.log2((attrs.weight || 1) + 1);
-      let force = dist * k * w;
-      let fx = dx/dist * force, fy = dy/dist * force;
-      nodes[si].dx += fx; nodes[si].dy += fy;
-      nodes[ti].dx -= fx; nodes[ti].dy -= fy;
-    });
-    // Gravity
-    nodes.forEach(n => { n.dx -= n.x * gravity; n.dy -= n.y * gravity; });
-    // Apply
-    nodes.forEach(n => {
-      let mag = Math.sqrt(n.dx*n.dx + n.dy*n.dy) || 1;
-      let cap = Math.min(mag, 10) / mag;
-      n.x += n.dx * cap * speed;
-      n.y += n.dy * cap * speed;
-      graph.setNodeAttribute(n.key, 'x', n.x);
-      graph.setNodeAttribute(n.key, 'y', n.y);
-    });
-  }
-}
+(function(){
+  // Cross-method collaboration data from pathway matrix (off-diagonal only)
+  const methods = ['Soil Carbon','Biochar','DAC','EW','BECCS','Ocean CDR','General CDR'];
+  const colors = ['#a0d468','#8d6e63','#64b5f6','#bcaaa4','#ff8a65','#4dd0e1','#b39ddb'];
+  // Symmetric matrix: co-authorship links between methods
+  const matrix = [
+    [0, 8396, 0, 1708, 558, 541, 10748],
+    [8396, 0, 0, 260, 406, 81, 1787],
+    [0, 0, 0, 0, 0, 0, 97],
+    [1708, 260, 0, 0, 18, 575, 1835],
+    [558, 406, 0, 18, 0, 13, 2181],
+    [541, 81, 0, 575, 13, 0, 2060],
+    [10748, 1787, 97, 1835, 2181, 2060, 0]
+  ];
 
-fetch('/data/census/collaboration/institution-network.json')
-.then(r=>r.json()).then(data => {
-  const container = document.getElementById('institution-network');
-  const loading = document.getElementById('network-loading');
-  try {
-    const graph = new graphology.Graph();
-    const colors = {"Soil Carbon":"#a0d468","Biochar":"#8d6e63","DAC":"#64b5f6","Enhanced Weathering":"#bcaaa4","BECCS":"#ff8a65","Ocean CDR":"#4dd0e1","General CDR":"#b39ddb"};
-    data.nodes.forEach(n => {
-      graph.addNode(n.id, {label:n.label, size:Math.max(3,Math.sqrt(n.researchers)*1.5), color:colors[n.dominantPathway]||'#999', x:Math.random()*100-50, y:Math.random()*100-50});
-    });
-    data.edges.forEach(e => {
-      if(graph.hasNode(e.source)&&graph.hasNode(e.target)) graph.addEdge(e.source,e.target,{weight:e.papers,size:Math.max(0.5,Math.log2(e.papers+1)*0.5),color:'rgba(128,128,128,0.15)'});
-    });
-    forceLayout(graph, 150);
-    loading.remove();
-    new Sigma(graph,container,{renderLabels:true,labelRenderedSizeThreshold:8,labelSize:11});
-  } catch(e) { loading.textContent='Error loading visualization: '+e.message; console.error(e); }
-}).catch(e => { document.getElementById('network-loading').textContent='Failed to load network data.'; console.error(e); });
+  const svg = document.getElementById('chord-svg');
+  const cx = 320, cy = 320, outerR = 270, innerR = 250, labelR = 295;
+  const total = matrix.map(row => row.reduce((a,b)=>a+b,0));
+  const grandTotal = total.reduce((a,b)=>a+b,0);
+  const gap = 0.02; // gap between arcs in radians
+  const totalGap = gap * methods.length;
+  const available = 2 * Math.PI - totalGap;
+
+  // Compute arc angles proportional to total connections
+  let angles = total.map(t => (t / grandTotal) * available);
+  let starts = [];
+  let cumAngle = -Math.PI/2;
+  for(let i = 0; i < methods.length; i++){
+    starts.push(cumAngle);
+    cumAngle += angles[i] + gap;
+  }
+
+  function polarX(r, a){ return cx + r * Math.cos(a); }
+  function polarY(r, a){ return cy + r * Math.sin(a); }
+
+  function arcPath(r, startA, endA){
+    const large = (endA - startA) > Math.PI ? 1 : 0;
+    return `M ${polarX(r,startA)} ${polarY(r,startA)} A ${r} ${r} 0 ${large} 1 ${polarX(r,endA)} ${polarY(r,endA)}`;
+  }
+
+  // Draw outer arcs
+  let html = '';
+  for(let i = 0; i < methods.length; i++){
+    const s = starts[i], e = starts[i] + angles[i];
+    // Thick arc
+    html += `<path d="${arcPath(outerR, s, e)}" fill="none" stroke="${colors[i]}" stroke-width="20" stroke-linecap="round" opacity="0.85"/>`;
+    // Label
+    const midA = (s + e) / 2;
+    const lx = polarX(labelR + 10, midA);
+    const ly = polarY(labelR + 10, midA);
+    const anchor = midA > Math.PI/2 && midA < 3*Math.PI/2 ? 'end' : (Math.abs(midA - Math.PI/2) < 0.1 || Math.abs(midA + Math.PI/2) < 0.1 ? 'middle' : 'start');
+    // Rotate label to follow arc
+    let rotation = midA * 180 / Math.PI;
+    if(rotation > 90 && rotation < 270) rotation += 180;
+    if(rotation > 90 - 360 && rotation < -90) rotation += 180;
+    html += `<text x="${lx}" y="${ly}" text-anchor="middle" dominant-baseline="central" font-size="12" font-weight="600" fill="currentColor" transform="rotate(${midA*180/Math.PI + (midA > Math.PI/2 - 0.01 && midA < 3*Math.PI/2 + 0.01 ? 180 : 0)}, ${lx}, ${ly})">${methods[i]}</text>`;
+  }
+
+  // Draw ribbons (chords)
+  for(let i = 0; i < methods.length; i++){
+    let subOffset_i = 0;
+    for(let j = i+1; j < methods.length; j++){
+      if(matrix[i][j] === 0) continue;
+      const val = matrix[i][j];
+      // Width proportional to value relative to this method's total
+      const w_i = (val / total[i]) * angles[i];
+      const w_j = (val / total[j]) * angles[j];
+
+      // Find sub-offset for j
+      let subOffset_j = 0;
+      for(let k = 0; k < i; k++){
+        if(matrix[j][k] > 0) subOffset_j += (matrix[j][k] / total[j]) * angles[j];
+      }
+      // Also account for earlier i connections to j
+      for(let k = i+1; k < j; k++){
+        // Skip — we handle only i<j pairs sequentially
+      }
+
+      const s_i = starts[i] + subOffset_i;
+      const e_i = s_i + w_i;
+      const s_j = starts[j] + subOffset_j;
+      const e_j = s_j + w_j;
+
+      // Mix color
+      const opacity = Math.min(0.6, 0.15 + (val / 10748) * 0.45);
+
+      html += `<path d="M ${polarX(innerR,s_i)} ${polarY(innerR,s_i)} 
+        A ${innerR} ${innerR} 0 0 1 ${polarX(innerR,e_i)} ${polarY(innerR,e_i)}
+        Q ${cx} ${cy} ${polarX(innerR,e_j)} ${polarY(innerR,e_j)}
+        A ${innerR} ${innerR} 0 0 1 ${polarX(innerR,s_j)} ${polarY(innerR,s_j)}
+        Q ${cx} ${cy} ${polarX(innerR,s_i)} ${polarY(innerR,s_i)}
+        Z" fill="${colors[i]}" opacity="${opacity.toFixed(2)}" stroke="${colors[i]}" stroke-width="0.5" stroke-opacity="0.3">
+        <title>${methods[i]} ↔ ${methods[j]}: ${val.toLocaleString()} co-authored papers</title>
+      </path>`;
+
+      subOffset_i += w_i;
+    }
+  }
+
+  svg.innerHTML = html;
+})();
 </script>
+
+<div style="display:flex;flex-wrap:wrap;gap:0.8rem;justify-content:center;margin:1rem 0;font-size:0.82em">
+<span style="display:flex;align-items:center;gap:4px"><span style="width:12px;height:12px;border-radius:50%;background:#a0d468;display:inline-block"></span> Soil Carbon</span>
+<span style="display:flex;align-items:center;gap:4px"><span style="width:12px;height:12px;border-radius:50%;background:#8d6e63;display:inline-block"></span> Biochar</span>
+<span style="display:flex;align-items:center;gap:4px"><span style="width:12px;height:12px;border-radius:50%;background:#64b5f6;display:inline-block"></span> DAC</span>
+<span style="display:flex;align-items:center;gap:4px"><span style="width:12px;height:12px;border-radius:50%;background:#bcaaa4;display:inline-block"></span> Enhanced Weathering</span>
+<span style="display:flex;align-items:center;gap:4px"><span style="width:12px;height:12px;border-radius:50%;background:#ff8a65;display:inline-block"></span> BECCS</span>
+<span style="display:flex;align-items:center;gap:4px"><span style="width:12px;height:12px;border-radius:50%;background:#4dd0e1;display:inline-block"></span> Ocean CDR</span>
+<span style="display:flex;align-items:center;gap:4px"><span style="width:12px;height:12px;border-radius:50%;background:#b39ddb;display:inline-block"></span> General CDR</span>
+</div>
+
+<p style="text-align:center;font-size:0.82em;color:var(--secondary);margin-top:0.5rem">Hover over ribbons to see co-authorship counts. Ribbon thickness is proportional to collaboration volume. The dominant Soil Carbon ↔ General CDR axis (10.7k papers) shows how broadly CDR policy research draws from soil science.</p>
+

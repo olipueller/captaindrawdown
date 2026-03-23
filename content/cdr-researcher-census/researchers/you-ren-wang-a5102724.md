@@ -1,7 +1,7 @@
 ---
 title: "You-Ren Wang"
-description: "You-Ren Wang is a Mid-career Soil Carbon researcher at National Sun Yat-sen University in TW. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.589952
+description: "You-Ren Wang is a Mid-career carbon dioxide removal researcher at National Sun Yat-sen University in TW. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.431906
 url: "/cdr-researcher-census/researchers/you-ren-wang-a5102724/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ National Sun Yat-sen University · 🇹🇼 TW
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 3 |
 | Citations | 250 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Disentangling effects of natural and anthropogenic drivers on forest net ecosystem production** (2022)
-   26 citations · Soil Carbon
+   26 citations
 
 ## External Profiles
 

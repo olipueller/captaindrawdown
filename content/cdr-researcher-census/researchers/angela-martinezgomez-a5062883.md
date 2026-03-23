@@ -1,7 +1,7 @@
 ---
 title: "Ángela Martínez‐Gómez"
-description: "Ángela Martínez‐Gómez is a Mid-career Soil Carbon researcher at University of Castilla-La Mancha in ES. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.268679
+description: "Ángela Martínez‐Gómez is a Mid-career Biochar researcher at University of Castilla-La Mancha in ES. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.280217
 url: "/cdr-researcher-census/researchers/angela-martinezgomez-a5062883/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Castilla-La Mancha · 🇪🇸 ES
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 115 |
 | Publications | 6 |
-| CDR Focus | 16.7% |
+| CDR Focus | 1670.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "James Conrad Pritchard"
 description: "James Conrad Pritchard is a Mid-career Biochar researcher at U.S. National Science Foundation in US. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.953081
+date: 2026-03-23T11:47:00.927828
 url: "/cdr-researcher-census/researchers/james-conrad-pritchard-a5010257/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 7 |
 | Citations | 157 |
 | Publications | 12 |
-| CDR Focus | 41.7% |
+| CDR Focus | 3330.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

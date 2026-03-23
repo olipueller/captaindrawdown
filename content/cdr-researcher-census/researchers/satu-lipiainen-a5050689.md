@@ -1,7 +1,7 @@
 ---
 title: "Satu Lipiäinen"
-description: "Satu Lipiäinen is a Mid-career BECCS researcher. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.426002
+description: "Satu Lipiäinen is a Mid-career General CDR researcher. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.181022
 url: "/cdr-researcher-census/researchers/satu-lipiainen-a5050689/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,9 +29,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**BECCS**
+**General CDR**
 
-Combining biomass energy with carbon capture and storage to achieve negative emissions.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -40,13 +40,13 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 8 |
 | Citations | 320 |
 | Publications | 14 |
-| CDR Focus | 21.4% |
+| CDR Focus | 2140.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Future of forest industry in carbon-neutral reality: Finnish and Swedish visions** (2022)
-   26 citations · BECCS
+   26 citations · General CDR
 
 2. **Effect of biomass-based carbon capture on the sustainability and economics of pulp and paper production in the Nordic mills** (2022)
    20 citations · BECCS

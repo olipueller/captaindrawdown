@@ -1,7 +1,7 @@
 ---
 title: "Fatma Mansour"
-description: "Fatma Mansour is an Early-career Soil Carbon researcher at Siirt Üniversitesi in TR. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.263047
+description: "Fatma Mansour is an Early-career carbon dioxide removal researcher at Siirt Üniversitesi in TR. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.916158
 url: "/cdr-researcher-census/researchers/fatma-mansour-a5007833/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Siirt Üniversitesi ·  TR
 
 **Career Stage:** Early-career
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 443 |
 | Publications | 6 |
-| CDR Focus | 16.7% |
+| CDR Focus | 1670.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Impact of climate change on agricultural production; Issues, challenges, and opportunities in Asia** (2022)
-   359 citations · Soil Carbon
+   359 citations
 
 ## External Profiles
 

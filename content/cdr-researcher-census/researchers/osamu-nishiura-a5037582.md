@@ -1,7 +1,7 @@
 ---
 title: "Osamu Nishiura"
 description: "Osamu Nishiura is a Mid-career General CDR researcher at National Institute for Environmental Studies in JP. With 27 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.417464
+date: 2026-03-23T11:47:01.434913
 url: "/cdr-researcher-census/researchers/osamu-nishiura-a5037582/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 5 |
 | Citations | 100 |
 | Publications | 27 |
-| CDR Focus | 22.2% |
+| CDR Focus | 1850.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Residual emissions and carbon removal towards Japan’s net-zero goal: a multi-model analysis** (2024)
-   11 citations · BECCS
+   11 citations · General CDR
 
 2. **International financial support to achieve the net-zero emissions goal could help resolve equity trade-off between developing and developed countries** (2026)
    0 citations · General CDR

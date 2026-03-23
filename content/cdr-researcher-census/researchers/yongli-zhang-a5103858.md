@@ -1,7 +1,7 @@
 ---
 title: "Yongli Zhang"
-description: "Yongli Zhang is a Mid-career Soil Carbon researcher at Tiangong University in CN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.060529
+description: "Yongli Zhang is a Mid-career Biochar researcher at Tiangong University in CN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.052881
 url: "/cdr-researcher-census/researchers/yongli-zhang-a5103858/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Tiangong University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 140 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

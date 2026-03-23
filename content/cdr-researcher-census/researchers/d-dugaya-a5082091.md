@@ -1,7 +1,7 @@
 ---
 title: "D. Dugaya"
-description: "D. Dugaya is a Senior Soil Carbon researcher at Indian Institute of Forest Management in IN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.143818
+description: "D. Dugaya is a Senior General CDR researcher at Indian Institute of Forest Management in IN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.141492
 url: "/cdr-researcher-census/researchers/d-dugaya-a5082091/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Indian Institute of Forest Management · 🇮🇳 IN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 130 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Developing multidimensional agro-silvi-pastoral-horti-medicinal plants models around urban areas: A lesson from corona pandemic** (2025)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

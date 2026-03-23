@@ -1,7 +1,7 @@
 ---
 title: "Andrew Sexton"
-description: "Andrew Sexton is a Senior DAC researcher at Trimeric (United States) in US. With 39 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.199660
+description: "Andrew Sexton is a Senior General CDR researcher at Trimeric (United States) in US. With 39 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.794864
 url: "/cdr-researcher-census/researchers/andrew-sexton-a5090837/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Trimeric (United States) · 🇺🇸 US
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,22 +45,22 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 9 |
 | Citations | 529 |
 | Publications | 39 |
-| CDR Focus | 10.3% |
+| CDR Focus | 1030.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Cost details from front-end engineering design of piperazine with the advanced stripper** (2023)
-   8 citations · DAC
+   8 citations · General CDR
 
 2. **Front-End Engineering Design for Piperazine with the Advanced Stripper** (2022)
-   6 citations · DAC
+   6 citations · General CDR
 
 3. **Membrane Adsorbents Comprising Self-Assembled Inorganic Nanocages (SINCs) for Super-fast Direct Air Capture Enabled by Passive Cooling** (2023)
    1 citations · DAC
 
 4. **“Hybridizing heat-integrated 3D printed modules with mass manufacturable, low pressure drop fiber sorbents” (Final Report)** (2024)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

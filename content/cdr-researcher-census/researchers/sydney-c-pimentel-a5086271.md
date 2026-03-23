@@ -1,7 +1,7 @@
 ---
 title: "Sydney C. Pimentel"
-description: "Sydney C. Pimentel is a Mid-career General CDR researcher at New York University in US. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.905986
+description: "Sydney C. Pimentel is a Mid-career carbon dioxide removal researcher at New York University in US. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.869297
 url: "/cdr-researcher-census/researchers/sydney-c-pimentel-a5086271/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ New York University · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 5 |
 | Citations | 166 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **912: VENTILATORY RATIO IDENTIFIES ORGAN FAILURE RISK IN COVID-19 ARDS REQUIRING MECHANICAL VENTILATION** (2022)
-   0 citations · General CDR
+   0 citations
 
 ## External Profiles
 

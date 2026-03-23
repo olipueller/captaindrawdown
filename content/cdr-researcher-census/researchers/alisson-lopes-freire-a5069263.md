@@ -1,7 +1,7 @@
 ---
 title: "Alisson Lopes Freire"
-description: "Alisson Lopes Freire is a Mid-career General CDR researcher at Universidade Federal de Santa Catarina in BR. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.775259
+description: "Alisson Lopes Freire is a Mid-career carbon dioxide removal researcher at Universidade Federal de Santa Catarina in BR. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.681132
 url: "/cdr-researcher-census/researchers/alisson-lopes-freire-a5069263/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Universidade Federal de Santa Catarina · 🇧🇷 BR
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 4 |
 | Citations | 194 |
 | Publications | 6 |
-| CDR Focus | 16.7% |
+| CDR Focus | 1670.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Synthesis and characterization of geopolymers based on phosphate mining tailings and its application for carbon dioxide and nitrogen adsorption** (2024)
-   7 citations · General CDR
+   7 citations
 
 ## External Profiles
 

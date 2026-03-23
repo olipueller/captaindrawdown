@@ -1,7 +1,7 @@
 ---
 title: "Raquel Renó"
-description: "Raquel Renó is a Mid-career Ocean CDR researcher at Universidade do Estado do Rio de Janeiro in BR. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.992138
+description: "Raquel Renó is a Mid-career General CDR researcher at Universidade do Estado do Rio de Janeiro in BR. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.980039
 url: "/cdr-researcher-census/researchers/raquel-reno-a5061526/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Universidade do Estado do Rio de Janeiro · 🇧🇷 BR
 
 ## CDR Specialization
 
-**Ocean CDR**
+**General CDR**
 
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 3 |
 | Citations | 150 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

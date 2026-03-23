@@ -1,7 +1,7 @@
 ---
 title: "Maria Val Martin"
 description: "Maria Val Martin is a Senior General CDR researcher at University of Sheffield in GB. With 157 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.875591
+date: 2026-03-23T11:46:59.106923
 url: "/cdr-researcher-census/researchers/maria-val-martin-a5037090/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 35 |
 | Citations | 7,422 |
 | Publications | 157 |
-| CDR Focus | 14.6% |
+| CDR Focus | 1150.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    151 citations · Enhanced Weathering
 
 2. **Enhanced weathering in the US Corn Belt delivers carbon removal with agronomic benefits** (2024)
-   110 citations · Enhanced Weathering
+   110 citations
 
 3. **Chemistry-albedo feedbacks offset up to a third of forestation’s CO <sub>2</sub> removal benefits** (2024)
    91 citations · General CDR
@@ -72,13 +72,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    9 citations · General CDR
 
 8. **Global and Regional Hydrological Impacts of Global Forest Expansion** (2024)
-   5 citations · General CDR
+   5 citations
 
 9. **Enhanced weathering in the U.S. Corn Belt delivers carbon removal with agronomic benefits** (2023)
    5 citations · Enhanced Weathering
 
 10. **Improving nitrogen cycling in a land surface model (CLM5) to quantify soil N <sub>2</sub> O, NO and NH <sub>3</sub> emissions from enhanced rock weathering with croplands** (2023)
-   4 citations · Enhanced Weathering
+   4 citations
 
 ## External Profiles
 

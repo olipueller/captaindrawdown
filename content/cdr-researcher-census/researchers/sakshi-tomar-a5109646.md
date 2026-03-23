@@ -1,7 +1,7 @@
 ---
 title: "Sakshi Tomar"
 description: "Sakshi Tomar is a Senior Soil Carbon researcher at Navsari Agricultural University in IN. With 16 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.899501
+date: 2026-03-23T11:47:00.859767
 url: "/cdr-researcher-census/researchers/sakshi-tomar-a5109646/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 168 |
 | Publications | 16 |
-| CDR Focus | 12.5% |
+| CDR Focus | 620.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    1 citations · Soil Carbon
 
 2. **Traditional Grewia optiva based agroforestry systems in the northwestern himalayas: a comprehensive study of carbon, soil health, and nutritional value** (2025)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

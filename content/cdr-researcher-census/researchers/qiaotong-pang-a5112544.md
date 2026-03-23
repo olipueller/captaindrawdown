@@ -1,7 +1,7 @@
 ---
 title: "Qiaotong Pang"
-description: "Qiaotong Pang is a Mid-career Ocean CDR researcher at Nanjing University in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.532521
+description: "Qiaotong Pang is a Mid-career carbon dioxide removal researcher at Nanjing University in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.353722
 url: "/cdr-researcher-census/researchers/qiaotong-pang-a5112544/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Nanjing University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Ocean CDR**
-
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,16 +39,16 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 8 |
 | Citations | 270 |
 | Publications | 16 |
-| CDR Focus | 12.5% |
+| CDR Focus | 620.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Evaluating the net environmental impact of removing plastic pollution from the North Pacific Garbage Patch** (2024)
-   0 citations · General CDR
+   0 citations
 
 2. **Evaluating the net environmental impact of removing plastic pollution from the North Pacific Garbage Patch** (2024)
-   0 citations · General CDR
+   0 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Georgios Xenakis"
-description: "Georgios Xenakis is a Senior General CDR researcher at Forest Research in GB. With 36 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.131696
+description: "Georgios Xenakis is a Senior Soil Carbon researcher at Forest Research in GB. With 36 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.666695
 url: "/cdr-researcher-census/researchers/georgios-xenakis-a5008002/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Forest Research · 🇬🇧 GB
 
 ## CDR Specialization
 
-**General CDR**
+**Soil Carbon**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
 
 ## Metrics
 
@@ -45,22 +45,22 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 12 |
 | Citations | 649 |
 | Publications | 36 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Effects of clear-fell harvesting on soil CO <sub>2</sub> , CH <sub>4</sub> , and N <sub>2</sub> O fluxes in an upland Sitka spruce stand in England** (2021)
-   12 citations · General CDR
+   12 citations
 
 2. **Effects of clearfell harvesting on soil CO <sub>2</sub> , CH <sub>4</sub> and N <sub>2</sub> O fluxes in anupland Sitka spruce stand in England** (2021)
-   1 citations · General CDR
+   1 citations
 
 3. **Comment on bg-2021-15** (2021)
-   0 citations · General CDR
+   0 citations · Soil Carbon
 
 4. **Comment on bg-2021-15** (2021)
-   0 citations · General CDR
+   0 citations · Soil Carbon
 
 ## External Profiles
 

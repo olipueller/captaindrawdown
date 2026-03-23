@@ -1,7 +1,7 @@
 ---
 title: "Arnon D. Lieber"
-description: "Arnon D. Lieber is a Senior Soil Carbon researcher at Universities Research Association in US. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.927174
+description: "Arnon D. Lieber is a Senior carbon dioxide removal researcher at Universities Research Association in US. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.241504
 url: "/cdr-researcher-census/researchers/arnon-d-lieber-a5080891/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Universities Research Association · 🇺🇸 US
 
 **Career Stage:** Senior
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 2,244 |
 | Publications | 8 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Genetically Modified Microorganisms: Risks and Regulatory Considerations for Human and Environmental Health** (2026)
-   0 citations · Soil Carbon
+   0 citations
 
 ## External Profiles
 

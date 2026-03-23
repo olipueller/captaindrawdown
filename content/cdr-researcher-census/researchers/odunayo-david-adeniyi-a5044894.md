@@ -1,7 +1,7 @@
 ---
 title: "Odunayo David Adeniyi"
 description: "Odunayo David Adeniyi is a Mid-career Soil Carbon researcher at Politecnico di Milano in IT. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.784903
+date: 2026-03-23T11:47:00.691747
 url: "/cdr-researcher-census/researchers/odunayo-david-adeniyi-a5044894/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 192 |
 | Publications | 17 |
-| CDR Focus | 11.8% |
+| CDR Focus | 590.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Spatial prediction of soil organic carbon: Combining machine learning with residual kriging in an agricultural lowland area (Lombardy region, Italy)** (2024)
-   27 citations · Soil Carbon
+   27 citations
 
 2. **Spatial Prediction of Soil Organic Carbon Combining Machine Learning with Residual Kriging in an Agricultural Lowland Area (Lombardy Region, Italy)** (2023)
    2 citations · Soil Carbon

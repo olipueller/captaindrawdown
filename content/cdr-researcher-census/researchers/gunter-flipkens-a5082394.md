@@ -1,7 +1,7 @@
 ---
 title: "Gunter Flipkens"
-description: "Gunter Flipkens is a Mid-career General CDR researcher at University of Antwerp in BE. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.992433
+description: "Gunter Flipkens is a Mid-career Ocean CDR researcher at University of Antwerp in BE. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.980608
 url: "/cdr-researcher-census/researchers/gunter-flipkens-a5082394/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Antwerp · 🇧🇪 BE
 
 ## CDR Specialization
 
-**General CDR**
+**Ocean CDR**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 5 |
 | Citations | 150 |
 | Publications | 12 |
-| CDR Focus | 75.0% |
+| CDR Focus | 6670.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -63,10 +63,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    9 citations · Enhanced Weathering
 
 5. **The carbon dioxide removal potential of cement and lime kiln dust via ocean alkalinity enhancement** (2025)
-   1 citations · General CDR
+   1 citations
 
 6. **The carbon dioxide removal potential of cement and lime kiln dust via ocean alkalinity enhancement** (2026)
-   0 citations · General CDR
+   0 citations · Ocean CDR
 
 7. **Reply on RC2** (2025)
    0 citations · General CDR

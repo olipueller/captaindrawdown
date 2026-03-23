@@ -1,7 +1,7 @@
 ---
 title: "Haishui Yang"
 description: "Haishui Yang is a Senior Soil Carbon researcher at Nanjing Agricultural University in CN. With 99 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.908472
+date: 2026-03-23T11:46:59.192885
 url: "/cdr-researcher-census/researchers/haishui-yang-a5026336/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 28 |
 | Citations | 3,016 |
 | Publications | 99 |
-| CDR Focus | 17.2% |
+| CDR Focus | 1520.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -63,10 +63,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    20 citations · Biochar
 
 5. **Microplastic contamination accelerates soil carbon loss through positive priming** (2024)
-   16 citations · Soil Carbon
+   16 citations
 
 6. **Long-term ditch-buried straw return alters soil carbon sequestration, nitrogen availability and grain production in a rice–wheat rotation system** (2021)
-   16 citations · Soil Carbon
+   16 citations · Biochar
 
 7. **Effects of crop rotation on plant- and microbial-derived carbon within particulate and mineral fractions in paddy soils** (2024)
    13 citations · Soil Carbon

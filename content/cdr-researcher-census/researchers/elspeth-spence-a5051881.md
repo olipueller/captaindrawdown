@@ -1,7 +1,7 @@
 ---
 title: "Elspeth Spence"
 description: "Elspeth Spence is a Mid-career General CDR researcher at Cardiff University in GB. With 15 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.153800
+date: 2026-03-23T11:46:59.714726
 url: "/cdr-researcher-census/researchers/elspeth-spence-a5051881/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 11 |
 | Citations | 604 |
 | Publications | 15 |
-| CDR Focus | 33.3% |
+| CDR Focus | 2670.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

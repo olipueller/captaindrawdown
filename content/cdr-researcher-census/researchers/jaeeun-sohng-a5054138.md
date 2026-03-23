@@ -1,7 +1,7 @@
 ---
 title: "Jaeeun Sohng"
 description: "Jaeeun Sohng is a Mid-career Enhanced Weathering researcher at University of California, Davis in US. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.715072
+date: 2026-03-23T11:47:00.601489
 url: "/cdr-researcher-census/researchers/jaeeun-sohng-a5054138/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 6 |
 | Citations | 210 |
 | Publications | 13 |
-| CDR Focus | 69.2% |
+| CDR Focus | 4620.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -60,22 +60,22 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    6 citations · Enhanced Weathering
 
 4. **Reduced accrual of mineral-associated organic matter after two years of enhanced rock weathering in cropland soils, though no net losses of soil organic carbon** (2024)
-   4 citations · Enhanced Weathering
+   4 citations
 
 5. **Evidence for carbon dioxide removal via enhanced rock weathering with steel slag, though not basalt, in a midwestern U.S. field trial** (2026)
-   0 citations · Enhanced Weathering
+   0 citations
 
 6. **Synergistic effects of enhanced rock weathering and organic inputs on soil carbon accrual.** (2025)
    0 citations · Enhanced Weathering
 
 7. **Evidence for carbon dioxide removal via enhanced rock weathering with steel slag, though not basalt, in a midwestern U.S. field trial** (2025)
-   0 citations · Enhanced Weathering
+   0 citations
 
 8. **Testing the potential of ERW in California working lands: challenges and opportunities** (2024)
    0 citations · Enhanced Weathering
 
 9. **Influence of enhanced silicate weathering on microbial processes and soil carbon formation in agricultural soil** (2023)
-   0 citations · Biochar
+   0 citations · Enhanced Weathering
 
 ## External Profiles
 

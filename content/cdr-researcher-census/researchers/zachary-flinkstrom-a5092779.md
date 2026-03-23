@@ -1,7 +1,7 @@
 ---
 title: "Zachary Flinkstrom"
 description: "Zachary Flinkstrom is a Mid-career Soil Carbon researcher at University of Washington in US. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.260467
+date: 2026-03-23T11:47:01.272686
 url: "/cdr-researcher-census/researchers/zachary-flinkstrom-a5092779/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 116 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

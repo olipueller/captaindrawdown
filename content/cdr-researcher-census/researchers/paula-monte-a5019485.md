@@ -1,7 +1,7 @@
 ---
 title: "Paula Monte"
-description: "Paula Monte is a Senior Soil Carbon researcher at Ecologie Microbienne Lyon in FR. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.172286
+description: "Paula Monte is a Senior carbon dioxide removal researcher at Ecologie Microbienne Lyon in FR. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.173863
 url: "/cdr-researcher-census/researchers/paula-monte-a5019485/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Ecologie Microbienne Lyon · 🇫🇷 FR
 
 **Career Stage:** Senior
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 3 |
 | Citations | 126 |
 | Publications | 4 |
-| CDR Focus | 25.0% |
+| CDR Focus | 2500.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Transhumant Sheep Grazing Enhances Ecosystem Multifunctionality in Productive Mountain Grasslands: A Case Study in the Cantabrian Mountains** (2022)
-   21 citations · Soil Carbon
+   21 citations
 
 ## External Profiles
 

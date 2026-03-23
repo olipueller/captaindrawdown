@@ -1,7 +1,7 @@
 ---
 title: "Lening Hu"
 description: "Lening Hu is a Senior Soil Carbon researcher at Guangxi Normal University in CN. With 43 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.422217
+date: 2026-03-23T11:47:00.173781
 url: "/cdr-researcher-census/researchers/lening-hu-a5025163/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 12 |
 | Citations | 323 |
 | Publications | 43 |
-| CDR Focus | 34.9% |
+| CDR Focus | 3020.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -72,7 +72,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    5 citations · Biochar
 
 8. **Bamboo charcoal application altered the mineralization process of soil organic carbon in different succession stages of karst forest land** (2024)
-   5 citations · Soil Carbon
+   5 citations · Biochar
 
 9. **Potential of Calcium-Modified Biochar for Soil Nutrient and Carbon Sequestration in Citrus Orchards** (2024)
    3 citations · Biochar

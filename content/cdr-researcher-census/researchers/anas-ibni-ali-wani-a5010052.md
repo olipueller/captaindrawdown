@@ -1,7 +1,7 @@
 ---
 title: "Anas Ibni Ali Wani"
-description: "Anas Ibni Ali Wani is an Early-career Soil Carbon researcher at School of Planning and Architecture Delhi in IN. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.412443
+description: "Anas Ibni Ali Wani is an Early-career General CDR researcher at School of Planning and Architecture Delhi in IN. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.428138
 url: "/cdr-researcher-census/researchers/anas-ibni-ali-wani-a5010052/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ School of Planning and Architecture Delhi · 🇮🇳 IN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 2 |
 | Citations | 101 |
 | Publications | 3 |
-| CDR Focus | 33.3% |
+| CDR Focus | 3330.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Multi-scale processes influencing global carbon storage and land-carbon-climate nexus: A critical review** (2022)
-   74 citations · Soil Carbon
+   74 citations · General CDR
 
 ## External Profiles
 

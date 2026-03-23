@@ -1,7 +1,7 @@
 ---
 title: "Roberta Veronezi Figueiredo"
-description: "Roberta Veronezi Figueiredo is a Mid-career DAC researcher at Netherlands Organisation for Applied Scientific Research in NL. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.933731
+description: "Roberta Veronezi Figueiredo is a Mid-career General CDR researcher at Netherlands Organisation for Applied Scientific Research in NL. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.903104
 url: "/cdr-researcher-census/researchers/roberta-veronezi-figueiredo-a5084659/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Netherlands Organisation for Applied Scientific Research · 🇳🇱 NL
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,16 +42,16 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 6 |
 | Citations | 161 |
 | Publications | 15 |
-| CDR Focus | 13.3% |
+| CDR Focus | 670.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Negative Emissions in the Waste-to-Energy Sector: An Overview of the Newest-CCUS Programme** (2021)
-   4 citations · BECCS
+   4 citations · General CDR
 
 2. **Comparison of TERC and TNO’s LR2 CO2 capture rigs for normal and accelerated degradation** (2022)
-   2 citations · DAC
+   2 citations · General CDR
 
 ## External Profiles
 

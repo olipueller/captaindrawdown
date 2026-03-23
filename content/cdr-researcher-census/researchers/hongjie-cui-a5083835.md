@@ -1,7 +1,7 @@
 ---
 title: "Hongjie Cui"
-description: "Hongjie Cui is a Mid-career DAC researcher at Institute of Catalysis and Petrochemistry in CN. With 19 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.127132
+description: "Hongjie Cui is a Mid-career carbon dioxide removal researcher at Institute of Catalysis and Petrochemistry in CN. With 19 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.660646
 url: "/cdr-researcher-census/researchers/hongjie-cui-a5083835/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Institute of Catalysis and Petrochemistry · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,16 +39,16 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 12 |
 | Citations | 656 |
 | Publications | 19 |
-| CDR Focus | 10.5% |
+| CDR Focus | 1050.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Direct Air Capture of CO<sub>2</sub> with Metal Nitrate-Doped, Tetraethylenepentamine-Functionalized SBA-15 Adsorbents** (2023)
-   13 citations · DAC
+   13 citations
 
 2. **Structure-performance relationship of additive-incorporated tetraethylenepentamine-functionalized SiO2 in direct air capture of CO2** (2024)
-   6 citations · DAC
+   6 citations
 
 ## External Profiles
 

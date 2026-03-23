@@ -1,7 +1,7 @@
 ---
 title: "Tiago Araújo"
-description: "Tiago Araújo is a Mid-career General CDR researcher at Universidade do Porto in PT. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.193333
+description: "Tiago Araújo is a Mid-career carbon dioxide removal researcher at Universidade do Porto in PT. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.783813
 url: "/cdr-researcher-census/researchers/tiago-araujo-a5006332/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Universidade do Porto · 🇵🇹 PT
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 6 |
 | Citations | 538 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Cellulose-based carbon membranes for gas separations - Unraveling structural parameters and surface chemistry for superior separation performance** (2022)
-   47 citations · General CDR
+   47 citations
 
 ## External Profiles
 

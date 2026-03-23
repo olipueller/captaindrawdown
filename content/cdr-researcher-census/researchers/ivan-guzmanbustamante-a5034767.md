@@ -1,0 +1,63 @@
+---
+title: "Ivan Guzman‐Bustamante"
+description: "Ivan Guzman‐Bustamante is a Mid-career Soil Carbon researcher at University of Hohenheim in DE. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.299667
+url: "/cdr-researcher-census/researchers/ivan-guzmanbustamante-a5034767/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Ivan Guzman\u2010Bustamante",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/ivan-guzmanbustamante-a5034767/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "University of Hohenheim"
+  },
+  "sameAs": [
+    "https://orcid.org/0000-0001-6891-0041",
+    "https://openalex.org/A5034767856"
+  ]
+}
+</script>
+
+## Profile
+
+**Ivan Guzman‐Bustamante**  
+University of Hohenheim · 🇩🇪 DE
+
+**Career Stage:** Mid-career
+
+## CDR Specialization
+
+**Soil Carbon**
+
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 7 |
+| Citations | 285 |
+| Publications | 14 |
+| CDR Focus | 710.0% |
+| Trajectory | Growing |
+
+## Top CDR Publications
+
+1. **Sustained Soil Organic Carbon Sequestration by Perennial Miscanthus: A Long-Term Assessment Against Annual Maize and a Crop Rotation** (2025)
+   0 citations · Soil Carbon
+
+## External Profiles
+
+- [ORCID](https://orcid.org/0000-0001-6891-0041)
+- [OpenAlex](https://openalex.org/A5034767856)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

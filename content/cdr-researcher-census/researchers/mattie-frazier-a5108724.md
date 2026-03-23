@@ -1,7 +1,7 @@
 ---
 title: "Mattie Frazier"
-description: "Mattie Frazier is a Mid-career Soil Carbon researcher at North Carolina State University in US. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.138749
+description: "Mattie Frazier is a Mid-career Biochar researcher at North Carolina State University in US. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.137442
 url: "/cdr-researcher-census/researchers/mattie-frazier-a5108724/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ North Carolina State University · 🇺🇸 US
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 3 |
 | Citations | 130 |
 | Publications | 4 |
-| CDR Focus | 50.0% |
+| CDR Focus | 5000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

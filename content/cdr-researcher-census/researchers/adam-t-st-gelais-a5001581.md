@@ -1,7 +1,7 @@
 ---
 title: "Adam T. St. Gelais"
 description: "Adam T. St. Gelais is a Mid-career General CDR researcher at University of Maine in US. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.617610
+date: 2026-03-23T11:47:00.469222
 url: "/cdr-researcher-census/researchers/adam-t-st-gelais-a5001581/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 9 |
 | Citations | 239 |
 | Publications | 15 |
-| CDR Focus | 13.3% |
+| CDR Focus | 1330.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

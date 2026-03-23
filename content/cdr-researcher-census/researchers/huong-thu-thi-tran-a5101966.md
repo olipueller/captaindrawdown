@@ -1,7 +1,7 @@
 ---
 title: "Huong Thu Thi Tran"
-description: "Huong Thu Thi Tran is a Mid-career General CDR researcher. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.275498
+description: "Huong Thu Thi Tran is a Mid-career Biochar researcher. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.286676
 url: "/cdr-researcher-census/researchers/huong-thu-thi-tran-a5101966/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,9 +29,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -40,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 5 |
 | Citations | 114 |
 | Publications | 20 |
-| CDR Focus | 10.0% |
+| CDR Focus | 500.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -49,7 +49,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    1 citations · Biochar
 
 2. **THE STUDY ON SOME PARAMETERS AFFECTING THE DEGRADATION OF METHYLENE BLUE IN WATER BY ELECTRO-FENTON USING TI/PBO2 ANODE** (2021)
-   1 citations · General CDR
+   1 citations
 
 ## External Profiles
 

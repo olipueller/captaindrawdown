@@ -1,7 +1,7 @@
 ---
 title: "Hannah V. Cooper"
 description: "Hannah V. Cooper is a Mid-career Soil Carbon researcher at University of Nottingham in GB. With 32 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.050675
+date: 2026-03-23T11:46:59.520097
 url: "/cdr-researcher-census/researchers/hannah-v-cooper-a5025415/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 14 |
 | Citations | 881 |
 | Publications | 32 |
-| CDR Focus | 15.6% |
+| CDR Focus | 1250.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    3 citations · Soil Carbon
 
 4. **Missing the input: The underrepresentation of plant physiology in global soil carbon research** (2024)
-   2 citations · Soil Carbon
+   2 citations
 
 5. **The role of zero-tillage in mitigating climate change in tropical soils** (2023)
    1 citations · Soil Carbon

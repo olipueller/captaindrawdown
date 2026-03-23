@@ -1,7 +1,7 @@
 ---
 title: "Abhilash Dutta Roy"
-description: "Abhilash Dutta Roy is a Mid-career Soil Carbon researcher at Universitat de Lleida in ES. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.960313
+description: "Abhilash Dutta Roy is a Mid-career General CDR researcher at Universitat de Lleida in ES. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.935735
 url: "/cdr-researcher-census/researchers/abhilash-dutta-roy-a5036522/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Universitat de Lleida · 🇪🇸 ES
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,16 +45,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 156 |
 | Publications | 11 |
-| CDR Focus | 18.2% |
+| CDR Focus | 910.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Biomass Production and Carbon Sequestration Potential of Different Agroforestry Systems in India: A Critical Review** (2022)
-   86 citations · Soil Carbon
+   86 citations · BECCS
 
 2. **Mangrove-based carbon market projects: Current trends and future perspectives** (2025)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

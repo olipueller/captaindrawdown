@@ -1,7 +1,7 @@
 ---
 title: "Yifeng Zhang"
 description: "Yifeng Zhang is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.804097
+date: 2026-03-23T11:47:00.713506
 url: "/cdr-researcher-census/researchers/yifeng-zhang-a5101829/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 187 |
 | Publications | 13 |
-| CDR Focus | 23.1% |
+| CDR Focus | 2310.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

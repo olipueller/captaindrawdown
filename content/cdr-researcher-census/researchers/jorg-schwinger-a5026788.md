@@ -1,7 +1,7 @@
 ---
 title: "Jörg Schwinger"
-description: "Jörg Schwinger is an Eminent Ocean CDR researcher at Bjerknes Centre for Climate Research in NO. With 235 publications and an h-index of 47, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.859574
+description: "Jörg Schwinger is an Eminent General CDR researcher at Bjerknes Centre for Climate Research in NO. With 235 publications and an h-index of 47, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.075922
 url: "/cdr-researcher-census/researchers/jorg-schwinger-a5026788/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Bjerknes Centre for Climate Research · 🇳🇴 NO
 
 ## CDR Specialization
 
-**Ocean CDR**
+**General CDR**
 
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 47 |
 | Citations | 23,235 |
 | Publications | 235 |
-| CDR Focus | 12.8% |
+| CDR Focus | 1020.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,13 +54,13 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    46 citations · General CDR
 
 2. **The representation of alkalinity and the carbonate pump from CMIP5 to CMIP6 Earth system models and implications for the carbon cycle** (2023)
-   38 citations · Ocean CDR
+   38 citations · General CDR
 
 3. **Carbon cycle feedbacks in an idealized simulation and a scenario simulation of negative emissions in CMIP6 Earth system models** (2024)
    15 citations · General CDR
 
 4. **On the emission-path dependency of the efficiency of ocean alkalinity enhancement** (2024)
-   14 citations · General CDR
+   14 citations · Ocean CDR
 
 5. **The representation of alkalinity and the carbonate pump from CMIP5 to CMIP6 ESMs and implications for the ocean carbon cycle** (2022)
    9 citations · Ocean CDR
@@ -75,7 +75,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    4 citations · General CDR
 
 9. **Tracer-based Rapid Anthropogenic Carbon Estimation (TRACE)** (2024)
-   3 citations · Ocean CDR
+   3 citations · General CDR
 
 10. **Irreversible Land Water Availability Changes From a Potential ITCZ Shift During Temperature Overshoot** (2025)
    2 citations · General CDR

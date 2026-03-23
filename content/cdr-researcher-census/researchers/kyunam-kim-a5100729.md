@@ -1,7 +1,7 @@
 ---
 title: "Kyunam Kim"
-description: "Kyunam Kim is a Senior DAC researcher at Korea Advanced Institute of Science and Technology in KR. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.468050
+description: "Kyunam Kim is a Senior carbon dioxide removal researcher at Korea Advanced Institute of Science and Technology in KR. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.250250
 url: "/cdr-researcher-census/researchers/kyunam-kim-a5100729/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Korea Advanced Institute of Science and Technology · 🇰🇷 KR
 
 **Career Stage:** Senior
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 7 |
 | Citations | 298 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Exploring the impact of hourly variability of air condition on the efficiency of direct air capture** (2025)
-   8 citations · DAC
+   8 citations
 
 ## External Profiles
 

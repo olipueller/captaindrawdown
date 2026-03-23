@@ -1,7 +1,7 @@
 ---
 title: "Katja Kuparinen"
-description: "Katja Kuparinen is a Mid-career BECCS researcher at Lappeenranta-Lahti University of Technology in FI. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.409880
+description: "Katja Kuparinen is a Mid-career General CDR researcher at Lappeenranta-Lahti University of Technology in FI. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.150104
 url: "/cdr-researcher-census/researchers/katja-kuparinen-a5057373/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Lappeenranta-Lahti University of Technology ·  FI
 
 ## CDR Specialization
 
-**BECCS**
+**General CDR**
 
-Combining biomass energy with carbon capture and storage to achieve negative emissions.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 7 |
 | Citations | 331 |
 | Publications | 19 |
-| CDR Focus | 21.1% |
+| CDR Focus | 2110.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Future of forest industry in carbon-neutral reality: Finnish and Swedish visions** (2022)
-   26 citations · BECCS
+   26 citations · General CDR
 
 2. **Effect of biomass-based carbon capture on the sustainability and economics of pulp and paper production in the Nordic mills** (2022)
    20 citations · BECCS

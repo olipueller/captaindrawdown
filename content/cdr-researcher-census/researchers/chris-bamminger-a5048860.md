@@ -1,7 +1,7 @@
 ---
 title: "Chris Bamminger"
-description: "Chris Bamminger is a Mid-career Enhanced Weathering researcher at Ministerium für Verkehr des Landes Nordrhein-Westfalen in DE. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.013083
+description: "Chris Bamminger is a Mid-career carbon dioxide removal researcher at Ministerium für Verkehr des Landes Nordrhein-Westfalen in DE. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.438834
 url: "/cdr-researcher-census/researchers/chris-bamminger-a5048860/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Ministerium für Verkehr des Landes Nordrhein-Westfalen · 🇩🇪 DE
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Enhanced Weathering**
-
-Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,16 +39,16 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 9 |
 | Citations | 1,095 |
 | Publications | 16 |
-| CDR Focus | 12.5% |
+| CDR Focus | 620.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Evidences of soil warming from long-term trends (1951–2018) in North Rhine-Westphalia, Germany** (2022)
-   16 citations · Enhanced Weathering
+   16 citations
 
 2. **Soil Temperature Strongly Increases: Evidences From Long-term Trends (1951 – 2018) in North-rhine Westphalia, Germany** (2021)
-   0 citations · Enhanced Weathering
+   0 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Azam Usto"
-description: "Muhammad Azam Usto is a Mid-career General CDR researcher at Dawood University of Engineering and Technology in PK. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.786704
+description: "Muhammad Azam Usto is a Mid-career carbon dioxide removal researcher at Dawood University of Engineering and Technology in PK. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.693602
 url: "/cdr-researcher-census/researchers/muhammad-azam-usto-a5065159/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Dawood University of Engineering and Technology · 🇵🇰 PK
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,16 +36,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 5 |
 | Citations | 191 |
 | Publications | 15 |
-| CDR Focus | 13.3% |
+| CDR Focus | 670.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **CO2 Removal from CH4 by using Cellulose Acetate (CA) Membrane in Comparison with Adsorption, Absorption and Cryogenic Processes: A Case Study** (2021)
-   1 citations · General CDR
+   1 citations
 
 2. **Biochemical Treatment of Poultry Manure and Buffalo Dung to Enhance Methane Generation Using Lab-Scale An-Aerobic Digester: Effect of Mesophillic Condition on Methane Generation** (2023)
-   0 citations · General CDR
+   0 citations
 
 ## External Profiles
 

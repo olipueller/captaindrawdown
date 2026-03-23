@@ -1,7 +1,7 @@
 ---
 title: "Dorian Leger"
-description: "Dorian Leger is an Early-career DAC researcher at Central Bank of Luxembourg in LU. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.942812
+description: "Dorian Leger is an Early-career carbon dioxide removal researcher at Central Bank of Luxembourg in LU. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.916701
 url: "/cdr-researcher-census/researchers/dorian-leger-a5052552/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Central Bank of Luxembourg ·  LU
 
 **Career Stage:** Early-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 3 |
 | Citations | 159 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Photovoltaic-driven microbial protein production can use land and sunlight more efficiently than conventional crops** (2021)
-   152 citations · DAC
+   152 citations
 
 ## External Profiles
 

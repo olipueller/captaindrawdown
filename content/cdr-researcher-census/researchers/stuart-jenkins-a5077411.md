@@ -1,7 +1,7 @@
 ---
 title: "Stuart Jenkins"
 description: "Stuart Jenkins is a Senior General CDR researcher at University of Oxford in GB. With 66 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.924653
+date: 2026-03-23T11:46:59.233140
 url: "/cdr-researcher-census/researchers/stuart-jenkins-a5077411/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 21 |
 | Citations | 2,342 |
 | Publications | 66 |
-| CDR Focus | 10.6% |
+| CDR Focus | 760.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    68 citations · General CDR
 
 3. **Upstream decarbonization through a carbon takeback obligation: An affordable backstop climate policy** (2021)
-   57 citations · DAC
+   57 citations · General CDR
 
 4. **Responsible carbon dioxide removals and the EU’s 2040 climate target** (2024)
    11 citations · General CDR
@@ -66,7 +66,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    0 citations · Biochar
 
 6. **Is there still a case for Carbon Takeback or Carbon Removal Obligations in a world of low renewable energy costs?** (2022)
-   0 citations · DAC
+   0 citations · General CDR
 
 7. **Using an emulator to apply a Carbon Takeback Obligation alongside demand-side carbon pricing in Integrated Assessment Models** (2021)
    0 citations · DAC

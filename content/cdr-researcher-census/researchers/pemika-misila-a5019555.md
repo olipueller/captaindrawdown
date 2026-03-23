@@ -1,7 +1,7 @@
 ---
 title: "Pemika Misila"
-description: "Pemika Misila is a Mid-career BECCS researcher at Thammasat University in TH. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.368450
+description: "Pemika Misila is a Mid-career General CDR researcher at Thammasat University in TH. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.386146
 url: "/cdr-researcher-census/researchers/pemika-misila-a5019555/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Thammasat University · 🇹🇭 TH
 
 ## CDR Specialization
 
-**BECCS**
+**General CDR**
 
-Combining biomass energy with carbon capture and storage to achieve negative emissions.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 3 |
 | Citations | 105 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **A Multicriteria Decision Analysis to Selection of Low-carbon Emitting Technologies under Joint Crediting Mechanism for Thailand's Carbon Neutrality 2050** (2024)
-   1 citations · BECCS
+   1 citations · General CDR
 
 ## External Profiles
 

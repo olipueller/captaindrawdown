@@ -1,7 +1,7 @@
 ---
 title: "Maridee Weber"
 description: "Maridee Weber is a Mid-career General CDR researcher at Joint Global Change Research Institute in US. With 18 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.648944
+date: 2026-03-23T11:47:00.513470
 url: "/cdr-researcher-census/researchers/maridee-weber-a5034531/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,19 +45,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 4 |
 | Citations | 228 |
 | Publications | 18 |
-| CDR Focus | 44.4% |
+| CDR Focus | 2780.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Diverse carbon dioxide removal approaches could reduce impacts on the energy–water–land system** (2023)
-   184 citations · BECCS
+   184 citations · General CDR
 
 2. **Biochar as a carbon dioxide removal strategy in integrated long-run mitigation scenarios** (2024)
-   13 citations · BECCS
+   13 citations · Biochar
 
 3. **Biochar as a carbon dioxide removal strategy in integrated long-run climate scenarios** (2022)
-   10 citations · BECCS
+   10 citations · Biochar
 
 4. **Carbon neutrality in Malaysia and Kuala Lumpur: insights from stakeholder-driven integrated assessment modeling** (2024)
    2 citations · General CDR
@@ -66,10 +66,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    1 citations · General CDR
 
 6. **Comparing the Air Quality Impacts of Future Decarbonization Scenarios Using the GCAM-USA—CMAQ System of Models** (2025)
-   0 citations · BECCS
+   0 citations
 
 7. **Diverse carbon dioxide removal approaches could reduce energy-water-land impacts (output data)** (2023)
-   0 citations · General CDR
+   0 citations
 
 8. **Diverse carbon dioxide removal approaches could reduce energy-water-land impacts (output data)** (2023)
    0 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Jinhua Cao"
 description: "Jinhua Cao is a Mid-career Soil Carbon researcher at Xinjiang University in CN. With 19 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.524389
+date: 2026-03-23T11:47:00.340920
 url: "/cdr-researcher-census/researchers/jinhua-cao-a5101053/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 274 |
 | Publications | 19 |
-| CDR Focus | 15.8% |
+| CDR Focus | 1050.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    4 citations · Soil Carbon
 
 2. **Soil Organic Carbon Sequestration Potential, Storage, and Drivers in China** (2024)
-   0 citations · Soil Carbon
+   0 citations
 
 3. **Soil Organic Carbon Sequestration Potential, Storage, and Drivers in China** (2024)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

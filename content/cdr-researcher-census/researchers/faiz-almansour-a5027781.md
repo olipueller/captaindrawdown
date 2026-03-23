@@ -1,7 +1,7 @@
 ---
 title: "Faiz Almansour"
-description: "Faiz Almansour is a Mid-career DAC researcher at Saudi Aramco (Saudi Arabia) in SA. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.752185
+description: "Faiz Almansour is a Mid-career carbon dioxide removal researcher at Saudi Aramco (Saudi Arabia) in SA. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.649687
 url: "/cdr-researcher-census/researchers/faiz-almansour-a5027781/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Saudi Aramco (Saudi Arabia) · 🇸🇦 SA
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,19 +39,19 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 6 |
 | Citations | 200 |
 | Publications | 20 |
-| CDR Focus | 15.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Unraveling the CO2/H2O co-adsorption mechanism: A dynamic study on templated carbons for CO2 capture** (2026)
-   0 citations · DAC
+   0 citations
 
 2. **Quantitative analysis of temperature-dependent transition of CO2 adsorption mechanisms by adsorbents – From enthalpy-driven interactions to pore-filling capture** (2026)
-   0 citations · DAC
+   0 citations
 
 3. **Unraveling the CO2/H2O co-adsorption mechanism: A dynamic study on templated carbons for CO2 capture** (2025)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

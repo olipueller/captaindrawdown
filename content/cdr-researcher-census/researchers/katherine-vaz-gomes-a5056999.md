@@ -1,7 +1,7 @@
 ---
 title: "Katherine Vaz Gomes"
 description: "Katherine Vaz Gomes is an Early-career DAC researcher at University of Pennsylvania in US. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.132125
+date: 2026-03-23T11:46:59.668036
 url: "/cdr-researcher-census/researchers/katherine-vaz-gomes-a5056999/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 3 |
 | Citations | 648 |
 | Publications | 6 |
-| CDR Focus | 16.7% |
+| CDR Focus | 1670.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

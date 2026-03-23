@@ -1,7 +1,7 @@
 ---
 title: "Eman F. H. Alzaimoor"
-description: "Eman F. H. Alzaimoor is an Early-career DAC researcher at University of Bahrain in BH. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.101841
+description: "Eman F. H. Alzaimoor is an Early-career carbon dioxide removal researcher at University of Bahrain in BH. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.103523
 url: "/cdr-researcher-census/researchers/eman-f-h-alzaimoor-a5086598/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ University of Bahrain ·  BH
 
 **Career Stage:** Early-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 3 |
 | Citations | 134 |
 | Publications | 5 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Carbon Capture Materials in Post-Combustion: Adsorption and Absorption-Based Processes** (2023)
-   49 citations · DAC
+   49 citations
 
 ## External Profiles
 

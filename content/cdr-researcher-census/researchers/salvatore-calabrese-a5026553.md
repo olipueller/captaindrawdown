@@ -1,7 +1,7 @@
 ---
 title: "Salvatore Calabrese"
 description: "Salvatore Calabrese is a Senior Enhanced Weathering researcher at Texas A&M University in US. With 98 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.059279
+date: 2026-03-23T11:46:59.536788
 url: "/cdr-researcher-census/researchers/salvatore-calabrese-a5026553/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 20 |
 | Citations | 849 |
 | Publications | 98 |
-| CDR Focus | 21.4% |
+| CDR Focus | 1940.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -69,7 +69,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    4 citations · Enhanced Weathering
 
 7. **Classifying the potential for soil organic carbon gain under regenerative agriculture** (2025)
-   3 citations · Soil Carbon
+   3 citations · General CDR
 
 8. **Expert elicitation on agricultural enhanced weathering highlights CO2 removal potential and uncertainties in loss pathways** (2025)
    2 citations · Enhanced Weathering

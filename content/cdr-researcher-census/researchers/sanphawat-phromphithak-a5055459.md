@@ -1,7 +1,7 @@
 ---
 title: "Sanphawat Phromphithak"
-description: "Sanphawat Phromphithak is a Mid-career DAC researcher at University of South Carolina in US. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.339507
+description: "Sanphawat Phromphithak is a Mid-career Biochar researcher at University of South Carolina in US. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.031055
 url: "/cdr-researcher-census/researchers/sanphawat-phromphithak-a5055459/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ University of South Carolina · 🇺🇸 US
 
 ## CDR Specialization
 
-**DAC**
+**Biochar**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -42,16 +42,16 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 9 |
 | Citations | 381 |
 | Publications | 17 |
-| CDR Focus | 11.8% |
+| CDR Focus | 1180.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Low-transition temperature mixtures pretreatment and hydrothermal carbonization of corncob residues for CO2 capture materials** (2024)
-   9 citations · DAC
+   9 citations · Biochar
 
 2. **Investigating direct air capture of carbon dioxide using alkali dosed biochar-based adsorbent** (2024)
-   1 citations · DAC
+   1 citations · Biochar
 
 ## External Profiles
 

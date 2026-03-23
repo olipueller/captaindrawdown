@@ -1,7 +1,7 @@
 ---
 title: "Dhirender Kumar"
-description: "Dhirender Kumar is a Mid-career Soil Carbon researcher at Dr. Yashwant Singh Parmar University of Horticulture and Forestry in IN. With 40 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.170756
+description: "Dhirender Kumar is a Mid-career General CDR researcher at Dr. Yashwant Singh Parmar University of Horticulture and Forestry in IN. With 40 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.742249
 url: "/cdr-researcher-census/researchers/dhirender-kumar-a5064777/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Dr. Yashwant Singh Parmar University of Horticulture and Forestry · 🇮🇳 IN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,25 +45,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 12 |
 | Citations | 577 |
 | Publications | 40 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Biomass Production and Carbon Sequestration Potential of Different Agroforestry Systems in India: A Critical Review** (2022)
-   86 citations · Soil Carbon
+   86 citations · BECCS
 
 2. **Agroforestry systems in the mid-hills of the north-western Himalaya: A sustainable pathway to improved soil health and climate resilience** (2023)
-   24 citations · Soil Carbon
+   24 citations · General CDR
 
 3. **Carbon density and C‐sequestration of tree plantation ecosystems in the mid‐hills of the <scp>NW‐</scp>Himalayas: Implications for climate change mitigation** (2022)
-   19 citations · Soil Carbon
+   19 citations · General CDR
 
 4. **Carbon stock inventory and biomass production in different land use systems of Northwestern Himalaya** (2023)
-   6 citations · Soil Carbon
+   6 citations · General CDR
 
 5. **Biomass Partitioning, Carbon Storage, and Pea (Pisum sativum L.) Crop Production under a Grewia optiva-Based Agroforestry System in the Mid-Hills of the Northwestern Himalayas** (2024)
-   3 citations · Soil Carbon
+   3 citations · General CDR
 
 ## External Profiles
 

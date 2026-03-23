@@ -1,7 +1,7 @@
 ---
 title: "Smriti Basnett"
-description: "Smriti Basnett is a Mid-career Ocean CDR researcher at Government of Sikkim in IN. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.595202
+description: "Smriti Basnett is a Mid-career General CDR researcher at Government of Sikkim in IN. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.434863
 url: "/cdr-researcher-census/researchers/smriti-basnett-a5064261/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Government of Sikkim · 🇮🇳 IN
 
 ## CDR Specialization
 
-**Ocean CDR**
+**General CDR**
 
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,7 +42,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 3 |
 | Citations | 248 |
 | Publications | 8 |
-| CDR Focus | 25.0% |
+| CDR Focus | 2500.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

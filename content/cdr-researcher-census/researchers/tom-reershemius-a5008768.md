@@ -1,7 +1,7 @@
 ---
 title: "Tom Reershemius"
 description: "Tom Reershemius is a Mid-career Enhanced Weathering researcher at Newcastle University in GB. With 34 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.330571
+date: 2026-03-23T11:47:00.018798
 url: "/cdr-researcher-census/researchers/tom-reershemius-a5008768/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,19 +45,19 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 7 |
 | Citations | 389 |
 | Publications | 34 |
-| CDR Focus | 82.4% |
+| CDR Focus | 6180.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Enhanced weathering in the US Corn Belt delivers carbon removal with agronomic benefits** (2024)
-   110 citations · Enhanced Weathering
+   110 citations
 
 2. **River chemistry constraints on the carbon capture potential of surficial enhanced rock weathering** (2022)
    57 citations · Enhanced Weathering
 
 3. **Initial Validation of a Soil-Based Mass-Balance Approach for Empirical Monitoring of Enhanced Rock Weathering Rates** (2023)
-   56 citations · Enhanced Weathering
+   56 citations
 
 4. **A review of measurement for quantification of carbon dioxide removal by enhanced weathering in soil** (2024)
    40 citations · Enhanced Weathering
@@ -69,7 +69,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    9 citations · Enhanced Weathering
 
 7. **A Review of Measurement for Quantification of Carbon Dioxide Removal by Enhanced Weathering in Soil** (2023)
-   6 citations · Enhanced Weathering
+   6 citations
 
 8. **Initial validation of a soil-based mass-balance approach for empirical monitoring of enhanced rock weathering rates** (2023)
    6 citations · Enhanced Weathering

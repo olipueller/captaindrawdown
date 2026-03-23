@@ -1,7 +1,7 @@
 ---
 title: "Magdalena Gus-Stolarczyk"
 description: "Magdalena Gus-Stolarczyk is a Mid-career Soil Carbon researcher at Jagiellonian University in PL. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.115173
+date: 2026-03-23T11:47:01.116657
 url: "/cdr-researcher-census/researchers/magdalena-gus-stolarczyk-a5035260/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 133 |
 | Publications | 16 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    0 citations · Soil Carbon
 
 2. **Change in soil organic carbon content in European mountain forests based on LUCAS soil databases 2009-2018** (2023)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

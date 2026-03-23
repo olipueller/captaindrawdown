@@ -1,7 +1,7 @@
 ---
 title: "Xiao Ding"
-description: "Xiao Ding is a Mid-career DAC researcher at Zhejiang University in CN. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.255977
+description: "Xiao Ding is a Mid-career carbon dioxide removal researcher at Zhejiang University in CN. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.266019
 url: "/cdr-researcher-census/researchers/xiao-ding-a5113191/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Zhejiang University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 5 |
 | Citations | 116 |
 | Publications | 5 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Enhanced post-combustion CO2 capture and direct air capture by plasma surface functionalization of graphene adsorbent** (2024)
-   17 citations · DAC
+   17 citations
 
 ## External Profiles
 

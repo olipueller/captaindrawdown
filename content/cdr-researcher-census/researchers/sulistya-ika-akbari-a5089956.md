@@ -1,7 +1,7 @@
 ---
 title: "Sulistya Ika Akbari"
 description: "Sulistya Ika Akbari is a Mid-career Soil Carbon researcher at Padjadjaran University in ID. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.198484
+date: 2026-03-23T11:47:01.203534
 url: "/cdr-researcher-census/researchers/sulistya-ika-akbari-a5089956/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 123 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

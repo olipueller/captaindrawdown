@@ -1,7 +1,7 @@
 ---
 title: "Yangsiyu Lu"
-description: "Yangsiyu Lu is a Mid-career BECCS researcher at South China University of Technology in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.407979
+description: "Yangsiyu Lu is a Mid-career General CDR researcher at South China University of Technology in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.145670
 url: "/cdr-researcher-census/researchers/yangsiyu-lu-a5059911/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ South China University of Technology · 🇨🇳 CN
 
 ## CDR Specialization
 
-**BECCS**
+**General CDR**
 
-Combining biomass energy with carbon capture and storage to achieve negative emissions.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 7 |
 | Citations | 332 |
 | Publications | 15 |
-| CDR Focus | 13.3% |
+| CDR Focus | 1330.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
    37 citations · BECCS
 
 2. **Environmental risks, stranded assets, and the impacts of regulation on firm productivity** (2021)
-   0 citations · BECCS
+   0 citations · General CDR
 
 ## External Profiles
 

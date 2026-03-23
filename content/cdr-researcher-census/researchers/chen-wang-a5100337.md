@@ -1,7 +1,7 @@
 ---
 title: "Chen Wang"
-description: "Chen Wang is a Senior General CDR researcher at Nanjing Forestry University in CN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.630394
+description: "Chen Wang is a Mid-career Soil Carbon researcher at Ministry of Natural Resources in CN. With 31 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.463565
 url: "/cdr-researcher-census/researchers/chen-wang-a5100337/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,11 +16,11 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/chen-wang-a5100337/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Nanjing Forestry University"
+    "name": "Ministry of Natural Resources"
   },
   "sameAs": [
-    "https://orcid.org/0000-0003-4603-2465",
-    "https://openalex.org/A5100337695"
+    "https://orcid.org/0000-0001-8984-2770",
+    "https://openalex.org/A5100337513"
   ]
 }
 </script>
@@ -28,35 +28,38 @@ robots: "index, follow"
 ## Profile
 
 **Chen Wang**  
-Nanjing Forestry University · 🇨🇳 CN
+Ministry of Natural Resources · 🇨🇳 CN
 
-**Career Stage:** Senior
+**Career Stage:** Mid-career
 
 ## CDR Specialization
 
-**General CDR**
+**Soil Carbon**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
 
 ## Metrics
 
 | Metric | Value |
 |--------|-------|
-| h-index | 4 |
-| Citations | 82 |
-| Publications | 6 |
-| CDR Focus | 16.7% |
+| h-index | 8 |
+| Citations | 241 |
+| Publications | 31 |
+| CDR Focus | 650.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
-1. **A low capital method for silicon interference in bamboo kraft pulping alkaline recovery system** (2021)
-   13 citations · General CDR
+1. **Soil microbial communities regulate the threshold effect of salinity stress on SOM decomposition in coastal salt marshes** (2023)
+   38 citations · Soil Carbon
+
+2. **Impacts of Ecological Restoration Projects on Ecosystem Carbon Storage of Tongluo Mountain Mining Area, Chongqing, in Southwest China** (2025)
+   0 citations · Soil Carbon
 
 ## External Profiles
 
-- [ORCID](https://orcid.org/0000-0003-4603-2465)
-- [OpenAlex](https://openalex.org/A5100337695)
+- [ORCID](https://orcid.org/0000-0001-8984-2770)
+- [OpenAlex](https://openalex.org/A5100337513)
 
 ---
 

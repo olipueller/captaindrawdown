@@ -1,7 +1,7 @@
 ---
 title: "Viet-Cuong Dang"
-description: "Viet-Cuong Dang is an Early-career Biochar researcher at Vietnam National University, Hanoi in VN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.074051
+description: "Viet-Cuong Dang is an Early-career carbon dioxide removal researcher at Vietnam National University, Hanoi in VN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.069767
 url: "/cdr-researcher-census/researchers/viet-cuong-dang-a5112689/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Vietnam National University, Hanoi · 🇻🇳 VN
 
 **Career Stage:** Early-career
 
-## CDR Specialization
-
-**Biochar**
-
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 4 |
 | Citations | 138 |
 | Publications | 5 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Removal of direct blue 71 and methylene blue from water by graphene oxide: effects of charge interaction and experimental parameters** (2022)
-   14 citations · Biochar
+   14 citations
 
 ## External Profiles
 

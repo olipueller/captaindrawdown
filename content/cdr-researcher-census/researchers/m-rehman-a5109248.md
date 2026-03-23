@@ -1,7 +1,7 @@
 ---
 title: "M. Rehman"
-description: "M. Rehman is a Mid-career Soil Carbon researcher at University of Agriculture Faisalabad in PK. With 10 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.922766
+description: "M. Rehman is a Mid-career carbon dioxide removal researcher at University of Agriculture Faisalabad in PK. With 10 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.890321
 url: "/cdr-researcher-census/researchers/m-rehman-a5109248/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ University of Agriculture Faisalabad · 🇵🇰 PK
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 3 |
 | Citations | 163 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Optimizing Livestock Feed Systems: A Multi-faceted Approach for Sustainable and Resilient Animal Agriculture; A comprehensive review** (2024)
-   1 citations · Enhanced Weathering
+   1 citations
 
 ## External Profiles
 

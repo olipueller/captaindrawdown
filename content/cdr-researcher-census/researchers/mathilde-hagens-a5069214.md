@@ -1,7 +1,7 @@
 ---
 title: "Mathilde Hagens"
 description: "Mathilde Hagens is a Mid-career Enhanced Weathering researcher at Wageningen University & Research in NL. With 75 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.975308
+date: 2026-03-23T11:46:59.344794
 url: "/cdr-researcher-census/researchers/mathilde-hagens-a5069214/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 16 |
 | Citations | 1,433 |
 | Publications | 75 |
-| CDR Focus | 33.3% |
+| CDR Focus | 2930.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -66,7 +66,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    9 citations · Enhanced Weathering
 
 6. **How earthworms thrive and drive silicate rock weathering in an artificial organo-mineral system** (2024)
-   8 citations · Biochar
+   8 citations · Enhanced Weathering
 
 7. **Pyrogenic carbon and carbonating minerals for carbon capture and storage (PyMiCCS) part II: organic and inorganic carbon dioxide removal in an Oxisol** (2025)
    6 citations · Biochar
@@ -78,7 +78,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    1 citations · Enhanced Weathering
 
 10. **Machine learning-based identification of key biotic and abiotic drivers of mineral weathering rate in a complex enhanced weathering experiment** (2025)
-   1 citations · Biochar
+   1 citations
 
 ## External Profiles
 

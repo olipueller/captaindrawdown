@@ -1,7 +1,7 @@
 ---
 title: "Minshen Ying"
-description: "Minshen Ying is an Early-career Soil Carbon researcher at Zhejiang A & F University in CN. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.124519
+description: "Minshen Ying is an Early-career carbon dioxide removal researcher at Zhejiang A & F University in CN. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.125262
 url: "/cdr-researcher-census/researchers/minshen-ying-a5054842/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Zhejiang A & F University · 🇨🇳 CN
 
 **Career Stage:** Early-career
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 2 |
 | Citations | 132 |
 | Publications | 3 |
-| CDR Focus | 33.3% |
+| CDR Focus | 3330.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Temperature-dependent modulation of soil organic carbon by earthworm (Pheretima guillelmi) bioturbation in a subtropical forest: Topsoil versus Subsoil** (2026)
-   0 citations · Soil Carbon
+   0 citations
 
 ## External Profiles
 

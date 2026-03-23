@@ -1,7 +1,7 @@
 ---
 title: "Aranya Venkatesh"
-description: "Aranya Venkatesh is a Senior DAC researcher at Electric Power Research Institute in US. With 39 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.000214
+description: "Aranya Venkatesh is a Senior General CDR researcher at Electric Power Research Institute in US. With 39 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.411077
 url: "/cdr-researcher-census/researchers/aranya-venkatesh-a5066283/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Electric Power Research Institute · 🇺🇸 US
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 16 |
 | Citations | 1,189 |
 | Publications | 39 |
-| CDR Focus | 10.3% |
+| CDR Focus | 770.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -60,7 +60,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    5 citations · DAC
 
 4. **Diverse Decarbonization Pathways Under Near Cost-Optimal Futures** (2023)
-   2 citations · DAC
+   2 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Anwar Hamdan Al Assaf"
-description: "Anwar Hamdan Al Assaf is a Mid-career DAC researcher at Amman Arab University in JO. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.146246
+description: "Anwar Hamdan Al Assaf is a Mid-career carbon dioxide removal researcher at Amman Arab University in JO. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.143319
 url: "/cdr-researcher-census/researchers/anwar-hamdan-al-assaf-a5112878/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Amman Arab University ·  JO
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 6 |
 | Citations | 129 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Preliminary Design and Analysis of a Photovoltaic-Powered Direct Air Capture System for a Residential Building** (2023)
-   2 citations · DAC
+   2 citations
 
 ## External Profiles
 

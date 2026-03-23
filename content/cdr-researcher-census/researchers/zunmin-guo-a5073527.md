@@ -1,7 +1,7 @@
 ---
 title: "Zunmin Guo"
 description: "Zunmin Guo is a Mid-career DAC researcher at University of Toronto in CA. With 35 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.086668
+date: 2026-03-23T11:46:59.585676
 url: "/cdr-researcher-census/researchers/zunmin-guo-a5073527/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,19 +45,19 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 16 |
 | Citations | 761 |
 | Publications | 35 |
-| CDR Focus | 14.3% |
+| CDR Focus | 860.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Reactive capture of CO2 via amino acid** (2024)
-   49 citations · DAC
+   49 citations
 
 2. **Direct air capture of CO<sub>2</sub><i>via</i> cyclic viologen electrocatalysis** (2024)
-   24 citations · DAC
+   24 citations
 
 3. **Direct Air Capture of CO<sub>2</sub> via Cyclic Viologen Electrocatalysis** (2025)
-   0 citations · DAC
+   0 citations
 
 4. **Efficient Amino-Acid-Based Reactive Capture via Catalyst and System Designs** (2025)
    0 citations · DAC

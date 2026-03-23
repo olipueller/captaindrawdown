@@ -1,7 +1,7 @@
 ---
 title: "Lulu Zhang"
 description: "Lulu Zhang is a Mid-career Soil Carbon researcher at Shandong Normal University in CN. With 31 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.284660
+date: 2026-03-23T11:46:59.952377
 url: "/cdr-researcher-census/researchers/lulu-zhang-a5100431/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 12 |
 | Citations | 424 |
 | Publications | 31 |
-| CDR Focus | 16.1% |
+| CDR Focus | 650.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -57,10 +57,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    23 citations · Soil Carbon
 
 3. **Blue carbon storage of tidal flats and salt marshes: A comparative assessment in two Chinese coastal areas** (2024)
-   16 citations · Soil Carbon
+   16 citations · Ocean CDR
 
 4. **Mangrove restoration enhances blue carbon sequestration and its stability in a subtropical tidal wetland** (2025)
-   5 citations · Soil Carbon
+   5 citations · Ocean CDR
 
 5. **Responses of depth-dependence of C:N:P stoichiometry to check dam in mangrove wetlands** (2024)
    4 citations · Soil Carbon

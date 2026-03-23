@@ -1,7 +1,7 @@
 ---
 title: "Sefiu Olaitan Amusat"
 description: "Sefiu Olaitan Amusat is a Mid-career Biochar researcher at University of South Africa in ZA. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.287836
+date: 2026-03-23T11:46:59.957481
 url: "/cdr-researcher-census/researchers/sefiu-olaitan-amusat-a5067875/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 8 |
 | Citations | 420 |
 | Publications | 15 |
-| CDR Focus | 20.0% |
+| CDR Focus | 1330.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

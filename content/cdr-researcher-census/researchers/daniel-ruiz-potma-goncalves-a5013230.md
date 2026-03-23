@@ -1,7 +1,7 @@
 ---
 title: "Daniel Ruiz Potma Gonçalves"
 description: "Daniel Ruiz Potma Gonçalves is a Mid-career Soil Carbon researcher at Ponta Grossa State University in BR. With 41 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.084958
+date: 2026-03-23T11:46:59.581878
 url: "/cdr-researcher-census/researchers/daniel-ruiz-potma-goncalves-a5013230/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,16 +45,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 15 |
 | Citations | 767 |
 | Publications | 41 |
-| CDR Focus | 12.2% |
+| CDR Focus | 980.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Can C-budget of natural capital be restored through conservation agriculture in a tropical and subtropical environment?** (2022)
-   15 citations · Soil Carbon
+   15 citations · General CDR
 
 2. **Accessing and modelling soil organic carbon stocks in Prairies, Savannas, and forests** (2024)
-   6 citations · Soil Carbon
+   6 citations
 
 3. **Accessing and Modelling Soil Organic Carbon Stocks in Prairies, Savannas, and Forests** (2023)
    4 citations · Soil Carbon

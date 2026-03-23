@@ -1,7 +1,7 @@
 ---
 title: "Olivia Hawrot"
-description: "Olivia Hawrot is a Mid-career DAC researcher. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.334661
+description: "Olivia Hawrot is a Mid-career General CDR researcher. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.023607
 url: "/cdr-researcher-census/researchers/olivia-hawrot-a5085624/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,9 +26,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -37,7 +37,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 6 |
 | Citations | 386 |
 | Publications | 12 |
-| CDR Focus | 83.3% |
+| CDR Focus | 6670.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -46,25 +46,25 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    169 citations · DAC
 
 2. **Assessing the technical aspects of ocean-alkalinity-enhancement approaches** (2023)
-   94 citations · Enhanced Weathering
+   94 citations · General CDR
 
 3. **Geochemical Negative Emissions Technologies: Part I. Review** (2022)
    58 citations · DAC
 
 4. **Assessing technical aspects of ocean alkalinity enhancement approaches** (2023)
-   21 citations · Enhanced Weathering
+   21 citations · General CDR
 
 5. **The cost of direct air capture and storage: the impact of technological learning, regional diversity, and policy.** (2022)
-   12 citations · DAC
+   12 citations
 
 6. **The cost of direct air capture and storage: the impact of technological learning, regional diversity, and policy.** (2022)
    5 citations · DAC
 
 7. **Atmospheric carbon dioxide removal using layers of lime** (2025)
-   4 citations · General CDR
+   4 citations · Enhanced Weathering
 
 8. **The cost of direct air capture and storage: the impact of technological learning, regional diversity, and policy.** (2022)
-   4 citations · DAC
+   4 citations
 
 9. **A systematic comparison of calcium carbonate quantification techniques for the monitoring of carbon dioxide removal via lime carbonation direct air capture** (2026)
    0 citations · DAC

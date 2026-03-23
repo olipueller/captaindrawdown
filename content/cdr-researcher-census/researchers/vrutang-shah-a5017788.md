@@ -1,7 +1,7 @@
 ---
 title: "Vrutang Shah"
-description: "Vrutang Shah is a Mid-career Enhanced Weathering researcher at Pandit Deendayal Petroleum University in IN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.287695
+description: "Vrutang Shah is a Mid-career General CDR researcher at Pandit Deendayal Petroleum University in IN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.299625
 url: "/cdr-researcher-census/researchers/vrutang-shah-a5017788/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Pandit Deendayal Petroleum University · 🇮🇳 IN
 
 ## CDR Specialization
 
-**Enhanced Weathering**
+**General CDR**
 
-Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 5 |
 | Citations | 113 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **An Anatomized study on the progress and prospects of CO2 utilization technology** (2023)
-   11 citations · Enhanced Weathering
+   11 citations · General CDR
 
 ## External Profiles
 

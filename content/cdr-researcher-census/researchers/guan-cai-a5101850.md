@@ -1,7 +1,7 @@
 ---
 title: "Guan Cai"
 description: "Guan Cai is a Senior Soil Carbon researcher at Leibniz University Hannover in DE. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.708202
+date: 2026-03-23T11:47:00.592069
 url: "/cdr-researcher-census/researchers/guan-cai-a5101850/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 212 |
 | Publications | 12 |
-| CDR Focus | 16.7% |
+| CDR Focus | 1670.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

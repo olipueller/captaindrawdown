@@ -1,7 +1,7 @@
 ---
 title: "Alberto Abad"
 description: "Alberto Abad is a Mid-career BECCS researcher at Instituto de Carboquímica in ES. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.401770
+date: 2026-03-23T11:47:00.135683
 url: "/cdr-researcher-census/researchers/alberto-abad-a5110704/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 7 |
 | Citations | 336 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

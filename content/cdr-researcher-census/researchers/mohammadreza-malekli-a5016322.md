@@ -1,7 +1,7 @@
 ---
 title: "Mohammadreza Malekli"
-description: "Mohammadreza Malekli is a Mid-career DAC researcher at University of Tehran in IR. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.145772
+description: "Mohammadreza Malekli is a Mid-career General CDR researcher at University of Tehran in IR. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.142923
 url: "/cdr-researcher-census/researchers/mohammadreza-malekli-a5016322/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ University of Tehran ·  IR
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,7 +42,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 6 |
 | Citations | 129 |
 | Publications | 7 |
-| CDR Focus | 28.6% |
+| CDR Focus | 2860.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    40 citations · DAC
 
 2. **CO2 capture and sequestration from a mixture of direct air and industrial exhaust gases using MDEA/PZ: Optimal design by process integration with organic rankine cycle** (2023)
-   11 citations · DAC
+   11 citations · General CDR
 
 ## External Profiles
 

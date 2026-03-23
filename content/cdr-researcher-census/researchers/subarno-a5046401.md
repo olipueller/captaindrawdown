@@ -1,7 +1,7 @@
 ---
 title: "Subarno"
-description: "Subarno is an Early-career Soil Carbon researcher at Binus University in ID. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.790833
+description: "Subarno is an Early-career General CDR researcher at Binus University in ID. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.698410
 url: "/cdr-researcher-census/researchers/subarno-a5046401/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Binus University · 🇮🇩 ID
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 3 |
 | Citations | 191 |
 | Publications | 3 |
-| CDR Focus | 33.3% |
+| CDR Focus | 3330.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Natural climate solutions in Indonesia: wetlands are the key to achieve Indonesia’s national climate commitment** (2022)
-   28 citations · Soil Carbon
+   28 citations · General CDR
 
 ## External Profiles
 

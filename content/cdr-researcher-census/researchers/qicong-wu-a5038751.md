@@ -1,7 +1,7 @@
 ---
 title: "Qicong Wu"
 description: "Qicong Wu is a Mid-career Soil Carbon researcher at Ministry of Agriculture in EE. With 36 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.254046
+date: 2026-03-23T11:46:59.897788
 url: "/cdr-researcher-census/researchers/qicong-wu-a5038751/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,25 +45,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 12 |
 | Citations | 454 |
 | Publications | 36 |
-| CDR Focus | 19.4% |
+| CDR Focus | 1390.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Agroforestry increases soil carbon sequestration, especially in arid areas: A global meta-analysis** (2024)
-   21 citations · Soil Carbon
+   21 citations · General CDR
 
 2. **Thinning shelter forest reduced the soil priming effect and soil microbial respiration by altering the contribution of soil organic carbon from different sources** (2024)
    5 citations · Soil Carbon
 
 3. **Temperature fluctuation affects soil organic carbon accumulation through soil enzyme activity and nutrient limitation** (2025)
-   1 citations · Enhanced Weathering
+   1 citations · Soil Carbon
 
 4. **Diverse protective mechanisms drive changes in functional carbon pools of paddy soil under continuous biochar and inorganic fertilizer application** (2025)
    1 citations · Biochar
 
 5. **Agroforestry Increases Soil Carbon Sequestration, Especially in Arid Areas: A Global Meta-Analysis** (2023)
-   1 citations · Soil Carbon
+   1 citations · General CDR
 
 6. **Divergent pathways of soil organic carbon sequestration mediated by ecological restoration in arid coal mining areas: Plant- vs. microbial-derived contributions** (2025)
    0 citations · Soil Carbon

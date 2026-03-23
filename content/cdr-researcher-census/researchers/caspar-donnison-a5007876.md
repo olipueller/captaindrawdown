@@ -1,7 +1,7 @@
 ---
 title: "Caspar Donnison"
 description: "Caspar Donnison is a Mid-career BECCS researcher at University of Southampton in GB. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.437472
+date: 2026-03-23T11:47:00.200122
 url: "/cdr-researcher-census/researchers/caspar-donnison-a5007876/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 7 |
 | Citations | 313 |
 | Publications | 15 |
-| CDR Focus | 40.0% |
+| CDR Focus | 3330.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -63,7 +63,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
    2 citations · BECCS
 
 5. **Without SLO BECCS, fast net-zero looks unlikely** (2021)
-   0 citations · BECCS
+   0 citations
 
 6. **Improved biodiversity from food to energy: Meta-analysis of land-use change to dedicated bioenergy crops** (2021)
    0 citations · BECCS

@@ -1,7 +1,7 @@
 ---
 title: "Shaiban Jubair"
 description: "Shaiban Jubair is a Mid-career Soil Carbon researcher. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.035021
+date: 2026-03-23T11:47:01.024627
 url: "/cdr-researcher-census/researchers/shaiban-jubair-a5008818/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -37,7 +37,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 145 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

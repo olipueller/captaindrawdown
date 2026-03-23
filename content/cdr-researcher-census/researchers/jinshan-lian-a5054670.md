@@ -1,7 +1,7 @@
 ---
 title: "Jinshan Lian"
 description: "Jinshan Lian is an Early-career Soil Carbon researcher. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.300081
+date: 2026-03-23T11:47:01.312721
 url: "/cdr-researcher-census/researchers/jinshan-lian-a5054670/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -37,7 +37,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 112 |
 | Publications | 6 |
-| CDR Focus | 50.0% |
+| CDR Focus | 5000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

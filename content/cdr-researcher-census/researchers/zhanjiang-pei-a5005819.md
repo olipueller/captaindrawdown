@@ -1,7 +1,7 @@
 ---
 title: "Zhanjiang Pei"
 description: "Zhanjiang Pei is an Early-career Biochar researcher at Heilongjiang Academy of Sciences in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.226931
+date: 2026-03-23T11:47:01.233874
 url: "/cdr-researcher-census/researchers/zhanjiang-pei-a5005819/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 4 |
 | Citations | 119 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

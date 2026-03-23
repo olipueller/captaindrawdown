@@ -1,7 +1,7 @@
 ---
 title: "Junaid Latif"
 description: "Junaid Latif is a Mid-career Soil Carbon researcher at Ministry of Agriculture in TN. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.383214
+date: 2026-03-23T11:47:00.107721
 url: "/cdr-researcher-census/researchers/junaid-latif-a5007580/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 349 |
 | Publications | 12 |
-| CDR Focus | 16.7% |
+| CDR Focus | 830.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Kasra Motlaghzadeh"
-description: "Kasra Motlaghzadeh is a Mid-career General CDR researcher at University of Waterloo in CA. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.649195
+description: "Kasra Motlaghzadeh is a Mid-career DAC researcher at University of Waterloo in CA. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.513715
 url: "/cdr-researcher-census/researchers/kasra-motlaghzadeh-a5075277/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Waterloo · 🇨🇦 CA
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 7 |
 | Citations | 228 |
 | Publications | 10 |
-| CDR Focus | 40.0% |
+| CDR Focus | 4000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    6 citations · DAC
 
 3. **Applying equity principles leads to higher carbon removal obligations in Canada** (2025)
-   4 citations · BECCS
+   4 citations · DAC
 
 4. **The future of direct air capture in Canada: A systematic scenario-based exploration of barriers and possibilities** (2026)
    0 citations · DAC

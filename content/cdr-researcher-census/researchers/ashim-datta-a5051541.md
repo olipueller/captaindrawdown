@@ -1,7 +1,7 @@
 ---
 title: "Ashim Datta"
 description: "Ashim Datta is a Senior Soil Carbon researcher at Central Soil Salinity Research Institute in IN. With 99 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.904012
+date: 2026-03-23T11:46:59.180849
 url: "/cdr-researcher-census/researchers/ashim-datta-a5051541/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 31 |
 | Citations | 3,234 |
 | Publications | 99 |
-| CDR Focus | 10.1% |
+| CDR Focus | 910.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -60,10 +60,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    17 citations · Soil Carbon
 
 4. **Soil Carbon Sequestration for Soil Quality Improvement and Climate Change Mitigation** (2021)
-   7 citations · Soil Carbon
+   7 citations · General CDR
 
 5. **Carbon Sequestration in Degraded Lands: Current Prospects, Practices, and Future Strategies** (2022)
-   6 citations · Soil Carbon
+   6 citations · General CDR
 
 6. **Drip-Mediated Deficit Irrigation and Sub-Optimal Fertigation Management Strategy can Boost Yield, Soil Nutrient Availability, Plant Utilization and Soil Organic Carbon in Banana Plantation** (2024)
    5 citations · Soil Carbon
@@ -75,10 +75,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    2 citations · Soil Carbon
 
 9. **Pedochemical and Mineralogical Control on Green House Gas Emissions from Indian Agricultural Soils - A Commentary** (2022)
-   1 citations · Soil Carbon
+   1 citations · General CDR
 
 10. **Development of Regenerative Tea Cultivation Models through Dual Approach of Soil and Plant Health Management towards Crop Sustainability, Soil Quality Development, Pesticide Reduction and Climate Change Mitigation: A Case Study from Lakhipara Tea Estate, Dooars, West Bengal, India (PART-II)** (2024)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

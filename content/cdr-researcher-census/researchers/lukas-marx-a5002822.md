@@ -1,7 +1,7 @@
 ---
 title: "Lukas Marx"
 description: "Lukas Marx is an Early-career Ocean CDR researcher at University of Portsmouth in GB. With 15 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.387210
+date: 2026-03-23T11:47:01.407309
 url: "/cdr-researcher-census/researchers/lukas-marx-a5002822/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 3 |
 | Citations | 103 |
 | Publications | 15 |
-| CDR Focus | 53.3% |
+| CDR Focus | 3330.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -60,19 +60,19 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    3 citations · General CDR
 
 4. **Mineral formation during shipboard ocean alkalinity enhancement experiments in the North Atlantic** (2025)
-   2 citations · General CDR
+   2 citations · Ocean CDR
 
 5. **Mineral Formation during Shipboard Ocean Alkalinity Enhancement Experiments in the North Atlantic** (2025)
-   2 citations · General CDR
+   2 citations
 
 6. **A tracer study for the development of in-water monitoring, reporting, and verification (MRV) of ship-based ocean alkalinity enhancement** (2025)
-   1 citations · General CDR
+   1 citations
 
 7. **The effects of elevated seawater pH and total alkalinity following dosing of sodium hydroxide in <i>Calanus finmarchicus</i>** (2026)
-   0 citations · General CDR
+   0 citations · Ocean CDR
 
 8. **Supplementary material to "A tracer study for the development of in-water monitoring, reporting, and verification (MRV) of ship-based ocean alkalinity enhancement"** (2025)
-   0 citations · Ocean CDR
+   0 citations · General CDR
 
 ## External Profiles
 

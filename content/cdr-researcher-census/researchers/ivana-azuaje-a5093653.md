@@ -1,7 +1,7 @@
 ---
 title: "Ivana Azuaje"
-description: "Ivana Azuaje is a Mid-career Soil Carbon researcher. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.157218
+description: "Ivana Azuaje is a Mid-career General CDR researcher. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.155285
 url: "/cdr-researcher-census/researchers/ivana-azuaje-a5093653/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,9 +29,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -40,19 +40,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 128 |
 | Publications | 9 |
-| CDR Focus | 33.3% |
+| CDR Focus | 1110.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Evaluating biomass sustainability: Why below-ground carbon sequestration matters** (2024)
-   40 citations · Soil Carbon
+   40 citations · BECCS
 
 2. **Life cycle assessment of Brazilian bleached eucalyptus kraft pulp: Integrating bleaching processes and biogenic carbon impacts** (2024)
-   4 citations · Soil Carbon
+   4 citations · General CDR
 
 3. **Carbon footprint software for market pulp: Kraft and APMP processes across twelve biomass types with soil carbon sequestration** (2026)
-   0 citations · Soil Carbon
+   0 citations · Biochar
 
 ## External Profiles
 

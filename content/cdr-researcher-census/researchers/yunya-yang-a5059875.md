@@ -1,7 +1,7 @@
 ---
 title: "Yun‐Ya Yang"
-description: "Yun‐Ya Yang is a Senior General CDR researcher at Alameda Hospital in US. With 40 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.941655
+description: "Yun‐Ya Yang is a Senior Enhanced Weathering researcher at Alameda Hospital in US. With 40 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.278265
 url: "/cdr-researcher-census/researchers/yunya-yang-a5059875/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Alameda Hospital · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**Enhanced Weathering**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 20 |
 | Citations | 1,896 |
 | Publications | 40 |
-| CDR Focus | 15.0% |
+| CDR Focus | 750.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -60,13 +60,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    2 citations · Enhanced Weathering
 
 4. **Microbially-enhanced silicate weathering in agricultural soils to remove carbon dioxide** (2024)
-   1 citations · Enhanced Weathering
+   1 citations
 
 5. **Synergistic Effects of a Microbial Amendment and Crushed Basalt: Soil Geochemical and Microbial Responses** (2025)
-   0 citations · Enhanced Weathering
+   0 citations
 
 6. **Quantification of soil inorganic carbon using sulfamic acid and gas chromatography** (2025)
-   0 citations · General CDR
+   0 citations
 
 ## External Profiles
 

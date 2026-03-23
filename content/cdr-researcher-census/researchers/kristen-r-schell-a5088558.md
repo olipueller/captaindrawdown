@@ -1,7 +1,7 @@
 ---
 title: "Kristen R. Schell"
-description: "Kristen R. Schell is a Mid-career DAC researcher. With 37 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.286054
+description: "Kristen R. Schell is a Mid-career General CDR researcher. With 37 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.954881
 url: "/cdr-researcher-census/researchers/kristen-r-schell-a5088558/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,9 +29,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -40,7 +40,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 11 |
 | Citations | 422 |
 | Publications | 37 |
-| CDR Focus | 10.8% |
+| CDR Focus | 1080.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -55,7 +55,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    0 citations · General CDR
 
 4. **Modeling the Maximization of Waste Heat Use in a Liquid Solvent Direct Air Capture Plant Through Hydrogen Production** (2024)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Congzhi Zhang"
 description: "Congzhi Zhang is a Senior Soil Carbon researcher at Institute of Soil Science in CN. With 109 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.913717
+date: 2026-03-23T11:46:59.204474
 url: "/cdr-researcher-census/researchers/congzhi-zhang-a5046701/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 31 |
 | Citations | 2,731 |
 | Publications | 109 |
-| CDR Focus | 15.6% |
+| CDR Focus | 1190.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **N, P and straw return influence the accrual of organic carbon fractions and microbial traits in a Mollisol** (2021)
-   60 citations · Soil Carbon
+   60 citations · Biochar
 
 2. **Calcium carbonate regulates soil organic carbon accumulation by mediating microbial communities in northern China** (2023)
    39 citations · Soil Carbon
@@ -66,7 +66,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    31 citations · Soil Carbon
 
 7. **Agroforestry increases soil carbon sequestration, especially in arid areas: A global meta-analysis** (2024)
-   21 citations · Soil Carbon
+   21 citations · General CDR
 
 8. **Enhanced priming effect in agricultural soils driven by high-quality exogenous organic carbon additions: A meta-analysis** (2025)
    10 citations · Soil Carbon
@@ -75,7 +75,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    7 citations · Soil Carbon
 
 10. **Salinity-driven differentiation of bacterial and fungal communities in coastal wetlands: Contrasting assembly processes and spatial dynamics** (2025)
-   7 citations · Soil Carbon
+   7 citations
 
 ## External Profiles
 

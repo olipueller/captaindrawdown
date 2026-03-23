@@ -1,7 +1,7 @@
 ---
 title: "Bhalendra Singh Rajput"
-description: "Bhalendra Singh Rajput is a Mid-career Soil Carbon researcher. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.414912
+description: "Bhalendra Singh Rajput is a Mid-career General CDR researcher. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.158236
 url: "/cdr-researcher-census/researchers/bhalendra-singh-rajput-a5083395/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,9 +26,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -37,16 +37,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 329 |
 | Publications | 20 |
-| CDR Focus | 10.0% |
+| CDR Focus | 500.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Carbon storage and economic efficiency of fruit-based systems in semi-arid region: a symbiotic approach for sustainable agriculture and climate resilience** (2024)
-   14 citations · Soil Carbon
+   14 citations · General CDR
 
 2. **Carbon stock inventory and biomass production in different land use systems of Northwestern Himalaya** (2023)
-   6 citations · Soil Carbon
+   6 citations · General CDR
 
 ## External Profiles
 

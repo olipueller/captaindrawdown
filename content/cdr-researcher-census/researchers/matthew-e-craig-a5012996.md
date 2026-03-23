@@ -1,7 +1,7 @@
 ---
 title: "Matthew E. Craig"
 description: "Matthew E. Craig is a Mid-career Soil Carbon researcher at Oak Ridge National Laboratory in US. With 42 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.916029
+date: 2026-03-23T11:46:59.210195
 url: "/cdr-researcher-census/researchers/matthew-e-craig-a5012996/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 16 |
 | Citations | 2,664 |
 | Publications | 42 |
-| CDR Focus | 11.9% |
+| CDR Focus | 950.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,16 +54,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    56 citations · Soil Carbon
 
 2. **Intraspecific variability in plant and soil chemical properties in a common garden plantation of the energy crop Populus** (2024)
-   4 citations · Soil Carbon
+   4 citations · BECCS
 
 3. **Which Plant Traits Increase Soil Carbon Sequestration? Empirical Evidence From a Long‐Term Poplar Genetic Diversity Trial** (2025)
    0 citations · General CDR
 
 4. **Which plant traits increase soil carbon sequestration? Empirical evidence from a long-term poplar genetic diversity trial** (2025)
-   0 citations · General CDR
+   0 citations
 
 5. **Intraspecies variability in plant and soil chemical properties in a common garden plantation of the energy crop <i>Populus</i>** (2023)
-   0 citations · BECCS
+   0 citations · General CDR
 
 ## External Profiles
 

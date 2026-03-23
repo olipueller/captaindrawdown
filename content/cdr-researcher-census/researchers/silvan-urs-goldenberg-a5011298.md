@@ -1,7 +1,7 @@
 ---
 title: "Silvan Urs Goldenberg"
 description: "Silvan Urs Goldenberg is a Mid-career Ocean CDR researcher at Norwegian University of Science and Technology in NO. With 38 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.033482
+date: 2026-03-23T11:46:59.479094
 url: "/cdr-researcher-census/researchers/silvan-urs-goldenberg-a5011298/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,40 +45,40 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 13 |
 | Citations | 970 |
 | Publications | 38 |
-| CDR Focus | 34.2% |
+| CDR Focus | 2370.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Resilience of Phytoplankton and Microzooplankton Communities under Ocean Alkalinity Enhancement in the Oligotrophic Ocean** (2024)
-   13 citations · Ocean CDR
+   13 citations · General CDR
 
 2. **Plankton food web structure and productivity under ocean alkalinity enhancement** (2024)
-   12 citations · Ocean CDR
-
-3. **Early life stages of fish under ocean alkalinity enhancement in coastal plankton communities** (2024)
    12 citations · General CDR
 
+3. **Early life stages of fish under ocean alkalinity enhancement in coastal plankton communities** (2024)
+   12 citations · Ocean CDR
+
 4. **Supplementary material to "Ocean alkalinity enhancement in an open ocean ecosystem: Biogeochemical responses and carbon storage durability"** (2024)
-   8 citations · Ocean CDR
+   8 citations · General CDR
 
 5. **Particle fluxes by subtropical pelagic communities under ocean alkalinity enhancement** (2025)
    6 citations · General CDR
 
 6. **Viability of coastal fish larvae under ocean alkalinity enhancement: from organisms to communities** (2024)
-   6 citations · General CDR
+   6 citations · Ocean CDR
 
 7. **Counteracting effects of nutrient composition (Si:N) on export flux under artificial upwelling** (2023)
    6 citations · Ocean CDR
 
 8. **Ocean alkalinity enhancement in an open-ocean ecosystem: biogeochemical responses and carbon storage durability** (2025)
-   4 citations · General CDR
+   4 citations · Ocean CDR
 
 9. **Ocean alkalinity enhancement in an open ocean ecosystem: Biogeochemical responses and carbon storage durability** (2024)
    4 citations · General CDR
 
 10. **Ecosystem impacts of Ocean Alkalization in an oligotrophic marine plankton community: A mesocosm study** (2023)
-   2 citations · Enhanced Weathering
+   2 citations · Ocean CDR
 
 ## External Profiles
 

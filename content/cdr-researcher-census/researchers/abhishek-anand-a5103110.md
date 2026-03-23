@@ -1,7 +1,7 @@
 ---
 title: "Abhishek Anand"
-description: "Abhishek Anand is a Mid-career General CDR researcher at Eunice Kennedy Shriver National Institute of Child Health and Human Development in US. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.315682
+description: "Abhishek Anand is a Mid-career carbon dioxide removal researcher at Eunice Kennedy Shriver National Institute of Child Health and Human Development in US. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.331124
 url: "/cdr-researcher-census/researchers/abhishek-anand-a5103110/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Eunice Kennedy Shriver National Institute of Child Health and Human Development 
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,19 +39,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 5 |
 | Citations | 110 |
 | Publications | 14 |
-| CDR Focus | 21.4% |
+| CDR Focus | 2140.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Integrated approach for microbial carbon dioxide (CO2) fixation process and wastewater treatment for the production of hydrocarbons: Experimental studies** (2021)
-   17 citations · General CDR
+   17 citations
 
 2. **Sustainable approach for simultaneously reducing CO2 and NO emissions from synthetic industrial flue gases using bacterial consortium and domestic wastewater in a suspended glass bioreactor** (2023)
-   13 citations · General CDR
+   13 citations
 
 3. **Assessing the bacterial consortium's potential to bio-mitigate CO2 and SO2 from simulated flue gas, wastewater bioremediation, and product characterization** (2024)
-   5 citations · General CDR
+   5 citations
 
 ## External Profiles
 

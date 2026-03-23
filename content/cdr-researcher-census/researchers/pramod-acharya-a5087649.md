@@ -1,7 +1,7 @@
 ---
 title: "Pramod Acharya"
 description: "Pramod Acharya is a Mid-career Soil Carbon researcher at New Mexico State University in US. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.625312
+date: 2026-03-23T11:47:00.480070
 url: "/cdr-researcher-census/researchers/pramod-acharya-a5087649/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 237 |
 | Publications | 17 |
-| CDR Focus | 35.3% |
+| CDR Focus | 3530.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

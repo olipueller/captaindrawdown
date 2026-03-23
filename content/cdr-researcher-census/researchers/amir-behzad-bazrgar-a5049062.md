@@ -1,7 +1,7 @@
 ---
 title: "Amir Behzad Bazrgar"
 description: "Amir Behzad Bazrgar is a Mid-career Soil Carbon researcher at University of Guelph in CA. With 25 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.913213
+date: 2026-03-23T11:47:00.879845
 url: "/cdr-researcher-census/researchers/amir-behzad-bazrgar-a5049062/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 165 |
 | Publications | 25 |
-| CDR Focus | 20.0% |
+| CDR Focus | 1600.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    6 citations · Soil Carbon
 
 3. **Quantification of the Carbon Sequestration Potential of a 31-year-old Tree-based Intercropping System in Southern Ontario, Canada** (2022)
-   2 citations · Soil Carbon
+   2 citations
 
 4. **Soil organic carbon and <sup>13</sup>C changes when annual crops are replaced with perennial biomass crops in southwestern Ontario, Canada** (2024)
    1 citations · Soil Carbon

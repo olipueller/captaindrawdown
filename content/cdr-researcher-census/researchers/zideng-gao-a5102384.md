@@ -1,7 +1,7 @@
 ---
 title: "Zideng Gao"
 description: "Zideng Gao is a Mid-career Soil Carbon researcher at Beijing VDJBio (China) in CN. With 34 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.065406
+date: 2026-03-23T11:46:59.547386
 url: "/cdr-researcher-census/researchers/zideng-gao-a5102384/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 15 |
 | Citations | 829 |
 | Publications | 34 |
-| CDR Focus | 11.8% |
+| CDR Focus | 1180.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

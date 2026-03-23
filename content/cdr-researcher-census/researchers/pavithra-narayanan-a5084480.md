@@ -1,7 +1,7 @@
 ---
 title: "Pavithra Narayanan"
-description: "Pavithra Narayanan is a Mid-career DAC researcher at Georgia Institute of Technology in US. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.884900
+description: "Pavithra Narayanan is a Mid-career BECCS researcher at Georgia Institute of Technology in US. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.842189
 url: "/cdr-researcher-census/researchers/pavithra-narayanan-a5084480/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Georgia Institute of Technology · 🇺🇸 US
 
 ## CDR Specialization
 
-**DAC**
+**BECCS**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 
@@ -45,22 +45,22 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 8 |
 | Citations | 170 |
 | Publications | 17 |
-| CDR Focus | 29.4% |
+| CDR Focus | 2940.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Distribution and Transport of CO<sub>2</sub> in Hyperbranched Poly(ethylenimine)-Loaded MCM-41: A Molecular Dynamics Simulation Approach** (2023)
-   12 citations · DAC
+   12 citations
 
 2. **Self-Supported Branched Poly(ethylenimine) Monoliths from Inverse Template 3D Printing for Direct Air Capture** (2025)
-   10 citations · DAC
+   10 citations
 
 3. **Sequential polymer infusion into solid substrates (SPISS): Impact of processing on sorbent CO2 adsorption properties** (2022)
-   10 citations · DAC
+   10 citations
 
 4. **Alumina Incorporation in Self-Supported Poly(ethylenimine) Sorbents for Direct Air Capture** (2024)
-   4 citations · DAC
+   4 citations
 
 5. **Evaluating degradation of CO<sub>2</sub> adsorbents in flue gas from bioenergy with carbon capture and storage** (2023)
    2 citations · BECCS

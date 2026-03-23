@@ -1,7 +1,7 @@
 ---
 title: "Piyali Majumder"
 description: "Piyali Majumder is a Mid-career General CDR researcher at University of Illinois at Chicago in US. With 38 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.250791
+date: 2026-03-23T11:46:59.890182
 url: "/cdr-researcher-census/researchers/piyali-majumder-a5065561/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 13 |
 | Citations | 457 |
 | Publications | 38 |
-| CDR Focus | 10.5% |
+| CDR Focus | 790.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -57,10 +57,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    4 citations · General CDR
 
 3. **Designed Metalloprotein-Driven Electrolyzer Operational in Seawater** (2025)
-   4 citations · Enhanced Weathering
+   4 citations
 
 4. **Carbon dioxide to bicarbonate conversion using synthetic zinc-based metal complex for improved carbon fixation and biomass productivity in Chlorella vulgaris** (2025)
-   1 citations · DAC
+   1 citations · Ocean CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Zhen Hao Lee"
-description: "Zhen Hao Lee is a Mid-career General CDR researcher. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.535337
+description: "Zhen Hao Lee is a Mid-career carbon dioxide removal researcher. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.359861
 url: "/cdr-researcher-census/researchers/zhen-hao-lee-a5004073/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -24,12 +24,6 @@ robots: "index, follow"
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -37,13 +31,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 2 |
 | Citations | 268 |
 | Publications | 4 |
-| CDR Focus | 25.0% |
+| CDR Focus | 2500.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Removal of Carbon Dioxide from Natural Gas Using a Zeolite-Based Pressure Swing Adsorption Process** (2025)
-   2 citations · General CDR
+   2 citations
 
 ## External Profiles
 

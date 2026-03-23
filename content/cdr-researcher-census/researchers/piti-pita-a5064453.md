@@ -1,7 +1,7 @@
 ---
 title: "Piti Pita"
-description: "Piti Pita is a Mid-career BECCS researcher at Thammasat University in TH. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.409043
+description: "Piti Pita is a Mid-career General CDR researcher at Thammasat University in TH. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.426271
 url: "/cdr-researcher-census/researchers/piti-pita-a5064453/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Thammasat University · 🇹🇭 TH
 
 ## CDR Specialization
 
-**BECCS**
+**General CDR**
 
-Combining biomass energy with carbon capture and storage to achieve negative emissions.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,16 +45,16 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 5 |
 | Citations | 101 |
 | Publications | 12 |
-| CDR Focus | 25.0% |
+| CDR Focus | 2500.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Energy system transformation for attainability of net zero emissions in Thailand** (2022)
-   26 citations · BECCS
+   26 citations · General CDR
 
 2. **A Multicriteria Decision Analysis to Selection of Low-carbon Emitting Technologies under Joint Crediting Mechanism for Thailand's Carbon Neutrality 2050** (2024)
-   1 citations · BECCS
+   1 citations · General CDR
 
 3. **Role of Discount Rate and Social Cost of Carbon for Carbon Capture Utilization and Storage Technologies in Thailand’s Low Emissions Pathways** (2025)
    0 citations · BECCS

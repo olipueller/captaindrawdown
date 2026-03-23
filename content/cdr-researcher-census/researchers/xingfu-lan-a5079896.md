@@ -1,7 +1,7 @@
 ---
 title: "Xingfu Lan"
-description: "Xingfu Lan is a Mid-career Soil Carbon researcher at Fujian Normal University in CN. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.279128
+description: "Xingfu Lan is a Mid-career Biochar researcher at Fujian Normal University in CN. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.289463
 url: "/cdr-researcher-census/researchers/xingfu-lan-a5079896/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Fujian Normal University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 3 |
 | Citations | 114 |
 | Publications | 5 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

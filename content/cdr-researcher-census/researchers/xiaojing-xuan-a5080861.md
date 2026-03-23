@@ -1,7 +1,7 @@
 ---
 title: "Xiaojing Xuan"
-description: "Xiaojing Xuan is a Mid-career Soil Carbon researcher at Beijing Normal University in CN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.513739
+description: "Xiaojing Xuan is a Mid-career General CDR researcher at Beijing Normal University in CN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.327176
 url: "/cdr-researcher-census/researchers/xiaojing-xuan-a5080861/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Beijing Normal University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 278 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Enhanced Ecosystem Services in China’s Xilingol Steppe during 2000–2015: Towards Sustainable Agropastoralism Management** (2022)
-   5 citations · Soil Carbon
+   5 citations · General CDR
 
 ## External Profiles
 

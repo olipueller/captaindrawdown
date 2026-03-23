@@ -1,7 +1,7 @@
 ---
 title: "Rudong Zhao"
 description: "Rudong Zhao is a Senior Soil Carbon researcher at Qingdao Agricultural University in CN. With 37 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.167812
+date: 2026-03-23T11:46:59.738626
 url: "/cdr-researcher-census/researchers/rudong-zhao-a5028804/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 12 |
 | Citations | 580 |
 | Publications | 37 |
-| CDR Focus | 13.5% |
+| CDR Focus | 1080.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

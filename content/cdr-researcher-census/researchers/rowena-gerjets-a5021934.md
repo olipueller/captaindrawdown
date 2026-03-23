@@ -1,7 +1,7 @@
 ---
 title: "Rowena Gerjets"
-description: "Rowena Gerjets is a Mid-career Soil Carbon researcher at University of Göttingen in DE. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.330187
+description: "Rowena Gerjets is a Mid-career General CDR researcher at University of Göttingen in DE. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.345220
 url: "/cdr-researcher-census/researchers/rowena-gerjets-a5021934/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Göttingen · 🇩🇪 DE
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 3 |
 | Citations | 109 |
 | Publications | 5 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Multifunctionality of temperate alley-cropping agroforestry outperforms open cropland and grassland** (2023)
-   63 citations · Soil Carbon
+   63 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Zicheng Yi"
 description: "Zicheng Yi is a Mid-career Soil Carbon researcher at Huazhong Agricultural University in CN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.424179
+date: 2026-03-23T11:47:01.440776
 url: "/cdr-researcher-census/researchers/zicheng-yi-a5101052/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 100 |
 | Publications | 12 |
-| CDR Focus | 16.7% |
+| CDR Focus | 1670.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Optimizing Nitrogen Management to Enhance Growth and Minimize Pollution Risk in Pennisetum hydridum Cultivation** (2025)
-   2 citations · Soil Carbon
+   2 citations · BECCS
 
 2. **Optimizing Nitrogen Application in a <scp> <i>Pennisetum hydridum</i> </scp> – <scp> <i>Sesbania cannabina</i> </scp> Intercropping System to Enhance Soil Carbon Sequestration and Soil Health in Agricultural Landscapes** (2025)
    0 citations · Soil Carbon

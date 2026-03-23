@@ -1,7 +1,7 @@
 ---
 title: "Gloria Reithmaier"
 description: "Gloria Reithmaier is a Mid-career Soil Carbon researcher at University of Gothenburg in SE. With 45 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.124450
+date: 2026-03-23T11:46:59.655587
 url: "/cdr-researcher-census/researchers/gloria-reithmaier-a5080067/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 12 |
 | Citations | 662 |
 | Publications | 45 |
-| CDR Focus | 13.3% |
+| CDR Focus | 1110.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,19 +54,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    47 citations · Soil Carbon
 
 2. **Large Porewater‐Derived Carbon Outwelling Across Mangrove Seascapes Revealed by Radium Isotopes** (2024)
-   12 citations · Soil Carbon
+   12 citations · Ocean CDR
 
 3. **Efficient oxidation attenuates porewater‐derived methane fluxes in mangrove waters** (2024)
-   5 citations · Soil Carbon
+   5 citations
 
 4. **Carbon and mercury burial in mangrove soils across an anthropogenic gradient** (2025)
    2 citations · Soil Carbon
 
 5. **In-situ measurements reveal alkalinity release from cold-temperate seagrass meadows** (2025)
-   1 citations · Soil Carbon
+   1 citations · General CDR
 
 6. **Large porewater-derived carbon outwelling across two mangrove-seascapes revealed by radium isotopes** (2024)
-   0 citations · Soil Carbon
+   0 citations · Ocean CDR
 
 ## External Profiles
 

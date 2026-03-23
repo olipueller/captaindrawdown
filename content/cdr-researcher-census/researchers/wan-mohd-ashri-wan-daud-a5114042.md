@@ -1,7 +1,7 @@
 ---
 title: "Wan Mohd Ashri Wan Daud"
-description: "Wan Mohd Ashri Wan Daud is a Mid-career General CDR researcher at University of Malaya in MY. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.805063
+description: "Wan Mohd Ashri Wan Daud is a Mid-career carbon dioxide removal researcher at University of Malaya in MY. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.714977
 url: "/cdr-researcher-census/researchers/wan-mohd-ashri-wan-daud-a5114042/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ University of Malaya · 🇲🇾 MY
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,16 +36,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 8 |
 | Citations | 186 |
 | Publications | 20 |
-| CDR Focus | 10.0% |
+| CDR Focus | 500.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Advancing electrochemical water desalination: Machine learning-driven prediction and RSM optimization of activated carbon electrodes** (2024)
-   13 citations · General CDR
+   13 citations
 
 2. **Impact of water-washing pretreatment on key properties of torrefied palm kernel shells: A statistical optimization study** (2025)
-   7 citations · Biochar
+   7 citations
 
 ## External Profiles
 

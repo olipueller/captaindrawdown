@@ -1,7 +1,7 @@
 ---
 title: "Kemeng Wang"
 description: "Kemeng Wang is a Mid-career Soil Carbon researcher at Ocean University of China in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.961152
+date: 2026-03-23T11:47:00.938603
 url: "/cdr-researcher-census/researchers/kemeng-wang-a5078726/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 156 |
 | Publications | 8 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

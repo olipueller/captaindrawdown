@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Shaukat"
 description: "Muhammad Shaukat is a Mid-career Soil Carbon researcher at University of the Punjab in PK. With 33 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.301086
+date: 2026-03-23T11:46:59.977341
 url: "/cdr-researcher-census/researchers/muhammad-shaukat-a5050802/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 409 |
 | Publications | 33 |
-| CDR Focus | 12.1% |
+| CDR Focus | 1210.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    4 citations · Soil Carbon
 
 3. **Soil Organic Carbon Research and Hotspot Analysis Based on Web of Science: A Bibliometric Analysis in CiteSpace** (2024)
-   2 citations · Soil Carbon
+   2 citations · General CDR
 
 4. **Predicting Soil Carbon Sequestration and Harvestable C biomass of Rice and Wheat by DNDC Model** (2023)
    0 citations · Soil Carbon

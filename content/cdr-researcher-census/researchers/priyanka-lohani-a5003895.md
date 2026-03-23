@@ -1,7 +1,7 @@
 ---
 title: "Priyanka Lohani"
 description: "Priyanka Lohani is a Mid-career Soil Carbon researcher at G.B. Pant Institute of Himalayan Environment and Development in IN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.114956
+date: 2026-03-23T11:47:01.116438
 url: "/cdr-researcher-census/researchers/priyanka-lohani-a5003895/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 133 |
 | Publications | 18 |
-| CDR Focus | 11.1% |
+| CDR Focus | 560.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    0 citations · Soil Carbon
 
 2. **Investigation of eco-hydrogical processes influencing Himalayan Chir-Pine net ecosystem exchange using machine learning classifiers** (2025)
-   0 citations · Soil Carbon
+   0 citations
 
 ## External Profiles
 

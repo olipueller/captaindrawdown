@@ -1,7 +1,7 @@
 ---
 title: "Jianfang Yan"
 description: "Jianfang Yan is a Mid-career Soil Carbon researcher at Zhejiang Normal University in CN. With 26 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.187575
+date: 2026-03-23T11:46:59.769167
 url: "/cdr-researcher-census/researchers/jianfang-yan-a5101764/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,16 +45,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 10 |
 | Citations | 554 |
 | Publications | 26 |
-| CDR Focus | 30.8% |
+| CDR Focus | 770.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **The high organic carbon accumulation in estuarine wetlands necessarily does not represent a high CO2 sequestration capacity** (2023)
-   23 citations · Soil Carbon
+   23 citations · Ocean CDR
 
 2. **Effects of anthropogenic disturbances on the carbon sink function of Yangtze River estuary wetlands: A review of performance, process, and mechanism** (2024)
-   19 citations · Soil Carbon
+   19 citations · General CDR
 
 3. **Tidal organic input restricts CO2 sequestration capacity of estuarine wetlands** (2023)
    9 citations · Soil Carbon
@@ -63,10 +63,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    7 citations · Soil Carbon
 
 5. **The High Organic Carbon Accumulation in Estuarine Wetlands Necessarily Does Not Represent a High Co2 Sequestration Capacity** (2022)
-   1 citations · Soil Carbon
+   1 citations · General CDR
 
 6. **Biomarker analysis revealed tidal organic carbon input enhanced soil respiration and weakened carbon sequestration function of estuarine wetland: Field validation of the Jiuduansha Wetland in the Yangtze River estuary** (2024)
-   0 citations · Soil Carbon
+   0 citations · Ocean CDR
 
 7. **Estuarine Wetland Tidal Organic Carbon Activates Microbial Carbon Pump and Increases Long-Term Soil Carbon Stabilityestuarine Wetland Tidal Organic Carbon Activates Microbial Carbon Pump and Increases Long-Term Soil Carbon Stability** (2024)
    0 citations · Soil Carbon

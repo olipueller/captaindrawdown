@@ -1,7 +1,7 @@
 ---
 title: "Pamodithya Wijeyawardana"
 description: "Pamodithya Wijeyawardana is a Mid-career Biochar researcher at University of Peradeniya in LK. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.868117
+date: 2026-03-23T11:47:00.815235
 url: "/cdr-researcher-census/researchers/pamodithya-wijeyawardana-a5012153/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 5 |
 | Citations | 174 |
 | Publications | 6 |
-| CDR Focus | 33.3% |
+| CDR Focus | 3330.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Bárbara Brum"
-description: "Bárbara Brum is an Early-career Soil Carbon researcher in GB. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.219965
+description: "Bárbara Brum is an Early-career carbon dioxide removal researcher in GB. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.833219
 url: "/cdr-researcher-census/researchers/barbara-brum-a5042886/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -28,12 +28,6 @@ robots: "index, follow"
 
 **Career Stage:** Early-career
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -41,13 +35,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 2 |
 | Citations | 504 |
 | Publications | 4 |
-| CDR Focus | 25.0% |
+| CDR Focus | 2500.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Direct evidence for phosphorus limitation on Amazon forest productivity** (2022)
-   211 citations · Soil Carbon
+   211 citations
 
 ## External Profiles
 

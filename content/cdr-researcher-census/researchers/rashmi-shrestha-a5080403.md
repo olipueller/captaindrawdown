@@ -1,7 +1,7 @@
 ---
 title: "Rashmi Shrestha"
 description: "Rashmi Shrestha is a Mid-career Soil Carbon researcher. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.666533
+date: 2026-03-23T11:47:00.534299
 url: "/cdr-researcher-census/researchers/rashmi-shrestha-a5080403/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,16 +40,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 224 |
 | Publications | 20 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Climate-smart agriculture: microbiological impacts of plant diversity to soil carbon (C) sequestration.** (2021)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 2. **Organic soil amendments as a tool to increase biological activity and C sequestration in clay soil** (2021)
-   0 citations · Biochar
+   0 citations · Soil Carbon
 
 ## External Profiles
 

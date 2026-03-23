@@ -1,7 +1,7 @@
 ---
 title: "Jost Kemper"
 description: "Jost Kemper is a Senior Ocean CDR researcher. With 25 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.649436
+date: 2026-03-23T11:47:00.513943
 url: "/cdr-researcher-census/researchers/jost-kemper-a5007782/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 8 |
 | Citations | 228 |
 | Publications | 25 |
-| CDR Focus | 16.0% |
+| CDR Focus | 1600.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -49,10 +49,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    2 citations · General CDR
 
 2. **Performance prediction for Stommel’s perpetual salt fountain in the context of artificial ocean upwelling** (2025)
-   1 citations · General CDR
+   1 citations · Ocean CDR
 
 3. **On the potential of Stommel’s perpetual salt fountain for artificial upwelling** (2025)
-   1 citations · General CDR
+   1 citations · Ocean CDR
 
 4. **Exploring site-specific carbon dioxide removal options with storage or sequestration in the marine environment - The 10 Mt CO2 yr-1 removal challenge for Germany** (2024)
    0 citations · General CDR

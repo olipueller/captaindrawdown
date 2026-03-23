@@ -1,7 +1,7 @@
 ---
 title: "Richard W. Griffin"
 description: "Richard W. Griffin is a Senior Soil Carbon researcher at Prairie View A&M University in US. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.863813
+date: 2026-03-23T11:47:00.809976
 url: "/cdr-researcher-census/researchers/richard-w-griffin-a5111187/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 175 |
 | Publications | 6 |
-| CDR Focus | 33.3% |
+| CDR Focus | 3330.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    12 citations · Biochar
 
 2. **Carbon sequestration and soil responses to soil amendments – A review** (2025)
-   10 citations · Soil Carbon
+   10 citations · General CDR
 
 ## External Profiles
 

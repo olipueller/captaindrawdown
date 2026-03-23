@@ -1,7 +1,7 @@
 ---
 title: "Marcus Schiedung"
 description: "Marcus Schiedung is a Mid-career Soil Carbon researcher at Johann Heinrich von Thünen-Institut in DE. With 68 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.186326
+date: 2026-03-23T11:46:59.767215
 url: "/cdr-researcher-census/researchers/marcus-schiedung-a5011595/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 12 |
 | Citations | 555 |
 | Publications | 68 |
-| CDR Focus | 10.3% |
+| CDR Focus | 740.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    1 citations · Soil Carbon
 
 4. **Biomineralisation of inorganic carbon by agroforestry species in East Africa: The oxalate carbonate pathway of fig trees in Samburu County, Kenya** (2026)
-   0 citations · Soil Carbon
+   0 citations · Enhanced Weathering
 
 5. **Is initial soil organic carbon more important than texture for the fate of carbon inputs into temperate agricultural soils?** (2026)
    0 citations · Soil Carbon

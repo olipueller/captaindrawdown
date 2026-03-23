@@ -1,7 +1,7 @@
 ---
 title: "Fanxuan Kong"
 description: "Fanxuan Kong is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 7 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.592765
+date: 2026-03-23T11:47:00.432776
 url: "/cdr-researcher-census/researchers/fanxuan-kong-a5042652/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 249 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Responses of greenhouse gas emissions to different straw management methods with the same amount of carbon input in cotton field** (2021)
-   37 citations · Biochar
+   37 citations · Soil Carbon
 
 ## External Profiles
 

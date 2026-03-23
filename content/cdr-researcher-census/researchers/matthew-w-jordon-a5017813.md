@@ -1,7 +1,7 @@
 ---
 title: "Matthew W Jordon"
 description: "Matthew W Jordon is a Mid-career Soil Carbon researcher at Kleijnen Systematic Reviews (United Kingdom) in GB. With 33 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.545970
+date: 2026-03-23T11:47:00.374597
 url: "/cdr-researcher-census/researchers/matthew-w-jordon-a5017813/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 265 |
 | Publications | 33 |
-| CDR Focus | 12.1% |
+| CDR Focus | 1210.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    2 citations · Soil Carbon
 
 4. **Regenerative agriculture practices and their influence on soil organic carbon and farm productivity in temperate regions** (2022)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

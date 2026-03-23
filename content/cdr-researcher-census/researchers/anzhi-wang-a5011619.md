@@ -1,7 +1,7 @@
 ---
 title: "An‐Zhi Wang"
-description: "An‐Zhi Wang is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 6 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.908149
+description: "An‐Zhi Wang is a Senior carbon dioxide removal researcher at Chinese Academy of Sciences in CN. With 6 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.871634
 url: "/cdr-researcher-census/researchers/anzhi-wang-a5011619/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Chinese Academy of Sciences · 🇨🇳 CN
 
 **Career Stage:** Senior
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 166 |
 | Publications | 6 |
-| CDR Focus | 16.7% |
+| CDR Focus | 1670.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Temperature and Precipitation Diversely Control Seasonal and Annual Dynamics of Litterfall in a Temperate Mixed Mature Forest, Revealed by Long‐Term Data Analysis** (2021)
-   30 citations · Soil Carbon
+   30 citations
 
 ## External Profiles
 

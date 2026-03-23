@@ -1,7 +1,7 @@
 ---
 title: "Daniela M. Carranza"
-description: "Daniela M. Carranza is a Mid-career Ocean CDR researcher at Centre National de la Recherche Scientifique in FR. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.275701
+description: "Daniela M. Carranza is a Mid-career General CDR researcher at Centre National de la Recherche Scientifique in FR. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.286863
 url: "/cdr-researcher-census/researchers/daniela-m-carranza-a5070989/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Centre National de la Recherche Scientifique · 🇫🇷 FR
 
 ## CDR Specialization
 
-**Ocean CDR**
+**General CDR**
 
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 4 |
 | Citations | 114 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

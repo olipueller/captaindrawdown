@@ -1,7 +1,7 @@
 ---
 title: "Paul J.T. Straatman"
-description: "Paul J.T. Straatman is a Senior General CDR researcher at Utrecht University in NL. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.294452
+description: "Paul J.T. Straatman is a Senior carbon dioxide removal researcher at Utrecht University in NL. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.306620
 url: "/cdr-researcher-census/researchers/paul-jt-straatman-a5029572/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Utrecht University · 🇳🇱 NL
 
 **Career Stage:** Senior
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 2 |
 | Citations | 112 |
 | Publications | 3 |
-| CDR Focus | 33.3% |
+| CDR Focus | 3330.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Experimental data for the rate of CO2 release from seawater under vacuum at 30°C and ambient pressure at 100°C** (2026)
-   0 citations · General CDR
+   0 citations
 
 ## External Profiles
 

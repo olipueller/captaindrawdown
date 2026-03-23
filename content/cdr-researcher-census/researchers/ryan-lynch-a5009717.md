@@ -1,7 +1,7 @@
 ---
 title: "Ryan Lynch"
-description: "Ryan Lynch is an Early-career Soil Carbon researcher at Salk Institute for Biological Studies in US. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.601199
+description: "Ryan Lynch is an Early-career carbon dioxide removal researcher at Salk Institute for Biological Studies in US. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.444037
 url: "/cdr-researcher-census/researchers/ryan-lynch-a5009717/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Salk Institute for Biological Studies · 🇺🇸 US
 
 **Career Stage:** Early-career
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 246 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Genome-wide association study reveals influence of cell-specific gene networks on Soybean root system architecture** (2025)
-   0 citations · Soil Carbon
+   0 citations
 
 ## External Profiles
 

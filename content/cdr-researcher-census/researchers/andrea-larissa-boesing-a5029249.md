@@ -1,0 +1,66 @@
+---
+title: "Andrea Larissa Boesing"
+description: "Andrea Larissa Boesing is a Mid-career Soil Carbon researcher at Senckenberg - Leibniz Institution for Biodiversity and Earth System Research in DE. With 38 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.327468
+url: "/cdr-researcher-census/researchers/andrea-larissa-boesing-a5029249/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Andrea Larissa Boesing",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/andrea-larissa-boesing-a5029249/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Senckenberg - Leibniz Institution for Biodiversity and Earth System Research"
+  },
+  "sameAs": [
+    "https://orcid.org/0000-0002-7467-4281",
+    "https://openalex.org/A5029249426"
+  ]
+}
+</script>
+
+## Profile
+
+**Andrea Larissa Boesing**  
+Senckenberg - Leibniz Institution for Biodiversity and Earth System Research · 🇩🇪 DE
+
+**Career Stage:** Mid-career
+
+## CDR Specialization
+
+**Soil Carbon**
+
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 13 |
+| Citations | 1,526 |
+| Publications | 38 |
+| CDR Focus | 530.0% |
+| Trajectory | Exiting |
+
+## Top CDR Publications
+
+1. **Identifying the stand properties that support both high biodiversity and carbon storage in German forests** (2024)
+   13 citations · General CDR
+
+2. **Old, broad-leaved stands support both high biodiversity and carbon storage in German forests** (2024)
+   5 citations · Soil Carbon
+
+## External Profiles
+
+- [ORCID](https://orcid.org/0000-0002-7467-4281)
+- [OpenAlex](https://openalex.org/A5029249426)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

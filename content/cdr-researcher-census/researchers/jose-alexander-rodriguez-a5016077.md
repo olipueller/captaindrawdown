@@ -1,7 +1,7 @@
 ---
 title: "José Alexander Rodriguez"
-description: "José Alexander Rodriguez is a Mid-career Soil Carbon researcher at Colombian Corporation for Agricultural Research - AGROSAVIA in CO. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.882061
+description: "José Alexander Rodriguez is a Mid-career Biochar researcher at Colombian Corporation for Agricultural Research - AGROSAVIA in CO. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.838125
 url: "/cdr-researcher-census/researchers/jose-alexander-rodriguez-a5016077/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Colombian Corporation for Agricultural Research - AGROSAVIA ·  CO
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 3 |
 | Citations | 171 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

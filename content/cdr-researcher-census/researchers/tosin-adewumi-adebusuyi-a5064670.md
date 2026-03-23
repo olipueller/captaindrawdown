@@ -1,7 +1,7 @@
 ---
 title: "Tosin Adewumi Adebusuyi"
-description: "Tosin Adewumi Adebusuyi is a Mid-career General CDR researcher. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.486045
+description: "Tosin Adewumi Adebusuyi is a Mid-career carbon dioxide removal researcher. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.279329
 url: "/cdr-researcher-census/researchers/tosin-adewumi-adebusuyi-a5064670/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -27,12 +27,6 @@ robots: "index, follow"
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -40,13 +34,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 5 |
 | Citations | 290 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Unknown |
 
 ## Top CDR Publications
 
 1. **Adsorptive removal of gaseous contaminants using biomass-based adsorbents** (2025)
-   5 citations · General CDR
+   5 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Jianyu Tao"
 description: "Jianyu Tao is a Mid-career Soil Carbon researcher at Christian-Albrechts-Universität zu Kiel in DE. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.640518
+date: 2026-03-23T11:47:00.502315
 url: "/cdr-researcher-census/researchers/jianyu-tao-a5051393/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 231 |
 | Publications | 10 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

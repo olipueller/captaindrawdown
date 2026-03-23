@@ -1,7 +1,7 @@
 ---
 title: "Georgia C.A. French"
 description: "Georgia C.A. French is a Mid-career Ocean CDR researcher at Bournemouth University in GB. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.620380
+date: 2026-03-23T11:47:00.473983
 url: "/cdr-researcher-census/researchers/georgia-ca-french-a5077123/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,16 +45,16 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 7 |
 | Citations | 238 |
 | Publications | 19 |
-| CDR Focus | 10.5% |
+| CDR Focus | 530.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **The Role of Predator Removal by Fishing on Ocean Carbon Dynamics** (2021)
-   6 citations · Ocean CDR
+   6 citations · General CDR
 
 2. **The role of predator removal by fishing on ocean carbon dynamics** (2021)
-   0 citations · General CDR
+   0 citations · Ocean CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Antonio Pescatore"
-description: "Antonio Pescatore is an Early-career Soil Carbon researcher at University of Florence in IT. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.416145
+description: "Antonio Pescatore is an Early-career carbon dioxide removal researcher at University of Florence in IT. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.431636
 url: "/cdr-researcher-census/researchers/antonio-pescatore-a5059730/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ University of Florence · 🇮🇹 IT
 
 **Career Stage:** Early-career
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 101 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Agronomical management of detention basin** (2023)
-   1 citations · Soil Carbon
+   1 citations
 
 ## External Profiles
 

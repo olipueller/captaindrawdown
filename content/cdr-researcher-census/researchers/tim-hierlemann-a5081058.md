@@ -1,7 +1,7 @@
 ---
 title: "Tim Hierlemann"
-description: "Tim Hierlemann is a Mid-career Ocean CDR researcher. With 2 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.229273
+description: "Tim Hierlemann is a Mid-career Enhanced Weathering researcher. With 2 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.236622
 url: "/cdr-researcher-census/researchers/tim-hierlemann-a5081058/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,9 +26,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**Ocean CDR**
+**Enhanced Weathering**
 
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 
@@ -37,7 +37,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 1 |
 | Citations | 119 |
 | Publications | 2 |
-| CDR Focus | 50.0% |
+| CDR Focus | 5000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

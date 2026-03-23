@@ -1,7 +1,7 @@
 ---
 title: "Farzin Hosseinifard"
-description: "Farzin Hosseinifard is a Mid-career DAC researcher at K.N.Toosi University of Technology in IR. With 21 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.988139
+description: "Farzin Hosseinifard is a Mid-career General CDR researcher at K.N.Toosi University of Technology in IR. With 21 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.969321
 url: "/cdr-researcher-census/researchers/farzin-hosseinifard-a5093733/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ K.N.Toosi University of Technology ·  IR
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 8 |
 | Citations | 151 |
 | Publications | 21 |
-| CDR Focus | 14.3% |
+| CDR Focus | 950.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

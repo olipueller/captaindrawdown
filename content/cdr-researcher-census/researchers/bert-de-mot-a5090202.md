@@ -1,7 +1,7 @@
 ---
 title: "Bert De Mot"
 description: "Bert De Mot is a Mid-career DAC researcher at University of Antwerp in BE. With 10 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.112818
+date: 2026-03-23T11:46:59.636793
 url: "/cdr-researcher-census/researchers/bert-de-mot-a5090202/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 9 |
 | Citations | 688 |
 | Publications | 10 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    59 citations · DAC
 
 2. **Direct Air Capture and Electrochemical Conversion of CO2** (2022)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

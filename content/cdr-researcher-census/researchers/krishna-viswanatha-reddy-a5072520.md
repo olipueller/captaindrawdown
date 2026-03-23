@@ -1,7 +1,7 @@
 ---
 title: "Krishna Viswanatha Reddy"
 description: "Krishna Viswanatha Reddy is a Mid-career Soil Carbon researcher at Central Coastal Agricultural Research Institute in IN. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.384410
+date: 2026-03-23T11:47:00.108509
 url: "/cdr-researcher-census/researchers/krishna-viswanatha-reddy-a5072520/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 348 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

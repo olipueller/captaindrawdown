@@ -1,7 +1,7 @@
 ---
 title: "Viktor József Rácz"
-description: "Viktor József Rácz is a Mid-career BECCS researcher at Corvinus University of Budapest in HU. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.184485
+description: "Viktor József Rácz is a Mid-career General CDR researcher at Corvinus University of Budapest in HU. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.188933
 url: "/cdr-researcher-census/researchers/viktor-jozsef-racz-a5062387/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Corvinus University of Budapest ·  HU
 
 ## CDR Specialization
 
-**BECCS**
+**General CDR**
 
-Combining biomass energy with carbon capture and storage to achieve negative emissions.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,16 +45,16 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 5 |
 | Citations | 124 |
 | Publications | 17 |
-| CDR Focus | 11.8% |
+| CDR Focus | 590.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Optimal biomass allocation between forestry sinks and energy systems by an integrated modelling approach – decarbonization pathways for Hungary** (2025)
-   0 citations · BECCS
+   0 citations
 
 2. **Optimal biomass allocation between forestry sinks and energy systems by an integrated modelling approach – decarbonization pathways for Hungary** (2025)
-   0 citations · BECCS
+   0 citations · General CDR
 
 ## External Profiles
 

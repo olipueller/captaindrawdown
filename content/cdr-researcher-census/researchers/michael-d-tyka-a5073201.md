@@ -1,7 +1,7 @@
 ---
 title: "Michael D. Tyka"
 description: "Michael D. Tyka is a Senior Ocean CDR researcher at Google Inc in US. With 53 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.881266
+date: 2026-03-23T11:46:59.120154
 url: "/cdr-researcher-census/researchers/michael-d-tyka-a5073201/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,25 +45,25 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 23 |
 | Citations | 6,049 |
 | Publications | 53 |
-| CDR Focus | 52.8% |
+| CDR Focus | 4150.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Limits and CO <sub>2</sub> equilibration of near-coast alkalinity enhancement** (2023)
-   129 citations · General CDR
+   129 citations · Ocean CDR
 
 2. **Toward a consensus framework to evaluate air–sea <scp>CO<sub>2</sub></scp> equilibration for marine <scp>CO<sub>2</sub></scp> removal** (2023)
-   74 citations · Enhanced Weathering
+   74 citations · General CDR
 
 3. **Mapping the global variation in the efficiency of ocean alkalinity enhancement for carbon dioxide removal** (2024)
-   36 citations · General CDR
+   36 citations · Ocean CDR
 
 4. **Limits and CO2 equilibration of near-coast alkalinity enhancement** (2022)
-   25 citations · Ocean CDR
+   25 citations
 
 5. **Limits and CO2 equilibration of near-coast alkalinity enhancement** (2023)
-   22 citations · General CDR
+   22 citations · Ocean CDR
 
 6. **Mapping the global variation in the efficiency of ocean alkalinity enhancement for carbon dioxide removal** (2024)
    7 citations · General CDR
@@ -72,13 +72,13 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    6 citations · DAC
 
 8. **Impulse response functions as a framework for quantifying ocean-based carbon dioxide removal** (2024)
-   4 citations · General CDR
+   4 citations
 
 9. **Lethal by design? Guiding environmental assessments of ocean alkalinity enhancement toward realistic contextualization of the alkalinity perturbation** (2025)
-   3 citations · Ocean CDR
+   3 citations · General CDR
 
 10. **Negative Emission Enabled by Combining Ocean Alkalinity Enhancement and Waste Concrete Upcycling** (2025)
-   3 citations · Ocean CDR
+   3 citations · General CDR
 
 ## External Profiles
 

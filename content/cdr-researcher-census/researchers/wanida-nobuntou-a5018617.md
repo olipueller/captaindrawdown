@@ -1,7 +1,7 @@
 ---
 title: "Wanida Nobuntou"
 description: "Wanida Nobuntou is a Senior Soil Carbon researcher at Ministry of Agriculture and Cooperatives in TH. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.089909
+date: 2026-03-23T11:47:01.088695
 url: "/cdr-researcher-census/researchers/wanida-nobuntou-a5018617/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 136 |
 | Publications | 10 |
-| CDR Focus | 30.0% |
+| CDR Focus | 3000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Moses Shyam Davala"
-description: "Moses Shyam Davala is an Early-career Soil Carbon researcher at International Crops Research Institute for the Semi-Arid Tropics in IN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.391288
+description: "Moses Shyam Davala is an Early-career Biochar researcher at International Crops Research Institute for the Semi-Arid Tropics in IN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.409727
 url: "/cdr-researcher-census/researchers/moses-shyam-davala-a5035322/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ International Crops Research Institute for the Semi-Arid Tropics · 🇮🇳 IN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 103 |
 | Publications | 8 |
-| CDR Focus | 25.0% |
+| CDR Focus | 1250.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Harnessing the potential of pigeonpea and maize feedstock biochar for carbon sequestration, energy generation, and environmental sustainability** (2024)
-   24 citations · Biochar
+   24 citations
 
 2. **Harnessing the Potential of Pigeonpea and Maize Feedstock Biochar for Carbon Sequestration, Energy Generation, and Environmental Sustainability** (2023)
    1 citations · Biochar

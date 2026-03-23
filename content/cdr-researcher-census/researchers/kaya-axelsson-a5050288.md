@@ -1,7 +1,7 @@
 ---
 title: "Kaya Axelsson"
 description: "Kaya Axelsson is an Early-career General CDR researcher at University of Oxford in GB. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.056142
+date: 2026-03-23T11:46:59.531403
 url: "/cdr-researcher-census/researchers/kaya-axelsson-a5050288/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 3 |
 | Citations | 858 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

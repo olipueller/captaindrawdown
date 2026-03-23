@@ -1,7 +1,7 @@
 ---
 title: "Irmina Ćwieląg‐Piasecka"
 description: "Irmina Ćwieląg‐Piasecka is a Senior Soil Carbon researcher at Wroclaw University of Environmental and Life Sciences in PL. With 51 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.163366
+date: 2026-03-23T11:46:59.730617
 url: "/cdr-researcher-census/researchers/irmina-cwielagpiasecka-a5042130/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 14 |
 | Citations | 588 |
 | Publications | 51 |
-| CDR Focus | 27.5% |
+| CDR Focus | 2350.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -57,10 +57,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    28 citations · Biochar
 
 3. **Enzyme Activity and Dissolved Organic Carbon Content in Soils Amended with Different Types of Biochar and Exogenous Organic Matter** (2023)
-   10 citations · Biochar
+   10 citations
 
 4. **Biochar and Organic Fertilizer Co-Application Enhances Soil Carbon Priming, Increasing CO2 Fluxes in Two Contrasting Arable Soils** (2023)
-   8 citations · Biochar
+   8 citations
 
 5. **Properties of humin isolated from Polish arable soils: The most recalcitrant fraction of soil organic matter that prevent soil degradation** (2024)
    7 citations · Soil Carbon
@@ -78,7 +78,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    2 citations · Biochar
 
 10. **Molecular characteristics of humin fraction isolated from soils of temperate climate: a study on Chernozems and Phaeozems in Poland** (2023)
-   1 citations · Soil Carbon
+   1 citations
 
 ## External Profiles
 

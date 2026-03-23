@@ -1,7 +1,7 @@
 ---
 title: "Christhel Andrade Díaz"
-description: "Christhel Andrade Díaz is a Mid-career Biochar researcher at Centre National de la Recherche Scientifique in FR. With 22 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.011159
+description: "Christhel Andrade Díaz is a Mid-career Soil Carbon researcher at Centre National de la Recherche Scientifique in FR. With 22 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.999863
 url: "/cdr-researcher-census/researchers/christhel-andrade-diaz-a5004019/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Centre National de la Recherche Scientifique · 🇫🇷 FR
 
 ## CDR Specialization
 
-**Biochar**
+**Soil Carbon**
 
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
 
 ## Metrics
 
@@ -45,28 +45,28 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 5 |
 | Citations | 148 |
 | Publications | 22 |
-| CDR Focus | 27.3% |
+| CDR Focus | 1820.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Assessment of biomass as an effective adsorbent for the removal of pharmaceutical compounds: A literature review** (2023)
-   15 citations · Biochar
+   15 citations
 
 2. **Dataset for Modelling the long-term carbon storage potential from recalcitrant matter inputs in tropical arable croplands** (2023)
-   1 citations · Soil Carbon
+   1 citations
 
 3. **The crop residue conundrum: maintaining long-term soil organic carbon stocks while reinforcing the bioeconomy, compatible endeavors?** (2022)
-   1 citations · Biochar
+   1 citations · Soil Carbon
 
 4. **Advancing soil carbon sequestration solutions: A decision-support tool for achieving net-zero goals** (2025)
-   0 citations · Biochar
+   0 citations · General CDR
 
 5. **Dataset for Modelling the long-term carbon storage potential from recalcitrant matter inputs in tropical arable croplands** (2023)
    0 citations · Soil Carbon
 
 6. **The crop residue conundrum: maintaining long-term soil organic carbon stocks while reinforcing the bioeconomy, compatible endeavors?** (2022)
-   0 citations · Biochar
+   0 citations
 
 ## External Profiles
 

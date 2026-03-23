@@ -1,7 +1,7 @@
 ---
 title: "Sai Adapa"
-description: "Sai Adapa is a Mid-career DAC researcher at Oak Ridge National Laboratory in US. With 23 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.900868
+description: "Sai Adapa is a Mid-career Enhanced Weathering researcher at Oak Ridge National Laboratory in US. With 23 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.861864
 url: "/cdr-researcher-census/researchers/sai-adapa-a5007423/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Oak Ridge National Laboratory · 🇺🇸 US
 
 ## CDR Specialization
 
-**DAC**
+**Enhanced Weathering**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 
@@ -45,22 +45,22 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 6 |
 | Citations | 167 |
 | Publications | 23 |
-| CDR Focus | 17.4% |
+| CDR Focus | 1300.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Iron Impurity Impairs the CO<sub>2</sub> Capture Performance of MgO: Insights from Microscopy and Machine Learning Molecular Dynamics** (2024)
-   6 citations · DAC
+   6 citations
 
 2. **Effect of multiple calcination cycles on CO2 capture efficiency during carbonation of MgO in a mineral looping process** (2025)
-   2 citations · DAC
+   2 citations
 
 3. **The Effects of Iron and Manganese Doping on the Carbonation of Brucite [Mg(OH) <sub>2</sub> ]** (2026)
-   0 citations · General CDR
+   0 citations · Enhanced Weathering
 
 4. **Direct Air Capture of CO2 by Brucite: Effects of Iron and Manganese Doping** (2025)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

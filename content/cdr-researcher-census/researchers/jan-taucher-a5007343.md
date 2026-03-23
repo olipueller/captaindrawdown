@@ -1,7 +1,7 @@
 ---
 title: "Jan Taucher"
 description: "Jan Taucher is a Senior Ocean CDR researcher at GEOMAR Helmholtz Centre for Ocean Research Kiel in DE. With 106 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.937876
+date: 2026-03-23T11:46:59.268705
 url: "/cdr-researcher-census/researchers/jan-taucher-a5007343/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 25 |
 | Citations | 1,977 |
 | Publications | 106 |
-| CDR Focus | 14.2% |
+| CDR Focus | 1040.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -57,13 +57,13 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    41 citations · General CDR
 
 3. **Stability of alkalinity in Ocean Alkalinity Enhancement (OAE) approaches – consequences for durability of CO <sub>2</sub> storage** (2022)
-   25 citations · General CDR
+   25 citations
 
 4. **Resilience of Phytoplankton and Microzooplankton Communities under Ocean Alkalinity Enhancement in the Oligotrophic Ocean** (2024)
-   13 citations · Ocean CDR
+   13 citations · General CDR
 
 5. **Plankton food web structure and productivity under ocean alkalinity enhancement** (2024)
-   12 citations · Ocean CDR
+   12 citations · General CDR
 
 6. **Particle fluxes by subtropical pelagic communities under ocean alkalinity enhancement** (2025)
    6 citations · General CDR
@@ -72,13 +72,13 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    6 citations · Ocean CDR
 
 8. **New/refined parameterizations for modelling ocean alkalinization effects on biogeochemistry and plankton dynamics** (2024)
-   1 citations · General CDR
-
-9. **Supplementary material to "Particle fluxes by subtropical pelagic communities under ocean alkalinity enhancement"** (2023)
    1 citations · Ocean CDR
 
-10. **Particle fluxes by subtropical pelagic communities under ocean alkalinity enhancement** (2023)
+9. **Supplementary material to "Particle fluxes by subtropical pelagic communities under ocean alkalinity enhancement"** (2023)
    1 citations · General CDR
+
+10. **Particle fluxes by subtropical pelagic communities under ocean alkalinity enhancement** (2023)
+   1 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Anthony M. Kennedy"
 description: "Anthony M. Kennedy is a Mid-career Biochar researcher at Brown and Caldwell (United States) in US. With 21 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.245502
+date: 2026-03-23T11:46:59.877530
 url: "/cdr-researcher-census/researchers/anthony-m-kennedy-a5080103/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 9 |
 | Citations | 468 |
 | Publications | 21 |
-| CDR Focus | 19.0% |
+| CDR Focus | 1430.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -57,10 +57,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    4 citations · Biochar
 
 3. **Models for predicting organic micropollutant breakthrough in carbon adsorbers based on water quality, adsorbate properties, and rapid small‐scale column tests** (2022)
-   3 citations · Biochar
+   3 citations
 
 4. **Per- and Polyfluoroalkyl Substances Removal Using Carbonaceous Adsorbents in a Brackish Water Circular Economy** (2025)
-   1 citations · Biochar
+   1 citations
 
 ## External Profiles
 

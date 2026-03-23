@@ -1,7 +1,7 @@
 ---
 title: "Thirumavalavan Ezhil"
-description: "Thirumavalavan Ezhil is an Early-career DAC researcher at Indian Institute of Technology Ropar in IN. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.008981
+description: "Thirumavalavan Ezhil is an Early-career carbon dioxide removal researcher at Indian Institute of Technology Ropar in IN. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.998418
 url: "/cdr-researcher-census/researchers/thirumavalavan-ezhil-a5075935/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Indian Institute of Technology Ropar · 🇮🇳 IN
 
 **Career Stage:** Early-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 2 |
 | Citations | 148 |
 | Publications | 3 |
-| CDR Focus | 33.3% |
+| CDR Focus | 3330.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Efficient chemical fixation of CO<sub>2</sub> from direct air under environment-friendly co-catalyst and solvent-free ambient conditions** (2021)
-   92 citations · DAC
+   92 citations
 
 ## External Profiles
 

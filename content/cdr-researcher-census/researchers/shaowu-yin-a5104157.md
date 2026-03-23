@@ -1,7 +1,7 @@
 ---
 title: "Shaowu Yin"
 description: "Shaowu Yin is a Mid-career General CDR researcher at University of Science and Technology Beijing in CN. With 19 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.136727
+date: 2026-03-23T11:46:59.675537
 url: "/cdr-researcher-census/researchers/shaowu-yin-a5104157/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 11 |
 | Citations | 639 |
 | Publications | 19 |
-| CDR Focus | 10.5% |
+| CDR Focus | 1050.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    210 citations · General CDR
 
 2. **Enhanced Direct Air Carbon Capture on NaX Zeolite by Electric‐Field Enhanced Physical Adsorption and In Situ CO<sub>2</sub> Synergistic Effects of Cold Plasma** (2024)
-   21 citations · DAC
+   21 citations
 
 ## External Profiles
 

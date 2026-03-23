@@ -1,7 +1,7 @@
 ---
 title: "Ellen G. Polites"
-description: "Ellen G. Polites is a Mid-career General CDR researcher at University of Wyoming in US. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.961582
+description: "Ellen G. Polites is a Mid-career Enhanced Weathering researcher at University of Wyoming in US. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.939004
 url: "/cdr-researcher-census/researchers/ellen-g-polites-a5003535/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Wyoming · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**Enhanced Weathering**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 4 |
 | Citations | 155 |
 | Publications | 4 |
-| CDR Focus | 25.0% |
+| CDR Focus | 2500.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Exotic Carbonate Mineralization Recovered from a Deep Basalt Carbon Storage Demonstration** (2022)
-   42 citations · General CDR
+   42 citations · Enhanced Weathering
 
 ## External Profiles
 

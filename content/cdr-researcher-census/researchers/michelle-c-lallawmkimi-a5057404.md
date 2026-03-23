@@ -1,7 +1,7 @@
 ---
 title: "Michelle C. Lallawmkimi"
 description: "Michelle C. Lallawmkimi is a Mid-career Soil Carbon researcher at Krishi Vigyan Kendra, Ghatkhed Amravati in IN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.308654
+date: 2026-03-23T11:47:01.323307
 url: "/cdr-researcher-census/researchers/michelle-c-lallawmkimi-a5057404/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,19 +42,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 111 |
 | Publications | 17 |
-| CDR Focus | 17.6% |
+| CDR Focus | 1180.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Agroforestry Practices and Their Impact on Soil Health and Fertility: A Review** (2024)
-   11 citations · Biochar
+   11 citations · General CDR
 
 2. **Agroforestry Practices as a Keystone for Biodiversity Conservation: A Review** (2024)
    3 citations · Soil Carbon
 
 3. **Harnessing Edaphic Microalgae for Soil Carbon Sequestration and Climate-smart Agriculture** (2025)
-   1 citations · Soil Carbon
+   1 citations · General CDR
 
 ## External Profiles
 

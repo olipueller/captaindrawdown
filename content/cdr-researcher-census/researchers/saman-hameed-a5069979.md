@@ -1,0 +1,66 @@
+---
+title: "Saman Hameed"
+description: "Saman Hameed is a Mid-career BECCS researcher at University of Leeds in GB. With 23 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.964608
+url: "/cdr-researcher-census/researchers/saman-hameed-a5069979/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Saman Hameed",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/saman-hameed-a5069979/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "University of Leeds"
+  },
+  "sameAs": [
+    "https://orcid.org/0000-0003-3112-0446",
+    "https://openalex.org/A5069979727"
+  ]
+}
+</script>
+
+## Profile
+
+**Saman Hameed**  
+University of Leeds · 🇬🇧 GB
+
+**Career Stage:** Mid-career
+
+## CDR Specialization
+
+**BECCS**
+
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 9 |
+| Citations | 416 |
+| Publications | 23 |
+| CDR Focus | 870.0% |
+| Trajectory | Exiting |
+
+## Top CDR Publications
+
+1. **Cutting-edge biomass gasification technologies for renewable energy generation and achieving net zero emissions** (2024)
+   89 citations · BECCS
+
+2. **Bioenergy with carbon capture and storage technology to achieve net zero emissions–A review** (2024)
+   17 citations · BECCS
+
+## External Profiles
+
+- [ORCID](https://orcid.org/0000-0003-3112-0446)
+- [OpenAlex](https://openalex.org/A5069979727)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

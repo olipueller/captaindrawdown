@@ -1,7 +1,7 @@
 ---
 title: "Nora Lange"
 description: "Nora Lange is an Early-career BECCS researcher. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.217405
+date: 2026-03-23T11:47:01.224758
 url: "/cdr-researcher-census/researchers/nora-lange-a5069305/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 3 |
 | Citations | 120 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

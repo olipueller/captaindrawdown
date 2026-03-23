@@ -1,7 +1,7 @@
 ---
 title: "Ngoc-Dan-Thanh Cao"
 description: "Ngoc-Dan-Thanh Cao is a Mid-career Biochar researcher at Vietnam National University Ho Chi Minh City in VN. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.605230
+date: 2026-03-23T11:47:00.449413
 url: "/cdr-researcher-census/researchers/ngoc-dan-thanh-cao-a5038591/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 7 |
 | Citations | 244 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

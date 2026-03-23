@@ -1,7 +1,7 @@
 ---
 title: "Xiaofang Ji"
 description: "Xiaofang Ji is a Mid-career Soil Carbon researcher at University of Liège in BE. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.414609
+date: 2026-03-23T11:47:01.429709
 url: "/cdr-researcher-census/researchers/xiaofang-ji-a5047552/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 101 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

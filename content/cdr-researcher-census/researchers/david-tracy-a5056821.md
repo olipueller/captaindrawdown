@@ -1,7 +1,7 @@
 ---
 title: "David Tracy"
-description: "David Tracy is a Mid-career Soil Carbon researcher. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.311634
+description: "David Tracy is a Mid-career carbon dioxide removal researcher. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.991518
 url: "/cdr-researcher-census/researchers/david-tracy-a5056821/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -24,12 +24,6 @@ robots: "index, follow"
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -37,13 +31,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 3 |
 | Citations | 403 |
 | Publications | 5 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **A Paleoclimate Modeling Experiment to Calculate the Soil Carbon Respiration Flux for the Paleocene-Eocene Thermal Maximum** (2023)
-   0 citations · Soil Carbon
+   0 citations
 
 ## External Profiles
 

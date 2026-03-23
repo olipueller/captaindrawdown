@@ -1,7 +1,7 @@
 ---
 title: "Antoine Minet"
 description: "Antoine Minet is a Mid-career Biochar researcher at Oak Ridge National Laboratory in US. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.031584
+date: 2026-03-23T11:47:01.020638
 url: "/cdr-researcher-census/researchers/antoine-minet-a5053456/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 5 |
 | Citations | 145 |
 | Publications | 15 |
-| CDR Focus | 13.3% |
+| CDR Focus | 670.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    1 citations · Biochar
 
 2. **The Efficacy and Ecological Impact of Mercury Sorbents on the Physiology and Reproductive Fitness of Daphnia Magna** (2025)
-   0 citations · Biochar
+   0 citations
 
 ## External Profiles
 

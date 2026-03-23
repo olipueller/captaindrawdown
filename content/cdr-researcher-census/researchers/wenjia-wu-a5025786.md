@@ -1,7 +1,7 @@
 ---
 title: "Wenjia Wu"
 description: "Wenjia Wu is a Senior Soil Carbon researcher at South China Botanical Garden in CN. With 74 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.970512
+date: 2026-03-23T11:46:59.336209
 url: "/cdr-researcher-census/researchers/wenjia-wu-a5025786/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 20 |
 | Citations | 1,484 |
 | Publications | 74 |
-| CDR Focus | 12.2% |
+| CDR Focus | 950.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

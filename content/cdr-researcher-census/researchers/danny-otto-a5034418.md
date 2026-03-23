@@ -1,7 +1,7 @@
 ---
 title: "Danny Otto"
 description: "Danny Otto is a Mid-career General CDR researcher at Helmholtz Centre for Environmental Research in DE. With 38 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.328967
+date: 2026-03-23T11:47:00.016875
 url: "/cdr-researcher-census/researchers/danny-otto-a5034418/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 10 |
 | Citations | 390 |
 | Publications | 38 |
-| CDR Focus | 10.5% |
+| CDR Focus | 1050.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Let Us Get Regional: Exploring Prospects for Biomass-Based Carbon Dioxide Removal on the Ground** (2024)
-   6 citations · BECCS
+   6 citations · General CDR
 
 2. **Scenario Storylines for Carbon Dioxide Removal in Germany: Drawing From Regional Perspectives** (2025)
    2 citations · BECCS
@@ -60,7 +60,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    1 citations · BECCS
 
 4. **Bisher mehr Hürden als Chancen für bio-CDR: Berichte aus Stakeholder-Workshops zu biomassebasiertem Carbon Dioxide Removal (CDR)** (2025)
-   0 citations · General CDR
+   0 citations · BECCS
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Lisette Phelan"
-description: "Lisette Phelan is a Mid-career Soil Carbon researcher at Harper Adams University in GB. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.321785
+description: "Lisette Phelan is a Mid-career General CDR researcher at Harper Adams University in GB. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.338308
 url: "/cdr-researcher-census/researchers/lisette-phelan-a5046469/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Harper Adams University · 🇬🇧 GB
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,25 +45,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 110 |
 | Publications | 19 |
-| CDR Focus | 26.3% |
+| CDR Focus | 1580.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **The emerging global agricultural soil carbon market: the case for reconciling farmers’ expectations with the demands of the market** (2023)
-   18 citations · Soil Carbon
+   18 citations · General CDR
 
 2. **The role of information in shaping the emerging agricultural soil carbon market** (2025)
-   1 citations · Soil Carbon
+   1 citations · General CDR
 
 3. **Reconciling farmers’ expectations with the demands of the emerging UK agricultural soil carbon market** (2022)
-   1 citations · Soil Carbon
+   1 citations · General CDR
 
 4. **The role of information in shaping the emerging agricultural soil carbon market** (2025)
-   0 citations · Soil Carbon
+   0 citations
 
 5. **Reconciling farmers’ expectations with the demands of the emerging UK agricultural soil carbon market** (2023)
-   0 citations · Soil Carbon
+   0 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Geshere Abdisa Gurmesa"
 description: "Geshere Abdisa Gurmesa is a Mid-career Soil Carbon researcher at Institute of Applied Ecology in CN. With 53 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.016273
+date: 2026-03-23T11:46:59.442477
 url: "/cdr-researcher-census/researchers/geshere-abdisa-gurmesa-a5035382/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,16 +45,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 19 |
 | Citations | 1,083 |
 | Publications | 53 |
-| CDR Focus | 15.1% |
+| CDR Focus | 1510.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Meta-analysis unveils differential effects of agroforestry on soil properties in different zonobiomes** (2023)
-   47 citations · Soil Carbon
+   47 citations
 
 2. **Dynamics and multi‐annual fate of atmospherically deposited nitrogen in montane tropical forests** (2021)
-   33 citations · Soil Carbon
+   33 citations
 
 3. **Meta-analysis of 21st century studies shows that deforestation induces profound changes in soil characteristics, particularly soil organic carbon accumulation** (2024)
    29 citations · Soil Carbon
@@ -69,10 +69,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    0 citations · Soil Carbon
 
 7. **Climate warming reduces soil gaseous nitrogen losses in a temperate forest** (2025)
-   0 citations · Soil Carbon
+   0 citations
 
 8. **Potential of land-based terrestrial carbon sinks to mitigate climate change** (2024)
-   0 citations · Biochar
+   0 citations · Enhanced Weathering
 
 ## External Profiles
 

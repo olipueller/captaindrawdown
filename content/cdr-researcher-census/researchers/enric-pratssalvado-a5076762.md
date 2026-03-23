@@ -1,7 +1,7 @@
 ---
 title: "Enric Prats‐Salvado"
-description: "Enric Prats‐Salvado is a Mid-career DAC researcher at Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR) in DE. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.345202
+description: "Enric Prats‐Salvado is a Mid-career General CDR researcher at Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR) in DE. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.362223
 url: "/cdr-researcher-census/researchers/enric-pratssalvado-a5076762/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR) · 🇩🇪 DE
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 5 |
 | Citations | 107 |
 | Publications | 9 |
-| CDR Focus | 66.7% |
+| CDR Focus | 6670.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Solar-Powered Direct Air Capture: Techno-Economic and Environmental Assessment** (2024)
-   26 citations · DAC
+   26 citations
 
 2. **Techno-Economic Assessment of the Integration of Direct Air Capture and the Production of Solar Fuels** (2022)
    19 citations · DAC

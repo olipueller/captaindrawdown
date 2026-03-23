@@ -1,7 +1,7 @@
 ---
 title: "Hewen Zhou"
-description: "Hewen Zhou is a Mid-career Biochar researcher at Harvard University in US. With 31 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.002990
+description: "Hewen Zhou is a Mid-career BECCS researcher at Harvard University in US. With 31 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.417962
 url: "/cdr-researcher-census/researchers/hewen-zhou-a5064117/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Harvard University · 🇺🇸 US
 
 ## CDR Specialization
 
-**Biochar**
+**BECCS**
 
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 13 |
 | Citations | 1,164 |
 | Publications | 31 |
-| CDR Focus | 12.9% |
+| CDR Focus | 650.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,13 +54,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    371 citations · BECCS
 
 2. **Integrated production of methanol and biochar from bagasse and plastic waste: A three-in-one solution for carbon sequestration, bioenergy production, and waste valorization** (2024)
-   15 citations · Biochar
+   15 citations
 
 3. **Life cycle assessment of the environmental sustainability of biomass pyrolysis polygeneration with a High-Aspect-Ratio reactor** (2025)
-   4 citations · Biochar
+   4 citations · BECCS
 
 4. **Integrated Production of Methanol and Biochar from Bagasse and Plastic Waste: A Three-in-One Solution for Carbon Sequestration, Bioenergy Production, and Waste Valorization** (2023)
-   0 citations · Biochar
+   0 citations · BECCS
 
 ## External Profiles
 

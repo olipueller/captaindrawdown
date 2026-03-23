@@ -1,7 +1,7 @@
 ---
 title: "Zhaohui Aleck Wang"
 description: "Zhaohui Aleck Wang is a Senior Ocean CDR researcher at Woods Hole Oceanographic Institution in US. With 82 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.914930
+date: 2026-03-23T11:46:59.208603
 url: "/cdr-researcher-census/researchers/zhaohui-aleck-wang-a5031746/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 28 |
 | Citations | 2,689 |
 | Publications | 82 |
-| CDR Focus | 12.2% |
+| CDR Focus | 730.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,28 +54,28 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    8 citations · General CDR
 
 2. **The inorganic carbon system across the land-to-ocean continuum** (2023)
-   6 citations · Ocean CDR
+   6 citations · General CDR
 
 3. **Site selection for ocean alkalinity enhancement informed by passive tracer simulations** (2025)
-   4 citations · General CDR
+   4 citations · Ocean CDR
 
 4. **A tracer study for the development of in-water monitoring, reporting, and verification (MRV) of ship-based ocean alkalinity enhancement** (2025)
    3 citations · General CDR
 
 5. **The δ<sup>13</sup>C Signature of Dissolved Organic and Inorganic Carbon Reveals Complex Carbon Transformations Within a Salt Marsh** (2025)
-   2 citations · Ocean CDR
+   2 citations · Soil Carbon
 
 6. **A tracer study for the development of in-water monitoring, reporting, and verification (MRV) of ship-based ocean alkalinity enhancement** (2025)
-   1 citations · General CDR
+   1 citations
 
 7. **The effects of elevated seawater pH and total alkalinity following dosing of sodium hydroxide in <i>Calanus finmarchicus</i>** (2026)
-   0 citations · General CDR
+   0 citations · Ocean CDR
 
 8. **Carbonate System Site Selection Characteristics for Ocean Alkalinity Enhancement in the US Northeast Shelf and Slope** (2025)
    0 citations · General CDR
 
 9. **Supplementary material to "A tracer study for the development of in-water monitoring, reporting, and verification (MRV) of ship-based ocean alkalinity enhancement"** (2025)
-   0 citations · Ocean CDR
+   0 citations · General CDR
 
 10. **Variable export and consumption of alkalinity in coastal wetlands: insights from multi-year, high-frequency observations in an intertidal saltmarsh** (2025)
    0 citations · Ocean CDR

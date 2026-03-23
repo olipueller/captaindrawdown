@@ -1,7 +1,7 @@
 ---
 title: "Verdiana Petroselli"
 description: "Verdiana Petroselli is a Mid-career Soil Carbon researcher at Università degli Studi della Tuscia in IT. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.930653
+date: 2026-03-23T11:47:00.899574
 url: "/cdr-researcher-census/researchers/verdiana-petroselli-a5056129/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 162 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

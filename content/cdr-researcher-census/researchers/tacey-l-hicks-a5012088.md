@@ -1,7 +1,7 @@
 ---
 title: "Tacey L. Hicks"
 description: "Tacey L. Hicks is a Mid-career Ocean CDR researcher at Texas A&M University in US. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.987672
+date: 2026-03-23T11:47:00.969111
 url: "/cdr-researcher-census/researchers/tacey-l-hicks-a5012088/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 4 |
 | Citations | 151 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Ocean acidification in the Gulf of Mexico: Drivers, impacts, and unknowns** (2022)
-   33 citations · General CDR
+   33 citations · Ocean CDR
 
 ## External Profiles
 

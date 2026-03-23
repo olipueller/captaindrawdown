@@ -1,7 +1,7 @@
 ---
 title: "Xiaoke Xin"
 description: "Xiaoke Xin is a Mid-career Ocean CDR researcher at Beijing Institute of Technology in CN. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.187301
+date: 2026-03-23T11:47:01.191194
 url: "/cdr-researcher-census/researchers/xiaoke-xin-a5056088/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,25 +45,25 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 4 |
 | Citations | 124 |
 | Publications | 11 |
-| CDR Focus | 54.5% |
+| CDR Focus | 3640.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Resilience of Phytoplankton and Microzooplankton Communities under Ocean Alkalinity Enhancement in the Oligotrophic Ocean** (2024)
-   13 citations · Ocean CDR
+   13 citations · General CDR
 
 2. **Phytoplankton response to increased nickel in the context of ocean alkalinity enhancement** (2024)
-   12 citations · Enhanced Weathering
+   12 citations · General CDR
 
 3. **Phytoplankton Response to Increased Nickel in the Context of Ocean Alkalinity Enhancement** (2023)
-   8 citations · Enhanced Weathering
+   8 citations
 
 4. **Responses of phytoplankton community to silicate-based and calcium-based ocean alkalinity enhancement** (2024)
    1 citations · Ocean CDR
 
 5. **Comment on bg-2023-130** (2023)
-   0 citations · Enhanced Weathering
+   0 citations · General CDR
 
 6. **Supplementary material to "Phytoplankton Response to Increased Nickel in the Context of Ocean Alkalinity Enhancement"** (2023)
    0 citations · Ocean CDR

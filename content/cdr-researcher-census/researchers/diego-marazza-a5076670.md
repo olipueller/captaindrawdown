@@ -1,7 +1,7 @@
 ---
 title: "Diego Marazza"
-description: "Diego Marazza is a Senior Soil Carbon researcher at University of Bologna in IT. With 73 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.104710
+description: "Diego Marazza is a Senior Biochar researcher at University of Bologna in IT. With 73 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.619761
 url: "/cdr-researcher-census/researchers/diego-marazza-a5076670/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Bologna · 🇮🇹 IT
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 14 |
 | Citations | 710 |
 | Publications | 73 |
-| CDR Focus | 31.5% |
+| CDR Focus | 2470.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -63,7 +63,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    8 citations · Biochar
 
 5. **A Modified Version of RothC to Model the Direct and Indirect Effects of Rice Straw Mulching on Soil Carbon Dynamics, Calibrated in Two Valencian Citrus Orchards** (2024)
-   6 citations · Soil Carbon
+   6 citations · General CDR
 
 6. **Use of soil respiration measurements and RothC modelling show effects of catch crops and precision and traditional agriculture on productivity and soil organic carbon dynamics in a 5 year study in Mediterranean climate** (2023)
    2 citations · Soil Carbon
@@ -72,13 +72,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    2 citations · Biochar
 
 8. **A modified version of RothC to model the direct and indirect effects of rice straw mulching on soil carbon dynamics, calibrated in a Mediterranean citrus orchard** (2023)
-   1 citations · Soil Carbon
+   1 citations · General CDR
 
 9. **Long Term Experiment Platform : proposition for a global site network and experience coordination for the study of agronomical and environmental effects of biochar** (2023)
    1 citations · Biochar
 
 10. **INDUSTRIAL AND RURAL USE-CASES UNDERPINNED BY BIOMASS-BASED SOLUTIONS FOR CARBON REMOVAL, CHEMICALS AND RENEWABLE ENERGY - THE NET-FUELS PROJECT** (2025)
-   0 citations · Biochar
+   0 citations
 
 ## External Profiles
 

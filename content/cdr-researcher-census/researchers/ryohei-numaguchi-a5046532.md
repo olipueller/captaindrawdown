@@ -1,7 +1,7 @@
 ---
 title: "Ryohei Numaguchi"
 description: "Ryohei Numaguchi is a Senior DAC researcher at Kawasaki Heavy Industries (Japan) in JP. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.270818
+date: 2026-03-23T11:46:59.930975
 url: "/cdr-researcher-census/researchers/ryohei-numaguchi-a5046532/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 7 |
 | Citations | 434 |
 | Publications | 19 |
-| CDR Focus | 21.1% |
+| CDR Focus | 1580.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -51,13 +51,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    4 citations · DAC
 
 2. **Direct air capture by Kawasaki CO2 Capture technology: demonstration at various climatic condition using novel amine solid sorbent** (2022)
-   1 citations · DAC
+   1 citations
 
 3. **Novel Direct Air Capture Process using Kawasaki Solid Sorbent for Commercial Scale Plant** (2025)
-   0 citations · DAC
+   0 citations
 
 4. **Novel Direct Air Capture Process using Kawasaki Solid Sorbent for Commercial Scale Plant** (2025)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Javier Lezaun"
-description: "Javier Lezaun is a Senior Ocean CDR researcher at Ethnographic Museum in HU. With 113 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.888133
+description: "Javier Lezaun is a Senior General CDR researcher at Ethnographic Museum in HU. With 113 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.139950
 url: "/cdr-researcher-census/researchers/javier-lezaun-a5085557/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Ethnographic Museum ·  HU
 
 ## CDR Specialization
 
-**Ocean CDR**
+**General CDR**
 
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,7 +42,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 31 |
 | Citations | 4,565 |
 | Publications | 113 |
-| CDR Focus | 11.5% |
+| CDR Focus | 970.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -66,16 +66,16 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    7 citations · General CDR
 
 7. **Realistic Deployment Scenarios for Ocean Alkalinity Enhancement, Brine Splitting - Policy Brief** (2024)
-   1 citations · Ocean CDR
+   1 citations · General CDR
 
 8. **Prospects and Challenges of Investigating Ocean-Based Negative Emission Technologies: Insights from the OceanNETs Project** (2025)
    0 citations · General CDR
 
 9. **Realistic Deployment Scenarios for Ocean Alkalinity Enhancement, Ocean liming (OL) - Policy Brief** (2024)
-   0 citations · Ocean CDR
+   0 citations · General CDR
 
 10. **Report on mesocosm experimentation deliberative workshops with stakeholders** (2023)
-   0 citations · Ocean CDR
+   0 citations · General CDR
 
 ## External Profiles
 

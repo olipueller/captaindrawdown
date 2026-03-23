@@ -1,7 +1,7 @@
 ---
 title: "Sukanya Hongthong"
 description: "Sukanya Hongthong is a Mid-career Biochar researcher at Chaiyaphum Rajabhat University in TH. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.536179
+date: 2026-03-23T11:47:00.361071
 url: "/cdr-researcher-census/researchers/sukanya-hongthong-a5038304/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 9 |
 | Citations | 268 |
 | Publications | 17 |
-| CDR Focus | 11.8% |
+| CDR Focus | 1180.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

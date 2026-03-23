@@ -1,7 +1,7 @@
 ---
 title: "Aissa Bouaissi"
-description: "Aissa Bouaissi is a Mid-career Biochar researcher at University of Plymouth in GB. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.211433
+description: "Aissa Bouaissi is a Mid-career carbon dioxide removal researcher at University of Plymouth in GB. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.815337
 url: "/cdr-researcher-census/researchers/aissa-bouaissi-a5050744/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ University of Plymouth · 🇬🇧 GB
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Biochar**
-
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,16 +39,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 10 |
 | Citations | 514 |
 | Publications | 20 |
-| CDR Focus | 10.0% |
+| CDR Focus | 500.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Adsorption efficiency and photocatalytic activity of silver sulphide-activated carbon (Ag2S-AC) composites** (2024)
-   3 citations · Biochar
+   3 citations
 
 2. **Magnetite (Fe3O4)-Activated Carbon Composite from Ground Coffee Waste for the Removal of Copper Ions (Cu2+) from Solution** (2024)
-   1 citations · Biochar
+   1 citations
 
 ## External Profiles
 

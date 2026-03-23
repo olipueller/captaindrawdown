@@ -1,7 +1,7 @@
 ---
 title: "Kwame W. Shamuyarira"
 description: "Kwame W. Shamuyarira is a Mid-career Soil Carbon researcher at University of the Free State in ZA. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.172514
+date: 2026-03-23T11:47:01.174175
 url: "/cdr-researcher-census/researchers/kwame-w-shamuyarira-a5091835/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 126 |
 | Publications | 17 |
-| CDR Focus | 17.6% |
+| CDR Focus | 1760.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    13 citations · Soil Carbon
 
 3. **Biomass allocation and carbon storage in the major cereal crops: A meta‐analysis** (2024)
-   9 citations · Soil Carbon
+   9 citations · General CDR
 
 ## External Profiles
 

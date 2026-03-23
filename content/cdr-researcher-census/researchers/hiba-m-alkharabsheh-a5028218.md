@@ -1,7 +1,7 @@
 ---
 title: "Hiba M. Alkharabsheh"
-description: "Hiba M. Alkharabsheh is a Mid-career Soil Carbon researcher at Al-Balqa Applied University in JO. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.044592
+description: "Hiba M. Alkharabsheh is a Mid-career Biochar researcher at Al-Balqa Applied University in JO. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.504771
 url: "/cdr-researcher-census/researchers/hiba-m-alkharabsheh-a5028218/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Al-Balqa Applied University ·  JO
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 912 |
 | Publications | 10 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

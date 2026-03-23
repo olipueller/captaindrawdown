@@ -1,7 +1,7 @@
 ---
 title: "Rongrong Tian"
-description: "Rongrong Tian is a Mid-career General CDR researcher at Northwest A&F University in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.758350
+description: "Rongrong Tian is a Mid-career Biochar researcher at Northwest A&F University in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.658220
 url: "/cdr-researcher-census/researchers/rongrong-tian-a5066630/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Northwest A&F University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -45,19 +45,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 6 |
 | Citations | 198 |
 | Publications | 12 |
-| CDR Focus | 25.0% |
+| CDR Focus | 2500.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Water wettability alternation of CO2-water-shale system due to nanoparticles: Implications for CO2 geo-storage** (2023)
-   27 citations · General CDR
+   27 citations
 
 2. **Water Wettability Alteration of Co2-Water-Shale System Due to Nanoparticles: Implications for Co2 Geo-Storage** (2022)
-   1 citations · General CDR
+   1 citations
 
 3. **Redistribution of aggregate-associated calcium and soil organic carbon and their synergistic relationship in saline‒sodic soil two decades after a single application of flue gas desulfurization gypsum** (2025)
-   0 citations · Soil Carbon
+   0 citations · Biochar
 
 ## External Profiles
 

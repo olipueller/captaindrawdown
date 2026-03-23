@@ -1,7 +1,7 @@
 ---
 title: "Pujia Yu"
 description: "Pujia Yu is a Senior Soil Carbon researcher at Southwest University in CN. With 49 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.944138
+date: 2026-03-23T11:46:59.282238
 url: "/cdr-researcher-census/researchers/pujia-yu-a5026455/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 24 |
 | Citations | 1,865 |
 | Publications | 49 |
-| CDR Focus | 16.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications

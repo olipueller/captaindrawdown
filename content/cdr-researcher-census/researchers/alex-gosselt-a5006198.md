@@ -1,7 +1,7 @@
 ---
 title: "Alex Gosselt"
-description: "Alex Gosselt is a Mid-career Biochar researcher at Utrecht University in NL. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.724048
+description: "Alex Gosselt is a Mid-career carbon dioxide removal researcher at Utrecht University in NL. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.610815
 url: "/cdr-researcher-census/researchers/alex-gosselt-a5006198/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Utrecht University · 🇳🇱 NL
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Biochar**
-
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 3 |
 | Citations | 208 |
 | Publications | 4 |
-| CDR Focus | 25.0% |
+| CDR Focus | 2500.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Urine from Intensive Care Patients as a Hotspot for Pharmaceutical Emissions and Sorbent-Based Treatment** (2025)
-   0 citations · Biochar
+   0 citations
 
 ## External Profiles
 

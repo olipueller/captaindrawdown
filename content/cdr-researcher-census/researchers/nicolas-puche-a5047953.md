@@ -1,7 +1,7 @@
 ---
 title: "Nicolas Puche"
 description: "Nicolas Puche is a Mid-career Soil Carbon researcher in GB. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.931518
+date: 2026-03-23T11:47:00.900645
 url: "/cdr-researcher-census/researchers/nicolas-puche-a5047953/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -41,13 +41,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 162 |
 | Publications | 10 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Integrating microstructural constraints into soil carbon models: A mechanistic approach to simulate organic matter dynamics in earthworm (Amynthas Adexilis) casts** (2026)
-   0 citations · Soil Carbon
+   0 citations
 
 2. **Effects of ageing under field conditions on soil organic matter in earthworm casts produced by the anecic earthworm Amynthas adexilis in northern Vietnam** (2021)
    0 citations · Soil Carbon

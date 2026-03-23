@@ -1,7 +1,7 @@
 ---
 title: "Sivarethinamohan Rajamanickam"
-description: "Sivarethinamohan Rajamanickam is a Mid-career Soil Carbon researcher at Symbiosis International University in IN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.207375
+description: "Sivarethinamohan Rajamanickam is a Mid-career Biochar researcher at Symbiosis International University in IN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.810570
 url: "/cdr-researcher-census/researchers/sivarethinamohan-rajamanickam-a5085191/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Symbiosis International University · 🇮🇳 IN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 517 |
 | Publications | 8 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

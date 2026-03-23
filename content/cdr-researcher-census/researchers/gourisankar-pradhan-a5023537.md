@@ -1,7 +1,7 @@
 ---
 title: "Gourisankar Pradhan"
 description: "Gourisankar Pradhan is a Senior Soil Carbon researcher at Banaras Hindu University in IN. With 39 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.006410
+date: 2026-03-23T11:46:59.424872
 url: "/cdr-researcher-census/researchers/gourisankar-pradhan-a5023537/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,37 +45,37 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 19 |
 | Citations | 1,138 |
 | Publications | 39 |
-| CDR Focus | 23.1% |
+| CDR Focus | 1030.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Assessment of land use systems for <scp>CO<sub>2</sub></scp> sequestration, carbon credit potential, and income security in Vindhyan region, India** (2021)
-   113 citations · Soil Carbon
+   113 citations · General CDR
 
 2. **Using industrial wastes for rice-wheat cropping and food-energy-carbon-water-economic nexus to the sustainable food system** (2023)
    90 citations · Soil Carbon
 
 3. **Utilizing waste compost to improve the atmospheric CO2 capturing in the rice-wheat cropping system and energy-cum‑carbon credit auditing for a circular economy** (2023)
-   78 citations · Soil Carbon
+   78 citations · General CDR
 
 4. **Legume-based inter-cropping to achieve the crop, soil, and environmental health security** (2022)
    74 citations · Soil Carbon
 
 5. **Interaction impact of biocompost on nutrient dynamics and relations with soil biota, carbon fractions index, societal value of CO2 equivalent and ecosystem services in the wheat-rice farming** (2023)
-   64 citations · Soil Carbon
+   64 citations · General CDR
 
 6. **Diversified cropping modules designed for soil restoration, <scp>CO<sub>2</sub></scp> sequestration, and generating carbon credits** (2024)
-   48 citations · Soil Carbon
+   48 citations · General CDR
 
 7. **Agroforestry a model for ecological sustainability** (2022)
    43 citations · Soil Carbon
 
 8. **Agronomic approaches to achieving net carbon-negative emissions in Indian agroecosystems** (2025)
-   0 citations · Biochar
+   0 citations
 
 9. **Agronomic approaches to achieving net carbon-negative emissions in Indian agroecosystems** (2025)
-   0 citations · Biochar
+   0 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Xinyue Bai"
 description: "Xinyue Bai is a Mid-career Biochar researcher at Jilin Normal University in CN. With 28 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.525739
+date: 2026-03-23T11:47:00.342940
 url: "/cdr-researcher-census/researchers/xinyue-bai-a5015521/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 10 |
 | Citations | 273 |
 | Publications | 28 |
-| CDR Focus | 10.7% |
+| CDR Focus | 710.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

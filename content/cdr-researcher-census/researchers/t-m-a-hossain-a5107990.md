@@ -1,7 +1,7 @@
 ---
 title: "T. M. A. Hossain"
-description: "T. M. A. Hossain is a Senior Soil Carbon researcher at North Carolina State University in US. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.027019
+description: "T. M. A. Hossain is a Senior BECCS researcher at North Carolina State University in US. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.016358
 url: "/cdr-researcher-census/researchers/t-m-a-hossain-a5107990/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ North Carolina State University · 🇺🇸 US
 
 ## CDR Specialization
 
-**Soil Carbon**
+**BECCS**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 146 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Replacing liquid fossil fuels and hydrocarbon chemical feedstocks with liquid biofuels from large-scale nuclear biorefineries** (2021)
-   57 citations · Soil Carbon
+   57 citations · BECCS
 
 ## External Profiles
 

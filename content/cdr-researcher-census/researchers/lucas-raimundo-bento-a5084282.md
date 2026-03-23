@@ -1,7 +1,7 @@
 ---
 title: "Lucas Raimundo Bento"
 description: "Lucas Raimundo Bento is a Mid-career Soil Carbon researcher. With 23 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.382304
+date: 2026-03-23T11:47:00.106816
 url: "/cdr-researcher-census/researchers/lucas-raimundo-bento-a5084282/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 349 |
 | Publications | 23 |
-| CDR Focus | 13.0% |
+| CDR Focus | 1300.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

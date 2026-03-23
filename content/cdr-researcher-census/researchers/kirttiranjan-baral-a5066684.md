@@ -1,7 +1,7 @@
 ---
 title: "Kirttiranjan Baral"
 description: "Kirttiranjan Baral is a Mid-career Soil Carbon researcher at Indian Institute of Soil and Water Conservation in IN. With 34 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.578144
+date: 2026-03-23T11:47:00.418649
 url: "/cdr-researcher-census/researchers/kirttiranjan-baral-a5066684/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 10 |
 | Citations | 253 |
 | Publications | 34 |
-| CDR Focus | 17.6% |
+| CDR Focus | 1760.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,16 +54,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    24 citations · Soil Carbon
 
 2. **Agroforestry and Its Potential for Sustainable Land Management and Climate Action: A Review** (2023)
-   16 citations · Soil Carbon
+   16 citations · General CDR
 
 3. **Climate change adaptation and mitigation in Indian agriculture** (2024)
-   13 citations · Soil Carbon
+   13 citations · General CDR
 
 4. **Unlocking the Benefits of Carbon Sequestration for Enhancing Soil Health** (2023)
    9 citations · Biochar
 
 5. **Challenges and Opportunities for Soil Carbon Sequestration** (2024)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 6. **Soil Carbon Sequestration and Agronomic Productivity as Influenced by the Long-Term Organic and Inorganic Fertilisation Under the Upland Rice–Wheat System in Vertisols of Central India** (2024)
    0 citations · Soil Carbon

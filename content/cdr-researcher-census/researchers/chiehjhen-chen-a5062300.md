@@ -1,7 +1,7 @@
 ---
 title: "Chieh‐Jhen Chen"
-description: "Chieh‐Jhen Chen is a Mid-career General CDR researcher at National Taiwan Ocean University in TW. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.785870
+description: "Chieh‐Jhen Chen is a Mid-career Enhanced Weathering researcher at National Taiwan Ocean University in TW. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.693036
 url: "/cdr-researcher-census/researchers/chiehjhen-chen-a5062300/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ National Taiwan Ocean University · 🇹🇼 TW
 
 ## CDR Specialization
 
-**General CDR**
+**Enhanced Weathering**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 
@@ -42,7 +42,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 6 |
 | Citations | 191 |
 | Publications | 15 |
-| CDR Focus | 13.3% |
+| CDR Focus | 670.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    1 citations · Enhanced Weathering
 
 2. **Quantifying potential carbon dioxide removal via enhanced weathering using porewater from a field trial in Scotland** (2025)
-   0 citations · Enhanced Weathering
+   0 citations
 
 ## External Profiles
 

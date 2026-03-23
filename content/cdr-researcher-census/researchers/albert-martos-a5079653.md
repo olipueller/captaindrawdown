@@ -1,7 +1,7 @@
 ---
 title: "Albert Martos"
 description: "Albert Martos is a Senior Soil Carbon researcher at Escuela Campo Alegre in VE. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.442709
+date: 2026-03-23T11:47:00.208608
 url: "/cdr-researcher-census/researchers/albert-martos-a5079653/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 3 |
 | Citations | 311 |
 | Publications | 4 |
-| CDR Focus | 25.0% |
+| CDR Focus | 2500.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

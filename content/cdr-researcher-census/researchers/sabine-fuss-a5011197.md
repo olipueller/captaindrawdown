@@ -1,7 +1,7 @@
 ---
 title: "Sabine Fuss"
 description: "Sabine Fuss is an Eminent General CDR researcher at Potsdam Institute for Climate Impact Research in DE. With 219 publications and an h-index of 46, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.861112
+date: 2026-03-23T11:46:59.078992
 url: "/cdr-researcher-census/researchers/sabine-fuss-a5011197/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 46 |
 | Citations | 18,820 |
 | Publications | 219 |
-| CDR Focus | 11.9% |
+| CDR Focus | 1140.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -63,7 +63,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    57 citations · BECCS
 
 5. **Assessing global urban CO2 removal** (2024)
-   45 citations · DAC
+   45 citations · General CDR
 
 6. **Understanding the carbon dioxide removal range in 1.5 °C compatible and high overshoot pathways** (2023)
    35 citations · General CDR
@@ -78,7 +78,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    15 citations · General CDR
 
 10. **Scientific literature on carbon dioxide removal much larger than previously suggested: insights from an AI-enhanced systematic map** (2024)
-   7 citations · Biochar
+   7 citations · General CDR
 
 ## External Profiles
 

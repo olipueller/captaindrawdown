@@ -1,7 +1,7 @@
 ---
 title: "Tadeo Sáez‐Sandino"
 description: "Tadeo Sáez‐Sandino is a Mid-career Soil Carbon researcher at Western Sydney University in AU. With 44 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.129589
+date: 2026-03-23T11:46:59.663105
 url: "/cdr-researcher-census/researchers/tadeo-saezsandino-a5088688/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 13 |
 | Citations | 653 |
 | Publications | 44 |
-| CDR Focus | 13.6% |
+| CDR Focus | 680.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Water availability creates global thresholds in multidimensional soil biodiversity and functions** (2023)
-   97 citations · Soil Carbon
+   97 citations
 
 2. **The global contribution of soil mosses to ecosystem services** (2023)
    78 citations · Soil Carbon
@@ -66,7 +66,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    0 citations · Soil Carbon
 
 6. **Substrate Origin Controls Phosphorus Availability in Globally Distributed Long-Term Chronosequences** (2025)
-   0 citations · Soil Carbon
+   0 citations
 
 ## External Profiles
 

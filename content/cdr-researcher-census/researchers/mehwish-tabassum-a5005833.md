@@ -1,7 +1,7 @@
 ---
 title: "Mehwish Tabassum"
-description: "Mehwish Tabassum is a Mid-career General CDR researcher at Shihezi University in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.862110
+description: "Mehwish Tabassum is a Mid-career Biochar researcher at Shihezi University in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.809175
 url: "/cdr-researcher-census/researchers/mehwish-tabassum-a5005833/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Shihezi University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 6 |
 | Citations | 175 |
 | Publications | 13 |
-| CDR Focus | 15.4% |
+| CDR Focus | 770.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Progress on synthesis, characterization and photocatalytic applications of bismuth oxyhalide based nanomaterials in cleaner environment and energy - A review** (2025)
-   29 citations · General CDR
+   29 citations
 
 2. **Biochar as a Climate-Smart Agricultural Practice: Reducing Greenhouse Gas Emissions and Promoting Sustainable Farming** (2024)
    1 citations · Biochar

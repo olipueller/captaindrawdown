@@ -1,7 +1,7 @@
 ---
 title: "Alexa Grimm"
 description: "Alexa Grimm is a Mid-career DAC researcher at Utrecht University in NL. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.036233
+date: 2026-03-23T11:46:59.484178
 url: "/cdr-researcher-census/researchers/alexa-grimm-a5103982/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 8 |
 | Citations | 959 |
 | Publications | 13 |
-| CDR Focus | 38.5% |
+| CDR Focus | 3850.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    365 citations · DAC
 
 2. **Optimal Design and Operation of Solid Sorbent Direct Air Capture Processes at Varying Ambient Conditions** (2022)
-   116 citations · DAC
+   116 citations
 
 3. **How Would Ideal Sorbents Improve the Technical and Economic Performance of Adsorption-Based Direct Air Capture?** (2024)
    13 citations · DAC

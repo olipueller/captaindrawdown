@@ -1,7 +1,7 @@
 ---
 title: "Yimin Zhang"
-description: "Yimin Zhang is an Early-career DAC researcher at The University of Melbourne in AU. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.326761
+description: "Yimin Zhang is an Early-career General CDR researcher at The University of Melbourne in AU. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.343342
 url: "/cdr-researcher-census/researchers/yimin-zhang-a5029575/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ The University of Melbourne · 🇦🇺 AU
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 3 |
 | Citations | 109 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Least-cost pathways to net-zero, coupled energy systems: A case study in Australia** (2023)
-   8 citations · DAC
+   8 citations · General CDR
 
 ## External Profiles
 

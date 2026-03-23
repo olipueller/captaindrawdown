@@ -1,7 +1,7 @@
 ---
 title: "Thien Tran"
-description: "Thien Tran is a Mid-career DAC researcher at National Energy Research Center in JO. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.748615
+description: "Thien Tran is a Mid-career carbon dioxide removal researcher at National Energy Research Center in JO. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.643576
 url: "/cdr-researcher-census/researchers/thien-tran-a5025571/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ National Energy Research Center ·  JO
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 3 |
 | Citations | 201 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Scalable High Performance Flat Sheet Adsorbents for Carbon Capture** (2025)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

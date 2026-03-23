@@ -1,7 +1,7 @@
 ---
 title: "Alvina Aui"
 description: "Alvina Aui is a Mid-career DAC researcher at Lawrence Livermore National Laboratory in US. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.261937
+date: 2026-03-23T11:46:59.913657
 url: "/cdr-researcher-census/researchers/alvina-aui-a5086825/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 9 |
 | Citations | 444 |
 | Publications | 18 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

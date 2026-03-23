@@ -1,7 +1,7 @@
 ---
 title: "Weifeng Mu"
-description: "Weifeng Mu is a Senior Soil Carbon researcher at City University of Hong Kong, Shenzhen Research Institute in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.984965
+description: "Weifeng Mu is a Senior General CDR researcher at City University of Hong Kong, Shenzhen Research Institute in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.964976
 url: "/cdr-researcher-census/researchers/weifeng-mu-a5006432/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ City University of Hong Kong, Shenzhen Research Institute · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 152 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Potential of ecosystem carbon sinks to “neutralize” carbon emissions: A case study of Qinghai in west China and a tale of two stages** (2022)
-   14 citations · Soil Carbon
+   14 citations · General CDR
 
 ## External Profiles
 

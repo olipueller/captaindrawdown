@@ -1,7 +1,7 @@
 ---
 title: "Hyowon Seo"
 description: "Hyowon Seo is a Senior DAC researcher at Stony Brook University in US. With 40 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.952476
+date: 2026-03-23T11:46:59.298067
 url: "/cdr-researcher-census/researchers/hyowon-seo-a5085437/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,25 +45,25 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 15 |
 | Citations | 1,711 |
 | Publications | 40 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Electrochemical direct air capture of CO2 using neutral red as reversible redox-active material** (2023)
-   137 citations · DAC
+   137 citations
 
 2. **Electrochemical Carbon Dioxide Capture and Release with a Redox-Active Amine** (2022)
    130 citations · DAC
 
 3. **Redox-Mediated pH Swing Systems for Electrochemical Carbon Capture** (2023)
-   44 citations · DAC
+   44 citations
 
 4. **Visible Light-Driven CO<sub>2</sub> Capture and Release Using Photoactive Pyranine in Water in Continuous Flow** (2024)
-   21 citations · DAC
+   21 citations
 
 5. **Enhancing Efficiency of Electrochemical Carbon Capture Using Pulsed Chronopotentiometry with Hydrophilic Graphite Electrode** (2025)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Xiaohong Tian"
 description: "Xiaohong Tian is a Mid-career Soil Carbon researcher at Ministry of Agriculture in BW. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.225335
+date: 2026-03-23T11:46:59.843651
 url: "/cdr-researcher-census/researchers/xiaohong-tian-a5100641/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 496 |
 | Publications | 17 |
-| CDR Focus | 29.4% |
+| CDR Focus | 1760.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Effect of Straw and Wood Ash on Soil Carbon Sequestration and Bacterial Community in a Calcareous Soil** (2022)
-   12 citations · Soil Carbon
+   12 citations
 
 2. **Equal-straw produced biochar continuous incorporation substitutes straw returns for global warming mitigation: An appraisal based on five-year field experiment** (2025)
    5 citations · Biochar

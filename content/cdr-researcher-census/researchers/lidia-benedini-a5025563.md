@@ -1,7 +1,7 @@
 ---
 title: "Lidia Benedini"
-description: "Lidia Benedini is a Mid-career Soil Carbon researcher at Association of Southeast Asian Nations in ID. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.282611
+description: "Lidia Benedini is a Mid-career Biochar researcher at Association of Southeast Asian Nations in ID. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.293450
 url: "/cdr-researcher-census/researchers/lidia-benedini-a5025563/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Association of Southeast Asian Nations · 🇮🇩 ID
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -45,16 +45,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 114 |
 | Publications | 13 |
-| CDR Focus | 15.4% |
+| CDR Focus | 770.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Hydrothermal carbonization and pyrolysis in wetland engineering: Carbon sequestration, phosphorus recovery, and structural characterization of willow-based chars with X-ray μ-computed tomography** (2024)
-   16 citations · Soil Carbon
+   16 citations · Biochar
 
 2. **Hydrothermal Carbonization and Pyrolysis in Wetland Engineering: Carbon Sequestration, Phosphorus Recovery, and Structural Characterization of Willow-Based Chars with X-Ray Μ-Computed Tomography** (2024)
-   0 citations · Soil Carbon
+   0 citations · Biochar
 
 ## External Profiles
 

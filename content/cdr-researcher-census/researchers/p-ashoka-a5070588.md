@@ -1,7 +1,7 @@
 ---
 title: "P Ashoka"
 description: "P Ashoka is a Mid-career Soil Carbon researcher at University of Agricultural Sciences, Dharwad in IN. With 89 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.460666
+date: 2026-03-23T11:47:00.237008
 url: "/cdr-researcher-census/researchers/p-ashoka-a5070588/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 11 |
 | Citations | 302 |
 | Publications | 89 |
-| CDR Focus | 11.2% |
+| CDR Focus | 1010.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    16 citations · Soil Carbon
 
 2. **Agroforestry: Multifunctional Benefits and Implementation Strategies** (2024)
-   7 citations · Enhanced Weathering
+   7 citations · General CDR
 
 3. **Application and Impacts of Mulch Installation Techniques on Indian Horticulture: An In-depth Review** (2023)
    6 citations · Soil Carbon
@@ -60,22 +60,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    2 citations · Biochar
 
 5. **Impact of Organic Agriculture on Soil Quality and Ecosystem Services: A Review** (2025)
-   1 citations · Soil Carbon
+   1 citations · General CDR
 
 6. **The Role of Biofertilizers in Soil Health Improvement and Sustainable Farming: A Comprehensive Review** (2025)
    1 citations · Soil Carbon
 
 7. **Advances in Understanding Soil Microbial Diversity and Its Role in Ecosystem Functioning: A Comprehensive Review** (2025)
-   0 citations · Soil Carbon
+   0 citations
 
 8. **Impact of Climate Change on Global Agriculture: A Review of Adaptation and Mitigation Strategies** (2025)
-   0 citations · Enhanced Weathering
+   0 citations · General CDR
 
 9. **The Black Gold: How Biochar Can Save Our Soils and Climate** (2025)
    0 citations · Biochar
 
 10. **Impact of Straw Incorporation on Crop Yield and Greenhouse Gas Emissions: A Meta-analysis** (2025)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

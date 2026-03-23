@@ -1,7 +1,7 @@
 ---
 title: "Achiraya Chaichaloempreecha"
-description: "Achiraya Chaichaloempreecha is a Mid-career BECCS researcher at Thammasat University in TH. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.759561
+description: "Achiraya Chaichaloempreecha is a Mid-career General CDR researcher at Thammasat University in TH. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.659055
 url: "/cdr-researcher-census/researchers/achiraya-chaichaloempreecha-a5090720/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Thammasat University · 🇹🇭 TH
 
 ## CDR Specialization
 
-**BECCS**
+**General CDR**
 
-Combining biomass energy with carbon capture and storage to achieve negative emissions.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,25 +45,25 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 8 |
 | Citations | 198 |
 | Publications | 15 |
-| CDR Focus | 33.3% |
+| CDR Focus | 2670.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Thailand’s net-zero emissions by 2050: analysis of economy-wide impacts** (2023)
-   36 citations · BECCS
+   36 citations · General CDR
 
 2. **Energy system transformation for attainability of net zero emissions in Thailand** (2022)
-   26 citations · BECCS
+   26 citations · General CDR
 
 3. **Thailand’s mid-century greenhouse gas emission pathways to achieve the 2 degrees Celsius target** (2022)
-   23 citations · BECCS
+   23 citations · General CDR
 
 4. **Scaling up climate ambition post-2030: a long-term GHG mitigation analysis for Thailand** (2022)
-   7 citations · BECCS
+   7 citations · General CDR
 
 5. **Transition of Thailand's Power Sector toward Carbon Neutrality 2050** (2022)
-   2 citations · BECCS
+   2 citations · General CDR
 
 ## External Profiles
 

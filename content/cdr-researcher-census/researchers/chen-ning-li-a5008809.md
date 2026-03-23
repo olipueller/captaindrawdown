@@ -1,7 +1,7 @@
 ---
 title: "Chen-Ning Li"
 description: "Chen-Ning Li is a Mid-career General CDR researcher at Liaoning University in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.799839
+date: 2026-03-23T11:47:00.710821
 url: "/cdr-researcher-census/researchers/chen-ning-li-a5008809/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 8 |
 | Citations | 187 |
 | Publications | 15 |
-| CDR Focus | 13.3% |
+| CDR Focus | 670.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Rozita Madadi"
 description: "Rozita Madadi is a Mid-career Biochar researcher at University of Tehran in IR. With 9 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.092286
+date: 2026-03-23T11:46:59.598661
 url: "/cdr-researcher-census/researchers/rozita-madadi-a5013823/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 9 |
 | Citations | 742 |
 | Publications | 9 |
-| CDR Focus | 22.2% |
+| CDR Focus | 1110.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    214 citations · Biochar
 
 2. **Biochar as a sustainable product for remediation of petroleum contaminated soil** (2021)
-   89 citations · Biochar
+   89 citations
 
 ## External Profiles
 

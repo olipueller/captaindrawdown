@@ -1,7 +1,7 @@
 ---
 title: "Ruoxu Shang"
-description: "Ruoxu Shang is a Mid-career DAC researcher at University of California, Riverside in US. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.285100
+description: "Ruoxu Shang is a Mid-career General CDR researcher at University of California, Riverside in US. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.953045
 url: "/cdr-researcher-census/researchers/ruoxu-shang-a5033074/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ University of California, Riverside · 🇺🇸 US
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 8 |
 | Citations | 423 |
 | Publications | 17 |
-| CDR Focus | 11.8% |
+| CDR Focus | 1180.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Progress in carbon dioxide capture materials for deep decarbonization** (2022)
-   110 citations · DAC
+   110 citations · General CDR
 
 2. **Forging a sustainable sky: Unveiling the pillars of aviation e-fuel production for carbon emission circularity** (2024)
    57 citations · DAC

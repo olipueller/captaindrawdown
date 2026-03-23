@@ -1,7 +1,7 @@
 ---
 title: "Antonio Peñalver-Alcalá"
-description: "Antonio Peñalver-Alcalá is a Mid-career Soil Carbon researcher. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.300287
+description: "Antonio Peñalver-Alcalá is a Mid-career General CDR researcher. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.313518
 url: "/cdr-researcher-census/researchers/antonio-penalver-alcala-a5003368/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,9 +29,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -40,16 +40,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 112 |
 | Publications | 12 |
-| CDR Focus | 16.7% |
+| CDR Focus | 830.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Impact of Cover Crops on Carbon Sequestration, GHG Emissions, and Soil Health in Mediterranean fruit tree orchards (CLIMCOVER Project)** (2023)
-   0 citations · Soil Carbon
+   0 citations
 
 2. **Impact of Cover Crops on Carbon Sequestration, GHG Emissions, and Soil Health in Mediterranean fruit tree orchards (CLIMCOVER Project)** (2023)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Kerryn Brent"
 description: "Kerryn Brent is a Mid-career General CDR researcher at CSIRO Oceans and Atmosphere in AU. With 51 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.342247
+date: 2026-03-23T11:47:00.037918
 url: "/cdr-researcher-census/researchers/kerryn-brent-a5025199/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 9 |
 | Citations | 378 |
 | Publications | 51 |
-| CDR Focus | 15.7% |
+| CDR Focus | 1570.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -57,13 +57,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    9 citations · General CDR
 
 3. **Hydrogen production in Australia from renewable energy: no doubt green and clean, but is it mean?** (2023)
-   9 citations · General CDR
+   9 citations · BECCS
 
 4. **The potential of the BBNJ clearing house mechanism to enhance knowledge pluralism in marine carbon dioxide removal assessment** (2024)
    2 citations · General CDR
 
 5. **Beyond environmental identity: Testing public support for novel carbon dioxide removal in Australia using structural modelling** (2025)
-   1 citations · BECCS
+   1 citations · DAC
 
 6. **Stakeholders have knowledge priorities beyond local impacts for responsible marine-based carbon dioxide removal in Tasmania** (2025)
    1 citations · General CDR
@@ -72,7 +72,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    1 citations · General CDR
 
 8. **Local stakeholders can (and should?) play an active role in place-based deployment of Ocean Alkalinity Enhancement (OAE).** (2025)
-   0 citations · General CDR
+   0 citations · Ocean CDR
 
 ## External Profiles
 

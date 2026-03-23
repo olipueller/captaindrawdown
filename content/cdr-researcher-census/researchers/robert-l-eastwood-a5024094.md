@@ -1,7 +1,7 @@
 ---
 title: "Robert L. Eastwood"
 description: "Robert L. Eastwood is a Senior Ocean CDR researcher. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.545531
+date: 2026-03-23T11:47:00.373918
 url: "/cdr-researcher-census/researchers/robert-l-eastwood-a5024094/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -37,7 +37,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 6 |
 | Citations | 265 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

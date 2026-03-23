@@ -1,7 +1,7 @@
 ---
 title: "Tom Coussement"
-description: "Tom Coussement is a Mid-career Soil Carbon researcher at Statistics Belgium in BE. With 17 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.491474
+description: "Tom Coussement is a Mid-career General CDR researcher at Statistics Belgium in BE. With 17 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.291549
 url: "/cdr-researcher-census/researchers/tom-coussement-a5029788/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Statistics Belgium · 🇧🇪 BE
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,16 +42,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 3 |
 | Citations | 287 |
 | Publications | 17 |
-| CDR Focus | 11.8% |
+| CDR Focus | 590.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **CARAT: an innovative tool for quantifying carbon sequestration in agroforestry systems** (2025)
-   1 citations · Soil Carbon
+   1 citations · General CDR
 
 2. **CARAT: an innovative tool for quantifying carbon sequestration in agroforestry systems** (2024)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

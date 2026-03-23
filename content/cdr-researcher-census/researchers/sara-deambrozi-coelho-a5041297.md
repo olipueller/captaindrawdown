@@ -1,7 +1,7 @@
 ---
 title: "Sara Deambrozi Coelho"
-description: "Sara Deambrozi Coelho is a Mid-career Soil Carbon researcher at Instituto Nacional de Pesquisas da Amazônia in BR. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.259770
+description: "Sara Deambrozi Coelho is a Mid-career carbon dioxide removal researcher at Instituto Nacional de Pesquisas da Amazônia in BR. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.909358
 url: "/cdr-researcher-census/researchers/sara-deambrozi-coelho-a5041297/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Instituto Nacional de Pesquisas da Amazônia · 🇧🇷 BR
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 448 |
 | Publications | 6 |
-| CDR Focus | 16.7% |
+| CDR Focus | 1670.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Direct evidence for phosphorus limitation on Amazon forest productivity** (2022)
-   211 citations · Soil Carbon
+   211 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Nanhai Zhang"
 description: "Nanhai Zhang is a Mid-career Soil Carbon researcher at Jiangxi University of Traditional Chinese Medicine in CN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.031805
+date: 2026-03-23T11:47:01.020852
 url: "/cdr-researcher-census/researchers/nanhai-zhang-a5055881/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 145 |
 | Publications | 13 |
-| CDR Focus | 23.1% |
+| CDR Focus | 2310.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

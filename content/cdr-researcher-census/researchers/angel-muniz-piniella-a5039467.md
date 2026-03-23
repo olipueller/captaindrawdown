@@ -1,7 +1,7 @@
 ---
 title: "Ángel Muñiz Piniella"
-description: "Ángel Muñiz Piniella is a Mid-career Ocean CDR researcher at Flanders Marine Institute in BE. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.933117
+description: "Ángel Muñiz Piniella is a Mid-career General CDR researcher at Flanders Marine Institute in BE. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.902166
 url: "/cdr-researcher-census/researchers/angel-muniz-piniella-a5039467/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Flanders Marine Institute · 🇧🇪 BE
 
 ## CDR Specialization
 
-**Ocean CDR**
+**General CDR**
 
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 4 |
 | Citations | 161 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

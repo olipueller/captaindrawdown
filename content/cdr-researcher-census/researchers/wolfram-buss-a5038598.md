@@ -1,7 +1,7 @@
 ---
 title: "Wolfram Buss"
 description: "Wolfram Buss is a Senior Soil Carbon researcher at Commonwealth Scientific and Industrial Research Organisation in AU. With 68 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.894934
+date: 2026-03-23T11:46:59.156919
 url: "/cdr-researcher-census/researchers/wolfram-buss-a5038598/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 30 |
 | Citations | 3,922 |
 | Publications | 68 |
-| CDR Focus | 16.2% |
+| CDR Focus | 1180.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -66,19 +66,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    12 citations · Biochar
 
 6. **Enhancing natural cycles in agro-ecosystems to boost plant carbon capture and soil storage** (2021)
-   11 citations · Biochar
+   11 citations · Soil Carbon
 
 7. **Non-mycorrhizal root-associated fungi increase soil C stocks and stability via diverse mechanisms** (2024)
    6 citations · Soil Carbon
 
 8. **Stabilisation of soil organic matter with rock dust partially counteracted by plants** (2023)
-   2 citations · Enhanced Weathering
+   2 citations
 
 9. **Poo for future: Community Engagement through Biochar Innovation by Utilizing Sewage Sludge for Enhanced Agricultural Practices and Climate Resilience&amp;#160;** (2025)
    0 citations · Biochar
 
 10. **Non-mycorrhizal root-associated fungi increase soil C stocks and stability via diverse mechanisms** (2023)
-   0 citations · Soil Carbon
+   0 citations
 
 ## External Profiles
 

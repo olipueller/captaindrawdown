@@ -1,7 +1,7 @@
 ---
 title: "Danna Chang"
 description: "Danna Chang is a Mid-career Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 41 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.075319
+date: 2026-03-23T11:46:59.564669
 url: "/cdr-researcher-census/researchers/danna-chang-a5000755/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 17 |
 | Citations | 797 |
 | Publications | 41 |
-| CDR Focus | 12.2% |
+| CDR Focus | 730.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

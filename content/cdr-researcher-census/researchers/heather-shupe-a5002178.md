@@ -1,7 +1,7 @@
 ---
 title: "Heather Shupe"
-description: "Heather Shupe is a Mid-career Soil Carbon researcher at Universität Hamburg in DE. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.104912
+description: "Heather Shupe is a Mid-career General CDR researcher at Universität Hamburg in DE. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.105665
 url: "/cdr-researcher-census/researchers/heather-shupe-a5002178/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Universität Hamburg · 🇩🇪 DE
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 134 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Case studies from Germany and Scotland indicate climate change mitigation potential of riverine and coastal wetlands** (2026)
-   5 citations · Soil Carbon
+   5 citations · General CDR
 
 ## External Profiles
 

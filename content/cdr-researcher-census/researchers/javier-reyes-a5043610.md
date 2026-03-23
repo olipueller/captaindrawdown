@@ -1,7 +1,7 @@
 ---
 title: "Javier Reyes"
 description: "Javier Reyes is a Mid-career Soil Carbon researcher at Universidad EAN in CO. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.084410
+date: 2026-03-23T11:47:01.080383
 url: "/cdr-researcher-census/researchers/javier-reyes-a5043610/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 137 |
 | Publications | 18 |
-| CDR Focus | 33.3% |
+| CDR Focus | 2780.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,13 +54,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    5 citations · Soil Carbon
 
 3. **Reply on RC1** (2022)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 4. **Reply on RC2** (2022)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 5. **Comment on egusphere-2022-273** (2022)
-   0 citations · Soil Carbon
+   0 citations
 
 6. **Comment on egusphere-2022-273** (2022)
    0 citations · Soil Carbon

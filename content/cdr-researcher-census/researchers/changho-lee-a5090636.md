@@ -1,7 +1,7 @@
 ---
 title: "Chang‐Ho Lee"
 description: "Chang‐Ho Lee is a Senior Ocean CDR researcher at Pohang University of Science and Technology in KR. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.402548
+date: 2026-03-23T11:47:01.420454
 url: "/cdr-researcher-census/researchers/changho-lee-a5090636/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 4 |
 | Citations | 102 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

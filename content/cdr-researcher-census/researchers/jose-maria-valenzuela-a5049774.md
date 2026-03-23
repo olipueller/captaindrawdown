@@ -1,7 +1,7 @@
 ---
 title: "José María Valenzuela"
-description: "José María Valenzuela is a Mid-career Ocean CDR researcher at College of Mexico in MX. With 29 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.838886
+description: "José María Valenzuela is a Mid-career General CDR researcher at College of Mexico in MX. With 29 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.778218
 url: "/cdr-researcher-census/researchers/jose-maria-valenzuela-a5049774/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ College of Mexico · 🇲🇽 MX
 
 ## CDR Specialization
 
-**Ocean CDR**
+**General CDR**
 
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 8 |
 | Citations | 180 |
 | Publications | 29 |
-| CDR Focus | 13.8% |
+| CDR Focus | 690.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -57,10 +57,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    12 citations · General CDR
 
 3. **Realistic Deployment Scenarios for Ocean Alkalinity Enhancement, Brine Splitting - Policy Brief** (2024)
-   1 citations · Ocean CDR
+   1 citations · General CDR
 
 4. **Realistic Deployment Scenarios for Ocean Alkalinity Enhancement, Ocean liming (OL) - Policy Brief** (2024)
-   0 citations · Ocean CDR
+   0 citations · General CDR
 
 ## External Profiles
 

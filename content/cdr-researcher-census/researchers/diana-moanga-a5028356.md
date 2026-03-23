@@ -1,7 +1,7 @@
 ---
 title: "Diana Moanga"
 description: "Diana Moanga is a Mid-career Soil Carbon researcher at Stanford University in US. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.565698
+date: 2026-03-23T11:47:00.401045
 url: "/cdr-researcher-census/researchers/diana-moanga-a5028356/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 258 |
 | Publications | 22 |
-| CDR Focus | 13.6% |
+| CDR Focus | 910.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    6 citations · Soil Carbon
 
 2. **Identifying drivers of change and predicting future land-use impacts in established farmlands** (2021)
-   0 citations · Soil Carbon
+   0 citations
 
 3. **Crop transitions can drive economic and ecological shifts in an established farming landscape: a case study from California** (2021)
    0 citations · Soil Carbon

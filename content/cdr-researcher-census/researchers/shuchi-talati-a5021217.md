@@ -1,7 +1,7 @@
 ---
 title: "Shuchi Talati"
 description: "Shuchi Talati is a Mid-career General CDR researcher in GB. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.144633
+date: 2026-03-23T11:46:59.692732
 url: "/cdr-researcher-census/researchers/shuchi-talati-a5021217/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -41,13 +41,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 9 |
 | Citations | 624 |
 | Publications | 20 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **The promise of scalable direct air capture** (2021)
-   23 citations · DAC
+   23 citations
 
 2. **The distortionary effects of unconstrained for-profit carbon dioxide removal and the need for early governance intervention** (2023)
    12 citations · General CDR

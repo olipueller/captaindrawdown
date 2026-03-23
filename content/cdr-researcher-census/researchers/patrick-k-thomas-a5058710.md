@@ -1,7 +1,7 @@
 ---
 title: "Patrick K. Thomas"
 description: "Patrick K. Thomas is a Mid-career DAC researcher at Montana State University in US. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.432609
+date: 2026-03-23T11:47:00.191777
 url: "/cdr-researcher-census/researchers/patrick-k-thomas-a5058710/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 9 |
 | Citations | 316 |
 | Publications | 26 |
-| CDR Focus | 15.4% |
+| CDR Focus | 770.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,13 +54,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    0 citations · DAC
 
 2. **Hunting for extremophiles: a systematic screening of freshwater microalgae for tolerance to high pH and high alkalinity cultivation** (2026)
-   0 citations · DAC
+   0 citations
 
 3. **Hunting for extremophiles: a systematic screening of freshwater microalgae for tolerance to high pH and high alkalinity cultivation** (2026)
-   0 citations · DAC
+   0 citations
 
 4. **Hunting for extremophiles: a systematic screening of freshwater microalgae for tolerance to high pH and high alkalinity cultivation** (2025)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

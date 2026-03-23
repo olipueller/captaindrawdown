@@ -1,7 +1,7 @@
 ---
 title: "Jakub Mularski"
 description: "Jakub Mularski is a Mid-career BECCS researcher at Wrocław University of Science and Technology in PL. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.365943
+date: 2026-03-23T11:47:00.080928
 url: "/cdr-researcher-census/researchers/jakub-mularski-a5002916/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 10 |
 | Citations | 361 |
 | Publications | 20 |
-| CDR Focus | 10.0% |
+| CDR Focus | 500.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

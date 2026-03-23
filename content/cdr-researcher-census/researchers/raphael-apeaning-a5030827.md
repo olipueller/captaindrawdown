@@ -1,7 +1,7 @@
 ---
 title: "Raphael Apeaning"
 description: "Raphael Apeaning is a Mid-career General CDR researcher at King Abdullah Petroleum Studies and Research Center in SA. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.461218
+date: 2026-03-23T11:47:00.238049
 url: "/cdr-researcher-census/researchers/raphael-apeaning-a5030827/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,16 +45,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 5 |
 | Citations | 301 |
 | Publications | 18 |
-| CDR Focus | 55.6% |
+| CDR Focus | 4440.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **GCAM-CDR v1.0: enhancing the representation of carbon dioxide removal technologies and policies in an integrated assessment model** (2023)
-   23 citations · BECCS
+   23 citations · DAC
 
 2. **GCAM-CDR v1.0: Enhancing the Representation of Carbon Dioxide Removal Technologies and Policies in an Integrated Assessment Model** (2022)
-   4 citations · BECCS
+   4 citations
 
 3. **Techno-economic assessment of waste heat-powered direct air capture in the refinery and petrochemical sectors in Saudi Arabia** (2025)
    3 citations · DAC
@@ -72,13 +72,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    0 citations · General CDR
 
 8. **Comment on gmd-2022-125** (2022)
-   0 citations · BECCS
+   0 citations · DAC
 
 9. **Comment on gmd-2022-125** (2022)
-   0 citations · BECCS
+   0 citations
 
 10. **The sustainable development implications of carbon removal technologies in the context of net-zero climate pathway.&amp;#160;** (2021)
-   0 citations · BECCS
+   0 citations · DAC
 
 ## External Profiles
 

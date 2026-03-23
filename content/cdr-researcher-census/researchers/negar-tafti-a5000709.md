@@ -1,7 +1,7 @@
 ---
 title: "Negar Tafti"
-description: "Negar Tafti is a Mid-career Enhanced Weathering researcher. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.388728
+description: "Negar Tafti is a Mid-career Biochar researcher. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.114127
 url: "/cdr-researcher-census/researchers/negar-tafti-a5000709/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,9 +29,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**Enhanced Weathering**
+**Biochar**
 
-Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -40,13 +40,13 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 5 |
 | Citations | 345 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Biochar Application for Sustainable Crop Production, Soil and Water Quality Improvement, and Greenhouse Gas Emission Mitigation** (2021)
-   0 citations · Enhanced Weathering
+   0 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Romany Webb"
-description: "Romany Webb is a Mid-career Ocean CDR researcher at Sabin Vaccine Institute in US. With 96 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.567385
+description: "Romany Webb is a Mid-career General CDR researcher at Sabin Vaccine Institute in US. With 96 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.404437
 url: "/cdr-researcher-census/researchers/romany-webb-a5110590/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Sabin Vaccine Institute · 🇺🇸 US
 
 ## CDR Specialization
 
-**Ocean CDR**
+**General CDR**
 
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,7 +42,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 8 |
 | Citations | 256 |
 | Publications | 96 |
-| CDR Focus | 18.8% |
+| CDR Focus | 1770.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    54 citations · General CDR
 
 2. **International laws governing ocean CDR** (2023)
-   9 citations · General CDR
+   9 citations
 
 3. **Next steps for assessing ocean iron fertilization for marine carbon dioxide removal** (2024)
    8 citations · General CDR
@@ -66,16 +66,16 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    4 citations · General CDR
 
 7. **Climate targets, carbon dioxide removal and the potential role of Ocean Alkalinity Enhancement** (2023)
-   4 citations · General CDR
+   4 citations
 
 8. **Removing Carbon Dioxide Through Ocean Alkalinity Enhancement and Seaweed Cultivation: Legal Challenges and Opportunities** (2021)
    3 citations · General CDR
 
 9. **The need to explore the potential of marine CDR – A guide for policy makers** (2025)
-   1 citations · Biochar
+   1 citations · General CDR
 
 10. **Solid Carbon – a Gigaton-Scale Ocean Rock Solid Climate Solution** (2025)
-   1 citations · DAC
+   1 citations · Enhanced Weathering
 
 ## External Profiles
 

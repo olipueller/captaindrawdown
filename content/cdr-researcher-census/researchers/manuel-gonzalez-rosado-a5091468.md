@@ -1,7 +1,7 @@
 ---
 title: "Manuel González-Rosado"
 description: "Manuel González-Rosado is a Mid-career Soil Carbon researcher at Universidad Politécnica de Cartagena in ES. With 42 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.462522
+date: 2026-03-23T11:47:00.239502
 url: "/cdr-researcher-census/researchers/manuel-gonzalez-rosado-a5091468/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 12 |
 | Citations | 301 |
 | Publications | 42 |
-| CDR Focus | 19.0% |
+| CDR Focus | 1430.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -66,10 +66,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    0 citations · Soil Carbon
 
 6. **Impact of Cover Crops on Carbon Sequestration, GHG Emissions, and Soil Health in Mediterranean fruit tree orchards (CLIMCOVER Project)** (2023)
-   0 citations · Soil Carbon
+   0 citations
 
 7. **Impact of Cover Crops on Carbon Sequestration, GHG Emissions, and Soil Health in Mediterranean fruit tree orchards (CLIMCOVER Project)** (2023)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 8. **Alley cropping associated with conservation tillage can promote short-term soil aggregation and carbon sequestration in European woody crops** (2026)
    0 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Maitha Alshamsi"
-description: "Maitha Alshamsi is a Mid-career General CDR researcher at University of Sharjah in AE. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.728825
+description: "Maitha Alshamsi is a Mid-career Ocean CDR researcher at University of Sharjah in AE. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.618963
 url: "/cdr-researcher-census/researchers/maitha-alshamsi-a5056233/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Sharjah · 🇦🇪 AE
 
 ## CDR Specialization
 
-**General CDR**
+**Ocean CDR**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 3 |
 | Citations | 206 |
 | Publications | 5 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Cultivation of <i>Nannochloropsis</i> algae for simultaneous biomass applications and carbon dioxide capture** (2021)
-   18 citations · General CDR
+   18 citations · Ocean CDR
 
 ## External Profiles
 

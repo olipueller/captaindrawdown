@@ -1,7 +1,7 @@
 ---
 title: "Suchanya Kojinok"
-description: "Suchanya Kojinok is a Mid-career General CDR researcher at Maejo University in TH. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.880044
+description: "Suchanya Kojinok is a Mid-career Enhanced Weathering researcher at Maejo University in TH. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.835673
 url: "/cdr-researcher-census/researchers/suchanya-kojinok-a5080768/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Maejo University · 🇹🇭 TH
 
 ## CDR Specialization
 
-**General CDR**
+**Enhanced Weathering**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 
@@ -42,7 +42,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 5 |
 | Citations | 171 |
 | Publications | 8 |
-| CDR Focus | 25.0% |
+| CDR Focus | 1250.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    2 citations · Enhanced Weathering
 
 2. **Microtextural Characteristics of Ultramafic Rock-Forming Minerals and Their Effects on Carbon Sequestration** (2024)
-   1 citations · Enhanced Weathering
+   1 citations
 
 ## External Profiles
 

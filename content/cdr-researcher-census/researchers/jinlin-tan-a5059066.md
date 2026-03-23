@@ -1,7 +1,7 @@
 ---
 title: "Jinlin Tan"
 description: "Jinlin Tan is a Mid-career Soil Carbon researcher at Zhejiang Province Institute of Architectural Design and Research in CN. With 5 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.791071
+date: 2026-03-23T11:47:00.699251
 url: "/cdr-researcher-census/researchers/jinlin-tan-a5059066/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 2 |
 | Citations | 191 |
 | Publications | 5 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

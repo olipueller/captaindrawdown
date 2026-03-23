@@ -1,7 +1,7 @@
 ---
 title: "Arbi J. Sarkissian"
-description: "Arbi J. Sarkissian is a Mid-career General CDR researcher at Lancaster University in GB. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.729031
+description: "Arbi J. Sarkissian is a Mid-career carbon dioxide removal researcher at Lancaster University in GB. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.619578
 url: "/cdr-researcher-census/researchers/arbi-j-sarkissian-a5003657/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Lancaster University · 🇬🇧 GB
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 6 |
 | Citations | 206 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Editorial: Sustainable forest management under climate change conditions — A focus on biodiversity conservation and forest restoration** (2024)
-   5 citations · General CDR
+   5 citations
 
 ## External Profiles
 

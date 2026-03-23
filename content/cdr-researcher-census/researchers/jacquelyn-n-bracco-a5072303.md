@@ -1,7 +1,7 @@
 ---
 title: "Jacquelyn N. Bracco"
-description: "Jacquelyn N. Bracco is a Mid-career DAC researcher at Queens College, CUNY in US. With 47 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.250551
+description: "Jacquelyn N. Bracco is a Mid-career carbon dioxide removal researcher at Queens College, CUNY in US. With 47 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.889570
 url: "/cdr-researcher-census/researchers/jacquelyn-n-bracco-a5072303/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Queens College, CUNY · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,25 +39,25 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 11 |
 | Citations | 458 |
 | Publications | 47 |
-| CDR Focus | 10.6% |
+| CDR Focus | 1060.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Reaction Layer Formation on MgO in the Presence of Humidity** (2023)
-   20 citations · DAC
+   20 citations
 
 2. **Carbonation of MgO Single Crystals: Implications for Direct Air Capture of CO<sub>2</sub>** (2025)
-   13 citations · DAC
+   13 citations
 
 3. **Iron Impurity Impairs the CO<sub>2</sub> Capture Performance of MgO: Insights from Microscopy and Machine Learning Molecular Dynamics** (2024)
-   6 citations · DAC
+   6 citations
 
 4. **Inhibition of Reaction Layer Formation on MgO(100) by Doping with Trace Amounts of Iron** (2025)
-   4 citations · DAC
+   4 citations
 
 5. **Complex reaction kinetics during direct air capture of CO<sub>2</sub> by MgO: what an improved fundamental understanding of mineral nucleation and growth can tell us.** (2024)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

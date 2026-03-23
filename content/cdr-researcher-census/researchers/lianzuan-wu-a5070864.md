@@ -1,7 +1,7 @@
 ---
 title: "Lianzuan Wu"
-description: "Lianzuan Wu is a Mid-career Soil Carbon researcher at North China Electric Power University in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.291848
+description: "Lianzuan Wu is a Mid-career carbon dioxide removal researcher at North China Electric Power University in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.304152
 url: "/cdr-researcher-census/researchers/lianzuan-wu-a5070864/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ North China Electric Power University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 113 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Relationship between Soil Bacterial Communities and Dissolved Organic Matter in a Subtropical Pinus Taiwanensis Forest after Short-Term Nitrogen Addition** (2021)
-   1 citations · Soil Carbon
+   1 citations
 
 ## External Profiles
 

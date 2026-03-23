@@ -1,7 +1,7 @@
 ---
 title: "Yu-Xin Huang"
 description: "Yu-Xin Huang is a Mid-career Soil Carbon researcher at Jiangxi Academy of Forestry in CN. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.966365
+date: 2026-03-23T11:47:00.943883
 url: "/cdr-researcher-census/researchers/yu-xin-huang-a5018843/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 3 |
 | Citations | 155 |
 | Publications | 4 |
-| CDR Focus | 25.0% |
+| CDR Focus | 2500.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

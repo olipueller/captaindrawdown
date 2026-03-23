@@ -1,7 +1,7 @@
 ---
 title: "Adedayo Bello"
 description: "Adedayo Bello is a Mid-career Biochar researcher at Federal University of Agriculture in NG. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.670370
+date: 2026-03-23T11:47:00.540163
 url: "/cdr-researcher-census/researchers/adedayo-bello-a5020987/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 7 |
 | Citations | 223 |
 | Publications | 14 |
-| CDR Focus | 14.3% |
+| CDR Focus | 710.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    6 citations · Biochar
 
 2. **Adsorption of Pharmaceuticals from Municipal Wastewater Effluent by Low-Cost Magnetite-Pine Bark in Comparison to Activated Carbon in Small-Scale Columns and a Pilot-Scale Column with Biotoxicity Study and Enumeration of Viable Bacteria** (2024)
-   0 citations · Biochar
+   0 citations
 
 ## External Profiles
 

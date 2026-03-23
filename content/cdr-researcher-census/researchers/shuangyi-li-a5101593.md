@@ -1,7 +1,7 @@
 ---
 title: "Shuangyi Li"
 description: "Shuangyi Li is a Senior Soil Carbon researcher at Shenyang Agricultural University in CN. With 78 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.945072
+date: 2026-03-23T11:46:59.284330
 url: "/cdr-researcher-census/researchers/shuangyi-li-a5101593/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 21 |
 | Citations | 1,853 |
 | Publications | 78 |
-| CDR Focus | 14.1% |
+| CDR Focus | 1150.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,13 +54,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    59 citations · Soil Carbon
 
 2. **Effects of farmland landscape pattern on spatial distribution of soil organic carbon in Lower Liaohe Plain of northeastern China** (2022)
-   43 citations · Soil Carbon
+   43 citations · General CDR
 
 3. **Influence of environmental factors on soil organic carbon in different soil layers for Chinese Mollisols under intensive maize cropping** (2022)
    22 citations · Soil Carbon
 
 4. **Crop residue decomposition and nutrient release are independently affected by nitrogen fertilization, plastic film mulching, and residue type** (2022)
-   18 citations · Soil Carbon
+   18 citations
 
 5. **Distributions of straw-derived carbon in Mollisol’s aggregates under different fertilization practices** (2021)
    11 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Osvaldo Merege Vieira-Neto"
-description: "Osvaldo Merege Vieira-Neto is a Senior General CDR researcher at Universidade de São Paulo in BR. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.838654
+description: "Osvaldo Merege Vieira-Neto is a Senior carbon dioxide removal researcher at Universidade de São Paulo in BR. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.777989
 url: "/cdr-researcher-census/researchers/osvaldo-merege-vieira-neto-a5004385/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Universidade de São Paulo · 🇧🇷 BR
 
 **Career Stage:** Senior
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 4 |
 | Citations | 180 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Combined Extracorporeal Carbon Dioxide Removal (ECCO2R) With Renal Replacement Therapy and Blood Purification in a Severe Inhalation Injury Patient—Case Report** (2025)
-   1 citations · General CDR
+   1 citations
 
 ## External Profiles
 

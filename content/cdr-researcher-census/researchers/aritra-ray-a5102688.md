@@ -1,7 +1,7 @@
 ---
 title: "Aritra Ray"
-description: "Aritra Ray is an Early-career Biochar researcher at Purdue University West Lafayette in US. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.278738
+description: "Aritra Ray is an Early-career carbon dioxide removal researcher at Purdue University West Lafayette in US. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.289082
 url: "/cdr-researcher-census/researchers/aritra-ray-a5102688/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Purdue University West Lafayette · 🇺🇸 US
 
 **Career Stage:** Early-career
 
-## CDR Specialization
-
-**Biochar**
-
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 3 |
 | Citations | 114 |
 | Publications | 5 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **State-of-the-art review on sediment microbial fuel cells: evolution, innovations, challenges, scalability, and policy implications for sustainable development** (2025)
-   0 citations · Biochar
+   0 citations
 
 ## External Profiles
 

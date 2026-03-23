@@ -1,7 +1,7 @@
 ---
 title: "Dhrubjyoti Sharma"
-description: "Dhrubjyoti Sharma is a Mid-career Enhanced Weathering researcher at Indian Institute of Technology Gandhinagar in IN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.202798
+description: "Dhrubjyoti Sharma is a Mid-career Soil Carbon researcher at Indian Institute of Technology Gandhinagar in IN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.208311
 url: "/cdr-researcher-census/researchers/dhrubjyoti-sharma-a5075996/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Indian Institute of Technology Gandhinagar · 🇮🇳 IN
 
 ## CDR Specialization
 
-**Enhanced Weathering**
+**Soil Carbon**
 
-Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 5 |
 | Citations | 122 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Microbial Interactions in Soil Ecosystems: Facilitating Plant Growth, Nutrient Cycling, and Environmental Dynamics** (2025)
-   1 citations · Enhanced Weathering
+   1 citations · Soil Carbon
 
 ## External Profiles
 

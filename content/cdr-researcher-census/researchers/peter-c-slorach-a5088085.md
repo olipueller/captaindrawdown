@@ -1,7 +1,7 @@
 ---
 title: "Peter C. Slorach"
-description: "Peter C. Slorach is a Mid-career DAC researcher at University of Manchester in GB. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.047540
+description: "Peter C. Slorach is a Mid-career carbon dioxide removal researcher at University of Manchester in GB. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.511167
 url: "/cdr-researcher-census/researchers/peter-c-slorach-a5088085/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ University of Manchester · 🇬🇧 GB
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 6 |
 | Citations | 895 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Net zero in the heating sector: Technological options and environmental sustainability from now to 2050** (2021)
-   119 citations · DAC
+   119 citations
 
 ## External Profiles
 

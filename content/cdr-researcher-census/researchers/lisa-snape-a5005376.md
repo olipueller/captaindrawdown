@@ -1,7 +1,7 @@
 ---
 title: "Lisa Snape"
 description: "Lisa Snape is a Mid-career Soil Carbon researcher at University of Salzburg in AT. With 27 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.848041
+date: 2026-03-23T11:47:00.791998
 url: "/cdr-researcher-census/researchers/lisa-snape-a5005376/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 178 |
 | Publications | 27 |
-| CDR Focus | 18.5% |
+| CDR Focus | 740.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,10 +54,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    38 citations · Soil Carbon
 
 3. **Characterizing agricultural terraces-new quantitative geomorphometric approaches to estimate soil volumes stored.** (2021)
-   0 citations · Soil Carbon
+   0 citations
 
 4. **New quantitative geomorphometric approach to estimate soil volumes stored in agricultural terraces.** (2021)
-   0 citations · Soil Carbon
+   0 citations
 
 5. **A geomorphometric approach to estimate soil volumes stored in agricultural terrace systems** (2021)
    0 citations · Soil Carbon

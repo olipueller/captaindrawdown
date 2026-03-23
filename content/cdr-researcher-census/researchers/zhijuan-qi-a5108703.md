@@ -1,7 +1,7 @@
 ---
 title: "Zhijuan Qi"
 description: "Zhijuan Qi is a Mid-career Soil Carbon researcher at Northeast Agricultural University in CN. With 24 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.213528
+date: 2026-03-23T11:46:59.819765
 url: "/cdr-researcher-census/researchers/zhijuan-qi-a5108703/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 11 |
 | Citations | 512 |
 | Publications | 24 |
-| CDR Focus | 12.5% |
+| CDR Focus | 830.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Agricultural diversification promotes sustainable and resilient global rice production** (2023)
-   73 citations · Soil Carbon
+   73 citations
 
 2. **Water-saving irrigation mitigates methane emissions from paddy fields: The role of iron** (2024)
    13 citations · Soil Carbon

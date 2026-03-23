@@ -1,7 +1,7 @@
 ---
 title: "Bruno Salarini Peixoto"
 description: "Bruno Salarini Peixoto is a Mid-career Biochar researcher at Universidade Federal Fluminense in BR. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.109784
+date: 2026-03-23T11:47:01.110379
 url: "/cdr-researcher-census/researchers/bruno-salarini-peixoto-a5076796/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 8 |
 | Citations | 133 |
 | Publications | 15 |
-| CDR Focus | 26.7% |
+| CDR Focus | 1330.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

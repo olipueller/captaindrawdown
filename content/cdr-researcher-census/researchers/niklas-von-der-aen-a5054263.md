@@ -1,7 +1,7 @@
 ---
 title: "Niklas von der Aßen"
-description: "Niklas von der Aßen is a Mid-career DAC researcher at RWTH Aachen University in DE. With 97 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.924355
+description: "Niklas von der Aßen is a Mid-career General CDR researcher at RWTH Aachen University in DE. With 97 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.231865
 url: "/cdr-researcher-census/researchers/niklas-von-der-aen-a5054263/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ RWTH Aachen University · 🇩🇪 DE
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 18 |
 | Citations | 2,350 |
 | Publications | 97 |
-| CDR Focus | 12.4% |
+| CDR Focus | 520.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -69,16 +69,16 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    0 citations · DAC
 
 7. **A decomposition method for optimizing the operation of power-to-X energy systems with detailed process models** (2025)
-   0 citations · DAC
+   0 citations
 
 8. **A decomposition method for optimizing the operation of power-to-X energy systems with detailed process models** (2025)
-   0 citations · DAC
+   0 citations · General CDR
 
 9. **Control Strategies to Optimize Adsorption-Based Direct Air Capture Under Varying Weather Conditions** (2025)
-   0 citations · DAC
+   0 citations
 
 10. **Model-Based Process Design Optimization of DAC to Minimize Costs: Accounting for Diurnal Variations in Ambient Temperature and Relative Humidity** (2024)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

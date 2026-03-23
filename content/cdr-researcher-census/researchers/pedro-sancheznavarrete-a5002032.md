@@ -1,7 +1,7 @@
 ---
 title: "Pedro Sánchez‐Navarrete"
 description: "Pedro Sánchez‐Navarrete is a Mid-career Soil Carbon researcher at Consejo Superior de Investigaciones Científicas in ES. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.838036
+date: 2026-03-23T11:47:00.776309
 url: "/cdr-researcher-census/researchers/pedro-sancheznavarrete-a5002032/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 181 |
 | Publications | 14 |
-| CDR Focus | 35.7% |
+| CDR Focus | 3570.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

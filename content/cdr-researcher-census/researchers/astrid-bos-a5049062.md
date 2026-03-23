@@ -1,7 +1,7 @@
 ---
 title: "Astrid Bos"
 description: "Astrid Bos is a Mid-career General CDR researcher at Netherlands Environmental Assessment Agency in NL. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.494498
+date: 2026-03-23T11:47:00.295753
 url: "/cdr-researcher-census/researchers/astrid-bos-a5049062/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 9 |
 | Citations | 285 |
 | Publications | 17 |
-| CDR Focus | 11.8% |
+| CDR Focus | 1180.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    26 citations · General CDR
 
 2. **Food and land system transformations under different societal perspectives on sustainable development** (2024)
-   10 citations · BECCS
+   10 citations · General CDR
 
 ## External Profiles
 

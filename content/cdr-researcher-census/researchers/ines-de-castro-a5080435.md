@@ -1,7 +1,7 @@
 ---
 title: "Inês de Castro"
 description: "Inês de Castro is a Mid-career Ocean CDR researcher at Universidade dos Açores in PT. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.366923
+date: 2026-03-23T11:47:01.384637
 url: "/cdr-researcher-census/researchers/ines-de-castro-a5080435/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,19 +45,19 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 4 |
 | Citations | 105 |
 | Publications | 8 |
-| CDR Focus | 37.5% |
+| CDR Focus | 3750.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Ocean liming effect on a North Atlantic microbial community: changes in composition and rates** (2025)
-   1 citations · Ocean CDR
+   1 citations · General CDR
 
 2. **Influence of Inorganic Nutrients on a North Atlantic Microbial Community’s Response to Ocean Alkalinity Enhancement** (2025)
-   0 citations · General CDR
+   0 citations · Ocean CDR
 
 3. **Influence of Inorganic Nutrients on a North Atlantic Community Response to Ocean Alkalinity Enhancement** (2025)
-   0 citations · General CDR
+   0 citations · Ocean CDR
 
 ## External Profiles
 

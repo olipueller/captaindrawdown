@@ -1,7 +1,7 @@
 ---
 title: "William Rodriguez-Reillo"
 description: "William Rodriguez-Reillo is a Mid-career Biochar researcher at Harvard University in US. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.016726
+date: 2026-03-23T11:46:59.443830
 url: "/cdr-researcher-census/researchers/william-rodriguez-reillo-a5061073/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 5 |
 | Citations | 1,075 |
 | Publications | 8 |
-| CDR Focus | 25.0% |
+| CDR Focus | 1250.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

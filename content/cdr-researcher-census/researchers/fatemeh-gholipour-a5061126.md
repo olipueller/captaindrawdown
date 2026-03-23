@@ -1,7 +1,7 @@
 ---
 title: "Fatemeh Gholipour"
-description: "Fatemeh Gholipour is a Mid-career Biochar researcher at Amirkabir University of Technology in IR. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.395395
+description: "Fatemeh Gholipour is a Mid-career General CDR researcher at Amirkabir University of Technology in IR. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.126038
 url: "/cdr-researcher-census/researchers/fatemeh-gholipour-a5061126/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Amirkabir University of Technology ·  IR
 
 ## CDR Specialization
 
-**Biochar**
+**General CDR**
 
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 4 |
 | Citations | 340 |
 | Publications | 6 |
-| CDR Focus | 16.7% |
+| CDR Focus | 1670.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Separation of 1‐Naphthol from Wastewater Using HF‐Free Microwave‐Assisted Synthesized MIL‐101(Cr): Kinetics, Thermodynamics and Reusability Studies**** (2022)
-   3 citations · Biochar
+   3 citations · General CDR
 
 ## External Profiles
 

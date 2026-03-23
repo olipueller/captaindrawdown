@@ -1,7 +1,7 @@
 ---
 title: "Dionissis Efstathiou"
 description: "Dionissis Efstathiou is a Senior Soil Carbon researcher at Technical University of Crete in GR. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.375040
+date: 2026-03-23T11:47:00.094926
 url: "/cdr-researcher-census/researchers/dionissis-efstathiou-a5077934/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 355 |
 | Publications | 16 |
-| CDR Focus | 12.5% |
+| CDR Focus | 620.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

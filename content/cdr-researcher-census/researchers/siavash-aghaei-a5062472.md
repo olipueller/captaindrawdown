@@ -1,7 +1,7 @@
 ---
 title: "Siavash Aghaei"
-description: "Siavash Aghaei is an Early-career Soil Carbon researcher at Technische Universität Braunschweig in DE. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.515581
+description: "Siavash Aghaei is an Early-career carbon dioxide removal researcher at Technische Universität Braunschweig in DE. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.329128
 url: "/cdr-researcher-census/researchers/siavash-aghaei-a5062472/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Technische Universität Braunschweig · 🇩🇪 DE
 
 **Career Stage:** Early-career
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 3 |
 | Citations | 277 |
 | Publications | 6 |
-| CDR Focus | 16.7% |
+| CDR Focus | 1670.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Exergetic sustainability analysis of municipal solid waste treatment systems: A systematic critical review** (2021)
-   138 citations · BECCS
+   138 citations
 
 ## External Profiles
 

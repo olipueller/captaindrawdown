@@ -1,7 +1,7 @@
 ---
 title: "Sho FUJIMOTO"
-description: "Sho FUJIMOTO is a Mid-career General CDR researcher at JGC (Japan) in JP. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.884666
+description: "Sho FUJIMOTO is a Mid-career carbon dioxide removal researcher at JGC (Japan) in JP. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.841959
 url: "/cdr-researcher-census/researchers/sho-fujimoto-a5112268/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ JGC (Japan) · 🇯🇵 JP
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 3 |
 | Citations | 170 |
 | Publications | 8 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Energy evaluation for separation methods of pure magnesium chloride hexahydrate from waste brine in CCU process** (2021)
-   0 citations · General CDR
+   0 citations
 
 ## External Profiles
 

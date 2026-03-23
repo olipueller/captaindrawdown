@@ -1,7 +1,7 @@
 ---
 title: "Getachew Mulatu"
-description: "Getachew Mulatu is a Mid-career Soil Carbon researcher at Jimma University in ET. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.049155
+description: "Getachew Mulatu is a Mid-career Biochar researcher at Jimma University in ET. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.041094
 url: "/cdr-researcher-census/researchers/getachew-mulatu-a5073033/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Jimma University ·  ET
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 142 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

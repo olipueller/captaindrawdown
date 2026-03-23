@@ -1,7 +1,7 @@
 ---
 title: "Erin Meyer"
-description: "Erin Meyer is a Mid-career Soil Carbon researcher at Harvest Home Farmer’s Market in US. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.774609
+description: "Erin Meyer is a Mid-career General CDR researcher at Harvest Home Farmer’s Market in US. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.679074
 url: "/cdr-researcher-census/researchers/erin-meyer-a5102651/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Harvest Home Farmer’s Market · 🇺🇸 US
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 195 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Food for thought: Making the case for food produced via regenerative agriculture in the battle against non-communicable chronic diseases (NCDs)** (2024)
-   22 citations · Soil Carbon
+   22 citations · General CDR
 
 ## External Profiles
 

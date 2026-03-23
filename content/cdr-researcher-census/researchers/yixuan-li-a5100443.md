@@ -1,7 +1,7 @@
 ---
 title: "Yixuan Li"
 description: "Yixuan Li is a Mid-career Soil Carbon researcher at Nankai University in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.746041
+date: 2026-03-23T11:47:00.640445
 url: "/cdr-researcher-census/researchers/yixuan-li-a5100443/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 202 |
 | Publications | 14 |
-| CDR Focus | 28.6% |
+| CDR Focus | 2860.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "John R. Hoffman"
-description: "John R. Hoffman is a Senior DAC researcher at University of Notre Dame in US. With 38 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.236636
+description: "John R. Hoffman is a Senior carbon dioxide removal researcher at University of Notre Dame in US. With 38 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.861999
 url: "/cdr-researcher-census/researchers/john-r-hoffman-a5048320/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ University of Notre Dame · 🇺🇸 US
 
 **Career Stage:** Senior
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,22 +39,22 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 9 |
 | Citations | 479 |
 | Publications | 38 |
-| CDR Focus | 10.5% |
+| CDR Focus | 790.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Thickness dependent CO2 adsorption of poly(ethyleneimine) thin films for direct air capture** (2024)
-   36 citations · DAC
+   36 citations
 
 2. **The role of humidity in enhancing CO2 capture efficiency in poly(ethyleneimine) thin films** (2025)
-   7 citations · DAC
+   7 citations
 
 3. **Measuring the Influence of CO<sub>2</sub> and Water Vapor on the Dynamics in Polyethylenimine To Understand the Direct Air Capture of CO<sub>2</sub> from the Environment** (2024)
-   5 citations · DAC
+   5 citations
 
 4. **Thickness Dependent Co2 Adsorption of Poly(Ethyleneimine) Thin Films for Direct Air Capture** (2023)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

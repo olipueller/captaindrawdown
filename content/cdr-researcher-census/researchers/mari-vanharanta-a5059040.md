@@ -1,7 +1,7 @@
 ---
 title: "Mari Vanharanta"
-description: "Mari Vanharanta is a Mid-career Ocean CDR researcher at Finnish Environment Institute in FI. With 23 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.343871
+description: "Mari Vanharanta is a Mid-career General CDR researcher at Finnish Environment Institute in FI. With 23 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.361043
 url: "/cdr-researcher-census/researchers/mari-vanharanta-a5059040/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Finnish Environment Institute ·  FI
 
 ## CDR Specialization
 
-**Ocean CDR**
+**General CDR**
 
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 6 |
 | Citations | 107 |
 | Publications | 23 |
-| CDR Focus | 26.1% |
+| CDR Focus | 1740.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -57,13 +57,13 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    6 citations · General CDR
 
 3. **Supplementary material to "Particle fluxes by subtropical pelagic communities under ocean alkalinity enhancement"** (2023)
-   1 citations · Ocean CDR
-
-4. **Particle fluxes by subtropical pelagic communities under ocean alkalinity enhancement** (2023)
    1 citations · General CDR
 
+4. **Particle fluxes by subtropical pelagic communities under ocean alkalinity enhancement** (2023)
+   1 citations
+
 5. **Comment on egusphere-2023-2800** (2024)
-   0 citations · General CDR
+   0 citations
 
 6. **Effect of different rates and modes of artificial upwelling on particle flux and potential POC deep export** (2021)
    0 citations · General CDR

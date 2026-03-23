@@ -1,7 +1,7 @@
 ---
 title: "Michael Massen‐Hane"
-description: "Michael Massen‐Hane is a Mid-career DAC researcher at Massachusetts Institute of Technology in US. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.117955
+description: "Michael Massen‐Hane is a Mid-career carbon dioxide removal researcher at Massachusetts Institute of Technology in US. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.119317
 url: "/cdr-researcher-census/researchers/michael-massenhane-a5037389/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Massachusetts Institute of Technology · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,19 +39,19 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 5 |
 | Citations | 132 |
 | Publications | 14 |
-| CDR Focus | 21.4% |
+| CDR Focus | 2140.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Visible Light-Driven CO<sub>2</sub> Capture and Release Using Photoactive Pyranine in Water in Continuous Flow** (2024)
-   21 citations · DAC
+   21 citations
 
 2. **Design of Electrified Fiber Sorbents for Direct Air Capture with Electrically‐Driven Temperature Vacuum Swing Adsorption** (2025)
-   1 citations · DAC
+   1 citations
 
 3. **Design of Electrified Fiber Sorbents for Direct Air Capture with Electrically‐Driven Temperature Vacuum Swing Adsorption (Adv. Mater. 45/2025)** (2025)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

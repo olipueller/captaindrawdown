@@ -1,7 +1,7 @@
 ---
 title: "Julia Fohrafellner"
 description: "Julia Fohrafellner is a Mid-career Soil Carbon researcher at Austrian Agency for Health and Food Safety in AT. With 41 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.815723
+date: 2026-03-23T11:47:00.751093
 url: "/cdr-researcher-census/researchers/julia-fohrafellner-a5072864/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,40 +45,40 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 184 |
 | Publications | 41 |
-| CDR Focus | 31.7% |
+| CDR Focus | 2440.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Achievable agricultural soil carbon sequestration across Europe from country‐specific estimates** (2021)
-   65 citations · Soil Carbon
+   65 citations · General CDR
 
 2. **Quality assessment of meta-analyses on soil organic carbon** (2023)
-   29 citations · Biochar
+   29 citations · General CDR
 
 3. **Towards climate-smart sustainable management of agricultural soils : Deliverable 2.3 Synthesis on estimates of achievable soil carbon sequestration on agricutural land across Europe** (2021)
-   1 citations · Soil Carbon
+   1 citations · General CDR
 
 4. **Quality Assessment of Meta-Analyses on Soil Organic Carbon** (2022)
-   1 citations · Biochar
+   1 citations
 
 5. **Cover Crops Affecting Pool Specific Soil Organic Carbon Sequestration in Cropland – A Meta-Analysis** (2023)
    0 citations · Soil Carbon
 
 6. **Reply on CC2** (2022)
-   0 citations · Biochar
+   0 citations · General CDR
 
 7. **Reply on CC1** (2022)
-   0 citations · Biochar
+   0 citations · General CDR
 
 8. **Reply on CC3** (2022)
-   0 citations · Biochar
+   0 citations · General CDR
 
 9. **Reply on RC2** (2022)
-   0 citations · Biochar
+   0 citations
 
 10. **Reply on RC1** (2022)
-   0 citations · Biochar
+   0 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Jason C. Bromley"
 description: "Jason C. Bromley is a Mid-career General CDR researcher. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.118159
+date: 2026-03-23T11:46:59.646362
 url: "/cdr-researcher-census/researchers/jason-c-bromley-a5087519/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -37,7 +37,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 3 |
 | Citations | 672 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

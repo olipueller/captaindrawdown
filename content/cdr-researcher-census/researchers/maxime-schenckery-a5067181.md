@@ -1,7 +1,7 @@
 ---
 title: "Maxime Schenckery"
-description: "Maxime Schenckery is a Senior DAC researcher. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.134027
+description: "Maxime Schenckery is a Senior General CDR researcher. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.134395
 url: "/cdr-researcher-census/researchers/maxime-schenckery-a5067181/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,9 +29,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -40,7 +40,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 5 |
 | Citations | 130 |
 | Publications | 15 |
-| CDR Focus | 20.0% |
+| CDR Focus | 1330.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -49,7 +49,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    22 citations · DAC
 
 2. **GCC Countries Strategic Options in a Global Transition to Zero-Net Emissions** (2023)
-   12 citations · DAC
+   12 citations · General CDR
 
 3. **GCC countries strategic options in a global transition to zero-net emissions** (2022)
    5 citations · DAC

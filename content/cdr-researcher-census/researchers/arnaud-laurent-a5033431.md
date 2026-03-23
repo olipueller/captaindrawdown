@@ -1,7 +1,7 @@
 ---
 title: "﻿Arnaud Laurent"
 description: "﻿Arnaud Laurent is a Senior Ocean CDR researcher at Dalhousie University in CA. With 88 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.977749
+date: 2026-03-23T11:46:59.352418
 url: "/cdr-researcher-census/researchers/arnaud-laurent-a5033431/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,40 +45,40 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 20 |
 | Citations | 1,401 |
 | Publications | 88 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1020.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Modelling considerations for research on ocean alkalinity enhancement (OAE)** (2023)
-   32 citations · Ocean CDR
+   32 citations · General CDR
 
 2. **Modeling considerations for research on Ocean Alkalinity Enhancement (OAE)** (2023)
-   20 citations · Ocean CDR
+   20 citations · General CDR
 
 3. **Maximizing the Detectability of Ocean Alkalinity Enhancement (OAE) While Minimizing Its Exposure Risks: Insights From a Numerical Study** (2025)
-   5 citations · Ocean CDR
+   5 citations · General CDR
 
 4. **A high-resolution nested model to study the effects of alkalinity additions in Halifax Harbour, a mid-latitude coastal fjord** (2025)
-   2 citations · General CDR
+   2 citations
 
 5. **Numerical dye tracer experiments in Bedford Basin in support of Ocean Alkalinity Enhancement research** (2024)
-   1 citations · Enhanced Weathering
+   1 citations · General CDR
 
 6. **A high-resolution nested model to study the effects of alkalinity additions in a mid-latitude coastal fjord** (2024)
    1 citations · General CDR
 
 7. **Reply on RC2** (2025)
-   0 citations · General CDR
+   0 citations · Ocean CDR
 
 8. **Reply on RC3** (2025)
-   0 citations · General CDR
+   0 citations · Ocean CDR
 
 9. **Reply on RC1** (2025)
-   0 citations · General CDR
+   0 citations · Ocean CDR
 
 10. **Maximizing the detectability of Ocean Alkalinity Enhancement (OAE) while minimizing its exposure risks: Insights from a numerical study** (2024)
-   0 citations · Ocean CDR
+   0 citations
 
 ## External Profiles
 

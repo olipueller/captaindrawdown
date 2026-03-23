@@ -1,7 +1,7 @@
 ---
 title: "Ayodeji O. Deolu‐Ajayi"
 description: "Ayodeji O. Deolu‐Ajayi is a Mid-career Soil Carbon researcher at Graduate School Experimental Plant Sciences in NL. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.370906
+date: 2026-03-23T11:47:00.089253
 url: "/cdr-researcher-census/researchers/ayodeji-o-deoluajayi-a5014302/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 358 |
 | Publications | 19 |
-| CDR Focus | 10.5% |
+| CDR Focus | 1050.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    6 citations · Soil Carbon
 
 2. **Adapting to salty conditions in the Netherlands : A joint report on activities from the ‘Dealing with Salinization’ project (2023-2024)** (2024)
-   2 citations · Soil Carbon
+   2 citations
 
 ## External Profiles
 

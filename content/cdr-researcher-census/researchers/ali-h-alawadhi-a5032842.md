@@ -1,7 +1,7 @@
 ---
 title: "Ali H. Alawadhi"
 description: "Ali H. Alawadhi is a Mid-career DAC researcher at King Abdulaziz City for Science and Technology in SA. With 19 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.015476
+date: 2026-03-23T11:46:59.441853
 url: "/cdr-researcher-census/researchers/ali-h-alawadhi-a5032842/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 11 |
 | Citations | 1,086 |
 | Publications | 19 |
-| CDR Focus | 10.5% |
+| CDR Focus | 1050.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    197 citations · DAC
 
 2. **Bonding of Polyethylenimine in Covalent Organic Frameworks for CO<sub>2</sub> Capture from Air** (2024)
-   66 citations · DAC
+   66 citations
 
 ## External Profiles
 

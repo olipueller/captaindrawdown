@@ -1,7 +1,7 @@
 ---
 title: "Mustafa Erguvan"
 description: "Mustafa Erguvan is a Mid-career DAC researcher at University of Alabama in US. With 29 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.741141
+date: 2026-03-23T11:47:00.633594
 url: "/cdr-researcher-census/researchers/mustafa-erguvan-a5091594/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 8 |
 | Citations | 203 |
 | Publications | 29 |
-| CDR Focus | 27.6% |
+| CDR Focus | 1720.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,10 +54,10 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    31 citations · DAC
 
 2. **Investigation of microwave-based CO2 regeneration in a packed bed reactor for Direct Air Capture** (2024)
-   12 citations · DAC
+   12 citations
 
 3. **An experimental study on microwave-assisted direct air capture of CO<sub>2</sub> under fluidized bed conditions** (2025)
-   5 citations · DAC
+   5 citations
 
 4. **Integrated solar organic Rankine Cycle and Direct Air Capture System for sustainable automotive manufacturing plants** (2025)
    2 citations · DAC
@@ -66,13 +66,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    1 citations · DAC
 
 6. **Effect of humidity on microwave-based direct air capture under fluidization** (2025)
-   0 citations · DAC
+   0 citations
 
 7. **Comparison of Packed and Fluidized Bed Reactors for Direct Air Capture Under Microwave** (2025)
-   0 citations · DAC
+   0 citations
 
 8. **Effects of Reactor Scale on Temperature Distribution Under Microwave Condition for Regeneration of Co2 in Fluidized Bed** (2024)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

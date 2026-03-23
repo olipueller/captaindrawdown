@@ -1,7 +1,7 @@
 ---
 title: "Maiara S. Mendes"
-description: "Maiara S. Mendes is a Mid-career Soil Carbon researcher at Instituto de Pesquisas Jardim Botânico do Rio de Janeiro in BR. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.835846
+description: "Maiara S. Mendes is a Mid-career Biochar researcher at Instituto de Pesquisas Jardim Botânico do Rio de Janeiro in BR. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.774615
 url: "/cdr-researcher-census/researchers/maiara-s-mendes-a5080522/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Instituto de Pesquisas Jardim Botânico do Rio de Janeiro · 🇧🇷 BR
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 181 |
 | Publications | 10 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

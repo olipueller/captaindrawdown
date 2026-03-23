@@ -1,7 +1,7 @@
 ---
 title: "Daniel F. Petticord"
 description: "Daniel F. Petticord is a Mid-career Soil Carbon researcher at Cornell University in US. With 29 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.760202
+date: 2026-03-23T11:47:00.659786
 url: "/cdr-researcher-census/researchers/daniel-f-petticord-a5060505/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 198 |
 | Publications | 29 |
-| CDR Focus | 13.8% |
+| CDR Focus | 1030.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    0 citations · Soil Carbon
 
 4. **Foliar phosphorus concentrations in Bahiagrass are well-predicted by the abundance of a Fusarium taxa** (2025)
-   0 citations · Enhanced Weathering
+   0 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Vedant Ballal"
 description: "Vedant Ballal is an Early-career DAC researcher at Norwegian University of Science and Technology in NO. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.306248
+date: 2026-03-23T11:47:01.320758
 url: "/cdr-researcher-census/researchers/vedant-ballal-a5005938/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 4 |
 | Citations | 111 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

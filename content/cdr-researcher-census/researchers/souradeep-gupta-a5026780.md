@@ -1,7 +1,7 @@
 ---
 title: "Souradeep Gupta"
-description: "Souradeep Gupta is a Senior Soil Carbon researcher at Centre for Sustainable Energy in GB. With 40 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.971942
+description: "Souradeep Gupta is a Senior General CDR researcher at Centre for Sustainable Energy in GB. With 40 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.339003
 url: "/cdr-researcher-census/researchers/souradeep-gupta-a5026780/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Centre for Sustainable Energy · 🇬🇧 GB
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 15 |
 | Citations | 1,469 |
 | Publications | 40 |
-| CDR Focus | 20.0% |
+| CDR Focus | 1250.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -60,19 +60,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    62 citations · Biochar
 
 4. **Carbon sequestration in engineered lightweight foamed mortar – Effect on rheology, mechanical and durability properties** (2022)
-   49 citations · Biochar
+   49 citations · General CDR
 
 5. **3D printing with stabilized earth: Material development and effect of carbon sequestration on engineering performance** (2024)
-   13 citations · Soil Carbon
+   13 citations · Biochar
 
 6. **Carbon dioxide sequestration in mortars with excavated soil: Engineering performances and environmental benefits** (2024)
-   13 citations · Soil Carbon
+   13 citations
 
 7. **Influence of carbon sequestration in natural clay on engineering properties of cement-lime stabilized soil mortars** (2023)
-   11 citations · Soil Carbon
+   11 citations · General CDR
 
 8. **Carbonation Induced Structural Changes in Soil-Based Alkali-Activated Binders** (2025)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

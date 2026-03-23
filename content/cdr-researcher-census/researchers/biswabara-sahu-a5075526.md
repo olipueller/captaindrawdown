@@ -1,7 +1,7 @@
 ---
 title: "Biswabara Sahu"
 description: "Biswabara Sahu is a Mid-career Soil Carbon researcher at Siksha O Anusandhan University in IN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.372890
+date: 2026-03-23T11:47:01.391734
 url: "/cdr-researcher-census/researchers/biswabara-sahu-a5075526/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 105 |
 | Publications | 16 |
-| CDR Focus | 18.8% |
+| CDR Focus | 1250.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    11 citations · Soil Carbon
 
 2. **Sustainable Carbon Management Practices (CMP) - A Way Forward in Reducing CO<sub>2</sub> Flux** (2021)
-   1 citations · Soil Carbon
+   1 citations · General CDR
 
 3. **Soil Inorganic Carbon in Dry Lands: An Unsung Player in Climate Change Mitigation** (2023)
    0 citations · Soil Carbon

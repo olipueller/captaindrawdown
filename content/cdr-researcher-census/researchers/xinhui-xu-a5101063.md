@@ -1,7 +1,7 @@
 ---
 title: "Xinhui Xu"
 description: "Xinhui Xu is a Mid-career Soil Carbon researcher at Zhejiang University of Science and Technology in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.812691
+date: 2026-03-23T11:47:00.747487
 url: "/cdr-researcher-census/researchers/xinhui-xu-a5101063/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 185 |
 | Publications | 20 |
-| CDR Focus | 10.0% |
+| CDR Focus | 500.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

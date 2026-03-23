@@ -1,7 +1,7 @@
 ---
 title: "Jan Weik"
-description: "Jan Weik is a Mid-career Soil Carbon researcher. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.825249
+description: "Jan Weik is a Mid-career General CDR researcher. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.762568
 url: "/cdr-researcher-census/researchers/jan-weik-a5016297/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,9 +29,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -40,16 +40,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 183 |
 | Publications | 17 |
-| CDR Focus | 11.8% |
+| CDR Focus | 1180.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **A parsimonious model for calculating the greenhouse gas emissions of miscanthus cultivation using current commercial practice in the United Kingdom** (2021)
-   20 citations · Soil Carbon
+   20 citations · General CDR
 
 2. **Model-based analysis of the impact of an eco-scheme premium on the climate protection potential of short rotation coppice in Baden-Württemberg** (2024)
-   3 citations · Soil Carbon
+   3 citations · BECCS
 
 ## External Profiles
 

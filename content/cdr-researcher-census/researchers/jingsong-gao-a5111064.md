@@ -1,7 +1,7 @@
 ---
 title: "Jingsong Gao"
-description: "Jingsong Gao is a Senior General CDR researcher at Liaoning Technical University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.982065
+description: "Jingsong Gao is a Senior carbon dioxide removal researcher at Liaoning Technical University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.961532
 url: "/cdr-researcher-census/researchers/jingsong-gao-a5111064/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Liaoning Technical University · 🇨🇳 CN
 
 **Career Stage:** Senior
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 5 |
 | Citations | 152 |
 | Publications | 8 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Ex Utero Intrapartum Intubation for Giant Fetal Neck Mass** (2024)
-   0 citations · General CDR
+   0 citations
 
 ## External Profiles
 

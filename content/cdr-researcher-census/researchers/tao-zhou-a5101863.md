@@ -1,7 +1,7 @@
 ---
 title: "Tao Zhou"
 description: "Tao Zhou is a Mid-career Soil Carbon researcher at Consejo Superior de Investigaciones Científicas in ES. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.078269
+date: 2026-03-23T11:46:59.571877
 url: "/cdr-researcher-census/researchers/tao-zhou-a5101863/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 785 |
 | Publications | 20 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

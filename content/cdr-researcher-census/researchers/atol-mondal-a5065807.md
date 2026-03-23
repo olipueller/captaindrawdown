@@ -1,7 +1,7 @@
 ---
 title: "Atol Mondal"
-description: "Atol Mondal is an Early-career General CDR researcher. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.404230
+description: "Atol Mondal is an Early-career carbon dioxide removal researcher. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.138388
 url: "/cdr-researcher-census/researchers/atol-mondal-a5065807/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -24,12 +24,6 @@ robots: "index, follow"
 
 **Career Stage:** Early-career
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -37,13 +31,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 4 |
 | Citations | 335 |
 | Publications | 5 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Strategic nitrogen doping of Ca-TiO2 photocatalyst for improved dye degradation under UV–Vis irradiation** (2026)
-   0 citations · General CDR
+   0 citations
 
 ## External Profiles
 

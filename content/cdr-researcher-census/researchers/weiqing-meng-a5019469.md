@@ -1,7 +1,7 @@
 ---
 title: "Weiqing Meng"
 description: "Weiqing Meng is a Mid-career Soil Carbon researcher at Tianjin Normal University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.971103
+date: 2026-03-23T11:47:00.950172
 url: "/cdr-researcher-census/researchers/weiqing-meng-a5019469/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 154 |
 | Publications | 9 |
-| CDR Focus | 22.2% |
+| CDR Focus | 2220.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

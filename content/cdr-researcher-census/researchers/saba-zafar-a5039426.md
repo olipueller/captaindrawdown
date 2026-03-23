@@ -1,7 +1,7 @@
 ---
 title: "Saba Zafar"
-description: "Saba Zafar is an Early-career DAC researcher at Government College University, Faisalabad in PK. With 6 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.009661
+description: "Saba Zafar is an Early-career General CDR researcher at Government College University, Faisalabad in PK. With 6 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.998673
 url: "/cdr-researcher-census/researchers/saba-zafar-a5039426/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Government College University, Faisalabad · 🇵🇰 PK
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 2 |
 | Citations | 148 |
 | Publications | 6 |
-| CDR Focus | 16.7% |
+| CDR Focus | 1670.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Algae-based carbon capture: Potential, challenges, opportunities** (2025)
-   0 citations · DAC
+   0 citations · General CDR
 
 ## External Profiles
 

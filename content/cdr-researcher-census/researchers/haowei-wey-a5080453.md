@@ -1,7 +1,7 @@
 ---
 title: "Hao‐Wei Wey"
-description: "Hao‐Wei Wey is a Mid-career Ocean CDR researcher at GEOMAR Helmholtz Centre for Ocean Research Kiel in DE. With 28 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.900203
+description: "Hao‐Wei Wey is a Mid-career General CDR researcher at GEOMAR Helmholtz Centre for Ocean Research Kiel in DE. With 28 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.860849
 url: "/cdr-researcher-census/researchers/haowei-wey-a5080453/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ GEOMAR Helmholtz Centre for Ocean Research Kiel · 🇩🇪 DE
 
 ## CDR Specialization
 
-**Ocean CDR**
+**General CDR**
 
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 6 |
 | Citations | 167 |
 | Publications | 28 |
-| CDR Focus | 35.7% |
+| CDR Focus | 3570.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -63,7 +63,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    0 citations · General CDR
 
 5. **Scaling Carbon Dioxide Removal in Germany: Insights from the CDRterra Framework and Scenario** (2025)
-   0 citations · BECCS
+   0 citations · General CDR
 
 6. **Combining and scaling up the application of terrestrial and marine CDR methods does not compromise CDR efficiency** (2025)
    0 citations · General CDR

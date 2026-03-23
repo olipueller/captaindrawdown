@@ -1,7 +1,7 @@
 ---
 title: "Laura Mäkelä"
-description: "Laura Mäkelä is a Senior Soil Carbon researcher. With 10 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.750336
+description: "Laura Mäkelä is a Senior General CDR researcher. With 10 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.645702
 url: "/cdr-researcher-census/researchers/laura-makela-a5002052/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,9 +26,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -37,19 +37,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 3 |
 | Citations | 201 |
 | Publications | 10 |
-| CDR Focus | 30.0% |
+| CDR Focus | 3000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Towards agricultural soil carbon monitoring, reporting, and verification through the Field Observatory Network (FiON)** (2022)
-   35 citations · Soil Carbon
+   35 citations · General CDR
 
 2. **Towards agricultural soil carbon monitoring, reporting and verification through Field Observatory Network (FiON)** (2021)
-   2 citations · Soil Carbon
+   2 citations · General CDR
 
 3. **Comment on gi-2021-21** (2021)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Sarah F.P. Hunt"
 description: "Sarah F.P. Hunt is a Mid-career Soil Carbon researcher at University of Leeds in GB. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.688472
+date: 2026-03-23T11:47:00.565494
 url: "/cdr-researcher-census/researchers/sarah-fp-hunt-a5064187/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 3 |
 | Citations | 218 |
 | Publications | 3 |
-| CDR Focus | 33.3% |
+| CDR Focus | 3330.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

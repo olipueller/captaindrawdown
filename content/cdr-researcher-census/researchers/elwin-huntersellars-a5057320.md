@@ -1,7 +1,7 @@
 ---
 title: "Elwin Hunter‐Sellars"
-description: "Elwin Hunter‐Sellars is a Mid-career DAC researcher at Lawrence Livermore National Laboratory in US. With 38 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.150966
+description: "Elwin Hunter‐Sellars is a Mid-career General CDR researcher at Lawrence Livermore National Laboratory in US. With 38 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.707162
 url: "/cdr-researcher-census/researchers/elwin-huntersellars-a5057320/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Lawrence Livermore National Laboratory · 🇺🇸 US
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 12 |
 | Citations | 611 |
 | Publications | 38 |
-| CDR Focus | 42.1% |
+| CDR Focus | 3160.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -54,31 +54,31 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    54 citations · General CDR
 
 2. **Competing Kinetic Consequences of CO<sub>2</sub> on the Oxidative Degradation of Branched Poly(ethylenimine)** (2024)
-   14 citations · DAC
+   14 citations
 
 3. **Oxidation of Supported Amines for CO <sub>2</sub> Direct Air Capture: Assessing Impact on Physical Properties and Mobility via NMR Relaxometry** (2024)
-   11 citations · DAC
+   11 citations
 
 4. **Understanding the Role of Hydroxyl Functionalization in Linear Poly(Ethylenimine) for Oxidation‐Resistant Direct Air Capture of CO <sub>2</sub>** (2025)
-   5 citations · DAC
+   5 citations
 
 5. **Improving the direct air capture capacity of grafted amines <i>via</i> thermal treatment** (2024)
-   4 citations · DAC
+   4 citations
 
 6. **Detecting Reactive Products in Carbon Capture Polymers with Chemical Shift Anisotropy and Machine Learning** (2025)
-   2 citations · DAC
+   2 citations
 
 7. **Land-based resources for engineered carbon dioxide removal in the United States exceed the expected needs** (2025)
    1 citations · General CDR
 
 8. **Understanding and mitigating degradation in amine-based sorbents for CO2 direct air capture** (2026)
-   0 citations · DAC
+   0 citations
 
 9. **The Potential and Cost of Carbon Dioxide Removal Using Direct Air Capture with Land-Based Wind and Utility-Scale Photovoltaics** (2026)
    0 citations · DAC
 
 10. **The potential and cost of carbon dioxide removal using direct air capture with land-based wind and utility-scale photovoltaics** (2024)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

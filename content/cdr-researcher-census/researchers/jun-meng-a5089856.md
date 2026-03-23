@@ -1,7 +1,7 @@
 ---
 title: "Jun Meng"
-description: "Jun Meng is a Mid-career Soil Carbon researcher at Shenyang Agricultural University in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.760440
+description: "Jun Meng is a Mid-career Biochar researcher at Shenyang Agricultural University in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.660008
 url: "/cdr-researcher-census/researchers/jun-meng-a5089856/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Shenyang Agricultural University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 198 |
 | Publications | 15 |
-| CDR Focus | 20.0% |
+| CDR Focus | 1330.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

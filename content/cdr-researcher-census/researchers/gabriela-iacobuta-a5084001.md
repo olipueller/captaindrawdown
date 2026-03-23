@@ -1,7 +1,7 @@
 ---
 title: "Gabriela Iacobuţă"
 description: "Gabriela Iacobuţă is a Mid-career General CDR researcher at German Institute of Development and Sustainability in DE. With 29 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.991837
+date: 2026-03-23T11:46:59.387706
 url: "/cdr-researcher-census/researchers/gabriela-iacobuta-a5084001/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 13 |
 | Citations | 1,265 |
 | Publications | 29 |
-| CDR Focus | 10.3% |
+| CDR Focus | 1030.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    26 citations · General CDR
 
 3. **Enablers of ambitious climate action : Challenges and opportunities to combine climate change and sustainable development** (2021)
-   0 citations · BECCS
+   0 citations · General CDR
 
 ## External Profiles
 

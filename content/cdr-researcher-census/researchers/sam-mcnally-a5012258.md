@@ -1,7 +1,7 @@
 ---
 title: "Sam McNally"
 description: "Sam McNally is a Mid-career Soil Carbon researcher at Lincoln University in NZ. With 28 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.240951
+date: 2026-03-23T11:46:59.869124
 url: "/cdr-researcher-census/researchers/sam-mcnally-a5012258/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 10 |
 | Citations | 474 |
 | Publications | 28 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -57,10 +57,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    10 citations · Soil Carbon
 
 3. **Spatial variability of mineral surface area and carbon sequestration potential at the farm scale – a case study** (2024)
-   1 citations · Soil Carbon
+   1 citations · Enhanced Weathering
 
 4. **Farming digital data: Even when the cows come home** (2024)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

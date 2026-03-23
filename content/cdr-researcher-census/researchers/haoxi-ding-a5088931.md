@@ -1,7 +1,7 @@
 ---
 title: "Haoxi Ding"
 description: "Haoxi Ding is a Mid-career Soil Carbon researcher at Shanxi Agricultural University in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.323783
+date: 2026-03-23T11:47:01.340476
 url: "/cdr-researcher-census/researchers/haoxi-ding-a5088931/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 110 |
 | Publications | 18 |
-| CDR Focus | 16.7% |
+| CDR Focus | 1670.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Assessing ecosystem service dynamics and drivers for sustainable management in the Agro-pastoral ecotone of northern China: A spatiotemporal analysis** (2024)
-   18 citations · Soil Carbon
+   18 citations · General CDR
 
 2. **Whether Wheat–Maize Rotation Influenced Soil Organic Carbon Content in Sushui River Basin** (2024)
    4 citations · Soil Carbon

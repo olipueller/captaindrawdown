@@ -1,7 +1,7 @@
 ---
 title: "Hang-Wei Hu"
-description: "Hang-Wei Hu is a Mid-career Soil Carbon researcher at University of Melbourne in AU. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.972143
+description: "Hang-Wei Hu is a Mid-career Biochar researcher at University of Melbourne in AU. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.339699
 url: "/cdr-researcher-census/researchers/hang-wei-hu-a5061285/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ University of Melbourne · 🇦🇺 AU
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 3 |
 | Citations | 1,464 |
 | Publications | 4 |
-| CDR Focus | 25.0% |
+| CDR Focus | 2500.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

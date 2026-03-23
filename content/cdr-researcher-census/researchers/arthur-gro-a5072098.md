@@ -1,7 +1,7 @@
 ---
 title: "Arthur Groß"
 description: "Arthur Groß is a Mid-career Soil Carbon researcher. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.133051
+date: 2026-03-23T11:46:59.669243
 url: "/cdr-researcher-census/researchers/arthur-gro-a5072098/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 646 |
 | Publications | 20 |
-| CDR Focus | 50.0% |
+| CDR Focus | 4000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -55,7 +55,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    60 citations · Biochar
 
 4. **Effects of recultivation on soil organic carbon sequestration in abandoned coal mining sites: a meta-analysis** (2022)
-   22 citations · Soil Carbon
+   22 citations
 
 5. **Impact of Biochar Aging on Soil Physicochemical Properties** (2024)
    14 citations · Biochar
@@ -64,7 +64,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    2 citations · Biochar
 
 7. **Impact of Biochar Aging on Soil Physicochemical Properties** (2025)
-   1 citations · Biochar
+   1 citations
 
 8. **Vertical biochar transport in soil in a long-term field experiment in Germany** (2025)
    0 citations · Biochar

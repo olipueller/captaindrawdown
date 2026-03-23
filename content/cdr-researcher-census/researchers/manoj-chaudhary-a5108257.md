@@ -1,7 +1,7 @@
 ---
 title: "Manoj Chaudhary"
 description: "Manoj Chaudhary is a Mid-career Soil Carbon researcher at Indian Agricultural Statistics Research Institute in IN. With 40 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.339939
+date: 2026-03-23T11:47:00.032052
 url: "/cdr-researcher-census/researchers/manoj-chaudhary-a5108257/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 381 |
 | Publications | 40 |
-| CDR Focus | 10.0% |
+| CDR Focus | 750.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    5 citations · Soil Carbon
 
 3. **Ecosystem services from rain water harvesting, agroforestry and livestock based smallholder rain-fed integrated farming system** (2024)
-   3 citations · Soil Carbon
+   3 citations
 
 4. **Optimizing soil fertility and climate resilience: Superiority of organic farming in enhancing carbon sequestration and nitrogen supply** (2025)
    2 citations · Soil Carbon

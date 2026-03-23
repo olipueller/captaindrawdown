@@ -1,7 +1,7 @@
 ---
 title: "Zheke Zhong"
 description: "Zheke Zhong is a Senior Soil Carbon researcher at National Agricultural Research Institute in PG. With 76 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.937222
+date: 2026-03-23T11:46:59.267585
 url: "/cdr-researcher-census/researchers/zheke-zhong-a5034154/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 22 |
 | Citations | 1,984 |
 | Publications | 76 |
-| CDR Focus | 10.5% |
+| CDR Focus | 790.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -57,13 +57,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    21 citations · Soil Carbon
 
 3. **Effects of chicken farming on soil extracellular enzyme activity and microbial nutrient limitation in Lei bamboo forest (Phyllostachys praecox) in subtropical China** (2021)
-   13 citations · Soil Carbon
+   13 citations
 
 4. **Forest management alters soil microbial necromass and its contribution to soil organic carbon in Moso bamboo plantations in subtropical China** (2024)
    11 citations · Soil Carbon
 
 5. **Introducing sedum affects root‐soil interface phytoremediation of heavy metals in <i>lei</i> bamboo forest and potential risks from edible bamboo shoots** (2022)
-   3 citations · Soil Carbon
+   3 citations
 
 6. **On- and off-year management-induced changes in microbial communities cause microbial necromass carbon variation in subtropical Moso bamboo forests** (2025)
    2 citations · Soil Carbon

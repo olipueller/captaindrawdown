@@ -1,7 +1,7 @@
 ---
 title: "Tharindu D. Nuwarapaksha"
 description: "Tharindu D. Nuwarapaksha is a Mid-career Soil Carbon researcher at Coconut Research Institute in LK. With 48 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.240619
+date: 2026-03-23T11:46:59.868849
 url: "/cdr-researcher-census/researchers/tharindu-d-nuwarapaksha-a5013856/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,37 +45,37 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 14 |
 | Citations | 474 |
 | Publications | 48 |
-| CDR Focus | 20.8% |
+| CDR Focus | 1250.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Agroforestry—a key tool in the climate-smart agriculture context: a review on coconut cultivation in Sri Lanka** (2023)
-   57 citations · Soil Carbon
+   57 citations · General CDR
 
 2. **Sustainable Utilization of King Coconut Husk as a Feedstock in Biochar Production with the Highest Conversion Efficiency and Desirable Properties** (2023)
    17 citations · Biochar
 
 3. **Integrating Organic Fertilizers in Coconut Farming: Best Practices and Application Techniques** (2025)
-   2 citations · Soil Carbon
+   2 citations
 
 4. **Evaluation of the nutritional composition of king coconut husk waste biochar and ash soil conditioners: a comprehensive analysis** (2025)
    2 citations · Biochar
 
 5. **Integrating Organic Fertilizers in Coconut Farming: Best Practices and Application Techniques** (2025)
-   2 citations · Soil Carbon
+   2 citations
 
 6. **Agroforestry System: A Game Changer for Sustainable Land Use Practices** (2025)
-   1 citations · Soil Carbon
+   1 citations · General CDR
 
 7. **Regenerative Agricultural Practices for Sustainable Soil Health and Food Production** (2025)
    1 citations · Soil Carbon
 
 8. **Agroforestry for Restoring Degraded Land** (2025)
-   1 citations · Soil Carbon
+   1 citations · General CDR
 
 9. **Agroforestry and Climate-Smart Agriculture** (2025)
-   1 citations · Soil Carbon
+   1 citations · General CDR
 
 10. **Estimation of the total carbon sequestration potential of coconut-gliricidia mixed cropping systems in Sri Lanka** (2025)
    0 citations · Soil Carbon

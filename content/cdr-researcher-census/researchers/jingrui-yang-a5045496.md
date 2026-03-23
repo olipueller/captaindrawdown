@@ -1,7 +1,7 @@
 ---
 title: "Jingrui Yang"
-description: "Jingrui Yang is a Mid-career General CDR researcher at Changchun Institute of Optics, Fine Mechanics and Physics in CN. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.092910
+description: "Jingrui Yang is a Mid-career Biochar researcher at Changchun Institute of Optics, Fine Mechanics and Physics in CN. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.093563
 url: "/cdr-researcher-census/researchers/jingrui-yang-a5045496/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Changchun Institute of Optics, Fine Mechanics and Physics · 🇨🇳 CN
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 3 |
 | Citations | 135 |
 | Publications | 7 |
-| CDR Focus | 28.6% |
+| CDR Focus | 1430.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Losing a Hidden Ally: The Shrinking Capacity of Upland Soils to Remove Atmospheric Methane** (2026)
-   0 citations · General CDR
+   0 citations
 
 2. **Reply to Sun: Real-world bulk density changes support high carbon sequestration potential of biochar** (2026)
    0 citations · Biochar

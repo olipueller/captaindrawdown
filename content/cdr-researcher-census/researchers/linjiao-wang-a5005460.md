@@ -1,7 +1,7 @@
 ---
 title: "Linjiao Wang"
 description: "Linjiao Wang is a Mid-career Soil Carbon researcher at Guizhou Normal University in CN. With 45 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.215709
+date: 2026-03-23T11:46:59.824188
 url: "/cdr-researcher-census/researchers/linjiao-wang-a5005460/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 12 |
 | Citations | 509 |
 | Publications | 45 |
-| CDR Focus | 15.6% |
+| CDR Focus | 890.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -63,7 +63,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    5 citations · Soil Carbon
 
 5. **Carbon sequestration law by phytoliths in the bamboo forests: Insights for the management of phytolith carbon sink** (2025)
-   3 citations · Soil Carbon
+   3 citations · General CDR
 
 6. **Effects of forest age and bedrock on soil phytolith-occluded organic carbon accumulation of large-diameter bamboo forests in southwest China** (2024)
    3 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Zhaoliang Song"
 description: "Zhaoliang Song is an Eminent Soil Carbon researcher at Tianjin University in CN. With 226 publications and an h-index of 50, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.868312
+date: 2026-03-23T11:46:59.093085
 url: "/cdr-researcher-census/researchers/zhaoliang-song-a5087826/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 50 |
 | Citations | 10,887 |
 | Publications | 226 |
-| CDR Focus | 12.4% |
+| CDR Focus | 530.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -66,7 +66,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    50 citations · Soil Carbon
 
 6. **Microbial Necromass, Lignin, and Glycoproteins for Determining and Optimizing Blue Carbon Formation** (2023)
-   49 citations · Soil Carbon
+   49 citations · Ocean CDR
 
 7. **Organic blue carbon sequestration in vegetated coastal wetlands: Processes and influencing factors** (2024)
    47 citations · Soil Carbon
@@ -75,7 +75,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    43 citations · Soil Carbon
 
 9. **Silicon in paddy fields: Benefits for rice production and the potential of rice phytoliths for biogeochemical carbon sequestration** (2024)
-   27 citations · Soil Carbon
+   27 citations · General CDR
 
 10. **Response of topsoil Fe-bound organic carbon pool and microbial community to Spartina alterniflora invasion in coastal wetlands** (2023)
    25 citations · Soil Carbon

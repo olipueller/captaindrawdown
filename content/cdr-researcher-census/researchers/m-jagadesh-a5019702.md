@@ -1,7 +1,7 @@
 ---
 title: "M. Jagadesh"
 description: "M. Jagadesh is a Mid-career Soil Carbon researcher at Tamil Nadu Agricultural University in IN. With 34 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.369240
+date: 2026-03-23T11:47:00.085517
 url: "/cdr-researcher-census/researchers/m-jagadesh-a5019702/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,25 +42,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 359 |
 | Publications | 34 |
-| CDR Focus | 17.6% |
+| CDR Focus | 1760.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Soil microbes: a natural solution for mitigating the impact of climate change** (2023)
-   49 citations · Soil Carbon
+   49 citations · General CDR
 
 2. **Climate change adaptation and mitigation in Indian agriculture** (2024)
-   13 citations · Soil Carbon
+   13 citations · General CDR
 
 3. **Soil Carbon Dynamics Under Different Ecosystems of Ooty Region in the Western Ghats Biodiversity Hotspot of India** (2023)
    13 citations · Soil Carbon
 
 4. **The Revolutionary Impact of Regenerative Agriculture on Ecosystem Restoration and Land Vitality: A Review** (2024)
-   7 citations · Soil Carbon
+   7 citations · General CDR
 
 5. **Carbon Sequestration Potential of Forests and Forest Soils and Their Role in Climate Change Mitigation** (2024)
-   2 citations · Soil Carbon
+   2 citations · General CDR
 
 6. **Microbial interventions for sustainable soil carbon and nitrogen management** (2025)
    0 citations · Soil Carbon

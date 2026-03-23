@@ -1,7 +1,7 @@
 ---
 title: "Shanshan Ding"
 description: "Shanshan Ding is a Mid-career Soil Carbon researcher at Fujian Agriculture and Forestry University in CN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.686294
+date: 2026-03-23T11:47:00.562377
 url: "/cdr-researcher-census/researchers/shanshan-ding-a5111157/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 219 |
 | Publications | 19 |
-| CDR Focus | 10.5% |
+| CDR Focus | 1050.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

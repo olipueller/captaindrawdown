@@ -1,7 +1,7 @@
 ---
 title: "Peter Maenhout"
-description: "Peter Maenhout is a Mid-career Soil Carbon researcher. With 25 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.512569
+description: "Peter Maenhout is a Mid-career General CDR researcher. With 25 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.325169
 url: "/cdr-researcher-census/researchers/peter-maenhout-a5078451/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,9 +29,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -40,19 +40,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 278 |
 | Publications | 25 |
-| CDR Focus | 12.0% |
+| CDR Focus | 1200.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Trade‐offs and synergies of soil carbon sequestration: Addressing knowledge gaps related to soil management strategies** (2024)
-   23 citations · Biochar
+   23 citations · General CDR
 
 2. **Do Soil Microbes Drive the Trade-Off Between C Sequestration and Non-CO2 GHG Emissions in EU Agricultural Soils? A Systematic Review** (2025)
-   2 citations · Soil Carbon
+   2 citations · General CDR
 
 3. **Trade-offs between soil carbon sequestration and greenhouse gas emissions, and nitrogen leaching losses: addressing knowledge gaps** (2022)
-   0 citations · Biochar
+   0 citations · General CDR
 
 ## External Profiles
 

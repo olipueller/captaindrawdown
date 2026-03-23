@@ -1,7 +1,7 @@
 ---
 title: "Shuaishuai Peng"
-description: "Shuaishuai Peng is a Mid-career General CDR researcher at Shenyang University in CN. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.407663
+description: "Shuaishuai Peng is a Mid-career carbon dioxide removal researcher at Shenyang University in CN. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.424846
 url: "/cdr-researcher-census/researchers/shuaishuai-peng-a5032485/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Shenyang University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 3 |
 | Citations | 101 |
 | Publications | 6 |
-| CDR Focus | 16.7% |
+| CDR Focus | 1670.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Experimental evaluation of the heat-stable salts purification with feasible porous material from amine-based solvent in carbon capture** (2025)
-   1 citations · General CDR
+   1 citations
 
 ## External Profiles
 

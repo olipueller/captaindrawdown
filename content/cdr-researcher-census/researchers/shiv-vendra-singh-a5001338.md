@@ -1,7 +1,7 @@
 ---
 title: "Shiv Vendra Singh"
 description: "Shiv Vendra Singh is a Mid-career Soil Carbon researcher at Narayan Medical College and Hospital in IN. With 53 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.152683
+date: 2026-03-23T11:46:59.712981
 url: "/cdr-researcher-census/researchers/shiv-vendra-singh-a5001338/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 10 |
 | Citations | 607 |
 | Publications | 53 |
-| CDR Focus | 20.8% |
+| CDR Focus | 1130.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -63,13 +63,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    5 citations · Biochar
 
 5. **Holistic Approaches to Enhancing Climate Resilience and Biodiversity Conservation for Food Security** (2025)
-   2 citations · Enhanced Weathering
+   2 citations · General CDR
 
 6. **Crop waste conversion into biochar: an overview** (2024)
    2 citations · Biochar
 
 7. **Scenario of Crop Residue Generation and Sustainable Management** (2025)
-   1 citations · Biochar
+   1 citations · Soil Carbon
 
 8. **Climate smart land configurations and cropping systems diversification sustaining soil–water–carbon synergy and resource use efficiency** (2025)
    1 citations · Soil Carbon
@@ -78,7 +78,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    1 citations · Biochar
 
 10. **Multifarious Approaches of Agri-Based Carbon Credit Generation for Green Economy** (2025)
-   0 citations · Biochar
+   0 citations · General CDR
 
 ## External Profiles
 

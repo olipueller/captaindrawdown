@@ -1,7 +1,7 @@
 ---
 title: "Yu-Chieh Chou"
-description: "Yu-Chieh Chou is a Mid-career General CDR researcher at National Chung Hsing University in TW. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.436803
+description: "Yu-Chieh Chou is a Mid-career carbon dioxide removal researcher at National Chung Hsing University in TW. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.199674
 url: "/cdr-researcher-census/researchers/yu-chieh-chou-a5102256/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ National Chung Hsing University · 🇹🇼 TW
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 5 |
 | Citations | 313 |
 | Publications | 8 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Optimum operation condition of fluidized-bed homogeneous crystallization technology for the recovery of carbon dioxide captured in flue gas** (2024)
-   6 citations · General CDR
+   6 citations
 
 ## External Profiles
 

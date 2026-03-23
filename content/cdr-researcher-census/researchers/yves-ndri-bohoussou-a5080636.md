@@ -1,7 +1,7 @@
 ---
 title: "Yves N′Dri Bohoussou"
 description: "Yves N′Dri Bohoussou is a Mid-career Soil Carbon researcher at Ministry of Agriculture and Rural Affairs in CN. With 7 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.705126
+date: 2026-03-23T11:47:00.589117
 url: "/cdr-researcher-census/researchers/yves-ndri-bohoussou-a5080636/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 213 |
 | Publications | 7 |
-| CDR Focus | 71.4% |
+| CDR Focus | 7140.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

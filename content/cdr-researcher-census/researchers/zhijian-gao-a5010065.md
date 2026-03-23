@@ -1,7 +1,7 @@
 ---
 title: "Zhijian Gao"
 description: "Zhijian Gao is a Senior Soil Carbon researcher at Xinjiang Production and Construction Corps in CN. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.533182
+date: 2026-03-23T11:47:00.355278
 url: "/cdr-researcher-census/researchers/zhijian-gao-a5010065/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 270 |
 | Publications | 16 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

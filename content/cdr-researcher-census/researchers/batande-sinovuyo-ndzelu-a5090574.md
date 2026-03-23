@@ -1,7 +1,7 @@
 ---
 title: "Batande Sinovuyo Ndzelu"
 description: "Batande Sinovuyo Ndzelu is a Mid-career Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 26 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.324796
+date: 2026-03-23T11:47:00.011361
 url: "/cdr-researcher-census/researchers/batande-sinovuyo-ndzelu-a5090574/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 10 |
 | Citations | 392 |
 | Publications | 26 |
-| CDR Focus | 23.1% |
+| CDR Focus | 2310.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

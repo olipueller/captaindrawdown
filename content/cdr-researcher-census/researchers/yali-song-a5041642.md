@@ -1,7 +1,7 @@
 ---
 title: "Yali Song"
-description: "Yali Song is a Mid-career Soil Carbon researcher at Zhengzhou University of Light Industry in CN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.865679
+description: "Yali Song is a Mid-career carbon dioxide removal researcher at Zhengzhou University of Light Industry in CN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.811785
 url: "/cdr-researcher-census/researchers/yali-song-a5041642/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Zhengzhou University of Light Industry · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 175 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **N deposition affects litter decomposition in evergreen broad-leaf forests by reducing soil enzyme activities and altering the structure of microbial communities** (2025)
-   2 citations · Soil Carbon
+   2 citations
 
 ## External Profiles
 

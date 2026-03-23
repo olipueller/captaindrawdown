@@ -1,7 +1,7 @@
 ---
 title: "Mike Young"
 description: "Mike Young is a Senior DAC researcher at University of Illinois Urbana-Champaign in US. With 9 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.744471
+date: 2026-03-23T11:47:00.637709
 url: "/cdr-researcher-census/researchers/mike-young-a5053582/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 2 |
 | Citations | 202 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

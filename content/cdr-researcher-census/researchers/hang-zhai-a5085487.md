@@ -1,7 +1,7 @@
 ---
 title: "Hang Zhai"
-description: "Hang Zhai is a Mid-career General CDR researcher at Southwest University in CN. With 30 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.213766
+description: "Hang Zhai is a Mid-career Enhanced Weathering researcher at Southwest University in CN. With 30 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.820046
 url: "/cdr-researcher-census/researchers/hang-zhai-a5085487/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Southwest University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**General CDR**
+**Enhanced Weathering**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 14 |
 | Citations | 511 |
 | Publications | 30 |
-| CDR Focus | 13.3% |
+| CDR Focus | 1330.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,13 +54,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    41 citations · DAC
 
 2. **Enhancing Aqueous Carbonation of Calcium Silicate through Acid and Base Pretreatments with Implications for Efficient Carbon Mineralization** (2023)
-   24 citations · General CDR
+   24 citations · Enhanced Weathering
 
 3. **Enhancing aqueous carbonation via co-milled serpentine and wollastonite: Effects of mechanochemical activation** (2024)
-   7 citations · General CDR
+   7 citations · Enhanced Weathering
 
 4. **Slag carbonation-driven surface activation for simultaneous crystallization of heavy metals: Implications for carbon mineralization and environmental remediation** (2025)
-   0 citations · General CDR
+   0 citations · Enhanced Weathering
 
 ## External Profiles
 

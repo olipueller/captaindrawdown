@@ -1,0 +1,63 @@
+---
+title: "Hazman Seli"
+description: "Hazman Seli is a Senior Biochar researcher at Universiti Malaysia Sarawak in MY. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.168368
+url: "/cdr-researcher-census/researchers/hazman-seli-a5022289/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Hazman Seli",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/hazman-seli-a5022289/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Universiti Malaysia Sarawak"
+  },
+  "sameAs": [
+    "https://orcid.org/0000-0002-3256-966X",
+    "https://openalex.org/A5022289648"
+  ]
+}
+</script>
+
+## Profile
+
+**Hazman Seli**  
+Universiti Malaysia Sarawak · 🇲🇾 MY
+
+**Career Stage:** Senior
+
+## CDR Specialization
+
+**Biochar**
+
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 6 |
+| Citations | 325 |
+| Publications | 20 |
+| CDR Focus | 500.0% |
+| Trajectory | Stable |
+
+## Top CDR Publications
+
+1. **Coconut shell and husk biochar: A review of production and activation technology, economic, financial aspect and application** (2022)
+   121 citations · Biochar
+
+## External Profiles
+
+- [ORCID](https://orcid.org/0000-0002-3256-966X)
+- [OpenAlex](https://openalex.org/A5022289648)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

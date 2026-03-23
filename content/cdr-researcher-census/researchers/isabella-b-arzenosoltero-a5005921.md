@@ -1,7 +1,7 @@
 ---
 title: "Isabella B. Arzeno‐Soltero"
-description: "Isabella B. Arzeno‐Soltero is a Mid-career General CDR researcher at University of California, Los Angeles in US. With 23 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.406614
+description: "Isabella B. Arzeno‐Soltero is a Mid-career Ocean CDR researcher at University of California, Los Angeles in US. With 23 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.143503
 url: "/cdr-researcher-census/researchers/isabella-b-arzenosoltero-a5005921/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of California, Los Angeles · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**Ocean CDR**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
 
 ## Metrics
 
@@ -45,19 +45,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 8 |
 | Citations | 333 |
 | Publications | 23 |
-| CDR Focus | 13.0% |
+| CDR Focus | 870.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Large global variations in the carbon dioxide removal potential of seaweed farming due to biophysical constraints** (2023)
-   30 citations · General CDR
+   30 citations · Ocean CDR
 
 2. **Biophysical potential and uncertainties of global seaweed farming** (2022)
    7 citations · General CDR
 
 3. **Author Correction: Large global variations in the carbon dioxide removal potential of seaweed farming due to biophysical constraints** (2024)
-   0 citations · General CDR
+   0 citations · Ocean CDR
 
 ## External Profiles
 

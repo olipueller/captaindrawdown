@@ -1,7 +1,7 @@
 ---
 title: "Carolyn‐Monika Görres"
-description: "Carolyn‐Monika Görres is a Mid-career Soil Carbon researcher at Hochschule Geisenheim University in DE. With 41 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.221388
+description: "Carolyn‐Monika Görres is a Mid-career Biochar researcher at Hochschule Geisenheim University in DE. With 41 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.836163
 url: "/cdr-researcher-census/researchers/carolynmonika-gorres-a5073000/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Hochschule Geisenheim University · 🇩🇪 DE
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -45,25 +45,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 501 |
 | Publications | 41 |
-| CDR Focus | 12.2% |
+| CDR Focus | 980.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Climate-Smart Agriculture Practices for Mitigating Greenhouse Gas Emissions** (2021)
-   15 citations · Biochar
+   15 citations · Soil Carbon
 
 2. **Greenhouse Gases from Agriculture** (2021)
-   8 citations · Enhanced Weathering
+   8 citations
 
 3. **Long-term integrated organic-inorganic fertilization balances greenhouse gas emissions and soil properties enhancement in subtropical wheat-maize system** (2025)
-   3 citations · Biochar
+   3 citations · General CDR
 
 4. **Impact of combined application of biochar and basanite powder on soil-borne greenhouse gas emissions and nitrate leaching** (2025)
-   0 citations · Enhanced Weathering
+   0 citations · Biochar
 
 5. **Potential of novel organic NP(K)-char fertilizers as part of a circular economy-based phosphorus supply chain – results from a pot experiment** (2023)
-   0 citations · Soil Carbon
+   0 citations · Biochar
 
 ## External Profiles
 

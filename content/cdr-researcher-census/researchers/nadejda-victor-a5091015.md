@@ -1,7 +1,7 @@
 ---
 title: "Nadejda Victor"
 description: "Nadejda Victor is a Senior General CDR researcher at IIASA in AT. With 39 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.890573
+date: 2026-03-23T11:46:59.144073
 url: "/cdr-researcher-census/researchers/nadejda-victor-a5091015/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 19 |
 | Citations | 4,364 |
 | Publications | 39 |
-| CDR Focus | 15.4% |
+| CDR Focus | 1540.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

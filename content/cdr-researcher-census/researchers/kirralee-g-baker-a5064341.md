@@ -1,7 +1,7 @@
 ---
 title: "Kirralee G. Baker"
 description: "Kirralee G. Baker is a Mid-career Ocean CDR researcher at Commonwealth Scientific and Industrial Research Organisation in AU. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.259995
+date: 2026-03-23T11:46:59.909878
 url: "/cdr-researcher-census/researchers/kirralee-g-baker-a5064341/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,19 +45,19 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 10 |
 | Citations | 447 |
 | Publications | 16 |
-| CDR Focus | 18.8% |
+| CDR Focus | 1880.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Investigating the effect of silicate- and calcium-based ocean alkalinity enhancement on diatom silicification** (2024)
-   26 citations · General CDR
+   26 citations · Ocean CDR
 
 2. **Investigating the effect of silicate and calcium based ocean alkalinity enhancement on diatom silicification** (2023)
-   14 citations · General CDR
+   14 citations · Ocean CDR
 
 3. **Carbonate chemistry fitness landscapes inform diatom resilience to future perturbations** (2025)
-   0 citations · Ocean CDR
+   0 citations
 
 ## External Profiles
 

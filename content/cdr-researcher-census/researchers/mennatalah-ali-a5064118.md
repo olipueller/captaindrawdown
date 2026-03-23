@@ -1,7 +1,7 @@
 ---
 title: "Mennatalah Ali"
-description: "Mennatalah Ali is a Mid-career General CDR researcher. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.794951
+description: "Mennatalah Ali is a Mid-career Ocean CDR researcher. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.703919
 url: "/cdr-researcher-census/researchers/mennatalah-ali-a5064118/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,9 +26,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**General CDR**
+**Ocean CDR**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
 
 ## Metrics
 
@@ -37,13 +37,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 3 |
 | Citations | 189 |
 | Publications | 6 |
-| CDR Focus | 16.7% |
+| CDR Focus | 1670.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Cultivation of <i>Nannochloropsis</i> algae for simultaneous biomass applications and carbon dioxide capture** (2021)
-   18 citations · General CDR
+   18 citations · Ocean CDR
 
 ## External Profiles
 

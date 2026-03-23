@@ -1,7 +1,7 @@
 ---
 title: "Ewen Laisné"
 description: "Ewen Laisné is an Early-career Biochar researcher at Swedish University of Agricultural Sciences in SE. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.337195
+date: 2026-03-23T11:47:01.354911
 url: "/cdr-researcher-census/researchers/ewen-laisne-a5092447/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 3 |
 | Citations | 108 |
 | Publications | 3 |
-| CDR Focus | 33.3% |
+| CDR Focus | 3330.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

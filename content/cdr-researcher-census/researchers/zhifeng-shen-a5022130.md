@@ -1,7 +1,7 @@
 ---
 title: "Zhifeng Shen"
 description: "Zhifeng Shen is a Mid-career Soil Carbon researcher. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.424375
+date: 2026-03-23T11:47:01.440997
 url: "/cdr-researcher-census/researchers/zhifeng-shen-a5022130/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -37,7 +37,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 100 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

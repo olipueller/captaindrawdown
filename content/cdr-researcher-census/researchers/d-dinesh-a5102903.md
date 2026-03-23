@@ -1,7 +1,7 @@
 ---
 title: "D. Dinesh"
 description: "D. Dinesh is a Mid-career Soil Carbon researcher at Indian Institute of Soil and Water Conservation in IN. With 47 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.284392
+date: 2026-03-23T11:46:59.952122
 url: "/cdr-researcher-census/researchers/d-dinesh-a5102903/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 11 |
 | Citations | 424 |
 | Publications | 47 |
-| CDR Focus | 12.8% |
+| CDR Focus | 850.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -66,7 +66,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    7 citations · Soil Carbon
 
 6. **Carbon Sequestration in Degraded Lands: Current Prospects, Practices, and Future Strategies** (2022)
-   6 citations · Soil Carbon
+   6 citations · General CDR
 
 ## External Profiles
 

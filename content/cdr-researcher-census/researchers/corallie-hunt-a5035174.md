@@ -1,7 +1,7 @@
 ---
 title: "Corallie Hunt"
-description: "Corallie Hunt is a Mid-career Soil Carbon researcher at The Nature Conservancy in US. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.222581
+description: "Corallie Hunt is a Mid-career General CDR researcher at The Nature Conservancy in US. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.230212
 url: "/cdr-researcher-census/researchers/corallie-hunt-a5035174/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ The Nature Conservancy · 🇺🇸 US
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 120 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Case studies from Germany and Scotland indicate climate change mitigation potential of riverine and coastal wetlands** (2026)
-   5 citations · Soil Carbon
+   5 citations · General CDR
 
 ## External Profiles
 

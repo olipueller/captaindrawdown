@@ -1,7 +1,7 @@
 ---
 title: "Xiaojun Liu"
 description: "Xiaojun Liu is a Mid-career Soil Carbon researcher at Lanzhou University in CN. With 42 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.129300
+date: 2026-03-23T11:46:59.662652
 url: "/cdr-researcher-census/researchers/xiaojun-liu-a5100412/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 14 |
 | Citations | 653 |
 | Publications | 42 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1190.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -60,13 +60,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    26 citations · Soil Carbon
 
 4. **Soil N2O emissions increased by litter removal but decreased by phosphorus additions** (2021)
-   12 citations · General CDR
+   12 citations · Soil Carbon
 
 5. **Response of carbon acquisition enzyme activity and organic carbon mineralization to soil erosion and deposition** (2024)
    10 citations · Soil Carbon
 
 6. **Aggregate-associated soil organic carbon fractions in sub-tropical soil undergoing vegetative restoration** (2022)
-   3 citations · Soil Carbon
+   3 citations
 
 ## External Profiles
 

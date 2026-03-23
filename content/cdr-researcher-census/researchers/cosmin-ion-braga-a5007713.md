@@ -1,7 +1,7 @@
 ---
 title: "Cosmin Ion Bragă"
 description: "Cosmin Ion Bragă is a Mid-career Soil Carbon researcher at National Institute for Research and Development in Forestry \"Marin Drăcea\" in RO. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.020996
+date: 2026-03-23T11:47:01.011538
 url: "/cdr-researcher-census/researchers/cosmin-ion-braga-a5007713/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 147 |
 | Publications | 17 |
-| CDR Focus | 11.8% |
+| CDR Focus | 1180.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Carbon Sequestration Dynamics in Peri-Urban Forests: Comparing Secondary Succession and Mature Stands under Varied Forest Management Practices** (2024)
-   7 citations · Soil Carbon
+   7 citations · General CDR
 
 2. **Dynamics of Forest Floor, Soil Organic Matter, and Carbon Stock Estimation in Temperate Forests of Romania** (2025)
    0 citations · Soil Carbon

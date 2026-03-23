@@ -1,7 +1,7 @@
 ---
 title: "Soukaina Lamnini"
-description: "Soukaina Lamnini is a Mid-career DAC researcher at Université Mohammed VI Polytechnique in MA. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.583659
+description: "Soukaina Lamnini is a Mid-career carbon dioxide removal researcher at Université Mohammed VI Polytechnique in MA. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.424337
 url: "/cdr-researcher-census/researchers/soukaina-lamnini-a5085556/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Université Mohammed VI Polytechnique ·  MA
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,16 +39,16 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 8 |
 | Citations | 251 |
 | Publications | 13 |
-| CDR Focus | 15.4% |
+| CDR Focus | 1540.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Phosphorylated/amine-impregnated cellulosic paper for direct CO2 capture** (2024)
-   8 citations · DAC
+   8 citations
 
 2. **Phosphorylated and Amine Impregnated Cellulosic Papers for Direct Co2 Capture** (2023)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

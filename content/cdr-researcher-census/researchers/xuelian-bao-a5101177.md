@@ -1,7 +1,7 @@
 ---
 title: "Xuelian Bao"
 description: "Xuelian Bao is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 55 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.957671
+date: 2026-03-23T11:46:59.306149
 url: "/cdr-researcher-census/researchers/xuelian-bao-a5101177/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 22 |
 | Citations | 1,648 |
 | Publications | 55 |
-| CDR Focus | 18.2% |
+| CDR Focus | 1640.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -63,13 +63,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    23 citations · Biochar
 
 5. **Bacterial community structure and assembly dynamics hinge on plant litter quality** (2023)
-   6 citations · Soil Carbon
+   6 citations
 
 6. **Subsoil Tillage With Straw Mulching Enhances Top‐Down Control of Deep Soil Carbon Accumulation via Fungal Pathways** (2025)
    3 citations · Soil Carbon
 
 7. **Biochemical heterogeneity of soil components manipulating long-term organic carbon pool buildup over mineral protection in the mollisol** (2025)
-   3 citations · Soil Carbon
+   3 citations
 
 8. **[Effects of conservation tillage on soil microbial community and the function of soil carbon cycling].** (2021)
    1 citations · Soil Carbon

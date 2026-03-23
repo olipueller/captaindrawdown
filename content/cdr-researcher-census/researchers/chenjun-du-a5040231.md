@@ -1,7 +1,7 @@
 ---
 title: "Chenjun Du"
 description: "Chenjun Du is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 25 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.223240
+date: 2026-03-23T11:46:59.840063
 url: "/cdr-researcher-census/researchers/chenjun-du-a5040231/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 13 |
 | Citations | 498 |
 | Publications | 25 |
-| CDR Focus | 12.0% |
+| CDR Focus | 800.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    19 citations · Soil Carbon
 
 3. **Optimizing zonal management framework suitable for mountain ecosystems by linking landscape, ecosystem service capacities and bundles nested** (2025)
-   8 citations · Soil Carbon
+   8 citations · General CDR
 
 ## External Profiles
 

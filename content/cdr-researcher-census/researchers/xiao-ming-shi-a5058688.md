@@ -1,7 +1,7 @@
 ---
 title: "Xiao Ming Shi"
-description: "Xiao Ming Shi is a Mid-career Soil Carbon researcher at Lanzhou University in CN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.000258
+description: "Xiao Ming Shi is a Mid-career General CDR researcher at Lanzhou University in CN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.988958
 url: "/cdr-researcher-census/researchers/xiao-ming-shi-a5058688/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Lanzhou University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 150 |
 | Publications | 6 |
-| CDR Focus | 16.7% |
+| CDR Focus | 1670.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Estimation, Spatiotemporal Dynamics, and Driving Factors of Grassland Biomass Carbon Storage Based on Machine Learning Methods: A Case Study of the Hulunbuir Grassland** (2024)
-   4 citations · Soil Carbon
+   4 citations · General CDR
 
 ## External Profiles
 

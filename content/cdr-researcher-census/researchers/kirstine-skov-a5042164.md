@@ -1,7 +1,7 @@
 ---
 title: "Kirstine Skov"
 description: "Kirstine Skov is a Senior Enhanced Weathering researcher at Nano Carbon (Poland) in PL. With 44 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.212523
+date: 2026-03-23T11:46:59.817731
 url: "/cdr-researcher-census/researchers/kirstine-skov-a5042164/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 11 |
 | Citations | 512 |
 | Publications | 44 |
-| CDR Focus | 34.1% |
+| CDR Focus | 2270.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Initial agronomic benefits of enhanced weathering using basalt: A study of spring oat in a temperate climate** (2024)
-   37 citations · Enhanced Weathering
+   37 citations
 
 2. **Quantifying potential carbon dioxide removal via enhanced weathering using porewater from a field trial in Scotland** (2025)
    1 citations · Enhanced Weathering
@@ -60,7 +60,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    1 citations · Enhanced Weathering
 
 4. **Initial agronomic benefits of enhanced weathering using basalt: A study of spring oat in a temperate climate** (2024)
-   1 citations · Enhanced Weathering
+   1 citations
 
 5. **Initial agronomic benefits of enhanced weathering using basalt: A study of spring oat in a temperate climate** (2023)
    1 citations · Enhanced Weathering
@@ -75,7 +75,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    0 citations · Enhanced Weathering
 
 9. **Quantifying potential carbon dioxide removal via enhanced weathering using porewater from a field trial in Scotland** (2025)
-   0 citations · Enhanced Weathering
+   0 citations
 
 10. **Novel extraction method designed to estimate the topsoil pore water reservoir of carbon dioxide removal through enhanced weathering of silicate minerals** (2025)
    0 citations · Enhanced Weathering

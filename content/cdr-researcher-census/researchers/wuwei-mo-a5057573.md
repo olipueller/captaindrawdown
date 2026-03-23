@@ -1,7 +1,7 @@
 ---
 title: "Wuwei Mo"
-description: "Wuwei Mo is an Early-career DAC researcher at Xiamen University Malaysia in MY. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.169505
+description: "Wuwei Mo is an Early-career General CDR researcher at Xiamen University Malaysia in MY. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.169890
 url: "/cdr-researcher-census/researchers/wuwei-mo-a5057573/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Xiamen University Malaysia · 🇲🇾 MY
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 4 |
 | Citations | 126 |
 | Publications | 4 |
-| CDR Focus | 25.0% |
+| CDR Focus | 2500.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Synergizing Aspen plus and life cycle assessment of nascent photocatalytic dry methane reforming over thermocatalytic and biomass gasification toward syngas generation** (2023)
-   18 citations · DAC
+   18 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Justin Flory"
 description: "Justin Flory is a Mid-career DAC researcher at Arizona State University in US. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.046678
+date: 2026-03-23T11:47:01.038672
 url: "/cdr-researcher-census/researchers/justin-flory-a5041990/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,28 +45,28 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 5 |
 | Citations | 142 |
 | Publications | 16 |
-| CDR Focus | 43.8% |
+| CDR Focus | 3120.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Moisture-driven CO2 pump for direct air capture** (2023)
-   22 citations · DAC
+   22 citations
 
 2. **Design and demonstration of a direct air capture system with moisture-driven CO2 delivery into aqueous medium** (2025)
-   0 citations · DAC
+   0 citations
 
 3. **Comprehensive Structural Characterization of Charged Polymers Involved in Moisture-Driven Direct Air Capture** (2025)
-   0 citations · DAC
+   0 citations
 
 4. **Comprehensive Structural Characterization of Charged Polymers Involved in Moisture-Driven Direct Air Capture** (2025)
-   0 citations · DAC
+   0 citations
 
 5. **Moisture-driven CO2 direct air capture and delivery for cultivating cyanobacteria** (2025)
-   0 citations · DAC
+   0 citations
 
 6. **Moisture Driven Co2 Pump for Direct Air Capture** (2023)
-   0 citations · DAC
+   0 citations
 
 7. **Mining Air for Fuels and Fine Chemicals** (2022)
    0 citations · DAC

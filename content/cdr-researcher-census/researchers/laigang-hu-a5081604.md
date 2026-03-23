@@ -1,7 +1,7 @@
 ---
 title: "Laigang Hu"
-description: "Laigang Hu is a Mid-career Soil Carbon researcher at State Key Laboratory of Pollution Control and Resource Reuse in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.598150
+description: "Laigang Hu is a Mid-career Biochar researcher at State Key Laboratory of Pollution Control and Resource Reuse in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.439812
 url: "/cdr-researcher-census/researchers/laigang-hu-a5081604/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ State Key Laboratory of Pollution Control and Resource Reuse · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 247 |
 | Publications | 17 |
-| CDR Focus | 11.8% |
+| CDR Focus | 590.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Simultaneous adsorption of fulvic acid and organic contaminants by KOH activated mesoporous biochar with large surface area** (2024)
-   8 citations · Soil Carbon
+   8 citations · Biochar
 
 2. **Selective degradation of KOH activated biochar adsorbed 4-chlorophenol with fulvic acid by peroxydisulfate** (2025)
    2 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Farida Amutova"
-description: "Farida Amutova is a Mid-career Soil Carbon researcher at Al-Farabi Kazakh National University in KZ. With 29 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.793372
+description: "Farida Amutova is a Mid-career Biochar researcher at Al-Farabi Kazakh National University in KZ. With 29 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.701374
 url: "/cdr-researcher-census/researchers/farida-amutova-a5019229/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Al-Farabi Kazakh National University · 🇰🇿 KZ
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 190 |
 | Publications | 29 |
-| CDR Focus | 13.8% |
+| CDR Focus | 1030.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -57,10 +57,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    2 citations · Biochar
 
 3. **Assessment of the sequestration strategy based on brown coal Shoptykol to reduce organochlorine pesticides transfer from contaminated soil to hen eggs** (2024)
-   0 citations · Soil Carbon
+   0 citations · Biochar
 
 4. **Assessment of bioavailability of organochlorine pesticides in chain «soil – farm animals – food products»** (2022)
-   0 citations · Biochar
+   0 citations
 
 ## External Profiles
 

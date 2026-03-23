@@ -1,7 +1,7 @@
 ---
 title: "Joanna Rivero"
-description: "Joanna Rivero is a Mid-career DAC researcher at University of Pittsburgh in US. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.942606
+description: "Joanna Rivero is a Mid-career Ocean CDR researcher at University of Pittsburgh in US. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.916055
 url: "/cdr-researcher-census/researchers/joanna-rivero-a5058110/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Pittsburgh · 🇺🇸 US
 
 ## CDR Specialization
 
-**DAC**
+**Ocean CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
 
 ## Metrics
 
@@ -45,19 +45,19 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 6 |
 | Citations | 159 |
 | Publications | 8 |
-| CDR Focus | 37.5% |
+| CDR Focus | 2500.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Demonstration of direct ocean carbon capture using hollow fiber membrane contactors** (2023)
-   18 citations · DAC
+   18 citations · Ocean CDR
 
 2. **Demonstration of direct ocean carbon capture using encapsulated solvents** (2023)
-   10 citations · General CDR
+   10 citations · Ocean CDR
 
 3. **Demonstration of Direct Ocean Carbon Capture Using Hollow Fiber Membrane Contactors** (2023)
-   2 citations · DAC
+   2 citations · Ocean CDR
 
 ## External Profiles
 

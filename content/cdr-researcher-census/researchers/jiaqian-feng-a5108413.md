@@ -1,7 +1,7 @@
 ---
 title: "Jiaqian Feng"
 description: "Jiaqian Feng is a Mid-career Biochar researcher at Shangluo University in CN. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.368858
+date: 2026-03-23T11:47:01.386902
 url: "/cdr-researcher-census/researchers/jiaqian-feng-a5108413/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 3 |
 | Citations | 105 |
 | Publications | 5 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

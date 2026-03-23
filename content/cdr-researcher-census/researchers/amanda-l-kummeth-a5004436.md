@@ -1,7 +1,7 @@
 ---
 title: "Amanda L. Kummeth"
-description: "Amanda L. Kummeth is an Early-career DAC researcher at University of California, Irvine in US. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.866939
+description: "Amanda L. Kummeth is an Early-career carbon dioxide removal researcher at University of California, Irvine in US. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.813902
 url: "/cdr-researcher-census/researchers/amanda-l-kummeth-a5004436/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ University of California, Irvine · 🇺🇸 US
 
 **Career Stage:** Early-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,16 +39,16 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 3 |
 | Citations | 174 |
 | Publications | 4 |
-| CDR Focus | 50.0% |
+| CDR Focus | 5000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Inverse molecular design of alkoxides and phenoxides for aqueous direct air capture of CO <sub>2</sub>** (2022)
-   35 citations · DAC
+   35 citations
 
 2. **Inverse Molecular Design of Alkoxides and Phenoxidesfor Aqueous Direct Air Capture of CO2** (2021)
-   3 citations · DAC
+   3 citations
 
 ## External Profiles
 

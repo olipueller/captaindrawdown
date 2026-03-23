@@ -1,7 +1,7 @@
 ---
 title: "Zhichao Kang"
 description: "Zhichao Kang is a Mid-career Biochar researcher at Chinese Academy of Sciences in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.249518
+date: 2026-03-23T11:47:01.258100
 url: "/cdr-researcher-census/researchers/zhichao-kang-a5010147/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 7 |
 | Citations | 117 |
 | Publications | 16 |
-| CDR Focus | 25.0% |
+| CDR Focus | 1880.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications

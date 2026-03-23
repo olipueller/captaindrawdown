@@ -1,7 +1,7 @@
 ---
 title: "Seo Gyeong Jeong"
 description: "Seo Gyeong Jeong is a Mid-career Biochar researcher at Chungnam National University in KR. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.185493
+date: 2026-03-23T11:47:01.189129
 url: "/cdr-researcher-census/researchers/seo-gyeong-jeong-a5037517/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 6 |
 | Citations | 124 |
 | Publications | 8 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

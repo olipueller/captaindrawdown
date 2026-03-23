@@ -1,7 +1,7 @@
 ---
 title: "Kexin Shu"
-description: "Kexin Shu is an Early-career General CDR researcher at Yangzhou University in CN. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.246108
+description: "Kexin Shu is an Early-career Soil Carbon researcher at Yangzhou University in CN. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.254459
 url: "/cdr-researcher-census/researchers/kexin-shu-a5029004/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Yangzhou University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**General CDR**
+**Soil Carbon**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 2 |
 | Citations | 117 |
 | Publications | 3 |
-| CDR Focus | 33.3% |
+| CDR Focus | 3330.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Effects of residue removal and tillage on greenhouse gas emissions in continuous corn systems as simulated with RZWQM2** (2021)
-   16 citations · General CDR
+   16 citations · Soil Carbon
 
 ## External Profiles
 

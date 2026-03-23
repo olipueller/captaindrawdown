@@ -1,7 +1,7 @@
 ---
 title: "Jae-Hyeong Choi"
-description: "Jae-Hyeong Choi is a Mid-career Soil Carbon researcher at Korea Institute of Ocean Science and Technology in KR. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.912256
+description: "Jae-Hyeong Choi is a Mid-career General CDR researcher at Korea Institute of Ocean Science and Technology in KR. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.879016
 url: "/cdr-researcher-census/researchers/jae-hyeong-choi-a5028350/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Korea Institute of Ocean Science and Technology · 🇰🇷 KR
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 165 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Effect of Chlorella vulgaris on the Growth and Phytochemical Contents of “Red Russian” Kale (Brassica napus var. Pabularia)** (2022)
-   28 citations · Soil Carbon
+   28 citations · General CDR
 
 ## External Profiles
 

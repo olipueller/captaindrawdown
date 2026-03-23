@@ -1,7 +1,7 @@
 ---
 title: "Fernando Zancan"
 description: "Fernando Zancan is a Senior General CDR researcher in GB. With 6 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.926228
+date: 2026-03-23T11:47:00.895514
 url: "/cdr-researcher-census/researchers/fernando-zancan-a5003278/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,7 +38,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 2 |
 | Citations | 162 |
 | Publications | 6 |
-| CDR Focus | 33.3% |
+| CDR Focus | 1670.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -47,7 +47,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    1 citations · BECCS
 
 2. **A Just Transition Pathway for the Coal Industry from its Ashes** (2025)
-   0 citations · BECCS
+   0 citations · General CDR
 
 ## External Profiles
 

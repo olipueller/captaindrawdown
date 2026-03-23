@@ -1,7 +1,7 @@
 ---
 title: "Sarah Louise Robin"
 description: "Sarah Louise Robin is a Mid-career Soil Carbon researcher at University of New Caledonia in NC. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.261453
+date: 2026-03-23T11:47:01.273370
 url: "/cdr-researcher-census/researchers/sarah-louise-robin-a5069666/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 116 |
 | Publications | 19 |
-| CDR Focus | 10.5% |
+| CDR Focus | 530.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

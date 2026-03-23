@@ -1,7 +1,7 @@
 ---
 title: "Jung Yoon Kim"
-description: "Jung Yoon Kim is a Mid-career General CDR researcher at Rice University in US. With 10 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.889402
+description: "Jung Yoon Kim is a Mid-career carbon dioxide removal researcher at Rice University in US. With 10 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.142799
 url: "/cdr-researcher-census/researchers/jung-yoon-kim-a5087035/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Rice University · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 10 |
 | Citations | 4,427 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Continuous carbon capture in an electrochemical solid-electrolyte reactor** (2023)
-   216 citations · General CDR
+   216 citations
 
 ## External Profiles
 

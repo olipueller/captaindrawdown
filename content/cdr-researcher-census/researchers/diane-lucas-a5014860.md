@@ -1,7 +1,7 @@
 ---
 title: "Diane Lucas"
-description: "Diane Lucas is a Senior Soil Carbon researcher at Human Growth Foundation in US. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.483678
+description: "Diane Lucas is a Senior General CDR researcher at Human Growth Foundation in US. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.275407
 url: "/cdr-researcher-census/researchers/diane-lucas-a5014860/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Human Growth Foundation · 🇺🇸 US
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 292 |
 | Publications | 6 |
-| CDR Focus | 16.7% |
+| CDR Focus | 1670.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Framework for a savanna burning emissions abatement methodology applicable to fire-prone miombo woodlands in southern Africa** (2024)
-   6 citations · Soil Carbon
+   6 citations · General CDR
 
 ## External Profiles
 

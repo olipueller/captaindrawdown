@@ -1,7 +1,7 @@
 ---
 title: "Shima Masoumi"
-description: "Shima Masoumi is a Mid-career Biochar researcher at Université du Québec à Montréal in CA. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.079337
+description: "Shima Masoumi is a Mid-career BECCS researcher at Université du Québec à Montréal in CA. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.574142
 url: "/cdr-researcher-census/researchers/shima-masoumi-a5025812/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Université du Québec à Montréal · 🇨🇦 CA
 
 ## CDR Specialization
 
-**Biochar**
+**BECCS**
 
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 8 |
 | Citations | 780 |
 | Publications | 17 |
-| CDR Focus | 11.8% |
+| CDR Focus | 590.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    304 citations · Biochar
 
 2. **Effects of various carbon-supported iron catalysts on tar removal efficiency and syngas yield during catalytic biomass gasification** (2023)
-   39 citations · Biochar
+   39 citations · BECCS
 
 ## External Profiles
 

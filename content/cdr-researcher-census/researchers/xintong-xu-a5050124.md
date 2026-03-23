@@ -1,7 +1,7 @@
 ---
 title: "Xintong Xu"
 description: "Xintong Xu is a Senior Soil Carbon researcher at Jiangxi Agricultural University in CN. With 48 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.089142
+date: 2026-03-23T11:46:59.592223
 url: "/cdr-researcher-census/researchers/xintong-xu-a5050124/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 17 |
 | Citations | 753 |
 | Publications | 48 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

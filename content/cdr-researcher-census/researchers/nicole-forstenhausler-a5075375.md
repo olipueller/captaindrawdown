@@ -1,7 +1,7 @@
 ---
 title: "Nicole Forstenhäusler"
-description: "Nicole Forstenhäusler is a Mid-career BECCS researcher at University of East Anglia in GB. With 26 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.557895
+description: "Nicole Forstenhäusler is a Mid-career General CDR researcher at University of East Anglia in GB. With 26 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.389777
 url: "/cdr-researcher-census/researchers/nicole-forstenhausler-a5075375/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of East Anglia · 🇬🇧 GB
 
 ## CDR Specialization
 
-**BECCS**
+**General CDR**
 
-Combining biomass energy with carbon capture and storage to achieve negative emissions.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 8 |
 | Citations | 260 |
 | Publications | 26 |
-| CDR Focus | 11.5% |
+| CDR Focus | 1150.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
    0 citations · BECCS
 
 3. **Spatial analysis of CDR implications for global biodiversity refugia** (2024)
-   0 citations · BECCS
+   0 citations · General CDR
 
 ## External Profiles
 

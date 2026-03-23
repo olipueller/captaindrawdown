@@ -1,7 +1,7 @@
 ---
 title: "Xuning Qiao"
-description: "Xuning Qiao is a Senior Soil Carbon researcher at Ministry of Agriculture and Rural Development in PL. With 36 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.179503
+description: "Xuning Qiao is a Senior General CDR researcher at Ministry of Agriculture and Rural Development in PL. With 36 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.754702
 url: "/cdr-researcher-census/researchers/xuning-qiao-a5024372/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Ministry of Agriculture and Rural Development ·  PL
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 11 |
 | Citations | 566 |
 | Publications | 36 |
-| CDR Focus | 11.1% |
+| CDR Focus | 830.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,13 +54,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    53 citations · Soil Carbon
 
 2. **How does urbanization impact the supply–demand relationship of agroecosystem services? Insights from farmland loss in the Huaihe River Basin, China** (2023)
-   16 citations · Soil Carbon
+   16 citations
 
 3. **How to optimize ecological compensation to alleviate the ecosystem services supply and demand mismatch in the Luo River Basin?** (2025)
-   7 citations · Soil Carbon
+   7 citations · General CDR
 
 4. **How to Optimize Ecological Compensation to Alleviate the Ecosystem Service Supply and Demand Mismatch in the Luo River Basin?** (2025)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

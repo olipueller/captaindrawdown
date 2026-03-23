@@ -1,7 +1,7 @@
 ---
 title: "Norbert Bischoff"
 description: "Norbert Bischoff is a Mid-career Soil Carbon researcher at Leibniz University Hannover in DE. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.998327
+date: 2026-03-23T11:47:00.986664
 url: "/cdr-researcher-census/researchers/norbert-bischoff-a5060435/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 150 |
 | Publications | 16 |
-| CDR Focus | 12.5% |
+| CDR Focus | 620.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    22 citations · Soil Carbon
 
 2. **Dynamics of soil organic carbon in the steppes of Russia and Kazakhstan under past and future climate and land use** (2021)
-   0 citations · Soil Carbon
+   0 citations
 
 ## External Profiles
 

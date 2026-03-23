@@ -1,7 +1,7 @@
 ---
 title: "Michael Francis D. Benjamin"
-description: "Michael Francis D. Benjamin is a Mid-career Soil Carbon researcher at University of Santo Tomas in PH. With 47 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.147167
+description: "Michael Francis D. Benjamin is a Mid-career General CDR researcher at University of Santo Tomas in PH. With 47 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.699053
 url: "/cdr-researcher-census/researchers/michael-francis-d-benjamin-a5055109/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Santo Tomas · 🇵🇭 PH
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 14 |
 | Citations | 618 |
 | Publications | 47 |
-| CDR Focus | 12.8% |
+| CDR Focus | 1280.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    10 citations · Enhanced Weathering
 
 2. **A fuzzy optimization model for planning integrated terrestrial carbon management networks** (2021)
-   9 citations · Biochar
+   9 citations · General CDR
 
 3. **A rough set-based model for predicting soil greenhouse gases response to biochar** (2024)
    2 citations · Biochar
@@ -63,7 +63,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    1 citations · Biochar
 
 5. **Optimal Integration of Polygen eration with Carbon Dioxide Removal** (2022)
-   0 citations · Enhanced Weathering
+   0 citations · General CDR
 
 6. **Fuzzy Optimization Model for Biochar-based Carbon Management Networks** (2021)
    0 citations · Biochar

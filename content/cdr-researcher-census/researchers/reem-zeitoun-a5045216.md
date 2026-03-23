@@ -1,7 +1,7 @@
 ---
 title: "Reem Zeitoun"
-description: "Reem Zeitoun is a Mid-career Soil Carbon researcher at University of Guelph in CA. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.173400
+description: "Reem Zeitoun is a Mid-career General CDR researcher at University of Guelph in CA. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.175641
 url: "/cdr-researcher-census/researchers/reem-zeitoun-a5045216/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ University of Guelph · 🇨🇦 CA
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 126 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Global Development in Soil Science Research: Agriculture Sensors and Technologies** (2021)
-   1 citations · Soil Carbon
+   1 citations · General CDR
 
 ## External Profiles
 

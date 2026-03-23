@@ -1,7 +1,7 @@
 ---
 title: "Ahmad Latif Virk"
 description: "Ahmad Latif Virk is a Mid-career Soil Carbon researcher at Zhejiang A & F University in CN. With 26 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.051605
+date: 2026-03-23T11:46:59.521669
 url: "/cdr-researcher-census/researchers/ahmad-latif-virk-a5115595/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 17 |
 | Citations | 876 |
 | Publications | 26 |
-| CDR Focus | 23.1% |
+| CDR Focus | 2310.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    86 citations · Soil Carbon
 
 3. **Greenhouse gas emissions from the wheat-maize cropping system under different tillage and crop residue management practices in the North China Plain** (2022)
-   44 citations · General CDR
+   44 citations · Soil Carbon
 
 4. **Soil organic carbon regulates CH4 production through methanogenic evenness and available phosphorus under different straw managements** (2022)
    28 citations · Soil Carbon

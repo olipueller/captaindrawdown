@@ -1,7 +1,7 @@
 ---
 title: "Gebeyanesh Worku Zerssa"
 description: "Gebeyanesh Worku Zerssa is a Mid-career Soil Carbon researcher at Jimma University in ET. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.362081
+date: 2026-03-23T11:47:00.074816
 url: "/cdr-researcher-census/researchers/gebeyanesh-worku-zerssa-a5019529/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 364 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Ignacio Macedo"
 description: "Ignacio Macedo is a Mid-career Soil Carbon researcher at Instituto Nacional de Investigación Agropecuaria in UY. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.482792
+date: 2026-03-23T11:47:00.273076
 url: "/cdr-researcher-census/researchers/ignacio-macedo-a5008570/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 10 |
 | Citations | 292 |
 | Publications | 16 |
-| CDR Focus | 25.0% |
+| CDR Focus | 1880.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,13 +54,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    24 citations · Soil Carbon
 
 2. **Opportunities for mitigating net system greenhouse gas emissions in Southeast Asian rice production: A systematic review** (2023)
-   21 citations · Biochar
+   21 citations · General CDR
 
 3. **Irrigated rice rotations affect yield and soil organic carbon sequestration in temperate South America** (2021)
    16 citations · Soil Carbon
 
 4. **Carbon stocks and potential sequestration of Uruguayan soils. A road map to a comprehensive characterization of temporal and spatial changes to assess Carbon footprint** (2022)
-   5 citations · Soil Carbon
+   5 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Guiqing Zhu"
-description: "Guiqing Zhu is a Mid-career Soil Carbon researcher at Fujian Normal University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.991935
+description: "Guiqing Zhu is a Mid-career carbon dioxide removal researcher at Fujian Normal University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.979820
 url: "/cdr-researcher-census/researchers/guiqing-zhu-a5035234/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Fujian Normal University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 151 |
 | Publications | 8 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Conversion of natural forests to plantations simplifies microbial community structures affected by soil fauna during litter decomposition** (2026)
-   0 citations · Soil Carbon
+   0 citations
 
 ## External Profiles
 

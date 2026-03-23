@@ -1,7 +1,7 @@
 ---
 title: "Jiwei Li"
 description: "Jiwei Li is a Senior Soil Carbon researcher at Northwest A and F University in CN. With 127 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.897714
+date: 2026-03-23T11:46:59.165137
 url: "/cdr-researcher-census/researchers/jiwei-li-a5032496/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 34 |
 | Citations | 3,601 |
 | Publications | 127 |
-| CDR Focus | 11.8% |
+| CDR Focus | 940.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Carbon stabilization pathways in soil aggregates during long-term forest succession: Implications from δ13C signatures** (2023)
-   83 citations · Soil Carbon
+   83 citations
 
 2. **Thinning increases forest ecosystem carbon stocks** (2024)
    81 citations · Soil Carbon
@@ -72,7 +72,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    29 citations · Soil Carbon
 
 8. **Inorganic Carbon Should Be Considered for Carbon Sequestration in Agricultural Soils** (2025)
-   23 citations · Biochar
+   23 citations · Soil Carbon
 
 9. **Belowground C sequestrations response to grazing exclusion in global grasslands: Dynamics and mechanisms** (2023)
    16 citations · Soil Carbon

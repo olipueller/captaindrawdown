@@ -1,7 +1,7 @@
 ---
 title: "Joscha N. Becker"
-description: "Joscha N. Becker is a Mid-career Enhanced Weathering researcher at Universität Hamburg in DE. With 71 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.986867
+description: "Joscha N. Becker is a Mid-career Biochar researcher at Universität Hamburg in DE. With 71 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.376754
 url: "/cdr-researcher-census/researchers/joscha-n-becker-a5012439/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Universität Hamburg · 🇩🇪 DE
 
 ## CDR Specialization
 
-**Enhanced Weathering**
+**Biochar**
 
-Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 15 |
 | Citations | 1,304 |
 | Publications | 71 |
-| CDR Focus | 11.3% |
+| CDR Focus | 1130.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -69,7 +69,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    0 citations · Soil Carbon
 
 7. **Impact of combined application of biochar and basanite powder on soil-borne greenhouse gas emissions and nitrate leaching** (2025)
-   0 citations · Enhanced Weathering
+   0 citations · Biochar
 
 8. **Exploring effects of variation in plant root traits on carbon emissions from estuarine marshes** (2024)
    0 citations · Soil Carbon

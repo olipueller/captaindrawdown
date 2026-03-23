@@ -1,7 +1,7 @@
 ---
 title: "Rongjun Bian"
 description: "Rongjun Bian is a Senior Soil Carbon researcher at Nanjing Agricultural University in CN. With 111 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.878593
+date: 2026-03-23T11:46:59.113973
 url: "/cdr-researcher-census/researchers/rongjun-bian-a5072829/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 38 |
 | Citations | 6,543 |
 | Publications | 111 |
-| CDR Focus | 14.4% |
+| CDR Focus | 1260.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    51 citations · Soil Carbon
 
 3. **Amendment of crop residue in different forms shifted micro-pore system structure and potential functionality of macroaggregates while changed their mass proportion and carbon storage of paddy topsoil** (2021)
-   40 citations · Biochar
+   40 citations · Soil Carbon
 
 4. **Quantitative assessment of the effects of biochar amendment on photosynthetic carbon assimilation and dynamics in a rice–soil system** (2021)
    27 citations · Biochar

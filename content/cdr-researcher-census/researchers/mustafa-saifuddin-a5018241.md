@@ -1,7 +1,7 @@
 ---
 title: "Mustafa Saifuddin"
-description: "Mustafa Saifuddin is a Mid-career Soil Carbon researcher at Sustainable Food Center in US. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.453319
+description: "Mustafa Saifuddin is a Mid-career General CDR researcher at Sustainable Food Center in US. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.227053
 url: "/cdr-researcher-census/researchers/mustafa-saifuddin-a5018241/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Sustainable Food Center · 🇺🇸 US
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 305 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Soil carbon offset markets are not a just climate solution** (2024)
-   15 citations · Soil Carbon
+   15 citations · General CDR
 
 ## External Profiles
 

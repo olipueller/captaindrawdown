@@ -1,7 +1,7 @@
 ---
 title: "Amin Sharififar"
 description: "Amin Sharififar is a Mid-career Soil Carbon researcher at University of Technology Sydney in AU. With 30 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.179253
+date: 2026-03-23T11:46:59.754195
 url: "/cdr-researcher-census/researchers/amin-sharififar-a5044592/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 12 |
 | Citations | 566 |
 | Publications | 30 |
-| CDR Focus | 13.3% |
+| CDR Focus | 1330.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    3 citations · Soil Carbon
 
 4. **Advances in digital soil mapping to assess baseline levels and carbon sequestration at the landscape scale** (2022)
-   1 citations · Soil Carbon
+   1 citations · General CDR
 
 ## External Profiles
 

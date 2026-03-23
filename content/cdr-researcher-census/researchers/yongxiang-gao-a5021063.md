@@ -1,7 +1,7 @@
 ---
 title: "Yongxiang Gao"
 description: "Yongxiang Gao is a Mid-career Soil Carbon researcher at Shandong Agricultural University in CN. With 15 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.194827
+date: 2026-03-23T11:46:59.787072
 url: "/cdr-researcher-census/researchers/yongxiang-gao-a5021063/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 12 |
 | Citations | 536 |
 | Publications | 15 |
-| CDR Focus | 13.3% |
+| CDR Focus | 1330.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    49 citations · Soil Carbon
 
 2. **Effects of straw returning combined with blended controlled-release urea fertilizer on crop yields, greenhouse gas emissions, and net ecosystem economic benefits: A nine-year field trial** (2024)
-   25 citations · Soil Carbon
+   25 citations
 
 ## External Profiles
 

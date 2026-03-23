@@ -1,7 +1,7 @@
 ---
 title: "Haotian Lv"
-description: "Haotian Lv is a Mid-career DAC researcher at Shanghai Jiao Tong University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.265568
+description: "Haotian Lv is a Mid-career carbon dioxide removal researcher at Shanghai Jiao Tong University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.278108
 url: "/cdr-researcher-census/researchers/haotian-lv-a5034206/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Shanghai Jiao Tong University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 5 |
 | Citations | 115 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Facile synthesis of structured adsorbent with enhanced hydrophobicity and low energy consumption for CO2 capture from the air** (2023)
-   34 citations · DAC
+   34 citations
 
 ## External Profiles
 

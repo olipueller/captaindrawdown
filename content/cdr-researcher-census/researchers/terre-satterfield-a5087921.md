@@ -1,7 +1,7 @@
 ---
 title: "Terre Satterfield"
 description: "Terre Satterfield is an Eminent General CDR researcher at University of British Columbia in CA. With 188 publications and an h-index of 48, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.866040
+date: 2026-03-23T11:46:59.088413
 url: "/cdr-researcher-census/researchers/terre-satterfield-a5087921/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 48 |
 | Citations | 12,665 |
 | Publications | 188 |
-| CDR Focus | 10.1% |
+| CDR Focus | 900.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -57,10 +57,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    54 citations · General CDR
 
 3. **Public evaluations of four approaches to ocean-based carbon dioxide removal** (2023)
-   49 citations · DAC
+   49 citations · General CDR
 
 4. **Exploring public acceptability of direct air carbon capture with storage: climate urgency, moral hazards and perceptions of the ‘whole versus the parts’** (2023)
-   49 citations · DAC
+   49 citations · General CDR
 
 5. **Social considerations and best practices to apply to engaging publics on ocean alkalinity enhancement** (2023)
    16 citations · General CDR
@@ -72,13 +72,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    5 citations · General CDR
 
 8. **Climate targets, carbon dioxide removal and the potential role of Ocean Alkalinity Enhancement** (2023)
-   4 citations · General CDR
+   4 citations
 
 9. **Principles for responsible and effective marine carbon dioxide removal development and governance** (2025)
    2 citations · General CDR
 
 10. **The need to explore the potential of marine CDR – A guide for policy makers** (2025)
-   1 citations · Biochar
+   1 citations · General CDR
 
 ## External Profiles
 

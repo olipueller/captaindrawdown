@@ -1,7 +1,7 @@
 ---
 title: "Yunuo Li"
 description: "Yunuo Li is a Mid-career Soil Carbon researcher at Jiangnan University in CN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.402636
+date: 2026-03-23T11:47:00.136321
 url: "/cdr-researcher-census/researchers/yunuo-li-a5005233/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 336 |
 | Publications | 20 |
-| CDR Focus | 40.0% |
+| CDR Focus | 4000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

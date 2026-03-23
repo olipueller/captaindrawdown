@@ -1,7 +1,7 @@
 ---
 title: "Paola A. Sáenz-Cavazos"
-description: "Paola A. Sáenz-Cavazos is a Mid-career DAC researcher at Imperial College London in GB. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.293053
+description: "Paola A. Sáenz-Cavazos is a Mid-career General CDR researcher at Imperial College London in GB. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.305596
 url: "/cdr-researcher-census/researchers/paola-a-saenz-cavazos-a5033008/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Imperial College London · 🇬🇧 GB
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,22 +42,22 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 4 |
 | Citations | 112 |
 | Publications | 9 |
-| CDR Focus | 44.4% |
+| CDR Focus | 3330.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Measuring and Modeling Water and Carbon Dioxide Adsorption on Amine Functionalized Alumina under Direct Air Capture Conditions** (2025)
-   13 citations · DAC
+   13 citations
 
 2. **An ecosystem of carbon dioxide removal reviews – part 1: direct air CO <sub>2</sub> capture and storage** (2025)
-   11 citations · DAC
+   11 citations · General CDR
 
 3. **Author response for "An Ecosystem of Carbon Dioxide Removal Reviews - Part 1: Direct Air CO2 Capture and Storage"** (2025)
-   0 citations · DAC
+   0 citations
 
 4. **Author response for "An Ecosystem of Carbon Dioxide Removal Reviews - Part 1: Direct Air CO2 Capture and Storage"** (2025)
-   0 citations · DAC
+   0 citations · General CDR
 
 ## External Profiles
 

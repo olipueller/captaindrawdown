@@ -1,7 +1,7 @@
 ---
 title: "Sanjeevi Jayakumar"
-description: "Sanjeevi Jayakumar is a Mid-career DAC researcher at National University of Singapore in IN. With 19 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.045289
+description: "Sanjeevi Jayakumar is a Mid-career carbon dioxide removal researcher at National University of Singapore in IN. With 19 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.506340
 url: "/cdr-researcher-census/researchers/sanjeevi-jayakumar-a5076098/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ National University of Singapore · 🇮🇳 IN
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,16 +39,16 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 13 |
 | Citations | 907 |
 | Publications | 19 |
-| CDR Focus | 10.5% |
+| CDR Focus | 530.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **3D Interconnected Pore Networks Enable Superior Volumetric CO2 Uptake in Amine-Functionalized Nanoporous Carbon for Direct Air Capture** (2026)
-   0 citations · DAC
+   0 citations
 
 2. **3D Interconnected Pore Networks Enable Superior Volumetric CO2 Uptake in Amine-Functionalized Nanoporous Carbon for Direct Air Capture** (2025)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

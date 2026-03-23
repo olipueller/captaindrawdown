@@ -1,7 +1,7 @@
 ---
 title: "Urbain Nzotcha"
-description: "Urbain Nzotcha is a Mid-career DAC researcher at Forschungszentrum Jülich in DE. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.399791
+description: "Urbain Nzotcha is a Mid-career General CDR researcher at Forschungszentrum Jülich in DE. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.132727
 url: "/cdr-researcher-census/researchers/urbain-nzotcha-a5034791/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Forschungszentrum Jülich · 🇩🇪 DE
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,25 +45,25 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 9 |
 | Citations | 337 |
 | Publications | 22 |
-| CDR Focus | 22.7% |
+| CDR Focus | 910.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Combining electric energy storage and deep-lake degassing by means of pumped hydropower** (2021)
-   16 citations · General CDR
+   16 citations
 
 2. **Carbon capture from controlled degassing of deep meromictic lakes: Insights to techno-economic and environmental feasibility, from the “killer lakes” in Cameroon** (2025)
-   1 citations · DAC
+   1 citations · General CDR
 
 3. **CO <sub>2</sub> Value Chain –from Direct Air Capture Towards Electrochemical Reduction and Value Added Products** (2025)
    0 citations · DAC
 
 4. **Carbon Capture from Controlled Degassing of Deep Meromictic Lakes: Insights to Techno-Economic and Environmental Feasibility, from the “Killer Lakes” in Cameroon** (2024)
-   0 citations · DAC
+   0 citations · General CDR
 
 5. **Carbon Capture from Controlled Degassing of Deep Meromictic Lakes: Insights to Techno-Economic and Environmental Feasibility, from the “Killer Lakes” in Cameroon** (2024)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

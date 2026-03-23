@@ -1,7 +1,7 @@
 ---
 title: "Wenhan Chen"
 description: "Wenhan Chen is a Mid-career Enhanced Weathering researcher. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.148565
+date: 2026-03-23T11:47:01.145762
 url: "/cdr-researcher-census/researchers/wenhan-chen-a5100727/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -37,7 +37,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 5 |
 | Citations | 129 |
 | Publications | 12 |
-| CDR Focus | 16.7% |
+| CDR Focus | 830.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -46,7 +46,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    24 citations · Enhanced Weathering
 
 2. **A new record of the Toarcian oceanic anoxic event from Scotland (UK) and environmental responses** (2021)
-   0 citations · Enhanced Weathering
+   0 citations
 
 ## External Profiles
 

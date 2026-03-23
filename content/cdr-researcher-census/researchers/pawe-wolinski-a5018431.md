@@ -1,7 +1,7 @@
 ---
 title: "Paweł Woliński"
 description: "Paweł Woliński is a Mid-career Biochar researcher. With 23 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.011586
+date: 2026-03-23T11:47:01.000274
 url: "/cdr-researcher-census/researchers/pawe-wolinski-a5018431/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -37,7 +37,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 5 |
 | Citations | 148 |
 | Publications | 23 |
-| CDR Focus | 13.0% |
+| CDR Focus | 870.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -46,7 +46,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    67 citations · Biochar
 
 2. **Dataset for publication Sikora P., Woliński P., Chougan M., Madraszewski S., Węgrzyński W., Papis B.K., Federowicz K., Ghaffar S.H., Stephan D. A systematic experimental study on biochar-cementitious composites: Towards carbon sequestration. Industrial Crops and Products (2022) 184, 115103** (2023)
-   0 citations · Biochar
+   0 citations
 
 3. **Dataset for publication Sikora P., Woliński P., Chougan M., Madraszewski S., Węgrzyński W., Papis B.K., Federowicz K., Ghaffar S.H., Stephan D. A systematic experimental study on biochar-cementitious composites: Towards carbon sequestration. Industrial Crops and Products (2022) 184, 115103** (2023)
    0 citations · Biochar

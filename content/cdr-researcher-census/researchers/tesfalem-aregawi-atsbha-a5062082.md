@@ -1,7 +1,7 @@
 ---
 title: "Tesfalem Aregawi Atsbha"
-description: "Tesfalem Aregawi Atsbha is a Mid-career DAC researcher at Chung-Ang University in KR. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.395198
+description: "Tesfalem Aregawi Atsbha is a Mid-career carbon dioxide removal researcher at Chung-Ang University in KR. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.125645
 url: "/cdr-researcher-census/researchers/tesfalem-aregawi-atsbha-a5062082/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Chung-Ang University · 🇰🇷 KR
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 8 |
 | Citations | 340 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Unlocking low-carbon hydrogen transportation through a cost-effective hybrid CO2/heat looping strategy** (2025)
-   3 citations · DAC
+   3 citations
 
 ## External Profiles
 

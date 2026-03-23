@@ -1,7 +1,7 @@
 ---
 title: "Júnior Staudt"
-description: "Júnior Staudt is a Mid-career DAC researcher at Universidade Estadual do Oeste do Paraná in BR. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.162510
+description: "Júnior Staudt is a Mid-career carbon dioxide removal researcher at Universidade Estadual do Oeste do Paraná in BR. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.162186
 url: "/cdr-researcher-census/researchers/junior-staudt-a5008511/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Universidade Estadual do Oeste do Paraná · 🇧🇷 BR
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 4 |
 | Citations | 127 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Assessment of the Potential of Electrochemical Steps in Direct Air Capture through Techno-Economic Analysis** (2024)
-   16 citations · DAC
+   16 citations
 
 ## External Profiles
 

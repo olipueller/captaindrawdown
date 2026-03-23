@@ -1,7 +1,7 @@
 ---
 title: "Renu Singh"
-description: "Renu Singh is a Senior Soil Carbon researcher at Indian Agricultural Research Institute in IN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.922969
+description: "Renu Singh is a Senior General CDR researcher at Indian Agricultural Research Institute in IN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.890521
 url: "/cdr-researcher-census/researchers/renu-singh-a5109180/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Indian Agricultural Research Institute · 🇮🇳 IN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 163 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Soil Carbon Sequestration for Soil Quality Improvement and Climate Change Mitigation** (2021)
-   7 citations · Soil Carbon
+   7 citations · General CDR
 
 ## External Profiles
 

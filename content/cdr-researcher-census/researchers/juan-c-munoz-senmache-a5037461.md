@@ -1,7 +1,7 @@
 ---
 title: "Juan C. Muñoz-Senmache"
-description: "Juan C. Muñoz-Senmache is a Mid-career General CDR researcher at University of Puerto Rico-Mayaguez in PR. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.165840
+description: "Juan C. Muñoz-Senmache is a Mid-career carbon dioxide removal researcher at University of Puerto Rico-Mayaguez in PR. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.736019
 url: "/cdr-researcher-census/researchers/juan-c-munoz-senmache-a5037461/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ University of Puerto Rico-Mayaguez ·  PR
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,16 +36,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 7 |
 | Citations | 583 |
 | Publications | 19 |
-| CDR Focus | 10.5% |
+| CDR Focus | 1050.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Carbon Dioxide Removal from Humid Atmosphere by a Porous Hierarchical Silicoaluminophosphate/Carbon Composite Adsorbent** (2023)
-   3 citations · General CDR
+   3 citations
 
 2. **Adsorption-based direct air capture using hierarchical porous composites prepared via confined-space crystallization** (2026)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

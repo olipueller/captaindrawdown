@@ -1,7 +1,7 @@
 ---
 title: "Enoch Ofosu"
-description: "Enoch Ofosu is a Mid-career Soil Carbon researcher at University of Waterloo in CA. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.246318
+description: "Enoch Ofosu is a Mid-career General CDR researcher at University of Waterloo in CA. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.254847
 url: "/cdr-researcher-census/researchers/enoch-ofosu-a5062518/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Waterloo · 🇨🇦 CA
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 117 |
 | Publications | 14 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

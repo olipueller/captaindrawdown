@@ -1,7 +1,7 @@
 ---
 title: "Qingdian Shu"
-description: "Qingdian Shu is a Mid-career DAC researcher. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.459013
+description: "Qingdian Shu is a Mid-career General CDR researcher. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.234796
 url: "/cdr-researcher-census/researchers/qingdian-shu-a5056252/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,9 +29,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -40,7 +40,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 7 |
 | Citations | 302 |
 | Publications | 15 |
-| CDR Focus | 46.7% |
+| CDR Focus | 4000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -49,22 +49,22 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    47 citations · DAC
 
 2. **Optimization of an electrochemical direct air capture process with decreased CO2 desorption pressure and addition of background electrolyte** (2023)
-   16 citations · DAC
+   16 citations
 
 3. **An ecosystem of carbon dioxide removal reviews – part 1: direct air CO <sub>2</sub> capture and storage** (2025)
-   11 citations · DAC
+   11 citations · General CDR
 
 4. **(Digital Presentation) Electrochemical Regeneration of Spent Alkaline Absorbent from Direct Air Capture** (2022)
-   2 citations · DAC
+   2 citations
 
 5. **Author response for "An Ecosystem of Carbon Dioxide Removal Reviews - Part 1: Direct Air CO2 Capture and Storage"** (2025)
-   0 citations · DAC
+   0 citations
 
 6. **Author response for "An Ecosystem of Carbon Dioxide Removal Reviews - Part 1: Direct Air CO2 Capture and Storage"** (2025)
-   0 citations · DAC
+   0 citations · General CDR
 
 7. **Design and development of an electrochemical direct air capture Process** (2023)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

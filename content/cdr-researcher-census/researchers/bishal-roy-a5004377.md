@@ -1,7 +1,7 @@
 ---
 title: "Bishal Roy"
 description: "Bishal Roy is a Mid-career Soil Carbon researcher at Center For Remote Sensing (United States) in US. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.641456
+date: 2026-03-23T11:47:00.503565
 url: "/cdr-researcher-census/researchers/bishal-roy-a5004377/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 231 |
 | Publications | 17 |
-| CDR Focus | 11.8% |
+| CDR Focus | 1180.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    8 citations · Soil Carbon
 
 2. **Comparative Analysis of Wavelet Transformation Techniques in Enhancing Soil Organic Carbon Detection Through Hyperspectral Imaging** (2024)
-   2 citations · Soil Carbon
+   2 citations · General CDR
 
 ## External Profiles
 

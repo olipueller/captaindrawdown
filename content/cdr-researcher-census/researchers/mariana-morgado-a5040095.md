@@ -1,7 +1,7 @@
 ---
 title: "Mariana Morgado"
 description: "Mariana Morgado is a Mid-career Soil Carbon researcher. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.894883
+date: 2026-03-23T11:47:00.853975
 url: "/cdr-researcher-census/researchers/mariana-morgado-a5040095/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 169 |
 | Publications | 8 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

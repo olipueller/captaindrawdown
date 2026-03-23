@@ -1,7 +1,7 @@
 ---
 title: "Xuechong Ding"
-description: "Xuechong Ding is a Mid-career BECCS researcher. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.768368
+description: "Xuechong Ding is a Mid-career General CDR researcher. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.669598
 url: "/cdr-researcher-census/researchers/xuechong-ding-a5089333/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,9 +26,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**BECCS**
+**General CDR**
 
-Combining biomass energy with carbon capture and storage to achieve negative emissions.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -37,13 +37,13 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 5 |
 | Citations | 196 |
 | Publications | 6 |
-| CDR Focus | 16.7% |
+| CDR Focus | 1670.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Superstructure-based carbon capture and utilization process design** (2023)
-   12 citations · BECCS
+   12 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Karolina Petela"
-description: "Karolina Petela is a Mid-career Biochar researcher at Silesian University of Technology in PL. With 27 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.858843
+description: "Karolina Petela is a Mid-career BECCS researcher at Silesian University of Technology in PL. With 27 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.804358
 url: "/cdr-researcher-census/researchers/karolina-petela-a5018426/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Silesian University of Technology ·  PL
 
 ## CDR Specialization
 
-**Biochar**
+**BECCS**
 
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 
@@ -45,22 +45,22 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 7 |
 | Citations | 176 |
 | Publications | 27 |
-| CDR Focus | 14.8% |
+| CDR Focus | 740.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **INDUSTRIAL AND RURAL USE-CASES UNDERPINNED BY BIOMASS-BASED SOLUTIONS FOR CARBON REMOVAL, CHEMICALS AND RENEWABLE ENERGY - THE NET-FUELS PROJECT** (2025)
-   0 citations · Biochar
+   0 citations
 
 2. **INDUSTRIAL AND RURAL USE-CASES UNDERPINNED BY BIOMASS-BASED SOLUTIONS FOR CARBON REMOVAL, CHEMICALS AND RENEWABLE ENERGY - THE NET-FUELS PROJECT** (2025)
-   0 citations · Biochar
+   0 citations · BECCS
 
 3. **Industrial and rural partnerships underpinned by biomass-based solutions for carbon removal, chemicals, and renewable energy — the NET-Fuels project** (2025)
-   0 citations · Biochar
+   0 citations
 
 4. **Industrial and rural partnerships underpinned by biomass-based solutions for carbon removal, chemicals, and renewable energy — the NET-Fuels project** (2025)
-   0 citations · Biochar
+   0 citations · BECCS
 
 ## External Profiles
 

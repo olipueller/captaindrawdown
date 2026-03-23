@@ -1,7 +1,7 @@
 ---
 title: "Camila Beatriz da Silva Souza"
 description: "Camila Beatriz da Silva Souza is a Mid-career Soil Carbon researcher at European Union of Medical Specialists in BE. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.415736
+date: 2026-03-23T11:47:01.430816
 url: "/cdr-researcher-census/researchers/camila-beatriz-da-silva-souza-a5078039/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 101 |
 | Publications | 18 |
-| CDR Focus | 16.7% |
+| CDR Focus | 1670.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

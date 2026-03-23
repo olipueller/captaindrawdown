@@ -1,7 +1,7 @@
 ---
 title: "Laura Proaño"
-description: "Laura Proaño is a Mid-career DAC researcher at Georgia Institute of Technology in US. With 22 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.072747
+description: "Laura Proaño is a Mid-career carbon dioxide removal researcher at Georgia Institute of Technology in US. With 22 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.559949
 url: "/cdr-researcher-census/researchers/laura-proano-a5083004/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Georgia Institute of Technology · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,22 +39,22 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 13 |
 | Citations | 803 |
 | Publications | 22 |
-| CDR Focus | 18.2% |
+| CDR Focus | 1360.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Insights into the Oxidative Degradation Mechanism of Solid Amine Sorbents for CO <sub>2</sub> Capture from Air: Roles of Atmospheric Water** (2023)
-   95 citations · DAC
+   95 citations
 
 2. **Humidity Effects on Sub-Ambient Direct Air Capture of CO<sub>2</sub> with Amine Functionalized Mg-Al LDHs and MMOs** (2024)
-   13 citations · DAC
+   13 citations
 
 3. **Insights into the Oxidative Degradation Mechanism of Solid Amine Sorbents for CO <sub>2</sub> Capture from Air: Roles of Atmospheric Water** (2023)
-   13 citations · DAC
+   13 citations
 
 4. **Role of Polymer Architecture in CO <sub>2</sub> Capture from Air Using Supported Poly(alkylenimine)s: Linear vs Branched Polymers** (2025)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

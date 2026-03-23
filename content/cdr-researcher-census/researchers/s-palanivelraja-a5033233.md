@@ -1,7 +1,7 @@
 ---
 title: "S. Palanivelraja"
-description: "S. Palanivelraja is a Mid-career Soil Carbon researcher at Annamalai University in IN. With 10 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.661492
+description: "S. Palanivelraja is a Mid-career General CDR researcher at Annamalai University in IN. With 10 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.527975
 url: "/cdr-researcher-census/researchers/s-palanivelraja-a5033233/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Annamalai University · 🇮🇳 IN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 3 |
 | Citations | 226 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **A Study On Carbon Storage At Cuddalore District In Tamil Nadu Using Geospatial Techniques** (2021)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

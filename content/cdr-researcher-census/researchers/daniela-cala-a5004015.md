@@ -1,7 +1,7 @@
 ---
 title: "Daniela Cala"
-description: "Daniela Cala is a Mid-career Soil Carbon researcher at Indiana University Bloomington in US. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.667373
+description: "Daniela Cala is a Mid-career General CDR researcher at Indiana University Bloomington in US. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.534938
 url: "/cdr-researcher-census/researchers/daniela-cala-a5004015/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Indiana University Bloomington · 🇺🇸 US
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 224 |
 | Publications | 8 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Informing Nature‐based Climate Solutions for the United States with the best‐available science** (2022)
-   91 citations · Soil Carbon
+   91 citations · General CDR
 
 ## External Profiles
 

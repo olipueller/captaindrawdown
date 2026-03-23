@@ -1,7 +1,7 @@
 ---
 title: "Jiale Han"
 description: "Jiale Han is a Senior Soil Carbon researcher at Chengdu University of Information Technology in CN. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.507128
+date: 2026-03-23T11:47:00.317352
 url: "/cdr-researcher-census/researchers/jiale-han-a5059006/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 280 |
 | Publications | 26 |
-| CDR Focus | 11.5% |
+| CDR Focus | 1150.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    66 citations · Biochar
 
 2. **Optimizing Management Practices under Straw Regimes for Global Sustainable Agricultural Production** (2023)
-   24 citations · Soil Carbon
+   24 citations · General CDR
 
 3. **Carbon and nitrogen footprints of apple orchards in China's Loess Plateau under different fertilization regimes** (2023)
    23 citations · Soil Carbon

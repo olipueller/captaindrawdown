@@ -1,7 +1,7 @@
 ---
 title: "Bezaye Tessema"
 description: "Bezaye Tessema is a Mid-career Soil Carbon researcher at Rice University in US. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.769726
+date: 2026-03-23T11:47:00.671833
 url: "/cdr-researcher-census/researchers/bezaye-tessema-a5084565/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 196 |
 | Publications | 19 |
-| CDR Focus | 31.6% |
+| CDR Focus | 3160.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    3 citations · Soil Carbon
 
 4. **Assessing Compost Carbon Permanence with Solid-State 13C NMR: Advancing Standards for Climate and Carbon Markets** (2025)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 5. **Soil Carbon Storage and Distribution Under Chrysopogon Zizanioides Using Delta-13 Carbon Analysis** (2024)
    0 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Fengjun Zheng"
 description: "Fengjun Zheng is a Senior Soil Carbon researcher at Henan Agricultural University in CN. With 20 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.118412
+date: 2026-03-23T11:46:59.646792
 url: "/cdr-researcher-census/researchers/fengjun-zheng-a5111825/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 14 |
 | Citations | 672 |
 | Publications | 20 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

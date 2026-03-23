@@ -1,7 +1,7 @@
 ---
 title: "Sudeep Mudhulu"
-description: "Sudeep Mudhulu is a Mid-career Biochar researcher at Institut Teknologi dan Sains Mandala. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.074669
+description: "Sudeep Mudhulu is a Mid-career carbon dioxide removal researcher at Institut Teknologi dan Sains Mandala. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.070157
 url: "/cdr-researcher-census/researchers/sudeep-mudhulu-a5039037/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Institut Teknologi dan Sains Mandala
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Biochar**
-
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,19 +39,19 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 6 |
 | Citations | 138 |
 | Publications | 19 |
-| CDR Focus | 15.8% |
+| CDR Focus | 530.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Optimised fluoride adsorption from water using functionalised rice straw: a response surface methodology approach** (2026)
-   0 citations · Biochar
+   0 citations
 
 2. **Optimised fluoride adsorption from water using functionalised rice straw: a response surface methodology approach** (2026)
-   0 citations · Biochar
+   0 citations
 
 3. **Optimised fluoride adsorption from water using functionalised rice straw: a response surface methodology approach** (2026)
-   0 citations · Biochar
+   0 citations
 
 ## External Profiles
 

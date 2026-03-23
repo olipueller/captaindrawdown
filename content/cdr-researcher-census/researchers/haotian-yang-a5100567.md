@@ -1,7 +1,7 @@
 ---
 title: "Haotian Yang"
-description: "Haotian Yang is a Mid-career Soil Carbon researcher. With 10 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.360339
+description: "Haotian Yang is a Mid-career General CDR researcher. With 10 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.072904
 url: "/cdr-researcher-census/researchers/haotian-yang-a5100567/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,9 +26,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -37,13 +37,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 3 |
 | Citations | 365 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Vegetation restoration in dryland with shrub serves as a carbon sink: evidence from a 13-year observation at the Tengger Desert of Northern China** (2022)
-   1 citations · Soil Carbon
+   1 citations · General CDR
 
 ## External Profiles
 

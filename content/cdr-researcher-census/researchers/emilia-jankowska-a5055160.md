@@ -1,7 +1,7 @@
 ---
 title: "Emilia Jankowska"
 description: "Emilia Jankowska is a Senior Ocean CDR researcher at Vesta Sciences (United States) in US. With 38 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.916865
+date: 2026-03-23T11:46:59.212153
 url: "/cdr-researcher-census/researchers/emilia-jankowska-a5055160/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 17 |
 | Citations | 2,640 |
 | Publications | 38 |
-| CDR Focus | 18.4% |
+| CDR Focus | 1050.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -57,13 +57,13 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    4 citations · Enhanced Weathering
 
 3. **Microbial Community Structure in Contrasting Hawaiian Coastal Sediments** (2025)
-   1 citations · General CDR
+   1 citations
 
 4. **Microbial community structure in contrasting Hawaiian coastal sediments** (2025)
-   1 citations · General CDR
+   1 citations
 
 5. **Limited impact on oysters in first-of-its-kind field trial of marine carbon dioxide removal (mCDR) strategy** (2025)
-   1 citations · Enhanced Weathering
+   1 citations · General CDR
 
 6. **A natural analogue of enhanced rock weathering: microbial communities in the olivine-rich Papakōlea Beach (Hawaii, USA)** (2025)
    0 citations · Enhanced Weathering

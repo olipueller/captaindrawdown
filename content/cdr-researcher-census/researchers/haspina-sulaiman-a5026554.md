@@ -1,7 +1,7 @@
 ---
 title: "Haspina Sulaiman"
 description: "Haspina Sulaiman is an Early-career Biochar researcher at National University of Malaysia in MY. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.203976
+date: 2026-03-23T11:46:59.802971
 url: "/cdr-researcher-census/researchers/haspina-sulaiman-a5026554/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 3 |
 | Citations | 522 |
 | Publications | 4 |
-| CDR Focus | 50.0% |
+| CDR Focus | 5000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

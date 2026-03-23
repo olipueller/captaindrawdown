@@ -1,7 +1,7 @@
 ---
 title: "Guodong Shao"
 description: "Guodong Shao is a Mid-career Soil Carbon researcher at South China Agricultural University in CN. With 42 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.130477
+date: 2026-03-23T11:46:59.664660
 url: "/cdr-researcher-census/researchers/guodong-shao-a5022872/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,19 +45,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 15 |
 | Citations | 651 |
 | Publications | 42 |
-| CDR Focus | 16.7% |
+| CDR Focus | 1430.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Multifunctionality of temperate alley-cropping agroforestry outperforms open cropland and grassland** (2023)
-   63 citations · Soil Carbon
+   63 citations · General CDR
 
 2. **Carbon fluxes within tree-crop-grass agroforestry system: 13C field labeling and tracing** (2022)
    31 citations · Soil Carbon
 
 3. **Microplastic contamination accelerates soil carbon loss through positive priming** (2024)
-   16 citations · Soil Carbon
+   16 citations
 
 4. **Conversion of cropland monoculture to agroforestry increases methane uptake** (2024)
    4 citations · Soil Carbon
@@ -66,7 +66,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    3 citations · Soil Carbon
 
 6. **The over-estimation of long-term mineral fertilizer on CO2 release from soil carbonates** (2025)
-   3 citations · Soil Carbon
+   3 citations
 
 7. **Soil greenhouse gas (N2O, CO2 and CH4) fluxes from cropland agroforestry and monoculture systems** (2022)
    1 citations · Soil Carbon

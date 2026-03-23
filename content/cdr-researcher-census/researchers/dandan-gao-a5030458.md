@@ -1,7 +1,7 @@
 ---
 title: "Dandan Gao"
 description: "Dandan Gao is a Mid-career Soil Carbon researcher at Central South University of Forestry and Technology in CN. With 29 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.527370
+date: 2026-03-23T11:47:00.348163
 url: "/cdr-researcher-census/researchers/dandan-gao-a5030458/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 10 |
 | Citations | 272 |
 | Publications | 29 |
-| CDR Focus | 10.3% |
+| CDR Focus | 690.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    17 citations · Soil Carbon
 
 2. **Nano zero-valent zinc modified biochars: An innovative approach for arsenic (III) removal from synthetic and salt lake water** (2025)
-   3 citations · Biochar
+   3 citations
 
 3. **Temperature Sensitivity of Soil Organic Matter Decomposition During Forest Restoration: The Rhizosphere Effects** (2023)
    0 citations · Soil Carbon

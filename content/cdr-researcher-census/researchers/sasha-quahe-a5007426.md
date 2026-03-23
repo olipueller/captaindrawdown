@@ -1,7 +1,7 @@
 ---
 title: "Sasha Quahe"
 description: "Sasha Quahe is a Mid-career Ocean CDR researcher at Royal Swedish Academy of Sciences in SE. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.052795
+date: 2026-03-23T11:47:01.045681
 url: "/cdr-researcher-census/researchers/sasha-quahe-a5007426/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,16 +45,16 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 4 |
 | Citations | 141 |
 | Publications | 7 |
-| CDR Focus | 28.6% |
+| CDR Focus | 1430.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Farming the Ocean – Seaweeds as a Quick Fix for the Climate?** (2022)
-   98 citations · BECCS
+   98 citations · Ocean CDR
 
 2. **Farming the Ocean – Seaweeds as a Quick Fix for the Climate?** (2022)
-   0 citations · BECCS
+   0 citations
 
 ## External Profiles
 

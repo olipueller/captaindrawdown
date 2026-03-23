@@ -1,7 +1,7 @@
 ---
 title: "Ziqiao Zhou"
-description: "Ziqiao Zhou is a Mid-career Enhanced Weathering researcher. With 13 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.280459
+description: "Ziqiao Zhou is a Mid-career General CDR researcher. With 13 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.946242
 url: "/cdr-researcher-census/researchers/ziqiao-zhou-a5084641/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,9 +26,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**Enhanced Weathering**
+**General CDR**
 
-Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -37,16 +37,16 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 10 |
 | Citations | 427 |
 | Publications | 13 |
-| CDR Focus | 15.4% |
+| CDR Focus | 770.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **The 2023 China report of the Lancet Countdown on health and climate change: taking stock for a thriving future** (2023)
-   96 citations · Enhanced Weathering
+   96 citations · General CDR
 
 2. **Negative emission technology is key to decarbonizing China's cement industry** (2022)
-   68 citations · BECCS
+   68 citations · General CDR
 
 ## External Profiles
 

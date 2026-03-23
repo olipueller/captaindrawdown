@@ -1,7 +1,7 @@
 ---
 title: "Zahra Zolfaghari"
-description: "Zahra Zolfaghari is a Mid-career DAC researcher at Royan Institute in IR. With 12 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.555321
+description: "Zahra Zolfaghari is a Mid-career General CDR researcher at Royan Institute in IR. With 12 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.386355
 url: "/cdr-researcher-census/researchers/zahra-zolfaghari-a5005956/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Royan Institute ·  IR
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 9 |
 | Citations | 261 |
 | Publications | 12 |
-| CDR Focus | 25.0% |
+| CDR Focus | 2500.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,10 +54,10 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    40 citations · DAC
 
 2. **Simulation of carbon dioxide direct air capture plant using potassium hydroxide aqueous Solution: Energy optimization and CO2 purity enhancement** (2023)
-   14 citations · DAC
+   14 citations
 
 3. **CO2 capture and sequestration from a mixture of direct air and industrial exhaust gases using MDEA/PZ: Optimal design by process integration with organic rankine cycle** (2023)
-   11 citations · DAC
+   11 citations · General CDR
 
 ## External Profiles
 

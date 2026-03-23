@@ -1,7 +1,7 @@
 ---
 title: "Yuzhou Tang"
-description: "Yuzhou Tang is a Senior Biochar researcher at University of Leeds in GB. With 37 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.032098
+description: "Yuzhou Tang is a Senior General CDR researcher at University of Leeds in GB. With 37 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.474514
 url: "/cdr-researcher-census/researchers/yuzhou-tang-a5005792/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Leeds · 🇬🇧 GB
 
 ## CDR Specialization
 
-**Biochar**
+**General CDR**
 
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 15 |
 | Citations | 980 |
 | Publications | 37 |
-| CDR Focus | 10.8% |
+| CDR Focus | 810.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,13 +54,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    3 citations · General CDR
 
 2. **Toward Credible Carbon Dioxide Removal: Harmonized Accounting and Data Gaps Across Six CDR Approaches** (2026)
-   0 citations · BECCS
+   0 citations · DAC
 
 3. **Marginal Cost of Carbon Sequestration Using Straw-Based Biochar in Great Britain** (2026)
    0 citations · Biochar
 
 4. **Marginal cost of carbon sequestration using straw-based biochar in Great Britain** (2025)
-   0 citations · Biochar
+   0 citations
 
 ## External Profiles
 

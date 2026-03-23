@@ -1,7 +1,7 @@
 ---
 title: "Ankita Kandpal"
 description: "Ankita Kandpal is a Mid-career Soil Carbon researcher at Institute of Agricultural Economics in BG. With 19 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.846840
+date: 2026-03-23T11:47:00.790321
 url: "/cdr-researcher-census/researchers/ankita-kandpal-a5040515/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,16 +45,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 178 |
 | Publications | 19 |
-| CDR Focus | 10.5% |
+| CDR Focus | 530.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Carbon sequestration potential of sustainable agricultural practices to mitigate climate change in Indian agriculture: A meta-analysis** (2022)
-   60 citations · Biochar
+   60 citations · Soil Carbon
 
 2. **Carbon sequestration potential of agroforestry systems in Indian agricultural landscape: A Meta-Analysis** (2023)
-   38 citations · Soil Carbon
+   38 citations · General CDR
 
 ## External Profiles
 

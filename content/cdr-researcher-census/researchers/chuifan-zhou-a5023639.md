@@ -1,7 +1,7 @@
 ---
 title: "Chuifan Zhou"
 description: "Chuifan Zhou is a Senior Soil Carbon researcher at Nanjing Forestry University in CN. With 47 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.999724
+date: 2026-03-23T11:46:59.410240
 url: "/cdr-researcher-census/researchers/chuifan-zhou-a5023639/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 22 |
 | Citations | 1,193 |
 | Publications | 47 |
-| CDR Focus | 12.8% |
+| CDR Focus | 1060.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    45 citations · Soil Carbon
 
 2. **Continuous planting of Chinese fir monocultures significantly influences dissolved organic matter content and microbial assembly processes** (2024)
-   22 citations · Soil Carbon
+   22 citations
 
 3. **Microbial control of soil DOM transformation during the vegetation restoration in the Loess Plateau** (2024)
    20 citations · Soil Carbon

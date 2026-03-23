@@ -1,7 +1,7 @@
 ---
 title: "Papa Mamadou Sitor Ndour"
 description: "Papa Mamadou Sitor Ndour is a Mid-career Soil Carbon researcher at Université Paris-Est Créteil in FR. With 27 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.546422
+date: 2026-03-23T11:47:00.375048
 url: "/cdr-researcher-census/researchers/papa-mamadou-sitor-ndour-a5085284/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 265 |
 | Publications | 27 |
-| CDR Focus | 25.9% |
+| CDR Focus | 1110.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    10 citations · Soil Carbon
 
 2. **Exploring the significance of different amendments to improve phytoremediation efficiency: focus on soil ecosystem services** (2024)
-   5 citations · Soil Carbon
+   5 citations
 
 3. **Rhizodeposition efficiency of pearl millet genotypes assessed on short growing period by carbon isotopes (δ <sup>13</sup> C and F <sup>14</sup> C)** (2021)
    1 citations · Soil Carbon

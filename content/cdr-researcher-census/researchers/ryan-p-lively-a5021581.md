@@ -1,7 +1,7 @@
 ---
 title: "Ryan P. Lively"
-description: "Ryan P. Lively is an Eminent DAC researcher at Georgia Institute of Technology in US. With 317 publications and an h-index of 62, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.861814
+description: "Ryan P. Lively is an Eminent General CDR researcher at Georgia Institute of Technology in US. With 317 publications and an h-index of 62, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.079770
 url: "/cdr-researcher-census/researchers/ryan-p-lively-a5021581/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Georgia Institute of Technology · 🇺🇸 US
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,40 +45,40 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 62 |
 | Citations | 18,137 |
 | Publications | 317 |
-| CDR Focus | 12.6% |
+| CDR Focus | 1100.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Sub-Ambient Temperature Direct Air Capture of CO<sub>2</sub> using Amine-Impregnated MIL-101(Cr) Enables Ambient Temperature CO<sub>2</sub> Recovery** (2022)
-   168 citations · DAC
+   168 citations
 
 2. **Support Pore Structure and Composition Strongly Influence the Direct Air Capture of CO<sub>2</sub> on Supported Amines** (2023)
-   114 citations · DAC
+   114 citations
 
 3. **Research needs targeting direct air capture of carbon dioxide: Material &amp; process performance characteristics under realistic environmental conditions** (2022)
    94 citations · DAC
 
 4. **Sorbent-coated carbon fibers for direct air capture using electrically driven temperature swing adsorption** (2023)
-   76 citations · DAC
+   76 citations
 
 5. **Cold-Temperature Capture of Carbon Dioxide with Water Coproduction from Air Using Commercial Zeolites** (2022)
-   62 citations · DAC
+   62 citations
 
 6. **Tuning sorbent properties to reduce the cost of direct air capture** (2024)
-   49 citations · DAC
+   49 citations
 
 7. **Cold Temperature Direct Air CO<sub>2</sub> Capture with Amine-Loaded Metal–Organic Framework Monoliths** (2023)
-   46 citations · DAC
+   46 citations
 
 8. **Water management and heat integration in direct air capture systems** (2024)
-   37 citations · DAC
+   37 citations
 
 9. **Defining Targets for Adsorbent Material Performance to Enable Viable BECCS Processes** (2021)
    35 citations · BECCS
 
 10. **Amine-functionalized MIL-101(Cr) fibers for direct air capture at cold temperatures using rapid temperature vacuum swing adsorption** (2023)
-   29 citations · DAC
+   29 citations
 
 ## External Profiles
 

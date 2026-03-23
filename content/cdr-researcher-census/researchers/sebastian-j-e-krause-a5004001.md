@@ -1,7 +1,7 @@
 ---
 title: "Sebastian J. E. Krause"
-description: "Sebastian J. E. Krause is a Mid-career General CDR researcher at Planetary Science Institute in US. With 29 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.531508
+description: "Sebastian J. E. Krause is a Mid-career Ocean CDR researcher at Planetary Science Institute in US. With 29 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.352912
 url: "/cdr-researcher-census/researchers/sebastian-j-e-krause-a5004001/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Planetary Science Institute · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**Ocean CDR**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
 
 ## Metrics
 
@@ -45,19 +45,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 7 |
 | Citations | 270 |
 | Publications | 29 |
-| CDR Focus | 10.3% |
+| CDR Focus | 1030.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Comparing Kelp Conveyance Strategies for Marine Carbon Dioxide Removal with Farmed Macroalgae** (2023)
-   1 citations · General CDR
+   1 citations · Ocean CDR
 
 2. **On the Efficiency and Durability of Purposefully Sinking Seaweed Biomass as a Marine Carbon Dioxide Removal Strategy** (2025)
-   0 citations · General CDR
+   0 citations · Ocean CDR
 
 3. **Methods for assessing Giant Kelp (Macrocystis pyrifera) biomass sinking rates and decomposition for carbon dioxide removal applications** (2023)
-   0 citations · General CDR
+   0 citations · Ocean CDR
 
 ## External Profiles
 

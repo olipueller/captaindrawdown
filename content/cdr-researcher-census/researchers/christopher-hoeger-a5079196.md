@@ -1,7 +1,7 @@
 ---
 title: "Christopher Hoeger"
-description: "Christopher Hoeger is a Mid-career DAC researcher. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.136177
+description: "Christopher Hoeger is a Mid-career General CDR researcher. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.135985
 url: "/cdr-researcher-census/researchers/christopher-hoeger-a5079196/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,9 +26,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -37,16 +37,16 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 5 |
 | Citations | 130 |
 | Publications | 9 |
-| CDR Focus | 22.2% |
+| CDR Focus | 1110.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Cryogenic Carbon Capture™ Technoeconomic Analysis** (2021)
-   18 citations · DAC
+   18 citations · General CDR
 
 2. **Cryogenic Carbon Capture™ (CCC) Status Report** (2021)
-   12 citations · DAC
+   12 citations · General CDR
 
 ## External Profiles
 

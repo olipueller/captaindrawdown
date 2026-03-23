@@ -1,7 +1,7 @@
 ---
 title: "Chen Zhang"
-description: "Chen Zhang is a Mid-career DAC researcher at China University of Petroleum, Beijing in CN. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.587959
+description: "Chen Zhang is a Mid-career Biochar researcher at China University of Petroleum, Beijing in CN. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.429266
 url: "/cdr-researcher-census/researchers/chen-zhang-a5077610/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ China University of Petroleum, Beijing · 🇨🇳 CN
 
 ## CDR Specialization
 
-**DAC**
+**Biochar**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 5 |
 | Citations | 250 |
 | Publications | 6 |
-| CDR Focus | 16.7% |
+| CDR Focus | 1670.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Direct air capture of CO2 by KOH-activated bamboo biochar** (2022)
-   91 citations · DAC
+   91 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Qilong Song"
 description: "Qilong Song is a Mid-career Soil Carbon researcher at Gansu Agricultural University in CN. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.634466
+date: 2026-03-23T11:47:00.495008
 url: "/cdr-researcher-census/researchers/qilong-song-a5059444/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 233 |
 | Publications | 12 |
-| CDR Focus | 25.0% |
+| CDR Focus | 1670.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

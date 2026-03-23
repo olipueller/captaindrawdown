@@ -1,7 +1,7 @@
 ---
 title: "Angeliki Kourmouli"
-description: "Angeliki Kourmouli is a Mid-career Soil Carbon researcher at Department for Environment Food and Rural Affairs in GB. With 30 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.679169
+description: "Angeliki Kourmouli is a Mid-career General CDR researcher at Department for Environment Food and Rural Affairs in GB. With 30 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.551788
 url: "/cdr-researcher-census/researchers/angeliki-kourmouli-a5046458/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Department for Environment Food and Rural Affairs · 🇬🇧 GB
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,19 +45,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 221 |
 | Publications | 30 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Quantification and uncertainty of root growth stimulation by elevated CO2 in a mature temperate deciduous forest** (2022)
-   18 citations · Soil Carbon
+   18 citations
 
 2. **Quantification and uncertainty of root growth stimulation by elevated CO <sub>2</sub> in mature temperate deciduous forest** (2021)
-   3 citations · Soil Carbon
+   3 citations · General CDR
 
 3. **Does elevated CO2 alter root architecture and biomass after 5 years in a mature temperate woodland?** (2023)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Hung-Ta Wu"
-description: "Hung-Ta Wu is a Mid-career General CDR researcher at National Ilan University in TW. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.006139
+description: "Hung-Ta Wu is a Mid-career carbon dioxide removal researcher at National Ilan University in TW. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.996377
 url: "/cdr-researcher-census/researchers/hung-ta-wu-a5068229/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ National Ilan University · 🇹🇼 TW
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,16 +39,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 6 |
 | Citations | 148 |
 | Publications | 17 |
-| CDR Focus | 11.8% |
+| CDR Focus | 590.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Antibacterial nano-fibers of carbon quantum dot/titanium dioxide by electrospinning for the removal of particulate matter and volatile organic compounds** (2024)
-   10 citations · General CDR
+   10 citations
 
 2. **Discussions on the Adsorption Behaviors Affected by the Differences Between Graphene Oxide and Graphene Grafted by Chitosan** (2025)
-   2 citations · General CDR
+   2 citations
 
 ## External Profiles
 

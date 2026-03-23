@@ -1,7 +1,7 @@
 ---
 title: "Timothée Bourgeois"
-description: "Timothée Bourgeois is a Mid-career Ocean CDR researcher at Bjerknes Centre for Climate Research in NO. With 47 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.305978
+description: "Timothée Bourgeois is a Mid-career General CDR researcher at Bjerknes Centre for Climate Research in NO. With 47 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.984563
 url: "/cdr-researcher-census/researchers/timothee-bourgeois-a5041193/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Bjerknes Centre for Climate Research · 🇳🇴 NO
 
 ## CDR Specialization
 
-**Ocean CDR**
+**General CDR**
 
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 8 |
 | Citations | 406 |
 | Publications | 47 |
-| CDR Focus | 23.4% |
+| CDR Focus | 2340.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **On the emission-path dependency of the efficiency of ocean alkalinity enhancement** (2024)
-   14 citations · General CDR
+   14 citations · Ocean CDR
 
 2. **Efficacy of individual and combined terrestrial and marine carbon dioxide removal** (2025)
    0 citations · BECCS
@@ -66,16 +66,16 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    0 citations · General CDR
 
 6. **Representing carbon dioxide removal in Earth System Models: towards an activity-driven framework.** (2025)
-   0 citations · BECCS
+   0 citations · General CDR
 
 7. **Towards Net Zero: Evaluating Combined Terrestrial and Marine CDR Approaches** (2025)
-   0 citations · BECCS
+   0 citations · General CDR
 
 8. **On the emission-scenario dependence of the efficiency of ocean alkalinity enhancement** (2024)
    0 citations · General CDR
 
 9. **CO2 Removal Potential of Two Ocean-based NETs in Earth System Models in a Realistic Deployment Scenario** (2024)
-   0 citations · Ocean CDR
+   0 citations · General CDR
 
 10. **Ocean carbon cycle feedbacks and the seasonal cycle of the carbonate system under ocean alkalinization** (2023)
    0 citations · Ocean CDR

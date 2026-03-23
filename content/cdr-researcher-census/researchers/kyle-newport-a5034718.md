@@ -1,7 +1,7 @@
 ---
 title: "Kyle Newport"
 description: "Kyle Newport is a Mid-career DAC researcher at All-Russian Research Institute for Optical and Physical Measurements in RU. With 22 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.164778
+date: 2026-03-23T11:46:59.734946
 url: "/cdr-researcher-census/researchers/kyle-newport-a5034718/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 15 |
 | Citations | 584 |
 | Publications | 22 |
-| CDR Focus | 18.2% |
+| CDR Focus | 1820.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -51,13 +51,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    48 citations · DAC
 
 2. **Formulation and processing of dual functional Adsorbent/Catalyst structured monoliths using an additively manufactured contactor for direct Capture/Conversion of CO2 with cogeneration of ethylene** (2021)
-   36 citations · DAC
+   36 citations
 
 3. **Adsorption-Enhanced Bifunctional Catalysts for In Situ CO<sub>2</sub> Capture and Utilization in Propylene Production: A Proof-Of-Concept Study** (2022)
-   33 citations · DAC
+   33 citations
 
 4. **Magnetic-Induced Swing Adsorption Using Fe <sub>3</sub> O <sub>4</sub> /SBA-15-PEI for Rapid and Energy-Efficient Direct Air Capture** (2025)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

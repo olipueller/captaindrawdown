@@ -1,7 +1,7 @@
 ---
 title: "Kate A. Ballantine"
 description: "Kate A. Ballantine is a Mid-career Biochar researcher at Mount Holyoke College in US. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.909233
+date: 2026-03-23T11:46:59.193910
 url: "/cdr-researcher-census/researchers/kate-a-ballantine-a5003982/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 7 |
 | Citations | 2,990 |
 | Publications | 10 |
-| CDR Focus | 20.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

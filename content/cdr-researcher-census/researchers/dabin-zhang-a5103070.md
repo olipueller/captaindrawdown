@@ -1,7 +1,7 @@
 ---
 title: "Dabin Zhang"
 description: "Dabin Zhang is a Mid-career Soil Carbon researcher at North West Agriculture and Forestry University in CN. With 22 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.125599
+date: 2026-03-23T11:46:59.657282
 url: "/cdr-researcher-census/researchers/dabin-zhang-a5103070/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 14 |
 | Citations | 660 |
 | Publications | 22 |
-| CDR Focus | 13.6% |
+| CDR Focus | 1360.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    1 citations · Soil Carbon
 
 2. **Long-term green manuring reduces net greenhouse gas emissions in upland cropping systems in China** (2025)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 3. **Capacity and key drivers for reducing the environmental costs of crop production under future climate scenarios by using green manure** (2025)
    0 citations · Soil Carbon

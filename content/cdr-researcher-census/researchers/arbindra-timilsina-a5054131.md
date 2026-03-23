@@ -1,7 +1,7 @@
 ---
 title: "Arbindra Timilsina"
 description: "Arbindra Timilsina is a Mid-career Soil Carbon researcher at Center for Agricultural Resources Research in CN. With 30 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.366594
+date: 2026-03-23T11:47:00.081777
 url: "/cdr-researcher-census/researchers/arbindra-timilsina-a5054131/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 11 |
 | Citations | 361 |
 | Publications | 30 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    4 citations · Soil Carbon
 
 3. **Understanding carbon storage dynamics in Ayeyarwady delta's mangrove ecosystem in Myanmar: insights for restoration efforts** (2024)
-   2 citations · Soil Carbon
+   2 citations · General CDR
 
 ## External Profiles
 

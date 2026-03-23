@@ -1,7 +1,7 @@
 ---
 title: "Jeewan Gamage"
 description: "Jeewan Gamage is an Early-career Soil Carbon researcher at University of Guelph in CA. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.156451
+date: 2026-03-23T11:46:59.717913
 url: "/cdr-researcher-census/researchers/jeewan-gamage-a5089182/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,16 +45,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 3 |
 | Citations | 602 |
 | Publications | 5 |
-| CDR Focus | 60.0% |
+| CDR Focus | 6000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Role of organic farming for achieving sustainability in agriculture** (2023)
-   505 citations · Soil Carbon
+   505 citations · General CDR
 
 2. **Chemical composition of soil humin in an organic soil profile** (2024)
-   14 citations · Soil Carbon
+   14 citations
 
 3. **Evidence for the formation of recalcitrant carboxyl-rich alicyclic molecules (CRAM) in an organic soil profile** (2024)
    0 citations · Soil Carbon

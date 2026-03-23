@@ -1,7 +1,7 @@
 ---
 title: "Olivier Dubé"
-description: "Olivier Dubé is a Mid-career DAC researcher at Université Laval in CA. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.498578
+description: "Olivier Dubé is a Mid-career carbon dioxide removal researcher at Université Laval in CA. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.303813
 url: "/cdr-researcher-census/researchers/olivier-dube-a5027914/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Université Laval · 🇨🇦 CA
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 5 |
 | Citations | 283 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Co2-water Co-adsorption Measurements and Process Modelling of Amine-functionalised Polymeric Resins for Direct Air Capture** (2025)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

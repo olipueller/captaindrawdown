@@ -1,7 +1,7 @@
 ---
 title: "Guillermo Galán"
-description: "Guillermo Galán is a Senior DAC researcher at Universidad de Salamanca in ES. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.008781
+description: "Guillermo Galán is a Senior General CDR researcher at Universidad de Salamanca in ES. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.998206
 url: "/cdr-researcher-census/researchers/guillermo-galan-a5013594/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Universidad de Salamanca · 🇪🇸 ES
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,16 +45,16 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 7 |
 | Citations | 148 |
 | Publications | 17 |
-| CDR Focus | 11.8% |
+| CDR Focus | 1180.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Systematic comparison of natural and engineering methods of capturing CO2 from the air and its utilization** (2023)
-   21 citations · DAC
+   21 citations · BECCS
 
 2. **Nature vs engineering: Production of methanol from CO2 capture** (2022)
-   0 citations · DAC
+   0 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Hongqian Hou"
 description: "Hongqian Hou is a Senior Soil Carbon researcher at Jiangxi Institute of Red Soil in CN. With 27 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.200376
+date: 2026-03-23T11:46:59.795781
 url: "/cdr-researcher-census/researchers/hongqian-hou-a5101094/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 528 |
 | Publications | 27 |
-| CDR Focus | 11.1% |
+| CDR Focus | 740.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

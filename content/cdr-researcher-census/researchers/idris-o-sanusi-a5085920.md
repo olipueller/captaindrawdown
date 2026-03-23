@@ -1,7 +1,7 @@
 ---
 title: "Idris O. Sanusi"
-description: "Idris O. Sanusi is an Early-career Soil Carbon researcher at Kampala International University in UG. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.043076
+description: "Idris O. Sanusi is an Early-career Biochar researcher at Kampala International University in UG. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.034691
 url: "/cdr-researcher-census/researchers/idris-o-sanusi-a5085920/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Kampala International University ·  UG
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 3 |
 | Citations | 143 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

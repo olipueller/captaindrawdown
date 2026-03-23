@@ -1,7 +1,7 @@
 ---
 title: "Anna Walkiewicz"
 description: "Anna Walkiewicz is a Mid-career Soil Carbon researcher at Institute of Agrophysics, Polish Academy of Sciences in PL. With 50 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.083113
+date: 2026-03-23T11:46:59.579623
 url: "/cdr-researcher-census/researchers/anna-walkiewicz-a5080201/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 17 |
 | Citations | 771 |
 | Publications | 50 |
-| CDR Focus | 12.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -63,7 +63,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    8 citations · Soil Carbon
 
 5. **Editorial: The contribution of managed forestry and the driving variables in climate change mitigation and adaptation** (2024)
-   0 citations · BECCS
+   0 citations · Soil Carbon
 
 6. **Variability in soil CO2 fluxes across a range of forest types and edaphic conditions** (2021)
    0 citations · Soil Carbon

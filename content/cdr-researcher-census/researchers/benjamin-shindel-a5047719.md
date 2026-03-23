@@ -1,7 +1,7 @@
 ---
 title: "Benjamin Shindel"
-description: "Benjamin Shindel is a Mid-career DAC researcher. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.748130
+description: "Benjamin Shindel is a Mid-career General CDR researcher. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.643186
 url: "/cdr-researcher-census/researchers/benjamin-shindel-a5047719/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,9 +29,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -40,16 +40,16 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 5 |
 | Citations | 201 |
 | Publications | 13 |
-| CDR Focus | 15.4% |
+| CDR Focus | 1540.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Expanding the Library of Ions for Moisture-Swing Carbon Capture** (2023)
-   20 citations · DAC
+   20 citations
 
 2. **Platform Materials for Moisture-Swing Carbon Capture** (2025)
-   5 citations · DAC
+   5 citations · General CDR
 
 ## External Profiles
 

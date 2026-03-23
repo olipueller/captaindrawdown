@@ -1,7 +1,7 @@
 ---
 title: "Philipp Porada"
-description: "Philipp Porada is a Senior Enhanced Weathering researcher at Universität Hamburg in DE. With 113 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.933303
+description: "Philipp Porada is a Senior Soil Carbon researcher at Universität Hamburg in DE. With 113 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.258015
 url: "/cdr-researcher-census/researchers/philipp-porada-a5008250/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Universität Hamburg · 🇩🇪 DE
 
 ## CDR Specialization
 
-**Enhanced Weathering**
+**Soil Carbon**
 
-Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
 
 ## Metrics
 
@@ -45,16 +45,16 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 21 |
 | Citations | 2,047 |
 | Publications | 113 |
-| CDR Focus | 12.4% |
+| CDR Focus | 800.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **A dynamic local-scale vegetation model for lycopsids (LYCOm v1.0)** (2022)
-   3 citations · Enhanced Weathering
+   3 citations · Soil Carbon
 
 2. **A dynamic local scale vegetation model for lycophytes (LYCOm)** (2021)
-   2 citations · Enhanced Weathering
+   2 citations · Soil Carbon
 
 3. **Long-term carbon dioxide removal potential from the application of wood biochar and basanite rock powder in sandy soil using the LiDELSv2 process-based modeling approach** (2025)
    1 citations · Biochar

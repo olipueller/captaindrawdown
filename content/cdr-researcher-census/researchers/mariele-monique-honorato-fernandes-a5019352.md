@@ -1,7 +1,7 @@
 ---
 title: "Mariele Monique Honorato Fernandes"
-description: "Mariele Monique Honorato Fernandes is a Mid-career Soil Carbon researcher at Universidade Estadual Paulista (Unesp) in BR. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.062167
+description: "Mariele Monique Honorato Fernandes is a Mid-career carbon dioxide removal researcher at Universidade Estadual Paulista (Unesp) in BR. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.055184
 url: "/cdr-researcher-census/researchers/mariele-monique-honorato-fernandes-a5019352/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Universidade Estadual Paulista (Unesp) · 🇧🇷 BR
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 140 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Contribution of tillage systems and crop succession to soil structuring** (2021)
-   17 citations · Soil Carbon
+   17 citations
 
 ## External Profiles
 

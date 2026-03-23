@@ -1,7 +1,7 @@
 ---
 title: "Julie A. Fowler"
 description: "Julie A. Fowler is a Mid-career Soil Carbon researcher at Rocky Mountain Research Station in US. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.559326
+date: 2026-03-23T11:47:00.393514
 url: "/cdr-researcher-census/researchers/julie-a-fowler-a5033297/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 260 |
 | Publications | 13 |
-| CDR Focus | 15.4% |
+| CDR Focus | 770.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

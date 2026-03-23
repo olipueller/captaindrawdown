@@ -1,7 +1,7 @@
 ---
 title: "Yongzhong Feng"
 description: "Yongzhong Feng is a Mid-career Soil Carbon researcher at Northwest A&F University in CN. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.677649
+date: 2026-03-23T11:47:00.550631
 url: "/cdr-researcher-census/researchers/yongzhong-feng-a5039705/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 221 |
 | Publications | 13 |
-| CDR Focus | 15.4% |
+| CDR Focus | 1540.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Toward Low-Emission Agriculture: Synergistic Contribution of Inorganic Nitrogen and Organic Fertilizers to GHG Emissions and Strategies for Mitigation** (2025)
-   6 citations · Biochar
+   6 citations
 
 2. **Divergent mechanisms of rhizosphere and non-rhizosphere soil organic carbon sequestration under precipitation variability: Evidence from microbial life-history strategies** (2025)
    4 citations · Soil Carbon

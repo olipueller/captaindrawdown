@@ -1,7 +1,7 @@
 ---
 title: "Rabia Amen"
 description: "Rabia Amen is a Mid-career Biochar researcher at Mississippi State University in US. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.069938
+date: 2026-03-23T11:46:59.553636
 url: "/cdr-researcher-census/researchers/rabia-amen-a5070116/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 9 |
 | Citations | 816 |
 | Publications | 20 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

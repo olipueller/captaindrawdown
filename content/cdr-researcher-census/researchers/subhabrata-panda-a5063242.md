@@ -1,7 +1,7 @@
 ---
 title: "Subhabrata Panda"
 description: "Subhabrata Panda is a Mid-career Soil Carbon researcher at Bidhan Chandra Krishi Viswavidyalaya in IN. With 29 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.007961
+date: 2026-03-23T11:46:59.429617
 url: "/cdr-researcher-census/researchers/subhabrata-panda-a5063242/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 3 |
 | Citations | 1,121 |
 | Publications | 29 |
-| CDR Focus | 20.7% |
+| CDR Focus | 690.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,19 +54,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    8 citations · Soil Carbon
 
 2. **Agroforestry for Sustainable and Improved Livelihoods Through Value Addition and Animal Husbandry** (2025)
-   1 citations · Soil Carbon
+   1 citations · General CDR
 
 3. **Agroforestry: Mitigating Climate Change Through Carbon Sequestration** (2025)
-   1 citations · Soil Carbon
+   1 citations · General CDR
 
 4. **Agroforestry: Improving Soil Health and Healthy Food Production** (2025)
-   1 citations · Enhanced Weathering
+   1 citations · Soil Carbon
 
 5. **Agroforestry: Helping Soil Organic Carbon Built-up** (2025)
    1 citations · Soil Carbon
 
 6. **Concluding Remarks: Agroforestry—Nature-Based Solution for Food Security** (2025)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

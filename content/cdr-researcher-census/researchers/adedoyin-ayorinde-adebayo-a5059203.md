@@ -1,7 +1,7 @@
 ---
 title: "Adedoyin Ayorinde Adebayo"
-description: "Adedoyin Ayorinde Adebayo is a Mid-career Soil Carbon researcher at Federal University of Petroleum Resource Effurun in NG. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.335109
+description: "Adedoyin Ayorinde Adebayo is a Mid-career General CDR researcher at Federal University of Petroleum Resource Effurun in NG. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.024054
 url: "/cdr-researcher-census/researchers/adedoyin-ayorinde-adebayo-a5059203/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Federal University of Petroleum Resource Effurun ·  NG
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 3 |
 | Citations | 386 |
 | Publications | 5 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Potentials of bamboo and its ecological benefits in Nigeria** (2023)
-   40 citations · Soil Carbon
+   40 citations · General CDR
 
 ## External Profiles
 

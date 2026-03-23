@@ -1,7 +1,7 @@
 ---
 title: "Gurmeet Singh Dheri"
 description: "Gurmeet Singh Dheri is a Senior Soil Carbon researcher at Punjab Agricultural University in IN. With 60 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.984293
+date: 2026-03-23T11:46:59.369214
 url: "/cdr-researcher-census/researchers/gurmeet-singh-dheri-a5028235/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 17 |
 | Citations | 1,330 |
 | Publications | 60 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,10 +54,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    33 citations · Soil Carbon
 
 2. **A review on carbon pools and sequestration as influenced by long-term management practices in a rice–wheat cropping system** (2021)
-   31 citations · Soil Carbon
+   31 citations · General CDR
 
 3. **Influence of different management practices on carbon sequestration of agricultural soils – a review** (2022)
-   8 citations · Biochar
+   8 citations · General CDR
 
 4. **Management of Saline and Sodic Soils for Carbon Sequestration** (2025)
    5 citations · Soil Carbon

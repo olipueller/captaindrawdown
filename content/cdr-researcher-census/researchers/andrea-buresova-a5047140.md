@@ -1,7 +1,7 @@
 ---
 title: "Andrea Burešová"
 description: "Andrea Burešová is a Mid-career Soil Carbon researcher. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.576312
+date: 2026-03-23T11:47:00.416576
 url: "/cdr-researcher-census/researchers/andrea-buresova-a5047140/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,13 +40,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 254 |
 | Publications | 14 |
-| CDR Focus | 21.4% |
+| CDR Focus | 1430.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Litter chemical quality and bacterial community structure influenced decomposition in acidic forest soil** (2021)
-   24 citations · Soil Carbon
+   24 citations
 
 2. **Tree species influence carbon quality but not total storage across soil horizons: a comparison of European beech and Norway spruce** (2025)
    0 citations · Soil Carbon

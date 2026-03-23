@@ -1,7 +1,7 @@
 ---
 title: "I. B. Kantola"
 description: "I. B. Kantola is a Mid-career Enhanced Weathering researcher. With 58 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.958850
+date: 2026-03-23T11:46:59.309287
 url: "/cdr-researcher-census/researchers/i-b-kantola-a5084112/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 18 |
 | Citations | 1,636 |
 | Publications | 58 |
-| CDR Focus | 24.1% |
+| CDR Focus | 1720.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -49,7 +49,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    143 citations · Enhanced Weathering
 
 2. **Enhanced weathering in the US Corn Belt delivers carbon removal with agronomic benefits** (2024)
-   110 citations · Enhanced Weathering
+   110 citations
 
 3. **Improved net carbon budgets in the <scp>US</scp> Midwest through direct measured impacts of enhanced weathering** (2023)
    74 citations · Enhanced Weathering
@@ -64,7 +64,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    5 citations · Enhanced Weathering
 
 7. **Improving nitrogen cycling in a land surface model (CLM5) to quantify soil N <sub>2</sub> O, NO and NH <sub>3</sub> emissions from enhanced rock weathering with croplands** (2023)
-   4 citations · Enhanced Weathering
+   4 citations
 
 8. **Validating assumptions in calculating carbon dioxide removal by enhanced rock weathering in Kantola et al., 2023** (2023)
    2 citations · Enhanced Weathering

@@ -1,7 +1,7 @@
 ---
 title: "Enke Liu"
 description: "Enke Liu is an Early-career Soil Carbon researcher at Shanxi Agricultural University in CN. With 20 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.362160
+date: 2026-03-23T11:47:01.377627
 url: "/cdr-researcher-census/researchers/enke-liu-a5032478/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 106 |
 | Publications | 20 |
-| CDR Focus | 15.0% |
+| CDR Focus | 1500.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    3 citations · Soil Carbon
 
 3. **The over-estimation of long-term mineral fertilizer on CO2 release from soil carbonates** (2025)
-   3 citations · Soil Carbon
+   3 citations
 
 ## External Profiles
 

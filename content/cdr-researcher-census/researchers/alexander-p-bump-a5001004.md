@@ -1,7 +1,7 @@
 ---
 title: "Alexander P. Bump"
 description: "Alexander P. Bump is a Senior General CDR researcher at Bureau of Economic Analysis in US. With 45 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.087393
+date: 2026-03-23T11:46:59.587762
 url: "/cdr-researcher-census/researchers/alexander-p-bump-a5001004/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 13 |
 | Citations | 759 |
 | Publications | 45 |
-| CDR Focus | 15.6% |
+| CDR Focus | 670.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -57,19 +57,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    2 citations · General CDR
 
 3. **Gulf Coast Storage Projects: Plays, Business Models and Predictions** (2024)
-   1 citations · DAC
+   1 citations · General CDR
 
 4. **The Potential and Cost of Carbon Dioxide Removal Using Direct Air Capture with Land-Based Wind and Utility-Scale Photovoltaics** (2026)
    0 citations · DAC
 
 5. **The potential and cost of carbon dioxide removal using direct air capture with land-based wind and utility-scale photovoltaics** (2024)
-   0 citations · DAC
+   0 citations
 
 6. **The potential and cost of carbon dioxide removal using direct air capture with land-based wind and utility-scale photovoltaics** (2024)
-   0 citations · DAC
+   0 citations
 
 7. **The potential and cost of carbon dioxide removal using direct air capture with land-based wind and utility-scale photovoltaics** (2024)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

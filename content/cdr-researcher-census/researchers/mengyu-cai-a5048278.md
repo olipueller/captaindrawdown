@@ -1,7 +1,7 @@
 ---
 title: "Mengyu Cai"
 description: "Mengyu Cai is a Mid-career Biochar researcher at Sun Yat-sen University in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.752827
+date: 2026-03-23T11:47:00.650285
 url: "/cdr-researcher-census/researchers/mengyu-cai-a5048278/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 7 |
 | Citations | 200 |
 | Publications | 12 |
-| CDR Focus | 16.7% |
+| CDR Focus | 830.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

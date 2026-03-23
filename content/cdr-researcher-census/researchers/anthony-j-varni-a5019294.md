@@ -1,7 +1,7 @@
 ---
 title: "Anthony J. Varni"
-description: "Anthony J. Varni is a Mid-career DAC researcher at Lawrence Livermore National Laboratory in US. With 28 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.526939
+description: "Anthony J. Varni is a Mid-career carbon dioxide removal researcher at Lawrence Livermore National Laboratory in US. With 28 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.346613
 url: "/cdr-researcher-census/researchers/anthony-j-varni-a5019294/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Lawrence Livermore National Laboratory · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,31 +39,31 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 9 |
 | Citations | 272 |
 | Publications | 28 |
-| CDR Focus | 25.0% |
+| CDR Focus | 2500.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Probing the Kinetic Origin of Varying Oxidative Stability of Ethyl‐ vs. Propyl‐spaced Amines for Direct Air Capture** (2022)
-   22 citations · DAC
+   22 citations
 
 2. **Competing Kinetic Consequences of CO<sub>2</sub> on the Oxidative Degradation of Branched Poly(ethylenimine)** (2024)
-   14 citations · DAC
+   14 citations
 
 3. **Oxidation of Supported Amines for CO <sub>2</sub> Direct Air Capture: Assessing Impact on Physical Properties and Mobility via NMR Relaxometry** (2024)
-   11 citations · DAC
+   11 citations
 
 4. **Understanding the Role of Hydroxyl Functionalization in Linear Poly(Ethylenimine) for Oxidation‐Resistant Direct Air Capture of CO <sub>2</sub>** (2025)
-   5 citations · DAC
+   5 citations
 
 5. **Understanding and mitigating degradation in amine-based sorbents for CO2 direct air capture** (2026)
-   0 citations · DAC
+   0 citations
 
 6. **Understanding the Role of Hydroxyl Functionalization in Linear Poly(ethylenimine) for Oxidation-Resistant Direct Air Capture of CO2** (2024)
-   0 citations · DAC
+   0 citations
 
 7. **Proposed synthesis of a linear poly-ethylenimine with hydroxyl pendants substituents at the adjacent carbon** (2023)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

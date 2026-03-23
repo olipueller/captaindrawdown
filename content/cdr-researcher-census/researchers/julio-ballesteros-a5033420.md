@@ -1,7 +1,7 @@
 ---
 title: "Julio Ballesteros"
-description: "Julio Ballesteros is a Senior BECCS researcher at Universidad de Salamanca in ES. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.248672
+description: "Julio Ballesteros is a Senior General CDR researcher at Universidad de Salamanca in ES. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.256898
 url: "/cdr-researcher-census/researchers/julio-ballesteros-a5033420/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Universidad de Salamanca · 🇪🇸 ES
 
 ## CDR Specialization
 
-**BECCS**
+**General CDR**
 
-Combining biomass energy with carbon capture and storage to achieve negative emissions.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 2 |
 | Citations | 117 |
 | Publications | 2 |
-| CDR Focus | 50.0% |
+| CDR Focus | 5000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Hubs and clusters approach to unlock the development of carbon capture and storage – Case study in Spain** (2021)
-   90 citations · BECCS
+   90 citations · General CDR
 
 ## External Profiles
 

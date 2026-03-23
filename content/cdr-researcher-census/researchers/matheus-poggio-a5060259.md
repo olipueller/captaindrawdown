@@ -1,7 +1,7 @@
 ---
 title: "Matheus Poggio"
 description: "Matheus Poggio is a Mid-career BECCS researcher at Universidade Federal do Rio de Janeiro in BR. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.256869
+date: 2026-03-23T11:47:01.266851
 url: "/cdr-researcher-census/researchers/matheus-poggio-a5060259/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 4 |
 | Citations | 116 |
 | Publications | 5 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

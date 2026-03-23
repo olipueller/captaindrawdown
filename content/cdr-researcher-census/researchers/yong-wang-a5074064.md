@@ -1,7 +1,7 @@
 ---
 title: "Yong Wang"
-description: "Yong Wang is a Mid-career Soil Carbon researcher at National Renewable Energy Laboratory in US. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.745137
+description: "Yong Wang is a Mid-career General CDR researcher at National Renewable Energy Laboratory in US. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.639647
 url: "/cdr-researcher-census/researchers/yong-wang-a5074064/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ National Renewable Energy Laboratory · 🇺🇸 US
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 202 |
 | Publications | 9 |
-| CDR Focus | 22.2% |
+| CDR Focus | 2220.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    76 citations · Soil Carbon
 
 2. **Pathways for Agricultural Decarbonization in the United States** (2024)
-   1 citations · Biochar
+   1 citations · General CDR
 
 ## External Profiles
 

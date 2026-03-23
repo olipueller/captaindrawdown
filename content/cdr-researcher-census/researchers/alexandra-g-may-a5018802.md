@@ -1,7 +1,7 @@
 ---
 title: "Alexandra G. May"
-description: "Alexandra G. May is a Mid-career General CDR researcher at ATI Inc. (United States) in US. With 23 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.619950
+description: "Alexandra G. May is a Mid-career carbon dioxide removal researcher at ATI Inc. (United States) in US. With 23 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.472822
 url: "/cdr-researcher-census/researchers/alexandra-g-may-a5018802/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ ATI Inc. (United States) · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,22 +36,22 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 10 |
 | Citations | 238 |
 | Publications | 23 |
-| CDR Focus | 17.4% |
+| CDR Focus | 870.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Extracorporeal Carbon Dioxide Removal With the Hemolung in Patients With Acute Respiratory Failure: A Multicenter Retrospective Cohort Study*** (2023)
-   38 citations · General CDR
+   38 citations
 
 2. **Extracorporeal Carbon Dioxide Removal to Avoid Invasive Ventilation During Exacerbations of Chronic Obstructive Pulmonary Disease: VENT-AVOID Trial – A Randomized Clinical Trial** (2024)
-   17 citations · General CDR
+   17 citations
 
 3. **A Proof of Concept Study, Demonstrating Extracorporeal Carbon Dioxide Removal Using Hemodialysis with a Low Bicarbonate Dialysate** (2024)
-   0 citations · General CDR
+   0 citations
 
 4. **Extracorporeal Carbon Dioxide Removal With the Hemolung in Patients With Acute-on-Chronic Respiratory Failure: A Multicenter Retrospective Cohort Study** (2024)
-   0 citations · General CDR
+   0 citations
 
 ## External Profiles
 

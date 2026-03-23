@@ -1,7 +1,7 @@
 ---
 title: "Qinlei Rong"
 description: "Qinlei Rong is a Mid-career Biochar researcher at Ministry of Education of the People's Republic of China in CN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.512330
+date: 2026-03-23T11:47:00.324952
 url: "/cdr-researcher-census/researchers/qinlei-rong-a5010609/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 5 |
 | Citations | 278 |
 | Publications | 13 |
-| CDR Focus | 15.4% |
+| CDR Focus | 1540.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Thomas Guillaume"
 description: "Thomas Guillaume is a Senior Soil Carbon researcher at Agroscope Standort Changins in CH. With 93 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.919877
+date: 2026-03-23T11:46:59.220155
 url: "/cdr-researcher-census/researchers/thomas-guillaume-a5021176/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 25 |
 | Citations | 2,540 |
 | Publications | 93 |
-| CDR Focus | 11.8% |
+| CDR Focus | 1080.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    49 citations · Soil Carbon
 
 4. **Carbon storage in agricultural topsoils and subsoils is promoted by including temporary grasslands into the crop rotation** (2022)
-   38 citations · Soil Carbon
+   38 citations · General CDR
 
 5. **Marginal land conversion to perennial energy crops with biomass removal enhances soil carbon sequestration** (2022)
    35 citations · Soil Carbon

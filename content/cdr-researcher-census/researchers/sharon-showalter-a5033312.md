@@ -1,7 +1,7 @@
 ---
 title: "Sharon Showalter"
-description: "Sharon Showalter is a Senior DAC researcher at Vatican Secret Archives in VA. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.567648
+description: "Sharon Showalter is a Senior General CDR researcher at Vatican Secret Archives in VA. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.404666
 url: "/cdr-researcher-census/researchers/sharon-showalter-a5033312/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Vatican Secret Archives ·  VA
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,7 +42,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 8 |
 | Citations | 256 |
 | Publications | 14 |
-| CDR Focus | 21.4% |
+| CDR Focus | 2140.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

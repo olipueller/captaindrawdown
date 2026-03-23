@@ -1,7 +1,7 @@
 ---
 title: "Robert Obenaus-Emler"
-description: "Robert Obenaus-Emler is a Mid-career Soil Carbon researcher at Montanuniversität Leoben in AT. With 24 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.388523
+description: "Robert Obenaus-Emler is a Mid-career Biochar researcher at Montanuniversität Leoben in AT. With 24 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.113928
 url: "/cdr-researcher-census/researchers/robert-obenaus-emler-a5087095/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Montanuniversität Leoben · 🇦🇹 AT
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 345 |
 | Publications | 24 |
-| CDR Focus | 12.5% |
+| CDR Focus | 830.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    1 citations · Biochar
 
 2. **Carbon from Methane Plasmalysis in Agriculture: from Low-emission Hydrogen to Soil-health** (2026)
-   0 citations · Soil Carbon
+   0 citations · Biochar
 
 3. **The Potential of Carbon from Methane Plasmalysis as a Soil Amendment** (2025)
    0 citations · Biochar

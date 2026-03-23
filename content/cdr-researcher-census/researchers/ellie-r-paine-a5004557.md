@@ -1,7 +1,7 @@
 ---
 title: "Ellie R. Paine"
 description: "Ellie R. Paine is a Mid-career Ocean CDR researcher at University of Tasmania in AU. With 14 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.168235
+date: 2026-03-23T11:46:59.739267
 url: "/cdr-researcher-census/researchers/ellie-r-paine-a5004557/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 11 |
 | Citations | 579 |
 | Publications | 14 |
-| CDR Focus | 21.4% |
+| CDR Focus | 1430.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,10 +54,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    153 citations · General CDR
 
 2. **Potential negative effects of ocean afforestation on offshore ecosystems** (2022)
-   76 citations · General CDR
+   76 citations · Ocean CDR
 
 3. **Iron limitation of kelp growth may prevent ocean afforestation** (2023)
-   31 citations · General CDR
+   31 citations · Ocean CDR
 
 ## External Profiles
 

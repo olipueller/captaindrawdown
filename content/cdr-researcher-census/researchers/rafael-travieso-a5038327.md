@@ -1,7 +1,7 @@
 ---
 title: "Rafael Travieso"
 description: "Rafael Travieso is a Mid-career Soil Carbon researcher at Florida International University in US. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.131289
+date: 2026-03-23T11:47:01.130855
 url: "/cdr-researcher-census/researchers/rafael-travieso-a5038327/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 131 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

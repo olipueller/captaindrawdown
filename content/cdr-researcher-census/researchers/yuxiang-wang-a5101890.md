@@ -1,7 +1,7 @@
 ---
 title: "Yuxiang Wang"
-description: "Yuxiang Wang is a Mid-career DAC researcher at Georgia Institute of Technology in US. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.583858
+description: "Yuxiang Wang is a Mid-career carbon dioxide removal researcher at Georgia Institute of Technology in US. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.424730
 url: "/cdr-researcher-census/researchers/yuxiang-wang-a5101890/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Georgia Institute of Technology · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 2 |
 | Citations | 251 |
 | Publications | 3 |
-| CDR Focus | 33.3% |
+| CDR Focus | 3330.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **“Hybridizing heat-integrated 3D printed modules with mass manufacturable, low pressure drop fiber sorbents” (Final Report)** (2024)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

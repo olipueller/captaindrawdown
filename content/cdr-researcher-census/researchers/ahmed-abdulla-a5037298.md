@@ -1,7 +1,7 @@
 ---
 title: "Ahmed Abdulla"
-description: "Ahmed Abdulla is a Senior DAC researcher at Carleton University in CA. With 58 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.028440
+description: "Ahmed Abdulla is a Senior General CDR researcher at Carleton University in CA. With 58 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.469663
 url: "/cdr-researcher-census/researchers/ahmed-abdulla-a5037298/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Carleton University · 🇨🇦 CA
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 16 |
 | Citations | 993 |
 | Publications | 58 |
-| CDR Focus | 10.3% |
+| CDR Focus | 1030.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -60,7 +60,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    2 citations · DAC
 
 4. **An open-source dynamic model for direct air capture of carbon dioxide using solid sorbents** (2025)
-   0 citations · DAC
+   0 citations
 
 5. **Laying the foundations for negative emissions technologies: insights from a workshop** (2024)
    0 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Katherine Dombrowski"
-description: "Katherine Dombrowski is a Senior DAC researcher at Trimeric (United States) in US. With 21 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.727230
+description: "Katherine Dombrowski is a Senior General CDR researcher at Trimeric (United States) in US. With 21 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.615292
 url: "/cdr-researcher-census/researchers/katherine-dombrowski-a5060023/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Trimeric (United States) · 🇺🇸 US
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 7 |
 | Citations | 207 |
 | Publications | 21 |
-| CDR Focus | 23.8% |
+| CDR Focus | 2380.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,10 +54,10 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    20 citations · DAC
 
 2. **Cost details from front-end engineering design of piperazine with the advanced stripper** (2023)
-   8 citations · DAC
+   8 citations · General CDR
 
 3. **Front-End Engineering Design for Piperazine with the Advanced Stripper** (2022)
-   6 citations · DAC
+   6 citations · General CDR
 
 4. **Positive Power with Negative Emission Flexible NGCC Enable by Modular Direct Air Capture (Final Report)** (2022)
    1 citations · DAC

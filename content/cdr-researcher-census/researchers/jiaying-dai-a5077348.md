@@ -1,7 +1,7 @@
 ---
 title: "Jiaying Dai"
-description: "Jiaying Dai is a Senior Enhanced Weathering researcher at Shandong Agricultural University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.677878
+description: "Jiaying Dai is a Senior Soil Carbon researcher at Shandong Agricultural University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.550822
 url: "/cdr-researcher-census/researchers/jiaying-dai-a5077348/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Shandong Agricultural University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Enhanced Weathering**
+**Soil Carbon**
 
-Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 5 |
 | Citations | 221 |
 | Publications | 8 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Humic acid modulates growth, photosynthesis, hormone and osmolytes system of maize under drought conditions** (2022)
-   108 citations · Enhanced Weathering
+   108 citations · Soil Carbon
 
 ## External Profiles
 

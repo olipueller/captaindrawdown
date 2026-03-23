@@ -1,7 +1,7 @@
 ---
 title: "Iylia Idris"
-description: "Iylia Idris is a Mid-career General CDR researcher at Universiti Teknologi MARA in MY. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.388397
+description: "Iylia Idris is a Mid-career Biochar researcher at Universiti Teknologi MARA in MY. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.407954
 url: "/cdr-researcher-census/researchers/iylia-idris-a5107632/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Universiti Teknologi MARA · 🇲🇾 MY
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -42,16 +42,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 4 |
 | Citations | 103 |
 | Publications | 12 |
-| CDR Focus | 16.7% |
+| CDR Focus | 830.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Synthesis of Pineapple Peel Based Activated Carbon Via Microwave Irradiation Technique for Methylene Blue Dye Removal** (2023)
-   1 citations · General CDR
+   1 citations · Biochar
 
 2. **Comparative Predictive Modeling of CO <sub>2</sub> Adsorption Bed Performance Using LSTM with Particle Swarm Optimization** (2025)
-   0 citations · Enhanced Weathering
+   0 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Marckens Francoeur"
 description: "Marckens Francoeur is a Mid-career Biochar researcher at Université des Antilles in GP. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.010290
+date: 2026-03-23T11:47:00.999363
 url: "/cdr-researcher-census/researchers/marckens-francoeur-a5066657/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 5 |
 | Citations | 148 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

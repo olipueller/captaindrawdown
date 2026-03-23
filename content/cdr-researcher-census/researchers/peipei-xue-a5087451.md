@@ -1,7 +1,7 @@
 ---
 title: "Peipei Xue"
 description: "Peipei Xue is a Mid-career Soil Carbon researcher at Fujian Normal University in CN. With 24 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.206236
+date: 2026-03-23T11:46:59.807896
 url: "/cdr-researcher-census/researchers/peipei-xue-a5087451/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 519 |
 | Publications | 24 |
-| CDR Focus | 12.5% |
+| CDR Focus | 830.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    2 citations · Soil Carbon
 
 2. **Aquaculture conversion triggers iron-driven organic carbon destabilization in Estuarine Wetlands** (2025)
-   0 citations · Soil Carbon
+   0 citations
 
 3. **Coupled shifts in microbial and mineralogical Fe cycling destabilize organic carbon in converted estuarine wetlands** (2025)
    0 citations · Soil Carbon

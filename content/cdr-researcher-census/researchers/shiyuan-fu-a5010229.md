@@ -1,7 +1,7 @@
 ---
 title: "Shiyuan Fu"
 description: "Shiyuan Fu is a Mid-career Biochar researcher at Zhejiang University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.822566
+date: 2026-03-23T11:47:00.760047
 url: "/cdr-researcher-census/researchers/shiyuan-fu-a5010229/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 5 |
 | Citations | 183 |
 | Publications | 9 |
-| CDR Focus | 33.3% |
+| CDR Focus | 1110.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    5 citations · Biochar
 
 3. **N-Doped Citrate-Sludge-Derived Carbon (Ncsc) Effectively Promotes Peroxymonosulfate Activation for Perfluorooctanoic Acid (Pfoa) Removal with Surface-Mediated Electron Transfer Mechanism** (2023)
-   0 citations · Biochar
+   0 citations
 
 ## External Profiles
 

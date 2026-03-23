@@ -1,7 +1,7 @@
 ---
 title: "Boubacar Gano"
-description: "Boubacar Gano is a Mid-career BECCS researcher at Donald Danforth Plant Science Center in US. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.554196
+description: "Boubacar Gano is a Mid-career Soil Carbon researcher at Donald Danforth Plant Science Center in US. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.383305
 url: "/cdr-researcher-census/researchers/boubacar-gano-a5067008/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Donald Danforth Plant Science Center · 🇺🇸 US
 
 ## CDR Specialization
 
-**BECCS**
+**Soil Carbon**
 
-Combining biomass energy with carbon capture and storage to achieve negative emissions.
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
 
 ## Metrics
 
@@ -45,22 +45,22 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 5 |
 | Citations | 262 |
 | Publications | 20 |
-| CDR Focus | 25.0% |
+| CDR Focus | 2500.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **ARE_CROP_DATA** (2026)
-   0 citations · BECCS
+   0 citations · General CDR
 
 2. **ARE_CROP_DATA** (2026)
-   0 citations · BECCS
+   0 citations · General CDR
 
 3. **ARE_CROP_DATA** (2025)
-   0 citations · BECCS
+   0 citations · Soil Carbon
 
 4. **ARE_CROP_DATA** (2025)
-   0 citations · BECCS
+   0 citations · Soil Carbon
 
 5. **Assessing the potential of UAV Spectral Data and Machine learning for Soil Organic Carbon Prediction in Sorghum Fields** (2023)
    0 citations · Soil Carbon

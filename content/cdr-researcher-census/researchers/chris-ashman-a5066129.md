@@ -1,7 +1,7 @@
 ---
 title: "Chris Ashman"
-description: "Chris Ashman is a Mid-career Soil Carbon researcher at Aberystwyth University in GB. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.224664
+description: "Chris Ashman is a Mid-career BECCS researcher at Aberystwyth University in GB. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.843037
 url: "/cdr-researcher-census/researchers/chris-ashman-a5066129/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Aberystwyth University · 🇬🇧 GB
 
 ## CDR Specialization
 
-**Soil Carbon**
+**BECCS**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 496 |
 | Publications | 17 |
-| CDR Focus | 17.6% |
+| CDR Focus | 1760.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    8 citations · Soil Carbon
 
 3. **Comparing miscanthus hybrids &amp;#8211; growth and environmental impacts** (2022)
-   0 citations · Soil Carbon
+   0 citations · BECCS
 
 ## External Profiles
 

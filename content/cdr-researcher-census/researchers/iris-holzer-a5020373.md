@@ -1,7 +1,7 @@
 ---
 title: "Iris Holzer"
 description: "Iris Holzer is a Mid-career Enhanced Weathering researcher at University of California, Santa Barbara in US. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.909446
+date: 2026-03-23T11:47:00.875533
 url: "/cdr-researcher-census/researchers/iris-holzer-a5020373/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 6 |
 | Citations | 165 |
 | Publications | 18 |
-| CDR Focus | 66.7% |
+| CDR Focus | 5560.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Soil carbon sequestration in global working lands as a gateway for negative emission technologies** (2023)
-   34 citations · Soil Carbon
+   34 citations · General CDR
 
 2. **Methods for determining the CO2 removal capacity of enhanced weathering in agronomic settings** (2022)
    34 citations · Enhanced Weathering
@@ -66,19 +66,19 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    6 citations · Enhanced Weathering
 
 6. **Reduced accrual of mineral-associated organic matter after two years of enhanced rock weathering in cropland soils, though no net losses of soil organic carbon** (2024)
-   4 citations · Enhanced Weathering
+   4 citations
 
 7. **Preliminary assessment of crushed rock, compost, and biochar amendments on soil physical properties** (2025)
    2 citations · Biochar
 
 8. **Undervaluing soil carbon sequestration potential enables climate inaction** (2023)
-   2 citations · Soil Carbon
+   2 citations · General CDR
 
 9. **Testing the potential of ERW in California working lands: challenges and opportunities** (2024)
    0 citations · Enhanced Weathering
 
 10. **Direct evidence for atmospheric carbon dioxide removal via enhanced weathering in cropland soil: Supporting data** (2023)
-   0 citations · Enhanced Weathering
+   0 citations
 
 ## External Profiles
 

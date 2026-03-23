@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Umar Mushtaq"
-description: "Muhammad Umar Mushtaq is a Mid-career General CDR researcher at Institute of Process Engineering in CN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.376571
+description: "Muhammad Umar Mushtaq is a Mid-career carbon dioxide removal researcher at Institute of Process Engineering in CN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.396818
 url: "/cdr-researcher-census/researchers/muhammad-umar-mushtaq-a5079930/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Institute of Process Engineering · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 4 |
 | Citations | 104 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Two-Dimensional Multi-scale Modeling of Fixed Bed Adsorption Column Using Computational Fluid Dynamics Simulation** (2024)
-   6 citations · General CDR
+   6 citations
 
 ## External Profiles
 

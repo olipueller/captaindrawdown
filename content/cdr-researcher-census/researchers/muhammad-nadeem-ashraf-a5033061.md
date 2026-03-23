@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Nadeem Ashraf"
 description: "Muhammad Nadeem Ashraf is a Senior Soil Carbon researcher at University of Agriculture Faisalabad in PK. With 71 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.951706
+date: 2026-03-23T11:46:59.296547
 url: "/cdr-researcher-census/researchers/muhammad-nadeem-ashraf-a5033061/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,19 +45,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 21 |
 | Citations | 1,722 |
 | Publications | 71 |
-| CDR Focus | 12.7% |
+| CDR Focus | 1130.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Microbial Metabolic Quotient is a Dynamic Indicator of Soil Health: Trends, Implications and Perspectives (Review)** (2022)
-   46 citations · Soil Carbon
+   46 citations · General CDR
 
 2. **Role of Traditional Agroforestry Systems in Climate Change Mitigation through Carbon Sequestration: An Investigation from the Semi-Arid Region of Pakistan** (2023)
-   43 citations · Soil Carbon
+   43 citations · General CDR
 
 3. **Agroforestry status, services, and its role in climate change mitigation through carbon sequestration under semi-arid conditions** (2024)
-   10 citations · Soil Carbon
+   10 citations · General CDR
 
 4. **Combined Effects of Reduced Tillage and Strip Intercropping on Soil Carbon Sequestration in Semi-Arid Environment** (2025)
    5 citations · Soil Carbon

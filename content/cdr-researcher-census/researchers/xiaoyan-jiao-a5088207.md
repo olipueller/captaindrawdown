@@ -1,7 +1,7 @@
 ---
 title: "Xiaoyan Jiao"
 description: "Xiaoyan Jiao is a Mid-career Soil Carbon researcher at Shanxi Agricultural University in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.689764
+date: 2026-03-23T11:47:00.568397
 url: "/cdr-researcher-census/researchers/xiaoyan-jiao-a5088207/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 217 |
 | Publications | 14 |
-| CDR Focus | 21.4% |
+| CDR Focus | 2140.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

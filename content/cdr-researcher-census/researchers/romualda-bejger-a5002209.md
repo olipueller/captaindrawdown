@@ -1,7 +1,7 @@
 ---
 title: "Romualda Bejger"
 description: "Romualda Bejger is a Mid-career Soil Carbon researcher at West Pomeranian University of Technology in PL. With 46 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.356311
+date: 2026-03-23T11:47:00.063652
 url: "/cdr-researcher-census/researchers/romualda-bejger-a5002209/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 368 |
 | Publications | 46 |
-| CDR Focus | 10.9% |
+| CDR Focus | 1090.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    5 citations · Soil Carbon
 
 3. **Molecular characteristics of humin fraction isolated from soils of temperate climate: a study on Chernozems and Phaeozems in Poland** (2023)
-   1 citations · Soil Carbon
+   1 citations
 
 4. **Luminescence properties of the humin fraction isolated from Chernozems and Phaeozems from various regions of Poland&amp;#160;** (2022)
    0 citations · Soil Carbon

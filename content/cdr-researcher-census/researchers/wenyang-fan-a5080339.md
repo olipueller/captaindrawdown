@@ -1,7 +1,7 @@
 ---
 title: "Wenyang Fan"
-description: "Wenyang Fan is a Mid-career DAC researcher at Zhejiang Energy Group (China) in CN. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.703607
+description: "Wenyang Fan is a Mid-career carbon dioxide removal researcher at Zhejiang Energy Group (China) in CN. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.586455
 url: "/cdr-researcher-census/researchers/wenyang-fan-a5080339/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Zhejiang Energy Group (China) · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 7 |
 | Citations | 213 |
 | Publications | 8 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Highly efficient CO2 capture from open air and dilute gas streams by tunable azolate ionic liquids based deep eutectic solvents** (2025)
-   22 citations · DAC
+   22 citations
 
 ## External Profiles
 

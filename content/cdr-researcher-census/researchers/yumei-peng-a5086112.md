@@ -1,7 +1,7 @@
 ---
 title: "Yumei Peng"
 description: "Yumei Peng is a Mid-career Soil Carbon researcher at China Agricultural University in CN. With 28 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.087143
+date: 2026-03-23T11:46:59.587204
 url: "/cdr-researcher-census/researchers/yumei-peng-a5086112/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 11 |
 | Citations | 760 |
 | Publications | 28 |
-| CDR Focus | 25.0% |
+| CDR Focus | 1790.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

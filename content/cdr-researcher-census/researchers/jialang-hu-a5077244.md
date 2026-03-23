@@ -1,7 +1,7 @@
 ---
 title: "Jialang Hu"
-description: "Jialang Hu is a Mid-career General CDR researcher at Green Chemistry in PL. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.085448
+description: "Jialang Hu is a Mid-career carbon dioxide removal researcher at Green Chemistry in PL. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.083688
 url: "/cdr-researcher-census/researchers/jialang-hu-a5077244/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Green Chemistry ·  PL
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,16 +39,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 6 |
 | Citations | 136 |
 | Publications | 13 |
-| CDR Focus | 15.4% |
+| CDR Focus | 1540.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Frontispiece: Induced‐Fit‐Identification in a Rigid Metal‐Organic Framework for ppm‐Level CO<sub>2</sub> Removal and Ultra‐Pure CO Enrichment** (2023)
-   6 citations · General CDR
+   6 citations
 
 2. **Frontispiz: Induced‐Fit‐Identification in a Rigid Metal‐Organic Framework for ppm‐Level CO<sub>2</sub> Removal and Ultra‐Pure CO Enrichment** (2023)
-   0 citations · General CDR
+   0 citations
 
 ## External Profiles
 

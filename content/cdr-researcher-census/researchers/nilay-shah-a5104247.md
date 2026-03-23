@@ -1,7 +1,7 @@
 ---
 title: "Nilay Shah"
 description: "Nilay Shah is a Mid-career DAC researcher at Imperial College London in GB. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.680538
+date: 2026-03-23T11:47:00.553523
 url: "/cdr-researcher-census/researchers/nilay-shah-a5104247/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 4 |
 | Citations | 220 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

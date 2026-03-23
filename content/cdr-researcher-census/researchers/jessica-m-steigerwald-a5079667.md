@@ -1,7 +1,7 @@
 ---
 title: "Jessica M. Steigerwald"
 description: "Jessica M. Steigerwald is an Early-career Biochar researcher at Southern Nevada Water Authority in US. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.390463
+date: 2026-03-23T11:47:01.409112
 url: "/cdr-researcher-census/researchers/jessica-m-steigerwald-a5079667/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 3 |
 | Citations | 103 |
 | Publications | 8 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

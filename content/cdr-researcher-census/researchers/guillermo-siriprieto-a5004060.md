@@ -1,7 +1,7 @@
 ---
 title: "Guillermo Siri−Prieto"
-description: "Guillermo Siri−Prieto is a Senior Soil Carbon researcher at Universidad de la República de Uruguay in UY. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.296547
+description: "Guillermo Siri−Prieto is a Senior carbon dioxide removal researcher at Universidad de la República de Uruguay in UY. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.968344
 url: "/cdr-researcher-census/researchers/guillermo-siriprieto-a5004060/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Universidad de la República de Uruguay ·  UY
 
 **Career Stage:** Senior
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,16 +39,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 414 |
 | Publications | 16 |
-| CDR Focus | 12.5% |
+| CDR Focus | 620.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Carbon footprint of four bioethanol cropping systems in a temperate region** (2024)
-   5 citations · Soil Carbon
+   5 citations
 
 2. **Carbon Footprint of Four Bioethanol Cropping Systems in a Temperate Region** (2023)
-   1 citations · Soil Carbon
+   1 citations
 
 ## External Profiles
 

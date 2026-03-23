@@ -1,7 +1,7 @@
 ---
 title: "Ahmed Badran"
-description: "Ahmed Badran is a Senior DAC researcher at Qatar University in QA. With 29 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.691615
+description: "Ahmed Badran is a Senior General CDR researcher at Qatar University in QA. With 29 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.572045
 url: "/cdr-researcher-census/researchers/ahmed-badran-a5057795/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Qatar University ·  QA
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 9 |
 | Citations | 216 |
 | Publications | 29 |
-| CDR Focus | 10.3% |
+| CDR Focus | 690.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    22 citations · DAC
 
 2. **GCC Countries Strategic Options in a Global Transition to Zero-Net Emissions** (2023)
-   12 citations · DAC
+   12 citations · General CDR
 
 3. **GCC countries strategic options in a global transition to zero-net emissions** (2022)
    5 citations · DAC

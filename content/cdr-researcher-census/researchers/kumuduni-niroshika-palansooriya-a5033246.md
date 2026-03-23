@@ -1,7 +1,7 @@
 ---
 title: "Kumuduni Niroshika Palansooriya"
 description: "Kumuduni Niroshika Palansooriya is a Senior Biochar researcher at Zhejiang A & F University in CN. With 52 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.877835
+date: 2026-03-23T11:46:59.112537
 url: "/cdr-researcher-census/researchers/kumuduni-niroshika-palansooriya-a5033246/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 25 |
 | Citations | 6,718 |
 | Publications | 52 |
-| CDR Focus | 11.5% |
+| CDR Focus | 580.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Natural and engineered clays and clay minerals for the removal of poly- and perfluoroalkyl substances from water: State-of-the-art and future perspectives** (2021)
-   122 citations · Biochar
+   122 citations
 
 2. **Machine learning exploration of the direct and indirect roles of Fe impregnation on Cr(VI) removal by engineered biochar** (2021)
    90 citations · Biochar
@@ -66,7 +66,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    1 citations · Biochar
 
 6. **Biochar Affects Greenhouse Gas Emissions from Urban Forestry Waste** (2025)
-   0 citations · Biochar
+   0 citations
 
 ## External Profiles
 

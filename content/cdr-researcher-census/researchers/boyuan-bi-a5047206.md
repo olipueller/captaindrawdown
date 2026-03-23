@@ -1,7 +1,7 @@
 ---
 title: "Boyuan Bi"
 description: "Boyuan Bi is a Mid-career Soil Carbon researcher at Institute of Soil and Water Conservation in CN. With 21 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.316947
+date: 2026-03-23T11:47:00.000126
 url: "/cdr-researcher-census/researchers/boyuan-bi-a5047206/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 398 |
 | Publications | 21 |
-| CDR Focus | 28.6% |
+| CDR Focus | 1900.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

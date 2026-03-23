@@ -1,7 +1,7 @@
 ---
 title: "Frederick W. Rainsford"
-description: "Frederick W. Rainsford is a Mid-career Soil Carbon researcher at La Trobe University in AU. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.491679
+description: "Frederick W. Rainsford is a Mid-career General CDR researcher at La Trobe University in AU. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.291980
 url: "/cdr-researcher-census/researchers/frederick-w-rainsford-a5043867/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ La Trobe University · 🇦🇺 AU
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,16 +45,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 287 |
 | Publications | 16 |
-| CDR Focus | 12.5% |
+| CDR Focus | 620.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **R scripts for metric calculation, arthropod data and associated spatial files to run analysis for pollinator and predator natural capital accounts for an example de-identified farm (Farm YQ).** (2026)
-   0 citations · Soil Carbon
+   0 citations
 
 2. **R scripts for metric calculation, arthropod data and associated spatial files to run analysis for pollinator and predator natural capital accounts for an example de-identified farm (Farm YQ).** (2026)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

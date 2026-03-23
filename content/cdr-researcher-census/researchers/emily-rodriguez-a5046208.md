@@ -1,7 +1,7 @@
 ---
 title: "Emily Rodriguez"
-description: "Emily Rodriguez is a Mid-career BECCS researcher at Association of Research Libraries in US. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.696079
+description: "Emily Rodriguez is a Mid-career General CDR researcher at Association of Research Libraries in US. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.575576
 url: "/cdr-researcher-census/researchers/emily-rodriguez-a5046208/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Association of Research Libraries · 🇺🇸 US
 
 ## CDR Specialization
 
-**BECCS**
+**General CDR**
 
-Combining biomass energy with carbon capture and storage to achieve negative emissions.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 4 |
 | Citations | 215 |
 | Publications | 13 |
-| CDR Focus | 30.8% |
+| CDR Focus | 3080.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
    17 citations · BECCS
 
 3. **Storing carbon dioxide for climate's sake: contradictions and parallels with enhanced oil recovery** (2023)
-   3 citations · BECCS
+   3 citations · General CDR
 
 4. **Promises and Pitfalls of Bioenergy with Carbon Capture and Storage : Actors' Perspectives, Challenges, and Mitigation Deterrence in Sweden** (2024)
    2 citations · BECCS

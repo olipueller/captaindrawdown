@@ -1,7 +1,7 @@
 ---
 title: "Mariem Saadani"
 description: "Mariem Saadani is a Mid-career Soil Carbon researcher at German Centre for Integrative Biodiversity Research in DE. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.171675
+date: 2026-03-23T11:47:01.173063
 url: "/cdr-researcher-census/researchers/mariem-saadani-a5009207/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 126 |
 | Publications | 8 |
-| CDR Focus | 25.0% |
+| CDR Focus | 2500.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

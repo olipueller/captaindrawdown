@@ -1,7 +1,7 @@
 ---
 title: "Weila Li"
 description: "Weila Li is a Mid-career Soil Carbon researcher at Beijing Normal-Hong Kong Baptist University in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.114669
+date: 2026-03-23T11:46:59.639545
 url: "/cdr-researcher-census/researchers/weila-li-a5076021/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 685 |
 | Publications | 16 |
-| CDR Focus | 18.8% |
+| CDR Focus | 620.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

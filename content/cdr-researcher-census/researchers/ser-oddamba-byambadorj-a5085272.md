@@ -1,7 +1,7 @@
 ---
 title: "Ser-Oddamba Byambadorj"
-description: "Ser-Oddamba Byambadorj is a Mid-career Soil Carbon researcher at National University of Mongolia in MN. With 30 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.830300
+description: "Ser-Oddamba Byambadorj is a Mid-career General CDR researcher at National University of Mongolia in MN. With 30 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.767874
 url: "/cdr-researcher-census/researchers/ser-oddamba-byambadorj-a5085272/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ National University of Mongolia ·  MN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,22 +45,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 10 |
 | Citations | 182 |
 | Publications | 30 |
-| CDR Focus | 13.3% |
+| CDR Focus | 670.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Afforestation of Mongolian steppe: patterns of biomass partitioning in <i>Populus sibirica</i> and <i>Ulmus pumila</i> trees in response to management supporting measures** (2021)
-   10 citations · Soil Carbon
+   10 citations
 
 2. **Influence of Irrigation on Biomass Partitioning in Above- and Belowground Organs of Trees Planted in Desert Sites of Mongolia** (2023)
-   3 citations · Soil Carbon
+   3 citations
 
 3. **Afforestation of semi-arid regions of Mongolia: carbon sequestration in trees and increase of soil organic carbon** (2023)
    3 citations · Soil Carbon
 
 4. **comparative study of biomass and morpho-physiological traits for different deciduous species in semi-arid afforestation region of Mongolia** (2022)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

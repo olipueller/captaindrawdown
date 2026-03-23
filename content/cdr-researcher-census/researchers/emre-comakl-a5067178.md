@@ -1,7 +1,7 @@
 ---
 title: "Emre Çomaklı"
 description: "Emre Çomaklı is a Mid-career Soil Carbon researcher at Atatürk University in TR. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.223315
+date: 2026-03-23T11:47:01.231128
 url: "/cdr-researcher-census/researchers/emre-comakl-a5067178/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 120 |
 | Publications | 18 |
-| CDR Focus | 11.1% |
+| CDR Focus | 560.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

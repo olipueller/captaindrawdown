@@ -1,7 +1,7 @@
 ---
 title: "Oriol Gutiérrez‐Sánchez"
 description: "Oriol Gutiérrez‐Sánchez is a Mid-career DAC researcher at Umicore (Belgium) in BE. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.191399
+date: 2026-03-23T11:46:59.777591
 url: "/cdr-researcher-census/researchers/oriol-gutierrezsanchez-a5081524/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 8 |
 | Citations | 544 |
 | Publications | 10 |
-| CDR Focus | 30.0% |
+| CDR Focus | 3000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,10 +54,10 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    59 citations · DAC
 
 2. **The Economics of Electrochemical Syngas Production via Direct Air Capture** (2023)
-   28 citations · DAC
+   28 citations
 
 3. **Direct Air Capture and Electrochemical Conversion of CO2** (2022)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

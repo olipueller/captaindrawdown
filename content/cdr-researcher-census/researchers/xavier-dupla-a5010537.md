@@ -1,7 +1,7 @@
 ---
 title: "Xavier Dupla"
 description: "Xavier Dupla is a Mid-career Enhanced Weathering researcher at ETH Zurich in CH. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.726258
+date: 2026-03-23T11:47:00.614339
 url: "/cdr-researcher-census/researchers/xavier-dupla-a5010537/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 6 |
 | Citations | 207 |
 | Publications | 20 |
-| CDR Focus | 70.0% |
+| CDR Focus | 4500.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    72 citations · Enhanced Weathering
 
 2. **Changes in topsoil organic carbon content in the Swiss leman region cropland from 1993 to present. Insights from large scale on-farm study** (2021)
-   35 citations · Soil Carbon
+   35 citations · General CDR
 
 3. **Let the dust settle: Impact of enhanced rock weathering on soil biological, physical, and geochemical fertility** (2024)
    23 citations · Enhanced Weathering

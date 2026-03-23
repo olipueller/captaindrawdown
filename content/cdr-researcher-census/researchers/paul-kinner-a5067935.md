@@ -1,7 +1,7 @@
 ---
 title: "Paul Kinner"
 description: "Paul Kinner is a Mid-career Biochar researcher at Austrian Institute of Technology in AT. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.868318
+date: 2026-03-23T11:47:00.816011
 url: "/cdr-researcher-census/researchers/paul-kinner-a5067935/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 4 |
 | Citations | 174 |
 | Publications | 8 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

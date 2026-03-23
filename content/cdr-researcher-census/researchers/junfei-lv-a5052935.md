@@ -1,7 +1,7 @@
 ---
 title: "Junfei Lv"
 description: "Junfei Lv is a Mid-career Soil Carbon researcher at Ministry of Agriculture and Rural Affairs in CN. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.271943
+date: 2026-03-23T11:46:59.931948
 url: "/cdr-researcher-census/researchers/junfei-lv-a5052935/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 434 |
 | Publications | 9 |
-| CDR Focus | 22.2% |
+| CDR Focus | 1110.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

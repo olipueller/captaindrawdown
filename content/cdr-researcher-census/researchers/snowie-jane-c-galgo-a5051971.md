@@ -1,7 +1,7 @@
 ---
 title: "Snowie Jane C. Galgo"
 description: "Snowie Jane C. Galgo is a Mid-career Soil Carbon researcher at Gyeongsang National University in KR. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.599436
+date: 2026-03-23T11:47:00.441749
 url: "/cdr-researcher-census/researchers/snowie-jane-c-galgo-a5051971/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 246 |
 | Publications | 26 |
-| CDR Focus | 30.8% |
+| CDR Focus | 2310.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -63,7 +63,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    7 citations · Biochar
 
 5. **Iron fertilization and soil carbon sequestration in rice paddies** (2024)
-   1 citations · Soil Carbon
+   1 citations · Ocean CDR
 
 6. **Greenhouse Gas Mitigation and Carbon Sequestration Potential of Biochar Derived from Plant and Animal Biomasses Under Submerged Soil Condition** (2025)
    0 citations · Biochar

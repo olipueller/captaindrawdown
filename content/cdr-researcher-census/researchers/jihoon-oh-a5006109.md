@@ -1,7 +1,7 @@
 ---
 title: "Ji‐Hoon Oh"
 description: "Ji‐Hoon Oh is a Mid-career General CDR researcher at Seoul National University in KR. With 38 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.511262
+date: 2026-03-23T11:47:00.323733
 url: "/cdr-researcher-census/researchers/jihoon-oh-a5006109/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 9 |
 | Citations | 278 |
 | Publications | 38 |
-| CDR Focus | 15.8% |
+| CDR Focus | 1320.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    28 citations · General CDR
 
 2. **Pervasive fire danger continued under a negative emission scenario** (2024)
-   6 citations · Enhanced Weathering
+   6 citations · General CDR
 
 3. **Land aridification persists in vulnerable drylands under climate mitigation scenarios** (2025)
    1 citations · General CDR
@@ -66,7 +66,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    0 citations · General CDR
 
 6. **Emergence of the ocean CO2 uptake hole under global warming** (2024)
-   0 citations · General CDR
+   0 citations · Ocean CDR
 
 ## External Profiles
 

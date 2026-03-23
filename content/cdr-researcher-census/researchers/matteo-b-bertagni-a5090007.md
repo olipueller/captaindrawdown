@@ -1,7 +1,7 @@
 ---
 title: "Matteo B. Bertagni"
 description: "Matteo B. Bertagni is a Mid-career Enhanced Weathering researcher at Politecnico di Torino in IT. With 72 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.123631
+date: 2026-03-23T11:46:59.654263
 url: "/cdr-researcher-census/researchers/matteo-b-bertagni-a5090007/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 12 |
 | Citations | 662 |
 | Publications | 72 |
-| CDR Focus | 22.2% |
+| CDR Focus | 1670.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -60,7 +60,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    8 citations · Enhanced Weathering
 
 4. **A Dimensionless Framework for the Partitioning of Fluvial Inorganic Carbon** (2024)
-   5 citations · Enhanced Weathering
+   5 citations
 
 5. **An Integrated Modelling Framework to Determine Terrestrial Carbon Dioxide Removal via Enhanced Rock Weathering** (2025)
    1 citations · Enhanced Weathering
@@ -72,7 +72,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    1 citations · Enhanced Weathering
 
 8. **An Integrated Modelling Framework to Determine Terrestrial Carbon Dioxide Removal via Enhanced Rock Weathering** (2026)
-   0 citations · Enhanced Weathering
+   0 citations
 
 9. **Analysis of enhanced weathering potential on European agricultural land** (2026)
    0 citations · Enhanced Weathering

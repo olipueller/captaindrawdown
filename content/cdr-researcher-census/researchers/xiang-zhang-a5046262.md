@@ -1,7 +1,7 @@
 ---
 title: "Xiang Zhang"
-description: "Xiang Zhang is a Senior Soil Carbon researcher at Southeast University in BD. With 21 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.435028
+description: "Xiang Zhang is a Senior General CDR researcher at Southeast University in BD. With 21 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.196071
 url: "/cdr-researcher-census/researchers/xiang-zhang-a5046262/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Southeast University · 🇧🇩 BD
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,22 +45,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 10 |
 | Citations | 315 |
 | Publications | 21 |
-| CDR Focus | 19.0% |
+| CDR Focus | 950.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Investigations into magnesium oxide carbon sequestration foamed concrete: Mechanical performance, microstructure and environmental benefits** (2024)
-   23 citations · Soil Carbon
+   23 citations · Enhanced Weathering
 
 2. **Durability against dry-wet and freeze-thaw cycles of carbon sequestration foamed concrete utilizing abandoned soil and waste serpentine** (2024)
-   10 citations · Soil Carbon
+   10 citations · General CDR
 
 3. **Scaled model test into the spatial variability and carbon storage potential of carbon sequestration foamed concrete as a subgrade filler** (2025)
-   2 citations · Soil Carbon
+   2 citations · General CDR
 
 4. **Performance and Sustainability of Carbon-Sequestration Foamed Concrete Utilizing CO2 Gas, Abandoned Soil, and Waste Serpentine** (2025)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

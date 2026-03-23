@@ -1,7 +1,7 @@
 ---
 title: "Ilmari Talvitie"
-description: "Ilmari Talvitie is an Early-career Soil Carbon researcher at Aalto University in FI. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.400903
+description: "Ilmari Talvitie is an Early-career General CDR researcher at Aalto University in FI. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.419663
 url: "/cdr-researcher-census/researchers/ilmari-talvitie-a5090663/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Aalto University ·  FI
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 3 |
 | Citations | 102 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Carbon sequestration and storage potential of urban residential environment – A review** (2022)
-   72 citations · Biochar
+   72 citations · General CDR
 
 ## External Profiles
 

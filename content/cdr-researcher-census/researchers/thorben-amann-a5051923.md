@@ -1,7 +1,7 @@
 ---
 title: "Thorben Amann"
 description: "Thorben Amann is a Senior Enhanced Weathering researcher at Universität Hamburg in DE. With 72 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.896537
+date: 2026-03-23T11:46:59.162463
 url: "/cdr-researcher-census/researchers/thorben-amann-a5051923/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,16 +45,16 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 16 |
 | Citations | 3,724 |
 | Publications | 72 |
-| CDR Focus | 19.4% |
+| CDR Focus | 1940.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Potential CO2 removal from enhanced weathering by ecosystem responses to powdered rock** (2021)
-   188 citations · BECCS
+   188 citations · Enhanced Weathering
 
 2. **Enhanced weathering potentials—the role of in situ CO2 and grain size distribution** (2022)
-   54 citations · General CDR
+   54 citations · Enhanced Weathering
 
 3. **Carbon Accounting for Enhanced Weathering** (2022)
    30 citations · Enhanced Weathering

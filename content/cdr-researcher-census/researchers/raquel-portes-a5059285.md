@@ -1,7 +1,7 @@
 ---
 title: "Raquel Portes"
 description: "Raquel Portes is a Senior Soil Carbon researcher at University of British Columbia in CA. With 31 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.011431
+date: 2026-03-23T11:46:59.436981
 url: "/cdr-researcher-census/researchers/raquel-portes-a5059285/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,22 +45,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 12 |
 | Citations | 1,101 |
 | Publications | 31 |
-| CDR Focus | 12.9% |
+| CDR Focus | 650.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Rapid soil formation and carbon accumulation along a Little Ice Age soil chronosequence in southeast Alaska** (2024)
-   3 citations · Enhanced Weathering
+   3 citations · Soil Carbon
 
 2. **Assessing decadal soil redistribution rates using <sup>239+240</sup> Pu across diverse lithologies in Southeast Alaska** (2024)
    3 citations · Soil Carbon
 
 3. **Rapid Soil Formation and Carbon Accumulation Along a Little Ice Age Soil Chronosequence in Southeast Alaska** (2024)
-   0 citations · Enhanced Weathering
+   0 citations · Soil Carbon
 
 4. **Assessing Decadal Soil Redistribution Rates Using 239+240pu Across Varied Lithologies in the Coastal Temperate Rainforest of Southeast Alaska** (2023)
-   0 citations · Soil Carbon
+   0 citations
 
 ## External Profiles
 

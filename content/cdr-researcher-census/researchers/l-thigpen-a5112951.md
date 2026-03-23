@@ -1,7 +1,7 @@
 ---
 title: "L. Thigpen"
-description: "L. Thigpen is a Senior DAC researcher at Lawrence Livermore National Laboratory in US. With 26 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.816906
+description: "L. Thigpen is a Senior carbon dioxide removal researcher at Lawrence Livermore National Laboratory in US. With 26 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.752033
 url: "/cdr-researcher-census/researchers/l-thigpen-a5112951/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Lawrence Livermore National Laboratory · 🇺🇸 US
 
 **Career Stage:** Senior
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,19 +36,19 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 7 |
 | Citations | 184 |
 | Publications | 26 |
-| CDR Focus | 11.5% |
+| CDR Focus | 1150.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Understanding the Role of Hydroxyl Functionalization in Linear Poly(Ethylenimine) for Oxidation‐Resistant Direct Air Capture of CO <sub>2</sub>** (2025)
-   5 citations · DAC
+   5 citations
 
 2. **Understanding the Role of Hydroxyl Functionalization in Linear Poly(ethylenimine) for Oxidation-Resistant Direct Air Capture of CO2** (2024)
-   0 citations · DAC
+   0 citations
 
 3. **Proposed synthesis of a linear poly-ethylenimine with hydroxyl pendants substituents at the adjacent carbon** (2023)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

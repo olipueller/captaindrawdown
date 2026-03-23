@@ -1,7 +1,7 @@
 ---
 title: "Ifeoma Edeh"
 description: "Ifeoma Edeh is a Mid-career Enhanced Weathering researcher at University of Nigeria in NG. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.195288
+date: 2026-03-23T11:46:59.787938
 url: "/cdr-researcher-census/researchers/ifeoma-edeh-a5055408/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,16 +45,16 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 6 |
 | Citations | 535 |
 | Publications | 20 |
-| CDR Focus | 30.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Initial agronomic benefits of enhanced weathering using basalt: A study of spring oat in a temperate climate** (2024)
-   37 citations · Enhanced Weathering
+   37 citations
 
 2. **Initial agronomic benefits of enhanced weathering using basalt: A study of spring oat in a temperate climate** (2024)
-   1 citations · Enhanced Weathering
+   1 citations
 
 3. **Initial agronomic benefits of enhanced weathering using basalt: A study of spring oat in a temperate climate** (2023)
    1 citations · Enhanced Weathering

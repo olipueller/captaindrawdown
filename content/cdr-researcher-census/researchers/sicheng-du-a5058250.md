@@ -1,7 +1,7 @@
 ---
 title: "Sicheng Du"
 description: "Sicheng Du is a Mid-career Soil Carbon researcher at Kunming Medical University in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.773741
+date: 2026-03-23T11:47:00.677137
 url: "/cdr-researcher-census/researchers/sicheng-du-a5058250/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 195 |
 | Publications | 17 |
-| CDR Focus | 17.6% |
+| CDR Focus | 1760.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Straw return alleviates the greenhouse effect of paddy fields by increasing soil organic carbon sequestration under water-saving irrigation** (2023)
-   45 citations · Soil Carbon
+   45 citations · Biochar
 
 2. **Water-saving irrigation mitigates methane emissions from paddy fields: The role of iron** (2024)
    13 citations · Soil Carbon

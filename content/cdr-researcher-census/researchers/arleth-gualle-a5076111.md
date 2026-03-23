@@ -1,7 +1,7 @@
 ---
 title: "Arleth Gualle"
-description: "Arleth Gualle is a Mid-career Soil Carbon researcher at University of Mons in BE. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.195162
+description: "Arleth Gualle is a Mid-career carbon dioxide removal researcher at University of Mons in BE. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.198946
 url: "/cdr-researcher-census/researchers/arleth-gualle-a5076111/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ University of Mons · 🇧🇪 BE
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 123 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Prospects of Microalgae for Biomaterial Production and Environmental Applications at Biorefineries** (2021)
-   82 citations · Biochar
+   82 citations
 
 ## External Profiles
 

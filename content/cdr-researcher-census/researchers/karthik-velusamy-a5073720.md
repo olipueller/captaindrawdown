@@ -1,7 +1,7 @@
 ---
 title: "Karthik Velusamy"
 description: "Karthik Velusamy is a Mid-career Biochar researcher at Government of Tamil Nadu in IN. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.180164
+date: 2026-03-23T11:46:59.755326
 url: "/cdr-researcher-census/researchers/karthik-velusamy-a5073720/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 9 |
 | Citations | 565 |
 | Publications | 15 |
-| CDR Focus | 13.3% |
+| CDR Focus | 670.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

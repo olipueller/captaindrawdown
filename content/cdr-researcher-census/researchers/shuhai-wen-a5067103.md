@@ -1,7 +1,7 @@
 ---
 title: "Shu‐Hai Wen"
 description: "Shu‐Hai Wen is an Early-career Soil Carbon researcher at Huazhong Agricultural University in CN. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.044519
+date: 2026-03-23T11:47:01.036044
 url: "/cdr-researcher-census/researchers/shuhai-wen-a5067103/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 3 |
 | Citations | 143 |
 | Publications | 6 |
-| CDR Focus | 16.7% |
+| CDR Focus | 1670.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

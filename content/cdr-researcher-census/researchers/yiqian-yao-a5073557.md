@@ -1,7 +1,7 @@
 ---
 title: "Yiqian Yao"
-description: "Yiqian Yao is a Mid-career DAC researcher at Nanjing Normal University in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.560436
+description: "Yiqian Yao is a Mid-career carbon dioxide removal researcher at Nanjing Normal University in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.394638
 url: "/cdr-researcher-census/researchers/yiqian-yao-a5073557/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Nanjing Normal University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 6 |
 | Citations | 259 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **TEPA functionalized adsorbents dominated by pore type and pore size: Direct air capture characteristics and economic efficiency optimization** (2025)
-   1 citations · DAC
+   1 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Woo Jae Shin"
-description: "Woo Jae Shin is a Senior DAC researcher at IIT@MIT in US. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.265849
+description: "Woo Jae Shin is a Senior General CDR researcher at IIT@MIT in US. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.278300
 url: "/cdr-researcher-census/researchers/woo-jae-shin-a5081247/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ IIT@MIT · 🇺🇸 US
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 5 |
 | Citations | 115 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Techno-economic analysis and life-cycle assessment of methanol synthesis plants using renewable hydrogen and carbon dioxide feedstocks** (2025)
-   4 citations · BECCS
+   4 citations · General CDR
 
 ## External Profiles
 

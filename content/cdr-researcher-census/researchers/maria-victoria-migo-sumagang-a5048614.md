@@ -1,7 +1,7 @@
 ---
 title: "Maria Victoria Migo-Sumagang"
 description: "Maria Victoria Migo-Sumagang is a Mid-career General CDR researcher at University of the Philippines Los Baños in PH. With 35 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.326321
+date: 2026-03-23T11:47:00.013560
 url: "/cdr-researcher-census/researchers/maria-victoria-migo-sumagang-a5048614/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 9 |
 | Citations | 391 |
 | Publications | 35 |
-| CDR Focus | 45.7% |
+| CDR Focus | 3140.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -54,13 +54,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    28 citations · General CDR
 
 2. **A multi-period model for optimizing negative emission technology portfolios with economic and carbon value discount rates** (2023)
-   22 citations · DAC
+   22 citations · General CDR
 
 3. **Fuzzy mixed-integer linear and quadratic programming models for planning negative emissions technologies portfolios with synergistic interactions** (2022)
    16 citations · BECCS
 
 4. **Optimization and decision support models for deploying negative emissions technologies** (2023)
-   12 citations · BECCS
+   12 citations · General CDR
 
 5. **Process integration methods for multi-period carbon trading** (2024)
    8 citations · General CDR
@@ -69,7 +69,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    8 citations · BECCS
 
 7. **P-graph and Monte Carlo simulation approach for sustainable and risk-managed CDR portfolios** (2024)
-   3 citations · BECCS
+   3 citations · General CDR
 
 8. **Plan Durable Carbon Dioxide Removal with Pinch Analysis** (2024)
    2 citations · General CDR

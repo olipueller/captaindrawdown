@@ -1,7 +1,7 @@
 ---
 title: "Gabrielle A. Kliegle"
-description: "Gabrielle A. Kliegle is a Mid-career DAC researcher at National Laboratory of the Rockies in US. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.154471
+description: "Gabrielle A. Kliegle is a Mid-career carbon dioxide removal researcher at National Laboratory of the Rockies in US. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.152590
 url: "/cdr-researcher-census/researchers/gabrielle-a-kliegle-a5057693/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ National Laboratory of the Rockies · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 3 |
 | Citations | 128 |
 | Publications | 8 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Solid Amine CO2 Adsorbent Degradation: Insights from Experiments and Atomistic Simulations** (2025)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

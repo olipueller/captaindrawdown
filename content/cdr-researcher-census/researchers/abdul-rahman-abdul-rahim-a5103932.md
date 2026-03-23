@@ -1,7 +1,7 @@
 ---
 title: "Abdul Rahman Abdul Rahim"
-description: "Abdul Rahman Abdul Rahim is a Mid-career General CDR researcher at Universiti Teknologi Petronas in MY. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.854939
+description: "Abdul Rahman Abdul Rahim is a Mid-career Biochar researcher at Universiti Teknologi Petronas in MY. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.801291
 url: "/cdr-researcher-census/researchers/abdul-rahman-abdul-rahim-a5103932/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Universiti Teknologi Petronas · 🇲🇾 MY
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -42,7 +42,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 7 |
 | Citations | 176 |
 | Publications | 20 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    2 citations · Biochar
 
 2. **Synthesis and characterization of secondary amine-functionalized silica for CO<sub>2</sub> capture** (2021)
-   2 citations · General CDR
+   2 citations
 
 ## External Profiles
 

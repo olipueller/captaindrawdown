@@ -1,7 +1,7 @@
 ---
 title: "Lu Feng Ye"
 description: "Lu Feng Ye is a Mid-career Soil Carbon researcher at Institute of Applied Ecology in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.189798
+date: 2026-03-23T11:47:01.193293
 url: "/cdr-researcher-census/researchers/lu-feng-ye-a5077093/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 124 |
 | Publications | 5 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

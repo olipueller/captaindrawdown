@@ -1,7 +1,7 @@
 ---
 title: "Yanxing Dou"
 description: "Yanxing Dou is a Mid-career Soil Carbon researcher at North West Agriculture and Forestry University in CN. With 30 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.942771
+date: 2026-03-23T11:46:59.279407
 url: "/cdr-researcher-census/researchers/yanxing-dou-a5046356/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 18 |
 | Citations | 1,882 |
 | Publications | 30 |
-| CDR Focus | 23.3% |
+| CDR Focus | 2330.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    48 citations · Soil Carbon
 
 3. **[Advances in the research of transformation and stabilization of soil organic carbon from plant and microbe].** (2024)
-   8 citations · Soil Carbon
+   8 citations · General CDR
 
 4. **Resilience of soil organic carbon under precipitation variability: Insights from carbon-nitrogen dynamics in semi-arid grasslands** (2025)
    3 citations · Soil Carbon
@@ -69,7 +69,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    0 citations · Soil Carbon
 
 7. **Editorial: Climate change and soil microbial control of carbon sequestration** (2025)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

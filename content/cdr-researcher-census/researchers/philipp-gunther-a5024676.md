@@ -1,7 +1,7 @@
 ---
 title: "Philipp Günther"
 description: "Philipp Günther is a Mid-career General CDR researcher. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.961371
+date: 2026-03-23T11:47:00.938819
 url: "/cdr-researcher-census/researchers/philipp-gunther-a5024676/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -37,7 +37,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 5 |
 | Citations | 155 |
 | Publications | 10 |
-| CDR Focus | 30.0% |
+| CDR Focus | 3000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

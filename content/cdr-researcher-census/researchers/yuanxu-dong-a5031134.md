@@ -1,7 +1,7 @@
 ---
 title: "Yuanxu Dong"
 description: "Yuanxu Dong is a Mid-career Ocean CDR researcher at Heidelberg University in DE. With 29 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.661741
+date: 2026-03-23T11:47:00.528218
 url: "/cdr-researcher-census/researchers/yuanxu-dong-a5031134/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 7 |
 | Citations | 225 |
 | Publications | 29 |
-| CDR Focus | 17.2% |
+| CDR Focus | 1030.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,13 +54,13 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    16 citations · General CDR
 
 2. **Reply on RC2** (2026)
-   0 citations · General CDR
+   0 citations
 
 3. **Reply on RC1** (2026)
-   0 citations · General CDR
+   0 citations
 
 4. **Mechanisms of air-sea CO <sub>2</sub> exchange in the central Baltic Sea** (2026)
-   0 citations · General CDR
+   0 citations
 
 5. **The impact of shallow stratification on air-sea CO2 flux in the summer Arctic Ocean** (2021)
    0 citations · Ocean CDR

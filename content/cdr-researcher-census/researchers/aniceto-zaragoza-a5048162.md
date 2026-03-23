@@ -1,7 +1,7 @@
 ---
 title: "Aniceto Zaragoza"
 description: "Aniceto Zaragoza is a Senior General CDR researcher at Unidades Centrales Científico-Técnicas in ES. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.317166
+date: 2026-03-23T11:47:00.000333
 url: "/cdr-researcher-census/researchers/aniceto-zaragoza-a5048162/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 8 |
 | Citations | 398 |
 | Publications | 13 |
-| CDR Focus | 15.4% |
+| CDR Focus | 1540.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    27 citations · General CDR
 
 2. **Carbon Dioxide Uptake Estimation for Spanish Cement-Based Materials** (2024)
-   4 citations · General CDR
+   4 citations · Enhanced Weathering
 
 ## External Profiles
 

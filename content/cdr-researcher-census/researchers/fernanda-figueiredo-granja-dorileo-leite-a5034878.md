@@ -1,7 +1,7 @@
 ---
 title: "Fernanda Figueiredo Granja Dorilêo Leite"
 description: "Fernanda Figueiredo Granja Dorilêo Leite is a Mid-career Soil Carbon researcher at Universidade Federal Fluminense in BR. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.461894
+date: 2026-03-23T11:47:00.238787
 url: "/cdr-researcher-census/researchers/fernanda-figueiredo-granja-dorileo-leite-a5034878/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 301 |
 | Publications | 17 |
-| CDR Focus | 29.4% |
+| CDR Focus | 2940.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,10 +54,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    105 citations · Soil Carbon
 
 2. **A paradigm shift to CO2 sequestration to manage global warming – With the emphasis on developing countries** (2021)
-   68 citations · Soil Carbon
+   68 citations · General CDR
 
 3. **Greenhouse gas emissions and carbon sequestration associated with Integrated Crop–Livestock–Forestry (ICLF) systems** (2023)
-   15 citations · Soil Carbon
+   15 citations · General CDR
 
 4. **Land use change effect on organic matter dynamics and soil carbon sequestration in the Brazilian Cerrado: A study case in Mato Grosso do Sul state (Midwest-Brazil)** (2024)
    6 citations · Soil Carbon

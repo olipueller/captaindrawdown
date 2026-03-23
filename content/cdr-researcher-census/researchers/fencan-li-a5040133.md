@@ -1,7 +1,7 @@
 ---
 title: "Fencan Li"
 description: "Fencan Li is a Mid-career Soil Carbon researcher at Lanzhou University in CN. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.313044
+date: 2026-03-23T11:47:01.327217
 url: "/cdr-researcher-census/researchers/fencan-li-a5040133/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 111 |
 | Publications | 11 |
-| CDR Focus | 18.2% |
+| CDR Focus | 1820.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

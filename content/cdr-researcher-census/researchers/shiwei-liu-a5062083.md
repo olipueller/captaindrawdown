@@ -1,7 +1,7 @@
 ---
 title: "Shiwei Liu"
 description: "Shiwei Liu is a Senior Soil Carbon researcher at Southwest University in CN. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.091754
+date: 2026-03-23T11:46:59.598038
 url: "/cdr-researcher-census/researchers/shiwei-liu-a5062083/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 10 |
 | Citations | 743 |
 | Publications | 20 |
-| CDR Focus | 10.0% |
+| CDR Focus | 500.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

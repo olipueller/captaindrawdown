@@ -1,7 +1,7 @@
 ---
 title: "Tyler W. Hodges"
 description: "Tyler W. Hodges is a Senior DAC researcher at Indiana University of Pennsylvania in US. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.144403
+date: 2026-03-23T11:46:59.692327
 url: "/cdr-researcher-census/researchers/tyler-w-hodges-a5068140/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,13 +42,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 6 |
 | Citations | 625 |
 | Publications | 8 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Integrated Techno-Economic and Life Cycle Assessment of a Novel Algae-Based Coating for Direct Air Carbon Capture and Sequestration** (2022)
-   1 citations · Biochar
+   1 citations · DAC
 
 ## External Profiles
 

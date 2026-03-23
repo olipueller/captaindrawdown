@@ -1,7 +1,7 @@
 ---
 title: "Kseniya Papchenko"
-description: "Kseniya Papchenko is a Mid-career DAC researcher at University of Edinburgh in GB. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.065932
+description: "Kseniya Papchenko is a Mid-career carbon dioxide removal researcher at University of Edinburgh in GB. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.060195
 url: "/cdr-researcher-census/researchers/kseniya-papchenko-a5056992/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ University of Edinburgh · 🇬🇧 GB
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,16 +39,16 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 6 |
 | Citations | 139 |
 | Publications | 13 |
-| CDR Focus | 15.4% |
+| CDR Focus | 1540.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **An Assessment of Anion Exchange Membranes for CO2 Capture Processes: A Focus on Fumasep® and Sustainion®** (2025)
-   0 citations · DAC
+   0 citations
 
 2. **Assessment of Anion-Exchange Membranes for CO&lt;sub&gt;2&lt;/sub&gt; Capture Processes: A Focus on Fumasep&lt;sup&gt;®&lt;/sup&gt; and Sustainion&lt;sup&gt;®&lt;/sup&gt;** (2025)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

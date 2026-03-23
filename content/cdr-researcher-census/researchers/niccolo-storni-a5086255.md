@@ -1,7 +1,7 @@
 ---
 title: "Niccolò Storni"
-description: "Niccolò Storni is a Mid-career Ocean CDR researcher at Institute of Materials, Minerals and Mining in GB. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.038445
+description: "Niccolò Storni is a Mid-career Enhanced Weathering researcher at Institute of Materials, Minerals and Mining in GB. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.028280
 url: "/cdr-researcher-census/researchers/niccolo-storni-a5086255/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Institute of Materials, Minerals and Mining · 🇬🇧 GB
 
 ## CDR Specialization
 
-**Ocean CDR**
+**Enhanced Weathering**
 
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 3 |
 | Citations | 144 |
 | Publications | 5 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **The Availability of Limestone and Other Raw Materials for Ocean Alkalinity Enhancement** (2022)
-   113 citations · Ocean CDR
+   113 citations · Enhanced Weathering
 
 ## External Profiles
 

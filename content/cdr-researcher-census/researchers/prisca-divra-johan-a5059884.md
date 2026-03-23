@@ -1,7 +1,7 @@
 ---
 title: "Prisca Divra Johan"
-description: "Prisca Divra Johan is a Mid-career Enhanced Weathering researcher at Universiti Putra Malaysia in MY. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.361580
+description: "Prisca Divra Johan is a Mid-career Biochar researcher at Universiti Putra Malaysia in MY. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.074211
 url: "/cdr-researcher-census/researchers/prisca-divra-johan-a5059884/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Universiti Putra Malaysia · 🇲🇾 MY
 
 ## CDR Specialization
 
-**Enhanced Weathering**
+**Biochar**
 
-Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 6 |
 | Citations | 364 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Optimisation of Charcoal and Sago (Metroxylon sagu) Bark Ash to Improve Phosphorus Availability in Acidic Soils** (2021)
-   7 citations · Enhanced Weathering
+   7 citations · Biochar
 
 ## External Profiles
 

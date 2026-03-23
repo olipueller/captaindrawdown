@@ -1,7 +1,7 @@
 ---
 title: "Vajihe Shahrokh"
 description: "Vajihe Shahrokh is a Mid-career Soil Carbon researcher at Teagasc - The Irish Agriculture and Food Development Authority in IE. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.730167
+date: 2026-03-23T11:47:00.620959
 url: "/cdr-researcher-census/researchers/vajihe-shahrokh-a5083665/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 206 |
 | Publications | 16 |
-| CDR Focus | 12.5% |
+| CDR Focus | 620.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    39 citations · Soil Carbon
 
 2. **Perennial alley cropping contributes to decrease soil CO2 and N2O emissions and increase soil carbon sequestration in a Mediterranean almond orchard** (2022)
-   0 citations · Soil Carbon
+   0 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Magno André de Oliveira"
 description: "Magno André de Oliveira is a Mid-career Biochar researcher at Federal Center for Technological Education of Minas Gerais in BR. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.170511
+date: 2026-03-23T11:47:01.170849
 url: "/cdr-researcher-census/researchers/magno-andre-de-oliveira-a5014103/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 6 |
 | Citations | 126 |
 | Publications | 19 |
-| CDR Focus | 10.5% |
+| CDR Focus | 530.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

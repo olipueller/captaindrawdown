@@ -1,7 +1,7 @@
 ---
 title: "Xiaomin Gao"
 description: "Xiaomin Gao is a Senior Soil Carbon researcher at Chinese Academy of Forestry in CN. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.569590
+date: 2026-03-23T11:47:00.407907
 url: "/cdr-researcher-census/researchers/xiaomin-gao-a5001391/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 10 |
 | Citations | 256 |
 | Publications | 19 |
-| CDR Focus | 10.5% |
+| CDR Focus | 1050.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    20 citations · Soil Carbon
 
 2. **Fine root length density and production surpass root exudates to shape soil aggregate stability in a warm-temperate natural oak forest under multi-year drought conditions** (2025)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

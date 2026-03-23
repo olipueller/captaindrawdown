@@ -1,7 +1,7 @@
 ---
 title: "Jiexia Li"
 description: "Jiexia Li is a Mid-career Soil Carbon researcher at Qinghai University in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.999843
+date: 2026-03-23T11:47:00.988160
 url: "/cdr-researcher-census/researchers/jiexia-li-a5025542/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 150 |
 | Publications | 19 |
-| CDR Focus | 10.5% |
+| CDR Focus | 530.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Differential responses of CO2 and latent heat fluxes to climatic anomalies on two alpine grasslands on the northeastern Qinghai–Tibetan Plateau** (2023)
-   16 citations · Soil Carbon
+   16 citations
 
 2. **A dataset of the observations of carbon, water and heat fluxes over an alpine shrubland in Haibei (2011&amp;ndash;2020)** (2023)
    3 citations · Soil Carbon

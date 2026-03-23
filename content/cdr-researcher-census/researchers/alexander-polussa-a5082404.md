@@ -1,7 +1,7 @@
 ---
 title: "Alexander Polussa"
 description: "Alexander Polussa is a Mid-career Enhanced Weathering researcher at Yale University in US. With 29 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.418447
+date: 2026-03-23T11:47:00.167050
 url: "/cdr-researcher-census/researchers/alexander-polussa-a5082404/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 7 |
 | Citations | 325 |
 | Publications | 29 |
-| CDR Focus | 10.3% |
+| CDR Focus | 690.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    1 citations · Enhanced Weathering
 
 2. **Aggregated monitoring of enhanced weathering on agricultural lands** (2025)
-   0 citations · Enhanced Weathering
+   0 citations
 
 3. **Investigating terrestrial biogeochemical responses to enhanced rock weathering for carbon capture in a whole-watershed experiment** (2024)
    0 citations · Enhanced Weathering

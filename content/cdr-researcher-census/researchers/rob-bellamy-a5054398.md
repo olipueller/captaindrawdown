@@ -1,7 +1,7 @@
 ---
 title: "Rob Bellamy"
 description: "Rob Bellamy is a Senior General CDR researcher at The University of Manchester in GB. With 60 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.936408
+date: 2026-03-23T11:46:59.266054
 url: "/cdr-researcher-census/researchers/rob-bellamy-a5054398/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 23 |
 | Citations | 1,990 |
 | Publications | 60 |
-| CDR Focus | 16.7% |
+| CDR Focus | 1670.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Mapping public appraisals of carbon dioxide removal** (2022)
-   42 citations · BECCS
+   42 citations · General CDR
 
 2. **Carbon removal demonstrations and problems of public perception** (2023)
    19 citations · General CDR
@@ -60,7 +60,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    19 citations · General CDR
 
 4. **Public attitudes and emotions toward novel carbon removal methods in alternative sociotechnical scenarios** (2024)
-   16 citations · DAC
+   16 citations · General CDR
 
 5. **Editorial: Governing Carbon Dioxide Removal** (2021)
    9 citations · General CDR
@@ -75,10 +75,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    0 citations · General CDR
 
 9. **Shoreline demos: The contested place of the public in a marine carbon removal trial** (2025)
-   0 citations · Ocean CDR
+   0 citations · General CDR
 
 10. **Carbon removal support is tempered by concerns over whether biological methods are worth it** (2025)
-   0 citations · Biochar
+   0 citations · General CDR
 
 ## External Profiles
 

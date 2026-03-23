@@ -1,7 +1,7 @@
 ---
 title: "Ninghui Xie"
 description: "Ninghui Xie is a Mid-career Soil Carbon researcher at Shenyang Agricultural University in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.561941
+date: 2026-03-23T11:47:00.396454
 url: "/cdr-researcher-census/researchers/ninghui-xie-a5065551/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 259 |
 | Publications | 16 |
-| CDR Focus | 25.0% |
+| CDR Focus | 1250.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

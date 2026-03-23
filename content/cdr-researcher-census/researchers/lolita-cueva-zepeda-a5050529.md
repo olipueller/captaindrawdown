@@ -1,7 +1,7 @@
 ---
 title: "Lolita Cueva Zepeda"
 description: "Lolita Cueva Zepeda is an Early-career Biochar researcher at RMIT University in AU. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.072840
+date: 2026-03-23T11:47:01.068939
 url: "/cdr-researcher-census/researchers/lolita-cueva-zepeda-a5050529/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 4 |
 | Citations | 138 |
 | Publications | 4 |
-| CDR Focus | 25.0% |
+| CDR Focus | 2500.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

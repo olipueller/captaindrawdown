@@ -1,7 +1,7 @@
 ---
 title: "Wushuai Zhang"
 description: "Wushuai Zhang is a Senior Soil Carbon researcher at Southwest University in CN. With 40 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.975882
+date: 2026-03-23T11:46:59.346795
 url: "/cdr-researcher-census/researchers/wushuai-zhang-a5070153/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 20 |
 | Citations | 1,419 |
 | Publications | 40 |
-| CDR Focus | 12.5% |
+| CDR Focus | 750.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    93 citations · Soil Carbon
 
 2. **Combing public-private partnership and large-scale farming increased net ecosystem carbon budget and reduced carbon footprint of maize production** (2022)
-   36 citations · Soil Carbon
+   36 citations · General CDR
 
 3. **An integrated straw-tillage management increases maize crop productivity, soil organic carbon, and net ecosystem carbon budget** (2022)
    34 citations · Soil Carbon

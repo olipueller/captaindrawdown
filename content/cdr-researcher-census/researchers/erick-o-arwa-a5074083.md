@@ -1,7 +1,7 @@
 ---
 title: "Erick O. Arwa"
 description: "Erick O. Arwa is a Mid-career DAC researcher. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.890104
+date: 2026-03-23T11:47:00.848481
 url: "/cdr-researcher-census/researchers/erick-o-arwa-a5074083/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 4 |
 | Citations | 169 |
 | Publications | 6 |
-| CDR Focus | 50.0% |
+| CDR Focus | 5000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -52,7 +52,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    4 citations · DAC
 
 3. **Modeling the Maximization of Waste Heat Use in a Liquid Solvent Direct Air Capture Plant Through Hydrogen Production** (2024)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

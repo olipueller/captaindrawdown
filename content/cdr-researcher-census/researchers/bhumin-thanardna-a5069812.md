@@ -1,7 +1,7 @@
 ---
 title: "Bhumin Than‐ardna"
-description: "Bhumin Than‐ardna is a Mid-career DAC researcher at Chulalongkorn University in TH. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.967800
+description: "Bhumin Than‐ardna is a Mid-career General CDR researcher at Chulalongkorn University in TH. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.946479
 url: "/cdr-researcher-census/researchers/bhumin-thanardna-a5069812/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Chulalongkorn University · 🇹🇭 TH
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,16 +45,16 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 8 |
 | Citations | 154 |
 | Publications | 18 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Synthesized structure of Mg-MOF-74 decorated on ZIF-8 as solid adsorbent for CO2 capture** (2025)
-   9 citations · DAC
+   9 citations · General CDR
 
 2. **Optimizing CHA-type zeolite synthesis via dry gel conversion method for direct air capture of CO2: Effects of seed addition, H2O/Gel ratios, crystallization conditions, and aging time** (2025)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

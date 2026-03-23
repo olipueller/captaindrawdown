@@ -1,7 +1,7 @@
 ---
 title: "Jinze Bai"
-description: "Jinze Bai is a Mid-career Soil Carbon researcher at North West Agriculture and Forestry University in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.434788
+description: "Jinze Bai is a Mid-career Biochar researcher at North West Agriculture and Forestry University in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.195650
 url: "/cdr-researcher-census/researchers/jinze-bai-a5017228/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ North West Agriculture and Forestry University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 315 |
 | Publications | 19 |
-| CDR Focus | 21.1% |
+| CDR Focus | 2110.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -57,10 +57,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    37 citations · Biochar
 
 3. **Plastic film mulching mitigates the straw-induced soil greenhouse gas emissions in summer maize field** (2021)
-   36 citations · Soil Carbon
+   36 citations
 
 4. **Toward Low-Emission Agriculture: Synergistic Contribution of Inorganic Nitrogen and Organic Fertilizers to GHG Emissions and Strategies for Mitigation** (2025)
-   6 citations · Biochar
+   6 citations
 
 ## External Profiles
 

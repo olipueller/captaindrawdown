@@ -1,7 +1,7 @@
 ---
 title: "Iwona Kaczmarzyk"
-description: "Iwona Kaczmarzyk is an Early-career General CDR researcher at Gdańsk University of Technology in PL. With 18 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.845274
+description: "Iwona Kaczmarzyk is an Early-career Biochar researcher at Gdańsk University of Technology in PL. With 18 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.789907
 url: "/cdr-researcher-census/researchers/iwona-kaczmarzyk-a5080396/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Gdańsk University of Technology ·  PL
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 4 |
 | Citations | 178 |
 | Publications | 18 |
-| CDR Focus | 11.1% |
+| CDR Focus | 560.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    1 citations · Biochar
 
 2. **High-Performance Ceramic-Carbon Composite Electrodes for Sustainable Wastewater Remediation: A Comparative Study of Catalytically-active Nanoparticle Loading** (2025)
-   0 citations · General CDR
+   0 citations
 
 ## External Profiles
 

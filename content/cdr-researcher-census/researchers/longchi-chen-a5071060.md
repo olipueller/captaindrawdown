@@ -1,7 +1,7 @@
 ---
 title: "Longchi Chen"
 description: "Longchi Chen is a Senior Soil Carbon researcher at Institute of Applied Ecology in CN. With 59 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.020317
+date: 2026-03-23T11:46:59.452702
 url: "/cdr-researcher-census/researchers/longchi-chen-a5071060/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 19 |
 | Citations | 1,052 |
 | Publications | 59 |
-| CDR Focus | 10.2% |
+| CDR Focus | 1020.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    17 citations · Soil Carbon
 
 3. **Liming shift above- and belowground functional traits of Chinese fir from conservative to acquisitive** (2024)
-   6 citations · Soil Carbon
+   6 citations
 
 4. **Nitrogen Addition Decreases Rhizodeposition by Chinese Fir (Cunninghamia lanceolata (Lamb.) Hook) Seedlings and Its Distribution in Soil Aggregates** (2022)
    4 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Diana Nebeská"
 description: "Diana Nebeská is a Mid-career Soil Carbon researcher at Jan Evangelista Purkyně University in Ústí nad Labem in CZ. With 24 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.516995
+date: 2026-03-23T11:47:00.331290
 url: "/cdr-researcher-census/researchers/diana-nebeska-a5069258/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 10 |
 | Citations | 277 |
 | Publications | 24 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    25 citations · Soil Carbon
 
 2. **Rhizodegradation of diesel and PAH contaminated soils with Miscanthus × giganteus: Soil, plants, microbes and pollutants interactions after two seasons** (2025)
-   7 citations · Soil Carbon
+   7 citations
 
 3. **Interactions of Miscanthus × giganteus with microorganisms in degraded lands: potential for ecosystem restoration** (2025)
    0 citations · Soil Carbon

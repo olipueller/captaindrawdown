@@ -1,7 +1,7 @@
 ---
 title: "Ying‐Pin Huang"
 description: "Ying‐Pin Huang is a Senior Biochar researcher at Industrial Technology Research Institute in TW. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.193848
+date: 2026-03-23T11:46:59.784776
 url: "/cdr-researcher-census/researchers/yingpin-huang-a5076246/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,13 +42,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 7 |
 | Citations | 537 |
 | Publications | 19 |
-| CDR Focus | 10.5% |
+| CDR Focus | 530.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **GHG Emissions and Carbon Sequestration in Coastal Bambusa edulis Shelterbelts with Biochar and Organic Fertilizer** (2025)
-   0 citations · Biochar
+   0 citations
 
 2. **GHG Emissions and Carbon Sequestration in Coastal Bambusa edulis Shelterbelts with Biochar and Organic Fertilizer** (2025)
    0 citations · Biochar

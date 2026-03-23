@@ -1,7 +1,7 @@
 ---
 title: "Samuel Eberenz"
 description: "Samuel Eberenz is a Mid-career General CDR researcher. With 22 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.519908
+date: 2026-03-23T11:47:00.336104
 url: "/cdr-researcher-census/researchers/samuel-eberenz-a5027440/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,16 +40,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 7 |
 | Citations | 275 |
 | Publications | 22 |
-| CDR Focus | 13.6% |
+| CDR Focus | 1360.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **The ABC of Governance Principles for Carbon Dioxide Removal Policy** (2022)
-   41 citations · BECCS
+   41 citations · General CDR
 
 2. **Productive in disagreement: stakeholder deliberation insights on carbon dioxide removal in Germany** (2024)
-   2 citations · DAC
+   2 citations · General CDR
 
 3. **Effective and fair policy to mobilize industrial carbon dioxide removal** (2025)
    0 citations · BECCS

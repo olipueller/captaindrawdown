@@ -1,7 +1,7 @@
 ---
 title: "Sze Yu Lau"
-description: "Sze Yu Lau is a Mid-career Soil Carbon researcher at Biographics (United States) in US. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.929574
+description: "Sze Yu Lau is a Mid-career Biochar researcher at Biographics (United States) in US. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.897732
 url: "/cdr-researcher-census/researchers/sze-yu-lau-a5058369/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Biographics (United States) · 🇺🇸 US
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 162 |
 | Publications | 14 |
-| CDR Focus | 14.3% |
+| CDR Focus | 710.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    18 citations · Biochar
 
 2. **Effects of elevated CO2 on hydraulic performance and carbon assimilation of Schefflera arboricola** (2022)
-   3 citations · Biochar
+   3 citations
 
 ## External Profiles
 

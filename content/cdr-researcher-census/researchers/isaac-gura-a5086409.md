@@ -1,7 +1,7 @@
 ---
 title: "Isaac Gura"
 description: "Isaac Gura is a Mid-career Soil Carbon researcher at University of the Free State in ZA. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.285508
+date: 2026-03-23T11:47:01.297369
 url: "/cdr-researcher-census/researchers/isaac-gura-a5086409/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 113 |
 | Publications | 8 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Impact of conservation agriculture on soil health: lessons from the university of fort hare trial.** (2022)
-   4 citations · General CDR
+   4 citations · Soil Carbon
 
 ## External Profiles
 

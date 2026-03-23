@@ -1,7 +1,7 @@
 ---
 title: "Samantha Eleanor Tanzer"
-description: "Samantha Eleanor Tanzer is a Mid-career BECCS researcher at Delft University of Technology in NL. With 25 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.241681
+description: "Samantha Eleanor Tanzer is a Mid-career General CDR researcher at Delft University of Technology in NL. With 25 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.870914
 url: "/cdr-researcher-census/researchers/samantha-eleanor-tanzer-a5017437/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Delft University of Technology · 🇳🇱 NL
 
 ## CDR Specialization
 
-**BECCS**
+**General CDR**
 
-Combining biomass energy with carbon capture and storage to achieve negative emissions.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 6 |
 | Citations | 473 |
 | Publications | 25 |
-| CDR Focus | 40.0% |
+| CDR Focus | 2800.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -60,7 +60,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
    4 citations · BECCS
 
 4. **Life cycle assessment of ocean-based carbon dioxide removal approaches: A systematic literature review** (2025)
-   2 citations · General CDR
+   2 citations
 
 5. **So you want to build a BECCS plant: the patchwork policy context for bioelectricity with carbon capture and storage in Europe** (2025)
    2 citations · BECCS
@@ -72,10 +72,10 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
    0 citations · General CDR
 
 8. **Life cycle assessment of ocean-based carbon dioxide removal approaches: A systematic literature review** (2025)
-   0 citations · General CDR
+   0 citations
 
 9. **Raw dataset for Can bioenergy with carbon capture and storage result in carbon negative steel?** (2022)
-   0 citations · BECCS
+   0 citations
 
 10. **Raw dataset for Can bioenergy with carbon capture and storage result in carbon negative steel?** (2022)
    0 citations · BECCS

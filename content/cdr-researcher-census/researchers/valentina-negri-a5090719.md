@@ -1,7 +1,7 @@
 ---
 title: "Valentina Negri"
-description: "Valentina Negri is a Mid-career DAC researcher at ETH Zurich in CH. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.844755
+description: "Valentina Negri is a Mid-career General CDR researcher at ETH Zurich in CH. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.788997
 url: "/cdr-researcher-census/researchers/valentina-negri-a5090719/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ ETH Zurich · 🇨🇭 CH
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,22 +45,22 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 6 |
 | Citations | 178 |
 | Publications | 15 |
-| CDR Focus | 33.3% |
+| CDR Focus | 3330.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Sustainable scale-up of negative emissions technologies and practices: where to focus** (2022)
-   48 citations · DAC
+   48 citations · General CDR
 
 2. **Life cycle optimization of BECCS supply chains in the European Union** (2021)
    44 citations · BECCS
 
 3. **Navigating within the Safe Operating Space with Carbon Capture On-Board** (2022)
-   34 citations · DAC
+   34 citations
 
 4. **Sustainable Development Goals assessment of carbon capture on-board** (2023)
-   6 citations · DAC
+   6 citations · General CDR
 
 5. **Implications of Optimal BECCS Supply Chains on Absolute Sustainability** (2022)
    1 citations · BECCS

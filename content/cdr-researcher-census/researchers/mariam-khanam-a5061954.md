@@ -1,7 +1,7 @@
 ---
 title: "Mariam Khanam"
-description: "Mariam Khanam is a Senior Soil Carbon researcher at Gazipur Agricultural University in BD. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.190380
+description: "Mariam Khanam is a Senior carbon dioxide removal researcher at Gazipur Agricultural University in BD. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.194522
 url: "/cdr-researcher-census/researchers/mariam-khanam-a5061954/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Gazipur Agricultural University · 🇧🇩 BD
 
 **Career Stage:** Senior
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 124 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Role of Microorganisms in Soil Health Management** (2024)
-   3 citations · Soil Carbon
+   3 citations
 
 ## External Profiles
 

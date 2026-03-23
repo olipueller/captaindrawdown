@@ -1,7 +1,7 @@
 ---
 title: "Chaoyue Yu"
-description: "Chaoyue Yu is a Mid-career Soil Carbon researcher at Renmin University of China in CN. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.440713
+description: "Chaoyue Yu is a Mid-career carbon dioxide removal researcher at Renmin University of China in CN. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.204638
 url: "/cdr-researcher-census/researchers/chaoyue-yu-a5055157/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Renmin University of China · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,16 +36,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 10 |
 | Citations | 312 |
 | Publications | 17 |
-| CDR Focus | 11.8% |
+| CDR Focus | 590.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Assessment of the effectiveness of China’s protected areas in enhancing ecosystem services** (2023)
-   64 citations · Soil Carbon
+   64 citations
 
 2. **How Does Urban Expansion Affect Ecosystem Services? A Typical Case of an Eco-Fragile Area** (2022)
-   0 citations · Soil Carbon
+   0 citations
 
 ## External Profiles
 

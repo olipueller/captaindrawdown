@@ -1,7 +1,7 @@
 ---
 title: "Susanne Abel"
-description: "Susanne Abel is an Early-career General CDR researcher at Universität Greifswald in DE. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.854720
+description: "Susanne Abel is an Early-career BECCS researcher at Universität Greifswald in DE. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.801079
 url: "/cdr-researcher-census/researchers/susanne-abel-a5060130/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Universität Greifswald · 🇩🇪 DE
 
 ## CDR Specialization
 
-**General CDR**
+**BECCS**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 4 |
 | Citations | 176 |
 | Publications | 10 |
-| CDR Focus | 20.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Dynamics of bio-based carbon dioxide removal in Germany** (2024)
-   4 citations · BECCS
+   4 citations
 
 2. **Dynamics of bio-based carbon dioxide removal in Germany** (2023)
    3 citations · BECCS

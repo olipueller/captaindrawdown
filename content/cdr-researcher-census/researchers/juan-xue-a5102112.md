@@ -1,7 +1,7 @@
 ---
 title: "Juan Xue"
 description: "Juan Xue is a Mid-career Soil Carbon researcher at Sichuan University in CN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.788768
+date: 2026-03-23T11:47:00.697453
 url: "/cdr-researcher-census/researchers/juan-xue-a5102112/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 191 |
 | Publications | 11 |
-| CDR Focus | 36.4% |
+| CDR Focus | 3640.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

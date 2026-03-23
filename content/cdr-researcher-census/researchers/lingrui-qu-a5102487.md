@@ -1,7 +1,7 @@
 ---
 title: "Lingrui Qu"
 description: "Lingrui Qu is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.078048
+date: 2026-03-23T11:46:59.571270
 url: "/cdr-researcher-census/researchers/lingrui-qu-a5102487/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 786 |
 | Publications | 16 |
-| CDR Focus | 25.0% |
+| CDR Focus | 2500.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Stoichiometric imbalance and microbial community regulate microbial elements use efficiencies under nitrogen addition** (2021)
-   186 citations · Soil Carbon
+   186 citations
 
 2. **Integrating microbial community properties, biomass and necromass to predict cropland soil organic carbon** (2023)
    113 citations · Soil Carbon
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    8 citations · Soil Carbon
 
 4. **Climate warming reduces soil gaseous nitrogen losses in a temperate forest** (2025)
-   0 citations · Soil Carbon
+   0 citations
 
 ## External Profiles
 

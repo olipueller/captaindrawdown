@@ -1,7 +1,7 @@
 ---
 title: "Nicholas O. E. Ofiti"
 description: "Nicholas O. E. Ofiti is a Mid-career Soil Carbon researcher at University of Bern in CH. With 43 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.168697
+date: 2026-03-23T11:46:59.739731
 url: "/cdr-researcher-census/researchers/nicholas-o-e-ofiti-a5046560/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 579 |
 | Publications | 43 |
-| CDR Focus | 14.0% |
+| CDR Focus | 930.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    64 citations · Soil Carbon
 
 2. **Nine years of warming and nitrogen addition in the Tibetan grassland promoted loss of soil organic carbon but did not alter the bulk change in chemical structure** (2024)
-   4 citations · Soil Carbon
+   4 citations · General CDR
 
 3. **Nine years of warming and nitrogen addition in the Tibetan grassland promoted loss of soil organic carbon but did not alter the bulk change of chemical structure** (2023)
    2 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Man Cheng"
 description: "Man Cheng is a Mid-career Soil Carbon researcher at Chinese Academy of Tropical Agricultural Sciences in CN. With 25 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.086168
+date: 2026-03-23T11:46:59.584877
 url: "/cdr-researcher-census/researchers/man-cheng-a5101679/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 11 |
 | Citations | 762 |
 | Publications | 25 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    3 citations · Soil Carbon
 
 4. **Unveiling the Carbon Secrets: How Forestry Projects Transform Biomass and Soil Carbon on the Tibet Plateau** (2025)
-   1 citations · Soil Carbon
+   1 citations · General CDR
 
 5. **Shifts in biotic and abiotic controls of soil organic carbon mineralization across vegetation types and soil depths in Luya Mountain** (2025)
    0 citations · Soil Carbon

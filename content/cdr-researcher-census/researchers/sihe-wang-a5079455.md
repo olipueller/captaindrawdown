@@ -1,7 +1,7 @@
 ---
 title: "Sihe Wang"
-description: "Sihe Wang is a Senior DAC researcher at Shandong University in CN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.216373
+description: "Sihe Wang is a Senior carbon dioxide removal researcher at Shandong University in CN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.223760
 url: "/cdr-researcher-census/researchers/sihe-wang-a5079455/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Shandong University · 🇨🇳 CN
 
 **Career Stage:** Senior
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 5 |
 | Citations | 120 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Design and preparation of novel diamine-grafted solid amine adsorbent for efficient carbon dioxide capture from air** (2025)
-   6 citations · DAC
+   6 citations
 
 ## External Profiles
 

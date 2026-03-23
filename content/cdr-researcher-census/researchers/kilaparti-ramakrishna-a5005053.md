@@ -1,7 +1,7 @@
 ---
 title: "Kilaparti Ramakrishna"
-description: "Kilaparti Ramakrishna is a Senior Ocean CDR researcher at Woods Hole Oceanographic Institution in US. With 47 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.850357
+description: "Kilaparti Ramakrishna is a Senior General CDR researcher at Woods Hole Oceanographic Institution in US. With 47 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.795545
 url: "/cdr-researcher-census/researchers/kilaparti-ramakrishna-a5005053/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Woods Hole Oceanographic Institution · 🇺🇸 US
 
 ## CDR Specialization
 
-**Ocean CDR**
+**General CDR**
 
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 6 |
 | Citations | 177 |
 | Publications | 47 |
-| CDR Focus | 10.6% |
+| CDR Focus | 1060.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Ali Asaadi"
-description: "Ali Asaadi is a Mid-career Ocean CDR researcher at Bjerknes Centre for Climate Research in NO. With 40 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.332638
+description: "Ali Asaadi is a Mid-career General CDR researcher at Bjerknes Centre for Climate Research in NO. With 40 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.021495
 url: "/cdr-researcher-census/researchers/ali-asaadi-a5088271/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Bjerknes Centre for Climate Research · 🇳🇴 NO
 
 ## CDR Specialization
 
-**Ocean CDR**
+**General CDR**
 
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,7 +42,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 12 |
 | Citations | 387 |
 | Publications | 40 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Martin Greco-Coppi"
-description: "Martin Greco-Coppi is a Mid-career DAC researcher. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.047500
+description: "Martin Greco-Coppi is a Mid-career General CDR researcher. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.039446
 url: "/cdr-researcher-census/researchers/martin-greco-coppi-a5036281/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,9 +29,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -40,16 +40,16 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 7 |
 | Citations | 142 |
 | Publications | 18 |
-| CDR Focus | 11.1% |
+| CDR Focus | 560.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Efficient CO2 capture from lime production by an indirectly heated carbonate looping process** (2021)
-   35 citations · DAC
+   35 citations
 
 2. **Efficient CO2 Capture from Lime Production by an Indirectly Heated Carbonate Looping Process** (2021)
-   8 citations · DAC
+   8 citations · General CDR
 
 ## External Profiles
 

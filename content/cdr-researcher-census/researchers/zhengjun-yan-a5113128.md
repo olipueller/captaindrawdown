@@ -1,7 +1,7 @@
 ---
 title: "Zhengjun Yan"
 description: "Zhengjun Yan is a Mid-career Soil Carbon researcher at Shandong University in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.625998
+date: 2026-03-23T11:47:00.480720
 url: "/cdr-researcher-census/researchers/zhengjun-yan-a5113128/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 237 |
 | Publications | 19 |
-| CDR Focus | 10.5% |
+| CDR Focus | 530.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

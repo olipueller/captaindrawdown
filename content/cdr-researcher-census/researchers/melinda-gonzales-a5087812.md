@@ -1,7 +1,7 @@
 ---
 title: "Melinda Gonzales"
-description: "Melinda Gonzales is a Mid-career Soil Carbon researcher at University of California, Merced in US. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.985859
+description: "Melinda Gonzales is a Mid-career General CDR researcher at University of California, Merced in US. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.966091
 url: "/cdr-researcher-census/researchers/melinda-gonzales-a5087812/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ University of California, Merced · 🇺🇸 US
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,16 +42,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 152 |
 | Publications | 8 |
-| CDR Focus | 25.0% |
+| CDR Focus | 1250.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **What’s Soil Got to Do with Climate Change?** (2022)
-   16 citations · Soil Carbon
+   16 citations · General CDR
 
 2. **Assessing Compost Carbon Permanence with Solid-State 13C NMR: Advancing Standards for Climate and Carbon Markets** (2025)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

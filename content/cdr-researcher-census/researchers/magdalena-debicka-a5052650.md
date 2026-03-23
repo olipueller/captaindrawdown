@@ -1,7 +1,7 @@
 ---
 title: "Magdalena Dębicka"
 description: "Magdalena Dębicka is a Senior Soil Carbon researcher at Wrocław University of Environmental and Life Sciences in PL. With 42 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.188621
+date: 2026-03-23T11:46:59.772271
 url: "/cdr-researcher-census/researchers/magdalena-debicka-a5052650/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 11 |
 | Citations | 550 |
 | Publications | 42 |
-| CDR Focus | 19.0% |
+| CDR Focus | 1900.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -60,13 +60,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    5 citations · Soil Carbon
 
 4. **Molecular characteristics of humin fraction isolated from soils of temperate climate: a study on Chernozems and Phaeozems in Poland** (2023)
-   1 citations · Soil Carbon
+   1 citations
 
 5. **Response of the Soil Organic Matter to Clear-cutting in the Face of Climate Change – a Report from the East Sudety Mountains, South-West Poland** (2024)
-   0 citations · Enhanced Weathering
+   0 citations · Soil Carbon
 
 6. **Soil management effects on soil organic matter properties and carbon sequestration (SOMPACS)** (2023)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 7. **Luminescence properties of the humin fraction isolated from Chernozems and Phaeozems from various regions of Poland&amp;#160;** (2022)
    0 citations · Soil Carbon

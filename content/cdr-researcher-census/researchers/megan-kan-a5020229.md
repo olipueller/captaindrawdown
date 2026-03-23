@@ -1,7 +1,7 @@
 ---
 title: "Megan Kan"
 description: "Megan Kan is a Mid-career Soil Carbon researcher at Lawrence Livermore National Laboratory in US. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.303144
+date: 2026-03-23T11:46:59.981337
 url: "/cdr-researcher-census/researchers/megan-kan-a5020229/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 408 |
 | Publications | 13 |
-| CDR Focus | 23.1% |
+| CDR Focus | 2310.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

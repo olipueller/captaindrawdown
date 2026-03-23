@@ -1,7 +1,7 @@
 ---
 title: "Anja Krieger"
-description: "Anja Krieger is an Early-career Ocean CDR researcher at Department for Work and Pensions in GB. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.320365
+description: "Anja Krieger is an Early-career carbon dioxide removal researcher at Department for Work and Pensions in GB. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.004281
 url: "/cdr-researcher-census/researchers/anja-krieger-a5009714/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Department for Work and Pensions · 🇬🇧 GB
 
 **Career Stage:** Early-career
 
-## CDR Specialization
-
-**Ocean CDR**
-
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 4 |
 | Citations | 396 |
 | Publications | 6 |
-| CDR Focus | 16.7% |
+| CDR Focus | 1670.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Moving from symptom management to upstream plastics prevention: The fallacy of plastic cleanup technology** (2023)
-   47 citations · Ocean CDR
+   47 citations
 
 ## External Profiles
 

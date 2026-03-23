@@ -1,7 +1,7 @@
 ---
 title: "Jakob Zink Thellufsen"
-description: "Jakob Zink Thellufsen is an Early-career BECCS researcher. With 2 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.416611
+description: "Jakob Zink Thellufsen is an Early-career General CDR researcher. With 2 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.161562
 url: "/cdr-researcher-census/researchers/jakob-zink-thellufsen-a5112613/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,9 +26,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**BECCS**
+**General CDR**
 
-Combining biomass energy with carbon capture and storage to achieve negative emissions.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -37,13 +37,13 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 1 |
 | Citations | 327 |
 | Publications | 2 |
-| CDR Focus | 50.0% |
+| CDR Focus | 5000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Quantifying the impacts of policies on compensating for the hard-to-abate emissions of a smart energy city** (2025)
-   0 citations · BECCS
+   0 citations · General CDR
 
 ## External Profiles
 

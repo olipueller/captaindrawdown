@@ -1,7 +1,7 @@
 ---
 title: "Hyun June Moon"
-description: "Hyun June Moon is a Mid-career DAC researcher at University of Delaware in US. With 25 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.239708
+description: "Hyun June Moon is a Mid-career carbon dioxide removal researcher at University of Delaware in US. With 25 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.866273
 url: "/cdr-researcher-census/researchers/hyun-june-moon-a5080890/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ University of Delaware · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,25 +39,25 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 13 |
 | Citations | 476 |
 | Publications | 25 |
-| CDR Focus | 20.0% |
+| CDR Focus | 1600.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Insights into the Oxidative Degradation Mechanism of Solid Amine Sorbents for CO <sub>2</sub> Capture from Air: Roles of Atmospheric Water** (2023)
-   95 citations · DAC
+   95 citations
 
 2. **Insights into the Oxidative Degradation Mechanism of Solid Amine Sorbents for CO <sub>2</sub> Capture from Air: Roles of Atmospheric Water** (2023)
-   13 citations · DAC
+   13 citations
 
 3. **Distribution and Transport of CO<sub>2</sub> in Hyperbranched Poly(ethylenimine)-Loaded MCM-41: A Molecular Dynamics Simulation Approach** (2023)
-   12 citations · DAC
+   12 citations
 
 4. **CO<sub>2</sub> Uptake and Stability Enhancement in Vinyltrimethoxysilane‐Treated SBA‐15 Solid Amine‐Based Sorbents** (2024)
-   7 citations · DAC
+   7 citations
 
 5. **Understanding and mitigating degradation in amine-based sorbents for CO2 direct air capture** (2026)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

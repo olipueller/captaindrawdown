@@ -1,7 +1,7 @@
 ---
 title: "Omid Ghaffari Nik"
-description: "Omid Ghaffari Nik is a Senior DAC researcher at Carbon Capture Inc in US. With 15 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.939385
+description: "Omid Ghaffari Nik is a Senior carbon dioxide removal researcher at Carbon Capture Inc in US. With 15 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.271639
 url: "/cdr-researcher-census/researchers/omid-ghaffari-nik-a5024848/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Carbon Capture Inc · 🇺🇸 US
 
 **Career Stage:** Senior
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,16 +39,16 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 12 |
 | Citations | 1,957 |
 | Publications | 15 |
-| CDR Focus | 13.3% |
+| CDR Focus | 1330.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Rapid Cycle Temperature Swing Adsorption Process Using Solid Structured Sorbent for CO2 capture from Cement Flue Gas** (2021)
-   38 citations · DAC
+   38 citations
 
 2. **Humidity Effects on Sub-Ambient Direct Air Capture of CO<sub>2</sub> with Amine Functionalized Mg-Al LDHs and MMOs** (2024)
-   13 citations · DAC
+   13 citations
 
 ## External Profiles
 

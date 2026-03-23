@@ -1,7 +1,7 @@
 ---
 title: "Zhongyuan Zhao"
-description: "Zhongyuan Zhao is a Senior Soil Carbon researcher at Nanjing University of Information Science and Technology in CN. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.828110
+description: "Zhongyuan Zhao is a Senior carbon dioxide removal researcher at Nanjing University of Information Science and Technology in CN. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.765162
 url: "/cdr-researcher-census/researchers/zhongyuan-zhao-a5017077/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Nanjing University of Information Science and Technology · 🇨🇳 CN
 
 **Career Stage:** Senior
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 3 |
 | Citations | 183 |
 | Publications | 6 |
-| CDR Focus | 16.7% |
+| CDR Focus | 1670.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Dynamics of ecosystem service-driven networks in the Qilian Mountains and their implications for protected area management** (2025)
-   0 citations · Soil Carbon
+   0 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Pol Knops"
 description: "Pol Knops is a Mid-career Enhanced Weathering researcher at Nano Carbon (Poland) in PL. With 22 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.085183
+date: 2026-03-23T11:46:59.582285
 url: "/cdr-researcher-census/researchers/pol-knops-a5051182/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 10 |
 | Citations | 766 |
 | Publications | 22 |
-| CDR Focus | 13.6% |
+| CDR Focus | 1360.0% |
 | Trajectory | Unknown |
 
 ## Top CDR Publications
 
 1. **Size-Fractionated Weathering of Olivine, Its CO2-Sequestration Rate, and Ecotoxicological Risk Assessment of Nickel Release** (2023)
-   24 citations · General CDR
+   24 citations · Enhanced Weathering
 
 2. **Live optical imaging of dissolution of olivine under conditions relevant to enhanced weathering in a microreactor.** (2025)
    1 citations · Enhanced Weathering

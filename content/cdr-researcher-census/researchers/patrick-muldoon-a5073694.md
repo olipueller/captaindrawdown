@@ -1,7 +1,7 @@
 ---
 title: "Patrick Muldoon"
-description: "Patrick Muldoon is a Senior DAC researcher at Defense Logistics Agency in US. With 42 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.187896
+description: "Patrick Muldoon is a Senior carbon dioxide removal researcher at Defense Logistics Agency in US. With 42 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.770526
 url: "/cdr-researcher-census/researchers/patrick-muldoon-a5073694/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Defense Logistics Agency · 🇺🇸 US
 
 **Career Stage:** Senior
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,40 +39,40 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 8 |
 | Citations | 552 |
 | Publications | 42 |
-| CDR Focus | 28.6% |
+| CDR Focus | 1430.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Single polymer sorbent fibers for high performance and rapid direct air capture** (2023)
-   15 citations · DAC
+   15 citations
 
 2. **Propylamine functionalized porous fiber sorbents with high oxidation stability for direct air capture** (2025)
-   4 citations · DAC
+   4 citations
 
 3. **Single polymer sorbent fibers for high performance and rapid direct air capture** (2022)
-   2 citations · DAC
+   2 citations
 
 4. **Porous Polyvinylamine Adsorbents with Low Temperature Regenerability for Direct Air Capture** (2024)
-   1 citations · DAC
+   1 citations
 
 5. **Amine functionalized flat sheet porous polymer sorbents with oxidative degradation resistance for efficient low CO2 concentration capture applications** (2025)
-   0 citations · DAC
+   0 citations
 
 6. **Scalable High Performance Flat Sheet Adsorbents for Carbon Capture** (2025)
-   0 citations · DAC
+   0 citations
 
 7. **Propylamine Functionalized Porous Fiber Sorbents with High Oxidation Stability for Direct Air Capture** (2025)
-   0 citations · DAC
+   0 citations
 
 8. **Propylamine Functionalized Porous Fiber Sorbents with High Oxidation Stability for Direct Air Capture** (2025)
-   0 citations · DAC
+   0 citations
 
 9. **Propylamine Functionalized Porous Fiber Sorbents with High Oxidation Stability for Direct Air Capture** (2024)
-   0 citations · DAC
+   0 citations
 
 10. **Accelerated Aging of a Polymer-Supported Molecular Amine Direct Air Capture Sorbent: Experiments and Theory** (2024)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

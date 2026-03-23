@@ -1,7 +1,7 @@
 ---
 title: "Matthew C. Atwood"
-description: "Matthew C. Atwood is a Senior DAC researcher at Southern States Energy Board in US. With 8 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.880715
+description: "Matthew C. Atwood is a Senior carbon dioxide removal researcher at Southern States Energy Board in US. With 8 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.836905
 url: "/cdr-researcher-census/researchers/matthew-c-atwood-a5056416/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Southern States Energy Board · 🇺🇸 US
 
 **Career Stage:** Senior
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 2 |
 | Citations | 171 |
 | Publications | 8 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Direct Air Capture Recovery of Energy for CCUS Partnership (DAC RECO&lt;sub&gt;2&lt;/sub&gt;UP) Final Technical Report** (2024)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Sourabh Deb"
 description: "Sourabh Deb is a Senior Soil Carbon researcher at Tripura University in IN. With 39 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.138622
+date: 2026-03-23T11:46:59.680757
 url: "/cdr-researcher-census/researchers/sourabh-deb-a5015148/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,19 +45,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 13 |
 | Citations | 635 |
 | Publications | 39 |
-| CDR Focus | 15.4% |
+| CDR Focus | 1280.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Quantifying Tree Diversity, Carbon Stocks, and Sequestration Potential for Diverse Land Uses in Northeast India** (2021)
-   64 citations · Soil Carbon
+   64 citations · General CDR
 
 2. **Variability of carbon stored in inland freshwater wetland in Northeast India** (2022)
    12 citations · Soil Carbon
 
 3. **Assessment of Carbon Stock and Carbon Sequestration Potential in three major density-based forest ecosystems of Tripura, North-East India** (2022)
-   2 citations · Soil Carbon
+   2 citations · General CDR
 
 4. **Fluctuation of soil organic carbon storage along the canopy density gradients of different natural forests in Tripura** (2025)
    0 citations · Soil Carbon

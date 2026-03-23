@@ -1,7 +1,7 @@
 ---
 title: "Daniel P. Dauhajre"
-description: "Daniel P. Dauhajre is a Mid-career General CDR researcher at University of California, Santa Barbara in US. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.522677
+description: "Daniel P. Dauhajre is a Mid-career Ocean CDR researcher at University of California, Santa Barbara in US. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.339323
 url: "/cdr-researcher-census/researchers/daniel-p-dauhajre-a5041431/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of California, Santa Barbara · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**Ocean CDR**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 7 |
 | Citations | 274 |
 | Publications | 17 |
-| CDR Focus | 11.8% |
+| CDR Focus | 1180.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Comparing Kelp Conveyance Strategies for Marine Carbon Dioxide Removal with Farmed Macroalgae** (2023)
-   1 citations · General CDR
+   1 citations · Ocean CDR
 
 2. **Considerations for Regional Simulations of Seaweed Carbon Dioxide Removal** (2023)
    0 citations · General CDR

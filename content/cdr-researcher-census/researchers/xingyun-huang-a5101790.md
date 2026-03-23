@@ -1,7 +1,7 @@
 ---
 title: "Xingyun Huang"
 description: "Xingyun Huang is a Senior Soil Carbon researcher at South China Botanical Garden in CN. With 48 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.005553
+date: 2026-03-23T11:46:59.422053
 url: "/cdr-researcher-census/researchers/xingyun-huang-a5101790/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 16 |
 | Citations | 1,147 |
 | Publications | 48 |
-| CDR Focus | 18.8% |
+| CDR Focus | 830.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -60,13 +60,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    20 citations · Soil Carbon
 
 4. **Blue carbon storage of tidal flats and salt marshes: A comparative assessment in two Chinese coastal areas** (2024)
-   16 citations · Soil Carbon
+   16 citations · Ocean CDR
 
 5. **Enhanced abundance of generalist and litter saprotrophs explain increased tropical forest soil carbon with long‐term nitrogen deposition** (2023)
    12 citations · Soil Carbon
 
 6. **Mangrove restoration enhances blue carbon sequestration and its stability in a subtropical tidal wetland** (2025)
-   5 citations · Soil Carbon
+   5 citations · Ocean CDR
 
 7. **Responses of depth-dependence of C:N:P stoichiometry to check dam in mangrove wetlands** (2024)
    4 citations · Soil Carbon

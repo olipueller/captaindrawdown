@@ -1,7 +1,7 @@
 ---
 title: "Isra E. Gilani"
-description: "Isra E. Gilani is an Early-career Biochar researcher at Qatar University in QA. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.238930
+description: "Isra E. Gilani is an Early-career carbon dioxide removal researcher at Qatar University in QA. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.244839
 url: "/cdr-researcher-census/researchers/isra-e-gilani-a5092708/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Qatar University ·  QA
 
 **Career Stage:** Early-career
 
-## CDR Specialization
-
-**Biochar**
-
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 3 |
 | Citations | 118 |
 | Publications | 4 |
-| CDR Focus | 25.0% |
+| CDR Focus | 2500.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Microalgal-based desalination brine remediation: Achievements, challenges, and future research trends** (2024)
-   21 citations · Biochar
+   21 citations
 
 ## External Profiles
 

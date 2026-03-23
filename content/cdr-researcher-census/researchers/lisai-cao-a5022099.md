@@ -1,7 +1,7 @@
 ---
 title: "Lisai Cao"
-description: "Lisai Cao is a Mid-career Soil Carbon researcher at Jilin University in CN. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.895086
+description: "Lisai Cao is a Mid-career General CDR researcher at Jilin University in CN. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.854373
 url: "/cdr-researcher-census/researchers/lisai-cao-a5022099/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Jilin University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,16 +45,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 169 |
 | Publications | 11 |
-| CDR Focus | 18.2% |
+| CDR Focus | 910.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **SI: Advanced Quantitative Remote Sensing for Sustainable Agriculture and Vegetation: From Multi-Sensor Fusion to AI-Driven Global Food Security** (2025)
-   0 citations · Soil Carbon
+   0 citations
 
 2. **SI: Advanced Quantitative Remote Sensing for Sustainable Agriculture and Vegetation: From Multi-Sensor Fusion to AI-Driven Global Food Security** (2025)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

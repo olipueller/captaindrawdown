@@ -1,7 +1,7 @@
 ---
 title: "Candelaria Bergero"
 description: "Candelaria Bergero is a Mid-career General CDR researcher at University of Wisconsin–Madison in US. With 27 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.129946
+date: 2026-03-23T11:46:59.663638
 url: "/cdr-researcher-census/researchers/candelaria-bergero-a5081360/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 9 |
 | Citations | 652 |
 | Publications | 27 |
-| CDR Focus | 48.1% |
+| CDR Focus | 3330.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -54,16 +54,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    316 citations · General CDR
 
 2. **Diverse carbon dioxide removal approaches could reduce impacts on the energy–water–land system** (2023)
-   184 citations · BECCS
+   184 citations · General CDR
 
 3. **Technology, technology, technology: An integrated assessment of deep decarbonization pathways for the Canadian oil sands** (2022)
    29 citations · DAC
 
 4. **Biochar as a carbon dioxide removal strategy in integrated long-run mitigation scenarios** (2024)
-   13 citations · BECCS
+   13 citations · Biochar
 
 5. **Biochar as a carbon dioxide removal strategy in integrated long-run climate scenarios** (2022)
-   10 citations · BECCS
+   10 citations · Biochar
 
 6. **Deep decarbonization and U.S. biofuels production: a coordinated analysis with a detailed structural model and an integrated multisectoral model** (2023)
    1 citations · BECCS
@@ -72,13 +72,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    1 citations · General CDR
 
 8. **The climate implications of failing to manage carbon** (2025)
-   0 citations · BECCS
+   0 citations
 
 9. **Residual emissions may perpetuate community-scale inequalities of U.S. air pollution in net-zero scenarios** (2025)
    0 citations · General CDR
 
 10. **The climate implications of failing to manage carbon** (2025)
-   0 citations · BECCS
+   0 citations · DAC
 
 ## External Profiles
 

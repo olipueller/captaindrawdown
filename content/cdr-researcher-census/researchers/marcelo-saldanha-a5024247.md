@@ -1,7 +1,7 @@
 ---
 title: "Marcelo Saldanha"
-description: "Marcelo Saldanha is a Senior Soil Carbon researcher at Brazilian Agricultural Research Corporation in BR. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.402372
+description: "Marcelo Saldanha is a Senior Biochar researcher at Brazilian Agricultural Research Corporation in BR. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.136060
 url: "/cdr-researcher-census/researchers/marcelo-saldanha-a5024247/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Brazilian Agricultural Research Corporation · 🇧🇷 BR
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 3 |
 | Citations | 336 |
 | Publications | 5 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

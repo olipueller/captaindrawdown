@@ -1,7 +1,7 @@
 ---
 title: "Johan Ahlström"
 description: "Johan Ahlström is a Mid-career BECCS researcher at RISE Research Institutes of Sweden in SE. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.464110
+date: 2026-03-23T11:47:00.242658
 url: "/cdr-researcher-census/researchers/johan-ahlstrom-a5021816/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 9 |
 | Citations | 300 |
 | Publications | 26 |
-| CDR Focus | 15.4% |
+| CDR Focus | 770.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

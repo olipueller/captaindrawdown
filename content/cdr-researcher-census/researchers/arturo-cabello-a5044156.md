@@ -1,7 +1,7 @@
 ---
 title: "Arturo Cabello"
 description: "Arturo Cabello is a Senior BECCS researcher at Instituto de Carboquímica in ES. With 73 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.990833
+date: 2026-03-23T11:46:59.384595
 url: "/cdr-researcher-census/researchers/arturo-cabello-a5044156/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 20 |
 | Citations | 1,281 |
 | Publications | 73 |
-| CDR Focus | 17.8% |
+| CDR Focus | 1100.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -66,7 +66,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
    2 citations · BECCS
 
 6. **Development of a Chemical Looping Combustor Fed With Natural Gas and Its Integration With a Gas Turbine in ASPEN Plus** (2023)
-   0 citations · BECCS
+   0 citations
 
 7. **Technical Evaluation of a Chemical Looping Combustor Fed With Biofuels And Its Integration With a Gas Turbine** (2022)
    0 citations · BECCS
@@ -75,10 +75,10 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
    0 citations · BECCS
 
 9. **Bioenergy with Carbon Capture and Storage (BECCS) developed by coupling a Pressurised Chemical Looping combustor with a turbo expander: How to optimize plant efficiency** (2022)
-   0 citations · BECCS
+   0 citations
 
 10. **Design of the air reactor for a chemical looping combustion plant coupled with a turbo expander** (2022)
-   0 citations · BECCS
+   0 citations
 
 ## External Profiles
 

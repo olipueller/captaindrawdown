@@ -1,7 +1,7 @@
 ---
 title: "Liangjie Sun"
 description: "Liangjie Sun is a Mid-career Soil Carbon researcher at Shenyang Agricultural University in CN. With 38 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.186051
+date: 2026-03-23T11:46:59.766894
 url: "/cdr-researcher-census/researchers/liangjie-sun-a5100914/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 15 |
 | Citations | 556 |
 | Publications | 38 |
-| CDR Focus | 21.1% |
+| CDR Focus | 2110.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

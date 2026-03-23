@@ -1,7 +1,7 @@
 ---
 title: "Shivesh Kishore Karan"
-description: "Shivesh Kishore Karan is a Mid-career Soil Carbon researcher at Norwegian Institute of Bioeconomy Research in NO. With 33 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.117948
+description: "Shivesh Kishore Karan is a Mid-career General CDR researcher at Norwegian Institute of Bioeconomy Research in NO. With 33 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.646164
 url: "/cdr-researcher-census/researchers/shivesh-kishore-karan-a5041123/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Norwegian Institute of Bioeconomy Research · 🇳🇴 NO
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 13 |
 | Citations | 672 |
 | Publications | 33 |
-| CDR Focus | 18.2% |
+| CDR Focus | 1210.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -57,10 +57,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    17 citations · General CDR
 
 3. **A spatial framework for prioritizing biochar application to arable land: A case study for Sweden** (2022)
-   13 citations · Biochar
+   13 citations
 
 4. **A spatial framework for prioritizing biochar application to arable land: a case study for Sweden** (2022)
-   2 citations · Biochar
+   2 citations
 
 5. **A Spatial Framework for Prioritizing Biochar Application to Arable Land: A Case Study for Sweden** (2022)
    1 citations · Biochar

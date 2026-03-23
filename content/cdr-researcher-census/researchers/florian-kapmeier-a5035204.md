@@ -1,7 +1,7 @@
 ---
 title: "Florian Kapmeier"
-description: "Florian Kapmeier is a Senior Ocean CDR researcher at Reutlingen University in DE. With 34 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.338538
+description: "Florian Kapmeier is a Senior General CDR researcher at Reutlingen University in DE. With 34 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.029822
 url: "/cdr-researcher-census/researchers/florian-kapmeier-a5035204/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Reutlingen University · 🇩🇪 DE
 
 ## CDR Specialization
 
-**Ocean CDR**
+**General CDR**
 
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,22 +45,22 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 8 |
 | Citations | 382 |
 | Publications | 34 |
-| CDR Focus | 11.8% |
+| CDR Focus | 1180.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Science‐based analysis for climate action: how <scp>HSBC</scp> Bank uses the <scp>En‐ROADS</scp> climate policy simulation** (2021)
-   20 citations · DAC
+   20 citations · General CDR
 
 2. **Interactive simulation with En-ROADS spurs climate action among decision-makers** (2026)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 3. **Designing for impact: How interactive climate simulations foster learning, engagement and action** (2026)
    0 citations · General CDR
 
 4. **Public Outreach and Interactive Learning with En-ROADS Global Energy and Climate Simulator** (2021)
-   0 citations · Ocean CDR
+   0 citations · General CDR
 
 ## External Profiles
 

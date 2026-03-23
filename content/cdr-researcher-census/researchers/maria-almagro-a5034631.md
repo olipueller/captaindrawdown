@@ -1,7 +1,7 @@
 ---
 title: "María Almagro"
 description: "María Almagro is a Senior Soil Carbon researcher at Centro de Edafología y Biología Aplicada del Segura in ES. With 87 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.905399
+date: 2026-03-23T11:46:59.184393
 url: "/cdr-researcher-census/researchers/maria-almagro-a5034631/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 32 |
 | Citations | 3,196 |
 | Publications | 87 |
-| CDR Focus | 12.6% |
+| CDR Focus | 800.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Conservation Agriculture and Soil Organic Carbon: Principles, Processes, Practices and Policy Options** (2023)
-   164 citations · Soil Carbon
+   164 citations · General CDR
 
 2. **Pruning residues incorporation and reduced tillage improve soil organic matter stabilization and structure of salt-affected soils in a semi-arid Citrus tree orchard** (2021)
    52 citations · Soil Carbon
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    39 citations · Soil Carbon
 
 4. **Short-term impact of crop diversification on soil carbon fluxes and balance in rainfed and irrigated woody cropping systems under semiarid Mediterranean conditions** (2021)
-   37 citations · Soil Carbon
+   37 citations · General CDR
 
 5. **Cover crops improve the long‐term stabilization of soil organic carbon and total nitrogen through physico‐chemical protection in rainfed semiarid Mediterranean woody crop systems** (2024)
    11 citations · Soil Carbon
@@ -69,7 +69,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    10 citations · Soil Carbon
 
 7. **Analysis of the environmental and economic performance of common agricultural policy eco-schemes in soil organic carbon sequestration** (2024)
-   9 citations · Soil Carbon
+   9 citations · General CDR
 
 8. **Editorial: Agricultural diversification: Benefits and barriers for sustainable soil management** (2022)
    6 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Neele Uhlenbruck"
 description: "Neele Uhlenbruck is a Mid-career DAC researcher at Karlsruhe Institute of Technology in DE. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.093132
+date: 2026-03-23T11:47:01.093966
 url: "/cdr-researcher-census/researchers/neele-uhlenbruck-a5016853/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 6 |
 | Citations | 135 |
 | Publications | 16 |
-| CDR Focus | 18.8% |
+| CDR Focus | 1880.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    3 citations · DAC
 
 2. **Technology Development for the Pyrolysis of Hydrocarbons in Liquid Metal** (2023)
-   2 citations · DAC
+   2 citations
 
 3. **A Carbon Capture and Utilization Process for the Production of Solid Carbon Materials from Atmospheric CO<sub>2</sub> – Part 1: Process Performance** (2024)
    1 citations · DAC

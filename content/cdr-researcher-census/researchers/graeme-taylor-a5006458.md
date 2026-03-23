@@ -1,7 +1,7 @@
 ---
 title: "Graeme Taylor"
 description: "Graeme Taylor is a Senior General CDR researcher. With 38 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.287060
+date: 2026-03-23T11:46:59.955704
 url: "/cdr-researcher-census/researchers/graeme-taylor-a5006458/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 9 |
 | Citations | 421 |
 | Publications | 38 |
-| CDR Focus | 13.2% |
+| CDR Focus | 1050.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -55,10 +55,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    0 citations · General CDR
 
 4. **Bad science and good intentions prevent effective climate action** (2024)
-   0 citations · General CDR
+   0 citations
 
 5. **Given that the Paris Agreement is unlikely to prevent dangerous climate overshoot, an alternative risk management strategy is urgently needed** (2021)
-   0 citations · Ocean CDR
+   0 citations
 
 ## External Profiles
 

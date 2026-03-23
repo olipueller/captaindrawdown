@@ -1,7 +1,7 @@
 ---
 title: "Grazia Leonzio"
 description: "Grazia Leonzio is a Senior DAC researcher at University of Cagliari in IT. With 79 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.932876
+date: 2026-03-23T11:46:59.257684
 url: "/cdr-researcher-census/researchers/grazia-leonzio-a5023097/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 26 |
 | Citations | 2,052 |
 | Publications | 79 |
-| CDR Focus | 11.4% |
+| CDR Focus | 1140.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **A Comparative Study of Different Sorbents in the Context of Direct Air Capture (DAC): Evaluation of Key Performance Indicators and Comparisons** (2022)
-   79 citations · DAC
+   79 citations
 
 2. **Environmental performance of different sorbents used for direct air capture** (2022)
    59 citations · DAC
@@ -66,13 +66,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    9 citations · DAC
 
 6. **A sustainability analysis for a circular power-to-liquid process for diesel production** (2024)
-   3 citations · DAC
+   3 citations · BECCS
 
 7. **Sustainability analysis of electrochemical direct air capture technologies** (2025)
    2 citations · DAC
 
 8. **A global sensitivity analysis for a bipolar membrane electrodialysis capturing carbon dioxide from the air** (2025)
-   1 citations · DAC
+   1 citations
 
 9. **Corrigendum to “Environmental performance of different sorbents used for direct air capture” [Sustain. Prod. Consum. 32 (2022) 101–111]** (2023)
    0 citations · DAC

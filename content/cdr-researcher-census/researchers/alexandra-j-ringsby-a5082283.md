@@ -1,7 +1,7 @@
 ---
 title: "Alexandra J. Ringsby"
 description: "Alexandra J. Ringsby is a Mid-career General CDR researcher at Stanford University in US. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.972379
+date: 2026-03-23T11:47:00.951370
 url: "/cdr-researcher-census/researchers/alexandra-j-ringsby-a5082283/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,28 +45,28 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 4 |
 | Citations | 153 |
 | Publications | 8 |
-| CDR Focus | 75.0% |
+| CDR Focus | 5000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Sorption of Soil Carbon Dioxide by Biochar and Engineered Porous Carbons** (2024)
-   31 citations · Enhanced Weathering
+   31 citations · General CDR
 
 2. **Do oversimplified durability metrics undervalue biochar carbon dioxide removal?** (2025)
    5 citations · Biochar
 
 3. **Reactive transport simulation of organic and inorganic carbon cycling following carbon dioxide sorption onto soil amendments in drylands** (2025)
-   1 citations · Biochar
+   1 citations · General CDR
 
 4. **Closing the carbon removal attribution gap requires an objective atmospheric basis** (2026)
-   0 citations · Biochar
+   0 citations
 
 5. **Closing the carbon removal attribution gap requires an objective atmospheric basis** (2026)
-   0 citations · Biochar
+   0 citations
 
 6. **Closing the carbon removal attribution gap requires an objective atmospheric basis** (2026)
-   0 citations · Biochar
+   0 citations · General CDR
 
 ## External Profiles
 

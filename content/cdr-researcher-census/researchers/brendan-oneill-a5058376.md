@@ -1,7 +1,7 @@
 ---
 title: "Brendan O’Neill"
-description: "Brendan O’Neill is a Senior Soil Carbon researcher at University of Michigan–Ann Arbor in US. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.901449
+description: "Brendan O’Neill is a Senior General CDR researcher at University of Michigan–Ann Arbor in US. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.172622
 url: "/cdr-researcher-census/researchers/brendan-oneill-a5058376/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Michigan–Ann Arbor · 🇺🇸 US
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 3,434 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Greenhouse gas mitigation on croplands: clarifying the debate on knowns, unknowns and risks to move forward with effective management interventions** (2024)
-   21 citations · Soil Carbon
+   21 citations · General CDR
 
 ## External Profiles
 

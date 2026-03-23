@@ -1,7 +1,7 @@
 ---
 title: "Kirsten Zickfeld"
 description: "Kirsten Zickfeld is an Eminent General CDR researcher at Simon Fraser University in CA. With 181 publications and an h-index of 47, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.872619
+date: 2026-03-23T11:46:59.100626
 url: "/cdr-researcher-census/researchers/kirsten-zickfeld-a5032945/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 47 |
 | Citations | 8,524 |
 | Publications | 181 |
-| CDR Focus | 11.0% |
+| CDR Focus | 830.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -66,19 +66,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    10 citations · General CDR
 
 6. **Quantifying land carbon cycle feedbacks under negative CO <sub>2</sub> emissions** (2022)
-   5 citations · General CDR
+   5 citations
 
 7. **Temperature outcomes of enhanced rock weathering deployment scenarios constrained by soil albedo measurements** (2026)
    0 citations · Enhanced Weathering
 
 8. **Non-CO2 effects of carbon dioxide removal methods influence temperature response in overshoot scenarios** (2026)
-   0 citations · BECCS
-
-9. **Indirect Effects of Non-CO2 Forcings on Carbon Budgets in Overshoot pathways** (2026)
    0 citations · DAC
 
-10. **Comment on egusphere-2025-6405** (2026)
+9. **Indirect Effects of Non-CO2 Forcings on Carbon Budgets in Overshoot pathways** (2026)
    0 citations · General CDR
+
+10. **Comment on egusphere-2025-6405** (2026)
+   0 citations
 
 ## External Profiles
 

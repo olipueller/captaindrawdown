@@ -1,7 +1,7 @@
 ---
 title: "Chengfa Benjamin Lee"
-description: "Chengfa Benjamin Lee is a Mid-career Soil Carbon researcher at Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR) in DE. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.565476
+description: "Chengfa Benjamin Lee is a Mid-career Ocean CDR researcher at Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR) in DE. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.400245
 url: "/cdr-researcher-census/researchers/chengfa-benjamin-lee-a5026079/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR) · 🇩🇪 DE
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Ocean CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
 
 ## Metrics
 
@@ -45,16 +45,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 258 |
 | Publications | 17 |
-| CDR Focus | 11.8% |
+| CDR Focus | 1180.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Subtidal seagrass and blue carbon mapping at the regional scale: a cloud-native multi-temporal Earth Observation approach** (2024)
-   12 citations · Soil Carbon
+   12 citations · Ocean CDR
 
 2. **Climate Change Mitigation in The Bahamas - The Power of Earth Observation for Blue Carbon Accounting** (2023)
-   0 citations · Soil Carbon
+   0 citations · Ocean CDR
 
 ## External Profiles
 

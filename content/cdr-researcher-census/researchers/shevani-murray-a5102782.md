@@ -1,7 +1,7 @@
 ---
 title: "Shevani Murray"
-description: "Shevani Murray is a Senior Enhanced Weathering researcher at Wageningen University & Research in NL. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.659940
+description: "Shevani Murray is a Senior Soil Carbon researcher at Wageningen University & Research in NL. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.525827
 url: "/cdr-researcher-census/researchers/shevani-murray-a5102782/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Wageningen University & Research · 🇳🇱 NL
 
 ## CDR Specialization
 
-**Enhanced Weathering**
+**Soil Carbon**
 
-Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 3 |
 | Citations | 226 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Evaluation of the potential for nine established and emerging interventions to reduce soil carbon losses and increase stocks in grazing systems: A case study for Aotearoa New Zealand** (2024)
-   2 citations · Enhanced Weathering
+   2 citations · Soil Carbon
 
 ## External Profiles
 

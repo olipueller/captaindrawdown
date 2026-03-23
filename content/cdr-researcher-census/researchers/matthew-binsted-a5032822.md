@@ -1,7 +1,7 @@
 ---
 title: "Matthew Binsted"
-description: "Matthew Binsted is a Mid-career DAC researcher at Joint Global Change Research Institute in US. With 83 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.004747
+description: "Matthew Binsted is a Mid-career General CDR researcher at Joint Global Change Research Institute in US. With 83 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.421557
 url: "/cdr-researcher-census/researchers/matthew-binsted-a5032822/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Joint Global Change Research Institute · 🇺🇸 US
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,19 +45,19 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 19 |
 | Citations | 1,149 |
 | Publications | 83 |
-| CDR Focus | 12.0% |
+| CDR Focus | 1080.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Net-zero CO2 by 2050 scenarios for the United States in the Energy Modeling Forum 37 study** (2023)
-   99 citations · BECCS
+   99 citations · DAC
 
 2. **Technology, technology, technology: An integrated assessment of deep decarbonization pathways for the Canadian oil sands** (2022)
    29 citations · DAC
 
 3. **Effects of Direct Air Capture Technology Availability on Stranded Assets and Committed Emissions in the Power Sector** (2021)
-   24 citations · DAC
+   24 citations · BECCS
 
 4. **Carbon management technology pathways for reaching a U.S. Economy-Wide net-Zero emissions goal** (2024)
    15 citations · DAC

@@ -1,7 +1,7 @@
 ---
 title: "Mengke Tang"
-description: "Mengke Tang is a Mid-career DAC researcher at Beijing University of Posts and Telecommunications in CN. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.390772
+description: "Mengke Tang is a Mid-career carbon dioxide removal researcher at Beijing University of Posts and Telecommunications in CN. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.117256
 url: "/cdr-researcher-census/researchers/mengke-tang-a5070491/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Beijing University of Posts and Telecommunications · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,16 +39,16 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 9 |
 | Citations | 343 |
 | Publications | 14 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Electrochemically induced carbon dioxide capture from air with an aqueous fluoflavine sorbent** (2025)
-   1 citations · DAC
+   1 citations
 
 2. **Electrochemically Induced Carbon Dioxide Capture from Air with an Aqueous Fluoflavine Molecule** (2025)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

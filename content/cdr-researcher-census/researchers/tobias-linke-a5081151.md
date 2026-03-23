@@ -1,7 +1,7 @@
 ---
 title: "Tobias Linke"
 description: "Tobias Linke is a Mid-career Enhanced Weathering researcher at Universität Hamburg in DE. With 42 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.980157
+date: 2026-03-23T11:47:00.959913
 url: "/cdr-researcher-census/researchers/tobias-linke-a5081151/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 8 |
 | Citations | 152 |
 | Publications | 42 |
-| CDR Focus | 31.0% |
+| CDR Focus | 2380.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    14 citations · Enhanced Weathering
 
 2. **Direct evidence of CO2 drawdown through enhanced weathering in soils** (2024)
-   10 citations · Enhanced Weathering
+   10 citations
 
 3. **Supplementary material to "Soil processes govern alkalinity and cation retention in enhanced weathering for carbon dioxide removal"** (2025)
    1 citations · Enhanced Weathering

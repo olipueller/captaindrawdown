@@ -1,7 +1,7 @@
 ---
 title: "Mukesh Kumar Soothar"
 description: "Mukesh Kumar Soothar is a Mid-career Soil Carbon researcher at Northwest Institute of Mechanical and Electrical Engineering in CN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.567032
+date: 2026-03-23T11:47:00.404093
 url: "/cdr-researcher-census/researchers/mukesh-kumar-soothar-a5024723/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 257 |
 | Publications | 19 |
-| CDR Focus | 10.5% |
+| CDR Focus | 530.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

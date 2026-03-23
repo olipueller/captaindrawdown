@@ -1,7 +1,7 @@
 ---
 title: "Vaishnavi Kulkarni"
-description: "Vaishnavi Kulkarni is an Early-career DAC researcher at Narsee Monjee Institute of Management Studies in IN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.880289
+description: "Vaishnavi Kulkarni is an Early-career carbon dioxide removal researcher at Narsee Monjee Institute of Management Studies in IN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.836093
 url: "/cdr-researcher-census/researchers/vaishnavi-kulkarni-a5078719/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Narsee Monjee Institute of Management Studies · 🇮🇳 IN
 
 **Career Stage:** Early-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,25 +39,25 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 4 |
 | Citations | 171 |
 | Publications | 6 |
-| CDR Focus | 83.3% |
+| CDR Focus | 8330.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Evaluation of amine-based solid adsorbents for direct air capture: a critical review** (2022)
-   86 citations · DAC
+   86 citations
 
 2. **Direct Air Capture of CO<sub>2</sub> over Amine-Modified Hierarchical Silica** (2023)
-   56 citations · DAC
+   56 citations
 
 3. **Direct CO2 capture from simulated and Ambient Air over aminosilane-modified hierarchical silica** (2024)
-   20 citations · DAC
+   20 citations
 
 4. **Direct CO<sub>2</sub>capture from simulated and ambient air over silica-rich MIL-101(Cr)** (2023)
-   7 citations · DAC
+   7 citations
 
 5. **Nanosilica polyamidoamine dendrimers for enhanced direct air CO<sub>2</sub> capture** (2024)
-   2 citations · DAC
+   2 citations
 
 ## External Profiles
 

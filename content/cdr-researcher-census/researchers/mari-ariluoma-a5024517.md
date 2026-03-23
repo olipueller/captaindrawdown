@@ -1,7 +1,7 @@
 ---
 title: "Mari Ariluoma"
-description: "Mari Ariluoma is a Mid-career Soil Carbon researcher at Aalto University in FI. With 29 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.848709
+description: "Mari Ariluoma is a Mid-career General CDR researcher at Aalto University in FI. With 29 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.792920
 url: "/cdr-researcher-census/researchers/mari-ariluoma-a5024517/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Aalto University ·  FI
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,19 +45,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 178 |
 | Publications | 29 |
-| CDR Focus | 10.3% |
+| CDR Focus | 690.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **A framework for a carbon-based urban vegetation typology - A thematic review** (2023)
-   14 citations · Soil Carbon
+   14 citations · General CDR
 
 2. **How urban green infrastructure contributes to carbon neutrality** (2025)
-   1 citations · Soil Carbon
+   1 citations · General CDR
 
 3. **A Framework for a Carbon-Based Urban Vegetation Typology** (2022)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

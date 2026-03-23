@@ -1,7 +1,7 @@
 ---
 title: "Mingliang Meng"
 description: "Mingliang Meng is an Early-career Biochar researcher at Henan Polytechnic University in CN. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.087505
+date: 2026-03-23T11:47:01.085843
 url: "/cdr-researcher-census/researchers/mingliang-meng-a5005216/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 4 |
 | Citations | 136 |
 | Publications | 4 |
-| CDR Focus | 25.0% |
+| CDR Focus | 2500.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

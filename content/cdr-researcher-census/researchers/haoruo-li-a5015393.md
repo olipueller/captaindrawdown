@@ -1,7 +1,7 @@
 ---
 title: "Haoruo Li"
 description: "Haoruo Li is a Mid-career Soil Carbon researcher at Inner Mongolia Agricultural University in CN. With 25 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.830811
+date: 2026-03-23T11:47:00.768361
 url: "/cdr-researcher-census/researchers/haoruo-li-a5015393/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 182 |
 | Publications | 25 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

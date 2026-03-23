@@ -1,7 +1,7 @@
 ---
 title: "Yushu Xia"
 description: "Yushu Xia is a Mid-career Soil Carbon researcher at Lamont-Doherty Earth Observatory in US. With 26 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.056134
+date: 2026-03-23T11:47:01.048916
 url: "/cdr-researcher-census/researchers/yushu-xia-a5058279/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 141 |
 | Publications | 26 |
-| CDR Focus | 15.4% |
+| CDR Focus | 770.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications

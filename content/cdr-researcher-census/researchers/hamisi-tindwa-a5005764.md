@@ -1,7 +1,7 @@
 ---
 title: "Hamisi Tindwa"
 description: "Hamisi Tindwa is a Mid-career Soil Carbon researcher at Sokoine University of Agriculture in TZ. With 32 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.380030
+date: 2026-03-23T11:47:00.102707
 url: "/cdr-researcher-census/researchers/hamisi-tindwa-a5005764/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,22 +45,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 11 |
 | Citations | 350 |
 | Publications | 32 |
-| CDR Focus | 12.5% |
+| CDR Focus | 620.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Climate Change Adaptability and Soil Carbon Sequestration** (2026)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 2. **Biochar Technology for Sustainable Agriculture at Smallholder Farms: A Case Study of Ethiopia, Malawi, and Tanzania** (2026)
    0 citations · Biochar
 
 3. **Advancing Sustainable Practices: Integrated Pedological Characterization and Suitability Assessment for Enhanced Irish Potato Production in Tsangano and Angónia Districts of Tete Province, Mozambique** (2025)
-   0 citations · Enhanced Weathering
+   0 citations
 
 4. **Advancing Sustainable Practices: Integrated Pedological Characterization and Suitability Assessment for Enhanced Irish Potato Production in Tsangano and Angónia Districts of Tete Province, Mozambique** (2025)
-   0 citations · Enhanced Weathering
+   0 citations · Soil Carbon
 
 ## External Profiles
 

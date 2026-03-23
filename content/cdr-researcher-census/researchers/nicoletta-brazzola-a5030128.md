@@ -1,7 +1,7 @@
 ---
 title: "Nicoletta Brazzola"
-description: "Nicoletta Brazzola is a Mid-career DAC researcher at Stiftung Wissenschaft und Politik, German Institute for International and Security Affairs in DE. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.947325
+description: "Nicoletta Brazzola is a Mid-career General CDR researcher at Stiftung Wissenschaft und Politik, German Institute for International and Security Affairs in DE. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.921215
 url: "/cdr-researcher-census/researchers/nicoletta-brazzola-a5030128/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Stiftung Wissenschaft und Politik, German Institute for International and Securi
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 5 |
 | Citations | 158 |
 | Publications | 14 |
-| CDR Focus | 50.0% |
+| CDR Focus | 4290.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Vilma Havas"
-description: "Vilma Havas is a Mid-career Ocean CDR researcher. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.418416
+description: "Vilma Havas is a Mid-career carbon dioxide removal researcher. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.435116
 url: "/cdr-researcher-census/researchers/vilma-havas-a5004482/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -27,12 +27,6 @@ robots: "index, follow"
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Ocean CDR**
-
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
-
 ## Metrics
 
 | Metric | Value |
@@ -40,16 +34,16 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 4 |
 | Citations | 100 |
 | Publications | 15 |
-| CDR Focus | 13.3% |
+| CDR Focus | 670.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Evaluating the net environmental impact of removing plastic pollution from the North Pacific Garbage Patch** (2024)
-   0 citations · General CDR
+   0 citations
 
 2. **Evaluating the net environmental impact of removing plastic pollution from the North Pacific Garbage Patch** (2024)
-   0 citations · General CDR
+   0 citations
 
 ## External Profiles
 

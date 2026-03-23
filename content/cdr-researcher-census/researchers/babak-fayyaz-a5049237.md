@@ -1,7 +1,7 @@
 ---
 title: "Babak Fayyaz"
 description: "Babak Fayyaz is a Senior Enhanced Weathering researcher at Chevron (United States) in US. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.187798
+date: 2026-03-23T11:47:01.191400
 url: "/cdr-researcher-census/researchers/babak-fayyaz-a5049237/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 3 |
 | Citations | 124 |
 | Publications | 4 |
-| CDR Focus | 25.0% |
+| CDR Focus | 2500.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

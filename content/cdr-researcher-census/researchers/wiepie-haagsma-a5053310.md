@@ -1,7 +1,7 @@
 ---
 title: "Wiepie Haagsma"
 description: "Wiepie Haagsma is a Mid-career Soil Carbon researcher in GB. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.314050
+date: 2026-03-23T11:46:59.995008
 url: "/cdr-researcher-census/researchers/wiepie-haagsma-a5053310/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,7 +38,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 401 |
 | Publications | 20 |
-| CDR Focus | 10.0% |
+| CDR Focus | 500.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -47,7 +47,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    122 citations · Soil Carbon
 
 2. **Effects of reduced tillage on (cash) crop yields, soil quality and other ecosystem services : results from 2009 till 2022 of the long term experiment BASIS, the Netherlands** (2023)
-   2 citations · Enhanced Weathering
+   2 citations · Soil Carbon
 
 ## External Profiles
 

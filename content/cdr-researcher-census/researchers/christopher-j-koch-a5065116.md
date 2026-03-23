@@ -1,7 +1,7 @@
 ---
 title: "Christopher J. Koch"
-description: "Christopher J. Koch is a Mid-career DAC researcher at University of Southern California in US. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.646552
+description: "Christopher J. Koch is a Mid-career General CDR researcher at University of Southern California in US. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.510500
 url: "/cdr-researcher-census/researchers/christopher-j-koch-a5065116/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Southern California · 🇺🇸 US
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 8 |
 | Citations | 229 |
 | Publications | 18 |
-| CDR Focus | 22.2% |
+| CDR Focus | 2220.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    28 citations · DAC
 
 3. **CO<sub>2</sub> Capture and Direct Air CO<sub>2</sub> Capture Followed by Integrated Conversion to Methane Assisted by Metal Hydroxides and a Ru/Al<sub>2</sub>O<sub>3</sub> Catalyst** (2023)
-   20 citations · DAC
+   20 citations · General CDR
 
 4. **Addition of Imidazolium‐Based Ionic Liquid to Improve Methanol Production in Polyamine‐Assisted CO<sub>2</sub> Capture and Conversion Systems Using Pincer Catalysts** (2024)
    15 citations · DAC

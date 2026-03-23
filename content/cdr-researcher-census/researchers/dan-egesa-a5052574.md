@@ -1,7 +1,7 @@
 ---
 title: "Dan Egesa"
-description: "Dan Egesa is a Mid-career Biochar researcher. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.227127
+description: "Dan Egesa is a Mid-career carbon dioxide removal researcher. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.234066
 url: "/cdr-researcher-census/researchers/dan-egesa-a5052574/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -27,12 +27,6 @@ robots: "index, follow"
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Biochar**
-
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
-
 ## Metrics
 
 | Metric | Value |
@@ -40,13 +34,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 5 |
 | Citations | 119 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Hydrothermal Liquefaction of Water Hyacinth: Effect of Process Conditions and Magnetite Nanoparticles on Biocrude Yield and Composition** (2021)
-   11 citations · Biochar
+   11 citations
 
 ## External Profiles
 

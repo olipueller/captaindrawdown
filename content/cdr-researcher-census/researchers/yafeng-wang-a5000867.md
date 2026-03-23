@@ -1,7 +1,7 @@
 ---
 title: "Yafeng Wang"
-description: "Yafeng Wang is a Mid-career Soil Carbon researcher. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.282378
+description: "Yafeng Wang is a Mid-career General CDR researcher. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.293236
 url: "/cdr-researcher-census/researchers/yafeng-wang-a5000867/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,9 +29,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -40,13 +40,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 114 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Interactions between the Grain‐for‐Green Program and check dams increased vegetation carbon sequestration in the Yanhe basin, Loess Plateau** (2023)
-   13 citations · Soil Carbon
+   13 citations · General CDR
 
 ## External Profiles
 

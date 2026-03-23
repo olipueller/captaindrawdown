@@ -1,7 +1,7 @@
 ---
 title: "Haneen H. Shanaah"
-description: "Haneen H. Shanaah is a Mid-career DAC researcher at University of Bahrain in BH. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.920076
+description: "Haneen H. Shanaah is a Mid-career carbon dioxide removal researcher at University of Bahrain in BH. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.887676
 url: "/cdr-researcher-census/researchers/haneen-h-shanaah-a5044259/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ University of Bahrain ·  BH
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 5 |
 | Citations | 163 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Carbon Capture Materials in Post-Combustion: Adsorption and Absorption-Based Processes** (2023)
-   49 citations · DAC
+   49 citations
 
 ## External Profiles
 

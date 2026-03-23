@@ -1,7 +1,7 @@
 ---
 title: "Meishen Liu"
 description: "Meishen Liu is a Mid-career DAC researcher at Oak Ridge National Laboratory in US. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.374068
+date: 2026-03-23T11:47:00.093315
 url: "/cdr-researcher-census/researchers/meishen-liu-a5062776/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,19 +45,19 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 9 |
 | Citations | 355 |
 | Publications | 22 |
-| CDR Focus | 13.6% |
+| CDR Focus | 910.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Direct Air Capture of CO <sub>2</sub> via Reactive Crystallization** (2024)
-   8 citations · DAC
+   8 citations
 
 2. **Direct Air Capture of CO2 via Reactive Crystallization** (2024)
    1 citations · DAC
 
 3. **Direct Air Capture of CO2 via Reactive Crystallization** (2024)
-   1 citations · DAC
+   1 citations
 
 ## External Profiles
 

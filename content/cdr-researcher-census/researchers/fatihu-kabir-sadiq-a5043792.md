@@ -1,7 +1,7 @@
 ---
 title: "Fatihu Kabir Sadiq"
 description: "Fatihu Kabir Sadiq is a Mid-career Soil Carbon researcher at The University of Queensland in AU. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.119923
+date: 2026-03-23T11:47:01.120329
 url: "/cdr-researcher-census/researchers/fatihu-kabir-sadiq-a5043792/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 132 |
 | Publications | 15 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

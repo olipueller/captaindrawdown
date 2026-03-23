@@ -1,7 +1,7 @@
 ---
 title: "Kamal Elyasi Gomari"
-description: "Kamal Elyasi Gomari is a Mid-career Soil Carbon researcher at Teesside University in GB. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.042222
+description: "Kamal Elyasi Gomari is a Mid-career Biochar researcher at Teesside University in GB. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.033613
 url: "/cdr-researcher-census/researchers/kamal-elyasi-gomari-a5037854/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Teesside University · 🇬🇧 GB
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 143 |
 | Publications | 9 |
-| CDR Focus | 22.2% |
+| CDR Focus | 1110.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Exploring the potential of steel slag waste for carbon sequestration through mineral carbonation: A comparative study of blast-furnace slag and ladle slag** (2023)
-   49 citations · DAC
+   49 citations · Enhanced Weathering
 
 2. **Biochar from brown algae: Production, activation, and characterisation** (2023)
    21 citations · Biochar

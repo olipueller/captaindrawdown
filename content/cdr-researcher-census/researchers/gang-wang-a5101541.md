@@ -1,7 +1,7 @@
 ---
 title: "Gang Wang"
-description: "Gang Wang is a Senior Biochar researcher at Zhejiang Cancer Hospital in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.670156
+description: "Gang Wang is a Senior BECCS researcher at Zhejiang Cancer Hospital in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.539775
 url: "/cdr-researcher-census/researchers/gang-wang-a5101541/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Zhejiang Cancer Hospital · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Biochar**
+**BECCS**
 
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 6 |
 | Citations | 223 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Cadmium accumulation in rice straws and derived biochars as affected by metal exposure, soil types and rice genotypes** (2021)
-   3 citations · Biochar
+   3 citations · BECCS
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Phil Renforth"
 description: "Phil Renforth is an Eminent General CDR researcher at Heriot-Watt University in GB. With 141 publications and an h-index of 43, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.872002
+date: 2026-03-23T11:46:59.098419
 url: "/cdr-researcher-census/researchers/phil-renforth-a5011758/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 43 |
 | Citations | 8,760 |
 | Publications | 141 |
-| CDR Focus | 45.4% |
+| CDR Focus | 3830.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -60,7 +60,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    137 citations · General CDR
 
 4. **Assessing the technical aspects of ocean-alkalinity-enhancement approaches** (2023)
-   94 citations · Enhanced Weathering
+   94 citations · General CDR
 
 5. **Life Cycle Assessment of Coastal Enhanced Weathering for Carbon Dioxide Removal from Air** (2023)
    82 citations · Enhanced Weathering
@@ -69,7 +69,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    69 citations · Enhanced Weathering
 
 7. **Life cycle assessment of ocean liming for carbon dioxide removal from the atmosphere** (2022)
-   59 citations · General CDR
+   59 citations
 
 8. **Geochemical Negative Emissions Technologies: Part I. Review** (2022)
    58 citations · DAC
@@ -78,7 +78,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    38 citations · Enhanced Weathering
 
 10. **Using ikaite and other hydrated carbonate minerals to increase ocean alkalinity for carbon dioxide removal and environmental remediation** (2022)
-   36 citations · General CDR
+   36 citations · Ocean CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Akram"
-description: "Muhammad Akram is a Mid-career BECCS researcher at University of Sheffield in GB. With 59 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.050139
+description: "Muhammad Akram is a Mid-career General CDR researcher at University of Sheffield in GB. With 59 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.518712
 url: "/cdr-researcher-census/researchers/muhammad-akram-a5083409/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Sheffield · 🇬🇧 GB
 
 ## CDR Specialization
 
-**BECCS**
+**General CDR**
 
-Combining biomass energy with carbon capture and storage to achieve negative emissions.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 17 |
 | Citations | 883 |
 | Publications | 59 |
-| CDR Focus | 16.9% |
+| CDR Focus | 1360.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -63,10 +63,10 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
    8 citations · BECCS
 
 5. **Negative Emissions in the Waste-to-Energy Sector: An Overview of the Newest-CCUS Programme** (2021)
-   4 citations · BECCS
+   4 citations · General CDR
 
 6. **Comparison of TERC and TNO’s LR2 CO2 capture rigs for normal and accelerated degradation** (2022)
-   2 citations · DAC
+   2 citations · General CDR
 
 7. **Pilot-scale demonstration and practical challenges of bioenergy with CCS (BECCS) using rotating packed bed** (2025)
    0 citations · BECCS

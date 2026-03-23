@@ -1,7 +1,7 @@
 ---
 title: "Danny Awty‐Carroll"
 description: "Danny Awty‐Carroll is a Mid-career BECCS researcher at Liverpool John Moores University in GB. With 24 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.142610
+date: 2026-03-23T11:46:59.686768
 url: "/cdr-researcher-census/researchers/danny-awtycarroll-a5032863/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 12 |
 | Citations | 629 |
 | Publications | 24 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
    14 citations · BECCS
 
 3. **Comparing miscanthus hybrids &amp;#8211; growth and environmental impacts** (2022)
-   0 citations · Soil Carbon
+   0 citations · BECCS
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Amin Izadi"
-description: "Amin Izadi is a Mid-career General CDR researcher at European Thermodynamics (United Kingdom) in GB. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.397047
+description: "Amin Izadi is a Mid-career carbon dioxide removal researcher at European Thermodynamics (United Kingdom) in GB. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.415585
 url: "/cdr-researcher-census/researchers/amin-izadi-a5040393/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ European Thermodynamics (United Kingdom) · 🇬🇧 GB
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,16 +36,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 3 |
 | Citations | 102 |
 | Publications | 9 |
-| CDR Focus | 22.2% |
+| CDR Focus | 1110.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **NMR Study on the Reactivity of Hydrogen Sulfide in Aqueous Amine Solutions** (2025)
-   1 citations · General CDR
+   1 citations
 
 2. **NMR Study on the Reactivity of Hydrogen Sulfide in Aqueous Amine Solutions** (2025)
-   0 citations · General CDR
+   0 citations
 
 ## External Profiles
 

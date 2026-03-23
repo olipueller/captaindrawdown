@@ -1,7 +1,7 @@
 ---
 title: "Helen Hou"
 description: "Helen Hou is an Early-career General CDR researcher at University of Queensland in AU. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.374397
+date: 2026-03-23T11:47:01.395076
 url: "/cdr-researcher-census/researchers/helen-hou-a5063335/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 2 |
 | Citations | 104 |
 | Publications | 2 |
-| CDR Focus | 50.0% |
+| CDR Focus | 5000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Daju Wang"
 description: "Daju Wang is a Senior Soil Carbon researcher at Southwest University in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.500041
+date: 2026-03-23T11:47:00.305668
 url: "/cdr-researcher-census/researchers/daju-wang-a5043304/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 283 |
 | Publications | 17 |
-| CDR Focus | 11.8% |
+| CDR Focus | 1180.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

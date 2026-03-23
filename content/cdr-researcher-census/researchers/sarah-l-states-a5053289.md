@@ -1,7 +1,7 @@
 ---
 title: "Sarah L. States"
 description: "Sarah L. States is a Senior Soil Carbon researcher at Phipps Conservatory and Botanical Gardens in US. With 20 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.076973
+date: 2026-03-23T11:46:59.569142
 url: "/cdr-researcher-census/researchers/sarah-l-states-a5053289/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 13 |
 | Citations | 790 |
 | Publications | 20 |
-| CDR Focus | 10.0% |
+| CDR Focus | 500.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    1 citations · Soil Carbon
 
 2. **Urban Greening with Biodiverse Perennial Meadows Improves Ecosystem Services in Human Dominated Landscapes** (2024)
-   0 citations · Soil Carbon
+   0 citations
 
 ## External Profiles
 

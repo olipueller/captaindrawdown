@@ -1,7 +1,7 @@
 ---
 title: "David Roa Alonso"
-description: "David Roa Alonso is an Early-career General CDR researcher at Hospital Universitario Severo Ochoa in ES. With 9 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.162307
+description: "David Roa Alonso is an Early-career carbon dioxide removal researcher at Hospital Universitario Severo Ochoa in ES. With 9 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.161999
 url: "/cdr-researcher-census/researchers/david-roa-alonso-a5008147/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Hospital Universitario Severo Ochoa · 🇪🇸 ES
 
 **Career Stage:** Early-career
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 1 |
 | Citations | 127 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Terapia extracorpórea de depuración de dióxido de carbono (ECCO2R) en el manejo del estado asmático. Experiencia de dos casos y revisión de la literatura** (2024)
-   0 citations · General CDR
+   0 citations
 
 ## External Profiles
 

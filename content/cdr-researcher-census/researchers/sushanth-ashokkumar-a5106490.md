@@ -1,7 +1,7 @@
 ---
 title: "Sushanth Ashokkumar"
-description: "Sushanth Ashokkumar is an Early-career DAC researcher at Rice University in US. With 4 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.880510
+description: "Sushanth Ashokkumar is an Early-career carbon dioxide removal researcher at Rice University in US. With 4 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.836501
 url: "/cdr-researcher-census/researchers/sushanth-ashokkumar-a5106490/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Rice University · 🇺🇸 US
 
 **Career Stage:** Early-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 1 |
 | Citations | 171 |
 | Publications | 4 |
-| CDR Focus | 25.0% |
+| CDR Focus | 2500.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Improved Electrochemical Direct Air Capture by an Extended Absorption Layer** (2026)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

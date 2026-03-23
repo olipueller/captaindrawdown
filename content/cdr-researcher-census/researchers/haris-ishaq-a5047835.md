@@ -1,7 +1,7 @@
 ---
 title: "Haris Ishaq"
-description: "Haris Ishaq is a Senior DAC researcher at King Fahd University of Petroleum and Minerals in SA. With 82 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.892837
+description: "Haris Ishaq is a Senior General CDR researcher at King Fahd University of Petroleum and Minerals in SA. With 82 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.152412
 url: "/cdr-researcher-census/researchers/haris-ishaq-a5047835/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ King Fahd University of Petroleum and Minerals · 🇸🇦 SA
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 29 |
 | Citations | 4,084 |
 | Publications | 82 |
-| CDR Focus | 13.4% |
+| CDR Focus | 1100.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -63,7 +63,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    12 citations · DAC
 
 5. **Ambient wind conditions impact on energy requirements of an offshore direct air capture plant** (2024)
-   6 citations · DAC
+   6 citations
 
 6. **Scaling considerations and optimal control for an offshore wind powered direct air capture system** (2024)
    6 citations · DAC
@@ -72,13 +72,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    4 citations · DAC
 
 8. **Electrochemical approaches for CO2 point source, direct air, and seawater capture: identifying opportunities and synergies** (2025)
-   4 citations · DAC
+   4 citations · General CDR
 
 9. **Design considerations for the marinisation of offshore direct air capture** (2024)
    2 citations · DAC
 
 10. **Dynamic Modeling and Optimal Control Schemes for an Offshore-Wind Driven Direct Air Capture System Including Energy Storage** (2024)
-   0 citations · DAC
+   0 citations · General CDR
 
 ## External Profiles
 

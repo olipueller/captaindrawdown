@@ -1,7 +1,7 @@
 ---
 title: "Jiaheng Shen"
 description: "Jiaheng Shen is a Mid-career Ocean CDR researcher at Peking University in CN. With 11 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.297447
+date: 2026-03-23T11:47:01.311180
 url: "/cdr-researcher-census/researchers/jiaheng-shen-a5032302/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,19 +45,19 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 3 |
 | Citations | 112 |
 | Publications | 11 |
-| CDR Focus | 27.3% |
+| CDR Focus | 910.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Arctic CO2 emissions amplified by aerobic methane oxidation during the Palaeocene–Eocene Thermal Maximum** (2025)
-   2 citations · Ocean CDR
+   2 citations
 
 2. **Kinetic isotope effect of decomposing fatty acids in the continental shelf sediment of the northern South China Sea** (2024)
    1 citations · Ocean CDR
 
 3. **Atmospheric CO2 drawdown during the Emeishan flood basalt volcanism** (2026)
-   0 citations · Enhanced Weathering
+   0 citations
 
 ## External Profiles
 

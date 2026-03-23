@@ -1,7 +1,7 @@
 ---
 title: "Naiqiang Zhang"
 description: "Naiqiang Zhang is a Mid-career BECCS researcher at North China Electric Power University in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.147020
+date: 2026-03-23T11:47:01.144151
 url: "/cdr-researcher-census/researchers/naiqiang-zhang-a5110690/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 6 |
 | Citations | 129 |
 | Publications | 11 |
-| CDR Focus | 18.2% |
+| CDR Focus | 910.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

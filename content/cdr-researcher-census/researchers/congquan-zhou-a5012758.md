@@ -1,7 +1,7 @@
 ---
 title: "Congquan Zhou"
-description: "Congquan Zhou is a Senior DAC researcher at Chinese Academy of Sciences in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.135750
+description: "Congquan Zhou is a Senior carbon dioxide removal researcher at Chinese Academy of Sciences in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.135561
 url: "/cdr-researcher-census/researchers/congquan-zhou-a5012758/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Chinese Academy of Sciences · 🇨🇳 CN
 
 **Career Stage:** Senior
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 6 |
 | Citations | 130 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Harnessing electrochemical pH gradient for direct air capture with hydrogen and oxygen by-products in a calcium-based loop** (2021)
-   39 citations · DAC
+   39 citations
 
 ## External Profiles
 

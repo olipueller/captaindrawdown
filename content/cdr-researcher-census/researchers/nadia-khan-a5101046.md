@@ -1,7 +1,7 @@
 ---
 title: "Nadia Khan"
-description: "Nadia Khan is a Mid-career General CDR researcher at University of Peshawar in PK. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.264571
+description: "Nadia Khan is a Mid-career carbon dioxide removal researcher at University of Peshawar in PK. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.277031
 url: "/cdr-researcher-census/researchers/nadia-khan-a5101046/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ University of Peshawar · 🇵🇰 PK
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,16 +36,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 5 |
 | Citations | 115 |
 | Publications | 17 |
-| CDR Focus | 11.8% |
+| CDR Focus | 590.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **A Hybrid Deep Learning and Statistical Approach for Fault Detection and Diagnosis in AGRU Systems: Integration with Aspen Plus and Explainable AI** (2025)
-   1 citations · General CDR
+   1 citations
 
 2. **Natural gas sweetening standards, policies, and regulations** (2024)
-   1 citations · General CDR
+   1 citations
 
 ## External Profiles
 

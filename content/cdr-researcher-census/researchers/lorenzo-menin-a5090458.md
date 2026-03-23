@@ -1,7 +1,7 @@
 ---
 title: "Lorenzo Menin"
 description: "Lorenzo Menin is a Mid-career BECCS researcher at Free University of Bozen-Bolzano in IT. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.654173
+date: 2026-03-23T11:47:00.519841
 url: "/cdr-researcher-census/researchers/lorenzo-menin-a5090458/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 8 |
 | Citations | 227 |
 | Publications | 18 |
-| CDR Focus | 11.1% |
+| CDR Focus | 560.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

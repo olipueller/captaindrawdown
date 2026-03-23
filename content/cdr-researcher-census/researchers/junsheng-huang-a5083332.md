@@ -1,7 +1,7 @@
 ---
 title: "Junsheng Huang"
 description: "Junsheng Huang is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 29 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.078705
+date: 2026-03-23T11:46:59.572672
 url: "/cdr-researcher-census/researchers/junsheng-huang-a5083332/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 11 |
 | Citations | 783 |
 | Publications | 29 |
-| CDR Focus | 10.3% |
+| CDR Focus | 1030.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Drought and Salinization Stress Induced by Stand Development Alters Mineral Element Cycling in a Larch Plantation** (2021)
-   9 citations · Soil Carbon
+   9 citations
 
 2. **Influences of plant functional traits on soil organic carbon stocks: The roles of carbon input quality and diversity** (2025)
    8 citations · Soil Carbon

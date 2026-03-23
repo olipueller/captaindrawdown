@@ -1,7 +1,7 @@
 ---
 title: "Dumitru Pașcu"
-description: "Dumitru Pașcu is a Mid-career General CDR researcher at Universitatea Națională de Știință și Tehnologie Politehnica București in RO. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.275272
+description: "Dumitru Pașcu is a Mid-career carbon dioxide removal researcher at Universitatea Națională de Știință și Tehnologie Politehnica București in RO. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.286463
 url: "/cdr-researcher-census/researchers/dumitru-pascu-a5023725/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Universitatea Națională de Știință și Tehnologie Politehnica București ·
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 6 |
 | Citations | 114 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Hydrogen Sulphide Sequestration with Metallic Ions in Acidic Media Based on Chitosan/sEPDM/Polypropylene Composites Hollow Fiber Membranes System** (2023)
-   4 citations · General CDR
+   4 citations
 
 ## External Profiles
 

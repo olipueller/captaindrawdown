@@ -1,7 +1,7 @@
 ---
 title: "Shasha Guo"
-description: "Shasha Guo is a Mid-career DAC researcher at Henan University of Economic and Law in CN. With 20 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.233711
+description: "Shasha Guo is a Mid-career carbon dioxide removal researcher at Henan University of Economic and Law in CN. With 20 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.859617
 url: "/cdr-researcher-census/researchers/shasha-guo-a5000090/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Henan University of Economic and Law · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,16 +39,16 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 12 |
 | Citations | 482 |
 | Publications | 20 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Separation and capture of CO2 from ambient air using TEPA-functionalized PAN hollow fibers** (2023)
-   18 citations · DAC
+   18 citations
 
 2. **Interfacial Polymerization of Poly(Ethylenimine) on Pan Hollow Fibers for Direct Air Capture of Co2** (2024)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

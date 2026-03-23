@@ -1,7 +1,7 @@
 ---
 title: "Robert F. Strzepek"
 description: "Robert F. Strzepek is a Senior Ocean CDR researcher at University of Tasmania in AU. With 87 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.876514
+date: 2026-03-23T11:46:59.111189
 url: "/cdr-researcher-census/researchers/robert-f-strzepek-a5087477/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 33 |
 | Citations | 6,846 |
 | Publications | 87 |
-| CDR Focus | 13.8% |
+| CDR Focus | 1030.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -54,19 +54,19 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    55 citations · Enhanced Weathering
 
 2. **Iron limitation of kelp growth may prevent ocean afforestation** (2023)
-   31 citations · General CDR
+   31 citations · Ocean CDR
 
 3. **Influence of ocean alkalinity enhancement with olivine or steel slag on a coastal plankton community in Tasmania** (2024)
    25 citations · Enhanced Weathering
 
 4. **Effects of ocean alkalinity enhancement on plankton in the Equatorial Pacific** (2025)
-   12 citations · General CDR
+   12 citations · Ocean CDR
 
 5. **Identifying the Most (Cost‐)Efficient Regions for CO<sub>2</sub> Removal With Iron Fertilization in the Southern Ocean** (2023)
    10 citations · General CDR
 
 6. **Influence of Ocean Alkalinity Enhancement with Olivine or Steel Slag on a Coastal Plankton Community in Tasmania** (2023)
-   5 citations · Enhanced Weathering
+   5 citations
 
 7. **Investigating the effect of nickel concentration on phytoplankton growth to inform the assessment of ocean alkalinity enhancement** (2022)
    4 citations · Enhanced Weathering
@@ -75,10 +75,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    1 citations · General CDR
 
 9. **Comment on egusphere-2023-2120** (2023)
-   0 citations · Enhanced Weathering
+   0 citations
 
 10. **Supplementary material to "Influence of Ocean Alkalinity Enhancement with Olivine or Steel Slag on a Coastal Plankton Community in Tasmania"** (2023)
-   0 citations · Ocean CDR
+   0 citations · General CDR
 
 ## External Profiles
 

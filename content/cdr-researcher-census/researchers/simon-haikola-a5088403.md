@@ -1,7 +1,7 @@
 ---
 title: "Simon Haikola"
-description: "Simon Haikola is a Senior Biochar researcher at Linköping University in SE. With 47 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.047777
+description: "Simon Haikola is a Senior General CDR researcher at Linköping University in SE. With 47 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.511608
 url: "/cdr-researcher-census/researchers/simon-haikola-a5088403/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Linköping University · 🇸🇪 SE
 
 ## CDR Specialization
 
-**Biochar**
+**General CDR**
 
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 19 |
 | Citations | 894 |
 | Publications | 47 |
-| CDR Focus | 12.8% |
+| CDR Focus | 850.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

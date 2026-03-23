@@ -1,7 +1,7 @@
 ---
 title: "Anu Riikonen"
-description: "Anu Riikonen is a Senior Soil Carbon researcher at University of Helsinki in FI. With 60 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.021268
+description: "Anu Riikonen is a Senior General CDR researcher at University of Helsinki in FI. With 60 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.454323
 url: "/cdr-researcher-census/researchers/anu-riikonen-a5051839/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Helsinki ·  FI
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,34 +45,34 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 15 |
 | Citations | 1,046 |
 | Publications | 60 |
-| CDR Focus | 13.3% |
+| CDR Focus | 830.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Carbon sequestration potential of street tree plantings in Helsinki** (2022)
-   35 citations · Soil Carbon
+   35 citations · General CDR
 
 2. **Co-Designing Urban Carbon Sink Parks: Case Carbon Lane in Helsinki** (2021)
    15 citations · Biochar
 
 3. **Data used in manuscript Carbon sequestration potential of street tree plantings in Helsinki** (2022)
-   3 citations · Soil Carbon
+   3 citations · General CDR
 
 4. **Carbon sequestration potential of street tree plantings in Helsinki** (2021)
-   2 citations · Soil Carbon
+   2 citations
 
 5. **Data used in manuscript Carbon sequestration potential of street tree plantings in Helsinki** (2021)
-   1 citations · Soil Carbon
+   1 citations
 
 6. **Data used in manuscript Carbon sequestration potential of street tree plantings in Helsinki** (2022)
-   0 citations · Soil Carbon
+   0 citations
 
 7. **Comment on bg-2021-242** (2021)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 8. **Comment on bg-2021-242** (2021)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

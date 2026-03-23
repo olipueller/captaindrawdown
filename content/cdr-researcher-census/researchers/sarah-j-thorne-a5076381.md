@@ -1,7 +1,7 @@
 ---
 title: "Sarah J. Thorne"
-description: "Sarah J. Thorne is a Mid-career General CDR researcher at Society for the Protection of New Hampshire Forests in US. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.272618
+description: "Sarah J. Thorne is a Mid-career Enhanced Weathering researcher at Society for the Protection of New Hampshire Forests in US. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.932931
 url: "/cdr-researcher-census/researchers/sarah-j-thorne-a5076381/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Society for the Protection of New Hampshire Forests · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**Enhanced Weathering**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 8 |
 | Citations | 433 |
 | Publications | 18 |
-| CDR Focus | 11.1% |
+| CDR Focus | 560.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Enhanced weathering in the US Corn Belt delivers carbon removal with agronomic benefits** (2024)
-   110 citations · Enhanced Weathering
+   110 citations
 
 2. **Enhanced weathering in the U.S. Corn Belt delivers carbon removal with agronomic benefits** (2023)
    5 citations · Enhanced Weathering

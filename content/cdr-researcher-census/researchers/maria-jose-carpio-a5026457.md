@@ -1,7 +1,7 @@
 ---
 title: "María José Carpio"
 description: "María José Carpio is a Senior Soil Carbon researcher at Consejo Superior de Investigaciones Científicas in ES. With 29 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.450226
+date: 2026-03-23T11:47:00.221282
 url: "/cdr-researcher-census/researchers/maria-jose-carpio-a5026457/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 307 |
 | Publications | 29 |
-| CDR Focus | 10.3% |
+| CDR Focus | 1030.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

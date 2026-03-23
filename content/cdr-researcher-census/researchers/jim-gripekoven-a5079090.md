@@ -1,7 +1,7 @@
 ---
 title: "Jim Gripekoven"
-description: "Jim Gripekoven is a Mid-career DAC researcher at Engie (Belgium) in BE. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.720855
+description: "Jim Gripekoven is a Mid-career General CDR researcher at Engie (Belgium) in BE. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.606823
 url: "/cdr-researcher-census/researchers/jim-gripekoven-a5079090/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Engie (Belgium) · 🇧🇪 BE
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 4 |
 | Citations | 209 |
 | Publications | 5 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Life cycle assessment of solar energy conversion into synthetic natural gas for transportation including CO2 capture and dual shipping** (2025)
-   1 citations · DAC
+   1 citations · General CDR
 
 ## External Profiles
 

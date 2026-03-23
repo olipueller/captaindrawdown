@@ -1,7 +1,7 @@
 ---
 title: "Peipei Miao"
-description: "Peipei Miao is a Mid-career Soil Carbon researcher at Yunnan Normal University in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.557463
+description: "Peipei Miao is a Mid-career General CDR researcher at Yunnan Normal University in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.388957
 url: "/cdr-researcher-census/researchers/peipei-miao-a5008312/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Yunnan Normal University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 261 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Study on the Evolution Mechanism of Ecosystem Services in Karst Mountainous Areas from the Perspective of Humanities** (2022)
-   4 citations · Soil Carbon
+   4 citations · General CDR
 
 ## External Profiles
 

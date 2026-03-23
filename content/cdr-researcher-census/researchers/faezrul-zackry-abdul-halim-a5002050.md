@@ -1,7 +1,7 @@
 ---
 title: "Faezrul Zackry Abdul Halim"
 description: "Faezrul Zackry Abdul Halim is an Early-career Biochar researcher at Universiti Malaysia Sarawak in MY. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.563999
+date: 2026-03-23T11:47:00.398367
 url: "/cdr-researcher-census/researchers/faezrul-zackry-abdul-halim-a5002050/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 2 |
 | Citations | 258 |
 | Publications | 4 |
-| CDR Focus | 25.0% |
+| CDR Focus | 2500.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

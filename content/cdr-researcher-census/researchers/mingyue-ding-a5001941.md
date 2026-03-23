@@ -1,7 +1,7 @@
 ---
 title: "Mingyue Ding"
-description: "Mingyue Ding is a Mid-career General CDR researcher at Huazhong Agricultural University in CN. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.726986
+description: "Mingyue Ding is a Mid-career Enhanced Weathering researcher at Huazhong Agricultural University in CN. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.614857
 url: "/cdr-researcher-census/researchers/mingyue-ding-a5001941/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Huazhong Agricultural University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**General CDR**
+**Enhanced Weathering**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 
@@ -42,16 +42,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 9 |
 | Citations | 207 |
 | Publications | 20 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Formation mechanism of the (2 × 1) reconstruction of calcite (104)** (2025)
-   2 citations · General CDR
+   2 citations · Enhanced Weathering
 
 2. **Formation mechanism of the (2 x 1) reconstruction of calcite (104)** (2024)
-   0 citations · General CDR
+   0 citations · Enhanced Weathering
 
 ## External Profiles
 

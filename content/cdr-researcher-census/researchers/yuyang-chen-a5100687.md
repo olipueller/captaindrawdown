@@ -1,7 +1,7 @@
 ---
 title: "Yuyang Chen"
 description: "Yuyang Chen is a Mid-career Biochar researcher at Jilin University in CN. With 36 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.204644
+date: 2026-03-23T11:46:59.805497
 url: "/cdr-researcher-census/researchers/yuyang-chen-a5100687/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 10 |
 | Citations | 520 |
 | Publications | 36 |
-| CDR Focus | 16.7% |
+| CDR Focus | 560.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

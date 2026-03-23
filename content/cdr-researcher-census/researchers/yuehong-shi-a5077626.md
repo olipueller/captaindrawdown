@@ -1,7 +1,7 @@
 ---
 title: "Yuehong Shi"
 description: "Yuehong Shi is a Mid-career Soil Carbon researcher at Chengdu University of Technology in CN. With 26 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.985415
+date: 2026-03-23T11:47:00.965407
 url: "/cdr-researcher-census/researchers/yuehong-shi-a5077626/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 152 |
 | Publications | 26 |
-| CDR Focus | 19.2% |
+| CDR Focus | 1540.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    10 citations · Soil Carbon
 
 2. **Subsoil organic carbon turnover is dominantly controlled by soil properties in grasslands across China** (2021)
-   2 citations · Soil Carbon
+   2 citations
 
 3. **Soil Property, Rather than Climate, Controls Subsoil Carbon Turnover Time in Forest Ecosystems across China** (2022)
    0 citations · Soil Carbon

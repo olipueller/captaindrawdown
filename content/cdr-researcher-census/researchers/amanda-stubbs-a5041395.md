@@ -1,7 +1,7 @@
 ---
 title: "Amanda Stubbs"
 description: "Amanda Stubbs is a Senior Enhanced Weathering researcher. With 56 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.183648
+date: 2026-03-23T11:46:59.762926
 url: "/cdr-researcher-census/researchers/amanda-stubbs-a5041395/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 14 |
 | Citations | 559 |
 | Publications | 56 |
-| CDR Focus | 37.5% |
+| CDR Focus | 3210.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -52,10 +52,10 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    43 citations · Enhanced Weathering
 
 3. **Rates of atmospheric CO2 capture using magnesium oxide powder** (2022)
-   41 citations · General CDR
+   41 citations
 
 4. **Cation Exchange in Smectites as a New Approach to Mineral Carbonation** (2022)
-   28 citations · General CDR
+   28 citations · Enhanced Weathering
 
 5. **Impact of wet-dry cycles on enhanced rock weathering of brucite, wollastonite, serpentinite and kimberlite: Implications for carbon verification** (2023)
    16 citations · Enhanced Weathering

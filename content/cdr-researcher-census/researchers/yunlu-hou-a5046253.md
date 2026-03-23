@@ -1,7 +1,7 @@
 ---
 title: "Yunlu Hou"
-description: "Yunlu Hou is a Mid-career Soil Carbon researcher at Centre National de la Recherche Scientifique in FR. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.583439
+description: "Yunlu Hou is a Mid-career Biochar researcher at Centre National de la Recherche Scientifique in FR. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.423743
 url: "/cdr-researcher-census/researchers/yunlu-hou-a5046253/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Centre National de la Recherche Scientifique · 🇫🇷 FR
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 251 |
 | Publications | 19 |
-| CDR Focus | 15.8% |
+| CDR Focus | 1050.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,10 +54,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    5 citations · Biochar
 
 2. **Experimental investigation of marine soil stabilization with recycled aggregates and MgO: implications for CO<sub>2</sub> sequestration** (2025)
-   4 citations · Soil Carbon
+   4 citations · General CDR
 
 3. **In-situ mineral carbonation of ultramafic tailings for carbon dioxide removal: A critical review** (2025)
-   2 citations · General CDR
+   2 citations · Enhanced Weathering
 
 ## External Profiles
 

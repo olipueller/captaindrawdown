@@ -1,7 +1,7 @@
 ---
 title: "Emily Humphries"
-description: "Emily Humphries is a Mid-career Soil Carbon researcher. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.302212
+description: "Emily Humphries is a Mid-career carbon dioxide removal researcher. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.978631
 url: "/cdr-researcher-census/researchers/emily-humphries-a5067374/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -27,12 +27,6 @@ robots: "index, follow"
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -40,13 +34,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 409 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Why losing Australia's biodiversity matters for human health: insights from the latest State of the Environment assessment** (2023)
-   4 citations · Soil Carbon
+   4 citations
 
 ## External Profiles
 

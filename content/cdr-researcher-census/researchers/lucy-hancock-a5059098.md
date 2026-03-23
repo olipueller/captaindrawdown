@@ -1,7 +1,7 @@
 ---
 title: "Lucy Hancock"
-description: "Lucy Hancock is a Senior Soil Carbon researcher at Philips (Finland) in FI. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.826900
+description: "Lucy Hancock is a Senior General CDR researcher at Philips (Finland) in FI. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.764004
 url: "/cdr-researcher-census/researchers/lucy-hancock-a5059098/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Philips (Finland) ·  FI
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 183 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Spatial mapping and predictive modeling of soil organic carbon stocks in Vermont agricultural lands using machine learning and environmental variables** (2025)
-   6 citations · Soil Carbon
+   6 citations · General CDR
 
 ## External Profiles
 

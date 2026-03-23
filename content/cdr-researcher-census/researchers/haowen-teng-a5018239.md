@@ -1,7 +1,7 @@
 ---
 title: "Haowen Teng"
 description: "Haowen Teng is a Mid-career Biochar researcher at Harbin Normal University in CN. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.839139
+date: 2026-03-23T11:47:00.779534
 url: "/cdr-researcher-census/researchers/haowen-teng-a5018239/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 5 |
 | Citations | 180 |
 | Publications | 5 |
-| CDR Focus | 60.0% |
+| CDR Focus | 6000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

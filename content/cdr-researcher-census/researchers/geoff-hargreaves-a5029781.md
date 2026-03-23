@@ -1,7 +1,7 @@
 ---
 title: "Geoff Hargreaves"
-description: "Geoff Hargreaves is a Senior Soil Carbon researcher at National Oceanography Centre in GB. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.033164
+description: "Geoff Hargreaves is a Senior carbon dioxide removal researcher at National Oceanography Centre in GB. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.478583
 url: "/cdr-researcher-census/researchers/geoff-hargreaves-a5029781/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ National Oceanography Centre · 🇬🇧 GB
 
 **Career Stage:** Senior
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,16 +39,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 972 |
 | Publications | 7 |
-| CDR Focus | 28.6% |
+| CDR Focus | 1430.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Landscape controls on riverine export of dissolved organic carbon from Great Britain** (2021)
-   75 citations · Soil Carbon
+   75 citations
 
 2. **Contrasting Estuarine Processing of Dissolved Organic Matter Derived From Natural and Human‐Impacted Landscapes** (2021)
-   42 citations · Ocean CDR
+   42 citations
 
 ## External Profiles
 

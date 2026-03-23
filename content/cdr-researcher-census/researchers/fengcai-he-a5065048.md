@@ -1,7 +1,7 @@
 ---
 title: "Fengcai He"
 description: "Fengcai He is a Mid-career Soil Carbon researcher at Beijing Forestry University in CN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.212018
+date: 2026-03-23T11:47:01.217859
 url: "/cdr-researcher-census/researchers/fengcai-he-a5065048/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 121 |
 | Publications | 18 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    23 citations · Soil Carbon
 
 2. **Asymbiotic biological nitrogen fixation makes a great contribution to nitrogen balance in unfertilized alpine grasslands across the Qinghai-Tibet Plateau** (2025)
-   1 citations · Soil Carbon
+   1 citations
 
 ## External Profiles
 

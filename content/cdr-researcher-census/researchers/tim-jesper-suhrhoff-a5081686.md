@@ -1,7 +1,7 @@
 ---
 title: "Tim Jesper Suhrhoff"
 description: "Tim Jesper Suhrhoff is a Mid-career Enhanced Weathering researcher at Planetary Science Institute in US. With 49 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.070641
+date: 2026-03-23T11:46:59.555342
 url: "/cdr-researcher-census/researchers/tim-jesper-suhrhoff-a5081686/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 10 |
 | Citations | 814 |
 | Publications | 49 |
-| CDR Focus | 49.0% |
+| CDR Focus | 3670.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Initial Validation of a Soil-Based Mass-Balance Approach for Empirical Monitoring of Enhanced Rock Weathering Rates** (2023)
-   56 citations · Enhanced Weathering
+   56 citations
 
 2. **A review of measurement for quantification of carbon dioxide removal by enhanced weathering in soil** (2024)
    40 citations · Enhanced Weathering
@@ -60,7 +60,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    30 citations · Enhanced Weathering
 
 4. **Phytoprevention of Heavy Metal Contamination From Terrestrial Enhanced Weathering: Can Plants Save the Day?** (2022)
-   16 citations · BECCS
+   16 citations · Enhanced Weathering
 
 5. **A tool for assessing the sensitivity of soil-based approaches for quantifying enhanced weathering: a US case study** (2024)
    13 citations · Enhanced Weathering

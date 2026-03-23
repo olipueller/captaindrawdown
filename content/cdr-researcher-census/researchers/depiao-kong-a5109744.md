@@ -1,7 +1,7 @@
 ---
 title: "Depiao Kong"
 description: "Depiao Kong is a Senior Soil Carbon researcher at Northeast Institute of Geography and Agroecology in CN. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.709278
+date: 2026-03-23T11:47:00.593880
 url: "/cdr-researcher-census/researchers/depiao-kong-a5109744/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 212 |
 | Publications | 14 |
-| CDR Focus | 14.3% |
+| CDR Focus | 710.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

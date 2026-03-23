@@ -1,7 +1,7 @@
 ---
 title: "Caylon F. Yates"
-description: "Caylon F. Yates is a Mid-career Soil Carbon researcher at Pennsylvania State University in US. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.341612
+description: "Caylon F. Yates is a Mid-career carbon dioxide removal researcher at Pennsylvania State University in US. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.358178
 url: "/cdr-researcher-census/researchers/caylon-f-yates-a5005472/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Pennsylvania State University · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 108 |
 | Publications | 8 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Tree‐induced alterations to soil properties and rhizoplane‐associated bacteria following 23 years in a common garden** (2021)
-   14 citations · Soil Carbon
+   14 citations
 
 ## External Profiles
 

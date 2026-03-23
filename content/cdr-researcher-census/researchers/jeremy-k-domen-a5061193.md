@@ -1,7 +1,7 @@
 ---
 title: "Jeremy K. Domen"
-description: "Jeremy K. Domen is a Mid-career Soil Carbon researcher at Healthy Start in US. With 30 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.043175
+description: "Jeremy K. Domen is a Mid-career DAC researcher at Healthy Start in US. With 30 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.500523
 url: "/cdr-researcher-census/researchers/jeremy-k-domen-a5061193/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Healthy Start · 🇺🇸 US
 
 ## CDR Specialization
 
-**Soil Carbon**
+**DAC**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 11 |
 | Citations | 923 |
 | Publications | 30 |
-| CDR Focus | 10.0% |
+| CDR Focus | 670.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    1 citations · DAC
 
 3. **Economical deployment of quarry minerals for land-based enhanced weathering in Northern California** (2024)
-   1 citations · DAC
+   1 citations
 
 ## External Profiles
 

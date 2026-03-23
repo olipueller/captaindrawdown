@@ -1,0 +1,59 @@
+---
+title: "Tom C. Kaspar"
+description: "Tom C. Kaspar is a Senior BECCS researcher at National Laboratory for Agriculture and the Environment in US. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.207253
+url: "/cdr-researcher-census/researchers/tom-c-kaspar-a5112103/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Tom C. Kaspar",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/tom-c-kaspar-a5112103/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "National Laboratory for Agriculture and the Environment"
+  },
+  "sameAs": "https://openalex.org/A5112103956"
+}
+</script>
+
+## Profile
+
+**Tom C. Kaspar**  
+National Laboratory for Agriculture and the Environment · 🇺🇸 US
+
+**Career Stage:** Senior
+
+## CDR Specialization
+
+**BECCS**
+
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 7 |
+| Citations | 311 |
+| Publications | 18 |
+| CDR Focus | 560.0% |
+| Trajectory | Exiting |
+
+## Top CDR Publications
+
+1. **Harvested winter rye energy cover crop: multiple benefits for North Central US** (2023)
+   10 citations · BECCS
+
+## External Profiles
+
+- [OpenAlex](https://openalex.org/A5112103956)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

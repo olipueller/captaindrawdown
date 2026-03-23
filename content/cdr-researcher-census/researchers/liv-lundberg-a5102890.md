@@ -1,7 +1,7 @@
 ---
 title: "Liv Lundberg"
 description: "Liv Lundberg is a Senior General CDR researcher at RISE Research Institutes of Sweden in SE. With 39 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.120077
+date: 2026-03-23T11:46:59.649102
 url: "/cdr-researcher-census/researchers/liv-lundberg-a5102890/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 12 |
 | Citations | 669 |
 | Publications | 39 |
-| CDR Focus | 10.3% |
+| CDR Focus | 1030.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

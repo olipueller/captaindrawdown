@@ -1,7 +1,7 @@
 ---
 title: "Aaron Eveleigh"
-description: "Aaron Eveleigh is a Mid-career Soil Carbon researcher at University College London in GB. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.300854
+description: "Aaron Eveleigh is a Mid-career Biochar researcher at University College London in GB. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.977129
 url: "/cdr-researcher-census/researchers/aaron-eveleigh-a5076853/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University College London · 🇬🇧 GB
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 409 |
 | Publications | 16 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

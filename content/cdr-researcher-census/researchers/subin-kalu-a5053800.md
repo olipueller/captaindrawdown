@@ -1,7 +1,7 @@
 ---
 title: "Subin Kalu"
 description: "Subin Kalu is a Mid-career Soil Carbon researcher at University of Helsinki in FI. With 33 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.238123
+date: 2026-03-23T11:46:59.864412
 url: "/cdr-researcher-census/researchers/subin-kalu-a5053800/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 10 |
 | Citations | 478 |
 | Publications | 33 |
-| CDR Focus | 15.2% |
+| CDR Focus | 1210.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -60,10 +60,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    7 citations · Soil Carbon
 
 4. **Priming effect depending on land use and soil types in a typical semi-arid landscape in Kenya** (2023)
-   6 citations · Soil Carbon
+   6 citations
 
 5. **Organic soil amendments as a tool to increase biological activity and C sequestration in clay soil** (2021)
-   0 citations · Biochar
+   0 citations · Soil Carbon
 
 ## External Profiles
 

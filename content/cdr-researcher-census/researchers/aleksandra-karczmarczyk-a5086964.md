@@ -1,7 +1,7 @@
 ---
 title: "Aleksandra Karczmarczyk"
-description: "Aleksandra Karczmarczyk is a Mid-career General CDR researcher at University of Warmia and Mazury in Olsztyn in PL. With 9 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.329174
+description: "Aleksandra Karczmarczyk is a Mid-career carbon dioxide removal researcher at University of Warmia and Mazury in Olsztyn in PL. With 9 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.017077
 url: "/cdr-researcher-census/researchers/aleksandra-karczmarczyk-a5086964/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ University of Warmia and Mazury in Olsztyn ·  PL
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 8 |
 | Citations | 390 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Possibilities of Biogas Upgrading on a Bio-Waste Sorbent Derived from Anaerobic Sewage Sludge** (2022)
-   8 citations · General CDR
+   8 citations
 
 ## External Profiles
 

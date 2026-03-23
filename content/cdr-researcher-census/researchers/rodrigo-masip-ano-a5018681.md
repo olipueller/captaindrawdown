@@ -1,7 +1,7 @@
 ---
 title: "Rodrigo Masip Añó"
-description: "Rodrigo Masip Añó is a Mid-career BECCS researcher at Pennsylvania State University in US. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.389652
+description: "Rodrigo Masip Añó is a Mid-career carbon dioxide removal researcher at Pennsylvania State University in US. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.408722
 url: "/cdr-researcher-census/researchers/rodrigo-masip-ano-a5018681/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Pennsylvania State University · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**BECCS**
-
-Combining biomass energy with carbon capture and storage to achieve negative emissions.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 2 |
 | Citations | 103 |
 | Publications | 3 |
-| CDR Focus | 33.3% |
+| CDR Focus | 3330.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **A semi‐commercial case study of willow biomass production in the northeastern United States** (2021)
-   9 citations · BECCS
+   9 citations
 
 ## External Profiles
 

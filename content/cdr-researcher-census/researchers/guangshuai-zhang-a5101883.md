@@ -1,7 +1,7 @@
 ---
 title: "Guangshuai Zhang"
 description: "Guangshuai Zhang is a Mid-career Soil Carbon researcher at China National Environmental Monitoring Center in CN. With 36 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.335800
+date: 2026-03-23T11:47:00.026245
 url: "/cdr-researcher-census/researchers/guangshuai-zhang-a5101883/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 12 |
 | Citations | 385 |
 | Publications | 36 |
-| CDR Focus | 11.1% |
+| CDR Focus | 830.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    5 citations · Soil Carbon
 
 3. **An Improved Method for Estimating Blue Carbon Storage in Coastal Salt Marsh Wetlands: Considering the Heterogeneity of Soil Thickness** (2025)
-   0 citations · Soil Carbon
+   0 citations · Ocean CDR
 
 4. **Distribution of Habitat Suitability for Suaeda Salsa in the Liaohe River Estuary and its Relationship with Carbon Storage** (2024)
    0 citations · Soil Carbon

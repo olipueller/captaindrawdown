@@ -1,7 +1,7 @@
 ---
 title: "Beverley Henry"
 description: "Beverley Henry is a Senior Soil Carbon researcher at Queensland University of Technology in AU. With 66 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.908764
+date: 2026-03-23T11:46:59.193469
 url: "/cdr-researcher-census/researchers/beverley-henry-a5035181/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,37 +45,37 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 23 |
 | Citations | 3,009 |
 | Publications | 66 |
-| CDR Focus | 13.6% |
+| CDR Focus | 910.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **The role of soil carbon sequestration in enhancing human resilience in tackling global crises including pandemics** (2022)
-   25 citations · Soil Carbon
+   25 citations · General CDR
 
 2. **Current NPP cannot predict future soil organic carbon sequestration potential. Comment on “Photosynthetic limits on carbon sequestration in croplands”** (2022)
    25 citations · Soil Carbon
 
 3. **Soil carbon sequestration in rangelands: a critical review of the impacts of major management strategies** (2024)
-   20 citations · Soil Carbon
+   20 citations · General CDR
 
 4. **Creating frameworks to foster soil carbon sequestration** (2022)
-   16 citations · Soil Carbon
+   16 citations · General CDR
 
 5. **The potential for enhancing soil carbon levels through the use of organic soil amendments in Queensland, Australia** (2021)
    10 citations · Soil Carbon
 
 6. **Carbon and nitrogen management for climate-resilient agriculture: Toward the 4p1000 target and sustainable development goals** (2025)
-   2 citations · Biochar
+   2 citations · General CDR
 
 7. **Benefits and trade-offs of soil organic carbon sequestration** (2022)
-   2 citations · Soil Carbon
+   2 citations · General CDR
 
 8. **Enhancing “4 per 1000” initiative implementation through region-specific agricultural and forestry practices** (2025)
-   1 citations · Soil Carbon
+   1 citations · General CDR
 
 9. **The potential for enhancing soil carbon levels through the use of organic soil amendments in Queensland, Australia** (2022)
-   0 citations · Soil Carbon
+   0 citations
 
 ## External Profiles
 

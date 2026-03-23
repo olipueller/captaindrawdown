@@ -1,0 +1,87 @@
+---
+title: "Brian Wilson"
+description: "Brian Wilson is a Senior Soil Carbon researcher at University of New England in AU. With 160 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.148203
+url: "/cdr-researcher-census/researchers/brian-wilson-a5033678/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Brian Wilson",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/brian-wilson-a5033678/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "University of New England"
+  },
+  "sameAs": [
+    "https://orcid.org/0000-0002-7983-0909",
+    "https://openalex.org/A5033678174"
+  ]
+}
+</script>
+
+## Profile
+
+**Brian Wilson**  
+University of New England · 🇦🇺 AU
+
+**Career Stage:** Senior
+
+## CDR Specialization
+
+**Soil Carbon**
+
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 36 |
+| Citations | 4,247 |
+| Publications | 160 |
+| CDR Focus | 560.0% |
+| Trajectory | Exiting |
+
+## Top CDR Publications
+
+1. **Making soil carbon credits work for climate change mitigation** (2024)
+   19 citations · General CDR
+
+2. **Temporal dynamics in biotic and functional recovery following mining** (2022)
+   18 citations
+
+3. **The Social-Ecological System of Farmers’ Current Soil Carbon Management in Australian Grazing Lands** (2023)
+   10 citations · General CDR
+
+4. **Functional Links between Biomass Production and Decomposition of Vetiver (Chrysopogon zizanioides) Grass in Three Australian Soils** (2022)
+   8 citations · Soil Carbon
+
+5. **Soil Carbon Storage Potential of Tropical Grasses: A Review** (2021)
+   8 citations · Soil Carbon
+
+6. **Lessons learned from farmers’ experience of soil carbon management practices in grazing regimes of Australia** (2023)
+   7 citations · Soil Carbon
+
+7. **Soil Carbon Fractions under Vetiver Grass in Australia and Ethiopia Relative to other Land Uses** (2024)
+   3 citations · Soil Carbon
+
+8. **Soil Carbon Storage and Distribution Under Chrysopogon Zizanioides Using Delta-13 Carbon Analysis** (2024)
+   0 citations · Soil Carbon
+
+9. **Soil Carbon Storage and Distribution Under Chrysopogon Zizanioides Using Δ13c Analysis** (2024)
+   0 citations · Soil Carbon
+
+## External Profiles
+
+- [ORCID](https://orcid.org/0000-0002-7983-0909)
+- [OpenAlex](https://openalex.org/A5033678174)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

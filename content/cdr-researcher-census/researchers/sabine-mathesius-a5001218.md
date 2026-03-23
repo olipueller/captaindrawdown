@@ -1,7 +1,7 @@
 ---
 title: "Sabine Mathesius"
 description: "Sabine Mathesius is a Mid-career General CDR researcher. With 29 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.299920
+date: 2026-03-23T11:46:59.975330
 url: "/cdr-researcher-census/researchers/sabine-mathesius-a5001218/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 8 |
 | Citations | 410 |
 | Publications | 29 |
-| CDR Focus | 13.8% |
+| CDR Focus | 1380.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

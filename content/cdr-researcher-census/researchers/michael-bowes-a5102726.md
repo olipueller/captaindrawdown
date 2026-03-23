@@ -1,7 +1,7 @@
 ---
 title: "Michael Bowes"
-description: "Michael Bowes is a Mid-career Soil Carbon researcher at British Geological Survey in GB. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.873062
+description: "Michael Bowes is a Mid-career carbon dioxide removal researcher at British Geological Survey in GB. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.823599
 url: "/cdr-researcher-census/researchers/michael-bowes-a5102726/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ British Geological Survey · 🇬🇧 GB
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,16 +39,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 173 |
 | Publications | 12 |
-| CDR Focus | 16.7% |
+| CDR Focus | 830.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Landscape controls on riverine export of dissolved organic carbon from Great Britain** (2021)
-   75 citations · Soil Carbon
+   75 citations
 
 2. **Contrasting Estuarine Processing of Dissolved Organic Matter Derived From Natural and Human‐Impacted Landscapes** (2021)
-   42 citations · Ocean CDR
+   42 citations
 
 ## External Profiles
 

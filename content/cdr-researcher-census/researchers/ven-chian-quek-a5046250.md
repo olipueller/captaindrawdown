@@ -1,7 +1,7 @@
 ---
 title: "Ven Chian Quek"
-description: "Ven Chian Quek is a Mid-career General CDR researcher at Petronas (Malaysia) in MY. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.264769
+description: "Ven Chian Quek is a Mid-career carbon dioxide removal researcher at Petronas (Malaysia) in MY. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.277222
 url: "/cdr-researcher-census/researchers/ven-chian-quek-a5046250/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Petronas (Malaysia) · 🇲🇾 MY
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 6 |
 | Citations | 115 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **A Novel Photocatalytic Integrated Carbon Capture and Utilization (ICCU) Approach for Conversion of CO2 to Methanol in Amine Solution** (2024)
-   1 citations · General CDR
+   1 citations
 
 ## External Profiles
 

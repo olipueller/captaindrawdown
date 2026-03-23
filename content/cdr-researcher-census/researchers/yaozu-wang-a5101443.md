@@ -1,7 +1,7 @@
 ---
 title: "Yaozu Wang"
-description: "Yaozu Wang is a Mid-career DAC researcher at Shenyang Ligong University in CN. With 10 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.603065
+description: "Yaozu Wang is a Mid-career General CDR researcher at Shenyang Ligong University in CN. With 10 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.447159
 url: "/cdr-researcher-census/researchers/yaozu-wang-a5101443/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Shenyang Ligong University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,28 +45,28 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 9 |
 | Citations | 244 |
 | Publications | 10 |
-| CDR Focus | 60.0% |
+| CDR Focus | 6000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Mixed Diethanolamine and Polyethyleneimine with Enhanced CO<sub>2</sub> Capture Capacity from Air** (2023)
-   49 citations · DAC
+   49 citations
 
 2. **Mixed polyamines promotes CO2 adsorption from air** (2022)
-   44 citations · DAC
+   44 citations
 
 3. **Additives enhancing supported amines performance in CO<sub>2</sub> capture from air** (2023)
-   28 citations · DAC
+   28 citations
 
 4. **Minimizing the effect of oxygen on supported polyamine for direct air capture** (2022)
-   26 citations · DAC
+   26 citations
 
 5. **Frontier science and challenges on offshore carbon storage** (2023)
    23 citations · General CDR
 
 6. **Scalable Synthesis of Amine-Grafted Ultrafine Layered Double Hydroxide Nanosheets with Improved Carbon Dioxide Capture Capacity from Air** (2023)
-   12 citations · DAC
+   12 citations
 
 ## External Profiles
 

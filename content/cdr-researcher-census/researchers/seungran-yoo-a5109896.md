@@ -1,7 +1,7 @@
 ---
 title: "SeungRan Yoo"
 description: "SeungRan Yoo is a Senior General CDR researcher at Advanced Institute of Convergence Technology in KR. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.691831
+date: 2026-03-23T11:47:00.572253
 url: "/cdr-researcher-census/researchers/seungran-yoo-a5109896/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,13 +42,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 9 |
 | Citations | 216 |
 | Publications | 16 |
-| CDR Focus | 12.5% |
+| CDR Focus | 620.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Preparation of food active packaging materials based on calcium hydroxide and modified porous medium for reducing carbon dioxide and kimchi odor** (2023)
-   5 citations · General CDR
+   5 citations
 
 2. **Expanded packaging material for removal of carbon dioxide and kimchi odor compounds using sodium-bicarbonate-powder-impregnated activated carbon** (2026)
    0 citations · General CDR

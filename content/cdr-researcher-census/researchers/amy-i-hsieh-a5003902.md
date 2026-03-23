@@ -1,7 +1,7 @@
 ---
 title: "Amy I. Hsieh"
 description: "Amy I. Hsieh is a Mid-career Enhanced Weathering researcher at University of Lausanne in CH. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.609993
+date: 2026-03-23T11:47:00.458020
 url: "/cdr-researcher-census/researchers/amy-i-hsieh-a5003902/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 7 |
 | Citations | 242 |
 | Publications | 19 |
-| CDR Focus | 10.5% |
+| CDR Focus | 530.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    0 citations · Enhanced Weathering
 
 2. **Carbon export and burial pathways driven by a low-latitude arc-continent collision** (2025)
-   0 citations · Enhanced Weathering
+   0 citations
 
 ## External Profiles
 

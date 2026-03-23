@@ -1,7 +1,7 @@
 ---
 title: "Rachael Murphy"
-description: "Rachael Murphy is a Senior Soil Carbon researcher at Teagasc - The Irish Agriculture and Food Development Authority in IE. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.941954
+description: "Rachael Murphy is a Senior General CDR researcher at Teagasc - The Irish Agriculture and Food Development Authority in IE. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.914056
 url: "/cdr-researcher-census/researchers/rachael-murphy-a5056242/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Teagasc - The Irish Agriculture and Food Development Authority ·  IE
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 160 |
 | Publications | 18 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Achieving agricultural and environmental targets in a changing climate requires a whole-system based approach** (2025)
-   1 citations · Soil Carbon
+   1 citations · General CDR
 
 2. **Greenhouse gas fluxes from grassland on organic soil used for beef grazing in the Irish midlands** (2024)
    1 citations · Soil Carbon

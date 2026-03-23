@@ -1,7 +1,7 @@
 ---
 title: "Gao Hong-juan"
 description: "Gao Hong-juan is a Senior Soil Carbon researcher. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.012934
+date: 2026-03-23T11:47:01.001981
 url: "/cdr-researcher-census/researchers/gao-hong-juan-a5004411/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 148 |
 | Publications | 19 |
-| CDR Focus | 10.5% |
+| CDR Focus | 1050.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

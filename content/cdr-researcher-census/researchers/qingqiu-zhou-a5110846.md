@@ -1,7 +1,7 @@
 ---
 title: "Qingqiu Zhou"
 description: "Qingqiu Zhou is a Mid-career Soil Carbon researcher at Kunming University of Science and Technology in CN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.489839
+date: 2026-03-23T11:47:00.287017
 url: "/cdr-researcher-census/researchers/qingqiu-zhou-a5110846/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,19 +42,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 288 |
 | Publications | 16 |
-| CDR Focus | 18.8% |
+| CDR Focus | 620.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Plant–rodent interactions after a heavy snowfall decrease plant regeneration and soil carbon emission in an old-growth forest** (2021)
-   9 citations · Enhanced Weathering
+   9 citations · Soil Carbon
 
 2. **Effect of wildfires on soil organic carbon content and carbon flow pathways: The evidence of BPCAs molecular markers and 13C natural abundance** (2025)
    1 citations · Soil Carbon
 
 3. **Multiple Temperature Gradients Did Not Alter the Regulation of Dom by Soil Layers in a Subtropical Primary Forest** (2025)
-   0 citations · Soil Carbon
+   0 citations
 
 ## External Profiles
 

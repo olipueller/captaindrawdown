@@ -1,7 +1,7 @@
 ---
 title: "Lucas Rocha-Melogno"
 description: "Lucas Rocha-Melogno is a Mid-career DAC researcher at Meridian Institute in US. With 15 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.266605
+date: 2026-03-23T11:46:59.924209
 url: "/cdr-researcher-census/researchers/lucas-rocha-melogno-a5027002/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,13 +42,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 11 |
 | Citations | 438 |
 | Publications | 15 |
-| CDR Focus | 13.3% |
+| CDR Focus | 670.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **CO2 in indoor environments: From environmental and health risk to potential renewable carbon source** (2022)
-   116 citations · DAC
+   116 citations
 
 2. **Indoor CO2 direct air capture and utilization: Key strategies towards carbon neutrality** (2024)
    30 citations · DAC

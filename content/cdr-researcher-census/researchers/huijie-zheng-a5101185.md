@@ -1,7 +1,7 @@
 ---
 title: "Huijie Zheng"
 description: "Huijie Zheng is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.484119
+date: 2026-03-23T11:47:00.275959
 url: "/cdr-researcher-census/researchers/huijie-zheng-a5101185/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 291 |
 | Publications | 10 |
-| CDR Focus | 30.0% |
+| CDR Focus | 3000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    36 citations · Soil Carbon
 
 3. **Impact of wetland conversion to cropland on ecosystem carbon budget and greenhouse gas emissions in Northeast China** (2024)
-   2 citations · General CDR
+   2 citations · Soil Carbon
 
 ## External Profiles
 

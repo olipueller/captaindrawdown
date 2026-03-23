@@ -1,7 +1,7 @@
 ---
 title: "Sanja Annabell Schwalb"
 description: "Sanja Annabell Schwalb is a Mid-career Soil Carbon researcher. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.483027
+date: 2026-03-23T11:47:00.273935
 url: "/cdr-researcher-census/researchers/sanja-annabell-schwalb-a5027951/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,13 +40,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 292 |
 | Publications | 12 |
-| CDR Focus | 33.3% |
+| CDR Focus | 3330.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Functions of elements in soil microorganisms** (2021)
-   142 citations · Soil Carbon
+   142 citations
 
 2. **Long-term differences in fertilisation type change the bacteria:archaea:fungi ratios and reveal a heterogeneous response of the soil microbial ionome in a Haplic Luvisol** (2022)
    14 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Adetola E. Ogungbenro"
-description: "Adetola E. Ogungbenro is a Mid-career DAC researcher. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.141281
+description: "Adetola E. Ogungbenro is a Mid-career carbon dioxide removal researcher. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.684651
 url: "/cdr-researcher-census/researchers/adetola-e-ogungbenro-a5052004/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -27,12 +27,6 @@ robots: "index, follow"
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -40,16 +34,16 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 7 |
 | Citations | 631 |
 | Publications | 11 |
-| CDR Focus | 18.2% |
+| CDR Focus | 1820.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Aminosilane-Modified Ordered Hierarchical Nanostructured Silica for Highly-Selective Carbon Dioxide Capture at Low Pressure** (2023)
-   51 citations · DAC
+   51 citations
 
 2. **Review of polyethylenimine through ring-opening polymerization reactions and its application in CO2 capture** (2024)
-   19 citations · DAC
+   19 citations
 
 ## External Profiles
 

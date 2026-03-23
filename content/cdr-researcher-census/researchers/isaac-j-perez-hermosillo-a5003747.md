@@ -1,7 +1,7 @@
 ---
 title: "Isaac J. Pérez-Hermosillo"
-description: "Isaac J. Pérez-Hermosillo is a Mid-career General CDR researcher at Universidad Autónoma Metropolitana in MX. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.932910
+description: "Isaac J. Pérez-Hermosillo is a Mid-career carbon dioxide removal researcher at Universidad Autónoma Metropolitana in MX. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.901971
 url: "/cdr-researcher-census/researchers/isaac-j-perez-hermosillo-a5003747/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Universidad Autónoma Metropolitana · 🇲🇽 MX
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,16 +39,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 5 |
 | Citations | 161 |
 | Publications | 11 |
-| CDR Focus | 18.2% |
+| CDR Focus | 1820.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Biogas Purification through the use of a Microalgae-Bacterial System in Semi-Industrial High Rate Algal Ponds** (2024)
-   1 citations · General CDR
+   1 citations
 
 2. **JoVE Video Dataset** (2024)
-   0 citations · General CDR
+   0 citations
 
 ## External Profiles
 

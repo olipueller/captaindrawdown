@@ -1,0 +1,63 @@
+---
+title: "Rudolf Messner"
+description: "Rudolf Messner is a Mid-career General CDR researcher at Queensland University of Technology in AU. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.400447
+url: "/cdr-researcher-census/researchers/rudolf-messner-a5064613/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Rudolf Messner",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/rudolf-messner-a5064613/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Queensland University of Technology"
+  },
+  "sameAs": [
+    "https://orcid.org/0000-0002-9049-3499",
+    "https://openalex.org/A5064613873"
+  ]
+}
+</script>
+
+## Profile
+
+**Rudolf Messner**  
+Queensland University of Technology · 🇦🇺 AU
+
+**Career Stage:** Mid-career
+
+## CDR Specialization
+
+**General CDR**
+
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 4 |
+| Citations | 258 |
+| Publications | 11 |
+| CDR Focus | 910.0% |
+| Trajectory | Growing |
+
+## Top CDR Publications
+
+1. **Holistic grazing management as a scalable niche? A systems perspective on transitions to increased sustainability in beef cattle grazing** (2025)
+   1 citations · General CDR
+
+## External Profiles
+
+- [ORCID](https://orcid.org/0000-0002-9049-3499)
+- [OpenAlex](https://openalex.org/A5064613873)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

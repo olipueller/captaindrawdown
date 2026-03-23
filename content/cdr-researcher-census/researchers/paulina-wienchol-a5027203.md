@@ -1,7 +1,7 @@
 ---
 title: "Paulina Wienchol"
 description: "Paulina Wienchol is a Mid-career BECCS researcher at Silesian University of Technology in PL. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.520844
+date: 2026-03-23T11:47:00.337621
 url: "/cdr-researcher-census/researchers/paulina-wienchol-a5027203/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 5 |
 | Citations | 275 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

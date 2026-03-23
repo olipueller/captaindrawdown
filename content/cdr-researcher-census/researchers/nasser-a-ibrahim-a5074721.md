@@ -1,7 +1,7 @@
 ---
 title: "Nasser A. Ibrahim"
 description: "Nasser A. Ibrahim is a Senior Enhanced Weathering researcher at Jackson State University in US. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.251074
+date: 2026-03-23T11:47:01.260126
 url: "/cdr-researcher-census/researchers/nasser-a-ibrahim-a5074721/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 4 |
 | Citations | 117 |
 | Publications | 8 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

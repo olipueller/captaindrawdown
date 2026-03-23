@@ -1,7 +1,7 @@
 ---
 title: "Yiren Zhu"
 description: "Yiren Zhu is an Early-career Soil Carbon researcher at University of Warwick in GB. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.311310
+date: 2026-03-23T11:47:01.324990
 url: "/cdr-researcher-census/researchers/yiren-zhu-a5053242/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 111 |
 | Publications | 13 |
-| CDR Focus | 23.1% |
+| CDR Focus | 770.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Susana García"
-description: "Susana García is a Senior DAC researcher at Heriot-Watt University in GB. With 181 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.887386
+description: "Susana García is a Senior General CDR researcher at Heriot-Watt University in GB. With 181 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.138008
 url: "/cdr-researcher-census/researchers/susana-garcia-a5044341/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Heriot-Watt University · 🇬🇧 GB
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 36 |
 | Citations | 4,696 |
 | Publications | 181 |
-| CDR Focus | 15.5% |
+| CDR Focus | 880.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,31 +54,31 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    169 citations · DAC
 
 2. **The impact of binary water–CO <sub>2</sub> isotherm models on the optimal performance of sorbent-based direct air capture processes** (2021)
-   153 citations · DAC
+   153 citations
 
 3. **A roadmap for achieving scalable, safe, and low-cost direct air carbon capture and storage** (2023)
-   88 citations · DAC
+   88 citations
 
 4. **Process-informed adsorbent design guidelines for direct air capture** (2022)
-   67 citations · DAC
+   67 citations
 
 5. **Discerning molecular-level CO<sub>2</sub> adsorption behavior in amine-modified sorbents within a controlled CO<sub>2</sub>/H<sub>2</sub>O environment towards direct air capture** (2024)
-   18 citations · DAC
+   18 citations
 
 6. **The cost of direct air capture and storage: the impact of technological learning, regional diversity, and policy.** (2022)
-   12 citations · DAC
+   12 citations
 
 7. **The impact of binary water-CO2 isotherm models on the optimal performance of sorbent-based direct air capture processes.** (2021)
    6 citations · DAC
 
 8. **Process-informed adsorbent design guidelines for direct air capture** (2022)
-   5 citations · DAC
+   5 citations
 
 9. **The cost of direct air capture and storage: the impact of technological learning, regional diversity, and policy.** (2022)
    5 citations · DAC
 
 10. **The impact of binary water-CO2 isotherm models on the optimal performance of sorbent-based direct air capture processes.** (2021)
-   5 citations · DAC
+   5 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Mohammed Jasil"
-description: "Mohammed Jasil is an Early-career Enhanced Weathering researcher at New York University Abu Dhabi in AE. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.379336
+description: "Mohammed Jasil is an Early-career General CDR researcher at New York University Abu Dhabi in AE. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.398668
 url: "/cdr-researcher-census/researchers/mohammed-jasil-a5030000/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ New York University Abu Dhabi · 🇦🇪 AE
 
 ## CDR Specialization
 
-**Enhanced Weathering**
+**General CDR**
 
-Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 2 |
 | Citations | 104 |
 | Publications | 3 |
-| CDR Focus | 33.3% |
+| CDR Focus | 3330.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Solid State NMR for Mechanistic Exploration of CO<sub>2</sub> Adsorption on Amine-Based Silica Adsorbents** (2025)
-   5 citations · Enhanced Weathering
+   5 citations · General CDR
 
 ## External Profiles
 

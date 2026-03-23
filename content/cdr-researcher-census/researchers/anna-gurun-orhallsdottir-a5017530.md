@@ -1,7 +1,7 @@
 ---
 title: "Anna Guðrun Þorhallsdóttir"
 description: "Anna Guðrun Þorhallsdóttir is a Senior Soil Carbon researcher at Hólar University College in IS. With 22 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.073718
+date: 2026-03-23T11:46:59.561176
 url: "/cdr-researcher-census/researchers/anna-gurun-orhallsdottir-a5017530/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,16 +45,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 12 |
 | Citations | 801 |
 | Publications | 22 |
-| CDR Focus | 18.2% |
+| CDR Focus | 1360.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Carbon sequestration potential and the multiple functions of Nordic grasslands** (2023)
-   19 citations · Soil Carbon
+   19 citations · General CDR
 
 2. **Sustained grazing enhances soil organic carbon storage in sub-arctic grassland: Dataset** (2026)
-   0 citations · Soil Carbon
+   0 citations
 
 3. **Sustained grazing enhances soil organic carbon storage in sub-arctic grassland: Dataset** (2026)
    0 citations · Soil Carbon

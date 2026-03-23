@@ -1,7 +1,7 @@
 ---
 title: "Cameron White"
-description: "Cameron White is a Senior DAC researcher at CSIRO in AU. With 46 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.155978
+description: "Cameron White is a Senior carbon dioxide removal researcher at CSIRO in AU. With 46 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.717115
 url: "/cdr-researcher-census/researchers/cameron-white-a5087935/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ CSIRO · 🇦🇺 AU
 
 **Career Stage:** Senior
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,28 +39,28 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 15 |
 | Citations | 602 |
 | Publications | 46 |
-| CDR Focus | 13.0% |
+| CDR Focus | 1300.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Representative longevity testing of direct air capture materials** (2024)
-   19 citations · DAC
+   19 citations
 
 2. **Amine-Infused Hydrogels with Nonaqueous Solvents: Facile Platforms to Control CO<sub>2</sub> Capture Performance** (2021)
-   18 citations · DAC
+   18 citations
 
 3. **Facile Synthesis of Self‐Supported Solid Amine Sorbents for Direct Air Capture** (2024)
-   15 citations · DAC
+   15 citations
 
 4. **Ultra-low volatility solid polyamine CO2 capture materials for greenhouse CO2 enrichment** (2024)
-   10 citations · DAC
+   10 citations
 
 5. **Next generation solid amine sorbents for scalable direct air capture of carbon dioxide** (2026)
-   0 citations · DAC
+   0 citations
 
 6. **Next Generation of Solid Amine Sorbent for Scalable Direct Air Capture** (2025)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Dusty Walter"
-description: "Dusty Walter is a Mid-career Soil Carbon researcher at University of Missouri in US. With 6 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.825670
+description: "Dusty Walter is a Mid-career General CDR researcher at University of Missouri in US. With 6 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.762964
 url: "/cdr-researcher-census/researchers/dusty-walter-a5074143/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ University of Missouri · 🇺🇸 US
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 2 |
 | Citations | 183 |
 | Publications | 6 |
-| CDR Focus | 16.7% |
+| CDR Focus | 1670.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Carbon sequestration by forests and agroforests: a reality check for the United States** (2022)
-   31 citations · Soil Carbon
+   31 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Huaiguang Li"
-description: "Huaiguang Li is an Early-career DAC researcher at Chinese University of Hong Kong in CN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.888670
+description: "Huaiguang Li is an Early-career carbon dioxide removal researcher at Chinese University of Hong Kong in CN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.847316
 url: "/cdr-researcher-census/researchers/huaiguang-li-a5023559/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Chinese University of Hong Kong · 🇨🇳 CN
 
 **Career Stage:** Early-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,19 +39,19 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 4 |
 | Citations | 169 |
 | Publications | 9 |
-| CDR Focus | 33.3% |
+| CDR Focus | 2220.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Capturing carbon dioxide from air with charged-sorbents** (2024)
-   127 citations · DAC
+   127 citations
 
 2. **Capturing Carbon Dioxide from Air with Charged-Sorbents** (2024)
-   3 citations · DAC
+   3 citations
 
 3. **Capturing Carbon Dioxide from Air with Charged Sorbents** (2023)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Lara Siebert Silva"
-description: "Lara Siebert Silva is an Early-career Soil Carbon researcher at Instituto Nacional de Pesquisas da Amazônia in BR. With 3 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.713551
+description: "Lara Siebert Silva is an Early-career carbon dioxide removal researcher at Instituto Nacional de Pesquisas da Amazônia in BR. With 3 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.599103
 url: "/cdr-researcher-census/researchers/lara-siebert-silva-a5001620/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Instituto Nacional de Pesquisas da Amazônia · 🇧🇷 BR
 
 **Career Stage:** Early-career
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 1 |
 | Citations | 211 |
 | Publications | 3 |
-| CDR Focus | 33.3% |
+| CDR Focus | 3330.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Direct evidence for phosphorus limitation on Amazon forest productivity** (2022)
-   211 citations · Soil Carbon
+   211 citations
 
 ## External Profiles
 

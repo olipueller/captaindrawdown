@@ -1,7 +1,7 @@
 ---
 title: "Mohammed Khaleel Jameel"
-description: "Mohammed Khaleel Jameel is an Early-career General CDR researcher at East Lancashire Hospitals NHS Trust in GB. With 7 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.762518
+description: "Mohammed Khaleel Jameel is an Early-career carbon dioxide removal researcher at East Lancashire Hospitals NHS Trust in GB. With 7 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.663048
 url: "/cdr-researcher-census/researchers/mohammed-khaleel-jameel-a5114165/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ East Lancashire Hospitals NHS Trust · 🇬🇧 GB
 
 **Career Stage:** Early-career
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 2 |
 | Citations | 197 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Unknown |
 
 ## Top CDR Publications
 
 1. **Biogas: Production, properties, applications, economic and challenges: A review** (2024)
-   192 citations · General CDR
+   192 citations
 
 ## External Profiles
 

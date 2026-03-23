@@ -1,7 +1,7 @@
 ---
 title: "Shinta Miyazaki"
 description: "Shinta Miyazaki is a Mid-career DAC researcher at Hokkaido University in JP. With 21 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.432323
+date: 2026-03-23T11:47:00.191556
 url: "/cdr-researcher-census/researchers/shinta-miyazaki-a5111022/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,16 +45,16 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 9 |
 | Citations | 316 |
 | Publications | 21 |
-| CDR Focus | 19.0% |
+| CDR Focus | 1900.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Continuous direct air capture and methanation using combined system of membrane-based CO2 capture and Ni-Ca based dual functional materials** (2023)
-   34 citations · DAC
+   34 citations
 
 2. **Continuous direct air capture and conversion tandem system applicable to a wide range of CO <sub>2</sub> concentrations** (2025)
-   2 citations · DAC
+   2 citations
 
 3. **Selective Hydrogenation of CO <sub>2</sub> From Direct Air Capture to CO Over Na‐Promoted Pt Dual‐Functional Material** (2025)
    1 citations · DAC

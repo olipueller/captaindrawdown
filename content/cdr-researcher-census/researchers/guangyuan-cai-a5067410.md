@@ -1,7 +1,7 @@
 ---
 title: "Guangyuan Cai"
 description: "Guangyuan Cai is a Mid-career Soil Carbon researcher at South China Agricultural University in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.228692
+date: 2026-03-23T11:47:01.235753
 url: "/cdr-researcher-census/researchers/guangyuan-cai-a5067410/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 119 |
 | Publications | 9 |
-| CDR Focus | 22.2% |
+| CDR Focus | 2220.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    10 citations · Biochar
 
 2. **Effects of Substituting Synthetic Fertilizer with Organic Materials on Soil Organic Carbon Sequestration and Aggregate Size Distribution in Red Soil in South China** (2023)
-   4 citations · Biochar
+   4 citations · Soil Carbon
 
 ## External Profiles
 

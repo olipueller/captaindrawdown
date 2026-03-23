@@ -1,7 +1,7 @@
 ---
 title: "Kai Radtke"
 description: "Kai Radtke is a Mid-career BECCS researcher at Deutsches Biomasseforschungszentrum in DE. With 27 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.906866
+date: 2026-03-23T11:46:59.189872
 url: "/cdr-researcher-census/researchers/kai-radtke-a5004463/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 8 |
 | Citations | 3,080 |
 | Publications | 27 |
-| CDR Focus | 14.8% |
+| CDR Focus | 740.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Dynamics of bio-based carbon dioxide removal in Germany** (2024)
-   4 citations · BECCS
+   4 citations
 
 2. **Dynamics of bio-based carbon dioxide removal in Germany** (2023)
    3 citations · BECCS

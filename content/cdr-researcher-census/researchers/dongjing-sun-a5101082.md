@@ -1,7 +1,7 @@
 ---
 title: "Dongjing Sun"
-description: "Dongjing Sun is a Mid-career Soil Carbon researcher at Guangxi Academy of Agricultural Science in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.594363
+description: "Dongjing Sun is a Mid-career General CDR researcher at Guangxi Academy of Agricultural Science in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.434662
 url: "/cdr-researcher-census/researchers/dongjing-sun-a5101082/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Guangxi Academy of Agricultural Science · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 249 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Non-Additive Effects of Mixing Eucalyptus and Castanopsis hystrix Trees on Carbon Stocks under an Eco-Silviculture Regime in Southern China** (2022)
-   3 citations · Soil Carbon
+   3 citations · General CDR
 
 ## External Profiles
 

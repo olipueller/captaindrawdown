@@ -1,7 +1,7 @@
 ---
 title: "John M. Findley"
 description: "John M. Findley is a Mid-career DAC researcher at Defense Logistics Agency in US. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.689323
+date: 2026-03-23T11:47:00.567340
 url: "/cdr-researcher-census/researchers/john-m-findley-a5013824/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 7 |
 | Citations | 217 |
 | Publications | 12 |
-| CDR Focus | 25.0% |
+| CDR Focus | 2500.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,10 +54,10 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    72 citations · DAC
 
 2. **Investigation of the Effect of Framework Flexibility on CO <sub>2</sub> Adsorption in SIFSIX-3-Cu Using a Machine-Learned Force Field** (2025)
-   1 citations · DAC
+   1 citations
 
 3. **Investigation of the Effect of Framework Flexibility on CO2 Adsorption in SIFSIX-3-Cu using a Machine Learned Force Field** (2025)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

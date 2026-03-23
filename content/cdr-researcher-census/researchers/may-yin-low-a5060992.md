@@ -1,7 +1,7 @@
 ---
 title: "May-Yin Low"
 description: "May-Yin Low is an Early-career DAC researcher at Imperial College London in GB. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.888934
+date: 2026-03-23T11:47:00.847681
 url: "/cdr-researcher-census/researchers/may-yin-low-a5060992/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,28 +42,28 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 4 |
 | Citations | 169 |
 | Publications | 7 |
-| CDR Focus | 100.0% |
+| CDR Focus | 8570.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Analytical review of the current state of knowledge of adsorption materials and processes for direct air capture** (2022)
-   86 citations · DAC
+   86 citations
 
 2. **Measurement of Physicochemical Properties and CO<sub>2</sub>, N<sub>2</sub>, Ar, O<sub>2</sub>, and H<sub>2</sub>O Unary Adsorption Isotherms of Purolite A110 and Lewatit VP OC 1065 for Application in Direct Air Capture** (2023)
-   45 citations · DAC
+   45 citations
 
 3. **Quantification of temperature-dependent CO2 adsorption kinetics in Lewatit VP OC 1065, Purolite A110, and TIFSIX-3-Ni for direct air capture** (2025)
-   18 citations · DAC
+   18 citations
 
 4. **Physicochemical Properties, Equilibrium Adsorption Performance, Manufacturability, and Stability of TIFSIX-3-Ni for Direct Air Capture of CO <sub>2</sub>** (2024)
-   14 citations · DAC
+   14 citations
 
 5. **Quantification of temperature-dependent CO2 adsorption kinetics in Lewatit VP OC 1065, Purolite A110, and TIFSIX-3-Ni for direct air capture** (2024)
-   4 citations · DAC
+   4 citations
 
 6. **Physicochemical properties, equilibrium adsorption performance, manufacturability, and stability of TIFSIX-3-Ni for direct air capture** (2024)
-   2 citations · DAC
+   2 citations
 
 7. **Addressing the data gap in adsorption materials for direct air capture - an investigation of physicochemical, equilibrium sorption, and kinetic sorption properties** (2024)
    0 citations · DAC

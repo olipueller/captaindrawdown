@@ -1,7 +1,7 @@
 ---
 title: "Anthony Vallace"
-description: "Anthony Vallace is a Mid-career DAC researcher at Georgia Institute of Technology in US. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.145532
+description: "Anthony Vallace is a Mid-career carbon dioxide removal researcher at Georgia Institute of Technology in US. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.142716
 url: "/cdr-researcher-census/researchers/anthony-vallace-a5012099/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Georgia Institute of Technology · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,22 +39,22 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 6 |
 | Citations | 129 |
 | Publications | 11 |
-| CDR Focus | 36.4% |
+| CDR Focus | 2730.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Tuning sorbent properties to reduce the cost of direct air capture** (2024)
-   49 citations · DAC
+   49 citations
 
 2. **Kinetic model describing self-limiting CO2 diffusion in supported amine adsorbents** (2023)
-   27 citations · DAC
+   27 citations
 
 3. **CO<sub>2</sub> Uptake and Stability Enhancement in Vinyltrimethoxysilane‐Treated SBA‐15 Solid Amine‐Based Sorbents** (2024)
-   7 citations · DAC
+   7 citations
 
 4. **Tuning sorbent properties to reduce the cost of direct air capture** (2024)
-   3 citations · DAC
+   3 citations
 
 ## External Profiles
 

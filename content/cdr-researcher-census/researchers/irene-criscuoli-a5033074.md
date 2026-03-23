@@ -1,7 +1,7 @@
 ---
 title: "Irene Criscuoli"
-description: "Irene Criscuoli is a Mid-career Soil Carbon researcher at Ministry of Agricultural, Food and Forestry Policies in IT. With 30 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.390050
+description: "Irene Criscuoli is a Mid-career General CDR researcher at Ministry of Agricultural, Food and Forestry Policies in IT. With 30 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.116057
 url: "/cdr-researcher-census/researchers/irene-criscuoli-a5033074/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Ministry of Agricultural, Food and Forestry Policies · 🇮🇹 IT
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,19 +45,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 344 |
 | Publications | 30 |
-| CDR Focus | 10.0% |
+| CDR Focus | 670.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Carbon farming: The foundation for carbon farming schemes – lessons learned from 160 European schemes** (2025)
-   4 citations · Soil Carbon
+   4 citations · General CDR
 
 2. **Effects of woodchip biochar on temperature sensitivity of greenhouse gas emissions in amended soils within a mountain vineyard** (2024)
    3 citations · Biochar
 
 3. **Carbon Farming: The Foundation For Carbon Farming Schemes – Lessons Learned from 160 European Schemes** (2024)
-   2 citations · Soil Carbon
+   2 citations · General CDR
 
 ## External Profiles
 

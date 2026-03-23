@@ -1,7 +1,7 @@
 ---
 title: "Andong Cai"
 description: "Andong Cai is a Senior Soil Carbon researcher at Chinese Academy of Agricultural Sciences in CN. With 107 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.912067
+date: 2026-03-23T11:46:59.200758
 url: "/cdr-researcher-census/researchers/andong-cai-a5013602/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 27 |
 | Citations | 2,812 |
 | Publications | 107 |
-| CDR Focus | 15.0% |
+| CDR Focus | 1310.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -60,10 +60,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    65 citations · Soil Carbon
 
 4. **Four pathways towards carbon neutrality by controlling net greenhouse gas emissions in Chinese cropland** (2022)
-   46 citations · Soil Carbon
+   46 citations · General CDR
 
 5. **Dissolved organic carbon in cropland soils: A global meta-analysis of management effects** (2024)
-   43 citations · Biochar
+   43 citations · Soil Carbon
 
 6. **Carbon gain in upper but loss in deeper cropland soils across China over the last four decades** (2024)
    29 citations · Soil Carbon
@@ -78,7 +78,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    8 citations · Soil Carbon
 
 10. **Two-stage assessment: Towards a novel and holistic evaluation of urban geographically isolated wetland sustainability under global warming-induced dryness and loss** (2023)
-   5 citations · Soil Carbon
+   5 citations
 
 ## External Profiles
 

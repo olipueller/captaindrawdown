@@ -1,7 +1,7 @@
 ---
 title: "Mercedes Guerrero-Brotons"
-description: "Mercedes Guerrero-Brotons is a Mid-career Biochar researcher at Universidad de Murcia in ES. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.186081
+description: "Mercedes Guerrero-Brotons is a Mid-career carbon dioxide removal researcher at Universidad de Murcia in ES. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.189316
 url: "/cdr-researcher-census/researchers/mercedes-guerrero-brotons-a5069986/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Universidad de Murcia · 🇪🇸 ES
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Biochar**
-
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 3 |
 | Citations | 124 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Addressing the C/N imbalance in the treatment of irrigated agricultural water by using a hybrid constructed wetland at field-scale** (2023)
-   3 citations · Biochar
+   3 citations
 
 ## External Profiles
 

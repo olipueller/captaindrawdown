@@ -1,7 +1,7 @@
 ---
 title: "Iris Lin"
-description: "Iris Lin is a Mid-career DAC researcher at Columbia University in US. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.326562
+description: "Iris Lin is a Mid-career carbon dioxide removal researcher at Columbia University in US. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.343153
 url: "/cdr-researcher-census/researchers/iris-lin-a5103536/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Columbia University · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 2 |
 | Citations | 109 |
 | Publications | 3 |
-| CDR Focus | 33.3% |
+| CDR Focus | 3330.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Bench-Scale Development of a Novel Direct Air Capture Technology Using High-Capacity Structured Sorbents** (2024)
-   2 citations · DAC
+   2 citations
 
 ## External Profiles
 

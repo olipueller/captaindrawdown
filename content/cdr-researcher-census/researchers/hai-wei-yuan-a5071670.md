@@ -1,7 +1,7 @@
 ---
 title: "Hai-Wei Yuan"
 description: "Hai-Wei Yuan is a Mid-career Biochar researcher at Ministry of Ecology and Environment in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.529213
+date: 2026-03-23T11:47:00.350840
 url: "/cdr-researcher-census/researchers/hai-wei-yuan-a5071670/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 6 |
 | Citations | 271 |
 | Publications | 11 |
-| CDR Focus | 18.2% |
+| CDR Focus | 910.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Huajun Zhao"
-description: "Huajun Zhao is a Mid-career DAC researcher at Electric Power University in VN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.466664
+description: "Huajun Zhao is a Mid-career carbon dioxide removal researcher at Electric Power University in VN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.247176
 url: "/cdr-researcher-census/researchers/huajun-zhao-a5091483/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Electric Power University · 🇻🇳 VN
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 7 |
 | Citations | 299 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **A Novel Biphasic Absorbent for Liquid–Solid Phase Separation Induced by Nanoparticle Polarity Difference and Application in DAC** (2026)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

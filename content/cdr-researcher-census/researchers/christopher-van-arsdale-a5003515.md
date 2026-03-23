@@ -1,7 +1,7 @@
 ---
 title: "Christopher Van Arsdale"
-description: "Christopher Van Arsdale is a Mid-career Ocean CDR researcher at Google (United States) in US. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.094020
+description: "Christopher Van Arsdale is a Mid-career General CDR researcher at Google (United States) in US. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.094615
 url: "/cdr-researcher-census/researchers/christopher-van-arsdale-a5003515/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Google (United States) · 🇺🇸 US
 
 ## CDR Specialization
 
-**Ocean CDR**
+**General CDR**
 
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,19 +45,19 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 6 |
 | Citations | 135 |
 | Publications | 16 |
-| CDR Focus | 25.0% |
+| CDR Focus | 1880.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Negative Emission Enabled by Combining Ocean Alkalinity Enhancement and Waste Concrete Upcycling** (2025)
-   3 citations · Ocean CDR
+   3 citations · General CDR
 
 2. **A Possible Path Toward Profitable Carbon Removal: A Techno-Economic Analysis on Combined Ocean Alkalinity Enhancement and Waste Concrete Upcycling** (2025)
-   0 citations · Ocean CDR
+   0 citations · General CDR
 
 3. **Negative emission enabled by combining ocean alkalinity enhancement and waste concrete upcycling** (2024)
-   0 citations · Ocean CDR
+   0 citations
 
 4. **CO2 capture by pumping surface acidity to the deep ocean** (2021)
    0 citations · DAC

@@ -1,7 +1,7 @@
 ---
 title: "Eryu Wang"
-description: "Eryu Wang is a Senior DAC researcher at Nanjing Forestry University in HK. With 81 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.891709
+description: "Eryu Wang is a Senior General CDR researcher at Nanjing Forestry University in HK. With 81 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.147742
 url: "/cdr-researcher-census/researchers/eryu-wang-a5047747/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Nanjing Forestry University · 🇭🇰 HK
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 38 |
 | Citations | 4,261 |
 | Publications | 81 |
-| CDR Focus | 12.3% |
+| CDR Focus | 740.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    36 citations · DAC
 
 2. **Enhanced post-combustion CO2 capture and direct air capture by plasma surface functionalization of graphene adsorbent** (2024)
-   17 citations · DAC
+   17 citations
 
 3. **Interdisciplinary challenges in bio-energy carbon capture utilization &amp; storage deployment: A review** (2024)
    13 citations · BECCS
@@ -69,16 +69,16 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    3 citations · DAC
 
 7. **Ammonia Mediated Synthesis of Amine Infused Solids for Superior Co2 Reactive Capture** (2024)
-   0 citations · DAC
+   0 citations
 
 8. **Amine Functionalized Expanded Graphite with Enhanced Direct Air Capture** (2024)
-   0 citations · DAC
+   0 citations
 
 9. **Ammonia Mediated Synthesis of Amine Infused Solids for Superior Co2 Reactive Capture** (2024)
-   0 citations · DAC
+   0 citations
 
 10. **Advancing the Deployment and Information Management of Direct Air Capture: A Solution Enabled by Integrating Consortium Blockchain System** (2024)
-   0 citations · BECCS
+   0 citations · DAC
 
 ## External Profiles
 

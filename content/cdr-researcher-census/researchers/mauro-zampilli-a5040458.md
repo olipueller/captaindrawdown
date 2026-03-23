@@ -1,7 +1,7 @@
 ---
 title: "Mauro Zampilli"
 description: "Mauro Zampilli is a Mid-career BECCS researcher at University of Perugia in IT. With 31 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.255581
+date: 2026-03-23T11:46:59.900936
 url: "/cdr-researcher-census/researchers/mauro-zampilli-a5040458/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 9 |
 | Citations | 452 |
 | Publications | 31 |
-| CDR Focus | 22.6% |
+| CDR Focus | 1610.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -63,13 +63,13 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
    2 citations · BECCS
 
 5. **Development of a Chemical Looping Combustor Fed With Natural Gas and Its Integration With a Gas Turbine in ASPEN Plus** (2023)
-   0 citations · BECCS
+   0 citations
 
 6. **Development of a Chemical Looping Combustor fed with natural gas and its integration with a gas turbine in ASPEN Plus** (2023)
    0 citations · BECCS
 
 7. **Bioenergy with Carbon Capture and Storage (BECCS) developed by coupling a Pressurised Chemical Looping combustor with a turbo expander: How to optimize plant efficiency** (2022)
-   0 citations · BECCS
+   0 citations
 
 ## External Profiles
 

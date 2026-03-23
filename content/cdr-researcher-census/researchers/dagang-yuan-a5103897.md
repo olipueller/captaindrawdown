@@ -1,7 +1,7 @@
 ---
 title: "Dagang Yuan"
 description: "Dagang Yuan is a Senior Soil Carbon researcher at Ministry of Natural Resources in CN. With 35 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.150404
+date: 2026-03-23T11:46:59.704904
 url: "/cdr-researcher-census/researchers/dagang-yuan-a5103897/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 12 |
 | Citations | 614 |
 | Publications | 35 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1140.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    9 citations · Soil Carbon
 
 5. **Influence of soil substrate availability and plant species diversity on soil microbial biomass and enzyme activity in a subalpine natural secondary forest** (2025)
-   4 citations · Soil Carbon
+   4 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Charlotte M. Wentz"
 description: "Charlotte M. Wentz is a Mid-career DAC researcher at National Institute of Standards and Technology in US. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.595421
+date: 2026-03-23T11:47:00.435083
 url: "/cdr-researcher-census/researchers/charlotte-m-wentz-a5086526/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 9 |
 | Citations | 248 |
 | Publications | 15 |
-| CDR Focus | 13.3% |
+| CDR Focus | 1330.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **A Synthetic Methodology for Preparing Impregnated and Grafted Amine-Based Silica Composites for Carbon Capture** (2023)
-   4 citations · DAC
+   4 citations
 
 2. **Progress in development of characterization capabilities to evaluate candidate materials for direct air capture applications** (2024)
    1 citations · DAC

@@ -1,7 +1,7 @@
 ---
 title: "François Rineau"
-description: "François Rineau is a Senior Soil Carbon researcher at Universiteit Hasselt in BE. With 97 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.895317
+description: "François Rineau is a Senior Enhanced Weathering researcher at Universiteit Hasselt in BE. With 97 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.158819
 url: "/cdr-researcher-census/researchers/francois-rineau-a5045686/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Universiteit Hasselt · 🇧🇪 BE
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Enhanced Weathering**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 25 |
 | Citations | 3,867 |
 | Publications | 97 |
-| CDR Focus | 13.4% |
+| CDR Focus | 1340.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

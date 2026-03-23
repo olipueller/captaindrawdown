@@ -1,7 +1,7 @@
 ---
 title: "Guihe Li"
 description: "Guihe Li is a Senior DAC researcher at University of Wyoming in US. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.280227
+date: 2026-03-23T11:46:59.945866
 url: "/cdr-researcher-census/researchers/guihe-li-a5072902/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 9 |
 | Citations | 427 |
 | Publications | 20 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

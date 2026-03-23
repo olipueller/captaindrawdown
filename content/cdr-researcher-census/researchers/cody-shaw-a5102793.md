@@ -1,7 +1,7 @@
 ---
 title: "Cody Shaw"
 description: "Cody Shaw is a Senior Ocean CDR researcher at Stony Brook University in US. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.015332
+date: 2026-03-23T11:47:01.005866
 url: "/cdr-researcher-census/researchers/cody-shaw-a5102793/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,34 +45,34 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 8 |
 | Citations | 147 |
 | Publications | 16 |
-| CDR Focus | 50.0% |
+| CDR Focus | 3120.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **An assessment of ocean alkalinity enhancement using aqueous hydroxides: kinetics, efficiency, and precipitation thresholds** (2024)
-   19 citations · General CDR
+   19 citations · Ocean CDR
 
 2. **A comprehensive assessment of electrochemical ocean alkalinity enhancement in seawater: kinetics, efficiency, and precipitation thresholds** (2024)
    6 citations · General CDR
 
 3. **Using Magnesium Hydroxide for Ocean Alkalinity Enhancement: Elucidating the Role of Formation Conditions on Material Properties and Dissolution Kinetics** (2025)
-   1 citations · Ocean CDR
+   1 citations
 
 4. **Using magnesium hydroxide for ocean alkalinity enhancement: elucidating the role of formation conditions on material properties and dissolution kinetics** (2025)
-   0 citations · General CDR
+   0 citations · Ocean CDR
 
 5. **Determining the net influence of biological processes on aqueous hydroxide-based ocean alkalinity enhancement: a mesocosm approach** (2025)
    0 citations · Ocean CDR
 
 6. **Comment on egusphere-2024-108** (2024)
-   0 citations · General CDR
+   0 citations
 
 7. **Comment on egusphere-2024-108** (2024)
    0 citations · General CDR
 
 8. **Supplementary material to "A comprehensive assessment of electrochemical ocean alkalinity enhancement in seawater: kinetics, efficiency, and precipitation thresholds"** (2024)
-   0 citations · Ocean CDR
+   0 citations · General CDR
 
 ## External Profiles
 

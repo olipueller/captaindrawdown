@@ -1,7 +1,7 @@
 ---
 title: "Santhoshkumar Muthu"
-description: "Santhoshkumar Muthu is a Senior Soil Carbon researcher. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.765708
+description: "Santhoshkumar Muthu is a Senior carbon dioxide removal researcher. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.667044
 url: "/cdr-researcher-census/researchers/santhoshkumar-muthu-a5001974/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -24,12 +24,6 @@ robots: "index, follow"
 
 **Career Stage:** Senior
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -37,13 +31,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 197 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Unveiling the Botanical Versatility of Cannabis sativa: A Modern Perspective on Medicinal and Industrial Applications** (2021)
-   0 citations · Soil Carbon
+   0 citations
 
 ## External Profiles
 

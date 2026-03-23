@@ -1,7 +1,7 @@
 ---
 title: "Zhijie Chen"
 description: "Zhijie Chen is a Mid-career Soil Carbon researcher at Fujian Normal University in CN. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.760879
+date: 2026-03-23T11:47:00.660858
 url: "/cdr-researcher-census/researchers/zhijie-chen-a5100750/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 198 |
 | Publications | 22 |
-| CDR Focus | 13.6% |
+| CDR Focus | 910.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Nitrogen addition decreases soil aggregation but enhances soil organic carbon stability in a temperate forest** (2022)
-   24 citations · Soil Carbon
+   24 citations
 
 2. **Precipitation reduction rather than nitrogen deposition promotes soil organic carbon sequestration by improving aggregate stability: Implications from 13C natural abundance** (2025)
    3 citations · Soil Carbon

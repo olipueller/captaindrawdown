@@ -1,7 +1,7 @@
 ---
 title: "Xuqing Cai"
 description: "Xuqing Cai is a Mid-career DAC researcher at Georgia Institute of Technology in US. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.801054
+date: 2026-03-23T11:47:00.711735
 url: "/cdr-researcher-census/researchers/xuqing-cai-a5036632/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 7 |
 | Citations | 187 |
 | Publications | 10 |
-| CDR Focus | 40.0% |
+| CDR Focus | 4000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Assessing Impacts of Atmospheric Conditions on Efficiency and Siting of Large-Scale Direct Air Capture Facilities** (2024)
-   33 citations · DAC
+   33 citations
 
 2. **Incorporating Diurnal and Meter-Scale Variations of Ambient CO<sub>2</sub> Concentrations in Development of Direct Air Capture Technologies** (2024)
    8 citations · DAC
@@ -60,7 +60,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    4 citations · DAC
 
 4. **“Hybridizing heat-integrated 3D printed modules with mass manufacturable, low pressure drop fiber sorbents” (Final Report)** (2024)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

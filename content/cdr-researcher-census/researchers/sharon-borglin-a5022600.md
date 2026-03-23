@@ -1,7 +1,7 @@
 ---
 title: "Sharon Borglin"
-description: "Sharon Borglin is a Senior Enhanced Weathering researcher at Lawrence Berkeley National Laboratory in US. With 10 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.748329
+description: "Sharon Borglin is a Senior carbon dioxide removal researcher at Lawrence Berkeley National Laboratory in US. With 10 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.643375
 url: "/cdr-researcher-census/researchers/sharon-borglin-a5022600/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Lawrence Berkeley National Laboratory · 🇺🇸 US
 
 **Career Stage:** Senior
 
-## CDR Specialization
-
-**Enhanced Weathering**
-
-Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 3 |
 | Citations | 201 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Clean Energy Technology Applications on US Mine Land: Technical Analysis** (2023)
-   1 citations · DAC
+   1 citations
 
 ## External Profiles
 

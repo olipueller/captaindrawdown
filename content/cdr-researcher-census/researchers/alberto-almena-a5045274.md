@@ -1,7 +1,7 @@
 ---
 title: "Alberto Almena"
 description: "Alberto Almena is a Mid-career BECCS researcher at Universidad de Salamanca in ES. With 21 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.221873
+date: 2026-03-23T11:46:59.836856
 url: "/cdr-researcher-census/researchers/alberto-almena-a5045274/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 10 |
 | Citations | 500 |
 | Publications | 21 |
-| CDR Focus | 19.0% |
+| CDR Focus | 1900.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

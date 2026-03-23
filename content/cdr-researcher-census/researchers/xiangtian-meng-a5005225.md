@@ -1,7 +1,7 @@
 ---
 title: "Xiangtian Meng"
 description: "Xiangtian Meng is a Senior Soil Carbon researcher at Weihai Science and Technology Bureau in CN. With 83 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.943081
+date: 2026-03-23T11:46:59.279901
 url: "/cdr-researcher-census/researchers/xiangtian-meng-a5005225/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 22 |
 | Citations | 1,877 |
 | Publications | 83 |
-| CDR Focus | 13.3% |
+| CDR Focus | 1080.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -63,7 +63,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    22 citations · Soil Carbon
 
 5. **Fertilization regimes and the nitrification process in paddy soils: Lessons for agricultural sustainability from a meta-analysis** (2023)
-   15 citations · Biochar
+   15 citations · Soil Carbon
 
 6. **Anthropogenic land-use driven changes in soil stoichiometry reduce microbial carbon use efficiency** (2025)
    7 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Junliang Zou"
 description: "Junliang Zou is a Mid-career Soil Carbon researcher at Teagasc - The Irish Agriculture and Food Development Authority in IE. With 48 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.040687
+date: 2026-03-23T11:46:59.495399
 url: "/cdr-researcher-census/researchers/junliang-zou-a5051811/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 13 |
 | Citations | 935 |
 | Publications | 48 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Manish Ram"
-description: "Manish Ram is a Senior DAC researcher at Lappeenranta University of Technology in FI. With 30 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.900450
+description: "Manish Ram is a Senior General CDR researcher at Lappeenranta University of Technology in FI. With 30 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.171295
 url: "/cdr-researcher-census/researchers/manish-ram-a5022314/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Lappeenranta University of Technology ·  FI
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 20 |
 | Citations | 3,463 |
 | Publications | 30 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

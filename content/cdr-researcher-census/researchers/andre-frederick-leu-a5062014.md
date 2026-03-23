@@ -1,7 +1,7 @@
 ---
 title: "André Frederick Leu"
-description: "André Frederick Leu is an Early-career Soil Carbon researcher at Rio Tinto (Australia) in AU. With 5 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.056749
+description: "André Frederick Leu is an Early-career carbon dioxide removal researcher at Rio Tinto (Australia) in AU. With 5 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.050268
 url: "/cdr-researcher-census/researchers/andre-frederick-leu-a5062014/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Rio Tinto (Australia) · 🇦🇺 AU
 
 **Career Stage:** Early-career
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 2 |
 | Citations | 141 |
 | Publications | 5 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Unknown |
 
 ## Top CDR Publications
 
 1. **Genetically Modified Microorganisms: Risks and Regulatory Considerations for Human and Environmental Health** (2026)
-   0 citations · Soil Carbon
+   0 citations
 
 ## External Profiles
 

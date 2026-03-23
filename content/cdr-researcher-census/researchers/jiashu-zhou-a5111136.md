@@ -1,7 +1,7 @@
 ---
 title: "Jiashu Zhou"
 description: "Jiashu Zhou is a Mid-career Biochar researcher at Zhejiang A & F University in CN. With 26 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.230364
+date: 2026-03-23T11:46:59.853146
 url: "/cdr-researcher-census/researchers/jiashu-zhou-a5111136/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 11 |
 | Citations | 489 |
 | Publications | 26 |
-| CDR Focus | 15.4% |
+| CDR Focus | 1150.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

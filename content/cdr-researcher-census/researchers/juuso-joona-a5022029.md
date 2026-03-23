@@ -1,7 +1,7 @@
 ---
 title: "Juuso Joona"
 description: "Juuso Joona is a Mid-career Soil Carbon researcher. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.698574
+date: 2026-03-23T11:47:00.578028
 url: "/cdr-researcher-census/researchers/juuso-joona-a5022029/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,13 +40,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 215 |
 | Publications | 19 |
-| CDR Focus | 10.5% |
+| CDR Focus | 1050.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **How farmers approach soil carbon sequestration? Lessons learned from 105 carbon-farming plans** (2021)
-   131 citations · Soil Carbon
+   131 citations · General CDR
 
 2. **Manure increases soil organic carbon most when allocated to annual cropping** (2024)
    10 citations · Soil Carbon

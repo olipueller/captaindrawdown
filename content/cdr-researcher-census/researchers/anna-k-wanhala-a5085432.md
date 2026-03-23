@@ -1,7 +1,7 @@
 ---
 title: "Anna K. Wanhala"
-description: "Anna K. Wanhala is a Mid-career DAC researcher at University of Chicago in US. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.786921
+description: "Anna K. Wanhala is a Mid-career carbon dioxide removal researcher at University of Chicago in US. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.694014
 url: "/cdr-researcher-census/researchers/anna-k-wanhala-a5085432/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ University of Chicago · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,19 +39,19 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 7 |
 | Citations | 191 |
 | Publications | 14 |
-| CDR Focus | 21.4% |
+| CDR Focus | 2140.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Reaction Layer Formation on MgO in the Presence of Humidity** (2023)
-   20 citations · DAC
+   20 citations
 
 2. **Carbonation of MgO Single Crystals: Implications for Direct Air Capture of CO<sub>2</sub>** (2025)
-   13 citations · DAC
+   13 citations
 
 3. **Inhibition of Reaction Layer Formation on MgO(100) by Doping with Trace Amounts of Iron** (2025)
-   4 citations · DAC
+   4 citations
 
 ## External Profiles
 

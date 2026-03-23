@@ -1,7 +1,7 @@
 ---
 title: "Daisong Chen"
-description: "Daisong Chen is a Mid-career General CDR researcher at City University of Hong Kong in HK. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.800497
+description: "Daisong Chen is a Mid-career carbon dioxide removal researcher at City University of Hong Kong in HK. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.711480
 url: "/cdr-researcher-census/researchers/daisong-chen-a5002056/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ City University of Hong Kong · 🇭🇰 HK
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 4 |
 | Citations | 187 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Air Pollution Control: Design and Develop Porous Adsorbents for Nitrous Oxide Removal** (2024)
-   4 citations · General CDR
+   4 citations
 
 ## External Profiles
 

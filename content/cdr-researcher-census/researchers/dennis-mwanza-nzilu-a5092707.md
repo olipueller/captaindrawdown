@@ -1,7 +1,7 @@
 ---
 title: "Dennis Mwanza Nzilu"
-description: "Dennis Mwanza Nzilu is a Mid-career Biochar researcher at Jomo Kenyatta University of Agriculture and Technology in KE. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.443967
+description: "Dennis Mwanza Nzilu is a Mid-career carbon dioxide removal researcher at Jomo Kenyatta University of Agriculture and Technology in KE. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.210081
 url: "/cdr-researcher-census/researchers/dennis-mwanza-nzilu-a5092707/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Jomo Kenyatta University of Agriculture and Technology ·  KE
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Biochar**
-
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 7 |
 | Citations | 310 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Advances in Adsorbent Materials for Pharmaceutical Pollutant Removal: A Review of Occurrence, Fate, and State‐of‐the‐Art Remediation** (2025)
-   9 citations · Biochar
+   9 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Kavya Madhu"
 description: "Kavya Madhu is a Mid-career DAC researcher at University of Freiburg in DE. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.485834
+date: 2026-03-23T11:47:00.279078
 url: "/cdr-researcher-census/researchers/kavya-madhu-a5071396/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 5 |
 | Citations | 290 |
 | Publications | 7 |
-| CDR Focus | 57.1% |
+| CDR Focus | 4290.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    5 citations · DAC
 
 3. **Datasets and OpenLCA foreground data processes for the article: Understanding environmental trade-offs and resource demand of direct air capture technologies through comparative life-cycle assessment** (2021)
-   0 citations · DAC
+   0 citations
 
 4. **Datasets and OpenLCA foreground data processes for the article: Understanding environmental trade-offs and resource demand of direct air capture technologies through comparative life-cycle assessment** (2021)
    0 citations · DAC

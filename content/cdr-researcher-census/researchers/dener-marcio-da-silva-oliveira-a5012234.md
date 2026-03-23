@@ -1,7 +1,7 @@
 ---
 title: "Dener Márcio da Silva Oliveira"
 description: "Dener Márcio da Silva Oliveira is a Mid-career Soil Carbon researcher at Universidade Federal de Viçosa in BR. With 62 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.991392
+date: 2026-03-23T11:46:59.386678
 url: "/cdr-researcher-census/researchers/dener-marcio-da-silva-oliveira-a5012234/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 19 |
 | Citations | 1,270 |
 | Publications | 62 |
-| CDR Focus | 16.1% |
+| CDR Focus | 1450.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    9 citations · Soil Carbon
 
 3. **A Global Meta-Analysis of Soil Carbon Stock in Agroforestry Coffee Cultivation** (2025)
-   6 citations · Soil Carbon
+   6 citations · General CDR
 
 4. **Soil carbon dynamics in integrated agricultural systems in Minas Gerais state, Brazil: A meta-analysis** (2024)
    6 citations · Soil Carbon
@@ -66,13 +66,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    0 citations · Soil Carbon
 
 7. **Well-Managed Pasture and Integrated Crop-Livestock-Forestry Systems Improving the Soil Organic Matter Quality: A Ftir Spectroscopy and Thermogravimetric Assessment** (2025)
-   0 citations · Soil Carbon
+   0 citations
 
 8. **Well-Managed Pasture and Integrated Crop-Livestock-Forestry Systems Improving the Soil Organic Matter Quality: A Ftir Spectroscopy and Thermogravimetric Assessment** (2024)
    0 citations · Soil Carbon
 
 9. **Data Set on Soil Physicochemical Parameters, Biomass Accumulation and Carbon Credit Generation in Different Management Systems in Rio Verde, Go, Brazil** (2024)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 10. **Climate-smart agriculture and soil C sequestration in Brazilian Cerrado: a systematic review** (2023)
    0 citations · Soil Carbon

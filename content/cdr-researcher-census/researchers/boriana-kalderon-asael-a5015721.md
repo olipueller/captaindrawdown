@@ -1,7 +1,7 @@
 ---
 title: "Boriana Kalderon-Asael"
-description: "Boriana Kalderon-Asael is a Senior Enhanced Weathering researcher at Planetary Science Institute in US. With 39 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.089417
+description: "Boriana Kalderon-Asael is a Senior General CDR researcher at Planetary Science Institute in US. With 39 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.592691
 url: "/cdr-researcher-census/researchers/boriana-kalderon-asael-a5015721/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Planetary Science Institute · 🇺🇸 US
 
 ## CDR Specialization
 
-**Enhanced Weathering**
+**General CDR**
 
-Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,16 +45,16 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 10 |
 | Citations | 752 |
 | Publications | 39 |
-| CDR Focus | 20.5% |
+| CDR Focus | 1280.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Initial Validation of a Soil-Based Mass-Balance Approach for Empirical Monitoring of Enhanced Rock Weathering Rates** (2023)
-   56 citations · Enhanced Weathering
+   56 citations
 
 2. **Lithium isotopic constraints on the evolution of continental clay mineral factory and marine oxygenation in the earliest Paleozoic Era** (2024)
-   33 citations · Enhanced Weathering
+   33 citations · General CDR
 
 3. **Initial validation of a soil-based mass-balance approach for empirical monitoring of enhanced rock weathering rates** (2023)
    6 citations · Enhanced Weathering
@@ -66,13 +66,13 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    0 citations · Enhanced Weathering
 
 6. **Updated framework and signal-to-noise analysis of soil mass balance approaches for quantifying enhanced weathering on managed lands** (2025)
-   0 citations · Enhanced Weathering
+   0 citations
 
 7. **Updated framework and signal-to-noise analysis of soil mass balance approaches for quantifying enhanced weathering on managed lands** (2025)
    0 citations · Enhanced Weathering
 
 8. **Quantifying carbon dioxide removal in an enhanced rock weathering field trial in Queensland, Australia: a soil-based mass balance approach** (2023)
-   0 citations · Enhanced Weathering
+   0 citations
 
 ## External Profiles
 

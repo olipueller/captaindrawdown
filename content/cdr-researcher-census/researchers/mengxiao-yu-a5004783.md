@@ -1,7 +1,7 @@
 ---
 title: "Mengxiao Yu"
 description: "Mengxiao Yu is a Mid-career Soil Carbon researcher at South China Botanical Garden in CN. With 40 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.023878
+date: 2026-03-23T11:46:59.460040
 url: "/cdr-researcher-census/researchers/mengxiao-yu-a5004783/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 18 |
 | Citations | 1,023 |
 | Publications | 40 |
-| CDR Focus | 27.5% |
+| CDR Focus | 1750.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Contributions of plant‐ and microbial‐derived residuals to mangrove soil carbon stocks: Implications for blue carbon sequestration** (2024)
-   72 citations · Soil Carbon
+   72 citations · General CDR
 
 2. **Soil acidification enhanced soil carbon sequestration through increased mineral protection** (2024)
    36 citations · Soil Carbon
@@ -72,7 +72,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    8 citations · Soil Carbon
 
 8. **Analysis of Spatio-Temporal Relationship Between Ecosystem Services and Human Footprints Under Different Human Activity Gradients: A Case Study of Xiangjiang River Basin** (2024)
-   6 citations · Soil Carbon
+   6 citations
 
 9. **Mangrove sediment carbon burial offset by methane emissions from mangrove tree stems** (2025)
    2 citations · Soil Carbon

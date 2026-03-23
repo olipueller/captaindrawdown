@@ -1,7 +1,7 @@
 ---
 title: "Nana Luo"
 description: "Nana Luo is a Mid-career Soil Carbon researcher at Scripps Institution of Oceanography in US. With 94 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.043927
+date: 2026-03-23T11:46:59.503901
 url: "/cdr-researcher-census/researchers/nana-luo-a5038492/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 18 |
 | Citations | 914 |
 | Publications | 94 |
-| CDR Focus | 10.6% |
+| CDR Focus | 640.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    5 citations · Soil Carbon
 
 4. **Biochar promotes soil aggregate stability and associated organic carbon sequestration, and regulates microbial community structures in Mollisols from Northeast China** (2022)
-   4 citations · Biochar
+   4 citations
 
 5. **Supplementary material to "Biochar promotes soil aggregate stability and associated organic carbon sequestration, and regulates microbial community structures in Mollisols from Northeast China"** (2022)
    1 citations · Biochar
@@ -72,10 +72,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    0 citations · Biochar
 
 8. **Comment on egusphere-2022-1084** (2023)
-   0 citations · Biochar
+   0 citations
 
 9. **Comment on egusphere-2022-1084** (2022)
-   0 citations · Biochar
+   0 citations
 
 10. **Responses of the Soil Aggregates, Associated Organic Carbon Fractions, and Microbial Community Distributions to Successive Biochar Applications in Black Soil** (2022)
    0 citations · Biochar

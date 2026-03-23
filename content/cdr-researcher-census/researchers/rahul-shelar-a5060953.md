@@ -1,7 +1,7 @@
 ---
 title: "Rahul Shelar"
-description: "Rahul Shelar is an Early-career Soil Carbon researcher at Mahatma Phule Krishi Vidyapeeth in IN. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.381412
+description: "Rahul Shelar is an Early-career General CDR researcher at Mahatma Phule Krishi Vidyapeeth in IN. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.400235
 url: "/cdr-researcher-census/researchers/rahul-shelar-a5060953/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Mahatma Phule Krishi Vidyapeeth · 🇮🇳 IN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,16 +45,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 3 |
 | Citations | 104 |
 | Publications | 6 |
-| CDR Focus | 33.3% |
+| CDR Focus | 3330.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Impact Assessment of Soil and Water Conservation Measures on Carbon Sequestration: A Case Study for the Tropical Watershed Using Advanced Geospatial Techniques** (2022)
-   6 citations · Soil Carbon
+   6 citations · General CDR
 
 2. **Nature-Positive Watershed Management Strategies for Enhanced Carbon Sequestration: A Case Study of Watersheds in Maharashtra, India** (2025)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

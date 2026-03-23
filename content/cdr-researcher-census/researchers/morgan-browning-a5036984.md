@@ -1,7 +1,7 @@
 ---
 title: "Morgan Browning"
-description: "Morgan Browning is a Mid-career DAC researcher at Environmental Protection Agency in US. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.668083
+description: "Morgan Browning is a Mid-career General CDR researcher at Environmental Protection Agency in US. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.537834
 url: "/cdr-researcher-census/researchers/morgan-browning-a5036984/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Environmental Protection Agency · 🇺🇸 US
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 7 |
 | Citations | 223 |
 | Publications | 12 |
-| CDR Focus | 41.7% |
+| CDR Focus | 4170.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Net-zero CO2 by 2050 scenarios for the United States in the Energy Modeling Forum 37 study** (2023)
-   99 citations · BECCS
+   99 citations · DAC
 
 2. **Carbon management technology pathways for reaching a U.S. Economy-Wide net-Zero emissions goal** (2024)
    15 citations · DAC

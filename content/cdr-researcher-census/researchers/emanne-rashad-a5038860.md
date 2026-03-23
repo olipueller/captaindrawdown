@@ -1,7 +1,7 @@
 ---
 title: "Emanne Rashad"
 description: "Emanne Rashad is a Mid-career Biochar researcher at Alexandria University in EG. With 8 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.086881
+date: 2026-03-23T11:46:59.586668
 url: "/cdr-researcher-census/researchers/emanne-rashad-a5038860/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 8 |
 | Citations | 760 |
 | Publications | 8 |
-| CDR Focus | 25.0% |
+| CDR Focus | 1250.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Methods to prepare biosorbents and magnetic sorbents for water treatment: a review** (2023)
-   258 citations · Biochar
+   258 citations
 
 2. **Pinewood sawdust biochar as an effective biosorbent for PAHs removal from wastewater** (2022)
    26 citations · Biochar

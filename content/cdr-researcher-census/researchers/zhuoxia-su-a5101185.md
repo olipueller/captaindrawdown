@@ -1,7 +1,7 @@
 ---
 title: "Zhuoxia Su"
 description: "Zhuoxia Su is a Mid-career Soil Carbon researcher at Institute of Soil and Water Conservation in CN. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.923883
+date: 2026-03-23T11:47:00.891966
 url: "/cdr-researcher-census/researchers/zhuoxia-su-a5101185/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 163 |
 | Publications | 9 |
-| CDR Focus | 33.3% |
+| CDR Focus | 3330.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

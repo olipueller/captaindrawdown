@@ -1,7 +1,7 @@
 ---
 title: "Haehyun Min"
-description: "Haehyun Min is a Mid-career DAC researcher at State University of New York in US. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.906208
+description: "Haehyun Min is a Mid-career carbon dioxide removal researcher at State University of New York in US. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.869529
 url: "/cdr-researcher-census/researchers/haehyun-min-a5112399/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ State University of New York · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,19 +39,19 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 6 |
 | Citations | 166 |
 | Publications | 17 |
-| CDR Focus | 17.6% |
+| CDR Focus | 1180.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Sodium cation exchanged zeolites for direct air capture of CO2** (2024)
-   14 citations · DAC
+   14 citations
 
 2. **Active metal cation exchanged in ZSM-5 for enhanced direct air capture of CO2** (2024)
-   11 citations · DAC
+   11 citations
 
 3. **Synergistic interaction between Ni and K2CO3 on γ-Al2O3 for integrated direct CO2 capture and methanation under varying humidity conditions** (2025)
-   3 citations · DAC
+   3 citations
 
 ## External Profiles
 

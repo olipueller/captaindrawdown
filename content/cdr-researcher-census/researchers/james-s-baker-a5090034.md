@@ -1,7 +1,7 @@
 ---
 title: "James S. Baker"
-description: "James S. Baker is a Mid-career DAC researcher at Leidos (United States) in US. With 25 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.482109
+description: "James S. Baker is a Mid-career carbon dioxide removal researcher at Leidos (United States) in US. With 25 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.272012
 url: "/cdr-researcher-census/researchers/james-s-baker-a5090034/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Leidos (United States) · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,19 +39,19 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 9 |
 | Citations | 292 |
 | Publications | 25 |
-| CDR Focus | 12.0% |
+| CDR Focus | 800.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Directly Spun Epoxy‐Crosslinked Polyethylenimine Fiber Sorbents for Direct Air Capture and Postcombustion Capture of CO<sub>2</sub>** (2022)
-   7 citations · DAC
+   7 citations
 
 2. **Porous Polyvinylamine Adsorbents with Low Temperature Regenerability for Direct Air Capture** (2024)
-   1 citations · DAC
+   1 citations
 
 3. **Directly Spun Epoxy‐Crosslinked Polyethylenimine Fiber Sorbents for Direct Air Capture and Postcombustion Capture of CO<sub>2</sub>** (2022)
-   1 citations · DAC
+   1 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Sulaiman Almwarai Alharbi"
 description: "Sulaiman Almwarai Alharbi is a Mid-career Soil Carbon researcher at King Saud University in SA. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.530492
+date: 2026-03-23T11:47:00.351545
 url: "/cdr-researcher-census/researchers/sulaiman-almwarai-alharbi-a5115595/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 271 |
 | Publications | 22 |
-| CDR Focus | 18.2% |
+| CDR Focus | 1820.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    3 citations · Soil Carbon
 
 3. **The over-estimation of long-term mineral fertilizer on CO2 release from soil carbonates** (2025)
-   3 citations · Soil Carbon
+   3 citations
 
 4. **Carbon Stabilization Pathways in Soil Aggregates During Long-Term Forest Succession: Implications from Δ13c Signatures** (2022)
    0 citations · Soil Carbon

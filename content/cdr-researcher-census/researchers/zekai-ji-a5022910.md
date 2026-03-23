@@ -1,7 +1,7 @@
 ---
 title: "Zekai Ji"
-description: "Zekai Ji is an Early-career DAC researcher at National University of Singapore in SG. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.058653
+description: "Zekai Ji is an Early-career carbon dioxide removal researcher at National University of Singapore in SG. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.051776
 url: "/cdr-researcher-census/researchers/zekai-ji-a5022910/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ National University of Singapore · 🇸🇬 SG
 
 **Career Stage:** Early-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 4 |
 | Citations | 140 |
 | Publications | 6 |
-| CDR Focus | 16.7% |
+| CDR Focus | 1670.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **3D Interconnected Pore Networks Enable Superior Volumetric CO2 Uptake in Amine-Functionalized Nanoporous Carbon for Direct Air Capture** (2025)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

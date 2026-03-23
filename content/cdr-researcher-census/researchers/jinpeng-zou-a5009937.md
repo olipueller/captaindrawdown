@@ -1,7 +1,7 @@
 ---
 title: "Jinpeng Zou"
-description: "Jinpeng Zou is a Mid-career Soil Carbon researcher at Sichuan Agricultural University in CN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.189607
+description: "Jinpeng Zou is a Mid-career General CDR researcher at Sichuan Agricultural University in CN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.193084
 url: "/cdr-researcher-census/researchers/jinpeng-zou-a5009937/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Sichuan Agricultural University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 124 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Dual carbon goal and agriculture in China: Exploring key factors influencing farmers’ behavior in adopting low carbon technologies** (2024)
-   27 citations · Soil Carbon
+   27 citations · General CDR
 
 ## External Profiles
 

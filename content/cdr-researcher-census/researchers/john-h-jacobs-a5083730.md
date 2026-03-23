@@ -1,7 +1,7 @@
 ---
 title: "John H. Jacobs"
-description: "John H. Jacobs is a Mid-career General CDR researcher at University of Calgary in CA. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.100060
+description: "John H. Jacobs is a Mid-career carbon dioxide removal researcher at University of Calgary in CA. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.102060
 url: "/cdr-researcher-census/researchers/john-h-jacobs-a5083730/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ University of Calgary · 🇨🇦 CA
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,16 +39,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 7 |
 | Citations | 134 |
 | Publications | 11 |
-| CDR Focus | 18.2% |
+| CDR Focus | 910.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Investigating activated carbons for SO2 adsorption in wet flue gas** (2023)
-   36 citations · General CDR
+   36 citations
 
 2. **Investigating Activated Carbons for So2 Adsorption in Wet Flue Gas** (2023)
-   0 citations · General CDR
+   0 citations
 
 ## External Profiles
 

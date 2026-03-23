@@ -1,7 +1,7 @@
 ---
 title: "Ariffin Bin Mohamad Annuar"
 description: "Ariffin Bin Mohamad Annuar is an Early-career DAC researcher. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.515162
+date: 2026-03-23T11:47:00.328692
 url: "/cdr-researcher-census/researchers/ariffin-bin-mohamad-annuar-a5093252/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 4 |
 | Citations | 277 |
 | Publications | 8 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Tianyu Zhan"
 description: "Tianyu Zhan is a Mid-career Soil Carbon researcher at Beijing Normal University in CN. With 16 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.049857
+date: 2026-03-23T11:46:59.517750
 url: "/cdr-researcher-census/researchers/tianyu-zhan-a5011435/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 12 |
 | Citations | 885 |
 | Publications | 16 |
-| CDR Focus | 12.5% |
+| CDR Focus | 620.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

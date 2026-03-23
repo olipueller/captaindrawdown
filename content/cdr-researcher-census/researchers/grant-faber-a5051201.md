@@ -1,7 +1,7 @@
 ---
 title: "Grant Faber"
-description: "Grant Faber is a Mid-career Soil Carbon researcher at University of Michigan–Ann Arbor in US. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.657477
+description: "Grant Faber is a Mid-career General CDR researcher at University of Michigan–Ann Arbor in US. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.523674
 url: "/cdr-researcher-census/researchers/grant-faber-a5051201/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Michigan–Ann Arbor · 🇺🇸 US
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 226 |
 | Publications | 14 |
-| CDR Focus | 14.3% |
+| CDR Focus | 710.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    21 citations · DAC
 
 2. **AssessCCUS: An Integrated Approach for Aggregating Resources to Enable Techno-Economic and Life Cycle Assessment of Carbon Management Technologies** (2022)
-   4 citations · Soil Carbon
+   4 citations · General CDR
 
 ## External Profiles
 

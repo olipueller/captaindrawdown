@@ -1,7 +1,7 @@
 ---
 title: "Jiaxin Li"
-description: "Jiaxin Li is a Mid-career Soil Carbon researcher at Lanzhou University in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.559120
+description: "Jiaxin Li is a Mid-career carbon dioxide removal researcher at Lanzhou University in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.393294
 url: "/cdr-researcher-census/researchers/jiaxin-li-a5067931/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Lanzhou University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,16 +39,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 260 |
 | Publications | 17 |
-| CDR Focus | 11.8% |
+| CDR Focus | 1180.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Influences of Ecological Restoration Programs on Ecosystem Services in Sandy Areas, Northern China** (2023)
-   16 citations · Soil Carbon
+   16 citations
 
 2. **Loess plateau mismatch between ecosystem service supply and demand driven by climate change and human activity** (2026)
-   0 citations · Soil Carbon
+   0 citations
 
 ## External Profiles
 

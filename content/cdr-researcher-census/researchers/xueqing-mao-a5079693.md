@@ -1,7 +1,7 @@
 ---
 title: "Xueqing Mao"
-description: "Xueqing Mao is a Senior Soil Carbon researcher at China University of Geosciences in CN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.166846
+description: "Xueqing Mao is a Senior carbon dioxide removal researcher at China University of Geosciences in CN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.166115
 url: "/cdr-researcher-census/researchers/xueqing-mao-a5079693/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ China University of Geosciences · 🇨🇳 CN
 
 **Career Stage:** Senior
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 127 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **The Temporal and Spatial Evolution of Ecosystem Service Synergy/Trade-Offs Based on Ecological Units** (2021)
-   22 citations · Soil Carbon
+   22 citations
 
 ## External Profiles
 

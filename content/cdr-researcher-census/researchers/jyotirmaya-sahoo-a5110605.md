@@ -1,7 +1,7 @@
 ---
 title: "Jyotirmaya Sahoo"
 description: "Jyotirmaya Sahoo is a Mid-career Soil Carbon researcher at Jain University in IN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.779809
+date: 2026-03-23T11:47:00.685228
 url: "/cdr-researcher-census/researchers/jyotirmaya-sahoo-a5110605/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 193 |
 | Publications | 14 |
-| CDR Focus | 28.6% |
+| CDR Focus | 2860.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,10 +54,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    3 citations · Biochar
 
 3. **Impact of Long-term Residue Management on Soil Aggregation and Carbon Accumulation Under Wheat-based Cropping Systems in a Typic Haplustept** (2025)
-   1 citations · Biochar
+   1 citations · Soil Carbon
 
 4. **Long-term Impact of Crop Residue Management on Lability and Thermal Sensitivity of Soil Organic Carbon under Wheat Based Cropping Systems** (2025)
-   0 citations · Biochar
+   0 citations · Soil Carbon
 
 ## External Profiles
 

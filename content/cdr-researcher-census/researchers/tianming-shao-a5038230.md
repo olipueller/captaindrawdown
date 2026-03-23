@@ -1,7 +1,7 @@
 ---
 title: "Tianming Shao"
 description: "Tianming Shao is a Mid-career BECCS researcher at Changsha University in CN. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.496384
+date: 2026-03-23T11:47:00.300256
 url: "/cdr-researcher-census/researchers/tianming-shao-a5038230/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 5 |
 | Citations | 284 |
 | Publications | 6 |
-| CDR Focus | 16.7% |
+| CDR Focus | 1670.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

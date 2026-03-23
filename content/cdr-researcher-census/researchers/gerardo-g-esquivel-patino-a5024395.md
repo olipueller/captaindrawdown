@@ -1,7 +1,7 @@
 ---
 title: "Gerardo G. Esquivel-Patiño"
-description: "Gerardo G. Esquivel-Patiño is a Mid-career General CDR researcher at Technological Institute of Celaya in MX. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.862314
+description: "Gerardo G. Esquivel-Patiño is a Mid-career carbon dioxide removal researcher at Technological Institute of Celaya in MX. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.809370
 url: "/cdr-researcher-census/researchers/gerardo-g-esquivel-patino-a5024395/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Technological Institute of Celaya · 🇲🇽 MX
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 6 |
 | Citations | 175 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Multi objective optimization of the amines- CO2 capture absorption-desorption process by a non-equilibrium rate model** (2022)
-   13 citations · General CDR
+   13 citations
 
 ## External Profiles
 

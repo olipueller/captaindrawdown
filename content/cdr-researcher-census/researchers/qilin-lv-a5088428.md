@@ -1,7 +1,7 @@
 ---
 title: "Qilin Lv"
 description: "Qilin Lv is a Mid-career Soil Carbon researcher at China Agricultural University in CN. With 26 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.960755
+date: 2026-03-23T11:47:00.936338
 url: "/cdr-researcher-census/researchers/qilin-lv-a5088428/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 156 |
 | Publications | 26 |
-| CDR Focus | 11.5% |
+| CDR Focus | 1150.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

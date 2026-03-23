@@ -1,7 +1,7 @@
 ---
 title: "Roberta Healey"
-description: "Roberta Healey is a Senior Soil Carbon researcher at Universitat Autònoma de Barcelona in ES. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.543926
+description: "Roberta Healey is a Senior General CDR researcher at Universitat Autònoma de Barcelona in ES. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.370520
 url: "/cdr-researcher-census/researchers/roberta-healey-a5018753/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Universitat Autònoma de Barcelona · 🇪🇸 ES
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 266 |
 | Publications | 6 |
-| CDR Focus | 16.7% |
+| CDR Focus | 1670.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Urban wildflower meadow planting for biodiversity, climate and society: An evaluation at King's College, Cambridge** (2023)
-   27 citations · Soil Carbon
+   27 citations · General CDR
 
 ## External Profiles
 

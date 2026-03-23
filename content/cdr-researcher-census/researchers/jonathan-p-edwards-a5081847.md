@@ -1,7 +1,7 @@
 ---
 title: "Jonathan P. Edwards"
-description: "Jonathan P. Edwards is a Senior DAC researcher. With 44 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.869340
+description: "Jonathan P. Edwards is a Senior General CDR researcher. With 44 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.094671
 url: "/cdr-researcher-census/researchers/jonathan-p-edwards-a5081847/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,9 +29,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -40,7 +40,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 26 |
 | Citations | 10,108 |
 | Publications | 44 |
-| CDR Focus | 11.4% |
+| CDR Focus | 910.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -49,16 +49,16 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    108 citations · General CDR
 
 2. **Regeneration of direct air CO2 capture liquid via alternating electrocatalysis** (2023)
-   33 citations · DAC
+   33 citations
 
 3. **Direct air capture of CO<sub>2</sub><i>via</i> cyclic viologen electrocatalysis** (2024)
-   24 citations · DAC
+   24 citations
 
 4. **Direct Air Capture of CO<sub>2</sub> via Cyclic Viologen Electrocatalysis** (2025)
-   0 citations · DAC
+   0 citations
 
 5. **(Digital Presentation) Assessing the Energy Intensity of Product Purification in CO<sub>2</sub> Electrolysis** (2022)
-   0 citations · General CDR
+   0 citations
 
 ## External Profiles
 

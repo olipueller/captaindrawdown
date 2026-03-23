@@ -1,7 +1,7 @@
 ---
 title: "Ingrid Busch"
-description: "Ingrid Busch is a Senior BECCS researcher at Oak Ridge National Laboratory in US. With 26 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.706194
+description: "Ingrid Busch is a Senior General CDR researcher at Oak Ridge National Laboratory in US. With 26 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.590215
 url: "/cdr-researcher-census/researchers/ingrid-busch-a5015056/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Oak Ridge National Laboratory · 🇺🇸 US
 
 ## CDR Specialization
 
-**BECCS**
+**General CDR**
 
-Combining biomass energy with carbon capture and storage to achieve negative emissions.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 6 |
 | Citations | 212 |
 | Publications | 26 |
-| CDR Focus | 15.4% |
+| CDR Focus | 1540.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -60,7 +60,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
    3 citations · BECCS
 
 4. **Life Cycle Emissions and Health Cost Impacts of Producing Ethanol and Electricity from Willow and Switchgrass in the Riparian Buffers of Mid-Atlantic United States** (2025)
-   1 citations · Soil Carbon
+   1 citations · BECCS
 
 ## External Profiles
 

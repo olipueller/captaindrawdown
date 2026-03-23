@@ -1,7 +1,7 @@
 ---
 title: "Oyeladun Rhoda Adegoke"
-description: "Oyeladun Rhoda Adegoke is a Mid-career General CDR researcher at Ladoke Akintola University of Technology in NG. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.366800
+description: "Oyeladun Rhoda Adegoke is a Mid-career carbon dioxide removal researcher at Ladoke Akintola University of Technology in NG. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.082162
 url: "/cdr-researcher-census/researchers/oyeladun-rhoda-adegoke-a5070081/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Ladoke Akintola University of Technology ·  NG
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 7 |
 | Citations | 360 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Adsorptive removal of gaseous contaminants using biomass-based adsorbents** (2025)
-   5 citations · General CDR
+   5 citations
 
 ## External Profiles
 

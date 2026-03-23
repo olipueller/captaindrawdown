@@ -1,7 +1,7 @@
 ---
 title: "Xiangyang Zhao"
-description: "Xiangyang Zhao is a Mid-career General CDR researcher at Sinopec (China) in CN. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.511909
+description: "Xiangyang Zhao is a Mid-career carbon dioxide removal researcher at Sinopec (China) in CN. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.324140
 url: "/cdr-researcher-census/researchers/xiangyang-zhao-a5002102/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Sinopec (China) · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,16 +39,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 9 |
 | Citations | 278 |
 | Publications | 20 |
-| CDR Focus | 10.0% |
+| CDR Focus | 500.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Molecular dynamics simulation of the transport properties and condensation mechanism of carbon dioxide** (2022)
-   15 citations · General CDR
+   15 citations
 
 2. **Exploring the effect of surface wettability on heterogeneous condensation of carbon Dioxide: A molecular dynamics study** (2023)
-   10 citations · General CDR
+   10 citations
 
 ## External Profiles
 

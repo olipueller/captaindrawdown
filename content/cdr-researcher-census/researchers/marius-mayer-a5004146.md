@@ -1,7 +1,7 @@
 ---
 title: "Marius Mayer"
 description: "Marius Mayer is a Senior Soil Carbon researcher. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.232751
+date: 2026-03-23T11:46:59.855779
 url: "/cdr-researcher-census/researchers/marius-mayer-a5004146/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 3 |
 | Citations | 486 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

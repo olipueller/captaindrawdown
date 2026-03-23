@@ -1,7 +1,7 @@
 ---
 title: "Rafael M. Eufrasio"
-description: "Rafael M. Eufrasio is a Mid-career General CDR researcher at University of Sheffield in GB. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.053922
+description: "Rafael M. Eufrasio is a Mid-career Enhanced Weathering researcher at University of Sheffield in GB. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.526421
 url: "/cdr-researcher-census/researchers/rafael-m-eufrasio-a5014992/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Sheffield · 🇬🇧 GB
 
 ## CDR Specialization
 
-**General CDR**
+**Enhanced Weathering**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 4 |
 | Citations | 867 |
 | Publications | 6 |
-| CDR Focus | 83.3% |
+| CDR Focus | 8330.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

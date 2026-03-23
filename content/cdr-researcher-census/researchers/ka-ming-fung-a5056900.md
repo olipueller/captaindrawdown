@@ -1,7 +1,7 @@
 ---
 title: "Ka Ming Fung"
 description: "Ka Ming Fung is a Mid-career Enhanced Weathering researcher at Chinese University of Hong Kong in CN. With 38 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.403556
+date: 2026-03-23T11:47:00.137943
 url: "/cdr-researcher-census/researchers/ka-ming-fung-a5056900/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 9 |
 | Citations | 335 |
 | Publications | 38 |
-| CDR Focus | 10.5% |
+| CDR Focus | 790.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    15 citations · Enhanced Weathering
 
 2. **Improving nitrogen cycling in a land surface model (CLM5) to quantify soil N <sub>2</sub> O, NO and NH <sub>3</sub> emissions from enhanced rock weathering with croplands** (2023)
-   4 citations · Enhanced Weathering
+   4 citations
 
 3. **Comment on gmd-2023-47** (2023)
    0 citations · Enhanced Weathering

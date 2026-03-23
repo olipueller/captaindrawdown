@@ -1,7 +1,7 @@
 ---
 title: "John Dees"
-description: "John Dees is a Mid-career General CDR researcher at University of California, Berkeley in US. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.174907
+description: "John Dees is a Mid-career BECCS researcher at University of California, Berkeley in US. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.177777
 url: "/cdr-researcher-census/researchers/john-dees-a5035642/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of California, Berkeley · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**BECCS**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 
@@ -45,16 +45,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 4 |
 | Citations | 125 |
 | Publications | 8 |
-| CDR Focus | 25.0% |
+| CDR Focus | 1250.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Leveraging the bioeconomy for carbon drawdown** (2023)
-   47 citations · General CDR
+   47 citations · BECCS
 
 2. **Leveraging the bioeconomy for carbon drawdown** (2023)
-   0 citations · BECCS
+   0 citations
 
 ## External Profiles
 

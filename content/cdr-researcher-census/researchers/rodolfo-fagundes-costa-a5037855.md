@@ -1,7 +1,7 @@
 ---
 title: "Rodolfo Fagundes Costa"
 description: "Rodolfo Fagundes Costa is a Mid-career Soil Carbon researcher at Universidade de São Paulo in BR. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.864827
+date: 2026-03-23T11:47:00.810783
 url: "/cdr-researcher-census/researchers/rodolfo-fagundes-costa-a5037855/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 175 |
 | Publications | 17 |
-| CDR Focus | 11.8% |
+| CDR Focus | 590.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    7 citations · Soil Carbon
 
 2. **Controles geoquímicos do ferro na estabilização do carbono azul em solos de manguezais em micro e macroescalas** (2025)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

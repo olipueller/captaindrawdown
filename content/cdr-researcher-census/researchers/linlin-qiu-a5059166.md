@@ -1,7 +1,7 @@
 ---
 title: "Linlin Qiu"
 description: "Linlin Qiu is a Mid-career Biochar researcher at Hangzhou Dianzi University in CN. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.321786
+date: 2026-03-23T11:47:00.006759
 url: "/cdr-researcher-census/researchers/linlin-qiu-a5059166/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 11 |
 | Citations | 394 |
 | Publications | 20 |
-| CDR Focus | 10.0% |
+| CDR Focus | 500.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

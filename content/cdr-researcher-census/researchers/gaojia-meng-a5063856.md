@@ -1,7 +1,7 @@
 ---
 title: "Gaojia Meng"
 description: "Gaojia Meng is a Mid-career Soil Carbon researcher at Gansu Agricultural University in CN. With 35 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.095431
+date: 2026-03-23T11:46:59.603421
 url: "/cdr-researcher-census/researchers/gaojia-meng-a5063856/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 13 |
 | Citations | 733 |
 | Publications | 35 |
-| CDR Focus | 11.4% |
+| CDR Focus | 860.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    2 citations · Soil Carbon
 
 2. **Agricultural Activities Increased Soil Organic Carbon in Shiyang River Basin, a typical inland river basin in China** (2024)
-   1 citations · Soil Carbon
+   1 citations
 
 3. **Terraced fields increased soil organic carbon content in croplands of the loess plateau** (2025)
    0 citations · Soil Carbon

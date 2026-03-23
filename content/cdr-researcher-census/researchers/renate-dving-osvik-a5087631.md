@@ -1,7 +1,7 @@
 ---
 title: "Renate Døving Osvik"
-description: "Renate Døving Osvik is a Mid-career DAC researcher at Norwegian University of Life Sciences in NO. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.247848
+description: "Renate Døving Osvik is a Mid-career Ocean CDR researcher at Norwegian University of Life Sciences in NO. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.256368
 url: "/cdr-researcher-census/researchers/renate-dving-osvik-a5087631/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Norwegian University of Life Sciences · 🇳🇴 NO
 
 ## CDR Specialization
 
-**DAC**
+**Ocean CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 6 |
 | Citations | 117 |
 | Publications | 8 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Bioactivity of a Marine Diatom ( <i>Porosira glacialis</i> [Grunow] Jörgensen 1905) Cultivated With and Without Factory Smoke CO <sub>2</sub>** (2021)
-   6 citations · DAC
+   6 citations · Ocean CDR
 
 ## External Profiles
 

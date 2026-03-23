@@ -1,7 +1,7 @@
 ---
 title: "Khaulenbek Akhmadi"
-description: "Khaulenbek Akhmadi is a Mid-career Soil Carbon researcher at Mongolian Academy of Sciences in MN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.085229
+description: "Khaulenbek Akhmadi is a Mid-career General CDR researcher at Mongolian Academy of Sciences in MN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.082717
 url: "/cdr-researcher-census/researchers/khaulenbek-akhmadi-a5042031/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Mongolian Academy of Sciences ·  MN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,16 +45,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 137 |
 | Publications | 17 |
-| CDR Focus | 11.8% |
+| CDR Focus | 1180.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Evaluation of provisioning, cultural, and supporting ecosystem services of Khukhmorit soum, Govi-Altai province, Mongolia** (2023)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 2. **comparative study of biomass and morpho-physiological traits for different deciduous species in semi-arid afforestation region of Mongolia** (2022)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Andreas Hagenbo"
-description: "Andreas Hagenbo is a Mid-career Soil Carbon researcher at Norwegian Institute of Bioeconomy Research in NO. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.085937
+description: "Andreas Hagenbo is a Mid-career Biochar researcher at Norwegian Institute of Bioeconomy Research in NO. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.584170
 url: "/cdr-researcher-census/researchers/andreas-hagenbo-a5073623/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Norwegian Institute of Bioeconomy Research · 🇳🇴 NO
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 10 |
 | Citations | 763 |
 | Publications | 20 |
-| CDR Focus | 10.0% |
+| CDR Focus | 500.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Zhiying Liang"
 description: "Zhiying Liang is a Senior Soil Carbon researcher at Sun Yat-sen University in CN. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.190964
+date: 2026-03-23T11:46:59.775095
 url: "/cdr-researcher-census/researchers/zhiying-liang-a5111312/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 547 |
 | Publications | 13 |
-| CDR Focus | 38.5% |
+| CDR Focus | 3850.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

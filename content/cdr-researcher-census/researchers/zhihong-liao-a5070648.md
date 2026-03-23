@@ -1,7 +1,7 @@
 ---
 title: "Zhihong Liao"
-description: "Zhihong Liao is a Mid-career Soil Carbon researcher at Guangxi University in CN. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.076972
+description: "Zhihong Liao is a Mid-career carbon dioxide removal researcher at Guangxi University in CN. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.073290
 url: "/cdr-researcher-census/researchers/zhihong-liao-a5070648/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Guangxi University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,16 +39,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 138 |
 | Publications | 8 |
-| CDR Focus | 25.0% |
+| CDR Focus | 2500.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Increase in precipitation and fractional vegetation cover promote synergy of ecosystem services in China’s arid regions—Northern sand-stabilization belt** (2023)
-   11 citations · Soil Carbon
+   11 citations
 
 2. **Assessing the Impact of Climate and Human Activities on Ecosystem Services in the Loess Plateau Ecological Screen, China** (2023)
-   8 citations · Soil Carbon
+   8 citations
 
 ## External Profiles
 

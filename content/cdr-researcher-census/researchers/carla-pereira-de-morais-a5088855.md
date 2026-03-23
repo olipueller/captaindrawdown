@@ -1,7 +1,7 @@
 ---
 title: "Carla Pereira de Morais"
 description: "Carla Pereira de Morais is a Mid-career Soil Carbon researcher at Universidade de São Paulo in BR. With 24 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.660398
+date: 2026-03-23T11:47:00.526666
 url: "/cdr-researcher-census/researchers/carla-pereira-de-morais-a5088855/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 10 |
 | Citations | 226 |
 | Publications | 24 |
-| CDR Focus | 12.5% |
+| CDR Focus | 830.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    9 citations · Soil Carbon
 
 2. **Scalable solution for agricultural soil organic carbon measurements using laser-induced breakdown spectroscopy** (2024)
-   6 citations · Soil Carbon
+   6 citations · General CDR
 
 3. **Moderate pasture intensification enhances soil organic carbon stocks in a degraded Brazilian Ferralsol** (2025)
    3 citations · Soil Carbon

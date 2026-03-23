@@ -1,7 +1,7 @@
 ---
 title: "Tran Thi Hieu"
 description: "Tran Thi Hieu is a Mid-career Biochar researcher at Vietnam National University Ho Chi Minh City in VN. With 21 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.176742
+date: 2026-03-23T11:47:01.178864
 url: "/cdr-researcher-census/researchers/tran-thi-hieu-a5113891/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 6 |
 | Citations | 125 |
 | Publications | 21 |
-| CDR Focus | 14.3% |
+| CDR Focus | 950.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    23 citations · Biochar
 
 2. **An economic–environmental–energy efficiency analysis for optimizing organic waste treatment of a livestock-orchard system: a case in the Mekong Delta, Vietnam** (2022)
-   7 citations · Biochar
+   7 citations
 
 3. **An Economic-environmental-energy Efficiency Analysis for Optimizing Organic Waste Treatment of a Livestock-orchard System: A Case in the Mekong Delta, Vietnam** (2021)
-   2 citations · Biochar
+   2 citations
 
 ## External Profiles
 

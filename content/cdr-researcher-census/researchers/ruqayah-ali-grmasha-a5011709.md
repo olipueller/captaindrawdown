@@ -1,7 +1,7 @@
 ---
 title: "Ruqayah Ali Grmasha"
 description: "Ruqayah Ali Grmasha is a Mid-career Biochar researcher at University of Pannonia in HU. With 30 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.107717
+date: 2026-03-23T11:46:59.627342
 url: "/cdr-researcher-census/researchers/ruqayah-ali-grmasha-a5011709/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,19 +45,19 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 15 |
 | Citations | 699 |
 | Publications | 30 |
-| CDR Focus | 10.0% |
+| CDR Focus | 670.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Removal of emerging pollutants from water using enzyme-immobilized activated carbon from coconut shell** (2023)
-   80 citations · Biochar
+   80 citations
 
 2. **Removal of Pharmaceuticals from Water Using Laccase Immobilized on Orange Peels Waste-Derived Activated Carbon** (2023)
    19 citations · Biochar
 
 3. **RETRACTED: A novel and sustainable composite of L@PSAC for superior removal of pharmaceuticals from different water matrices: Production, characterization, and application** (2024)
-   16 citations · Biochar
+   16 citations
 
 ## External Profiles
 

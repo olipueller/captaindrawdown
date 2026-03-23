@@ -1,7 +1,7 @@
 ---
 title: "Robin Beatty"
-description: "Robin Beatty is a Mid-career Soil Carbon researcher at Human Growth Foundation in US. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.391188
+description: "Robin Beatty is a Mid-career General CDR researcher at Human Growth Foundation in US. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.118746
 url: "/cdr-researcher-census/researchers/robin-beatty-a5000366/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Human Growth Foundation · 🇺🇸 US
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 343 |
 | Publications | 5 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Framework for a savanna burning emissions abatement methodology applicable to fire-prone miombo woodlands in southern Africa** (2024)
-   6 citations · Soil Carbon
+   6 citations · General CDR
 
 ## External Profiles
 

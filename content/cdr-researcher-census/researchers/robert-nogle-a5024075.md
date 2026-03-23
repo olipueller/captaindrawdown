@@ -1,7 +1,7 @@
 ---
 title: "Robert Nogle"
 description: "Robert Nogle is a Mid-career General CDR researcher. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.230141
+date: 2026-03-23T11:46:59.852017
 url: "/cdr-researcher-census/researchers/robert-nogle-a5024075/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -37,7 +37,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 5 |
 | Citations | 489 |
 | Publications | 8 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

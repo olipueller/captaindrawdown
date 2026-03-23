@@ -1,7 +1,7 @@
 ---
 title: "Pengju Zu"
-description: "Pengju Zu is a Mid-career Soil Carbon researcher at Shaanxi Coal Chemical Industry Technology Research Institute in CN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.165709
+description: "Pengju Zu is a Mid-career General CDR researcher at Shaanxi Coal Chemical Industry Technology Research Institute in CN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.165298
 url: "/cdr-researcher-census/researchers/pengju-zu-a5087703/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Shaanxi Coal Chemical Industry Technology Research Institute · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 127 |
 | Publications | 13 |
-| CDR Focus | 15.4% |
+| CDR Focus | 1540.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    24 citations · Soil Carbon
 
 2. **Effects of forest type on carbon storage in the hilly region of Loess Plateau, China** (2024)
-   11 citations · Soil Carbon
+   11 citations · General CDR
 
 ## External Profiles
 

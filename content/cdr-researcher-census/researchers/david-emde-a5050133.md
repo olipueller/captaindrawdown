@@ -1,7 +1,7 @@
 ---
 title: "David Emde"
-description: "David Emde is a Mid-career Soil Carbon researcher at Johann Heinrich von Thünen-Institut in DE. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.281197
+description: "David Emde is a Mid-career General CDR researcher at Johann Heinrich von Thünen-Institut in DE. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.947658
 url: "/cdr-researcher-census/researchers/david-emde-a5050133/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Johann Heinrich von Thünen-Institut · 🇩🇪 DE
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,16 +45,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 426 |
 | Publications | 19 |
-| CDR Focus | 10.5% |
+| CDR Focus | 1050.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Carbon sequestration in soils and climate change mitigation—Definitions and pitfalls** (2023)
-   184 citations · Soil Carbon
+   184 citations · General CDR
 
 2. **Reply letter to Munoz et al. ‘on the importance of time in carbon sequestration in soils and climate change mitigation’—Keep carbon sequestration terminologies consistent and functional** (2024)
-   13 citations · Soil Carbon
+   13 citations · General CDR
 
 ## External Profiles
 

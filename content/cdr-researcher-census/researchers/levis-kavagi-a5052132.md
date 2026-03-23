@@ -1,7 +1,7 @@
 ---
 title: "Levis Kavagi"
 description: "Levis Kavagi is a Mid-career Soil Carbon researcher at United Nations Environment Programme in KE. With 19 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.184843
+date: 2026-03-23T11:46:59.765807
 url: "/cdr-researcher-census/researchers/levis-kavagi-a5052132/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 13 |
 | Citations | 557 |
 | Publications | 19 |
-| CDR Focus | 10.5% |
+| CDR Focus | 530.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

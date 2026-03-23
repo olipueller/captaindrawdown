@@ -1,7 +1,7 @@
 ---
 title: "Qijuan Hu"
 description: "Qijuan Hu is a Mid-career Soil Carbon researcher at Southwest University College of Resources and Environment in CN. With 31 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.992548
+date: 2026-03-23T11:46:59.392307
 url: "/cdr-researcher-census/researchers/qijuan-hu-a5003485/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 18 |
 | Citations | 1,252 |
 | Publications | 31 |
-| CDR Focus | 19.4% |
+| CDR Focus | 1940.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

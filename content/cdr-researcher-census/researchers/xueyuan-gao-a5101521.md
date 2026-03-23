@@ -1,7 +1,7 @@
 ---
 title: "Xueyuan Gao"
-description: "Xueyuan Gao is a Mid-career DAC researcher at Yanshan University in CN. With 30 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.376777
+description: "Xueyuan Gao is a Mid-career General CDR researcher at Yanshan University in CN. With 30 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.097281
 url: "/cdr-researcher-census/researchers/xueyuan-gao-a5101521/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Yanshan University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,31 +45,31 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 8 |
 | Citations | 353 |
 | Publications | 30 |
-| CDR Focus | 23.3% |
+| CDR Focus | 2000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Exploration of a novel geoengineering solution: lighting up tropical forests at night** (2022)
-   2 citations · DAC
+   2 citations · General CDR
 
 2. **Exploration of a novel geoengineering solution: lighting up tropical forests at night** (2021)
-   1 citations · DAC
+   1 citations
 
 3. **Reply on RC2** (2021)
-   0 citations · DAC
+   0 citations · Soil Carbon
 
 4. **Reply on AC1** (2021)
-   0 citations · DAC
+   0 citations · General CDR
 
 5. **Reply on RC1** (2021)
-   0 citations · DAC
+   0 citations · General CDR
 
 6. **Comment on esd-2021-85** (2021)
-   0 citations · DAC
+   0 citations · General CDR
 
 7. **Comment on esd-2021-85** (2021)
-   0 citations · DAC
+   0 citations · General CDR
 
 ## External Profiles
 

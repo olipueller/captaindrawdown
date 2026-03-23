@@ -1,7 +1,7 @@
 ---
 title: "Giulia Ravenni"
-description: "Giulia Ravenni is a Mid-career Soil Carbon researcher at Technical University of Denmark in DK. With 39 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.153530
+description: "Giulia Ravenni is a Mid-career Biochar researcher at Technical University of Denmark in DK. With 39 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.713713
 url: "/cdr-researcher-census/researchers/giulia-ravenni-a5040211/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Technical University of Denmark · 🇩🇰 DK
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 14 |
 | Citations | 605 |
 | Publications | 39 |
-| CDR Focus | 10.3% |
+| CDR Focus | 770.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Hydrothermal carbonization and pyrolysis in wetland engineering: Carbon sequestration, phosphorus recovery, and structural characterization of willow-based chars with X-ray μ-computed tomography** (2024)
-   16 citations · Soil Carbon
+   16 citations · Biochar
 
 2. **Low-cost hydrogen sulfide removal with biochar and activated biochar** (2025)
    4 citations · Biochar
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    3 citations · Biochar
 
 4. **Hydrothermal Carbonization and Pyrolysis in Wetland Engineering: Carbon Sequestration, Phosphorus Recovery, and Structural Characterization of Willow-Based Chars with X-Ray Μ-Computed Tomography** (2024)
-   0 citations · Soil Carbon
+   0 citations · Biochar
 
 ## External Profiles
 

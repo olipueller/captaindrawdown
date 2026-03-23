@@ -1,7 +1,7 @@
 ---
 title: "Margarita de Las Obras Loscertales"
 description: "Margarita de Las Obras Loscertales is a Mid-career BECCS researcher at Instituto de Carboquímica in ES. With 60 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.096631
+date: 2026-03-23T11:46:59.604744
 url: "/cdr-researcher-census/researchers/margarita-de-las-obras-loscertales-a5057397/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 15 |
 | Citations | 730 |
 | Publications | 60 |
-| CDR Focus | 23.3% |
+| CDR Focus | 1500.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -69,7 +69,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
    2 citations · BECCS
 
 7. **Development of a Chemical Looping Combustor Fed With Natural Gas and Its Integration With a Gas Turbine in ASPEN Plus** (2023)
-   0 citations · BECCS
+   0 citations
 
 8. **Technical Evaluation of a Chemical Looping Combustor Fed With Biofuels And Its Integration With a Gas Turbine** (2022)
    0 citations · BECCS
@@ -78,7 +78,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
    0 citations · BECCS
 
 10. **Bioenergy with Carbon Capture and Storage (BECCS) developed by coupling a Pressurised Chemical Looping combustor with a turbo expander: How to optimize plant efficiency** (2022)
-   0 citations · BECCS
+   0 citations
 
 ## External Profiles
 

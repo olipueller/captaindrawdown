@@ -1,7 +1,7 @@
 ---
 title: "Francisco S. M. Araujo"
-description: "Francisco S. M. Araujo is a Mid-career Soil Carbon researcher at Environmental and Water Resources Engineering in IL. With 22 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.664922
+description: "Francisco S. M. Araujo is a Mid-career General CDR researcher at Environmental and Water Resources Engineering in IL. With 22 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.532508
 url: "/cdr-researcher-census/researchers/francisco-s-m-araujo-a5053951/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Environmental and Water Resources Engineering · 🇮🇱 IL
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 224 |
 | Publications | 22 |
-| CDR Focus | 27.3% |
+| CDR Focus | 1820.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    10 citations · Enhanced Weathering
 
 2. **Adapting and Verifying the Liming Index for Enhanced Rock Weathering Minerals as an Alternative Liming Approach** (2024)
-   2 citations · Enhanced Weathering
+   2 citations
 
 3. **Adapting and Verifying the Liming Index for Enhanced Rock Weathering Minerals as an Alternative Liming Approach** (2024)
    1 citations · Enhanced Weathering
@@ -66,7 +66,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    0 citations · Enhanced Weathering
 
 6. **GeoRewind: Engineering carbon-sequestering soil amendments for carbon- smart soils** (2022)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

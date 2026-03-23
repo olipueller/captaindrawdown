@@ -1,7 +1,7 @@
 ---
 title: "Zeynep Clulow"
 description: "Zeynep Clulow is a Mid-career DAC researcher at University of Cambridge in GB. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.084652
+date: 2026-03-23T11:46:59.581638
 url: "/cdr-researcher-census/researchers/zeynep-clulow-a5091372/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 6 |
 | Citations | 767 |
 | Publications | 14 |
-| CDR Focus | 21.4% |
+| CDR Focus | 2140.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

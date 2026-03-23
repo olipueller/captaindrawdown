@@ -1,7 +1,7 @@
 ---
 title: "He-Xiang Zhao"
-description: "He-Xiang Zhao is a Mid-career DAC researcher at Yunnan University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.571066
+description: "He-Xiang Zhao is a Mid-career carbon dioxide removal researcher at Yunnan University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.409732
 url: "/cdr-researcher-census/researchers/he-xiang-zhao-a5011338/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Yunnan University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,16 +36,16 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 5 |
 | Citations | 255 |
 | Publications | 8 |
-| CDR Focus | 25.0% |
+| CDR Focus | 1250.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **An environment-friendly technique for direct air capture of carbon dioxide via a designed cellulose and calcium system** (2022)
-   21 citations · DAC
+   21 citations
 
 2. **Preparation of cellulose nanofiber/Fe3O4/CaCO3 magnetic biocomposite by air capture and its application on purifying lead-contaminated water: Removal, immobilization and separation** (2023)
-   11 citations · DAC
+   11 citations
 
 ## External Profiles
 

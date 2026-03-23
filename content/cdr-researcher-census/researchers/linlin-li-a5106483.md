@@ -1,7 +1,7 @@
 ---
 title: "Linlin Li"
 description: "Linlin Li is a Mid-career Soil Carbon researcher at Henan University of Science and Technology in CN. With 25 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.117686
+date: 2026-03-23T11:46:59.645733
 url: "/cdr-researcher-census/researchers/linlin-li-a5106483/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 10 |
 | Citations | 673 |
 | Publications | 25 |
-| CDR Focus | 12.0% |
+| CDR Focus | 800.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    23 citations · Soil Carbon
 
 2. **Waterlogging increases greenhouse gas release and decreases yield in winter rapeseed (Brassica napus L.) seedlings** (2023)
-   12 citations · Soil Carbon
+   12 citations
 
 3. **Intermittent irrigation as a solution for reduced emissions and increased yields in ratoon rice systems** (2024)
    9 citations · Soil Carbon

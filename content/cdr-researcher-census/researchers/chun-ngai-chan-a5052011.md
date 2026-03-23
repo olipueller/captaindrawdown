@@ -1,7 +1,7 @@
 ---
 title: "Chun Ngai Chan"
 description: "Chun Ngai Chan is a Mid-career Soil Carbon researcher at University of Lethbridge in CA. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.774387
+date: 2026-03-23T11:47:00.678305
 url: "/cdr-researcher-census/researchers/chun-ngai-chan-a5052011/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 195 |
 | Publications | 14 |
-| CDR Focus | 14.3% |
+| CDR Focus | 710.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Seasonal and diel variability of CO2 emissions from a semiarid hard-water reservoir** (2022)
-   31 citations · Enhanced Weathering
+   31 citations
 
 2. **Substantially Enhanced Landscape Carbon Sink Due To Reduced Terrestrial‐Aquatic Carbon Transfer Through Soil Conservation in the Chinese Loess Plateau** (2023)
    25 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Masud Hassan"
 description: "Masud Hassan is a Mid-career Biochar researcher at Guizhou University in CN. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.070879
+date: 2026-03-23T11:46:59.556388
 url: "/cdr-researcher-census/researchers/masud-hassan-a5042541/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 9 |
 | Citations | 812 |
 | Publications | 15 |
-| CDR Focus | 13.3% |
+| CDR Focus | 670.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    74 citations · Biochar
 
 2. **Magnetically separable mesoporous alginate polymer beads assist adequate removal of aqueous methylene blue over broad solution pH** (2021)
-   45 citations · Biochar
+   45 citations
 
 ## External Profiles
 

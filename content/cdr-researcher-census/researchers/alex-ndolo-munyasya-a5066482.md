@@ -1,7 +1,7 @@
 ---
 title: "Alex Ndolo Munyasya"
 description: "Alex Ndolo Munyasya is a Mid-career Soil Carbon researcher at Lanzhou University in CN. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.299687
+date: 2026-03-23T11:46:59.974646
 url: "/cdr-researcher-census/researchers/alex-ndolo-munyasya-a5066482/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 411 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

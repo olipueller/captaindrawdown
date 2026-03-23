@@ -1,7 +1,7 @@
 ---
 title: "Sandylove Afrane"
 description: "Sandylove Afrane is a Senior General CDR researcher at Tianjin University in CN. With 50 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.939796
+date: 2026-03-23T11:46:59.272929
 url: "/cdr-researcher-census/researchers/sandylove-afrane-a5021147/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 25 |
 | Citations | 1,945 |
 | Publications | 50 |
-| CDR Focus | 32.0% |
+| CDR Focus | 2600.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -54,13 +54,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    41 citations · General CDR
 
 3. **Role of negative emission technologies in South Africa's pathway to net zero emissions by 2050** (2024)
-   28 citations · BECCS
+   28 citations · General CDR
 
 4. **Deployment expectations of multi-gigatonne scale carbon removal could have adverse impacts on Asia’s energy-water-land nexus** (2024)
    22 citations · General CDR
 
 5. **Does China's pathway to carbon neutrality require the integration of land-based biological negative emission solutions with geochemical and chemical alternatives?** (2023)
-   16 citations · General CDR
+   16 citations · Enhanced Weathering
 
 6. **Targeted carbon dioxide removal measures are essential for the cost and energy transformation of the electricity sector by 2050** (2025)
    13 citations · General CDR
@@ -69,7 +69,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    13 citations · General CDR
 
 8. **Carbon dioxide removal and net zero emissions in Africa: an integrated assessment modelling based on three different land-based negative emission solutions** (2024)
-   7 citations · BECCS
+   7 citations · General CDR
 
 9. **Deployment of carbon removal technologies could reduce the rapid and potentially disruptive pace of decarbonization in South Africa's climate ambitions** (2024)
    6 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Leon Barron"
 description: "Leon Barron is a Mid-career Biochar researcher at Imperial College London in GB. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.170728
+date: 2026-03-23T11:47:01.171250
 url: "/cdr-researcher-census/researchers/leon-barron-a5082797/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 7 |
 | Citations | 126 |
 | Publications | 14 |
-| CDR Focus | 14.3% |
+| CDR Focus | 710.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    14 citations · Biochar
 
 2. **Biochar filtration of drug-resistant bacteria and active pharmaceutical ingredients to combat antimicrobial resistance** (2024)
-   3 citations · Biochar
+   3 citations
 
 ## External Profiles
 

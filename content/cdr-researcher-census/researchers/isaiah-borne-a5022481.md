@@ -1,7 +1,7 @@
 ---
 title: "Isaiah Borne"
-description: "Isaiah Borne is a Mid-career DAC researcher at University of Liverpool in GB. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.856857
+description: "Isaiah Borne is a Mid-career carbon dioxide removal researcher at University of Liverpool in GB. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.803269
 url: "/cdr-researcher-census/researchers/isaiah-borne-a5022481/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ University of Liverpool · 🇬🇧 GB
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,22 +39,22 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 8 |
 | Citations | 176 |
 | Publications | 17 |
-| CDR Focus | 23.5% |
+| CDR Focus | 1180.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Amine-functionalized MIL-101(Cr) fibers for direct air capture at cold temperatures using rapid temperature vacuum swing adsorption** (2023)
-   29 citations · DAC
+   29 citations
 
 2. **Bottom-up computational design of shape-selective organic macrocycles for humid CO2 capture** (2025)
-   9 citations · DAC
+   9 citations
 
 3. **Bottom-Up Computational Design of Shape-Selective Organic Macrocycles for Humid CO2 Capture** (2024)
-   2 citations · DAC
+   2 citations
 
 4. **Amine-Functionalized Mil-101(Cr) Fibers for Direct Air Capture at Cold Temperatures Using Rapid Temperature Vacuum Swing Adsorption** (2023)
-   1 citations · DAC
+   1 citations
 
 ## External Profiles
 

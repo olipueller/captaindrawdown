@@ -1,7 +1,7 @@
 ---
 title: "Jennifer Wade"
 description: "Jennifer Wade is a Senior DAC researcher at Northern Arizona University in US. With 25 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.401015
+date: 2026-03-23T11:47:00.134578
 url: "/cdr-researcher-census/researchers/jennifer-wade-a5071605/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,40 +45,40 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 5 |
 | Citations | 336 |
 | Publications | 25 |
-| CDR Focus | 52.0% |
+| CDR Focus | 3200.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Moisture-driven CO2 pump for direct air capture** (2023)
-   22 citations · DAC
+   22 citations
 
 2. **Experimental investigation and modeling of CO2-Water Co-Sorption isotherms on a Moisture-Swing sorbent for CO2 Direct air capture** (2025)
-   5 citations · DAC
+   5 citations
 
 3. **H<sub>2</sub>O and CO<sub>2</sub> Sorption in Ion-Exchange Sorbents: Distinct Interactions in Amine Versus Quaternary Ammonium Materials** (2025)
-   4 citations · DAC
+   4 citations
 
 4. **CO <sub>2</sub> Sorption in Moisture Swing Anion Exchange Resins for Direct Air Capture: Experimental Isotherm Determination and Modeling** (2026)
-   2 citations · DAC
+   2 citations
 
 5. **Surface-Enhanced Raman Detection of the CO <sub>2</sub> Moisture Swing** (2025)
-   1 citations · DAC
+   1 citations
 
 6. **Comprehensive structural characterization of charged polymers involved in moisture-driven direct air capture** (2026)
-   0 citations · DAC
+   0 citations
 
 7. **Characterizing and modeling the mechanical behavior of an anion exchange membrane for carbon capture applications** (2025)
-   0 citations · DAC
+   0 citations
 
 8. **Characterizing and modeling the mechanical behavior of an anion exchange membrane for carbon capture applications** (2025)
-   0 citations · DAC
+   0 citations
 
 9. **Comprehensive Structural Characterization of Charged Polymers Involved in Moisture-Driven Direct Air Capture** (2025)
-   0 citations · DAC
+   0 citations
 
 10. **Comprehensive Structural Characterization of Charged Polymers Involved in Moisture-Driven Direct Air Capture** (2025)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

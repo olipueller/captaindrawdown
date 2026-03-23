@@ -1,7 +1,7 @@
 ---
 title: "Mahmoud Sleem"
 description: "Mahmoud Sleem is a Mid-career Soil Carbon researcher at University of Nebraska–Lincoln in US. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.416543
+date: 2026-03-23T11:47:01.432286
 url: "/cdr-researcher-census/researchers/mahmoud-sleem-a5024871/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 3 |
 | Citations | 101 |
 | Publications | 5 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

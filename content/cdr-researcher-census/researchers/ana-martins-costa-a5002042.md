@@ -1,7 +1,7 @@
 ---
 title: "Ana Martins Costa"
-description: "Ana Martins Costa is a Mid-career General CDR researcher at University of Twente in NL. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.629126
+description: "Ana Martins Costa is a Mid-career carbon dioxide removal researcher at University of Twente in NL. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.485894
 url: "/cdr-researcher-census/researchers/ana-martins-costa-a5002042/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ University of Twente · 🇳🇱 NL
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,16 +39,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 7 |
 | Citations | 235 |
 | Publications | 19 |
-| CDR Focus | 10.5% |
+| CDR Focus | 530.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Additional Carbon Dioxide Removal by Oxygenated Dialysis Fluid: Insights for the Development of a Novel Lung and Kidney Assist Device** (2025)
-   1 citations · General CDR
+   1 citations
 
 2. **PULM2: Combining Extracorporeal Lung and Kidney Support: Evaluation of Fibre Configurations on Gas Exchange Preservation for the Development of a Novel Highly Integrated Device (RenOx)** (2023)
-   1 citations · General CDR
+   1 citations
 
 ## External Profiles
 

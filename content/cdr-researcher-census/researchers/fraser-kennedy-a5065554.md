@@ -1,7 +1,7 @@
 ---
 title: "Fraser Kennedy"
 description: "Fraser Kennedy is a Mid-career Ocean CDR researcher at University of Tasmania in AU. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.267127
+date: 2026-03-23T11:46:59.925213
 url: "/cdr-researcher-census/researchers/fraser-kennedy-a5065554/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 9 |
 | Citations | 438 |
 | Publications | 26 |
-| CDR Focus | 15.4% |
+| CDR Focus | 1150.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,13 +54,13 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    145 citations · Ocean CDR
 
 2. **Assessing the influence of ocean alkalinity enhancement on a coastal phytoplankton community** (2022)
-   9 citations · Ocean CDR
+   9 citations
 
 3. **Comment on bg-2022-17** (2022)
    0 citations · Ocean CDR
 
 4. **Comment on bg-2022-17** (2022)
-   0 citations · Ocean CDR
+   0 citations · General CDR
 
 ## External Profiles
 

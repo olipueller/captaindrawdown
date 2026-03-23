@@ -1,7 +1,7 @@
 ---
 title: "Susan Quick"
-description: "Susan Quick is a Mid-career Soil Carbon researcher at University of Birmingham in GB. With 20 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.879092
+description: "Susan Quick is a Mid-career General CDR researcher at University of Birmingham in GB. With 20 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.833325
 url: "/cdr-researcher-census/researchers/susan-quick-a5064910/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Birmingham · 🇬🇧 GB
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 172 |
 | Publications | 20 |
-| CDR Focus | 15.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,10 +54,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    9 citations · Soil Carbon
 
 2. **Does elevated CO2 alter root architecture and biomass after 5 years in a mature temperate woodland?** (2023)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 3. **Soil moisture and temperature dynamics in juvenile and mature forest as a result of tree growth, hydrometeorological forcings, and drought.** (2023)
-   0 citations · Soil Carbon
+   0 citations
 
 ## External Profiles
 

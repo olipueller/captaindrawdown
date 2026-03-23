@@ -1,7 +1,7 @@
 ---
 title: "Songfeng Gao"
 description: "Songfeng Gao is a Senior Soil Carbon researcher at Henan University of Urban Construction in CN. With 32 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.623177
+date: 2026-03-23T11:47:00.476812
 url: "/cdr-researcher-census/researchers/songfeng-gao-a5056553/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 238 |
 | Publications | 32 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

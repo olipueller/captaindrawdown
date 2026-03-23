@@ -1,7 +1,7 @@
 ---
 title: "Audil Gull"
 description: "Audil Gull is an Early-career Soil Carbon researcher. With 16 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.302917
+date: 2026-03-23T11:46:59.980049
 url: "/cdr-researcher-census/researchers/audil-gull-a5051405/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -37,13 +37,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 408 |
 | Publications | 16 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Biostimulants towards Soil Health Improvement: A Review** (2022)
-   3 citations · Biochar
+   3 citations · Soil Carbon
 
 2. **FOREST FLOORS TO FARMLANDS: UNVEILING DEPTH-WISE DYNAMICS OF VERY LABILE CARBON IN NORTH-WESTERN HIMALAYAS** (2025)
    0 citations · Soil Carbon

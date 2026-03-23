@@ -1,7 +1,7 @@
 ---
 title: "Qaiser Hussain"
 description: "Qaiser Hussain is an Eminent Soil Carbon researcher at Pir Mehr Ali Shah Arid Agriculture University in PK. With 147 publications and an h-index of 42, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.877558
+date: 2026-03-23T11:46:59.112195
 url: "/cdr-researcher-census/researchers/qaiser-hussain-a5042485/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 42 |
 | Citations | 6,764 |
 | Publications | 147 |
-| CDR Focus | 12.2% |
+| CDR Focus | 1090.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    66 citations · Biochar
 
 3. **Optimizing Management Practices under Straw Regimes for Global Sustainable Agricultural Production** (2023)
-   24 citations · Soil Carbon
+   24 citations · General CDR
 
 4. **Carbon and nitrogen footprints of apple orchards in China's Loess Plateau under different fertilization regimes** (2023)
    23 citations · Soil Carbon
@@ -69,7 +69,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    12 citations · Soil Carbon
 
 7. **Utilisation of Climate‐Smart Conservation Agriculture Practices for Improved Soil Carbon Sequestration, Greenhouse Gas Mitigation and Sustainable Crop Productivity** (2025)
-   7 citations · Soil Carbon
+   7 citations · General CDR
 
 8. **Urease and β-glucosidase activity enhanced the transformation of functional groups of humin amended by straw and straw-derived biochar** (2022)
    5 citations · Biochar

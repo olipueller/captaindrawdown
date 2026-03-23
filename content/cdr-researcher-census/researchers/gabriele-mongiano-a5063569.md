@@ -1,0 +1,59 @@
+---
+title: "Gabriele Mongiano"
+description: "Gabriele Mongiano is a Mid-career General CDR researcher at Cereal Research Centre in IT. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.332215
+url: "/cdr-researcher-census/researchers/gabriele-mongiano-a5063569/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Gabriele Mongiano",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/gabriele-mongiano-a5063569/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Cereal Research Centre"
+  },
+  "sameAs": "https://openalex.org/A5063569754"
+}
+</script>
+
+## Profile
+
+**Gabriele Mongiano**  
+Cereal Research Centre · 🇮🇹 IT
+
+**Career Stage:** Mid-career
+
+## CDR Specialization
+
+**General CDR**
+
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 10 |
+| Citations | 277 |
+| Publications | 19 |
+| CDR Focus | 530.0% |
+| Trajectory | Exiting |
+
+## Top CDR Publications
+
+1. **A harmonized dataset relating alternative farmer management practices to crop yield, soil organic carbon stock, nitrous oxide emissions, and nitrate leaching generated using IPCC methodologies and meta-analyses** (2024)
+   2 citations · General CDR
+
+## External Profiles
+
+- [OpenAlex](https://openalex.org/A5063569754)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

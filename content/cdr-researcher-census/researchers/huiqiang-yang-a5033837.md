@@ -1,7 +1,7 @@
 ---
 title: "Huiqiang Yang"
 description: "Huiqiang Yang is a Mid-career Soil Carbon researcher at Institute of Soil and Water Conservation in CN. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.521560
+date: 2026-03-23T11:47:00.338068
 url: "/cdr-researcher-census/researchers/huiqiang-yang-a5033837/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 275 |
 | Publications | 18 |
-| CDR Focus | 16.7% |
+| CDR Focus | 1670.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

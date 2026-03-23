@@ -1,7 +1,7 @@
 ---
 title: "Xiangchu Zeng"
 description: "Xiangchu Zeng is a Mid-career Biochar researcher at Hechi University in CN. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.279260
+date: 2026-03-23T11:46:59.943564
 url: "/cdr-researcher-census/researchers/xiangchu-zeng-a5023336/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 11 |
 | Citations | 428 |
 | Publications | 20 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

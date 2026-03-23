@@ -1,7 +1,7 @@
 ---
 title: "Rajan Ghimire"
 description: "Rajan Ghimire is a Senior Soil Carbon researcher at New Mexico State University in US. With 147 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.899919
+date: 2026-03-23T11:46:59.168592
 url: "/cdr-researcher-census/researchers/rajan-ghimire-a5049277/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 31 |
 | Citations | 3,556 |
 | Publications | 147 |
-| CDR Focus | 17.7% |
+| CDR Focus | 1560.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Soil organic carbon sequestration potential of conservation agriculture in arid and semi-arid regions: A review** (2023)
-   60 citations · Soil Carbon
+   60 citations · General CDR
 
 2. **Response of soil organic matter to cover cropping in water-limited environments** (2021)
    55 citations · Soil Carbon
@@ -69,16 +69,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    27 citations · Biochar
 
 7. **Carbon storage and sequestration rates in Leucaena leucocephala-based silvopasture in Southern Mexico** (2023)
-   22 citations · Soil Carbon
+   22 citations · General CDR
 
 8. **Biomass recovery along a tropical forest succession: Trends on tree diversity, wood traits and stand structure** (2024)
-   21 citations · Soil Carbon
+   21 citations
 
 9. **Cover cropping enhanced soil aggregation and associated carbon and nitrogen storage in semi-arid silage cropping systems** (2024)
    20 citations · Soil Carbon
 
 10. **Simulating long-term soil carbon storage, greenhouse gas balance, and crop yields in semi-arid cropping systems using DayCent model** (2024)
-   15 citations · Soil Carbon
+   15 citations · General CDR
 
 ## External Profiles
 

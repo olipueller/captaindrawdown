@@ -1,7 +1,7 @@
 ---
 title: "James Custer"
 description: "James Custer is a Mid-career DAC researcher at 8 Rivers Capital (United States) in US. With 37 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.367013
+date: 2026-03-23T11:47:00.082758
 url: "/cdr-researcher-census/researchers/james-custer-a5080736/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 10 |
 | Citations | 360 |
 | Publications | 37 |
-| CDR Focus | 10.8% |
+| CDR Focus | 810.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -60,7 +60,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    1 citations · DAC
 
 4. **Techno-economic analysis of a combined power plant CO2 capture and direct air capture concept for flexible power plant operation** (2023)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

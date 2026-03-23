@@ -1,7 +1,7 @@
 ---
 title: "Catarina Simões"
-description: "Catarina Simões is a Mid-career DAC researcher. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.915509
+description: "Catarina Simões is a Mid-career carbon dioxide removal researcher. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.882705
 url: "/cdr-researcher-census/researchers/catarina-simoes-a5015937/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -27,12 +27,6 @@ robots: "index, follow"
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -40,13 +34,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 5 |
 | Citations | 164 |
 | Publications | 8 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Electrochemical Regeneration of CO<sub>2</sub>-Rich Capture Solvents Towards Pilot Scale Implementation** (2025)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

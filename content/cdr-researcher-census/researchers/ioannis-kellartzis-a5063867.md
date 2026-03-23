@@ -1,7 +1,7 @@
 ---
 title: "Ioannis Kellartzis"
-description: "Ioannis Kellartzis is a Mid-career Biochar researcher at Aristotle University of Thessaloniki in GR. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.109992
+description: "Ioannis Kellartzis is a Mid-career carbon dioxide removal researcher at Aristotle University of Thessaloniki in GR. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.110624
 url: "/cdr-researcher-census/researchers/ioannis-kellartzis-a5063867/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Aristotle University of Thessaloniki · 🇬🇷 GR
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Biochar**
-
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 7 |
 | Citations | 133 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Thiol-Functionalization Carbonaceous Adsorbents for the Removal of Methyl-Mercury from Water in the ppb Levels** (2021)
-   11 citations · Biochar
+   11 citations
 
 ## External Profiles
 

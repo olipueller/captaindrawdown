@@ -1,7 +1,7 @@
 ---
 title: "Erika Callagon La Plante"
-description: "Erika Callagon La Plante is a Mid-career General CDR researcher at University of California, Davis in US. With 63 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.015006
+description: "Erika Callagon La Plante is a Mid-career Ocean CDR researcher at University of California, Davis in US. With 63 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.441302
 url: "/cdr-researcher-census/researchers/erika-callagon-la-plante-a5071999/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of California, Davis · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**Ocean CDR**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
 
 ## Metrics
 
@@ -45,25 +45,25 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 18 |
 | Citations | 1,088 |
 | Publications | 63 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1110.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Controls on CO<sub>2</sub> Mineralization Using Natural and Industrial Alkaline Solids under Ambient Conditions** (2021)
-   61 citations · General CDR
+   61 citations · Enhanced Weathering
 
 2. **Electrolytic Seawater Mineralization and the Mass Balances That Demonstrate Carbon Dioxide Removal** (2023)
-   54 citations · General CDR
+   54 citations · Ocean CDR
 
 3. **Process Simulations Reveal the Carbon Dioxide Removal Potential of a Process That Mineralizes Industrial Waste Streams via an Ion Exchange-Based Regenerable pH Swing** (2022)
-   9 citations · General CDR
+   9 citations · Enhanced Weathering
 
 4. **Seawater carbonate chemistry based carbon dioxide removal: towards commonly agreed principles for carbon monitoring, reporting, and verification** (2025)
    8 citations · General CDR
 
 5. **Electrolytic seawater mineralization and how it ensures (net) carbon dioxide removal** (2023)
-   2 citations · General CDR
+   2 citations · Ocean CDR
 
 6. **Seawater Enables High-Quality Carbon Removal** (2024)
    1 citations · General CDR
@@ -75,7 +75,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    0 citations · DAC
 
 9. **Net carbon dioxide removal via electrolytic seawater mineralization** (2023)
-   0 citations · General CDR
+   0 citations · Ocean CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Amy E. Daniels"
 description: "Amy E. Daniels is a Senior Soil Carbon researcher at United States Agency for International Development in US. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.159791
+date: 2026-03-23T11:46:59.724910
 url: "/cdr-researcher-census/researchers/amy-e-daniels-a5110391/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 11 |
 | Citations | 594 |
 | Publications | 20 |
-| CDR Focus | 10.0% |
+| CDR Focus | 500.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    13 citations · Soil Carbon
 
 2. **Coupling remote sensing and eDNA to monitor environmental impact: A pilot to quantify the environmental benefits of sustainable agriculture in the Brazilian Amazon** (2023)
-   0 citations · Soil Carbon
+   0 citations
 
 ## External Profiles
 

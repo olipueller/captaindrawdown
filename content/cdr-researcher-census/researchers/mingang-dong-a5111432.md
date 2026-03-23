@@ -1,7 +1,7 @@
 ---
 title: "Mingang Dong"
 description: "Mingang Dong is a Mid-career Soil Carbon researcher at Guangdong Provincial Academy of Environmental Science in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.687971
+date: 2026-03-23T11:47:00.564985
 url: "/cdr-researcher-census/researchers/mingang-dong-a5111432/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 218 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

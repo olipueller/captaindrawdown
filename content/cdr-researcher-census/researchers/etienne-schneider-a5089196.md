@@ -1,7 +1,7 @@
 ---
 title: "Etienne Schneider"
 description: "Etienne Schneider is a Mid-career General CDR researcher at University of Vienna in AT. With 40 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.197979
+date: 2026-03-23T11:46:59.791504
 url: "/cdr-researcher-census/researchers/etienne-schneider-a5089196/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 10 |
 | Citations | 531 |
 | Publications | 40 |
-| CDR Focus | 15.0% |
+| CDR Focus | 1250.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    16 citations · General CDR
 
 3. **The politics of carbon management in Austria: Emerging fault lines on carbon capture, storage, utilization and removal** (2024)
-   5 citations · BECCS
+   5 citations · General CDR
 
 4. **Existing demand-side climate change mitigation policies neglect avoid options** (2025)
    3 citations · General CDR
@@ -66,7 +66,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    2 citations · General CDR
 
 6. **Existing demand-side climate change mitigation policies neglect avoid options** (2025)
-   1 citations · General CDR
+   1 citations
 
 ## External Profiles
 

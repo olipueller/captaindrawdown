@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Yousaf Nadeem"
 description: "Muhammad Yousaf Nadeem is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.887382
+date: 2026-03-23T11:47:00.844747
 url: "/cdr-researcher-census/researchers/muhammad-yousaf-nadeem-a5090510/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 170 |
 | Publications | 13 |
-| CDR Focus | 23.1% |
+| CDR Focus | 2310.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

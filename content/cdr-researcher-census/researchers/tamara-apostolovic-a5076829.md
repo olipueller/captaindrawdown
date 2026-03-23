@@ -1,7 +1,7 @@
 ---
 title: "Tamara Apostolović"
-description: "Tamara Apostolović is a Mid-career Soil Carbon researcher at University of Novi Sad in RS. With 31 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.662829
+description: "Tamara Apostolović is a Mid-career Biochar researcher at University of Novi Sad in RS. With 31 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.529124
 url: "/cdr-researcher-census/researchers/tamara-apostolovic-a5076829/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Novi Sad ·  RS
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 225 |
 | Publications | 31 |
-| CDR Focus | 12.9% |
+| CDR Focus | 970.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    11 citations · Biochar
 
 3. **Impact of Biochar Aging on Soil Physicochemical Properties** (2025)
-   1 citations · Biochar
+   1 citations
 
 4. **Aging of biochar in a Cambisol for 13 years under organic farming field conditions affects its chemical structure but still shows positive impacts on plant growth** (2024)
    0 citations · Biochar

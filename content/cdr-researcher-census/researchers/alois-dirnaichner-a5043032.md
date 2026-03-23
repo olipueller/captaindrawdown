@@ -1,7 +1,7 @@
 ---
 title: "Alois Dirnaichner"
-description: "Alois Dirnaichner is a Mid-career DAC researcher. With 38 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.911068
+description: "Alois Dirnaichner is a Mid-career General CDR researcher. With 38 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.197981
 url: "/cdr-researcher-census/researchers/alois-dirnaichner-a5043032/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,9 +29,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -40,7 +40,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 17 |
 | Citations | 2,873 |
 | Publications | 38 |
-| CDR Focus | 15.8% |
+| CDR Focus | 1580.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -52,7 +52,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    431 citations · DAC
 
 3. **How to make climate-neutral aviation fly** (2023)
-   114 citations · DAC
+   114 citations
 
 4. **PRospective EnvironMental Impact asSEment (premise): astreamlined approach to producing databases for prospective Life Cycle Assessment using Integrated Assessment Models** (2022)
    36 citations · DAC
@@ -61,7 +61,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    26 citations · General CDR
 
 6. **Climate-neutral aviation: will it fly?** (2022)
-   1 citations · DAC
+   1 citations · General CDR
 
 ## External Profiles
 

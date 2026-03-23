@@ -1,7 +1,7 @@
 ---
 title: "Siavash Khalili"
 description: "Siavash Khalili is a Mid-career General CDR researcher at LUT University in FI. With 23 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.915421
+date: 2026-03-23T11:46:59.209580
 url: "/cdr-researcher-census/researchers/siavash-khalili-a5019517/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 17 |
 | Citations | 2,675 |
 | Publications | 23 |
-| CDR Focus | 17.4% |
+| CDR Focus | 1740.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

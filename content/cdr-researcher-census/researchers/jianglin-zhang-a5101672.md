@@ -1,7 +1,7 @@
 ---
 title: "Jianglin Zhang"
 description: "Jianglin Zhang is a Senior Soil Carbon researcher at Soil and Fertilizer Institute of Hunan Province in CN. With 31 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.102938
+date: 2026-03-23T11:46:59.617237
 url: "/cdr-researcher-census/researchers/jianglin-zhang-a5101672/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 14 |
 | Citations | 715 |
 | Publications | 31 |
-| CDR Focus | 12.9% |
+| CDR Focus | 970.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

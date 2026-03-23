@@ -1,7 +1,7 @@
 ---
 title: "Miriam Seifert"
 description: "Miriam Seifert is a Mid-career Ocean CDR researcher at Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung in DE. With 37 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.441215
+date: 2026-03-23T11:47:00.206112
 url: "/cdr-researcher-census/researchers/miriam-seifert-a5036998/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,25 +45,25 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 8 |
 | Citations | 311 |
 | Publications | 37 |
-| CDR Focus | 27.0% |
+| CDR Focus | 2430.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Interactions between ocean alkalinity enhancement and phytoplankton in an Earth system model** (2025)
-   3 citations · Ocean CDR
+   3 citations · General CDR
 
 2. **Interactions between ocean alkalinity enhancement and phytoplankton in an Earth System Model** (2025)
-   1 citations · Ocean CDR
+   1 citations
 
 3. **New/refined parameterizations for modelling ocean alkalinization effects on biogeochemistry and plankton dynamics** (2024)
-   1 citations · General CDR
+   1 citations · Ocean CDR
 
 4. **Efficacy of individual and combined terrestrial and marine carbon dioxide removal** (2025)
    0 citations · BECCS
 
 5. **Alkalinity enhancement in subduction regions and the global ocean: efficiency, earth system feedbacks, and scenario sensitivity** (2025)
-   0 citations · Ocean CDR
+   0 citations · General CDR
 
 6. **Prospects and Challenges of Investigating Ocean-Based Negative Emission Technologies: Insights from the OceanNETs Project** (2025)
    0 citations · General CDR
@@ -75,10 +75,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    0 citations · Ocean CDR
 
 9. **Towards Net Zero: Evaluating Combined Terrestrial and Marine CDR Approaches** (2025)
-   0 citations · BECCS
+   0 citations · General CDR
 
 10. **CO2 Removal Potential of Two Ocean-based NETs in Earth System Models in a Realistic Deployment Scenario** (2024)
-   0 citations · Ocean CDR
+   0 citations · General CDR
 
 ## External Profiles
 

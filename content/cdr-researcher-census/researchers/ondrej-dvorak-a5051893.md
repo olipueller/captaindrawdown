@@ -1,7 +1,7 @@
 ---
 title: "Ondřej Dvořák"
-description: "Ondřej Dvořák is a Mid-career Biochar researcher at Czech University of Life Sciences Prague in CZ. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.318977
+description: "Ondřej Dvořák is a Mid-career carbon dioxide removal researcher at Czech University of Life Sciences Prague in CZ. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.335100
 url: "/cdr-researcher-census/researchers/ondrej-dvorak-a5051893/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Czech University of Life Sciences Prague ·  CZ
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Biochar**
-
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,16 +39,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 6 |
 | Citations | 110 |
 | Publications | 18 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **TiO2/ZnO activated carbon composite for the removal of benzotriazole from water by a combination of sorption and photocatalytic processes** (2024)
-   1 citations · Biochar
+   1 citations
 
 2. **TiO2, ZnO carbon composite for the removal of benzotriazole from water by a combination of sorption and photocatalytic processes** (2024)
-   0 citations · Biochar
+   0 citations
 
 ## External Profiles
 

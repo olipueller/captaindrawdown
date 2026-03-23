@@ -1,7 +1,7 @@
 ---
 title: "Carsten Drechsler"
-description: "Carsten Drechsler is a Mid-career DAC researcher. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.216180
+description: "Carsten Drechsler is a Mid-career carbon dioxide removal researcher. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.223571
 url: "/cdr-researcher-census/researchers/carsten-drechsler-a5075273/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -27,12 +27,6 @@ robots: "index, follow"
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -40,13 +34,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 5 |
 | Citations | 120 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Characteristics of DAC operation within integrated PtG concepts** (2021)
-   13 citations · DAC
+   13 citations
 
 ## External Profiles
 

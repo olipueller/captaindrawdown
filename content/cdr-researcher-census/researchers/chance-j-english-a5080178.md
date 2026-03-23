@@ -1,7 +1,7 @@
 ---
 title: "Chance J. English"
 description: "Chance J. English is a Mid-career Ocean CDR researcher at Santa Barbara City College in US. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.303794
+date: 2026-03-23T11:47:01.318996
 url: "/cdr-researcher-census/researchers/chance-j-english-a5080178/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,16 +45,16 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 5 |
 | Citations | 111 |
 | Publications | 16 |
-| CDR Focus | 12.5% |
+| CDR Focus | 620.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Oxidation state of bioavailable dissolved organic matter influences bacterioplankton respiration and growth efficiency** (2025)
-   3 citations · Ocean CDR
+   3 citations
 
 2. **Methods for assessing Giant Kelp (Macrocystis pyrifera) biomass sinking rates and decomposition for carbon dioxide removal applications** (2023)
-   0 citations · General CDR
+   0 citations · Ocean CDR
 
 ## External Profiles
 

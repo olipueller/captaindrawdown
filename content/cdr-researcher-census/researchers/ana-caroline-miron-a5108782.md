@@ -1,7 +1,7 @@
 ---
 title: "Ana Caroline Miron"
-description: "Ana Caroline Miron is a Mid-career Soil Carbon researcher at Universität Hamburg in DE. With 9 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.622943
+description: "Ana Caroline Miron is a Mid-career carbon dioxide removal researcher at Universität Hamburg in DE. With 9 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.476305
 url: "/cdr-researcher-census/researchers/ana-caroline-miron-a5108782/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Universität Hamburg · 🇩🇪 DE
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 2 |
 | Citations | 238 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Direct evidence for phosphorus limitation on Amazon forest productivity** (2022)
-   211 citations · Soil Carbon
+   211 citations
 
 ## External Profiles
 

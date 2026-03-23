@@ -1,7 +1,7 @@
 ---
 title: "Anna Martins Moraes"
-description: "Anna Martins Moraes is an Early-career Soil Carbon researcher at National Institute of Amazonian Research in BR. With 1 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.713330
+description: "Anna Martins Moraes is an Early-career carbon dioxide removal researcher at National Institute of Amazonian Research in BR. With 1 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.598920
 url: "/cdr-researcher-census/researchers/anna-martins-moraes-a5003926/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ National Institute of Amazonian Research · 🇧🇷 BR
 
 **Career Stage:** Early-career
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 1 |
 | Citations | 211 |
 | Publications | 1 |
-| CDR Focus | 100.0% |
+| CDR Focus | 10000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Direct evidence for phosphorus limitation on Amazon forest productivity** (2022)
-   211 citations · Soil Carbon
+   211 citations
 
 ## External Profiles
 

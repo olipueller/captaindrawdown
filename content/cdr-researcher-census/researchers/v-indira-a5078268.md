@@ -1,7 +1,7 @@
 ---
 title: "V. Indira"
-description: "V. Indira is an Early-career General CDR researcher at Kerala Forest Research Institute in IN. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.406573
+description: "V. Indira is an Early-career carbon dioxide removal researcher at Kerala Forest Research Institute in IN. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.424252
 url: "/cdr-researcher-census/researchers/v-indira-a5078268/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Kerala Forest Research Institute · 🇮🇳 IN
 
 **Career Stage:** Early-career
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 3 |
 | Citations | 101 |
 | Publications | 5 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **A review on polymer based adsorbents for CO2 capture** (2021)
-   17 citations · General CDR
+   17 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Linquan Mu"
 description: "Linquan Mu is a Mid-career Ocean CDR researcher at Second People’s Hospital of Yibin in CN. With 30 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.850091
+date: 2026-03-23T11:47:00.795275
 url: "/cdr-researcher-census/researchers/linquan-mu-a5080569/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,28 +45,28 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 5 |
 | Citations | 177 |
 | Publications | 30 |
-| CDR Focus | 23.3% |
+| CDR Focus | 1330.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Considerations for hypothetical carbon dioxide removal via alkalinity addition in the Amazon River watershed** (2023)
-   25 citations · General CDR
+   25 citations · Ocean CDR
 
 2. **Considerations for hypothetical carbon dioxide removal via alkalinity addition in the Amazon River watershed** (2023)
-   3 citations · General CDR
+   3 citations
 
 3. **Reply on RC1** (2023)
-   0 citations · Ocean CDR
+   0 citations · General CDR
 
 4. **Reply on AC2** (2023)
-   0 citations · Ocean CDR
+   0 citations · General CDR
 
 5. **Reply on RC2** (2023)
-   0 citations · Ocean CDR
+   0 citations · General CDR
 
 6. **Comment on egusphere-2022-1505** (2023)
-   0 citations · Ocean CDR
+   0 citations
 
 7. **Supplementary material to "Considerations for hypothetical carbon dioxide removal via alkalinity addition in the Amazon River watershed"** (2023)
    0 citations · General CDR

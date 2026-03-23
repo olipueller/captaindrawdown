@@ -1,7 +1,7 @@
 ---
 title: "Kamil Stasiak"
 description: "Kamil Stasiak is a Mid-career BECCS researcher. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.801493
+date: 2026-03-23T11:47:00.712350
 url: "/cdr-researcher-census/researchers/kamil-stasiak-a5006549/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 6 |
 | Citations | 187 |
 | Publications | 15 |
-| CDR Focus | 33.3% |
+| CDR Focus | 2000.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

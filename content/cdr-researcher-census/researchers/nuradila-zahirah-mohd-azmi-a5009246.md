@@ -1,7 +1,7 @@
 ---
 title: "Nuradila Zahirah Mohd Azmi"
-description: "Nuradila Zahirah Mohd Azmi is an Early-career General CDR researcher at University of Malaya in MY. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.071258
+description: "Nuradila Zahirah Mohd Azmi is an Early-career Biochar researcher at University of Malaya in MY. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.066857
 url: "/cdr-researcher-census/researchers/nuradila-zahirah-mohd-azmi-a5009246/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Malaya · 🇲🇾 MY
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 3 |
 | Citations | 138 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Activated hydrochar derived from coconut shell and microalgae through hydrothermal carbonization for the CO<sub>2</sub> adsorption** (2023)
-   2 citations · General CDR
+   2 citations · Biochar
 
 ## External Profiles
 

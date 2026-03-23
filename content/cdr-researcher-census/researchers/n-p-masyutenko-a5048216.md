@@ -1,7 +1,7 @@
 ---
 title: "N. P. Masyutenko"
 description: "N. P. Masyutenko is a Mid-career Soil Carbon researcher at Kursk Federal Agrarian Scientific Center in RU. With 25 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.165491
+date: 2026-03-23T11:47:01.165093
 url: "/cdr-researcher-census/researchers/n-p-masyutenko-a5048216/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 3 |
 | Citations | 127 |
 | Publications | 25 |
-| CDR Focus | 12.0% |
+| CDR Focus | 1200.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    1 citations · Soil Carbon
 
 3. **Efficiency of Organic Carbon Sequestration in Typical Slightly Eroded Chernozem with the Use of Bioformulations** (2023)
-   0 citations · Soil Carbon
+   0 citations · Biochar
 
 ## External Profiles
 

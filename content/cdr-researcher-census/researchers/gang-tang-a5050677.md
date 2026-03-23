@@ -1,7 +1,7 @@
 ---
 title: "Gang Tang"
-description: "Gang Tang is a Senior Soil Carbon researcher at The University of Melbourne in AU. With 37 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.267607
+description: "Gang Tang is a Senior General CDR researcher at The University of Melbourne in AU. With 37 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.926193
 url: "/cdr-researcher-census/researchers/gang-tang-a5050677/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ The University of Melbourne · 🇦🇺 AU
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,25 +45,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 12 |
 | Citations | 438 |
 | Publications | 37 |
-| CDR Focus | 13.5% |
+| CDR Focus | 1350.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Synthesizing global carbon–nitrogen coupling effects – the MAGICC coupled carbon–nitrogen cycle model v1.0** (2025)
-   2 citations · Soil Carbon
+   2 citations · General CDR
 
 2. **Coupled Carbon-Nitrogen Cycle in MAGICC v1.0.0: Model Description and Calibration** (2024)
-   2 citations · Soil Carbon
+   2 citations · General CDR
 
 3. **Reply on RC1** (2024)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 4. **Reply on RC2** (2024)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 5. **Reply on RC3** (2024)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

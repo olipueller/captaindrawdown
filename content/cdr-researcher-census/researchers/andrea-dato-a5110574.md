@@ -1,7 +1,7 @@
 ---
 title: "Andrea Dato"
-description: "Andrea Dato is a Mid-career General CDR researcher. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.910156
+description: "Andrea Dato is a Mid-career carbon dioxide removal researcher. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.876186
 url: "/cdr-researcher-census/researchers/andrea-dato-a5110574/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -24,12 +24,6 @@ robots: "index, follow"
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -37,13 +31,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 5 |
 | Citations | 165 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Clinical Evaluation of the Eurosets Trilly Oxygenator During Cardiopulmonary Bypass in a Pediatric Population** (2023)
-   0 citations · General CDR
+   0 citations
 
 ## External Profiles
 

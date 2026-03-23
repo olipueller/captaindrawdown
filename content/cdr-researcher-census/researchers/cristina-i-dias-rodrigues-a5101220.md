@@ -1,7 +1,7 @@
 ---
 title: "Cristina I. Dias Rodrigues"
 description: "Cristina I. Dias Rodrigues is an Early-career Soil Carbon researcher at Polytechnic Institute of Viana do Castelo in PT. With 3 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.742678
+date: 2026-03-23T11:47:00.635289
 url: "/cdr-researcher-census/researchers/cristina-i-dias-rodrigues-a5101220/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,13 +42,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 1 |
 | Citations | 203 |
 | Publications | 3 |
-| CDR Focus | 66.7% |
+| CDR Focus | 6670.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Soil Carbon Sequestration in the Context of Climate Change Mitigation: A Review** (2023)
-   201 citations · Soil Carbon
+   201 citations · General CDR
 
 2. **Soil Vertical Distribution of Organic Carbon and Sequestration Potential in Ponte de Lima (Alto Minho Region, Northern Portugal)** (2024)
    1 citations · Soil Carbon

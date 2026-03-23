@@ -1,7 +1,7 @@
 ---
 title: "Guanghui Xu"
 description: "Guanghui Xu is a Mid-career Biochar researcher at University of Science and Technology of China in CN. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.787569
+date: 2026-03-23T11:47:00.694816
 url: "/cdr-researcher-census/researchers/guanghui-xu-a5079632/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 9 |
 | Citations | 191 |
 | Publications | 14 |
-| CDR Focus | 21.4% |
+| CDR Focus | 1430.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Christoph Rosinger"
 description: "Christoph Rosinger is a Mid-career Soil Carbon researcher at University of Cologne in DE. With 70 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.000755
+date: 2026-03-23T11:46:59.412700
 url: "/cdr-researcher-census/researchers/christoph-rosinger-a5035283/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 18 |
 | Citations | 1,183 |
 | Publications | 70 |
-| CDR Focus | 15.7% |
+| CDR Focus | 1430.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -57,13 +57,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    36 citations · Soil Carbon
 
 3. **Benchmarking carbon sequestration potentials in arable soils by on-farm research on innovative pioneer farms** (2022)
-   25 citations · Soil Carbon
+   25 citations
 
 4. **Changes in microbial physiology and carbon-use efficiency upon improving soil habitat conditions in conservation farming systems** (2024)
    18 citations · Soil Carbon
 
 5. **Potential for agricultural recycling of struvite and zeolites to improve soil microbial physiology and mitigate CO2 emissions** (2024)
-   11 citations · Soil Carbon
+   11 citations · General CDR
 
 6. **Linking soil microbial carbon sequestration to cover crop diversification in agricultural soil systems across Europe** (2023)
    1 citations · Soil Carbon
@@ -78,7 +78,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    0 citations · Soil Carbon
 
 10. **Improved prediction of soil organic carbon sequestration potentials in Austrian arable soils as simulated by multi-model ensembles** (2023)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

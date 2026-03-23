@@ -1,7 +1,7 @@
 ---
 title: "Zhenzhen Lv"
 description: "Zhenzhen Lv is a Mid-career Soil Carbon researcher at Zhengzhou Fruit Research Institute in CN. With 27 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.363920
+date: 2026-03-23T11:47:00.077188
 url: "/cdr-researcher-census/researchers/zhenzhen-lv-a5062724/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 363 |
 | Publications | 27 |
-| CDR Focus | 11.1% |
+| CDR Focus | 740.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Shinichirou Morimoto"
 description: "Shinichirou Morimoto is a Senior General CDR researcher at National Institute of Advanced Industrial Science and Technology in JP. With 36 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.603580
+date: 2026-03-23T11:47:00.447663
 url: "/cdr-researcher-census/researchers/shinichirou-morimoto-a5061382/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 9 |
 | Citations | 244 |
 | Publications | 36 |
-| CDR Focus | 22.2% |
+| CDR Focus | 1940.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

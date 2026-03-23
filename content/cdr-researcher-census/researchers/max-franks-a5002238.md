@@ -1,7 +1,7 @@
 ---
 title: "Max Franks"
 description: "Max Franks is a Mid-career General CDR researcher at University of Potsdam in DE. With 31 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.379773
+date: 2026-03-23T11:47:00.102249
 url: "/cdr-researcher-census/researchers/max-franks-a5002238/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 9 |
 | Citations | 350 |
 | Publications | 31 |
-| CDR Focus | 25.8% |
+| CDR Focus | 1290.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -60,7 +60,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    14 citations · General CDR
 
 4. **On the Governance of Carbon Dioxide Removal – A Public Economics Perspective** (2024)
-   8 citations · General CDR
+   8 citations
 
 5. **The Economics of Carbon Dioxide Removal** (2025)
    4 citations · General CDR
@@ -72,7 +72,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    2 citations · General CDR
 
 8. **Pigou’s Advice and Sisyphus’ Warning: Carbon Pricing with Non-Permanent Carbon Dioxide Removal** (2026)
-   1 citations · General CDR
+   1 citations
 
 ## External Profiles
 

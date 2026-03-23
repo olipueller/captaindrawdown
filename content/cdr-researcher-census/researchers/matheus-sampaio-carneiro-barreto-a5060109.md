@@ -1,7 +1,7 @@
 ---
 title: "Matheus Sampaio Carneiro Barreto"
 description: "Matheus Sampaio Carneiro Barreto is a Mid-career Soil Carbon researcher at Université Mohammed VI Polytechnique in MA. With 38 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.108451
+date: 2026-03-23T11:46:59.628639
 url: "/cdr-researcher-census/researchers/matheus-sampaio-carneiro-barreto-a5060109/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 14 |
 | Citations | 698 |
 | Publications | 38 |
-| CDR Focus | 13.2% |
+| CDR Focus | 1320.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Paul Rößner"
 description: "Paul Rößner is a Mid-career DAC researcher at University of Stuttgart in DE. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.295078
+date: 2026-03-23T11:47:01.307347
 url: "/cdr-researcher-census/researchers/paul-roner-a5068862/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 5 |
 | Citations | 112 |
 | Publications | 16 |
-| CDR Focus | 18.8% |
+| CDR Focus | 1880.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Direct Air Capture via Counter‐Current NaOH Absorption System: Evolution of pH for Subsequent Plasma‐Enhanced CO₂ Utilization** (2025)
-   2 citations · DAC
+   2 citations
 
 2. **Integrating Direct Air Capture Technology and Plasma Based Calcination for Sustainable Syngas and Concrete – An Experimental Investigation** (2026)
    0 citations · DAC

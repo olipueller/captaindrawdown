@@ -1,7 +1,7 @@
 ---
 title: "Xiao Zhang"
-description: "Xiao Zhang is a Mid-career Soil Carbon researcher at Northwest A&F University in CN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.380704
+description: "Xiao Zhang is a Mid-career carbon dioxide removal researcher at Northwest A&F University in CN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.104354
 url: "/cdr-researcher-census/researchers/xiao-zhang-a5100320/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Northwest A&F University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,16 +39,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 350 |
 | Publications | 16 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Variations of Ecosystem Services Supply and Demand on the Southeast Hilly Area of China: Implications for Ecosystem Protection and Restoration Management** (2023)
-   7 citations · Soil Carbon
+   7 citations
 
 2. **Relationship between Ecosystem-Services Trade-Offs and Supply–Demand Balance along a Precipitation Gradient: A Case Study in the Central Loess Plateau of China** (2024)
-   4 citations · Soil Carbon
+   4 citations
 
 ## External Profiles
 

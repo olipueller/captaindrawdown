@@ -1,7 +1,7 @@
 ---
 title: "Zixu Qiao"
-description: "Zixu Qiao is a Mid-career Soil Carbon researcher at Inner Mongolia Agricultural University in CN. With 27 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.289674
+description: "Zixu Qiao is a Mid-career General CDR researcher at Inner Mongolia Agricultural University in CN. With 27 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.301499
 url: "/cdr-researcher-census/researchers/zixu-qiao-a5062075/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Inner Mongolia Agricultural University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 113 |
 | Publications | 27 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    15 citations · Soil Carbon
 
 2. **Effect and suitability evaluation of vegetation restoration on carbon, water, and sand** (2026)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 3. **Future climate change impacts on carbon dynamics and ecohydrological risks in the West Liao river Basin, China: implications for carbon management** (2025)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

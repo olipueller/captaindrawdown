@@ -1,7 +1,7 @@
 ---
 title: "L. Poletti"
-description: "L. Poletti is a Senior DAC researcher at University of Parma in IT. With 9 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.193080
+description: "L. Poletti is a Senior carbon dioxide removal researcher at University of Parma in IT. With 9 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.197562
 url: "/cdr-researcher-census/researchers/l-poletti-a5074002/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ University of Parma · 🇮🇹 IT
 
 **Career Stage:** Senior
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 2 |
 | Citations | 123 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Assessment of Carbon Capture Potential in Hospital Air Handling Units** (2026)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

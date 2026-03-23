@@ -1,7 +1,7 @@
 ---
 title: "Rajasekaran Murugan"
 description: "Rajasekaran Murugan is a Senior Soil Carbon researcher at Chennai Mathematical Institute in IN. With 62 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.032662
+date: 2026-03-23T11:46:59.477148
 url: "/cdr-researcher-census/researchers/rajasekaran-murugan-a5058359/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,34 +45,34 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 18 |
 | Citations | 975 |
 | Publications | 62 |
-| CDR Focus | 12.9% |
+| CDR Focus | 810.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Quality assessment of meta-analyses on soil organic carbon** (2023)
-   29 citations · Biochar
+   29 citations · General CDR
 
 2. **Quality Assessment of Meta-Analyses on Soil Organic Carbon** (2022)
-   1 citations · Biochar
+   1 citations
 
 3. **Microbial Biomass and Necromass in Austrian Soils** (2025)
    0 citations · Soil Carbon
 
 4. **Editorial for the <scp>EJP SOIL</scp> Special Issue 1 on “Climate‐Smart Sustainable Agricultural Soil Management for the Future”** (2025)
-   0 citations · Biochar
+   0 citations · General CDR
 
 5. **Cover Crops Affecting Pool Specific Soil Organic Carbon Sequestration in Cropland – A Meta-Analysis** (2023)
    0 citations · Soil Carbon
 
 6. **Comment on egusphere-2022-488** (2022)
-   0 citations · Biochar
+   0 citations
 
 7. **Comment on egusphere-2022-488** (2022)
-   0 citations · Biochar
+   0 citations · General CDR
 
 8. **Comment on egusphere-2022-488** (2022)
-   0 citations · Biochar
+   0 citations
 
 ## External Profiles
 

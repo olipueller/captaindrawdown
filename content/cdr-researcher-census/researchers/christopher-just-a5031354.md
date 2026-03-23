@@ -1,7 +1,7 @@
 ---
 title: "Christopher Just"
 description: "Christopher Just is a Mid-career Soil Carbon researcher at Technical University of Munich in DE. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.793697
+date: 2026-03-23T11:47:00.701808
 url: "/cdr-researcher-census/researchers/christopher-just-a5031354/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 190 |
 | Publications | 20 |
-| CDR Focus | 15.0% |
+| CDR Focus | 1500.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

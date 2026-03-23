@@ -1,7 +1,7 @@
 ---
 title: "Qinsi He"
 description: "Qinsi He is a Mid-career Soil Carbon researcher at Inner Mongolia Agricultural University in CN. With 26 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.093251
+date: 2026-03-23T11:46:59.600296
 url: "/cdr-researcher-census/researchers/qinsi-he-a5039597/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 13 |
 | Citations | 740 |
 | Publications | 26 |
-| CDR Focus | 11.5% |
+| CDR Focus | 1150.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    53 citations · Soil Carbon
 
 2. **Identifying effective agricultural management practices for climate change adaptation and mitigation: A win-win strategy in South-Eastern Australia** (2022)
-   36 citations · Soil Carbon
+   36 citations · General CDR
 
 3. **Global-to-regional variations in the effects of grassland management on soil carbon** (2026)
    0 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Shixian Xu"
-description: "Shixian Xu is a Mid-career Soil Carbon researcher at Xinjiang Agricultural University in CN. With 6 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.731296
+description: "Shixian Xu is a Mid-career carbon dioxide removal researcher at Xinjiang Agricultural University in CN. With 6 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.623037
 url: "/cdr-researcher-census/researchers/shixian-xu-a5025332/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Xinjiang Agricultural University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 206 |
 | Publications | 6 |
-| CDR Focus | 16.7% |
+| CDR Focus | 1670.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Influences of Ecological Restoration Programs on Ecosystem Services in Sandy Areas, Northern China** (2023)
-   16 citations · Soil Carbon
+   16 citations
 
 ## External Profiles
 

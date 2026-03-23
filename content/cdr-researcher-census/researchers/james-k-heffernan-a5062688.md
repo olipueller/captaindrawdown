@@ -1,7 +1,7 @@
 ---
 title: "James K. Heffernan"
-description: "James K. Heffernan is a Mid-career Soil Carbon researcher at The University of Queensland in AU. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.319536
+description: "James K. Heffernan is a Mid-career Ocean CDR researcher at The University of Queensland in AU. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.003592
 url: "/cdr-researcher-census/researchers/james-k-heffernan-a5062688/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ The University of Queensland · 🇦🇺 AU
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Ocean CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
 
 ## Metrics
 
@@ -45,16 +45,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 396 |
 | Publications | 18 |
-| CDR Focus | 11.1% |
+| CDR Focus | 560.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Abundant and active acetogens enhance the carbon dioxide sink of Blue Carbon ecosystems** (2025)
-   2 citations · Soil Carbon
+   2 citations · Ocean CDR
 
 2. **Abundant and active acetogens enhance the carbon dioxide sink of Blue Carbon ecosystems** (2025)
-   1 citations · General CDR
+   1 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Katinka Muri Krahn"
 description: "Katinka Muri Krahn is a Mid-career Biochar researcher at Lindum (Norway) in NO. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.744711
+date: 2026-03-23T11:47:00.637935
 url: "/cdr-researcher-census/researchers/katinka-muri-krahn-a5084067/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 5 |
 | Citations | 202 |
 | Publications | 6 |
-| CDR Focus | 66.7% |
+| CDR Focus | 3330.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

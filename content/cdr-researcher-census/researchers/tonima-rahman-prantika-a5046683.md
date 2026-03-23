@@ -1,7 +1,7 @@
 ---
 title: "Tonima Rahman Prantika"
 description: "Tonima Rahman Prantika is an Early-career Biochar researcher at Bangladesh University of Engineering and Technology in BD. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.943547
+date: 2026-03-23T11:47:00.917775
 url: "/cdr-researcher-census/researchers/tonima-rahman-prantika-a5046683/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 2 |
 | Citations | 159 |
 | Publications | 3 |
-| CDR Focus | 33.3% |
+| CDR Focus | 3330.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Constanze Werner"
-description: "Constanze Werner is a Mid-career BECCS researcher at Leibniz Association in DE. With 26 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.394977
+description: "Constanze Werner is a Mid-career General CDR researcher at Leibniz Association in DE. With 26 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.125175
 url: "/cdr-researcher-census/researchers/constanze-werner-a5086822/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Leibniz Association · 🇩🇪 DE
 
 ## CDR Specialization
 
-**BECCS**
+**General CDR**
 
-Combining biomass energy with carbon capture and storage to achieve negative emissions.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,13 +45,13 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 6 |
 | Citations | 340 |
 | Publications | 26 |
-| CDR Focus | 42.3% |
+| CDR Focus | 3080.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Potential of Land‐Neutral Negative Emissions Through Biochar Sequestration** (2022)
-   27 citations · BECCS
+   27 citations · Biochar
 
 2. **Responsible carbon dioxide removals and the EU’s 2040 climate target** (2024)
    11 citations · General CDR
@@ -60,13 +60,13 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
    7 citations · BECCS
 
 4. **Netcdf of LCN-PyCCS negative emission potentials as described in Werner et al., 2022 "Potential of land-neutral negative emissions through biochar sequestration"** (2023)
-   0 citations · Biochar
+   0 citations
 
 5. **Netcdf of negative emission potentials limited by planetary boundaries as reported in Braun et al. (2022): NEGEM Deliverable 3.2 - Global NETP biogeochemical potential and impact analysis constrained by interacting planetary boundaries** (2024)
-   0 citations · BECCS
+   0 citations
 
 6. **Netcdfs of negative emission potentials and impacts for BECCS or reforestation in line with diet changes as reported in Werner et al. (2023): NEGEM Deliverable 3.3 & Braun et al. (2023): NEGEM Deliverable 3.7** (2024)
-   0 citations · BECCS
+   0 citations
 
 7. **Netcdfs of negative emission potentials and impacts for BECCS or reforestation in line with diet changes as reported in Werner et al. (2023): NEGEM Deliverable 3.3 & Braun et al. (2023): NEGEM Deliverable 3.7** (2024)
    0 citations · BECCS

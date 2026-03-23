@@ -1,7 +1,7 @@
 ---
 title: "Juliana S. A. Carneiro"
-description: "Juliana S. A. Carneiro is a Senior DAC researcher at Columbia University in US. With 21 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.083349
+description: "Juliana S. A. Carneiro is a Senior carbon dioxide removal researcher at Columbia University in US. With 21 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.579852
 url: "/cdr-researcher-census/researchers/juliana-s-a-carneiro-a5035194/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Columbia University · 🇺🇸 US
 
 **Career Stage:** Senior
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,22 +39,22 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 14 |
 | Citations | 771 |
 | Publications | 21 |
-| CDR Focus | 19.0% |
+| CDR Focus | 1430.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Insights into the Oxidative Degradation Mechanism of Solid Amine Sorbents for CO <sub>2</sub> Capture from Air: Roles of Atmospheric Water** (2023)
-   95 citations · DAC
+   95 citations
 
 2. **Contributions of CO <sub>2</sub> , O <sub>2</sub> , and H <sub>2</sub> O to the Oxidative Stability of Solid Amine Direct Air Capture Sorbents at Intermediate Temperature** (2023)
-   47 citations · DAC
+   47 citations
 
 3. **Insights into the Oxidative Degradation Mechanism of Solid Amine Sorbents for CO <sub>2</sub> Capture from Air: Roles of Atmospheric Water** (2023)
-   13 citations · DAC
+   13 citations
 
 4. **Contributions of CO2, O2 and H2O to the Oxidative Stability of Solid Amine Direct Air Capture Sorbents at Intermediate Temperature** (2023)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

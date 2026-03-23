@@ -1,7 +1,7 @@
 ---
 title: "Neda Amanat"
 description: "Neda Amanat is a Mid-career Biochar researcher at University of Minnesota, Duluth in US. With 11 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.485051
+date: 2026-03-23T11:47:00.276578
 url: "/cdr-researcher-census/researchers/neda-amanat-a5085566/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 9 |
 | Citations | 291 |
 | Publications | 11 |
-| CDR Focus | 18.2% |
+| CDR Focus | 1820.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

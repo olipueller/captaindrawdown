@@ -1,7 +1,7 @@
 ---
 title: "Tania Timmermann"
-description: "Tania Timmermann is a Senior General CDR researcher at Miles College in US. With 22 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.014172
+description: "Tania Timmermann is a Senior Enhanced Weathering researcher at Miles College in US. With 22 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.440291
 url: "/cdr-researcher-census/researchers/tania-timmermann-a5054841/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Miles College · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**Enhanced Weathering**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 
@@ -42,7 +42,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 15 |
 | Citations | 1,090 |
 | Publications | 22 |
-| CDR Focus | 22.7% |
+| CDR Focus | 1360.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -57,10 +57,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    0 citations · Enhanced Weathering
 
 4. **Synergistic Effects of a Microbial Amendment and Crushed Basalt: Soil Geochemical and Microbial Responses** (2025)
-   0 citations · Enhanced Weathering
+   0 citations
 
 5. **Quantification of soil inorganic carbon using sulfamic acid and gas chromatography** (2025)
-   0 citations · General CDR
+   0 citations
 
 ## External Profiles
 

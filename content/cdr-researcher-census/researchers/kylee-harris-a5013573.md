@@ -1,7 +1,7 @@
 ---
 title: "Kylee Harris"
 description: "Kylee Harris is a Mid-career DAC researcher at National Renewable Energy Laboratory in US. With 22 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.456961
+date: 2026-03-23T11:47:00.232141
 url: "/cdr-researcher-census/researchers/kylee-harris-a5013573/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 7 |
 | Citations | 303 |
 | Publications | 22 |
-| CDR Focus | 13.6% |
+| CDR Focus | 1360.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    1 citations · DAC
 
 3. **Economic and Environmental Sustainability of an Integrated Direct Air Capture System with Advanced Algal Biofuel Production** (2021)
-   0 citations · DAC
+   0 citations · BECCS
 
 ## External Profiles
 

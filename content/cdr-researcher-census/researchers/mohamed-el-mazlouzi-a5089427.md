@@ -1,7 +1,7 @@
 ---
 title: "Mohamed El Mazlouzi"
 description: "Mohamed El Mazlouzi is a Mid-career Soil Carbon researcher at Département Environnement et Agronomie in FR. With 16 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.319824
+date: 2026-03-23T11:47:01.336753
 url: "/cdr-researcher-census/researchers/mohamed-el-mazlouzi-a5089427/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,19 +45,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 110 |
 | Publications | 16 |
-| CDR Focus | 18.8% |
+| CDR Focus | 1250.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Nitrogen budget and barley response to organic amendments in a sandy soil under simulated arid climate** (2025)
-   4 citations · Biochar
+   4 citations
 
 2. **Influence of biochar and compost and their interaction on carbon and nitrogen mineralization in a Saharan sandy soil** (2025)
    0 citations · Biochar
 
 3. **Nitrogen budget and barley response to organic amendments in a sandy soil under simulated arid climate** (2024)
-   0 citations · Biochar
+   0 citations · Soil Carbon
 
 ## External Profiles
 

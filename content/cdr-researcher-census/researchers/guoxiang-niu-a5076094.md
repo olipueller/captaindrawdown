@@ -1,7 +1,7 @@
 ---
 title: "Guoxiang Niu"
 description: "Guoxiang Niu is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 23 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.561714
+date: 2026-03-23T11:47:00.396221
 url: "/cdr-researcher-census/researchers/guoxiang-niu-a5076094/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 10 |
 | Citations | 259 |
 | Publications | 23 |
-| CDR Focus | 13.0% |
+| CDR Focus | 1300.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

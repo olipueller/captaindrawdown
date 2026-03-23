@@ -1,7 +1,7 @@
 ---
 title: "Ciaran Robb"
 description: "Ciaran Robb is a Mid-career Soil Carbon researcher at James Hutton Institute in GB. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.804307
+date: 2026-03-23T11:47:00.713921
 url: "/cdr-researcher-census/researchers/ciaran-robb-a5014917/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 187 |
 | Publications | 16 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **A deep learning approach for high‐resolution mapping of Scottish peatland degradation** (2024)
-   8 citations · Soil Carbon
+   8 citations · General CDR
 
 2. **Using Deep Learning and High-Resolution Imagery to Map the Condition of Scotland&amp;#8217;s Peatland Resource.** (2024)
    0 citations · Soil Carbon

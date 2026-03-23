@@ -1,7 +1,7 @@
 ---
 title: "Clare Heyward"
 description: "Clare Heyward is a Senior General CDR researcher at UiT The Arctic University of Norway in NO. With 35 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.026822
+date: 2026-03-23T11:46:59.466646
 url: "/cdr-researcher-census/researchers/clare-heyward-a5083853/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 12 |
 | Citations | 1,007 |
 | Publications | 35 |
-| CDR Focus | 11.4% |
+| CDR Focus | 860.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Reassessing the need for carbon dioxide removal: moral implications of alternative climate target pathways** (2024)
-   9 citations · BECCS
+   9 citations · General CDR
 
 2. **Specialty grand challenge: renaming our section to “Carbon Dioxide Removal”** (2023)
    6 citations · General CDR

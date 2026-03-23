@@ -1,7 +1,7 @@
 ---
 title: "Paolo Isoni"
-description: "Paolo Isoni is an Early-career General CDR researcher at Azienda USL di Bologna in IT. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.833313
+description: "Paolo Isoni is an Early-career carbon dioxide removal researcher at Azienda USL di Bologna in IT. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.771472
 url: "/cdr-researcher-census/researchers/paolo-isoni-a5061629/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Azienda USL di Bologna · 🇮🇹 IT
 
 **Career Stage:** Early-career
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 4 |
 | Citations | 181 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Supplementary Material for: Combined Renal-Pulmonary Extracorporeal Support with Low Blood Flow Techniques: A Retrospective Observational Study (CICERO Study)** (2021)
-   0 citations · General CDR
+   0 citations
 
 ## External Profiles
 

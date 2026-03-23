@@ -1,7 +1,7 @@
 ---
 title: "Asta Hooge"
-description: "Asta Hooge is a Mid-career Soil Carbon researcher at Roskilde University in DK. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.373582
+description: "Asta Hooge is a Mid-career carbon dioxide removal researcher at Roskilde University in DK. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.393125
 url: "/cdr-researcher-census/researchers/asta-hooge-a5021082/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ Roskilde University · 🇩🇰 DK
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 105 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Why a strong global plastics treaty is essential for agricultural systems, food safety, food security and human health** (2025)
-   2 citations · Soil Carbon
+   2 citations
 
 ## External Profiles
 

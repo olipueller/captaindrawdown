@@ -1,7 +1,7 @@
 ---
 title: "Zichao Zhao"
 description: "Zichao Zhao is a Mid-career Soil Carbon researcher at Shandong Academy of Agricultural Sciences in CN. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.465825
+date: 2026-03-23T11:47:00.246278
 url: "/cdr-researcher-census/researchers/zichao-zhao-a5102679/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 300 |
 | Publications | 20 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    5 citations · Soil Carbon
 
 2. **Effects of low-temperature stress during heading stage on carbon and nitrogen allocation in paddy eco-system of northeastern China** (2024)
-   0 citations · Soil Carbon
+   0 citations
 
 ## External Profiles
 

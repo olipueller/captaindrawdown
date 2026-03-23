@@ -1,7 +1,7 @@
 ---
 title: "Mohamed Farghali"
-description: "Mohamed Farghali is an Eminent Biochar researcher at Kobe University in JP. With 73 publications and an h-index of 41, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.872282
+description: "Mohamed Farghali is an Eminent General CDR researcher at Kobe University in JP. With 73 publications and an h-index of 41, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.099791
 url: "/cdr-researcher-census/researchers/mohamed-farghali-a5073724/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Kobe University · 🇯🇵 JP
 
 ## CDR Specialization
 
-**Biochar**
+**General CDR**
 
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 41 |
 | Citations | 8,603 |
 | Publications | 73 |
-| CDR Focus | 11.0% |
+| CDR Focus | 960.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,22 +54,22 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    436 citations · Biochar
 
 2. **RETRACTED ARTICLE: Artificial intelligence-based solutions for climate change: a review** (2023)
-   324 citations · Enhanced Weathering
+   324 citations · General CDR
 
 3. **Methods to prepare biosorbents and magnetic sorbents for water treatment: a review** (2023)
-   258 citations · Biochar
+   258 citations
 
 4. **Integration of biogas systems into a carbon zero and hydrogen economy: a review** (2022)
-   172 citations · Biochar
+   172 citations · BECCS
 
 5. **Materials, fuels, upgrading, economy, and life cycle assessment of the pyrolysis of algal and lignocellulosic biomass: a review** (2023)
    160 citations · Biochar
 
 6. **Life cycle assessment and techno-economic analysis of sustainable bioenergy production: a review** (2024)
-   136 citations · General CDR
+   136 citations · BECCS
 
 7. **Machine learning for membrane design in energy production, gas separation, and water treatment: a review** (2024)
-   82 citations · General CDR
+   82 citations
 
 8. **Life cycle assessment of biochar as a green sorbent for soil remediation** (2024)
    48 citations · Biochar

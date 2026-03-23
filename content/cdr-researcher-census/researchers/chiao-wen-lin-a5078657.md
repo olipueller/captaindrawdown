@@ -1,7 +1,7 @@
 ---
 title: "Chiao-Wen Lin"
 description: "Chiao-Wen Lin is a Mid-career Soil Carbon researcher at National Sun Yat-sen University in TW. With 28 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.453604
+date: 2026-03-23T11:47:00.227313
 url: "/cdr-researcher-census/researchers/chiao-wen-lin-a5078657/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 10 |
 | Citations | 305 |
 | Publications | 28 |
-| CDR Focus | 28.6% |
+| CDR Focus | 1430.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -57,22 +57,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    20 citations · Soil Carbon
 
 3. **Tidal influence on carbon dioxide and methane fluxes from tree stems and soils in mangrove forests** (2024)
-   7 citations · Soil Carbon
+   7 citations · General CDR
 
 4. **Exploring Spatial and Temporal Variations in Stem-Mediated Greenhouse Gas Emissions from Different Species of Mangroves** (2025)
-   1 citations · Soil Carbon
+   1 citations · General CDR
 
 5. **Comment on egusphere-2024-533** (2024)
-   0 citations · Soil Carbon
+   0 citations
 
 6. **Comment on egusphere-2024-533** (2024)
-   0 citations · Soil Carbon
+   0 citations
 
 7. **Comment on egusphere-2024-533** (2024)
-   0 citations · Soil Carbon
+   0 citations · Ocean CDR
 
 8. **Tidal influence on carbon dioxide and methane fluxes from tree stems and soils in mangrove forests** (2024)
-   0 citations · Soil Carbon
+   0 citations
 
 ## External Profiles
 

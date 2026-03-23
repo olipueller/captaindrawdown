@@ -1,7 +1,7 @@
 ---
 title: "Rajeswari Das"
 description: "Rajeswari Das is a Mid-career Soil Carbon researcher at Jharkhand Rai University in IN. With 29 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.678518
+date: 2026-03-23T11:47:00.551048
 url: "/cdr-researcher-census/researchers/rajeswari-das-a5103034/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,22 +45,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 221 |
 | Publications | 29 |
-| CDR Focus | 13.8% |
+| CDR Focus | 1380.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Carbon Sequestration Potential in Agricultural Systems** (2022)
-   8 citations · Soil Carbon
+   8 citations · General CDR
 
 2. **Potentials and Prospects of AMF for Soil Carbon Sequestration and Nutrient Cycling in Rice-Based Cropping System** (2024)
    2 citations · Soil Carbon
 
 3. **Evidence-Based Agroforestry Systems as Climate-Resilient Farming Practices for Improving Livelihood and Sustainability in India** (2024)
-   1 citations · Soil Carbon
+   1 citations · General CDR
 
 4. **Re-Carbonation of Terrestrial Production Landscapes Through Regenerative Agriculture** (2024)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

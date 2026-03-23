@@ -1,7 +1,7 @@
 ---
 title: "Swadhina Priyadarshini Lenka"
-description: "Swadhina Priyadarshini Lenka is a Mid-career Biochar researcher at University of Auckland in NZ. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.073191
+description: "Swadhina Priyadarshini Lenka is a Mid-career carbon dioxide removal researcher at University of Auckland in NZ. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.560595
 url: "/cdr-researcher-census/researchers/swadhina-priyadarshini-lenka-a5003939/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,12 +32,6 @@ University of Auckland · 🇳🇿 NZ
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Biochar**
-
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
-
 ## Metrics
 
 | Metric | Value |
@@ -45,13 +39,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 6 |
 | Citations | 801 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 1110.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **A review of the occurrence, transformation, and removal of poly- and perfluoroalkyl substances (PFAS) in wastewater treatment plants** (2021)
-   635 citations · Biochar
+   635 citations
 
 ## External Profiles
 

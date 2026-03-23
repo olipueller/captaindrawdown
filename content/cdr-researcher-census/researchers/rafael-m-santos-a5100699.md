@@ -1,7 +1,7 @@
 ---
 title: "Rafael M. Santos"
 description: "Rafael M. Santos is a Senior Enhanced Weathering researcher at University of Guelph in CA. With 246 publications and an h-index of 37, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.884518
+date: 2026-03-23T11:46:59.129778
 url: "/cdr-researcher-census/researchers/rafael-m-santos-a5100699/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 37 |
 | Citations | 5,410 |
 | Publications | 246 |
-| CDR Focus | 10.2% |
+| CDR Focus | 850.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -66,7 +66,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    13 citations · Enhanced Weathering
 
 6. **Multiscale Process Intensification of Waste Valorization Reactions** (2023)
-   13 citations · Enhanced Weathering
+   13 citations · General CDR
 
 7. **Monitoring Pedogenic Inorganic Carbon Accumulation Due to Weathering of Amended Silicate Minerals in Agricultural Soils.** (2021)
    13 citations · Enhanced Weathering
@@ -75,7 +75,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    10 citations · Enhanced Weathering
 
 9. **On-Site Determination of Soil Organic Carbon Content: A Photocatalytic Approach** (2024)
-   5 citations · Soil Carbon
+   5 citations
 
 10. **Nutrient-doped synthetic silicates for enhanced weathering, remineralization and fertilization on agricultural lands of global cold regions – A perspective on the research ahead** (2022)
    5 citations · Enhanced Weathering

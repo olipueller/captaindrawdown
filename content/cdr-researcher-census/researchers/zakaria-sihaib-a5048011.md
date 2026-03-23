@@ -1,7 +1,7 @@
 ---
 title: "Zakaria Sihaib"
-description: "Zakaria Sihaib is a Mid-career General CDR researcher at Al Zawiya University in LY. With 5 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.570859
+description: "Zakaria Sihaib is a Mid-career carbon dioxide removal researcher at Al Zawiya University in LY. With 5 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.409537
 url: "/cdr-researcher-census/researchers/zakaria-sihaib-a5048011/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Al Zawiya University ·  LY
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 2 |
 | Citations | 255 |
 | Publications | 5 |
-| CDR Focus | 20.0% |
+| CDR Focus | 2000.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Enhancement of Natural Gas Sweetening Performance Using Amine-Based Nanofluids** (2025)
-   0 citations · General CDR
+   0 citations
 
 ## External Profiles
 

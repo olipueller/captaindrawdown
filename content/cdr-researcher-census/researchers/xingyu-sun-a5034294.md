@@ -1,7 +1,7 @@
 ---
 title: "Xingyu Sun"
 description: "Xingyu Sun is a Mid-career Soil Carbon researcher at Harbin Normal University in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.998947
+date: 2026-03-23T11:47:00.987321
 url: "/cdr-researcher-census/researchers/xingyu-sun-a5034294/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 150 |
 | Publications | 13 |
-| CDR Focus | 23.1% |
+| CDR Focus | 1540.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

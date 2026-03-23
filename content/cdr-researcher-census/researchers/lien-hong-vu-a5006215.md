@@ -1,7 +1,7 @@
 ---
 title: "Lien Hong Vu"
-description: "Lien Hong Vu is a Mid-career General CDR researcher. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.128777
+description: "Lien Hong Vu is a Mid-career carbon dioxide removal researcher. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.662171
 url: "/cdr-researcher-census/researchers/lien-hong-vu-a5006215/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -24,12 +24,6 @@ robots: "index, follow"
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**General CDR**
-
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
-
 ## Metrics
 
 | Metric | Value |
@@ -37,13 +31,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 8 |
 | Citations | 653 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 1000.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **A Proof of Concept Study, Demonstrating Extracorporeal Carbon Dioxide Removal Using Hemodialysis with a Low Bicarbonate Dialysate** (2024)
-   0 citations · General CDR
+   0 citations
 
 ## External Profiles
 

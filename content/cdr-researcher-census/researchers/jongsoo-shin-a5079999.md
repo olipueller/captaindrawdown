@@ -1,7 +1,7 @@
 ---
 title: "Jongsoo Shin"
 description: "Jongsoo Shin is a Mid-career General CDR researcher at Woods Hole Oceanographic Institution in US. With 62 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.057869
+date: 2026-03-23T11:46:59.533945
 url: "/cdr-researcher-census/researchers/jongsoo-shin-a5079999/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 17 |
 | Citations | 855 |
 | Publications | 62 |
-| CDR Focus | 24.2% |
+| CDR Focus | 1770.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -63,7 +63,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    28 citations · General CDR
 
 5. **Hysteretic Behavior of Global to Regional Monsoon Area Under CO<sub>2</sub> Ramp‐Up and Ramp‐Down** (2023)
-   19 citations · General CDR
+   19 citations
 
 6. **General circulation and global heat transport in a quadrupling CO2 pulse experiment** (2022)
    9 citations · General CDR
@@ -72,10 +72,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    6 citations · General CDR
 
 8. **Pervasive fire danger continued under a negative emission scenario** (2024)
-   6 citations · Enhanced Weathering
+   6 citations · General CDR
 
 9. **Negative CO2 emissions mitigate extremes of the terrestrial hydrological cycle via a vegetation physiological feedback** (2023)
-   2 citations · Enhanced Weathering
+   2 citations · General CDR
 
 10. **Irreversible changes in surface temperature and precipitation to CO2 forcing** (2023)
    1 citations · General CDR

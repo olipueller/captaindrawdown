@@ -1,7 +1,7 @@
 ---
 title: "Prakriti Bista"
 description: "Prakriti Bista is a Mid-career Soil Carbon researcher at New Mexico State University in US. With 33 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.056993
+date: 2026-03-23T11:46:59.532598
 url: "/cdr-researcher-census/researchers/prakriti-bista-a5025192/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 14 |
 | Citations | 857 |
 | Publications | 33 |
-| CDR Focus | 18.2% |
+| CDR Focus | 1520.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    27 citations · Biochar
 
 2. **Simulating long-term soil carbon storage, greenhouse gas balance, and crop yields in semi-arid cropping systems using DayCent model** (2024)
-   15 citations · Soil Carbon
+   15 citations · General CDR
 
 3. **Soil organic carbon recovery and soil health in semi-arid drylands with years of transition to perennial grasses** (2024)
    14 citations · Soil Carbon
@@ -66,7 +66,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    0 citations · Soil Carbon
 
 6. **Case Studies in America on Carbon Management and Sequestration in Agriculture** (2024)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

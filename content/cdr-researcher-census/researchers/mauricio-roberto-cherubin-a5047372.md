@@ -1,7 +1,7 @@
 ---
 title: "Maurício Roberto Cherubin"
 description: "Maurício Roberto Cherubin is an Eminent Soil Carbon researcher at Universidade de São Paulo - Escola Superior de Agricultura Luiz de Queiroz in BR. With 302 publications and an h-index of 50, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.876161
+date: 2026-03-23T11:46:59.109266
 url: "/cdr-researcher-census/researchers/mauricio-roberto-cherubin-a5047372/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,31 +45,31 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 50 |
 | Citations | 7,047 |
 | Publications | 302 |
-| CDR Focus | 14.2% |
+| CDR Focus | 930.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Land Use and Management Effects on Sustainable Sugarcane-Derived Bioenergy** (2021)
-   109 citations · Soil Carbon
+   109 citations
 
 2. **Cover crops enhance soil health, crop yield and resilience of tropical agroecosystem** (2025)
-   33 citations · Enhanced Weathering
+   33 citations · Soil Carbon
 
 3. **Greenhouse gas fluxes in brazilian climate-smart agricultural and livestock systems: A systematic and critical overview** (2024)
-   22 citations · Soil Carbon
+   22 citations · General CDR
 
 4. **Soil health in Latin America and the Caribbean** (2025)
    20 citations · Soil Carbon
 
 5. **Carbon farming initiative: a national-scale public-private partnership to promote regenerative agriculture in Brazil** (2024)
-   14 citations · Soil Carbon
+   14 citations · General CDR
 
 6. **Soil carbon allocation, composition, and sequestration changes induced by cropping diversification in tropical systems** (2025)
-   12 citations · Enhanced Weathering
+   12 citations · Soil Carbon
 
 7. **Carbon Farming: Nature-Based Solutions in Brazil** (2023)
-   12 citations · Soil Carbon
+   12 citations · General CDR
 
 8. **How do soil processes control the provision of ecosystem services in coastal wetlands?** (2024)
    11 citations · Soil Carbon
@@ -78,7 +78,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    9 citations · Soil Carbon
 
 10. **Carbon balance in the sugarcane sector - Conference Report** (2022)
-   9 citations · Soil Carbon
+   9 citations · BECCS
 
 ## External Profiles
 

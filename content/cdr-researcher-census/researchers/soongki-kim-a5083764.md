@@ -1,7 +1,7 @@
 ---
 title: "Soong‐Ki Kim"
-description: "Soong‐Ki Kim is a Mid-career Ocean CDR researcher at Yale University in US. With 37 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.252242
+description: "Soong‐Ki Kim is a Mid-career General CDR researcher at Yale University in US. With 37 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:46:59.893154
 url: "/cdr-researcher-census/researchers/soongki-kim-a5083764/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Yale University · 🇺🇸 US
 
 ## CDR Specialization
 
-**Ocean CDR**
+**General CDR**
 
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 13 |
 | Citations | 456 |
 | Publications | 37 |
-| CDR Focus | 10.8% |
+| CDR Focus | 540.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    36 citations · General CDR
 
 3. **Strong El Niño and La Niña precipitation—sea surface temperature sensitivity under a carbon removal scenario** (2024)
-   4 citations · Ocean CDR
+   4 citations · General CDR
 
 4. **Irreversible changes in surface temperature and precipitation to CO2 forcing** (2023)
    1 citations · General CDR

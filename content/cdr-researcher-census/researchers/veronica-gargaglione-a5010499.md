@@ -1,7 +1,7 @@
 ---
 title: "Veronica Gargaglione"
-description: "Veronica Gargaglione is a Mid-career Soil Carbon researcher at National Agricultural Technology Institute in AR. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.705328
+description: "Veronica Gargaglione is a Mid-career carbon dioxide removal researcher at National Agricultural Technology Institute in AR. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:00.589396
 url: "/cdr-researcher-census/researchers/veronica-gargaglione-a5010499/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ National Agricultural Technology Institute ·  AR
 
 **Career Stage:** Mid-career
 
-## CDR Specialization
-
-**Soil Carbon**
-
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,13 +36,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 3 |
 | Citations | 213 |
 | Publications | 8 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Differential responses of soil microorganisms to precipitation changes in austral semiarid grasslands** (2023)
-   9 citations · Soil Carbon
+   9 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Jung Hun Lee"
-description: "Jung Hun Lee is a Senior DAC researcher at Northwestern University in US. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.064885
+description: "Jung Hun Lee is a Senior carbon dioxide removal researcher at Northwestern University in US. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-03-23T11:47:01.059712
 url: "/cdr-researcher-census/researchers/jung-hun-lee-a5032528/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,12 +29,6 @@ Northwestern University · 🇺🇸 US
 
 **Career Stage:** Senior
 
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
 ## Metrics
 
 | Metric | Value |
@@ -42,16 +36,16 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 3 |
 | Citations | 139 |
 | Publications | 6 |
-| CDR Focus | 33.3% |
+| CDR Focus | 3330.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Design of Electrified Fiber Sorbents for Direct Air Capture with Electrically‐Driven Temperature Vacuum Swing Adsorption** (2025)
-   1 citations · DAC
+   1 citations
 
 2. **Design of Electrified Fiber Sorbents for Direct Air Capture with Electrically‐Driven Temperature Vacuum Swing Adsorption (Adv. Mater. 45/2025)** (2025)
-   0 citations · DAC
+   0 citations
 
 ## External Profiles
 

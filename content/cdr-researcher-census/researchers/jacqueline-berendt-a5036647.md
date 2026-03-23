@@ -1,7 +1,7 @@
 ---
 title: "Jacqueline Berendt"
 description: "Jacqueline Berendt is a Mid-career Soil Carbon researcher at University of Rostock in DE. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.811605
+date: 2026-03-23T11:47:00.721397
 url: "/cdr-researcher-census/researchers/jacqueline-berendt-a5036647/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,16 +45,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 185 |
 | Publications | 16 |
-| CDR Focus | 12.5% |
+| CDR Focus | 1250.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Climate-Smart Agriculture Practices for Mitigating Greenhouse Gas Emissions** (2021)
-   15 citations · Biochar
+   15 citations · Soil Carbon
 
 2. **Greenhouse Gases from Agriculture** (2021)
-   8 citations · Enhanced Weathering
+   8 citations
 
 ## External Profiles
 

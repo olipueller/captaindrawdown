@@ -1,7 +1,7 @@
 ---
 title: "Surabhi Hota"
 description: "Surabhi Hota is a Mid-career Soil Carbon researcher at National Bureau of Soil Survey and Land Use Planning in IN. With 21 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.688698
+date: 2026-03-23T11:47:00.565760
 url: "/cdr-researcher-census/researchers/surabhi-hota-a5030210/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 218 |
 | Publications | 21 |
-| CDR Focus | 14.3% |
+| CDR Focus | 1430.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    0 citations · Soil Carbon
 
 3. **Digital Mapping of Soil Carbon: Techniques and Applications** (2023)
-   0 citations · Soil Carbon
+   0 citations · General CDR
 
 ## External Profiles
 

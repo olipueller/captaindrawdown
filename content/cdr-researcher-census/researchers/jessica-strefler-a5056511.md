@@ -1,7 +1,7 @@
 ---
 title: "Jessica Strefler"
 description: "Jessica Strefler is a Senior General CDR researcher at Potsdam Institute for Climate Impact Research in DE. With 93 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:05.866822
+date: 2026-03-23T11:46:59.090189
 url: "/cdr-researcher-census/researchers/jessica-strefler-a5056511/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 29 |
 | Citations | 12,190 |
 | Publications | 93 |
-| CDR Focus | 23.7% |
+| CDR Focus | 1610.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -60,16 +60,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    103 citations · General CDR
 
 4. **Bioenergy-induced land-use-change emissions with sectorally fragmented policies** (2023)
-   39 citations · General CDR
+   39 citations · BECCS
 
 5. **Understanding the carbon dioxide removal range in 1.5 °C compatible and high overshoot pathways** (2023)
    35 citations · General CDR
 
 6. **Exploring risks and benefits of overshooting a 1.5 °C carbon budget over space and time** (2023)
-   24 citations · Ocean CDR
+   24 citations · General CDR
 
 7. **An ecosystem of carbon dioxide removal reviews – part 1: direct air CO <sub>2</sub> capture and storage** (2025)
-   11 citations · DAC
+   11 citations · General CDR
 
 8. **Marine carbon dioxide removal by alkalinization should no longer be overlooked** (2024)
    11 citations · General CDR

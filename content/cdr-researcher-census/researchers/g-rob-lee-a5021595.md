@@ -1,7 +1,7 @@
 ---
 title: "G. Rob Lee"
 description: "G. Rob Lee is a Senior DAC researcher. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:07.345908
+date: 2026-03-23T11:47:01.362821
 url: "/cdr-researcher-census/researchers/g-rob-lee-a5021595/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -37,7 +37,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 2 |
 | Citations | 107 |
 | Publications | 3 |
-| CDR Focus | 33.3% |
+| CDR Focus | 3330.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

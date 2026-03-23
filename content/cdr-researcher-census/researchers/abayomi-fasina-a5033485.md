@@ -1,7 +1,7 @@
 ---
 title: "Abayomi Fasina"
 description: "Abayomi Fasina is a Mid-career Soil Carbon researcher at Osun State University in NG. With 25 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-22T05:13:06.877252
+date: 2026-03-23T11:47:00.831389
 url: "/cdr-researcher-census/researchers/abayomi-fasina-a5033485/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 172 |
 | Publications | 25 |
-| CDR Focus | 12.0% |
+| CDR Focus | 1200.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
