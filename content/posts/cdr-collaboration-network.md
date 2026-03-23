@@ -15,7 +15,7 @@ cover:
 >
 > This is the collaboration layer of our [CDR Researcher Census](/posts/cdr-researcher-census/). The data below reflects **v2 paper classifications** (24,749 papers, up from 21,804). Co-authorship is a proxy for collaboration, not a perfect measure of it. Some edges are noise (250-author mega-papers), some real collaborations happen without shared papers. I'm publishing because the patterns are too interesting to sit on. **Tell me what I'm getting wrong** — [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social) or [X](https://x.com/CaptainDrawdown).
 >
-> **Caveat:** DAC collapsed dramatically in v2 (30 papers, 48 authors). Cross-DAC collaboration data will be minimal. This is real.
+> **Update (v2.1):** DAC classifier was recalibrated — now 1,342 papers and 3,951 authors (up from 30/48 in initial v2). Cross-DAC collaboration data is now meaningful again.
 
 ---
 
@@ -47,7 +47,7 @@ Soil Carbon researchers write papers with other Soil Carbon researchers 94% of t
 
 The strongest cross-method bridge? **Soil Carbon ↔ Biochar** with 8,396 shared co-authorships. That makes intuitive sense — biochar is a soil amendment. The researchers overlap because the science overlaps.
 
-The weakest? **DAC is now largely isolated**, with only 97 co-authors shared with Biochar and 119 shared with General CDR. **Ocean CDR ↔ [Enhanced Weathering](/posts/what-is-enhanced-weathering/)** at 575. **BECCS ↔ Enhanced Weathering** at 18. These communities exist in parallel universes.
+The weakest? **DAC is now largely isolated**, with only 97 co-authors shared with Biochar and 119 shared with General CDR. **Ocean CDR ↔ [Enhanced Weathering](/posts/what-is-enhanced-weathering/)** at 575. **BECCS ↔ [Enhanced Weathering](/posts/what-is-enhanced-weathering/)** at 18. These communities exist in parallel universes.
 
 This matters because the hardest CDR problems are cross-method problems. Hybrid systems. Portfolio optimization. Life-cycle comparisons. MRV frameworks that work across pathways. If the researchers aren't talking to each other, those problems don't get solved.
 
@@ -87,7 +87,7 @@ The rarest — those bridging all seven methods — can be counted on one hand:
 
 A bridge score of 7 means their co-authors span all seven CDR pathways. These researchers are the connective tissue of the entire field. Notice something? They're all classified under "General CDR" — they're generalists by nature, not specialists who branched out. The field's bridges are built by people who started broad, not by specialists who crossed over.
 
-**Note on v2:** DAC has collapsed to just 30 papers and 48 authors. This means nobody now spans all 7 pathways *through meaningful DAC collaboration*—the bridge researchers listed above maintain their 7-pathway connections through General CDR and the other five methods, but their actual DAC footprint is minimal. A 7-pathway bridge in v2 is now more of a "6-pathway plus token DAC connection" in practical terms.
+**Update (v2.1):** DAC was recalibrated to 1,342 papers and 3,951 authors. 7-pathway bridges now include meaningful DAC collaboration again.
 
 Below the 7-bridge tier, bridge score 6 remains meaningful:
 

@@ -24,7 +24,7 @@ layout: "single"
 | Metric | Count |
 |--------|-------|
 | **Total CDR researchers** | 122,674 |
-| **CDR papers indexed** | 39,278 |
+| **CDR papers indexed** | 24,749 |
 | **Countries represented** | 186 |
 | **Institutions** | 18,108 |
 | **Researchers with ORCID** | 80,519 (66%) |
@@ -50,17 +50,17 @@ Browse **10,000+ individual researcher profiles** — each with metrics, publica
 
 | Pathway | Researchers | Papers | Companies* |
 |---------|-----------|--------|-----------|
-| Soil Carbon | 53,570 | ~17,600 | 7 |
-| General CDR | 18,724 | ~14,800 | — |
-| Enhanced Weathering | 14,148 | ~11,300 | 29 |
-| Biochar | 13,895 | ~12,500 | 312 |
-| DAC | 13,776 | ~11,100 | 128 |
-| Ocean CDR | 4,992 | ~5,800 | 20 |
-| BECCS | 3,570 | ~5,900 | 55 |
+| Soil Carbon | 50,126 | 12,651 | 7 |
+| General CDR | 32,947 | 9,572 | — |
+| Biochar | 20,685 | 4,684 | 312 |
+| Ocean CDR | 5,112 | 1,704 | 20 |
+| Enhanced Weathering | 4,406 | 1,259 | 29 |
+| DAC | 3,951 | 1,242 | 128 |
+| BECCS | 3,664 | 1,016 | 55 |
 
 *\*Company counts from [CDR Directory](/directory/), inferred by method. Many companies span multiple pathways.*
 
-**The researcher-company mismatch:** Soil Carbon has 53,570 researchers but only ~7 companies in our directory. DAC has 13,776 researchers and 128 companies. Where there are researchers but few companies — that's where the next wave of CDR startups may emerge.
+**The researcher-company mismatch:** Soil Carbon has 50,126 researchers but only ~7 companies in our directory. DAC has 3,951 researchers and 128 companies. Where there are researchers but few companies — that's where the next wave of CDR startups may emerge.
 
 ---
 
@@ -215,6 +215,7 @@ Browse **10,000+ individual researcher profiles** — each with metrics, publica
 |---------|------|---------|
 | v1 | 2026-03-18 | Initial launch. 122,674 authors, 39,278 papers. Keyword-based pathway classification. |
 | v2 | 2026-03-23 | LLM reclassification of all 37,350 papers by title + abstract (Gemini Flash). Removed 12,384 non-CDR papers. Papers: 39,278 → 24,749. Major corrections: DAC 2,372 → 30, Ocean CDR 737 → 1,835, Biochar 3,471 → 4,799, Soil Carbon 8,334 → 13,184. 11,237 authors reclassified with no remaining CDR papers. |
+| v2.1 | 2026-03-23 | DAC classifier recalibrated. Title+abstract pattern matching recovered 1,312 DAC papers missed by the v2 LLM. DAC: 30 → 1,342 papers, 48 → 3,951 authors. Other pathways unchanged. |
 
 ---
 

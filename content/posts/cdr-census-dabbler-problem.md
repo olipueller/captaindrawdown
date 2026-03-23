@@ -100,7 +100,7 @@ CDR isn't monolithic. Some technologies attract more committed researchers:
 | BECCS | 2,602 | 193 (7.4%) | Low | Dominated by energy systems researchers; CDR is auxiliary |
 | DAC | 48 | 2 (4.2%) | **Severely low** | ⚠️ *Known issue:* DAC collapsed in V2. Only 48 researchers classified; likely under-captured due to LLM classification or interdisciplinary naming (e.g., "direct capture" vs "direct air capture"). Needs investigation. |
 
-The standouts: **Ocean CDR and Enhanced Weathering** have the highest % of committed researchers (15% >10% CDR). These are specialist pathways with real depth. **General CDR** (14.6% core) suggests that researchers who see themselves as "generalist CDR researchers" tend to commit more than those who approach CDR from within another discipline.
+The standouts: **Ocean CDR and [Enhanced Weathering](/posts/what-is-enhanced-weathering/)** have the highest % of committed researchers (15% >10% CDR). These are specialist pathways with real depth. **General CDR** (14.6% core) suggests that researchers who see themselves as "generalist CDR researchers" tend to commit more than those who approach CDR from within another discipline.
 
 **Soil Carbon** is the behemoth — 32,495 researchers, but 93% are dabblers. This reflects the reality: soil carbon overlaps with agronomy, forestry, soil science. A huge base, shallow commitment.
 

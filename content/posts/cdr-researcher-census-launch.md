@@ -74,9 +74,7 @@ The pathways aren't created equal. Here's where the 24,749 papers landed (and th
 | Ocean CDR | 1,835 | 2,485 |
 | [Enhanced Weathering](/posts/what-is-enhanced-weathering/) | 1,326 | 3,344 |
 | BECCS | 1,063 | 2,602 |
-| DAC | 30 | 48 |
-
-**Known v2 Limitation:** DAC dropped from previous versions (was 2,372 in some older runs) to just 30 papers. The LLM was too aggressive filtering DAC work—it requires very precise language to stay in-pathway, and many DAC papers use broader terminology (e.g. "air capture" or "direct capture" without "DAC" in title/abstract). This is a known limitation we're refining. If you study DAC and don't see your papers, reach out — we're recalibrating the classifier.
+| DAC | 1,342 | 3,951 |
 
 ## The Growth Signal
 
