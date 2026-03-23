@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "Find Yourself in the CDR Census — 122,674 Researchers, Searchable"
-date: 2026-03-20T21:35:00+01:00
+date: 2026-03-23T21:35:00+01:00
 slug: "cdr-census-lookup-tool"
 aliases: ["/s/120"]
 description: "Search 122,674 researchers in CDR-related literature by name. See your pathway, commitment level, trajectory, and how you compare. Built on OpenAlex + ORCID open data."
@@ -26,11 +26,21 @@ The [CDR Researcher Lookup](/cdr-researcher-census/lookup/) lets you search 122,
 
 When [Lück et al. (2025)](https://doi.org/10.1038/s41467-025-56166-9) mapped 53,000 CDR papers in *Nature Communications*, they answered "how much CDR research exists?" I wanted to answer the next question: **who are the people doing it?**
 
-The result is the first researcher-centric census of the CDR field. Not just paper counts — actual profiles of every author, their career trajectories, and how deeply they're engaged with carbon removal.
+The result is the first researcher-centric census of the CDR field. Now in v2: 24,749 CDR papers, 122,674 authors, 80,382 with meaningful CDR work. Not just paper counts — actual profiles of every author, their career trajectories, and how deeply they're engaged with carbon removal.
 
-## It's v1 — Help Me Fix It
+## What's New in v2
 
-This data comes from [OpenAlex](https://openalex.org/) and [ORCID](https://orcid.org/). It's imperfect:
+v2 fixes the misclassification mess. Every paper got re-classified individually by LLM (title + abstract), so we yanked 12,384 false positives that snuck through v1. Result: stronger signal, fewer "is this really CDR?" false alarms.
+
+Real improvements:
+- LLM-per-paper classification (not just keyword soup)
+- 12,384 non-CDR papers removed
+- Cleaner researcher profiles
+- Better pathway accuracy
+
+## It's v2 — Help Me Fix It (It's Better)
+
+This data comes from [OpenAlex](https://openalex.org/) and [ORCID](https://orcid.org/). It's still imperfect:
 
 - Some researchers may be misclassified by pathway
 - Institution data is wrong for ~17% of authors without ORCID

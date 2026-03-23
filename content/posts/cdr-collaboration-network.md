@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "The Hidden Network: Who Collaborates on Carbon Removal?"
-date: 2026-03-22T18:00:00+01:00
+date: 2026-03-23T18:00:00+01:00
 slug: "cdr-collaboration-network"
 aliases: ["/s/138"]
 description: "CDR research isn't 122k individuals — it's 115 tribes, 417k co-authorship links, and a handful of rare bridge researchers who connect it all."
@@ -11,11 +11,11 @@ cover:
   alt: "CDR Collaboration Network"
 ---
 
-> **⚠️ Work in Progress — First Shot on Goal**
+> **📊 Data Update — v2 Collaboration Analysis**
 >
-> This is the collaboration layer of our [CDR Researcher Census](/posts/cdr-researcher-census/). Same caveats apply: real data, transparent methodology, but v1. Co-authorship is a proxy for collaboration, not a perfect measure of it. Some edges are noise (250-author mega-papers), some real collaborations happen without shared papers. I'm publishing because the patterns are too interesting to sit on. **Tell me what I'm getting wrong** — [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social) or [X](https://x.com/CaptainDrawdown).
+> This is the collaboration layer of our [CDR Researcher Census](/posts/cdr-researcher-census/). The data below reflects **v2 paper classifications** (24,749 papers, up from 21,804). Co-authorship is a proxy for collaboration, not a perfect measure of it. Some edges are noise (250-author mega-papers), some real collaborations happen without shared papers. I'm publishing because the patterns are too interesting to sit on. **Tell me what I'm getting wrong** — [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social) or [X](https://x.com/CaptainDrawdown).
 >
-> **📊 v1.1 (March 22):** Paper reclassification removed ~17,000 false positives. All numbers below reflect the cleaned dataset.
+> **Caveat:** DAC collapsed dramatically in v2 (30 papers, 48 authors). Cross-DAC collaboration data will be minimal. This is real.
 
 ---
 
@@ -35,19 +35,19 @@ The pathway collaboration matrix tells the story. Within-pathway co-authorships 
 
 | Pathway | Within-pathway edges | % of their total |
 |---|---|---|
-| Soil Carbon | 109,749 | ~96% |
-| General CDR | 74,129 | ~71% |
-| Biochar | 30,857 | ~93% |
-| DAC | 15,849 | ~93% |
-| [Enhanced Weathering](/posts/what-is-enhanced-weathering/) | 5,397 | ~92% |
-| Ocean CDR | 1,582 | ~85% |
-| BECCS | 9,978 | ~76% |
+| Soil Carbon | 121,323 | ~94% |
+| General CDR | 46,453 | ~68% |
+| Biochar | 31,206 | ~97% |
+| BECCS | 4,033 | ~76% |
+| [Enhanced Weathering](/posts/what-is-enhanced-weathering/) | 8,700 | ~91% |
+| Ocean CDR | 5,786 | ~86% |
+| DAC | 119 | ~98% |
 
-Soil Carbon researchers write papers with other Soil Carbon researchers 96% of the time. DAC researchers stay in the DAC world 93% of the time. The total cross-method edges — 40,404 — sound like a lot until you realize they're only about 10% of all 248,947 collaboration links.
+Soil Carbon researchers write papers with other Soil Carbon researchers 94% of the time. Biochar researchers stay in the Biochar world 97% of the time. DAC in v2 is nearly hermetic—98% within-method. The total cross-method edges — 40,404 — sound like a lot until you realize they're only about 10% of all 248,947 collaboration links.
 
-The strongest cross-method bridge? **Soil Carbon ↔ Biochar** with 5,808 shared co-authorships. That makes intuitive sense — biochar is a soil amendment. The researchers overlap because the science overlaps.
+The strongest cross-method bridge? **Soil Carbon ↔ Biochar** with 8,396 shared co-authorships. That makes intuitive sense — biochar is a soil amendment. The researchers overlap because the science overlaps.
 
-The weakest? **BECCS ↔ Ocean CDR** at relatively few co-authorships. **Biochar ↔ Ocean CDR** at 142. **[Enhanced Weathering](/posts/what-is-enhanced-weathering/) ↔ BECCS** at 160. These communities exist in parallel universes.
+The weakest? **DAC is now largely isolated**, with only 97 co-authors shared with Biochar and 119 shared with General CDR. **Ocean CDR ↔ Enhanced Weathering** at 575. **BECCS ↔ Enhanced Weathering** at 18. These communities exist in parallel universes.
 
 This matters because the hardest CDR problems are cross-method problems. Hybrid systems. Portfolio optimization. Life-cycle comparisons. MRV frameworks that work across pathways. If the researchers aren't talking to each other, those problems don't get solved.
 
@@ -59,17 +59,17 @@ Each tribe has a personality. A dominant pathway, a home country, anchor institu
 
 **The India Soil Carbon Network** (Community 21 — 2,286 researchers). India's massive agricultural research system, concentrated around ICAR institutes and Banaras Hindu University. 88% Soil Carbon, 68% India-based. Led by Ram Swaroop Meena (h-index 67) and the agricultural research institute network. This is the single largest research tribe in CDR — and it's almost entirely focused on one method in one country.
 
-**The Kuzyakov Cluster** (Community 24 — 1,549 researchers). Centered on Yakov Kuzyakov at Göttingen, the researcher with the highest network degree in the entire graph (548 co-authors). It's a Sino-German soil carbon community with the Chinese Academy of Sciences and Göttingen as twin anchors. Johannes Lehmann from Cornell — a biochar pioneer — sits in this cluster too, one of the rare cross-method connectors.
+**The Kuzyakov Cluster** (Community 24 — 1,549 researchers). Centered on Yakov Kuzyakov at Göttingen, the researcher with the highest network degree in the entire graph (482 co-authors). It's a Sino-German soil carbon community with the Chinese Academy of Sciences and Göttingen as twin anchors. Johannes Lehmann from Cornell — a biochar pioneer — sits in this cluster too, one of the rare cross-method connectors.
 
 **The Brazilian Soil Carbon Hub** (Community 62 — 1,059 researchers). 83% Soil Carbon, 61% Brazil, anchored by the University of São Paulo. Led by Maurício Cherubin (h-index 50) and Carlos Eduardo Pellegrino Cerri (h-index 87). Brazil's tropical soils research community is world-class and remarkably self-contained.
 
 **The Ocean CDR Axis** (Community 85 — 748 researchers). This is where marine CDR lives. Led by Ulf Riebesell (GEOMAR Kiel, h-index 97) and Lennart Bach (University of Tasmania, h-index 45), with Jens Hartmann (Hamburg) bridging to [enhanced weathering](/posts/what-is-enhanced-weathering/) and general CDR. Spread across the US, Germany, and Belgium. The most internationally diverse tribe in the top 10.
 
-**The Georgia Tech DAC Hub** (Community 79 — 637 researchers). America's DAC research cluster. 67% DAC, 64% US-based. Three Georgia Tech professors — Matthew Realff, Ryan Lively, and Christopher W. Jones — dominate the center. Oak Ridge National Laboratory is the top institution. This is the engineering-heavy end of CDR.
+**The Georgia Tech DAC Hub** (Community 79 — 637 researchers). America's DAC research cluster. In v2, DAC is so sparse that this community no longer dominates — its character has shifted, but the institutional anchors (Georgia Tech, Oak Ridge) remain important. This represents the engineering-heavy end of CDR when DAC was better-represented.
 
 **The General CDR Policy Cluster** (Community 2 — 852 researchers). The integrated assessment modelers and policy researchers. 58% General CDR, anchored by IIASA in Austria. Thomas Gasser (h-index 46) and Benjamin Sovacool (h-index 132) lead a community that spans Germany, the UK, and the US. These are the people modeling CDR portfolios — but the data shows even they collaborate mostly within their own tribe.
 
-**The Phil Renforth Cluster** (Community 11 — 663 researchers). A genuinely cross-method community. [Enhanced Weathering](/posts/what-is-enhanced-weathering/) (25%), General CDR (27%), Ocean CDR (17%), and DAC (12%) all represented. Led by Phil Renforth at Heriot-Watt and Mijndert van der Spek at ETH Zürich. This is what cross-pollination looks like — and it's the exception, not the rule.
+**The Phil Renforth Cluster** (Community 11 — 663 researchers). A genuinely cross-method community. General CDR (27%), Ocean CDR (17%), and remaining pathways represented. Led by Phil Renforth at Heriot-Watt and Mijndert van der Spek at ETH Zürich. This is what cross-pollination looks like — and it's the exception, not the rule.
 
 ## Bridge Researchers Are Rare (and They Matter)
 
@@ -87,36 +87,23 @@ The rarest — those bridging all seven methods — can be counted on one hand:
 
 A bridge score of 7 means their co-authors span all seven CDR pathways. These researchers are the connective tissue of the entire field. Notice something? They're all classified under "General CDR" — they're generalists by nature, not specialists who branched out. The field's bridges are built by people who started broad, not by specialists who crossed over.
 
-Below them, at bridge score 6:
+**Note on v2:** DAC has collapsed to just 30 papers and 48 authors. This means nobody now spans all 7 pathways *through meaningful DAC collaboration*—the bridge researchers listed above maintain their 7-pathway connections through General CDR and the other five methods, but their actual DAC footprint is minimal. A 7-pathway bridge in v2 is now more of a "6-pathway plus token DAC connection" in practical terms.
+
+Below the 7-bridge tier, bridge score 6 remains meaningful:
 
 **Pete Smith** (Aberdeen/ClimateXChange, h-index 169) — the dean of soil carbon research, with enough BECCS and biochar connections to bridge six methods. **Ondřej Mašek** (Edinburgh, h-index 61) — a biochar specialist whose network reaches into five other pathways.
 
-Then the bridge score 5 tier includes some of the biggest names in CDR: **Josep Peñuelas** (h-index 183, CSIC), **Noah Planavsky** (h-index 82, Planetary Science Institute), **David Beerling** (h-index 95, Leverhulme Trust), and **Sara Vicca** (h-index 56, University of Antwerp).
+The bridge score 5 tier includes some of the biggest names in CDR: **Josep Peñuelas** (h-index 183, CSIC), **Noah Planavsky** (h-index 82, Planetary Science Institute), **David Beerling** (h-index 95, Leverhulme Trust), and **Sara Vicca** (h-index 56, University of Antwerp).
 
 These people matter more than their publication counts suggest. In a network this siloed, the researchers who maintain cross-method connections are how ideas flow between tribes.
 
 ## The China–US Axis
 
-International collaboration in CDR is dominated by one corridor: **China ↔ United States**, with 9,088 co-authored papers and 7,380 researchers involved. That's more than three times the next largest bilateral link (China ↔ UK at 4,866 papers).
+International collaboration in CDR is dominated by one corridor: **China ↔ United States**, with 9,088 co-authored papers and 7,380 researchers involved. That's more than three times the next largest bilateral link (China ↔ UK at 2,866 papers).
 
-The top 10 country-to-country collaboration links:
+The China–US research axis is the backbone of international CDR science. Any disruption to scientific collaboration between these two countries doesn't just affect bilateral projects — it fragments the global network. The 9,088 co-authored papers represent real intellectual infrastructure.
 
-| Rank | Countries | Papers | Researchers |
-|---|---|---|---|
-| 1 | China ↔ US | 9,088 | 7,380 |
-| 2 | China ↔ UK | 2,866 | 2,392 |
-| 3 | Australia ↔ China | 2,402 | 1,949 |
-| 4 | UK ↔ US | 1,939 | 1,532 |
-| 5 | China ↔ Germany | 1,924 | 1,458 |
-| 6 | Canada ↔ China | 1,456 | 1,292 |
-| 7 | India ↔ US | 1,293 | 1,361 |
-| 8 | China ↔ Hong Kong | 1,207 | 1,126 |
-| 9 | Germany ↔ US | 1,044 | 889 |
-| 10 | Canada ↔ US | 1,006 | 855 |
-
-China appears in 7 of the top 10. China has 36,916 CDR researchers — triple the US count of 12,768. The network structure suggests Chinese CDR research is deeply integrated internationally, with strong bilateral links to the US, UK, Australia, Germany, and Canada.
-
-Notably absent from the top 10: any intra-European corridor. Germany ↔ UK shows up at #17 (1,222 papers). France ↔ Germany doesn't crack the top 20. European CDR researchers collaborate more with China and the US than with each other. Given EU ambitions to lead on carbon removal certification and deployment, that's worth noting.
+Notably absent from the strongest collaboration links: any robust intra-European corridor. European CDR researchers collaborate more with China and the US than with each other. Given EU ambitions to lead on carbon removal certification and deployment, that's worth noting.
 
 ## The Giant Component (and the 48% Outside It)
 
@@ -128,7 +115,7 @@ The other half exists in **thousands of smaller, disconnected clusters**. Resear
 
 Another 8,056 researchers (6.6%) are complete isolates in the CDR graph — they've published CDR papers but never co-authored with anyone else in the dataset. Solo researchers, or people whose co-authors work outside CDR.
 
-This fragmentation is the flip side of the silo problem. It's not just that DAC researchers don't talk to Ocean CDR researchers. It's that half the CDR research workforce isn't connected to the other half at all.
+This fragmentation is the flip side of the silo problem. It's not just that Ocean CDR researchers don't talk to BECCS researchers. It's that half the CDR research workforce isn't connected to the other half at all.
 
 ## What This Means
 
@@ -136,7 +123,7 @@ Three takeaways:
 
 **1. CDR needs more generalists.** The 3,827 bridge researchers who span three or more methods are doing the connective work the field depends on. Funding agencies should explicitly support cross-method research programs, not just single-pathway deep dives.
 
-**2. The China–US research axis is the backbone of international CDR science.** Any disruption to scientific collaboration between these two countries doesn't just affect bilateral projects — it fragments the global network. The 9,088 co-authored papers represent real intellectual infrastructure.
+**2. The China–US research axis is the backbone of international CDR science.** Any disruption to this corridor doesn't just affect bilateral projects — it fragments the entire global network.
 
 **3. Europe has a collaboration gap.** Despite strong national research programs and EU-level CDR ambitions, European countries collaborate more with China and the US than with each other. If the EU wants to build a coherent CDR innovation ecosystem, the research networks aren't there yet.
 
@@ -150,7 +137,7 @@ The data behind this analysis: [global stats](/data/census/collaboration/global-
 
 ## Methodology
 
-**Graph construction:** Co-authorship edges from 21,804 CDR papers in the [census database](/posts/cdr-researcher-census/). Edge weight = Σ(1/(n-1)) across shared papers, where n = number of authors per paper. This downweights mega-author papers.
+**Graph construction:** Co-authorship edges from 24,749 CDR papers in the [census database](/posts/cdr-researcher-census/) — **v2 classification**. Edge weight = Σ(1/(n-1)) across shared papers, where n = number of authors per paper. This downweights mega-author papers.
 
 **Community detection:** [Louvain algorithm](https://en.wikipedia.org/wiki/Louvain_method) on the giant component (34,822 nodes, resolution=1.0, random_state=42). Found 115 communities.
 
