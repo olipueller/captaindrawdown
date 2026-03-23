@@ -7,7 +7,7 @@ aliases: ["/s/120"]
 description: "Search 122,674 researchers in CDR-related literature by name. See your pathway, commitment level, trajectory, and how you compare. Built on OpenAlex + ORCID open data."
 tags: ["CDR", "carbon removal", "research", "census", "lookup", "tool"]
 cover:
-  image: ""
+  image: "/images/posts/census-lookup-20260325.png"
   alt: "CDR Researcher Lookup Tool"
 ---
 

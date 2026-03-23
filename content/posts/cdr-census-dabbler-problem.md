@@ -7,7 +7,7 @@ aliases: ["/s/117"]
 description: "69% of CDR researchers have it as less than 10% of their work. But the trajectory data reveals something more nuanced — and more hopeful."
 tags: ["CDR", "carbon removal", "research", "talent", "career", "census"]
 cover:
-  image: ""
+  image: "/images/posts/census-dabbler-20260323.png"
   alt: "CDR Research Commitment"
 ---
 
