@@ -868,10 +868,55 @@ The top 200 research institutions and how they connect through co-authored CDR p
 <div id="network-loading" style="position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);color:var(--secondary)">Loading network...</div>
 </div>
 
-<script src="https://unpkg.com/graphology@0.25.4/dist/graphology.umd.min.js"></script>
-<script src="https://unpkg.com/graphology-layout-forceatlas2@0.10.1/build/graphology-layout-forceatlas2.min.js"></script>
-<script src="https://unpkg.com/@sigmajs/sigma@3.0.0-beta.12/build/sigma.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/graphology@0.25.4/dist/graphology.umd.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/sigma@2.4.0/build/sigma.min.js"></script>
 <script>
+// Simple force-directed layout (replaces forceatlas2 which has no UMD build)
+function forceLayout(graph, iterations) {
+  const nodes = [];
+  graph.forEachNode((key, attrs) => { nodes.push({key, x: attrs.x, y: attrs.y, dx: 0, dy: 0, mass: attrs.size || 1}); });
+  const nodeMap = Object.fromEntries(nodes.map((n,i) => [n.key, i]));
+  for (let iter = 0; iter < iterations; iter++) {
+    const k = 0.1, gravity = 0.05, speed = Math.max(0.01, 1 - iter/iterations);
+    // Reset forces
+    nodes.forEach(n => { n.dx = 0; n.dy = 0; });
+    // Repulsion (Barnes-Hut simplified: direct pairs, sampled for perf)
+    for (let i = 0; i < nodes.length; i++) {
+      for (let j = i+1; j < nodes.length; j++) {
+        let dx = nodes[i].x - nodes[j].x, dy = nodes[i].y - nodes[j].y;
+        let dist = Math.sqrt(dx*dx + dy*dy) || 0.01;
+        let force = (nodes[i].mass * nodes[j].mass) / (dist * dist) * 50;
+        let fx = dx/dist * force, fy = dy/dist * force;
+        nodes[i].dx += fx; nodes[i].dy += fy;
+        nodes[j].dx -= fx; nodes[j].dy -= fy;
+      }
+    }
+    // Attraction along edges
+    graph.forEachEdge((edge, attrs, src, tgt) => {
+      let si = nodeMap[src], ti = nodeMap[tgt];
+      if (si === undefined || ti === undefined) return;
+      let dx = nodes[ti].x - nodes[si].x, dy = nodes[ti].y - nodes[si].y;
+      let dist = Math.sqrt(dx*dx + dy*dy) || 0.01;
+      let w = Math.log2((attrs.weight || 1) + 1);
+      let force = dist * k * w;
+      let fx = dx/dist * force, fy = dy/dist * force;
+      nodes[si].dx += fx; nodes[si].dy += fy;
+      nodes[ti].dx -= fx; nodes[ti].dy -= fy;
+    });
+    // Gravity
+    nodes.forEach(n => { n.dx -= n.x * gravity; n.dy -= n.y * gravity; });
+    // Apply
+    nodes.forEach(n => {
+      let mag = Math.sqrt(n.dx*n.dx + n.dy*n.dy) || 1;
+      let cap = Math.min(mag, 10) / mag;
+      n.x += n.dx * cap * speed;
+      n.y += n.dy * cap * speed;
+      graph.setNodeAttribute(n.key, 'x', n.x);
+      graph.setNodeAttribute(n.key, 'y', n.y);
+    });
+  }
+}
+
 fetch('/data/census/collaboration/institution-network.json')
 .then(r=>r.json()).then(data => {
   const container = document.getElementById('institution-network');
@@ -880,15 +925,14 @@ fetch('/data/census/collaboration/institution-network.json')
     const graph = new graphology.Graph();
     const colors = {"Soil Carbon":"#a0d468","Biochar":"#8d6e63","DAC":"#64b5f6","Enhanced Weathering":"#bcaaa4","BECCS":"#ff8a65","Ocean CDR":"#4dd0e1","General CDR":"#b39ddb"};
     data.nodes.forEach(n => {
-      graph.addNode(n.id, {label:n.label, size:Math.max(3,Math.sqrt(n.researchers)*1.5), color:colors[n.dominantPathway]||'#999', x:Math.random()*100, y:Math.random()*100});
+      graph.addNode(n.id, {label:n.label, size:Math.max(3,Math.sqrt(n.researchers)*1.5), color:colors[n.dominantPathway]||'#999', x:Math.random()*100-50, y:Math.random()*100-50});
     });
     data.edges.forEach(e => {
       if(graph.hasNode(e.source)&&graph.hasNode(e.target)) graph.addEdge(e.source,e.target,{weight:e.papers,size:Math.max(0.5,Math.log2(e.papers+1)*0.5),color:'rgba(128,128,128,0.15)'});
     });
-    const settings = graphologyLayoutForceAtlas2.inferSettings(graph);
-    graphologyLayoutForceAtlas2.assign(graph,{iterations:100,settings});
+    forceLayout(graph, 150);
     loading.remove();
     new Sigma(graph,container,{renderLabels:true,labelRenderedSizeThreshold:8,labelSize:11});
-  } catch(e) { loading.textContent='Network visualization requires a modern browser.'; console.error(e); }
-}).catch(e => { document.getElementById('network-loading').textContent='Failed to load network data.'; });
+  } catch(e) { loading.textContent='Error loading visualization: '+e.message; console.error(e); }
+}).catch(e => { document.getElementById('network-loading').textContent='Failed to load network data.'; console.error(e); });
 </script>
