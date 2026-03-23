@@ -117,7 +117,7 @@ Every name below links to their [ORCID](https://orcid.org/) profile (where avail
 | 4 | Pietro Bartocci | 10 | 44 | 8% | RISE Research Institutes of Sweden 🇸🇪 | [0000-0002-9888-6852](https://orcid.org/0000-0002-9888-6852) |
 | 5 | Margarita de Las Obras Loscertales | 10 | 15 | 9% | Instituto de Carboquímica 🇪🇸 | [0000-0001-9362-6077](https://orcid.org/0000-0001-9362-6077) |
 
-**Why only top 5:** BECCS has the fewest dedicated researchers across all pathways. That's partly because BECCS sits at the intersection of biomass energy and carbon capture — researchers tend to specialize in one or the other, not both. The field is smaller and less organized than DAC or enhanced weathering.
+**Why only top 5:** BECCS has the fewest dedicated researchers across all pathways. That's partly because BECCS sits at the intersection of biomass energy and carbon capture — researchers tend to specialize in one or the other, not both. The field is smaller and less organized than DAC or [enhanced weathering](/posts/what-is-enhanced-weathering/).
 
 **The giant:** Philippe Ciais (h=221) is one of the most cited climate scientists alive. BECCS is less than half his focus, but his engagement signals that integrated energy-CDR thinking is moving from niche to mainstream.
 

@@ -96,7 +96,7 @@ CDR isn't monolithic. Some technologies attract more committed researchers:
 | General CDR | 21,688 | 3,157 (14.6%) | **Highest** | Cross-disciplinary; attracts more committed specialists |
 | Biochar | 17,720 | 1,174 (6.6%) | Low | Material science attachment; mostly dabblers |
 | Ocean CDR | 2,485 | 374 (15.0%) | **High** | Small community, highly focused |
-| Enhanced Weathering | 3,344 | 502 (15.0%) | **High** | Specialist pathway; significant engineering/geochemistry investment |
+| [Enhanced Weathering](/posts/what-is-enhanced-weathering/) | 3,344 | 502 (15.0%) | **High** | Specialist pathway; significant engineering/geochemistry investment |
 | BECCS | 2,602 | 193 (7.4%) | Low | Dominated by energy systems researchers; CDR is auxiliary |
 | DAC | 48 | 2 (4.2%) | **Severely low** | ⚠️ *Known issue:* DAC collapsed in V2. Only 48 researchers classified; likely under-captured due to LLM classification or interdisciplinary naming (e.g., "direct capture" vs "direct air capture"). Needs investigation. |
 

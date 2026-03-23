@@ -47,7 +47,7 @@ Soil Carbon researchers write papers with other Soil Carbon researchers 94% of t
 
 The strongest cross-method bridge? **Soil Carbon ↔ Biochar** with 8,396 shared co-authorships. That makes intuitive sense — biochar is a soil amendment. The researchers overlap because the science overlaps.
 
-The weakest? **DAC is now largely isolated**, with only 97 co-authors shared with Biochar and 119 shared with General CDR. **Ocean CDR ↔ Enhanced Weathering** at 575. **BECCS ↔ Enhanced Weathering** at 18. These communities exist in parallel universes.
+The weakest? **DAC is now largely isolated**, with only 97 co-authors shared with Biochar and 119 shared with General CDR. **Ocean CDR ↔ [Enhanced Weathering](/posts/what-is-enhanced-weathering/)** at 575. **BECCS ↔ Enhanced Weathering** at 18. These communities exist in parallel universes.
 
 This matters because the hardest CDR problems are cross-method problems. Hybrid systems. Portfolio optimization. Life-cycle comparisons. MRV frameworks that work across pathways. If the researchers aren't talking to each other, those problems don't get solved.
 
