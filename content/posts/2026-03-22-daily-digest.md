@@ -3,6 +3,7 @@ draft: false
 title: "CDR Daily Digest — March 22, 2026"
 date: 2026-03-22T20:00:00+01:00
 slug: "daily-digest-2026-03-22"
+aliases: ["/s/133"]
 description: "Five original stories today spanning enhanced weathering synergies, next-gen DAC, carbon market durability gaps, OAE siting economics, and CDR's arrival at the world's biggest energy conference."
 tags: ["CDR", "carbon removal", "daily digest", "enhanced weathering", "DAC", "OAE", "carbon markets", "CERAWeek"]
 cover:

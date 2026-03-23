@@ -1,6 +1,7 @@
 ---
 title: "Mercedes F1 Goes All-In on Carbon Removal — 7 Projects Across 6 Technologies"
 slug: mercedes-f1-cur8-carbon-removal-portfolio
+aliases: ["/s/136"]
 date: 2026-03-23
 draft: false
 description: "Mercedes-AMG PETRONAS F1 commits to ~18,900 tCO₂e of carbon removal across Direct Air Capture, Biomass Storage, BECCS, Biochar, Ocean Alkalinity Enhancement, and Enhanced Rock Weathering."
@@ -34,7 +35,7 @@ Here's what makes this announcement stand out: timing. Across industries, compan
 
 Mercedes is going the other direction. Alice Ashpitel, the team's Head of Sustainability, presented the strategy at Economist Impact's Sustainability Week. The target remains Race Team Control Net Zero by 2030.
 
-Partners include CUR8 (portfolio curation), Carboneers (biochar), and InPlanet (enhanced rock weathering in Brazil) — all names that serious CDR watchers will recognize.
+Partners include CUR8 (portfolio curation), Carboneers (biochar), and InPlanet ([enhanced rock weathering](/posts/what-is-enhanced-weathering/) in Brazil) — all names that serious CDR watchers will recognize.
 
 ## The Bigger Picture
 

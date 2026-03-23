@@ -1,6 +1,7 @@
 ---
 title: "MIT Turns CO₂ and Water Into Jet Fuel Using Only Renewable Energy"
 slug: mit-electrochemical-jet-fuel-co2
+aliases: ["/s/137"]
 date: 2026-03-23
 draft: false
 description: "A new Nature Energy paper from MIT describes an electrochemical cell that converts CO₂ and water into jet fuel hydrocarbons using renewable electricity — no biomass required."

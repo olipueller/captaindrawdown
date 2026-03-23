@@ -3,6 +3,7 @@ draft: true
 title: "The Hidden Network: Who Collaborates on Carbon Removal?"
 date: 2026-03-22T18:00:00+01:00
 slug: "cdr-collaboration-network"
+aliases: ["/s/138"]
 description: "CDR research isn't 122k individuals — it's 115 tribes, 417k co-authorship links, and a handful of rare bridge researchers who connect it all."
 tags: ["CDR", "carbon removal", "research", "census", "collaboration", "network analysis"]
 cover:
