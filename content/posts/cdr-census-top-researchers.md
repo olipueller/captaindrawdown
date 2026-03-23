@@ -44,28 +44,24 @@ Every name below links to their [ORCID](https://orcid.org/) profile (where avail
 
 **The commitment gap:** Phil Renforth (#8) has 54% of his work in CDR — genuinely rare. Compare that to Planavsky (55%), and you see two different researcher archetypes: pure-play specialists vs. geological generalists who've pivoted CDR-ward.
 
-## Direct Air Capture — A Cautionary Tale
+## Direct Air Capture
 
-**The Problem:** DAC collapsed from 2,372 papers (v1, keyword-based) to just 48 total in v2 (LLM-classified). Every researcher in the top 10 now has exactly **1 DAC paper**. This isn't a real scientific collapse — it's a classifier failure.
+| Rank | Name | DAC Papers | h-index | CDR% | Institution | ORCID |
+|------|------|-----------|---------|------|-------------|-------|
+| 1 | Jay Fuhrman | 13 | 18 | 46% | Joint Global Change Research Institute 🇺🇸 | [0000-0003-1853-6850](https://orcid.org/0000-0003-1853-6850) |
+| 2 | Matthew J. Realff | 12 | 45 | 10% | Georgia Institute of Technology 🇺🇸 | [0000-0002-5423-5206](https://orcid.org/0000-0002-5423-5206) |
+| 3 | Benjamin K. Sovacool | 10 | 132 | 3% | Boston University 🇺🇸 | [0000-0002-4794-9403](https://orcid.org/0000-0002-4794-9403) |
+| 4 | Haewon McJeon | 9 | 40 | 14% | KAIST 🇰🇷 | [0000-0003-0348-5704](https://orcid.org/0000-0003-0348-5704) |
+| 5 | Niklas von der Aßen | 8 | 18 | 5% | RWTH Aachen University 🇩🇪 | [0000-0001-8855-9420](https://orcid.org/0000-0001-8855-9420) |
+| 6 | Noah McQueen | 8 | 12 | 36% | Carbon Carbon Advanced Technologies 🇺🇸 | [0000-0001-8725-2558](https://orcid.org/0000-0001-8725-2558) |
+| 7 | Gonzalo Guillén‐Gosálbez | 7 | 60 | 5% | ETH Zurich 🇨🇭 | [0000-0001-6074-8473](https://orcid.org/0000-0001-6074-8473) |
+| 8 | Radu Custelcean | 7 | 46 | 7% | Oak Ridge National Laboratory 🇺🇸 | [0000-0002-0727-7972](https://orcid.org/0000-0002-0727-7972) |
+| 9 | Mijndert van der Spek | 7 | 36 | 7% | ETH Zurich 🇨🇭 | [0000-0002-3520-155X](https://orcid.org/0000-0002-3520-155X) |
+| 10 | Matteo Gazzani | 7 | 36 | 7% | TU Eindhoven 🇳🇱 | [0000-0002-1352-4562](https://orcid.org/0000-0002-1352-4562) |
 
-**What happened:** The LLM was trained to distinguish "direct air capture" (removing CO₂ specifically from ambient air) from "general carbon capture" (any CO₂ removal process). It was too strict. Papers that discuss CO₂ capture broadly, or focus on sorbent chemistry without explicitly emphasizing atmospheric origin, got reclassified as "General CDR" instead.
+**What's interesting:** DAC is a US-dominated field at the top — 6 of 10 are US-based. Jay Fuhrman leads with 13 papers and 46% CDR commitment, working at the nexus of integrated assessment modeling and DAC deployment scenarios. The Georgia Tech cluster (Realff, plus Christopher W. Jones and Ryan Lively who rank just outside the top 10) is a powerhouse for sorbent chemistry. ETH Zurich places two researchers (Guillén-Gosálbez and van der Spek), reflecting Europe's growing process-engineering angle on DAC.
 
-**The v1 top 10 for reference** (these researchers still dominate DAC):
-
-1. Christopher W. Jones (Georgia Tech) — 39 papers
-2. Ryan P. Lively (Georgia Tech) — 38 papers
-3. Mijndert van der Spek (ETH Zürich) — 35 papers
-4. Matthew J. Realff (Georgia Tech) — 34 papers
-5. Radu Custelcean (Oak Ridge National Lab) — 32 papers
-6. Susana García (Heriot-Watt University) — 25 papers
-7. Simon H. Pang (Lawrence Livermore) — 25 papers
-8. Andreas Schröder (Siemens) — 23 papers
-9. Johannes Bosbach (DLR) — 23 papers
-10. Daniel Schanz (University of Göttingen) — 23 papers
-
-**What I'm doing about it:** v3 will have a human-in-the-loop validation step for all DAC papers. Researchers like Jones, Lively, and van der Spek absolutely belong in a DAC ranking — they've defined the field. The LLM classifier was an improvement over keyword-based search, but not a replacement for expert validation.
-
-**For now:** Treat the DAC section above as incomplete. If you're funding or collaborating with DAC research, use the v1 reference list. I'll have corrected data in Q2.
+**The commitment gap:** Noah McQueen (36% CDR) is the industry bridge — now at a DAC company. Contrast with Sovacool (3% CDR, h-index 132), whose DAC work is a small slice of a massive energy policy portfolio. DAC attracts both deep specialists and heavyweight generalists dipping in.
 
 ## Biochar
 
@@ -153,7 +149,7 @@ This is new in v2 — papers that discuss CDR broadly without specializing in a 
 
 ## The Polymaths: Publishing Across 6 Pathways
 
-In v2, the max is **6 pathways** (nobody spans all 7 because DAC collapsed). These 12 researchers publish on everything except they've specialized away from one pathway. They're the strategic thinkers:
+In v2, the max is **6 pathways** (nobody spans all 7). These 12 researchers publish on everything — they're the strategic thinkers:
 
 | Researcher | h-index | Institution | ORCID | Pathways |
 |-----------|---------|------------|-------|----------|
@@ -178,7 +174,7 @@ These 12 have genuinely thought through CDR as a portfolio problem, not a single
 
 Seeing familiar names builds confidence. But the list also exposes limitations:
 
-1. **LLM classification is better than keyword search, but not perfect.** The DAC collapse is exhibit A. Domain experts would catch misclassifications that even a good LLM misses.
+1. **LLM classification is better than keyword search, but not perfect.** Edge cases remain — sorbent chemistry papers without explicit "direct air capture" language may slip through. Domain experts would catch misclassifications that even a good LLM misses.
 2. **"CDR papers" is still a messy metric.** A paper about soil microbiology that mentions carbon sequestration once gets counted the same as a paper specifically designing a new sorbent. We're working on citation-weighted scoring.
 3. **Missing researchers.** If someone's seminal CDR work uses different terminology than our search strategy, they won't appear. The field's vocabulary is still evolving — feedback from readers helps us find these gaps.
 4. **Commitment levels now reflect research focus as a %.** More transparent than the old "dabbler/focused/dedicated" buckets, but it relies on author self-reported data and publication counts. Outliers exist.

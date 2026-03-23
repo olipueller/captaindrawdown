@@ -98,7 +98,7 @@ CDR isn't monolithic. Some technologies attract more committed researchers:
 | Ocean CDR | 2,485 | 374 (15.0%) | **High** | Small community, highly focused |
 | [Enhanced Weathering](/posts/what-is-enhanced-weathering/) | 3,344 | 502 (15.0%) | **High** | Specialist pathway; significant engineering/geochemistry investment |
 | BECCS | 2,602 | 193 (7.4%) | Low | Dominated by energy systems researchers; CDR is auxiliary |
-| DAC | 48 | 2 (4.2%) | **Severely low** | ⚠️ *Known issue:* DAC collapsed in V2. Only 48 researchers classified; likely under-captured due to LLM classification or interdisciplinary naming (e.g., "direct capture" vs "direct air capture"). Needs investigation. |
+| DAC | 3,951 | 1,448 (36.6%) | **Very high** | Specialist engineering pathway; researchers who publish on DAC tend to commit deeply. |
 
 The standouts: **Ocean CDR and [Enhanced Weathering](/posts/what-is-enhanced-weathering/)** have the highest % of committed researchers (15% >10% CDR). These are specialist pathways with real depth. **General CDR** (14.6% core) suggests that researchers who see themselves as "generalist CDR researchers" tend to commit more than those who approach CDR from within another discipline.
 
@@ -132,7 +132,7 @@ This deserves study. In fact, if you're doing research on CDR talent and retenti
 
 3. **The middle tier is forming.** In V1, the narrative was "dabblers or Pure CDR — not much in between." V2 shows part-timers (8,018) and focused (4,847) researchers are real cohorts with actual commitment. That middle tier is where the field professionalizes.
 
-4. **Specialist pathways show depth.** Ocean CDR and Enhanced Weathering have 15% of their researchers >10% committed. That's not a lot, but it's enough to sustain technical communities.
+4. **Specialist pathways show depth.** Ocean CDR and [Enhanced Weathering](/posts/what-is-enhanced-weathering/) have 15% of their researchers >10% committed. That's not a lot, but it's enough to sustain technical communities.
 
 ---
 
