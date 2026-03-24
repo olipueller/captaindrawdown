@@ -3,6 +3,7 @@ draft: true
 title: "CDR Researcher Census — March 2026 Update"
 date: 2026-03-23T06:45:38+00:00
 slug: "cdr-census-update-2026-03"
+aliases: ["/s/140"]
 description: "Monthly update on the CDR researcher census: 122,674 researchers across 39,278 papers."
 pillar: "census"
 tags: ["CDR", "carbon removal", "research", "census", "monthly update"]

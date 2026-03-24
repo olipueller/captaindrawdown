@@ -3,6 +3,7 @@ draft: false
 title: "CDR Daily Digest — March 23, 2026"
 date: 2026-03-23T20:00:00+01:00
 slug: "daily-digest-2026-03-23"
+aliases: ["/s/139"]
 description: "Four original stories today: MIT cracks renewable jet fuel synthesis, Germany maps a 95 MtCO₂/yr removal pathway, India launches its carbon market, and Mercedes F1 diversifies across six CDR technologies."
 pillar: "market"
 tags: ["CDR", "carbon removal", "daily digest", "SAF", "Germany", "India", "carbon markets", "enhanced weathering", "Mercedes F1"]
