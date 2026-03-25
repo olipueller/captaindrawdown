@@ -2,6 +2,7 @@
 title: "Canada Just Created the First National CDR Procurement Program. The $7M Price Tag Isn't the Point."
 date: 2026-03-25
 slug: canada-government-cdr-credits-purchase
+aliases: ["/s/145"]
 description: "Canada launches a dedicated carbon removal credit procurement program — the first by any national government. The budget is modest, but the mechanism is what matters."
 pillar: policy
 tags:

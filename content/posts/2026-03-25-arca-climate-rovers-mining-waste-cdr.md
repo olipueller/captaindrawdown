@@ -2,6 +2,7 @@
 title: "Autonomous Rovers + Microwaves + Mining Waste = Carbon Removal. Arca Climate's Wild Tech Stack."
 date: 2026-03-25
 slug: arca-climate-rovers-mining-waste-cdr
+aliases: ["/s/143"]
 description: "Vancouver's Arca Climate is turning mining waste into a carbon removal asset using autonomous rovers, smart churning, and microwave mineral activation. Their 18-month pilot showed 10-20x more CO₂ absorption."
 pillar: technology
 tags:

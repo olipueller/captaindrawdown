@@ -2,6 +2,7 @@
 title: "The Weekly State of CDR — March 24, 2026"
 date: 2026-03-24T07:00:00+01:00
 slug: weekly-state-of-cdr
+aliases: ["/s/142"]
 draft: true
 tags: ["weekly-state-of-cdr", "carbon-removal", "analysis"]
 description: "Infrastructure is being built. But the delivery gap is growing faster than procurement."

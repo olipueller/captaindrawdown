@@ -2,6 +2,7 @@
 title: "Old-Growth Forests Store 72% More Carbon Than Managed Ones — and It's Mostly in the Soil"
 date: 2026-03-25
 slug: old-growth-forests-carbon-storage-sweden
+aliases: ["/s/147"]
 description: "A landmark study in Science finds old-growth Swedish forests store vastly more carbon than managed ones, with most of the difference hiding underground. The implications for BECCS are uncomfortable."
 pillar: science
 tags:

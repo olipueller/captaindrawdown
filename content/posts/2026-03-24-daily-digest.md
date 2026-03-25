@@ -3,6 +3,7 @@ draft: false
 title: "CDR Daily Digest — March 24, 2026"
 date: 2026-03-24T20:00:00+01:00
 slug: "daily-digest-2026-03-24"
+aliases: ["/s/141"]
 description: "Five original stories today: Microsoft's ~$1B deal with Vaulted Deep, the Netherlands building a CDR fieldlab, humidity-swing polymers that could slash DAC costs, beavers as carbon sinks, and a California brewery carbonating beer with air-captured CO₂."
 pillar: "market"
 tags: ["CDR", "carbon removal", "daily digest", "Microsoft", "DAC", "enhanced weathering", "nature-based solutions", "Netherlands", "Platform Zero"]

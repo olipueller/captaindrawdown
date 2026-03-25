@@ -2,6 +2,7 @@
 title: "Ctrl-S: The Startup Saving DAC's Hard-Won Knowledge from the Funding Winter"
 date: 2026-03-25
 slug: ctrl-s-saving-dac-startup-ip
+aliases: ["/s/146"]
 description: "DAC investment has crashed 60%+ from its peak. Ctrl-S is acquiring IP and data from distressed startups before it's lost forever — and the 'negative learnings' might be the most valuable part."
 pillar: industry
 tags:

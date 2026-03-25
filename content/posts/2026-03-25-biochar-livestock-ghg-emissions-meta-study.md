@@ -2,6 +2,7 @@
 title: "Biochar Cuts Agricultural Emissions by Up to 83%. A 78-Study Meta-Analysis Confirms the Swiss Army Knife of Climate Solutions."
 date: 2026-03-25
 slug: biochar-livestock-ghg-emissions-meta-study
+aliases: ["/s/144"]
 description: "A massive meta-analysis of 78 peer-reviewed studies confirms biochar reduces agricultural greenhouse gas emissions across the board — CO₂ by 24%, methane by 36%, and nitrous oxide by 39%. The dual benefit as both carbon sink and emissions reducer makes the economics sing."
 pillar: science
 tags:
