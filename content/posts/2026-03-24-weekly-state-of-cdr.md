@@ -3,9 +3,10 @@ title: "The Weekly State of CDR — March 24, 2026"
 date: 2026-03-24T07:00:00+01:00
 slug: weekly-state-of-cdr
 aliases: ["/s/142"]
-draft: true
 tags: ["weekly-state-of-cdr", "carbon-removal", "analysis"]
 description: "Infrastructure is being built. But the delivery gap is growing faster than procurement."
+cover:
+  image: /images/weekly/2026-W13.png
 hiddenInHomeList: false
 ---
 
@@ -26,144 +27,75 @@ hiddenInHomeList: false
 | **Active suppliers** | 735 |
 | **Target** | 10 Gt/year by 2050 |
 
-**The gap:** 1.2 Mt delivered vs. 10 Gt target = **0.012% of the way there**. That's not a gap. That's a delta that would require a 35x acceleration in the next 24 years just to reach the floor. The industry has built an enormous procurement apparatus. It has not built removal capacity yet.
+**The gap:** 1.2 Mt delivered vs. 10 Gt target = **0.012% of the way there**. Reaching the floor requires 35x acceleration over 24 years. The industry has built an enormous procurement apparatus. It has not built removal capacity yet.
 
 ---
 
 ## The Headline Take
 
-This was a **DEALS week**. The sheer volume of corporate procurement running in parallel with government action suggests CDR is crossing a threshold — from "interesting experiment" to "infrastructure being built." Google signed for 200,000 tonnes of biochar through AMP. Microsoft committed to deep ocean CDR (potentially ~$1B from Vaulted Deep). Tapestry (Coach, Kate Spade, Stewart Weitzman) locked in a 10-year direct air capture deal with Climeworks. Mercedes F1 diversified across 7 projects spanning 6 technologies. Meanwhile, Canada became the first government to directly purchase CDR credits ($10M CAD), Germany mapped out 95 Mt/year of removal potential, and India opened a carbon market portal to 1.4 billion people.
+This was a **DEALS week**. Google signed 200,000 tonnes of biochar through AMP. Microsoft committed to deep ocean CDR with Vaulted Deep (~$1B). Tapestry locked in a 10-year DAC deal with Climeworks. Mercedes F1 diversified across 7 projects spanning 6 technologies. Canada became the first government to directly purchase CDR credits ($10M CAD), Germany mapped 95 Mt/year of removal potential, and India opened a carbon market portal to 1.4 billion people.
 
-But here's the signal behind the noise: **the 2.7% delivery rate is the elephant in the room.** For every tonne of CO₂ that corporations and governments have contracted, only 0.027 tonnes have actually been removed, verified, and delivered. The gap between what's been promised and what's been done is not just a bottleneck — it's structural. And it's growing.
+But the signal behind the noise: **the 2.7% delivery rate is the elephant in the room.** For every tonne contracted, only 0.027 tonnes have been removed, verified, and delivered. The gap between promised and done isn't just a bottleneck — it's structural. And it's growing.
 
 ---
 
 ## This Week in CDR
 
-### A. The Procurement Surge — Money Is Talking
+### A. The Procurement Surge
 
-The corporate CDR market matured noticeably this week. It's no longer a collection of PR purchases. It's becoming a supply chain.
+Corporate CDR is no longer PR purchases — it's becoming a supply chain. Google's 200k-tonne biochar deal with AMP is a bet on commercial-scale removal, not a photo op [https://www.captaindrawdown.com/posts/2026-03-18-google-amp-waste-biochar-200k-tons-carbon-removal/]. Microsoft's ~$1B commitment to Vaulted Deep signals ocean pathways graduating from curiosity to commercial reality [https://www.captaindrawdown.com/posts/2026-03-24-microsoft-vaulted-deep-billion-cdr/]. Mercedes F1 assembled the most sophisticated portfolio we've seen — seven projects, six technologies — hedging because nobody knows which pathways actually scale. Verde's 38,500 tonnes/year of road biochar is the kind of application that scales silently: you need roads everywhere [https://www.captaindrawdown.com/posts/2026-03-17-verde-bioasphalt-biochar-roads-carbon-sinks/]. And Big Tech combined purchased 68.4M removal credits in 2025, up 181% YoY. At this trajectory, Big Tech alone hits 1 Gt/year around 2035 — if those credits represent real removal.
 
-**Google + AMP:** 200,000 tonnes of biochar by 2030. This is not a climate commitment photo op. AMP is a commercial biochar supplier with real tonnage targets and offtake agreements. Google is betting that biochar will be a material input for CO₂ removal at scale [https://www.captaindrawdown.com/posts/2026-03-18-google-amp-waste-biochar-200k-tons-carbon-removal/].
+### B. Governments: Waking Up at Very Different Speeds
 
-**Microsoft + Vaulted Deep:** The headline was muted, but this is the most significant ocean CDR deal yet. Vaulted Deep specializes in deep ocean CO₂ storage — sinking biochar or olivine paste to depths where CO₂ remains sequestered for millennia. A ~$1B commitment from Microsoft signals that ocean pathways are graduating from research curiosity to commercial reality. This matters because direct air capture is expensive and land-limited; ocean pathways, if they scale, could absorb gigatonnes annually [https://www.captaindrawdown.com/posts/2026-03-24-microsoft-vaulted-deep-billion-cdr/].
+Canada made history as the first government to directly buy CDR credits — pivoting from carbon pricing to financing removal [https://www.captaindrawdown.com/posts/2026-03-17-canada-first-government-cdr-procurement/]. Germany released engineering assessments mapping 95 Mt/year removal potential by 2045, suggesting formal targets are coming [https://www.captaindrawdown.com/posts/2026-03-23-germany-cdr-potential-95mt-2045/]. India launched the Prakriti portal, potentially bringing 1.4B people into a carbon removal market — enormous and almost completely under the radar. The EU is finalizing [CRCF](/posts/eu-first-cdr-certification-standard/) technical rules, and Sweden committed $34M in removal-focused industrial policy. Meanwhile, the US $3.5B DAC hub program is stuck in DOE audit limbo — no deployment, no credits, no construction starts. The first nations to build removal infrastructure will have cost advantages for decades.
 
-**Tapestry + Climeworks:** A 10-year direct air capture procurement agreement. Luxury brands entering CDR is a signal of two things: (1) they believe the technology is real, and (2) they need to remove carbon at volumes that DAC can theoretically provide. Climeworks has been the most aggressive DAC deployer — the fact that they're signing long-term corporate contracts suggests they've moved past the pilot phase.
+### C. Science Complicating the Easy Narratives
 
-**Mercedes F1 + Cur8:** This one flew under most radars, but it's the most sophisticated portfolio we've seen from any organization. Seven projects, six technologies. Biochar, BECCS, direct air capture, [enhanced weathering](/posts/what-is-enhanced-weathering/), soil carbon, ocean alkalinity enhancement, and biomass storage. Mercedes isn't picking winners — they're hedging against the fact that nobody knows which pathways will actually scale. This is how you build a robust carbon removal strategy.
-
-**Boeing + Carbonfuture:** 40,000 tonnes. Adding to a list of aerospace, automotive, and consumer goods companies treating CDR as a material input to their supply chain.
-
-**Verde + Road Biochar:** 38,500 tonnes per year. A novel use case: biochar not as a standalone removal product, but as a construction material that also removes carbon. This is the kind of application that scales silently — you need roads everywhere. If even 5% of global road surface gets a biochar-amended asphalt layer, the removal volumes are massive [https://www.captaindrawdown.com/posts/2026-03-17-verde-bioasphalt-biochar-roads-carbon-sinks/].
-
-**Big Tech 2025 Totals:** Google, Microsoft, Meta, and Apple combined purchased 68.4 million removal credits in 2025, up 181% year-over-year. The rate of increase is accelerating. At this trajectory, Big Tech alone will be purchasing enough credits to reach 1 Gt/year removal capacity around 2035—if those credits actually represent real removal.
-
-**The connection:** Corporate CDR procurement is no longer a standalone initiative — it's becoming a supply chain expectation. Suppliers are scaling because demand is real. The procurement surge is infrastructure being built.
-
-### B. Governments Are Waking Up — But At Very Different Speeds
-
-The government picture is wildly asymmetric. Europe and Asia are building frameworks. The US is stuck.
-
-**Canada:** First government to directly buy CDR credits. $10M CAD commitment to purchase verified removal. This is a pivot from "carbon pricing" and "offset credits" — Canada is saying "we will directly finance removal." Other nations will follow. This is not a small thing [https://www.captaindrawdown.com/posts/2026-03-17-canada-first-government-cdr-procurement/].
-
-**Germany:** Sweco and Carbon Gap released a technical report mapping Germany's removal potential: 95 Mt/year by 2045 if deployed across all viable pathways. Germany is not speculating — they're conducting engineering assessments. This suggests a formal removal target is coming, and it will be in policy soon [https://www.captaindrawdown.com/posts/2026-03-23-germany-cdr-potential-95mt-2045/].
-
-**India:** The Prakriti carbon market portal launched, bringing 1.4 billion people into a potential carbon removal market. This is enormous and almost completely under the radar. If even a fraction of Indian agriculture transitions to carbon-friendly practices with removal credits as a revenue stream, the supply curve fundamentally changes. The largest population on Earth just opened a new CDR market.
-
-**EU:** [CRCF](/posts/eu-first-cdr-certification-standard/) (Carbon Removal Certification Framework) technical rulebook is being finalized. They're not just talking about carbon removal — they're writing the rules for how to account for it, verify it, and trade it. ISO is simultaneously working on global CDR accounting standards. By 2027, we'll have standardized MRV (measurement, reporting, verification) protocols that don't exist today.
-
-**Sweden:** $34M Industriklivet program focused on negative emissions. Smaller than Germany or Canada, but aggressive per capita. Sweden is treating removal as an industrial policy.
-
-**The contrast:** The US has $3.5B in regional DAC hubs (Bipartisan Infrastructure Law). They're stuck in DOE audit limbo. No deployment. No credits issued. Meanwhile, Europe is writing policy, Asia is opening markets, and Canada is buying. This timing matters. The first nations to build removal infrastructure will have cost advantages and supply certainty for decades.
-
-### C. Science Is Complicating the Easy Narratives
-
-Science did what it should: stress-test claims before they become trillion-dollar bets. And it found cracks.
-
-**Princeton BECCS Study:** A new assessment of Bioenergy with Carbon Capture and Storage (BECCS) found that many pathways may emit MORE CO₂ over their lifetime than natural gas generation, depending on sourcing, cultivation, and transport assumptions. This challenges a pillar of many net-zero models that assume BECCS will be carbon-negative. The finding isn't that BECCS is worthless — it's that the accounting matters enormously [https://www.captaindrawdown.com/posts/2026-03-20-beccs-higher-emissions-than-natural-gas/].
-
-**CATF Protocol Review:** The Carbon Accounting Task Force assessed 25 biomass-based CDR protocols. Most have notable methodological flaws. This is an accounting crisis waiting to happen — if we build massive biochar or BECCS capacity only to discover later that the carbon accounting was off by 30-50%, we've wasted capacity and credibility. The fix is methodological rigor now, before scale.
-
-**EGU 2026 (Enhanced Weathering):** New data from the European Geosciences Union conference showed that adding organic carbon (compost, biochar) to enhanced weathering reactions changes reactivity in ways not currently modeled. This is a technical complication, but it's also an opportunity — co-deployment of biochar + basalt might have synergistic effects. Early-stage work from Wageningen suggests that two pathways together perform better than either alone [https://www.captaindrawdown.com/posts/2026-03-22-enhanced-weathering-biochar-co-deployment/].
-
-**Georgia Tech (Nature NPJ):** Published a commentary arguing that CDR needs radical transparency. Not just verification, but full disclosure of assumptions, uncertainties, and sensitivity analysis. The carbon removal field has a credibility budget — spend it on rigor or face backlash. This is professional accountability, not regulation.
-
-**OAE + Mussels:** Good news from ocean alkalinity enhancement research. Adding alkalinity to seawater improves mussel shell integrity — a potential co-benefit. If marine ecosystems benefit from the removal process, it changes the stakeholder picture.
-
-**The connection:** Science is doing exactly what it should. It's finding flaws in assumptions before they scale into trillion-dollar mistakes. BECCS needs better accounting. Biochar needs protocol standards. Enhanced weathering needs better modeling of interactions. Ocean pathways need ecosystem research. None of this kills the pathways — it matures them.
+Princeton found many BECCS pathways may emit MORE CO₂ than natural gas over their lifetime, depending on sourcing assumptions — a body blow to net-zero models that assume BECCS is carbon-negative [https://www.captaindrawdown.com/posts/2026-03-20-beccs-higher-emissions-than-natural-gas/]. CATF reviewed 25 biomass CDR protocols and found most have notable methodological flaws — an accounting crisis waiting to happen. EGU 2026 showed that adding organic carbon to [enhanced weathering](/posts/what-is-enhanced-weathering/) reactions changes reactivity in ways not currently modeled, though Wageningen data suggests biochar + basalt co-deployment may have synergistic effects [https://www.captaindrawdown.com/posts/2026-03-22-enhanced-weathering-biochar-co-deployment/]. None of this kills the pathways — it matures them. But BECCS needs a credibility reset, biochar needs protocol standards, and enhanced weathering needs better interaction modeling.
 
 ### D. DAC: Breakthrough Materials vs. Political Reality
 
-Direct air capture got better. Policy got worse.
-
-**Breakthrough Materials:** Three significant advances this week:
-- New wood-waste sorbent material with solar-powered CO₂ release (no thermal heating required) — lower energy input, potentially lower cost trajectory
-- Dual-function materials that capture AND chemically convert CO₂ in one step (reducing intermediate processing)
-- Humidity-swing polymers that could reduce moisture-swinging energy penalties by 40-60% compared to current adsorbents
-
-These are not incremental. If any of these scale, DAC costs could drop 20-30% in the next 18-24 months. The science is moving fast.
-
-**Policy Reality:** The US $3.5B regional DAC hub program is mired in DOE audit procedures. No construction starts. No commercial deployment. Meanwhile, Australia and Japan signed a DAC + hydrogen partnership — binding commercial terms, $200M initial deployment target. Climeworks is signing corporate contracts. Vaulted Deep is getting venture capital for deep ocean deployment.
-
-**CERAWeek (First-Time Signal):** For the first time in the conference's 60-year history, CDR had its own stage at CERAWeek (the world's largest energy conference). This is not a side event. It's mainline. The energy industry is officially treating carbon removal as an infrastructure necessity, not an environmental nice-to-have.
-
-**The gap:** DAC science is accelerating. DAC policy in the US is stalled. Other nations are deploying at small scale while the US audits plans at large scale. This matters because cost curves flatten after 100-1,000 units deployed. The nations that deploy first will own the cost advantage.
+Three significant material advances in one week: a wood-waste sorbent with solar-powered CO₂ release (no thermal heating), dual-function materials that capture AND convert CO₂ in one step, and humidity-swing polymers reducing energy penalties by 40-60%. If any scale, DAC costs drop 20-30% in 18-24 months. But US policy is stalled while Australia and Japan signed a DAC + hydrogen partnership ($200M deployment target) and Climeworks keeps signing corporate contracts. Also notable: CDR had its own stage at CERAWeek for the first time in 60 years. The energy industry now treats removal as infrastructure, not a nice-to-have.
 
 ---
 
 ## Signal vs. Noise
 
-**Signal (things that matter more than headlines suggest):**
+**Signal:** India's Prakriti Portal — 1.4B people suddenly able to trade carbon credits is a systemic market-opening, not a gesture. Bolivia's first biochar facility (70,000 t/year) — CDR is reaching new continents.
 
-- **India's Prakriti Portal:** 1.4 billion people suddenly able to access and trade carbon credits. This is a systemic market-opening, not a regulatory gesture. It matters.
-- **Bolivia's First Biochar Facility:** 70,000 tonnes per year. CDR isn't just a developed-world phenomenon anymore. It's reaching new continents. If other nations follow, the supply curve fundamentally changes.
-
-**Noise (things that sound big but aren't yet):**
-
-- **Carbonology's Synthetic Fuel Claims:** "Making jet fuel from air and sunlight." Extraordinary claims, zero peer-reviewed evidence, no third-party verification. Wait for the data.
-- **"95% Nature-Based CDR Credits" Stat:** Technically true, but misleading. The durable market (biochar, enhanced weathering, direct air capture, ocean) is growing fast — it's just starting from a nearly-zero base. The headline is outdated, not damning.
+**Noise:** Carbonology's "jet fuel from air and sunlight" — extraordinary claims, zero peer-reviewed evidence. The "95% nature-based CDR credits" stat — technically true but misleading; the durable market is growing fast from a near-zero base.
 
 ---
 
 ## Pathway Pulse
 
-**Enhanced Weathering:** Wageningen co-deployment data promising. EGU 2026 complicating reactivity models. Field is maturing from speculation to engineering problem-solving. *Status: accelerating.*
+**Enhanced Weathering:** Wageningen co-deployment data promising. EGU complicating reactivity models. Maturing from speculation to engineering. *Accelerating.*
 
-**Direct Air Capture:** Three breakthrough materials in one week. Science moving fast. Policy stalling in US, accelerating elsewhere. Climeworks signing luxury brands. *Status: bifurcated — science up, US policy down.*
+**Direct Air Capture:** Three breakthrough materials in one week. Science fast, US policy stalled, rest of world deploying. *Bifurcated.*
 
-**Biochar:** Google deal, Bolivia facility, Verde roads, 86% of delivered durable CDR. Biochar is the quiet workhorse. Not sexy, but real. *Status: stable growth.*
+**Biochar:** Google deal, Bolivia facility, Verde roads, 86% of delivered durable CDR. Not sexy, but real. *Stable growth.*
 
-**BECCS:** Princeton study is a body blow to naive assumptions. Protocol flaws piling up. Needs a credibility reset before massive deployment. *Status: credibility risk.*
+**BECCS:** Princeton study + protocol flaws = credibility reset needed before massive deployment. *Credibility risk.*
 
-**Ocean CDR:** Microsoft-Vaulted Deep is huge. OAE mussel data encouraging. Most-watched pathway shift this week. *Status: breakthrough week.*
+**Ocean CDR:** Microsoft-Vaulted Deep is huge. OAE mussel data encouraging. *Breakthrough week.*
 
-**Soil Carbon:** EGU data on organic carbon interactions. Biggest research field, fewest delivery credits. Accounting challenges remain. *Status: research-phase.*
+**Soil Carbon:** EGU data on organic carbon interactions. Biggest field, fewest credits. *Research-phase.*
 
-**Biomass Storage:** New 17-company coalition formed. Early but organized. Supply chain forming. *Status: emergent.*
+**Biomass Storage:** 17-company coalition formed. Early but organized. *Emergent.*
 
 ---
 
-## The Long View: The Delivery Gap
+## The Long View
 
-44.3 Mt sold. 1.2 Mt delivered. 2.7%. What does this mean?
-
-It means the industry is **pre-revenue in the traditional sense**. You can't derive meaningful unit economics from 2.7% delivery. The entire industry is in the build-out phase.
-
-**Comparison to Solar:** Panels sold vs. installed followed a similar lag in the 2000s. Early solar panel manufacturing scaled faster than installation infrastructure. Installers couldn't keep up. The gap lasted roughly 2-3 years before closing.
-
-**Why CDR Is Different:** You can't stockpile removal credits. A solar panel can sit in a warehouse for months. A CO₂ removal credit requires real-time verification of removal, monitoring, and in many cases, permanence assurance over decades. The MRV bottleneck is the rate-limiter, not demand.
-
-**The Math:** At current delivery rates (1.2 Mt in 2026 if the pace holds), reaching 1 Gt/year by 2050 requires a **35x acceleration**. That's not impossible — solar scaled 300x in 15 years. But solar had a clear cost-curve driver (photovoltaic efficiency + manufacturing scale). CDR's cost curve is less clear. Some pathways (biochar, enhanced weathering) are likely to drop 50%+ with volume. Others (direct air capture) might stay expensive but crucial for hard-to-abate sectors.
-
-**The Real Question:** Is the infrastructure being built fast enough? Canada, Germany, EU, India, Sweden, and Japan all signaled this week that they're treating removal as infrastructure. If that translates into deployment targets (not just purchase commitments), the delivery gap will close faster than the financial gap suggests.
+44.3 Mt sold. 1.2 Mt delivered. 2.7%. The entire industry is pre-revenue in the traditional sense. Solar panels followed a similar lag in the 2000s — manufacturing scaled faster than installation, the gap lasted 2-3 years before closing. CDR is harder: you can't stockpile removal credits like panels in a warehouse. Every credit requires real-time verification and permanence assurance over decades. MRV is the rate-limiter, not demand. Reaching 1 Gt/year by 2050 requires 35x acceleration — not impossible (solar scaled 300x in 15 years), but solar had a clear cost-curve driver. Some CDR pathways will drop 50%+ with volume; others will stay expensive but essential. The question: Canada, Germany, EU, India, Sweden, and Japan all signaled this week they're treating removal as infrastructure. If that translates into deployment targets — not just purchase commitments — the delivery gap closes faster than the numbers suggest.
 
 ---
 
 ## What We're Watching Next Week
 
-- **EU Parliament Climate Committee Hearings:** CRCF implementation discussion. Watch for deployment targets and timelines.
-- **Climeworks Q1 Delivery Data:** How many tonnes did they actually remove and verify in the first quarter? The real number.
-- **India Prakriti Portal:** First registered removal projects expected. Is this a real market or a policy gesture?
+- **EU Parliament Climate Committee Hearings:** CRCF implementation discussion. Watch for deployment targets.
+- **Climeworks Q1 Delivery Data:** How many tonnes actually removed and verified? The real number.
+- **India Prakriti Portal:** First registered removal projects expected. Real market or policy gesture?
 
 ---
 
