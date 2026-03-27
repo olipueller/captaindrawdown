@@ -2,6 +2,7 @@
 title: "Google Partners With AMP Robotics on 200K-Tonne Biochar Carbon Removal Deal"
 date: 2026-03-27T08:25:00Z
 slug: google-amp-robotics-biochar-200k-tonnes
+aliases: ["/s/156"]
 description: "Google signed one of its largest-ever carbon removal deals — 200,000 tonnes of biochar CDR by 2030, using AI-sorted municipal waste. A week after Microsoft's 1M-tonne biochar deal, the demand signal is unmistakable."
 tags: ["biochar", "carbon removal", "corporate buyers", "tech sector"]
 cover:

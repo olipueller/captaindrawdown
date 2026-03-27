@@ -2,6 +2,7 @@
 title: "Bolivia Enters CDR Market — Altitude Signs 305K-Tonne Biochar Deal With Empacar"
 date: 2026-03-27T13:28:00Z
 slug: altitude-empacar-bolivia-biochar-305k-tonnes
+aliases: ["/s/154"]
 description: "CDR financier Altitude has signed a 305,000-tonne biochar carbon removal deal with Bolivian industrial company Empacar. Agricultural and forestry residues converted to biochar, Puro.earth credits from 2027. Bolivia wasn't on most CDR maps. It is now."
 tags: ["biochar", "Latin America", "carbon markets", "geographic diversity"]
 cover:

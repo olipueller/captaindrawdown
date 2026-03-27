@@ -2,6 +2,7 @@
 title: "Tsinghua Study: Biochar on Abandoned Cropland Could Be CDR's Cheapest Path in China"
 date: 2026-03-27T16:16:00Z
 slug: tsinghua-biochar-abandoned-cropland-china
+aliases: ["/s/158"]
 description: "New research from Tsinghua University finds that growing bioenergy crops on China's abandoned farmland and converting them to biochar could unlock 25.8 million tonnes of annual CDR — cheaply. The biomass supply problem may have a solution."
 tags: ["biochar", "China", "research", "CDR science", "biomass"]
 cover:
