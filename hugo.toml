@@ -37,6 +37,9 @@ canonifyURLs = false
     favicon32x32 = "/avatar.png"
     apple_touch_icon = "/avatar.png"
 
+  [params.social]
+    twitter = "@CaptainDrawdown"
+
   [params.schema]
     publisherType = "Organization"
     sameAs = [
