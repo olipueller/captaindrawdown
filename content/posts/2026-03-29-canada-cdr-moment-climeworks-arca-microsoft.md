@@ -2,6 +2,7 @@
 title: "Canada's CDR Moment: Climeworks, Arca-Microsoft, and the Only Active Government Buying Program"
 date: 2026-03-29
 slug: canada-cdr-moment-climeworks-arca-microsoft
+aliases: ["/s/168"]
 description: "While Washington retreats from climate policy, Canada is quietly building carbon removal infrastructure — government buying programs, major corporate deals, and a new Climeworks HQ."
 cover:
   image: /images/posts/20260329-02.png

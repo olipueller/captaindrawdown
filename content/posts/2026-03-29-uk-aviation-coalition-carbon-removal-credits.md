@@ -2,6 +2,7 @@
 title: "UK Aviation Coalition Commits Over $2.5 Million to Carbon Removal Credits"
 date: 2026-03-29
 slug: uk-aviation-coalition-carbon-removal-credits
+aliases: ["/s/172"]
 description: "A UK aviation industry coalition has committed over $2.5 million (£2 million) in Greenhouse Gas Removal credits — a signal that hard-to-abate sectors are taking CDR demand creation seriously."
 cover:
   image: /images/posts/20260329-04.png

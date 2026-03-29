@@ -2,6 +2,7 @@
 title: "Equatic Seawater Alkalinization: 96–98% CO₂ Removal in Lab Tests"
 date: 2026-03-29
 slug: equatic-seawater-alkalinization-oae-study
+aliases: ["/s/170"]
 description: "New lab data on Equatic's electrolysis-based ocean alkalinity enhancement shows 96–98% CO₂ removal efficiency and ~3.5g CO₂ sequestered per liter. Marine CDR is getting more concrete."
 cover:
   image: /images/posts/20260329-03.png

@@ -2,6 +2,7 @@
 title: "DAC Energy Demand: The Numbers That Shut Down a Bad Argument"
 date: 2026-03-29
 slug: dac-energy-demand-1-degree-target
+aliases: ["/s/169"]
 description: "People keep saying direct air capture needs too much energy to be viable. A new study puts actual numbers on the claim — and they're smaller than you'd expect."
 cover:
   image: /images/posts/20260329-01.png

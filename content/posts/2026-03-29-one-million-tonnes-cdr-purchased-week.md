@@ -2,6 +2,7 @@
 title: "Over 1 Million Tonnes of CDR Purchased in a Single Week"
 date: 2026-03-29
 slug: one-million-tonnes-cdr-purchased-week
+aliases: ["/s/171"]
 description: "More than a million tonnes of Carbon Dioxide Removal was purchased in a single week. A few years ago, that wasn't achieved in an entire year. This is what market maturation looks like."
 cover:
   image: /images/posts/20260329-05.png
