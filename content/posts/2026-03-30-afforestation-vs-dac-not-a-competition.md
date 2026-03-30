@@ -1,6 +1,7 @@
 ---
 title: "Afforestation vs DAC: Why It's Not a Competition"
 slug: afforestation-vs-dac-not-a-competition
+aliases: ["/s/174"]
 date: 2026-03-30
 tags: [CDR, afforestation, DAC, explainer, natural solutions]
 cover:

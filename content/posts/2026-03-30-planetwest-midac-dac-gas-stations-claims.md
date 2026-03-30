@@ -1,6 +1,7 @@
 ---
 title: "PlanetWEST Claims $30/ton DAC at Gas Stations — Let's Look Closer"
 slug: planetwest-midac-dac-gas-stations-claims
+aliases: ["/s/179"]
 date: 2026-03-30
 tags: [DAC, cost, claims, skepticism]
 cover:

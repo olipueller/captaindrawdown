@@ -2,6 +2,7 @@
 title: "CDR Daily Digest — March 29, 2026"
 date: 2026-03-29
 slug: daily-digest-2026-03-29
+aliases: ["/s/173"]
 description: "A banner day for CDR data: 1M+ tonnes purchased in a single week, DAC energy demand put in perspective, Canada's policy advantage sharpens, Equatic's ocean chemistry holds up in lab tests, and UK aviation puts money on the table."
 cover:
   image: /images/digests/2026-03-29.png

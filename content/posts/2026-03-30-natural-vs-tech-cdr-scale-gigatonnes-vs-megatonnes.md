@@ -1,6 +1,7 @@
 ---
 title: "Natural vs. Tech CDR: Scale Today vs. Scale Tomorrow"
 slug: natural-vs-tech-cdr-scale-gigatonnes-vs-megatonnes
+aliases: ["/s/178"]
 date: 2026-03-30
 tags: [CDR, forests, DAC, scale, explainer]
 cover:

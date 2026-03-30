@@ -2,6 +2,7 @@
 title: "The Weekly State of CDR — March 30, 2026"
 date: 2026-03-30T10:00:00+01:00
 slug: weekly-state-of-cdr-2026-w14
+aliases: ["/s/181"]
 tags: ["weekly-state-of-cdr", "carbon-removal", "analysis"]
 description: "A million tonnes in a single week. Science closing in on cheap DAC. And a German think tank asking the question nobody wants to answer."
 hiddenInHomeList: false

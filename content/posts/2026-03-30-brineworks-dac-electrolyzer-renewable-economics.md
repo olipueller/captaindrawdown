@@ -2,6 +2,7 @@
 title: "Can Electrochemical DAC Crack the Cost Problem? Brineworks Thinks So"
 date: 2026-03-30T10:00:00+01:00
 slug: "brineworks-dac-electrolyzer-renewable-economics"
+aliases: ["/s/175"]
 description: "Amsterdam startup Brineworks is designing a DAC electrolyzer that runs on cheap intermittent renewables and co-produces green hydrogen — targeting sub-$100/tonne by 2035."
 tags: ["DAC", "direct air capture", "electrochemistry", "green hydrogen", "startups"]
 cover:
