@@ -72,3 +72,10 @@ The legitimate questions are about MRV rigor, energy costs, and deployment logis
 ---
 
 *This is part of CaptainDrawdown's weekly Misconception of the Week series. Each Friday, we take on one widespread belief about carbon removal that deserves a harder look. Follow along on [Bluesky](https://bsky.app/profile/captaindrawdown.com), [X](https://x.com/CaptainDrawdown), and [LinkedIn](https://www.linkedin.com/company/captaindrawdown/).*
+
+---
+
+### 🔗 Related Reading
+
+- [🌍 Dal Italiano: Biochar spiegato a chi non sa ancora cos'è](/posts/biochar-italian-good-in-town-cdr-carbon-removal/)
+- [Steel and Cement Make Wastewater That Can Permanently Sequester 30 Million Tonnes of CO₂](/posts/steel-cement-alkaline-wastewater-carbon-sequestration-30mt/)
