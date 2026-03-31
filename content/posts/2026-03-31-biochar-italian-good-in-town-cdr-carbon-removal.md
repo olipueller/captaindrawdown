@@ -2,6 +2,7 @@
 title: "🌍 Dal Italiano: Biochar spiegato a chi non sa ancora cos'è"
 date: 2026-03-31
 slug: biochar-italian-good-in-town-cdr-carbon-removal
+aliases: ["/s/183"]
 description: "The Good in Town (Italy) just published a solid biochar explainer for a general audience. CDR literacy is spreading across languages — and that matters."
 tags: ["biochar", "carbon-removal", "cdr", "education", "multilingual"]
 cover:

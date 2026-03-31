@@ -2,6 +2,7 @@
 title: "Steel and Cement Make Wastewater That Can Permanently Sequester 30 Million Tonnes of CO₂"
 date: 2026-03-31
 slug: steel-cement-alkaline-wastewater-carbon-sequestration-30mt
+aliases: ["/s/184"]
 description: "New research shows alkaline wastewater from steel and cement production can chemically bind up to 30 million tonnes of CO₂ per year — using industrial waste streams that already exist."
 tags: ["carbon-removal", "cdr", "industrial", "steel", "cement", "mineral-carbonation", "research"]
 cover:
