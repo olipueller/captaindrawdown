@@ -3,6 +3,7 @@ title: "The EU Carbon Market Could Scale CDR to 60 Million Tonnes by 2050"
 description: "A new study from the Potsdam Institute finds that integrating carbon dioxide removals into the EU ETS could deliver 60 Mt/yr by 2050 — without weakening the emissions cap."
 date: 2026-04-01T07:45:00Z
 slug: eu-ets-carbon-removals-60-million-tonnes
+aliases: ["/s/186"]
 pillar: "policy"
 tags: ["CDR", "EU ETS", "carbon market", "DAC", "BECCS", "policy", "Europe"]
 summary: "Integrating CDR into the EU's Emissions Trading System could deliver 60 million tonnes of removals per year by 2050. The math works — and the cap holds."

@@ -3,6 +3,7 @@ title: "The remove CDR Accelerator Is Coming to Latin America"
 description: "The European CDR startup accelerator is expanding to LatAm — an 8-month program connecting startups with buyers, verifiers, and investors. About time."
 date: 2026-04-01T12:10:00Z
 slug: remove-cdr-accelerator-latin-america
+aliases: ["/s/189"]
 pillar: "market"
 tags: ["CDR", "Latin America", "accelerator", "remove", "biochar", "enhanced weathering", "carbon market"]
 summary: "Remove's CDR accelerator is expanding to Latin America — a region with exceptional potential for biochar, enhanced weathering, and other land-based CDR methods."

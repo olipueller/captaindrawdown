@@ -3,6 +3,7 @@ title: "New Zealand's Marine CDR Trial — And Why the Controversy Is Appropriat
 description: "A startup wants to run mCDR trials in New Zealand waters. Radio NZ asked the hard questions. The public debate on marine CDR governance is exactly what the field needs."
 date: 2026-04-01T14:55:00Z
 slug: new-zealand-marine-cdr-mcdr-controversy
+aliases: ["/s/188"]
 pillar: "science"
 tags: ["CDR", "marine CDR", "mCDR", "ocean alkalinity enhancement", "ocean fertilisation", "Gigablue", "New Zealand", "governance"]
 summary: "A Gigablue trial in New Zealand waters has sparked serious public debate about marine CDR governance. That debate is healthy — mCDR is nascent technology that deserves scrutiny."

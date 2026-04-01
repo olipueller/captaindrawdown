@@ -3,6 +3,7 @@ title: "Gigablue Raised $20M to Pull CO₂ from the Ocean. Here's the Plan."
 description: "Gigablue's $20M Series A first close, led by Planet Ocean Capital, funds a microalgae-based marine CDR approach that plugs into existing ocean infrastructure. The permanence question is still open."
 date: 2026-04-01T17:20:00Z
 slug: gigablue-20m-ocean-carbon-removal-series-a
+aliases: ["/s/187"]
 pillar: "market"
 tags: ["CDR", "marine CDR", "mCDR", "Gigablue", "funding", "ocean carbon removal", "Series A"]
 summary: "Gigablue's $20M Series A funds a marine CDR approach built around microalgae carbon sinking. Low marginal cost potential — but the permanence and MRV questions remain open."

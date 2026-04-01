@@ -3,6 +3,7 @@ title: "RepAir Carbon Opens a European HQ in Luxembourg. Here's Why It Matters."
 description: "The Israeli electrochemical DAC company is planting its flag in the EU — targeting what could become Europe's first onshore direct air capture and storage project."
 date: 2026-04-01T09:30:00Z
 slug: repair-carbon-luxembourg-european-dac-expansion
+aliases: ["/s/190"]
 pillar: "news"
 tags: ["CDR", "DAC", "RepAir Carbon", "Europe", "Luxembourg", "carbon removal", "direct air capture"]
 summary: "RepAir Carbon's new Luxembourg office signals growing momentum in European DAC infrastructure — and puts an Israeli company at the center of EU climate tech."
