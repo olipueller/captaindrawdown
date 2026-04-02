@@ -1,7 +1,7 @@
 ---
 title: "A. O. Shirale"
 description: "A. O. Shirale is a Mid-career Soil Carbon researcher at ICAR-National Bureau of Soil Survey and Land Use Planning in IN. With 39 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.880184
+date: 2026-04-02T07:03:24.718358
 url: "/cdr-researcher-census/researchers/a-o-shirale-a5015273/"
 layout: "researcher"
 hiddenInHomeList: true

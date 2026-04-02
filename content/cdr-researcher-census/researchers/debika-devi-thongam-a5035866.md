@@ -1,7 +1,7 @@
 ---
 title: "Debika Devi Thongam"
 description: "Debika Devi Thongam is a Mid-career General CDR researcher at Czech Academy of Sciences, Institute of Physics of Materials in CZ. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.354105
+date: 2026-04-02T07:03:25.418455
 url: "/cdr-researcher-census/researchers/debika-devi-thongam-a5035866/"
 layout: "researcher"
 hiddenInHomeList: true

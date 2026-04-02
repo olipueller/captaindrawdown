@@ -1,7 +1,7 @@
 ---
 title: "Mohamad A. Kabbani"
 description: "Mohamad A. Kabbani is a Mid-career General CDR researcher at Shell (United States) in US. With 12 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.851376
+date: 2026-04-02T07:03:24.677008
 url: "/cdr-researcher-census/researchers/mohamad-a-kabbani-a5041481/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Elnaz Jafari Ozumchelouei"
 description: "Elnaz Jafari Ozumchelouei is a Mid-career Biochar researcher at University of Tehran in IR. With 9 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.775706
+date: 2026-04-02T07:03:24.576871
 url: "/cdr-researcher-census/researchers/elnaz-jafari-ozumchelouei-a5067676/"
 layout: "researcher"
 hiddenInHomeList: true

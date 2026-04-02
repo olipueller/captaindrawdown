@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Azam Usto"
 description: "Muhammad Azam Usto is a Mid-career carbon dioxide removal researcher at Dawood University of Engineering and Technology in PK. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.693602
+date: 2026-04-02T07:03:25.948932
 url: "/cdr-researcher-census/researchers/muhammad-azam-usto-a5065159/"
 layout: "researcher"
 hiddenInHomeList: true

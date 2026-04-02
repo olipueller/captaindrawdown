@@ -1,7 +1,7 @@
 ---
 title: "David Izikowitz"
 description: "David Izikowitz is a Mid-career DAC researcher at Shanghai Jiao Tong University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.292733
+date: 2026-04-02T07:03:25.331624
 url: "/cdr-researcher-census/researchers/david-izikowitz-a5049820/"
 layout: "researcher"
 hiddenInHomeList: true

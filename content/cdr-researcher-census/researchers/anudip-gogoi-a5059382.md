@@ -1,7 +1,7 @@
 ---
 title: "Anudip Gogoi"
 description: "Anudip Gogoi is a Mid-career Soil Carbon researcher at Mizoram University in IN. With 12 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.745963
+date: 2026-04-02T07:03:24.533726
 url: "/cdr-researcher-census/researchers/anudip-gogoi-a5059382/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yanyu Song"
 description: "Yanyu Song is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 46 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.681624
+date: 2026-04-02T07:03:24.441558
 url: "/cdr-researcher-census/researchers/yanyu-song-a5069603/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Mingyu Zhao"
 description: "Mingyu Zhao is a Mid-career Biochar researcher at Ningbo University in CN. With 17 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.397853
+date: 2026-04-02T07:03:26.963490
 url: "/cdr-researcher-census/researchers/mingyu-zhao-a5023752/"
 layout: "researcher"
 hiddenInHomeList: true

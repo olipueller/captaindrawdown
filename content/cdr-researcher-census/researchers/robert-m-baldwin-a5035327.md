@@ -1,7 +1,7 @@
 ---
 title: "Robert M. Baldwin"
 description: "Robert M. Baldwin is an Early-career General CDR researcher at National Renewable Energy Laboratory in US. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.991488
+date: 2026-04-02T07:03:26.348272
 url: "/cdr-researcher-census/researchers/robert-m-baldwin-a5035327/"
 layout: "researcher"
 hiddenInHomeList: true

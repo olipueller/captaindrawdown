@@ -1,7 +1,7 @@
 ---
 title: "Yuhong Tian"
 description: "Yuhong Tian is a Senior General CDR researcher at Beijing Normal University in CN. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.362316
+date: 2026-04-02T07:03:25.431455
 url: "/cdr-researcher-census/researchers/yuhong-tian-a5102360/"
 layout: "researcher"
 hiddenInHomeList: true

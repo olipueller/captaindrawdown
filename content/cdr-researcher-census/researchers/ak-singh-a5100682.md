@@ -1,7 +1,7 @@
 ---
 title: "A.K. Singh"
 description: "A.K. Singh is a Senior Soil Carbon researcher at Indian Institute of Management Lucknow in IN. With 43 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.704496
+date: 2026-04-02T07:03:24.472859
 url: "/cdr-researcher-census/researchers/ak-singh-a5100682/"
 layout: "researcher"
 hiddenInHomeList: true

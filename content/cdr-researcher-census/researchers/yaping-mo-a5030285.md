@@ -1,7 +1,7 @@
 ---
 title: "Yaping Mo"
 description: "Yaping Mo is a Mid-career Soil Carbon researcher at University of Portsmouth in GB. With 12 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.384325
+date: 2026-04-02T07:03:25.463620
 url: "/cdr-researcher-census/researchers/yaping-mo-a5030285/"
 layout: "researcher"
 hiddenInHomeList: true

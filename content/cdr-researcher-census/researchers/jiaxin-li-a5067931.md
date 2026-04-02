@@ -1,7 +1,7 @@
 ---
 title: "Jiaxin Li"
 description: "Jiaxin Li is a Mid-career carbon dioxide removal researcher at Lanzhou University in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.393294
+date: 2026-04-02T07:03:25.476273
 url: "/cdr-researcher-census/researchers/jiaxin-li-a5067931/"
 layout: "researcher"
 hiddenInHomeList: true

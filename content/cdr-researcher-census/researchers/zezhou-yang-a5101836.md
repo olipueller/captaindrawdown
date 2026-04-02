@@ -1,7 +1,7 @@
 ---
 title: "Zezhou Yang"
 description: "Zezhou Yang is a Mid-career carbon dioxide removal researcher at Peking University in CN. With 17 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.278499
+date: 2026-04-02T07:03:26.794316
 url: "/cdr-researcher-census/researchers/zezhou-yang-a5101836/"
 layout: "researcher"
 hiddenInHomeList: true

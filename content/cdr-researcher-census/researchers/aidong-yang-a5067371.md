@@ -1,7 +1,7 @@
 ---
 title: "Aidong Yang"
 description: "Aidong Yang is a Senior General CDR researcher at University of Oxford in GB. With 229 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.130854
+date: 2026-04-02T07:03:23.683823
 url: "/cdr-researcher-census/researchers/aidong-yang-a5067371/"
 layout: "researcher"
 hiddenInHomeList: true

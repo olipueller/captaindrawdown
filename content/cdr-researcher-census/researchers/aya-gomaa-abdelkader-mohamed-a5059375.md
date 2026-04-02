@@ -1,7 +1,7 @@
 ---
 title: "Aya Gomaa Abdelkader Mohamed"
 description: "Aya Gomaa Abdelkader Mohamed is a Mid-career General CDR researcher at Helmholtz-Zentrum Berlin für Materialien und Energie in DE. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.447089
+date: 2026-04-02T07:03:24.100287
 url: "/cdr-researcher-census/researchers/aya-gomaa-abdelkader-mohamed-a5059375/"
 layout: "researcher"
 hiddenInHomeList: true

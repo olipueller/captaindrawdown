@@ -1,7 +1,7 @@
 ---
 title: "Loekie Schreefel"
 description: "Loekie Schreefel is a Mid-career General CDR researcher at Wageningen University & Research in NL. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.858741
+date: 2026-04-02T07:03:24.687830
 url: "/cdr-researcher-census/researchers/loekie-schreefel-a5061011/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Shuxia Jia"
 description: "Shuxia Jia is a Senior Soil Carbon researcher at University of New Brunswick in CA. With 52 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.335453
+date: 2026-04-02T07:03:23.957183
 url: "/cdr-researcher-census/researchers/shuxia-jia-a5025706/"
 layout: "researcher"
 hiddenInHomeList: true

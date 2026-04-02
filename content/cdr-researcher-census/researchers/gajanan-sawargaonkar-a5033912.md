@@ -1,7 +1,7 @@
 ---
 title: "Gajanan Sawargaonkar"
 description: "Gajanan Sawargaonkar is a Mid-career Soil Carbon researcher at International Crops Research Institute for the Semi-Arid Tropics in IN. With 57 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.042769
+date: 2026-04-02T07:03:24.969821
 url: "/cdr-researcher-census/researchers/gajanan-sawargaonkar-a5033912/"
 layout: "researcher"
 hiddenInHomeList: true

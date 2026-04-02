@@ -1,7 +1,7 @@
 ---
 title: "Nasir Bashir Naikoo"
 description: "Nasir Bashir Naikoo is a Mid-career Soil Carbon researcher at Sher-e-Kashmir University of Agricultural Sciences and Technology of Kashmir in IN. With 26 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.345031
+date: 2026-04-02T07:03:26.888706
 url: "/cdr-researcher-census/researchers/nasir-bashir-naikoo-a5082210/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Laura Márquez"
 description: "Laura Márquez is a Senior Biochar researcher at Universitat Autònoma de Barcelona in ES. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.889671
+date: 2026-04-02T07:03:26.200973
 url: "/cdr-researcher-census/researchers/laura-marquez-a5103172/"
 layout: "researcher"
 hiddenInHomeList: true

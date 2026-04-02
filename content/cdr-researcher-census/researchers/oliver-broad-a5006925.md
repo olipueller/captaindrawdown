@@ -1,7 +1,7 @@
 ---
 title: "Oliver Broad"
 description: "Oliver Broad is a Mid-career General CDR researcher at University College London in GB. With 52 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.346087
+date: 2026-04-02T07:03:23.971359
 url: "/cdr-researcher-census/researchers/oliver-broad-a5006925/"
 layout: "researcher"
 hiddenInHomeList: true

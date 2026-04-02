@@ -1,7 +1,7 @@
 ---
 title: "Karina Pulrolnik"
 description: "Karina Pulrolnik is a Senior Soil Carbon researcher at Brazilian Agricultural Research Corporation in BR. With 47 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.835267
+date: 2026-04-02T07:03:24.653950
 url: "/cdr-researcher-census/researchers/karina-pulrolnik-a5064620/"
 layout: "researcher"
 hiddenInHomeList: true

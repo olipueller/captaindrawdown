@@ -1,7 +1,7 @@
 ---
 title: "Xueyan Xue"
 description: "Xueyan Xue is a Mid-career Biochar researcher at Xinjiang Technical Institute of Physics & Chemistry in CN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.141339
+date: 2026-04-02T07:03:25.116155
 url: "/cdr-researcher-census/researchers/xueyan-xue-a5005303/"
 layout: "researcher"
 hiddenInHomeList: true

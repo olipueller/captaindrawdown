@@ -1,7 +1,7 @@
 ---
 title: "Freider Duran"
 description: "Freider Duran is a Mid-career Biochar researcher at University of Atlántico in CO. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.876826
+date: 2026-04-02T07:03:26.181385
 url: "/cdr-researcher-census/researchers/freider-duran-a5047259/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Miori Kataoka"
 description: "Miori Kataoka is an Early-career carbon dioxide removal researcher at Tokyo Metropolitan University in JP. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.952496
+date: 2026-04-02T07:03:26.295948
 url: "/cdr-researcher-census/researchers/miori-kataoka-a5011168/"
 layout: "researcher"
 hiddenInHomeList: true

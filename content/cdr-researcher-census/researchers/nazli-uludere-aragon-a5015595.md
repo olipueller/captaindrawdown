@@ -1,7 +1,7 @@
 ---
 title: "Nazli Uludere Aragon"
 description: "Nazli Uludere Aragon is a Mid-career General CDR researcher at University of Montana in US. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.951887
+date: 2026-04-02T07:03:24.833320
 url: "/cdr-researcher-census/researchers/nazli-uludere-aragon-a5015595/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Laura Castañeda‐Gómez"
 description: "Laura Castañeda‐Gómez is a Mid-career Soil Carbon researcher at Department of Biological Sciences in BY. With 27 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.575187
+date: 2026-04-02T07:03:24.284292
 url: "/cdr-researcher-census/researchers/laura-castanedagomez-a5003960/"
 layout: "researcher"
 hiddenInHomeList: true

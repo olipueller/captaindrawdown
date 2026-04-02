@@ -1,7 +1,7 @@
 ---
 title: "Estefania Velilla"
 description: "Estefania Velilla is a Mid-career Soil Carbon researcher at University of Groningen in NL. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.042548
+date: 2026-04-02T07:03:26.424784
 url: "/cdr-researcher-census/researchers/estefania-velilla-a5070122/"
 layout: "researcher"
 hiddenInHomeList: true

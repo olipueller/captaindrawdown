@@ -1,7 +1,7 @@
 ---
 title: "Adepeju Nafisat Sanusi"
 description: "Adepeju Nafisat Sanusi is a Mid-career DAC researcher in GB. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.829252
+date: 2026-04-02T07:03:26.114273
 url: "/cdr-researcher-census/researchers/adepeju-nafisat-sanusi-a5117692/"
 layout: "researcher"
 hiddenInHomeList: true

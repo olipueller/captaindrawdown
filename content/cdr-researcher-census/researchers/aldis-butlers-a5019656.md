@@ -1,7 +1,7 @@
 ---
 title: "Aldis Butlers"
 description: "Aldis Butlers is a Mid-career Soil Carbon researcher at State Forest Research Institute in IN. With 67 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.444291
+date: 2026-04-02T07:03:25.552339
 url: "/cdr-researcher-census/researchers/aldis-butlers-a5019656/"
 layout: "researcher"
 hiddenInHomeList: true

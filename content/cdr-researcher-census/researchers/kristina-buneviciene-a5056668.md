@@ -1,7 +1,7 @@
 ---
 title: "Kristina Bunevičienė"
 description: "Kristina Bunevičienė is a Mid-career carbon dioxide removal researcher at Lithuanian Research Centre for Agriculture and Forestry in LT. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.941143
+date: 2026-04-02T07:03:26.279771
 url: "/cdr-researcher-census/researchers/kristina-buneviciene-a5056668/"
 layout: "researcher"
 hiddenInHomeList: true

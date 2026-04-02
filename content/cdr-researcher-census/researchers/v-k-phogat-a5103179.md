@@ -1,7 +1,7 @@
 ---
 title: "V. K. Phogat"
 description: "V. K. Phogat is a Mid-career General CDR researcher. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.800016
+date: 2026-04-02T07:03:26.072888
 url: "/cdr-researcher-census/researchers/v-k-phogat-a5103179/"
 layout: "researcher"
 hiddenInHomeList: true

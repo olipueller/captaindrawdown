@@ -1,7 +1,7 @@
 ---
 title: "Yanghui Deng"
 description: "Yanghui Deng is a Mid-career Soil Carbon researcher at Chinese Research Academy of Environmental Sciences in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.434245
+date: 2026-04-02T07:03:25.537721
 url: "/cdr-researcher-census/researchers/yanghui-deng-a5033657/"
 layout: "researcher"
 hiddenInHomeList: true

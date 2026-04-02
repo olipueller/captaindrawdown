@@ -1,7 +1,7 @@
 ---
 title: "Tim Hierlemann"
 description: "Tim Hierlemann is a Mid-career Enhanced Weathering researcher. With 2 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.236622
+date: 2026-04-02T07:03:26.730579
 url: "/cdr-researcher-census/researchers/tim-hierlemann-a5081058/"
 layout: "researcher"
 hiddenInHomeList: true

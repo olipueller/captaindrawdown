@@ -1,7 +1,7 @@
 ---
 title: "Zhenghua Lian"
 description: "Zhenghua Lian is a Mid-career General CDR researcher. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.077589
+date: 2026-04-02T07:03:26.475481
 url: "/cdr-researcher-census/researchers/zhenghua-lian-a5107745/"
 layout: "researcher"
 hiddenInHomeList: true

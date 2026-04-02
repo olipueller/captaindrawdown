@@ -1,7 +1,7 @@
 ---
 title: "Xinyi Peng"
 description: "Xinyi Peng is an Early-career Soil Carbon researcher at Capital Medical University in CN. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.270880
+date: 2026-04-02T07:03:26.782381
 url: "/cdr-researcher-census/researchers/xinyi-peng-a5102487/"
 layout: "researcher"
 hiddenInHomeList: true

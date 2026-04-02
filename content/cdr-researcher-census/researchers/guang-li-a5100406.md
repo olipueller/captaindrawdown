@@ -1,7 +1,7 @@
 ---
 title: "Guang Li"
 description: "Guang Li is a Senior Soil Carbon researcher at State Institute for Drug Control in CZ. With 66 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.604253
+date: 2026-04-02T07:03:24.326342
 url: "/cdr-researcher-census/researchers/guang-li-a5100406/"
 layout: "researcher"
 hiddenInHomeList: true

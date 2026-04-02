@@ -1,7 +1,7 @@
 ---
 title: "Joachim Boissy"
 description: "Joachim Boissy is a Mid-career General CDR researcher at Territoires in FR. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.935491
+date: 2026-04-02T07:03:24.806794
 url: "/cdr-researcher-census/researchers/joachim-boissy-a5005022/"
 layout: "researcher"
 hiddenInHomeList: true

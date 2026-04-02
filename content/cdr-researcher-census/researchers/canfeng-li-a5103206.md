@@ -1,7 +1,7 @@
 ---
 title: "Canfeng Li"
 description: "Canfeng Li is a Mid-career Soil Carbon researcher at Ministry of Natural Resources in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.958938
+date: 2026-04-02T07:03:26.305263
 url: "/cdr-researcher-census/researchers/canfeng-li-a5103206/"
 layout: "researcher"
 hiddenInHomeList: true

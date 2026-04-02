@@ -1,7 +1,7 @@
 ---
 title: "Ahmad Mustapha Mohamad Pazi"
 description: "Ahmad Mustapha Mohamad Pazi is a Mid-career Soil Carbon researcher. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.030395
+date: 2026-04-02T07:03:26.405799
 url: "/cdr-researcher-census/researchers/ahmad-mustapha-mohamad-pazi-a5060475/"
 layout: "researcher"
 hiddenInHomeList: true

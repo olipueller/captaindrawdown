@@ -1,7 +1,7 @@
 ---
 title: "S. M. Shamsuzzaman"
 description: "S. M. Shamsuzzaman is a Mid-career Biochar researcher at Bangladesh Institute of Development Studies in BD. With 21 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.862710
+date: 2026-04-02T07:03:26.161929
 url: "/cdr-researcher-census/researchers/s-m-shamsuzzaman-a5057106/"
 layout: "researcher"
 hiddenInHomeList: true

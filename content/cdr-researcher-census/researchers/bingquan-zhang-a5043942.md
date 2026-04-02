@@ -1,7 +1,7 @@
 ---
 title: "Bingquan Zhang"
 description: "Bingquan Zhang is a Senior General CDR researcher at Yale University in US. With 47 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.766180
+date: 2026-04-02T07:03:24.563629
 url: "/cdr-researcher-census/researchers/bingquan-zhang-a5043942/"
 layout: "researcher"
 hiddenInHomeList: true

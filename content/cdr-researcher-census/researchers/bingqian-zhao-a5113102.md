@@ -1,7 +1,7 @@
 ---
 title: "Bingqian Zhao"
 description: "Bingqian Zhao is a Mid-career Soil Carbon researcher at University of Copenhagen in DK. With 21 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.360602
+date: 2026-04-02T07:03:26.911151
 url: "/cdr-researcher-census/researchers/bingqian-zhao-a5113102/"
 layout: "researcher"
 hiddenInHomeList: true

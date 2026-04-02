@@ -1,7 +1,7 @@
 ---
 title: "Yongpan Shang"
 description: "Yongpan Shang is a Mid-career Soil Carbon researcher at Gansu Agricultural University in CN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.466775
+date: 2026-04-02T07:03:25.588380
 url: "/cdr-researcher-census/researchers/yongpan-shang-a5104219/"
 layout: "researcher"
 hiddenInHomeList: true

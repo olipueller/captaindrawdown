@@ -1,7 +1,7 @@
 ---
 title: "Chris DellaCorte"
 description: "Chris DellaCorte is a Senior carbon dioxide removal researcher at Glenn Research Center in US. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.308976
+date: 2026-04-02T07:03:25.353526
 url: "/cdr-researcher-census/researchers/chris-dellacorte-a5113992/"
 layout: "researcher"
 hiddenInHomeList: true

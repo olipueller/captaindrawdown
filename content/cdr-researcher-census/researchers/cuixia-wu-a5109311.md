@@ -1,7 +1,7 @@
 ---
 title: "Cuixia Wu"
 description: "Cuixia Wu is a Mid-career Soil Carbon researcher at Chinese Academy of Agricultural Sciences in CN. With 39 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.591394
+date: 2026-04-02T07:03:24.307180
 url: "/cdr-researcher-census/researchers/cuixia-wu-a5109311/"
 layout: "researcher"
 hiddenInHomeList: true

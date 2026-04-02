@@ -1,7 +1,7 @@
 ---
 title: "Lukas Albrecht"
 description: "Lukas Albrecht is a Mid-career Soil Carbon researcher at Medical University of Vienna in AT. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.077379
+date: 2026-04-02T07:03:25.022713
 url: "/cdr-researcher-census/researchers/lukas-albrecht-a5045246/"
 layout: "researcher"
 hiddenInHomeList: true

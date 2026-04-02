@@ -1,7 +1,7 @@
 ---
 title: "Kexin Huang"
 description: "Kexin Huang is a Mid-career Soil Carbon researcher at Southeast University in CN. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.348704
+date: 2026-04-02T07:03:25.409258
 url: "/cdr-researcher-census/researchers/kexin-huang-a5005251/"
 layout: "researcher"
 hiddenInHomeList: true

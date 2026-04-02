@@ -1,7 +1,7 @@
 ---
 title: "Priskila Adjani Diankristanti"
 description: "Priskila Adjani Diankristanti is a Mid-career BECCS researcher at National Cheng Kung University in TW. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.007006
+date: 2026-04-02T07:03:26.371164
 url: "/cdr-researcher-census/researchers/priskila-adjani-diankristanti-a5017742/"
 layout: "researcher"
 hiddenInHomeList: true

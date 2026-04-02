@@ -1,7 +1,7 @@
 ---
 title: "Federico Ardenti"
 description: "Federico Ardenti is a Mid-career Soil Carbon researcher at Università Cattolica del Sacro Cuore in IT. With 23 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.015277
+date: 2026-04-02T07:03:24.930306
 url: "/cdr-researcher-census/researchers/federico-ardenti-a5053690/"
 layout: "researcher"
 hiddenInHomeList: true

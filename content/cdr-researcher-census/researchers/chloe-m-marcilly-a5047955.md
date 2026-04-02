@@ -1,7 +1,7 @@
 ---
 title: "Chloé M. Marcilly"
 description: "Chloé M. Marcilly is an Early-career General CDR researcher at University of Oslo in NO. With 14 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.993251
+date: 2026-04-02T07:03:26.351123
 url: "/cdr-researcher-census/researchers/chloe-m-marcilly-a5047955/"
 layout: "researcher"
 hiddenInHomeList: true

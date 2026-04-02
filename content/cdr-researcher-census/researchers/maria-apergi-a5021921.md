@@ -1,7 +1,7 @@
 ---
 title: "Maria Apergi"
 description: "Maria Apergi is a Senior General CDR researcher at Research Institute For Sustainability – Helmholtz Centre Potsdam in DE. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.953692
+date: 2026-04-02T07:03:24.835853
 url: "/cdr-researcher-census/researchers/maria-apergi-a5021921/"
 layout: "researcher"
 hiddenInHomeList: true

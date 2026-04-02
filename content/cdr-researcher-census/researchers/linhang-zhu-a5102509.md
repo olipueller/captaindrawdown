@@ -1,7 +1,7 @@
 ---
 title: "Linhang Zhu"
 description: "Linhang Zhu is a Mid-career carbon dioxide removal researcher at Zhejiang Sci-Tech University in CN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.595246
+date: 2026-04-02T07:03:25.798238
 url: "/cdr-researcher-census/researchers/linhang-zhu-a5102509/"
 layout: "researcher"
 hiddenInHomeList: true

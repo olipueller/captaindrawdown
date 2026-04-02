@@ -1,7 +1,7 @@
 ---
 title: "Qiangxin Ou"
 description: "Qiangxin Ou is a Mid-career General CDR researcher at Anhui Agricultural University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.017246
+date: 2026-04-02T07:03:26.385754
 url: "/cdr-researcher-census/researchers/qiangxin-ou-a5088182/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Zheyuan Xiao"
 description: "Zheyuan Xiao is a Mid-career General CDR researcher at North China University of Water Resources and Electric Power in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.131637
+date: 2026-04-02T07:03:26.552534
 url: "/cdr-researcher-census/researchers/zheyuan-xiao-a5029071/"
 layout: "researcher"
 hiddenInHomeList: true

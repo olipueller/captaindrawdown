@@ -1,7 +1,7 @@
 ---
 title: "Junjie Lei"
 description: "Junjie Lei is a Mid-career Soil Carbon researcher at Kunming University of Science and Technology in CN. With 33 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.629661
+date: 2026-04-02T07:03:24.361321
 url: "/cdr-researcher-census/researchers/junjie-lei-a5080763/"
 layout: "researcher"
 hiddenInHomeList: true

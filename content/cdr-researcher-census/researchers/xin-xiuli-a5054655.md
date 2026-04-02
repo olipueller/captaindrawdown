@@ -1,7 +1,7 @@
 ---
 title: "Xin Xiuli"
 description: "Xin Xiuli is a Senior Soil Carbon researcher. With 20 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.703355
+date: 2026-04-02T07:03:25.965094
 url: "/cdr-researcher-census/researchers/xin-xiuli-a5054655/"
 layout: "researcher"
 hiddenInHomeList: true

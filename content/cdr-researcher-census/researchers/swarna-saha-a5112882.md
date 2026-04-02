@@ -1,7 +1,7 @@
 ---
 title: "Swarna Saha"
 description: "Swarna Saha is a Mid-career Biochar researcher at Florida Institute of Technology in US. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.913054
+date: 2026-04-02T07:03:24.771935
 url: "/cdr-researcher-census/researchers/swarna-saha-a5112882/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yuqi Wei"
 description: "Yuqi Wei is a Senior Soil Carbon researcher at Donghua University in CN. With 40 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.620718
+date: 2026-04-02T07:03:24.349743
 url: "/cdr-researcher-census/researchers/yuqi-wei-a5103820/"
 layout: "researcher"
 hiddenInHomeList: true

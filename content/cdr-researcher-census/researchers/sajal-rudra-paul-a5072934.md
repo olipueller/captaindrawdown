@@ -1,7 +1,7 @@
 ---
 title: "Sajal Rudra Paul"
 description: "Sajal Rudra Paul is a Mid-career Biochar researcher at National Institute of Technology Agartala in IN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.475637
+date: 2026-04-02T07:03:25.626206
 url: "/cdr-researcher-census/researchers/sajal-rudra-paul-a5072934/"
 layout: "researcher"
 hiddenInHomeList: true

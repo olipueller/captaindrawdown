@@ -1,7 +1,7 @@
 ---
 title: "Emily E. Matula"
 description: "Emily E. Matula is a Mid-career carbon dioxide removal researcher. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.108825
+date: 2026-04-02T07:03:26.519164
 url: "/cdr-researcher-census/researchers/emily-e-matula-a5054659/"
 layout: "researcher"
 hiddenInHomeList: true

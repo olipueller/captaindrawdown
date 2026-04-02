@@ -1,7 +1,7 @@
 ---
 title: "Rita Choudhary"
 description: "Rita Choudhary is a Mid-career Soil Carbon researcher at Manav Rachna International Institute of Research and Studies in IN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.786416
+date: 2026-04-02T07:03:26.052565
 url: "/cdr-researcher-census/researchers/rita-choudhary-a5038188/"
 layout: "researcher"
 hiddenInHomeList: true

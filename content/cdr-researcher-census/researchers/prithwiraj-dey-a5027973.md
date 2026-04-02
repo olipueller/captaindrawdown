@@ -1,7 +1,7 @@
 ---
 title: "Prithwiraj Dey"
 description: "Prithwiraj Dey is a Senior Soil Carbon researcher at Indian Institute of Technology Kharagpur in IN. With 64 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.720763
+date: 2026-04-02T07:03:24.495724
 url: "/cdr-researcher-census/researchers/prithwiraj-dey-a5027973/"
 layout: "researcher"
 hiddenInHomeList: true

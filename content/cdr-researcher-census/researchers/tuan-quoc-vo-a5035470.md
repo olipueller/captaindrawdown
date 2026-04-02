@@ -1,7 +1,7 @@
 ---
 title: "Tuan Quoc Vo"
 description: "Tuan Quoc Vo is a Mid-career General CDR researcher at Can Tho University in VN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.667653
+date: 2026-04-02T07:03:24.421941
 url: "/cdr-researcher-census/researchers/tuan-quoc-vo-a5035470/"
 layout: "researcher"
 hiddenInHomeList: true

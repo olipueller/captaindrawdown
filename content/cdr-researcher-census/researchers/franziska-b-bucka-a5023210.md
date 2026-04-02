@@ -1,7 +1,7 @@
 ---
 title: "Franziska B. Bucka"
 description: "Franziska B. Bucka is a Mid-career Soil Carbon researcher at Goethe University Frankfurt in DE. With 50 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.818803
+date: 2026-04-02T07:03:24.633058
 url: "/cdr-researcher-census/researchers/franziska-b-bucka-a5023210/"
 layout: "researcher"
 hiddenInHomeList: true

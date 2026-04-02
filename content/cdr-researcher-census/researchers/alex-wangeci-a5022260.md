@@ -1,7 +1,7 @@
 ---
 title: "Alex Wangeci"
 description: "Alex Wangeci is a Mid-career Soil Carbon researcher at Aarhus University in DK. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.086838
+date: 2026-04-02T07:03:25.035253
 url: "/cdr-researcher-census/researchers/alex-wangeci-a5022260/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Mengxing Wu"
 description: "Mengxing Wu is a Mid-career Soil Carbon researcher at Jiangsu Province Hospital in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.924865
+date: 2026-04-02T07:03:26.256143
 url: "/cdr-researcher-census/researchers/mengxing-wu-a5052543/"
 layout: "researcher"
 hiddenInHomeList: true

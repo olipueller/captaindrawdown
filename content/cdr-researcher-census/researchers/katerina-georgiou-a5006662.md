@@ -1,7 +1,7 @@
 ---
 title: "Katerina Georgiou"
 description: "Katerina Georgiou is a Senior Soil Carbon researcher at Oregon State University in US. With 115 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.133489
+date: 2026-04-02T07:03:23.686780
 url: "/cdr-researcher-census/researchers/katerina-georgiou-a5006662/"
 layout: "researcher"
 hiddenInHomeList: true

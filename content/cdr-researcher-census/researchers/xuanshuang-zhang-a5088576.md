@@ -1,7 +1,7 @@
 ---
 title: "Xuanshuang Zhang"
 description: "Xuanshuang Zhang is an Early-career Soil Carbon researcher at Shandong Agricultural University in CN. With 3 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.593678
+date: 2026-04-02T07:03:25.795947
 url: "/cdr-researcher-census/researchers/xuanshuang-zhang-a5088576/"
 layout: "researcher"
 hiddenInHomeList: true

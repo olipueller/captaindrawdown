@@ -1,7 +1,7 @@
 ---
 title: "Fengxiang Wang"
 description: "Fengxiang Wang is a Senior BECCS researcher at Chinese Academy of Sciences in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.397999
+date: 2026-04-02T07:03:25.485047
 url: "/cdr-researcher-census/researchers/fengxiang-wang-a5115597/"
 layout: "researcher"
 hiddenInHomeList: true

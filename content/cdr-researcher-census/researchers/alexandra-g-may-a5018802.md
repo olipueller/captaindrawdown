@@ -1,7 +1,7 @@
 ---
 title: "Alexandra G. May"
 description: "Alexandra G. May is a Mid-career carbon dioxide removal researcher at ATI Inc. (United States) in US. With 23 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.472822
+date: 2026-04-02T07:03:25.598111
 url: "/cdr-researcher-census/researchers/alexandra-g-may-a5018802/"
 layout: "researcher"
 hiddenInHomeList: true

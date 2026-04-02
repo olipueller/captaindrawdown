@@ -1,7 +1,7 @@
 ---
 title: "Longfei Diao"
 description: "Longfei Diao is a Mid-career Soil Carbon researcher at Shaanxi Normal University in CN. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.281126
+date: 2026-04-02T07:03:26.798219
 url: "/cdr-researcher-census/researchers/longfei-diao-a5061334/"
 layout: "researcher"
 hiddenInHomeList: true

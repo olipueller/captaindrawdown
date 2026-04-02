@@ -1,7 +1,7 @@
 ---
 title: "Xiaoqin Gao"
 description: "Xiaoqin Gao is a Mid-career Soil Carbon researcher at Shanxi University in CN. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.050080
+date: 2026-04-02T07:03:26.437146
 url: "/cdr-researcher-census/researchers/xiaoqin-gao-a5111384/"
 layout: "researcher"
 hiddenInHomeList: true

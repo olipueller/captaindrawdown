@@ -1,7 +1,7 @@
 ---
 title: "Daniel P. Dauhajre"
 description: "Daniel P. Dauhajre is a Mid-career Ocean CDR researcher at University of California, Santa Barbara in US. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.339323
+date: 2026-04-02T07:03:25.396117
 url: "/cdr-researcher-census/researchers/daniel-p-dauhajre-a5041431/"
 layout: "researcher"
 hiddenInHomeList: true

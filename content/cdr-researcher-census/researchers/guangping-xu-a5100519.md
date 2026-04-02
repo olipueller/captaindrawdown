@@ -1,7 +1,7 @@
 ---
 title: "Guangping Xu"
 description: "Guangping Xu is a Mid-career Biochar researcher at Changchun University of Science and Technology in CN. With 58 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.260809
+date: 2026-04-02T07:03:25.287733
 url: "/cdr-researcher-census/researchers/guangping-xu-a5100519/"
 layout: "researcher"
 hiddenInHomeList: true

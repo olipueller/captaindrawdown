@@ -1,7 +1,7 @@
 ---
 title: "Katrine Hahn"
 description: "Katrine Hahn is a Senior General CDR researcher. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.799956
+date: 2026-04-02T07:03:24.609522
 url: "/cdr-researcher-census/researchers/katrine-hahn-a5023846/"
 layout: "researcher"
 hiddenInHomeList: true

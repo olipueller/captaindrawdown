@@ -1,7 +1,7 @@
 ---
 title: "Sajad Ahmadi"
 description: "Sajad Ahmadi is a Mid-career Biochar researcher at Damghan University in IR. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.625956
+date: 2026-04-02T07:03:25.843887
 url: "/cdr-researcher-census/researchers/sajad-ahmadi-a5077467/"
 layout: "researcher"
 hiddenInHomeList: true

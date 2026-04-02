@@ -1,7 +1,7 @@
 ---
 title: "Boubacar Gano"
 description: "Boubacar Gano is a Mid-career Soil Carbon researcher at Donald Danforth Plant Science Center in US. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.383305
+date: 2026-04-02T07:03:25.462165
 url: "/cdr-researcher-census/researchers/boubacar-gano-a5067008/"
 layout: "researcher"
 hiddenInHomeList: true

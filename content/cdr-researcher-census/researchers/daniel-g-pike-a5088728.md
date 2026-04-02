@@ -1,7 +1,7 @@
 ---
 title: "Daniel G. Pike"
 description: "Daniel G. Pike is a Senior General CDR researcher at Rocky Mountain Institute in US. With 38 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.503275
+date: 2026-04-02T07:03:24.176623
 url: "/cdr-researcher-census/researchers/daniel-g-pike-a5088728/"
 layout: "researcher"
 hiddenInHomeList: true

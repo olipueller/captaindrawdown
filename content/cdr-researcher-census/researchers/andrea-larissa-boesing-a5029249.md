@@ -1,7 +1,7 @@
 ---
 title: "Andrea Larissa Boesing"
 description: "Andrea Larissa Boesing is a Mid-career Soil Carbon researcher at Senckenberg - Leibniz Institution for Biodiversity and Earth System Research in DE. With 38 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.327468
+date: 2026-04-02T07:03:23.946446
 url: "/cdr-researcher-census/researchers/andrea-larissa-boesing-a5029249/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Tamara J. Zelikova"
 description: "Tamara J. Zelikova is a Senior General CDR researcher at University of Colorado Boulder in US. With 59 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.306618
+date: 2026-04-02T07:03:23.918696
 url: "/cdr-researcher-census/researchers/tamara-j-zelikova-a5067838/"
 layout: "researcher"
 hiddenInHomeList: true

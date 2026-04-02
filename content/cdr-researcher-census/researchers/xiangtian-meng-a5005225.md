@@ -1,7 +1,7 @@
 ---
 title: "Xiangtian Meng"
 description: "Xiangtian Meng is a Senior Soil Carbon researcher at Weihai Science and Technology Bureau in CN. With 83 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.279901
+date: 2026-04-02T07:03:23.883072
 url: "/cdr-researcher-census/researchers/xiangtian-meng-a5005225/"
 layout: "researcher"
 hiddenInHomeList: true

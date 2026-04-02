@@ -1,7 +1,7 @@
 ---
 title: "Xin Hong Tai"
 description: "Xin Hong Tai is a Mid-career carbon dioxide removal researcher. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.122398
+date: 2026-04-02T07:03:25.087944
 url: "/cdr-researcher-census/researchers/xin-hong-tai-a5058670/"
 layout: "researcher"
 hiddenInHomeList: true

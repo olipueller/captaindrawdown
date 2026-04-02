@@ -1,7 +1,7 @@
 ---
 title: "Junjie Wang"
 description: "Junjie Wang is a Mid-career Soil Carbon researcher at Guangdong Academy of Forestry in CN. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.431441
+date: 2026-04-02T07:03:27.013687
 url: "/cdr-researcher-census/researchers/junjie-wang-a5046457/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "David T. Ho"
 description: "David T. Ho is an Eminent General CDR researcher at University of Hawaiʻi at Mānoa in US. With 179 publications and an h-index of 40, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.128310
+date: 2026-04-02T07:03:23.680863
 url: "/cdr-researcher-census/researchers/david-t-ho-a5080281/"
 layout: "researcher"
 hiddenInHomeList: true

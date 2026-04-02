@@ -1,7 +1,7 @@
 ---
 title: "Nima Masoumifard"
 description: "Nima Masoumifard is a Mid-career carbon dioxide removal researcher at Phoenix Technologies (Canada) in CA. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.900689
+date: 2026-04-02T07:03:24.750580
 url: "/cdr-researcher-census/researchers/nima-masoumifard-a5011155/"
 layout: "researcher"
 hiddenInHomeList: true

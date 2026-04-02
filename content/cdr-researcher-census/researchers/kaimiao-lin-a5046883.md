@@ -1,7 +1,7 @@
 ---
 title: "Kaimiao Lin"
 description: "Kaimiao Lin is a Mid-career carbon dioxide removal researcher at Wuyi University in CN. With 25 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.190707
+date: 2026-04-02T07:03:25.186517
 url: "/cdr-researcher-census/researchers/kaimiao-lin-a5046883/"
 layout: "researcher"
 hiddenInHomeList: true

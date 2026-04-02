@@ -1,7 +1,7 @@
 ---
 title: "Cora Vos"
 description: "Cora Vos is a Mid-career Soil Carbon researcher at Johann Heinrich von Thünen-Institut in DE. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.510136
+date: 2026-04-02T07:03:24.186048
 url: "/cdr-researcher-census/researchers/cora-vos-a5040170/"
 layout: "researcher"
 hiddenInHomeList: true

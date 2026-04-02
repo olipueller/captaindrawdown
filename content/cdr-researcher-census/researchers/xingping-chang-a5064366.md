@@ -1,7 +1,7 @@
 ---
 title: "Xingping Chang"
 description: "Xingping Chang is a Mid-career Soil Carbon researcher at Agro-Environmental Protection Institute in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.208372
+date: 2026-04-02T07:03:25.211606
 url: "/cdr-researcher-census/researchers/xingping-chang-a5064366/"
 layout: "researcher"
 hiddenInHomeList: true

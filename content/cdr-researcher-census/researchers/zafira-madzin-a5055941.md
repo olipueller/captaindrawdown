@@ -1,7 +1,7 @@
 ---
 title: "Zafira Madzin"
 description: "Zafira Madzin is a Mid-career Biochar researcher at Universiti Putra Malaysia in MY. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.009531
+date: 2026-04-02T07:03:24.924016
 url: "/cdr-researcher-census/researchers/zafira-madzin-a5055941/"
 layout: "researcher"
 hiddenInHomeList: true

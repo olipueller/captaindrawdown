@@ -1,7 +1,7 @@
 ---
 title: "Yili Zheng"
 description: "Yili Zheng is a Mid-career carbon dioxide removal researcher at Beijing Forestry University in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.995067
+date: 2026-04-02T07:03:26.354171
 url: "/cdr-researcher-census/researchers/yili-zheng-a5100698/"
 layout: "researcher"
 hiddenInHomeList: true

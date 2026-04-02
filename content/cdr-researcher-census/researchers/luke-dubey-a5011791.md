@@ -1,7 +1,7 @@
 ---
 title: "Luke Dubey"
 description: "Luke Dubey is a Mid-career DAC researcher. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.519147
+date: 2026-04-02T07:03:25.687018
 url: "/cdr-researcher-census/researchers/luke-dubey-a5011791/"
 layout: "researcher"
 hiddenInHomeList: true

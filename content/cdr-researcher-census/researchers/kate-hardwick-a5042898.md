@@ -1,7 +1,7 @@
 ---
 title: "Kate Hardwick"
 description: "Kate Hardwick is a Senior General CDR researcher at Royal Botanic Gardens, Kew in GB. With 25 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.379149
+date: 2026-04-02T07:03:24.015988
 url: "/cdr-researcher-census/researchers/kate-hardwick-a5042898/"
 layout: "researcher"
 hiddenInHomeList: true

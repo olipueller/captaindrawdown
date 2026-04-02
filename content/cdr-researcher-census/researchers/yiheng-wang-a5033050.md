@@ -1,7 +1,7 @@
 ---
 title: "Yiheng Wang"
 description: "Yiheng Wang is a Senior General CDR researcher at Hohai University in CN. With 5 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.994870
+date: 2026-04-02T07:03:26.353853
 url: "/cdr-researcher-census/researchers/yiheng-wang-a5033050/"
 layout: "researcher"
 hiddenInHomeList: true

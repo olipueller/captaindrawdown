@@ -1,7 +1,7 @@
 ---
 title: "Ana Paula Rodrigues de Souza"
 description: "Ana Paula Rodrigues de Souza is a Mid-career General CDR researcher. With 16 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.013635
+date: 2026-04-02T07:03:26.380709
 url: "/cdr-researcher-census/researchers/ana-paula-rodrigues-de-souza-a5113271/"
 layout: "researcher"
 hiddenInHomeList: true

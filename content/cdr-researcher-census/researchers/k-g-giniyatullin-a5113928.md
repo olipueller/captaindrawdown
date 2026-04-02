@@ -1,7 +1,7 @@
 ---
 title: "K. G. Giniyatullin"
 description: "K. G. Giniyatullin is a Senior Biochar researcher at Kazan Federal University in RU. With 41 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.388081
+date: 2026-04-02T07:03:26.950231
 url: "/cdr-researcher-census/researchers/k-g-giniyatullin-a5113928/"
 layout: "researcher"
 hiddenInHomeList: true

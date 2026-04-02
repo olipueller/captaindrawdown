@@ -1,7 +1,7 @@
 ---
 title: "Jianjun Chen"
 description: "Jianjun Chen is a Mid-career Soil Carbon researcher at Gansu Academy of Agricultural Sciences in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.719061
+date: 2026-04-02T07:03:25.989552
 url: "/cdr-researcher-census/researchers/jianjun-chen-a5101563/"
 layout: "researcher"
 hiddenInHomeList: true

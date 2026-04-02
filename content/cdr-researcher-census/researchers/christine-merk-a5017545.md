@@ -1,7 +1,7 @@
 ---
 title: "Christine Merk"
 description: "Christine Merk is a Mid-career General CDR researcher at Kiel Institute for the World Economy in DE. With 51 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.490808
+date: 2026-04-02T07:03:24.161206
 url: "/cdr-researcher-census/researchers/christine-merk-a5017545/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yiyu Liu"
 description: "Yiyu Liu is a Mid-career carbon dioxide removal researcher at Xihua University in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.796132
+date: 2026-04-02T07:03:26.067031
 url: "/cdr-researcher-census/researchers/yiyu-liu-a5101625/"
 layout: "researcher"
 hiddenInHomeList: true

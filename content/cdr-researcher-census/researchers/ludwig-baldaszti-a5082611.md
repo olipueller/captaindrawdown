@@ -1,7 +1,7 @@
 ---
 title: "Ludwig Baldaszti"
 description: "Ludwig Baldaszti is a Mid-career Soil Carbon researcher at Royal Botanic Garden Edinburgh in GB. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.858066
+date: 2026-04-02T07:03:26.155552
 url: "/cdr-researcher-census/researchers/ludwig-baldaszti-a5082611/"
 layout: "researcher"
 hiddenInHomeList: true

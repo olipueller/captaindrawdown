@@ -1,7 +1,7 @@
 ---
 title: "Ruxiao Sun"
 description: "Ruxiao Sun is a Mid-career Soil Carbon researcher at Weihai Chest Hospital in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.897919
+date: 2026-04-02T07:03:26.212814
 url: "/cdr-researcher-census/researchers/ruxiao-sun-a5051697/"
 layout: "researcher"
 hiddenInHomeList: true

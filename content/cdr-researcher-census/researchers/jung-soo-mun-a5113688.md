@@ -1,7 +1,7 @@
 ---
 title: "Jung Soo Mun"
 description: "Jung Soo Mun is a Senior General CDR researcher at Seoul National University in KR. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.460355
+date: 2026-04-02T07:03:25.577656
 url: "/cdr-researcher-census/researchers/jung-soo-mun-a5113688/"
 layout: "researcher"
 hiddenInHomeList: true

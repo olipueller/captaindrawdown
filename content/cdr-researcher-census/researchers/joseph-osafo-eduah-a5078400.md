@@ -1,7 +1,7 @@
 ---
 title: "Joseph Osafo Eduah"
 description: "Joseph Osafo Eduah is a Mid-career Soil Carbon researcher at Cocoa Research Institute of Ghana in GH. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.140758
+date: 2026-04-02T07:03:25.115216
 url: "/cdr-researcher-census/researchers/joseph-osafo-eduah-a5078400/"
 layout: "researcher"
 hiddenInHomeList: true

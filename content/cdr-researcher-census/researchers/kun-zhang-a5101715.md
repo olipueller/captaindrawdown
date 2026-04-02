@@ -1,7 +1,7 @@
 ---
 title: "Kun Zhang"
 description: "Kun Zhang is a Senior Soil Carbon researcher at Northeast Normal University in CN. With 39 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.682290
+date: 2026-04-02T07:03:24.442353
 url: "/cdr-researcher-census/researchers/kun-zhang-a5101715/"
 layout: "researcher"
 hiddenInHomeList: true

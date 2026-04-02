@@ -1,7 +1,7 @@
 ---
 title: "Mariah Caballero"
 description: "Mariah Caballero is a Mid-career Soil Carbon researcher at Wellesley College in US. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.091610
+date: 2026-04-02T07:03:26.494944
 url: "/cdr-researcher-census/researchers/mariah-caballero-a5037075/"
 layout: "researcher"
 hiddenInHomeList: true

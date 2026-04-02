@@ -1,7 +1,7 @@
 ---
 title: "Kok Loong Yeong"
 description: "Kok Loong Yeong is a Mid-career Enhanced Weathering researcher at University of Sheffield in GB. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.823238
+date: 2026-04-02T07:03:24.639061
 url: "/cdr-researcher-census/researchers/kok-loong-yeong-a5006137/"
 layout: "researcher"
 hiddenInHomeList: true

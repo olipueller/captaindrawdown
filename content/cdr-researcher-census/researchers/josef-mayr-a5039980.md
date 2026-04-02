@@ -1,7 +1,7 @@
 ---
 title: "Josef Mayr"
 description: "Josef Mayr is a Mid-career Soil Carbon researcher at Utrecht University in NL. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.839034
+date: 2026-04-02T07:03:24.660321
 url: "/cdr-researcher-census/researchers/josef-mayr-a5039980/"
 layout: "researcher"
 hiddenInHomeList: true

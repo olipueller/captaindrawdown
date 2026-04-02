@@ -1,7 +1,7 @@
 ---
 title: "Hanshuang Zhao"
 description: "Hanshuang Zhao is a Mid-career Ocean CDR researcher at Chinese Academy of Sciences in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.650701
+date: 2026-04-02T07:03:25.883066
 url: "/cdr-researcher-census/researchers/hanshuang-zhao-a5048037/"
 layout: "researcher"
 hiddenInHomeList: true

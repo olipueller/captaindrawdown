@@ -1,7 +1,7 @@
 ---
 title: "Théo Alerte"
 description: "Théo Alerte is an Early-career General CDR researcher at University of Toronto in CA. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.642410
+date: 2026-04-02T07:03:25.869951
 url: "/cdr-researcher-census/researchers/theo-alerte-a5076696/"
 layout: "researcher"
 hiddenInHomeList: true

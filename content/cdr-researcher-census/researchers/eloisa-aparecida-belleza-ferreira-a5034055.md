@@ -1,7 +1,7 @@
 ---
 title: "Eloisa Aparecida Belleza Ferreira"
 description: "Eloisa Aparecida Belleza Ferreira is a Senior Soil Carbon researcher. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.477776
+date: 2026-04-02T07:03:25.628880
 url: "/cdr-researcher-census/researchers/eloisa-aparecida-belleza-ferreira-a5034055/"
 layout: "researcher"
 hiddenInHomeList: true

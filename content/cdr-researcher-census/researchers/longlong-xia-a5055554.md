@@ -1,7 +1,7 @@
 ---
 title: "Longlong Xia"
 description: "Longlong Xia is a Senior Soil Carbon researcher at Karlsruhe Institute of Technology in DE. With 90 publications and an h-index of 39, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.121228
+date: 2026-04-02T07:03:23.672876
 url: "/cdr-researcher-census/researchers/longlong-xia-a5055554/"
 layout: "researcher"
 hiddenInHomeList: true

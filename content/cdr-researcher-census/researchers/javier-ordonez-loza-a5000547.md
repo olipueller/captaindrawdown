@@ -1,7 +1,7 @@
 ---
 title: "Javier Ordoñez-Loza"
 description: "Javier Ordoñez-Loza is a Mid-career Biochar researcher at Western University in CA. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.077775
+date: 2026-04-02T07:03:26.475759
 url: "/cdr-researcher-census/researchers/javier-ordonez-loza-a5000547/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Changkun Fu"
 description: "Changkun Fu is a Mid-career Soil Carbon researcher at Sichuan Normal University in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.748332
+date: 2026-04-02T07:03:25.996213
 url: "/cdr-researcher-census/researchers/changkun-fu-a5052944/"
 layout: "researcher"
 hiddenInHomeList: true

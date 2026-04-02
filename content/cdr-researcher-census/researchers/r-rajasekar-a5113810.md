@@ -1,7 +1,7 @@
 ---
 title: "R. Rajasekar"
 description: "R. Rajasekar is a Mid-career Soil Carbon researcher at Indian Agricultural Research Institute in IN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.807656
+date: 2026-04-02T07:03:26.083723
 url: "/cdr-researcher-census/researchers/r-rajasekar-a5113810/"
 layout: "researcher"
 hiddenInHomeList: true

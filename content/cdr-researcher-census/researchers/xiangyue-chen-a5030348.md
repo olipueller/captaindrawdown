@@ -1,7 +1,7 @@
 ---
 title: "Xiangyue Chen"
 description: "Xiangyue Chen is a Mid-career General CDR researcher at Hunan University of Science and Technology in CN. With 58 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.355221
+date: 2026-04-02T07:03:23.985046
 url: "/cdr-researcher-census/researchers/xiangyue-chen-a5030348/"
 layout: "researcher"
 hiddenInHomeList: true

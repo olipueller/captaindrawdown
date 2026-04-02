@@ -1,7 +1,7 @@
 ---
 title: "Damon Britton"
 description: "Damon Britton is a Mid-career Ocean CDR researcher at University of Tasmania in AU. With 27 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.654484
+date: 2026-04-02T07:03:24.397878
 url: "/cdr-researcher-census/researchers/damon-britton-a5004968/"
 layout: "researcher"
 hiddenInHomeList: true

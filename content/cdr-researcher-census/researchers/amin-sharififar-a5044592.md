@@ -1,7 +1,7 @@
 ---
 title: "Amin Sharififar"
 description: "Amin Sharififar is a Mid-career Soil Carbon researcher at University of Technology Sydney in AU. With 30 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.754195
+date: 2026-04-02T07:03:24.545705
 url: "/cdr-researcher-census/researchers/amin-sharififar-a5044592/"
 layout: "researcher"
 hiddenInHomeList: true

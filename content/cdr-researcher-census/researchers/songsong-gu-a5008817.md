@@ -1,7 +1,7 @@
 ---
 title: "Songsong Gu"
 description: "Songsong Gu is a Mid-career Soil Carbon researcher at China Geological Survey in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.292760
+date: 2026-04-02T07:03:26.815971
 url: "/cdr-researcher-census/researchers/songsong-gu-a5008817/"
 layout: "researcher"
 hiddenInHomeList: true

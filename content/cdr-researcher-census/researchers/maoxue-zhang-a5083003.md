@@ -1,7 +1,7 @@
 ---
 title: "Maoxue Zhang"
 description: "Maoxue Zhang is a Mid-career Soil Carbon researcher at North West Agriculture and Forestry University in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.355513
+date: 2026-04-02T07:03:25.420849
 url: "/cdr-researcher-census/researchers/maoxue-zhang-a5083003/"
 layout: "researcher"
 hiddenInHomeList: true

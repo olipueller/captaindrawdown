@@ -1,7 +1,7 @@
 ---
 title: "Shweta Rawat"
 description: "Shweta Rawat is a Mid-career Biochar researcher at Chatham House in GB. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.429667
+date: 2026-04-02T07:03:25.531257
 url: "/cdr-researcher-census/researchers/shweta-rawat-a5029715/"
 layout: "researcher"
 hiddenInHomeList: true

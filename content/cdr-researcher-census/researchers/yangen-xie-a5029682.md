@@ -1,7 +1,7 @@
 ---
 title: "Yangen Xie"
 description: "Yangen Xie is a Mid-career General CDR researcher at Chinese Academy of Sciences in CN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.906272
+date: 2026-04-02T07:03:24.758963
 url: "/cdr-researcher-census/researchers/yangen-xie-a5029682/"
 layout: "researcher"
 hiddenInHomeList: true

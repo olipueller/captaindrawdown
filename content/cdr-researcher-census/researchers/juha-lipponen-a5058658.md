@@ -1,7 +1,7 @@
 ---
 title: "Juha Lipponen"
 description: "Juha Lipponen is a Mid-career carbon dioxide removal researcher at Aalto University in FI. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.307505
+date: 2026-04-02T07:03:23.919742
 url: "/cdr-researcher-census/researchers/juha-lipponen-a5058658/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yuhao Zhu"
 description: "Yuhao Zhu is a Mid-career carbon dioxide removal researcher at Chinese Academy of Sciences in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.125378
+date: 2026-04-02T07:03:25.092390
 url: "/cdr-researcher-census/researchers/yuhao-zhu-a5047647/"
 layout: "researcher"
 hiddenInHomeList: true

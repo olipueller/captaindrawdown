@@ -1,7 +1,7 @@
 ---
 title: "Stéphane Pacaud"
 description: "Stéphane Pacaud is a Senior Biochar researcher at Université de Lorraine in FR. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.121607
+date: 2026-04-02T07:03:26.536984
 url: "/cdr-researcher-census/researchers/stephane-pacaud-a5054437/"
 layout: "researcher"
 hiddenInHomeList: true

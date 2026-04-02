@@ -1,7 +1,7 @@
 ---
 title: "Yasuo Iimura"
 description: "Yasuo Iimura is a Senior Soil Carbon researcher at University of Shiga Prefecture in JP. With 43 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.784238
+date: 2026-04-02T07:03:24.587838
 url: "/cdr-researcher-census/researchers/yasuo-iimura-a5039193/"
 layout: "researcher"
 hiddenInHomeList: true

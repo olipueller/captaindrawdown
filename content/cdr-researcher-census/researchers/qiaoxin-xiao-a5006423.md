@@ -1,7 +1,7 @@
 ---
 title: "Qiaoxin Xiao"
 description: "Qiaoxin Xiao is a Mid-career carbon dioxide removal researcher at Frontier Science Foundation in CH. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.887858
+date: 2026-04-02T07:03:26.198202
 url: "/cdr-researcher-census/researchers/qiaoxin-xiao-a5006423/"
 layout: "researcher"
 hiddenInHomeList: true

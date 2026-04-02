@@ -1,7 +1,7 @@
 ---
 title: "Antti Kinnunen"
 description: "Antti Kinnunen is a Mid-career General CDR researcher at Aalto University in FI. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.863106
+date: 2026-04-02T07:03:26.162551
 url: "/cdr-researcher-census/researchers/antti-kinnunen-a5046122/"
 layout: "researcher"
 hiddenInHomeList: true

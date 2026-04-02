@@ -1,7 +1,7 @@
 ---
 title: "J. I. Bautista Quispe"
 description: "J. I. Bautista Quispe is a Mid-career Biochar researcher at Coventry University in GB. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.374936
+date: 2026-04-02T07:03:26.931193
 url: "/cdr-researcher-census/researchers/j-i-bautista-quispe-a5084012/"
 layout: "researcher"
 hiddenInHomeList: true

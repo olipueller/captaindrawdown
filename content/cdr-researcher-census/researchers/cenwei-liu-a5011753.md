@@ -1,7 +1,7 @@
 ---
 title: "Cenwei Liu"
 description: "Cenwei Liu is a Mid-career Biochar researcher. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.174583
+date: 2026-04-02T07:03:25.162492
 url: "/cdr-researcher-census/researchers/cenwei-liu-a5011753/"
 layout: "researcher"
 hiddenInHomeList: true

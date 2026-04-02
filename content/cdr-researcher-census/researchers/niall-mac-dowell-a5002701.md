@@ -1,7 +1,7 @@
 ---
 title: "Niall Mac Dowell"
 description: "Niall Mac Dowell is an Eminent General CDR researcher at Imperial College London in GB. With 228 publications and an h-index of 55, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.080537
+date: 2026-04-02T07:03:23.623586
 url: "/cdr-researcher-census/researchers/niall-mac-dowell-a5002701/"
 layout: "researcher"
 hiddenInHomeList: true

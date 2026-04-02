@@ -1,7 +1,7 @@
 ---
 title: "Nanigopal Bera"
 description: "Nanigopal Bera is a Mid-career carbon dioxide removal researcher. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.766403
+date: 2026-04-02T07:03:26.024078
 url: "/cdr-researcher-census/researchers/nanigopal-bera-a5011913/"
 layout: "researcher"
 hiddenInHomeList: true

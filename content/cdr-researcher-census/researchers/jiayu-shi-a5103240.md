@@ -1,7 +1,7 @@
 ---
 title: "Jiayu Shi"
 description: "Jiayu Shi is a Mid-career Soil Carbon researcher at Qingdao Agricultural University in CN. With 25 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.794312
+date: 2026-04-02T07:03:24.602036
 url: "/cdr-researcher-census/researchers/jiayu-shi-a5103240/"
 layout: "researcher"
 hiddenInHomeList: true

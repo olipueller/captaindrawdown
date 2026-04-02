@@ -1,7 +1,7 @@
 ---
 title: "Gregory C. Post"
 description: "Gregory C. Post is a Mid-career Soil Carbon researcher at Clemson University in US. With 29 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.552031
+date: 2026-04-02T07:03:25.734025
 url: "/cdr-researcher-census/researchers/gregory-c-post-a5021549/"
 layout: "researcher"
 hiddenInHomeList: true

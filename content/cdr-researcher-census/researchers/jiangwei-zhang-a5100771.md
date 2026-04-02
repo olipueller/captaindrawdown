@@ -1,7 +1,7 @@
 ---
 title: "Jiangwei Zhang"
 description: "Jiangwei Zhang is a Senior DAC researcher at First Affiliated Hospital of Xi'an Jiaotong University in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.800862
+date: 2026-04-02T07:03:24.610753
 url: "/cdr-researcher-census/researchers/jiangwei-zhang-a5100771/"
 layout: "researcher"
 hiddenInHomeList: true

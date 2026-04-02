@@ -1,7 +1,7 @@
 ---
 title: "Rodrigo Rodríguez"
 description: "Rodrigo Rodríguez is a Senior Soil Carbon researcher. With 35 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.385078
+date: 2026-04-02T07:03:25.464502
 url: "/cdr-researcher-census/researchers/rodrigo-rodriguez-a5084864/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Hanyue Guo"
 description: "Hanyue Guo is a Mid-career Soil Carbon researcher at Pingdingshan University in CN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.958900
+date: 2026-04-02T07:03:24.844852
 url: "/cdr-researcher-census/researchers/hanyue-guo-a5109728/"
 layout: "researcher"
 hiddenInHomeList: true

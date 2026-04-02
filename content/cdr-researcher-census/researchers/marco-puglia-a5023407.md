@@ -1,7 +1,7 @@
 ---
 title: "Marco Puglia"
 description: "Marco Puglia is a Senior Biochar researcher at University of Modena and Reggio Emilia in IT. With 81 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.999673
+date: 2026-04-02T07:03:24.909017
 url: "/cdr-researcher-census/researchers/marco-puglia-a5023407/"
 layout: "researcher"
 hiddenInHomeList: true

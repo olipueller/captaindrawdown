@@ -1,7 +1,7 @@
 ---
 title: "Chi Zhang"
 description: "Chi Zhang is a Mid-career General CDR researcher at South China Agricultural University in CN. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.912108
+date: 2026-04-02T07:03:26.232994
 url: "/cdr-researcher-census/researchers/chi-zhang-a5101934/"
 layout: "researcher"
 hiddenInHomeList: true

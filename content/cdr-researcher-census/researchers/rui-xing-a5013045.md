@@ -1,7 +1,7 @@
 ---
 title: "Rui Xing"
 description: "Rui Xing is a Senior DAC researcher at Tianjin University of Science and Technology in CN. With 27 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.368192
+date: 2026-04-02T07:03:25.440449
 url: "/cdr-researcher-census/researchers/rui-xing-a5013045/"
 layout: "researcher"
 hiddenInHomeList: true

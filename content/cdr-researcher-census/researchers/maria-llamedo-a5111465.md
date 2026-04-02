@@ -1,7 +1,7 @@
 ---
 title: "María Llamedo"
 description: "María Llamedo is a Senior carbon dioxide removal researcher at Petroleum of Venezuela (Venezuela) in VE. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.669475
+date: 2026-04-02T07:03:24.424874
 url: "/cdr-researcher-census/researchers/maria-llamedo-a5111465/"
 layout: "researcher"
 hiddenInHomeList: true

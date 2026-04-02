@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Akram"
 description: "Muhammad Akram is a Mid-career General CDR researcher at University of Sheffield in GB. With 59 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.518712
+date: 2026-04-02T07:03:24.197673
 url: "/cdr-researcher-census/researchers/muhammad-akram-a5083409/"
 layout: "researcher"
 hiddenInHomeList: true

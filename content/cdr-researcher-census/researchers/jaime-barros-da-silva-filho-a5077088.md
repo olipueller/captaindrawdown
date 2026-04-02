@@ -1,7 +1,7 @@
 ---
 title: "Jaime Barros da Silva Filho"
 description: "Jaime Barros da Silva Filho is a Mid-career Biochar researcher at University of California, Riverside in US. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.199612
+date: 2026-04-02T07:03:26.679285
 url: "/cdr-researcher-census/researchers/jaime-barros-da-silva-filho-a5077088/"
 layout: "researcher"
 hiddenInHomeList: true

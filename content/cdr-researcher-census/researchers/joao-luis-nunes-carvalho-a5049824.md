@@ -1,7 +1,7 @@
 ---
 title: "João Luís Nunes Carvalho"
 description: "João Luís Nunes Carvalho is a Senior Soil Carbon researcher at Instituto Superior de Contabilidade e Administracao do Porto in PT. With 120 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.141367
+date: 2026-04-02T07:03:23.696364
 url: "/cdr-researcher-census/researchers/joao-luis-nunes-carvalho-a5049824/"
 layout: "researcher"
 hiddenInHomeList: true

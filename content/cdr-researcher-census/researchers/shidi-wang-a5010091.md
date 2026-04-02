@@ -1,7 +1,7 @@
 ---
 title: "Shidi Wang"
 description: "Shidi Wang is a Mid-career carbon dioxide removal researcher in GB. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.474288
+date: 2026-04-02T07:03:25.600183
 url: "/cdr-researcher-census/researchers/shidi-wang-a5010091/"
 layout: "researcher"
 hiddenInHomeList: true

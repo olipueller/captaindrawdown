@@ -1,7 +1,7 @@
 ---
 title: "Ann‐Eline Debeer"
 description: "Ann‐Eline Debeer is a Senior Biochar researcher at Ghent University in BE. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.687586
+date: 2026-04-02T07:03:24.449302
 url: "/cdr-researcher-census/researchers/anneline-debeer-a5039190/"
 layout: "researcher"
 hiddenInHomeList: true

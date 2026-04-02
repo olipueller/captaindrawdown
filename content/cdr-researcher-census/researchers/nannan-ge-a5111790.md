@@ -1,7 +1,7 @@
 ---
 title: "Nannan Ge"
 description: "Nannan Ge is a Senior Soil Carbon researcher at Institute of Soil and Water Conservation in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.002870
+date: 2026-04-02T07:03:24.914139
 url: "/cdr-researcher-census/researchers/nannan-ge-a5111790/"
 layout: "researcher"
 hiddenInHomeList: true

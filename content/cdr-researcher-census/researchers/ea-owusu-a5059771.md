@@ -1,7 +1,7 @@
 ---
 title: "E.A. Owusu"
 description: "E.A. Owusu is a Senior Enhanced Weathering researcher at New Mexico Institute of Mining and Technology in US. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.230705
+date: 2026-04-02T07:03:26.722893
 url: "/cdr-researcher-census/researchers/ea-owusu-a5059771/"
 layout: "researcher"
 hiddenInHomeList: true

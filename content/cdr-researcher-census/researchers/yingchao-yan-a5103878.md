@@ -1,7 +1,7 @@
 ---
 title: "Yingchao Yan"
 description: "Yingchao Yan is a Mid-career Soil Carbon researcher. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.037612
+date: 2026-04-02T07:03:24.961997
 url: "/cdr-researcher-census/researchers/yingchao-yan-a5103878/"
 layout: "researcher"
 hiddenInHomeList: true

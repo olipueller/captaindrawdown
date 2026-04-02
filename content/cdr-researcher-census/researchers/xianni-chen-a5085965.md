@@ -1,7 +1,7 @@
 ---
 title: "Xianni Chen"
 description: "Xianni Chen is a Senior Soil Carbon researcher at Henan University of Science and Technology in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.419904
+date: 2026-04-02T07:03:25.517410
 url: "/cdr-researcher-census/researchers/xianni-chen-a5085965/"
 layout: "researcher"
 hiddenInHomeList: true

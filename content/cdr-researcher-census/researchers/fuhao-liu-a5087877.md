@@ -1,7 +1,7 @@
 ---
 title: "Fuhao Liu"
 description: "Fuhao Liu is a Mid-career Soil Carbon researcher at Institute of Soil and Water Conservation in CN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.229227
+date: 2026-04-02T07:03:26.720663
 url: "/cdr-researcher-census/researchers/fuhao-liu-a5087877/"
 layout: "researcher"
 hiddenInHomeList: true

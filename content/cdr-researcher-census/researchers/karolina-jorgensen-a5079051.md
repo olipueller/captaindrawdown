@@ -1,7 +1,7 @@
 ---
 title: "Karolina Jörgensen"
 description: "Karolina Jörgensen is a Mid-career Soil Carbon researcher at Swedish University of Agricultural Sciences in SE. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.534545
+date: 2026-04-02T07:03:25.708650
 url: "/cdr-researcher-census/researchers/karolina-jorgensen-a5079051/"
 layout: "researcher"
 hiddenInHomeList: true

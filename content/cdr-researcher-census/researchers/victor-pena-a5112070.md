@@ -1,7 +1,7 @@
 ---
 title: "Víctor Peña"
 description: "Víctor Peña is a Senior Soil Carbon researcher at Universidad Autónoma Metropolitana in MX. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.263221
+date: 2026-04-02T07:03:25.290649
 url: "/cdr-researcher-census/researchers/victor-pena-a5112070/"
 layout: "researcher"
 hiddenInHomeList: true

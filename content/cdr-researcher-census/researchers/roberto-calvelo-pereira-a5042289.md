@@ -1,7 +1,7 @@
 ---
 title: "Roberto Calvelo Pereira"
 description: "Roberto Calvelo Pereira is a Senior Soil Carbon researcher at University of Concepción in CL. With 43 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.327254
+date: 2026-04-02T07:03:23.946115
 url: "/cdr-researcher-census/researchers/roberto-calvelo-pereira-a5042289/"
 layout: "researcher"
 hiddenInHomeList: true

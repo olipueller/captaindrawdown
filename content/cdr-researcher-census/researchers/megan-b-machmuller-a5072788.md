@@ -1,7 +1,7 @@
 ---
 title: "Megan B. Machmuller"
 description: "Megan B. Machmuller is a Senior Soil Carbon researcher at Colorado State University in US. With 49 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.167318
+date: 2026-04-02T07:03:23.732627
 url: "/cdr-researcher-census/researchers/megan-b-machmuller-a5072788/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Gaurav Singh"
 description: "Gaurav Singh is a Senior Soil Carbon researcher at Dr. A.P.J. Abdul Kalam Technical University in IN. With 38 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.107051
+date: 2026-04-02T07:03:25.065365
 url: "/cdr-researcher-census/researchers/gaurav-singh-a5069525/"
 layout: "researcher"
 hiddenInHomeList: true

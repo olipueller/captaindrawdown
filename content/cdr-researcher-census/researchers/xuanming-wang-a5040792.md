@@ -1,7 +1,7 @@
 ---
 title: "Xuanming Wang"
 description: "Xuanming Wang is an Early-career Biochar researcher. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.284586
+date: 2026-04-02T07:03:25.318097
 url: "/cdr-researcher-census/researchers/xuanming-wang-a5040792/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Tonghui Jin"
 description: "Tonghui Jin is a Mid-career carbon dioxide removal researcher at ETH Zurich in CH. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.879203
+date: 2026-04-02T07:03:24.716966
 url: "/cdr-researcher-census/researchers/tonghui-jin-a5063886/"
 layout: "researcher"
 hiddenInHomeList: true

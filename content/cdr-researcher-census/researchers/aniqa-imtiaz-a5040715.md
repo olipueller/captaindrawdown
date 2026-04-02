@@ -1,7 +1,7 @@
 ---
 title: "Aniqa Imtiaz"
 description: "Aniqa Imtiaz is a Mid-career carbon dioxide removal researcher at University of Technology Malaysia in MY. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.820296
+date: 2026-04-02T07:03:24.635248
 url: "/cdr-researcher-census/researchers/aniqa-imtiaz-a5040715/"
 layout: "researcher"
 hiddenInHomeList: true

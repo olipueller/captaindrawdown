@@ -1,7 +1,7 @@
 ---
 title: "Farzin Hosseinifard"
 description: "Farzin Hosseinifard is a Mid-career General CDR researcher at K.N.Toosi University of Technology in IR. With 21 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.969321
+date: 2026-04-02T07:03:26.320263
 url: "/cdr-researcher-census/researchers/farzin-hosseinifard-a5093733/"
 layout: "researcher"
 hiddenInHomeList: true

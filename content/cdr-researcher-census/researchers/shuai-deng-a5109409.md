@@ -1,7 +1,7 @@
 ---
 title: "Shuai Deng"
 description: "Shuai Deng is a Mid-career DAC researcher at South China Normal University in CN. With 29 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.724289
+date: 2026-04-02T07:03:24.501283
 url: "/cdr-researcher-census/researchers/shuai-deng-a5109409/"
 layout: "researcher"
 hiddenInHomeList: true

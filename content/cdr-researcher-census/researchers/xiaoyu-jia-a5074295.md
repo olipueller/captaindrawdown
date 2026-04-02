@@ -1,7 +1,7 @@
 ---
 title: "Xiaoyu Jia"
 description: "Xiaoyu Jia is a Mid-career Biochar researcher at North China University of Water Resources and Electric Power in CN. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.641261
+date: 2026-04-02T07:03:24.377327
 url: "/cdr-researcher-census/researchers/xiaoyu-jia-a5074295/"
 layout: "researcher"
 hiddenInHomeList: true

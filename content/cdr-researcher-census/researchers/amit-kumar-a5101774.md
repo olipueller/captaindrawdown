@@ -1,7 +1,7 @@
 ---
 title: "Amit Kumar"
 description: "Amit Kumar is a Mid-career Soil Carbon researcher at Krishi Vigyan Kendra, Ghatkhed Amravati in IN. With 43 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.099216
+date: 2026-04-02T07:03:25.053918
 url: "/cdr-researcher-census/researchers/amit-kumar-a5101774/"
 layout: "researcher"
 hiddenInHomeList: true

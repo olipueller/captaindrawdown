@@ -1,7 +1,7 @@
 ---
 title: "Vera Laísa da Silva Arruda"
 description: "Vera Laísa da Silva Arruda is a Mid-career Soil Carbon researcher at Universidade de Brasília in BR. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.854475
+date: 2026-04-02T07:03:24.681342
 url: "/cdr-researcher-census/researchers/vera-laisa-da-silva-arruda-a5090026/"
 layout: "researcher"
 hiddenInHomeList: true

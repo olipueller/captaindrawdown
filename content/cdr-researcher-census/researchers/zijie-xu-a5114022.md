@@ -1,7 +1,7 @@
 ---
 title: "Zijie Xu"
 description: "Zijie Xu is a Senior carbon dioxide removal researcher at Shanghai Jiao Tong University in CN. With 28 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.770975
+date: 2026-04-02T07:03:24.570556
 url: "/cdr-researcher-census/researchers/zijie-xu-a5114022/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Emilie Grossteffan"
 description: "Emilie Grossteffan is a Mid-career General CDR researcher at Centre National de la Recherche Scientifique in FR. With 27 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.785276
+date: 2026-04-02T07:03:24.588904
 url: "/cdr-researcher-census/researchers/emilie-grossteffan-a5008525/"
 layout: "researcher"
 hiddenInHomeList: true

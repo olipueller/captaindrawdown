@@ -1,7 +1,7 @@
 ---
 title: "Aissa Bouaissi"
 description: "Aissa Bouaissi is a Mid-career carbon dioxide removal researcher at University of Plymouth in GB. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.815337
+date: 2026-04-02T07:03:24.628950
 url: "/cdr-researcher-census/researchers/aissa-bouaissi-a5050744/"
 layout: "researcher"
 hiddenInHomeList: true

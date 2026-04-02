@@ -1,7 +1,7 @@
 ---
 title: "Aparajita Datta"
 description: "Aparajita Datta is a Mid-career DAC researcher at University of Houston in US. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.855292
+date: 2026-04-02T07:03:26.151826
 url: "/cdr-researcher-census/researchers/aparajita-datta-a5088988/"
 layout: "researcher"
 hiddenInHomeList: true

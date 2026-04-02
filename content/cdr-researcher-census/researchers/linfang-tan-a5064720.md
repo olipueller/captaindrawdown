@@ -1,7 +1,7 @@
 ---
 title: "Linfang Tan"
 description: "Linfang Tan is a Mid-career Soil Carbon researcher at Huazhong Agricultural University in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.978050
+date: 2026-04-02T07:03:24.875068
 url: "/cdr-researcher-census/researchers/linfang-tan-a5064720/"
 layout: "researcher"
 hiddenInHomeList: true

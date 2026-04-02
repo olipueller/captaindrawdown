@@ -1,7 +1,7 @@
 ---
 title: "Carolina Urbina Malo"
 description: "Carolina Urbina Malo is a Mid-career Soil Carbon researcher at Leibniz University Hannover in DE. With 17 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.433375
+date: 2026-04-02T07:03:25.536467
 url: "/cdr-researcher-census/researchers/carolina-urbina-malo-a5038162/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ting-Shuai Shi"
 description: "Ting-Shuai Shi is an Early-career General CDR researcher at Lanzhou University in CN. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.192105
+date: 2026-04-02T07:03:26.668994
 url: "/cdr-researcher-census/researchers/ting-shuai-shi-a5095061/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Hao Zhou"
 description: "Hao Zhou is a Mid-career General CDR researcher. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.544690
+date: 2026-04-02T07:03:25.723465
 url: "/cdr-researcher-census/researchers/hao-zhou-a5102016/"
 layout: "researcher"
 hiddenInHomeList: true

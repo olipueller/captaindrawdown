@@ -1,7 +1,7 @@
 ---
 title: "Xingcheng Huang"
 description: "Xingcheng Huang is a Mid-career Soil Carbon researcher at Xiamen University in CN. With 23 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.433617
+date: 2026-04-02T07:03:25.536789
 url: "/cdr-researcher-census/researchers/xingcheng-huang-a5018907/"
 layout: "researcher"
 hiddenInHomeList: true

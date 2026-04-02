@@ -1,7 +1,7 @@
 ---
 title: "N. Debnath"
 description: "N. Debnath is a Mid-career Soil Carbon researcher at Assam University in IN. With 30 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.966867
+date: 2026-04-02T07:03:26.316920
 url: "/cdr-researcher-census/researchers/n-debnath-a5055859/"
 layout: "researcher"
 hiddenInHomeList: true

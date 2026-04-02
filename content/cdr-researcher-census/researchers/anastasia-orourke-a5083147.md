@@ -1,7 +1,7 @@
 ---
 title: "Anastasia O’Rourke"
 description: "Anastasia O’Rourke is a Senior General CDR researcher at Yale University in US. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.672583
+date: 2026-04-02T07:03:24.429436
 url: "/cdr-researcher-census/researchers/anastasia-orourke-a5083147/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Adel T. Osman"
 description: "Adel T. Osman is a Mid-career Biochar researcher at Al-Azhar University in EG. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.259125
+date: 2026-04-02T07:03:26.762523
 url: "/cdr-researcher-census/researchers/adel-t-osman-a5006662/"
 layout: "researcher"
 hiddenInHomeList: true

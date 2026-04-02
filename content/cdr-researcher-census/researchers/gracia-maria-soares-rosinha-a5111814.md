@@ -1,7 +1,7 @@
 ---
 title: "Grácia Maria Soares Rosinha"
 description: "Grácia Maria Soares Rosinha is a Senior General CDR researcher at Brazilian Agricultural Research Corporation in BR. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.204268
+date: 2026-04-02T07:03:26.686073
 url: "/cdr-researcher-census/researchers/gracia-maria-soares-rosinha-a5111814/"
 layout: "researcher"
 hiddenInHomeList: true

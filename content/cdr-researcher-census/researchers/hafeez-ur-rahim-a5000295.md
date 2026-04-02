@@ -1,7 +1,7 @@
 ---
 title: "Hafeez Ur Rahim"
 description: "Hafeez Ur Rahim is a Mid-career Biochar researcher at University of Ferrara in PK. With 47 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.565110
+date: 2026-04-02T07:03:24.269718
 url: "/cdr-researcher-census/researchers/hafeez-ur-rahim-a5000295/"
 layout: "researcher"
 hiddenInHomeList: true

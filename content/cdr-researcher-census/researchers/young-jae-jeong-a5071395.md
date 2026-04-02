@@ -1,7 +1,7 @@
 ---
 title: "Young-Jae Jeong"
 description: "Young-Jae Jeong is a Mid-career Soil Carbon researcher at Seoul National University in KR. With 26 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.441089
+date: 2026-04-02T07:03:25.547762
 url: "/cdr-researcher-census/researchers/young-jae-jeong-a5071395/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Qiang Wang"
 description: "Qiang Wang is a Mid-career carbon dioxide removal researcher at Aviation Industry Corporation of China (China) in CN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.481202
+date: 2026-04-02T07:03:25.633007
 url: "/cdr-researcher-census/researchers/qiang-wang-a5100367/"
 layout: "researcher"
 hiddenInHomeList: true

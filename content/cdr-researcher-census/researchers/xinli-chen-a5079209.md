@@ -1,7 +1,7 @@
 ---
 title: "Xinli Chen"
 description: "Xinli Chen is a Senior Soil Carbon researcher at Zhejiang A&F University in CN. With 61 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.181374
+date: 2026-04-02T07:03:23.751788
 url: "/cdr-researcher-census/researchers/xinli-chen-a5079209/"
 layout: "researcher"
 hiddenInHomeList: true

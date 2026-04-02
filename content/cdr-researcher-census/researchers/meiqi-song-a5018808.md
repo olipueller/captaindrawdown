@@ -1,7 +1,7 @@
 ---
 title: "Meiqi Song"
 description: "Meiqi Song is a Mid-career Soil Carbon researcher at Shandong Normal University in CN. With 39 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.898307
+date: 2026-04-02T07:03:26.213381
 url: "/cdr-researcher-census/researchers/meiqi-song-a5018808/"
 layout: "researcher"
 hiddenInHomeList: true

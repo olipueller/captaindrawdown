@@ -1,7 +1,7 @@
 ---
 title: "Patrick Frings"
 description: "Patrick Frings is a Senior Enhanced Weathering researcher at Deutsches Geoforschungszentrum Potsdam in DE. With 103 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.282597
+date: 2026-04-02T07:03:23.886980
 url: "/cdr-researcher-census/researchers/patrick-frings-a5066536/"
 layout: "researcher"
 hiddenInHomeList: true

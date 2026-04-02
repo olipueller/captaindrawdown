@@ -1,7 +1,7 @@
 ---
 title: "He Miaomiao"
 description: "He Miaomiao is a Senior Biochar researcher at Liaoning Technical University in CN. With 10 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.207362
+date: 2026-04-02T07:03:26.689739
 url: "/cdr-researcher-census/researchers/he-miaomiao-a5100833/"
 layout: "researcher"
 hiddenInHomeList: true

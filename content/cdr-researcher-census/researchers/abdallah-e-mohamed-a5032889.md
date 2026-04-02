@@ -1,7 +1,7 @@
 ---
 title: "Abdallah E. Mohamed"
 description: "Abdallah E. Mohamed is a Mid-career Biochar researcher at City of Scientific Research and Technological Applications in EG. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.515392
+date: 2026-04-02T07:03:25.681727
 url: "/cdr-researcher-census/researchers/abdallah-e-mohamed-a5032889/"
 layout: "researcher"
 hiddenInHomeList: true

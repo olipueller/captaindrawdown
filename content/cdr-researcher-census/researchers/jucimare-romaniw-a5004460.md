@@ -1,7 +1,7 @@
 ---
 title: "Jucimare Romaniw"
 description: "Jucimare Romaniw is a Mid-career General CDR researcher at Universidade Estadual de Ponta Grossa in BR. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.315697
+date: 2026-04-02T07:03:25.363186
 url: "/cdr-researcher-census/researchers/jucimare-romaniw-a5004460/"
 layout: "researcher"
 hiddenInHomeList: true

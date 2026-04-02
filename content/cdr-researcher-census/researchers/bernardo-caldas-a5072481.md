@@ -1,7 +1,7 @@
 ---
 title: "Bernardo Caldas"
 description: "Bernardo Caldas is a Senior Soil Carbon researcher at Bioversity International in CO. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.175349
+date: 2026-04-02T07:03:26.631346
 url: "/cdr-researcher-census/researchers/bernardo-caldas-a5072481/"
 layout: "researcher"
 hiddenInHomeList: true

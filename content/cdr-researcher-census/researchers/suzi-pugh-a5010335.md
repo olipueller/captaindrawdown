@@ -1,7 +1,7 @@
 ---
 title: "Suzi Pugh"
 description: "Suzi Pugh is a Mid-career carbon dioxide removal researcher at University of Cambridge in GB. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.105146
+date: 2026-04-02T07:03:25.062665
 url: "/cdr-researcher-census/researchers/suzi-pugh-a5010335/"
 layout: "researcher"
 hiddenInHomeList: true

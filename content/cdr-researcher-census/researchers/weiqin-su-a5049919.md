@@ -1,7 +1,7 @@
 ---
 title: "Weiqin Su"
 description: "Weiqin Su is a Mid-career carbon dioxide removal researcher at Zhejiang University in CN. With 16 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.302371
+date: 2026-04-02T07:03:23.913286
 url: "/cdr-researcher-census/researchers/weiqin-su-a5049919/"
 layout: "researcher"
 hiddenInHomeList: true

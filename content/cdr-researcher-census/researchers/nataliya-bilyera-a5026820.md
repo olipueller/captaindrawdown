@@ -1,7 +1,7 @@
 ---
 title: "Nataliya Bilyera"
 description: "Nataliya Bilyera is a Mid-career Soil Carbon researcher at University of Tuebingen in DE. With 51 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.595772
+date: 2026-04-02T07:03:24.313652
 url: "/cdr-researcher-census/researchers/nataliya-bilyera-a5026820/"
 layout: "researcher"
 hiddenInHomeList: true

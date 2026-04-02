@@ -1,7 +1,7 @@
 ---
 title: "Constanze Werner"
 description: "Constanze Werner is a Mid-career General CDR researcher at Leibniz Association in DE. With 26 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.125175
+date: 2026-04-02T07:03:25.092059
 url: "/cdr-researcher-census/researchers/constanze-werner-a5086822/"
 layout: "researcher"
 hiddenInHomeList: true

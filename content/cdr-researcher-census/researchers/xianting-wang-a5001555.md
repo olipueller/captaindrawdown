@@ -1,7 +1,7 @@
 ---
 title: "Xianting Wang"
 description: "Xianting Wang is a Senior Soil Carbon researcher at Ningbo University in CN. With 20 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.293833
+date: 2026-04-02T07:03:26.817415
 url: "/cdr-researcher-census/researchers/xianting-wang-a5001555/"
 layout: "researcher"
 hiddenInHomeList: true

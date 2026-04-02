@@ -1,7 +1,7 @@
 ---
 title: "Abimbola O. Aleshinloye"
 description: "Abimbola O. Aleshinloye is a Mid-career carbon dioxide removal researcher at Florida Southern College in US. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.563380
+date: 2026-04-02T07:03:25.749883
 url: "/cdr-researcher-census/researchers/abimbola-o-aleshinloye-a5003615/"
 layout: "researcher"
 hiddenInHomeList: true

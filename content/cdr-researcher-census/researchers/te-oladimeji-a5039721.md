@@ -1,7 +1,7 @@
 ---
 title: "T.E. Oladimeji"
 description: "T.E. Oladimeji is a Mid-career General CDR researcher at Covenant University in NG. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.981073
+date: 2026-04-02T07:03:26.331913
 url: "/cdr-researcher-census/researchers/te-oladimeji-a5039721/"
 layout: "researcher"
 hiddenInHomeList: true

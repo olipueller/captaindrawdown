@@ -1,7 +1,7 @@
 ---
 title: "Rob Bellamy"
 description: "Rob Bellamy is a Senior General CDR researcher at The University of Manchester in GB. With 60 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.266054
+date: 2026-04-02T07:03:23.863034
 url: "/cdr-researcher-census/researchers/rob-bellamy-a5054398/"
 layout: "researcher"
 hiddenInHomeList: true

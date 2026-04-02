@@ -1,7 +1,7 @@
 ---
 title: "Zu Dienle Tan"
 description: "Zu Dienle Tan is a Mid-career Soil Carbon researcher at National University of Singapore in SG. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.912595
+date: 2026-04-02T07:03:26.233625
 url: "/cdr-researcher-census/researchers/zu-dienle-tan-a5010255/"
 layout: "researcher"
 hiddenInHomeList: true

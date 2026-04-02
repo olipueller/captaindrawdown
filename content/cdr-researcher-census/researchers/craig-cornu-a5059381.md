@@ -1,7 +1,7 @@
 ---
 title: "Craig Cornu"
 description: "Craig Cornu is a Senior carbon dioxide removal researcher at Institute for Culture and Ecology in US. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.562174
+date: 2026-04-02T07:03:25.747637
 url: "/cdr-researcher-census/researchers/craig-cornu-a5059381/"
 layout: "researcher"
 hiddenInHomeList: true

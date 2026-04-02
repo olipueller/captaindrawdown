@@ -1,7 +1,7 @@
 ---
 title: "Therese Nehler"
 description: "Therese Nehler is a Mid-career BECCS researcher at Linköping University in SE. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.926387
+date: 2026-04-02T07:03:24.792150
 url: "/cdr-researcher-census/researchers/therese-nehler-a5025933/"
 layout: "researcher"
 hiddenInHomeList: true

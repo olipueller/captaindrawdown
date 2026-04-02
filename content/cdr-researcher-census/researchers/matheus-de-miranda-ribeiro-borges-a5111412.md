@@ -1,7 +1,7 @@
 ---
 title: "Matheus de Miranda Ribeiro Borges"
 description: "Matheus de Miranda Ribeiro Borges is a Senior carbon dioxide removal researcher at Universidade de São Paulo in BR. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.381776
+date: 2026-04-02T07:03:26.940775
 url: "/cdr-researcher-census/researchers/matheus-de-miranda-ribeiro-borges-a5111412/"
 layout: "researcher"
 hiddenInHomeList: true

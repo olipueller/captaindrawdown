@@ -1,7 +1,7 @@
 ---
 title: "Sheila Trierveiler de Souza"
 description: "Sheila Trierveiler de Souza is a Mid-career carbon dioxide removal researcher at National Institute of Amazonian Research in BR. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.757039
+date: 2026-04-02T07:03:24.550263
 url: "/cdr-researcher-census/researchers/sheila-trierveiler-de-souza-a5113867/"
 layout: "researcher"
 hiddenInHomeList: true

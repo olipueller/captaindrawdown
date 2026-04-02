@@ -1,7 +1,7 @@
 ---
 title: "Neha Chausali"
 description: "Neha Chausali is an Early-career Biochar researcher. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.834017
+date: 2026-04-02T07:03:24.651512
 url: "/cdr-researcher-census/researchers/neha-chausali-a5048805/"
 layout: "researcher"
 hiddenInHomeList: true

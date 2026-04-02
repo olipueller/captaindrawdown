@@ -1,7 +1,7 @@
 ---
 title: "Shihab Ezzuldin M. Saber"
 description: "Shihab Ezzuldin M. Saber is a Mid-career Biochar researcher at Universiti Putra Malaysia in MY. With 10 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.020184
+date: 2026-04-02T07:03:24.937130
 url: "/cdr-researcher-census/researchers/shihab-ezzuldin-m-saber-a5064635/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Rafael M. Eufrasio"
 description: "Rafael M. Eufrasio is a Mid-career Enhanced Weathering researcher at University of Sheffield in GB. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.526421
+date: 2026-04-02T07:03:24.210018
 url: "/cdr-researcher-census/researchers/rafael-m-eufrasio-a5014992/"
 layout: "researcher"
 hiddenInHomeList: true

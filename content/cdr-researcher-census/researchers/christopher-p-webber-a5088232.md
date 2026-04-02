@@ -1,7 +1,7 @@
 ---
 title: "Christopher P. Webber"
 description: "Christopher P. Webber is a Mid-career BECCS researcher at University of Reading in GB. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.686964
+date: 2026-04-02T07:03:24.448376
 url: "/cdr-researcher-census/researchers/christopher-p-webber-a5088232/"
 layout: "researcher"
 hiddenInHomeList: true

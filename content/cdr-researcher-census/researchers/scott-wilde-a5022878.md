@@ -1,7 +1,7 @@
 ---
 title: "Scott Wilde"
 description: "Scott Wilde is a Senior carbon dioxide removal researcher at Texas College in US. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.833797
+date: 2026-04-02T07:03:26.121273
 url: "/cdr-researcher-census/researchers/scott-wilde-a5022878/"
 layout: "researcher"
 hiddenInHomeList: true

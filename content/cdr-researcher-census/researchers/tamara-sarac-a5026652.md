@@ -1,7 +1,7 @@
 ---
 title: "Tamara Sarac"
 description: "Tamara Sarac is a Mid-career DAC researcher. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.170073
+date: 2026-04-02T07:03:26.620834
 url: "/cdr-researcher-census/researchers/tamara-sarac-a5026652/"
 layout: "researcher"
 hiddenInHomeList: true

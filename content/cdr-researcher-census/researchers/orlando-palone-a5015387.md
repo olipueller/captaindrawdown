@@ -1,7 +1,7 @@
 ---
 title: "Orlando Palone"
 description: "Orlando Palone is a Mid-career General CDR researcher at Sapienza University of Rome in IT. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.752476
+date: 2026-04-02T07:03:26.002048
 url: "/cdr-researcher-census/researchers/orlando-palone-a5015387/"
 layout: "researcher"
 hiddenInHomeList: true

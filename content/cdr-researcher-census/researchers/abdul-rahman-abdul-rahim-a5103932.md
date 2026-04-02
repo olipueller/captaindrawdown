@@ -1,7 +1,7 @@
 ---
 title: "Abdul Rahman Abdul Rahim"
 description: "Abdul Rahman Abdul Rahim is a Mid-career Biochar researcher at Universiti Teknologi Petronas in MY. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.801291
+date: 2026-04-02T07:03:26.074686
 url: "/cdr-researcher-census/researchers/abdul-rahman-abdul-rahim-a5103932/"
 layout: "researcher"
 hiddenInHomeList: true

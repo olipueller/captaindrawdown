@@ -1,7 +1,7 @@
 ---
 title: "Blanca Prado"
 description: "Blanca Prado is a Senior Soil Carbon researcher at Universidad Autónoma de la Ciudad de México in MX. With 45 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.718335
+date: 2026-04-02T07:03:24.492168
 url: "/cdr-researcher-census/researchers/blanca-prado-a5110133/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Dipita Ghosh"
 description: "Dipita Ghosh is a Mid-career Biochar researcher at Indian Institute of Technology Dhanbad in IN. With 32 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.966620
+date: 2026-04-02T07:03:24.857274
 url: "/cdr-researcher-census/researchers/dipita-ghosh-a5005410/"
 layout: "researcher"
 hiddenInHomeList: true

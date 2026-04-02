@@ -1,7 +1,7 @@
 ---
 title: "Erik S. Button"
 description: "Erik S. Button is a Mid-career Soil Carbon researcher at Bangor University in GB. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.233286
+date: 2026-04-02T07:03:25.254243
 url: "/cdr-researcher-census/researchers/erik-s-button-a5016544/"
 layout: "researcher"
 hiddenInHomeList: true

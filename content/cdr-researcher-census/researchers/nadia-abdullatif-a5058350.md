@@ -1,7 +1,7 @@
 ---
 title: "Nadia Abdullatif"
 description: "Nadia Abdullatif is a Senior carbon dioxide removal researcher at United Arab Emirates University in AE. With 14 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.618546
+date: 2026-04-02T07:03:24.346898
 url: "/cdr-researcher-census/researchers/nadia-abdullatif-a5058350/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Carolina Gallego-Ramírez"
 description: "Carolina Gallego-Ramírez is a Mid-career Biochar researcher at Universidad de Antioquia in CO. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.321680
+date: 2026-04-02T07:03:26.858153
 url: "/cdr-researcher-census/researchers/carolina-gallego-ramirez-a5011389/"
 layout: "researcher"
 hiddenInHomeList: true

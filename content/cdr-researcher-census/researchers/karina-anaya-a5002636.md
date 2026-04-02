@@ -1,7 +1,7 @@
 ---
 title: "Karina Anaya"
 description: "Karina Anaya is an Early-career DAC researcher at University of Alberta in CA. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.733715
+date: 2026-04-02T07:03:24.514907
 url: "/cdr-researcher-census/researchers/karina-anaya-a5002636/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Florian Kestel"
 description: "Florian Kestel is a Mid-career carbon dioxide removal researcher at University of Potsdam in DE. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.149760
+date: 2026-04-02T07:03:26.585185
 url: "/cdr-researcher-census/researchers/florian-kestel-a5072300/"
 layout: "researcher"
 hiddenInHomeList: true

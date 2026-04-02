@@ -1,7 +1,7 @@
 ---
 title: "Sonia Choudhary"
 description: "Sonia Choudhary is a Mid-career BECCS researcher at Indian Institute of Technology Roorkee in IN. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.669394
+date: 2026-04-02T07:03:25.913071
 url: "/cdr-researcher-census/researchers/sonia-choudhary-a5000849/"
 layout: "researcher"
 hiddenInHomeList: true

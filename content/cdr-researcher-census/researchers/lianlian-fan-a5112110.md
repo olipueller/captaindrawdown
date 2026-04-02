@@ -1,7 +1,7 @@
 ---
 title: "Lianlian Fan"
 description: "Lianlian Fan is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 30 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.068460
+date: 2026-04-02T07:03:25.009806
 url: "/cdr-researcher-census/researchers/lianlian-fan-a5112110/"
 layout: "researcher"
 hiddenInHomeList: true

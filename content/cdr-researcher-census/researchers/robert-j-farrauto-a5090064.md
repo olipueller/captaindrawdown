@@ -1,7 +1,7 @@
 ---
 title: "Robert J. Farrauto"
 description: "Robert J. Farrauto is an Eminent carbon dioxide removal researcher at Columbia University in US. With 160 publications and an h-index of 50, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.087622
+date: 2026-04-02T07:03:23.632290
 url: "/cdr-researcher-census/researchers/robert-j-farrauto-a5090064/"
 layout: "researcher"
 hiddenInHomeList: true

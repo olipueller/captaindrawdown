@@ -1,7 +1,7 @@
 ---
 title: "Julia Lübbers"
 description: "Julia Lübbers is a Senior Ocean CDR researcher. With 46 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.849916
+date: 2026-04-02T07:03:24.674713
 url: "/cdr-researcher-census/researchers/julia-lubbers-a5043850/"
 layout: "researcher"
 hiddenInHomeList: true

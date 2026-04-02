@@ -1,7 +1,7 @@
 ---
 title: "Bing Sheng Wu"
 description: "Bing Sheng Wu is a Senior Soil Carbon researcher at National Taiwan Normal University in TW. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.934779
+date: 2026-04-02T07:03:26.271240
 url: "/cdr-researcher-census/researchers/bing-sheng-wu-a5101977/"
 layout: "researcher"
 hiddenInHomeList: true

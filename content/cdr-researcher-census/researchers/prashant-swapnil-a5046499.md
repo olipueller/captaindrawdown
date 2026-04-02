@@ -1,7 +1,7 @@
 ---
 title: "Prashant Swapnil"
 description: "Prashant Swapnil is a Mid-career Soil Carbon researcher at Central University of Punjab in IN. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.918112
+date: 2026-04-02T07:03:24.780348
 url: "/cdr-researcher-census/researchers/prashant-swapnil-a5046499/"
 layout: "researcher"
 hiddenInHomeList: true

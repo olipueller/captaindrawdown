@@ -1,7 +1,7 @@
 ---
 title: "Asima Syed"
 description: "Asima Syed is a Senior DAC researcher at University of Hertfordshire in GB. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.415972
+date: 2026-04-02T07:03:26.989403
 url: "/cdr-researcher-census/researchers/asima-syed-a5033831/"
 layout: "researcher"
 hiddenInHomeList: true

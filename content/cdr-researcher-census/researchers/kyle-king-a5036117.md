@@ -1,7 +1,7 @@
 ---
 title: "Kyle King"
 description: "Kyle King is a Mid-career carbon dioxide removal researcher at Iowa State University in US. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.139914
+date: 2026-04-02T07:03:26.567760
 url: "/cdr-researcher-census/researchers/kyle-king-a5036117/"
 layout: "researcher"
 hiddenInHomeList: true

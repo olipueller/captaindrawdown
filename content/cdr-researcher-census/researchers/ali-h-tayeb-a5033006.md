@@ -1,7 +1,7 @@
 ---
 title: "Ali H. Tayeb"
 description: "Ali H. Tayeb is a Mid-career carbon dioxide removal researcher at King Fahd University of Petroleum and Minerals in SA. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.534154
+date: 2026-04-02T07:03:24.223470
 url: "/cdr-researcher-census/researchers/ali-h-tayeb-a5033006/"
 layout: "researcher"
 hiddenInHomeList: true

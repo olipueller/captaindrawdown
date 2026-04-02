@@ -1,7 +1,7 @@
 ---
 title: "Usa Onthong"
 description: "Usa Onthong is a Senior Biochar researcher at Thaksin University in TH. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.402895
+date: 2026-04-02T07:03:25.492567
 url: "/cdr-researcher-census/researchers/usa-onthong-a5007979/"
 layout: "researcher"
 hiddenInHomeList: true

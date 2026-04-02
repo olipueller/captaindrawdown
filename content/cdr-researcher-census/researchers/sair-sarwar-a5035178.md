@@ -1,7 +1,7 @@
 ---
 title: "Sair Sarwar"
 description: "Sair Sarwar is a Mid-career Soil Carbon researcher at Abdus Salam Centre for Physics in PK. With 36 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.280398
+date: 2026-04-02T07:03:25.312746
 url: "/cdr-researcher-census/researchers/sair-sarwar-a5035178/"
 layout: "researcher"
 hiddenInHomeList: true

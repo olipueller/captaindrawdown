@@ -1,7 +1,7 @@
 ---
 title: "Irit Konsens"
 description: "Irit Konsens is a Senior Soil Carbon researcher at Hebrew University of Jerusalem in IL. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.018130
+date: 2026-04-02T07:03:24.934316
 url: "/cdr-researcher-census/researchers/irit-konsens-a5010059/"
 layout: "researcher"
 hiddenInHomeList: true

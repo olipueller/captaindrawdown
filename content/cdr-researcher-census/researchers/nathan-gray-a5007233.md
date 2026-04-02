@@ -1,7 +1,7 @@
 ---
 title: "Nathan Gray"
 description: "Nathan Gray is a Mid-career DAC researcher. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.732579
+date: 2026-04-02T07:03:24.513230
 url: "/cdr-researcher-census/researchers/nathan-gray-a5007233/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Huiling Zhang"
 description: "Huiling Zhang is a Senior Biochar researcher at Wuhan Polytechnic University in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.753687
+date: 2026-04-02T07:03:26.005286
 url: "/cdr-researcher-census/researchers/huiling-zhang-a5100700/"
 layout: "researcher"
 hiddenInHomeList: true

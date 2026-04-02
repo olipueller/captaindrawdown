@@ -1,7 +1,7 @@
 ---
 title: "Gina Villegas-Pangga"
 description: "Gina Villegas-Pangga is a Senior Biochar researcher at University of the Philippines Los Baños in PH. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.267022
+date: 2026-04-02T07:03:25.295229
 url: "/cdr-researcher-census/researchers/gina-villegas-pangga-a5027693/"
 layout: "researcher"
 hiddenInHomeList: true

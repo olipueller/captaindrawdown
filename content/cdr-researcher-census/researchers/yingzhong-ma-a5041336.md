@@ -1,7 +1,7 @@
 ---
 title: "Yingzhong Ma"
 description: "Yingzhong Ma is a Mid-career carbon dioxide removal researcher at Oak Ridge National Laboratory in US. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.842390
+date: 2026-04-02T07:03:26.133472
 url: "/cdr-researcher-census/researchers/yingzhong-ma-a5041336/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Sié Sylvestre Da"
 description: "Sié Sylvestre Da is a Mid-career Biochar researcher at Burkina Faso Ministry of the Environment, Green Economy, and Climate Change in BF. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.754076
+date: 2026-04-02T07:03:26.005966
 url: "/cdr-researcher-census/researchers/sie-sylvestre-da-a5076363/"
 layout: "researcher"
 hiddenInHomeList: true

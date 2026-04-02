@@ -1,7 +1,7 @@
 ---
 title: "Kangying Wu"
 description: "Kangying Wu is a Senior General CDR researcher at Nankai University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.348744
+date: 2026-04-02T07:03:26.894003
 url: "/cdr-researcher-census/researchers/kangying-wu-a5015804/"
 layout: "researcher"
 hiddenInHomeList: true

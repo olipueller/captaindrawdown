@@ -1,7 +1,7 @@
 ---
 title: "Daniel Carneiro de Abreu"
 description: "Daniel Carneiro de Abreu is a Senior Soil Carbon researcher at Universidade Federal de Mato Grosso in BR. With 56 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.280638
+date: 2026-04-02T07:03:25.313054
 url: "/cdr-researcher-census/researchers/daniel-carneiro-de-abreu-a5063762/"
 layout: "researcher"
 hiddenInHomeList: true

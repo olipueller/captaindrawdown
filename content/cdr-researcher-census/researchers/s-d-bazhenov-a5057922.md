@@ -1,7 +1,7 @@
 ---
 title: "S. D. Bazhenov"
 description: "S. D. Bazhenov is a Senior General CDR researcher at A.V.Topchiev Institute of Petrochemical Synthesis, Russian Academy of Sciences (TIPS RAS) in RU. With 100 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.285358
+date: 2026-04-02T07:03:23.890693
 url: "/cdr-researcher-census/researchers/s-d-bazhenov-a5057922/"
 layout: "researcher"
 hiddenInHomeList: true

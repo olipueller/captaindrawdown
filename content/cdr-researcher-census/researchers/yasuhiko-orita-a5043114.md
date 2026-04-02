@@ -1,7 +1,7 @@
 ---
 title: "Yasuhiko Orita"
 description: "Yasuhiko Orita is a Mid-career carbon dioxide removal researcher at Tokyo Institute of Technology in JP. With 30 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.460775
+date: 2026-04-02T07:03:25.578276
 url: "/cdr-researcher-census/researchers/yasuhiko-orita-a5043114/"
 layout: "researcher"
 hiddenInHomeList: true

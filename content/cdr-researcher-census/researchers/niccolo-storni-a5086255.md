@@ -1,7 +1,7 @@
 ---
 title: "Niccolò Storni"
 description: "Niccolò Storni is a Mid-career Enhanced Weathering researcher at Institute of Materials, Minerals and Mining in GB. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.028280
+date: 2026-04-02T07:03:26.402432
 url: "/cdr-researcher-census/researchers/niccolo-storni-a5086255/"
 layout: "researcher"
 hiddenInHomeList: true

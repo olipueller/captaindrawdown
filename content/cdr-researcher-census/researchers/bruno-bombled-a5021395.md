@@ -1,7 +1,7 @@
 ---
 title: "Bruno Bombled"
 description: "Bruno Bombled is a Senior General CDR researcher at Centre National de la Recherche Scientifique in FR. With 37 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.382405
+date: 2026-04-02T07:03:24.019433
 url: "/cdr-researcher-census/researchers/bruno-bombled-a5021395/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xutong Wu"
 description: "Xutong Wu is a Senior General CDR researcher at Beijing Normal University in CN. With 86 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.228395
+date: 2026-04-02T07:03:23.811733
 url: "/cdr-researcher-census/researchers/xutong-wu-a5002304/"
 layout: "researcher"
 hiddenInHomeList: true

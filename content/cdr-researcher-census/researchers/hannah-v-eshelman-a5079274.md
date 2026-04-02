@@ -1,7 +1,7 @@
 ---
 title: "Hannah V. Eshelman"
 description: "Hannah V. Eshelman is a Mid-career carbon dioxide removal researcher at Lawrence Livermore National Laboratory in US. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.869800
+date: 2026-04-02T07:03:26.172177
 url: "/cdr-researcher-census/researchers/hannah-v-eshelman-a5079274/"
 layout: "researcher"
 hiddenInHomeList: true

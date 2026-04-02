@@ -1,7 +1,7 @@
 ---
 title: "Tika Ram Poudel"
 description: "Tika Ram Poudel is a Mid-career Soil Carbon researcher at Northeast Forestry University in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.132044
+date: 2026-04-02T07:03:25.102422
 url: "/cdr-researcher-census/researchers/tika-ram-poudel-a5022210/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Shuohong Zhang"
 description: "Shuohong Zhang is a Mid-career carbon dioxide removal researcher at North West Agriculture and Forestry University in CN. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.978809
+date: 2026-04-02T07:03:24.876198
 url: "/cdr-researcher-census/researchers/shuohong-zhang-a5081469/"
 layout: "researcher"
 hiddenInHomeList: true

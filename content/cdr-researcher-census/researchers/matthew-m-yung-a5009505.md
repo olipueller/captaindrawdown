@@ -1,7 +1,7 @@
 ---
 title: "Matthew M. Yung"
 description: "Matthew M. Yung is a Senior DAC researcher at National Renewable Energy Laboratory in US. With 83 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.187886
+date: 2026-04-02T07:03:23.762173
 url: "/cdr-researcher-census/researchers/matthew-m-yung-a5009505/"
 layout: "researcher"
 hiddenInHomeList: true

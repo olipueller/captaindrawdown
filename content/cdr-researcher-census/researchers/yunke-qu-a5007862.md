@@ -1,7 +1,7 @@
 ---
 title: "Yunke Qu"
 description: "Yunke Qu is a Mid-career Soil Carbon researcher at Weihai Science and Technology Bureau in CN. With 22 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.939355
+date: 2026-04-02T07:03:24.813827
 url: "/cdr-researcher-census/researchers/yunke-qu-a5007862/"
 layout: "researcher"
 hiddenInHomeList: true

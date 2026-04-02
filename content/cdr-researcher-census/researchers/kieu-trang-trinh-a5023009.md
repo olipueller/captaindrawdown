@@ -1,7 +1,7 @@
 ---
 title: "Kieu Trang Trinh"
 description: "Kieu Trang Trinh is a Mid-career Biochar researcher at Kyushu Institute of Technology in JP. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.157531
+date: 2026-04-02T07:03:25.139382
 url: "/cdr-researcher-census/researchers/kieu-trang-trinh-a5023009/"
 layout: "researcher"
 hiddenInHomeList: true

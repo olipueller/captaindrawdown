@@ -1,7 +1,7 @@
 ---
 title: "Ali M. Abou‐Elanwar"
 description: "Ali M. Abou‐Elanwar is a Mid-career carbon dioxide removal researcher at Korea Electronics Technology Institute in KR. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.206726
+date: 2026-04-02T07:03:25.208974
 url: "/cdr-researcher-census/researchers/ali-m-abouelanwar-a5108058/"
 layout: "researcher"
 hiddenInHomeList: true

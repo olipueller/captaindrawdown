@@ -1,7 +1,7 @@
 ---
 title: "Cuoji Peng"
 description: "Cuoji Peng is a Mid-career Soil Carbon researcher at Qinghai University in CN. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.004518
+date: 2026-04-02T07:03:24.916552
 url: "/cdr-researcher-census/researchers/cuoji-peng-a5101057/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xue Zhang"
 description: "Xue Zhang is a Senior Biochar researcher at Qingdao University in CN. With 22 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.430089
+date: 2026-04-02T07:03:25.531897
 url: "/cdr-researcher-census/researchers/xue-zhang-a5104116/"
 layout: "researcher"
 hiddenInHomeList: true

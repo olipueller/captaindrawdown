@@ -1,7 +1,7 @@
 ---
 title: "Luyao Jia"
 description: "Luyao Jia is a Senior Soil Carbon researcher at Southwest University in CN. With 29 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.579367
+date: 2026-04-02T07:03:24.289953
 url: "/cdr-researcher-census/researchers/luyao-jia-a5101966/"
 layout: "researcher"
 hiddenInHomeList: true

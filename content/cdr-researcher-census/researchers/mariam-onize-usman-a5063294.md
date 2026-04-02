@@ -1,7 +1,7 @@
 ---
 title: "Mariam Onize Usman"
 description: "Mariam Onize Usman is an Early-career Biochar researcher. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.162801
+date: 2026-04-02T07:03:26.608694
 url: "/cdr-researcher-census/researchers/mariam-onize-usman-a5063294/"
 layout: "researcher"
 hiddenInHomeList: true

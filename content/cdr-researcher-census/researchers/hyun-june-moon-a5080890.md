@@ -1,7 +1,7 @@
 ---
 title: "Hyun June Moon"
 description: "Hyun June Moon is a Mid-career carbon dioxide removal researcher at University of Delaware in US. With 25 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.866273
+date: 2026-04-02T07:03:24.698178
 url: "/cdr-researcher-census/researchers/hyun-june-moon-a5080890/"
 layout: "researcher"
 hiddenInHomeList: true

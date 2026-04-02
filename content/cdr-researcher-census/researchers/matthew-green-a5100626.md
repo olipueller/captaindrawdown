@@ -1,7 +1,7 @@
 ---
 title: "Matthew Green"
 description: "Matthew Green is an Eminent DAC researcher at Johns Hopkins University in US. With 190 publications and an h-index of 42, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.103907
+date: 2026-04-02T07:03:23.652237
 url: "/cdr-researcher-census/researchers/matthew-green-a5100626/"
 layout: "researcher"
 hiddenInHomeList: true

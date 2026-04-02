@@ -1,7 +1,7 @@
 ---
 title: "Yuqing Ma"
 description: "Yuqing Ma is a Mid-career Soil Carbon researcher at China Agricultural University in CN. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.931401
+date: 2026-04-02T07:03:24.800707
 url: "/cdr-researcher-census/researchers/yuqing-ma-a5101962/"
 layout: "researcher"
 hiddenInHomeList: true

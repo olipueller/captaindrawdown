@@ -1,7 +1,7 @@
 ---
 title: "Se-In Park"
 description: "Se-In Park is a Mid-career Soil Carbon researcher at National Institute of Environmental Research in KR. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.299419
+date: 2026-04-02T07:03:25.341034
 url: "/cdr-researcher-census/researchers/se-in-park-a5012314/"
 layout: "researcher"
 hiddenInHomeList: true

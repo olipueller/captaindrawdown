@@ -1,7 +1,7 @@
 ---
 title: "Huiting Zeng"
 description: "Huiting Zeng is a Mid-career Biochar researcher at Guilin University of Technology in CN. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.886752
+date: 2026-04-02T07:03:24.729504
 url: "/cdr-researcher-census/researchers/huiting-zeng-a5077469/"
 layout: "researcher"
 hiddenInHomeList: true

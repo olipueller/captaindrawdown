@@ -1,7 +1,7 @@
 ---
 title: "D. Muthukumar"
 description: "D. Muthukumar is a Mid-career carbon dioxide removal researcher at Christ University in IN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.164456
+date: 2026-04-02T07:03:25.148207
 url: "/cdr-researcher-census/researchers/d-muthukumar-a5056072/"
 layout: "researcher"
 hiddenInHomeList: true

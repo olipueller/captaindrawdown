@@ -1,7 +1,7 @@
 ---
 title: "Ipsa Gupta"
 description: "Ipsa Gupta is a Mid-career Biochar researcher at Panjab University in IN. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.701588
+date: 2026-04-02T07:03:25.962123
 url: "/cdr-researcher-census/researchers/ipsa-gupta-a5005503/"
 layout: "researcher"
 hiddenInHomeList: true

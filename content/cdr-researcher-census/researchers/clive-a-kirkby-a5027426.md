@@ -1,7 +1,7 @@
 ---
 title: "Clive A. Kirkby"
 description: "Clive A. Kirkby is a Senior Soil Carbon researcher at Commonwealth Scientific and Industrial Research Organisation in AU. With 39 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.172415
+date: 2026-04-02T07:03:23.739149
 url: "/cdr-researcher-census/researchers/clive-a-kirkby-a5027426/"
 layout: "researcher"
 hiddenInHomeList: true

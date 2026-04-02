@@ -1,7 +1,7 @@
 ---
 title: "Ehsan Sarlaki"
 description: "Ehsan Sarlaki is a Mid-career Biochar researcher at University of Tehran in IR. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.937537
+date: 2026-04-02T07:03:24.810382
 url: "/cdr-researcher-census/researchers/ehsan-sarlaki-a5020787/"
 layout: "researcher"
 hiddenInHomeList: true

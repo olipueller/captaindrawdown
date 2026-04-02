@@ -1,7 +1,7 @@
 ---
 title: "August Thies"
 description: "August Thies is a Mid-career carbon dioxide removal researcher at Donald Danforth Plant Science Center in US. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.536453
+date: 2026-04-02T07:03:25.711534
 url: "/cdr-researcher-census/researchers/august-thies-a5082829/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Freddy S. Navarro‐Pineda"
 description: "Freddy S. Navarro‐Pineda is a Mid-career DAC researcher at Autonomous University of Yucatán in MX. With 18 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.993956
+date: 2026-04-02T07:03:24.900354
 url: "/cdr-researcher-census/researchers/freddy-s-navarropineda-a5055607/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Elisabeth Angenendt"
 description: "Elisabeth Angenendt is a Senior General CDR researcher. With 39 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.075843
+date: 2026-04-02T07:03:25.020671
 url: "/cdr-researcher-census/researchers/elisabeth-angenendt-a5025582/"
 layout: "researcher"
 hiddenInHomeList: true

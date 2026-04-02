@@ -1,7 +1,7 @@
 ---
 title: "Jean-Yves Cahurel"
 description: "Jean-Yves Cahurel is a Senior General CDR researcher at Institut Français de la Vigne et du Vin in FR. With 17 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.380179
+date: 2026-04-02T07:03:25.457753
 url: "/cdr-researcher-census/researchers/jean-yves-cahurel-a5017951/"
 layout: "researcher"
 hiddenInHomeList: true

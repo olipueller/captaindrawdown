@@ -1,7 +1,7 @@
 ---
 title: "A. Banerjee"
 description: "A. Banerjee is a Mid-career carbon dioxide removal researcher at University of Akron in US. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.580973
+date: 2026-04-02T07:03:25.776216
 url: "/cdr-researcher-census/researchers/a-banerjee-a5072805/"
 layout: "researcher"
 hiddenInHomeList: true

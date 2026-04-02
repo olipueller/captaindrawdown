@@ -1,7 +1,7 @@
 ---
 title: "Tianli Lan"
 description: "Tianli Lan is a Mid-career General CDR researcher at South China University of Technology in CN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.943502
+date: 2026-04-02T07:03:26.282973
 url: "/cdr-researcher-census/researchers/tianli-lan-a5064748/"
 layout: "researcher"
 hiddenInHomeList: true

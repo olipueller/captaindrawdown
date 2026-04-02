@@ -1,7 +1,7 @@
 ---
 title: "Jens Leifeld"
 description: "Jens Leifeld is an Eminent General CDR researcher at Aarhus University in DK. With 298 publications and an h-index of 66, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.081295
+date: 2026-04-02T07:03:23.624479
 url: "/cdr-researcher-census/researchers/jens-leifeld-a5078135/"
 layout: "researcher"
 hiddenInHomeList: true

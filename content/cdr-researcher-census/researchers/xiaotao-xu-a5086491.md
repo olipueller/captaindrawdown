@@ -1,7 +1,7 @@
 ---
 title: "Xiaotao Xu"
 description: "Xiaotao Xu is a Mid-career Enhanced Weathering researcher at China National Administration of Coal Geology in CN. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.338676
+date: 2026-04-02T07:03:25.395053
 url: "/cdr-researcher-census/researchers/xiaotao-xu-a5086491/"
 layout: "researcher"
 hiddenInHomeList: true

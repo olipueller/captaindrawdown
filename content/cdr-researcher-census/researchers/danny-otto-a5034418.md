@@ -1,7 +1,7 @@
 ---
 title: "Danny Otto"
 description: "Danny Otto is a Mid-career General CDR researcher at Helmholtz Centre for Environmental Research in DE. With 38 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.016875
+date: 2026-04-02T07:03:24.932638
 url: "/cdr-researcher-census/researchers/danny-otto-a5034418/"
 layout: "researcher"
 hiddenInHomeList: true

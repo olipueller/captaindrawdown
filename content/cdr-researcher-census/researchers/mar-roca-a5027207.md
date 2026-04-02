@@ -1,7 +1,7 @@
 ---
 title: "Mar Roca"
 description: "Mar Roca is a Mid-career Ocean CDR researcher at Consejo Superior de Investigaciones Científicas in ES. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.818186
+date: 2026-04-02T07:03:26.099316
 url: "/cdr-researcher-census/researchers/mar-roca-a5027207/"
 layout: "researcher"
 hiddenInHomeList: true

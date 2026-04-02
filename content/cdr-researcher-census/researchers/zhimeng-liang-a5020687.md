@@ -1,7 +1,7 @@
 ---
 title: "Zhimeng Liang"
 description: "Zhimeng Liang is a Mid-career Biochar researcher at Ministry of Ecology and Environment in CN. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.568738
+date: 2026-04-02T07:03:24.274893
 url: "/cdr-researcher-census/researchers/zhimeng-liang-a5020687/"
 layout: "researcher"
 hiddenInHomeList: true

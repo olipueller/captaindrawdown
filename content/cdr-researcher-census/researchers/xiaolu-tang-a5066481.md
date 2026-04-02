@@ -1,7 +1,7 @@
 ---
 title: "Xiaolu Tang"
 description: "Xiaolu Tang is a Senior Soil Carbon researcher at Chengdu University of Technology in CN. With 171 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.250342
+date: 2026-04-02T07:03:23.840501
 url: "/cdr-researcher-census/researchers/xiaolu-tang-a5066481/"
 layout: "researcher"
 hiddenInHomeList: true

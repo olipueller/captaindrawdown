@@ -1,7 +1,7 @@
 ---
 title: "Victor F. Strîmbu"
 description: "Victor F. Strîmbu is a Senior General CDR researcher at Norwegian Institute of Bioeconomy Research in NO. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.472349
+date: 2026-04-02T07:03:25.597396
 url: "/cdr-researcher-census/researchers/victor-f-strimbu-a5052707/"
 layout: "researcher"
 hiddenInHomeList: true

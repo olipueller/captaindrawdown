@@ -1,7 +1,7 @@
 ---
 title: "Yves Uwiragiye"
 description: "Yves Uwiragiye is a Mid-career Soil Carbon researcher at Nanjing Normal University in CN. With 48 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.693241
+date: 2026-04-02T07:03:24.456388
 url: "/cdr-researcher-census/researchers/yves-uwiragiye-a5070602/"
 layout: "researcher"
 hiddenInHomeList: true

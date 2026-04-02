@@ -1,7 +1,7 @@
 ---
 title: "Patrick Lamers"
 description: "Patrick Lamers is a Senior General CDR researcher at National Renewable Energy Laboratory in US. With 86 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.171603
+date: 2026-04-02T07:03:23.738195
 url: "/cdr-researcher-census/researchers/patrick-lamers-a5077036/"
 layout: "researcher"
 hiddenInHomeList: true

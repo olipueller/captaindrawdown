@@ -1,7 +1,7 @@
 ---
 title: "Ankita Kandpal"
 description: "Ankita Kandpal is a Mid-career Soil Carbon researcher at Institute of Agricultural Economics in BG. With 19 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.790321
+date: 2026-04-02T07:03:26.058111
 url: "/cdr-researcher-census/researchers/ankita-kandpal-a5040515/"
 layout: "researcher"
 hiddenInHomeList: true

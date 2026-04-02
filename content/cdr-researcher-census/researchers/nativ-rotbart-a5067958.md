@@ -1,7 +1,7 @@
 ---
 title: "Nativ Rotbart"
 description: "Nativ Rotbart is a Mid-career Soil Carbon researcher at Hebrew University of Jerusalem in IL. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.512581
+date: 2026-04-02T07:03:25.677533
 url: "/cdr-researcher-census/researchers/nativ-rotbart-a5067958/"
 layout: "researcher"
 hiddenInHomeList: true

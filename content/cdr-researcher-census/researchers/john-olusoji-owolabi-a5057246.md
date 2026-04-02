@@ -1,7 +1,7 @@
 ---
 title: "John Olusoji Owolabi"
 description: "John Olusoji Owolabi is a Mid-career carbon dioxide removal researcher at Afe Babalola University in NG. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.306042
+date: 2026-04-02T07:03:26.837225
 url: "/cdr-researcher-census/researchers/john-olusoji-owolabi-a5057246/"
 layout: "researcher"
 hiddenInHomeList: true

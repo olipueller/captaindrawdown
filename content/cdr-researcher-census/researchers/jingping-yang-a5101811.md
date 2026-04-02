@@ -1,7 +1,7 @@
 ---
 title: "Jingping Yang"
 description: "Jingping Yang is a Senior Soil Carbon researcher at Zhejiang University in CN. With 41 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.422525
+date: 2026-04-02T07:03:24.067013
 url: "/cdr-researcher-census/researchers/jingping-yang-a5101811/"
 layout: "researcher"
 hiddenInHomeList: true

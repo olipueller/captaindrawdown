@@ -1,7 +1,7 @@
 ---
 title: "Aisha Al-Rumaihi"
 description: "Aisha Al-Rumaihi is a Mid-career Biochar researcher at Hamad bin Khalifa University in QA. With 7 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.526183
+date: 2026-04-02T07:03:24.209607
 url: "/cdr-researcher-census/researchers/aisha-al-rumaihi-a5088506/"
 layout: "researcher"
 hiddenInHomeList: true

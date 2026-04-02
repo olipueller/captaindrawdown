@@ -1,7 +1,7 @@
 ---
 title: "Novie Juleanti"
 description: "Novie Juleanti is a Mid-career Biochar researcher at Sriwijaya University in ID. With 21 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.663869
+date: 2026-04-02T07:03:25.904075
 url: "/cdr-researcher-census/researchers/novie-juleanti-a5014067/"
 layout: "researcher"
 hiddenInHomeList: true

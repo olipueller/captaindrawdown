@@ -1,7 +1,7 @@
 ---
 title: "Robert F. Strzepek"
 description: "Robert F. Strzepek is a Senior Ocean CDR researcher at University of Tasmania in AU. With 87 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.111189
+date: 2026-04-02T07:03:23.661084
 url: "/cdr-researcher-census/researchers/robert-f-strzepek-a5087477/"
 layout: "researcher"
 hiddenInHomeList: true

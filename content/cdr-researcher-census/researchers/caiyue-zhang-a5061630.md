@@ -1,7 +1,7 @@
 ---
 title: "Caiyue Zhang"
 description: "Caiyue Zhang is a Mid-career Biochar researcher at Qingdao University in CN. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.850039
+date: 2026-04-02T07:03:26.143954
 url: "/cdr-researcher-census/researchers/caiyue-zhang-a5061630/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xiaoning Song"
 description: "Xiaoning Song is a Mid-career carbon dioxide removal researcher at University of Chinese Academy of Sciences in CN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.359800
+date: 2026-04-02T07:03:26.909912
 url: "/cdr-researcher-census/researchers/xiaoning-song-a5084494/"
 layout: "researcher"
 hiddenInHomeList: true

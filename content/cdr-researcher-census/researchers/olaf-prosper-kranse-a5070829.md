@@ -1,7 +1,7 @@
 ---
 title: "Olaf Prosper Kranse"
 description: "Olaf Prosper Kranse is a Mid-career General CDR researcher at University of Cambridge in GB. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.645889
+date: 2026-04-02T07:03:25.875978
 url: "/cdr-researcher-census/researchers/olaf-prosper-kranse-a5070829/"
 layout: "researcher"
 hiddenInHomeList: true

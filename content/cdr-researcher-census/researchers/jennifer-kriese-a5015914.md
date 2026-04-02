@@ -1,7 +1,7 @@
 ---
 title: "Jennifer Kriese"
 description: "Jennifer Kriese is an Early-career General CDR researcher at Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR) in DE. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.512787
+date: 2026-04-02T07:03:25.678017
 url: "/cdr-researcher-census/researchers/jennifer-kriese-a5015914/"
 layout: "researcher"
 hiddenInHomeList: true

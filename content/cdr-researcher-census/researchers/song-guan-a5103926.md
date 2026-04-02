@@ -1,7 +1,7 @@
 ---
 title: "Song Guan"
 description: "Song Guan is a Senior Soil Carbon researcher at Jilin Agricultural University in CN. With 60 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.576163
+date: 2026-04-02T07:03:24.285654
 url: "/cdr-researcher-census/researchers/song-guan-a5103926/"
 layout: "researcher"
 hiddenInHomeList: true

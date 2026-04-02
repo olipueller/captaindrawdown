@@ -1,7 +1,7 @@
 ---
 title: "Miraç Kılıç"
 description: "Miraç Kılıç is a Mid-career Soil Carbon researcher at Malatya Turgut Özal Üniversitesi in TR. With 27 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.326414
+date: 2026-04-02T07:03:26.864067
 url: "/cdr-researcher-census/researchers/mirac-klc-a5090216/"
 layout: "researcher"
 hiddenInHomeList: true

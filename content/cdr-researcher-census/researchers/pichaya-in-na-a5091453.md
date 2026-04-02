@@ -1,7 +1,7 @@
 ---
 title: "Pichaya In-na"
 description: "Pichaya In-na is a Mid-career General CDR researcher at Chulalongkorn University in TH. With 26 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.705369
+date: 2026-04-02T07:03:24.473824
 url: "/cdr-researcher-census/researchers/pichaya-in-na-a5091453/"
 layout: "researcher"
 hiddenInHomeList: true

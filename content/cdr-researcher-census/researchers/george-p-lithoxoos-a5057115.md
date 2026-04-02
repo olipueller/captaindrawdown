@@ -1,7 +1,7 @@
 ---
 title: "George P. Lithoxoos"
 description: "George P. Lithoxoos is a Senior carbon dioxide removal researcher at Saudi Aramco (Saudi Arabia) in SA. With 23 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.640230
+date: 2026-04-02T07:03:24.375838
 url: "/cdr-researcher-census/researchers/george-p-lithoxoos-a5057115/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Antonio M. Cachinero-Vivar"
 description: "Antonio M. Cachinero-Vivar is a Mid-career Soil Carbon researcher at Instituto Andaluz de Ciencias de la Tierra in ES. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.412389
+date: 2026-04-02T07:03:26.983723
 url: "/cdr-researcher-census/researchers/antonio-m-cachinero-vivar-a5029663/"
 layout: "researcher"
 hiddenInHomeList: true

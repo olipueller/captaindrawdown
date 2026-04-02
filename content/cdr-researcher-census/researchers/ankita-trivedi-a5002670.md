@@ -1,7 +1,7 @@
 ---
 title: "Ankita Trivedi"
 description: "Ankita Trivedi is a Senior Soil Carbon researcher at Indian Agricultural Research Institute in IN. With 40 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.335399
+date: 2026-04-02T07:03:25.390380
 url: "/cdr-researcher-census/researchers/ankita-trivedi-a5002670/"
 layout: "researcher"
 hiddenInHomeList: true

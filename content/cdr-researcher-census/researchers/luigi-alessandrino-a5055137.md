@@ -1,7 +1,7 @@
 ---
 title: "Luigi Alessandrino"
 description: "Luigi Alessandrino is a Mid-career Biochar researcher. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.104110
+date: 2026-04-02T07:03:26.511127
 url: "/cdr-researcher-census/researchers/luigi-alessandrino-a5055137/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Rita Moreira"
 description: "Rita Moreira is a Senior carbon dioxide removal researcher at Instituto Nacional de Investigação Agrária e Veterinária in PT. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.748536
+date: 2026-04-02T07:03:25.996481
 url: "/cdr-researcher-census/researchers/rita-moreira-a5085188/"
 layout: "researcher"
 hiddenInHomeList: true

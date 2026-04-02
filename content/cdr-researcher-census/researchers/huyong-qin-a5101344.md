@@ -1,7 +1,7 @@
 ---
 title: "Huyong Qin"
 description: "Huyong Qin is a Mid-career Biochar researcher at Hefei University of Technology in CN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.144741
+date: 2026-04-02T07:03:26.575641
 url: "/cdr-researcher-census/researchers/huyong-qin-a5101344/"
 layout: "researcher"
 hiddenInHomeList: true

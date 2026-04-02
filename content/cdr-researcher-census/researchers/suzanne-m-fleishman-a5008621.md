@@ -1,7 +1,7 @@
 ---
 title: "Suzanne M. Fleishman"
 description: "Suzanne M. Fleishman is a Mid-career carbon dioxide removal researcher at Pennsylvania State University in US. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.923858
+date: 2026-04-02T07:03:26.254283
 url: "/cdr-researcher-census/researchers/suzanne-m-fleishman-a5008621/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "David Lefebvre"
 description: "David Lefebvre is a Mid-career Biochar researcher at University of British Columbia in CA. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.703545
+date: 2026-04-02T07:03:24.471602
 url: "/cdr-researcher-census/researchers/david-lefebvre-a5079413/"
 layout: "researcher"
 hiddenInHomeList: true

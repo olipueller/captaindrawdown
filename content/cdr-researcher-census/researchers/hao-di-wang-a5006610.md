@@ -1,7 +1,7 @@
 ---
 title: "Hao-Di Wang"
 description: "Hao-Di Wang is an Early-career Soil Carbon researcher at Ministry of Agriculture and Rural Affairs in CN. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.134926
+date: 2026-04-02T07:03:26.558629
 url: "/cdr-researcher-census/researchers/hao-di-wang-a5006610/"
 layout: "researcher"
 hiddenInHomeList: true

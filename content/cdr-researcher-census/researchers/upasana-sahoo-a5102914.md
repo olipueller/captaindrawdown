@@ -1,7 +1,7 @@
 ---
 title: "Upasana Sahoo"
 description: "Upasana Sahoo is a Mid-career General CDR researcher at Central Institute of Fisheries Education in IN. With 29 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.832300
+date: 2026-04-02T07:03:26.119033
 url: "/cdr-researcher-census/researchers/upasana-sahoo-a5102914/"
 layout: "researcher"
 hiddenInHomeList: true

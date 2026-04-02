@@ -1,7 +1,7 @@
 ---
 title: "Ana Cruz del Álamo"
 description: "Ana Cruz del Álamo is a Mid-career carbon dioxide removal researcher at Universidad Rey Juan Carlos in ES. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.092032
+date: 2026-04-02T07:03:25.043053
 url: "/cdr-researcher-census/researchers/ana-cruz-del-alamo-a5051490/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Shichuan Yu"
 description: "Shichuan Yu is a Mid-career General CDR researcher at Yunnan Agricultural University in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.881527
+date: 2026-04-02T07:03:24.720734
 url: "/cdr-researcher-census/researchers/shichuan-yu-a5101135/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Weitong Ren"
 description: "Weitong Ren is a Mid-career Soil Carbon researcher at Harbin Institute of Technology in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.967826
+date: 2026-04-02T07:03:26.318280
 url: "/cdr-researcher-census/researchers/weitong-ren-a5101228/"
 layout: "researcher"
 hiddenInHomeList: true

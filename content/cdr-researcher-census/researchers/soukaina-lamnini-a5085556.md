@@ -1,7 +1,7 @@
 ---
 title: "Soukaina Lamnini"
 description: "Soukaina Lamnini is a Mid-career carbon dioxide removal researcher at Université Mohammed VI Polytechnique in MA. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.424337
+date: 2026-04-02T07:03:25.523835
 url: "/cdr-researcher-census/researchers/soukaina-lamnini-a5085556/"
 layout: "researcher"
 hiddenInHomeList: true

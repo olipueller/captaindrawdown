@@ -1,7 +1,7 @@
 ---
 title: "Camilla Nicol Bonacina"
 description: "Camilla Nicol Bonacina is a Mid-career carbon dioxide removal researcher. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.320993
+date: 2026-04-02T07:03:26.857182
 url: "/cdr-researcher-census/researchers/camilla-nicol-bonacina-a5033416/"
 layout: "researcher"
 hiddenInHomeList: true

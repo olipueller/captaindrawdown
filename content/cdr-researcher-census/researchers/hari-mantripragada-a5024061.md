@@ -1,7 +1,7 @@
 ---
 title: "Hari Mantripragada"
 description: "Hari Mantripragada is a Senior DAC researcher at University of Pittsburgh in US. With 29 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.449803
+date: 2026-04-02T07:03:24.104209
 url: "/cdr-researcher-census/researchers/hari-mantripragada-a5024061/"
 layout: "researcher"
 hiddenInHomeList: true

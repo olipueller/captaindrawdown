@@ -1,7 +1,7 @@
 ---
 title: "Gang Xin"
 description: "Gang Xin is a Mid-career Soil Carbon researcher at Mahasarakham University in TH. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.440660
+date: 2026-04-02T07:03:25.547155
 url: "/cdr-researcher-census/researchers/gang-xin-a5042732/"
 layout: "researcher"
 hiddenInHomeList: true

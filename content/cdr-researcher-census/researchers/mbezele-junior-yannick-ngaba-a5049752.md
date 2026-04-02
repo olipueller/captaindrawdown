@@ -1,7 +1,7 @@
 ---
 title: "Mbezele Junior Yannick Ngaba"
 description: "Mbezele Junior Yannick Ngaba is a Mid-career Soil Carbon researcher at Kunming Institute of Botany in CN. With 43 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.071139
+date: 2026-04-02T07:03:25.013665
 url: "/cdr-researcher-census/researchers/mbezele-junior-yannick-ngaba-a5049752/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Pavitra Sandilya"
 description: "Pavitra Sandilya is a Senior carbon dioxide removal researcher at Indian Institute of Technology Kharagpur in IN. With 35 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.420885
+date: 2026-04-02T07:03:25.519099
 url: "/cdr-researcher-census/researchers/pavitra-sandilya-a5049601/"
 layout: "researcher"
 hiddenInHomeList: true

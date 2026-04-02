@@ -1,7 +1,7 @@
 ---
 title: "Zongjie He"
 description: "Zongjie He is a Mid-career carbon dioxide removal researcher at Second Military Medical University in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.051589
+date: 2026-04-02T07:03:26.439706
 url: "/cdr-researcher-census/researchers/zongjie-he-a5012394/"
 layout: "researcher"
 hiddenInHomeList: true

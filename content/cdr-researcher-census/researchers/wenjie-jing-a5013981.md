@@ -1,7 +1,7 @@
 ---
 title: "Wenjie Jing"
 description: "Wenjie Jing is a Senior Soil Carbon researcher at Tianjin University of Science and Technology in CN. With 34 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.641071
+date: 2026-04-02T07:03:24.377039
 url: "/cdr-researcher-census/researchers/wenjie-jing-a5013981/"
 layout: "researcher"
 hiddenInHomeList: true

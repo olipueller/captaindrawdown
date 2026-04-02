@@ -1,7 +1,7 @@
 ---
 title: "Sarah Fulton‐Smith"
 description: "Sarah Fulton‐Smith is a Mid-career Soil Carbon researcher at American Farmland Trust in US. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.401101
+date: 2026-04-02T07:03:26.967736
 url: "/cdr-researcher-census/researchers/sarah-fultonsmith-a5000481/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Goran Trivan"
 description: "Goran Trivan is a Mid-career General CDR researcher at University of Belgrade in RS. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.503961
+date: 2026-04-02T07:03:25.665304
 url: "/cdr-researcher-census/researchers/goran-trivan-a5063242/"
 layout: "researcher"
 hiddenInHomeList: true

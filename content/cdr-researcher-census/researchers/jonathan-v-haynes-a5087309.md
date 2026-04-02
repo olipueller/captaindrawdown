@@ -1,7 +1,7 @@
 ---
 title: "Jonathan V. Haynes"
 description: "Jonathan V. Haynes is a Mid-career carbon dioxide removal researcher at United States Geological Survey in US. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.444381
+date: 2026-04-02T07:03:27.033073
 url: "/cdr-researcher-census/researchers/jonathan-v-haynes-a5087309/"
 layout: "researcher"
 hiddenInHomeList: true

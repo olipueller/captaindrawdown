@@ -1,7 +1,7 @@
 ---
 title: "Guodong Shao"
 description: "Guodong Shao is a Mid-career Soil Carbon researcher at South China Agricultural University in CN. With 42 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.664660
+date: 2026-04-02T07:03:24.416666
 url: "/cdr-researcher-census/researchers/guodong-shao-a5022872/"
 layout: "researcher"
 hiddenInHomeList: true

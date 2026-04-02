@@ -1,7 +1,7 @@
 ---
 title: "Lucy Amissah"
 description: "Lucy Amissah is a Mid-career Soil Carbon researcher at The Forestry Commission of Ghana in GH. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.502788
+date: 2026-04-02T07:03:24.176007
 url: "/cdr-researcher-census/researchers/lucy-amissah-a5107335/"
 layout: "researcher"
 hiddenInHomeList: true

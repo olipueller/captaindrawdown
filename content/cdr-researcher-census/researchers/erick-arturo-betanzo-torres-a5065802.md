@@ -1,7 +1,7 @@
 ---
 title: "Erick Arturo Betanzo-Torres"
 description: "Erick Arturo Betanzo-Torres is a Mid-career Soil Carbon researcher at Instituto Tecnológico de Puebla in MX. With 21 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.217975
+date: 2026-04-02T07:03:25.227639
 url: "/cdr-researcher-census/researchers/erick-arturo-betanzo-torres-a5065802/"
 layout: "researcher"
 hiddenInHomeList: true

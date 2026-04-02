@@ -1,7 +1,7 @@
 ---
 title: "Anas Al-Dailami"
 description: "Anas Al-Dailami is a Mid-career General CDR researcher at University of Technology Malaysia in MY. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.964161
+date: 2026-04-02T07:03:26.312965
 url: "/cdr-researcher-census/researchers/anas-al-dailami-a5075836/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Richard Dubettier"
 description: "Richard Dubettier is a Mid-career carbon dioxide removal researcher at Air Liquide (United Kingdom) in GB. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.120198
+date: 2026-04-02T07:03:25.084725
 url: "/cdr-researcher-census/researchers/richard-dubettier-a5067032/"
 layout: "researcher"
 hiddenInHomeList: true

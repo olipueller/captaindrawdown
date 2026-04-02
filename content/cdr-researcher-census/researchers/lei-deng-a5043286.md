@@ -1,7 +1,7 @@
 ---
 title: "Lei Deng"
 description: "Lei Deng is an Eminent Soil Carbon researcher at Chongqing Public Health Medical Center in CN. With 256 publications and an h-index of 60, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.091358
+date: 2026-04-02T07:03:23.636411
 url: "/cdr-researcher-census/researchers/lei-deng-a5043286/"
 layout: "researcher"
 hiddenInHomeList: true

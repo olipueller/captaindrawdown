@@ -1,7 +1,7 @@
 ---
 title: "Injy Johnstone"
 description: "Injy Johnstone is a Mid-career General CDR researcher at University of Oxford in GB. With 28 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.352682
+date: 2026-04-02T07:03:26.898801
 url: "/cdr-researcher-census/researchers/injy-johnstone-a5035898/"
 layout: "researcher"
 hiddenInHomeList: true

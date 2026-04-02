@@ -1,7 +1,7 @@
 ---
 title: "Vineet Vimal"
 description: "Vineet Vimal is a Mid-career Biochar researcher at Jawaharlal Nehru University in IN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.138781
+date: 2026-04-02T07:03:25.112170
 url: "/cdr-researcher-census/researchers/vineet-vimal-a5045090/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Hongwei Xu"
 description: "Hongwei Xu is a Senior Soil Carbon researcher at Minzu University of China in CN. With 147 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.206906
+date: 2026-04-02T07:03:23.785807
 url: "/cdr-researcher-census/researchers/hongwei-xu-a5038496/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Víctor Tulus"
 description: "Víctor Tulus is a Mid-career DAC researcher at ETH Zurich in CH. With 37 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.293654
+date: 2026-04-02T07:03:23.901596
 url: "/cdr-researcher-census/researchers/victor-tulus-a5034675/"
 layout: "researcher"
 hiddenInHomeList: true

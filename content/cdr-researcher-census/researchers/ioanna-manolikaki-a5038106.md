@@ -1,7 +1,7 @@
 ---
 title: "Ioanna Manolikaki"
 description: "Ioanna Manolikaki is a Senior Biochar researcher at Mediterranean Agronomic Institute of Chania in GR. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.962586
+date: 2026-04-02T07:03:24.850566
 url: "/cdr-researcher-census/researchers/ioanna-manolikaki-a5038106/"
 layout: "researcher"
 hiddenInHomeList: true

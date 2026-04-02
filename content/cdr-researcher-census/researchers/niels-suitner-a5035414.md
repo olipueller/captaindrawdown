@@ -1,7 +1,7 @@
 ---
 title: "Niels Suitner"
 description: "Niels Suitner is an Early-career Ocean CDR researcher at Universität Hamburg in DE. With 23 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.585353
+date: 2026-04-02T07:03:25.783456
 url: "/cdr-researcher-census/researchers/niels-suitner-a5035414/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Sohela Akhter"
 description: "Sohela Akhter is a Mid-career Soil Carbon researcher at Lamar University in US. With 30 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.195021
+date: 2026-04-02T07:03:25.192382
 url: "/cdr-researcher-census/researchers/sohela-akhter-a5112854/"
 layout: "researcher"
 hiddenInHomeList: true

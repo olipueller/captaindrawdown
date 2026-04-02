@@ -1,7 +1,7 @@
 ---
 title: "Helen Eastmond"
 description: "Helen Eastmond is an Early-career carbon dioxide removal researcher at University of Cambridge in GB. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.133833
+date: 2026-04-02T07:03:26.556623
 url: "/cdr-researcher-census/researchers/helen-eastmond-a5067646/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Aliia Gilmullina"
 description: "Aliia Gilmullina is a Mid-career Soil Carbon researcher at AgroParisTech in FR. With 20 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.201147
+date: 2026-04-02T07:03:26.681308
 url: "/cdr-researcher-census/researchers/aliia-gilmullina-a5049347/"
 layout: "researcher"
 hiddenInHomeList: true

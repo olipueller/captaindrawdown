@@ -1,7 +1,7 @@
 ---
 title: "Matthieu Heitz"
 description: "Matthieu Heitz is a Mid-career Biochar researcher at University of British Columbia in CA. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.706910
+date: 2026-04-02T07:03:25.970528
 url: "/cdr-researcher-census/researchers/matthieu-heitz-a5072772/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Karol Federowicz"
 description: "Karol Federowicz is a Mid-career Biochar researcher at West Pomeranian University of Technology in Szczecin in PL. With 31 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.860568
+date: 2026-04-02T07:03:24.689974
 url: "/cdr-researcher-census/researchers/karol-federowicz-a5028008/"
 layout: "researcher"
 hiddenInHomeList: true

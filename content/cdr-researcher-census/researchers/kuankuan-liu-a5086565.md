@@ -1,7 +1,7 @@
 ---
 title: "Kuankuan Liu"
 description: "Kuankuan Liu is a Mid-career Biochar researcher at Medical Protective in US. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.596550
+date: 2026-04-02T07:03:24.314671
 url: "/cdr-researcher-census/researchers/kuankuan-liu-a5086565/"
 layout: "researcher"
 hiddenInHomeList: true

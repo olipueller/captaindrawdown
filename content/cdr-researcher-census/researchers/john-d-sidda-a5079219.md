@@ -1,7 +1,7 @@
 ---
 title: "John D. Sidda"
 description: "John D. Sidda is a Mid-career Soil Carbon researcher at University of Warwick in GB. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.381413
+date: 2026-04-02T07:03:25.459518
 url: "/cdr-researcher-census/researchers/john-d-sidda-a5079219/"
 layout: "researcher"
 hiddenInHomeList: true

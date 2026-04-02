@@ -1,7 +1,7 @@
 ---
 title: "SeungRan Yoo"
 description: "SeungRan Yoo is a Senior General CDR researcher at Advanced Institute of Convergence Technology in KR. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.572253
+date: 2026-04-02T07:03:25.763893
 url: "/cdr-researcher-census/researchers/seungran-yoo-a5109896/"
 layout: "researcher"
 hiddenInHomeList: true

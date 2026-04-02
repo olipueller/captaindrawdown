@@ -1,7 +1,7 @@
 ---
 title: "Susana C. Ribeiro"
 description: "Susana C. Ribeiro is a Mid-career Ocean CDR researcher at University of the Azores in PT. With 33 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.348179
+date: 2026-04-02T07:03:23.974095
 url: "/cdr-researcher-census/researchers/susana-c-ribeiro-a5058708/"
 layout: "researcher"
 hiddenInHomeList: true

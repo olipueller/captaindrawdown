@@ -1,7 +1,7 @@
 ---
 title: "Marianna Olivadese"
 description: "Marianna Olivadese is a Mid-career Soil Carbon researcher. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.003873
+date: 2026-04-02T07:03:26.366684
 url: "/cdr-researcher-census/researchers/marianna-olivadese-a5031800/"
 layout: "researcher"
 hiddenInHomeList: true

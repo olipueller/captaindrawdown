@@ -1,7 +1,7 @@
 ---
 title: "Hina Fatimah"
 description: "Hina Fatimah is a Senior General CDR researcher at Allama Iqbal Open University in PK. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.687088
+date: 2026-04-02T07:03:25.939265
 url: "/cdr-researcher-census/researchers/hina-fatimah-a5014495/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Eugene J. Kim"
 description: "Eugene J. Kim is a Senior General CDR researcher at Rutgers, The State University of New Jersey in US. With 21 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.214624
+date: 2026-04-02T07:03:23.795940
 url: "/cdr-researcher-census/researchers/eugene-j-kim-a5049764/"
 layout: "researcher"
 hiddenInHomeList: true

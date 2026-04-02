@@ -1,7 +1,7 @@
 ---
 title: "Domna Tzemi"
 description: "Domna Tzemi is a Mid-career Soil Carbon researcher at Natural Resources Institute Finland in FI. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.207837
+date: 2026-04-02T07:03:26.690290
 url: "/cdr-researcher-census/researchers/domna-tzemi-a5056188/"
 layout: "researcher"
 hiddenInHomeList: true

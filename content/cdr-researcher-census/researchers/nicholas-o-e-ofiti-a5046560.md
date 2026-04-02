@@ -1,7 +1,7 @@
 ---
 title: "Nicholas O. E. Ofiti"
 description: "Nicholas O. E. Ofiti is a Mid-career Soil Carbon researcher at University of Bern in CH. With 43 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.739731
+date: 2026-04-02T07:03:24.524514
 url: "/cdr-researcher-census/researchers/nicholas-o-e-ofiti-a5046560/"
 layout: "researcher"
 hiddenInHomeList: true

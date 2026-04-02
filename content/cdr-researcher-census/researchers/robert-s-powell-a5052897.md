@@ -1,7 +1,7 @@
 ---
 title: "Robert S. Powell"
 description: "Robert S. Powell is a Senior Soil Carbon researcher at University of Cambridge in GB. With 12 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.389944
+date: 2026-04-02T07:03:26.952679
 url: "/cdr-researcher-census/researchers/robert-s-powell-a5052897/"
 layout: "researcher"
 hiddenInHomeList: true

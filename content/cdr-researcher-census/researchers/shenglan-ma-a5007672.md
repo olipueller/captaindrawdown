@@ -1,7 +1,7 @@
 ---
 title: "Shenglan Ma"
 description: "Shenglan Ma is a Senior Soil Carbon researcher at University of Vienna in AT. With 57 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.670121
+date: 2026-04-02T07:03:24.425868
 url: "/cdr-researcher-census/researchers/shenglan-ma-a5007672/"
 layout: "researcher"
 hiddenInHomeList: true

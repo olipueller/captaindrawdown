@@ -1,7 +1,7 @@
 ---
 title: "Eleftheria Dalmaris"
 description: "Eleftheria Dalmaris is a Mid-career General CDR researcher at Aristotle University of Thessaloniki in GR. With 11 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.411297
+date: 2026-04-02T07:03:25.505608
 url: "/cdr-researcher-census/researchers/eleftheria-dalmaris-a5016573/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Mohd Hardyianto Vai Bahrun"
 description: "Mohd Hardyianto Vai Bahrun is a Mid-career General CDR researcher at Universiti of Malaysia Sabah in MY. With 27 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.944460
+date: 2026-04-02T07:03:26.284405
 url: "/cdr-researcher-census/researchers/mohd-hardyianto-vai-bahrun-a5078656/"
 layout: "researcher"
 hiddenInHomeList: true

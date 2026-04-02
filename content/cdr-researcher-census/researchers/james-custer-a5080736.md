@@ -1,7 +1,7 @@
 ---
 title: "James Custer"
 description: "James Custer is a Mid-career DAC researcher at 8 Rivers Capital (United States) in US. With 37 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.082758
+date: 2026-04-02T07:03:25.029373
 url: "/cdr-researcher-census/researchers/james-custer-a5080736/"
 layout: "researcher"
 hiddenInHomeList: true

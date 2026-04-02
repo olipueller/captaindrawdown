@@ -1,7 +1,7 @@
 ---
 title: "Ajith Sudhakaran"
 description: "Ajith Sudhakaran is a Senior Soil Carbon researcher. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.871622
+date: 2026-04-02T07:03:24.705873
 url: "/cdr-researcher-census/researchers/ajith-sudhakaran-a5023206/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yingjie Yan"
 description: "Yingjie Yan is a Senior Soil Carbon researcher at Beijing Forestry University in CN. With 31 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.731749
+date: 2026-04-02T07:03:24.511854
 url: "/cdr-researcher-census/researchers/yingjie-yan-a5019381/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Joachim Block"
 description: "Joachim Block is a Senior carbon dioxide removal researcher at Institute of Forest Ecology of the Slovak Academy of Sciences in SK. With 6 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.645521
+date: 2026-04-02T07:03:24.384072
 url: "/cdr-researcher-census/researchers/joachim-block-a5112466/"
 layout: "researcher"
 hiddenInHomeList: true

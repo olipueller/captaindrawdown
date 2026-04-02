@@ -1,7 +1,7 @@
 ---
 title: "Jin Woo Kang"
 description: "Jin Woo Kang is a Senior Ocean CDR researcher at Korea Fisheries Resources Agency in KR. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.780331
+date: 2026-04-02T07:03:26.043954
 url: "/cdr-researcher-census/researchers/jin-woo-kang-a5101432/"
 layout: "researcher"
 hiddenInHomeList: true

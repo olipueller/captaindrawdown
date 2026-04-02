@@ -1,7 +1,7 @@
 ---
 title: "Hannah C. Turner"
 description: "Hannah C. Turner is a Mid-career General CDR researcher at University of Vermont in US. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.988563
+date: 2026-04-02T07:03:26.343831
 url: "/cdr-researcher-census/researchers/hannah-c-turner-a5068719/"
 layout: "researcher"
 hiddenInHomeList: true

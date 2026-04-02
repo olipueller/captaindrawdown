@@ -1,7 +1,7 @@
 ---
 title: "Punabati Heisnam"
 description: "Punabati Heisnam is a Mid-career carbon dioxide removal researcher at Central Agricultural University in IN. With 21 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.399855
+date: 2026-04-02T07:03:25.487986
 url: "/cdr-researcher-census/researchers/punabati-heisnam-a5089466/"
 layout: "researcher"
 hiddenInHomeList: true

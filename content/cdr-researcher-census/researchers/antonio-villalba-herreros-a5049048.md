@@ -1,7 +1,7 @@
 ---
 title: "Antonio Villalba-Herreros"
 description: "Antonio Villalba-Herreros is a Mid-career General CDR researcher at Universidad Politécnica de Madrid in ES. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.882888
+date: 2026-04-02T07:03:26.190659
 url: "/cdr-researcher-census/researchers/antonio-villalba-herreros-a5049048/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Magdalena Banach-Szott"
 description: "Magdalena Banach-Szott is a Senior Soil Carbon researcher at Bydgoszcz University of Science and Technology in PL. With 52 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.781502
+date: 2026-04-02T07:03:24.584305
 url: "/cdr-researcher-census/researchers/magdalena-banach-szott-a5019411/"
 layout: "researcher"
 hiddenInHomeList: true

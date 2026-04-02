@@ -1,7 +1,7 @@
 ---
 title: "Marlene C. Ndoun"
 description: "Marlene C. Ndoun is a Mid-career Biochar researcher at Pennsylvania State University in US. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.983351
+date: 2026-04-02T07:03:26.334841
 url: "/cdr-researcher-census/researchers/marlene-c-ndoun-a5030624/"
 layout: "researcher"
 hiddenInHomeList: true

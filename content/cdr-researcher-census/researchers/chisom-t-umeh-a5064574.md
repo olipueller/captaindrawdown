@@ -1,7 +1,7 @@
 ---
 title: "Chisom T. Umeh"
 description: "Chisom T. Umeh is a Mid-career carbon dioxide removal researcher at Nnamdi Azikiwe University in NG. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.261498
+date: 2026-04-02T07:03:25.288535
 url: "/cdr-researcher-census/researchers/chisom-t-umeh-a5064574/"
 layout: "researcher"
 hiddenInHomeList: true

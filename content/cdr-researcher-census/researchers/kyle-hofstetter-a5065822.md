@@ -1,7 +1,7 @@
 ---
 title: "Kyle Hofstetter"
 description: "Kyle Hofstetter is a Mid-career DAC researcher at BP (Canada) in CA. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.553421
+date: 2026-04-02T07:03:24.252804
 url: "/cdr-researcher-census/researchers/kyle-hofstetter-a5065822/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Majid Ramezani Mehrian"
 description: "Majid Ramezani Mehrian is a Mid-career Soil Carbon researcher at Institute for Research in Fundamental Sciences in IR. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.920719
+date: 2026-04-02T07:03:26.248180
 url: "/cdr-researcher-census/researchers/majid-ramezani-mehrian-a5000513/"
 layout: "researcher"
 hiddenInHomeList: true

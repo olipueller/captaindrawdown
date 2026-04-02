@@ -1,7 +1,7 @@
 ---
 title: "Yunjie Wen"
 description: "Yunjie Wen is a Mid-career Soil Carbon researcher at Shanxi Agricultural University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.302920
+date: 2026-04-02T07:03:26.831072
 url: "/cdr-researcher-census/researchers/yunjie-wen-a5037436/"
 layout: "researcher"
 hiddenInHomeList: true

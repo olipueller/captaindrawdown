@@ -1,7 +1,7 @@
 ---
 title: "Chameli Saha"
 description: "Chameli Saha is a Mid-career Soil Carbon researcher at Khulna University in BD. With 23 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.556788
+date: 2026-04-02T07:03:25.739869
 url: "/cdr-researcher-census/researchers/chameli-saha-a5085390/"
 layout: "researcher"
 hiddenInHomeList: true

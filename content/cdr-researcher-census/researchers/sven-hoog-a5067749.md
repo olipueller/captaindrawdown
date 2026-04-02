@@ -1,7 +1,7 @@
 ---
 title: "Sven Hoog"
 description: "Sven Hoog is a Senior General CDR researcher at Fichtner (Germany) in DE. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.394710
+date: 2026-04-02T07:03:26.959346
 url: "/cdr-researcher-census/researchers/sven-hoog-a5067749/"
 layout: "researcher"
 hiddenInHomeList: true

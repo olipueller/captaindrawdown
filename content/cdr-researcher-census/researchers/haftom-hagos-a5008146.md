@@ -1,7 +1,7 @@
 ---
 title: "Haftom Hagos"
 description: "Haftom Hagos is a Mid-career Soil Carbon researcher at Mekelle University in ET. With 21 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.680357
+date: 2026-04-02T07:03:25.929752
 url: "/cdr-researcher-census/researchers/haftom-hagos-a5008146/"
 layout: "researcher"
 hiddenInHomeList: true

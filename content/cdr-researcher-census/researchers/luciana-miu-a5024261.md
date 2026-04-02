@@ -1,7 +1,7 @@
 ---
 title: "Luciana Miu"
 description: "Luciana Miu is a Mid-career BECCS researcher. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.435317
+date: 2026-04-02T07:03:27.019263
 url: "/cdr-researcher-census/researchers/luciana-miu-a5024261/"
 layout: "researcher"
 hiddenInHomeList: true

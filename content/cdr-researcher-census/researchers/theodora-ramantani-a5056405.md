@@ -1,7 +1,7 @@
 ---
 title: "Theodora Ramantani"
 description: "Theodora Ramantani is a Mid-career carbon dioxide removal researcher at University of Patras in GR. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.870016
+date: 2026-04-02T07:03:26.172456
 url: "/cdr-researcher-census/researchers/theodora-ramantani-a5056405/"
 layout: "researcher"
 hiddenInHomeList: true

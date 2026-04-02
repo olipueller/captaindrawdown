@@ -1,7 +1,7 @@
 ---
 title: "Pierre Taillardat"
 description: "Pierre Taillardat is a Senior Soil Carbon researcher at Nanyang Technological University in SG. With 69 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.259052
+date: 2026-04-02T07:03:23.852172
 url: "/cdr-researcher-census/researchers/pierre-taillardat-a5001956/"
 layout: "researcher"
 hiddenInHomeList: true

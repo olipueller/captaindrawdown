@@ -1,7 +1,7 @@
 ---
 title: "Curran Crawford"
 description: "Curran Crawford is a Senior General CDR researcher at University of Victoria in CA. With 221 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.127271
+date: 2026-04-02T07:03:23.679638
 url: "/cdr-researcher-census/researchers/curran-crawford-a5010570/"
 layout: "researcher"
 hiddenInHomeList: true

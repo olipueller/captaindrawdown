@@ -1,7 +1,7 @@
 ---
 title: "Sandra Beauchet"
 description: "Sandra Beauchet is a Mid-career BECCS researcher at IFP Énergies nouvelles in FR. With 23 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.379256
+date: 2026-04-02T07:03:25.456531
 url: "/cdr-researcher-census/researchers/sandra-beauchet-a5031297/"
 layout: "researcher"
 hiddenInHomeList: true

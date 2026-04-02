@@ -1,7 +1,7 @@
 ---
 title: "Chidananda Nagamangala Kanchiswamy"
 description: "Chidananda Nagamangala Kanchiswamy is a Senior Soil Carbon researcher at Fondazione Edmund Mach in IT. With 19 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.230905
+date: 2026-04-02T07:03:23.814823
 url: "/cdr-researcher-census/researchers/chidananda-nagamangala-kanchiswamy-a5051218/"
 layout: "researcher"
 hiddenInHomeList: true

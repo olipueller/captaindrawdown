@@ -1,7 +1,7 @@
 ---
 title: "Yiying Wang"
 description: "Yiying Wang is a Mid-career Biochar researcher at Hebei University of Economics and Business in CN. With 50 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.703770
+date: 2026-04-02T07:03:24.471919
 url: "/cdr-researcher-census/researchers/yiying-wang-a5100663/"
 layout: "researcher"
 hiddenInHomeList: true

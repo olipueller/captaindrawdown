@@ -1,7 +1,7 @@
 ---
 title: "Julia Fohrafellner"
 description: "Julia Fohrafellner is a Mid-career Soil Carbon researcher at Austrian Agency for Health and Food Safety in AT. With 41 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.751093
+date: 2026-04-02T07:03:25.999838
 url: "/cdr-researcher-census/researchers/julia-fohrafellner-a5072864/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Amir Ghanbari"
 description: "Amir Ghanbari is a Senior carbon dioxide removal researcher in GB. With 20 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.283324
+date: 2026-04-02T07:03:23.887960
 url: "/cdr-researcher-census/researchers/amir-ghanbari-a5101177/"
 layout: "researcher"
 hiddenInHomeList: true

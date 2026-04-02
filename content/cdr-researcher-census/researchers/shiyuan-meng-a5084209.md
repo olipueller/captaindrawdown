@@ -1,7 +1,7 @@
 ---
 title: "Shiyuan Meng"
 description: "Shiyuan Meng is a Mid-career Soil Carbon researcher. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.140704
+date: 2026-04-02T07:03:26.569013
 url: "/cdr-researcher-census/researchers/shiyuan-meng-a5084209/"
 layout: "researcher"
 hiddenInHomeList: true

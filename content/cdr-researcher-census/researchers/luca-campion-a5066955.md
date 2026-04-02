@@ -1,7 +1,7 @@
 ---
 title: "Luca Campion"
 description: "Luca Campion is a Mid-career Biochar researcher at Hasselt University in BE. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.877734
+date: 2026-04-02T07:03:24.714842
 url: "/cdr-researcher-census/researchers/luca-campion-a5066955/"
 layout: "researcher"
 hiddenInHomeList: true

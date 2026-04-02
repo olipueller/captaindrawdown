@@ -1,7 +1,7 @@
 ---
 title: "Dolma Michellod"
 description: "Dolma Michellod is a Mid-career Soil Carbon researcher at Max Planck Institute for Marine Microbiology in DE. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.902210
+date: 2026-04-02T07:03:24.752704
 url: "/cdr-researcher-census/researchers/dolma-michellod-a5067960/"
 layout: "researcher"
 hiddenInHomeList: true

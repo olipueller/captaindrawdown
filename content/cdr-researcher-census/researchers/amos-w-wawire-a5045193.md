@@ -1,7 +1,7 @@
 ---
 title: "Amos W. Wawire"
 description: "Amos W. Wawire is a Mid-career Soil Carbon researcher at Karatina University in KE. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.149265
+date: 2026-04-02T07:03:26.584263
 url: "/cdr-researcher-census/researchers/amos-w-wawire-a5045193/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "C. Paramio"
 description: "C. Paramio is an Early-career carbon dioxide removal researcher at Universidad Autónoma de Madrid in ES. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.117226
+date: 2026-04-02T07:03:26.531020
 url: "/cdr-researcher-census/researchers/c-paramio-a5084009/"
 layout: "researcher"
 hiddenInHomeList: true

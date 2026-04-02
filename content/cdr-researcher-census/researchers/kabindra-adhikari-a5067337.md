@@ -1,7 +1,7 @@
 ---
 title: "Kabindra Adhikari"
 description: "Kabindra Adhikari is a Senior Soil Carbon researcher at Texas A&M AgriLife Research in US. With 112 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.151430
+date: 2026-04-02T07:03:23.709945
 url: "/cdr-researcher-census/researchers/kabindra-adhikari-a5067337/"
 layout: "researcher"
 hiddenInHomeList: true

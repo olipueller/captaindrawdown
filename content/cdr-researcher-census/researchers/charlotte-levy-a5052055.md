@@ -1,7 +1,7 @@
 ---
 title: "Charlotte Levy"
 description: "Charlotte Levy is a Mid-career General CDR researcher at Carbon180 in US. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.746331
+date: 2026-04-02T07:03:25.993689
 url: "/cdr-researcher-census/researchers/charlotte-levy-a5052055/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Subhajit Bhattacharjee"
 description: "Subhajit Bhattacharjee is a Senior General CDR researcher at Royal Dutch Shell in NL. With 39 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.377926
+date: 2026-04-02T07:03:24.014619
 url: "/cdr-researcher-census/researchers/subhajit-bhattacharjee-a5006546/"
 layout: "researcher"
 hiddenInHomeList: true

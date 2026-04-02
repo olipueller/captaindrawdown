@@ -1,7 +1,7 @@
 ---
 title: "Jeffrey D. Einkauf"
 description: "Jeffrey D. Einkauf is a Mid-career DAC researcher at Oak Ridge National Laboratory in US. With 105 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.842329
+date: 2026-04-02T07:03:24.665001
 url: "/cdr-researcher-census/researchers/jeffrey-d-einkauf-a5080750/"
 layout: "researcher"
 hiddenInHomeList: true

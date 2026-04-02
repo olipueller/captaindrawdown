@@ -1,7 +1,7 @@
 ---
 title: "Mehar U Nisa"
 description: "Mehar U Nisa is a Mid-career General CDR researcher at Indian Institute of Technology Roorkee in IN. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.333645
+date: 2026-04-02T07:03:25.388008
 url: "/cdr-researcher-census/researchers/mehar-u-nisa-a5101658/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jiubo Pei"
 description: "Jiubo Pei is a Mid-career Soil Carbon researcher at Shenyang Agricultural University in CN. With 33 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.557223
+date: 2026-04-02T07:03:24.258375
 url: "/cdr-researcher-census/researchers/jiubo-pei-a5019314/"
 layout: "researcher"
 hiddenInHomeList: true

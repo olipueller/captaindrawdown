@@ -1,7 +1,7 @@
 ---
 title: "William N. Mmari"
 description: "William N. Mmari is a Mid-career Soil Carbon researcher at Mikocheni Agricultural Research Institute in TZ. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.138822
+date: 2026-04-02T07:03:26.566103
 url: "/cdr-researcher-census/researchers/william-n-mmari-a5039554/"
 layout: "researcher"
 hiddenInHomeList: true

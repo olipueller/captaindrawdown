@@ -1,7 +1,7 @@
 ---
 title: "Wim Carton"
 description: "Wim Carton is a Senior General CDR researcher at Lund University Samhällsvetenskapliga fakulteten in SE. With 59 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.245987
+date: 2026-04-02T07:03:23.834851
 url: "/cdr-researcher-census/researchers/wim-carton-a5059900/"
 layout: "researcher"
 hiddenInHomeList: true

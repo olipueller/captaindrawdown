@@ -1,7 +1,7 @@
 ---
 title: "Li‐Qing Jiang"
 description: "Li‐Qing Jiang is a Senior Ocean CDR researcher at Scripps Institution of Oceanography in US. With 68 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.202024
+date: 2026-04-02T07:03:23.780365
 url: "/cdr-researcher-census/researchers/liqing-jiang-a5080947/"
 layout: "researcher"
 hiddenInHomeList: true

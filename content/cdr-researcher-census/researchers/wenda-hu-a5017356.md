@@ -1,7 +1,7 @@
 ---
 title: "Wenda Hu"
 description: "Wenda Hu is a Mid-career carbon dioxide removal researcher at Washington State University in US. With 54 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.507770
+date: 2026-04-02T07:03:24.182581
 url: "/cdr-researcher-census/researchers/wenda-hu-a5017356/"
 layout: "researcher"
 hiddenInHomeList: true

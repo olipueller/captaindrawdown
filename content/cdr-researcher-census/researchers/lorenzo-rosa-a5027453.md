@@ -1,7 +1,7 @@
 ---
 title: "Lorenzo Rosa"
 description: "Lorenzo Rosa is a Senior General CDR researcher at Carnegie Institution for Science in US. With 171 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.110566
+date: 2026-04-02T07:03:23.660314
 url: "/cdr-researcher-census/researchers/lorenzo-rosa-a5027453/"
 layout: "researcher"
 hiddenInHomeList: true

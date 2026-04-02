@@ -1,7 +1,7 @@
 ---
 title: "Ruoya Ma"
 description: "Ruoya Ma is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.891732
+date: 2026-04-02T07:03:24.737036
 url: "/cdr-researcher-census/researchers/ruoya-ma-a5022366/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Anawat Pinisakul"
 description: "Anawat Pinisakul is a Senior Biochar researcher at King Mongkut's University of Technology Thonburi in TH. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.821795
+date: 2026-04-02T07:03:26.104367
 url: "/cdr-researcher-census/researchers/anawat-pinisakul-a5058863/"
 layout: "researcher"
 hiddenInHomeList: true

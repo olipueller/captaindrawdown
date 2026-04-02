@@ -1,7 +1,7 @@
 ---
 title: "G. Castelli"
 description: "G. Castelli is a Senior carbon dioxide removal researcher at Institute of Structure of Matter in IT. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.914927
+date: 2026-04-02T07:03:24.775189
 url: "/cdr-researcher-census/researchers/g-castelli-a5105985/"
 layout: "researcher"
 hiddenInHomeList: true

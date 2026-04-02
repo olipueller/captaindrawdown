@@ -1,7 +1,7 @@
 ---
 title: "Bin Yang"
 description: "Bin Yang is a Senior Soil Carbon researcher at Agriculture and Forestry University in NP. With 33 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.593352
+date: 2026-04-02T07:03:24.310382
 url: "/cdr-researcher-census/researchers/bin-yang-a5080869/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Christopher A. Walter"
 description: "Christopher A. Walter is a Mid-career Soil Carbon researcher at University of Minnesota in US. With 25 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.562227
+date: 2026-04-02T07:03:24.265798
 url: "/cdr-researcher-census/researchers/christopher-a-walter-a5048552/"
 layout: "researcher"
 hiddenInHomeList: true

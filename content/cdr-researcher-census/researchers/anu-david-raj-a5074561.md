@@ -1,7 +1,7 @@
 ---
 title: "Anu David Raj"
 description: "Anu David Raj is a Mid-career Soil Carbon researcher at Forest Research Institute in IN. With 40 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.226391
+date: 2026-04-02T07:03:25.242763
 url: "/cdr-researcher-census/researchers/anu-david-raj-a5074561/"
 layout: "researcher"
 hiddenInHomeList: true

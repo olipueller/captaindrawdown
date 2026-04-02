@@ -1,7 +1,7 @@
 ---
 title: "Lukas Wehrle"
 description: "Lukas Wehrle is a Mid-career DAC researcher at Karlsruhe Institute of Technology in DE. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.219991
+date: 2026-04-02T07:03:25.231271
 url: "/cdr-researcher-census/researchers/lukas-wehrle-a5017928/"
 layout: "researcher"
 hiddenInHomeList: true

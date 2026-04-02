@@ -1,7 +1,7 @@
 ---
 title: "Xukun Su"
 description: "Xukun Su is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 69 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.272115
+date: 2026-04-02T07:03:23.871728
 url: "/cdr-researcher-census/researchers/xukun-su-a5022222/"
 layout: "researcher"
 hiddenInHomeList: true

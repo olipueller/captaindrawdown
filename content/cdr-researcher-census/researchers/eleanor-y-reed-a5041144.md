@@ -1,7 +1,7 @@
 ---
 title: "Eleanor Y. Reed"
 description: "Eleanor Y. Reed is a Mid-career Soil Carbon researcher at Natural England in GB. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.162014
+date: 2026-04-02T07:03:25.145156
 url: "/cdr-researcher-census/researchers/eleanor-y-reed-a5041144/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yiwen He"
 description: "Yiwen He is a Mid-career carbon dioxide removal researcher at Chongqing University of Science and Technology in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.032978
+date: 2026-04-02T07:03:26.409561
 url: "/cdr-researcher-census/researchers/yiwen-he-a5062842/"
 layout: "researcher"
 hiddenInHomeList: true

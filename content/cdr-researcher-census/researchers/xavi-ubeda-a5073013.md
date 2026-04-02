@@ -1,7 +1,7 @@
 ---
 title: "Xavi Úbeda"
 description: "Xavi Úbeda is an Early-career General CDR researcher. With 8 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.018621
+date: 2026-04-02T07:03:26.387786
 url: "/cdr-researcher-census/researchers/xavi-ubeda-a5073013/"
 layout: "researcher"
 hiddenInHomeList: true

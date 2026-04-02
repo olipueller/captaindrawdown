@@ -1,7 +1,7 @@
 ---
 title: "Kenneth Ifeanyi Ibekwe"
 description: "Kenneth Ifeanyi Ibekwe is a Mid-career General CDR researcher. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.891342
+date: 2026-04-02T07:03:24.736497
 url: "/cdr-researcher-census/researchers/kenneth-ifeanyi-ibekwe-a5093727/"
 layout: "researcher"
 hiddenInHomeList: true

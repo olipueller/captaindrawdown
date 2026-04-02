@@ -1,7 +1,7 @@
 ---
 title: "Eltson Eteckji Fonkeng"
 description: "Eltson Eteckji Fonkeng is a Mid-career Soil Carbon researcher at Centre de Coopération Internationale en Recherche Agronomique pour le Développement in FR. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.429899
+date: 2026-04-02T07:03:27.011504
 url: "/cdr-researcher-census/researchers/eltson-eteckji-fonkeng-a5004658/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ján Ferenčík"
 description: "Ján Ferenčík is a Mid-career General CDR researcher. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.875921
+date: 2026-04-02T07:03:24.712185
 url: "/cdr-researcher-census/researchers/jan-ferencik-a5056910/"
 layout: "researcher"
 hiddenInHomeList: true

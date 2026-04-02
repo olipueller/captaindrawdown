@@ -1,7 +1,7 @@
 ---
 title: "Tajamul Islam Shah"
 description: "Tajamul Islam Shah is a Mid-career Soil Carbon researcher at Sher-e-Kashmir University of Agricultural Sciences and Technology of Kashmir in IN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.806180
+date: 2026-04-02T07:03:26.081647
 url: "/cdr-researcher-census/researchers/tajamul-islam-shah-a5018829/"
 layout: "researcher"
 hiddenInHomeList: true

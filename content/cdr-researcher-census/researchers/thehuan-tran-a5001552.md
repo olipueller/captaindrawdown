@@ -1,7 +1,7 @@
 ---
 title: "The‐Huan Tran"
 description: "The‐Huan Tran is a Mid-career Biochar researcher at National Economics University in VN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.971313
+date: 2026-04-02T07:03:26.322888
 url: "/cdr-researcher-census/researchers/thehuan-tran-a5001552/"
 layout: "researcher"
 hiddenInHomeList: true

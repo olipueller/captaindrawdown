@@ -1,7 +1,7 @@
 ---
 title: "Sarah K. Mack"
 description: "Sarah K. Mack is a Senior General CDR researcher at University of Stuttgart in DE. With 23 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.967947
+date: 2026-04-02T07:03:24.859493
 url: "/cdr-researcher-census/researchers/sarah-k-mack-a5055433/"
 layout: "researcher"
 hiddenInHomeList: true

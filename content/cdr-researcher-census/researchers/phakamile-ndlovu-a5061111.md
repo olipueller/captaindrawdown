@@ -1,7 +1,7 @@
 ---
 title: "Phakamile Ndlovu"
 description: "Phakamile Ndlovu is a Mid-career DAC researcher. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.615511
+date: 2026-04-02T07:03:25.829171
 url: "/cdr-researcher-census/researchers/phakamile-ndlovu-a5061111/"
 layout: "researcher"
 hiddenInHomeList: true

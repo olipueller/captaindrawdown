@@ -1,7 +1,7 @@
 ---
 title: "James G. Longstaffe"
 description: "James G. Longstaffe is a Senior Soil Carbon researcher at University of Guelph in CA. With 43 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.689699
+date: 2026-04-02T07:03:24.451707
 url: "/cdr-researcher-census/researchers/james-g-longstaffe-a5056337/"
 layout: "researcher"
 hiddenInHomeList: true

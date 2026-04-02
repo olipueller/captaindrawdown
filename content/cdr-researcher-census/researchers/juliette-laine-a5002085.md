@@ -1,7 +1,7 @@
 ---
 title: "Juliette Lainé"
 description: "Juliette Lainé is a Mid-career carbon dioxide removal researcher at ArcelorMittal (France) in FR. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.076237
+date: 2026-04-02T07:03:25.021205
 url: "/cdr-researcher-census/researchers/juliette-laine-a5002085/"
 layout: "researcher"
 hiddenInHomeList: true

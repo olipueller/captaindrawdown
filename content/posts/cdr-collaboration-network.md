@@ -74,11 +74,11 @@ The researchers bridging all seven methods remain sparse but meaningful. From th
 
 | Researcher | Bridge Score | Degree | h-index | Home Pathway | Institution |
 |---|---|---|---|---|---|
-| [Yakov Kuzyakov](/cdr-researcher-census/researchers/yakov-kuzyakov-a5062508940/) | 4 | 505 | 142 | Soil Carbon | Georg-August-Universität Göttingen |
-| [Josep Peñuelas](/cdr-researcher-census/researchers/josep-penuela-a5016893899/) | 6 | 269 | 183 | Soil Carbon | CSIC |
-| [Pete Smith](/cdr-researcher-census/researchers/pete-smith-a5028843362/) | 5 | 203 | 169 | Soil Carbon | ClimateXChange Scotland |
-| [Noah J. Planavsky](/cdr-researcher-census/researchers/noah-planavsky-a5031830595/) | 6 | 142 | 82 | Enhanced Weathering | Planetary Science Institute |
-| [Maurício Cherubin](/cdr-researcher-census/researchers/mauricio-cherubin-a5047372966/) | 4 | 151 | 50 | Soil Carbon | USP |
+| [Yakov Kuzyakov](/cdr-researcher-census/researchers/yakov-kuzyakov-a5062508/) | 4 | 505 | 142 | Soil Carbon | Georg-August-Universität Göttingen |
+| Josep Peñuelas | 6 | 269 | 183 | Soil Carbon | CSIC |
+| [Pete Smith](/cdr-researcher-census/researchers/pete-smith-a5028843/) | 5 | 203 | 169 | Soil Carbon | ClimateXChange Scotland |
+| [Noah J. Planavsky](/cdr-researcher-census/researchers/noah-j-planavsky-a5031830/) | 6 | 142 | 82 | Enhanced Weathering | Planetary Science Institute |
+| [Maurício Cherubin](/cdr-researcher-census/researchers/mauricio-roberto-cherubin-a5047372/) | 4 | 151 | 50 | Soil Carbon | USP |
 
 A bridge score of 4-6 means their co-authors span multiple CDR pathways. Yakov Kuzyakov, despite enormous soil carbon focus (community 1 is 95% soil carbon), still reaches into four pathways through his co-authorship network. Josep Peñuelas and Noah Planavsky bridge six methods each. These researchers are the connective tissue of the field.
 

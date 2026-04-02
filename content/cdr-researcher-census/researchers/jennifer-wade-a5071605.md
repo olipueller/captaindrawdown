@@ -1,7 +1,7 @@
 ---
 title: "Jennifer Wade"
 description: "Jennifer Wade is a Senior DAC researcher at Northern Arizona University in US. With 25 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.134578
+date: 2026-04-02T07:03:25.105904
 url: "/cdr-researcher-census/researchers/jennifer-wade-a5071605/"
 layout: "researcher"
 hiddenInHomeList: true

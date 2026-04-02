@@ -1,7 +1,7 @@
 ---
 title: "Chang Gong Meng"
 description: "Chang Gong Meng is a Senior carbon dioxide removal researcher at Wenzhou University in CN. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.101123
+date: 2026-04-02T07:03:25.056611
 url: "/cdr-researcher-census/researchers/chang-gong-meng-a5021737/"
 layout: "researcher"
 hiddenInHomeList: true

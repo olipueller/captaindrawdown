@@ -1,7 +1,7 @@
 ---
 title: "Allison M. White"
 description: "Allison M. White is a Mid-career General CDR researcher at The University of Texas Rio Grande Valley in US. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.763875
+date: 2026-04-02T07:03:24.560206
 url: "/cdr-researcher-census/researchers/allison-m-white-a5058414/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Lambiénou Yé"
 description: "Lambiénou Yé is a Mid-career Biochar researcher in GB. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.893829
+date: 2026-04-02T07:03:24.740626
 url: "/cdr-researcher-census/researchers/lambienou-ye-a5003734/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Zdeňka Kwoczynski"
 description: "Zdeňka Kwoczynski is a Mid-career carbon dioxide removal researcher at Jan Evangelista Purkyně University in Ústí nad Labem in CZ. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.575139
+date: 2026-04-02T07:03:25.767976
 url: "/cdr-researcher-census/researchers/zdenka-kwoczynski-a5005034/"
 layout: "researcher"
 hiddenInHomeList: true

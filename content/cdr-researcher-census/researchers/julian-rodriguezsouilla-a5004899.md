@@ -1,7 +1,7 @@
 ---
 title: "Julián Rodríguez‐Souilla"
 description: "Julián Rodríguez‐Souilla is a Mid-career Soil Carbon researcher at Consejo Nacional de Investigaciones Científicas y Técnicas in AR. With 31 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.115217
+date: 2026-04-02T07:03:26.528055
 url: "/cdr-researcher-census/researchers/julian-rodriguezsouilla-a5004899/"
 layout: "researcher"
 hiddenInHomeList: true

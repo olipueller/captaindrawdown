@@ -1,7 +1,7 @@
 ---
 title: "Cornelia Rosu"
 description: "Cornelia Rosu is a Senior DAC researcher at Georgia Institute of Technology in US. With 35 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.558873
+date: 2026-04-02T07:03:24.260808
 url: "/cdr-researcher-census/researchers/cornelia-rosu-a5018108/"
 layout: "researcher"
 hiddenInHomeList: true

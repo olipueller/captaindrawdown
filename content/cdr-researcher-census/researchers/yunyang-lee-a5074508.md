@@ -1,7 +1,7 @@
 ---
 title: "Yun‐Yang Lee"
 description: "Yun‐Yang Lee is a Senior carbon dioxide removal researcher at National Energy Technology Laboratory in US. With 25 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.437773
+date: 2026-04-02T07:03:24.087328
 url: "/cdr-researcher-census/researchers/yunyang-lee-a5074508/"
 layout: "researcher"
 hiddenInHomeList: true

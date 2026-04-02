@@ -1,7 +1,7 @@
 ---
 title: "R. R. Sarker"
 description: "R. R. Sarker is a Senior Soil Carbon researcher. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.404379
+date: 2026-04-02T07:03:26.972077
 url: "/cdr-researcher-census/researchers/r-r-sarker-a5101857/"
 layout: "researcher"
 hiddenInHomeList: true

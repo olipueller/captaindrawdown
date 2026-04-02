@@ -1,7 +1,7 @@
 ---
 title: "Degefie Tibebe"
 description: "Degefie Tibebe is a Mid-career General CDR researcher at International Institute of Tropical Agriculture in UG. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.413192
+date: 2026-04-02T07:03:26.984958
 url: "/cdr-researcher-census/researchers/degefie-tibebe-a5079503/"
 layout: "researcher"
 hiddenInHomeList: true

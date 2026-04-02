@@ -1,7 +1,7 @@
 ---
 title: "Suzi Huff Theodoro"
 description: "Suzi Huff Theodoro is a Senior Enhanced Weathering researcher at Universidade de Brasília in BR. With 44 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.711621
+date: 2026-04-02T07:03:24.482081
 url: "/cdr-researcher-census/researchers/suzi-huff-theodoro-a5019884/"
 layout: "researcher"
 hiddenInHomeList: true

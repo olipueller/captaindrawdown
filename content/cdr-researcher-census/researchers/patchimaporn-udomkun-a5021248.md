@@ -1,7 +1,7 @@
 ---
 title: "Patchimaporn Udomkun"
 description: "Patchimaporn Udomkun is a Mid-career Biochar researcher at Chiang Mai University in TH. With 43 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.669893
+date: 2026-04-02T07:03:24.425517
 url: "/cdr-researcher-census/researchers/patchimaporn-udomkun-a5021248/"
 layout: "researcher"
 hiddenInHomeList: true

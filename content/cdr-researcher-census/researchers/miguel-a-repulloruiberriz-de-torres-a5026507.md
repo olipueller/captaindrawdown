@@ -1,7 +1,7 @@
 ---
 title: "Miguel A. Repullo‐Ruibérriz de Torres"
 description: "Miguel A. Repullo‐Ruibérriz de Torres is a Mid-career Soil Carbon researcher at European Steel Association in BE. With 27 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.946635
+date: 2026-04-02T07:03:24.825506
 url: "/cdr-researcher-census/researchers/miguel-a-repulloruiberriz-de-torres-a5026507/"
 layout: "researcher"
 hiddenInHomeList: true

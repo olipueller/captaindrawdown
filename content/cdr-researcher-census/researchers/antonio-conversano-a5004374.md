@@ -1,7 +1,7 @@
 ---
 title: "Antonio Conversano"
 description: "Antonio Conversano is a Mid-career BECCS researcher. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.136382
+date: 2026-04-02T07:03:26.561760
 url: "/cdr-researcher-census/researchers/antonio-conversano-a5004374/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ngoc-Kim-Qui Nguyen"
 description: "Ngoc-Kim-Qui Nguyen is a Mid-career Biochar researcher at Vietnam National University Ho Chi Minh City in VN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.101323
+date: 2026-04-02T07:03:25.056927
 url: "/cdr-researcher-census/researchers/ngoc-kim-qui-nguyen-a5104098/"
 layout: "researcher"
 hiddenInHomeList: true

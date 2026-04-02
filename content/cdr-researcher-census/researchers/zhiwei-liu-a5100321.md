@@ -1,7 +1,7 @@
 ---
 title: "Zhiwei Liu"
 description: "Zhiwei Liu is a Senior Biochar researcher at Sun Yat-sen University in CN. With 107 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.283579
+date: 2026-04-02T07:03:23.888293
 url: "/cdr-researcher-census/researchers/zhiwei-liu-a5100321/"
 layout: "researcher"
 hiddenInHomeList: true

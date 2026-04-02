@@ -1,7 +1,7 @@
 ---
 title: "Mohammed S. Hashim"
 description: "Mohammed S. Hashim is a Mid-career Ocean CDR researcher at University of Southern California in US. With 24 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.486506
+date: 2026-04-02T07:03:25.641605
 url: "/cdr-researcher-census/researchers/mohammed-s-hashim-a5018565/"
 layout: "researcher"
 hiddenInHomeList: true

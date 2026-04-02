@@ -1,7 +1,7 @@
 ---
 title: "Yiming Zhang"
 description: "Yiming Zhang is a Senior carbon dioxide removal researcher at Huazhong University of Science and Technology in CN. With 32 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.838840
+date: 2026-04-02T07:03:24.660046
 url: "/cdr-researcher-census/researchers/yiming-zhang-a5100395/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jannik Giesekam"
 description: "Jannik Giesekam is a Mid-career General CDR researcher at University of Strathclyde in GB. With 20 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.327034
+date: 2026-04-02T07:03:23.945782
 url: "/cdr-researcher-census/researchers/jannik-giesekam-a5007592/"
 layout: "researcher"
 hiddenInHomeList: true

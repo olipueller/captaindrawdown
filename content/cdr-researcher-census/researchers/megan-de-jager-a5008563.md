@@ -1,7 +1,7 @@
 ---
 title: "Megan de Jager"
 description: "Megan de Jager is a Mid-career Biochar researcher at Carl von Ossietzky Universität Oldenburg in DE. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.884299
+date: 2026-04-02T07:03:26.192878
 url: "/cdr-researcher-census/researchers/megan-de-jager-a5008563/"
 layout: "researcher"
 hiddenInHomeList: true

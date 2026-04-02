@@ -1,7 +1,7 @@
 ---
 title: "Wenwen Guo"
 description: "Wenwen Guo is a Mid-career carbon dioxide removal researcher at Tibet University in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.224523
+date: 2026-04-02T07:03:25.239374
 url: "/cdr-researcher-census/researchers/wenwen-guo-a5053257/"
 layout: "researcher"
 hiddenInHomeList: true

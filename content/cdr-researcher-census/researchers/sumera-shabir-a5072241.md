@@ -1,7 +1,7 @@
 ---
 title: "Sumera Shabir"
 description: "Sumera Shabir is a Mid-career Biochar researcher at Pir Mehr Ali Shah Arid Agriculture University in PK. With 16 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.818528
+date: 2026-04-02T07:03:24.632655
 url: "/cdr-researcher-census/researchers/sumera-shabir-a5072241/"
 layout: "researcher"
 hiddenInHomeList: true

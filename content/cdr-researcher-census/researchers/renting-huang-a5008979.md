@@ -1,7 +1,7 @@
 ---
 title: "Renting Huang"
 description: "Renting Huang is a Mid-career Biochar researcher at Guangxi University in CN. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.334854
+date: 2026-04-02T07:03:26.873352
 url: "/cdr-researcher-census/researchers/renting-huang-a5008979/"
 layout: "researcher"
 hiddenInHomeList: true

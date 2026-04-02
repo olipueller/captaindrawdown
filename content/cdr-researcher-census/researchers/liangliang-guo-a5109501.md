@@ -1,7 +1,7 @@
 ---
 title: "Liangliang Guo"
 description: "Liangliang Guo is a Mid-career Soil Carbon researcher at Jiangsu University of Science and Technology in CN. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.819014
+date: 2026-04-02T07:03:24.633448
 url: "/cdr-researcher-census/researchers/liangliang-guo-a5109501/"
 layout: "researcher"
 hiddenInHomeList: true

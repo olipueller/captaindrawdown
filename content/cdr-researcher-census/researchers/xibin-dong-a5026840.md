@@ -1,7 +1,7 @@
 ---
 title: "Xibin Dong"
 description: "Xibin Dong is a Senior Soil Carbon researcher at Northeast Forestry University in CN. With 45 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.054611
+date: 2026-04-02T07:03:26.445080
 url: "/cdr-researcher-census/researchers/xibin-dong-a5026840/"
 layout: "researcher"
 hiddenInHomeList: true

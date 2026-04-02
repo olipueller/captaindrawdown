@@ -1,7 +1,7 @@
 ---
 title: "Jianzhao Wu"
 description: "Jianzhao Wu is a Senior Soil Carbon researcher at Chinese University of Hong Kong in CN. With 63 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.135001
+date: 2026-04-02T07:03:23.688605
 url: "/cdr-researcher-census/researchers/jianzhao-wu-a5046217/"
 layout: "researcher"
 hiddenInHomeList: true

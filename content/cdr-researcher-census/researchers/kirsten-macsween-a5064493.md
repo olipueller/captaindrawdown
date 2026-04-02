@@ -1,7 +1,7 @@
 ---
 title: "Kirsten MacSween"
 description: "Kirsten MacSween is a Senior General CDR researcher at University of Aberdeen in GB. With 8 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.097063
+date: 2026-04-02T07:03:26.502387
 url: "/cdr-researcher-census/researchers/kirsten-macsween-a5064493/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ahmed M. Elberry"
 description: "Ahmed M. Elberry is a Mid-career BECCS researcher at Energy Transitions (United Kingdom) in GB. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.695103
+date: 2026-04-02T07:03:24.458806
 url: "/cdr-researcher-census/researchers/ahmed-m-elberry-a5059213/"
 layout: "researcher"
 hiddenInHomeList: true

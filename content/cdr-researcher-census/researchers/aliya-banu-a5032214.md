@@ -1,7 +1,7 @@
 ---
 title: "Aliya Banu"
 description: "Aliya Banu is a Mid-career DAC researcher at Hamad bin Khalifa University in QA. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.448094
+date: 2026-04-02T07:03:25.557865
 url: "/cdr-researcher-census/researchers/aliya-banu-a5032214/"
 layout: "researcher"
 hiddenInHomeList: true

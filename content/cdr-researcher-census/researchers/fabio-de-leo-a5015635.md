@@ -1,7 +1,7 @@
 ---
 title: "Fabio De Leo"
 description: "Fabio De Leo is a Senior Ocean CDR researcher at University of Victoria in CA. With 26 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.939462
+date: 2026-04-02T07:03:26.277291
 url: "/cdr-researcher-census/researchers/fabio-de-leo-a5015635/"
 layout: "researcher"
 hiddenInHomeList: true

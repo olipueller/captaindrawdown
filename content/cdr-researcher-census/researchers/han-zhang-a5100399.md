@@ -1,7 +1,7 @@
 ---
 title: "Han Zhang"
 description: "Han Zhang is a Senior Soil Carbon researcher at Tianjin Normal University in CN. With 45 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.455784
+date: 2026-04-02T07:03:24.113216
 url: "/cdr-researcher-census/researchers/han-zhang-a5100399/"
 layout: "researcher"
 hiddenInHomeList: true

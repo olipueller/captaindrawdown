@@ -1,7 +1,7 @@
 ---
 title: "Rongjun Bian"
 description: "Rongjun Bian is a Senior Soil Carbon researcher at Nanjing Agricultural University in CN. With 111 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.113973
+date: 2026-04-02T07:03:23.664175
 url: "/cdr-researcher-census/researchers/rongjun-bian-a5072829/"
 layout: "researcher"
 hiddenInHomeList: true

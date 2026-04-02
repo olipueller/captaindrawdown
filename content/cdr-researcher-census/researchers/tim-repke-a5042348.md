@@ -1,7 +1,7 @@
 ---
 title: "Tim Repke"
 description: "Tim Repke is a Mid-career General CDR researcher at Leibniz Association in DE. With 46 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.202652
+date: 2026-04-02T07:03:25.202724
 url: "/cdr-researcher-census/researchers/tim-repke-a5042348/"
 layout: "researcher"
 hiddenInHomeList: true

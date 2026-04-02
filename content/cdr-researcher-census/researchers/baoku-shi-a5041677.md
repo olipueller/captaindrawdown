@@ -1,7 +1,7 @@
 ---
 title: "Baoku Shi"
 description: "Baoku Shi is a Mid-career Soil Carbon researcher at Northeast Normal University in CN. With 34 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.521386
+date: 2026-04-02T07:03:24.201757
 url: "/cdr-researcher-census/researchers/baoku-shi-a5041677/"
 layout: "researcher"
 hiddenInHomeList: true

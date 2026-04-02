@@ -1,7 +1,7 @@
 ---
 title: "Kapil Khanal"
 description: "Kapil Khanal is a Mid-career General CDR researcher at Rutgers, The State University of New Jersey in US. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.092024
+date: 2026-04-02T07:03:26.495511
 url: "/cdr-researcher-census/researchers/kapil-khanal-a5006438/"
 layout: "researcher"
 hiddenInHomeList: true

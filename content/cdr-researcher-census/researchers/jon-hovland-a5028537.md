@@ -1,7 +1,7 @@
 ---
 title: "Jon Hovland"
 description: "Jon Hovland is a Senior General CDR researcher. With 31 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.822122
+date: 2026-04-02T07:03:24.637738
 url: "/cdr-researcher-census/researchers/jon-hovland-a5028537/"
 layout: "researcher"
 hiddenInHomeList: true

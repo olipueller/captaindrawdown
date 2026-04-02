@@ -1,7 +1,7 @@
 ---
 title: "Chao Liang"
 description: "Chao Liang is an Eminent Soil Carbon researcher at Central University of Finance and Economics in CN. With 299 publications and an h-index of 60, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.082090
+date: 2026-04-02T07:03:23.625410
 url: "/cdr-researcher-census/researchers/chao-liang-a5019539/"
 layout: "researcher"
 hiddenInHomeList: true

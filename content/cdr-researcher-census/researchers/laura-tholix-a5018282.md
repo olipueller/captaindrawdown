@@ -1,7 +1,7 @@
 ---
 title: "Laura Thölix"
 description: "Laura Thölix is a Senior General CDR researcher at Finnish Meteorological Institute in FI. With 59 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.914294
+date: 2026-04-02T07:03:24.774227
 url: "/cdr-researcher-census/researchers/laura-tholix-a5018282/"
 layout: "researcher"
 hiddenInHomeList: true

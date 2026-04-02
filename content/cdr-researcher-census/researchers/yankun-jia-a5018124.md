@@ -1,7 +1,7 @@
 ---
 title: "Yankun Jia"
 description: "Yankun Jia is a Mid-career Biochar researcher. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.539587
+date: 2026-04-02T07:03:25.716096
 url: "/cdr-researcher-census/researchers/yankun-jia-a5018124/"
 layout: "researcher"
 hiddenInHomeList: true

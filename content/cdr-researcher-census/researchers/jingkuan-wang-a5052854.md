@@ -1,7 +1,7 @@
 ---
 title: "Jingkuan Wang"
 description: "Jingkuan Wang is an Eminent Soil Carbon researcher at Shenyang Agricultural University in CN. With 212 publications and an h-index of 40, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.123490
+date: 2026-04-02T07:03:23.674524
 url: "/cdr-researcher-census/researchers/jingkuan-wang-a5052854/"
 layout: "researcher"
 hiddenInHomeList: true

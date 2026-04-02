@@ -1,7 +1,7 @@
 ---
 title: "L. Spadavecchia"
 description: "L. Spadavecchia is a Senior General CDR researcher at Department for Environment Food and Rural Affairs in GB. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.456407
+date: 2026-04-02T07:03:25.570713
 url: "/cdr-researcher-census/researchers/l-spadavecchia-a5039936/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Maokui Lyu"
 description: "Maokui Lyu is a Senior Soil Carbon researcher at Fujian Normal University in CN. With 46 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.439546
+date: 2026-04-02T07:03:24.089870
 url: "/cdr-researcher-census/researchers/maokui-lyu-a5042101/"
 layout: "researcher"
 hiddenInHomeList: true

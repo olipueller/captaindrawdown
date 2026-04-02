@@ -1,7 +1,7 @@
 ---
 title: "Wenli Xing"
 description: "Wenli Xing is a Mid-career Soil Carbon researcher at Xinjiang Academy of Forestry in CN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.393712
+date: 2026-04-02T07:03:25.477088
 url: "/cdr-researcher-census/researchers/wenli-xing-a5004869/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Cody Shaw"
 description: "Cody Shaw is a Senior Ocean CDR researcher at Stony Brook University in US. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.005866
+date: 2026-04-02T07:03:26.369585
 url: "/cdr-researcher-census/researchers/cody-shaw-a5102793/"
 layout: "researcher"
 hiddenInHomeList: true

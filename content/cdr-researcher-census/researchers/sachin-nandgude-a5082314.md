@@ -1,7 +1,7 @@
 ---
 title: "Sachin Nandgude"
 description: "Sachin Nandgude is an Early-career Soil Carbon researcher at Mahatma Phule Krishi Vidyapeeth in IN. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.261241
+date: 2026-04-02T07:03:26.766345
 url: "/cdr-researcher-census/researchers/sachin-nandgude-a5082314/"
 layout: "researcher"
 hiddenInHomeList: true

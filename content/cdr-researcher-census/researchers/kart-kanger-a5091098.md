@@ -1,7 +1,7 @@
 ---
 title: "Kärt Kanger"
 description: "Kärt Kanger is a Mid-career carbon dioxide removal researcher in GB. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.282164
+date: 2026-04-02T07:03:25.315171
 url: "/cdr-researcher-census/researchers/kart-kanger-a5091098/"
 layout: "researcher"
 hiddenInHomeList: true

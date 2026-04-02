@@ -1,7 +1,7 @@
 ---
 title: "Jingxian An"
 description: "Jingxian An is a Mid-career Biochar researcher at Nanchang University in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.922401
+date: 2026-04-02T07:03:26.251341
 url: "/cdr-researcher-census/researchers/jingxian-an-a5015992/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Raphael Ganzenmüller"
 description: "Raphael Ganzenmüller is a Mid-career General CDR researcher at Ludwig Maximilian University of Munich in DE. With 37 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.658102
+date: 2026-04-02T07:03:24.404377
 url: "/cdr-researcher-census/researchers/raphael-ganzenmuller-a5037061/"
 layout: "researcher"
 hiddenInHomeList: true

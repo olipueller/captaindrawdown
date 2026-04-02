@@ -1,7 +1,7 @@
 ---
 title: "Xing-Yun Yi"
 description: "Xing-Yun Yi is a Mid-career Soil Carbon researcher at China University of Mining and Technology in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.864179
+date: 2026-04-02T07:03:26.164078
 url: "/cdr-researcher-census/researchers/xing-yun-yi-a5040290/"
 layout: "researcher"
 hiddenInHomeList: true

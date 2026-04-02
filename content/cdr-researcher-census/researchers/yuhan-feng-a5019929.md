@@ -1,7 +1,7 @@
 ---
 title: "Yuhan Feng"
 description: "Yuhan Feng is an Early-career Soil Carbon researcher at Heilongjiang University in CN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.421047
+date: 2026-04-02T07:03:26.996916
 url: "/cdr-researcher-census/researchers/yuhan-feng-a5019929/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Zhiyuan Yao"
 description: "Zhiyuan Yao is a Mid-career Soil Carbon researcher at Fujian Normal University in CN. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.095135
+date: 2026-04-02T07:03:25.047729
 url: "/cdr-researcher-census/researchers/zhiyuan-yao-a5108265/"
 layout: "researcher"
 hiddenInHomeList: true

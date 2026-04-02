@@ -1,7 +1,7 @@
 ---
 title: "Bhalendra Singh Rajput"
 description: "Bhalendra Singh Rajput is a Mid-career General CDR researcher. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.158236
+date: 2026-04-02T07:03:25.140289
 url: "/cdr-researcher-census/researchers/bhalendra-singh-rajput-a5083395/"
 layout: "researcher"
 hiddenInHomeList: true

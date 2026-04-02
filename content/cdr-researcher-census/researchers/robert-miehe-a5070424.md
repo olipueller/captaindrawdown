@@ -1,7 +1,7 @@
 ---
 title: "Robert Miehe"
 description: "Robert Miehe is a Senior BECCS researcher at University of Stuttgart in DE. With 97 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.357809
+date: 2026-04-02T07:03:23.988611
 url: "/cdr-researcher-census/researchers/robert-miehe-a5070424/"
 layout: "researcher"
 hiddenInHomeList: true

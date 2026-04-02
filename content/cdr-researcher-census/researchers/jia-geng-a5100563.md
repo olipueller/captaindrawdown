@@ -1,7 +1,7 @@
 ---
 title: "Jia Geng"
 description: "Jia Geng is a Senior carbon dioxide removal researcher at Jiangsu Province Hospital in CN. With 16 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.193871
+date: 2026-04-02T07:03:26.671679
 url: "/cdr-researcher-census/researchers/jia-geng-a5100563/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Liujie He"
 description: "Liujie He is an Early-career Soil Carbon researcher at Ministry of Natural Resources and Environment in RU. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.919651
+date: 2026-04-02T07:03:26.246357
 url: "/cdr-researcher-census/researchers/liujie-he-a5101204/"
 layout: "researcher"
 hiddenInHomeList: true

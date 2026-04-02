@@ -1,7 +1,7 @@
 ---
 title: "César H. Díaz Nieto"
 description: "César H. Díaz Nieto is a Mid-career carbon dioxide removal researcher at Consejo Nacional de Investigaciones Científicas y Técnicas in AR. With 17 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.797349
+date: 2026-04-02T07:03:24.606048
 url: "/cdr-researcher-census/researchers/cesar-h-diaz-nieto-a5016884/"
 layout: "researcher"
 hiddenInHomeList: true

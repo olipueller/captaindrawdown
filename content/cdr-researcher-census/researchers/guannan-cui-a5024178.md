@@ -1,7 +1,7 @@
 ---
 title: "Guannan Cui"
 description: "Guannan Cui is a Mid-career Soil Carbon researcher at Beijing Technology and Business University in CN. With 39 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.475433
+date: 2026-04-02T07:03:24.141153
 url: "/cdr-researcher-census/researchers/guannan-cui-a5024178/"
 layout: "researcher"
 hiddenInHomeList: true

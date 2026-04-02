@@ -1,7 +1,7 @@
 ---
 title: "Robin André Rørstadbotnen"
 description: "Robin André Rørstadbotnen is a Mid-career General CDR researcher at Norwegian University of Science and Technology in NO. With 40 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.164769
+date: 2026-04-02T07:03:25.148566
 url: "/cdr-researcher-census/researchers/robin-andre-rrstadbotnen-a5023496/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Nayan Ahmed"
 description: "Nayan Ahmed is a Senior Soil Carbon researcher at Indian Agricultural Statistics Research Institute in IN. With 54 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.822731
+date: 2026-04-02T07:03:24.638448
 url: "/cdr-researcher-census/researchers/nayan-ahmed-a5104227/"
 layout: "researcher"
 hiddenInHomeList: true

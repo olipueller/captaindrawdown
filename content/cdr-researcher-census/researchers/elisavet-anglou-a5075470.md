@@ -1,7 +1,7 @@
 ---
 title: "Elisavet Anglou"
 description: "Elisavet Anglou is an Early-career General CDR researcher at Georgia Institute of Technology in US. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.117904
+date: 2026-04-02T07:03:26.531919
 url: "/cdr-researcher-census/researchers/elisavet-anglou-a5075470/"
 layout: "researcher"
 hiddenInHomeList: true

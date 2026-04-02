@@ -1,7 +1,7 @@
 ---
 title: "Ifeanyi Onyedika Ekemezie"
 description: "Ifeanyi Onyedika Ekemezie is a Mid-career General CDR researcher at Centre for Democracy and Development in NG. With 29 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.838052
+date: 2026-04-02T07:03:24.658900
 url: "/cdr-researcher-census/researchers/ifeanyi-onyedika-ekemezie-a5093929/"
 layout: "researcher"
 hiddenInHomeList: true

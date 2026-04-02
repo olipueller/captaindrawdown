@@ -1,7 +1,7 @@
 ---
 title: "Pradeep Semwal"
 description: "Pradeep Semwal is a Mid-career carbon dioxide removal researcher at National Botanical Research Institute in IN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.930333
+date: 2026-04-02T07:03:26.264954
 url: "/cdr-researcher-census/researchers/pradeep-semwal-a5047470/"
 layout: "researcher"
 hiddenInHomeList: true

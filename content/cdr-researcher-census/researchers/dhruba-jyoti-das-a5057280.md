@@ -1,7 +1,7 @@
 ---
 title: "Dhruba Jyoti Das"
 description: "Dhruba Jyoti Das is a Mid-career General CDR researcher at Rain Forest Research Institute in IN. With 11 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.919175
+date: 2026-04-02T07:03:26.244105
 url: "/cdr-researcher-census/researchers/dhruba-jyoti-das-a5057280/"
 layout: "researcher"
 hiddenInHomeList: true

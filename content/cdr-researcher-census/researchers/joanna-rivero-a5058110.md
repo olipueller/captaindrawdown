@@ -1,7 +1,7 @@
 ---
 title: "Joanna Rivero"
 description: "Joanna Rivero is a Mid-career Ocean CDR researcher at University of Pittsburgh in US. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.916055
+date: 2026-04-02T07:03:26.239318
 url: "/cdr-researcher-census/researchers/joanna-rivero-a5058110/"
 layout: "researcher"
 hiddenInHomeList: true

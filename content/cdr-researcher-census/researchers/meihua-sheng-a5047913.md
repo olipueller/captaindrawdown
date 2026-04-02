@@ -1,7 +1,7 @@
 ---
 title: "Meihua Sheng"
 description: "Meihua Sheng is a Mid-career Soil Carbon researcher at Sichuan University in CN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.420102
+date: 2026-04-02T07:03:25.517988
 url: "/cdr-researcher-census/researchers/meihua-sheng-a5047913/"
 layout: "researcher"
 hiddenInHomeList: true

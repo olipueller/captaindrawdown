@@ -1,7 +1,7 @@
 ---
 title: "Xiong Yang"
 description: "Xiong Yang is a Mid-career carbon dioxide removal researcher at Central South University of Forestry and Technology in CN. With 17 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.360872
+date: 2026-04-02T07:03:25.428955
 url: "/cdr-researcher-census/researchers/xiong-yang-a5115467/"
 layout: "researcher"
 hiddenInHomeList: true

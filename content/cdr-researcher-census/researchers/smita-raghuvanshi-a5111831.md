@@ -1,7 +1,7 @@
 ---
 title: "Smita Raghuvanshi"
 description: "Smita Raghuvanshi is a Senior BECCS researcher at Birla Institute of Technology and Science, Pilani in IN. With 52 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.679641
+date: 2026-04-02T07:03:24.438949
 url: "/cdr-researcher-census/researchers/smita-raghuvanshi-a5111831/"
 layout: "researcher"
 hiddenInHomeList: true

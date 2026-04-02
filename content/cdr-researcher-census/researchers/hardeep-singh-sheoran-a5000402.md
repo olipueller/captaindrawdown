@@ -1,7 +1,7 @@
 ---
 title: "Hardeep Singh Sheoran"
 description: "Hardeep Singh Sheoran is a Mid-career Soil Carbon researcher. With 27 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.123114
+date: 2026-04-02T07:03:26.538949
 url: "/cdr-researcher-census/researchers/hardeep-singh-sheoran-a5000402/"
 layout: "researcher"
 hiddenInHomeList: true

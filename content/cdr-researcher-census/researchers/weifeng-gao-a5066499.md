@@ -1,7 +1,7 @@
 ---
 title: "Weifeng Gao"
 description: "Weifeng Gao is a Mid-career Soil Carbon researcher at Northeast Normal University in CN. With 28 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.987512
+date: 2026-04-02T07:03:24.889939
 url: "/cdr-researcher-census/researchers/weifeng-gao-a5066499/"
 layout: "researcher"
 hiddenInHomeList: true

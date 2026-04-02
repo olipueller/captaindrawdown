@@ -1,7 +1,7 @@
 ---
 title: "Zhenchao Zhang"
 description: "Zhenchao Zhang is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 59 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.205852
+date: 2026-04-02T07:03:23.784707
 url: "/cdr-researcher-census/researchers/zhenchao-zhang-a5101804/"
 layout: "researcher"
 hiddenInHomeList: true

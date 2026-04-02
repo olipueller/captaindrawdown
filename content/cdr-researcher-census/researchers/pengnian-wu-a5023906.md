@@ -1,7 +1,7 @@
 ---
 title: "Pengnian Wu"
 description: "Pengnian Wu is a Mid-career Soil Carbon researcher at Ningxia University in CN. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.094512
+date: 2026-04-02T07:03:25.046731
 url: "/cdr-researcher-census/researchers/pengnian-wu-a5023906/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Naveen Veerabhadraswamy"
 description: "Naveen Veerabhadraswamy is an Early-career BECCS researcher at University of Agricultural and Horticultural Sciences in IN. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.282086
+date: 2026-04-02T07:03:26.799813
 url: "/cdr-researcher-census/researchers/naveen-veerabhadraswamy-a5017102/"
 layout: "researcher"
 hiddenInHomeList: true

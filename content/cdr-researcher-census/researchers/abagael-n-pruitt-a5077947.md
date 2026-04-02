@@ -1,7 +1,7 @@
 ---
 title: "Abagael N. Pruitt"
 description: "Abagael N. Pruitt is a Mid-career Soil Carbon researcher at University of Notre Dame in US. With 15 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.867255
+date: 2026-04-02T07:03:26.168655
 url: "/cdr-researcher-census/researchers/abagael-n-pruitt-a5077947/"
 layout: "researcher"
 hiddenInHomeList: true

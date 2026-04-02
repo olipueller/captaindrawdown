@@ -1,7 +1,7 @@
 ---
 title: "P. Duraivadivel"
 description: "P. Duraivadivel is a Mid-career General CDR researcher at Noida International University in IN. With 9 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.322970
+date: 2026-04-02T07:03:25.373626
 url: "/cdr-researcher-census/researchers/p-duraivadivel-a5021043/"
 layout: "researcher"
 hiddenInHomeList: true

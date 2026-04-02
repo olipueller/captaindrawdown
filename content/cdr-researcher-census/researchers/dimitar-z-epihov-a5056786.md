@@ -1,7 +1,7 @@
 ---
 title: "Dimitar Z. Epihov"
 description: "Dimitar Z. Epihov is a Mid-career Enhanced Weathering researcher at University of Sheffield in GB. With 30 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.964384
+date: 2026-04-02T07:03:24.854078
 url: "/cdr-researcher-census/researchers/dimitar-z-epihov-a5056786/"
 layout: "researcher"
 hiddenInHomeList: true

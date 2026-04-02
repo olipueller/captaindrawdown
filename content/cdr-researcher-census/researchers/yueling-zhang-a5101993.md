@@ -1,7 +1,7 @@
 ---
 title: "Yueling Zhang"
 description: "Yueling Zhang is a Senior Soil Carbon researcher at Chinese Academy of Agricultural Sciences Institute of Agricultural Resources and Regional Planning in CN. With 28 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.541622
+date: 2026-04-02T07:03:24.236316
 url: "/cdr-researcher-census/researchers/yueling-zhang-a5101993/"
 layout: "researcher"
 hiddenInHomeList: true

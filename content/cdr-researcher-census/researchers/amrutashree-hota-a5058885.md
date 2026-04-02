@@ -1,7 +1,7 @@
 ---
 title: "Amrutashree Hota"
 description: "Amrutashree Hota is a Mid-career Biochar researcher at GIET University in IN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.427264
+date: 2026-04-02T07:03:27.007221
 url: "/cdr-researcher-census/researchers/amrutashree-hota-a5058885/"
 layout: "researcher"
 hiddenInHomeList: true

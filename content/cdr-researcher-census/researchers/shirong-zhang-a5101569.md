@@ -1,7 +1,7 @@
 ---
 title: "Shirong Zhang"
 description: "Shirong Zhang is a Senior Soil Carbon researcher. With 70 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.287388
+date: 2026-04-02T07:03:23.893326
 url: "/cdr-researcher-census/researchers/shirong-zhang-a5101569/"
 layout: "researcher"
 hiddenInHomeList: true

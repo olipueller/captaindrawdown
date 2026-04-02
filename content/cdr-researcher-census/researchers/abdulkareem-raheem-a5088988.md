@@ -1,7 +1,7 @@
 ---
 title: "Abdulkareem Raheem"
 description: "Abdulkareem Raheem is a Mid-career Soil Carbon researcher at Jiangsu University in CN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.150313
+date: 2026-04-02T07:03:25.128577
 url: "/cdr-researcher-census/researchers/abdulkareem-raheem-a5088988/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Emily McGlynn"
 description: "Emily McGlynn is a Senior General CDR researcher at University of California, Davis in US. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.583785
+date: 2026-04-02T07:03:24.295952
 url: "/cdr-researcher-census/researchers/emily-mcglynn-a5015496/"
 layout: "researcher"
 hiddenInHomeList: true

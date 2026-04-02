@@ -1,7 +1,7 @@
 ---
 title: "Chunqian Jiang"
 description: "Chunqian Jiang is a Mid-career Soil Carbon researcher at Chinese Academy of Forestry in CN. With 38 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.290533
+date: 2026-04-02T07:03:25.328245
 url: "/cdr-researcher-census/researchers/chunqian-jiang-a5028891/"
 layout: "researcher"
 hiddenInHomeList: true

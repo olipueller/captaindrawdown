@@ -1,7 +1,7 @@
 ---
 title: "Filippo Bisotti"
 description: "Filippo Bisotti is a Mid-career DAC researcher at SINTEF in NO. With 30 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.195229
+date: 2026-04-02T07:03:25.192669
 url: "/cdr-researcher-census/researchers/filippo-bisotti-a5027307/"
 layout: "researcher"
 hiddenInHomeList: true

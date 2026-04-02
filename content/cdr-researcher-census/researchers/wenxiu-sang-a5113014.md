@@ -1,7 +1,7 @@
 ---
 title: "Wenxiu Sang"
 description: "Wenxiu Sang is a Mid-career Soil Carbon researcher in GB. With 7 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.940166
+date: 2026-04-02T07:03:24.815172
 url: "/cdr-researcher-census/researchers/wenxiu-sang-a5113014/"
 layout: "researcher"
 hiddenInHomeList: true

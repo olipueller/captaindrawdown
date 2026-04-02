@@ -1,7 +1,7 @@
 ---
 title: "Yaxue Luo"
 description: "Yaxue Luo is a Mid-career Soil Carbon researcher at East China Normal University in CN. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.441522
+date: 2026-04-02T07:03:25.548346
 url: "/cdr-researcher-census/researchers/yaxue-luo-a5073496/"
 layout: "researcher"
 hiddenInHomeList: true

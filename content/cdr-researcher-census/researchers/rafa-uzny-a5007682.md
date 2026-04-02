@@ -1,7 +1,7 @@
 ---
 title: "Rafał Łużny"
 description: "Rafał Łużny is a Senior carbon dioxide removal researcher at Wrocław University of Science and Technology in PL. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.452937
+date: 2026-04-02T07:03:25.565318
 url: "/cdr-researcher-census/researchers/rafa-uzny-a5007682/"
 layout: "researcher"
 hiddenInHomeList: true

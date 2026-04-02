@@ -1,7 +1,7 @@
 ---
 title: "Matheus Flavio da Silva"
 description: "Matheus Flavio da Silva is a Mid-career carbon dioxide removal researcher at Universidade Estadual Paulista (Unesp) in BR. With 7 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.966283
+date: 2026-04-02T07:03:26.316087
 url: "/cdr-researcher-census/researchers/matheus-flavio-da-silva-a5017769/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yves Theoneste Murindangabo"
 description: "Yves Theoneste Murindangabo is a Mid-career Soil Carbon researcher at Czech Academy of Sciences in CZ. With 29 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.126277
+date: 2026-04-02T07:03:25.093727
 url: "/cdr-researcher-census/researchers/yves-theoneste-murindangabo-a5071517/"
 layout: "researcher"
 hiddenInHomeList: true

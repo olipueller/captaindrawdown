@@ -1,7 +1,7 @@
 ---
 title: "Mitchell K. van der Hulst"
 description: "Mitchell K. van der Hulst is a Mid-career DAC researcher. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.924431
+date: 2026-04-02T07:03:24.789589
 url: "/cdr-researcher-census/researchers/mitchell-k-van-der-hulst-a5079657/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yitayal Addis Alemayehu"
 description: "Yitayal Addis Alemayehu is a Mid-career carbon dioxide removal researcher at Kotebe University of Education in ET. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.270364
+date: 2026-04-02T07:03:25.299639
 url: "/cdr-researcher-census/researchers/yitayal-addis-alemayehu-a5046655/"
 layout: "researcher"
 hiddenInHomeList: true

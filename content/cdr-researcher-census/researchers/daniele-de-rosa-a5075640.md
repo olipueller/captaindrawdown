@@ -1,7 +1,7 @@
 ---
 title: "Daniele De Rosa"
 description: "Daniele De Rosa is a Senior Soil Carbon researcher at University of Basilicata in IT. With 66 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.388848
+date: 2026-04-02T07:03:24.026237
 url: "/cdr-researcher-census/researchers/daniele-de-rosa-a5075640/"
 layout: "researcher"
 hiddenInHomeList: true

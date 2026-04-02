@@ -1,7 +1,7 @@
 ---
 title: "Sreejith Sreekantan"
 description: "Sreejith Sreekantan is a Mid-career DAC researcher. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.962801
+date: 2026-04-02T07:03:26.310945
 url: "/cdr-researcher-census/researchers/sreejith-sreekantan-a5041569/"
 layout: "researcher"
 hiddenInHomeList: true

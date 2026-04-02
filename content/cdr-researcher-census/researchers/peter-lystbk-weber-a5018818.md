@@ -1,7 +1,7 @@
 ---
 title: "Peter Lystbæk Weber"
 description: "Peter Lystbæk Weber is a Mid-career Soil Carbon researcher at Aarhus University in DK. With 37 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.168588
+date: 2026-04-02T07:03:25.153981
 url: "/cdr-researcher-census/researchers/peter-lystbk-weber-a5018818/"
 layout: "researcher"
 hiddenInHomeList: true

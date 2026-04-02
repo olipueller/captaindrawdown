@@ -1,7 +1,7 @@
 ---
 title: "Wenhao Teng"
 description: "Wenhao Teng is a Mid-career Soil Carbon researcher at Fujian Medical University in CN. With 27 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.696376
+date: 2026-04-02T07:03:25.953653
 url: "/cdr-researcher-census/researchers/wenhao-teng-a5029366/"
 layout: "researcher"
 hiddenInHomeList: true

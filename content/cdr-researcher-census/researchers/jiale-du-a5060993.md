@@ -1,7 +1,7 @@
 ---
 title: "Jiale Du"
 description: "Jiale Du is a Mid-career Biochar researcher at KU Leuven in BE. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.261223
+date: 2026-04-02T07:03:25.288266
 url: "/cdr-researcher-census/researchers/jiale-du-a5060993/"
 layout: "researcher"
 hiddenInHomeList: true

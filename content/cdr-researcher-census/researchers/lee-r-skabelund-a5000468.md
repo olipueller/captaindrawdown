@@ -1,7 +1,7 @@
 ---
 title: "Lee R. Skabelund"
 description: "Lee R. Skabelund is a Senior General CDR researcher at Landscape Institute in GB. With 19 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.240992
+date: 2026-04-02T07:03:26.736635
 url: "/cdr-researcher-census/researchers/lee-r-skabelund-a5000468/"
 layout: "researcher"
 hiddenInHomeList: true

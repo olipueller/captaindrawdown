@@ -1,7 +1,7 @@
 ---
 title: "Ivonne Pena Cabra"
 description: "Ivonne Pena Cabra is a Mid-career DAC researcher at National Energy Technology Laboratory in US. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.122602
+date: 2026-04-02T07:03:25.088268
 url: "/cdr-researcher-census/researchers/ivonne-pena-cabra-a5071541/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Syed Muhammad Wajahat ul Hasnain"
 description: "Syed Muhammad Wajahat ul Hasnain is a Mid-career carbon dioxide removal researcher at Riphah International University in PK. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.232513
+date: 2026-04-02T07:03:26.725379
 url: "/cdr-researcher-census/researchers/syed-muhammad-wajahat-ul-hasnain-a5053661/"
 layout: "researcher"
 hiddenInHomeList: true

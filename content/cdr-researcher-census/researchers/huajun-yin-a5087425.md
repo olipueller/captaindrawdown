@@ -1,7 +1,7 @@
 ---
 title: "Huajun Yin"
 description: "Huajun Yin is a Senior Soil Carbon researcher at ???????????? in CN. With 121 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.178673
+date: 2026-04-02T07:03:23.746686
 url: "/cdr-researcher-census/researchers/huajun-yin-a5087425/"
 layout: "researcher"
 hiddenInHomeList: true

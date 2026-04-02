@@ -1,7 +1,7 @@
 ---
 title: "Xiaocha Wei"
 description: "Xiaocha Wei is a Mid-career Soil Carbon researcher at Institute of Forest Ecology, Environment and Protection in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.571130
+date: 2026-04-02T07:03:25.762102
 url: "/cdr-researcher-census/researchers/xiaocha-wei-a5101020/"
 layout: "researcher"
 hiddenInHomeList: true

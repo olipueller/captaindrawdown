@@ -1,7 +1,7 @@
 ---
 title: "Jinhong Wu"
 description: "Jinhong Wu is a Senior Soil Carbon researcher. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.717309
+date: 2026-04-02T07:03:25.987176
 url: "/cdr-researcher-census/researchers/jinhong-wu-a5022740/"
 layout: "researcher"
 hiddenInHomeList: true

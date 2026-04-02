@@ -1,7 +1,7 @@
 ---
 title: "Wiepie Haagsma"
 description: "Wiepie Haagsma is a Mid-career Soil Carbon researcher in GB. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.995008
+date: 2026-04-02T07:03:24.902049
 url: "/cdr-researcher-census/researchers/wiepie-haagsma-a5053310/"
 layout: "researcher"
 hiddenInHomeList: true

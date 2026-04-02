@@ -1,7 +1,7 @@
 ---
 title: "Stavroula Dimitriadou"
 description: "Stavroula Dimitriadou is a Mid-career Biochar researcher at Hellenic Open University in GR. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.410706
+date: 2026-04-02T07:03:25.504609
 url: "/cdr-researcher-census/researchers/stavroula-dimitriadou-a5016324/"
 layout: "researcher"
 hiddenInHomeList: true

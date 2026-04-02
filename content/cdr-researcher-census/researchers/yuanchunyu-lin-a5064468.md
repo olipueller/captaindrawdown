@@ -1,7 +1,7 @@
 ---
 title: "Yuanchunyu Lin"
 description: "Yuanchunyu Lin is an Early-career carbon dioxide removal researcher at City University of New York in US. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.407046
+date: 2026-04-02T07:03:26.976491
 url: "/cdr-researcher-census/researchers/yuanchunyu-lin-a5064468/"
 layout: "researcher"
 hiddenInHomeList: true

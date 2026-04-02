@@ -1,7 +1,7 @@
 ---
 title: "Cosmas Chinedu Uche"
 description: "Cosmas Chinedu Uche is a Mid-career General CDR researcher at Federal University of Technology Owerri in NG. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.423036
+date: 2026-04-02T07:03:25.522080
 url: "/cdr-researcher-census/researchers/cosmas-chinedu-uche-a5036098/"
 layout: "researcher"
 hiddenInHomeList: true

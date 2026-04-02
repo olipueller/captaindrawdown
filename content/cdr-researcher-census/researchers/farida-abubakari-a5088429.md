@@ -1,7 +1,7 @@
 ---
 title: "Farida Abubakari"
 description: "Farida Abubakari is a Mid-career General CDR researcher at University of Queensland in AU. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.907575
+date: 2026-04-02T07:03:26.226032
 url: "/cdr-researcher-census/researchers/farida-abubakari-a5088429/"
 layout: "researcher"
 hiddenInHomeList: true

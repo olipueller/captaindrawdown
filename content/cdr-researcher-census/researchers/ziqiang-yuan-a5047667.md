@@ -1,7 +1,7 @@
 ---
 title: "Zi‐Qiang Yuan"
 description: "Zi‐Qiang Yuan is a Senior Soil Carbon researcher at Beijing Institute of Technology in CN. With 48 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.394689
+date: 2026-04-02T07:03:24.032400
 url: "/cdr-researcher-census/researchers/ziqiang-yuan-a5047667/"
 layout: "researcher"
 hiddenInHomeList: true

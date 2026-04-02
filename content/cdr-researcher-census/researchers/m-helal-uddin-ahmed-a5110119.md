@@ -1,7 +1,7 @@
 ---
 title: "M. Helal Uddin Ahmed"
 description: "M. Helal Uddin Ahmed is a Mid-career carbon dioxide removal researcher at Hamdard University in PK. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.297794
+date: 2026-04-02T07:03:26.823510
 url: "/cdr-researcher-census/researchers/m-helal-uddin-ahmed-a5110119/"
 layout: "researcher"
 hiddenInHomeList: true

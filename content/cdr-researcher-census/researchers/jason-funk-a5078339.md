@@ -1,7 +1,7 @@
 ---
 title: "Jason Funk"
 description: "Jason Funk is a Senior General CDR researcher at Conservation International in US. With 21 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.505471
+date: 2026-04-02T07:03:24.179292
 url: "/cdr-researcher-census/researchers/jason-funk-a5078339/"
 layout: "researcher"
 hiddenInHomeList: true

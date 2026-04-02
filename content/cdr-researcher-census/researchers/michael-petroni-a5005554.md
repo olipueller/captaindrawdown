@@ -1,7 +1,7 @@
 ---
 title: "Michael Petroni"
 description: "Michael Petroni is a Mid-career General CDR researcher at Climate Analytics in DE. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.784879
+date: 2026-04-02T07:03:26.050127
 url: "/cdr-researcher-census/researchers/michael-petroni-a5005554/"
 layout: "researcher"
 hiddenInHomeList: true

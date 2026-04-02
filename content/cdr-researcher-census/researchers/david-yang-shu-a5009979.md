@@ -1,7 +1,7 @@
 ---
 title: "David Yang Shu"
 description: "David Yang Shu is a Mid-career General CDR researcher at ETH Zurich in CH. With 27 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.746180
+date: 2026-04-02T07:03:24.534057
 url: "/cdr-researcher-census/researchers/david-yang-shu-a5009979/"
 layout: "researcher"
 hiddenInHomeList: true

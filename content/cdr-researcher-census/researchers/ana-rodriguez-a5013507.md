@@ -1,7 +1,7 @@
 ---
 title: "Ana Rodríguez"
 description: "Ana Rodríguez is a Senior General CDR researcher at Ministry of Economy in MK. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.141751
+date: 2026-04-02T07:03:25.116773
 url: "/cdr-researcher-census/researchers/ana-rodriguez-a5013507/"
 layout: "researcher"
 hiddenInHomeList: true

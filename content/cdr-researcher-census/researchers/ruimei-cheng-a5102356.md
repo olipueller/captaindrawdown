@@ -1,7 +1,7 @@
 ---
 title: "Ruimei Cheng"
 description: "Ruimei Cheng is a Senior Soil Carbon researcher at China Three Gorges University in CN. With 54 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.606783
+date: 2026-04-02T07:03:24.330045
 url: "/cdr-researcher-census/researchers/ruimei-cheng-a5102356/"
 layout: "researcher"
 hiddenInHomeList: true

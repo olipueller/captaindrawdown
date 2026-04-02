@@ -1,7 +1,7 @@
 ---
 title: "Debabrata Sahoo"
 description: "Debabrata Sahoo is a Mid-career carbon dioxide removal researcher at Clemson University in US. With 26 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.304356
+date: 2026-04-02T07:03:26.834394
 url: "/cdr-researcher-census/researchers/debabrata-sahoo-a5102695/"
 layout: "researcher"
 hiddenInHomeList: true

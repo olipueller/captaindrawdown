@@ -1,7 +1,7 @@
 ---
 title: "Jean-Francois Mecure"
 description: "Jean-Francois Mecure is an Early-career Enhanced Weathering researcher. With 2 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.960126
+date: 2026-04-02T07:03:26.306978
 url: "/cdr-researcher-census/researchers/jean-francois-mecure-a5076056/"
 layout: "researcher"
 hiddenInHomeList: true

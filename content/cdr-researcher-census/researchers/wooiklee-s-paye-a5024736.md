@@ -1,7 +1,7 @@
 ---
 title: "Wooiklee S. Paye"
 description: "Wooiklee S. Paye is a Mid-career Soil Carbon researcher at Agricultural Research Service in US. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.564795
+date: 2026-04-02T07:03:25.752198
 url: "/cdr-researcher-census/researchers/wooiklee-s-paye-a5024736/"
 layout: "researcher"
 hiddenInHomeList: true

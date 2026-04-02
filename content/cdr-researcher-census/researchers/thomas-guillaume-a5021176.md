@@ -1,7 +1,7 @@
 ---
 title: "Thomas Guillaume"
 description: "Thomas Guillaume is a Senior Soil Carbon researcher at Agroscope Standort Changins in CH. With 93 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.220155
+date: 2026-04-02T07:03:23.802274
 url: "/cdr-researcher-census/researchers/thomas-guillaume-a5021176/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Junhu Tang"
 description: "Junhu Tang is a Mid-career Soil Carbon researcher at Xinjiang University in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.166511
+date: 2026-04-02T07:03:26.614545
 url: "/cdr-researcher-census/researchers/junhu-tang-a5029780/"
 layout: "researcher"
 hiddenInHomeList: true

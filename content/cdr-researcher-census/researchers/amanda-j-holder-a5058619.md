@@ -1,7 +1,7 @@
 ---
 title: "Amanda J. Holder"
 description: "Amanda J. Holder is a Mid-career Soil Carbon researcher at Institute of Biological, Environmental and Rural Sciences in GB. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.426873
+date: 2026-04-02T07:03:27.006613
 url: "/cdr-researcher-census/researchers/amanda-j-holder-a5058619/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Birte Scheler"
 description: "Birte Scheler is a Mid-career carbon dioxide removal researcher at Nordwestdeutsche Forstliche Versuchsanstalt in DE. With 20 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.351647
+date: 2026-04-02T07:03:26.897336
 url: "/cdr-researcher-census/researchers/birte-scheler-a5054913/"
 layout: "researcher"
 hiddenInHomeList: true

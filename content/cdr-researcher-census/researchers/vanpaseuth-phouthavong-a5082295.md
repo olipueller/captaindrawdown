@@ -1,7 +1,7 @@
 ---
 title: "Vanpaseuth Phouthavong"
 description: "Vanpaseuth Phouthavong is a Mid-career carbon dioxide removal researcher at National University of Laos in LA. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.946268
+date: 2026-04-02T07:03:26.286895
 url: "/cdr-researcher-census/researchers/vanpaseuth-phouthavong-a5082295/"
 layout: "researcher"
 hiddenInHomeList: true

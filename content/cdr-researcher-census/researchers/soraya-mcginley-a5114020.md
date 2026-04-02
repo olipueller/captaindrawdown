@@ -1,7 +1,7 @@
 ---
 title: "Soraya McGinley"
 description: "Soraya McGinley is an Early-career General CDR researcher at Australian Government in AU. With 1 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.155693
+date: 2026-04-02T07:03:26.596083
 url: "/cdr-researcher-census/researchers/soraya-mcginley-a5114020/"
 layout: "researcher"
 hiddenInHomeList: true

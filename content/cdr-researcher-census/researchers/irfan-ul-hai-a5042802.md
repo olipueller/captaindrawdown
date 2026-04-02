@@ -1,7 +1,7 @@
 ---
 title: "Irfan Ul Hai"
 description: "Irfan Ul Hai is a Mid-career BECCS researcher at Nottingham Trent University in GB. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.986533
+date: 2026-04-02T07:03:24.888368
 url: "/cdr-researcher-census/researchers/irfan-ul-hai-a5042802/"
 layout: "researcher"
 hiddenInHomeList: true

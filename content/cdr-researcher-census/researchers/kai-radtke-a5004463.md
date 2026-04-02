@@ -1,7 +1,7 @@
 ---
 title: "Kai Radtke"
 description: "Kai Radtke is a Mid-career BECCS researcher at Deutsches Biomasseforschungszentrum in DE. With 27 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.189872
+date: 2026-04-02T07:03:23.765096
 url: "/cdr-researcher-census/researchers/kai-radtke-a5004463/"
 layout: "researcher"
 hiddenInHomeList: true

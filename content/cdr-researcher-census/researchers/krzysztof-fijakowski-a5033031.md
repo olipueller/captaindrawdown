@@ -1,7 +1,7 @@
 ---
 title: "Krzysztof Fijałkowski"
 description: "Krzysztof Fijałkowski is a Senior Soil Carbon researcher at Częstochowa University of Technology in PL. With 31 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.286675
+date: 2026-04-02T07:03:23.892344
 url: "/cdr-researcher-census/researchers/krzysztof-fijakowski-a5033031/"
 layout: "researcher"
 hiddenInHomeList: true

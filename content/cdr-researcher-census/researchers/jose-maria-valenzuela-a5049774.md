@@ -1,7 +1,7 @@
 ---
 title: "José María Valenzuela"
 description: "José María Valenzuela is a Mid-career General CDR researcher at College of Mexico in MX. With 29 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.778218
+date: 2026-04-02T07:03:26.041148
 url: "/cdr-researcher-census/researchers/jose-maria-valenzuela-a5049774/"
 layout: "researcher"
 hiddenInHomeList: true

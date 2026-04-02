@@ -1,7 +1,7 @@
 ---
 title: "Esraa A. El-Masry"
 description: "Esraa A. El-Masry is an Early-career General CDR researcher at Alexandria University in EG. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.349931
+date: 2026-04-02T07:03:26.895809
 url: "/cdr-researcher-census/researchers/esraa-a-el-masry-a5063514/"
 layout: "researcher"
 hiddenInHomeList: true

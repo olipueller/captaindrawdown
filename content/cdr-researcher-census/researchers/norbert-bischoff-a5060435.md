@@ -1,7 +1,7 @@
 ---
 title: "Norbert Bischoff"
 description: "Norbert Bischoff is a Mid-career Soil Carbon researcher at Leibniz University Hannover in DE. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.986664
+date: 2026-04-02T07:03:26.340785
 url: "/cdr-researcher-census/researchers/norbert-bischoff-a5060435/"
 layout: "researcher"
 hiddenInHomeList: true

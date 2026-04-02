@@ -1,7 +1,7 @@
 ---
 title: "Bruna Medeiros"
 description: "Bruna Medeiros is a Mid-career Biochar researcher. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.804616
+date: 2026-04-02T07:03:26.079329
 url: "/cdr-researcher-census/researchers/bruna-medeiros-a5041140/"
 layout: "researcher"
 hiddenInHomeList: true

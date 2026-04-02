@@ -1,7 +1,7 @@
 ---
 title: "César Suárez"
 description: "César Suárez is a Mid-career Soil Carbon researcher at Universidad Tecnológica Ecotec in EC. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.632724
+date: 2026-04-02T07:03:25.853973
 url: "/cdr-researcher-census/researchers/cesar-suarez-a5055966/"
 layout: "researcher"
 hiddenInHomeList: true

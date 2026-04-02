@@ -1,7 +1,7 @@
 ---
 title: "Nuno Pereira"
 description: "Nuno Pereira is a Senior carbon dioxide removal researcher at Instituto Politécnico de Beja in PT. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.684083
+date: 2026-04-02T07:03:25.935284
 url: "/cdr-researcher-census/researchers/nuno-pereira-a5102931/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jelena Pavlovıć"
 description: "Jelena Pavlovıć is a Mid-career Soil Carbon researcher at Institute of Physics Belgrade in RS. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.514836
+date: 2026-04-02T07:03:24.192923
 url: "/cdr-researcher-census/researchers/jelena-pavlovc-a5028030/"
 layout: "researcher"
 hiddenInHomeList: true

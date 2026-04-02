@@ -1,7 +1,7 @@
 ---
 title: "John K. Senior"
 description: "John K. Senior is a Mid-career Soil Carbon researcher. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.787878
+date: 2026-04-02T07:03:26.054538
 url: "/cdr-researcher-census/researchers/john-k-senior-a5020175/"
 layout: "researcher"
 hiddenInHomeList: true

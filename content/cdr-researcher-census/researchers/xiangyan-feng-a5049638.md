@@ -1,7 +1,7 @@
 ---
 title: "Xiangyan Feng"
 description: "Xiangyan Feng is a Mid-career Soil Carbon researcher at Ministry of Education of the People's Republic of China in CN. With 39 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.214973
+date: 2026-04-02T07:03:25.222911
 url: "/cdr-researcher-census/researchers/xiangyan-feng-a5049638/"
 layout: "researcher"
 hiddenInHomeList: true

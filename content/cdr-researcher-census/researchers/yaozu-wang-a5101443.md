@@ -1,7 +1,7 @@
 ---
 title: "Yaozu Wang"
 description: "Yaozu Wang is a Mid-career General CDR researcher at Shenyang Ligong University in CN. With 10 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.447159
+date: 2026-04-02T07:03:25.556567
 url: "/cdr-researcher-census/researchers/yaozu-wang-a5101443/"
 layout: "researcher"
 hiddenInHomeList: true

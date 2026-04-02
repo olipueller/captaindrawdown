@@ -1,7 +1,7 @@
 ---
 title: "Yaoji Chen"
 description: "Yaoji Chen is a Mid-career carbon dioxide removal researcher at Environmental Protection Engineering (Greece) in GR. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.232353
+date: 2026-04-02T07:03:25.252851
 url: "/cdr-researcher-census/researchers/yaoji-chen-a5078408/"
 layout: "researcher"
 hiddenInHomeList: true

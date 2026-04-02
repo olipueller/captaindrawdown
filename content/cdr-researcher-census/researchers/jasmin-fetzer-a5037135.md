@@ -1,7 +1,7 @@
 ---
 title: "Jasmin Fetzer"
 description: "Jasmin Fetzer is a Mid-career Soil Carbon researcher at Electronics Corporation of India in IN. With 19 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.145556
+date: 2026-04-02T07:03:26.577153
 url: "/cdr-researcher-census/researchers/jasmin-fetzer-a5037135/"
 layout: "researcher"
 hiddenInHomeList: true

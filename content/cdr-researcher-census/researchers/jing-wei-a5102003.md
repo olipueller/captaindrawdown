@@ -1,7 +1,7 @@
 ---
 title: "Jing Wei"
 description: "Jing Wei is a Senior Biochar researcher at Zhaoqing University in CN. With 59 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.254622
+date: 2026-04-02T07:03:23.846574
 url: "/cdr-researcher-census/researchers/jing-wei-a5102003/"
 layout: "researcher"
 hiddenInHomeList: true

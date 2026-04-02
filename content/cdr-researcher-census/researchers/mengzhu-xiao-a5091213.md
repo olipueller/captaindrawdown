@@ -1,7 +1,7 @@
 ---
 title: "Mengzhu Xiao"
 description: "Mengzhu Xiao is a Mid-career General CDR researcher at International Renewable Energy Agency in AE. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.225716
+date: 2026-04-02T07:03:25.241544
 url: "/cdr-researcher-census/researchers/mengzhu-xiao-a5091213/"
 layout: "researcher"
 hiddenInHomeList: true

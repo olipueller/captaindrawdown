@@ -1,7 +1,7 @@
 ---
 title: "Engil Isadora Pujol Pereira"
 description: "Engil Isadora Pujol Pereira is a Senior Soil Carbon researcher at The University of Texas Rio Grande Valley - Edinburg Campus in US. With 58 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.399042
+date: 2026-04-02T07:03:24.037284
 url: "/cdr-researcher-census/researchers/engil-isadora-pujol-pereira-a5067780/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Antón Puga"
 description: "Antón Puga is a Mid-career carbon dioxide removal researcher at Instituto Superior de Contabilidade e Administracao do Porto in PT. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.143709
+date: 2026-04-02T07:03:25.119465
 url: "/cdr-researcher-census/researchers/anton-puga-a5001481/"
 layout: "researcher"
 hiddenInHomeList: true

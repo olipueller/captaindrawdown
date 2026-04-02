@@ -1,7 +1,7 @@
 ---
 title: "Hongfen Zhu"
 description: "Hongfen Zhu is a Senior Soil Carbon researcher at Shanxi Agricultural University in CN. With 33 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.194418
+date: 2026-04-02T07:03:25.191572
 url: "/cdr-researcher-census/researchers/hongfen-zhu-a5088155/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Hana Burdová"
 description: "Hana Burdová is a Mid-career Soil Carbon researcher at Jan Evangelista Purkyně University in Ústí nad Labem in CZ. With 21 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.481003
+date: 2026-04-02T07:03:25.632718
 url: "/cdr-researcher-census/researchers/hana-burdova-a5007176/"
 layout: "researcher"
 hiddenInHomeList: true

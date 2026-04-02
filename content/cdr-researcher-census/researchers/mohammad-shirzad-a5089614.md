@@ -1,7 +1,7 @@
 ---
 title: "Mohammad Shirzad"
 description: "Mohammad Shirzad is a Mid-career Biochar researcher at Universidade do Porto in PT. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.678587
+date: 2026-04-02T07:03:24.437476
 url: "/cdr-researcher-census/researchers/mohammad-shirzad-a5089614/"
 layout: "researcher"
 hiddenInHomeList: true

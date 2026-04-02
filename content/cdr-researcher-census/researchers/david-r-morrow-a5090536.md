@@ -1,7 +1,7 @@
 ---
 title: "David R. Morrow"
 description: "David R. Morrow is a Senior General CDR researcher at American University in US. With 61 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.394283
+date: 2026-04-02T07:03:24.032106
 url: "/cdr-researcher-census/researchers/david-r-morrow-a5090536/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Julia Miloczki"
 description: "Julia Miloczki is a Mid-career General CDR researcher at Austrian Agency for Health and Food Safety in AT. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.476094
+date: 2026-04-02T07:03:25.626762
 url: "/cdr-researcher-census/researchers/julia-miloczki-a5036868/"
 layout: "researcher"
 hiddenInHomeList: true

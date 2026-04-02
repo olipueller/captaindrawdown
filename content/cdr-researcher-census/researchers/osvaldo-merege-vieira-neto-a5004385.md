@@ -1,7 +1,7 @@
 ---
 title: "Osvaldo Merege Vieira-Neto"
 description: "Osvaldo Merege Vieira-Neto is a Senior carbon dioxide removal researcher at Universidade de São Paulo in BR. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.777989
+date: 2026-04-02T07:03:26.040841
 url: "/cdr-researcher-census/researchers/osvaldo-merege-vieira-neto-a5004385/"
 layout: "researcher"
 hiddenInHomeList: true

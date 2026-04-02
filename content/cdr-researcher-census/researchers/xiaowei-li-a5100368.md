@@ -1,7 +1,7 @@
 ---
 title: "Xiaowei Li"
 description: "Xiaowei Li is a Mid-career Soil Carbon researcher at Henan University of Engineering in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.307274
+date: 2026-04-02T07:03:25.351703
 url: "/cdr-researcher-census/researchers/xiaowei-li-a5100368/"
 layout: "researcher"
 hiddenInHomeList: true

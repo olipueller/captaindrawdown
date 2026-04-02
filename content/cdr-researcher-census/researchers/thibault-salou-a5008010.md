@@ -1,7 +1,7 @@
 ---
 title: "Thibault Salou"
 description: "Thibault Salou is a Mid-career BECCS researcher at Université de Montpellier in FR. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.127492
+date: 2026-04-02T07:03:26.544917
 url: "/cdr-researcher-census/researchers/thibault-salou-a5008010/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Karel Callens"
 description: "Karel Callens is a Senior carbon dioxide removal researcher at Food and Agriculture Organization of the United Nations in IT. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.667222
+date: 2026-04-02T07:03:25.909878
 url: "/cdr-researcher-census/researchers/karel-callens-a5080588/"
 layout: "researcher"
 hiddenInHomeList: true

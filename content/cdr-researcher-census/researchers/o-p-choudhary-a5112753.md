@@ -1,7 +1,7 @@
 ---
 title: "O. P. Choudhary"
 description: "O. P. Choudhary is a Senior Soil Carbon researcher at Public Works Department Buildings and Roads in IN. With 80 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.331619
+date: 2026-04-02T07:03:23.951589
 url: "/cdr-researcher-census/researchers/o-p-choudhary-a5112753/"
 layout: "researcher"
 hiddenInHomeList: true

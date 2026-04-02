@@ -1,7 +1,7 @@
 ---
 title: "Bárbara Brum"
 description: "Bárbara Brum is an Early-career carbon dioxide removal researcher in GB. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.833219
+date: 2026-04-02T07:03:24.650581
 url: "/cdr-researcher-census/researchers/barbara-brum-a5042886/"
 layout: "researcher"
 hiddenInHomeList: true

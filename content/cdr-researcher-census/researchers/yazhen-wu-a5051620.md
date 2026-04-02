@@ -1,7 +1,7 @@
 ---
 title: "Yazhen Wu"
 description: "Yazhen Wu is a Mid-career General CDR researcher at International Institute for Applied Systems Analysis in AT. With 27 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.600732
+date: 2026-04-02T07:03:24.321219
 url: "/cdr-researcher-census/researchers/yazhen-wu-a5051620/"
 layout: "researcher"
 hiddenInHomeList: true

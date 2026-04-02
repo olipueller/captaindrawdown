@@ -1,7 +1,7 @@
 ---
 title: "Ariffin Bin Mohamad Annuar"
 description: "Ariffin Bin Mohamad Annuar is an Early-career DAC researcher. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.328692
+date: 2026-04-02T07:03:25.381470
 url: "/cdr-researcher-census/researchers/ariffin-bin-mohamad-annuar-a5093252/"
 layout: "researcher"
 hiddenInHomeList: true

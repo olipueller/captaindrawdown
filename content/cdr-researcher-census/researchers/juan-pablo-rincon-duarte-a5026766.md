@@ -1,7 +1,7 @@
 ---
 title: "Juan Pablo Rincon Duarte"
 description: "Juan Pablo Rincon Duarte is a Mid-career General CDR researcher at Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR) in DE. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.981300
+date: 2026-04-02T07:03:26.332201
 url: "/cdr-researcher-census/researchers/juan-pablo-rincon-duarte-a5026766/"
 layout: "researcher"
 hiddenInHomeList: true

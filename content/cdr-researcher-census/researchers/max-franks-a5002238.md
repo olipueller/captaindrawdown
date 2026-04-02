@@ -1,7 +1,7 @@
 ---
 title: "Max Franks"
 description: "Max Franks is a Mid-career General CDR researcher at University of Potsdam in DE. With 31 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.102249
+date: 2026-04-02T07:03:25.058337
 url: "/cdr-researcher-census/researchers/max-franks-a5002238/"
 layout: "researcher"
 hiddenInHomeList: true

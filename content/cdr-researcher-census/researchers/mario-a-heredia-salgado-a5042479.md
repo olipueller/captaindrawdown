@@ -1,7 +1,7 @@
 ---
 title: "Mario A. Heredia Salgado"
 description: "Mario A. Heredia Salgado is a Senior Biochar researcher at Humboldt-Universität zu Berlin in DE. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.534074
+date: 2026-04-02T07:03:25.707910
 url: "/cdr-researcher-census/researchers/mario-a-heredia-salgado-a5042479/"
 layout: "researcher"
 hiddenInHomeList: true

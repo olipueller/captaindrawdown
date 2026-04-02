@@ -1,7 +1,7 @@
 ---
 title: "Jamie W. Gittins"
 description: "Jamie W. Gittins is a Mid-career Ocean CDR researcher at University of Cambridge in GB. With 32 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.637419
+date: 2026-04-02T07:03:24.371880
 url: "/cdr-researcher-census/researchers/jamie-w-gittins-a5025590/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Hans‐Peter Schmidt"
 description: "Hans‐Peter Schmidt is an Eminent Biochar researcher at Ithaka Institute in CH. With 203 publications and an h-index of 44, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.097560
+date: 2026-04-02T07:03:23.644402
 url: "/cdr-researcher-census/researchers/hanspeter-schmidt-a5065464/"
 layout: "researcher"
 hiddenInHomeList: true

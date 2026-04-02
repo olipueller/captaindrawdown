@@ -1,7 +1,7 @@
 ---
 title: "Johan A. Eckdahl"
 description: "Johan A. Eckdahl is a Mid-career Biochar researcher at Lund University in SE. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.138617
+date: 2026-04-02T07:03:26.565755
 url: "/cdr-researcher-census/researchers/johan-a-eckdahl-a5043262/"
 layout: "researcher"
 hiddenInHomeList: true

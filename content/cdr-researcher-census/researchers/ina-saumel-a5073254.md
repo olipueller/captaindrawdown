@@ -1,7 +1,7 @@
 ---
 title: "Ina Säumel"
 description: "Ina Säumel is a Senior Soil Carbon researcher at Humboldt-Universität zu Berlin in DE. With 78 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.218808
+date: 2026-04-02T07:03:23.800651
 url: "/cdr-researcher-census/researchers/ina-saumel-a5073254/"
 layout: "researcher"
 hiddenInHomeList: true

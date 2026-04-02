@@ -1,7 +1,7 @@
 ---
 title: "Huai Yang"
 description: "Huai Yang is a Senior Soil Carbon researcher at International Bamboo and Rattan Organization in CN. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.441305
+date: 2026-04-02T07:03:25.548061
 url: "/cdr-researcher-census/researchers/huai-yang-a5026257/"
 layout: "researcher"
 hiddenInHomeList: true

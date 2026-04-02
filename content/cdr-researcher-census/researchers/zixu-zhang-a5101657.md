@@ -1,7 +1,7 @@
 ---
 title: "Zixu Zhang"
 description: "Zixu Zhang is a Mid-career Soil Carbon researcher at Nanjing Normal University in CN. With 24 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.440309
+date: 2026-04-02T07:03:25.546868
 url: "/cdr-researcher-census/researchers/zixu-zhang-a5101657/"
 layout: "researcher"
 hiddenInHomeList: true

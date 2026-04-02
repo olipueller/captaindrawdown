@@ -1,7 +1,7 @@
 ---
 title: "Marija Kojić"
 description: "Marija Kojić is a Mid-career Biochar researcher at University of Belgrade in RS. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.644461
+date: 2026-04-02T07:03:25.873651
 url: "/cdr-researcher-census/researchers/marija-kojic-a5018037/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Alexa Grimm"
 description: "Alexa Grimm is a Mid-career DAC researcher at Utrecht University in NL. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.484178
+date: 2026-04-02T07:03:24.153202
 url: "/cdr-researcher-census/researchers/alexa-grimm-a5103982/"
 layout: "researcher"
 hiddenInHomeList: true

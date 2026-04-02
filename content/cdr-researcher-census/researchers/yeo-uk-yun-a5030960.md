@@ -1,7 +1,7 @@
 ---
 title: "Yeo-Uk Yun"
 description: "Yeo-Uk Yun is a Mid-career Biochar researcher. With 39 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.664272
+date: 2026-04-02T07:03:25.904811
 url: "/cdr-researcher-census/researchers/yeo-uk-yun-a5030960/"
 layout: "researcher"
 hiddenInHomeList: true

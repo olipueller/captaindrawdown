@@ -1,7 +1,7 @@
 ---
 title: "Erica Gagliano"
 description: "Erica Gagliano is a Mid-career General CDR researcher at University of Genoa in IT. With 37 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.312196
+date: 2026-04-02T07:03:23.925781
 url: "/cdr-researcher-census/researchers/erica-gagliano-a5010099/"
 layout: "researcher"
 hiddenInHomeList: true

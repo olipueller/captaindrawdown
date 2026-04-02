@@ -1,7 +1,7 @@
 ---
 title: "Woo Jae Shin"
 description: "Woo Jae Shin is a Senior General CDR researcher at IIT@MIT in US. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.278300
+date: 2026-04-02T07:03:26.793997
 url: "/cdr-researcher-census/researchers/woo-jae-shin-a5081247/"
 layout: "researcher"
 hiddenInHomeList: true

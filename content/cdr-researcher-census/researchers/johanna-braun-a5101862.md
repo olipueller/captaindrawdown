@@ -1,7 +1,7 @@
 ---
 title: "Johanna Braun"
 description: "Johanna Braun is a Senior General CDR researcher at Potsdam Institute for Climate Impact Research in DE. With 36 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.684712
+date: 2026-04-02T07:03:25.936175
 url: "/cdr-researcher-census/researchers/johanna-braun-a5101862/"
 layout: "researcher"
 hiddenInHomeList: true

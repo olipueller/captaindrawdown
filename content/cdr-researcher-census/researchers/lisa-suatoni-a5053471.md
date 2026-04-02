@@ -1,7 +1,7 @@
 ---
 title: "Lisa Suatoni"
 description: "Lisa Suatoni is a Mid-career General CDR researcher at Natural Resources Defense Council in US. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.693689
+date: 2026-04-02T07:03:24.456963
 url: "/cdr-researcher-census/researchers/lisa-suatoni-a5053471/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Brian Nester"
 description: "Brian Nester is a Mid-career Soil Carbon researcher at Natural Resources Conservation Service in US. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.192511
+date: 2026-04-02T07:03:26.669611
 url: "/cdr-researcher-census/researchers/brian-nester-a5059870/"
 layout: "researcher"
 hiddenInHomeList: true

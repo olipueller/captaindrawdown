@@ -1,7 +1,7 @@
 ---
 title: "Ashley Wang"
 description: "Ashley Wang is a Mid-career General CDR researcher at Dartmouth College in US. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.031493
+date: 2026-04-02T07:03:26.407378
 url: "/cdr-researcher-census/researchers/ashley-wang-a5114948/"
 layout: "researcher"
 hiddenInHomeList: true

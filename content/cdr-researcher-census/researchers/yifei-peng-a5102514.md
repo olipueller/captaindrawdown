@@ -1,7 +1,7 @@
 ---
 title: "Yifei Peng"
 description: "Yifei Peng is a Senior Soil Carbon researcher at Hebei Agricultural University in CN. With 24 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.866858
+date: 2026-04-02T07:03:26.168012
 url: "/cdr-researcher-census/researchers/yifei-peng-a5102514/"
 layout: "researcher"
 hiddenInHomeList: true

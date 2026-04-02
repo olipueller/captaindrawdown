@@ -1,7 +1,7 @@
 ---
 title: "Sihoon Choi"
 description: "Sihoon Choi is a Mid-career DAC researcher at Georgia Institute of Technology in US. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.637109
+date: 2026-04-02T07:03:25.861629
 url: "/cdr-researcher-census/researchers/sihoon-choi-a5035684/"
 layout: "researcher"
 hiddenInHomeList: true

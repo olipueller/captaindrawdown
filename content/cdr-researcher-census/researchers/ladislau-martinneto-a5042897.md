@@ -1,7 +1,7 @@
 ---
 title: "Ladislau Martin‐Neto"
 description: "Ladislau Martin‐Neto is an Eminent Soil Carbon researcher at Brazilian Agricultural Research Corporation in BR. With 163 publications and an h-index of 42, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.126635
+date: 2026-04-02T07:03:23.678774
 url: "/cdr-researcher-census/researchers/ladislau-martinneto-a5042897/"
 layout: "researcher"
 hiddenInHomeList: true

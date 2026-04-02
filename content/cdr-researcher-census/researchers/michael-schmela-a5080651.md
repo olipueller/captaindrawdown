@@ -1,7 +1,7 @@
 ---
 title: "Michael Schmela"
 description: "Michael Schmela is a Mid-career DAC researcher. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.255993
+date: 2026-04-02T07:03:26.758184
 url: "/cdr-researcher-census/researchers/michael-schmela-a5080651/"
 layout: "researcher"
 hiddenInHomeList: true

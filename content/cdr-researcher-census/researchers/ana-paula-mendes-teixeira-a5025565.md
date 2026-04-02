@@ -1,7 +1,7 @@
 ---
 title: "Ana Paula Mendes Teixeira"
 description: "Ana Paula Mendes Teixeira is a Mid-career Soil Carbon researcher at Universidade Federal de Viçosa in BR. With 24 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.303727
+date: 2026-04-02T07:03:26.833120
 url: "/cdr-researcher-census/researchers/ana-paula-mendes-teixeira-a5025565/"
 layout: "researcher"
 hiddenInHomeList: true

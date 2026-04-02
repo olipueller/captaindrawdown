@@ -1,7 +1,7 @@
 ---
 title: "Krystian Krochmalny"
 description: "Krystian Krochmalny is a Mid-career BECCS researcher. With 34 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.768014
+date: 2026-04-02T07:03:24.566355
 url: "/cdr-researcher-census/researchers/krystian-krochmalny-a5003794/"
 layout: "researcher"
 hiddenInHomeList: true

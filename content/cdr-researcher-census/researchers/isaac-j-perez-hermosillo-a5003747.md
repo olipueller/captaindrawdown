@@ -1,7 +1,7 @@
 ---
 title: "Isaac J. Pérez-Hermosillo"
 description: "Isaac J. Pérez-Hermosillo is a Mid-career carbon dioxide removal researcher at Universidad Autónoma Metropolitana in MX. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.901971
+date: 2026-04-02T07:03:26.218078
 url: "/cdr-researcher-census/researchers/isaac-j-perez-hermosillo-a5003747/"
 layout: "researcher"
 hiddenInHomeList: true

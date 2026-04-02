@@ -1,7 +1,7 @@
 ---
 title: "Puspendu Sardar"
 description: "Puspendu Sardar is a Mid-career carbon dioxide removal researcher at Quadram Institute Bioscience in GB. With 31 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.868568
+date: 2026-04-02T07:03:24.701777
 url: "/cdr-researcher-census/researchers/puspendu-sardar-a5075361/"
 layout: "researcher"
 hiddenInHomeList: true

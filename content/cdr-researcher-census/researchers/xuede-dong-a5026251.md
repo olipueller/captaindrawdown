@@ -1,7 +1,7 @@
 ---
 title: "Xuede Dong"
 description: "Xuede Dong is a Mid-career Soil Carbon researcher at Beijing Normal University in CN. With 31 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.051188
+date: 2026-04-02T07:03:24.982988
 url: "/cdr-researcher-census/researchers/xuede-dong-a5026251/"
 layout: "researcher"
 hiddenInHomeList: true

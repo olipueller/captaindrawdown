@@ -1,7 +1,7 @@
 ---
 title: "Sepideh Abrishamkesh"
 description: "Sepideh Abrishamkesh is a Mid-career Biochar researcher at University of Guilan in IR. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.740964
+date: 2026-04-02T07:03:24.526440
 url: "/cdr-researcher-census/researchers/sepideh-abrishamkesh-a5022092/"
 layout: "researcher"
 hiddenInHomeList: true

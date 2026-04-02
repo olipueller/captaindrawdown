@@ -1,7 +1,7 @@
 ---
 title: "Ben Petrovic"
 description: "Ben Petrovic is a Mid-career BECCS researcher at Brunel University of London in GB. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.683776
+date: 2026-04-02T07:03:24.444383
 url: "/cdr-researcher-census/researchers/ben-petrovic-a5050784/"
 layout: "researcher"
 hiddenInHomeList: true

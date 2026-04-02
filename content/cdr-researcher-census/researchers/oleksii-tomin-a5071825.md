@@ -1,7 +1,7 @@
 ---
 title: "Oleksii Tomin"
 description: "Oleksii Tomin is a Mid-career Biochar researcher. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.288253
+date: 2026-04-02T07:03:26.809611
 url: "/cdr-researcher-census/researchers/oleksii-tomin-a5071825/"
 layout: "researcher"
 hiddenInHomeList: true

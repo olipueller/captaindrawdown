@@ -1,7 +1,7 @@
 ---
 title: "Panpan Ma"
 description: "Panpan Ma is a Mid-career Soil Carbon researcher at Qinghai University in CN. With 26 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.715613
+date: 2026-04-02T07:03:24.487715
 url: "/cdr-researcher-census/researchers/panpan-ma-a5101552/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xiaomeng Wei"
 description: "Xiaomeng Wei is a Senior Soil Carbon researcher at Agriculture and Forestry University in CN. With 91 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.184080
+date: 2026-04-02T07:03:23.756371
 url: "/cdr-researcher-census/researchers/xiaomeng-wei-a5108697/"
 layout: "researcher"
 hiddenInHomeList: true

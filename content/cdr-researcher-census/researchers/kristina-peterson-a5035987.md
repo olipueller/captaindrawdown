@@ -1,7 +1,7 @@
 ---
 title: "Kristina Peterson"
 description: "Kristina Peterson is a Senior Ocean CDR researcher at Northland Pioneer College in US. With 37 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.895690
+date: 2026-04-02T07:03:24.743687
 url: "/cdr-researcher-census/researchers/kristina-peterson-a5035987/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xiaosheng Chu"
 description: "Xiaosheng Chu is a Mid-career Soil Carbon researcher at North West Agriculture and Forestry University in CN. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.120011
+date: 2026-04-02T07:03:25.084420
 url: "/cdr-researcher-census/researchers/xiaosheng-chu-a5027730/"
 layout: "researcher"
 hiddenInHomeList: true

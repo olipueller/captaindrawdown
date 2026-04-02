@@ -1,7 +1,7 @@
 ---
 title: "I.Z. Al-Yahmadi"
 description: "I.Z. Al-Yahmadi is a Mid-career Biochar researcher at Sultan Qaboos University in OM. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.189524
+date: 2026-04-02T07:03:26.664918
 url: "/cdr-researcher-census/researchers/iz-al-yahmadi-a5035772/"
 layout: "researcher"
 hiddenInHomeList: true

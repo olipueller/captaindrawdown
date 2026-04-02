@@ -1,7 +1,7 @@
 ---
 title: "Jinwei Guo"
 description: "Jinwei Guo is a Mid-career General CDR researcher at Changzhi Medical College in CN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.413376
+date: 2026-04-02T07:03:26.985252
 url: "/cdr-researcher-census/researchers/jinwei-guo-a5017487/"
 layout: "researcher"
 hiddenInHomeList: true

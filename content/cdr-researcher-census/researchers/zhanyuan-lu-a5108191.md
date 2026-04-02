@@ -1,7 +1,7 @@
 ---
 title: "Zhanyuan Lu"
 description: "Zhanyuan Lu is a Mid-career Soil Carbon researcher at Inner Mongolia Academy of Agricultural & Animal Husbandry Sciences in CN. With 55 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.600956
+date: 2026-04-02T07:03:24.321565
 url: "/cdr-researcher-census/researchers/zhanyuan-lu-a5108191/"
 layout: "researcher"
 hiddenInHomeList: true

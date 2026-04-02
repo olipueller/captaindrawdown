@@ -1,7 +1,7 @@
 ---
 title: "Ruth Musgrave"
 description: "Ruth Musgrave is a Senior Ocean CDR researcher at Dalhousie University in CA. With 57 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.271860
+date: 2026-04-02T07:03:23.871380
 url: "/cdr-researcher-census/researchers/ruth-musgrave-a5039999/"
 layout: "researcher"
 hiddenInHomeList: true

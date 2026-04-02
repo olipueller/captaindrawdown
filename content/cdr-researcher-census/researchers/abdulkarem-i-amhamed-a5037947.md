@@ -1,7 +1,7 @@
 ---
 title: "Abdulkarem I. Amhamed"
 description: "Abdulkarem I. Amhamed is a Senior DAC researcher at Qatar Environment and Energy Research Institute in QA. With 75 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.288184
+date: 2026-04-02T07:03:23.894396
 url: "/cdr-researcher-census/researchers/abdulkarem-i-amhamed-a5037947/"
 layout: "researcher"
 hiddenInHomeList: true

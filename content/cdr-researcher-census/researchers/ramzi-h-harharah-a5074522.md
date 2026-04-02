@@ -1,7 +1,7 @@
 ---
 title: "Ramzi H. Harharah"
 description: "Ramzi H. Harharah is a Mid-career General CDR researcher at National University of Malaysia in MY. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.059211
+date: 2026-04-02T07:03:26.451682
 url: "/cdr-researcher-census/researchers/ramzi-h-harharah-a5074522/"
 layout: "researcher"
 hiddenInHomeList: true

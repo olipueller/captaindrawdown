@@ -1,7 +1,7 @@
 ---
 title: "Gabrielle Nyirjesy"
 description: "Gabrielle Nyirjesy is a Mid-career carbon dioxide removal researcher at IBM Research - Thomas J. Watson Research Center in US. With 12 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.818383
+date: 2026-04-02T07:03:26.099679
 url: "/cdr-researcher-census/researchers/gabrielle-nyirjesy-a5076021/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Pengju Zu"
 description: "Pengju Zu is a Mid-career General CDR researcher at Shaanxi Coal Chemical Industry Technology Research Institute in CN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.165298
+date: 2026-04-02T07:03:26.612526
 url: "/cdr-researcher-census/researchers/pengju-zu-a5087703/"
 layout: "researcher"
 hiddenInHomeList: true

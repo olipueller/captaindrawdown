@@ -1,7 +1,7 @@
 ---
 title: "Elly Morriën"
 description: "Elly Morriën is a Senior Soil Carbon researcher at University of Amsterdam in NL. With 53 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.178910
+date: 2026-04-02T07:03:23.747129
 url: "/cdr-researcher-census/researchers/elly-morrien-a5045032/"
 layout: "researcher"
 hiddenInHomeList: true

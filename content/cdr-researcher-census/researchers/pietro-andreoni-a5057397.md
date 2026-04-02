@@ -1,7 +1,7 @@
 ---
 title: "Pietro Andreoni"
 description: "Pietro Andreoni is a Mid-career General CDR researcher at RFF-CMCC European Institute on Economics and the Environment in IT. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.233132
+date: 2026-04-02T07:03:26.726221
 url: "/cdr-researcher-census/researchers/pietro-andreoni-a5057397/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Petr Lacina"
 description: "Petr Lacina is a Mid-career carbon dioxide removal researcher at GEOtest (Czechia) in CZ. With 21 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.297348
+date: 2026-04-02T07:03:25.338586
 url: "/cdr-researcher-census/researchers/petr-lacina-a5055076/"
 layout: "researcher"
 hiddenInHomeList: true

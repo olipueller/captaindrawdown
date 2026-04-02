@@ -1,7 +1,7 @@
 ---
 title: "Xiaoqian Liang"
 description: "Xiaoqian Liang is a Mid-career Soil Carbon researcher at Sun Yat-sen University in CN. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.010598
+date: 2026-04-02T07:03:26.376293
 url: "/cdr-researcher-census/researchers/xiaoqian-liang-a5112841/"
 layout: "researcher"
 hiddenInHomeList: true

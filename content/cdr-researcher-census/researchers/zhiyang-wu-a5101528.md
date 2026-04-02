@@ -1,7 +1,7 @@
 ---
 title: "Zhiyang Wu"
 description: "Zhiyang Wu is a Mid-career Soil Carbon researcher at Beijing University of Posts and Telecommunications in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.269929
+date: 2026-04-02T07:03:25.299034
 url: "/cdr-researcher-census/researchers/zhiyang-wu-a5101528/"
 layout: "researcher"
 hiddenInHomeList: true

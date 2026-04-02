@@ -1,7 +1,7 @@
 ---
 title: "Zhencai Sun"
 description: "Zhencai Sun is a Senior Biochar researcher at HBIS (China) in CN. With 58 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.408004
+date: 2026-04-02T07:03:24.047714
 url: "/cdr-researcher-census/researchers/zhencai-sun-a5112730/"
 layout: "researcher"
 hiddenInHomeList: true

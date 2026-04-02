@@ -1,7 +1,7 @@
 ---
 title: "Christian Ristok"
 description: "Christian Ristok is a Mid-career Soil Carbon researcher at Leipzig University of Applied Sciences in DE. With 32 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.710320
+date: 2026-04-02T07:03:24.480209
 url: "/cdr-researcher-census/researchers/christian-ristok-a5050440/"
 layout: "researcher"
 hiddenInHomeList: true

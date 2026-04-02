@@ -1,7 +1,7 @@
 ---
 title: "Nirmal Kishnani"
 description: "Nirmal Kishnani is a Senior General CDR researcher at National University of Singapore in SG. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.027994
+date: 2026-04-02T07:03:24.948190
 url: "/cdr-researcher-census/researchers/nirmal-kishnani-a5048969/"
 layout: "researcher"
 hiddenInHomeList: true

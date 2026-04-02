@@ -1,7 +1,7 @@
 ---
 title: "Sharon Showalter"
 description: "Sharon Showalter is a Senior General CDR researcher at Vatican Secret Archives in VA. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.404666
+date: 2026-04-02T07:03:25.495026
 url: "/cdr-researcher-census/researchers/sharon-showalter-a5033312/"
 layout: "researcher"
 hiddenInHomeList: true

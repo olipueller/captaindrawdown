@@ -1,7 +1,7 @@
 ---
 title: "Jiayong Gao"
 description: "Jiayong Gao is a Mid-career Soil Carbon researcher at Tianjin University of Technology in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.933753
+date: 2026-04-02T07:03:26.269769
 url: "/cdr-researcher-census/researchers/jiayong-gao-a5057345/"
 layout: "researcher"
 hiddenInHomeList: true

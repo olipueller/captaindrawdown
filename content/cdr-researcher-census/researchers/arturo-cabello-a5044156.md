@@ -1,7 +1,7 @@
 ---
 title: "Arturo Cabello"
 description: "Arturo Cabello is a Senior BECCS researcher at Instituto de Carboquímica in ES. With 73 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.384595
+date: 2026-04-02T07:03:24.021791
 url: "/cdr-researcher-census/researchers/arturo-cabello-a5044156/"
 layout: "researcher"
 hiddenInHomeList: true

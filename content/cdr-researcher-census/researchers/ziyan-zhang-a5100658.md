@@ -1,7 +1,7 @@
 ---
 title: "Ziyan Zhang"
 description: "Ziyan Zhang is a Senior Enhanced Weathering researcher at NIHR Imperial Biomedical Research Centre in GB. With 48 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.859107
+date: 2026-04-02T07:03:24.688173
 url: "/cdr-researcher-census/researchers/ziyan-zhang-a5100658/"
 layout: "researcher"
 hiddenInHomeList: true

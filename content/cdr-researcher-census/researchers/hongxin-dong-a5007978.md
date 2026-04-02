@@ -1,7 +1,7 @@
 ---
 title: "Hongxin Dong"
 description: "Hongxin Dong is an Early-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.042942
+date: 2026-04-02T07:03:26.425375
 url: "/cdr-researcher-census/researchers/hongxin-dong-a5007978/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Mathura Yadav"
 description: "Mathura Yadav is an Early-career General CDR researcher at Agriculture and Forestry University in NP. With 3 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.188371
+date: 2026-04-02T07:03:25.183144
 url: "/cdr-researcher-census/researchers/mathura-yadav-a5103926/"
 layout: "researcher"
 hiddenInHomeList: true

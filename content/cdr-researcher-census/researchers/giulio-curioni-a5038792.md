@@ -1,7 +1,7 @@
 ---
 title: "Giulio Curioni"
 description: "Giulio Curioni is a Senior Soil Carbon researcher at Forest Research in GB. With 56 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.938162
+date: 2026-04-02T07:03:24.811881
 url: "/cdr-researcher-census/researchers/giulio-curioni-a5038792/"
 layout: "researcher"
 hiddenInHomeList: true

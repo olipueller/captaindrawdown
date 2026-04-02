@@ -1,7 +1,7 @@
 ---
 title: "Gang Xiang"
 description: "Gang Xiang is a Mid-career Biochar researcher at Sichuan Agricultural University in CN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.630558
+date: 2026-04-02T07:03:24.362543
 url: "/cdr-researcher-census/researchers/gang-xiang-a5079769/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Mariarita Cammarata"
 description: "Mariarita Cammarata is a Mid-career Soil Carbon researcher at University of Catania in IT. With 21 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.578667
+date: 2026-04-02T07:03:25.772874
 url: "/cdr-researcher-census/researchers/mariarita-cammarata-a5049406/"
 layout: "researcher"
 hiddenInHomeList: true

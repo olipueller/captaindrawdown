@@ -1,7 +1,7 @@
 ---
 title: "Philipp Weckenbrock"
 description: "Philipp Weckenbrock is a Senior General CDR researcher. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.768971
+date: 2026-04-02T07:03:26.027891
 url: "/cdr-researcher-census/researchers/philipp-weckenbrock-a5030219/"
 layout: "researcher"
 hiddenInHomeList: true

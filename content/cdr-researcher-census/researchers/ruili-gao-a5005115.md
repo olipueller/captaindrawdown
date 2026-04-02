@@ -1,7 +1,7 @@
 ---
 title: "Ruili Gao"
 description: "Ruili Gao is a Mid-career Soil Carbon researcher at Ningxia University in CN. With 29 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.491296
+date: 2026-04-02T07:03:24.161861
 url: "/cdr-researcher-census/researchers/ruili-gao-a5005115/"
 layout: "researcher"
 hiddenInHomeList: true

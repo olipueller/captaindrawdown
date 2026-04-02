@@ -1,7 +1,7 @@
 ---
 title: "Eunice Essel"
 description: "Eunice Essel is a Mid-career General CDR researcher at C.K. Tedam University of Technology and Applied Sciences. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.493176
+date: 2026-04-02T07:03:25.650405
 url: "/cdr-researcher-census/researchers/eunice-essel-a5112768/"
 layout: "researcher"
 hiddenInHomeList: true

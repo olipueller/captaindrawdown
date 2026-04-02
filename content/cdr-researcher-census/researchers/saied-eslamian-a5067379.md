@@ -1,7 +1,7 @@
 ---
 title: "Saied Eslamian"
 description: "Saied Eslamian is a Mid-career Soil Carbon researcher at Isfahan University of Technology in IR. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.043709
+date: 2026-04-02T07:03:26.426551
 url: "/cdr-researcher-census/researchers/saied-eslamian-a5067379/"
 layout: "researcher"
 hiddenInHomeList: true

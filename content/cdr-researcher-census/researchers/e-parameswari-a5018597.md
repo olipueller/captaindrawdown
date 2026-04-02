@@ -1,7 +1,7 @@
 ---
 title: "E. Parameswari"
 description: "E. Parameswari is a Mid-career Soil Carbon researcher at Tamil Nadu Agricultural University in IN. With 126 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.451248
+date: 2026-04-02T07:03:24.106382
 url: "/cdr-researcher-census/researchers/e-parameswari-a5018597/"
 layout: "researcher"
 hiddenInHomeList: true

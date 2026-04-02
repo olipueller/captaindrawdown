@@ -1,7 +1,7 @@
 ---
 title: "Gabriele Torma"
 description: "Gabriele Torma is a Mid-career General CDR researcher at Aarhus University in DK. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.264600
+date: 2026-04-02T07:03:25.292302
 url: "/cdr-researcher-census/researchers/gabriele-torma-a5030423/"
 layout: "researcher"
 hiddenInHomeList: true

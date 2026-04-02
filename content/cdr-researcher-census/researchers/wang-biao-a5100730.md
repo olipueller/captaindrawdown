@@ -1,7 +1,7 @@
 ---
 title: "Wang Biao"
 description: "Wang Biao is a Senior Soil Carbon researcher at Beijing Chaoyang Emergency Medical Center in CN. With 29 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.600084
+date: 2026-04-02T07:03:24.320290
 url: "/cdr-researcher-census/researchers/wang-biao-a5100730/"
 layout: "researcher"
 hiddenInHomeList: true

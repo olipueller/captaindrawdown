@@ -1,7 +1,7 @@
 ---
 title: "Yingliang Yu"
 description: "Yingliang Yu is a Mid-career Soil Carbon researcher at National Sun Yat-sen University in TW. With 47 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.341577
+date: 2026-04-02T07:03:23.965515
 url: "/cdr-researcher-census/researchers/yingliang-yu-a5110006/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ayub Golmakani"
 description: "Ayub Golmakani is a Mid-career DAC researcher at Cranfield University in GB. With 14 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.852642
+date: 2026-04-02T07:03:24.678811
 url: "/cdr-researcher-census/researchers/ayub-golmakani-a5072664/"
 layout: "researcher"
 hiddenInHomeList: true

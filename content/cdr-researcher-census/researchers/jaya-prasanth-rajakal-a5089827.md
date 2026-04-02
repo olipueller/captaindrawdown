@@ -1,7 +1,7 @@
 ---
 title: "Jaya Prasanth Rajakal"
 description: "Jaya Prasanth Rajakal is a Mid-career BECCS researcher at Sunway University in MY. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.295783
+date: 2026-04-02T07:03:26.820508
 url: "/cdr-researcher-census/researchers/jaya-prasanth-rajakal-a5089827/"
 layout: "researcher"
 hiddenInHomeList: true

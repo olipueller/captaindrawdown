@@ -1,7 +1,7 @@
 ---
 title: "Sooraj Mohan"
 description: "Sooraj Mohan is a Mid-career Biochar researcher at Manipal Academy of Higher Education in IN. With 34 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.405766
+date: 2026-04-02T07:03:24.045081
 url: "/cdr-researcher-census/researchers/sooraj-mohan-a5047845/"
 layout: "researcher"
 hiddenInHomeList: true

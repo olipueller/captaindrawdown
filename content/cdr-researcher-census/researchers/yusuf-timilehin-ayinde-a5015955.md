@@ -1,7 +1,7 @@
 ---
 title: "Yusuf Timilehin Ayinde"
 description: "Yusuf Timilehin Ayinde is an Early-career Biochar researcher at Federal University of Technology in NG. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.883856
+date: 2026-04-02T07:03:26.192206
 url: "/cdr-researcher-census/researchers/yusuf-timilehin-ayinde-a5015955/"
 layout: "researcher"
 hiddenInHomeList: true

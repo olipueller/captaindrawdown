@@ -1,7 +1,7 @@
 ---
 title: "Yanli Yang"
 description: "Yanli Yang is a Mid-career Soil Carbon researcher at Emory University in US. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.955859
+date: 2026-04-02T07:03:26.300708
 url: "/cdr-researcher-census/researchers/yanli-yang-a5102544/"
 layout: "researcher"
 hiddenInHomeList: true

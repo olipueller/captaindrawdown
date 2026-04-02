@@ -1,7 +1,7 @@
 ---
 title: "Yun‐Ya Yang"
 description: "Yun‐Ya Yang is a Senior Enhanced Weathering researcher at Alameda Hospital in US. With 40 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.278265
+date: 2026-04-02T07:03:23.880870
 url: "/cdr-researcher-census/researchers/yunya-yang-a5059875/"
 layout: "researcher"
 hiddenInHomeList: true

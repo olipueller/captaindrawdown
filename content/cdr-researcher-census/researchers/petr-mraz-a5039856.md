@@ -1,7 +1,7 @@
 ---
 title: "Petr Mráz"
 description: "Petr Mráz is a Mid-career Biochar researcher at University of Chemistry and Technology, Prague in CZ. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.383930
+date: 2026-04-02T07:03:25.463046
 url: "/cdr-researcher-census/researchers/petr-mraz-a5039856/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Terry Ayu Adriany"
 description: "Terry Ayu Adriany is a Mid-career Biochar researcher at Ministry of Agriculture in ID. With 24 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.696155
+date: 2026-04-02T07:03:25.953304
 url: "/cdr-researcher-census/researchers/terry-ayu-adriany-a5046012/"
 layout: "researcher"
 hiddenInHomeList: true

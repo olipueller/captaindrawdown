@@ -1,7 +1,7 @@
 ---
 title: "Mengdong Huang"
 description: "Mengdong Huang is a Mid-career General CDR researcher at Beijing Normal University in CN. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.049675
+date: 2026-04-02T07:03:24.980941
 url: "/cdr-researcher-census/researchers/mengdong-huang-a5112880/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Md. Nasirul Islam"
 description: "Md. Nasirul Islam is an Early-career General CDR researcher at University of Dhaka in BD. With 10 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.013444
+date: 2026-04-02T07:03:26.380419
 url: "/cdr-researcher-census/researchers/md-nasirul-islam-a5069158/"
 layout: "researcher"
 hiddenInHomeList: true

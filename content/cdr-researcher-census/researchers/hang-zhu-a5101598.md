@@ -1,7 +1,7 @@
 ---
 title: "Hang Zhu"
 description: "Hang Zhu is a Mid-career Biochar researcher at Ministry of Agriculture in PS. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.875037
+date: 2026-04-02T07:03:24.710804
 url: "/cdr-researcher-census/researchers/hang-zhu-a5101598/"
 layout: "researcher"
 hiddenInHomeList: true

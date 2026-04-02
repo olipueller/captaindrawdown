@@ -1,7 +1,7 @@
 ---
 title: "Michelangelo Becagli"
 description: "Michelangelo Becagli is a Mid-career Biochar researcher at University of Pisa in IT. With 23 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.501159
+date: 2026-04-02T07:03:25.661547
 url: "/cdr-researcher-census/researchers/michelangelo-becagli-a5018193/"
 layout: "researcher"
 hiddenInHomeList: true

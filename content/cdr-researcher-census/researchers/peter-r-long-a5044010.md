@@ -1,7 +1,7 @@
 ---
 title: "Peter R. Long"
 description: "Peter R. Long is a Senior Soil Carbon researcher at Oxford Brookes University in GB. With 38 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.289938
+date: 2026-04-02T07:03:23.896555
 url: "/cdr-researcher-census/researchers/peter-r-long-a5044010/"
 layout: "researcher"
 hiddenInHomeList: true

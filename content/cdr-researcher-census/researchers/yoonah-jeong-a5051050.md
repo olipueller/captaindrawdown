@@ -1,7 +1,7 @@
 ---
 title: "Yoonah Jeong"
 description: "Yoonah Jeong is a Mid-career Biochar researcher at Korea Institute of Civil Engineering and Building Technology in DE. With 35 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.760289
+date: 2026-04-02T07:03:24.555206
 url: "/cdr-researcher-census/researchers/yoonah-jeong-a5051050/"
 layout: "researcher"
 hiddenInHomeList: true

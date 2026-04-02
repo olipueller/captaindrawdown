@@ -1,7 +1,7 @@
 ---
 title: "Weiqin Yin"
 description: "Weiqin Yin is a Senior Soil Carbon researcher at Yangzhou University in CN. With 53 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.319726
+date: 2026-04-02T07:03:23.936012
 url: "/cdr-researcher-census/researchers/weiqin-yin-a5101093/"
 layout: "researcher"
 hiddenInHomeList: true

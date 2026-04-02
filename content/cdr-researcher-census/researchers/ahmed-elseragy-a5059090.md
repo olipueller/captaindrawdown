@@ -1,7 +1,7 @@
 ---
 title: "Ahmed Elseragy"
 description: "Ahmed Elseragy is a Senior General CDR researcher at British University in Egypt in EG. With 40 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.533102
+date: 2026-04-02T07:03:25.706600
 url: "/cdr-researcher-census/researchers/ahmed-elseragy-a5059090/"
 layout: "researcher"
 hiddenInHomeList: true

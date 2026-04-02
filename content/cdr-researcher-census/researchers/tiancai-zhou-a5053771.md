@@ -1,7 +1,7 @@
 ---
 title: "Tiancai Zhou"
 description: "Tiancai Zhou is a Mid-career Soil Carbon researcher at Ministry of Education of the People's Republic of China in CN. With 38 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.671484
+date: 2026-04-02T07:03:24.427825
 url: "/cdr-researcher-census/researchers/tiancai-zhou-a5053771/"
 layout: "researcher"
 hiddenInHomeList: true

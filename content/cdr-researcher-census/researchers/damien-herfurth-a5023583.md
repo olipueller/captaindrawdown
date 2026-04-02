@@ -1,7 +1,7 @@
 ---
 title: "Damien Herfurth"
 description: "Damien Herfurth is a Mid-career Soil Carbon researcher at École Polytechnique in FR. With 17 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.859957
+date: 2026-04-02T07:03:26.158129
 url: "/cdr-researcher-census/researchers/damien-herfurth-a5023583/"
 layout: "researcher"
 hiddenInHomeList: true

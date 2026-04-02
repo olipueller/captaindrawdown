@@ -1,7 +1,7 @@
 ---
 title: "Teresa Morganti"
 description: "Teresa Morganti is a Mid-career Ocean CDR researcher at Leibniz Institute for Baltic Sea Research Warnemünde in DE. With 35 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.790569
+date: 2026-04-02T07:03:24.596566
 url: "/cdr-researcher-census/researchers/teresa-morganti-a5058433/"
 layout: "researcher"
 hiddenInHomeList: true

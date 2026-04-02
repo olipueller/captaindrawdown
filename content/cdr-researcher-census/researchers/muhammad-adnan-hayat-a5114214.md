@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Adnan Hayat"
 description: "Muhammad Adnan Hayat is a Mid-career BECCS researcher. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.266661
+date: 2026-04-02T07:03:26.775876
 url: "/cdr-researcher-census/researchers/muhammad-adnan-hayat-a5114214/"
 layout: "researcher"
 hiddenInHomeList: true

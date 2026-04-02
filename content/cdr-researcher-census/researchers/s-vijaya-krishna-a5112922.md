@@ -1,7 +1,7 @@
 ---
 title: "S. Vijaya Krishna"
 description: "S. Vijaya Krishna is a Mid-career DAC researcher at Acharya Nagarjuna University in IN. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.928671
+date: 2026-04-02T07:03:24.795514
 url: "/cdr-researcher-census/researchers/s-vijaya-krishna-a5112922/"
 layout: "researcher"
 hiddenInHomeList: true

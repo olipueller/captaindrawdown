@@ -1,7 +1,7 @@
 ---
 title: "Samuel Eberenz"
 description: "Samuel Eberenz is a Mid-career General CDR researcher. With 22 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.336104
+date: 2026-04-02T07:03:25.391266
 url: "/cdr-researcher-census/researchers/samuel-eberenz-a5027440/"
 layout: "researcher"
 hiddenInHomeList: true

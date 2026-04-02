@@ -1,7 +1,7 @@
 ---
 title: "Ellen M. Briggs"
 description: "Ellen M. Briggs is a Mid-career General CDR researcher at Scripps Institution of Oceanography in US. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.119825
+date: 2026-04-02T07:03:25.084090
 url: "/cdr-researcher-census/researchers/ellen-m-briggs-a5000153/"
 layout: "researcher"
 hiddenInHomeList: true

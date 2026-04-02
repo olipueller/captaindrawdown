@@ -1,7 +1,7 @@
 ---
 title: "Ravi Prakash"
 description: "Ravi Prakash is a Mid-career carbon dioxide removal researcher at Texas A&M University in US. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.823274
+date: 2026-04-02T07:03:26.106280
 url: "/cdr-researcher-census/researchers/ravi-prakash-a5104051/"
 layout: "researcher"
 hiddenInHomeList: true

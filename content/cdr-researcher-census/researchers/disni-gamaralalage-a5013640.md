@@ -1,7 +1,7 @@
 ---
 title: "Disni Gamaralalage"
 description: "Disni Gamaralalage is a Mid-career General CDR researcher. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.968404
+date: 2026-04-02T07:03:26.319117
 url: "/cdr-researcher-census/researchers/disni-gamaralalage-a5013640/"
 layout: "researcher"
 hiddenInHomeList: true

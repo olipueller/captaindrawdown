@@ -1,7 +1,7 @@
 ---
 title: "Mingyu Yang"
 description: "Mingyu Yang is a Senior General CDR researcher at Nanjing University of Science and Technology in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.191373
+date: 2026-04-02T07:03:23.767067
 url: "/cdr-researcher-census/researchers/mingyu-yang-a5065699/"
 layout: "researcher"
 hiddenInHomeList: true

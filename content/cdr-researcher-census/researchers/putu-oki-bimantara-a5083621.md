@@ -1,7 +1,7 @@
 ---
 title: "Putu Oki Bimantara"
 description: "Putu Oki Bimantara is a Mid-career Soil Carbon researcher at Udayana University in ID. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.949789
+date: 2026-04-02T07:03:26.292075
 url: "/cdr-researcher-census/researchers/putu-oki-bimantara-a5083621/"
 layout: "researcher"
 hiddenInHomeList: true

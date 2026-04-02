@@ -1,7 +1,7 @@
 ---
 title: "Phongthep Hanpattanakit"
 description: "Phongthep Hanpattanakit is a Mid-career Soil Carbon researcher at Srinakharinwirot University in TH. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.137662
+date: 2026-04-02T07:03:26.564280
 url: "/cdr-researcher-census/researchers/phongthep-hanpattanakit-a5022954/"
 layout: "researcher"
 hiddenInHomeList: true

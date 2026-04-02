@@ -1,7 +1,7 @@
 ---
 title: "Yongzhen Ji"
 description: "Yongzhen Ji is a Senior General CDR researcher at Zhejiang A & F University in CN. With 57 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.632705
+date: 2026-04-02T07:03:24.365418
 url: "/cdr-researcher-census/researchers/yongzhen-ji-a5019050/"
 layout: "researcher"
 hiddenInHomeList: true

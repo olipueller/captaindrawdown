@@ -1,7 +1,7 @@
 ---
 title: "Xinggang Tang"
 description: "Xinggang Tang is a Mid-career Enhanced Weathering researcher at Ministry of Natural Resources in CN. With 18 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.752067
+date: 2026-04-02T07:03:24.541999
 url: "/cdr-researcher-census/researchers/xinggang-tang-a5003075/"
 layout: "researcher"
 hiddenInHomeList: true

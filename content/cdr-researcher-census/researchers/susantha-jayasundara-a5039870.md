@@ -1,7 +1,7 @@
 ---
 title: "Susantha Jayasundara"
 description: "Susantha Jayasundara is a Senior Soil Carbon researcher at University of Guelph in CA. With 30 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.308678
+date: 2026-04-02T07:03:23.921237
 url: "/cdr-researcher-census/researchers/susantha-jayasundara-a5039870/"
 layout: "researcher"
 hiddenInHomeList: true

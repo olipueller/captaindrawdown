@@ -1,7 +1,7 @@
 ---
 title: "Shane Lawson"
 description: "Shane Lawson is a Senior DAC researcher at Donaldson (United States) in US. With 47 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.209099
+date: 2026-04-02T07:03:23.788705
 url: "/cdr-researcher-census/researchers/shane-lawson-a5050799/"
 layout: "researcher"
 hiddenInHomeList: true

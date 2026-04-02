@@ -1,7 +1,7 @@
 ---
 title: "Weiguo Ma"
 description: "Weiguo Ma is a Mid-career carbon dioxide removal researcher at National Research Council Canada in CA. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.385054
+date: 2026-04-02T07:03:26.945850
 url: "/cdr-researcher-census/researchers/weiguo-ma-a5034536/"
 layout: "researcher"
 hiddenInHomeList: true

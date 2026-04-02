@@ -1,7 +1,7 @@
 ---
 title: "John H. Jacobs"
 description: "John H. Jacobs is a Mid-career carbon dioxide removal researcher at University of Calgary in CA. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.102060
+date: 2026-04-02T07:03:26.508254
 url: "/cdr-researcher-census/researchers/john-h-jacobs-a5083730/"
 layout: "researcher"
 hiddenInHomeList: true

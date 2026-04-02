@@ -1,7 +1,7 @@
 ---
 title: "Moritz Wagner"
 description: "Moritz Wagner is a Senior General CDR researcher at German-Russian Interdisciplinary Science Center in DE. With 46 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.321540
+date: 2026-04-02T07:03:23.938384
 url: "/cdr-researcher-census/researchers/moritz-wagner-a5082155/"
 layout: "researcher"
 hiddenInHomeList: true

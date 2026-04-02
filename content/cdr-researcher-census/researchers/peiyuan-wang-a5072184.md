@@ -1,7 +1,7 @@
 ---
 title: "Peiyuan Wang"
 description: "Peiyuan Wang is an Early-career Soil Carbon researcher at Ningxia Water Conservancy in CN. With 3 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.979625
+date: 2026-04-02T07:03:26.330067
 url: "/cdr-researcher-census/researchers/peiyuan-wang-a5072184/"
 layout: "researcher"
 hiddenInHomeList: true

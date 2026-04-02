@@ -1,7 +1,7 @@
 ---
 title: "Dongjie Hu"
 description: "Dongjie Hu is a Mid-career Biochar researcher at Liaoning Technical University in CN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.525433
+date: 2026-04-02T07:03:25.695794
 url: "/cdr-researcher-census/researchers/dongjie-hu-a5084961/"
 layout: "researcher"
 hiddenInHomeList: true

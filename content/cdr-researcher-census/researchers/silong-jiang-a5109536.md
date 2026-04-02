@@ -1,7 +1,7 @@
 ---
 title: "Silong Jiang"
 description: "Silong Jiang is a Mid-career Soil Carbon researcher at Lanzhou University in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.334494
+date: 2026-04-02T07:03:25.389180
 url: "/cdr-researcher-census/researchers/silong-jiang-a5109536/"
 layout: "researcher"
 hiddenInHomeList: true

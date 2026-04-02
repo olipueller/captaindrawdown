@@ -1,7 +1,7 @@
 ---
 title: "Kathrin Ward"
 description: "Kathrin Ward is a Mid-career carbon dioxide removal researcher at Helmholtz Centre Potsdam - GFZ German Research Centre for Geosciences in DE. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.451479
+date: 2026-04-02T07:03:24.106719
 url: "/cdr-researcher-census/researchers/kathrin-ward-a5074016/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Anežka Borčinová Radková"
 description: "Anežka Borčinová Radková is a Mid-career Enhanced Weathering researcher at Queen's University in CA. With 21 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.346324
+date: 2026-04-02T07:03:25.405359
 url: "/cdr-researcher-census/researchers/anezka-borcinova-radkova-a5037816/"
 layout: "researcher"
 hiddenInHomeList: true

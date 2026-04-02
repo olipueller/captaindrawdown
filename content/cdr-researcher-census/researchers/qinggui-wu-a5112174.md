@@ -1,7 +1,7 @@
 ---
 title: "Qinggui Wu"
 description: "Qinggui Wu is a Mid-career Soil Carbon researcher at Mianyang Normal University in CN. With 43 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.969166
+date: 2026-04-02T07:03:24.861278
 url: "/cdr-researcher-census/researchers/qinggui-wu-a5112174/"
 layout: "researcher"
 hiddenInHomeList: true

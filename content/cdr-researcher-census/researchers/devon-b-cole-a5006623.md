@@ -1,7 +1,7 @@
 ---
 title: "Devon B. Cole"
 description: "Devon B. Cole is a Senior Enhanced Weathering researcher at Montclair State University in US. With 57 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.237832
+date: 2026-04-02T07:03:23.822402
 url: "/cdr-researcher-census/researchers/devon-b-cole-a5006623/"
 layout: "researcher"
 hiddenInHomeList: true

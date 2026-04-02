@@ -1,7 +1,7 @@
 ---
 title: "Chunfang Chao"
 description: "Chunfang Chao is a Senior Biochar researcher at Tianjin University in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.539966
+date: 2026-04-02T07:03:25.716689
 url: "/cdr-researcher-census/researchers/chunfang-chao-a5022446/"
 layout: "researcher"
 hiddenInHomeList: true

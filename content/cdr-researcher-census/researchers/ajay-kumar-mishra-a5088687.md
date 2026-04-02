@@ -1,7 +1,7 @@
 ---
 title: "Ajay Kumar Mishra"
 description: "Ajay Kumar Mishra is a Senior Soil Carbon researcher at International Rice Research Institute in IN. With 124 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.361963
+date: 2026-04-02T07:03:23.994217
 url: "/cdr-researcher-census/researchers/ajay-kumar-mishra-a5088687/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yunlan Guan"
 description: "Yunlan Guan is a Senior carbon dioxide removal researcher at Ministry of Natural Resources in CN. With 20 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.605338
+date: 2026-04-02T07:03:25.812833
 url: "/cdr-researcher-census/researchers/yunlan-guan-a5014401/"
 layout: "researcher"
 hiddenInHomeList: true

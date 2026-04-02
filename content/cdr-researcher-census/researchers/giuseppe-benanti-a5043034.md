@@ -1,7 +1,7 @@
 ---
 title: "Giuseppe Benanti"
 description: "Giuseppe Benanti is a Mid-career Soil Carbon researcher at University College Dublin in IE. With 11 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.222600
+date: 2026-04-02T07:03:25.235637
 url: "/cdr-researcher-census/researchers/giuseppe-benanti-a5043034/"
 layout: "researcher"
 hiddenInHomeList: true

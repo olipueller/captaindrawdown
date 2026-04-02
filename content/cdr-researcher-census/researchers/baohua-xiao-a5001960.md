@@ -1,7 +1,7 @@
 ---
 title: "Baohua Xiao"
 description: "Baohua Xiao is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 54 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.323970
+date: 2026-04-02T07:03:23.941743
 url: "/cdr-researcher-census/researchers/baohua-xiao-a5001960/"
 layout: "researcher"
 hiddenInHomeList: true

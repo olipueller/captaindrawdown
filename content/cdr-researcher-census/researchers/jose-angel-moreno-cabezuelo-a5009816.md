@@ -1,7 +1,7 @@
 ---
 title: "José Ángel Moreno-Cabezuelo"
 description: "José Ángel Moreno-Cabezuelo is a Mid-career BECCS researcher at University of East Anglia in GB. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.586739
+date: 2026-04-02T07:03:25.785679
 url: "/cdr-researcher-census/researchers/jose-angel-moreno-cabezuelo-a5009816/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Muqier Hasi"
 description: "Muqier Hasi is a Mid-career Soil Carbon researcher at Inner Mongolia Agricultural University in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.781314
+date: 2026-04-02T07:03:26.045363
 url: "/cdr-researcher-census/researchers/muqier-hasi-a5047428/"
 layout: "researcher"
 hiddenInHomeList: true

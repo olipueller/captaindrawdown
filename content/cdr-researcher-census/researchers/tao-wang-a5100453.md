@@ -1,7 +1,7 @@
 ---
 title: "Tao Wang"
 description: "Tao Wang is a Mid-career General CDR researcher at Northeast Forestry University in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.262645
+date: 2026-04-02T07:03:26.768338
 url: "/cdr-researcher-census/researchers/tao-wang-a5100453/"
 layout: "researcher"
 hiddenInHomeList: true

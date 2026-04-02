@@ -1,7 +1,7 @@
 ---
 title: "Wenhui Zheng"
 description: "Wenhui Zheng is a Mid-career carbon dioxide removal researcher at Chinese Academy of Sciences in CN. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.499112
+date: 2026-04-02T07:03:25.658672
 url: "/cdr-researcher-census/researchers/wenhui-zheng-a5103219/"
 layout: "researcher"
 hiddenInHomeList: true

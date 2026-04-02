@@ -1,7 +1,7 @@
 ---
 title: "Eloise Mello Viana de Moraes"
 description: "Eloise Mello Viana de Moraes is a Senior Soil Carbon researcher at Universidade Federal de Mato Grosso do Sul in BR. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.273968
+date: 2026-04-02T07:03:26.787609
 url: "/cdr-researcher-census/researchers/eloise-mello-viana-de-moraes-a5015697/"
 layout: "researcher"
 hiddenInHomeList: true

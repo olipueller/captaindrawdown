@@ -1,7 +1,7 @@
 ---
 title: "Per-Anders Hansson"
 description: "Per-Anders Hansson is a Mid-career BECCS researcher at Swedish University of Agricultural Sciences in SE. With 7 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.895467
+date: 2026-04-02T07:03:24.743332
 url: "/cdr-researcher-census/researchers/per-anders-hansson-a5110526/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Manendra Singh"
 description: "Manendra Singh is an Early-career General CDR researcher at North Bengal Agricultural University in IN. With 27 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.248329
+date: 2026-04-02T07:03:26.746664
 url: "/cdr-researcher-census/researchers/manendra-singh-a5025293/"
 layout: "researcher"
 hiddenInHomeList: true

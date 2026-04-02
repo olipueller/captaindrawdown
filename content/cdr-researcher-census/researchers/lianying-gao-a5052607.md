@@ -1,7 +1,7 @@
 ---
 title: "Lianying Gao"
 description: "Lianying Gao is a Senior Ocean CDR researcher at Tongji University in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.648284
+date: 2026-04-02T07:03:24.388445
 url: "/cdr-researcher-census/researchers/lianying-gao-a5052607/"
 layout: "researcher"
 hiddenInHomeList: true

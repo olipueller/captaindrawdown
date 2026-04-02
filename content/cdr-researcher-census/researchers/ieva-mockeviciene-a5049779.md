@@ -1,7 +1,7 @@
 ---
 title: "Ieva Mockevičienė"
 description: "Ieva Mockevičienė is a Mid-career Soil Carbon researcher at Lithuanian Research Centre for Agriculture and Forestry in LT. With 24 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.768109
+date: 2026-04-02T07:03:26.026660
 url: "/cdr-researcher-census/researchers/ieva-mockeviciene-a5049779/"
 layout: "researcher"
 hiddenInHomeList: true

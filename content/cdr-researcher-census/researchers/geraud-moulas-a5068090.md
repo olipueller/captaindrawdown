@@ -1,7 +1,7 @@
 ---
 title: "Géraud Moulas"
 description: "Géraud Moulas is a Senior General CDR researcher at Arttic (France) in FR. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.065073
+date: 2026-04-02T07:03:25.004497
 url: "/cdr-researcher-census/researchers/geraud-moulas-a5068090/"
 layout: "researcher"
 hiddenInHomeList: true

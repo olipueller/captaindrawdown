@@ -1,7 +1,7 @@
 ---
 title: "Gary M. Hawkins"
 description: "Gary M. Hawkins is a Senior General CDR researcher at University of Georgia in US. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.764401
+date: 2026-04-02T07:03:26.021078
 url: "/cdr-researcher-census/researchers/gary-m-hawkins-a5006994/"
 layout: "researcher"
 hiddenInHomeList: true

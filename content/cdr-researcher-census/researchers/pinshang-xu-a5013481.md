@@ -1,7 +1,7 @@
 ---
 title: "Pinshang Xu"
 description: "Pinshang Xu is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 22 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.544844
+date: 2026-04-02T07:03:24.241011
 url: "/cdr-researcher-census/researchers/pinshang-xu-a5013481/"
 layout: "researcher"
 hiddenInHomeList: true

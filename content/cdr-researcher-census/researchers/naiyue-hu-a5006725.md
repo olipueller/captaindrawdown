@@ -1,7 +1,7 @@
 ---
 title: "Naiyue Hu"
 description: "Naiyue Hu is a Mid-career carbon dioxide removal researcher at Henan Agricultural University in CN. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.262286
+date: 2026-04-02T07:03:25.289367
 url: "/cdr-researcher-census/researchers/naiyue-hu-a5006725/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Saskia Pagella"
 description: "Saskia Pagella is a Mid-career Soil Carbon researcher at Bangor University in GB. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.390923
+date: 2026-04-02T07:03:26.954120
 url: "/cdr-researcher-census/researchers/saskia-pagella-a5066946/"
 layout: "researcher"
 hiddenInHomeList: true

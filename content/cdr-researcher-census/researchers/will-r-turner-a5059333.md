@@ -1,7 +1,7 @@
 ---
 title: "Will R. Turner"
 description: "Will R. Turner is a Senior Enhanced Weathering researcher at Conservation International in US. With 98 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.107283
+date: 2026-04-02T07:03:23.656368
 url: "/cdr-researcher-census/researchers/will-r-turner-a5059333/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Shimao Deng"
 description: "Shimao Deng is a Mid-career carbon dioxide removal researcher at Eastern Institute of Technology in NZ. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.206913
+date: 2026-04-02T07:03:25.209331
 url: "/cdr-researcher-census/researchers/shimao-deng-a5115594/"
 layout: "researcher"
 hiddenInHomeList: true

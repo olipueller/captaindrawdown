@@ -1,7 +1,7 @@
 ---
 title: "Maithili Khapre"
 description: "Maithili Khapre is a Mid-career Biochar researcher at Yashwantrao Chavan Maharashtra Open University in IN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.297125
+date: 2026-04-02T07:03:25.338295
 url: "/cdr-researcher-census/researchers/maithili-khapre-a5006020/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jiali Leng"
 description: "Jiali Leng is a Senior carbon dioxide removal researcher at Shenzhen University in CN. With 24 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.580368
+date: 2026-04-02T07:03:25.775386
 url: "/cdr-researcher-census/researchers/jiali-leng-a5029377/"
 layout: "researcher"
 hiddenInHomeList: true

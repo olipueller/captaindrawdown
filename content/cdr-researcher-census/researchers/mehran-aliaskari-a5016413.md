@@ -1,7 +1,7 @@
 ---
 title: "Mehran Aliaskari"
 description: "Mehran Aliaskari is a Mid-career Ocean CDR researcher at DVGW-Forschungsstelle am Engler-Bunte-Institut des Karlsruher Instituts für Technologie in DE. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.159293
+date: 2026-04-02T07:03:25.141622
 url: "/cdr-researcher-census/researchers/mehran-aliaskari-a5016413/"
 layout: "researcher"
 hiddenInHomeList: true

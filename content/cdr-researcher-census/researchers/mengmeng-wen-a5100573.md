@@ -1,7 +1,7 @@
 ---
 title: "Mengmeng Wen"
 description: "Mengmeng Wen is a Mid-career Soil Carbon researcher at Northwest University in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.964782
+date: 2026-04-02T07:03:26.313798
 url: "/cdr-researcher-census/researchers/mengmeng-wen-a5100573/"
 layout: "researcher"
 hiddenInHomeList: true

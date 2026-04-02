@@ -1,7 +1,7 @@
 ---
 title: "Carlos Vega-Ortíz"
 description: "Carlos Vega-Ortíz is a Mid-career DAC researcher at Geoscience Australia in AU. With 28 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.425870
+date: 2026-04-02T07:03:27.005238
 url: "/cdr-researcher-census/researchers/carlos-vega-ortiz-a5063550/"
 layout: "researcher"
 hiddenInHomeList: true

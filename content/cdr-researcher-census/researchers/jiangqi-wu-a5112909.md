@@ -1,7 +1,7 @@
 ---
 title: "Jiangqi Wu"
 description: "Jiangqi Wu is a Mid-career Soil Carbon researcher at Gansu Agricultural University in CN. With 35 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.529843
+date: 2026-04-02T07:03:24.215326
 url: "/cdr-researcher-census/researchers/jiangqi-wu-a5112909/"
 layout: "researcher"
 hiddenInHomeList: true

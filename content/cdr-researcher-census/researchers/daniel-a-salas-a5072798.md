@@ -1,7 +1,7 @@
 ---
 title: "Daniel A. Salas"
 description: "Daniel A. Salas is a Senior BECCS researcher at Escuela Superior Politecnica del Litoral in EC. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.570831
+date: 2026-04-02T07:03:24.277739
 url: "/cdr-researcher-census/researchers/daniel-a-salas-a5072798/"
 layout: "researcher"
 hiddenInHomeList: true

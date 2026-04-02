@@ -1,7 +1,7 @@
 ---
 title: "PV Aravind"
 description: "PV Aravind is a Senior Biochar researcher at University of Groningen in NL. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.716123
+date: 2026-04-02T07:03:25.985465
 url: "/cdr-researcher-census/researchers/pv-aravind-a5102422/"
 layout: "researcher"
 hiddenInHomeList: true

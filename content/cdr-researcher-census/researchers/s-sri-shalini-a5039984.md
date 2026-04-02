@@ -1,7 +1,7 @@
 ---
 title: "S. Sri Shalini"
 description: "S. Sri Shalini is a Senior Biochar researcher at Polytechnic Institute of Coimbra in PT. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.153575
+date: 2026-04-02T07:03:25.133512
 url: "/cdr-researcher-census/researchers/s-sri-shalini-a5039984/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Purbasha Mistry"
 description: "Purbasha Mistry is a Mid-career Soil Carbon researcher at University of Saskatchewan in CA. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.089357
+date: 2026-04-02T07:03:26.491735
 url: "/cdr-researcher-census/researchers/purbasha-mistry-a5072236/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Farhan Iftikhar"
 description: "Farhan Iftikhar is an Early-career General CDR researcher. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.263856
+date: 2026-04-02T07:03:26.770518
 url: "/cdr-researcher-census/researchers/farhan-iftikhar-a5081022/"
 layout: "researcher"
 hiddenInHomeList: true

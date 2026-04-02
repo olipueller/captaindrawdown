@@ -1,7 +1,7 @@
 ---
 title: "David Casini"
 description: "David Casini is a Senior Biochar researcher at University of Florence in IT. With 33 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.545939
+date: 2026-04-02T07:03:24.242572
 url: "/cdr-researcher-census/researchers/david-casini-a5015905/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Tingliang Li"
 description: "Tingliang Li is a Mid-career Soil Carbon researcher at Shanxi Agricultural University in CN. With 49 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.854748
+date: 2026-04-02T07:03:24.681698
 url: "/cdr-researcher-census/researchers/tingliang-li-a5043703/"
 layout: "researcher"
 hiddenInHomeList: true

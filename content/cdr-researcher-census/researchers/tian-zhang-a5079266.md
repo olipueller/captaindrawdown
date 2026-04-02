@@ -1,7 +1,7 @@
 ---
 title: "Tian Zhang"
 description: "Tian Zhang is a Mid-career Soil Carbon researcher at Yuncheng University in CN. With 32 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.756025
+date: 2026-04-02T07:03:24.548684
 url: "/cdr-researcher-census/researchers/tian-zhang-a5079266/"
 layout: "researcher"
 hiddenInHomeList: true

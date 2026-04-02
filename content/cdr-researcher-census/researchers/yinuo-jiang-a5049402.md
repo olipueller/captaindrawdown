@@ -1,7 +1,7 @@
 ---
 title: "Yinuo Jiang"
 description: "Yinuo Jiang is a Mid-career carbon dioxide removal researcher at Zhejiang University of Science and Technology in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.861597
+date: 2026-04-02T07:03:26.160077
 url: "/cdr-researcher-census/researchers/yinuo-jiang-a5049402/"
 layout: "researcher"
 hiddenInHomeList: true

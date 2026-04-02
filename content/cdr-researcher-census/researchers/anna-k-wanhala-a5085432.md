@@ -1,7 +1,7 @@
 ---
 title: "Anna K. Wanhala"
 description: "Anna K. Wanhala is a Mid-career carbon dioxide removal researcher at University of Chicago in US. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.694014
+date: 2026-04-02T07:03:25.949613
 url: "/cdr-researcher-census/researchers/anna-k-wanhala-a5085432/"
 layout: "researcher"
 hiddenInHomeList: true

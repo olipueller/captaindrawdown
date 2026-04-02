@@ -1,7 +1,7 @@
 ---
 title: "Caroline Siqueira Gomide"
 description: "Caroline Siqueira Gomide is a Senior Enhanced Weathering researcher at National Council for Scientific and Technological Development in BR. With 19 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.340673
+date: 2026-04-02T07:03:26.881395
 url: "/cdr-researcher-census/researchers/caroline-siqueira-gomide-a5083610/"
 layout: "researcher"
 hiddenInHomeList: true

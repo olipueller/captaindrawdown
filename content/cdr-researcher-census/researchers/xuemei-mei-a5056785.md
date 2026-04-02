@@ -1,7 +1,7 @@
 ---
 title: "Xuemei Mei"
 description: "Xuemei Mei is a Mid-career Soil Carbon researcher at Beijing Forestry University in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.384870
+date: 2026-04-02T07:03:25.464204
 url: "/cdr-researcher-census/researchers/xuemei-mei-a5056785/"
 layout: "researcher"
 hiddenInHomeList: true

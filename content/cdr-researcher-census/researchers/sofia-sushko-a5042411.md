@@ -1,7 +1,7 @@
 ---
 title: "Sofia Sushko"
 description: "Sofia Sushko is a Mid-career Soil Carbon researcher at Institute of Physical-Chemical and Biological Problems in Soil Science in RU. With 37 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.183073
+date: 2026-04-02T07:03:25.175003
 url: "/cdr-researcher-census/researchers/sofia-sushko-a5042411/"
 layout: "researcher"
 hiddenInHomeList: true

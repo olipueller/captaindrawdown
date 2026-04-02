@@ -1,7 +1,7 @@
 ---
 title: "Jiaheng Shen"
 description: "Jiaheng Shen is a Mid-career Ocean CDR researcher at Peking University in CN. With 11 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.311180
+date: 2026-04-02T07:03:26.844744
 url: "/cdr-researcher-census/researchers/jiaheng-shen-a5032302/"
 layout: "researcher"
 hiddenInHomeList: true

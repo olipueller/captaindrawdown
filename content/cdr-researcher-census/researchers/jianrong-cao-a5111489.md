@@ -1,7 +1,7 @@
 ---
 title: "Jianrong Cao"
 description: "Jianrong Cao is a Senior carbon dioxide removal researcher at Liaocheng University in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.967642
+date: 2026-04-02T07:03:26.318014
 url: "/cdr-researcher-census/researchers/jianrong-cao-a5111489/"
 layout: "researcher"
 hiddenInHomeList: true

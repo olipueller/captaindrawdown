@@ -1,7 +1,7 @@
 ---
 title: "Maru Ali"
 description: "Maru Ali is a Mid-career Biochar researcher at University of Ghana in GH. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.199808
+date: 2026-04-02T07:03:26.679562
 url: "/cdr-researcher-census/researchers/maru-ali-a5043389/"
 layout: "researcher"
 hiddenInHomeList: true

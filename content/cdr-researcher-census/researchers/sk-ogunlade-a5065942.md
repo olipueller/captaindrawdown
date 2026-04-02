@@ -1,7 +1,7 @@
 ---
 title: "S.K. Ogunlade"
 description: "S.K. Ogunlade is an Early-career General CDR researcher at Covenant University in NG. With 1 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.296524
+date: 2026-04-02T07:03:26.821421
 url: "/cdr-researcher-census/researchers/sk-ogunlade-a5065942/"
 layout: "researcher"
 hiddenInHomeList: true

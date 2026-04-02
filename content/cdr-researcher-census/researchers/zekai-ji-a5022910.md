@@ -1,7 +1,7 @@
 ---
 title: "Zekai Ji"
 description: "Zekai Ji is an Early-career carbon dioxide removal researcher at National University of Singapore in SG. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.051776
+date: 2026-04-02T07:03:26.440032
 url: "/cdr-researcher-census/researchers/zekai-ji-a5022910/"
 layout: "researcher"
 hiddenInHomeList: true

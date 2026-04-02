@@ -1,7 +1,7 @@
 ---
 title: "Jan Willem van Groenigen"
 description: "Jan Willem van Groenigen is an Eminent Enhanced Weathering researcher in GB. With 257 publications and an h-index of 64, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.081643
+date: 2026-04-02T07:03:23.624888
 url: "/cdr-researcher-census/researchers/jan-willem-van-groenigen-a5048230/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Wan-Tao Zhang"
 description: "Wan-Tao Zhang is a Mid-career Soil Carbon researcher at Institute of Soil and Water Conservation in CN. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.080141
+date: 2026-04-02T07:03:26.478999
 url: "/cdr-researcher-census/researchers/wan-tao-zhang-a5090312/"
 layout: "researcher"
 hiddenInHomeList: true

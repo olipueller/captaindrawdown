@@ -1,7 +1,7 @@
 ---
 title: "Shiming Tang"
 description: "Shiming Tang is a Senior Soil Carbon researcher at Institute of Grassland Research in CN. With 57 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.531899
+date: 2026-04-02T07:03:24.219229
 url: "/cdr-researcher-census/researchers/shiming-tang-a5029286/"
 layout: "researcher"
 hiddenInHomeList: true

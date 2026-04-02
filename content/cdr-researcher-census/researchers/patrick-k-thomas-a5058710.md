@@ -1,7 +1,7 @@
 ---
 title: "Patrick K. Thomas"
 description: "Patrick K. Thomas is a Mid-career DAC researcher at Montana State University in US. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.191777
+date: 2026-04-02T07:03:25.188107
 url: "/cdr-researcher-census/researchers/patrick-k-thomas-a5058710/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Rune Holmstad"
 description: "Rune Holmstad is a Senior Biochar researcher at University of Maiduguri in NG. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.301377
+date: 2026-04-02T07:03:23.911913
 url: "/cdr-researcher-census/researchers/rune-holmstad-a5087307/"
 layout: "researcher"
 hiddenInHomeList: true

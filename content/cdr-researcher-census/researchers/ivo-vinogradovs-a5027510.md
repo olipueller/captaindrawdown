@@ -1,7 +1,7 @@
 ---
 title: "Ivo Vinogradovs"
 description: "Ivo Vinogradovs is a Mid-career Soil Carbon researcher at Vidzeme University of Applied Sciences in LV. With 26 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.116021
+date: 2026-04-02T07:03:26.529274
 url: "/cdr-researcher-census/researchers/ivo-vinogradovs-a5027510/"
 layout: "researcher"
 hiddenInHomeList: true

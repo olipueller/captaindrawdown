@@ -1,7 +1,7 @@
 ---
 title: "Qingfeng Cao"
 description: "Qingfeng Cao is a Mid-career carbon dioxide removal researcher in GB. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.615696
+date: 2026-04-02T07:03:25.829442
 url: "/cdr-researcher-census/researchers/qingfeng-cao-a5054265/"
 layout: "researcher"
 hiddenInHomeList: true

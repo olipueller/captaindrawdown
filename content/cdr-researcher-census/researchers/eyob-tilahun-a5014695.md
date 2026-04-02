@@ -1,7 +1,7 @@
 ---
 title: "Eyob Tilahun"
 description: "Eyob Tilahun is a Mid-career Soil Carbon researcher at Mekelle University in ET. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.129417
+date: 2026-04-02T07:03:26.548551
 url: "/cdr-researcher-census/researchers/eyob-tilahun-a5014695/"
 layout: "researcher"
 hiddenInHomeList: true

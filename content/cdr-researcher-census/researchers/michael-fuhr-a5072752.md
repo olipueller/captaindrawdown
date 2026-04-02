@@ -1,7 +1,7 @@
 ---
 title: "Michael Fuhr"
 description: "Michael Fuhr is a Mid-career Enhanced Weathering researcher at GEOMAR Helmholtz Centre for Ocean Research Kiel in DE. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.064642
+date: 2026-04-02T07:03:25.003846
 url: "/cdr-researcher-census/researchers/michael-fuhr-a5072752/"
 layout: "researcher"
 hiddenInHomeList: true

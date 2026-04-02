@@ -1,7 +1,7 @@
 ---
 title: "Guillermo Siri−Prieto"
 description: "Guillermo Siri−Prieto is a Senior carbon dioxide removal researcher at Universidad de la República de Uruguay in UY. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.968344
+date: 2026-04-02T07:03:24.860114
 url: "/cdr-researcher-census/researchers/guillermo-siriprieto-a5004060/"
 layout: "researcher"
 hiddenInHomeList: true

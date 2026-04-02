@@ -1,7 +1,7 @@
 ---
 title: "Emanuele Mancosu"
 description: "Emanuele Mancosu is a Mid-career General CDR researcher at Universidad de Málaga in ES. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.209041
+date: 2026-04-02T07:03:26.691758
 url: "/cdr-researcher-census/researchers/emanuele-mancosu-a5061263/"
 layout: "researcher"
 hiddenInHomeList: true

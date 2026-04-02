@@ -1,7 +1,7 @@
 ---
 title: "Mirco Barbero"
 description: "Mirco Barbero is an Early-career General CDR researcher at European Commission in BE. With 2 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.054210
+date: 2026-04-02T07:03:26.444342
 url: "/cdr-researcher-census/researchers/mirco-barbero-a5046944/"
 layout: "researcher"
 hiddenInHomeList: true

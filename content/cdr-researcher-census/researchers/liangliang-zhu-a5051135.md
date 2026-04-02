@@ -1,7 +1,7 @@
 ---
 title: "Liangliang Zhu"
 description: "Liangliang Zhu is a Senior Biochar researcher at Northwest University in CN. With 115 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.357323
+date: 2026-04-02T07:03:23.987954
 url: "/cdr-researcher-census/researchers/liangliang-zhu-a5051135/"
 layout: "researcher"
 hiddenInHomeList: true

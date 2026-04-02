@@ -1,7 +1,7 @@
 ---
 title: "Iris Lin"
 description: "Iris Lin is a Mid-career carbon dioxide removal researcher at Columbia University in US. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.343153
+date: 2026-04-02T07:03:26.885601
 url: "/cdr-researcher-census/researchers/iris-lin-a5103536/"
 layout: "researcher"
 hiddenInHomeList: true

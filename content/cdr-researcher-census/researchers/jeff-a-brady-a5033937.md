@@ -1,7 +1,7 @@
 ---
 title: "Jeff A. Brady"
 description: "Jeff A. Brady is a Senior Soil Carbon researcher at STAR Council in US. With 61 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.370125
+date: 2026-04-02T07:03:24.004986
 url: "/cdr-researcher-census/researchers/jeff-a-brady-a5033937/"
 layout: "researcher"
 hiddenInHomeList: true

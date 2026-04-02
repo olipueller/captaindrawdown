@@ -1,7 +1,7 @@
 ---
 title: "Junzhe Song"
 description: "Junzhe Song is a Mid-career carbon dioxide removal researcher at Chinese Academy of Sciences in CN. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.243992
+date: 2026-04-02T07:03:26.740768
 url: "/cdr-researcher-census/researchers/junzhe-song-a5111299/"
 layout: "researcher"
 hiddenInHomeList: true

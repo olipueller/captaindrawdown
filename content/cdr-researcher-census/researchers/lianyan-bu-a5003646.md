@@ -1,7 +1,7 @@
 ---
 title: "Lianyan Bu"
 description: "Lianyan Bu is a Mid-career carbon dioxide removal researcher at Chinese Academy of Tropical Agricultural Sciences in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.793113
+date: 2026-04-02T07:03:26.062142
 url: "/cdr-researcher-census/researchers/lianyan-bu-a5003646/"
 layout: "researcher"
 hiddenInHomeList: true

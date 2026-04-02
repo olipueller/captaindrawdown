@@ -1,7 +1,7 @@
 ---
 title: "Yanyan Zhang"
 description: "Yanyan Zhang is a Mid-career Soil Carbon researcher at Westlake University in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.090956
+date: 2026-04-02T07:03:26.494087
 url: "/cdr-researcher-census/researchers/yanyan-zhang-a5066605/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Hotoun I. Thawibaraka"
 description: "Hotoun I. Thawibaraka is an Early-career carbon dioxide removal researcher at Princess Nourah bint Abdulrahman University in SA. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.150930
+date: 2026-04-02T07:03:26.587413
 url: "/cdr-researcher-census/researchers/hotoun-i-thawibaraka-a5031082/"
 layout: "researcher"
 hiddenInHomeList: true

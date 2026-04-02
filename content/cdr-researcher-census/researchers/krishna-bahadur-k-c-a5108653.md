@@ -1,7 +1,7 @@
 ---
 title: "Krishna Bahadur K. C."
 description: "Krishna Bahadur K. C. is a Senior Soil Carbon researcher at University of Colombo in LK. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.499515
+date: 2026-04-02T07:03:25.659203
 url: "/cdr-researcher-census/researchers/krishna-bahadur-k-c-a5108653/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yalan Chen"
 description: "Yalan Chen is a Senior Biochar researcher at Beijing Normal University in CN. With 73 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.305266
+date: 2026-04-02T07:03:23.916871
 url: "/cdr-researcher-census/researchers/yalan-chen-a5007453/"
 layout: "researcher"
 hiddenInHomeList: true

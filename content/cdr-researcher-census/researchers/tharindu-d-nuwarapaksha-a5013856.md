@@ -1,7 +1,7 @@
 ---
 title: "Tharindu D. Nuwarapaksha"
 description: "Tharindu D. Nuwarapaksha is a Mid-career Soil Carbon researcher at Coconut Research Institute in LK. With 48 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.868849
+date: 2026-04-02T07:03:24.702137
 url: "/cdr-researcher-census/researchers/tharindu-d-nuwarapaksha-a5013856/"
 layout: "researcher"
 hiddenInHomeList: true

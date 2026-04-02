@@ -1,7 +1,7 @@
 ---
 title: "David G. Kwabi"
 description: "David G. Kwabi is a Senior Ocean CDR researcher at University of Michigan in US. With 81 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.134140
+date: 2026-04-02T07:03:23.687536
 url: "/cdr-researcher-census/researchers/david-g-kwabi-a5012333/"
 layout: "researcher"
 hiddenInHomeList: true

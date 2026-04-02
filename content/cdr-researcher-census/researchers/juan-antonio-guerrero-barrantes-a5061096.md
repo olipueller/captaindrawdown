@@ -1,7 +1,7 @@
 ---
 title: "Juan Antonio Guerrero Barrantes"
 description: "Juan Antonio Guerrero Barrantes is a Mid-career Soil Carbon researcher at National Agrarian University in PE. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.312043
+date: 2026-04-02T07:03:26.845958
 url: "/cdr-researcher-census/researchers/juan-antonio-guerrero-barrantes-a5061096/"
 layout: "researcher"
 hiddenInHomeList: true

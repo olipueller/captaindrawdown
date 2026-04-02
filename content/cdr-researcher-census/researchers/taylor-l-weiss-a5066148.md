@@ -1,7 +1,7 @@
 ---
 title: "Taylor L. Weiss"
 description: "Taylor L. Weiss is a Senior DAC researcher at Arizona State University - Polytechnic Campus in US. With 17 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.360960
+date: 2026-04-02T07:03:23.992862
 url: "/cdr-researcher-census/researchers/taylor-l-weiss-a5066148/"
 layout: "researcher"
 hiddenInHomeList: true

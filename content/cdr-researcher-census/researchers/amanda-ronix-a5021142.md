@@ -1,7 +1,7 @@
 ---
 title: "Amanda Ronix"
 description: "Amanda Ronix is a Mid-career Biochar researcher at Universidade de São Paulo in BR. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.571680
+date: 2026-04-02T07:03:24.279021
 url: "/cdr-researcher-census/researchers/amanda-ronix-a5021142/"
 layout: "researcher"
 hiddenInHomeList: true

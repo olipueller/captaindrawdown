@@ -1,7 +1,7 @@
 ---
 title: "Adnan Hussain"
 description: "Adnan Hussain is a Mid-career Soil Carbon researcher at National Chung Cheng University in TW. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.904047
+date: 2026-04-02T07:03:24.755535
 url: "/cdr-researcher-census/researchers/adnan-hussain-a5102868/"
 layout: "researcher"
 hiddenInHomeList: true

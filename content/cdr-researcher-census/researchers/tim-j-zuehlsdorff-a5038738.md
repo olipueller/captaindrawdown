@@ -1,7 +1,7 @@
 ---
 title: "Tim J. Zuehlsdorff"
 description: "Tim J. Zuehlsdorff is a Mid-career General CDR researcher at Oregon State University in US. With 98 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.426110
+date: 2026-04-02T07:03:24.072129
 url: "/cdr-researcher-census/researchers/tim-j-zuehlsdorff-a5038738/"
 layout: "researcher"
 hiddenInHomeList: true

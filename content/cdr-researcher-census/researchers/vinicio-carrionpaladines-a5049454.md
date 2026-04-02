@@ -1,7 +1,7 @@
 ---
 title: "Vinicio Carrión‐Paladines"
 description: "Vinicio Carrión‐Paladines is a Mid-career Soil Carbon researcher at Universidad Técnica Particular de Loja in EC. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.131241
+date: 2026-04-02T07:03:26.551765
 url: "/cdr-researcher-census/researchers/vinicio-carrionpaladines-a5049454/"
 layout: "researcher"
 hiddenInHomeList: true

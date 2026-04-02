@@ -1,7 +1,7 @@
 ---
 title: "Zhongwu Wang"
 description: "Zhongwu Wang is a Senior Soil Carbon researcher at Inner Mongolia Agricultural University in CN. With 90 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.361199
+date: 2026-04-02T07:03:23.993186
 url: "/cdr-researcher-census/researchers/zhongwu-wang-a5101851/"
 layout: "researcher"
 hiddenInHomeList: true

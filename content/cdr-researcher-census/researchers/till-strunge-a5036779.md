@@ -1,7 +1,7 @@
 ---
 title: "Till Strunge"
 description: "Till Strunge is a Mid-career General CDR researcher at Heriot-Watt University in GB. With 30 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.010348
+date: 2026-04-02T07:03:24.925141
 url: "/cdr-researcher-census/researchers/till-strunge-a5036779/"
 layout: "researcher"
 hiddenInHomeList: true

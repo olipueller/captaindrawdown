@@ -1,7 +1,7 @@
 ---
 title: "Zikui Wang"
 description: "Zikui Wang is a Senior Soil Carbon researcher at Lanzhou University in CN. With 54 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.405517
+date: 2026-04-02T07:03:24.044774
 url: "/cdr-researcher-census/researchers/zikui-wang-a5085052/"
 layout: "researcher"
 hiddenInHomeList: true

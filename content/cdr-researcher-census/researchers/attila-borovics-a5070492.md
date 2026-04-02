@@ -1,7 +1,7 @@
 ---
 title: "Attila Borovics"
 description: "Attila Borovics is a Senior General CDR researcher. With 96 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.857056
+date: 2026-04-02T07:03:24.685332
 url: "/cdr-researcher-census/researchers/attila-borovics-a5070492/"
 layout: "researcher"
 hiddenInHomeList: true

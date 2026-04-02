@@ -1,7 +1,7 @@
 ---
 title: "Yongbin Zhang"
 description: "Yongbin Zhang is a Senior Soil Carbon researcher at Hefei University of Technology in CN. With 49 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.026007
+date: 2026-04-02T07:03:24.945364
 url: "/cdr-researcher-census/researchers/yongbin-zhang-a5100661/"
 layout: "researcher"
 hiddenInHomeList: true

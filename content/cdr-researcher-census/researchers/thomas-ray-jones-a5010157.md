@@ -1,7 +1,7 @@
 ---
 title: "Thomas Ray Jones"
 description: "Thomas Ray Jones is a Senior Enhanced Weathering researcher at Commonwealth Scientific and Industrial Research Organisation in AU. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.178432
+date: 2026-04-02T07:03:26.635759
 url: "/cdr-researcher-census/researchers/thomas-ray-jones-a5010157/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Mike Bretherton"
 description: "Mike Bretherton is a Mid-career Soil Carbon researcher. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.818994
+date: 2026-04-02T07:03:26.100537
 url: "/cdr-researcher-census/researchers/mike-bretherton-a5110640/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Giorgia Lombardelli"
 description: "Giorgia Lombardelli is a Mid-career BECCS researcher at Ospedaliera di Piacenza in IT. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.524253
+date: 2026-04-02T07:03:25.694326
 url: "/cdr-researcher-census/researchers/giorgia-lombardelli-a5019661/"
 layout: "researcher"
 hiddenInHomeList: true

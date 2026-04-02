@@ -1,7 +1,7 @@
 ---
 title: "Linus Onwuemezie"
 description: "Linus Onwuemezie is a Mid-career DAC researcher at University of Staffordshire in GB. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.876390
+date: 2026-04-02T07:03:26.180793
 url: "/cdr-researcher-census/researchers/linus-onwuemezie-a5031862/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Liangliang Bai"
 description: "Liangliang Bai is a Senior Biochar researcher at Tianjin Chengjian University in CN. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.136800
+date: 2026-04-02T07:03:26.562545
 url: "/cdr-researcher-census/researchers/liangliang-bai-a5043475/"
 layout: "researcher"
 hiddenInHomeList: true

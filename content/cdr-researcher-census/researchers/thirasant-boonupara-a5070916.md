@@ -1,7 +1,7 @@
 ---
 title: "Thirasant Boonupara"
 description: "Thirasant Boonupara is a Mid-career Biochar researcher at Chiang Mai University in TH. With 21 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.549303
+date: 2026-04-02T07:03:25.730215
 url: "/cdr-researcher-census/researchers/thirasant-boonupara-a5070916/"
 layout: "researcher"
 hiddenInHomeList: true

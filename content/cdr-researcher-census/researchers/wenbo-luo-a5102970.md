@@ -1,7 +1,7 @@
 ---
 title: "Wenbo Luo"
 description: "Wenbo Luo is a Senior Soil Carbon researcher at Shanxi Agricultural University in CN. With 40 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.634688
+date: 2026-04-02T07:03:24.368141
 url: "/cdr-researcher-census/researchers/wenbo-luo-a5102970/"
 layout: "researcher"
 hiddenInHomeList: true

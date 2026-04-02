@@ -1,7 +1,7 @@
 ---
 title: "Luís Fernández-Pozo"
 description: "Luís Fernández-Pozo is a Mid-career Soil Carbon researcher at Universidad de Extremadura in ES. With 31 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.002473
+date: 2026-04-02T07:03:24.913501
 url: "/cdr-researcher-census/researchers/luis-fernandez-pozo-a5023124/"
 layout: "researcher"
 hiddenInHomeList: true

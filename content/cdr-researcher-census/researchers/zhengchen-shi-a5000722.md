@@ -1,7 +1,7 @@
 ---
 title: "Zhengchen Shi"
 description: "Zhengchen Shi is a Mid-career Soil Carbon researcher at Xinjiang Institute of Ecology and Geography in CN. With 20 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.360194
+date: 2026-04-02T07:03:26.910537
 url: "/cdr-researcher-census/researchers/zhengchen-shi-a5000722/"
 layout: "researcher"
 hiddenInHomeList: true

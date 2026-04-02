@@ -1,7 +1,7 @@
 ---
 title: "Nathalie Demont-Caulet"
 description: "Nathalie Demont-Caulet is a Senior Biochar researcher at ParisTech in FR. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.720068
+date: 2026-04-02T07:03:24.494948
 url: "/cdr-researcher-census/researchers/nathalie-demont-caulet-a5048414/"
 layout: "researcher"
 hiddenInHomeList: true

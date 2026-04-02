@@ -1,7 +1,7 @@
 ---
 title: "S. Rakesh"
 description: "S. Rakesh is a Mid-career Soil Carbon researcher at National Academy of Agricultural Research Management in IN. With 61 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.878197
+date: 2026-04-02T07:03:24.715504
 url: "/cdr-researcher-census/researchers/s-rakesh-a5076747/"
 layout: "researcher"
 hiddenInHomeList: true

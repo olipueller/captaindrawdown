@@ -1,7 +1,7 @@
 ---
 title: "Nícolas Augusto Rosin"
 description: "Nícolas Augusto Rosin is a Mid-career Soil Carbon researcher at Universidade de São Paulo in BR. With 55 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.748575
+date: 2026-04-02T07:03:24.537213
 url: "/cdr-researcher-census/researchers/nicolas-augusto-rosin-a5062198/"
 layout: "researcher"
 hiddenInHomeList: true

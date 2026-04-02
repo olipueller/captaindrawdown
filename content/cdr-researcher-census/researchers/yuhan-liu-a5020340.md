@@ -1,7 +1,7 @@
 ---
 title: "Yuhan Liu"
 description: "Yuhan Liu is a Senior Biochar researcher at North China University of Science and Technology in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.659462
+date: 2026-04-02T07:03:25.896752
 url: "/cdr-researcher-census/researchers/yuhan-liu-a5020340/"
 layout: "researcher"
 hiddenInHomeList: true

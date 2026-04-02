@@ -1,7 +1,7 @@
 ---
 title: "Yanbing Chi"
 description: "Yanbing Chi is a Mid-career Soil Carbon researcher at Zhejiang University of Water Resource and Electric Power in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.436567
+date: 2026-04-02T07:03:25.541267
 url: "/cdr-researcher-census/researchers/yanbing-chi-a5041242/"
 layout: "researcher"
 hiddenInHomeList: true

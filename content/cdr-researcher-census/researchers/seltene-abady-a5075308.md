@@ -1,7 +1,7 @@
 ---
 title: "Seltene Abady"
 description: "Seltene Abady is a Mid-career Soil Carbon researcher at University of KwaZulu-Natal in ZA. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.155794
+date: 2026-04-02T07:03:25.136935
 url: "/cdr-researcher-census/researchers/seltene-abady-a5075308/"
 layout: "researcher"
 hiddenInHomeList: true

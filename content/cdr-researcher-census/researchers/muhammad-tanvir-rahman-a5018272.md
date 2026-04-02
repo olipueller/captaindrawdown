@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Tanvir Rahman"
 description: "Muhammad Tanvir Rahman is a Mid-career Soil Carbon researcher. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.122007
+date: 2026-04-02T07:03:26.537535
 url: "/cdr-researcher-census/researchers/muhammad-tanvir-rahman-a5018272/"
 layout: "researcher"
 hiddenInHomeList: true

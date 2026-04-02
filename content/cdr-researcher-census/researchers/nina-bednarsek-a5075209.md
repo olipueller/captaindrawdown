@@ -1,7 +1,7 @@
 ---
 title: "Nina Bednaršek"
 description: "Nina Bednaršek is a Senior Ocean CDR researcher at Jožef Stefan Institute in SI. With 110 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.146940
+date: 2026-04-02T07:03:23.703785
 url: "/cdr-researcher-census/researchers/nina-bednarsek-a5075209/"
 layout: "researcher"
 hiddenInHomeList: true

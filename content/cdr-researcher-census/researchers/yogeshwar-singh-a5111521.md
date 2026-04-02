@@ -1,7 +1,7 @@
 ---
 title: "Yogeshwar Singh"
 description: "Yogeshwar Singh is a Senior Soil Carbon researcher at Central Agricultural University in IN. With 48 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.523289
+date: 2026-04-02T07:03:24.204832
 url: "/cdr-researcher-census/researchers/yogeshwar-singh-a5111521/"
 layout: "researcher"
 hiddenInHomeList: true

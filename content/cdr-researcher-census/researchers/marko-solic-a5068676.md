@@ -1,7 +1,7 @@
 ---
 title: "Marko Šolić"
 description: "Marko Šolić is a Mid-career Biochar researcher at University of Novi Sad in RS. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.316911
+date: 2026-04-02T07:03:25.365010
 url: "/cdr-researcher-census/researchers/marko-solic-a5068676/"
 layout: "researcher"
 hiddenInHomeList: true

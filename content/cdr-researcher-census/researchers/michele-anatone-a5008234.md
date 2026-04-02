@@ -1,7 +1,7 @@
 ---
 title: "Michele Anatone"
 description: "Michele Anatone is a Senior BECCS researcher at University of L'Aquila in IT. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.373040
+date: 2026-04-02T07:03:25.447875
 url: "/cdr-researcher-census/researchers/michele-anatone-a5008234/"
 layout: "researcher"
 hiddenInHomeList: true

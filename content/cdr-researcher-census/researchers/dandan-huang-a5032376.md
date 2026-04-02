@@ -1,7 +1,7 @@
 ---
 title: "Dandan Huang"
 description: "Dandan Huang is a Senior Soil Carbon researcher at Yunnan Normal University in CN. With 79 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.337873
+date: 2026-04-02T07:03:23.960605
 url: "/cdr-researcher-census/researchers/dandan-huang-a5032376/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Zitong Zhuang"
 description: "Zitong Zhuang is a Mid-career carbon dioxide removal researcher at Xi'an Jiaotong University in CN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.902896
+date: 2026-04-02T07:03:26.219299
 url: "/cdr-researcher-census/researchers/zitong-zhuang-a5108985/"
 layout: "researcher"
 hiddenInHomeList: true

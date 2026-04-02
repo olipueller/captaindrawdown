@@ -1,7 +1,7 @@
 ---
 title: "Swastika Sharma"
 description: "Swastika Sharma is a Senior General CDR researcher at Lincoln University - Missouri in US. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.389552
+date: 2026-04-02T07:03:25.470743
 url: "/cdr-researcher-census/researchers/swastika-sharma-a5100800/"
 layout: "researcher"
 hiddenInHomeList: true

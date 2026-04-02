@@ -1,7 +1,7 @@
 ---
 title: "Stephanie Spahr"
 description: "Stephanie Spahr is a Mid-career Biochar researcher at Leibniz Institute of Freshwater Ecology and Inland Fisheries in DE. With 64 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.396212
+date: 2026-04-02T07:03:24.034094
 url: "/cdr-researcher-census/researchers/stephanie-spahr-a5013723/"
 layout: "researcher"
 hiddenInHomeList: true

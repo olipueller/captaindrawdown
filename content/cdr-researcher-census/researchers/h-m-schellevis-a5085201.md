@@ -1,7 +1,7 @@
 ---
 title: "H. M. Schellevis"
 description: "H. M. Schellevis is an Early-career carbon dioxide removal researcher at University of Twente in NL. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.265822
+date: 2026-04-02T07:03:26.774286
 url: "/cdr-researcher-census/researchers/h-m-schellevis-a5085201/"
 layout: "researcher"
 hiddenInHomeList: true

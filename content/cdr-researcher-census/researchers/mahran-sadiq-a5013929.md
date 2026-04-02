@@ -1,7 +1,7 @@
 ---
 title: "Mahran Sadiq"
 description: "Mahran Sadiq is a Mid-career Soil Carbon researcher at Gansu Agricultural University in CN. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.430324
+date: 2026-04-02T07:03:25.532217
 url: "/cdr-researcher-census/researchers/mahran-sadiq-a5013929/"
 layout: "researcher"
 hiddenInHomeList: true

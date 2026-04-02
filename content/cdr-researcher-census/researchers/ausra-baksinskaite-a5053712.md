@@ -1,7 +1,7 @@
 ---
 title: "Aušra Bakšinskaitė"
 description: "Aušra Bakšinskaitė is a Mid-career Biochar researcher at Lithuanian Research Centre for Agriculture and Forestry in LT. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.482477
+date: 2026-04-02T07:03:25.635006
 url: "/cdr-researcher-census/researchers/ausra-baksinskaite-a5053712/"
 layout: "researcher"
 hiddenInHomeList: true

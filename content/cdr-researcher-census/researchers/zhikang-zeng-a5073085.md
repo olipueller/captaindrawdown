@@ -1,7 +1,7 @@
 ---
 title: "Zhikang Zeng"
 description: "Zhikang Zeng is a Mid-career Soil Carbon researcher at Guangxi Academy of Agricultural Science in CN. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.317242
+date: 2026-04-02T07:03:26.852076
 url: "/cdr-researcher-census/researchers/zhikang-zeng-a5073085/"
 layout: "researcher"
 hiddenInHomeList: true

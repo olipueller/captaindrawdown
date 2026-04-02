@@ -1,7 +1,7 @@
 ---
 title: "Nomcebo P. Khumalo"
 description: "Nomcebo P. Khumalo is a Mid-career carbon dioxide removal researcher at University of South Africa in ZA. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.776524
+date: 2026-04-02T07:03:24.577936
 url: "/cdr-researcher-census/researchers/nomcebo-p-khumalo-a5015483/"
 layout: "researcher"
 hiddenInHomeList: true

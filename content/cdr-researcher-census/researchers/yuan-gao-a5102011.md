@@ -1,7 +1,7 @@
 ---
 title: "Yuan Gao"
 description: "Yuan Gao is a Senior Soil Carbon researcher at Shanxi University of Finance and Economics in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.865046
+date: 2026-04-02T07:03:26.165363
 url: "/cdr-researcher-census/researchers/yuan-gao-a5102011/"
 layout: "researcher"
 hiddenInHomeList: true

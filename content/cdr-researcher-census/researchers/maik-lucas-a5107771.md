@@ -1,7 +1,7 @@
 ---
 title: "Maik Lucas"
 description: "Maik Lucas is a Mid-career Soil Carbon researcher at Technische Universität Berlin in DE. With 59 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.516113
+date: 2026-04-02T07:03:24.194821
 url: "/cdr-researcher-census/researchers/maik-lucas-a5107771/"
 layout: "researcher"
 hiddenInHomeList: true

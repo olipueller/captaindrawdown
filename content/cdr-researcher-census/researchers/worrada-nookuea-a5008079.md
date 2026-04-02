@@ -1,7 +1,7 @@
 ---
 title: "Worrada Nookuea"
 description: "Worrada Nookuea is a Mid-career BECCS researcher. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.658291
+date: 2026-04-02T07:03:24.404689
 url: "/cdr-researcher-census/researchers/worrada-nookuea-a5008079/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Khan Muhammad"
 description: "Khan Muhammad is a Mid-career General CDR researcher at King Faisal University in SA. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.619769
+date: 2026-04-02T07:03:25.835213
 url: "/cdr-researcher-census/researchers/khan-muhammad-a5060279/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Hyeon Ji Song"
 description: "Hyeon Ji Song is a Mid-career Soil Carbon researcher at Iowa State University in US. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.126813
+date: 2026-04-02T07:03:25.094447
 url: "/cdr-researcher-census/researchers/hyeon-ji-song-a5018280/"
 layout: "researcher"
 hiddenInHomeList: true

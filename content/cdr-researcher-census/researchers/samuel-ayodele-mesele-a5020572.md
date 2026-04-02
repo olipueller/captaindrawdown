@@ -1,7 +1,7 @@
 ---
 title: "Samuel Ayodele Mesele"
 description: "Samuel Ayodele Mesele is a Mid-career Soil Carbon researcher at Liberian Institute for Biomedical Research in LR. With 32 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.679285
+date: 2026-04-02T07:03:25.928443
 url: "/cdr-researcher-census/researchers/samuel-ayodele-mesele-a5020572/"
 layout: "researcher"
 hiddenInHomeList: true

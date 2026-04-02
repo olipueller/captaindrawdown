@@ -1,7 +1,7 @@
 ---
 title: "Maia Menefee"
 description: "Maia Menefee is an Early-career DAC researcher at Colorado School of Mines in US. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.028788
+date: 2026-04-02T07:03:24.949430
 url: "/cdr-researcher-census/researchers/maia-menefee-a5066162/"
 layout: "researcher"
 hiddenInHomeList: true

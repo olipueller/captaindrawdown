@@ -1,7 +1,7 @@
 ---
 title: "Elena Blanc‐Betes"
 description: "Elena Blanc‐Betes is a Senior Enhanced Weathering researcher at University of Illinois Urbana-Champaign in US. With 59 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.516825
+date: 2026-04-02T07:03:24.195567
 url: "/cdr-researcher-census/researchers/elena-blancbetes-a5011965/"
 layout: "researcher"
 hiddenInHomeList: true

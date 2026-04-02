@@ -1,7 +1,7 @@
 ---
 title: "Jordana Bortoluz"
 description: "Jordana Bortoluz is a Mid-career carbon dioxide removal researcher at Universidade de Caxias do Sul in BR. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.425128
+date: 2026-04-02T07:03:25.524957
 url: "/cdr-researcher-census/researchers/jordana-bortoluz-a5086487/"
 layout: "researcher"
 hiddenInHomeList: true

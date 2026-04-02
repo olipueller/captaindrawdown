@@ -1,7 +1,7 @@
 ---
 title: "Lise Thouvenot"
 description: "Lise Thouvenot is a Senior Soil Carbon researcher at German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig in DE. With 37 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.745419
+date: 2026-04-02T07:03:24.532932
 url: "/cdr-researcher-census/researchers/lise-thouvenot-a5034213/"
 layout: "researcher"
 hiddenInHomeList: true

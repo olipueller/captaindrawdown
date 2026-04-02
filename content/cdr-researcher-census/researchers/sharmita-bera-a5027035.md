@@ -1,7 +1,7 @@
 ---
 title: "Sharmita Bera"
 description: "Sharmita Bera is a Mid-career Biochar researcher at Indian Institute of Technology Kharagpur in IN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.436726
+date: 2026-04-02T07:03:27.021076
 url: "/cdr-researcher-census/researchers/sharmita-bera-a5027035/"
 layout: "researcher"
 hiddenInHomeList: true

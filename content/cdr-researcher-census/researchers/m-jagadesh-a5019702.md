@@ -1,7 +1,7 @@
 ---
 title: "M. Jagadesh"
 description: "M. Jagadesh is a Mid-career Soil Carbon researcher at Tamil Nadu Agricultural University in IN. With 34 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.085517
+date: 2026-04-02T07:03:25.033077
 url: "/cdr-researcher-census/researchers/m-jagadesh-a5019702/"
 layout: "researcher"
 hiddenInHomeList: true

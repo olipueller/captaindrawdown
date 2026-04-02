@@ -1,7 +1,7 @@
 ---
 title: "Guofeng Zhu"
 description: "Guofeng Zhu is a Mid-career Soil Carbon researcher at Gansu Agricultural University in CN. With 22 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.202542
+date: 2026-04-02T07:03:26.683703
 url: "/cdr-researcher-census/researchers/guofeng-zhu-a5008060/"
 layout: "researcher"
 hiddenInHomeList: true

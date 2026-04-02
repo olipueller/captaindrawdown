@@ -1,7 +1,7 @@
 ---
 title: "Sovan Debnath"
 description: "Sovan Debnath is a Mid-career Soil Carbon researcher at World Agroforestry Centre in KE. With 66 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.023045
+date: 2026-04-02T07:03:24.941357
 url: "/cdr-researcher-census/researchers/sovan-debnath-a5036899/"
 layout: "researcher"
 hiddenInHomeList: true

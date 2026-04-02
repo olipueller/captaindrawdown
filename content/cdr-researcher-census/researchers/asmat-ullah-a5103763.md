@@ -1,7 +1,7 @@
 ---
 title: "Asmat Ullah"
 description: "Asmat Ullah is a Mid-career carbon dioxide removal researcher at University of Prince Edward Island in CA. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.159301
+date: 2026-04-02T07:03:26.602759
 url: "/cdr-researcher-census/researchers/asmat-ullah-a5103763/"
 layout: "researcher"
 hiddenInHomeList: true

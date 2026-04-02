@@ -1,7 +1,7 @@
 ---
 title: "Oscar Bañuelos Tavarez"
 description: "Oscar Bañuelos Tavarez is a Mid-career General CDR researcher at Centro Internacional de Mejoramiento de Maíz Y Trigo in MX. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.743223
+date: 2026-04-02T07:03:24.529631
 url: "/cdr-researcher-census/researchers/oscar-banuelos-tavarez-a5087905/"
 layout: "researcher"
 hiddenInHomeList: true

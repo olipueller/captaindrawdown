@@ -1,7 +1,7 @@
 ---
 title: "Ioannis Kellartzis"
 description: "Ioannis Kellartzis is a Mid-career carbon dioxide removal researcher at Aristotle University of Thessaloniki in GR. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.110624
+date: 2026-04-02T07:03:26.521452
 url: "/cdr-researcher-census/researchers/ioannis-kellartzis-a5063867/"
 layout: "researcher"
 hiddenInHomeList: true

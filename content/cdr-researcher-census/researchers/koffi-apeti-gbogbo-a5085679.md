@@ -1,7 +1,7 @@
 ---
 title: "Koffi Apeti Gbogbo"
 description: "Koffi Apeti Gbogbo is a Senior Soil Carbon researcher at University of Lomé in TG. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.433265
+date: 2026-04-02T07:03:27.016404
 url: "/cdr-researcher-census/researchers/koffi-apeti-gbogbo-a5085679/"
 layout: "researcher"
 hiddenInHomeList: true

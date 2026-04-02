@@ -1,7 +1,7 @@
 ---
 title: "I. B. Kantola"
 description: "I. B. Kantola is a Mid-career Enhanced Weathering researcher. With 58 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.309287
+date: 2026-04-02T07:03:23.922029
 url: "/cdr-researcher-census/researchers/i-b-kantola-a5084112/"
 layout: "researcher"
 hiddenInHomeList: true

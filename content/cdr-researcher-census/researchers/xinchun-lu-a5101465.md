@@ -1,7 +1,7 @@
 ---
 title: "Xinchun Lu"
 description: "Xinchun Lu is a Senior Soil Carbon researcher at Zhejiang Normal University in CN. With 78 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.343132
+date: 2026-04-02T07:03:23.967514
 url: "/cdr-researcher-census/researchers/xinchun-lu-a5101465/"
 layout: "researcher"
 hiddenInHomeList: true

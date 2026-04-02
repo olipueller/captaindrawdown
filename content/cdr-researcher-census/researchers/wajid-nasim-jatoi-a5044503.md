@@ -1,7 +1,7 @@
 ---
 title: "Wajid Nasim Jatoi"
 description: "Wajid Nasim Jatoi is a Mid-career General CDR researcher at Islamia University of Bahawalpur in PK. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.131764
+date: 2026-04-02T07:03:25.102025
 url: "/cdr-researcher-census/researchers/wajid-nasim-jatoi-a5044503/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Gaojia Meng"
 description: "Gaojia Meng is a Mid-career Soil Carbon researcher at Gansu Agricultural University in CN. With 35 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.603421
+date: 2026-04-02T07:03:24.325117
 url: "/cdr-researcher-census/researchers/gaojia-meng-a5063856/"
 layout: "researcher"
 hiddenInHomeList: true

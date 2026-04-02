@@ -1,7 +1,7 @@
 ---
 title: "Hiago de O. Gomes"
 description: "Hiago de O. Gomes is a Mid-career Biochar researcher at Instituto Federal de Educação, Ciência e Tecnologia do Ceará in BR. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.105634
+date: 2026-04-02T07:03:25.063314
 url: "/cdr-researcher-census/researchers/hiago-de-o-gomes-a5086481/"
 layout: "researcher"
 hiddenInHomeList: true

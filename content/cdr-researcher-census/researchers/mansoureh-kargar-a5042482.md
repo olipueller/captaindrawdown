@@ -1,7 +1,7 @@
 ---
 title: "Mansoureh Kargar"
 description: "Mansoureh Kargar is a Mid-career Soil Carbon researcher at Soil Conservation and Watershed Management Research in IR. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.845237
+date: 2026-04-02T07:03:26.137387
 url: "/cdr-researcher-census/researchers/mansoureh-kargar-a5042482/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xianliang Wu"
 description: "Xianliang Wu is a Mid-career Biochar researcher at Guizhou Institute of Biology in CN. With 50 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.526861
+date: 2026-04-02T07:03:24.210769
 url: "/cdr-researcher-census/researchers/xianliang-wu-a5016398/"
 layout: "researcher"
 hiddenInHomeList: true

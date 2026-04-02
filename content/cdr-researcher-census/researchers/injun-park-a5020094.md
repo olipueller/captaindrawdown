@@ -1,7 +1,7 @@
 ---
 title: "In‐Jun Park"
 description: "In‐Jun Park is a Senior Enhanced Weathering researcher at Korea Advanced Institute of Science and Technology in KR. With 37 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.602053
+date: 2026-04-02T07:03:24.323148
 url: "/cdr-researcher-census/researchers/injun-park-a5020094/"
 layout: "researcher"
 hiddenInHomeList: true

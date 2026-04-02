@@ -1,7 +1,7 @@
 ---
 title: "Aswini Krishnan"
 description: "Aswini Krishnan is a Mid-career Soil Carbon researcher at National Institute of Technology, Puducherry. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.521670
+date: 2026-04-02T07:03:25.690629
 url: "/cdr-researcher-census/researchers/aswini-krishnan-a5112504/"
 layout: "researcher"
 hiddenInHomeList: true

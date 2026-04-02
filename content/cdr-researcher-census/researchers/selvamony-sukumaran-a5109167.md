@@ -1,7 +1,7 @@
 ---
 title: "Selvamony Sukumaran"
 description: "Selvamony Sukumaran is a Mid-career Soil Carbon researcher at Manonmaniam Sundaranar University in IN. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.220332
+date: 2026-04-02T07:03:26.708000
 url: "/cdr-researcher-census/researchers/selvamony-sukumaran-a5109167/"
 layout: "researcher"
 hiddenInHomeList: true

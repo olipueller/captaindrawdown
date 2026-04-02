@@ -1,7 +1,7 @@
 ---
 title: "Bingyao Wang"
 description: "Bingyao Wang is a Mid-career Soil Carbon researcher at Nanjing Tech University in CN. With 42 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.509334
+date: 2026-04-02T07:03:24.184649
 url: "/cdr-researcher-census/researchers/bingyao-wang-a5102811/"
 layout: "researcher"
 hiddenInHomeList: true

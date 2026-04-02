@@ -1,7 +1,7 @@
 ---
 title: "Mansour Masoudi"
 description: "Mansour Masoudi is a Senior carbon dioxide removal researcher at Emissol (United States) in US. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.610331
+date: 2026-04-02T07:03:24.334737
 url: "/cdr-researcher-census/researchers/mansour-masoudi-a5042597/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Mainu Hazarika"
 description: "Mainu Hazarika is a Mid-career carbon dioxide removal researcher at University of Nursing Yangon in MM. With 32 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.325753
+date: 2026-04-02T07:03:26.863196
 url: "/cdr-researcher-census/researchers/mainu-hazarika-a5111069/"
 layout: "researcher"
 hiddenInHomeList: true

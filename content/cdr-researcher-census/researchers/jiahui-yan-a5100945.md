@@ -1,7 +1,7 @@
 ---
 title: "Jiahui Yan"
 description: "Jiahui Yan is a Senior General CDR researcher at Commercial Aircraft Corporation of China (China) in CN. With 39 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.174782
+date: 2026-04-02T07:03:25.162918
 url: "/cdr-researcher-census/researchers/jiahui-yan-a5100945/"
 layout: "researcher"
 hiddenInHomeList: true

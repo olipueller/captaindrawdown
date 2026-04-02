@@ -1,7 +1,7 @@
 ---
 title: "William Cracroft‐Eley"
 description: "William Cracroft‐Eley is a Mid-career BECCS researcher at Nebraska Department of Education in US. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.510706
+date: 2026-04-02T07:03:25.675069
 url: "/cdr-researcher-census/researchers/william-cracrofteley-a5008650/"
 layout: "researcher"
 hiddenInHomeList: true

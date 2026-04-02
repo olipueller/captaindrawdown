@@ -1,7 +1,7 @@
 ---
 title: "Lynda A. Randa"
 description: "Lynda A. Randa is a Senior Soil Carbon researcher at College of DuPage in US. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.219597
+date: 2026-04-02T07:03:25.230570
 url: "/cdr-researcher-census/researchers/lynda-a-randa-a5027076/"
 layout: "researcher"
 hiddenInHomeList: true

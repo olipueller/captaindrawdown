@@ -1,7 +1,7 @@
 ---
 title: "T K Kumara"
 description: "T K Kumara is a Senior General CDR researcher. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.562577
+date: 2026-04-02T07:03:25.748164
 url: "/cdr-researcher-census/researchers/t-k-kumara-a5059131/"
 layout: "researcher"
 hiddenInHomeList: true

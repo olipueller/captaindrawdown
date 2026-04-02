@@ -1,7 +1,7 @@
 ---
 title: "Emily Guest"
 description: "Emily Guest is a Mid-career Soil Carbon researcher at Agricultural Development Advisory Service (United Kingdom) in GB. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.971891
+date: 2026-04-02T07:03:26.323750
 url: "/cdr-researcher-census/researchers/emily-guest-a5056595/"
 layout: "researcher"
 hiddenInHomeList: true

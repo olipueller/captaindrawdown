@@ -1,7 +1,7 @@
 ---
 title: "Bartłomiej Świątek"
 description: "Bartłomiej Świątek is a Mid-career carbon dioxide removal researcher at University of Agriculture in Krakow in PL. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.272977
+date: 2026-04-02T07:03:26.785960
 url: "/cdr-researcher-census/researchers/bartomiej-swiatek-a5063596/"
 layout: "researcher"
 hiddenInHomeList: true

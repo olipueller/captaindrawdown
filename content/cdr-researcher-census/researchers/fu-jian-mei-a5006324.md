@@ -1,7 +1,7 @@
 ---
 title: "Fu-Jian Mei"
 description: "Fu-Jian Mei is a Mid-career Soil Carbon researcher at Lanzhou University in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.981122
+date: 2026-04-02T07:03:24.879947
 url: "/cdr-researcher-census/researchers/fu-jian-mei-a5006324/"
 layout: "researcher"
 hiddenInHomeList: true

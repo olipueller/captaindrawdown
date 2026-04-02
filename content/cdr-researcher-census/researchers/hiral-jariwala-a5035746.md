@@ -1,7 +1,7 @@
 ---
 title: "Hiral Jariwala"
 description: "Hiral Jariwala is an Early-career Enhanced Weathering researcher at University of Guelph in CA. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.510008
+date: 2026-04-02T07:03:25.674043
 url: "/cdr-researcher-census/researchers/hiral-jariwala-a5035746/"
 layout: "researcher"
 hiddenInHomeList: true

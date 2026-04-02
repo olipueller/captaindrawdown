@@ -1,7 +1,7 @@
 ---
 title: "Yang Zhang"
 description: "Yang Zhang is a Senior Soil Carbon researcher at Xi'an University of Architecture and Technology in CN. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.589257
+date: 2026-04-02T07:03:24.303797
 url: "/cdr-researcher-census/researchers/yang-zhang-a5100747/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Lucas Desport"
 description: "Lucas Desport is a Mid-career General CDR researcher at Total (France) in FR. With 25 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.766200
+date: 2026-04-02T07:03:26.023781
 url: "/cdr-researcher-census/researchers/lucas-desport-a5014740/"
 layout: "researcher"
 hiddenInHomeList: true

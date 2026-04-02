@@ -1,7 +1,7 @@
 ---
 title: "Yisau Adelaja Odusote"
 description: "Yisau Adelaja Odusote is a Senior Biochar researcher at Federal University of Technology Akure in NG. With 37 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.560177
+date: 2026-04-02T07:03:24.262864
 url: "/cdr-researcher-census/researchers/yisau-adelaja-odusote-a5037450/"
 layout: "researcher"
 hiddenInHomeList: true

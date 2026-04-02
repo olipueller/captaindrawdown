@@ -1,7 +1,7 @@
 ---
 title: "Boniface Ndayambaza"
 description: "Boniface Ndayambaza is a Mid-career Soil Carbon researcher at Northwest Institute of Eco-Environment and Resources in CN. With 28 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.143063
+date: 2026-04-02T07:03:25.118506
 url: "/cdr-researcher-census/researchers/boniface-ndayambaza-a5025585/"
 layout: "researcher"
 hiddenInHomeList: true

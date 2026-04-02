@@ -1,7 +1,7 @@
 ---
 title: "Zhibo Wang"
 description: "Zhibo Wang is a Mid-career Biochar researcher at Beijing Normal University in CN. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.015699
+date: 2026-04-02T07:03:26.383696
 url: "/cdr-researcher-census/researchers/zhibo-wang-a5102881/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Mohamed S. Al-Anany"
 description: "Mohamed S. Al-Anany is a Mid-career Biochar researcher at Al-Azhar University in EG. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.443233
+date: 2026-04-02T07:03:25.550810
 url: "/cdr-researcher-census/researchers/mohamed-s-al-anany-a5040117/"
 layout: "researcher"
 hiddenInHomeList: true

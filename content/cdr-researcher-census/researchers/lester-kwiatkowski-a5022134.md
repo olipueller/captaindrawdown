@@ -1,7 +1,7 @@
 ---
 title: "Lester Kwiatkowski"
 description: "Lester Kwiatkowski is a Senior Ocean CDR researcher at CNRS in FR. With 101 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.149256
+date: 2026-04-02T07:03:23.706956
 url: "/cdr-researcher-census/researchers/lester-kwiatkowski-a5022134/"
 layout: "researcher"
 hiddenInHomeList: true

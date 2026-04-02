@@ -1,7 +1,7 @@
 ---
 title: "Hannah A. C. Lohman"
 description: "Hannah A. C. Lohman is a Mid-career Biochar researcher at University of Illinois Urbana-Champaign in US. With 22 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.162226
+date: 2026-04-02T07:03:25.145468
 url: "/cdr-researcher-census/researchers/hannah-a-c-lohman-a5049508/"
 layout: "researcher"
 hiddenInHomeList: true

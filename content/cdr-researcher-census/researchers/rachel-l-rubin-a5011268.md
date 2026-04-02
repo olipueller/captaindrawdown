@@ -1,7 +1,7 @@
 ---
 title: "Rachel L. Rubin"
 description: "Rachel L. Rubin is a Senior Biochar researcher at Mount Holyoke College in US. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.481931
+date: 2026-04-02T07:03:24.149921
 url: "/cdr-researcher-census/researchers/rachel-l-rubin-a5011268/"
 layout: "researcher"
 hiddenInHomeList: true

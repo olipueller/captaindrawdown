@@ -1,7 +1,7 @@
 ---
 title: "Shantanu Agarwal"
 description: "Shantanu Agarwal is a Senior General CDR researcher at Nano Carbon (Poland) in PL. With 40 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.105362
+date: 2026-04-02T07:03:25.062996
 url: "/cdr-researcher-census/researchers/shantanu-agarwal-a5102186/"
 layout: "researcher"
 hiddenInHomeList: true

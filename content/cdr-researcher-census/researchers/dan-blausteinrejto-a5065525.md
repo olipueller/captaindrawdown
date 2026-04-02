@@ -1,7 +1,7 @@
 ---
 title: "Dan Blaustein‐Rejto"
 description: "Dan Blaustein‐Rejto is a Mid-career General CDR researcher at Breakthrough Institute in US. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.395719
+date: 2026-04-02T07:03:25.480756
 url: "/cdr-researcher-census/researchers/dan-blausteinrejto-a5065525/"
 layout: "researcher"
 hiddenInHomeList: true

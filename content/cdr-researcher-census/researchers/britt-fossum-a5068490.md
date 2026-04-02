@@ -1,7 +1,7 @@
 ---
 title: "Britt Fossum"
 description: "Britt Fossum is an Early-career Soil Carbon researcher at University of Nebraska–Lincoln in US. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.419209
+date: 2026-04-02T07:03:26.994131
 url: "/cdr-researcher-census/researchers/britt-fossum-a5068490/"
 layout: "researcher"
 hiddenInHomeList: true

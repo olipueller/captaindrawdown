@@ -1,7 +1,7 @@
 ---
 title: "Jie Zhang"
 description: "Jie Zhang is a Mid-career carbon dioxide removal researcher at Nanchang Institute of Technology in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.378640
+date: 2026-04-02T07:03:25.455650
 url: "/cdr-researcher-census/researchers/jie-zhang-a5100436/"
 layout: "researcher"
 hiddenInHomeList: true

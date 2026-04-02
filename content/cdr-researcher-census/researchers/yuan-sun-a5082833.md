@@ -1,7 +1,7 @@
 ---
 title: "Yuan Sun"
 description: "Yuan Sun is a Senior Soil Carbon researcher at Tongji University in CN. With 51 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.438000
+date: 2026-04-02T07:03:24.087662
 url: "/cdr-researcher-census/researchers/yuan-sun-a5082833/"
 layout: "researcher"
 hiddenInHomeList: true

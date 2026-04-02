@@ -1,7 +1,7 @@
 ---
 title: "Douglas Goodwin"
 description: "Douglas Goodwin is a Mid-career Soil Carbon researcher at Texas Parks and Wildlife Department in US. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.957359
+date: 2026-04-02T07:03:26.302849
 url: "/cdr-researcher-census/researchers/douglas-goodwin-a5011574/"
 layout: "researcher"
 hiddenInHomeList: true

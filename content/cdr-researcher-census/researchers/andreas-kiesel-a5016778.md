@@ -1,7 +1,7 @@
 ---
 title: "Andreas Kiesel"
 description: "Andreas Kiesel is a Senior BECCS researcher at University of Hohenheim in DE. With 61 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.277675
+date: 2026-04-02T07:03:23.880003
 url: "/cdr-researcher-census/researchers/andreas-kiesel-a5016778/"
 layout: "researcher"
 hiddenInHomeList: true

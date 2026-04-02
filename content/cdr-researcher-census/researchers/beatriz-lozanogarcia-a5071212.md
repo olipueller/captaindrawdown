@@ -1,7 +1,7 @@
 ---
 title: "Beatriz Lozano‐García"
 description: "Beatriz Lozano‐García is a Senior Soil Carbon researcher at Universidad de Córdoba in ES. With 101 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.273195
+date: 2026-04-02T07:03:23.873135
 url: "/cdr-researcher-census/researchers/beatriz-lozanogarcia-a5071212/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Liru Yao"
 description: "Liru Yao is a Mid-career Biochar researcher at Anshan Hospital in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.145339
+date: 2026-04-02T07:03:26.576794
 url: "/cdr-researcher-census/researchers/liru-yao-a5067177/"
 layout: "researcher"
 hiddenInHomeList: true

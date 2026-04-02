@@ -1,7 +1,7 @@
 ---
 title: "Agneev Mukherjee"
 description: "Agneev Mukherjee is a Mid-career BECCS researcher at Flemish Institute for Technological Research in BE. With 16 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.469150
+date: 2026-04-02T07:03:24.132053
 url: "/cdr-researcher-census/researchers/agneev-mukherjee-a5044762/"
 layout: "researcher"
 hiddenInHomeList: true

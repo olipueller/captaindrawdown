@@ -1,7 +1,7 @@
 ---
 title: "Ernie Marx"
 description: "Ernie Marx is a Mid-career General CDR researcher at Colorado State University in US. With 12 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.651355
+date: 2026-04-02T07:03:24.393260
 url: "/cdr-researcher-census/researchers/ernie-marx-a5111034/"
 layout: "researcher"
 hiddenInHomeList: true

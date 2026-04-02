@@ -1,7 +1,7 @@
 ---
 title: "Yihe Miao"
 description: "Yihe Miao is a Mid-career General CDR researcher at Shanghai Jiao Tong University in CN. With 20 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.504295
+date: 2026-04-02T07:03:24.177745
 url: "/cdr-researcher-census/researchers/yihe-miao-a5086130/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Robyn White"
 description: "Robyn White is a Mid-career Enhanced Weathering researcher at Human Growth Foundation in US. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.312923
+date: 2026-04-02T07:03:26.847089
 url: "/cdr-researcher-census/researchers/robyn-white-a5091204/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Christian Aichernig"
 description: "Christian Aichernig is a Senior BECCS researcher at Austrian Competence Centre of Food Safety in AT. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.861776
+date: 2026-04-02T07:03:24.691844
 url: "/cdr-researcher-census/researchers/christian-aichernig-a5089003/"
 layout: "researcher"
 hiddenInHomeList: true

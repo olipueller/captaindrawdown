@@ -1,7 +1,7 @@
 ---
 title: "Elif Günal"
 description: "Elif Günal is a Mid-career Soil Carbon researcher at Tokat Gaziosmanpaşa Üniversitesi in TR. With 41 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.258450
+date: 2026-04-02T07:03:25.284969
 url: "/cdr-researcher-census/researchers/elif-gunal-a5075971/"
 layout: "researcher"
 hiddenInHomeList: true

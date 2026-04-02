@@ -1,7 +1,7 @@
 ---
 title: "Ariane D.N. Kamkeng"
 description: "Ariane D.N. Kamkeng is a Mid-career DAC researcher at University of Sheffield in GB. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.748794
+date: 2026-04-02T07:03:24.537501
 url: "/cdr-researcher-census/researchers/ariane-dn-kamkeng-a5060550/"
 layout: "researcher"
 hiddenInHomeList: true

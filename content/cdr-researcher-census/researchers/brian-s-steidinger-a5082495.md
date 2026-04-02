@@ -1,7 +1,7 @@
 ---
 title: "Brian S. Steidinger"
 description: "Brian S. Steidinger is a Mid-career Enhanced Weathering researcher at University of Edinburgh in GB. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.454063
+date: 2026-04-02T07:03:24.110633
 url: "/cdr-researcher-census/researchers/brian-s-steidinger-a5082495/"
 layout: "researcher"
 hiddenInHomeList: true

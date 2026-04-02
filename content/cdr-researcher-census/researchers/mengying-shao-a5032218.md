@@ -1,7 +1,7 @@
 ---
 title: "Mengying Shao"
 description: "Mengying Shao is a Mid-career Biochar researcher at China Geological Survey in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.542945
+date: 2026-04-02T07:03:25.721037
 url: "/cdr-researcher-census/researchers/mengying-shao-a5032218/"
 layout: "researcher"
 hiddenInHomeList: true

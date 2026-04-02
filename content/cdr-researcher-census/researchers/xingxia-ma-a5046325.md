@@ -1,7 +1,7 @@
 ---
 title: "Xingxia Ma"
 description: "Xingxia Ma is a Mid-career carbon dioxide removal researcher at Northwest A&F University in CN. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.059575
+date: 2026-04-02T07:03:24.997277
 url: "/cdr-researcher-census/researchers/xingxia-ma-a5046325/"
 layout: "researcher"
 hiddenInHomeList: true

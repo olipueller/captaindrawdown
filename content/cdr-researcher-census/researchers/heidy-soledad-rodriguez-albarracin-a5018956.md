@@ -1,7 +1,7 @@
 ---
 title: "Heidy Soledad Rodríguez Albarracín"
 description: "Heidy Soledad Rodríguez Albarracín is a Mid-career Soil Carbon researcher at Universidade de São Paulo in BR. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.573898
+date: 2026-04-02T07:03:25.766281
 url: "/cdr-researcher-census/researchers/heidy-soledad-rodriguez-albarracin-a5018956/"
 layout: "researcher"
 hiddenInHomeList: true

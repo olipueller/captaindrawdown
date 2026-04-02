@@ -1,7 +1,7 @@
 ---
 title: "Xinyi Yang"
 description: "Xinyi Yang is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.870605
+date: 2026-04-02T07:03:24.704518
 url: "/cdr-researcher-census/researchers/xinyi-yang-a5050963/"
 layout: "researcher"
 hiddenInHomeList: true

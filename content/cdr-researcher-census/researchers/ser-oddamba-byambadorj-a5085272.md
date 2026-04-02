@@ -1,7 +1,7 @@
 ---
 title: "Ser-Oddamba Byambadorj"
 description: "Ser-Oddamba Byambadorj is a Mid-career General CDR researcher at National University of Mongolia in MN. With 30 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.767874
+date: 2026-04-02T07:03:26.026298
 url: "/cdr-researcher-census/researchers/ser-oddamba-byambadorj-a5085272/"
 layout: "researcher"
 hiddenInHomeList: true

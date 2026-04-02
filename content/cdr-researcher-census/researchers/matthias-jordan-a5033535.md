@@ -1,7 +1,7 @@
 ---
 title: "Matthias Jordan"
 description: "Matthias Jordan is a Senior BECCS researcher at Helmholtz Centre for Environmental Research in DE. With 40 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.903238
+date: 2026-04-02T07:03:24.754283
 url: "/cdr-researcher-census/researchers/matthias-jordan-a5033535/"
 layout: "researcher"
 hiddenInHomeList: true

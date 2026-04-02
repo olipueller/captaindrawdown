@@ -1,7 +1,7 @@
 ---
 title: "Hameed Ghazy"
 description: "Hameed Ghazy is an Early-career carbon dioxide removal researcher. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.648727
+date: 2026-04-02T07:03:25.879845
 url: "/cdr-researcher-census/researchers/hameed-ghazy-a5098711/"
 layout: "researcher"
 hiddenInHomeList: true

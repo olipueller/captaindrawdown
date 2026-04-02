@@ -1,7 +1,7 @@
 ---
 title: "Maniarasu Ravi"
 description: "Maniarasu Ravi is a Mid-career General CDR researcher at Madurai Kamaraj University in IN. With 23 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.669010
+date: 2026-04-02T07:03:25.912465
 url: "/cdr-researcher-census/researchers/maniarasu-ravi-a5045331/"
 layout: "researcher"
 hiddenInHomeList: true

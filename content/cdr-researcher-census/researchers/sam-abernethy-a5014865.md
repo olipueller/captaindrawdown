@@ -1,7 +1,7 @@
 ---
 title: "Sam Abernethy"
 description: "Sam Abernethy is a Mid-career General CDR researcher at Sparks in GB. With 24 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.206118
+date: 2026-04-02T07:03:23.784984
 url: "/cdr-researcher-census/researchers/sam-abernethy-a5014865/"
 layout: "researcher"
 hiddenInHomeList: true

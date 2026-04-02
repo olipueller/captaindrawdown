@@ -1,7 +1,7 @@
 ---
 title: "Zhi Liang"
 description: "Zhi Liang is a Senior Soil Carbon researcher at Aarhus University in DK. With 101 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.378296
+date: 2026-04-02T07:03:24.014983
 url: "/cdr-researcher-census/researchers/zhi-liang-a5058025/"
 layout: "researcher"
 hiddenInHomeList: true

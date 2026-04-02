@@ -1,7 +1,7 @@
 ---
 title: "Nathielly Martins"
 description: "Nathielly Martins is a Mid-career Enhanced Weathering researcher at Technical University of Munich in DE. With 28 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.405878
+date: 2026-04-02T07:03:25.496924
 url: "/cdr-researcher-census/researchers/nathielly-martins-a5007869/"
 layout: "researcher"
 hiddenInHomeList: true

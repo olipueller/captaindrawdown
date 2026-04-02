@@ -1,7 +1,7 @@
 ---
 title: "Thomas V. Wagner"
 description: "Thomas V. Wagner is a Mid-career carbon dioxide removal researcher at Wageningen University and Research in NL. With 19 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.839458
+date: 2026-04-02T07:03:24.660920
 url: "/cdr-researcher-census/researchers/thomas-v-wagner-a5041895/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Laynara F. Lugli"
 description: "Laynara F. Lugli is a Mid-career carbon dioxide removal researcher at National Institute of Amazonian Research in BR. With 60 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.540857
+date: 2026-04-02T07:03:24.235206
 url: "/cdr-researcher-census/researchers/laynara-f-lugli-a5058821/"
 layout: "researcher"
 hiddenInHomeList: true

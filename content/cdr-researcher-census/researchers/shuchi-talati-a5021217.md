@@ -1,7 +1,7 @@
 ---
 title: "Shuchi Talati"
 description: "Shuchi Talati is a Mid-career General CDR researcher in GB. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.692732
+date: 2026-04-02T07:03:24.455772
 url: "/cdr-researcher-census/researchers/shuchi-talati-a5021217/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Emily Beagle"
 description: "Emily Beagle is a Mid-career General CDR researcher at Walker (United States) in US. With 21 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.438589
+date: 2026-04-02T07:03:25.544326
 url: "/cdr-researcher-census/researchers/emily-beagle-a5050765/"
 layout: "researcher"
 hiddenInHomeList: true

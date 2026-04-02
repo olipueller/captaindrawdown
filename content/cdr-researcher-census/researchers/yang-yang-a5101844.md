@@ -1,7 +1,7 @@
 ---
 title: "Yang Yang"
 description: "Yang Yang is a Senior Enhanced Weathering researcher at Shanghai Jiao Tong University in CN. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.041941
+date: 2026-04-02T07:03:26.423895
 url: "/cdr-researcher-census/researchers/yang-yang-a5101844/"
 layout: "researcher"
 hiddenInHomeList: true

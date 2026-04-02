@@ -1,7 +1,7 @@
 ---
 title: "Gao Xiaofeng"
 description: "Gao Xiaofeng is a Senior Soil Carbon researcher at Shanghai Jiao Tong University in CN. With 37 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.873845
+date: 2026-04-02T07:03:26.177276
 url: "/cdr-researcher-census/researchers/gao-xiaofeng-a5100302/"
 layout: "researcher"
 hiddenInHomeList: true

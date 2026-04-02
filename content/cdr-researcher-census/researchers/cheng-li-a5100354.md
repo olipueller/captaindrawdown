@@ -1,7 +1,7 @@
 ---
 title: "Cheng Li"
 description: "Cheng Li is a Senior Soil Carbon researcher at Sichuan University in CN. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.241738
+date: 2026-04-02T07:03:25.263849
 url: "/cdr-researcher-census/researchers/cheng-li-a5100354/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Fanny Lhardy"
 description: "Fanny Lhardy is a Mid-career Enhanced Weathering researcher. With 38 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.847693
+date: 2026-04-02T07:03:24.672054
 url: "/cdr-researcher-census/researchers/fanny-lhardy-a5041540/"
 layout: "researcher"
 hiddenInHomeList: true

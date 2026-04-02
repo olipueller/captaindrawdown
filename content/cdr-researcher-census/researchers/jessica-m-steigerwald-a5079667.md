@@ -1,7 +1,7 @@
 ---
 title: "Jessica M. Steigerwald"
 description: "Jessica M. Steigerwald is an Early-career Biochar researcher at Southern Nevada Water Authority in US. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.409112
+date: 2026-04-02T07:03:26.979290
 url: "/cdr-researcher-census/researchers/jessica-m-steigerwald-a5079667/"
 layout: "researcher"
 hiddenInHomeList: true

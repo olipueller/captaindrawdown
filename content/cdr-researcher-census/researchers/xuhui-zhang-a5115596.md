@@ -1,7 +1,7 @@
 ---
 title: "Xuhui Zhang"
 description: "Xuhui Zhang is an Eminent Soil Carbon researcher at Shandong University in CN. With 140 publications and an h-index of 44, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.101177
+date: 2026-04-02T07:03:23.648763
 url: "/cdr-researcher-census/researchers/xuhui-zhang-a5115596/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Mirella Zancato"
 description: "Mirella Zancato is a Senior Ocean CDR researcher at University of Padua in IT. With 40 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.657698
+date: 2026-04-02T07:03:24.403721
 url: "/cdr-researcher-census/researchers/mirella-zancato-a5008059/"
 layout: "researcher"
 hiddenInHomeList: true

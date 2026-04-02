@@ -1,7 +1,7 @@
 ---
 title: "Lauri Ikkala"
 description: "Lauri Ikkala is a Mid-career Soil Carbon researcher at Geological Survey of Finland in FI. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.326946
+date: 2026-04-02T07:03:26.864641
 url: "/cdr-researcher-census/researchers/lauri-ikkala-a5047326/"
 layout: "researcher"
 hiddenInHomeList: true

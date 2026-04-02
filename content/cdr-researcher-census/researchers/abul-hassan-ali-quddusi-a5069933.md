@@ -1,7 +1,7 @@
 ---
 title: "Abul Hassan Ali Quddusi"
 description: "Abul Hassan Ali Quddusi is an Early-career carbon dioxide removal researcher at Jeddah University in SA. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.689924
+date: 2026-04-02T07:03:25.943226
 url: "/cdr-researcher-census/researchers/abul-hassan-ali-quddusi-a5069933/"
 layout: "researcher"
 hiddenInHomeList: true

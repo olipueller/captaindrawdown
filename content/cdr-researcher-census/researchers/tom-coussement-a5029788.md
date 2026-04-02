@@ -1,7 +1,7 @@
 ---
 title: "Tom Coussement"
 description: "Tom Coussement is a Mid-career General CDR researcher at Statistics Belgium in BE. With 17 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.291549
+date: 2026-04-02T07:03:25.329695
 url: "/cdr-researcher-census/researchers/tom-coussement-a5029788/"
 layout: "researcher"
 hiddenInHomeList: true

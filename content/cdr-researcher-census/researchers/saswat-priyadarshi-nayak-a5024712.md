@@ -1,7 +1,7 @@
 ---
 title: "Saswat Priyadarshi Nayak"
 description: "Saswat Priyadarshi Nayak is an Early-career DAC researcher at University of California, Riverside in US. With 10 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.131113
+date: 2026-04-02T07:03:25.101062
 url: "/cdr-researcher-census/researchers/saswat-priyadarshi-nayak-a5024712/"
 layout: "researcher"
 hiddenInHomeList: true

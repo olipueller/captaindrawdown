@@ -1,7 +1,7 @@
 ---
 title: "Marie‐Liesse Aubertin"
 description: "Marie‐Liesse Aubertin is a Mid-career Biochar researcher at IFP Énergies nouvelles in FR. With 16 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.015277
+date: 2026-04-02T07:03:26.383111
 url: "/cdr-researcher-census/researchers/marieliesse-aubertin-a5084976/"
 layout: "researcher"
 hiddenInHomeList: true

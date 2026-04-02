@@ -1,7 +1,7 @@
 ---
 title: "Chinmayee Acharya"
 description: "Chinmayee Acharya is a Mid-career Biochar researcher at Government Medical College in IN. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.277148
+date: 2026-04-02T07:03:25.308663
 url: "/cdr-researcher-census/researchers/chinmayee-acharya-a5000218/"
 layout: "researcher"
 hiddenInHomeList: true

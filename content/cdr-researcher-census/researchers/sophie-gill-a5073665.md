@@ -1,7 +1,7 @@
 ---
 title: "Sophie Gill"
 description: "Sophie Gill is a Mid-career Ocean CDR researcher. With 10 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.940431
+date: 2026-04-02T07:03:24.815575
 url: "/cdr-researcher-census/researchers/sophie-gill-a5073665/"
 layout: "researcher"
 hiddenInHomeList: true

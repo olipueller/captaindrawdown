@@ -1,7 +1,7 @@
 ---
 title: "Weizhuo Zhang"
 description: "Weizhuo Zhang is a Mid-career Biochar researcher at Shenzhen University in CN. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.364465
+date: 2026-04-02T07:03:25.434733
 url: "/cdr-researcher-census/researchers/weizhuo-zhang-a5045695/"
 layout: "researcher"
 hiddenInHomeList: true

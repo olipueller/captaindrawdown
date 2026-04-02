@@ -1,7 +1,7 @@
 ---
 title: "Rajeev Joshi"
 description: "Rajeev Joshi is a Mid-career Soil Carbon researcher at Agriculture and Forestry University in NP. With 39 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.290286
+date: 2026-04-02T07:03:25.327942
 url: "/cdr-researcher-census/researchers/rajeev-joshi-a5030963/"
 layout: "researcher"
 hiddenInHomeList: true

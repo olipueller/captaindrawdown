@@ -1,7 +1,7 @@
 ---
 title: "Diriba Bane Nemera"
 description: "Diriba Bane Nemera is a Mid-career carbon dioxide removal researcher at Weizmann Institute of Science in IL. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.083101
+date: 2026-04-02T07:03:26.482875
 url: "/cdr-researcher-census/researchers/diriba-bane-nemera-a5059547/"
 layout: "researcher"
 hiddenInHomeList: true

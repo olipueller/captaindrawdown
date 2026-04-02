@@ -1,7 +1,7 @@
 ---
 title: "Hongxue Luo"
 description: "Hongxue Luo is a Mid-career Biochar researcher at South China Sea Institute Of Oceanology in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.754275
+date: 2026-04-02T07:03:26.006279
 url: "/cdr-researcher-census/researchers/hongxue-luo-a5011723/"
 layout: "researcher"
 hiddenInHomeList: true

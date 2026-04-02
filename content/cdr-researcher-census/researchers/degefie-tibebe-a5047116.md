@@ -1,7 +1,7 @@
 ---
 title: "Degefie Tibebe"
 description: "Degefie Tibebe is a Senior Soil Carbon researcher at Alliance Bioversity International and CIAT in ET. With 39 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.652957
+date: 2026-04-02T07:03:24.395403
 url: "/cdr-researcher-census/researchers/degefie-tibebe-a5047116/"
 layout: "researcher"
 hiddenInHomeList: true

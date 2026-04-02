@@ -1,7 +1,7 @@
 ---
 title: "Nano Alemu Daba"
 description: "Nano Alemu Daba is a Mid-career Soil Carbon researcher at Haramaya University in ET. With 41 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.907034
+date: 2026-04-02T07:03:24.760432
 url: "/cdr-researcher-census/researchers/nano-alemu-daba-a5046130/"
 layout: "researcher"
 hiddenInHomeList: true

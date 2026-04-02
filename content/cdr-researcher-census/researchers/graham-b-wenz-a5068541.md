@@ -1,7 +1,7 @@
 ---
 title: "Graham B. Wenz"
 description: "Graham B. Wenz is a Mid-career DAC researcher. With 14 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.428304
+date: 2026-04-02T07:03:24.075050
 url: "/cdr-researcher-census/researchers/graham-b-wenz-a5068541/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Andréa da Consolação de Oliveira Carvalho"
 description: "Andréa da Consolação de Oliveira Carvalho is a Mid-career General CDR researcher at Universidade Federal do Rio Grande in BR. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.990578
+date: 2026-04-02T07:03:26.346613
 url: "/cdr-researcher-census/researchers/andrea-da-consolacao-de-oliveira-carvalho-a5058340/"
 layout: "researcher"
 hiddenInHomeList: true

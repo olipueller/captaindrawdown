@@ -1,7 +1,7 @@
 ---
 title: "Lele Qiao"
 description: "Lele Qiao is a Mid-career Biochar researcher at Zhangjiakou Academy of Agricultural Sciences in CN. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.120383
+date: 2026-04-02T07:03:25.085011
 url: "/cdr-researcher-census/researchers/lele-qiao-a5100754/"
 layout: "researcher"
 hiddenInHomeList: true

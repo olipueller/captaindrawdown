@@ -1,7 +1,7 @@
 ---
 title: "Narinder Panotra"
 description: "Narinder Panotra is a Mid-career Soil Carbon researcher at Sher-e-Kashmir University of Agricultural Sciences and Technology of Jammu in IN. With 90 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.544233
+date: 2026-04-02T07:03:25.722837
 url: "/cdr-researcher-census/researchers/narinder-panotra-a5024454/"
 layout: "researcher"
 hiddenInHomeList: true

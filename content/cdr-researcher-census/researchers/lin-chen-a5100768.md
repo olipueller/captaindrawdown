@@ -1,7 +1,7 @@
 ---
 title: "Lin Chen"
 description: "Lin Chen is a Senior Biochar researcher at Jilin Agricultural University in CN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.218801
+date: 2026-04-02T07:03:25.229183
 url: "/cdr-researcher-census/researchers/lin-chen-a5100768/"
 layout: "researcher"
 hiddenInHomeList: true

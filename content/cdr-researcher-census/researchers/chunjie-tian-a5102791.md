@@ -1,7 +1,7 @@
 ---
 title: "Chunjie Tian"
 description: "Chunjie Tian is a Mid-career Enhanced Weathering researcher at Liaocheng University in CN. With 20 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.626153
+date: 2026-04-02T07:03:24.357080
 url: "/cdr-researcher-census/researchers/chunjie-tian-a5102791/"
 layout: "researcher"
 hiddenInHomeList: true

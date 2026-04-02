@@ -1,7 +1,7 @@
 ---
 title: "Michael S. Shafer"
 description: "Michael S. Shafer is a Senior Biochar researcher at Heart Foundation in US. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.053724
+date: 2026-04-02T07:03:24.986564
 url: "/cdr-researcher-census/researchers/michael-s-shafer-a5101963/"
 layout: "researcher"
 hiddenInHomeList: true

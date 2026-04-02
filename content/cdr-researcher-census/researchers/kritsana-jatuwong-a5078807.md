@@ -1,7 +1,7 @@
 ---
 title: "Kritsana Jatuwong"
 description: "Kritsana Jatuwong is a Mid-career Biochar researcher at Chiang Mai University in TH. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.668666
+date: 2026-04-02T07:03:24.423713
 url: "/cdr-researcher-census/researchers/kritsana-jatuwong-a5078807/"
 layout: "researcher"
 hiddenInHomeList: true

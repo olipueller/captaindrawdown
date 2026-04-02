@@ -1,7 +1,7 @@
 ---
 title: "Moira M. Ijzerman"
 description: "Moira M. Ijzerman is a Senior carbon dioxide removal researcher at University of Guelph in CA. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.570203
+date: 2026-04-02T07:03:25.760816
 url: "/cdr-researcher-census/researchers/moira-m-ijzerman-a5021439/"
 layout: "researcher"
 hiddenInHomeList: true

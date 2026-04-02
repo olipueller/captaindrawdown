@@ -1,7 +1,7 @@
 ---
 title: "Michaël Fonder"
 description: "Michaël Fonder is a Mid-career DAC researcher at University of Liège in BE. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.026578
+date: 2026-04-02T07:03:26.399898
 url: "/cdr-researcher-census/researchers/michael-fonder-a5063464/"
 layout: "researcher"
 hiddenInHomeList: true

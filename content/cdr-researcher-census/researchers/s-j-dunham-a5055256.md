@@ -1,7 +1,7 @@
 ---
 title: "S. J. Dunham"
 description: "S. J. Dunham is a Senior Enhanced Weathering researcher at Rothamsted Research in GB. With 40 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.150132
+date: 2026-04-02T07:03:23.708107
 url: "/cdr-researcher-census/researchers/s-j-dunham-a5055256/"
 layout: "researcher"
 hiddenInHomeList: true

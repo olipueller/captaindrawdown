@@ -1,7 +1,7 @@
 ---
 title: "Alexander Nauels"
 description: "Alexander Nauels is a Senior General CDR researcher at International Institute for Applied Systems Analysis in AT. With 81 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.093342
+date: 2026-04-02T07:03:23.638949
 url: "/cdr-researcher-census/researchers/alexander-nauels-a5071081/"
 layout: "researcher"
 hiddenInHomeList: true

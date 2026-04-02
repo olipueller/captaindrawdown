@@ -1,7 +1,7 @@
 ---
 title: "Anderson Soares Chinen"
 description: "Anderson Soares Chinen is a Mid-career carbon dioxide removal researcher at West Virginia University in US. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.653339
+date: 2026-04-02T07:03:25.886995
 url: "/cdr-researcher-census/researchers/anderson-soares-chinen-a5023700/"
 layout: "researcher"
 hiddenInHomeList: true

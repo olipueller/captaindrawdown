@@ -1,7 +1,7 @@
 ---
 title: "Chunliang Ge"
 description: "Chunliang Ge is a Mid-career carbon dioxide removal researcher at Zhejiang Energy Group (China) in CN. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.994335
+date: 2026-04-02T07:03:24.900989
 url: "/cdr-researcher-census/researchers/chunliang-ge-a5053972/"
 layout: "researcher"
 hiddenInHomeList: true

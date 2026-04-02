@@ -1,7 +1,7 @@
 ---
 title: "Cole D. Gross"
 description: "Cole D. Gross is a Mid-career Soil Carbon researcher at SUNY College of Environmental Science and Forestry in US. With 32 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.877226
+date: 2026-04-02T07:03:24.714067
 url: "/cdr-researcher-census/researchers/cole-d-gross-a5010542/"
 layout: "researcher"
 hiddenInHomeList: true

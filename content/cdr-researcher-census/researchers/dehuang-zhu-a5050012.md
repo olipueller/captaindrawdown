@@ -1,7 +1,7 @@
 ---
 title: "Dehuang Zhu"
 description: "Dehuang Zhu is a Mid-career carbon dioxide removal researcher at Sun Yat-sen University in CN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.548012
+date: 2026-04-02T07:03:25.728558
 url: "/cdr-researcher-census/researchers/dehuang-zhu-a5050012/"
 layout: "researcher"
 hiddenInHomeList: true

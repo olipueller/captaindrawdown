@@ -1,7 +1,7 @@
 ---
 title: "Paul E. Savas"
 description: "Paul E. Savas is a Mid-career carbon dioxide removal researcher at Rice University in US. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.760022
+date: 2026-04-02T07:03:24.554875
 url: "/cdr-researcher-census/researchers/paul-e-savas-a5032539/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Mériadec Sillanpää"
 description: "Mériadec Sillanpää is a Mid-career Soil Carbon researcher at National University of Singapore in SG. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.773588
+date: 2026-04-02T07:03:24.574142
 url: "/cdr-researcher-census/researchers/meriadec-sillanpaa-a5041056/"
 layout: "researcher"
 hiddenInHomeList: true

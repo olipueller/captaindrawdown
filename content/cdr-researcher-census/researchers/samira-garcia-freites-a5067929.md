@@ -1,7 +1,7 @@
 ---
 title: "Samira García-Freites"
 description: "Samira García-Freites is a Mid-career BECCS researcher at Centro de Investigación Docencia y Consultoria Administrativa in CO. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.135491
+date: 2026-04-02T07:03:25.107388
 url: "/cdr-researcher-census/researchers/samira-garcia-freites-a5067929/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Wangyu Wei"
 description: "Wangyu Wei is a Senior General CDR researcher at Tsinghua University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.903646
+date: 2026-04-02T07:03:24.754912
 url: "/cdr-researcher-census/researchers/wangyu-wei-a5101676/"
 layout: "researcher"
 hiddenInHomeList: true

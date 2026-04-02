@@ -1,7 +1,7 @@
 ---
 title: "Vesna Pešić"
 description: "Vesna Pešić is a Mid-career Biochar researcher at University of Novi Sad in RS. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.694603
+date: 2026-04-02T07:03:25.950724
 url: "/cdr-researcher-census/researchers/vesna-pesic-a5067656/"
 layout: "researcher"
 hiddenInHomeList: true

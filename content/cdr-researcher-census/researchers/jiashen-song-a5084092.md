@@ -1,7 +1,7 @@
 ---
 title: "Jiashen Song"
 description: "Jiashen Song is a Mid-career Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 30 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.114341
+date: 2026-04-02T07:03:25.075649
 url: "/cdr-researcher-census/researchers/jiashen-song-a5084092/"
 layout: "researcher"
 hiddenInHomeList: true

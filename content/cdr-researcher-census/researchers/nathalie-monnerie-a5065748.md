@@ -1,7 +1,7 @@
 ---
 title: "Nathalie Monnerie"
 description: "Nathalie Monnerie is a Senior General CDR researcher at Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR) in DE. With 113 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.350965
+date: 2026-04-02T07:03:23.977816
 url: "/cdr-researcher-census/researchers/nathalie-monnerie-a5065748/"
 layout: "researcher"
 hiddenInHomeList: true

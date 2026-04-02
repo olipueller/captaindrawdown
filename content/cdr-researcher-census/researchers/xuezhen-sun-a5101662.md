@@ -1,7 +1,7 @@
 ---
 title: "Xuezhen Sun"
 description: "Xuezhen Sun is a Senior Soil Carbon researcher at Xuzhou Medical College in CN. With 62 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.467412
+date: 2026-04-02T07:03:24.129955
 url: "/cdr-researcher-census/researchers/xuezhen-sun-a5101662/"
 layout: "researcher"
 hiddenInHomeList: true

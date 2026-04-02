@@ -1,7 +1,7 @@
 ---
 title: "Oliver Fricko"
 description: "Oliver Fricko is a Senior General CDR researcher at International Institute for Applied Systems Analysis in AT. With 112 publications and an h-index of 37, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.079254
+date: 2026-04-02T07:03:23.622061
 url: "/cdr-researcher-census/researchers/oliver-fricko-a5050300/"
 layout: "researcher"
 hiddenInHomeList: true

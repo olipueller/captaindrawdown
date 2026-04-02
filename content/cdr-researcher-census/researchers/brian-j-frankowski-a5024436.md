@@ -1,7 +1,7 @@
 ---
 title: "Brian J. Frankowski"
 description: "Brian J. Frankowski is a Senior carbon dioxide removal researcher. With 36 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.784017
+date: 2026-04-02T07:03:24.587543
 url: "/cdr-researcher-census/researchers/brian-j-frankowski-a5024436/"
 layout: "researcher"
 hiddenInHomeList: true

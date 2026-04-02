@@ -1,7 +1,7 @@
 ---
 title: "Ye Huang"
 description: "Ye Huang is a Mid-career General CDR researcher at Centre National de la Recherche Scientifique in FR. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.091152
+date: 2026-04-02T07:03:26.494373
 url: "/cdr-researcher-census/researchers/ye-huang-a5106332/"
 layout: "researcher"
 hiddenInHomeList: true

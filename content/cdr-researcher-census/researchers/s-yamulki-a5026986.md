@@ -1,7 +1,7 @@
 ---
 title: "S. Yamulki"
 description: "S. Yamulki is a Senior Soil Carbon researcher at Forest Research in GB. With 95 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.199344
+date: 2026-04-02T07:03:23.777856
 url: "/cdr-researcher-census/researchers/s-yamulki-a5026986/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yan Zhang"
 description: "Yan Zhang is a Mid-career Soil Carbon researcher at Fudan University in CN. With 30 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.007167
+date: 2026-04-02T07:03:24.920915
 url: "/cdr-researcher-census/researchers/yan-zhang-a5100456/"
 layout: "researcher"
 hiddenInHomeList: true

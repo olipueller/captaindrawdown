@@ -1,7 +1,7 @@
 ---
 title: "Emily Woodhouse"
 description: "Emily Woodhouse is a Mid-career General CDR researcher at University College London in GB. With 37 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.480502
+date: 2026-04-02T07:03:24.147898
 url: "/cdr-researcher-census/researchers/emily-woodhouse-a5055843/"
 layout: "researcher"
 hiddenInHomeList: true

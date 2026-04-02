@@ -1,7 +1,7 @@
 ---
 title: "Joyce Clarke"
 description: "Joyce Clarke is a Senior Biochar researcher at Middlesbrough College in GB. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.843908
+date: 2026-04-02T07:03:26.135531
 url: "/cdr-researcher-census/researchers/joyce-clarke-a5068445/"
 layout: "researcher"
 hiddenInHomeList: true

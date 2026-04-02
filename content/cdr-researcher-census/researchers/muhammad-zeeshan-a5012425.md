@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Zeeshan"
 description: "Muhammad Zeeshan is a Senior DAC researcher at Massachusetts Institute of Technology in US. With 54 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.345125
+date: 2026-04-02T07:03:23.970083
 url: "/cdr-researcher-census/researchers/muhammad-zeeshan-a5012425/"
 layout: "researcher"
 hiddenInHomeList: true

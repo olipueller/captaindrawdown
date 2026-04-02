@@ -1,7 +1,7 @@
 ---
 title: "Wentian He"
 description: "Wentian He is a Senior Soil Carbon researcher at Beijing Academy of Agriculture and Forestry Sciences in CN. With 55 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.339921
+date: 2026-04-02T07:03:23.963253
 url: "/cdr-researcher-census/researchers/wentian-he-a5042244/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Kata Frei"
 description: "Kata Frei is a Mid-career Soil Carbon researcher at University of Szeged in HU. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.758226
+date: 2026-04-02T07:03:26.012574
 url: "/cdr-researcher-census/researchers/kata-frei-a5080458/"
 layout: "researcher"
 hiddenInHomeList: true

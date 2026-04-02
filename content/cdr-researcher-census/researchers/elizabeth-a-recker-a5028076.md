@@ -1,7 +1,7 @@
 ---
 title: "Elizabeth A. Recker"
 description: "Elizabeth A. Recker is a Mid-career carbon dioxide removal researcher at The University of Texas at Austin in US. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.675491
+date: 2026-04-02T07:03:25.922414
 url: "/cdr-researcher-census/researchers/elizabeth-a-recker-a5028076/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Tobias Linke"
 description: "Tobias Linke is a Mid-career Enhanced Weathering researcher at Universität Hamburg in DE. With 42 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.959913
+date: 2026-04-02T07:03:26.306661
 url: "/cdr-researcher-census/researchers/tobias-linke-a5081151/"
 layout: "researcher"
 hiddenInHomeList: true

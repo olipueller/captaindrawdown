@@ -1,7 +1,7 @@
 ---
 title: "Litao Lin"
 description: "Litao Lin is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 28 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.798996
+date: 2026-04-02T07:03:26.071072
 url: "/cdr-researcher-census/researchers/litao-lin-a5045708/"
 layout: "researcher"
 hiddenInHomeList: true

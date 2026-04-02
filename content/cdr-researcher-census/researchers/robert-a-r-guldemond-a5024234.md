@@ -1,7 +1,7 @@
 ---
 title: "Robert A. R. Guldemond"
 description: "Robert A. R. Guldemond is a Senior General CDR researcher at University of Pretoria in ZA. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.902830
+date: 2026-04-02T07:03:24.753652
 url: "/cdr-researcher-census/researchers/robert-a-r-guldemond-a5024234/"
 layout: "researcher"
 hiddenInHomeList: true

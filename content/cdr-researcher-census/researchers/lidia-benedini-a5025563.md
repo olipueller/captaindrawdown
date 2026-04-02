@@ -1,7 +1,7 @@
 ---
 title: "Lidia Benedini"
 description: "Lidia Benedini is a Mid-career Biochar researcher at Association of Southeast Asian Nations in ID. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.293450
+date: 2026-04-02T07:03:26.816872
 url: "/cdr-researcher-census/researchers/lidia-benedini-a5025563/"
 layout: "researcher"
 hiddenInHomeList: true

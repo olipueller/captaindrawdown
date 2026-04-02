@@ -1,7 +1,7 @@
 ---
 title: "Xuexia Xing"
 description: "Xuexia Xing is a Senior General CDR researcher at Northeast Forestry University in CN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.185556
+date: 2026-04-02T07:03:26.646010
 url: "/cdr-researcher-census/researchers/xuexia-xing-a5030909/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Hamidreza Sayadi"
 description: "Hamidreza Sayadi is a Mid-career carbon dioxide removal researcher at University of Shahrood in IR. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.865825
+date: 2026-04-02T07:03:24.697489
 url: "/cdr-researcher-census/researchers/hamidreza-sayadi-a5031171/"
 layout: "researcher"
 hiddenInHomeList: true

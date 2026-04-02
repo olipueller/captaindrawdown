@@ -1,7 +1,7 @@
 ---
 title: "J. Lahitiana"
 description: "J. Lahitiana is a Mid-career carbon dioxide removal researcher at University of Antananarivo in MG. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.098110
+date: 2026-04-02T07:03:26.503793
 url: "/cdr-researcher-census/researchers/j-lahitiana-a5042664/"
 layout: "researcher"
 hiddenInHomeList: true

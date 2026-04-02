@@ -1,7 +1,7 @@
 ---
 title: "Priyanka Rajput"
 description: "Priyanka Rajput is a Mid-career Soil Carbon researcher at Ahmedabad University in IN. With 39 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.993566
+date: 2026-04-02T07:03:24.899700
 url: "/cdr-researcher-census/researchers/priyanka-rajput-a5089736/"
 layout: "researcher"
 hiddenInHomeList: true

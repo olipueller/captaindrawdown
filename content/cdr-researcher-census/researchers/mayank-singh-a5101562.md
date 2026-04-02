@@ -1,7 +1,7 @@
 ---
 title: "Mayank Singh"
 description: "Mayank Singh is a Senior Biochar researcher at Indian Institute of Technology Indore in IN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.540582
+date: 2026-04-02T07:03:25.717628
 url: "/cdr-researcher-census/researchers/mayank-singh-a5101562/"
 layout: "researcher"
 hiddenInHomeList: true

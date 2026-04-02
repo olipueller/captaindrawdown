@@ -1,7 +1,7 @@
 ---
 title: "Donghao Ma"
 description: "Donghao Ma is a Senior Soil Carbon researcher at Institute of Soil Science Chinese Academy of Sciences in CN. With 99 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.263750
+date: 2026-04-02T07:03:23.858806
 url: "/cdr-researcher-census/researchers/donghao-ma-a5028875/"
 layout: "researcher"
 hiddenInHomeList: true

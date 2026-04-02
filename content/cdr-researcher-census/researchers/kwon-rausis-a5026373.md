@@ -1,7 +1,7 @@
 ---
 title: "Kwon Rausis"
 description: "Kwon Rausis is a Mid-career Enhanced Weathering researcher at Trent University in CA. With 25 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.153345
+date: 2026-04-02T07:03:25.133134
 url: "/cdr-researcher-census/researchers/kwon-rausis-a5026373/"
 layout: "researcher"
 hiddenInHomeList: true

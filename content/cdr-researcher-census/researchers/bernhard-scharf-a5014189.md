@@ -1,7 +1,7 @@
 ---
 title: "Bernhard Scharf"
 description: "Bernhard Scharf is a Senior Soil Carbon researcher at Landscape Institute in GB. With 32 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.106358
+date: 2026-04-02T07:03:25.064317
 url: "/cdr-researcher-census/researchers/bernhard-scharf-a5014189/"
 layout: "researcher"
 hiddenInHomeList: true

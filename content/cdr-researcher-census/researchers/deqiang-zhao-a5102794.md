@@ -1,7 +1,7 @@
 ---
 title: "Deqiang Zhao"
 description: "Deqiang Zhao is a Mid-career Soil Carbon researcher at Bangor University in GB. With 17 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.648675
+date: 2026-04-02T07:03:24.389029
 url: "/cdr-researcher-census/researchers/deqiang-zhao-a5102794/"
 layout: "researcher"
 hiddenInHomeList: true

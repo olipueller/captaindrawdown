@@ -1,7 +1,7 @@
 ---
 title: "Raj Mukhopadhyay"
 description: "Raj Mukhopadhyay is a Senior Soil Carbon researcher at Central Soil Salinity Research Institute in IN. With 68 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.179166
+date: 2026-04-02T07:03:23.747499
 url: "/cdr-researcher-census/researchers/raj-mukhopadhyay-a5049349/"
 layout: "researcher"
 hiddenInHomeList: true

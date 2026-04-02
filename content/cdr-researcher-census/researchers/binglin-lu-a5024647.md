@@ -1,7 +1,7 @@
 ---
 title: "Binglin Lu"
 description: "Binglin Lu is a Senior Soil Carbon researcher at Gansu Academy of Agricultural Sciences in CN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.900023
+date: 2026-04-02T07:03:26.215431
 url: "/cdr-researcher-census/researchers/binglin-lu-a5024647/"
 layout: "researcher"
 hiddenInHomeList: true

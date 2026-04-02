@@ -1,7 +1,7 @@
 ---
 title: "João Marreiros"
 description: "João Marreiros is a Mid-career carbon dioxide removal researcher at Georgia Institute of Technology in US. With 33 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.530293
+date: 2026-04-02T07:03:24.216021
 url: "/cdr-researcher-census/researchers/joao-marreiros-a5014852/"
 layout: "researcher"
 hiddenInHomeList: true

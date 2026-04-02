@@ -1,7 +1,7 @@
 ---
 title: "Domenico Rosa"
 description: "Domenico Rosa is a Mid-career Biochar researcher at Sapienza University of Rome in IT. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.883266
+date: 2026-04-02T07:03:26.191254
 url: "/cdr-researcher-census/researchers/domenico-rosa-a5032702/"
 layout: "researcher"
 hiddenInHomeList: true

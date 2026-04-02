@@ -1,7 +1,7 @@
 ---
 title: "Hongbing Zheng"
 description: "Hongbing Zheng is a Senior Soil Carbon researcher. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.983467
+date: 2026-04-02T07:03:24.883773
 url: "/cdr-researcher-census/researchers/hongbing-zheng-a5103275/"
 layout: "researcher"
 hiddenInHomeList: true

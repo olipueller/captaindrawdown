@@ -1,7 +1,7 @@
 ---
 title: "Geshere Abdisa Gurmesa"
 description: "Geshere Abdisa Gurmesa is a Mid-career Soil Carbon researcher at Institute of Applied Ecology in CN. With 53 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.442477
+date: 2026-04-02T07:03:24.093695
 url: "/cdr-researcher-census/researchers/geshere-abdisa-gurmesa-a5035382/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Kelpie Wilson"
 description: "Kelpie Wilson is a Mid-career Biochar researcher at Biosearch Technologies (United States) in US. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.475145
+date: 2026-04-02T07:03:25.625371
 url: "/cdr-researcher-census/researchers/kelpie-wilson-a5079696/"
 layout: "researcher"
 hiddenInHomeList: true

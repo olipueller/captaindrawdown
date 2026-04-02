@@ -1,7 +1,7 @@
 ---
 title: "Clint M. Mattox"
 description: "Clint M. Mattox is a Mid-career Soil Carbon researcher at Agricultural Research Service in US. With 32 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.682111
+date: 2026-04-02T07:03:25.932332
 url: "/cdr-researcher-census/researchers/clint-m-mattox-a5046255/"
 layout: "researcher"
 hiddenInHomeList: true

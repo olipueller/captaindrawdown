@@ -1,7 +1,7 @@
 ---
 title: "Noah McQueen"
 description: "Noah McQueen is a Mid-career DAC researcher at Carbon Carbon Advanced Technologies (United States) in US. With 25 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.247514
+date: 2026-04-02T07:03:23.836678
 url: "/cdr-researcher-census/researchers/noah-mcqueen-a5036880/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Lijun Yu"
 description: "Lijun Yu is a Senior DAC researcher at Shanghai Jiao Tong University in CN. With 91 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.241276
+date: 2026-04-02T07:03:23.827657
 url: "/cdr-researcher-census/researchers/lijun-yu-a5101774/"
 layout: "researcher"
 hiddenInHomeList: true

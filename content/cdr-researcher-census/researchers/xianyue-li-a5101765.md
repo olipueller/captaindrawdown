@@ -1,7 +1,7 @@
 ---
 title: "Xianyue Li"
 description: "Xianyue Li is a Mid-career Biochar researcher at Shenyang Ligong University in CN. With 14 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.829009
+date: 2026-04-02T07:03:24.645308
 url: "/cdr-researcher-census/researchers/xianyue-li-a5101765/"
 layout: "researcher"
 hiddenInHomeList: true

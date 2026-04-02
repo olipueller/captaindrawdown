@@ -1,7 +1,7 @@
 ---
 title: "T. Albahri"
 description: "T. Albahri is a Mid-career Enhanced Weathering researcher. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.263195
+date: 2026-04-02T07:03:23.857825
 url: "/cdr-researcher-census/researchers/t-albahri-a5081495/"
 layout: "researcher"
 hiddenInHomeList: true

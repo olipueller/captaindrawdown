@@ -1,7 +1,7 @@
 ---
 title: "Sabereh Rezaei"
 description: "Sabereh Rezaei is a Senior General CDR researcher at Phoenix Technologies (Canada) in CA. With 24 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.796498
+date: 2026-04-02T07:03:24.605101
 url: "/cdr-researcher-census/researchers/sabereh-rezaei-a5041608/"
 layout: "researcher"
 hiddenInHomeList: true

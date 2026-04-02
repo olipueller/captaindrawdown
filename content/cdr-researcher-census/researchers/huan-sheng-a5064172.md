@@ -1,7 +1,7 @@
 ---
 title: "Huan Sheng"
 description: "Huan Sheng is a Senior carbon dioxide removal researcher at Anhui University of Traditional Chinese Medicine in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.962207
+date: 2026-04-02T07:03:26.310002
 url: "/cdr-researcher-census/researchers/huan-sheng-a5064172/"
 layout: "researcher"
 hiddenInHomeList: true

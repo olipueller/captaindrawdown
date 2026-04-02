@@ -1,7 +1,7 @@
 ---
 title: "David M. Thierry"
 description: "David M. Thierry is a Mid-career DAC researcher at Centre National de la Recherche Scientifique in FR. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.118678
+date: 2026-04-02T07:03:26.532936
 url: "/cdr-researcher-census/researchers/david-m-thierry-a5088900/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Meenu Mariam Jacob"
 description: "Meenu Mariam Jacob is a Mid-career Biochar researcher at SRM Institute of Science and Technology in IN. With 19 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.488501
+date: 2026-04-02T07:03:24.158251
 url: "/cdr-researcher-census/researchers/meenu-mariam-jacob-a5113042/"
 layout: "researcher"
 hiddenInHomeList: true

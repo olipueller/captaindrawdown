@@ -1,7 +1,7 @@
 ---
 title: "Asghar Sadeghi"
 description: "Asghar Sadeghi is a Mid-career DAC researcher at Polytechnique Montréal in CA. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.778713
+date: 2026-04-02T07:03:26.041722
 url: "/cdr-researcher-census/researchers/asghar-sadeghi-a5112663/"
 layout: "researcher"
 hiddenInHomeList: true

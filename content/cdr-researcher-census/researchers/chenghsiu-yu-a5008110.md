@@ -1,7 +1,7 @@
 ---
 title: "Cheng‐Hsiu Yu"
 description: "Cheng‐Hsiu Yu is a Mid-career carbon dioxide removal researcher at National Taiwan University of Science and Technology in TW. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.265204
+date: 2026-04-02T07:03:23.861647
 url: "/cdr-researcher-census/researchers/chenghsiu-yu-a5008110/"
 layout: "researcher"
 hiddenInHomeList: true

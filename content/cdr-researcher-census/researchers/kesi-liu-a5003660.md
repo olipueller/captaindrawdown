@@ -1,7 +1,7 @@
 ---
 title: "Kesi Liu"
 description: "Kesi Liu is a Senior Soil Carbon researcher at China Agricultural University in CN. With 70 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.314294
+date: 2026-04-02T07:03:23.928640
 url: "/cdr-researcher-census/researchers/kesi-liu-a5003660/"
 layout: "researcher"
 hiddenInHomeList: true

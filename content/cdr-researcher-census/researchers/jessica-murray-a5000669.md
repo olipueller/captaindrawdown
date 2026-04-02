@@ -1,7 +1,7 @@
 ---
 title: "Jessica Murray"
 description: "Jessica Murray is a Mid-career Soil Carbon researcher. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.318477
+date: 2026-04-02T07:03:25.367210
 url: "/cdr-researcher-census/researchers/jessica-murray-a5000669/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Lihua Yang"
 description: "Lihua Yang is a Senior DAC researcher at Chinese Academy of Agricultural Sciences in CN. With 24 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.255798
+date: 2026-04-02T07:03:26.757897
 url: "/cdr-researcher-census/researchers/lihua-yang-a5101885/"
 layout: "researcher"
 hiddenInHomeList: true

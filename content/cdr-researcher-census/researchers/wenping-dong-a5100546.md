@@ -1,7 +1,7 @@
 ---
 title: "Wenping Dong"
 description: "Wenping Dong is a Mid-career Biochar researcher at North China University of Water Resources and Electric Power in CN. With 31 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.108353
+date: 2026-04-02T07:03:26.518594
 url: "/cdr-researcher-census/researchers/wenping-dong-a5100546/"
 layout: "researcher"
 hiddenInHomeList: true

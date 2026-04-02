@@ -1,7 +1,7 @@
 ---
 title: "Gangadhar Nanda"
 description: "Gangadhar Nanda is a Mid-career Soil Carbon researcher at Dr. Rajendra Prasad Central Agriculture University in IN. With 47 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.023843
+date: 2026-04-02T07:03:24.942386
 url: "/cdr-researcher-census/researchers/gangadhar-nanda-a5042677/"
 layout: "researcher"
 hiddenInHomeList: true

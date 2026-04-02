@@ -1,7 +1,7 @@
 ---
 title: "Tania Timmermann"
 description: "Tania Timmermann is a Senior Enhanced Weathering researcher at Miles College in US. With 22 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.440291
+date: 2026-04-02T07:03:24.090840
 url: "/cdr-researcher-census/researchers/tania-timmermann-a5054841/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Manuel Gabriel Velásquez Ramírez"
 description: "Manuel Gabriel Velásquez Ramírez is a Senior Soil Carbon researcher at Instituto de Investigaciones de la Amazonía Peruana in PE. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.089976
+date: 2026-04-02T07:03:26.492613
 url: "/cdr-researcher-census/researchers/manuel-gabriel-velasquez-ramirez-a5016279/"
 layout: "researcher"
 hiddenInHomeList: true

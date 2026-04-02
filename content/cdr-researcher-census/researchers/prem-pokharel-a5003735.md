@@ -1,7 +1,7 @@
 ---
 title: "Prem Pokharel"
 description: "Prem Pokharel is a Mid-career Soil Carbon researcher at University of Alberta in CA. With 20 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.468416
+date: 2026-04-02T07:03:24.131178
 url: "/cdr-researcher-census/researchers/prem-pokharel-a5003735/"
 layout: "researcher"
 hiddenInHomeList: true

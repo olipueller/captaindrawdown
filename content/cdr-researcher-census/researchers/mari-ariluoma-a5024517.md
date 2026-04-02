@@ -1,7 +1,7 @@
 ---
 title: "Mari Ariluoma"
 description: "Mari Ariluoma is a Mid-career General CDR researcher at Aalto University in FI. With 29 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.792920
+date: 2026-04-02T07:03:26.061844
 url: "/cdr-researcher-census/researchers/mari-ariluoma-a5024517/"
 layout: "researcher"
 hiddenInHomeList: true

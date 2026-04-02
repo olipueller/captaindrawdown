@@ -1,7 +1,7 @@
 ---
 title: "Rafael da Silva Teixeira"
 description: "Rafael da Silva Teixeira is a Mid-career Soil Carbon researcher at Universidade Federal de Viçosa in BR. With 35 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.529365
+date: 2026-04-02T07:03:25.701442
 url: "/cdr-researcher-census/researchers/rafael-da-silva-teixeira-a5040862/"
 layout: "researcher"
 hiddenInHomeList: true

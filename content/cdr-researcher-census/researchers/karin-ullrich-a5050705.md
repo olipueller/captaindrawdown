@@ -1,7 +1,7 @@
 ---
 title: "Karin Ullrich"
 description: "Karin Ullrich is a Senior General CDR researcher. With 21 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.395943
+date: 2026-04-02T07:03:26.961095
 url: "/cdr-researcher-census/researchers/karin-ullrich-a5050705/"
 layout: "researcher"
 hiddenInHomeList: true

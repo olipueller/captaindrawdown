@@ -1,7 +1,7 @@
 ---
 title: "Pabitra Saha"
 description: "Pabitra Saha is a Mid-career carbon dioxide removal researcher at DWI – Leibniz Institute for Interactive Materials in DE. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.254757
+date: 2026-04-02T07:03:25.280150
 url: "/cdr-researcher-census/researchers/pabitra-saha-a5090923/"
 layout: "researcher"
 hiddenInHomeList: true

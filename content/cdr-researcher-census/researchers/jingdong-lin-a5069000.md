@@ -1,7 +1,7 @@
 ---
 title: "Jingdong Lin"
 description: "Jingdong Lin is a Mid-career Soil Carbon researcher at Zhejiang University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.775854
+date: 2026-04-02T07:03:26.037913
 url: "/cdr-researcher-census/researchers/jingdong-lin-a5069000/"
 layout: "researcher"
 hiddenInHomeList: true

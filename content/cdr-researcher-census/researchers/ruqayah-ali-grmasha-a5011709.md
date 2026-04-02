@@ -1,7 +1,7 @@
 ---
 title: "Ruqayah Ali Grmasha"
 description: "Ruqayah Ali Grmasha is a Mid-career Biochar researcher at University of Pannonia in HU. With 30 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.627342
+date: 2026-04-02T07:03:24.358509
 url: "/cdr-researcher-census/researchers/ruqayah-ali-grmasha-a5011709/"
 layout: "researcher"
 hiddenInHomeList: true

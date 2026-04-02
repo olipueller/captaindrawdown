@@ -1,7 +1,7 @@
 ---
 title: "Ming Zhou"
 description: "Ming Zhou is an Early-career Biochar researcher at Fudan University in CN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.398269
+date: 2026-04-02T07:03:26.964017
 url: "/cdr-researcher-census/researchers/ming-zhou-a5065640/"
 layout: "researcher"
 hiddenInHomeList: true

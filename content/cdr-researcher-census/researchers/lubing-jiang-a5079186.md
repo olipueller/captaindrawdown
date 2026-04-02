@@ -1,7 +1,7 @@
 ---
 title: "Lubing Jiang"
 description: "Lubing Jiang is a Mid-career Soil Carbon researcher at Peking University in CN. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.965802
+date: 2026-04-02T07:03:26.315444
 url: "/cdr-researcher-census/researchers/lubing-jiang-a5079186/"
 layout: "researcher"
 hiddenInHomeList: true

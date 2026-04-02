@@ -1,7 +1,7 @@
 ---
 title: "Guangchao Shi"
 description: "Guangchao Shi is an Early-career Biochar researcher at Liaoning University in CN. With 5 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.179998
+date: 2026-04-02T07:03:26.638086
 url: "/cdr-researcher-census/researchers/guangchao-shi-a5042691/"
 layout: "researcher"
 hiddenInHomeList: true

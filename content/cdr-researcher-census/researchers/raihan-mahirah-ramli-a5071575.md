@@ -1,7 +1,7 @@
 ---
 title: "Raihan Mahirah Ramli"
 description: "Raihan Mahirah Ramli is a Mid-career carbon dioxide removal researcher at Universiti Teknologi Petronas in MY. With 44 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.741776
+date: 2026-04-02T07:03:24.527683
 url: "/cdr-researcher-census/researchers/raihan-mahirah-ramli-a5071575/"
 layout: "researcher"
 hiddenInHomeList: true

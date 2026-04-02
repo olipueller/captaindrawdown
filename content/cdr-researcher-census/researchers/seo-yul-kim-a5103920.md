@@ -1,7 +1,7 @@
 ---
 title: "Seo-Yul Kim"
 description: "Seo-Yul Kim is a Mid-career carbon dioxide removal researcher at Georgia Institute of Technology in US. With 16 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.536988
+date: 2026-04-02T07:03:24.228799
 url: "/cdr-researcher-census/researchers/seo-yul-kim-a5103920/"
 layout: "researcher"
 hiddenInHomeList: true

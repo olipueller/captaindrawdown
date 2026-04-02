@@ -1,7 +1,7 @@
 ---
 title: "Ryan Lynch"
 description: "Ryan Lynch is an Early-career carbon dioxide removal researcher at Salk Institute for Biological Studies in US. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.444037
+date: 2026-04-02T07:03:25.551991
 url: "/cdr-researcher-census/researchers/ryan-lynch-a5009717/"
 layout: "researcher"
 hiddenInHomeList: true

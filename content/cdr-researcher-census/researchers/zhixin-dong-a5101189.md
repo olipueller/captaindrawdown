@@ -1,7 +1,7 @@
 ---
 title: "Zhixin Dong"
 description: "Zhixin Dong is a Mid-career Biochar researcher at Institute of Mountain Hazards and Environment in CN. With 33 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.877943
+date: 2026-04-02T07:03:24.715151
 url: "/cdr-researcher-census/researchers/zhixin-dong-a5101189/"
 layout: "researcher"
 hiddenInHomeList: true

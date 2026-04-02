@@ -1,7 +1,7 @@
 ---
 title: "Thirumavalavan Ezhil"
 description: "Thirumavalavan Ezhil is an Early-career carbon dioxide removal researcher at Indian Institute of Technology Ropar in IN. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.998418
+date: 2026-04-02T07:03:26.359039
 url: "/cdr-researcher-census/researchers/thirumavalavan-ezhil-a5075935/"
 layout: "researcher"
 hiddenInHomeList: true

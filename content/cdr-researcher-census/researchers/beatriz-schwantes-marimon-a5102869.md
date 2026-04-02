@@ -1,7 +1,7 @@
 ---
 title: "Beatriz Schwantes Marimon"
 description: "Beatriz Schwantes Marimon is a Mid-career Soil Carbon researcher at Universidade do Estado de Mato Grosso in BR. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.997608
+date: 2026-04-02T07:03:26.357814
 url: "/cdr-researcher-census/researchers/beatriz-schwantes-marimon-a5102869/"
 layout: "researcher"
 hiddenInHomeList: true

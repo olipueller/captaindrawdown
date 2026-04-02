@@ -1,7 +1,7 @@
 ---
 title: "Xiao Wei"
 description: "Xiao Wei is a Senior Biochar researcher at Kunming University of Science and Technology in CN. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.815826
+date: 2026-04-02T07:03:26.095665
 url: "/cdr-researcher-census/researchers/xiao-wei-a5065751/"
 layout: "researcher"
 hiddenInHomeList: true

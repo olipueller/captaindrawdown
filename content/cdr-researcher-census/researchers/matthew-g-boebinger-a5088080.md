@@ -1,7 +1,7 @@
 ---
 title: "Matthew G. Boebinger"
 description: "Matthew G. Boebinger is a Mid-career DAC researcher at Oak Ridge National Laboratory in US. With 95 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.333645
+date: 2026-04-02T07:03:23.954200
 url: "/cdr-researcher-census/researchers/matthew-g-boebinger-a5088080/"
 layout: "researcher"
 hiddenInHomeList: true

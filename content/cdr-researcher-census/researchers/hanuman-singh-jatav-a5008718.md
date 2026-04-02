@@ -1,7 +1,7 @@
 ---
 title: "Hanuman Singh Jatav"
 description: "Hanuman Singh Jatav is a Senior Biochar researcher at Sri Karan Narendra Agriculture University Jobner Rajasthan, College of Agriculture  Fatehpur Sikar Rajasthan  in IN. With 102 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.254891
+date: 2026-04-02T07:03:23.846924
 url: "/cdr-researcher-census/researchers/hanuman-singh-jatav-a5008718/"
 layout: "researcher"
 hiddenInHomeList: true

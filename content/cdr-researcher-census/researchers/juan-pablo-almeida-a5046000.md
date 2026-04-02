@@ -1,7 +1,7 @@
 ---
 title: "Juan Pablo Almeida"
 description: "Juan Pablo Almeida is a Mid-career Soil Carbon researcher at Lund University in SE. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.502944
+date: 2026-04-02T07:03:25.663905
 url: "/cdr-researcher-census/researchers/juan-pablo-almeida-a5046000/"
 layout: "researcher"
 hiddenInHomeList: true

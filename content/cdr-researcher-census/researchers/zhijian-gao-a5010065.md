@@ -1,7 +1,7 @@
 ---
 title: "Zhijian Gao"
 description: "Zhijian Gao is a Senior Soil Carbon researcher at Xinjiang Production and Construction Corps in CN. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.355278
+date: 2026-04-02T07:03:25.420501
 url: "/cdr-researcher-census/researchers/zhijian-gao-a5010065/"
 layout: "researcher"
 hiddenInHomeList: true

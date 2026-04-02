@@ -1,7 +1,7 @@
 ---
 title: "Isabelle Weindl"
 description: "Isabelle Weindl is a Senior General CDR researcher at Leibniz Association in DE. With 79 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.113237
+date: 2026-04-02T07:03:23.663291
 url: "/cdr-researcher-census/researchers/isabelle-weindl-a5088110/"
 layout: "researcher"
 hiddenInHomeList: true

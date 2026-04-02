@@ -1,7 +1,7 @@
 ---
 title: "Claudia Guidi"
 description: "Claudia Guidi is a Mid-career Soil Carbon researcher at Swiss Federal Institute for Forest, Snow and Landscape Research in CH. With 39 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.927045
+date: 2026-04-02T07:03:24.793077
 url: "/cdr-researcher-census/researchers/claudia-guidi-a5060471/"
 layout: "researcher"
 hiddenInHomeList: true

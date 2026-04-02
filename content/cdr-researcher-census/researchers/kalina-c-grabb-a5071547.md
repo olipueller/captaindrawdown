@@ -1,7 +1,7 @@
 ---
 title: "Kalina C. Grabb"
 description: "Kalina C. Grabb is a Mid-career General CDR researcher at National Oceanic and Atmospheric Administration in US. With 26 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.013885
+date: 2026-04-02T07:03:24.928174
 url: "/cdr-researcher-census/researchers/kalina-c-grabb-a5071547/"
 layout: "researcher"
 hiddenInHomeList: true

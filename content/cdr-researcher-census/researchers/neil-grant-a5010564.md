@@ -1,7 +1,7 @@
 ---
 title: "Neil Grant"
 description: "Neil Grant is a Senior General CDR researcher at Imperial College London in GB. With 41 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.599483
+date: 2026-04-02T07:03:24.319381
 url: "/cdr-researcher-census/researchers/neil-grant-a5010564/"
 layout: "researcher"
 hiddenInHomeList: true

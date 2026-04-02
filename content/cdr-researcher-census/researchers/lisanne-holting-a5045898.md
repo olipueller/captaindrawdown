@@ -1,7 +1,7 @@
 ---
 title: "Lisanne Hölting"
 description: "Lisanne Hölting is a Mid-career Soil Carbon researcher at Institute of Landscape Ecology of the Slovak Academy of Sciences in SK. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.946830
+date: 2026-04-02T07:03:24.825810
 url: "/cdr-researcher-census/researchers/lisanne-holting-a5045898/"
 layout: "researcher"
 hiddenInHomeList: true

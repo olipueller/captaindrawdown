@@ -1,7 +1,7 @@
 ---
 title: "Ames Fowler"
 description: "Ames Fowler is a Mid-career General CDR researcher at Michigan State University in US. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.951144
+date: 2026-04-02T07:03:26.294025
 url: "/cdr-researcher-census/researchers/ames-fowler-a5050316/"
 layout: "researcher"
 hiddenInHomeList: true

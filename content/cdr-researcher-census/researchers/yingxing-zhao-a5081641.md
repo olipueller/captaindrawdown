@@ -1,7 +1,7 @@
 ---
 title: "Yingxing Zhao"
 description: "Yingxing Zhao is a Mid-career carbon dioxide removal researcher at Shandong Academy of Agricultural Sciences in CN. With 18 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.800418
+date: 2026-04-02T07:03:24.610111
 url: "/cdr-researcher-census/researchers/yingxing-zhao-a5081641/"
 layout: "researcher"
 hiddenInHomeList: true

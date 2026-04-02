@@ -1,7 +1,7 @@
 ---
 title: "John M. Findley"
 description: "John M. Findley is a Mid-career DAC researcher at Defense Logistics Agency in US. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.567340
+date: 2026-04-02T07:03:25.756453
 url: "/cdr-researcher-census/researchers/john-m-findley-a5013824/"
 layout: "researcher"
 hiddenInHomeList: true

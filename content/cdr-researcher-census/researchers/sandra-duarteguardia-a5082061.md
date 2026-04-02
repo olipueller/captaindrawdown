@@ -1,7 +1,7 @@
 ---
 title: "Sandra Duarte‐Guardia"
 description: "Sandra Duarte‐Guardia is a Mid-career Soil Carbon researcher at Universidad Científica del Sur in PE. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.316710
+date: 2026-04-02T07:03:25.364725
 url: "/cdr-researcher-census/researchers/sandra-duarteguardia-a5082061/"
 layout: "researcher"
 hiddenInHomeList: true

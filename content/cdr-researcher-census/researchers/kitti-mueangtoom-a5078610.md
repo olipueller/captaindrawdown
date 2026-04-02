@@ -1,7 +1,7 @@
 ---
 title: "Kitti Mueangtoom"
 description: "Kitti Mueangtoom is a Senior Biochar researcher at Uttaradit Rajabhat University in TH. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.246271
+date: 2026-04-02T07:03:26.744019
 url: "/cdr-researcher-census/researchers/kitti-mueangtoom-a5078610/"
 layout: "researcher"
 hiddenInHomeList: true

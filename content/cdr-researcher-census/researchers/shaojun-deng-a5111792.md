@@ -1,7 +1,7 @@
 ---
 title: "Shaojun Deng"
 description: "Shaojun Deng is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.810575
+date: 2026-04-02T07:03:26.088098
 url: "/cdr-researcher-census/researchers/shaojun-deng-a5111792/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Catherine Fraser"
 description: "Catherine Fraser is a Senior DAC researcher at University of Glasgow in GB. With 49 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.251139
+date: 2026-04-02T07:03:23.841551
 url: "/cdr-researcher-census/researchers/catherine-fraser-a5091077/"
 layout: "researcher"
 hiddenInHomeList: true

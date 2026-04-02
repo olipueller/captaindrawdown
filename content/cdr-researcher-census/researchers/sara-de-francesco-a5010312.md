@@ -1,7 +1,7 @@
 ---
 title: "Sara De Francesco"
 description: "Sara De Francesco is a Mid-career carbon dioxide removal researcher. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.102261
+date: 2026-04-02T07:03:26.508512
 url: "/cdr-researcher-census/researchers/sara-de-francesco-a5010312/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Carolina Pérez Brandán"
 description: "Carolina Pérez Brandán is a Mid-career Soil Carbon researcher at National University of Salta in AR. With 35 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.542490
+date: 2026-04-02T07:03:24.237616
 url: "/cdr-researcher-census/researchers/carolina-perez-brandan-a5069507/"
 layout: "researcher"
 hiddenInHomeList: true

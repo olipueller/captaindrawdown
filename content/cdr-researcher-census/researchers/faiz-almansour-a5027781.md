@@ -1,7 +1,7 @@
 ---
 title: "Faiz Almansour"
 description: "Faiz Almansour is a Mid-career carbon dioxide removal researcher at Saudi Aramco (Saudi Arabia) in SA. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.649687
+date: 2026-04-02T07:03:25.881368
 url: "/cdr-researcher-census/researchers/faiz-almansour-a5027781/"
 layout: "researcher"
 hiddenInHomeList: true

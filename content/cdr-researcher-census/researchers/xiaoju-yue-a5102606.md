@@ -1,7 +1,7 @@
 ---
 title: "Xiaoju Yue"
 description: "Xiaoju Yue is a Mid-career Biochar researcher at Tibet University in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.343995
+date: 2026-04-02T07:03:26.886944
 url: "/cdr-researcher-census/researchers/xiaoju-yue-a5102606/"
 layout: "researcher"
 hiddenInHomeList: true

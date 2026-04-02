@@ -1,7 +1,7 @@
 ---
 title: "Samuel Roberts"
 description: "Samuel Roberts is a Senior carbon dioxide removal researcher at Rocky Vista University in US. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.773154
+date: 2026-04-02T07:03:24.573565
 url: "/cdr-researcher-census/researchers/samuel-roberts-a5012734/"
 layout: "researcher"
 hiddenInHomeList: true

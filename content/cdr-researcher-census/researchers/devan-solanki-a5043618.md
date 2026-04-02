@@ -1,7 +1,7 @@
 ---
 title: "Devan Solanki"
 description: "Devan Solanki is a Mid-career DAC researcher at Yale University in US. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.693871
+date: 2026-04-02T07:03:24.457232
 url: "/cdr-researcher-census/researchers/devan-solanki-a5043618/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Tala Kasim"
 description: "Tala Kasim is a Senior Biochar researcher at Aston University in GB. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.506501
+date: 2026-04-02T07:03:25.668858
 url: "/cdr-researcher-census/researchers/tala-kasim-a5050192/"
 layout: "researcher"
 hiddenInHomeList: true

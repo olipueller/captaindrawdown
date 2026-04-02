@@ -1,7 +1,7 @@
 ---
 title: "David Beltrán-Marcos"
 description: "David Beltrán-Marcos is a Mid-career carbon dioxide removal researcher at Universidad de León in ES. With 11 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.495216
+date: 2026-04-02T07:03:25.653260
 url: "/cdr-researcher-census/researchers/david-beltran-marcos-a5060677/"
 layout: "researcher"
 hiddenInHomeList: true

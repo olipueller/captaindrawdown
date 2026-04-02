@@ -1,7 +1,7 @@
 ---
 title: "Shengnan Wu"
 description: "Shengnan Wu is a Mid-career carbon dioxide removal researcher at Beijing Forestry University in CN. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.853567
+date: 2026-04-02T07:03:24.680142
 url: "/cdr-researcher-census/researchers/shengnan-wu-a5084808/"
 layout: "researcher"
 hiddenInHomeList: true

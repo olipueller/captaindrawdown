@@ -1,7 +1,7 @@
 ---
 title: "Weifang Hu"
 description: "Weifang Hu is a Mid-career Soil Carbon researcher at Guangdong Academy of Agricultural Sciences in CN. With 35 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.286117
+date: 2026-04-02T07:03:23.891631
 url: "/cdr-researcher-census/researchers/weifang-hu-a5057350/"
 layout: "researcher"
 hiddenInHomeList: true

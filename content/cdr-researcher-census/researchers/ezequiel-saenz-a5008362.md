@@ -1,7 +1,7 @@
 ---
 title: "Ezequiel Saenz"
 description: "Ezequiel Saenz is a Mid-career carbon dioxide removal researcher at Iowa State University in US. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.328190
+date: 2026-04-02T07:03:26.866047
 url: "/cdr-researcher-census/researchers/ezequiel-saenz-a5008362/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Zhang Xin"
 description: "Zhang Xin is a Senior Soil Carbon researcher at CRC for Spatial information in AU. With 32 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.547403
+date: 2026-04-02T07:03:25.727533
 url: "/cdr-researcher-census/researchers/zhang-xin-a5100686/"
 layout: "researcher"
 hiddenInHomeList: true

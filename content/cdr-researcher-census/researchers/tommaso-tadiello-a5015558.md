@@ -1,7 +1,7 @@
 ---
 title: "Tommaso Tadiello"
 description: "Tommaso Tadiello is a Mid-career Soil Carbon researcher at Michigan State University in US. With 28 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.361714
+date: 2026-04-02T07:03:25.430434
 url: "/cdr-researcher-census/researchers/tommaso-tadiello-a5015558/"
 layout: "researcher"
 hiddenInHomeList: true

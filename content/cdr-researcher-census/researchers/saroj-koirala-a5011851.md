@@ -1,7 +1,7 @@
 ---
 title: "Saroj Koirala"
 description: "Saroj Koirala is a Mid-career Soil Carbon researcher at Nepal Water Conservation Foundation in NP. With 28 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.489798
+date: 2026-04-02T07:03:25.645410
 url: "/cdr-researcher-census/researchers/saroj-koirala-a5011851/"
 layout: "researcher"
 hiddenInHomeList: true

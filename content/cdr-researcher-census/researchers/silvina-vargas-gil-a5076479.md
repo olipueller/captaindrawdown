@@ -1,7 +1,7 @@
 ---
 title: "Silvina Vargas Gil"
 description: "Silvina Vargas Gil is a Senior Soil Carbon researcher at Consejo Nacional de Investigaciones Científicas y Técnicas in AR. With 65 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.345346
+date: 2026-04-02T07:03:23.970364
 url: "/cdr-researcher-census/researchers/silvina-vargas-gil-a5076479/"
 layout: "researcher"
 hiddenInHomeList: true

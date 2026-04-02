@@ -1,7 +1,7 @@
 ---
 title: "Mostafa Jafari"
 description: "Mostafa Jafari is a Senior General CDR researcher at Agricultural Research & Education Organization in IR. With 38 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.407022
+date: 2026-04-02T07:03:24.046406
 url: "/cdr-researcher-census/researchers/mostafa-jafari-a5066716/"
 layout: "researcher"
 hiddenInHomeList: true

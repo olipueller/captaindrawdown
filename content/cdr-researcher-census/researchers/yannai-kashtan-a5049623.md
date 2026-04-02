@@ -1,7 +1,7 @@
 ---
 title: "Yannai Kashtan"
 description: "Yannai Kashtan is a Mid-career carbon dioxide removal researcher at Healthy Start in US. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.992093
+date: 2026-04-02T07:03:26.349418
 url: "/cdr-researcher-census/researchers/yannai-kashtan-a5049623/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Qianqian Xia"
 description: "Qianqian Xia is a Mid-career Soil Carbon researcher at Tongji University in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.401567
+date: 2026-04-02T07:03:25.490686
 url: "/cdr-researcher-census/researchers/qianqian-xia-a5010223/"
 layout: "researcher"
 hiddenInHomeList: true

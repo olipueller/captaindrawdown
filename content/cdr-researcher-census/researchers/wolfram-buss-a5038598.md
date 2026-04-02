@@ -1,7 +1,7 @@
 ---
 title: "Wolfram Buss"
 description: "Wolfram Buss is a Senior Soil Carbon researcher at Commonwealth Scientific and Industrial Research Organisation in AU. With 68 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.156919
+date: 2026-04-02T07:03:23.716739
 url: "/cdr-researcher-census/researchers/wolfram-buss-a5038598/"
 layout: "researcher"
 hiddenInHomeList: true

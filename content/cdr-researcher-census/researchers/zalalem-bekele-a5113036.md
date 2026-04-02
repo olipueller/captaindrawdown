@@ -1,7 +1,7 @@
 ---
 title: "Zalalem Bekele"
 description: "Zalalem Bekele is a Senior General CDR researcher at Ethiopian Institute of Agricultural Research in ET. With 5 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.159026
+date: 2026-04-02T07:03:26.602271
 url: "/cdr-researcher-census/researchers/zalalem-bekele-a5113036/"
 layout: "researcher"
 hiddenInHomeList: true

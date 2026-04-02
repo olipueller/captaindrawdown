@@ -1,7 +1,7 @@
 ---
 title: "Martina Leveni"
 description: "Martina Leveni is a Mid-career General CDR researcher at The Ohio State University in US. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.771892
+date: 2026-04-02T07:03:26.032372
 url: "/cdr-researcher-census/researchers/martina-leveni-a5056135/"
 layout: "researcher"
 hiddenInHomeList: true

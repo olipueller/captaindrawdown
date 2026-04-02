@@ -1,7 +1,7 @@
 ---
 title: "Lening Hu"
 description: "Lening Hu is a Senior Soil Carbon researcher at Guangxi Normal University in CN. With 43 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.173781
+date: 2026-04-02T07:03:25.161464
 url: "/cdr-researcher-census/researchers/lening-hu-a5025163/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Manyi Du"
 description: "Manyi Du is a Senior Soil Carbon researcher at Chinese Academy of Forestry in CN. With 39 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.137035
+date: 2026-04-02T07:03:25.109657
 url: "/cdr-researcher-census/researchers/manyi-du-a5004889/"
 layout: "researcher"
 hiddenInHomeList: true

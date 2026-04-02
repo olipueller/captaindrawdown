@@ -1,7 +1,7 @@
 ---
 title: "Xiaobin Yan"
 description: "Xiaobin Yan is a Senior Soil Carbon researcher at Shanxi Agricultural University in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.229018
+date: 2026-04-02T07:03:26.720334
 url: "/cdr-researcher-census/researchers/xiaobin-yan-a5025475/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Clarisse T. Kraamwinkel"
 description: "Clarisse T. Kraamwinkel is an Early-career Soil Carbon researcher at University of Groningen in NL. With 6 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.819182
+date: 2026-04-02T07:03:26.100814
 url: "/cdr-researcher-census/researchers/clarisse-t-kraamwinkel-a5084704/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Andreas J. Wild"
 description: "Andreas J. Wild is a Senior Soil Carbon researcher at University of Bayreuth in DE. With 16 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.698864
+date: 2026-04-02T07:03:25.957422
 url: "/cdr-researcher-census/researchers/andreas-j-wild-a5080788/"
 layout: "researcher"
 hiddenInHomeList: true

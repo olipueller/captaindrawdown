@@ -1,7 +1,7 @@
 ---
 title: "Cunyang Niu"
 description: "Cunyang Niu is a Mid-career Soil Carbon researcher at Henan Agricultural University in CN. With 12 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.071585
+date: 2026-04-02T07:03:25.014298
 url: "/cdr-researcher-census/researchers/cunyang-niu-a5103745/"
 layout: "researcher"
 hiddenInHomeList: true

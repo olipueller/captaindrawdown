@@ -1,7 +1,7 @@
 ---
 title: "Gehong Wei"
 description: "Gehong Wei is a Senior Soil Carbon researcher at Northwest University in CN. With 67 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.190958
+date: 2026-04-02T07:03:23.766538
 url: "/cdr-researcher-census/researchers/gehong-wei-a5101699/"
 layout: "researcher"
 hiddenInHomeList: true

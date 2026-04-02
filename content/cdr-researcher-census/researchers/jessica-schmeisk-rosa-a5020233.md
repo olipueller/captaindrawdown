@@ -1,7 +1,7 @@
 ---
 title: "Jéssica Schmeisk Rosa"
 description: "Jéssica Schmeisk Rosa is a Mid-career carbon dioxide removal researcher at Instituto Nacional de Pesquisas da Amazônia in BR. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.809839
+date: 2026-04-02T07:03:24.622405
 url: "/cdr-researcher-census/researchers/jessica-schmeisk-rosa-a5020233/"
 layout: "researcher"
 hiddenInHomeList: true

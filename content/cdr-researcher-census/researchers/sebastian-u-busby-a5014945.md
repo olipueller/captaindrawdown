@@ -1,7 +1,7 @@
 ---
 title: "Sebastian U. Busby"
 description: "Sebastian U. Busby is a Mid-career General CDR researcher at The Nature Conservancy in US. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.258689
+date: 2026-04-02T07:03:25.285234
 url: "/cdr-researcher-census/researchers/sebastian-u-busby-a5014945/"
 layout: "researcher"
 hiddenInHomeList: true

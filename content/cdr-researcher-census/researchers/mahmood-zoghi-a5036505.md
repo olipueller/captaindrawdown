@@ -1,7 +1,7 @@
 ---
 title: "Mahmood Zoghi"
 description: "Mahmood Zoghi is a Mid-career carbon dioxide removal researcher at University of Tehran in IR. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.222787
+date: 2026-04-02T07:03:25.236011
 url: "/cdr-researcher-census/researchers/mahmood-zoghi-a5036505/"
 layout: "researcher"
 hiddenInHomeList: true

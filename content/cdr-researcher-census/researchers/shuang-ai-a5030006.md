@@ -1,7 +1,7 @@
 ---
 title: "Shuang Ai"
 description: "Shuang Ai is a Mid-career Soil Carbon researcher at Northeast Agricultural University in CN. With 36 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.398672
+date: 2026-04-02T07:03:25.486185
 url: "/cdr-researcher-census/researchers/shuang-ai-a5030006/"
 layout: "researcher"
 hiddenInHomeList: true

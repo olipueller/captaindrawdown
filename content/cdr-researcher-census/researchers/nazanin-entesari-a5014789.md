@@ -1,7 +1,7 @@
 ---
 title: "Nazanin Entesari"
 description: "Nazanin Entesari is a Senior DAC researcher at University of Southern California in US. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.333698
+date: 2026-04-02T07:03:26.871966
 url: "/cdr-researcher-census/researchers/nazanin-entesari-a5014789/"
 layout: "researcher"
 hiddenInHomeList: true

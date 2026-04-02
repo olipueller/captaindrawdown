@@ -1,7 +1,7 @@
 ---
 title: "Jing Guo"
 description: "Jing Guo is a Mid-career General CDR researcher at Chinese Academy of Sciences in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.240615
+date: 2026-04-02T07:03:26.736078
 url: "/cdr-researcher-census/researchers/jing-guo-a5067904/"
 layout: "researcher"
 hiddenInHomeList: true

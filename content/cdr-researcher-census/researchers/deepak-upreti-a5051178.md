@@ -1,7 +1,7 @@
 ---
 title: "Deepak Upreti"
 description: "Deepak Upreti is a Mid-career General CDR researcher at National University of Ireland, Maynooth in IE. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.464479
+date: 2026-04-02T07:03:25.584622
 url: "/cdr-researcher-census/researchers/deepak-upreti-a5051178/"
 layout: "researcher"
 hiddenInHomeList: true

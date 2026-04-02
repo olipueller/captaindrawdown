@@ -1,7 +1,7 @@
 ---
 title: "Gary Y. Gan"
 description: "Gary Y. Gan is a Mid-career Soil Carbon researcher at Wenzhou University in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.574517
+date: 2026-04-02T07:03:25.767137
 url: "/cdr-researcher-census/researchers/gary-y-gan-a5109309/"
 layout: "researcher"
 hiddenInHomeList: true

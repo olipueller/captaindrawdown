@@ -1,7 +1,7 @@
 ---
 title: "Taylor M. Sloey"
 description: "Taylor M. Sloey is a Mid-career Soil Carbon researcher at Old Dominion University in US. With 27 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.795295
+date: 2026-04-02T07:03:24.603313
 url: "/cdr-researcher-census/researchers/taylor-m-sloey-a5032280/"
 layout: "researcher"
 hiddenInHomeList: true

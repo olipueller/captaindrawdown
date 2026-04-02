@@ -1,7 +1,7 @@
 ---
 title: "Panpan Tian"
 description: "Panpan Tian is a Mid-career carbon dioxide removal researcher. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.253009
+date: 2026-04-02T07:03:26.753615
 url: "/cdr-researcher-census/researchers/panpan-tian-a5101290/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Susanne Abel"
 description: "Susanne Abel is an Early-career BECCS researcher at Universität Greifswald in DE. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.801079
+date: 2026-04-02T07:03:26.074368
 url: "/cdr-researcher-census/researchers/susanne-abel-a5060130/"
 layout: "researcher"
 hiddenInHomeList: true

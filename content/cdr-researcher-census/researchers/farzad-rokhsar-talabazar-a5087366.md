@@ -1,7 +1,7 @@
 ---
 title: "Farzad Rokhsar Talabazar"
 description: "Farzad Rokhsar Talabazar is a Mid-career carbon dioxide removal researcher at Sabancı Üniversitesi in TR. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.609795
+date: 2026-04-02T07:03:25.820093
 url: "/cdr-researcher-census/researchers/farzad-rokhsar-talabazar-a5087366/"
 layout: "researcher"
 hiddenInHomeList: true

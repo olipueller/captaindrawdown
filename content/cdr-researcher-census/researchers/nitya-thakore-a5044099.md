@@ -1,7 +1,7 @@
 ---
 title: "Nitya Thakore"
 description: "Nitya Thakore is a Mid-career carbon dioxide removal researcher at Brigham and Women's Hospital in US. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.820226
+date: 2026-04-02T07:03:26.102288
 url: "/cdr-researcher-census/researchers/nitya-thakore-a5044099/"
 layout: "researcher"
 hiddenInHomeList: true

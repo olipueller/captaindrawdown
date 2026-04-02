@@ -1,7 +1,7 @@
 ---
 title: "Arisara Charoenpanyanet"
 description: "Arisara Charoenpanyanet is a Senior General CDR researcher at Chiang Mai University in TH. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.620566
+date: 2026-04-02T07:03:25.836305
 url: "/cdr-researcher-census/researchers/arisara-charoenpanyanet-a5041576/"
 layout: "researcher"
 hiddenInHomeList: true

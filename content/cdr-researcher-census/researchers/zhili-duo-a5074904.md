@@ -1,7 +1,7 @@
 ---
 title: "Zhili Duo"
 description: "Zhili Duo is an Early-career carbon dioxide removal researcher at Sinopec (China) in CN. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.362437
+date: 2026-04-02T07:03:26.913763
 url: "/cdr-researcher-census/researchers/zhili-duo-a5074904/"
 layout: "researcher"
 hiddenInHomeList: true

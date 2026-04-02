@@ -1,7 +1,7 @@
 ---
 title: "Yurou Celine Xiao"
 description: "Yurou Celine Xiao is a Mid-career DAC researcher at University of Toronto in CA. With 29 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.497010
+date: 2026-04-02T07:03:24.168895
 url: "/cdr-researcher-census/researchers/yurou-celine-xiao-a5006646/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Laura Mäkelä"
 description: "Laura Mäkelä is a Senior General CDR researcher. With 10 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.645702
+date: 2026-04-02T07:03:25.875697
 url: "/cdr-researcher-census/researchers/laura-makela-a5002052/"
 layout: "researcher"
 hiddenInHomeList: true

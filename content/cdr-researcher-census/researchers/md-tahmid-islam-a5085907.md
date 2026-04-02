@@ -1,7 +1,7 @@
 ---
 title: "Md Tahmid Islam"
 description: "Md Tahmid Islam is a Mid-career Biochar researcher at Sandia National Laboratories California in US. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.370709
+date: 2026-04-02T07:03:25.444957
 url: "/cdr-researcher-census/researchers/md-tahmid-islam-a5085907/"
 layout: "researcher"
 hiddenInHomeList: true

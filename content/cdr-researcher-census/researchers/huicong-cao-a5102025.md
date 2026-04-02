@@ -1,7 +1,7 @@
 ---
 title: "Huicong Cao"
 description: "Huicong Cao is a Senior General CDR researcher at Beijing University of Technology in CN. With 20 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.762526
+date: 2026-04-02T07:03:24.558246
 url: "/cdr-researcher-census/researchers/huicong-cao-a5102025/"
 layout: "researcher"
 hiddenInHomeList: true

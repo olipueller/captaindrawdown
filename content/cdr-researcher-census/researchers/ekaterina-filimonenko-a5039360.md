@@ -1,7 +1,7 @@
 ---
 title: "Ekaterina Filimonenko"
 description: "Ekaterina Filimonenko is a Mid-career Soil Carbon researcher at King Saud University in SA. With 66 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.606557
+date: 2026-04-02T07:03:24.329735
 url: "/cdr-researcher-census/researchers/ekaterina-filimonenko-a5039360/"
 layout: "researcher"
 hiddenInHomeList: true

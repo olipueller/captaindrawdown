@@ -1,7 +1,7 @@
 ---
 title: "Aniceto Zaragoza"
 description: "Aniceto Zaragoza is a Senior General CDR researcher at Unidades Centrales Científico-Técnicas in ES. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.000333
+date: 2026-04-02T07:03:24.910100
 url: "/cdr-researcher-census/researchers/aniceto-zaragoza-a5048162/"
 layout: "researcher"
 hiddenInHomeList: true

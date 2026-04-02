@@ -1,7 +1,7 @@
 ---
 title: "Jia-shan SONG"
 description: "Jia-shan SONG is a Mid-career General CDR researcher at Ministry of Agriculture and Rural Affairs in CN. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.911918
+date: 2026-04-02T07:03:26.232694
 url: "/cdr-researcher-census/researchers/jia-shan-song-a5021611/"
 layout: "researcher"
 hiddenInHomeList: true

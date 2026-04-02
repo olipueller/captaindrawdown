@@ -1,7 +1,7 @@
 ---
 title: "Alexia Cooper"
 description: "Alexia Cooper is an Early-career Soil Carbon researcher at University of California, Merced in US. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.792606
+date: 2026-04-02T07:03:26.061420
 url: "/cdr-researcher-census/researchers/alexia-cooper-a5081378/"
 layout: "researcher"
 hiddenInHomeList: true

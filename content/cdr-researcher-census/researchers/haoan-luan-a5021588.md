@@ -1,7 +1,7 @@
 ---
 title: "Haoan Luan"
 description: "Haoan Luan is a Mid-career Soil Carbon researcher at Hebei Agricultural University in CN. With 48 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.506605
+date: 2026-04-02T07:03:24.180910
 url: "/cdr-researcher-census/researchers/haoan-luan-a5021588/"
 layout: "researcher"
 hiddenInHomeList: true

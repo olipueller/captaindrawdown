@@ -1,7 +1,7 @@
 ---
 title: "Yingxian Long"
 description: "Yingxian Long is a Mid-career carbon dioxide removal researcher at Ministry of Ecology and Environment in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.248735
+date: 2026-04-02T07:03:26.747211
 url: "/cdr-researcher-census/researchers/yingxian-long-a5037364/"
 layout: "researcher"
 hiddenInHomeList: true

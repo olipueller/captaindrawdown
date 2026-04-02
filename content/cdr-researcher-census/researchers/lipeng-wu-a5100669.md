@@ -1,7 +1,7 @@
 ---
 title: "Lipeng Wu"
 description: "Lipeng Wu is a Senior Soil Carbon researcher at China Institute of Water Resources and Hydropower Research in CN. With 34 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.334561
+date: 2026-04-02T07:03:23.955726
 url: "/cdr-researcher-census/researchers/lipeng-wu-a5100669/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Mingyu Song"
 description: "Mingyu Song is a Senior DAC researcher at Fujian Medical University in CN. With 94 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.260048
+date: 2026-04-02T07:03:23.853226
 url: "/cdr-researcher-census/researchers/mingyu-song-a5101603/"
 layout: "researcher"
 hiddenInHomeList: true

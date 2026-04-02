@@ -1,7 +1,7 @@
 ---
 title: "Saimon Lihpai"
 description: "Saimon Lihpai is a Senior Ocean CDR researcher at Micronesia Conservation Trust in FM. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.184554
+date: 2026-04-02T07:03:26.644794
 url: "/cdr-researcher-census/researchers/saimon-lihpai-a5050583/"
 layout: "researcher"
 hiddenInHomeList: true

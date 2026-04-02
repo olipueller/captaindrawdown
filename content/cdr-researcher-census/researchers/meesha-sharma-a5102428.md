@@ -1,7 +1,7 @@
 ---
 title: "Meesha Sharma"
 description: "Meesha Sharma is a Mid-career Biochar researcher at University of Delhi in IN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.862900
+date: 2026-04-02T07:03:26.162232
 url: "/cdr-researcher-census/researchers/meesha-sharma-a5102428/"
 layout: "researcher"
 hiddenInHomeList: true

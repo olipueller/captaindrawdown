@@ -1,7 +1,7 @@
 ---
 title: "Ahmed Ashry"
 description: "Ahmed Ashry is a Senior Biochar researcher at Mansoura University in EG. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.427070
+date: 2026-04-02T07:03:27.006918
 url: "/cdr-researcher-census/researchers/ahmed-ashry-a5008172/"
 layout: "researcher"
 hiddenInHomeList: true

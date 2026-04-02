@@ -1,7 +1,7 @@
 ---
 title: "Mariana Riquito"
 description: "Mariana Riquito is a Mid-career General CDR researcher. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.594857
+date: 2026-04-02T07:03:25.797352
 url: "/cdr-researcher-census/researchers/mariana-riquito-a5051338/"
 layout: "researcher"
 hiddenInHomeList: true

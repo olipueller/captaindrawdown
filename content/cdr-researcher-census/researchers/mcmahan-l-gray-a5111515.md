@@ -1,7 +1,7 @@
 ---
 title: "McMahan L. Gray"
 description: "McMahan L. Gray is a Senior General CDR researcher at US Department of Energy National Laboratory in US. With 95 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.130100
+date: 2026-04-02T07:03:23.682970
 url: "/cdr-researcher-census/researchers/mcmahan-l-gray-a5111515/"
 layout: "researcher"
 hiddenInHomeList: true

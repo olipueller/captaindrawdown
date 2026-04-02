@@ -1,7 +1,7 @@
 ---
 title: "Adam Gillespie"
 description: "Adam Gillespie is a Senior Soil Carbon researcher at University of Guelph in CA. With 86 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.291147
+date: 2026-04-02T07:03:23.898213
 url: "/cdr-researcher-census/researchers/adam-gillespie-a5075858/"
 layout: "researcher"
 hiddenInHomeList: true

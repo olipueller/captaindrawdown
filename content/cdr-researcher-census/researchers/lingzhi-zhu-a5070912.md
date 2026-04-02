@@ -1,7 +1,7 @@
 ---
 title: "Lingzhi Zhu"
 description: "Lingzhi Zhu is a Mid-career Biochar researcher at Nanjing Forestry University in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.603455
+date: 2026-04-02T07:03:25.809746
 url: "/cdr-researcher-census/researchers/lingzhi-zhu-a5070912/"
 layout: "researcher"
 hiddenInHomeList: true

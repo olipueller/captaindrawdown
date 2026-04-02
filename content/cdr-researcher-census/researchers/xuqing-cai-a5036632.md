@@ -1,7 +1,7 @@
 ---
 title: "Xuqing Cai"
 description: "Xuqing Cai is a Mid-career DAC researcher at Georgia Institute of Technology in US. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.711735
+date: 2026-04-02T07:03:25.978135
 url: "/cdr-researcher-census/researchers/xuqing-cai-a5036632/"
 layout: "researcher"
 hiddenInHomeList: true

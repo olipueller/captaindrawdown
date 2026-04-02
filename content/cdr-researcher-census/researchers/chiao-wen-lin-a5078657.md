@@ -1,7 +1,7 @@
 ---
 title: "Chiao-Wen Lin"
 description: "Chiao-Wen Lin is a Mid-career Soil Carbon researcher at National Sun Yat-sen University in TW. With 28 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.227313
+date: 2026-04-02T07:03:25.244298
 url: "/cdr-researcher-census/researchers/chiao-wen-lin-a5078657/"
 layout: "researcher"
 hiddenInHomeList: true

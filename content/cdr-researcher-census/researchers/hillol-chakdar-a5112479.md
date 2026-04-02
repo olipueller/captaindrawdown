@@ -1,7 +1,7 @@
 ---
 title: "Hillol Chakdar"
 description: "Hillol Chakdar is a Mid-career Biochar researcher at National Bureau of Agriculturally Important Microorganisms in IN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.022534
+date: 2026-04-02T07:03:24.940700
 url: "/cdr-researcher-census/researchers/hillol-chakdar-a5112479/"
 layout: "researcher"
 hiddenInHomeList: true

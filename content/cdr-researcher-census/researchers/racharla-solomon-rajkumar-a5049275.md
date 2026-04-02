@@ -1,7 +1,7 @@
 ---
 title: "Racharla Solomon Rajkumar"
 description: "Racharla Solomon Rajkumar is a Mid-career Soil Carbon researcher at Central Coastal Agricultural Research Institute in IN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.054395
+date: 2026-04-02T07:03:26.444709
 url: "/cdr-researcher-census/researchers/racharla-solomon-rajkumar-a5049275/"
 layout: "researcher"
 hiddenInHomeList: true

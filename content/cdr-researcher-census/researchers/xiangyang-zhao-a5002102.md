@@ -1,7 +1,7 @@
 ---
 title: "Xiangyang Zhao"
 description: "Xiangyang Zhao is a Mid-career carbon dioxide removal researcher at Sinopec (China) in CN. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.324140
+date: 2026-04-02T07:03:25.375289
 url: "/cdr-researcher-census/researchers/xiangyang-zhao-a5002102/"
 layout: "researcher"
 hiddenInHomeList: true

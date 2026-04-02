@@ -1,7 +1,7 @@
 ---
 title: "Clive Chong"
 description: "Clive Chong is an Early-career DAC researcher. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.962610
+date: 2026-04-02T07:03:26.310651
 url: "/cdr-researcher-census/researchers/clive-chong-a5059602/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Chongchong Zhu"
 description: "Chongchong Zhu is a Mid-career Soil Carbon researcher at Nanjing Normal University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.357165
+date: 2026-04-02T07:03:26.905785
 url: "/cdr-researcher-census/researchers/chongchong-zhu-a5105506/"
 layout: "researcher"
 hiddenInHomeList: true

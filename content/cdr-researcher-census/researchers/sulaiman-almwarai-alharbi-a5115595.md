@@ -1,7 +1,7 @@
 ---
 title: "Sulaiman Almwarai Alharbi"
 description: "Sulaiman Almwarai Alharbi is a Mid-career Soil Carbon researcher at King Saud University in SA. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.351545
+date: 2026-04-02T07:03:25.413978
 url: "/cdr-researcher-census/researchers/sulaiman-almwarai-alharbi-a5115595/"
 layout: "researcher"
 hiddenInHomeList: true

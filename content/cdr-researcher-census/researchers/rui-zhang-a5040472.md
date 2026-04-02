@@ -1,7 +1,7 @@
 ---
 title: "Rui Zhang"
 description: "Rui Zhang is a Senior Soil Carbon researcher at Guangdong Ocean University in CN. With 7 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.294976
+date: 2026-04-02T07:03:26.819319
 url: "/cdr-researcher-census/researchers/rui-zhang-a5040472/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jannine M. Lencina‐Avila"
 description: "Jannine M. Lencina‐Avila is a Mid-career Ocean CDR researcher at Leibniz Institute for Baltic Sea Research in DE. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.408932
+date: 2026-04-02T07:03:25.501593
 url: "/cdr-researcher-census/researchers/jannine-m-lencinaavila-a5085267/"
 layout: "researcher"
 hiddenInHomeList: true

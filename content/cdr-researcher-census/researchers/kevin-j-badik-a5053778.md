@@ -1,7 +1,7 @@
 ---
 title: "Kevin J. Badik"
 description: "Kevin J. Badik is a Mid-career General CDR researcher at The Nature Conservancy in US. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.800397
+date: 2026-04-02T07:03:26.073476
 url: "/cdr-researcher-census/researchers/kevin-j-badik-a5053778/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yuexin Liu"
 description: "Yuexin Liu is a Mid-career carbon dioxide removal researcher at Inner Mongolia University in CN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.646271
+date: 2026-04-02T07:03:25.876585
 url: "/cdr-researcher-census/researchers/yuexin-liu-a5053796/"
 layout: "researcher"
 hiddenInHomeList: true

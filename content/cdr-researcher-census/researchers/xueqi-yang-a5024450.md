@@ -1,7 +1,7 @@
 ---
 title: "Xueqi Yang"
 description: "Xueqi Yang is an Early-career Biochar researcher at China Agricultural University in CN. With 5 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.344618
+date: 2026-04-02T07:03:26.888022
 url: "/cdr-researcher-census/researchers/xueqi-yang-a5024450/"
 layout: "researcher"
 hiddenInHomeList: true

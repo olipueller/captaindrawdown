@@ -1,7 +1,7 @@
 ---
 title: "Baig Abdullah Al Shoumik"
 description: "Baig Abdullah Al Shoumik is a Mid-career Soil Carbon researcher at Khulna University in BD. With 25 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.015540
+date: 2026-04-02T07:03:24.930726
 url: "/cdr-researcher-census/researchers/baig-abdullah-al-shoumik-a5036093/"
 layout: "researcher"
 hiddenInHomeList: true

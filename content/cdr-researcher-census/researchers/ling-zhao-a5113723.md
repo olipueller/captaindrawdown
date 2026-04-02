@@ -1,7 +1,7 @@
 ---
 title: "Ling Zhao"
 description: "Ling Zhao is a Mid-career Soil Carbon researcher at Northwest Normal University in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.408221
+date: 2026-04-02T07:03:24.048009
 url: "/cdr-researcher-census/researchers/ling-zhao-a5113723/"
 layout: "researcher"
 hiddenInHomeList: true

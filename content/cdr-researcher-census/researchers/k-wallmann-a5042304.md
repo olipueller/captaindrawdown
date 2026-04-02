@@ -1,7 +1,7 @@
 ---
 title: "K. Wallmann"
 description: "K. Wallmann is a Senior General CDR researcher at GEOMAR Helmholtz Centre for Ocean Research Kiel in DE. With 13 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.458009
+date: 2026-04-02T07:03:24.116540
 url: "/cdr-researcher-census/researchers/k-wallmann-a5042304/"
 layout: "researcher"
 hiddenInHomeList: true

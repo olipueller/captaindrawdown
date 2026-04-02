@@ -1,7 +1,7 @@
 ---
 title: "Yihang Duan"
 description: "Yihang Duan is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 22 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.849697
+date: 2026-04-02T07:03:24.674397
 url: "/cdr-researcher-census/researchers/yihang-duan-a5027005/"
 layout: "researcher"
 hiddenInHomeList: true

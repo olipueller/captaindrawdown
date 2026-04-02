@@ -1,7 +1,7 @@
 ---
 title: "Deborah Cristina Crominski da Silva Medeiros"
 description: "Deborah Cristina Crominski da Silva Medeiros is a Mid-career carbon dioxide removal researcher at University of Alberta in CA. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.225908
+date: 2026-04-02T07:03:25.241946
 url: "/cdr-researcher-census/researchers/deborah-cristina-crominski-da-silva-medeiros-a5050448/"
 layout: "researcher"
 hiddenInHomeList: true

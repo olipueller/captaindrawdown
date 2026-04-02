@@ -1,7 +1,7 @@
 ---
 title: "Kun Cheng"
 description: "Kun Cheng is an Eminent Soil Carbon researcher at Nanjing Agricultural University in CN. With 147 publications and an h-index of 46, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.096753
+date: 2026-04-02T07:03:23.643450
 url: "/cdr-researcher-census/researchers/kun-cheng-a5025013/"
 layout: "researcher"
 hiddenInHomeList: true

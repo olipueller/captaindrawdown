@@ -1,7 +1,7 @@
 ---
 title: "J. M. Narvel"
 description: "J. M. Narvel is a Senior carbon dioxide removal researcher at Bayer (United States) in US. With 9 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.016248
+date: 2026-04-02T07:03:24.931767
 url: "/cdr-researcher-census/researchers/j-m-narvel-a5111964/"
 layout: "researcher"
 hiddenInHomeList: true

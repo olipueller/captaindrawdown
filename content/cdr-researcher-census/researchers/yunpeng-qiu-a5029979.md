@@ -1,7 +1,7 @@
 ---
 title: "Yunpeng Qiu"
 description: "Yunpeng Qiu is a Senior Soil Carbon researcher at Nanjing Agricultural University in CN. With 60 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.338123
+date: 2026-04-02T07:03:23.960951
 url: "/cdr-researcher-census/researchers/yunpeng-qiu-a5029979/"
 layout: "researcher"
 hiddenInHomeList: true

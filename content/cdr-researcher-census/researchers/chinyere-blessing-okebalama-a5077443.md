@@ -1,7 +1,7 @@
 ---
 title: "Chinyere Blessing Okebalama"
 description: "Chinyere Blessing Okebalama is a Mid-career Biochar researcher at University of Nigeria in NG. With 25 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.283645
+date: 2026-04-02T07:03:25.317294
 url: "/cdr-researcher-census/researchers/chinyere-blessing-okebalama-a5077443/"
 layout: "researcher"
 hiddenInHomeList: true

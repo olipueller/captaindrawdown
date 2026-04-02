@@ -1,7 +1,7 @@
 ---
 title: "Emmanuel Amoakwah"
 description: "Emmanuel Amoakwah is a Mid-career Soil Carbon researcher at University of Lincoln in GB. With 25 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.730852
+date: 2026-04-02T07:03:24.510299
 url: "/cdr-researcher-census/researchers/emmanuel-amoakwah-a5037319/"
 layout: "researcher"
 hiddenInHomeList: true

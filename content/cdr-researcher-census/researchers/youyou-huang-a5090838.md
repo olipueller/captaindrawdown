@@ -1,7 +1,7 @@
 ---
 title: "Youyou Huang"
 description: "Youyou Huang is a Senior Soil Carbon researcher at China West Normal University in CN. With 39 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.046717
+date: 2026-04-02T07:03:24.976327
 url: "/cdr-researcher-census/researchers/youyou-huang-a5090838/"
 layout: "researcher"
 hiddenInHomeList: true

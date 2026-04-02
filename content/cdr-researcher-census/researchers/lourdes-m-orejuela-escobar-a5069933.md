@@ -1,7 +1,7 @@
 ---
 title: "Lourdes M. Orejuela-Escobar"
 description: "Lourdes M. Orejuela-Escobar is a Mid-career carbon dioxide removal researcher at Universidad San Francisco de Quito in EC. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.165364
+date: 2026-04-02T07:03:25.149337
 url: "/cdr-researcher-census/researchers/lourdes-m-orejuela-escobar-a5069933/"
 layout: "researcher"
 hiddenInHomeList: true

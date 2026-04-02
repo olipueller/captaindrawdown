@@ -1,7 +1,7 @@
 ---
 title: "María José Tenorio"
 description: "María José Tenorio is a Senior DAC researcher at Universidad Rey Juan Carlos in ES. With 23 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.863249
+date: 2026-04-02T07:03:24.693599
 url: "/cdr-researcher-census/researchers/maria-jose-tenorio-a5045267/"
 layout: "researcher"
 hiddenInHomeList: true

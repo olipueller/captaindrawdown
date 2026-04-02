@@ -1,7 +1,7 @@
 ---
 title: "Milagros Ginebra"
 description: "Milagros Ginebra is a Mid-career Biochar researcher at Consejo Nacional de Investigaciones Científicas y Técnicas in AR. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.120542
+date: 2026-04-02T07:03:26.535546
 url: "/cdr-researcher-census/researchers/milagros-ginebra-a5056296/"
 layout: "researcher"
 hiddenInHomeList: true

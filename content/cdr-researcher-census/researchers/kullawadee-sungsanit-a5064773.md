@@ -1,7 +1,7 @@
 ---
 title: "Kullawadee Sungsanit"
 description: "Kullawadee Sungsanit is a Senior Biochar researcher at Rajamangala University of Technology in TH. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.126508
+date: 2026-04-02T07:03:25.094036
 url: "/cdr-researcher-census/researchers/kullawadee-sungsanit-a5064773/"
 layout: "researcher"
 hiddenInHomeList: true

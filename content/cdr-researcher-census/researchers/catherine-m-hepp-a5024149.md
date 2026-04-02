@@ -1,7 +1,7 @@
 ---
 title: "Catherine M. Hepp"
 description: "Catherine M. Hepp is a Mid-career Soil Carbon researcher. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.133329
+date: 2026-04-02T07:03:26.555795
 url: "/cdr-researcher-census/researchers/catherine-m-hepp-a5024149/"
 layout: "researcher"
 hiddenInHomeList: true

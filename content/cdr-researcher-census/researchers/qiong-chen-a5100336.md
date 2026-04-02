@@ -1,7 +1,7 @@
 ---
 title: "Qiong Chen"
 description: "Qiong Chen is a Senior Soil Carbon researcher at Northwestern Polytechnical University in CN. With 100 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.259305
+date: 2026-04-02T07:03:23.852487
 url: "/cdr-researcher-census/researchers/qiong-chen-a5100336/"
 layout: "researcher"
 hiddenInHomeList: true

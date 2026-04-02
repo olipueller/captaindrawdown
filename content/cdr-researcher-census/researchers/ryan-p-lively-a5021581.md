@@ -1,7 +1,7 @@
 ---
 title: "Ryan P. Lively"
 description: "Ryan P. Lively is an Eminent General CDR researcher at Georgia Institute of Technology in US. With 317 publications and an h-index of 62, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.079770
+date: 2026-04-02T07:03:23.622658
 url: "/cdr-researcher-census/researchers/ryan-p-lively-a5021581/"
 layout: "researcher"
 hiddenInHomeList: true

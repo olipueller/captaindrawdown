@@ -1,7 +1,7 @@
 ---
 title: "Suleiman Kehinde Bello"
 description: "Suleiman Kehinde Bello is a Mid-career Soil Carbon researcher at Ahmadu Bello University in NG. With 24 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.711145
+date: 2026-04-02T07:03:24.481491
 url: "/cdr-researcher-census/researchers/suleiman-kehinde-bello-a5082583/"
 layout: "researcher"
 hiddenInHomeList: true

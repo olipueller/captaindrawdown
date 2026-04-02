@@ -1,7 +1,7 @@
 ---
 title: "Andreas Oschlies"
 description: "Andreas Oschlies is an Eminent General CDR researcher at GEOMAR Helmholtz Centre for Ocean Research Kiel in DE. With 736 publications and an h-index of 74, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.075086
+date: 2026-04-02T07:03:23.617027
 url: "/cdr-researcher-census/researchers/andreas-oschlies-a5063745/"
 layout: "researcher"
 hiddenInHomeList: true

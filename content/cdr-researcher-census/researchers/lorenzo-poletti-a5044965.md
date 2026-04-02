@@ -1,7 +1,7 @@
 ---
 title: "Lorenzo Poletti"
 description: "Lorenzo Poletti is a Mid-career Biochar researcher at RWTH Aachen University in DE. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.198556
+date: 2026-04-02T07:03:26.677885
 url: "/cdr-researcher-census/researchers/lorenzo-poletti-a5044965/"
 layout: "researcher"
 hiddenInHomeList: true

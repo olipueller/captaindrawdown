@@ -1,7 +1,7 @@
 ---
 title: "Yingqing Su"
 description: "Yingqing Su is a Mid-career General CDR researcher at Chinese Academy of Sciences in CN. With 11 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.974313
+date: 2026-04-02T07:03:26.326538
 url: "/cdr-researcher-census/researchers/yingqing-su-a5032498/"
 layout: "researcher"
 hiddenInHomeList: true

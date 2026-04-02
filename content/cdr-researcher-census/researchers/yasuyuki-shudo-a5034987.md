@@ -1,7 +1,7 @@
 ---
 title: "Yasuyuki Shudo"
 description: "Yasuyuki Shudo is a Mid-career carbon dioxide removal researcher at Sumitomo Bakelite (Japan) in JP. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.180753
+date: 2026-04-02T07:03:25.171575
 url: "/cdr-researcher-census/researchers/yasuyuki-shudo-a5034987/"
 layout: "researcher"
 hiddenInHomeList: true

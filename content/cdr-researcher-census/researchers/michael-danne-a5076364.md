@@ -1,7 +1,7 @@
 ---
 title: "Michael Danne"
 description: "Michael Danne is a Mid-career General CDR researcher at Johann Heinrich von Thünen-Institut in DE. With 33 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.306815
+date: 2026-04-02T07:03:25.351091
 url: "/cdr-researcher-census/researchers/michael-danne-a5076364/"
 layout: "researcher"
 hiddenInHomeList: true

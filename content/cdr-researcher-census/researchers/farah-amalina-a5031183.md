@@ -1,7 +1,7 @@
 ---
 title: "Farah Amalina"
 description: "Farah Amalina is a Mid-career Biochar researcher at Universiti Malaysia Pahang Al-Sultan Abdullah in MY. With 26 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.436269
+date: 2026-04-02T07:03:24.085352
 url: "/cdr-researcher-census/researchers/farah-amalina-a5031183/"
 layout: "researcher"
 hiddenInHomeList: true

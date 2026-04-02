@@ -1,7 +1,7 @@
 ---
 title: "Xingguo Bao"
 description: "Xingguo Bao is a Senior Soil Carbon researcher at North China University of Technology in CN. With 49 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.165918
+date: 2026-04-02T07:03:23.730902
 url: "/cdr-researcher-census/researchers/xingguo-bao-a5022982/"
 layout: "researcher"
 hiddenInHomeList: true

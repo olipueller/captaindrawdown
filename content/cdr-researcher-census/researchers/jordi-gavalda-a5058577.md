@@ -1,7 +1,7 @@
 ---
 title: "Jordi Gavaldà"
 description: "Jordi Gavaldà is a Senior DAC researcher at Universitat Rovira i Virgili in ES. With 38 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.852435
+date: 2026-04-02T07:03:24.678312
 url: "/cdr-researcher-census/researchers/jordi-gavalda-a5058577/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Huafang Sun"
 description: "Huafang Sun is a Mid-career Soil Carbon researcher at Qinghai University for Nationalities in CN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.381192
+date: 2026-04-02T07:03:26.939915
 url: "/cdr-researcher-census/researchers/huafang-sun-a5073729/"
 layout: "researcher"
 hiddenInHomeList: true

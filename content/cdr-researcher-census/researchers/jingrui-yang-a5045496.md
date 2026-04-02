@@ -1,7 +1,7 @@
 ---
 title: "Jingrui Yang"
 description: "Jingrui Yang is a Mid-career Biochar researcher at Changchun Institute of Optics, Fine Mechanics and Physics in CN. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.093563
+date: 2026-04-02T07:03:26.497407
 url: "/cdr-researcher-census/researchers/jingrui-yang-a5045496/"
 layout: "researcher"
 hiddenInHomeList: true

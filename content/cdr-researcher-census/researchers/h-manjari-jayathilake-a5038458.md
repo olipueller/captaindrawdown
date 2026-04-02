@@ -1,7 +1,7 @@
 ---
 title: "H. Manjari Jayathilake"
 description: "H. Manjari Jayathilake is a Mid-career Soil Carbon researcher at National University of Singapore in SG. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.852957
+date: 2026-04-02T07:03:26.148299
 url: "/cdr-researcher-census/researchers/h-manjari-jayathilake-a5038458/"
 layout: "researcher"
 hiddenInHomeList: true

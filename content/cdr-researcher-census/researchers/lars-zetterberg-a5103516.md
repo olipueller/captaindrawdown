@@ -1,7 +1,7 @@
 ---
 title: "Lars Zetterberg"
 description: "Lars Zetterberg is a Senior BECCS researcher at IVL Swedish Environmental Research Institute in SE. With 39 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.541837
+date: 2026-04-02T07:03:24.236656
 url: "/cdr-researcher-census/researchers/lars-zetterberg-a5103516/"
 layout: "researcher"
 hiddenInHomeList: true

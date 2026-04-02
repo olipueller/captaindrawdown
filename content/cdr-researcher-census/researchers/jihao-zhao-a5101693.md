@@ -1,7 +1,7 @@
 ---
 title: "Jihao Zhao"
 description: "Jihao Zhao is a Senior Soil Carbon researcher at Henan Academy of Agricultural Sciences in CN. With 20 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.899905
+date: 2026-04-02T07:03:24.749367
 url: "/cdr-researcher-census/researchers/jihao-zhao-a5101693/"
 layout: "researcher"
 hiddenInHomeList: true

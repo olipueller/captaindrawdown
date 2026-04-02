@@ -1,7 +1,7 @@
 ---
 title: "Alby Robson Benjamin"
 description: "Alby Robson Benjamin is a Mid-career General CDR researcher at University of the Pacific in PE. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.047530
+date: 2026-04-02T07:03:26.432664
 url: "/cdr-researcher-census/researchers/alby-robson-benjamin-a5109832/"
 layout: "researcher"
 hiddenInHomeList: true

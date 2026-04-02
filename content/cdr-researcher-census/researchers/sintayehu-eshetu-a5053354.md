@@ -1,7 +1,7 @@
 ---
 title: "Sintayehu Eshetu"
 description: "Sintayehu Eshetu is an Early-career General CDR researcher at Department of Forestry in MW. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.149549
+date: 2026-04-02T07:03:26.584795
 url: "/cdr-researcher-census/researchers/sintayehu-eshetu-a5053354/"
 layout: "researcher"
 hiddenInHomeList: true

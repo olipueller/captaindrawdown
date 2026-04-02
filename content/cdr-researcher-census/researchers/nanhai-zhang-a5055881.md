@@ -1,7 +1,7 @@
 ---
 title: "Nanhai Zhang"
 description: "Nanhai Zhang is a Mid-career Soil Carbon researcher at Jiangxi University of Traditional Chinese Medicine in CN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.020852
+date: 2026-04-02T07:03:26.390718
 url: "/cdr-researcher-census/researchers/nanhai-zhang-a5055881/"
 layout: "researcher"
 hiddenInHomeList: true

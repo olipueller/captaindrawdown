@@ -1,7 +1,7 @@
 ---
 title: "Ahsan Raza"
 description: "Ahsan Raza is a Mid-career carbon dioxide removal researcher at National University of Modern Languages in PK. With 28 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.693494
+date: 2026-04-02T07:03:24.456689
 url: "/cdr-researcher-census/researchers/ahsan-raza-a5002788/"
 layout: "researcher"
 hiddenInHomeList: true

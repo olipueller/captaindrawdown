@@ -1,7 +1,7 @@
 ---
 title: "Aditya Sinha"
 description: "Aditya Sinha is a Mid-career General CDR researcher at North Carolina State University in US. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.887167
+date: 2026-04-02T07:03:26.197174
 url: "/cdr-researcher-census/researchers/aditya-sinha-a5103134/"
 layout: "researcher"
 hiddenInHomeList: true

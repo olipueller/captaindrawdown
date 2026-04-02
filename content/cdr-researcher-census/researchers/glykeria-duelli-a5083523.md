@@ -1,7 +1,7 @@
 ---
 title: "Glykeria Duelli"
 description: "Glykeria Duelli is a Mid-career Biochar researcher at University of Stuttgart in DE. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.113673
+date: 2026-04-02T07:03:25.074629
 url: "/cdr-researcher-census/researchers/glykeria-duelli-a5083523/"
 layout: "researcher"
 hiddenInHomeList: true

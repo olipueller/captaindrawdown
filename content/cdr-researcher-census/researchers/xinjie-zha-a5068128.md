@@ -1,7 +1,7 @@
 ---
 title: "Xinjie Zha"
 description: "Xinjie Zha is a Mid-career Soil Carbon researcher at Xi'an University of Finance and Economics in CN. With 32 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.045571
+date: 2026-04-02T07:03:24.974550
 url: "/cdr-researcher-census/researchers/xinjie-zha-a5068128/"
 layout: "researcher"
 hiddenInHomeList: true

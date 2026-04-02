@@ -1,7 +1,7 @@
 ---
 title: "JINGMEI LUO"
 description: "JINGMEI LUO is a Mid-career Soil Carbon researcher. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.440360
+date: 2026-04-02T07:03:27.027123
 url: "/cdr-researcher-census/researchers/jingmei-luo-a5088297/"
 layout: "researcher"
 hiddenInHomeList: true

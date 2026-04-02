@@ -1,7 +1,7 @@
 ---
 title: "Linzhe Yang"
 description: "Linzhe Yang is a Mid-career carbon dioxide removal researcher at Beijing Forestry University in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.605155
+date: 2026-04-02T07:03:25.812534
 url: "/cdr-researcher-census/researchers/linzhe-yang-a5074326/"
 layout: "researcher"
 hiddenInHomeList: true

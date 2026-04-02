@@ -1,7 +1,7 @@
 ---
 title: "Yuanchen Zhu"
 description: "Yuanchen Zhu is a Mid-career Soil Carbon researcher at University of Ottawa in CA. With 31 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.785529
+date: 2026-04-02T07:03:24.589188
 url: "/cdr-researcher-census/researchers/yuanchen-zhu-a5009773/"
 layout: "researcher"
 hiddenInHomeList: true

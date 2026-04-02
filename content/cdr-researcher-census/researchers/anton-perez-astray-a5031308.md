@@ -1,7 +1,7 @@
 ---
 title: "Antón Pérez-Astray"
 description: "Antón Pérez-Astray is a Mid-career BECCS researcher at Instituto de Carboquímica in ES. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.159913
+date: 2026-04-02T07:03:25.142584
 url: "/cdr-researcher-census/researchers/anton-perez-astray-a5031308/"
 layout: "researcher"
 hiddenInHomeList: true

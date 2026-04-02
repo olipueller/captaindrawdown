@@ -1,7 +1,7 @@
 ---
 title: "Alain Muñoz-Caravaca"
 description: "Alain Muñoz-Caravaca is a Senior Ocean CDR researcher at University of Cienfuegos in CU. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.185761
+date: 2026-04-02T07:03:25.179411
 url: "/cdr-researcher-census/researchers/alain-munoz-caravaca-a5081294/"
 layout: "researcher"
 hiddenInHomeList: true

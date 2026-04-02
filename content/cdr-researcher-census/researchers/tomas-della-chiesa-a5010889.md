@@ -1,7 +1,7 @@
 ---
 title: "Tomás Della Chiesa"
 description: "Tomás Della Chiesa is a Mid-career Soil Carbon researcher at Consejo Nacional de Investigaciones Científicas y Técnicas in AR. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.794272
+date: 2026-04-02T07:03:26.063995
 url: "/cdr-researcher-census/researchers/tomas-della-chiesa-a5010889/"
 layout: "researcher"
 hiddenInHomeList: true

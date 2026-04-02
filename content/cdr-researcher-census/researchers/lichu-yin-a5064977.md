@@ -1,7 +1,7 @@
 ---
 title: "Lichu Yin"
 description: "Lichu Yin is a Senior Soil Carbon researcher at Hunan Agricultural University in CN. With 36 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.008549
+date: 2026-04-02T07:03:24.922465
 url: "/cdr-researcher-census/researchers/lichu-yin-a5064977/"
 layout: "researcher"
 hiddenInHomeList: true

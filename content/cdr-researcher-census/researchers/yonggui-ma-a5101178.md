@@ -1,7 +1,7 @@
 ---
 title: "Yonggui Ma"
 description: "Yonggui Ma is a Mid-career Soil Carbon researcher at Qinghai Normal University in CN. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.444191
+date: 2026-04-02T07:03:27.032769
 url: "/cdr-researcher-census/researchers/yonggui-ma-a5101178/"
 layout: "researcher"
 hiddenInHomeList: true

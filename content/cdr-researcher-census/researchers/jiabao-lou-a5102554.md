@@ -1,7 +1,7 @@
 ---
 title: "Jiabao Lou"
 description: "Jiabao Lou is a Mid-career Soil Carbon researcher at Jiangsu University in CN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.276353
+date: 2026-04-02T07:03:25.307542
 url: "/cdr-researcher-census/researchers/jiabao-lou-a5102554/"
 layout: "researcher"
 hiddenInHomeList: true

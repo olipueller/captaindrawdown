@@ -1,7 +1,7 @@
 ---
 title: "Silvan Urs Goldenberg"
 description: "Silvan Urs Goldenberg is a Mid-career Ocean CDR researcher at Norwegian University of Science and Technology in NO. With 38 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.479094
+date: 2026-04-02T07:03:24.145876
 url: "/cdr-researcher-census/researchers/silvan-urs-goldenberg-a5011298/"
 layout: "researcher"
 hiddenInHomeList: true

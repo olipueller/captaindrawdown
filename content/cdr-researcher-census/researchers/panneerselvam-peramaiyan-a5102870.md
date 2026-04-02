@@ -1,7 +1,7 @@
 ---
 title: "Panneerselvam Peramaiyan"
 description: "Panneerselvam Peramaiyan is a Senior Soil Carbon researcher at International Rice Research Institute in PH. With 60 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.865626
+date: 2026-04-02T07:03:24.697169
 url: "/cdr-researcher-census/researchers/panneerselvam-peramaiyan-a5102870/"
 layout: "researcher"
 hiddenInHomeList: true

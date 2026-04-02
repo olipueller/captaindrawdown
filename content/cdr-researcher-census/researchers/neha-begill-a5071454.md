@@ -1,7 +1,7 @@
 ---
 title: "Neha Begill"
 description: "Neha Begill is an Early-career Soil Carbon researcher at Johann Heinrich von Thünen-Institut in DE. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.501515
+date: 2026-04-02T07:03:25.661970
 url: "/cdr-researcher-census/researchers/neha-begill-a5071454/"
 layout: "researcher"
 hiddenInHomeList: true

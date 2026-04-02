@@ -1,7 +1,7 @@
 ---
 title: "Hirdan Katarina de Medeiros Costa"
 description: "Hirdan Katarina de Medeiros Costa is a Mid-career BECCS researcher at Universidade Federal da Paraíba in BR. With 56 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.556181
+date: 2026-04-02T07:03:24.256860
 url: "/cdr-researcher-census/researchers/hirdan-katarina-de-medeiros-costa-a5070667/"
 layout: "researcher"
 hiddenInHomeList: true

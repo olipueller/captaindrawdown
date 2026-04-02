@@ -1,7 +1,7 @@
 ---
 title: "Jéssica Schüler"
 description: "Jéssica Schüler is a Mid-career Soil Carbon researcher at Universidade de Brasília in BR. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.050061
+date: 2026-04-02T07:03:24.981455
 url: "/cdr-researcher-census/researchers/jessica-schuler-a5015489/"
 layout: "researcher"
 hiddenInHomeList: true

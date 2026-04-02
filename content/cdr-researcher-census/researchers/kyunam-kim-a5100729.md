@@ -1,7 +1,7 @@
 ---
 title: "Kyunam Kim"
 description: "Kyunam Kim is a Senior carbon dioxide removal researcher at Korea Advanced Institute of Science and Technology in KR. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.250250
+date: 2026-04-02T07:03:25.274542
 url: "/cdr-researcher-census/researchers/kyunam-kim-a5100729/"
 layout: "researcher"
 hiddenInHomeList: true

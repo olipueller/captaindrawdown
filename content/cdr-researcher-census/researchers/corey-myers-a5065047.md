@@ -1,7 +1,7 @@
 ---
 title: "Corey Myers"
 description: "Corey Myers is a Mid-career General CDR researcher at Lawrence Livermore National Laboratory in US. With 33 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.618759
+date: 2026-04-02T07:03:25.833778
 url: "/cdr-researcher-census/researchers/corey-myers-a5065047/"
 layout: "researcher"
 hiddenInHomeList: true

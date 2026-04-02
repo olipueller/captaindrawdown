@@ -1,7 +1,7 @@
 ---
 title: "Kyle A. Arndt"
 description: "Kyle A. Arndt is a Mid-career Soil Carbon researcher at Woodwell Climate Research Center in US. With 79 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.402314
+date: 2026-04-02T07:03:24.041259
 url: "/cdr-researcher-census/researchers/kyle-a-arndt-a5052225/"
 layout: "researcher"
 hiddenInHomeList: true

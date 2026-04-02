@@ -1,7 +1,7 @@
 ---
 title: "Harshul Thakkar"
 description: "Harshul Thakkar is a Mid-career carbon dioxide removal researcher at Dair Capture Inc in US. With 31 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.264999
+date: 2026-04-02T07:03:23.861113
 url: "/cdr-researcher-census/researchers/harshul-thakkar-a5080072/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Dong-Kyu Moon"
 description: "Dong-Kyu Moon is a Mid-career carbon dioxide removal researcher at Korea Institute of Energy Research in KR. With 13 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.566209
+date: 2026-04-02T07:03:24.271260
 url: "/cdr-researcher-census/researchers/dong-kyu-moon-a5110605/"
 layout: "researcher"
 hiddenInHomeList: true

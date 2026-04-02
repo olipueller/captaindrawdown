@@ -1,7 +1,7 @@
 ---
 title: "Xiaotong Liu"
 description: "Xiaotong Liu is a Mid-career Soil Carbon researcher at International Bamboo and Rattan Organization in CN. With 31 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.527091
+date: 2026-04-02T07:03:24.211153
 url: "/cdr-researcher-census/researchers/xiaotong-liu-a5035897/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Haobo Feng"
 description: "Haobo Feng is a Mid-career General CDR researcher at Beijing Forestry University in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.176481
+date: 2026-04-02T07:03:26.632941
 url: "/cdr-researcher-census/researchers/haobo-feng-a5014510/"
 layout: "researcher"
 hiddenInHomeList: true

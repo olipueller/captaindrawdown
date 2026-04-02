@@ -1,7 +1,7 @@
 ---
 title: "Dezhi Yan"
 description: "Dezhi Yan is a Senior Soil Carbon researcher at Nantong University in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.876101
+date: 2026-04-02T07:03:24.712480
 url: "/cdr-researcher-census/researchers/dezhi-yan-a5103266/"
 layout: "researcher"
 hiddenInHomeList: true

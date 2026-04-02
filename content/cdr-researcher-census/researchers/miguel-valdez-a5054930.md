@@ -1,7 +1,7 @@
 ---
 title: "Miguel Valdez"
 description: "Miguel Valdez is a Mid-career Soil Carbon researcher. With 24 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.998500
+date: 2026-04-02T07:03:24.907312
 url: "/cdr-researcher-census/researchers/miguel-valdez-a5054930/"
 layout: "researcher"
 hiddenInHomeList: true

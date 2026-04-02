@@ -1,7 +1,7 @@
 ---
 title: "Yizhong Huan"
 description: "Yizhong Huan is a Mid-career General CDR researcher at China Agricultural University in CN. With 36 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.605372
+date: 2026-04-02T07:03:24.328070
 url: "/cdr-researcher-census/researchers/yizhong-huan-a5064469/"
 layout: "researcher"
 hiddenInHomeList: true

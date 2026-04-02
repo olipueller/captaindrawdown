@@ -1,7 +1,7 @@
 ---
 title: "Nurzawani Md Sofwan"
 description: "Nurzawani Md Sofwan is a Mid-career Biochar researcher at Universiti Malaysia Sarawak in MY. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.905385
+date: 2026-04-02T07:03:24.757513
 url: "/cdr-researcher-census/researchers/nurzawani-md-sofwan-a5077130/"
 layout: "researcher"
 hiddenInHomeList: true

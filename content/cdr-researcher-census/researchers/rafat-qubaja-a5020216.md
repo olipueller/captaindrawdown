@@ -1,7 +1,7 @@
 ---
 title: "Rafat Qubaja"
 description: "Rafat Qubaja is a Mid-career Soil Carbon researcher at Weizmann Institute of Science in IL. With 25 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.454624
+date: 2026-04-02T07:03:25.567791
 url: "/cdr-researcher-census/researchers/rafat-qubaja-a5020216/"
 layout: "researcher"
 hiddenInHomeList: true

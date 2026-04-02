@@ -1,7 +1,7 @@
 ---
 title: "Thi-Hanh Ha"
 description: "Thi-Hanh Ha is a Mid-career Enhanced Weathering researcher at National Chung Hsing University in TW. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.590916
+date: 2026-04-02T07:03:25.791761
 url: "/cdr-researcher-census/researchers/thi-hanh-ha-a5078216/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Phillip Cross"
 description: "Phillip Cross is a Senior DAC researcher at 8 Rivers Capital (United States) in US. With 24 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.073305
+date: 2026-04-02T07:03:25.016799
 url: "/cdr-researcher-census/researchers/phillip-cross-a5101722/"
 layout: "researcher"
 hiddenInHomeList: true

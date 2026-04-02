@@ -1,7 +1,7 @@
 ---
 title: "Mohsen Salimi"
 description: "Mohsen Salimi is a Senior DAC researcher at Aarhus University in DK. With 22 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.014348
+date: 2026-04-02T07:03:24.928826
 url: "/cdr-researcher-census/researchers/mohsen-salimi-a5068601/"
 layout: "researcher"
 hiddenInHomeList: true

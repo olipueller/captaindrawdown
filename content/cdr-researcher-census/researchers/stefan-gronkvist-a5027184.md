@@ -1,7 +1,7 @@
 ---
 title: "Stefan Grönkvist"
 description: "Stefan Grönkvist is a Senior General CDR researcher at KTH Royal Institute of Technology in SE. With 59 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.229264
+date: 2026-04-02T07:03:23.812831
 url: "/cdr-researcher-census/researchers/stefan-gronkvist-a5027184/"
 layout: "researcher"
 hiddenInHomeList: true

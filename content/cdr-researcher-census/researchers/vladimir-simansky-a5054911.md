@@ -1,7 +1,7 @@
 ---
 title: "Vladimí­r Šimanský"
 description: "Vladimí­r Šimanský is a Senior Soil Carbon researcher at Slovenská Po?nohospodárska Univerzita v Nitre in SK. With 161 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.298688
+date: 2026-04-02T07:03:23.908590
 url: "/cdr-researcher-census/researchers/vladimir-simansky-a5054911/"
 layout: "researcher"
 hiddenInHomeList: true

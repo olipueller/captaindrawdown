@@ -1,7 +1,7 @@
 ---
 title: "Bart Driessen"
 description: "Bart Driessen is a Senior General CDR researcher at Netherlands Organisation for Applied Scientific Research in NL. With 38 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.583138
+date: 2026-04-02T07:03:24.295138
 url: "/cdr-researcher-census/researchers/bart-driessen-a5102725/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "M. Shanthi"
 description: "M. Shanthi is a Mid-career General CDR researcher at National Institute of Technology Tiruchirappalli in IN. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.039703
+date: 2026-04-02T07:03:26.420040
 url: "/cdr-researcher-census/researchers/m-shanthi-a5013716/"
 layout: "researcher"
 hiddenInHomeList: true

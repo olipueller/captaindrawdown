@@ -1,7 +1,7 @@
 ---
 title: "Zhuoting Li"
 description: "Zhuoting Li is a Senior Soil Carbon researcher at Nanning Normal University in CN. With 13 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.309175
+date: 2026-04-02T07:03:25.353804
 url: "/cdr-researcher-census/researchers/zhuoting-li-a5048298/"
 layout: "researcher"
 hiddenInHomeList: true

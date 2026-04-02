@@ -1,7 +1,7 @@
 ---
 title: "Melis S. Duyar"
 description: "Melis S. Duyar is a Senior DAC researcher at University of South Carolina in US. With 75 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.181115
+date: 2026-04-02T07:03:23.751415
 url: "/cdr-researcher-census/researchers/melis-s-duyar-a5004572/"
 layout: "researcher"
 hiddenInHomeList: true

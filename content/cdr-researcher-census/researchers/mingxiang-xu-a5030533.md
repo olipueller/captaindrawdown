@@ -1,7 +1,7 @@
 ---
 title: "Mingxiang Xu"
 description: "Mingxiang Xu is a Senior Soil Carbon researcher at Institute of Soil and Water Conservation Chinese Academy of Sciences and Ministry of Water Resources in CN. With 98 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.199109
+date: 2026-04-02T07:03:23.777521
 url: "/cdr-researcher-census/researchers/mingxiang-xu-a5030533/"
 layout: "researcher"
 hiddenInHomeList: true

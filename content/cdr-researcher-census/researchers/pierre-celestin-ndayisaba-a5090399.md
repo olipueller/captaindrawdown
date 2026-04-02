@@ -1,7 +1,7 @@
 ---
 title: "Pierre Celestin Ndayisaba"
 description: "Pierre Celestin Ndayisaba is a Mid-career Soil Carbon researcher at Rwanda Agriculture Board in RW. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.422417
+date: 2026-04-02T07:03:25.521208
 url: "/cdr-researcher-census/researchers/pierre-celestin-ndayisaba-a5090399/"
 layout: "researcher"
 hiddenInHomeList: true

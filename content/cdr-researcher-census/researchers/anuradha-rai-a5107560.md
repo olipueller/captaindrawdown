@@ -1,7 +1,7 @@
 ---
 title: "Anuradha Rai"
 description: "Anuradha Rai is a Mid-career Soil Carbon researcher at Tata Motors (India) in IN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.557584
+date: 2026-04-02T07:03:25.741537
 url: "/cdr-researcher-census/researchers/anuradha-rai-a5107560/"
 layout: "researcher"
 hiddenInHomeList: true

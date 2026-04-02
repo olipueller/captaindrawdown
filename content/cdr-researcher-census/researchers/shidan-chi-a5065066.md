@@ -1,7 +1,7 @@
 ---
 title: "Shidan Chi"
 description: "Shidan Chi is a Mid-career Soil Carbon researcher at China Power Engineering Consulting Group (China) in CN. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.432866
+date: 2026-04-02T07:03:27.015835
 url: "/cdr-researcher-census/researchers/shidan-chi-a5065066/"
 layout: "researcher"
 hiddenInHomeList: true

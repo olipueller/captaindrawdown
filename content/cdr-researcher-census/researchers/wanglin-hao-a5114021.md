@@ -1,7 +1,7 @@
 ---
 title: "Wanglin Hao"
 description: "Wanglin Hao is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.966477
+date: 2026-04-02T07:03:26.316359
 url: "/cdr-researcher-census/researchers/wanglin-hao-a5114021/"
 layout: "researcher"
 hiddenInHomeList: true

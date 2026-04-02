@@ -1,7 +1,7 @@
 ---
 title: "Carlos A. Carrillo"
 description: "Carlos A. Carrillo is a Senior carbon dioxide removal researcher at New Mexico Institute of Mining and Technology in US. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.483346
+date: 2026-04-02T07:03:24.151964
 url: "/cdr-researcher-census/researchers/carlos-a-carrillo-a5069095/"
 layout: "researcher"
 hiddenInHomeList: true

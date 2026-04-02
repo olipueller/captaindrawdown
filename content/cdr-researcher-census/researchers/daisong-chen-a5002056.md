@@ -1,7 +1,7 @@
 ---
 title: "Daisong Chen"
 description: "Daisong Chen is a Mid-career carbon dioxide removal researcher at City University of Hong Kong in HK. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.711480
+date: 2026-04-02T07:03:25.977802
 url: "/cdr-researcher-census/researchers/daisong-chen-a5002056/"
 layout: "researcher"
 hiddenInHomeList: true

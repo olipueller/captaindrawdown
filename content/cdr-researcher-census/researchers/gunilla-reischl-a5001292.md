@@ -1,7 +1,7 @@
 ---
 title: "Gunilla Reischl"
 description: "Gunilla Reischl is a Senior General CDR researcher at Swedish Institute of International Affairs in SE. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.907831
+date: 2026-04-02T07:03:24.762027
 url: "/cdr-researcher-census/researchers/gunilla-reischl-a5001292/"
 layout: "researcher"
 hiddenInHomeList: true

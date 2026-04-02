@@ -1,7 +1,7 @@
 ---
 title: "Marco Pfeiffer"
 description: "Marco Pfeiffer is a Senior Soil Carbon researcher at UNIVERSIDAD DE CHILE in CL. With 60 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.647678
+date: 2026-04-02T07:03:24.387462
 url: "/cdr-researcher-census/researchers/marco-pfeiffer-a5076429/"
 layout: "researcher"
 hiddenInHomeList: true

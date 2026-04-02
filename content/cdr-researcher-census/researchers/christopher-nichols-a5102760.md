@@ -1,7 +1,7 @@
 ---
 title: "Christopher Nichols"
 description: "Christopher Nichols is a Senior DAC researcher. With 41 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.416607
+date: 2026-04-02T07:03:24.059003
 url: "/cdr-researcher-census/researchers/christopher-nichols-a5102760/"
 layout: "researcher"
 hiddenInHomeList: true

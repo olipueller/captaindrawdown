@@ -1,7 +1,7 @@
 ---
 title: "Fengfeng Tan"
 description: "Fengfeng Tan is a Mid-career Soil Carbon researcher at Fujian Normal University in CN. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.403505
+date: 2026-04-02T07:03:26.971054
 url: "/cdr-researcher-census/researchers/fengfeng-tan-a5088886/"
 layout: "researcher"
 hiddenInHomeList: true

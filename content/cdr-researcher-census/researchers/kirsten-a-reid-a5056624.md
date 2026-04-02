@@ -1,7 +1,7 @@
 ---
 title: "Kirsten A. Reid"
 description: "Kirsten A. Reid is a Mid-career carbon dioxide removal researcher at Institute of Plant and Animal Ecology in RU. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.103542
+date: 2026-04-02T07:03:25.060311
 url: "/cdr-researcher-census/researchers/kirsten-a-reid-a5056624/"
 layout: "researcher"
 hiddenInHomeList: true

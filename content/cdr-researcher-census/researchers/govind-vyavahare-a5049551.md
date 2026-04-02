@@ -1,7 +1,7 @@
 ---
 title: "Govind Vyavahare"
 description: "Govind Vyavahare is a Mid-career Biochar researcher at Chungbuk National University in KR. With 37 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.637854
+date: 2026-04-02T07:03:24.372490
 url: "/cdr-researcher-census/researchers/govind-vyavahare-a5049551/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Slyvester Yew Wang Chai"
 description: "Slyvester Yew Wang Chai is a Mid-career Enhanced Weathering researcher at Jinan University in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.692122
+date: 2026-04-02T07:03:24.454929
 url: "/cdr-researcher-census/researchers/slyvester-yew-wang-chai-a5064148/"
 layout: "researcher"
 hiddenInHomeList: true

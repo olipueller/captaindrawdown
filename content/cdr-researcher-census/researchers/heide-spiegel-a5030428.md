@@ -1,7 +1,7 @@
 ---
 title: "Heide Spiegel"
 description: "Heide Spiegel is a Senior Soil Carbon researcher at Austrian Agency for Health and Food Safety in AT. With 184 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.142601
+date: 2026-04-02T07:03:23.697732
 url: "/cdr-researcher-census/researchers/heide-spiegel-a5030428/"
 layout: "researcher"
 hiddenInHomeList: true

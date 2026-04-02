@@ -1,7 +1,7 @@
 ---
 title: "Gaoyang Qiu"
 description: "Gaoyang Qiu is a Mid-career Enhanced Weathering researcher at ZheJiang Academy of Agricultural Sciences in CN. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.732785
+date: 2026-04-02T07:03:24.513528
 url: "/cdr-researcher-census/researchers/gaoyang-qiu-a5004371/"
 layout: "researcher"
 hiddenInHomeList: true

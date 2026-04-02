@@ -1,7 +1,7 @@
 ---
 title: "Bal Krishna Jha"
 description: "Bal Krishna Jha is a Mid-career Soil Carbon researcher at Chandigarh University in IN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.148514
+date: 2026-04-02T07:03:26.582798
 url: "/cdr-researcher-census/researchers/bal-krishna-jha-a5051880/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Suchada Ukaew"
 description: "Suchada Ukaew is a Mid-career Soil Carbon researcher at Naresuan University in TH. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.618222
+date: 2026-04-02T07:03:25.833085
 url: "/cdr-researcher-census/researchers/suchada-ukaew-a5002476/"
 layout: "researcher"
 hiddenInHomeList: true

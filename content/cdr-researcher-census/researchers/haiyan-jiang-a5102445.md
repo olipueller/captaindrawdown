@@ -1,7 +1,7 @@
 ---
 title: "Haiyan Jiang"
 description: "Haiyan Jiang is a Mid-career Biochar researcher at Guangdong University of Technology in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.773993
+date: 2026-04-02T07:03:26.035273
 url: "/cdr-researcher-census/researchers/haiyan-jiang-a5102445/"
 layout: "researcher"
 hiddenInHomeList: true

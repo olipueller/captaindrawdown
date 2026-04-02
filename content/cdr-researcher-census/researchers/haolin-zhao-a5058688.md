@@ -1,7 +1,7 @@
 ---
 title: "Haolin Zhao"
 description: "Haolin Zhao is a Mid-career Biochar researcher at University of Aberdeen in GB. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.151000
+date: 2026-04-02T07:03:25.129441
 url: "/cdr-researcher-census/researchers/haolin-zhao-a5058688/"
 layout: "researcher"
 hiddenInHomeList: true

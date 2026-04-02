@@ -1,7 +1,7 @@
 ---
 title: "Junxi Hu"
 description: "Junxi Hu is a Mid-career Soil Carbon researcher at Sichuan Agricultural University in CN. With 21 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.681377
+date: 2026-04-02T07:03:24.441263
 url: "/cdr-researcher-census/researchers/junxi-hu-a5049899/"
 layout: "researcher"
 hiddenInHomeList: true

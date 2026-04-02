@@ -1,7 +1,7 @@
 ---
 title: "Shuhao Zhu"
 description: "Shuhao Zhu is a Mid-career carbon dioxide removal researcher at Agro-Environmental Protection Institute in CN. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.897537
+date: 2026-04-02T07:03:26.212244
 url: "/cdr-researcher-census/researchers/shuhao-zhu-a5029285/"
 layout: "researcher"
 hiddenInHomeList: true

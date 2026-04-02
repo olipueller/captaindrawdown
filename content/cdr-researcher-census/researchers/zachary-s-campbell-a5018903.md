@@ -1,7 +1,7 @@
 ---
 title: "Zachary S. Campbell"
 description: "Zachary S. Campbell is a Mid-career carbon dioxide removal researcher at Georgia Institute of Technology in US. With 25 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.285620
+date: 2026-04-02T07:03:25.320282
 url: "/cdr-researcher-census/researchers/zachary-s-campbell-a5018903/"
 layout: "researcher"
 hiddenInHomeList: true

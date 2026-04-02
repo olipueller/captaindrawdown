@@ -1,7 +1,7 @@
 ---
 title: "Albert Martos"
 description: "Albert Martos is a Senior Soil Carbon researcher at Escuela Campo Alegre in VE. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.208608
+date: 2026-04-02T07:03:25.211981
 url: "/cdr-researcher-census/researchers/albert-martos-a5079653/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yiwei Zhu"
 description: "Yiwei Zhu is a Mid-career General CDR researcher. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.317827
+date: 2026-04-02T07:03:26.853069
 url: "/cdr-researcher-census/researchers/yiwei-zhu-a5065489/"
 layout: "researcher"
 hiddenInHomeList: true

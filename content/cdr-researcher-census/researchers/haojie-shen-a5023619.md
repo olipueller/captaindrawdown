@@ -1,7 +1,7 @@
 ---
 title: "Haojie Shen"
 description: "Haojie Shen is a Mid-career Soil Carbon researcher at Zhejiang University in CN. With 18 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.783380
+date: 2026-04-02T07:03:24.586398
 url: "/cdr-researcher-census/researchers/haojie-shen-a5023619/"
 layout: "researcher"
 hiddenInHomeList: true

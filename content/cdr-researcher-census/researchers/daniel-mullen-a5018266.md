@@ -1,7 +1,7 @@
 ---
 title: "Daniel Mullen"
 description: "Daniel Mullen is a Mid-career General CDR researcher. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.103212
+date: 2026-04-02T07:03:26.509835
 url: "/cdr-researcher-census/researchers/daniel-mullen-a5018266/"
 layout: "researcher"
 hiddenInHomeList: true

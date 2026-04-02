@@ -1,7 +1,7 @@
 ---
 title: "Akbar Samadi"
 description: "Akbar Samadi is a Mid-career carbon dioxide removal researcher at Deakin University in AU. With 13 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.577508
+date: 2026-04-02T07:03:24.287468
 url: "/cdr-researcher-census/researchers/akbar-samadi-a5010865/"
 layout: "researcher"
 hiddenInHomeList: true

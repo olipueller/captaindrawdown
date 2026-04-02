@@ -1,7 +1,7 @@
 ---
 title: "François Rineau"
 description: "François Rineau is a Senior Enhanced Weathering researcher at Universiteit Hasselt in BE. With 97 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.158819
+date: 2026-04-02T07:03:23.719298
 url: "/cdr-researcher-census/researchers/francois-rineau-a5045686/"
 layout: "researcher"
 hiddenInHomeList: true

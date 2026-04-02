@@ -1,7 +1,7 @@
 ---
 title: "Yonglin Wu"
 description: "Yonglin Wu is a Mid-career Soil Carbon researcher at Yunnan Agricultural University in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.389158
+date: 2026-04-02T07:03:25.470159
 url: "/cdr-researcher-census/researchers/yonglin-wu-a5043296/"
 layout: "researcher"
 hiddenInHomeList: true

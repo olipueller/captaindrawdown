@@ -1,7 +1,7 @@
 ---
 title: "Edward Gómez-Delgado"
 description: "Edward Gómez-Delgado is a Mid-career carbon dioxide removal researcher at Fundación Ciencias Exactas y Naturales in AR. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.111013
+date: 2026-04-02T07:03:26.521970
 url: "/cdr-researcher-census/researchers/edward-gomez-delgado-a5077926/"
 layout: "researcher"
 hiddenInHomeList: true

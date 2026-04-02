@@ -1,7 +1,7 @@
 ---
 title: "Anna Kritikaki"
 description: "Anna Kritikaki is a Senior Biochar researcher at Technical University of Crete in GR. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.482676
+date: 2026-04-02T07:03:25.635300
 url: "/cdr-researcher-census/researchers/anna-kritikaki-a5078691/"
 layout: "researcher"
 hiddenInHomeList: true

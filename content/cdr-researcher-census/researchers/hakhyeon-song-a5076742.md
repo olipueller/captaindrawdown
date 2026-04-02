@@ -1,7 +1,7 @@
 ---
 title: "Hakhyeon Song"
 description: "Hakhyeon Song is a Mid-career DAC researcher at Georgia Institute of Technology in US. With 38 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.296246
+date: 2026-04-02T07:03:23.905365
 url: "/cdr-researcher-census/researchers/hakhyeon-song-a5076742/"
 layout: "researcher"
 hiddenInHomeList: true

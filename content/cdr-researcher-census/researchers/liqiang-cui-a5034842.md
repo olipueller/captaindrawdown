@@ -1,7 +1,7 @@
 ---
 title: "Liqiang Cui"
 description: "Liqiang Cui is a Mid-career Biochar researcher at Chinese PLA General Hospital in CN. With 45 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.679186
+date: 2026-04-02T07:03:24.438330
 url: "/cdr-researcher-census/researchers/liqiang-cui-a5034842/"
 layout: "researcher"
 hiddenInHomeList: true

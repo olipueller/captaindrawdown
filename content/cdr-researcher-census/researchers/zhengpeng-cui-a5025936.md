@@ -1,7 +1,7 @@
 ---
 title: "Zhengpeng Cui"
 description: "Zhengpeng Cui is a Mid-career Soil Carbon researcher at Shandong Academy of Agricultural Sciences in CN. With 14 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.388764
+date: 2026-04-02T07:03:25.469571
 url: "/cdr-researcher-census/researchers/zhengpeng-cui-a5025936/"
 layout: "researcher"
 hiddenInHomeList: true

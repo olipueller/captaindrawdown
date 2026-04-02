@@ -1,7 +1,7 @@
 ---
 title: "Paloma de las Heras"
 description: "Paloma de las Heras is a Senior Soil Carbon researcher at Universidad Complutense de Madrid in ES. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.081020
+date: 2026-04-02T07:03:26.480182
 url: "/cdr-researcher-census/researchers/paloma-de-las-heras-a5060265/"
 layout: "researcher"
 hiddenInHomeList: true

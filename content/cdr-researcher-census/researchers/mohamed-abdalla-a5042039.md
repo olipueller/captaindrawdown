@@ -1,7 +1,7 @@
 ---
 title: "Mohamed Abdalla"
 description: "Mohamed Abdalla is a Senior Soil Carbon researcher at University of Aberdeen in GB. With 124 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.158526
+date: 2026-04-02T07:03:23.718766
 url: "/cdr-researcher-census/researchers/mohamed-abdalla-a5042039/"
 layout: "researcher"
 hiddenInHomeList: true

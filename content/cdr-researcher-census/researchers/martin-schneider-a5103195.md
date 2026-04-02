@@ -1,7 +1,7 @@
 ---
 title: "Martin Schneider"
 description: "Martin Schneider is a Mid-career Soil Carbon researcher at BOKU University in AT. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.204481
+date: 2026-04-02T07:03:26.686342
 url: "/cdr-researcher-census/researchers/martin-schneider-a5103195/"
 layout: "researcher"
 hiddenInHomeList: true

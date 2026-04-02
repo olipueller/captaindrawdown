@@ -1,7 +1,7 @@
 ---
 title: "Ah-Hyung Park"
 description: "Ah-Hyung Park is a Senior carbon dioxide removal researcher in GB. With 17 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.772181
+date: 2026-04-02T07:03:26.032798
 url: "/cdr-researcher-census/researchers/ah-hyung-park-a5058205/"
 layout: "researcher"
 hiddenInHomeList: true

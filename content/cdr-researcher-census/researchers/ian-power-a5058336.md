@@ -1,7 +1,7 @@
 ---
 title: "Ian Power"
 description: "Ian Power is an Eminent Enhanced Weathering researcher at Trent University in CA. With 359 publications and an h-index of 49, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.101605
+date: 2026-04-02T07:03:23.649246
 url: "/cdr-researcher-census/researchers/ian-power-a5058336/"
 layout: "researcher"
 hiddenInHomeList: true

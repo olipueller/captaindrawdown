@@ -1,7 +1,7 @@
 ---
 title: "Kangning Zhou"
 description: "Kangning Zhou is a Senior Soil Carbon researcher at Zhejiang A & F University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.540995
+date: 2026-04-02T07:03:25.718273
 url: "/cdr-researcher-census/researchers/kangning-zhou-a5103165/"
 layout: "researcher"
 hiddenInHomeList: true

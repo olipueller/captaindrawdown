@@ -1,7 +1,7 @@
 ---
 title: "Bing-Yang Ding"
 description: "Bing-Yang Ding is an Early-career Soil Carbon researcher at Zhejiang A & F University in CN. With 4 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.614301
+date: 2026-04-02T07:03:24.340654
 url: "/cdr-researcher-census/researchers/bing-yang-ding-a5112071/"
 layout: "researcher"
 hiddenInHomeList: true

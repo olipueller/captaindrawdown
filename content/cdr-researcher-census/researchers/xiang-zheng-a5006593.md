@@ -1,7 +1,7 @@
 ---
 title: "Xiang Zheng"
 description: "Xiang Zheng is a Senior Soil Carbon researcher at Nanjing Forestry University in CN. With 26 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.328457
+date: 2026-04-02T07:03:25.381178
 url: "/cdr-researcher-census/researchers/xiang-zheng-a5006593/"
 layout: "researcher"
 hiddenInHomeList: true

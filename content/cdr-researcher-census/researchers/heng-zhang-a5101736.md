@@ -1,7 +1,7 @@
 ---
 title: "Heng Zhang"
 description: "Heng Zhang is a Senior Soil Carbon researcher at Beijing Botanical Garden in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.841901
+date: 2026-04-02T07:03:24.664523
 url: "/cdr-researcher-census/researchers/heng-zhang-a5101736/"
 layout: "researcher"
 hiddenInHomeList: true

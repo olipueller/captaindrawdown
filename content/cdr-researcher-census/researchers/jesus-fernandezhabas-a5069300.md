@@ -1,7 +1,7 @@
 ---
 title: "Jesús Fernández‐Habas"
 description: "Jesús Fernández‐Habas is a Mid-career Soil Carbon researcher at University of Córdoba in ES. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.636118
+date: 2026-04-02T07:03:25.859505
 url: "/cdr-researcher-census/researchers/jesus-fernandezhabas-a5069300/"
 layout: "researcher"
 hiddenInHomeList: true

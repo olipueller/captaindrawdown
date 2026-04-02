@@ -1,7 +1,7 @@
 ---
 title: "Aanisa Manzoor Shah"
 description: "Aanisa Manzoor Shah is a Mid-career Soil Carbon researcher at Sher-e-Kashmir University of Agricultural Sciences and Technology of Kashmir in IN. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.079543
+date: 2026-04-02T07:03:26.478120
 url: "/cdr-researcher-census/researchers/aanisa-manzoor-shah-a5080237/"
 layout: "researcher"
 hiddenInHomeList: true

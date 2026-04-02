@@ -1,7 +1,7 @@
 ---
 title: "Hana Brunhoferová"
 description: "Hana Brunhoferová is a Mid-career carbon dioxide removal researcher at University of Chemistry and Technology, Prague in CZ. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.992312
+date: 2026-04-02T07:03:26.349792
 url: "/cdr-researcher-census/researchers/hana-brunhoferova-a5060386/"
 layout: "researcher"
 hiddenInHomeList: true

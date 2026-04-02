@@ -1,7 +1,7 @@
 ---
 title: "Luciano E. Di Paolo"
 description: "Luciano E. Di Paolo is an Early-career General CDR researcher at Food and Agriculture Organization of the United Nations in IT. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.610137
+date: 2026-04-02T07:03:24.334436
 url: "/cdr-researcher-census/researchers/luciano-e-di-paolo-a5011445/"
 layout: "researcher"
 hiddenInHomeList: true

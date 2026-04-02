@@ -1,7 +1,7 @@
 ---
 title: "Wenchen Song"
 description: "Wenchen Song is a Senior General CDR researcher at BGI Group (China) in CN. With 32 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.440025
+date: 2026-04-02T07:03:25.546509
 url: "/cdr-researcher-census/researchers/wenchen-song-a5087479/"
 layout: "researcher"
 hiddenInHomeList: true

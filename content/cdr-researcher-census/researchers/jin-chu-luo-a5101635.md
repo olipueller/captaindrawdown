@@ -1,7 +1,7 @@
 ---
 title: "Jin-Chu Luo"
 description: "Jin-Chu Luo is a Senior General CDR researcher at Nanjing Tech University in CN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.873032
+date: 2026-04-02T07:03:26.176196
 url: "/cdr-researcher-census/researchers/jin-chu-luo-a5101635/"
 layout: "researcher"
 hiddenInHomeList: true

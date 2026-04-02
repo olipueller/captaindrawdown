@@ -1,7 +1,7 @@
 ---
 title: "Gordon Brezicki"
 description: "Gordon Brezicki is a Mid-career carbon dioxide removal researcher at North Carolina Institute of Medicine in US. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.266012
+date: 2026-04-02T07:03:25.293879
 url: "/cdr-researcher-census/researchers/gordon-brezicki-a5088798/"
 layout: "researcher"
 hiddenInHomeList: true

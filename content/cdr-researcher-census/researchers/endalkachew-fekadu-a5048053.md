@@ -1,7 +1,7 @@
 ---
 title: "Endalkachew Fekadu"
 description: "Endalkachew Fekadu is a Mid-career carbon dioxide removal researcher at Woldia University in ET. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.148444
+date: 2026-04-02T07:03:25.126185
 url: "/cdr-researcher-census/researchers/endalkachew-fekadu-a5048053/"
 layout: "researcher"
 hiddenInHomeList: true

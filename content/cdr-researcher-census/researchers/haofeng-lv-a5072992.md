@@ -1,7 +1,7 @@
 ---
 title: "Haofeng Lv"
 description: "Haofeng Lv is a Mid-career Biochar researcher at Qingdao Agricultural University in CN. With 39 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.517534
+date: 2026-04-02T07:03:24.196193
 url: "/cdr-researcher-census/researchers/haofeng-lv-a5072992/"
 layout: "researcher"
 hiddenInHomeList: true

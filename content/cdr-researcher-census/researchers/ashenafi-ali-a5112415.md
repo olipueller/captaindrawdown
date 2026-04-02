@@ -1,7 +1,7 @@
 ---
 title: "Ashenafi Ali"
 description: "Ashenafi Ali is a Mid-career Soil Carbon researcher at Addis Ababa University in ET. With 27 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.890736
+date: 2026-04-02T07:03:26.202516
 url: "/cdr-researcher-census/researchers/ashenafi-ali-a5112415/"
 layout: "researcher"
 hiddenInHomeList: true

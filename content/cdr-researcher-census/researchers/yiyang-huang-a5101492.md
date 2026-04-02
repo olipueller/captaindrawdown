@@ -1,7 +1,7 @@
 ---
 title: "Yiyang Huang"
 description: "Yiyang Huang is a Mid-career DAC researcher at University of Arizona in US. With 39 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.946083
+date: 2026-04-02T07:03:26.286618
 url: "/cdr-researcher-census/researchers/yiyang-huang-a5101492/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ayokunle Omosebi"
 description: "Ayokunle Omosebi is a Senior DAC researcher at University of Kentucky in US. With 83 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.260341
+date: 2026-04-02T07:03:23.853604
 url: "/cdr-researcher-census/researchers/ayokunle-omosebi-a5060653/"
 layout: "researcher"
 hiddenInHomeList: true

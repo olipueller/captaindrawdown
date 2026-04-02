@@ -1,7 +1,7 @@
 ---
 title: "Angelique Pouponneau"
 description: "Angelique Pouponneau is a Mid-career General CDR researcher at NSW Department of Communities and Justice in AU. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.191087
+date: 2026-04-02T07:03:25.187109
 url: "/cdr-researcher-census/researchers/angelique-pouponneau-a5068876/"
 layout: "researcher"
 hiddenInHomeList: true

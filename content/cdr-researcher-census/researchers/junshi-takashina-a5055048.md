@@ -1,7 +1,7 @@
 ---
 title: "Junshi Takashina"
 description: "Junshi Takashina is a Senior carbon dioxide removal researcher at ClassNK in JP. With 19 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.501927
+date: 2026-04-02T07:03:25.662560
 url: "/cdr-researcher-census/researchers/junshi-takashina-a5055048/"
 layout: "researcher"
 hiddenInHomeList: true

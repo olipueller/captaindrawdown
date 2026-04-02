@@ -1,7 +1,7 @@
 ---
 title: "Mathieu Leclaire"
 description: "Mathieu Leclaire is a Senior Soil Carbon researcher at Centre National de la Recherche Scientifique in FR. With 18 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.794079
+date: 2026-04-02T07:03:26.063681
 url: "/cdr-researcher-census/researchers/mathieu-leclaire-a5087100/"
 layout: "researcher"
 hiddenInHomeList: true

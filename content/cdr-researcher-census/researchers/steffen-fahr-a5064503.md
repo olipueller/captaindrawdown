@@ -1,7 +1,7 @@
 ---
 title: "Steffen Fahr"
 description: "Steffen Fahr is a Mid-career DAC researcher at Technical University of Munich in DE. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.770796
+date: 2026-04-02T07:03:26.030690
 url: "/cdr-researcher-census/researchers/steffen-fahr-a5064503/"
 layout: "researcher"
 hiddenInHomeList: true

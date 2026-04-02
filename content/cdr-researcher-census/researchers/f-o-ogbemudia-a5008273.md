@@ -1,7 +1,7 @@
 ---
 title: "F. O. Ogbemudia"
 description: "F. O. Ogbemudia is a Mid-career Soil Carbon researcher at University of Uyo in NG. With 25 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.194743
+date: 2026-04-02T07:03:26.672885
 url: "/cdr-researcher-census/researchers/f-o-ogbemudia-a5008273/"
 layout: "researcher"
 hiddenInHomeList: true

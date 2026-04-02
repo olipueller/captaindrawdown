@@ -1,7 +1,7 @@
 ---
 title: "Juan Jia"
 description: "Juan Jia is a Senior Soil Carbon researcher at Institute of Botany Chinese Academy of Sciences in CN. With 88 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.248096
+date: 2026-04-02T07:03:23.837355
 url: "/cdr-researcher-census/researchers/juan-jia-a5082763/"
 layout: "researcher"
 hiddenInHomeList: true

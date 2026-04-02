@@ -1,7 +1,7 @@
 ---
 title: "Ikabongo Mukumbuta"
 description: "Ikabongo Mukumbuta is a Mid-career Soil Carbon researcher at Hokkaido University in JP. With 32 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.411515
+date: 2026-04-02T07:03:25.505912
 url: "/cdr-researcher-census/researchers/ikabongo-mukumbuta-a5054033/"
 layout: "researcher"
 hiddenInHomeList: true

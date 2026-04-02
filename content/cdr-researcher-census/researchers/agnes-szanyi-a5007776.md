@@ -1,7 +1,7 @@
 ---
 title: "Ágnes Szanyi"
 description: "Ágnes Szanyi is a Senior General CDR researcher at University of Miskolc in HU. With 25 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.202952
+date: 2026-04-02T07:03:25.203084
 url: "/cdr-researcher-census/researchers/agnes-szanyi-a5007776/"
 layout: "researcher"
 hiddenInHomeList: true

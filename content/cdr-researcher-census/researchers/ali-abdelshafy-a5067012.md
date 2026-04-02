@@ -1,7 +1,7 @@
 ---
 title: "Ali Abdelshafy"
 description: "Ali Abdelshafy is a Mid-career General CDR researcher at RWTH Aachen University in DE. With 27 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.361769
+date: 2026-04-02T07:03:26.912780
 url: "/cdr-researcher-census/researchers/ali-abdelshafy-a5067012/"
 layout: "researcher"
 hiddenInHomeList: true

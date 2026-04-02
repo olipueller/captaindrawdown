@@ -1,7 +1,7 @@
 ---
 title: "Wei-Bao Yu"
 description: "Wei-Bao Yu is an Early-career Soil Carbon researcher at Ministry of Agriculture and Rural Affairs in CN. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.247882
+date: 2026-04-02T07:03:26.746099
 url: "/cdr-researcher-census/researchers/wei-bao-yu-a5077978/"
 layout: "researcher"
 hiddenInHomeList: true

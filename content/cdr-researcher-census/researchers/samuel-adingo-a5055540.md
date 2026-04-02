@@ -1,7 +1,7 @@
 ---
 title: "Samuel Adingo"
 description: "Samuel Adingo is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 26 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.520666
+date: 2026-04-02T07:03:25.689112
 url: "/cdr-researcher-census/researchers/samuel-adingo-a5055540/"
 layout: "researcher"
 hiddenInHomeList: true

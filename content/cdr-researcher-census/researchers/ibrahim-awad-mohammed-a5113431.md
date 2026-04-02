@@ -1,7 +1,7 @@
 ---
 title: "Ibrahim Awad Mohammed"
 description: "Ibrahim Awad Mohammed is a Mid-career Biochar researcher. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.319451
+date: 2026-04-02T07:03:25.368636
 url: "/cdr-researcher-census/researchers/ibrahim-awad-mohammed-a5113431/"
 layout: "researcher"
 hiddenInHomeList: true

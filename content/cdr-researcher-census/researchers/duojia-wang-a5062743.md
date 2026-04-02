@@ -1,7 +1,7 @@
 ---
 title: "Duojia Wang"
 description: "Duojia Wang is a Senior Soil Carbon researcher at Jilin Academy of Agricultural Sciences in CN. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.010137
+date: 2026-04-02T07:03:24.924850
 url: "/cdr-researcher-census/researchers/duojia-wang-a5062743/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Daniele Ferrario"
 description: "Daniele Ferrario is a Mid-career DAC researcher at Polytechnic University of Turin in IT. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.050502
+date: 2026-04-02T07:03:26.437857
 url: "/cdr-researcher-census/researchers/daniele-ferrario-a5010227/"
 layout: "researcher"
 hiddenInHomeList: true

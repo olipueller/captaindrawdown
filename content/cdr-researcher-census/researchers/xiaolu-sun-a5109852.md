@@ -1,7 +1,7 @@
 ---
 title: "Xiaolu Sun"
 description: "Xiaolu Sun is a Senior Soil Carbon researcher at National University of Singapore in SG. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.348898
+date: 2026-04-02T07:03:25.409571
 url: "/cdr-researcher-census/researchers/xiaolu-sun-a5109852/"
 layout: "researcher"
 hiddenInHomeList: true

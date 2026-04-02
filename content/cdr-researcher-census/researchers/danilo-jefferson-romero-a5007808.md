@@ -1,7 +1,7 @@
 ---
 title: "Danilo Jefferson Romero"
 description: "Danilo Jefferson Romero is a Senior Soil Carbon researcher. With 25 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.772962
+date: 2026-04-02T07:03:24.573256
 url: "/cdr-researcher-census/researchers/danilo-jefferson-romero-a5007808/"
 layout: "researcher"
 hiddenInHomeList: true

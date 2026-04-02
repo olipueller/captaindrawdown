@@ -1,7 +1,7 @@
 ---
 title: "Samadhan Yuvraj Bagul"
 description: "Samadhan Yuvraj Bagul is a Mid-career carbon dioxide removal researcher at Directorate of Medicinal and Aromatic Plants Research in IN. With 17 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.125073
+date: 2026-04-02T07:03:26.541276
 url: "/cdr-researcher-census/researchers/samadhan-yuvraj-bagul-a5113916/"
 layout: "researcher"
 hiddenInHomeList: true

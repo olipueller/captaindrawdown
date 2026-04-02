@@ -1,7 +1,7 @@
 ---
 title: "Arnab Mondal"
 description: "Arnab Mondal is a Mid-career DAC researcher at Vinoba Bhave University in IN. With 40 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.888856
+date: 2026-04-02T07:03:24.732733
 url: "/cdr-researcher-census/researchers/arnab-mondal-a5065701/"
 layout: "researcher"
 hiddenInHomeList: true

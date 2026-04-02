@@ -1,7 +1,7 @@
 ---
 title: "Marcos F. Calegari Andrade"
 description: "Marcos F. Calegari Andrade is a Senior carbon dioxide removal researcher at University of California, Santa Cruz in US. With 66 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.299394
+date: 2026-04-02T07:03:23.909453
 url: "/cdr-researcher-census/researchers/marcos-f-calegari-andrade-a5009911/"
 layout: "researcher"
 hiddenInHomeList: true

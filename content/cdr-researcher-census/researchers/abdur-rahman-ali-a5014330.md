@@ -1,7 +1,7 @@
 ---
 title: "Abdur-Rahman Ali"
 description: "Abdur-Rahman Ali is a Mid-career General CDR researcher at Technische Universität Braunschweig in DE. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.959395
+date: 2026-04-02T07:03:26.305944
 url: "/cdr-researcher-census/researchers/abdur-rahman-ali-a5014330/"
 layout: "researcher"
 hiddenInHomeList: true

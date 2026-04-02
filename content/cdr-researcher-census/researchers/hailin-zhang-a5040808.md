@@ -1,7 +1,7 @@
 ---
 title: "Hai‐Lin Zhang"
 description: "Hai‐Lin Zhang is an Eminent Soil Carbon researcher at China Agricultural University in CN. With 249 publications and an h-index of 51, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.104339
+date: 2026-04-02T07:03:23.652761
 url: "/cdr-researcher-census/researchers/hailin-zhang-a5040808/"
 layout: "researcher"
 hiddenInHomeList: true

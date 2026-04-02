@@ -1,7 +1,7 @@
 ---
 title: "Ebrahim Abbasi Asl"
 description: "Ebrahim Abbasi Asl is a Senior carbon dioxide removal researcher at Sahand University of Technology in IR. With 14 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.775510
+date: 2026-04-02T07:03:24.576576
 url: "/cdr-researcher-census/researchers/ebrahim-abbasi-asl-a5010743/"
 layout: "researcher"
 hiddenInHomeList: true

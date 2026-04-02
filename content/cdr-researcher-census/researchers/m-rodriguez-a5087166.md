@@ -1,7 +1,7 @@
 ---
 title: "M. Rodríguez"
 description: "M. Rodríguez is a Senior Biochar researcher at University of California, Riverside in US. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.236140
+date: 2026-04-02T07:03:26.730056
 url: "/cdr-researcher-census/researchers/m-rodriguez-a5087166/"
 layout: "researcher"
 hiddenInHomeList: true

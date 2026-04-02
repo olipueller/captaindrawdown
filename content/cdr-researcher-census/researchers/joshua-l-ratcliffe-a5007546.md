@@ -1,7 +1,7 @@
 ---
 title: "Joshua L. Ratcliffe"
 description: "Joshua L. Ratcliffe is a Mid-career Soil Carbon researcher at Swedish University of Agricultural Sciences in SE. With 43 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.997900
+date: 2026-04-02T07:03:24.906351
 url: "/cdr-researcher-census/researchers/joshua-l-ratcliffe-a5007546/"
 layout: "researcher"
 hiddenInHomeList: true

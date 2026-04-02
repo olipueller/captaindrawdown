@@ -1,7 +1,7 @@
 ---
 title: "Yanli Jing"
 description: "Yanli Jing is a Senior Soil Carbon researcher at Lanzhou University of Technology in CN. With 29 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.245330
+date: 2026-04-02T07:03:25.268242
 url: "/cdr-researcher-census/researchers/yanli-jing-a5019315/"
 layout: "researcher"
 hiddenInHomeList: true

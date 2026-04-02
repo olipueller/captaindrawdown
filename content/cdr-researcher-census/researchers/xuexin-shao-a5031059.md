@@ -1,7 +1,7 @@
 ---
 title: "Xuexin Shao"
 description: "Xuexin Shao is a Senior Soil Carbon researcher at Institute of Wetland Research in CN. With 31 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.105850
+date: 2026-04-02T07:03:25.063671
 url: "/cdr-researcher-census/researchers/xuexin-shao-a5031059/"
 layout: "researcher"
 hiddenInHomeList: true

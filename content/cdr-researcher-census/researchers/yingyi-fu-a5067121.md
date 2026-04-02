@@ -1,7 +1,7 @@
 ---
 title: "Yingyi Fu"
 description: "Yingyi Fu is a Senior Soil Carbon researcher at Institute of Geography in KZ. With 48 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.241848
+date: 2026-04-02T07:03:23.828440
 url: "/cdr-researcher-census/researchers/yingyi-fu-a5067121/"
 layout: "researcher"
 hiddenInHomeList: true

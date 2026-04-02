@@ -1,7 +1,7 @@
 ---
 title: "Wenxia Cao"
 description: "Wenxia Cao is a Mid-career Soil Carbon researcher at Gansu Agricultural University in CN. With 39 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.695854
+date: 2026-04-02T07:03:24.459783
 url: "/cdr-researcher-census/researchers/wenxia-cao-a5066603/"
 layout: "researcher"
 hiddenInHomeList: true

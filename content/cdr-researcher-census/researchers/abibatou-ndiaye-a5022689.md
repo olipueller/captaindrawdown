@@ -1,7 +1,7 @@
 ---
 title: "Abibatou Ndiaye"
 description: "Abibatou Ndiaye is an Early-career Soil Carbon researcher at Cheikh Anta Diop University in SN. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.338871
+date: 2026-04-02T07:03:25.395357
 url: "/cdr-researcher-census/researchers/abibatou-ndiaye-a5022689/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Edmund A. Halfyard"
 description: "Edmund A. Halfyard is a Mid-career Enhanced Weathering researcher at Carbon Engineering (Canada) in CA. With 33 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.708977
+date: 2026-04-02T07:03:24.478345
 url: "/cdr-researcher-census/researchers/edmund-a-halfyard-a5060224/"
 layout: "researcher"
 hiddenInHomeList: true

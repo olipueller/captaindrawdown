@@ -1,7 +1,7 @@
 ---
 title: "Anuj Saraswat"
 description: "Anuj Saraswat is a Mid-career Soil Carbon researcher at United Arab Emirates University in AE. With 23 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.699544
+date: 2026-04-02T07:03:24.464764
 url: "/cdr-researcher-census/researchers/anuj-saraswat-a5041712/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "René Dechow"
 description: "René Dechow is a Senior Soil Carbon researcher at Johann Heinrich von Thünen-Institut in DE. With 128 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.300091
+date: 2026-04-02T07:03:23.910206
 url: "/cdr-researcher-census/researchers/rene-dechow-a5026490/"
 layout: "researcher"
 hiddenInHomeList: true

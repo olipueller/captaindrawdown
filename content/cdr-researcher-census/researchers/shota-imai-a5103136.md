@@ -1,7 +1,7 @@
 ---
 title: "Shota Imai"
 description: "Shota Imai is a Senior Enhanced Weathering researcher at Kanazawa University in JP. With 25 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.117707
+date: 2026-04-02T07:03:26.531629
 url: "/cdr-researcher-census/researchers/shota-imai-a5103136/"
 layout: "researcher"
 hiddenInHomeList: true

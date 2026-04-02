@@ -1,7 +1,7 @@
 ---
 title: "Haoyu Chu"
 description: "Haoyu Chu is a Senior Soil Carbon researcher at Hainan University in CN. With 31 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.198858
+date: 2026-04-02T07:03:25.197670
 url: "/cdr-researcher-census/researchers/haoyu-chu-a5026408/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Sudá de Andrade Neto"
 description: "Sudá de Andrade Neto is a Mid-career General CDR researcher at Universidade Federal do Rio de Janeiro in BR. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.178650
+date: 2026-04-02T07:03:26.636080
 url: "/cdr-researcher-census/researchers/suda-de-andrade-neto-a5023170/"
 layout: "researcher"
 hiddenInHomeList: true

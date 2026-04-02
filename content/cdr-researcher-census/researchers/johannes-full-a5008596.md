@@ -1,7 +1,7 @@
 ---
 title: "Johannes Full"
 description: "Johannes Full is a Senior BECCS researcher at Fraunhofer-Institut für Produktionstechnik und Automatisierung IPA in DE. With 24 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.544042
+date: 2026-04-02T07:03:24.239835
 url: "/cdr-researcher-census/researchers/johannes-full-a5008596/"
 layout: "researcher"
 hiddenInHomeList: true

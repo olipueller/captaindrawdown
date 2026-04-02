@@ -1,7 +1,7 @@
 ---
 title: "Ruma Das"
 description: "Ruma Das is a Senior Soil Carbon researcher at ICAR-National Bureau of Soil Survey and Land Use Planning RC Kolkata in IN. With 53 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.560925
+date: 2026-04-02T07:03:24.263889
 url: "/cdr-researcher-census/researchers/ruma-das-a5101446/"
 layout: "researcher"
 hiddenInHomeList: true

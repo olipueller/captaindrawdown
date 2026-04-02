@@ -1,7 +1,7 @@
 ---
 title: "Seonyeob Kim"
 description: "Seonyeob Kim is a Mid-career carbon dioxide removal researcher at Korea Institute of Machinery & Materials in KR. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.933130
+date: 2026-04-02T07:03:24.803280
 url: "/cdr-researcher-census/researchers/seonyeob-kim-a5054520/"
 layout: "researcher"
 hiddenInHomeList: true

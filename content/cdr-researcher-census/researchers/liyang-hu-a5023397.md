@@ -1,7 +1,7 @@
 ---
 title: "Liyang Hu"
 description: "Liyang Hu is a Mid-career Biochar researcher. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.494152
+date: 2026-04-02T07:03:25.651667
 url: "/cdr-researcher-census/researchers/liyang-hu-a5023397/"
 layout: "researcher"
 hiddenInHomeList: true

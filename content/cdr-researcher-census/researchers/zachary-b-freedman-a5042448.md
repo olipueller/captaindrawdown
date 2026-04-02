@@ -1,7 +1,7 @@
 ---
 title: "Zachary B. Freedman"
 description: "Zachary B. Freedman is a Senior Soil Carbon researcher at University of Wisconsin - Madison in US. With 77 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.257395
+date: 2026-04-02T07:03:23.850205
 url: "/cdr-researcher-census/researchers/zachary-b-freedman-a5042448/"
 layout: "researcher"
 hiddenInHomeList: true

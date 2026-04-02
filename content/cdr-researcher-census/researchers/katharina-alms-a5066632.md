@@ -1,7 +1,7 @@
 ---
 title: "Katharina Alms"
 description: "Katharina Alms is a Mid-career Enhanced Weathering researcher. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.300024
+date: 2026-04-02T07:03:26.826832
 url: "/cdr-researcher-census/researchers/katharina-alms-a5066632/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Wenzhu Shi"
 description: "Wenzhu Shi is a Senior Soil Carbon researcher at Chinese PLA General Hospital in CN. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.061755
+date: 2026-04-02T07:03:25.000093
 url: "/cdr-researcher-census/researchers/wenzhu-shi-a5011233/"
 layout: "researcher"
 hiddenInHomeList: true

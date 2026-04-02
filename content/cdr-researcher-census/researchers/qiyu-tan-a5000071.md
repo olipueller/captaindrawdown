@@ -1,7 +1,7 @@
 ---
 title: "Qiyu Tan"
 description: "Qiyu Tan is a Senior Soil Carbon researcher at Chengdu Institute of Biology in CN. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.093112
+date: 2026-04-02T07:03:25.044687
 url: "/cdr-researcher-census/researchers/qiyu-tan-a5000071/"
 layout: "researcher"
 hiddenInHomeList: true

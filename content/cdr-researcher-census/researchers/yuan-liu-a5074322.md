@@ -1,7 +1,7 @@
 ---
 title: "Yuan Liu"
 description: "Yuan Liu is a Senior Soil Carbon researcher at Lawrence Livermore National Laboratory in US. With 74 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.245699
+date: 2026-04-02T07:03:23.834456
 url: "/cdr-researcher-census/researchers/yuan-liu-a5074322/"
 layout: "researcher"
 hiddenInHomeList: true

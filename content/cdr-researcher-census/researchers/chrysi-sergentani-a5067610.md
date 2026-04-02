@@ -1,7 +1,7 @@
 ---
 title: "Chrysi Sergentani"
 description: "Chrysi Sergentani is a Mid-career Soil Carbon researcher in GB. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.782189
+date: 2026-04-02T07:03:26.046578
 url: "/cdr-researcher-census/researchers/chrysi-sergentani-a5067610/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "A. Patrick Behrer"
 description: "A. Patrick Behrer is a Mid-career Soil Carbon researcher at World Bank in US. With 27 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.920770
+date: 2026-04-02T07:03:24.784674
 url: "/cdr-researcher-census/researchers/a-patrick-behrer-a5080870/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Anna Guðrun Þorhallsdóttir"
 description: "Anna Guðrun Þorhallsdóttir is a Senior Soil Carbon researcher at Hólar University College in IS. With 22 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.561176
+date: 2026-04-02T07:03:24.264236
 url: "/cdr-researcher-census/researchers/anna-gurun-orhallsdottir-a5017530/"
 layout: "researcher"
 hiddenInHomeList: true

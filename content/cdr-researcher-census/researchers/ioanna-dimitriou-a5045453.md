@@ -1,7 +1,7 @@
 ---
 title: "Ioanna Dimitriou"
 description: "Ioanna Dimitriou is a Mid-career DAC researcher at University of Nottingham in GB. With 19 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.453250
+date: 2026-04-02T07:03:24.109303
 url: "/cdr-researcher-census/researchers/ioanna-dimitriou-a5045453/"
 layout: "researcher"
 hiddenInHomeList: true

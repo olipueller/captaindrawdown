@@ -1,7 +1,7 @@
 ---
 title: "Yunlu Hou"
 description: "Yunlu Hou is a Mid-career Biochar researcher at Centre National de la Recherche Scientifique in FR. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.423743
+date: 2026-04-02T07:03:25.522991
 url: "/cdr-researcher-census/researchers/yunlu-hou-a5046253/"
 layout: "researcher"
 hiddenInHomeList: true

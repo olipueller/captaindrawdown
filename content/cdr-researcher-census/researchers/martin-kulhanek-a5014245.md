@@ -1,7 +1,7 @@
 ---
 title: "Martin Kulhánek"
 description: "Martin Kulhánek is a Senior Soil Carbon researcher at Czech University of Life Sciences Prague in CZ. With 82 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.417489
+date: 2026-04-02T07:03:24.060089
 url: "/cdr-researcher-census/researchers/martin-kulhanek-a5014245/"
 layout: "researcher"
 hiddenInHomeList: true

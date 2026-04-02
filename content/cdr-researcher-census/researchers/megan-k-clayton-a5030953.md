@@ -1,7 +1,7 @@
 ---
 title: "Megan K. Clayton"
 description: "Megan K. Clayton is a Senior General CDR researcher at Texas A&M University System in US. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.995542
+date: 2026-04-02T07:03:26.354893
 url: "/cdr-researcher-census/researchers/megan-k-clayton-a5030953/"
 layout: "researcher"
 hiddenInHomeList: true

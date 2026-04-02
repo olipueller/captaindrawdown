@@ -1,7 +1,7 @@
 ---
 title: "Lovemore Chipindu"
 description: "Lovemore Chipindu is a Mid-career Soil Carbon researcher at International Maize and Wheat Improvement Center in KE. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.306570
+date: 2026-04-02T07:03:25.350781
 url: "/cdr-researcher-census/researchers/lovemore-chipindu-a5070420/"
 layout: "researcher"
 hiddenInHomeList: true

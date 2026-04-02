@@ -1,7 +1,7 @@
 ---
 title: "Alexandre Collin"
 description: "Alexandre Collin is a Senior General CDR researcher at Université du Québec en Outaouais in CA. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.880618
+date: 2026-04-02T07:03:26.187121
 url: "/cdr-researcher-census/researchers/alexandre-collin-a5052465/"
 layout: "researcher"
 hiddenInHomeList: true

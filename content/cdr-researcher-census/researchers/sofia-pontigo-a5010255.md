@@ -1,7 +1,7 @@
 ---
 title: "Sofía Pontigo"
 description: "Sofía Pontigo is a Mid-career Soil Carbon researcher at Universidad de La Frontera in CL. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.950261
+date: 2026-04-02T07:03:24.830873
 url: "/cdr-researcher-census/researchers/sofia-pontigo-a5010255/"
 layout: "researcher"
 hiddenInHomeList: true

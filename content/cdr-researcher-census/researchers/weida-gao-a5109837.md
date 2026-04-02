@@ -1,7 +1,7 @@
 ---
 title: "Weida Gao"
 description: "Weida Gao is a Mid-career Biochar researcher at Huawei Technologies (China) in CN. With 26 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.960490
+date: 2026-04-02T07:03:24.847176
 url: "/cdr-researcher-census/researchers/weida-gao-a5109837/"
 layout: "researcher"
 hiddenInHomeList: true

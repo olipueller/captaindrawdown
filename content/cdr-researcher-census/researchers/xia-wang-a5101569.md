@@ -1,7 +1,7 @@
 ---
 title: "Xia Wang"
 description: "Xia Wang is a Mid-career Soil Carbon researcher at Qinghai Normal University in CN. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.686645
+date: 2026-04-02T07:03:25.938709
 url: "/cdr-researcher-census/researchers/xia-wang-a5101569/"
 layout: "researcher"
 hiddenInHomeList: true

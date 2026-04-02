@@ -1,7 +1,7 @@
 ---
 title: "Rebecca A. Lybrand"
 description: "Rebecca A. Lybrand is a Mid-career Soil Carbon researcher at University of California, Davis in US. With 59 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.577770
+date: 2026-04-02T07:03:24.287777
 url: "/cdr-researcher-census/researchers/rebecca-a-lybrand-a5083657/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Shicheng Zhao"
 description: "Shicheng Zhao is a Senior Soil Carbon researcher at Shandong University in CN. With 63 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.235315
+date: 2026-04-02T07:03:23.819610
 url: "/cdr-researcher-census/researchers/shicheng-zhao-a5017257/"
 layout: "researcher"
 hiddenInHomeList: true

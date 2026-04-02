@@ -1,7 +1,7 @@
 ---
 title: "Mónika Meiczinger"
 description: "Mónika Meiczinger is a Senior Biochar researcher at University of Pannonia in HU. With 31 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.552359
+date: 2026-04-02T07:03:24.251286
 url: "/cdr-researcher-census/researchers/monika-meiczinger-a5029649/"
 layout: "researcher"
 hiddenInHomeList: true

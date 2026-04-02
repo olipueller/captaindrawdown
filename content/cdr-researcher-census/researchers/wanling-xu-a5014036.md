@@ -1,7 +1,7 @@
 ---
 title: "Wanling Xu"
 description: "Wanling Xu is a Mid-career carbon dioxide removal researcher at Yanbian University in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.174759
+date: 2026-04-02T07:03:26.630373
 url: "/cdr-researcher-census/researchers/wanling-xu-a5014036/"
 layout: "researcher"
 hiddenInHomeList: true

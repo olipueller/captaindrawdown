@@ -1,7 +1,7 @@
 ---
 title: "Li Zhang"
 description: "Li Zhang is a Senior Soil Carbon researcher at Shenyang Agricultural University in CN. With 87 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.415738
+date: 2026-04-02T07:03:24.057962
 url: "/cdr-researcher-census/researchers/li-zhang-a5100425/"
 layout: "researcher"
 hiddenInHomeList: true

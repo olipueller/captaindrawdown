@@ -1,7 +1,7 @@
 ---
 title: "Bin Gong"
 description: "Bin Gong is a Mid-career Biochar researcher at Beijing University of Posts and Telecommunications in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.060980
+date: 2026-04-02T07:03:26.453549
 url: "/cdr-researcher-census/researchers/bin-gong-a5058800/"
 layout: "researcher"
 hiddenInHomeList: true

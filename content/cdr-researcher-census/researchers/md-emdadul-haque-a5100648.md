@@ -1,7 +1,7 @@
 ---
 title: "Md Emdadul Haque"
 description: "Md Emdadul Haque is a Senior DAC researcher at West Virginia University in US. With 24 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.213543
+date: 2026-04-02T07:03:25.220522
 url: "/cdr-researcher-census/researchers/md-emdadul-haque-a5100648/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Siti Salwa Hashim"
 description: "Siti Salwa Hashim is a Mid-career DAC researcher at Swinburne University of Technology Sarawak Campus in MY. With 12 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.443316
+date: 2026-04-02T07:03:24.094950
 url: "/cdr-researcher-census/researchers/siti-salwa-hashim-a5103993/"
 layout: "researcher"
 hiddenInHomeList: true

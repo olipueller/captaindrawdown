@@ -1,7 +1,7 @@
 ---
 title: "Xiong Han"
 description: "Xiong Han is a Senior Soil Carbon researcher at Wuhan City Chinese Medicine Hospital in CN. With 30 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.601127
+date: 2026-04-02T07:03:25.806853
 url: "/cdr-researcher-census/researchers/xiong-han-a5101856/"
 layout: "researcher"
 hiddenInHomeList: true

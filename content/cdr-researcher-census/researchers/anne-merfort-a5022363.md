@@ -1,7 +1,7 @@
 ---
 title: "Anne Merfort"
 description: "Anne Merfort is an Early-career General CDR researcher. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.575829
+date: 2026-04-02T07:03:25.768957
 url: "/cdr-researcher-census/researchers/anne-merfort-a5022363/"
 layout: "researcher"
 hiddenInHomeList: true

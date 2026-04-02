@@ -1,7 +1,7 @@
 ---
 title: "Talia Jeanneret"
 description: "Talia Jeanneret is a Mid-career General CDR researcher at Commonwealth Scientific and Industrial Research Organisation in AU. With 30 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.953910
+date: 2026-04-02T07:03:24.836178
 url: "/cdr-researcher-census/researchers/talia-jeanneret-a5053657/"
 layout: "researcher"
 hiddenInHomeList: true

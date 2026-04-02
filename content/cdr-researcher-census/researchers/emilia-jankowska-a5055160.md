@@ -1,7 +1,7 @@
 ---
 title: "Emilia Jankowska"
 description: "Emilia Jankowska is a Senior Ocean CDR researcher at Vesta Sciences (United States) in US. With 38 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.212153
+date: 2026-04-02T07:03:23.792996
 url: "/cdr-researcher-census/researchers/emilia-jankowska-a5055160/"
 layout: "researcher"
 hiddenInHomeList: true

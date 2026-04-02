@@ -1,7 +1,7 @@
 ---
 title: "Negar Tafti"
 description: "Negar Tafti is a Mid-career Biochar researcher. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.114127
+date: 2026-04-02T07:03:25.075315
 url: "/cdr-researcher-census/researchers/negar-tafti-a5000709/"
 layout: "researcher"
 hiddenInHomeList: true

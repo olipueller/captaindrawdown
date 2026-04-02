@@ -1,7 +1,7 @@
 ---
 title: "Sonia Nasrin"
 description: "Sonia Nasrin is a Mid-career Soil Carbon researcher at Khulna University in BD. With 25 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.146359
+date: 2026-04-02T07:03:26.578672
 url: "/cdr-researcher-census/researchers/sonia-nasrin-a5113199/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yuzhou Tang"
 description: "Yuzhou Tang is a Senior General CDR researcher at University of Leeds in GB. With 37 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.474514
+date: 2026-04-02T07:03:24.139875
 url: "/cdr-researcher-census/researchers/yuzhou-tang-a5005792/"
 layout: "researcher"
 hiddenInHomeList: true

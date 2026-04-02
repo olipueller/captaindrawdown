@@ -1,7 +1,7 @@
 ---
 title: "Ruiyu Bi"
 description: "Ruiyu Bi is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 13 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.314778
+date: 2026-04-02T07:03:25.361835
 url: "/cdr-researcher-census/researchers/ruiyu-bi-a5063843/"
 layout: "researcher"
 hiddenInHomeList: true

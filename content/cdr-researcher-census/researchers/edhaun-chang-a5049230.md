@@ -1,7 +1,7 @@
 ---
 title: "Ed‐Haun Chang"
 description: "Ed‐Haun Chang is a Senior Biochar researcher at Mackay Junior College of Medicine, Nursing and Management in TW. With 30 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.491082
+date: 2026-04-02T07:03:24.161536
 url: "/cdr-researcher-census/researchers/edhaun-chang-a5049230/"
 layout: "researcher"
 hiddenInHomeList: true

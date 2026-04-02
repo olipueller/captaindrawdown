@@ -1,7 +1,7 @@
 ---
 title: "Yasir Talib Hameed"
 description: "Yasir Talib Hameed is a Mid-career Biochar researcher. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.470879
+date: 2026-04-02T07:03:25.595098
 url: "/cdr-researcher-census/researchers/yasir-talib-hameed-a5075285/"
 layout: "researcher"
 hiddenInHomeList: true

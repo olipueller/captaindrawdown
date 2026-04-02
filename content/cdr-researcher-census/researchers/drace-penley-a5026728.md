@@ -1,7 +1,7 @@
 ---
 title: "Drace Penley"
 description: "Drace Penley is a Mid-career carbon dioxide removal researcher at Case Western Reserve University in US. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.668793
+date: 2026-04-02T07:03:25.912128
 url: "/cdr-researcher-census/researchers/drace-penley-a5026728/"
 layout: "researcher"
 hiddenInHomeList: true

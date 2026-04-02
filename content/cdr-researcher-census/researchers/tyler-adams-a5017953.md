@@ -1,7 +1,7 @@
 ---
 title: "Tyler Adams"
 description: "Tyler Adams is a Senior Soil Carbon researcher at Contra Costa Regional Medical Center in US. With 27 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.578232
+date: 2026-04-02T07:03:25.772285
 url: "/cdr-researcher-census/researchers/tyler-adams-a5017953/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Junjiao Wang"
 description: "Junjiao Wang is a Mid-career Soil Carbon researcher at Beijing University of Chinese Medicine in CN. With 28 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.410510
+date: 2026-04-02T07:03:25.504220
 url: "/cdr-researcher-census/researchers/junjiao-wang-a5114778/"
 layout: "researcher"
 hiddenInHomeList: true

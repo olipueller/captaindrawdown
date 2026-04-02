@@ -1,7 +1,7 @@
 ---
 title: "Xiaoguo Zhou"
 description: "Xiaoguo Zhou is a Mid-career General CDR researcher at University of Science and Technology of China in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.976307
+date: 2026-04-02T07:03:24.872370
 url: "/cdr-researcher-census/researchers/xiaoguo-zhou-a5103277/"
 layout: "researcher"
 hiddenInHomeList: true

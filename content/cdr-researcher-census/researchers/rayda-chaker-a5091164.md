@@ -1,7 +1,7 @@
 ---
 title: "Rayda Chaker"
 description: "Rayda Chaker is a Mid-career Soil Carbon researcher at University of Gabès in TN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.240203
+date: 2026-04-02T07:03:26.735510
 url: "/cdr-researcher-census/researchers/rayda-chaker-a5091164/"
 layout: "researcher"
 hiddenInHomeList: true

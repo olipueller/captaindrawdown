@@ -1,7 +1,7 @@
 ---
 title: "Jaffer Yousuf Dar"
 description: "Jaffer Yousuf Dar is a Mid-career carbon dioxide removal researcher at Sher-e-Kashmir University of Agricultural Sciences and Technology of Kashmir in IN. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.789048
+date: 2026-04-02T07:03:24.594359
 url: "/cdr-researcher-census/researchers/jaffer-yousuf-dar-a5112629/"
 layout: "researcher"
 hiddenInHomeList: true

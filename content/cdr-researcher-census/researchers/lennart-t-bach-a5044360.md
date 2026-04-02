@@ -1,7 +1,7 @@
 ---
 title: "Lennart T. Bach"
 description: "Lennart T. Bach is an Eminent Ocean CDR researcher at University of Tasmania in AU. With 313 publications and an h-index of 45, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.116838
+date: 2026-04-02T07:03:23.667561
 url: "/cdr-researcher-census/researchers/lennart-t-bach-a5044360/"
 layout: "researcher"
 hiddenInHomeList: true

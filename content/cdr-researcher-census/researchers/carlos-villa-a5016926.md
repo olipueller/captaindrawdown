@@ -1,7 +1,7 @@
 ---
 title: "Carlos Villa"
 description: "Carlos Villa is a Senior DAC researcher at Dow Chemical (Canada) in CA. With 35 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.717338
+date: 2026-04-02T07:03:24.490507
 url: "/cdr-researcher-census/researchers/carlos-villa-a5016926/"
 layout: "researcher"
 hiddenInHomeList: true

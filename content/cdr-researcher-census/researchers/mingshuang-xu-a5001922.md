@@ -1,7 +1,7 @@
 ---
 title: "Mingshuang Xu"
 description: "Mingshuang Xu is a Senior Soil Carbon researcher at Huazhong Agricultural University in CN. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.797992
+date: 2026-04-02T07:03:24.606901
 url: "/cdr-researcher-census/researchers/mingshuang-xu-a5001922/"
 layout: "researcher"
 hiddenInHomeList: true

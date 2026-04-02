@@ -1,7 +1,7 @@
 ---
 title: "Carla Gavilán"
 description: "Carla Gavilán is a Mid-career General CDR researcher at Rutgers, The State University of New Jersey in US. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.895089
+date: 2026-04-02T07:03:26.208749
 url: "/cdr-researcher-census/researchers/carla-gavilan-a5053822/"
 layout: "researcher"
 hiddenInHomeList: true

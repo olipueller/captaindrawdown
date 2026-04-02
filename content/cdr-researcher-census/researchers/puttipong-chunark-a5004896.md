@@ -1,7 +1,7 @@
 ---
 title: "Puttipong Chunark"
 description: "Puttipong Chunark is a Mid-career General CDR researcher at Electricity Generating Authority of Thailand in TH. With 18 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.317127
+date: 2026-04-02T07:03:25.365310
 url: "/cdr-researcher-census/researchers/puttipong-chunark-a5004896/"
 layout: "researcher"
 hiddenInHomeList: true

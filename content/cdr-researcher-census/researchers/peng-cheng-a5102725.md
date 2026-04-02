@@ -1,7 +1,7 @@
 ---
 title: "Peng Cheng"
 description: "Peng Cheng is an Early-career Biochar researcher at Hubei University of Automotive Technology in CN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.639343
+date: 2026-04-02T07:03:25.865215
 url: "/cdr-researcher-census/researchers/peng-cheng-a5102725/"
 layout: "researcher"
 hiddenInHomeList: true

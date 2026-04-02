@@ -1,7 +1,7 @@
 ---
 title: "Ruyi Luo"
 description: "Ruyi Luo is a Mid-career Soil Carbon researcher at Institute of Mountain Hazards and Environment in CN. With 33 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.550693
+date: 2026-04-02T07:03:24.249030
 url: "/cdr-researcher-census/researchers/ruyi-luo-a5026593/"
 layout: "researcher"
 hiddenInHomeList: true

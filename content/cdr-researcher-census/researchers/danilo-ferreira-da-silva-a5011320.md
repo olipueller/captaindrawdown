@@ -1,7 +1,7 @@
 ---
 title: "Danilo Ferreira da Silva"
 description: "Danilo Ferreira da Silva is a Mid-career Enhanced Weathering researcher at Universidade de São Paulo in BR. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.420249
+date: 2026-04-02T07:03:26.995658
 url: "/cdr-researcher-census/researchers/danilo-ferreira-da-silva-a5011320/"
 layout: "researcher"
 hiddenInHomeList: true

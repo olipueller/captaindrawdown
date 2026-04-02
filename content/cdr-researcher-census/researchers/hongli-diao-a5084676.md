@@ -1,7 +1,7 @@
 ---
 title: "Hongli Diao"
 description: "Hongli Diao is a Mid-career Soil Carbon researcher at Wuhan University of Technology in CN. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.291261
+date: 2026-04-02T07:03:26.813943
 url: "/cdr-researcher-census/researchers/hongli-diao-a5084676/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "J. L. Meshalkina"
 description: "J. L. Meshalkina is a Senior Soil Carbon researcher at Lomonosov Moscow State University in RU. With 67 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.298421
+date: 2026-04-02T07:03:25.339741
 url: "/cdr-researcher-census/researchers/j-l-meshalkina-a5041662/"
 layout: "researcher"
 hiddenInHomeList: true

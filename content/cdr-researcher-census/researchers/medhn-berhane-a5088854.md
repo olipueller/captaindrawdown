@@ -1,7 +1,7 @@
 ---
 title: "Medhn Berhane"
 description: "Medhn Berhane is a Mid-career Soil Carbon researcher. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.130529
+date: 2026-04-02T07:03:25.100142
 url: "/cdr-researcher-census/researchers/medhn-berhane-a5088854/"
 layout: "researcher"
 hiddenInHomeList: true

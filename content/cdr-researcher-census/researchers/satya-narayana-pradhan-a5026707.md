@@ -1,7 +1,7 @@
 ---
 title: "Satya Narayana Pradhan"
 description: "Satya Narayana Pradhan is a Mid-career carbon dioxide removal researcher at Instituto de Ciencias Agrarias in ES. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.003205
+date: 2026-04-02T07:03:26.365739
 url: "/cdr-researcher-census/researchers/satya-narayana-pradhan-a5026707/"
 layout: "researcher"
 hiddenInHomeList: true

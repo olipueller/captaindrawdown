@@ -1,7 +1,7 @@
 ---
 title: "Francesco Magli"
 description: "Francesco Magli is a Mid-career General CDR researcher. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.828973
+date: 2026-04-02T07:03:26.113970
 url: "/cdr-researcher-census/researchers/francesco-magli-a5058162/"
 layout: "researcher"
 hiddenInHomeList: true

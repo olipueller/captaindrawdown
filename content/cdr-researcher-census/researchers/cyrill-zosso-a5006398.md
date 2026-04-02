@@ -1,7 +1,7 @@
 ---
 title: "Cyrill Zosso"
 description: "Cyrill Zosso is a Mid-career Soil Carbon researcher at University of Zurich in CH. With 41 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.526443
+date: 2026-04-02T07:03:25.697275
 url: "/cdr-researcher-census/researchers/cyrill-zosso-a5006398/"
 layout: "researcher"
 hiddenInHomeList: true

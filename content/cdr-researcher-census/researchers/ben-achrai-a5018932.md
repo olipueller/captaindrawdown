@@ -1,7 +1,7 @@
 ---
 title: "Ben Achrai"
 description: "Ben Achrai is a Senior carbon dioxide removal researcher. With 14 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.841473
+date: 2026-04-02T07:03:24.663859
 url: "/cdr-researcher-census/researchers/ben-achrai-a5018932/"
 layout: "researcher"
 hiddenInHomeList: true

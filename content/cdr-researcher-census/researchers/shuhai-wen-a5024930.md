@@ -1,7 +1,7 @@
 ---
 title: "Shuhai Wen"
 description: "Shuhai Wen is a Mid-career Soil Carbon researcher at Huazhong Agricultural University in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.551299
+date: 2026-04-02T07:03:25.733080
 url: "/cdr-researcher-census/researchers/shuhai-wen-a5024930/"
 layout: "researcher"
 hiddenInHomeList: true

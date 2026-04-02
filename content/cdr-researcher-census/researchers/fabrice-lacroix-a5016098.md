@@ -1,7 +1,7 @@
 ---
 title: "Fabrice Lacroix"
 description: "Fabrice Lacroix is a Mid-career General CDR researcher at University of Bern in CH. With 60 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.450037
+date: 2026-04-02T07:03:24.104562
 url: "/cdr-researcher-census/researchers/fabrice-lacroix-a5016098/"
 layout: "researcher"
 hiddenInHomeList: true

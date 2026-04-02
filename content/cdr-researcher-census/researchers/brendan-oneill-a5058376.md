@@ -1,7 +1,7 @@
 ---
 title: "Brendan O’Neill"
 description: "Brendan O’Neill is a Senior General CDR researcher at University of Michigan–Ann Arbor in US. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.172622
+date: 2026-04-02T07:03:23.739415
 url: "/cdr-researcher-census/researchers/brendan-oneill-a5058376/"
 layout: "researcher"
 hiddenInHomeList: true

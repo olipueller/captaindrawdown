@@ -1,7 +1,7 @@
 ---
 title: "Jicao Dao"
 description: "Jicao Dao is a Mid-career carbon dioxide removal researcher at Northwest A&F University in CN. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.378203
+date: 2026-04-02T07:03:25.455040
 url: "/cdr-researcher-census/researchers/jicao-dao-a5031412/"
 layout: "researcher"
 hiddenInHomeList: true

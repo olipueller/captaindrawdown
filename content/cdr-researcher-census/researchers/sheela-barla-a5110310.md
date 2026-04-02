@@ -1,7 +1,7 @@
 ---
 title: "Sheela Barla"
 description: "Sheela Barla is a Mid-career Soil Carbon researcher. With 33 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.339085
+date: 2026-04-02T07:03:26.879000
 url: "/cdr-researcher-census/researchers/sheela-barla-a5110310/"
 layout: "researcher"
 hiddenInHomeList: true

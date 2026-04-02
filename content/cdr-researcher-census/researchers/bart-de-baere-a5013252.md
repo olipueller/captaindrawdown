@@ -1,7 +1,7 @@
 ---
 title: "Bart De Baere"
 description: "Bart De Baere is a Mid-career Enhanced Weathering researcher. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.161394
+date: 2026-04-02T07:03:26.606499
 url: "/cdr-researcher-census/researchers/bart-de-baere-a5013252/"
 layout: "researcher"
 hiddenInHomeList: true

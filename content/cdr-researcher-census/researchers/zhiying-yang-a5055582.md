@@ -1,7 +1,7 @@
 ---
 title: "Zhiying Yang"
 description: "Zhiying Yang is a Mid-career Soil Carbon researcher at Ministry of Agriculture in EE. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.345835
+date: 2026-04-02T07:03:26.890228
 url: "/cdr-researcher-census/researchers/zhiying-yang-a5055582/"
 layout: "researcher"
 hiddenInHomeList: true

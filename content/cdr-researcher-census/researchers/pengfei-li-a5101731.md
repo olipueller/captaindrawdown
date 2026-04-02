@@ -1,7 +1,7 @@
 ---
 title: "Pengfei Li"
 description: "Pengfei Li is a Mid-career Soil Carbon researcher at Huazhong Agricultural University in CN. With 25 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.362129
+date: 2026-04-02T07:03:25.431124
 url: "/cdr-researcher-census/researchers/pengfei-li-a5101731/"
 layout: "researcher"
 hiddenInHomeList: true

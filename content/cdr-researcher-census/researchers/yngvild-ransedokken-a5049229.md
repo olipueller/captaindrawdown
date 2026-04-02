@@ -1,7 +1,7 @@
 ---
 title: "Yngvild Ransedokken"
 description: "Yngvild Ransedokken is a Mid-career Soil Carbon researcher at Norwegian University of Life Sciences in NO. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.994256
+date: 2026-04-02T07:03:26.352619
 url: "/cdr-researcher-census/researchers/yngvild-ransedokken-a5049229/"
 layout: "researcher"
 hiddenInHomeList: true

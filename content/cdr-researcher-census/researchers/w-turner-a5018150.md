@@ -1,7 +1,7 @@
 ---
 title: "W. Turner"
 description: "W. Turner is a Mid-career Enhanced Weathering researcher at UNDO Carbon in GB. With 35 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.177780
+date: 2026-04-02T07:03:23.745532
 url: "/cdr-researcher-census/researchers/w-turner-a5018150/"
 layout: "researcher"
 hiddenInHomeList: true

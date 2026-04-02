@@ -1,7 +1,7 @@
 ---
 title: "Nils Markusson"
 description: "Nils Markusson is a Senior General CDR researcher at Lancaster University in GB. With 79 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.217133
+date: 2026-04-02T07:03:23.798985
 url: "/cdr-researcher-census/researchers/nils-markusson-a5004419/"
 layout: "researcher"
 hiddenInHomeList: true

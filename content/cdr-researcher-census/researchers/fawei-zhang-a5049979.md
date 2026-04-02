@@ -1,7 +1,7 @@
 ---
 title: "Fawei Zhang"
 description: "Fawei Zhang is a Senior Soil Carbon researcher at Northwest Institute of Plateau Biology, Chinese Academy of Sciences in CN. With 154 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.193181
+date: 2026-04-02T07:03:23.769291
 url: "/cdr-researcher-census/researchers/fawei-zhang-a5049979/"
 layout: "researcher"
 hiddenInHomeList: true

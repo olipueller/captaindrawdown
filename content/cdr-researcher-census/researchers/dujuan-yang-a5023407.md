@@ -1,7 +1,7 @@
 ---
 title: "Dujuan Yang"
 description: "Dujuan Yang is a Mid-career carbon dioxide removal researcher at Eindhoven University of Technology in NL. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.082909
+date: 2026-04-02T07:03:26.482549
 url: "/cdr-researcher-census/researchers/dujuan-yang-a5023407/"
 layout: "researcher"
 hiddenInHomeList: true

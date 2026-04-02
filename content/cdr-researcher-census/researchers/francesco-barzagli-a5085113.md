@@ -1,7 +1,7 @@
 ---
 title: "Francesco Barzagli"
 description: "Francesco Barzagli is a Senior carbon dioxide removal researcher at Consiglio Nazionale delle Ricerche in IT. With 71 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.197495
+date: 2026-04-02T07:03:23.775628
 url: "/cdr-researcher-census/researchers/francesco-barzagli-a5085113/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Markéta Mayerová"
 description: "Markéta Mayerová is a Mid-career Soil Carbon researcher at Agrifood Research Finland in FI. With 29 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.322582
+date: 2026-04-02T07:03:25.373003
 url: "/cdr-researcher-census/researchers/marketa-mayerova-a5042808/"
 layout: "researcher"
 hiddenInHomeList: true

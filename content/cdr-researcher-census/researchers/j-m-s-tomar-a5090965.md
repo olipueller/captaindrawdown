@@ -1,7 +1,7 @@
 ---
 title: "J. M. S. Tomar"
 description: "J. M. S. Tomar is a Senior Soil Carbon researcher at ICAR Indian Institute of Soil and Water Conservation in IN. With 62 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.515333
+date: 2026-04-02T07:03:24.193668
 url: "/cdr-researcher-census/researchers/j-m-s-tomar-a5090965/"
 layout: "researcher"
 hiddenInHomeList: true

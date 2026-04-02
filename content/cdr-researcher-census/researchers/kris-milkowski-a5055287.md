@@ -1,7 +1,7 @@
 ---
 title: "Kris Milkowski"
 description: "Kris Milkowski is a Senior BECCS researcher at University of Sheffield in GB. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.891078
+date: 2026-04-02T07:03:24.736191
 url: "/cdr-researcher-census/researchers/kris-milkowski-a5055287/"
 layout: "researcher"
 hiddenInHomeList: true

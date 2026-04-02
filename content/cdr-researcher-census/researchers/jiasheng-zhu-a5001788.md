@@ -1,7 +1,7 @@
 ---
 title: "Jiasheng Zhu"
 description: "Jiasheng Zhu is a Mid-career Biochar researcher at Jiangsu University of Technology in CN. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.200518
+date: 2026-04-02T07:03:25.199851
 url: "/cdr-researcher-census/researchers/jiasheng-zhu-a5001788/"
 layout: "researcher"
 hiddenInHomeList: true

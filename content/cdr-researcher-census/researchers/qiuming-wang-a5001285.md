@@ -1,7 +1,7 @@
 ---
 title: "Qiuming Wang"
 description: "Qiuming Wang is a Senior General CDR researcher at Defense Logistics Agency in US. With 97 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.187344
+date: 2026-04-02T07:03:23.761300
 url: "/cdr-researcher-census/researchers/qiuming-wang-a5001285/"
 layout: "researcher"
 hiddenInHomeList: true

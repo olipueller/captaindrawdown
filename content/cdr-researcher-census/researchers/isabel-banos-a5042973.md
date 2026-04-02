@@ -1,7 +1,7 @@
 ---
 title: "Isabel Baños"
 description: "Isabel Baños is a Mid-career General CDR researcher at Comisión Sectorial de Investigación Científica in UY. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.486084
+date: 2026-04-02T07:03:25.640868
 url: "/cdr-researcher-census/researchers/isabel-banos-a5042973/"
 layout: "researcher"
 hiddenInHomeList: true

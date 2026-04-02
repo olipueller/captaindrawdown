@@ -1,7 +1,7 @@
 ---
 title: "Serena Rizzo"
 description: "Serena Rizzo is a Mid-career carbon dioxide removal researcher at Wageningen University & Research in NL. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.638867
+date: 2026-04-02T07:03:25.864509
 url: "/cdr-researcher-census/researchers/serena-rizzo-a5059142/"
 layout: "researcher"
 hiddenInHomeList: true

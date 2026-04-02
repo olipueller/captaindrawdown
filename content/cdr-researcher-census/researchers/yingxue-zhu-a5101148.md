@@ -1,7 +1,7 @@
 ---
 title: "Yingxue Zhu"
 description: "Yingxue Zhu is a Mid-career Soil Carbon researcher at Heilongjiang Academy of Sciences in CN. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.546093
+date: 2026-04-02T07:03:25.725344
 url: "/cdr-researcher-census/researchers/yingxue-zhu-a5101148/"
 layout: "researcher"
 hiddenInHomeList: true

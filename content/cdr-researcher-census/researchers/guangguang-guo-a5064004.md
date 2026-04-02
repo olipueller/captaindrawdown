@@ -1,7 +1,7 @@
 ---
 title: "Guangguang Guo"
 description: "Guangguang Guo is a Mid-career Soil Carbon researcher in GB. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.717894
+date: 2026-04-02T07:03:25.987969
 url: "/cdr-researcher-census/researchers/guangguang-guo-a5064004/"
 layout: "researcher"
 hiddenInHomeList: true

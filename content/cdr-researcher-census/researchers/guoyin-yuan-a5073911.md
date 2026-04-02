@@ -1,7 +1,7 @@
 ---
 title: "Guoyin Yuan"
 description: "Guoyin Yuan is a Mid-career Soil Carbon researcher at Lishui University in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.062712
+date: 2026-04-02T07:03:25.001281
 url: "/cdr-researcher-census/researchers/guoyin-yuan-a5073911/"
 layout: "researcher"
 hiddenInHomeList: true

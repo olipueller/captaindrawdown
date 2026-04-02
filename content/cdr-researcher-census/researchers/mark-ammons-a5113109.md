@@ -1,7 +1,7 @@
 ---
 title: "Mark Ammons"
 description: "Mark Ammons is a Senior Soil Carbon researcher at Park University in US. With 37 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.578213
+date: 2026-04-02T07:03:24.288314
 url: "/cdr-researcher-census/researchers/mark-ammons-a5113109/"
 layout: "researcher"
 hiddenInHomeList: true

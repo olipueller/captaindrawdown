@@ -1,7 +1,7 @@
 ---
 title: "Kelsey H. Jensen"
 description: "Kelsey H. Jensen is a Mid-career Soil Carbon researcher at Cornell University in US. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.881604
+date: 2026-04-02T07:03:26.188691
 url: "/cdr-researcher-census/researchers/kelsey-h-jensen-a5061485/"
 layout: "researcher"
 hiddenInHomeList: true

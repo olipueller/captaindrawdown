@@ -1,7 +1,7 @@
 ---
 title: "Rebecca Hood‐Nowotny"
 description: "Rebecca Hood‐Nowotny is a Senior Soil Carbon researcher in GB. With 165 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.195406
+date: 2026-04-02T07:03:23.772928
 url: "/cdr-researcher-census/researchers/rebecca-hoodnowotny-a5044739/"
 layout: "researcher"
 hiddenInHomeList: true

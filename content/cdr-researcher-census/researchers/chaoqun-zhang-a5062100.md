@@ -1,7 +1,7 @@
 ---
 title: "Chaoqun Zhang"
 description: "Chaoqun Zhang is a Mid-career General CDR researcher at Beijing Normal University in CN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.955335
+date: 2026-04-02T07:03:26.300005
 url: "/cdr-researcher-census/researchers/chaoqun-zhang-a5062100/"
 layout: "researcher"
 hiddenInHomeList: true

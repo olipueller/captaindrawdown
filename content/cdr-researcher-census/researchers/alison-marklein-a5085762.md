@@ -1,7 +1,7 @@
 ---
 title: "Alison Marklein"
 description: "Alison Marklein is a Senior Enhanced Weathering researcher. With 42 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.208870
+date: 2026-04-02T07:03:23.787966
 url: "/cdr-researcher-census/researchers/alison-marklein-a5085762/"
 layout: "researcher"
 hiddenInHomeList: true

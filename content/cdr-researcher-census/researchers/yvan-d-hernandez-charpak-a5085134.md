@@ -1,7 +1,7 @@
 ---
 title: "Yvan D. Hernandez-Charpak"
 description: "Yvan D. Hernandez-Charpak is a Mid-career Biochar researcher at Universidad de Los Andes in BO. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.371245
+date: 2026-04-02T07:03:26.926211
 url: "/cdr-researcher-census/researchers/yvan-d-hernandez-charpak-a5085134/"
 layout: "researcher"
 hiddenInHomeList: true

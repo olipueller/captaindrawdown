@@ -1,7 +1,7 @@
 ---
 title: "Alexis Costa"
 description: "Alexis Costa is a Mid-career DAC researcher at University of Mons in BE. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.068109
+date: 2026-04-02T07:03:26.462093
 url: "/cdr-researcher-census/researchers/alexis-costa-a5021981/"
 layout: "researcher"
 hiddenInHomeList: true

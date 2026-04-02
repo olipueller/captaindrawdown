@@ -1,7 +1,7 @@
 ---
 title: "T.N. van Schagen"
 description: "T.N. van Schagen is an Early-career carbon dioxide removal researcher at University of Twente in NL. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.135359
+date: 2026-04-02T07:03:26.559667
 url: "/cdr-researcher-census/researchers/tn-van-schagen-a5055151/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Aline C. Soterroni"
 description: "Aline C. Soterroni is a Mid-career General CDR researcher at University of Oxford in GB. With 58 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.541389
+date: 2026-04-02T07:03:24.235998
 url: "/cdr-researcher-census/researchers/aline-c-soterroni-a5047815/"
 layout: "researcher"
 hiddenInHomeList: true

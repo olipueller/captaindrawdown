@@ -1,7 +1,7 @@
 ---
 title: "Christian Dertmann"
 description: "Christian Dertmann is a Mid-career Enhanced Weathering researcher at RWTH Aachen University in DE. With 12 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.031831
+date: 2026-04-02T07:03:24.954045
 url: "/cdr-researcher-census/researchers/christian-dertmann-a5001659/"
 layout: "researcher"
 hiddenInHomeList: true

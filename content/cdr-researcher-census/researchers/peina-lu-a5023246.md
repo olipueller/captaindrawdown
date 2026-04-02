@@ -1,7 +1,7 @@
 ---
 title: "Peina Lu"
 description: "Peina Lu is a Mid-career Soil Carbon researcher at Gansu Agricultural University in CN. With 26 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.155163
+date: 2026-04-02T07:03:25.135912
 url: "/cdr-researcher-census/researchers/peina-lu-a5023246/"
 layout: "researcher"
 hiddenInHomeList: true

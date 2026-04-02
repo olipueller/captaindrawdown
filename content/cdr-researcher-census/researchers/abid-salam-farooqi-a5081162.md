@@ -1,7 +1,7 @@
 ---
 title: "Abid Salam Farooqi"
 description: "Abid Salam Farooqi is a Mid-career carbon dioxide removal researcher at King Fahd University of Petroleum and Minerals in SA. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.166601
+date: 2026-04-02T07:03:25.150722
 url: "/cdr-researcher-census/researchers/abid-salam-farooqi-a5081162/"
 layout: "researcher"
 hiddenInHomeList: true

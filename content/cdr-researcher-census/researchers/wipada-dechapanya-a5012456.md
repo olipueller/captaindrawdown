@@ -1,7 +1,7 @@
 ---
 title: "Wipada Dechapanya"
 description: "Wipada Dechapanya is a Mid-career Biochar researcher at Ubon Ratchathani University in TH. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.969989
+date: 2026-04-02T07:03:26.321077
 url: "/cdr-researcher-census/researchers/wipada-dechapanya-a5012456/"
 layout: "researcher"
 hiddenInHomeList: true

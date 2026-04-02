@@ -1,7 +1,7 @@
 ---
 title: "Hugues Clivot"
 description: "Hugues Clivot is a Senior Soil Carbon researcher at Fractionnation of AgroResources and Environment in FR. With 91 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.413511
+date: 2026-04-02T07:03:24.054748
 url: "/cdr-researcher-census/researchers/hugues-clivot-a5006232/"
 layout: "researcher"
 hiddenInHomeList: true

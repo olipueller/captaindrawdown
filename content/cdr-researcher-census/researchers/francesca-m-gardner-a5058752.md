@@ -1,7 +1,7 @@
 ---
 title: "Francesca M. Gardner"
 description: "Francesca M. Gardner is a Mid-career BECCS researcher at University of Maryland, Baltimore in US. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.073585
+date: 2026-04-02T07:03:25.017176
 url: "/cdr-researcher-census/researchers/francesca-m-gardner-a5058752/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Tianyang Zhou"
 description: "Tianyang Zhou is a Mid-career Soil Carbon researcher at State Forestry and Grassland Administration in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.059143
+date: 2026-04-02T07:03:24.996713
 url: "/cdr-researcher-census/researchers/tianyang-zhou-a5038843/"
 layout: "researcher"
 hiddenInHomeList: true

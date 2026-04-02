@@ -1,7 +1,7 @@
 ---
 title: "Alex Cabral"
 description: "Alex Cabral is a Mid-career Ocean CDR researcher at Trinity College Dublin in IE. With 42 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.653371
+date: 2026-04-02T07:03:24.396260
 url: "/cdr-researcher-census/researchers/alex-cabral-a5053593/"
 layout: "researcher"
 hiddenInHomeList: true

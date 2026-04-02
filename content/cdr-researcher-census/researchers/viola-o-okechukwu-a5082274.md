@@ -1,7 +1,7 @@
 ---
 title: "Viola O. Okechukwu"
 description: "Viola O. Okechukwu is a Mid-career carbon dioxide removal researcher at Tshwane University of Technology in ZA. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.984183
+date: 2026-04-02T07:03:26.336137
 url: "/cdr-researcher-census/researchers/viola-o-okechukwu-a5082274/"
 layout: "researcher"
 hiddenInHomeList: true

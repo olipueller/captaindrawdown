@@ -1,7 +1,7 @@
 ---
 title: "Janos Szuhánszki"
 description: "Janos Szuhánszki is a Mid-career BECCS researcher at Petronas (Malaysia) in MY. With 30 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.933574
+date: 2026-04-02T07:03:24.803996
 url: "/cdr-researcher-census/researchers/janos-szuhanszki-a5075971/"
 layout: "researcher"
 hiddenInHomeList: true

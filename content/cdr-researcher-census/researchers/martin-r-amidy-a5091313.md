@@ -1,7 +1,7 @@
 ---
 title: "Martin R. Amidy"
 description: "Martin R. Amidy is a Mid-career General CDR researcher at Australian National University in AU. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.158033
+date: 2026-04-02T07:03:25.139987
 url: "/cdr-researcher-census/researchers/martin-r-amidy-a5091313/"
 layout: "researcher"
 hiddenInHomeList: true

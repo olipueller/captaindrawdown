@@ -1,7 +1,7 @@
 ---
 title: "Kathleen M. Kennedy"
 description: "Kathleen M. Kennedy is a Senior DAC researcher. With 27 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.166838
+date: 2026-04-02T07:03:25.150993
 url: "/cdr-researcher-census/researchers/kathleen-m-kennedy-a5016885/"
 layout: "researcher"
 hiddenInHomeList: true

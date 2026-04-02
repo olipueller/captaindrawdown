@@ -1,7 +1,7 @@
 ---
 title: "Peter Hanajík"
 description: "Peter Hanajík is a Mid-career Biochar researcher at Comenius University Bratislava in SK. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.229320
+date: 2026-04-02T07:03:25.248004
 url: "/cdr-researcher-census/researchers/peter-hanajik-a5003079/"
 layout: "researcher"
 hiddenInHomeList: true

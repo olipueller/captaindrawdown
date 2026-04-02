@@ -1,7 +1,7 @@
 ---
 title: "Haomeng Yang"
 description: "Haomeng Yang is a Senior Biochar researcher at Agro-Environmental Protection Institute in CN. With 20 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.855135
+date: 2026-04-02T07:03:24.682229
 url: "/cdr-researcher-census/researchers/haomeng-yang-a5056996/"
 layout: "researcher"
 hiddenInHomeList: true

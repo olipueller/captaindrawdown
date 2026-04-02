@@ -1,7 +1,7 @@
 ---
 title: "Matthew W Jordon"
 description: "Matthew W Jordon is a Mid-career Soil Carbon researcher at Kleijnen Systematic Reviews (United Kingdom) in GB. With 33 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.374597
+date: 2026-04-02T07:03:25.449866
 url: "/cdr-researcher-census/researchers/matthew-w-jordon-a5017813/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Feifei Zhu"
 description: "Feifei Zhu is a Senior Enhanced Weathering researcher at Chinese Academy of Sciences in CN. With 59 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.343383
+date: 2026-04-02T07:03:23.967886
 url: "/cdr-researcher-census/researchers/feifei-zhu-a5055232/"
 layout: "researcher"
 hiddenInHomeList: true

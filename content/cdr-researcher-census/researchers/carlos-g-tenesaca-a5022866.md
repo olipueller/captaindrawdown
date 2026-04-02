@@ -1,7 +1,7 @@
 ---
 title: "Carlos G. Tenesaca"
 description: "Carlos G. Tenesaca is a Mid-career carbon dioxide removal researcher at Iowa State University in US. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.817447
+date: 2026-04-02T07:03:26.098249
 url: "/cdr-researcher-census/researchers/carlos-g-tenesaca-a5022866/"
 layout: "researcher"
 hiddenInHomeList: true

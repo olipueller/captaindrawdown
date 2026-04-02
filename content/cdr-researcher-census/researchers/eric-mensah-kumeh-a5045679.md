@@ -1,7 +1,7 @@
 ---
 title: "Eric Mensah Kumeh"
 description: "Eric Mensah Kumeh is a Mid-career Soil Carbon researcher at Stockholm Environment Institute in GB. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.231338
+date: 2026-04-02T07:03:25.251199
 url: "/cdr-researcher-census/researchers/eric-mensah-kumeh-a5045679/"
 layout: "researcher"
 hiddenInHomeList: true

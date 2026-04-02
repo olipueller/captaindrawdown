@@ -1,7 +1,7 @@
 ---
 title: "Ward Goldthorpe"
 description: "Ward Goldthorpe is a Senior General CDR researcher. With 21 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.696296
+date: 2026-04-02T07:03:24.460385
 url: "/cdr-researcher-census/researchers/ward-goldthorpe-a5009025/"
 layout: "researcher"
 hiddenInHomeList: true

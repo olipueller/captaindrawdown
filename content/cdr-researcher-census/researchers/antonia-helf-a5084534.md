@@ -1,7 +1,7 @@
 ---
 title: "Antonia Helf"
 description: "Antonia Helf is a Mid-career BECCS researcher at Universitätsklinikum Würzburg in DE. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.669655
+date: 2026-04-02T07:03:24.425158
 url: "/cdr-researcher-census/researchers/antonia-helf-a5084534/"
 layout: "researcher"
 hiddenInHomeList: true

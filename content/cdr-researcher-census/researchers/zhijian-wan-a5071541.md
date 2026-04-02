@@ -1,7 +1,7 @@
 ---
 title: "Zhijian Wan"
 description: "Zhijian Wan is a Senior carbon dioxide removal researcher at WuXi PharmaTech Co Ltd in CN. With 45 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.359523
+date: 2026-04-02T07:03:23.990916
 url: "/cdr-researcher-census/researchers/zhijian-wan-a5071541/"
 layout: "researcher"
 hiddenInHomeList: true

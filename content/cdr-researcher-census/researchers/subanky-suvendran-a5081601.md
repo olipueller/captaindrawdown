@@ -1,7 +1,7 @@
 ---
 title: "Subanky Suvendran"
 description: "Subanky Suvendran is a Mid-career Soil Carbon researcher at New Mexico State University in US. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.249161
+date: 2026-04-02T07:03:26.747800
 url: "/cdr-researcher-census/researchers/subanky-suvendran-a5081601/"
 layout: "researcher"
 hiddenInHomeList: true

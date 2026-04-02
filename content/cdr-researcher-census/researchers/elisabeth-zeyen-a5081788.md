@@ -1,7 +1,7 @@
 ---
 title: "Elisabeth Zeyen"
 description: "Elisabeth Zeyen is a Mid-career General CDR researcher at Energy Transitions (United Kingdom) in GB. With 42 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.577299
+date: 2026-04-02T07:03:24.287208
 url: "/cdr-researcher-census/researchers/elisabeth-zeyen-a5081788/"
 layout: "researcher"
 hiddenInHomeList: true

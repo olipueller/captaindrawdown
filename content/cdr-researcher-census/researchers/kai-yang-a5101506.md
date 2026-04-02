@@ -1,7 +1,7 @@
 ---
 title: "Kai Yang"
 description: "Kai Yang is a Senior Soil Carbon researcher in GB. With 39 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.418672
+date: 2026-04-02T07:03:24.061788
 url: "/cdr-researcher-census/researchers/kai-yang-a5101506/"
 layout: "researcher"
 hiddenInHomeList: true

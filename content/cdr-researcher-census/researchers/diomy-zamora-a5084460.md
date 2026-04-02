@@ -1,7 +1,7 @@
 ---
 title: "Diomy Zamora"
 description: "Diomy Zamora is a Senior General CDR researcher at Ministry of Health and Social Protection in CO. With 32 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.545902
+date: 2026-04-02T07:03:25.725056
 url: "/cdr-researcher-census/researchers/diomy-zamora-a5084460/"
 layout: "researcher"
 hiddenInHomeList: true

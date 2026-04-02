@@ -1,7 +1,7 @@
 ---
 title: "Zainab Rehman"
 description: "Zainab Rehman is a Mid-career General CDR researcher at Bahauddin Zakariya University in PK. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.631881
+date: 2026-04-02T07:03:24.364257
 url: "/cdr-researcher-census/researchers/zainab-rehman-a5033566/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Adam F. A. Pellegrini"
 description: "Adam F. A. Pellegrini is a Senior Soil Carbon researcher at University of Cambridge in GB. With 100 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.114326
+date: 2026-04-02T07:03:23.664630
 url: "/cdr-researcher-census/researchers/adam-f-a-pellegrini-a5090708/"
 layout: "researcher"
 hiddenInHomeList: true

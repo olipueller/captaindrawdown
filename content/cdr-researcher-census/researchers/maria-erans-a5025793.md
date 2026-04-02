@@ -1,7 +1,7 @@
 ---
 title: "María Erans"
 description: "María Erans is a Mid-career DAC researcher at University of Valencia in ES. With 38 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.330024
+date: 2026-04-02T07:03:23.949642
 url: "/cdr-researcher-census/researchers/maria-erans-a5025793/"
 layout: "researcher"
 hiddenInHomeList: true

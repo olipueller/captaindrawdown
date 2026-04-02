@@ -1,7 +1,7 @@
 ---
 title: "Luoqi Zhao"
 description: "Luoqi Zhao is a Mid-career Soil Carbon researcher at Yunnan University in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.574289
+date: 2026-04-02T07:03:25.766838
 url: "/cdr-researcher-census/researchers/luoqi-zhao-a5057834/"
 layout: "researcher"
 hiddenInHomeList: true

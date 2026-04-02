@@ -1,7 +1,7 @@
 ---
 title: "Mohd Azwan Ahmad"
 description: "Mohd Azwan Ahmad is a Mid-career General CDR researcher at Management and Science University in MY. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.906774
+date: 2026-04-02T07:03:26.224777
 url: "/cdr-researcher-census/researchers/mohd-azwan-ahmad-a5018884/"
 layout: "researcher"
 hiddenInHomeList: true

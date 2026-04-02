@@ -1,7 +1,7 @@
 ---
 title: "Zhengkun Hou"
 description: "Zhengkun Hou is a Mid-career carbon dioxide removal researcher at Tianjin University in CN. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.473038
+date: 2026-04-02T07:03:25.598438
 url: "/cdr-researcher-census/researchers/zhengkun-hou-a5091610/"
 layout: "researcher"
 hiddenInHomeList: true

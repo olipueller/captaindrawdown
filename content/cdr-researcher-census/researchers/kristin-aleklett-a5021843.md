@@ -1,7 +1,7 @@
 ---
 title: "Kristin Aleklett"
 description: "Kristin Aleklett is a Mid-career Soil Carbon researcher at Lund University in SE. With 35 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.450707
+date: 2026-04-02T07:03:24.105631
 url: "/cdr-researcher-census/researchers/kristin-aleklett-a5021843/"
 layout: "researcher"
 hiddenInHomeList: true

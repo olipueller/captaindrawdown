@@ -1,7 +1,7 @@
 ---
 title: "Nate T. Garland"
 description: "Nate T. Garland is a Mid-career General CDR researcher at North Carolina State University in US. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.596924
+date: 2026-04-02T07:03:24.315231
 url: "/cdr-researcher-census/researchers/nate-t-garland-a5008577/"
 layout: "researcher"
 hiddenInHomeList: true

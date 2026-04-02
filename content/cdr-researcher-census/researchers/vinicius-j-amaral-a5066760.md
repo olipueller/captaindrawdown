@@ -1,7 +1,7 @@
 ---
 title: "Vinícius J. Amaral"
 description: "Vinícius J. Amaral is a Mid-career Ocean CDR researcher at University of California, Santa Cruz in US. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.960865
+date: 2026-04-02T07:03:26.307997
 url: "/cdr-researcher-census/researchers/vinicius-j-amaral-a5066760/"
 layout: "researcher"
 hiddenInHomeList: true

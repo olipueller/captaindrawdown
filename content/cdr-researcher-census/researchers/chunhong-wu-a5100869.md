@@ -1,7 +1,7 @@
 ---
 title: "Chunhong Wu"
 description: "Chunhong Wu is a Senior Soil Carbon researcher at Binzhou University in CN. With 25 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.300651
+date: 2026-04-02T07:03:26.827695
 url: "/cdr-researcher-census/researchers/chunhong-wu-a5100869/"
 layout: "researcher"
 hiddenInHomeList: true

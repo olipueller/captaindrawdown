@@ -1,7 +1,7 @@
 ---
 title: "Anna A. Littlefield"
 description: "Anna A. Littlefield is an Early-career DAC researcher at Colorado School of Mines in US. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.028610
+date: 2026-04-02T07:03:24.949122
 url: "/cdr-researcher-census/researchers/anna-a-littlefield-a5046171/"
 layout: "researcher"
 hiddenInHomeList: true

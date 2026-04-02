@@ -1,7 +1,7 @@
 ---
 title: "Johannes Bednar"
 description: "Johannes Bednar is a Mid-career General CDR researcher at International Institute for Applied Systems Analysis in AT. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.010792
+date: 2026-04-02T07:03:24.925405
 url: "/cdr-researcher-census/researchers/johannes-bednar-a5005030/"
 layout: "researcher"
 hiddenInHomeList: true

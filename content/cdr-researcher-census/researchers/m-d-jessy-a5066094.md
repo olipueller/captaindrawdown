@@ -1,7 +1,7 @@
 ---
 title: "M. D. Jessy"
 description: "M. D. Jessy is a Senior Soil Carbon researcher at Rubber Board in IN. With 30 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.239576
+date: 2026-04-02T07:03:26.734623
 url: "/cdr-researcher-census/researchers/m-d-jessy-a5066094/"
 layout: "researcher"
 hiddenInHomeList: true

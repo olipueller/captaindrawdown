@@ -1,7 +1,7 @@
 ---
 title: "Ehsan Soroodan Miandoab"
 description: "Ehsan Soroodan Miandoab is a Mid-career DAC researcher at Commonwealth Scientific and Industrial Research Organisation in AU. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.452158
+date: 2026-04-02T07:03:25.563887
 url: "/cdr-researcher-census/researchers/ehsan-soroodan-miandoab-a5038897/"
 layout: "researcher"
 hiddenInHomeList: true

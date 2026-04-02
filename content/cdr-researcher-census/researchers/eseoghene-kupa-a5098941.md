@@ -1,7 +1,7 @@
 ---
 title: "Eseoghene Kupa"
 description: "Eseoghene Kupa is a Mid-career BECCS researcher at Lagos State Health Service Commission in NG. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.618019
+date: 2026-04-02T07:03:25.832823
 url: "/cdr-researcher-census/researchers/eseoghene-kupa-a5098941/"
 layout: "researcher"
 hiddenInHomeList: true

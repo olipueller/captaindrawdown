@@ -1,7 +1,7 @@
 ---
 title: "Kamal Kishore"
 description: "Kamal Kishore is a Senior General CDR researcher at PepsiCo (United Kingdom) in GB. With 36 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.933556
+date: 2026-04-02T07:03:26.269495
 url: "/cdr-researcher-census/researchers/kamal-kishore-a5102893/"
 layout: "researcher"
 hiddenInHomeList: true

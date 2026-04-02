@@ -1,7 +1,7 @@
 ---
 title: "Frances Buckingham"
 description: "Frances Buckingham is a Mid-career Enhanced Weathering researcher at University of Oxford in GB. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.092788
+date: 2026-04-02T07:03:26.496524
 url: "/cdr-researcher-census/researchers/frances-buckingham-a5003682/"
 layout: "researcher"
 hiddenInHomeList: true

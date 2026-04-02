@@ -1,7 +1,7 @@
 ---
 title: "Endong Miao"
 description: "Endong Miao is a Mid-career Enhanced Weathering researcher at Huazhong University of Science and Technology in CN. With 11 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.852831
+date: 2026-04-02T07:03:24.679088
 url: "/cdr-researcher-census/researchers/endong-miao-a5057446/"
 layout: "researcher"
 hiddenInHomeList: true

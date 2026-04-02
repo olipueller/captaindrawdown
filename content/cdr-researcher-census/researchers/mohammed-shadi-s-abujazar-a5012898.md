@@ -1,7 +1,7 @@
 ---
 title: "Mohammed Shadi S. Abujazar"
 description: "Mohammed Shadi S. Abujazar is a Mid-career Biochar researcher at Al-Aqsa University in PS. With 34 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.346298
+date: 2026-04-02T07:03:23.971638
 url: "/cdr-researcher-census/researchers/mohammed-shadi-s-abujazar-a5012898/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Nataša Đurišić‐Mladenović"
 description: "Nataša Đurišić‐Mladenović is a Senior Biochar researcher at Univerzitet u Novom Sadu Tehnološki fakultet in RS. With 59 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.378931
+date: 2026-04-02T07:03:24.015684
 url: "/cdr-researcher-census/researchers/natasa-urisicmladenovic-a5077862/"
 layout: "researcher"
 hiddenInHomeList: true

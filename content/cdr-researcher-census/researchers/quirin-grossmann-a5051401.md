@@ -1,7 +1,7 @@
 ---
 title: "Quirin Grossmann"
 description: "Quirin Grossmann is a Mid-career DAC researcher at ETH Zurich in CH. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.814141
+date: 2026-04-02T07:03:26.093342
 url: "/cdr-researcher-census/researchers/quirin-grossmann-a5051401/"
 layout: "researcher"
 hiddenInHomeList: true

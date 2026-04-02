@@ -1,7 +1,7 @@
 ---
 title: "Georges Martial Ndzana"
 description: "Georges Martial Ndzana is a Mid-career Soil Carbon researcher at Université de Dschang in CM. With 30 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.550054
+date: 2026-04-02T07:03:24.248197
 url: "/cdr-researcher-census/researchers/georges-martial-ndzana-a5075196/"
 layout: "researcher"
 hiddenInHomeList: true

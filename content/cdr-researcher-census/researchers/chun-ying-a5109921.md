@@ -1,7 +1,7 @@
 ---
 title: "Chun Ying"
 description: "Chun Ying is a Senior carbon dioxide removal researcher at Inner Mongolia Agricultural University in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.638482
+date: 2026-04-02T07:03:25.863914
 url: "/cdr-researcher-census/researchers/chun-ying-a5109921/"
 layout: "researcher"
 hiddenInHomeList: true

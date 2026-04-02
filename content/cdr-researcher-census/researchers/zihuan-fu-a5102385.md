@@ -1,7 +1,7 @@
 ---
 title: "Zihuan Fu"
 description: "Zihuan Fu is a Mid-career Soil Carbon researcher at Plant & Food Research in NZ. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.162654
+date: 2026-04-02T07:03:25.146038
 url: "/cdr-researcher-census/researchers/zihuan-fu-a5102385/"
 layout: "researcher"
 hiddenInHomeList: true

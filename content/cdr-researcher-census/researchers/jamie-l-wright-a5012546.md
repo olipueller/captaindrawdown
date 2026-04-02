@@ -1,7 +1,7 @@
 ---
 title: "Jamie L. Wright"
 description: "Jamie L. Wright is a Senior Soil Carbon researcher at University of Oregon in US. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.407069
+date: 2026-04-02T07:03:25.498610
 url: "/cdr-researcher-census/researchers/jamie-l-wright-a5012546/"
 layout: "researcher"
 hiddenInHomeList: true

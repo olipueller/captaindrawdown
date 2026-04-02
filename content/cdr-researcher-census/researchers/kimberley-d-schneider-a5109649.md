@@ -1,7 +1,7 @@
 ---
 title: "Kimberley D. Schneider"
 description: "Kimberley D. Schneider is a Mid-career Soil Carbon researcher at University of Guelph in CA. With 27 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.720298
+date: 2026-04-02T07:03:24.495329
 url: "/cdr-researcher-census/researchers/kimberley-d-schneider-a5109649/"
 layout: "researcher"
 hiddenInHomeList: true

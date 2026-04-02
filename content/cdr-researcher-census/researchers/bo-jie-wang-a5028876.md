@@ -1,7 +1,7 @@
 ---
 title: "Bo-jie Wang"
 description: "Bo-jie Wang is a Senior General CDR researcher at Ministry of Education of the People's Republic of China in CN. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.382928
+date: 2026-04-02T07:03:26.942598
 url: "/cdr-researcher-census/researchers/bo-jie-wang-a5028876/"
 layout: "researcher"
 hiddenInHomeList: true

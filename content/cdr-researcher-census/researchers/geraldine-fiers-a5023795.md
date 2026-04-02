@@ -1,7 +1,7 @@
 ---
 title: "Géraldine Fiers"
 description: "Géraldine Fiers is a Mid-career Enhanced Weathering researcher at University College Ghent in BE. With 28 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.352920
+date: 2026-04-02T07:03:26.899227
 url: "/cdr-researcher-census/researchers/geraldine-fiers-a5023795/"
 layout: "researcher"
 hiddenInHomeList: true

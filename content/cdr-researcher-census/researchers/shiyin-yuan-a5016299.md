@@ -1,7 +1,7 @@
 ---
 title: "Shiyin Yuan"
 description: "Shiyin Yuan is an Early-career carbon dioxide removal researcher at State Key Laboratory of Pollution Control and Resource Reuse in CN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.700480
+date: 2026-04-02T07:03:25.960207
 url: "/cdr-researcher-census/researchers/shiyin-yuan-a5016299/"
 layout: "researcher"
 hiddenInHomeList: true

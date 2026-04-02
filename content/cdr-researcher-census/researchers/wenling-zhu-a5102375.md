@@ -1,7 +1,7 @@
 ---
 title: "Wenling Zhu"
 description: "Wenling Zhu is a Mid-career Soil Carbon researcher at Ministry of Agriculture and Rural Affairs in CN. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.209270
+date: 2026-04-02T07:03:26.692033
 url: "/cdr-researcher-census/researchers/wenling-zhu-a5102375/"
 layout: "researcher"
 hiddenInHomeList: true

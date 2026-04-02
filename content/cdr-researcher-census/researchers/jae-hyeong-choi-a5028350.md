@@ -1,7 +1,7 @@
 ---
 title: "Jae-Hyeong Choi"
 description: "Jae-Hyeong Choi is a Mid-career General CDR researcher at Korea Institute of Ocean Science and Technology in KR. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.879016
+date: 2026-04-02T07:03:26.184631
 url: "/cdr-researcher-census/researchers/jae-hyeong-choi-a5028350/"
 layout: "researcher"
 hiddenInHomeList: true

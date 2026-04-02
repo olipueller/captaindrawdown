@@ -1,7 +1,7 @@
 ---
 title: "Shenglong Zhao"
 description: "Shenglong Zhao is a Senior Soil Carbon researcher at Inner Mongolia Autonomous Region Meteorological Bureau in CN. With 27 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.947861
+date: 2026-04-02T07:03:24.827400
 url: "/cdr-researcher-census/researchers/shenglong-zhao-a5101409/"
 layout: "researcher"
 hiddenInHomeList: true

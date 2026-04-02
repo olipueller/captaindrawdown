@@ -1,7 +1,7 @@
 ---
 title: "Chenglong Hou"
 description: "Chenglong Hou is a Mid-career carbon dioxide removal researcher at State Grid Corporation of China (China) in CN. With 31 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.936457
+date: 2026-04-02T07:03:24.808349
 url: "/cdr-researcher-census/researchers/chenglong-hou-a5050930/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ruoxu Shang"
 description: "Ruoxu Shang is a Mid-career General CDR researcher at University of California, Riverside in US. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.953045
+date: 2026-04-02T07:03:24.834979
 url: "/cdr-researcher-census/researchers/ruoxu-shang-a5033074/"
 layout: "researcher"
 hiddenInHomeList: true

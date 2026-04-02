@@ -1,7 +1,7 @@
 ---
 title: "Shashi S. Udumann"
 description: "Shashi S. Udumann is a Mid-career Soil Carbon researcher at Coconut Research Institute in LK. With 50 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.933960
+date: 2026-04-02T07:03:24.804577
 url: "/cdr-researcher-census/researchers/shashi-s-udumann-a5051077/"
 layout: "researcher"
 hiddenInHomeList: true

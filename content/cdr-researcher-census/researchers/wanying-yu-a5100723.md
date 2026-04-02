@@ -1,7 +1,7 @@
 ---
 title: "Wanying Yu"
 description: "Wanying Yu is a Mid-career carbon dioxide removal researcher at Northeast Normal University in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.708693
+date: 2026-04-02T07:03:25.973384
 url: "/cdr-researcher-census/researchers/wanying-yu-a5100723/"
 layout: "researcher"
 hiddenInHomeList: true

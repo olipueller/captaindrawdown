@@ -1,7 +1,7 @@
 ---
 title: "Light I. Nwobia"
 description: "Light I. Nwobia is a Mid-career BECCS researcher. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.716734
+date: 2026-04-02T07:03:25.986378
 url: "/cdr-researcher-census/researchers/light-i-nwobia-a5060172/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "P. Kalaiselvi"
 description: "P. Kalaiselvi is a Senior Soil Carbon researcher at Tamil Nadu Agricultural University in IN. With 63 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.887787
+date: 2026-04-02T07:03:24.731038
 url: "/cdr-researcher-census/researchers/p-kalaiselvi-a5112363/"
 layout: "researcher"
 hiddenInHomeList: true

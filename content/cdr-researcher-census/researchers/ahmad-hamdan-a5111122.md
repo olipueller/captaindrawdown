@@ -1,7 +1,7 @@
 ---
 title: "Ahmad Hamdan"
 description: "Ahmad Hamdan is a Mid-career General CDR researcher at Applied Science Private University in JO. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.894010
+date: 2026-04-02T07:03:24.740895
 url: "/cdr-researcher-census/researchers/ahmad-hamdan-a5111122/"
 layout: "researcher"
 hiddenInHomeList: true

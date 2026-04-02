@@ -1,7 +1,7 @@
 ---
 title: "Lorenzo J. Washington"
 description: "Lorenzo J. Washington is a Mid-career BECCS researcher at Lawrence Berkeley National Laboratory in US. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.169343
+date: 2026-04-02T07:03:25.154927
 url: "/cdr-researcher-census/researchers/lorenzo-j-washington-a5037774/"
 layout: "researcher"
 hiddenInHomeList: true

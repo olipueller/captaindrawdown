@@ -1,7 +1,7 @@
 ---
 title: "Xie Zhi-yi"
 description: "Xie Zhi-yi is a Senior Soil Carbon researcher at Guangdong Province Environmental Monitoring Center in CN. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.507497
+date: 2026-04-02T07:03:25.670277
 url: "/cdr-researcher-census/researchers/xie-zhi-yi-a5102217/"
 layout: "researcher"
 hiddenInHomeList: true

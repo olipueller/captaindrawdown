@@ -1,7 +1,7 @@
 ---
 title: "Mirjam Helfrich"
 description: "Mirjam Helfrich is a Senior Soil Carbon researcher at Johann Heinrich von Thünen-Institut in DE. With 79 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.223560
+date: 2026-04-02T07:03:23.806196
 url: "/cdr-researcher-census/researchers/mirjam-helfrich-a5018445/"
 layout: "researcher"
 hiddenInHomeList: true

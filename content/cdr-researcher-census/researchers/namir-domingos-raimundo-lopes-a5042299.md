@@ -1,7 +1,7 @@
 ---
 title: "Namir Domingos Raimundo Lopes"
 description: "Namir Domingos Raimundo Lopes is a Mid-career Soil Carbon researcher at CAS Key Laboratory of Urban Pollutant Conversion in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.251674
+date: 2026-04-02T07:03:26.751653
 url: "/cdr-researcher-census/researchers/namir-domingos-raimundo-lopes-a5042299/"
 layout: "researcher"
 hiddenInHomeList: true

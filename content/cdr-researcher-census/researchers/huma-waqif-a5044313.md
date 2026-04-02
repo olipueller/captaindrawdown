@@ -1,7 +1,7 @@
 ---
 title: "Huma Waqif"
 description: "Huma Waqif is an Early-career carbon dioxide removal researcher at Lahore College for Women University in PK. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.144944
+date: 2026-04-02T07:03:26.576016
 url: "/cdr-researcher-census/researchers/huma-waqif-a5044313/"
 layout: "researcher"
 hiddenInHomeList: true

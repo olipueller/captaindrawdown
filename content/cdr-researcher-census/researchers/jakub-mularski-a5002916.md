@@ -1,7 +1,7 @@
 ---
 title: "Jakub Mularski"
 description: "Jakub Mularski is a Mid-career BECCS researcher at Wrocław University of Science and Technology in PL. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.080928
+date: 2026-04-02T07:03:25.027262
 url: "/cdr-researcher-census/researchers/jakub-mularski-a5002916/"
 layout: "researcher"
 hiddenInHomeList: true

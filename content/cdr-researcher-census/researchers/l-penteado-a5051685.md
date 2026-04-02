@@ -1,7 +1,7 @@
 ---
 title: "L. Penteado"
 description: "L. Penteado is a Senior Soil Carbon researcher at Universidade de Ribeirão Preto in BR. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.161051
+date: 2026-04-02T07:03:25.144111
 url: "/cdr-researcher-census/researchers/l-penteado-a5051685/"
 layout: "researcher"
 hiddenInHomeList: true

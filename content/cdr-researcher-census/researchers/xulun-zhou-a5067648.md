@@ -1,7 +1,7 @@
 ---
 title: "Xulun Zhou"
 description: "Xulun Zhou is a Mid-career carbon dioxide removal researcher at Northeastern University in CN. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.949600
+date: 2026-04-02T07:03:26.291784
 url: "/cdr-researcher-census/researchers/xulun-zhou-a5067648/"
 layout: "researcher"
 hiddenInHomeList: true

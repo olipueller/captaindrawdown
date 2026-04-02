@@ -1,7 +1,7 @@
 ---
 title: "Yanyi Zang"
 description: "Yanyi Zang is a Mid-career carbon dioxide removal researcher at The Geneva Foundation in US. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.980261
+date: 2026-04-02T07:03:26.330947
 url: "/cdr-researcher-census/researchers/yanyi-zang-a5022641/"
 layout: "researcher"
 hiddenInHomeList: true

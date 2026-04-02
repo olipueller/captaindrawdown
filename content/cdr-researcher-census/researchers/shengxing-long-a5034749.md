@@ -1,7 +1,7 @@
 ---
 title: "Shengxing Long"
 description: "Shengxing Long is a Senior Biochar researcher at Peking University in CN. With 29 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.731540
+date: 2026-04-02T07:03:24.511422
 url: "/cdr-researcher-census/researchers/shengxing-long-a5034749/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Christian Lopes"
 description: "Christian Lopes is a Mid-career Ocean CDR researcher at Florida International University in US. With 17 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.894192
+date: 2026-04-02T07:03:24.741190
 url: "/cdr-researcher-census/researchers/christian-lopes-a5036380/"
 layout: "researcher"
 hiddenInHomeList: true

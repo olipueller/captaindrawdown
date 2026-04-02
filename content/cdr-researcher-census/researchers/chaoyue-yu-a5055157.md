@@ -1,7 +1,7 @@
 ---
 title: "Chaoyue Yu"
 description: "Chaoyue Yu is a Mid-career carbon dioxide removal researcher at Renmin University of China in CN. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.204638
+date: 2026-04-02T07:03:25.205719
 url: "/cdr-researcher-census/researchers/chaoyue-yu-a5055157/"
 layout: "researcher"
 hiddenInHomeList: true

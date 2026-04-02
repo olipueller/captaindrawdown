@@ -1,7 +1,7 @@
 ---
 title: "Gaosong Shi"
 description: "Gaosong Shi is an Early-career General CDR researcher at Sun Yat-sen University in CN. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.301587
+date: 2026-04-02T07:03:25.343983
 url: "/cdr-researcher-census/researchers/gaosong-shi-a5031147/"
 layout: "researcher"
 hiddenInHomeList: true

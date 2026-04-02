@@ -1,7 +1,7 @@
 ---
 title: "Aayzaz Ahmed"
 description: "Aayzaz Ahmed is a Mid-career Enhanced Weathering researcher at Karachi Medical and Dental College in PK. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.381378
+date: 2026-04-02T07:03:26.940195
 url: "/cdr-researcher-census/researchers/aayzaz-ahmed-a5112733/"
 layout: "researcher"
 hiddenInHomeList: true

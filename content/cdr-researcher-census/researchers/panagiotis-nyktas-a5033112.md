@@ -1,7 +1,7 @@
 ---
 title: "Panagiotis Nyktas"
 description: "Panagiotis Nyktas is a Senior General CDR researcher at University of Crete in GR. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.894903
+date: 2026-04-02T07:03:26.208475
 url: "/cdr-researcher-census/researchers/panagiotis-nyktas-a5033112/"
 layout: "researcher"
 hiddenInHomeList: true

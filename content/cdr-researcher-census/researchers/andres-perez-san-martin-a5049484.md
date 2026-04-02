@@ -1,7 +1,7 @@
 ---
 title: "Andrés Pérez-San Martín"
 description: "Andrés Pérez-San Martín is a Mid-career General CDR researcher at Temuco Catholic University in CL. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.431240
+date: 2026-04-02T07:03:27.013340
 url: "/cdr-researcher-census/researchers/andres-perez-san-martin-a5049484/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Qinlei Rong"
 description: "Qinlei Rong is a Mid-career Biochar researcher at Ministry of Education of the People's Republic of China in CN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.324952
+date: 2026-04-02T07:03:25.376689
 url: "/cdr-researcher-census/researchers/qinlei-rong-a5010609/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Prashant Upadhyay"
 description: "Prashant Upadhyay is a Mid-career General CDR researcher at IFTM University in IN. With 37 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.777395
+date: 2026-04-02T07:03:26.040013
 url: "/cdr-researcher-census/researchers/prashant-upadhyay-a5082146/"
 layout: "researcher"
 hiddenInHomeList: true

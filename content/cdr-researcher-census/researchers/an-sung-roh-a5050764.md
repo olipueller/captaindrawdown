@@ -1,7 +1,7 @@
 ---
 title: "An-Sung Roh"
 description: "An-Sung Roh is a Mid-career Soil Carbon researcher at National Institute of Agricultural Science and Technology in KR. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.656529
+date: 2026-04-02T07:03:25.892150
 url: "/cdr-researcher-census/researchers/an-sung-roh-a5050764/"
 layout: "researcher"
 hiddenInHomeList: true

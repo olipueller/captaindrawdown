@@ -1,7 +1,7 @@
 ---
 title: "Henry Ruiz"
 description: "Henry Ruiz is a Mid-career Soil Carbon researcher at Texas A&M University System in US. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.539314
+date: 2026-04-02T07:03:24.232844
 url: "/cdr-researcher-census/researchers/henry-ruiz-a5014829/"
 layout: "researcher"
 hiddenInHomeList: true

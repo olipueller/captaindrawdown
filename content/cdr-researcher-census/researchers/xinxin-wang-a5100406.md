@@ -1,7 +1,7 @@
 ---
 title: "Xinxin Wang"
 description: "Xinxin Wang is a Senior Soil Carbon researcher at Guiyang Medical University in CN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.995452
+date: 2026-04-02T07:03:24.902670
 url: "/cdr-researcher-census/researchers/xinxin-wang-a5100406/"
 layout: "researcher"
 hiddenInHomeList: true

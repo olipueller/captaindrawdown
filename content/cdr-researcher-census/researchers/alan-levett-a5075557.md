@@ -1,7 +1,7 @@
 ---
 title: "Alan Levett"
 description: "Alan Levett is a Mid-career Enhanced Weathering researcher at University of Queensland in AU. With 29 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.885946
+date: 2026-04-02T07:03:24.728092
 url: "/cdr-researcher-census/researchers/alan-levett-a5075557/"
 layout: "researcher"
 hiddenInHomeList: true

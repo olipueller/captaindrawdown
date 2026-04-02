@@ -1,7 +1,7 @@
 ---
 title: "John Livsey"
 description: "John Livsey is a Mid-career General CDR researcher at Swedish University of Agricultural Sciences in SE. With 33 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.025105
+date: 2026-04-02T07:03:24.944104
 url: "/cdr-researcher-census/researchers/john-livsey-a5038239/"
 layout: "researcher"
 hiddenInHomeList: true

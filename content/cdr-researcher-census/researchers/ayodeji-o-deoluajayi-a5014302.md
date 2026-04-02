@@ -1,7 +1,7 @@
 ---
 title: "Ayodeji O. Deolu‐Ajayi"
 description: "Ayodeji O. Deolu‐Ajayi is a Mid-career Soil Carbon researcher at Graduate School Experimental Plant Sciences in NL. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.089253
+date: 2026-04-02T07:03:25.038889
 url: "/cdr-researcher-census/researchers/ayodeji-o-deoluajayi-a5014302/"
 layout: "researcher"
 hiddenInHomeList: true

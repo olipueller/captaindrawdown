@@ -1,7 +1,7 @@
 ---
 title: "Angela Stevenson"
 description: "Angela Stevenson is a Mid-career General CDR researcher at Marine Biological Association of the United Kingdom in GB. With 43 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.798274
+date: 2026-04-02T07:03:24.607264
 url: "/cdr-researcher-census/researchers/angela-stevenson-a5004104/"
 layout: "researcher"
 hiddenInHomeList: true

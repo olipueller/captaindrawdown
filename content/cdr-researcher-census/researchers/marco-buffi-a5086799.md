@@ -1,7 +1,7 @@
 ---
 title: "Marco Buffi"
 description: "Marco Buffi is a Mid-career General CDR researcher at European Commission Joint Research Centre in IT. With 45 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.392575
+date: 2026-04-02T07:03:24.030321
 url: "/cdr-researcher-census/researchers/marco-buffi-a5086799/"
 layout: "researcher"
 hiddenInHomeList: true

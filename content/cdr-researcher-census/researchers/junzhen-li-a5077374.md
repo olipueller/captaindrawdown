@@ -1,7 +1,7 @@
 ---
 title: "Junzhen Li"
 description: "Junzhen Li is a Mid-career Biochar researcher at Sichuan University in CN. With 12 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.076649
+date: 2026-04-02T07:03:26.474248
 url: "/cdr-researcher-census/researchers/junzhen-li-a5077374/"
 layout: "researcher"
 hiddenInHomeList: true

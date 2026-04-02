@@ -1,7 +1,7 @@
 ---
 title: "Biyong Ji"
 description: "Biyong Ji is a Mid-career General CDR researcher at Zhejiang Environmental Monitoring Center in CN. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.963622
+date: 2026-04-02T07:03:24.852869
 url: "/cdr-researcher-census/researchers/biyong-ji-a5031547/"
 layout: "researcher"
 hiddenInHomeList: true

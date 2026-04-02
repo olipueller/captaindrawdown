@@ -1,7 +1,7 @@
 ---
 title: "James Campbell"
 description: "James Campbell is a Senior General CDR researcher. With 59 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.727310
+date: 2026-04-02T07:03:24.505109
 url: "/cdr-researcher-census/researchers/james-campbell-a5089134/"
 layout: "researcher"
 hiddenInHomeList: true

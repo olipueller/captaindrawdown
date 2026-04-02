@@ -1,7 +1,7 @@
 ---
 title: "Clint Cameron"
 description: "Clint Cameron is a Mid-career General CDR researcher. With 10 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.532302
+date: 2026-04-02T07:03:24.219976
 url: "/cdr-researcher-census/researchers/clint-cameron-a5103200/"
 layout: "researcher"
 hiddenInHomeList: true

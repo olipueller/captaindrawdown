@@ -1,7 +1,7 @@
 ---
 title: "Vorasate Thanasaksukthawee"
 description: "Vorasate Thanasaksukthawee is a Mid-career BECCS researcher at University of Petroleum in ID. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.321457
+date: 2026-04-02T07:03:26.857820
 url: "/cdr-researcher-census/researchers/vorasate-thanasaksukthawee-a5040916/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Hans Aksel Haugen"
 description: "Hans Aksel Haugen is a Senior General CDR researcher at Montana Department of Transportation in US. With 38 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.060055
+date: 2026-04-02T07:03:24.997878
 url: "/cdr-researcher-census/researchers/hans-aksel-haugen-a5112618/"
 layout: "researcher"
 hiddenInHomeList: true

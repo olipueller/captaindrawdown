@@ -1,7 +1,7 @@
 ---
 title: "Yakun Xu"
 description: "Yakun Xu is a Mid-career Soil Carbon researcher at First Affiliated Hospital of Zhengzhou University in CN. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.228620
+date: 2026-04-02T07:03:26.719719
 url: "/cdr-researcher-census/researchers/yakun-xu-a5101190/"
 layout: "researcher"
 hiddenInHomeList: true

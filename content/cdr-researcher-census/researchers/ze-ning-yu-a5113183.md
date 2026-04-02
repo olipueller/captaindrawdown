@@ -1,7 +1,7 @@
 ---
 title: "Ze-ning Yu"
 description: "Ze-ning Yu is an Early-career Biochar researcher at South China Agricultural University in CN. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.236901
+date: 2026-04-02T07:03:26.730908
 url: "/cdr-researcher-census/researchers/ze-ning-yu-a5113183/"
 layout: "researcher"
 hiddenInHomeList: true

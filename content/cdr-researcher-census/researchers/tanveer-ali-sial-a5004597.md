@@ -1,7 +1,7 @@
 ---
 title: "Tanveer Ali Sial"
 description: "Tanveer Ali Sial is a Senior Soil Carbon researcher at Sindh Agriculture University in PK. With 34 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.321293
+date: 2026-04-02T07:03:23.938073
 url: "/cdr-researcher-census/researchers/tanveer-ali-sial-a5004597/"
 layout: "researcher"
 hiddenInHomeList: true

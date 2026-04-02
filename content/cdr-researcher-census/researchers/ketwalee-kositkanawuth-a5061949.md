@@ -1,7 +1,7 @@
 ---
 title: "Ketwalee Kositkanawuth"
 description: "Ketwalee Kositkanawuth is a Mid-career Biochar researcher at King Mongkut's University of Technology Thonburi in TH. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.643979
+date: 2026-04-02T07:03:25.872765
 url: "/cdr-researcher-census/researchers/ketwalee-kositkanawuth-a5061949/"
 layout: "researcher"
 hiddenInHomeList: true

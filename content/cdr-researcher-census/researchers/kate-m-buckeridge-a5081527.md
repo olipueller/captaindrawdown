@@ -1,7 +1,7 @@
 ---
 title: "Kate M. Buckeridge"
 description: "Kate M. Buckeridge is a Senior Soil Carbon researcher at Luxembourg Institute of Science and Technology in LU. With 42 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.201090
+date: 2026-04-02T07:03:23.779485
 url: "/cdr-researcher-census/researchers/kate-m-buckeridge-a5081527/"
 layout: "researcher"
 hiddenInHomeList: true

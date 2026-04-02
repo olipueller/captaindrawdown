@@ -1,7 +1,7 @@
 ---
 title: "Shukun Xing"
 description: "Shukun Xing is a Mid-career Soil Carbon researcher at Beijing Normal University in CN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.020858
+date: 2026-04-02T07:03:24.938000
 url: "/cdr-researcher-census/researchers/shukun-xing-a5068095/"
 layout: "researcher"
 hiddenInHomeList: true

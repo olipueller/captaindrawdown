@@ -1,7 +1,7 @@
 ---
 title: "Mike Steffen Bernhard Jørgensen"
 description: "Mike Steffen Bernhard Jørgensen is a Mid-career DAC researcher at Technical University of Denmark in DK. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.333931
+date: 2026-04-02T07:03:26.872203
 url: "/cdr-researcher-census/researchers/mike-steffen-bernhard-jrgensen-a5073025/"
 layout: "researcher"
 hiddenInHomeList: true

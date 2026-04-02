@@ -1,7 +1,7 @@
 ---
 title: "David Bille Byriel"
 description: "David Bille Byriel is a Mid-career General CDR researcher. With 27 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.004835
+date: 2026-04-02T07:03:26.368200
 url: "/cdr-researcher-census/researchers/david-bille-byriel-a5048152/"
 layout: "researcher"
 hiddenInHomeList: true

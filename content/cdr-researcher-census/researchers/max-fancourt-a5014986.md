@@ -1,7 +1,7 @@
 ---
 title: "Max Fancourt"
 description: "Max Fancourt is a Mid-career Soil Carbon researcher at University of Leeds in GB. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.756838
+date: 2026-04-02T07:03:26.010350
 url: "/cdr-researcher-census/researchers/max-fancourt-a5014986/"
 layout: "researcher"
 hiddenInHomeList: true

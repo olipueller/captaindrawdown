@@ -1,7 +1,7 @@
 ---
 title: "Scarlett Allende"
 description: "Scarlett Allende is a Mid-career Biochar researcher at James Cook University in AU. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.279926
+date: 2026-04-02T07:03:25.312101
 url: "/cdr-researcher-census/researchers/scarlett-allende-a5083809/"
 layout: "researcher"
 hiddenInHomeList: true

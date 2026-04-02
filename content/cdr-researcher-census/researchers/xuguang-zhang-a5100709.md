@@ -1,7 +1,7 @@
 ---
 title: "Xuguang Zhang"
 description: "Xuguang Zhang is a Mid-career Soil Carbon researcher at Shandong University in CN. With 25 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.505499
+date: 2026-04-02T07:03:25.667473
 url: "/cdr-researcher-census/researchers/xuguang-zhang-a5100709/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Mohsen Afshari"
 description: "Mohsen Afshari is a Mid-career Ocean CDR researcher at University of Houston in US. With 24 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.414979
+date: 2026-04-02T07:03:26.987864
 url: "/cdr-researcher-census/researchers/mohsen-afshari-a5017204/"
 layout: "researcher"
 hiddenInHomeList: true

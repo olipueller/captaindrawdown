@@ -1,7 +1,7 @@
 ---
 title: "Yuchun Ai"
 description: "Yuchun Ai is a Mid-career General CDR researcher at Jiangsu Academy of Agricultural Sciences in CN. With 13 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.009955
+date: 2026-04-02T07:03:24.924594
 url: "/cdr-researcher-census/researchers/yuchun-ai-a5066673/"
 layout: "researcher"
 hiddenInHomeList: true

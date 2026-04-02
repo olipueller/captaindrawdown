@@ -1,7 +1,7 @@
 ---
 title: "Qudsia Saeed"
 description: "Qudsia Saeed is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 38 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.262191
+date: 2026-04-02T07:03:23.856006
 url: "/cdr-researcher-census/researchers/qudsia-saeed-a5037031/"
 layout: "researcher"
 hiddenInHomeList: true

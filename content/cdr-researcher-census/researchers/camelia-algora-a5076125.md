@@ -1,7 +1,7 @@
 ---
 title: "Camelia Algora"
 description: "Camelia Algora is a Senior Soil Carbon researcher. With 25 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.680079
+date: 2026-04-02T07:03:24.439592
 url: "/cdr-researcher-census/researchers/camelia-algora-a5076125/"
 layout: "researcher"
 hiddenInHomeList: true

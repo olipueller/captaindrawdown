@@ -1,7 +1,7 @@
 ---
 title: "Mengke Zhu"
 description: "Mengke Zhu is a Mid-career Soil Carbon researcher at Henan University in CN. With 48 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.439764
+date: 2026-04-02T07:03:24.090170
 url: "/cdr-researcher-census/researchers/mengke-zhu-a5108988/"
 layout: "researcher"
 hiddenInHomeList: true

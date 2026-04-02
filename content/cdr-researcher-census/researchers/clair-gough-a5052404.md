@@ -1,7 +1,7 @@
 ---
 title: "Clair Gough"
 description: "Clair Gough is a Senior General CDR researcher at The University of Manchester in GB. With 85 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.165702
+date: 2026-04-02T07:03:23.730497
 url: "/cdr-researcher-census/researchers/clair-gough-a5052404/"
 layout: "researcher"
 hiddenInHomeList: true

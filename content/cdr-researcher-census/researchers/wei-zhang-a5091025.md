@@ -1,7 +1,7 @@
 ---
 title: "Wei Zhang"
 description: "Wei Zhang is an Eminent Soil Carbon researcher at Chinese Academy of Sciences in CN. With 253 publications and an h-index of 47, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.112950
+date: 2026-04-02T07:03:23.662938
 url: "/cdr-researcher-census/researchers/wei-zhang-a5091025/"
 layout: "researcher"
 hiddenInHomeList: true

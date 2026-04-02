@@ -1,7 +1,7 @@
 ---
 title: "J. Poorna Bindu"
 description: "J. Poorna Bindu is a Mid-career Biochar researcher at Central Tobacco Research Institute in IN. With 17 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.008748
+date: 2026-04-02T07:03:26.373698
 url: "/cdr-researcher-census/researchers/j-poorna-bindu-a5109791/"
 layout: "researcher"
 hiddenInHomeList: true

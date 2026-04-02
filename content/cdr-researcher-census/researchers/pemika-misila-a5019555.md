@@ -1,7 +1,7 @@
 ---
 title: "Pemika Misila"
 description: "Pemika Misila is a Mid-career General CDR researcher at Thammasat University in TH. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.386146
+date: 2026-04-02T07:03:26.947416
 url: "/cdr-researcher-census/researchers/pemika-misila-a5019555/"
 layout: "researcher"
 hiddenInHomeList: true

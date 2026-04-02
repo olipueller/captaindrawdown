@@ -1,7 +1,7 @@
 ---
 title: "Bruno Takeshi"
 description: "Bruno Takeshi is a Mid-career carbon dioxide removal researcher at Instituto Nacional de Pesquisas da Amazônia in BR. With 14 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.180793
+date: 2026-04-02T07:03:26.639415
 url: "/cdr-researcher-census/researchers/bruno-takeshi-a5113963/"
 layout: "researcher"
 hiddenInHomeList: true

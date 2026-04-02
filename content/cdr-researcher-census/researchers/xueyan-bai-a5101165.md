@@ -1,7 +1,7 @@
 ---
 title: "Xueyan Bai"
 description: "Xueyan Bai is a Senior Soil Carbon researcher at Hunan University of Science and Technology in CN. With 78 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.908701
+date: 2026-04-02T07:03:24.763766
 url: "/cdr-researcher-census/researchers/xueyan-bai-a5101165/"
 layout: "researcher"
 hiddenInHomeList: true

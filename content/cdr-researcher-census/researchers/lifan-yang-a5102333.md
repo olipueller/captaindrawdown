@@ -1,7 +1,7 @@
 ---
 title: "Lifan Yang"
 description: "Lifan Yang is a Senior Soil Carbon researcher at Zhejiang Sci-Tech University in CN. With 60 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.723618
+date: 2026-04-02T07:03:24.500362
 url: "/cdr-researcher-census/researchers/lifan-yang-a5102333/"
 layout: "researcher"
 hiddenInHomeList: true

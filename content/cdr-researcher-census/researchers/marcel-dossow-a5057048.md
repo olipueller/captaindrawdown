@@ -1,7 +1,7 @@
 ---
 title: "Marcel Dossow"
 description: "Marcel Dossow is a Mid-career DAC researcher at Commonwealth Scientific and Industrial Research Organisation in AU. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.390698
+date: 2026-04-02T07:03:25.472297
 url: "/cdr-researcher-census/researchers/marcel-dossow-a5057048/"
 layout: "researcher"
 hiddenInHomeList: true

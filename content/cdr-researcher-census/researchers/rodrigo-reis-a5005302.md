@@ -1,7 +1,7 @@
 ---
 title: "Rodrigo Reis"
 description: "Rodrigo Reis is a Senior Soil Carbon researcher at Universidade Federal de Minas Gerais in BR. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.504341
+date: 2026-04-02T07:03:25.665851
 url: "/cdr-researcher-census/researchers/rodrigo-reis-a5005302/"
 layout: "researcher"
 hiddenInHomeList: true

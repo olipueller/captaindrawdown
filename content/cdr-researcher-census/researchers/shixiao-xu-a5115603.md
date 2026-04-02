@@ -1,7 +1,7 @@
 ---
 title: "Shixiao Xu"
 description: "Shixiao Xu is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 30 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.450765
+date: 2026-04-02T07:03:25.561514
 url: "/cdr-researcher-census/researchers/shixiao-xu-a5115603/"
 layout: "researcher"
 hiddenInHomeList: true

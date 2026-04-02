@@ -1,7 +1,7 @@
 ---
 title: "Saptasree Bose"
 description: "Saptasree Bose is a Mid-career carbon dioxide removal researcher at Northwestern University in US. With 36 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.479957
+date: 2026-04-02T07:03:24.147187
 url: "/cdr-researcher-census/researchers/saptasree-bose-a5000469/"
 layout: "researcher"
 hiddenInHomeList: true

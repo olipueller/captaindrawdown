@@ -1,7 +1,7 @@
 ---
 title: "Sara Nawaz"
 description: "Sara Nawaz is a Mid-career General CDR researcher at Physicians Committee for Responsible Medicine in US. With 32 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.202140
+date: 2026-04-02T07:03:25.202067
 url: "/cdr-researcher-census/researchers/sara-nawaz-a5083576/"
 layout: "researcher"
 hiddenInHomeList: true

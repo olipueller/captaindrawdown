@@ -1,7 +1,7 @@
 ---
 title: "Dante Simonetti"
 description: "Dante Simonetti is a Senior Ocean CDR researcher at University of California, Los Angeles in US. With 70 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.159091
+date: 2026-04-02T07:03:23.719746
 url: "/cdr-researcher-census/researchers/dante-simonetti-a5044603/"
 layout: "researcher"
 hiddenInHomeList: true

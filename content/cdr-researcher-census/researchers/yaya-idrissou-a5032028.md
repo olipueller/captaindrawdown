@@ -1,7 +1,7 @@
 ---
 title: "Yaya Idrissou"
 description: "Yaya Idrissou is a Mid-career Soil Carbon researcher at Centre de Coopération Internationale en Recherche Agronomique pour le Développement in FR. With 26 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.047726
+date: 2026-04-02T07:03:26.432978
 url: "/cdr-researcher-census/researchers/yaya-idrissou-a5032028/"
 layout: "researcher"
 hiddenInHomeList: true

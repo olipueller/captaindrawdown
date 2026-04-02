@@ -1,7 +1,7 @@
 ---
 title: "Grace M. Cott"
 description: "Grace M. Cott is a Mid-career Soil Carbon researcher at University College Dublin in IE. With 32 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.302449
+date: 2026-04-02T07:03:25.345114
 url: "/cdr-researcher-census/researchers/grace-m-cott-a5006326/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Chiara De Notaris"
 description: "Chiara De Notaris is a Mid-career Soil Carbon researcher at Centro Euro-Mediterraneo sui Cambiamenti Climatici in IT. With 47 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.505699
+date: 2026-04-02T07:03:24.179616
 url: "/cdr-researcher-census/researchers/chiara-de-notaris-a5055740/"
 layout: "researcher"
 hiddenInHomeList: true

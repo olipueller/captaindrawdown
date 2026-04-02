@@ -1,7 +1,7 @@
 ---
 title: "Fuat Kaya"
 description: "Fuat Kaya is a Mid-career Soil Carbon researcher at University of Sydney in AU. With 34 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.961482
+date: 2026-04-02T07:03:24.848721
 url: "/cdr-researcher-census/researchers/fuat-kaya-a5073268/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Chao Wang"
 description: "Chao Wang is a Senior General CDR researcher at China Institute of Water Resources and Hydropower Research in CN. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.213689
+date: 2026-04-02T07:03:26.698375
 url: "/cdr-researcher-census/researchers/chao-wang-a5018177/"
 layout: "researcher"
 hiddenInHomeList: true

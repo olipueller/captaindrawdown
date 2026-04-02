@@ -1,7 +1,7 @@
 ---
 title: "Leah K. Clayton"
 description: "Leah K. Clayton is an Early-career carbon dioxide removal researcher. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.126505
+date: 2026-04-02T07:03:26.543353
 url: "/cdr-researcher-census/researchers/leah-k-clayton-a5040720/"
 layout: "researcher"
 hiddenInHomeList: true

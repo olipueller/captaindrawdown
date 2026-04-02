@@ -1,7 +1,7 @@
 ---
 title: "Arbi J. Sarkissian"
 description: "Arbi J. Sarkissian is a Mid-career carbon dioxide removal researcher at Lancaster University in GB. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.619578
+date: 2026-04-02T07:03:25.834945
 url: "/cdr-researcher-census/researchers/arbi-j-sarkissian-a5003657/"
 layout: "researcher"
 hiddenInHomeList: true

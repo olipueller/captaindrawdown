@@ -1,7 +1,7 @@
 ---
 title: "Sirisha Nallakukkala"
 description: "Sirisha Nallakukkala is a Mid-career carbon dioxide removal researcher at Sri Sivasubramaniya Nadar College of Engineering. With 25 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.585853
+date: 2026-04-02T07:03:25.784199
 url: "/cdr-researcher-census/researchers/sirisha-nallakukkala-a5057483/"
 layout: "researcher"
 hiddenInHomeList: true

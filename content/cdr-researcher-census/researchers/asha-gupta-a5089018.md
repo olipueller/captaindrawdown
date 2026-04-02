@@ -1,7 +1,7 @@
 ---
 title: "Asha Gupta"
 description: "Asha Gupta is a Senior General CDR researcher at ZHAW Zurich University of Applied Sciences in CH. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.872121
+date: 2026-04-02T07:03:26.175056
 url: "/cdr-researcher-census/researchers/asha-gupta-a5089018/"
 layout: "researcher"
 hiddenInHomeList: true

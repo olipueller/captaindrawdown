@@ -1,7 +1,7 @@
 ---
 title: "İBRAHİM ORTAŞ"
 description: "İBRAHİM ORTAŞ is a Senior General CDR researcher at Carnegie Department of Plant Biology in US. With 11 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.958347
+date: 2026-04-02T07:03:26.304350
 url: "/cdr-researcher-census/researchers/ibrahim-ortas-a5108859/"
 layout: "researcher"
 hiddenInHomeList: true

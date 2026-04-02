@@ -1,7 +1,7 @@
 ---
 title: "María Fernanda Horst"
 description: "María Fernanda Horst is a Senior Biochar researcher at Universidad Nacional del Sur in AR. With 30 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.697229
+date: 2026-04-02T07:03:24.461512
 url: "/cdr-researcher-census/researchers/maria-fernanda-horst-a5052269/"
 layout: "researcher"
 hiddenInHomeList: true

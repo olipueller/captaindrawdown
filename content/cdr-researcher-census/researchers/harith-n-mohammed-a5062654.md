@@ -1,7 +1,7 @@
 ---
 title: "Harith N. Mohammed"
 description: "Harith N. Mohammed is a Senior General CDR researcher at Suez Canal University in EG. With 24 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.459471
+date: 2026-04-02T07:03:25.575369
 url: "/cdr-researcher-census/researchers/harith-n-mohammed-a5062654/"
 layout: "researcher"
 hiddenInHomeList: true

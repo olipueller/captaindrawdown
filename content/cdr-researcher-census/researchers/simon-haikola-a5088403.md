@@ -1,7 +1,7 @@
 ---
 title: "Simon Haikola"
 description: "Simon Haikola is a Senior General CDR researcher at Linköping University in SE. With 47 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.511608
+date: 2026-04-02T07:03:24.188222
 url: "/cdr-researcher-census/researchers/simon-haikola-a5088403/"
 layout: "researcher"
 hiddenInHomeList: true

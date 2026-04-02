@@ -1,7 +1,7 @@
 ---
 title: "Stéphanie Arcusa"
 description: "Stéphanie Arcusa is a Mid-career General CDR researcher. With 50 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.292264
+date: 2026-04-02T07:03:25.330638
 url: "/cdr-researcher-census/researchers/stephanie-arcusa-a5041208/"
 layout: "researcher"
 hiddenInHomeList: true

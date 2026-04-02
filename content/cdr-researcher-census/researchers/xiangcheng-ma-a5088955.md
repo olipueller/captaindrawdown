@@ -1,7 +1,7 @@
 ---
 title: "Xiangcheng Ma"
 description: "Xiangcheng Ma is a Mid-career Biochar researcher at Ningxia University in CN. With 18 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.822974
+date: 2026-04-02T07:03:24.638747
 url: "/cdr-researcher-census/researchers/xiangcheng-ma-a5088955/"
 layout: "researcher"
 hiddenInHomeList: true

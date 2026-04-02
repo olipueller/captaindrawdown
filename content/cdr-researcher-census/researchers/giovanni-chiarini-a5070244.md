@@ -1,7 +1,7 @@
 ---
 title: "Giovanni Chiarini"
 description: "Giovanni Chiarini is a Mid-career carbon dioxide removal researcher. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.673840
+date: 2026-04-02T07:03:24.431189
 url: "/cdr-researcher-census/researchers/giovanni-chiarini-a5070244/"
 layout: "researcher"
 hiddenInHomeList: true

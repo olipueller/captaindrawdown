@@ -1,7 +1,7 @@
 ---
 title: "Erin J. Lawrence‐Smith"
 description: "Erin J. Lawrence‐Smith is a Senior Soil Carbon researcher at Plant & Food Research in NZ. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.990409
+date: 2026-04-02T07:03:24.894555
 url: "/cdr-researcher-census/researchers/erin-j-lawrencesmith-a5048027/"
 layout: "researcher"
 hiddenInHomeList: true

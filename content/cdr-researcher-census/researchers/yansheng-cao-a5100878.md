@@ -1,7 +1,7 @@
 ---
 title: "Yansheng Cao"
 description: "Yansheng Cao is a Mid-career Soil Carbon researcher at East China University of Technology in CN. With 24 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.629093
+date: 2026-04-02T07:03:24.360643
 url: "/cdr-researcher-census/researchers/yansheng-cao-a5100878/"
 layout: "researcher"
 hiddenInHomeList: true

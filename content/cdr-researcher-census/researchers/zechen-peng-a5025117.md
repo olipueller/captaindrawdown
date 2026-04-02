@@ -1,7 +1,7 @@
 ---
 title: "Zechen Peng"
 description: "Zechen Peng is a Mid-career Soil Carbon researcher. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.466970
+date: 2026-04-02T07:03:25.588717
 url: "/cdr-researcher-census/researchers/zechen-peng-a5025117/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Owais Bashir"
 description: "Owais Bashir is a Mid-career Soil Carbon researcher at Sher-e-Kashmir University of Agricultural Sciences and Technology of Kashmir in IN. With 34 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.395041
+date: 2026-04-02T07:03:25.479607
 url: "/cdr-researcher-census/researchers/owais-bashir-a5071151/"
 layout: "researcher"
 hiddenInHomeList: true

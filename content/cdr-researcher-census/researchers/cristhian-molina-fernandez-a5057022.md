@@ -1,7 +1,7 @@
 ---
 title: "Cristhian Molina-Fernández"
 description: "Cristhian Molina-Fernández is a Mid-career DAC researcher at University of Liège in BE. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.343323
+date: 2026-04-02T07:03:25.401413
 url: "/cdr-researcher-census/researchers/cristhian-molina-fernandez-a5057022/"
 layout: "researcher"
 hiddenInHomeList: true

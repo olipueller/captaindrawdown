@@ -1,7 +1,7 @@
 ---
 title: "Michał Dudek"
 description: "Michał Dudek is a Mid-career Biochar researcher at Wroclaw University of Environmental and Life Sciences in PL. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.494570
+date: 2026-04-02T07:03:25.652276
 url: "/cdr-researcher-census/researchers/micha-dudek-a5063915/"
 layout: "researcher"
 hiddenInHomeList: true

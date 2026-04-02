@@ -1,7 +1,7 @@
 ---
 title: "Michael Moubarak"
 description: "Michael Moubarak is an Early-career General CDR researcher at Hamilton College in US. With 13 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.025175
+date: 2026-04-02T07:03:26.397687
 url: "/cdr-researcher-census/researchers/michael-moubarak-a5091450/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Fekadu Gurmessa"
 description: "Fekadu Gurmessa is a Mid-career Soil Carbon researcher at Wollega University in ET. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.956112
+date: 2026-04-02T07:03:26.301014
 url: "/cdr-researcher-census/researchers/fekadu-gurmessa-a5044424/"
 layout: "researcher"
 hiddenInHomeList: true

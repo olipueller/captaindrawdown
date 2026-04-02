@@ -1,7 +1,7 @@
 ---
 title: "Yanghua Yu"
 description: "Yanghua Yu is a Senior Soil Carbon researcher at North West Agriculture and Forestry University in CN. With 59 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.140558
+date: 2026-04-02T07:03:25.114887
 url: "/cdr-researcher-census/researchers/yanghua-yu-a5034174/"
 layout: "researcher"
 hiddenInHomeList: true

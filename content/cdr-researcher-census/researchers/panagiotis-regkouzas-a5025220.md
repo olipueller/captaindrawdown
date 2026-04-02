@@ -1,7 +1,7 @@
 ---
 title: "Panagiotis Regkouzas"
 description: "Panagiotis Regkouzas is a Mid-career Biochar researcher at Technical University of Crete in GR. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.554105
+date: 2026-04-02T07:03:25.736538
 url: "/cdr-researcher-census/researchers/panagiotis-regkouzas-a5025220/"
 layout: "researcher"
 hiddenInHomeList: true

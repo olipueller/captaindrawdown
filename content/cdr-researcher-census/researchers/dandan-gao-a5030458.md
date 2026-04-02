@@ -1,7 +1,7 @@
 ---
 title: "Dandan Gao"
 description: "Dandan Gao is a Mid-career Soil Carbon researcher at Central South University of Forestry and Technology in CN. With 29 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.348163
+date: 2026-04-02T07:03:25.408413
 url: "/cdr-researcher-census/researchers/dandan-gao-a5030458/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Kaixiong Lin"
 description: "Kaixiong Lin is a Mid-career carbon dioxide removal researcher at Chinese Academy of Sciences in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.845432
+date: 2026-04-02T07:03:26.137704
 url: "/cdr-researcher-census/researchers/kaixiong-lin-a5012473/"
 layout: "researcher"
 hiddenInHomeList: true

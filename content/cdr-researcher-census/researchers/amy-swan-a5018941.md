@@ -1,7 +1,7 @@
 ---
 title: "Amy Swan"
 description: "Amy Swan is a Senior General CDR researcher at Colorado State University in US. With 29 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.368494
+date: 2026-04-02T07:03:24.002734
 url: "/cdr-researcher-census/researchers/amy-swan-a5018941/"
 layout: "researcher"
 hiddenInHomeList: true

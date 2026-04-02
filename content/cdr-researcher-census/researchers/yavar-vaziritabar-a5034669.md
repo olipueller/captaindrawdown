@@ -1,7 +1,7 @@
 ---
 title: "Yavar Vaziritabar"
 description: "Yavar Vaziritabar is a Mid-career Soil Carbon researcher at University of Giessen in DE. With 12 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.441261
+date: 2026-04-02T07:03:27.028550
 url: "/cdr-researcher-census/researchers/yavar-vaziritabar-a5034669/"
 layout: "researcher"
 hiddenInHomeList: true

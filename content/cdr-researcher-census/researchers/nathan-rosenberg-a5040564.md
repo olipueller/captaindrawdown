@@ -1,7 +1,7 @@
 ---
 title: "Nathan Rosenberg"
 description: "Nathan Rosenberg is a Mid-career General CDR researcher at Harvard University Press in US. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.379110
+date: 2026-04-02T07:03:26.936898
 url: "/cdr-researcher-census/researchers/nathan-rosenberg-a5040564/"
 layout: "researcher"
 hiddenInHomeList: true

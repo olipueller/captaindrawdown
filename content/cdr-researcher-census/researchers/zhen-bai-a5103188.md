@@ -1,7 +1,7 @@
 ---
 title: "Zhen Bai"
 description: "Zhen Bai is a Senior Soil Carbon researcher at Fudan University in CN. With 62 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.633138
+date: 2026-04-02T07:03:24.366023
 url: "/cdr-researcher-census/researchers/zhen-bai-a5103188/"
 layout: "researcher"
 hiddenInHomeList: true

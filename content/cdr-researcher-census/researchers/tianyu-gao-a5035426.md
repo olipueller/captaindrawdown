@@ -1,7 +1,7 @@
 ---
 title: "Tianyu Gao"
 description: "Tianyu Gao is a Mid-career General CDR researcher at National University of Defense Technology in CN. With 41 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.916885
+date: 2026-04-02T07:03:24.777992
 url: "/cdr-researcher-census/researchers/tianyu-gao-a5035426/"
 layout: "researcher"
 hiddenInHomeList: true

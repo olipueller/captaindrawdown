@@ -1,7 +1,7 @@
 ---
 title: "Luozhong Tang"
 description: "Luozhong Tang is a Senior Soil Carbon researcher at Nanjing Forestry University in CN. With 55 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.670337
+date: 2026-04-02T07:03:24.426181
 url: "/cdr-researcher-census/researchers/luozhong-tang-a5052346/"
 layout: "researcher"
 hiddenInHomeList: true

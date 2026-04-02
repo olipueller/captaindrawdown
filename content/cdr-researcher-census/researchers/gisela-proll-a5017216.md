@@ -1,7 +1,7 @@
 ---
 title: "Gisela Pröll"
 description: "Gisela Pröll is a Mid-career Soil Carbon researcher at Environment Agency Austria in AT. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.931493
+date: 2026-04-02T07:03:26.266827
 url: "/cdr-researcher-census/researchers/gisela-proll-a5017216/"
 layout: "researcher"
 hiddenInHomeList: true

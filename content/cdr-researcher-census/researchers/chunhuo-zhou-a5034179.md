@@ -1,7 +1,7 @@
 ---
 title: "Chunhuo Zhou"
 description: "Chunhuo Zhou is a Senior Biochar researcher at Ministry of Agriculture and Rural Affairs in CN. With 43 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.778634
+date: 2026-04-02T07:03:24.580813
 url: "/cdr-researcher-census/researchers/chunhuo-zhou-a5034179/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Soosan Kim"
 description: "Soosan Kim is a Mid-career carbon dioxide removal researcher at Columbia University in US. With 28 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.292922
+date: 2026-04-02T07:03:23.900569
 url: "/cdr-researcher-census/researchers/soosan-kim-a5038065/"
 layout: "researcher"
 hiddenInHomeList: true

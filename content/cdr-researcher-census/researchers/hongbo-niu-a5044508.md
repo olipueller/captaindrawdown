@@ -1,7 +1,7 @@
 ---
 title: "Hongbo Niu"
 description: "Hongbo Niu is a Senior General CDR researcher at Shaanxi Coal Chemical Industry Technology Research Institute in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.974253
+date: 2026-04-02T07:03:24.868980
 url: "/cdr-researcher-census/researchers/hongbo-niu-a5044508/"
 layout: "researcher"
 hiddenInHomeList: true

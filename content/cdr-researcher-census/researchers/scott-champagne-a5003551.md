@@ -1,7 +1,7 @@
 ---
 title: "Scott Champagne"
 description: "Scott Champagne is a Senior BECCS researcher at Natural Resources Canada in CA. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.238266
+date: 2026-04-02T07:03:25.259894
 url: "/cdr-researcher-census/researchers/scott-champagne-a5003551/"
 layout: "researcher"
 hiddenInHomeList: true

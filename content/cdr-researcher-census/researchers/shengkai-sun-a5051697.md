@@ -1,7 +1,7 @@
 ---
 title: "Sheng‐Kai Sun"
 description: "Sheng‐Kai Sun is a Mid-career Soil Carbon researcher at Heidelberg University in DE. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.667272
+date: 2026-04-02T07:03:24.421318
 url: "/cdr-researcher-census/researchers/shengkai-sun-a5051697/"
 layout: "researcher"
 hiddenInHomeList: true

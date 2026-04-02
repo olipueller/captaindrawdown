@@ -1,7 +1,7 @@
 ---
 title: "Mauro Zampilli"
 description: "Mauro Zampilli is a Mid-career BECCS researcher at University of Perugia in IT. With 31 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.900936
+date: 2026-04-02T07:03:24.750939
 url: "/cdr-researcher-census/researchers/mauro-zampilli-a5040458/"
 layout: "researcher"
 hiddenInHomeList: true

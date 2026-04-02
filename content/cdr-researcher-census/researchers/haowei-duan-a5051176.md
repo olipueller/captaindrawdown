@@ -1,7 +1,7 @@
 ---
 title: "Haowei Duan"
 description: "Haowei Duan is a Mid-career General CDR researcher at University of Shanghai for Science and Technology in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.787624
+date: 2026-04-02T07:03:24.592495
 url: "/cdr-researcher-census/researchers/haowei-duan-a5051176/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Wenjuan Sun"
 description: "Wenjuan Sun is a Senior Soil Carbon researcher at Institute of Botany Chinese Academy of Sciences in CN. With 132 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.132134
+date: 2026-04-02T07:03:23.685214
 url: "/cdr-researcher-census/researchers/wenjuan-sun-a5101830/"
 layout: "researcher"
 hiddenInHomeList: true

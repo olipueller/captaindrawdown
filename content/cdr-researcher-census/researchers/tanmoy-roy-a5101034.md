@@ -1,7 +1,7 @@
 ---
 title: "Tanmoy Roy"
 description: "Tanmoy Roy is a Senior Soil Carbon researcher at Lovely Professional University in IN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.253692
+date: 2026-04-02T07:03:25.278754
 url: "/cdr-researcher-census/researchers/tanmoy-roy-a5101034/"
 layout: "researcher"
 hiddenInHomeList: true

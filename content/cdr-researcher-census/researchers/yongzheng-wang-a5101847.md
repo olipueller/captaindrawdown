@@ -1,7 +1,7 @@
 ---
 title: "Yongzheng Wang"
 description: "Yongzheng Wang is a Mid-career Soil Carbon researcher at Qingdao University of Science and Technology in CN. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.898920
+date: 2026-04-02T07:03:26.214006
 url: "/cdr-researcher-census/researchers/yongzheng-wang-a5101847/"
 layout: "researcher"
 hiddenInHomeList: true

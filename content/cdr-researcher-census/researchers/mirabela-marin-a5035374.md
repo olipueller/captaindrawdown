@@ -1,7 +1,7 @@
 ---
 title: "Mirabela Marin"
 description: "Mirabela Marin is a Mid-career Soil Carbon researcher. With 28 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.111892
+date: 2026-04-02T07:03:25.072092
 url: "/cdr-researcher-census/researchers/mirabela-marin-a5035374/"
 layout: "researcher"
 hiddenInHomeList: true

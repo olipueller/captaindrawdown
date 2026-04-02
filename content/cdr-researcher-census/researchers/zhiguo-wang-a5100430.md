@@ -1,7 +1,7 @@
 ---
 title: "Zhiguo Wang"
 description: "Zhiguo Wang is a Senior Soil Carbon researcher at Shenyang Institute of Automation in CN. With 38 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.788832
+date: 2026-04-02T07:03:24.594091
 url: "/cdr-researcher-census/researchers/zhiguo-wang-a5100430/"
 layout: "researcher"
 hiddenInHomeList: true

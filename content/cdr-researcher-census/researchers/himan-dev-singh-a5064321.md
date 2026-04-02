@@ -1,7 +1,7 @@
 ---
 title: "Himan Dev Singh"
 description: "Himan Dev Singh is a Mid-career carbon dioxide removal researcher at Indian Institute of Science Education and Research Pune in IN. With 28 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.350432
+date: 2026-04-02T07:03:25.411785
 url: "/cdr-researcher-census/researchers/himan-dev-singh-a5064321/"
 layout: "researcher"
 hiddenInHomeList: true

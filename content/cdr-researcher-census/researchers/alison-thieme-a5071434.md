@@ -1,7 +1,7 @@
 ---
 title: "Alison Thieme"
 description: "Alison Thieme is a Mid-career General CDR researcher at Agricultural Research Service in US. With 21 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.582764
+date: 2026-04-02T07:03:25.779079
 url: "/cdr-researcher-census/researchers/alison-thieme-a5071434/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Patrick Spraider"
 description: "Patrick Spraider is a Mid-career carbon dioxide removal researcher at Innsbruck Medical University in AT. With 31 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.531773
+date: 2026-04-02T07:03:25.704765
 url: "/cdr-researcher-census/researchers/patrick-spraider-a5087568/"
 layout: "researcher"
 hiddenInHomeList: true

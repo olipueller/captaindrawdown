@@ -1,7 +1,7 @@
 ---
 title: "Xiaolin Liao"
 description: "Xiaolin Liao is a Senior Soil Carbon researcher at Nanjing Forestry University in CN. With 50 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.429848
+date: 2026-04-02T07:03:24.077147
 url: "/cdr-researcher-census/researchers/xiaolin-liao-a5005075/"
 layout: "researcher"
 hiddenInHomeList: true

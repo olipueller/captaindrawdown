@@ -1,7 +1,7 @@
 ---
 title: "Said A. Hamido"
 description: "Said A. Hamido is a Senior Soil Carbon researcher at Rodale Institute in US. With 24 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.412007
+date: 2026-04-02T07:03:25.506832
 url: "/cdr-researcher-census/researchers/said-a-hamido-a5078937/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Eric Verrecchia"
 description: "Eric Verrecchia is a Mid-career Soil Carbon researcher at University of Lausanne in CH. With 50 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.318195
+date: 2026-04-02T07:03:23.934027
 url: "/cdr-researcher-census/researchers/eric-verrecchia-a5055610/"
 layout: "researcher"
 hiddenInHomeList: true

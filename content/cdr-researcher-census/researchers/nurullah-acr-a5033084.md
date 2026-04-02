@@ -1,7 +1,7 @@
 ---
 title: "Nurullah Acır"
 description: "Nurullah Acır is a Mid-career Soil Carbon researcher at Ahi Evran University in TR. With 39 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.882142
+date: 2026-04-02T07:03:24.721709
 url: "/cdr-researcher-census/researchers/nurullah-acr-a5033084/"
 layout: "researcher"
 hiddenInHomeList: true

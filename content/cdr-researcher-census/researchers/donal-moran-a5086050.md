@@ -1,7 +1,7 @@
 ---
 title: "Donal Moran"
 description: "Donal Moran is a Mid-career Biochar researcher at University of Limerick in IE. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.368385
+date: 2026-04-02T07:03:25.440899
 url: "/cdr-researcher-census/researchers/donal-moran-a5086050/"
 layout: "researcher"
 hiddenInHomeList: true

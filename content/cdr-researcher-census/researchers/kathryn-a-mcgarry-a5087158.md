@@ -1,7 +1,7 @@
 ---
 title: "Kathryn A. McGarry"
 description: "Kathryn A. McGarry is a Mid-career carbon dioxide removal researcher at University of Wisconsin–Stevens Point in US. With 36 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.373498
+date: 2026-04-02T07:03:24.009388
 url: "/cdr-researcher-census/researchers/kathryn-a-mcgarry-a5087158/"
 layout: "researcher"
 hiddenInHomeList: true

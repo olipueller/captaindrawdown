@@ -1,7 +1,7 @@
 ---
 title: "Fayas Malik Kanchiralla"
 description: "Fayas Malik Kanchiralla is a Mid-career carbon dioxide removal researcher at Chalmers University of Technology in SE. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.070599
+date: 2026-04-02T07:03:25.012955
 url: "/cdr-researcher-census/researchers/fayas-malik-kanchiralla-a5085629/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Pathikrit Saha"
 description: "Pathikrit Saha is a Mid-career Biochar researcher at University of Minnesota in US. With 16 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.941726
+date: 2026-04-02T07:03:24.817704
 url: "/cdr-researcher-census/researchers/pathikrit-saha-a5084110/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "N. Hoehne"
 description: "N. Hoehne is a Senior General CDR researcher at Wageningen University & Research in NL. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.353521
+date: 2026-04-02T07:03:25.417364
 url: "/cdr-researcher-census/researchers/n-hoehne-a5113971/"
 layout: "researcher"
 hiddenInHomeList: true

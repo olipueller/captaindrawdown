@@ -1,7 +1,7 @@
 ---
 title: "Frederick W. Rainsford"
 description: "Frederick W. Rainsford is a Mid-career General CDR researcher at La Trobe University in AU. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.291980
+date: 2026-04-02T07:03:25.330221
 url: "/cdr-researcher-census/researchers/frederick-w-rainsford-a5043867/"
 layout: "researcher"
 hiddenInHomeList: true

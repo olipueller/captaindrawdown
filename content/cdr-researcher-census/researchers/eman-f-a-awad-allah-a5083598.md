@@ -1,7 +1,7 @@
 ---
 title: "Eman F. A. Awad-Allah"
 description: "Eman F. A. Awad-Allah is a Mid-career carbon dioxide removal researcher at Alexandria University in EG. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.863565
+date: 2026-04-02T07:03:26.163164
 url: "/cdr-researcher-census/researchers/eman-f-a-awad-allah-a5083598/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Andrej Hrabovský"
 description: "Andrej Hrabovský is a Mid-career Soil Carbon researcher at Comenius University Bratislava in SK. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.623436
+date: 2026-04-02T07:03:25.840259
 url: "/cdr-researcher-census/researchers/andrej-hrabovsky-a5033447/"
 layout: "researcher"
 hiddenInHomeList: true

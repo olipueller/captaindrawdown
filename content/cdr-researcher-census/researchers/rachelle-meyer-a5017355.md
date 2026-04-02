@@ -1,7 +1,7 @@
 ---
 title: "Rachelle Meyer"
 description: "Rachelle Meyer is a Mid-career Soil Carbon researcher at The University of Melbourne in AU. With 23 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.143916
+date: 2026-04-02T07:03:25.119789
 url: "/cdr-researcher-census/researchers/rachelle-meyer-a5017355/"
 layout: "researcher"
 hiddenInHomeList: true

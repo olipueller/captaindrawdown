@@ -1,7 +1,7 @@
 ---
 title: "Ahmed Falah Imran"
 description: "Ahmed Falah Imran is an Early-career Biochar researcher at University of Babylon in IQ. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.267806
+date: 2026-04-02T07:03:26.777666
 url: "/cdr-researcher-census/researchers/ahmed-falah-imran-a5107864/"
 layout: "researcher"
 hiddenInHomeList: true

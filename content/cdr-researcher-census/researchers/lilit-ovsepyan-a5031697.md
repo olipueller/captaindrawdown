@@ -1,7 +1,7 @@
 ---
 title: "Lilit Ovsepyan"
 description: "Lilit Ovsepyan is a Mid-career Soil Carbon researcher at University of Tyumen in RU. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.098556
+date: 2026-04-02T07:03:25.052870
 url: "/cdr-researcher-census/researchers/lilit-ovsepyan-a5031697/"
 layout: "researcher"
 hiddenInHomeList: true

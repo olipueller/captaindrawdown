@@ -1,7 +1,7 @@
 ---
 title: "Yu-wei Lu"
 description: "Yu-wei Lu is a Senior Biochar researcher at National Yang Ming Chiao Tung University in TW. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.181767
+date: 2026-04-02T07:03:25.172895
 url: "/cdr-researcher-census/researchers/yu-wei-lu-a5100642/"
 layout: "researcher"
 hiddenInHomeList: true

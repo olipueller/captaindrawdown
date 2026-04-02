@@ -1,7 +1,7 @@
 ---
 title: "Natalia Banegas"
 description: "Natalia Banegas is a Mid-career Soil Carbon researcher at National University of Tucumán in AR. With 32 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.974874
+date: 2026-04-02T07:03:26.327102
 url: "/cdr-researcher-census/researchers/natalia-banegas-a5087297/"
 layout: "researcher"
 hiddenInHomeList: true

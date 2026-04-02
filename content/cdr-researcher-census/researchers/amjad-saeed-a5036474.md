@@ -1,7 +1,7 @@
 ---
 title: "Amjad Saeed"
 description: "Amjad Saeed is a Mid-career Soil Carbon researcher at NED University of Engineering and Technology in PK. With 59 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.146430
+date: 2026-04-02T07:03:25.123461
 url: "/cdr-researcher-census/researchers/amjad-saeed-a5036474/"
 layout: "researcher"
 hiddenInHomeList: true

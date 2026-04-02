@@ -1,7 +1,7 @@
 ---
 title: "Malini Roy Choudhury"
 description: "Malini Roy Choudhury is a Mid-career General CDR researcher at The University of Queensland in AU. With 55 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.700334
+date: 2026-04-02T07:03:24.466110
 url: "/cdr-researcher-census/researchers/malini-roy-choudhury-a5045952/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Rinav Mehta"
 description: "Rinav Mehta is a Senior General CDR researcher. With 5 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.662210
+date: 2026-04-02T07:03:25.901122
 url: "/cdr-researcher-census/researchers/rinav-mehta-a5030530/"
 layout: "researcher"
 hiddenInHomeList: true

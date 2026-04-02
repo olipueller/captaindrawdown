@@ -1,7 +1,7 @@
 ---
 title: "Joscha N. Becker"
 description: "Joscha N. Becker is a Mid-career Biochar researcher at Universität Hamburg in DE. With 71 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.376754
+date: 2026-04-02T07:03:24.013379
 url: "/cdr-researcher-census/researchers/joscha-n-becker-a5012439/"
 layout: "researcher"
 hiddenInHomeList: true

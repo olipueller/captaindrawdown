@@ -1,7 +1,7 @@
 ---
 title: "Guangjin Zhou"
 description: "Guangjin Zhou is a Mid-career General CDR researcher at Ministry of Ecology and Environment in CN. With 23 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.284820
+date: 2026-04-02T07:03:25.318379
 url: "/cdr-researcher-census/researchers/guangjin-zhou-a5024681/"
 layout: "researcher"
 hiddenInHomeList: true

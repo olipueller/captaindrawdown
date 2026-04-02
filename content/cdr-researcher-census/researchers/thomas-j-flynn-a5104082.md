@@ -1,7 +1,7 @@
 ---
 title: "Thomas J. Flynn"
 description: "Thomas J. Flynn is a Senior carbon dioxide removal researcher at Babcock & Wilcox (United States) in US. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.620511
+date: 2026-04-02T07:03:24.349447
 url: "/cdr-researcher-census/researchers/thomas-j-flynn-a5104082/"
 layout: "researcher"
 hiddenInHomeList: true

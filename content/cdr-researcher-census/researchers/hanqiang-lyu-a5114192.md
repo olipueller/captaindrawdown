@@ -1,7 +1,7 @@
 ---
 title: "Hanqiang Lyu"
 description: "Hanqiang Lyu is a Mid-career Soil Carbon researcher. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.299145
+date: 2026-04-02T07:03:25.340663
 url: "/cdr-researcher-census/researchers/hanqiang-lyu-a5114192/"
 layout: "researcher"
 hiddenInHomeList: true

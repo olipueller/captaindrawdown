@@ -1,7 +1,7 @@
 ---
 title: "Kirttiranjan Baral"
 description: "Kirttiranjan Baral is a Mid-career Soil Carbon researcher at Indian Institute of Soil and Water Conservation in IN. With 34 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.418649
+date: 2026-04-02T07:03:25.515859
 url: "/cdr-researcher-census/researchers/kirttiranjan-baral-a5066684/"
 layout: "researcher"
 hiddenInHomeList: true

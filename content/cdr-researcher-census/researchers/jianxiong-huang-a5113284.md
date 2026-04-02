@@ -1,7 +1,7 @@
 ---
 title: "Jianxiong Huang"
 description: "Jianxiong Huang is a Mid-career Soil Carbon researcher at Chinese Academy of Tropical Agricultural Sciences in CN. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.935876
+date: 2026-04-02T07:03:24.807371
 url: "/cdr-researcher-census/researchers/jianxiong-huang-a5113284/"
 layout: "researcher"
 hiddenInHomeList: true

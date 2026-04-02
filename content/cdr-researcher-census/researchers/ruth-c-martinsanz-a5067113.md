@@ -1,7 +1,7 @@
 ---
 title: "Ruth C. Martín‐Sanz"
 description: "Ruth C. Martín‐Sanz is a Mid-career carbon dioxide removal researcher at Universidad de Valladolid in ES. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.769965
+date: 2026-04-02T07:03:26.029416
 url: "/cdr-researcher-census/researchers/ruth-c-martinsanz-a5067113/"
 layout: "researcher"
 hiddenInHomeList: true

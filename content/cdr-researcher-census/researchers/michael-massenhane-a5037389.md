@@ -1,7 +1,7 @@
 ---
 title: "Michael Massen‐Hane"
 description: "Michael Massen‐Hane is a Mid-career carbon dioxide removal researcher at Massachusetts Institute of Technology in US. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.119317
+date: 2026-04-02T07:03:26.533812
 url: "/cdr-researcher-census/researchers/michael-massenhane-a5037389/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Bart L. Fischer"
 description: "Bart L. Fischer is a Mid-career General CDR researcher at Texas A&M University – Central Texas in US. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.857842
+date: 2026-04-02T07:03:26.155266
 url: "/cdr-researcher-census/researchers/bart-l-fischer-a5074891/"
 layout: "researcher"
 hiddenInHomeList: true

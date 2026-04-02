@@ -1,7 +1,7 @@
 ---
 title: "Jianing Liang"
 description: "Jianing Liang is a Mid-career General CDR researcher at Huaqiao University in CN. With 18 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.349141
+date: 2026-04-02T07:03:26.894606
 url: "/cdr-researcher-census/researchers/jianing-liang-a5111945/"
 layout: "researcher"
 hiddenInHomeList: true

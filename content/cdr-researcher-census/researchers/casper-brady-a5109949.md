@@ -1,7 +1,7 @@
 ---
 title: "Casper Brady"
 description: "Casper Brady is a Mid-career DAC researcher at Glenn Research Center in US. With 21 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.589040
+date: 2026-04-02T07:03:24.303447
 url: "/cdr-researcher-census/researchers/casper-brady-a5109949/"
 layout: "researcher"
 hiddenInHomeList: true

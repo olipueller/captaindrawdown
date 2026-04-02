@@ -1,7 +1,7 @@
 ---
 title: "K. Suganya"
 description: "K. Suganya is a Mid-career Soil Carbon researcher at Tamil Nadu Agricultural University in IN. With 66 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.916666
+date: 2026-04-02T07:03:24.777656
 url: "/cdr-researcher-census/researchers/k-suganya-a5078084/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Lisette Phelan"
 description: "Lisette Phelan is a Mid-career General CDR researcher at Harper Adams University in GB. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.338308
+date: 2026-04-02T07:03:26.878084
 url: "/cdr-researcher-census/researchers/lisette-phelan-a5046469/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Faezrul Zackry Abdul Halim"
 description: "Faezrul Zackry Abdul Halim is an Early-career Biochar researcher at Universiti Malaysia Sarawak in MY. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.398367
+date: 2026-04-02T07:03:25.485771
 url: "/cdr-researcher-census/researchers/faezrul-zackry-abdul-halim-a5002050/"
 layout: "researcher"
 hiddenInHomeList: true

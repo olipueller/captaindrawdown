@@ -1,7 +1,7 @@
 ---
 title: "Weiguang Guo"
 description: "Weiguang Guo is a Mid-career carbon dioxide removal researcher at Sichuan Academy Of Social Sciences in CN. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.007996
+date: 2026-04-02T07:03:26.372582
 url: "/cdr-researcher-census/researchers/weiguang-guo-a5073908/"
 layout: "researcher"
 hiddenInHomeList: true

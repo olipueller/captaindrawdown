@@ -1,7 +1,7 @@
 ---
 title: "Oriol Gutiérrez‐Sánchez"
 description: "Oriol Gutiérrez‐Sánchez is a Mid-career DAC researcher at Umicore (Belgium) in BE. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.777591
+date: 2026-04-02T07:03:24.579270
 url: "/cdr-researcher-census/researchers/oriol-gutierrezsanchez-a5081524/"
 layout: "researcher"
 hiddenInHomeList: true

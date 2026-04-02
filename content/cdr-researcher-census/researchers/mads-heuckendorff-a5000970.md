@@ -1,7 +1,7 @@
 ---
 title: "Mads Heuckendorff"
 description: "Mads Heuckendorff is a Senior DAC researcher at Cowi (Denmark) in DK. With 28 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.708049
+date: 2026-04-02T07:03:24.477175
 url: "/cdr-researcher-census/researchers/mads-heuckendorff-a5000970/"
 layout: "researcher"
 hiddenInHomeList: true

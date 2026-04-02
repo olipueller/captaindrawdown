@@ -1,7 +1,7 @@
 ---
 title: "Morgan P. Davis"
 description: "Morgan P. Davis is a Mid-career Soil Carbon researcher at University of Missouri in US. With 34 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.235346
+date: 2026-04-02T07:03:25.256898
 url: "/cdr-researcher-census/researchers/morgan-p-davis-a5025726/"
 layout: "researcher"
 hiddenInHomeList: true

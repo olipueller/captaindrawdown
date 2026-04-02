@@ -1,7 +1,7 @@
 ---
 title: "Alison Mohr"
 description: "Alison Mohr is a Senior BECCS researcher at University of Nottingham in GB. With 37 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.412988
+date: 2026-04-02T07:03:24.054084
 url: "/cdr-researcher-census/researchers/alison-mohr-a5021924/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Maegen Simmonds"
 description: "Maegen Simmonds is a Mid-career General CDR researcher at Lawrence Berkeley National Laboratory in US. With 32 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.197812
+date: 2026-04-02T07:03:25.196150
 url: "/cdr-researcher-census/researchers/maegen-simmonds-a5066763/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Justus van Ramshorst"
 description: "Justus van Ramshorst is a Mid-career General CDR researcher at University of Exeter in GB. With 28 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.682718
+date: 2026-04-02T07:03:25.933226
 url: "/cdr-researcher-census/researchers/justus-van-ramshorst-a5047952/"
 layout: "researcher"
 hiddenInHomeList: true

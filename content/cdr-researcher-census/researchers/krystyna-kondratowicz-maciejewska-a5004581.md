@@ -1,7 +1,7 @@
 ---
 title: "Krystyna Kondratowicz-Maciejewska"
 description: "Krystyna Kondratowicz-Maciejewska is a Senior Soil Carbon researcher at Bydgoszcz University of Science and Technology in PL. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.788071
+date: 2026-04-02T07:03:26.054825
 url: "/cdr-researcher-census/researchers/krystyna-kondratowicz-maciejewska-a5004581/"
 layout: "researcher"
 hiddenInHomeList: true

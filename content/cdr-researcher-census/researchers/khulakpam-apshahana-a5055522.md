@@ -1,7 +1,7 @@
 ---
 title: "Khulakpam Apshahana"
 description: "Khulakpam Apshahana is an Early-career BECCS researcher at North Eastern Hill University in IN. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.441720
+date: 2026-04-02T07:03:27.029246
 url: "/cdr-researcher-census/researchers/khulakpam-apshahana-a5055522/"
 layout: "researcher"
 hiddenInHomeList: true

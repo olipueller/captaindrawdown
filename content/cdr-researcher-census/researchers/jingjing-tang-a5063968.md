@@ -1,7 +1,7 @@
 ---
 title: "Jingjing Tang"
 description: "Jingjing Tang is a Mid-career General CDR researcher at Guangxi University in CN. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.204687
+date: 2026-04-02T07:03:26.686650
 url: "/cdr-researcher-census/researchers/jingjing-tang-a5063968/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "F Holden"
 description: "F Holden is an Early-career Enhanced Weathering researcher at James Cook University in AU. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.066130
+date: 2026-04-02T07:03:26.459934
 url: "/cdr-researcher-census/researchers/f-holden-a5113302/"
 layout: "researcher"
 hiddenInHomeList: true

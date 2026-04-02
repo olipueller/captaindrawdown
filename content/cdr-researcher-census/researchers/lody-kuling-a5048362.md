@@ -1,7 +1,7 @@
 ---
 title: "Lody Kuling"
 description: "Lody Kuling is a Mid-career carbon dioxide removal researcher. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.043324
+date: 2026-04-02T07:03:26.425967
 url: "/cdr-researcher-census/researchers/lody-kuling-a5048362/"
 layout: "researcher"
 hiddenInHomeList: true

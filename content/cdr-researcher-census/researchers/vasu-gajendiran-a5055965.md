@@ -1,7 +1,7 @@
 ---
 title: "Vasu Gajendiran"
 description: "Vasu Gajendiran is a Mid-career Biochar researcher at Dhofar University in OM. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.310635
+date: 2026-04-02T07:03:26.844076
 url: "/cdr-researcher-census/researchers/vasu-gajendiran-a5055965/"
 layout: "researcher"
 hiddenInHomeList: true

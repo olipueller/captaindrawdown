@@ -1,7 +1,7 @@
 ---
 title: "Laura Trozzo"
 description: "Laura Trozzo is a Mid-career Biochar researcher at Marche Polytechnic University in IT. With 21 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.167899
+date: 2026-04-02T07:03:25.153071
 url: "/cdr-researcher-census/researchers/laura-trozzo-a5018448/"
 layout: "researcher"
 hiddenInHomeList: true

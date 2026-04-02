@@ -1,7 +1,7 @@
 ---
 title: "Michele Colozzi"
 description: "Michele Colozzi is a Mid-career carbon dioxide removal researcher. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.465672
+date: 2026-04-02T07:03:25.586617
 url: "/cdr-researcher-census/researchers/michele-colozzi-a5032742/"
 layout: "researcher"
 hiddenInHomeList: true

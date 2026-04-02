@@ -1,7 +1,7 @@
 ---
 title: "Yuanhe Yu"
 description: "Yuanhe Yu is a Mid-career General CDR researcher at Southwest Forestry University in CN. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.315883
+date: 2026-04-02T07:03:25.363496
 url: "/cdr-researcher-census/researchers/yuanhe-yu-a5053710/"
 layout: "researcher"
 hiddenInHomeList: true

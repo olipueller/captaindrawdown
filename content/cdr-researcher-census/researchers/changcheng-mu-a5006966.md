@@ -1,7 +1,7 @@
 ---
 title: "Changcheng Mu"
 description: "Changcheng Mu is a Senior Soil Carbon researcher at Northeast Forestry University in CN. With 57 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.026498
+date: 2026-04-02T07:03:24.946051
 url: "/cdr-researcher-census/researchers/changcheng-mu-a5006966/"
 layout: "researcher"
 hiddenInHomeList: true

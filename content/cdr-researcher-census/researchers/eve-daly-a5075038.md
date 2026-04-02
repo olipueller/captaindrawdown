@@ -1,7 +1,7 @@
 ---
 title: "Eve Daly"
 description: "Eve Daly is a Senior Soil Carbon researcher at National University of Ireland in IE. With 62 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.465245
+date: 2026-04-02T07:03:24.126948
 url: "/cdr-researcher-census/researchers/eve-daly-a5075038/"
 layout: "researcher"
 hiddenInHomeList: true

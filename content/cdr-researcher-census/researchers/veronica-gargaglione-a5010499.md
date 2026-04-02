@@ -1,7 +1,7 @@
 ---
 title: "Veronica Gargaglione"
 description: "Veronica Gargaglione is a Mid-career carbon dioxide removal researcher at National Agricultural Technology Institute in AR. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.589396
+date: 2026-04-02T07:03:25.789445
 url: "/cdr-researcher-census/researchers/veronica-gargaglione-a5010499/"
 layout: "researcher"
 hiddenInHomeList: true

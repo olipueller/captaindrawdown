@@ -1,7 +1,7 @@
 ---
 title: "Iñaki Castillo"
 description: "Iñaki Castillo is a Senior General CDR researcher. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.329581
+date: 2026-04-02T07:03:26.867734
 url: "/cdr-researcher-census/researchers/inaki-castillo-a5034823/"
 layout: "researcher"
 hiddenInHomeList: true

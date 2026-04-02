@@ -1,7 +1,7 @@
 ---
 title: "Mehedi Amin"
 description: "Mehedi Amin is an Early-career Biochar researcher at Sher-e-Bangla Agricultural University in BD. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.897249
+date: 2026-04-02T07:03:26.211881
 url: "/cdr-researcher-census/researchers/mehedi-amin-a5101717/"
 layout: "researcher"
 hiddenInHomeList: true

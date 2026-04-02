@@ -1,7 +1,7 @@
 ---
 title: "Qingyue Cheng"
 description: "Qingyue Cheng is a Mid-career Biochar researcher at Sichuan Agricultural University in CN. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.379668
+date: 2026-04-02T07:03:26.937772
 url: "/cdr-researcher-census/researchers/qingyue-cheng-a5017949/"
 layout: "researcher"
 hiddenInHomeList: true

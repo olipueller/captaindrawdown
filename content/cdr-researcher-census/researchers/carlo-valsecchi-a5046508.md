@@ -1,7 +1,7 @@
 ---
 title: "Carlo Valsecchi"
 description: "Carlo Valsecchi is a Senior carbon dioxide removal researcher at Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico in IT. With 19 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.573467
+date: 2026-04-02T07:03:24.281813
 url: "/cdr-researcher-census/researchers/carlo-valsecchi-a5046508/"
 layout: "researcher"
 hiddenInHomeList: true

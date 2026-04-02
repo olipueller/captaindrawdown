@@ -1,7 +1,7 @@
 ---
 title: "Alok Kumar Tiwari"
 description: "Alok Kumar Tiwari is a Mid-career Biochar researcher at Parul University in IN. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.111201
+date: 2026-04-02T07:03:26.522220
 url: "/cdr-researcher-census/researchers/alok-kumar-tiwari-a5101483/"
 layout: "researcher"
 hiddenInHomeList: true

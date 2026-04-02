@@ -1,7 +1,7 @@
 ---
 title: "Dalen Zuidema"
 description: "Dalen Zuidema is a Mid-career Soil Carbon researcher at South Dakota State University in US. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.456215
+date: 2026-04-02T07:03:25.570397
 url: "/cdr-researcher-census/researchers/dalen-zuidema-a5011490/"
 layout: "researcher"
 hiddenInHomeList: true

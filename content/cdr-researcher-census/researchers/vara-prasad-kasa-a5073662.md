@@ -1,7 +1,7 @@
 ---
 title: "Vara Prasad Kasa"
 description: "Vara Prasad Kasa is a Mid-career General CDR researcher at Indian Institute of Technology Kharagpur in IN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.099297
+date: 2026-04-02T07:03:26.505349
 url: "/cdr-researcher-census/researchers/vara-prasad-kasa-a5073662/"
 layout: "researcher"
 hiddenInHomeList: true

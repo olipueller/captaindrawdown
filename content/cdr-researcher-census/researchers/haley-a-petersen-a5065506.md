@@ -1,7 +1,7 @@
 ---
 title: "Haley A. Petersen"
 description: "Haley A. Petersen is a Mid-career carbon dioxide removal researcher at University of Colorado Boulder in US. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.496546
+date: 2026-04-02T07:03:25.655256
 url: "/cdr-researcher-census/researchers/haley-a-petersen-a5065506/"
 layout: "researcher"
 hiddenInHomeList: true

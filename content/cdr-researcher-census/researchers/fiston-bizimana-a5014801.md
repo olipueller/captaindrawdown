@@ -1,7 +1,7 @@
 ---
 title: "Fiston Bizimana"
 description: "Fiston Bizimana is a Mid-career Soil Carbon researcher at Ministry of Agriculture in EE. With 23 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.407490
+date: 2026-04-02T07:03:25.499383
 url: "/cdr-researcher-census/researchers/fiston-bizimana-a5014801/"
 layout: "researcher"
 hiddenInHomeList: true

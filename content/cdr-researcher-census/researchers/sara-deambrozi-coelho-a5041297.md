@@ -1,7 +1,7 @@
 ---
 title: "Sara Deambrozi Coelho"
 description: "Sara Deambrozi Coelho is a Mid-career carbon dioxide removal researcher at Instituto Nacional de Pesquisas da Amazônia in BR. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.909358
+date: 2026-04-02T07:03:24.765113
 url: "/cdr-researcher-census/researchers/sara-deambrozi-coelho-a5041297/"
 layout: "researcher"
 hiddenInHomeList: true

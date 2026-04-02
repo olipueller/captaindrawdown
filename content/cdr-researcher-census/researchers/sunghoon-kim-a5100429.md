@@ -1,7 +1,7 @@
 ---
 title: "Sunghoon Kim"
 description: "Sunghoon Kim is a Senior Ocean CDR researcher at University of California, Santa Barbara in US. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.397509
+date: 2026-04-02T07:03:25.484116
 url: "/cdr-researcher-census/researchers/sunghoon-kim-a5100429/"
 layout: "researcher"
 hiddenInHomeList: true

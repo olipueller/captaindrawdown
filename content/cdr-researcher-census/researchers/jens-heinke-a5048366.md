@@ -1,7 +1,7 @@
 ---
 title: "Jens Heinke"
 description: "Jens Heinke is an Eminent Soil Carbon researcher at Potsdam Institute for Climate Impact Research in DE. With 212 publications and an h-index of 46, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.073930
+date: 2026-04-02T07:03:23.615386
 url: "/cdr-researcher-census/researchers/jens-heinke-a5048366/"
 layout: "researcher"
 hiddenInHomeList: true

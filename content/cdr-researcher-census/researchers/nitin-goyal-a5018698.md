@@ -1,7 +1,7 @@
 ---
 title: "Nitin Goyal"
 description: "Nitin Goyal is a Mid-career carbon dioxide removal researcher at Huaqiao University in CN. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.726106
+date: 2026-04-02T07:03:24.503653
 url: "/cdr-researcher-census/researchers/nitin-goyal-a5018698/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Zhigang Yan"
 description: "Zhigang Yan is a Senior General CDR researcher at China University of Mining and Technology in CN. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.513073
+date: 2026-04-02T07:03:24.190232
 url: "/cdr-researcher-census/researchers/zhigang-yan-a5102509/"
 layout: "researcher"
 hiddenInHomeList: true

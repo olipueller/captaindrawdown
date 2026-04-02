@@ -1,7 +1,7 @@
 ---
 title: "Virginia Sánchez‐Navarro"
 description: "Virginia Sánchez‐Navarro is a Mid-career Soil Carbon researcher at Universidad Politécnica de Cartagena in ES. With 68 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.583591
+date: 2026-04-02T07:03:24.295700
 url: "/cdr-researcher-census/researchers/virginia-sancheznavarro-a5040536/"
 layout: "researcher"
 hiddenInHomeList: true

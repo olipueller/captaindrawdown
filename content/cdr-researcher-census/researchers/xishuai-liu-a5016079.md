@@ -1,7 +1,7 @@
 ---
 title: "Xishuai Liu"
 description: "Xishuai Liu is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.037230
+date: 2026-04-02T07:03:26.416137
 url: "/cdr-researcher-census/researchers/xishuai-liu-a5016079/"
 layout: "researcher"
 hiddenInHomeList: true

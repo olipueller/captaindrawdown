@@ -1,7 +1,7 @@
 ---
 title: "Amiee Jackson"
 description: "Amiee Jackson is a Senior carbon dioxide removal researcher. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.033170
+date: 2026-04-02T07:03:26.409862
 url: "/cdr-researcher-census/researchers/amiee-jackson-a5058240/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Hans Sandén"
 description: "Hans Sandén is a Senior Soil Carbon researcher at Universität für Bodenkultur Wien in AT. With 80 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.325562
+date: 2026-04-02T07:03:23.943848
 url: "/cdr-researcher-census/researchers/hans-sanden-a5085517/"
 layout: "researcher"
 hiddenInHomeList: true

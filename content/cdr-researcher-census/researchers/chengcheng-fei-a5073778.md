@@ -1,7 +1,7 @@
 ---
 title: "Chengcheng Fei"
 description: "Chengcheng Fei is a Mid-career General CDR researcher at Mitchell Institute in US. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.882758
+date: 2026-04-02T07:03:24.722737
 url: "/cdr-researcher-census/researchers/chengcheng-fei-a5073778/"
 layout: "researcher"
 hiddenInHomeList: true

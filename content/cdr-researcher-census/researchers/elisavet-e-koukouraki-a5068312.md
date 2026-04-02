@@ -1,7 +1,7 @@
 ---
 title: "Elisavet E. Koukouraki"
 description: "Elisavet E. Koukouraki is a Senior Biochar researcher at Technical University of Crete in GR. With 11 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.391384
+date: 2026-04-02T07:03:25.473317
 url: "/cdr-researcher-census/researchers/elisavet-e-koukouraki-a5068312/"
 layout: "researcher"
 hiddenInHomeList: true

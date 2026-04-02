@@ -1,7 +1,7 @@
 ---
 title: "Amanda L. Kummeth"
 description: "Amanda L. Kummeth is an Early-career carbon dioxide removal researcher at University of California, Irvine in US. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.813902
+date: 2026-04-02T07:03:26.093018
 url: "/cdr-researcher-census/researchers/amanda-l-kummeth-a5004436/"
 layout: "researcher"
 hiddenInHomeList: true

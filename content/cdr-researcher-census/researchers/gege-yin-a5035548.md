@@ -1,7 +1,7 @@
 ---
 title: "Gege Yin"
 description: "Gege Yin is a Mid-career Biochar researcher at Peking University in CN. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.896120
+date: 2026-04-02T07:03:26.210221
 url: "/cdr-researcher-census/researchers/gege-yin-a5035548/"
 layout: "researcher"
 hiddenInHomeList: true

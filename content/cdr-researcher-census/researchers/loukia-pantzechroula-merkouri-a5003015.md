@@ -1,7 +1,7 @@
 ---
 title: "Loukia-Pantzechroula Merkouri"
 description: "Loukia-Pantzechroula Merkouri is a Mid-career DAC researcher at University of Surrey in GB. With 22 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.028219
+date: 2026-04-02T07:03:24.948518
 url: "/cdr-researcher-census/researchers/loukia-pantzechroula-merkouri-a5003015/"
 layout: "researcher"
 hiddenInHomeList: true

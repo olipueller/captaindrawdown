@@ -1,7 +1,7 @@
 ---
 title: "Timothée Bourgeois"
 description: "Timothée Bourgeois is a Mid-career General CDR researcher at Bjerknes Centre for Climate Research in NO. With 47 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.984563
+date: 2026-04-02T07:03:24.885328
 url: "/cdr-researcher-census/researchers/timothee-bourgeois-a5041193/"
 layout: "researcher"
 hiddenInHomeList: true

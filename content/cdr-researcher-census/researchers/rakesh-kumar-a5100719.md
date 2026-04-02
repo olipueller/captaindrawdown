@@ -1,7 +1,7 @@
 ---
 title: "Rakesh Kumar"
 description: "Rakesh Kumar is a Mid-career General CDR researcher at Chandigarh University in IN. With 14 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.114636
+date: 2026-04-02T07:03:26.526815
 url: "/cdr-researcher-census/researchers/rakesh-kumar-a5100719/"
 layout: "researcher"
 hiddenInHomeList: true

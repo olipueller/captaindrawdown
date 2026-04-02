@@ -1,7 +1,7 @@
 ---
 title: "Eric Siddall"
 description: "Eric Siddall is a Mid-career carbon dioxide removal researcher at Columbia University Irving Medical Center in US. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.551699
+date: 2026-04-02T07:03:24.250347
 url: "/cdr-researcher-census/researchers/eric-siddall-a5024811/"
 layout: "researcher"
 hiddenInHomeList: true

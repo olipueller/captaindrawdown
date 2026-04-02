@@ -1,7 +1,7 @@
 ---
 title: "Shiv Vendra Singh"
 description: "Shiv Vendra Singh is a Mid-career Soil Carbon researcher at Narayan Medical College and Hospital in IN. With 53 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.712981
+date: 2026-04-02T07:03:24.483820
 url: "/cdr-researcher-census/researchers/shiv-vendra-singh-a5001338/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Margarita A. Charalambous"
 description: "Margarita A. Charalambous is a Mid-career General CDR researcher at ETH Zurich in CH. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.690353
+date: 2026-04-02T07:03:25.943927
 url: "/cdr-researcher-census/researchers/margarita-a-charalambous-a5067951/"
 layout: "researcher"
 hiddenInHomeList: true

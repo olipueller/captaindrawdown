@@ -1,7 +1,7 @@
 ---
 title: "Markus Millinger"
 description: "Markus Millinger is a Mid-career BECCS researcher at RISE Research Institutes of Sweden in SE. With 52 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.641700
+date: 2026-04-02T07:03:24.377953
 url: "/cdr-researcher-census/researchers/markus-millinger-a5029145/"
 layout: "researcher"
 hiddenInHomeList: true

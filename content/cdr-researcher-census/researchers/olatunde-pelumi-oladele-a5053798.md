@@ -1,7 +1,7 @@
 ---
 title: "Olatunde Pelumi Oladele"
 description: "Olatunde Pelumi Oladele is a Mid-career Soil Carbon researcher at Ministry of Agriculture and Rural Affairs in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.954639
+date: 2026-04-02T07:03:26.299042
 url: "/cdr-researcher-census/researchers/olatunde-pelumi-oladele-a5053798/"
 layout: "researcher"
 hiddenInHomeList: true

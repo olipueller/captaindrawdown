@@ -1,7 +1,7 @@
 ---
 title: "Imtiaz Ahmed"
 description: "Imtiaz Ahmed is a Senior Soil Carbon researcher at American International University-Bangladesh in BD. With 34 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.105084
+date: 2026-04-02T07:03:26.513263
 url: "/cdr-researcher-census/researchers/imtiaz-ahmed-a5110626/"
 layout: "researcher"
 hiddenInHomeList: true

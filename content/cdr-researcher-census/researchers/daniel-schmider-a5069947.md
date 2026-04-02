@@ -1,7 +1,7 @@
 ---
 title: "Daniel Schmider"
 description: "Daniel Schmider is a Mid-career DAC researcher at European Institute for Energy Research in DE. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.304205
+date: 2026-04-02T07:03:25.347283
 url: "/cdr-researcher-census/researchers/daniel-schmider-a5069947/"
 layout: "researcher"
 hiddenInHomeList: true

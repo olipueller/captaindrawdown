@@ -1,7 +1,7 @@
 ---
 title: "Aida Cuni-Sanchez"
 description: "Aida Cuni-Sanchez is an Early-career Soil Carbon researcher at University of York in GB. With 9 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.788477
+date: 2026-04-02T07:03:26.055475
 url: "/cdr-researcher-census/researchers/aida-cuni-sanchez-a5108146/"
 layout: "researcher"
 hiddenInHomeList: true

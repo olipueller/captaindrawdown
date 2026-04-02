@@ -1,7 +1,7 @@
 ---
 title: "D. R. K. Saikanth"
 description: "D. R. K. Saikanth is a Mid-career Soil Carbon researcher at Indian Institute of Millets Research in IN. With 50 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.801321
+date: 2026-04-02T07:03:24.611432
 url: "/cdr-researcher-census/researchers/d-r-k-saikanth-a5058973/"
 layout: "researcher"
 hiddenInHomeList: true

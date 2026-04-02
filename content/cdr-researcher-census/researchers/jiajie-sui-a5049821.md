@@ -1,7 +1,7 @@
 ---
 title: "Jiajie Sui"
 description: "Jiajie Sui is a Mid-career DAC researcher at University of Wisconsin–Madison in US. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.602439
+date: 2026-04-02T07:03:24.323726
 url: "/cdr-researcher-census/researchers/jiajie-sui-a5049821/"
 layout: "researcher"
 hiddenInHomeList: true

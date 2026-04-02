@@ -1,7 +1,7 @@
 ---
 title: "Bronwyn Cahill"
 description: "Bronwyn Cahill is a Senior Ocean CDR researcher at Leibniz Institute for Baltic Sea Research in DE. With 35 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.852211
+date: 2026-04-02T07:03:24.678046
 url: "/cdr-researcher-census/researchers/bronwyn-cahill-a5019233/"
 layout: "researcher"
 hiddenInHomeList: true

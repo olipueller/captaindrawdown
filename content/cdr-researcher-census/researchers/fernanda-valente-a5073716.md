@@ -1,7 +1,7 @@
 ---
 title: "Fernanda Valente"
 description: "Fernanda Valente is a Mid-career Soil Carbon researcher at University of Lisbon in PT. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.295358
+date: 2026-04-02T07:03:26.819916
 url: "/cdr-researcher-census/researchers/fernanda-valente-a5073716/"
 layout: "researcher"
 hiddenInHomeList: true

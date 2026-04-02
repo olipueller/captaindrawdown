@@ -1,7 +1,7 @@
 ---
 title: "Lizny Jaufer"
 description: "Lizny Jaufer is a Mid-career Soil Carbon researcher at Machine Science in US. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.252164
+date: 2026-04-02T07:03:26.752365
 url: "/cdr-researcher-census/researchers/lizny-jaufer-a5015545/"
 layout: "researcher"
 hiddenInHomeList: true

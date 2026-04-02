@@ -1,7 +1,7 @@
 ---
 title: "Anshuman Das"
 description: "Anshuman Das is a Mid-career Soil Carbon researcher at Indian Council of Forestry Research and Education in IN. With 21 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.290542
+date: 2026-04-02T07:03:26.813025
 url: "/cdr-researcher-census/researchers/anshuman-das-a5088324/"
 layout: "researcher"
 hiddenInHomeList: true

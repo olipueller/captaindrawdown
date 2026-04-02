@@ -1,7 +1,7 @@
 ---
 title: "Jessica Chiartas"
 description: "Jessica Chiartas is a Mid-career Soil Carbon researcher at University of California, Davis in US. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.107510
+date: 2026-04-02T07:03:25.066019
 url: "/cdr-researcher-census/researchers/jessica-chiartas-a5007559/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Lena Rohe"
 description: "Lena Rohe is a Mid-career Soil Carbon researcher at Helmholtz Centre for Environmental Research in DE. With 51 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.559731
+date: 2026-04-02T07:03:24.262161
 url: "/cdr-researcher-census/researchers/lena-rohe-a5063380/"
 layout: "researcher"
 hiddenInHomeList: true

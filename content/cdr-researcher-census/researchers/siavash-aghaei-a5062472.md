@@ -1,7 +1,7 @@
 ---
 title: "Siavash Aghaei"
 description: "Siavash Aghaei is an Early-career carbon dioxide removal researcher at Technische Universität Braunschweig in DE. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.329128
+date: 2026-04-02T07:03:25.382037
 url: "/cdr-researcher-census/researchers/siavash-aghaei-a5062472/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Maria Faragò"
 description: "Maria Faragò is a Mid-career Biochar researcher at Ramboll (Denmark) in DK. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.350632
+date: 2026-04-02T07:03:25.412161
 url: "/cdr-researcher-census/researchers/maria-farago-a5032967/"
 layout: "researcher"
 hiddenInHomeList: true

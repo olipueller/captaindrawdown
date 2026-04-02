@@ -1,7 +1,7 @@
 ---
 title: "Hoda Hosseini"
 description: "Hoda Hosseini is a Mid-career carbon dioxide removal researcher at Qatar University in QA. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.804145
+date: 2026-04-02T07:03:26.078713
 url: "/cdr-researcher-census/researchers/hoda-hosseini-a5054798/"
 layout: "researcher"
 hiddenInHomeList: true

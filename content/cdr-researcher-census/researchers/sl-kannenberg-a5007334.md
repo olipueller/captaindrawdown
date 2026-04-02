@@ -1,7 +1,7 @@
 ---
 title: "S.L. Kannenberg"
 description: "S.L. Kannenberg is a Senior Soil Carbon researcher at West Virginia University in US. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.311654
+date: 2026-04-02T07:03:26.845388
 url: "/cdr-researcher-census/researchers/sl-kannenberg-a5007334/"
 layout: "researcher"
 hiddenInHomeList: true

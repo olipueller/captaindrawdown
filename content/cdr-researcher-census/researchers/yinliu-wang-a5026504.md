@@ -1,7 +1,7 @@
 ---
 title: "Yinliu Wang"
 description: "Yinliu Wang is a Mid-career Soil Carbon researcher at University of Copenhagen in DK. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.495413
+date: 2026-04-02T07:03:25.653536
 url: "/cdr-researcher-census/researchers/yinliu-wang-a5026504/"
 layout: "researcher"
 hiddenInHomeList: true

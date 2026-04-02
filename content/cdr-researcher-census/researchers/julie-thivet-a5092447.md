@@ -1,7 +1,7 @@
 ---
 title: "Julie Thivet"
 description: "Julie Thivet is an Early-career Biochar researcher at École Nationale Supérieure de Chimie de Montpellier in FR. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.355086
+date: 2026-04-02T07:03:26.902788
 url: "/cdr-researcher-census/researchers/julie-thivet-a5092447/"
 layout: "researcher"
 hiddenInHomeList: true

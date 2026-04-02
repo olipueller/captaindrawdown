@@ -1,7 +1,7 @@
 ---
 title: "Hong Tang"
 description: "Hong Tang is a Senior carbon dioxide removal researcher at National University of Singapore in SG. With 161 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.443617
+date: 2026-04-02T07:03:24.095282
 url: "/cdr-researcher-census/researchers/hong-tang-a5051316/"
 layout: "researcher"
 hiddenInHomeList: true

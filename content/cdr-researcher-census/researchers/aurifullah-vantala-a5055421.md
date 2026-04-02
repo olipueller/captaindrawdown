@@ -1,7 +1,7 @@
 ---
 title: "Aurifullah Vantala"
 description: "Aurifullah Vantala is a Senior General CDR researcher at Abu Dhabi National Oil (United Arab Emirates) in AE. With 28 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.456007
+date: 2026-04-02T07:03:25.570080
 url: "/cdr-researcher-census/researchers/aurifullah-vantala-a5055421/"
 layout: "researcher"
 hiddenInHomeList: true

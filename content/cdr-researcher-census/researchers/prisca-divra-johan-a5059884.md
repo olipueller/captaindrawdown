@@ -1,7 +1,7 @@
 ---
 title: "Prisca Divra Johan"
 description: "Prisca Divra Johan is a Mid-career Biochar researcher at Universiti Putra Malaysia in MY. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.074211
+date: 2026-04-02T07:03:25.018147
 url: "/cdr-researcher-census/researchers/prisca-divra-johan-a5059884/"
 layout: "researcher"
 hiddenInHomeList: true

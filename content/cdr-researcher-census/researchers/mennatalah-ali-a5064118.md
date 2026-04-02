@@ -1,7 +1,7 @@
 ---
 title: "Mennatalah Ali"
 description: "Mennatalah Ali is a Mid-career Ocean CDR researcher. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.703919
+date: 2026-04-02T07:03:25.965999
 url: "/cdr-researcher-census/researchers/mennatalah-ali-a5064118/"
 layout: "researcher"
 hiddenInHomeList: true

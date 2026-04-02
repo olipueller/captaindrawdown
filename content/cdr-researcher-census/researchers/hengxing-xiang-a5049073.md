@@ -1,7 +1,7 @@
 ---
 title: "Hengxing Xiang"
 description: "Hengxing Xiang is a Mid-career General CDR researcher at Chinese Academy of Sciences in CN. With 27 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.470408
+date: 2026-04-02T07:03:24.133694
 url: "/cdr-researcher-census/researchers/hengxing-xiang-a5049073/"
 layout: "researcher"
 hiddenInHomeList: true

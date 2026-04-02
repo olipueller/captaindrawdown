@@ -1,7 +1,7 @@
 ---
 title: "Ellen G. Polites"
 description: "Ellen G. Polites is a Mid-career Enhanced Weathering researcher at University of Wyoming in US. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.939004
+date: 2026-04-02T07:03:26.276744
 url: "/cdr-researcher-census/researchers/ellen-g-polites-a5003535/"
 layout: "researcher"
 hiddenInHomeList: true

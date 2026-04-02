@@ -1,7 +1,7 @@
 ---
 title: "Zhenlu Qiu"
 description: "Zhenlu Qiu is a Mid-career Soil Carbon researcher. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.428535
+date: 2026-04-02T07:03:27.009102
 url: "/cdr-researcher-census/researchers/zhenlu-qiu-a5048814/"
 layout: "researcher"
 hiddenInHomeList: true

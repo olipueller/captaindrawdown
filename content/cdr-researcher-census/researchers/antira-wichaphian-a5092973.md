@@ -1,7 +1,7 @@
 ---
 title: "Antira Wichaphian"
 description: "Antira Wichaphian is a Mid-career General CDR researcher at Chiang Mai University in TH. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.254647
+date: 2026-04-02T07:03:26.756231
 url: "/cdr-researcher-census/researchers/antira-wichaphian-a5092973/"
 layout: "researcher"
 hiddenInHomeList: true

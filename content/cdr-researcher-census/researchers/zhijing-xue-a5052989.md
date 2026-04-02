@@ -1,7 +1,7 @@
 ---
 title: "Zhijing Xue"
 description: "Zhijing Xue is a Mid-career Soil Carbon researcher at Shaanxi Normal University in CN. With 36 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.449374
+date: 2026-04-02T07:03:24.103547
 url: "/cdr-researcher-census/researchers/zhijing-xue-a5052989/"
 layout: "researcher"
 hiddenInHomeList: true

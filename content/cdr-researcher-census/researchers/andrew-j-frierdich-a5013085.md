@@ -1,7 +1,7 @@
 ---
 title: "Andrew J. Frierdich"
 description: "Andrew J. Frierdich is a Senior Enhanced Weathering researcher at MONASH UNIVERSITY in AU. With 58 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.291385
+date: 2026-04-02T07:03:23.898563
 url: "/cdr-researcher-census/researchers/andrew-j-frierdich-a5013085/"
 layout: "researcher"
 hiddenInHomeList: true

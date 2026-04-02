@@ -1,7 +1,7 @@
 ---
 title: "Rishabh Kaushik"
 description: "Rishabh Kaushik is a Mid-career Biochar researcher at Syngenta (United Kingdom) in GB. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.280029
+date: 2026-04-02T07:03:26.796652
 url: "/cdr-researcher-census/researchers/rishabh-kaushik-a5045447/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "W. Marijn van der Meij"
 description: "W. Marijn van der Meij is a Mid-career Soil Carbon researcher at University of Cologne in DE. With 59 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.952621
+date: 2026-04-02T07:03:24.834348
 url: "/cdr-researcher-census/researchers/w-marijn-van-der-meij-a5069459/"
 layout: "researcher"
 hiddenInHomeList: true

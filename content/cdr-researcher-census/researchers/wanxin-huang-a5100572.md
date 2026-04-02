@@ -1,7 +1,7 @@
 ---
 title: "Wanxin Huang"
 description: "Wanxin Huang is a Mid-career Soil Carbon researcher at University of Notre Dame in US. With 22 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.303948
+date: 2026-04-02T07:03:26.833540
 url: "/cdr-researcher-census/researchers/wanxin-huang-a5100572/"
 layout: "researcher"
 hiddenInHomeList: true

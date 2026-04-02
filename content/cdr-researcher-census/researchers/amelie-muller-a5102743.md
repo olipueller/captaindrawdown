@@ -1,7 +1,7 @@
 ---
 title: "Amelie Müller"
 description: "Amelie Müller is an Early-career General CDR researcher at Leiden University in NL. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.460970
+date: 2026-04-02T07:03:25.578613
 url: "/cdr-researcher-census/researchers/amelie-muller-a5102743/"
 layout: "researcher"
 hiddenInHomeList: true

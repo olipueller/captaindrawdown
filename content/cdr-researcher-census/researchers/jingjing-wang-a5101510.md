@@ -1,7 +1,7 @@
 ---
 title: "Jingjing Wang"
 description: "Jingjing Wang is a Senior Soil Carbon researcher at Ningbo University in CN. With 35 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.587446
+date: 2026-04-02T07:03:24.301117
 url: "/cdr-researcher-census/researchers/jingjing-wang-a5101510/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Hongfei Liu"
 description: "Hongfei Liu is a Mid-career Soil Carbon researcher at University of Thessaly in GR. With 19 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.350209
+date: 2026-04-02T07:03:23.976795
 url: "/cdr-researcher-census/researchers/hongfei-liu-a5084145/"
 layout: "researcher"
 hiddenInHomeList: true

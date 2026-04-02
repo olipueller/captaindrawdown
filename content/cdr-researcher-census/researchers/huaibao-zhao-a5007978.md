@@ -1,7 +1,7 @@
 ---
 title: "Huaibao Zhao"
 description: "Huaibao Zhao is a Senior Soil Carbon researcher at Department of Ecology and Environment of Hainan Province in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.544896
+date: 2026-04-02T07:03:25.723777
 url: "/cdr-researcher-census/researchers/huaibao-zhao-a5007978/"
 layout: "researcher"
 hiddenInHomeList: true

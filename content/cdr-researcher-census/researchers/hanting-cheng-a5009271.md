@@ -1,7 +1,7 @@
 ---
 title: "Hanting Cheng"
 description: "Hanting Cheng is a Mid-career Soil Carbon researcher at Chinese Academy of Tropical Agricultural Sciences in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.415325
+date: 2026-04-02T07:03:25.511385
 url: "/cdr-researcher-census/researchers/hanting-cheng-a5009271/"
 layout: "researcher"
 hiddenInHomeList: true

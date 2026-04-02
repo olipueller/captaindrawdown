@@ -1,7 +1,7 @@
 ---
 title: "Muneeba Khalid"
 description: "Muneeba Khalid is a Mid-career Biochar researcher at Johns Hopkins University in US. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.310814
+date: 2026-04-02T07:03:25.356016
 url: "/cdr-researcher-census/researchers/muneeba-khalid-a5046523/"
 layout: "researcher"
 hiddenInHomeList: true

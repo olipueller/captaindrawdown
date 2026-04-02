@@ -1,7 +1,7 @@
 ---
 title: "Jiale Han"
 description: "Jiale Han is a Senior Soil Carbon researcher at Chengdu University of Information Technology in CN. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.317352
+date: 2026-04-02T07:03:25.365667
 url: "/cdr-researcher-census/researchers/jiale-han-a5059006/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Mingying Dong"
 description: "Mingying Dong is a Mid-career Biochar researcher at Jiangnan University in CN. With 6 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.849060
+date: 2026-04-02T07:03:26.142522
 url: "/cdr-researcher-census/researchers/mingying-dong-a5073232/"
 layout: "researcher"
 hiddenInHomeList: true

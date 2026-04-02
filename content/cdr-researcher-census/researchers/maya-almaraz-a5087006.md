@@ -1,7 +1,7 @@
 ---
 title: "Maya Almaraz"
 description: "Maya Almaraz is a Mid-career General CDR researcher at Yale University in US. With 51 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.442176
+date: 2026-04-02T07:03:24.093316
 url: "/cdr-researcher-census/researchers/maya-almaraz-a5087006/"
 layout: "researcher"
 hiddenInHomeList: true

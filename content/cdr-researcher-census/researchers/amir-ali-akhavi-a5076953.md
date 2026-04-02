@@ -1,7 +1,7 @@
 ---
 title: "Amir-Ali Akhavi"
 description: "Amir-Ali Akhavi is a Mid-career General CDR researcher at University of California, Riverside in US. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.681317
+date: 2026-04-02T07:03:25.931131
 url: "/cdr-researcher-census/researchers/amir-ali-akhavi-a5076953/"
 layout: "researcher"
 hiddenInHomeList: true

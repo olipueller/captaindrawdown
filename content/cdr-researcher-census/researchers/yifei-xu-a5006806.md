@@ -1,7 +1,7 @@
 ---
 title: "Yifei Xu"
 description: "Yifei Xu is a Mid-career General CDR researcher at Yunnan University in CN. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.635713
+date: 2026-04-02T07:03:25.858656
 url: "/cdr-researcher-census/researchers/yifei-xu-a5006806/"
 layout: "researcher"
 hiddenInHomeList: true

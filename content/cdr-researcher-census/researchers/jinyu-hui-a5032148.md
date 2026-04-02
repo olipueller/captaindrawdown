@@ -1,7 +1,7 @@
 ---
 title: "Jinyu Hui"
 description: "Jinyu Hui is a Mid-career Soil Carbon researcher at University of British Columbia in CA. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.380833
+date: 2026-04-02T07:03:25.458674
 url: "/cdr-researcher-census/researchers/jinyu-hui-a5032148/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Sandra Dotzler"
 description: "Sandra Dotzler is a Mid-career Soil Carbon researcher. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.239333
+date: 2026-04-02T07:03:26.734320
 url: "/cdr-researcher-census/researchers/sandra-dotzler-a5020096/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Eyerusalem Adehanom Goitom"
 description: "Eyerusalem Adehanom Goitom is an Early-career Soil Carbon researcher at Université du Québec à Montréal in CA. With 1 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.411806
+date: 2026-04-02T07:03:26.982839
 url: "/cdr-researcher-census/researchers/eyerusalem-adehanom-goitom-a5069548/"
 layout: "researcher"
 hiddenInHomeList: true

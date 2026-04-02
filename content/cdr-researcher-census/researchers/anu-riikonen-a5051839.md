@@ -1,7 +1,7 @@
 ---
 title: "Anu Riikonen"
 description: "Anu Riikonen is a Senior General CDR researcher at University of Helsinki in FI. With 60 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.454323
+date: 2026-04-02T07:03:24.111015
 url: "/cdr-researcher-census/researchers/anu-riikonen-a5051839/"
 layout: "researcher"
 hiddenInHomeList: true

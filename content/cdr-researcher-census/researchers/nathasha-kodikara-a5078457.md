@@ -1,7 +1,7 @@
 ---
 title: "Nathasha Kodikara"
 description: "Nathasha Kodikara is an Early-career General CDR researcher at Central Queensland University in AU. With 1 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.830206
+date: 2026-04-02T07:03:24.647479
 url: "/cdr-researcher-census/researchers/nathasha-kodikara-a5078457/"
 layout: "researcher"
 hiddenInHomeList: true

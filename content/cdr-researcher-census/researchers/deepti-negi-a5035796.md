@@ -1,7 +1,7 @@
 ---
 title: "Deepti Negi"
 description: "Deepti Negi is an Early-career Biochar researcher at Doon University in IN. With 5 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.436116
+date: 2026-04-02T07:03:27.020162
 url: "/cdr-researcher-census/researchers/deepti-negi-a5035796/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Lijun Zhu"
 description: "Lijun Zhu is a Senior DAC researcher at Guangzhou University of Chinese Medicine in CN. With 53 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.412349
+date: 2026-04-02T07:03:24.053324
 url: "/cdr-researcher-census/researchers/lijun-zhu-a5059760/"
 layout: "researcher"
 hiddenInHomeList: true

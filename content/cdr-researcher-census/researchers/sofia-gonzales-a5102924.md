@@ -1,7 +1,7 @@
 ---
 title: "Sofia Gonzales"
 description: "Sofia Gonzales is a Mid-career General CDR researcher at NewClimate Institute in DE. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.333398
+date: 2026-04-02T07:03:25.387722
 url: "/cdr-researcher-census/researchers/sofia-gonzales-a5102924/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Tomáš Khel"
 description: "Tomáš Khel is a Senior Soil Carbon researcher at Research Institute for Soil and Water Conservation in CZ. With 28 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.375360
+date: 2026-04-02T07:03:25.450827
 url: "/cdr-researcher-census/researchers/tomas-khel-a5075671/"
 layout: "researcher"
 hiddenInHomeList: true

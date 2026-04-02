@@ -1,7 +1,7 @@
 ---
 title: "Adedoyin Ayorinde Adebayo"
 description: "Adedoyin Ayorinde Adebayo is a Mid-career General CDR researcher at Federal University of Petroleum Resource Effurun in NG. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.024054
+date: 2026-04-02T07:03:24.942697
 url: "/cdr-researcher-census/researchers/adedoyin-ayorinde-adebayo-a5059203/"
 layout: "researcher"
 hiddenInHomeList: true

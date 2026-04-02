@@ -1,7 +1,7 @@
 ---
 title: "Juan D. Medrano‐García"
 description: "Juan D. Medrano‐García is a Mid-career General CDR researcher at ETH Zurich in CH. With 30 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.115829
+date: 2026-04-02T07:03:25.077991
 url: "/cdr-researcher-census/researchers/juan-d-medranogarcia-a5072153/"
 layout: "researcher"
 hiddenInHomeList: true

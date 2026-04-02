@@ -1,7 +1,7 @@
 ---
 title: "Abhijit Maiti"
 description: "Abhijit Maiti is a Senior Biochar researcher at Indian Institute of Technology Roorkee in IN. With 80 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.172190
+date: 2026-04-02T07:03:23.738846
 url: "/cdr-researcher-census/researchers/abhijit-maiti-a5056461/"
 layout: "researcher"
 hiddenInHomeList: true

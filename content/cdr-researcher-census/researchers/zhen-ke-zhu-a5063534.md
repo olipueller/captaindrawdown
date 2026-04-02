@@ -1,7 +1,7 @@
 ---
 title: "Zhen-Ke Zhu"
 description: "Zhen-Ke Zhu is a Senior Soil Carbon researcher at Ningbo University in CN. With 10 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.393745
+date: 2026-04-02T07:03:26.958082
 url: "/cdr-researcher-census/researchers/zhen-ke-zhu-a5063534/"
 layout: "researcher"
 hiddenInHomeList: true

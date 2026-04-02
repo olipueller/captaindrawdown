@@ -1,7 +1,7 @@
 ---
 title: "Sohail Ahmed"
 description: "Sohail Ahmed is a Mid-career Biochar researcher at Huazhong Agricultural University in CN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.210275
+date: 2026-04-02T07:03:25.214888
 url: "/cdr-researcher-census/researchers/sohail-ahmed-a5101841/"
 layout: "researcher"
 hiddenInHomeList: true

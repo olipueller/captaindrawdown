@@ -1,7 +1,7 @@
 ---
 title: "Gonzalo Rodriguez-García"
 description: "Gonzalo Rodriguez-García is a Mid-career General CDR researcher at Argonne National Laboratory in US. With 28 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.406384
+date: 2026-04-02T07:03:24.045751
 url: "/cdr-researcher-census/researchers/gonzalo-rodriguez-garcia-a5037010/"
 layout: "researcher"
 hiddenInHomeList: true

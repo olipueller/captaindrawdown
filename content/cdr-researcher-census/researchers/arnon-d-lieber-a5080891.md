@@ -1,7 +1,7 @@
 ---
 title: "Arnon D. Lieber"
 description: "Arnon D. Lieber is a Senior carbon dioxide removal researcher at Universities Research Association in US. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.241504
+date: 2026-04-02T07:03:23.827972
 url: "/cdr-researcher-census/researchers/arnon-d-lieber-a5080891/"
 layout: "researcher"
 hiddenInHomeList: true

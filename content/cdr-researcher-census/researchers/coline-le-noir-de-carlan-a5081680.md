@@ -1,7 +1,7 @@
 ---
 title: "Coline Le Noir de Carlan"
 description: "Coline Le Noir de Carlan is a Mid-career Enhanced Weathering researcher at University of Antwerp in BE. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.036390
+date: 2026-04-02T07:03:24.960215
 url: "/cdr-researcher-census/researchers/coline-le-noir-de-carlan-a5081680/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Radomir Schmidt"
 description: "Radomir Schmidt is a Senior Enhanced Weathering researcher at University of California System in US. With 48 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.287129
+date: 2026-04-02T07:03:23.892980
 url: "/cdr-researcher-census/researchers/radomir-schmidt-a5029955/"
 layout: "researcher"
 hiddenInHomeList: true

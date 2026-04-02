@@ -1,7 +1,7 @@
 ---
 title: "Qingqiu Zhou"
 description: "Qingqiu Zhou is a Mid-career Soil Carbon researcher at Kunming University of Science and Technology in CN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.287017
+date: 2026-04-02T07:03:25.322571
 url: "/cdr-researcher-census/researchers/qingqiu-zhou-a5110846/"
 layout: "researcher"
 hiddenInHomeList: true

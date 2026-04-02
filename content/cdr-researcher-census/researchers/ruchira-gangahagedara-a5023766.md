@@ -1,7 +1,7 @@
 ---
 title: "Ruchira Gangahagedara"
 description: "Ruchira Gangahagedara is a Mid-career General CDR researcher at University of Peradeniya in LK. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.673432
+date: 2026-04-02T07:03:24.430640
 url: "/cdr-researcher-census/researchers/ruchira-gangahagedara-a5023766/"
 layout: "researcher"
 hiddenInHomeList: true

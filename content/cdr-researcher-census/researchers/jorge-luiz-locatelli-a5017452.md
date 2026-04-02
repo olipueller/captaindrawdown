@@ -1,7 +1,7 @@
 ---
 title: "Jorge Luiz Locatelli"
 description: "Jorge Luiz Locatelli is a Mid-career Soil Carbon researcher at Agricultural Research Service in US. With 39 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.311888
+date: 2026-04-02T07:03:25.357539
 url: "/cdr-researcher-census/researchers/jorge-luiz-locatelli-a5017452/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Sergio Radic‐Schilling"
 description: "Sergio Radic‐Schilling is a Mid-career Soil Carbon researcher in GB. With 25 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.035096
+date: 2026-04-02T07:03:26.412782
 url: "/cdr-researcher-census/researchers/sergio-radicschilling-a5087666/"
 layout: "researcher"
 hiddenInHomeList: true

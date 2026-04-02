@@ -1,7 +1,7 @@
 ---
 title: "Yangwenzheng Li"
 description: "Yangwenzheng Li is an Early-career carbon dioxide removal researcher at Hainan University in CN. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.441519
+date: 2026-04-02T07:03:27.028962
 url: "/cdr-researcher-census/researchers/yangwenzheng-li-a5057587/"
 layout: "researcher"
 hiddenInHomeList: true

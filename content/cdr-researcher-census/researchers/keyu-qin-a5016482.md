@@ -1,7 +1,7 @@
 ---
 title: "Keyu Qin"
 description: "Keyu Qin is a Mid-career General CDR researcher at Institute of Geographic Sciences and Natural Resources Research in CN. With 40 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.425859
+date: 2026-04-02T07:03:24.071770
 url: "/cdr-researcher-census/researchers/keyu-qin-a5016482/"
 layout: "researcher"
 hiddenInHomeList: true

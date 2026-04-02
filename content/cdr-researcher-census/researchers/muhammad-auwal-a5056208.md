@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Auwal"
 description: "Muhammad Auwal is a Mid-career Biochar researcher at Kano State University of Technology in NG. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.235251
+date: 2026-04-02T07:03:26.728875
 url: "/cdr-researcher-census/researchers/muhammad-auwal-a5056208/"
 layout: "researcher"
 hiddenInHomeList: true

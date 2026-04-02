@@ -1,7 +1,7 @@
 ---
 title: "Luciana Ruggiero Bachega"
 description: "Luciana Ruggiero Bachega is a Mid-career Soil Carbon researcher at North Carolina State University in US. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.305259
+date: 2026-04-02T07:03:25.348957
 url: "/cdr-researcher-census/researchers/luciana-ruggiero-bachega-a5048764/"
 layout: "researcher"
 hiddenInHomeList: true

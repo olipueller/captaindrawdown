@@ -1,7 +1,7 @@
 ---
 title: "Rebecca Even"
 description: "Rebecca Even is a Mid-career Soil Carbon researcher at Colorado State University in US. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.977590
+date: 2026-04-02T07:03:24.874465
 url: "/cdr-researcher-census/researchers/rebecca-even-a5082836/"
 layout: "researcher"
 hiddenInHomeList: true

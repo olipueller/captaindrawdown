@@ -1,7 +1,7 @@
 ---
 title: "Adrianna Trusiak"
 description: "Adrianna Trusiak is a Mid-career BECCS researcher at Great Lakes Bioenergy Research Center in US. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.193998
+date: 2026-04-02T07:03:25.190941
 url: "/cdr-researcher-census/researchers/adrianna-trusiak-a5060404/"
 layout: "researcher"
 hiddenInHomeList: true

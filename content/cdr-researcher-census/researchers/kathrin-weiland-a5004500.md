@@ -1,7 +1,7 @@
 ---
 title: "Kathrin Weiland"
 description: "Kathrin Weiland is a Mid-career carbon dioxide removal researcher at University of Applied Sciences Technikum Wien in AT. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.250450
+date: 2026-04-02T07:03:25.274815
 url: "/cdr-researcher-census/researchers/kathrin-weiland-a5004500/"
 layout: "researcher"
 hiddenInHomeList: true

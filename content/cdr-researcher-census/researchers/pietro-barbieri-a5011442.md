@@ -1,7 +1,7 @@
 ---
 title: "Pietro Barbieri"
 description: "Pietro Barbieri is a Senior Soil Carbon researcher at Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement in FR. With 38 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.514190
+date: 2026-04-02T07:03:24.191870
 url: "/cdr-researcher-census/researchers/pietro-barbieri-a5011442/"
 layout: "researcher"
 hiddenInHomeList: true

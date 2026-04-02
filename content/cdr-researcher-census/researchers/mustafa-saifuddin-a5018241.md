@@ -1,7 +1,7 @@
 ---
 title: "Mustafa Saifuddin"
 description: "Mustafa Saifuddin is a Mid-career General CDR researcher at Sustainable Food Center in US. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.227053
+date: 2026-04-02T07:03:25.243863
 url: "/cdr-researcher-census/researchers/mustafa-saifuddin-a5018241/"
 layout: "researcher"
 hiddenInHomeList: true

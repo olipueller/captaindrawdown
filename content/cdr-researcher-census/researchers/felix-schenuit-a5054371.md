@@ -1,7 +1,7 @@
 ---
 title: "Felix Schenuit"
 description: "Felix Schenuit is a Mid-career General CDR researcher at Stiftung Wissenschaft und Politik, German Institute for International and Security Affairs in DE. With 44 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.780183
+date: 2026-04-02T07:03:24.582887
 url: "/cdr-researcher-census/researchers/felix-schenuit-a5054371/"
 layout: "researcher"
 hiddenInHomeList: true

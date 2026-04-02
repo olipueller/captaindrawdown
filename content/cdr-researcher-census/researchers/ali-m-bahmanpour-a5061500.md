@@ -1,7 +1,7 @@
 ---
 title: "Ali M. Bahmanpour"
 description: "Ali M. Bahmanpour is a Senior carbon dioxide removal researcher at Emissol (United States) in US. With 38 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.290838
+date: 2026-04-02T07:03:23.897798
 url: "/cdr-researcher-census/researchers/ali-m-bahmanpour-a5061500/"
 layout: "researcher"
 hiddenInHomeList: true

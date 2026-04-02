@@ -1,7 +1,7 @@
 ---
 title: "Thorsten Reinsch"
 description: "Thorsten Reinsch is a Senior Soil Carbon researcher at Bavarian State Research Center for Agriculture in DE. With 69 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.317743
+date: 2026-04-02T07:03:23.933360
 url: "/cdr-researcher-census/researchers/thorsten-reinsch-a5029061/"
 layout: "researcher"
 hiddenInHomeList: true

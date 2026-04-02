@@ -1,7 +1,7 @@
 ---
 title: "Hongjia Yao"
 description: "Hongjia Yao is a Mid-career Soil Carbon researcher at Institute of Soil and Water Conservation in CN. With 7 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.968941
+date: 2026-04-02T07:03:24.860974
 url: "/cdr-researcher-census/researchers/hongjia-yao-a5014329/"
 layout: "researcher"
 hiddenInHomeList: true

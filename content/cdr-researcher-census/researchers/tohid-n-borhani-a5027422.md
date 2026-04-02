@@ -1,7 +1,7 @@
 ---
 title: "Tohid N. Borhani"
 description: "Tohid N. Borhani is a Senior DAC researcher at University of Wolverhampton in GB. With 79 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.191184
+date: 2026-04-02T07:03:23.766827
 url: "/cdr-researcher-census/researchers/tohid-n-borhani-a5027422/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Heidi M. Hartmann"
 description: "Heidi M. Hartmann is a Senior carbon dioxide removal researcher at Argonne National Laboratory in US. With 27 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.777807
+date: 2026-04-02T07:03:24.579686
 url: "/cdr-researcher-census/researchers/heidi-m-hartmann-a5012613/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Hitofumi Abe"
 description: "Hitofumi Abe is a Senior General CDR researcher at University of Papua New Guinea in PG. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.870161
+date: 2026-04-02T07:03:24.703901
 url: "/cdr-researcher-census/researchers/hitofumi-abe-a5015571/"
 layout: "researcher"
 hiddenInHomeList: true

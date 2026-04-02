@@ -1,7 +1,7 @@
 ---
 title: "Cintia Sciarresi"
 description: "Cintia Sciarresi is a Mid-career carbon dioxide removal researcher at Iowa State University in US. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.575334
+date: 2026-04-02T07:03:25.768241
 url: "/cdr-researcher-census/researchers/cintia-sciarresi-a5035383/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Hengqi Yan"
 description: "Hengqi Yan is a Mid-career General CDR researcher at Heilongjiang Earthquake Agency in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.152044
+date: 2026-04-02T07:03:25.130974
 url: "/cdr-researcher-census/researchers/hengqi-yan-a5054534/"
 layout: "researcher"
 hiddenInHomeList: true

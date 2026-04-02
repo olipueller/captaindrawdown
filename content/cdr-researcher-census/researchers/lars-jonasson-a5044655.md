@@ -1,7 +1,7 @@
 ---
 title: "Lars Jonasson"
 description: "Lars Jonasson is a Senior General CDR researcher. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.295083
+date: 2026-04-02T07:03:25.335401
 url: "/cdr-researcher-census/researchers/lars-jonasson-a5044655/"
 layout: "researcher"
 hiddenInHomeList: true

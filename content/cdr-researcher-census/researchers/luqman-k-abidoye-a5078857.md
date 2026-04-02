@@ -1,7 +1,7 @@
 ---
 title: "Luqman K. Abidoye"
 description: "Luqman K. Abidoye is a Mid-career DAC researcher at Osun State University in NG. With 40 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.070336
+date: 2026-04-02T07:03:25.012648
 url: "/cdr-researcher-census/researchers/luqman-k-abidoye-a5078857/"
 layout: "researcher"
 hiddenInHomeList: true

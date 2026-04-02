@@ -1,7 +1,7 @@
 ---
 title: "Oliver Geden"
 description: "Oliver Geden is a Senior General CDR researcher at Stiftung Wissenschaft und Politik, German Institute for International and Security Affairs in DE. With 118 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.106267
+date: 2026-04-02T07:03:23.655077
 url: "/cdr-researcher-census/researchers/oliver-geden-a5016996/"
 layout: "researcher"
 hiddenInHomeList: true

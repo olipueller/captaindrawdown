@@ -1,7 +1,7 @@
 ---
 title: "Juyan Cui"
 description: "Juyan Cui is a Mid-career Soil Carbon researcher at Anhui University in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.140303
+date: 2026-04-02T07:03:26.568364
 url: "/cdr-researcher-census/researchers/juyan-cui-a5025614/"
 layout: "researcher"
 hiddenInHomeList: true

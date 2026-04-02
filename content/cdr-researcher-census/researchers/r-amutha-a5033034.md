@@ -1,7 +1,7 @@
 ---
 title: "R. Amutha"
 description: "R. Amutha is a Senior Soil Carbon researcher at Tamil Nadu Agricultural University in IN. With 39 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.062471
+date: 2026-04-02T07:03:26.455610
 url: "/cdr-researcher-census/researchers/r-amutha-a5033034/"
 layout: "researcher"
 hiddenInHomeList: true

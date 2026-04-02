@@ -1,7 +1,7 @@
 ---
 title: "Yolanda A. Criado"
 description: "Yolanda A. Criado is a Mid-career DAC researcher at Instituto de Ciencia y Tecnología del Carbono in ES. With 35 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.354467
+date: 2026-04-02T07:03:23.983976
 url: "/cdr-researcher-census/researchers/yolanda-a-criado-a5012909/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Santosh Kumar"
 description: "Santosh Kumar is a Mid-career Soil Carbon researcher. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.967570
+date: 2026-04-02T07:03:24.858840
 url: "/cdr-researcher-census/researchers/santosh-kumar-a5023895/"
 layout: "researcher"
 hiddenInHomeList: true

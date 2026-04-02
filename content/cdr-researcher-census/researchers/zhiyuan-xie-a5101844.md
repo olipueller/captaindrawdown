@@ -1,7 +1,7 @@
 ---
 title: "Zhiyuan Xie"
 description: "Zhiyuan Xie is a Senior General CDR researcher at Aarhus University in DK. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.250643
+date: 2026-04-02T07:03:25.275082
 url: "/cdr-researcher-census/researchers/zhiyuan-xie-a5101844/"
 layout: "researcher"
 hiddenInHomeList: true

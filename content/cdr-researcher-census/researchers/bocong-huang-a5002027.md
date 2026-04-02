@@ -1,7 +1,7 @@
 ---
 title: "Bocong Huang"
 description: "Bocong Huang is a Mid-career Soil Carbon researcher at Chongqing Jiaotong University in CN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.574938
+date: 2026-04-02T07:03:25.767708
 url: "/cdr-researcher-census/researchers/bocong-huang-a5002027/"
 layout: "researcher"
 hiddenInHomeList: true

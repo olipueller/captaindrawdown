@@ -1,7 +1,7 @@
 ---
 title: "Suparat Cotchim"
 description: "Suparat Cotchim is a Mid-career Soil Carbon researcher at Prince of Songkla University in TH. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.315356
+date: 2026-04-02T07:03:25.362799
 url: "/cdr-researcher-census/researchers/suparat-cotchim-a5087692/"
 layout: "researcher"
 hiddenInHomeList: true

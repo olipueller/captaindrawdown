@@ -1,7 +1,7 @@
 ---
 title: "Richardson M. Abraham-A"
 description: "Richardson M. Abraham-A is a Mid-career BECCS researcher at Universidade de São Paulo in BR. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.821369
+date: 2026-04-02T07:03:26.103787
 url: "/cdr-researcher-census/researchers/richardson-m-abraham-a-a5035245/"
 layout: "researcher"
 hiddenInHomeList: true

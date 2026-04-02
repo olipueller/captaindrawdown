@@ -1,7 +1,7 @@
 ---
 title: "Yanan Xu"
 description: "Yanan Xu is a Mid-career carbon dioxide removal researcher at Northeast Agricultural University in CN. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.613351
+date: 2026-04-02T07:03:25.825886
 url: "/cdr-researcher-census/researchers/yanan-xu-a5101140/"
 layout: "researcher"
 hiddenInHomeList: true

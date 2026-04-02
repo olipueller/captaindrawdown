@@ -1,7 +1,7 @@
 ---
 title: "Dazhi Wen"
 description: "Dazhi Wen is a Senior Soil Carbon researcher at South China Botanical Garden in CN. With 99 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.159366
+date: 2026-04-02T07:03:23.720193
 url: "/cdr-researcher-census/researchers/dazhi-wen-a5064482/"
 layout: "researcher"
 hiddenInHomeList: true

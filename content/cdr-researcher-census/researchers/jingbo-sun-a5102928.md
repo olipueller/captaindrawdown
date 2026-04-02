@@ -1,7 +1,7 @@
 ---
 title: "Jingbo Sun"
 description: "Jingbo Sun is a Senior Soil Carbon researcher at Lee Kong Chian School of Medicine, Nanyang Technological University in SG. With 19 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.588572
+date: 2026-04-02T07:03:24.302708
 url: "/cdr-researcher-census/researchers/jingbo-sun-a5102928/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Amy J. Anschutz"
 description: "Amy J. Anschutz is a Senior General CDR researcher at Leibniz Institute for Baltic Sea Research in DE. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.743987
+date: 2026-04-02T07:03:24.530737
 url: "/cdr-researcher-census/researchers/amy-j-anschutz-a5047708/"
 layout: "researcher"
 hiddenInHomeList: true

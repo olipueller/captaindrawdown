@@ -1,7 +1,7 @@
 ---
 title: "Senthil Kumar Muniasamy"
 description: "Senthil Kumar Muniasamy is a Mid-career Biochar researcher at Karpagam Academy of Higher Education in IN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.786040
+date: 2026-04-02T07:03:24.589914
 url: "/cdr-researcher-census/researchers/senthil-kumar-muniasamy-a5100751/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ivana Azuaje"
 description: "Ivana Azuaje is a Mid-career General CDR researcher. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.155285
+date: 2026-04-02T07:03:26.595318
 url: "/cdr-researcher-census/researchers/ivana-azuaje-a5093653/"
 layout: "researcher"
 hiddenInHomeList: true

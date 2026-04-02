@@ -1,7 +1,7 @@
 ---
 title: "Yuchuan Fan"
 description: "Yuchuan Fan is a Mid-career Soil Carbon researcher at Nanjing Forestry University in CN. With 54 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.910380
+date: 2026-04-02T07:03:24.766835
 url: "/cdr-researcher-census/researchers/yuchuan-fan-a5075374/"
 layout: "researcher"
 hiddenInHomeList: true

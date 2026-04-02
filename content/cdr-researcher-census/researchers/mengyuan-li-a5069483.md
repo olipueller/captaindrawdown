@@ -1,7 +1,7 @@
 ---
 title: "Mengyuan Li"
 description: "Mengyuan Li is a Mid-career Enhanced Weathering researcher at Foundation for Biomedical Research in US. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.746712
+date: 2026-04-02T07:03:25.993985
 url: "/cdr-researcher-census/researchers/mengyuan-li-a5069483/"
 layout: "researcher"
 hiddenInHomeList: true

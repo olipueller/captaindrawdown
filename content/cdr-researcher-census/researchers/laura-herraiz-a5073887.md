@@ -1,7 +1,7 @@
 ---
 title: "Laura Herraiz"
 description: "Laura Herraiz is a Mid-career General CDR researcher at University of Edinburgh in GB. With 32 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.067566
+date: 2026-04-02T07:03:25.008209
 url: "/cdr-researcher-census/researchers/laura-herraiz-a5073887/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Arbindra Timilsina"
 description: "Arbindra Timilsina is a Mid-career Soil Carbon researcher at Center for Agricultural Resources Research in CN. With 30 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.081777
+date: 2026-04-02T07:03:25.028336
 url: "/cdr-researcher-census/researchers/arbindra-timilsina-a5054131/"
 layout: "researcher"
 hiddenInHomeList: true

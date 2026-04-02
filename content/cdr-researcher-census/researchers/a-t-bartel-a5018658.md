@@ -1,7 +1,7 @@
 ---
 title: "A. T. Bartel"
 description: "A. T. Bartel is a Senior General CDR researcher at BUND Naturschutz in DE. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.319222
+date: 2026-04-02T07:03:26.854679
 url: "/cdr-researcher-census/researchers/a-t-bartel-a5018658/"
 layout: "researcher"
 hiddenInHomeList: true

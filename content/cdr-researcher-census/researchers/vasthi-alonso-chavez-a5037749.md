@@ -1,7 +1,7 @@
 ---
 title: "Vasthi Alonso Chávez"
 description: "Vasthi Alonso Chávez is a Mid-career Soil Carbon researcher at Rothamsted Research in GB. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.403885
+date: 2026-04-02T07:03:25.493986
 url: "/cdr-researcher-census/researchers/vasthi-alonso-chavez-a5037749/"
 layout: "researcher"
 hiddenInHomeList: true

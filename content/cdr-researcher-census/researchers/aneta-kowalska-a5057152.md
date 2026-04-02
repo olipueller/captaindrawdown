@@ -1,7 +1,7 @@
 ---
 title: "Aneta Kowalska"
 description: "Aneta Kowalska is a Mid-career Soil Carbon researcher at Jan Długosz University in PL. With 25 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.831654
+date: 2026-04-02T07:03:26.118017
 url: "/cdr-researcher-census/researchers/aneta-kowalska-a5057152/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Daniel L. Sanchez"
 description: "Daniel L. Sanchez is a Senior General CDR researcher at Universidad Autónoma de Baja California in MX. With 92 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.138555
+date: 2026-04-02T07:03:23.692757
 url: "/cdr-researcher-census/researchers/daniel-l-sanchez-a5016864/"
 layout: "researcher"
 hiddenInHomeList: true

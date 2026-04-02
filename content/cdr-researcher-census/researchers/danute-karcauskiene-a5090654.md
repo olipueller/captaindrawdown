@@ -1,7 +1,7 @@
 ---
 title: "Danutė Karčauskienė"
 description: "Danutė Karčauskienė is a Senior Soil Carbon researcher at Lithuanian Research Centre for Agriculture and Forestry in LT. With 73 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.687998
+date: 2026-04-02T07:03:24.449858
 url: "/cdr-researcher-census/researchers/danute-karcauskiene-a5090654/"
 layout: "researcher"
 hiddenInHomeList: true

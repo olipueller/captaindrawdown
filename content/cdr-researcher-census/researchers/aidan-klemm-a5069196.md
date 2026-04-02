@@ -1,7 +1,7 @@
 ---
 title: "Aidan Klemm"
 description: "Aidan Klemm is a Mid-career DAC researcher at Case Western Reserve University in US. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.884057
+date: 2026-04-02T07:03:24.724783
 url: "/cdr-researcher-census/researchers/aidan-klemm-a5069196/"
 layout: "researcher"
 hiddenInHomeList: true

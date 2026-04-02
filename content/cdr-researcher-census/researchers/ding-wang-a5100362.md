@@ -1,7 +1,7 @@
 ---
 title: "Ding Wang"
 description: "Ding Wang is a Senior Soil Carbon researcher at Southwest University in CN. With 34 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.950667
+date: 2026-04-02T07:03:24.831494
 url: "/cdr-researcher-census/researchers/ding-wang-a5100362/"
 layout: "researcher"
 hiddenInHomeList: true

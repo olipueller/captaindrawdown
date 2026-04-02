@@ -1,7 +1,7 @@
 ---
 title: "C. C. Quijano"
 description: "C. C. Quijano is a Senior General CDR researcher. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.248101
+date: 2026-04-02T07:03:25.271774
 url: "/cdr-researcher-census/researchers/c-c-quijano-a5014015/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Chunyu Tang"
 description: "Chunyu Tang is a Mid-career Soil Carbon researcher at Zhejiang Ocean University in CN. With 46 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.402655
+date: 2026-04-02T07:03:24.041648
 url: "/cdr-researcher-census/researchers/chunyu-tang-a5004017/"
 layout: "researcher"
 hiddenInHomeList: true

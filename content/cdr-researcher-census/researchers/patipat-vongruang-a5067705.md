@@ -1,7 +1,7 @@
 ---
 title: "Patipat Vongruang"
 description: "Patipat Vongruang is a Mid-career General CDR researcher at University of Phayao in TH. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.094225
+date: 2026-04-02T07:03:25.046404
 url: "/cdr-researcher-census/researchers/patipat-vongruang-a5067705/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Francesca Tozzi"
 description: "Francesca Tozzi is a Senior Soil Carbon researcher at Consorzio Oncotech in IT. With 29 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.266637
+date: 2026-04-02T07:03:25.294694
 url: "/cdr-researcher-census/researchers/francesca-tozzi-a5028614/"
 layout: "researcher"
 hiddenInHomeList: true

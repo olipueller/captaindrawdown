@@ -1,7 +1,7 @@
 ---
 title: "Guanhe Rim"
 description: "Guanhe Rim is a Mid-career DAC researcher at Georgia Institute of Technology in US. With 32 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.425641
+date: 2026-04-02T07:03:24.071442
 url: "/cdr-researcher-census/researchers/guanhe-rim-a5017072/"
 layout: "researcher"
 hiddenInHomeList: true

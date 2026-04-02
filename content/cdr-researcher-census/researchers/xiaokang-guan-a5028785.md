@@ -1,7 +1,7 @@
 ---
 title: "Xiaokang Guan"
 description: "Xiaokang Guan is a Senior Soil Carbon researcher at Henan Agricultural University in CN. With 28 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.443126
+date: 2026-04-02T07:03:24.094640
 url: "/cdr-researcher-census/researchers/xiaokang-guan-a5028785/"
 layout: "researcher"
 hiddenInHomeList: true

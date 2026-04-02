@@ -1,7 +1,7 @@
 ---
 title: "Qinghong Geng"
 description: "Qinghong Geng is a Mid-career Soil Carbon researcher at North West Agriculture and Forestry University in CN. With 26 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.574543
+date: 2026-04-02T07:03:24.283401
 url: "/cdr-researcher-census/researchers/qinghong-geng-a5037718/"
 layout: "researcher"
 hiddenInHomeList: true

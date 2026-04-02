@@ -1,7 +1,7 @@
 ---
 title: "M. Golam Mahboob"
 description: "M. Golam Mahboob is a Mid-career Soil Carbon researcher at Bangladesh Medical Research Council in BD. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.462876
+date: 2026-04-02T07:03:24.123416
 url: "/cdr-researcher-census/researchers/m-golam-mahboob-a5013855/"
 layout: "researcher"
 hiddenInHomeList: true

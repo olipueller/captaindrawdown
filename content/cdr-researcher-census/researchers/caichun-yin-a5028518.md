@@ -1,7 +1,7 @@
 ---
 title: "Caichun Yin"
 description: "Caichun Yin is a Mid-career Biochar researcher at Beijing Normal University in CN. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.636592
+date: 2026-04-02T07:03:24.370684
 url: "/cdr-researcher-census/researchers/caichun-yin-a5028518/"
 layout: "researcher"
 hiddenInHomeList: true

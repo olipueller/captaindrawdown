@@ -1,7 +1,7 @@
 ---
 title: "Alexia Dayet"
 description: "Alexia Dayet is a Mid-career General CDR researcher. With 14 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.851917
+date: 2026-04-02T07:03:26.146737
 url: "/cdr-researcher-census/researchers/alexia-dayet-a5045723/"
 layout: "researcher"
 hiddenInHomeList: true

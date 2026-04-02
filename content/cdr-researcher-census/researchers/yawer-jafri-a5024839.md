@@ -1,7 +1,7 @@
 ---
 title: "Yawer Jafri"
 description: "Yawer Jafri is a Mid-career BECCS researcher at Luleå University of Technology in SE. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.586963
+date: 2026-04-02T07:03:25.785967
 url: "/cdr-researcher-census/researchers/yawer-jafri-a5024839/"
 layout: "researcher"
 hiddenInHomeList: true

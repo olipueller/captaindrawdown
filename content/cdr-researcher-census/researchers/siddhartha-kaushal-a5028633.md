@@ -1,7 +1,7 @@
 ---
 title: "Siddhartha Kaushal"
 description: "Siddhartha Kaushal is a Mid-career Soil Carbon researcher at University of Delhi in IN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.884751
+date: 2026-04-02T07:03:26.193498
 url: "/cdr-researcher-census/researchers/siddhartha-kaushal-a5028633/"
 layout: "researcher"
 hiddenInHomeList: true

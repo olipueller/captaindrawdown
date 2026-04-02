@@ -1,7 +1,7 @@
 ---
 title: "Hero T. Gollany"
 description: "Hero T. Gollany is a Senior Soil Carbon researcher at Natural Resources Conservation Service in US. With 79 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.262687
+date: 2026-04-02T07:03:23.856901
 url: "/cdr-researcher-census/researchers/hero-t-gollany-a5065715/"
 layout: "researcher"
 hiddenInHomeList: true

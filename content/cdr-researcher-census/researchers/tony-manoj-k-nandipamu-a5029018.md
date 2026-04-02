@@ -1,7 +1,7 @@
 ---
 title: "Tony Manoj K. Nandipamu"
 description: "Tony Manoj K. Nandipamu is a Mid-career Biochar researcher at Govind Ballabh Pant University of Agriculture and Technology in IN. With 31 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.076441
+date: 2026-04-02T07:03:26.473946
 url: "/cdr-researcher-census/researchers/tony-manoj-k-nandipamu-a5029018/"
 layout: "researcher"
 hiddenInHomeList: true

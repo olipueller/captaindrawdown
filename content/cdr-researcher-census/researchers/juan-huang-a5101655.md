@@ -1,7 +1,7 @@
 ---
 title: "Juan Huang"
 description: "Juan Huang is a Mid-career Soil Carbon researcher at South China Botanical Garden in CN. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.186544
+date: 2026-04-02T07:03:25.180641
 url: "/cdr-researcher-census/researchers/juan-huang-a5101655/"
 layout: "researcher"
 hiddenInHomeList: true

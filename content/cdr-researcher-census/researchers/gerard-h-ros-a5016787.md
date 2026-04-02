@@ -1,7 +1,7 @@
 ---
 title: "Gerard H. Ros"
 description: "Gerard H. Ros is a Senior Soil Carbon researcher at Wageningen University & Research in NL. With 101 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.195103
+date: 2026-04-02T07:03:23.772036
 url: "/cdr-researcher-census/researchers/gerard-h-ros-a5016787/"
 layout: "researcher"
 hiddenInHomeList: true

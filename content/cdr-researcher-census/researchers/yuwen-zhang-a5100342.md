@@ -1,7 +1,7 @@
 ---
 title: "Yuwen Zhang"
 description: "Yuwen Zhang is a Senior Soil Carbon researcher at University of Helsinki in FI. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.682311
+date: 2026-04-02T07:03:25.932628
 url: "/cdr-researcher-census/researchers/yuwen-zhang-a5100342/"
 layout: "researcher"
 hiddenInHomeList: true

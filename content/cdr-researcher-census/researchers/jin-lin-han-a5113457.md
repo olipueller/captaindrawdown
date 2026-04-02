@@ -1,7 +1,7 @@
 ---
 title: "Jin Lin Han"
 description: "Jin Lin Han is a Senior carbon dioxide removal researcher at National Ilan University in TW. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.850939
+date: 2026-04-02T07:03:24.676458
 url: "/cdr-researcher-census/researchers/jin-lin-han-a5113457/"
 layout: "researcher"
 hiddenInHomeList: true

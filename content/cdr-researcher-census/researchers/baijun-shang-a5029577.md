@@ -1,7 +1,7 @@
 ---
 title: "Baijun Shang"
 description: "Baijun Shang is an Early-career Soil Carbon researcher at Guangxi University in CN. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.359981
+date: 2026-04-02T07:03:26.910205
 url: "/cdr-researcher-census/researchers/baijun-shang-a5029577/"
 layout: "researcher"
 hiddenInHomeList: true

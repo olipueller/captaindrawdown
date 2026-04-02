@@ -1,7 +1,7 @@
 ---
 title: "Christopher Poeplau"
 description: "Christopher Poeplau is an Eminent Soil Carbon researcher at Johann Heinrich von Thünen-Institut in DE. With 211 publications and an h-index of 42, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.103132
+date: 2026-04-02T07:03:23.651084
 url: "/cdr-researcher-census/researchers/christopher-poeplau-a5047371/"
 layout: "researcher"
 hiddenInHomeList: true

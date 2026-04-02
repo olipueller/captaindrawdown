@@ -1,7 +1,7 @@
 ---
 title: "Mahdis Sadat"
 description: "Mahdis Sadat is a Mid-career General CDR researcher at Nangarhar University in AF. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.201814
+date: 2026-04-02T07:03:25.201653
 url: "/cdr-researcher-census/researchers/mahdis-sadat-a5110310/"
 layout: "researcher"
 hiddenInHomeList: true

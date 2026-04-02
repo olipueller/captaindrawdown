@@ -1,7 +1,7 @@
 ---
 title: "So‐Won Park"
 description: "So‐Won Park is a Mid-career General CDR researcher at Seoul National University in KR. With 39 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.332704
+date: 2026-04-02T07:03:25.386773
 url: "/cdr-researcher-census/researchers/sowon-park-a5012875/"
 layout: "researcher"
 hiddenInHomeList: true

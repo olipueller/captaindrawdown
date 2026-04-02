@@ -1,7 +1,7 @@
 ---
 title: "Negar Vakilifard"
 description: "Negar Vakilifard is a Mid-career Enhanced Weathering researcher at University of Sheffield in GB. With 31 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.714956
+date: 2026-04-02T07:03:24.486717
 url: "/cdr-researcher-census/researchers/negar-vakilifard-a5006193/"
 layout: "researcher"
 hiddenInHomeList: true

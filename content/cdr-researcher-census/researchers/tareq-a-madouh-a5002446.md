@@ -1,7 +1,7 @@
 ---
 title: "Tareq A. Madouh"
 description: "Tareq A. Madouh is a Senior carbon dioxide removal researcher at Kuwait Institute for Scientific Research in KW. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.210451
+date: 2026-04-02T07:03:26.693529
 url: "/cdr-researcher-census/researchers/tareq-a-madouh-a5002446/"
 layout: "researcher"
 hiddenInHomeList: true

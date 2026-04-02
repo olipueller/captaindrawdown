@@ -1,7 +1,7 @@
 ---
 title: "Liyu Chen"
 description: "Liyu Chen is a Mid-career Soil Carbon researcher at Inner Mongolia Academy of Agricultural & Animal Husbandry Sciences in CN. With 23 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.875000
+date: 2026-04-02T07:03:26.178856
 url: "/cdr-researcher-census/researchers/liyu-chen-a5100698/"
 layout: "researcher"
 hiddenInHomeList: true

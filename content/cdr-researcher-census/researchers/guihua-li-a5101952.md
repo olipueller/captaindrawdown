@@ -1,7 +1,7 @@
 ---
 title: "Guihua Li"
 description: "Guihua Li is a Mid-career Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.942273
+date: 2026-04-02T07:03:26.281142
 url: "/cdr-researcher-census/researchers/guihua-li-a5101952/"
 layout: "researcher"
 hiddenInHomeList: true

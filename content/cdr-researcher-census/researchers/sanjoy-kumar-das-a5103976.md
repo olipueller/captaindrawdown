@@ -1,7 +1,7 @@
 ---
 title: "Sanjoy Kumar Das"
 description: "Sanjoy Kumar Das is a Senior Soil Carbon researcher. With 24 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.222210
+date: 2026-04-02T07:03:25.234865
 url: "/cdr-researcher-census/researchers/sanjoy-kumar-das-a5103976/"
 layout: "researcher"
 hiddenInHomeList: true

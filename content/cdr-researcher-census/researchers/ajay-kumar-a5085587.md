@@ -1,7 +1,7 @@
 ---
 title: "Ajay Kumar"
 description: "Ajay Kumar is an Early-career Soil Carbon researcher at Indian Council of Forestry Research and Education in IN. With 10 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.798782
+date: 2026-04-02T07:03:26.070783
 url: "/cdr-researcher-census/researchers/ajay-kumar-a5085587/"
 layout: "researcher"
 hiddenInHomeList: true

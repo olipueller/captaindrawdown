@@ -1,7 +1,7 @@
 ---
 title: "Xueya Lu"
 description: "Xueya Lu is a Mid-career General CDR researcher. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.142281
+date: 2026-04-02T07:03:26.571671
 url: "/cdr-researcher-census/researchers/xueya-lu-a5076924/"
 layout: "researcher"
 hiddenInHomeList: true

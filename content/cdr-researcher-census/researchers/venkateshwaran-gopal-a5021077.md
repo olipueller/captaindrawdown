@@ -1,7 +1,7 @@
 ---
 title: "Venkateshwaran Gopal"
 description: "Venkateshwaran Gopal is a Senior Biochar researcher at Indian Institute of Technology Hyderabad in IN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.940568
+date: 2026-04-02T07:03:26.278965
 url: "/cdr-researcher-census/researchers/venkateshwaran-gopal-a5021077/"
 layout: "researcher"
 hiddenInHomeList: true

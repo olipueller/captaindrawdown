@@ -1,7 +1,7 @@
 ---
 title: "Dorian Leger"
 description: "Dorian Leger is an Early-career carbon dioxide removal researcher at Central Bank of Luxembourg in LU. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.916701
+date: 2026-04-02T07:03:26.240322
 url: "/cdr-researcher-census/researchers/dorian-leger-a5052552/"
 layout: "researcher"
 hiddenInHomeList: true

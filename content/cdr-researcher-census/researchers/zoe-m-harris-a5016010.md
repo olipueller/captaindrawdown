@@ -1,7 +1,7 @@
 ---
 title: "Zoe M. Harris"
 description: "Zoe M. Harris is a Senior BECCS researcher at University of Surrey in GB. With 46 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.439050
+date: 2026-04-02T07:03:24.089198
 url: "/cdr-researcher-census/researchers/zoe-m-harris-a5016010/"
 layout: "researcher"
 hiddenInHomeList: true

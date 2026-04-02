@@ -1,7 +1,7 @@
 ---
 title: "Baoan Hu"
 description: "Baoan Hu is a Senior Soil Carbon researcher at Central South University of Forestry and Technology in CN. With 28 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.085979
+date: 2026-04-02T07:03:25.034071
 url: "/cdr-researcher-census/researchers/baoan-hu-a5071956/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Anthony D. Ruiz"
 description: "Anthony D. Ruiz is an Early-career DAC researcher at University of California, Riverside in US. With 2 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.216652
+date: 2026-04-02T07:03:25.225443
 url: "/cdr-researcher-census/researchers/anthony-d-ruiz-a5014537/"
 layout: "researcher"
 hiddenInHomeList: true

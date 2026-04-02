@@ -1,7 +1,7 @@
 ---
 title: "Traci Birge"
 description: "Traci Birge is a Mid-career Soil Carbon researcher at University of Helsinki in FI. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.478779
+date: 2026-04-02T07:03:24.145453
 url: "/cdr-researcher-census/researchers/traci-birge-a5016342/"
 layout: "researcher"
 hiddenInHomeList: true

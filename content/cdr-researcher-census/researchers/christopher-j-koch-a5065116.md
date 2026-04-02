@@ -1,7 +1,7 @@
 ---
 title: "Christopher J. Koch"
 description: "Christopher J. Koch is a Mid-career General CDR researcher at University of Southern California in US. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.510500
+date: 2026-04-02T07:03:25.674788
 url: "/cdr-researcher-census/researchers/christopher-j-koch-a5065116/"
 layout: "researcher"
 hiddenInHomeList: true

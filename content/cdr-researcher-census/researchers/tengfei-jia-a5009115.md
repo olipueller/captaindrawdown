@@ -1,7 +1,7 @@
 ---
 title: "Tengfei Jia"
 description: "Tengfei Jia is a Mid-career carbon dioxide removal researcher at China Geological Survey in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.046907
+date: 2026-04-02T07:03:26.431753
 url: "/cdr-researcher-census/researchers/tengfei-jia-a5009115/"
 layout: "researcher"
 hiddenInHomeList: true

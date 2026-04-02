@@ -1,7 +1,7 @@
 ---
 title: "Qingliang Shi"
 description: "Qingliang Shi is a Mid-career Biochar researcher at Guilin University of Technology in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.461165
+date: 2026-04-02T07:03:25.578940
 url: "/cdr-researcher-census/researchers/qingliang-shi-a5006398/"
 layout: "researcher"
 hiddenInHomeList: true

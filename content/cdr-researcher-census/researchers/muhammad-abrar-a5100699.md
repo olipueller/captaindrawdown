@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Abrar"
 description: "Muhammad Abrar is a Senior Soil Carbon researcher at Quaid-i-Azam University in PK. With 78 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.239910
+date: 2026-04-02T07:03:23.825558
 url: "/cdr-researcher-census/researchers/muhammad-abrar-a5100699/"
 layout: "researcher"
 hiddenInHomeList: true

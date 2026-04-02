@@ -1,7 +1,7 @@
 ---
 title: "Zemin Ai"
 description: "Zemin Ai is a Mid-career Soil Carbon researcher at China University of Mining and Technology in CN. With 44 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.458812
+date: 2026-04-02T07:03:24.117606
 url: "/cdr-researcher-census/researchers/zemin-ai-a5045276/"
 layout: "researcher"
 hiddenInHomeList: true

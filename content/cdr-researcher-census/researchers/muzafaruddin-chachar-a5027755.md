@@ -1,7 +1,7 @@
 ---
 title: "Muzafaruddin Chachar"
 description: "Muzafaruddin Chachar is a Mid-career carbon dioxide removal researcher at Sindh Agriculture University in PK. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.824418
+date: 2026-04-02T07:03:26.107665
 url: "/cdr-researcher-census/researchers/muzafaruddin-chachar-a5027755/"
 layout: "researcher"
 hiddenInHomeList: true

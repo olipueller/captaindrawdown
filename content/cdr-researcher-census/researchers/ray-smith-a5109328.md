@@ -1,7 +1,7 @@
 ---
 title: "Ray Smith"
 description: "Ray Smith is a Senior Soil Carbon researcher at University of Kentucky in US. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.847107
+date: 2026-04-02T07:03:26.140043
 url: "/cdr-researcher-census/researchers/ray-smith-a5109328/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yuxuan Li"
 description: "Yuxuan Li is a Mid-career Biochar researcher at Guangxi Normal University in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.563590
+date: 2026-04-02T07:03:25.750238
 url: "/cdr-researcher-census/researchers/yuxuan-li-a5066270/"
 layout: "researcher"
 hiddenInHomeList: true

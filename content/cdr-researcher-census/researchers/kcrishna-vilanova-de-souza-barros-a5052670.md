@@ -1,7 +1,7 @@
 ---
 title: "Kcrishna Vilanova de Souza Barros"
 description: "Kcrishna Vilanova de Souza Barros is a Mid-career Ocean CDR researcher at Universidade Federal do Ceará in BR. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.440861
+date: 2026-04-02T07:03:25.547459
 url: "/cdr-researcher-census/researchers/kcrishna-vilanova-de-souza-barros-a5052670/"
 layout: "researcher"
 hiddenInHomeList: true

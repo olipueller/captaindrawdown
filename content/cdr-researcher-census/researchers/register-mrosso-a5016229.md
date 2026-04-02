@@ -1,7 +1,7 @@
 ---
 title: "Register Mrosso"
 description: "Register Mrosso is a Mid-career carbon dioxide removal researcher at Nelson Mandela African Institution of Science and Technology in TZ. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.221403
+date: 2026-04-02T07:03:26.709474
 url: "/cdr-researcher-census/researchers/register-mrosso-a5016229/"
 layout: "researcher"
 hiddenInHomeList: true

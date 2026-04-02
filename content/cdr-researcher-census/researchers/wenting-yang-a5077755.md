@@ -1,7 +1,7 @@
 ---
 title: "Wenting Yang"
 description: "Wenting Yang is a Mid-career Soil Carbon researcher at Fudan University in CN. With 40 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.573757
+date: 2026-04-02T07:03:24.282209
 url: "/cdr-researcher-census/researchers/wenting-yang-a5077755/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yuqian Lei"
 description: "Yuqian Lei is a Mid-career Soil Carbon researcher at Xi'an Jiaotong University in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.018414
+date: 2026-04-02T07:03:26.387480
 url: "/cdr-researcher-census/researchers/yuqian-lei-a5076717/"
 layout: "researcher"
 hiddenInHomeList: true

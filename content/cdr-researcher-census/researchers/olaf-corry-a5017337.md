@@ -1,7 +1,7 @@
 ---
 title: "Olaf Corry"
 description: "Olaf Corry is a Senior General CDR researcher at University of Leeds in GB. With 68 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.391193
+date: 2026-04-02T07:03:24.028785
 url: "/cdr-researcher-census/researchers/olaf-corry-a5017337/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Danqi She"
 description: "Danqi She is a Mid-career Soil Carbon researcher at Northeast Forestry University in CN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.009338
+date: 2026-04-02T07:03:26.374579
 url: "/cdr-researcher-census/researchers/danqi-she-a5087595/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Olivier Duboc"
 description: "Olivier Duboc is a Mid-career Soil Carbon researcher at Konrad Lorenz Institute for Evolution and Cognition Research in AT. With 30 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.921834
+date: 2026-04-02T07:03:24.786173
 url: "/cdr-researcher-census/researchers/olivier-duboc-a5006018/"
 layout: "researcher"
 hiddenInHomeList: true

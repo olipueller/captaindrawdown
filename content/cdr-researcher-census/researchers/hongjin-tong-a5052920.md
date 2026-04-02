@@ -1,7 +1,7 @@
 ---
 title: "Hongjin Tong"
 description: "Hongjin Tong is a Mid-career carbon dioxide removal researcher at Sichuan Academy Of Social Sciences in CN. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.837935
+date: 2026-04-02T07:03:26.127340
 url: "/cdr-researcher-census/researchers/hongjin-tong-a5052920/"
 layout: "researcher"
 hiddenInHomeList: true

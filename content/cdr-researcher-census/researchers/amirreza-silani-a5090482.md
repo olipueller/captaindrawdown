@@ -1,7 +1,7 @@
 ---
 title: "Amirreza Silani"
 description: "Amirreza Silani is a Mid-career DAC researcher at Netherlands Organisation for Applied Scientific Research in NL. With 18 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.362628
+date: 2026-04-02T07:03:26.914033
 url: "/cdr-researcher-census/researchers/amirreza-silani-a5090482/"
 layout: "researcher"
 hiddenInHomeList: true

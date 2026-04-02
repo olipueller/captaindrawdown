@@ -1,7 +1,7 @@
 ---
 title: "Dionysios Vroulias"
 description: "Dionysios Vroulias is a Mid-career carbon dioxide removal researcher at University of Patras in GR. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.940056
+date: 2026-04-02T07:03:26.278035
 url: "/cdr-researcher-census/researchers/dionysios-vroulias-a5020839/"
 layout: "researcher"
 hiddenInHomeList: true

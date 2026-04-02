@@ -1,7 +1,7 @@
 ---
 title: "Aaron Kinyu Hoshide"
 description: "Aaron Kinyu Hoshide is a Senior Soil Carbon researcher at Sensei Economic Solutions, LLC in US. With 58 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.516482
+date: 2026-04-02T07:03:24.195163
 url: "/cdr-researcher-census/researchers/aaron-kinyu-hoshide-a5066275/"
 layout: "researcher"
 hiddenInHomeList: true

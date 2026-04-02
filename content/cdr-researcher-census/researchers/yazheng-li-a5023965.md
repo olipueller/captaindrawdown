@@ -1,7 +1,7 @@
 ---
 title: "Yazheng Li"
 description: "Yazheng Li is a Mid-career Soil Carbon researcher at Anhui University in CN. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.780733
+date: 2026-04-02T07:03:26.044534
 url: "/cdr-researcher-census/researchers/yazheng-li-a5023965/"
 layout: "researcher"
 hiddenInHomeList: true

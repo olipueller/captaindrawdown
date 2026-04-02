@@ -1,7 +1,7 @@
 ---
 title: "Yuelun Li"
 description: "Yuelun Li is a Mid-career carbon dioxide removal researcher at Kunming University of Science and Technology in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.424543
+date: 2026-04-02T07:03:25.524107
 url: "/cdr-researcher-census/researchers/yuelun-li-a5101476/"
 layout: "researcher"
 hiddenInHomeList: true

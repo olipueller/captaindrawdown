@@ -1,7 +1,7 @@
 ---
 title: "Justine Kitony"
 description: "Justine Kitony is a Mid-career Soil Carbon researcher at Salk Institute for Biological Studies in US. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.011734
+date: 2026-04-02T07:03:26.377875
 url: "/cdr-researcher-census/researchers/justine-kitony-a5010005/"
 layout: "researcher"
 hiddenInHomeList: true

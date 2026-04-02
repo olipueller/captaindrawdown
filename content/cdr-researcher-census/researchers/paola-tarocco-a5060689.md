@@ -1,7 +1,7 @@
 ---
 title: "Paola Tarocco"
 description: "Paola Tarocco is a Mid-career Soil Carbon researcher at Agenzia Regionale Prevenzione e Ambiente della Regione Emilia-Romagna in IT. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.376164
+date: 2026-04-02T07:03:25.451876
 url: "/cdr-researcher-census/researchers/paola-tarocco-a5060689/"
 layout: "researcher"
 hiddenInHomeList: true

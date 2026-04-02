@@ -1,7 +1,7 @@
 ---
 title: "Charlotte M. Wentz"
 description: "Charlotte M. Wentz is a Mid-career DAC researcher at National Institute of Standards and Technology in US. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.435083
+date: 2026-04-02T07:03:25.538994
 url: "/cdr-researcher-census/researchers/charlotte-m-wentz-a5086526/"
 layout: "researcher"
 hiddenInHomeList: true

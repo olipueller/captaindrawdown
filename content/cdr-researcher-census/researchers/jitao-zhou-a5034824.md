@@ -1,7 +1,7 @@
 ---
 title: "Jitao Zhou"
 description: "Jitao Zhou is a Mid-career General CDR researcher at Chang'an University in CN. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.129623
+date: 2026-04-02T07:03:25.098791
 url: "/cdr-researcher-census/researchers/jitao-zhou-a5034824/"
 layout: "researcher"
 hiddenInHomeList: true

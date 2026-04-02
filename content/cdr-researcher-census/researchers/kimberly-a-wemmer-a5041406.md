@@ -1,7 +1,7 @@
 ---
 title: "Kimberly A. Wemmer"
 description: "Kimberly A. Wemmer is a Senior Enhanced Weathering researcher at Alameda Hospital in US. With 23 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.647452
+date: 2026-04-02T07:03:24.387167
 url: "/cdr-researcher-census/researchers/kimberly-a-wemmer-a5041406/"
 layout: "researcher"
 hiddenInHomeList: true

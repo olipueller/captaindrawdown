@@ -1,7 +1,7 @@
 ---
 title: "Masood S. Alivand"
 description: "Masood S. Alivand is a Senior DAC researcher at Monash University in AU. With 56 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.301671
+date: 2026-04-02T07:03:23.912288
 url: "/cdr-researcher-census/researchers/masood-s-alivand-a5010731/"
 layout: "researcher"
 hiddenInHomeList: true

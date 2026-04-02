@@ -1,7 +1,7 @@
 ---
 title: "Rachel A. Short"
 description: "Rachel A. Short is a Mid-career General CDR researcher at South Dakota State University in US. With 33 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.979108
+date: 2026-04-02T07:03:26.329396
 url: "/cdr-researcher-census/researchers/rachel-a-short-a5022983/"
 layout: "researcher"
 hiddenInHomeList: true

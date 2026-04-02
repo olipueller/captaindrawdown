@@ -1,7 +1,7 @@
 ---
 title: "Benjamin Dietrich"
 description: "Benjamin Dietrich is a Senior DAC researcher at Institute of Thermal Process Engineering at Karlsruhe Institute of Technology in DE. With 43 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.617887
+date: 2026-04-02T07:03:24.346079
 url: "/cdr-researcher-census/researchers/benjamin-dietrich-a5106418/"
 layout: "researcher"
 hiddenInHomeList: true

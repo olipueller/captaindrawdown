@@ -1,7 +1,7 @@
 ---
 title: "Aaron Prairie"
 description: "Aaron Prairie is a Mid-career General CDR researcher at Colorado State University in US. With 15 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.716922
+date: 2026-04-02T07:03:25.986647
 url: "/cdr-researcher-census/researchers/aaron-prairie-a5021265/"
 layout: "researcher"
 hiddenInHomeList: true

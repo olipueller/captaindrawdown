@@ -1,7 +1,7 @@
 ---
 title: "Ishfaq Ahmad Mir"
 description: "Ishfaq Ahmad Mir is a Mid-career General CDR researcher at Geological Survey of India in IN. With 37 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.478891
+date: 2026-04-02T07:03:25.630204
 url: "/cdr-researcher-census/researchers/ishfaq-ahmad-mir-a5047353/"
 layout: "researcher"
 hiddenInHomeList: true

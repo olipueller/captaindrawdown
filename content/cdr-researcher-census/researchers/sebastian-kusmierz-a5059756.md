@@ -1,7 +1,7 @@
 ---
 title: "Sebastian Kuśmierz"
 description: "Sebastian Kuśmierz is a Mid-career Soil Carbon researcher at University of Life Sciences in Lublin in PL. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.057477
+date: 2026-04-02T07:03:26.449384
 url: "/cdr-researcher-census/researchers/sebastian-kusmierz-a5059756/"
 layout: "researcher"
 hiddenInHomeList: true

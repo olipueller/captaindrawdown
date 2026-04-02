@@ -1,7 +1,7 @@
 ---
 title: "Liqun Xiu"
 description: "Liqun Xiu is a Mid-career Biochar researcher at Shenyang Agricultural University in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.990220
+date: 2026-04-02T07:03:24.894236
 url: "/cdr-researcher-census/researchers/liqun-xiu-a5079063/"
 layout: "researcher"
 hiddenInHomeList: true

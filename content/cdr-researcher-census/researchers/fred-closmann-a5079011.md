@@ -1,7 +1,7 @@
 ---
 title: "Fred Closmann"
 description: "Fred Closmann is a Senior General CDR researcher at The University of Texas at Austin in US. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.019983
+date: 2026-04-02T07:03:24.936822
 url: "/cdr-researcher-census/researchers/fred-closmann-a5079011/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Lei Ze-yong"
 description: "Lei Ze-yong is a Senior Soil Carbon researcher at University of South China in CN. With 37 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.640853
+date: 2026-04-02T07:03:25.867182
 url: "/cdr-researcher-census/researchers/lei-ze-yong-a5102977/"
 layout: "researcher"
 hiddenInHomeList: true

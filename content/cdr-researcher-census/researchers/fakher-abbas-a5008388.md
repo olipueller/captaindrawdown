@@ -1,7 +1,7 @@
 ---
 title: "Fakher Abbas"
 description: "Fakher Abbas is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.012610
+date: 2026-04-02T07:03:24.926768
 url: "/cdr-researcher-census/researchers/fakher-abbas-a5008388/"
 layout: "researcher"
 hiddenInHomeList: true

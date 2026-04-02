@@ -1,7 +1,7 @@
 ---
 title: "Heath Hasemer"
 description: "Heath Hasemer is an Early-career Enhanced Weathering researcher at Australian National University in AU. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.895308
+date: 2026-04-02T07:03:26.209053
 url: "/cdr-researcher-census/researchers/heath-hasemer-a5080400/"
 layout: "researcher"
 hiddenInHomeList: true

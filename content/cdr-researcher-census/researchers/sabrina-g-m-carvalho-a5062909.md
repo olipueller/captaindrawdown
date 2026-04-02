@@ -1,7 +1,7 @@
 ---
 title: "Sabrina G. M. Carvalho"
 description: "Sabrina G. M. Carvalho is a Mid-career carbon dioxide removal researcher at National Nuclear Energy Commission in BR. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.332901
+date: 2026-04-02T07:03:26.871231
 url: "/cdr-researcher-census/researchers/sabrina-g-m-carvalho-a5062909/"
 layout: "researcher"
 hiddenInHomeList: true

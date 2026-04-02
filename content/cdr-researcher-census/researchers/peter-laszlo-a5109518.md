@@ -1,7 +1,7 @@
 ---
 title: "Péter László"
 description: "Péter László is a Senior Soil Carbon researcher at Agrárközgazdasági Intézet in HU. With 37 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.169091
+date: 2026-04-02T07:03:25.154653
 url: "/cdr-researcher-census/researchers/peter-laszlo-a5109518/"
 layout: "researcher"
 hiddenInHomeList: true

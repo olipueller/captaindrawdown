@@ -1,7 +1,7 @@
 ---
 title: "Guillermo Quijano"
 description: "Guillermo Quijano is a Mid-career carbon dioxide removal researcher in GB. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.491089
+date: 2026-04-02T07:03:25.647148
 url: "/cdr-researcher-census/researchers/guillermo-quijano-a5039297/"
 layout: "researcher"
 hiddenInHomeList: true

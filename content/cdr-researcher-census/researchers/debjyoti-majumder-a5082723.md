@@ -1,7 +1,7 @@
 ---
 title: "Debjyoti Majumder"
 description: "Debjyoti Majumder is a Mid-career Biochar researcher at Bidhan Chandra Krishi Viswavidyalaya in IN. With 38 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.634670
+date: 2026-04-02T07:03:25.856853
 url: "/cdr-researcher-census/researchers/debjyoti-majumder-a5082723/"
 layout: "researcher"
 hiddenInHomeList: true

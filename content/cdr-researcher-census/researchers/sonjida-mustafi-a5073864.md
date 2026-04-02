@@ -1,7 +1,7 @@
 ---
 title: "Sonjida Mustafi"
 description: "Sonjida Mustafi is a Senior Biochar researcher at Central Glass and Ceramic Research Institute in IN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.267515
+date: 2026-04-02T07:03:26.777188
 url: "/cdr-researcher-census/researchers/sonjida-mustafi-a5073864/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Kristine Karstens"
 description: "Kristine Karstens is a Mid-career General CDR researcher at Leibniz Association in DE. With 49 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.759805
+date: 2026-04-02T07:03:24.554558
 url: "/cdr-researcher-census/researchers/kristine-karstens-a5086008/"
 layout: "researcher"
 hiddenInHomeList: true

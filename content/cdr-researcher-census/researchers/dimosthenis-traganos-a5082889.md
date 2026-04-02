@@ -1,7 +1,7 @@
 ---
 title: "Dimosthenis Traganos"
 description: "Dimosthenis Traganos is a Mid-career Ocean CDR researcher at Deutsches Zentrum für Luft und Raumfahrt DLR Standort Berlin in DE. With 35 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.340666
+date: 2026-04-02T07:03:23.964165
 url: "/cdr-researcher-census/researchers/dimosthenis-traganos-a5082889/"
 layout: "researcher"
 hiddenInHomeList: true

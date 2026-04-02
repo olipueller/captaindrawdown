@@ -1,7 +1,7 @@
 ---
 title: "Xinwei Liu"
 description: "Xinwei Liu is a Senior Soil Carbon researcher at Qingdao Agricultural University in CN. With 141 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.234844
+date: 2026-04-02T07:03:23.819259
 url: "/cdr-researcher-census/researchers/xinwei-liu-a5100461/"
 layout: "researcher"
 hiddenInHomeList: true

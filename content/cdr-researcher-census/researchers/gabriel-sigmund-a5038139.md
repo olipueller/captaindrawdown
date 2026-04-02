@@ -1,7 +1,7 @@
 ---
 title: "Gabriel Sigmund"
 description: "Gabriel Sigmund is a Senior Biochar researcher at Wageningen University & Research in NL. With 97 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.197735
+date: 2026-04-02T07:03:23.775910
 url: "/cdr-researcher-census/researchers/gabriel-sigmund-a5038139/"
 layout: "researcher"
 hiddenInHomeList: true

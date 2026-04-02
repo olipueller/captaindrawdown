@@ -1,7 +1,7 @@
 ---
 title: "Kejun Wu"
 description: "Kejun Wu is a Mid-career carbon dioxide removal researcher at China Tourism Academy in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.857246
+date: 2026-04-02T07:03:24.685641
 url: "/cdr-researcher-census/researchers/kejun-wu-a5035970/"
 layout: "researcher"
 hiddenInHomeList: true

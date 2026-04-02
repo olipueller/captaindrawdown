@@ -1,7 +1,7 @@
 ---
 title: "Jason Keppler"
 description: "Jason Keppler is a Senior General CDR researcher at Maryland Department of Natural Resources in US. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.019524
+date: 2026-04-02T07:03:24.936270
 url: "/cdr-researcher-census/researchers/jason-keppler-a5090679/"
 layout: "researcher"
 hiddenInHomeList: true

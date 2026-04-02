@@ -1,7 +1,7 @@
 ---
 title: "Graeme Taylor"
 description: "Graeme Taylor is a Senior General CDR researcher. With 38 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.955704
+date: 2026-04-02T07:03:24.838853
 url: "/cdr-researcher-census/researchers/graeme-taylor-a5006458/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Shunyao Zhuang"
 description: "Shunyao Zhuang is a Senior Soil Carbon researcher at University of Southern Denmark in DK. With 74 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.416311
+date: 2026-04-02T07:03:24.058681
 url: "/cdr-researcher-census/researchers/shunyao-zhuang-a5007069/"
 layout: "researcher"
 hiddenInHomeList: true

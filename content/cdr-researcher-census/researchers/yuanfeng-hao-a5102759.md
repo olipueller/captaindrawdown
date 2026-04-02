@@ -1,7 +1,7 @@
 ---
 title: "Yuanfeng Hao"
 description: "Yuanfeng Hao is a Mid-career Soil Carbon researcher at Henan Forestry Vocational College in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.749153
+date: 2026-04-02T07:03:25.997260
 url: "/cdr-researcher-census/researchers/yuanfeng-hao-a5102759/"
 layout: "researcher"
 hiddenInHomeList: true

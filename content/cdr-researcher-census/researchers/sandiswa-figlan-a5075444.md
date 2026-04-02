@@ -1,7 +1,7 @@
 ---
 title: "Sandiswa Figlan"
 description: "Sandiswa Figlan is a Mid-career Soil Carbon researcher at University of South Africa in ZA. With 52 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.680309
+date: 2026-04-02T07:03:24.439917
 url: "/cdr-researcher-census/researchers/sandiswa-figlan-a5075444/"
 layout: "researcher"
 hiddenInHomeList: true

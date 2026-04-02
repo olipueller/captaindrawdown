@@ -1,7 +1,7 @@
 ---
 title: "Amanda Stubbs"
 description: "Amanda Stubbs is a Senior Enhanced Weathering researcher. With 56 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.762926
+date: 2026-04-02T07:03:24.558794
 url: "/cdr-researcher-census/researchers/amanda-stubbs-a5041395/"
 layout: "researcher"
 hiddenInHomeList: true

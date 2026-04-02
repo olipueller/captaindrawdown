@@ -1,7 +1,7 @@
 ---
 title: "Buchu Lu"
 description: "Buchu Lu is a Mid-career carbon dioxide removal researcher at Chinese Academy of Sciences in CN. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.423937
+date: 2026-04-02T07:03:25.523260
 url: "/cdr-researcher-census/researchers/buchu-lu-a5050906/"
 layout: "researcher"
 hiddenInHomeList: true

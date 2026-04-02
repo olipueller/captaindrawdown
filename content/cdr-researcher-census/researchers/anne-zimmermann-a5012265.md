@@ -1,7 +1,7 @@
 ---
 title: "Anne Zimmermann"
 description: "Anne Zimmermann is a Senior General CDR researcher at University of Copenhagen in DK. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.013183
+date: 2026-04-02T07:03:24.927444
 url: "/cdr-researcher-census/researchers/anne-zimmermann-a5012265/"
 layout: "researcher"
 hiddenInHomeList: true

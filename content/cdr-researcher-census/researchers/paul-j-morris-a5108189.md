@@ -1,7 +1,7 @@
 ---
 title: "Paul J. Morris"
 description: "Paul J. Morris is a Senior General CDR researcher at Woods Hole Oceanographic Institution in US. With 24 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.275109
+date: 2026-04-02T07:03:23.875869
 url: "/cdr-researcher-census/researchers/paul-j-morris-a5108189/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Hyungseop Ahn"
 description: "Hyungseop Ahn is a Mid-career carbon dioxide removal researcher at Korea University in KR. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.820765
+date: 2026-04-02T07:03:26.102922
 url: "/cdr-researcher-census/researchers/hyungseop-ahn-a5024975/"
 layout: "researcher"
 hiddenInHomeList: true

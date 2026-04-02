@@ -1,7 +1,7 @@
 ---
 title: "Huifang Yang"
 description: "Huifang Yang is a Mid-career carbon dioxide removal researcher at State Ethnic Affairs Commission in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.671315
+date: 2026-04-02T07:03:25.916126
 url: "/cdr-researcher-census/researchers/huifang-yang-a5101590/"
 layout: "researcher"
 hiddenInHomeList: true

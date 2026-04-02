@@ -1,7 +1,7 @@
 ---
 title: "Jiacheng Gao"
 description: "Jiacheng Gao is a Senior Soil Carbon researcher at China Meteorological Administration in CN. With 37 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.886172
+date: 2026-04-02T07:03:24.728483
 url: "/cdr-researcher-census/researchers/jiacheng-gao-a5101841/"
 layout: "researcher"
 hiddenInHomeList: true

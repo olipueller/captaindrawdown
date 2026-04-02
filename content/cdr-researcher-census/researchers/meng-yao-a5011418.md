@@ -1,7 +1,7 @@
 ---
 title: "Meng Yao"
 description: "Meng Yao is a Senior General CDR researcher. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.067512
+date: 2026-04-02T07:03:26.461603
 url: "/cdr-researcher-census/researchers/meng-yao-a5011418/"
 layout: "researcher"
 hiddenInHomeList: true

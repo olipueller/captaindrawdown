@@ -1,7 +1,7 @@
 ---
 title: "Matoor Mohsin Gilani"
 description: "Matoor Mohsin Gilani is a Mid-career Soil Carbon researcher at Bahauddin Zakariya University in PK. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.651512
+date: 2026-04-02T07:03:25.884658
 url: "/cdr-researcher-census/researchers/matoor-mohsin-gilani-a5033041/"
 layout: "researcher"
 hiddenInHomeList: true

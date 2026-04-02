@@ -1,7 +1,7 @@
 ---
 title: "Afnan Khalil Ahmad Suleiman"
 description: "Afnan Khalil Ahmad Suleiman is a Senior BECCS researcher at Bioclear Earth (Netherlands) in NL. With 31 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.385093
+date: 2026-04-02T07:03:24.022431
 url: "/cdr-researcher-census/researchers/afnan-khalil-ahmad-suleiman-a5057407/"
 layout: "researcher"
 hiddenInHomeList: true

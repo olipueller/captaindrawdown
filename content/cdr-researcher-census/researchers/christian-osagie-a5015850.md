@@ -1,7 +1,7 @@
 ---
 title: "Christian Osagie"
 description: "Christian Osagie is a Mid-career carbon dioxide removal researcher at Brandenburg University of Applied Sciences in DE. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.544646
+date: 2026-04-02T07:03:24.240719
 url: "/cdr-researcher-census/researchers/christian-osagie-a5015850/"
 layout: "researcher"
 hiddenInHomeList: true

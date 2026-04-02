@@ -1,7 +1,7 @@
 ---
 title: "Yongju Yang"
 description: "Yongju Yang is a Mid-career General CDR researcher at Henan Polytechnic University in CN. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.249571
+date: 2026-04-02T07:03:26.748389
 url: "/cdr-researcher-census/researchers/yongju-yang-a5102591/"
 layout: "researcher"
 hiddenInHomeList: true

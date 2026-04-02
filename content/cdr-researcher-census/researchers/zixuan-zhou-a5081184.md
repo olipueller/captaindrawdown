@@ -1,7 +1,7 @@
 ---
 title: "Zixuan Zhou"
 description: "Zixuan Zhou is a Mid-career carbon dioxide removal researcher at Shanghai Advanced Research Institute in CN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.657875
+date: 2026-04-02T07:03:24.404018
 url: "/cdr-researcher-census/researchers/zixuan-zhou-a5081184/"
 layout: "researcher"
 hiddenInHomeList: true

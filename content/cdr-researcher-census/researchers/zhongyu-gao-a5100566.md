@@ -1,7 +1,7 @@
 ---
 title: "Zhongyu Gao"
 description: "Zhongyu Gao is a Senior Biochar researcher at University of Shanghai for Science and Technology in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.511207
+date: 2026-04-02T07:03:25.675659
 url: "/cdr-researcher-census/researchers/zhongyu-gao-a5100566/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Zhou Shen"
 description: "Zhou Shen is a Mid-career General CDR researcher at Nankai University in CN. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.295545
+date: 2026-04-02T07:03:25.336024
 url: "/cdr-researcher-census/researchers/zhou-shen-a5063784/"
 layout: "researcher"
 hiddenInHomeList: true

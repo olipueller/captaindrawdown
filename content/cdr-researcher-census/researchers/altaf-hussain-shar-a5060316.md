@@ -1,7 +1,7 @@
 ---
 title: "Altaf Hussain Shar"
 description: "Altaf Hussain Shar is a Mid-career carbon dioxide removal researcher at University of Science and Technology of China in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.405054
+date: 2026-04-02T07:03:25.495592
 url: "/cdr-researcher-census/researchers/altaf-hussain-shar-a5060316/"
 layout: "researcher"
 hiddenInHomeList: true

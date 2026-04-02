@@ -1,7 +1,7 @@
 ---
 title: "Amy I. Hsieh"
 description: "Amy I. Hsieh is a Mid-career Enhanced Weathering researcher at University of Lausanne in CH. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.458020
+date: 2026-04-02T07:03:25.573481
 url: "/cdr-researcher-census/researchers/amy-i-hsieh-a5003902/"
 layout: "researcher"
 hiddenInHomeList: true

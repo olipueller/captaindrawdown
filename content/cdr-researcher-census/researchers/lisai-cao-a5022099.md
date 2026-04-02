@@ -1,7 +1,7 @@
 ---
 title: "Lisai Cao"
 description: "Lisai Cao is a Mid-career General CDR researcher at Jilin University in CN. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.854373
+date: 2026-04-02T07:03:26.150508
 url: "/cdr-researcher-census/researchers/lisai-cao-a5022099/"
 layout: "researcher"
 hiddenInHomeList: true

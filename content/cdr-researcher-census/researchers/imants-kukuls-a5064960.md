@@ -1,7 +1,7 @@
 ---
 title: "Imants Kukuļs"
 description: "Imants Kukuļs is a Mid-career Soil Carbon researcher at University of Latvia in LV. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.019079
+date: 2026-04-02T07:03:26.388347
 url: "/cdr-researcher-census/researchers/imants-kukuls-a5064960/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Harsha Kumar Bokka"
 description: "Harsha Kumar Bokka is a Mid-career General CDR researcher at National University of Singapore in SG. With 7 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.538928
+date: 2026-04-02T07:03:25.715210
 url: "/cdr-researcher-census/researchers/harsha-kumar-bokka-a5058411/"
 layout: "researcher"
 hiddenInHomeList: true

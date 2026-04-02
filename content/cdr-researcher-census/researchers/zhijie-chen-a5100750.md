@@ -1,7 +1,7 @@
 ---
 title: "Zhijie Chen"
 description: "Zhijie Chen is a Mid-career Soil Carbon researcher at Fujian Normal University in CN. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.660858
+date: 2026-04-02T07:03:25.898874
 url: "/cdr-researcher-census/researchers/zhijie-chen-a5100750/"
 layout: "researcher"
 hiddenInHomeList: true

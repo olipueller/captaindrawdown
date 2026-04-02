@@ -1,7 +1,7 @@
 ---
 title: "Dessie Assefa"
 description: "Dessie Assefa is a Mid-career Soil Carbon researcher at Bahir Dar University in ET. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.351743
+date: 2026-04-02T07:03:25.414417
 url: "/cdr-researcher-census/researchers/dessie-assefa-a5059102/"
 layout: "researcher"
 hiddenInHomeList: true

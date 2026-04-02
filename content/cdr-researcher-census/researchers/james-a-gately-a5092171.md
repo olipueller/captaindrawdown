@@ -1,7 +1,7 @@
 ---
 title: "James A. Gately"
 description: "James A. Gately is an Early-career Ocean CDR researcher. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.370405
+date: 2026-04-02T07:03:26.924793
 url: "/cdr-researcher-census/researchers/james-a-gately-a5092171/"
 layout: "researcher"
 hiddenInHomeList: true

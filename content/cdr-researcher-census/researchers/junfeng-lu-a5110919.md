@@ -1,7 +1,7 @@
 ---
 title: "Junfeng Lu"
 description: "Junfeng Lu is a Senior carbon dioxide removal researcher at Zhejiang International Studies University in CN. With 21 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.228515
+date: 2026-04-02T07:03:25.246502
 url: "/cdr-researcher-census/researchers/junfeng-lu-a5110919/"
 layout: "researcher"
 hiddenInHomeList: true

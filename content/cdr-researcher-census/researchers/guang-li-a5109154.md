@@ -1,7 +1,7 @@
 ---
 title: "Guang Li"
 description: "Guang Li is a Senior Soil Carbon researcher at Nanjing University of Information Science and Technology in CN. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.600127
+date: 2026-04-02T07:03:25.805326
 url: "/cdr-researcher-census/researchers/guang-li-a5109154/"
 layout: "researcher"
 hiddenInHomeList: true

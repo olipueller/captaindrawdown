@@ -1,7 +1,7 @@
 ---
 title: "James A. Sawada"
 description: "James A. Sawada is a Senior carbon dioxide removal researcher at University of Alberta in CA. With 46 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.539813
+date: 2026-04-02T07:03:24.233716
 url: "/cdr-researcher-census/researchers/james-a-sawada-a5019460/"
 layout: "researcher"
 hiddenInHomeList: true

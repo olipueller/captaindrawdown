@@ -1,7 +1,7 @@
 ---
 title: "Bita Sabbaghzadeh"
 description: "Bita Sabbaghzadeh is a Mid-career carbon dioxide removal researcher at Leibniz Institute for Baltic Sea Research Warnemünde in DE. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.559946
+date: 2026-04-02T07:03:25.744725
 url: "/cdr-researcher-census/researchers/bita-sabbaghzadeh-a5042081/"
 layout: "researcher"
 hiddenInHomeList: true

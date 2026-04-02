@@ -1,7 +1,7 @@
 ---
 title: "Jinsong Ti"
 description: "Jinsong Ti is a Mid-career carbon dioxide removal researcher at Henan Agricultural University in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.534749
+date: 2026-04-02T07:03:25.708970
 url: "/cdr-researcher-census/researchers/jinsong-ti-a5015403/"
 layout: "researcher"
 hiddenInHomeList: true

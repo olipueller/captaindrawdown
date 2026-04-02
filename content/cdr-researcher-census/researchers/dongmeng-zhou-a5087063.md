@@ -1,7 +1,7 @@
 ---
 title: "Dongmeng Zhou"
 description: "Dongmeng Zhou is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 31 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.509190
+date: 2026-04-02T07:03:25.672801
 url: "/cdr-researcher-census/researchers/dongmeng-zhou-a5087063/"
 layout: "researcher"
 hiddenInHomeList: true

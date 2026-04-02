@@ -1,7 +1,7 @@
 ---
 title: "Anne Ware"
 description: "Anne Ware is a Senior carbon dioxide removal researcher at National Renewable Energy Laboratory in US. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.141684
+date: 2026-04-02T07:03:26.570669
 url: "/cdr-researcher-census/researchers/anne-ware-a5001574/"
 layout: "researcher"
 hiddenInHomeList: true

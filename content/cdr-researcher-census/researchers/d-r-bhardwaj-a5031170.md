@@ -1,7 +1,7 @@
 ---
 title: "D. R. Bhardwaj"
 description: "D. R. Bhardwaj is a Senior Soil Carbon researcher at Dr. Yashwant Singh Parmar University of Horticulture and Forestry in IN. With 150 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.355592
+date: 2026-04-02T07:03:23.985458
 url: "/cdr-researcher-census/researchers/d-r-bhardwaj-a5031170/"
 layout: "researcher"
 hiddenInHomeList: true

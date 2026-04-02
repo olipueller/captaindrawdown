@@ -1,7 +1,7 @@
 ---
 title: "Pranjali Priyadarshini"
 description: "Pranjali Priyadarshini is a Mid-career DAC researcher at Global University in LB. With 17 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.482915
+date: 2026-04-02T07:03:24.151315
 url: "/cdr-researcher-census/researchers/pranjali-priyadarshini-a5047724/"
 layout: "researcher"
 hiddenInHomeList: true

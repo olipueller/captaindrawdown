@@ -1,7 +1,7 @@
 ---
 title: "Liora E. Mael"
 description: "Liora E. Mael is a Mid-career carbon dioxide removal researcher at University of Colorado Boulder in US. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.358226
+date: 2026-04-02T07:03:25.425336
 url: "/cdr-researcher-census/researchers/liora-e-mael-a5089495/"
 layout: "researcher"
 hiddenInHomeList: true

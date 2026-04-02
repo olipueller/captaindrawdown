@@ -1,7 +1,7 @@
 ---
 title: "Lingyun Fan"
 description: "Lingyun Fan is a Mid-career Biochar researcher at Harbin Normal University in CN. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.034236
+date: 2026-04-02T07:03:24.957409
 url: "/cdr-researcher-census/researchers/lingyun-fan-a5081375/"
 layout: "researcher"
 hiddenInHomeList: true

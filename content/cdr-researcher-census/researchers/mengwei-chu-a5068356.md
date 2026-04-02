@@ -1,7 +1,7 @@
 ---
 title: "Mengwei Chu"
 description: "Mengwei Chu is an Early-career Biochar researcher at North Carolina Natural Heritage Program in US. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.387262
+date: 2026-04-02T07:03:26.949080
 url: "/cdr-researcher-census/researchers/mengwei-chu-a5068356/"
 layout: "researcher"
 hiddenInHomeList: true

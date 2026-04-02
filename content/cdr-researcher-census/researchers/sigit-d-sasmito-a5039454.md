@@ -1,7 +1,7 @@
 ---
 title: "Sigit D. Sasmito"
 description: "Sigit D. Sasmito is a Senior Soil Carbon researcher at James Cook University in AU. With 78 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.179445
+date: 2026-04-02T07:03:23.747916
 url: "/cdr-researcher-census/researchers/sigit-d-sasmito-a5039454/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xiaobin Guo"
 description: "Xiaobin Guo is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 34 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.250616
+date: 2026-04-02T07:03:23.840837
 url: "/cdr-researcher-census/researchers/xiaobin-guo-a5111045/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Anas Ibni Ali Wani"
 description: "Anas Ibni Ali Wani is an Early-career General CDR researcher at School of Planning and Architecture Delhi in IN. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.428138
+date: 2026-04-02T07:03:27.008500
 url: "/cdr-researcher-census/researchers/anas-ibni-ali-wani-a5010052/"
 layout: "researcher"
 hiddenInHomeList: true

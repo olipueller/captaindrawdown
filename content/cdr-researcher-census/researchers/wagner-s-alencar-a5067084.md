@@ -1,7 +1,7 @@
 ---
 title: "Wagner S. Alencar"
 description: "Wagner S. Alencar is a Senior Biochar researcher at Universidade Federal do Sul e Sudeste do Pará in BR. With 18 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.385681
+date: 2026-04-02T07:03:24.023026
 url: "/cdr-researcher-census/researchers/wagner-s-alencar-a5067084/"
 layout: "researcher"
 hiddenInHomeList: true

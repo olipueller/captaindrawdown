@@ -1,7 +1,7 @@
 ---
 title: "Sarah R. Smith"
 description: "Sarah R. Smith is a Senior General CDR researcher at Moss Landing Marine Laboratories in US. With 38 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.193708
+date: 2026-04-02T07:03:23.770055
 url: "/cdr-researcher-census/researchers/sarah-r-smith-a5088804/"
 layout: "researcher"
 hiddenInHomeList: true

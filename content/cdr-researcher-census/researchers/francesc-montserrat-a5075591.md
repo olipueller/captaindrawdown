@@ -1,7 +1,7 @@
 ---
 title: "Francesc Montserrat"
 description: "Francesc Montserrat is a Senior Enhanced Weathering researcher at Universiteit van Amsterdam in NL. With 41 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.356521
+date: 2026-04-02T07:03:23.986851
 url: "/cdr-researcher-census/researchers/francesc-montserrat-a5075591/"
 layout: "researcher"
 hiddenInHomeList: true

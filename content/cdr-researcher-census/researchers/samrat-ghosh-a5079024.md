@@ -1,7 +1,7 @@
 ---
 title: "Samrat Ghosh"
 description: "Samrat Ghosh is a Mid-career Soil Carbon researcher at Bidhan Chandra Krishi Viswavidyalaya in IN. With 22 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.412820
+date: 2026-04-02T07:03:26.984284
 url: "/cdr-researcher-census/researchers/samrat-ghosh-a5079024/"
 layout: "researcher"
 hiddenInHomeList: true

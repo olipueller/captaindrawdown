@@ -1,7 +1,7 @@
 ---
 title: "Srinivasa R. Pinnamaneni"
 description: "Srinivasa R. Pinnamaneni is a Mid-career Soil Carbon researcher at Western Colorado University in US. With 33 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.913867
+date: 2026-04-02T07:03:24.773504
 url: "/cdr-researcher-census/researchers/srinivasa-r-pinnamaneni-a5101406/"
 layout: "researcher"
 hiddenInHomeList: true

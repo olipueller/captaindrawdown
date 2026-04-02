@@ -1,7 +1,7 @@
 ---
 title: "Sai Adapa"
 description: "Sai Adapa is a Mid-career Enhanced Weathering researcher at Oak Ridge National Laboratory in US. With 23 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.861864
+date: 2026-04-02T07:03:26.160361
 url: "/cdr-researcher-census/researchers/sai-adapa-a5007423/"
 layout: "researcher"
 hiddenInHomeList: true

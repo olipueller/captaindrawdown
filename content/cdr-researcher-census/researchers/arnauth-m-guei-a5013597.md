@@ -1,7 +1,7 @@
 ---
 title: "Arnauth M. Guéi"
 description: "Arnauth M. Guéi is a Senior Soil Carbon researcher at Université Jean Lorougnon Guédé in CI. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.443844
+date: 2026-04-02T07:03:25.551708
 url: "/cdr-researcher-census/researchers/arnauth-m-guei-a5013597/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Mostafa A. Abdellatif"
 description: "Mostafa A. Abdellatif is a Mid-career General CDR researcher at Egyptian Russian University in EG. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.484799
+date: 2026-04-02T07:03:25.638779
 url: "/cdr-researcher-census/researchers/mostafa-a-abdellatif-a5035234/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Lock Hei Ngu"
 description: "Lock Hei Ngu is a Senior General CDR researcher at Swinburne University of Technology Sarawak Campus in MY. With 49 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.453872
+date: 2026-04-02T07:03:24.110268
 url: "/cdr-researcher-census/researchers/lock-hei-ngu-a5055231/"
 layout: "researcher"
 hiddenInHomeList: true

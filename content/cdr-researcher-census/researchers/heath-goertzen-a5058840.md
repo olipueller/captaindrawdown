@@ -1,7 +1,7 @@
 ---
 title: "Heath Goertzen"
 description: "Heath Goertzen is an Early-career Soil Carbon researcher. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.383790
+date: 2026-04-02T07:03:26.943883
 url: "/cdr-researcher-census/researchers/heath-goertzen-a5058840/"
 layout: "researcher"
 hiddenInHomeList: true

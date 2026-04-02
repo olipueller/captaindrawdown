@@ -1,7 +1,7 @@
 ---
 title: "Andrew L. King"
 description: "Andrew L. King is a Senior Ocean CDR researcher at Norwegian Institute for Water Research in NO. With 71 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.285112
+date: 2026-04-02T07:03:23.890359
 url: "/cdr-researcher-census/researchers/andrew-l-king-a5080632/"
 layout: "researcher"
 hiddenInHomeList: true

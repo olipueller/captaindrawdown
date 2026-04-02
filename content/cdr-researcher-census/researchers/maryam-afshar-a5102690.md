@@ -1,7 +1,7 @@
 ---
 title: "Maryam Afshar"
 description: "Maryam Afshar is an Early-career Biochar researcher at University of Zanjan in IR. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.008364
+date: 2026-04-02T07:03:26.373146
 url: "/cdr-researcher-census/researchers/maryam-afshar-a5102690/"
 layout: "researcher"
 hiddenInHomeList: true

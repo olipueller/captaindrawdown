@@ -1,7 +1,7 @@
 ---
 title: "Ignacio Sevillano"
 description: "Ignacio Sevillano is a Senior General CDR researcher at Norwegian Institute of Bioeconomy Research in NO. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.710523
+date: 2026-04-02T07:03:25.976357
 url: "/cdr-researcher-census/researchers/ignacio-sevillano-a5034353/"
 layout: "researcher"
 hiddenInHomeList: true

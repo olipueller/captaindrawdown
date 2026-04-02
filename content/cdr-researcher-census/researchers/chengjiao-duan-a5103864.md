@@ -1,7 +1,7 @@
 ---
 title: "Chengjiao Duan"
 description: "Chengjiao Duan is a Senior Soil Carbon researcher at Shanxi Agricultural University in CN. With 49 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.183248
+date: 2026-04-02T07:03:23.754953
 url: "/cdr-researcher-census/researchers/chengjiao-duan-a5103864/"
 layout: "researcher"
 hiddenInHomeList: true

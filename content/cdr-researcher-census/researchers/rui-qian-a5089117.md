@@ -1,7 +1,7 @@
 ---
 title: "Rui Qian"
 description: "Rui Qian is a Mid-career Soil Carbon researcher at Liaoning University in CN. With 22 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.183726
+date: 2026-04-02T07:03:25.176054
 url: "/cdr-researcher-census/researchers/rui-qian-a5089117/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Gilberto Villanueva‐López"
 description: "Gilberto Villanueva‐López is a Mid-career Soil Carbon researcher at El Colegio de la Frontera Sur in MX. With 48 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.750359
+date: 2026-04-02T07:03:24.539504
 url: "/cdr-researcher-census/researchers/gilberto-villanuevalopez-a5004397/"
 layout: "researcher"
 hiddenInHomeList: true

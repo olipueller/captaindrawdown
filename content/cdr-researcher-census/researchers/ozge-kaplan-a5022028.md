@@ -1,7 +1,7 @@
 ---
 title: "Ozge Kaplan"
 description: "Ozge Kaplan is an Early-career DAC researcher at Environmental Protection Agency in US. With 5 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.320050
+date: 2026-04-02T07:03:26.855682
 url: "/cdr-researcher-census/researchers/ozge-kaplan-a5022028/"
 layout: "researcher"
 hiddenInHomeList: true

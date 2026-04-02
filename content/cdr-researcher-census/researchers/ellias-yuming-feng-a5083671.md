@@ -1,7 +1,7 @@
 ---
 title: "Ellias Yuming Feng"
 description: "Ellias Yuming Feng is a Mid-career General CDR researcher at Ocean University of China in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.740283
+date: 2026-04-02T07:03:24.525231
 url: "/cdr-researcher-census/researchers/ellias-yuming-feng-a5083671/"
 layout: "researcher"
 hiddenInHomeList: true

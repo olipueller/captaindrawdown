@@ -1,7 +1,7 @@
 ---
 title: "Rachel E. Mow"
 description: "Rachel E. Mow is a Mid-career carbon dioxide removal researcher at National Renewable Energy Laboratory in US. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.377114
+date: 2026-04-02T07:03:25.453504
 url: "/cdr-researcher-census/researchers/rachel-e-mow-a5038647/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xuefang Huang"
 description: "Xuefang Huang is an Early-career Soil Carbon researcher at Shanxi Agricultural University in CN. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.411527
+date: 2026-04-02T07:03:26.982406
 url: "/cdr-researcher-census/researchers/xuefang-huang-a5013584/"
 layout: "researcher"
 hiddenInHomeList: true

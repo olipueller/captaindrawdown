@@ -1,7 +1,7 @@
 ---
 title: "Deep Bora"
 description: "Deep Bora is a Mid-career carbon dioxide removal researcher at Indian Institute of Technology Guwahati in IN. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.371681
+date: 2026-04-02T07:03:26.927604
 url: "/cdr-researcher-census/researchers/deep-bora-a5011734/"
 layout: "researcher"
 hiddenInHomeList: true

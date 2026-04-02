@@ -1,7 +1,7 @@
 ---
 title: "Miaoqian Wang"
 description: "Miaoqian Wang is a Mid-career Soil Carbon researcher at North West Agriculture and Forestry University in CN. With 16 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.261771
+date: 2026-04-02T07:03:26.766992
 url: "/cdr-researcher-census/researchers/miaoqian-wang-a5080010/"
 layout: "researcher"
 hiddenInHomeList: true

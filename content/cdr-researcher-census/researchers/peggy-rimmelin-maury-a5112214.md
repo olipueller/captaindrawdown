@@ -1,7 +1,7 @@
 ---
 title: "Peggy Rimmelin-Maury"
 description: "Peggy Rimmelin-Maury is a Senior General CDR researcher at Centre National de la Recherche Scientifique in FR. With 24 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.419084
+date: 2026-04-02T07:03:25.516389
 url: "/cdr-researcher-census/researchers/peggy-rimmelin-maury-a5112214/"
 layout: "researcher"
 hiddenInHomeList: true

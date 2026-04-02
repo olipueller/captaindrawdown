@@ -1,7 +1,7 @@
 ---
 title: "Yue Yang"
 description: "Yue Yang is a Mid-career General CDR researcher at Chengde Medical University in CN. With 11 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.432483
+date: 2026-04-02T07:03:27.015234
 url: "/cdr-researcher-census/researchers/yue-yang-a5058174/"
 layout: "researcher"
 hiddenInHomeList: true

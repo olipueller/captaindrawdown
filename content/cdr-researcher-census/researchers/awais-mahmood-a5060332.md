@@ -1,7 +1,7 @@
 ---
 title: "Awais Mahmood"
 description: "Awais Mahmood is a Mid-career General CDR researcher at Joint Graduate School of Energy and Environment in TH. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.082511
+date: 2026-04-02T07:03:26.481959
 url: "/cdr-researcher-census/researchers/awais-mahmood-a5060332/"
 layout: "researcher"
 hiddenInHomeList: true

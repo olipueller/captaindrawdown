@@ -1,7 +1,7 @@
 ---
 title: "Sophie Drexler"
 description: "Sophie Drexler is a Mid-career Soil Carbon researcher. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.996949
+date: 2026-04-02T07:03:26.356878
 url: "/cdr-researcher-census/researchers/sophie-drexler-a5086463/"
 layout: "researcher"
 hiddenInHomeList: true

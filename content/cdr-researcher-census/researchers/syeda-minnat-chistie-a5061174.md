@@ -1,7 +1,7 @@
 ---
 title: "Syeda Minnat Chistie"
 description: "Syeda Minnat Chistie is a Mid-career Biochar researcher at M S Ramaiah University of Applied Sciences in IN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.209890
+date: 2026-04-02T07:03:25.214151
 url: "/cdr-researcher-census/researchers/syeda-minnat-chistie-a5061174/"
 layout: "researcher"
 hiddenInHomeList: true

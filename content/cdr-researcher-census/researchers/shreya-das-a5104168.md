@@ -1,7 +1,7 @@
 ---
 title: "Shreya Das"
 description: "Shreya Das is a Mid-career Biochar researcher at Indian Council of Agricultural Research in IN. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.251363
+date: 2026-04-02T07:03:25.275956
 url: "/cdr-researcher-census/researchers/shreya-das-a5104168/"
 layout: "researcher"
 hiddenInHomeList: true

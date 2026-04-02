@@ -1,7 +1,7 @@
 ---
 title: "Zhijie Dong"
 description: "Zhijie Dong is an Early-career Biochar researcher at Hainan Normal University in CN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.993022
+date: 2026-04-02T07:03:26.350795
 url: "/cdr-researcher-census/researchers/zhijie-dong-a5016282/"
 layout: "researcher"
 hiddenInHomeList: true

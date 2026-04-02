@@ -1,7 +1,7 @@
 ---
 title: "Gastón Ballut-Dajud"
 description: "Gastón Ballut-Dajud is a Mid-career Soil Carbon researcher at University of Sucre in CO. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.591776
+date: 2026-04-02T07:03:25.792903
 url: "/cdr-researcher-census/researchers/gaston-ballut-dajud-a5029474/"
 layout: "researcher"
 hiddenInHomeList: true

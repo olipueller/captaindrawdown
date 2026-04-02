@@ -1,7 +1,7 @@
 ---
 title: "Sahar Mahnaee"
 description: "Sahar Mahnaee is an Early-career carbon dioxide removal researcher at Universidad de Valladolid in ES. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.745023
+date: 2026-04-02T07:03:24.532305
 url: "/cdr-researcher-census/researchers/sahar-mahnaee-a5015663/"
 layout: "researcher"
 hiddenInHomeList: true

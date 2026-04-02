@@ -1,7 +1,7 @@
 ---
 title: "Jordan Holdorf"
 description: "Jordan Holdorf is a Mid-career General CDR researcher at Griffith University in AU. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.436279
+date: 2026-04-02T07:03:25.540952
 url: "/cdr-researcher-census/researchers/jordan-holdorf-a5074135/"
 layout: "researcher"
 hiddenInHomeList: true

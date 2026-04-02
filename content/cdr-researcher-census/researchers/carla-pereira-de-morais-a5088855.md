@@ -1,7 +1,7 @@
 ---
 title: "Carla Pereira de Morais"
 description: "Carla Pereira de Morais is a Mid-career Soil Carbon researcher at Universidade de São Paulo in BR. With 24 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.526666
+date: 2026-04-02T07:03:25.697607
 url: "/cdr-researcher-census/researchers/carla-pereira-de-morais-a5088855/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Claire Stockwell"
 description: "Claire Stockwell is a Senior General CDR researcher at Climate Analytics in DE. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.991896
+date: 2026-04-02T07:03:26.349070
 url: "/cdr-researcher-census/researchers/claire-stockwell-a5014586/"
 layout: "researcher"
 hiddenInHomeList: true

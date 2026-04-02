@@ -1,7 +1,7 @@
 ---
 title: "Alireza Lotfollahzade Moghaddam"
 description: "Alireza Lotfollahzade Moghaddam is a Mid-career DAC researcher at Phoenix Technologies (Canada) in CA. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.785062
+date: 2026-04-02T07:03:26.050447
 url: "/cdr-researcher-census/researchers/alireza-lotfollahzade-moghaddam-a5082556/"
 layout: "researcher"
 hiddenInHomeList: true

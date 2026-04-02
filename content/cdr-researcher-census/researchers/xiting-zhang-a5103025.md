@@ -1,7 +1,7 @@
 ---
 title: "Xiting Zhang"
 description: "Xiting Zhang is a Mid-career Soil Carbon researcher at Shenyang Agricultural University in CN. With 39 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.848011
+date: 2026-04-02T07:03:24.672434
 url: "/cdr-researcher-census/researchers/xiting-zhang-a5103025/"
 layout: "researcher"
 hiddenInHomeList: true

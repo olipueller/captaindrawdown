@@ -1,7 +1,7 @@
 ---
 title: "Zhihao Zhang"
 description: "Zhihao Zhang is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.106649
+date: 2026-04-02T07:03:26.516057
 url: "/cdr-researcher-census/researchers/zhihao-zhang-a5052022/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Qiaoling Lin"
 description: "Qiaoling Lin is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.423247
+date: 2026-04-02T07:03:27.000831
 url: "/cdr-researcher-census/researchers/qiaoling-lin-a5088102/"
 layout: "researcher"
 hiddenInHomeList: true

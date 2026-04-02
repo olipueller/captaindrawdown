@@ -1,7 +1,7 @@
 ---
 title: "Jianwei Zhang"
 description: "Jianwei Zhang is a Senior Soil Carbon researcher at Jiangsu Academy of Agricultural Sciences in CN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.551563
+date: 2026-04-02T07:03:25.733362
 url: "/cdr-researcher-census/researchers/jianwei-zhang-a5101503/"
 layout: "researcher"
 hiddenInHomeList: true

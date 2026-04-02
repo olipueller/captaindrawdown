@@ -1,7 +1,7 @@
 ---
 title: "Siri Veland"
 description: "Siri Veland is a Senior General CDR researcher at San Jose State University in US. With 37 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.475012
+date: 2026-04-02T07:03:24.140526
 url: "/cdr-researcher-census/researchers/siri-veland-a5080140/"
 layout: "researcher"
 hiddenInHomeList: true

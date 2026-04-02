@@ -1,7 +1,7 @@
 ---
 title: "Baobao Sun"
 description: "Baobao Sun is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.048117
+date: 2026-04-02T07:03:26.433719
 url: "/cdr-researcher-census/researchers/baobao-sun-a5017979/"
 layout: "researcher"
 hiddenInHomeList: true

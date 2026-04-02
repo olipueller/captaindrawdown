@@ -1,7 +1,7 @@
 ---
 title: "David T. Hopkins"
 description: "David T. Hopkins is a Mid-career Biochar researcher at Tallaght University Hospital in IE. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.215169
+date: 2026-04-02T07:03:26.700480
 url: "/cdr-researcher-census/researchers/david-t-hopkins-a5022303/"
 layout: "researcher"
 hiddenInHomeList: true

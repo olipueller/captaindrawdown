@@ -1,7 +1,7 @@
 ---
 title: "Peng Gao"
 description: "Peng Gao is a Senior Soil Carbon researcher at Harvard University in US. With 37 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.586157
+date: 2026-04-02T07:03:24.298971
 url: "/cdr-researcher-census/researchers/peng-gao-a5086699/"
 layout: "researcher"
 hiddenInHomeList: true

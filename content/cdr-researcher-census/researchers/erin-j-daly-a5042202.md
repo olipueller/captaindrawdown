@@ -1,7 +1,7 @@
 ---
 title: "Erin J. Daly"
 description: "Erin J. Daly is a Senior Soil Carbon researcher at University of Alberta in CA. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.334951
+date: 2026-04-02T07:03:25.389784
 url: "/cdr-researcher-census/researchers/erin-j-daly-a5042202/"
 layout: "researcher"
 hiddenInHomeList: true

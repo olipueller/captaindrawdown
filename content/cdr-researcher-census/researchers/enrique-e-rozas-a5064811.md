@@ -1,7 +1,7 @@
 ---
 title: "Enrique E. Rozas"
 description: "Enrique E. Rozas is a Senior General CDR researcher at Universidade de São Paulo in BR. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.805609
+date: 2026-04-02T07:03:26.080790
 url: "/cdr-researcher-census/researchers/enrique-e-rozas-a5064811/"
 layout: "researcher"
 hiddenInHomeList: true

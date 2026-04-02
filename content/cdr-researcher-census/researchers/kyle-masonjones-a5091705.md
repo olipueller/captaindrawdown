@@ -1,7 +1,7 @@
 ---
 title: "Kyle Mason‐Jones"
 description: "Kyle Mason‐Jones is a Senior Soil Carbon researcher at Netherlands Institute of Ecology in NL. With 57 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.281177
+date: 2026-04-02T07:03:23.885090
 url: "/cdr-researcher-census/researchers/kyle-masonjones-a5091705/"
 layout: "researcher"
 hiddenInHomeList: true

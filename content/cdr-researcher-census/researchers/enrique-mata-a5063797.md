@@ -1,7 +1,7 @@
 ---
 title: "Enrique Mata"
 description: "Enrique Mata is an Early-career carbon dioxide removal researcher at Northern Arizona University in US. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.109437
+date: 2026-04-02T07:03:26.519954
 url: "/cdr-researcher-census/researchers/enrique-mata-a5063797/"
 layout: "researcher"
 hiddenInHomeList: true

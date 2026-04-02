@@ -1,7 +1,7 @@
 ---
 title: "Ling Liu"
 description: "Ling Liu is a Senior Soil Carbon researcher at Hohai University in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.098296
+date: 2026-04-02T07:03:26.504032
 url: "/cdr-researcher-census/researchers/ling-liu-a5100343/"
 layout: "researcher"
 hiddenInHomeList: true

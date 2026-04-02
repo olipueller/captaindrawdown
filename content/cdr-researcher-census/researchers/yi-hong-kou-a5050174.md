@@ -1,7 +1,7 @@
 ---
 title: "Yi-Hong Kou"
 description: "Yi-Hong Kou is an Early-career Soil Carbon researcher at Ministry of Agriculture and Rural Affairs in CN. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.247695
+date: 2026-04-02T07:03:26.745832
 url: "/cdr-researcher-census/researchers/yi-hong-kou-a5050174/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Victor Temitope Amusa"
 description: "Victor Temitope Amusa is a Mid-career Biochar researcher at Kwara State University in NG. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.421536
+date: 2026-04-02T07:03:25.519977
 url: "/cdr-researcher-census/researchers/victor-temitope-amusa-a5019659/"
 layout: "researcher"
 hiddenInHomeList: true

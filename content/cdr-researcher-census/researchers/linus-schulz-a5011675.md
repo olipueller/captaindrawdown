@@ -1,7 +1,7 @@
 ---
 title: "Linus Schulz"
 description: "Linus Schulz is a Mid-career DAC researcher at Siemens (Germany) in DE. With 10 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.707720
+date: 2026-04-02T07:03:25.971751
 url: "/cdr-researcher-census/researchers/linus-schulz-a5011675/"
 layout: "researcher"
 hiddenInHomeList: true

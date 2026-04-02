@@ -1,7 +1,7 @@
 ---
 title: "Alberto Imbernón-Mulero"
 description: "Alberto Imbernón-Mulero is a Mid-career Soil Carbon researcher at Universidad Politécnica de Cartagena in ES. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.357795
+date: 2026-04-02T07:03:26.906687
 url: "/cdr-researcher-census/researchers/alberto-imbernon-mulero-a5070152/"
 layout: "researcher"
 hiddenInHomeList: true

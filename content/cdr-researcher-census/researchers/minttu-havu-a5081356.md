@@ -1,7 +1,7 @@
 ---
 title: "Minttu Havu"
 description: "Minttu Havu is a Mid-career Soil Carbon researcher at Centre National de la Recherche Scientifique in FR. With 51 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.498472
+date: 2026-04-02T07:03:25.657780
 url: "/cdr-researcher-census/researchers/minttu-havu-a5081356/"
 layout: "researcher"
 hiddenInHomeList: true

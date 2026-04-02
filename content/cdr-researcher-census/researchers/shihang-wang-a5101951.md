@@ -1,7 +1,7 @@
 ---
 title: "Shihang Wang"
 description: "Shihang Wang is a Mid-career Soil Carbon researcher at Southern University of Science and Technology in CN. With 35 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.535406
+date: 2026-04-02T07:03:25.709945
 url: "/cdr-researcher-census/researchers/shihang-wang-a5101951/"
 layout: "researcher"
 hiddenInHomeList: true

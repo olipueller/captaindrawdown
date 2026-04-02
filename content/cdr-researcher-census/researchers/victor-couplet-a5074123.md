@@ -1,7 +1,7 @@
 ---
 title: "Victor Couplet"
 description: "Victor Couplet is an Early-career General CDR researcher at Vrije Universiteit Brussel in BE. With 19 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.997170
+date: 2026-04-02T07:03:26.357191
 url: "/cdr-researcher-census/researchers/victor-couplet-a5074123/"
 layout: "researcher"
 hiddenInHomeList: true

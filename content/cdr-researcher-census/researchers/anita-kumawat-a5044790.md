@@ -1,7 +1,7 @@
 ---
 title: "Anita Kumawat"
 description: "Anita Kumawat is a Mid-career Soil Carbon researcher at ICAR Indian Institute of Soil and Water Conservation in IN. With 66 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.635226
+date: 2026-04-02T07:03:24.368853
 url: "/cdr-researcher-census/researchers/anita-kumawat-a5044790/"
 layout: "researcher"
 hiddenInHomeList: true

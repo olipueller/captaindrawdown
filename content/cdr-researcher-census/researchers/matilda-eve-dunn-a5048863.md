@@ -1,7 +1,7 @@
 ---
 title: "Matilda Eve Dunn"
 description: "Matilda Eve Dunn is a Mid-career General CDR researcher at Imperial College London in GB. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.988355
+date: 2026-04-02T07:03:26.343541
 url: "/cdr-researcher-census/researchers/matilda-eve-dunn-a5048863/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Renata Včeláková"
 description: "Renata Včeláková is a Mid-career Soil Carbon researcher at Czech Academy of Sciences, Global Change Research Institute in CZ. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.584005
+date: 2026-04-02T07:03:25.781360
 url: "/cdr-researcher-census/researchers/renata-vcelakova-a5013576/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Michele Louise Francis"
 description: "Michele Louise Francis is a Senior Soil Carbon researcher at Stellenbosch University in ZA. With 26 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.257064
+date: 2026-04-02T07:03:25.283071
 url: "/cdr-researcher-census/researchers/michele-louise-francis-a5031300/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Marie-Élise Samson"
 description: "Marie-Élise Samson is a Mid-career General CDR researcher at Département Environnement et Agronomie in FR. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.307582
+date: 2026-04-02T07:03:25.351979
 url: "/cdr-researcher-census/researchers/marie-elise-samson-a5061276/"
 layout: "researcher"
 hiddenInHomeList: true

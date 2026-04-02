@@ -1,7 +1,7 @@
 ---
 title: "Cristián Frêne"
 description: "Cristián Frêne is a Senior carbon dioxide removal researcher at Institute of Ecology and Biodiversity in CL. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.565962
+date: 2026-04-02T07:03:25.754100
 url: "/cdr-researcher-census/researchers/cristian-frene-a5075110/"
 layout: "researcher"
 hiddenInHomeList: true

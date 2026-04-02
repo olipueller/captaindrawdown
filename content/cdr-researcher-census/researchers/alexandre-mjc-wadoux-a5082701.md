@@ -1,7 +1,7 @@
 ---
 title: "Alexandre M.J.‐C. Wadoux"
 description: "Alexandre M.J.‐C. Wadoux is a Senior General CDR researcher at University of Sydney in AU. With 110 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.192543
+date: 2026-04-02T07:03:23.768439
 url: "/cdr-researcher-census/researchers/alexandre-mjc-wadoux-a5082701/"
 layout: "researcher"
 hiddenInHomeList: true

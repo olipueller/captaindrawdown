@@ -1,7 +1,7 @@
 ---
 title: "Hongzhao Yuan"
 description: "Hongzhao Yuan is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 61 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.222274
+date: 2026-04-02T07:03:23.804815
 url: "/cdr-researcher-census/researchers/hongzhao-yuan-a5100540/"
 layout: "researcher"
 hiddenInHomeList: true

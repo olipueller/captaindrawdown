@@ -1,7 +1,7 @@
 ---
 title: "Simon Kaiser"
 description: "Simon Kaiser is a Mid-career carbon dioxide removal researcher at University of Kassel in DE. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.293364
+date: 2026-04-02T07:03:25.332569
 url: "/cdr-researcher-census/researchers/simon-kaiser-a5059988/"
 layout: "researcher"
 hiddenInHomeList: true

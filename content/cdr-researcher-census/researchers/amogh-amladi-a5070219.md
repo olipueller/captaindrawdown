@@ -1,7 +1,7 @@
 ---
 title: "Amogh Amladi"
 description: "Amogh Amladi is a Mid-career BECCS researcher. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.373097
+date: 2026-04-02T07:03:26.929613
 url: "/cdr-researcher-census/researchers/amogh-amladi-a5070219/"
 layout: "researcher"
 hiddenInHomeList: true

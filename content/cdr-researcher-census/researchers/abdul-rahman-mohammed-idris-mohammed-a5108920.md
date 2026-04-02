@@ -1,7 +1,7 @@
 ---
 title: "Abdul Rahman Mohammed Idris Mohammed"
 description: "Abdul Rahman Mohammed Idris Mohammed is an Early-career carbon dioxide removal researcher at Imam Mohammad ibn Saud Islamic University in SA. With 14 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.680940
+date: 2026-04-02T07:03:25.930581
 url: "/cdr-researcher-census/researchers/abdul-rahman-mohammed-idris-mohammed-a5108920/"
 layout: "researcher"
 hiddenInHomeList: true

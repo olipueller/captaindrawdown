@@ -1,7 +1,7 @@
 ---
 title: "Armwell Shumba"
 description: "Armwell Shumba is a Mid-career Soil Carbon researcher at Centre de Coopération Internationale en Recherche Agronomique pour le Développement in FR. With 28 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.673700
+date: 2026-04-02T07:03:25.919786
 url: "/cdr-researcher-census/researchers/armwell-shumba-a5067487/"
 layout: "researcher"
 hiddenInHomeList: true

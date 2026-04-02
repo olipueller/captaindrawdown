@@ -1,7 +1,7 @@
 ---
 title: "Michael L. Mashtare"
 description: "Michael L. Mashtare is a Senior Biochar researcher at Pennsylvania State University in US. With 26 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.910099
+date: 2026-04-02T07:03:24.766356
 url: "/cdr-researcher-census/researchers/michael-l-mashtare-a5063601/"
 layout: "researcher"
 hiddenInHomeList: true

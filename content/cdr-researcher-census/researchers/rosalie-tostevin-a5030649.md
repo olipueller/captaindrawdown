@@ -1,7 +1,7 @@
 ---
 title: "Rosalie Tostevin"
 description: "Rosalie Tostevin is a Mid-career Enhanced Weathering researcher at University of Oxford in GB. With 71 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.254003
+date: 2026-04-02T07:03:23.845802
 url: "/cdr-researcher-census/researchers/rosalie-tostevin-a5030649/"
 layout: "researcher"
 hiddenInHomeList: true

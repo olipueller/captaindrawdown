@@ -1,7 +1,7 @@
 ---
 title: "Eduard Garrido Ribó"
 description: "Eduard Garrido Ribó is a Mid-career carbon dioxide removal researcher. With 30 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.848219
+date: 2026-04-02T07:03:26.141334
 url: "/cdr-researcher-census/researchers/eduard-garrido-ribo-a5007483/"
 layout: "researcher"
 hiddenInHomeList: true

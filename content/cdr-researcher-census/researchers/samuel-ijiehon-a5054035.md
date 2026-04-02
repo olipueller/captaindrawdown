@@ -1,7 +1,7 @@
 ---
 title: "Samuel Ijiehon"
 description: "Samuel Ijiehon is an Early-career Enhanced Weathering researcher at University of Antwerp in BE. With 1 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.337157
+date: 2026-04-02T07:03:26.876219
 url: "/cdr-researcher-census/researchers/samuel-ijiehon-a5054035/"
 layout: "researcher"
 hiddenInHomeList: true

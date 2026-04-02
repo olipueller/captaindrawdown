@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Adil"
 description: "Muhammad Adil is a Mid-career Soil Carbon researcher at Henan University in CN. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.009766
+date: 2026-04-02T07:03:26.375170
 url: "/cdr-researcher-census/researchers/muhammad-adil-a5101980/"
 layout: "researcher"
 hiddenInHomeList: true

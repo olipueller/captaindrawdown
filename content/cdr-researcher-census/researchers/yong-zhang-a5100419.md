@@ -1,7 +1,7 @@
 ---
 title: "Yong Zhang"
 description: "Yong Zhang is a Senior Soil Carbon researcher at Gansu Agricultural University in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.747666
+date: 2026-04-02T07:03:24.536008
 url: "/cdr-researcher-census/researchers/yong-zhang-a5100419/"
 layout: "researcher"
 hiddenInHomeList: true

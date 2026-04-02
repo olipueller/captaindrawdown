@@ -1,7 +1,7 @@
 ---
 title: "Andrea Braga"
 description: "Andrea Braga is a Mid-career DAC researcher at Universitat Politècnica de Catalunya in ES. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.039239
+date: 2026-04-02T07:03:26.419386
 url: "/cdr-researcher-census/researchers/andrea-braga-a5076570/"
 layout: "researcher"
 hiddenInHomeList: true

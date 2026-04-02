@@ -1,7 +1,7 @@
 ---
 title: "Fredrick O. Omoarukhe"
 description: "Fredrick O. Omoarukhe is a Mid-career carbon dioxide removal researcher. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.572461
+date: 2026-04-02T07:03:24.280255
 url: "/cdr-researcher-census/researchers/fredrick-o-omoarukhe-a5075167/"
 layout: "researcher"
 hiddenInHomeList: true

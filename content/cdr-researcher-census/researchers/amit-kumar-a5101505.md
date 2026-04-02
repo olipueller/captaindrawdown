@@ -1,7 +1,7 @@
 ---
 title: "Amit Kumar"
 description: "Amit Kumar is a Mid-career DAC researcher at Dr. A.P.J. Abdul Kalam Technical University in IN. With 22 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.260559
+date: 2026-04-02T07:03:25.287414
 url: "/cdr-researcher-census/researchers/amit-kumar-a5101505/"
 layout: "researcher"
 hiddenInHomeList: true

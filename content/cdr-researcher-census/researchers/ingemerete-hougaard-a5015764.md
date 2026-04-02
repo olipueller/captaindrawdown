@@ -1,7 +1,7 @@
 ---
 title: "Inge‐Merete Hougaard"
 description: "Inge‐Merete Hougaard is a Mid-career General CDR researcher at University of Copenhagen in DK. With 24 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.657795
+date: 2026-04-02T07:03:25.894132
 url: "/cdr-researcher-census/researchers/ingemerete-hougaard-a5015764/"
 layout: "researcher"
 hiddenInHomeList: true

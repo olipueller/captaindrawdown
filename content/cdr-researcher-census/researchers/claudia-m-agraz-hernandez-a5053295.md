@@ -1,7 +1,7 @@
 ---
 title: "Claudia M. Agraz-Hernández"
 description: "Claudia M. Agraz-Hernández is a Mid-career Soil Carbon researcher at Autonomous University of Campeche in MX. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.597862
+date: 2026-04-02T07:03:25.802083
 url: "/cdr-researcher-census/researchers/claudia-m-agraz-hernandez-a5053295/"
 layout: "researcher"
 hiddenInHomeList: true

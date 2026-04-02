@@ -1,7 +1,7 @@
 ---
 title: "Magdalena Dębicka"
 description: "Magdalena Dębicka is a Senior Soil Carbon researcher at Wrocław University of Environmental and Life Sciences in PL. With 42 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.772271
+date: 2026-04-02T07:03:24.572405
 url: "/cdr-researcher-census/researchers/magdalena-debicka-a5052650/"
 layout: "researcher"
 hiddenInHomeList: true

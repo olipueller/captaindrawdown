@@ -1,7 +1,7 @@
 ---
 title: "Ilze Vamža"
 description: "Ilze Vamža is a Mid-career General CDR researcher at Riga Technical University in LV. With 31 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.087597
+date: 2026-04-02T07:03:26.489140
 url: "/cdr-researcher-census/researchers/ilze-vamza-a5069264/"
 layout: "researcher"
 hiddenInHomeList: true

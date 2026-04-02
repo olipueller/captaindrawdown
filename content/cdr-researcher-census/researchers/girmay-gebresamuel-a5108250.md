@@ -1,7 +1,7 @@
 ---
 title: "Girmay Gebresamuel"
 description: "Girmay Gebresamuel is a Senior Soil Carbon researcher at Mekelle University in ET. With 34 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.614734
+date: 2026-04-02T07:03:24.341260
 url: "/cdr-researcher-census/researchers/girmay-gebresamuel-a5108250/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Brendan R. Carter"
 description: "Brendan R. Carter is a Senior Ocean CDR researcher at CICOES in US. With 127 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.142310
+date: 2026-04-02T07:03:23.697390
 url: "/cdr-researcher-census/researchers/brendan-r-carter-a5008670/"
 layout: "researcher"
 hiddenInHomeList: true

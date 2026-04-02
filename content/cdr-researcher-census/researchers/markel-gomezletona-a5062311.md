@@ -1,7 +1,7 @@
 ---
 title: "Markel Gómez‐Letona"
 description: "Markel Gómez‐Letona is a Mid-career Ocean CDR researcher at Universidad de Las Palmas de Gran Canaria in ES. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.971699
+date: 2026-04-02T07:03:26.323457
 url: "/cdr-researcher-census/researchers/markel-gomezletona-a5062311/"
 layout: "researcher"
 hiddenInHomeList: true

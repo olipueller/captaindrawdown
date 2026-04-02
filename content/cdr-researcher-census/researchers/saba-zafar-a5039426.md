@@ -1,7 +1,7 @@
 ---
 title: "Saba Zafar"
 description: "Saba Zafar is an Early-career General CDR researcher at Government College University, Faisalabad in PK. With 6 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.998673
+date: 2026-04-02T07:03:26.359341
 url: "/cdr-researcher-census/researchers/saba-zafar-a5039426/"
 layout: "researcher"
 hiddenInHomeList: true

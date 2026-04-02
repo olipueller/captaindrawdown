@@ -1,7 +1,7 @@
 ---
 title: "Jenny Banks"
 description: "Jenny Banks is a Senior Soil Carbon researcher at Royal Devon & Exeter NHS Foundation Trust in GB. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.696731
+date: 2026-04-02T07:03:24.460939
 url: "/cdr-researcher-census/researchers/jenny-banks-a5056795/"
 layout: "researcher"
 hiddenInHomeList: true

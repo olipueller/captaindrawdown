@@ -1,7 +1,7 @@
 ---
 title: "Shaotong Pan"
 description: "Shaotong Pan is a Mid-career carbon dioxide removal researcher at Zhejiang University in CN. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.431411
+date: 2026-04-02T07:03:25.533727
 url: "/cdr-researcher-census/researchers/shaotong-pan-a5107031/"
 layout: "researcher"
 hiddenInHomeList: true

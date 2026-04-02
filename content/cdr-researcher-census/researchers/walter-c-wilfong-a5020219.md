@@ -1,7 +1,7 @@
 ---
 title: "Walter C. Wilfong"
 description: "Walter C. Wilfong is a Senior General CDR researcher at Defense Logistics Agency in US. With 36 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.608150
+date: 2026-04-02T07:03:24.331831
 url: "/cdr-researcher-census/researchers/walter-c-wilfong-a5020219/"
 layout: "researcher"
 hiddenInHomeList: true

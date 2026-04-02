@@ -1,7 +1,7 @@
 ---
 title: "Munazza Yousra"
 description: "Munazza Yousra is a Mid-career Soil Carbon researcher at Pir Mehr Ali Shah Arid Agriculture University in PK. With 28 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.048319
+date: 2026-04-02T07:03:24.979231
 url: "/cdr-researcher-census/researchers/munazza-yousra-a5035333/"
 layout: "researcher"
 hiddenInHomeList: true

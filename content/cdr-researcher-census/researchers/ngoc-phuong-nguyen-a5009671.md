@@ -1,7 +1,7 @@
 ---
 title: "Ngoc Phuong Nguyen"
 description: "Ngoc Phuong Nguyen is a Mid-career carbon dioxide removal researcher. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.576967
+date: 2026-04-02T07:03:25.770483
 url: "/cdr-researcher-census/researchers/ngoc-phuong-nguyen-a5009671/"
 layout: "researcher"
 hiddenInHomeList: true

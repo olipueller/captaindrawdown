@@ -1,7 +1,7 @@
 ---
 title: "Anh Minh Pham"
 description: "Anh Minh Pham is a Senior Enhanced Weathering researcher at Hanoi National University of Education in VN. With 6 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.414574
+date: 2026-04-02T07:03:26.986993
 url: "/cdr-researcher-census/researchers/anh-minh-pham-a5101094/"
 layout: "researcher"
 hiddenInHomeList: true

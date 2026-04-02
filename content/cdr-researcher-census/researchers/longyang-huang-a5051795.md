@@ -1,7 +1,7 @@
 ---
 title: "Longyang Huang"
 description: "Longyang Huang is a Mid-career carbon dioxide removal researcher at Chongqing University in CN. With 31 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.497229
+date: 2026-04-02T07:03:24.169199
 url: "/cdr-researcher-census/researchers/longyang-huang-a5051795/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Junye Wu"
 description: "Junye Wu is a Mid-career DAC researcher at Institute of Refrigeration in GB. With 20 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.513784
+date: 2026-04-02T07:03:24.191247
 url: "/cdr-researcher-census/researchers/junye-wu-a5008602/"
 layout: "researcher"
 hiddenInHomeList: true

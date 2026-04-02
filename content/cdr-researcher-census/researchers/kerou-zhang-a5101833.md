@@ -1,7 +1,7 @@
 ---
 title: "Kerou Zhang"
 description: "Kerou Zhang is a Senior Soil Carbon researcher at Institute of Wetland Research in CN. With 53 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.266711
+date: 2026-04-02T07:03:23.864031
 url: "/cdr-researcher-census/researchers/kerou-zhang-a5101833/"
 layout: "researcher"
 hiddenInHomeList: true

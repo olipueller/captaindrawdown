@@ -1,7 +1,7 @@
 ---
 title: "May-Yin Low"
 description: "May-Yin Low is an Early-career DAC researcher at Imperial College London in GB. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.847681
+date: 2026-04-02T07:03:26.140720
 url: "/cdr-researcher-census/researchers/may-yin-low-a5060992/"
 layout: "researcher"
 hiddenInHomeList: true

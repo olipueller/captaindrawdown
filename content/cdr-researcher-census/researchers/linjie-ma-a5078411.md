@@ -1,7 +1,7 @@
 ---
 title: "Linjie Ma"
 description: "Linjie Ma is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 6 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.344030
+date: 2026-04-02T07:03:25.402241
 url: "/cdr-researcher-census/researchers/linjie-ma-a5078411/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "N. Bijayalaxmi Devi"
 description: "N. Bijayalaxmi Devi is a Senior Soil Carbon researcher at Sikkim University in IN. With 14 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.630789
+date: 2026-04-02T07:03:24.362848
 url: "/cdr-researcher-census/researchers/n-bijayalaxmi-devi-a5044978/"
 layout: "researcher"
 hiddenInHomeList: true

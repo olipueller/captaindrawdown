@@ -1,7 +1,7 @@
 ---
 title: "Nikoleta Eleftheriadou"
 description: "Nikoleta Eleftheriadou is a Mid-career Soil Carbon researcher at Agricultural University of Athens in GR. With 35 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.894117
+date: 2026-04-02T07:03:26.207321
 url: "/cdr-researcher-census/researchers/nikoleta-eleftheriadou-a5043458/"
 layout: "researcher"
 hiddenInHomeList: true

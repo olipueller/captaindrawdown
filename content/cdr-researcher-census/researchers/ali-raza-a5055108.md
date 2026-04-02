@@ -1,7 +1,7 @@
 ---
 title: "Ali Raza"
 description: "Ali Raza is a Senior Biochar researcher at University of Engineering and Technology Taxila in PK. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.266832
+date: 2026-04-02T07:03:25.294970
 url: "/cdr-researcher-census/researchers/ali-raza-a5055108/"
 layout: "researcher"
 hiddenInHomeList: true

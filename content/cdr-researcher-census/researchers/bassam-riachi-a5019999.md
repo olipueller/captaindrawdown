@@ -1,7 +1,7 @@
 ---
 title: "Bassam Riachi"
 description: "Bassam Riachi is a Mid-career carbon dioxide removal researcher in GB. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.196713
+date: 2026-04-02T07:03:26.675167
 url: "/cdr-researcher-census/researchers/bassam-riachi-a5019999/"
 layout: "researcher"
 hiddenInHomeList: true

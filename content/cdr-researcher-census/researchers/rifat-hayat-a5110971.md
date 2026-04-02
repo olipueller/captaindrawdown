@@ -1,7 +1,7 @@
 ---
 title: "Rifat Hayat"
 description: "Rifat Hayat is a Senior Soil Carbon researcher at Pir Mehr Ali Shah Arid Agriculture University in PK. With 77 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.144837
+date: 2026-04-02T07:03:23.700963
 url: "/cdr-researcher-census/researchers/rifat-hayat-a5110971/"
 layout: "researcher"
 hiddenInHomeList: true

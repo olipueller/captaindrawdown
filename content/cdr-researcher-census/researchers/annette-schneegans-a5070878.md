@@ -1,7 +1,7 @@
 ---
 title: "Annette Schneegans"
 description: "Annette Schneegans is an Early-career General CDR researcher at European Commission in BE. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.839008
+date: 2026-04-02T07:03:26.128760
 url: "/cdr-researcher-census/researchers/annette-schneegans-a5070878/"
 layout: "researcher"
 hiddenInHomeList: true

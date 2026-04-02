@@ -1,7 +1,7 @@
 ---
 title: "Sina Henjes"
 description: "Sina Henjes is a Mid-career Soil Carbon researcher at Leibniz University Hannover in DE. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.421738
+date: 2026-04-02T07:03:25.520254
 url: "/cdr-researcher-census/researchers/sina-henjes-a5034339/"
 layout: "researcher"
 hiddenInHomeList: true

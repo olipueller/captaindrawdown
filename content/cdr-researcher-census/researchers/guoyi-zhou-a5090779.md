@@ -1,7 +1,7 @@
 ---
 title: "Guoyi Zhou"
 description: "Guoyi Zhou is a Senior Soil Carbon researcher at China Meteorological Administration in CN. With 37 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.320415
+date: 2026-04-02T07:03:23.937008
 url: "/cdr-researcher-census/researchers/guoyi-zhou-a5090779/"
 layout: "researcher"
 hiddenInHomeList: true

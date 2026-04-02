@@ -1,7 +1,7 @@
 ---
 title: "Kevin K. Reimund"
 description: "Kevin K. Reimund is a Mid-career carbon dioxide removal researcher at The University of Texas at Austin in US. With 18 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.871397
+date: 2026-04-02T07:03:24.705561
 url: "/cdr-researcher-census/researchers/kevin-k-reimund-a5078374/"
 layout: "researcher"
 hiddenInHomeList: true

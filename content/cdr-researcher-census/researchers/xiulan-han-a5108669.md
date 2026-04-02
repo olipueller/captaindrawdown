@@ -1,7 +1,7 @@
 ---
 title: "Xiulan Han"
 description: "Xiulan Han is a Senior Soil Carbon researcher at Gansu Normal University for Nationalities in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.711340
+date: 2026-04-02T07:03:24.481774
 url: "/cdr-researcher-census/researchers/xiulan-han-a5108669/"
 layout: "researcher"
 hiddenInHomeList: true

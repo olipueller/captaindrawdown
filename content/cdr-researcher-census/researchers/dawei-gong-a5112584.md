@@ -1,7 +1,7 @@
 ---
 title: "Dawei Gong"
 description: "Dawei Gong is a Senior carbon dioxide removal researcher at Nanjing Tech University in CN. With 18 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.148403
+date: 2026-04-02T07:03:23.705849
 url: "/cdr-researcher-census/researchers/dawei-gong-a5112584/"
 layout: "researcher"
 hiddenInHomeList: true

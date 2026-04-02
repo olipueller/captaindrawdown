@@ -1,7 +1,7 @@
 ---
 title: "Julia Abram"
 description: "Julia Abram is a Mid-career carbon dioxide removal researcher at Innsbruck Medical University in AT. With 31 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.254335
+date: 2026-04-02T07:03:25.279611
 url: "/cdr-researcher-census/researchers/julia-abram-a5036955/"
 layout: "researcher"
 hiddenInHomeList: true

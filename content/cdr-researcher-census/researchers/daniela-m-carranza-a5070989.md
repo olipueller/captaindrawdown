@@ -1,7 +1,7 @@
 ---
 title: "Daniela M. Carranza"
 description: "Daniela M. Carranza is a Mid-career General CDR researcher at Centre National de la Recherche Scientifique in FR. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.286863
+date: 2026-04-02T07:03:26.807692
 url: "/cdr-researcher-census/researchers/daniela-m-carranza-a5070989/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Khanh Nguyen"
 description: "Khanh Nguyen is a Senior Biochar researcher at Fisheries and Oceans Canada in CA. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.946418
+date: 2026-04-02T07:03:24.825172
 url: "/cdr-researcher-census/researchers/khanh-nguyen-a5030023/"
 layout: "researcher"
 hiddenInHomeList: true

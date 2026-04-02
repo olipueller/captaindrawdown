@@ -1,7 +1,7 @@
 ---
 title: "Zhi Peng"
 description: "Zhi Peng is a Senior Soil Carbon researcher at Jishou University in CN. With 33 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.086190
+date: 2026-04-02T07:03:25.034388
 url: "/cdr-researcher-census/researchers/zhi-peng-a5109007/"
 layout: "researcher"
 hiddenInHomeList: true

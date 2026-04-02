@@ -1,7 +1,7 @@
 ---
 title: "Richard Hixson"
 description: "Richard Hixson is a Mid-career carbon dioxide removal researcher at County Durham and Darlington NHS Foundation Trust in GB. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.853756
+date: 2026-04-02T07:03:24.680405
 url: "/cdr-researcher-census/researchers/richard-hixson-a5084900/"
 layout: "researcher"
 hiddenInHomeList: true

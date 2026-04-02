@@ -1,7 +1,7 @@
 ---
 title: "Kaleb Friedman"
 description: "Kaleb Friedman is an Early-career carbon dioxide removal researcher at University at Buffalo, State University of New York in US. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.151797
+date: 2026-04-02T07:03:26.588885
 url: "/cdr-researcher-census/researchers/kaleb-friedman-a5038773/"
 layout: "researcher"
 hiddenInHomeList: true

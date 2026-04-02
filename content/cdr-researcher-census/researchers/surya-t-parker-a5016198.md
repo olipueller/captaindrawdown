@@ -1,7 +1,7 @@
 ---
 title: "Surya T. Parker"
 description: "Surya T. Parker is a Mid-career carbon dioxide removal researcher at Lawrence Berkeley National Laboratory in US. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.000538
+date: 2026-04-02T07:03:24.910410
 url: "/cdr-researcher-census/researchers/surya-t-parker-a5016198/"
 layout: "researcher"
 hiddenInHomeList: true

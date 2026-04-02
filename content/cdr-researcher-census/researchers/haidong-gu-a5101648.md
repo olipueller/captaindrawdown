@@ -1,7 +1,7 @@
 ---
 title: "Haidong Gu"
 description: "Haidong Gu is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 67 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.202271
+date: 2026-04-02T07:03:23.780654
 url: "/cdr-researcher-census/researchers/haidong-gu-a5101648/"
 layout: "researcher"
 hiddenInHomeList: true

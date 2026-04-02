@@ -1,7 +1,7 @@
 ---
 title: "Abdullah Ahmad Makmom"
 description: "Abdullah Ahmad Makmom is a Mid-career carbon dioxide removal researcher at Universiti Putra Malaysia in MY. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.441921
+date: 2026-04-02T07:03:27.029542
 url: "/cdr-researcher-census/researchers/abdullah-ahmad-makmom-a5104273/"
 layout: "researcher"
 hiddenInHomeList: true

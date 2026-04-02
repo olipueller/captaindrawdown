@@ -1,7 +1,7 @@
 ---
 title: "Wangya Han"
 description: "Wangya Han is a Mid-career General CDR researcher at China Meteorological Administration in CN. With 21 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.652013
+date: 2026-04-02T07:03:25.885264
 url: "/cdr-researcher-census/researchers/wangya-han-a5002092/"
 layout: "researcher"
 hiddenInHomeList: true

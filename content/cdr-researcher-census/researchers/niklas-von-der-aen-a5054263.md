@@ -1,7 +1,7 @@
 ---
 title: "Niklas von der Aßen"
 description: "Niklas von der Aßen is a Mid-career General CDR researcher at RWTH Aachen University in DE. With 97 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.231865
+date: 2026-04-02T07:03:23.815858
 url: "/cdr-researcher-census/researchers/niklas-von-der-aen-a5054263/"
 layout: "researcher"
 hiddenInHomeList: true

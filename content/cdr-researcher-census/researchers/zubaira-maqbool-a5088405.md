@@ -1,7 +1,7 @@
 ---
 title: "Zubaira Maqbool"
 description: "Zubaira Maqbool is an Early-career General CDR researcher at Pir Mehr Ali Shah Arid Agriculture University in PK. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.439464
+date: 2026-04-02T07:03:27.025743
 url: "/cdr-researcher-census/researchers/zubaira-maqbool-a5088405/"
 layout: "researcher"
 hiddenInHomeList: true

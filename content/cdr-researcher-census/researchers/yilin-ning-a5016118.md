@@ -1,7 +1,7 @@
 ---
 title: "Yilin Ning"
 description: "Yilin Ning is a Mid-career Soil Carbon researcher at Nanjing Forestry University in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.900278
+date: 2026-04-02T07:03:24.749967
 url: "/cdr-researcher-census/researchers/yilin-ning-a5016118/"
 layout: "researcher"
 hiddenInHomeList: true

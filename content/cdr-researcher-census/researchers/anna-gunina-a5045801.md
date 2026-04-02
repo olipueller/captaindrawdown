@@ -1,7 +1,7 @@
 ---
 title: "Anna Gunina"
 description: "Anna Gunina is a Senior Soil Carbon researcher at University of Kassel in DE. With 152 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.131300
+date: 2026-04-02T07:03:23.684306
 url: "/cdr-researcher-census/researchers/anna-gunina-a5045801/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Hao Dong"
 description: "Hao Dong is a Senior carbon dioxide removal researcher at Suzhou University of Science and Technology in CN. With 28 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.091804
+date: 2026-04-02T07:03:25.042725
 url: "/cdr-researcher-census/researchers/hao-dong-a5101905/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Rajasekaran Murugan"
 description: "Rajasekaran Murugan is a Senior Soil Carbon researcher at Chennai Mathematical Institute in IN. With 62 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.477148
+date: 2026-04-02T07:03:24.143344
 url: "/cdr-researcher-census/researchers/rajasekaran-murugan-a5058359/"
 layout: "researcher"
 hiddenInHomeList: true

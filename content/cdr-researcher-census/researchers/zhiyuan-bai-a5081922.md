@@ -1,7 +1,7 @@
 ---
 title: "Zhiyuan Bai"
 description: "Zhiyuan Bai is a Mid-career Soil Carbon researcher at Ministry of Agriculture and Rural Affairs in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.334725
+date: 2026-04-02T07:03:25.389478
 url: "/cdr-researcher-census/researchers/zhiyuan-bai-a5081922/"
 layout: "researcher"
 hiddenInHomeList: true

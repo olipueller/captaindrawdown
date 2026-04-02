@@ -1,7 +1,7 @@
 ---
 title: "Jian Zhao"
 description: "Jian Zhao is a Senior Soil Carbon researcher at Yantai Academy of Agricultural Sciences in CN. With 32 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.891138
+date: 2026-04-02T07:03:26.203146
 url: "/cdr-researcher-census/researchers/jian-zhao-a5065014/"
 layout: "researcher"
 hiddenInHomeList: true

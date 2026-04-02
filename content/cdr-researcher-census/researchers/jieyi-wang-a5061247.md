@@ -1,7 +1,7 @@
 ---
 title: "Jieyi Wang"
 description: "Jieyi Wang is a Mid-career Biochar researcher at Central South University in CN. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.962385
+date: 2026-04-02T07:03:24.850168
 url: "/cdr-researcher-census/researchers/jieyi-wang-a5061247/"
 layout: "researcher"
 hiddenInHomeList: true

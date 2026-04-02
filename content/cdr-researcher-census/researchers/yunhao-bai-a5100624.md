@@ -1,7 +1,7 @@
 ---
 title: "Yun‐Hao Bai"
 description: "Yun‐Hao Bai is a Mid-career Soil Carbon researcher at Peking University in CN. With 23 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.047120
+date: 2026-04-02T07:03:26.432063
 url: "/cdr-researcher-census/researchers/yunhao-bai-a5100624/"
 layout: "researcher"
 hiddenInHomeList: true

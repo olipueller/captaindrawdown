@@ -1,7 +1,7 @@
 ---
 title: "Asad Ali Khan"
 description: "Asad Ali Khan is a Senior Biochar researcher at The University of Agriculture, Peshawar in PK. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.277339
+date: 2026-04-02T07:03:25.308954
 url: "/cdr-researcher-census/researchers/asad-ali-khan-a5101706/"
 layout: "researcher"
 hiddenInHomeList: true

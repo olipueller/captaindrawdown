@@ -1,7 +1,7 @@
 ---
 title: "Hsin‐Cheng Chung"
 description: "Hsin‐Cheng Chung is a Senior carbon dioxide removal researcher at Cheng Ching Hospital in TW. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.875991
+date: 2026-04-02T07:03:26.180198
 url: "/cdr-researcher-census/researchers/hsincheng-chung-a5005445/"
 layout: "researcher"
 hiddenInHomeList: true

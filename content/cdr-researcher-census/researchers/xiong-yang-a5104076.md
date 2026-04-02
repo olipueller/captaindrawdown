@@ -1,7 +1,7 @@
 ---
 title: "Xiong Yang"
 description: "Xiong Yang is a Mid-career Soil Carbon researcher at Yunnan University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.105853
+date: 2026-04-02T07:03:26.514351
 url: "/cdr-researcher-census/researchers/xiong-yang-a5104076/"
 layout: "researcher"
 hiddenInHomeList: true

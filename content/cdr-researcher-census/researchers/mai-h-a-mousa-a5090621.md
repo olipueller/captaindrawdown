@@ -1,7 +1,7 @@
 ---
 title: "Mai H. A. Mousa"
 description: "Mai H. A. Mousa is a Senior General CDR researcher at Southern Technical University in IQ. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.978677
+date: 2026-04-02T07:03:26.328827
 url: "/cdr-researcher-census/researchers/mai-h-a-mousa-a5090621/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Hongye Pei"
 description: "Hongye Pei is a Mid-career Soil Carbon researcher at China University of Geosciences in CN. With 14 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.741369
+date: 2026-04-02T07:03:24.527059
 url: "/cdr-researcher-census/researchers/hongye-pei-a5113939/"
 layout: "researcher"
 hiddenInHomeList: true

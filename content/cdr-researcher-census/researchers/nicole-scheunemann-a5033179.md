@@ -1,7 +1,7 @@
 ---
 title: "Nicole Scheunemann"
 description: "Nicole Scheunemann is a Senior Soil Carbon researcher. With 27 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.651609
+date: 2026-04-02T07:03:24.393528
 url: "/cdr-researcher-census/researchers/nicole-scheunemann-a5033179/"
 layout: "researcher"
 hiddenInHomeList: true

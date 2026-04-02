@@ -1,7 +1,7 @@
 ---
 title: "Qiong Xiao"
 description: "Qiong Xiao is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 77 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.508049
+date: 2026-04-02T07:03:24.182932
 url: "/cdr-researcher-census/researchers/qiong-xiao-a5049361/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Cecilia Sundberg"
 description: "Cecilia Sundberg is a Senior Biochar researcher at Swedish University of Agricultural Sciences in SE. With 149 publications and an h-index of 39, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.140285
+date: 2026-04-02T07:03:23.694803
 url: "/cdr-researcher-census/researchers/cecilia-sundberg-a5031213/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Elisa Bruni"
 description: "Elisa Bruni is a Mid-career Soil Carbon researcher at Centre National de la Recherche Scientifique in FR. With 52 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.613180
+date: 2026-04-02T07:03:24.338986
 url: "/cdr-researcher-census/researchers/elisa-bruni-a5090196/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ronley C. Canatoy"
 description: "Ronley C. Canatoy is a Mid-career Soil Carbon researcher at Gyeongsang National University in KR. With 31 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.428860
+date: 2026-04-02T07:03:25.530006
 url: "/cdr-researcher-census/researchers/ronley-c-canatoy-a5088663/"
 layout: "researcher"
 hiddenInHomeList: true

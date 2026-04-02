@@ -1,7 +1,7 @@
 ---
 title: "Lei Pang"
 description: "Lei Pang is a Mid-career carbon dioxide removal researcher at Dongfeng Motor Group (China) in CN. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.265505
+date: 2026-04-02T07:03:25.293340
 url: "/cdr-researcher-census/researchers/lei-pang-a5060265/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jean Jesus Novais"
 description: "Jean Jesus Novais is a Mid-career Soil Carbon researcher at Universidade de São Paulo in BR. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.201342
+date: 2026-04-02T07:03:26.681903
 url: "/cdr-researcher-census/researchers/jean-jesus-novais-a5061583/"
 layout: "researcher"
 hiddenInHomeList: true

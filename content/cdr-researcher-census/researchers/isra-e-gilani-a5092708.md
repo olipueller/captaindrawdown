@@ -1,7 +1,7 @@
 ---
 title: "Isra E. Gilani"
 description: "Isra E. Gilani is an Early-career carbon dioxide removal researcher at Qatar University in QA. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.244839
+date: 2026-04-02T07:03:26.742039
 url: "/cdr-researcher-census/researchers/isra-e-gilani-a5092708/"
 layout: "researcher"
 hiddenInHomeList: true

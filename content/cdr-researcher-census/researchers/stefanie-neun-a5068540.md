@@ -1,7 +1,7 @@
 ---
 title: "Stefanie Neun"
 description: "Stefanie Neun is a Mid-career DAC researcher at National University of Misiones in AR. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.367795
+date: 2026-04-02T07:03:25.439398
 url: "/cdr-researcher-census/researchers/stefanie-neun-a5068540/"
 layout: "researcher"
 hiddenInHomeList: true

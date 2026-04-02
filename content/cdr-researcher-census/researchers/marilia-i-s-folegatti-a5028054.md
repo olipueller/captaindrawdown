@@ -1,7 +1,7 @@
 ---
 title: "Marília I. S. Folegatti"
 description: "Marília I. S. Folegatti is a Mid-career BECCS researcher at Brazilian Agricultural Research Corporation in BR. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.821584
+date: 2026-04-02T07:03:26.104072
 url: "/cdr-researcher-census/researchers/marilia-i-s-folegatti-a5028054/"
 layout: "researcher"
 hiddenInHomeList: true

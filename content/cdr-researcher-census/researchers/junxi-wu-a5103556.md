@@ -1,7 +1,7 @@
 ---
 title: "Junxi Wu"
 description: "Junxi Wu is a Mid-career Soil Carbon researcher at University of Nottingham Ningbo China in CN. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.341669
+date: 2026-04-02T07:03:26.882875
 url: "/cdr-researcher-census/researchers/junxi-wu-a5103556/"
 layout: "researcher"
 hiddenInHomeList: true

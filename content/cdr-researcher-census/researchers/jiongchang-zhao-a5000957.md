@@ -1,7 +1,7 @@
 ---
 title: "Jiongchang Zhao"
 description: "Jiongchang Zhao is a Mid-career Soil Carbon researcher at China Agricultural University in CN. With 22 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.158393
+date: 2026-04-02T07:03:26.601196
 url: "/cdr-researcher-census/researchers/jiongchang-zhao-a5000957/"
 layout: "researcher"
 hiddenInHomeList: true

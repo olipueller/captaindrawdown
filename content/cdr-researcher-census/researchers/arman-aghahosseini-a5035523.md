@@ -1,7 +1,7 @@
 ---
 title: "Arman Aghahosseini"
 description: "Arman Aghahosseini is a Senior General CDR researcher at Lappeenranta University of Technology (LUT) in FI. With 65 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.118216
+date: 2026-04-02T07:03:23.669468
 url: "/cdr-researcher-census/researchers/arman-aghahosseini-a5035523/"
 layout: "researcher"
 hiddenInHomeList: true

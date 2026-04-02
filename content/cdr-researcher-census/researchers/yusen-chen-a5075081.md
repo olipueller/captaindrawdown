@@ -1,7 +1,7 @@
 ---
 title: "Yusen Chen"
 description: "Yusen Chen is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.011325
+date: 2026-04-02T07:03:26.377285
 url: "/cdr-researcher-census/researchers/yusen-chen-a5075081/"
 layout: "researcher"
 hiddenInHomeList: true

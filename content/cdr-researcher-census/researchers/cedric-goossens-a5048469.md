@@ -1,7 +1,7 @@
 ---
 title: "Cedric Goossens"
 description: "Cedric Goossens is a Mid-career Enhanced Weathering researcher at Flanders Marine Institute in BE. With 19 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.410712
+date: 2026-04-02T07:03:26.981330
 url: "/cdr-researcher-census/researchers/cedric-goossens-a5048469/"
 layout: "researcher"
 hiddenInHomeList: true

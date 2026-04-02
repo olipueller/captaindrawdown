@@ -1,7 +1,7 @@
 ---
 title: "Huanhuan Wei"
 description: "Huanhuan Wei is a Mid-career Soil Carbon researcher at Shenyang Agricultural University in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.388347
+date: 2026-04-02T07:03:25.468995
 url: "/cdr-researcher-census/researchers/huanhuan-wei-a5077188/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xuan Shi"
 description: "Xuan Shi is a Mid-career General CDR researcher at Qinghai Normal University in CN. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.140295
+date: 2026-04-02T07:03:25.114536
 url: "/cdr-researcher-census/researchers/xuan-shi-a5072389/"
 layout: "researcher"
 hiddenInHomeList: true

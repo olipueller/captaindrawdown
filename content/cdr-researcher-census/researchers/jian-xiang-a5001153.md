@@ -1,7 +1,7 @@
 ---
 title: "Jian Xiang"
 description: "Jian Xiang is a Mid-career Soil Carbon researcher at Nanjing Forestry University in CN. With 39 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.360450
+date: 2026-04-02T07:03:23.992174
 url: "/cdr-researcher-census/researchers/jian-xiang-a5001153/"
 layout: "researcher"
 hiddenInHomeList: true

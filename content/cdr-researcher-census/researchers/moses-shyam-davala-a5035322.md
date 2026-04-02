@@ -1,7 +1,7 @@
 ---
 title: "Moses Shyam Davala"
 description: "Moses Shyam Davala is an Early-career Biochar researcher at International Crops Research Institute for the Semi-Arid Tropics in IN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.409727
+date: 2026-04-02T07:03:26.980051
 url: "/cdr-researcher-census/researchers/moses-shyam-davala-a5035322/"
 layout: "researcher"
 hiddenInHomeList: true

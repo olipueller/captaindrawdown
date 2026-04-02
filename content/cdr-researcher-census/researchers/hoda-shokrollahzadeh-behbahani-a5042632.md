@@ -1,7 +1,7 @@
 ---
 title: "Hoda Shokrollahzadeh Behbahani"
 description: "Hoda Shokrollahzadeh Behbahani is a Mid-career DAC researcher at California University of Pennsylvania in US. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.102732
+date: 2026-04-02T07:03:26.509125
 url: "/cdr-researcher-census/researchers/hoda-shokrollahzadeh-behbahani-a5042632/"
 layout: "researcher"
 hiddenInHomeList: true

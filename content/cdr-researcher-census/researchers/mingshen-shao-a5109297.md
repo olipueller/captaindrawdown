@@ -1,7 +1,7 @@
 ---
 title: "Mingshen Shao"
 description: "Mingshen Shao is a Senior carbon dioxide removal researcher at Chinese Academy of Cultural Heritage in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.678112
+date: 2026-04-02T07:03:25.926496
 url: "/cdr-researcher-census/researchers/mingshen-shao-a5109297/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ka Ming Fung"
 description: "Ka Ming Fung is a Mid-career Enhanced Weathering researcher at Chinese University of Hong Kong in CN. With 38 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.137943
+date: 2026-04-02T07:03:25.110871
 url: "/cdr-researcher-census/researchers/ka-ming-fung-a5056900/"
 layout: "researcher"
 hiddenInHomeList: true

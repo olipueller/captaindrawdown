@@ -1,7 +1,7 @@
 ---
 title: "Sebastiano Mantovani"
 description: "Sebastiano Mantovani is a Mid-career carbon dioxide removal researcher at Regione Puglia in IT. With 14 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.409923
+date: 2026-04-02T07:03:25.503190
 url: "/cdr-researcher-census/researchers/sebastiano-mantovani-a5001054/"
 layout: "researcher"
 hiddenInHomeList: true

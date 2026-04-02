@@ -1,7 +1,7 @@
 ---
 title: "Ayanne de Oliveira Maciel"
 description: "Ayanne de Oliveira Maciel is a Mid-career General CDR researcher at Luleå University of Technology in SE. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.922124
+date: 2026-04-02T07:03:26.251020
 url: "/cdr-researcher-census/researchers/ayanne-de-oliveira-maciel-a5088560/"
 layout: "researcher"
 hiddenInHomeList: true

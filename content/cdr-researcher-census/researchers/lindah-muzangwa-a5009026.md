@@ -1,7 +1,7 @@
 ---
 title: "Lindah Muzangwa"
 description: "Lindah Muzangwa is a Mid-career Soil Carbon researcher at University of Fort Hare in ZA. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.828000
+date: 2026-04-02T07:03:26.112334
 url: "/cdr-researcher-census/researchers/lindah-muzangwa-a5009026/"
 layout: "researcher"
 hiddenInHomeList: true

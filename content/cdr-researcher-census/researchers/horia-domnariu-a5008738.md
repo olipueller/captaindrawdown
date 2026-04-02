@@ -1,7 +1,7 @@
 ---
 title: "Horia Domnariu"
 description: "Horia Domnariu is a Mid-career Soil Carbon researcher at University of Bucharest in RO. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.280651
+date: 2026-04-02T07:03:26.797641
 url: "/cdr-researcher-census/researchers/horia-domnariu-a5008738/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Nils Tenhumberg"
 description: "Nils Tenhumberg is a Mid-career DAC researcher. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.706164
+date: 2026-04-02T07:03:24.474794
 url: "/cdr-researcher-census/researchers/nils-tenhumberg-a5079183/"
 layout: "researcher"
 hiddenInHomeList: true

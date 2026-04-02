@@ -1,7 +1,7 @@
 ---
 title: "Bezaye Tessema"
 description: "Bezaye Tessema is a Mid-career Soil Carbon researcher at Rice University in US. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.671833
+date: 2026-04-02T07:03:25.916893
 url: "/cdr-researcher-census/researchers/bezaye-tessema-a5084565/"
 layout: "researcher"
 hiddenInHomeList: true

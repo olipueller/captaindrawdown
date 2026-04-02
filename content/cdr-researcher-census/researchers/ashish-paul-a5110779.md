@@ -1,7 +1,7 @@
 ---
 title: "Ashish Paul"
 description: "Ashish Paul is a Senior General CDR researcher at North Eastern Regional Institute of Science and Technology in IN. With 33 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.955462
+date: 2026-04-02T07:03:24.838504
 url: "/cdr-researcher-census/researchers/ashish-paul-a5110779/"
 layout: "researcher"
 hiddenInHomeList: true

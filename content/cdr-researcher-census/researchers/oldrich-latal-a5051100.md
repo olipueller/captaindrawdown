@@ -1,7 +1,7 @@
 ---
 title: "Oldřich Látal"
 description: "Oldřich Látal is a Mid-career Soil Carbon researcher at Agritec (Czechia) in CZ. With 74 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.917911
+date: 2026-04-02T07:03:24.779961
 url: "/cdr-researcher-census/researchers/oldrich-latal-a5051100/"
 layout: "researcher"
 hiddenInHomeList: true

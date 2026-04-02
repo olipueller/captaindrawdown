@@ -1,7 +1,7 @@
 ---
 title: "Gernot Bodner"
 description: "Gernot Bodner is a Senior Soil Carbon researcher at Universität für Bodenkultur Wien in AT. With 139 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.138869
+date: 2026-04-02T07:03:23.693129
 url: "/cdr-researcher-census/researchers/gernot-bodner-a5051932/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Maria Val Martin"
 description: "Maria Val Martin is a Senior General CDR researcher at University of Sheffield in GB. With 157 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.106923
+date: 2026-04-02T07:03:23.656021
 url: "/cdr-researcher-census/researchers/maria-val-martin-a5037090/"
 layout: "researcher"
 hiddenInHomeList: true

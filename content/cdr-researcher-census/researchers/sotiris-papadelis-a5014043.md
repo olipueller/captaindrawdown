@@ -1,7 +1,7 @@
 ---
 title: "Sotiris Papadelis"
 description: "Sotiris Papadelis is a Mid-career BECCS researcher at University of Piraeus in GR. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.372613
+date: 2026-04-02T07:03:24.008156
 url: "/cdr-researcher-census/researchers/sotiris-papadelis-a5014043/"
 layout: "researcher"
 hiddenInHomeList: true

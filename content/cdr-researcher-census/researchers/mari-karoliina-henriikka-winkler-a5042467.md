@@ -1,7 +1,7 @@
 ---
 title: "Mari-Karoliina Henriikka Winkler"
 description: "Mari-Karoliina Henriikka Winkler is a Mid-career Soil Carbon researcher at University of Washington in US. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.769157
+date: 2026-04-02T07:03:26.028165
 url: "/cdr-researcher-census/researchers/mari-karoliina-henriikka-winkler-a5042467/"
 layout: "researcher"
 hiddenInHomeList: true

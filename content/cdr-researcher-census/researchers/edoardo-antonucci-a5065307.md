@@ -1,7 +1,7 @@
 ---
 title: "Edoardo Antonucci"
 description: "Edoardo Antonucci is an Early-career carbon dioxide removal researcher at Azienda Socio Sanitaria Territoriale Grande Ospedale Metropolitano Niguarda in IT. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.214130
+date: 2026-04-02T07:03:26.698952
 url: "/cdr-researcher-census/researchers/edoardo-antonucci-a5065307/"
 layout: "researcher"
 hiddenInHomeList: true

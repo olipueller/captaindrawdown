@@ -1,7 +1,7 @@
 ---
 title: "Matthew C. Ives"
 description: "Matthew C. Ives is a Senior General CDR researcher at University of Oxford  in GB. With 53 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.270478
+date: 2026-04-02T07:03:23.869488
 url: "/cdr-researcher-census/researchers/matthew-c-ives-a5082802/"
 layout: "researcher"
 hiddenInHomeList: true

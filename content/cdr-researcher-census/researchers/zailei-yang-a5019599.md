@@ -1,7 +1,7 @@
 ---
 title: "Zailei Yang"
 description: "Zailei Yang is a Mid-career Soil Carbon researcher at Xinjiang Agricultural University in CN. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.960883
+date: 2026-04-02T07:03:24.847781
 url: "/cdr-researcher-census/researchers/zailei-yang-a5019599/"
 layout: "researcher"
 hiddenInHomeList: true

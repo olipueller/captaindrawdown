@@ -1,7 +1,7 @@
 ---
 title: "Bruna R. F. Oliveira"
 description: "Bruna R. F. Oliveira is a Mid-career Biochar researcher at University of Aveiro in PT. With 47 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.925733
+date: 2026-04-02T07:03:24.791246
 url: "/cdr-researcher-census/researchers/bruna-r-f-oliveira-a5083959/"
 layout: "researcher"
 hiddenInHomeList: true

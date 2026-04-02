@@ -1,7 +1,7 @@
 ---
 title: "Callum C. Banfield"
 description: "Callum C. Banfield is a Mid-career Biochar researcher at University of Tübingen in DE. With 32 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.365453
+date: 2026-04-02T07:03:23.998594
 url: "/cdr-researcher-census/researchers/callum-c-banfield-a5007680/"
 layout: "researcher"
 hiddenInHomeList: true

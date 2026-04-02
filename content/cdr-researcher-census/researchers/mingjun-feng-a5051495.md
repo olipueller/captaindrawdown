@@ -1,7 +1,7 @@
 ---
 title: "Mingjun Feng"
 description: "Mingjun Feng is a Mid-career General CDR researcher. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.853335
+date: 2026-04-02T07:03:26.148951
 url: "/cdr-researcher-census/researchers/mingjun-feng-a5051495/"
 layout: "researcher"
 hiddenInHomeList: true

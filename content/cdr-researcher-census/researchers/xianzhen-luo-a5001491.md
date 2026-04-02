@@ -1,7 +1,7 @@
 ---
 title: "Xianzhen Luo"
 description: "Xianzhen Luo is a Mid-career Soil Carbon researcher at South China Botanical Garden in CN. With 71 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.305762
+date: 2026-04-02T07:03:23.917539
 url: "/cdr-researcher-census/researchers/xianzhen-luo-a5001491/"
 layout: "researcher"
 hiddenInHomeList: true

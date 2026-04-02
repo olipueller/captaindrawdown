@@ -1,7 +1,7 @@
 ---
 title: "Bożena Dębska"
 description: "Bożena Dębska is a Senior Soil Carbon researcher at Bydgoszcz University of Science and Technology in PL. With 68 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.581210
+date: 2026-04-02T07:03:24.292642
 url: "/cdr-researcher-census/researchers/bozena-debska-a5022634/"
 layout: "researcher"
 hiddenInHomeList: true

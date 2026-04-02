@@ -1,7 +1,7 @@
 ---
 title: "Simon Rufer"
 description: "Simon Rufer is an Early-career DAC researcher at Massachusetts Institute of Technology in US. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.136185
+date: 2026-04-02T07:03:26.561337
 url: "/cdr-researcher-census/researchers/simon-rufer-a5012886/"
 layout: "researcher"
 hiddenInHomeList: true

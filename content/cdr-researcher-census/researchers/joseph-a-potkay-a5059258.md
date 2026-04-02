@@ -1,7 +1,7 @@
 ---
 title: "Joseph A. Potkay"
 description: "Joseph A. Potkay is a Senior carbon dioxide removal researcher at University of Michigan–Ann Arbor in US. With 64 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.293406
+date: 2026-04-02T07:03:23.901254
 url: "/cdr-researcher-census/researchers/joseph-a-potkay-a5059258/"
 layout: "researcher"
 hiddenInHomeList: true

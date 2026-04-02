@@ -1,7 +1,7 @@
 ---
 title: "Jieyun Guo"
 description: "Jieyun Guo is a Mid-career Soil Carbon researcher. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.869696
+date: 2026-04-02T07:03:24.703239
 url: "/cdr-researcher-census/researchers/jieyun-guo-a5046708/"
 layout: "researcher"
 hiddenInHomeList: true

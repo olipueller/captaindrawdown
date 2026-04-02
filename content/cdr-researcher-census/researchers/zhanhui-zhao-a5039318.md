@@ -1,7 +1,7 @@
 ---
 title: "Zhanhui Zhao"
 description: "Zhanhui Zhao is a Mid-career Soil Carbon researcher at Henan University of Urban Construction in CN. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.992968
+date: 2026-04-02T07:03:24.898480
 url: "/cdr-researcher-census/researchers/zhanhui-zhao-a5039318/"
 layout: "researcher"
 hiddenInHomeList: true

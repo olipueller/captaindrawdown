@@ -1,7 +1,7 @@
 ---
 title: "Qiong Nan"
 description: "Qiong Nan is a Senior Biochar researcher at Zhejiang University in CN. With 64 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.321780
+date: 2026-04-02T07:03:23.938912
 url: "/cdr-researcher-census/researchers/qiong-nan-a5061095/"
 layout: "researcher"
 hiddenInHomeList: true

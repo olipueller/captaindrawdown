@@ -1,7 +1,7 @@
 ---
 title: "Hatem Ibrahim"
 description: "Hatem Ibrahim is a Mid-career Soil Carbon researcher at University of Carthage in TN. With 21 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.930578
+date: 2026-04-02T07:03:26.265312
 url: "/cdr-researcher-census/researchers/hatem-ibrahim-a5064669/"
 layout: "researcher"
 hiddenInHomeList: true

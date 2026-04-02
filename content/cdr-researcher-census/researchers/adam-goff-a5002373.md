@@ -1,7 +1,7 @@
 ---
 title: "Adam Goff"
 description: "Adam Goff is a Mid-career DAC researcher at Luna Innovations (United States) in US. With 24 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.206366
+date: 2026-04-02T07:03:26.688603
 url: "/cdr-researcher-census/researchers/adam-goff-a5002373/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Shiyuan Fu"
 description: "Shiyuan Fu is a Mid-career Biochar researcher at Zhejiang University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.760047
+date: 2026-04-02T07:03:26.015075
 url: "/cdr-researcher-census/researchers/shiyuan-fu-a5010229/"
 layout: "researcher"
 hiddenInHomeList: true

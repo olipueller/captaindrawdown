@@ -1,7 +1,7 @@
 ---
 title: "Preston Sorenson"
 description: "Preston Sorenson is a Mid-career Soil Carbon researcher at University of Saskatchewan in CA. With 40 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.094717
+date: 2026-04-02T07:03:25.047046
 url: "/cdr-researcher-census/researchers/preston-sorenson-a5016894/"
 layout: "researcher"
 hiddenInHomeList: true

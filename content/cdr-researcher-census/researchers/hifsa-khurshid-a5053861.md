@@ -1,7 +1,7 @@
 ---
 title: "Hifsa Khurshid"
 description: "Hifsa Khurshid is a Mid-career Biochar researcher at King Fahd University of Petroleum and Minerals in SA. With 29 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.070833
+date: 2026-04-02T07:03:25.013272
 url: "/cdr-researcher-census/researchers/hifsa-khurshid-a5053861/"
 layout: "researcher"
 hiddenInHomeList: true

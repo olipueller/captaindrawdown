@@ -1,7 +1,7 @@
 ---
 title: "M. B. Chiavegato"
 description: "M. B. Chiavegato is a Senior Soil Carbon researcher at The Ohio State University in US. With 39 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.929258
+date: 2026-04-02T07:03:24.796705
 url: "/cdr-researcher-census/researchers/m-b-chiavegato-a5057843/"
 layout: "researcher"
 hiddenInHomeList: true

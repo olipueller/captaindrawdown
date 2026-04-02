@@ -1,7 +1,7 @@
 ---
 title: "Mihrimah Ozkan"
 description: "Mihrimah Ozkan is an Eminent General CDR researcher at University of California, Riverside in US. With 192 publications and an h-index of 44, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.117710
+date: 2026-04-02T07:03:23.668742
 url: "/cdr-researcher-census/researchers/mihrimah-ozkan-a5039562/"
 layout: "researcher"
 hiddenInHomeList: true

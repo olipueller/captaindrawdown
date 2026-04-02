@@ -1,7 +1,7 @@
 ---
 title: "K. Gorham"
 description: "K. Gorham is a Senior General CDR researcher. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.844694
+date: 2026-04-02T07:03:24.668235
 url: "/cdr-researcher-census/researchers/k-gorham-a5055725/"
 layout: "researcher"
 hiddenInHomeList: true

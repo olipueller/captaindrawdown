@@ -1,7 +1,7 @@
 ---
 title: "Alison Debney"
 description: "Alison Debney is a Senior Ocean CDR researcher at Zoological Society of London in GB. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.620759
+date: 2026-04-02T07:03:25.836578
 url: "/cdr-researcher-census/researchers/alison-debney-a5051585/"
 layout: "researcher"
 hiddenInHomeList: true

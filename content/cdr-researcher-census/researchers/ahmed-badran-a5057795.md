@@ -1,7 +1,7 @@
 ---
 title: "Ahmed Badran"
 description: "Ahmed Badran is a Senior General CDR researcher at Qatar University in QA. With 29 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.572045
+date: 2026-04-02T07:03:25.763519
 url: "/cdr-researcher-census/researchers/ahmed-badran-a5057795/"
 layout: "researcher"
 hiddenInHomeList: true

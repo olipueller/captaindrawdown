@@ -1,7 +1,7 @@
 ---
 title: "Bismark Asante-Badu"
 description: "Bismark Asante-Badu is a Mid-career Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.419684
+date: 2026-04-02T07:03:25.517143
 url: "/cdr-researcher-census/researchers/bismark-asante-badu-a5047676/"
 layout: "researcher"
 hiddenInHomeList: true

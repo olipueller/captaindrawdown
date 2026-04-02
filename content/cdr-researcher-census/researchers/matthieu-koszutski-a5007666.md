@@ -1,7 +1,7 @@
 ---
 title: "Matthieu Koszutski"
 description: "Matthieu Koszutski is a Mid-career carbon dioxide removal researcher at Inserm in FR. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.213879
+date: 2026-04-02T07:03:26.698666
 url: "/cdr-researcher-census/researchers/matthieu-koszutski-a5007666/"
 layout: "researcher"
 hiddenInHomeList: true

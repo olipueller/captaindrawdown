@@ -1,7 +1,7 @@
 ---
 title: "Sarah Castine"
 description: "Sarah Castine is a Senior carbon dioxide removal researcher at James Cook University in AU. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.195421
+date: 2026-04-02T07:03:25.192924
 url: "/cdr-researcher-census/researchers/sarah-castine-a5111939/"
 layout: "researcher"
 hiddenInHomeList: true

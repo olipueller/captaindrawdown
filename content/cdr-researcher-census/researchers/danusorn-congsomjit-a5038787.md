@@ -1,7 +1,7 @@
 ---
 title: "Danusorn Congsomjit"
 description: "Danusorn Congsomjit is a Mid-career carbon dioxide removal researcher at Kasetsart University in TH. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.384410
+date: 2026-04-02T07:03:26.944843
 url: "/cdr-researcher-census/researchers/danusorn-congsomjit-a5038787/"
 layout: "researcher"
 hiddenInHomeList: true

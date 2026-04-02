@@ -1,7 +1,7 @@
 ---
 title: "Md. Tareq Bin Salam"
 description: "Md. Tareq Bin Salam is a Mid-career Soil Carbon researcher at Khulna University in BD. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.346957
+date: 2026-04-02T07:03:26.891654
 url: "/cdr-researcher-census/researchers/md-tareq-bin-salam-a5077774/"
 layout: "researcher"
 hiddenInHomeList: true

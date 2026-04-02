@@ -1,7 +1,7 @@
 ---
 title: "Michael Müller"
 description: "Michael Müller is a Senior carbon dioxide removal researcher at E Ink (South Korea) in KR. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.058816
+date: 2026-04-02T07:03:26.451152
 url: "/cdr-researcher-census/researchers/michael-muller-a5103086/"
 layout: "researcher"
 hiddenInHomeList: true

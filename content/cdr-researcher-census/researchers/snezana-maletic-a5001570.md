@@ -1,7 +1,7 @@
 ---
 title: "Snežana Maletić"
 description: "Snežana Maletić is a Senior Biochar researcher at University of Novi Sad in RS. With 124 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.234144
+date: 2026-04-02T07:03:23.818514
 url: "/cdr-researcher-census/researchers/snezana-maletic-a5001570/"
 layout: "researcher"
 hiddenInHomeList: true

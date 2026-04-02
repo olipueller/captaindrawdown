@@ -1,7 +1,7 @@
 ---
 title: "Renée Z. Wang"
 description: "Renée Z. Wang is a Mid-career Soil Carbon researcher at University of California, Berkeley in US. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.865501
+date: 2026-04-02T07:03:26.166004
 url: "/cdr-researcher-census/researchers/renee-z-wang-a5046390/"
 layout: "researcher"
 hiddenInHomeList: true

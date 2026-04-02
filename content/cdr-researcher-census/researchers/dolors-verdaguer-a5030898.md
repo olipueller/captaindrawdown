@@ -1,7 +1,7 @@
 ---
 title: "Dolors Verdaguer"
 description: "Dolors Verdaguer is a Senior Soil Carbon researcher at University of Girona in ES. With 50 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.340163
+date: 2026-04-02T07:03:23.963561
 url: "/cdr-researcher-census/researchers/dolors-verdaguer-a5030898/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Songbok Lee"
 description: "Songbok Lee is a Mid-career carbon dioxide removal researcher at Korea University in KR. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.194821
+date: 2026-04-02T07:03:25.192102
 url: "/cdr-researcher-census/researchers/songbok-lee-a5086287/"
 layout: "researcher"
 hiddenInHomeList: true

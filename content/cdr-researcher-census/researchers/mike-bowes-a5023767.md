@@ -1,7 +1,7 @@
 ---
 title: "Mike Bowes"
 description: "Mike Bowes is a Mid-career carbon dioxide removal researcher at UK Centre for Ecology & Hydrology in GB. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.201542
+date: 2026-04-02T07:03:26.682203
 url: "/cdr-researcher-census/researchers/mike-bowes-a5023767/"
 layout: "researcher"
 hiddenInHomeList: true

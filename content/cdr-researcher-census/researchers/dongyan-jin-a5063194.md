@@ -1,7 +1,7 @@
 ---
 title: "Dongyan Jin"
 description: "Dongyan Jin is a Mid-career Soil Carbon researcher at Shanxi Agricultural University in CN. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.786807
+date: 2026-04-02T07:03:24.591272
 url: "/cdr-researcher-census/researchers/dongyan-jin-a5063194/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Lara Siebert Silva"
 description: "Lara Siebert Silva is an Early-career carbon dioxide removal researcher at Instituto Nacional de Pesquisas da Amazônia in BR. With 3 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.599103
+date: 2026-04-02T07:03:25.803670
 url: "/cdr-researcher-census/researchers/lara-siebert-silva-a5001620/"
 layout: "researcher"
 hiddenInHomeList: true

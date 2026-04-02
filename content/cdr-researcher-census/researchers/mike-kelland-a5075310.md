@@ -1,7 +1,7 @@
 ---
 title: "Mike Kelland"
 description: "Mike Kelland is a Mid-career General CDR researcher at Weatherford (United Kingdom) in GB. With 21 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.549330
+date: 2026-04-02T07:03:24.247209
 url: "/cdr-researcher-census/researchers/mike-kelland-a5075310/"
 layout: "researcher"
 hiddenInHomeList: true

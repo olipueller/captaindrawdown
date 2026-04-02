@@ -1,7 +1,7 @@
 ---
 title: "Adolf Acheampong"
 description: "Adolf Acheampong is a Mid-career Biochar researcher at Chinese Academy of Sciences in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.497736
+date: 2026-04-02T07:03:25.656712
 url: "/cdr-researcher-census/researchers/adolf-acheampong-a5067952/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Paul Schweng"
 description: "Paul Schweng is a Mid-career carbon dioxide removal researcher at University of Vienna in AT. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.169692
+date: 2026-04-02T07:03:26.620148
 url: "/cdr-researcher-census/researchers/paul-schweng-a5048209/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Caiyan Lei"
 description: "Caiyan Lei is a Senior carbon dioxide removal researcher at Institute of Plant Protection in CN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.659496
+date: 2026-04-02T07:03:24.407093
 url: "/cdr-researcher-census/researchers/caiyan-lei-a5064569/"
 layout: "researcher"
 hiddenInHomeList: true

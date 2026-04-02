@@ -1,7 +1,7 @@
 ---
 title: "Lorenzo Corsini"
 description: "Lorenzo Corsini is a Senior Ocean CDR researcher at BioNTech R&D (Austria) GmbH in AT. With 43 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.369681
+date: 2026-04-02T07:03:24.004371
 url: "/cdr-researcher-census/researchers/lorenzo-corsini-a5076707/"
 layout: "researcher"
 hiddenInHomeList: true

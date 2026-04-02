@@ -1,7 +1,7 @@
 ---
 title: "Urs Hofmann Elizondo"
 description: "Urs Hofmann Elizondo is a Mid-career General CDR researcher at ETH Zurich in CH. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.289193
+date: 2026-04-02T07:03:25.326334
 url: "/cdr-researcher-census/researchers/urs-hofmann-elizondo-a5090356/"
 layout: "researcher"
 hiddenInHomeList: true

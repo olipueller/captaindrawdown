@@ -1,7 +1,7 @@
 ---
 title: "Bala Singavarapu"
 description: "Bala Singavarapu is a Mid-career Soil Carbon researcher at German Centre for Integrative Biodiversity Research in DE. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.005866
+date: 2026-04-02T07:03:24.918755
 url: "/cdr-researcher-census/researchers/bala-singavarapu-a5048009/"
 layout: "researcher"
 hiddenInHomeList: true

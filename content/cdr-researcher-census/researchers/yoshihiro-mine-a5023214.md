@@ -1,7 +1,7 @@
 ---
 title: "Yoshihiro Mine"
 description: "Yoshihiro Mine is a Senior carbon dioxide removal researcher at Kawasaki Heavy Industries (Japan) in JP. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.254952
+date: 2026-04-02T07:03:25.280419
 url: "/cdr-researcher-census/researchers/yoshihiro-mine-a5023214/"
 layout: "researcher"
 hiddenInHomeList: true

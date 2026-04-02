@@ -1,7 +1,7 @@
 ---
 title: "Alison J. Eagle"
 description: "Alison J. Eagle is a Senior General CDR researcher at Environmental Defense Fund in US. With 66 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.248456
+date: 2026-04-02T07:03:23.837787
 url: "/cdr-researcher-census/researchers/alison-j-eagle-a5039755/"
 layout: "researcher"
 hiddenInHomeList: true

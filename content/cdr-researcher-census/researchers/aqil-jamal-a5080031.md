@@ -1,7 +1,7 @@
 ---
 title: "Aqil Jamal"
 description: "Aqil Jamal is a Senior DAC researcher at Saudi Aramco (Saudi Arabia) in SA. With 104 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.157588
+date: 2026-04-02T07:03:23.717499
 url: "/cdr-researcher-census/researchers/aqil-jamal-a5080031/"
 layout: "researcher"
 hiddenInHomeList: true

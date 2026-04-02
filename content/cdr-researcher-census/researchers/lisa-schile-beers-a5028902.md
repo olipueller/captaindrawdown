@@ -1,7 +1,7 @@
 ---
 title: "Lisa Schile-Beers"
 description: "Lisa Schile-Beers is a Mid-career Soil Carbon researcher at Smithsonian Environmental Research Center in US. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.385959
+date: 2026-04-02T07:03:24.023310
 url: "/cdr-researcher-census/researchers/lisa-schile-beers-a5028902/"
 layout: "researcher"
 hiddenInHomeList: true

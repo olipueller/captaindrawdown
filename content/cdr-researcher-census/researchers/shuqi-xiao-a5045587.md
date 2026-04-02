@@ -1,7 +1,7 @@
 ---
 title: "Shuqi Xiao"
 description: "Shuqi Xiao is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 11 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.752491
+date: 2026-04-02T07:03:24.542757
 url: "/cdr-researcher-census/researchers/shuqi-xiao-a5045587/"
 layout: "researcher"
 hiddenInHomeList: true

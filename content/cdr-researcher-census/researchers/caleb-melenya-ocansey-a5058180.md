@@ -1,7 +1,7 @@
 ---
 title: "Caleb Melenya Ocansey"
 description: "Caleb Melenya Ocansey is a Mid-career Soil Carbon researcher at Council for Scientific and Industrial Research in GH. With 27 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.131854
+date: 2026-04-02T07:03:26.552954
 url: "/cdr-researcher-census/researchers/caleb-melenya-ocansey-a5058180/"
 layout: "researcher"
 hiddenInHomeList: true

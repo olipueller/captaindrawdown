@@ -1,7 +1,7 @@
 ---
 title: "Xiaozeng Han"
 description: "Xiaozeng Han is a Senior Soil Carbon researcher at Kyrgyz State Technical University in KG. With 95 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.189315
+date: 2026-04-02T07:03:23.764299
 url: "/cdr-researcher-census/researchers/xiaozeng-han-a5104005/"
 layout: "researcher"
 hiddenInHomeList: true

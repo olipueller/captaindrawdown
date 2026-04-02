@@ -1,7 +1,7 @@
 ---
 title: "Sylvie Kříženecká"
 description: "Sylvie Kříženecká is a Senior Soil Carbon researcher at Jan Evangelista Purkyně University in Ústí nad Labem in CZ. With 34 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.162869
+date: 2026-04-02T07:03:25.146324
 url: "/cdr-researcher-census/researchers/sylvie-krizenecka-a5059512/"
 layout: "researcher"
 hiddenInHomeList: true

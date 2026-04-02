@@ -1,7 +1,7 @@
 ---
 title: "Corinne D. Scown"
 description: "Corinne D. Scown is an Eminent General CDR researcher at Lawrence Berkeley National Laboratory in US. With 168 publications and an h-index of 43, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.124985
+date: 2026-04-02T07:03:23.676570
 url: "/cdr-researcher-census/researchers/corinne-d-scown-a5018132/"
 layout: "researcher"
 hiddenInHomeList: true

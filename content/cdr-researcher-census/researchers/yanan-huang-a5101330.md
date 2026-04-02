@@ -1,7 +1,7 @@
 ---
 title: "Yanan Huang"
 description: "Yanan Huang is a Mid-career Soil Carbon researcher at Sun Yat-sen University in CN. With 30 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.695633
+date: 2026-04-02T07:03:24.459492
 url: "/cdr-researcher-census/researchers/yanan-huang-a5101330/"
 layout: "researcher"
 hiddenInHomeList: true

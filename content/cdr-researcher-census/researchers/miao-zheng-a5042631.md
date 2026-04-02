@@ -1,7 +1,7 @@
 ---
 title: "Miao Zheng"
 description: "Miao Zheng is a Mid-career Soil Carbon researcher. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.642027
+date: 2026-04-02T07:03:25.869211
 url: "/cdr-researcher-census/researchers/miao-zheng-a5042631/"
 layout: "researcher"
 hiddenInHomeList: true

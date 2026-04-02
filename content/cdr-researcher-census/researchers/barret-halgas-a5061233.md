@@ -1,7 +1,7 @@
 ---
 title: "Barret Halgas"
 description: "Barret Halgas is a Mid-career carbon dioxide removal researcher at Urology San Antonio in US. With 17 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.361972
+date: 2026-04-02T07:03:26.913093
 url: "/cdr-researcher-census/researchers/barret-halgas-a5061233/"
 layout: "researcher"
 hiddenInHomeList: true

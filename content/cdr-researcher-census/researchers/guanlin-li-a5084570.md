@@ -1,7 +1,7 @@
 ---
 title: "Guanlin Li"
 description: "Guanlin Li is a Mid-career Soil Carbon researcher at Changchun University of Science and Technology in CN. With 30 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.988143
+date: 2026-04-02T07:03:24.890998
 url: "/cdr-researcher-census/researchers/guanlin-li-a5084570/"
 layout: "researcher"
 hiddenInHomeList: true

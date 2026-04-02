@@ -1,7 +1,7 @@
 ---
 title: "Shujian Yang"
 description: "Shujian Yang is a Mid-career General CDR researcher at Jilin University in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.536014
+date: 2026-04-02T07:03:25.710906
 url: "/cdr-researcher-census/researchers/shujian-yang-a5085287/"
 layout: "researcher"
 hiddenInHomeList: true

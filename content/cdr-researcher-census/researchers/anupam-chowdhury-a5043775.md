@@ -1,7 +1,7 @@
 ---
 title: "Anupam Chowdhury"
 description: "Anupam Chowdhury is a Mid-career Enhanced Weathering researcher at Jadavpur University in IN. With 46 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.119628
+date: 2026-04-02T07:03:25.083771
 url: "/cdr-researcher-census/researchers/anupam-chowdhury-a5043775/"
 layout: "researcher"
 hiddenInHomeList: true

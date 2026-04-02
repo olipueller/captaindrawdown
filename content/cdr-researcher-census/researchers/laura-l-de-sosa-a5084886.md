@@ -1,7 +1,7 @@
 ---
 title: "Laura L. de Sosa"
 description: "Laura L. de Sosa is a Mid-career Soil Carbon researcher at Centre National de la Recherche Scientifique in FR. With 45 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.768783
+date: 2026-04-02T07:03:24.567402
 url: "/cdr-researcher-census/researchers/laura-l-de-sosa-a5084886/"
 layout: "researcher"
 hiddenInHomeList: true

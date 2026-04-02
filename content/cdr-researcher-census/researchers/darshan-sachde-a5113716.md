@@ -1,7 +1,7 @@
 ---
 title: "Darshan Sachde"
 description: "Darshan Sachde is a Mid-career DAC researcher at Trimeric (United States) in US. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.573938
+date: 2026-04-02T07:03:24.282514
 url: "/cdr-researcher-census/researchers/darshan-sachde-a5113716/"
 layout: "researcher"
 hiddenInHomeList: true

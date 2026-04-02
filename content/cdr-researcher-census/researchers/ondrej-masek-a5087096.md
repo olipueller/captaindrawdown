@@ -1,7 +1,7 @@
 ---
 title: "Ondřej Mašek"
 description: "Ondřej Mašek is an Eminent Biochar researcher at University of Edinburgh in GB. With 251 publications and an h-index of 61, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.087292
+date: 2026-04-02T07:03:23.631918
 url: "/cdr-researcher-census/researchers/ondrej-masek-a5087096/"
 layout: "researcher"
 hiddenInHomeList: true

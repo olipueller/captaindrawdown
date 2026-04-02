@@ -1,7 +1,7 @@
 ---
 title: "Jingfan Zhang"
 description: "Jingfan Zhang is a Mid-career Soil Carbon researcher at South China Botanical Garden in CN. With 52 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.612214
+date: 2026-04-02T07:03:24.337579
 url: "/cdr-researcher-census/researchers/jingfan-zhang-a5101565/"
 layout: "researcher"
 hiddenInHomeList: true

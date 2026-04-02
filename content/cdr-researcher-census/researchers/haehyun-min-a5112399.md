@@ -1,7 +1,7 @@
 ---
 title: "Haehyun Min"
 description: "Haehyun Min is a Mid-career carbon dioxide removal researcher at State University of New York in US. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.869529
+date: 2026-04-02T07:03:26.171855
 url: "/cdr-researcher-census/researchers/haehyun-min-a5112399/"
 layout: "researcher"
 hiddenInHomeList: true

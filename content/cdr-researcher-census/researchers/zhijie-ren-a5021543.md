@@ -1,7 +1,7 @@
 ---
 title: "Zhijie Ren"
 description: "Zhijie Ren is a Senior Soil Carbon researcher at 西北农林科技大学 in CN. With 35 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.340877
+date: 2026-04-02T07:03:23.964444
 url: "/cdr-researcher-census/researchers/zhijie-ren-a5021543/"
 layout: "researcher"
 hiddenInHomeList: true

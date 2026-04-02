@@ -1,7 +1,7 @@
 ---
 title: "Sohrab Haghighi Mood"
 description: "Sohrab Haghighi Mood is a Mid-career Biochar researcher at Washington State University in US. With 29 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.264789
+date: 2026-04-02T07:03:23.860541
 url: "/cdr-researcher-census/researchers/sohrab-haghighi-mood-a5081843/"
 layout: "researcher"
 hiddenInHomeList: true

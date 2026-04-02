@@ -1,7 +1,7 @@
 ---
 title: "Guoqiang Rong"
 description: "Guoqiang Rong is a Mid-career Biochar researcher at China Construction Eighth Engineering Division (China) in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.792108
+date: 2026-04-02T07:03:24.598926
 url: "/cdr-researcher-census/researchers/guoqiang-rong-a5036642/"
 layout: "researcher"
 hiddenInHomeList: true

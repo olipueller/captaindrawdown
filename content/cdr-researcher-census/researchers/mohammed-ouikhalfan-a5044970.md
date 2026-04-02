@@ -1,7 +1,7 @@
 ---
 title: "Mohammed Ouikhalfan"
 description: "Mohammed Ouikhalfan is a Mid-career DAC researcher at Université Mohammed VI Polytechnique in MA. With 16 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.633791
+date: 2026-04-02T07:03:24.366934
 url: "/cdr-researcher-census/researchers/mohammed-ouikhalfan-a5044970/"
 layout: "researcher"
 hiddenInHomeList: true

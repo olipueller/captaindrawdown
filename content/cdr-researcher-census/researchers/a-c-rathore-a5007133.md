@@ -1,7 +1,7 @@
 ---
 title: "A. C. Rathore"
 description: "A. C. Rathore is a Mid-career Soil Carbon researcher at Indian Institute of Technology Kharagpur in IN. With 60 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.992319
+date: 2026-04-02T07:03:24.897468
 url: "/cdr-researcher-census/researchers/a-c-rathore-a5007133/"
 layout: "researcher"
 hiddenInHomeList: true

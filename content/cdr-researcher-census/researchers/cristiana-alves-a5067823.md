@@ -1,7 +1,7 @@
 ---
 title: "Cristiana Alves"
 description: "Cristiana Alves is a Senior Soil Carbon researcher at Universidade do Estado de Santa Catarina in BR. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.752685
+date: 2026-04-02T07:03:24.543120
 url: "/cdr-researcher-census/researchers/cristiana-alves-a5067823/"
 layout: "researcher"
 hiddenInHomeList: true

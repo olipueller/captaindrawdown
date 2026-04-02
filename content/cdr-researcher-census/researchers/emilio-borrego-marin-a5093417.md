@@ -1,7 +1,7 @@
 ---
 title: "Emilio Borrego-Marin"
 description: "Emilio Borrego-Marin is an Early-career DAC researcher at Universidad de Granada in ES. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.553317
+date: 2026-04-02T07:03:25.735748
 url: "/cdr-researcher-census/researchers/emilio-borrego-marin-a5093417/"
 layout: "researcher"
 hiddenInHomeList: true

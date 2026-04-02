@@ -1,7 +1,7 @@
 ---
 title: "Cristina Aracil"
 description: "Cristina Aracil is a Mid-career BECCS researcher at Hospital Universitario Quirónsalud Madrid in ES. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.700279
+date: 2026-04-02T07:03:25.959879
 url: "/cdr-researcher-census/researchers/cristina-aracil-a5058250/"
 layout: "researcher"
 hiddenInHomeList: true

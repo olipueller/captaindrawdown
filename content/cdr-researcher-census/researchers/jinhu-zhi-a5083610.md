@@ -1,7 +1,7 @@
 ---
 title: "Jinhu Zhi"
 description: "Jinhu Zhi is a Mid-career Soil Carbon researcher at Xinjiang Production and Construction Corps in CN. With 30 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.672460
+date: 2026-04-02T07:03:25.917860
 url: "/cdr-researcher-census/researchers/jinhu-zhi-a5083610/"
 layout: "researcher"
 hiddenInHomeList: true

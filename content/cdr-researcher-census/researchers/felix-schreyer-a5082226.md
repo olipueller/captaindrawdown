@@ -1,7 +1,7 @@
 ---
 title: "Felix Schreyer"
 description: "Felix Schreyer is a Mid-career General CDR researcher at Potsdam Institute for Climate Impact Research in DE. With 29 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.446634
+date: 2026-04-02T07:03:24.099594
 url: "/cdr-researcher-census/researchers/felix-schreyer-a5082226/"
 layout: "researcher"
 hiddenInHomeList: true

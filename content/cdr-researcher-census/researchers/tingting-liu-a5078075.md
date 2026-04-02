@@ -1,7 +1,7 @@
 ---
 title: "Tingting Liu"
 description: "Tingting Liu is a Mid-career carbon dioxide removal researcher at Oak Ridge National Laboratory in US. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.785252
+date: 2026-04-02T07:03:26.050749
 url: "/cdr-researcher-census/researchers/tingting-liu-a5078075/"
 layout: "researcher"
 hiddenInHomeList: true

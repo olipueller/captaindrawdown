@@ -1,7 +1,7 @@
 ---
 title: "Erika Callagon La Plante"
 description: "Erika Callagon La Plante is a Mid-career Ocean CDR researcher at University of California, Davis in US. With 63 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.441302
+date: 2026-04-02T07:03:24.092199
 url: "/cdr-researcher-census/researchers/erika-callagon-la-plante-a5071999/"
 layout: "researcher"
 hiddenInHomeList: true

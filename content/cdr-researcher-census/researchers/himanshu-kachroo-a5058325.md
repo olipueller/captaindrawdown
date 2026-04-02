@@ -1,7 +1,7 @@
 ---
 title: "Himanshu Kachroo"
 description: "Himanshu Kachroo is an Early-career Biochar researcher at Indian Institute of Technology Delhi in IN. With 11 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.387449
+date: 2026-04-02T07:03:26.949322
 url: "/cdr-researcher-census/researchers/himanshu-kachroo-a5058325/"
 layout: "researcher"
 hiddenInHomeList: true

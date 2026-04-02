@@ -1,7 +1,7 @@
 ---
 title: "Alex L. Riley"
 description: "Alex L. Riley is a Senior Enhanced Weathering researcher at University of Hull in GB. With 33 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.029589
+date: 2026-04-02T07:03:24.950681
 url: "/cdr-researcher-census/researchers/alex-l-riley-a5068689/"
 layout: "researcher"
 hiddenInHomeList: true

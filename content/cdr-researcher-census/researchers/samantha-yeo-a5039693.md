@@ -1,7 +1,7 @@
 ---
 title: "Samantha Yeo"
 description: "Samantha Yeo is a Mid-career General CDR researcher at The Nature Conservancy in US. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.547838
+date: 2026-04-02T07:03:24.245242
 url: "/cdr-researcher-census/researchers/samantha-yeo-a5039693/"
 layout: "researcher"
 hiddenInHomeList: true

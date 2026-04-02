@@ -1,7 +1,7 @@
 ---
 title: "Yuanjun Xing"
 description: "Yuanjun Xing is a Mid-career carbon dioxide removal researcher at Guangxi University in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.314970
+date: 2026-04-02T07:03:25.362167
 url: "/cdr-researcher-census/researchers/yuanjun-xing-a5087120/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yunan Cheng"
 description: "Yunan Cheng is a Senior Biochar researcher at Sichuan Normal University in CN. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.885748
+date: 2026-04-02T07:03:24.727739
 url: "/cdr-researcher-census/researchers/yunan-cheng-a5022422/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Hui Henry Teng"
 description: "Hui Henry Teng is a Senior DAC researcher at Tianjin University in CN. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.350212
+date: 2026-04-02T07:03:25.411373
 url: "/cdr-researcher-census/researchers/hui-henry-teng-a5103387/"
 layout: "researcher"
 hiddenInHomeList: true

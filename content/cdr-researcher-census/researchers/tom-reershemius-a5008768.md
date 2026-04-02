@@ -1,7 +1,7 @@
 ---
 title: "Tom Reershemius"
 description: "Tom Reershemius is a Mid-career Enhanced Weathering researcher at Newcastle University in GB. With 34 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.018798
+date: 2026-04-02T07:03:24.935072
 url: "/cdr-researcher-census/researchers/tom-reershemius-a5008768/"
 layout: "researcher"
 hiddenInHomeList: true

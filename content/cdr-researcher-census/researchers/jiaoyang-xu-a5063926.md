@@ -1,7 +1,7 @@
 ---
 title: "Jiaoyang Xu"
 description: "Jiaoyang Xu is a Mid-career Soil Carbon researcher at Heilongjiang University of Chinese Medicine in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.318017
+date: 2026-04-02T07:03:26.853332
 url: "/cdr-researcher-census/researchers/jiaoyang-xu-a5063926/"
 layout: "researcher"
 hiddenInHomeList: true

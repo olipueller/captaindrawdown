@@ -1,7 +1,7 @@
 ---
 title: "Lyla L. Taylor"
 description: "Lyla L. Taylor is a Senior Enhanced Weathering researcher at University of Sheffield in GB. With 58 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.188173
+date: 2026-04-02T07:03:23.762643
 url: "/cdr-researcher-census/researchers/lyla-l-taylor-a5001741/"
 layout: "researcher"
 hiddenInHomeList: true

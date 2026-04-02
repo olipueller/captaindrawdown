@@ -1,7 +1,7 @@
 ---
 title: "Jiaying Wu"
 description: "Jiaying Wu is a Senior carbon dioxide removal researcher at Shanghai Jiao Tong University in CN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.610212
+date: 2026-04-02T07:03:25.820740
 url: "/cdr-researcher-census/researchers/jiaying-wu-a5108584/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "V. Indira"
 description: "V. Indira is an Early-career carbon dioxide removal researcher at Kerala Forest Research Institute in IN. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.424252
+date: 2026-04-02T07:03:27.002710
 url: "/cdr-researcher-census/researchers/v-indira-a5078268/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Tom Terlouw"
 description: "Tom Terlouw is a Mid-career General CDR researcher at PSI in CH. With 30 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.231469
+date: 2026-04-02T07:03:23.815459
 url: "/cdr-researcher-census/researchers/tom-terlouw-a5036170/"
 layout: "researcher"
 hiddenInHomeList: true

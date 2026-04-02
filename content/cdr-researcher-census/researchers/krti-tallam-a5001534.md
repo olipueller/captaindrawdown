@@ -1,7 +1,7 @@
 ---
 title: "Krti Tallam"
 description: "Krti Tallam is a Mid-career Ocean CDR researcher at American Sentinel University in US. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.577787
+date: 2026-04-02T07:03:25.771678
 url: "/cdr-researcher-census/researchers/krti-tallam-a5001534/"
 layout: "researcher"
 hiddenInHomeList: true

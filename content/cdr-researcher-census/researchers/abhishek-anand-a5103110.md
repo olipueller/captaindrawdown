@@ -1,7 +1,7 @@
 ---
 title: "Abhishek Anand"
 description: "Abhishek Anand is a Mid-career carbon dioxide removal researcher at Eunice Kennedy Shriver National Institute of Child Health and Human Development in US. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.331124
+date: 2026-04-02T07:03:26.869556
 url: "/cdr-researcher-census/researchers/abhishek-anand-a5103110/"
 layout: "researcher"
 hiddenInHomeList: true

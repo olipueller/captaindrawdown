@@ -1,7 +1,7 @@
 ---
 title: "David Danaci"
 description: "David Danaci is a Mid-career carbon dioxide removal researcher at Imperial College London in GB. With 51 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.408950
+date: 2026-04-02T07:03:24.048777
 url: "/cdr-researcher-census/researchers/david-danaci-a5012589/"
 layout: "researcher"
 hiddenInHomeList: true

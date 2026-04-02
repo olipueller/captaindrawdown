@@ -1,7 +1,7 @@
 ---
 title: "Zhaolei Li"
 description: "Zhaolei Li is a Senior Soil Carbon researcher at Southwest University in CN. With 110 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.145653
+date: 2026-04-02T07:03:23.702099
 url: "/cdr-researcher-census/researchers/zhaolei-li-a5005341/"
 layout: "researcher"
 hiddenInHomeList: true

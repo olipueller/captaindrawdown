@@ -1,7 +1,7 @@
 ---
 title: "Huirong Jing"
 description: "Huirong Jing is a Senior Soil Carbon researcher at University of Melbourne in AU. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.039512
+date: 2026-04-02T07:03:24.964643
 url: "/cdr-researcher-census/researchers/huirong-jing-a5102809/"
 layout: "researcher"
 hiddenInHomeList: true

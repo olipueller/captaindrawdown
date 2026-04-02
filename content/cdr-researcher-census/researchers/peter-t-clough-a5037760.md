@@ -1,7 +1,7 @@
 ---
 title: "Peter T. Clough"
 description: "Peter T. Clough is a Senior General CDR researcher at Cranfield University in GB. With 73 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.154183
+date: 2026-04-02T07:03:23.713728
 url: "/cdr-researcher-census/researchers/peter-t-clough-a5037760/"
 layout: "researcher"
 hiddenInHomeList: true

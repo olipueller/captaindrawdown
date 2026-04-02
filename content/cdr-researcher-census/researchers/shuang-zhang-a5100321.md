@@ -1,7 +1,7 @@
 ---
 title: "Shuang Zhang"
 description: "Shuang Zhang is a Senior General CDR researcher at Texas A&M University in US. With 294 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.155036
+date: 2026-04-02T07:03:23.714649
 url: "/cdr-researcher-census/researchers/shuang-zhang-a5100321/"
 layout: "researcher"
 hiddenInHomeList: true

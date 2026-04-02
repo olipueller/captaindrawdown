@@ -1,7 +1,7 @@
 ---
 title: "Gustavo Caballero-Flores"
 description: "Gustavo Caballero-Flores is a Mid-career carbon dioxide removal researcher at University of Wisconsin–Madison in US. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.548544
+date: 2026-04-02T07:03:24.246190
 url: "/cdr-researcher-census/researchers/gustavo-caballero-flores-a5013639/"
 layout: "researcher"
 hiddenInHomeList: true

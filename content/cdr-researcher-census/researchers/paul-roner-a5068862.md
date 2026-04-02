@@ -1,7 +1,7 @@
 ---
 title: "Paul Rößner"
 description: "Paul Rößner is a Mid-career DAC researcher at University of Stuttgart in DE. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.307347
+date: 2026-04-02T07:03:26.839599
 url: "/cdr-researcher-census/researchers/paul-roner-a5068862/"
 layout: "researcher"
 hiddenInHomeList: true

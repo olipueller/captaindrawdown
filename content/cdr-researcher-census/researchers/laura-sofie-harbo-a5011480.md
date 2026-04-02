@@ -1,7 +1,7 @@
 ---
 title: "Laura Sofie Harbo"
 description: "Laura Sofie Harbo is a Mid-career Soil Carbon researcher at Aarhus University in DK. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.071857
+date: 2026-04-02T07:03:26.467387
 url: "/cdr-researcher-census/researchers/laura-sofie-harbo-a5011480/"
 layout: "researcher"
 hiddenInHomeList: true

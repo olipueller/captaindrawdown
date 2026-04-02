@@ -1,7 +1,7 @@
 ---
 title: "Mohamed Hosny"
 description: "Mohamed Hosny is a Senior Biochar researcher at Alexandria University Faculty of Science in EG. With 40 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.176580
+date: 2026-04-02T07:03:23.743895
 url: "/cdr-researcher-census/researchers/mohamed-hosny-a5037623/"
 layout: "researcher"
 hiddenInHomeList: true

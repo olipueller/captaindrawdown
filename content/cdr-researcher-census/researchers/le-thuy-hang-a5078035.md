@@ -1,7 +1,7 @@
 ---
 title: "Le Thuy Hang"
 description: "Le Thuy Hang is a Mid-career General CDR researcher at Hung Yen University of Technology and Education in VN. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.455797
+date: 2026-04-02T07:03:25.569753
 url: "/cdr-researcher-census/researchers/le-thuy-hang-a5078035/"
 layout: "researcher"
 hiddenInHomeList: true

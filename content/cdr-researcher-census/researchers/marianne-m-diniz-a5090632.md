@@ -1,7 +1,7 @@
 ---
 title: "Marianne M. Diniz"
 description: "Marianne M. Diniz is a Mid-career carbon dioxide removal researcher at Pontifícia Universidade Católica do Rio de Janeiro in BR. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.197749
+date: 2026-04-02T07:03:26.676441
 url: "/cdr-researcher-census/researchers/marianne-m-diniz-a5090632/"
 layout: "researcher"
 hiddenInHomeList: true

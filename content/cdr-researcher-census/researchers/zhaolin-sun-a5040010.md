@@ -1,7 +1,7 @@
 ---
 title: "Zhaolin Sun"
 description: "Zhaolin Sun is a Mid-career Soil Carbon researcher at Anhui Agricultural University in CN. With 24 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.753353
+date: 2026-04-02T07:03:24.544253
 url: "/cdr-researcher-census/researchers/zhaolin-sun-a5040010/"
 layout: "researcher"
 hiddenInHomeList: true

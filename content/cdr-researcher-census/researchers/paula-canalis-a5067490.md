@@ -1,7 +1,7 @@
 ---
 title: "Paula Canalís"
 description: "Paula Canalís is a Senior BECCS researcher at Universidad de Zaragoza in ES. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.427186
+date: 2026-04-02T07:03:24.073494
 url: "/cdr-researcher-census/researchers/paula-canalis-a5067490/"
 layout: "researcher"
 hiddenInHomeList: true

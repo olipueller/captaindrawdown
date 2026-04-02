@@ -1,7 +1,7 @@
 ---
 title: "Brendan P. Harrison"
 description: "Brendan P. Harrison is a Mid-career General CDR researcher at Lawrence Berkeley National Laboratory in US. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.784683
+date: 2026-04-02T07:03:26.049812
 url: "/cdr-researcher-census/researchers/brendan-p-harrison-a5073085/"
 layout: "researcher"
 hiddenInHomeList: true

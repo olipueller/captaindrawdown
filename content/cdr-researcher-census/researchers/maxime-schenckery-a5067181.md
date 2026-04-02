@@ -1,7 +1,7 @@
 ---
 title: "Maxime Schenckery"
 description: "Maxime Schenckery is a Senior General CDR researcher. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.134395
+date: 2026-04-02T07:03:26.557668
 url: "/cdr-researcher-census/researchers/maxime-schenckery-a5067181/"
 layout: "researcher"
 hiddenInHomeList: true

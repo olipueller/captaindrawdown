@@ -1,7 +1,7 @@
 ---
 title: "Xingzhao Huang"
 description: "Xingzhao Huang is a Senior Soil Carbon researcher at Anhui Agricultural University in CN. With 39 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.856618
+date: 2026-04-02T07:03:24.684681
 url: "/cdr-researcher-census/researchers/xingzhao-huang-a5005517/"
 layout: "researcher"
 hiddenInHomeList: true

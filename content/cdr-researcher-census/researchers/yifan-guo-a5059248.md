@@ -1,7 +1,7 @@
 ---
 title: "Yifan Guo"
 description: "Yifan Guo is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 31 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.176170
+date: 2026-04-02T07:03:25.164888
 url: "/cdr-researcher-census/researchers/yifan-guo-a5059248/"
 layout: "researcher"
 hiddenInHomeList: true

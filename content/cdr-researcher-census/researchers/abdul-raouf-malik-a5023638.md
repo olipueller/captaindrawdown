@@ -1,7 +1,7 @@
 ---
 title: "Abdul Raouf Malik"
 description: "Abdul Raouf Malik is a Mid-career Soil Carbon researcher at Sher-e-Kashmir University of Agricultural Sciences and Technology of Kashmir in IN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.715810
+date: 2026-04-02T07:03:24.488026
 url: "/cdr-researcher-census/researchers/abdul-raouf-malik-a5023638/"
 layout: "researcher"
 hiddenInHomeList: true

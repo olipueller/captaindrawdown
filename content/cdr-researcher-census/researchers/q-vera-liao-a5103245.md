@@ -1,7 +1,7 @@
 ---
 title: "Q. Vera Liao"
 description: "Q. Vera Liao is a Mid-career Soil Carbon researcher at Sichuan University in CN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.835711
+date: 2026-04-02T07:03:24.654662
 url: "/cdr-researcher-census/researchers/q-vera-liao-a5103245/"
 layout: "researcher"
 hiddenInHomeList: true

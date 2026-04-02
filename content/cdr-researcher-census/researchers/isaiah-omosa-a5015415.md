@@ -1,7 +1,7 @@
 ---
 title: "Isaiah Omosa"
 description: "Isaiah Omosa is a Senior carbon dioxide removal researcher at Kenyatta University in KE. With 17 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.465482
+date: 2026-04-02T07:03:25.586273
 url: "/cdr-researcher-census/researchers/isaiah-omosa-a5015415/"
 layout: "researcher"
 hiddenInHomeList: true

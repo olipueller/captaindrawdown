@@ -1,7 +1,7 @@
 ---
 title: "Nathaniel C. Lawrence"
 description: "Nathaniel C. Lawrence is a Mid-career carbon dioxide removal researcher at Iowa State University in US. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.755391
+date: 2026-04-02T07:03:26.008149
 url: "/cdr-researcher-census/researchers/nathaniel-c-lawrence-a5089283/"
 layout: "researcher"
 hiddenInHomeList: true

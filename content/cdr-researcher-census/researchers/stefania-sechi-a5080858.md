@@ -1,7 +1,7 @@
 ---
 title: "Stefania Sechi"
 description: "Stefania Sechi is a Senior General CDR researcher at University of Sassari in IT. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.704110
+date: 2026-04-02T07:03:25.966302
 url: "/cdr-researcher-census/researchers/stefania-sechi-a5080858/"
 layout: "researcher"
 hiddenInHomeList: true

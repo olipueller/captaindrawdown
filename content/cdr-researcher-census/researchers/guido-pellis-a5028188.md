@@ -1,7 +1,7 @@
 ---
 title: "Guido Pellis"
 description: "Guido Pellis is a Mid-career General CDR researcher at Legambiente in IT. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.593488
+date: 2026-04-02T07:03:25.795657
 url: "/cdr-researcher-census/researchers/guido-pellis-a5028188/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jianda Guo"
 description: "Jianda Guo is a Mid-career Biochar researcher at China University of Mining and Technology in CN. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.153177
+date: 2026-04-02T07:03:26.591444
 url: "/cdr-researcher-census/researchers/jianda-guo-a5112727/"
 layout: "researcher"
 hiddenInHomeList: true

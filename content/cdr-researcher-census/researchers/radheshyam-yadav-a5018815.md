@@ -1,7 +1,7 @@
 ---
 title: "Radheshyam Yadav"
 description: "Radheshyam Yadav is a Mid-career Biochar researcher at University of Georgia in US. With 23 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.350024
+date: 2026-04-02T07:03:23.976319
 url: "/cdr-researcher-census/researchers/radheshyam-yadav-a5018815/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Stefano Caserini"
 description: "Stefano Caserini is a Senior Ocean CDR researcher at University of Parma in IT. With 125 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.299043
+date: 2026-04-02T07:03:23.909015
 url: "/cdr-researcher-census/researchers/stefano-caserini-a5070147/"
 layout: "researcher"
 hiddenInHomeList: true

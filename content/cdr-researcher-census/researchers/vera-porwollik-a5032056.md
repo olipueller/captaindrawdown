@@ -1,7 +1,7 @@
 ---
 title: "Vera Porwollik"
 description: "Vera Porwollik is a Mid-career Soil Carbon researcher at Humboldt-Universität zu Berlin in DE. With 18 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.604762
+date: 2026-04-02T07:03:25.811898
 url: "/cdr-researcher-census/researchers/vera-porwollik-a5032056/"
 layout: "researcher"
 hiddenInHomeList: true

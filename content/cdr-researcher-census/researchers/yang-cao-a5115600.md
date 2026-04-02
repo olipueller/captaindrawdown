@@ -1,7 +1,7 @@
 ---
 title: "Yang Cao"
 description: "Yang Cao is a Senior Soil Carbon researcher at Guizhou University in CN. With 37 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.566416
+date: 2026-04-02T07:03:24.271589
 url: "/cdr-researcher-census/researchers/yang-cao-a5115600/"
 layout: "researcher"
 hiddenInHomeList: true

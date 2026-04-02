@@ -1,7 +1,7 @@
 ---
 title: "Nigar Sultana Pinky"
 description: "Nigar Sultana Pinky is an Early-career Biochar researcher at Bangladesh Council of Scientific and Industrial Research in BD. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.796953
+date: 2026-04-02T07:03:26.068223
 url: "/cdr-researcher-census/researchers/nigar-sultana-pinky-a5091987/"
 layout: "researcher"
 hiddenInHomeList: true

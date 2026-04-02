@@ -1,7 +1,7 @@
 ---
 title: "Rafael M. Santos"
 description: "Rafael M. Santos is a Senior Enhanced Weathering researcher at University of Guelph in CA. With 246 publications and an h-index of 37, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.129778
+date: 2026-04-02T07:03:23.682584
 url: "/cdr-researcher-census/researchers/rafael-m-santos-a5100699/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Mallika Nocco"
 description: "Mallika Nocco is a Mid-career Enhanced Weathering researcher at University of Wisconsin–Madison in US. With 54 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.490379
+date: 2026-04-02T07:03:24.160760
 url: "/cdr-researcher-census/researchers/mallika-nocco-a5035754/"
 layout: "researcher"
 hiddenInHomeList: true

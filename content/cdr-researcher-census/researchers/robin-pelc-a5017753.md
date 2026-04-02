@@ -1,7 +1,7 @@
 ---
 title: "Robin Pelc"
 description: "Robin Pelc is a Senior General CDR researcher at California State University, Monterey Bay in US. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.414218
+date: 2026-04-02T07:03:24.055805
 url: "/cdr-researcher-census/researchers/robin-pelc-a5017753/"
 layout: "researcher"
 hiddenInHomeList: true

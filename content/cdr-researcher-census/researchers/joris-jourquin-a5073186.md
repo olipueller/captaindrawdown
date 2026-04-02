@@ -1,7 +1,7 @@
 ---
 title: "Joris Jourquin"
 description: "Joris Jourquin is a Mid-career Soil Carbon researcher at Vlaams Instituut voor Biotechnologie in BE. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.896811
+date: 2026-04-02T07:03:24.745265
 url: "/cdr-researcher-census/researchers/joris-jourquin-a5073186/"
 layout: "researcher"
 hiddenInHomeList: true

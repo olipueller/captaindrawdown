@@ -1,7 +1,7 @@
 ---
 title: "Holly Jean Buck"
 description: "Holly Jean Buck is a Senior General CDR researcher. With 65 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.267881
+date: 2026-04-02T07:03:23.865801
 url: "/cdr-researcher-census/researchers/holly-jean-buck-a5039348/"
 layout: "researcher"
 hiddenInHomeList: true

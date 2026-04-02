@@ -1,7 +1,7 @@
 ---
 title: "Yuefeng Hao"
 description: "Yuefeng Hao is a Mid-career Soil Carbon researcher at Oak Ridge National Laboratory in US. With 13 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.273715
+date: 2026-04-02T07:03:25.304036
 url: "/cdr-researcher-census/researchers/yuefeng-hao-a5052236/"
 layout: "researcher"
 hiddenInHomeList: true

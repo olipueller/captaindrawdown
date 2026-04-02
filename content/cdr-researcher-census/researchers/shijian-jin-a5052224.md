@@ -1,7 +1,7 @@
 ---
 title: "Shijian Jin"
 description: "Shijian Jin is a Mid-career General CDR researcher at Google LLC in US. With 35 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.289728
+date: 2026-04-02T07:03:23.896256
 url: "/cdr-researcher-census/researchers/shijian-jin-a5052224/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Rolf Gaël Mabicka Obame"
 description: "Rolf Gaël Mabicka Obame is a Senior Soil Carbon researcher at Laboratoire de Biotechnologie de l'Environnement in FR. With 26 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.431034
+date: 2026-04-02T07:03:27.013044
 url: "/cdr-researcher-census/researchers/rolf-gael-mabicka-obame-a5037587/"
 layout: "researcher"
 hiddenInHomeList: true

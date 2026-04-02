@@ -1,7 +1,7 @@
 ---
 title: "Jacob V. Spertus"
 description: "Jacob V. Spertus is a Mid-career Soil Carbon researcher at University of California, Berkeley in US. With 30 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.546969
+date: 2026-04-02T07:03:25.726812
 url: "/cdr-researcher-census/researchers/jacob-v-spertus-a5038708/"
 layout: "researcher"
 hiddenInHomeList: true

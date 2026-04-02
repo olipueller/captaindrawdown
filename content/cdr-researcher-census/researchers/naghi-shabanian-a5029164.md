@@ -1,7 +1,7 @@
 ---
 title: "Naghi Shabanian"
 description: "Naghi Shabanian is a Senior Soil Carbon researcher at University of Kurdistan in IR. With 54 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.672795
+date: 2026-04-02T07:03:24.429748
 url: "/cdr-researcher-census/researchers/naghi-shabanian-a5029164/"
 layout: "researcher"
 hiddenInHomeList: true

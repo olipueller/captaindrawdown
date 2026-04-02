@@ -1,7 +1,7 @@
 ---
 title: "Shimeng Tan"
 description: "Shimeng Tan is a Mid-career Biochar researcher at Institute of Plant Protection in CN. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.962975
+date: 2026-04-02T07:03:26.311227
 url: "/cdr-researcher-census/researchers/shimeng-tan-a5019616/"
 layout: "researcher"
 hiddenInHomeList: true

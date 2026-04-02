@@ -1,7 +1,7 @@
 ---
 title: "Yaling Zhang"
 description: "Yaling Zhang is a Senior Soil Carbon researcher at Inner Mongolia Agricultural University in CN. With 53 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.459038
+date: 2026-04-02T07:03:24.117917
 url: "/cdr-researcher-census/researchers/yaling-zhang-a5100602/"
 layout: "researcher"
 hiddenInHomeList: true

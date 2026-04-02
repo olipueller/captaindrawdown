@@ -1,7 +1,7 @@
 ---
 title: "R. M. Jayabalakrishnan"
 description: "R. M. Jayabalakrishnan is a Senior Soil Carbon researcher at Tamil Nadu Agricultural University in IN. With 40 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.052626
+date: 2026-04-02T07:03:24.985013
 url: "/cdr-researcher-census/researchers/r-m-jayabalakrishnan-a5053966/"
 layout: "researcher"
 hiddenInHomeList: true

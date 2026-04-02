@@ -1,7 +1,7 @@
 ---
 title: "Shivesh Kishore Karan"
 description: "Shivesh Kishore Karan is a Mid-career General CDR researcher at Norwegian Institute of Bioeconomy Research in NO. With 33 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.646164
+date: 2026-04-02T07:03:24.385127
 url: "/cdr-researcher-census/researchers/shivesh-kishore-karan-a5041123/"
 layout: "researcher"
 hiddenInHomeList: true

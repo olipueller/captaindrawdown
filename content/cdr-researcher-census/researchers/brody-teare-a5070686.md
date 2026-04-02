@@ -1,7 +1,7 @@
 ---
 title: "Brody Teare"
 description: "Brody Teare is a Mid-career Soil Carbon researcher at Texas A&M University in US. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.825488
+date: 2026-04-02T07:03:24.640831
 url: "/cdr-researcher-census/researchers/brody-teare-a5070686/"
 layout: "researcher"
 hiddenInHomeList: true

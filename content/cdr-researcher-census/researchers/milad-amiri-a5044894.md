@@ -1,7 +1,7 @@
 ---
 title: "Milad Amiri"
 description: "Milad Amiri is a Mid-career BECCS researcher. With 31 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.178667
+date: 2026-04-02T07:03:25.168728
 url: "/cdr-researcher-census/researchers/milad-amiri-a5044894/"
 layout: "researcher"
 hiddenInHomeList: true

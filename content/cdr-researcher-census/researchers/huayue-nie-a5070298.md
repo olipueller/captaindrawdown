@@ -1,7 +1,7 @@
 ---
 title: "Huayue Nie"
 description: "Huayue Nie is a Mid-career Soil Carbon researcher at Guangdong University of Technology in CN. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.459549
+date: 2026-04-02T07:03:24.118552
 url: "/cdr-researcher-census/researchers/huayue-nie-a5070298/"
 layout: "researcher"
 hiddenInHomeList: true

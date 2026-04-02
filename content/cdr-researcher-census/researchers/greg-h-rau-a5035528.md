@@ -1,7 +1,7 @@
 ---
 title: "Greg H. Rau"
 description: "Greg H. Rau is an Eminent General CDR researcher at Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung in DE. With 127 publications and an h-index of 45, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.100245
+date: 2026-04-02T07:03:23.647681
 url: "/cdr-researcher-census/researchers/greg-h-rau-a5035528/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Efe Jeffery Isukuru"
 description: "Efe Jeffery Isukuru is a Mid-career General CDR researcher at Texas Tech University in US. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.627335
+date: 2026-04-02T07:03:25.845978
 url: "/cdr-researcher-census/researchers/efe-jeffery-isukuru-a5092351/"
 layout: "researcher"
 hiddenInHomeList: true

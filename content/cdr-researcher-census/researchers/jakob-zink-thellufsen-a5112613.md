@@ -1,7 +1,7 @@
 ---
 title: "Jakob Zink Thellufsen"
 description: "Jakob Zink Thellufsen is an Early-career General CDR researcher. With 2 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.161562
+date: 2026-04-02T07:03:25.144649
 url: "/cdr-researcher-census/researchers/jakob-zink-thellufsen-a5112613/"
 layout: "researcher"
 hiddenInHomeList: true

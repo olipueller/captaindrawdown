@@ -1,7 +1,7 @@
 ---
 title: "Longxin Lin"
 description: "Longxin Lin is a Senior carbon dioxide removal researcher at Guangxi University in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.454395
+date: 2026-04-02T07:03:25.567467
 url: "/cdr-researcher-census/researchers/longxin-lin-a5100829/"
 layout: "researcher"
 hiddenInHomeList: true

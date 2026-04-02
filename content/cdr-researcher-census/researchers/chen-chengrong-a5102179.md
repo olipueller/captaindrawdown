@@ -1,7 +1,7 @@
 ---
 title: "Chen Chengrong"
 description: "Chen Chengrong is an Early-career Biochar researcher at Griffith University in AU. With 9 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.862499
+date: 2026-04-02T07:03:26.161607
 url: "/cdr-researcher-census/researchers/chen-chengrong-a5102179/"
 layout: "researcher"
 hiddenInHomeList: true

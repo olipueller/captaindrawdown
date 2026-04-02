@@ -1,7 +1,7 @@
 ---
 title: "Yajie Sun"
 description: "Yajie Sun is a Mid-career Soil Carbon researcher at China Pharmaceutical University in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.626949
+date: 2026-04-02T07:03:25.845415
 url: "/cdr-researcher-census/researchers/yajie-sun-a5102375/"
 layout: "researcher"
 hiddenInHomeList: true

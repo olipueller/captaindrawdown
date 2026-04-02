@@ -1,7 +1,7 @@
 ---
 title: "Navaneethan Subramanian"
 description: "Navaneethan Subramanian is a Mid-career BECCS researcher. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.726521
+date: 2026-04-02T07:03:24.504153
 url: "/cdr-researcher-census/researchers/navaneethan-subramanian-a5028123/"
 layout: "researcher"
 hiddenInHomeList: true

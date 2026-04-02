@@ -1,7 +1,7 @@
 ---
 title: "Vicki Bennion"
 description: "Vicki Bennion is a Mid-career Soil Carbon researcher at Griffith University in AU. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.922275
+date: 2026-04-02T07:03:24.786775
 url: "/cdr-researcher-census/researchers/vicki-bennion-a5000794/"
 layout: "researcher"
 hiddenInHomeList: true

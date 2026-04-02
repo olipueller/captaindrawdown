@@ -1,7 +1,7 @@
 ---
 title: "Janna V. Veselovskaya"
 description: "Janna V. Veselovskaya is a Senior Enhanced Weathering researcher at Boreskov Institute of Catalysis in RU. With 38 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.484649
+date: 2026-04-02T07:03:24.153866
 url: "/cdr-researcher-census/researchers/janna-v-veselovskaya-a5090633/"
 layout: "researcher"
 hiddenInHomeList: true

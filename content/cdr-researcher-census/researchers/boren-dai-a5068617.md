@@ -1,7 +1,7 @@
 ---
 title: "Boren Dai"
 description: "Boren Dai is a Mid-career carbon dioxide removal researcher at Nanjing Forestry University in CN. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.257829
+date: 2026-04-02T07:03:26.760785
 url: "/cdr-researcher-census/researchers/boren-dai-a5068617/"
 layout: "researcher"
 hiddenInHomeList: true

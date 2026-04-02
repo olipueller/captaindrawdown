@@ -1,7 +1,7 @@
 ---
 title: "Penghui Jin"
 description: "Penghui Jin is a Mid-career Biochar researcher at Beijing Agricultural Machinery Research Institute in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.179601
+date: 2026-04-02T07:03:26.637440
 url: "/cdr-researcher-census/researchers/penghui-jin-a5075936/"
 layout: "researcher"
 hiddenInHomeList: true

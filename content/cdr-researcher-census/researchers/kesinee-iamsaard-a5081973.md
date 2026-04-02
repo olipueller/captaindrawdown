@@ -1,7 +1,7 @@
 ---
 title: "Kesinee Iamsaard"
 description: "Kesinee Iamsaard is a Mid-career Biochar researcher at Naresuan University Hospital in TH. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.424940
+date: 2026-04-02T07:03:25.524686
 url: "/cdr-researcher-census/researchers/kesinee-iamsaard-a5081973/"
 layout: "researcher"
 hiddenInHomeList: true

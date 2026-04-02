@@ -1,7 +1,7 @@
 ---
 title: "Greg Pelletier"
 description: "Greg Pelletier is a Senior Ocean CDR researcher at Independent Scientist in US. With 49 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.370897
+date: 2026-04-02T07:03:24.005996
 url: "/cdr-researcher-census/researchers/greg-pelletier-a5013844/"
 layout: "researcher"
 hiddenInHomeList: true

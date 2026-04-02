@@ -1,7 +1,7 @@
 ---
 title: "Brian K. Howard"
 description: "Brian K. Howard is a Senior carbon dioxide removal researcher at Northern Arizona University in US. With 9 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.738828
+date: 2026-04-02T07:03:24.523302
 url: "/cdr-researcher-census/researchers/brian-k-howard-a5026729/"
 layout: "researcher"
 hiddenInHomeList: true

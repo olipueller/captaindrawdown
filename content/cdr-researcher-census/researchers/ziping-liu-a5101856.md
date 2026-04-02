@@ -1,7 +1,7 @@
 ---
 title: "Ziping Liu"
 description: "Ziping Liu is a Senior Soil Carbon researcher at China National Petroleum Corporation (China) in CN. With 108 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.252520
+date: 2026-04-02T07:03:23.843780
 url: "/cdr-researcher-census/researchers/ziping-liu-a5101856/"
 layout: "researcher"
 hiddenInHomeList: true

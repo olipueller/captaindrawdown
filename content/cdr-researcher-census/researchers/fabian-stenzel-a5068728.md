@@ -1,7 +1,7 @@
 ---
 title: "Fabian Stenzel"
 description: "Fabian Stenzel is a Senior General CDR researcher at Stockholm Resilience Centre in SE. With 64 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.985084
+date: 2026-04-02T07:03:24.886086
 url: "/cdr-researcher-census/researchers/fabian-stenzel-a5068728/"
 layout: "researcher"
 hiddenInHomeList: true

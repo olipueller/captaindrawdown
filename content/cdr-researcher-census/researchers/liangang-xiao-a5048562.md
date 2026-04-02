@@ -1,7 +1,7 @@
 ---
 title: "Liangang Xiao"
 description: "Liangang Xiao is a Senior Soil Carbon researcher at Guangdong University of Technology in CN. With 53 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.409943
+date: 2026-04-02T07:03:24.050130
 url: "/cdr-researcher-census/researchers/liangang-xiao-a5048562/"
 layout: "researcher"
 hiddenInHomeList: true

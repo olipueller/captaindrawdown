@@ -1,7 +1,7 @@
 ---
 title: "Kylee Harris"
 description: "Kylee Harris is a Mid-career DAC researcher at National Renewable Energy Laboratory in US. With 22 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.232141
+date: 2026-04-02T07:03:25.252491
 url: "/cdr-researcher-census/researchers/kylee-harris-a5013573/"
 layout: "researcher"
 hiddenInHomeList: true

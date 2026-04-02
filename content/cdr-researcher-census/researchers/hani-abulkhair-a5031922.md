@@ -1,7 +1,7 @@
 ---
 title: "Hani Abulkhair"
 description: "Hani Abulkhair is a Mid-career carbon dioxide removal researcher at King Abdulaziz University in SA. With 38 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.556818
+date: 2026-04-02T07:03:24.257771
 url: "/cdr-researcher-census/researchers/hani-abulkhair-a5031922/"
 layout: "researcher"
 hiddenInHomeList: true

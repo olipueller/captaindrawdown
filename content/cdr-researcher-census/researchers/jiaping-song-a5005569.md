@@ -1,7 +1,7 @@
 ---
 title: "Jiaping Song"
 description: "Jiaping Song is a Mid-career Biochar researcher at Anhui University of Science and Technology in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.587844
+date: 2026-04-02T07:03:25.787126
 url: "/cdr-researcher-census/researchers/jiaping-song-a5005569/"
 layout: "researcher"
 hiddenInHomeList: true

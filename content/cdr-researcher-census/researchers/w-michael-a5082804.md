@@ -1,7 +1,7 @@
 ---
 title: "W. Michael"
 description: "W. Michael is a Senior DAC researcher at Forschungszentrum Jülich in DE. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.676301
+date: 2026-04-02T07:03:25.923685
 url: "/cdr-researcher-census/researchers/w-michael-a5082804/"
 layout: "researcher"
 hiddenInHomeList: true

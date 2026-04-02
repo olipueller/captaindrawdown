@@ -1,7 +1,7 @@
 ---
 title: "Nicolas Alaux"
 description: "Nicolas Alaux is a Mid-career General CDR researcher at Graz University of Technology in AT. With 33 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.275743
+date: 2026-04-02T07:03:25.306621
 url: "/cdr-researcher-census/researchers/nicolas-alaux-a5069741/"
 layout: "researcher"
 hiddenInHomeList: true

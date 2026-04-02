@@ -1,7 +1,7 @@
 ---
 title: "Wujun Feng"
 description: "Wujun Feng is a Mid-career General CDR researcher at Xiamen University in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.158932
+date: 2026-04-02T07:03:25.141193
 url: "/cdr-researcher-census/researchers/wujun-feng-a5091077/"
 layout: "researcher"
 hiddenInHomeList: true

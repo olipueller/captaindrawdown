@@ -1,7 +1,7 @@
 ---
 title: "Neha Batta"
 description: "Neha Batta is a Mid-career Biochar researcher at Western University in CA. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.368582
+date: 2026-04-02T07:03:25.441666
 url: "/cdr-researcher-census/researchers/neha-batta-a5017138/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yawen Huang"
 description: "Yawen Huang is a Senior Soil Carbon researcher at Nanjing Agricultural University in CN. With 23 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.397907
+date: 2026-04-02T07:03:24.035999
 url: "/cdr-researcher-census/researchers/yawen-huang-a5046118/"
 layout: "researcher"
 hiddenInHomeList: true

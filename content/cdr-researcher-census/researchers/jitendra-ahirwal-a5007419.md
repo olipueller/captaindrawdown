@@ -1,7 +1,7 @@
 ---
 title: "Jitendra Ahirwal"
 description: "Jitendra Ahirwal is a Senior Soil Carbon researcher at University of Allahabad in IN. With 59 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.284606
+date: 2026-04-02T07:03:23.889676
 url: "/cdr-researcher-census/researchers/jitendra-ahirwal-a5007419/"
 layout: "researcher"
 hiddenInHomeList: true

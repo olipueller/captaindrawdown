@@ -1,7 +1,7 @@
 ---
 title: "Xiang Zhang"
 description: "Xiang Zhang is a Senior General CDR researcher at Southeast University in BD. With 21 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.196071
+date: 2026-04-02T07:03:25.193744
 url: "/cdr-researcher-census/researchers/xiang-zhang-a5046262/"
 layout: "researcher"
 hiddenInHomeList: true

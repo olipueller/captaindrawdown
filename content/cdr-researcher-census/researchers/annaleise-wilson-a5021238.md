@@ -1,7 +1,7 @@
 ---
 title: "Annaleise Wilson"
 description: "Annaleise Wilson is a Mid-career Soil Carbon researcher at Australian Centre for Disease Preparedness in AU. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.281123
+date: 2026-04-02T07:03:25.313658
 url: "/cdr-researcher-census/researchers/annaleise-wilson-a5021238/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "V. Sathya"
 description: "V. Sathya is a Mid-career Soil Carbon researcher at Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology in IN. With 31 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.153796
+date: 2026-04-02T07:03:26.592517
 url: "/cdr-researcher-census/researchers/v-sathya-a5048787/"
 layout: "researcher"
 hiddenInHomeList: true

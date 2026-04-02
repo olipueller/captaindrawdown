@@ -1,7 +1,7 @@
 ---
 title: "Tivadar Baltazár"
 description: "Tivadar Baltazár is a Mid-career Soil Carbon researcher at Mendel University Brno in CZ. With 76 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.611769
+date: 2026-04-02T07:03:24.336914
 url: "/cdr-researcher-census/researchers/tivadar-baltazar-a5045481/"
 layout: "researcher"
 hiddenInHomeList: true

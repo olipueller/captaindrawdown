@@ -1,7 +1,7 @@
 ---
 title: "Hugh Flowers"
 description: "Hugh Flowers is a Senior General CDR researcher at University of Glasgow in GB. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.860157
+date: 2026-04-02T07:03:26.158383
 url: "/cdr-researcher-census/researchers/hugh-flowers-a5028880/"
 layout: "researcher"
 hiddenInHomeList: true

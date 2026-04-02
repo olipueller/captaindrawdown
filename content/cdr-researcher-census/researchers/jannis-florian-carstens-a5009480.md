@@ -1,7 +1,7 @@
 ---
 title: "Jannis Florian Carstens"
 description: "Jannis Florian Carstens is a Mid-career Soil Carbon researcher at Leibniz University Hannover in DE. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.709864
+date: 2026-04-02T07:03:25.975371
 url: "/cdr-researcher-census/researchers/jannis-florian-carstens-a5009480/"
 layout: "researcher"
 hiddenInHomeList: true

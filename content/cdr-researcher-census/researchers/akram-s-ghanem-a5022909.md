@@ -1,7 +1,7 @@
 ---
 title: "Akram S. Ghanem"
 description: "Akram S. Ghanem is a Mid-career carbon dioxide removal researcher at King Fahd University of Petroleum and Minerals in SA. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.848510
+date: 2026-04-02T07:03:24.672944
 url: "/cdr-researcher-census/researchers/akram-s-ghanem-a5022909/"
 layout: "researcher"
 hiddenInHomeList: true

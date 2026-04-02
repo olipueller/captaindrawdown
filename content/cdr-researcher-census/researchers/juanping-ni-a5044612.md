@@ -1,7 +1,7 @@
 ---
 title: "Juanping Ni"
 description: "Juanping Ni is a Mid-career Soil Carbon researcher at Nanjing Forestry University in CN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.247303
+date: 2026-04-02T07:03:26.745270
 url: "/cdr-researcher-census/researchers/juanping-ni-a5044612/"
 layout: "researcher"
 hiddenInHomeList: true

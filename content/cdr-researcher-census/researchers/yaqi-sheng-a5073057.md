@@ -1,7 +1,7 @@
 ---
 title: "Yaqi Sheng"
 description: "Yaqi Sheng is a Senior Biochar researcher at Chinese Academy of Medical Sciences & Peking Union Medical College in CN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.501626
+date: 2026-04-02T07:03:24.174514
 url: "/cdr-researcher-census/researchers/yaqi-sheng-a5073057/"
 layout: "researcher"
 hiddenInHomeList: true

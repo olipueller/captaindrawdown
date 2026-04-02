@@ -1,7 +1,7 @@
 ---
 title: "Jabraeil Ahbabi Saray"
 description: "Jabraeil Ahbabi Saray is a Mid-career DAC researcher at Iran University of Science and Technology in IR. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.032348
+date: 2026-04-02T07:03:26.408632
 url: "/cdr-researcher-census/researchers/jabraeil-ahbabi-saray-a5039690/"
 layout: "researcher"
 hiddenInHomeList: true

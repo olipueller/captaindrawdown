@@ -1,7 +1,7 @@
 ---
 title: "Youn Ji Min"
 description: "Youn Ji Min is a Mid-career DAC researcher at Georgia Institute of Technology in US. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.395300
+date: 2026-04-02T07:03:26.960300
 url: "/cdr-researcher-census/researchers/youn-ji-min-a5001681/"
 layout: "researcher"
 hiddenInHomeList: true

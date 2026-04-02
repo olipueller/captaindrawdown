@@ -1,7 +1,7 @@
 ---
 title: "Fanrong Meng"
 description: "Fanrong Meng is a Senior Biochar researcher at Wageningen University & Research in NL. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.564183
+date: 2026-04-02T07:03:24.268484
 url: "/cdr-researcher-census/researchers/fanrong-meng-a5101805/"
 layout: "researcher"
 hiddenInHomeList: true

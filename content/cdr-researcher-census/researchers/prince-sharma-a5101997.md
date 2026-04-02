@@ -1,7 +1,7 @@
 ---
 title: "Prince Sharma"
 description: "Prince Sharma is a Senior General CDR researcher at Chandigarh University in IN. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.035531
+date: 2026-04-02T07:03:24.959002
 url: "/cdr-researcher-census/researchers/prince-sharma-a5101997/"
 layout: "researcher"
 hiddenInHomeList: true

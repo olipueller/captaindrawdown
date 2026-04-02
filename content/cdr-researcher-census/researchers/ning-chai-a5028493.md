@@ -1,7 +1,7 @@
 ---
 title: "Ning Chai"
 description: "Ning Chai is a Mid-career Soil Carbon researcher at Gansu Agricultural University in CN. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.853545
+date: 2026-04-02T07:03:26.149257
 url: "/cdr-researcher-census/researchers/ning-chai-a5028493/"
 layout: "researcher"
 hiddenInHomeList: true

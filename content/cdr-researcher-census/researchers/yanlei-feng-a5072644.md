@@ -1,7 +1,7 @@
 ---
 title: "Yanlei Feng"
 description: "Yanlei Feng is a Mid-career BECCS researcher at Zhejiang University of Science and Technology in CN. With 31 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.323398
+date: 2026-04-02T07:03:25.374284
 url: "/cdr-researcher-census/researchers/yanlei-feng-a5072644/"
 layout: "researcher"
 hiddenInHomeList: true

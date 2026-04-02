@@ -1,7 +1,7 @@
 ---
 title: "Zixin Zhang"
 description: "Zixin Zhang is a Mid-career carbon dioxide removal researcher at Shanghai Jiao Tong University in CN. With 33 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.040537
+date: 2026-04-02T07:03:24.966167
 url: "/cdr-researcher-census/researchers/zixin-zhang-a5100609/"
 layout: "researcher"
 hiddenInHomeList: true

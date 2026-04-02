@@ -1,7 +1,7 @@
 ---
 title: "Subhodeep Banerjee"
 description: "Subhodeep Banerjee is a Mid-career carbon dioxide removal researcher at Defense Logistics Agency in US. With 50 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.970581
+date: 2026-04-02T07:03:24.863499
 url: "/cdr-researcher-census/researchers/subhodeep-banerjee-a5073652/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "P. L. Regar"
 description: "P. L. Regar is a Senior General CDR researcher at Central Arid Zone Research Institute in IN. With 24 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.151406
+date: 2026-04-02T07:03:25.130025
 url: "/cdr-researcher-census/researchers/p-l-regar-a5059636/"
 layout: "researcher"
 hiddenInHomeList: true

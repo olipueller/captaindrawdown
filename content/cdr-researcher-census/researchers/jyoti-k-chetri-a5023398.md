@@ -1,7 +1,7 @@
 ---
 title: "Jyoti K. Chetri"
 description: "Jyoti K. Chetri is a Mid-career Biochar researcher at jacobs engineering group inc in US. With 50 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.654758
+date: 2026-04-02T07:03:24.398277
 url: "/cdr-researcher-census/researchers/jyoti-k-chetri-a5023398/"
 layout: "researcher"
 hiddenInHomeList: true

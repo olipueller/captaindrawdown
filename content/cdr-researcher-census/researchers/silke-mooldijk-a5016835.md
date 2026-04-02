@@ -1,7 +1,7 @@
 ---
 title: "Silke Mooldijk"
 description: "Silke Mooldijk is a Mid-career General CDR researcher at NewClimate Institute in DE. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.890575
+date: 2026-04-02T07:03:24.735403
 url: "/cdr-researcher-census/researchers/silke-mooldijk-a5016835/"
 layout: "researcher"
 hiddenInHomeList: true

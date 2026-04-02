@@ -1,7 +1,7 @@
 ---
 title: "Jingwei Shi"
 description: "Jingwei Shi is a Senior Soil Carbon researcher at South China Botanical Garden in CN. With 31 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.546199
+date: 2026-04-02T07:03:24.242922
 url: "/cdr-researcher-census/researchers/jingwei-shi-a5063489/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Leonie Göbel"
 description: "Leonie Göbel is a Mid-career General CDR researcher. With 17 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.630985
+date: 2026-04-02T07:03:25.851465
 url: "/cdr-researcher-census/researchers/leonie-gobel-a5069831/"
 layout: "researcher"
 hiddenInHomeList: true

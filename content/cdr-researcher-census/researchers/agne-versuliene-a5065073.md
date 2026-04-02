@@ -1,7 +1,7 @@
 ---
 title: "Agnė Veršulienė"
 description: "Agnė Veršulienė is a Mid-career Soil Carbon researcher at Lithuanian Research Centre for Agriculture and Forestry in LT. With 23 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.893505
+date: 2026-04-02T07:03:26.206463
 url: "/cdr-researcher-census/researchers/agne-versuliene-a5065073/"
 layout: "researcher"
 hiddenInHomeList: true

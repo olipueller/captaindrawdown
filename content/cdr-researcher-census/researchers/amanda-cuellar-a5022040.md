@@ -1,7 +1,7 @@
 ---
 title: "Amanda Cuéllar"
 description: "Amanda Cuéllar is a Senior BECCS researcher at Universidad Marcelino Champagnat in PE. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.474787
+date: 2026-04-02T07:03:24.140183
 url: "/cdr-researcher-census/researchers/amanda-cuellar-a5022040/"
 layout: "researcher"
 hiddenInHomeList: true

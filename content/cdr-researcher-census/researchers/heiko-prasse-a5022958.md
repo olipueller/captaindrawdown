@@ -1,7 +1,7 @@
 ---
 title: "Heiko Prasse"
 description: "Heiko Prasse is a Mid-career Soil Carbon researcher at National Institute of Meteorology in TN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.233704
+date: 2026-04-02T07:03:23.818045
 url: "/cdr-researcher-census/researchers/heiko-prasse-a5022958/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yiran Zhang"
 description: "Yiran Zhang is a Mid-career General CDR researcher at Shanghai Jiao Tong University in CN. With 44 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.750941
+date: 2026-04-02T07:03:24.540276
 url: "/cdr-researcher-census/researchers/yiran-zhang-a5084348/"
 layout: "researcher"
 hiddenInHomeList: true

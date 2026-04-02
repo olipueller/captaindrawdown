@@ -1,7 +1,7 @@
 ---
 title: "Hussien A. El Sayed"
 description: "Hussien A. El Sayed is a Mid-career Biochar researcher at Egyptian Petroleum Research Institute in EG. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.425542
+date: 2026-04-02T07:03:25.525514
 url: "/cdr-researcher-census/researchers/hussien-a-el-sayed-a5067613/"
 layout: "researcher"
 hiddenInHomeList: true

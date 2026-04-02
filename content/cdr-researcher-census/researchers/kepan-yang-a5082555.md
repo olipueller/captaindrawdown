@@ -1,7 +1,7 @@
 ---
 title: "Kepan Yang"
 description: "Kepan Yang is an Early-career Soil Carbon researcher at South China Botanical Garden in CN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.239128
+date: 2026-04-02T07:03:26.734048
 url: "/cdr-researcher-census/researchers/kepan-yang-a5082555/"
 layout: "researcher"
 hiddenInHomeList: true

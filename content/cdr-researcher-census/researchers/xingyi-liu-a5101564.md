@@ -1,7 +1,7 @@
 ---
 title: "Xingyi Liu"
 description: "Xingyi Liu is a Mid-career carbon dioxide removal researcher at Tianjin Agricultural University in CN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.065265
+date: 2026-04-02T07:03:25.005043
 url: "/cdr-researcher-census/researchers/xingyi-liu-a5101564/"
 layout: "researcher"
 hiddenInHomeList: true

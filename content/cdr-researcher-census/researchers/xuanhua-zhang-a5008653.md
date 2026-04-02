@@ -1,7 +1,7 @@
 ---
 title: "Xuanhua Zhang"
 description: "Xuanhua Zhang is a Mid-career Soil Carbon researcher at Institute of Soil and Water Conservation in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.057281
+date: 2026-04-02T07:03:26.449134
 url: "/cdr-researcher-census/researchers/xuanhua-zhang-a5008653/"
 layout: "researcher"
 hiddenInHomeList: true

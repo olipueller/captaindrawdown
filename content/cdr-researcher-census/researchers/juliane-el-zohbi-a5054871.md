@@ -1,7 +1,7 @@
 ---
 title: "Juliane El Zohbi"
 description: "Juliane El Zohbi is a Mid-career General CDR researcher at Helmholtz-Zentrum Hereon in DE. With 29 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.164027
+date: 2026-04-02T07:03:25.147715
 url: "/cdr-researcher-census/researchers/juliane-el-zohbi-a5054871/"
 layout: "researcher"
 hiddenInHomeList: true

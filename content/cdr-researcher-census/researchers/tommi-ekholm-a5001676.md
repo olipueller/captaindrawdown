@@ -1,7 +1,7 @@
 ---
 title: "Tommi Ekholm"
 description: "Tommi Ekholm is a Senior General CDR researcher at Finnish Meteorological Institute in FI. With 89 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.411659
+date: 2026-04-02T07:03:24.052342
 url: "/cdr-researcher-census/researchers/tommi-ekholm-a5001676/"
 layout: "researcher"
 hiddenInHomeList: true

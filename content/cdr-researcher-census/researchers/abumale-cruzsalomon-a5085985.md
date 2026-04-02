@@ -1,7 +1,7 @@
 ---
 title: "Abumalé Cruz‐Salomón"
 description: "Abumalé Cruz‐Salomón is a Mid-career Biochar researcher at Universidad Autonoma de Chiapas in MX. With 29 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.917419
+date: 2026-04-02T07:03:24.778932
 url: "/cdr-researcher-census/researchers/abumale-cruzsalomon-a5085985/"
 layout: "researcher"
 hiddenInHomeList: true

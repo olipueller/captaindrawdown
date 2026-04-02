@@ -1,7 +1,7 @@
 ---
 title: "Michele Caputo"
 description: "Michele Caputo is a Mid-career Soil Carbon researcher at University of Salerno in IT. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.707111
+date: 2026-04-02T07:03:25.970809
 url: "/cdr-researcher-census/researchers/michele-caputo-a5000582/"
 layout: "researcher"
 hiddenInHomeList: true

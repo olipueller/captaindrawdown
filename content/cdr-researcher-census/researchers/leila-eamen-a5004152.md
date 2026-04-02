@@ -1,7 +1,7 @@
 ---
 title: "Leila Eamen"
 description: "Leila Eamen is a Mid-career General CDR researcher at University of Waterloo in CA. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.886483
+date: 2026-04-02T07:03:26.196159
 url: "/cdr-researcher-census/researchers/leila-eamen-a5004152/"
 layout: "researcher"
 hiddenInHomeList: true

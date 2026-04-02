@@ -1,7 +1,7 @@
 ---
 title: "Roberta Healey"
 description: "Roberta Healey is a Senior General CDR researcher at Universitat Autònoma de Barcelona in ES. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.370520
+date: 2026-04-02T07:03:25.444666
 url: "/cdr-researcher-census/researchers/roberta-healey-a5018753/"
 layout: "researcher"
 hiddenInHomeList: true

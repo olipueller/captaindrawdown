@@ -1,7 +1,7 @@
 ---
 title: "Katherine Hornbostel"
 description: "Katherine Hornbostel is a Mid-career Ocean CDR researcher at University of Pittsburgh in US. With 28 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.670636
+date: 2026-04-02T07:03:24.426576
 url: "/cdr-researcher-census/researchers/katherine-hornbostel-a5112901/"
 layout: "researcher"
 hiddenInHomeList: true

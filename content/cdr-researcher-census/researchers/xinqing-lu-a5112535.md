@@ -1,7 +1,7 @@
 ---
 title: "Xinqing Lu"
 description: "Xinqing Lu is a Mid-career Soil Carbon researcher at Handan College in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.940365
+date: 2026-04-02T07:03:26.278395
 url: "/cdr-researcher-census/researchers/xinqing-lu-a5112535/"
 layout: "researcher"
 hiddenInHomeList: true

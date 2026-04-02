@@ -1,7 +1,7 @@
 ---
 title: "Xinxin Jin"
 description: "Xinxin Jin is a Senior Soil Carbon researcher at Shenyang Agricultural University in CN. With 98 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.211805
+date: 2026-04-02T07:03:23.792633
 url: "/cdr-researcher-census/researchers/xinxin-jin-a5101520/"
 layout: "researcher"
 hiddenInHomeList: true

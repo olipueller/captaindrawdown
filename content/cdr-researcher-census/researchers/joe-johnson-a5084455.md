@@ -1,7 +1,7 @@
 ---
 title: "Joe Johnson"
 description: "Joe Johnson is a Senior Soil Carbon researcher in GB. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.241377
+date: 2026-04-02T07:03:26.737188
 url: "/cdr-researcher-census/researchers/joe-johnson-a5084455/"
 layout: "researcher"
 hiddenInHomeList: true

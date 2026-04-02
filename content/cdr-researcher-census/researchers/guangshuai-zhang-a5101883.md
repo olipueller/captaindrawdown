@@ -1,7 +1,7 @@
 ---
 title: "Guangshuai Zhang"
 description: "Guangshuai Zhang is a Mid-career Soil Carbon researcher at China National Environmental Monitoring Center in CN. With 36 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.026245
+date: 2026-04-02T07:03:24.945715
 url: "/cdr-researcher-census/researchers/guangshuai-zhang-a5101883/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Erxiong Zhu"
 description: "Erxiong Zhu is a Senior Soil Carbon researcher at University of Shanghai for Science and Technology in CN. With 47 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.457359
+date: 2026-04-02T07:03:24.115603
 url: "/cdr-researcher-census/researchers/erxiong-zhu-a5054840/"
 layout: "researcher"
 hiddenInHomeList: true

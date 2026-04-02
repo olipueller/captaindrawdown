@@ -1,7 +1,7 @@
 ---
 title: "Chootrakul Siripaiboon"
 description: "Chootrakul Siripaiboon is a Mid-career BECCS researcher at Kasetsart University in TH. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.945879
+date: 2026-04-02T07:03:26.286312
 url: "/cdr-researcher-census/researchers/chootrakul-siripaiboon-a5068278/"
 layout: "researcher"
 hiddenInHomeList: true

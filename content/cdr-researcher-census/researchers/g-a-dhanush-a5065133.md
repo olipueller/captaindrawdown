@@ -1,7 +1,7 @@
 ---
 title: "G. A. Dhanush"
 description: "G. A. Dhanush is a Mid-career General CDR researcher at Alliance University in IN. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.430510
+date: 2026-04-02T07:03:27.012351
 url: "/cdr-researcher-census/researchers/g-a-dhanush-a5065133/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jinting Cai"
 description: "Jinting Cai is a Mid-career Soil Carbon researcher at Northeast Normal University in CN. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.321339
+date: 2026-04-02T07:03:25.371168
 url: "/cdr-researcher-census/researchers/jinting-cai-a5050594/"
 layout: "researcher"
 hiddenInHomeList: true

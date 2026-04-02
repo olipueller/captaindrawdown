@@ -1,7 +1,7 @@
 ---
 title: "Arta Bārdule"
 description: "Arta Bārdule is a Mid-career Soil Carbon researcher at Latvian State Forest Research Institute \"Silava\" in LV. With 96 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.955954
+date: 2026-04-02T07:03:24.839270
 url: "/cdr-researcher-census/researchers/arta-bardule-a5016794/"
 layout: "researcher"
 hiddenInHomeList: true

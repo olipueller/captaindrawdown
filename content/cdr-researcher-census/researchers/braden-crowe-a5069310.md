@@ -1,7 +1,7 @@
 ---
 title: "Braden Crowe"
 description: "Braden Crowe is a Mid-career Ocean CDR researcher at MicroBio Engineering (United States) in US. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.613394
+date: 2026-04-02T07:03:24.339310
 url: "/cdr-researcher-census/researchers/braden-crowe-a5069310/"
 layout: "researcher"
 hiddenInHomeList: true

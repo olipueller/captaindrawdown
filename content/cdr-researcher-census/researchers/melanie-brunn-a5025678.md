@@ -1,7 +1,7 @@
 ---
 title: "Melanie Brunn"
 description: "Melanie Brunn is a Mid-career Soil Carbon researcher at Koblenz University of Applied Sciences in DE. With 39 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.867182
+date: 2026-04-02T07:03:24.699525
 url: "/cdr-researcher-census/researchers/melanie-brunn-a5025678/"
 layout: "researcher"
 hiddenInHomeList: true

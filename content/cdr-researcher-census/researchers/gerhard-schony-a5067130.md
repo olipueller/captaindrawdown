@@ -1,7 +1,7 @@
 ---
 title: "Gerhard Schöny"
 description: "Gerhard Schöny is a Mid-career carbon dioxide removal researcher at TU Wien in AT. With 22 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.800657
+date: 2026-04-02T07:03:24.610439
 url: "/cdr-researcher-census/researchers/gerhard-schony-a5067130/"
 layout: "researcher"
 hiddenInHomeList: true

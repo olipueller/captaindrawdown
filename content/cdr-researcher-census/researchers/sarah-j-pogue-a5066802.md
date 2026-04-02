@@ -1,7 +1,7 @@
 ---
 title: "Sarah J. Pogue"
 description: "Sarah J. Pogue is a Mid-career General CDR researcher at University of Lethbridge in CA. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.455395
+date: 2026-04-02T07:03:25.569023
 url: "/cdr-researcher-census/researchers/sarah-j-pogue-a5066802/"
 layout: "researcher"
 hiddenInHomeList: true

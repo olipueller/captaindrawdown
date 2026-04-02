@@ -1,7 +1,7 @@
 ---
 title: "Kazi Kamrul Islam"
 description: "Kazi Kamrul Islam is a Senior Soil Carbon researcher at Bangladesh Agricultural University in BD. With 59 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.591194
+date: 2026-04-02T07:03:24.306830
 url: "/cdr-researcher-census/researchers/kazi-kamrul-islam-a5084962/"
 layout: "researcher"
 hiddenInHomeList: true

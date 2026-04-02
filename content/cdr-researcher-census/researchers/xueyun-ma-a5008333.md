@@ -1,7 +1,7 @@
 ---
 title: "Xueyun Ma"
 description: "Xueyun Ma is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 40 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.215471
+date: 2026-04-02T07:03:25.223620
 url: "/cdr-researcher-census/researchers/xueyun-ma-a5008333/"
 layout: "researcher"
 hiddenInHomeList: true

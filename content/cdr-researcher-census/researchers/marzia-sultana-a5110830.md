@@ -1,7 +1,7 @@
 ---
 title: "Marzia Sultana"
 description: "Marzia Sultana is a Mid-career carbon dioxide removal researcher. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.572264
+date: 2026-04-02T07:03:24.279967
 url: "/cdr-researcher-census/researchers/marzia-sultana-a5110830/"
 layout: "researcher"
 hiddenInHomeList: true

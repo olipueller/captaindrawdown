@@ -1,7 +1,7 @@
 ---
 title: "Rafael Butke Batista"
 description: "Rafael Butke Batista is a Mid-career Soil Carbon researcher at Universidade de São Paulo in BR. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.698222
+date: 2026-04-02T07:03:25.956521
 url: "/cdr-researcher-census/researchers/rafael-butke-batista-a5032448/"
 layout: "researcher"
 hiddenInHomeList: true

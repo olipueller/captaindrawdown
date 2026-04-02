@@ -1,7 +1,7 @@
 ---
 title: "Kaiyi Zhang"
 description: "Kaiyi Zhang is a Mid-career General CDR researcher at Texas A&M University in US. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.871347
+date: 2026-04-02T07:03:26.174121
 url: "/cdr-researcher-census/researchers/kaiyi-zhang-a5101947/"
 layout: "researcher"
 hiddenInHomeList: true

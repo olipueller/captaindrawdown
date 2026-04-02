@@ -1,7 +1,7 @@
 ---
 title: "Xiangkun Elvis Cao"
 description: "Xiangkun Elvis Cao is a Senior DAC researcher at Imperial College London in GB. With 94 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.483147
+date: 2026-04-02T07:03:24.151664
 url: "/cdr-researcher-census/researchers/xiangkun-elvis-cao-a5069922/"
 layout: "researcher"
 hiddenInHomeList: true

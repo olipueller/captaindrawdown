@@ -1,7 +1,7 @@
 ---
 title: "Lixiong Zeng"
 description: "Lixiong Zeng is a Senior Soil Carbon researcher at China Three Gorges University in CN. With 115 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.233470
+date: 2026-04-02T07:03:23.817741
 url: "/cdr-researcher-census/researchers/lixiong-zeng-a5066577/"
 layout: "researcher"
 hiddenInHomeList: true

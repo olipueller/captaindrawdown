@@ -1,7 +1,7 @@
 ---
 title: "Puja Yadav"
 description: "Puja Yadav is a Senior Biochar researcher at Central University of Haryana in IN. With 20 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.520567
+date: 2026-04-02T07:03:24.200527
 url: "/cdr-researcher-census/researchers/puja-yadav-a5101988/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Anja Krieger"
 description: "Anja Krieger is an Early-career carbon dioxide removal researcher at Department for Work and Pensions in GB. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.004281
+date: 2026-04-02T07:03:24.916231
 url: "/cdr-researcher-census/researchers/anja-krieger-a5009714/"
 layout: "researcher"
 hiddenInHomeList: true

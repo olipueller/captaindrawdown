@@ -1,7 +1,7 @@
 ---
 title: "Nanping Lin"
 description: "Nanping Lin is an Early-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.067301
+date: 2026-04-02T07:03:26.461338
 url: "/cdr-researcher-census/researchers/nanping-lin-a5060167/"
 layout: "researcher"
 hiddenInHomeList: true

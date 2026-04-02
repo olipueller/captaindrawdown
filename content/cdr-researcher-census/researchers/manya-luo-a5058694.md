@@ -1,7 +1,7 @@
 ---
 title: "Manya Luo"
 description: "Manya Luo is a Mid-career Soil Carbon researcher at Chang'an University in CN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.055371
+date: 2026-04-02T07:03:26.446436
 url: "/cdr-researcher-census/researchers/manya-luo-a5058694/"
 layout: "researcher"
 hiddenInHomeList: true

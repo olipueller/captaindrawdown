@@ -1,7 +1,7 @@
 ---
 title: "S. S. Potdar"
 description: "S. S. Potdar is a Mid-career carbon dioxide removal researcher at Georgia Institute of Technology in US. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.026370
+date: 2026-04-02T07:03:26.399580
 url: "/cdr-researcher-census/researchers/s-s-potdar-a5102923/"
 layout: "researcher"
 hiddenInHomeList: true

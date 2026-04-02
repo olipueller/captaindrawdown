@@ -1,7 +1,7 @@
 ---
 title: "Aaron Moran"
 description: "Aaron Moran is a Mid-career carbon dioxide removal researcher at ResearchWorks (United States) in US. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.895912
+date: 2026-04-02T07:03:26.209926
 url: "/cdr-researcher-census/researchers/aaron-moran-a5089619/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jiang Tai-ming"
 description: "Jiang Tai-ming is a Senior Soil Carbon researcher at Guizhou Academy of Agricultural Sciences in CN. With 39 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.062929
+date: 2026-04-02T07:03:25.001587
 url: "/cdr-researcher-census/researchers/jiang-tai-ming-a5054030/"
 layout: "researcher"
 hiddenInHomeList: true

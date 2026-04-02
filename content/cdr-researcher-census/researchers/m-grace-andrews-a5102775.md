@@ -1,7 +1,7 @@
 ---
 title: "M. Grace Andrews"
 description: "M. Grace Andrews is a Mid-career General CDR researcher at Montclair State University in US. With 23 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.316109
+date: 2026-04-02T07:03:23.931149
 url: "/cdr-researcher-census/researchers/m-grace-andrews-a5102775/"
 layout: "researcher"
 hiddenInHomeList: true

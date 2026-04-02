@@ -1,7 +1,7 @@
 ---
 title: "Zhun Dong"
 description: "Zhun Dong is a Mid-career carbon dioxide removal researcher at Ricoh (Japan) in JP. With 26 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.715377
+date: 2026-04-02T07:03:24.487356
 url: "/cdr-researcher-census/researchers/zhun-dong-a5082158/"
 layout: "researcher"
 hiddenInHomeList: true

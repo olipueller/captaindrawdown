@@ -1,7 +1,7 @@
 ---
 title: "Gukailin Ao"
 description: "Gukailin Ao is a Mid-career Soil Carbon researcher at Peking University in CN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.176810
+date: 2026-04-02T07:03:25.165791
 url: "/cdr-researcher-census/researchers/gukailin-ao-a5091086/"
 layout: "researcher"
 hiddenInHomeList: true

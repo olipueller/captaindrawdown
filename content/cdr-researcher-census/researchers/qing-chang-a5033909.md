@@ -1,7 +1,7 @@
 ---
 title: "Qing Chang"
 description: "Qing Chang is a Senior Soil Carbon researcher at Northeast Normal University in CN. With 36 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.429362
+date: 2026-04-02T07:03:24.076473
 url: "/cdr-researcher-census/researchers/qing-chang-a5033909/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "He-Xiang Zhao"
 description: "He-Xiang Zhao is a Mid-career carbon dioxide removal researcher at Yunnan University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.409732
+date: 2026-04-02T07:03:25.502892
 url: "/cdr-researcher-census/researchers/he-xiang-zhao-a5011338/"
 layout: "researcher"
 hiddenInHomeList: true

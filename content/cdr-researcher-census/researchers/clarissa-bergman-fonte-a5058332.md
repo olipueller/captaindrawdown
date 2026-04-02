@@ -1,7 +1,7 @@
 ---
 title: "Clarissa Bergman-Fonte"
 description: "Clarissa Bergman-Fonte is a Mid-career General CDR researcher at Universidade Federal do Rio de Janeiro in BR. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.623946
+date: 2026-04-02T07:03:25.840894
 url: "/cdr-researcher-census/researchers/clarissa-bergman-fonte-a5058332/"
 layout: "researcher"
 hiddenInHomeList: true

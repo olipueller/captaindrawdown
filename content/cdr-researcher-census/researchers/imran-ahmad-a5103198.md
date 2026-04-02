@@ -1,7 +1,7 @@
 ---
 title: "Imran Ahmad"
 description: "Imran Ahmad is a Senior General CDR researcher at Durban University of Technology in ZA. With 50 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.541065
+date: 2026-04-02T07:03:24.235528
 url: "/cdr-researcher-census/researchers/imran-ahmad-a5103198/"
 layout: "researcher"
 hiddenInHomeList: true

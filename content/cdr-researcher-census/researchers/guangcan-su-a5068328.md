@@ -1,7 +1,7 @@
 ---
 title: "Guangcan Su"
 description: "Guangcan Su is a Mid-career BECCS researcher at Northwestern University in US. With 22 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.588057
+date: 2026-04-02T07:03:24.301996
 url: "/cdr-researcher-census/researchers/guangcan-su-a5068328/"
 layout: "researcher"
 hiddenInHomeList: true

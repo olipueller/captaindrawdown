@@ -1,7 +1,7 @@
 ---
 title: "P. Srinivasu"
 description: "P. Srinivasu is a Senior Soil Carbon researcher at Tata Consultancy Services (India) in IN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.493366
+date: 2026-04-02T07:03:25.650670
 url: "/cdr-researcher-census/researchers/p-srinivasu-a5110615/"
 layout: "researcher"
 hiddenInHomeList: true

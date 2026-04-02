@@ -1,7 +1,7 @@
 ---
 title: "Diane Bürge"
 description: "Diane Bürge is a Mid-career Biochar researcher at Agroscope in CH. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.006247
+date: 2026-04-02T07:03:24.919373
 url: "/cdr-researcher-census/researchers/diane-burge-a5001869/"
 layout: "researcher"
 hiddenInHomeList: true

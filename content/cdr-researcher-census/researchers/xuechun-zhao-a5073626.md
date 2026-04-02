@@ -1,7 +1,7 @@
 ---
 title: "Xuechun Zhao"
 description: "Xuechun Zhao is a Mid-career Soil Carbon researcher at Guizhou University in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.399236
+date: 2026-04-02T07:03:25.486997
 url: "/cdr-researcher-census/researchers/xuechun-zhao-a5073626/"
 layout: "researcher"
 hiddenInHomeList: true

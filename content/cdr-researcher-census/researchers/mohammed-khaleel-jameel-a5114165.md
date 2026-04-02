@@ -1,7 +1,7 @@
 ---
 title: "Mohammed Khaleel Jameel"
 description: "Mohammed Khaleel Jameel is an Early-career carbon dioxide removal researcher at East Lancashire Hospitals NHS Trust in GB. With 7 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.663048
+date: 2026-04-02T07:03:25.902503
 url: "/cdr-researcher-census/researchers/mohammed-khaleel-jameel-a5114165/"
 layout: "researcher"
 hiddenInHomeList: true

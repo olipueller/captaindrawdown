@@ -1,7 +1,7 @@
 ---
 title: "Laura Proaño"
 description: "Laura Proaño is a Mid-career carbon dioxide removal researcher at Georgia Institute of Technology in US. With 22 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.559949
+date: 2026-04-02T07:03:24.262503
 url: "/cdr-researcher-census/researchers/laura-proano-a5083004/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ahmad Numery Ashfaqul Haque"
 description: "Ahmad Numery Ashfaqul Haque is a Senior Biochar researcher at Bangladesh Institute of Nuclear Agriculture in BD. With 31 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.843358
+date: 2026-04-02T07:03:24.666661
 url: "/cdr-researcher-census/researchers/ahmad-numery-ashfaqul-haque-a5046080/"
 layout: "researcher"
 hiddenInHomeList: true

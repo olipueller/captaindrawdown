@@ -1,7 +1,7 @@
 ---
 title: "Yang Qiu"
 description: "Yang Qiu is a Senior General CDR researcher at China Geological Survey in CN. With 48 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.170270
+date: 2026-04-02T07:03:23.736274
 url: "/cdr-researcher-census/researchers/yang-qiu-a5078561/"
 layout: "researcher"
 hiddenInHomeList: true

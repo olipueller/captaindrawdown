@@ -1,7 +1,7 @@
 ---
 title: "Leslie A. Sherman"
 description: "Leslie A. Sherman is a Senior Soil Carbon researcher at Washington College in US. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.096659
+date: 2026-04-02T07:03:25.050063
 url: "/cdr-researcher-census/researchers/leslie-a-sherman-a5083998/"
 layout: "researcher"
 hiddenInHomeList: true

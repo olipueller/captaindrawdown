@@ -1,7 +1,7 @@
 ---
 title: "José Juan Bolívar Caballero"
 description: "José Juan Bolívar Caballero is an Early-career BECCS researcher at KTH Royal Institute of Technology in SE. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.803748
+date: 2026-04-02T07:03:26.078117
 url: "/cdr-researcher-census/researchers/jose-juan-bolivar-caballero-a5033107/"
 layout: "researcher"
 hiddenInHomeList: true

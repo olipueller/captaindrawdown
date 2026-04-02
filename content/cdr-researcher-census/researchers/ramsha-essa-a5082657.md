@@ -1,7 +1,7 @@
 ---
 title: "Ramsha Essa"
 description: "Ramsha Essa is an Early-career General CDR researcher at Pakistan Council of Scientific & Industrial Research in PK. With 14 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.248947
+date: 2026-04-02T07:03:26.747491
 url: "/cdr-researcher-census/researchers/ramsha-essa-a5082657/"
 layout: "researcher"
 hiddenInHomeList: true

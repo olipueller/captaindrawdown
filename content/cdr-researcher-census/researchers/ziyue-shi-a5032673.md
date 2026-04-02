@@ -1,7 +1,7 @@
 ---
 title: "Ziyue Shi"
 description: "Ziyue Shi is a Mid-career Biochar researcher at Qinghai University in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.475880
+date: 2026-04-02T07:03:25.626498
 url: "/cdr-researcher-census/researchers/ziyue-shi-a5032673/"
 layout: "researcher"
 hiddenInHomeList: true

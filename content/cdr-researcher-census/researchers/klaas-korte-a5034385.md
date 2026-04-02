@@ -1,7 +1,7 @@
 ---
 title: "Klaas Korte"
 description: "Klaas Korte is a Mid-career General CDR researcher at Helmholtz Centre for Environmental Research in DE. With 45 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.996241
+date: 2026-04-02T07:03:24.903787
 url: "/cdr-researcher-census/researchers/klaas-korte-a5034385/"
 layout: "researcher"
 hiddenInHomeList: true

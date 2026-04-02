@@ -1,7 +1,7 @@
 ---
 title: "Katherine Jordan"
 description: "Katherine Jordan is a Mid-career DAC researcher at Toyota Motor Corporation (Switzerland) in CH. With 28 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.751837
+date: 2026-04-02T07:03:24.541611
 url: "/cdr-researcher-census/researchers/katherine-jordan-a5007589/"
 layout: "researcher"
 hiddenInHomeList: true

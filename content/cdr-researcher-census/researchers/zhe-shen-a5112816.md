@@ -1,7 +1,7 @@
 ---
 title: "Zhe Shen"
 description: "Zhe Shen is a Senior Soil Carbon researcher at Zhejiang Chinese Medical University in CN. With 42 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.039303
+date: 2026-04-02T07:03:24.964328
 url: "/cdr-researcher-census/researchers/zhe-shen-a5112816/"
 layout: "researcher"
 hiddenInHomeList: true

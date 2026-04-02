@@ -1,7 +1,7 @@
 ---
 title: "Doris Oke"
 description: "Doris Oke is a Mid-career BECCS researcher at Argonne National Laboratory in US. With 24 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.562983
+date: 2026-04-02T07:03:25.748865
 url: "/cdr-researcher-census/researchers/doris-oke-a5019886/"
 layout: "researcher"
 hiddenInHomeList: true

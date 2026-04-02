@@ -1,7 +1,7 @@
 ---
 title: "Emily Pidgeon"
 description: "Emily Pidgeon is a Senior General CDR researcher at Conservation International in US. With 31 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.169713
+date: 2026-04-02T07:03:23.735593
 url: "/cdr-researcher-census/researchers/emily-pidgeon-a5090618/"
 layout: "researcher"
 hiddenInHomeList: true

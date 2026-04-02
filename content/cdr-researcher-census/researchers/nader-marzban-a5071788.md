@@ -1,7 +1,7 @@
 ---
 title: "Nader Marzban"
 description: "Nader Marzban is a Mid-career Biochar researcher at Leibniz Institute for Agricultural Engineering and Bioeconomy in DE. With 45 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.494642
+date: 2026-04-02T07:03:24.166121
 url: "/cdr-researcher-census/researchers/nader-marzban-a5071788/"
 layout: "researcher"
 hiddenInHomeList: true

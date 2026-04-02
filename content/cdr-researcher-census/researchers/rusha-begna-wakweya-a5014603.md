@@ -1,7 +1,7 @@
 ---
 title: "Rusha Begna Wakweya"
 description: "Rusha Begna Wakweya is an Early-career General CDR researcher at Jimma University in ET. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.105272
+date: 2026-04-02T07:03:26.513553
 url: "/cdr-researcher-census/researchers/rusha-begna-wakweya-a5014603/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Siyi Liu"
 description: "Siyi Liu is a Mid-career Soil Carbon researcher at North Carolina State University in US. With 40 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.649529
+date: 2026-04-02T07:03:24.390244
 url: "/cdr-researcher-census/researchers/siyi-liu-a5100769/"
 layout: "researcher"
 hiddenInHomeList: true

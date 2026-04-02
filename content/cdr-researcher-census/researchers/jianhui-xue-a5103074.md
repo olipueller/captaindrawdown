@@ -1,7 +1,7 @@
 ---
 title: "Jianhui Xue"
 description: "Jianhui Xue is a Senior Biochar researcher at Nanjing Forestry University in CN. With 31 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.510337
+date: 2026-04-02T07:03:24.186351
 url: "/cdr-researcher-census/researchers/jianhui-xue-a5103074/"
 layout: "researcher"
 hiddenInHomeList: true

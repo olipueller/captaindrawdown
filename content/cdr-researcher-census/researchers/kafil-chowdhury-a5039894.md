@@ -1,7 +1,7 @@
 ---
 title: "Kafil Chowdhury"
 description: "Kafil Chowdhury is a Mid-career carbon dioxide removal researcher at San Diego State University in US. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.094163
+date: 2026-04-02T07:03:26.498270
 url: "/cdr-researcher-census/researchers/kafil-chowdhury-a5039894/"
 layout: "researcher"
 hiddenInHomeList: true

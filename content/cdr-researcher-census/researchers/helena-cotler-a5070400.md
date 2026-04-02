@@ -1,7 +1,7 @@
 ---
 title: "Helena Cotler"
 description: "Helena Cotler is a Senior Soil Carbon researcher at Centro Nacional de Información Geográfica in ES. With 42 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.577063
+date: 2026-04-02T07:03:24.286910
 url: "/cdr-researcher-census/researchers/helena-cotler-a5070400/"
 layout: "researcher"
 hiddenInHomeList: true

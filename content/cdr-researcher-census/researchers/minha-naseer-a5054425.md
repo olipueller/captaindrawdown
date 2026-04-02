@@ -1,7 +1,7 @@
 ---
 title: "Minha Naseer"
 description: "Minha Naseer is a Mid-career Soil Carbon researcher at Lanzhou University in CN. With 15 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.507351
+date: 2026-04-02T07:03:24.181978
 url: "/cdr-researcher-census/researchers/minha-naseer-a5054425/"
 layout: "researcher"
 hiddenInHomeList: true

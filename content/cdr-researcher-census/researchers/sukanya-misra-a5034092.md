@@ -1,7 +1,7 @@
 ---
 title: "Sukanya Misra"
 description: "Sukanya Misra is a Senior Biochar researcher at Central Agricultural University in IN. With 31 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.099813
+date: 2026-04-02T07:03:25.054692
 url: "/cdr-researcher-census/researchers/sukanya-misra-a5034092/"
 layout: "researcher"
 hiddenInHomeList: true

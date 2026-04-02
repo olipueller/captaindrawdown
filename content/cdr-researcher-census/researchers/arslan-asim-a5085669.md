@@ -1,7 +1,7 @@
 ---
 title: "Arslan Asim"
 description: "Arslan Asim is a Mid-career Biochar researcher at Niğde Ömer Halisdemir Üniversitesi in TR. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.616448
+date: 2026-04-02T07:03:25.830529
 url: "/cdr-researcher-census/researchers/arslan-asim-a5085669/"
 layout: "researcher"
 hiddenInHomeList: true

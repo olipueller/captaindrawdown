@@ -1,7 +1,7 @@
 ---
 title: "Priyadarshani Pathak"
 description: "Priyadarshani Pathak is an Early-career Soil Carbon researcher at Sardar Patel University in IN. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.301048
+date: 2026-04-02T07:03:26.828270
 url: "/cdr-researcher-census/researchers/priyadarshani-pathak-a5086539/"
 layout: "researcher"
 hiddenInHomeList: true

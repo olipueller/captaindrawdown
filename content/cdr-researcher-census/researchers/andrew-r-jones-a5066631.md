@@ -1,7 +1,7 @@
 ---
 title: "Andrew R. Jones"
 description: "Andrew R. Jones is a Mid-career Soil Carbon researcher at Charles Sturt University in AU. With 23 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.811924
+date: 2026-04-02T07:03:24.624587
 url: "/cdr-researcher-census/researchers/andrew-r-jones-a5066631/"
 layout: "researcher"
 hiddenInHomeList: true

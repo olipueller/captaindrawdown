@@ -1,7 +1,7 @@
 ---
 title: "Georgia C.A. French"
 description: "Georgia C.A. French is a Mid-career Ocean CDR researcher at Bournemouth University in GB. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.473983
+date: 2026-04-02T07:03:25.599779
 url: "/cdr-researcher-census/researchers/georgia-ca-french-a5077123/"
 layout: "researcher"
 hiddenInHomeList: true

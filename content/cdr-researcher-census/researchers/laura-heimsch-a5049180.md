@@ -1,7 +1,7 @@
 ---
 title: "Laura Heimsch"
 description: "Laura Heimsch is a Mid-career Soil Carbon researcher at Finnish Meteorological Institute in FI. With 23 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.290109
+date: 2026-04-02T07:03:26.812357
 url: "/cdr-researcher-census/researchers/laura-heimsch-a5049180/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Himani Karki"
 description: "Himani Karki is a Mid-career Soil Carbon researcher at Kumaun University in IN. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.918760
+date: 2026-04-02T07:03:24.781408
 url: "/cdr-researcher-census/researchers/himani-karki-a5001231/"
 layout: "researcher"
 hiddenInHomeList: true

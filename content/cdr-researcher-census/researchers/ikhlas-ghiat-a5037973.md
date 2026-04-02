@@ -1,7 +1,7 @@
 ---
 title: "Ikhlas Ghiat"
 description: "Ikhlas Ghiat is a Mid-career General CDR researcher at Hamad Bin Khalifa University in QA. With 30 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.432513
+date: 2026-04-02T07:03:24.080523
 url: "/cdr-researcher-census/researchers/ikhlas-ghiat-a5037973/"
 layout: "researcher"
 hiddenInHomeList: true

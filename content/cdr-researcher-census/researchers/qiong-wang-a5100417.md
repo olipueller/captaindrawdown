@@ -1,7 +1,7 @@
 ---
 title: "Qiong Wang"
 description: "Qiong Wang is a Senior Soil Carbon researcher at Tongji University in CN. With 94 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.224719
+date: 2026-04-02T07:03:23.807504
 url: "/cdr-researcher-census/researchers/qiong-wang-a5100417/"
 layout: "researcher"
 hiddenInHomeList: true

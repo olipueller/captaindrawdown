@@ -1,7 +1,7 @@
 ---
 title: "Ali Mohammed Saleh"
 description: "Ali Mohammed Saleh is a Senior Biochar researcher at Obuda University in HU. With 36 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.170558
+date: 2026-04-02T07:03:25.157158
 url: "/cdr-researcher-census/researchers/ali-mohammed-saleh-a5072113/"
 layout: "researcher"
 hiddenInHomeList: true

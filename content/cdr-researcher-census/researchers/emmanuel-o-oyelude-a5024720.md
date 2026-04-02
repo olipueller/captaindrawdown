@@ -1,7 +1,7 @@
 ---
 title: "Emmanuel O. Oyelude"
 description: "Emmanuel O. Oyelude is a Mid-career Biochar researcher at Biochemical Society in GB. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.453462
+date: 2026-04-02T07:03:25.566130
 url: "/cdr-researcher-census/researchers/emmanuel-o-oyelude-a5024720/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Christiane Hennig"
 description: "Christiane Hennig is a Mid-career BECCS researcher at Bioenergy Life Science (United States) in US. With 36 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.763492
+date: 2026-04-02T07:03:24.559581
 url: "/cdr-researcher-census/researchers/christiane-hennig-a5045674/"
 layout: "researcher"
 hiddenInHomeList: true

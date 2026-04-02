@@ -1,7 +1,7 @@
 ---
 title: "Zhutao Li"
 description: "Zhutao Li is a Mid-career Biochar researcher at Nanjing Agricultural University in CN. With 21 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.519391
+date: 2026-04-02T07:03:24.198715
 url: "/cdr-researcher-census/researchers/zhutao-li-a5047104/"
 layout: "researcher"
 hiddenInHomeList: true

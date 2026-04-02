@@ -1,7 +1,7 @@
 ---
 title: "Yunpeng Zhao"
 description: "Yunpeng Zhao is a Mid-career Soil Carbon researcher at University of Helsinki in FI. With 24 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.845393
+date: 2026-04-02T07:03:24.669115
 url: "/cdr-researcher-census/researchers/yunpeng-zhao-a5068975/"
 layout: "researcher"
 hiddenInHomeList: true

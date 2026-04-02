@@ -1,7 +1,7 @@
 ---
 title: "Ibtisam I. S. AlZahrani"
 description: "Ibtisam I. S. AlZahrani is an Early-career carbon dioxide removal researcher at Princess Nourah bint Abdulrahman University in SA. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.595055
+date: 2026-04-02T07:03:25.797947
 url: "/cdr-researcher-census/researchers/ibtisam-i-s-alzahrani-a5051288/"
 layout: "researcher"
 hiddenInHomeList: true

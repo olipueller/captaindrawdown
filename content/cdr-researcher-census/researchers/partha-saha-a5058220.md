@@ -1,7 +1,7 @@
 ---
 title: "Partha Saha"
 description: "Partha Saha is a Mid-career Ocean CDR researcher at University of Michigan–Ann Arbor in US. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.356272
+date: 2026-04-02T07:03:25.422269
 url: "/cdr-researcher-census/researchers/partha-saha-a5058220/"
 layout: "researcher"
 hiddenInHomeList: true

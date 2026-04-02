@@ -1,7 +1,7 @@
 ---
 title: "Hwajoo Joo"
 description: "Hwajoo Joo is a Mid-career carbon dioxide removal researcher at Seoul National University in KR. With 22 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.813952
+date: 2026-04-02T07:03:24.627100
 url: "/cdr-researcher-census/researchers/hwajoo-joo-a5073553/"
 layout: "researcher"
 hiddenInHomeList: true

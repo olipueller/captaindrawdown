@@ -1,7 +1,7 @@
 ---
 title: "Salar Ali"
 description: "Salar Ali is an Early-career Soil Carbon researcher. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.764981
+date: 2026-04-02T07:03:26.021955
 url: "/cdr-researcher-census/researchers/salar-ali-a5035184/"
 layout: "researcher"
 hiddenInHomeList: true

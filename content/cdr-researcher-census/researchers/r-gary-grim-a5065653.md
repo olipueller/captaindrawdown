@@ -1,7 +1,7 @@
 ---
 title: "R. Gary Grim"
 description: "R. Gary Grim is a Senior General CDR researcher at National Renewable Energy Laboratory in US. With 24 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.315275
+date: 2026-04-02T07:03:23.930027
 url: "/cdr-researcher-census/researchers/r-gary-grim-a5065653/"
 layout: "researcher"
 hiddenInHomeList: true

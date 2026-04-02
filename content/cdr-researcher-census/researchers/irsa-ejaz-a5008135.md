@@ -1,7 +1,7 @@
 ---
 title: "Irsa Ejaz"
 description: "Irsa Ejaz is a Mid-career Soil Carbon researcher at University of Göttingen in DE. With 31 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.973365
+date: 2026-04-02T07:03:24.867766
 url: "/cdr-researcher-census/researchers/irsa-ejaz-a5008135/"
 layout: "researcher"
 hiddenInHomeList: true

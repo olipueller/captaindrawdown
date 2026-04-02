@@ -1,7 +1,7 @@
 ---
 title: "Meng Chen"
 description: "Meng Chen is a Senior Soil Carbon researcher at Guizhou Academy of Sciences in CN. With 31 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.764082
+date: 2026-04-02T07:03:24.560594
 url: "/cdr-researcher-census/researchers/meng-chen-a5100357/"
 layout: "researcher"
 hiddenInHomeList: true

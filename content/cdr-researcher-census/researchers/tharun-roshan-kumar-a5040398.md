@@ -1,7 +1,7 @@
 ---
 title: "Tharun Roshan Kumar"
 description: "Tharun Roshan Kumar is a Mid-career BECCS researcher at Chalmers University of Technology in SE. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.254249
+date: 2026-04-02T07:03:26.755533
 url: "/cdr-researcher-census/researchers/tharun-roshan-kumar-a5040398/"
 layout: "researcher"
 hiddenInHomeList: true

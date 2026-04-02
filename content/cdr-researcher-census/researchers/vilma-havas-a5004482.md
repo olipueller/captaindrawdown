@@ -1,7 +1,7 @@
 ---
 title: "Vilma Havas"
 description: "Vilma Havas is a Mid-career carbon dioxide removal researcher. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.435116
+date: 2026-04-02T07:03:27.018996
 url: "/cdr-researcher-census/researchers/vilma-havas-a5004482/"
 layout: "researcher"
 hiddenInHomeList: true

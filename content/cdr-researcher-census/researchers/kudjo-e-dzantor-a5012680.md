@@ -1,7 +1,7 @@
 ---
 title: "Kudjo E. Dzantor"
 description: "Kudjo E. Dzantor is a Mid-career Soil Carbon researcher at Tennessee State University in US. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.538084
+date: 2026-04-02T07:03:24.230687
 url: "/cdr-researcher-census/researchers/kudjo-e-dzantor-a5012680/"
 layout: "researcher"
 hiddenInHomeList: true

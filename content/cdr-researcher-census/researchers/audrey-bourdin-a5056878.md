@@ -1,7 +1,7 @@
 ---
 title: "Audrey Bourdin"
 description: "Audrey Bourdin is a Mid-career General CDR researcher at CEA CESTA in FR. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.349335
+date: 2026-04-02T07:03:26.894909
 url: "/cdr-researcher-census/researchers/audrey-bourdin-a5056878/"
 layout: "researcher"
 hiddenInHomeList: true

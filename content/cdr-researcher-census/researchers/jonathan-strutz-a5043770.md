@@ -1,7 +1,7 @@
 ---
 title: "Jonathan Strutz"
 description: "Jonathan Strutz is a Mid-career General CDR researcher. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.653746
+date: 2026-04-02T07:03:24.396836
 url: "/cdr-researcher-census/researchers/jonathan-strutz-a5043770/"
 layout: "researcher"
 hiddenInHomeList: true

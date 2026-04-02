@@ -1,7 +1,7 @@
 ---
 title: "Jiahua Han"
 description: "Jiahua Han is a Mid-career Soil Carbon researcher at Tibet University in CN. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.769775
+date: 2026-04-02T07:03:26.029120
 url: "/cdr-researcher-census/researchers/jiahua-han-a5043016/"
 layout: "researcher"
 hiddenInHomeList: true

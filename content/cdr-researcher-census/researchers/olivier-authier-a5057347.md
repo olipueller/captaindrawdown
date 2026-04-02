@@ -1,7 +1,7 @@
 ---
 title: "Olivier Authier"
 description: "Olivier Authier is a Senior DAC researcher at Clinique Pasteur in FR. With 59 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.520339
+date: 2026-04-02T07:03:24.200137
 url: "/cdr-researcher-census/researchers/olivier-authier-a5057347/"
 layout: "researcher"
 hiddenInHomeList: true

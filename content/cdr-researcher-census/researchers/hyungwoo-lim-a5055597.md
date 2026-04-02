@@ -1,7 +1,7 @@
 ---
 title: "Hyungwoo Lim"
 description: "Hyungwoo Lim is a Mid-career Soil Carbon researcher at Swedish University of Agricultural Sciences in SE. With 57 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.728599
+date: 2026-04-02T07:03:24.506980
 url: "/cdr-researcher-census/researchers/hyungwoo-lim-a5055597/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "María Losada"
 description: "María Losada is a Mid-career Soil Carbon researcher at Mammal Research Institute in PL. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.866091
+date: 2026-04-02T07:03:26.166941
 url: "/cdr-researcher-census/researchers/maria-losada-a5087715/"
 layout: "researcher"
 hiddenInHomeList: true

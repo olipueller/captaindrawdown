@@ -1,7 +1,7 @@
 ---
 title: "Jipeng Wang"
 description: "Jipeng Wang is a Senior Soil Carbon researcher at Monmouth University in US. With 24 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.511619
+date: 2026-04-02T07:03:25.676205
 url: "/cdr-researcher-census/researchers/jipeng-wang-a5101400/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "F. Paskvan"
 description: "F. Paskvan is a Senior DAC researcher. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.546970
+date: 2026-04-02T07:03:24.244002
 url: "/cdr-researcher-census/researchers/f-paskvan-a5042875/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Chen Zhang"
 description: "Chen Zhang is a Mid-career Biochar researcher at China University of Petroleum, Beijing in CN. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.429266
+date: 2026-04-02T07:03:25.530610
 url: "/cdr-researcher-census/researchers/chen-zhang-a5077610/"
 layout: "researcher"
 hiddenInHomeList: true

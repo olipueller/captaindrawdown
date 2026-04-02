@@ -1,7 +1,7 @@
 ---
 title: "Ilmari Talvitie"
 description: "Ilmari Talvitie is an Early-career General CDR researcher at Aalto University in FI. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.419663
+date: 2026-04-02T07:03:26.994735
 url: "/cdr-researcher-census/researchers/ilmari-talvitie-a5090663/"
 layout: "researcher"
 hiddenInHomeList: true

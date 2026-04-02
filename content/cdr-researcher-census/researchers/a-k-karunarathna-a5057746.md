@@ -1,7 +1,7 @@
 ---
 title: "A. K. Karunarathna"
 description: "A. K. Karunarathna is a Senior Biochar researcher at University of Peradeniya in LK. With 59 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.884281
+date: 2026-04-02T07:03:24.725127
 url: "/cdr-researcher-census/researchers/a-k-karunarathna-a5057746/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Junqia Kong"
 description: "Junqia Kong is a Mid-career General CDR researcher at Zhejiang A & F University in CN. With 26 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.000924
+date: 2026-04-02T07:03:24.911045
 url: "/cdr-researcher-census/researchers/junqia-kong-a5074709/"
 layout: "researcher"
 hiddenInHomeList: true

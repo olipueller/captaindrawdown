@@ -1,7 +1,7 @@
 ---
 title: "Dana Fabienne Liebke"
 description: "Dana Fabienne Liebke is an Early-career Soil Carbon researcher at Klinikum Magdeburg in DE. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.039702
+date: 2026-04-02T07:03:24.964940
 url: "/cdr-researcher-census/researchers/dana-fabienne-liebke-a5083027/"
 layout: "researcher"
 hiddenInHomeList: true

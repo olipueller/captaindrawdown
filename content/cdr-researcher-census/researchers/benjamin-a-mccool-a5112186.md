@@ -1,7 +1,7 @@
 ---
 title: "Benjamin A. McCool"
 description: "Benjamin A. McCool is a Senior DAC researcher at Bridgewater College in US. With 33 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.294105
+date: 2026-04-02T07:03:23.902248
 url: "/cdr-researcher-census/researchers/benjamin-a-mccool-a5112186/"
 layout: "researcher"
 hiddenInHomeList: true

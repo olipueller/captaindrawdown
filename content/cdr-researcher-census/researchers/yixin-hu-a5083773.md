@@ -1,7 +1,7 @@
 ---
 title: "Yixin Hu"
 description: "Yixin Hu is a Mid-career General CDR researcher at Southeast University in CN. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.555743
+date: 2026-04-02T07:03:24.256024
 url: "/cdr-researcher-census/researchers/yixin-hu-a5083773/"
 layout: "researcher"
 hiddenInHomeList: true

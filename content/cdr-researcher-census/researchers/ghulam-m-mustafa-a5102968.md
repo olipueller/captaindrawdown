@@ -1,7 +1,7 @@
 ---
 title: "Ghulam M. Mustafa"
 description: "Ghulam M. Mustafa is a Senior Biochar researcher at Hainan University in CN. With 14 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.568544
+date: 2026-04-02T07:03:24.274612
 url: "/cdr-researcher-census/researchers/ghulam-m-mustafa-a5102968/"
 layout: "researcher"
 hiddenInHomeList: true

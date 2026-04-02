@@ -1,7 +1,7 @@
 ---
 title: "Guancheng Liu"
 description: "Guancheng Liu is a Mid-career Soil Carbon researcher at Guangzhou University of Chinese Medicine in CN. With 75 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.300742
+date: 2026-04-02T07:03:23.910959
 url: "/cdr-researcher-census/researchers/guancheng-liu-a5043787/"
 layout: "researcher"
 hiddenInHomeList: true

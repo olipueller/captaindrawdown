@@ -1,7 +1,7 @@
 ---
 title: "Sha Huang"
 description: "Sha Huang is a Mid-career Soil Carbon researcher at Fudan University in CN. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.088277
+date: 2026-04-02T07:03:25.037365
 url: "/cdr-researcher-census/researchers/sha-huang-a5101953/"
 layout: "researcher"
 hiddenInHomeList: true

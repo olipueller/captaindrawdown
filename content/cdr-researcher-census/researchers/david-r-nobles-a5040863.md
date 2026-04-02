@@ -1,7 +1,7 @@
 ---
 title: "David R. Nobles"
 description: "David R. Nobles is a Senior DAC researcher at The University of Texas at Austin in US. With 27 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.510563
+date: 2026-04-02T07:03:24.186681
 url: "/cdr-researcher-census/researchers/david-r-nobles-a5040863/"
 layout: "researcher"
 hiddenInHomeList: true

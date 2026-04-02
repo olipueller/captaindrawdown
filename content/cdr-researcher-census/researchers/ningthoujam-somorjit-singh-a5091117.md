@@ -1,7 +1,7 @@
 ---
 title: "Ningthoujam Somorjit Singh"
 description: "Ningthoujam Somorjit Singh is a Mid-career Biochar researcher at Indian Institute of Technology Guwahati in IN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.883656
+date: 2026-04-02T07:03:26.191891
 url: "/cdr-researcher-census/researchers/ningthoujam-somorjit-singh-a5091117/"
 layout: "researcher"
 hiddenInHomeList: true

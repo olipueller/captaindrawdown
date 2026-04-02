@@ -1,7 +1,7 @@
 ---
 title: "Jean-Christophe Mouny"
 description: "Jean-Christophe Mouny is a Mid-career General CDR researcher at Territoires in FR. With 6 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.036451
+date: 2026-04-02T07:03:26.414842
 url: "/cdr-researcher-census/researchers/jean-christophe-mouny-a5077136/"
 layout: "researcher"
 hiddenInHomeList: true

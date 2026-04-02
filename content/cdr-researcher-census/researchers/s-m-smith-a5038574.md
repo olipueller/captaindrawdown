@@ -1,7 +1,7 @@
 ---
 title: "S. M. Smith"
 description: "S. M. Smith is a Senior General CDR researcher at University of Oxford in GB. With 31 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.753768
+date: 2026-04-02T07:03:24.544994
 url: "/cdr-researcher-census/researchers/s-m-smith-a5038574/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Carlos Eduardo Pellegrino Cerri"
 description: "Carlos Eduardo Pellegrino Cerri is an Eminent Soil Carbon researcher at University of Sao Paulo in BR. With 545 publications and an h-index of 87, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.076479
+date: 2026-04-02T07:03:23.618719
 url: "/cdr-researcher-census/researchers/carlos-eduardo-pellegrino-cerri-a5082434/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Torsti Schulz"
 description: "Torsti Schulz is a Mid-career Soil Carbon researcher at University of Helsinki in FI. With 24 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.956416
+date: 2026-04-02T07:03:24.840334
 url: "/cdr-researcher-census/researchers/torsti-schulz-a5025784/"
 layout: "researcher"
 hiddenInHomeList: true

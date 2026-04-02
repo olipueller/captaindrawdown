@@ -1,7 +1,7 @@
 ---
 title: "Ahmad Salam Farooqi"
 description: "Ahmad Salam Farooqi is a Senior carbon dioxide removal researcher at King Fahd University of Petroleum and Minerals in SA. With 55 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.450919
+date: 2026-04-02T07:03:24.105960
 url: "/cdr-researcher-census/researchers/ahmad-salam-farooqi-a5070134/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Robert Link"
 description: "Robert Link is a Senior DAC researcher at Wake Forest University in US. With 17 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.425661
+date: 2026-04-02T07:03:27.004922
 url: "/cdr-researcher-census/researchers/robert-link-a5038666/"
 layout: "researcher"
 hiddenInHomeList: true

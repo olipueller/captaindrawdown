@@ -1,7 +1,7 @@
 ---
 title: "Joaquín Ortiz"
 description: "Joaquín Ortiz is a Mid-career Ocean CDR researcher at Universidad de Las Palmas de Gran Canaria in ES. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.469478
+date: 2026-04-02T07:03:25.592704
 url: "/cdr-researcher-census/researchers/joaquin-ortiz-a5011197/"
 layout: "researcher"
 hiddenInHomeList: true

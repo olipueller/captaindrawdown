@@ -1,7 +1,7 @@
 ---
 title: "Ming Foong Tiang"
 description: "Ming Foong Tiang is a Mid-career carbon dioxide removal researcher at National University of Malaysia in MY. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.548966
+date: 2026-04-02T07:03:25.729791
 url: "/cdr-researcher-census/researchers/ming-foong-tiang-a5052511/"
 layout: "researcher"
 hiddenInHomeList: true

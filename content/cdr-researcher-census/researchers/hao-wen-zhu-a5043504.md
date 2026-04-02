@@ -1,7 +1,7 @@
 ---
 title: "Hao Wen Zhu"
 description: "Hao Wen Zhu is a Mid-career Biochar researcher at Anhui University of Science and Technology in CN. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.409312
+date: 2026-04-02T07:03:26.979545
 url: "/cdr-researcher-census/researchers/hao-wen-zhu-a5043504/"
 layout: "researcher"
 hiddenInHomeList: true

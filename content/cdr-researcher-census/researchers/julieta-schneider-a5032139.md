@@ -1,7 +1,7 @@
 ---
 title: "Julieta Schneider"
 description: "Julieta Schneider is a Senior Ocean CDR researcher at GEOMAR Helmholtz Centre for Ocean Research Kiel in DE. With 22 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.137668
+date: 2026-04-02T07:03:25.110517
 url: "/cdr-researcher-census/researchers/julieta-schneider-a5032139/"
 layout: "researcher"
 hiddenInHomeList: true

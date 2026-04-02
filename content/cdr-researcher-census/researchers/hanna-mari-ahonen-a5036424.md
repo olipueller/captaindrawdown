@@ -1,7 +1,7 @@
 ---
 title: "Hanna-Mari Ahonen"
 description: "Hanna-Mari Ahonen is a Mid-career General CDR researcher. With 21 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.714783
+date: 2026-04-02T07:03:25.983169
 url: "/cdr-researcher-census/researchers/hanna-mari-ahonen-a5036424/"
 layout: "researcher"
 hiddenInHomeList: true

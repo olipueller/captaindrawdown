@@ -1,7 +1,7 @@
 ---
 title: "Tessa Camenzind"
 description: "Tessa Camenzind is a Mid-career Soil Carbon researcher at Freie Universität Berlin in DE. With 56 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.237123
+date: 2026-04-02T07:03:23.821634
 url: "/cdr-researcher-census/researchers/tessa-camenzind-a5024272/"
 layout: "researcher"
 hiddenInHomeList: true

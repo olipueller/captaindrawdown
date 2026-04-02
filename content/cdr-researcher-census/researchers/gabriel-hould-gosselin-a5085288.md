@@ -1,7 +1,7 @@
 ---
 title: "Gabriel Hould Gosselin"
 description: "Gabriel Hould Gosselin is a Senior Soil Carbon researcher at Northumbria University in GB. With 55 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.128942
+date: 2026-04-02T07:03:25.097723
 url: "/cdr-researcher-census/researchers/gabriel-hould-gosselin-a5085288/"
 layout: "researcher"
 hiddenInHomeList: true

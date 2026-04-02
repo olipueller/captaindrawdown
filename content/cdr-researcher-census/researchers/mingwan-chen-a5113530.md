@@ -1,7 +1,7 @@
 ---
 title: "Mingwan Chen"
 description: "Mingwan Chen is a Senior Biochar researcher at Hainan University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.525632
+date: 2026-04-02T07:03:25.696083
 url: "/cdr-researcher-census/researchers/mingwan-chen-a5113530/"
 layout: "researcher"
 hiddenInHomeList: true

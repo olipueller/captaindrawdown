@@ -1,7 +1,7 @@
 ---
 title: "Munaza Naseem"
 description: "Munaza Naseem is an Early-career Biochar researcher at University of Agriculture Faisalabad in PK. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.747140
+date: 2026-04-02T07:03:24.535381
 url: "/cdr-researcher-census/researchers/munaza-naseem-a5110806/"
 layout: "researcher"
 hiddenInHomeList: true

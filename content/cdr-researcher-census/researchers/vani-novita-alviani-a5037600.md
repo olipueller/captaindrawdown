@@ -1,7 +1,7 @@
 ---
 title: "Vani Novita Alviani"
 description: "Vani Novita Alviani is a Mid-career BECCS researcher at Tohoku University in JP. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.128138
+date: 2026-04-02T07:03:25.096369
 url: "/cdr-researcher-census/researchers/vani-novita-alviani-a5037600/"
 layout: "researcher"
 hiddenInHomeList: true

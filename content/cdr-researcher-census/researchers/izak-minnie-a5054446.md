@@ -1,7 +1,7 @@
 ---
 title: "Izak Minnie"
 description: "Izak Minnie is an Early-career carbon dioxide removal researcher. With 5 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.277417
+date: 2026-04-02T07:03:26.792653
 url: "/cdr-researcher-census/researchers/izak-minnie-a5054446/"
 layout: "researcher"
 hiddenInHomeList: true

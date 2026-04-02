@@ -1,7 +1,7 @@
 ---
 title: "Alisson Aparecido Vitoriano Julio"
 description: "Alisson Aparecido Vitoriano Julio is a Mid-career BECCS researcher at Aalborg University in DK. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.040893
+date: 2026-04-02T07:03:24.966606
 url: "/cdr-researcher-census/researchers/alisson-aparecido-vitoriano-julio-a5033145/"
 layout: "researcher"
 hiddenInHomeList: true

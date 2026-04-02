@@ -1,7 +1,7 @@
 ---
 title: "Zhiheng Zhao"
 description: "Zhiheng Zhao is a Mid-career Soil Carbon researcher at Capital University in US. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.635486
+date: 2026-04-02T07:03:25.858287
 url: "/cdr-researcher-census/researchers/zhiheng-zhao-a5104255/"
 layout: "researcher"
 hiddenInHomeList: true

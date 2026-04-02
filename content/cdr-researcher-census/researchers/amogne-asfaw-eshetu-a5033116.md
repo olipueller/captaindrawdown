@@ -1,7 +1,7 @@
 ---
 title: "Amogne Asfaw Eshetu"
 description: "Amogne Asfaw Eshetu is a Mid-career carbon dioxide removal researcher at Wollo University in ET. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.852762
+date: 2026-04-02T07:03:26.147977
 url: "/cdr-researcher-census/researchers/amogne-asfaw-eshetu-a5033116/"
 layout: "researcher"
 hiddenInHomeList: true

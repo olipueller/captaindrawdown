@@ -1,7 +1,7 @@
 ---
 title: "Daniel Posen"
 description: "Daniel Posen is a Mid-career General CDR researcher at University of Toronto in CA. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.901758
+date: 2026-04-02T07:03:26.217782
 url: "/cdr-researcher-census/researchers/daniel-posen-a5027501/"
 layout: "researcher"
 hiddenInHomeList: true

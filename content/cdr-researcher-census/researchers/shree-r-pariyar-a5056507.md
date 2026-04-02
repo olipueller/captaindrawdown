@@ -1,7 +1,7 @@
 ---
 title: "Shree R. Pariyar"
 description: "Shree R. Pariyar is a Senior Soil Carbon researcher at Salk Institute for Biological Studies in US. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.234503
+date: 2026-04-02T07:03:25.255850
 url: "/cdr-researcher-census/researchers/shree-r-pariyar-a5056507/"
 layout: "researcher"
 hiddenInHomeList: true

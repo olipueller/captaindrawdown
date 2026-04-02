@@ -1,7 +1,7 @@
 ---
 title: "Fuchang Jiang"
 description: "Fuchang Jiang is an Early-career Soil Carbon researcher at Tarim University in CN. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.121815
+date: 2026-04-02T07:03:26.537258
 url: "/cdr-researcher-census/researchers/fuchang-jiang-a5088413/"
 layout: "researcher"
 hiddenInHomeList: true

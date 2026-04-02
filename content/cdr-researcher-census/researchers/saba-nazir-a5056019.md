@@ -1,7 +1,7 @@
 ---
 title: "Saba Nazir"
 description: "Saba Nazir is a Mid-career Soil Carbon researcher at University of Lahore in PK. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.268188
+date: 2026-04-02T07:03:25.296583
 url: "/cdr-researcher-census/researchers/saba-nazir-a5056019/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Saeed Mofatteh"
 description: "Saeed Mofatteh is an Early-career Biochar researcher at University of Tehran in IR. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.008559
+date: 2026-04-02T07:03:26.373415
 url: "/cdr-researcher-census/researchers/saeed-mofatteh-a5099183/"
 layout: "researcher"
 hiddenInHomeList: true

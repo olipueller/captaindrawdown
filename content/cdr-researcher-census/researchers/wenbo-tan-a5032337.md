@@ -1,7 +1,7 @@
 ---
 title: "Wenbo Tan"
 description: "Wenbo Tan is a Mid-career carbon dioxide removal researcher at Heilongjiang University in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.774387
+date: 2026-04-02T07:03:26.035861
 url: "/cdr-researcher-census/researchers/wenbo-tan-a5032337/"
 layout: "researcher"
 hiddenInHomeList: true

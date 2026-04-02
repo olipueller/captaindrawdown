@@ -1,7 +1,7 @@
 ---
 title: "Saad khudhur Mohammed"
 description: "Saad khudhur Mohammed is an Early-career carbon dioxide removal researcher. With 1 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.689741
+date: 2026-04-02T07:03:25.942952
 url: "/cdr-researcher-census/researchers/saad-khudhur-mohammed-a5113221/"
 layout: "researcher"
 hiddenInHomeList: true

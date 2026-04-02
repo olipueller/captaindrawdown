@@ -1,7 +1,7 @@
 ---
 title: "Diego Marazza"
 description: "Diego Marazza is a Senior Biochar researcher at University of Bologna in IT. With 73 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.619761
+date: 2026-04-02T07:03:24.348521
 url: "/cdr-researcher-census/researchers/diego-marazza-a5076670/"
 layout: "researcher"
 hiddenInHomeList: true

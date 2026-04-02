@@ -1,7 +1,7 @@
 ---
 title: "Roxana Paola Eclesia"
 description: "Roxana Paola Eclesia is a Mid-career General CDR researcher at Universidad Autónoma de Entre Ríos in AR. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.188182
+date: 2026-04-02T07:03:25.182854
 url: "/cdr-researcher-census/researchers/roxana-paola-eclesia-a5066537/"
 layout: "researcher"
 hiddenInHomeList: true

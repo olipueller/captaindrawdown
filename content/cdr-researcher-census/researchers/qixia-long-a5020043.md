@@ -1,7 +1,7 @@
 ---
 title: "Qixia Long"
 description: "Qixia Long is an Early-career Soil Carbon researcher at Guizhou Normal University in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.918957
+date: 2026-04-02T07:03:26.243792
 url: "/cdr-researcher-census/researchers/qixia-long-a5020043/"
 layout: "researcher"
 hiddenInHomeList: true

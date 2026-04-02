@@ -1,7 +1,7 @@
 ---
 title: "Margherita Barchiesi"
 description: "Margherita Barchiesi is a Mid-career Biochar researcher at Sapienza University of Rome in IT. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.650084
+date: 2026-04-02T07:03:25.882088
 url: "/cdr-researcher-census/researchers/margherita-barchiesi-a5037693/"
 layout: "researcher"
 hiddenInHomeList: true

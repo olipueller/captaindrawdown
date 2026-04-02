@@ -1,7 +1,7 @@
 ---
 title: "Zhiqing Zhuo"
 description: "Zhiqing Zhuo is a Mid-career Soil Carbon researcher at ZheJiang Academy of Agricultural Sciences in CN. With 20 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.948270
+date: 2026-04-02T07:03:24.828036
 url: "/cdr-researcher-census/researchers/zhiqing-zhuo-a5042623/"
 layout: "researcher"
 hiddenInHomeList: true

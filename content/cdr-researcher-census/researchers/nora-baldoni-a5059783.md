@@ -1,7 +1,7 @@
 ---
 title: "Nora Baldoni"
 description: "Nora Baldoni is a Mid-career General CDR researcher at Marche Polytechnic University in IT. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.984577
+date: 2026-04-02T07:03:26.336882
 url: "/cdr-researcher-census/researchers/nora-baldoni-a5059783/"
 layout: "researcher"
 hiddenInHomeList: true

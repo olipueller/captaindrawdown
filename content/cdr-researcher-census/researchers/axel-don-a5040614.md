@@ -1,7 +1,7 @@
 ---
 title: "Axel Don"
 description: "Axel Don is an Eminent Soil Carbon researcher at Thünen-Institute of Climate-Smart Agriculture in DE. With 303 publications and an h-index of 61, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.083420
+date: 2026-04-02T07:03:23.627199
 url: "/cdr-researcher-census/researchers/axel-don-a5040614/"
 layout: "researcher"
 hiddenInHomeList: true

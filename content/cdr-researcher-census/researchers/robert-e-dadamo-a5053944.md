@@ -1,7 +1,7 @@
 ---
 title: "Robert E. D’Adamo"
 description: "Robert E. D’Adamo is a Senior Soil Carbon researcher at Agricultural Research Service in US. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.656992
+date: 2026-04-02T07:03:25.892862
 url: "/cdr-researcher-census/researchers/robert-e-dadamo-a5053944/"
 layout: "researcher"
 hiddenInHomeList: true

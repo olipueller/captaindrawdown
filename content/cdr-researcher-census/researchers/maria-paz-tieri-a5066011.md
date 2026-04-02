@@ -1,7 +1,7 @@
 ---
 title: "María Paz Tieri"
 description: "María Paz Tieri is a Mid-career General CDR researcher at National Technological University in AR. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.147313
+date: 2026-04-02T07:03:25.124683
 url: "/cdr-researcher-census/researchers/maria-paz-tieri-a5066011/"
 layout: "researcher"
 hiddenInHomeList: true

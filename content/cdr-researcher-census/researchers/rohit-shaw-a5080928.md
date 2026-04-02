@@ -1,7 +1,7 @@
 ---
 title: "Rohit Shaw"
 description: "Rohit Shaw is a Mid-career General CDR researcher at Indian Institute of Technology Bombay in IN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.480511
+date: 2026-04-02T07:03:25.632189
 url: "/cdr-researcher-census/researchers/rohit-shaw-a5080928/"
 layout: "researcher"
 hiddenInHomeList: true

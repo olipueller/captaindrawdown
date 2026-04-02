@@ -1,7 +1,7 @@
 ---
 title: "Shijing Liang"
 description: "Shijing Liang is a Mid-career Soil Carbon researcher at Hong Kong Polytechnic University in HK. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.103951
+date: 2026-04-02T07:03:25.060965
 url: "/cdr-researcher-census/researchers/shijing-liang-a5062836/"
 layout: "researcher"
 hiddenInHomeList: true

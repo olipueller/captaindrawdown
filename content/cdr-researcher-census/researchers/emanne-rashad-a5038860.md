@@ -1,7 +1,7 @@
 ---
 title: "Emanne Rashad"
 description: "Emanne Rashad is a Mid-career Biochar researcher at Alexandria University in EG. With 8 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.586668
+date: 2026-04-02T07:03:24.299684
 url: "/cdr-researcher-census/researchers/emanne-rashad-a5038860/"
 layout: "researcher"
 hiddenInHomeList: true

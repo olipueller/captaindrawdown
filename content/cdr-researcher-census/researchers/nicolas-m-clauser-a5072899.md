@@ -1,7 +1,7 @@
 ---
 title: "Nicolás M. Clauser"
 description: "Nicolás M. Clauser is a Mid-career General CDR researcher at North Carolina State University in US. With 46 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.563303
+date: 2026-04-02T07:03:24.267242
 url: "/cdr-researcher-census/researchers/nicolas-m-clauser-a5072899/"
 layout: "researcher"
 hiddenInHomeList: true

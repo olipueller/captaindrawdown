@@ -1,7 +1,7 @@
 ---
 title: "Ling Wang"
 description: "Ling Wang is a Senior Soil Carbon researcher at Zhejiang Chinese Medical University in CN. With 128 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.165461
+date: 2026-04-02T07:03:23.730059
 url: "/cdr-researcher-census/researchers/ling-wang-a5100398/"
 layout: "researcher"
 hiddenInHomeList: true

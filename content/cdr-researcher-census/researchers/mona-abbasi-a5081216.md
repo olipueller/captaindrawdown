@@ -1,7 +1,7 @@
 ---
 title: "Mona Abbasi"
 description: "Mona Abbasi is a Mid-career Soil Carbon researcher at Uppsala University in SE. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.968012
+date: 2026-04-02T07:03:26.318562
 url: "/cdr-researcher-census/researchers/mona-abbasi-a5081216/"
 layout: "researcher"
 hiddenInHomeList: true

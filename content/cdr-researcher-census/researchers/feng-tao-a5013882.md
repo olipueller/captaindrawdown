@@ -1,7 +1,7 @@
 ---
 title: "Feng Tao"
 description: "Feng Tao is a Senior Enhanced Weathering researcher at Pennsylvania State University in US. With 58 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.389078
+date: 2026-04-02T07:03:24.026556
 url: "/cdr-researcher-census/researchers/feng-tao-a5013882/"
 layout: "researcher"
 hiddenInHomeList: true

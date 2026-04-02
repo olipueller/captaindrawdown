@@ -1,7 +1,7 @@
 ---
 title: "Erica Lilles"
 description: "Erica Lilles is a Mid-career Soil Carbon researcher at Government of British Columbia in CA. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.281945
+date: 2026-04-02T07:03:25.314831
 url: "/cdr-researcher-census/researchers/erica-lilles-a5045737/"
 layout: "researcher"
 hiddenInHomeList: true

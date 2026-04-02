@@ -1,7 +1,7 @@
 ---
 title: "Kazem Zamanian"
 description: "Kazem Zamanian is a Senior Soil Carbon researcher at Gottfried Wilhelm Leibniz Universität Hannover in DE. With 130 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.161837
+date: 2026-04-02T07:03:23.723939
 url: "/cdr-researcher-census/researchers/kazem-zamanian-a5039651/"
 layout: "researcher"
 hiddenInHomeList: true

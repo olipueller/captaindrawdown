@@ -1,7 +1,7 @@
 ---
 title: "B. R. Singh"
 description: "B. R. Singh is a Senior General CDR researcher at Chitwan Medical College in NP. With 14 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.924441
+date: 2026-04-02T07:03:26.255327
 url: "/cdr-researcher-census/researchers/b-r-singh-a5024697/"
 layout: "researcher"
 hiddenInHomeList: true

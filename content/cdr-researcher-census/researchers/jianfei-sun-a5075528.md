@@ -1,7 +1,7 @@
 ---
 title: "Jianfei Sun"
 description: "Jianfei Sun is a Senior Soil Carbon researcher at Ministry of Ecology and Environment in CN. With 34 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.434265
+date: 2026-04-02T07:03:24.082865
 url: "/cdr-researcher-census/researchers/jianfei-sun-a5075528/"
 layout: "researcher"
 hiddenInHomeList: true

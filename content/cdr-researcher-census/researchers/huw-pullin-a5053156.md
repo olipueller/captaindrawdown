@@ -1,7 +1,7 @@
 ---
 title: "Huw Pullin"
 description: "Huw Pullin is a Mid-career Enhanced Weathering researcher at Cardiff University in GB. With 17 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.722263
+date: 2026-04-02T07:03:24.498145
 url: "/cdr-researcher-census/researchers/huw-pullin-a5053156/"
 layout: "researcher"
 hiddenInHomeList: true

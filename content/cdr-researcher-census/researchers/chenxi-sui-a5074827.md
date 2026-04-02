@@ -1,7 +1,7 @@
 ---
 title: "Chenxi Sui"
 description: "Chenxi Sui is a Mid-career DAC researcher at University of Chicago in US. With 33 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.328244
+date: 2026-04-02T07:03:23.947503
 url: "/cdr-researcher-census/researchers/chenxi-sui-a5074827/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jenny Frank"
 description: "Jenny Frank is a Mid-career Biochar researcher at Purchase College in US. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.051377
+date: 2026-04-02T07:03:26.439357
 url: "/cdr-researcher-census/researchers/jenny-frank-a5017418/"
 layout: "researcher"
 hiddenInHomeList: true

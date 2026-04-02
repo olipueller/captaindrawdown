@@ -1,7 +1,7 @@
 ---
 title: "Edward Luy"
 description: "Edward Luy is a Mid-career General CDR researcher at Dalhousie University in CA. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.276632
+date: 2026-04-02T07:03:26.791458
 url: "/cdr-researcher-census/researchers/edward-luy-a5075639/"
 layout: "researcher"
 hiddenInHomeList: true

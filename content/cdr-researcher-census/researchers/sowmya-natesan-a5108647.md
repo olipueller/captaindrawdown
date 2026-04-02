@@ -1,7 +1,7 @@
 ---
 title: "Sowmya Natesan"
 description: "Sowmya Natesan is a Senior Soil Carbon researcher at Government Medical College in IN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.259593
+date: 2026-04-02T07:03:25.286193
 url: "/cdr-researcher-census/researchers/sowmya-natesan-a5108647/"
 layout: "researcher"
 hiddenInHomeList: true

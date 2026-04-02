@@ -1,7 +1,7 @@
 ---
 title: "Emily Rodriguez"
 description: "Emily Rodriguez is a Mid-career General CDR researcher at Association of Research Libraries in US. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.575576
+date: 2026-04-02T07:03:25.768612
 url: "/cdr-researcher-census/researchers/emily-rodriguez-a5046208/"
 layout: "researcher"
 hiddenInHomeList: true

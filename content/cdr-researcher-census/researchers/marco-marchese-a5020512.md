@@ -1,7 +1,7 @@
 ---
 title: "Marco Marchese"
 description: "Marco Marchese is a Mid-career DAC researcher at Polytechnic University of Turin in IT. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.246721
+date: 2026-04-02T07:03:25.270029
 url: "/cdr-researcher-census/researchers/marco-marchese-a5020512/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Cédric Deluz"
 description: "Cédric Deluz is a Senior Soil Carbon researcher at HES-SO University of Applied Sciences and Arts Western Switzerland in CH. With 40 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.395442
+date: 2026-04-02T07:03:24.033198
 url: "/cdr-researcher-census/researchers/cedric-deluz-a5052124/"
 layout: "researcher"
 hiddenInHomeList: true

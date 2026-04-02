@@ -1,7 +1,7 @@
 ---
 title: "Agapi Vasileiadou"
 description: "Agapi Vasileiadou is a Mid-career BECCS researcher at University of Thessaly in GR. With 18 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.357000
+date: 2026-04-02T07:03:25.423374
 url: "/cdr-researcher-census/researchers/agapi-vasileiadou-a5010706/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Rongqin Zhao"
 description: "Rongqin Zhao is a Senior Soil Carbon researcher at North China University of Water Resources and Electric Power in CN. With 78 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.219800
+date: 2026-04-02T07:03:23.801866
 url: "/cdr-researcher-census/researchers/rongqin-zhao-a5109274/"
 layout: "researcher"
 hiddenInHomeList: true

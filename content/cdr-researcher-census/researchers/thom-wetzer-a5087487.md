@@ -1,7 +1,7 @@
 ---
 title: "Thom Wetzer"
 description: "Thom Wetzer is a Mid-career General CDR researcher at University of Oxford in GB. With 45 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.338555
+date: 2026-04-02T07:03:23.961576
 url: "/cdr-researcher-census/researchers/thom-wetzer-a5087487/"
 layout: "researcher"
 hiddenInHomeList: true

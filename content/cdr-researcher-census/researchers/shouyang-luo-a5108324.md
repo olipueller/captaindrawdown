@@ -1,7 +1,7 @@
 ---
 title: "Shouyang Luo"
 description: "Shouyang Luo is a Mid-career Soil Carbon researcher at Northeast Institute of Geography and Agroecology in CN. With 23 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.806627
+date: 2026-04-02T07:03:26.082266
 url: "/cdr-researcher-census/researchers/shouyang-luo-a5108324/"
 layout: "researcher"
 hiddenInHomeList: true

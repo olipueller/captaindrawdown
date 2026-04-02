@@ -1,7 +1,7 @@
 ---
 title: "Simon Weldon"
 description: "Simon Weldon is a Mid-career General CDR researcher at Norwegian Institute for Bioeconomy in NO. With 32 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.638064
+date: 2026-04-02T07:03:24.372783
 url: "/cdr-researcher-census/researchers/simon-weldon-a5061594/"
 layout: "researcher"
 hiddenInHomeList: true

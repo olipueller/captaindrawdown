@@ -1,7 +1,7 @@
 ---
 title: "Irene Criscuoli"
 description: "Irene Criscuoli is a Mid-career General CDR researcher at Ministry of Agricultural, Food and Forestry Policies in IT. With 30 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.116057
+date: 2026-04-02T07:03:25.078396
 url: "/cdr-researcher-census/researchers/irene-criscuoli-a5033074/"
 layout: "researcher"
 hiddenInHomeList: true

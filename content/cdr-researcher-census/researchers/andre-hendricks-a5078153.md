@@ -1,7 +1,7 @@
 ---
 title: "Andre Hendricks"
 description: "Andre Hendricks is a Mid-career General CDR researcher at Dalhousie University in CA. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.177966
+date: 2026-04-02T07:03:26.635087
 url: "/cdr-researcher-census/researchers/andre-hendricks-a5078153/"
 layout: "researcher"
 hiddenInHomeList: true

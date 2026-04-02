@@ -1,7 +1,7 @@
 ---
 title: "De Shorn E. Bramble"
 description: "De Shorn E. Bramble is a Mid-career Soil Carbon researcher. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.097252
+date: 2026-04-02T07:03:26.502653
 url: "/cdr-researcher-census/researchers/de-shorn-e-bramble-a5068812/"
 layout: "researcher"
 hiddenInHomeList: true

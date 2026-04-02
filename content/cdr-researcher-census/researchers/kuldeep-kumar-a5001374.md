@@ -1,7 +1,7 @@
 ---
 title: "Kuldeep Kumar"
 description: "Kuldeep Kumar is a Senior General CDR researcher. With 23 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.886946
+date: 2026-04-02T07:03:24.729856
 url: "/cdr-researcher-census/researchers/kuldeep-kumar-a5001374/"
 layout: "researcher"
 hiddenInHomeList: true

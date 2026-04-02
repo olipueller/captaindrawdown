@@ -1,7 +1,7 @@
 ---
 title: "Louise Giles"
 description: "Louise Giles is a Mid-career General CDR researcher at Lancaster University in GB. With 15 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.776318
+date: 2026-04-02T07:03:24.577689
 url: "/cdr-researcher-census/researchers/louise-giles-a5112647/"
 layout: "researcher"
 hiddenInHomeList: true

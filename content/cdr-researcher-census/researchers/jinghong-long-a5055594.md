@@ -1,7 +1,7 @@
 ---
 title: "Jinghong Long"
 description: "Jinghong Long is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.905161
+date: 2026-04-02T07:03:26.222634
 url: "/cdr-researcher-census/researchers/jinghong-long-a5055594/"
 layout: "researcher"
 hiddenInHomeList: true

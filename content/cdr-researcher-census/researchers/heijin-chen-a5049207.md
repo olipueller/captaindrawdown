@@ -1,7 +1,7 @@
 ---
 title: "Heijin Chen"
 description: "Heijin Chen is a Mid-career carbon dioxide removal researcher at Southern University of Science and Technology in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.067701
+date: 2026-04-02T07:03:26.461849
 url: "/cdr-researcher-census/researchers/heijin-chen-a5049207/"
 layout: "researcher"
 hiddenInHomeList: true

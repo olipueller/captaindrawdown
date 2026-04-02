@@ -1,7 +1,7 @@
 ---
 title: "P. S. Yadava"
 description: "P. S. Yadava is a Senior Soil Carbon researcher at Birsa Agricultural University in IN. With 37 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.557787
+date: 2026-04-02T07:03:24.259130
 url: "/cdr-researcher-census/researchers/p-s-yadava-a5084718/"
 layout: "researcher"
 hiddenInHomeList: true

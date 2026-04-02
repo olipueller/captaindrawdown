@@ -1,7 +1,7 @@
 ---
 title: "Yamina Micaela Rosas"
 description: "Yamina Micaela Rosas is a Mid-career Soil Carbon researcher at Københavns Universitet in DK. With 57 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.595112
+date: 2026-04-02T07:03:24.312737
 url: "/cdr-researcher-census/researchers/yamina-micaela-rosas-a5052876/"
 layout: "researcher"
 hiddenInHomeList: true

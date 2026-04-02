@@ -1,7 +1,7 @@
 ---
 title: "Kyle Newport"
 description: "Kyle Newport is a Mid-career DAC researcher at All-Russian Research Institute for Optical and Physical Measurements in RU. With 22 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.734946
+date: 2026-04-02T07:03:24.517184
 url: "/cdr-researcher-census/researchers/kyle-newport-a5034718/"
 layout: "researcher"
 hiddenInHomeList: true

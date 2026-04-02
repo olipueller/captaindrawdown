@@ -1,7 +1,7 @@
 ---
 title: "María-Jimena Muciño-Bermejo"
 description: "María-Jimena Muciño-Bermejo is a Mid-career carbon dioxide removal researcher at Universidad Anáhuac in MX. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.416768
+date: 2026-04-02T07:03:25.513304
 url: "/cdr-researcher-census/researchers/maria-jimena-mucino-bermejo-a5031442/"
 layout: "researcher"
 hiddenInHomeList: true

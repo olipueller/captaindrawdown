@@ -1,7 +1,7 @@
 ---
 title: "Amirjavad Ahmadian Hosseini"
 description: "Amirjavad Ahmadian Hosseini is a Mid-career carbon dioxide removal researcher at Florida Atlantic University in US. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.629683
+date: 2026-04-02T07:03:25.849547
 url: "/cdr-researcher-census/researchers/amirjavad-ahmadian-hosseini-a5020627/"
 layout: "researcher"
 hiddenInHomeList: true

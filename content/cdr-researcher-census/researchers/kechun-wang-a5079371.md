@@ -1,7 +1,7 @@
 ---
 title: "Kechun Wang"
 description: "Kechun Wang is a Senior Soil Carbon researcher at Agriculture and Forestry University in NP. With 39 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.697652
+date: 2026-04-02T07:03:25.955613
 url: "/cdr-researcher-census/researchers/kechun-wang-a5079371/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Puttipong Tantikhajorngosol"
 description: "Puttipong Tantikhajorngosol is a Mid-career BECCS researcher. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.128328
+date: 2026-04-02T07:03:25.096681
 url: "/cdr-researcher-census/researchers/puttipong-tantikhajorngosol-a5000987/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Thomas Götz"
 description: "Thomas Götz is a Mid-career carbon dioxide removal researcher at Wuppertal Institute for Climate, Environment and Energy in DE. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.167255
+date: 2026-04-02T07:03:25.151630
 url: "/cdr-researcher-census/researchers/thomas-gotz-a5074971/"
 layout: "researcher"
 hiddenInHomeList: true

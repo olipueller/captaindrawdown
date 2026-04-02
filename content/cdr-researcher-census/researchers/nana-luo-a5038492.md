@@ -1,7 +1,7 @@
 ---
 title: "Nana Luo"
 description: "Nana Luo is a Mid-career Soil Carbon researcher at Scripps Institution of Oceanography in US. With 94 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.503901
+date: 2026-04-02T07:03:24.177302
 url: "/cdr-researcher-census/researchers/nana-luo-a5038492/"
 layout: "researcher"
 hiddenInHomeList: true

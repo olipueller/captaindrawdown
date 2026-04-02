@@ -1,7 +1,7 @@
 ---
 title: "Miho Ariyoshi"
 description: "Miho Ariyoshi is a Mid-career carbon dioxide removal researcher at Institute of Systems, Information Technologies and Nanotechnologies in JP. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.941322
+date: 2026-04-02T07:03:24.817027
 url: "/cdr-researcher-census/researchers/miho-ariyoshi-a5068745/"
 layout: "researcher"
 hiddenInHomeList: true

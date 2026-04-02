@@ -1,7 +1,7 @@
 ---
 title: "Loretta G. Garrett"
 description: "Loretta G. Garrett is a Senior Soil Carbon researcher at Scion in NZ. With 58 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.578440
+date: 2026-04-02T07:03:24.288671
 url: "/cdr-researcher-census/researchers/loretta-g-garrett-a5021160/"
 layout: "researcher"
 hiddenInHomeList: true

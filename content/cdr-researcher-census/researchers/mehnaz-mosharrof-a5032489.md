@@ -1,7 +1,7 @@
 ---
 title: "Mehnaz Mosharrof"
 description: "Mehnaz Mosharrof is a Mid-career Biochar researcher at Universiti Putra Malaysia in MY. With 10 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.297568
+date: 2026-04-02T07:03:25.338855
 url: "/cdr-researcher-census/researchers/mehnaz-mosharrof-a5032489/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jitka Přichystalová"
 description: "Jitka Přichystalová is a Mid-career Soil Carbon researcher at Mendel University in Brno in CZ. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.202137
+date: 2026-04-02T07:03:26.683098
 url: "/cdr-researcher-census/researchers/jitka-prichystalova-a5085054/"
 layout: "researcher"
 hiddenInHomeList: true

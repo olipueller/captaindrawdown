@@ -1,7 +1,7 @@
 ---
 title: "Andrea L. Ambrosio"
 description: "Andrea L. Ambrosio is a Senior Biochar researcher at Colorado State University in US. With 22 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.468693
+date: 2026-04-02T07:03:24.131455
 url: "/cdr-researcher-census/researchers/andrea-l-ambrosio-a5047136/"
 layout: "researcher"
 hiddenInHomeList: true

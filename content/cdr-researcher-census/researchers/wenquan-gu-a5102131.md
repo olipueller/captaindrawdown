@@ -1,7 +1,7 @@
 ---
 title: "Wenquan Gu"
 description: "Wenquan Gu is a Senior Biochar researcher at Wuhan University in CN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.897065
+date: 2026-04-02T07:03:26.211610
 url: "/cdr-researcher-census/researchers/wenquan-gu-a5102131/"
 layout: "researcher"
 hiddenInHomeList: true

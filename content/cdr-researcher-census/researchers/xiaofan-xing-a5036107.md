@@ -1,7 +1,7 @@
 ---
 title: "Xiaofan Xing"
 description: "Xiaofan Xing is a Mid-career BECCS researcher at Hefei University of Technology in CN. With 22 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.314050
+date: 2026-04-02T07:03:23.928283
 url: "/cdr-researcher-census/researchers/xiaofan-xing-a5036107/"
 layout: "researcher"
 hiddenInHomeList: true

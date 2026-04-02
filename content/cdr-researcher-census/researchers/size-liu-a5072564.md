@@ -1,7 +1,7 @@
 ---
 title: "Size Liu"
 description: "Size Liu is a Mid-career Soil Carbon researcher at Sichuan Agricultural University in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.906090
+date: 2026-04-02T07:03:26.223847
 url: "/cdr-researcher-census/researchers/size-liu-a5072564/"
 layout: "researcher"
 hiddenInHomeList: true

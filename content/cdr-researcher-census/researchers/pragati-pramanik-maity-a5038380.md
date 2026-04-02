@@ -1,7 +1,7 @@
 ---
 title: "Pragati Pramanik Maity"
 description: "Pragati Pramanik Maity is a Senior Soil Carbon researcher at Indian Agricultural Statistics Research Institute in IN. With 31 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.160524
+date: 2026-04-02T07:03:25.143561
 url: "/cdr-researcher-census/researchers/pragati-pramanik-maity-a5038380/"
 layout: "researcher"
 hiddenInHomeList: true

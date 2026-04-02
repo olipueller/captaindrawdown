@@ -1,7 +1,7 @@
 ---
 title: "Thounaojam Thomas Meetei"
 description: "Thounaojam Thomas Meetei is a Mid-career Soil Carbon researcher at Central Agricultural University in IN. With 31 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.072200
+date: 2026-04-02T07:03:25.015199
 url: "/cdr-researcher-census/researchers/thounaojam-thomas-meetei-a5083510/"
 layout: "researcher"
 hiddenInHomeList: true

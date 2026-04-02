@@ -1,7 +1,7 @@
 ---
 title: "Poonam Thapa"
 description: "Poonam Thapa is a Senior Soil Carbon researcher at South China Botanical Garden in CN. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.256814
+date: 2026-04-02T07:03:25.282754
 url: "/cdr-researcher-census/researchers/poonam-thapa-a5017772/"
 layout: "researcher"
 hiddenInHomeList: true

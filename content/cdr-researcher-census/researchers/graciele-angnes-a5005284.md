@@ -1,7 +1,7 @@
 ---
 title: "Graciele Angnes"
 description: "Graciele Angnes is a Mid-career Soil Carbon researcher in GB. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.648319
+date: 2026-04-02T07:03:25.879175
 url: "/cdr-researcher-census/researchers/graciele-angnes-a5005284/"
 layout: "researcher"
 hiddenInHomeList: true

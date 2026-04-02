@@ -1,7 +1,7 @@
 ---
 title: "Conor Hickey"
 description: "Conor Hickey is a Mid-career General CDR researcher at University of Oxford in GB. With 23 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.848230
+date: 2026-04-02T07:03:24.672704
 url: "/cdr-researcher-census/researchers/conor-hickey-a5021184/"
 layout: "researcher"
 hiddenInHomeList: true

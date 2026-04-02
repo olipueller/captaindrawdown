@@ -1,7 +1,7 @@
 ---
 title: "Sarah Nordahl"
 description: "Sarah Nordahl is a Mid-career General CDR researcher at Lawrence Berkeley National Laboratory in US. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.716874
+date: 2026-04-02T07:03:24.489700
 url: "/cdr-researcher-census/researchers/sarah-nordahl-a5091675/"
 layout: "researcher"
 hiddenInHomeList: true

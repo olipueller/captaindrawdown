@@ -1,7 +1,7 @@
 ---
 title: "Ijlal Raheem"
 description: "Ijlal Raheem is a Mid-career DAC researcher. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.524065
+date: 2026-04-02T07:03:25.694038
 url: "/cdr-researcher-census/researchers/ijlal-raheem-a5046985/"
 layout: "researcher"
 hiddenInHomeList: true

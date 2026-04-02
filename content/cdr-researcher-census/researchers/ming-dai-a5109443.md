@@ -1,7 +1,7 @@
 ---
 title: "Ming Dai"
 description: "Ming Dai is a Mid-career carbon dioxide removal researcher at Southwest University of Science and Technology in CN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.753962
+date: 2026-04-02T07:03:24.545330
 url: "/cdr-researcher-census/researchers/ming-dai-a5109443/"
 layout: "researcher"
 hiddenInHomeList: true

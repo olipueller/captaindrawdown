@@ -1,7 +1,7 @@
 ---
 title: "Qingwu Yan"
 description: "Qingwu Yan is a Mid-career Soil Carbon researcher at China University of Mining and Technology in CN. With 34 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.881727
+date: 2026-04-02T07:03:24.721044
 url: "/cdr-researcher-census/researchers/qingwu-yan-a5103016/"
 layout: "researcher"
 hiddenInHomeList: true

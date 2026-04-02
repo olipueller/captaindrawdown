@@ -1,7 +1,7 @@
 ---
 title: "Martin Lappage"
 description: "Martin Lappage is a Mid-career Soil Carbon researcher at University of Leeds in GB. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.726726
+date: 2026-04-02T07:03:24.504412
 url: "/cdr-researcher-census/researchers/martin-lappage-a5009043/"
 layout: "researcher"
 hiddenInHomeList: true

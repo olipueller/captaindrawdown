@@ -1,7 +1,7 @@
 ---
 title: "Fan Yang"
 description: "Fan Yang is a Mid-career BECCS researcher at Yale University in US. With 24 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.839256
+date: 2026-04-02T07:03:24.660637
 url: "/cdr-researcher-census/researchers/fan-yang-a5114833/"
 layout: "researcher"
 hiddenInHomeList: true

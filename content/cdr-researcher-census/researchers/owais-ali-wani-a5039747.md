@@ -1,7 +1,7 @@
 ---
 title: "Owais Ali Wani"
 description: "Owais Ali Wani is a Mid-career General CDR researcher at Sher-e-Kashmir University of Agricultural Sciences and Technology of Kashmir in IN. With 82 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.229530
+date: 2026-04-02T07:03:23.813157
 url: "/cdr-researcher-census/researchers/owais-ali-wani-a5039747/"
 layout: "researcher"
 hiddenInHomeList: true

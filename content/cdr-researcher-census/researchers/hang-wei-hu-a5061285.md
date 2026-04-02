@@ -1,7 +1,7 @@
 ---
 title: "Hang-Wei Hu"
 description: "Hang-Wei Hu is a Mid-career Biochar researcher at University of Melbourne in AU. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.339699
+date: 2026-04-02T07:03:23.962971
 url: "/cdr-researcher-census/researchers/hang-wei-hu-a5061285/"
 layout: "researcher"
 hiddenInHomeList: true

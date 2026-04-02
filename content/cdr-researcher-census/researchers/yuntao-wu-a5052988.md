@@ -1,7 +1,7 @@
 ---
 title: "Yuntao Wu"
 description: "Yuntao Wu is a Senior Soil Carbon researcher at University of Chinese Academy of Sciences in CN. With 36 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.558651
+date: 2026-04-02T07:03:24.260461
 url: "/cdr-researcher-census/researchers/yuntao-wu-a5052988/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jingsong Gao"
 description: "Jingsong Gao is a Senior carbon dioxide removal researcher at Liaoning Technical University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.961532
+date: 2026-04-02T07:03:26.308996
 url: "/cdr-researcher-census/researchers/jingsong-gao-a5111064/"
 layout: "researcher"
 hiddenInHomeList: true

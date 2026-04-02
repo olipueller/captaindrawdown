@@ -1,7 +1,7 @@
 ---
 title: "Merinda Hall"
 description: "Merinda Hall is a Mid-career Soil Carbon researcher. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.934337
+date: 2026-04-02T07:03:26.270651
 url: "/cdr-researcher-census/researchers/merinda-hall-a5080474/"
 layout: "researcher"
 hiddenInHomeList: true

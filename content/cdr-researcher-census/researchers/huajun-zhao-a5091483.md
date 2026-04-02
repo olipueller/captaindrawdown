@@ -1,7 +1,7 @@
 ---
 title: "Huajun Zhao"
 description: "Huajun Zhao is a Mid-career carbon dioxide removal researcher at Electric Power University in VN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.247176
+date: 2026-04-02T07:03:25.270611
 url: "/cdr-researcher-census/researchers/huajun-zhao-a5091483/"
 layout: "researcher"
 hiddenInHomeList: true

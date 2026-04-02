@@ -1,7 +1,7 @@
 ---
 title: "Xiaozhen Zhou"
 description: "Xiaozhen Zhou is a Senior carbon dioxide removal researcher at Chinese Academy of Sciences in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.219091
+date: 2026-04-02T07:03:26.706228
 url: "/cdr-researcher-census/researchers/xiaozhen-zhou-a5101992/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Artur Zajchowski"
 description: "Artur Zajchowski is a Mid-career carbon dioxide removal researcher at Tauron Wytwarzanie (Poland) in PL. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.361251
+date: 2026-04-02T07:03:26.912121
 url: "/cdr-researcher-census/researchers/artur-zajchowski-a5081836/"
 layout: "researcher"
 hiddenInHomeList: true

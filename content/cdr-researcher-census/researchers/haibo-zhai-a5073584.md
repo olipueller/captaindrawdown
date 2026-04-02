@@ -1,7 +1,7 @@
 ---
 title: "Haibo Zhai"
 description: "Haibo Zhai is a Senior General CDR researcher at University of Wyoming in US. With 105 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.175620
+date: 2026-04-02T07:03:23.742885
 url: "/cdr-researcher-census/researchers/haibo-zhai-a5073584/"
 layout: "researcher"
 hiddenInHomeList: true

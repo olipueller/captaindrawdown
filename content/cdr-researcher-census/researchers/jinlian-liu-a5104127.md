@@ -1,7 +1,7 @@
 ---
 title: "Jinlian Liu"
 description: "Jinlian Liu is a Mid-career Soil Carbon researcher at Chongqing Academy of Forestry in CN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.878414
+date: 2026-04-02T07:03:24.715819
 url: "/cdr-researcher-census/researchers/jinlian-liu-a5104127/"
 layout: "researcher"
 hiddenInHomeList: true

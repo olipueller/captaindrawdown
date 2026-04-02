@@ -1,7 +1,7 @@
 ---
 title: "Mahaveer P. Sharma"
 description: "Mahaveer P. Sharma is a Senior Soil Carbon researcher at Indian Institute of Soybean Research in IN. With 107 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.156091
+date: 2026-04-02T07:03:23.715853
 url: "/cdr-researcher-census/researchers/mahaveer-p-sharma-a5039184/"
 layout: "researcher"
 hiddenInHomeList: true

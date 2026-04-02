@@ -1,7 +1,7 @@
 ---
 title: "Dónal Mc Gee"
 description: "Dónal Mc Gee is a Mid-career General CDR researcher at Molecular Discovery (United Kingdom) in GB. With 16 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.199876
+date: 2026-04-02T07:03:25.199022
 url: "/cdr-researcher-census/researchers/donal-mc-gee-a5076305/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Marlene A. Velazco‐Medel"
 description: "Marlene A. Velazco‐Medel is a Mid-career carbon dioxide removal researcher at Arizona State University in US. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.952686
+date: 2026-04-02T07:03:26.296242
 url: "/cdr-researcher-census/researchers/marlene-a-velazcomedel-a5030380/"
 layout: "researcher"
 hiddenInHomeList: true

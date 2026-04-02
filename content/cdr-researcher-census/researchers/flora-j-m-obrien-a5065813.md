@@ -1,7 +1,7 @@
 ---
 title: "Flora J. M. O’Brien"
 description: "Flora J. M. O’Brien is a Mid-career Soil Carbon researcher at East Malling Research (United Kingdom) in GB. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.840367
+date: 2026-04-02T07:03:26.130681
 url: "/cdr-researcher-census/researchers/flora-j-m-obrien-a5065813/"
 layout: "researcher"
 hiddenInHomeList: true

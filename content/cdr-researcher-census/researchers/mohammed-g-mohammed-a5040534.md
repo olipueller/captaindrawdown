@@ -1,7 +1,7 @@
 ---
 title: "Mohammed G. Mohammed"
 description: "Mohammed G. Mohammed is a Mid-career carbon dioxide removal researcher at King Fahd University of Petroleum and Minerals in SA. With 21 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.610546
+date: 2026-04-02T07:03:24.335048
 url: "/cdr-researcher-census/researchers/mohammed-g-mohammed-a5040534/"
 layout: "researcher"
 hiddenInHomeList: true

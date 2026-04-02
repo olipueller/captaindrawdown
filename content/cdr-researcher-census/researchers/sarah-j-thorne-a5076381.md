@@ -1,7 +1,7 @@
 ---
 title: "Sarah J. Thorne"
 description: "Sarah J. Thorne is a Mid-career Enhanced Weathering researcher at Society for the Protection of New Hampshire Forests in US. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.932931
+date: 2026-04-02T07:03:24.802957
 url: "/cdr-researcher-census/researchers/sarah-j-thorne-a5076381/"
 layout: "researcher"
 hiddenInHomeList: true

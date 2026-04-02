@@ -1,7 +1,7 @@
 ---
 title: "Ayano Inoue"
 description: "Ayano Inoue is a Senior carbon dioxide removal researcher at Sapporo Medical University in JP. With 17 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.039891
+date: 2026-04-02T07:03:24.965236
 url: "/cdr-researcher-census/researchers/ayano-inoue-a5033122/"
 layout: "researcher"
 hiddenInHomeList: true

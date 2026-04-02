@@ -1,7 +1,7 @@
 ---
 title: "Yang Wang"
 description: "Yang Wang is a Senior Soil Carbon researcher at Qilu University of Technology in CN. With 34 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.431667
+date: 2026-04-02T07:03:24.079546
 url: "/cdr-researcher-census/researchers/yang-wang-a5100626/"
 layout: "researcher"
 hiddenInHomeList: true

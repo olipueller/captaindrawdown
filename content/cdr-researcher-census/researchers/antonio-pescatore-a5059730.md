@@ -1,7 +1,7 @@
 ---
 title: "Antonio Pescatore"
 description: "Antonio Pescatore is an Early-career carbon dioxide removal researcher at University of Florence in IT. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.431636
+date: 2026-04-02T07:03:27.014016
 url: "/cdr-researcher-census/researchers/antonio-pescatore-a5059730/"
 layout: "researcher"
 hiddenInHomeList: true

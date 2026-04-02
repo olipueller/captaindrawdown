@@ -1,7 +1,7 @@
 ---
 title: "Yuehmin Chen"
 description: "Yuehmin Chen is a Senior Soil Carbon researcher at Fujian Normal University in CN. With 66 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.401760
+date: 2026-04-02T07:03:24.040617
 url: "/cdr-researcher-census/researchers/yuehmin-chen-a5021476/"
 layout: "researcher"
 hiddenInHomeList: true

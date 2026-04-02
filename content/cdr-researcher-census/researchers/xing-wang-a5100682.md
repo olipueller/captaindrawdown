@@ -1,7 +1,7 @@
 ---
 title: "Xing Wang"
 description: "Xing Wang is a Senior Soil Carbon researcher at Ministry of Education in TH. With 117 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.254249
+date: 2026-04-02T07:03:23.846135
 url: "/cdr-researcher-census/researchers/xing-wang-a5100682/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Victoria Janes‐Bassett"
 description: "Victoria Janes‐Bassett is a Mid-career Soil Carbon researcher at University of Liverpool in GB. With 41 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.716276
+date: 2026-04-02T07:03:24.488745
 url: "/cdr-researcher-census/researchers/victoria-janesbassett-a5047933/"
 layout: "researcher"
 hiddenInHomeList: true

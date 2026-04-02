@@ -1,7 +1,7 @@
 ---
 title: "Julio Ballesteros"
 description: "Julio Ballesteros is a Senior General CDR researcher at Universidad de Salamanca in ES. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.256898
+date: 2026-04-02T07:03:26.759629
 url: "/cdr-researcher-census/researchers/julio-ballesteros-a5033420/"
 layout: "researcher"
 hiddenInHomeList: true

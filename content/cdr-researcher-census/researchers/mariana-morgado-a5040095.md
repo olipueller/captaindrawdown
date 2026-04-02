@@ -1,7 +1,7 @@
 ---
 title: "Mariana Morgado"
 description: "Mariana Morgado is a Mid-career Soil Carbon researcher. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.853975
+date: 2026-04-02T07:03:26.149883
 url: "/cdr-researcher-census/researchers/mariana-morgado-a5040095/"
 layout: "researcher"
 hiddenInHomeList: true

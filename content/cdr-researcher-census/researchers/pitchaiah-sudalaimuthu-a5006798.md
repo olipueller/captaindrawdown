@@ -1,7 +1,7 @@
 ---
 title: "Pitchaiah Sudalaimuthu"
 description: "Pitchaiah Sudalaimuthu is a Mid-career Biochar researcher at SRM Institute of Science and Technology in IN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.788267
+date: 2026-04-02T07:03:26.055148
 url: "/cdr-researcher-census/researchers/pitchaiah-sudalaimuthu-a5006798/"
 layout: "researcher"
 hiddenInHomeList: true

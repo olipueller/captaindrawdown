@@ -1,7 +1,7 @@
 ---
 title: "Xiaorong Zhao"
 description: "Xiaorong Zhao is a Senior Biochar researcher at China Three Gorges University in CN. With 65 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.205588
+date: 2026-04-02T07:03:23.784416
 url: "/cdr-researcher-census/researchers/xiaorong-zhao-a5108116/"
 layout: "researcher"
 hiddenInHomeList: true

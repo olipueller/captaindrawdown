@@ -1,7 +1,7 @@
 ---
 title: "Tapan Jyoti Purakayastha"
 description: "Tapan Jyoti Purakayastha is a Senior Soil Carbon researcher at Tapan Jyoti Purakayastha in IN. With 93 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.246299
+date: 2026-04-02T07:03:23.835241
 url: "/cdr-researcher-census/researchers/tapan-jyoti-purakayastha-a5034065/"
 layout: "researcher"
 hiddenInHomeList: true

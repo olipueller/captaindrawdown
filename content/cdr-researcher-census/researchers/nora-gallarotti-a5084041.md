@@ -1,7 +1,7 @@
 ---
 title: "Nora Gallarotti"
 description: "Nora Gallarotti is a Mid-career Soil Carbon researcher at Institutul Naţional de Cercetare Dezvoltare Marină Grigore Antipa in RO. With 17 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.114447
+date: 2026-04-02T07:03:26.526570
 url: "/cdr-researcher-census/researchers/nora-gallarotti-a5084041/"
 layout: "researcher"
 hiddenInHomeList: true

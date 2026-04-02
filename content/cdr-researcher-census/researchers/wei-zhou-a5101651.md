@@ -1,7 +1,7 @@
 ---
 title: "Wei Zhou"
 description: "Wei Zhou is a Mid-career Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.115210
+date: 2026-04-02T07:03:25.076991
 url: "/cdr-researcher-census/researchers/wei-zhou-a5101651/"
 layout: "researcher"
 hiddenInHomeList: true

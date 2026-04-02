@@ -1,7 +1,7 @@
 ---
 title: "Kezia Goldmann"
 description: "Kezia Goldmann is a Senior Soil Carbon researcher. With 53 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.207952
+date: 2026-04-02T07:03:23.786790
 url: "/cdr-researcher-census/researchers/kezia-goldmann-a5005956/"
 layout: "researcher"
 hiddenInHomeList: true

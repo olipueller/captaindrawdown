@@ -1,7 +1,7 @@
 ---
 title: "Ligong Peng"
 description: "Ligong Peng is a Mid-career Soil Carbon researcher at South China Agricultural University in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.148123
+date: 2026-04-02T07:03:26.582044
 url: "/cdr-researcher-census/researchers/ligong-peng-a5091341/"
 layout: "researcher"
 hiddenInHomeList: true

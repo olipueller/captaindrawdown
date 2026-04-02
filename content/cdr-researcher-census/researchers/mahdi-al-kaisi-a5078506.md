@@ -1,7 +1,7 @@
 ---
 title: "Mahdi Al-Kaisi"
 description: "Mahdi Al-Kaisi is a Mid-career Biochar researcher at Iowa State University in US. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.587652
+date: 2026-04-02T07:03:25.786872
 url: "/cdr-researcher-census/researchers/mahdi-al-kaisi-a5078506/"
 layout: "researcher"
 hiddenInHomeList: true

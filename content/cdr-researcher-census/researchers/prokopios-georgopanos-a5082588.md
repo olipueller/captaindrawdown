@@ -1,7 +1,7 @@
 ---
 title: "Prokopios Georgopanos"
 description: "Prokopios Georgopanos is a Senior DAC researcher at Helmholtz-Zentrum Hereon in DE. With 75 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.356764
+date: 2026-04-02T07:03:23.987184
 url: "/cdr-researcher-census/researchers/prokopios-georgopanos-a5082588/"
 layout: "researcher"
 hiddenInHomeList: true

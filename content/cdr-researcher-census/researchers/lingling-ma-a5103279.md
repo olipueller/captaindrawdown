@@ -1,7 +1,7 @@
 ---
 title: "Lingling Ma"
 description: "Lingling Ma is a Mid-career Soil Carbon researcher at Jiangnan University in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.166305
+date: 2026-04-02T07:03:25.150421
 url: "/cdr-researcher-census/researchers/lingling-ma-a5103279/"
 layout: "researcher"
 hiddenInHomeList: true

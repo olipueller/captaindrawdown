@@ -1,7 +1,7 @@
 ---
 title: "Adithya Samanth"
 description: "Adithya Samanth is a Mid-career Biochar researcher at Manipal Institute of Technology in IN. With 19 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.767418
+date: 2026-04-02T07:03:24.565451
 url: "/cdr-researcher-census/researchers/adithya-samanth-a5090469/"
 layout: "researcher"
 hiddenInHomeList: true

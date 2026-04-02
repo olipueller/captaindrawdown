@@ -1,7 +1,7 @@
 ---
 title: "Xia Liang"
 description: "Xia Liang is a Senior Soil Carbon researcher at The University of Melbourne in AU. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.764792
+date: 2026-04-02T07:03:26.021673
 url: "/cdr-researcher-census/researchers/xia-liang-a5103404/"
 layout: "researcher"
 hiddenInHomeList: true

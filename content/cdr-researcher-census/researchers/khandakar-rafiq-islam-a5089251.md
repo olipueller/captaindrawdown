@@ -1,7 +1,7 @@
 ---
 title: "Khandakar Rafiq Islam"
 description: "Khandakar Rafiq Islam is a Senior Soil Carbon researcher at The Ohio State University in US. With 54 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.650697
+date: 2026-04-02T07:03:24.392195
 url: "/cdr-researcher-census/researchers/khandakar-rafiq-islam-a5089251/"
 layout: "researcher"
 hiddenInHomeList: true

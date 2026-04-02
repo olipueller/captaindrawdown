@@ -1,7 +1,7 @@
 ---
 title: "D. K. R. P. L. Dissanayake"
 description: "D. K. R. P. L. Dissanayake is a Mid-career Soil Carbon researcher at Griffith University in AU. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.510933
+date: 2026-04-02T07:03:25.675366
 url: "/cdr-researcher-census/researchers/d-k-r-p-l-dissanayake-a5030977/"
 layout: "researcher"
 hiddenInHomeList: true

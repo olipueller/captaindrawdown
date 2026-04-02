@@ -1,7 +1,7 @@
 ---
 title: "Joshua Adotey"
 description: "Joshua Adotey is a Mid-career Soil Carbon researcher at University of Cape Coast in GH. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.768569
+date: 2026-04-02T07:03:26.027297
 url: "/cdr-researcher-census/researchers/joshua-adotey-a5084601/"
 layout: "researcher"
 hiddenInHomeList: true

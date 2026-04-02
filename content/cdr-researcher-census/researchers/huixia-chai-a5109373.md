@@ -1,7 +1,7 @@
 ---
 title: "Huixia Chai"
 description: "Huixia Chai is a Senior carbon dioxide removal researcher at Chinese Academy for Environmental Planning in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.288478
+date: 2026-04-02T07:03:25.325074
 url: "/cdr-researcher-census/researchers/huixia-chai-a5109373/"
 layout: "researcher"
 hiddenInHomeList: true

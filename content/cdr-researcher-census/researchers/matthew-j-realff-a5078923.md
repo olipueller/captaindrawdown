@@ -1,7 +1,7 @@
 ---
 title: "Matthew J. Realff"
 description: "Matthew J. Realff is an Eminent General CDR researcher at Georgia Institute of Technology in US. With 302 publications and an h-index of 45, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.103602
+date: 2026-04-02T07:03:23.651678
 url: "/cdr-researcher-census/researchers/matthew-j-realff-a5078923/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Andualem Shiferaw"
 description: "Andualem Shiferaw is a Mid-career Soil Carbon researcher at University of Nebraska–Lincoln in US. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.964016
+date: 2026-04-02T07:03:24.853583
 url: "/cdr-researcher-census/researchers/andualem-shiferaw-a5063632/"
 layout: "researcher"
 hiddenInHomeList: true

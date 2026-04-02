@@ -1,7 +1,7 @@
 ---
 title: "Allison M. Crow"
 description: "Allison M. Crow is a Mid-career carbon dioxide removal researcher at Keys for Networking in US. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.982829
+date: 2026-04-02T07:03:24.882771
 url: "/cdr-researcher-census/researchers/allison-m-crow-a5052940/"
 layout: "researcher"
 hiddenInHomeList: true

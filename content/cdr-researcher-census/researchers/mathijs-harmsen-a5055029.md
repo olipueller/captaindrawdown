@@ -1,7 +1,7 @@
 ---
 title: "Mathijs Harmsen"
 description: "Mathijs Harmsen is a Senior General CDR researcher at Planbureau voor de Leefomgeving in NL. With 83 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.084626
+date: 2026-04-02T07:03:23.628795
 url: "/cdr-researcher-census/researchers/mathijs-harmsen-a5055029/"
 layout: "researcher"
 hiddenInHomeList: true

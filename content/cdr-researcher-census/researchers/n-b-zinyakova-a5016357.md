@@ -1,7 +1,7 @@
 ---
 title: "N. B. Zinyakova"
 description: "N. B. Zinyakova is a Mid-career Soil Carbon researcher at Institute of Physical-Chemical and Biological Problems in Soil Science in RU. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.426878
+date: 2026-04-02T07:03:25.527346
 url: "/cdr-researcher-census/researchers/n-b-zinyakova-a5016357/"
 layout: "researcher"
 hiddenInHomeList: true

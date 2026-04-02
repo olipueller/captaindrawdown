@@ -1,7 +1,7 @@
 ---
 title: "Yawouvi Dodji Soviadan"
 description: "Yawouvi Dodji Soviadan is a Mid-career Ocean CDR researcher at Centre National de la Recherche Scientifique in FR. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.093286
+date: 2026-04-02T07:03:26.497122
 url: "/cdr-researcher-census/researchers/yawouvi-dodji-soviadan-a5035081/"
 layout: "researcher"
 hiddenInHomeList: true

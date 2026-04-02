@@ -1,7 +1,7 @@
 ---
 title: "Yihan Chen"
 description: "Yihan Chen is a Mid-career carbon dioxide removal researcher at Hefei University of Technology in CN. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.128523
+date: 2026-04-02T07:03:25.097009
 url: "/cdr-researcher-census/researchers/yihan-chen-a5114274/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Raphael Apeaning"
 description: "Raphael Apeaning is a Mid-career General CDR researcher at King Abdullah Petroleum Studies and Research Center in SA. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.238049
+date: 2026-04-02T07:03:25.259611
 url: "/cdr-researcher-census/researchers/raphael-apeaning-a5030827/"
 layout: "researcher"
 hiddenInHomeList: true

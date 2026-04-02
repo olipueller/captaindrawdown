@@ -1,7 +1,7 @@
 ---
 title: "Youyang Chen"
 description: "Youyang Chen is a Mid-career Biochar researcher at Tianjin Chengjian University in CN. With 19 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.243349
+date: 2026-04-02T07:03:25.265650
 url: "/cdr-researcher-census/researchers/youyang-chen-a5056049/"
 layout: "researcher"
 hiddenInHomeList: true

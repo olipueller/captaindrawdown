@@ -1,7 +1,7 @@
 ---
 title: "Xianlin Ke"
 description: "Xianlin Ke is a Mid-career Biochar researcher at University of Copenhagen in DK. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.127898
+date: 2026-04-02T07:03:26.545685
 url: "/cdr-researcher-census/researchers/xianlin-ke-a5002678/"
 layout: "researcher"
 hiddenInHomeList: true

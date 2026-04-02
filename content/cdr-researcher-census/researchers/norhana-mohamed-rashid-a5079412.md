@@ -1,7 +1,7 @@
 ---
 title: "Norhana Mohamed Rashid"
 description: "Norhana Mohamed Rashid is a Senior Biochar researcher at University of Technology Malaysia in MY. With 35 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.138193
+date: 2026-04-02T07:03:25.111225
 url: "/cdr-researcher-census/researchers/norhana-mohamed-rashid-a5079412/"
 layout: "researcher"
 hiddenInHomeList: true

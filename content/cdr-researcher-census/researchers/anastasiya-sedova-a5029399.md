@@ -1,7 +1,7 @@
 ---
 title: "Anastasiya Sedova"
 description: "Anastasiya Sedova is a Mid-career General CDR researcher at Institute of Global Climate and Ecology in RU. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.778509
+date: 2026-04-02T07:03:26.041437
 url: "/cdr-researcher-census/researchers/anastasiya-sedova-a5029399/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Christine D. Sprunger"
 description: "Christine D. Sprunger is a Mid-career Soil Carbon researcher at Michigan State University in US. With 59 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.469900
+date: 2026-04-02T07:03:24.133016
 url: "/cdr-researcher-census/researchers/christine-d-sprunger-a5032690/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "M. I. Khalil"
 description: "M. I. Khalil is a Senior Soil Carbon researcher at University College Dublin in IE. With 116 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.280957
+date: 2026-04-02T07:03:23.884759
 url: "/cdr-researcher-census/researchers/m-i-khalil-a5021243/"
 layout: "researcher"
 hiddenInHomeList: true

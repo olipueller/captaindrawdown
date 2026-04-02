@@ -1,7 +1,7 @@
 ---
 title: "Kechao Huang"
 description: "Kechao Huang is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 43 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.851598
+date: 2026-04-02T07:03:24.677273
 url: "/cdr-researcher-census/researchers/kechao-huang-a5044153/"
 layout: "researcher"
 hiddenInHomeList: true

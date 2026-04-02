@@ -1,7 +1,7 @@
 ---
 title: "Delia M. Pinto"
 description: "Delia M. Pinto is a Senior Soil Carbon researcher. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.483762
+date: 2026-04-02T07:03:24.152578
 url: "/cdr-researcher-census/researchers/delia-m-pinto-a5110241/"
 layout: "researcher"
 hiddenInHomeList: true

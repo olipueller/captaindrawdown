@@ -1,7 +1,7 @@
 ---
 title: "Shamal Shasang Kumar"
 description: "Shamal Shasang Kumar is a Mid-career General CDR researcher. With 34 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.788397
+date: 2026-04-02T07:03:24.593527
 url: "/cdr-researcher-census/researchers/shamal-shasang-kumar-a5101782/"
 layout: "researcher"
 hiddenInHomeList: true

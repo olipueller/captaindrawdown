@@ -1,7 +1,7 @@
 ---
 title: "Yue Wang"
 description: "Yue Wang is a Senior Soil Carbon researcher at Dalian Maritime University in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.118548
+date: 2026-04-02T07:03:25.082143
 url: "/cdr-researcher-census/researchers/yue-wang-a5072021/"
 layout: "researcher"
 hiddenInHomeList: true

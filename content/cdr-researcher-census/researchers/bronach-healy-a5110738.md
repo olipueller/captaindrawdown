@@ -1,7 +1,7 @@
 ---
 title: "Bronach Healy"
 description: "Bronach Healy is a Mid-career carbon dioxide removal researcher at National University of Ireland, Maynooth in IE. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.795084
+date: 2026-04-02T07:03:24.603023
 url: "/cdr-researcher-census/researchers/bronach-healy-a5110738/"
 layout: "researcher"
 hiddenInHomeList: true

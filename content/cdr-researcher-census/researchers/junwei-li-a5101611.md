@@ -1,7 +1,7 @@
 ---
 title: "Junwei Li"
 description: "Junwei Li is a Senior Soil Carbon researcher at Central South University in CN. With 47 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.490083
+date: 2026-04-02T07:03:25.645723
 url: "/cdr-researcher-census/researchers/junwei-li-a5101611/"
 layout: "researcher"
 hiddenInHomeList: true

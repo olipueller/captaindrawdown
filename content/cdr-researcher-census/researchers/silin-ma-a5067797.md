@@ -1,7 +1,7 @@
 ---
 title: "Silin Ma"
 description: "Silin Ma is a Mid-career Soil Carbon researcher at Huazhong Agricultural University in CN. With 6 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.341933
+date: 2026-04-02T07:03:25.399558
 url: "/cdr-researcher-census/researchers/silin-ma-a5067797/"
 layout: "researcher"
 hiddenInHomeList: true

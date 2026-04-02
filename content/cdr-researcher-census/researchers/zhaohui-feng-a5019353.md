@@ -1,7 +1,7 @@
 ---
 title: "Zhaohui Feng"
 description: "Zhaohui Feng is a Mid-career carbon dioxide removal researcher at Peking University in CN. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.312893
+date: 2026-04-02T07:03:25.359042
 url: "/cdr-researcher-census/researchers/zhaohui-feng-a5019353/"
 layout: "researcher"
 hiddenInHomeList: true

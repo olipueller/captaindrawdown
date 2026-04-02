@@ -1,7 +1,7 @@
 ---
 title: "Tino Colombi"
 description: "Tino Colombi is a Senior Soil Carbon researcher at University of Nottingham in GB. With 83 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.222738
+date: 2026-04-02T07:03:23.805194
 url: "/cdr-researcher-census/researchers/tino-colombi-a5062803/"
 layout: "researcher"
 hiddenInHomeList: true

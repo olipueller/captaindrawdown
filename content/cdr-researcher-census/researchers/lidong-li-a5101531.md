@@ -1,7 +1,7 @@
 ---
 title: "Lidong Li"
 description: "Lidong Li is a Mid-career Soil Carbon researcher at University of Nebraska–Lincoln in US. With 37 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.629869
+date: 2026-04-02T07:03:24.361627
 url: "/cdr-researcher-census/researchers/lidong-li-a5101531/"
 layout: "researcher"
 hiddenInHomeList: true

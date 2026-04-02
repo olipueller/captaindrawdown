@@ -1,7 +1,7 @@
 ---
 title: "Adrian Heilemann"
 description: "Adrian Heilemann is a Mid-career General CDR researcher at Potsdam Institute for Climate Impact Research in DE. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.196246
+date: 2026-04-02T07:03:26.674657
 url: "/cdr-researcher-census/researchers/adrian-heilemann-a5062111/"
 layout: "researcher"
 hiddenInHomeList: true

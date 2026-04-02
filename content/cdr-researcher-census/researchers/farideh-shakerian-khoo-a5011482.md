@@ -1,7 +1,7 @@
 ---
 title: "Farideh Shakerian Khoo"
 description: "Farideh Shakerian Khoo is a Mid-career carbon dioxide removal researcher at Islamic Azad University of Shiraz in IR. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.786044
+date: 2026-04-02T07:03:26.051960
 url: "/cdr-researcher-census/researchers/farideh-shakerian-khoo-a5011482/"
 layout: "researcher"
 hiddenInHomeList: true

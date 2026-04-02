@@ -1,7 +1,7 @@
 ---
 title: "Wenqin Li"
 description: "Wenqin Li is a Senior General CDR researcher at Lawrence Livermore National Laboratory in US. With 59 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.337645
+date: 2026-04-02T07:03:23.960273
 url: "/cdr-researcher-census/researchers/wenqin-li-a5101551/"
 layout: "researcher"
 hiddenInHomeList: true

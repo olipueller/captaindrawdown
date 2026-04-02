@@ -1,7 +1,7 @@
 ---
 title: "Katarzyna Anna Koryś"
 description: "Katarzyna Anna Koryś is a Mid-career Biochar researcher at Universidade Federal de Santa Catarina in BR. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.035985
+date: 2026-04-02T07:03:24.959647
 url: "/cdr-researcher-census/researchers/katarzyna-anna-korys-a5041511/"
 layout: "researcher"
 hiddenInHomeList: true

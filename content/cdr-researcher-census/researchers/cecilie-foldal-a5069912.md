@@ -1,7 +1,7 @@
 ---
 title: "Cecilie Foldal"
 description: "Cecilie Foldal is a Mid-career Soil Carbon researcher at Austrian Research Centre for Forests in AT. With 32 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.666240
+date: 2026-04-02T07:03:25.908309
 url: "/cdr-researcher-census/researchers/cecilie-foldal-a5069912/"
 layout: "researcher"
 hiddenInHomeList: true

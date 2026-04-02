@@ -1,7 +1,7 @@
 ---
 title: "Hélène Pilorgé"
 description: "Hélène Pilorgé is a Mid-career General CDR researcher at Université Claude Bernard Lyon 1 in FR. With 41 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.303006
+date: 2026-04-02T07:03:23.914006
 url: "/cdr-researcher-census/researchers/helene-pilorge-a5038679/"
 layout: "researcher"
 hiddenInHomeList: true

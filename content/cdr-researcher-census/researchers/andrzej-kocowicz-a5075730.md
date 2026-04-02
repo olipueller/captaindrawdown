@@ -1,7 +1,7 @@
 ---
 title: "Andrzej Kocowicz"
 description: "Andrzej Kocowicz is a Senior Soil Carbon researcher at Wrocław University of Environmental and Life Sciences in PL. With 43 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.554519
+date: 2026-04-02T07:03:24.254499
 url: "/cdr-researcher-census/researchers/andrzej-kocowicz-a5075730/"
 layout: "researcher"
 hiddenInHomeList: true

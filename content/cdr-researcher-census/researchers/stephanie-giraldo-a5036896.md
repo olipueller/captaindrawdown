@@ -1,7 +1,7 @@
 ---
 title: "Stephanie Giraldo"
 description: "Stephanie Giraldo is a Mid-career carbon dioxide removal researcher at Universidad Católica de Oriente in CO. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.073794
+date: 2026-04-02T07:03:25.017566
 url: "/cdr-researcher-census/researchers/stephanie-giraldo-a5036896/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Shannon Sterling"
 description: "Shannon Sterling is a Senior Ocean CDR researcher at Dalhousie University in CA. With 65 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.251622
+date: 2026-04-02T07:03:23.842188
 url: "/cdr-researcher-census/researchers/shannon-sterling-a5006156/"
 layout: "researcher"
 hiddenInHomeList: true

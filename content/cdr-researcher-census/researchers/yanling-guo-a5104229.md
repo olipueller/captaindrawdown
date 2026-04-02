@@ -1,7 +1,7 @@
 ---
 title: "Yanling Guo"
 description: "Yanling Guo is a Senior Biochar researcher at China Agricultural University in CN. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.511398
+date: 2026-04-02T07:03:25.675925
 url: "/cdr-researcher-census/researchers/yanling-guo-a5104229/"
 layout: "researcher"
 hiddenInHomeList: true

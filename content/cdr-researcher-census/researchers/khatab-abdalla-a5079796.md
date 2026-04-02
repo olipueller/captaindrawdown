@@ -1,7 +1,7 @@
 ---
 title: "Khatab Abdalla"
 description: "Khatab Abdalla is a Mid-career Soil Carbon researcher at Friedrich-Alexander-Universität Erlangen-Nürnberg in DE. With 34 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.762301
+date: 2026-04-02T07:03:24.557940
 url: "/cdr-researcher-census/researchers/khatab-abdalla-a5079796/"
 layout: "researcher"
 hiddenInHomeList: true

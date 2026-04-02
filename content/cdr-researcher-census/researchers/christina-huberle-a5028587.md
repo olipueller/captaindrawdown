@@ -1,7 +1,7 @@
 ---
 title: "Christina Huberle"
 description: "Christina Huberle is a Mid-career carbon dioxide removal researcher at Klinikum rechts der Isar in DE. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.299873
+date: 2026-04-02T07:03:25.341555
 url: "/cdr-researcher-census/researchers/christina-huberle-a5028587/"
 layout: "researcher"
 hiddenInHomeList: true

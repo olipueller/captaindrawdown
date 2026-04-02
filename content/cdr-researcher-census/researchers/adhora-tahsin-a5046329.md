@@ -1,7 +1,7 @@
 ---
 title: "Adhora Tahsin"
 description: "Adhora Tahsin is a Mid-career Biochar researcher at The University of Texas at Arlington in US. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.269191
+date: 2026-04-02T07:03:26.779722
 url: "/cdr-researcher-census/researchers/adhora-tahsin-a5046329/"
 layout: "researcher"
 hiddenInHomeList: true

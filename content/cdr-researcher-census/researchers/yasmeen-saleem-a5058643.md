@@ -1,7 +1,7 @@
 ---
 title: "Yasmeen Saleem"
 description: "Yasmeen Saleem is a Mid-career Biochar researcher at University of Sargodha in PK. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.855330
+date: 2026-04-02T07:03:24.682721
 url: "/cdr-researcher-census/researchers/yasmeen-saleem-a5058643/"
 layout: "researcher"
 hiddenInHomeList: true

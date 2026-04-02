@@ -1,7 +1,7 @@
 ---
 title: "Lukas Weimann"
 description: "Lukas Weimann is a Mid-career carbon dioxide removal researcher at Universität Hamburg in DE. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.050255
+date: 2026-04-02T07:03:24.981719
 url: "/cdr-researcher-census/researchers/lukas-weimann-a5029702/"
 layout: "researcher"
 hiddenInHomeList: true

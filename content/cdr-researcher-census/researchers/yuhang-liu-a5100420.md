@@ -1,7 +1,7 @@
 ---
 title: "Yuhang Liu"
 description: "Yuhang Liu is a Senior DAC researcher at Xi'an University of Science and Technology in CN. With 63 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.243978
+date: 2026-04-02T07:03:23.831696
 url: "/cdr-researcher-census/researchers/yuhang-liu-a5100420/"
 layout: "researcher"
 hiddenInHomeList: true

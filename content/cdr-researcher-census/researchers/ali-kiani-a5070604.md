@@ -1,7 +1,7 @@
 ---
 title: "Ali Kiani"
 description: "Ali Kiani is a Mid-career General CDR researcher. With 21 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.761291
+date: 2026-04-02T07:03:24.556585
 url: "/cdr-researcher-census/researchers/ali-kiani-a5070604/"
 layout: "researcher"
 hiddenInHomeList: true

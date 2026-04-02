@@ -1,7 +1,7 @@
 ---
 title: "Dipti Mathur"
 description: "Dipti Mathur is a Senior Biochar researcher. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.234666
+date: 2026-04-02T07:03:26.728087
 url: "/cdr-researcher-census/researchers/dipti-mathur-a5060594/"
 layout: "researcher"
 hiddenInHomeList: true

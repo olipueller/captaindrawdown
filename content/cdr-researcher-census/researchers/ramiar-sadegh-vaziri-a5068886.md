@@ -1,7 +1,7 @@
 ---
 title: "Ramiar Sadegh-Vaziri"
 description: "Ramiar Sadegh-Vaziri is a Mid-career BECCS researcher at KTH Royal Institute of Technology in SE. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.960663
+date: 2026-04-02T07:03:26.307690
 url: "/cdr-researcher-census/researchers/ramiar-sadegh-vaziri-a5068886/"
 layout: "researcher"
 hiddenInHomeList: true

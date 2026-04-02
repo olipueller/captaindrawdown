@@ -1,7 +1,7 @@
 ---
 title: "Felix Witing"
 description: "Felix Witing is a Mid-career Soil Carbon researcher at Helmholtz Centre for Environmental Research in DE. With 46 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.041917
+date: 2026-04-02T07:03:24.968272
 url: "/cdr-researcher-census/researchers/felix-witing-a5079899/"
 layout: "researcher"
 hiddenInHomeList: true

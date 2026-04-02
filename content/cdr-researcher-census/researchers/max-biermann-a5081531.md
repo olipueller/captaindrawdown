@@ -1,7 +1,7 @@
 ---
 title: "Max Biermann"
 description: "Max Biermann is a Mid-career BECCS researcher at Chalmers University of Technology in SE. With 34 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.003887
+date: 2026-04-02T07:03:24.915589
 url: "/cdr-researcher-census/researchers/max-biermann-a5081531/"
 layout: "researcher"
 hiddenInHomeList: true

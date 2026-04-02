@@ -1,7 +1,7 @@
 ---
 title: "Paweena Dulyaseree"
 description: "Paweena Dulyaseree is a Mid-career Biochar researcher. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.563785
+date: 2026-04-02T07:03:25.750572
 url: "/cdr-researcher-census/researchers/paweena-dulyaseree-a5047327/"
 layout: "researcher"
 hiddenInHomeList: true

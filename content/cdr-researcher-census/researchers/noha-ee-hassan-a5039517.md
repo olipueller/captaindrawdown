@@ -1,7 +1,7 @@
 ---
 title: "Noha E.E. Hassan"
 description: "Noha E.E. Hassan is a Senior carbon dioxide removal researcher at Pharos University in Alexandria in EG. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.616619
+date: 2026-04-02T07:03:24.344302
 url: "/cdr-researcher-census/researchers/noha-ee-hassan-a5039517/"
 layout: "researcher"
 hiddenInHomeList: true

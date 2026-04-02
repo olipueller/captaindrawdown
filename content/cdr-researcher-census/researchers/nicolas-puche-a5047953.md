@@ -1,7 +1,7 @@
 ---
 title: "Nicolas Puche"
 description: "Nicolas Puche is a Mid-career Soil Carbon researcher in GB. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.900645
+date: 2026-04-02T07:03:26.216278
 url: "/cdr-researcher-census/researchers/nicolas-puche-a5047953/"
 layout: "researcher"
 hiddenInHomeList: true

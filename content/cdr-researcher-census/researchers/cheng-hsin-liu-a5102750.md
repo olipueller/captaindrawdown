@@ -1,7 +1,7 @@
 ---
 title: "Cheng-Hsin Liu"
 description: "Cheng-Hsin Liu is a Senior DAC researcher at Advanced Semiconductor Engineering (Taiwan) in TW. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.313766
+date: 2026-04-02T07:03:25.360255
 url: "/cdr-researcher-census/researchers/cheng-hsin-liu-a5102750/"
 layout: "researcher"
 hiddenInHomeList: true

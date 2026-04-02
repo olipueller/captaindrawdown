@@ -1,7 +1,7 @@
 ---
 title: "J.F. Zhang"
 description: "J.F. Zhang is a Mid-career Biochar researcher at Henan Agricultural University in CN. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.874855
+date: 2026-04-02T07:03:24.710503
 url: "/cdr-researcher-census/researchers/jf-zhang-a5073356/"
 layout: "researcher"
 hiddenInHomeList: true

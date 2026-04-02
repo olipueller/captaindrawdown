@@ -1,7 +1,7 @@
 ---
 title: "Xiaowen Fu"
 description: "Xiaowen Fu is a Senior Biochar researcher at Qilu University of Technology in CN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.095556
+date: 2026-04-02T07:03:26.500068
 url: "/cdr-researcher-census/researchers/xiaowen-fu-a5003754/"
 layout: "researcher"
 hiddenInHomeList: true

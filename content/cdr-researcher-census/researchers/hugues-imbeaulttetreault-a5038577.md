@@ -1,7 +1,7 @@
 ---
 title: "Hugues Imbeault‐Tétreault"
 description: "Hugues Imbeault‐Tétreault is a Mid-career General CDR researcher at CNH Industrial (Czechia) in CZ. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.503148
+date: 2026-04-02T07:03:25.664186
 url: "/cdr-researcher-census/researchers/hugues-imbeaulttetreault-a5038577/"
 layout: "researcher"
 hiddenInHomeList: true

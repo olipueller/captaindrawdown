@@ -1,7 +1,7 @@
 ---
 title: "Samuel Moles"
 description: "Samuel Moles is a Mid-career Biochar researcher at Polytechnic University of Puerto Rico in PR. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.333136
+date: 2026-04-02T07:03:25.387414
 url: "/cdr-researcher-census/researchers/samuel-moles-a5088339/"
 layout: "researcher"
 hiddenInHomeList: true

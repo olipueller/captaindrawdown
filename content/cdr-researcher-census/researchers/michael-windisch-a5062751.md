@@ -1,7 +1,7 @@
 ---
 title: "Michael Windisch"
 description: "Michael Windisch is a Mid-career General CDR researcher at ETH Zurich in CH. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.518526
+date: 2026-04-02T07:03:25.686153
 url: "/cdr-researcher-census/researchers/michael-windisch-a5062751/"
 layout: "researcher"
 hiddenInHomeList: true

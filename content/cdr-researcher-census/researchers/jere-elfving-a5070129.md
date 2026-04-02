@@ -1,7 +1,7 @@
 ---
 title: "Jere Elfving"
 description: "Jere Elfving is a Mid-career carbon dioxide removal researcher at VTT Technical Research Centre of Finland in FI. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.622860
+date: 2026-04-02T07:03:24.352696
 url: "/cdr-researcher-census/researchers/jere-elfving-a5070129/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Shaojun Qiu"
 description: "Shaojun Qiu is a Senior Soil Carbon researcher at Hainan University in CN. With 82 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.176012
+date: 2026-04-02T07:03:23.743273
 url: "/cdr-researcher-census/researchers/shaojun-qiu-a5102707/"
 layout: "researcher"
 hiddenInHomeList: true

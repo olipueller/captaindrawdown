@@ -1,7 +1,7 @@
 ---
 title: "Sarah Ditelberg"
 description: "Sarah Ditelberg is a Mid-career carbon dioxide removal researcher at Loyola University Chicago in US. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.108632
+date: 2026-04-02T07:03:26.518905
 url: "/cdr-researcher-census/researchers/sarah-ditelberg-a5060918/"
 layout: "researcher"
 hiddenInHomeList: true

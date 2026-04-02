@@ -1,7 +1,7 @@
 ---
 title: "Nadejda A. Soudzilovskaia"
 description: "Nadejda A. Soudzilovskaia is a Senior Soil Carbon researcher at Leiden University in NL. With 53 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.143040
+date: 2026-04-02T07:03:23.698276
 url: "/cdr-researcher-census/researchers/nadejda-a-soudzilovskaia-a5102720/"
 layout: "researcher"
 hiddenInHomeList: true

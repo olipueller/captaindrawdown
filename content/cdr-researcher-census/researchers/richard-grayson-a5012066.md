@@ -1,7 +1,7 @@
 ---
 title: "Richard Grayson"
 description: "Richard Grayson is a Senior Soil Carbon researcher at University of Leeds in GB. With 62 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.284052
+date: 2026-04-02T07:03:23.888959
 url: "/cdr-researcher-census/researchers/richard-grayson-a5012066/"
 layout: "researcher"
 hiddenInHomeList: true

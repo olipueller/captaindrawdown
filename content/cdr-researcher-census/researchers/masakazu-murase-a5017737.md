@@ -1,7 +1,7 @@
 ---
 title: "Masakazu Murase"
 description: "Masakazu Murase is a Senior carbon dioxide removal researcher at Toyota Central Research and Development Laboratories (Japan) in JP. With 28 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.916920
+date: 2026-04-02T07:03:26.240695
 url: "/cdr-researcher-census/researchers/masakazu-murase-a5017737/"
 layout: "researcher"
 hiddenInHomeList: true

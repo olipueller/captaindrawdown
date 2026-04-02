@@ -1,7 +1,7 @@
 ---
 title: "Kalyani Jangam"
 description: "Kalyani Jangam is a Mid-career General CDR researcher at The Ohio State University in US. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.276825
+date: 2026-04-02T07:03:26.791723
 url: "/cdr-researcher-census/researchers/kalyani-jangam-a5018554/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Enes Yalçın"
 description: "Enes Yalçın is a Mid-career General CDR researcher at Izmir Kâtip Çelebi University in TR. With 11 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.717111
+date: 2026-04-02T07:03:25.986909
 url: "/cdr-researcher-census/researchers/enes-yalcn-a5011918/"
 layout: "researcher"
 hiddenInHomeList: true

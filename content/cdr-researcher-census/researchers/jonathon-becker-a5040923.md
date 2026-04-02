@@ -1,7 +1,7 @@
 ---
 title: "Jonathon Becker"
 description: "Jonathon Becker is a Senior DAC researcher at Environmental Protection Agency in US. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.232576
+date: 2026-04-02T07:03:25.253160
 url: "/cdr-researcher-census/researchers/jonathon-becker-a5040923/"
 layout: "researcher"
 hiddenInHomeList: true

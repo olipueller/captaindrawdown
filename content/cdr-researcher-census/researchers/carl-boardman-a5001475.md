@@ -1,7 +1,7 @@
 ---
 title: "Carl Boardman"
 description: "Carl Boardman is a Senior Soil Carbon researcher at The Open University in GB. With 28 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.874664
+date: 2026-04-02T07:03:24.710187
 url: "/cdr-researcher-census/researchers/carl-boardman-a5001475/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Zhan Shi"
 description: "Zhan Shi is a Mid-career Biochar researcher at Second Affiliated Hospital of Xi'an Jiaotong University in CN. With 32 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.203808
+date: 2026-04-02T07:03:25.204181
 url: "/cdr-researcher-census/researchers/zhan-shi-a5076914/"
 layout: "researcher"
 hiddenInHomeList: true

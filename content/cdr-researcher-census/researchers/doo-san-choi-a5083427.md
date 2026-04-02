@@ -1,7 +1,7 @@
 ---
 title: "Doo San Choi"
 description: "Doo San Choi is a Mid-career carbon dioxide removal researcher at Korea University in KR. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.104580
+date: 2026-04-02T07:03:25.061911
 url: "/cdr-researcher-census/researchers/doo-san-choi-a5083427/"
 layout: "researcher"
 hiddenInHomeList: true

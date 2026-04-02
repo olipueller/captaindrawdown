@@ -1,7 +1,7 @@
 ---
 title: "Melissa Wartman"
 description: "Melissa Wartman is a Mid-career Soil Carbon researcher at Deakin University in AU. With 38 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.471918
+date: 2026-04-02T07:03:25.596751
 url: "/cdr-researcher-census/researchers/melissa-wartman-a5080164/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Patrick O’Rourke"
 description: "Patrick O’Rourke is a Senior General CDR researcher at Joint Global Change Research Institute (JGCRI-PNNL) in US. With 94 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.144601
+date: 2026-04-02T07:03:23.700619
 url: "/cdr-researcher-census/researchers/patrick-orourke-a5072037/"
 layout: "researcher"
 hiddenInHomeList: true

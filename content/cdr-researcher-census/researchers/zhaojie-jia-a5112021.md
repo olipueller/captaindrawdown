@@ -1,7 +1,7 @@
 ---
 title: "Zhaojie Jia"
 description: "Zhaojie Jia is a Mid-career carbon dioxide removal researcher at Zhejiang A & F University in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.651780
+date: 2026-04-02T07:03:25.884949
 url: "/cdr-researcher-census/researchers/zhaojie-jia-a5112021/"
 layout: "researcher"
 hiddenInHomeList: true

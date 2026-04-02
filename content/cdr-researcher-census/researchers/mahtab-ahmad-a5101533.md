@@ -1,7 +1,7 @@
 ---
 title: "Mahtab Ahmad"
 description: "Mahtab Ahmad is a Senior Biochar researcher at King Saud University in SA. With 17 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.256309
+date: 2026-04-02T07:03:23.848831
 url: "/cdr-researcher-census/researchers/mahtab-ahmad-a5101533/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Johannes Biala"
 description: "Johannes Biala is a Senior Soil Carbon researcher at University of Queensland in AU. With 24 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.142535
+date: 2026-04-02T07:03:25.117783
 url: "/cdr-researcher-census/researchers/johannes-biala-a5077922/"
 layout: "researcher"
 hiddenInHomeList: true

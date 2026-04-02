@@ -1,7 +1,7 @@
 ---
 title: "Jonathan P. Edwards"
 description: "Jonathan P. Edwards is a Senior General CDR researcher. With 44 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.094671
+date: 2026-04-02T07:03:23.640602
 url: "/cdr-researcher-census/researchers/jonathan-p-edwards-a5081847/"
 layout: "researcher"
 hiddenInHomeList: true

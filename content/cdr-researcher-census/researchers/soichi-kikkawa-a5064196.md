@@ -1,7 +1,7 @@
 ---
 title: "Soichi Kikkawa"
 description: "Soichi Kikkawa is a Mid-career carbon dioxide removal researcher at Tokyo Metropolitan University in JP. With 81 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.455270
+date: 2026-04-02T07:03:24.112526
 url: "/cdr-researcher-census/researchers/soichi-kikkawa-a5064196/"
 layout: "researcher"
 hiddenInHomeList: true

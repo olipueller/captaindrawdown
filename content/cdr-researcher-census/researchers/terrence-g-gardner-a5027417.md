@@ -1,7 +1,7 @@
 ---
 title: "Terrence G. Gardner"
 description: "Terrence G. Gardner is a Senior Biochar researcher at Maldives National University in MV. With 30 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.601831
+date: 2026-04-02T07:03:24.322827
 url: "/cdr-researcher-census/researchers/terrence-g-gardner-a5027417/"
 layout: "researcher"
 hiddenInHomeList: true

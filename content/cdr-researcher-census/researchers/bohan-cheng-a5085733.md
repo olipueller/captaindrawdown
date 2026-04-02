@@ -1,7 +1,7 @@
 ---
 title: "Bohan Cheng"
 description: "Bohan Cheng is a Mid-career Soil Carbon researcher at Shandong Academy of Agricultural Sciences in CN. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.112086
+date: 2026-04-02T07:03:25.072379
 url: "/cdr-researcher-census/researchers/bohan-cheng-a5085733/"
 layout: "researcher"
 hiddenInHomeList: true

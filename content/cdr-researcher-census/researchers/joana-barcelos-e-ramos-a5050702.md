@@ -1,7 +1,7 @@
 ---
 title: "Joana Barcelos e Ramos"
 description: "Joana Barcelos e Ramos is a Senior Ocean CDR researcher at Universidade dos Açores in PT. With 41 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.434753
+date: 2026-04-02T07:03:24.083532
 url: "/cdr-researcher-census/researchers/joana-barcelos-e-ramos-a5050702/"
 layout: "researcher"
 hiddenInHomeList: true

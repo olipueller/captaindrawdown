@@ -1,7 +1,7 @@
 ---
 title: "Javier Reyes"
 description: "Javier Reyes is a Mid-career Soil Carbon researcher at Universidad EAN in CO. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.080383
+date: 2026-04-02T07:03:26.479331
 url: "/cdr-researcher-census/researchers/javier-reyes-a5043610/"
 layout: "researcher"
 hiddenInHomeList: true

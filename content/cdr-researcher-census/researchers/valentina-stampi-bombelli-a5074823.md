@@ -1,7 +1,7 @@
 ---
 title: "Valentina Stampi-Bombelli"
 description: "Valentina Stampi-Bombelli is a Mid-career DAC researcher at ETH Zurich in CH. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.560552
+date: 2026-04-02T07:03:25.745366
 url: "/cdr-researcher-census/researchers/valentina-stampi-bombelli-a5074823/"
 layout: "researcher"
 hiddenInHomeList: true

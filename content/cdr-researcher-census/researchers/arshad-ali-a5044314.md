@@ -1,7 +1,7 @@
 ---
 title: "Arshad Ali"
 description: "Arshad Ali is a Senior Enhanced Weathering researcher at Saidu Teaching Hospital in PK. With 57 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.573166
+date: 2026-04-02T07:03:25.765193
 url: "/cdr-researcher-census/researchers/arshad-ali-a5044314/"
 layout: "researcher"
 hiddenInHomeList: true

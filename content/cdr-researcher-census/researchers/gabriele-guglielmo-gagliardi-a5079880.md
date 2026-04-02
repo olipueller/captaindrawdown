@@ -1,7 +1,7 @@
 ---
 title: "Gabriele Guglielmo Gagliardi"
 description: "Gabriele Guglielmo Gagliardi is a Mid-career General CDR researcher in GB. With 29 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.213758
+date: 2026-04-02T07:03:25.220884
 url: "/cdr-researcher-census/researchers/gabriele-guglielmo-gagliardi-a5079880/"
 layout: "researcher"
 hiddenInHomeList: true

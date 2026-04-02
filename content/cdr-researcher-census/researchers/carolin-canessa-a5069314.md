@@ -1,7 +1,7 @@
 ---
 title: "Carolin Canessa"
 description: "Carolin Canessa is a Mid-career General CDR researcher. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.926111
+date: 2026-04-02T07:03:26.258264
 url: "/cdr-researcher-census/researchers/carolin-canessa-a5069314/"
 layout: "researcher"
 hiddenInHomeList: true

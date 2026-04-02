@@ -1,7 +1,7 @@
 ---
 title: "Yash P. Dang"
 description: "Yash P. Dang is a Senior Soil Carbon researcher at The University of Queensland in AU. With 168 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.154505
+date: 2026-04-02T07:03:23.714098
 url: "/cdr-researcher-census/researchers/yash-p-dang-a5013229/"
 layout: "researcher"
 hiddenInHomeList: true

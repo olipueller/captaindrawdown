@@ -1,7 +1,7 @@
 ---
 title: "Pierre Carrère"
 description: "Pierre Carrère is a Mid-career Soil Carbon researcher. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.167089
+date: 2026-04-02T07:03:26.615549
 url: "/cdr-researcher-census/researchers/pierre-carrere-a5034634/"
 layout: "researcher"
 hiddenInHomeList: true

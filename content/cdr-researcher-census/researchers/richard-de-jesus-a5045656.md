@@ -1,7 +1,7 @@
 ---
 title: "Richard De Jesus"
 description: "Richard De Jesus is a Mid-career Biochar researcher at De La Salle University in PH. With 16 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.104486
+date: 2026-04-02T07:03:26.511642
 url: "/cdr-researcher-census/researchers/richard-de-jesus-a5045656/"
 layout: "researcher"
 hiddenInHomeList: true

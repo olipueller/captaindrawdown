@@ -1,7 +1,7 @@
 ---
 title: "Giulia Silan"
 description: "Giulia Silan is a Mid-career General CDR researcher at Ca' Foscari University of Venice in IT. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.919376
+date: 2026-04-02T07:03:26.245652
 url: "/cdr-researcher-census/researchers/giulia-silan-a5027181/"
 layout: "researcher"
 hiddenInHomeList: true

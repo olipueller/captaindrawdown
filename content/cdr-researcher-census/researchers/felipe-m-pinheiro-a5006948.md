@@ -1,7 +1,7 @@
 ---
 title: "Felipe M. Pinheiro"
 description: "Felipe M. Pinheiro is a Mid-career Soil Carbon researcher at University of Florida in US. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.512292
+date: 2026-04-02T07:03:25.677154
 url: "/cdr-researcher-census/researchers/felipe-m-pinheiro-a5006948/"
 layout: "researcher"
 hiddenInHomeList: true

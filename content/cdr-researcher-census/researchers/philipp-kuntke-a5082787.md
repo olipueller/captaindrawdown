@@ -1,7 +1,7 @@
 ---
 title: "Philipp Kuntke"
 description: "Philipp Kuntke is a Senior DAC researcher at Wageningen University & Research in NL. With 59 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.177172
+date: 2026-04-02T07:03:23.744669
 url: "/cdr-researcher-census/researchers/philipp-kuntke-a5082787/"
 layout: "researcher"
 hiddenInHomeList: true

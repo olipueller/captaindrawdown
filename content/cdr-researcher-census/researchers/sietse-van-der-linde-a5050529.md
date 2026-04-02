@@ -1,7 +1,7 @@
 ---
 title: "Sietse van der Linde"
 description: "Sietse van der Linde is a Senior Soil Carbon researcher at Netherlands Food and Consumer Product Safety Authority in NL. With 39 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.449598
+date: 2026-04-02T07:03:24.103881
 url: "/cdr-researcher-census/researchers/sietse-van-der-linde-a5050529/"
 layout: "researcher"
 hiddenInHomeList: true

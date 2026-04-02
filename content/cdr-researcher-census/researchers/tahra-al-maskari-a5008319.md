@@ -1,7 +1,7 @@
 ---
 title: "Tahra Al Maskari"
 description: "Tahra Al Maskari is a Mid-career Biochar researcher at College of Applied Sciences, Nizwa in OM. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.958527
+date: 2026-04-02T07:03:24.844198
 url: "/cdr-researcher-census/researchers/tahra-al-maskari-a5008319/"
 layout: "researcher"
 hiddenInHomeList: true

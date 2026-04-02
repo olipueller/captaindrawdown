@@ -1,7 +1,7 @@
 ---
 title: "Anurag Bera"
 description: "Anurag Bera is a Mid-career Soil Carbon researcher. With 33 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.837739
+date: 2026-04-02T07:03:26.127065
 url: "/cdr-researcher-census/researchers/anurag-bera-a5085003/"
 layout: "researcher"
 hiddenInHomeList: true

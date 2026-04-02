@@ -1,7 +1,7 @@
 ---
 title: "Korbinian Kaetzl"
 description: "Korbinian Kaetzl is a Mid-career Biochar researcher at University of Kassel in DE. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.879386
+date: 2026-04-02T07:03:24.717240
 url: "/cdr-researcher-census/researchers/korbinian-kaetzl-a5010499/"
 layout: "researcher"
 hiddenInHomeList: true

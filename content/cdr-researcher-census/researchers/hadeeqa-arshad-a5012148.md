@@ -1,7 +1,7 @@
 ---
 title: "Hadeeqa Arshad"
 description: "Hadeeqa Arshad is a Mid-career carbon dioxide removal researcher at Nuclear Institute for Agriculture and Biology in PK. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.309863
+date: 2026-04-02T07:03:26.843119
 url: "/cdr-researcher-census/researchers/hadeeqa-arshad-a5012148/"
 layout: "researcher"
 hiddenInHomeList: true

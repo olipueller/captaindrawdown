@@ -1,7 +1,7 @@
 ---
 title: "Yanzhong Yao"
 description: "Yanzhong Yao is a Senior Soil Carbon researcher at Southwest University in CN. With 41 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.873570
+date: 2026-04-02T07:03:24.708580
 url: "/cdr-researcher-census/researchers/yanzhong-yao-a5045325/"
 layout: "researcher"
 hiddenInHomeList: true

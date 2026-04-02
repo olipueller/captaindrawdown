@@ -1,7 +1,7 @@
 ---
 title: "Shakirah Nakasagga"
 description: "Shakirah Nakasagga is a Mid-career General CDR researcher at Missouri State University in US. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.036651
+date: 2026-04-02T07:03:26.415167
 url: "/cdr-researcher-census/researchers/shakirah-nakasagga-a5029611/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yongqiang Li"
 description: "Yongqiang Li is a Mid-career Soil Carbon researcher at Northwest A&F University in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.345875
+date: 2026-04-02T07:03:25.404676
 url: "/cdr-researcher-census/researchers/yongqiang-li-a5100462/"
 layout: "researcher"
 hiddenInHomeList: true

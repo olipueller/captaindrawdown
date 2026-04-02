@@ -1,7 +1,7 @@
 ---
 title: "Jens Hartmann"
 description: "Jens Hartmann is an Eminent Enhanced Weathering researcher at Universität Hamburg in DE. With 402 publications and an h-index of 67, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.077717
+date: 2026-04-02T07:03:23.620193
 url: "/cdr-researcher-census/researchers/jens-hartmann-a5019869/"
 layout: "researcher"
 hiddenInHomeList: true

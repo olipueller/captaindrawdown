@@ -1,7 +1,7 @@
 ---
 title: "Sheng‐Sheng Jin"
 description: "Sheng‐Sheng Jin is a Senior Soil Carbon researcher at Fujian Normal University in CN. With 23 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.054805
+date: 2026-04-02T07:03:24.988758
 url: "/cdr-researcher-census/researchers/shengsheng-jin-a5002792/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Erika Blanco"
 description: "Erika Blanco is a Mid-career Enhanced Weathering researcher at University of the Coast in CO. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.786639
+date: 2026-04-02T07:03:26.052855
 url: "/cdr-researcher-census/researchers/erika-blanco-a5109463/"
 layout: "researcher"
 hiddenInHomeList: true

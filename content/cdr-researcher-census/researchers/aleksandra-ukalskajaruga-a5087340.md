@@ -1,7 +1,7 @@
 ---
 title: "Aleksandra Ukalska‐Jaruga"
 description: "Aleksandra Ukalska‐Jaruga is a Senior Soil Carbon researcher at Institute of Soil Science and Plant Cultivation in PL. With 66 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.399548
+date: 2026-04-02T07:03:24.037920
 url: "/cdr-researcher-census/researchers/aleksandra-ukalskajaruga-a5087340/"
 layout: "researcher"
 hiddenInHomeList: true

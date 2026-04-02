@@ -1,7 +1,7 @@
 ---
 title: "David H. Le"
 description: "David H. Le is a Mid-career carbon dioxide removal researcher at Oregon State University in US. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.361518
+date: 2026-04-02T07:03:26.912409
 url: "/cdr-researcher-census/researchers/david-h-le-a5054418/"
 layout: "researcher"
 hiddenInHomeList: true

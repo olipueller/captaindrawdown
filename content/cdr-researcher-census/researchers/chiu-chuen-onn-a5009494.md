@@ -1,7 +1,7 @@
 ---
 title: "Chiu Chuen Onn"
 description: "Chiu Chuen Onn is a Senior Biochar researcher at University of Malaya in MY. With 56 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.311096
+date: 2026-04-02T07:03:23.924465
 url: "/cdr-researcher-census/researchers/chiu-chuen-onn-a5009494/"
 layout: "researcher"
 hiddenInHomeList: true

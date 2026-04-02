@@ -1,7 +1,7 @@
 ---
 title: "Jonah M. Greene"
 description: "Jonah M. Greene is a Mid-career DAC researcher at Colorado State University in US. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.246968
+date: 2026-04-02T07:03:25.270323
 url: "/cdr-researcher-census/researchers/jonah-m-greene-a5014483/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "David A. Gibbs"
 description: "David A. Gibbs is a Mid-career Soil Carbon researcher at World Resources Institute in US. With 46 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.250016
+date: 2026-04-02T07:03:23.840091
 url: "/cdr-researcher-census/researchers/david-a-gibbs-a5090450/"
 layout: "researcher"
 hiddenInHomeList: true

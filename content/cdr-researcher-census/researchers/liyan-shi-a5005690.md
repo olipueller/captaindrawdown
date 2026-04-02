@@ -1,7 +1,7 @@
 ---
 title: "Liyan Shi"
 description: "Liyan Shi is a Senior carbon dioxide removal researcher at Tongliao Academy of Agricultural Sciences in CN. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.420495
+date: 2026-04-02T07:03:25.518539
 url: "/cdr-researcher-census/researchers/liyan-shi-a5005690/"
 layout: "researcher"
 hiddenInHomeList: true

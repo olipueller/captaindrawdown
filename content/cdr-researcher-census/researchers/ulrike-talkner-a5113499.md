@@ -1,7 +1,7 @@
 ---
 title: "Ulrike Talkner"
 description: "Ulrike Talkner is a Senior carbon dioxide removal researcher at Nordwestdeutsche Forstliche Versuchsanstalt in DE. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.021236
+date: 2026-04-02T07:03:24.938516
 url: "/cdr-researcher-census/researchers/ulrike-talkner-a5113499/"
 layout: "researcher"
 hiddenInHomeList: true

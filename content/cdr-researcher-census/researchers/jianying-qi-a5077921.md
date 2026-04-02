@@ -1,7 +1,7 @@
 ---
 title: "Jianying Qi"
 description: "Jianying Qi is a Senior Soil Carbon researcher at South China Agricultural University in CN. With 98 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.226860
+date: 2026-04-02T07:03:23.809948
 url: "/cdr-researcher-census/researchers/jianying-qi-a5077921/"
 layout: "researcher"
 hiddenInHomeList: true

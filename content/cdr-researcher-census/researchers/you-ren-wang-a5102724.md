@@ -1,7 +1,7 @@
 ---
 title: "You-Ren Wang"
 description: "You-Ren Wang is a Mid-career carbon dioxide removal researcher at National Sun Yat-sen University in TW. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.431906
+date: 2026-04-02T07:03:25.534359
 url: "/cdr-researcher-census/researchers/you-ren-wang-a5102724/"
 layout: "researcher"
 hiddenInHomeList: true

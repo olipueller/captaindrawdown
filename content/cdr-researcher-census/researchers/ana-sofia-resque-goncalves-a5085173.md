@@ -1,7 +1,7 @@
 ---
 title: "Ana Sofia Resque Gonçalves"
 description: "Ana Sofia Resque Gonçalves is a Senior BECCS researcher at Polytechnic Institute of Cávado and Ave in PT. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.096076
+date: 2026-04-02T07:03:26.500783
 url: "/cdr-researcher-census/researchers/ana-sofia-resque-goncalves-a5085173/"
 layout: "researcher"
 hiddenInHomeList: true

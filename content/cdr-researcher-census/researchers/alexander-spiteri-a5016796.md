@@ -1,7 +1,7 @@
 ---
 title: "Alexander Spiteri"
 description: "Alexander Spiteri is a Mid-career DAC researcher at International Wildlife Consultants (United Kingdom) in GB. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.043838
+date: 2026-04-02T07:03:24.971743
 url: "/cdr-researcher-census/researchers/alexander-spiteri-a5016796/"
 layout: "researcher"
 hiddenInHomeList: true

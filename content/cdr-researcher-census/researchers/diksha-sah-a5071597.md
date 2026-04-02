@@ -1,7 +1,7 @@
 ---
 title: "Diksha Sah"
 description: "Diksha Sah is an Early-career Soil Carbon researcher at Guildford College in GB. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.368144
+date: 2026-04-02T07:03:26.921560
 url: "/cdr-researcher-census/researchers/diksha-sah-a5071597/"
 layout: "researcher"
 hiddenInHomeList: true

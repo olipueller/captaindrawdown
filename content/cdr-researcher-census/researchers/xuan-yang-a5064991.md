@@ -1,7 +1,7 @@
 ---
 title: "Xuan Yang"
 description: "Xuan Yang is a Senior Soil Carbon researcher at University of Geneva Institute of Genetics and Genomics of Geneva in CH. With 57 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.501840
+date: 2026-04-02T07:03:24.174816
 url: "/cdr-researcher-census/researchers/xuan-yang-a5064991/"
 layout: "researcher"
 hiddenInHomeList: true

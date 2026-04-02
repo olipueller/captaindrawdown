@@ -1,7 +1,7 @@
 ---
 title: "Audrey Ngambia"
 description: "Audrey Ngambia is a Mid-career Biochar researcher. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.966813
+date: 2026-04-02T07:03:24.857557
 url: "/cdr-researcher-census/researchers/audrey-ngambia-a5075011/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xiangdong Liu"
 description: "Xiangdong Liu is a Senior Enhanced Weathering researcher at Lifetech Scientific (China) in CN. With 29 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.500108
+date: 2026-04-02T07:03:25.660039
 url: "/cdr-researcher-census/researchers/xiangdong-liu-a5100776/"
 layout: "researcher"
 hiddenInHomeList: true

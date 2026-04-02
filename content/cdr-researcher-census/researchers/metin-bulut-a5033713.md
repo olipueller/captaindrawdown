@@ -1,7 +1,7 @@
 ---
 title: "Metin Bulut"
 description: "Metin Bulut is a Senior DAC researcher at Flemish Institute for Technological Research in BE. With 37 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.232126
+date: 2026-04-02T07:03:23.816165
 url: "/cdr-researcher-census/researchers/metin-bulut-a5033713/"
 layout: "researcher"
 hiddenInHomeList: true

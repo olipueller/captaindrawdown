@@ -1,7 +1,7 @@
 ---
 title: "Carsten Drechsler"
 description: "Carsten Drechsler is a Mid-career carbon dioxide removal researcher. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.223571
+date: 2026-04-02T07:03:26.712382
 url: "/cdr-researcher-census/researchers/carsten-drechsler-a5075273/"
 layout: "researcher"
 hiddenInHomeList: true

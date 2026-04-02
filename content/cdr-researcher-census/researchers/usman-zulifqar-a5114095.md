@@ -1,7 +1,7 @@
 ---
 title: "Usman Zulifqar"
 description: "Usman Zulifqar is an Early-career Soil Carbon researcher at Islamia University of Bahawalpur in PK. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.844509
+date: 2026-04-02T07:03:26.136384
 url: "/cdr-researcher-census/researchers/usman-zulifqar-a5114095/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Zakaria Sihaib"
 description: "Zakaria Sihaib is a Mid-career carbon dioxide removal researcher at Al Zawiya University in LY. With 5 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.409537
+date: 2026-04-02T07:03:25.502571
 url: "/cdr-researcher-census/researchers/zakaria-sihaib-a5048011/"
 layout: "researcher"
 hiddenInHomeList: true

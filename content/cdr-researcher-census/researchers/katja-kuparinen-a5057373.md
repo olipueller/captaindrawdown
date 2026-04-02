@@ -1,7 +1,7 @@
 ---
 title: "Katja Kuparinen"
 description: "Katja Kuparinen is a Mid-career General CDR researcher at Lappeenranta-Lahti University of Technology in FI. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.150104
+date: 2026-04-02T07:03:25.128268
 url: "/cdr-researcher-census/researchers/katja-kuparinen-a5057373/"
 layout: "researcher"
 hiddenInHomeList: true

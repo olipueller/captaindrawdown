@@ -1,7 +1,7 @@
 ---
 title: "Cheng‐Chung Liu"
 description: "Cheng‐Chung Liu is a Senior carbon dioxide removal researcher at National Ilan University in TW. With 37 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.522311
+date: 2026-04-02T07:03:24.203093
 url: "/cdr-researcher-census/researchers/chengchung-liu-a5102784/"
 layout: "researcher"
 hiddenInHomeList: true

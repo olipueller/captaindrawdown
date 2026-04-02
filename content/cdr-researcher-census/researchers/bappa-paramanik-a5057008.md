@@ -1,7 +1,7 @@
 ---
 title: "Bappa Paramanik"
 description: "Bappa Paramanik is a Mid-career Soil Carbon researcher at Dinajpur Medical College in BD. With 55 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.660444
+date: 2026-04-02T07:03:25.898228
 url: "/cdr-researcher-census/researchers/bappa-paramanik-a5057008/"
 layout: "researcher"
 hiddenInHomeList: true

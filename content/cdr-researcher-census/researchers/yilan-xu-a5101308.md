@@ -1,7 +1,7 @@
 ---
 title: "Yilan Xu"
 description: "Yilan Xu is a Mid-career Soil Carbon researcher at University of Illinois Urbana-Champaign in US. With 33 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.180106
+date: 2026-04-02T07:03:25.170399
 url: "/cdr-researcher-census/researchers/yilan-xu-a5101308/"
 layout: "researcher"
 hiddenInHomeList: true

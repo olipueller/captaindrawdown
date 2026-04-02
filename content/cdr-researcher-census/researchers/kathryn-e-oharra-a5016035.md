@@ -1,7 +1,7 @@
 ---
 title: "Kathryn E. O’Harra"
 description: "Kathryn E. O’Harra is a Mid-career carbon dioxide removal researcher at University of Colorado Boulder in US. With 40 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.634465
+date: 2026-04-02T07:03:24.367860
 url: "/cdr-researcher-census/researchers/kathryn-e-oharra-a5016035/"
 layout: "researcher"
 hiddenInHomeList: true

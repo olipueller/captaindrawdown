@@ -1,7 +1,7 @@
 ---
 title: "Daniel S. Goll"
 description: "Daniel S. Goll is an Eminent General CDR researcher at University of Paris-Saclay in FR. With 268 publications and an h-index of 54, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.083774
+date: 2026-04-02T07:03:23.627630
 url: "/cdr-researcher-census/researchers/daniel-s-goll-a5063381/"
 layout: "researcher"
 hiddenInHomeList: true

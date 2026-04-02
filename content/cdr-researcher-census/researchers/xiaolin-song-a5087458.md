@@ -1,7 +1,7 @@
 ---
 title: "Xiaolin Song"
 description: "Xiaolin Song is a Mid-career Soil Carbon researcher at North West Agriculture and Forestry University in CN. With 31 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.600522
+date: 2026-04-02T07:03:24.320912
 url: "/cdr-researcher-census/researchers/xiaolin-song-a5087458/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Souradeep Gupta"
 description: "Souradeep Gupta is a Senior General CDR researcher at Centre for Sustainable Energy in GB. With 40 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.339003
+date: 2026-04-02T07:03:23.962041
 url: "/cdr-researcher-census/researchers/souradeep-gupta-a5026780/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Michael P. Nitzsche"
 description: "Michael P. Nitzsche is a Mid-career DAC researcher at Massachusetts Institute of Technology in US. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.145224
+date: 2026-04-02T07:03:25.121761
 url: "/cdr-researcher-census/researchers/michael-p-nitzsche-a5045323/"
 layout: "researcher"
 hiddenInHomeList: true

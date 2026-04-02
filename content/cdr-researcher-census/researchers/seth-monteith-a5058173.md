@@ -1,7 +1,7 @@
 ---
 title: "Seth Monteith"
 description: "Seth Monteith is a Mid-career General CDR researcher at ClimateWorks Foundation in US. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.489455
+date: 2026-04-02T07:03:24.159403
 url: "/cdr-researcher-census/researchers/seth-monteith-a5058173/"
 layout: "researcher"
 hiddenInHomeList: true

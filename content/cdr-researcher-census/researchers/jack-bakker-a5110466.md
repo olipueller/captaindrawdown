@@ -1,7 +1,7 @@
 ---
 title: "Jack Bakker"
 description: "Jack Bakker is an Early-career Enhanced Weathering researcher at Wageningen University & Research in NL. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.415371
+date: 2026-04-02T07:03:26.988486
 url: "/cdr-researcher-census/researchers/jack-bakker-a5110466/"
 layout: "researcher"
 hiddenInHomeList: true

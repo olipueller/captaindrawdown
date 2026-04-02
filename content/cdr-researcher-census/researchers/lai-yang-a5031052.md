@@ -1,7 +1,7 @@
 ---
 title: "Lai Yang"
 description: "Lai Yang is a Mid-career BECCS researcher at Ezhou Central Hospital in CN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.181264
+date: 2026-04-02T07:03:25.172234
 url: "/cdr-researcher-census/researchers/lai-yang-a5031052/"
 layout: "researcher"
 hiddenInHomeList: true

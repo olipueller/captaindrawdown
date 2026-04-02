@@ -1,7 +1,7 @@
 ---
 title: "Pengwei Yao"
 description: "Pengwei Yao is a Mid-career Soil Carbon researcher at Henan Agricultural University in CN. With 28 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.575872
+date: 2026-04-02T07:03:24.285217
 url: "/cdr-researcher-census/researchers/pengwei-yao-a5072507/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Chao Xiao"
 description: "Chao Xiao is a Mid-career Soil Carbon researcher at Xihua University in CN. With 19 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.675088
+date: 2026-04-02T07:03:24.432708
 url: "/cdr-researcher-census/researchers/chao-xiao-a5013389/"
 layout: "researcher"
 hiddenInHomeList: true

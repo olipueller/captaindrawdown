@@ -1,7 +1,7 @@
 ---
 title: "Nadhem Brahim"
 description: "Nadhem Brahim is a Mid-career Soil Carbon researcher at Tunis El Manar University in TN. With 53 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.889303
+date: 2026-04-02T07:03:24.733412
 url: "/cdr-researcher-census/researchers/nadhem-brahim-a5058926/"
 layout: "researcher"
 hiddenInHomeList: true

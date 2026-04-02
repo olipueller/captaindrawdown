@@ -1,7 +1,7 @@
 ---
 title: "Adeniyi Kehinde Adeleke"
 description: "Adeniyi Kehinde Adeleke is a Mid-career Biochar researcher at University of North Carolina at Charlotte in US. With 21 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.171040
+date: 2026-04-02T07:03:25.157765
 url: "/cdr-researcher-census/researchers/adeniyi-kehinde-adeleke-a5104255/"
 layout: "researcher"
 hiddenInHomeList: true

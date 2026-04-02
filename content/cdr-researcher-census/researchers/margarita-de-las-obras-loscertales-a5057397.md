@@ -1,7 +1,7 @@
 ---
 title: "Margarita de Las Obras Loscertales"
 description: "Margarita de Las Obras Loscertales is a Mid-career BECCS researcher at Instituto de Carboquímica in ES. With 60 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.604744
+date: 2026-04-02T07:03:24.327073
 url: "/cdr-researcher-census/researchers/margarita-de-las-obras-loscertales-a5057397/"
 layout: "researcher"
 hiddenInHomeList: true

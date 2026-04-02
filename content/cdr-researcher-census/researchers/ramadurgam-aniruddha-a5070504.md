@@ -1,7 +1,7 @@
 ---
 title: "Ramadurgam Aniruddha"
 description: "Ramadurgam Aniruddha is a Mid-career carbon dioxide removal researcher at National Chemical Laboratory in IN. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.337130
+date: 2026-04-02T07:03:25.392838
 url: "/cdr-researcher-census/researchers/ramadurgam-aniruddha-a5070504/"
 layout: "researcher"
 hiddenInHomeList: true

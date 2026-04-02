@@ -1,7 +1,7 @@
 ---
 title: "Matti Hyyrynen"
 description: "Matti Hyyrynen is a Mid-career Soil Carbon researcher at Natural Resources Institute Finland in FI. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.282489
+date: 2026-04-02T07:03:26.800487
 url: "/cdr-researcher-census/researchers/matti-hyyrynen-a5018642/"
 layout: "researcher"
 hiddenInHomeList: true

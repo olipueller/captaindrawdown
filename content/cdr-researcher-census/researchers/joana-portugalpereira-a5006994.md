@@ -1,7 +1,7 @@
 ---
 title: "Joana Portugal‐Pereira"
 description: "Joana Portugal‐Pereira is a Senior General CDR researcher at Instituto de Engenharia de Sistemas e Computadores Investigação e Desenvolvimento in PT. With 86 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.104829
+date: 2026-04-02T07:03:23.653370
 url: "/cdr-researcher-census/researchers/joana-portugalpereira-a5006994/"
 layout: "researcher"
 hiddenInHomeList: true

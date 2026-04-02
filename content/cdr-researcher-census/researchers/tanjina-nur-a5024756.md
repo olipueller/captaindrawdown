@@ -1,7 +1,7 @@
 ---
 title: "Tanjina Nur"
 description: "Tanjina Nur is a Mid-career carbon dioxide removal researcher at University of Technology Sydney in AU. With 18 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.509939
+date: 2026-04-02T07:03:24.185744
 url: "/cdr-researcher-census/researchers/tanjina-nur-a5024756/"
 layout: "researcher"
 hiddenInHomeList: true

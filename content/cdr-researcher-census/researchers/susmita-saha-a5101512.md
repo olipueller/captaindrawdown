@@ -1,7 +1,7 @@
 ---
 title: "Susmita Saha"
 description: "Susmita Saha is a Senior General CDR researcher at Indian Institute of Technology Roorkee in IN. With 40 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.219946
+date: 2026-04-02T07:03:26.707468
 url: "/cdr-researcher-census/researchers/susmita-saha-a5101512/"
 layout: "researcher"
 hiddenInHomeList: true

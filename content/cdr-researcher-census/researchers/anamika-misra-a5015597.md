@@ -1,7 +1,7 @@
 ---
 title: "Anamika Misra"
 description: "Anamika Misra is a Mid-career General CDR researcher at Johns Hopkins University in US. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.539117
+date: 2026-04-02T07:03:25.715510
 url: "/cdr-researcher-census/researchers/anamika-misra-a5015597/"
 layout: "researcher"
 hiddenInHomeList: true

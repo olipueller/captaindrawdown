@@ -1,7 +1,7 @@
 ---
 title: "Marcio Rangel"
 description: "Marcio Rangel is a Senior Biochar researcher at Texas Tech University in US. With 18 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.550417
+date: 2026-04-02T07:03:25.731832
 url: "/cdr-researcher-census/researchers/marcio-rangel-a5108609/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Amitabha Nath"
 description: "Amitabha Nath is a Mid-career Soil Carbon researcher at North Eastern Hill University in IN. With 24 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.121584
+date: 2026-04-02T07:03:25.086702
 url: "/cdr-researcher-census/researchers/amitabha-nath-a5104094/"
 layout: "researcher"
 hiddenInHomeList: true

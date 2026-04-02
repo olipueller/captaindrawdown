@@ -1,7 +1,7 @@
 ---
 title: "Enrico Balugani"
 description: "Enrico Balugani is a Senior Soil Carbon researcher at University of Bologna in IT. With 73 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.828271
+date: 2026-04-02T07:03:24.644292
 url: "/cdr-researcher-census/researchers/enrico-balugani-a5076562/"
 layout: "researcher"
 hiddenInHomeList: true

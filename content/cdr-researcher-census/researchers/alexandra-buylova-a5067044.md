@@ -1,7 +1,7 @@
 ---
 title: "Alexandra Buylova"
 description: "Alexandra Buylova is a Mid-career General CDR researcher at Swedish Institute of International Affairs in SE. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.346072
+date: 2026-04-02T07:03:25.405004
 url: "/cdr-researcher-census/researchers/alexandra-buylova-a5067044/"
 layout: "researcher"
 hiddenInHomeList: true

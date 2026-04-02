@@ -1,7 +1,7 @@
 ---
 title: "Mohsin Raza Dustgeer"
 description: "Mohsin Raza Dustgeer is a Mid-career carbon dioxide removal researcher at Government College University, Faisalabad in PK. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.658413
+date: 2026-04-02T07:03:25.895126
 url: "/cdr-researcher-census/researchers/mohsin-raza-dustgeer-a5081199/"
 layout: "researcher"
 hiddenInHomeList: true

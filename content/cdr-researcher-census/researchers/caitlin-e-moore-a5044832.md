@@ -1,7 +1,7 @@
 ---
 title: "Caitlin E. Moore"
 description: "Caitlin E. Moore is a Senior General CDR researcher at University of Western Australia in AU. With 81 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.141627
+date: 2026-04-02T07:03:23.696698
 url: "/cdr-researcher-census/researchers/caitlin-e-moore-a5044832/"
 layout: "researcher"
 hiddenInHomeList: true

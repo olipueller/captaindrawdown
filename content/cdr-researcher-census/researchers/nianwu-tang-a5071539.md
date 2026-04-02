@@ -1,7 +1,7 @@
 ---
 title: "Nianwu Tang"
 description: "Nianwu Tang is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 17 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.524751
+date: 2026-04-02T07:03:24.207125
 url: "/cdr-researcher-census/researchers/nianwu-tang-a5071539/"
 layout: "researcher"
 hiddenInHomeList: true

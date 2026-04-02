@@ -1,7 +1,7 @@
 ---
 title: "Jinhua Cao"
 description: "Jinhua Cao is a Mid-career Soil Carbon researcher at Xinjiang University in CN. With 19 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.340920
+date: 2026-04-02T07:03:25.398334
 url: "/cdr-researcher-census/researchers/jinhua-cao-a5101053/"
 layout: "researcher"
 hiddenInHomeList: true

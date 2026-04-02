@@ -1,7 +1,7 @@
 ---
 title: "Muhammed Safeer Naduvil Kovilakath"
 description: "Muhammed Safeer Naduvil Kovilakath is a Mid-career Biochar researcher at Centre for Nano and Soft Matter Sciences in IN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.461361
+date: 2026-04-02T07:03:25.579230
 url: "/cdr-researcher-census/researchers/muhammed-safeer-naduvil-kovilakath-a5043593/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "He Guoyu"
 description: "He Guoyu is a Senior General CDR researcher at Peking University in CN. With 22 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.211387
+date: 2026-04-02T07:03:26.694847
 url: "/cdr-researcher-census/researchers/he-guoyu-a5101831/"
 layout: "researcher"
 hiddenInHomeList: true

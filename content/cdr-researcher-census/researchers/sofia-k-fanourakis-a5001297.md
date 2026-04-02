@@ -1,7 +1,7 @@
 ---
 title: "Sofia K. Fanourakis"
 description: "Sofia K. Fanourakis is a Mid-career carbon dioxide removal researcher at PaneraTech (United States) in US. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.472092
+date: 2026-04-02T07:03:24.136290
 url: "/cdr-researcher-census/researchers/sofia-k-fanourakis-a5001297/"
 layout: "researcher"
 hiddenInHomeList: true

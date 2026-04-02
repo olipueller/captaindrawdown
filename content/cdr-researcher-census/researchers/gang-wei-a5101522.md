@@ -1,7 +1,7 @@
 ---
 title: "Gang Wei"
 description: "Gang Wei is a Mid-career carbon dioxide removal researcher at Qinghai Meteorological Bureau in CN. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.182856
+date: 2026-04-02T07:03:25.174653
 url: "/cdr-researcher-census/researchers/gang-wei-a5101522/"
 layout: "researcher"
 hiddenInHomeList: true

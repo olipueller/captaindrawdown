@@ -1,7 +1,7 @@
 ---
 title: "Stephanie Gerin"
 description: "Stephanie Gerin is a Mid-career Soil Carbon researcher at Finnish Meteorological Institute in FI. With 24 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.697014
+date: 2026-04-02T07:03:25.954629
 url: "/cdr-researcher-census/researchers/stephanie-gerin-a5073537/"
 layout: "researcher"
 hiddenInHomeList: true

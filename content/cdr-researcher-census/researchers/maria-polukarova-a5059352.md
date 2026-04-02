@@ -1,7 +1,7 @@
 ---
 title: "Maria Polukarova"
 description: "Maria Polukarova is a Mid-career carbon dioxide removal researcher at Swedish National Road and Transport Research Institute in SE. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.701517
+date: 2026-04-02T07:03:24.468147
 url: "/cdr-researcher-census/researchers/maria-polukarova-a5059352/"
 layout: "researcher"
 hiddenInHomeList: true

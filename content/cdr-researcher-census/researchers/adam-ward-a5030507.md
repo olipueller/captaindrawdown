@@ -1,7 +1,7 @@
 ---
 title: "Adam Ward"
 description: "Adam Ward is a Senior General CDR researcher at Oregon State University in US. With 31 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.854876
+date: 2026-04-02T07:03:26.151183
 url: "/cdr-researcher-census/researchers/adam-ward-a5030507/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jun‐Feng Wang"
 description: "Jun‐Feng Wang is a Senior Soil Carbon researcher. With 21 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.546730
+date: 2026-04-02T07:03:25.726382
 url: "/cdr-researcher-census/researchers/junfeng-wang-a5102011/"
 layout: "researcher"
 hiddenInHomeList: true

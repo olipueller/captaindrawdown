@@ -1,7 +1,7 @@
 ---
 title: "Chandra Mohan Mehta"
 description: "Chandra Mohan Mehta is a Mid-career Biochar researcher at Lovely Professional University in IN. With 58 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.477472
+date: 2026-04-02T07:03:24.143742
 url: "/cdr-researcher-census/researchers/chandra-mohan-mehta-a5008862/"
 layout: "researcher"
 hiddenInHomeList: true

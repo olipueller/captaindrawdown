@@ -1,7 +1,7 @@
 ---
 title: "Samuel Hilaire"
 description: "Samuel Hilaire is a Mid-career General CDR researcher at Tour du Valat in FR. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.631051
+date: 2026-04-02T07:03:24.363119
 url: "/cdr-researcher-census/researchers/samuel-hilaire-a5083527/"
 layout: "researcher"
 hiddenInHomeList: true

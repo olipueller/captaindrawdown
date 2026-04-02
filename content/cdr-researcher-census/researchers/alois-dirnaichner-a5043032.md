@@ -1,7 +1,7 @@
 ---
 title: "Alois Dirnaichner"
 description: "Alois Dirnaichner is a Mid-career General CDR researcher. With 38 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.197981
+date: 2026-04-02T07:03:23.776205
 url: "/cdr-researcher-census/researchers/alois-dirnaichner-a5043032/"
 layout: "researcher"
 hiddenInHomeList: true

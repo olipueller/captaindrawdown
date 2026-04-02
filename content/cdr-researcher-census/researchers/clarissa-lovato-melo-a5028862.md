@@ -1,7 +1,7 @@
 ---
 title: "Clarissa Lovato Melo"
 description: "Clarissa Lovato Melo is a Senior DAC researcher at Pontifícia Universidade Católica do Rio Grande do Sul in BR. With 42 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.360153
+date: 2026-04-02T07:03:25.427889
 url: "/cdr-researcher-census/researchers/clarissa-lovato-melo-a5028862/"
 layout: "researcher"
 hiddenInHomeList: true

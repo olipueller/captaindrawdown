@@ -1,7 +1,7 @@
 ---
 title: "Diego Espirito Santo"
 description: "Diego Espirito Santo is a Mid-career Biochar researcher at Universidade Estadual de Londrina in BR. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.288634
+date: 2026-04-02T07:03:26.810145
 url: "/cdr-researcher-census/researchers/diego-espirito-santo-a5102761/"
 layout: "researcher"
 hiddenInHomeList: true

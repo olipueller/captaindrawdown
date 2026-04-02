@@ -1,7 +1,7 @@
 ---
 title: "Alejandro Guevara"
 description: "Alejandro Guevara is a Senior Soil Carbon researcher. With 11 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.743432
+date: 2026-04-02T07:03:24.529917
 url: "/cdr-researcher-census/researchers/alejandro-guevara-a5109346/"
 layout: "researcher"
 hiddenInHomeList: true

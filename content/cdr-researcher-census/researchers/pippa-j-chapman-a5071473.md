@@ -1,7 +1,7 @@
 ---
 title: "Pippa J. Chapman"
 description: "Pippa J. Chapman is an Eminent Soil Carbon researcher at University of Leeds in GB. With 192 publications and an h-index of 40, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.116124
+date: 2026-04-02T07:03:23.666767
 url: "/cdr-researcher-census/researchers/pippa-j-chapman-a5071473/"
 layout: "researcher"
 hiddenInHomeList: true

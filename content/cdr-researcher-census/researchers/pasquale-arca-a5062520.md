@@ -1,7 +1,7 @@
 ---
 title: "Pasquale Arca"
 description: "Pasquale Arca is a Mid-career General CDR researcher at Istituto per il Sistema Produzione Animale in Ambiente Mediterraneo in IT. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.035297
+date: 2026-04-02T07:03:26.413109
 url: "/cdr-researcher-census/researchers/pasquale-arca-a5062520/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "B.D.G. Piggott"
 description: "B.D.G. Piggott is a Senior General CDR researcher at Trimeric (United States) in US. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.676508
+date: 2026-04-02T07:03:25.923998
 url: "/cdr-researcher-census/researchers/bdg-piggott-a5063946/"
 layout: "researcher"
 hiddenInHomeList: true

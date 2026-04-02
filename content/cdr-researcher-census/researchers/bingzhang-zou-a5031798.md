@@ -1,7 +1,7 @@
 ---
 title: "Bingzhang Zou"
 description: "Bingzhang Zou is a Mid-career carbon dioxide removal researcher. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.987527
+date: 2026-04-02T07:03:26.342302
 url: "/cdr-researcher-census/researchers/bingzhang-zou-a5031798/"
 layout: "researcher"
 hiddenInHomeList: true

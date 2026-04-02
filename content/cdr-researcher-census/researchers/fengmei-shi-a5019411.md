@@ -1,7 +1,7 @@
 ---
 title: "Fengmei Shi"
 description: "Fengmei Shi is a Mid-career Biochar researcher at National Animal Husbandry Service in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.452748
+date: 2026-04-02T07:03:25.564985
 url: "/cdr-researcher-census/researchers/fengmei-shi-a5019411/"
 layout: "researcher"
 hiddenInHomeList: true

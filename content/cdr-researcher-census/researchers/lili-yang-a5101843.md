@@ -1,7 +1,7 @@
 ---
 title: "Lili Yang"
 description: "Lili Yang is a Senior Soil Carbon researcher at Central South University of Forestry and Technology in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.404181
+date: 2026-04-02T07:03:26.971832
 url: "/cdr-researcher-census/researchers/lili-yang-a5101843/"
 layout: "researcher"
 hiddenInHomeList: true

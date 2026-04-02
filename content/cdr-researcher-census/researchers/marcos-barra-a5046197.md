@@ -1,7 +1,7 @@
 ---
 title: "Marcos Barra"
 description: "Marcos Barra is a Senior Soil Carbon researcher at Städtisches Klinikum Dessau in DE. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.686054
+date: 2026-04-02T07:03:24.447276
 url: "/cdr-researcher-census/researchers/marcos-barra-a5046197/"
 layout: "researcher"
 hiddenInHomeList: true

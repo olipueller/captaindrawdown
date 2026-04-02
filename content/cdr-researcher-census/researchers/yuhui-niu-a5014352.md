@@ -1,7 +1,7 @@
 ---
 title: "Yuhui Niu"
 description: "Yuhui Niu is a Mid-career Soil Carbon researcher at Shanghai Institute of Landscape Gardening in CN. With 32 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.529087
+date: 2026-04-02T07:03:24.214212
 url: "/cdr-researcher-census/researchers/yuhui-niu-a5014352/"
 layout: "researcher"
 hiddenInHomeList: true

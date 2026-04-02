@@ -1,7 +1,7 @@
 ---
 title: "Zhufeng Wang"
 description: "Zhufeng Wang is a Mid-career Soil Carbon researcher at Beijing Forestry University in CN. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.906340
+date: 2026-04-02T07:03:26.224182
 url: "/cdr-researcher-census/researchers/zhufeng-wang-a5103135/"
 layout: "researcher"
 hiddenInHomeList: true

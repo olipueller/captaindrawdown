@@ -1,7 +1,7 @@
 ---
 title: "Diane C. Huebner"
 description: "Diane C. Huebner is a Mid-career carbon dioxide removal researcher at Ames Research Center in US. With 17 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.432280
+date: 2026-04-02T07:03:25.534919
 url: "/cdr-researcher-census/researchers/diane-c-huebner-a5068082/"
 layout: "researcher"
 hiddenInHomeList: true

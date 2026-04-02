@@ -1,7 +1,7 @@
 ---
 title: "Katherine Warner"
 description: "Katherine Warner is a Senior General CDR researcher at University of the Sunshine Coast in AU. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.172029
+date: 2026-04-02T07:03:25.158970
 url: "/cdr-researcher-census/researchers/katherine-warner-a5109174/"
 layout: "researcher"
 hiddenInHomeList: true

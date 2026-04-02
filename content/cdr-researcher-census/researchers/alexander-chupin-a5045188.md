@@ -1,7 +1,7 @@
 ---
 title: "Alexander Chupin"
 description: "Alexander Chupin is a Senior BECCS researcher at Peoples' Friendship University of Russia in RU. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.474721
+date: 2026-04-02T07:03:25.600829
 url: "/cdr-researcher-census/researchers/alexander-chupin-a5045188/"
 layout: "researcher"
 hiddenInHomeList: true

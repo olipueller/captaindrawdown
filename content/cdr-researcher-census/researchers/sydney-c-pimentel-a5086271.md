@@ -1,7 +1,7 @@
 ---
 title: "Sydney C. Pimentel"
 description: "Sydney C. Pimentel is a Mid-career carbon dioxide removal researcher at New York University in US. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.869297
+date: 2026-04-02T07:03:26.171525
 url: "/cdr-researcher-census/researchers/sydney-c-pimentel-a5086271/"
 layout: "researcher"
 hiddenInHomeList: true

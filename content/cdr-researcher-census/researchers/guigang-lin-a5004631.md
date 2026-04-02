@@ -1,7 +1,7 @@
 ---
 title: "Guigang Lin"
 description: "Guigang Lin is a Senior Soil Carbon researcher at Northeast Forestry University in CN. With 52 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.352925
+date: 2026-04-02T07:03:23.981086
 url: "/cdr-researcher-census/researchers/guigang-lin-a5004631/"
 layout: "researcher"
 hiddenInHomeList: true

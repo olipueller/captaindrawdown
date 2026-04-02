@@ -1,7 +1,7 @@
 ---
 title: "Linquan Mu"
 description: "Linquan Mu is a Mid-career Ocean CDR researcher at Second People’s Hospital of Yibin in CN. With 30 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.795275
+date: 2026-04-02T07:03:26.065627
 url: "/cdr-researcher-census/researchers/linquan-mu-a5080569/"
 layout: "researcher"
 hiddenInHomeList: true

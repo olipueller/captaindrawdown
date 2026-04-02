@@ -1,7 +1,7 @@
 ---
 title: "Jelita Rahma Hidayati"
 description: "Jelita Rahma Hidayati is a Mid-career General CDR researcher at California Maritime Academy in US. With 29 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.056262
+date: 2026-04-02T07:03:26.447832
 url: "/cdr-researcher-census/researchers/jelita-rahma-hidayati-a5003303/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Marie‐Christin Wimmler"
 description: "Marie‐Christin Wimmler is a Mid-career Soil Carbon researcher at Institute of Forest Ecology of the Slovak Academy of Sciences in SK. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.973476
+date: 2026-04-02T07:03:26.325613
 url: "/cdr-researcher-census/researchers/mariechristin-wimmler-a5005594/"
 layout: "researcher"
 hiddenInHomeList: true

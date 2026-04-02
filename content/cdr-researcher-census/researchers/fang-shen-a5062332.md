@@ -1,7 +1,7 @@
 ---
 title: "Fang Shen"
 description: "Fang Shen is a Mid-career General CDR researcher at East China Normal University in CN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.083486
+date: 2026-04-02T07:03:26.483434
 url: "/cdr-researcher-census/researchers/fang-shen-a5062332/"
 layout: "researcher"
 hiddenInHomeList: true

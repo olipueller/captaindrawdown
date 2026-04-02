@@ -1,7 +1,7 @@
 ---
 title: "Daniel Hermann"
 description: "Daniel Hermann is a Mid-career General CDR researcher at University of Bonn in DE. With 60 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.019125
+date: 2026-04-02T07:03:24.935520
 url: "/cdr-researcher-census/researchers/daniel-hermann-a5012659/"
 layout: "researcher"
 hiddenInHomeList: true

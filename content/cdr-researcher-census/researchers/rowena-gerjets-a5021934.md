@@ -1,7 +1,7 @@
 ---
 title: "Rowena Gerjets"
 description: "Rowena Gerjets is a Mid-career General CDR researcher at University of Göttingen in DE. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.345220
+date: 2026-04-02T07:03:26.889067
 url: "/cdr-researcher-census/researchers/rowena-gerjets-a5021934/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xiping Hu"
 description: "Xiping Hu is a Mid-career Soil Carbon researcher at Shenzhen Institute of Building Research (China) in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.211748
+date: 2026-04-02T07:03:25.217577
 url: "/cdr-researcher-census/researchers/xiping-hu-a5034230/"
 layout: "researcher"
 hiddenInHomeList: true

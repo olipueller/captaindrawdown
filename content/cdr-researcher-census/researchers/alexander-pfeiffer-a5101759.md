@@ -1,7 +1,7 @@
 ---
 title: "Alexander Pfeiffer"
 description: "Alexander Pfeiffer is a Mid-career BECCS researcher at Universität für Weiterbildung Krems in AT. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.802732
+date: 2026-04-02T07:03:24.613367
 url: "/cdr-researcher-census/researchers/alexander-pfeiffer-a5101759/"
 layout: "researcher"
 hiddenInHomeList: true

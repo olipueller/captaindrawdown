@@ -1,7 +1,7 @@
 ---
 title: "Shouliang Yi"
 description: "Shouliang Yi is a Senior Biochar researcher at University of Pittsburgh in US. With 78 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.190497
+date: 2026-04-02T07:03:23.765918
 url: "/cdr-researcher-census/researchers/shouliang-yi-a5044210/"
 layout: "researcher"
 hiddenInHomeList: true

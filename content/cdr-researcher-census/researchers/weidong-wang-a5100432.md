@@ -1,7 +1,7 @@
 ---
 title: "Weidong Wang"
 description: "Weidong Wang is a Senior Biochar researcher at China Agricultural University in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.520233
+date: 2026-04-02T07:03:25.688494
 url: "/cdr-researcher-census/researchers/weidong-wang-a5100432/"
 layout: "researcher"
 hiddenInHomeList: true

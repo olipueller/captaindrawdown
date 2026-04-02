@@ -1,7 +1,7 @@
 ---
 title: "Cristina Valhondo"
 description: "Cristina Valhondo is a Senior Biochar researcher at Consejo Superior de Investigaciones Científicas in ES. With 69 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.668277
+date: 2026-04-02T07:03:24.423027
 url: "/cdr-researcher-census/researchers/cristina-valhondo-a5051671/"
 layout: "researcher"
 hiddenInHomeList: true

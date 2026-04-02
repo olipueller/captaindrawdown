@@ -1,7 +1,7 @@
 ---
 title: "Glory A. Russell-Parks"
 description: "Glory A. Russell-Parks is a Mid-career carbon dioxide removal researcher at National Renewable Energy Laboratory in US. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.143130
+date: 2026-04-02T07:03:26.573089
 url: "/cdr-researcher-census/researchers/glory-a-russell-parks-a5086017/"
 layout: "researcher"
 hiddenInHomeList: true

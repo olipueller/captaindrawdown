@@ -1,7 +1,7 @@
 ---
 title: "Anna Martins Moraes"
 description: "Anna Martins Moraes is an Early-career carbon dioxide removal researcher at National Institute of Amazonian Research in BR. With 1 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.598920
+date: 2026-04-02T07:03:25.803382
 url: "/cdr-researcher-census/researchers/anna-martins-moraes-a5003926/"
 layout: "researcher"
 hiddenInHomeList: true

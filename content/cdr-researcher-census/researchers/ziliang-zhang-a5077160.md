@@ -1,7 +1,7 @@
 ---
 title: "Ziliang Zhang"
 description: "Ziliang Zhang is a Senior Soil Carbon researcher at Guangdong University of Technology in CN. With 115 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.273451
+date: 2026-04-02T07:03:23.873523
 url: "/cdr-researcher-census/researchers/ziliang-zhang-a5077160/"
 layout: "researcher"
 hiddenInHomeList: true

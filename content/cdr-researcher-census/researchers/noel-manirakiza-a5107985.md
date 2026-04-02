@@ -1,7 +1,7 @@
 ---
 title: "Noel Manirakiza"
 description: "Noel Manirakiza is a Mid-career Soil Carbon researcher at Everglades University in US. With 16 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.262143
+date: 2026-04-02T07:03:26.767592
 url: "/cdr-researcher-census/researchers/noel-manirakiza-a5107985/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Antoine Moinet"
 description: "Antoine Moinet is a Mid-career General CDR researcher at Commissariat à l'Énergie Atomique et aux Énergies Alternatives in FR. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.259334
+date: 2026-04-02T07:03:25.285892
 url: "/cdr-researcher-census/researchers/antoine-moinet-a5026205/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Richard C. Darton"
 description: "Richard C. Darton is a Senior Enhanced Weathering researcher at University of Oxford in GB. With 84 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.234461
+date: 2026-04-02T07:03:23.818857
 url: "/cdr-researcher-census/researchers/richard-c-darton-a5045326/"
 layout: "researcher"
 hiddenInHomeList: true

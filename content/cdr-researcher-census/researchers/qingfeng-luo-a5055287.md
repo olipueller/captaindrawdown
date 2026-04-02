@@ -1,7 +1,7 @@
 ---
 title: "Qingfeng Luo"
 description: "Qingfeng Luo is a Mid-career carbon dioxide removal researcher at Dalian Medical University in CN. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.828205
+date: 2026-04-02T07:03:26.112709
 url: "/cdr-researcher-census/researchers/qingfeng-luo-a5055287/"
 layout: "researcher"
 hiddenInHomeList: true

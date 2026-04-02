@@ -1,7 +1,7 @@
 ---
 title: "Farida Amrouche"
 description: "Farida Amrouche is a Mid-career carbon dioxide removal researcher at Lancaster University in GB. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.669203
+date: 2026-04-02T07:03:25.912770
 url: "/cdr-researcher-census/researchers/farida-amrouche-a5008666/"
 layout: "researcher"
 hiddenInHomeList: true

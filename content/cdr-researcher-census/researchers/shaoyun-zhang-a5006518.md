@@ -1,7 +1,7 @@
 ---
 title: "Shaoyun Zhang"
 description: "Shaoyun Zhang is a Mid-career carbon dioxide removal researcher at Sun Yat-sen University in CN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.172236
+date: 2026-04-02T07:03:26.624765
 url: "/cdr-researcher-census/researchers/shaoyun-zhang-a5006518/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Lucas T. Greschuk"
 description: "Lucas T. Greschuk is a Mid-career Soil Carbon researcher at Universidade de São Paulo in BR. With 25 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.480295
+date: 2026-04-02T07:03:25.631938
 url: "/cdr-researcher-census/researchers/lucas-t-greschuk-a5010095/"
 layout: "researcher"
 hiddenInHomeList: true

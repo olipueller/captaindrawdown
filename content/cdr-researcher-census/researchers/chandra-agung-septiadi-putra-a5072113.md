@@ -1,7 +1,7 @@
 ---
 title: "Chandra Agung Septiadi Putra"
 description: "Chandra Agung Septiadi Putra is a Mid-career General CDR researcher in GB. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.030019
+date: 2026-04-02T07:03:26.405190
 url: "/cdr-researcher-census/researchers/chandra-agung-septiadi-putra-a5072113/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "V. Santhosh Kumar"
 description: "V. Santhosh Kumar is a Mid-career Biochar researcher at National Institute of Technology Kurukshetra in IN. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.138000
+date: 2026-04-02T07:03:26.564678
 url: "/cdr-researcher-census/researchers/v-santhosh-kumar-a5102018/"
 layout: "researcher"
 hiddenInHomeList: true

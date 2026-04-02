@@ -1,7 +1,7 @@
 ---
 title: "Megan Y. Andrews"
 description: "Megan Y. Andrews is a Senior Enhanced Weathering researcher at University of Southampton in GB. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.479497
+date: 2026-04-02T07:03:25.630944
 url: "/cdr-researcher-census/researchers/megan-y-andrews-a5038746/"
 layout: "researcher"
 hiddenInHomeList: true

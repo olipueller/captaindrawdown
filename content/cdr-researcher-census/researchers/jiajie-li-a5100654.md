@@ -1,7 +1,7 @@
 ---
 title: "Jiajie Li"
 description: "Jiajie Li is a Mid-career carbon dioxide removal researcher at Sun Yat-sen University in CN. With 22 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.649467
+date: 2026-04-02T07:03:25.881014
 url: "/cdr-researcher-census/researchers/jiajie-li-a5100654/"
 layout: "researcher"
 hiddenInHomeList: true

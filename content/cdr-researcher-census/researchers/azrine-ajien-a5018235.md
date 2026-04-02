@@ -1,7 +1,7 @@
 ---
 title: "Azrine Ajien"
 description: "Azrine Ajien is a Mid-career Biochar researcher. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.046332
+date: 2026-04-02T07:03:26.430888
 url: "/cdr-researcher-census/researchers/azrine-ajien-a5018235/"
 layout: "researcher"
 hiddenInHomeList: true

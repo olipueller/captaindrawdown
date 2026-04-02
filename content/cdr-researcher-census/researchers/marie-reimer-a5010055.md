@@ -1,7 +1,7 @@
 ---
 title: "Marie Reimer"
 description: "Marie Reimer is a Mid-career Soil Carbon researcher at University of Hohenheim in DE. With 40 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.034732
+date: 2026-04-02T07:03:24.957991
 url: "/cdr-researcher-census/researchers/marie-reimer-a5010055/"
 layout: "researcher"
 hiddenInHomeList: true

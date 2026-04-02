@@ -1,7 +1,7 @@
 ---
 title: "Praveen Bollini"
 description: "Praveen Bollini is a Senior DAC researcher at University of Houston in US. With 71 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.223295
+date: 2026-04-02T07:03:23.805878
 url: "/cdr-researcher-census/researchers/praveen-bollini-a5025125/"
 layout: "researcher"
 hiddenInHomeList: true

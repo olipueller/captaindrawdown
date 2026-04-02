@@ -1,7 +1,7 @@
 ---
 title: "Patricia Poblete-Grant"
 description: "Patricia Poblete-Grant is a Mid-career Soil Carbon researcher at Universidad de La Frontera in CL. With 27 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.801069
+date: 2026-04-02T07:03:24.611069
 url: "/cdr-researcher-census/researchers/patricia-poblete-grant-a5057520/"
 layout: "researcher"
 hiddenInHomeList: true

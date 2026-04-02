@@ -1,7 +1,7 @@
 ---
 title: "Guanchu Lu"
 description: "Guanchu Lu is a Mid-career DAC researcher at Chinese University of Hong Kong, Shenzhen in CN. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.580781
+date: 2026-04-02T07:03:25.775948
 url: "/cdr-researcher-census/researchers/guanchu-lu-a5104234/"
 layout: "researcher"
 hiddenInHomeList: true

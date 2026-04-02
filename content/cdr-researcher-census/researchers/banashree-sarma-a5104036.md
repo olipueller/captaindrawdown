@@ -1,7 +1,7 @@
 ---
 title: "Banashree Sarma"
 description: "Banashree Sarma is a Mid-career Biochar researcher. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.880881
+date: 2026-04-02T07:03:24.719709
 url: "/cdr-researcher-census/researchers/banashree-sarma-a5104036/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Magdalena Joka Yildiz"
 description: "Magdalena Joka Yildiz is a Mid-career BECCS researcher at Bialystok University of Technology in PL. With 29 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.314369
+date: 2026-04-02T07:03:25.361186
 url: "/cdr-researcher-census/researchers/magdalena-joka-yildiz-a5011901/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "R.M. Oshani Nayanathara"
 description: "R.M. Oshani Nayanathara is a Mid-career Biochar researcher at Mississippi State University in US. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.500516
+date: 2026-04-02T07:03:25.660641
 url: "/cdr-researcher-census/researchers/rm-oshani-nayanathara-a5005675/"
 layout: "researcher"
 hiddenInHomeList: true

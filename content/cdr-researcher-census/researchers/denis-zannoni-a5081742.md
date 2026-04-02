@@ -1,7 +1,7 @@
 ---
 title: "Denis Zannoni"
 description: "Denis Zannoni is a Senior Soil Carbon researcher at University of Bologna in IT. With 40 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.344562
+date: 2026-04-02T07:03:25.402823
 url: "/cdr-researcher-census/researchers/denis-zannoni-a5081742/"
 layout: "researcher"
 hiddenInHomeList: true

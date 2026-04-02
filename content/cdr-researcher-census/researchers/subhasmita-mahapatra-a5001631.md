@@ -1,7 +1,7 @@
 ---
 title: "Subhasmita Mahapatra"
 description: "Subhasmita Mahapatra is a Mid-career carbon dioxide removal researcher at Indian Institute of Technology Indore in IN. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.203997
+date: 2026-04-02T07:03:25.204733
 url: "/cdr-researcher-census/researchers/subhasmita-mahapatra-a5001631/"
 layout: "researcher"
 hiddenInHomeList: true

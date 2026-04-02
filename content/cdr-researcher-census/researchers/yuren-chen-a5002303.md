@@ -1,7 +1,7 @@
 ---
 title: "Yuren Chen"
 description: "Yuren Chen is a Senior Ocean CDR researcher at University of Maryland Center for Environmental Science in US. With 20 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.986926
+date: 2026-04-02T07:03:24.888997
 url: "/cdr-researcher-census/researchers/yuren-chen-a5002303/"
 layout: "researcher"
 hiddenInHomeList: true

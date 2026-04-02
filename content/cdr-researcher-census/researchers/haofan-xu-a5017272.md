@@ -1,7 +1,7 @@
 ---
 title: "Haofan Xu"
 description: "Haofan Xu is a Mid-career Soil Carbon researcher at Foshan University in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.870376
+date: 2026-04-02T07:03:24.704205
 url: "/cdr-researcher-census/researchers/haofan-xu-a5017272/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Zhanjun Wang"
 description: "Zhanjun Wang is a Mid-career Soil Carbon researcher at Ningxia Academy of Agriculture and Forestry Sciences in CN. With 36 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.008339
+date: 2026-04-02T07:03:24.922174
 url: "/cdr-researcher-census/researchers/zhanjun-wang-a5115592/"
 layout: "researcher"
 hiddenInHomeList: true

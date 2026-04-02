@@ -1,7 +1,7 @@
 ---
 title: "Florian Thomas Payen"
 description: "Florian Thomas Payen is a Mid-career Soil Carbon researcher at Warwickshire College in GB. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.154735
+date: 2026-04-02T07:03:25.135210
 url: "/cdr-researcher-census/researchers/florian-thomas-payen-a5061423/"
 layout: "researcher"
 hiddenInHomeList: true

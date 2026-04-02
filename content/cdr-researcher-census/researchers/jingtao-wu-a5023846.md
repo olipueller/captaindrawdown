@@ -1,7 +1,7 @@
 ---
 title: "Jingtao Wu"
 description: "Jingtao Wu is a Senior Soil Carbon researcher at Dongguan University of Technology in CN. With 76 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.294645
+date: 2026-04-02T07:03:23.903117
 url: "/cdr-researcher-census/researchers/jingtao-wu-a5023846/"
 layout: "researcher"
 hiddenInHomeList: true

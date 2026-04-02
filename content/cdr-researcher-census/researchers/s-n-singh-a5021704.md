@@ -1,7 +1,7 @@
 ---
 title: "S. N. Singh"
 description: "S. N. Singh is a Senior General CDR researcher at Indira Gandhi Delhi Technical University for Women in IN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.322782
+date: 2026-04-02T07:03:25.373322
 url: "/cdr-researcher-census/researchers/s-n-singh-a5021704/"
 layout: "researcher"
 hiddenInHomeList: true

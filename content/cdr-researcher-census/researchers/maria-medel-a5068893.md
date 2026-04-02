@@ -1,7 +1,7 @@
 ---
 title: "María Medel"
 description: "María Medel is a Senior DAC researcher at Sustainability Institute in ZA. With 28 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.683558
+date: 2026-04-02T07:03:24.444090
 url: "/cdr-researcher-census/researchers/maria-medel-a5068893/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Youyi Zhao"
 description: "Youyi Zhao is a Senior Soil Carbon researcher at Gansu Agricultural University in CN. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.176871
+date: 2026-04-02T07:03:26.633542
 url: "/cdr-researcher-census/researchers/youyi-zhao-a5100913/"
 layout: "researcher"
 hiddenInHomeList: true

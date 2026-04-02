@@ -1,7 +1,7 @@
 ---
 title: "Thidarat Rupngam"
 description: "Thidarat Rupngam is a Mid-career Soil Carbon researcher at Chiang Mai University in TH. With 16 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.396176
+date: 2026-04-02T07:03:26.961384
 url: "/cdr-researcher-census/researchers/thidarat-rupngam-a5046433/"
 layout: "researcher"
 hiddenInHomeList: true

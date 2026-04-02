@@ -1,7 +1,7 @@
 ---
 title: "Amy L. Lewis"
 description: "Amy L. Lewis is a Mid-career Enhanced Weathering researcher at University of Sheffield in GB. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.675306
+date: 2026-04-02T07:03:24.433018
 url: "/cdr-researcher-census/researchers/amy-l-lewis-a5050000/"
 layout: "researcher"
 hiddenInHomeList: true

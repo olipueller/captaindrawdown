@@ -1,7 +1,7 @@
 ---
 title: "Zi‐Yang He"
 description: "Zi‐Yang He is a Mid-career Soil Carbon researcher at Guangdong University of Technology in CN. With 29 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.018816
+date: 2026-04-02T07:03:26.388070
 url: "/cdr-researcher-census/researchers/ziyang-he-a5112995/"
 layout: "researcher"
 hiddenInHomeList: true

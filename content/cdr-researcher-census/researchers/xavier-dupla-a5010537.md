@@ -1,7 +1,7 @@
 ---
 title: "Xavier Dupla"
 description: "Xavier Dupla is a Mid-career Enhanced Weathering researcher at ETH Zurich in CH. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.614339
+date: 2026-04-02T07:03:25.827385
 url: "/cdr-researcher-census/researchers/xavier-dupla-a5010537/"
 layout: "researcher"
 hiddenInHomeList: true

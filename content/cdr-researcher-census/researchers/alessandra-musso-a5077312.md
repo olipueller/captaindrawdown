@@ -1,7 +1,7 @@
 ---
 title: "Alessandra Musso"
 description: "Alessandra Musso is a Mid-career Soil Carbon researcher at Swiss Federal Institute for Forest, Snow and Landscape Research in CH. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.320929
+date: 2026-04-02T07:03:25.370594
 url: "/cdr-researcher-census/researchers/alessandra-musso-a5077312/"
 layout: "researcher"
 hiddenInHomeList: true

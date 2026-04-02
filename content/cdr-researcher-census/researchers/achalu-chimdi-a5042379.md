@@ -1,7 +1,7 @@
 ---
 title: "Achalu Chimdi"
 description: "Achalu Chimdi is a Mid-career Soil Carbon researcher at Ambo University in ET. With 29 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.965355
+date: 2026-04-02T07:03:24.855520
 url: "/cdr-researcher-census/researchers/achalu-chimdi-a5042379/"
 layout: "researcher"
 hiddenInHomeList: true

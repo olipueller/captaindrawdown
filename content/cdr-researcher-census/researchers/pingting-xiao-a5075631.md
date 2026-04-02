@@ -1,7 +1,7 @@
 ---
 title: "Ping‐Ting Xiao"
 description: "Ping‐Ting Xiao is a Mid-career carbon dioxide removal researcher at China Pharmaceutical University in CN. With 18 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.518927
+date: 2026-04-02T07:03:24.197987
 url: "/cdr-researcher-census/researchers/pingting-xiao-a5075631/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Shigenori Fujikawa"
 description: "Shigenori Fujikawa is a Senior DAC researcher at Kyushu University in JP. With 151 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.164816
+date: 2026-04-02T07:03:23.729011
 url: "/cdr-researcher-census/researchers/shigenori-fujikawa-a5053164/"
 layout: "researcher"
 hiddenInHomeList: true

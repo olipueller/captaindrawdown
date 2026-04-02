@@ -1,7 +1,7 @@
 ---
 title: "Lei Zhong"
 description: "Lei Zhong is a Senior Biochar researcher at Guangdong University of Technology in CN. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.720632
+date: 2026-04-02T07:03:25.991821
 url: "/cdr-researcher-census/researchers/lei-zhong-a5103233/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jimena E. Chaves"
 description: "Jimena E. Chaves is a Senior Soil Carbon researcher at National University of Tierra del Fuego in AR. With 25 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.177611
+date: 2026-04-02T07:03:25.167006
 url: "/cdr-researcher-census/researchers/jimena-e-chaves-a5036408/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ying Shen"
 description: "Ying Shen is a Mid-career Soil Carbon researcher at Institute of Plant Protection in CN. With 32 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.611969
+date: 2026-04-02T07:03:24.337215
 url: "/cdr-researcher-census/researchers/ying-shen-a5101546/"
 layout: "researcher"
 hiddenInHomeList: true

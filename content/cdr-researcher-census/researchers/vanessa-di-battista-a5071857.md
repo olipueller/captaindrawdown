@@ -1,7 +1,7 @@
 ---
 title: "Vanessa Di Battista"
 description: "Vanessa Di Battista is a Mid-career carbon dioxide removal researcher at Université de Sherbrooke in CA. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.214574
+date: 2026-04-02T07:03:26.699570
 url: "/cdr-researcher-census/researchers/vanessa-di-battista-a5071857/"
 layout: "researcher"
 hiddenInHomeList: true

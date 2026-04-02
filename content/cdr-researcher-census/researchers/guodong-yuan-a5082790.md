@@ -1,7 +1,7 @@
 ---
 title: "Guodong Yuan"
 description: "Guodong Yuan is a Senior Soil Carbon researcher at Zhaoqing University in CN. With 96 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.147185
+date: 2026-04-02T07:03:23.704131
 url: "/cdr-researcher-census/researchers/guodong-yuan-a5082790/"
 layout: "researcher"
 hiddenInHomeList: true

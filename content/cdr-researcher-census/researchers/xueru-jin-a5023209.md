@@ -1,7 +1,7 @@
 ---
 title: "Xueru Jin"
 description: "Xueru Jin is a Mid-career General CDR researcher at Peking University in CN. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.127250
+date: 2026-04-02T07:03:25.095045
 url: "/cdr-researcher-census/researchers/xueru-jin-a5023209/"
 layout: "researcher"
 hiddenInHomeList: true

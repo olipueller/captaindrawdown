@@ -1,7 +1,7 @@
 ---
 title: "Renjie Hou"
 description: "Renjie Hou is a Senior Soil Carbon researcher at Sun Yat-sen University in CN. With 119 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.185647
+date: 2026-04-02T07:03:23.758604
 url: "/cdr-researcher-census/researchers/renjie-hou-a5108886/"
 layout: "researcher"
 hiddenInHomeList: true

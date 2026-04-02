@@ -1,7 +1,7 @@
 ---
 title: "Santiago Toledo"
 description: "Santiago Toledo is a Mid-career Soil Carbon researcher at National University of Austral Patagonia in AR. With 25 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.686410
+date: 2026-04-02T07:03:25.938416
 url: "/cdr-researcher-census/researchers/santiago-toledo-a5090425/"
 layout: "researcher"
 hiddenInHomeList: true

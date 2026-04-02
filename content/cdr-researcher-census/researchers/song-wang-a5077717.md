@@ -1,7 +1,7 @@
 ---
 title: "Song Wang"
 description: "Song Wang is a Senior General CDR researcher at Shanxi Medical University in CN. With 43 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.844448
+date: 2026-04-02T07:03:24.667947
 url: "/cdr-researcher-census/researchers/song-wang-a5077717/"
 layout: "researcher"
 hiddenInHomeList: true

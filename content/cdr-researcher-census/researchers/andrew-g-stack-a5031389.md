@@ -1,7 +1,7 @@
 ---
 title: "Andrew G. Stack"
 description: "Andrew G. Stack is a Senior DAC researcher at Oak Ridge National Laboratory in US. With 180 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.166953
+date: 2026-04-02T07:03:23.732258
 url: "/cdr-researcher-census/researchers/andrew-g-stack-a5031389/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Manuel Moreno‐García"
 description: "Manuel Moreno‐García is a Mid-career Soil Carbon researcher at Andalusian Institute of Agricultural and Fisheries Research and Training in ES. With 24 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.111176
+date: 2026-04-02T07:03:25.071141
 url: "/cdr-researcher-census/researchers/manuel-morenogarcia-a5035935/"
 layout: "researcher"
 hiddenInHomeList: true

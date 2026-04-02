@@ -1,7 +1,7 @@
 ---
 title: "Jiaye Ping"
 description: "Jiaye Ping is a Mid-career Soil Carbon researcher at Max Planck Institute for Biogeochemistry in DE. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.846055
+date: 2026-04-02T07:03:26.138610
 url: "/cdr-researcher-census/researchers/jiaye-ping-a5017262/"
 layout: "researcher"
 hiddenInHomeList: true

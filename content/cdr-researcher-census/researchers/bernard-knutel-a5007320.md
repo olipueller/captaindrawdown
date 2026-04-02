@@ -1,7 +1,7 @@
 ---
 title: "Bernard Knutel"
 description: "Bernard Knutel is a Mid-career Biochar researcher at Wrocław University of Environmental and Life Sciences in PL. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.344821
+date: 2026-04-02T07:03:26.888339
 url: "/cdr-researcher-census/researchers/bernard-knutel-a5007320/"
 layout: "researcher"
 hiddenInHomeList: true

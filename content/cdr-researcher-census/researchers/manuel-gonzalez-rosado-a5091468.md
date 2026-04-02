@@ -1,7 +1,7 @@
 ---
 title: "Manuel González-Rosado"
 description: "Manuel González-Rosado is a Mid-career Soil Carbon researcher at Universidad Politécnica de Cartagena in ES. With 42 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.239502
+date: 2026-04-02T07:03:25.261174
 url: "/cdr-researcher-census/researchers/manuel-gonzalez-rosado-a5091468/"
 layout: "researcher"
 hiddenInHomeList: true

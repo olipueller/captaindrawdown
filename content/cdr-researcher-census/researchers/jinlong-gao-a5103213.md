@@ -1,7 +1,7 @@
 ---
 title: "Jinlong Gao"
 description: "Jinlong Gao is a Senior Soil Carbon researcher at Lanzhou University in CN. With 40 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.595325
+date: 2026-04-02T07:03:24.313043
 url: "/cdr-researcher-census/researchers/jinlong-gao-a5103213/"
 layout: "researcher"
 hiddenInHomeList: true

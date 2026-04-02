@@ -1,7 +1,7 @@
 ---
 title: "Toni Viskari"
 description: "Toni Viskari is a Senior Soil Carbon researcher at Joint Research Centre in IT. With 81 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.364371
+date: 2026-04-02T07:03:23.997108
 url: "/cdr-researcher-census/researchers/toni-viskari-a5038122/"
 layout: "researcher"
 hiddenInHomeList: true

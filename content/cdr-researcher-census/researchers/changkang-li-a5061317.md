@@ -1,7 +1,7 @@
 ---
 title: "Changkang Li"
 description: "Changkang Li is a Mid-career Biochar researcher at Huazhong University of Science and Technology in CN. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.000724
+date: 2026-04-02T07:03:24.910725
 url: "/cdr-researcher-census/researchers/changkang-li-a5061317/"
 layout: "researcher"
 hiddenInHomeList: true

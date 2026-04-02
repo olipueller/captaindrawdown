@@ -1,7 +1,7 @@
 ---
 title: "Changshuo Liu"
 description: "Changshuo Liu is a Mid-career Soil Carbon researcher at Shandong University of Science and Technology in CN. With 24 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.843885
+date: 2026-04-02T07:03:24.667287
 url: "/cdr-researcher-census/researchers/changshuo-liu-a5062167/"
 layout: "researcher"
 hiddenInHomeList: true

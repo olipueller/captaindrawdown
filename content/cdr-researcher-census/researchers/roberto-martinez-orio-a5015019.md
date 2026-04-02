@@ -1,7 +1,7 @@
 ---
 title: "Roberto Martínez-Orío"
 description: "Roberto Martínez-Orío is a Mid-career General CDR researcher. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.206686
+date: 2026-04-02T07:03:26.688895
 url: "/cdr-researcher-census/researchers/roberto-martinez-orio-a5015019/"
 layout: "researcher"
 hiddenInHomeList: true

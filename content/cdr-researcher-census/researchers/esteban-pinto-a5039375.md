@@ -1,7 +1,7 @@
 ---
 title: "Esteban Pinto"
 description: "Esteban Pinto is a Mid-career Soil Carbon researcher at Auburn University in US. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.723815
+date: 2026-04-02T07:03:24.500661
 url: "/cdr-researcher-census/researchers/esteban-pinto-a5039375/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Nadia Khan"
 description: "Nadia Khan is a Mid-career carbon dioxide removal researcher at University of Peshawar in PK. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.277031
+date: 2026-04-02T07:03:26.792013
 url: "/cdr-researcher-census/researchers/nadia-khan-a5101046/"
 layout: "researcher"
 hiddenInHomeList: true

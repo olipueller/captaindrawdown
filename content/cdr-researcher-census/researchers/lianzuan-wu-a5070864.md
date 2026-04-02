@@ -1,7 +1,7 @@
 ---
 title: "Lianzuan Wu"
 description: "Lianzuan Wu is a Mid-career carbon dioxide removal researcher at North China Electric Power University in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.304152
+date: 2026-04-02T07:03:26.834005
 url: "/cdr-researcher-census/researchers/lianzuan-wu-a5070864/"
 layout: "researcher"
 hiddenInHomeList: true

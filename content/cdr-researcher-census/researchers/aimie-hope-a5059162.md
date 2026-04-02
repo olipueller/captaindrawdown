@@ -1,7 +1,7 @@
 ---
 title: "Aimie Hope"
 description: "Aimie Hope is a Mid-career General CDR researcher at University of East Anglia in GB. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.117053
+date: 2026-04-02T07:03:25.079806
 url: "/cdr-researcher-census/researchers/aimie-hope-a5059162/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Weiwei Shi"
 description: "Weiwei Shi is a Mid-career DAC researcher at Beijing University of Posts and Telecommunications in US. With 45 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.350700
+date: 2026-04-02T07:03:23.977466
 url: "/cdr-researcher-census/researchers/weiwei-shi-a5084343/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Rajesh Kotecha"
 description: "Rajesh Kotecha is a Mid-career Soil Carbon researcher at Government of India in IN. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.318494
+date: 2026-04-02T07:03:26.853860
 url: "/cdr-researcher-census/researchers/rajesh-kotecha-a5014161/"
 layout: "researcher"
 hiddenInHomeList: true

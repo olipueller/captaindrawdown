@@ -1,7 +1,7 @@
 ---
 title: "Anna Emanuelsson"
 description: "Anna Emanuelsson is a Senior BECCS researcher at Chalmers University of Technology in SE. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.991049
+date: 2026-04-02T07:03:26.347552
 url: "/cdr-researcher-census/researchers/anna-emanuelsson-a5045778/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xun Duan"
 description: "Xun Duan is a Mid-career Soil Carbon researcher at Shenyang Institute of Automation in CN. With 22 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.844166
+date: 2026-04-02T07:03:24.667625
 url: "/cdr-researcher-census/researchers/xun-duan-a5035804/"
 layout: "researcher"
 hiddenInHomeList: true

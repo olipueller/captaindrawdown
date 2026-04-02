@@ -1,7 +1,7 @@
 ---
 title: "Eugenio Straffelini"
 description: "Eugenio Straffelini is a Mid-career Soil Carbon researcher at Università degli Studi di Padova in IT. With 54 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.697703
+date: 2026-04-02T07:03:24.462135
 url: "/cdr-researcher-census/researchers/eugenio-straffelini-a5018150/"
 layout: "researcher"
 hiddenInHomeList: true

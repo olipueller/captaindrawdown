@@ -1,7 +1,7 @@
 ---
 title: "Melinda L. Jue"
 description: "Melinda L. Jue is a Mid-career DAC researcher at Lawrence Livermore National Laboratory in US. With 53 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.351917
+date: 2026-04-02T07:03:23.978945
 url: "/cdr-researcher-census/researchers/melinda-l-jue-a5024234/"
 layout: "researcher"
 hiddenInHomeList: true

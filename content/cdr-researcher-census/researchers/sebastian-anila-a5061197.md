@@ -1,7 +1,7 @@
 ---
 title: "Sebastian Anila"
 description: "Sebastian Anila is a Mid-career carbon dioxide removal researcher at Indian Institute of Tropical Meteorology in IN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.707324
+date: 2026-04-02T07:03:25.971087
 url: "/cdr-researcher-census/researchers/sebastian-anila-a5061197/"
 layout: "researcher"
 hiddenInHomeList: true

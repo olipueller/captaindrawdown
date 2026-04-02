@@ -1,7 +1,7 @@
 ---
 title: "Yalan Ji"
 description: "Yalan Ji is a Mid-career General CDR researcher at Rice Research Institute in CN. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.588269
+date: 2026-04-02T07:03:25.787778
 url: "/cdr-researcher-census/researchers/yalan-ji-a5055993/"
 layout: "researcher"
 hiddenInHomeList: true

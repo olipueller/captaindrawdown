@@ -1,7 +1,7 @@
 ---
 title: "Reza Khalidy"
 description: "Reza Khalidy is a Mid-career Enhanced Weathering researcher at University of Guelph in CA. With 23 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.414034
+date: 2026-04-02T07:03:25.509522
 url: "/cdr-researcher-census/researchers/reza-khalidy-a5010802/"
 layout: "researcher"
 hiddenInHomeList: true

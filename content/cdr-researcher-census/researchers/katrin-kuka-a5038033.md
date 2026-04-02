@@ -1,7 +1,7 @@
 ---
 title: "Katrin Kuka"
 description: "Katrin Kuka is a Senior Soil Carbon researcher at Julius Kühn-Institut in DE. With 57 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.524550
+date: 2026-04-02T07:03:24.206706
 url: "/cdr-researcher-census/researchers/katrin-kuka-a5038033/"
 layout: "researcher"
 hiddenInHomeList: true

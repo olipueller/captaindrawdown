@@ -1,7 +1,7 @@
 ---
 title: "Liming Guo"
 description: "Liming Guo is an Early-career Soil Carbon researcher at Institute of Soil and Water Conservation in CN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.250912
+date: 2026-04-02T07:03:26.750435
 url: "/cdr-researcher-census/researchers/liming-guo-a5101833/"
 layout: "researcher"
 hiddenInHomeList: true

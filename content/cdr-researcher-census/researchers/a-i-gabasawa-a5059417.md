@@ -1,7 +1,7 @@
 ---
 title: "A. I. Gabasawa"
 description: "A. I. Gabasawa is a Mid-career Soil Carbon researcher at Ahmadu Bello University in NG. With 19 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.834583
+date: 2026-04-02T07:03:26.122528
 url: "/cdr-researcher-census/researchers/a-i-gabasawa-a5059417/"
 layout: "researcher"
 hiddenInHomeList: true

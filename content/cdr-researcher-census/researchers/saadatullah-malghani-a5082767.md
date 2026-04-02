@@ -1,7 +1,7 @@
 ---
 title: "Saadatullah Malghani"
 description: "Saadatullah Malghani is a Senior Biochar researcher at University of Copenhagen in DK. With 40 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.380024
+date: 2026-04-02T07:03:24.017014
 url: "/cdr-researcher-census/researchers/saadatullah-malghani-a5082767/"
 layout: "researcher"
 hiddenInHomeList: true

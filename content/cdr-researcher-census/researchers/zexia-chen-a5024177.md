@@ -1,7 +1,7 @@
 ---
 title: "Zexia Chen"
 description: "Zexia Chen is a Mid-career Soil Carbon researcher at Sun Yat-sen University in CN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.010156
+date: 2026-04-02T07:03:26.375737
 url: "/cdr-researcher-census/researchers/zexia-chen-a5024177/"
 layout: "researcher"
 hiddenInHomeList: true

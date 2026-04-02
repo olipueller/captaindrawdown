@@ -1,7 +1,7 @@
 ---
 title: "Martina Fantini"
 description: "Martina Fantini is a Mid-career General CDR researcher at FIT Consulting (Italy) in IT. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.298260
+date: 2026-04-02T07:03:26.824286
 url: "/cdr-researcher-census/researchers/martina-fantini-a5002800/"
 layout: "researcher"
 hiddenInHomeList: true

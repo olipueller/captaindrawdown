@@ -1,7 +1,7 @@
 ---
 title: "Shaoying Lin"
 description: "Shaoying Lin is a Mid-career Soil Carbon researcher at Yantai University in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.889473
+date: 2026-04-02T07:03:26.200658
 url: "/cdr-researcher-census/researchers/shaoying-lin-a5101232/"
 layout: "researcher"
 hiddenInHomeList: true

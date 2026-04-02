@@ -1,7 +1,7 @@
 ---
 title: "Adetola E. Ogungbenro"
 description: "Adetola E. Ogungbenro is a Mid-career carbon dioxide removal researcher. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.684651
+date: 2026-04-02T07:03:24.445567
 url: "/cdr-researcher-census/researchers/adetola-e-ogungbenro-a5052004/"
 layout: "researcher"
 hiddenInHomeList: true

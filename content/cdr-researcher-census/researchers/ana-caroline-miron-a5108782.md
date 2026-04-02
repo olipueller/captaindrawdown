@@ -1,7 +1,7 @@
 ---
 title: "Ana Caroline Miron"
 description: "Ana Caroline Miron is a Mid-career carbon dioxide removal researcher at Universität Hamburg in DE. With 9 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.476305
+date: 2026-04-02T07:03:25.627021
 url: "/cdr-researcher-census/researchers/ana-caroline-miron-a5108782/"
 layout: "researcher"
 hiddenInHomeList: true

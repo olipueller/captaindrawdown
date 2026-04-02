@@ -1,7 +1,7 @@
 ---
 title: "Getachew Mulatu"
 description: "Getachew Mulatu is a Mid-career Biochar researcher at Jimma University in ET. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.041094
+date: 2026-04-02T07:03:26.422445
 url: "/cdr-researcher-census/researchers/getachew-mulatu-a5073033/"
 layout: "researcher"
 hiddenInHomeList: true

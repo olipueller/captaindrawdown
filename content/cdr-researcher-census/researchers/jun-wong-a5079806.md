@@ -1,7 +1,7 @@
 ---
 title: "Jun Wong"
 description: "Jun Wong is a Mid-career BECCS researcher at University of Nottingham Malaysia Campus in MY. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.224562
+date: 2026-04-02T07:03:26.713780
 url: "/cdr-researcher-census/researchers/jun-wong-a5079806/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Amanda M. Vieillard"
 description: "Amanda M. Vieillard is a Mid-career Soil Carbon researcher at Boston University in US. With 12 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.240832
+date: 2026-04-02T07:03:25.262889
 url: "/cdr-researcher-census/researchers/amanda-m-vieillard-a5035447/"
 layout: "researcher"
 hiddenInHomeList: true

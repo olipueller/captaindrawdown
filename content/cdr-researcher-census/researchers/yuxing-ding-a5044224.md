@@ -1,7 +1,7 @@
 ---
 title: "Yuxing Ding"
 description: "Yuxing Ding is a Mid-career DAC researcher at Tongji University in CN. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.796322
+date: 2026-04-02T07:03:26.067324
 url: "/cdr-researcher-census/researchers/yuxing-ding-a5044224/"
 layout: "researcher"
 hiddenInHomeList: true

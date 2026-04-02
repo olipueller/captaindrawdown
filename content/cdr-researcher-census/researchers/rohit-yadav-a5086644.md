@@ -1,7 +1,7 @@
 ---
 title: "Rohit Yadav"
 description: "Rohit Yadav is a Mid-career Soil Carbon researcher at Pandit Bhagwat Dayal Sharma Post Graduate Institute of Medical Sciences in IN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.616641
+date: 2026-04-02T07:03:25.830796
 url: "/cdr-researcher-census/researchers/rohit-yadav-a5086644/"
 layout: "researcher"
 hiddenInHomeList: true

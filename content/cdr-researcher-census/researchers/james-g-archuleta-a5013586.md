@@ -1,7 +1,7 @@
 ---
 title: "James G. Archuleta"
 description: "James G. Archuleta is a Mid-career Biochar researcher. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.410322
+date: 2026-04-02T07:03:26.980841
 url: "/cdr-researcher-census/researchers/james-g-archuleta-a5013586/"
 layout: "researcher"
 hiddenInHomeList: true

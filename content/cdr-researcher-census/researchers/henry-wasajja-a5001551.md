@@ -1,7 +1,7 @@
 ---
 title: "Henry Wasajja"
 description: "Henry Wasajja is a Mid-career Biochar researcher at Ndejje University in UG. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.940752
+date: 2026-04-02T07:03:26.279221
 url: "/cdr-researcher-census/researchers/henry-wasajja-a5001551/"
 layout: "researcher"
 hiddenInHomeList: true

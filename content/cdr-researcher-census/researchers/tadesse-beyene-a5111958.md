@@ -1,7 +1,7 @@
 ---
 title: "Tadesse Beyene"
 description: "Tadesse Beyene is a Senior carbon dioxide removal researcher at Mekelle University in ET. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.907651
+date: 2026-04-02T07:03:24.761643
 url: "/cdr-researcher-census/researchers/tadesse-beyene-a5111958/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Rohan Sartape"
 description: "Rohan Sartape is a Mid-career General CDR researcher at University of Illinois Chicago in US. With 31 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.070118
+date: 2026-04-02T07:03:25.012201
 url: "/cdr-researcher-census/researchers/rohan-sartape-a5026993/"
 layout: "researcher"
 hiddenInHomeList: true

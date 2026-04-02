@@ -1,7 +1,7 @@
 ---
 title: "Pavlo Ardanov"
 description: "Pavlo Ardanov is a Senior Soil Carbon researcher at Open International University of Human Development Ukraine in UA. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.830014
+date: 2026-04-02T07:03:24.647171
 url: "/cdr-researcher-census/researchers/pavlo-ardanov-a5080182/"
 layout: "researcher"
 hiddenInHomeList: true

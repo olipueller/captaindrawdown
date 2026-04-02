@@ -1,7 +1,7 @@
 ---
 title: "Yanhong Lou"
 description: "Yanhong Lou is a Senior Soil Carbon researcher at Soil and Fertilizer Institute of Hunan Province in CN. With 98 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.243498
+date: 2026-04-02T07:03:23.830926
 url: "/cdr-researcher-census/researchers/yanhong-lou-a5085216/"
 layout: "researcher"
 hiddenInHomeList: true

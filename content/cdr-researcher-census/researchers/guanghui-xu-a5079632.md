@@ -1,7 +1,7 @@
 ---
 title: "Guanghui Xu"
 description: "Guanghui Xu is a Mid-career Biochar researcher at University of Science and Technology of China in CN. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.694816
+date: 2026-04-02T07:03:25.951141
 url: "/cdr-researcher-census/researchers/guanghui-xu-a5079632/"
 layout: "researcher"
 hiddenInHomeList: true

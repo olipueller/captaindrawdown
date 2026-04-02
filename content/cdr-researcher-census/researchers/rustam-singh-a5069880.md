@@ -1,7 +1,7 @@
 ---
 title: "Rustam Singh"
 description: "Rustam Singh is a Mid-career Biochar researcher at Haramaya University in ET. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.730255
+date: 2026-04-02T07:03:24.509194
 url: "/cdr-researcher-census/researchers/rustam-singh-a5069880/"
 layout: "researcher"
 hiddenInHomeList: true

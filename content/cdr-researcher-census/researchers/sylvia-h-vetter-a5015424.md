@@ -1,7 +1,7 @@
 ---
 title: "Sylvia H. Vetter"
 description: "Sylvia H. Vetter is a Mid-career General CDR researcher at University of Aberdeen in GB. With 62 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.354777
+date: 2026-04-02T07:03:23.984374
 url: "/cdr-researcher-census/researchers/sylvia-h-vetter-a5015424/"
 layout: "researcher"
 hiddenInHomeList: true

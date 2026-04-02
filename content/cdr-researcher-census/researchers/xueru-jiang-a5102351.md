@@ -1,7 +1,7 @@
 ---
 title: "Xueru Jiang"
 description: "Xueru Jiang is a Mid-career Soil Carbon researcher at Jiangxi Agricultural University in CN. With 32 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.001125
+date: 2026-04-02T07:03:24.911364
 url: "/cdr-researcher-census/researchers/xueru-jiang-a5102351/"
 layout: "researcher"
 hiddenInHomeList: true

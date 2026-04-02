@@ -1,7 +1,7 @@
 ---
 title: "Yongli Zhang"
 description: "Yongli Zhang is a Mid-career Biochar researcher at Tiangong University in CN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.052881
+date: 2026-04-02T07:03:26.442102
 url: "/cdr-researcher-census/researchers/yongli-zhang-a5103858/"
 layout: "researcher"
 hiddenInHomeList: true

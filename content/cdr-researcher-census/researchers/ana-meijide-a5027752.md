@@ -1,7 +1,7 @@
 ---
 title: "Ana Meijide"
 description: "Ana Meijide is a Senior Soil Carbon researcher at University of Bonn in DE. With 115 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.155363
+date: 2026-04-02T07:03:23.715023
 url: "/cdr-researcher-census/researchers/ana-meijide-a5027752/"
 layout: "researcher"
 hiddenInHomeList: true

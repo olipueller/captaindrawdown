@@ -1,7 +1,7 @@
 ---
 title: "Samira Khodayar"
 description: "Samira Khodayar is a Mid-career General CDR researcher at Mediterranean Center for Environmental Studies in ES. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.186749
+date: 2026-04-02T07:03:25.180949
 url: "/cdr-researcher-census/researchers/samira-khodayar-a5109532/"
 layout: "researcher"
 hiddenInHomeList: true

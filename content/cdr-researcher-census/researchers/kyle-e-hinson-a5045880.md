@@ -1,7 +1,7 @@
 ---
 title: "Kyle E. Hinson"
 description: "Kyle E. Hinson is a Mid-career General CDR researcher at Pacific Northwest National Laboratory in US. With 22 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.212137
+date: 2026-04-02T07:03:25.218302
 url: "/cdr-researcher-census/researchers/kyle-e-hinson-a5045880/"
 layout: "researcher"
 hiddenInHomeList: true

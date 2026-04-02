@@ -1,7 +1,7 @@
 ---
 title: "Geeta Sameer Bhagwat"
 description: "Geeta Sameer Bhagwat is a Mid-career General CDR researcher at D.Y. Patil University in IN. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.212373
+date: 2026-04-02T07:03:26.696436
 url: "/cdr-researcher-census/researchers/geeta-sameer-bhagwat-a5046449/"
 layout: "researcher"
 hiddenInHomeList: true

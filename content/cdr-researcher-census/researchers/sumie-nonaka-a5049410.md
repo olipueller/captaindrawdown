@@ -1,7 +1,7 @@
 ---
 title: "Sumie NONAKA"
 description: "Sumie NONAKA is a Senior Soil Carbon researcher at Yokohama National University in JP. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.719255
+date: 2026-04-02T07:03:25.989816
 url: "/cdr-researcher-census/researchers/sumie-nonaka-a5049410/"
 layout: "researcher"
 hiddenInHomeList: true

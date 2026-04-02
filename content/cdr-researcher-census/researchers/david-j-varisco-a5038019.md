@@ -1,7 +1,7 @@
 ---
 title: "David J. Varisco"
 description: "David J. Varisco is a Mid-career BECCS researcher at University of Maryland, Baltimore in US. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.528866
+date: 2026-04-02T07:03:25.700779
 url: "/cdr-researcher-census/researchers/david-j-varisco-a5038019/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jari Liski"
 description: "Jari Liski is an Eminent Soil Carbon researcher. With 229 publications and an h-index of 56, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.092305
+date: 2026-04-02T07:03:23.637479
 url: "/cdr-researcher-census/researchers/jari-liski-a5010188/"
 layout: "researcher"
 hiddenInHomeList: true

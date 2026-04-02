@@ -1,7 +1,7 @@
 ---
 title: "Eric O’Neill"
 description: "Eric O’Neill is a Senior BECCS researcher at Princeton University in US. With 52 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.349330
+date: 2026-04-02T07:03:23.975489
 url: "/cdr-researcher-census/researchers/eric-oneill-a5071201/"
 layout: "researcher"
 hiddenInHomeList: true

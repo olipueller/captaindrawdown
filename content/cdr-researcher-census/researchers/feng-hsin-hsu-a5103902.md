@@ -1,7 +1,7 @@
 ---
 title: "Feng-Hsin Hsu"
 description: "Feng-Hsin Hsu is a Senior carbon dioxide removal researcher at National Taiwan Ocean University in TW. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.664966
+date: 2026-04-02T07:03:25.905699
 url: "/cdr-researcher-census/researchers/feng-hsin-hsu-a5103902/"
 layout: "researcher"
 hiddenInHomeList: true

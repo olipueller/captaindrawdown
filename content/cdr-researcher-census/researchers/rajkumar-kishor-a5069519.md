@@ -1,7 +1,7 @@
 ---
 title: "Rajkumar Kishor"
 description: "Rajkumar Kishor is a Senior Soil Carbon researcher at Indira Gandhi Agricultural University in IN. With 28 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.151609
+date: 2026-04-02T07:03:25.130307
 url: "/cdr-researcher-census/researchers/rajkumar-kishor-a5069519/"
 layout: "researcher"
 hiddenInHomeList: true

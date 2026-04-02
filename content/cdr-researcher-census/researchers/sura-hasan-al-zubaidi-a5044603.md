@@ -1,7 +1,7 @@
 ---
 title: "Sura Hasan Al-Zubaidi"
 description: "Sura Hasan Al-Zubaidi is an Early-career carbon dioxide removal researcher at Abu Dhabi University in AE. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.971657
+date: 2026-04-02T07:03:24.865030
 url: "/cdr-researcher-census/researchers/sura-hasan-al-zubaidi-a5044603/"
 layout: "researcher"
 hiddenInHomeList: true

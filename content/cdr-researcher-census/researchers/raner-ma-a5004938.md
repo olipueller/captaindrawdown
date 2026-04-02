@@ -1,7 +1,7 @@
 ---
 title: "Raner Ma"
 description: "Raner Ma is an Early-career carbon dioxide removal researcher at Tongji University in CN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.705090
+date: 2026-04-02T07:03:25.967897
 url: "/cdr-researcher-census/researchers/raner-ma-a5004938/"
 layout: "researcher"
 hiddenInHomeList: true

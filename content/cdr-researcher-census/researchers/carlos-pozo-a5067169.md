@@ -1,7 +1,7 @@
 ---
 title: "Carlos Pozo"
 description: "Carlos Pozo is a Senior General CDR researcher at Universitat Rovira i Virgili Departament d'Enginyeria Química in ES. With 72 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.244842
+date: 2026-04-02T07:03:23.833193
 url: "/cdr-researcher-census/researchers/carlos-pozo-a5067169/"
 layout: "researcher"
 hiddenInHomeList: true

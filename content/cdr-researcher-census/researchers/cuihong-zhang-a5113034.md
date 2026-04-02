@@ -1,7 +1,7 @@
 ---
 title: "Cuihong Zhang"
 description: "Cuihong Zhang is a Senior Soil Carbon researcher at Yanan University Affiliated Hospital in CN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.205021
+date: 2026-04-02T07:03:25.206334
 url: "/cdr-researcher-census/researchers/cuihong-zhang-a5113034/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xueyuan Sun"
 description: "Xueyuan Sun is a Mid-career General CDR researcher at Rice Research Institute in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.364709
+date: 2026-04-02T07:03:26.916988
 url: "/cdr-researcher-census/researchers/xueyuan-sun-a5089553/"
 layout: "researcher"
 hiddenInHomeList: true

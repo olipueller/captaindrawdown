@@ -1,7 +1,7 @@
 ---
 title: "Claudia Kammann"
 description: "Claudia Kammann is an Eminent Biochar researcher at Hochschule Geisenheim University in DE. With 193 publications and an h-index of 55, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.085724
+date: 2026-04-02T07:03:23.630063
 url: "/cdr-researcher-census/researchers/claudia-kammann-a5061014/"
 layout: "researcher"
 hiddenInHomeList: true

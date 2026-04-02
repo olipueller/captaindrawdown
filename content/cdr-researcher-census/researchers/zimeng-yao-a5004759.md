@@ -1,7 +1,7 @@
 ---
 title: "Zimeng Yao"
 description: "Zimeng Yao is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 29 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.427727
+date: 2026-04-02T07:03:27.007872
 url: "/cdr-researcher-census/researchers/zimeng-yao-a5004759/"
 layout: "researcher"
 hiddenInHomeList: true

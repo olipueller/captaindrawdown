@@ -1,7 +1,7 @@
 ---
 title: "Debosmita Chakraborty"
 description: "Debosmita Chakraborty is a Mid-career BECCS researcher at University of Engineering & Management in IN. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.253396
+date: 2026-04-02T07:03:25.278375
 url: "/cdr-researcher-census/researchers/debosmita-chakraborty-a5022245/"
 layout: "researcher"
 hiddenInHomeList: true

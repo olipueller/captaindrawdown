@@ -1,7 +1,7 @@
 ---
 title: "Guangcan Yu"
 description: "Guangcan Yu is a Senior Soil Carbon researcher at Shenzhen University in CN. With 24 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.993486
+date: 2026-04-02T07:03:26.351475
 url: "/cdr-researcher-census/researchers/guangcan-yu-a5004306/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jingwen Chen"
 description: "Jingwen Chen is a Senior Soil Carbon researcher at Ningbo University in CN. With 32 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.230023
+date: 2026-04-02T07:03:25.248933
 url: "/cdr-researcher-census/researchers/jingwen-chen-a5107539/"
 layout: "researcher"
 hiddenInHomeList: true

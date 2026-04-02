@@ -1,7 +1,7 @@
 ---
 title: "Guixiang Zhou"
 description: "Guixiang Zhou is a Senior Soil Carbon researcher at Institute of Soil Science in CN. With 80 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.225317
+date: 2026-04-02T07:03:23.808242
 url: "/cdr-researcher-census/researchers/guixiang-zhou-a5102644/"
 layout: "researcher"
 hiddenInHomeList: true

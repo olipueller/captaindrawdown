@@ -1,7 +1,7 @@
 ---
 title: "Eli Mitchell-Larson"
 description: "Eli Mitchell-Larson is a Mid-career General CDR researcher at University of Oxford in GB. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.409198
+date: 2026-04-02T07:03:24.049124
 url: "/cdr-researcher-census/researchers/eli-mitchell-larson-a5043051/"
 layout: "researcher"
 hiddenInHomeList: true

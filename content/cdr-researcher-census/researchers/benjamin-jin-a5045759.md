@@ -1,7 +1,7 @@
 ---
 title: "Benjamin Jin"
 description: "Benjamin Jin is an Early-career Ocean CDR researcher at National Institutes of Health in US. With 10 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.253599
+date: 2026-04-02T07:03:26.754504
 url: "/cdr-researcher-census/researchers/benjamin-jin-a5045759/"
 layout: "researcher"
 hiddenInHomeList: true

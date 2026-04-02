@@ -1,7 +1,7 @@
 ---
 title: "Hao Zhai"
 description: "Hao Zhai is a Mid-career Soil Carbon researcher at Shihezi University in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.556119
+date: 2026-04-02T07:03:25.739086
 url: "/cdr-researcher-census/researchers/hao-zhai-a5052064/"
 layout: "researcher"
 hiddenInHomeList: true

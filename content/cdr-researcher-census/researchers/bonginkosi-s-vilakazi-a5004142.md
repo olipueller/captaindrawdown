@@ -1,7 +1,7 @@
 ---
 title: "Bonginkosi S. Vilakazi"
 description: "Bonginkosi S. Vilakazi is a Mid-career Soil Carbon researcher at University of Mpumalanga in ZA. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.341085
+date: 2026-04-02T07:03:26.881974
 url: "/cdr-researcher-census/researchers/bonginkosi-s-vilakazi-a5004142/"
 layout: "researcher"
 hiddenInHomeList: true

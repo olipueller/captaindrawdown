@@ -1,7 +1,7 @@
 ---
 title: "Durai Jayaraman"
 description: "Durai Jayaraman is a Mid-career Soil Carbon researcher at International Network for Bamboo and Rattan in CN. With 38 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.790304
+date: 2026-04-02T07:03:24.596202
 url: "/cdr-researcher-census/researchers/durai-jayaraman-a5063023/"
 layout: "researcher"
 hiddenInHomeList: true

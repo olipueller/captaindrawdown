@@ -1,7 +1,7 @@
 ---
 title: "Trond Simensen"
 description: "Trond Simensen is a Mid-career General CDR researcher at Norwegian Institute for Cultural Heritage Research in NO. With 33 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.599883
+date: 2026-04-02T07:03:24.319995
 url: "/cdr-researcher-census/researchers/trond-simensen-a5070264/"
 layout: "researcher"
 hiddenInHomeList: true

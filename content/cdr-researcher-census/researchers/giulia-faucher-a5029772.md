@@ -1,7 +1,7 @@
 ---
 title: "Giulia Faucher"
 description: "Giulia Faucher is a Mid-career Ocean CDR researcher at GEOMAR Helmholtz Centre for Ocean Research Kiel in DE. With 60 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.097018
+date: 2026-04-02T07:03:25.050503
 url: "/cdr-researcher-census/researchers/giulia-faucher-a5029772/"
 layout: "researcher"
 hiddenInHomeList: true

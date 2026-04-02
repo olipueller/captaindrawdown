@@ -1,7 +1,7 @@
 ---
 title: "Rebecca V. McQuillan"
 description: "Rebecca V. McQuillan is a Mid-career carbon dioxide removal researcher at The University of Melbourne in AU. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.112357
+date: 2026-04-02T07:03:25.072751
 url: "/cdr-researcher-census/researchers/rebecca-v-mcquillan-a5088801/"
 layout: "researcher"
 hiddenInHomeList: true

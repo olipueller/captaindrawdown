@@ -1,7 +1,7 @@
 ---
 title: "Shiran Pallewatta"
 description: "Shiran Pallewatta is a Mid-career Biochar researcher at University of Sri Jayewardenepura in LK. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.773041
+date: 2026-04-02T07:03:26.034074
 url: "/cdr-researcher-census/researchers/shiran-pallewatta-a5030320/"
 layout: "researcher"
 hiddenInHomeList: true

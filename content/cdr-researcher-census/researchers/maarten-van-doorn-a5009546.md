@@ -1,7 +1,7 @@
 ---
 title: "Maarten van Doorn"
 description: "Maarten van Doorn is a Mid-career Soil Carbon researcher at Wageningen University & Research in NL. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.156809
+date: 2026-04-02T07:03:26.598191
 url: "/cdr-researcher-census/researchers/maarten-van-doorn-a5009546/"
 layout: "researcher"
 hiddenInHomeList: true

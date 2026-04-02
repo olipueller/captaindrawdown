@@ -1,7 +1,7 @@
 ---
 title: "Rohit Chauhan"
 description: "Rohit Chauhan is a Senior General CDR researcher at University of Illinois at Chicago in US. With 55 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.334317
+date: 2026-04-02T07:03:23.955339
 url: "/cdr-researcher-census/researchers/rohit-chauhan-a5024978/"
 layout: "researcher"
 hiddenInHomeList: true

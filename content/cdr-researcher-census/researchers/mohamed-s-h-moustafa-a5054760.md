@@ -1,7 +1,7 @@
 ---
 title: "Mohamed S. H. Moustafa"
 description: "Mohamed S. H. Moustafa is a Mid-career Enhanced Weathering researcher at Sultan Qaboos University in OM. With 34 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.053467
+date: 2026-04-02T07:03:26.443168
 url: "/cdr-researcher-census/researchers/mohamed-s-h-moustafa-a5054760/"
 layout: "researcher"
 hiddenInHomeList: true

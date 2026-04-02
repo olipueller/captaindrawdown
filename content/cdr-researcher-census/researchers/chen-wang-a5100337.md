@@ -1,7 +1,7 @@
 ---
 title: "Chen Wang"
 description: "Chen Wang is a Mid-career Soil Carbon researcher at Ministry of Natural Resources in CN. With 31 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.463565
+date: 2026-04-02T07:03:25.583112
 url: "/cdr-researcher-census/researchers/chen-wang-a5100337/"
 layout: "researcher"
 hiddenInHomeList: true

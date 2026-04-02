@@ -1,7 +1,7 @@
 ---
 title: "Pei Yuan"
 description: "Pei Yuan is a Mid-career Soil Carbon researcher at North West Agriculture and Forestry University in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.930495
+date: 2026-04-02T07:03:24.799304
 url: "/cdr-researcher-census/researchers/pei-yuan-a5101484/"
 layout: "researcher"
 hiddenInHomeList: true

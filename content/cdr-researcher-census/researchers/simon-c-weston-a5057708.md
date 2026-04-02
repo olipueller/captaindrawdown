@@ -1,7 +1,7 @@
 ---
 title: "Simon C. Weston"
 description: "Simon C. Weston is a Senior General CDR researcher at ExxonMobil Research and Engineering Company Annandale in US. With 89 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.272354
+date: 2026-04-02T07:03:23.872053
 url: "/cdr-researcher-census/researchers/simon-c-weston-a5057708/"
 layout: "researcher"
 hiddenInHomeList: true

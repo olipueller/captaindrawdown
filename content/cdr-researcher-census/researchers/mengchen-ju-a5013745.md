@@ -1,7 +1,7 @@
 ---
 title: "Mengchen Ju"
 description: "Mengchen Ju is a Mid-career Soil Carbon researcher at North West Agriculture and Forestry University in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.413534
+date: 2026-04-02T07:03:25.508813
 url: "/cdr-researcher-census/researchers/mengchen-ju-a5013745/"
 layout: "researcher"
 hiddenInHomeList: true

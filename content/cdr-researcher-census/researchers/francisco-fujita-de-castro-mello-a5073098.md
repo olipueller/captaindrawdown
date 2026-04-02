@@ -1,7 +1,7 @@
 ---
 title: "Francisco Fujita de Castro Mello"
 description: "Francisco Fujita de Castro Mello is a Senior General CDR researcher. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.399576
+date: 2026-04-02T07:03:26.965769
 url: "/cdr-researcher-census/researchers/francisco-fujita-de-castro-mello-a5073098/"
 layout: "researcher"
 hiddenInHomeList: true

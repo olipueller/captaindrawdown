@@ -1,7 +1,7 @@
 ---
 title: "Sho FUJIMOTO"
 description: "Sho FUJIMOTO is a Mid-career carbon dioxide removal researcher at JGC (Japan) in JP. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.841959
+date: 2026-04-02T07:03:26.132852
 url: "/cdr-researcher-census/researchers/sho-fujimoto-a5112268/"
 layout: "researcher"
 hiddenInHomeList: true

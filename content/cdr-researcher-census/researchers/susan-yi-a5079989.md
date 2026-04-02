@@ -1,7 +1,7 @@
 ---
 title: "Susan Yi"
 description: "Susan Yi is a Senior Biochar researcher at Delft University of Technology in NL. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.097899
+date: 2026-04-02T07:03:25.051891
 url: "/cdr-researcher-census/researchers/susan-yi-a5079989/"
 layout: "researcher"
 hiddenInHomeList: true

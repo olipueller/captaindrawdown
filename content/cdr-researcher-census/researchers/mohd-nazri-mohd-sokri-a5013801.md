@@ -1,7 +1,7 @@
 ---
 title: "Mohd Nazri Mohd Sokri"
 description: "Mohd Nazri Mohd Sokri is a Mid-career carbon dioxide removal researcher at University of Technology Malaysia in MY. With 27 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.053091
+date: 2026-04-02T07:03:24.985648
 url: "/cdr-researcher-census/researchers/mohd-nazri-mohd-sokri-a5013801/"
 layout: "researcher"
 hiddenInHomeList: true

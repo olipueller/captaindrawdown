@@ -1,7 +1,7 @@
 ---
 title: "Viravid Na Nagara"
 description: "Viravid Na Nagara is a Mid-career Biochar researcher at New Jersey Institute of Technology in US. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.945667
+date: 2026-04-02T07:03:26.286024
 url: "/cdr-researcher-census/researchers/viravid-na-nagara-a5077713/"
 layout: "researcher"
 hiddenInHomeList: true

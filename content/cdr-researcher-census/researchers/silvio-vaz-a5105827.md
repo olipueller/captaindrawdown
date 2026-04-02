@@ -1,7 +1,7 @@
 ---
 title: "Sílvio Vaz"
 description: "Sílvio Vaz is an Early-career General CDR researcher at Universidade Federal de Ouro Preto in BR. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.814836
+date: 2026-04-02T07:03:26.094184
 url: "/cdr-researcher-census/researchers/silvio-vaz-a5105827/"
 layout: "researcher"
 hiddenInHomeList: true

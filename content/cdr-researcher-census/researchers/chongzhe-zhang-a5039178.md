@@ -1,7 +1,7 @@
 ---
 title: "Chongzhe Zhang"
 description: "Chongzhe Zhang is a Senior Soil Carbon researcher at Nanjing Agricultural University in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.698805
+date: 2026-04-02T07:03:24.463563
 url: "/cdr-researcher-census/researchers/chongzhe-zhang-a5039178/"
 layout: "researcher"
 hiddenInHomeList: true

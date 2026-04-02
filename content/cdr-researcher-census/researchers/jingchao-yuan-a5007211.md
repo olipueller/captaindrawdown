@@ -1,7 +1,7 @@
 ---
 title: "Jingchao Yuan"
 description: "Jingchao Yuan is a Mid-career Biochar researcher at Shanghai University in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.220840
+date: 2026-04-02T07:03:25.232699
 url: "/cdr-researcher-census/researchers/jingchao-yuan-a5007211/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Mohsen Tayebi"
 description: "Mohsen Tayebi is a Mid-career General CDR researcher. With 29 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.038877
+date: 2026-04-02T07:03:24.963703
 url: "/cdr-researcher-census/researchers/mohsen-tayebi-a5034992/"
 layout: "researcher"
 hiddenInHomeList: true

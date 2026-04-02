@@ -1,7 +1,7 @@
 ---
 title: "Jiai LIU"
 description: "Jiai LIU is an Early-career Soil Carbon researcher at Northwest A&F University in CN. With 2 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.240807
+date: 2026-04-02T07:03:26.736349
 url: "/cdr-researcher-census/researchers/jiai-liu-a5020772/"
 layout: "researcher"
 hiddenInHomeList: true

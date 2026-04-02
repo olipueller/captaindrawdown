@@ -1,7 +1,7 @@
 ---
 title: "Aizheng Yang"
 description: "Aizheng Yang is a Mid-career Soil Carbon researcher at Northeast Agricultural University in CN. With 38 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.444643
+date: 2026-04-02T07:03:24.096614
 url: "/cdr-researcher-census/researchers/aizheng-yang-a5070207/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Wogene Kabato"
 description: "Wogene Kabato is an Early-career Soil Carbon researcher at Széchenyi István University in HU. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.940957
+date: 2026-04-02T07:03:26.279508
 url: "/cdr-researcher-census/researchers/wogene-kabato-a5009595/"
 layout: "researcher"
 hiddenInHomeList: true

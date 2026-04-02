@@ -1,7 +1,7 @@
 ---
 title: "Jia Yen Lai"
 description: "Jia Yen Lai is a Senior DAC researcher at Swinburne University of Technology Sarawak Campus in MY. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.216850
+date: 2026-04-02T07:03:25.225840
 url: "/cdr-researcher-census/researchers/jia-yen-lai-a5051044/"
 layout: "researcher"
 hiddenInHomeList: true

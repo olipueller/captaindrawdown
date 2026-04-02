@@ -1,7 +1,7 @@
 ---
 title: "Chinnappan Chinnadurai"
 description: "Chinnappan Chinnadurai is a Senior Soil Carbon researcher at Tamil Nadu Agricultural University in IN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.891541
+date: 2026-04-02T07:03:24.736767
 url: "/cdr-researcher-census/researchers/chinnappan-chinnadurai-a5034015/"
 layout: "researcher"
 hiddenInHomeList: true

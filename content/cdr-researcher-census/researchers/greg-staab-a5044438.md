@@ -1,7 +1,7 @@
 ---
 title: "Greg Staab"
 description: "Greg Staab is a Senior General CDR researcher at ION Engineering (United States) in US. With 17 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.374165
+date: 2026-04-02T07:03:26.930419
 url: "/cdr-researcher-census/researchers/greg-staab-a5044438/"
 layout: "researcher"
 hiddenInHomeList: true

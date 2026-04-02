@@ -1,7 +1,7 @@
 ---
 title: "Yingkai Ren"
 description: "Yingkai Ren is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.791760
+date: 2026-04-02T07:03:26.060226
 url: "/cdr-researcher-census/researchers/yingkai-ren-a5112019/"
 layout: "researcher"
 hiddenInHomeList: true

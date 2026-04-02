@@ -1,7 +1,7 @@
 ---
 title: "Chuanmei Zhu"
 description: "Chuanmei Zhu is a Mid-career Soil Carbon researcher at Anhui University in CN. With 27 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.774026
+date: 2026-04-02T07:03:24.574701
 url: "/cdr-researcher-census/researchers/chuanmei-zhu-a5014811/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Shalini Arora"
 description: "Shalini Arora is a Senior carbon dioxide removal researcher at University of Louisville in US. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.649906
+date: 2026-04-02T07:03:24.390804
 url: "/cdr-researcher-census/researchers/shalini-arora-a5089008/"
 layout: "researcher"
 hiddenInHomeList: true

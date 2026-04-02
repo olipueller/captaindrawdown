@@ -1,7 +1,7 @@
 ---
 title: "Leungo Kelebopile"
 description: "Leungo Kelebopile is a Senior Biochar researcher at Botswana International University of Science and Technology in BW. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.299024
+date: 2026-04-02T07:03:26.825345
 url: "/cdr-researcher-census/researchers/leungo-kelebopile-a5065957/"
 layout: "researcher"
 hiddenInHomeList: true

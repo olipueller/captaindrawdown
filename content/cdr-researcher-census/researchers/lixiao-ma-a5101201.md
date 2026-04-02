@@ -1,7 +1,7 @@
 ---
 title: "Lixiao Ma"
 description: "Lixiao Ma is a Senior Soil Carbon researcher at Yili Normal University in CN. With 26 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.233824
+date: 2026-04-02T07:03:25.254927
 url: "/cdr-researcher-census/researchers/lixiao-ma-a5101201/"
 layout: "researcher"
 hiddenInHomeList: true

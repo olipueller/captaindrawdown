@@ -1,7 +1,7 @@
 ---
 title: "Gabriela Posse"
 description: "Gabriela Posse is a Senior Soil Carbon researcher at Instituto Nacional de Investigación Agropecuaria in AR. With 59 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.207199
+date: 2026-04-02T07:03:23.786125
 url: "/cdr-researcher-census/researchers/gabriela-posse-a5060772/"
 layout: "researcher"
 hiddenInHomeList: true

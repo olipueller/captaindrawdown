@@ -1,7 +1,7 @@
 ---
 title: "Alison Nord"
 description: "Alison Nord is a Mid-career General CDR researcher at University of Michigan–Ann Arbor in US. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.078875
+date: 2026-04-02T07:03:26.477244
 url: "/cdr-researcher-census/researchers/alison-nord-a5064700/"
 layout: "researcher"
 hiddenInHomeList: true

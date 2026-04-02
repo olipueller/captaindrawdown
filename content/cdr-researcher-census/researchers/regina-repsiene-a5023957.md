@@ -1,7 +1,7 @@
 ---
 title: "Regina Repšienė"
 description: "Regina Repšienė is a Senior Soil Carbon researcher at Lithuanian Research Centre for Agriculture and Forestry in LT. With 66 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.129864
+date: 2026-04-02T07:03:25.099145
 url: "/cdr-researcher-census/researchers/regina-repsiene-a5023957/"
 layout: "researcher"
 hiddenInHomeList: true

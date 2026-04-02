@@ -1,7 +1,7 @@
 ---
 title: "Valeria Cafaro"
 description: "Valeria Cafaro is a Mid-career General CDR researcher at University of Catania in IT. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.336294
+date: 2026-04-02T07:03:26.874823
 url: "/cdr-researcher-census/researchers/valeria-cafaro-a5092661/"
 layout: "researcher"
 hiddenInHomeList: true

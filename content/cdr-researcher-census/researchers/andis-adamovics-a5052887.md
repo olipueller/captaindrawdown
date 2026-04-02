@@ -1,7 +1,7 @@
 ---
 title: "Andis Adamovičs"
 description: "Andis Adamovičs is a Mid-career Soil Carbon researcher at Latvian State Forest Research Institute \"Silava\" in LV. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.794479
+date: 2026-04-02T07:03:26.064316
 url: "/cdr-researcher-census/researchers/andis-adamovics-a5052887/"
 layout: "researcher"
 hiddenInHomeList: true

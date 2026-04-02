@@ -1,7 +1,7 @@
 ---
 title: "Qian Wei"
 description: "Qian Wei is a Mid-career Biochar researcher at Central South University in CN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.644257
+date: 2026-04-02T07:03:25.873286
 url: "/cdr-researcher-census/researchers/qian-wei-a5028495/"
 layout: "researcher"
 hiddenInHomeList: true

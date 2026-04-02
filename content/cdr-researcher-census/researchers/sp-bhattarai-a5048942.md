@@ -1,7 +1,7 @@
 ---
 title: "SP Bhattarai"
 description: "SP Bhattarai is a Senior General CDR researcher at Visiting Nurse Association in US. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.984871
+date: 2026-04-02T07:03:26.337420
 url: "/cdr-researcher-census/researchers/sp-bhattarai-a5048942/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Andrea Ferrarini"
 description: "Andrea Ferrarini is a Senior BECCS researcher at Università Cattolica del Sacro Cuore  in IT. With 63 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.345842
+date: 2026-04-02T07:03:23.971070
 url: "/cdr-researcher-census/researchers/andrea-ferrarini-a5085141/"
 layout: "researcher"
 hiddenInHomeList: true

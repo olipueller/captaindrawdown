@@ -1,7 +1,7 @@
 ---
 title: "Cadianne Chambers"
 description: "Cadianne Chambers is a Mid-career Biochar researcher at Florida Institute of Technology in US. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.920933
+date: 2026-04-02T07:03:26.248827
 url: "/cdr-researcher-census/researchers/cadianne-chambers-a5001724/"
 layout: "researcher"
 hiddenInHomeList: true

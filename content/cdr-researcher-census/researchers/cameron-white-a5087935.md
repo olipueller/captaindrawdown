@@ -1,7 +1,7 @@
 ---
 title: "Cameron White"
 description: "Cameron White is a Senior carbon dioxide removal researcher at CSIRO in AU. With 46 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.717115
+date: 2026-04-02T07:03:24.490071
 url: "/cdr-researcher-census/researchers/cameron-white-a5087935/"
 layout: "researcher"
 hiddenInHomeList: true

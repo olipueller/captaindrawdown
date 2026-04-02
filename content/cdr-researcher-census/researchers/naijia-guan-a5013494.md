@@ -1,7 +1,7 @@
 ---
 title: "Naijia Guan"
 description: "Naijia Guan is a Senior carbon dioxide removal researcher at Nankai University in CN. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.888652
+date: 2026-04-02T07:03:24.732458
 url: "/cdr-researcher-census/researchers/naijia-guan-a5013494/"
 layout: "researcher"
 hiddenInHomeList: true

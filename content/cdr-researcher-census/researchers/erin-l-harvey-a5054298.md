@@ -1,7 +1,7 @@
 ---
 title: "Erin L. Harvey"
 description: "Erin L. Harvey is a Mid-career Soil Carbon researcher at Durham University in GB. With 39 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.986903
+date: 2026-04-02T07:03:26.341198
 url: "/cdr-researcher-census/researchers/erin-l-harvey-a5054298/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Sultan Akbar Jadoon"
 description: "Sultan Akbar Jadoon is a Mid-career Biochar researcher at The University of Agriculture, Peshawar in PK. With 32 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.587245
+date: 2026-04-02T07:03:25.786287
 url: "/cdr-researcher-census/researchers/sultan-akbar-jadoon-a5087820/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Virginia Muelas-Ramos"
 description: "Virginia Muelas-Ramos is a Mid-career carbon dioxide removal researcher at Universidad Politécnica de Madrid in ES. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.618736
+date: 2026-04-02T07:03:24.347175
 url: "/cdr-researcher-census/researchers/virginia-muelas-ramos-a5007094/"
 layout: "researcher"
 hiddenInHomeList: true

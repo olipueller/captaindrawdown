@@ -1,7 +1,7 @@
 ---
 title: "Jinge Zhou"
 description: "Jinge Zhou is a Mid-career Soil Carbon researcher at South China Botanical Garden in CN. With 31 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.813317
+date: 2026-04-02T07:03:24.626325
 url: "/cdr-researcher-census/researchers/jinge-zhou-a5047050/"
 layout: "researcher"
 hiddenInHomeList: true

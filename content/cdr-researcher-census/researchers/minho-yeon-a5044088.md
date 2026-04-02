@@ -1,7 +1,7 @@
 ---
 title: "Minho Yeon"
 description: "Minho Yeon is a Mid-career Soil Carbon researcher at Kyungpook National University in KR. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.165808
+date: 2026-04-02T07:03:25.149887
 url: "/cdr-researcher-census/researchers/minho-yeon-a5044088/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Haishui Yang"
 description: "Haishui Yang is a Senior Soil Carbon researcher at Nanjing Agricultural University in CN. With 99 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.192885
+date: 2026-04-02T07:03:23.768856
 url: "/cdr-researcher-census/researchers/haishui-yang-a5026336/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Kerstin Wiesner‐Fleischer"
 description: "Kerstin Wiesner‐Fleischer is a Mid-career DAC researcher at Siemens (Germany) in DE. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.632902
+date: 2026-04-02T07:03:24.365709
 url: "/cdr-researcher-census/researchers/kerstin-wiesnerfleischer-a5017737/"
 layout: "researcher"
 hiddenInHomeList: true

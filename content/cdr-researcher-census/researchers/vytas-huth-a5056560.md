@@ -1,7 +1,7 @@
 ---
 title: "Vytas Huth"
 description: "Vytas Huth is a Senior General CDR researcher at La Trobe University in AU. With 54 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.480726
+date: 2026-04-02T07:03:24.148217
 url: "/cdr-researcher-census/researchers/vytas-huth-a5056560/"
 layout: "researcher"
 hiddenInHomeList: true

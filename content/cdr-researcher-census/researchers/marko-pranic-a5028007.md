@@ -1,7 +1,7 @@
 ---
 title: "Marko Pranić"
 description: "Marko Pranić is an Early-career carbon dioxide removal researcher at Wageningen University & Research in NL. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.436526
+date: 2026-04-02T07:03:27.020777
 url: "/cdr-researcher-census/researchers/marko-pranic-a5028007/"
 layout: "researcher"
 hiddenInHomeList: true

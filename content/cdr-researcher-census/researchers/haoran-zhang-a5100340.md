@@ -1,7 +1,7 @@
 ---
 title: "Haoran Zhang"
 description: "Haoran Zhang is a Senior Biochar researcher at University of Science and Technology of China in CN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.462473
+date: 2026-04-02T07:03:24.122775
 url: "/cdr-researcher-census/researchers/haoran-zhang-a5100340/"
 layout: "researcher"
 hiddenInHomeList: true

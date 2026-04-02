@@ -1,7 +1,7 @@
 ---
 title: "D. N. Matveev"
 description: "D. N. Matveev is a Mid-career carbon dioxide removal researcher at Russian Academy of Sciences in RU. With 35 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.499909
+date: 2026-04-02T07:03:25.659760
 url: "/cdr-researcher-census/researchers/d-n-matveev-a5113134/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Tianxia Bai"
 description: "Tianxia Bai is a Mid-career Biochar researcher at Huaiyin Normal University in CN. With 11 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.097697
+date: 2026-04-02T07:03:25.051571
 url: "/cdr-researcher-census/researchers/tianxia-bai-a5089840/"
 layout: "researcher"
 hiddenInHomeList: true

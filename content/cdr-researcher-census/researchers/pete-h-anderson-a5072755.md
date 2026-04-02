@@ -1,7 +1,7 @@
 ---
 title: "Pete H. Anderson"
 description: "Pete H. Anderson is a Mid-career General CDR researcher at Triangle in US. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.702596
+date: 2026-04-02T07:03:25.963860
 url: "/cdr-researcher-census/researchers/pete-h-anderson-a5072755/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Soydoa Vinitnantharat"
 description: "Soydoa Vinitnantharat is a Senior Biochar researcher at King Mongkut's University of Technology Thonburi in TH. With 53 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.486008
+date: 2026-04-02T07:03:24.155518
 url: "/cdr-researcher-census/researchers/soydoa-vinitnantharat-a5080688/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Baolin Wang"
 description: "Baolin Wang is a Senior Enhanced Weathering researcher at Forschungszentrum Jülich in DE. With 57 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.923669
+date: 2026-04-02T07:03:24.788609
 url: "/cdr-researcher-census/researchers/baolin-wang-a5100648/"
 layout: "researcher"
 hiddenInHomeList: true

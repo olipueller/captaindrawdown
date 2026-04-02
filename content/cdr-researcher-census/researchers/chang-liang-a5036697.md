@@ -1,7 +1,7 @@
 ---
 title: "Chang Liang"
 description: "Chang Liang is a Mid-career Soil Carbon researcher at Environment and Climate Change Canada in CA. With 40 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.302181
+date: 2026-04-02T07:03:23.912997
 url: "/cdr-researcher-census/researchers/chang-liang-a5036697/"
 layout: "researcher"
 hiddenInHomeList: true

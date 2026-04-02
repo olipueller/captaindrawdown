@@ -1,7 +1,7 @@
 ---
 title: "Abdul Quiyoom"
 description: "Abdul Quiyoom is a Mid-career DAC researcher at Bharat Petroleum (India) in IN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.307951
+date: 2026-04-02T07:03:26.840443
 url: "/cdr-researcher-census/researchers/abdul-quiyoom-a5017787/"
 layout: "researcher"
 hiddenInHomeList: true

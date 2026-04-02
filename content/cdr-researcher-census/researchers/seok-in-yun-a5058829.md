@@ -1,7 +1,7 @@
 ---
 title: "Seok-In Yun"
 description: "Seok-In Yun is a Senior Biochar researcher at Wonkwang University in KR. With 65 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.750616
+date: 2026-04-02T07:03:24.539871
 url: "/cdr-researcher-census/researchers/seok-in-yun-a5058829/"
 layout: "researcher"
 hiddenInHomeList: true

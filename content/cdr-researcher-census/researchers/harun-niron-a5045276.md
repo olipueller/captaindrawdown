@@ -1,7 +1,7 @@
 ---
 title: "Harun Niron"
 description: "Harun Niron is a Mid-career Enhanced Weathering researcher at Antwerp Management School in BE. With 30 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.353299
+date: 2026-04-02T07:03:25.417005
 url: "/cdr-researcher-census/researchers/harun-niron-a5045276/"
 layout: "researcher"
 hiddenInHomeList: true

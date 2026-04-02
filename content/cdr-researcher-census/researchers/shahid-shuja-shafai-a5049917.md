@@ -1,7 +1,7 @@
 ---
 title: "Shahid Shuja Shafai"
 description: "Shahid Shuja Shafai is a Mid-career Soil Carbon researcher at Sher-e-Kashmir University of Agricultural Sciences and Technology of Kashmir in IN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.099111
+date: 2026-04-02T07:03:26.505105
 url: "/cdr-researcher-census/researchers/shahid-shuja-shafai-a5049917/"
 layout: "researcher"
 hiddenInHomeList: true

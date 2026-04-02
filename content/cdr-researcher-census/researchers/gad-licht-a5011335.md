@@ -1,7 +1,7 @@
 ---
 title: "Gad Licht"
 description: "Gad Licht is a Mid-career DAC researcher at George Washington University in US. With 37 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.573262
+date: 2026-04-02T07:03:24.281502
 url: "/cdr-researcher-census/researchers/gad-licht-a5011335/"
 layout: "researcher"
 hiddenInHomeList: true

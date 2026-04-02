@@ -1,7 +1,7 @@
 ---
 title: "Junde Zhao"
 description: "Junde Zhao is a Mid-career carbon dioxide removal researcher at Shandong University of Traditional Chinese Medicine in CN. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.946047
+date: 2026-04-02T07:03:24.824531
 url: "/cdr-researcher-census/researchers/junde-zhao-a5057408/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Mercedes Guerrero-Brotons"
 description: "Mercedes Guerrero-Brotons is a Mid-career carbon dioxide removal researcher at Universidad de Murcia in ES. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.189316
+date: 2026-04-02T07:03:26.664654
 url: "/cdr-researcher-census/researchers/mercedes-guerrero-brotons-a5069986/"
 layout: "researcher"
 hiddenInHomeList: true

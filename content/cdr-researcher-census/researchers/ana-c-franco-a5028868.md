@@ -1,7 +1,7 @@
 ---
 title: "Ana C. Franco"
 description: "Ana C. Franco is a Senior Ocean CDR researcher at University of British Columbia in CA. With 24 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.438347
+date: 2026-04-02T07:03:25.543908
 url: "/cdr-researcher-census/researchers/ana-c-franco-a5028868/"
 layout: "researcher"
 hiddenInHomeList: true

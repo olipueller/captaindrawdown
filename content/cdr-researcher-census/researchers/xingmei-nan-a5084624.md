@@ -1,7 +1,7 @@
 ---
 title: "Xingmei Nan"
 description: "Xingmei Nan is a Senior carbon dioxide removal researcher at Qinghai University in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.181525
+date: 2026-04-02T07:03:25.172568
 url: "/cdr-researcher-census/researchers/xingmei-nan-a5084624/"
 layout: "researcher"
 hiddenInHomeList: true

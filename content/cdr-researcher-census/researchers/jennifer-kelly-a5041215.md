@@ -1,7 +1,7 @@
 ---
 title: "Jennifer Kelly"
 description: "Jennifer Kelly is a Senior Soil Carbon researcher at Commonwealth Scientific and Industrial Research Organisation in AU. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.936116
+date: 2026-04-02T07:03:26.272991
 url: "/cdr-researcher-census/researchers/jennifer-kelly-a5041215/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Bernardo Strassburg"
 description: "Bernardo Strassburg is a Mid-career Biochar researcher at Pontifical Catholic University of Rio de Janeiro in BR. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.665458
+date: 2026-04-02T07:03:24.418100
 url: "/cdr-researcher-census/researchers/bernardo-strassburg-a5087144/"
 layout: "researcher"
 hiddenInHomeList: true

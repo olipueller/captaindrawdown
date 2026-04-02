@@ -1,7 +1,7 @@
 ---
 title: "L. Douglas Smith"
 description: "L. Douglas Smith is a Mid-career carbon dioxide removal researcher at Centennial Medical Center in US. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.334768
+date: 2026-04-02T07:03:23.956066
 url: "/cdr-researcher-census/researchers/l-douglas-smith-a5101664/"
 layout: "researcher"
 hiddenInHomeList: true

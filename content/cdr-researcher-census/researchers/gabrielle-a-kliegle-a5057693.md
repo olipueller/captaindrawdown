@@ -1,7 +1,7 @@
 ---
 title: "Gabrielle A. Kliegle"
 description: "Gabrielle A. Kliegle is a Mid-career carbon dioxide removal researcher at National Laboratory of the Rockies in US. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.152590
+date: 2026-04-02T07:03:26.590359
 url: "/cdr-researcher-census/researchers/gabrielle-a-kliegle-a5057693/"
 layout: "researcher"
 hiddenInHomeList: true

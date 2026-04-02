@@ -1,7 +1,7 @@
 ---
 title: "Tamara Apostolović"
 description: "Tamara Apostolović is a Mid-career Biochar researcher at University of Novi Sad in RS. With 31 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.529124
+date: 2026-04-02T07:03:25.701104
 url: "/cdr-researcher-census/researchers/tamara-apostolovic-a5076829/"
 layout: "researcher"
 hiddenInHomeList: true

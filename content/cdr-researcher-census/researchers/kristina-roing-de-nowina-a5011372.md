@@ -1,7 +1,7 @@
 ---
 title: "Kristina Röing de Nowina"
 description: "Kristina Röing de Nowina is a Senior Biochar researcher at Swedish University of Agricultural Sciences in SE. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.864627
+date: 2026-04-02T07:03:24.695747
 url: "/cdr-researcher-census/researchers/kristina-roing-de-nowina-a5011372/"
 layout: "researcher"
 hiddenInHomeList: true

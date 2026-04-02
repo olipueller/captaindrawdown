@@ -1,7 +1,7 @@
 ---
 title: "Guillermo S. Marcillo"
 description: "Guillermo S. Marcillo is a Mid-career General CDR researcher. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.951692
+date: 2026-04-02T07:03:24.833013
 url: "/cdr-researcher-census/researchers/guillermo-s-marcillo-a5008481/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Haixiang Gao"
 description: "Haixiang Gao is a Senior Soil Carbon researcher at China Agricultural University in CN. With 29 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.495658
+date: 2026-04-02T07:03:24.167173
 url: "/cdr-researcher-census/researchers/haixiang-gao-a5103064/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jared Onyango Nyangáu"
 description: "Jared Onyango Nyangáu is a Mid-career BECCS researcher at Aarhus University in DK. With 27 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.074619
+date: 2026-04-02T07:03:25.018825
 url: "/cdr-researcher-census/researchers/jared-onyango-nyangau-a5005142/"
 layout: "researcher"
 hiddenInHomeList: true

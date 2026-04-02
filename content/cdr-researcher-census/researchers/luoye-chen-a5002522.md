@@ -1,7 +1,7 @@
 ---
 title: "Luoye Chen"
 description: "Luoye Chen is a Mid-career carbon dioxide removal researcher at Committee on Climate Change in GB. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.088480
+date: 2026-04-02T07:03:25.037705
 url: "/cdr-researcher-census/researchers/luoye-chen-a5002522/"
 layout: "researcher"
 hiddenInHomeList: true

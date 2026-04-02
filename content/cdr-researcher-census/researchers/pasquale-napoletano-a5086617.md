@@ -1,7 +1,7 @@
 ---
 title: "Pasquale Napoletano"
 description: "Pasquale Napoletano is a Mid-career Soil Carbon researcher at University of Molise in IT. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.880825
+date: 2026-04-02T07:03:26.187472
 url: "/cdr-researcher-census/researchers/pasquale-napoletano-a5086617/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Qi Zhang"
 description: "Qi Zhang is a Mid-career Soil Carbon researcher at Ludong University in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.071436
+date: 2026-04-02T07:03:26.466920
 url: "/cdr-researcher-census/researchers/qi-zhang-a5108262/"
 layout: "researcher"
 hiddenInHomeList: true

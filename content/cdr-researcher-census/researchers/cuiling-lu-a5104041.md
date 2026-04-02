@@ -1,7 +1,7 @@
 ---
 title: "Cuiling Lu"
 description: "Cuiling Lu is a Senior Biochar researcher in GB. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.056539
+date: 2026-04-02T07:03:24.992116
 url: "/cdr-researcher-census/researchers/cuiling-lu-a5104041/"
 layout: "researcher"
 hiddenInHomeList: true

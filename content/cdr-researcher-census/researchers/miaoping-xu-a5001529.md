@@ -1,7 +1,7 @@
 ---
 title: "Miaoping Xu"
 description: "Miaoping Xu is a Mid-career Soil Carbon researcher at Affiliated Hospital of Youjiang Medical University for Nationalities in CN. With 32 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.445327
+date: 2026-04-02T07:03:24.097597
 url: "/cdr-researcher-census/researchers/miaoping-xu-a5001529/"
 layout: "researcher"
 hiddenInHomeList: true

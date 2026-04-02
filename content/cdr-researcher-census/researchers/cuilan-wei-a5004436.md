@@ -1,7 +1,7 @@
 ---
 title: "Cuilan Wei"
 description: "Cuilan Wei is a Mid-career Soil Carbon researcher at Yunnan Open University in CN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.248540
+date: 2026-04-02T07:03:26.746939
 url: "/cdr-researcher-census/researchers/cuilan-wei-a5004436/"
 layout: "researcher"
 hiddenInHomeList: true

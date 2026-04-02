@@ -1,7 +1,7 @@
 ---
 title: "Elizabeth Yankovsky"
 description: "Elizabeth Yankovsky is a Mid-career Ocean CDR researcher at Planetary Science Institute in US. With 37 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.285107
+date: 2026-04-02T07:03:25.318826
 url: "/cdr-researcher-census/researchers/elizabeth-yankovsky-a5001895/"
 layout: "researcher"
 hiddenInHomeList: true

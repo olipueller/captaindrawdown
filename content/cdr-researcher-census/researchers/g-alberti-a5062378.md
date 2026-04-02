@@ -1,7 +1,7 @@
 ---
 title: "G Alberti"
 description: "G Alberti is a Senior General CDR researcher at University of Siena in IT. With 4 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.808319
+date: 2026-04-02T07:03:26.084668
 url: "/cdr-researcher-census/researchers/g-alberti-a5062378/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ram Kishor Fagodiya"
 description: "Ram Kishor Fagodiya is a Senior Soil Carbon researcher at Central Soil Salinity Research Institute in IN. With 72 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.278602
+date: 2026-04-02T07:03:23.881265
 url: "/cdr-researcher-census/researchers/ram-kishor-fagodiya-a5046352/"
 layout: "researcher"
 hiddenInHomeList: true

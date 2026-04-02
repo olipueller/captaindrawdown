@@ -1,7 +1,7 @@
 ---
 title: "Vladimir S. Derevschikov"
 description: "Vladimir S. Derevschikov is a Mid-career carbon dioxide removal researcher at Boreskov Institute of Catalysis in RU. With 27 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.725890
+date: 2026-04-02T07:03:24.503381
 url: "/cdr-researcher-census/researchers/vladimir-s-derevschikov-a5045880/"
 layout: "researcher"
 hiddenInHomeList: true

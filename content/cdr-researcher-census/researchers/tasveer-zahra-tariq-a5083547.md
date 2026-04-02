@@ -1,7 +1,7 @@
 ---
 title: "Tasveer Zahra Tariq"
 description: "Tasveer Zahra Tariq is a Mid-career carbon dioxide removal researcher. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.000071
+date: 2026-04-02T07:03:26.361265
 url: "/cdr-researcher-census/researchers/tasveer-zahra-tariq-a5083547/"
 layout: "researcher"
 hiddenInHomeList: true

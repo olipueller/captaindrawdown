@@ -1,7 +1,7 @@
 ---
 title: "Philipp Swoboda"
 description: "Philipp Swoboda is a Mid-career Enhanced Weathering researcher. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.001696
+date: 2026-04-02T07:03:24.912167
 url: "/cdr-researcher-census/researchers/philipp-swoboda-a5038674/"
 layout: "researcher"
 hiddenInHomeList: true

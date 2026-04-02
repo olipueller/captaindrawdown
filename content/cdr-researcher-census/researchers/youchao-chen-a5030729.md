@@ -1,7 +1,7 @@
 ---
 title: "Youchao Chen"
 description: "Youchao Chen is a Senior Soil Carbon researcher at Zhejiang A & F University in CN. With 62 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.282851
+date: 2026-04-02T07:03:23.887308
 url: "/cdr-researcher-census/researchers/youchao-chen-a5030729/"
 layout: "researcher"
 hiddenInHomeList: true

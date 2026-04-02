@@ -1,7 +1,7 @@
 ---
 title: "Selma Bultan"
 description: "Selma Bultan is a Mid-career General CDR researcher. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.196766
+date: 2026-04-02T07:03:23.774747
 url: "/cdr-researcher-census/researchers/selma-bultan-a5069717/"
 layout: "researcher"
 hiddenInHomeList: true

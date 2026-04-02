@@ -1,7 +1,7 @@
 ---
 title: "Natalie Doran-Browne"
 description: "Natalie Doran-Browne is a Mid-career General CDR researcher at Integrity Systems (United States) in US. With 33 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.051600
+date: 2026-04-02T07:03:24.983577
 url: "/cdr-researcher-census/researchers/natalie-doran-browne-a5044359/"
 layout: "researcher"
 hiddenInHomeList: true

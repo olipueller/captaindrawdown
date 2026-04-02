@@ -1,7 +1,7 @@
 ---
 title: "Mohammad Reza Maghsoodi"
 description: "Mohammad Reza Maghsoodi is a Mid-career Biochar researcher at University of Tabriz in IR. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.758219
+date: 2026-04-02T07:03:24.552238
 url: "/cdr-researcher-census/researchers/mohammad-reza-maghsoodi-a5103901/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Wenjun Ji"
 description: "Wenjun Ji is a Senior Soil Carbon researcher at King University in US. With 111 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.146208
+date: 2026-04-02T07:03:23.702885
 url: "/cdr-researcher-census/researchers/wenjun-ji-a5010230/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Shuiqing Zhang"
 description: "Shuiqing Zhang is a Senior Soil Carbon researcher at Institute of Plant Nutrition and Environmental Resources Science, Henan Academy of Agricultural Sciences in CN. With 60 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.266498
+date: 2026-04-02T07:03:23.863731
 url: "/cdr-researcher-census/researchers/shuiqing-zhang-a5003830/"
 layout: "researcher"
 hiddenInHomeList: true

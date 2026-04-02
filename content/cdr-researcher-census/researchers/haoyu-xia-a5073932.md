@@ -1,7 +1,7 @@
 ---
 title: "Haoyu Xia"
 description: "Haoyu Xia is a Mid-career Soil Carbon researcher at Beijing Normal University in CN. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.645317
+date: 2026-04-02T07:03:24.383728
 url: "/cdr-researcher-census/researchers/haoyu-xia-a5073932/"
 layout: "researcher"
 hiddenInHomeList: true

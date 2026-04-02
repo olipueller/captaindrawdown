@@ -1,7 +1,7 @@
 ---
 title: "W. A. M. A. N. Illankoon"
 description: "W. A. M. A. N. Illankoon is a Mid-career carbon dioxide removal researcher at University of Milano-Bicocca in IT. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.086265
+date: 2026-04-02T07:03:26.487290
 url: "/cdr-researcher-census/researchers/w-a-m-a-n-illankoon-a5052061/"
 layout: "researcher"
 hiddenInHomeList: true

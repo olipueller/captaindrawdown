@@ -1,7 +1,7 @@
 ---
 title: "Xinyu Ding"
 description: "Xinyu Ding is an Early-career Biochar researcher at Ministry of Natural Resources in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.153362
+date: 2026-04-02T07:03:26.591788
 url: "/cdr-researcher-census/researchers/xinyu-ding-a5059405/"
 layout: "researcher"
 hiddenInHomeList: true

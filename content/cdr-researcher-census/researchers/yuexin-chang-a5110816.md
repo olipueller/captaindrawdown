@@ -1,7 +1,7 @@
 ---
 title: "Yuexin Chang"
 description: "Yuexin Chang is a Mid-career Soil Carbon researcher at Northwest University in CN. With 25 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.721224
+date: 2026-04-02T07:03:24.496477
 url: "/cdr-researcher-census/researchers/yuexin-chang-a5110816/"
 layout: "researcher"
 hiddenInHomeList: true

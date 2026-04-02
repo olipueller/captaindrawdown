@@ -1,7 +1,7 @@
 ---
 title: "Noah W. Sokol"
 description: "Noah W. Sokol is a Senior Enhanced Weathering researcher at Lawrence Livermore National Laboratory in US. With 55 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.122491
+date: 2026-04-02T07:03:23.673716
 url: "/cdr-researcher-census/researchers/noah-w-sokol-a5011737/"
 layout: "researcher"
 hiddenInHomeList: true

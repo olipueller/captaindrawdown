@@ -1,7 +1,7 @@
 ---
 title: "Lulu Hou"
 description: "Lulu Hou is a Mid-career General CDR researcher at Institute of Agricultural Resources and Regional Planning in CN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.356078
+date: 2026-04-02T07:03:25.421897
 url: "/cdr-researcher-census/researchers/lulu-hou-a5074107/"
 layout: "researcher"
 hiddenInHomeList: true

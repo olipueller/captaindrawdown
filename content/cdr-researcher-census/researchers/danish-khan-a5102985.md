@@ -1,7 +1,7 @@
 ---
 title: "Danish Khan"
 description: "Danish Khan is a Mid-career Ocean CDR researcher at Indian Institute of Science Bangalore in IN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.722894
+date: 2026-04-02T07:03:24.499215
 url: "/cdr-researcher-census/researchers/danish-khan-a5102985/"
 layout: "researcher"
 hiddenInHomeList: true

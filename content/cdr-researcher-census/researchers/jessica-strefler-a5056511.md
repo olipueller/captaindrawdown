@@ -1,7 +1,7 @@
 ---
 title: "Jessica Strefler"
 description: "Jessica Strefler is a Senior General CDR researcher at Potsdam Institute for Climate Impact Research in DE. With 93 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.090189
+date: 2026-04-02T07:03:23.635279
 url: "/cdr-researcher-census/researchers/jessica-strefler-a5056511/"
 layout: "researcher"
 hiddenInHomeList: true

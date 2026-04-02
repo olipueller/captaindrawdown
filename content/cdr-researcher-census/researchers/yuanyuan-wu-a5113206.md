@@ -1,7 +1,7 @@
 ---
 title: "Yuanyuan Wu"
 description: "Yuanyuan Wu is a Mid-career Soil Carbon researcher at University of Connecticut in US. With 44 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.052030
+date: 2026-04-02T07:03:24.984164
 url: "/cdr-researcher-census/researchers/yuanyuan-wu-a5113206/"
 layout: "researcher"
 hiddenInHomeList: true

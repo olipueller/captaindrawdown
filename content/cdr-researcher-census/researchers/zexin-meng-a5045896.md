@@ -1,7 +1,7 @@
 ---
 title: "Zexin Meng"
 description: "Zexin Meng is a Mid-career Soil Carbon researcher at Central South University of Forestry and Technology in CN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.824969
+date: 2026-04-02T07:03:24.640219
 url: "/cdr-researcher-census/researchers/zexin-meng-a5045896/"
 layout: "researcher"
 hiddenInHomeList: true

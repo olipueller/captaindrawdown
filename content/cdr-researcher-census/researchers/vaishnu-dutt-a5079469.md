@@ -1,7 +1,7 @@
 ---
 title: "Vaishnu Dutt"
 description: "Vaishnu Dutt is a Senior Soil Carbon researcher at Sher-e-Kashmir University of Agricultural Sciences and Technology of Kashmir in IN. With 43 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.271106
+date: 2026-04-02T07:03:26.782761
 url: "/cdr-researcher-census/researchers/vaishnu-dutt-a5079469/"
 layout: "researcher"
 hiddenInHomeList: true

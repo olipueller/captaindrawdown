@@ -1,7 +1,7 @@
 ---
 title: "Jinsai Chen"
 description: "Jinsai Chen is a Mid-career Soil Carbon researcher at Fonctionnement et Conduite des Systèmes de Culture Tropicaux et Méditerranéens in FR. With 25 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.837184
+date: 2026-04-02T07:03:24.657476
 url: "/cdr-researcher-census/researchers/jinsai-chen-a5049849/"
 layout: "researcher"
 hiddenInHomeList: true

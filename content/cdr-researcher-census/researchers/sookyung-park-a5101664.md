@@ -1,7 +1,7 @@
 ---
 title: "Sookyung Park"
 description: "Sookyung Park is a Senior General CDR researcher at Korea University in KR. With 32 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.578657
+date: 2026-04-02T07:03:24.288966
 url: "/cdr-researcher-census/researchers/sookyung-park-a5101664/"
 layout: "researcher"
 hiddenInHomeList: true

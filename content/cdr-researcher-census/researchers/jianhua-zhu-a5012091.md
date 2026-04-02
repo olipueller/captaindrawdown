@@ -1,7 +1,7 @@
 ---
 title: "Jianhua Zhu"
 description: "Jianhua Zhu is a Senior Soil Carbon researcher at Chongqing University in CN. With 40 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.745770
+date: 2026-04-02T07:03:24.533398
 url: "/cdr-researcher-census/researchers/jianhua-zhu-a5012091/"
 layout: "researcher"
 hiddenInHomeList: true

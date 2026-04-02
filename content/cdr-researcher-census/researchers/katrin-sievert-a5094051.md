@@ -1,7 +1,7 @@
 ---
 title: "Katrin Sievert"
 description: "Katrin Sievert is an Early-career General CDR researcher at ETH Zurich in CH. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.959179
+date: 2026-04-02T07:03:26.305629
 url: "/cdr-researcher-census/researchers/katrin-sievert-a5094051/"
 layout: "researcher"
 hiddenInHomeList: true

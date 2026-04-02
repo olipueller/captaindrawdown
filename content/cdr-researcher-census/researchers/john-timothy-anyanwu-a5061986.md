@@ -1,7 +1,7 @@
 ---
 title: "John-Timothy Anyanwu"
 description: "John-Timothy Anyanwu is a Mid-career carbon dioxide removal researcher at University of Michigan–Ann Arbor in US. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.145019
+date: 2026-04-02T07:03:25.121437
 url: "/cdr-researcher-census/researchers/john-timothy-anyanwu-a5061986/"
 layout: "researcher"
 hiddenInHomeList: true

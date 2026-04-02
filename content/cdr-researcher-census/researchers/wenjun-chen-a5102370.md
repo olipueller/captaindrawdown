@@ -1,7 +1,7 @@
 ---
 title: "Wenjun Chen"
 description: "Wenjun Chen is a Senior Soil Carbon researcher at Hangzhou Medical College in CN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.087658
+date: 2026-04-02T07:03:25.036466
 url: "/cdr-researcher-census/researchers/wenjun-chen-a5102370/"
 layout: "researcher"
 hiddenInHomeList: true

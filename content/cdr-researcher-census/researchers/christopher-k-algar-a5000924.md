@@ -1,7 +1,7 @@
 ---
 title: "Christopher K. Algar"
 description: "Christopher K. Algar is a Senior General CDR researcher at Dalhousie University in CA. With 60 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.325165
+date: 2026-04-02T07:03:23.943406
 url: "/cdr-researcher-census/researchers/christopher-k-algar-a5000924/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Weiqi Wang"
 description: "Weiqi Wang is an Eminent Soil Carbon researcher at Fujian Normal University in CN. With 179 publications and an h-index of 42, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.110201
+date: 2026-04-02T07:03:23.659897
 url: "/cdr-researcher-census/researchers/weiqi-wang-a5021159/"
 layout: "researcher"
 hiddenInHomeList: true

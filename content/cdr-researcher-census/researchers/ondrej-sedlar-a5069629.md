@@ -1,7 +1,7 @@
 ---
 title: "Ondřej Sedlář"
 description: "Ondřej Sedlář is a Mid-career Soil Carbon researcher at Czech University of Life Sciences Prague in CZ. With 51 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.799013
+date: 2026-04-02T07:03:24.608255
 url: "/cdr-researcher-census/researchers/ondrej-sedlar-a5069629/"
 layout: "researcher"
 hiddenInHomeList: true

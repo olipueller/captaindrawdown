@@ -1,7 +1,7 @@
 ---
 title: "Mathias Haunost"
 description: "Mathias Haunost is a Mid-career Ocean CDR researcher at GEOMAR Helmholtz Centre for Ocean Research Kiel in DE. With 29 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.655916
+date: 2026-04-02T07:03:24.400342
 url: "/cdr-researcher-census/researchers/mathias-haunost-a5029845/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Qiquan Li"
 description: "Qiquan Li is a Senior Soil Carbon researcher at Zhejiang International Studies University in CN. With 117 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.230701
+date: 2026-04-02T07:03:23.814541
 url: "/cdr-researcher-census/researchers/qiquan-li-a5008248/"
 layout: "researcher"
 hiddenInHomeList: true

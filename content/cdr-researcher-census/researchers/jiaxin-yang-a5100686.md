@@ -1,7 +1,7 @@
 ---
 title: "Jiaxin Yang"
 description: "Jiaxin Yang is a Mid-career Soil Carbon researcher at Jiangsu University in CN. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.104145
+date: 2026-04-02T07:03:25.061281
 url: "/cdr-researcher-census/researchers/jiaxin-yang-a5100686/"
 layout: "researcher"
 hiddenInHomeList: true

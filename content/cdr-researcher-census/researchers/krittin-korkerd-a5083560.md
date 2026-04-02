@@ -1,7 +1,7 @@
 ---
 title: "Krittin Korkerd"
 description: "Krittin Korkerd is a Mid-career carbon dioxide removal researcher at King Mongkut's University of Technology Thonburi in TH. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.223151
+date: 2026-04-02T07:03:26.711808
 url: "/cdr-researcher-census/researchers/krittin-korkerd-a5083560/"
 layout: "researcher"
 hiddenInHomeList: true

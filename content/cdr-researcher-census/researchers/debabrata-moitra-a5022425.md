@@ -1,7 +1,7 @@
 ---
 title: "Debabrata Moitra"
 description: "Debabrata Moitra is a Mid-career carbon dioxide removal researcher at University of Tennessee Institute of Agriculture in US. With 23 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.510966
+date: 2026-04-02T07:03:24.187273
 url: "/cdr-researcher-census/researchers/debabrata-moitra-a5022425/"
 layout: "researcher"
 hiddenInHomeList: true

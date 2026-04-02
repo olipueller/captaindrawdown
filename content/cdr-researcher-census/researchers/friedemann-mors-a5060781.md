@@ -1,7 +1,7 @@
 ---
 title: "Friedemann Mörs"
 description: "Friedemann Mörs is a Senior DAC researcher at Karlsruhe Institute of Technology in DE. With 28 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.197257
+date: 2026-04-02T07:03:23.775334
 url: "/cdr-researcher-census/researchers/friedemann-mors-a5060781/"
 layout: "researcher"
 hiddenInHomeList: true

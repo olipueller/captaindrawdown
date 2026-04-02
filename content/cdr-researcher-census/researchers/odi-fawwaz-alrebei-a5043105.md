@@ -1,7 +1,7 @@
 ---
 title: "Odi Fawwaz Alrebei"
 description: "Odi Fawwaz Alrebei is a Mid-career carbon dioxide removal researcher at Jordan University of Science and Technology in JO. With 33 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.058727
+date: 2026-04-02T07:03:24.995992
 url: "/cdr-researcher-census/researchers/odi-fawwaz-alrebei-a5043105/"
 layout: "researcher"
 hiddenInHomeList: true

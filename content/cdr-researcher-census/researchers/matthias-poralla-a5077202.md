@@ -1,7 +1,7 @@
 ---
 title: "Matthias Poralla"
 description: "Matthias Poralla is an Early-career General CDR researcher at Climate Analytics in DE. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.788740
+date: 2026-04-02T07:03:26.055847
 url: "/cdr-researcher-census/researchers/matthias-poralla-a5077202/"
 layout: "researcher"
 hiddenInHomeList: true

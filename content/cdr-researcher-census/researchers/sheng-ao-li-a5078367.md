@@ -1,7 +1,7 @@
 ---
 title: "Sheng-Ao Li"
 description: "Sheng-Ao Li is a Senior Soil Carbon researcher at Chongqing University in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.348554
+date: 2026-04-02T07:03:26.893568
 url: "/cdr-researcher-census/researchers/sheng-ao-li-a5078367/"
 layout: "researcher"
 hiddenInHomeList: true

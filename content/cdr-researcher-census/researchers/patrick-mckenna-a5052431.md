@@ -1,7 +1,7 @@
 ---
 title: "Patrick McKenna"
 description: "Patrick McKenna is a Mid-career carbon dioxide removal researcher at Cranfield University in GB. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.051193
+date: 2026-04-02T07:03:26.439044
 url: "/cdr-researcher-census/researchers/patrick-mckenna-a5052431/"
 layout: "researcher"
 hiddenInHomeList: true

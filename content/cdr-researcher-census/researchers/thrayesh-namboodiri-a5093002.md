@@ -1,7 +1,7 @@
 ---
 title: "Thrayesh Namboodiri"
 description: "Thrayesh Namboodiri is an Early-career DAC researcher at University of California, Riverside in US. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.320265
+date: 2026-04-02T07:03:26.855941
 url: "/cdr-researcher-census/researchers/thrayesh-namboodiri-a5093002/"
 layout: "researcher"
 hiddenInHomeList: true

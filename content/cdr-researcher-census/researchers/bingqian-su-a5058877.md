@@ -1,7 +1,7 @@
 ---
 title: "Bingqian Su"
 description: "Bingqian Su is a Mid-career Soil Carbon researcher at Henan Institute of Science and Technology in CN. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.177326
+date: 2026-04-02T07:03:25.166388
 url: "/cdr-researcher-census/researchers/bingqian-su-a5058877/"
 layout: "researcher"
 hiddenInHomeList: true

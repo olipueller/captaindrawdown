@@ -1,7 +1,7 @@
 ---
 title: "Iris Feigenwinter"
 description: "Iris Feigenwinter is a Mid-career Soil Carbon researcher at ETH Zurich in CH. With 52 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.201394
+date: 2026-04-02T07:03:23.779767
 url: "/cdr-researcher-census/researchers/iris-feigenwinter-a5031100/"
 layout: "researcher"
 hiddenInHomeList: true

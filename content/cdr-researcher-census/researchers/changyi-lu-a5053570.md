@@ -1,7 +1,7 @@
 ---
 title: "Changyi Lu"
 description: "Changyi Lu is a Senior Soil Carbon researcher at University of Helsinki in FI. With 36 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.850745
+date: 2026-04-02T07:03:24.676180
 url: "/cdr-researcher-census/researchers/changyi-lu-a5053570/"
 layout: "researcher"
 hiddenInHomeList: true

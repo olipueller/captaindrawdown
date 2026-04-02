@@ -1,7 +1,7 @@
 ---
 title: "Xuexi Ma"
 description: "Xuexi Ma is a Mid-career Soil Carbon researcher at Xinjiang Agricultural University in CN. With 28 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.781777
+date: 2026-04-02T07:03:26.045994
 url: "/cdr-researcher-census/researchers/xuexi-ma-a5023348/"
 layout: "researcher"
 hiddenInHomeList: true

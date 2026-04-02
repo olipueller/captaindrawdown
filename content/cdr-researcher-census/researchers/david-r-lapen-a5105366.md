@@ -1,7 +1,7 @@
 ---
 title: "David R. Lapen"
 description: "David R. Lapen is a Mid-career Soil Carbon researcher at Agriculture and Agri-Food Canada in CA. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.683900
+date: 2026-04-02T07:03:25.935007
 url: "/cdr-researcher-census/researchers/david-r-lapen-a5105366/"
 layout: "researcher"
 hiddenInHomeList: true

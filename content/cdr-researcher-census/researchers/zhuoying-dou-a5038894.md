@@ -1,7 +1,7 @@
 ---
 title: "Zhuoying Dou"
 description: "Zhuoying Dou is a Mid-career carbon dioxide removal researcher at Chinese Academy of Sciences in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.168634
+date: 2026-04-02T07:03:26.618322
 url: "/cdr-researcher-census/researchers/zhuoying-dou-a5038894/"
 layout: "researcher"
 hiddenInHomeList: true

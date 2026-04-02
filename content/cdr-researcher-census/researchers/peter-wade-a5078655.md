@@ -1,7 +1,7 @@
 ---
 title: "Peter Wade"
 description: "Peter Wade is a Mid-career Enhanced Weathering researcher at Mersen (France) in FR. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.317497
+date: 2026-04-02T07:03:23.933020
 url: "/cdr-researcher-census/researchers/peter-wade-a5078655/"
 layout: "researcher"
 hiddenInHomeList: true

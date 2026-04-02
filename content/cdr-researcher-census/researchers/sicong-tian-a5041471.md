@@ -1,7 +1,7 @@
 ---
 title: "Sicong Tian"
 description: "Sicong Tian is an Early-career Biochar researcher at China Agricultural University in CN. With 5 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.419406
+date: 2026-04-02T07:03:26.994439
 url: "/cdr-researcher-census/researchers/sicong-tian-a5041471/"
 layout: "researcher"
 hiddenInHomeList: true

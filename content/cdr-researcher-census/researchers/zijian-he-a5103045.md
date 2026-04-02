@@ -1,7 +1,7 @@
 ---
 title: "Zijian He"
 description: "Zijian He is a Mid-career Soil Carbon researcher at South China Normal University in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.874198
+date: 2026-04-02T07:03:24.709543
 url: "/cdr-researcher-census/researchers/zijian-he-a5103045/"
 layout: "researcher"
 hiddenInHomeList: true

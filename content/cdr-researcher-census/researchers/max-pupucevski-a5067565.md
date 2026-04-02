@@ -1,7 +1,7 @@
 ---
 title: "Max Pupucevski"
 description: "Max Pupucevski is a Mid-career DAC researcher at Giner (United States) in US. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.292482
+date: 2026-04-02T07:03:25.331098
 url: "/cdr-researcher-census/researchers/max-pupucevski-a5067565/"
 layout: "researcher"
 hiddenInHomeList: true

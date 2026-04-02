@@ -1,7 +1,7 @@
 ---
 title: "Yimin Zhang"
 description: "Yimin Zhang is an Early-career General CDR researcher at The University of Melbourne in AU. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.343342
+date: 2026-04-02T07:03:26.885947
 url: "/cdr-researcher-census/researchers/yimin-zhang-a5029575/"
 layout: "researcher"
 hiddenInHomeList: true

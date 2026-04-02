@@ -1,7 +1,7 @@
 ---
 title: "Leandro Marciano Marra"
 description: "Leandro Marciano Marra is a Senior Soil Carbon researcher at European Union of Medical Specialists in BE. With 29 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.642315
+date: 2026-04-02T07:03:24.378856
 url: "/cdr-researcher-census/researchers/leandro-marciano-marra-a5072192/"
 layout: "researcher"
 hiddenInHomeList: true

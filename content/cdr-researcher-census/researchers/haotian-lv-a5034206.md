@@ -1,7 +1,7 @@
 ---
 title: "Haotian Lv"
 description: "Haotian Lv is a Mid-career carbon dioxide removal researcher at Shanghai Jiao Tong University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.278108
+date: 2026-04-02T07:03:26.793678
 url: "/cdr-researcher-census/researchers/haotian-lv-a5034206/"
 layout: "researcher"
 hiddenInHomeList: true

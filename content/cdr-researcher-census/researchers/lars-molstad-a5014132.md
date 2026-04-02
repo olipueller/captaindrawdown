@@ -1,7 +1,7 @@
 ---
 title: "Lars Molstad"
 description: "Lars Molstad is a Senior Soil Carbon researcher at Norwegian University of Life Sciences in NO. With 27 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.561592
+date: 2026-04-02T07:03:24.264887
 url: "/cdr-researcher-census/researchers/lars-molstad-a5014132/"
 layout: "researcher"
 hiddenInHomeList: true

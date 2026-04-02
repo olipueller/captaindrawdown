@@ -1,7 +1,7 @@
 ---
 title: "Yuwan Malakar"
 description: "Yuwan Malakar is a Mid-career General CDR researcher at CSIRO in AU. With 42 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.607812
+date: 2026-04-02T07:03:24.331443
 url: "/cdr-researcher-census/researchers/yuwan-malakar-a5035936/"
 layout: "researcher"
 hiddenInHomeList: true

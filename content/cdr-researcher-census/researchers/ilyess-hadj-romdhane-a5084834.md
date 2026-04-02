@@ -1,7 +1,7 @@
 ---
 title: "Ilyess Hadj Romdhane"
 description: "Ilyess Hadj Romdhane is a Senior carbon dioxide removal researcher at 3M (United States) in US. With 13 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.019711
+date: 2026-04-02T07:03:24.936552
 url: "/cdr-researcher-census/researchers/ilyess-hadj-romdhane-a5084834/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Emmanuel Augustine Etukudoh"
 description: "Emmanuel Augustine Etukudoh is a Mid-career General CDR researcher. With 20 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.723310
+date: 2026-04-02T07:03:24.499915
 url: "/cdr-researcher-census/researchers/emmanuel-augustine-etukudoh-a5093750/"
 layout: "researcher"
 hiddenInHomeList: true

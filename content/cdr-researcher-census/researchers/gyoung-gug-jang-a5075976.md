@@ -1,7 +1,7 @@
 ---
 title: "Gyoung Gug Jang"
 description: "Gyoung Gug Jang is a Mid-career General CDR researcher at Oak Ridge National Laboratory in US. With 73 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.525388
+date: 2026-04-02T07:03:24.208192
 url: "/cdr-researcher-census/researchers/gyoung-gug-jang-a5075976/"
 layout: "researcher"
 hiddenInHomeList: true

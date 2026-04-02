@@ -1,7 +1,7 @@
 ---
 title: "Jiajie Song"
 description: "Jiajie Song is a Mid-career Biochar researcher at Beijing Institute of Technology in CN. With 35 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.082982
+date: 2026-04-02T07:03:25.029887
 url: "/cdr-researcher-census/researchers/jiajie-song-a5113952/"
 layout: "researcher"
 hiddenInHomeList: true

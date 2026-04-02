@@ -1,7 +1,7 @@
 ---
 title: "Tianhui Fan"
 description: "Tianhui Fan is a Mid-career DAC researcher at Nanjing Forestry University in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.084866
+date: 2026-04-02T07:03:26.485295
 url: "/cdr-researcher-census/researchers/tianhui-fan-a5054053/"
 layout: "researcher"
 hiddenInHomeList: true

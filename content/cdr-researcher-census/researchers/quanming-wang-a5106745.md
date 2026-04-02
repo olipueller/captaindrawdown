@@ -1,7 +1,7 @@
 ---
 title: "Quanming Wang"
 description: "Quanming Wang is a Senior Ocean CDR researcher at China National Environmental Monitoring Center in CN. With 56 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.365840
+date: 2026-04-02T07:03:25.436844
 url: "/cdr-researcher-census/researchers/quanming-wang-a5106745/"
 layout: "researcher"
 hiddenInHomeList: true

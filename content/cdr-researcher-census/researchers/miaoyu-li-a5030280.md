@@ -1,7 +1,7 @@
 ---
 title: "Miaoyu Li"
 description: "Miaoyu Li is a Mid-career Soil Carbon researcher at Institute of Soil and Water Conservation in CN. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.217460
+date: 2026-04-02T07:03:26.703782
 url: "/cdr-researcher-census/researchers/miaoyu-li-a5030280/"
 layout: "researcher"
 hiddenInHomeList: true

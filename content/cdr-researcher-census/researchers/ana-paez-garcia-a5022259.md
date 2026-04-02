@@ -1,7 +1,7 @@
 ---
 title: "Ana Páez-García"
 description: "Ana Páez-García is a Mid-career Soil Carbon researcher at Salk Institute for Biological Studies in US. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.607023
+date: 2026-04-02T07:03:24.330327
 url: "/cdr-researcher-census/researchers/ana-paez-garcia-a5022259/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Nathawat Unsomsri"
 description: "Nathawat Unsomsri is a Mid-career Biochar researcher at Srinakharinwirot University in TH. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.419003
+date: 2026-04-02T07:03:26.993811
 url: "/cdr-researcher-census/researchers/nathawat-unsomsri-a5105052/"
 layout: "researcher"
 hiddenInHomeList: true

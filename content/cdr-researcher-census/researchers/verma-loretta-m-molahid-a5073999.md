@@ -1,7 +1,7 @@
 ---
 title: "Verma Loretta M. Molahid"
 description: "Verma Loretta M. Molahid is a Mid-career Enhanced Weathering researcher at Universiti Putra Malaysia in MY. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.465278
+date: 2026-04-02T07:03:25.585946
 url: "/cdr-researcher-census/researchers/verma-loretta-m-molahid-a5073999/"
 layout: "researcher"
 hiddenInHomeList: true

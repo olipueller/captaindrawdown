@@ -1,7 +1,7 @@
 ---
 title: "Souvik Datta"
 description: "Souvik Datta is a Senior BECCS researcher at Fachhochschule Nordwestschweiz in CH. With 43 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.825225
+date: 2026-04-02T07:03:24.640532
 url: "/cdr-researcher-census/researchers/souvik-datta-a5017441/"
 layout: "researcher"
 hiddenInHomeList: true

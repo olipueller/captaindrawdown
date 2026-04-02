@@ -1,7 +1,7 @@
 ---
 title: "Petros Chavula"
 description: "Petros Chavula is a Mid-career General CDR researcher at Haramaya University in ET. With 78 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.654907
+date: 2026-04-02T07:03:25.889508
 url: "/cdr-researcher-census/researchers/petros-chavula-a5012322/"
 layout: "researcher"
 hiddenInHomeList: true

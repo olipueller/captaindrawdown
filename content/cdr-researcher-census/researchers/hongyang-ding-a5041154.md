@@ -1,7 +1,7 @@
 ---
 title: "Hongyang Ding"
 description: "Hongyang Ding is a Senior carbon dioxide removal researcher at Dongbei University of Finance and Economics in CN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.813039
+date: 2026-04-02T07:03:26.091876
 url: "/cdr-researcher-census/researchers/hongyang-ding-a5041154/"
 layout: "researcher"
 hiddenInHomeList: true

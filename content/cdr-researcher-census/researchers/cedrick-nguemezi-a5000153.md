@@ -1,7 +1,7 @@
 ---
 title: "Cédrick Nguemezi"
 description: "Cédrick Nguemezi is a Mid-career Soil Carbon researcher at Université de Dschang in CM. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.130457
+date: 2026-04-02T07:03:26.550153
 url: "/cdr-researcher-census/researchers/cedrick-nguemezi-a5000153/"
 layout: "researcher"
 hiddenInHomeList: true

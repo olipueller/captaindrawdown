@@ -1,7 +1,7 @@
 ---
 title: "Colin P. O’Brien"
 description: "Colin P. O’Brien is a Senior General CDR researcher at University of Toronto in CA. With 71 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.108068
+date: 2026-04-02T07:03:23.657150
 url: "/cdr-researcher-census/researchers/colin-p-obrien-a5074349/"
 layout: "researcher"
 hiddenInHomeList: true

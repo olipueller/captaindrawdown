@@ -1,7 +1,7 @@
 ---
 title: "Yaxin Wang"
 description: "Yaxin Wang is a Mid-career General CDR researcher at Beijing Radiation Center in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.090745
+date: 2026-04-02T07:03:26.493809
 url: "/cdr-researcher-census/researchers/yaxin-wang-a5100404/"
 layout: "researcher"
 hiddenInHomeList: true

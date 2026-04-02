@@ -1,7 +1,7 @@
 ---
 title: "Zihua Tang"
 description: "Zihua Tang is a Senior General CDR researcher at Nanjing University of Chinese Medicine in CN. With 23 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.642760
+date: 2026-04-02T07:03:24.379474
 url: "/cdr-researcher-census/researchers/zihua-tang-a5053502/"
 layout: "researcher"
 hiddenInHomeList: true

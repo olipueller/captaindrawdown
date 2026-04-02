@@ -1,7 +1,7 @@
 ---
 title: "Daniel Evans"
 description: "Daniel Evans is a Senior Soil Carbon researcher at Cranfield University in GB. With 60 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.384878
+date: 2026-04-02T07:03:24.022131
 url: "/cdr-researcher-census/researchers/daniel-evans-a5037539/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ping-Han Wu"
 description: "Ping-Han Wu is a Senior carbon dioxide removal researcher at Stony Brook University in US. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.576779
+date: 2026-04-02T07:03:25.770211
 url: "/cdr-researcher-census/researchers/ping-han-wu-a5109985/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Fahime Salmani"
 description: "Fahime Salmani is a Mid-career General CDR researcher at Andong National University in KR. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.699468
+date: 2026-04-02T07:03:25.958356
 url: "/cdr-researcher-census/researchers/fahime-salmani-a5011606/"
 layout: "researcher"
 hiddenInHomeList: true

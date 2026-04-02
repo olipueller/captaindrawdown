@@ -1,7 +1,7 @@
 ---
 title: "Zhongyuan Zhao"
 description: "Zhongyuan Zhao is a Senior carbon dioxide removal researcher at Nanjing University of Information Science and Technology in CN. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.765162
+date: 2026-04-02T07:03:26.022233
 url: "/cdr-researcher-census/researchers/zhongyuan-zhao-a5017077/"
 layout: "researcher"
 hiddenInHomeList: true

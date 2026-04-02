@@ -1,7 +1,7 @@
 ---
 title: "Wenjing Gao"
 description: "Wenjing Gao is a Mid-career Soil Carbon researcher at Fudan University in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.079285
+date: 2026-04-02T07:03:26.477839
 url: "/cdr-researcher-census/researchers/wenjing-gao-a5065812/"
 layout: "researcher"
 hiddenInHomeList: true

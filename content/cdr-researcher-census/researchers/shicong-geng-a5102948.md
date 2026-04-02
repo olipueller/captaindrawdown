@@ -1,7 +1,7 @@
 ---
 title: "Shicong Geng"
 description: "Shicong Geng is a Mid-career Soil Carbon researcher at Chongqing University in CN. With 23 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.298717
+date: 2026-04-02T07:03:25.340034
 url: "/cdr-researcher-census/researchers/shicong-geng-a5102948/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Maria Α. Lilli"
 description: "Maria Α. Lilli is a Mid-career Soil Carbon researcher at Technical University of Crete in GR. With 40 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.915151
+date: 2026-04-02T07:03:24.775535
 url: "/cdr-researcher-census/researchers/maria-lilli-a5046343/"
 layout: "researcher"
 hiddenInHomeList: true

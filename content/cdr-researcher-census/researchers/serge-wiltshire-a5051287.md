@@ -1,7 +1,7 @@
 ---
 title: "Serge Wiltshire"
 description: "Serge Wiltshire is a Senior General CDR researcher. With 27 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.062174
+date: 2026-04-02T07:03:25.000676
 url: "/cdr-researcher-census/researchers/serge-wiltshire-a5051287/"
 layout: "researcher"
 hiddenInHomeList: true

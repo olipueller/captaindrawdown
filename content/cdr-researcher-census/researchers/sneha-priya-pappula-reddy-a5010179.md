@@ -1,7 +1,7 @@
 ---
 title: "Sneha Priya Pappula Reddy"
 description: "Sneha Priya Pappula Reddy is a Mid-career Soil Carbon researcher at University of Western Australia in AU. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.719225
+date: 2026-04-02T07:03:24.493733
 url: "/cdr-researcher-census/researchers/sneha-priya-pappula-reddy-a5010179/"
 layout: "researcher"
 hiddenInHomeList: true

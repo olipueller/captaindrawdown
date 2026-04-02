@@ -1,7 +1,7 @@
 ---
 title: "Nasser A. Ibrahim"
 description: "Nasser A. Ibrahim is a Senior Enhanced Weathering researcher at Jackson State University in US. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.260126
+date: 2026-04-02T07:03:26.764180
 url: "/cdr-researcher-census/researchers/nasser-a-ibrahim-a5074721/"
 layout: "researcher"
 hiddenInHomeList: true

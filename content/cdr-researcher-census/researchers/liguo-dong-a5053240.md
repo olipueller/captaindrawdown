@@ -1,7 +1,7 @@
 ---
 title: "Liguo Dong"
 description: "Liguo Dong is a Mid-career Soil Carbon researcher at North West Agriculture and Forestry University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.270050
+date: 2026-04-02T07:03:26.780924
 url: "/cdr-researcher-census/researchers/liguo-dong-a5053240/"
 layout: "researcher"
 hiddenInHomeList: true

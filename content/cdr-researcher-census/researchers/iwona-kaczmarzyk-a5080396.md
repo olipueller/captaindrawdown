@@ -1,7 +1,7 @@
 ---
 title: "Iwona Kaczmarzyk"
 description: "Iwona Kaczmarzyk is an Early-career Biochar researcher at Gdańsk University of Technology in PL. With 18 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.789907
+date: 2026-04-02T07:03:26.057484
 url: "/cdr-researcher-census/researchers/iwona-kaczmarzyk-a5080396/"
 layout: "researcher"
 hiddenInHomeList: true

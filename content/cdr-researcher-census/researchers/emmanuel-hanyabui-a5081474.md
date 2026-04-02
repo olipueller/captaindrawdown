@@ -1,7 +1,7 @@
 ---
 title: "Emmanuel Hanyabui"
 description: "Emmanuel Hanyabui is a Mid-career Soil Carbon researcher at University of Cape Coast in GH. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.646747
+date: 2026-04-02T07:03:25.877142
 url: "/cdr-researcher-census/researchers/emmanuel-hanyabui-a5081474/"
 layout: "researcher"
 hiddenInHomeList: true

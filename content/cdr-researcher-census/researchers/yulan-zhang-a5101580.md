@@ -1,7 +1,7 @@
 ---
 title: "Yulan Zhang"
 description: "Yulan Zhang is a Senior Soil Carbon researcher at Institute of Applied Ecology in CN. With 99 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.183562
+date: 2026-04-02T07:03:23.755454
 url: "/cdr-researcher-census/researchers/yulan-zhang-a5101580/"
 layout: "researcher"
 hiddenInHomeList: true

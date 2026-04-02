@@ -1,7 +1,7 @@
 ---
 title: "Lan‐Feng Fan"
 description: "Lan‐Feng Fan is a Senior Ocean CDR researcher at National Taiwan Ocean University in TW. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.771013
+date: 2026-04-02T07:03:26.031040
 url: "/cdr-researcher-census/researchers/lanfeng-fan-a5080017/"
 layout: "researcher"
 hiddenInHomeList: true

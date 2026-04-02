@@ -1,7 +1,7 @@
 ---
 title: "Claire L. Cooper"
 description: "Claire L. Cooper is a Mid-career Soil Carbon researcher at University of Lincoln in GB. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.907233
+date: 2026-04-02T07:03:24.760840
 url: "/cdr-researcher-census/researchers/claire-l-cooper-a5089050/"
 layout: "researcher"
 hiddenInHomeList: true

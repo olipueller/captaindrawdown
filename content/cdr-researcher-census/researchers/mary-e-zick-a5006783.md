@@ -1,7 +1,7 @@
 ---
 title: "Mary E. Zick"
 description: "Mary E. Zick is a Mid-career DAC researcher at Cornell University in US. With 27 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.069568
+date: 2026-04-02T07:03:25.011505
 url: "/cdr-researcher-census/researchers/mary-e-zick-a5006783/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Feng Huang"
 description: "Feng Huang is a Senior Soil Carbon researcher at Ministry of Natural Resources in CN. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.385742
+date: 2026-04-02T07:03:25.465435
 url: "/cdr-researcher-census/researchers/feng-huang-a5084358/"
 layout: "researcher"
 hiddenInHomeList: true

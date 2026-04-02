@@ -1,7 +1,7 @@
 ---
 title: "Viviane Dib"
 description: "Viviane Dib is a Mid-career Biochar researcher at Universidade Federal do Rio de Janeiro in BR. With 22 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.771998
+date: 2026-04-02T07:03:24.572032
 url: "/cdr-researcher-census/researchers/viviane-dib-a5088716/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Gaurav Nahar"
 description: "Gaurav Nahar is a Mid-career BECCS researcher at High Energy Materials Research Laboratory in IN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.709440
+date: 2026-04-02T07:03:24.478999
 url: "/cdr-researcher-census/researchers/gaurav-nahar-a5015531/"
 layout: "researcher"
 hiddenInHomeList: true

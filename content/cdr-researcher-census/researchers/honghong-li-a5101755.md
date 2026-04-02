@@ -1,7 +1,7 @@
 ---
 title: "Honghong Li"
 description: "Honghong Li is a Mid-career Soil Carbon researcher at Stockholm University in SE. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.218173
+date: 2026-04-02T07:03:25.228018
 url: "/cdr-researcher-census/researchers/honghong-li-a5101755/"
 layout: "researcher"
 hiddenInHomeList: true

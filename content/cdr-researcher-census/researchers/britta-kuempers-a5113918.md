@@ -1,7 +1,7 @@
 ---
 title: "Britta Kuempers"
 description: "Britta Kuempers is a Mid-career General CDR researcher. With 3 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.196521
+date: 2026-04-02T07:03:26.674919
 url: "/cdr-researcher-census/researchers/britta-kuempers-a5113918/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Malte Lessmann"
 description: "Malte Lessmann is an Early-career General CDR researcher at Wageningen University & Research in NL. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.502116
+date: 2026-04-02T07:03:25.662858
 url: "/cdr-researcher-census/researchers/malte-lessmann-a5058954/"
 layout: "researcher"
 hiddenInHomeList: true

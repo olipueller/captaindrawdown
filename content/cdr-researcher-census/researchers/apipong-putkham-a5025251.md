@@ -1,7 +1,7 @@
 ---
 title: "Apipong Putkham"
 description: "Apipong Putkham is a Senior Biochar researcher at Mahasarakham University in TH. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.793887
+date: 2026-04-02T07:03:24.601314
 url: "/cdr-researcher-census/researchers/apipong-putkham-a5025251/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Naresh V. Thevathasan"
 description: "Naresh V. Thevathasan is a Senior Soil Carbon researcher at University of Guelph in CA. With 116 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.174922
+date: 2026-04-02T07:03:23.742085
 url: "/cdr-researcher-census/researchers/naresh-v-thevathasan-a5030583/"
 layout: "researcher"
 hiddenInHomeList: true

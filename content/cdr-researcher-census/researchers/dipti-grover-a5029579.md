@@ -1,7 +1,7 @@
 ---
 title: "Dipti Grover"
 description: "Dipti Grover is a Mid-career General CDR researcher at Kurukshetra University in IN. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.139238
+date: 2026-04-02T07:03:26.566762
 url: "/cdr-researcher-census/researchers/dipti-grover-a5029579/"
 layout: "researcher"
 hiddenInHomeList: true

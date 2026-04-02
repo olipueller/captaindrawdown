@@ -1,7 +1,7 @@
 ---
 title: "Chhavi Sirohi"
 description: "Chhavi Sirohi is a Mid-career Soil Carbon researcher at Chaudhary Charan Singh Haryana Agricultural University in IN. With 42 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.392672
+date: 2026-04-02T07:03:25.475267
 url: "/cdr-researcher-census/researchers/chhavi-sirohi-a5013456/"
 layout: "researcher"
 hiddenInHomeList: true

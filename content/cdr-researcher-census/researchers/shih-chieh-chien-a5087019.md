@@ -1,7 +1,7 @@
 ---
 title: "Shih-Chieh Chien"
 description: "Shih-Chieh Chien is a Mid-career Soil Carbon researcher at Wartburg College in US. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.942930
+date: 2026-04-02T07:03:26.281904
 url: "/cdr-researcher-census/researchers/shih-chieh-chien-a5087019/"
 layout: "researcher"
 hiddenInHomeList: true

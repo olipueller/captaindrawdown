@@ -1,7 +1,7 @@
 ---
 title: "Christianah Aarinola Akinnawo"
 description: "Christianah Aarinola Akinnawo is a Mid-career DAC researcher. With 19 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.296548
+date: 2026-04-02T07:03:25.337336
 url: "/cdr-researcher-census/researchers/christianah-aarinola-akinnawo-a5080115/"
 layout: "researcher"
 hiddenInHomeList: true

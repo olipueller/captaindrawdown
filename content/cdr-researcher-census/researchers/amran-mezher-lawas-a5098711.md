@@ -1,7 +1,7 @@
 ---
 title: "Amran Mezher Lawas"
 description: "Amran Mezher Lawas is an Early-career carbon dioxide removal researcher at Mazaya University College. With 1 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.689562
+date: 2026-04-02T07:03:25.942637
 url: "/cdr-researcher-census/researchers/amran-mezher-lawas-a5098711/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Karoliina Huusko"
 description: "Karoliina Huusko is a Mid-career Soil Carbon researcher at University of Helsinki in FI. With 23 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.414710
+date: 2026-04-02T07:03:25.510549
 url: "/cdr-researcher-census/researchers/karoliina-huusko-a5059410/"
 layout: "researcher"
 hiddenInHomeList: true

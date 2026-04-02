@@ -1,7 +1,7 @@
 ---
 title: "May Issa"
 description: "May Issa is a Senior Biochar researcher at Lebanese University in LB. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.705734
+date: 2026-04-02T07:03:25.968986
 url: "/cdr-researcher-census/researchers/may-issa-a5113437/"
 layout: "researcher"
 hiddenInHomeList: true

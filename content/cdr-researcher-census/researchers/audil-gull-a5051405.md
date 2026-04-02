@@ -1,7 +1,7 @@
 ---
 title: "Audil Gull"
 description: "Audil Gull is an Early-career Soil Carbon researcher. With 16 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.980049
+date: 2026-04-02T07:03:24.878004
 url: "/cdr-researcher-census/researchers/audil-gull-a5051405/"
 layout: "researcher"
 hiddenInHomeList: true

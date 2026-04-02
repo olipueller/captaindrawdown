@@ -1,7 +1,7 @@
 ---
 title: "Guang-Sin Lu"
 description: "Guang-Sin Lu is a Mid-career carbon dioxide removal researcher at Cooperative Institute for Research in Environmental Sciences in US. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.222536
+date: 2026-04-02T07:03:26.710880
 url: "/cdr-researcher-census/researchers/guang-sin-lu-a5055189/"
 layout: "researcher"
 hiddenInHomeList: true

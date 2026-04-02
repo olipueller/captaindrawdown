@@ -1,7 +1,7 @@
 ---
 title: "Peidong Xu"
 description: "Peidong Xu is a Mid-career Soil Carbon researcher at Shanxi Agricultural University in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.150606
+date: 2026-04-02T07:03:25.128884
 url: "/cdr-researcher-census/researchers/peidong-xu-a5005281/"
 layout: "researcher"
 hiddenInHomeList: true

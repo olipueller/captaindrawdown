@@ -1,7 +1,7 @@
 ---
 title: "Ahmed M. Alatyar"
 description: "Ahmed M. Alatyar is a Mid-career General CDR researcher at Khalifa University of Science and Technology in AE. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.032085
+date: 2026-04-02T07:03:26.408312
 url: "/cdr-researcher-census/researchers/ahmed-m-alatyar-a5018079/"
 layout: "researcher"
 hiddenInHomeList: true

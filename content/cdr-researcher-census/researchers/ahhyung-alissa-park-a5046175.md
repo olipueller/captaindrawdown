@@ -1,7 +1,7 @@
 ---
 title: "Ah‐Hyung Alissa Park"
 description: "Ah‐Hyung Alissa Park is an Eminent General CDR researcher at University of California, Los Angeles in US. With 136 publications and an h-index of 42, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.115457
+date: 2026-04-02T07:03:23.665866
 url: "/cdr-researcher-census/researchers/ahhyung-alissa-park-a5046175/"
 layout: "researcher"
 hiddenInHomeList: true

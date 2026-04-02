@@ -1,7 +1,7 @@
 ---
 title: "Arin Mishra"
 description: "Arin Mishra is a Mid-career carbon dioxide removal researcher. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.012693
+date: 2026-04-02T07:03:26.379323
 url: "/cdr-researcher-census/researchers/arin-mishra-a5089386/"
 layout: "researcher"
 hiddenInHomeList: true

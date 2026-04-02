@@ -1,7 +1,7 @@
 ---
 title: "Hiren Das"
 description: "Hiren Das is a Mid-career Soil Carbon researcher at Assam Agricultural University in IN. With 16 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.413972
+date: 2026-04-02T07:03:26.986128
 url: "/cdr-researcher-census/researchers/hiren-das-a5069479/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Leandro Paulino"
 description: "Leandro Paulino is a Senior Soil Carbon researcher at UNIVERSIDAD DE CONCEPCION in CL. With 51 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.425108
+date: 2026-04-02T07:03:24.070695
 url: "/cdr-researcher-census/researchers/leandro-paulino-a5084577/"
 layout: "researcher"
 hiddenInHomeList: true

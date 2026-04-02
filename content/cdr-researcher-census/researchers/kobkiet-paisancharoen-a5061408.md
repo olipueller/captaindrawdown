@@ -1,7 +1,7 @@
 ---
 title: "Kobkiet Paisancharoen"
 description: "Kobkiet Paisancharoen is a Senior Soil Carbon researcher at Khon Kaen University in TH. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.365305
+date: 2026-04-02T07:03:26.917724
 url: "/cdr-researcher-census/researchers/kobkiet-paisancharoen-a5061408/"
 layout: "researcher"
 hiddenInHomeList: true

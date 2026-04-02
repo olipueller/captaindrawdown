@@ -1,7 +1,7 @@
 ---
 title: "James K. Heffernan"
 description: "James K. Heffernan is a Mid-career Ocean CDR researcher at The University of Queensland in AU. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.003592
+date: 2026-04-02T07:03:24.915235
 url: "/cdr-researcher-census/researchers/james-k-heffernan-a5062688/"
 layout: "researcher"
 hiddenInHomeList: true

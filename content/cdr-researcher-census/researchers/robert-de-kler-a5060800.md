@@ -1,7 +1,7 @@
 ---
 title: "Robert de Kler"
 description: "Robert de Kler is a Mid-career General CDR researcher at Netherlands Organisation for Applied Scientific Research in NL. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.066449
+date: 2026-04-02T07:03:26.460286
 url: "/cdr-researcher-census/researchers/robert-de-kler-a5060800/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Subedar Singh"
 description: "Subedar Singh is a Mid-career General CDR researcher at Patanjali Research Foundation in IN. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.138214
+date: 2026-04-02T07:03:26.565054
 url: "/cdr-researcher-census/researchers/subedar-singh-a5100886/"
 layout: "researcher"
 hiddenInHomeList: true

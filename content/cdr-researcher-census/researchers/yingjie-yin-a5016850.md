@@ -1,7 +1,7 @@
 ---
 title: "Yingjie Yin"
 description: "Yingjie Yin is a Senior Soil Carbon researcher at China Agricultural University in CN. With 76 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.536394
+date: 2026-04-02T07:03:24.227743
 url: "/cdr-researcher-census/researchers/yingjie-yin-a5016850/"
 layout: "researcher"
 hiddenInHomeList: true

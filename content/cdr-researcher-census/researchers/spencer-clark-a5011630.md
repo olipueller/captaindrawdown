@@ -1,7 +1,7 @@
 ---
 title: "Spencer Clark"
 description: "Spencer Clark is a Senior General CDR researcher at University of Melbourne in AU. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.032765
+date: 2026-04-02T07:03:26.409231
 url: "/cdr-researcher-census/researchers/spencer-clark-a5011630/"
 layout: "researcher"
 hiddenInHomeList: true

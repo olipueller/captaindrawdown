@@ -1,7 +1,7 @@
 ---
 title: "Sebastian Weigl"
 description: "Sebastian Weigl is an Early-career General CDR researcher. With 3 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.795944
+date: 2026-04-02T07:03:26.066720
 url: "/cdr-researcher-census/researchers/sebastian-weigl-a5051190/"
 layout: "researcher"
 hiddenInHomeList: true

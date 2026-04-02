@@ -1,7 +1,7 @@
 ---
 title: "Junting Jia"
 description: "Junting Jia is a Senior General CDR researcher at Hainan Provincial Academy of Agricultural Sciences in CN. With 15 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.688918
+date: 2026-04-02T07:03:25.941697
 url: "/cdr-researcher-census/researchers/junting-jia-a5103494/"
 layout: "researcher"
 hiddenInHomeList: true

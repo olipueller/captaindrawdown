@@ -1,7 +1,7 @@
 ---
 title: "Huixian Zeng"
 description: "Huixian Zeng is a Mid-career Soil Carbon researcher at Sun Yat-sen University in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.359344
+date: 2026-04-02T07:03:25.426768
 url: "/cdr-researcher-census/researchers/huixian-zeng-a5065852/"
 layout: "researcher"
 hiddenInHomeList: true

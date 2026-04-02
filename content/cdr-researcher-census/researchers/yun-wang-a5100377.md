@@ -1,7 +1,7 @@
 ---
 title: "Yun Wang"
 description: "Yun Wang is a Senior Soil Carbon researcher at Shenyang Agricultural University in CN. With 31 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.878626
+date: 2026-04-02T07:03:24.716105
 url: "/cdr-researcher-census/researchers/yun-wang-a5100377/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Alexandre Babin"
 description: "Alexandre Babin is a Mid-career BECCS researcher at University of British Columbia in CA. With 7 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.912499
+date: 2026-04-02T07:03:24.770842
 url: "/cdr-researcher-census/researchers/alexandre-babin-a5081732/"
 layout: "researcher"
 hiddenInHomeList: true

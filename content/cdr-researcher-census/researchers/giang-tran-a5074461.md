@@ -1,7 +1,7 @@
 ---
 title: "Giang Tran"
 description: "Giang Tran is a Senior General CDR researcher at University of Melbourne in AU. With 24 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.908319
+date: 2026-04-02T07:03:26.227100
 url: "/cdr-researcher-census/researchers/giang-tran-a5074461/"
 layout: "researcher"
 hiddenInHomeList: true

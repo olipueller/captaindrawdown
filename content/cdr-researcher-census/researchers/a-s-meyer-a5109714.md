@@ -1,7 +1,7 @@
 ---
 title: "A. S. Meyer"
 description: "A. S. Meyer is a Senior General CDR researcher at Oak Ridge National Laboratory in US. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.868352
+date: 2026-04-02T07:03:24.701444
 url: "/cdr-researcher-census/researchers/a-s-meyer-a5109714/"
 layout: "researcher"
 hiddenInHomeList: true

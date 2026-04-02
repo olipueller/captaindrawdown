@@ -1,7 +1,7 @@
 ---
 title: "Sean Low"
 description: "Sean Low is a Senior General CDR researcher at Wageningen University & Research in NL. With 57 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.322164
+date: 2026-04-02T07:03:23.939372
 url: "/cdr-researcher-census/researchers/sean-low-a5005320/"
 layout: "researcher"
 hiddenInHomeList: true

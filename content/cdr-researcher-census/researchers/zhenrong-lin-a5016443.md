@@ -1,7 +1,7 @@
 ---
 title: "Zhenrong Lin"
 description: "Zhenrong Lin is a Mid-career Soil Carbon researcher at Lanzhou City University in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.858464
+date: 2026-04-02T07:03:26.156051
 url: "/cdr-researcher-census/researchers/zhenrong-lin-a5016443/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Hannah V. Cooper"
 description: "Hannah V. Cooper is a Mid-career Soil Carbon researcher at University of Nottingham in GB. With 32 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.520097
+date: 2026-04-02T07:03:24.199718
 url: "/cdr-researcher-census/researchers/hannah-v-cooper-a5025415/"
 layout: "researcher"
 hiddenInHomeList: true

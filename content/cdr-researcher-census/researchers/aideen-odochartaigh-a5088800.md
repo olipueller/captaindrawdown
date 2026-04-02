@@ -1,7 +1,7 @@
 ---
 title: "Aideen O’Dochartaigh"
 description: "Aideen O’Dochartaigh is a Senior General CDR researcher at Dublin City University in IE. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.372104
+date: 2026-04-02T07:03:26.928237
 url: "/cdr-researcher-census/researchers/aideen-odochartaigh-a5088800/"
 layout: "researcher"
 hiddenInHomeList: true

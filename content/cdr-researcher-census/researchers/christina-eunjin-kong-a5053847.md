@@ -1,7 +1,7 @@
 ---
 title: "Christina Eunjin Kong"
 description: "Christina Eunjin Kong is a Mid-career General CDR researcher at University of British Columbia in CA. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.221932
+date: 2026-04-02T07:03:26.710067
 url: "/cdr-researcher-census/researchers/christina-eunjin-kong-a5053847/"
 layout: "researcher"
 hiddenInHomeList: true

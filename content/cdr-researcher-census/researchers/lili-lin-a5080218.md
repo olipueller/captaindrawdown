@@ -1,7 +1,7 @@
 ---
 title: "Lili Lin"
 description: "Lili Lin is a Mid-career Soil Carbon researcher at Zhangzhou Normal University in CN. With 44 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.661790
+date: 2026-04-02T07:03:24.411596
 url: "/cdr-researcher-census/researchers/lili-lin-a5080218/"
 layout: "researcher"
 hiddenInHomeList: true

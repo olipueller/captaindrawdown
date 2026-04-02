@@ -1,7 +1,7 @@
 ---
 title: "Dajana Radujković"
 description: "Dajana Radujković is a Mid-career Soil Carbon researcher at University of Antwerp in BE. With 33 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.456196
+date: 2026-04-02T07:03:24.113866
 url: "/cdr-researcher-census/researchers/dajana-radujkovic-a5072674/"
 layout: "researcher"
 hiddenInHomeList: true

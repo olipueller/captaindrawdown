@@ -1,7 +1,7 @@
 ---
 title: "Tommi Bergman"
 description: "Tommi Bergman is a Senior General CDR researcher at Finnish Meteorological Institute in FI. With 96 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.169511
+date: 2026-04-02T07:03:23.735308
 url: "/cdr-researcher-census/researchers/tommi-bergman-a5054148/"
 layout: "researcher"
 hiddenInHomeList: true

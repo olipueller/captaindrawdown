@@ -1,7 +1,7 @@
 ---
 title: "Mostafa Zeama"
 description: "Mostafa Zeama is a Mid-career General CDR researcher at Materials Research Group (United States) in US. With 36 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.808394
+date: 2026-04-02T07:03:24.620731
 url: "/cdr-researcher-census/researchers/mostafa-zeama-a5037981/"
 layout: "researcher"
 hiddenInHomeList: true

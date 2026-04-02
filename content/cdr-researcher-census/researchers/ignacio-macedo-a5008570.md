@@ -1,7 +1,7 @@
 ---
 title: "Ignacio Macedo"
 description: "Ignacio Macedo is a Mid-career Soil Carbon researcher at Instituto Nacional de Investigación Agropecuaria in UY. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.273076
+date: 2026-04-02T07:03:25.303095
 url: "/cdr-researcher-census/researchers/ignacio-macedo-a5008570/"
 layout: "researcher"
 hiddenInHomeList: true

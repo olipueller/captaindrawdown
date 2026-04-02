@@ -1,7 +1,7 @@
 ---
 title: "Janshah Moktar"
 description: "Janshah Moktar is a Mid-career Biochar researcher at Universiti of Malaysia Sabah in MY. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.120755
+date: 2026-04-02T07:03:26.535827
 url: "/cdr-researcher-census/researchers/janshah-moktar-a5075143/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Meishen Liu"
 description: "Meishen Liu is a Mid-career DAC researcher at Oak Ridge National Laboratory in US. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.093315
+date: 2026-04-02T07:03:25.045051
 url: "/cdr-researcher-census/researchers/meishen-liu-a5062776/"
 layout: "researcher"
 hiddenInHomeList: true

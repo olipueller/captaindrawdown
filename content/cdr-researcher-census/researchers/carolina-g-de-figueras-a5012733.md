@@ -1,7 +1,7 @@
 ---
 title: "Carolina G. de Figueras"
 description: "Carolina G. de Figueras is a Senior carbon dioxide removal researcher at Centro de Astrobiología in ES. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.037031
+date: 2026-04-02T07:03:24.961092
 url: "/cdr-researcher-census/researchers/carolina-g-de-figueras-a5012733/"
 layout: "researcher"
 hiddenInHomeList: true

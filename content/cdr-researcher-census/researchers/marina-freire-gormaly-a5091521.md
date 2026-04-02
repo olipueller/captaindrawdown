@@ -1,7 +1,7 @@
 ---
 title: "Marina Freire-Gormaly"
 description: "Marina Freire-Gormaly is a Mid-career DAC researcher at York University in CA. With 33 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.996882
+date: 2026-04-02T07:03:24.904764
 url: "/cdr-researcher-census/researchers/marina-freire-gormaly-a5091521/"
 layout: "researcher"
 hiddenInHomeList: true

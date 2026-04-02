@@ -1,7 +1,7 @@
 ---
 title: "Chalachew Bekele"
 description: "Chalachew Bekele is a Mid-career carbon dioxide removal researcher at Addis Ababa University in ET. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.364916
+date: 2026-04-02T07:03:26.917232
 url: "/cdr-researcher-census/researchers/chalachew-bekele-a5112923/"
 layout: "researcher"
 hiddenInHomeList: true

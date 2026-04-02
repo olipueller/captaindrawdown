@@ -1,7 +1,7 @@
 ---
 title: "Wenwen Xie"
 description: "Wenwen Xie is a Mid-career carbon dioxide removal researcher at Karlsruhe Institute of Technology in DE. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.770209
+date: 2026-04-02T07:03:24.569455
 url: "/cdr-researcher-census/researchers/wenwen-xie-a5039100/"
 layout: "researcher"
 hiddenInHomeList: true

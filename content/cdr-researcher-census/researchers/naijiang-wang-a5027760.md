@@ -1,7 +1,7 @@
 ---
 title: "Naijiang Wang"
 description: "Naijiang Wang is a Mid-career Soil Carbon researcher at China Land Surveying and Planning Institute in CN. With 37 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.690360
+date: 2026-04-02T07:03:24.452787
 url: "/cdr-researcher-census/researchers/naijiang-wang-a5027760/"
 layout: "researcher"
 hiddenInHomeList: true

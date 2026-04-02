@@ -1,7 +1,7 @@
 ---
 title: "Haruo Kanaboshi"
 description: "Haruo Kanaboshi is a Senior BECCS researcher at Research Institute of Innovative Technology for the Earth in JP. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.151983
+date: 2026-04-02T07:03:26.589246
 url: "/cdr-researcher-census/researchers/haruo-kanaboshi-a5045627/"
 layout: "researcher"
 hiddenInHomeList: true

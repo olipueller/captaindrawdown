@@ -1,7 +1,7 @@
 ---
 title: "B. Brooks"
 description: "B. Brooks is a Senior DAC researcher at Carbon Solutions (United States) in US. With 26 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.271192
+date: 2026-04-02T07:03:25.300638
 url: "/cdr-researcher-census/researchers/b-brooks-a5027978/"
 layout: "researcher"
 hiddenInHomeList: true

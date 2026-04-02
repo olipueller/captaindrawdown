@@ -1,7 +1,7 @@
 ---
 title: "Hellen F. V. Cunha"
 description: "Hellen F. V. Cunha is a Mid-career carbon dioxide removal researcher at Instituto Nacional de Pesquisas da Amazônia in BR. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.931740
+date: 2026-04-02T07:03:24.800993
 url: "/cdr-researcher-census/researchers/hellen-f-v-cunha-a5086777/"
 layout: "researcher"
 hiddenInHomeList: true

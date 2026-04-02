@@ -1,7 +1,7 @@
 ---
 title: "Alexander Buzacott"
 description: "Alexander Buzacott is a Mid-career Soil Carbon researcher at University of Helsinki in FI. With 37 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.991705
+date: 2026-04-02T07:03:26.348709
 url: "/cdr-researcher-census/researchers/alexander-buzacott-a5019528/"
 layout: "researcher"
 hiddenInHomeList: true

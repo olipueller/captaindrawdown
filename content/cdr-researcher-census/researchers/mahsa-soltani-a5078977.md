@@ -1,7 +1,7 @@
 ---
 title: "Mahsa Soltani"
 description: "Mahsa Soltani is a Mid-career carbon dioxide removal researcher at Tehran University of Medical Sciences in IR. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.197355
+date: 2026-04-02T07:03:26.675937
 url: "/cdr-researcher-census/researchers/mahsa-soltani-a5078977/"
 layout: "researcher"
 hiddenInHomeList: true

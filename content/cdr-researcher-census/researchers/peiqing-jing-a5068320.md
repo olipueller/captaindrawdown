@@ -1,7 +1,7 @@
 ---
 title: "Peiqing Jing"
 description: "Peiqing Jing is a Mid-career General CDR researcher at Wuhan University in CN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.130234
+date: 2026-04-02T07:03:26.549762
 url: "/cdr-researcher-census/researchers/peiqing-jing-a5068320/"
 layout: "researcher"
 hiddenInHomeList: true

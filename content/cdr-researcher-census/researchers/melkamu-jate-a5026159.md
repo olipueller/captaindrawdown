@@ -1,7 +1,7 @@
 ---
 title: "Melkamu Jate"
 description: "Melkamu Jate is a Senior Soil Carbon researcher at Yara (Germany) in DE. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.227832
+date: 2026-04-02T07:03:26.718507
 url: "/cdr-researcher-census/researchers/melkamu-jate-a5026159/"
 layout: "researcher"
 hiddenInHomeList: true

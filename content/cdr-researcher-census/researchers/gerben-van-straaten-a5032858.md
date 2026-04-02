@@ -1,7 +1,7 @@
 ---
 title: "Gerben van Straaten"
 description: "Gerben van Straaten is a Mid-career carbon dioxide removal researcher at Holst Centre (Netherlands) in NL. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.060766
+date: 2026-04-02T07:03:24.998836
 url: "/cdr-researcher-census/researchers/gerben-van-straaten-a5032858/"
 layout: "researcher"
 hiddenInHomeList: true

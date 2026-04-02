@@ -1,7 +1,7 @@
 ---
 title: "Rowan Naicker"
 description: "Rowan Naicker is a Senior Soil Carbon researcher at Umkhuseli Innovation and Research Management in ZA. With 25 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.218599
+date: 2026-04-02T07:03:25.228828
 url: "/cdr-researcher-census/researchers/rowan-naicker-a5058851/"
 layout: "researcher"
 hiddenInHomeList: true

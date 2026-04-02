@@ -1,7 +1,7 @@
 ---
 title: "Tamiru Lemi"
 description: "Tamiru Lemi is a Mid-career Soil Carbon researcher at Ethiopian Environment and Forest Research Institute in ET. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.229621
+date: 2026-04-02T07:03:26.721262
 url: "/cdr-researcher-census/researchers/tamiru-lemi-a5000709/"
 layout: "researcher"
 hiddenInHomeList: true

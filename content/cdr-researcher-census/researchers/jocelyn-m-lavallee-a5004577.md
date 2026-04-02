@@ -1,7 +1,7 @@
 ---
 title: "Jocelyn M. Lavallee"
 description: "Jocelyn M. Lavallee is a Senior Soil Carbon researcher at Environmental Defense Fund in US. With 65 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.097845
+date: 2026-04-02T07:03:23.644751
 url: "/cdr-researcher-census/researchers/jocelyn-m-lavallee-a5004577/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Shasha Guo"
 description: "Shasha Guo is a Mid-career carbon dioxide removal researcher at Henan University of Economic and Law in CN. With 20 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.859617
+date: 2026-04-02T07:03:24.688754
 url: "/cdr-researcher-census/researchers/shasha-guo-a5000090/"
 layout: "researcher"
 hiddenInHomeList: true

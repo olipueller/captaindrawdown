@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Nawaz"
 description: "Muhammad Nawaz is a Mid-career carbon dioxide removal researcher at Universiti Teknologi Petronas in MY. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.285858
+date: 2026-04-02T07:03:25.320719
 url: "/cdr-researcher-census/researchers/muhammad-nawaz-a5090753/"
 layout: "researcher"
 hiddenInHomeList: true

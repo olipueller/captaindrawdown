@@ -1,7 +1,7 @@
 ---
 title: "Richard W. Griffin"
 description: "Richard W. Griffin is a Senior Soil Carbon researcher at Prairie View A&M University in US. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.809976
+date: 2026-04-02T07:03:26.087066
 url: "/cdr-researcher-census/researchers/richard-w-griffin-a5111187/"
 layout: "researcher"
 hiddenInHomeList: true

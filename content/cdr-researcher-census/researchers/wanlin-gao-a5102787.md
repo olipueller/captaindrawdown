@@ -1,7 +1,7 @@
 ---
 title: "Wanlin Gao"
 description: "Wanlin Gao is a Mid-career General CDR researcher at Beijing Forestry University in CN. With 25 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.232345
+date: 2026-04-02T07:03:23.816455
 url: "/cdr-researcher-census/researchers/wanlin-gao-a5102787/"
 layout: "researcher"
 hiddenInHomeList: true

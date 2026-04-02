@@ -1,7 +1,7 @@
 ---
 title: "Kevin Jhon Fernández-Andrade"
 description: "Kevin Jhon Fernández-Andrade is a Mid-career carbon dioxide removal researcher. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.581887
+date: 2026-04-02T07:03:25.777835
 url: "/cdr-researcher-census/researchers/kevin-jhon-fernandez-andrade-a5070744/"
 layout: "researcher"
 hiddenInHomeList: true

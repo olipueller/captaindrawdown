@@ -1,7 +1,7 @@
 ---
 title: "Marie Renaudin"
 description: "Marie Renaudin is a Mid-career Soil Carbon researcher at Université de Sherbrooke in CA. With 37 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.096443
+date: 2026-04-02T07:03:25.049742
 url: "/cdr-researcher-census/researchers/marie-renaudin-a5016086/"
 layout: "researcher"
 hiddenInHomeList: true

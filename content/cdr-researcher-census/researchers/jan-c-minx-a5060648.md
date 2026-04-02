@@ -1,7 +1,7 @@
 ---
 title: "Jan C. Minx"
 description: "Jan C. Minx is an Eminent General CDR researcher at University of Leeds in GB. With 261 publications and an h-index of 72, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.073584
+date: 2026-04-02T07:03:23.614932
 url: "/cdr-researcher-census/researchers/jan-c-minx-a5060648/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Nepali Jayasinghe"
 description: "Nepali Jayasinghe is an Early-career General CDR researcher at Ministry OF City Planning and Water Supply in LK. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.739472
+date: 2026-04-02T07:03:24.524176
 url: "/cdr-researcher-census/researchers/nepali-jayasinghe-a5046537/"
 layout: "researcher"
 hiddenInHomeList: true

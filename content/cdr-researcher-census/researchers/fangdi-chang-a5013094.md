@@ -1,7 +1,7 @@
 ---
 title: "Fangdi Chang"
 description: "Fangdi Chang is a Mid-career Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 30 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.140100
+date: 2026-04-02T07:03:25.114192
 url: "/cdr-researcher-census/researchers/fangdi-chang-a5013094/"
 layout: "researcher"
 hiddenInHomeList: true

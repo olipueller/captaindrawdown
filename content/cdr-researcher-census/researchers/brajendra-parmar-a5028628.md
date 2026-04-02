@@ -1,7 +1,7 @@
 ---
 title: "Brajendra Parmar"
 description: "Brajendra Parmar is a Mid-career Soil Carbon researcher at Indian Institute of Rice Research in IN. With 48 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.529307
+date: 2026-04-02T07:03:24.214589
 url: "/cdr-researcher-census/researchers/brajendra-parmar-a5028628/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jie Yang"
 description: "Jie Yang is a Senior Enhanced Weathering researcher at Chinese Center For Disease Control and Prevention in CN. With 25 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.291135
+date: 2026-04-02T07:03:25.329156
 url: "/cdr-researcher-census/researchers/jie-yang-a5012112/"
 layout: "researcher"
 hiddenInHomeList: true

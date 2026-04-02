@@ -1,7 +1,7 @@
 ---
 title: "Bryan Carlson"
 description: "Bryan Carlson is a Mid-career Soil Carbon researcher at Agricultural Research Service in US. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.009332
+date: 2026-04-02T07:03:24.923731
 url: "/cdr-researcher-census/researchers/bryan-carlson-a5082815/"
 layout: "researcher"
 hiddenInHomeList: true

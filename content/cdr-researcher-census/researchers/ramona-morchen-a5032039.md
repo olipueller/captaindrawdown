@@ -1,7 +1,7 @@
 ---
 title: "Ramona Mörchen"
 description: "Ramona Mörchen is a Mid-career Soil Carbon researcher at University of Bonn in DE. With 24 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.344975
+date: 2026-04-02T07:03:25.403401
 url: "/cdr-researcher-census/researchers/ramona-morchen-a5032039/"
 layout: "researcher"
 hiddenInHomeList: true

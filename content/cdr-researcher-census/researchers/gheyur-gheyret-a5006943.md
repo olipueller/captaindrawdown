@@ -1,7 +1,7 @@
 ---
 title: "Gheyur Gheyret"
 description: "Gheyur Gheyret is a Mid-career Soil Carbon researcher at Xinjiang Normal University in CN. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.934575
+date: 2026-04-02T07:03:26.270955
 url: "/cdr-researcher-census/researchers/gheyur-gheyret-a5006943/"
 layout: "researcher"
 hiddenInHomeList: true

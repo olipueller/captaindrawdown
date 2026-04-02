@@ -1,7 +1,7 @@
 ---
 title: "Jiahui Wu"
 description: "Jiahui Wu is a Mid-career Biochar researcher at South China Agricultural University in CN. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.061169
+date: 2026-04-02T07:03:24.999396
 url: "/cdr-researcher-census/researchers/jiahui-wu-a5041770/"
 layout: "researcher"
 hiddenInHomeList: true

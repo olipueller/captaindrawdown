@@ -1,7 +1,7 @@
 ---
 title: "Burcu Gurkan"
 description: "Burcu Gurkan is a Senior DAC researcher at Case School of Engineering, Case Western Reserve University in US. With 147 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.102825
+date: 2026-04-02T07:03:23.650722
 url: "/cdr-researcher-census/researchers/burcu-gurkan-a5003053/"
 layout: "researcher"
 hiddenInHomeList: true

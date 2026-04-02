@@ -1,7 +1,7 @@
 ---
 title: "Maga Ram Patel"
 description: "Maga Ram Patel is a Mid-career Biochar researcher at Maharana Pratap University of Agriculture and Technology in IN. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.251095
+date: 2026-04-02T07:03:25.275675
 url: "/cdr-researcher-census/researchers/maga-ram-patel-a5040215/"
 layout: "researcher"
 hiddenInHomeList: true

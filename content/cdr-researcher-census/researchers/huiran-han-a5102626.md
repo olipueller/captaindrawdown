@@ -1,7 +1,7 @@
 ---
 title: "Huiran Han"
 description: "Huiran Han is a Senior General CDR researcher at Anhui Normal University in CN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.163808
+date: 2026-04-02T07:03:25.147418
 url: "/cdr-researcher-census/researchers/huiran-han-a5102626/"
 layout: "researcher"
 hiddenInHomeList: true

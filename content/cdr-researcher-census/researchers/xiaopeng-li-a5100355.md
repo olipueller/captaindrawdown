@@ -1,7 +1,7 @@
 ---
 title: "Xiaopeng Li"
 description: "Xiaopeng Li is a Mid-career carbon dioxide removal researcher at Capital Normal University in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.314608
+date: 2026-04-02T07:03:26.849242
 url: "/cdr-researcher-census/researchers/xiaopeng-li-a5100355/"
 layout: "researcher"
 hiddenInHomeList: true

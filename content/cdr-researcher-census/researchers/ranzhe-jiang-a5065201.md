@@ -1,7 +1,7 @@
 ---
 title: "Ranzhe Jiang"
 description: "Ranzhe Jiang is a Mid-career Soil Carbon researcher at Jilin University in CN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.355700
+date: 2026-04-02T07:03:25.421195
 url: "/cdr-researcher-census/researchers/ranzhe-jiang-a5065201/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Lissy Langer"
 description: "Lissy Langer is a Mid-career General CDR researcher at Technical University of Denmark in DK. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.266411
+date: 2026-04-02T07:03:25.294395
 url: "/cdr-researcher-census/researchers/lissy-langer-a5020963/"
 layout: "researcher"
 hiddenInHomeList: true

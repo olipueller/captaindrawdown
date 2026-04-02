@@ -1,7 +1,7 @@
 ---
 title: "Jung Hun Lee"
 description: "Jung Hun Lee is a Senior carbon dioxide removal researcher at Northwestern University in US. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.059712
+date: 2026-04-02T07:03:26.452174
 url: "/cdr-researcher-census/researchers/jung-hun-lee-a5032528/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Alexander Ryota Keeley"
 description: "Alexander Ryota Keeley is a Mid-career DAC researcher at Kyushu University in JP. With 68 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.274481
+date: 2026-04-02T07:03:23.874938
 url: "/cdr-researcher-census/researchers/alexander-ryota-keeley-a5073705/"
 layout: "researcher"
 hiddenInHomeList: true

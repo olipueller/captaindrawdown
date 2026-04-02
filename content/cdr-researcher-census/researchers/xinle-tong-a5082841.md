@@ -1,7 +1,7 @@
 ---
 title: "Xinle Tong"
 description: "Xinle Tong is a Senior Soil Carbon researcher at Ministry of Agriculture and Rural Affairs in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.652209
+date: 2026-04-02T07:03:25.885562
 url: "/cdr-researcher-census/researchers/xinle-tong-a5082841/"
 layout: "researcher"
 hiddenInHomeList: true

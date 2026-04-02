@@ -1,7 +1,7 @@
 ---
 title: "Sarah M. Hirsh"
 description: "Sarah M. Hirsh is a Mid-career Soil Carbon researcher at University of Maryland Eastern Shore in US. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.300215
+date: 2026-04-02T07:03:26.827106
 url: "/cdr-researcher-census/researchers/sarah-m-hirsh-a5002896/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ji‐Hoon Oh"
 description: "Ji‐Hoon Oh is a Mid-career General CDR researcher at Seoul National University in KR. With 38 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.323733
+date: 2026-04-02T07:03:25.374652
 url: "/cdr-researcher-census/researchers/jihoon-oh-a5006109/"
 layout: "researcher"
 hiddenInHomeList: true

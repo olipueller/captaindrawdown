@@ -1,7 +1,7 @@
 ---
 title: "Ghulam Yasin"
 description: "Ghulam Yasin is a Senior Soil Carbon researcher at Bahauddin Zakariya University in PK. With 104 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.274234
+date: 2026-04-02T07:03:23.874622
 url: "/cdr-researcher-census/researchers/ghulam-yasin-a5065692/"
 layout: "researcher"
 hiddenInHomeList: true

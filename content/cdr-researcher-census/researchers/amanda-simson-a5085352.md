@@ -1,7 +1,7 @@
 ---
 title: "Amanda Simson"
 description: "Amanda Simson is a Senior DAC researcher at University of South Carolina Union in US. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.538228
+date: 2026-04-02T07:03:25.714144
 url: "/cdr-researcher-census/researchers/amanda-simson-a5085352/"
 layout: "researcher"
 hiddenInHomeList: true

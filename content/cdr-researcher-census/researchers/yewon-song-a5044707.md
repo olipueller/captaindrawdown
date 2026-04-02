@@ -1,7 +1,7 @@
 ---
 title: "Yewon Song"
 description: "Yewon Song is a Mid-career DAC researcher at Nanyang Technological University in SG. With 27 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.607362
+date: 2026-04-02T07:03:24.330771
 url: "/cdr-researcher-census/researchers/yewon-song-a5044707/"
 layout: "researcher"
 hiddenInHomeList: true

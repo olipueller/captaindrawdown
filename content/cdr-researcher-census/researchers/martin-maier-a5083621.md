@@ -1,7 +1,7 @@
 ---
 title: "Martin Maier"
 description: "Martin Maier is a Senior carbon dioxide removal researcher. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.680965
+date: 2026-04-02T07:03:24.440739
 url: "/cdr-researcher-census/researchers/martin-maier-a5083621/"
 layout: "researcher"
 hiddenInHomeList: true

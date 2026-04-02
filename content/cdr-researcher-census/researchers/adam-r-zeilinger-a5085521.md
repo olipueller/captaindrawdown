@@ -1,7 +1,7 @@
 ---
 title: "Adam R. Zeilinger"
 description: "Adam R. Zeilinger is a Senior Soil Carbon researcher at University of California Berkeley in US. With 34 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.483566
+date: 2026-04-02T07:03:24.152269
 url: "/cdr-researcher-census/researchers/adam-r-zeilinger-a5085521/"
 layout: "researcher"
 hiddenInHomeList: true

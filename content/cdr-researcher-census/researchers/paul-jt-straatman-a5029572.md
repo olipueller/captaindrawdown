@@ -1,7 +1,7 @@
 ---
 title: "Paul J.T. Straatman"
 description: "Paul J.T. Straatman is a Senior carbon dioxide removal researcher at Utrecht University in NL. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.306620
+date: 2026-04-02T07:03:26.838342
 url: "/cdr-researcher-census/researchers/paul-jt-straatman-a5029572/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Karl-Johan Jansson"
 description: "Karl-Johan Jansson is a Senior Soil Carbon researcher at University of Arkansas at Fayetteville in US. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.285353
+date: 2026-04-02T07:03:26.805194
 url: "/cdr-researcher-census/researchers/karl-johan-jansson-a5061780/"
 layout: "researcher"
 hiddenInHomeList: true

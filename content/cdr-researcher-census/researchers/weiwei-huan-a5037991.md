@@ -1,7 +1,7 @@
 ---
 title: "Weiwei Huan"
 description: "Weiwei Huan is a Mid-career Soil Carbon researcher at Zhejiang A & F University in CN. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.463346
+date: 2026-04-02T07:03:25.582781
 url: "/cdr-researcher-census/researchers/weiwei-huan-a5037991/"
 layout: "researcher"
 hiddenInHomeList: true

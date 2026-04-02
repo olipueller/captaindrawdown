@@ -1,7 +1,7 @@
 ---
 title: "M.J.J. Hoogsteen"
 description: "M.J.J. Hoogsteen is a Mid-career Soil Carbon researcher at National Institute for Public Health and the Environment in NL. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.734717
+date: 2026-04-02T07:03:24.516801
 url: "/cdr-researcher-census/researchers/mjj-hoogsteen-a5071593/"
 layout: "researcher"
 hiddenInHomeList: true

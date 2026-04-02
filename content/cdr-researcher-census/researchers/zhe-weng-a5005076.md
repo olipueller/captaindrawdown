@@ -1,7 +1,7 @@
 ---
 title: "Zhe Weng"
 description: "Zhe Weng is a Mid-career Biochar researcher at University of Adelaide in AU. With 58 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.209340
+date: 2026-04-02T07:03:23.789080
 url: "/cdr-researcher-census/researchers/zhe-weng-a5005076/"
 layout: "researcher"
 hiddenInHomeList: true

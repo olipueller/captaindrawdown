@@ -1,7 +1,7 @@
 ---
 title: "Rasha Al-Saedi"
 description: "Rasha Al-Saedi is a Mid-career Biochar researcher at Mustansiriyah University in IQ. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.268189
+date: 2026-04-02T07:03:26.778318
 url: "/cdr-researcher-census/researchers/rasha-al-saedi-a5004670/"
 layout: "researcher"
 hiddenInHomeList: true

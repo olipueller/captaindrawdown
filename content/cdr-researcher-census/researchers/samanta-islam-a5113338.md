@@ -1,7 +1,7 @@
 ---
 title: "Samanta Islam"
 description: "Samanta Islam is a Mid-career General CDR researcher at Jatiya Kabi Kazi Nazrul Islam University in BD. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.216500
+date: 2026-04-02T07:03:26.702354
 url: "/cdr-researcher-census/researchers/samanta-islam-a5113338/"
 layout: "researcher"
 hiddenInHomeList: true

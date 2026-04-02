@@ -1,7 +1,7 @@
 ---
 title: "A. K. Verma"
 description: "A. K. Verma is a Mid-career Soil Carbon researcher at Sikkim University in IN. With 16 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.394313
+date: 2026-04-02T07:03:26.958855
 url: "/cdr-researcher-census/researchers/a-k-verma-a5007796/"
 layout: "researcher"
 hiddenInHomeList: true

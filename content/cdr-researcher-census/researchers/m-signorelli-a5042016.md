@@ -1,7 +1,7 @@
 ---
 title: "M. Signorelli"
 description: "M. Signorelli is a Mid-career DAC researcher at Tri Alpha Energy (United States) in US. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.803479
+date: 2026-04-02T07:03:26.077818
 url: "/cdr-researcher-census/researchers/m-signorelli-a5042016/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Aniruddh Mohan"
 description: "Aniruddh Mohan is a Mid-career General CDR researcher at Princeton University in US. With 30 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.209066
+date: 2026-04-02T07:03:25.212734
 url: "/cdr-researcher-census/researchers/aniruddh-mohan-a5048264/"
 layout: "researcher"
 hiddenInHomeList: true

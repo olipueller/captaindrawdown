@@ -1,7 +1,7 @@
 ---
 title: "Bingyi Lu"
 description: "Bingyi Lu is a Senior Soil Carbon researcher at Tsinghua–Berkeley Shenzhen Institute in CN. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.118325
+date: 2026-04-02T07:03:25.081791
 url: "/cdr-researcher-census/researchers/bingyi-lu-a5102858/"
 layout: "researcher"
 hiddenInHomeList: true

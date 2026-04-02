@@ -1,7 +1,7 @@
 ---
 title: "Simon Angombe"
 description: "Simon Angombe is a Mid-career Soil Carbon researcher. With 35 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.972333
+date: 2026-04-02T07:03:26.324358
 url: "/cdr-researcher-census/researchers/simon-angombe-a5040809/"
 layout: "researcher"
 hiddenInHomeList: true

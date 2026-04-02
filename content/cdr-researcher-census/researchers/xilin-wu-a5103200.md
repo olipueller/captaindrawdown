@@ -1,7 +1,7 @@
 ---
 title: "Xilin Wu"
 description: "Xilin Wu is a Mid-career General CDR researcher at Chinese Academy of Sciences in CN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.561575
+date: 2026-04-02T07:03:25.746841
 url: "/cdr-researcher-census/researchers/xilin-wu-a5103200/"
 layout: "researcher"
 hiddenInHomeList: true

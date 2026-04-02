@@ -1,7 +1,7 @@
 ---
 title: "Raghavendra Ragipani"
 description: "Raghavendra Ragipani is a Mid-career DAC researcher at Indian Institute of Technology Kanpur in IN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.265238
+date: 2026-04-02T07:03:25.293058
 url: "/cdr-researcher-census/researchers/raghavendra-ragipani-a5077899/"
 layout: "researcher"
 hiddenInHomeList: true

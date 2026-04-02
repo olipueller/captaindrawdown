@@ -1,7 +1,7 @@
 ---
 title: "Chirag Goel"
 description: "Chirag Goel is an Early-career Biochar researcher at École de Technologie Supérieure in CA. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.506093
+date: 2026-04-02T07:03:25.668296
 url: "/cdr-researcher-census/researchers/chirag-goel-a5058298/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Peng Zhang"
 description: "Peng Zhang is a Senior Soil Carbon researcher at Southern University of Science and Technology in CN. With 94 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.256890
+date: 2026-04-02T07:03:23.849581
 url: "/cdr-researcher-census/researchers/peng-zhang-a5100364/"
 layout: "researcher"
 hiddenInHomeList: true

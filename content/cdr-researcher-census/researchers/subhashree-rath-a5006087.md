@@ -1,7 +1,7 @@
 ---
 title: "Subhashree Rath"
 description: "Subhashree Rath is a Mid-career Biochar researcher at Siksha O Anusandhan University in IN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.529590
+date: 2026-04-02T07:03:25.701742
 url: "/cdr-researcher-census/researchers/subhashree-rath-a5006087/"
 layout: "researcher"
 hiddenInHomeList: true

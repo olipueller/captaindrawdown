@@ -1,7 +1,7 @@
 ---
 title: "Christian P. Traeger"
 description: "Christian P. Traeger is a Senior General CDR researcher. With 80 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.308952
+date: 2026-04-02T07:03:23.921616
 url: "/cdr-researcher-census/researchers/christian-p-traeger-a5010554/"
 layout: "researcher"
 hiddenInHomeList: true

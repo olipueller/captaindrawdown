@@ -1,7 +1,7 @@
 ---
 title: "Zuyong Chen"
 description: "Zuyong Chen is a Senior Biochar researcher at Guizhou University in CN. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.129053
+date: 2026-04-02T07:03:26.547792
 url: "/cdr-researcher-census/researchers/zuyong-chen-a5002370/"
 layout: "researcher"
 hiddenInHomeList: true

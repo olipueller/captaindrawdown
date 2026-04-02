@@ -1,7 +1,7 @@
 ---
 title: "Hui Wang"
 description: "Hui Wang is a Mid-career Soil Carbon researcher at Changchun Observatory in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.062895
+date: 2026-04-02T07:03:26.456119
 url: "/cdr-researcher-census/researchers/hui-wang-a5075235/"
 layout: "researcher"
 hiddenInHomeList: true

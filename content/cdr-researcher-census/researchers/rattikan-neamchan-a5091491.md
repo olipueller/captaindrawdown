@@ -1,7 +1,7 @@
 ---
 title: "Rattikan Neamchan"
 description: "Rattikan Neamchan is an Early-career Biochar researcher at King Mongkut's University of Technology Thonburi in TH. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.308658
+date: 2026-04-02T07:03:26.841441
 url: "/cdr-researcher-census/researchers/rattikan-neamchan-a5091491/"
 layout: "researcher"
 hiddenInHomeList: true

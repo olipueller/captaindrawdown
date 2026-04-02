@@ -1,7 +1,7 @@
 ---
 title: "Juan Xue"
 description: "Juan Xue is a Mid-career Soil Carbon researcher at Sichuan University in CN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.697453
+date: 2026-04-02T07:03:25.955297
 url: "/cdr-researcher-census/researchers/juan-xue-a5102112/"
 layout: "researcher"
 hiddenInHomeList: true

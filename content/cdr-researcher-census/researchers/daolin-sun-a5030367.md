@@ -1,7 +1,7 @@
 ---
 title: "Daolin Sun"
 description: "Daolin Sun is a Mid-career Soil Carbon researcher at South China Agricultural University in CN. With 23 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.057152
+date: 2026-04-02T07:03:24.993235
 url: "/cdr-researcher-census/researchers/daolin-sun-a5030367/"
 layout: "researcher"
 hiddenInHomeList: true

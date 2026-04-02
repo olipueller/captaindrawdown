@@ -1,7 +1,7 @@
 ---
 title: "Bálint Lóránt"
 description: "Bálint Lóránt is a Mid-career General CDR researcher at Budapest University of Technology and Economics in HU. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.538036
+date: 2026-04-02T07:03:25.713833
 url: "/cdr-researcher-census/researchers/balint-lorant-a5065378/"
 layout: "researcher"
 hiddenInHomeList: true

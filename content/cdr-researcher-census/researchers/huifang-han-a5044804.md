@@ -1,7 +1,7 @@
 ---
 title: "Huifang Han"
 description: "Huifang Han is a Senior Soil Carbon researcher at Ministry of Agriculture in EE. With 39 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.674072
+date: 2026-04-02T07:03:24.431544
 url: "/cdr-researcher-census/researchers/huifang-han-a5044804/"
 layout: "researcher"
 hiddenInHomeList: true

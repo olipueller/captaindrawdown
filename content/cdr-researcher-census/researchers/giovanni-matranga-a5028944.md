@@ -1,7 +1,7 @@
 ---
 title: "Giovanni Matranga"
 description: "Giovanni Matranga is a Mid-career Soil Carbon researcher. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.251106
+date: 2026-04-02T07:03:26.750742
 url: "/cdr-researcher-census/researchers/giovanni-matranga-a5028944/"
 layout: "researcher"
 hiddenInHomeList: true

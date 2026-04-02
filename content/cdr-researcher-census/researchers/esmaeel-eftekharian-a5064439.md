@@ -1,7 +1,7 @@
 ---
 title: "Esmaeel Eftekharian"
 description: "Esmaeel Eftekharian is a Mid-career carbon dioxide removal researcher at CSIRO Oceans and Atmosphere in AU. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.451974
+date: 2026-04-02T07:03:25.563523
 url: "/cdr-researcher-census/researchers/esmaeel-eftekharian-a5064439/"
 layout: "researcher"
 hiddenInHomeList: true

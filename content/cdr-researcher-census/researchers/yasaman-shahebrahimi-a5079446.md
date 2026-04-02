@@ -1,7 +1,7 @@
 ---
 title: "Yasaman Shahebrahimi"
 description: "Yasaman Shahebrahimi is a Senior carbon dioxide removal researcher at Arak University in IR. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.336713
+date: 2026-04-02T07:03:25.392232
 url: "/cdr-researcher-census/researchers/yasaman-shahebrahimi-a5079446/"
 layout: "researcher"
 hiddenInHomeList: true

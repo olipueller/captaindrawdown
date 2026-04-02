@@ -1,7 +1,7 @@
 ---
 title: "Matthew D. Eisaman"
 description: "Matthew D. Eisaman is a Senior Ocean CDR researcher at Yale University in US. With 111 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.135780
+date: 2026-04-02T07:03:23.689439
 url: "/cdr-researcher-census/researchers/matthew-d-eisaman-a5005365/"
 layout: "researcher"
 hiddenInHomeList: true

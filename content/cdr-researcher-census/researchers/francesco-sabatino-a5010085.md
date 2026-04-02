@@ -1,7 +1,7 @@
 ---
 title: "Francesco Sabatino"
 description: "Francesco Sabatino is a Mid-career DAC researcher at Eindhoven University of Technology in NL. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.671696
+date: 2026-04-02T07:03:24.428134
 url: "/cdr-researcher-census/researchers/francesco-sabatino-a5010085/"
 layout: "researcher"
 hiddenInHomeList: true

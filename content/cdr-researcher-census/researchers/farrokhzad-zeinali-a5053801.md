@@ -1,7 +1,7 @@
 ---
 title: "Farrokhzad Zeinali"
 description: "Farrokhzad Zeinali is a Mid-career Soil Carbon researcher at University of Hormozgan in IR. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.799199
+date: 2026-04-02T07:03:26.071345
 url: "/cdr-researcher-census/researchers/farrokhzad-zeinali-a5053801/"
 layout: "researcher"
 hiddenInHomeList: true

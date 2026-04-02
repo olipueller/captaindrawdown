@@ -1,7 +1,7 @@
 ---
 title: "Ziyan Guo"
 description: "Ziyan Guo is a Mid-career Soil Carbon researcher at Northwest A&F University in CN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.774815
+date: 2026-04-02T07:03:26.036446
 url: "/cdr-researcher-census/researchers/ziyan-guo-a5083091/"
 layout: "researcher"
 hiddenInHomeList: true

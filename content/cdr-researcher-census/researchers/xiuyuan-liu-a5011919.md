@@ -1,7 +1,7 @@
 ---
 title: "Xiuyuan Liu"
 description: "Xiuyuan Liu is a Mid-career Soil Carbon researcher at Yunnan Agricultural University in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.462964
+date: 2026-04-02T07:03:25.582097
 url: "/cdr-researcher-census/researchers/xiuyuan-liu-a5011919/"
 layout: "researcher"
 hiddenInHomeList: true

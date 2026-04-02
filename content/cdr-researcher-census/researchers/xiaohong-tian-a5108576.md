@@ -1,7 +1,7 @@
 ---
 title: "Xiaohong Tian"
 description: "Xiaohong Tian is a Senior Soil Carbon researcher at China Three Gorges University in CN. With 67 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.295208
+date: 2026-04-02T07:03:23.903873
 url: "/cdr-researcher-census/researchers/xiaohong-tian-a5108576/"
 layout: "researcher"
 hiddenInHomeList: true

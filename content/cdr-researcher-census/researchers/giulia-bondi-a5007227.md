@@ -1,7 +1,7 @@
 ---
 title: "Giulia Bondi"
 description: "Giulia Bondi is a Mid-career Soil Carbon researcher at Teagasc - The Irish Agriculture and Food Development Authority in IE. With 56 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.902632
+date: 2026-04-02T07:03:24.753332
 url: "/cdr-researcher-census/researchers/giulia-bondi-a5007227/"
 layout: "researcher"
 hiddenInHomeList: true

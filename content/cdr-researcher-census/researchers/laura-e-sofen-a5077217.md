@@ -1,7 +1,7 @@
 ---
 title: "Laura E. Sofen"
 description: "Laura E. Sofen is a Mid-career General CDR researcher at Bigelow Laboratory for Ocean Sciences in US. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.614019
+date: 2026-04-02T07:03:25.826906
 url: "/cdr-researcher-census/researchers/laura-e-sofen-a5077217/"
 layout: "researcher"
 hiddenInHomeList: true

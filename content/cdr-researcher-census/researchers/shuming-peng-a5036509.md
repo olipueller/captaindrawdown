@@ -1,7 +1,7 @@
 ---
 title: "Shuming Peng"
 description: "Shuming Peng is a Senior Soil Carbon researcher at Central South University of Forestry and Technology in CN. With 27 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.998097
+date: 2026-04-02T07:03:24.906685
 url: "/cdr-researcher-census/researchers/shuming-peng-a5036509/"
 layout: "researcher"
 hiddenInHomeList: true

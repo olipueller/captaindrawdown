@@ -1,7 +1,7 @@
 ---
 title: "Patience A. Sagboye"
 description: "Patience A. Sagboye is a Mid-career carbon dioxide removal researcher at University of Ilorin in NG. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.110442
+date: 2026-04-02T07:03:25.070130
 url: "/cdr-researcher-census/researchers/patience-a-sagboye-a5022978/"
 layout: "researcher"
 hiddenInHomeList: true

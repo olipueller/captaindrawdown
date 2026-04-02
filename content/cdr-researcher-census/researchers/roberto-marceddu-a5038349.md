@@ -1,7 +1,7 @@
 ---
 title: "Roberto Marceddu"
 description: "Roberto Marceddu is a Mid-career Soil Carbon researcher at Istituto Euro Mediterraneo di Scienza e Tecnologia in IT. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.793304
+date: 2026-04-02T07:03:26.062444
 url: "/cdr-researcher-census/researchers/roberto-marceddu-a5038349/"
 layout: "researcher"
 hiddenInHomeList: true

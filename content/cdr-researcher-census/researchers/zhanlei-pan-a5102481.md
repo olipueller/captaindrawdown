@@ -1,7 +1,7 @@
 ---
 title: "Zhanlei Pan"
 description: "Zhanlei Pan is a Mid-career Soil Carbon researcher at Cotton Research Institute in CN. With 23 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.326395
+date: 2026-04-02T07:03:25.378692
 url: "/cdr-researcher-census/researchers/zhanlei-pan-a5102481/"
 layout: "researcher"
 hiddenInHomeList: true

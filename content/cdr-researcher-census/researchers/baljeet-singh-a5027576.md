@@ -1,7 +1,7 @@
 ---
 title: "Baljeet Singh"
 description: "Baljeet Singh is a Senior DAC researcher at Lovely Professional University in IN. With 49 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.312858
+date: 2026-04-02T07:03:23.926606
 url: "/cdr-researcher-census/researchers/baljeet-singh-a5027576/"
 layout: "researcher"
 hiddenInHomeList: true

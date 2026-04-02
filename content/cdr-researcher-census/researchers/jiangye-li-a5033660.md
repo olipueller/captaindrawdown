@@ -1,7 +1,7 @@
 ---
 title: "Jiangye Li"
 description: "Jiangye Li is a Senior Soil Carbon researcher at Jiangsu Academy of Agricultural Sciences in CN. With 47 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.482664
+date: 2026-04-02T07:03:24.150961
 url: "/cdr-researcher-census/researchers/jiangye-li-a5033660/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Timo Spiegel"
 description: "Timo Spiegel is a Mid-career Enhanced Weathering researcher at GEOMAR Helmholtz Centre for Ocean Research Kiel in DE. With 22 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.915556
+date: 2026-04-02T07:03:26.238597
 url: "/cdr-researcher-census/researchers/timo-spiegel-a5017129/"
 layout: "researcher"
 hiddenInHomeList: true

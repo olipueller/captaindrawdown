@@ -1,7 +1,7 @@
 ---
 title: "Blanca Sáenz de Miera"
 description: "Blanca Sáenz de Miera is a Mid-career Biochar researcher at Universidad Politécnica de Madrid in ES. With 12 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.525020
+date: 2026-04-02T07:03:25.695206
 url: "/cdr-researcher-census/researchers/blanca-saenz-de-miera-a5033438/"
 layout: "researcher"
 hiddenInHomeList: true

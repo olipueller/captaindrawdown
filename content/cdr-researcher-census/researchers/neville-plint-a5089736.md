@@ -1,7 +1,7 @@
 ---
 title: "Neville Plint"
 description: "Neville Plint is a Mid-career Enhanced Weathering researcher at National Oceanography Centre in GB. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.323754
+date: 2026-04-02T07:03:26.860817
 url: "/cdr-researcher-census/researchers/neville-plint-a5089736/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Hairul Nazirah Abdul Halim"
 description: "Hairul Nazirah Abdul Halim is a Senior carbon dioxide removal researcher at Universiti Malaysia Perlis in MY. With 32 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.332916
+date: 2026-04-02T07:03:25.387115
 url: "/cdr-researcher-census/researchers/hairul-nazirah-abdul-halim-a5002321/"
 layout: "researcher"
 hiddenInHomeList: true

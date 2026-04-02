@@ -1,7 +1,7 @@
 ---
 title: "Xiuwen Mei"
 description: "Xiuwen Mei is a Mid-career Soil Carbon researcher at Shenyang Agricultural University in CN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.832529
+date: 2026-04-02T07:03:26.119358
 url: "/cdr-researcher-census/researchers/xiuwen-mei-a5053844/"
 layout: "researcher"
 hiddenInHomeList: true

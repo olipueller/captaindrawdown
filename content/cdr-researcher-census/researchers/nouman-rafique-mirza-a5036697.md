@@ -1,7 +1,7 @@
 ---
 title: "Nouman Rafique Mirza"
 description: "Nouman Rafique Mirza is a Mid-career DAC researcher at CSIRO in AU. With 18 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.721008
+date: 2026-04-02T07:03:24.496135
 url: "/cdr-researcher-census/researchers/nouman-rafique-mirza-a5036697/"
 layout: "researcher"
 hiddenInHomeList: true

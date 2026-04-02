@@ -1,7 +1,7 @@
 ---
 title: "Xueyan Sun"
 description: "Xueyan Sun is a Mid-career Biochar researcher at Luoyang Institute of Science and Technology in CN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.156606
+date: 2026-04-02T07:03:25.138155
 url: "/cdr-researcher-census/researchers/xueyan-sun-a5041293/"
 layout: "researcher"
 hiddenInHomeList: true

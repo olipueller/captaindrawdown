@@ -1,7 +1,7 @@
 ---
 title: "David Emde"
 description: "David Emde is a Mid-career General CDR researcher at Johann Heinrich von Thünen-Institut in DE. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.947658
+date: 2026-04-02T07:03:24.827077
 url: "/cdr-researcher-census/researchers/david-emde-a5050133/"
 layout: "researcher"
 hiddenInHomeList: true

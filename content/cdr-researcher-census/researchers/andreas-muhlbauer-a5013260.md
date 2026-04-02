@@ -1,7 +1,7 @@
 ---
 title: "Andreas Mühlbauer"
 description: "Andreas Mühlbauer is a Senior General CDR researcher at OTH Regensburg in DE. With 57 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.468954
+date: 2026-04-02T07:03:24.131785
 url: "/cdr-researcher-census/researchers/andreas-muhlbauer-a5013260/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Margaret McKeen"
 description: "Margaret McKeen is a Senior General CDR researcher at James Hutton Institute in GB. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.274920
+date: 2026-04-02T07:03:25.305716
 url: "/cdr-researcher-census/researchers/margaret-mckeen-a5083322/"
 layout: "researcher"
 hiddenInHomeList: true

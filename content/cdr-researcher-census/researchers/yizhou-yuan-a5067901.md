@@ -1,7 +1,7 @@
 ---
 title: "Yizhou Yuan"
 description: "Yizhou Yuan is a Mid-career Soil Carbon researcher at Xi'an International Studies University in CN. With 12 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.360793
+date: 2026-04-02T07:03:26.911457
 url: "/cdr-researcher-census/researchers/yizhou-yuan-a5067901/"
 layout: "researcher"
 hiddenInHomeList: true

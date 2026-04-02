@@ -1,7 +1,7 @@
 ---
 title: "Xiang Wang"
 description: "Xiang Wang is a Senior Soil Carbon researcher at Hangzhou Normal University in CN. With 172 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.290228
+date: 2026-04-02T07:03:23.896926
 url: "/cdr-researcher-census/researchers/xiang-wang-a5115695/"
 layout: "researcher"
 hiddenInHomeList: true

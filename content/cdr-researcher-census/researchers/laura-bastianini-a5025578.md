@@ -1,7 +1,7 @@
 ---
 title: "Laura Bastianini"
 description: "Laura Bastianini is a Mid-career Ocean CDR researcher at Heriot-Watt University in GB. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.951828
+date: 2026-04-02T07:03:26.295030
 url: "/cdr-researcher-census/researchers/laura-bastianini-a5025578/"
 layout: "researcher"
 hiddenInHomeList: true

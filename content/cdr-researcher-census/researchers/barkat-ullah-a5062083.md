@@ -1,7 +1,7 @@
 ---
 title: "Barkat Ullah"
 description: "Barkat Ullah is a Mid-career Biochar researcher at COMSATS University Islamabad in PK. With 26 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.721199
+date: 2026-04-02T07:03:25.992678
 url: "/cdr-researcher-census/researchers/barkat-ullah-a5062083/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Zhexuan An"
 description: "Zhexuan An is a Mid-career carbon dioxide removal researcher at China University of Petroleum, Beijing in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.416354
+date: 2026-04-02T07:03:26.990013
 url: "/cdr-researcher-census/researchers/zhexuan-an-a5036033/"
 layout: "researcher"
 hiddenInHomeList: true

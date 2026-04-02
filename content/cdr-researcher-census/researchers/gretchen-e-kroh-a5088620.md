@@ -1,7 +1,7 @@
 ---
 title: "Gretchen E. Kroh"
 description: "Gretchen E. Kroh is a Mid-career General CDR researcher at Carbon180 in US. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.052231
+date: 2026-04-02T07:03:24.984457
 url: "/cdr-researcher-census/researchers/gretchen-e-kroh-a5088620/"
 layout: "researcher"
 hiddenInHomeList: true

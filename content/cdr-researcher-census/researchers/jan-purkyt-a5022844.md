@@ -1,7 +1,7 @@
 ---
 title: "Jan Purkyt"
 description: "Jan Purkyt is a Mid-career Soil Carbon researcher at Czech Academy of Sciences, Global Change Research Institute in CZ. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.393091
+date: 2026-04-02T07:03:25.475930
 url: "/cdr-researcher-census/researchers/jan-purkyt-a5022844/"
 layout: "researcher"
 hiddenInHomeList: true

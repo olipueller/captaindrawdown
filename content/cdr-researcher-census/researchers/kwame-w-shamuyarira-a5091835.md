@@ -1,7 +1,7 @@
 ---
 title: "Kwame W. Shamuyarira"
 description: "Kwame W. Shamuyarira is a Mid-career Soil Carbon researcher at University of the Free State in ZA. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.174175
+date: 2026-04-02T07:03:26.629174
 url: "/cdr-researcher-census/researchers/kwame-w-shamuyarira-a5091835/"
 layout: "researcher"
 hiddenInHomeList: true

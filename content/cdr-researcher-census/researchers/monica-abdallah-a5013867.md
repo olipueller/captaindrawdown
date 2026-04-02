@@ -1,7 +1,7 @@
 ---
 title: "Monica Abdallah"
 description: "Monica Abdallah is a Mid-career carbon dioxide removal researcher at Columbia University in US. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.532803
+date: 2026-04-02T07:03:25.706173
 url: "/cdr-researcher-census/researchers/monica-abdallah-a5013867/"
 layout: "researcher"
 hiddenInHomeList: true

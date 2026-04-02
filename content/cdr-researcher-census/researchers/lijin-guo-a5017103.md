@@ -1,7 +1,7 @@
 ---
 title: "Lijin Guo"
 description: "Lijin Guo is a Senior Soil Carbon researcher at South China Agricultural University in CN. With 48 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.333115
+date: 2026-04-02T07:03:23.953475
 url: "/cdr-researcher-census/researchers/lijin-guo-a5017103/"
 layout: "researcher"
 hiddenInHomeList: true

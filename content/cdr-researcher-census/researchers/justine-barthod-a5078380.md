@@ -1,7 +1,7 @@
 ---
 title: "Justine Barthod"
 description: "Justine Barthod is a Mid-career Soil Carbon researcher at Institut d'écologie et des sciences de l'environnement de Paris in FR. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.900094
+date: 2026-04-02T07:03:24.749672
 url: "/cdr-researcher-census/researchers/justine-barthod-a5078380/"
 layout: "researcher"
 hiddenInHomeList: true

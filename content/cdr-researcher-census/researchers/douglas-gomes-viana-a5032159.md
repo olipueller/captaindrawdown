@@ -1,7 +1,7 @@
 ---
 title: "Douglas Gomes Viana"
 description: "Douglas Gomes Viana is a Mid-career carbon dioxide removal researcher at Universidade de São Paulo in BR. With 40 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.165173
+date: 2026-04-02T07:03:25.149089
 url: "/cdr-researcher-census/researchers/douglas-gomes-viana-a5032159/"
 layout: "researcher"
 hiddenInHomeList: true

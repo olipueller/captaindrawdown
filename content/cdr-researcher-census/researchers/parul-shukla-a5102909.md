@@ -1,7 +1,7 @@
 ---
 title: "Parul Shukla"
 description: "Parul Shukla is a Mid-career Biochar researcher at Indian Institute of Technology Guwahati in IN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.509743
+date: 2026-04-02T07:03:24.185200
 url: "/cdr-researcher-census/researchers/parul-shukla-a5102909/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jörg Schwinger"
 description: "Jörg Schwinger is an Eminent General CDR researcher at Bjerknes Centre for Climate Research in NO. With 235 publications and an h-index of 47, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.075922
+date: 2026-04-02T07:03:23.618154
 url: "/cdr-researcher-census/researchers/jorg-schwinger-a5026788/"
 layout: "researcher"
 hiddenInHomeList: true

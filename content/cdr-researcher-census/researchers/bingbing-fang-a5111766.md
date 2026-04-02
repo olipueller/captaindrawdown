@@ -1,7 +1,7 @@
 ---
 title: "Bingbing Fang"
 description: "Bingbing Fang is a Senior BECCS researcher at Xinjiang Medical University in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.603803
+date: 2026-04-02T07:03:24.325684
 url: "/cdr-researcher-census/researchers/bingbing-fang-a5111766/"
 layout: "researcher"
 hiddenInHomeList: true

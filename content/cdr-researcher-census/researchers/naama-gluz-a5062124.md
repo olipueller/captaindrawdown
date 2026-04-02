@@ -1,7 +1,7 @@
 ---
 title: "Naama Gluz"
 description: "Naama Gluz is a Mid-career carbon dioxide removal researcher. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.704727
+date: 2026-04-02T07:03:25.967259
 url: "/cdr-researcher-census/researchers/naama-gluz-a5062124/"
 layout: "researcher"
 hiddenInHomeList: true

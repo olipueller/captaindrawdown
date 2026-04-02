@@ -1,7 +1,7 @@
 ---
 title: "Apurva Bambal"
 description: "Apurva Bambal is a Mid-career Biochar researcher at Rashtrasant Tukadoji Maharaj Nagpur University in IN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.820029
+date: 2026-04-02T07:03:26.102005
 url: "/cdr-researcher-census/researchers/apurva-bambal-a5061510/"
 layout: "researcher"
 hiddenInHomeList: true

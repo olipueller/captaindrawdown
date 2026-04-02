@@ -1,7 +1,7 @@
 ---
 title: "Linus Blomqvist"
 description: "Linus Blomqvist is a Mid-career General CDR researcher at University of California, Santa Barbara in US. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.625152
+date: 2026-04-02T07:03:24.355896
 url: "/cdr-researcher-census/researchers/linus-blomqvist-a5019993/"
 layout: "researcher"
 hiddenInHomeList: true

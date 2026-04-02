@@ -1,7 +1,7 @@
 ---
 title: "Mark Kelley"
 description: "Mark Kelley is an Early-career General CDR researcher. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.888421
+date: 2026-04-02T07:03:26.199107
 url: "/cdr-researcher-census/researchers/mark-kelley-a5103098/"
 layout: "researcher"
 hiddenInHomeList: true

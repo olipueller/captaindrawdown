@@ -1,7 +1,7 @@
 ---
 title: "Changyue Hu"
 description: "Changyue Hu is a Mid-career carbon dioxide removal researcher at China Railway Corporation in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.090559
+date: 2026-04-02T07:03:26.493528
 url: "/cdr-researcher-census/researchers/changyue-hu-a5070793/"
 layout: "researcher"
 hiddenInHomeList: true

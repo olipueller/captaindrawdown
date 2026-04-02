@@ -1,7 +1,7 @@
 ---
 title: "Walaa A. Elhamdy"
 description: "Walaa A. Elhamdy is a Mid-career Biochar researcher at Sohag University in EG. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.909740
+date: 2026-04-02T07:03:26.229411
 url: "/cdr-researcher-census/researchers/walaa-a-elhamdy-a5029677/"
 layout: "researcher"
 hiddenInHomeList: true

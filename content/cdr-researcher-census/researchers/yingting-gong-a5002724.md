@@ -1,7 +1,7 @@
 ---
 title: "Yingting Gong"
 description: "Yingting Gong is a Mid-career Soil Carbon researcher at Guangdong Academy of Agricultural Sciences in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.193234
+date: 2026-04-02T07:03:25.190043
 url: "/cdr-researcher-census/researchers/yingting-gong-a5002724/"
 layout: "researcher"
 hiddenInHomeList: true

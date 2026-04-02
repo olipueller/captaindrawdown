@@ -1,7 +1,7 @@
 ---
 title: "Michele Espinosa da Cunha"
 description: "Michele Espinosa da Cunha is a Senior Biochar researcher at Instituto Federal Sul-rio-grandense in BR. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.674890
+date: 2026-04-02T07:03:24.432411
 url: "/cdr-researcher-census/researchers/michele-espinosa-da-cunha-a5070614/"
 layout: "researcher"
 hiddenInHomeList: true

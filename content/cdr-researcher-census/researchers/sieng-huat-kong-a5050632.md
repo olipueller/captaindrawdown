@@ -1,7 +1,7 @@
 ---
 title: "Sieng Huat Kong"
 description: "Sieng Huat Kong is a Mid-career Biochar researcher at Northwest Research Institute of Chemical Industry in CN. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.540230
+date: 2026-04-02T07:03:24.234440
 url: "/cdr-researcher-census/researchers/sieng-huat-kong-a5050632/"
 layout: "researcher"
 hiddenInHomeList: true

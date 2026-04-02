@@ -1,7 +1,7 @@
 ---
 title: "Soon Onn Lai"
 description: "Soon Onn Lai is a Mid-career carbon dioxide removal researcher at Universiti Tunku Abdul Rahman in MY. With 36 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.885264
+date: 2026-04-02T07:03:24.726901
 url: "/cdr-researcher-census/researchers/soon-onn-lai-a5104296/"
 layout: "researcher"
 hiddenInHomeList: true

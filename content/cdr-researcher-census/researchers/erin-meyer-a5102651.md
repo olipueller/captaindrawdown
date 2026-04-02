@@ -1,7 +1,7 @@
 ---
 title: "Erin Meyer"
 description: "Erin Meyer is a Mid-career General CDR researcher at Harvest Home Farmer’s Market in US. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.679074
+date: 2026-04-02T07:03:25.928111
 url: "/cdr-researcher-census/researchers/erin-meyer-a5102651/"
 layout: "researcher"
 hiddenInHomeList: true

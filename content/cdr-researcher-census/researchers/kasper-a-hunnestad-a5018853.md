@@ -1,7 +1,7 @@
 ---
 title: "Kasper A. Hunnestad"
 description: "Kasper A. Hunnestad is a Mid-career General CDR researcher at Norwegian University of Science and Technology in NO. With 40 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.903318
+date: 2026-04-02T07:03:26.219919
 url: "/cdr-researcher-census/researchers/kasper-a-hunnestad-a5018853/"
 layout: "researcher"
 hiddenInHomeList: true

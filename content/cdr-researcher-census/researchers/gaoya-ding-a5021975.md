@@ -1,7 +1,7 @@
 ---
 title: "Gaoya Ding"
 description: "Gaoya Ding is a Mid-career carbon dioxide removal researcher at China University of Petroleum, Beijing in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.590694
+date: 2026-04-02T07:03:25.791468
 url: "/cdr-researcher-census/researchers/gaoya-ding-a5021975/"
 layout: "researcher"
 hiddenInHomeList: true

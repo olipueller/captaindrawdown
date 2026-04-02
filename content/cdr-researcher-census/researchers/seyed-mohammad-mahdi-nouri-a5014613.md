@@ -1,7 +1,7 @@
 ---
 title: "Seyed Mohammad Mahdi Nouri"
 description: "Seyed Mohammad Mahdi Nouri is a Senior General CDR researcher at University of Calgary in CA. With 26 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.082356
+date: 2026-04-02T07:03:25.029112
 url: "/cdr-researcher-census/researchers/seyed-mohammad-mahdi-nouri-a5014613/"
 layout: "researcher"
 hiddenInHomeList: true

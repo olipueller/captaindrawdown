@@ -1,7 +1,7 @@
 ---
 title: "Susanne Rolinski"
 description: "Susanne Rolinski is a Senior Soil Carbon researcher at Leibniz Association in DE. With 139 publications and an h-index of 39, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.113621
+date: 2026-04-02T07:03:23.663740
 url: "/cdr-researcher-census/researchers/susanne-rolinski-a5103737/"
 layout: "researcher"
 hiddenInHomeList: true

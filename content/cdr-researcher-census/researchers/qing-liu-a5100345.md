@@ -1,7 +1,7 @@
 ---
 title: "Qing Liu"
 description: "Qing Liu is a Senior carbon dioxide removal researcher at Institute of Fruit Tree and Tea Science in JP. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.406875
+date: 2026-04-02T07:03:25.498237
 url: "/cdr-researcher-census/researchers/qing-liu-a5100345/"
 layout: "researcher"
 hiddenInHomeList: true

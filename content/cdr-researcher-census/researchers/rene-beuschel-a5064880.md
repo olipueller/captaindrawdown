@@ -1,7 +1,7 @@
 ---
 title: "René Beuschel"
 description: "René Beuschel is a Mid-career General CDR researcher at University of Kassel in DE. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.578437
+date: 2026-04-02T07:03:25.772567
 url: "/cdr-researcher-census/researchers/rene-beuschel-a5064880/"
 layout: "researcher"
 hiddenInHomeList: true

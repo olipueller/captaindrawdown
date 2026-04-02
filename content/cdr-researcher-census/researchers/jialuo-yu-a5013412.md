@@ -1,7 +1,7 @@
 ---
 title: "Jialuo Yu"
 description: "Jialuo Yu is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 44 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.272592
+date: 2026-04-02T07:03:23.872358
 url: "/cdr-researcher-census/researchers/jialuo-yu-a5013412/"
 layout: "researcher"
 hiddenInHomeList: true

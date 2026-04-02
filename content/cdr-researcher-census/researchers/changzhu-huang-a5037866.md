@@ -1,7 +1,7 @@
 ---
 title: "Changzhu Huang"
 description: "Changzhu Huang is a Senior carbon dioxide removal researcher at Nanjing Forestry University in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.921188
+date: 2026-04-02T07:03:24.785274
 url: "/cdr-researcher-census/researchers/changzhu-huang-a5037866/"
 layout: "researcher"
 hiddenInHomeList: true

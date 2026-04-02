@@ -1,7 +1,7 @@
 ---
 title: "Wanqian Guo"
 description: "Wanqian Guo is a Mid-career Soil Carbon researcher at Harbin Institute of Technology in CN. With 2 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.557776
+date: 2026-04-02T07:03:25.741841
 url: "/cdr-researcher-census/researchers/wanqian-guo-a5071741/"
 layout: "researcher"
 hiddenInHomeList: true

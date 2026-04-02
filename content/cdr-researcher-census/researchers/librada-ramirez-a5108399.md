@@ -1,7 +1,7 @@
 ---
 title: "Librada Ramírez"
 description: "Librada Ramírez is a Senior Ocean CDR researcher at Universidad de Málaga in ES. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.510259
+date: 2026-04-02T07:03:25.674454
 url: "/cdr-researcher-census/researchers/librada-ramirez-a5108399/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Sauradeep Majumdar"
 description: "Sauradeep Majumdar is a Mid-career carbon dioxide removal researcher. With 31 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.827041
+date: 2026-04-02T07:03:24.642664
 url: "/cdr-researcher-census/researchers/sauradeep-majumdar-a5015180/"
 layout: "researcher"
 hiddenInHomeList: true

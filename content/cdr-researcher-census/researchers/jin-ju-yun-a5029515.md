@@ -1,7 +1,7 @@
 ---
 title: "Jin-Ju Yun"
 description: "Jin-Ju Yun is a Mid-career Soil Carbon researcher at Rural Development Administration in KR. With 35 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.229736
+date: 2026-04-02T07:03:25.248522
 url: "/cdr-researcher-census/researchers/jin-ju-yun-a5029515/"
 layout: "researcher"
 hiddenInHomeList: true

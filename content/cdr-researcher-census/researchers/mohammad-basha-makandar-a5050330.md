@@ -1,7 +1,7 @@
 ---
 title: "Mohammad Basha Makandar"
 description: "Mohammad Basha Makandar is a Senior Biochar researcher. With 6 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.308858
+date: 2026-04-02T07:03:26.841729
 url: "/cdr-researcher-census/researchers/mohammad-basha-makandar-a5050330/"
 layout: "researcher"
 hiddenInHomeList: true

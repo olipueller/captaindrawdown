@@ -1,7 +1,7 @@
 ---
 title: "Juliane Hirte"
 description: "Juliane Hirte is a Mid-career Soil Carbon researcher at Agroscope in CH. With 51 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.558417
+date: 2026-04-02T07:03:24.260118
 url: "/cdr-researcher-census/researchers/juliane-hirte-a5030930/"
 layout: "researcher"
 hiddenInHomeList: true

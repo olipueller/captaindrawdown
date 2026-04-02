@@ -1,7 +1,7 @@
 ---
 title: "Mohammad Main Uddin"
 description: "Mohammad Main Uddin is a Mid-career General CDR researcher at University of Queensland in AU. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.961074
+date: 2026-04-02T07:03:24.848044
 url: "/cdr-researcher-census/researchers/mohammad-main-uddin-a5015360/"
 layout: "researcher"
 hiddenInHomeList: true

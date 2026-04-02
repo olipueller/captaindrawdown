@@ -1,7 +1,7 @@
 ---
 title: "Katherine Blumanthal"
 description: "Katherine Blumanthal is an Early-career DAC researcher. With 2 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.690574
+date: 2026-04-02T07:03:24.453070
 url: "/cdr-researcher-census/researchers/katherine-blumanthal-a5007121/"
 layout: "researcher"
 hiddenInHomeList: true

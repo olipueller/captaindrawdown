@@ -1,7 +1,7 @@
 ---
 title: "Katrin Fleischer"
 description: "Katrin Fleischer is a Senior Soil Carbon researcher at Vrije Universiteit Amsterdam in NL. With 101 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.360746
+date: 2026-04-02T07:03:23.992561
 url: "/cdr-researcher-census/researchers/katrin-fleischer-a5018086/"
 layout: "researcher"
 hiddenInHomeList: true

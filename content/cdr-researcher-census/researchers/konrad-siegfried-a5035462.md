@@ -1,7 +1,7 @@
 ---
 title: "Konrad Siegfried"
 description: "Konrad Siegfried is a Senior Biochar researcher at Deutsches Biomasseforschungszentrum in DE. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.347884
+date: 2026-04-02T07:03:25.408016
 url: "/cdr-researcher-census/researchers/konrad-siegfried-a5035462/"
 layout: "researcher"
 hiddenInHomeList: true

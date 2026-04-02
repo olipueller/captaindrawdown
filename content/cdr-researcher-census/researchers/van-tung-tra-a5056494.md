@@ -1,7 +1,7 @@
 ---
 title: "Van-Tung Tra"
 description: "Van-Tung Tra is a Mid-career Biochar researcher at Trường ĐH Nguyễn Tất Thành in VN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.983801
+date: 2026-04-02T07:03:26.335543
 url: "/cdr-researcher-census/researchers/van-tung-tra-a5056494/"
 layout: "researcher"
 hiddenInHomeList: true

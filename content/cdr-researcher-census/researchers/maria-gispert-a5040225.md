@@ -1,7 +1,7 @@
 ---
 title: "María Gispert"
 description: "María Gispert is a Senior Soil Carbon researcher at Universitat de Girona in ES. With 71 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.313604
+date: 2026-04-02T07:03:23.927633
 url: "/cdr-researcher-census/researchers/maria-gispert-a5040225/"
 layout: "researcher"
 hiddenInHomeList: true

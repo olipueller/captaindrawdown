@@ -1,7 +1,7 @@
 ---
 title: "Gang Dai"
 description: "Gang Dai is a Senior Soil Carbon researcher at Inner Mongolia Normal University in CN. With 40 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.876306
+date: 2026-04-02T07:03:24.712780
 url: "/cdr-researcher-census/researchers/gang-dai-a5036182/"
 layout: "researcher"
 hiddenInHomeList: true

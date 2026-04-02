@@ -1,7 +1,7 @@
 ---
 title: "Vesa-Pekka Parkatti"
 description: "Vesa-Pekka Parkatti is a Mid-career General CDR researcher at University of Helsinki in FI. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.188734
+date: 2026-04-02T07:03:26.663861
 url: "/cdr-researcher-census/researchers/vesa-pekka-parkatti-a5066672/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ítalo Braz Gonçalves de Lima"
 description: "Ítalo Braz Gonçalves de Lima is a Mid-career Soil Carbon researcher at University of Illinois Urbana-Champaign in US. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.300415
+date: 2026-04-02T07:03:26.827388
 url: "/cdr-researcher-census/researchers/italo-braz-goncalves-de-lima-a5043384/"
 layout: "researcher"
 hiddenInHomeList: true

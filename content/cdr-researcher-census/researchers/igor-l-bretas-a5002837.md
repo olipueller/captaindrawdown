@@ -1,7 +1,7 @@
 ---
 title: "Igor L. Bretas"
 description: "Igor L. Bretas is a Mid-career Soil Carbon researcher at Universidade Federal Rural do Rio de Janeiro in BR. With 38 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.365414
+date: 2026-04-02T07:03:25.436213
 url: "/cdr-researcher-census/researchers/igor-l-bretas-a5002837/"
 layout: "researcher"
 hiddenInHomeList: true

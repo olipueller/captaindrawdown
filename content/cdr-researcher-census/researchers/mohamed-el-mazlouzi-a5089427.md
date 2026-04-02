@@ -1,7 +1,7 @@
 ---
 title: "Mohamed El Mazlouzi"
 description: "Mohamed El Mazlouzi is a Mid-career Soil Carbon researcher at Département Environnement et Agronomie in FR. With 16 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.336753
+date: 2026-04-02T07:03:26.875524
 url: "/cdr-researcher-census/researchers/mohamed-el-mazlouzi-a5089427/"
 layout: "researcher"
 hiddenInHomeList: true

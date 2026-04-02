@@ -1,7 +1,7 @@
 ---
 title: "Abimbola O Ajibowo"
 description: "Abimbola O Ajibowo is a Mid-career carbon dioxide removal researcher. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.609566
+date: 2026-04-02T07:03:25.819832
 url: "/cdr-researcher-census/researchers/abimbola-o-ajibowo-a5085483/"
 layout: "researcher"
 hiddenInHomeList: true

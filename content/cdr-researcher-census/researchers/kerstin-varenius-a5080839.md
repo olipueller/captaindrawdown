@@ -1,7 +1,7 @@
 ---
 title: "Kerstin Varenius"
 description: "Kerstin Varenius is a Mid-career Soil Carbon researcher. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.380653
+date: 2026-04-02T07:03:25.458398
 url: "/cdr-researcher-census/researchers/kerstin-varenius-a5080839/"
 layout: "researcher"
 hiddenInHomeList: true

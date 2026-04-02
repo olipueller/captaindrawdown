@@ -1,7 +1,7 @@
 ---
 title: "Guangchuang Zhang"
 description: "Guangchuang Zhang is a Mid-career Soil Carbon researcher at Xi'an Jiaotong University in CN. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.190108
+date: 2026-04-02T07:03:25.185601
 url: "/cdr-researcher-census/researchers/guangchuang-zhang-a5004696/"
 layout: "researcher"
 hiddenInHomeList: true

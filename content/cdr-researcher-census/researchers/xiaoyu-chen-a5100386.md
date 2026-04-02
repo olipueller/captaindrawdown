@@ -1,7 +1,7 @@
 ---
 title: "Xiaoyu Chen"
 description: "Xiaoyu Chen is a Mid-career Soil Carbon researcher at Fujian Normal University in CN. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.426671
+date: 2026-04-02T07:03:25.527059
 url: "/cdr-researcher-census/researchers/xiaoyu-chen-a5100386/"
 layout: "researcher"
 hiddenInHomeList: true

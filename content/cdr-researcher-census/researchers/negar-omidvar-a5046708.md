@@ -1,7 +1,7 @@
 ---
 title: "Negar Omidvar"
 description: "Negar Omidvar is a Mid-career Soil Carbon researcher at Griffith University in AU. With 29 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.985487
+date: 2026-04-02T07:03:24.886722
 url: "/cdr-researcher-census/researchers/negar-omidvar-a5046708/"
 layout: "researcher"
 hiddenInHomeList: true

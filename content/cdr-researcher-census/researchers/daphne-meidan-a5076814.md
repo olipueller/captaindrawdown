@@ -1,7 +1,7 @@
 ---
 title: "Daphne Meidan"
 description: "Daphne Meidan is a Mid-career General CDR researcher at Consejo Superior de Investigaciones Científicas in ES. With 30 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.595547
+date: 2026-04-02T07:03:24.313330
 url: "/cdr-researcher-census/researchers/daphne-meidan-a5076814/"
 layout: "researcher"
 hiddenInHomeList: true

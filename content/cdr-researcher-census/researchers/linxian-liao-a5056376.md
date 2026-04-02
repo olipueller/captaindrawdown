@@ -1,7 +1,7 @@
 ---
 title: "Linxian Liao"
 description: "Linxian Liao is a Senior Soil Carbon researcher at Hohai University in CN. With 32 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.111438
+date: 2026-04-02T07:03:25.071472
 url: "/cdr-researcher-census/researchers/linxian-liao-a5056376/"
 layout: "researcher"
 hiddenInHomeList: true

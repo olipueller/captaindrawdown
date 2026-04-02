@@ -1,7 +1,7 @@
 ---
 title: "Olawale Oloye"
 description: "Olawale Oloye is a Mid-career DAC researcher at Queensland University of Technology in AU. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.254556
+date: 2026-04-02T07:03:25.279885
 url: "/cdr-researcher-census/researchers/olawale-oloye-a5015789/"
 layout: "researcher"
 hiddenInHomeList: true

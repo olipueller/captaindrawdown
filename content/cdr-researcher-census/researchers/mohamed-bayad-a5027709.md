@@ -1,7 +1,7 @@
 ---
 title: "Mohamed Bayad"
 description: "Mohamed Bayad is a Mid-career Soil Carbon researcher at Université Mohammed VI Polytechnique in MA. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.219475
+date: 2026-04-02T07:03:26.706824
 url: "/cdr-researcher-census/researchers/mohamed-bayad-a5027709/"
 layout: "researcher"
 hiddenInHomeList: true

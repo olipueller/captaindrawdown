@@ -1,7 +1,7 @@
 ---
 title: "Guillaume Peterson St‐Laurent"
 description: "Guillaume Peterson St‐Laurent is a Mid-career General CDR researcher at University of British Columbia in CA. With 34 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.457805
+date: 2026-04-02T07:03:24.116231
 url: "/cdr-researcher-census/researchers/guillaume-peterson-stlaurent-a5069003/"
 layout: "researcher"
 hiddenInHomeList: true

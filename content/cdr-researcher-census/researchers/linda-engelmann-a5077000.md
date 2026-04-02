@@ -1,7 +1,7 @@
 ---
 title: "Linda Engelmann"
 description: "Linda Engelmann is a Mid-career General CDR researcher at RWTH Aachen University in DE. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.059018
+date: 2026-04-02T07:03:26.451418
 url: "/cdr-researcher-census/researchers/linda-engelmann-a5077000/"
 layout: "researcher"
 hiddenInHomeList: true

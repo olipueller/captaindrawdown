@@ -1,7 +1,7 @@
 ---
 title: "I. D. Dobreva"
 description: "I. D. Dobreva is a Senior Soil Carbon researcher at The Ohio State University in US. With 34 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.262935
+date: 2026-04-02T07:03:25.290323
 url: "/cdr-researcher-census/researchers/i-d-dobreva-a5045265/"
 layout: "researcher"
 hiddenInHomeList: true

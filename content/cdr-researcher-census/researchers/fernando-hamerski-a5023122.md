@@ -1,7 +1,7 @@
 ---
 title: "Fernando Hamerski"
 description: "Fernando Hamerski is a Mid-career carbon dioxide removal researcher at Pontifícia Universidade Católica do Rio Grande do Sul in BR. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.073528
+date: 2026-04-02T07:03:26.469780
 url: "/cdr-researcher-census/researchers/fernando-hamerski-a5023122/"
 layout: "researcher"
 hiddenInHomeList: true

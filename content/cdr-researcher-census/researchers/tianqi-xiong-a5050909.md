@@ -1,7 +1,7 @@
 ---
 title: "Tianqi Xiong"
 description: "Tianqi Xiong is a Senior Ocean CDR researcher at Qingdao Institute of Bioenergy and Bioprocess Technology, Chinese Academy of Sciences in CN. With 34 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.656360
+date: 2026-04-02T07:03:24.401252
 url: "/cdr-researcher-census/researchers/tianqi-xiong-a5050909/"
 layout: "researcher"
 hiddenInHomeList: true

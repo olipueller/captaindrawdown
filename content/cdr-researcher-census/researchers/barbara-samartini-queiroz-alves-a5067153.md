@@ -1,7 +1,7 @@
 ---
 title: "Bárbara Samartini Queiroz Alves"
 description: "Bárbara Samartini Queiroz Alves is a Mid-career Biochar researcher at National Agency of Petroleum, Natural Gas and Biofuels in BR. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.214351
+date: 2026-04-02T07:03:26.699256
 url: "/cdr-researcher-census/researchers/barbara-samartini-queiroz-alves-a5067153/"
 layout: "researcher"
 hiddenInHomeList: true

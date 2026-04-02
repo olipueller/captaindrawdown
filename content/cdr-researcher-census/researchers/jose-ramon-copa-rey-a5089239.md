@@ -1,7 +1,7 @@
 ---
 title: "José Ramón Copa Rey"
 description: "José Ramón Copa Rey is a Mid-career BECCS researcher at Polytechnic Institute of Portalegre in PT. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.178454
+date: 2026-04-02T07:03:25.168380
 url: "/cdr-researcher-census/researchers/jose-ramon-copa-rey-a5089239/"
 layout: "researcher"
 hiddenInHomeList: true

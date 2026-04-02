@@ -1,7 +1,7 @@
 ---
 title: "Hung-Ta Wu"
 description: "Hung-Ta Wu is a Mid-career carbon dioxide removal researcher at National Ilan University in TW. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.996377
+date: 2026-04-02T07:03:26.356099
 url: "/cdr-researcher-census/researchers/hung-ta-wu-a5068229/"
 layout: "researcher"
 hiddenInHomeList: true

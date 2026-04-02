@@ -1,7 +1,7 @@
 ---
 title: "Matthew T. Wilkinson"
 description: "Matthew T. Wilkinson is a Senior General CDR researcher at University of Cambridge in GB. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.147120
+date: 2026-04-02T07:03:26.580149
 url: "/cdr-researcher-census/researchers/matthew-t-wilkinson-a5031120/"
 layout: "researcher"
 hiddenInHomeList: true

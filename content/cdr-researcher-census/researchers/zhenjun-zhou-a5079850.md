@@ -1,7 +1,7 @@
 ---
 title: "Zhenjun Zhou"
 description: "Zhenjun Zhou is a Senior carbon dioxide removal researcher at China University of Geosciences (Beijing) in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.329598
+date: 2026-04-02T07:03:25.382595
 url: "/cdr-researcher-census/researchers/zhenjun-zhou-a5079850/"
 layout: "researcher"
 hiddenInHomeList: true

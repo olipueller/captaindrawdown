@@ -1,7 +1,7 @@
 ---
 title: "Siti Norsaffirah Zailan"
 description: "Siti Norsaffirah Zailan is a Mid-career carbon dioxide removal researcher at Universiti Malaysia Perlis in MY. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.674776
+date: 2026-04-02T07:03:25.921351
 url: "/cdr-researcher-census/researchers/siti-norsaffirah-zailan-a5057288/"
 layout: "researcher"
 hiddenInHomeList: true

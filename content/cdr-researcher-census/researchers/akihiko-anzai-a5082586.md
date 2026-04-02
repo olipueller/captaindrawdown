@@ -1,7 +1,7 @@
 ---
 title: "Akihiko Anzai"
 description: "Akihiko Anzai is a Mid-career DAC researcher at Hokkaido University in JP. With 37 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.822373
+date: 2026-04-02T07:03:24.638053
 url: "/cdr-researcher-census/researchers/akihiko-anzai-a5082586/"
 layout: "researcher"
 hiddenInHomeList: true

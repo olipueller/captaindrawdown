@@ -1,7 +1,7 @@
 ---
 title: "Farinaz Ebrahimian"
 description: "Farinaz Ebrahimian is a Mid-career Biochar researcher at Mälardalen University in SE. With 18 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.889958
+date: 2026-04-02T07:03:24.734420
 url: "/cdr-researcher-census/researchers/farinaz-ebrahimian-a5060226/"
 layout: "researcher"
 hiddenInHomeList: true

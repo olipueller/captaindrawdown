@@ -1,7 +1,7 @@
 ---
 title: "Paul Willson"
 description: "Paul Willson is an Early-career carbon dioxide removal researcher. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.395738
+date: 2026-04-02T07:03:26.960843
 url: "/cdr-researcher-census/researchers/paul-willson-a5085824/"
 layout: "researcher"
 hiddenInHomeList: true

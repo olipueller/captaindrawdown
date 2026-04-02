@@ -1,7 +1,7 @@
 ---
 title: "Karlien Moeys"
 description: "Karlien Moeys is an Early-career carbon dioxide removal researcher at KU Leuven in BE. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.017846
+date: 2026-04-02T07:03:26.386610
 url: "/cdr-researcher-census/researchers/karlien-moeys-a5033396/"
 layout: "researcher"
 hiddenInHomeList: true

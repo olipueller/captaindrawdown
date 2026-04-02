@@ -1,7 +1,7 @@
 ---
 title: "Shijie Han"
 description: "Shijie Han is a Mid-career Soil Carbon researcher at University of Connecticut in US. With 19 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.357988
+date: 2026-04-02T07:03:26.906979
 url: "/cdr-researcher-census/researchers/shijie-han-a5054889/"
 layout: "researcher"
 hiddenInHomeList: true

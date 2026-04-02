@@ -1,7 +1,7 @@
 ---
 title: "Sat Darshan S. Khalsa"
 description: "Sat Darshan S. Khalsa is a Mid-career Soil Carbon researcher at University of California, Davis in US. With 41 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.851822
+date: 2026-04-02T07:03:24.677554
 url: "/cdr-researcher-census/researchers/sat-darshan-s-khalsa-a5049818/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Bruno D.V Marino"
 description: "Bruno D.V Marino is a Senior General CDR researcher at Planetary Science Institute in US. With 40 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.266938
+date: 2026-04-02T07:03:23.864372
 url: "/cdr-researcher-census/researchers/bruno-dv-marino-a5003088/"
 layout: "researcher"
 hiddenInHomeList: true

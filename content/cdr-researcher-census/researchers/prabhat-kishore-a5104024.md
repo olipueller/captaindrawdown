@@ -1,7 +1,7 @@
 ---
 title: "Prabhat Kishore"
 description: "Prabhat Kishore is an Early-career General CDR researcher. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.956783
+date: 2026-04-02T07:03:26.301952
 url: "/cdr-researcher-census/researchers/prabhat-kishore-a5104024/"
 layout: "researcher"
 hiddenInHomeList: true

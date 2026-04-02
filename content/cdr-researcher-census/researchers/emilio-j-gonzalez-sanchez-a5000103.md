@@ -1,7 +1,7 @@
 ---
 title: "Emilio J. González-Sánchez"
 description: "Emilio J. González-Sánchez is a Mid-career Soil Carbon researcher at Universidad de Córdoba in ES. With 51 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.373280
+date: 2026-04-02T07:03:24.009095
 url: "/cdr-researcher-census/researchers/emilio-j-gonzalez-sanchez-a5000103/"
 layout: "researcher"
 hiddenInHomeList: true

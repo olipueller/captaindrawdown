@@ -1,7 +1,7 @@
 ---
 title: "Kiana Niazmand"
 description: "Kiana Niazmand is an Early-career Biochar researcher at Lutheran University of Applied Sciences Nuremberg in DE. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.276236
+date: 2026-04-02T07:03:26.790852
 url: "/cdr-researcher-census/researchers/kiana-niazmand-a5066438/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Purity Rima Mbaabu"
 description: "Purity Rima Mbaabu is a Mid-career General CDR researcher. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.651177
+date: 2026-04-02T07:03:24.393011
 url: "/cdr-researcher-census/researchers/purity-rima-mbaabu-a5088900/"
 layout: "researcher"
 hiddenInHomeList: true

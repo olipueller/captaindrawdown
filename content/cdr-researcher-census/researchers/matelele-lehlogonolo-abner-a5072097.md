@@ -1,7 +1,7 @@
 ---
 title: "Matelele Lehlogonolo Abner"
 description: "Matelele Lehlogonolo Abner is a Senior General CDR researcher at Institute of Agricultural Resources and Regional Planning in CN. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.124014
+date: 2026-04-02T07:03:26.539890
 url: "/cdr-researcher-census/researchers/matelele-lehlogonolo-abner-a5072097/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Qing‐Nan Wang"
 description: "Qing‐Nan Wang is a Mid-career carbon dioxide removal researcher at Dalian Institute of Chemical Physics in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.469872
+date: 2026-04-02T07:03:25.593348
 url: "/cdr-researcher-census/researchers/qingnan-wang-a5117708/"
 layout: "researcher"
 hiddenInHomeList: true

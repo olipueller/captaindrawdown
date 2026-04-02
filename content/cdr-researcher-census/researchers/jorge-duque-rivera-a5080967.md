@@ -1,7 +1,7 @@
 ---
 title: "Jorge Duque-Rivera"
 description: "Jorge Duque-Rivera is a Senior BECCS researcher at Escuela Superior Politecnica del Litoral in EC. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.257839
+date: 2026-04-02T07:03:25.284122
 url: "/cdr-researcher-census/researchers/jorge-duque-rivera-a5080967/"
 layout: "researcher"
 hiddenInHomeList: true

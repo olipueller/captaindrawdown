@@ -1,7 +1,7 @@
 ---
 title: "AP Singh"
 description: "AP Singh is a Senior General CDR researcher at Sher-e-Kashmir University of Agricultural Sciences and Technology of Jammu in IN. With 38 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.043140
+date: 2026-04-02T07:03:26.425685
 url: "/cdr-researcher-census/researchers/ap-singh-a5109974/"
 layout: "researcher"
 hiddenInHomeList: true

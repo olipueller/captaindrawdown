@@ -1,7 +1,7 @@
 ---
 title: "Tianjing Ren"
 description: "Tianjing Ren is a Mid-career Soil Carbon researcher at Chinese Academy of Agricultural Sciences in CN. With 29 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.379979
+date: 2026-04-02T07:03:25.457459
 url: "/cdr-researcher-census/researchers/tianjing-ren-a5028591/"
 layout: "researcher"
 hiddenInHomeList: true

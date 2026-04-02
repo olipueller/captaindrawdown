@@ -1,7 +1,7 @@
 ---
 title: "Mona A. Andskog"
 description: "Mona A. Andskog is a Mid-career Ocean CDR researcher at Southern Cross University in AU. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.901565
+date: 2026-04-02T07:03:26.217489
 url: "/cdr-researcher-census/researchers/mona-a-andskog-a5017774/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Uvinduni I. Premadasa"
 description: "Uvinduni I. Premadasa is a Mid-career DAC researcher at Oak Ridge National Laboratory in US. With 42 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.876592
+date: 2026-04-02T07:03:24.713132
 url: "/cdr-researcher-census/researchers/uvinduni-i-premadasa-a5025606/"
 layout: "researcher"
 hiddenInHomeList: true

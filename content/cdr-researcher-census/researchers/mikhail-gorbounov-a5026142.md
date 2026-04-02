@@ -1,7 +1,7 @@
 ---
 title: "Mikhail Gorbounov"
 description: "Mikhail Gorbounov is a Senior BECCS researcher at Brunel University of London in GB. With 34 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.415211
+date: 2026-04-02T07:03:24.057176
 url: "/cdr-researcher-census/researchers/mikhail-gorbounov-a5026142/"
 layout: "researcher"
 hiddenInHomeList: true

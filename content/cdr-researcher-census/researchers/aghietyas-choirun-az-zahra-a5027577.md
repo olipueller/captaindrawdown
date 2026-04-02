@@ -1,7 +1,7 @@
 ---
 title: "Aghietyas Choirun Az Zahra"
 description: "Aghietyas Choirun Az Zahra is a Mid-career Biochar researcher at Bandung Institute of Technology in ID. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.568173
+date: 2026-04-02T07:03:25.757806
 url: "/cdr-researcher-census/researchers/aghietyas-choirun-az-zahra-a5027577/"
 layout: "researcher"
 hiddenInHomeList: true

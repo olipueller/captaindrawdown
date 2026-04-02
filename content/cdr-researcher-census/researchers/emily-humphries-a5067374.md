@@ -1,7 +1,7 @@
 ---
 title: "Emily Humphries"
 description: "Emily Humphries is a Mid-career carbon dioxide removal researcher. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.978631
+date: 2026-04-02T07:03:24.875940
 url: "/cdr-researcher-census/researchers/emily-humphries-a5067374/"
 layout: "researcher"
 hiddenInHomeList: true

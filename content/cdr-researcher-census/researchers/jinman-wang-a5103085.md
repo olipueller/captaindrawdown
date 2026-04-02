@@ -1,7 +1,7 @@
 ---
 title: "Jinman Wang"
 description: "Jinman Wang is a Senior General CDR researcher at Ministry of Natural Resources in CN. With 33 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.423605
+date: 2026-04-02T07:03:24.068576
 url: "/cdr-researcher-census/researchers/jinman-wang-a5103085/"
 layout: "researcher"
 hiddenInHomeList: true

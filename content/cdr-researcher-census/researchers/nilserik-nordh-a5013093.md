@@ -1,7 +1,7 @@
 ---
 title: "Nils‐Erik Nordh"
 description: "Nils‐Erik Nordh is a Senior BECCS researcher at Swedish University of Agricultural Sciences in SE. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.930072
+date: 2026-04-02T07:03:24.798682
 url: "/cdr-researcher-census/researchers/nilserik-nordh-a5013093/"
 layout: "researcher"
 hiddenInHomeList: true

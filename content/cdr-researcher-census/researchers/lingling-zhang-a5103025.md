@@ -1,7 +1,7 @@
 ---
 title: "Lingling Zhang"
 description: "Lingling Zhang is a Mid-career Soil Carbon researcher at South China Botanical Garden in CN. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.929650
+date: 2026-04-02T07:03:26.263514
 url: "/cdr-researcher-census/researchers/lingling-zhang-a5103025/"
 layout: "researcher"
 hiddenInHomeList: true

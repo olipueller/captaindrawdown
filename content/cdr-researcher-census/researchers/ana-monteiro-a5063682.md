@@ -1,7 +1,7 @@
 ---
 title: "Ana Monteiro"
 description: "Ana Monteiro is a Mid-career carbon dioxide removal researcher at Universidade Federal de São Carlos in BR. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.214764
+date: 2026-04-02T07:03:26.699851
 url: "/cdr-researcher-census/researchers/ana-monteiro-a5063682/"
 layout: "researcher"
 hiddenInHomeList: true

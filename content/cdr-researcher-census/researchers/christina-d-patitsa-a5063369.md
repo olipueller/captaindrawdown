@@ -1,7 +1,7 @@
 ---
 title: "Christina D. Patitsa"
 description: "Christina D. Patitsa is a Mid-career General CDR researcher at University of West Attica in GR. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.910379
+date: 2026-04-02T07:03:26.230486
 url: "/cdr-researcher-census/researchers/christina-d-patitsa-a5063369/"
 layout: "researcher"
 hiddenInHomeList: true

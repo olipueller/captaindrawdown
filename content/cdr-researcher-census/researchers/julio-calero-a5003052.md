@@ -1,7 +1,7 @@
 ---
 title: "Julio Calero"
 description: "Julio Calero is a Senior Soil Carbon researcher at University of Jaén in ES. With 65 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.595998
+date: 2026-04-02T07:03:24.313969
 url: "/cdr-researcher-census/researchers/julio-calero-a5003052/"
 layout: "researcher"
 hiddenInHomeList: true

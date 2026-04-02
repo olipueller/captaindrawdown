@@ -1,7 +1,7 @@
 ---
 title: "Jing-Wen Pang"
 description: "Jing-Wen Pang is a Mid-career Soil Carbon researcher at Shihezi University in CN. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.932340
+date: 2026-04-02T07:03:24.802016
 url: "/cdr-researcher-census/researchers/jing-wen-pang-a5091566/"
 layout: "researcher"
 hiddenInHomeList: true

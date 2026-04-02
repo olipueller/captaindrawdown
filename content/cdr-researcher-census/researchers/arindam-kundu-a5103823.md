@@ -1,7 +1,7 @@
 ---
 title: "Arindam Kundu"
 description: "Arindam Kundu is a Senior Soil Carbon researcher at Indian Institute of Technology Delhi in IN. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.691937
+date: 2026-04-02T07:03:25.946475
 url: "/cdr-researcher-census/researchers/arindam-kundu-a5103823/"
 layout: "researcher"
 hiddenInHomeList: true

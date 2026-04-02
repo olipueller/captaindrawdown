@@ -1,7 +1,7 @@
 ---
 title: "Shujuan Chang"
 description: "Shujuan Chang is a Mid-career General CDR researcher at Inner Mongolia Electric Power Survey & Design Institute (China) in CN. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.825992
+date: 2026-04-02T07:03:24.641435
 url: "/cdr-researcher-census/researchers/shujuan-chang-a5021268/"
 layout: "researcher"
 hiddenInHomeList: true

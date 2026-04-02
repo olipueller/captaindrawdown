@@ -1,7 +1,7 @@
 ---
 title: "Kristine Lister"
 description: "Kristine Lister is a Mid-career General CDR researcher at World Resources Institute in US. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.678087
+date: 2026-04-02T07:03:24.436832
 url: "/cdr-researcher-census/researchers/kristine-lister-a5012693/"
 layout: "researcher"
 hiddenInHomeList: true

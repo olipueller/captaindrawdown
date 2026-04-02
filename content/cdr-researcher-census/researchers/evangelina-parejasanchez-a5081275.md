@@ -1,7 +1,7 @@
 ---
 title: "Evangelina Pareja‐Sánchez"
 description: "Evangelina Pareja‐Sánchez is a Mid-career Soil Carbon researcher at Universidad de Jaén in ES. With 21 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.088830
+date: 2026-04-02T07:03:25.038171
 url: "/cdr-researcher-census/researchers/evangelina-parejasanchez-a5081275/"
 layout: "researcher"
 hiddenInHomeList: true

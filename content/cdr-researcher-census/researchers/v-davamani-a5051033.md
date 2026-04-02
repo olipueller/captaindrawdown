@@ -1,7 +1,7 @@
 ---
 title: "V. Davamani"
 description: "V. Davamani is a Senior Soil Carbon researcher at Tamil Nadu Agricultural University in IN. With 92 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.719864
+date: 2026-04-02T07:03:24.494586
 url: "/cdr-researcher-census/researchers/v-davamani-a5051033/"
 layout: "researcher"
 hiddenInHomeList: true

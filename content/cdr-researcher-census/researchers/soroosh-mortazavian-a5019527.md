@@ -1,7 +1,7 @@
 ---
 title: "Soroosh Mortazavian"
 description: "Soroosh Mortazavian is a Mid-career Biochar researcher at WSP (Canada) in CA. With 19 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.507150
+date: 2026-04-02T07:03:24.181656
 url: "/cdr-researcher-census/researchers/soroosh-mortazavian-a5019527/"
 layout: "researcher"
 hiddenInHomeList: true

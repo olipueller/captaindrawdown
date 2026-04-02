@@ -1,7 +1,7 @@
 ---
 title: "Vibin Perumalsamy"
 description: "Vibin Perumalsamy is a Mid-career General CDR researcher at University of Newcastle Australia in AU. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.850931
+date: 2026-04-02T07:03:26.145239
 url: "/cdr-researcher-census/researchers/vibin-perumalsamy-a5092834/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jiabao Yi"
 description: "Jiabao Yi is a Mid-career General CDR researcher at King Fahd University of Petroleum and Minerals in SA. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.498145
+date: 2026-04-02T07:03:25.657267
 url: "/cdr-researcher-census/researchers/jiabao-yi-a5113240/"
 layout: "researcher"
 hiddenInHomeList: true

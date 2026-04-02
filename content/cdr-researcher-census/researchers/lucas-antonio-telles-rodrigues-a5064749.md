@@ -1,7 +1,7 @@
 ---
 title: "Lucas Antônio Telles Rodrigues"
 description: "Lucas Antônio Telles Rodrigues is a Mid-career Soil Carbon researcher at Universidade Federal do Rio Grande do Sul in BR. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.746979
+date: 2026-04-02T07:03:25.994296
 url: "/cdr-researcher-census/researchers/lucas-antonio-telles-rodrigues-a5064749/"
 layout: "researcher"
 hiddenInHomeList: true

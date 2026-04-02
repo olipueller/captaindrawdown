@@ -1,7 +1,7 @@
 ---
 title: "Tim Jesper Suhrhoff"
 description: "Tim Jesper Suhrhoff is a Mid-career Enhanced Weathering researcher at Planetary Science Institute in US. With 49 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.555342
+date: 2026-04-02T07:03:24.255519
 url: "/cdr-researcher-census/researchers/tim-jesper-suhrhoff-a5081686/"
 layout: "researcher"
 hiddenInHomeList: true

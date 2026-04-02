@@ -1,7 +1,7 @@
 ---
 title: "Wendong Qin"
 description: "Wendong Qin is a Mid-career Soil Carbon researcher at Henan University of Science and Technology in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.811057
+date: 2026-04-02T07:03:24.623959
 url: "/cdr-researcher-census/researchers/wendong-qin-a5035371/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Emily E. Oldfield"
 description: "Emily E. Oldfield is a Senior General CDR researcher at Environmental Defense Fund in US. With 54 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.176324
+date: 2026-04-02T07:03:23.743612
 url: "/cdr-researcher-census/researchers/emily-e-oldfield-a5059752/"
 layout: "researcher"
 hiddenInHomeList: true

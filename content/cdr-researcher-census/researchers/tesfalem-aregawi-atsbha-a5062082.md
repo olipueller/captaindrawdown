@@ -1,7 +1,7 @@
 ---
 title: "Tesfalem Aregawi Atsbha"
 description: "Tesfalem Aregawi Atsbha is a Mid-career carbon dioxide removal researcher at Chung-Ang University in KR. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.125645
+date: 2026-04-02T07:03:25.092765
 url: "/cdr-researcher-census/researchers/tesfalem-aregawi-atsbha-a5062082/"
 layout: "researcher"
 hiddenInHomeList: true

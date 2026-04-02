@@ -1,7 +1,7 @@
 ---
 title: "Ruth Dikki"
 description: "Ruth Dikki is a Mid-career carbon dioxide removal researcher at Case Western Reserve University in US. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.560939
+date: 2026-04-02T07:03:25.745904
 url: "/cdr-researcher-census/researchers/ruth-dikki-a5031167/"
 layout: "researcher"
 hiddenInHomeList: true

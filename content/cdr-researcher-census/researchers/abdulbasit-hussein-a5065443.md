@@ -1,7 +1,7 @@
 ---
 title: "Abdulbasit Hussein"
 description: "Abdulbasit Hussein is a Mid-career Soil Carbon researcher at Haramaya University in ET. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:01.403707
+date: 2026-04-02T07:03:26.971311
 url: "/cdr-researcher-census/researchers/abdulbasit-hussein-a5065443/"
 layout: "researcher"
 hiddenInHomeList: true

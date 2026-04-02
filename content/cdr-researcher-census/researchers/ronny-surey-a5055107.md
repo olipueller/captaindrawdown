@@ -1,7 +1,7 @@
 ---
 title: "Ronny Surey"
 description: "Ronny Surey is a Mid-career Soil Carbon researcher at Clausthal University of Technology in DE. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.129172
+date: 2026-04-02T07:03:25.098096
 url: "/cdr-researcher-census/researchers/ronny-surey-a5055107/"
 layout: "researcher"
 hiddenInHomeList: true

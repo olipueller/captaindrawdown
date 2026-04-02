@@ -1,7 +1,7 @@
 ---
 title: "Mohammed Kuku"
 description: "Mohammed Kuku is a Mid-career carbon dioxide removal researcher at Jazan University in SA. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.878185
+date: 2026-04-02T07:03:26.183323
 url: "/cdr-researcher-census/researchers/mohammed-kuku-a5059334/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Khawla Tlili"
 description: "Khawla Tlili is a Senior Biochar researcher at Tunis University in TN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:47:00.338471
+date: 2026-04-02T07:03:25.394720
 url: "/cdr-researcher-census/researchers/khawla-tlili-a5074773/"
 layout: "researcher"
 hiddenInHomeList: true

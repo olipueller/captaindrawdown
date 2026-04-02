@@ -1,7 +1,7 @@
 ---
 title: "Irina Melnikova"
 description: "Irina Melnikova is a Senior BECCS researcher at National Institute for Environmental Studies in JP. With 112 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-03-23T11:46:59.883213
+date: 2026-04-02T07:03:24.723378
 url: "/cdr-researcher-census/researchers/irina-melnikova-a5022654/"
 layout: "researcher"
 hiddenInHomeList: true
