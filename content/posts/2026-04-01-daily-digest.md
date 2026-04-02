@@ -3,6 +3,7 @@ title: "CDR Daily Digest — April 1, 2026"
 description: "A strong Tuesday for CDR news: EU policy gets serious about CDR scale, Gigablue closes $20M for ocean carbon removal, RepAir plants its EU flag in Luxembourg, and a New Zealand marine trial sparks exactly the right debate."
 date: 2026-04-01T19:15:00Z
 slug: daily-digest-2026-04-01
+aliases: ["/s/191"]
 pillar: "community"
 tags: ["CDR", "digest", "EU ETS", "marine CDR", "DAC", "mCDR", "Gigablue", "RepAir", "carbon market", "Latin America"]
 summary: "Today's CDR roundup: EU ETS research shows 60 Mt/yr CDR is achievable by 2050, Gigablue closes $20M Series A for ocean CDR, RepAir Carbon opens European HQ in Luxembourg, and remove expands its accelerator to Latin America."
