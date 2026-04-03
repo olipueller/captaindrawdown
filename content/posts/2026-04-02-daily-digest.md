@@ -3,6 +3,7 @@ title: "CDR Daily Digest — April 2, 2026"
 description: "Ocean ecology, EU carbon market modeling, land justice in net-zero pathways, a Boeing soil CDR deal, biochar quality standards, and carbon credit myths. A science-heavy day with a market signal from aviation."
 date: 2026-04-02T20:00:00Z
 slug: daily-digest-2026-04-02
+aliases: ["/s/195"]
 pillar: "digest"
 tags: ["CDR", "daily digest", "ocean alkalinity", "EU ETS", "biochar", "soil carbon", "Boeing", "land use", "carbon credits"]
 summary: "Five original posts today: zooplankton OAE resilience, EU ETS CDR modeling at 68–86 Mt/year by 2050, land-use justice in climate models, Boeing's soil CDR deal with Grassroots Carbon, and a deep dive on biochar quality. Plus a weekly misconception bust on carbon credits."

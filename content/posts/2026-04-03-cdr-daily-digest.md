@@ -3,6 +3,7 @@ title: "CDR Daily Digest — April 3, 2026"
 description: "Isometric-verified CDR portfolios and credits, Climeworks diversifies into biochar, Tapestry signs a 10-year removal deal, and EPA quietly authorizes the first ocean CDR seafloor deposit. A market-heavy day with a regulatory milestone."
 date: 2026-04-03T05:30:00Z
 slug: daily-digest-2026-04-03
+aliases: ["/s/197"]
 pillar: "digest"
 tags: ["CDR", "daily digest", "Isometric", "Climeworks", "biochar", "Mombak", "enhanced weathering", "EPA", "ocean CDR", "CUR8", "Tapestry"]
 summary: "CUR8 and Isometric launch a 2030 CDR portfolio, Mombak earns its first Isometric-verified EW credits, Climeworks adds biochar to its toolkit, Tapestry signs a decade-long deal, and EPA authorizes the first ocean CDR seafloor deposit — without mentioning climate."
