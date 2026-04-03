@@ -3,7 +3,7 @@ title: "CDR Company Directory Update — April 2026"
 date: 2026-04-03T08:00:00Z
 draft: false
 slug: cdr-company-directory-update-2026-04
-description: "The CDR Company Directory now tracks 821 companies across every carbon removal pathway. 87 new additions this month span platforms, biomass removal, reforestation, DAC, and more."
+description: "The CDR Company Directory now tracks 825 companies. 4 new additions in April 2026 span 4 CDR pathways across 4 countries."
 tags: ["CDR", "Carbon Removal", "Directory", "Companies"]
 cover:
   image: "/images/posts/cdr-company-directory-update-2026-04.png"
@@ -11,53 +11,54 @@ cover:
   hidden: false
 ---
 
-The [CaptainDrawdown CDR Company Directory](/directory/) has grown to **821 companies** — the most comprehensive public database of active carbon removal organizations worldwide.
+The [CaptainDrawdown CDR Company Directory](/directory/) has grown to **825 companies** — the most comprehensive public database of active carbon removal organizations worldwide.
 
-This month's update adds **87 new entries** across multiple CDR pathways and 5 countries, including platforms and marketplaces, biomass removal operators, reforestation projects, and direct air capture innovators.
+This month's update adds **4 new entries** spanning 4 CDR pathways and 4 countries.
 
 ## New Additions by Category
 
-- **CDR Platform/Marketplace**: 31 new entries — the largest category this update, reflecting the growing infrastructure layer of the CDR ecosystem
-- **Biomass Carbon Removal**: 14 new entries
-- **Afforestation/Reforestation**: 10 new entries
-- **Direct Air Capture**: 9 new entries
-- **Soil Carbon Sequestration**: 5 new entries
-- **Ocean-based CDR**: 5 new entries
-- **[Enhanced Rock Weathering](/posts/what-is-enhanced-weathering/)**: 4 new entries
-- **Carbon Utilization**: 4 new entries
+- **Direct Air Capture**: 1 new
+- **Industrial Process**: 1 new
+- **Nature-Based**: 1 new
+- **Carbon Market Infrastructure**: 1 new
 
 ## Geographic Spread
 
-- **United States**: 37 new entries
-- **United Kingdom**: 14 new entries
-- **Germany**: 9 new entries
-- **Canada**: 4 new entries
-- **France**: 4 new entries
+- **United States**: 1 new
+- **United Kingdom**: 1 new
+- **Sierra Leone**: 1 new
+- **Switzerland**: 1 new
 
-## What's in the Directory
 
-The full directory now covers every major CDR pathway:
+## Notable Additions
 
-- **Biochar**: 330 companies — the largest single method by count
-- **BECCS** (Bioenergy with Carbon Capture): 87 companies
-- **DAC** (Direct Air Capture, all variants): 181 companies across solid sorbent, liquid solvent, membrane, cryogenic, and undisclosed approaches
-- **Enhanced Rock Weathering**: 39 companies
-- **Mineralization**: 40 companies
-- **Ocean CDR** (alkalinity enhancement, fertilization, direct removal): 53 companies
-- **BiCRS** (Biomass Carbon Removal and Storage): 42 companies
-- **CDR Platforms & Marketplaces**: 31 companies
+### [Ctrl-S](/directory/ctrl-s/)
+Ctrl-S is a startup focused on salvaging and preserving valuable IP, experimental data, and 'negative learnings' from direct air capture companies that fail or pivot. By acquiring this IP and making it accessible to materials-discovery AI models and new entrants, Ctrl-S aims to accelerate DAC develo
+
+**Website:** [https://heatmap.news/carbon-removal/ctrl-s-direct-air-capture](https://heatmap.news/carbon-removal/ctrl-s-direct-air-capture)
+
+### [Cocoon Carbon](/directory/cocoon-carbon/)
+London-based Cocoon Carbon (founded 2023) converts electric arc furnace slag into LoopCem™, a scalable low-carbon supplementary cementitious material (SCM) that cuts concrete's embodied CO₂ by up to 40%. The process cools molten slag up to 100× faster than conventional granulation, producing a relia
+
+**Website:** [https://www.cocooncarbon.com](https://www.cocooncarbon.com)
+
+### [Rainforest Builder](/directory/rainforest-builder/)
+Rainforest Builder is a fully integrated tropical forest restoration company operating in West Africa, focused on large-scale ecosystem recovery. In February 2026, it signed one of the largest African CDR offtake agreements to date: delivering up to 1.8 million carbon removal credits to Microsoft ov
+
+**Website:** [https://www.rainforestbuilder.com](https://www.rainforestbuilder.com)
+
+### [ClimeFi](/directory/climefi/)
+ClimeFi is a Zurich-based CDR portfolio manager and carbon removal intelligence platform. It helps corporate buyers contract, purchase, and manage CDR across all durable removal pathways (DAC, BiCRS, mineralization). Notably, it structured the first Article 6.2 ITMO CDR transfer between Switzerland 
+
+**Website:** [https://www.climefi.com](https://www.climefi.com)
+
+
 
 ## About the Directory
 
 The CDR Company Directory is continuously updated as new companies are identified across news sources, scientific papers, LinkedIn, and industry databases. Every company is manually reviewed and categorized before inclusion.
 
-The directory launched in March 2026 with a comprehensive sweep of the CDR landscape. This April update reflects ongoing additions as the space continues to grow.
-
 Browse the full directory: [captaindrawdown.com/directory/](/directory/)
-
----
-
-*Know a CDR company that's missing? Reply to any of our social posts and we'll add it.*
 
 ---
 
