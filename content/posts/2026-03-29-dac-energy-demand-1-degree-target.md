@@ -6,6 +6,7 @@ aliases: ["/s/169"]
 description: "People keep saying direct air capture needs too much energy to be viable. A new study puts actual numbers on the claim — and they're smaller than you'd expect."
 cover:
   image: /images/posts/20260329-01.png
+pillar: "science"
 tags: ["DAC", "science", "energy", "CDR"]
 ---
 

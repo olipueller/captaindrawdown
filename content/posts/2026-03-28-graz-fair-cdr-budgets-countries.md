@@ -4,6 +4,7 @@ date: 2026-03-28
 slug: "graz-fair-cdr-budgets-countries"
 aliases: ["/s/164"]
 description: "Researchers at University of Graz find that CDR capacity is fundamentally limited — under 10% of annual GHG emissions removable per year — making its fair allocation between countries a climate justice problem."
+pillar: "global"
 tags: ["CDR", "climate-justice", "policy", "research", "Graz", "CDR-budgets"]
 cover:
   image: /images/posts/20260328-06.png

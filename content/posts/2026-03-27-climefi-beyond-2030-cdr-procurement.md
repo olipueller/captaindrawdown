@@ -4,6 +4,7 @@ date: 2026-03-27T11:07:00Z
 slug: climefi-beyond-2030-cdr-procurement
 aliases: ["/s/155"]
 description: "ClimeFi has launched its most ambitious carbon removal procurement yet: up to 500,000 tonnes of durable CDR, all pathways, minimum 200 years permanence. The voluntary market is quietly building real volume."
+pillar: "market"
 tags: ["carbon markets", "procurement", "CDR buyers", "voluntary carbon market"]
 cover:
   image: /images/posts/20260327-02.png

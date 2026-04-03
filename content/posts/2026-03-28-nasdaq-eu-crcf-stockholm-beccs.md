@@ -4,6 +4,7 @@ date: 2026-03-28
 slug: "nasdaq-eu-crcf-stockholm-beccs"
 aliases: ["/s/165"]
 description: "ClimeFi has structured the first publicly announced transaction under the EU's new CRCF framework, with Nasdaq and Adyen buying carbon removal units from Stockholm Exergi's BioCCS project."
+pillar: "global"
 tags: ["CDR", "BECCS", "EU", "CRCF", "ClimeFi", "market"]
 cover:
   image: /images/posts/20260328-01.png

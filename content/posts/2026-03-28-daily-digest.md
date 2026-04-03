@@ -4,6 +4,7 @@ date: 2026-03-28
 slug: "daily-digest-2026-03-28"
 aliases: ["/s/167"]
 description: "Today's CDR coverage: first EU CRCF trade goes live with Nasdaq buying Stockholm BECCS credits, Finland models 8.6 Mt/yr removal potential, Arukah launches Cambodia biochar, and Nature Climate Change calls out the doom loop in climate science."
+pillar: "market"
 tags: ["digest", "CDR", "daily-digest", "BECCS", "biochar", "DAC", "CRCF", "climate-science"]
 cover:
   image: /images/digests/2026-03-28.png

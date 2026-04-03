@@ -3,6 +3,7 @@ title: "German Think Tank: CDR Must Defend Net Zero Against Climate Backsliding"
 slug: germany-cdr-defend-net-zero-climate-backsliding
 aliases: ["/s/177"]
 date: 2026-03-30
+pillar: "news"
 tags: [CDR policy, Germany, net zero, climate politics]
 cover:
   image: /images/posts/20260330-02.png

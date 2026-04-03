@@ -2,6 +2,7 @@
 title: "CDR Misconception #4: Carbon Credits Are All Scams"
 date: 2026-04-02T07:00:00+00:00
 slug: cdr-misconception-04
+pillar: "community"
 tags: ["misconception", "carbon-credits", "carbon-removal", "cdr"]
 description: "Not all carbon credits are created equal. Here's how to tell the good from the greenwash."
 cover:

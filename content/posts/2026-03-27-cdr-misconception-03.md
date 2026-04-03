@@ -3,6 +3,7 @@ title: "CDR Misconception #3: Enhanced Weathering Is Just Spreading Rocks — It
 date: 2026-03-27T07:00:00+01:00
 slug: cdr-misconception-03
 aliases: ["/s/159"]
+pillar: "community"
 tags: ["misconception-series", "enhanced-weathering", "carbon-removal", "CDR"]
 description: "This week's CDR Misconception of the Week: Enhanced weathering sounds primitive, but it's a sophisticated geochemical process with real gigaton potential. Here's why the 'just spreading rocks' dismissal doesn't hold up."
 cover:

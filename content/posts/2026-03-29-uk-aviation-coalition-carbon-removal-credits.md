@@ -6,6 +6,7 @@ aliases: ["/s/172"]
 description: "A UK aviation industry coalition has committed over $2.5 million (£2 million) in Greenhouse Gas Removal credits — a signal that hard-to-abate sectors are taking CDR demand creation seriously."
 cover:
   image: /images/posts/20260329-04.png
+pillar: "market"
 tags: ["CDR", "market", "UK", "aviation", "demand"]
 ---
 

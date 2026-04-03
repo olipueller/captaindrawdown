@@ -4,6 +4,7 @@ date: 2026-03-30T20:00:00+01:00
 slug: "daily-digest-2026-03-30"
 aliases: ["/s/182"]
 description: "A DAC electrolyzer targeting sub-$100/tonne, a German think tank's uncomfortable question about CDR's policy fragility, a $30/ton claim that needs scrutiny, and the enduring afforestation vs. DAC debate — all in today's digest."
+pillar: "market"
 tags: ["daily-digest", "CDR", "DAC", "BECCS", "policy"]
 cover:
   image: /images/digests/2026-03-30.png

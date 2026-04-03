@@ -4,6 +4,7 @@ date: 2026-03-31T08:00:00Z
 slug: altitude-1-million-tonnes-cdr-financed-bolivia-empacar
 aliases: ["/s/155"]
 description: "CDI portfolio company Altitude Carbon becomes the world's first commercial CDR buyer to cross 1 million tonnes financed. The deal that pushed them over: 305,000 tonnes of Bolivian biochar via Empacar."
+pillar: "global"
 tags: ["biochar", "Latin America", "carbon markets", "milestones", "altitude-carbon"]
 cover:
   image: /images/posts/20260331-altitude-1m.png

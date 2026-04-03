@@ -4,6 +4,7 @@ date: 2026-03-31T19:00:00Z
 slug: daily-digest-2026-03-31
 aliases: ["/s/185"]
 description: "Altitude crosses 1 million tonnes financed with a Bolivian biochar deal. Industrial wastewater as CO₂ sink. Nasdaq and Adyen buy EU-certified credits. CDR goes multilingual."
+pillar: "market"
 tags: ["digest", "daily", "biochar", "altitude-carbon", "carbon-markets", "industrial-cdr", "steel", "cement"]
 cover:
   image: /images/digests/2026-03-31.png

@@ -6,6 +6,7 @@ aliases: ["/s/170"]
 description: "New lab data on Equatic's electrolysis-based ocean alkalinity enhancement shows 96–98% CO₂ removal efficiency and ~3.5g CO₂ sequestered per liter. Marine CDR is getting more concrete."
 cover:
   image: /images/posts/20260329-03.png
+pillar: "science"
 tags: ["OAE", "ocean CDR", "marine", "science", "Equatic"]
 ---
 

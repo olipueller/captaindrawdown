@@ -6,6 +6,7 @@ aliases: ["/s/168"]
 description: "While Washington retreats from climate policy, Canada is quietly building carbon removal infrastructure — government buying programs, major corporate deals, and a new Climeworks HQ."
 cover:
   image: /images/posts/20260329-02.png
+pillar: "global"
 tags: ["CDR", "Canada", "policy", "market", "global"]
 ---
 

@@ -4,6 +4,7 @@ date: 2026-03-28
 slug: "nature-climate-change-solutions-focused-science"
 aliases: ["/s/166"]
 description: "A new Nature Climate Change study argues climate science has over-indexed on documenting the crisis and under-invested in showing pathways out of it — with measurable consequences for public action."
+pillar: "science"
 tags: ["CDR", "research", "climate-communication", "solutions", "psychology"]
 cover:
   image: /images/posts/20260328-03.png

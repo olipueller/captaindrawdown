@@ -3,6 +3,7 @@ title: "Drax Eyes Data Centres Alongside Record Renewable Generation and BECCS"
 slug: drax-data-centres-beccs-renewable-generation-2026
 aliases: ["/s/176"]
 date: 2026-03-30
+pillar: "news"
 tags: [BECCS, UK, Drax, data centres, CDR]
 cover:
   image: /images/posts/20260330-05.png

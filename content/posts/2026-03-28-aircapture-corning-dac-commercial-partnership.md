@@ -4,6 +4,7 @@ date: 2026-03-28
 slug: "aircapture-corning-dac-commercial-partnership"
 aliases: ["/s/161"]
 description: "Aircapture and Corning are transitioning a multi-year R&D collaboration into commercial DAC deployment — bringing a $30B+ industrial manufacturer into the direct air capture supply chain."
+pillar: "news"
 tags: ["CDR", "DAC", "Aircapture", "Corning", "supply-chain", "commercial"]
 cover:
   image: /images/posts/20260328-04.png

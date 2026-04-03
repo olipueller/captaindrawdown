@@ -4,6 +4,7 @@ date: 2026-03-28
 slug: "finland-cdr-long-term-scenarios-energy-system"
 aliases: ["/s/163"]
 description: "A new IOP paper models CDR deployment scenarios for Finland's energy system through 2050, finding up to 8.6 Mt CO₂eq/year removal potential — with kraft pulp mills as the key BECCS infrastructure."
+pillar: "news"
 tags: ["CDR", "Finland", "BECCS", "energy-system", "Nordic", "policy"]
 cover:
   image: /images/posts/20260328-05.png

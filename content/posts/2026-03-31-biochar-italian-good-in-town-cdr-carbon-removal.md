@@ -4,6 +4,7 @@ date: 2026-03-31
 slug: biochar-italian-good-in-town-cdr-carbon-removal
 aliases: ["/s/183"]
 description: "The Good in Town (Italy) just published a solid biochar explainer for a general audience. CDR literacy is spreading across languages — and that matters."
+pillar: "news"
 tags: ["biochar", "carbon-removal", "cdr", "education", "multilingual"]
 cover:
   image: /images/posts/20260331-03.png

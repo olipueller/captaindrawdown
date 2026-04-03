@@ -4,6 +4,7 @@ date: 2026-03-27T12:00:00Z
 slug: pulp-mills-beccs-carbon-removal
 aliases: ["/s/157"]
 description: "Pulp and paper mills already burn biomass for energy. Add carbon capture and storage, and they become net-negative CO₂ removal facilities. Canada, Finland, and Sweden are exploring exactly this — and the potential is substantial."
+pillar: "news"
 tags: ["BECCS", "industrial CDR", "carbon capture", "forestry"]
 cover:
   image: /images/posts/20260327-03.png

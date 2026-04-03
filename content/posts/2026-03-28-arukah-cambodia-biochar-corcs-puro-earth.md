@@ -4,6 +4,7 @@ date: 2026-03-28
 slug: "arukah-cambodia-biochar-corcs-puro-earth"
 aliases: ["/s/162"]
 description: "Arukah Capital has issued the first Puro.earth Biochar Carbon Removal Certificates in Cambodia, running Southeast Asia's largest biochar facility and sharing 50% of carbon revenue with smallholder farmers."
+pillar: "news"
 tags: ["CDR", "biochar", "Cambodia", "Puro.earth", "Southeast Asia", "MRV"]
 cover:
   image: /images/posts/20260328-02.png

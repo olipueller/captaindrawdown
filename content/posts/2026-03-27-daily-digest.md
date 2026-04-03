@@ -4,6 +4,7 @@ date: 2026-03-27T19:00:00Z
 slug: daily-digest-2026-03-27
 aliases: ["/s/160"]
 description: "The CDR market just had one of its biggest procurement weeks on record. Biochar dominated — with deals from Google, ClimeFi, and Bolivia totalling over 1 million tonnes. Plus: why pulp mills could become industrial CDR's backbone, and a Tsinghua study pointing to China's cheapest removal path."
+pillar: "market"
 tags: ["daily-digest", "biochar", "procurement", "carbon markets", "CDR science"]
 cover:
   image: /images/digests/2026-03-27.png

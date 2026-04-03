@@ -3,6 +3,7 @@ title: "Viciazites: Carbon Capture at 60°C Instead of 120°C"
 slug: viciazites-carbon-capture-60c-chiba-university
 aliases: ["/s/180"]
 date: 2026-03-30
+pillar: "news"
 tags: [DAC, materials science, carbon capture, research]
 cover:
   image: /images/posts/20260330-01.png
