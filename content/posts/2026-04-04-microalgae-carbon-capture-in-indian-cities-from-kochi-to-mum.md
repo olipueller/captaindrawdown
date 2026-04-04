@@ -1,8 +1,7 @@
 ---
 title: "Microalgae Carbon Capture in Indian Cities: From Kochi to Mumbai"
-date: 2026-04-04T16:36:52.670561+02:00
+date: 2026-04-04T16:52:13.116033+02:00
 slug: microalgae-carbon-capture-in-indian-cities-from-kochi-to-mum
-aliases: ["/s/208"]
 draft: true
 pillar: global
 tags: []
