@@ -2,6 +2,7 @@
 title: "Mombak Generates First Isometric-Verified Enhanced Weathering Credits in Brazil"
 date: 2026-04-04T11:44:00.287672+02:00
 slug: mombak-generates-first-isometric-verified-enhanced-weatherin
+aliases: ["/s/206"]
 draft: true
 pillar: market
 tags: []
