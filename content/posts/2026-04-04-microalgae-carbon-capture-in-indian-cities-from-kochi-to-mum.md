@@ -1,0 +1,13 @@
+---
+title: "Microalgae Carbon Capture in Indian Cities: From Kochi to Mumbai"
+date: 2026-04-04T15:46:00.282649+02:00
+slug: microalgae-carbon-capture-in-indian-cities-from-kochi-to-mum
+draft: true
+pillar: global
+tags: []
+source_url: "https://www.captaindrawdown.com/posts/2026-04-03-microalgae-carbon-capture-kochi-india-cdr/"
+---
+
+Microalgae Carbon Capture in Indian Cities: From Kochi to Mumbai
+
+[Read more](https://www.captaindrawdown.com/posts/2026-04-03-microalgae-carbon-capture-kochi-india-cdr/)
