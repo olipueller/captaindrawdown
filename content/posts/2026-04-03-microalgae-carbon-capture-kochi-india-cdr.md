@@ -3,6 +3,7 @@ title: "Microalgae Carbon Capture in Indian Cities: From Kochi to Mumbai"
 date: 2026-04-03T10:00:00Z
 draft: false
 slug: microalgae-carbon-capture-kochi-india-cdr
+aliases: ["/s/204"]
 description: "Indian companies Lo Carbon Solutions and Zaara Biotech deploy microalgae bioreactors in Kochi, Mumbai, and Bengaluru. The 'Liquid Tree' absorbs 180g CO2 per day — matching 10 mature trees."
 tags: ["CDR", "Carbon Removal", "Microalgae", "India", "Video"]
 pillar: "science"

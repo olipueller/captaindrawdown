@@ -3,6 +3,7 @@ title: "CDR Company Directory Update — April 2026"
 date: 2026-04-03T08:00:00Z
 draft: false
 slug: cdr-company-directory-update-2026-04
+aliases: ["/s/203"]
 description: "The CDR Company Directory now tracks 825 companies. 4 new additions in April 2026 span 4 CDR pathways across 4 countries."
 tags: ["CDR", "Carbon Removal", "Directory", "Companies"]
 cover:
