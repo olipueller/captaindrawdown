@@ -7,6 +7,10 @@ draft: false
 pillar: market
 tags: []
 source_url: "https://www.captaindrawdown.com/posts/cdr-misconception-04/"
+cover:
+  image: "/images/posts/misconception-04.png"
+  alt: "CDR Misconception #4: Carbon credits are all scams"
+  relative: false
 ---
 
 CDR Misconception #4: Carbon credits are all scams

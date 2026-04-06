@@ -7,6 +7,10 @@ draft: true
 pillar: science
 tags: []
 source_url: "https://www.captaindrawdown.com/posts/biochar-14year-heavy-metals-carbon-2026/"
+cover:
+  image: "/images/posts/biochar-14year-heavy-metals-carbon.png"
+  alt: "14-Year Field Study Confirms Biochar Immobilizes Heavy Metals While Sequestering Carbon"
+  relative: false
 ---
 
 14-Year Field Study Confirms Biochar Immobilizes Heavy Metals While Sequestering Carbon

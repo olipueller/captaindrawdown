@@ -7,6 +7,10 @@ draft: false
 pillar: market
 tags: []
 source_url: "https://www.captaindrawdown.com/posts/cdr-daily-digest/"
+cover:
+  image: "/images/posts/cdr-daily-digest-2026-04-03.png"
+  alt: "CDR Daily Digest — April 3, 2026"
+  relative: false
 ---
 
 CDR Daily Digest — April 3, 2026

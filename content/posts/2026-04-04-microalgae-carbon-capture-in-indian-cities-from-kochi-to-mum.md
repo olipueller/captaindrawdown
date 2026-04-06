@@ -7,6 +7,10 @@ draft: true
 pillar: global
 tags: []
 source_url: "https://www.captaindrawdown.com/posts/microalgae-carbon-capture-kochi-india-cdr/"
+cover:
+  image: "/images/posts/microalgae-carbon-capture-kochi-india-cdr.png"
+  alt: "Microalgae Carbon Capture in Indian Cities: From Kochi to Mumbai"
+  relative: false
 ---
 
 Microalgae Carbon Capture in Indian Cities: From Kochi to Mumbai

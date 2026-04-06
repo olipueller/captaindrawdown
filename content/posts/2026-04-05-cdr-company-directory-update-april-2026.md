@@ -7,6 +7,10 @@ draft: false
 pillar: market
 tags: []
 source_url: "https://www.captaindrawdown.com/posts/cdr-company-directory-update-2026-04/"
+cover:
+  image: "/images/posts/cdr-company-directory-update-2026-04.png"
+  alt: "CDR Company Directory Update — April 2026"
+  relative: false
 ---
 
 CDR Company Directory Update — April 2026

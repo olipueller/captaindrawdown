@@ -8,6 +8,10 @@ draft: false
 pillar: market
 tags: []
 source_url: "https://www.captaindrawdown.com/posts/cur8-isometric-2030-portfolio-cdr/"
+cover:
+  image: "/images/posts/cur8-isometric-2030-portfolio-cdr.png"
+  alt: "CUR8 and Isometric Launch Joint 2030 Portfolio CDR Offering"
+  relative: false
 ---
 
 CUR8 and Isometric Launch Joint 2030 Portfolio CDR Offering

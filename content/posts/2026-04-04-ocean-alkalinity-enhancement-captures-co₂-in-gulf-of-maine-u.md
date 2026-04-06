@@ -7,6 +7,10 @@ draft: true
 pillar: science
 tags: []
 source_url: "https://www.captaindrawdown.com/posts/oae-gulf-maine-trial-2026/"
+cover:
+  image: "/images/posts/oae-gulf-maine-loc-ness-2026.png"
+  alt: "Ocean Alkalinity Enhancement Captures CO₂ in Gulf of Maine: Updated Results From Loc-Ness"
+  relative: false
 ---
 
 Ocean Alkalinity Enhancement Captures CO₂ in Gulf of Maine: Updated Results From Loc-Ness

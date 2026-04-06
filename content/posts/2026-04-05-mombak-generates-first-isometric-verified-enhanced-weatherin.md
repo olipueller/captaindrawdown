@@ -7,6 +7,10 @@ draft: false
 pillar: market
 tags: []
 source_url: "https://www.captaindrawdown.com/posts/mombak-isometric-ew-credits-brazil/"
+cover:
+  image: "/images/posts/mombak-isometric-ew-credits-brazil-0405.png"
+  alt: "Mombak Generates First Isometric-Verified Enhanced Weathering Credits in Brazil"
+  relative: false
 ---
 
 Mombak Generates First Isometric-Verified [Enhanced Weathering](/posts/what-is-enhanced-weathering/) Credits in Brazil
