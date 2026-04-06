@@ -3,6 +3,10 @@ title: "Microsoft Just Locked In 626,000 Tonnes of BECCS Carbon Removal"
 date: 2026-04-06T19:00:00+02:00
 slug: microsoft-svante-beccs-626k-tonnes
 description: "Microsoft signs a 15-year offtake agreement with Svante and the Meadow Lake Tribal Council for 626,000 tonnes of BECCS-based carbon removal credits from Saskatchewan."
+cover:
+  image: "/images/posts/20260406-01.png"
+  alt: "Microsoft signs 626,000-tonne BECCS carbon removal deal with Svante and Meadow Lake Tribal Council"
+  hidden: false
 pillar: "news"
 tags: ["BECCS", "Microsoft", "Svante", "carbon removal", "offtake", "Canada", "First Nations"]
 categories: ["News"]
