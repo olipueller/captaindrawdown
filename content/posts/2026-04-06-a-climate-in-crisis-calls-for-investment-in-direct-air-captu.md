@@ -1,7 +1,7 @@
 ---
 title: "A climate in crisis calls for investment in direct air capture, new research finds | ScienceDaily"
 description: "A climate in crisis calls for investment in direct air capture, new research finds | ScienceDaily"
-date: 2026-04-06T11:21:00.309311+02:00
+date: 2026-04-06T13:46:20.259201+02:00
 slug: a-climate-in-crisis-calls-for-investment-in-direct-air-captu
 draft: false
 pillar: science
