@@ -7,6 +7,10 @@ draft: false
 pillar: science
 tags: []
 source_url: "https://www.sciencedaily.com/releases/2021/01/210114085423.htm"
+cover:
+  image: "/images/2026-04-07/94868453.png"
+  alt: "A climate in crisis calls for investment in direct air capture, new research finds"
+  relative: false
 ---
 
 The latest research from UC San Diego, published in Nature Communications, offers a fascinating thought experiment on the role of Direct Air Capture (DAC) in addressing the climate crisis. The study posits a "wartime-level" funding scenario, envisioning an emergency response akin to national mobilizations during wars or pandemics. This isn't just academic; it reflects a growing sentiment that incremental action might no longer suffice.

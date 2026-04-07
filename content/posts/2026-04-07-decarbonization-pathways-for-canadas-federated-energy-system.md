@@ -8,6 +8,10 @@ draft: false
 pillar: news
 tags: []
 source_url: "https://www.nature.com/articles/s44168-026-00355-5"
+cover:
+  image: "/images/2026-04-07/4bd6ea08.png"
+  alt: "Decarbonization pathways for Canada's federated energy system"
+  relative: false
 ---
 
 Just read a fascinating study in *npj Climate Action* by Awais, Azevedo, and McPherson, which digs into Canada's path to Net Zero by 2050 using their new MESSAGEix-Canada model. This isn't just another high-level projection; it's Canada's first open-source, sub-national integrated assessment model, meaning it actually accounts for the distinct differences across provinces — a crucial detail given Canada's highly federated energy system and diverse regional economies.
