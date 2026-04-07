@@ -3,6 +3,7 @@ title: "Decarbonization pathways for Canada\u2019s federated energy system using
 description: "Decarbonization pathways for Canada\u2019s federated energy system using a subnational integrated assessment model | npj Climate Action"
 date: 2026-04-07T10:43:11.188543+02:00
 slug: decarbonization-pathways-for-canadas-federated-energy-system
+aliases: ["/s/220"]
 draft: false
 pillar: news
 tags: []
