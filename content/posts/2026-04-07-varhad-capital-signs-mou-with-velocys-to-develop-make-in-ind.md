@@ -3,10 +3,15 @@ title: "Varhad Capital signs MoU with Velocys to develop Make-In-India, cost\u20
 description: "Varhad Capital signs MoU with Velocys to develop Make-In-India, cost\u2011competitive biomass-to-SAF projects"
 date: 2026-04-07T13:57:07.270633+02:00
 slug: varhad-capital-signs-mou-with-velocys-to-develop-make-in-ind
+aliases: ["/s/221"]
 draft: false
 pillar: global
 tags: []
 source_url: "https://www.prnewswire.com/news-releases/varhad-capital-signs-mou-with-velocys-to-develop-make-in-india-costcompetitive-biomass-to-saf-projects-302734350.html"
+cover:
+  image: "/images/2026-04-07/ec239ebf.png"
+  alt: "Varhad Capital signs MoU with Velocys to develop Make-In-India, cost\u2011competitive biomass-to-SAF projects"
+  relative: false
 ---
 
 This MoU between Varhad Capital and Velocys to develop biomass-to-Sustainable Aviation Fuel (SAF) projects in India is a fascinating development, especially when viewed through a CDR lens. The core of the agreement revolves around leveraging Velocys's Fischer-Tropsch (FT) technology to convert biomass into SAF, with a strong emphasis on "Make-In-India" and cost-competitiveness. This is primarily an aviation decarbonization story, aiming to reduce lifecycle emissions from air travel, but it carries significant implications for carbon dioxide removal, even if not explicitly highlighted in the announcement.
