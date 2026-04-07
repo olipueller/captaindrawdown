@@ -2,6 +2,7 @@
 title: "New Europe CDR Modeling: Afforestation, ERW Can Make DAC Unnecessary"
 date: 2026-04-07T08:00:00+02:00
 slug: europe-cdr-strategies-pypsa-eur-model
+aliases: ["/s/218"]
 description: "A new high-resolution energy system model finds that Europe can reach climate neutrality without DAC — if afforestation, perennialisation, and enhanced rock weathering are fully deployed alongside a continental CO2 transport network."
 pillar: science
 tags: ["CDR", "Europe", "DAC", "enhanced weathering", "biochar", "afforestation", "modeling", "PyPSA"]
@@ -13,7 +14,7 @@ cover:
   hidden: false
 ---
 
-A new study published on arXiv (Fernandes et al., March 2026) extends the sector-coupled European energy system model PyPSA-Eur to include four CDR pathways that most previous models have ignored or underweighted: **afforestation, perennialisation, biochar, and enhanced rock weathering (ERW)**.
+A new study published on arXiv (Fernandes et al., March 2026) extends the sector-coupled European energy system model PyPSA-Eur to include four CDR pathways that most previous models have ignored or underweighted: **afforestation, perennialisation, biochar, and [enhanced rock weathering](/posts/what-is-enhanced-weathering/) (ERW)**.
 
 The results are striking — and structurally important for anyone thinking about CDR deployment priorities in Europe.
 
@@ -54,3 +55,12 @@ The model is European and energy-system-focused. It doesn't account for:
 It's one model. But it's one of the more rigorous European-sector-coupled analyses available, and it rewards the intuition that CDR diversity matters more than single-pathway bet.
 
 **Source:** [arXiv:2603.25663](https://arxiv.org/abs/2603.25663) — Fernandes et al., "Exploring carbon dioxide removal strategies to help decarbonise Europe using high-resolution modelling" (March 2026)
+
+---
+
+### 🔗 Related Reading
+
+- [Why Carbon Removal Needs More Than Trees](/posts/why-carbon-removal-needs-more-than-trees/)
+- [The Top Minds in Every CDR Method — And Why I'm Showing You](/posts/cdr-census-top-researchers/)
+- [Mercedes F1 Goes All-In on Carbon Removal — 7 New Projects Across 6 Pathways](/posts/mercedes-f1-cdr-portfolio/)
+- [Mercedes F1 Builds One of Motorsport's Biggest CDR Portfolios — 18,900 Tonnes Across 6 Pathways](/posts/mercedes-f1-cdr-portfolio/)

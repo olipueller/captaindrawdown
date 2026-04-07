@@ -2,6 +2,7 @@
 title: "Microsoft Just Locked In 626,000 Tonnes of BECCS Carbon Removal"
 date: 2026-04-06T19:00:00+02:00
 slug: microsoft-svante-beccs-626k-tonnes
+aliases: ["/s/219"]
 description: "Microsoft signs a 15-year offtake agreement with Svante and the Meadow Lake Tribal Council for 626,000 tonnes of BECCS-based carbon removal credits from Saskatchewan."
 cover:
   image: "/images/posts/20260406-01.png"
@@ -32,10 +33,19 @@ This deal is a textbook example of what makes BECCS credible when done right:
 
 ## The Bigger Picture
 
-Microsoft is building one of the most diversified CDR portfolios in the world. They're buying DAC from Climeworks, biochar from multiple suppliers, enhanced weathering, and now large-scale BECCS. Their approach is method-agnostic and volume-hungry — exactly the buyer profile the market needs to mature.
+Microsoft is building one of the most diversified CDR portfolios in the world. They're buying DAC from Climeworks, biochar from multiple suppliers, [enhanced weathering](/posts/what-is-enhanced-weathering/), and now large-scale BECCS. Their approach is method-agnostic and volume-hungry — exactly the buyer profile the market needs to mature.
 
 Construction on North Star is expected later this decade, with operations targeting 2029. Svante will fund development until the final investment decision.
 
 For anyone tracking BECCS specifically: this project, combined with Svante's [US paper mill initiative](https://www.captaindrawdown.com/posts/svante-beccs-paper-mill-500k-tonnes/) targeting 500,000+ tonnes annually, puts Svante's BECCS pipeline well above 1 million tonnes per year. That's DAC-scale ambition from the BECCS side.
 
 **Source:** [Carbon Herald](https://carbonherald.com/microsoft-signs-major-beccs-carbon-removal-deal-with-svante/)
+
+---
+
+### 🔗 Related Reading
+
+- [Svante Acquires Carbon Alpha: BECCS Meets First Nations Partnership](/posts/svante-acquires-carbon-alpha-beccs/)
+- [Canada Becomes First Government to Buy CDR Credits](/posts/canada-first-government-cdr-procurement/)
+- [Microsoft Just Signed the Biggest Biochar Deal in US History](/posts/microsoft-liferaft-biggest-us-biochar-deal/)
+- [A US Paper Mill Wants to Capture Half a Million Tonnes of CO₂ Per Year](/posts/svante-beccs-paper-mill-500k-tonnes/)
