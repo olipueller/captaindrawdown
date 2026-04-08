@@ -3,12 +3,13 @@ title: "Deep Research \u2014 CDR Technology Spotlight"
 description: "Deep Research \u2014 CDR Technology Spotlight"
 date: 2026-04-07T20:40:47.296339+02:00
 slug: deep-research-cdr-technology-spotlight
+aliases: ["/s/225"]
 draft: false
 pillar: science
 tags: ["deep_research_b"]
 source_url: ""
 cover:
-  image: "/images/2026-04-07/0193654f.png"
+  image: "/images/weekly/2026-W14.png"
   alt: "Deep Research \u2014 CDR Technology Spotlight"
   relative: false
 ---
