@@ -3,6 +3,7 @@ title: "Italian infrastructure group backs carbon removal unit with \u20ac1 mln 
 description: "Italian infrastructure group backs carbon removal unit with \u20ac1 mln \u00ab Carbon Pulse"
 date: 2026-04-08T14:54:28.178225+02:00
 slug: italian-infrastructure-group-backs-carbon-removal-unit-with
+aliases: ["/s/226"]
 draft: false
 pillar: science
 tags: []
