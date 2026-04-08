@@ -3,6 +3,7 @@ title: "Boeing Signs 40,000 Ton Soil-Based Carbon Removal Deal with Grassroots C
 description: "Boeing Signs 40,000 Ton Soil-Based Carbon Removal Deal with Grassroots Carbon"
 date: 2026-04-08T16:22:07.725850+02:00
 slug: boeing-signs-40000-ton-soil-based-carbon-removal-deal-with-g
+aliases: ["/s/223"]
 draft: false
 pillar: science
 tags: []
