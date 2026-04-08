@@ -3,6 +3,7 @@ title: "Significant advance in Environmental innovation Set to revolutionize Wor
 description: "Significant advance in Environmental innovation Set to revolutionize Worldwide power infrastructure - AMCHAM India"
 date: 2026-04-08T14:56:01.856673+02:00
 slug: significant-advance-in-environmental-innovation-set-to-revol
+aliases: ["/s/227"]
 draft: false
 pillar: science
 tags: []
