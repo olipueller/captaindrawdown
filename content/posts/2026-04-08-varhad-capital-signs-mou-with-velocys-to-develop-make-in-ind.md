@@ -3,6 +3,7 @@ title: "Varhad Capital signs MoU with Velocys to develop Make-In-India, cost\u20
 description: "Varhad Capital signs MoU with Velocys to develop Make-In-India, cost\u2011competitive biomass-to-SAF projects"
 date: 2026-04-08T10:03:01.781613+02:00
 slug: varhad-capital-signs-mou-with-velocys-to-develop-make-in-ind
+aliases: ["/s/221"]
 draft: false
 pillar: global
 tags: []
