@@ -3,6 +3,7 @@ title: "Direct Air Capture in Europe - Where to Integrate, Where to Store, and W
 description: "Direct Air Capture in Europe - Where to Integrate, Where to Store, and What Drives Cost?"
 date: 2026-04-09T18:22:06.885993+02:00
 slug: direct-air-capture-in-europe---where-to-integrate-where-to-s
+aliases: ["/s/231"]
 draft: false
 pillar: science
 tags: []
