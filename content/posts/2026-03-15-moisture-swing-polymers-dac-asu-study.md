@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "moisture-swing-polymers-dac-asu-study"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/moisture-swing-polymers-dac-asu-study.png"
+  image: "/images/posts/2026-03-15-moisture-swing-polymers-dac-asu-study.png"
   alt: "Moisture-Swing Polymers Could Make Direct Air Capture Radically Cheaper"
   hidden: false
 ---

@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "svante-beccs-paper-mill-500k-tonnes"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/svante-beccs-paper-mill-500k-tonnes.png"
+  image: "/images/posts/2026-03-15-svante-beccs-paper-mill-500k-tonnes.png"
   alt: "A US Paper Mill Wants to Capture Half a Million Tonnes of CO₂ Per Year"
   hidden: false
 ---

@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "eu-crcf-certification-methodologies"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/eu-crcf-certification-methodologies.png"
+  image: "/images/posts/2026-03-16-eu-crcf-certification-methodologies.png"
   alt: "EU's Carbon Removal Certification Framework Gets Its First Methodologies"
   hidden: false
 ---

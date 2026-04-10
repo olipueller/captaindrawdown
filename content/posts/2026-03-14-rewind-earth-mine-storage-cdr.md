@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "rewind-earth-mine-storage-cdr"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/rewind-earth-mine-storage-cdr.png"
+  image: "/images/posts/2026-03-14-rewind-earth-mine-storage-cdr.png"
   alt: "Abandoned Mines as Carbon Vaults: How Rewind Earth Is Turning Toxic Liabilities Into Climate Assets"
   hidden: false
 ---

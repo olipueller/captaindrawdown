@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "japan-co2-rubber"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/japan-co2-rubber.png"
+  image: "/images/posts/2026-03-05-japan-co2-rubber.png"
   alt: "Japanese Scientists Made Rubber That Eats CO₂ and Turns Into Plastic"
   hidden: false
 ---

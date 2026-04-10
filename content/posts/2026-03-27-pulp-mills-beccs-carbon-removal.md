@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "pulp-mills-beccs-carbon-removal"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/pulp-mills-beccs-carbon-removal.png"
+  image: "/images/posts/2026-03-27-pulp-mills-beccs-carbon-removal.png"
   alt: "Pulp Mills Could Become the Backbone of Industrial Carbon Removal"
   hidden: false
 ---

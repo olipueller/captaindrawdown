@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "erw-uncertainties-nature-paper"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/erw-uncertainties-nature-paper.png"
+  image: "/images/posts/2026-03-02-erw-uncertainties-nature-paper.png"
   alt: "ERW Under Fire: What the Nature Paper on Uncertainties Actually Says"
   hidden: false
 ---

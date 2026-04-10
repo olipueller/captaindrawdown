@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "gulf-of-maine-oae-trial-results"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/gulf-of-maine-oae-trial-results.png"
+  image: "/images/posts/2026-03-07-gulf-of-maine-oae-trial-results.png"
   alt: "Gulf of Maine OAE Trial: CO₂ Captured, No Harm to Marine Life"
   hidden: false
 ---

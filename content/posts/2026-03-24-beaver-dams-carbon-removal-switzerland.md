@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "beaver-dams-carbon-removal-switzerland"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/beaver-dams-carbon-removal-switzerland.png"
+  image: "/images/posts/2026-03-24-beaver-dams-carbon-removal-switzerland.png"
   alt: "Beaver Dams Are Surprisingly Effective Carbon Sinks"
   hidden: false
 ---

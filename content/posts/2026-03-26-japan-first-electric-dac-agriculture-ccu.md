@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "japan-first-electric-dac-agriculture-ccu"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/japan-first-electric-dac-agriculture-ccu.png"
+  image: "/images/posts/2026-03-26-japan-first-electric-dac-agriculture-ccu.png"
   alt: "Japan's Tomato Greenhouses Were Burning Kerosene for CO₂. Now They Have DAC."
   hidden: false
 ---

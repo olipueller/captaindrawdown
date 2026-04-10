@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "german-cdr-criticism-klimareporter"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/german-cdr-criticism-klimareporter.png"
+  image: "/images/posts/2026-03-16-german-cdr-criticism-klimareporter.png"
   alt: ""
   hidden: false
 ---

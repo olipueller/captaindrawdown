@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "cdr-durability-gap-nature-based-credits"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/cdr-durability-gap-nature-based-credits.png"
+  image: "/images/posts/2026-03-22-cdr-durability-gap-nature-based-credits.png"
   alt: "95% of CDR Credits Are Nature-Based. The Durability Gap Is Getting Dangerous."
   hidden: false
 ---

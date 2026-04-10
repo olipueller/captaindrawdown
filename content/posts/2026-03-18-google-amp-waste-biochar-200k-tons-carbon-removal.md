@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "google-amp-waste-biochar-200k-tons-carbon-removal"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/google-amp-waste-biochar-200k-tons-carbon-removal.png"
+  image: "/images/posts/2026-03-18-google-amp-waste-biochar-200k-tons-carbon-removal.png"
   alt: "Google Buys 200,000 Tons of Carbon Removal From Waste-to-Biochar Pioneer AMP"
   hidden: false
 ---

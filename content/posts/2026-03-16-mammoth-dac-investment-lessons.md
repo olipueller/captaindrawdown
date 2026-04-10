@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "mammoth-dac-investment-lessons"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/mammoth-dac-investment-lessons.png"
+  image: "/images/posts/2026-03-16-mammoth-dac-investment-lessons.png"
   alt: "Investment Lessons From Standing Next to Mammoth"
   hidden: false
 ---

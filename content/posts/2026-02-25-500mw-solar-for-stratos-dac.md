@@ -6,7 +6,7 @@ tags: ["CDR", "carbon removal", "direct air capture", "DAC", "solar", "STRATOS",
 summary: "Origis Energy's 500MW Swift Air Solar complex is now powering Occidental's STRATOS Direct Air Capture facility in Texas. DAC finally gets the clean energy it needs."
 draft: false
 cover:
-  image: "/images/posts/500mw-solar-for-stratos-dac.png"
+  image: "/images/posts/2026-02-25-500mw-solar-for-stratos-dac.png"
   alt: "500MW of Solar for the World's Largest DAC Plant"
   hidden: false
 ---

@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "cdr-census-lookup-tool"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/cdr-census-lookup-tool.png"
+  image: "/images/posts/2026-03-23-cdr-census-lookup-tool.png"
   alt: "Find Yourself in the CDR Census — 122,674 Researchers, Searchable"
   hidden: false
 ---

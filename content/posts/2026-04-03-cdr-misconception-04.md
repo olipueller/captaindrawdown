@@ -8,7 +8,7 @@ tags: ["news"]
 slug: "cdr-misconception-04"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/cdr-misconception-04.png"
+  image: "/images/posts/2026-04-03-cdr-misconception-04.png"
   alt: "CDR Misconception #4: Carbon credits are all scams"
   hidden: false
 ---

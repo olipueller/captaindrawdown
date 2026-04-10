@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "biochar-italian-good-in-town-cdr-carbon-removal"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/biochar-italian-good-in-town-cdr-carbon-removal.png"
+  image: "/images/posts/2026-03-31-biochar-italian-good-in-town-cdr-carbon-removal.png"
   alt: "🌍 Dal Italiano: Biochar spiegato a chi non sa ancora cos'è"
   hidden: false
 ---

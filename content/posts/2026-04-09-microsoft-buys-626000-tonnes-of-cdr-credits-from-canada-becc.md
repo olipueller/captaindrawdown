@@ -5,7 +5,7 @@ tags: ["news"]
 slug: "microsoft-buys-626000-tonnes-of-cdr-credits-from-canada-becc"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/microsoft-buys-626000-tonnes-of-cdr-credits-from-canada-becc.png"
+  image: "/images/posts/2026-04-09-microsoft-buys-626000-tonnes-of-cdr-credits-from-canada-becc.png"
   alt: "Microsoft buys 626,000 tonnes of CDR credits from Canada BECCS project - Bioenergy Insight Magazine | Bioenergy Insight Magazine"
   hidden: false
 ---

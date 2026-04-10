@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "decarbonization-pathways-for-canadas-federated-energy-system"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/decarbonization-pathways-for-canadas-federated-energy-system.png"
+  image: "/images/posts/2026-04-07-decarbonization-pathways-for-canadas-federated-energy-system.png"
   alt: "Decarbonization pathways for Canada’s federated energy system using a subnational integrated assessment model | npj Climate Action"
   hidden: false
 ---

@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "centuries-of-carbon-removal-needed"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/centuries-of-carbon-removal-needed.png"
+  image: "/images/posts/2026-03-12-centuries-of-carbon-removal-needed.png"
   alt: "Even 1.5°C Won't Save Us Without Centuries of Carbon Removal"
   hidden: false
 ---

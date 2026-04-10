@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "lego-carbon-removal-portfolio"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/lego-carbon-removal-portfolio.png"
+  image: "/images/posts/2026-03-13-lego-carbon-removal-portfolio.png"
   alt: "LEGO Commits $7.9M to Carbon Removal — Testing Everything from Bio-Oil to Ocean CDR"
   hidden: false
 ---

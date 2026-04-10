@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "enhanced-weathering-organic-carbon-reactivity"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/enhanced-weathering-organic-carbon-reactivity.png"
+  image: "/images/posts/2026-03-20-enhanced-weathering-organic-carbon-reactivity.png"
   alt: "How Organic Carbon Changes Enhanced Weathering Reactivity"
   hidden: false
 ---

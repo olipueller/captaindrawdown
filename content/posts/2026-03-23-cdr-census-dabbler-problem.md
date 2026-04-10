@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "cdr-census-dabbler-problem"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/cdr-census-dabbler-problem.png"
+  image: "/images/posts/2026-03-23-cdr-census-dabbler-problem.png"
   alt: "The Dabbler Problem — Is CDR Research a Side Hustle?"
   hidden: false
 ---

@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "canada-cdr-moment-climeworks-arca-microsoft"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/canada-cdr-moment-climeworks-arca-microsoft.png"
+  image: "/images/posts/2026-03-29-canada-cdr-moment-climeworks-arca-microsoft.png"
   alt: "Canada's CDR Moment: Climeworks, Arca-Microsoft, and the Only Active Government Buying Program"
   hidden: false
 ---

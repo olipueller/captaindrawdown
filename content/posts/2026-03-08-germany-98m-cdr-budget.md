@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "germany-98m-cdr-budget"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/germany-98m-cdr-budget.png"
+  image: "/images/posts/2026-03-08-germany-98m-cdr-budget.png"
   alt: "Germany Puts €98 Million Into CDR — Its First Dedicated Federal Budget Line Ever"
   hidden: false
 ---

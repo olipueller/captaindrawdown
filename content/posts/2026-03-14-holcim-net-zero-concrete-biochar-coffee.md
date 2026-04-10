@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "holcim-net-zero-concrete-biochar-coffee"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/holcim-net-zero-concrete-biochar-coffee.png"
+  image: "/images/posts/2026-03-14-holcim-net-zero-concrete-biochar-coffee.png"
   alt: "UK's First Net-Zero Concrete Uses Biochar From Coffee Waste"
   hidden: false
 ---

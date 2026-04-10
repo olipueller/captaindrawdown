@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "us-dac-hub-funding-cancelled"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/us-dac-hub-funding-cancelled.png"
+  image: "/images/posts/2026-03-08-us-dac-hub-funding-cancelled.png"
   alt: "$1.2 Billion in US DAC Hub Funding: Cancelled. What Happens Now?"
   hidden: false
 ---

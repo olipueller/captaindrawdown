@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "svante-acquires-carbon-alpha-beccs"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/svante-acquires-carbon-alpha-beccs.png"
+  image: "/images/posts/2026-03-07-svante-acquires-carbon-alpha-beccs.png"
   alt: "Svante Acquires Carbon Alpha: BECCS Meets First Nations Partnership"
   hidden: false
 ---

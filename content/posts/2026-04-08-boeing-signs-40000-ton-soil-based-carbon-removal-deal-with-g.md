@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "boeing-signs-40000-ton-soil-based-carbon-removal-deal-with-g"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/boeing-signs-40000-ton-soil-based-carbon-removal-deal-with-g.png"
+  image: "/images/posts/2026-04-08-boeing-signs-40000-ton-soil-based-carbon-removal-deal-with-g.png"
   alt: "Boeing Signs 40,000 Ton Soil-Based Carbon Removal Deal with Grassroots Carbon"
   hidden: false
 ---

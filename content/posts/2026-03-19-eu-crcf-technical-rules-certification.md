@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "eu-crcf-technical-rules-certification"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/eu-crcf-technical-rules-certification.png"
+  image: "/images/posts/2026-03-19-eu-crcf-technical-rules-certification.png"
   alt: "The EU's Carbon Removal Certification Framework Gets Its Technical Rulebook"
   hidden: false
 ---

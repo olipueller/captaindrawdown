@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "altitude-1-million-tonnes-cdr-financed-bolivia-empacar"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/altitude-1-million-tonnes-cdr-financed-bolivia-empacar.png"
+  image: "/images/posts/2026-03-31-altitude-1-million-tonnes-cdr-financed-bolivia-empacar.png"
   alt: "Altitude Reaches 1 Million Tonnes CDR Financed — With Bolivia"
   hidden: false
 ---

@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "natural-vs-tech-cdr-scale-gigatonnes-vs-megatonnes"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/natural-vs-tech-cdr-scale-gigatonnes-vs-megatonnes.png"
+  image: "/images/posts/2026-03-30-natural-vs-tech-cdr-scale-gigatonnes-vs-megatonnes.png"
   alt: "Natural vs. Tech CDR: Scale Today vs. Scale Tomorrow"
   hidden: false
 ---

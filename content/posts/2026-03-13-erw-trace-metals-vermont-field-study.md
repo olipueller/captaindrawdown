@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "erw-trace-metals-vermont-field-study"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/erw-trace-metals-vermont-field-study.png"
+  image: "/images/posts/2026-03-13-erw-trace-metals-vermont-field-study.png"
   alt: "Basalt on Vermont Farmland Shows No Trace Metal Risk After Two Years"
   hidden: false
 ---

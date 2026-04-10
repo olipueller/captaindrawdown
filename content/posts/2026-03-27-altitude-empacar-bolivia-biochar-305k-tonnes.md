@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "altitude-empacar-bolivia-biochar-305k-tonnes"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/altitude-empacar-bolivia-biochar-305k-tonnes.png"
+  image: "/images/posts/2026-03-27-altitude-empacar-bolivia-biochar-305k-tonnes.png"
   alt: "Bolivia Enters CDR Market — Altitude Signs 305K-Tonne Biochar Deal With Empacar"
   hidden: false
 ---

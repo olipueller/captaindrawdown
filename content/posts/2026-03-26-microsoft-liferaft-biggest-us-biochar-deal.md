@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "microsoft-liferaft-biggest-us-biochar-deal"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/microsoft-liferaft-biggest-us-biochar-deal.png"
+  image: "/images/posts/2026-03-26-microsoft-liferaft-biggest-us-biochar-deal.png"
   alt: "Microsoft Just Signed the Biggest Biochar Deal in US History"
   hidden: false
 ---

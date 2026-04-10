@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "apacdr-asia-pacific-carbon-removal"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/apacdr-asia-pacific-carbon-removal.png"
+  image: "/images/posts/2026-03-09-apacdr-asia-pacific-carbon-removal.png"
   alt: "Asia-Pacific Finally Gets Its Own CDR Initiative"
   hidden: false
 ---

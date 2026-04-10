@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "green-carbon-india-biochar-partnership"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/green-carbon-india-biochar-partnership.png"
+  image: "/images/posts/2026-03-02-green-carbon-india-biochar-partnership.png"
   alt: "Japan × India: Green Carbon's Biochar Partnership Targets 180,000 Tonnes of CDR"
   hidden: false
 ---

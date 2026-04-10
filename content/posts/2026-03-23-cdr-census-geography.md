@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "cdr-census-geography"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/cdr-census-geography.png"
+  image: "/images/posts/2026-03-23-cdr-census-geography.png"
   alt: "The CDR Brain Map — Where the Researchers Are (and Aren't)"
   hidden: false
 ---

@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "kenya-carbon-credit-crackdown-koko-networks"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/kenya-carbon-credit-crackdown-koko-networks.png"
+  image: "/images/posts/2026-03-10-kenya-carbon-credit-crackdown-koko-networks.png"
   alt: "Kenya's Carbon Credit Crackdown Exposes Systemic Fraud"
   hidden: false
 ---

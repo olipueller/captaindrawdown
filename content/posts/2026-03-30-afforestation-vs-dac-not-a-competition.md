@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "afforestation-vs-dac-not-a-competition"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/afforestation-vs-dac-not-a-competition.png"
+  image: "/images/posts/2026-03-30-afforestation-vs-dac-not-a-competition.png"
   alt: "Afforestation vs DAC: Why It's Not a Competition"
   hidden: false
 ---

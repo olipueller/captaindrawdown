@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "cdr-watch-silicate-enhanced-weathering"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/cdr-watch-silicate-enhanced-weathering.png"
+  image: "/images/posts/2026-03-10-cdr-watch-silicate-enhanced-weathering.png"
   alt: "CDR Watch: Silicate's Limestone Approach to Enhanced Weathering"
   hidden: false
 ---

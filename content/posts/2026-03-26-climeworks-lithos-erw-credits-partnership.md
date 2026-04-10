@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "climeworks-lithos-erw-credits-partnership"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/climeworks-lithos-erw-credits-partnership.png"
+  image: "/images/posts/2026-03-26-climeworks-lithos-erw-credits-partnership.png"
   alt: "The World's Biggest DAC Company Is Now the Biggest ERW Buyer Too"
   hidden: false
 ---

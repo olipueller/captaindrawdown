@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "brewery-dac-beer-carbon-capture"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/brewery-dac-beer-carbon-capture.png"
+  image: "/images/posts/2026-03-24-brewery-dac-beer-carbon-capture.png"
   alt: "This California Brewery Is Carbonating Beer With Air-Captured CO₂"
   hidden: false
 ---

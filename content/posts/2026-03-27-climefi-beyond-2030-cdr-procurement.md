@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "climefi-beyond-2030-cdr-procurement"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/climefi-beyond-2030-cdr-procurement.png"
+  image: "/images/posts/2026-03-27-climefi-beyond-2030-cdr-procurement.png"
   alt: "ClimeFi Launches Largest CDR Procurement Round Yet — Up to 500K Tonnes"
   hidden: false
 ---

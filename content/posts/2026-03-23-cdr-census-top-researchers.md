@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "cdr-census-top-researchers"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/cdr-census-top-researchers.png"
+  image: "/images/posts/2026-03-23-cdr-census-top-researchers.png"
   alt: "The Top Minds in Every CDR Method — And Why I'm Showing You"
   hidden: false
 ---

@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "zooplankton-oae-ocean-alkalinity-resilience"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/zooplankton-oae-ocean-alkalinity-resilience.png"
+  image: "/images/posts/2026-04-02-zooplankton-oae-ocean-alkalinity-resilience.png"
   alt: "Good News for Ocean CDR: Zooplankton Survive OAE in New PLOS One Study"
   hidden: false
 ---

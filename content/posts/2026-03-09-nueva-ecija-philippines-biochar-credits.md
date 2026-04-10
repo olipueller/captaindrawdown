@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "nueva-ecija-philippines-biochar-credits"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/nueva-ecija-philippines-biochar-credits.png"
+  image: "/images/posts/2026-03-09-nueva-ecija-philippines-biochar-credits.png"
   alt: "A Philippine Province Just Made Southeast Asian Biochar History"
   hidden: false
 ---

@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "tapestry-climeworks-10-year-dac-deal"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/tapestry-climeworks-10-year-dac-deal.png"
+  image: "/images/posts/2026-03-20-tapestry-climeworks-10-year-dac-deal.png"
   alt: "Coach and Kate Spade's Parent Signs 10-Year Carbon Removal Deal With Climeworks"
   hidden: false
 ---

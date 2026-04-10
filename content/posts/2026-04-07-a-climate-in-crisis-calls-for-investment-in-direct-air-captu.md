@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "a-climate-in-crisis-calls-for-investment-in-direct-air-captu"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/a-climate-in-crisis-calls-for-investment-in-direct-air-captu.png"
+  image: "/images/posts/2026-04-07-a-climate-in-crisis-calls-for-investment-in-direct-air-captu.png"
   alt: "A climate in crisis calls for investment in direct air capture, new research finds | ScienceDaily"
   hidden: false
 ---

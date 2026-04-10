@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "spain-cdr-readiness-assessment"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/spain-cdr-readiness-assessment.png"
+  image: "/images/posts/2026-03-12-spain-cdr-readiness-assessment.png"
   alt: "Spain's CDR Moment: New Assessment Says It Can Lead — If Policy Moves Fast"
   hidden: false
 ---

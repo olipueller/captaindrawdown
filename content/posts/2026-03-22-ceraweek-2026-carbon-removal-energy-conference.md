@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "ceraweek-2026-carbon-removal-energy-conference"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/ceraweek-2026-carbon-removal-energy-conference.png"
+  image: "/images/posts/2026-03-22-ceraweek-2026-carbon-removal-energy-conference.png"
   alt: "Carbon Removal Gets Its Own Stage at the World's Biggest Energy Conference"
   hidden: false
 ---

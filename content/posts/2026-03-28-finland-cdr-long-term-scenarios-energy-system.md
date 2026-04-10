@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "finland-cdr-long-term-scenarios-energy-system"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/finland-cdr-long-term-scenarios-energy-system.png"
+  image: "/images/posts/2026-03-28-finland-cdr-long-term-scenarios-energy-system.png"
   alt: "Finland Maps Long-Term CDR Deployment Scenarios for a Net-Zero Energy System"
   hidden: false
 ---

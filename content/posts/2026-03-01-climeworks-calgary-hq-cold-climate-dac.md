@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "climeworks-calgary-hq-cold-climate-dac"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/climeworks-calgary-hq-cold-climate-dac.png"
+  image: "/images/posts/2026-03-01-climeworks-calgary-hq-cold-climate-dac.png"
   alt: "Climeworks Opens Calgary HQ — Cold-Climate DAC Testing by Fall 2026"
   hidden: false
 ---

@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "nature-climate-change-solutions-focused-science"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/nature-climate-change-solutions-focused-science.png"
+  image: "/images/posts/2026-03-28-nature-climate-change-solutions-focused-science.png"
   alt: "Nature Climate Change Study: Climate Science Needs to Talk About Solutions"
   hidden: false
 ---

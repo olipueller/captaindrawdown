@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "varhad-capital-signs-mou-with-velocys-to-develop-make-in-ind"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/varhad-capital-signs-mou-with-velocys-to-develop-make-in-ind.png"
+  image: "/images/posts/2026-04-08-varhad-capital-signs-mou-with-velocys-to-develop-make-in-ind.png"
   alt: "Varhad Capital signs MoU with Velocys to develop Make-In-India, cost‑competitive biomass-to-SAF projects"
   hidden: false
 ---

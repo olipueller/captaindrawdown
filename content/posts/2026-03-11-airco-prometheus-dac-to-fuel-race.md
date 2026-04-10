@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "airco-prometheus-dac-to-fuel-race"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/airco-prometheus-dac-to-fuel-race.png"
+  image: "/images/posts/2026-03-11-airco-prometheus-dac-to-fuel-race.png"
   alt: "The DAC-to-Fuel Race Is On: AirCo Gets $15M for Military CO₂ Modules, Prometheus Unveils Electrochemical Kerosene"
   hidden: false
 ---

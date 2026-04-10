@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "germany-cdr-defend-net-zero-climate-backsliding"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/germany-cdr-defend-net-zero-climate-backsliding.png"
+  image: "/images/posts/2026-03-30-germany-cdr-defend-net-zero-climate-backsliding.png"
   alt: "German Think Tank: CDR Must Defend Net Zero Against Climate Backsliding"
   hidden: false
 ---

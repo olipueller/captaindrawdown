@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "washington-state-california-quebec-carbon-market"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/washington-state-california-quebec-carbon-market.png"
+  image: "/images/posts/2026-03-10-washington-state-california-quebec-carbon-market.png"
   alt: "Washington State Moves to Join the California-Québec Carbon Market"
   hidden: false
 ---

@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "first-global-rules-cdr-credits"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/first-global-rules-cdr-credits.png"
+  image: "/images/posts/2026-03-17-first-global-rules-cdr-credits.png"
   alt: "The First Global Rules for CDR Credits Are Being Written Now"
   hidden: false
 ---

@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "land-use-cdr-climate-models-nature-climate-change"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/land-use-cdr-climate-models-nature-climate-change.png"
+  image: "/images/posts/2026-04-02-land-use-cdr-climate-models-nature-climate-change.png"
   alt: "Who Gives Up Land for Climate Solutions? A New Study Maps the Tradeoffs"
   hidden: false
 ---

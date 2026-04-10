@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "shropshire-council-biochar-carbon-removal"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/shropshire-council-biochar-carbon-removal.png"
+  image: "/images/posts/2026-03-13-shropshire-council-biochar-carbon-removal.png"
   alt: "A UK Council Just Built Its Own Biochar Carbon Removal Unit"
   hidden: false
 ---

@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "loc-ness-oae-first-open-water-results"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/loc-ness-oae-first-open-water-results.png"
+  image: "/images/posts/2026-03-11-loc-ness-oae-first-open-water-results.png"
   alt: "First Open-Water OAE Test Absorbs 10 Tonnes of CO₂ — And Restores Ocean pH to Preindustrial"
   hidden: false
 ---

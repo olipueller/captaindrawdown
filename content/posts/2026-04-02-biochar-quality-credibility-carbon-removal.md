@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "biochar-quality-credibility-carbon-removal"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/biochar-quality-credibility-carbon-removal.png"
+  image: "/images/posts/2026-04-02-biochar-quality-credibility-carbon-removal.png"
   alt: "Biochar Quality Is the CDR Field's Credibility Problem"
   hidden: false
 ---

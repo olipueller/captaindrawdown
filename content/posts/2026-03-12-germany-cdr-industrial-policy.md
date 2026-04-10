@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "germany-cdr-industrial-policy"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/germany-cdr-industrial-policy.png"
+  image: "/images/posts/2026-03-12-germany-cdr-industrial-policy.png"
   alt: "German Think Tank: CDR Needs Industrial Policy, Not Just Carbon Accounting"
   hidden: false
 ---

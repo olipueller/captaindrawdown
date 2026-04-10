@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "sustaera-dac-breakthrough-3x-cheaper"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/sustaera-dac-breakthrough-3x-cheaper.png"
+  image: "/images/posts/2026-03-10-sustaera-dac-breakthrough-3x-cheaper.png"
   alt: "Sustaera Claims 90%+ Efficiency in DAC — 3x Cheaper Than Incumbents"
   hidden: false
 ---

@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "bio-dac-microalgae-raceway-co2"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/bio-dac-microalgae-raceway-co2.png"
+  image: "/images/posts/2026-03-16-bio-dac-microalgae-raceway-co2.png"
   alt: "Bio-DAC: Microalgae Raceways That Capture CO₂ Straight From Air"
   hidden: false
 ---

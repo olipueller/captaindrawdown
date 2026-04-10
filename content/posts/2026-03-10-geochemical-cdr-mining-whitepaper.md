@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "geochemical-cdr-mining-whitepaper"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/geochemical-cdr-mining-whitepaper.png"
+  image: "/images/posts/2026-03-10-geochemical-cdr-mining-whitepaper.png"
   alt: "Mining Could Be CDR's Secret Weapon — New Whitepaper Makes the Case"
   hidden: false
 ---

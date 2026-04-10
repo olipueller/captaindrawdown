@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "google-amp-robotics-biochar-200k-tonnes"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/google-amp-robotics-biochar-200k-tonnes.png"
+  image: "/images/posts/2026-03-27-google-amp-robotics-biochar-200k-tonnes.png"
   alt: "Google Partners With AMP Robotics on 200K-Tonne Biochar Carbon Removal Deal"
   hidden: false
 ---

@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "biochar-livestock-ghg-emissions-meta-study"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/biochar-livestock-ghg-emissions-meta-study.png"
+  image: "/images/posts/2026-03-25-biochar-livestock-ghg-emissions-meta-study.png"
   alt: "Biochar Cuts Agricultural Emissions by Up to 83%. A 78-Study Meta-Analysis Confirms the Swiss Army Knife of Climate Solutions."
   hidden: false
 ---

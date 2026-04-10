@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "significant-advance-in-environmental-innovation-set-to-revol"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/significant-advance-in-environmental-innovation-set-to-revol.png"
+  image: "/images/posts/2026-04-08-significant-advance-in-environmental-innovation-set-to-revol.png"
   alt: "Significant advance in Environmental innovation Set to revolutionize Worldwide power infrastructure - AMCHAM India"
   hidden: false
 ---

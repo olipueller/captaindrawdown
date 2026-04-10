@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "repair-carbon-luxembourg-european-dac-expansion"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/repair-carbon-luxembourg-european-dac-expansion.png"
+  image: "/images/posts/2026-04-01-repair-carbon-luxembourg-european-dac-expansion.png"
   alt: "RepAir Carbon Opens a European HQ in Luxembourg. Here's Why It Matters."
   hidden: false
 ---

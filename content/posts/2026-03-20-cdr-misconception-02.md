@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "cdr-misconception-02"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/cdr-misconception-02.png"
+  image: "/images/posts/2026-03-20-cdr-misconception-02.png"
   alt: "CDR Misconception #2: DAC Uses Too Much Energy to Ever Work at Scale"
   hidden: false
 ---

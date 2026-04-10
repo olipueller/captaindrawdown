@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "arca-climate-rovers-mining-waste-cdr"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/arca-climate-rovers-mining-waste-cdr.png"
+  image: "/images/posts/2026-03-25-arca-climate-rovers-mining-waste-cdr.png"
   alt: "Autonomous Rovers + Microwaves + Mining Waste = Carbon Removal. Arca Climate's Wild Tech Stack."
   hidden: false
 ---

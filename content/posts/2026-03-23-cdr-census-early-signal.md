@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "cdr-census-early-signal"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/cdr-census-early-signal.png"
+  image: "/images/posts/2026-03-23-cdr-census-early-signal.png"
   alt: "CDR Science as Early Signal — Is the Research Explosion Fast Enough?"
   hidden: false
 ---

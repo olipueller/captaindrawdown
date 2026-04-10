@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "enhanced-weathering-biochar-co-deployment"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/enhanced-weathering-biochar-co-deployment.png"
+  image: "/images/posts/2026-03-22-enhanced-weathering-biochar-co-deployment.png"
   alt: "Biochar + Basalt: Wageningen Shows Co-Deployment Changes the Weathering Game"
   hidden: false
 ---

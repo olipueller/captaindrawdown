@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "viciazites-carbon-capture-60c-chiba-university"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/viciazites-carbon-capture-60c-chiba-university.png"
+  image: "/images/posts/2026-03-30-viciazites-carbon-capture-60c-chiba-university.png"
   alt: "Viciazites: Carbon Capture at 60°C Instead of 120°C"
   hidden: false
 ---

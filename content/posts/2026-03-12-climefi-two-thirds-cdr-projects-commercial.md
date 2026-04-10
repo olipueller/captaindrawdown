@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "climefi-two-thirds-cdr-projects-commercial"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/climefi-two-thirds-cdr-projects-commercial.png"
+  image: "/images/posts/2026-03-12-climefi-two-thirds-cdr-projects-commercial.png"
   alt: "Two-Thirds of Durable CDR Projects Have Hit Commercialization"
   hidden: false
 ---

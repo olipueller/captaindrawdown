@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "lego-bets-on-carbon-removal"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/lego-bets-on-carbon-removal.png"
+  image: "/images/posts/2026-03-12-lego-bets-on-carbon-removal.png"
   alt: "Lego Just Tripled Down on Carbon Removal — Here's What They're Buying"
   hidden: false
 ---

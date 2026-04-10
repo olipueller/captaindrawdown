@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "cdr-misconception-01"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/cdr-misconception-01.png"
+  image: "/images/posts/2026-03-13-cdr-misconception-01.png"
   alt: "CDR Misconception #1: Carbon Removal Is Just an Excuse to Keep Polluting"
   hidden: false
 ---

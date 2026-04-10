@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "oman-44-01-peridotite-mineralization-concession"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/oman-44-01-peridotite-mineralization-concession.png"
+  image: "/images/posts/2026-03-11-oman-44-01-peridotite-mineralization-concession.png"
   alt: "Oman Signs World's First Commercial Peridotite Carbon Mineralization Concession"
   hidden: false
 ---

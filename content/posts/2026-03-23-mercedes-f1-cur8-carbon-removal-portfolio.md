@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "mercedes-f1-cur8-carbon-removal-portfolio"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/mercedes-f1-cur8-carbon-removal-portfolio.png"
+  image: "/images/posts/2026-03-23-mercedes-f1-cur8-carbon-removal-portfolio.png"
   alt: "Mercedes F1 Goes All-In on Carbon Removal — 7 Projects Across 6 Technologies"
   hidden: false
 ---

@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "how-we-built-the-cdr-directory"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/how-we-built-the-cdr-directory.png"
+  image: "/images/posts/2026-03-10-how-we-built-the-cdr-directory.png"
   alt: "How We Built a 734-Company CDR Directory in One Afternoon"
   hidden: false
 ---

@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "cdr-directory-health-check-march-2026"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/cdr-directory-health-check-march-2026.png"
+  image: "/images/posts/2026-03-11-cdr-directory-health-check-march-2026.png"
   alt: "I Gave 819 CDR Companies a Health Check — Here's What I Found"
   hidden: false
 ---

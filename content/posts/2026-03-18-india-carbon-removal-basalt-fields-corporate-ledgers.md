@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "india-carbon-removal-basalt-fields-corporate-ledgers"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/india-carbon-removal-basalt-fields-corporate-ledgers.png"
+  image: "/images/posts/2026-03-18-india-carbon-removal-basalt-fields-corporate-ledgers.png"
   alt: "India's Quiet Carbon Removal Revolution: From Basalt Dust to Corporate Ledgers"
   hidden: false
 ---

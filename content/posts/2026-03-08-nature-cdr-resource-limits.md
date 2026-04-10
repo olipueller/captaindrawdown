@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "nature-cdr-resource-limits"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/nature-cdr-resource-limits.png"
+  image: "/images/posts/2026-03-08-nature-cdr-resource-limits.png"
   alt: "New Nature Paper: Scaling CDR to Gigatons Could Strain Global Mineral and Nutrient Supplies"
   hidden: false
 ---

@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "cdr-critical-minerals-three-similarities"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/cdr-critical-minerals-three-similarities.png"
+  image: "/images/posts/2026-03-18-cdr-critical-minerals-three-similarities.png"
   alt: "CDR and Critical Minerals Have More in Common Than You'd Think"
   hidden: false
 ---

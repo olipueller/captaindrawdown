@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "doe-dac-hubs-stalled-audit"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/doe-dac-hubs-stalled-audit.png"
+  image: "/images/posts/2026-03-21-doe-dac-hubs-stalled-audit.png"
   alt: "$3.5 Billion in DAC Hubs Are Stuck in Political Limbo"
   hidden: false
 ---

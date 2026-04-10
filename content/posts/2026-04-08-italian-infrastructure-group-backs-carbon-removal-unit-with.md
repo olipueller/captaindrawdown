@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "italian-infrastructure-group-backs-carbon-removal-unit-with"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/italian-infrastructure-group-backs-carbon-removal-unit-with.png"
+  image: "/images/posts/2026-04-08-italian-infrastructure-group-backs-carbon-removal-unit-with.png"
   alt: "Italian infrastructure group backs carbon removal unit with €1 mln « Carbon Pulse"
   hidden: false
 ---

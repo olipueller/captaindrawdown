@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "verde-bioasphalt-biochar-roads-carbon-sinks"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/verde-bioasphalt-biochar-roads-carbon-sinks.png"
+  image: "/images/posts/2026-03-17-verde-bioasphalt-biochar-roads-carbon-sinks.png"
   alt: "Roads as Carbon Sinks: Verde Locks In Major Biochar Supply"
   hidden: false
 ---

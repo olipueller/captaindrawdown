@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "rmi-cornell-cdr-tracker"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/rmi-cornell-cdr-tracker.png"
+  image: "/images/posts/2026-03-09-rmi-cornell-cdr-tracker.png"
   alt: "RMI and Cornell Just Built the CDR Field's Missing Dashboard"
   hidden: false
 ---

@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "dac-dual-function-materials-capture-convert"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/dac-dual-function-materials-capture-convert.png"
+  image: "/images/posts/2026-03-22-dac-dual-function-materials-capture-convert.png"
   alt: "One Material, Two Jobs: Dual-Function DAC Skips the Energy-Hungry Regeneration Step"
   hidden: false
 ---

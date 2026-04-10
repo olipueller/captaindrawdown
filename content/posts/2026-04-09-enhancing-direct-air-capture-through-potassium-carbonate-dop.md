@@ -4,7 +4,7 @@ slug: "enhancing-direct-air-capture-through-potassium-carbonate-dop"
 date: 2026-04-09T17:47:29.891452+02:00
 tags: []
 cover:
-  image: "/images/posts/enhancing-direct-air-capture-through-potassium-carbonate-dop.png"
+  image: "/images/posts/2026-04-09-enhancing-direct-air-capture-through-potassium-carbonate-dop.png"
   alt: "Enhancing Direct Air Capture through Potassium Carbonate Doping of Activated Carbons"
   hidden: false
 ---

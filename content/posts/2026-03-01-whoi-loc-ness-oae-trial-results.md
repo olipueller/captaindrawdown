@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "whoi-loc-ness-oae-trial-results"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/whoi-loc-ness-oae-trial-results.png"
+  image: "/images/posts/2026-03-01-whoi-loc-ness-oae-trial-results.png"
   alt: "First EPA-Permitted Ocean Alkalinity Trial Removes CO₂ Without Harming Marine Life"
   hidden: false
 ---

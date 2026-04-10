@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "biomass-carbon-credits-accounting-crisis"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/biomass-carbon-credits-accounting-crisis.png"
+  image: "/images/posts/2026-03-19-biomass-carbon-credits-accounting-crisis.png"
   alt: "Biomass Carbon Credits Face an Accounting Crisis Before They Even Scale"
   hidden: false
 ---

@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "eu-kairos-ccs-belgium-260m"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/eu-kairos-ccs-belgium-260m.png"
+  image: "/images/posts/2026-03-14-eu-kairos-ccs-belgium-260m.png"
   alt: "EU Greenlights €260M for Belgian CCS — Antwerp to North Sea Pipeline"
   hidden: false
 ---

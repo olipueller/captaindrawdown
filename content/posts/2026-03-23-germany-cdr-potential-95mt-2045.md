@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "germany-cdr-potential-95mt-2045"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/germany-cdr-potential-95mt-2045.png"
+  image: "/images/posts/2026-03-23-germany-cdr-potential-95mt-2045.png"
   alt: "Germany's CDR Potential: Up to 95 Million Tonnes CO₂ Per Year by 2045"
   hidden: false
 ---

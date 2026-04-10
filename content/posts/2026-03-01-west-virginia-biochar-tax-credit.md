@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "west-virginia-biochar-tax-credit"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/west-virginia-biochar-tax-credit.png"
+  image: "/images/posts/2026-03-01-west-virginia-biochar-tax-credit.png"
   alt: "West Virginia Bets on Biochar: Coal State Stacks Tax Credits for Carbon Removal"
   hidden: false
 ---

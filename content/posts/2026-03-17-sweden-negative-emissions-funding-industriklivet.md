@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "sweden-negative-emissions-funding-industriklivet"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/sweden-negative-emissions-funding-industriklivet.png"
+  image: "/images/posts/2026-03-17-sweden-negative-emissions-funding-industriklivet.png"
   alt: "Sweden Backs Negative Emissions With $34M in New Funding"
   hidden: false
 ---

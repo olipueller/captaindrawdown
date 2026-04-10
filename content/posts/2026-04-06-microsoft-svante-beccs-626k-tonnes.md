@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "microsoft-svante-beccs-626k-tonnes"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/microsoft-svante-beccs-626k-tonnes.png"
+  image: "/images/posts/2026-04-06-microsoft-svante-beccs-626k-tonnes.png"
   alt: "Microsoft Just Locked In 626,000 Tonnes of BECCS Carbon Removal"
   hidden: false
 ---

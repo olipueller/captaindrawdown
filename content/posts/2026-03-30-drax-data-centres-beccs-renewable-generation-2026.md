@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "drax-data-centres-beccs-renewable-generation-2026"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/drax-data-centres-beccs-renewable-generation-2026.png"
+  image: "/images/posts/2026-03-30-drax-data-centres-beccs-renewable-generation-2026.png"
   alt: "Drax Eyes Data Centres Alongside Record Renewable Generation and BECCS"
   hidden: false
 ---

@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "eu-ets-carbon-removals-60-million-tonnes"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/eu-ets-carbon-removals-60-million-tonnes.png"
+  image: "/images/posts/2026-04-01-eu-ets-carbon-removals-60-million-tonnes.png"
   alt: "The EU Carbon Market Could Scale CDR to 60 Million Tonnes by 2050"
   hidden: false
 ---

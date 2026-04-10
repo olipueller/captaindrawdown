@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "steel-cement-alkaline-wastewater-carbon-sequestration-30mt"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/steel-cement-alkaline-wastewater-carbon-sequestration-30mt.png"
+  image: "/images/posts/2026-03-31-steel-cement-alkaline-wastewater-carbon-sequestration-30mt.png"
   alt: "Steel and Cement Make Wastewater That Can Permanently Sequester 30 Million Tonnes of CO₂"
   hidden: false
 ---

@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "erw-one-billion-tonnes-potential"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/erw-one-billion-tonnes-potential.png"
+  image: "/images/posts/2026-03-07-erw-one-billion-tonnes-potential.png"
   alt: "ERW Could Absorb 1 Billion Tonnes of CO₂ — But the Details Matter"
   hidden: false
 ---

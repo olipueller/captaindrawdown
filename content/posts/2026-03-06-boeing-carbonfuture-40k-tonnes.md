@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "boeing-carbonfuture-40k-tonnes"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/boeing-carbonfuture-40k-tonnes.png"
+  image: "/images/posts/2026-03-06-boeing-carbonfuture-40k-tonnes.png"
   alt: "Boeing Bets Big on Biochar — 40,000 Tonnes of Carbon Removal via Carbonfuture"
   hidden: false
 ---

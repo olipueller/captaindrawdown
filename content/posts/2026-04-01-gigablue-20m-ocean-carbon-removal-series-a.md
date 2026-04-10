@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "gigablue-20m-ocean-carbon-removal-series-a"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/gigablue-20m-ocean-carbon-removal-series-a.png"
+  image: "/images/posts/2026-04-01-gigablue-20m-ocean-carbon-removal-series-a.png"
   alt: "Gigablue Raised $20M to Pull CO₂ from the Ocean. Here's the Plan."
   hidden: false
 ---

@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "one-million-tonnes-cdr-purchased-week"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/one-million-tonnes-cdr-purchased-week.png"
+  image: "/images/posts/2026-03-29-one-million-tonnes-cdr-purchased-week.png"
   alt: "Over 1 Million Tonnes of CDR Purchased in a Single Week"
   hidden: false
 ---

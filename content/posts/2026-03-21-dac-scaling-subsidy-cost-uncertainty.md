@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "dac-scaling-subsidy-cost-uncertainty"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/dac-scaling-subsidy-cost-uncertainty.png"
+  image: "/images/posts/2026-03-21-dac-scaling-subsidy-cost-uncertainty.png"
   alt: "The Math on DAC Subsidies: $900B to $3T, and It's Worth It (With a Giant Asterisk)"
   hidden: false
 ---

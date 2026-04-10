@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "diapers-biochar-diaper-stork"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/diapers-biochar-diaper-stork.png"
+  image: "/images/posts/2026-03-16-diapers-biochar-diaper-stork.png"
   alt: "Diapers → Biochar: Turning Baby Waste Into Carbon Removal"
   hidden: false
 ---

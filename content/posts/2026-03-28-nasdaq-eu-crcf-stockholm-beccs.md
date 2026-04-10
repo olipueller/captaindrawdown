@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "nasdaq-eu-crcf-stockholm-beccs"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/nasdaq-eu-crcf-stockholm-beccs.png"
+  image: "/images/posts/2026-03-28-nasdaq-eu-crcf-stockholm-beccs.png"
   alt: "Nasdaq Backs First EU-Licensed Carbon Removal Credits in Stockholm BECCS Project"
   hidden: false
 ---

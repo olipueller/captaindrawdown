@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "cdr-collaboration-network"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/cdr-collaboration-network.png"
+  image: "/images/posts/2026-03-23-cdr-collaboration-network.png"
   alt: "The Hidden Network: Who Collaborates on Carbon Removal?"
   hidden: false
 ---

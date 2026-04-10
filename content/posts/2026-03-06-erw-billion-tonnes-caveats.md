@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "erw-billion-tonnes-caveats"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/erw-billion-tonnes-caveats.png"
+  image: "/images/posts/2026-03-06-erw-billion-tonnes-caveats.png"
   alt: "ERW Could Remove 1 Billion Tonnes per Year — But the Caveats Matter"
   hidden: false
 ---

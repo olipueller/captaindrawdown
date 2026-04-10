@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "australia-japan-kawasaki-dac-hydrogen"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/australia-japan-kawasaki-dac-hydrogen.png"
+  image: "/images/posts/2026-03-21-australia-japan-kawasaki-dac-hydrogen.png"
   alt: "Australia and Japan Are Quietly Building a DAC and Hydrogen Partnership"
   hidden: false
 ---

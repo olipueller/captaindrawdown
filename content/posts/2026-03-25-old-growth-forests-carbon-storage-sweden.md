@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "old-growth-forests-carbon-storage-sweden"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/old-growth-forests-carbon-storage-sweden.png"
+  image: "/images/posts/2026-03-25-old-growth-forests-carbon-storage-sweden.png"
   alt: "Old-Growth Forests Store 72% More Carbon Than Managed Ones — and It's Mostly in the Soil"
   hidden: false
 ---

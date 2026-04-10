@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "climefi-2026-cdr-market-insights"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/climefi-2026-cdr-market-insights.png"
+  image: "/images/posts/2026-03-13-climefi-2026-cdr-market-insights.png"
   alt: "CDR Supply Is Tightening: Only 52% of 2026 Still Available"
   hidden: false
 ---

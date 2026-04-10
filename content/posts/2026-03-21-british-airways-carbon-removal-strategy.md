@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "british-airways-carbon-removal-strategy"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/british-airways-carbon-removal-strategy.png"
+  image: "/images/posts/2026-03-21-british-airways-carbon-removal-strategy.png"
   alt: "British Airways' Carbon Removal Strategy: 5-10M Tonnes Per Year by 2050"
   hidden: false
 ---

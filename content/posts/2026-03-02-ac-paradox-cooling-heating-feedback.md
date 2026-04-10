@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "ac-paradox-cooling-heating-feedback"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/ac-paradox-cooling-heating-feedback.png"
+  image: "/images/posts/2026-03-02-ac-paradox-cooling-heating-feedback.png"
   alt: "The AC Paradox: Air Conditioning Could Add 8.5 Billion Tonnes of CO₂ by 2050"
   hidden: false
 ---

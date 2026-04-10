@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "microalgae-carbon-capture-kochi-india-cdr"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/microalgae-carbon-capture-kochi-india-cdr.png"
+  image: "/images/posts/2026-04-03-microalgae-carbon-capture-kochi-india-cdr.png"
   alt: "Microalgae Carbon Capture in Indian Cities: From Kochi to Mumbai"
   hidden: false
 ---

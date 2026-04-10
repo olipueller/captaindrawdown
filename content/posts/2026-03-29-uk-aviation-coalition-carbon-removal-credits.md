@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "uk-aviation-coalition-carbon-removal-credits"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/uk-aviation-coalition-carbon-removal-credits.png"
+  image: "/images/posts/2026-03-29-uk-aviation-coalition-carbon-removal-credits.png"
   alt: "UK Aviation Coalition Commits Over $2.5 Million to Carbon Removal Credits"
   hidden: false
 ---

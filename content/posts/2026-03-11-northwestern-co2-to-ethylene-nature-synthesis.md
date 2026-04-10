@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "northwestern-co2-to-ethylene-nature-synthesis"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/northwestern-co2-to-ethylene-nature-synthesis.png"
+  image: "/images/posts/2026-03-11-northwestern-co2-to-ethylene-nature-synthesis.png"
   alt: "New Catalyst Turns Atmospheric CO₂ Into Ethylene — While Removing 3 Tonnes of Carbon Per Tonne Produced"
   hidden: false
 ---

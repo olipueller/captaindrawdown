@@ -5,7 +5,7 @@ date: 2026-02-28T17:30:00Z
 tags: ["carbon capture", "CCS", "Texas A&M", "industrial decarbonization", "PICC"]
 summary: "Texas A&M researchers claim a pressure-based carbon capture system can hit $26/ton — less than half the cost of conventional amine systems. The numbers are exciting, but scale-up is everything."
 cover:
-  image: "/images/posts/pressure-based-co2-capture-26-per-ton.png"
+  image: "/images/posts/2026-02-28-pressure-based-co2-capture-26-per-ton.png"
   alt: "Pressure-Based CO₂ Capture Claims $26/Ton — Here's What to Make of It"
   hidden: false
 ---

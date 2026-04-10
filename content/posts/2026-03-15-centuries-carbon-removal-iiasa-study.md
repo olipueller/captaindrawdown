@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "centuries-carbon-removal-iiasa-study"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/centuries-carbon-removal-iiasa-study.png"
+  image: "/images/posts/2026-03-15-centuries-carbon-removal-iiasa-study.png"
   alt: "Net Zero Won't Be Enough — We May Need Centuries of Carbon Removal"
   hidden: false
 ---

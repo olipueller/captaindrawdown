@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "carba-biochar-cost-breakthrough"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/carba-biochar-cost-breakthrough.png"
+  image: "/images/posts/2026-03-14-carba-biochar-cost-breakthrough.png"
   alt: "Biochar at $100/ton: Carba and the University of Minnesota Are Cracking CDR's Biggest Problem"
   hidden: false
 ---

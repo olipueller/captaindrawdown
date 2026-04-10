@@ -6,7 +6,7 @@ tags: ["CDR", "carbon removal", "enhanced weathering", "ERW", "MRV", "Nature"]
 summary: "A new Nature paper maps the uncertainties of Enhanced Rock Weathering — from toxic trace elements to carbon tracking gaps. Here's what it means for CDR."
 draft: false
 cover:
-  image: "/images/posts/erw-promising-but-not-simple.png"
+  image: "/images/posts/2026-02-25-erw-promising-but-not-simple.png"
   alt: "Enhanced Rock Weathering: Promising, But Not Simple"
   hidden: false
 ---

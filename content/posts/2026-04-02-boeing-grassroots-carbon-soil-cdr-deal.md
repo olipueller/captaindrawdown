@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "boeing-grassroots-carbon-soil-cdr-deal"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/boeing-grassroots-carbon-soil-cdr-deal.png"
+  image: "/images/posts/2026-04-02-boeing-grassroots-carbon-soil-cdr-deal.png"
   alt: "Boeing Buys Soil CDR From Grassroots Carbon in a Multi-Year Deal"
   hidden: false
 ---

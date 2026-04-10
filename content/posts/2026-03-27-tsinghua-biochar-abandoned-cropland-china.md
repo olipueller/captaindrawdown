@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "tsinghua-biochar-abandoned-cropland-china"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/tsinghua-biochar-abandoned-cropland-china.png"
+  image: "/images/posts/2026-03-27-tsinghua-biochar-abandoned-cropland-china.png"
   alt: "Tsinghua Study: Biochar on Abandoned Cropland Could Be CDR's Cheapest Path in China"
   hidden: false
 ---

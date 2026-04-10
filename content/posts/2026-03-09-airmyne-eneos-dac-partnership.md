@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "airmyne-eneos-dac-partnership"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/airmyne-eneos-dac-partnership.png"
+  image: "/images/posts/2026-03-09-airmyne-eneos-dac-partnership.png"
   alt: "Japan's Largest Energy Firm Just Bet on Direct Air Capture"
   hidden: false
 ---

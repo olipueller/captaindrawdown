@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "graz-fair-cdr-budgets-countries"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/graz-fair-cdr-budgets-countries.png"
+  image: "/images/posts/2026-03-28-graz-fair-cdr-budgets-countries.png"
   alt: "Austrian Study Calls for Fairer Allocation of CO₂ Removal Budgets Between Countries"
   hidden: false
 ---

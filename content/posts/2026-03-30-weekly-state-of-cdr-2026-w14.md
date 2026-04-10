@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "weekly-state-of-cdr-2026-w14"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/weekly-state-of-cdr-2026-w14.png"
+  image: "/images/posts/2026-03-30-weekly-state-of-cdr-2026-w14.png"
   alt: "The Weekly State of CDR — March 30, 2026"
   hidden: false
 ---

@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "oae-optimal-regions-cost-analysis"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/oae-optimal-regions-cost-analysis.png"
+  image: "/images/posts/2026-03-22-oae-optimal-regions-cost-analysis.png"
   alt: "Not All Coastlines Are Equal: New Research Maps Where OAE Actually Makes Economic Sense"
   hidden: false
 ---

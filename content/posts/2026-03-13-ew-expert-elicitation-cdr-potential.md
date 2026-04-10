@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "ew-expert-elicitation-cdr-potential"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/ew-expert-elicitation-cdr-potential.png"
+  image: "/images/posts/2026-03-13-ew-expert-elicitation-cdr-potential.png"
   alt: "Enhanced Weathering Could Remove Up to 0.7 Gt CO₂/yr — But Efficiency Is Low"
   hidden: false
 ---

@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "eu-ets-suspension-italy-summit"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/eu-ets-suspension-italy-summit.png"
+  image: "/images/posts/2026-03-11-eu-ets-suspension-italy-summit.png"
   alt: "EU Carbon Market Under Fire: Italy Wants the ETS Suspended"
   hidden: false
 ---

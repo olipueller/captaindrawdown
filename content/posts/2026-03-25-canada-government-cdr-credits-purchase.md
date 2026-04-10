@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "canada-government-cdr-credits-purchase"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/canada-government-cdr-credits-purchase.png"
+  image: "/images/posts/2026-03-25-canada-government-cdr-credits-purchase.png"
   alt: "Canada Just Created the First National CDR Procurement Program. The $7M Price Tag Isn't the Point."
   hidden: false
 ---

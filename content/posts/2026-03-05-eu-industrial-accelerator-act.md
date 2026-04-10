@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "eu-industrial-accelerator-act"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/eu-industrial-accelerator-act.png"
+  image: "/images/posts/2026-03-05-eu-industrial-accelerator-act.png"
   alt: "The EU's Industrial Accelerator Act: What It Means for Carbon Removal"
   hidden: false
 ---

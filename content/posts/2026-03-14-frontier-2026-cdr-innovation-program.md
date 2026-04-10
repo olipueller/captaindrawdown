@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "frontier-2026-cdr-innovation-program"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/frontier-2026-cdr-innovation-program.png"
+  image: "/images/posts/2026-03-14-frontier-2026-cdr-innovation-program.png"
   alt: "Frontier Opens 2026 Carbon Removal Innovation Program"
   hidden: false
 ---

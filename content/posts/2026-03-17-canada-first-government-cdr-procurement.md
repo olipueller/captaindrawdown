@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "canada-first-government-cdr-procurement"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/canada-first-government-cdr-procurement.png"
+  image: "/images/posts/2026-03-17-canada-first-government-cdr-procurement.png"
   alt: "Canada Becomes First Government to Buy CDR Credits"
   hidden: false
 ---

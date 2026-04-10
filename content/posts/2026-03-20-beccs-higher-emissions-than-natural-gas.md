@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "beccs-higher-emissions-than-natural-gas"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/beccs-higher-emissions-than-natural-gas.png"
+  image: "/images/posts/2026-03-20-beccs-higher-emissions-than-natural-gas.png"
   alt: "BECCS May Emit More Than Natural Gas for Decades, Princeton Study Finds"
   hidden: false
 ---

@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "deep-research-cdr-technology-spotlight"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/deep-research-cdr-technology-spotlight.png"
+  image: "/images/posts/2026-04-07-deep-research-cdr-technology-spotlight.png"
   alt: "Deep Research — CDR Technology Spotlight"
   hidden: false
 ---

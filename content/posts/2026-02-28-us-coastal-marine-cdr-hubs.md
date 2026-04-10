@@ -5,7 +5,7 @@ date: 2026-02-28T12:05:00Z
 tags: ["ocean CDR", "marine carbon removal", "electrochemistry", "siting", "infrastructure"]
 summary: "New research analyzes 38 US coastal facilities to identify the most promising hubs for electrochemical marine carbon dioxide removal."
 cover:
-  image: "/images/posts/us-coastal-marine-cdr-hubs.png"
+  image: "/images/posts/2026-02-28-us-coastal-marine-cdr-hubs.png"
   alt: "Study Maps the Best US Coastal Sites for Marine Carbon Removal"
   hidden: false
 ---

@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "carbon-centric-beccs-certification"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/carbon-centric-beccs-certification.png"
+  image: "/images/posts/2026-03-14-carbon-centric-beccs-certification.png"
   alt: "Norway's Carbon Centric BECCS Plant Moves Toward Puro.earth Certification"
   hidden: false
 ---

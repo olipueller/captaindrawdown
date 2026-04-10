@@ -4,7 +4,7 @@ slug: "enhancing-weather-predictions-super-resolution-via-deep-diff"
 date: 2026-04-09T17:47:05.620415+02:00
 tags: []
 cover:
-  image: "/images/posts/enhancing-weather-predictions-super-resolution-via-deep-diff.png"
+  image: "/images/posts/2026-04-09-enhancing-weather-predictions-super-resolution-via-deep-diff.png"
   alt: "Enhancing Weather Predictions: Super-Resolution via Deep Diffusion Models"
   hidden: false
 ---

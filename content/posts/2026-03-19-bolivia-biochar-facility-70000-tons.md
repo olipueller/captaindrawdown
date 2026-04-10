@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "bolivia-biochar-facility-70000-tons"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/bolivia-biochar-facility-70000-tons.png"
+  image: "/images/posts/2026-03-19-bolivia-biochar-facility-70000-tons.png"
   alt: "Bolivia Gets Its First Large-Scale Biochar Facility — 70,000 Tons CO₂/Year"
   hidden: false
 ---

@@ -5,7 +5,7 @@ slug: "cdr-daily-digest-2026-02-27"
 tags: ["CDR", "carbon removal", "market intelligence", "daily digest", "OAE", "biochar", "DAC", "policy"]
 summary: "First US ocean CDR bill introduced, WHOI's alkalinity trial shows no marine harm, forward carbon credit deals hit $5.8B, and Sweden freezes a BECCS project. Your daily carbon removal roundup."
 cover:
-  image: "/images/posts/cdr-daily-digest.png"
+  image: "/images/posts/2026-03-13-2026-03-13-cdr-daily-digest.png"
   alt: "CDR Daily Digest — 27 Feb 2026"
   hidden: false
 ---

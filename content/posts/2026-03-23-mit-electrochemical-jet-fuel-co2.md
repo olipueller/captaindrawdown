@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "mit-electrochemical-jet-fuel-co2"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/mit-electrochemical-jet-fuel-co2.png"
+  image: "/images/posts/2026-03-23-mit-electrochemical-jet-fuel-co2.png"
   alt: "MIT Turns CO₂ and Water Into Jet Fuel Using Only Renewable Energy"
   hidden: false
 ---

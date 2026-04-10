@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "humidity-swing-polymers-dac-low-energy"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/humidity-swing-polymers-dac-low-energy.png"
+  image: "/images/posts/2026-03-24-humidity-swing-polymers-dac-low-energy.png"
   alt: "Humidity-Swing Polymers Could Make DAC Radically Cheaper"
   hidden: false
 ---

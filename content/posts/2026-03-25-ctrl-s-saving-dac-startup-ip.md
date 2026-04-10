@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "ctrl-s-saving-dac-startup-ip"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/ctrl-s-saving-dac-startup-ip.png"
+  image: "/images/posts/2026-03-25-ctrl-s-saving-dac-startup-ip.png"
   alt: "Ctrl-S: The Startup Saving DAC's Hard-Won Knowledge from the Funding Winter"
   hidden: false
 ---

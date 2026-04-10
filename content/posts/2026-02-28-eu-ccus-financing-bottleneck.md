@@ -5,7 +5,7 @@ date: 2026-02-28T14:50:00Z
 tags: ["CCUS", "EU policy", "industrial decarbonization", "carbon capture", "Net Zero Industry Act"]
 summary: "A CCSA/Deloitte analysis warns that Europe's slow CCUS financing could drive heavy industry to jurisdictions with faster-moving climate infrastructure."
 cover:
-  image: "/images/posts/eu-ccus-financing-bottleneck.png"
+  image: "/images/posts/2026-02-28-eu-ccus-financing-bottleneck.png"
   alt: "EU Risks Losing Heavy Industry If CCUS Deployment Stalls"
   hidden: false
 ---

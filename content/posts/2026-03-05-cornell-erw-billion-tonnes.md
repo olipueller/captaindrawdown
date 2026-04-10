@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "cornell-erw-billion-tonnes"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/cornell-erw-billion-tonnes.png"
+  image: "/images/posts/2026-03-05-cornell-erw-billion-tonnes.png"
   alt: "Reality Check: Cornell Study Says ERW Could Hit 1 Billion Tonnes Per Year — With Caveats"
   hidden: false
 ---

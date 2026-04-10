@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "microbes-marine-snow-ocean-carbon-sink"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/microbes-marine-snow-ocean-carbon-sink.png"
+  image: "/images/posts/2026-03-10-microbes-marine-snow-ocean-carbon-sink.png"
   alt: "Microbes on Marine Snow May Limit How Deep Carbon Actually Sinks"
   hidden: false
 ---

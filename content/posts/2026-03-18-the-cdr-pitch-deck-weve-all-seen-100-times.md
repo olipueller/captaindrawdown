@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "the-cdr-pitch-deck-weve-all-seen-100-times"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/the-cdr-pitch-deck-weve-all-seen-100-times.png"
+  image: "/images/posts/2026-03-18-the-cdr-pitch-deck-weve-all-seen-100-times.png"
   alt: "The CDR Pitch Deck We've All Seen 100 Times"
   hidden: false
 ---

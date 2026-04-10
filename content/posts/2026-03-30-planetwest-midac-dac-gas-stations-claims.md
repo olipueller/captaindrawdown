@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "planetwest-midac-dac-gas-stations-claims"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/planetwest-midac-dac-gas-stations-claims.png"
+  image: "/images/posts/2026-03-30-planetwest-midac-dac-gas-stations-claims.png"
   alt: "PlanetWEST Claims $30/ton DAC at Gas Stations — Let's Look Closer"
   hidden: false
 ---

@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "aircapture-corning-dac-commercial-partnership"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/aircapture-corning-dac-commercial-partnership.png"
+  image: "/images/posts/2026-03-28-aircapture-corning-dac-commercial-partnership.png"
   alt: "Aircapture and Corning Partner to Advance Commercial DAC Deployment"
   hidden: false
 ---

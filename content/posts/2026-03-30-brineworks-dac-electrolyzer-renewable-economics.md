@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "brineworks-dac-electrolyzer-renewable-economics"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/brineworks-dac-electrolyzer-renewable-economics.png"
+  image: "/images/posts/2026-03-30-brineworks-dac-electrolyzer-renewable-economics.png"
   alt: "Can Electrochemical DAC Crack the Cost Problem? Brineworks Thinks So"
   hidden: false
 ---

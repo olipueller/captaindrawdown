@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "german-media-oae-loc-ness"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/german-media-oae-loc-ness.png"
+  image: "/images/posts/2026-03-14-german-media-oae-loc-ness.png"
   alt: ""
   hidden: false
 ---

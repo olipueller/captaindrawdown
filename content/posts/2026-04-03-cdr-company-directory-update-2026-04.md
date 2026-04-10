@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "cdr-company-directory-update-2026-04"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/cdr-company-directory-update-2026-04.png"
+  image: "/images/posts/2026-04-03-cdr-company-directory-update-2026-04.png"
   alt: "CDR Company Directory Update — April 2026"
   hidden: false
 ---

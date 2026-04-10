@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "octavia-carbon-offtake-carbon-direct"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/octavia-carbon-offtake-carbon-direct.png"
+  image: "/images/posts/2026-03-07-octavia-carbon-offtake-carbon-direct.png"
   alt: "Octavia Carbon Secures New Offtake Agreement via Carbon Direct"
   hidden: false
 ---

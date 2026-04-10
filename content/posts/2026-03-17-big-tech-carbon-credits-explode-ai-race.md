@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "big-tech-carbon-credits-explode-ai-race"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/big-tech-carbon-credits-explode-ai-race.png"
+  image: "/images/posts/2026-03-17-big-tech-carbon-credits-explode-ai-race.png"
   alt: "Big Tech Carbon Credit Purchases Explode Amid AI Race"
   hidden: false
 ---

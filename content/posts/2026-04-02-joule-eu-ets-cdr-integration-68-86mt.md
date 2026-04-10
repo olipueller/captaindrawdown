@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "joule-eu-ets-cdr-integration-68-86mt"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/joule-eu-ets-cdr-integration-68-86mt.png"
+  image: "/images/posts/2026-04-02-joule-eu-ets-cdr-integration-68-86mt.png"
   alt: "Joule Paper: EU ETS Integration Could Drive 68–86 Mt CDR Per Year by 2050"
   hidden: false
 ---

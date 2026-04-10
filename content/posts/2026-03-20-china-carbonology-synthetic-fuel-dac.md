@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "china-carbonology-synthetic-fuel-dac"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/china-carbonology-synthetic-fuel-dac.png"
+  image: "/images/posts/2026-03-20-china-carbonology-synthetic-fuel-dac.png"
   alt: "Chinese Startup Claims Competitive Synthetic Fuel From Air and Water"
   hidden: false
 ---

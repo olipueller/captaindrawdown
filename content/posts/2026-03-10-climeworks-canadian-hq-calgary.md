@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "climeworks-canadian-hq-calgary"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/climeworks-canadian-hq-calgary.png"
+  image: "/images/posts/2026-03-10-climeworks-canadian-hq-calgary.png"
   alt: "Climeworks Plants Its Flag in Calgary"
   hidden: false
 ---

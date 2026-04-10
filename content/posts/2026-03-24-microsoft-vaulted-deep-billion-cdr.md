@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "microsoft-vaulted-deep-billion-cdr"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/microsoft-vaulted-deep-billion-cdr.png"
+  image: "/images/posts/2026-03-24-microsoft-vaulted-deep-billion-cdr.png"
   alt: "Microsoft's CDR Bet: The Vaulted Deep Deal Could Be Worth ~$1B"
   hidden: false
 ---

@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "biochar-10-year-persistence"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/biochar-10-year-persistence.png"
+  image: "/images/posts/2026-03-05-biochar-10-year-persistence.png"
   alt: "Biochar's Carbon Benefits Last a Decade — New 10-Year Field Study Confirms"
   hidden: false
 ---

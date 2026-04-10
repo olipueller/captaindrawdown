@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "exomad-green-300k-biochar-credits"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/exomad-green-300k-biochar-credits.png"
+  image: "/images/posts/2026-03-10-exomad-green-300k-biochar-credits.png"
   alt: "Exomad Green Hits 300,000 Biochar Carbon Removal Credits"
   hidden: false
 ---

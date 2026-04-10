@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "warm-springs-forest-carbon-wildfire"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/warm-springs-forest-carbon-wildfire.png"
+  image: "/images/posts/2026-03-14-warm-springs-forest-carbon-wildfire.png"
   alt: "A $25 Million Warning: Oregon Forest Carbon Project Destroyed by Wildfire"
   hidden: false
 ---

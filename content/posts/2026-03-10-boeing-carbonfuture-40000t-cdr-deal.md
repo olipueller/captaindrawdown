@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "boeing-carbonfuture-40000t-cdr-deal"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/boeing-carbonfuture-40000t-cdr-deal.png"
+  image: "/images/posts/2026-03-10-boeing-carbonfuture-40000t-cdr-deal.png"
   alt: "Boeing Just Made Aviation's Biggest Carbon Removal Bet"
   hidden: false
 ---

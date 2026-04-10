@@ -6,7 +6,7 @@ tags: ["CDR", "carbon removal", "biochar", "carbon credits", "market"]
 summary: "Biochar delivers over 90% of all commercially traded permanent CDR credits. The $838M market is growing fast — here's why it matters."
 draft: false
 cover:
-  image: "/images/posts/biochar-quiet-giant-of-cdr.png"
+  image: "/images/posts/2026-02-25-biochar-quiet-giant-of-cdr.png"
   alt: "Biochar: The Quiet Giant of Carbon Removal"
   hidden: false
 ---

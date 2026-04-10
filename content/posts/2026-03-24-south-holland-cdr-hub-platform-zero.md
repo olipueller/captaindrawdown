@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "south-holland-cdr-hub-platform-zero"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/south-holland-cdr-hub-platform-zero.png"
+  image: "/images/posts/2026-03-24-south-holland-cdr-hub-platform-zero.png"
   alt: "South Holland Builds a Regional CDR Hub With SeaO2, Skytree, and TNO"
   hidden: false
 ---

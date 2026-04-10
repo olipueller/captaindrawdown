@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "eu-first-cdr-certification-standard"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/eu-first-cdr-certification-standard.png"
+  image: "/images/posts/2026-03-06-eu-first-cdr-certification-standard.png"
   alt: "EU Launches World's First Voluntary Standard for Permanent Carbon Removals"
   hidden: false
 ---

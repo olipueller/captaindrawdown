@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "arukah-cambodia-biochar-corcs-puro-earth"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/arukah-cambodia-biochar-corcs-puro-earth.png"
+  image: "/images/posts/2026-03-28-arukah-cambodia-biochar-corcs-puro-earth.png"
   alt: "Arukah Issues First Puro.earth Biochar CORCs in Cambodia"
   hidden: false
 ---

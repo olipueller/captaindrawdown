@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "equatic-seawater-alkalinization-oae-study"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/equatic-seawater-alkalinization-oae-study.png"
+  image: "/images/posts/2026-03-29-equatic-seawater-alkalinization-oae-study.png"
   alt: "Equatic Seawater Alkalinization: 96–98% CO₂ Removal in Lab Tests"
   hidden: false
 ---

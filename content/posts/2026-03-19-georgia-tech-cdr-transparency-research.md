@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "georgia-tech-cdr-transparency-research"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/georgia-tech-cdr-transparency-research.png"
+  image: "/images/posts/2026-03-19-georgia-tech-cdr-transparency-research.png"
   alt: "Georgia Tech: CDR Won't Work Without Radical Transparency"
   hidden: false
 ---

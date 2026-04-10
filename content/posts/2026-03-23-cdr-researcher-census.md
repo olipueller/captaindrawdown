@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "cdr-researcher-census"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/cdr-researcher-census.png"
+  image: "/images/posts/2026-03-23-cdr-researcher-census.png"
   alt: "I Counted Every CDR Researcher on Earth. Here's What I Found."
   hidden: false
 ---

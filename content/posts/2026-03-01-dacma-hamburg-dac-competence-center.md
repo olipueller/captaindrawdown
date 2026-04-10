@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "dacma-hamburg-dac-competence-center"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/dacma-hamburg-dac-competence-center.png"
+  image: "/images/posts/2026-03-01-dacma-hamburg-dac-competence-center.png"
   alt: "Hamburg Breaks Ground on DACMA: German DAC Engineering Goes Global"
   hidden: false
 ---

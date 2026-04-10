@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "europe-cdr-strategies-pypsa-eur-model"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/europe-cdr-strategies-pypsa-eur-model.png"
+  image: "/images/posts/2026-04-07-europe-cdr-strategies-pypsa-eur-model.png"
   alt: "New Europe CDR Modeling: Afforestation, ERW Can Make DAC Unnecessary"
   hidden: false
 ---

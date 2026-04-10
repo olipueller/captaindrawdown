@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "philippines-first-southeast-asia-biochar-credits"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/philippines-first-southeast-asia-biochar-credits.png"
+  image: "/images/posts/2026-03-07-philippines-first-southeast-asia-biochar-credits.png"
   alt: "Philippines Generates Southeast Asia's First Biochar Carbon Credits"
   hidden: false
 ---

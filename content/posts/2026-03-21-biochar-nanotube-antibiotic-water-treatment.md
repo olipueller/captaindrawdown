@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "biochar-nanotube-antibiotic-water-treatment"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/biochar-nanotube-antibiotic-water-treatment.png"
+  image: "/images/posts/2026-03-21-biochar-nanotube-antibiotic-water-treatment.png"
   alt: "Biochar Just Got Another Job: Destroying Antibiotics in Water"
   hidden: false
 ---

@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "bregal-sphere-imperative-500m-nature-restoration"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/bregal-sphere-imperative-500m-nature-restoration.png"
+  image: "/images/posts/2026-03-15-bregal-sphere-imperative-500m-nature-restoration.png"
   alt: "Half a Billion Dollars for Ecosystem Restoration in the Global South"
   hidden: false
 ---

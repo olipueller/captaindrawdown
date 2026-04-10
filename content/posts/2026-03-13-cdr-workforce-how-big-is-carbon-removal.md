@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "cdr-workforce-how-big-is-carbon-removal"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/cdr-workforce-how-big-is-carbon-removal.png"
+  image: "/images/posts/2026-03-13-cdr-workforce-how-big-is-carbon-removal.png"
   alt: "6,321 People: How Big Is the CDR Workforce, Really?"
   hidden: false
 ---

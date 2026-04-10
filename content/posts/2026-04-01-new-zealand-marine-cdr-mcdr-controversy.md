@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "new-zealand-marine-cdr-mcdr-controversy"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/new-zealand-marine-cdr-mcdr-controversy.png"
+  image: "/images/posts/2026-04-01-new-zealand-marine-cdr-mcdr-controversy.png"
   alt: "New Zealand's Marine CDR Trial — And Why the Controversy Is Appropriate"
   hidden: false
 ---

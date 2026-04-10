@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "canada-advance-carbon-removal-coalition"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/canada-advance-carbon-removal-coalition.png"
+  image: "/images/posts/2026-03-09-canada-advance-carbon-removal-coalition.png"
   alt: "Canada Assembles Its CDR Dream Team With $100M Coalition"
   hidden: false
 ---

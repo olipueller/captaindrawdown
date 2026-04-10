@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "ocean-alkalinity-mussel-shell-study"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/ocean-alkalinity-mussel-shell-study.png"
+  image: "/images/posts/2026-03-19-ocean-alkalinity-mussel-shell-study.png"
   alt: "What Happens to Mussels When You Add Alkalinity to the Ocean?"
   hidden: false
 ---

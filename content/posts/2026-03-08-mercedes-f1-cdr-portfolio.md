@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "mercedes-f1-cdr-portfolio"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/mercedes-f1-cdr-portfolio.png"
+  image: "/images/posts/2026-03-08-mercedes-f1-cdr-portfolio.png"
   alt: "Mercedes F1 Builds One of Motorsport's Biggest CDR Portfolios — 18,900 Tonnes Across 6 Pathways"
   hidden: false
 ---

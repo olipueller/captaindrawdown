@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "eu-crcf-carbon-removal-certification"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/eu-crcf-carbon-removal-certification.png"
+  image: "/images/posts/2026-03-14-eu-crcf-carbon-removal-certification.png"
   alt: "The EU Just Built the World's First Government CDR Credit Label"
   hidden: false
 ---

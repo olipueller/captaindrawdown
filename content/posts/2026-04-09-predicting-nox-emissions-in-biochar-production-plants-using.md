@@ -4,7 +4,7 @@ slug: "predicting-nox-emissions-in-biochar-production-plants-using"
 date: 2026-04-09T17:46:44.644860+02:00
 tags: []
 cover:
-  image: "/images/posts/predicting-nox-emissions-in-biochar-production-plants-using.png"
+  image: "/images/posts/2026-04-09-predicting-nox-emissions-in-biochar-production-plants-using.png"
   alt: "Predicting NOx emissions in Biochar Production Plants using Machine Learning"
   hidden: false
 ---

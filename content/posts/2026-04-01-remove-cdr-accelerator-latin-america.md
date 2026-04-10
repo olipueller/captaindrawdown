@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "remove-cdr-accelerator-latin-america"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/remove-cdr-accelerator-latin-america.png"
+  image: "/images/posts/2026-04-01-remove-cdr-accelerator-latin-america.png"
   alt: "The remove CDR Accelerator Is Coming to Latin America"
   hidden: false
 ---

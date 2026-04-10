@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "iea-cdr-top-vc-bet"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/iea-cdr-top-vc-bet.png"
+  image: "/images/posts/2026-03-08-iea-cdr-top-vc-bet.png"
   alt: "IEA Report: Carbon Removal Is Now One of the Hottest VC Categories in Energy"
   hidden: false
 ---

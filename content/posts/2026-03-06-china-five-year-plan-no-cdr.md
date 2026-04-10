@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "china-five-year-plan-no-cdr"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/china-five-year-plan-no-cdr.png"
+  image: "/images/posts/2026-03-06-china-five-year-plan-no-cdr.png"
   alt: "China's New Five-Year Plan: 17% Carbon Intensity Cut, Zero CDR"
   hidden: false
 ---

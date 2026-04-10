@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "africa-carbon-removal-summit-nairobi"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/africa-carbon-removal-summit-nairobi.png"
+  image: "/images/posts/2026-03-10-africa-carbon-removal-summit-nairobi.png"
   alt: "Africa's First Carbon Removal Summit Comes to Nairobi"
   hidden: false
 ---

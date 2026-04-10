@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "cultivo-octopus-energy-100m-grasslands"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/cultivo-octopus-energy-100m-grasslands.png"
+  image: "/images/posts/2026-03-15-cultivo-octopus-energy-100m-grasslands.png"
   alt: "Octopus Energy Ups Its Grasslands CDR Bet to $100 Million"
   hidden: false
 ---

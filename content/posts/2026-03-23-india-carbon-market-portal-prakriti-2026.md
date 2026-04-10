@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "india-carbon-market-portal-prakriti-2026"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/india-carbon-market-portal-prakriti-2026.png"
+  image: "/images/posts/2026-03-23-india-carbon-market-portal-prakriti-2026.png"
   alt: "India Launches Carbon Market Portal — Formal Trading Starts in 4 Months"
   hidden: false
 ---

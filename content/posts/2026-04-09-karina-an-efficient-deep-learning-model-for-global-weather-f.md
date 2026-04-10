@@ -4,7 +4,7 @@ slug: "karina-an-efficient-deep-learning-model-for-global-weather-f"
 date: 2026-04-09T17:46:55.137503+02:00
 tags: []
 cover:
-  image: "/images/posts/karina-an-efficient-deep-learning-model-for-global-weather-f.png"
+  image: "/images/posts/2026-04-09-karina-an-efficient-deep-learning-model-for-global-weather-f.png"
   alt: "KARINA: An Efficient Deep Learning Model for Global Weather Forecast"
   hidden: false
 ---

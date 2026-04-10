@@ -5,7 +5,7 @@ tags: ["news"]
 slug: "direct-air-capture-in-europe---where-to-integrate-where-to-s"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/direct-air-capture-in-europe---where-to-integrate-where-to-s.png"
+  image: "/images/posts/2026-04-09-direct-air-capture-in-europe---where-to-integrate-where-to-s.png"
   alt: "Direct Air Capture in Europe - Where to Integrate, Where to Store, and What Drives Cost?"
   hidden: false
 ---

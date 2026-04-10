@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "direct-storage-biomass-coalition-carbon-removal"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/direct-storage-biomass-coalition-carbon-removal.png"
+  image: "/images/posts/2026-03-18-direct-storage-biomass-coalition-carbon-removal.png"
   alt: "New Coalition Wants to Bury Biomass for Carbon Removal — 17 Companies Join"
   hidden: false
 ---

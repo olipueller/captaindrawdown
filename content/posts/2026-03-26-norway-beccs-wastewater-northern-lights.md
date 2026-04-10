@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "norway-beccs-wastewater-northern-lights"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/norway-beccs-wastewater-northern-lights.png"
+  image: "/images/posts/2026-03-26-norway-beccs-wastewater-northern-lights.png"
   alt: "Norway Is Pumping Sewage CO₂ Under the North Sea — and It's a Big Deal"
   hidden: false
 ---

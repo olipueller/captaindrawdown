@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "ocean-cdr-nutrient-cycling-limits"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/ocean-cdr-nutrient-cycling-limits.png"
+  image: "/images/posts/2026-03-10-ocean-cdr-nutrient-cycling-limits.png"
   alt: "Ocean CDR Has a Nutrient Problem"
   hidden: false
 ---

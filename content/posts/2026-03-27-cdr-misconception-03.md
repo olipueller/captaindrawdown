@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "cdr-misconception-03"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/cdr-misconception-03.png"
+  image: "/images/posts/2026-03-27-cdr-misconception-03.png"
   alt: "CDR Misconception #3: Enhanced Weathering Is Just Spreading Rocks — It Can't Scale"
   hidden: false
 ---

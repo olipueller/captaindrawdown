@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "dac-wood-waste-lignin-solar-co2-capture"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/dac-wood-waste-lignin-solar-co2-capture.png"
+  image: "/images/posts/2026-03-18-dac-wood-waste-lignin-solar-co2-capture.png"
   alt: "New DAC Sorbent Made From Wood Waste Uses Sunlight to Release CO₂"
   hidden: false
 ---

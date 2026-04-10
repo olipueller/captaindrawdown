@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "dac-energy-demand-1-degree-target"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/dac-energy-demand-1-degree-target.png"
+  image: "/images/posts/2026-03-29-dac-energy-demand-1-degree-target.png"
   alt: "DAC Energy Demand: The Numbers That Shut Down a Bad Argument"
   hidden: false
 ---

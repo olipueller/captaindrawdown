@@ -6,7 +6,7 @@ tags: ["news"]
 slug: "us-10-trillion-climate-damages-stanford-nature"
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/us-10-trillion-climate-damages-stanford-nature.png"
+  image: "/images/posts/2026-03-26-us-10-trillion-climate-damages-stanford-nature.png"
   alt: "Stanford Quantified the Cost of Delay on Carbon Removal. It's $10 Trillion."
   hidden: false
 ---
