@@ -33,9 +33,9 @@ description: "Search 112,000+ CDR researchers by name, country, or pathway"
 <div class="census-search">
 <input type="text" id="searchInput" placeholder="Type a researcher name..." autocomplete="off">
 <div class="count-info" id="countInfo">Loading researcher profiles...</div>
-<div class="results" id="results"></div>
+<div class="results" id="results">&nbsp;</div>
 </div>
-<div id="profileView" style="display:none"></div>
+<div id="profileView" style="display:none">&nbsp;</div>
 
 <script>
 let searchData=[], searchReady=false;
