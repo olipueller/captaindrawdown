@@ -1,17 +1,15 @@
 ---
 title: "Why Carbon Removal Needs More Than Trees"
-description: "Let me be clear upfront: trees are wonderful. Plant them. Protect them. Love them. But if your entire carbon removal strategy is \"plant more trees,\" we..."
+slug: "why-carbon-removal-needs-more-than-trees"
 date: 2026-02-23T14:00:00+01:00
-pillar: "science"
 tags: ["CDR", "carbon removal", "enhanced weathering", "direct air capture", "biochar", "afforestation"]
 summary: "Tree planting is great, but it's not enough. Here's why the carbon removal portfolio needs to be much, much wider."
 draft: false
 cover:
-  image: "/images/posts/20260223-01.png"
+  image: "/images/posts/why-carbon-removal-needs-more-than-trees.png"
   alt: "Why Carbon Removal Needs More Than Trees"
-  relative: false
+  hidden: false
 ---
-
 Let me be clear upfront: trees are wonderful. Plant them. Protect them. Love them. But if your entire carbon removal strategy is "plant more trees," we have a problem.
 
 ## The Scale Problem
@@ -30,7 +28,7 @@ Here's why:
 
 This is why the CDR field talks about a **portfolio** of removal methods:
 
-- **[Enhanced weathering](/posts/what-is-enhanced-weathering/) (EW):** Spreading crushed silicate rocks on agricultural land to accelerate natural CO₂-absorbing chemical reactions. Added benefit: it can improve soil health and crop yields ([Beerling et al., *Nature*, 2020](https://www.nature.com/articles/s41586-020-2448-9)). Companies like [UNDO](https://un-do.com/) and [Lithos](https://lithoscarbon.com/) are scaling this now.
+- **Enhanced weathering (EW):** Spreading crushed silicate rocks on agricultural land to accelerate natural CO₂-absorbing chemical reactions. Added benefit: it can improve soil health and crop yields ([Beerling et al., *Nature*, 2020](https://www.nature.com/articles/s41586-020-2448-9)). Companies like [UNDO](https://un-do.com/) and [Lithos](https://lithoscarbon.com/) are scaling this now.
 
 - **Direct air capture (DAC):** Giant machines that chemically scrub CO₂ from ambient air. Energy-intensive and expensive today (~$400–1,000/tonne), but costs are falling and permanence is essentially guaranteed when combined with geological storage ([WRI, 2024](https://www.wri.org/insights/direct-air-capture-resource-considerations-and-costs-carbon-removal)). [Climeworks](https://climeworks.com/) and [1PointFive](https://www.1pointfive.com/) are leading the charge.
 
@@ -57,17 +55,8 @@ I'll be tracking all of it. Stay tuned. 🌍
 5. Deprez, A. et al., via Harfoot, M.B.J. et al. (2026). "Charting our forest future." *npj Climate Action*. [doi:10.1038/s44168-026-00335-9](https://www.nature.com/articles/s44168-026-00335-9)
 6. Copernicus Atmosphere Monitoring Service (2023). "2023: A year of intense global wildfire activity." [atmosphere.copernicus.eu](https://atmosphere.copernicus.eu/2023-year-intense-global-wildfire-activity)
 7. Walker, X.J. et al. (2024). "Carbon emissions from the 2023 Canadian wildfires." *Nature*. [doi:10.1038/s41586-024-07878-z](https://www.nature.com/articles/s41586-024-07878-z)
-8. Beerling, D.J. et al. (2020). "Potential for large-scale CO₂ removal via [enhanced rock weathering](/posts/what-is-enhanced-weathering/) with croplands." *Nature*, 583, 242–248. [doi:10.1038/s41586-020-2448-9](https://www.nature.com/articles/s41586-020-2448-9)
+8. Beerling, D.J. et al. (2020). "Potential for large-scale CO₂ removal via enhanced rock weathering with croplands." *Nature*, 583, 242–248. [doi:10.1038/s41586-020-2448-9](https://www.nature.com/articles/s41586-020-2448-9)
 9. World Resources Institute (2024). "Direct Air Capture: 6 Things To Know." [wri.org](https://www.wri.org/insights/direct-air-capture-resource-considerations-and-costs-carbon-removal)
 10. Kalu, S. et al. (2024). "Biochar – a sustainable soil conditioner." *Frontiers in Soil Science*. [doi:10.3389/fsoil.2024.1376159](https://www.frontiersin.org/journals/soil-science/articles/10.3389/fsoil.2024.1376159/full)
 11. NOAA. "Ocean Acidification." [noaa.gov](https://www.noaa.gov/education/resource-collections/ocean-coasts/ocean-acidification)
 12. Friedlingstein, P. et al., via Carbon Brief (2020). "The oceans are absorbing more carbon than previously thought." [carbonbrief.org](https://www.carbonbrief.org/guest-post-the-oceans-are-absorbing-more-carbon-than-previously-thought/)
-
----
-
-### 🔗 Related Reading
-
-- [CDR Roundup: What's Moving in Carbon Removal (Feb 2026)](/posts/cdr-roundup-feb-2026/)
-- [What Is [Enhanced Weathering](/posts/what-is-enhanced-weathering/)? A Primer](/posts/what-is-enhanced-weathering/)
-- [500MW of Solar for the World's Largest DAC Plant](/posts/2026-02-25-500mw-solar-for-stratos-dac/)
-- [Biochar: The Quiet Giant of Carbon Removal](/posts/2026-02-25-biochar-quiet-giant-of-cdr/)

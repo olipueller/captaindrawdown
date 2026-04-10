@@ -1,59 +1,13 @@
 ---
 title: "ERW Could Remove 1 Billion Tonnes per Year — But the Caveats Matter"
-date: 2026-03-06
-slug: erw-billion-tonnes-caveats
-aliases: ["/s/26"]
-draft: false
-pillar: "science"
-tags: ["CDR", "carbon removal", "enhanced weathering", "ERW", "basalt", "MRV", "Cornell", "Thünen Institute", "CDI research"]
+date: 2026-03-06T00:00:00Z
 description: "A new Cornell study estimates enhanced rock weathering could hit 1.1 Gt CO₂/yr by 2100. The headline is exciting. The fine print is where the real story lives."
+tags: ["news"]
+slug: "erw-billion-tonnes-caveats"
+author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/20260306-02.png"
+  image: "/images/posts/erw-billion-tonnes-caveats.png"
   alt: "ERW Could Remove 1 Billion Tonnes per Year — But the Caveats Matter"
-  relative: false
+  hidden: false
 ---
-
-New research from Cornell University modelled the global adoption potential of [enhanced rock weathering](/posts/what-is-enhanced-weathering/) and landed on a striking number: **1.1 billion tonnes of CO₂ removed per year by 2100**. That's roughly 3% of current annual fossil fuel emissions — meaningful at planetary scale.
-
-The headline is exciting. The fine print is where the real story lives.
-
-## What the Study Actually Shows
-
-The Cornell team did something most [ERW](/posts/what-is-enhanced-weathering/) projections skip: they modelled *adoption rates* rather than just theoretical capacity. Using historical data on how fast farmers adopt new practices (like irrigation), they estimated a range of 350 million to 750 million tonnes per year by 2050, scaling to 700M–1.1 Gt by 2100.
-
-They also found that the Global South — Asia, Latin America, sub-Saharan Africa — would eventually surpass Europe and North America in [ERW](/posts/what-is-enhanced-weathering/) deployment. Higher temperatures and rainfall accelerate weathering. Farmers in tropical regions could earn more per tonne of rock spread, making it economically viable earlier.
-
-## Where CDI's Research Adds Important Nuance
-
-This is where we put on our CDI hat. The projection numbers assume weathering rates that may be too optimistic under real field conditions, and CDI's own research — running the [world's largest greenhouse EW experiment](https://www.carbon-drawdown.de/blog/2026-3-3-portfolio-spotlight-everest-measuring-ew-in-real-time) with 400+ lysimeters — has shown critical complexities the models don't yet capture:
-
-**Soil pH is a gatekeeper.** In soils above pH 7, carbonate mineral saturation constrains dissolution. CDI's data shows some high-pH treatments actually *lost* alkalinity compared to controls. The Cornell model doesn't account for this.
-
-**Cation retention is the elephant in the room.** CDI's [flagship experiment](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-5402/) found that in year one, **10–50× more cations were retained in soil pools than exported as alkalinity in leachate**. If you're only measuring what leaves the field, you're missing most of the story.
-
-**Dry conditions dramatically slow things down.** The Thünen Institute's Marcus Schiedung [flagged this in Nature Reviews](https://www.nature.com/articles/s43017-026-00761-7) — without rainfall, CDR can be **up to 25× slower** than wet-condition estimates suggest.
-
-**Carbon-based MRV has fundamental limits in field systems.** CDI and collaborators have argued in [Biogeosciences](https://www.carbon-drawdown.de/blog/2026-1-6-new-paper-carbon-vs-cation-based-mrv-for-enhanced-rock-weathering-and-why-we-should-check-how-much-soil-carbon-matters) that cation-based MRV — not carbon flux measurement — should be the standard for [ERW](/posts/what-is-enhanced-weathering/) verification.
-
-## The Bottom Line
-
-[ERW](/posts/what-is-enhanced-weathering/) has genuine billion-tonne potential. That hasn't changed. But getting from "potential" to "verified removal at scale" requires solving the MRV puzzle, understanding decade-scale cation dynamics, and being honest about where our data falls short.
-
-The Cornell study asks the right question: how fast can adoption happen? CDI's research asks the harder one: how much of that adoption actually removes CO₂?
-
-Both questions need answers. At least we're finally asking them at the same time.
-
----
-
-*Sources: [New Scientist](https://www.newscientist.com/article/2517484-spreading-crushed-rock-on-farms-could-absorb-1-billion-tonnes-of-co2/) · [CDI: Soil Processes Govern Alkalinity & Cation Retention](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-5402/) · [CDI: Carbon vs Cation-Based MRV](https://www.carbon-drawdown.de/blog/2026-1-6-new-paper-carbon-vs-cation-based-mrv-for-enhanced-rock-weathering-and-why-we-should-check-how-much-soil-carbon-matters) · [Nature Reviews — Schiedung et al.](https://www.nature.com/articles/s43017-026-00761-7)*
-
----
-
----
-
-### 🔗 Related Reading
-
-- [ERW Could Absorb 1 Billion Tonnes of CO₂ — But the Details Matter](/posts/erw-one-billion-tonnes-potential/)
-- [Enhanced Rock Weathering: Promising, But Not Simple](/posts/erw-promising-but-not-simple/)
-- [Reality Check: Cornell Study Says ERW Could Hit 1 Billion Tonnes Per Year — With Caveats](/posts/cornell-erw-billion-tonnes/)
-- [India's Quiet Carbon Removal Revolution: From Basalt Dust to Corporate Ledgers](/posts/india-carbon-removal-basalt-fields-corporate-ledgers/)
+<p>New research from Cornell University modelled the global adoption potential of <a href=/posts/what-is-enhanced-weathering/>enhanced rock weathering</a> and landed on a striking number: <strong>1.1 billion tonnes of CO₂ removed per year by 2100</strong>. That&rsquo;s roughly 3% of current annual fossil fuel emissions — meaningful at planetary scale.</p><p>The headline is exciting. The fine print is where the real story lives.</p><h2 id=what-the-study-actually-shows>What the Study Actually Shows<a hidden class=anchor aria-hidden=true href=#what-the-study-actually-shows>#</a></h2><p>The Cornell team did something most <a href=/posts/what-is-enhanced-weathering/>ERW</a> projections skip: they modelled <em>adoption rates</em> rather than just theoretical capacity. Using historical data on how fast farmers adopt new practices (like irrigation), they estimated a range of 350 million to 750 million tonnes per year by 2050, scaling to 700M–1.1 Gt by 2100.</p><p>They also found that the Global South — Asia, Latin America, sub-Saharan Africa — would eventually surpass Europe and North America in <a href=/posts/what-is-enhanced-weathering/>ERW</a> deployment. Higher temperatures and rainfall accelerate weathering. Farmers in tropical regions could earn more per tonne of rock spread, making it economically viable earlier.</p><h2 id=where-cdis-research-adds-important-nuance>Where CDI&rsquo;s Research Adds Important Nuance<a hidden class=anchor aria-hidden=true href=#where-cdis-research-adds-important-nuance>#</a></h2><p>This is where we put on our CDI hat. The projection numbers assume weathering rates that may be too optimistic under real field conditions, and CDI&rsquo;s own research — running the <a href=https://www.carbon-drawdown.de/blog/2026-3-3-portfolio-spotlight-everest-measuring-ew-in-real-time>world&rsquo;s largest greenhouse EW experiment</a> with 400+ lysimeters — has shown critical complexities the models don&rsquo;t yet capture:</p><p><strong>Soil pH is a gatekeeper.</strong> In soils above pH 7, carbonate mineral saturation constrains dissolution. CDI&rsquo;s data shows some high-pH treatments actually <em>lost</em> alkalinity compared to controls. The Cornell model doesn&rsquo;t account for this.</p><p><strong>Cation retention is the elephant in the room.</strong> CDI&rsquo;s <a href=https://egusphere.copernicus.org/preprints/2025/egusphere-2025-5402/>flagship experiment</a> found that in year one, <strong>10–50× more cations were retained in soil pools than exported as alkalinity in leachate</strong>. If you&rsquo;re only measuring what leaves the field, you&rsquo;re missing most of the story.</p><p><strong>Dry conditions dramatically slow things down.</strong> The Thünen Institute&rsquo;s Marcus Schiedung <a href=https://www.nature.com/articles/s43017-026-00761-7>flagged this in Nature Reviews</a> — without rainfall, CDR can be <strong>up to 25× slower</strong> than wet-condition estimates suggest.</p><p><strong>Carbon-based MRV has fundamental limits in field systems.</strong> CDI and collaborators have argued in <a href=https://www.carbon-drawdown.de/blog/2026-1-6-new-paper-carbon-vs-cation-based-mrv-for-enhanced-rock-weathering-and-why-we-should-check-how-much-soil-carbon-matters>Biogeosciences</a> that cation-based MRV — not carbon flux measurement — should be the standard for <a href=/posts/what-is-enhanced-weathering/>ERW</a> verification.</p><h2 id=the-bottom-line>The Bottom Line<a hidden class=anchor aria-hidden=true href=#the-bottom-line>#</a></h2><p><a href=/posts/what-is-enhanced-weathering/>ERW</a> has genuine billion-tonne potential. That hasn&rsquo;t changed. But getting from &ldquo;potential&rdquo; to &ldquo;verified removal at scale&rdquo; requires solving the MRV puzzle, understanding decade-scale cation dynamics, and being honest about where our data falls short.</p><p>The Cornell study asks the right question: how fast can adoption happen? CDI&rsquo;s research asks the harder one: how much of that adoption actually removes CO₂?</p><p>Both questions need answers. At least we&rsquo;re finally asking them at the same time.</p><hr><p><em>Sources: <a href=https://www.newscientist.com/article/2517484-spreading-crushed-rock-on-farms-could-absorb-1-billion-tonnes-of-co2/>New Scientist</a> · <a href=https://egusphere.copernicus.org/preprints/2025/egusphere-2025-5402/>CDI: Soil Processes Govern Alkalinity & Cation Retention</a> · <a href=https://www.carbon-drawdown.de/blog/2026-1-6-new-paper-carbon-vs-cation-based-mrv-for-enhanced-rock-weathering-and-why-we-should-check-how-much-soil-carbon-matters>CDI: Carbon vs Cation-Based MRV</a> · <a href=https://www.nature.com/articles/s43017-026-00761-7>Nature Reviews — Schiedung et al.</a></em></p><hr><hr><h3 id=-related-reading>🔗 Related Reading<a hidden class=anchor aria-hidden=true href=#-related-reading>#</a></h3><ul><li><a href=/posts/erw-one-billion-tonnes-potential/>ERW Could Absorb 1 Billion Tonnes of CO₂ — But the Details Matter</a></li><li><a href=/posts/erw-promising-but-not-simple/>Enhanced Rock Weathering: Promising, But Not Simple</a></li><li><a href=/posts/cornell-erw-billion-tonnes/>Reality Check: Cornell Study Says ERW Could Hit 1 Billion Tonnes Per Year — With Caveats</a></li><li><a href=/posts/india-carbon-removal-basalt-fields-corporate-ledgers/>India&rsquo;s Quiet Carbon Removal Revolution: From Basalt Dust to Corporate Ledgers</a></li></ul>

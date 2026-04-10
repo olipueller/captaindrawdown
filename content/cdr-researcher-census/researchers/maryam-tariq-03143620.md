@@ -1,0 +1,43 @@
+---
+title: "Maryam Tariq"
+description: "Maryam Tariq is a mid-career researcher at The University of Agriculture, Peshawar specializing in Soil Carbon"
+url: "/cdr-researcher-census/researchers/maryam-tariq-03143620/"
+type: "census"
+---
+
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"Person","name":"Maryam Tariq","affiliation":{"@type":"Organization","name":"The University of Agriculture, Peshawar"},"url":"https://www.captaindrawdown.com/cdr-researcher-census/researchers/maryam-tariq-03143620/"}
+</script>
+
+##  Maryam Tariq
+
+**The University of Agriculture, Peshawar** (PK)
+
+**Career Stage:** Mid-career
+**CDR Pathway:** Soil Carbon
+**Trajectory:** Exiting
+**Data Confidence:** confirmed
+
+<table class="metrics-table">
+<tr><th>Metric</th><th>Value</th></tr>
+<tr><td>h-index</td><td>7</td></tr>
+<tr><td>Total Citations</td><td>214</td></tr>
+<tr><td>Total Publications</td><td>17</td></tr>
+<tr><td>CDR Focus</td><td>6%</td></tr>
+<tr><td>First CDR Paper</td><td>2015</td></tr>
+</table>
+
+## Top CDR Publications
+
+- **Impact of elevated CO2 on soil microbiota: A meta-analytical review of carbon and nitrogen metabolism** (2024) — 18 citations
+
+
+## External Links
+
+- [ORCID Profile](https://orcid.org/https://orcid.org/0000-0003-1514-7710)
+- [OpenAlex Profile](https://openalex.org/authors/https://openalex.org/A5103143620)
+
+
+---
+
+*Data from [OpenAlex](https://openalex.org) enriched with [ORCID](https://orcid.org). Part of the [CDR Researcher Census](/cdr-researcher-census/).*

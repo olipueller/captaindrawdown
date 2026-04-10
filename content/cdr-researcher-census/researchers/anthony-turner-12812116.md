@@ -1,0 +1,43 @@
+---
+title: "Anthony Turner"
+description: "Anthony Turner is a senior researcher at University of Sheffield specializing in Soil Carbon"
+url: "/cdr-researcher-census/researchers/anthony-turner-12812116/"
+type: "census"
+---
+
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"Person","name":"Anthony Turner","affiliation":{"@type":"Organization","name":"University of Sheffield"},"url":"https://www.captaindrawdown.com/cdr-researcher-census/researchers/anthony-turner-12812116/"}
+</script>
+
+## 🇬🇧 Anthony Turner
+
+**University of Sheffield** (GB)
+
+**Career Stage:** Senior
+**CDR Pathway:** Soil Carbon
+**Trajectory:** Stable
+**Data Confidence:** confirmed
+
+<table class="metrics-table">
+<tr><th>Metric</th><th>Value</th></tr>
+<tr><td>h-index</td><td>6</td></tr>
+<tr><td>Total Citations</td><td>406</td></tr>
+<tr><td>Total Publications</td><td>17</td></tr>
+<tr><td>CDR Focus</td><td>6%</td></tr>
+<tr><td>First CDR Paper</td><td>2009</td></tr>
+</table>
+
+## Top CDR Publications
+
+- **Soil quality regeneration by grass-clover leys in arable rotations compared to permanent grassland: Effects on wheat yield and resilience to drought and flooding** (2021) — 40 citations
+
+
+## External Links
+
+- [ORCID Profile](https://orcid.org/https://orcid.org/0000-0001-9736-7666)
+- [OpenAlex Profile](https://openalex.org/authors/https://openalex.org/A5012812116)
+
+
+---
+
+*Data from [OpenAlex](https://openalex.org) enriched with [ORCID](https://orcid.org). Part of the [CDR Researcher Census](/cdr-researcher-census/).*

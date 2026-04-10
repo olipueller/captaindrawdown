@@ -1,58 +1,13 @@
 ---
 title: "The Math on DAC Subsidies: $900B to $3T, and It's Worth It (With a Giant Asterisk)"
-date: 2026-03-21
-slug: dac-scaling-subsidy-cost-uncertainty
-aliases: ["/s/125"]
+date: 2026-03-21T00:00:00Z
 description: "New research quantifies DAC's subsidy needs for the first time. The price tag is eye-watering — but the math works IF we also cut emissions."
-pillar: "science"
-tags: ["DAC", "policy", "economics", "research"]
+tags: ["news"]
+slug: "dac-scaling-subsidy-cost-uncertainty"
+author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/20260321-02.png"
+  image: "/images/posts/dac-scaling-subsidy-cost-uncertainty.png"
   alt: "The Math on DAC Subsidies: $900B to $3T, and It's Worth It (With a Giant Asterisk)"
-  relative: false
+  hidden: false
 ---
-
-Subsidies for direct air capture must exceed $200–330 per ton of CO2 and be sustained for decades. That's not an activist estimate — it's the central finding of the first rigorous uncertainty analysis of DACCS scaling, published by researchers at Politecnico di Milano and ETH Zurich.
-
-The total public bill? Between $900 billion and $3 trillion.
-
-Before you close this tab: the investment pays back by mid-century. But only if — and this "if" is load-bearing — we simultaneously cut emissions hard.
-
-## What the paper actually did
-
-Chiani et al. ran a global sensitivity analysis on DACCS deployment using the WITCH integrated assessment model. They tested three technology pathways: liquid solvent systems, solid sorbent systems, and CaO ambient weathering. Then they threw uncertainty ranges at everything — technology costs, learning rates, energy prices, policy trajectories — and asked: what does the probability distribution of DAC deployment actually look like?
-
-The answer is humbling. Most scenarios show modest DAC uptake. The distribution has fat tails: there's only a 4–6% probability of reaching gigaton-scale removal by mid-century. That's not zero, but it's a long way from the confident gigaton projections you see in climate roadmaps.
-
-## The subsidy floor is non-negotiable
-
-Across every scenario, every technology pathway, every assumption set, subsidies below $200/tCO2 produced essentially no deployment. The range of $200–330/tCO2 isn't a ceiling to aim for — it's a floor below which nothing happens.
-
-And these subsidies can't be a five-year experiment. The researchers found that stop-and-start funding destroys learning curves. DAC technology costs decline through deployment, and deployment requires sustained financial support measured in decades, not election cycles.
-
-## The giant asterisk
-
-Here's where it gets uncomfortable for DAC maximalists: without aggressive emission reductions, DAC subsidies become a money pit. The economics only work when DAC supplements deep decarbonization, not when it substitutes for it.
-
-Pair DAC with strong climate policy? The $900B–$3T investment generates net positive returns by 2050. Use DAC as an excuse to keep emitting? The same investment becomes a bottomless hole.
-
-This is a policy paper dressed as a technology paper. The researchers aren't saying DAC doesn't work. They're saying DAC works inside a system where emissions are falling — and falls apart outside that system.
-
-## What this means
-
-For policymakers: commit to sustained subsidies above $200/tCO2. The US 45Q tax credit maxes out at $180/tCO2. That's below the floor. Europe's subsidies are fragmented. Nobody is currently meeting the bar this paper sets.
-
-For investors: the technology risk is manageable. The policy risk is enormous. Your DAC bet is really a bet on whether governments can maintain climate policy for 20+ years.
-
-For everyone else: DAC is expensive, uncertain, and worth funding — in a world that's also cutting emissions. All three of those things are true at once.
-
-**Source:** [Chiani et al. (2026), arXiv](https://arxiv.org/html/2603.19143)
-
----
-
-### 🔗 Related Reading
-
-- [$3.5B in DAC Hubs Are Stuck in Political Limbo](/posts/doe-dac-hubs-stalled-audit/)
-- [500MW Solar for Stratos DAC Plant](/posts/2026-02-25-500mw-solar-for-stratos-dac/)
-- [Georgia Tech's CDR Transparency Research](/posts/georgia-tech-cdr-transparency-research/)
-- [Tapestry Signs 10-Year Climeworks DAC Deal](/posts/tapestry-climeworks-10-year-dac-deal/)
+<p>Subsidies for direct air capture must exceed $200–330 per ton of CO2 and be sustained for decades. That&rsquo;s not an activist estimate — it&rsquo;s the central finding of the first rigorous uncertainty analysis of DACCS scaling, published by researchers at Politecnico di Milano and ETH Zurich.</p><p>The total public bill? Between $900 billion and $3 trillion.</p><p>Before you close this tab: the investment pays back by mid-century. But only if — and this &ldquo;if&rdquo; is load-bearing — we simultaneously cut emissions hard.</p><h2 id=what-the-paper-actually-did>What the paper actually did<a hidden class=anchor aria-hidden=true href=#what-the-paper-actually-did>#</a></h2><p>Chiani et al. ran a global sensitivity analysis on DACCS deployment using the WITCH integrated assessment model. They tested three technology pathways: liquid solvent systems, solid sorbent systems, and CaO ambient weathering. Then they threw uncertainty ranges at everything — technology costs, learning rates, energy prices, policy trajectories — and asked: what does the probability distribution of DAC deployment actually look like?</p><p>The answer is humbling. Most scenarios show modest DAC uptake. The distribution has fat tails: there&rsquo;s only a 4–6% probability of reaching gigaton-scale removal by mid-century. That&rsquo;s not zero, but it&rsquo;s a long way from the confident gigaton projections you see in climate roadmaps.</p><h2 id=the-subsidy-floor-is-non-negotiable>The subsidy floor is non-negotiable<a hidden class=anchor aria-hidden=true href=#the-subsidy-floor-is-non-negotiable>#</a></h2><p>Across every scenario, every technology pathway, every assumption set, subsidies below $200/tCO2 produced essentially no deployment. The range of $200–330/tCO2 isn&rsquo;t a ceiling to aim for — it&rsquo;s a floor below which nothing happens.</p><p>And these subsidies can&rsquo;t be a five-year experiment. The researchers found that stop-and-start funding destroys learning curves. DAC technology costs decline through deployment, and deployment requires sustained financial support measured in decades, not election cycles.</p><h2 id=the-giant-asterisk>The giant asterisk<a hidden class=anchor aria-hidden=true href=#the-giant-asterisk>#</a></h2><p>Here&rsquo;s where it gets uncomfortable for DAC maximalists: without aggressive emission reductions, DAC subsidies become a money pit. The economics only work when DAC supplements deep decarbonization, not when it substitutes for it.</p><p>Pair DAC with strong climate policy? The $900B–$3T investment generates net positive returns by 2050. Use DAC as an excuse to keep emitting? The same investment becomes a bottomless hole.</p><p>This is a policy paper dressed as a technology paper. The researchers aren&rsquo;t saying DAC doesn&rsquo;t work. They&rsquo;re saying DAC works inside a system where emissions are falling — and falls apart outside that system.</p><h2 id=what-this-means>What this means<a hidden class=anchor aria-hidden=true href=#what-this-means>#</a></h2><p>For policymakers: commit to sustained subsidies above $200/tCO2. The US 45Q tax credit maxes out at $180/tCO2. That&rsquo;s below the floor. Europe&rsquo;s subsidies are fragmented. Nobody is currently meeting the bar this paper sets.</p><p>For investors: the technology risk is manageable. The policy risk is enormous. Your DAC bet is really a bet on whether governments can maintain climate policy for 20+ years.</p><p>For everyone else: DAC is expensive, uncertain, and worth funding — in a world that&rsquo;s also cutting emissions. All three of those things are true at once.</p><p><strong>Source:</strong> <a href=https://arxiv.org/html/2603.19143>Chiani et al. (2026), arXiv</a></p><hr><h3 id=-related-reading>🔗 Related Reading<a hidden class=anchor aria-hidden=true href=#-related-reading>#</a></h3><ul><li><a href=/posts/doe-dac-hubs-stalled-audit/>$3.5B in DAC Hubs Are Stuck in Political Limbo</a></li><li><a href=/posts/500mw-solar-for-stratos-dac/>500MW Solar for Stratos DAC Plant</a></li><li><a href=/posts/georgia-tech-cdr-transparency-research/>Georgia Tech&rsquo;s CDR Transparency Research</a></li><li><a href=/posts/tapestry-climeworks-10-year-dac-deal/>Tapestry Signs 10-Year Climeworks DAC Deal</a></li></ul>

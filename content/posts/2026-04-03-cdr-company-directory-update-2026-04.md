@@ -1,71 +1,13 @@
 ---
 title: "CDR Company Directory Update — April 2026"
 date: 2026-04-03T08:00:00Z
-draft: false
-slug: cdr-company-directory-update-2026-04
-aliases: ["/s/203"]
 description: "The CDR Company Directory now tracks 825 companies. 4 new additions in April 2026 span 4 CDR pathways across 4 countries."
-tags: ["CDR", "Carbon Removal", "Directory", "Companies"]
+tags: ["news"]
+slug: "cdr-company-directory-update-2026-04"
+author: "CaptainDrawdown"
 cover:
   image: "/images/posts/cdr-company-directory-update-2026-04.png"
   alt: "CDR Company Directory Update — April 2026"
   hidden: false
 ---
-
-The [CaptainDrawdown CDR Company Directory](/directory/) has grown to **825 companies** — the most comprehensive public database of active carbon removal organizations worldwide.
-
-This month's update adds **4 new entries** spanning 4 CDR pathways and 4 countries.
-
-## New Additions by Category
-
-- **Direct Air Capture**: 1 new
-- **Industrial Process**: 1 new
-- **Nature-Based**: 1 new
-- **Carbon Market Infrastructure**: 1 new
-
-## Geographic Spread
-
-- **United States**: 1 new
-- **United Kingdom**: 1 new
-- **Sierra Leone**: 1 new
-- **Switzerland**: 1 new
-
-
-## Notable Additions
-
-### [Ctrl-S](/directory/ctrl-s/)
-Ctrl-S is a startup focused on salvaging and preserving valuable IP, experimental data, and 'negative learnings' from direct air capture companies that fail or pivot. By acquiring this IP and making it accessible to materials-discovery AI models and new entrants, Ctrl-S aims to accelerate DAC develo
-
-**Website:** [https://heatmap.news/carbon-removal/ctrl-s-direct-air-capture](https://heatmap.news/carbon-removal/ctrl-s-direct-air-capture)
-
-### [Cocoon Carbon](/directory/cocoon-carbon/)
-London-based Cocoon Carbon (founded 2023) converts electric arc furnace slag into LoopCem™, a scalable low-carbon supplementary cementitious material (SCM) that cuts concrete's embodied CO₂ by up to 40%. The process cools molten slag up to 100× faster than conventional granulation, producing a relia
-
-**Website:** [https://www.cocooncarbon.com](https://www.cocooncarbon.com)
-
-### [Rainforest Builder](/directory/rainforest-builder/)
-Rainforest Builder is a fully integrated tropical forest restoration company operating in West Africa, focused on large-scale ecosystem recovery. In February 2026, it signed one of the largest African CDR offtake agreements to date: delivering up to 1.8 million carbon removal credits to Microsoft ov
-
-**Website:** [https://www.rainforestbuilder.com](https://www.rainforestbuilder.com)
-
-### [ClimeFi](/directory/climefi/)
-ClimeFi is a Zurich-based CDR portfolio manager and carbon removal intelligence platform. It helps corporate buyers contract, purchase, and manage CDR across all durable removal pathways (DAC, BiCRS, mineralization). Notably, it structured the first Article 6.2 ITMO CDR transfer between Switzerland 
-
-**Website:** [https://www.climefi.com](https://www.climefi.com)
-
-
-
-## About the Directory
-
-The CDR Company Directory is continuously updated as new companies are identified across news sources, scientific papers, LinkedIn, and industry databases. Every company is manually reviewed and categorized before inclusion.
-
-Browse the full directory: [captaindrawdown.com/directory/](/directory/)
-
----
-
-### 🔗 Related Reading
-
-- [How We Built a 734-Company CDR Directory in One Afternoon](/posts/how-we-built-the-cdr-directory/)
-- [I Gave 819 CDR Companies a Health Check — Here's What I Found](/posts/cdr-directory-health-check-march-2026/)
-- [6,321 People: How Big Is the CDR Workforce, Really?](/posts/cdr-workforce-how-big-is-carbon-removal/)
-- [What Is Enhanced Weathering? A Primer](/posts/what-is-enhanced-weathering/)
+<p>The <a href=/directory/>CaptainDrawdown CDR Company Directory</a> has grown to <strong>825 companies</strong> — the most comprehensive public database of active carbon removal organizations worldwide.</p><p>This month&rsquo;s update adds <strong>4 new entries</strong> spanning 4 CDR pathways and 4 countries.</p><h2 id=new-additions-by-category>New Additions by Category<a hidden class=anchor aria-hidden=true href=#new-additions-by-category>#</a></h2><ul><li><strong>Direct Air Capture</strong>: 1 new</li><li><strong>Industrial Process</strong>: 1 new</li><li><strong>Nature-Based</strong>: 1 new</li><li><strong>Carbon Market Infrastructure</strong>: 1 new</li></ul><h2 id=geographic-spread>Geographic Spread<a hidden class=anchor aria-hidden=true href=#geographic-spread>#</a></h2><ul><li><strong>United States</strong>: 1 new</li><li><strong>United Kingdom</strong>: 1 new</li><li><strong>Sierra Leone</strong>: 1 new</li><li><strong>Switzerland</strong>: 1 new</li></ul><h2 id=notable-additions>Notable Additions<a hidden class=anchor aria-hidden=true href=#notable-additions>#</a></h2><h3 id=ctrl-s><a href=/directory/ctrl-s/>Ctrl-S</a><a hidden class=anchor aria-hidden=true href=#ctrl-s>#</a></h3><p>Ctrl-S is a startup focused on salvaging and preserving valuable IP, experimental data, and &rsquo;negative learnings&rsquo; from direct air capture companies that fail or pivot. By acquiring this IP and making it accessible to materials-discovery AI models and new entrants, Ctrl-S aims to accelerate DAC develo</p><p><strong>Website:</strong> <a href=https://heatmap.news/carbon-removal/ctrl-s-direct-air-capture>https://heatmap.news/carbon-removal/ctrl-s-direct-air-capture</a></p><h3 id=cocoon-carbon><a href=/directory/cocoon-carbon/>Cocoon Carbon</a><a hidden class=anchor aria-hidden=true href=#cocoon-carbon>#</a></h3><p>London-based Cocoon Carbon (founded 2023) converts electric arc furnace slag into LoopCem™, a scalable low-carbon supplementary cementitious material (SCM) that cuts concrete&rsquo;s embodied CO₂ by up to 40%. The process cools molten slag up to 100× faster than conventional granulation, producing a relia</p><p><strong>Website:</strong> <a href=https://www.cocooncarbon.com>https://www.cocooncarbon.com</a></p><h3 id=rainforest-builder><a href=/directory/rainforest-builder/>Rainforest Builder</a><a hidden class=anchor aria-hidden=true href=#rainforest-builder>#</a></h3><p>Rainforest Builder is a fully integrated tropical forest restoration company operating in West Africa, focused on large-scale ecosystem recovery. In February 2026, it signed one of the largest African CDR offtake agreements to date: delivering up to 1.8 million carbon removal credits to Microsoft ov</p><p><strong>Website:</strong> <a href=https://www.rainforestbuilder.com>https://www.rainforestbuilder.com</a></p><h3 id=climefi><a href=/directory/climefi/>ClimeFi</a><a hidden class=anchor aria-hidden=true href=#climefi>#</a></h3><p>ClimeFi is a Zurich-based CDR portfolio manager and carbon removal intelligence platform. It helps corporate buyers contract, purchase, and manage CDR across all durable removal pathways (DAC, BiCRS, mineralization). Notably, it structured the first Article 6.2 ITMO CDR transfer between Switzerland</p><p><strong>Website:</strong> <a href=https://www.climefi.com>https://www.climefi.com</a></p><h2 id=about-the-directory>About the Directory<a hidden class=anchor aria-hidden=true href=#about-the-directory>#</a></h2><p>The CDR Company Directory is continuously updated as new companies are identified across news sources, scientific papers, LinkedIn, and industry databases. Every company is manually reviewed and categorized before inclusion.</p><p>Browse the full directory: <a href=/directory/>captaindrawdown.com/directory/</a></p><hr><h3 id=-related-reading>🔗 Related Reading<a hidden class=anchor aria-hidden=true href=#-related-reading>#</a></h3><ul><li><a href=/posts/how-we-built-the-cdr-directory/>How We Built a 734-Company CDR Directory in One Afternoon</a></li><li><a href=/posts/cdr-directory-health-check-march-2026/>I Gave 819 CDR Companies a Health Check — Here&rsquo;s What I Found</a></li><li><a href=/posts/cdr-workforce-how-big-is-carbon-removal/>6,321 People: How Big Is the CDR Workforce, Really?</a></li><li><a href=/posts/what-is-enhanced-weathering/>What Is Enhanced Weathering? A Primer</a></li></ul>

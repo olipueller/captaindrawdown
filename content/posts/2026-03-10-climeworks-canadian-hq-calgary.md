@@ -1,53 +1,13 @@
 ---
 title: "Climeworks Plants Its Flag in Calgary"
-date: 2026-03-10
-slug: climeworks-canadian-hq-calgary
-aliases: ["/s/45"]
+date: 2026-03-10T00:00:00Z
 description: "The Swiss DAC pioneer opens its Canadian headquarters in Calgary, with plans for what could become its largest direct air capture facility in Alberta."
-pillar: "news"
-tags: ["DAC", "Climeworks", "Canada"]
+tags: ["news"]
+slug: "climeworks-canadian-hq-calgary"
+author: "CaptainDrawdown"
 cover:
-  image: /images/posts/20260310-02.png
+  image: "/images/posts/climeworks-canadian-hq-calgary.png"
   alt: "Climeworks Plants Its Flag in Calgary"
   hidden: false
 ---
-
-Climeworks — the Swiss company that built the world's first commercial direct air capture plants — just opened its Canadian headquarters in Calgary. And it's not just a symbolic office: they're planning what could become the company's largest DAC facility anywhere.
-
-## The Alberta Play
-
-A small team is already working out of the Energy Transition Centre in downtown Calgary. By fall, Climeworks will deploy a mobile testing unit (currently being tested in Saudi Arabia) to see how its technology handles Alberta's extreme cold. If you're going to run a DAC plant through a Canadian winter, you'd better test it first.
-
-The real prize is a full-scale plant somewhere in Alberta. Climeworks co-founder Christoph Gebald says it could exceed Mammoth, their current flagship in Iceland, which targets 36,000 tonnes of CO₂ removal per year.
-
-## Why Calgary?
-
-Alberta checks several boxes for DAC deployment:
-
-- **Abundant clean electricity** — crucial for energy-intensive DAC
-- **Geological storage options** — deep saline aquifers and depleted oil and gas reservoirs for permanent CO₂ sequestration
-- **Existing industrial infrastructure** — pipelines, engineering expertise, regulatory familiarity with subsurface operations
-- **Government support** — Canada has invested heavily in CDR, including the new Advance Carbon Removal Coalition backed by BMO, RBC, and Shopify
-
-It's also a strategic hedge. With $1.2B in US DAC hub funding recently cancelled by Washington, Canada suddenly looks a lot more attractive for DAC investment.
-
-## From Iceland to North America
-
-Climeworks currently operates two plants in Iceland: Orca and Mammoth. Both use geothermal energy and inject captured CO₂ into basalt, where it mineralizes. Alberta would require a different storage approach — likely deep geological injection — but the capture technology transfers.
-
-CDI has [invested in Climeworks](https://www.carbon-drawdown.de/blog/2025-8-4-portfolio-spotlight-climeworks) and continues to track their scaling path closely.
-
-The DAC industry needs more than one viable region. If Climeworks can make Alberta work, it proves DAC isn't just an Icelandic story — it's a global one.
-
----
-
-*Sources: [CBC News](https://www.cbc.ca/news/canada/calgary/climeworks-calgary-headquarters-9.7116077), [Energy Conference Network](https://energyconferencenetwork.com/climeworks-establishes-canadian-headquarters-in-calgary/)*
-
----
-
-### 🔗 Related Reading
-
-- [Climeworks Opens Calgary HQ — Cold-Climate DAC Testing by Fall 2026](/posts/climeworks-calgary-hq-cold-climate-dac/)
-- [500MW of Solar for the World's Largest DAC Plant](/posts/2026-02-25-500mw-solar-for-stratos-dac/)
-- [Hamburg Breaks Ground on DACMA: German DAC Engineering Goes Global](/posts/dacma-hamburg-dac-competence-center/)
-- [Mercedes F1 Goes All-In on Carbon Removal — 7 New Projects Across 6 Pathways](/posts/2026-03-05-mercedes-f1-cdr-portfolio/)
+<p>Climeworks — the Swiss company that built the world&rsquo;s first commercial direct air capture plants — just opened its Canadian headquarters in Calgary. And it&rsquo;s not just a symbolic office: they&rsquo;re planning what could become the company&rsquo;s largest DAC facility anywhere.</p><h2 id=the-alberta-play>The Alberta Play<a hidden class=anchor aria-hidden=true href=#the-alberta-play>#</a></h2><p>A small team is already working out of the Energy Transition Centre in downtown Calgary. By fall, Climeworks will deploy a mobile testing unit (currently being tested in Saudi Arabia) to see how its technology handles Alberta&rsquo;s extreme cold. If you&rsquo;re going to run a DAC plant through a Canadian winter, you&rsquo;d better test it first.</p><p>The real prize is a full-scale plant somewhere in Alberta. Climeworks co-founder Christoph Gebald says it could exceed Mammoth, their current flagship in Iceland, which targets 36,000 tonnes of CO₂ removal per year.</p><h2 id=why-calgary>Why Calgary?<a hidden class=anchor aria-hidden=true href=#why-calgary>#</a></h2><p>Alberta checks several boxes for DAC deployment:</p><ul><li><strong>Abundant clean electricity</strong> — crucial for energy-intensive DAC</li><li><strong>Geological storage options</strong> — deep saline aquifers and depleted oil and gas reservoirs for permanent CO₂ sequestration</li><li><strong>Existing industrial infrastructure</strong> — pipelines, engineering expertise, regulatory familiarity with subsurface operations</li><li><strong>Government support</strong> — Canada has invested heavily in CDR, including the new Advance Carbon Removal Coalition backed by BMO, RBC, and Shopify</li></ul><p>It&rsquo;s also a strategic hedge. With $1.2B in US DAC hub funding recently cancelled by Washington, Canada suddenly looks a lot more attractive for DAC investment.</p><h2 id=from-iceland-to-north-america>From Iceland to North America<a hidden class=anchor aria-hidden=true href=#from-iceland-to-north-america>#</a></h2><p>Climeworks currently operates two plants in Iceland: Orca and Mammoth. Both use geothermal energy and inject captured CO₂ into basalt, where it mineralizes. Alberta would require a different storage approach — likely deep geological injection — but the capture technology transfers.</p><p>CDI has <a href=https://www.carbon-drawdown.de/blog/2025-8-4-portfolio-spotlight-climeworks>invested in Climeworks</a> and continues to track their scaling path closely.</p><p>The DAC industry needs more than one viable region. If Climeworks can make Alberta work, it proves DAC isn&rsquo;t just an Icelandic story — it&rsquo;s a global one.</p><hr><p><em>Sources: <a href=https://www.cbc.ca/news/canada/calgary/climeworks-calgary-headquarters-9.7116077>CBC News</a>, <a href=https://energyconferencenetwork.com/climeworks-establishes-canadian-headquarters-in-calgary/>Energy Conference Network</a></em></p><hr><h3 id=-related-reading>🔗 Related Reading<a hidden class=anchor aria-hidden=true href=#-related-reading>#</a></h3><ul><li><a href=/posts/climeworks-calgary-hq-cold-climate-dac/>Climeworks Opens Calgary HQ — Cold-Climate DAC Testing by Fall 2026</a></li><li><a href=/posts/500mw-solar-for-stratos-dac/>500MW of Solar for the World&rsquo;s Largest DAC Plant</a></li><li><a href=/posts/dacma-hamburg-dac-competence-center/>Hamburg Breaks Ground on DACMA: German DAC Engineering Goes Global</a></li><li><a href=/posts/mercedes-f1-cdr-portfolio/>Mercedes F1 Goes All-In on Carbon Removal — 7 New Projects Across 6 Pathways</a></li></ul>

@@ -1,61 +1,13 @@
 ---
 title: "The EU Just Built the World's First Government CDR Credit Label"
 date: 2026-03-14T00:04:00+01:00
-draft: false
-slug: eu-crcf-carbon-removal-certification
-aliases: ["/s/75"]
-description: "The EU's Carbon Removals and Carbon Farming Regulation creates the first government-backed certification for carbon removal credits — and it could reshape the entire market."
-pillar: "global"
-tags: ["EU", "CRCF", "certification", "carbon credits", "policy", "market"]
+description: "The EU's Carbon Removals and Carbon Farming Regulation creates the first government-backed certification for carbon removal credits — and it could reshape the e"
+tags: ["news"]
+slug: "eu-crcf-carbon-removal-certification"
+author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/20260314-09.png"
+  image: "/images/posts/eu-crcf-carbon-removal-certification.png"
   alt: "The EU Just Built the World's First Government CDR Credit Label"
   hidden: false
 ---
-
-While Verra and Gold Standard debate methodology updates, the EU quietly did something no government has done before: it created a **government-backed certification label for carbon removal credits**.
-
-The **Carbon Removals and Carbon Farming Regulation ([CRCF](/posts/2026-03-06-eu-first-cdr-certification-standard/))** — adopted in December 2024, with first certification methodologies published in February 2026 — establishes a voluntary framework for certifying carbon removals and soil emissions reductions.
-
-## What Makes This Different
-
-Every existing carbon credit certification (Verra's VCS, ICVCM's Core Carbon Principles, Puro.earth) is run by private organizations. The [CRCF](/posts/2026-03-06-eu-first-cdr-certification-standard/) is the first where:
-
-- Certification occurs through **government-accredited certifiers**
-- Methodologies are established by **delegated acts** (i.e., formal EU legislation)
-- There's a clear pathway to **ETS integration** — the Commission must assess by July 2026 how permanently stored carbon removals can be integrated into the EU Emissions Trading System
-
-If [CRCF](/posts/2026-03-06-eu-first-cdr-certification-standard/) credits become ETS-eligible, that would create the world's first compliance market pathway for engineered CDR.
-
-## Three Categories
-
-The [CRCF](/posts/2026-03-06-eu-first-cdr-certification-standard/) differentiates between:
-
-1. **Permanent carbon removal** — storage for several centuries (think geological storage, mineralization)
-2. **Carbon storage in products** — processes that store carbon for at least 35 years (like biochar in concrete)
-3. **Carbon farming** — practices over at least 5 years on terrestrial or coastal environments
-
-The first delegated act covers permanent removal methodologies. Carbon farming methodologies are expected by **summer 2026**, with bio-based construction products close behind.
-
-## Why CDR Companies Should Pay Attention
-
-The [CRCF](/posts/2026-03-06-eu-first-cdr-certification-standard/) is voluntary — certification schemes can seek EU recognition but don't have to. But there are compelling reasons to opt in:
-
-- **Price premiums** — government-backed verification could command higher prices than private labels
-- **ETS eligibility** — if the Commission integrates [CRCF](/posts/2026-03-06-eu-first-cdr-certification-standard/) credits into the ETS, certified credits would access the world's largest carbon market
-- **Regulatory alignment** — the EU's 2040 climate target (90% emissions reduction) explicitly references carbon removals, and [CRCF](/posts/2026-03-06-eu-first-cdr-certification-standard/) provides the accounting framework
-
-The timing is deliberate. As the voluntary carbon market cleans house after years of credibility issues, a government-backed standard could accelerate the flight to quality.
-
-**Source:** [Latham & Watkins / Global ELR](https://www.globalelr.com/2026/03/carbon-removals-and-carbon-farming-recent-eu-developments/) · [Arbonics](https://arbonics.substack.com/p/februarys-headlines-insights-from)
-
----
-
----
-
-### 🔗 Related Reading
-
-- [EU's Carbon Removal Certification Framework Gets Its First Methodologies](/posts/eu-crcf-certification-methodologies/)
-- [The EU's Carbon Removal Certification Framework Gets Its Technical Rulebook](/posts/eu-crcf-technical-rules-certification/)
-- [The EU's Industrial Accelerator Act: What It Means for Carbon Removal](/posts/eu-industrial-accelerator-act/)
-- [EU Launches World's First Voluntary Standard for Permanent Carbon Removals](/posts/eu-first-cdr-certification-standard/)
+<p>While Verra and Gold Standard debate methodology updates, the EU quietly did something no government has done before: it created a <strong>government-backed certification label for carbon removal credits</strong>.</p><p>The <strong>Carbon Removals and Carbon Farming Regulation (<a href=/posts/eu-first-cdr-certification-standard/>CRCF</a>)</strong> — adopted in December 2024, with first certification methodologies published in February 2026 — establishes a voluntary framework for certifying carbon removals and soil emissions reductions.</p><h2 id=what-makes-this-different>What Makes This Different<a hidden class=anchor aria-hidden=true href=#what-makes-this-different>#</a></h2><p>Every existing carbon credit certification (Verra&rsquo;s VCS, ICVCM&rsquo;s Core Carbon Principles, Puro.earth) is run by private organizations. The <a href=/posts/eu-first-cdr-certification-standard/>CRCF</a> is the first where:</p><ul><li>Certification occurs through <strong>government-accredited certifiers</strong></li><li>Methodologies are established by <strong>delegated acts</strong> (i.e., formal EU legislation)</li><li>There&rsquo;s a clear pathway to <strong>ETS integration</strong> — the Commission must assess by July 2026 how permanently stored carbon removals can be integrated into the EU Emissions Trading System</li></ul><p>If <a href=/posts/eu-first-cdr-certification-standard/>CRCF</a> credits become ETS-eligible, that would create the world&rsquo;s first compliance market pathway for engineered CDR.</p><h2 id=three-categories>Three Categories<a hidden class=anchor aria-hidden=true href=#three-categories>#</a></h2><p>The <a href=/posts/eu-first-cdr-certification-standard/>CRCF</a> differentiates between:</p><ol><li><strong>Permanent carbon removal</strong> — storage for several centuries (think geological storage, mineralization)</li><li><strong>Carbon storage in products</strong> — processes that store carbon for at least 35 years (like biochar in concrete)</li><li><strong>Carbon farming</strong> — practices over at least 5 years on terrestrial or coastal environments</li></ol><p>The first delegated act covers permanent removal methodologies. Carbon farming methodologies are expected by <strong>summer 2026</strong>, with bio-based construction products close behind.</p><h2 id=why-cdr-companies-should-pay-attention>Why CDR Companies Should Pay Attention<a hidden class=anchor aria-hidden=true href=#why-cdr-companies-should-pay-attention>#</a></h2><p>The <a href=/posts/eu-first-cdr-certification-standard/>CRCF</a> is voluntary — certification schemes can seek EU recognition but don&rsquo;t have to. But there are compelling reasons to opt in:</p><ul><li><strong>Price premiums</strong> — government-backed verification could command higher prices than private labels</li><li><strong>ETS eligibility</strong> — if the Commission integrates <a href=/posts/eu-first-cdr-certification-standard/>CRCF</a> credits into the ETS, certified credits would access the world&rsquo;s largest carbon market</li><li><strong>Regulatory alignment</strong> — the EU&rsquo;s 2040 climate target (90% emissions reduction) explicitly references carbon removals, and <a href=/posts/eu-first-cdr-certification-standard/>CRCF</a> provides the accounting framework</li></ul><p>The timing is deliberate. As the voluntary carbon market cleans house after years of credibility issues, a government-backed standard could accelerate the flight to quality.</p><p><strong>Source:</strong> <a href=https://www.globalelr.com/2026/03/carbon-removals-and-carbon-farming-recent-eu-developments/>Latham & Watkins / Global ELR</a> · <a href=https://arbonics.substack.com/p/februarys-headlines-insights-from>Arbonics</a></p><hr><hr><h3 id=-related-reading>🔗 Related Reading<a hidden class=anchor aria-hidden=true href=#-related-reading>#</a></h3><ul><li><a href=/posts/eu-crcf-certification-methodologies/>EU&rsquo;s Carbon Removal Certification Framework Gets Its First Methodologies</a></li><li><a href=/posts/eu-crcf-technical-rules-certification/>The EU&rsquo;s Carbon Removal Certification Framework Gets Its Technical Rulebook</a></li><li><a href=/posts/eu-industrial-accelerator-act/>The EU&rsquo;s Industrial Accelerator Act: What It Means for Carbon Removal</a></li><li><a href=/posts/eu-first-cdr-certification-standard/>EU Launches World&rsquo;s First Voluntary Standard for Permanent Carbon Removals</a></li></ul>

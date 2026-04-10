@@ -1,0 +1,47 @@
+---
+title: "Dhirender Kumar"
+description: "Dhirender Kumar is a mid-career researcher at Dr. Yashwant Singh Parmar University of Horticulture and Forestry specializing in General CDR"
+url: "/cdr-researcher-census/researchers/dhirender-kumar-64777134/"
+type: "census"
+---
+
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"Person","name":"Dhirender Kumar","affiliation":{"@type":"Organization","name":"Dr. Yashwant Singh Parmar University of Horticulture and Forestry"},"url":"https://www.captaindrawdown.com/cdr-researcher-census/researchers/dhirender-kumar-64777134/"}
+</script>
+
+## 🇮🇳 Dhirender Kumar
+
+**Dr. Yashwant Singh Parmar University of Horticulture and Forestry** (IN)
+
+**Career Stage:** Mid-career
+**CDR Pathway:** General CDR
+**Trajectory:** Exiting
+**Data Confidence:** confirmed
+
+<table class="metrics-table">
+<tr><th>Metric</th><th>Value</th></tr>
+<tr><td>h-index</td><td>12</td></tr>
+<tr><td>Total Citations</td><td>577</td></tr>
+<tr><td>Total Publications</td><td>40</td></tr>
+<tr><td>CDR Focus</td><td>12%</td></tr>
+<tr><td>First CDR Paper</td><td>2014</td></tr>
+</table>
+
+## Top CDR Publications
+
+- **Biomass Production and Carbon Sequestration Potential of Different Agroforestry Systems in India: A Critical Review** (2022) — 86 citations
+- **Agroforestry systems in the mid-hills of the north-western Himalaya: A sustainable pathway to improved soil health and climate resilience** (2023) — 24 citations
+- **Carbon density and C‐sequestration of tree plantation ecosystems in the mid‐hills of the <scp>NW‐</scp>Himalayas: Implications for climate change mitigation** (2022) — 19 citations
+- **Carbon stock inventory and biomass production in different land use systems of Northwestern Himalaya** (2023) — 6 citations
+- **Biomass Partitioning, Carbon Storage, and Pea (Pisum sativum L.) Crop Production under a Grewia optiva-Based Agroforestry System in the Mid-Hills of the Northwestern Himalayas** (2024) — 3 citations
+
+
+## External Links
+
+- [ORCID Profile](https://orcid.org/https://orcid.org/0000-0002-1130-286X)
+- [OpenAlex Profile](https://openalex.org/authors/https://openalex.org/A5064777134)
+
+
+---
+
+*Data from [OpenAlex](https://openalex.org) enriched with [ORCID](https://orcid.org). Part of the [CDR Researcher Census](/cdr-researcher-census/).*

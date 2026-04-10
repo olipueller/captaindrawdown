@@ -1,58 +1,13 @@
 ---
 title: "Autonomous Rovers + Microwaves + Mining Waste = Carbon Removal. Arca Climate's Wild Tech Stack."
-date: 2026-03-25
-slug: arca-climate-rovers-mining-waste-cdr
-aliases: ["/s/143"]
-description: "Vancouver's Arca Climate is turning mining waste into a carbon removal asset using autonomous rovers, smart churning, and microwave mineral activation. Their 18-month pilot showed 10-20x more CO₂ absorption."
-pillar: technology
-tags:
-  - technology
-  - enhanced weathering
-  - mining
-  - carbon removal
-  - autonomous vehicles
-  - mineralization
-  - Canada
-  - Arca Climate
+date: 2026-03-25T00:00:00Z
+description: "Vancouver's Arca Climate is turning mining waste into a carbon removal asset using autonomous rovers, smart churning, and microwave mineral activation. Their 18"
+tags: ["news"]
+slug: "arca-climate-rovers-mining-waste-cdr"
+author: "CaptainDrawdown"
 cover:
-  image: /images/posts/20260325-04.png
+  image: "/images/posts/arca-climate-rovers-mining-waste-cdr.png"
+  alt: "Autonomous Rovers + Microwaves + Mining Waste = Carbon Removal. Arca Climate's Wild Tech Stack."
+  hidden: false
 ---
-
-If you told me a climate startup was using autonomous rovers and microwaves to turn mining waste into a carbon sink, I'd assume it was a pitch deck fever dream. But Arca Climate is actually doing it — and the pilot data is impressive.
-
-The Vancouver-based company, born from [UBC research](https://www.ubc.ca/), is led by a team with serious geological credentials. Co-founder Greg Dipple has spent 20+ years at UBC studying ultramafic rocks — the magnesium-rich minerals that naturally pull CO₂ from the air and lock it away for thousands of years through mineral carbonation. Co-founders Peter Scheuermann and Bethany Ladd round out the leadership.
-
-## The Three-Part Tech Stack
-
-Arca's approach has three components, and each one is interesting on its own:
-
-**1. Measurement rovers.** Sensor-equipped autonomous rovers map mine tailings piles to identify exactly where and how much carbonation is happening. You can't optimize what you can't measure, and tailings piles are massive, heterogeneous environments.
-
-**2. Smart churning.** The same rovers plow through mine tailings to expose deeper layers to air. Most carbonation happens at the surface where minerals contact atmospheric CO₂. By mechanically turning the material, Arca dramatically increases the reactive surface area — think of it like aerating soil, but for rocks.
-
-**3. Mineral activation.** This is the wild part. Arca uses microwave technology to activate ultramafic minerals, increasing their reactivity to CO₂. Greg Dipple describes it as "making microwave popcorn out of ultramafic minerals." The microwaves change the mineral structure in ways that accelerate the natural carbonation process.
-
-## The Pilot Results
-
-Arca ran an 18-month pilot at an active nickel mine in Australia. The result: **10-20x more CO₂ absorption** compared to natural, unassisted weathering. That's not incremental improvement — that's a step change.
-
-The company generates verified CDR credits for mining companies, which is the business model that makes this scalable. Mining companies already have the waste rock. They already have the disturbed land. They already have the infrastructure. Arca just adds the intelligence layer that turns a liability into a revenue stream.
-
-## Why This Economics Work
-
-[Enhanced weathering](/posts/what-is-enhanced-weathering/) is one of the most promising CDR pathways, but it typically requires mining, crushing, and transporting rock — all of which cost money and emit carbon. Arca sidesteps the biggest cost barriers because:
-
-- **The rock is already crushed.** Mine tailings are finely ground waste material.
-- **The land is already disturbed.** No new environmental footprint required.
-- **The infrastructure exists.** Roads, power, personnel — it's all there.
-- **The mining company is motivated.** Tailings are a liability (remediation costs, acid mine drainage risk). Turning them into CDR credits flips the economics.
-
-This is what smart CDR deployment looks like: find places where the physics already works, where the material is already prepared, and where you're solving someone else's problem while solving the climate's.
-
-The 10-20x acceleration result needs to be validated at larger scale, but if it holds up, Arca has a pathway to millions of tonnes of permanent, verified carbon removal — from rock that's just sitting there.
-
-**Mining companies have spent decades creating the world's largest collection of pre-crushed, carbon-hungry minerals. Arca just figured out how to wake them up.**
-
----
-
-*Sources: [BCBusiness](https://www.bcbusiness.ca/); UBC Geological Sciences; Arca Climate pilot data.*
+<p>If you told me a climate startup was using autonomous rovers and microwaves to turn mining waste into a carbon sink, I&rsquo;d assume it was a pitch deck fever dream. But Arca Climate is actually doing it — and the pilot data is impressive.</p><p>The Vancouver-based company, born from <a href=https://www.ubc.ca/>UBC research</a>, is led by a team with serious geological credentials. Co-founder Greg Dipple has spent 20+ years at UBC studying ultramafic rocks — the magnesium-rich minerals that naturally pull CO₂ from the air and lock it away for thousands of years through mineral carbonation. Co-founders Peter Scheuermann and Bethany Ladd round out the leadership.</p><h2 id=the-three-part-tech-stack>The Three-Part Tech Stack<a hidden class=anchor aria-hidden=true href=#the-three-part-tech-stack>#</a></h2><p>Arca&rsquo;s approach has three components, and each one is interesting on its own:</p><p><strong>1. Measurement rovers.</strong> Sensor-equipped autonomous rovers map mine tailings piles to identify exactly where and how much carbonation is happening. You can&rsquo;t optimize what you can&rsquo;t measure, and tailings piles are massive, heterogeneous environments.</p><p><strong>2. Smart churning.</strong> The same rovers plow through mine tailings to expose deeper layers to air. Most carbonation happens at the surface where minerals contact atmospheric CO₂. By mechanically turning the material, Arca dramatically increases the reactive surface area — think of it like aerating soil, but for rocks.</p><p><strong>3. Mineral activation.</strong> This is the wild part. Arca uses microwave technology to activate ultramafic minerals, increasing their reactivity to CO₂. Greg Dipple describes it as &ldquo;making microwave popcorn out of ultramafic minerals.&rdquo; The microwaves change the mineral structure in ways that accelerate the natural carbonation process.</p><h2 id=the-pilot-results>The Pilot Results<a hidden class=anchor aria-hidden=true href=#the-pilot-results>#</a></h2><p>Arca ran an 18-month pilot at an active nickel mine in Australia. The result: <strong>10-20x more CO₂ absorption</strong> compared to natural, unassisted weathering. That&rsquo;s not incremental improvement — that&rsquo;s a step change.</p><p>The company generates verified CDR credits for mining companies, which is the business model that makes this scalable. Mining companies already have the waste rock. They already have the disturbed land. They already have the infrastructure. Arca just adds the intelligence layer that turns a liability into a revenue stream.</p><h2 id=why-this-economics-work>Why This Economics Work<a hidden class=anchor aria-hidden=true href=#why-this-economics-work>#</a></h2><p><a href=/posts/what-is-enhanced-weathering/>Enhanced weathering</a> is one of the most promising CDR pathways, but it typically requires mining, crushing, and transporting rock — all of which cost money and emit carbon. Arca sidesteps the biggest cost barriers because:</p><ul><li><strong>The rock is already crushed.</strong> Mine tailings are finely ground waste material.</li><li><strong>The land is already disturbed.</strong> No new environmental footprint required.</li><li><strong>The infrastructure exists.</strong> Roads, power, personnel — it&rsquo;s all there.</li><li><strong>The mining company is motivated.</strong> Tailings are a liability (remediation costs, acid mine drainage risk). Turning them into CDR credits flips the economics.</li></ul><p>This is what smart CDR deployment looks like: find places where the physics already works, where the material is already prepared, and where you&rsquo;re solving someone else&rsquo;s problem while solving the climate&rsquo;s.</p><p>The 10-20x acceleration result needs to be validated at larger scale, but if it holds up, Arca has a pathway to millions of tonnes of permanent, verified carbon removal — from rock that&rsquo;s just sitting there.</p><p><strong>Mining companies have spent decades creating the world&rsquo;s largest collection of pre-crushed, carbon-hungry minerals. Arca just figured out how to wake them up.</strong></p><hr><p><em>Sources: <a href=https://www.bcbusiness.ca/>BCBusiness</a>; UBC Geological Sciences; Arca Climate pilot data.</em></p>

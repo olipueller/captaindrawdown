@@ -1,0 +1,41 @@
+---
+title: "A. Barbaresi"
+description: "A. Barbaresi is a senior researcher at University of Parma in carbon dioxide removal"
+url: "/cdr-researcher-census/researchers/a-barbaresi-23562262/"
+type: "census"
+---
+
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"Person","name":"A. Barbaresi","affiliation":{"@type":"Organization","name":"University of Parma"},"url":"https://www.captaindrawdown.com/cdr-researcher-census/researchers/a-barbaresi-23562262/"}
+</script>
+
+## 🇮🇹 A. Barbaresi
+
+**University of Parma** (IT)
+
+**Career Stage:** Senior
+**CDR Pathway:** CDR
+**Trajectory:** Growing
+**Data Confidence:** estimated
+
+<table class="metrics-table">
+<tr><th>Metric</th><th>Value</th></tr>
+<tr><td>h-index</td><td>4</td></tr>
+<tr><td>Total Citations</td><td>102</td></tr>
+<tr><td>Total Publications</td><td>8</td></tr>
+<tr><td>CDR Focus</td><td>12%</td></tr>
+<tr><td>First CDR Paper</td><td>2005</td></tr>
+</table>
+
+## Top CDR Publications
+
+*No CDR papers indexed yet.*
+
+## External Links
+
+- [OpenAlex Profile](https://openalex.org/authors/https://openalex.org/A5023562262)
+
+
+---
+
+*Data from [OpenAlex](https://openalex.org) enriched with [ORCID](https://orcid.org). Part of the [CDR Researcher Census](/cdr-researcher-census/).*

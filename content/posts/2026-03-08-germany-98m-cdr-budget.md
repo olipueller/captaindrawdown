@@ -1,50 +1,13 @@
 ---
 title: "Germany Puts €98 Million Into CDR — Its First Dedicated Federal Budget Line Ever"
 date: 2026-03-08T12:00:00+01:00
-slug: germany-98m-cdr-budget
-aliases: ["/s/33"]
-draft: false
-pillar: "global"
-tags: ["CDR", "Germany", "policy", "ERW", "biochar", "Novocarbo", "InPlanet"]
-categories: ["Policy"]
 description: "Germany's 2026 federal budget includes €98M for CDR projects and €11.5M for carbon removal certificate purchases — marking a historic first."
+tags: ["news"]
+slug: "germany-98m-cdr-budget"
+author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/20260308-03.png"
-  alt: "Germany €98M for CDR — First Federal Budget Line Ever"
+  image: "/images/posts/germany-98m-cdr-budget.png"
+  alt: "Germany Puts €98 Million Into CDR — Its First Dedicated Federal Budget Line Ever"
   hidden: false
 ---
-
-Germany just did something it has never done before: put carbon dioxide removal into the federal budget as a standalone line item.
-
-The 2026 Bundeshaushalt includes **€98 million for CDR projects** and an additional **€11.5 million specifically for purchasing carbon removal certificates**. According to the German Association for Negative Emissions (*Deutscher Verband für negative Emissionen*), the pipeline extends further — with additional funding planned through 2033.
-
-[Handelsblatt broke the story](https://www.handelsblatt.com/unternehmen/nachhaltigkeit/klimaziele-co-entnahme-im-kampf-gegen-den-klimawandel-ist-entscheidend/100201919.html), profiling two approaches already operational in Germany: biochar (led by Hamburg-based Novocarbo, which won the German Sustainability Prize 2025) and [enhanced rock weathering](/posts/what-is-enhanced-weathering/).
-
-## Why This Matters for CDR
-
-Germany has traditionally been a CCS skeptic, with political resistance to underground CO₂ storage running deep. The pivot to CDR — particularly biochar and [enhanced weathering](/posts/what-is-enhanced-weathering/), which don't require geological storage — represents a pragmatic shift.
-
-Novocarbo's model is worth noting: its pyrolysis plants produce biochar *and* district heating. In Bochum, a new "Carbon Removal Park" will supply green heat to 26,000 households while permanently sequestering carbon. That's the kind of dual-revenue model that makes CDR bankable.
-
-For [enhanced weathering](/posts/what-is-enhanced-weathering/), the Handelsblatt feature highlighted the growing role of field-scale deployment in warm, rainy regions. CDI has been [publishing extensively](https://www.carbon-drawdown.de/blog) on [ERW](/posts/what-is-enhanced-weathering/) measurement challenges — the German government's willingness to fund this pathway suggests the MRV conversation is maturing.
-
-## The European Context
-
-Germany joins a growing list of European governments backing CDR directly. The EU [recently adopted its first voluntary standard for permanent carbon removals](https://captaindrawdown.com/posts/2026-03-06-eu-first-cdr-certification-standard/). Denmark has its $4.2 billion CCS fund. Now Germany adds a nine-figure budget line.
-
-The €11.5 million for certificate purchases is particularly interesting — it's the government acting as a buyer, signaling market confidence from the demand side. That's exactly the kind of "advance market commitment" the CDR industry has been asking for.
-
-€98 million isn't transformative on its own. But as a *first*, it's a strong signal that Europe's largest economy is finally taking carbon removal seriously.
-
----
-
-*Source: [Handelsblatt — CO₂-Entnahme im Kampf gegen den Klimawandel ist entscheidend](https://www.handelsblatt.com/unternehmen/nachhaltigkeit/klimaziele-co-entnahme-im-kampf-gegen-den-klimawandel-ist-entscheidend/100201919.html)*
-
----
-
-### 🔗 Related Reading
-
-- [Mercedes F1 Goes All-In on Carbon Removal — 7 New Projects Across 6 Pathways](/posts/2026-03-05-mercedes-f1-cdr-portfolio/)
-- [Mercedes F1 Builds One of Motorsport's Biggest CDR Portfolios — 18,900 Tonnes Across 6 Pathways](/posts/2026-03-08-mercedes-f1-cdr-portfolio/)
-- [West Virginia Bets on Biochar: Coal State Stacks Tax Credits for Carbon Removal](/posts/west-virginia-biochar-tax-credit/)
-- [CDR Roundup: What's Moving in Carbon Removal (Feb 2026)](/posts/cdr-roundup-feb-2026/)
+<p>Germany just did something it has never done before: put carbon dioxide removal into the federal budget as a standalone line item.</p><p>The 2026 Bundeshaushalt includes <strong>€98 million for CDR projects</strong> and an additional <strong>€11.5 million specifically for purchasing carbon removal certificates</strong>. According to the German Association for Negative Emissions (<em>Deutscher Verband für negative Emissionen</em>), the pipeline extends further — with additional funding planned through 2033.</p><p><a href=https://www.handelsblatt.com/unternehmen/nachhaltigkeit/klimaziele-co-entnahme-im-kampf-gegen-den-klimawandel-ist-entscheidend/100201919.html>Handelsblatt broke the story</a>, profiling two approaches already operational in Germany: biochar (led by Hamburg-based Novocarbo, which won the German Sustainability Prize 2025) and <a href=/posts/what-is-enhanced-weathering/>enhanced rock weathering</a>.</p><h2 id=why-this-matters-for-cdr>Why This Matters for CDR<a hidden class=anchor aria-hidden=true href=#why-this-matters-for-cdr>#</a></h2><p>Germany has traditionally been a CCS skeptic, with political resistance to underground CO₂ storage running deep. The pivot to CDR — particularly biochar and <a href=/posts/what-is-enhanced-weathering/>enhanced weathering</a>, which don&rsquo;t require geological storage — represents a pragmatic shift.</p><p>Novocarbo&rsquo;s model is worth noting: its pyrolysis plants produce biochar <em>and</em> district heating. In Bochum, a new &ldquo;Carbon Removal Park&rdquo; will supply green heat to 26,000 households while permanently sequestering carbon. That&rsquo;s the kind of dual-revenue model that makes CDR bankable.</p><p>For <a href=/posts/what-is-enhanced-weathering/>enhanced weathering</a>, the Handelsblatt feature highlighted the growing role of field-scale deployment in warm, rainy regions. CDI has been <a href=https://www.carbon-drawdown.de/blog>publishing extensively</a> on <a href=/posts/what-is-enhanced-weathering/>ERW</a> measurement challenges — the German government&rsquo;s willingness to fund this pathway suggests the MRV conversation is maturing.</p><h2 id=the-european-context>The European Context<a hidden class=anchor aria-hidden=true href=#the-european-context>#</a></h2><p>Germany joins a growing list of European governments backing CDR directly. The EU <a href=https://captaindrawdown.com/posts/eu-first-cdr-certification-standard/>recently adopted its first voluntary standard for permanent carbon removals</a>. Denmark has its $4.2 billion CCS fund. Now Germany adds a nine-figure budget line.</p><p>The €11.5 million for certificate purchases is particularly interesting — it&rsquo;s the government acting as a buyer, signaling market confidence from the demand side. That&rsquo;s exactly the kind of &ldquo;advance market commitment&rdquo; the CDR industry has been asking for.</p><p>€98 million isn&rsquo;t transformative on its own. But as a <em>first</em>, it&rsquo;s a strong signal that Europe&rsquo;s largest economy is finally taking carbon removal seriously.</p><hr><p><em>Source: <a href=https://www.handelsblatt.com/unternehmen/nachhaltigkeit/klimaziele-co-entnahme-im-kampf-gegen-den-klimawandel-ist-entscheidend/100201919.html>Handelsblatt — CO₂-Entnahme im Kampf gegen den Klimawandel ist entscheidend</a></em></p><hr><h3 id=-related-reading>🔗 Related Reading<a hidden class=anchor aria-hidden=true href=#-related-reading>#</a></h3><ul><li><a href=/posts/mercedes-f1-cdr-portfolio/>Mercedes F1 Goes All-In on Carbon Removal — 7 New Projects Across 6 Pathways</a></li><li><a href=/posts/mercedes-f1-cdr-portfolio/>Mercedes F1 Builds One of Motorsport&rsquo;s Biggest CDR Portfolios — 18,900 Tonnes Across 6 Pathways</a></li><li><a href=/posts/west-virginia-biochar-tax-credit/>West Virginia Bets on Biochar: Coal State Stacks Tax Credits for Carbon Removal</a></li><li><a href=/posts/cdr-roundup-feb-2026/>CDR Roundup: What&rsquo;s Moving in Carbon Removal (Feb 2026)</a></li></ul>

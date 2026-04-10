@@ -1,48 +1,13 @@
 ---
 title: "Philippines Generates Southeast Asia's First Biochar Carbon Credits"
-description: "A provincial government in the Philippines just did something no one in Southeast Asia has done before: generated verified carbon credits from biochar..."
 date: 2026-03-07T12:30:00+01:00
-slug: philippines-first-southeast-asia-biochar-credits
-aliases: ["/s/31"]
-draft: false
-pillar: "global"
-tags: ["biochar", "Philippines", "carbon credits", "Global South", "Southeast Asia"]
-categories: ["News"]
+description: "A provincial government in the Philippines just did something no one in Southeast Asia has done before: generated verified carbon credits from biochar..."
+tags: ["news"]
+slug: "philippines-first-southeast-asia-biochar-credits"
+author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/20260307-03.png"
-  alt: "Nueva Ecija in the Philippines becomes the first in Southeast Asia to generate biochar carbon credits"
+  image: "/images/posts/philippines-first-southeast-asia-biochar-credits.png"
+  alt: "Philippines Generates Southeast Asia's First Biochar Carbon Credits"
   hidden: false
 ---
-
-A provincial government in the Philippines just did something no one in Southeast Asia has done before: generated verified carbon credits from biochar production.
-
-Nueva Ecija's "Project NuevaChar" converts rice husks — an agricultural waste product — into biochar. Puro.earth audited and validated the facility, confirming net CO₂ removal. In July 2025, Governor Aurelio Umali received the first carbon revenue remittance ever paid to a local government unit from biochar-based credits.
-
-## Rice Husks to Revenue
-
-The numbers are practical, not aspirational. In the first large-scale rollout, 363 metric tons of rice husk biochar were distributed to farmers across 32 cities and municipalities, covering about 181 hectares. The project runs alongside farmer training and soil performance monitoring through the Office of the Provincial Agriculturist.
-
-This is biochar doing what it's supposed to do: turning agricultural waste into a soil amendment that sequesters carbon while improving crop yields. Rice husks are abundant across Southeast Asia — the Philippines alone produces roughly 3 million tonnes annually. If this model replicates, the feedstock supply is enormous.
-
-## Why It Matters Beyond the Philippines
-
-CDI has [invested in biochar companies operating in the Global South](https://www.carbon-drawdown.de/blog/2025-9-10-portfolio-spotlight-happy-ground-biochar-in-thailand), including Happy Ground in Thailand. We see the pattern: distributed biochar production using local agricultural waste creates real co-benefits — waste reduction, soil improvement, farmer income — alongside durable carbon removal.
-
-The project was developed in partnership with Singapore-based Alcom Carbon Markets Philippines, and verified by Puro.earth's B2B carbon removal marketplace. That combination — local government leadership, international carbon market access, third-party verification — is a template other provinces and countries can follow.
-
-Southeast Asia has the biomass, the agricultural infrastructure, and now a proof point. The question shifts from "can this work here?" to "how fast can it scale?"
-
----
-
-*Source: [Manila Bulletin](https://mb.com.ph/2026/03/04/nueva-ecija-is-1st-in-southeast-asia-to-generate-carbon-credits-with-biochar-pushes-for-carbon-removal-climate-smart-agri)*
-
----
-
----
-
-### 🔗 Related Reading
-
-- [A Philippine Province Just Made Southeast Asian Biochar History](/posts/nueva-ecija-philippines-biochar-credits/)
-- [Biochar: The Quiet Giant of Carbon Removal](/posts/biochar-quiet-giant-of-cdr/)
-- [Boeing Bets Big on Biochar — 40,000 Tonnes of Carbon Removal via Carbonfuture](/posts/boeing-carbonfuture-40k-tonnes/)
-- [Exomad Green Hits 300,000 Biochar Carbon Removal Credits](/posts/exomad-green-300k-biochar-credits/)
+<p>A provincial government in the Philippines just did something no one in Southeast Asia has done before: generated verified carbon credits from biochar production.</p><p>Nueva Ecija&rsquo;s &ldquo;Project NuevaChar&rdquo; converts rice husks — an agricultural waste product — into biochar. Puro.earth audited and validated the facility, confirming net CO₂ removal. In July 2025, Governor Aurelio Umali received the first carbon revenue remittance ever paid to a local government unit from biochar-based credits.</p><h2 id=rice-husks-to-revenue>Rice Husks to Revenue<a hidden class=anchor aria-hidden=true href=#rice-husks-to-revenue>#</a></h2><p>The numbers are practical, not aspirational. In the first large-scale rollout, 363 metric tons of rice husk biochar were distributed to farmers across 32 cities and municipalities, covering about 181 hectares. The project runs alongside farmer training and soil performance monitoring through the Office of the Provincial Agriculturist.</p><p>This is biochar doing what it&rsquo;s supposed to do: turning agricultural waste into a soil amendment that sequesters carbon while improving crop yields. Rice husks are abundant across Southeast Asia — the Philippines alone produces roughly 3 million tonnes annually. If this model replicates, the feedstock supply is enormous.</p><h2 id=why-it-matters-beyond-the-philippines>Why It Matters Beyond the Philippines<a hidden class=anchor aria-hidden=true href=#why-it-matters-beyond-the-philippines>#</a></h2><p>CDI has <a href=https://www.carbon-drawdown.de/blog/2025-9-10-portfolio-spotlight-happy-ground-biochar-in-thailand>invested in biochar companies operating in the Global South</a>, including Happy Ground in Thailand. We see the pattern: distributed biochar production using local agricultural waste creates real co-benefits — waste reduction, soil improvement, farmer income — alongside durable carbon removal.</p><p>The project was developed in partnership with Singapore-based Alcom Carbon Markets Philippines, and verified by Puro.earth&rsquo;s B2B carbon removal marketplace. That combination — local government leadership, international carbon market access, third-party verification — is a template other provinces and countries can follow.</p><p>Southeast Asia has the biomass, the agricultural infrastructure, and now a proof point. The question shifts from &ldquo;can this work here?&rdquo; to &ldquo;how fast can it scale?&rdquo;</p><hr><p><em>Source: <a href=https://mb.com.ph/2026/03/04/nueva-ecija-is-1st-in-southeast-asia-to-generate-carbon-credits-with-biochar-pushes-for-carbon-removal-climate-smart-agri>Manila Bulletin</a></em></p><hr><hr><h3 id=-related-reading>🔗 Related Reading<a hidden class=anchor aria-hidden=true href=#-related-reading>#</a></h3><ul><li><a href=/posts/nueva-ecija-philippines-biochar-credits/>A Philippine Province Just Made Southeast Asian Biochar History</a></li><li><a href=/posts/biochar-quiet-giant-of-cdr/>Biochar: The Quiet Giant of Carbon Removal</a></li><li><a href=/posts/boeing-carbonfuture-40k-tonnes/>Boeing Bets Big on Biochar — 40,000 Tonnes of Carbon Removal via Carbonfuture</a></li><li><a href=/posts/exomad-green-300k-biochar-credits/>Exomad Green Hits 300,000 Biochar Carbon Removal Credits</a></li></ul>

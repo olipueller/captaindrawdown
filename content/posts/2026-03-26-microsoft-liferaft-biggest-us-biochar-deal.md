@@ -1,64 +1,13 @@
 ---
 title: "Microsoft Just Signed the Biggest Biochar Deal in US History"
-date: 2026-03-26
-slug: microsoft-liferaft-biggest-us-biochar-deal
-aliases: ["/s/149"]
+date: 2026-03-26T00:00:00Z
 description: "Liferaft locks in a 10-year, 1 million CRU offtake with Microsoft — the largest biochar carbon removal deal ever signed in the United States."
-tags: ["biochar", "microsoft", "carbon removal", "cdr", "offtake"]
-pillar: market
-color_scheme: amber
+tags: ["news"]
+slug: "microsoft-liferaft-biggest-us-biochar-deal"
+author: "CaptainDrawdown"
 cover:
-  image: /images/posts/20260326-01.png
+  image: "/images/posts/microsoft-liferaft-biggest-us-biochar-deal.png"
+  alt: "Microsoft Just Signed the Biggest Biochar Deal in US History"
+  hidden: false
 ---
-
-One million carbon removal units. Ten years. One company in Iowa.
-
-Liferaft, a biochar producer operating out of the US Midwest, just signed the largest biochar carbon removal offtake in American history with Microsoft. The deal — facilitated by London-based marketplace Supercritical — commits Microsoft to purchasing 1 million CRUs over a decade from Liferaft's pyrolysis operations in Iowa and Illinois.
-
-Two days ago we covered Microsoft's [$1B-range deal with Vaulted Deep](/s/146). Now this. Redmond isn't dabbling in carbon removal anymore — they're building a diversified CDR portfolio with the kind of volume commitments that actually move markets.
-
-## What Liferaft actually does
-
-The process is straightforward: take agricultural and municipal biomass from the Midwest, run it through pyrolysis (heating without oxygen), and produce biochar — a stable carbon-rich material that locks away CO₂ for centuries. Liferaft blends the biochar with compost and applies it to farmland, where it improves soil health while permanently sequestering carbon.
-
-Every ton is tracked with MRV (measurement, reporting, verification) and registered on an ICROA-endorsed registry. This isn't "trust us" carbon accounting — it's auditable, third-party verified removal.
-
-## Why this deal matters beyond the tons
-
-The interesting part isn't just the carbon math. It's where this is happening.
-
-Liferaft is based in West Liberty, Iowa — population ~3,900. Their CEO William Cowell de Gruchy has built the operation around community integration, not despite the rural location but because of it. Mayor Mark Smith is publicly supportive. The biomass comes from local agriculture and municipal waste. The jobs stay local.
-
-Microsoft's Phillip Goodman put it well: they're "pleased about potential to pair high-quality, durable carbon removal with meaningful local benefits."
-
-This is the CDR scaling story that doesn't get told enough. Everyone fixates on the big DAC plants and the geological storage megaprojects. But biochar — using existing agricultural waste streams, creating rural employment, improving soil quality while removing carbon — is scaling right now, in places that actually need economic development.
-
-## The demand signal
-
-What's really happening here is demand-led scaling. Microsoft isn't buying biochar credits because they're cheap (they're not the cheapest option). They're buying because:
-
-1. **Durability** — biochar persists for hundreds of years in soil
-2. **Co-benefits** — soil health, water retention, local jobs
-3. **Scalability** — agricultural biomass is abundant in the Midwest
-4. **Verifiability** — robust MRV with registry-backed credits
-
-When the world's most valuable company commits to a 10-year offtake at this volume, it sends a price signal through the entire biochar supply chain. Feedstock suppliers, equipment manufacturers, project developers — everyone can now plan around real demand, not speculative interest.
-
-Two massive CDR deals in one week from a single buyer. The voluntary carbon removal market isn't theoretical anymore. It's Iowa.
-
----
-
-### Sources
-
-- Liferaft / Supercritical announcement, March 2026
-- Microsoft carbon removal procurement, Phillip Goodman statement
-- ICROA registry documentation
-
----
-
-### 🔗 Related Reading
-
-- [Why Carbon Removal Needs More Than Trees](/posts/why-carbon-removal-needs-more-than-trees/)
-- [Biochar: The Quiet Giant of Carbon Removal](/posts/biochar-quiet-giant-of-cdr/)
-- [Microsoft Bought 93% of All Carbon Removal Credits in 2025](/posts/microsoft-93-percent-cdr-credits/)
-- [Japan-India Biochar Alliance: Industrial-Scale CDR Comes to Asia](/posts/green-carbon-india-biochar-partnership/)
+<p>One million carbon removal units. Ten years. One company in Iowa.</p><p>Liferaft, a biochar producer operating out of the US Midwest, just signed the largest biochar carbon removal offtake in American history with Microsoft. The deal — facilitated by London-based marketplace Supercritical — commits Microsoft to purchasing 1 million CRUs over a decade from Liferaft&rsquo;s pyrolysis operations in Iowa and Illinois.</p><p>Two days ago we covered Microsoft&rsquo;s <a href=/s/146>$1B-range deal with Vaulted Deep</a>. Now this. Redmond isn&rsquo;t dabbling in carbon removal anymore — they&rsquo;re building a diversified CDR portfolio with the kind of volume commitments that actually move markets.</p><h2 id=what-liferaft-actually-does>What Liferaft actually does<a hidden class=anchor aria-hidden=true href=#what-liferaft-actually-does>#</a></h2><p>The process is straightforward: take agricultural and municipal biomass from the Midwest, run it through pyrolysis (heating without oxygen), and produce biochar — a stable carbon-rich material that locks away CO₂ for centuries. Liferaft blends the biochar with compost and applies it to farmland, where it improves soil health while permanently sequestering carbon.</p><p>Every ton is tracked with MRV (measurement, reporting, verification) and registered on an ICROA-endorsed registry. This isn&rsquo;t &ldquo;trust us&rdquo; carbon accounting — it&rsquo;s auditable, third-party verified removal.</p><h2 id=why-this-deal-matters-beyond-the-tons>Why this deal matters beyond the tons<a hidden class=anchor aria-hidden=true href=#why-this-deal-matters-beyond-the-tons>#</a></h2><p>The interesting part isn&rsquo;t just the carbon math. It&rsquo;s where this is happening.</p><p>Liferaft is based in West Liberty, Iowa — population ~3,900. Their CEO William Cowell de Gruchy has built the operation around community integration, not despite the rural location but because of it. Mayor Mark Smith is publicly supportive. The biomass comes from local agriculture and municipal waste. The jobs stay local.</p><p>Microsoft&rsquo;s Phillip Goodman put it well: they&rsquo;re &ldquo;pleased about potential to pair high-quality, durable carbon removal with meaningful local benefits.&rdquo;</p><p>This is the CDR scaling story that doesn&rsquo;t get told enough. Everyone fixates on the big DAC plants and the geological storage megaprojects. But biochar — using existing agricultural waste streams, creating rural employment, improving soil quality while removing carbon — is scaling right now, in places that actually need economic development.</p><h2 id=the-demand-signal>The demand signal<a hidden class=anchor aria-hidden=true href=#the-demand-signal>#</a></h2><p>What&rsquo;s really happening here is demand-led scaling. Microsoft isn&rsquo;t buying biochar credits because they&rsquo;re cheap (they&rsquo;re not the cheapest option). They&rsquo;re buying because:</p><ol><li><strong>Durability</strong> — biochar persists for hundreds of years in soil</li><li><strong>Co-benefits</strong> — soil health, water retention, local jobs</li><li><strong>Scalability</strong> — agricultural biomass is abundant in the Midwest</li><li><strong>Verifiability</strong> — robust MRV with registry-backed credits</li></ol><p>When the world&rsquo;s most valuable company commits to a 10-year offtake at this volume, it sends a price signal through the entire biochar supply chain. Feedstock suppliers, equipment manufacturers, project developers — everyone can now plan around real demand, not speculative interest.</p><p>Two massive CDR deals in one week from a single buyer. The voluntary carbon removal market isn&rsquo;t theoretical anymore. It&rsquo;s Iowa.</p><hr><h3 id=sources>Sources<a hidden class=anchor aria-hidden=true href=#sources>#</a></h3><ul><li>Liferaft / Supercritical announcement, March 2026</li><li>Microsoft carbon removal procurement, Phillip Goodman statement</li><li>ICROA registry documentation</li></ul><hr><h3 id=-related-reading>🔗 Related Reading<a hidden class=anchor aria-hidden=true href=#-related-reading>#</a></h3><ul><li><a href=/posts/why-carbon-removal-needs-more-than-trees/>Why Carbon Removal Needs More Than Trees</a></li><li><a href=/posts/biochar-quiet-giant-of-cdr/>Biochar: The Quiet Giant of Carbon Removal</a></li><li><a href=/posts/microsoft-93-percent-cdr-credits/>Microsoft Bought 93% of All Carbon Removal Credits in 2025</a></li><li><a href=/posts/green-carbon-india-biochar-partnership/>Japan-India Biochar Alliance: Industrial-Scale CDR Comes to Asia</a></li></ul>

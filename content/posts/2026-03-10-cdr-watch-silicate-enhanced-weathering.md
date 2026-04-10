@@ -1,61 +1,13 @@
 ---
 title: "CDR Watch: Silicate's Limestone Approach to Enhanced Weathering"
 date: 2026-03-10T11:00:00Z
-slug: cdr-watch-silicate-enhanced-weathering
-aliases: ["/s/44"]
-draft: false
 description: "Silicate is the first enhanced weathering company to use limestone instead of basalt — and the science behind it is worth understanding."
+tags: ["news"]
+slug: "cdr-watch-silicate-enhanced-weathering"
+author: "CaptainDrawdown"
 cover:
-  image: /images/posts/cdr-watch-silicate.jpg
-  alt: "The Silicate team standing in front of farm equipment in Ireland"
+  image: "/images/posts/cdr-watch-silicate-enhanced-weathering.png"
+  alt: "CDR Watch: Silicate's Limestone Approach to Enhanced Weathering"
   hidden: false
-pillar: "news"
-tags: ["CDR Watch", "enhanced weathering", "video", "Silicate"]
 ---
-
-{{< youtube f9gmQR7Gksw >}}
-
-*This is the first post in our **CDR Watch** series — short takes on the best carbon removal videos we find.*
-
----
-
-Most [enhanced weathering](/posts/what-is-enhanced-weathering/) companies spread crushed basalt on farmland. Silicate does something different: they use **limestone**.
-
-That might sound like a small detail, but it changes the game in a few important ways.
-
-## Why Limestone?
-
-Basalt is the standard feedstock for [enhanced weathering](/posts/what-is-enhanced-weathering/) because it's rich in silicate minerals that react with CO₂. The problem: basalt weathers slowly. You need fine grinding, warm climates, and wet soils to get meaningful reaction rates.
-
-Limestone — calcium carbonate — dissolves much faster. When carbonic acid (CO₂ dissolved in rainwater) meets limestone, the reaction produces dissolved bicarbonate that carries carbon into groundwater and eventually the ocean, where it's stored for thousands of years.
-
-Farmers already know this material. Limestone has been used to buffer acidic soils for centuries. Silicate is essentially taking an established agricultural practice and turning it into a carbon removal pathway.
-
-## The Dual Benefit
-
-This is what makes the approach clever: every tonne of limestone applied improves soil pH *and* removes CO₂. Farmers get a direct agronomic benefit — better nutrient availability, improved crop yields — while generating verified carbon removal.
-
-That alignment matters. One of the biggest challenges in [enhanced weathering](/posts/what-is-enhanced-weathering/) is convincing farmers to participate. When the material is already something they'd want to use, the adoption barrier drops significantly.
-
-## Where They Stand
-
-Silicate was an [XPRIZE Carbon Removal finalist](https://www.businesswire.com/news/home/20240508167729/en/Silicate-Named-as-Finalist-in-the-XPRIZE-Carbon-Removal-Competition) and is running field trials in Ireland and the US, including a collaboration with Northwestern University in Illinois. They're focused on building the MRV (measurement, reporting, and verification) framework to prove that the carbon actually stays removed.
-
-The company is based in Ireland and operates across the US — and yes, they're in the [CDI portfolio](https://www.carbon-drawdown.de/).
-
-## Watch the Video
-
-The explainer above is a solid 3-minute overview of their approach. If you follow [enhanced weathering](/posts/what-is-enhanced-weathering/), this is worth your time. Silicate's limestone angle is one of the more interesting divergences from the basalt consensus — and the data from their field trials will be important for the whole EW sector.
-
----
-
-*CDR Watch highlights videos that explain carbon removal clearly and accurately. Got a recommendation? Tag us on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social) or [X](https://x.com/CaptainDrawdown).*
-
----
-
-### 🔗 Related Reading
-
-- [What Is [Enhanced Weathering](/posts/what-is-enhanced-weathering/)? A Primer](/posts/what-is-enhanced-weathering/)
-- [CDR Roundup: What's Moving in Carbon Removal (Feb 2026)](/posts/cdr-roundup-feb-2026/)
-- [Why Carbon Removal Needs More Than Trees](/posts/why-carbon-removal-needs-more-than-trees/)
-- [[Enhanced Rock Weathering](/posts/what-is-enhanced-weathering/): Promising, But Not Simple](/posts/2026-02-25-[erw](/posts/what-is-enhanced-weathering/)-promising-but-not-simple/)
+<div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading=eager referrerpolicy=strict-origin-when-cross-origin src="https://www.youtube.com/embed/f9gmQR7Gksw?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style=position:absolute;top:0;left:0;width:100%;height:100%;border:0 title="YouTube video"></iframe></div><p><em>This is the first post in our <strong>CDR Watch</strong> series — short takes on the best carbon removal videos we find.</em></p><hr><p>Most <a href=/posts/what-is-enhanced-weathering/>enhanced weathering</a> companies spread crushed basalt on farmland. Silicate does something different: they use <strong>limestone</strong>.</p><p>That might sound like a small detail, but it changes the game in a few important ways.</p><h2 id=why-limestone>Why Limestone?<a hidden class=anchor aria-hidden=true href=#why-limestone>#</a></h2><p>Basalt is the standard feedstock for <a href=/posts/what-is-enhanced-weathering/>enhanced weathering</a> because it&rsquo;s rich in silicate minerals that react with CO₂. The problem: basalt weathers slowly. You need fine grinding, warm climates, and wet soils to get meaningful reaction rates.</p><p>Limestone — calcium carbonate — dissolves much faster. When carbonic acid (CO₂ dissolved in rainwater) meets limestone, the reaction produces dissolved bicarbonate that carries carbon into groundwater and eventually the ocean, where it&rsquo;s stored for thousands of years.</p><p>Farmers already know this material. Limestone has been used to buffer acidic soils for centuries. Silicate is essentially taking an established agricultural practice and turning it into a carbon removal pathway.</p><h2 id=the-dual-benefit>The Dual Benefit<a hidden class=anchor aria-hidden=true href=#the-dual-benefit>#</a></h2><p>This is what makes the approach clever: every tonne of limestone applied improves soil pH <em>and</em> removes CO₂. Farmers get a direct agronomic benefit — better nutrient availability, improved crop yields — while generating verified carbon removal.</p><p>That alignment matters. One of the biggest challenges in <a href=/posts/what-is-enhanced-weathering/>enhanced weathering</a> is convincing farmers to participate. When the material is already something they&rsquo;d want to use, the adoption barrier drops significantly.</p><h2 id=where-they-stand>Where They Stand<a hidden class=anchor aria-hidden=true href=#where-they-stand>#</a></h2><p>Silicate was an <a href=https://www.businesswire.com/news/home/20240508167729/en/Silicate-Named-as-Finalist-in-the-XPRIZE-Carbon-Removal-Competition>XPRIZE Carbon Removal finalist</a> and is running field trials in Ireland and the US, including a collaboration with Northwestern University in Illinois. They&rsquo;re focused on building the MRV (measurement, reporting, and verification) framework to prove that the carbon actually stays removed.</p><p>The company is based in Ireland and operates across the US — and yes, they&rsquo;re in the <a href=https://www.carbon-drawdown.de/>CDI portfolio</a>.</p><h2 id=watch-the-video>Watch the Video<a hidden class=anchor aria-hidden=true href=#watch-the-video>#</a></h2><p>The explainer above is a solid 3-minute overview of their approach. If you follow <a href=/posts/what-is-enhanced-weathering/>enhanced weathering</a>, this is worth your time. Silicate&rsquo;s limestone angle is one of the more interesting divergences from the basalt consensus — and the data from their field trials will be important for the whole EW sector.</p><hr><p><em>CDR Watch highlights videos that explain carbon removal clearly and accurately. Got a recommendation? Tag us on <a href=https://bsky.app/profile/captaindrawdown.bsky.social>Bluesky</a> or <a href=https://x.com/CaptainDrawdown>X</a>.</em></p><hr><h3 id=-related-reading>🔗 Related Reading<a hidden class=anchor aria-hidden=true href=#-related-reading>#</a></h3><ul><li>[What Is <a href=/posts/what-is-enhanced-weathering/>Enhanced Weathering</a>? A Primer](/posts/what-is-enhanced-weathering/)</li><li><a href=/posts/cdr-roundup-feb-2026/>CDR Roundup: What&rsquo;s Moving in Carbon Removal (Feb 2026)</a></li><li><a href=/posts/why-carbon-removal-needs-more-than-trees/>Why Carbon Removal Needs More Than Trees</a></li><li>[<a href=/posts/what-is-enhanced-weathering/>Enhanced Rock Weathering</a>: Promising, But Not Simple](/posts/2026-02-25-<a href=/posts/what-is-enhanced-weathering/>erw</a>-promising-but-not-simple/)</li></ul>

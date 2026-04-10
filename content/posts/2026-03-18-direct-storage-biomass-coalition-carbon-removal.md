@@ -1,73 +1,13 @@
 ---
 title: "New Coalition Wants to Bury Biomass for Carbon Removal — 17 Companies Join"
-description: "The Carbon Business Council launched the Direct Storage of Biomass Coalition with 17 members including Graphyte, Carba, and Puro.Earth to advance biomass burial as a CDR pathway."
 date: 2026-03-18T10:05:00+01:00
-slug: direct-storage-biomass-coalition-carbon-removal
-aliases: ["/s/103"]
-pillar: "news"
-tags: ["CDR", "carbon removal", "biomass", "coalition", "Carbon Business Council", "Graphyte", "Carba", "Puro.Earth"]
-summary: "17 companies formed the Direct Storage of Biomass Coalition to advance burying organic waste as a scalable carbon removal pathway. Low-tech, built on existing supply chains."
-draft: false
+description: "The Carbon Business Council launched the Direct Storage of Biomass Coalition with 17 members including Graphyte, Carba, and Puro.Earth to advance biomass burial"
+tags: ["news"]
+slug: "direct-storage-biomass-coalition-carbon-removal"
+author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/20260318-03.png"
-  alt: "Direct Storage of Biomass Coalition Launches"
-  relative: false
+  image: "/images/posts/direct-storage-biomass-coalition-carbon-removal.png"
+  alt: "New Coalition Wants to Bury Biomass for Carbon Removal — 17 Companies Join"
+  hidden: false
 ---
-
-The idea is almost comically simple: take waste wood, crop residues, or other biomass. Bury it. Lock the carbon away before it decomposes back into the atmosphere.
-
-Direct storage of biomass (DSB) isn't flashy. There's no AI, no proprietary sorbent, no moonshot engineering. But a new coalition of 17 companies just organized around it — and the logic for why is hard to argue with.
-
-## What Just Happened
-
-The [Carbon Business Council](https://www.carbonbusinesscouncil.org/) launched the Direct Storage of Biomass Coalition, a working group bringing together project developers, technology providers, and policy experts. The coalition is chaired by Keith Driver of Leading Carbon / Clear Sky Limited.
-
-The member list reads like a who's-who of the emerging biomass CDR space: **Graphyte**, **Carba**, **Puro.Earth**, **Isometric**, **Vaulted Deep**, **Living Carbon**, **Mast Reforestation**, **Tau Carbon**, **Timber Turn**, **Woodcache**, **Carbonsate**, **Blue Forest**, **Carbon Lockdown Project**, **EcoEngineers**, **Nature Focus**, and **Rewind**.
-
-"Direct storage of biomass builds on how forests and agricultural land are already managed," said Ben Rubin, Executive Director of the Carbon Business Council. "It offers a pathway to keep carbon out of the atmosphere, while supporting land stewardship, local economies, and climate goals."
-
-## Why Biomass Burial Works
-
-Plants pull CO₂ from the atmosphere as they grow. When they die, decomposition releases most of that carbon back. The insight behind DSB is that you can interrupt this cycle — take the biomass before it decomposes and store it somewhere durable.
-
-The "somewhere" varies. Sealed underground reservoirs, deep wells, dry vaults, or simply buried in conditions that prevent decomposition. Graphyte, for example, compresses wood waste into dense "carbon bricks" and stores them in engineered facilities. Vaulted Deep injects biomass slurry into deep geological formations.
-
-The key advantage: **existing supply chains.** The forestry and agriculture sectors already collect, process, and transport biomass at massive scale. DSB doesn't require building new collection infrastructure from scratch — it piggybacks on what already exists.
-
-## The Scale Argument
-
-This is where DSB gets interesting. Most durable CDR pathways face a feedstock or energy bottleneck. DAC needs enormous amounts of clean energy. [Enhanced weathering](/posts/what-is-enhanced-weathering/) needs mined rock. Biochar needs pyrolysis capacity. Ocean alkalinity enhancement needs specialized ships.
-
-DSB needs... biomass. Of which the world produces and discards billions of tons per year. Crop residues alone total roughly 3.5 billion tons annually worldwide. Forest thinnings from wildfire management produce millions more. Much of it currently decomposes, burns, or goes to landfill.
-
-The theoretical ceiling for DSB as a CDR pathway is staggering. The practical ceiling depends on economics, monitoring, and whether the carbon actually stays put — which is exactly what this coalition aims to figure out.
-
-## What They're Working On
-
-The coalition isn't just a logo exercise. According to the announcement, they're focused on:
-
-- **Measurement, reporting, and verification (MRV)** — proving the carbon stays stored
-- **Shared standards** — so buyers and policymakers can evaluate DSB projects consistently
-- **Community engagement** — because burying things underground tends to raise questions
-- **Policy alignment** — integrating DSB into carbon removal procurement frameworks
-
-Keith Driver framed it as moving "from individual projects to industry outcomes." That language matters. The DSB space has a dozen companies working largely in isolation. A coalition creates shared standards, pools data on permanence, and presents a unified voice to credit buyers and policymakers.
-
-## The Risk
-
-The obvious question: how do you prove biomass stays buried for centuries? Wood decomposes. Conditions change. Monitoring over decades is expensive and uncertain.
-
-This is the exact problem the coalition needs to solve. Without robust MRV, DSB credits will face the same credibility challenges that plagued earlier nature-based offsets. The presence of Isometric and Puro.Earth — two of the most rigorous carbon credit registries — in the coalition suggests the members take this seriously.
-
-Low-tech doesn't mean low-rigor. If anything, the simplicity of "bury it" means the MRV has to be airtight, because the pathway can't hide behind complexity.
-
----
-
-*Source: [PR Newswire / Carbon Business Council](https://www.prnewswire.com/news-releases/direct-storage-of-biomass-coalition-launches-to-advance-carbon-removal-pathway-302716105.html)*
-
----
-
-### 🔗 Related Reading
-
-- [Roads as Carbon Sinks: Verde Locks In Major Biochar Supply](/posts/verde-bioasphalt-biochar-roads-carbon-sinks/)
-- [Why Carbon Removal Needs More Than Trees](/posts/why-carbon-removal-needs-more-than-trees/)
+<p>The idea is almost comically simple: take waste wood, crop residues, or other biomass. Bury it. Lock the carbon away before it decomposes back into the atmosphere.</p><p>Direct storage of biomass (DSB) isn&rsquo;t flashy. There&rsquo;s no AI, no proprietary sorbent, no moonshot engineering. But a new coalition of 17 companies just organized around it — and the logic for why is hard to argue with.</p><h2 id=what-just-happened>What Just Happened<a hidden class=anchor aria-hidden=true href=#what-just-happened>#</a></h2><p>The <a href=https://www.carbonbusinesscouncil.org/>Carbon Business Council</a> launched the Direct Storage of Biomass Coalition, a working group bringing together project developers, technology providers, and policy experts. The coalition is chaired by Keith Driver of Leading Carbon / Clear Sky Limited.</p><p>The member list reads like a who&rsquo;s-who of the emerging biomass CDR space: <strong>Graphyte</strong>, <strong>Carba</strong>, <strong>Puro.Earth</strong>, <strong>Isometric</strong>, <strong>Vaulted Deep</strong>, <strong>Living Carbon</strong>, <strong>Mast Reforestation</strong>, <strong>Tau Carbon</strong>, <strong>Timber Turn</strong>, <strong>Woodcache</strong>, <strong>Carbonsate</strong>, <strong>Blue Forest</strong>, <strong>Carbon Lockdown Project</strong>, <strong>EcoEngineers</strong>, <strong>Nature Focus</strong>, and <strong>Rewind</strong>.</p><p>&ldquo;Direct storage of biomass builds on how forests and agricultural land are already managed,&rdquo; said Ben Rubin, Executive Director of the Carbon Business Council. &ldquo;It offers a pathway to keep carbon out of the atmosphere, while supporting land stewardship, local economies, and climate goals.&rdquo;</p><h2 id=why-biomass-burial-works>Why Biomass Burial Works<a hidden class=anchor aria-hidden=true href=#why-biomass-burial-works>#</a></h2><p>Plants pull CO₂ from the atmosphere as they grow. When they die, decomposition releases most of that carbon back. The insight behind DSB is that you can interrupt this cycle — take the biomass before it decomposes and store it somewhere durable.</p><p>The &ldquo;somewhere&rdquo; varies. Sealed underground reservoirs, deep wells, dry vaults, or simply buried in conditions that prevent decomposition. Graphyte, for example, compresses wood waste into dense &ldquo;carbon bricks&rdquo; and stores them in engineered facilities. Vaulted Deep injects biomass slurry into deep geological formations.</p><p>The key advantage: <strong>existing supply chains.</strong> The forestry and agriculture sectors already collect, process, and transport biomass at massive scale. DSB doesn&rsquo;t require building new collection infrastructure from scratch — it piggybacks on what already exists.</p><h2 id=the-scale-argument>The Scale Argument<a hidden class=anchor aria-hidden=true href=#the-scale-argument>#</a></h2><p>This is where DSB gets interesting. Most durable CDR pathways face a feedstock or energy bottleneck. DAC needs enormous amounts of clean energy. <a href=/posts/what-is-enhanced-weathering/>Enhanced weathering</a> needs mined rock. Biochar needs pyrolysis capacity. Ocean alkalinity enhancement needs specialized ships.</p><p>DSB needs&mldr; biomass. Of which the world produces and discards billions of tons per year. Crop residues alone total roughly 3.5 billion tons annually worldwide. Forest thinnings from wildfire management produce millions more. Much of it currently decomposes, burns, or goes to landfill.</p><p>The theoretical ceiling for DSB as a CDR pathway is staggering. The practical ceiling depends on economics, monitoring, and whether the carbon actually stays put — which is exactly what this coalition aims to figure out.</p><h2 id=what-theyre-working-on>What They&rsquo;re Working On<a hidden class=anchor aria-hidden=true href=#what-theyre-working-on>#</a></h2><p>The coalition isn&rsquo;t just a logo exercise. According to the announcement, they&rsquo;re focused on:</p><ul><li><strong>Measurement, reporting, and verification (MRV)</strong> — proving the carbon stays stored</li><li><strong>Shared standards</strong> — so buyers and policymakers can evaluate DSB projects consistently</li><li><strong>Community engagement</strong> — because burying things underground tends to raise questions</li><li><strong>Policy alignment</strong> — integrating DSB into carbon removal procurement frameworks</li></ul><p>Keith Driver framed it as moving &ldquo;from individual projects to industry outcomes.&rdquo; That language matters. The DSB space has a dozen companies working largely in isolation. A coalition creates shared standards, pools data on permanence, and presents a unified voice to credit buyers and policymakers.</p><h2 id=the-risk>The Risk<a hidden class=anchor aria-hidden=true href=#the-risk>#</a></h2><p>The obvious question: how do you prove biomass stays buried for centuries? Wood decomposes. Conditions change. Monitoring over decades is expensive and uncertain.</p><p>This is the exact problem the coalition needs to solve. Without robust MRV, DSB credits will face the same credibility challenges that plagued earlier nature-based offsets. The presence of Isometric and Puro.Earth — two of the most rigorous carbon credit registries — in the coalition suggests the members take this seriously.</p><p>Low-tech doesn&rsquo;t mean low-rigor. If anything, the simplicity of &ldquo;bury it&rdquo; means the MRV has to be airtight, because the pathway can&rsquo;t hide behind complexity.</p><hr><p><em>Source: <a href=https://www.prnewswire.com/news-releases/direct-storage-of-biomass-coalition-launches-to-advance-carbon-removal-pathway-302716105.html>PR Newswire / Carbon Business Council</a></em></p><hr><h3 id=-related-reading>🔗 Related Reading<a hidden class=anchor aria-hidden=true href=#-related-reading>#</a></h3><ul><li><a href=/posts/verde-bioasphalt-biochar-roads-carbon-sinks/>Roads as Carbon Sinks: Verde Locks In Major Biochar Supply</a></li><li><a href=/posts/why-carbon-removal-needs-more-than-trees/>Why Carbon Removal Needs More Than Trees</a></li></ul>

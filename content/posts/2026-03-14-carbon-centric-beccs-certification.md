@@ -1,53 +1,13 @@
 ---
 title: "Norway's Carbon Centric BECCS Plant Moves Toward Puro.earth Certification"
 date: 2026-03-14T11:00:00+01:00
-draft: false
-slug: carbon-centric-beccs-certification
-aliases: ["/s/74"]
 description: "Project Kirkenær will capture 32,000 tonnes of biogenic CO₂ annually from a Norwegian CHP plant — and just passed Puro.earth's Preliminary Assessment."
-pillar: "global"
-tags: ["BECCS", "Norway", "carbon removal", "certification", "Puro.earth"]
+tags: ["news"]
+slug: "carbon-centric-beccs-certification"
+author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/20260314-03.png"
-  alt: "Norway BECCS Plant Nears Certification"
+  image: "/images/posts/carbon-centric-beccs-certification.png"
+  alt: "Norway's Carbon Centric BECCS Plant Moves Toward Puro.earth Certification"
   hidden: false
 ---
-
-**BECCS** — bioenergy with carbon capture and storage — has always been the CDR pathway with the biggest gap between IPCC models (which assume gigatons of it) and real-world deployment (which is basically zero at scale). Norway's Carbon Centric is trying to close that gap.
-
-Their **Project Kirkenær** just passed the Puro.earth Preliminary Assessment, validating that its design, monitoring approach, and lifecycle assessment meet the standard's requirements. It's not full certification yet — that comes later — but it's a concrete step toward issuing permanent carbon removal credits (CORCs).
-
-## The Setup
-
-The project will bolt a carbon capture facility onto **Solør Bioenergi's** existing combined heat and power plant, about 130 km north of Oslo. The CHP plant burns end-of-life wood — demolished buildings, old railway sleepers — to provide district heating.
-
-Carbon Centric's system will capture CO₂ from the largest boiler's flue gas using amine technology, then send the purified CO₂ to permanent geological storage. Target: **32,000 tonnes of biogenic CO₂ captured per year**.
-
-## Why It Matters
-
-BECCS is one of the few CDR approaches that can be *net-negative* while generating useful energy. Burn waste biomass → capture the biogenic CO₂ → store it permanently → the carbon that was in the atmosphere via the trees never goes back. The district heating is a bonus.
-
-The challenge has always been economics and infrastructure. Carbon Centric is tackling this by:
-
-1. **Using existing CHP plants** — no greenfield construction, lower capex
-2. **Burning waste wood** — no competition with forests or food crops
-3. **Targeting certification early** — Puro.earth CORCs command premium prices
-
-## The European Context
-
-Norway is quietly becoming a BECCS hub. The country has geological storage capacity (Longship/Northern Lights), existing biomass infrastructure, and political will. Carbon Centric also recently secured a long-term CDR agreement with **DNV**, the maritime and energy classification giant.
-
-Final investment decision is targeted for 2026. If this works, it's a template that could be replicated across Scandinavia's many biomass CHP plants.
-
----
-
-*Source: [Carbon Herald](https://carbonherald.com/carbon-centrics-kirkenaer-beccs-project-successfully-advances-towards-certification/)*
-
----
-
-### 🔗 Related Reading
-
-- [Mercedes F1 Goes All-In on Carbon Removal — 7 New Projects Across 6 Pathways](/posts/2026-03-05-mercedes-f1-cdr-portfolio/)
-- [EU Launches World's First Voluntary Standard for Permanent Carbon Removals](/posts/2026-03-06-eu-first-cdr-certification-standard/)
-- [Svante Acquires Carbon Alpha: BECCS Meets First Nations Partnership](/posts/2026-03-07-svante-acquires-carbon-alpha-beccs/)
-- [Mercedes F1 Builds One of Motorsport's Biggest CDR Portfolios — 18,900 Tonnes Across 6 Pathways](/posts/2026-03-08-mercedes-f1-cdr-portfolio/)
+<p><strong>BECCS</strong> — bioenergy with carbon capture and storage — has always been the CDR pathway with the biggest gap between IPCC models (which assume gigatons of it) and real-world deployment (which is basically zero at scale). Norway&rsquo;s Carbon Centric is trying to close that gap.</p><p>Their <strong>Project Kirkenær</strong> just passed the Puro.earth Preliminary Assessment, validating that its design, monitoring approach, and lifecycle assessment meet the standard&rsquo;s requirements. It&rsquo;s not full certification yet — that comes later — but it&rsquo;s a concrete step toward issuing permanent carbon removal credits (CORCs).</p><h2 id=the-setup>The Setup<a hidden class=anchor aria-hidden=true href=#the-setup>#</a></h2><p>The project will bolt a carbon capture facility onto <strong>Solør Bioenergi&rsquo;s</strong> existing combined heat and power plant, about 130 km north of Oslo. The CHP plant burns end-of-life wood — demolished buildings, old railway sleepers — to provide district heating.</p><p>Carbon Centric&rsquo;s system will capture CO₂ from the largest boiler&rsquo;s flue gas using amine technology, then send the purified CO₂ to permanent geological storage. Target: <strong>32,000 tonnes of biogenic CO₂ captured per year</strong>.</p><h2 id=why-it-matters>Why It Matters<a hidden class=anchor aria-hidden=true href=#why-it-matters>#</a></h2><p>BECCS is one of the few CDR approaches that can be <em>net-negative</em> while generating useful energy. Burn waste biomass → capture the biogenic CO₂ → store it permanently → the carbon that was in the atmosphere via the trees never goes back. The district heating is a bonus.</p><p>The challenge has always been economics and infrastructure. Carbon Centric is tackling this by:</p><ol><li><strong>Using existing CHP plants</strong> — no greenfield construction, lower capex</li><li><strong>Burning waste wood</strong> — no competition with forests or food crops</li><li><strong>Targeting certification early</strong> — Puro.earth CORCs command premium prices</li></ol><h2 id=the-european-context>The European Context<a hidden class=anchor aria-hidden=true href=#the-european-context>#</a></h2><p>Norway is quietly becoming a BECCS hub. The country has geological storage capacity (Longship/Northern Lights), existing biomass infrastructure, and political will. Carbon Centric also recently secured a long-term CDR agreement with <strong>DNV</strong>, the maritime and energy classification giant.</p><p>Final investment decision is targeted for 2026. If this works, it&rsquo;s a template that could be replicated across Scandinavia&rsquo;s many biomass CHP plants.</p><hr><p><em>Source: <a href=https://carbonherald.com/carbon-centrics-kirkenaer-beccs-project-successfully-advances-towards-certification/>Carbon Herald</a></em></p><hr><h3 id=-related-reading>🔗 Related Reading<a hidden class=anchor aria-hidden=true href=#-related-reading>#</a></h3><ul><li><a href=/posts/mercedes-f1-cdr-portfolio/>Mercedes F1 Goes All-In on Carbon Removal — 7 New Projects Across 6 Pathways</a></li><li><a href=/posts/eu-first-cdr-certification-standard/>EU Launches World&rsquo;s First Voluntary Standard for Permanent Carbon Removals</a></li><li><a href=/posts/svante-acquires-carbon-alpha-beccs/>Svante Acquires Carbon Alpha: BECCS Meets First Nations Partnership</a></li><li><a href=/posts/mercedes-f1-cdr-portfolio/>Mercedes F1 Builds One of Motorsport&rsquo;s Biggest CDR Portfolios — 18,900 Tonnes Across 6 Pathways</a></li></ul>

@@ -1,55 +1,13 @@
 ---
 title: "West Virginia Bets on Biochar: Coal State Stacks Tax Credits for Carbon Removal"
-date: 2026-03-01
-slug: west-virginia-biochar-tax-credit
-aliases: ["/s/14"]
+date: 2026-03-01T00:00:00Z
 description: "West Virginia's Senate passes SB893, adding state tax credits on top of federal incentives to attract biochar carbon removal facilities."
-pillar: "market"
-tags: ["biochar", "carbon removal", "policy", "West Virginia", "tax credits"]
+tags: ["news"]
+slug: "west-virginia-biochar-tax-credit"
+author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/20260301-04.png"
+  image: "/images/posts/west-virginia-biochar-tax-credit.png"
   alt: "West Virginia Bets on Biochar: Coal State Stacks Tax Credits for Carbon Removal"
-  relative: false
+  hidden: false
 ---
-
-West Virginia — historically defined by coal — is positioning itself as a destination for biochar carbon removal companies. The state Senate's Economic Development Committee just passed SB893, a bill that stacks state tax credits on top of existing federal incentives.
-
-## What the Bill Does
-
-Starting July 1, 2026, and lasting for 12 years, biochar facilities in West Virginia that qualify for federal carbon removal tax credits will also receive a state credit worth 10% of the federal amount, applied against corporate net income tax.
-
-The credit can't reduce state tax liability by more than 50%, but it can be carried back to any tax year beginning after July 1, 2026. The bill passed the committee unanimously, without discussion or amendment.
-
-## Why Biochar
-
-Biochar is produced by heating organic waste (wood chips, agricultural residue) in the absence of oxygen — a process called pyrolysis. The resulting carbon-rich material is stable for centuries, effectively locking atmospheric carbon into a solid form.
-
-As a CDR pathway, biochar has some distinct advantages:
-
-- **Proven permanence:** Carbon stays locked for hundreds to thousands of years
-- **Co-benefits:** Excellent soil amendment that improves water retention and nutrient availability
-- **Scalable feedstock:** Agricultural and forestry waste is abundant and often problematic
-- **Market position:** Biochar delivers over 90% of commercially traded permanent CDR credits globally
-
-CDI portfolio companies [Cotierra and SYNCRAFT](https://www.carbon-drawdown.de/blog/2026-2-9-how-to-make-biochar-at-different-scales-large-and-small-ft-cotierra-amp-syncraft) demonstrate how biochar works at vastly different scales — from community-level production in Latin America to industrial CHP systems in Austria.
-
-## The Political Signal
-
-A coal state creating tax incentives for carbon removal is politically significant. West Virginia has the biomass supply (forests, agricultural waste), the industrial workforce, and now the policy framework to attract biochar investment.
-
-WVU is already part of MASbio, a research consortium studying biochar sustainability in the Mid-Atlantic region. The infrastructure for a biochar industry is forming.
-
-## The Bigger Trend
-
-The Global Carbon Council recently launched a [public consultation on a biochar carbon removal methodology](https://globalcarboncouncil.com/gcc-opens-public-stakeholder-consultation-on-draft-methodology-for-durable-biochar-production/), and biochar credit prices have stabilized around $150/tCO₂e. With both policy support and market pricing improving, biochar is moving from niche to mainstream.
-
-**Source:** [The Real WV](https://therealwv.com/2026/02/26/senate-hopes-to-incentivize-biochar-companies-to-locate-in-wv/)
-
----
-
-### 🔗 Related Reading
-
-- [Germany Puts €98 Million Into CDR — Its First Dedicated Federal Budget Line Ever](/posts/2026-03-08-germany-98m-cdr-budget/)
-- [CDR Roundup: What's Moving in Carbon Removal (Feb 2026)](/posts/cdr-roundup-feb-2026/)
-- [Why Carbon Removal Needs More Than Trees](/posts/why-carbon-removal-needs-more-than-trees/)
-- [Biochar: The Quiet Giant of Carbon Removal](/posts/2026-02-25-biochar-quiet-giant-of-cdr/)
+<p>West Virginia — historically defined by coal — is positioning itself as a destination for biochar carbon removal companies. The state Senate&rsquo;s Economic Development Committee just passed SB893, a bill that stacks state tax credits on top of existing federal incentives.</p><h2 id=what-the-bill-does>What the Bill Does<a hidden class=anchor aria-hidden=true href=#what-the-bill-does>#</a></h2><p>Starting July 1, 2026, and lasting for 12 years, biochar facilities in West Virginia that qualify for federal carbon removal tax credits will also receive a state credit worth 10% of the federal amount, applied against corporate net income tax.</p><p>The credit can&rsquo;t reduce state tax liability by more than 50%, but it can be carried back to any tax year beginning after July 1, 2026. The bill passed the committee unanimously, without discussion or amendment.</p><h2 id=why-biochar>Why Biochar<a hidden class=anchor aria-hidden=true href=#why-biochar>#</a></h2><p>Biochar is produced by heating organic waste (wood chips, agricultural residue) in the absence of oxygen — a process called pyrolysis. The resulting carbon-rich material is stable for centuries, effectively locking atmospheric carbon into a solid form.</p><p>As a CDR pathway, biochar has some distinct advantages:</p><ul><li><strong>Proven permanence:</strong> Carbon stays locked for hundreds to thousands of years</li><li><strong>Co-benefits:</strong> Excellent soil amendment that improves water retention and nutrient availability</li><li><strong>Scalable feedstock:</strong> Agricultural and forestry waste is abundant and often problematic</li><li><strong>Market position:</strong> Biochar delivers over 90% of commercially traded permanent CDR credits globally</li></ul><p>CDI portfolio companies <a href=https://www.carbon-drawdown.de/blog/2026-2-9-how-to-make-biochar-at-different-scales-large-and-small-ft-cotierra-amp-syncraft>Cotierra and SYNCRAFT</a> demonstrate how biochar works at vastly different scales — from community-level production in Latin America to industrial CHP systems in Austria.</p><h2 id=the-political-signal>The Political Signal<a hidden class=anchor aria-hidden=true href=#the-political-signal>#</a></h2><p>A coal state creating tax incentives for carbon removal is politically significant. West Virginia has the biomass supply (forests, agricultural waste), the industrial workforce, and now the policy framework to attract biochar investment.</p><p>WVU is already part of MASbio, a research consortium studying biochar sustainability in the Mid-Atlantic region. The infrastructure for a biochar industry is forming.</p><h2 id=the-bigger-trend>The Bigger Trend<a hidden class=anchor aria-hidden=true href=#the-bigger-trend>#</a></h2><p>The Global Carbon Council recently launched a <a href=https://globalcarboncouncil.com/gcc-opens-public-stakeholder-consultation-on-draft-methodology-for-durable-biochar-production/>public consultation on a biochar carbon removal methodology</a>, and biochar credit prices have stabilized around $150/tCO₂e. With both policy support and market pricing improving, biochar is moving from niche to mainstream.</p><p><strong>Source:</strong> <a href=https://therealwv.com/2026/02/26/senate-hopes-to-incentivize-biochar-companies-to-locate-in-wv/>The Real WV</a></p><hr><h3 id=-related-reading>🔗 Related Reading<a hidden class=anchor aria-hidden=true href=#-related-reading>#</a></h3><ul><li><a href=/posts/germany-98m-cdr-budget/>Germany Puts €98 Million Into CDR — Its First Dedicated Federal Budget Line Ever</a></li><li><a href=/posts/cdr-roundup-feb-2026/>CDR Roundup: What&rsquo;s Moving in Carbon Removal (Feb 2026)</a></li><li><a href=/posts/why-carbon-removal-needs-more-than-trees/>Why Carbon Removal Needs More Than Trees</a></li><li><a href=/posts/biochar-quiet-giant-of-cdr/>Biochar: The Quiet Giant of Carbon Removal</a></li></ul>

@@ -1,0 +1,42 @@
+---
+title: "Kirsten A. Reid"
+description: "Kirsten A. Reid is a mid-career researcher at Institute of Plant and Animal Ecology in carbon dioxide removal"
+url: "/cdr-researcher-census/researchers/kirsten-a-reid-56624744/"
+type: "census"
+---
+
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"Person","name":"Kirsten A. Reid","affiliation":{"@type":"Organization","name":"Institute of Plant and Animal Ecology"},"url":"https://www.captaindrawdown.com/cdr-researcher-census/researchers/kirsten-a-reid-56624744/"}
+</script>
+
+##  Kirsten A. Reid
+
+**Institute of Plant and Animal Ecology** (RU)
+
+**Career Stage:** Mid-career
+**CDR Pathway:** CDR
+**Trajectory:** Stable
+**Data Confidence:** confirmed
+
+<table class="metrics-table">
+<tr><th>Metric</th><th>Value</th></tr>
+<tr><td>h-index</td><td>6</td></tr>
+<tr><td>Total Citations</td><td>350</td></tr>
+<tr><td>Total Publications</td><td>17</td></tr>
+<tr><td>CDR Focus</td><td>6%</td></tr>
+<tr><td>First CDR Paper</td><td>2018</td></tr>
+</table>
+
+## Top CDR Publications
+
+*No CDR papers indexed yet.*
+
+## External Links
+
+- [ORCID Profile](https://orcid.org/https://orcid.org/0000-0002-8373-336X)
+- [OpenAlex Profile](https://openalex.org/authors/https://openalex.org/A5056624744)
+
+
+---
+
+*Data from [OpenAlex](https://openalex.org) enriched with [ORCID](https://orcid.org). Part of the [CDR Researcher Census](/cdr-researcher-census/).*

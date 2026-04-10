@@ -1,72 +1,13 @@
 ---
 title: "Bio-DAC: Microalgae Raceways That Capture CO₂ Straight From Air"
-description: "Forget giant fans. Researchers demonstrated a 600 m² microalgae raceway that captures CO₂ directly from ambient air — using biology instead of chemistry."
 date: 2026-03-16T10:15:00+01:00
-slug: bio-dac-microalgae-raceway-co2
-aliases: ["/s/88"]
-pillar: "science"
-tags: ["CDR", "carbon removal", "DAC", "bio-DAC", "algae", "microalgae", "research"]
-summary: "A bio-DAC approach using microalgae raceways could offer a radically different — and potentially cheaper — path to direct air capture."
-draft: false
+description: "Forget giant fans. Researchers demonstrated a 600 m² microalgae raceway that captures CO₂ directly from ambient air — using biology instead of chemistry."
+tags: ["news"]
+slug: "bio-dac-microalgae-raceway-co2"
+author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/20260316-02.png"
-  alt: "Bio-DAC: Microalgae Raceways for Carbon Removal"
-  relative: false
+  image: "/images/posts/bio-dac-microalgae-raceway-co2.png"
+  alt: "Bio-DAC: Microalgae Raceways That Capture CO₂ Straight From Air"
+  hidden: false
 ---
-
-When you picture direct air capture, you probably think of Climeworks' imposing fan arrays on Icelandic basalt, or 1PointFive's industrial modules in Texas. Giant machines. Lots of energy. Chemical solvents or solid sorbents heated to high temperatures.
-
-What if the "machine" was a pond?
-
-## How Bio-DAC Works
-
-Researchers have demonstrated a bio-DAC (biological direct air capture) approach using large microalgae raceway reactors. A 600 m² system growing *Scenedesmus* — a common green microalga — operated under extreme carbon limitation, effectively forcing the algae to pull CO₂ directly from ambient air through photosynthesis.
-
-The concept is elegant in its simplicity. When you grow algae with a concentrated CO₂ supply (as most commercial algae farms do), the organisms don't need to work hard for carbon. But starve them of that easy supply, and they become remarkably efficient at scrubbing trace CO₂ from the air — the same ~420 ppm that DAC machines target.
-
-The energy input? Sunlight. The medium? Water. The chemistry? Handled by billions of photosynthetic cells that evolved to do exactly this over hundreds of millions of years.
-
-## What Makes This Different
-
-Conventional DAC approaches face two fundamental cost drivers: the energy needed to move large volumes of air past a sorbent, and the energy needed to release the captured CO₂ for storage. Both steps are thermodynamically expensive.
-
-Bio-DAC sidesteps both problems. The air-liquid interface of a raceway pond provides passive gas exchange — no fans needed. And the carbon ends up locked in biomass, not as a concentrated CO₂ stream that needs to be compressed and injected underground.
-
-That biomass can then be processed into durable carbon stores. Pyrolysis turns it into [biochar](/tags/biochar/) that persists in soil for centuries. Alternatively, the dried biomass can be used for bioenergy with the CO₂ captured, or simply buried in stable geological conditions.
-
-Recent research has also explored enhancing bio-DAC performance further. A 2024 study in *Separation and Purification Technology* showed that coating membrane spargers with [carbonic anhydrase](https://www.sciencedirect.com/science/article/abs/pii/S2211926424004879) — an enzyme that catalyzes CO₂ hydration — more than doubled algal CO₂ uptake compared to standard air sparging.
-
-## The Caveats
-
-Let's not oversell this. Bio-DAC is early-stage, and raceway systems have real constraints:
-
-**Land.** A 600 m² system is a demonstration. Removing meaningful quantities of CO₂ — say, a million tonnes per year — would require enormous pond areas. Unlike DAC machines, which can stack vertically, ponds are inherently 2D.
-
-**Water.** Open raceways lose water to evaporation, which matters in water-scarce regions — precisely where sunlight is most abundant.
-
-**Permanence.** Biomass is not inherently permanent storage. Without a conversion step (pyrolysis, burial, BiCRS), the carbon cycles back to the atmosphere when the algae decompose.
-
-**Climate dependence.** Algal growth rates drop in winter and at high latitudes. This isn't a year-round solution everywhere.
-
-## Why It Matters Anyway
-
-The CDR field needs diversity. Right now, the direct air capture conversation is dominated by two chemistry approaches: solid sorbent (Climeworks, Heirloom) and liquid solvent (Carbon Engineering/1PointFive). Both work. Both are scaling. Both are expensive.
-
-Bio-DAC represents a fundamentally different cost structure. No high-temperature regeneration. No exotic sorbent materials. No compressor trains. The inputs are sunlight, water, nutrients, and CO₂ that's already in the air.
-
-If the economics work at scale — and that's a genuine "if" — this could open up carbon removal in tropical developing countries with abundant sunlight and land but limited industrial infrastructure. That would be a meaningful contribution to making CDR a truly global effort, not just a wealthy-nation technology.
-
-It's early days. But the biology is sound, and the energy economics could be transformative.
-
----
-
-*Source: Research shared via [@geoengineering1 on X](https://x.com/geoengineering1/status/2032909151899365483). Related: [Direct Air Capture Integration with Algae Carbon Biocatalysis](https://www.energy.gov/sites/default/files/2023-04/beto-11-project-peer-review-algae-a-apr-2023-mcgowen.pdf) (US DOE project).*
-
----
-
-### 🔗 Related Reading
-
-- [New Nature Paper: Scaling CDR to Gigatons Could Strain Global Mineral and Nutrient Supplies](/posts/2026-03-08-nature-cdr-resource-limits/)
-- [500MW of Solar for the World's Largest DAC Plant](/posts/2026-02-25-500mw-solar-for-stratos-dac/)
-- [Mercedes F1 Goes All-In on Carbon Removal — 7 New Projects Across 6 Pathways](/posts/2026-03-05-mercedes-f1-cdr-portfolio/)
-- [🌍 From Germany: \"The Dangerous Dream of CO₂ Removal\" — A Skeptic's Case](/posts/2026-03-16-german-cdr-criticism-klimareporter/)
+<p>When you picture direct air capture, you probably think of Climeworks&rsquo; imposing fan arrays on Icelandic basalt, or 1PointFive&rsquo;s industrial modules in Texas. Giant machines. Lots of energy. Chemical solvents or solid sorbents heated to high temperatures.</p><p>What if the &ldquo;machine&rdquo; was a pond?</p><h2 id=how-bio-dac-works>How Bio-DAC Works<a hidden class=anchor aria-hidden=true href=#how-bio-dac-works>#</a></h2><p>Researchers have demonstrated a bio-DAC (biological direct air capture) approach using large microalgae raceway reactors. A 600 m² system growing <em>Scenedesmus</em> — a common green microalga — operated under extreme carbon limitation, effectively forcing the algae to pull CO₂ directly from ambient air through photosynthesis.</p><p>The concept is elegant in its simplicity. When you grow algae with a concentrated CO₂ supply (as most commercial algae farms do), the organisms don&rsquo;t need to work hard for carbon. But starve them of that easy supply, and they become remarkably efficient at scrubbing trace CO₂ from the air — the same ~420 ppm that DAC machines target.</p><p>The energy input? Sunlight. The medium? Water. The chemistry? Handled by billions of photosynthetic cells that evolved to do exactly this over hundreds of millions of years.</p><h2 id=what-makes-this-different>What Makes This Different<a hidden class=anchor aria-hidden=true href=#what-makes-this-different>#</a></h2><p>Conventional DAC approaches face two fundamental cost drivers: the energy needed to move large volumes of air past a sorbent, and the energy needed to release the captured CO₂ for storage. Both steps are thermodynamically expensive.</p><p>Bio-DAC sidesteps both problems. The air-liquid interface of a raceway pond provides passive gas exchange — no fans needed. And the carbon ends up locked in biomass, not as a concentrated CO₂ stream that needs to be compressed and injected underground.</p><p>That biomass can then be processed into durable carbon stores. Pyrolysis turns it into <a href=/tags/biochar/>biochar</a> that persists in soil for centuries. Alternatively, the dried biomass can be used for bioenergy with the CO₂ captured, or simply buried in stable geological conditions.</p><p>Recent research has also explored enhancing bio-DAC performance further. A 2024 study in <em>Separation and Purification Technology</em> showed that coating membrane spargers with <a href=https://www.sciencedirect.com/science/article/abs/pii/S2211926424004879>carbonic anhydrase</a> — an enzyme that catalyzes CO₂ hydration — more than doubled algal CO₂ uptake compared to standard air sparging.</p><h2 id=the-caveats>The Caveats<a hidden class=anchor aria-hidden=true href=#the-caveats>#</a></h2><p>Let&rsquo;s not oversell this. Bio-DAC is early-stage, and raceway systems have real constraints:</p><p><strong>Land.</strong> A 600 m² system is a demonstration. Removing meaningful quantities of CO₂ — say, a million tonnes per year — would require enormous pond areas. Unlike DAC machines, which can stack vertically, ponds are inherently 2D.</p><p><strong>Water.</strong> Open raceways lose water to evaporation, which matters in water-scarce regions — precisely where sunlight is most abundant.</p><p><strong>Permanence.</strong> Biomass is not inherently permanent storage. Without a conversion step (pyrolysis, burial, BiCRS), the carbon cycles back to the atmosphere when the algae decompose.</p><p><strong>Climate dependence.</strong> Algal growth rates drop in winter and at high latitudes. This isn&rsquo;t a year-round solution everywhere.</p><h2 id=why-it-matters-anyway>Why It Matters Anyway<a hidden class=anchor aria-hidden=true href=#why-it-matters-anyway>#</a></h2><p>The CDR field needs diversity. Right now, the direct air capture conversation is dominated by two chemistry approaches: solid sorbent (Climeworks, Heirloom) and liquid solvent (Carbon Engineering/1PointFive). Both work. Both are scaling. Both are expensive.</p><p>Bio-DAC represents a fundamentally different cost structure. No high-temperature regeneration. No exotic sorbent materials. No compressor trains. The inputs are sunlight, water, nutrients, and CO₂ that&rsquo;s already in the air.</p><p>If the economics work at scale — and that&rsquo;s a genuine &ldquo;if&rdquo; — this could open up carbon removal in tropical developing countries with abundant sunlight and land but limited industrial infrastructure. That would be a meaningful contribution to making CDR a truly global effort, not just a wealthy-nation technology.</p><p>It&rsquo;s early days. But the biology is sound, and the energy economics could be transformative.</p><hr><p><em>Source: Research shared via <a href=https://x.com/geoengineering1/status/2032909151899365483>@geoengineering1 on X</a>. Related: <a href=https://www.energy.gov/sites/default/files/2023-04/beto-11-project-peer-review-algae-a-apr-2023-mcgowen.pdf>Direct Air Capture Integration with Algae Carbon Biocatalysis</a> (US DOE project).</em></p><hr><h3 id=-related-reading>🔗 Related Reading<a hidden class=anchor aria-hidden=true href=#-related-reading>#</a></h3><ul><li><a href=/posts/nature-cdr-resource-limits/>New Nature Paper: Scaling CDR to Gigatons Could Strain Global Mineral and Nutrient Supplies</a></li><li><a href=/posts/500mw-solar-for-stratos-dac/>500MW of Solar for the World&rsquo;s Largest DAC Plant</a></li><li><a href=/posts/mercedes-f1-cdr-portfolio/>Mercedes F1 Goes All-In on Carbon Removal — 7 New Projects Across 6 Pathways</a></li><li><a href=/posts/german-cdr-criticism-klimareporter/>🌍 From Germany: "The Dangerous Dream of CO₂ Removal" — A Skeptic&rsquo;s Case</a></li></ul>

@@ -1,66 +1,13 @@
 ---
 title: "EU Launches World's First Voluntary Standard for Permanent Carbon Removals"
-date: 2026-03-06
-slug: eu-first-cdr-certification-standard
-aliases: ["/s/27"]
-draft: false
-pillar: "global"
-tags: ["CDR", "carbon removal", "EU", "CRCF", "DACCS", "BioCCS", "biochar", "certification", "regulation", "European Commission"]
-description: "The European Commission adopts certification methodologies for DACCS, BioCCS, and biochar under the CRCF Regulation — creating the world's first voluntary standard for permanent CDR."
+date: 2026-03-06T00:00:00Z
+description: "The European Commission adopts certification methodologies for DACCS, BioCCS, and biochar under the CRCF Regulation — creating the world's first voluntary stand"
+tags: ["news"]
+slug: "eu-first-cdr-certification-standard"
+author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/20260306-04.png"
+  image: "/images/posts/eu-first-cdr-certification-standard.png"
   alt: "EU Launches World's First Voluntary Standard for Permanent Carbon Removals"
-  relative: false
+  hidden: false
 ---
-
-The European Commission just did something no other jurisdiction has managed: it adopted the **world's first voluntary standard specifically for permanent carbon removals**.
-
-Under the [Carbon Removals and Carbon Farming (CRCF) Regulation](https://climate.ec.europa.eu/eu-action/carbon-removals-and-carbon-farming_en), the Commission published certification methodologies covering three pathways: **direct air capture with carbon storage (DACCS)**, **biogenic emissions capture with storage (BioCCS)**, and **biochar carbon removal (BCR)**.
-
-## What This Means in Practice
-
-Until now, permanent CDR projects in Europe operated in a regulatory grey zone. Buyers had no common framework for evaluating project quality. Developers had no certification path to demonstrate they met EU standards. That changes now.
-
-The methodologies define:
-- What counts as a tonne of removed CO₂
-- Permanence requirements and risk management
-- Leakage prevention rules
-- Liability frameworks
-- Measurement and verification standards
-
-The first certified projects are expected within months.
-
-## The Timing Is Not Coincidental
-
-This dropped the same week EU member states gave final approval to the legally binding **90% emissions reduction target by 2040** — with up to 5% achievable via carbon credits. Connect those dots: the EU now has both a target that *requires* CDR and a standard that *defines* what counts.
-
-For biochar specifically, this is massive. The EU has been cautious about recognizing biochar as a permanent removal pathway, but inclusion in the CRCF means projects can now be officially certified alongside DAC and BECCS. That opens access to EU climate funding mechanisms and corporate compliance pathways.
-
-## Why Europe, Not Elsewhere?
-
-The US has 45Q tax credits but no unified certification standard for CDR quality. The UK is developing its framework but hasn't published methodologies. The EU just shipped.
-
-Commissioner Wopke Hoekstra framed it as global leadership: *"By establishing clear, robust voluntary standards, we are not only fostering responsible climate action within Europe but also setting a global benchmark."*
-
-That's not just rhetoric. If the EU standard becomes the de facto benchmark — similar to how GDPR became the global privacy standard — it would shape CDR markets worldwide. Developers outside Europe would adopt EU methodologies to access European buyers, creating a regulatory gravity effect.
-
-## What Comes Next
-
-Additional methodologies for carbon farming and bio-based construction products are planned for later in 2026. An EU Buyers' Club for permanent removals is also in development, aimed at coordinating public and private procurement.
-
-The delegated regulation now faces a two-month scrutiny period. If the Parliament and Council don't object, expect it in the Official Journal by early April.
-
-Brussels moved first. Everyone else is now playing catch-up.
-
----
-
-*Sources: [Green.Earth](https://www.green.earth/news/eu-launches-the-first-voluntary-standard-for-carbon-removals) · [European Commission — CRCF](https://climate.ec.europa.eu/eu-action/carbon-removals-and-carbon-farming_en) · [Reuters — EU 90% target](https://www.reuters.com/sustainability/cop/eu-countries-give-final-approval-2040-climate-target-90-emissions-cut-2026-03-05/)*
-
----
-
-### 🔗 Related Reading
-
-- [The EU's Industrial Accelerator Act: What It Means for Carbon Removal](/posts/2026-03-05-eu-industrial-accelerator-act/)
-- [Why Carbon Removal Needs More Than Trees](/posts/why-carbon-removal-needs-more-than-trees/)
-- [Biochar: The Quiet Giant of Carbon Removal](/posts/2026-02-25-biochar-quiet-giant-of-cdr/)
-- [Japan-India Biochar Alliance: Industrial-Scale CDR Comes to Asia](/posts/green-carbon-india-biochar-partnership/)
+<p>The European Commission just did something no other jurisdiction has managed: it adopted the <strong>world&rsquo;s first voluntary standard specifically for permanent carbon removals</strong>.</p><p>Under the <a href=https://climate.ec.europa.eu/eu-action/carbon-removals-and-carbon-farming_en>Carbon Removals and Carbon Farming (CRCF) Regulation</a>, the Commission published certification methodologies covering three pathways: <strong>direct air capture with carbon storage (DACCS)</strong>, <strong>biogenic emissions capture with storage (BioCCS)</strong>, and <strong>biochar carbon removal (BCR)</strong>.</p><h2 id=what-this-means-in-practice>What This Means in Practice<a hidden class=anchor aria-hidden=true href=#what-this-means-in-practice>#</a></h2><p>Until now, permanent CDR projects in Europe operated in a regulatory grey zone. Buyers had no common framework for evaluating project quality. Developers had no certification path to demonstrate they met EU standards. That changes now.</p><p>The methodologies define:</p><ul><li>What counts as a tonne of removed CO₂</li><li>Permanence requirements and risk management</li><li>Leakage prevention rules</li><li>Liability frameworks</li><li>Measurement and verification standards</li></ul><p>The first certified projects are expected within months.</p><h2 id=the-timing-is-not-coincidental>The Timing Is Not Coincidental<a hidden class=anchor aria-hidden=true href=#the-timing-is-not-coincidental>#</a></h2><p>This dropped the same week EU member states gave final approval to the legally binding <strong>90% emissions reduction target by 2040</strong> — with up to 5% achievable via carbon credits. Connect those dots: the EU now has both a target that <em>requires</em> CDR and a standard that <em>defines</em> what counts.</p><p>For biochar specifically, this is massive. The EU has been cautious about recognizing biochar as a permanent removal pathway, but inclusion in the CRCF means projects can now be officially certified alongside DAC and BECCS. That opens access to EU climate funding mechanisms and corporate compliance pathways.</p><h2 id=why-europe-not-elsewhere>Why Europe, Not Elsewhere?<a hidden class=anchor aria-hidden=true href=#why-europe-not-elsewhere>#</a></h2><p>The US has 45Q tax credits but no unified certification standard for CDR quality. The UK is developing its framework but hasn&rsquo;t published methodologies. The EU just shipped.</p><p>Commissioner Wopke Hoekstra framed it as global leadership: <em>&ldquo;By establishing clear, robust voluntary standards, we are not only fostering responsible climate action within Europe but also setting a global benchmark.&rdquo;</em></p><p>That&rsquo;s not just rhetoric. If the EU standard becomes the de facto benchmark — similar to how GDPR became the global privacy standard — it would shape CDR markets worldwide. Developers outside Europe would adopt EU methodologies to access European buyers, creating a regulatory gravity effect.</p><h2 id=what-comes-next>What Comes Next<a hidden class=anchor aria-hidden=true href=#what-comes-next>#</a></h2><p>Additional methodologies for carbon farming and bio-based construction products are planned for later in 2026. An EU Buyers&rsquo; Club for permanent removals is also in development, aimed at coordinating public and private procurement.</p><p>The delegated regulation now faces a two-month scrutiny period. If the Parliament and Council don&rsquo;t object, expect it in the Official Journal by early April.</p><p>Brussels moved first. Everyone else is now playing catch-up.</p><hr><p><em>Sources: <a href=https://www.green.earth/news/eu-launches-the-first-voluntary-standard-for-carbon-removals>Green.Earth</a> · <a href=https://climate.ec.europa.eu/eu-action/carbon-removals-and-carbon-farming_en>European Commission — CRCF</a> · <a href=https://www.reuters.com/sustainability/cop/eu-countries-give-final-approval-2040-climate-target-90-emissions-cut-2026-03-05/>Reuters — EU 90% target</a></em></p><hr><h3 id=-related-reading>🔗 Related Reading<a hidden class=anchor aria-hidden=true href=#-related-reading>#</a></h3><ul><li><a href=/posts/eu-industrial-accelerator-act/>The EU&rsquo;s Industrial Accelerator Act: What It Means for Carbon Removal</a></li><li><a href=/posts/why-carbon-removal-needs-more-than-trees/>Why Carbon Removal Needs More Than Trees</a></li><li><a href=/posts/biochar-quiet-giant-of-cdr/>Biochar: The Quiet Giant of Carbon Removal</a></li><li><a href=/posts/green-carbon-india-biochar-partnership/>Japan-India Biochar Alliance: Industrial-Scale CDR Comes to Asia</a></li></ul>

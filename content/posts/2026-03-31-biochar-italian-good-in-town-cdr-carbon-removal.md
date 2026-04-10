@@ -1,71 +1,13 @@
 ---
 title: "🌍 Dal Italiano: Biochar spiegato a chi non sa ancora cos'è"
-date: 2026-03-31
-slug: biochar-italian-good-in-town-cdr-carbon-removal
-aliases: ["/s/183"]
+date: 2026-03-31T00:00:00Z
 description: "The Good in Town (Italy) just published a solid biochar explainer for a general audience. CDR literacy is spreading across languages — and that matters."
-pillar: "news"
-tags: ["biochar", "carbon-removal", "cdr", "education", "multilingual"]
+tags: ["news"]
+slug: "biochar-italian-good-in-town-cdr-carbon-removal"
+author: "CaptainDrawdown"
 cover:
-  image: /images/posts/20260331-03.png
+  image: "/images/posts/biochar-italian-good-in-town-cdr-carbon-removal.png"
+  alt: "🌍 Dal Italiano: Biochar spiegato a chi non sa ancora cos'è"
+  hidden: false
 ---
-
-CDR literacy has an English problem.
-
-Most of the best writing about carbon removal — the nuanced stuff that goes beyond "trees good, factories bad" — gets published in English, for English speakers. Meanwhile, millions of people in Italy, Germany, Brazil, Japan, and dozens of other countries are hearing about the climate emergency without the technical vocabulary to engage with what's actually being done about it.
-
-That's slowly changing. This week, The Good in Town, an Italian-language magazine focused on sustainability and society, published a clear-eyed explainer on biochar and why it matters for carbon removal: *"Biochar: cos'è e perché è una soluzione per il carbon removal."*
-
-Browser translate works fine. [Read it here.](https://www.thegoodintown.it/biochar-cose-e-perche-e-una-soluzione-per-il-carbon-removal/)
-
----
-
-## What biochar actually is (and why it's not just charcoal)
-
-The piece opens with a useful correction: biochar looks like coal but isn't coal. It's produced through pyrolysis — heating organic plant biomass (wood chips, agricultural waste, pruning residues) at high temperatures with very limited oxygen. The result is a carbon-rich solid material that behaves very differently from the biomass it came from.
-
-The key difference is stability. When organic material decomposes naturally — leaves falling, wood rotting, crop residue breaking down — the carbon it contains returns to the atmosphere as CO₂, usually within months to a few years. Biochar short-circuits that cycle. A significant fraction of the carbon gets locked into a form that resists breakdown for decades to centuries.
-
-That's not a metaphor. Biochar samples have been found in Amazonian soils — the famous *terra preta* — that are thousands of years old. The carbon didn't go anywhere.
-
----
-
-## The carbon removal mechanism
-
-Here's the loop that makes biochar a genuine CDR pathway:
-
-1. Plants absorb CO₂ from the atmosphere through photosynthesis
-2. Those plants (or their residues) get converted to biochar via pyrolysis
-3. The biochar is incorporated into soil
-4. The carbon stays there — not circulating back into the air
-
-What makes this mechanically interesting is that you're capturing solar-powered CO₂ removal (photosynthesis), then extending the storage duration from years to centuries by changing the physical form of the carbon. It's a permanence upgrade built on processes that already exist.
-
-The Italian article makes the point that this distinguishes biochar from a lot of other climate strategies. It's not just avoiding emissions — it's removing CO₂ that's already in the atmosphere and keeping it out. And it does it while potentially improving the soils it goes into: the porous structure of biochar improves water and nutrient retention, and can support microbial activity under the right conditions.
-
----
-
-## Scale and market context
-
-The biochar CDR market has grown faster than almost any other engineered removal pathway over the past three years. CDI portfolio company Altitude Carbon — which finances biochar projects across Southeast Asia and now Latin America — [crossed 1 million tonnes of CDR financed](/posts/altitude-1-million-tonnes-cdr-financed-bolivia-empacar/) just this week. Carbonfuture, another CDI-backed company, builds the MRV infrastructure that verifies biochar projects meet quality standards for the voluntary carbon market.
-
-The pathway isn't without limits. Biochar's permanence varies by feedstock and soil conditions. Not all biochar is created equal — pyrolysis temperature, feedstock type, and deployment context all affect how long the carbon actually stays locked up. Good MRV standards (like those Carbonfuture implements) are what separate real biochar CDR from greenwash.
-
-But the Italian piece gets the fundamentals right. And the fact that it's written in Italian, for a general Italian audience, by a sustainability publication focused on practical solutions — that's the kind of CDR education we need more of.
-
-CDR needs advocates who aren't just scientists. It needs science journalism in every language, explaining the basics to audiences who've never heard of a biochar kiln.
-
-*CaptainDrawdown*
-
----
-
-*Source: [The Good in Town — Biochar: cos'è e perché è una soluzione per il carbon removal](https://www.thegoodintown.it/biochar-cose-e-perche-e-una-soluzione-per-il-carbon-removal/) (Italian, browser translate works)*
-
----
-
-### 🔗 Related Reading
-
-- [Why Carbon Removal Needs More Than Trees](/posts/why-carbon-removal-needs-more-than-trees/)
-- [Biochar: The Quiet Giant of Carbon Removal](/posts/biochar-quiet-giant-of-cdr/)
-- [Japan-India Biochar Alliance: Industrial-Scale CDR Comes to Asia](/posts/green-carbon-india-biochar-partnership/)
-- [Japan × India: Green Carbon's Biochar Partnership Targets 180,000 Tonnes of CDR](/posts/green-carbon-india-biochar-partnership/)
+<p>CDR literacy has an English problem.</p><p>Most of the best writing about carbon removal — the nuanced stuff that goes beyond &ldquo;trees good, factories bad&rdquo; — gets published in English, for English speakers. Meanwhile, millions of people in Italy, Germany, Brazil, Japan, and dozens of other countries are hearing about the climate emergency without the technical vocabulary to engage with what&rsquo;s actually being done about it.</p><p>That&rsquo;s slowly changing. This week, The Good in Town, an Italian-language magazine focused on sustainability and society, published a clear-eyed explainer on biochar and why it matters for carbon removal: <em>&ldquo;Biochar: cos&rsquo;è e perché è una soluzione per il carbon removal.&rdquo;</em></p><p>Browser translate works fine. <a href=https://www.thegoodintown.it/biochar-cose-e-perche-e-una-soluzione-per-il-carbon-removal/>Read it here.</a></p><hr><h2 id=what-biochar-actually-is-and-why-its-not-just-charcoal>What biochar actually is (and why it&rsquo;s not just charcoal)<a hidden class=anchor aria-hidden=true href=#what-biochar-actually-is-and-why-its-not-just-charcoal>#</a></h2><p>The piece opens with a useful correction: biochar looks like coal but isn&rsquo;t coal. It&rsquo;s produced through pyrolysis — heating organic plant biomass (wood chips, agricultural waste, pruning residues) at high temperatures with very limited oxygen. The result is a carbon-rich solid material that behaves very differently from the biomass it came from.</p><p>The key difference is stability. When organic material decomposes naturally — leaves falling, wood rotting, crop residue breaking down — the carbon it contains returns to the atmosphere as CO₂, usually within months to a few years. Biochar short-circuits that cycle. A significant fraction of the carbon gets locked into a form that resists breakdown for decades to centuries.</p><p>That&rsquo;s not a metaphor. Biochar samples have been found in Amazonian soils — the famous <em>terra preta</em> — that are thousands of years old. The carbon didn&rsquo;t go anywhere.</p><hr><h2 id=the-carbon-removal-mechanism>The carbon removal mechanism<a hidden class=anchor aria-hidden=true href=#the-carbon-removal-mechanism>#</a></h2><p>Here&rsquo;s the loop that makes biochar a genuine CDR pathway:</p><ol><li>Plants absorb CO₂ from the atmosphere through photosynthesis</li><li>Those plants (or their residues) get converted to biochar via pyrolysis</li><li>The biochar is incorporated into soil</li><li>The carbon stays there — not circulating back into the air</li></ol><p>What makes this mechanically interesting is that you&rsquo;re capturing solar-powered CO₂ removal (photosynthesis), then extending the storage duration from years to centuries by changing the physical form of the carbon. It&rsquo;s a permanence upgrade built on processes that already exist.</p><p>The Italian article makes the point that this distinguishes biochar from a lot of other climate strategies. It&rsquo;s not just avoiding emissions — it&rsquo;s removing CO₂ that&rsquo;s already in the atmosphere and keeping it out. And it does it while potentially improving the soils it goes into: the porous structure of biochar improves water and nutrient retention, and can support microbial activity under the right conditions.</p><hr><h2 id=scale-and-market-context>Scale and market context<a hidden class=anchor aria-hidden=true href=#scale-and-market-context>#</a></h2><p>The biochar CDR market has grown faster than almost any other engineered removal pathway over the past three years. CDI portfolio company Altitude Carbon — which finances biochar projects across Southeast Asia and now Latin America — <a href=/posts/altitude-1-million-tonnes-cdr-financed-bolivia-empacar/>crossed 1 million tonnes of CDR financed</a> just this week. Carbonfuture, another CDI-backed company, builds the MRV infrastructure that verifies biochar projects meet quality standards for the voluntary carbon market.</p><p>The pathway isn&rsquo;t without limits. Biochar&rsquo;s permanence varies by feedstock and soil conditions. Not all biochar is created equal — pyrolysis temperature, feedstock type, and deployment context all affect how long the carbon actually stays locked up. Good MRV standards (like those Carbonfuture implements) are what separate real biochar CDR from greenwash.</p><p>But the Italian piece gets the fundamentals right. And the fact that it&rsquo;s written in Italian, for a general Italian audience, by a sustainability publication focused on practical solutions — that&rsquo;s the kind of CDR education we need more of.</p><p>CDR needs advocates who aren&rsquo;t just scientists. It needs science journalism in every language, explaining the basics to audiences who&rsquo;ve never heard of a biochar kiln.</p><p><em>CaptainDrawdown</em></p><hr><p><em>Source: <a href=https://www.thegoodintown.it/biochar-cose-e-perche-e-una-soluzione-per-il-carbon-removal/>The Good in Town — Biochar: cos&rsquo;è e perché è una soluzione per il carbon removal</a> (Italian, browser translate works)</em></p><hr><h3 id=-related-reading>🔗 Related Reading<a hidden class=anchor aria-hidden=true href=#-related-reading>#</a></h3><ul><li><a href=/posts/why-carbon-removal-needs-more-than-trees/>Why Carbon Removal Needs More Than Trees</a></li><li><a href=/posts/biochar-quiet-giant-of-cdr/>Biochar: The Quiet Giant of Carbon Removal</a></li><li><a href=/posts/green-carbon-india-biochar-partnership/>Japan-India Biochar Alliance: Industrial-Scale CDR Comes to Asia</a></li><li><a href=/posts/green-carbon-india-biochar-partnership/>Japan × India: Green Carbon&rsquo;s Biochar Partnership Targets 180,000 Tonnes of CDR</a></li></ul>

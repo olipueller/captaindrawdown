@@ -1,10 +1,47 @@
 {
-  "total_authors": 122674,
+  "total_authors": 112462,
   "total_papers": 24749,
   "countries": 186,
-  "institutions": 18133,
-  "with_orcid": 80519,
-  "core_researchers": 70808,
-  "growing": 36248,
-  "with_country": 112663
+  "institutions": 18108,
+  "pathways": {
+    "Soil Carbon": 30164,
+    "General CDR": 16947,
+    "Biochar": 16633,
+    "Enhanced Weathering": 2966,
+    "DAC": 2457,
+    "BECCS": 2332,
+    "Ocean CDR": 2268
+  },
+  "top_countries": {
+    "CN": 37921,
+    "US": 14201,
+    "IN": 8143,
+    "GB": 3674,
+    "DE": 3557,
+    "BR": 2796,
+    "IT": 2304,
+    "AU": 2155,
+    "CA": 2025,
+    "FR": 2007,
+    "ES": 1758,
+    "JP": 1657,
+    "KR": 1599,
+    "ID": 1430,
+    "PK": 1145,
+    "MY": 1111,
+    "RU": 1089,
+    "NL": 1060,
+    "IR": 855,
+    "CH": 843
+  },
+  "sectors": {
+    "Academic": 80924,
+    "Research Institute": 10492,
+    "Government": 6955,
+    "Unknown": 4653,
+    "Corporate": 3312,
+    "Healthcare": 2409,
+    "NGO": 2297,
+    "Other": 1420
+  }
 }

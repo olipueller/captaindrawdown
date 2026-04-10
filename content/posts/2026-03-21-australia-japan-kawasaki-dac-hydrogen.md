@@ -1,45 +1,13 @@
 ---
 title: "Australia and Japan Are Quietly Building a DAC and Hydrogen Partnership"
-date: 2026-03-21
-slug: australia-japan-kawasaki-dac-hydrogen
-aliases: ["/s/123"]
+date: 2026-03-21T00:00:00Z
 description: "While US DAC hubs sit frozen, Australia's climate minister met with Kawasaki Heavy Industries in Kobe to discuss DAC collaboration and hydrogen supply chains."
-pillar: "global"
-tags: ["DAC", "hydrogen", "Japan", "Australia", "international"]
+tags: ["news"]
+slug: "australia-japan-kawasaki-dac-hydrogen"
+author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/20260321-03.png"
+  image: "/images/posts/australia-japan-kawasaki-dac-hydrogen.png"
   alt: "Australia and Japan Are Quietly Building a DAC and Hydrogen Partnership"
-  relative: false
+  hidden: false
 ---
-
-While America's [$3.5 billion DAC hub program](/posts/doe-dac-hubs-stalled-audit/) sits in bureaucratic limbo, Australia's climate minister Madeleine King was in Kobe meeting with Kawasaki Heavy Industries executives about direct air capture and hydrogen.
-
-No audits. No 500-day review. Just two countries making plans.
-
-## Why KHI matters
-
-Kawasaki Heavy Industries isn't a climate startup hoping to survive its next funding round. It's a $15B+ industrial conglomerate that builds gas turbines, LNG carriers, ships, aerospace components, and rolling stock. When KHI shows up at a DAC meeting, it means heavy industry — the kind that actually builds infrastructure at scale — sees a business case.
-
-The meeting covered DAC collaboration, hydrogen supply chains, and shared net-zero goals. Australia's ambassador to Japan described "huge potential for deeper partnerships." That's diplomatic boilerplate, sure. But the fact that a climate minister and an industrial giant's C-suite are in the same room talking DAC specifics isn't boilerplate. It's signal.
-
-## The Asia-Pacific pattern
-
-This isn't isolated. Japan has been methodically building carbon management partnerships across the Asia-Pacific. Australia has the land, the renewable energy potential, and the geological storage. Japan has the engineering capability, the industrial demand, and the capital. Hydrogen ties the story together — green hydrogen from Australian renewables shipped to Japan, with DAC as part of the broader decarbonization architecture.
-
-It's a different model from the US approach. Washington bet big on domestic hubs funded by federal grants, then froze the money when the administration changed. The Australia-Japan model is bilateral, government-to-industry, and less dependent on any single political cycle.
-
-## The comparison is unavoidable
-
-Project Cypress has Climeworks and Heirloom waiting on a DOE decision that may never come. Kawasaki Heavy Industries is meeting with ministers. One approach has stalled. The other is accelerating.
-
-The US still has more DAC capacity under development than anywhere else. But capacity under review isn't capacity under construction. And every month the hubs stay frozen, partnerships like this one make the Asia-Pacific a more attractive place to build carbon removal infrastructure.
-
-**Source:** [Australian Ambassador to Japan (@AusAmbJPN)](https://x.com/AusAmbJPN/status/2034793622009532740)
-
----
-
-### 🔗 Related Reading
-
-- [$3.5B in DAC Hubs Are Stuck in Political Limbo](/posts/doe-dac-hubs-stalled-audit/)
-- [China's Carbonology Bets on Synthetic Fuel from DAC](/posts/china-carbonology-synthetic-fuel-dac/)
-- [500MW Solar for Stratos DAC Plant](/posts/2026-02-25-500mw-solar-for-stratos-dac/)
+<p>While America&rsquo;s <a href=/posts/doe-dac-hubs-stalled-audit/>$3.5 billion DAC hub program</a> sits in bureaucratic limbo, Australia&rsquo;s climate minister Madeleine King was in Kobe meeting with Kawasaki Heavy Industries executives about direct air capture and hydrogen.</p><p>No audits. No 500-day review. Just two countries making plans.</p><h2 id=why-khi-matters>Why KHI matters<a hidden class=anchor aria-hidden=true href=#why-khi-matters>#</a></h2><p>Kawasaki Heavy Industries isn&rsquo;t a climate startup hoping to survive its next funding round. It&rsquo;s a $15B+ industrial conglomerate that builds gas turbines, LNG carriers, ships, aerospace components, and rolling stock. When KHI shows up at a DAC meeting, it means heavy industry — the kind that actually builds infrastructure at scale — sees a business case.</p><p>The meeting covered DAC collaboration, hydrogen supply chains, and shared net-zero goals. Australia&rsquo;s ambassador to Japan described &ldquo;huge potential for deeper partnerships.&rdquo; That&rsquo;s diplomatic boilerplate, sure. But the fact that a climate minister and an industrial giant&rsquo;s C-suite are in the same room talking DAC specifics isn&rsquo;t boilerplate. It&rsquo;s signal.</p><h2 id=the-asia-pacific-pattern>The Asia-Pacific pattern<a hidden class=anchor aria-hidden=true href=#the-asia-pacific-pattern>#</a></h2><p>This isn&rsquo;t isolated. Japan has been methodically building carbon management partnerships across the Asia-Pacific. Australia has the land, the renewable energy potential, and the geological storage. Japan has the engineering capability, the industrial demand, and the capital. Hydrogen ties the story together — green hydrogen from Australian renewables shipped to Japan, with DAC as part of the broader decarbonization architecture.</p><p>It&rsquo;s a different model from the US approach. Washington bet big on domestic hubs funded by federal grants, then froze the money when the administration changed. The Australia-Japan model is bilateral, government-to-industry, and less dependent on any single political cycle.</p><h2 id=the-comparison-is-unavoidable>The comparison is unavoidable<a hidden class=anchor aria-hidden=true href=#the-comparison-is-unavoidable>#</a></h2><p>Project Cypress has Climeworks and Heirloom waiting on a DOE decision that may never come. Kawasaki Heavy Industries is meeting with ministers. One approach has stalled. The other is accelerating.</p><p>The US still has more DAC capacity under development than anywhere else. But capacity under review isn&rsquo;t capacity under construction. And every month the hubs stay frozen, partnerships like this one make the Asia-Pacific a more attractive place to build carbon removal infrastructure.</p><p><strong>Source:</strong> <a href=https://x.com/AusAmbJPN/status/2034793622009532740>Australian Ambassador to Japan (@AusAmbJPN)</a></p><hr><h3 id=-related-reading>🔗 Related Reading<a hidden class=anchor aria-hidden=true href=#-related-reading>#</a></h3><ul><li><a href=/posts/doe-dac-hubs-stalled-audit/>$3.5B in DAC Hubs Are Stuck in Political Limbo</a></li><li><a href=/posts/china-carbonology-synthetic-fuel-dac/>China&rsquo;s Carbonology Bets on Synthetic Fuel from DAC</a></li><li><a href=/posts/500mw-solar-for-stratos-dac/>500MW Solar for Stratos DAC Plant</a></li></ul>

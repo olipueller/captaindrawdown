@@ -1,56 +1,13 @@
 ---
 title: "Equatic Seawater Alkalinization: 96–98% CO₂ Removal in Lab Tests"
-date: 2026-03-29
-slug: equatic-seawater-alkalinization-oae-study
-aliases: ["/s/170"]
-description: "New lab data on Equatic's electrolysis-based ocean alkalinity enhancement shows 96–98% CO₂ removal efficiency and ~3.5g CO₂ sequestered per liter. Marine CDR is getting more concrete."
+date: 2026-03-29T00:00:00Z
+description: "New lab data on Equatic's electrolysis-based ocean alkalinity enhancement shows 96–98% CO₂ removal efficiency and ~3.5g CO₂ sequestered per liter. Marine CDR is"
+tags: ["news"]
+slug: "equatic-seawater-alkalinization-oae-study"
+author: "CaptainDrawdown"
 cover:
-  image: /images/posts/20260329-03.png
-pillar: "science"
-tags: ["OAE", "ocean CDR", "marine", "science", "Equatic"]
+  image: "/images/posts/equatic-seawater-alkalinization-oae-study.png"
+  alt: "Equatic Seawater Alkalinization: 96–98% CO₂ Removal in Lab Tests"
+  hidden: false
 ---
-
-Ocean-based carbon dioxide removal has long carried a reputation for being conceptually promising but empirically vague. New lab results from a study on Equatic's electrolysis process push things in a more concrete direction.
-
-The study tested seawater alkalinization via two methods — direct and sequential carbonation — using Equatic's electrolysis approach. Both methods achieved 96–98% CO₂ removal efficiency. Both sequestered approximately 3.5 grams of CO₂ per liter of treated seawater.
-
-Those numbers are notable. They're not projections or models — they're measured removal rates from controlled experiments.
-
-## What Equatic's Process Does
-
-Equatic uses electrolysis to split water, generating hydrogen and oxygen while increasing seawater's alkalinity. The alkalinity increase causes the seawater to absorb more CO₂ from the atmosphere, which then mineralizes and is stored in dissolved form — stable over ocean-relevant timescales.
-
-The process produces hydrogen as a co-product, which can be sold as clean fuel, offsetting operating costs. The economics of OAE depend heavily on this: pure CDR plays often struggle to pencil out at scale; a valuable co-product changes the calculation.
-
-## The Scale Question
-
-3.5g CO₂ per liter sounds small — and in isolation, it is. The ocean holds roughly 1.335 billion cubic kilometers of water. OAE's theoretical ceiling is enormous. But that comparison is misleading: you're not treating the whole ocean, you're treating water through facilities at defined locations.
-
-The more relevant math is at the facility scale. If a processing facility runs at 1 million liters per hour — achievable with industrial-scale electrolysis — you're sequestering ~3,500 kg of CO₂ per hour, or roughly 30,000 tonnes per year from a single facility. Scale that across hundreds of coastal installations and the numbers become significant.
-
-## The Open Questions
-
-The jump from lab results to open-ocean CDR is not trivial. The key unsolved problems are:
-
-**Monitoring and verification.** Alkalinity shifts in mixed ocean water are hard to attribute cleanly. MRV methods for OAE are still maturing. Without credible accounting, credits can't be sold.
-
-**Ecosystem effects.** Changing local alkalinity in real coastal environments affects pH, affects marine chemistry, affects biology. Equatic and other OAE companies have ongoing field trials studying this. The lab results don't answer it.
-
-**Energy source.** The electrolysis process is energy-intensive. OAE's carbon footprint depends entirely on the power source. Renewables-powered OAE looks very different from grid-powered.
-
-None of these are deal-killers. They're engineering and science challenges on a known roadmap. The 96–98% removal efficiency is a useful baseline confirmation that the core chemistry works as predicted.
-
-Ocean CDR isn't ready for large-scale deployment. But the distance between "concept" and "demonstrated chemistry" is shrinking.
-
----
-
-*Via [@geoengineering1](https://x.com/geoengineering1/status/2037618340462559292) on X.*
-
----
-
-### 🔗 Related Reading
-
-- [Gulf of Maine OAE Trial: CO₂ Captured, No Harm to Marine Life](/posts/gulf-of-maine-oae-trial-results/)
-- [First Open-Water OAE Test Absorbs 10 Tonnes of CO₂ — And Restores Ocean pH to Preindustrial](/posts/loc-ness-oae-first-open-water-results/)
-- [First EPA-Permitted Ocean Alkalinity Trial Removes CO₂ Without Harming Marine Life](/posts/whoi-loc-ness-oae-trial-results/)
-- [Microbes on Marine Snow May Limit How Deep Carbon Actually Sinks](/posts/microbes-marine-snow-ocean-carbon-sink/)
+<p>Ocean-based carbon dioxide removal has long carried a reputation for being conceptually promising but empirically vague. New lab results from a study on Equatic&rsquo;s electrolysis process push things in a more concrete direction.</p><p>The study tested seawater alkalinization via two methods — direct and sequential carbonation — using Equatic&rsquo;s electrolysis approach. Both methods achieved 96–98% CO₂ removal efficiency. Both sequestered approximately 3.5 grams of CO₂ per liter of treated seawater.</p><p>Those numbers are notable. They&rsquo;re not projections or models — they&rsquo;re measured removal rates from controlled experiments.</p><h2 id=what-equatics-process-does>What Equatic&rsquo;s Process Does<a hidden class=anchor aria-hidden=true href=#what-equatics-process-does>#</a></h2><p>Equatic uses electrolysis to split water, generating hydrogen and oxygen while increasing seawater&rsquo;s alkalinity. The alkalinity increase causes the seawater to absorb more CO₂ from the atmosphere, which then mineralizes and is stored in dissolved form — stable over ocean-relevant timescales.</p><p>The process produces hydrogen as a co-product, which can be sold as clean fuel, offsetting operating costs. The economics of OAE depend heavily on this: pure CDR plays often struggle to pencil out at scale; a valuable co-product changes the calculation.</p><h2 id=the-scale-question>The Scale Question<a hidden class=anchor aria-hidden=true href=#the-scale-question>#</a></h2><p>3.5g CO₂ per liter sounds small — and in isolation, it is. The ocean holds roughly 1.335 billion cubic kilometers of water. OAE&rsquo;s theoretical ceiling is enormous. But that comparison is misleading: you&rsquo;re not treating the whole ocean, you&rsquo;re treating water through facilities at defined locations.</p><p>The more relevant math is at the facility scale. If a processing facility runs at 1 million liters per hour — achievable with industrial-scale electrolysis — you&rsquo;re sequestering ~3,500 kg of CO₂ per hour, or roughly 30,000 tonnes per year from a single facility. Scale that across hundreds of coastal installations and the numbers become significant.</p><h2 id=the-open-questions>The Open Questions<a hidden class=anchor aria-hidden=true href=#the-open-questions>#</a></h2><p>The jump from lab results to open-ocean CDR is not trivial. The key unsolved problems are:</p><p><strong>Monitoring and verification.</strong> Alkalinity shifts in mixed ocean water are hard to attribute cleanly. MRV methods for OAE are still maturing. Without credible accounting, credits can&rsquo;t be sold.</p><p><strong>Ecosystem effects.</strong> Changing local alkalinity in real coastal environments affects pH, affects marine chemistry, affects biology. Equatic and other OAE companies have ongoing field trials studying this. The lab results don&rsquo;t answer it.</p><p><strong>Energy source.</strong> The electrolysis process is energy-intensive. OAE&rsquo;s carbon footprint depends entirely on the power source. Renewables-powered OAE looks very different from grid-powered.</p><p>None of these are deal-killers. They&rsquo;re engineering and science challenges on a known roadmap. The 96–98% removal efficiency is a useful baseline confirmation that the core chemistry works as predicted.</p><p>Ocean CDR isn&rsquo;t ready for large-scale deployment. But the distance between &ldquo;concept&rdquo; and &ldquo;demonstrated chemistry&rdquo; is shrinking.</p><hr><p><em>Via <a href=https://x.com/geoengineering1/status/2037618340462559292>@geoengineering1</a> on X.</em></p><hr><h3 id=-related-reading>🔗 Related Reading<a hidden class=anchor aria-hidden=true href=#-related-reading>#</a></h3><ul><li><a href=/posts/gulf-of-maine-oae-trial-results/>Gulf of Maine OAE Trial: CO₂ Captured, No Harm to Marine Life</a></li><li><a href=/posts/loc-ness-oae-first-open-water-results/>First Open-Water OAE Test Absorbs 10 Tonnes of CO₂ — And Restores Ocean pH to Preindustrial</a></li><li><a href=/posts/whoi-loc-ness-oae-trial-results/>First EPA-Permitted Ocean Alkalinity Trial Removes CO₂ Without Harming Marine Life</a></li><li><a href=/posts/microbes-marine-snow-ocean-carbon-sink/>Microbes on Marine Snow May Limit How Deep Carbon Actually Sinks</a></li></ul>

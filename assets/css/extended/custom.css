@@ -1,4 +1,4 @@
-/* CaptainDrawdown brand colors */
+/* CaptainDrawdown brand colors — V1 heritage */
 :root {
   --brand-navy: #0a1930;
   --brand-teal: #00c8b4;
@@ -16,54 +16,65 @@ body.dark {
 body.dark .post-title,
 body.dark .post-content h1,
 body.dark .post-content h2,
-body.dark .post-content h3 {
-  color: #e8ecf1;
-}
-
-body.dark a {
-  color: #00c8b4;
-}
-
-body.dark a:hover {
-  color: #33d6c8;
-}
-
-body.dark .entry:hover {
-  background: #132a4a;
-}
-
-body.dark .home-info .entry-content {
-  color: #b0bec5;
-}
-
-.social-icons a svg {
-  fill: #00c8b4;
-}
-
-.social-icons a:hover svg {
-  fill: #33d6c8;
-}
-
-body.dark .footer {
-  color: #6b7d8d;
-}
-
-body.dark .nav a {
-  color: #00c8b4;
-}
-
-body.dark .logo a {
-  color: #00c8b4;
-}
-
-/* Tag pills */
+body.dark .post-content h3 { color: #e8ecf1; }
+body.dark a { color: #00c8b4; }
+body.dark a:hover { color: #33d6c8; }
+body.dark .entry:hover { background: #132a4a; }
+body.dark .home-info .entry-content { color: #b0bec5; }
+.social-icons a svg { fill: #00c8b4; }
+.social-icons a:hover svg { fill: #33d6c8; }
+body.dark .footer { color: #6b7d8d; }
+body.dark .nav a { color: #00c8b4; }
+body.dark .logo a { color: #00c8b4; }
 body.dark .post-tags a {
-  background: #0f2340;
-  border: 1px solid #00c8b4;
-  color: #00c8b4;
+  background: #0f2340; border: 1px solid #00c8b4; color: #00c8b4;
 }
+body.dark .post-tags a:hover { background: #00c8b4; color: #0a1930; }
 
-body.dark .post-tags a:hover {
-  background: #00c8b4;
-  color: #0a1930;
+/* Directory styles */
+.directory-stats, .census-stats {
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 15px; margin: 20px 0;
 }
+.stat-card {
+  background: #0f2340; border-radius: 8px; padding: 15px; text-align: center;
+}
+.stat-card .number { font-size: 2em; font-weight: bold; color: #00c8b4; }
+.stat-card .label { font-size: 0.85em; color: #8899aa; margin-top: 4px; }
+.company-grid {
+  display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 12px; margin: 20px 0;
+}
+.company-card {
+  background: #0f2340; border-radius: 8px; padding: 15px;
+  border-left: 4px solid #00c8b4; transition: transform 0.15s;
+}
+.company-card:hover { transform: translateY(-2px); background: #132a4a; }
+.company-card h3 { margin: 0 0 6px 0; font-size: 1em; }
+.company-card h3 a { text-decoration: none; color: #e8ecf1; }
+.company-card .meta { font-size: 0.8em; color: #8899aa; }
+.pathway-badge {
+  display: inline-block; padding: 2px 8px; border-radius: 4px;
+  font-size: 0.75em; font-weight: bold; background: #00c8b4; color: #0a1930;
+}
+.health-badge { display: inline-block; margin-left: 6px; }
+.filter-bar {
+  display: flex; gap: 10px; margin: 15px 0; flex-wrap: wrap;
+}
+.filter-bar select, .filter-bar input {
+  padding: 8px 12px; border-radius: 6px; border: 1px solid #1a3355;
+  background: #0f2340; color: #00c8b4; font-size: 0.9em;
+}
+.pathway-table { width: 100%; border-collapse: collapse; margin: 15px 0; }
+.pathway-table th, .pathway-table td { padding: 8px 12px; text-align: left; border-bottom: 1px solid #1a3355; }
+.pathway-table th { background: #0f2340; font-weight: bold; }
+.researcher-card {
+  background: #0f2340; border-radius: 8px; padding: 15px; margin: 10px 0;
+  border-left: 4px solid #00c8b4;
+}
+.metrics-table { width: 100%; border-collapse: collapse; margin: 10px 0; }
+.metrics-table th, .metrics-table td { padding: 6px 10px; border-bottom: 1px solid #1a3355; }
+#search-results .result-item {
+  padding: 10px; border-bottom: 1px solid #1a3355; cursor: pointer;
+}
+#search-results .result-item:hover { background: #0f2340; }

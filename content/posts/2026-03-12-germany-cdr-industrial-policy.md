@@ -1,53 +1,13 @@
 ---
 title: "German Think Tank: CDR Needs Industrial Policy, Not Just Carbon Accounting"
-date: 2026-03-12T04:00:00+00:00
-draft: false
-slug: germany-cdr-industrial-policy
-aliases:
-  - /posts/2026-03-12-germany-cdr-industrial-policy/
-  - "/s/63"
-description: "A new policy paper from LibMod and SWP argues that climate backsliding threatens CDR's political foundation. The fix: shift from accounting logic to industrial policy."
-pillar: "global"
-tags: ["policy", "Germany", "Europe", "CDR", "climate backsliding"]
+date: 2026-03-12T04:00:00Z
+description: "A new policy paper from LibMod and SWP argues that climate backsliding threatens CDR's political foundation. The fix: shift from accounting logic to industrial "
+tags: ["news"]
+slug: "germany-cdr-industrial-policy"
+author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/20260312-05.png"
-  alt: "Germany: CDR Needs Industrial Policy"
+  image: "/images/posts/germany-cdr-industrial-policy.png"
+  alt: "German Think Tank: CDR Needs Industrial Policy, Not Just Carbon Accounting"
   hidden: false
 ---
-
-Felix Schenuit from the German Institute for International and Security Affairs (SWP) just published a policy paper through LibMod that makes a provocative argument: CDR is politically fragile, and the way to protect it is to stop treating it as a carbon accounting exercise and start treating it as industrial policy.
-
-## The Core Problem
-
-The paper's central concern is "climate backsliding" — the strategic weakening and rollback of climate policy that's happening in multiple countries. When net-zero commitments erode, CDR loses its political rationale. After all, if you're no longer committed to neutralizing residual emissions, why fund the technology to do it?
-
-Unlike renewable energy or EVs, CDR doesn't yet offer short-term competitiveness or energy security benefits. That makes it more dependent on stable climate policy frameworks — and therefore more vulnerable when those frameworks weaken.
-
-## The Proposed Fix
-
-Schenuit argues for a fundamental reframing: move CDR from the climate ledger to the industrial policy toolkit. Instead of justifying carbon removal purely through emissions accounting, connect it to jobs, manufacturing, competitiveness, and resilience.
-
-This isn't just abstract policy theory. Germany recently committed €98 million as its first dedicated CDR budget line. The question is whether that money gets spent through a narrow emissions-accounting lens or as part of a broader industrial strategy that builds domestic CDR capacity with lasting economic roots.
-
-## Why This Matters Across Europe
-
-The argument has implications far beyond Germany. Across the EU, CDR policy is at a crossroads. The countries that embed carbon removal into their industrial strategies — creating real facilities, real jobs, real supply chains — will have political constituencies that defend CDR even when climate ambition wavers.
-
-Countries that treat CDR as pure climate accounting? They'll find it's the first thing cut when political winds shift.
-
-## 🌍 From Germany (Translated Insight)
-
-This paper was published in German and hasn't gotten much English-language attention yet. The key phrase: "Ohne kurzfristige Fortschritte in der Umsetzung konkreter Projekte könnte CDR politisch scheitern" — *Without short-term progress on concrete projects, CDR could fail politically.*
-
-That's the sharpest diagnosis of CDR's political vulnerability I've seen in any language this year.
-
-**Source:** [LibMod — Netto-Null verteidigen: eine neue Rolle für CO₂-Entnahme](https://libmod.de/policy-paper-netto-null-verteidigen-eine-neue-rolle-fuer-co2-entnahme/) (German, PDF available)
-
----
-
-### 🔗 Related Reading
-
-- [Germany Puts €98 Million Into CDR — Its First Dedicated Federal Budget Line Ever](/posts/2026-03-08-germany-98m-cdr-budget/)
-- [Spain's CDR Moment: New Assessment Says It Can Lead — If Policy Moves Fast](/posts/spain-cdr-readiness-assessment/)
-- [EU Carbon Market Under Fire: Italy Wants the ETS Suspended](/posts/eu-ets-suspension-italy-summit/)
-- [CDR Roundup: What's Moving in Carbon Removal (Feb 2026)](/posts/cdr-roundup-feb-2026/)
+<p>Felix Schenuit from the German Institute for International and Security Affairs (SWP) just published a policy paper through LibMod that makes a provocative argument: CDR is politically fragile, and the way to protect it is to stop treating it as a carbon accounting exercise and start treating it as industrial policy.</p><h2 id=the-core-problem>The Core Problem<a hidden class=anchor aria-hidden=true href=#the-core-problem>#</a></h2><p>The paper&rsquo;s central concern is &ldquo;climate backsliding&rdquo; — the strategic weakening and rollback of climate policy that&rsquo;s happening in multiple countries. When net-zero commitments erode, CDR loses its political rationale. After all, if you&rsquo;re no longer committed to neutralizing residual emissions, why fund the technology to do it?</p><p>Unlike renewable energy or EVs, CDR doesn&rsquo;t yet offer short-term competitiveness or energy security benefits. That makes it more dependent on stable climate policy frameworks — and therefore more vulnerable when those frameworks weaken.</p><h2 id=the-proposed-fix>The Proposed Fix<a hidden class=anchor aria-hidden=true href=#the-proposed-fix>#</a></h2><p>Schenuit argues for a fundamental reframing: move CDR from the climate ledger to the industrial policy toolkit. Instead of justifying carbon removal purely through emissions accounting, connect it to jobs, manufacturing, competitiveness, and resilience.</p><p>This isn&rsquo;t just abstract policy theory. Germany recently committed €98 million as its first dedicated CDR budget line. The question is whether that money gets spent through a narrow emissions-accounting lens or as part of a broader industrial strategy that builds domestic CDR capacity with lasting economic roots.</p><h2 id=why-this-matters-across-europe>Why This Matters Across Europe<a hidden class=anchor aria-hidden=true href=#why-this-matters-across-europe>#</a></h2><p>The argument has implications far beyond Germany. Across the EU, CDR policy is at a crossroads. The countries that embed carbon removal into their industrial strategies — creating real facilities, real jobs, real supply chains — will have political constituencies that defend CDR even when climate ambition wavers.</p><p>Countries that treat CDR as pure climate accounting? They&rsquo;ll find it&rsquo;s the first thing cut when political winds shift.</p><h2 id=-from-germany-translated-insight>🌍 From Germany (Translated Insight)<a hidden class=anchor aria-hidden=true href=#-from-germany-translated-insight>#</a></h2><p>This paper was published in German and hasn&rsquo;t gotten much English-language attention yet. The key phrase: &ldquo;Ohne kurzfristige Fortschritte in der Umsetzung konkreter Projekte könnte CDR politisch scheitern&rdquo; — <em>Without short-term progress on concrete projects, CDR could fail politically.</em></p><p>That&rsquo;s the sharpest diagnosis of CDR&rsquo;s political vulnerability I&rsquo;ve seen in any language this year.</p><p><strong>Source:</strong> <a href=https://libmod.de/policy-paper-netto-null-verteidigen-eine-neue-rolle-fuer-co2-entnahme/>LibMod — Netto-Null verteidigen: eine neue Rolle für CO₂-Entnahme</a> (German, PDF available)</p><hr><h3 id=-related-reading>🔗 Related Reading<a hidden class=anchor aria-hidden=true href=#-related-reading>#</a></h3><ul><li><a href=/posts/germany-98m-cdr-budget/>Germany Puts €98 Million Into CDR — Its First Dedicated Federal Budget Line Ever</a></li><li><a href=/posts/spain-cdr-readiness-assessment/>Spain&rsquo;s CDR Moment: New Assessment Says It Can Lead — If Policy Moves Fast</a></li><li><a href=/posts/eu-ets-suspension-italy-summit/>EU Carbon Market Under Fire: Italy Wants the ETS Suspended</a></li><li><a href=/posts/cdr-roundup-feb-2026/>CDR Roundup: What&rsquo;s Moving in Carbon Removal (Feb 2026)</a></li></ul>

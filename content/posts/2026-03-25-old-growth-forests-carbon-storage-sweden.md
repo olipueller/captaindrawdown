@@ -1,57 +1,13 @@
 ---
 title: "Old-Growth Forests Store 72% More Carbon Than Managed Ones — and It's Mostly in the Soil"
-date: 2026-03-25
-slug: old-growth-forests-carbon-storage-sweden
-aliases: ["/s/147"]
-description: "A landmark study in Science finds old-growth Swedish forests store vastly more carbon than managed ones, with most of the difference hiding underground. The implications for BECCS are uncomfortable."
-pillar: science
-tags:
-  - science
-  - forests
-  - soil carbon
-  - BECCS
-  - old-growth
-  - boreal forests
-  - Sweden
-  - carbon storage
+date: 2026-03-25T00:00:00Z
+description: "A landmark study in Science finds old-growth Swedish forests store vastly more carbon than managed ones, with most of the difference hiding underground. The imp"
+tags: ["news"]
+slug: "old-growth-forests-carbon-storage-sweden"
+author: "CaptainDrawdown"
 cover:
-  image: /images/posts/20260325-03.png
+  image: "/images/posts/old-growth-forests-carbon-storage-sweden.png"
+  alt: "Old-Growth Forests Store 72% More Carbon Than Managed Ones — and It's Mostly in the Soil"
+  hidden: false
 ---
-
-Everyone talks about trees when they talk about forest carbon. But the real story is underground.
-
-A new [study published in *Science*](https://www.science.org/) by researchers at Lund University and Stanford finds that old-growth forests in Sweden store **72% more carbon per acre** than managed forests — even when you give managed forests credit for the carbon locked in harvested wood products like lumber and furniture. Without that generous credit? The gap widens to 83%.
-
-And here's the kicker: the difference is 2.7 to 8 times larger than official Swedish estimates suggested.
-
-## It's the Soil, Not the Trees
-
-The most important finding isn't about trees at all. The bulk of the carbon storage difference is in the **soil**. As Stanford's Rob Jackson put it: "There is far more carbon in soil than in trees in old-growth boreal forests."
-
-This makes intuitive sense if you think about it. Old-growth forest soils have had centuries to accumulate organic matter — layers of decomposing leaves, roots, fungi, and microbial biomass building up over hundreds of years. When you log a forest, you don't just remove the trees. You disturb the soil through road-building, heavy equipment, and the furrow-cutting that prepares land for replanting. That soil disturbance releases carbon that took centuries to accumulate.
-
-Jackson's assessment is blunt: "Carbon storage capacity lost once furrow-cut and logged can't easily be recovered."
-
-## The BECCS Problem
-
-This is where it gets uncomfortable for carbon removal. Several CDR pathways — particularly bioenergy with carbon capture and storage (BECCS) — assume that you can harvest biomass from managed forests, burn it for energy, capture the CO₂, and store it underground. The math works because models assume the forests regrow and reabsorb the carbon.
-
-But if managed forests hold dramatically less carbon than the old-growth forests they replaced — especially in the soil — those models may be systematically overestimating the climate benefits of forest-based bioenergy. You can't just count the carbon in the new trees. You have to count the carbon that *isn't* in the soil anymore.
-
-The researchers estimate that restoring Sweden's managed forests to old-growth conditions could keep approximately **8 billion tonnes of CO₂** out of the atmosphere. For context, that's roughly 15 years of Sweden's total emissions.
-
-## What This Means for CDR
-
-The implication isn't "stop doing BECCS." It's more nuanced than that:
-
-1. **Protect existing carbon sinks before building new ones.** The cheapest tonne of CO₂ avoided is the one you don't release.
-2. **Soil carbon accounting in forestry-based CDR needs an overhaul.** If official estimates are off by 3-8x, our models are working with bad inputs.
-3. **Boreal forests are not interchangeable.** Old-growth and managed forests are fundamentally different carbon systems, and treating them as equivalent in climate models produces misleading results.
-
-The research team's next step is studying *what drives* this extraordinary soil carbon storage — which could eventually help design management practices that preserve it. But right now, the data is clear: when it comes to carbon, the most valuable forests are the ones we haven't touched.
-
-**Sometimes the best carbon removal technology is leaving things alone.**
-
----
-
-*Sources: Lund University & Stanford University study, [*Science*](https://www.science.org/) (2026); [Carbon Herald](https://carbonherald.com/); Rob Jackson quotes via Stanford University.*
+<p>Everyone talks about trees when they talk about forest carbon. But the real story is underground.</p><p>A new <a href=https://www.science.org/>study published in <em>Science</em></a> by researchers at Lund University and Stanford finds that old-growth forests in Sweden store <strong>72% more carbon per acre</strong> than managed forests — even when you give managed forests credit for the carbon locked in harvested wood products like lumber and furniture. Without that generous credit? The gap widens to 83%.</p><p>And here&rsquo;s the kicker: the difference is 2.7 to 8 times larger than official Swedish estimates suggested.</p><h2 id=its-the-soil-not-the-trees>It&rsquo;s the Soil, Not the Trees<a hidden class=anchor aria-hidden=true href=#its-the-soil-not-the-trees>#</a></h2><p>The most important finding isn&rsquo;t about trees at all. The bulk of the carbon storage difference is in the <strong>soil</strong>. As Stanford&rsquo;s Rob Jackson put it: &ldquo;There is far more carbon in soil than in trees in old-growth boreal forests.&rdquo;</p><p>This makes intuitive sense if you think about it. Old-growth forest soils have had centuries to accumulate organic matter — layers of decomposing leaves, roots, fungi, and microbial biomass building up over hundreds of years. When you log a forest, you don&rsquo;t just remove the trees. You disturb the soil through road-building, heavy equipment, and the furrow-cutting that prepares land for replanting. That soil disturbance releases carbon that took centuries to accumulate.</p><p>Jackson&rsquo;s assessment is blunt: &ldquo;Carbon storage capacity lost once furrow-cut and logged can&rsquo;t easily be recovered.&rdquo;</p><h2 id=the-beccs-problem>The BECCS Problem<a hidden class=anchor aria-hidden=true href=#the-beccs-problem>#</a></h2><p>This is where it gets uncomfortable for carbon removal. Several CDR pathways — particularly bioenergy with carbon capture and storage (BECCS) — assume that you can harvest biomass from managed forests, burn it for energy, capture the CO₂, and store it underground. The math works because models assume the forests regrow and reabsorb the carbon.</p><p>But if managed forests hold dramatically less carbon than the old-growth forests they replaced — especially in the soil — those models may be systematically overestimating the climate benefits of forest-based bioenergy. You can&rsquo;t just count the carbon in the new trees. You have to count the carbon that <em>isn&rsquo;t</em> in the soil anymore.</p><p>The researchers estimate that restoring Sweden&rsquo;s managed forests to old-growth conditions could keep approximately <strong>8 billion tonnes of CO₂</strong> out of the atmosphere. For context, that&rsquo;s roughly 15 years of Sweden&rsquo;s total emissions.</p><h2 id=what-this-means-for-cdr>What This Means for CDR<a hidden class=anchor aria-hidden=true href=#what-this-means-for-cdr>#</a></h2><p>The implication isn&rsquo;t &ldquo;stop doing BECCS.&rdquo; It&rsquo;s more nuanced than that:</p><ol><li><strong>Protect existing carbon sinks before building new ones.</strong> The cheapest tonne of CO₂ avoided is the one you don&rsquo;t release.</li><li><strong>Soil carbon accounting in forestry-based CDR needs an overhaul.</strong> If official estimates are off by 3-8x, our models are working with bad inputs.</li><li><strong>Boreal forests are not interchangeable.</strong> Old-growth and managed forests are fundamentally different carbon systems, and treating them as equivalent in climate models produces misleading results.</li></ol><p>The research team&rsquo;s next step is studying <em>what drives</em> this extraordinary soil carbon storage — which could eventually help design management practices that preserve it. But right now, the data is clear: when it comes to carbon, the most valuable forests are the ones we haven&rsquo;t touched.</p><p><strong>Sometimes the best carbon removal technology is leaving things alone.</strong></p><hr><p><em>Sources: Lund University & Stanford University study, <a href=https://www.science.org/><em>Science</em></a> (2026); <a href=https://carbonherald.com/>Carbon Herald</a>; Rob Jackson quotes via Stanford University.</em></p>

@@ -1,48 +1,13 @@
 ---
 title: "Octavia Carbon Secures New Offtake Agreement via Carbon Direct"
-description: "Kenya-based direct air capture company Octavia Carbon just locked in a new offtake agreement, facilitated by Carbon Direct. It's the latest signal that..."
 date: 2026-03-07T08:30:00+01:00
-slug: octavia-carbon-offtake-carbon-direct
-aliases: ["/s/30"]
-draft: false
-pillar: "news"
-tags: ["DAC", "Kenya", "offtake", "CDI portfolio", "Global South"]
-categories: ["News"]
+description: "Kenya-based direct air capture company Octavia Carbon just locked in a new offtake agreement, facilitated by Carbon Direct. It's the latest signal that..."
+tags: ["news"]
+slug: "octavia-carbon-offtake-carbon-direct"
+author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/20260307-01.png"
-  alt: "Octavia Carbon secures new offtake agreement facilitated by Carbon Direct"
+  image: "/images/posts/octavia-carbon-offtake-carbon-direct.png"
+  alt: "Octavia Carbon Secures New Offtake Agreement via Carbon Direct"
   hidden: false
 ---
-
-Kenya-based direct air capture company Octavia Carbon just locked in a new offtake agreement, facilitated by Carbon Direct. It's the latest signal that demand for DAC credits from the Global South is real — and growing.
-
-Octavia's Hummingbird pilot in the Kenyan Rift Valley has been running 24/5 since October 2025. Their Gen 2 system captures atmospheric CO₂ and stores it permanently underground through a partnership with carbon mineralization company Cella. They recently activated a cryogenic tank for liquid CO₂ storage — a meaningful technical milestone for any DAC operation, let alone one running in East Africa.
-
-## Why This Matters
-
-The CDR market has a geographic concentration problem. Most DAC investment flows to North America and Europe. Octavia is building world-class capture infrastructure where the geology is ideal — the Rift Valley offers abundant geothermal energy and geological storage sites. That's not a compromise; it's an advantage.
-
-Carbon Direct's involvement matters too. Their scientific diligence process is among the most rigorous in the market. When Carbon Direct facilitates an offtake, it carries weight.
-
-CDI has [invested in Octavia Carbon](https://www.carbon-drawdown.de/blog/2025-4-7-portfolio-spotlight-octavia-carbon) because we believe DAC shouldn't be a rich-country monopoly. Kenya has geothermal power, the right geology, and now a team proving they can build and operate capture systems at a level that attracts top-tier facilitators.
-
-## The Bigger Picture
-
-Offtake agreements are the oxygen of the CDR industry. Without committed buyers, projects can't secure financing, can't build, can't scale. Octavia said it plainly: "Offtake agreements translate climate ambition into deployable infrastructure."
-
-This deal comes the same week Boeing signed a 40,000-tonne procurement through Carbonfuture and Canada launched a $100M removal coalition. The market is clearly moving from pilot-phase curiosity to structured, financeable commitments.
-
-For DAC in Africa, the question was never "can it work here?" — the geology and energy answers have always been yes. The question was whether buyers would commit. They are.
-
----
-
-*Source: [Carbon Herald](https://carbonherald.com/octavia-carbon-secures-an-offtake-agreement-via-carbon-direct/)*
-
----
-
-### 🔗 Related Reading
-
-- [Climeworks Opens Calgary HQ — Cold-Climate DAC Testing by Fall 2026](/posts/climeworks-calgary-hq-cold-climate-dac/)
-- [Boeing Bets Big on Biochar — 40,000 Tonnes of Carbon Removal via Carbonfuture](/posts/2026-03-06-boeing-carbonfuture-40k-tonnes/)
-- [500MW of Solar for the World's Largest DAC Plant](/posts/2026-02-25-500mw-solar-for-stratos-dac/)
-- [Hamburg Breaks Ground on DACMA: German DAC Engineering Goes Global](/posts/dacma-hamburg-dac-competence-center/)
+<p>Kenya-based direct air capture company Octavia Carbon just locked in a new offtake agreement, facilitated by Carbon Direct. It&rsquo;s the latest signal that demand for DAC credits from the Global South is real — and growing.</p><p>Octavia&rsquo;s Hummingbird pilot in the Kenyan Rift Valley has been running 24/5 since October 2025. Their Gen 2 system captures atmospheric CO₂ and stores it permanently underground through a partnership with carbon mineralization company Cella. They recently activated a cryogenic tank for liquid CO₂ storage — a meaningful technical milestone for any DAC operation, let alone one running in East Africa.</p><h2 id=why-this-matters>Why This Matters<a hidden class=anchor aria-hidden=true href=#why-this-matters>#</a></h2><p>The CDR market has a geographic concentration problem. Most DAC investment flows to North America and Europe. Octavia is building world-class capture infrastructure where the geology is ideal — the Rift Valley offers abundant geothermal energy and geological storage sites. That&rsquo;s not a compromise; it&rsquo;s an advantage.</p><p>Carbon Direct&rsquo;s involvement matters too. Their scientific diligence process is among the most rigorous in the market. When Carbon Direct facilitates an offtake, it carries weight.</p><p>CDI has <a href=https://www.carbon-drawdown.de/blog/2025-4-7-portfolio-spotlight-octavia-carbon>invested in Octavia Carbon</a> because we believe DAC shouldn&rsquo;t be a rich-country monopoly. Kenya has geothermal power, the right geology, and now a team proving they can build and operate capture systems at a level that attracts top-tier facilitators.</p><h2 id=the-bigger-picture>The Bigger Picture<a hidden class=anchor aria-hidden=true href=#the-bigger-picture>#</a></h2><p>Offtake agreements are the oxygen of the CDR industry. Without committed buyers, projects can&rsquo;t secure financing, can&rsquo;t build, can&rsquo;t scale. Octavia said it plainly: &ldquo;Offtake agreements translate climate ambition into deployable infrastructure.&rdquo;</p><p>This deal comes the same week Boeing signed a 40,000-tonne procurement through Carbonfuture and Canada launched a $100M removal coalition. The market is clearly moving from pilot-phase curiosity to structured, financeable commitments.</p><p>For DAC in Africa, the question was never &ldquo;can it work here?&rdquo; — the geology and energy answers have always been yes. The question was whether buyers would commit. They are.</p><hr><p><em>Source: <a href=https://carbonherald.com/octavia-carbon-secures-an-offtake-agreement-via-carbon-direct/>Carbon Herald</a></em></p><hr><h3 id=-related-reading>🔗 Related Reading<a hidden class=anchor aria-hidden=true href=#-related-reading>#</a></h3><ul><li><a href=/posts/climeworks-calgary-hq-cold-climate-dac/>Climeworks Opens Calgary HQ — Cold-Climate DAC Testing by Fall 2026</a></li><li><a href=/posts/boeing-carbonfuture-40k-tonnes/>Boeing Bets Big on Biochar — 40,000 Tonnes of Carbon Removal via Carbonfuture</a></li><li><a href=/posts/500mw-solar-for-stratos-dac/>500MW of Solar for the World&rsquo;s Largest DAC Plant</a></li><li><a href=/posts/dacma-hamburg-dac-competence-center/>Hamburg Breaks Ground on DACMA: German DAC Engineering Goes Global</a></li></ul>

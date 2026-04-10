@@ -1,64 +1,13 @@
 ---
 title: "Reality Check: Cornell Study Says ERW Could Hit 1 Billion Tonnes Per Year — With Caveats"
-date: 2026-03-05
-slug: cornell-erw-billion-tonnes
-aliases: ["/s/20"]
-draft: false
-pillar: "science"
-tags: ["ERW", "enhanced rock weathering", "carbon removal", "CDR", "Cornell", "Nature", "MRV", "soil science"]
-description: "A Cornell-led model in Nature puts realistic enhanced rock weathering potential at 0.7–1.1 Gt CO₂/yr by 2100. Promising — but the MRV question remains wide open."
+date: 2026-03-05T00:00:00Z
+description: "A Cornell-led model in Nature puts realistic enhanced rock weathering potential at 0.7–1.1 Gt CO₂/yr by 2100. Promising — but the MRV question remains wide open"
+tags: ["news"]
+slug: "cornell-erw-billion-tonnes"
+author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/20260305-02.png"
+  image: "/images/posts/cornell-erw-billion-tonnes.png"
   alt: "Reality Check: Cornell Study Says ERW Could Hit 1 Billion Tonnes Per Year — With Caveats"
-  relative: false
+  hidden: false
 ---
-
-A new study from Cornell's Chuan Liao and colleagues, published in *Nature Communications Sustainability*, models what [enhanced rock weathering](/posts/what-is-enhanced-weathering/) ([ERW](/posts/what-is-enhanced-weathering/)) could actually achieve under realistic adoption scenarios. The headline: **700 million to 1.1 billion tonnes of CO₂ per year by 2100**.
-
-That's less than half the theoretical ceiling of 5 Gt/yr that earlier studies floated. But it's still enormous — roughly 2–3% of current global emissions, achieved by spreading crushed basalt on existing farmland.
-
-## The Realistic Adoption Model
-
-Instead of asking "how much rock could physically fit on fields," the Cornell team modeled how quickly farmers would actually adopt [ERW](/posts/what-is-enhanced-weathering/) based on historical technology uptake curves for innovations like irrigation and precision agriculture.
-
-Key findings:
-
-- **350M–750M tCO₂/yr by 2050** under limited-to-widespread adoption
-- **700M–1.1B tCO₂/yr by 2100** as supply chains mature
-- **The Global South overtakes the North** as the dominant [ERW](/posts/what-is-enhanced-weathering/) region by mid-century — higher temperatures accelerate weathering, and developing nations gain access to rock supply chains
-
-That last point is critical. [ERW](/posts/what-is-enhanced-weathering/) could be a genuine equity lever in the carbon market, with tropical and subtropical regions holding the highest removal potential.
-
-## The Measurement Problem Nobody Solved
-
-Here's where it gets complicated — and where [CDI's research](https://www.carbon-drawdown.de/blog/2026-1-23-19-mrv-proxies-for-ew-a-guided-tour-through-our-data-from-our-two-year-greenhouse-experiment) becomes essential reading. The Cornell study models *potential* removal based on rock application rates and weathering kinetics. But modeling isn't measuring.
-
-CDI's two-year greenhouse experiment with over 400 lysimeters shows that:
-
-1. **Cation retention is massive** — 10-50× more cations stay in soil than export as alkalinity in Year 1
-2. **Many treatments don't produce a detectable alkalinity signal** at all
-3. **EC tracks alkalinity well at macro scale but breaks down at treatment level**
-
-In other words: the theoretical gigatonne potential might exist, but proving any individual tonne was actually removed remains the hard problem. As CDI's EC proxy series ([Part 7](https://carbondrawdown.substack.com/p/79-ecs-proxy-performance-for-individual)) demonstrates, the beautiful macro correlations hide messy treatment-level reality.
-
-## What This Means for the [ERW](/posts/what-is-enhanced-weathering/) Industry
-
-The Cornell study is useful because it sets *reasonable expectations*. Not 5 gigatonnes of wishful thinking, but 1 gigatonne grounded in how agricultural innovation actually spreads.
-
-But the industry can't sell what it can't measure. Every [ERW](/posts/what-is-enhanced-weathering/) company needs to grapple with MRV before scaling — and right now, that's where the science is still catching up.
-
-**Sources:**
-- [New Scientist](https://www.newscientist.com/article/2517484-spreading-crushed-rock-on-farms-could-absorb-1-billion-tonnes-of-co2/)
-- [CDI MRV Proxy Series (1/9)](https://www.carbon-drawdown.de/blog/2026-1-23-19-mrv-proxies-for-ew-a-guided-tour-through-our-data-from-our-two-year-greenhouse-experiment)
-- [CDI EC Proxy Performance (7/9)](https://carbondrawdown.substack.com/p/79-ecs-proxy-performance-for-individual)
-
----
-
----
-
-### 🔗 Related Reading
-
-- [Enhanced Rock Weathering: Promising, But Not Simple](/posts/erw-promising-but-not-simple/)
-- [ERW Could Remove 1 Billion Tonnes per Year — But the Caveats Matter](/posts/erw-billion-tonnes-caveats/)
-- [ERW Under Fire: What the Nature Paper on Uncertainties Actually Says](/posts/erw-uncertainties-nature-paper/)
-- [How Organic Carbon Changes Enhanced Weathering Reactivity](/posts/enhanced-weathering-organic-carbon-reactivity/)
+<p>A new study from Cornell&rsquo;s Chuan Liao and colleagues, published in <em>Nature Communications Sustainability</em>, models what <a href=/posts/what-is-enhanced-weathering/>enhanced rock weathering</a> (<a href=/posts/what-is-enhanced-weathering/>ERW</a>) could actually achieve under realistic adoption scenarios. The headline: <strong>700 million to 1.1 billion tonnes of CO₂ per year by 2100</strong>.</p><p>That&rsquo;s less than half the theoretical ceiling of 5 Gt/yr that earlier studies floated. But it&rsquo;s still enormous — roughly 2–3% of current global emissions, achieved by spreading crushed basalt on existing farmland.</p><h2 id=the-realistic-adoption-model>The Realistic Adoption Model<a hidden class=anchor aria-hidden=true href=#the-realistic-adoption-model>#</a></h2><p>Instead of asking &ldquo;how much rock could physically fit on fields,&rdquo; the Cornell team modeled how quickly farmers would actually adopt <a href=/posts/what-is-enhanced-weathering/>ERW</a> based on historical technology uptake curves for innovations like irrigation and precision agriculture.</p><p>Key findings:</p><ul><li><strong>350M–750M tCO₂/yr by 2050</strong> under limited-to-widespread adoption</li><li><strong>700M–1.1B tCO₂/yr by 2100</strong> as supply chains mature</li><li><strong>The Global South overtakes the North</strong> as the dominant <a href=/posts/what-is-enhanced-weathering/>ERW</a> region by mid-century — higher temperatures accelerate weathering, and developing nations gain access to rock supply chains</li></ul><p>That last point is critical. <a href=/posts/what-is-enhanced-weathering/>ERW</a> could be a genuine equity lever in the carbon market, with tropical and subtropical regions holding the highest removal potential.</p><h2 id=the-measurement-problem-nobody-solved>The Measurement Problem Nobody Solved<a hidden class=anchor aria-hidden=true href=#the-measurement-problem-nobody-solved>#</a></h2><p>Here&rsquo;s where it gets complicated — and where <a href=https://www.carbon-drawdown.de/blog/2026-1-23-19-mrv-proxies-for-ew-a-guided-tour-through-our-data-from-our-two-year-greenhouse-experiment>CDI&rsquo;s research</a> becomes essential reading. The Cornell study models <em>potential</em> removal based on rock application rates and weathering kinetics. But modeling isn&rsquo;t measuring.</p><p>CDI&rsquo;s two-year greenhouse experiment with over 400 lysimeters shows that:</p><ol><li><strong>Cation retention is massive</strong> — 10-50× more cations stay in soil than export as alkalinity in Year 1</li><li><strong>Many treatments don&rsquo;t produce a detectable alkalinity signal</strong> at all</li><li><strong>EC tracks alkalinity well at macro scale but breaks down at treatment level</strong></li></ol><p>In other words: the theoretical gigatonne potential might exist, but proving any individual tonne was actually removed remains the hard problem. As CDI&rsquo;s EC proxy series (<a href=https://carbondrawdown.substack.com/p/79-ecs-proxy-performance-for-individual>Part 7</a>) demonstrates, the beautiful macro correlations hide messy treatment-level reality.</p><h2 id=what-this-means-for-the-erw-industry>What This Means for the <a href=/posts/what-is-enhanced-weathering/>ERW</a> Industry<a hidden class=anchor aria-hidden=true href=#what-this-means-for-the-erw-industry>#</a></h2><p>The Cornell study is useful because it sets <em>reasonable expectations</em>. Not 5 gigatonnes of wishful thinking, but 1 gigatonne grounded in how agricultural innovation actually spreads.</p><p>But the industry can&rsquo;t sell what it can&rsquo;t measure. Every <a href=/posts/what-is-enhanced-weathering/>ERW</a> company needs to grapple with MRV before scaling — and right now, that&rsquo;s where the science is still catching up.</p><p><strong>Sources:</strong></p><ul><li><a href=https://www.newscientist.com/article/2517484-spreading-crushed-rock-on-farms-could-absorb-1-billion-tonnes-of-co2/>New Scientist</a></li><li><a href=https://www.carbon-drawdown.de/blog/2026-1-23-19-mrv-proxies-for-ew-a-guided-tour-through-our-data-from-our-two-year-greenhouse-experiment>CDI MRV Proxy Series (1/9)</a></li><li><a href=https://carbondrawdown.substack.com/p/79-ecs-proxy-performance-for-individual>CDI EC Proxy Performance (7/9)</a></li></ul><hr><hr><h3 id=-related-reading>🔗 Related Reading<a hidden class=anchor aria-hidden=true href=#-related-reading>#</a></h3><ul><li><a href=/posts/erw-promising-but-not-simple/>Enhanced Rock Weathering: Promising, But Not Simple</a></li><li><a href=/posts/erw-billion-tonnes-caveats/>ERW Could Remove 1 Billion Tonnes per Year — But the Caveats Matter</a></li><li><a href=/posts/erw-uncertainties-nature-paper/>ERW Under Fire: What the Nature Paper on Uncertainties Actually Says</a></li><li><a href=/posts/enhanced-weathering-organic-carbon-reactivity/>How Organic Carbon Changes Enhanced Weathering Reactivity</a></li></ul>

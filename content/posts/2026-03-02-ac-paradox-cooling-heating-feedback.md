@@ -1,44 +1,13 @@
 ---
 title: "The AC Paradox: Air Conditioning Could Add 8.5 Billion Tonnes of CO₂ by 2050"
-date: 2026-03-02
-slug: ac-paradox-cooling-heating-feedback
-aliases: ["/s/16"]
+date: 2026-03-02T00:00:00Z
 description: "A Nature Communications study finds rising AC use could emit more CO₂ than the entire US — and most of it isn't from climate change itself."
-pillar: "science"
-tags: ["climate change", "emissions", "cooling", "CDR", "feedback loops"]
+tags: ["news"]
+slug: "ac-paradox-cooling-heating-feedback"
+author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/20260302-01.png"
+  image: "/images/posts/ac-paradox-cooling-heating-feedback.png"
   alt: "The AC Paradox: Air Conditioning Could Add 8.5 Billion Tonnes of CO₂ by 2050"
-  relative: false
+  hidden: false
 ---
-
-Here's a climate feedback loop that doesn't get enough attention: the hotter it gets, the more we cool ourselves, and the more we cool ourselves, the hotter it gets.
-
-A new study in *Nature Communications* by Hongzhi Zhang, Yuli Shan (University of Birmingham), and colleagues has quantified this problem with uncomfortable precision.
-
-## The Numbers
-
-Under a mid-range emissions scenario (SSP2-4.5), cumulative AC-related emissions from 2010 to 2050 could reach **113.3 billion tonnes of CO₂ equivalents**. In the worst case, annual emissions from air conditioning alone could hit **8.5 billion tonnes by 2050** — significantly more than the current total US emissions of 5.9 Gt/year.
-
-The additional warming from AC under the mid-range scenario? About **0.05°C**. That may sound small, but it's a self-reinforcing loop on top of everything else.
-
-## The Surprise
-
-Only **8.3%** of the growth in AC emissions comes from additional cooling demand driven by climate change. The overwhelming driver is economic: as incomes rise in hot countries — India, Southeast Asia, sub-Saharan Africa — more people can afford air conditioning for the first time.
-
-This isn't a story about irresponsible consumption. It's about billions of people gaining access to basic thermal comfort. You can't — and shouldn't — tell people in New Delhi or Lagos not to buy AC. But you can make sure the systems they buy are efficient and powered by clean energy.
-
-## What This Means for CDR
-
-This study is a reminder that carbon removal doesn't exist in isolation. We need CDR **and** decarbonized cooling:
-
-- **Heat pumps** that cool efficiently and run on renewable electricity
-- **Building design** that reduces cooling loads (passive cooling, better insulation, reflective materials)
-- **Refrigerant transitions** away from high-GWP HFCs
-- **Grid decarbonization** in the countries where AC demand is growing fastest
-
-CDR handles the emissions we can't avoid. But it's far cheaper to prevent a tonne of cooling-related CO₂ than to remove it after the fact.
-
-The AC paradox is a perfect illustration of why both tracks — removal and reduction — have to run in parallel.
-
-**Source:** [EurekAlert / University of Birmingham](https://www.eurekalert.org/news-releases/1117447) | [Nature Communications](https://doi.org/10.1038/s41467-026-56947-y)
+<p>Here&rsquo;s a climate feedback loop that doesn&rsquo;t get enough attention: the hotter it gets, the more we cool ourselves, and the more we cool ourselves, the hotter it gets.</p><p>A new study in <em>Nature Communications</em> by Hongzhi Zhang, Yuli Shan (University of Birmingham), and colleagues has quantified this problem with uncomfortable precision.</p><h2 id=the-numbers>The Numbers<a hidden class=anchor aria-hidden=true href=#the-numbers>#</a></h2><p>Under a mid-range emissions scenario (SSP2-4.5), cumulative AC-related emissions from 2010 to 2050 could reach <strong>113.3 billion tonnes of CO₂ equivalents</strong>. In the worst case, annual emissions from air conditioning alone could hit <strong>8.5 billion tonnes by 2050</strong> — significantly more than the current total US emissions of 5.9 Gt/year.</p><p>The additional warming from AC under the mid-range scenario? About <strong>0.05°C</strong>. That may sound small, but it&rsquo;s a self-reinforcing loop on top of everything else.</p><h2 id=the-surprise>The Surprise<a hidden class=anchor aria-hidden=true href=#the-surprise>#</a></h2><p>Only <strong>8.3%</strong> of the growth in AC emissions comes from additional cooling demand driven by climate change. The overwhelming driver is economic: as incomes rise in hot countries — India, Southeast Asia, sub-Saharan Africa — more people can afford air conditioning for the first time.</p><p>This isn&rsquo;t a story about irresponsible consumption. It&rsquo;s about billions of people gaining access to basic thermal comfort. You can&rsquo;t — and shouldn&rsquo;t — tell people in New Delhi or Lagos not to buy AC. But you can make sure the systems they buy are efficient and powered by clean energy.</p><h2 id=what-this-means-for-cdr>What This Means for CDR<a hidden class=anchor aria-hidden=true href=#what-this-means-for-cdr>#</a></h2><p>This study is a reminder that carbon removal doesn&rsquo;t exist in isolation. We need CDR <strong>and</strong> decarbonized cooling:</p><ul><li><strong>Heat pumps</strong> that cool efficiently and run on renewable electricity</li><li><strong>Building design</strong> that reduces cooling loads (passive cooling, better insulation, reflective materials)</li><li><strong>Refrigerant transitions</strong> away from high-GWP HFCs</li><li><strong>Grid decarbonization</strong> in the countries where AC demand is growing fastest</li></ul><p>CDR handles the emissions we can&rsquo;t avoid. But it&rsquo;s far cheaper to prevent a tonne of cooling-related CO₂ than to remove it after the fact.</p><p>The AC paradox is a perfect illustration of why both tracks — removal and reduction — have to run in parallel.</p><p><strong>Source:</strong> <a href=https://www.eurekalert.org/news-releases/1117447>EurekAlert / University of Birmingham</a> | <a href=https://doi.org/10.1038/s41467-026-56947-y>Nature Communications</a></p>

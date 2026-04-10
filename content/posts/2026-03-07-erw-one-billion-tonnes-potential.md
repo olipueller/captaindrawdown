@@ -1,52 +1,13 @@
 ---
 title: "ERW Could Absorb 1 Billion Tonnes of CO₂ — But the Details Matter"
-description: "New Scientist highlighted a growing body of research suggesting that spreading crushed basalt on farmland could absorb up to 1 billion tonnes of CO₂...."
 date: 2026-03-07T17:30:00+01:00
-slug: erw-one-billion-tonnes-potential
-aliases: ["/s/28"]
-draft: false
-pillar: "science"
-tags: ["ERW", "enhanced weathering", "science", "MRV", "CDI research"]
-categories: ["Science"]
+description: "New Scientist highlighted a growing body of research suggesting that spreading crushed basalt on farmland could absorb up to 1 billion tonnes of CO₂...."
+tags: ["news"]
+slug: "erw-one-billion-tonnes-potential"
+author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/20260307-05.png"
-  alt: "Enhanced rock weathering potential to absorb one billion tonnes of CO2"
+  image: "/images/posts/erw-one-billion-tonnes-potential.png"
+  alt: "ERW Could Absorb 1 Billion Tonnes of CO₂ — But the Details Matter"
   hidden: false
 ---
-
-New Scientist highlighted a growing body of research suggesting that spreading crushed basalt on farmland could absorb up to 1 billion tonnes of CO₂. Field trials in Queensland, Australia, are among the latest to generate real data. Nations like Brazil are already deploying [enhanced rock weathering](/posts/what-is-enhanced-weathering/) ([ERW](/posts/what-is-enhanced-weathering/)) at scale, partly because crushed silicate rock also reduces fertiliser costs.
-
-Big number. Important caveat: "could" is doing a lot of work in that headline.
-
-## What CDI's Research Actually Shows
-
-CDI runs the world's largest greenhouse EW experiment — over 400 lysimeters, 2+ years of data, roughly 1 million CO₂ readings through [Project Carbdown](https://www.carbon-drawdown.de/blog/2026-3-3-portfolio-spotlight-everest-measuring-ew-in-real-time). What we've learned tempers the enthusiasm with specifics:
-
-**Soil type determines everything.** Acidic soils are where [ERW](/posts/what-is-enhanced-weathering/) works best. High-pH soils hit saturation and produce minimal additional weathering. A global "1 billion tonnes" number obscures massive variability by geography and soil chemistry.
-
-**Cation retention is the elephant in the room.** In Year 1, [CDI's data shows](https://carbondrawdown.substack.com/p/79-ecs-proxy-performance-for-individual) 10–50× more cations retained in soil than exported as alkalinity. Measuring only what leaves the field drastically underestimates total weathering — but also means the carbon isn't in the ocean yet, and the permanence timeline is longer than simple models suggest.
-
-**MRV is the bottleneck, not the rocks.** Carbon-based MRV methods have fundamental limitations for field EW. CDI advocates for cation-based or total alkalinity-based approaches. Electrical conductivity (EC) tracks alkalinity well at macro scale but breaks down at treatment level, as our [Part 7 research](https://carbondrawdown.substack.com/p/79-ecs-proxy-performance-for-individual) demonstrated.
-
-## The Honest Take
-
-[ERW](/posts/what-is-enhanced-weathering/) absolutely has billion-tonne potential. The geology is right, the co-benefits (soil pH, reduced fertiliser needs, crop yields) are real, and deployment on farmland avoids the land-use conflicts that plague afforestation.
-
-But getting from "potential" to "verified, permanent removal" requires solving the measurement problem. How much CO₂ did this specific field application actually remove? When? How permanently? Those questions need multi-pool, multi-year monitoring — exactly what CDI is building.
-
-The rocks work. Proving they worked — that's the hard part.
-
----
-
-*Sources: [New Scientist](https://www.newscientist.com/article/2517484-spreading-crushed-rock-on-farms-could-absorb-1-billion-tonnes-of-co2/), [CDI Research](https://www.carbon-drawdown.de/blog/2026-3-3-portfolio-spotlight-everest-measuring-ew-in-real-time)*
-
----
-
----
-
-### 🔗 Related Reading
-
-- [ERW Could Remove 1 Billion Tonnes per Year — But the Caveats Matter](/posts/erw-billion-tonnes-caveats/)
-- [Enhanced Rock Weathering: Promising, But Not Simple](/posts/erw-promising-but-not-simple/)
-- [What Is Enhanced Weathering? A Primer](/posts/what-is-enhanced-weathering/)
-- [ERW Under Fire: What the Nature Paper on Uncertainties Actually Says](/posts/erw-uncertainties-nature-paper/)
+<p>New Scientist highlighted a growing body of research suggesting that spreading crushed basalt on farmland could absorb up to 1 billion tonnes of CO₂. Field trials in Queensland, Australia, are among the latest to generate real data. Nations like Brazil are already deploying <a href=/posts/what-is-enhanced-weathering/>enhanced rock weathering</a> (<a href=/posts/what-is-enhanced-weathering/>ERW</a>) at scale, partly because crushed silicate rock also reduces fertiliser costs.</p><p>Big number. Important caveat: &ldquo;could&rdquo; is doing a lot of work in that headline.</p><h2 id=what-cdis-research-actually-shows>What CDI&rsquo;s Research Actually Shows<a hidden class=anchor aria-hidden=true href=#what-cdis-research-actually-shows>#</a></h2><p>CDI runs the world&rsquo;s largest greenhouse EW experiment — over 400 lysimeters, 2+ years of data, roughly 1 million CO₂ readings through <a href=https://www.carbon-drawdown.de/blog/2026-3-3-portfolio-spotlight-everest-measuring-ew-in-real-time>Project Carbdown</a>. What we&rsquo;ve learned tempers the enthusiasm with specifics:</p><p><strong>Soil type determines everything.</strong> Acidic soils are where <a href=/posts/what-is-enhanced-weathering/>ERW</a> works best. High-pH soils hit saturation and produce minimal additional weathering. A global &ldquo;1 billion tonnes&rdquo; number obscures massive variability by geography and soil chemistry.</p><p><strong>Cation retention is the elephant in the room.</strong> In Year 1, <a href=https://carbondrawdown.substack.com/p/79-ecs-proxy-performance-for-individual>CDI&rsquo;s data shows</a> 10–50× more cations retained in soil than exported as alkalinity. Measuring only what leaves the field drastically underestimates total weathering — but also means the carbon isn&rsquo;t in the ocean yet, and the permanence timeline is longer than simple models suggest.</p><p><strong>MRV is the bottleneck, not the rocks.</strong> Carbon-based MRV methods have fundamental limitations for field EW. CDI advocates for cation-based or total alkalinity-based approaches. Electrical conductivity (EC) tracks alkalinity well at macro scale but breaks down at treatment level, as our <a href=https://carbondrawdown.substack.com/p/79-ecs-proxy-performance-for-individual>Part 7 research</a> demonstrated.</p><h2 id=the-honest-take>The Honest Take<a hidden class=anchor aria-hidden=true href=#the-honest-take>#</a></h2><p><a href=/posts/what-is-enhanced-weathering/>ERW</a> absolutely has billion-tonne potential. The geology is right, the co-benefits (soil pH, reduced fertiliser needs, crop yields) are real, and deployment on farmland avoids the land-use conflicts that plague afforestation.</p><p>But getting from &ldquo;potential&rdquo; to &ldquo;verified, permanent removal&rdquo; requires solving the measurement problem. How much CO₂ did this specific field application actually remove? When? How permanently? Those questions need multi-pool, multi-year monitoring — exactly what CDI is building.</p><p>The rocks work. Proving they worked — that&rsquo;s the hard part.</p><hr><p><em>Sources: <a href=https://www.newscientist.com/article/2517484-spreading-crushed-rock-on-farms-could-absorb-1-billion-tonnes-of-co2/>New Scientist</a>, <a href=https://www.carbon-drawdown.de/blog/2026-3-3-portfolio-spotlight-everest-measuring-ew-in-real-time>CDI Research</a></em></p><hr><hr><h3 id=-related-reading>🔗 Related Reading<a hidden class=anchor aria-hidden=true href=#-related-reading>#</a></h3><ul><li><a href=/posts/erw-billion-tonnes-caveats/>ERW Could Remove 1 Billion Tonnes per Year — But the Caveats Matter</a></li><li><a href=/posts/erw-promising-but-not-simple/>Enhanced Rock Weathering: Promising, But Not Simple</a></li><li><a href=/posts/what-is-enhanced-weathering/>What Is Enhanced Weathering? A Primer</a></li><li><a href=/posts/erw-uncertainties-nature-paper/>ERW Under Fire: What the Nature Paper on Uncertainties Actually Says</a></li></ul>

@@ -1,52 +1,13 @@
 ---
 title: "Enhanced Weathering Could Remove Up to 0.7 Gt CO₂/yr — But Efficiency Is Low"
 date: 2026-03-13T06:00:00+01:00
-draft: false
-slug: ew-expert-elicitation-cdr-potential
-aliases: ["/s/70"]
 description: "A new Nature study asked 30+ experts to estimate enhanced weathering's CDR potential. The numbers are promising — and sobering."
-pillar: "science"
-tags: ["ERW", "science", "CDR", "Nature"]
+tags: ["news"]
+slug: "ew-expert-elicitation-cdr-potential"
+author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/20260313-01.png"
+  image: "/images/posts/ew-expert-elicitation-cdr-potential.png"
   alt: "Enhanced Weathering Could Remove Up to 0.7 Gt CO₂/yr — But Efficiency Is Low"
   hidden: false
 ---
-
-A new paper in *Communications Earth & Environment* used formal expert elicitation to estimate how much CO₂ [enhanced rock weathering](/posts/what-is-enhanced-weathering/) (EW) on agricultural land could actually remove. The headline number: **0.2–0.7 Gt CO₂e/yr** on average, depending on the feedstock — but with a wild range from below zero to above 5 Gt CO₂e/yr.
-
-The kicker? **Only 27–39% of the potential CDR is actually realized.** The rest gets lost along the way — through secondary clay formation, calcite saturation, deep soil processes, and freshwater emissions.
-
-## What they did
-
-The authors — Buma, Dietzen, Gordon, and colleagues — ran a structured expert elicitation with specialists across EW science. They assessed six different feedstocks and asked experts to quantify both the CDR potential and the uncertainties in the loss pathways from field to ocean.
-
-This isn't a model study. It's a calibrated snapshot of what the people closest to the science actually think.
-
-## Key findings
-
-- **Feedstock matters enormously.** Wollastonite scored highest for CDR potential but faces severe supply constraints. Basalt is more available but less efficient.
-- **The field-to-ocean pathway leaks.** Calcite saturation, secondary mineral formation, and soil carbon interactions all eat into the theoretical CDR.
-- **27–39% efficiency** means for every tonne of rock you spread, you realize roughly a third of the theoretical CO₂ removal.
-- **Data gaps are real.** Experts flagged deep soil processes and freshwater emission pathways as the biggest unknowns.
-
-## Why this matters
-
-EW is already being deployed commercially — companies are spreading crushed rock on farmland right now. But the science is still catching up with the deployment. This paper is an honest reckoning: EW has genuine gigatonne-scale potential, but the efficiency losses are substantial and poorly understood.
-
-For the MRV community, this reinforces what CDI has been saying: [carbon-based MRV alone isn't enough for field EW](https://www.carbon-drawdown.de/blog/2026-1-6-new-paper-carbon-vs-cation-based-mrv-for-enhanced-rock-weathering-and-why-we-should-check-how-much-soil-carbon-matters). You need cation-based approaches and multi-year monitoring to capture what's really happening.
-
-The paper doesn't kill EW's promise — it quantifies the gap between promise and delivery. That's exactly the kind of honesty this field needs.
-
-**Source:** [Buma et al. (2026), Communications Earth & Environment](https://www.nature.com/articles/s43247-026-03375-5)
-
----
-
----
-
-### 🔗 Related Reading
-
-- [Enhanced Rock Weathering: Promising, But Not Simple](/posts/erw-promising-but-not-simple/)
-- [Reality Check: Cornell Study Says ERW Could Hit 1 Billion Tonnes Per Year — With Caveats](/posts/cornell-erw-billion-tonnes/)
-- [ERW Could Absorb 1 Billion Tonnes of CO₂ — But the Details Matter](/posts/erw-one-billion-tonnes-potential/)
-- [Basalt on Vermont Farmland Shows No Trace Metal Risk After Two Years](/posts/erw-trace-metals-vermont-field-study/)
+<p>A new paper in <em>Communications Earth & Environment</em> used formal expert elicitation to estimate how much CO₂ <a href=/posts/what-is-enhanced-weathering/>enhanced rock weathering</a> (EW) on agricultural land could actually remove. The headline number: <strong>0.2–0.7 Gt CO₂e/yr</strong> on average, depending on the feedstock — but with a wild range from below zero to above 5 Gt CO₂e/yr.</p><p>The kicker? <strong>Only 27–39% of the potential CDR is actually realized.</strong> The rest gets lost along the way — through secondary clay formation, calcite saturation, deep soil processes, and freshwater emissions.</p><h2 id=what-they-did>What they did<a hidden class=anchor aria-hidden=true href=#what-they-did>#</a></h2><p>The authors — Buma, Dietzen, Gordon, and colleagues — ran a structured expert elicitation with specialists across EW science. They assessed six different feedstocks and asked experts to quantify both the CDR potential and the uncertainties in the loss pathways from field to ocean.</p><p>This isn&rsquo;t a model study. It&rsquo;s a calibrated snapshot of what the people closest to the science actually think.</p><h2 id=key-findings>Key findings<a hidden class=anchor aria-hidden=true href=#key-findings>#</a></h2><ul><li><strong>Feedstock matters enormously.</strong> Wollastonite scored highest for CDR potential but faces severe supply constraints. Basalt is more available but less efficient.</li><li><strong>The field-to-ocean pathway leaks.</strong> Calcite saturation, secondary mineral formation, and soil carbon interactions all eat into the theoretical CDR.</li><li><strong>27–39% efficiency</strong> means for every tonne of rock you spread, you realize roughly a third of the theoretical CO₂ removal.</li><li><strong>Data gaps are real.</strong> Experts flagged deep soil processes and freshwater emission pathways as the biggest unknowns.</li></ul><h2 id=why-this-matters>Why this matters<a hidden class=anchor aria-hidden=true href=#why-this-matters>#</a></h2><p>EW is already being deployed commercially — companies are spreading crushed rock on farmland right now. But the science is still catching up with the deployment. This paper is an honest reckoning: EW has genuine gigatonne-scale potential, but the efficiency losses are substantial and poorly understood.</p><p>For the MRV community, this reinforces what CDI has been saying: <a href=https://www.carbon-drawdown.de/blog/2026-1-6-new-paper-carbon-vs-cation-based-mrv-for-enhanced-rock-weathering-and-why-we-should-check-how-much-soil-carbon-matters>carbon-based MRV alone isn&rsquo;t enough for field EW</a>. You need cation-based approaches and multi-year monitoring to capture what&rsquo;s really happening.</p><p>The paper doesn&rsquo;t kill EW&rsquo;s promise — it quantifies the gap between promise and delivery. That&rsquo;s exactly the kind of honesty this field needs.</p><p><strong>Source:</strong> <a href=https://www.nature.com/articles/s43247-026-03375-5>Buma et al. (2026), Communications Earth & Environment</a></p><hr><hr><h3 id=-related-reading>🔗 Related Reading<a hidden class=anchor aria-hidden=true href=#-related-reading>#</a></h3><ul><li><a href=/posts/erw-promising-but-not-simple/>Enhanced Rock Weathering: Promising, But Not Simple</a></li><li><a href=/posts/cornell-erw-billion-tonnes/>Reality Check: Cornell Study Says ERW Could Hit 1 Billion Tonnes Per Year — With Caveats</a></li><li><a href=/posts/erw-one-billion-tonnes-potential/>ERW Could Absorb 1 Billion Tonnes of CO₂ — But the Details Matter</a></li><li><a href=/posts/erw-trace-metals-vermont-field-study/>Basalt on Vermont Farmland Shows No Trace Metal Risk After Two Years</a></li></ul>

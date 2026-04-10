@@ -1,60 +1,13 @@
 ---
 title: "Biochar Just Got Another Job: Destroying Antibiotics in Water"
-date: 2026-03-21
-slug: biochar-nanotube-antibiotic-water-treatment
-aliases: ["/s/124"]
+date: 2026-03-21T00:00:00Z
 description: "A new biochar-nanotube composite removes 90%+ of antibiotics from wastewater. More co-benefits, stronger CDR business case."
-pillar: "science"
-tags: ["biochar", "water treatment", "research", "co-benefits"]
+tags: ["news"]
+slug: "biochar-nanotube-antibiotic-water-treatment"
+author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/20260321-04.png"
+  image: "/images/posts/biochar-nanotube-antibiotic-water-treatment.png"
   alt: "Biochar Just Got Another Job: Destroying Antibiotics in Water"
-  relative: false
+  hidden: false
 ---
-
-A biochar composite laced with carbon nanotubes and iron carbide (Fe₃C) removes over 90% of common antibiotics from wastewater within hours. That's 15 times better than conventional treatment materials.
-
-Every time biochar proves useful for something beyond carbon removal, the CDR business case gets stronger. This one's a big deal.
-
-## The problem it solves
-
-Antibiotics like enrofloxacin and amoxicillin are everywhere in wastewater — from hospitals, farms, and households. Conventional water treatment doesn't remove them well. They persist in the environment, driving antibiotic resistance, which the WHO calls one of the top ten global health threats. We need better tools.
-
-## How the material works
-
-Researchers developed a composite combining biochar (cheap, abundant, made from biomass pyrolysis) with carbon nanotubes and Fe₃C nanoparticles. Paired with low-frequency ultrasound, it attacks antibiotics through two mechanisms simultaneously.
-
-First, **adsorption**: the material's high surface area grabs antibiotic molecules and holds them. Second, **degradation**: ultrasound-driven cavitation generates reactive oxygen species that chemically break down the antibiotics on contact. The Fe₃C nanoparticles catalyze this degradation, turning what would be a slow process into a fast one.
-
-The dual mechanism is why performance jumps so dramatically — you're not just trapping pollutants, you're destroying them.
-
-## The numbers
-
-- **15x higher removal rates** compared to conventional biochar or activated carbon
-- **90%+ removal** of both enrofloxacin and amoxicillin within hours
-- Works across a **wide pH range** — important because real wastewater isn't conveniently neutral
-- Maintains efficiency after **multiple reuse cycles** — the material doesn't degrade quickly
-- Requires **lower energy input** than traditional advanced oxidation processes
-
-That reusability matters. A material you can use once is a lab curiosity. A material you can use dozens of times is a water treatment technology.
-
-## Why CDR people should care
-
-Biochar's carbon removal credentials are well established. You pyrolyze biomass, lock carbon into a stable solid, and sequester it for centuries. The problem has always been economics — at current carbon credit prices, biochar-for-sequestration alone is a tough business.
-
-But biochar that also purifies water? That changes the revenue model. You're not selling just carbon credits — you're selling a water treatment product that happens to be made from sequestered carbon. The CDR is a co-benefit of the water treatment, or the water treatment is a co-benefit of the CDR. Either framing works. Both make the unit economics dramatically better.
-
-This is the biochar thesis in action: a material with so many useful applications that carbon removal becomes almost incidental. Soil amendment, water filtration, construction materials, animal feed supplements — and now antibiotic destruction. Each new use case pulls more biochar production into the market, which means more carbon sequestered.
-
-The CDR industry's best friend isn't a higher carbon price. It's a material that people want to buy for other reasons.
-
-**Source:** [EurekAlert / Europe Says](https://www.europesays.com/2860371/)
-
----
-
-### 🔗 Related Reading
-
-- [Bolivia's 70,000-Ton Biochar Facility](/posts/bolivia-biochar-facility-70000-tons/)
-- [Biomass Carbon Credits Face an Accounting Crisis](/posts/biomass-carbon-credits-accounting-crisis/)
-- [[Enhanced Weathering](/posts/what-is-enhanced-weathering/) and Organic Carbon Reactivity](/posts/enhanced-weathering-organic-carbon-reactivity/)
-- [Georgia Tech's CDR Transparency Research](/posts/georgia-tech-cdr-transparency-research/)
+<p>A biochar composite laced with carbon nanotubes and iron carbide (Fe₃C) removes over 90% of common antibiotics from wastewater within hours. That&rsquo;s 15 times better than conventional treatment materials.</p><p>Every time biochar proves useful for something beyond carbon removal, the CDR business case gets stronger. This one&rsquo;s a big deal.</p><h2 id=the-problem-it-solves>The problem it solves<a hidden class=anchor aria-hidden=true href=#the-problem-it-solves>#</a></h2><p>Antibiotics like enrofloxacin and amoxicillin are everywhere in wastewater — from hospitals, farms, and households. Conventional water treatment doesn&rsquo;t remove them well. They persist in the environment, driving antibiotic resistance, which the WHO calls one of the top ten global health threats. We need better tools.</p><h2 id=how-the-material-works>How the material works<a hidden class=anchor aria-hidden=true href=#how-the-material-works>#</a></h2><p>Researchers developed a composite combining biochar (cheap, abundant, made from biomass pyrolysis) with carbon nanotubes and Fe₃C nanoparticles. Paired with low-frequency ultrasound, it attacks antibiotics through two mechanisms simultaneously.</p><p>First, <strong>adsorption</strong>: the material&rsquo;s high surface area grabs antibiotic molecules and holds them. Second, <strong>degradation</strong>: ultrasound-driven cavitation generates reactive oxygen species that chemically break down the antibiotics on contact. The Fe₃C nanoparticles catalyze this degradation, turning what would be a slow process into a fast one.</p><p>The dual mechanism is why performance jumps so dramatically — you&rsquo;re not just trapping pollutants, you&rsquo;re destroying them.</p><h2 id=the-numbers>The numbers<a hidden class=anchor aria-hidden=true href=#the-numbers>#</a></h2><ul><li><strong>15x higher removal rates</strong> compared to conventional biochar or activated carbon</li><li><strong>90%+ removal</strong> of both enrofloxacin and amoxicillin within hours</li><li>Works across a <strong>wide pH range</strong> — important because real wastewater isn&rsquo;t conveniently neutral</li><li>Maintains efficiency after <strong>multiple reuse cycles</strong> — the material doesn&rsquo;t degrade quickly</li><li>Requires <strong>lower energy input</strong> than traditional advanced oxidation processes</li></ul><p>That reusability matters. A material you can use once is a lab curiosity. A material you can use dozens of times is a water treatment technology.</p><h2 id=why-cdr-people-should-care>Why CDR people should care<a hidden class=anchor aria-hidden=true href=#why-cdr-people-should-care>#</a></h2><p>Biochar&rsquo;s carbon removal credentials are well established. You pyrolyze biomass, lock carbon into a stable solid, and sequester it for centuries. The problem has always been economics — at current carbon credit prices, biochar-for-sequestration alone is a tough business.</p><p>But biochar that also purifies water? That changes the revenue model. You&rsquo;re not selling just carbon credits — you&rsquo;re selling a water treatment product that happens to be made from sequestered carbon. The CDR is a co-benefit of the water treatment, or the water treatment is a co-benefit of the CDR. Either framing works. Both make the unit economics dramatically better.</p><p>This is the biochar thesis in action: a material with so many useful applications that carbon removal becomes almost incidental. Soil amendment, water filtration, construction materials, animal feed supplements — and now antibiotic destruction. Each new use case pulls more biochar production into the market, which means more carbon sequestered.</p><p>The CDR industry&rsquo;s best friend isn&rsquo;t a higher carbon price. It&rsquo;s a material that people want to buy for other reasons.</p><p><strong>Source:</strong> <a href=https://www.europesays.com/2860371/>EurekAlert / Europe Says</a></p><hr><h3 id=-related-reading>🔗 Related Reading<a hidden class=anchor aria-hidden=true href=#-related-reading>#</a></h3><ul><li><a href=/posts/bolivia-biochar-facility-70000-tons/>Bolivia&rsquo;s 70,000-Ton Biochar Facility</a></li><li><a href=/posts/biomass-carbon-credits-accounting-crisis/>Biomass Carbon Credits Face an Accounting Crisis</a></li><li>[<a href=/posts/what-is-enhanced-weathering/>Enhanced Weathering</a> and Organic Carbon Reactivity](/posts/enhanced-weathering-organic-carbon-reactivity/)</li><li><a href=/posts/georgia-tech-cdr-transparency-research/>Georgia Tech&rsquo;s CDR Transparency Research</a></li></ul>

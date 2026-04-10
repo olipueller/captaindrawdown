@@ -1,18 +1,14 @@
 ---
 title: "Pressure-Based CO₂ Capture Claims $26/Ton — Here's What to Make of It"
-description: "Sometimes the best engineering ideas sound deceptively simple. Dissolve CO₂ in pressurized water. Reduce the pressure. Collect the gas. It's literally..."
+slug: "pressure-based-co2-capture-26-per-ton"
 date: 2026-02-28T17:30:00Z
-slug: pressure-based-co2-capture-26-per-ton
-aliases: ["/s/9"]
-pillar: "news"
 tags: ["carbon capture", "CCS", "Texas A&M", "industrial decarbonization", "PICC"]
 summary: "Texas A&M researchers claim a pressure-based carbon capture system can hit $26/ton — less than half the cost of conventional amine systems. The numbers are exciting, but scale-up is everything."
 cover:
-  image: "/images/posts/20260228-05.png"
+  image: "/images/posts/pressure-based-co2-capture-26-per-ton.png"
   alt: "Pressure-Based CO₂ Capture Claims $26/Ton — Here's What to Make of It"
-  relative: false
+  hidden: false
 ---
-
 Sometimes the best engineering ideas sound deceptively simple. Dissolve CO₂ in pressurized water. Reduce the pressure. Collect the gas. It's literally how a soda bottle works.
 
 Researchers at Texas A&M University have built on this principle with a system they call Pressure Induced Carbon Capture (PICC), and their claimed cost numbers have turned heads.
@@ -50,12 +46,3 @@ Worth watching closely.
 ## Sources
 
 - [SolarQuarter: Pressure-Based CO₂ Capture System Advances Industrial Decarbonisation](https://solarquarter.com/2026/02/27/pressure-based-co%E2%82%82-capture-system-advances-industrial-decarbonisation/)
-
----
-
-### 🔗 Related Reading
-
-- [EU Risks Losing Heavy Industry If CCUS Deployment Stalls](/posts/2026-02-28-eu-ccus-financing-bottleneck/)
-- [New COF Material Captures CO₂ With Electricity — No Heat Required](/posts/2026-02-28-cof-electrochemical-carbon-capture/)
-- [The EU's Industrial Accelerator Act: What It Means for Carbon Removal](/posts/2026-03-05-eu-industrial-accelerator-act/)
-- [Japanese Scientists Made Rubber That Eats CO₂ and Turns Into Plastic](/posts/2026-03-05-japan-co2-rubber/)

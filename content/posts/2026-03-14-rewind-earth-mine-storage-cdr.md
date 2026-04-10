@@ -1,53 +1,13 @@
 ---
 title: "Abandoned Mines as Carbon Vaults: How Rewind Earth Is Turning Toxic Liabilities Into Climate Assets"
 date: 2026-03-14T14:00:00+01:00
-draft: false
-slug: rewind-earth-mine-storage-cdr
-aliases: ["/s/80"]
 description: "Rewind Earth stores biomass in deep mine chambers — sequestering carbon while fixing acid drainage and methane emissions."
-pillar: "news"
-tags: ["carbon removal", "mine storage", "MRV", "Rewind Earth", "BlueLayer"]
+tags: ["news"]
+slug: "rewind-earth-mine-storage-cdr"
+author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/20260314-04.png"
-  alt: "Abandoned Mines Become Carbon Vaults"
+  image: "/images/posts/rewind-earth-mine-storage-cdr.png"
+  alt: "Abandoned Mines as Carbon Vaults: How Rewind Earth Is Turning Toxic Liabilities Into Climate Assets"
   hidden: false
 ---
-
-Most CDR companies are building something new. Rewind Earth is repurposing something old — and toxic.
-
-The company takes sustainably sourced biomass and stores it in **deep underground mine chambers** where oxygen-free conditions prevent decomposition. The carbon stays locked away. And the mines themselves benefit: less acid drainage, reduced land subsidence risk, lower methane emissions.
-
-## The Approach
-
-Rewind's flagship project operates in a deep mine in **Georgia** (the US state, not the country). The concept is elegant: abandoned mines are environmental liabilities — they leak acidic water, release methane, and pose collapse risks. By filling them with biomass, Rewind addresses multiple problems simultaneously.
-
-The biomass doesn't rot because the chambers are anaerobic. Carbon that was in living plant matter gets locked underground in conditions that could maintain stability for centuries or longer.
-
-## The MRV Challenge
-
-Storing biomass underground is conceptually simple. *Proving* you've stored it — to the standards required for carbon credit issuance — is not. That's where **BlueLayer's digital MRV platform** comes in.
-
-BlueLayer's system automatically validates and timestamps every data entry from Rewind's operations: biomass mass, moisture content, carbon composition. It runs mass balance and carbon content calculations in real-time, creating audit-ready reports.
-
-This matters because CDR's credibility problem isn't "does the science work?" — it's "can you prove it?" Rewind + BlueLayer demonstrate that even unconventional CDR approaches can meet verification standards if the monitoring infrastructure is right.
-
-## Scaling Potential
-
-There are roughly [500,000 abandoned mines](https://www.gao.gov/products/gao-20-238) in the US alone. Most are environmental hazards. If even a fraction could be converted to carbon storage, the capacity is enormous — and the co-benefits (reduced pollution, stabilized land) make the economics more favorable than purpose-built storage.
-
-It's still early days. But the combination of CDR + environmental remediation + existing infrastructure is exactly the kind of multi-benefit approach that investors and policymakers love.
-
----
-
-*Source: [Carbon Herald](https://carbonherald.com/rewind-to-scale-deep-mine-storage-cdr-leveraging-in-depth-bluelayer-dmrv/)*
-
----
-
----
-
-### 🔗 Related Reading
-
-- [Enhanced Rock Weathering: Promising, But Not Simple](/posts/erw-promising-but-not-simple/)
-- [ERW Under Fire: What the Nature Paper on Uncertainties Actually Says](/posts/erw-uncertainties-nature-paper/)
-- [Reality Check: Cornell Study Says ERW Could Hit 1 Billion Tonnes Per Year — With Caveats](/posts/cornell-erw-billion-tonnes/)
-- [ERW Could Remove 1 Billion Tonnes per Year — But the Caveats Matter](/posts/erw-billion-tonnes-caveats/)
+<p>Most CDR companies are building something new. Rewind Earth is repurposing something old — and toxic.</p><p>The company takes sustainably sourced biomass and stores it in <strong>deep underground mine chambers</strong> where oxygen-free conditions prevent decomposition. The carbon stays locked away. And the mines themselves benefit: less acid drainage, reduced land subsidence risk, lower methane emissions.</p><h2 id=the-approach>The Approach<a hidden class=anchor aria-hidden=true href=#the-approach>#</a></h2><p>Rewind&rsquo;s flagship project operates in a deep mine in <strong>Georgia</strong> (the US state, not the country). The concept is elegant: abandoned mines are environmental liabilities — they leak acidic water, release methane, and pose collapse risks. By filling them with biomass, Rewind addresses multiple problems simultaneously.</p><p>The biomass doesn&rsquo;t rot because the chambers are anaerobic. Carbon that was in living plant matter gets locked underground in conditions that could maintain stability for centuries or longer.</p><h2 id=the-mrv-challenge>The MRV Challenge<a hidden class=anchor aria-hidden=true href=#the-mrv-challenge>#</a></h2><p>Storing biomass underground is conceptually simple. <em>Proving</em> you&rsquo;ve stored it — to the standards required for carbon credit issuance — is not. That&rsquo;s where <strong>BlueLayer&rsquo;s digital MRV platform</strong> comes in.</p><p>BlueLayer&rsquo;s system automatically validates and timestamps every data entry from Rewind&rsquo;s operations: biomass mass, moisture content, carbon composition. It runs mass balance and carbon content calculations in real-time, creating audit-ready reports.</p><p>This matters because CDR&rsquo;s credibility problem isn&rsquo;t &ldquo;does the science work?&rdquo; — it&rsquo;s &ldquo;can you prove it?&rdquo; Rewind + BlueLayer demonstrate that even unconventional CDR approaches can meet verification standards if the monitoring infrastructure is right.</p><h2 id=scaling-potential>Scaling Potential<a hidden class=anchor aria-hidden=true href=#scaling-potential>#</a></h2><p>There are roughly <a href=https://www.gao.gov/products/gao-20-238>500,000 abandoned mines</a> in the US alone. Most are environmental hazards. If even a fraction could be converted to carbon storage, the capacity is enormous — and the co-benefits (reduced pollution, stabilized land) make the economics more favorable than purpose-built storage.</p><p>It&rsquo;s still early days. But the combination of CDR + environmental remediation + existing infrastructure is exactly the kind of multi-benefit approach that investors and policymakers love.</p><hr><p><em>Source: <a href=https://carbonherald.com/rewind-to-scale-deep-mine-storage-cdr-leveraging-in-depth-bluelayer-dmrv/>Carbon Herald</a></em></p><hr><hr><h3 id=-related-reading>🔗 Related Reading<a hidden class=anchor aria-hidden=true href=#-related-reading>#</a></h3><ul><li><a href=/posts/erw-promising-but-not-simple/>Enhanced Rock Weathering: Promising, But Not Simple</a></li><li><a href=/posts/erw-uncertainties-nature-paper/>ERW Under Fire: What the Nature Paper on Uncertainties Actually Says</a></li><li><a href=/posts/cornell-erw-billion-tonnes/>Reality Check: Cornell Study Says ERW Could Hit 1 Billion Tonnes Per Year — With Caveats</a></li><li><a href=/posts/erw-billion-tonnes-caveats/>ERW Could Remove 1 Billion Tonnes per Year — But the Caveats Matter</a></li></ul>

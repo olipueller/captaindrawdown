@@ -1,82 +1,13 @@
 ---
 title: "Diapers → Biochar: Turning Baby Waste Into Carbon Removal"
-description: "Disposable diapers are the third-largest consumer item in US landfills. Diaper Stork collects bamboo diapers and pyrolyzes them into biochar. CDR has never been this unexpected."
 date: 2026-03-16T18:20:00+01:00
-slug: diapers-biochar-diaper-stork
-aliases: ["/s/90"]
-pillar: "news"
-tags: ["CDR", "carbon removal", "biochar", "circular economy", "diapers", "Diaper Stork", "pyrolysis"]
-summary: "A Seattle company makes bamboo diapers, takes them back, and turns them into biochar. Over 3 million diapers diverted from landfills. Carbon removal from baby poop."
-draft: false
+description: "Disposable diapers are the third-largest consumer item in US landfills. Diaper Stork collects bamboo diapers and pyrolyzes them into biochar. CDR has never been"
+tags: ["news"]
+slug: "diapers-biochar-diaper-stork"
+author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/20260316-05.png"
-  alt: "Diapers to Biochar - Diaper Stork Carbon Removal"
-  relative: false
+  image: "/images/posts/diapers-biochar-diaper-stork.png"
+  alt: "Diapers → Biochar: Turning Baby Waste Into Carbon Removal"
+  hidden: false
 ---
-
-Some carbon removal stories are about gigawatt-scale DAC facilities and billion-dollar government contracts. This one is about dirty diapers. And it might be the most creative CDR approach I've covered yet.
-
-## The Diaper Problem
-
-Disposable diapers are the [third-largest consumer item in US landfills](https://www.sciencedirect.com/science/article/pii/S0048969722024329). That's staggering when you think about what's ahead of them (food waste and paper products). Each conventional disposable diaper — made from a cocktail of sodium polyacrylate, polyethylene plastics, and wood pulp — can take up to [500 years to degrade](https://reasonstobecheerful.world/sustainable-compostable-diapers/). While it slowly decomposes, it releases methane, a greenhouse gas roughly 80 times more potent than CO₂ over 20 years.
-
-The average baby goes through about 6,000 diapers before potty training. In the US alone, roughly [20 billion diapers](https://www.epa.gov/facts-and-figures-about-materials-waste-and-recycling) hit landfills every year. That's about 3.5 million tonnes of waste annually. It's an enormous, stinking problem that most people would rather not think about.
-
-## Diaper Stork's Solution
-
-Carrie Pollak runs [Diaper Stork](https://www.diaperstork.com/) out of Seattle. The company started as a cloth diaper subscription service — clean diapers delivered, dirty ones picked up, washed, and returned. Simple circular model.
-
-But Pollak wanted broader impact. She acquired Boo, a company making compostable diapers from bamboo, and then did something nobody in Washington State had done before: she set up a process to [pyrolyze used diapers into biochar](https://reasonstobecheerful.world/sustainable-compostable-diapers/).
-
-Here's how it works:
-
-1. **Customers subscribe** to bamboo-based compostable diapers
-2. **Used diapers are collected** through the existing pickup service
-3. **Pyrolysis** heats the organic material to 900°F+ in an oxygen-deprived environment
-4. **Pathogens are killed** by the extreme heat
-5. **The output is biochar** — a stable, carbon-rich material that can persist in soil for centuries
-
-Over **3 million diapers** have been diverted from landfills so far.
-
-## The Carbon Removal Angle
-
-This isn't just waste diversion. It's genuinely carbon removal — if you follow the carbon.
-
-The bamboo diapers are plant-based. Bamboo is one of the fastest-growing plants on Earth, pulling CO₂ from the atmosphere as it grows. When you turn bamboo-based material into biochar through pyrolysis, you're converting atmospheric carbon into a solid form that resists decomposition for hundreds to thousands of years ([Frontiers in Soil Science, 2024](https://www.frontiersin.org/journals/soil-science/articles/10.3389/fsoil.2024.1376159/full)).
-
-Compare the alternatives:
-
-- **Landfill:** Diapers decompose over centuries, releasing methane → net climate harm
-- **Incineration:** Fast decomposition, CO₂ released immediately → climate neutral at best
-- **Biochar from pyrolysis:** Carbon locked in stable form for centuries → net climate benefit
-
-The biochar itself has further uses. Applied to soil, it improves water retention, nutrient availability, and microbial activity. [Research suggests](https://www.mdpi.com/2073-4395/14/6/1215) it could eventually replace some synthetic fertilizers — which themselves are a significant source of N₂O emissions (another potent greenhouse gas).
-
-## The Market
-
-Plant-based diapers hit [$1.42 billion](https://growthmarketreports.com/report/plant-based-diaper-pants-market) in market value in 2024, with projections reaching $3.52 billion by 2033. That's a small fraction of the overall $70+ billion diaper market, but the growth rate — roughly 10% annually — signals where consumer preferences are heading.
-
-An open question raised by the original source: is Diaper Stork generating carbon credits from this process? If the biochar production can be quantified and verified — tonnes of CO₂ permanently stored, measured against the counterfactual of landfill decomposition — there's a real revenue stream waiting.
-
-[Puro.earth](https://puro.earth/) already certifies biochar-based carbon removal credits. The methodology exists. The question is whether a small diaper company can navigate the certification process cost-effectively.
-
-## Not Every Climate Solution Needs to Be High-Tech
-
-There's a lesson here that the CDR field sometimes forgets. We spend a lot of time — rightly — talking about DAC facilities, [enhanced weathering](/posts/what-is-enhanced-weathering/) field trials, and ocean alkalinity enhancement pilots. These are critical technologies that need massive scale-up.
-
-But carbon removal also happens in unexpected places. A subscription diaper service in Seattle, pyrolyzing bamboo nappies into biochar. It's not going to move the gigatonne needle by itself. But it demonstrates something important: CDR can be woven into existing supply chains, existing consumer products, existing waste streams. It doesn't always need a moonshot.
-
-The circular economy and carbon removal aren't separate ideas. They're the same idea, applied at different points in the carbon cycle. When you close a loop *and* lock away carbon, you get climate benefit twice.
-
----
-
-*Source: [Reasons to Be Cheerful](https://reasonstobecheerful.world/sustainable-compostable-diapers/), March 13, 2026. Via [@GreenFire on Mastodon](https://mstdn.social/@GreenFire/116235497297642353).*
-
----
-
-### 🔗 Related Reading
-
-- [Why Carbon Removal Needs More Than Trees](/posts/why-carbon-removal-needs-more-than-trees/)
-- [Biochar: The Quiet Giant of Carbon Removal](/posts/2026-02-25-biochar-quiet-giant-of-cdr/)
-- [Japan-India Biochar Alliance: Industrial-Scale CDR Comes to Asia](/posts/green-carbon-india-biochar-partnership/)
-- [Japan × India: Green Carbon's Biochar Partnership Targets 180,000 Tonnes of CDR](/posts/green-carbon-india-biochar-partnership/)
+<p>Some carbon removal stories are about gigawatt-scale DAC facilities and billion-dollar government contracts. This one is about dirty diapers. And it might be the most creative CDR approach I&rsquo;ve covered yet.</p><h2 id=the-diaper-problem>The Diaper Problem<a hidden class=anchor aria-hidden=true href=#the-diaper-problem>#</a></h2><p>Disposable diapers are the <a href=https://www.sciencedirect.com/science/article/pii/S0048969722024329>third-largest consumer item in US landfills</a>. That&rsquo;s staggering when you think about what&rsquo;s ahead of them (food waste and paper products). Each conventional disposable diaper — made from a cocktail of sodium polyacrylate, polyethylene plastics, and wood pulp — can take up to <a href=https://reasonstobecheerful.world/sustainable-compostable-diapers/>500 years to degrade</a>. While it slowly decomposes, it releases methane, a greenhouse gas roughly 80 times more potent than CO₂ over 20 years.</p><p>The average baby goes through about 6,000 diapers before potty training. In the US alone, roughly <a href=https://www.epa.gov/facts-and-figures-about-materials-waste-and-recycling>20 billion diapers</a> hit landfills every year. That&rsquo;s about 3.5 million tonnes of waste annually. It&rsquo;s an enormous, stinking problem that most people would rather not think about.</p><h2 id=diaper-storks-solution>Diaper Stork&rsquo;s Solution<a hidden class=anchor aria-hidden=true href=#diaper-storks-solution>#</a></h2><p>Carrie Pollak runs <a href=https://www.diaperstork.com/>Diaper Stork</a> out of Seattle. The company started as a cloth diaper subscription service — clean diapers delivered, dirty ones picked up, washed, and returned. Simple circular model.</p><p>But Pollak wanted broader impact. She acquired Boo, a company making compostable diapers from bamboo, and then did something nobody in Washington State had done before: she set up a process to <a href=https://reasonstobecheerful.world/sustainable-compostable-diapers/>pyrolyze used diapers into biochar</a>.</p><p>Here&rsquo;s how it works:</p><ol><li><strong>Customers subscribe</strong> to bamboo-based compostable diapers</li><li><strong>Used diapers are collected</strong> through the existing pickup service</li><li><strong>Pyrolysis</strong> heats the organic material to 900°F+ in an oxygen-deprived environment</li><li><strong>Pathogens are killed</strong> by the extreme heat</li><li><strong>The output is biochar</strong> — a stable, carbon-rich material that can persist in soil for centuries</li></ol><p>Over <strong>3 million diapers</strong> have been diverted from landfills so far.</p><h2 id=the-carbon-removal-angle>The Carbon Removal Angle<a hidden class=anchor aria-hidden=true href=#the-carbon-removal-angle>#</a></h2><p>This isn&rsquo;t just waste diversion. It&rsquo;s genuinely carbon removal — if you follow the carbon.</p><p>The bamboo diapers are plant-based. Bamboo is one of the fastest-growing plants on Earth, pulling CO₂ from the atmosphere as it grows. When you turn bamboo-based material into biochar through pyrolysis, you&rsquo;re converting atmospheric carbon into a solid form that resists decomposition for hundreds to thousands of years (<a href=https://www.frontiersin.org/journals/soil-science/articles/10.3389/fsoil.2024.1376159/full>Frontiers in Soil Science, 2024</a>).</p><p>Compare the alternatives:</p><ul><li><strong>Landfill:</strong> Diapers decompose over centuries, releasing methane → net climate harm</li><li><strong>Incineration:</strong> Fast decomposition, CO₂ released immediately → climate neutral at best</li><li><strong>Biochar from pyrolysis:</strong> Carbon locked in stable form for centuries → net climate benefit</li></ul><p>The biochar itself has further uses. Applied to soil, it improves water retention, nutrient availability, and microbial activity. <a href=https://www.mdpi.com/2073-4395/14/6/1215>Research suggests</a> it could eventually replace some synthetic fertilizers — which themselves are a significant source of N₂O emissions (another potent greenhouse gas).</p><h2 id=the-market>The Market<a hidden class=anchor aria-hidden=true href=#the-market>#</a></h2><p>Plant-based diapers hit <a href=https://growthmarketreports.com/report/plant-based-diaper-pants-market>$1.42 billion</a> in market value in 2024, with projections reaching $3.52 billion by 2033. That&rsquo;s a small fraction of the overall $70+ billion diaper market, but the growth rate — roughly 10% annually — signals where consumer preferences are heading.</p><p>An open question raised by the original source: is Diaper Stork generating carbon credits from this process? If the biochar production can be quantified and verified — tonnes of CO₂ permanently stored, measured against the counterfactual of landfill decomposition — there&rsquo;s a real revenue stream waiting.</p><p><a href=https://puro.earth/>Puro.earth</a> already certifies biochar-based carbon removal credits. The methodology exists. The question is whether a small diaper company can navigate the certification process cost-effectively.</p><h2 id=not-every-climate-solution-needs-to-be-high-tech>Not Every Climate Solution Needs to Be High-Tech<a hidden class=anchor aria-hidden=true href=#not-every-climate-solution-needs-to-be-high-tech>#</a></h2><p>There&rsquo;s a lesson here that the CDR field sometimes forgets. We spend a lot of time — rightly — talking about DAC facilities, <a href=/posts/what-is-enhanced-weathering/>enhanced weathering</a> field trials, and ocean alkalinity enhancement pilots. These are critical technologies that need massive scale-up.</p><p>But carbon removal also happens in unexpected places. A subscription diaper service in Seattle, pyrolyzing bamboo nappies into biochar. It&rsquo;s not going to move the gigatonne needle by itself. But it demonstrates something important: CDR can be woven into existing supply chains, existing consumer products, existing waste streams. It doesn&rsquo;t always need a moonshot.</p><p>The circular economy and carbon removal aren&rsquo;t separate ideas. They&rsquo;re the same idea, applied at different points in the carbon cycle. When you close a loop <em>and</em> lock away carbon, you get climate benefit twice.</p><hr><p><em>Source: <a href=https://reasonstobecheerful.world/sustainable-compostable-diapers/>Reasons to Be Cheerful</a>, March 13, 2026. Via <a href=https://mstdn.social/@GreenFire/116235497297642353>@GreenFire on Mastodon</a>.</em></p><hr><h3 id=-related-reading>🔗 Related Reading<a hidden class=anchor aria-hidden=true href=#-related-reading>#</a></h3><ul><li><a href=/posts/why-carbon-removal-needs-more-than-trees/>Why Carbon Removal Needs More Than Trees</a></li><li><a href=/posts/biochar-quiet-giant-of-cdr/>Biochar: The Quiet Giant of Carbon Removal</a></li><li><a href=/posts/green-carbon-india-biochar-partnership/>Japan-India Biochar Alliance: Industrial-Scale CDR Comes to Asia</a></li><li><a href=/posts/green-carbon-india-biochar-partnership/>Japan × India: Green Carbon&rsquo;s Biochar Partnership Targets 180,000 Tonnes of CDR</a></li></ul>

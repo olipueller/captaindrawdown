@@ -1,53 +1,13 @@
 ---
 title: "Climeworks Opens Calgary HQ — Cold-Climate DAC Testing by Fall 2026"
-date: 2026-03-01
-slug: climeworks-calgary-hq-cold-climate-dac
-aliases: ["/s/11"]
+date: 2026-03-01T00:00:00Z
 description: "CDI portfolio company Climeworks establishes new headquarters in Alberta, Canada, with mobile DAC test facility planned for fall 2026."
-pillar: "news"
-tags: ["DAC", "Climeworks", "Canada", "CDI portfolio", "carbon removal"]
+tags: ["news"]
+slug: "climeworks-calgary-hq-cold-climate-dac"
+author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/20260301-01.png"
+  image: "/images/posts/climeworks-calgary-hq-cold-climate-dac.png"
   alt: "Climeworks Opens Calgary HQ — Cold-Climate DAC Testing by Fall 2026"
-  relative: false
+  hidden: false
 ---
-
-Climeworks, one of the Carbon Drawdown Initiative's [portfolio companies](https://www.carbon-drawdown.de/blog/2025-8-4-portfolio-spotlight-climeworks), has established new headquarters in Calgary, Alberta.
-
-## Why Calgary
-
-Alberta offers something few other jurisdictions can match: deep expertise in carbon management, established subsurface storage infrastructure, and a supportive regulatory environment for carbon capture projects. Calgary's Energy Transition Centre (ETC) — where Climeworks is setting up — brings startups, researchers, investors, and industry leaders under one roof.
-
-It's a deliberate choice. Alberta has decades of experience managing CO₂ underground, originally for enhanced oil recovery but increasingly for permanent geological storage.
-
-## The Test Plan
-
-A mobile DAC test facility will launch in Calgary by fall 2026, collecting real-time performance data in cold-climate conditions. This builds on Climeworks' extensive operational experience in Iceland (where temperatures regularly drop below -10°C) and extends their dataset to Canadian winter conditions.
-
-The key question: how do DAC systems perform across different temperature extremes? Climeworks is methodically answering this by testing in:
-
-- **Cold climates:** Iceland and now Alberta
-- **Hot, arid climates:** KAPSARC hub in Riyadh, Saudi Arabia
-
-This multi-climate testing strategy is critical. DAC can't be a solution that only works in Iceland. It needs to perform reliably across geographies and seasons.
-
-## The Saudi Connection
-
-Climeworks simultaneously announced a strengthened partnership with the Royal Commission for Jubail and Yanbu (RCJY) to advance large-scale DAC in Saudi Arabia. This isn't just about testing — it's about building the commercial pipeline for DAC deployment in the Middle East.
-
-## CDI's Perspective
-
-CDI invested in Climeworks because they represent the frontier of commercially viable direct air capture. As CDI's [portfolio spotlight](https://www.carbon-drawdown.de/blog/2025-8-4-portfolio-spotlight-climeworks) noted, Climeworks' systematic approach to scaling — from prototype to Orca to Mammoth — shows how CDR companies should mature.
-
-The Calgary expansion continues that trajectory. More data, more climate zones, more confidence in the technology before scaling to megatonne capacity.
-
-**Source:** [Carbon Herald](https://carbonherald.com/climeworks-announces-new-headquarters-in-alberta-canada/)
-
----
-
-### 🔗 Related Reading
-
-- [Octavia Carbon Secures New Offtake Agreement via Carbon Direct](/posts/2026-03-07-octavia-carbon-offtake-carbon-direct/)
-- [500MW of Solar for the World's Largest DAC Plant](/posts/2026-02-25-500mw-solar-for-stratos-dac/)
-- [Mercedes F1 Goes All-In on Carbon Removal — 7 New Projects Across 6 Pathways](/posts/2026-03-05-mercedes-f1-cdr-portfolio/)
-- [Boeing Bets Big on Biochar — 40,000 Tonnes of Carbon Removal via Carbonfuture](/posts/2026-03-06-boeing-carbonfuture-40k-tonnes/)
+<p>Climeworks, one of the Carbon Drawdown Initiative&rsquo;s <a href=https://www.carbon-drawdown.de/blog/2025-8-4-portfolio-spotlight-climeworks>portfolio companies</a>, has established new headquarters in Calgary, Alberta.</p><h2 id=why-calgary>Why Calgary<a hidden class=anchor aria-hidden=true href=#why-calgary>#</a></h2><p>Alberta offers something few other jurisdictions can match: deep expertise in carbon management, established subsurface storage infrastructure, and a supportive regulatory environment for carbon capture projects. Calgary&rsquo;s Energy Transition Centre (ETC) — where Climeworks is setting up — brings startups, researchers, investors, and industry leaders under one roof.</p><p>It&rsquo;s a deliberate choice. Alberta has decades of experience managing CO₂ underground, originally for enhanced oil recovery but increasingly for permanent geological storage.</p><h2 id=the-test-plan>The Test Plan<a hidden class=anchor aria-hidden=true href=#the-test-plan>#</a></h2><p>A mobile DAC test facility will launch in Calgary by fall 2026, collecting real-time performance data in cold-climate conditions. This builds on Climeworks&rsquo; extensive operational experience in Iceland (where temperatures regularly drop below -10°C) and extends their dataset to Canadian winter conditions.</p><p>The key question: how do DAC systems perform across different temperature extremes? Climeworks is methodically answering this by testing in:</p><ul><li><strong>Cold climates:</strong> Iceland and now Alberta</li><li><strong>Hot, arid climates:</strong> KAPSARC hub in Riyadh, Saudi Arabia</li></ul><p>This multi-climate testing strategy is critical. DAC can&rsquo;t be a solution that only works in Iceland. It needs to perform reliably across geographies and seasons.</p><h2 id=the-saudi-connection>The Saudi Connection<a hidden class=anchor aria-hidden=true href=#the-saudi-connection>#</a></h2><p>Climeworks simultaneously announced a strengthened partnership with the Royal Commission for Jubail and Yanbu (RCJY) to advance large-scale DAC in Saudi Arabia. This isn&rsquo;t just about testing — it&rsquo;s about building the commercial pipeline for DAC deployment in the Middle East.</p><h2 id=cdis-perspective>CDI&rsquo;s Perspective<a hidden class=anchor aria-hidden=true href=#cdis-perspective>#</a></h2><p>CDI invested in Climeworks because they represent the frontier of commercially viable direct air capture. As CDI&rsquo;s <a href=https://www.carbon-drawdown.de/blog/2025-8-4-portfolio-spotlight-climeworks>portfolio spotlight</a> noted, Climeworks&rsquo; systematic approach to scaling — from prototype to Orca to Mammoth — shows how CDR companies should mature.</p><p>The Calgary expansion continues that trajectory. More data, more climate zones, more confidence in the technology before scaling to megatonne capacity.</p><p><strong>Source:</strong> <a href=https://carbonherald.com/climeworks-announces-new-headquarters-in-alberta-canada/>Carbon Herald</a></p><hr><h3 id=-related-reading>🔗 Related Reading<a hidden class=anchor aria-hidden=true href=#-related-reading>#</a></h3><ul><li><a href=/posts/octavia-carbon-offtake-carbon-direct/>Octavia Carbon Secures New Offtake Agreement via Carbon Direct</a></li><li><a href=/posts/500mw-solar-for-stratos-dac/>500MW of Solar for the World&rsquo;s Largest DAC Plant</a></li><li><a href=/posts/mercedes-f1-cdr-portfolio/>Mercedes F1 Goes All-In on Carbon Removal — 7 New Projects Across 6 Pathways</a></li><li><a href=/posts/boeing-carbonfuture-40k-tonnes/>Boeing Bets Big on Biochar — 40,000 Tonnes of Carbon Removal via Carbonfuture</a></li></ul>

@@ -1,0 +1,44 @@
+---
+title: "Jiayu Zhang"
+description: "Jiayu Zhang is a mid-career researcher at University of Electronic Science and Technology of China specializing in General CDR"
+url: "/cdr-researcher-census/researchers/jiayu-zhang-00324159/"
+type: "census"
+---
+
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"Person","name":"Jiayu Zhang","affiliation":{"@type":"Organization","name":"University of Electronic Science and Technology of China"},"url":"https://www.captaindrawdown.com/cdr-researcher-census/researchers/jiayu-zhang-00324159/"}
+</script>
+
+## 🇨🇳 Jiayu Zhang
+
+**University of Electronic Science and Technology of China** (CN)
+
+**Career Stage:** Mid-career
+**CDR Pathway:** General CDR
+**Trajectory:** Exiting
+**Data Confidence:** confirmed
+
+<table class="metrics-table">
+<tr><th>Metric</th><th>Value</th></tr>
+<tr><td>h-index</td><td>6</td></tr>
+<tr><td>Total Citations</td><td>224</td></tr>
+<tr><td>Total Publications</td><td>20</td></tr>
+<tr><td>CDR Focus</td><td>5%</td></tr>
+<tr><td>First CDR Paper</td><td>2018</td></tr>
+</table>
+
+## Top CDR Publications
+
+- **Carbon Sequestration Potential of Biomass Production along Highways in China** (2023) — 13 citations
+- **Estimation of carbon sequestration potential and air quality impacts of biochar production from straw in China** (2024) — 5 citations
+
+
+## External Links
+
+- [ORCID Profile](https://orcid.org/https://orcid.org/0000-0002-6746-9757)
+- [OpenAlex Profile](https://openalex.org/authors/https://openalex.org/A5100324159)
+
+
+---
+
+*Data from [OpenAlex](https://openalex.org) enriched with [ORCID](https://orcid.org). Part of the [CDR Researcher Census](/cdr-researcher-census/).*

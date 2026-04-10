@@ -1,76 +1,13 @@
 ---
 title: "Roads as Carbon Sinks: Verde Locks In Major Biochar Supply"
-description: "Verde Resources secured a supply of 38,500 tons/year of engineered biochar for its BioAsphalt™ technology — roads that sequester CO₂ and earn verified carbon credits."
 date: 2026-03-17T13:00:00+01:00
-slug: verde-bioasphalt-biochar-roads-carbon-sinks
-aliases: ["/s/99"]
-pillar: "news"
-tags: ["CDR", "carbon removal", "biochar", "infrastructure", "carbon credits", "Puro.earth", "Verde", "BioAsphalt"]
-summary: "Verde Resources just locked in 38,500 tons/year of engineered biochar for roads that sequester carbon. They already earned the world's first carbon removal credits from an asphalt application."
-draft: false
+description: "Verde Resources secured a supply of 38,500 tons/year of engineered biochar for its BioAsphalt™ technology — roads that sequester CO₂ and earn verified carbon cr"
+tags: ["news"]
+slug: "verde-bioasphalt-biochar-roads-carbon-sinks"
+author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/20260317-03.png"
-  alt: "Verde BioAsphalt Biochar Roads as Carbon Sinks"
-  relative: false
+  image: "/images/posts/verde-bioasphalt-biochar-roads-carbon-sinks.png"
+  alt: "Roads as Carbon Sinks: Verde Locks In Major Biochar Supply"
+  hidden: false
 ---
-
-The world paves roughly 25 million lane-kilometers of roads every year. What if that asphalt sequestered carbon instead of just sitting there?
-
-Verde Resources just [signed a supply agreement](https://www.stocktitan.net/news/VRDR/verde-secures-key-engineered-biochar-supply-and-carbon-credit-s9015wew3lun.html) with Biochar Solutions LLC (BSL) for up to 38,500 tons of engineered biochar annually, purpose-built for incorporation into Verde's BioAsphalt™ road construction products. Roughly half of that capacity is expected to qualify for carbon removal credit generation.
-
-It sounds like science fiction. It's not. They've already done it.
-
-## The First-Ever Asphalt Carbon Credits
-
-In December 2024, Verde completed a proof-of-concept project with Oregon Biochar Solutions (a BSL subsidiary) and the National Center for Asphalt Technology (NCAT). They built a real road with BioAsphalt™ and earned 8 tons of verified carbon removal credits from [Puro.earth](https://puro.earth/) — the first carbon removal credits ever generated from an asphalt application.
-
-Those credits were bought by "a major global financial institution focused on carbon dioxide removals." That's institutional validation: a bank paid real money for carbon stored in a road.
-
-NCAT followed up with early technical validation in July 2025, confirming that the biochar-enhanced asphalt performs within real-world pavement systems. Performance first, carbon credits second — that's the right way around.
-
-## How It Works
-
-Biochar is charcoal produced by pyrolysis — heating organic biomass in low-oxygen conditions. The carbon in the biomass, which would otherwise decompose back into CO₂, gets locked into a stable form that persists for centuries. Mix that biochar into asphalt, and you've turned road infrastructure into a carbon storage medium.
-
-The MRV (measurement, reporting, and verification) protocols account for the biochar's measured carbon content, durability, and lifecycle factors. Credits are shared between Verde and BSL, aligning the incentives: BSL makes better biochar, Verde makes better roads, both earn carbon revenue.
-
-## The Business Model
-
-This isn't just a carbon story. Verde has built a vertically integrated model:
-
-- **BSL** supplies engineered biochar (38,500 tons/year initially, with plans for a 5-year agreement)
-- **Ergon Asphalt & Emulsions**, the largest asphalt producer in North America, has a [10-year commercial agreement](https://www.nasdaq.com/) with Verde and made a $2 million strategic investment
-- **Puro.earth** verifies the carbon removal credits
-- Federal, state, and municipal road contracts provide the deployment pathway
-
-The genius is that roads get repaved constantly. The U.S. alone resurfaces millions of lane-miles every year. If BioAsphalt™ can match conventional asphalt on performance and price — and the carbon credits provide a revenue bonus — the adoption path is already paved. (Sorry.)
-
-## Why Infrastructure-Based CDR Matters
-
-Most CDR conversations focus on purpose-built facilities: DAC plants, [enhanced weathering](/posts/what-is-enhanced-weathering/) operations, BECCS installations. These are important. But they require dedicated land, energy, and capital.
-
-Infrastructure-based CDR piggybacks on activity that's already happening. Roads are getting built regardless. Biochar in asphalt doesn't require new land, new energy infrastructure, or consumer behavior change. It just requires better asphalt.
-
-This principle extends beyond roads. [Biochar in concrete](/posts/biochar-quiet-giant-of-cdr/), carbon-cured building materials, timber construction — the built environment absorbs billions of tons of materials every year. If even a fraction of those materials can be engineered to sequester carbon, the scale potential is enormous.
-
-## The Caveats
-
-Eight tons of verified credits from one proof-of-concept is promising, not transformative. Scaling from a demonstration project to 38,500 tons of annual biochar supply — and converting that into tens of thousands of verified credits — involves real engineering and supply chain challenges.
-
-The biochar itself needs to be consistently produced to specification. The MRV needs to hold up under scrutiny as volumes grow. And the economics need to work without carbon credit revenue being the primary driver — performance has to come first.
-
-Verde seems to understand this. The agreement explicitly states that "performance remains the primary objective, independent of carbon credit generation." That's the right framing for any infrastructure CDR play: the product has to work as a product. The carbon credits are a bonus, not the business case.
-
-Still — roads that sequester carbon. If it scales, every highway becomes a climate solution.
-
----
-
-*Source: [Stock Titan / PR Newswire](https://www.stocktitan.net/news/VRDR/verde-secures-key-engineered-biochar-supply-and-carbon-credit-s9015wew3lun.html).*
-
----
-
-### 🔗 Related Reading
-
-- [Biochar: The Quiet Giant of Carbon Removal](/posts/biochar-quiet-giant-of-cdr/)
-- [Diapers → Biochar: Turning Baby Waste Into Carbon Removal](/posts/diapers-biochar-diaper-stork/)
-- [West Virginia Bets on Biochar: Coal State Stacks Tax Credits for Carbon Removal](/posts/west-virginia-biochar-tax-credit/)
+<p>The world paves roughly 25 million lane-kilometers of roads every year. What if that asphalt sequestered carbon instead of just sitting there?</p><p>Verde Resources just <a href=https://www.stocktitan.net/news/VRDR/verde-secures-key-engineered-biochar-supply-and-carbon-credit-s9015wew3lun.html>signed a supply agreement</a> with Biochar Solutions LLC (BSL) for up to 38,500 tons of engineered biochar annually, purpose-built for incorporation into Verde&rsquo;s BioAsphalt™ road construction products. Roughly half of that capacity is expected to qualify for carbon removal credit generation.</p><p>It sounds like science fiction. It&rsquo;s not. They&rsquo;ve already done it.</p><h2 id=the-first-ever-asphalt-carbon-credits>The First-Ever Asphalt Carbon Credits<a hidden class=anchor aria-hidden=true href=#the-first-ever-asphalt-carbon-credits>#</a></h2><p>In December 2024, Verde completed a proof-of-concept project with Oregon Biochar Solutions (a BSL subsidiary) and the National Center for Asphalt Technology (NCAT). They built a real road with BioAsphalt™ and earned 8 tons of verified carbon removal credits from <a href=https://puro.earth/>Puro.earth</a> — the first carbon removal credits ever generated from an asphalt application.</p><p>Those credits were bought by &ldquo;a major global financial institution focused on carbon dioxide removals.&rdquo; That&rsquo;s institutional validation: a bank paid real money for carbon stored in a road.</p><p>NCAT followed up with early technical validation in July 2025, confirming that the biochar-enhanced asphalt performs within real-world pavement systems. Performance first, carbon credits second — that&rsquo;s the right way around.</p><h2 id=how-it-works>How It Works<a hidden class=anchor aria-hidden=true href=#how-it-works>#</a></h2><p>Biochar is charcoal produced by pyrolysis — heating organic biomass in low-oxygen conditions. The carbon in the biomass, which would otherwise decompose back into CO₂, gets locked into a stable form that persists for centuries. Mix that biochar into asphalt, and you&rsquo;ve turned road infrastructure into a carbon storage medium.</p><p>The MRV (measurement, reporting, and verification) protocols account for the biochar&rsquo;s measured carbon content, durability, and lifecycle factors. Credits are shared between Verde and BSL, aligning the incentives: BSL makes better biochar, Verde makes better roads, both earn carbon revenue.</p><h2 id=the-business-model>The Business Model<a hidden class=anchor aria-hidden=true href=#the-business-model>#</a></h2><p>This isn&rsquo;t just a carbon story. Verde has built a vertically integrated model:</p><ul><li><strong>BSL</strong> supplies engineered biochar (38,500 tons/year initially, with plans for a 5-year agreement)</li><li><strong>Ergon Asphalt & Emulsions</strong>, the largest asphalt producer in North America, has a <a href=https://www.nasdaq.com/>10-year commercial agreement</a> with Verde and made a $2 million strategic investment</li><li><strong>Puro.earth</strong> verifies the carbon removal credits</li><li>Federal, state, and municipal road contracts provide the deployment pathway</li></ul><p>The genius is that roads get repaved constantly. The U.S. alone resurfaces millions of lane-miles every year. If BioAsphalt™ can match conventional asphalt on performance and price — and the carbon credits provide a revenue bonus — the adoption path is already paved. (Sorry.)</p><h2 id=why-infrastructure-based-cdr-matters>Why Infrastructure-Based CDR Matters<a hidden class=anchor aria-hidden=true href=#why-infrastructure-based-cdr-matters>#</a></h2><p>Most CDR conversations focus on purpose-built facilities: DAC plants, <a href=/posts/what-is-enhanced-weathering/>enhanced weathering</a> operations, BECCS installations. These are important. But they require dedicated land, energy, and capital.</p><p>Infrastructure-based CDR piggybacks on activity that&rsquo;s already happening. Roads are getting built regardless. Biochar in asphalt doesn&rsquo;t require new land, new energy infrastructure, or consumer behavior change. It just requires better asphalt.</p><p>This principle extends beyond roads. <a href=/posts/biochar-quiet-giant-of-cdr/>Biochar in concrete</a>, carbon-cured building materials, timber construction — the built environment absorbs billions of tons of materials every year. If even a fraction of those materials can be engineered to sequester carbon, the scale potential is enormous.</p><h2 id=the-caveats>The Caveats<a hidden class=anchor aria-hidden=true href=#the-caveats>#</a></h2><p>Eight tons of verified credits from one proof-of-concept is promising, not transformative. Scaling from a demonstration project to 38,500 tons of annual biochar supply — and converting that into tens of thousands of verified credits — involves real engineering and supply chain challenges.</p><p>The biochar itself needs to be consistently produced to specification. The MRV needs to hold up under scrutiny as volumes grow. And the economics need to work without carbon credit revenue being the primary driver — performance has to come first.</p><p>Verde seems to understand this. The agreement explicitly states that &ldquo;performance remains the primary objective, independent of carbon credit generation.&rdquo; That&rsquo;s the right framing for any infrastructure CDR play: the product has to work as a product. The carbon credits are a bonus, not the business case.</p><p>Still — roads that sequester carbon. If it scales, every highway becomes a climate solution.</p><hr><p><em>Source: <a href=https://www.stocktitan.net/news/VRDR/verde-secures-key-engineered-biochar-supply-and-carbon-credit-s9015wew3lun.html>Stock Titan / PR Newswire</a>.</em></p><hr><h3 id=-related-reading>🔗 Related Reading<a hidden class=anchor aria-hidden=true href=#-related-reading>#</a></h3><ul><li><a href=/posts/biochar-quiet-giant-of-cdr/>Biochar: The Quiet Giant of Carbon Removal</a></li><li><a href=/posts/diapers-biochar-diaper-stork/>Diapers → Biochar: Turning Baby Waste Into Carbon Removal</a></li><li><a href=/posts/west-virginia-biochar-tax-credit/>West Virginia Bets on Biochar: Coal State Stacks Tax Credits for Carbon Removal</a></li></ul>

@@ -1,18 +1,14 @@
 ---
 title: "CDR Daily Digest — 28 Feb 2026"
-description: "A striking new finding from BloombergNEF and the Business Council for Sustainable Energy: Microsoft purchased 93% of all carbon removal credits..."
 date: 2026-02-28
-slug: cdr-daily-digest
-aliases: ["/s/5"]
-pillar: "market"
+slug: "cdr-daily-digest-2026-02-28"
 tags: ["cdr", "carbon-removal", "daily-digest", "microsoft", "ocean-alkalinity", "carbon-capture", "climate-policy"]
 summary: "Microsoft bought 93% of all global carbon removals in 2025. Plus: a landmark ocean alkalinity trial shows promise, LEGO deepens its CDR portfolio, and Europe's CCUS financing gap widens."
 cover:
-  image: "/images/digests/2026-02-28.png"
+  image: "/images/posts/cdr-daily-digest.png"
   alt: "CDR Daily Digest — 28 Feb 2026"
-  relative: false
+  hidden: false
 ---
-
 # CDR Daily Digest — 28 Feb 2026
 
 ## 🔑 Top Story: Microsoft *Is* the Carbon Removal Market
@@ -98,4 +94,4 @@ Also in marine CDR: a [new study in *Communications Sustainability*](https://www
 
 *Daily coverage of the carbon removal industry. Data-driven. Source-linked. No hype.*
 
-🦸 **CaptainDrawdown** · [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social) · [X/Twitter](https://x.com/CaptDrawdown) · [Blog](https://captaindrawdown.com)
+🦸 **CaptainDrawdown** · [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social) · [X/Twitter](https://x.com/CaptDrawdown) · [Mastodon](https://mastodon.social/@CaptainDrawdown) · [Blog](https://captaindrawdown.com)

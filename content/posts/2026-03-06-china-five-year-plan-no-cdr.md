@@ -1,58 +1,13 @@
 ---
 title: "China's New Five-Year Plan: 17% Carbon Intensity Cut, Zero CDR"
-date: 2026-03-06
-slug: china-five-year-plan-no-cdr
-aliases: ["/s/25"]
-draft: false
-pillar: "global"
-tags: ["CDR", "carbon removal", "China", "climate policy", "five-year plan", "carbon intensity", "renewables", "coal"]
-description: "China's 15th Five-Year Plan targets a 17% carbon intensity reduction by 2030 — but mentions nothing about carbon dioxide removal. That gap is becoming harder to ignore."
+date: 2026-03-06T00:00:00Z
+description: "China's 15th Five-Year Plan targets a 17% carbon intensity reduction by 2030 — but mentions nothing about carbon dioxide removal. That gap is becoming harder to"
+tags: ["news"]
+slug: "china-five-year-plan-no-cdr"
+author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/20260306-03.png"
+  image: "/images/posts/china-five-year-plan-no-cdr.png"
   alt: "China's New Five-Year Plan: 17% Carbon Intensity Cut, Zero CDR"
-  relative: false
+  hidden: false
 ---
-
-China released its 15th Five-Year Plan this week. The headline number: a **17% reduction in carbon intensity** (CO₂ per unit of GDP) from 2026 to 2030, with a 3.8% cut targeted for this year alone.
-
-Sounds ambitious. It's not.
-
-## The Math Problem
-
-Carbon *intensity* drops even if absolute emissions rise — you just need your economy to grow faster than your emissions. And that's exactly what analysts expect to happen.
-
-The Centre for Research on Energy and Clean Air (CREA) calls the target "alarmingly lax," projecting it could allow emissions to **increase 3–6%** over the next five years given China's economic growth trajectory. CREA's own analysis shows China would need a **23% intensity cut** to meet its Paris Agreement commitment of 65% reduction from 2005 to 2030.
-
-China missed its previous five-year target (18%) by a wide margin, achieving only 12%.
-
-## Where's the CDR?
-
-Nowhere. The plan mentions renewable energy targets, coal replacement goals (30 million metric tonnes substituted by renewables over five years), and 30 million combustion vehicles replaced. But carbon dioxide removal — the thing every climate model says we'll need at gigatonne scale — is absent.
-
-This is a big deal because China is rapidly becoming the world's largest *cumulative* emitter. The historical-emissions argument that justified slower action is running out of runway.
-
-For CDR specifically, China's absence from the market is significant. The country has enormous potential for [enhanced weathering](/posts/what-is-enhanced-weathering/) (vast agricultural lands, basalt deposits), BECCS (biomass resources), and mineralization (industrial waste streams). But without policy signals, none of that potential translates into projects.
-
-## The Contrast With This Week's Other News
-
-Put China's plan next to what happened elsewhere this week:
-- Canada launched a **$100M CDR coalition** backed by government, banks, and tech companies
-- The EU adopted the **world's first certification standard** for permanent carbon removals
-- Boeing signed a **40,000-tonne CDR deal** through Carbonfuture
-
-The CDR market is building momentum — but almost entirely in North America and Europe. China, the world's largest emitter, is still playing a different game.
-
-That gap will eventually close. The physics demands it. But "eventually" is doing a lot of heavy lifting in that sentence.
-
----
-
-*Sources: [Reuters](https://www.reuters.com/sustainability/climate-energy/china-plans-cut-carbon-dioxide-emissions-per-unit-gdp-by-around-38-2026-2026-03-05/) · [Xinhua](https://english.news.cn/20260305/a13c16b4907c489588e4e32835c1d3c1/c.html)*
-
----
-
-### 🔗 Related Reading
-
-- [The EU's Industrial Accelerator Act: What It Means for Carbon Removal](/posts/2026-03-05-eu-industrial-accelerator-act/)
-- [What Is [Enhanced Weathering](/posts/what-is-enhanced-weathering/)? A Primer](/posts/what-is-enhanced-weathering/)
-- [CDR Roundup: What's Moving in Carbon Removal (Feb 2026)](/posts/cdr-roundup-feb-2026/)
-- [Why Carbon Removal Needs More Than Trees](/posts/why-carbon-removal-needs-more-than-trees/)
+<p>China released its 15th Five-Year Plan this week. The headline number: a <strong>17% reduction in carbon intensity</strong> (CO₂ per unit of GDP) from 2026 to 2030, with a 3.8% cut targeted for this year alone.</p><p>Sounds ambitious. It&rsquo;s not.</p><h2 id=the-math-problem>The Math Problem<a hidden class=anchor aria-hidden=true href=#the-math-problem>#</a></h2><p>Carbon <em>intensity</em> drops even if absolute emissions rise — you just need your economy to grow faster than your emissions. And that&rsquo;s exactly what analysts expect to happen.</p><p>The Centre for Research on Energy and Clean Air (CREA) calls the target &ldquo;alarmingly lax,&rdquo; projecting it could allow emissions to <strong>increase 3–6%</strong> over the next five years given China&rsquo;s economic growth trajectory. CREA&rsquo;s own analysis shows China would need a <strong>23% intensity cut</strong> to meet its Paris Agreement commitment of 65% reduction from 2005 to 2030.</p><p>China missed its previous five-year target (18%) by a wide margin, achieving only 12%.</p><h2 id=wheres-the-cdr>Where&rsquo;s the CDR?<a hidden class=anchor aria-hidden=true href=#wheres-the-cdr>#</a></h2><p>Nowhere. The plan mentions renewable energy targets, coal replacement goals (30 million metric tonnes substituted by renewables over five years), and 30 million combustion vehicles replaced. But carbon dioxide removal — the thing every climate model says we&rsquo;ll need at gigatonne scale — is absent.</p><p>This is a big deal because China is rapidly becoming the world&rsquo;s largest <em>cumulative</em> emitter. The historical-emissions argument that justified slower action is running out of runway.</p><p>For CDR specifically, China&rsquo;s absence from the market is significant. The country has enormous potential for <a href=/posts/what-is-enhanced-weathering/>enhanced weathering</a> (vast agricultural lands, basalt deposits), BECCS (biomass resources), and mineralization (industrial waste streams). But without policy signals, none of that potential translates into projects.</p><h2 id=the-contrast-with-this-weeks-other-news>The Contrast With This Week&rsquo;s Other News<a hidden class=anchor aria-hidden=true href=#the-contrast-with-this-weeks-other-news>#</a></h2><p>Put China&rsquo;s plan next to what happened elsewhere this week:</p><ul><li>Canada launched a <strong>$100M CDR coalition</strong> backed by government, banks, and tech companies</li><li>The EU adopted the <strong>world&rsquo;s first certification standard</strong> for permanent carbon removals</li><li>Boeing signed a <strong>40,000-tonne CDR deal</strong> through Carbonfuture</li></ul><p>The CDR market is building momentum — but almost entirely in North America and Europe. China, the world&rsquo;s largest emitter, is still playing a different game.</p><p>That gap will eventually close. The physics demands it. But &ldquo;eventually&rdquo; is doing a lot of heavy lifting in that sentence.</p><hr><p><em>Sources: <a href=https://www.reuters.com/sustainability/climate-energy/china-plans-cut-carbon-dioxide-emissions-per-unit-gdp-by-around-38-2026-2026-03-05/>Reuters</a> · <a href=https://english.news.cn/20260305/a13c16b4907c489588e4e32835c1d3c1/c.html>Xinhua</a></em></p><hr><h3 id=-related-reading>🔗 Related Reading<a hidden class=anchor aria-hidden=true href=#-related-reading>#</a></h3><ul><li><a href=/posts/eu-industrial-accelerator-act/>The EU&rsquo;s Industrial Accelerator Act: What It Means for Carbon Removal</a></li><li>[What Is <a href=/posts/what-is-enhanced-weathering/>Enhanced Weathering</a>? A Primer](/posts/what-is-enhanced-weathering/)</li><li><a href=/posts/cdr-roundup-feb-2026/>CDR Roundup: What&rsquo;s Moving in Carbon Removal (Feb 2026)</a></li><li><a href=/posts/why-carbon-removal-needs-more-than-trees/>Why Carbon Removal Needs More Than Trees</a></li></ul>

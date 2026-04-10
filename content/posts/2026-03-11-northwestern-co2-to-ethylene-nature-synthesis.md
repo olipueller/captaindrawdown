@@ -1,53 +1,13 @@
 ---
 title: "New Catalyst Turns Atmospheric CO₂ Into Ethylene — While Removing 3 Tonnes of Carbon Per Tonne Produced"
 date: 2026-03-11T04:00:00+01:00
-draft: false
-slug: northwestern-co2-to-ethylene-nature-synthesis
-aliases: ["/s/58"]
-description: "Northwestern researchers published a Nature Synthesis paper showing a bismuth-copper catalyst can convert captured CO₂ directly into ethylene, with a net-negative carbon footprint when powered by renewables."
-pillar: "science"
-tags: ["CCU", "science", "ethylene", "Northwestern", "Nature Synthesis"]
+description: "Northwestern researchers published a Nature Synthesis paper showing a bismuth-copper catalyst can convert captured CO₂ directly into ethylene, with a net-negati"
+tags: ["news"]
+slug: "northwestern-co2-to-ethylene-nature-synthesis"
+author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/20260311-04.png"
-  alt: "CO₂ to Ethylene: 3 Tonnes Removed Per Tonne Made"
+  image: "/images/posts/northwestern-co2-to-ethylene-nature-synthesis.png"
+  alt: "New Catalyst Turns Atmospheric CO₂ Into Ethylene — While Removing 3 Tonnes of Carbon Per Tonne Produced"
   hidden: false
 ---
-
-Ethylene is everywhere. Plastics, packaging, antifreeze, construction materials — over 150 million tonnes are produced globally each year, almost entirely from fossil fuels. Every tonne of ethylene made the conventional way releases roughly a tonne of CO₂.
-
-A new process developed at Northwestern University flips that equation.
-
-## The Breakthrough
-
-In a [paper published in *Nature Synthesis*](https://www.nature.com/articles/s44160-026-01024-5) on March 10, researchers led by Ted Sargent describe a **bismuth-copper alloy catalyst** that converts CO₂ captured from ambient air directly into ethylene through an electrochemical process.
-
-The key finding: when powered by renewable electricity (they tested wind), the system **removes up to 3 tonnes of CO₂ from the atmosphere for every tonne of ethylene produced**. That's not carbon-neutral. That's carbon-negative chemical manufacturing.
-
-The process couples direct air capture with electrochemical conversion in a single system. CO₂ is absorbed from air, then transformed on the catalyst surface — no separate hydrogen production step required.
-
-## Why Ethylene Matters for CDR
-
-Carbon utilization (CCU) has a complicated relationship with carbon removal. Critics rightly point out that making CO₂ into short-lived products just delays re-emission. But ethylene is a building block for longer-chain hydrocarbons, including sustainable aviation fuels — and for durable plastics that could store carbon for decades.
-
-The Northwestern system doesn't solve the permanence question. What it does is show that atmospheric CO₂ can be a commercially useful feedstock, which matters for CDR economics. If you can sell what you capture, removal gets cheaper.
-
-## Scale and Reality
-
-This is a lab-scale result. The catalyst works, the chemistry is proven, but nobody is making 150 million tonnes of ethylene this way yet. The economics depend heavily on cheap renewable electricity — the researchers specifically note that the carbon-negative claim only holds with low-carbon power.
-
-Still, the paper demonstrates something important: electrochemical CO₂ conversion is getting good enough that the products are commercially relevant, not just scientifically interesting.
-
-## The Bigger Context
-
-This isn't the only CO₂-to-fuel race happening. AirCo is building containerized CO₂-to-fuel reactors for the US military. Prometheus Fuels claims an electrochemical pathway to cost-competitive kerosene. Aircela is making gasoline from air. The common thread: turning CO₂ from waste into feedstock is no longer theoretical. The engineering race is on.
-
-**Source:** [Northwestern Engineering](https://www.mccormick.northwestern.edu/news/articles/2026/03/renewable-powered-technology-converts-carbon-dioxide-into-key-chemical/) · [Nature Synthesis](https://www.nature.com/articles/s44160-026-01024-5)
-
----
-
-### 🔗 Related Reading
-
-- [What Is [Enhanced Weathering](/posts/what-is-enhanced-weathering/)? A Primer](/posts/what-is-enhanced-weathering/)
-- [Japanese Scientists Made Rubber That Eats CO₂ and Turns Into Plastic](/posts/2026-03-05-japan-co2-rubber/)
-- [[ERW](/posts/what-is-enhanced-weathering/) Could Absorb 1 Billion Tonnes of CO₂ — But the Details Matter](/posts/2026-03-07-[erw](/posts/what-is-enhanced-weathering/)-one-billion-tonnes-potential/)
-- [Gulf of Maine OAE Trial: CO₂ Captured, No Harm to Marine Life](/posts/2026-03-07-gulf-of-maine-oae-trial-results/)
+<p>Ethylene is everywhere. Plastics, packaging, antifreeze, construction materials — over 150 million tonnes are produced globally each year, almost entirely from fossil fuels. Every tonne of ethylene made the conventional way releases roughly a tonne of CO₂.</p><p>A new process developed at Northwestern University flips that equation.</p><h2 id=the-breakthrough>The Breakthrough<a hidden class=anchor aria-hidden=true href=#the-breakthrough>#</a></h2><p>In a <a href=https://www.nature.com/articles/s44160-026-01024-5>paper published in <em>Nature Synthesis</em></a> on March 10, researchers led by Ted Sargent describe a <strong>bismuth-copper alloy catalyst</strong> that converts CO₂ captured from ambient air directly into ethylene through an electrochemical process.</p><p>The key finding: when powered by renewable electricity (they tested wind), the system <strong>removes up to 3 tonnes of CO₂ from the atmosphere for every tonne of ethylene produced</strong>. That&rsquo;s not carbon-neutral. That&rsquo;s carbon-negative chemical manufacturing.</p><p>The process couples direct air capture with electrochemical conversion in a single system. CO₂ is absorbed from air, then transformed on the catalyst surface — no separate hydrogen production step required.</p><h2 id=why-ethylene-matters-for-cdr>Why Ethylene Matters for CDR<a hidden class=anchor aria-hidden=true href=#why-ethylene-matters-for-cdr>#</a></h2><p>Carbon utilization (CCU) has a complicated relationship with carbon removal. Critics rightly point out that making CO₂ into short-lived products just delays re-emission. But ethylene is a building block for longer-chain hydrocarbons, including sustainable aviation fuels — and for durable plastics that could store carbon for decades.</p><p>The Northwestern system doesn&rsquo;t solve the permanence question. What it does is show that atmospheric CO₂ can be a commercially useful feedstock, which matters for CDR economics. If you can sell what you capture, removal gets cheaper.</p><h2 id=scale-and-reality>Scale and Reality<a hidden class=anchor aria-hidden=true href=#scale-and-reality>#</a></h2><p>This is a lab-scale result. The catalyst works, the chemistry is proven, but nobody is making 150 million tonnes of ethylene this way yet. The economics depend heavily on cheap renewable electricity — the researchers specifically note that the carbon-negative claim only holds with low-carbon power.</p><p>Still, the paper demonstrates something important: electrochemical CO₂ conversion is getting good enough that the products are commercially relevant, not just scientifically interesting.</p><h2 id=the-bigger-context>The Bigger Context<a hidden class=anchor aria-hidden=true href=#the-bigger-context>#</a></h2><p>This isn&rsquo;t the only CO₂-to-fuel race happening. AirCo is building containerized CO₂-to-fuel reactors for the US military. Prometheus Fuels claims an electrochemical pathway to cost-competitive kerosene. Aircela is making gasoline from air. The common thread: turning CO₂ from waste into feedstock is no longer theoretical. The engineering race is on.</p><p><strong>Source:</strong> <a href=https://www.mccormick.northwestern.edu/news/articles/2026/03/renewable-powered-technology-converts-carbon-dioxide-into-key-chemical/>Northwestern Engineering</a> · <a href=https://www.nature.com/articles/s44160-026-01024-5>Nature Synthesis</a></p><hr><h3 id=-related-reading>🔗 Related Reading<a hidden class=anchor aria-hidden=true href=#-related-reading>#</a></h3><ul><li>[What Is <a href=/posts/what-is-enhanced-weathering/>Enhanced Weathering</a>? A Primer](/posts/what-is-enhanced-weathering/)</li><li><a href=/posts/japan-co2-rubber/>Japanese Scientists Made Rubber That Eats CO₂ and Turns Into Plastic</a></li><li>[<a href=/posts/what-is-enhanced-weathering/>ERW</a> Could Absorb 1 Billion Tonnes of CO₂ — But the Details Matter](/posts/2026-03-07-<a href=/posts/what-is-enhanced-weathering/>erw</a>-one-billion-tonnes-potential/)</li><li><a href=/posts/gulf-of-maine-oae-trial-results/>Gulf of Maine OAE Trial: CO₂ Captured, No Harm to Marine Life</a></li></ul>

@@ -1,53 +1,13 @@
 ---
 title: "Austrian Study Calls for Fairer Allocation of CO₂ Removal Budgets Between Countries"
-date: 2026-03-28
+date: 2026-03-28T00:00:00Z
+description: "Researchers at University of Graz find that CDR capacity is fundamentally limited — under 10% of annual GHG emissions removable per year — making its fair alloc"
+tags: ["news"]
 slug: "graz-fair-cdr-budgets-countries"
-aliases: ["/s/164"]
-description: "Researchers at University of Graz find that CDR capacity is fundamentally limited — under 10% of annual GHG emissions removable per year — making its fair allocation between countries a climate justice problem."
-pillar: "global"
-tags: ["CDR", "climate-justice", "policy", "research", "Graz", "CDR-budgets"]
+author: "CaptainDrawdown"
 cover:
-  image: /images/posts/20260328-06.png
-  alt: "World map with carbon removal budget allocation indicators by country"
+  image: "/images/posts/graz-fair-cdr-budgets-countries.png"
+  alt: "Austrian Study Calls for Fairer Allocation of CO₂ Removal Budgets Between Countries"
+  hidden: false
 ---
-
-Less than 10% of current annual greenhouse gas emissions can be sustainably removed per year — across all natural and technological sinks combined. That constraint reframes the entire CDR conversation.
-
-Researchers Julia Danzer and Gottfried Kirchengast from the Wegener Center for Climate and Global Change at the University of Graz have published a study in *Global Environmental Change* arguing that CDR capacity is a finite resource, and that finite resources need fair allocation rules.
-
-The parallel they draw is direct: we've spent years debating fair emissions budgets between countries. The same logic applies to removal budgets. Rich countries can't emit the most historically, then also claim the most CDR capacity going forward.
-
-**The model**
-
-Danzer and Kirchengast built what they describe as a "computer game model" — four stylised countries they named Richland, Poorland, Wonderland, and Otherland — to explore how different fairness principles play out in CDR budget allocations.
-
-The naming is deliberately schematic, not satirical. The model tests clean principles: what happens to CDR distribution under different equity rules? Who gets more or less removal headroom depending on whether you weight historical emissions, current GDP, population, or development needs?
-
-The finding is stark. Without explicit fairness rules, Richland — the wealthy, high-historical-emissions country — claims a disproportionate share of CDR capacity. Poorland gets less, both in absolute terms and relative to its development trajectory and residual emissions needs.
-
-**Why the 10% constraint matters**
-
-The study's framing depends on the constraint being real. If CDR capacity were unlimited, there'd be no allocation problem — every country could remove as much as needed. But the authors argue the constraint is binding.
-
-Natural sinks — forests, soils, oceans — are under pressure from climate change itself. Their absorption capacity is declining, not growing. Technological CDR — DAC, BECCS, [enhanced weathering](/posts/what-is-enhanced-weathering/) — is scaling, but slowly, and against significant cost and infrastructure barriers.
-
-The aggregate ceiling on sustainable annual removals sits below 10% of current global GHG emissions. At current emissions of roughly 55 Gt CO₂eq per year, that's under 5.5 Gt of removal capacity — total, across all methods, globally. That's not a comfortable buffer. That's a scarce resource.
-
-**The Paris 1.5°C problem**
-
-The Paris Agreement's 1.5°C pathway assumes all post-2050 residual emissions — the emissions that remain after all feasible cuts are made — get offset by removing CO₂. Residual emissions come from sectors like aviation, cement, agriculture, and industrial processes where full decarbonisation is extremely difficult.
-
-If CDR capacity is limited and residual emissions are disproportionately produced by wealthy countries, the arithmetic gets uncomfortable. Rich nations would be claiming the removal capacity needed to offset emissions they chose not to eliminate, leaving developing countries without the CDR headroom to cover their own hard-to-abate sectors.
-
-The Graz study doesn't offer a specific allocation formula. Its contribution is forcing the question into the open: CDR budgets are a justice question, and treating them as a neutral technical resource to be claimed on a first-come, first-served basis is a political choice, not a default.
-
-That choice is being made right now, quietly, through early procurement decisions and bilateral agreements. Making it explicit is the first step to making it fair.
-
----
-
-### 🔗 Related Reading
-
-- [Georgia Tech: CDR Won't Work Without Radical Transparency](/posts/georgia-tech-cdr-transparency-research/)
-- [The Math on DAC Subsidies: $900B to $3T, and It's Worth It (With a Giant Asterisk)](/posts/dac-scaling-subsidy-cost-uncertainty/)
-- [CDR Roundup: What's Moving in Carbon Removal (Feb 2026)](/posts/cdr-roundup-feb-2026/)
-- [The EU's Industrial Accelerator Act: What It Means for Carbon Removal](/posts/eu-industrial-accelerator-act/)
+<p>Less than 10% of current annual greenhouse gas emissions can be sustainably removed per year — across all natural and technological sinks combined. That constraint reframes the entire CDR conversation.</p><p>Researchers Julia Danzer and Gottfried Kirchengast from the Wegener Center for Climate and Global Change at the University of Graz have published a study in <em>Global Environmental Change</em> arguing that CDR capacity is a finite resource, and that finite resources need fair allocation rules.</p><p>The parallel they draw is direct: we&rsquo;ve spent years debating fair emissions budgets between countries. The same logic applies to removal budgets. Rich countries can&rsquo;t emit the most historically, then also claim the most CDR capacity going forward.</p><p><strong>The model</strong></p><p>Danzer and Kirchengast built what they describe as a &ldquo;computer game model&rdquo; — four stylised countries they named Richland, Poorland, Wonderland, and Otherland — to explore how different fairness principles play out in CDR budget allocations.</p><p>The naming is deliberately schematic, not satirical. The model tests clean principles: what happens to CDR distribution under different equity rules? Who gets more or less removal headroom depending on whether you weight historical emissions, current GDP, population, or development needs?</p><p>The finding is stark. Without explicit fairness rules, Richland — the wealthy, high-historical-emissions country — claims a disproportionate share of CDR capacity. Poorland gets less, both in absolute terms and relative to its development trajectory and residual emissions needs.</p><p><strong>Why the 10% constraint matters</strong></p><p>The study&rsquo;s framing depends on the constraint being real. If CDR capacity were unlimited, there&rsquo;d be no allocation problem — every country could remove as much as needed. But the authors argue the constraint is binding.</p><p>Natural sinks — forests, soils, oceans — are under pressure from climate change itself. Their absorption capacity is declining, not growing. Technological CDR — DAC, BECCS, <a href=/posts/what-is-enhanced-weathering/>enhanced weathering</a> — is scaling, but slowly, and against significant cost and infrastructure barriers.</p><p>The aggregate ceiling on sustainable annual removals sits below 10% of current global GHG emissions. At current emissions of roughly 55 Gt CO₂eq per year, that&rsquo;s under 5.5 Gt of removal capacity — total, across all methods, globally. That&rsquo;s not a comfortable buffer. That&rsquo;s a scarce resource.</p><p><strong>The Paris 1.5°C problem</strong></p><p>The Paris Agreement&rsquo;s 1.5°C pathway assumes all post-2050 residual emissions — the emissions that remain after all feasible cuts are made — get offset by removing CO₂. Residual emissions come from sectors like aviation, cement, agriculture, and industrial processes where full decarbonisation is extremely difficult.</p><p>If CDR capacity is limited and residual emissions are disproportionately produced by wealthy countries, the arithmetic gets uncomfortable. Rich nations would be claiming the removal capacity needed to offset emissions they chose not to eliminate, leaving developing countries without the CDR headroom to cover their own hard-to-abate sectors.</p><p>The Graz study doesn&rsquo;t offer a specific allocation formula. Its contribution is forcing the question into the open: CDR budgets are a justice question, and treating them as a neutral technical resource to be claimed on a first-come, first-served basis is a political choice, not a default.</p><p>That choice is being made right now, quietly, through early procurement decisions and bilateral agreements. Making it explicit is the first step to making it fair.</p><hr><h3 id=-related-reading>🔗 Related Reading<a hidden class=anchor aria-hidden=true href=#-related-reading>#</a></h3><ul><li><a href=/posts/georgia-tech-cdr-transparency-research/>Georgia Tech: CDR Won&rsquo;t Work Without Radical Transparency</a></li><li><a href=/posts/dac-scaling-subsidy-cost-uncertainty/>The Math on DAC Subsidies: $900B to $3T, and It&rsquo;s Worth It (With a Giant Asterisk)</a></li><li><a href=/posts/cdr-roundup-feb-2026/>CDR Roundup: What&rsquo;s Moving in Carbon Removal (Feb 2026)</a></li><li><a href=/posts/eu-industrial-accelerator-act/>The EU&rsquo;s Industrial Accelerator Act: What It Means for Carbon Removal</a></li></ul>

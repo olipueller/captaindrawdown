@@ -1,50 +1,13 @@
 ---
 title: "First EPA-Permitted Ocean Alkalinity Trial Removes CO₂ Without Harming Marine Life"
-date: 2026-03-01
-slug: whoi-loc-ness-oae-trial-results
-aliases: ["/s/15"]
+date: 2026-03-01T00:00:00Z
 description: "WHOI's LOC-NESS project delivers the first results from an EPA-approved ocean alkalinity enhancement experiment in the Gulf of Maine."
-pillar: "science"
-tags: ["ocean CDR", "OAE", "marine carbon removal", "WHOI", "LOC-NESS"]
+tags: ["news"]
+slug: "whoi-loc-ness-oae-trial-results"
+author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/20260301-05.png"
+  image: "/images/posts/whoi-loc-ness-oae-trial-results.png"
   alt: "First EPA-Permitted Ocean Alkalinity Trial Removes CO₂ Without Harming Marine Life"
-  relative: false
+  hidden: false
 ---
-
-The Woods Hole Oceanographic Institution (WHOI) has released preliminary findings from the first U.S. Environmental Protection Agency–permitted ocean alkalinity enhancement (OAE) field trial. The results, presented at the biennial Ocean Sciences Meeting in Glasgow, represent a significant step forward for marine carbon dioxide removal.
-
-## What Happened
-
-In August 2025, the LOC-NESS (Locking Ocean Carbon in the Northeast Shelf and Slope) team conducted a six-hour dispersal of 65,000 liters of highly purified sodium hydroxide — a common water treatment chemical — into the surface waters of the Wilkinson Basin in the Gulf of Maine. A red tracer dye (Rhodamine Water Tracer) was released alongside it to track the alkalinity patch.
-
-A fully equipped research vessel followed the release vessel, monitoring environmental conditions in real time. Scientists then spent four days tracking the physical, chemical, and biological conditions of the ocean around the dispersal site.
-
-## The Numbers
-
-Over the four days following the experiment, between 2 and 10 tonnes of atmospheric CO₂ were removed. The team estimates total removal potential of up to 50 tonnes from the single dispersal event.
-
-Critically: no significant adverse effects on marine life were detected.
-
-## Why It Matters
-
-OAE works by enhancing the ocean's natural capacity to absorb CO₂ while simultaneously reducing ocean acidification — a double benefit that few other CDR approaches can claim. The [National Academies of Science](https://www.nationalacademies.org/) and the IPCC have both identified OAE as a high-potential strategy for durable carbon removal.
-
-This trial was not a corporate deployment — it was a rigorously controlled scientific experiment using three ships, four autonomous underwater vehicles, free-swimming gliders, CTD profiles, plankton net tows, and satellite imagery.
-
-## The Bigger Picture
-
-Marine CDR is still in its early stages, but the regulatory pathway is opening. The LOC-NESS trial represents the kind of careful, monitored science that builds the evidence base for scaling decisions later.
-
-The [ReSCUE Oceans Act](https://www.congress.gov/), the first US federal bill for marine CDR research, signals growing political interest. And CDI's own [MRV research series](https://carbondrawdown.substack.com/p/69-leachate-electrical-conductivity) on proxy indicators for [enhanced weathering](/posts/what-is-enhanced-weathering/) shows how much the field still needs to learn about measurement and verification across CDR pathways.
-
-**Source:** [WHOI Newswise Release](https://www.newswise.com/articles/preliminary-results-from-the-first-epa-permitted-ocean-alkalinity-enhancement-oae-field-trial)
-
----
-
-### 🔗 Related Reading
-
-- [Study Maps the Best US Coastal Sites for Marine Carbon Removal](/posts/2026-02-28-us-coastal-marine-cdr-hubs/)
-- [Gulf of Maine OAE Trial: CO₂ Captured, No Harm to Marine Life](/posts/2026-03-07-gulf-of-maine-oae-trial-results/)
-- [Mercedes F1 Goes All-In on Carbon Removal — 7 New Projects Across 6 Pathways](/posts/2026-03-05-mercedes-f1-cdr-portfolio/)
-- [Mercedes F1 Builds One of Motorsport's Biggest CDR Portfolios — 18,900 Tonnes Across 6 Pathways](/posts/2026-03-08-mercedes-f1-cdr-portfolio/)
+<p>The Woods Hole Oceanographic Institution (WHOI) has released preliminary findings from the first U.S. Environmental Protection Agency–permitted ocean alkalinity enhancement (OAE) field trial. The results, presented at the biennial Ocean Sciences Meeting in Glasgow, represent a significant step forward for marine carbon dioxide removal.</p><h2 id=what-happened>What Happened<a hidden class=anchor aria-hidden=true href=#what-happened>#</a></h2><p>In August 2025, the LOC-NESS (Locking Ocean Carbon in the Northeast Shelf and Slope) team conducted a six-hour dispersal of 65,000 liters of highly purified sodium hydroxide — a common water treatment chemical — into the surface waters of the Wilkinson Basin in the Gulf of Maine. A red tracer dye (Rhodamine Water Tracer) was released alongside it to track the alkalinity patch.</p><p>A fully equipped research vessel followed the release vessel, monitoring environmental conditions in real time. Scientists then spent four days tracking the physical, chemical, and biological conditions of the ocean around the dispersal site.</p><h2 id=the-numbers>The Numbers<a hidden class=anchor aria-hidden=true href=#the-numbers>#</a></h2><p>Over the four days following the experiment, between 2 and 10 tonnes of atmospheric CO₂ were removed. The team estimates total removal potential of up to 50 tonnes from the single dispersal event.</p><p>Critically: no significant adverse effects on marine life were detected.</p><h2 id=why-it-matters>Why It Matters<a hidden class=anchor aria-hidden=true href=#why-it-matters>#</a></h2><p>OAE works by enhancing the ocean&rsquo;s natural capacity to absorb CO₂ while simultaneously reducing ocean acidification — a double benefit that few other CDR approaches can claim. The <a href=https://www.nationalacademies.org/>National Academies of Science</a> and the IPCC have both identified OAE as a high-potential strategy for durable carbon removal.</p><p>This trial was not a corporate deployment — it was a rigorously controlled scientific experiment using three ships, four autonomous underwater vehicles, free-swimming gliders, CTD profiles, plankton net tows, and satellite imagery.</p><h2 id=the-bigger-picture>The Bigger Picture<a hidden class=anchor aria-hidden=true href=#the-bigger-picture>#</a></h2><p>Marine CDR is still in its early stages, but the regulatory pathway is opening. The LOC-NESS trial represents the kind of careful, monitored science that builds the evidence base for scaling decisions later.</p><p>The <a href=https://www.congress.gov/>ReSCUE Oceans Act</a>, the first US federal bill for marine CDR research, signals growing political interest. And CDI&rsquo;s own <a href=https://carbondrawdown.substack.com/p/69-leachate-electrical-conductivity>MRV research series</a> on proxy indicators for <a href=/posts/what-is-enhanced-weathering/>enhanced weathering</a> shows how much the field still needs to learn about measurement and verification across CDR pathways.</p><p><strong>Source:</strong> <a href=https://www.newswise.com/articles/preliminary-results-from-the-first-epa-permitted-ocean-alkalinity-enhancement-oae-field-trial>WHOI Newswise Release</a></p><hr><h3 id=-related-reading>🔗 Related Reading<a hidden class=anchor aria-hidden=true href=#-related-reading>#</a></h3><ul><li><a href=/posts/us-coastal-marine-cdr-hubs/>Study Maps the Best US Coastal Sites for Marine Carbon Removal</a></li><li><a href=/posts/gulf-of-maine-oae-trial-results/>Gulf of Maine OAE Trial: CO₂ Captured, No Harm to Marine Life</a></li><li><a href=/posts/mercedes-f1-cdr-portfolio/>Mercedes F1 Goes All-In on Carbon Removal — 7 New Projects Across 6 Pathways</a></li><li><a href=/posts/mercedes-f1-cdr-portfolio/>Mercedes F1 Builds One of Motorsport&rsquo;s Biggest CDR Portfolios — 18,900 Tonnes Across 6 Pathways</a></li></ul>

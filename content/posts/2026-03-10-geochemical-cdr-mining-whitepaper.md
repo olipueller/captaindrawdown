@@ -1,53 +1,13 @@
 ---
 title: "Mining Could Be CDR's Secret Weapon — New Whitepaper Makes the Case"
-date: 2026-03-10
-slug: geochemical-cdr-mining-whitepaper
-aliases: ["/s/47"]
-draft: false
+date: 2026-03-10T00:00:00Z
 description: "A new whitepaper outlines how geochemical carbon removal could scale through the mining industry's existing infrastructure and waste streams."
+tags: ["news"]
+slug: "geochemical-cdr-mining-whitepaper"
+author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/20260310-09.png"
+  image: "/images/posts/geochemical-cdr-mining-whitepaper.png"
   alt: "Mining Could Be CDR's Secret Weapon — New Whitepaper Makes the Case"
   hidden: false
-pillar: "science"
-tags: ["market", "science", "mining", "geochemical CDR"]
 ---
-
-The mining industry produces billions of tonnes of alkaline waste rock every year. A new whitepaper argues this waste stream could become one of the largest pathways for scaling carbon dioxide removal.
-
-## The Opportunity
-
-Geochemical CDR — using mineral reactions to permanently capture CO₂ — has a chicken-and-egg problem. You need large volumes of reactive minerals, processing infrastructure, and land. The mining industry already has all three.
-
-Mine tailings, waste rock, and processing residues are often rich in magnesium and calcium silicates — exactly the minerals that react with atmospheric CO₂ to form stable carbonates. The reaction is the same chemistry that drives [enhanced rock weathering](/posts/what-is-enhanced-weathering/), but applied to materials already excavated and often already crushed to fine particle sizes.
-
-The whitepaper maps the current challenges: variable mineral compositions, the need for standardized MRV protocols, and the economics of adding carbon removal as a revenue stream to existing mining operations. It also outlines co-benefits — tailings remediation, reduced acid mine drainage, and potential carbon credit income that could offset reclamation costs.
-
-## Why It Could Work
-
-Mining companies already spend billions on waste management. If geochemical CDR can convert a cost center (tailings management) into a revenue stream (carbon credits), the economics flip. No new mines needed. No new land disturbance. Just different treatment of material that's already been dug up.
-
-The scale potential is staggering. Global mining operations produce an estimated 7–10 billion tonnes of solid waste annually. Even if only a fraction is suitable for mineralization, the CDR potential dwarfs most other approaches.
-
-## What's Missing
-
-MRV remains the bottleneck. Measuring how much CO₂ a tailings pile actually captures over time requires monitoring infrastructure that most mine sites don't have. And there's a permanence question: do these carbonates remain stable when exposed to acidic rainfall or future site disturbance?
-
-The whitepaper is honest about these gaps, which makes it more useful than the typical "mines will save us" press release. The roadmap calls for pilot programs at active mine sites with rigorous third-party verification.
-
-## The Bigger Picture
-
-CDR doesn't need to build everything from scratch. Embedding carbon removal into existing industrial processes — whether that's mining, construction, or agriculture — is how gigatonne-scale removal becomes plausible.
-
-*Source: [Carbon Herald](https://carbonherald.com/new-whitepaper-outlines-electrochemical-cdr-scaling-opportunities-in-mining/)*
-
----
-
----
-
-### 🔗 Related Reading
-
-- [Sustaera Claims 90%+ Efficiency in DAC — 3x Cheaper Than Incumbents](/posts/sustaera-dac-breakthrough-3x-cheaper/)
-- [What Is Enhanced Weathering? A Primer](/posts/what-is-enhanced-weathering/)
-- [Biochar: The Quiet Giant of Carbon Removal](/posts/biochar-quiet-giant-of-cdr/)
-- [Microsoft Bought 93% of All Carbon Removal Credits in 2025](/posts/microsoft-93-percent-cdr-credits/)
+<p>The mining industry produces billions of tonnes of alkaline waste rock every year. A new whitepaper argues this waste stream could become one of the largest pathways for scaling carbon dioxide removal.</p><h2 id=the-opportunity>The Opportunity<a hidden class=anchor aria-hidden=true href=#the-opportunity>#</a></h2><p>Geochemical CDR — using mineral reactions to permanently capture CO₂ — has a chicken-and-egg problem. You need large volumes of reactive minerals, processing infrastructure, and land. The mining industry already has all three.</p><p>Mine tailings, waste rock, and processing residues are often rich in magnesium and calcium silicates — exactly the minerals that react with atmospheric CO₂ to form stable carbonates. The reaction is the same chemistry that drives <a href=/posts/what-is-enhanced-weathering/>enhanced rock weathering</a>, but applied to materials already excavated and often already crushed to fine particle sizes.</p><p>The whitepaper maps the current challenges: variable mineral compositions, the need for standardized MRV protocols, and the economics of adding carbon removal as a revenue stream to existing mining operations. It also outlines co-benefits — tailings remediation, reduced acid mine drainage, and potential carbon credit income that could offset reclamation costs.</p><h2 id=why-it-could-work>Why It Could Work<a hidden class=anchor aria-hidden=true href=#why-it-could-work>#</a></h2><p>Mining companies already spend billions on waste management. If geochemical CDR can convert a cost center (tailings management) into a revenue stream (carbon credits), the economics flip. No new mines needed. No new land disturbance. Just different treatment of material that&rsquo;s already been dug up.</p><p>The scale potential is staggering. Global mining operations produce an estimated 7–10 billion tonnes of solid waste annually. Even if only a fraction is suitable for mineralization, the CDR potential dwarfs most other approaches.</p><h2 id=whats-missing>What&rsquo;s Missing<a hidden class=anchor aria-hidden=true href=#whats-missing>#</a></h2><p>MRV remains the bottleneck. Measuring how much CO₂ a tailings pile actually captures over time requires monitoring infrastructure that most mine sites don&rsquo;t have. And there&rsquo;s a permanence question: do these carbonates remain stable when exposed to acidic rainfall or future site disturbance?</p><p>The whitepaper is honest about these gaps, which makes it more useful than the typical &ldquo;mines will save us&rdquo; press release. The roadmap calls for pilot programs at active mine sites with rigorous third-party verification.</p><h2 id=the-bigger-picture>The Bigger Picture<a hidden class=anchor aria-hidden=true href=#the-bigger-picture>#</a></h2><p>CDR doesn&rsquo;t need to build everything from scratch. Embedding carbon removal into existing industrial processes — whether that&rsquo;s mining, construction, or agriculture — is how gigatonne-scale removal becomes plausible.</p><p><em>Source: <a href=https://carbonherald.com/new-whitepaper-outlines-electrochemical-cdr-scaling-opportunities-in-mining/>Carbon Herald</a></em></p><hr><hr><h3 id=-related-reading>🔗 Related Reading<a hidden class=anchor aria-hidden=true href=#-related-reading>#</a></h3><ul><li><a href=/posts/sustaera-dac-breakthrough-3x-cheaper/>Sustaera Claims 90%+ Efficiency in DAC — 3x Cheaper Than Incumbents</a></li><li><a href=/posts/what-is-enhanced-weathering/>What Is Enhanced Weathering? A Primer</a></li><li><a href=/posts/biochar-quiet-giant-of-cdr/>Biochar: The Quiet Giant of Carbon Removal</a></li><li><a href=/posts/microsoft-93-percent-cdr-credits/>Microsoft Bought 93% of All Carbon Removal Credits in 2025</a></li></ul>

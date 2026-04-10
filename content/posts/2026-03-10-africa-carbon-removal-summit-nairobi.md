@@ -1,53 +1,13 @@
 ---
 title: "Africa's First Carbon Removal Summit Comes to Nairobi"
-date: 2026-03-10
-slug: africa-carbon-removal-summit-nairobi
-aliases: ["/s/42"]
-draft: false
+date: 2026-03-10T00:00:00Z
 description: "Strathmore University maps CDR across sub-Saharan Africa as Nairobi prepares to host the continent's first dedicated carbon removal summit in April."
+tags: ["news"]
+slug: "africa-carbon-removal-summit-nairobi"
+author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/20260310-10.png"
+  image: "/images/posts/africa-carbon-removal-summit-nairobi.png"
   alt: "Africa's First Carbon Removal Summit Comes to Nairobi"
   hidden: false
-pillar: "global"
-tags: ["Africa", "market", "CDR ecosystem"]
 ---
-
-Nairobi will host the first-ever Africa Carbon Removal Summit on April 14–15, 2026. It's a milestone for a continent that has enormous CDR potential but has been largely left out of the conversation.
-
-## Mapping CDR in Sub-Saharan Africa
-
-Strathmore University's Agri-Food Innovation Centre (SAFIC) has been running a research program to map the CDR landscape across sub-Saharan Africa. Their stakeholder engagement sessions — the latest held on March 4 in Nairobi — are surfacing critical findings about the state of the field.
-
-The headline number: around 80% of CDR startups in Africa report difficulty accessing venture capital or dilutive funding. Regulatory uncertainty compounds the problem. There's no shortage of potential — Africa has vast arable land suitable for [enhanced weathering](/posts/what-is-enhanced-weathering/), biomass resources for biochar, and coastal areas for ocean-based approaches. What's missing is the financial and institutional infrastructure.
-
-## Why Nairobi, Why Now
-
-The summit will bring together researchers, innovators, policymakers, and investors. The timing is deliberate — it follows Kenya's recent crackdown on low-quality carbon credit projects and the launch of the country's National Carbon Registry.
-
-Kenya is positioning itself as the regulatory leader for carbon markets in East Africa. That combination of tightening standards and building new institutions makes it a natural host for a summit focused on high-integrity carbon removal.
-
-## The CDI Connection
-
-CDI has two portfolio companies operating in Africa — ZEN Carbon and Flux — both working on biochar-based carbon removal. Africa isn't a future market for CDR. It's an active one, with real projects delivering real tonnes.
-
-But scaling requires exactly what this summit aims to build: connections between the people doing the science, the people writing the policy, and the people with the capital. The fact that this is happening in Nairobi — not London or San Francisco — matters.
-
-## What to Watch
-
-If Africa's CDR ecosystem follows the same trajectory as its mobile banking revolution (M-Pesa launched in Kenya), expect leapfrogging: skipping the slow, centralized infrastructure-building phase and going straight to distributed, technology-enabled approaches. Biochar, [enhanced weathering](/posts/what-is-enhanced-weathering/) on smallholder farms, and distributed monitoring are natural fits.
-
-The Africa Carbon Removal Summit is on April 14–15, 2026, in Nairobi.
-
-*Source: [Strathmore SAFIC](https://safic.strathmore.edu/carbon-dioxide-removal-cdr-is-becoming-increasingly-important-as-countries-seek-scalable-ways-to-stabilize-the-climate/)*
-
----
-
----
-
-### 🔗 Related Reading
-
-- [Biochar: The Quiet Giant of Carbon Removal](/posts/biochar-quiet-giant-of-cdr/)
-- [Microsoft Bought 93% of All Carbon Removal Credits in 2025](/posts/microsoft-93-percent-cdr-credits/)
-- [Boeing Just Made Aviation's Biggest Carbon Removal Bet](/posts/boeing-carbonfuture-40000t-cdr-deal/)
-- [Exomad Green Hits 300,000 Biochar Carbon Removal Credits](/posts/exomad-green-300k-biochar-credits/)
+<p>Nairobi will host the first-ever Africa Carbon Removal Summit on April 14–15, 2026. It&rsquo;s a milestone for a continent that has enormous CDR potential but has been largely left out of the conversation.</p><h2 id=mapping-cdr-in-sub-saharan-africa>Mapping CDR in Sub-Saharan Africa<a hidden class=anchor aria-hidden=true href=#mapping-cdr-in-sub-saharan-africa>#</a></h2><p>Strathmore University&rsquo;s Agri-Food Innovation Centre (SAFIC) has been running a research program to map the CDR landscape across sub-Saharan Africa. Their stakeholder engagement sessions — the latest held on March 4 in Nairobi — are surfacing critical findings about the state of the field.</p><p>The headline number: around 80% of CDR startups in Africa report difficulty accessing venture capital or dilutive funding. Regulatory uncertainty compounds the problem. There&rsquo;s no shortage of potential — Africa has vast arable land suitable for <a href=/posts/what-is-enhanced-weathering/>enhanced weathering</a>, biomass resources for biochar, and coastal areas for ocean-based approaches. What&rsquo;s missing is the financial and institutional infrastructure.</p><h2 id=why-nairobi-why-now>Why Nairobi, Why Now<a hidden class=anchor aria-hidden=true href=#why-nairobi-why-now>#</a></h2><p>The summit will bring together researchers, innovators, policymakers, and investors. The timing is deliberate — it follows Kenya&rsquo;s recent crackdown on low-quality carbon credit projects and the launch of the country&rsquo;s National Carbon Registry.</p><p>Kenya is positioning itself as the regulatory leader for carbon markets in East Africa. That combination of tightening standards and building new institutions makes it a natural host for a summit focused on high-integrity carbon removal.</p><h2 id=the-cdi-connection>The CDI Connection<a hidden class=anchor aria-hidden=true href=#the-cdi-connection>#</a></h2><p>CDI has two portfolio companies operating in Africa — ZEN Carbon and Flux — both working on biochar-based carbon removal. Africa isn&rsquo;t a future market for CDR. It&rsquo;s an active one, with real projects delivering real tonnes.</p><p>But scaling requires exactly what this summit aims to build: connections between the people doing the science, the people writing the policy, and the people with the capital. The fact that this is happening in Nairobi — not London or San Francisco — matters.</p><h2 id=what-to-watch>What to Watch<a hidden class=anchor aria-hidden=true href=#what-to-watch>#</a></h2><p>If Africa&rsquo;s CDR ecosystem follows the same trajectory as its mobile banking revolution (M-Pesa launched in Kenya), expect leapfrogging: skipping the slow, centralized infrastructure-building phase and going straight to distributed, technology-enabled approaches. Biochar, <a href=/posts/what-is-enhanced-weathering/>enhanced weathering</a> on smallholder farms, and distributed monitoring are natural fits.</p><p>The Africa Carbon Removal Summit is on April 14–15, 2026, in Nairobi.</p><p><em>Source: <a href=https://safic.strathmore.edu/carbon-dioxide-removal-cdr-is-becoming-increasingly-important-as-countries-seek-scalable-ways-to-stabilize-the-climate/>Strathmore SAFIC</a></em></p><hr><hr><h3 id=-related-reading>🔗 Related Reading<a hidden class=anchor aria-hidden=true href=#-related-reading>#</a></h3><ul><li><a href=/posts/biochar-quiet-giant-of-cdr/>Biochar: The Quiet Giant of Carbon Removal</a></li><li><a href=/posts/microsoft-93-percent-cdr-credits/>Microsoft Bought 93% of All Carbon Removal Credits in 2025</a></li><li><a href=/posts/boeing-carbonfuture-40000t-cdr-deal/>Boeing Just Made Aviation&rsquo;s Biggest Carbon Removal Bet</a></li><li><a href=/posts/exomad-green-300k-biochar-credits/>Exomad Green Hits 300,000 Biochar Carbon Removal Credits</a></li></ul>

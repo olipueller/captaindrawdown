@@ -1,64 +1,13 @@
 ---
 title: "The EU's Industrial Accelerator Act: What It Means for Carbon Removal"
-date: 2026-03-05
-slug: eu-industrial-accelerator-act
-aliases: ["/s/21"]
-draft: false
-pillar: "global"
-tags: ["EU", "policy", "Industrial Accelerator Act", "CRCF", "carbon removal", "CDR", "climate policy", "CCS"]
-description: "The European Commission's new Industrial Accelerator Act includes low-carbon procurement rules and decarbonization targets. But NGOs warn it could entrench CCS at the expense of genuine CDR."
+date: 2026-03-05T00:00:00Z
+description: "The European Commission's new Industrial Accelerator Act includes low-carbon procurement rules and decarbonization targets. But NGOs warn it could entrench CCS "
+tags: ["news"]
+slug: "eu-industrial-accelerator-act"
+author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/20260305-03.png"
+  image: "/images/posts/eu-industrial-accelerator-act.png"
   alt: "The EU's Industrial Accelerator Act: What It Means for Carbon Removal"
-  relative: false
+  hidden: false
 ---
-
-The European Commission dropped a big policy package yesterday: the **Industrial Accelerator Act (IAA)**, a regulation aimed at rebuilding European industrial capacity while decarbonizing strategic sectors.
-
-The headlines focus on "Made in EU" procurement quotas (25% for low-carbon steel and aluminum, 5% for concrete). But buried in the details are signals that matter for the CDR industry — both positive and concerning.
-
-## What's in It for Carbon Removal?
-
-The IAA creates a framework for:
-
-- **Industrial acceleration areas** — fast-tracked permitting for clean technology factories
-- **Low-carbon public procurement requirements** — governments must buy greener products
-- **Demand-side signals** for decarbonization technologies
-
-For CDR companies building hardware (DAC units, biochar reactors, mineralization systems), streamlined permitting and guaranteed public demand could be transformative. Europe has struggled with the "valley of death" between pilot and commercial scale. The IAA tries to build a bridge.
-
-This also complements the EU's [Carbon Removals Certification Framework ([CRCF](/posts/2026-03-06-eu-first-cdr-certification-standard/))](https://www.captaindrawdown.com/posts/2026-03-05-cdr-daily-digest/), which just adopted its first permanent removal methodologies for DACCS, BioCCS, and biochar. Together, the [CRCF](/posts/2026-03-06-eu-first-cdr-certification-standard/) defines *what counts* as removal and the IAA creates *demand* for low-carbon products. That's the beginning of a real market architecture.
-
-## The CCS Concern
-
-NGOs including CIEL and the European Environmental Bureau raised a flag: the IAA doesn't exclude Carbon Capture and Storage (CCS) or distinguish between point-source capture (preventing emissions at smokestacks) and genuine CDR (removing historical CO₂ from the atmosphere).
-
-This matters. CCS on a gas power plant is an emissions *reduction* technology — it keeps CO₂ from entering the atmosphere. CDR is fundamentally different: it removes CO₂ that's already up there. Lumping them together risks directing public money and procurement toward incumbent fossil infrastructure instead of removal innovation.
-
-The distinction isn't academic. Every euro spent on fossil CCS is a euro not spent on scaling DAC, [enhanced weathering](/posts/what-is-enhanced-weathering/), or biochar production. Europe needs both emissions reduction *and* removal — but the accounting has to be honest about which is which.
-
-## European CDR in Context
-
-Europe is quietly building the most sophisticated CDR policy framework on the planet:
-
-- **Germany**: €98M dedicated CDR budget line + €11.5M in removal certificate purchases ([yesterday's coverage](https://www.captaindrawdown.com/posts/2026-03-04-cdr-daily-digest/))
-- **EU [CRCF](/posts/2026-03-06-eu-first-cdr-certification-standard/)**: First permanent removal certification methodologies adopted
-- **IAA**: Industrial demand signals for low-carbon technologies
-
-Compare this to the US, where the current administration just rescinded the EPA's Endangerment Finding — the scientific basis for regulating greenhouse gases. While Washington denies basic atmospheric chemistry, Brussels is building markets for removing CO₂.
-
-The European approach isn't perfect. But at least it's *building* something.
-
-**Sources:**
-- [European Commission — IAA](https://single-market-economy.ec.europa.eu/publications/industrial-accelerator-act_en)
-- [CIEL critique](https://www.ciel.org/news/iaa-risks-locking-in-fossil-dependence-and-weakening-environmental-safeguards/)
-- [European Environmental Bureau](https://eeb.org/en/industrial-accelerator-act-lacks-binding-safeguards-to-end-fossil-dependence-ngos-warn/)
-
----
-
-### 🔗 Related Reading
-
-- [EU Launches World's First Voluntary Standard for Permanent Carbon Removals](/posts/2026-03-06-eu-first-cdr-certification-standard/)
-- [CDR Roundup: What's Moving in Carbon Removal (Feb 2026)](/posts/cdr-roundup-feb-2026/)
-- [China's New Five-Year Plan: 17% Carbon Intensity Cut, Zero CDR](/posts/2026-03-06-china-five-year-plan-no-cdr/)
-- [West Virginia Bets on Biochar: Coal State Stacks Tax Credits for Carbon Removal](/posts/west-virginia-biochar-tax-credit/)
+<p>The European Commission dropped a big policy package yesterday: the <strong>Industrial Accelerator Act (IAA)</strong>, a regulation aimed at rebuilding European industrial capacity while decarbonizing strategic sectors.</p><p>The headlines focus on &ldquo;Made in EU&rdquo; procurement quotas (25% for low-carbon steel and aluminum, 5% for concrete). But buried in the details are signals that matter for the CDR industry — both positive and concerning.</p><h2 id=whats-in-it-for-carbon-removal>What&rsquo;s in It for Carbon Removal?<a hidden class=anchor aria-hidden=true href=#whats-in-it-for-carbon-removal>#</a></h2><p>The IAA creates a framework for:</p><ul><li><strong>Industrial acceleration areas</strong> — fast-tracked permitting for clean technology factories</li><li><strong>Low-carbon public procurement requirements</strong> — governments must buy greener products</li><li><strong>Demand-side signals</strong> for decarbonization technologies</li></ul><p>For CDR companies building hardware (DAC units, biochar reactors, mineralization systems), streamlined permitting and guaranteed public demand could be transformative. Europe has struggled with the &ldquo;valley of death&rdquo; between pilot and commercial scale. The IAA tries to build a bridge.</p><p>This also complements the EU&rsquo;s [Carbon Removals Certification Framework (<a href=/posts/eu-first-cdr-certification-standard/>CRCF</a>)](<a href=https://www.captaindrawdown.com/posts/cdr-daily-digest/)>https://www.captaindrawdown.com/posts/cdr-daily-digest/)</a>, which just adopted its first permanent removal methodologies for DACCS, BioCCS, and biochar. Together, the <a href=/posts/eu-first-cdr-certification-standard/>CRCF</a> defines <em>what counts</em> as removal and the IAA creates <em>demand</em> for low-carbon products. That&rsquo;s the beginning of a real market architecture.</p><h2 id=the-ccs-concern>The CCS Concern<a hidden class=anchor aria-hidden=true href=#the-ccs-concern>#</a></h2><p>NGOs including CIEL and the European Environmental Bureau raised a flag: the IAA doesn&rsquo;t exclude Carbon Capture and Storage (CCS) or distinguish between point-source capture (preventing emissions at smokestacks) and genuine CDR (removing historical CO₂ from the atmosphere).</p><p>This matters. CCS on a gas power plant is an emissions <em>reduction</em> technology — it keeps CO₂ from entering the atmosphere. CDR is fundamentally different: it removes CO₂ that&rsquo;s already up there. Lumping them together risks directing public money and procurement toward incumbent fossil infrastructure instead of removal innovation.</p><p>The distinction isn&rsquo;t academic. Every euro spent on fossil CCS is a euro not spent on scaling DAC, <a href=/posts/what-is-enhanced-weathering/>enhanced weathering</a>, or biochar production. Europe needs both emissions reduction <em>and</em> removal — but the accounting has to be honest about which is which.</p><h2 id=european-cdr-in-context>European CDR in Context<a hidden class=anchor aria-hidden=true href=#european-cdr-in-context>#</a></h2><p>Europe is quietly building the most sophisticated CDR policy framework on the planet:</p><ul><li><strong>Germany</strong>: €98M dedicated CDR budget line + €11.5M in removal certificate purchases (<a href=https://www.captaindrawdown.com/posts/cdr-daily-digest/>yesterday&rsquo;s coverage</a>)</li><li><strong>EU <a href=/posts/eu-first-cdr-certification-standard/>CRCF</a></strong>: First permanent removal certification methodologies adopted</li><li><strong>IAA</strong>: Industrial demand signals for low-carbon technologies</li></ul><p>Compare this to the US, where the current administration just rescinded the EPA&rsquo;s Endangerment Finding — the scientific basis for regulating greenhouse gases. While Washington denies basic atmospheric chemistry, Brussels is building markets for removing CO₂.</p><p>The European approach isn&rsquo;t perfect. But at least it&rsquo;s <em>building</em> something.</p><p><strong>Sources:</strong></p><ul><li><a href=https://single-market-economy.ec.europa.eu/publications/industrial-accelerator-act_en>European Commission — IAA</a></li><li><a href=https://www.ciel.org/news/iaa-risks-locking-in-fossil-dependence-and-weakening-environmental-safeguards/>CIEL critique</a></li><li><a href=https://eeb.org/en/industrial-accelerator-act-lacks-binding-safeguards-to-end-fossil-dependence-ngos-warn/>European Environmental Bureau</a></li></ul><hr><h3 id=-related-reading>🔗 Related Reading<a hidden class=anchor aria-hidden=true href=#-related-reading>#</a></h3><ul><li><a href=/posts/eu-first-cdr-certification-standard/>EU Launches World&rsquo;s First Voluntary Standard for Permanent Carbon Removals</a></li><li><a href=/posts/cdr-roundup-feb-2026/>CDR Roundup: What&rsquo;s Moving in Carbon Removal (Feb 2026)</a></li><li><a href=/posts/china-five-year-plan-no-cdr/>China&rsquo;s New Five-Year Plan: 17% Carbon Intensity Cut, Zero CDR</a></li><li><a href=/posts/west-virginia-biochar-tax-credit/>West Virginia Bets on Biochar: Coal State Stacks Tax Credits for Carbon Removal</a></li></ul>

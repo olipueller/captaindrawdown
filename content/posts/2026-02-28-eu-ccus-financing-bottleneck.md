@@ -1,18 +1,14 @@
 ---
 title: "EU Risks Losing Heavy Industry If CCUS Deployment Stalls"
-description: "Europe has no shortage of carbon capture project proposals. What it lacks is bankable deals. And according to a new analysis from the Carbon Capture..."
+slug: "eu-ccus-financing-bottleneck"
 date: 2026-02-28T14:50:00Z
-slug: eu-ccus-financing-bottleneck
-aliases: ["/s/7"]
-pillar: "global"
 tags: ["CCUS", "EU policy", "industrial decarbonization", "carbon capture", "Net Zero Industry Act"]
 summary: "A CCSA/Deloitte analysis warns that Europe's slow CCUS financing could drive heavy industry to jurisdictions with faster-moving climate infrastructure."
 cover:
-  image: "/images/posts/20260228-03.png"
+  image: "/images/posts/eu-ccus-financing-bottleneck.png"
   alt: "EU Risks Losing Heavy Industry If CCUS Deployment Stalls"
-  relative: false
+  hidden: false
 ---
-
 Europe has no shortage of carbon capture project proposals. What it lacks is bankable deals. And according to a new analysis from the Carbon Capture and Storage Association (CCSA) and Deloitte, that gap could cost the bloc both its climate targets and its industrial base.
 
 ## The Financing Bottleneck
@@ -45,11 +41,3 @@ The [Net Zero Industry Act](https://single-market-economy.ec.europa.eu/industry/
 
 - [Carbon Herald: CCSA Warns CCUS Delays Could Drive Industry Out Of The EU](https://carbonherald.com/ccsa-warns-ccus-delays-eu/)
 - [CCSA Europe Market Study](https://www.ccsassociation.org/resources/ccsa-europe-market-study/)
-
----
-
-### 🔗 Related Reading
-
-- [Pressure-Based CO₂ Capture Claims $26/Ton — Here's What to Make of It](/posts/2026-02-28-pressure-based-co2-capture-26-per-ton/)
-- [New COF Material Captures CO₂ With Electricity — No Heat Required](/posts/2026-02-28-cof-electrochemical-carbon-capture/)
-- [Japanese Scientists Made Rubber That Eats CO₂ and Turns Into Plastic](/posts/2026-03-05-japan-co2-rubber/)

@@ -1,53 +1,13 @@
 ---
 title: "UK's First Net-Zero Concrete Uses Biochar From Coffee Waste"
 date: 2026-03-14T00:01:00+01:00
-draft: false
-slug: holcim-net-zero-concrete-biochar-coffee
-aliases: ["/s/79"]
 description: "Holcim UK and Canary Wharf Group achieve net-negative carbon concrete using biochar from spent coffee grounds — a first for the construction industry."
-pillar: "global"
-tags: ["biochar", "concrete", "construction", "UK", "Holcim", "carbon removal"]
+tags: ["news"]
+slug: "holcim-net-zero-concrete-biochar-coffee"
+author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/20260314-06.png"
+  image: "/images/posts/holcim-net-zero-concrete-biochar-coffee.png"
   alt: "UK's First Net-Zero Concrete Uses Biochar From Coffee Waste"
   hidden: false
 ---
-
-Concrete is responsible for roughly 8% of global CO₂ emissions. Now a UK partnership has shown it can be carbon-negative.
-
-**Holcim UK** and **Canary Wharf Group (CWG)** have produced what they're calling the UK's first net-zero concrete, using biochar derived from spent coffee grounds collected from Canary Wharf coffee shops and coppiced hardwood.
-
-## The Numbers
-
-The initial trial pours in April 2025 achieved an **80% reduction** in net Global Warming Potential (GWP A1–A3) compared to traditional CEM I concrete — landing at 69 kgCO₂e/m³.
-
-By September 2025, further optimization of the coffee-biochar mix pushed the results into carbon-negative territory: a projected net GWP of **-14 kgCO₂e/m³** when fossil emissions and biogenic carbon storage are assessed together.
-
-That's not a lab result. Those were full-scale pours — two-metre-deep raft slabs on CWG's Bank Street site.
-
-## How It Works
-
-When biochar is mixed into concrete, the carbon absorbed by trees and coffee plants during growth gets locked into the building material itself. The concrete becomes a permanent carbon sink.
-
-The development involved a collective of industry heavyweights: Arup, Ramboll, Thornton Tomasetti, and researchers from Queen's University Belfast and the University of Cambridge.
-
-Another trial mix used graphene, achieving 50%+ carbon reduction while delivering higher strength and improved durability — potentially meaning less concrete needed per application.
-
-## Why This Matters for CDR
-
-Biochar in construction is an emerging carbon removal pathway that solves two problems at once: it creates durable storage (concrete lasts centuries) and uses waste streams (spent coffee grounds, coppiced wood) as feedstock.
-
-The materials will be monitored for two years by CWG's expert collective, including Skanska and Arup, to establish verified long-term performance data. If the results hold, this could open a new market for biochar beyond soil amendment.
-
-The global concrete industry pours roughly 14 billion cubic metres per year. Even modest biochar adoption at this scale would represent meaningful carbon removal.
-
-**Source:** [Holcim UK Press Release](https://www.holcim.co.uk/news-and-resources/press-releases/Net-Zero-Concrete-Achievement) · [Aggregates Business](https://www.aggbusiness.com/holcim-and-cwg-partner-on-net-zero-concrete-project)
-
----
-
-### 🔗 Related Reading
-
-- [A UK Council Just Built Its Own Biochar Carbon Removal Unit](/posts/shropshire-council-biochar-carbon-removal/)
-- [Why Carbon Removal Needs More Than Trees](/posts/why-carbon-removal-needs-more-than-trees/)
-- [Biochar: The Quiet Giant of Carbon Removal](/posts/2026-02-25-biochar-quiet-giant-of-cdr/)
-- [Japan-India Biochar Alliance: Industrial-Scale CDR Comes to Asia](/posts/green-carbon-india-biochar-partnership/)
+<p>Concrete is responsible for roughly 8% of global CO₂ emissions. Now a UK partnership has shown it can be carbon-negative.</p><p><strong>Holcim UK</strong> and <strong>Canary Wharf Group (CWG)</strong> have produced what they&rsquo;re calling the UK&rsquo;s first net-zero concrete, using biochar derived from spent coffee grounds collected from Canary Wharf coffee shops and coppiced hardwood.</p><h2 id=the-numbers>The Numbers<a hidden class=anchor aria-hidden=true href=#the-numbers>#</a></h2><p>The initial trial pours in April 2025 achieved an <strong>80% reduction</strong> in net Global Warming Potential (GWP A1–A3) compared to traditional CEM I concrete — landing at 69 kgCO₂e/m³.</p><p>By September 2025, further optimization of the coffee-biochar mix pushed the results into carbon-negative territory: a projected net GWP of <strong>-14 kgCO₂e/m³</strong> when fossil emissions and biogenic carbon storage are assessed together.</p><p>That&rsquo;s not a lab result. Those were full-scale pours — two-metre-deep raft slabs on CWG&rsquo;s Bank Street site.</p><h2 id=how-it-works>How It Works<a hidden class=anchor aria-hidden=true href=#how-it-works>#</a></h2><p>When biochar is mixed into concrete, the carbon absorbed by trees and coffee plants during growth gets locked into the building material itself. The concrete becomes a permanent carbon sink.</p><p>The development involved a collective of industry heavyweights: Arup, Ramboll, Thornton Tomasetti, and researchers from Queen&rsquo;s University Belfast and the University of Cambridge.</p><p>Another trial mix used graphene, achieving 50%+ carbon reduction while delivering higher strength and improved durability — potentially meaning less concrete needed per application.</p><h2 id=why-this-matters-for-cdr>Why This Matters for CDR<a hidden class=anchor aria-hidden=true href=#why-this-matters-for-cdr>#</a></h2><p>Biochar in construction is an emerging carbon removal pathway that solves two problems at once: it creates durable storage (concrete lasts centuries) and uses waste streams (spent coffee grounds, coppiced wood) as feedstock.</p><p>The materials will be monitored for two years by CWG&rsquo;s expert collective, including Skanska and Arup, to establish verified long-term performance data. If the results hold, this could open a new market for biochar beyond soil amendment.</p><p>The global concrete industry pours roughly 14 billion cubic metres per year. Even modest biochar adoption at this scale would represent meaningful carbon removal.</p><p><strong>Source:</strong> <a href=https://www.holcim.co.uk/news-and-resources/press-releases/Net-Zero-Concrete-Achievement>Holcim UK Press Release</a> · <a href=https://www.aggbusiness.com/holcim-and-cwg-partner-on-net-zero-concrete-project>Aggregates Business</a></p><hr><h3 id=-related-reading>🔗 Related Reading<a hidden class=anchor aria-hidden=true href=#-related-reading>#</a></h3><ul><li><a href=/posts/shropshire-council-biochar-carbon-removal/>A UK Council Just Built Its Own Biochar Carbon Removal Unit</a></li><li><a href=/posts/why-carbon-removal-needs-more-than-trees/>Why Carbon Removal Needs More Than Trees</a></li><li><a href=/posts/biochar-quiet-giant-of-cdr/>Biochar: The Quiet Giant of Carbon Removal</a></li><li><a href=/posts/green-carbon-india-biochar-partnership/>Japan-India Biochar Alliance: Industrial-Scale CDR Comes to Asia</a></li></ul>

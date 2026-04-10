@@ -1,18 +1,14 @@
 ---
 title: "New COF Material Captures CO₂ With Electricity — No Heat Required"
-description: "The most expensive part of capturing carbon dioxide isn't grabbing it. It's letting go."
+slug: "cof-electrochemical-carbon-capture"
 date: 2026-02-28T09:40:00Z
-slug: cof-electrochemical-carbon-capture
-aliases: ["/s/6"]
-pillar: "news"
 tags: ["carbon capture", "materials science", "electrochemistry", "COF", "direct air capture"]
 summary: "Northwestern researchers developed a covalent organic framework that grabs and releases CO₂ electrically, potentially eliminating the costly heat regeneration step in carbon capture."
 cover:
-  image: "/images/posts/20260228-02.png"
+  image: "/images/posts/cof-electrochemical-carbon-capture.png"
   alt: "New COF Material Captures CO₂ With Electricity — No Heat Required"
-  relative: false
+  hidden: false
 ---
-
 The most expensive part of capturing carbon dioxide isn't grabbing it. It's letting go.
 
 Today's commercial carbon capture systems use amine solvents that bond chemically with CO₂. To recover the gas and reuse the solvent, you need to heat it — a process that consumes enormous amounts of energy and eats into the net carbon benefit. Researchers at Northwestern University just published a system that skips the heat entirely.
@@ -45,12 +41,3 @@ This is still lab-scale work. But the combination of scalable synthesis, electri
 
 - [C&EN: Covalent organic frameworks electrify carbon capture](https://cen.acs.org/materials/cof-carbon-capture-quinone-covalent-organic-framework/104/web/2026/02)
 - [Chem (journal): DOI 10.1016/j.chempr.2025.102910](https://doi.org/10.1016/j.chempr.2025.102910)
-
----
-
-### 🔗 Related Reading
-
-- [Japanese Scientists Made Rubber That Eats CO₂ and Turns Into Plastic](/posts/2026-03-05-japan-co2-rubber/)
-- [CDR Roundup: What's Moving in Carbon Removal (Feb 2026)](/posts/cdr-roundup-feb-2026/)
-- [Why Carbon Removal Needs More Than Trees](/posts/why-carbon-removal-needs-more-than-trees/)
-- [500MW of Solar for the World's Largest DAC Plant](/posts/2026-02-25-500mw-solar-for-stratos-dac/)

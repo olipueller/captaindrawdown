@@ -1,0 +1,45 @@
+---
+title: "Mustafa Erguvan"
+description: "Mustafa Erguvan is a mid-career researcher at University of Alabama specializing in DAC"
+url: "/cdr-researcher-census/researchers/mustafa-erguvan-91594994/"
+type: "census"
+---
+
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"Person","name":"Mustafa Erguvan","affiliation":{"@type":"Organization","name":"University of Alabama"},"url":"https://www.captaindrawdown.com/cdr-researcher-census/researchers/mustafa-erguvan-91594994/"}
+</script>
+
+## 🇺🇸 Mustafa Erguvan
+
+**University of Alabama** (US)
+
+**Career Stage:** Mid-career
+**CDR Pathway:** DAC
+**Trajectory:** Stable
+**Data Confidence:** confirmed
+
+<table class="metrics-table">
+<tr><th>Metric</th><th>Value</th></tr>
+<tr><td>h-index</td><td>8</td></tr>
+<tr><td>Total Citations</td><td>203</td></tr>
+<tr><td>Total Publications</td><td>29</td></tr>
+<tr><td>CDR Focus</td><td>17%</td></tr>
+<tr><td>First CDR Paper</td><td>2018</td></tr>
+</table>
+
+## Top CDR Publications
+
+- **A cradle-to-gate life cycle assessment of green methanol production using direct air capture** (2024) — 31 citations
+- **Integrated solar organic Rankine Cycle and Direct Air Capture System for sustainable automotive manufacturing plants** (2025) — 2 citations
+- **Green Methanol Production Using Direct Air Capture: a Comparative Life-cycle Assessment of Sustainable Energy Prospects** (2024) — 1 citations
+
+
+## External Links
+
+- [ORCID Profile](https://orcid.org/https://orcid.org/0000-0002-1699-4826)
+- [OpenAlex Profile](https://openalex.org/authors/https://openalex.org/A5091594994)
+
+
+---
+
+*Data from [OpenAlex](https://openalex.org) enriched with [ORCID](https://orcid.org). Part of the [CDR Researcher Census](/cdr-researcher-census/).*

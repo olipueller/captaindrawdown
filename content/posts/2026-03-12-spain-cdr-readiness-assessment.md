@@ -1,61 +1,13 @@
 ---
 title: "Spain's CDR Moment: New Assessment Says It Can Lead — If Policy Moves Fast"
-date: 2026-03-12T04:00:00+00:00
-draft: false
-slug: spain-cdr-readiness-assessment
-aliases:
-  - /posts/2026-03-12-spain-cdr-readiness-assessment/
-  - "/s/65"
-description: "A new Carbon Removal Readiness Assessment (CRRA) by Carbon Gap and Global Factor finds Spain has strong CDR potential but lacks a national strategy. The window for action: 2026-2035."
-pillar: "global"
-tags: ["policy", "Spain", "Europe", "CDR", "Carbon Gap"]
+date: 2026-03-12T04:00:00Z
+description: "A new Carbon Removal Readiness Assessment (CRRA) by Carbon Gap and Global Factor finds Spain has strong CDR potential but lacks a national strategy. The window "
+tags: ["news"]
+slug: "spain-cdr-readiness-assessment"
+author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/20260312-04.png"
-  alt: "Spain Maps Its CDR Future"
+  image: "/images/posts/spain-cdr-readiness-assessment.png"
+  alt: "Spain's CDR Moment: New Assessment Says It Can Lead — If Policy Moves Fast"
   hidden: false
 ---
-
-Carbon Gap and Global Factor just published a Carbon Removal Readiness Assessment (CRRA) for Spain, and the verdict is clear: massive potential, minimal policy infrastructure.
-
-Spain has geology, solar irradiation, coastal access, and industrial clusters that make it a natural fit for multiple CDR pathways. What it doesn't have is a national CDR strategy.
-
-## What Spain Brings to the Table
-
-The CRRA identifies several advantages Spain has for scaling carbon removal:
-
-- **Mineral resources** suitable for [enhanced rock weathering](/posts/what-is-enhanced-weathering/) and mineralization
-- **High solar capacity** that can power energy-intensive approaches like DAC
-- **Long coastlines** relevant for marine CDR methods
-- **Agricultural land** that could host biochar and [ERW](/posts/what-is-enhanced-weathering/) applications
-- **An existing industrial base** that could integrate carbon capture
-
-These aren't hypothetical. They're structural advantages most countries would envy.
-
-## What's Missing
-
-The report calls for Spain to develop a national CDR strategy, build public awareness, and create policy incentives for a domestic CDR industry. Without this, the potential stays on paper.
-
-The timeline matters: what Spain does between 2026 and 2035 will determine whether carbon removals become a "core pillar" of its climate plans or remain a footnote. That's a remarkably tight window for a country that hasn't even started the policy conversation.
-
-## A European Pattern
-
-Spain joins a growing list of European countries getting CDR readiness assessments. Germany recently allocated €98 million — its first dedicated federal CDR budget line. The UK has been building its Greenhouse Gas Removals framework. The EU's Industrial Carbon Management Strategy is setting the continental direction.
-
-What's notable is how uneven the progress is. Northern Europe is moving fast. Southern Europe has arguably better natural conditions but is lagging on policy. Spain closing this gap would be significant — not just for Spain, but as a model for other Mediterranean countries.
-
-## The Clock Is Ticking
-
-The CDR industry needs policy certainty to attract investment. Companies won't build facilities in countries without clear regulatory frameworks, no matter how good the geology is. Spain's natural advantages are an asset only if policy converts them into actual projects.
-
-The CRRA roadmap is the blueprint. Now Spain needs the political will to follow it.
-
-**Source:** [Carbon Gap — Spain has the responsibility to scale up carbon removals](https://carbongap.org/spain-has-the-responsibility-to-scale-up-carbon-removals) | [Carbon Herald coverage](https://carbonherald.com/new-carbon-gap-cdr-readiness-assesment-says-spain-can-lead-in-removals-if-policy-paves-the-way-rapidly/)
-
----
-
-### 🔗 Related Reading
-
-- [German Think Tank: CDR Needs Industrial Policy, Not Just Carbon Accounting](/posts/germany-cdr-industrial-policy/)
-- [EU Carbon Market Under Fire: Italy Wants the ETS Suspended](/posts/eu-ets-suspension-italy-summit/)
-- [CDR Roundup: What's Moving in Carbon Removal (Feb 2026)](/posts/cdr-roundup-feb-2026/)
-- [The EU's Industrial Accelerator Act: What It Means for Carbon Removal](/posts/2026-03-05-eu-industrial-accelerator-act/)
+<p>Carbon Gap and Global Factor just published a Carbon Removal Readiness Assessment (CRRA) for Spain, and the verdict is clear: massive potential, minimal policy infrastructure.</p><p>Spain has geology, solar irradiation, coastal access, and industrial clusters that make it a natural fit for multiple CDR pathways. What it doesn&rsquo;t have is a national CDR strategy.</p><h2 id=what-spain-brings-to-the-table>What Spain Brings to the Table<a hidden class=anchor aria-hidden=true href=#what-spain-brings-to-the-table>#</a></h2><p>The CRRA identifies several advantages Spain has for scaling carbon removal:</p><ul><li><strong>Mineral resources</strong> suitable for <a href=/posts/what-is-enhanced-weathering/>enhanced rock weathering</a> and mineralization</li><li><strong>High solar capacity</strong> that can power energy-intensive approaches like DAC</li><li><strong>Long coastlines</strong> relevant for marine CDR methods</li><li><strong>Agricultural land</strong> that could host biochar and <a href=/posts/what-is-enhanced-weathering/>ERW</a> applications</li><li><strong>An existing industrial base</strong> that could integrate carbon capture</li></ul><p>These aren&rsquo;t hypothetical. They&rsquo;re structural advantages most countries would envy.</p><h2 id=whats-missing>What&rsquo;s Missing<a hidden class=anchor aria-hidden=true href=#whats-missing>#</a></h2><p>The report calls for Spain to develop a national CDR strategy, build public awareness, and create policy incentives for a domestic CDR industry. Without this, the potential stays on paper.</p><p>The timeline matters: what Spain does between 2026 and 2035 will determine whether carbon removals become a &ldquo;core pillar&rdquo; of its climate plans or remain a footnote. That&rsquo;s a remarkably tight window for a country that hasn&rsquo;t even started the policy conversation.</p><h2 id=a-european-pattern>A European Pattern<a hidden class=anchor aria-hidden=true href=#a-european-pattern>#</a></h2><p>Spain joins a growing list of European countries getting CDR readiness assessments. Germany recently allocated €98 million — its first dedicated federal CDR budget line. The UK has been building its Greenhouse Gas Removals framework. The EU&rsquo;s Industrial Carbon Management Strategy is setting the continental direction.</p><p>What&rsquo;s notable is how uneven the progress is. Northern Europe is moving fast. Southern Europe has arguably better natural conditions but is lagging on policy. Spain closing this gap would be significant — not just for Spain, but as a model for other Mediterranean countries.</p><h2 id=the-clock-is-ticking>The Clock Is Ticking<a hidden class=anchor aria-hidden=true href=#the-clock-is-ticking>#</a></h2><p>The CDR industry needs policy certainty to attract investment. Companies won&rsquo;t build facilities in countries without clear regulatory frameworks, no matter how good the geology is. Spain&rsquo;s natural advantages are an asset only if policy converts them into actual projects.</p><p>The CRRA roadmap is the blueprint. Now Spain needs the political will to follow it.</p><p><strong>Source:</strong> <a href=https://carbongap.org/spain-has-the-responsibility-to-scale-up-carbon-removals>Carbon Gap — Spain has the responsibility to scale up carbon removals</a> | <a href=https://carbonherald.com/new-carbon-gap-cdr-readiness-assesment-says-spain-can-lead-in-removals-if-policy-paves-the-way-rapidly/>Carbon Herald coverage</a></p><hr><h3 id=-related-reading>🔗 Related Reading<a hidden class=anchor aria-hidden=true href=#-related-reading>#</a></h3><ul><li><a href=/posts/germany-cdr-industrial-policy/>German Think Tank: CDR Needs Industrial Policy, Not Just Carbon Accounting</a></li><li><a href=/posts/eu-ets-suspension-italy-summit/>EU Carbon Market Under Fire: Italy Wants the ETS Suspended</a></li><li><a href=/posts/cdr-roundup-feb-2026/>CDR Roundup: What&rsquo;s Moving in Carbon Removal (Feb 2026)</a></li><li><a href=/posts/eu-industrial-accelerator-act/>The EU&rsquo;s Industrial Accelerator Act: What It Means for Carbon Removal</a></li></ul>

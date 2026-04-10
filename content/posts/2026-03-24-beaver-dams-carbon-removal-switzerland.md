@@ -1,43 +1,13 @@
 ---
 title: "Beaver Dams Are Surprisingly Effective Carbon Sinks"
-slug: beaver-dams-carbon-removal-switzerland
-aliases: ["/s/101"]
-date: 2026-03-24
-draft: false
+date: 2026-03-24T00:00:00Z
 description: "A Swiss study finds beaver-modified wetlands could offset 1.2–1.8% of national carbon emissions — nature-based CDR with teeth."
-pillar: "news"
-tags:
-  - Nature-Based Solutions
-  - Carbon Sequestration
-  - Rewilding
-categories:
-  - Science
+tags: ["news"]
+slug: "beaver-dams-carbon-removal-switzerland"
+author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/20260324-02.png"
+  image: "/images/posts/beaver-dams-carbon-removal-switzerland.png"
+  alt: "Beaver Dams Are Surprisingly Effective Carbon Sinks"
+  hidden: false
 ---
-
-A 30-kilogram rodent with orange teeth might be one of the most cost-effective carbon removal technologies on the planet.
-
-A [new study](https://www.nature.com/articles/s43247-026-03283-8) published in *Communications Earth & Environment* provides the first detailed carbon accounting of beaver-modified wetlands — and the numbers are genuinely surprising. Researchers studied a stream system in northern Switzerland that beavers have been reshaping for over a decade. Their finding: if you scaled beaver-created wetlands across suitable habitats in Switzerland, they could offset **1.2–1.8% of the country's annual carbon emissions**.
-
-For a single animal species, that's remarkable.
-
-## How it works
-
-The mechanism is beautifully simple — and completely different from most carbon sequestration approaches.
-
-Most nature-based CDR relies on plant growth: trees photosynthesize, store carbon in biomass, done. Beavers do something more interesting. They physically reconfigure ecosystems. Dam goes up. Water slows down. Stream expands into wetland. Organic material — leaves, branches, sediment — gets trapped behind the dam and accumulates in waterlogged soils where decomposition slows to a crawl. Carbon piles up in sediments over years and decades.
-
-No planting. No maintenance. No MRV headaches. The beaver handles operations, and it works 24/7 for free.
-
-The [research team](https://carbonherald.com/beavers-emerge-as-unlikely-allies-in-carbon-removal-new-study-finds/) found one critical variable: moisture. Wetter systems are stronger carbon sinks. When conditions dry out — from drought or seasonal fluctuations — the sequestration effect weakens or even reverses as previously waterlogged soils start decomposing. Climate change making precipitation patterns less predictable is a real complication here.
-
-## The rewilding-meets-CDR angle
-
-Beaver populations are resurging across Europe after decades of conservation. They're "ecosystem engineers" — organisms that reshape their environment in ways that support broader ecological resilience. Increased biodiversity, flood mitigation, improved water quality, and now quantified carbon sequestration.
-
-This is nature-based CDR that actually has a mechanism you can point to, not just "forests are good." The beavers create the physical conditions for long-term carbon burial. And they're self-replicating, self-maintaining, and don't require a Series A.
-
-The 1.2–1.8% figure might sound modest, but remember: that's one species, in one country, doing one thing. Stack it with other natural processes and the cumulative effect gets interesting.
-
-Sometimes the best carbon removal technology is a large, flat-tailed mammal that never stops building.
+<p>A 30-kilogram rodent with orange teeth might be one of the most cost-effective carbon removal technologies on the planet.</p><p>A <a href=https://www.nature.com/articles/s43247-026-03283-8>new study</a> published in <em>Communications Earth & Environment</em> provides the first detailed carbon accounting of beaver-modified wetlands — and the numbers are genuinely surprising. Researchers studied a stream system in northern Switzerland that beavers have been reshaping for over a decade. Their finding: if you scaled beaver-created wetlands across suitable habitats in Switzerland, they could offset <strong>1.2–1.8% of the country&rsquo;s annual carbon emissions</strong>.</p><p>For a single animal species, that&rsquo;s remarkable.</p><h2 id=how-it-works>How it works<a hidden class=anchor aria-hidden=true href=#how-it-works>#</a></h2><p>The mechanism is beautifully simple — and completely different from most carbon sequestration approaches.</p><p>Most nature-based CDR relies on plant growth: trees photosynthesize, store carbon in biomass, done. Beavers do something more interesting. They physically reconfigure ecosystems. Dam goes up. Water slows down. Stream expands into wetland. Organic material — leaves, branches, sediment — gets trapped behind the dam and accumulates in waterlogged soils where decomposition slows to a crawl. Carbon piles up in sediments over years and decades.</p><p>No planting. No maintenance. No MRV headaches. The beaver handles operations, and it works 24/7 for free.</p><p>The <a href=https://carbonherald.com/beavers-emerge-as-unlikely-allies-in-carbon-removal-new-study-finds/>research team</a> found one critical variable: moisture. Wetter systems are stronger carbon sinks. When conditions dry out — from drought or seasonal fluctuations — the sequestration effect weakens or even reverses as previously waterlogged soils start decomposing. Climate change making precipitation patterns less predictable is a real complication here.</p><h2 id=the-rewilding-meets-cdr-angle>The rewilding-meets-CDR angle<a hidden class=anchor aria-hidden=true href=#the-rewilding-meets-cdr-angle>#</a></h2><p>Beaver populations are resurging across Europe after decades of conservation. They&rsquo;re &ldquo;ecosystem engineers&rdquo; — organisms that reshape their environment in ways that support broader ecological resilience. Increased biodiversity, flood mitigation, improved water quality, and now quantified carbon sequestration.</p><p>This is nature-based CDR that actually has a mechanism you can point to, not just &ldquo;forests are good.&rdquo; The beavers create the physical conditions for long-term carbon burial. And they&rsquo;re self-replicating, self-maintaining, and don&rsquo;t require a Series A.</p><p>The 1.2–1.8% figure might sound modest, but remember: that&rsquo;s one species, in one country, doing one thing. Stack it with other natural processes and the cumulative effect gets interesting.</p><p>Sometimes the best carbon removal technology is a large, flat-tailed mammal that never stops building.</p>

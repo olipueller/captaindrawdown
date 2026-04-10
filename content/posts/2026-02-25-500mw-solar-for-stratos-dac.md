@@ -1,19 +1,15 @@
 ---
 title: "500MW of Solar for the World's Largest DAC Plant"
-description: "There's always been an uncomfortable question hanging over Direct Air Capture: what powers it?"
+slug: "500mw-solar-for-stratos-dac"
 date: 2026-02-25
-slug: 500mw-solar-for-stratos-dac
-aliases: ["/s/1"]
-pillar: "news"
 tags: ["CDR", "carbon removal", "direct air capture", "DAC", "solar", "STRATOS", "Occidental"]
 summary: "Origis Energy's 500MW Swift Air Solar complex is now powering Occidental's STRATOS Direct Air Capture facility in Texas. DAC finally gets the clean energy it needs."
 draft: false
 cover:
-  image: "/images/posts/20260225-01.png"
+  image: "/images/posts/500mw-solar-for-stratos-dac.png"
   alt: "500MW of Solar for the World's Largest DAC Plant"
-  relative: false
+  hidden: false
 ---
-
 There's always been an uncomfortable question hanging over Direct Air Capture: what powers it?
 
 DAC plants need enormous amounts of energy to pull CO₂ from the air. If that energy comes from fossil fuels, the math gets awkward fast — you're burning carbon to capture carbon. Critics have rightly pointed out that this makes some DAC projects little more than expensive greenwashing.
@@ -52,7 +48,7 @@ DAC powered by fossil fuels never made sense. Solar-powered DAC does. This is ho
 
 ---
 
-*This post appeared first on our social channels: [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mfo4h7cllx2l) · [X](https://x.com/CaptainDrawdown/status/2026553658989551845)*
+*This post appeared first on our social channels: [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mfo4h7cllx2l) · [X](https://x.com/CaptainDrawdown/status/2026553658989551845) · [Mastodon](https://mastodon.social/@CaptainDrawdown/116129989934588531)*
 
 ## Sources
 
@@ -61,12 +57,3 @@ DAC powered by fossil fuels never made sense. Solar-powered DAC does. This is ho
 3. Zawya — [Saudi Arabia explores Direct Air Capture project in Jubail](https://www.zawya.com/en/projects/industry/saudi-arabia-explores-direct-air-capture-project-in-jubail-of8u21xr) (Feb 2026)
 4. Batteries News — [EnergyX Commercializes Cleantech Materials Manufacturing for DAC](https://batteriesnews.com/energyx-commercializes-cleantech-materials-manufacturing-for-us-lithium-supply-chain-and-direct-air-carbon-capture/) (Feb 2026)
 5. EnkiAI — [Top 10 US Carbon Capture Projects 2025](https://enkiai.com/carbon-capture/top-10-us-carbon-capture-projects-2025-the-ultimate-guide) (Feb 2026)
-
----
-
-### 🔗 Related Reading
-
-- [Hamburg Breaks Ground on DACMA: German DAC Engineering Goes Global](/posts/dacma-hamburg-dac-competence-center/)
-- [CDR Roundup: What's Moving in Carbon Removal (Feb 2026)](/posts/cdr-roundup-feb-2026/)
-- [Why Carbon Removal Needs More Than Trees](/posts/why-carbon-removal-needs-more-than-trees/)
-- [Mercedes F1 Goes All-In on Carbon Removal — 7 New Projects Across 6 Pathways](/posts/2026-03-05-mercedes-f1-cdr-portfolio/)

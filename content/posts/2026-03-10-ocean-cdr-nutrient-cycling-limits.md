@@ -1,50 +1,13 @@
 ---
 title: "Ocean CDR Has a Nutrient Problem"
-date: 2026-03-10
-slug: ocean-cdr-nutrient-cycling-limits
-aliases: ["/s/51"]
-description: "New research shows carbon and phosphorus cycle at different speeds in the ocean, meaning biological CDR approaches like iron fertilization may overestimate long-term effectiveness."
-pillar: "science"
-tags: ["science", "ocean CDR", "mCDR"]
+date: 2026-03-10T00:00:00Z
+description: "New research shows carbon and phosphorus cycle at different speeds in the ocean, meaning biological CDR approaches like iron fertilization may overestimate long"
+tags: ["news"]
+slug: "ocean-cdr-nutrient-cycling-limits"
+author: "CaptainDrawdown"
 cover:
-  image: /images/posts/20260310-05.png
+  image: "/images/posts/ocean-cdr-nutrient-cycling-limits.png"
   alt: "Ocean CDR Has a Nutrient Problem"
   hidden: false
 ---
-
-A new study throws cold water on some of the rosier projections for biological ocean carbon removal. The core finding: carbon and phosphorus have different residence times in the ocean, and failing to account for this nutrient cycling mismatch could lead to serious overestimates of how much CO₂ actually stays sequestered.
-
-## The Disconnect
-
-Here's the simplified version: ocean iron fertilization (OIF) works by adding iron to surface waters to stimulate phytoplankton growth. The phytoplankton absorb CO₂, die, and sink — theoretically carrying that carbon to the deep ocean for long-term storage.
-
-But phytoplankton need more than iron. They need phosphorus. And this study shows that phosphorus cycles back to the surface faster than carbon sinks to the deep. So the carbon you think you've sequestered? Some of it gets released again as nutrient cycling brings it back up.
-
-The researchers specifically challenge the common assumption that carbon sequestration timescales can be estimated by simply tracking sinking particles. The interaction between carbon and nutrient cycles creates a more complex — and less optimistic — picture.
-
-## What This Means for mCDR
-
-Marine CDR (mCDR) is one of the most exciting and most uncertain frontiers in carbon removal. Ocean alkalinity enhancement (OAE), artificial upwelling, seaweed sinking, and iron fertilization each carry different risks and unknowns. This research adds a specific constraint that anyone modeling biological mCDR needs to incorporate.
-
-It doesn't mean ocean CDR is doomed. But it means the models need updating, and claims about sequestration permanence need more scrutiny. Carbon removal in the ocean isn't just a physics problem — it's a biogeochemistry problem.
-
-## The Broader Pattern
-
-This is a familiar story in CDR: early optimism, then reality checks. [Enhanced weathering](/posts/what-is-enhanced-weathering/) had its soil pH moment. DAC had its cost moment. Now ocean CDR is getting its nutrient cycling moment.
-
-These corrections aren't failures — they're science working as it should. The CDR methods that survive this kind of scrutiny will be the ones worth scaling. The ones that can't explain their way past nutrient cycling probably won't deliver what they promise.
-
-Honest uncertainty beats false precision. Every time.
-
----
-
-*Sources: [Phys.org](https://phys.org/news/2026-03-ocean-carbon-nutrient-curb-term.html), [TII Systems (Japanese source)](https://tiisys.com/blog/2026/03/09/post-187432/)*
-
----
-
-### 🔗 Related Reading
-
-- [Gulf of Maine OAE Trial: CO₂ Captured, No Harm to Marine Life](/posts/2026-03-07-gulf-of-maine-oae-trial-results/)
-- [What Is [Enhanced Weathering](/posts/what-is-enhanced-weathering/)? A Primer](/posts/what-is-enhanced-weathering/)
-- [Study Maps the Best US Coastal Sites for Marine Carbon Removal](/posts/2026-02-28-us-coastal-marine-cdr-hubs/)
-- [First EPA-Permitted Ocean Alkalinity Trial Removes CO₂ Without Harming Marine Life](/posts/whoi-loc-ness-oae-trial-results/)
+<p>A new study throws cold water on some of the rosier projections for biological ocean carbon removal. The core finding: carbon and phosphorus have different residence times in the ocean, and failing to account for this nutrient cycling mismatch could lead to serious overestimates of how much CO₂ actually stays sequestered.</p><h2 id=the-disconnect>The Disconnect<a hidden class=anchor aria-hidden=true href=#the-disconnect>#</a></h2><p>Here&rsquo;s the simplified version: ocean iron fertilization (OIF) works by adding iron to surface waters to stimulate phytoplankton growth. The phytoplankton absorb CO₂, die, and sink — theoretically carrying that carbon to the deep ocean for long-term storage.</p><p>But phytoplankton need more than iron. They need phosphorus. And this study shows that phosphorus cycles back to the surface faster than carbon sinks to the deep. So the carbon you think you&rsquo;ve sequestered? Some of it gets released again as nutrient cycling brings it back up.</p><p>The researchers specifically challenge the common assumption that carbon sequestration timescales can be estimated by simply tracking sinking particles. The interaction between carbon and nutrient cycles creates a more complex — and less optimistic — picture.</p><h2 id=what-this-means-for-mcdr>What This Means for mCDR<a hidden class=anchor aria-hidden=true href=#what-this-means-for-mcdr>#</a></h2><p>Marine CDR (mCDR) is one of the most exciting and most uncertain frontiers in carbon removal. Ocean alkalinity enhancement (OAE), artificial upwelling, seaweed sinking, and iron fertilization each carry different risks and unknowns. This research adds a specific constraint that anyone modeling biological mCDR needs to incorporate.</p><p>It doesn&rsquo;t mean ocean CDR is doomed. But it means the models need updating, and claims about sequestration permanence need more scrutiny. Carbon removal in the ocean isn&rsquo;t just a physics problem — it&rsquo;s a biogeochemistry problem.</p><h2 id=the-broader-pattern>The Broader Pattern<a hidden class=anchor aria-hidden=true href=#the-broader-pattern>#</a></h2><p>This is a familiar story in CDR: early optimism, then reality checks. <a href=/posts/what-is-enhanced-weathering/>Enhanced weathering</a> had its soil pH moment. DAC had its cost moment. Now ocean CDR is getting its nutrient cycling moment.</p><p>These corrections aren&rsquo;t failures — they&rsquo;re science working as it should. The CDR methods that survive this kind of scrutiny will be the ones worth scaling. The ones that can&rsquo;t explain their way past nutrient cycling probably won&rsquo;t deliver what they promise.</p><p>Honest uncertainty beats false precision. Every time.</p><hr><p><em>Sources: <a href=https://phys.org/news/2026-03-ocean-carbon-nutrient-curb-term.html>Phys.org</a>, <a href=https://tiisys.com/blog/2026/03/09/post-187432/>TII Systems (Japanese source)</a></em></p><hr><h3 id=-related-reading>🔗 Related Reading<a hidden class=anchor aria-hidden=true href=#-related-reading>#</a></h3><ul><li><a href=/posts/gulf-of-maine-oae-trial-results/>Gulf of Maine OAE Trial: CO₂ Captured, No Harm to Marine Life</a></li><li>[What Is <a href=/posts/what-is-enhanced-weathering/>Enhanced Weathering</a>? A Primer](/posts/what-is-enhanced-weathering/)</li><li><a href=/posts/us-coastal-marine-cdr-hubs/>Study Maps the Best US Coastal Sites for Marine Carbon Removal</a></li><li><a href=/posts/whoi-loc-ness-oae-trial-results/>First EPA-Permitted Ocean Alkalinity Trial Removes CO₂ Without Harming Marine Life</a></li></ul>

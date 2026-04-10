@@ -1,18 +1,14 @@
 ---
 title: "Study Maps the Best US Coastal Sites for Marine Carbon Removal"
-description: "You can't deploy marine carbon removal just anywhere. You need seawater access, affordable clean energy, existing infrastructure, and communities that..."
+slug: "us-coastal-marine-cdr-hubs"
 date: 2026-02-28T12:05:00Z
-slug: us-coastal-marine-cdr-hubs
-aliases: ["/s/10"]
-pillar: "science"
 tags: ["ocean CDR", "marine carbon removal", "electrochemistry", "siting", "infrastructure"]
 summary: "New research analyzes 38 US coastal facilities to identify the most promising hubs for electrochemical marine carbon dioxide removal."
 cover:
-  image: "/images/posts/20260228-06.png"
+  image: "/images/posts/us-coastal-marine-cdr-hubs.png"
   alt: "Study Maps the Best US Coastal Sites for Marine Carbon Removal"
-  relative: false
+  hidden: false
 ---
-
 You can't deploy marine carbon removal just anywhere. You need seawater access, affordable clean energy, existing infrastructure, and communities that won't bear disproportionate environmental burdens. A new study just mapped where all those factors align along the US coastline.
 
 ## 38 Sites, 5 Hubs, 7 Criteria
@@ -48,11 +44,3 @@ These aren't glamorous questions, but they're the ones that determine whether a 
 ## Sources
 
 - [AZoCleantech: New Study Identifies Prime US Coastal Sites for Carbon Removal](https://www.azocleantech.com/news.aspx?newsID=36190)
-
----
-
-### 🔗 Related Reading
-
-- [First EPA-Permitted Ocean Alkalinity Trial Removes CO₂ Without Harming Marine Life](/posts/whoi-loc-ness-oae-trial-results/)
-- [New COF Material Captures CO₂ With Electricity — No Heat Required](/posts/2026-02-28-cof-electrochemical-carbon-capture/)
-- [Gulf of Maine OAE Trial: CO₂ Captured, No Harm to Marine Life](/posts/2026-03-07-gulf-of-maine-oae-trial-results/)

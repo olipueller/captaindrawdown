@@ -1,67 +1,13 @@
 ---
 title: "CDR and Critical Minerals Have More in Common Than You'd Think"
-description: "Carbon removal and critical minerals face strikingly similar challenges: hard-tech development timelines, competition from riskier alternatives, and dependence on the same policy tools to scale."
 date: 2026-03-18T11:55:00+01:00
-slug: cdr-critical-minerals-three-similarities
-aliases: ["/s/100"]
-pillar: "market"
-tags: ["CDR", "carbon removal", "critical minerals", "policy", "hard tech", "market", "analysis"]
-summary: "A thoughtful analysis from Carbon Based Commentary: CDR and critical minerals are both hard-tech industries facing similar structural challenges — and could benefit from the same solutions."
-draft: false
+description: "Carbon removal and critical minerals face strikingly similar challenges: hard-tech development timelines, competition from riskier alternatives, and dependence "
+tags: ["news"]
+slug: "cdr-critical-minerals-three-similarities"
+author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/20260318-05.png"
-  alt: "CDR and Critical Minerals: Three Similarities"
-  relative: false
+  image: "/images/posts/cdr-critical-minerals-three-similarities.png"
+  alt: "CDR and Critical Minerals Have More in Common Than You'd Think"
+  hidden: false
 ---
-
-Carbon removal and critical minerals don't seem like they'd have much in common. One pulls CO₂ from the atmosphere. The other pulls rare earth elements from the ground. But a [new analysis from Carbon Based Commentary](https://carbonbasedcommentary.substack.com/p/3-similarities-between-the-carbon) makes a compelling case that they face almost identical structural challenges — and could benefit from the same solutions.
-
-The parallels run deeper than you'd expect.
-
-## 1. Both Are Hard Tech With Long Timelines
-
-CDR and critical minerals are classic "hard tech" — physical processes that require real infrastructure, specialized engineering, and years of development before they produce results. This isn't software. You can't iterate in two-week sprints.
-
-Building a DAC plant takes 3–5 years from financing to first capture. Opening a new lithium mine takes 7–10 years from discovery to production. Both require massive upfront capital with returns that materialize slowly. Both face the "valley of death" where promising technology dies because the gap between lab demonstration and commercial deployment is too expensive to cross.
-
-This makes them fundamentally different from the software-driven cleantech that dominates venture capital attention. Investors comfortable with 18-month product cycles struggle with industries where a single facility takes half a decade to build.
-
-## 2. Both Compete With Cheaper, Riskier Alternatives
-
-Durable carbon removal competes with non-durable offsets — reforestation credits, soil carbon, avoided deforestation. Those are cheaper ($10–50/ton vs. $100–600+ for durable CDR) but carry higher reversal risk. A forest can burn down. Soil carbon can be released by a change in farming practices.
-
-Critical minerals face a parallel: recycled or synthetic substitutes that are cheaper upfront but less reliable or lower quality. Secondary lithium from battery recycling is cheaper than virgin material but can't yet match the purity needed for all applications.
-
-In both cases, the "risky alternative" looks attractive in spreadsheets but creates systemic vulnerability. If your carbon removal portfolio is 90% forest offsets and a wildfire season hits, your net-zero commitment evaporates. If your mineral supply chain depends on a single country that decides to restrict exports, your manufacturing line stops.
-
-The market tends to favor the cheap option until the risk materializes. Then everyone scrambles for the durable version.
-
-## 3. Both Need the Same Policy Tools
-
-Here's where it gets actionable. The analysis argues that CDR and critical minerals need virtually identical policy interventions to scale:
-
-- **Government procurement commitments** — advance market commitments that guarantee demand before supply exists (the US DOE's carbon removal purchasing program, strategic mineral stockpile purchases)
-- **Strategic reserves** — buffer stocks that smooth price volatility and ensure supply security
-- **Supply chain coordination** — connecting upstream producers with downstream buyers through long-term offtake agreements
-- **Patient capital** — financing mechanisms designed for hard-tech timelines, not VC fund cycles
-
-The irony: the current US administration is aggressively pursuing exactly these tools for critical minerals while [gutting support for CDR](https://subscriber.politicopro.com/article/eenews/2025/10/03/direct-air-capture-takes-huge-hit-in-doe-funding-cuts-00591881). The policy toolkit is identical. The political will isn't.
-
-## Why This Framing Matters
-
-Carbon removal advocates have spent years explaining CDR on its own terms — climate targets, net-zero math, gigatonne gaps. The mineral industry analogy offers a different entry point. Policymakers who don't care about carbon budgets *do* care about supply chain security. CEOs who shrug at climate commitments *do* understand strategic reserves.
-
-If CDR can position itself as critical infrastructure — not just climate mitigation — it accesses a much larger pool of political support and capital. The minerals comparison makes that case intuitive: both industries produce essential inputs for a functioning economy, both face supply chain risks, and both need the same institutional scaffolding to scale.
-
-It's a reframe worth paying attention to.
-
----
-
-*Source: [Carbon Based Commentary](https://carbonbasedcommentary.substack.com/p/3-similarities-between-the-carbon) — "3 Similarities Between the Carbon Removal and Critical Minerals Industries"*
-
----
-
-### 🔗 Related Reading
-
-- [The First Global Rules for CDR Credits Are Being Written Now](/posts/first-global-rules-cdr-credits/)
-- [Sweden Backs Negative Emissions With $34M in New Funding](/posts/sweden-negative-emissions-funding-industriklivet/)
+<p>Carbon removal and critical minerals don&rsquo;t seem like they&rsquo;d have much in common. One pulls CO₂ from the atmosphere. The other pulls rare earth elements from the ground. But a <a href=https://carbonbasedcommentary.substack.com/p/3-similarities-between-the-carbon>new analysis from Carbon Based Commentary</a> makes a compelling case that they face almost identical structural challenges — and could benefit from the same solutions.</p><p>The parallels run deeper than you&rsquo;d expect.</p><h2 id=1-both-are-hard-tech-with-long-timelines>1. Both Are Hard Tech With Long Timelines<a hidden class=anchor aria-hidden=true href=#1-both-are-hard-tech-with-long-timelines>#</a></h2><p>CDR and critical minerals are classic &ldquo;hard tech&rdquo; — physical processes that require real infrastructure, specialized engineering, and years of development before they produce results. This isn&rsquo;t software. You can&rsquo;t iterate in two-week sprints.</p><p>Building a DAC plant takes 3–5 years from financing to first capture. Opening a new lithium mine takes 7–10 years from discovery to production. Both require massive upfront capital with returns that materialize slowly. Both face the &ldquo;valley of death&rdquo; where promising technology dies because the gap between lab demonstration and commercial deployment is too expensive to cross.</p><p>This makes them fundamentally different from the software-driven cleantech that dominates venture capital attention. Investors comfortable with 18-month product cycles struggle with industries where a single facility takes half a decade to build.</p><h2 id=2-both-compete-with-cheaper-riskier-alternatives>2. Both Compete With Cheaper, Riskier Alternatives<a hidden class=anchor aria-hidden=true href=#2-both-compete-with-cheaper-riskier-alternatives>#</a></h2><p>Durable carbon removal competes with non-durable offsets — reforestation credits, soil carbon, avoided deforestation. Those are cheaper ($10–50/ton vs. $100–600+ for durable CDR) but carry higher reversal risk. A forest can burn down. Soil carbon can be released by a change in farming practices.</p><p>Critical minerals face a parallel: recycled or synthetic substitutes that are cheaper upfront but less reliable or lower quality. Secondary lithium from battery recycling is cheaper than virgin material but can&rsquo;t yet match the purity needed for all applications.</p><p>In both cases, the &ldquo;risky alternative&rdquo; looks attractive in spreadsheets but creates systemic vulnerability. If your carbon removal portfolio is 90% forest offsets and a wildfire season hits, your net-zero commitment evaporates. If your mineral supply chain depends on a single country that decides to restrict exports, your manufacturing line stops.</p><p>The market tends to favor the cheap option until the risk materializes. Then everyone scrambles for the durable version.</p><h2 id=3-both-need-the-same-policy-tools>3. Both Need the Same Policy Tools<a hidden class=anchor aria-hidden=true href=#3-both-need-the-same-policy-tools>#</a></h2><p>Here&rsquo;s where it gets actionable. The analysis argues that CDR and critical minerals need virtually identical policy interventions to scale:</p><ul><li><strong>Government procurement commitments</strong> — advance market commitments that guarantee demand before supply exists (the US DOE&rsquo;s carbon removal purchasing program, strategic mineral stockpile purchases)</li><li><strong>Strategic reserves</strong> — buffer stocks that smooth price volatility and ensure supply security</li><li><strong>Supply chain coordination</strong> — connecting upstream producers with downstream buyers through long-term offtake agreements</li><li><strong>Patient capital</strong> — financing mechanisms designed for hard-tech timelines, not VC fund cycles</li></ul><p>The irony: the current US administration is aggressively pursuing exactly these tools for critical minerals while <a href=https://subscriber.politicopro.com/article/eenews/2025/10/03/direct-air-capture-takes-huge-hit-in-doe-funding-cuts-00591881>gutting support for CDR</a>. The policy toolkit is identical. The political will isn&rsquo;t.</p><h2 id=why-this-framing-matters>Why This Framing Matters<a hidden class=anchor aria-hidden=true href=#why-this-framing-matters>#</a></h2><p>Carbon removal advocates have spent years explaining CDR on its own terms — climate targets, net-zero math, gigatonne gaps. The mineral industry analogy offers a different entry point. Policymakers who don&rsquo;t care about carbon budgets <em>do</em> care about supply chain security. CEOs who shrug at climate commitments <em>do</em> understand strategic reserves.</p><p>If CDR can position itself as critical infrastructure — not just climate mitigation — it accesses a much larger pool of political support and capital. The minerals comparison makes that case intuitive: both industries produce essential inputs for a functioning economy, both face supply chain risks, and both need the same institutional scaffolding to scale.</p><p>It&rsquo;s a reframe worth paying attention to.</p><hr><p><em>Source: <a href=https://carbonbasedcommentary.substack.com/p/3-similarities-between-the-carbon>Carbon Based Commentary</a> — &ldquo;3 Similarities Between the Carbon Removal and Critical Minerals Industries&rdquo;</em></p><hr><h3 id=-related-reading>🔗 Related Reading<a hidden class=anchor aria-hidden=true href=#-related-reading>#</a></h3><ul><li><a href=/posts/first-global-rules-cdr-credits/>The First Global Rules for CDR Credits Are Being Written Now</a></li><li><a href=/posts/sweden-negative-emissions-funding-industriklivet/>Sweden Backs Negative Emissions With $34M in New Funding</a></li></ul>

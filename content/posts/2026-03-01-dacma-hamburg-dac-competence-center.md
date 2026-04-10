@@ -1,55 +1,13 @@
 ---
 title: "Hamburg Breaks Ground on DACMA: German DAC Engineering Goes Global"
-date: 2026-03-01
-slug: dacma-hamburg-dac-competence-center
-aliases: ["/s/12"]
-description: "DACMA opens a Direct Air Capture competence center in Hamburg's port, landing a major order from Canada's Deep Sky for a facility scaling to 1 megatonne per year."
-pillar: "global"
-tags: ["DAC", "direct air capture", "Germany", "Hamburg", "Deep Sky", "DACMA"]
+date: 2026-03-01T00:00:00Z
+description: "DACMA opens a Direct Air Capture competence center in Hamburg's port, landing a major order from Canada's Deep Sky for a facility scaling to 1 megatonne per yea"
+tags: ["news"]
+slug: "dacma-hamburg-dac-competence-center"
+author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/20260301-02.png"
+  image: "/images/posts/dacma-hamburg-dac-competence-center.png"
   alt: "Hamburg Breaks Ground on DACMA: German DAC Engineering Goes Global"
-  relative: false
+  hidden: false
 ---
-
-Germany is building Direct Air Capture infrastructure. DACMA GmbH just broke ground on a new DAC competence center in the Port of Hamburg — and simultaneously announced a landmark order from Canadian project developer Deep Sky.
-
-## The Facility
-
-The DACMA Competence Center will serve as a research, development, and testing platform for modular DAC plants. The center will:
-
-- Improve technical components for CO₂ capture from ambient air
-- Optimize operating processes for efficiency
-- Advance new research topics with international universities
-- Test Generation 2 DAC technology before international deployment
-
-Hamburg's Senator for Economics, Dr. Melanie Leonhard, framed it in economic terms: "We are extracting carbon dioxide directly from the air and turning it into an opportunity for industry, value creation, and climate protection."
-
-## The Deep Sky Order
-
-The real headline is the commercial order. Canadian project developer Deep Sky will deploy DACMA's technology in a facility that starts at 30,000 tonnes of CO₂ per year and scales to 1,000,000 tonnes.
-
-That's a significant capacity target. For context, Climeworks' Mammoth plant in Iceland — currently the world's largest operational DAC facility — captures 36,000 tonnes per year. Deep Sky is planning nearly 30x that.
-
-## The eFuel Connection
-
-DACMA is closely connected to eFuel DAC GmbH, which uses captured CO₂ as feedstock for climate-neutral synthetic fuels. CEO Hanspeter Tiede noted: "By capturing CO₂ directly from the air, we are laying the foundation for climate-neutral fuels."
-
-The Griesemann Gruppe, a major German industrial plant builder, also just became a co-shareholder of eFuel GmbH — signaling growing industrial confidence in DAC-to-fuel pathways.
-
-## Why Hamburg
-
-The Port of Hamburg gives DACMA access to industrial infrastructure, shipping logistics, and a hub of engineering talent. It's a smart location choice: CDR technology needs to integrate with existing industrial systems, not exist in isolation.
-
-This is a pattern worth watching. [CDI's research on CDR scaling](https://www.carbon-drawdown.de/blog/2026-2-24-cdr-must-shift-from-speed-amp-scale-to-prove-amp-learn) has emphasized that the field needs to "prove and learn" before rushing to gigatonne scale — and competence centers like DACMA are exactly where that learning happens.
-
-**Source:** [Renewable Energies Hamburg](https://www.erneuerbare-energien-hamburg.de/en/news/details/groundbreaking-ceremony-for-the-new-dacma-competence-center-in-the-port-of-hamburg-kopie.html)
-
----
-
-### 🔗 Related Reading
-
-- [500MW of Solar for the World's Largest DAC Plant](/posts/2026-02-25-500mw-solar-for-stratos-dac/)
-- [CDR Roundup: What's Moving in Carbon Removal (Feb 2026)](/posts/cdr-roundup-feb-2026/)
-- [Why Carbon Removal Needs More Than Trees](/posts/why-carbon-removal-needs-more-than-trees/)
-- [New COF Material Captures CO₂ With Electricity — No Heat Required](/posts/2026-02-28-cof-electrochemical-carbon-capture/)
+<p>Germany is building Direct Air Capture infrastructure. DACMA GmbH just broke ground on a new DAC competence center in the Port of Hamburg — and simultaneously announced a landmark order from Canadian project developer Deep Sky.</p><h2 id=the-facility>The Facility<a hidden class=anchor aria-hidden=true href=#the-facility>#</a></h2><p>The DACMA Competence Center will serve as a research, development, and testing platform for modular DAC plants. The center will:</p><ul><li>Improve technical components for CO₂ capture from ambient air</li><li>Optimize operating processes for efficiency</li><li>Advance new research topics with international universities</li><li>Test Generation 2 DAC technology before international deployment</li></ul><p>Hamburg&rsquo;s Senator for Economics, Dr. Melanie Leonhard, framed it in economic terms: &ldquo;We are extracting carbon dioxide directly from the air and turning it into an opportunity for industry, value creation, and climate protection.&rdquo;</p><h2 id=the-deep-sky-order>The Deep Sky Order<a hidden class=anchor aria-hidden=true href=#the-deep-sky-order>#</a></h2><p>The real headline is the commercial order. Canadian project developer Deep Sky will deploy DACMA&rsquo;s technology in a facility that starts at 30,000 tonnes of CO₂ per year and scales to 1,000,000 tonnes.</p><p>That&rsquo;s a significant capacity target. For context, Climeworks&rsquo; Mammoth plant in Iceland — currently the world&rsquo;s largest operational DAC facility — captures 36,000 tonnes per year. Deep Sky is planning nearly 30x that.</p><h2 id=the-efuel-connection>The eFuel Connection<a hidden class=anchor aria-hidden=true href=#the-efuel-connection>#</a></h2><p>DACMA is closely connected to eFuel DAC GmbH, which uses captured CO₂ as feedstock for climate-neutral synthetic fuels. CEO Hanspeter Tiede noted: &ldquo;By capturing CO₂ directly from the air, we are laying the foundation for climate-neutral fuels.&rdquo;</p><p>The Griesemann Gruppe, a major German industrial plant builder, also just became a co-shareholder of eFuel GmbH — signaling growing industrial confidence in DAC-to-fuel pathways.</p><h2 id=why-hamburg>Why Hamburg<a hidden class=anchor aria-hidden=true href=#why-hamburg>#</a></h2><p>The Port of Hamburg gives DACMA access to industrial infrastructure, shipping logistics, and a hub of engineering talent. It&rsquo;s a smart location choice: CDR technology needs to integrate with existing industrial systems, not exist in isolation.</p><p>This is a pattern worth watching. <a href=https://www.carbon-drawdown.de/blog/2026-2-24-cdr-must-shift-from-speed-amp-scale-to-prove-amp-learn>CDI&rsquo;s research on CDR scaling</a> has emphasized that the field needs to &ldquo;prove and learn&rdquo; before rushing to gigatonne scale — and competence centers like DACMA are exactly where that learning happens.</p><p><strong>Source:</strong> <a href=https://www.erneuerbare-energien-hamburg.de/en/news/details/groundbreaking-ceremony-for-the-new-dacma-competence-center-in-the-port-of-hamburg-kopie.html>Renewable Energies Hamburg</a></p><hr><h3 id=-related-reading>🔗 Related Reading<a hidden class=anchor aria-hidden=true href=#-related-reading>#</a></h3><ul><li><a href=/posts/500mw-solar-for-stratos-dac/>500MW of Solar for the World&rsquo;s Largest DAC Plant</a></li><li><a href=/posts/cdr-roundup-feb-2026/>CDR Roundup: What&rsquo;s Moving in Carbon Removal (Feb 2026)</a></li><li><a href=/posts/why-carbon-removal-needs-more-than-trees/>Why Carbon Removal Needs More Than Trees</a></li><li><a href=/posts/cof-electrochemical-carbon-capture/>New COF Material Captures CO₂ With Electricity — No Heat Required</a></li></ul>

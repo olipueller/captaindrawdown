@@ -2,12 +2,25 @@
 title: "Airex Energy"
 layout: "single"
 type: "directory"
-description: "Airex Energy is a Canadian BiCRS company that transforms biomass residues into high-performance biochar using its patented CarbonFX™ torrefaction technology, wh"
+description: ""
 url: "/directory/airex-energy/"
-noindex: false
-employee_count: 38
-employee_count_inferred: 28
-employee_growth_yoy: 5.555555555555555
-linkedin_followers: 3542
-cdr_focus: "pure-play"
 ---
+
+
+<table class="company-info">
+  <tr><td><strong>Category</strong></td><td>Biochar</td></tr>
+  <tr><td><strong>Country</strong></td><td>Canada</td></tr>
+  <tr><td><strong>Website</strong></td><td><a href="https://airex-energy.com/">https://airex-energy.com/</a></td></tr>
+  <tr><td><strong>Status</strong></td><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><td><strong>Employees</strong></td><td>~38 (+6% YoY)</td></tr>
+  <tr><td><strong>LinkedIn Followers</strong></td><td>3,542</td></tr>
+  <tr><td><strong>CDR Focus</strong></td><td>pure-play</td></tr>
+</table>
+
+## About
+
+Airex Energy is a Canadian BiCRS company that transforms biomass residues into high-performance biochar using its patented CarbonFX™ torrefaction technology, which is used for carbon sequestration and various industrial applications.
+
+![Airex Energy website](/images/directory/airex-energy.jpg)
+
+[View on LinkedIn](https://www.linkedin.com/company/airex-energy/)

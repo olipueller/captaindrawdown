@@ -1,51 +1,13 @@
 ---
 title: "LEGO Commits $7.9M to Carbon Removal — Testing Everything from Bio-Oil to Ocean CDR"
 date: 2026-03-13T06:00:00+01:00
-draft: false
-slug: lego-carbon-removal-portfolio
-aliases: ["/s/71"]
 description: "The LEGO Group has committed $7.9M total to durable carbon removal across four projects, from biomass geological storage to marine CDR."
-pillar: "news"
-tags: ["LEGO", "corporate buyers", "CDR market", "ClimeFi"]
+tags: ["news"]
+slug: "lego-carbon-removal-portfolio"
+author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/20260313-03.png"
-  alt: "LEGO Commits $7.9M to Carbon Removal"
+  image: "/images/posts/lego-carbon-removal-portfolio.png"
+  alt: "LEGO Commits $7.9M to Carbon Removal — Testing Everything from Bio-Oil to Ocean CDR"
   hidden: false
 ---
-
-The LEGO Group just dropped another DKK 18 million ($2.6M) on carbon removal, bringing its total CDR investment to **DKK 54 million ($7.9M)**. The new round, delivered through ClimeFi, supports four projects across three durable removal technologies plus a reforestation initiative in Mexico.
-
-## What they're buying
-
-The three tech-based projects span:
-
-- **Biomass geological storage** — injecting organic waste slurry deep underground for permanent carbon lockaway
-- **Mineralization** — converting captured CO₂ into manufactured limestone using reactive waste materials
-- **Marine CDR via wastewater alkalinity enhancement** — converting organic carbon into inorganic carbon stored long-term in the ocean
-
-The fourth project is large-scale tropical forest restoration in Mexico, developed with Climate Impact Partners.
-
-## Why it matters
-
-LEGO is doing something smart here: testing multiple pathways simultaneously instead of betting on one winner. At $7.9M total, this isn't a token gesture — it's a meaningful R&D spend for a company still in learning mode on CDR.
-
-The portfolio approach mirrors what we're seeing from other serious corporate buyers (Mercedes F1, Shopify, Microsoft). Nobody knows which CDR pathways will dominate at scale, so the smart move is diversification.
-
-LEGO's Chief Sustainability Officer Annette Stube was refreshingly honest about where they are: "This programme allows us to work with expert partners and contribute to solutions that may help scale effective climate action over time." No overclaiming. No "net-zero by Tuesday."
-
-## The bigger picture
-
-ClimeFi — the intermediary running these procurements — also [just published their 2026 market insights](https://carbonherald.com/climefi-publishes-2026-insights-on-the-durable-carbon-removal-market/) showing that CDR supply is tightening fast. Only 52% of 2026 supply is still unreserved. Companies like LEGO that are building portfolios now are positioning themselves ahead of the squeeze.
-
-CDR is still early. But corporate procurement rounds like this one are what turns laboratory science into commercial infrastructure. Every dollar of pre-purchase is a signal to startups that there's a market waiting.
-
-**Source:** [ESG News](https://esgnews.com/lego-group-commits-2-6m-to-carbon-removal-projects-with-climefi/)
-
----
-
-### 🔗 Related Reading
-
-- [Lego Just Tripled Down on Carbon Removal — Here's What They're Buying](/posts/lego-bets-on-carbon-removal/)
-- [CDR Supply Is Tightening: Only 52% of 2026 Still Available](/posts/climefi-2026-cdr-market-insights/)
-- [Mercedes F1 Goes All-In on Carbon Removal — 7 New Projects Across 6 Pathways](/posts/2026-03-05-mercedes-f1-cdr-portfolio/)
-- [Two-Thirds of Durable CDR Projects Have Hit Commercialization](/posts/climefi-two-thirds-cdr-projects-commercial/)
+<p>The LEGO Group just dropped another DKK 18 million ($2.6M) on carbon removal, bringing its total CDR investment to <strong>DKK 54 million ($7.9M)</strong>. The new round, delivered through ClimeFi, supports four projects across three durable removal technologies plus a reforestation initiative in Mexico.</p><h2 id=what-theyre-buying>What they&rsquo;re buying<a hidden class=anchor aria-hidden=true href=#what-theyre-buying>#</a></h2><p>The three tech-based projects span:</p><ul><li><strong>Biomass geological storage</strong> — injecting organic waste slurry deep underground for permanent carbon lockaway</li><li><strong>Mineralization</strong> — converting captured CO₂ into manufactured limestone using reactive waste materials</li><li><strong>Marine CDR via wastewater alkalinity enhancement</strong> — converting organic carbon into inorganic carbon stored long-term in the ocean</li></ul><p>The fourth project is large-scale tropical forest restoration in Mexico, developed with Climate Impact Partners.</p><h2 id=why-it-matters>Why it matters<a hidden class=anchor aria-hidden=true href=#why-it-matters>#</a></h2><p>LEGO is doing something smart here: testing multiple pathways simultaneously instead of betting on one winner. At $7.9M total, this isn&rsquo;t a token gesture — it&rsquo;s a meaningful R&amp;D spend for a company still in learning mode on CDR.</p><p>The portfolio approach mirrors what we&rsquo;re seeing from other serious corporate buyers (Mercedes F1, Shopify, Microsoft). Nobody knows which CDR pathways will dominate at scale, so the smart move is diversification.</p><p>LEGO&rsquo;s Chief Sustainability Officer Annette Stube was refreshingly honest about where they are: &ldquo;This programme allows us to work with expert partners and contribute to solutions that may help scale effective climate action over time.&rdquo; No overclaiming. No &ldquo;net-zero by Tuesday.&rdquo;</p><h2 id=the-bigger-picture>The bigger picture<a hidden class=anchor aria-hidden=true href=#the-bigger-picture>#</a></h2><p>ClimeFi — the intermediary running these procurements — also <a href=https://carbonherald.com/climefi-publishes-2026-insights-on-the-durable-carbon-removal-market/>just published their 2026 market insights</a> showing that CDR supply is tightening fast. Only 52% of 2026 supply is still unreserved. Companies like LEGO that are building portfolios now are positioning themselves ahead of the squeeze.</p><p>CDR is still early. But corporate procurement rounds like this one are what turns laboratory science into commercial infrastructure. Every dollar of pre-purchase is a signal to startups that there&rsquo;s a market waiting.</p><p><strong>Source:</strong> <a href=https://esgnews.com/lego-group-commits-2-6m-to-carbon-removal-projects-with-climefi/>ESG News</a></p><hr><h3 id=-related-reading>🔗 Related Reading<a hidden class=anchor aria-hidden=true href=#-related-reading>#</a></h3><ul><li><a href=/posts/lego-bets-on-carbon-removal/>Lego Just Tripled Down on Carbon Removal — Here&rsquo;s What They&rsquo;re Buying</a></li><li><a href=/posts/climefi-2026-cdr-market-insights/>CDR Supply Is Tightening: Only 52% of 2026 Still Available</a></li><li><a href=/posts/mercedes-f1-cdr-portfolio/>Mercedes F1 Goes All-In on Carbon Removal — 7 New Projects Across 6 Pathways</a></li><li><a href=/posts/climefi-two-thirds-cdr-projects-commercial/>Two-Thirds of Durable CDR Projects Have Hit Commercialization</a></li></ul>

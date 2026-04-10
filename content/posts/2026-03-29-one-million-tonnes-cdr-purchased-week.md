@@ -1,54 +1,13 @@
 ---
 title: "Over 1 Million Tonnes of CDR Purchased in a Single Week"
-date: 2026-03-29
-slug: one-million-tonnes-cdr-purchased-week
-aliases: ["/s/171"]
-description: "More than a million tonnes of Carbon Dioxide Removal was purchased in a single week. A few years ago, that wasn't achieved in an entire year. This is what market maturation looks like."
+date: 2026-03-29T00:00:00Z
+description: "More than a million tonnes of Carbon Dioxide Removal was purchased in a single week. A few years ago, that wasn't achieved in an entire year. This is what marke"
+tags: ["news"]
+slug: "one-million-tonnes-cdr-purchased-week"
+author: "CaptainDrawdown"
 cover:
-  image: /images/posts/20260329-05.png
-pillar: "market"
-tags: ["CDR", "market", "data", "milestones"]
+  image: "/images/posts/one-million-tonnes-cdr-purchased-week.png"
+  alt: "Over 1 Million Tonnes of CDR Purchased in a Single Week"
+  hidden: false
 ---
-
-More than one million tonnes of Carbon Dioxide Removal purchased in a single week.
-
-Let that sit for a moment.
-
-A few years ago, that number wasn't reached in an entire year. The cumulative CDR market was measured in tens of thousands of tonnes — mainly Stripe's early purchases and a handful of others demonstrating there was such a thing as a voluntary CDR market at all.
-
-Now, in one week, more than a million tonnes changed hands.
-
-## What Changed
-
-The CDR market has been accelerating on several tracks simultaneously.
-
-**Biochar scaled.** Biochar is now the highest-volume CDR method on the market — cheaper than DAC or BiCRS, with Puro.earth and other registries issuing credits at scale. Cambodia (Arukah, just this week), Bolivia (Altitude-Empacar deal), the US, Europe — the supply chain has gone genuinely global.
-
-**Big buyers got serious.** Microsoft's landmark commitments — most recently a 1 million-unit biochar deal with Liferaft, and the $500M Vaulted Deep storage contract — demonstrated that corporate buyers would pursue scale at real volume. When Microsoft moves, others follow.
-
-**BECCS came online.** Stockholm Exergi's facility, now backed by Nasdaq and Adyen under the EU's [CRCF](/posts/eu-first-cdr-certification-standard/) framework, represents a new category of large-block issuance. Industrial facilities issuing hundreds of thousands of tonnes at once change what a "good week" means.
-
-**Government programs created floor demand.** Canada's standing offer, Microsoft's internal carbon tax, and corporate net-zero commitments with defined CDR line items mean there's now structural demand — not just opportunistic purchases.
-
-## "Slow, Then All at Once"
-
-That Hemingway line about bankruptcy applies to market transitions too. People who've been watching CDR for years often get frustrated by the slow pace. The unit economics don't work yet. The registries have inconsistent standards. The big volume is always just around the corner.
-
-Then the corner arrives.
-
-One million tonnes in a week isn't the end of the story. It's the beginning of a different story — one where CDR has to prove it can handle volume without compromising on quality. MRV rigor, credit permanence verification, registry standard-setting under volume pressure — these are the challenges that come next.
-
-But the volume is a prerequisite for all of them. You can't build robust market infrastructure without a market. We now have one.
-
----
-
-*Via [@kevinleecaster.bsky.social](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mi4uauqrfc2v) on Bluesky.*
-
----
-
-### 🔗 Related Reading
-
-- [Biochar: The Quiet Giant of Carbon Removal](/posts/biochar-quiet-giant-of-cdr/)
-- [Microsoft Bought 93% of All Carbon Removal Credits in 2025](/posts/microsoft-93-percent-cdr-credits/)
-- [Boeing Just Made Aviation's Biggest Carbon Removal Bet](/posts/boeing-carbonfuture-40000t-cdr-deal/)
-- [I Gave 819 CDR Companies a Health Check — Here's What I Found](/posts/cdr-directory-health-check-march-2026/)
+<p>More than one million tonnes of Carbon Dioxide Removal purchased in a single week.</p><p>Let that sit for a moment.</p><p>A few years ago, that number wasn&rsquo;t reached in an entire year. The cumulative CDR market was measured in tens of thousands of tonnes — mainly Stripe&rsquo;s early purchases and a handful of others demonstrating there was such a thing as a voluntary CDR market at all.</p><p>Now, in one week, more than a million tonnes changed hands.</p><h2 id=what-changed>What Changed<a hidden class=anchor aria-hidden=true href=#what-changed>#</a></h2><p>The CDR market has been accelerating on several tracks simultaneously.</p><p><strong>Biochar scaled.</strong> Biochar is now the highest-volume CDR method on the market — cheaper than DAC or BiCRS, with Puro.earth and other registries issuing credits at scale. Cambodia (Arukah, just this week), Bolivia (Altitude-Empacar deal), the US, Europe — the supply chain has gone genuinely global.</p><p><strong>Big buyers got serious.</strong> Microsoft&rsquo;s landmark commitments — most recently a 1 million-unit biochar deal with Liferaft, and the $500M Vaulted Deep storage contract — demonstrated that corporate buyers would pursue scale at real volume. When Microsoft moves, others follow.</p><p><strong>BECCS came online.</strong> Stockholm Exergi&rsquo;s facility, now backed by Nasdaq and Adyen under the EU&rsquo;s <a href=/posts/eu-first-cdr-certification-standard/>CRCF</a> framework, represents a new category of large-block issuance. Industrial facilities issuing hundreds of thousands of tonnes at once change what a &ldquo;good week&rdquo; means.</p><p><strong>Government programs created floor demand.</strong> Canada&rsquo;s standing offer, Microsoft&rsquo;s internal carbon tax, and corporate net-zero commitments with defined CDR line items mean there&rsquo;s now structural demand — not just opportunistic purchases.</p><h2 id=slow-then-all-at-once>&ldquo;Slow, Then All at Once&rdquo;<a hidden class=anchor aria-hidden=true href=#slow-then-all-at-once>#</a></h2><p>That Hemingway line about bankruptcy applies to market transitions too. People who&rsquo;ve been watching CDR for years often get frustrated by the slow pace. The unit economics don&rsquo;t work yet. The registries have inconsistent standards. The big volume is always just around the corner.</p><p>Then the corner arrives.</p><p>One million tonnes in a week isn&rsquo;t the end of the story. It&rsquo;s the beginning of a different story — one where CDR has to prove it can handle volume without compromising on quality. MRV rigor, credit permanence verification, registry standard-setting under volume pressure — these are the challenges that come next.</p><p>But the volume is a prerequisite for all of them. You can&rsquo;t build robust market infrastructure without a market. We now have one.</p><hr><p><em>Via <a href=https://bsky.app/profile/kevinleecaster.bsky.social/post/3mi4uauqrfc2v>@kevinleecaster.bsky.social</a> on Bluesky.</em></p><hr><h3 id=-related-reading>🔗 Related Reading<a hidden class=anchor aria-hidden=true href=#-related-reading>#</a></h3><ul><li><a href=/posts/biochar-quiet-giant-of-cdr/>Biochar: The Quiet Giant of Carbon Removal</a></li><li><a href=/posts/microsoft-93-percent-cdr-credits/>Microsoft Bought 93% of All Carbon Removal Credits in 2025</a></li><li><a href=/posts/boeing-carbonfuture-40000t-cdr-deal/>Boeing Just Made Aviation&rsquo;s Biggest Carbon Removal Bet</a></li><li><a href=/posts/cdr-directory-health-check-march-2026/>I Gave 819 CDR Companies a Health Check — Here&rsquo;s What I Found</a></li></ul>

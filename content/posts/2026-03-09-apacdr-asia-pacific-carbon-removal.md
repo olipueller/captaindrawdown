@@ -1,47 +1,13 @@
 ---
 title: "Asia-Pacific Finally Gets Its Own CDR Initiative"
 date: 2026-03-09T10:00:00+01:00
-slug: apacdr-asia-pacific-carbon-removal
-aliases: ["/s/38"]
-draft: false
-pillar: "global"
-tags: ["carbon removal", "Asia-Pacific", "policy", "Singapore"]
-categories: ["Policy"]
+description: "Here’s a stat that should bother anyone who thinks about CDR markets: Asia-Pacific accounts for roughly 50% of global CO₂ emissions and over 60% of the world’s "
+tags: ["news"]
+slug: "apacdr-asia-pacific-carbon-removal"
+author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/20260309-02.png"
-  alt: "Asia-Pacific CDR Takes Off — APACdr Initiative with 26 Organizations"
+  image: "/images/posts/apacdr-asia-pacific-carbon-removal.png"
+  alt: "Asia-Pacific Finally Gets Its Own CDR Initiative"
   hidden: false
 ---
-
-Here's a stat that should bother anyone who thinks about CDR markets: Asia-Pacific accounts for roughly **50% of global CO₂ emissions** and over **60% of the world's population**, yet it barely registers as a player in carbon removal markets.
-
-The Carbon Business Council and Emerald Climate just launched **APACdr** — a Singapore-anchored working group designed to change that.
-
-## What Is APACdr?
-
-It's a coalition bringing together policymakers, financial institutions, corporate buyers, project developers, and civil society leaders to build the CDR infrastructure that Asia-Pacific currently lacks. The inaugural session in January 2026 drew **26 organizations** spanning financial institutions, multinational corporations, carbon project developers, rating agencies, and non-profits.
-
-The priorities for 2026 are concrete:
-- **Portfolio-based procurement models** and blended pricing for CDR credits
-- **Demand aggregation mechanisms** to give project developers bankable offtake signals
-- **Integration with global carbon markets**
-- **Regional stakeholder education** to build understanding of CDR
-
-An APACdr Summit is planned during Ecosperity Week (May 18–21, 2026).
-
-## Why This Matters
-
-CDR to date has been overwhelmingly a North American and European story — in terms of technology development, policy frameworks, and corporate demand. But the geography of emissions doesn't care about where the buyers are. Asia-Pacific has enormous CDR potential: tropical weathering rates for [ERW](/posts/what-is-enhanced-weathering/), biomass abundance for biochar, geological storage sites, and growing corporate sustainability commitments.
-
-What it's lacked is the institutional plumbing — demand signals, regulatory clarity, procurement infrastructure — that turns potential into projects. APACdr is a first step toward building that plumbing.
-
-**Source:** [Carbon Herald](https://carbonherald.com/the-carbon-business-council-emerald-climate-back-removals-in-asia-pacific-with-new-apacdr-initiative/)
-
----
-
-### 🔗 Related Reading
-
-- [CDR Roundup: What's Moving in Carbon Removal (Feb 2026)](/posts/cdr-roundup-feb-2026/)
-- [West Virginia Bets on Biochar: Coal State Stacks Tax Credits for Carbon Removal](/posts/west-virginia-biochar-tax-credit/)
-- [The EU's Industrial Accelerator Act: What It Means for Carbon Removal](/posts/2026-03-05-eu-industrial-accelerator-act/)
-- [Canada Assembles Its CDR Dream Team With $100M Coalition](/posts/2026-03-09-canada-advance-carbon-removal-coalition/)
+<p>Here&rsquo;s a stat that should bother anyone who thinks about CDR markets: Asia-Pacific accounts for roughly <strong>50% of global CO₂ emissions</strong> and over <strong>60% of the world&rsquo;s population</strong>, yet it barely registers as a player in carbon removal markets.</p><p>The Carbon Business Council and Emerald Climate just launched <strong>APACdr</strong> — a Singapore-anchored working group designed to change that.</p><h2 id=what-is-apacdr>What Is APACdr?<a hidden class=anchor aria-hidden=true href=#what-is-apacdr>#</a></h2><p>It&rsquo;s a coalition bringing together policymakers, financial institutions, corporate buyers, project developers, and civil society leaders to build the CDR infrastructure that Asia-Pacific currently lacks. The inaugural session in January 2026 drew <strong>26 organizations</strong> spanning financial institutions, multinational corporations, carbon project developers, rating agencies, and non-profits.</p><p>The priorities for 2026 are concrete:</p><ul><li><strong>Portfolio-based procurement models</strong> and blended pricing for CDR credits</li><li><strong>Demand aggregation mechanisms</strong> to give project developers bankable offtake signals</li><li><strong>Integration with global carbon markets</strong></li><li><strong>Regional stakeholder education</strong> to build understanding of CDR</li></ul><p>An APACdr Summit is planned during Ecosperity Week (May 18–21, 2026).</p><h2 id=why-this-matters>Why This Matters<a hidden class=anchor aria-hidden=true href=#why-this-matters>#</a></h2><p>CDR to date has been overwhelmingly a North American and European story — in terms of technology development, policy frameworks, and corporate demand. But the geography of emissions doesn&rsquo;t care about where the buyers are. Asia-Pacific has enormous CDR potential: tropical weathering rates for <a href=/posts/what-is-enhanced-weathering/>ERW</a>, biomass abundance for biochar, geological storage sites, and growing corporate sustainability commitments.</p><p>What it&rsquo;s lacked is the institutional plumbing — demand signals, regulatory clarity, procurement infrastructure — that turns potential into projects. APACdr is a first step toward building that plumbing.</p><p><strong>Source:</strong> <a href=https://carbonherald.com/the-carbon-business-council-emerald-climate-back-removals-in-asia-pacific-with-new-apacdr-initiative/>Carbon Herald</a></p><hr><h3 id=-related-reading>🔗 Related Reading<a hidden class=anchor aria-hidden=true href=#-related-reading>#</a></h3><ul><li><a href=/posts/cdr-roundup-feb-2026/>CDR Roundup: What&rsquo;s Moving in Carbon Removal (Feb 2026)</a></li><li><a href=/posts/west-virginia-biochar-tax-credit/>West Virginia Bets on Biochar: Coal State Stacks Tax Credits for Carbon Removal</a></li><li><a href=/posts/eu-industrial-accelerator-act/>The EU&rsquo;s Industrial Accelerator Act: What It Means for Carbon Removal</a></li><li><a href=/posts/canada-advance-carbon-removal-coalition/>Canada Assembles Its CDR Dream Team With $100M Coalition</a></li></ul>

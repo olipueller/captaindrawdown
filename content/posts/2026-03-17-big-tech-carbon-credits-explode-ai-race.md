@@ -1,73 +1,13 @@
 ---
 title: "Big Tech Carbon Credit Purchases Explode Amid AI Race"
-description: "Amazon, Google, Meta, and Microsoft bought 68.4 million permanent carbon removal credits in 2025 — up 181% year-on-year. The AI buildout is making CDR unavoidable."
 date: 2026-03-17T08:15:00+01:00
-slug: big-tech-carbon-credits-explode-ai-race
-aliases: ["/s/94"]
-pillar: "market"
-tags: ["CDR", "carbon removal", "carbon credits", "Big Tech", "Microsoft", "AI", "DAC", "market"]
-summary: "Big Tech's permanent carbon removal credit purchases jumped 181% in 2025 to 68.4 million. The AI buildout is turning CDR from a nice-to-have into a structural necessity."
-draft: false
+description: "Amazon, Google, Meta, and Microsoft bought 68.4 million permanent carbon removal credits in 2025 — up 181% year-on-year. The AI buildout is making CDR unavoidab"
+tags: ["news"]
+slug: "big-tech-carbon-credits-explode-ai-race"
+author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/20260317-01.png"
+  image: "/images/posts/big-tech-carbon-credits-explode-ai-race.png"
   alt: "Big Tech Carbon Credit Purchases Explode Amid AI Race"
-  relative: false
+  hidden: false
 ---
-
-Sixty-eight point four million. That's how many permanent carbon removal credits Amazon, Google, Meta, and Microsoft purchased in 2025, according to data compiled by carbon credit management platform [Ceezer](https://www.cnbc.com/2026/03/16/microsoft-carbon-credits-ai-tech-google-meta.html) for CNBC.
-
-That's a 181% jump from 2024. And 2024 was already a 104% increase over 2023.
-
-## The Numbers Tell the Story
-
-The trajectory is hard to ignore:
-
-- **2022:** 14,200 credits (essentially a rounding error)
-- **2023:** 11.92 million (the post-ChatGPT awakening)
-- **2024:** 24.4 million (+104%)
-- **2025:** 68.4 million (+181%)
-
-This isn't linear growth. It's exponential — and it maps almost perfectly onto the AI infrastructure buildout. The four companies are eyeing a combined ~$700 billion in AI spending this year, mostly on data centers that consume staggering amounts of energy and water.
-
-Microsoft's chief sustainability officer Melanie Nakagawa told CNBC the company is focused on "reducing emissions and removing what it can't" as it targets being carbon negative by 2030. Microsoft alone drove the bulk of these purchases — Opna CEO Shilpika Gautam called the carbon removal market "basically Microsoft."
-
-## Net Zero Is "Impossible" Without CDR
-
-That's not us being dramatic. That's Ceezer CEO Magnus Drewelies, speaking to CNBC. Due to tight clean energy supply relative to AI demand, Big Tech literally cannot hit net zero through emissions reductions alone. Carbon removal is no longer a CSR project — it's a structural requirement.
-
-Ben Rubin of the Carbon Business Council framed it as "the beginning of a structural shift" — companies moving from small demonstration purchases to multi-year offtake agreements. They're securing future supply, sending demand signals, and addressing residual emissions in ways that matter for the market's growth trajectory.
-
-## The Uncomfortable Part
-
-There's a tension here worth naming. These same companies are spending hundreds of billions building AI infrastructure that's pushing their emissions higher. Then they're buying carbon removal credits to offset those emissions. Gautam put it bluntly: the buying spree "conflicts with their conviction and their desire to build better."
-
-The optimistic read: hyperscalers reacted "relatively quickly" to rising AI emissions by shifting to renewable energy, and carbon credits cover what renewables can't yet reach. The purchases aren't a substitute for clean energy — they're a complement.
-
-The cynical read: Big Tech is building a massive new source of emissions and papering over it with credits.
-
-The realistic read: probably both. And the CDR market doesn't much care about the motivation. What matters is that demand is real, it's growing fast, and it's funding the learning curves that bring costs down for everyone.
-
-## What This Means for CDR
-
-68.4 million credits at even conservative pricing represents billions of dollars flowing into carbon removal projects — DAC, [enhanced weathering](/posts/what-is-enhanced-weathering/), biomass carbon removal. That capital funds deployment, which drives learning curves, which brings costs down.
-
-We wrote two weeks ago about [Microsoft buying 93% of all CDR credits](/posts/microsoft-93-percent-cdr-credits/). These new numbers show the market is diversifying. Amazon, Google, and Meta are all scaling up. More buyers means a healthier, more resilient market.
-
-Drewelies noted that net-zero commitments predated the AI surge — credit purchases would have grown regardless. But AI "very practically underpinned the need for CDR as a quick and flexible instrument to deal with emission increases."
-
-The irony of AI accelerating both the climate problem and the climate solution isn't lost on anyone. But if the result is a multi-billion-dollar CDR market that reaches the scale scientists say we need — the irony is one we can live with.
-
----
-
-*Source: [CNBC](https://www.cnbc.com/2026/03/16/microsoft-carbon-credits-ai-tech-google-meta.html), citing data from Ceezer, Allied Offset, and CDR.fyi.*
-
----
-
----
-
-### 🔗 Related Reading
-
-- [Microsoft Bought 93% of All Carbon Removal Credits in 2025](/posts/microsoft-93-percent-cdr-credits/)
-- [Biochar: The Quiet Giant of Carbon Removal](/posts/biochar-quiet-giant-of-cdr/)
-- [Carbon Removal Gets Its Own Stage at the World's Biggest Energy Conference](/posts/ceraweek-2026-carbon-removal-energy-conference/)
-- [Sustaera Claims 90%+ Efficiency in DAC — 3x Cheaper Than Incumbents](/posts/sustaera-dac-breakthrough-3x-cheaper/)
+<p>Sixty-eight point four million. That&rsquo;s how many permanent carbon removal credits Amazon, Google, Meta, and Microsoft purchased in 2025, according to data compiled by carbon credit management platform <a href=https://www.cnbc.com/2026/03/16/microsoft-carbon-credits-ai-tech-google-meta.html>Ceezer</a> for CNBC.</p><p>That&rsquo;s a 181% jump from 2024. And 2024 was already a 104% increase over 2023.</p><h2 id=the-numbers-tell-the-story>The Numbers Tell the Story<a hidden class=anchor aria-hidden=true href=#the-numbers-tell-the-story>#</a></h2><p>The trajectory is hard to ignore:</p><ul><li><strong>2022:</strong> 14,200 credits (essentially a rounding error)</li><li><strong>2023:</strong> 11.92 million (the post-ChatGPT awakening)</li><li><strong>2024:</strong> 24.4 million (+104%)</li><li><strong>2025:</strong> 68.4 million (+181%)</li></ul><p>This isn&rsquo;t linear growth. It&rsquo;s exponential — and it maps almost perfectly onto the AI infrastructure buildout. The four companies are eyeing a combined ~$700 billion in AI spending this year, mostly on data centers that consume staggering amounts of energy and water.</p><p>Microsoft&rsquo;s chief sustainability officer Melanie Nakagawa told CNBC the company is focused on &ldquo;reducing emissions and removing what it can&rsquo;t&rdquo; as it targets being carbon negative by 2030. Microsoft alone drove the bulk of these purchases — Opna CEO Shilpika Gautam called the carbon removal market &ldquo;basically Microsoft.&rdquo;</p><h2 id=net-zero-is-impossible-without-cdr>Net Zero Is &ldquo;Impossible&rdquo; Without CDR<a hidden class=anchor aria-hidden=true href=#net-zero-is-impossible-without-cdr>#</a></h2><p>That&rsquo;s not us being dramatic. That&rsquo;s Ceezer CEO Magnus Drewelies, speaking to CNBC. Due to tight clean energy supply relative to AI demand, Big Tech literally cannot hit net zero through emissions reductions alone. Carbon removal is no longer a CSR project — it&rsquo;s a structural requirement.</p><p>Ben Rubin of the Carbon Business Council framed it as &ldquo;the beginning of a structural shift&rdquo; — companies moving from small demonstration purchases to multi-year offtake agreements. They&rsquo;re securing future supply, sending demand signals, and addressing residual emissions in ways that matter for the market&rsquo;s growth trajectory.</p><h2 id=the-uncomfortable-part>The Uncomfortable Part<a hidden class=anchor aria-hidden=true href=#the-uncomfortable-part>#</a></h2><p>There&rsquo;s a tension here worth naming. These same companies are spending hundreds of billions building AI infrastructure that&rsquo;s pushing their emissions higher. Then they&rsquo;re buying carbon removal credits to offset those emissions. Gautam put it bluntly: the buying spree &ldquo;conflicts with their conviction and their desire to build better.&rdquo;</p><p>The optimistic read: hyperscalers reacted &ldquo;relatively quickly&rdquo; to rising AI emissions by shifting to renewable energy, and carbon credits cover what renewables can&rsquo;t yet reach. The purchases aren&rsquo;t a substitute for clean energy — they&rsquo;re a complement.</p><p>The cynical read: Big Tech is building a massive new source of emissions and papering over it with credits.</p><p>The realistic read: probably both. And the CDR market doesn&rsquo;t much care about the motivation. What matters is that demand is real, it&rsquo;s growing fast, and it&rsquo;s funding the learning curves that bring costs down for everyone.</p><h2 id=what-this-means-for-cdr>What This Means for CDR<a hidden class=anchor aria-hidden=true href=#what-this-means-for-cdr>#</a></h2><p>68.4 million credits at even conservative pricing represents billions of dollars flowing into carbon removal projects — DAC, <a href=/posts/what-is-enhanced-weathering/>enhanced weathering</a>, biomass carbon removal. That capital funds deployment, which drives learning curves, which brings costs down.</p><p>We wrote two weeks ago about <a href=/posts/microsoft-93-percent-cdr-credits/>Microsoft buying 93% of all CDR credits</a>. These new numbers show the market is diversifying. Amazon, Google, and Meta are all scaling up. More buyers means a healthier, more resilient market.</p><p>Drewelies noted that net-zero commitments predated the AI surge — credit purchases would have grown regardless. But AI &ldquo;very practically underpinned the need for CDR as a quick and flexible instrument to deal with emission increases.&rdquo;</p><p>The irony of AI accelerating both the climate problem and the climate solution isn&rsquo;t lost on anyone. But if the result is a multi-billion-dollar CDR market that reaches the scale scientists say we need — the irony is one we can live with.</p><hr><p><em>Source: <a href=https://www.cnbc.com/2026/03/16/microsoft-carbon-credits-ai-tech-google-meta.html>CNBC</a>, citing data from Ceezer, Allied Offset, and CDR.fyi.</em></p><hr><hr><h3 id=-related-reading>🔗 Related Reading<a hidden class=anchor aria-hidden=true href=#-related-reading>#</a></h3><ul><li><a href=/posts/microsoft-93-percent-cdr-credits/>Microsoft Bought 93% of All Carbon Removal Credits in 2025</a></li><li><a href=/posts/biochar-quiet-giant-of-cdr/>Biochar: The Quiet Giant of Carbon Removal</a></li><li><a href=/posts/ceraweek-2026-carbon-removal-energy-conference/>Carbon Removal Gets Its Own Stage at the World&rsquo;s Biggest Energy Conference</a></li><li><a href=/posts/sustaera-dac-breakthrough-3x-cheaper/>Sustaera Claims 90%+ Efficiency in DAC — 3x Cheaper Than Incumbents</a></li></ul>

@@ -1,82 +1,13 @@
 ---
 title: "CDR Misconception #3: Enhanced Weathering Is Just Spreading Rocks — It Can't Scale"
 date: 2026-03-27T07:00:00+01:00
-slug: cdr-misconception-03
-aliases: ["/s/159"]
-pillar: "community"
-tags: ["misconception-series", "enhanced-weathering", "carbon-removal", "CDR"]
-description: "This week's CDR Misconception of the Week: Enhanced weathering sounds primitive, but it's a sophisticated geochemical process with real gigaton potential. Here's why the 'just spreading rocks' dismissal doesn't hold up."
+description: "This week's CDR Misconception of the Week: Enhanced weathering sounds primitive, but it's a sophisticated geochemical process with real gigaton potential. Here'"
+tags: ["news"]
+slug: "cdr-misconception-03"
+author: "CaptainDrawdown"
 cover:
-  image: /images/posts/misconception-03.png
-  alt: "CDR Misconception #3: Enhanced Weathering Can't Scale"
-hiddenInHomeList: false
+  image: "/images/posts/cdr-misconception-03.png"
+  alt: "CDR Misconception #3: Enhanced Weathering Is Just Spreading Rocks — It Can't Scale"
+  hidden: false
 ---
-
-Every week, CaptainDrawdown takes on one widespread misconception about carbon removal. This week: **[enhanced weathering](/posts/what-is-enhanced-weathering/)**.
-
-The myth: *It's just spreading crushed rock on fields. How could something that primitive ever work at gigaton scale?*
-
-The reality is considerably more interesting — and more promising.
-
-## What Enhanced Weathering Actually Is
-
-Enhanced weathering (EW) accelerates a natural process that has regulated Earth's climate for hundreds of millions of years. When silicate rocks like basalt weather, they react with CO₂ dissolved in rainwater to form bicarbonate ions. Those ions eventually wash to sea, where the carbon is effectively locked away for geological timescales — think thousands to millions of years.
-
-The "enhanced" part means mining, crushing, and spreading these rocks — particularly basalt — on agricultural land to dramatically speed up this natural process. Instead of waiting a million years for a mountain to erode, you're getting the chemistry done in years to decades.
-
-## The Scale Argument Deserves Scrutiny
-
-Critics are right that mining and crushing rock at gigaton scale is a massive undertaking. But let's put it in context:
-
-The global mining and aggregate industry already moves roughly **50 billion tonnes** of material per year. We're talking about redirecting a fraction of existing industrial capacity, not building something from scratch. Basalt deposits exist in most agricultural regions — the Columbia River Basin in the US, the Deccan Traps in India, large swaths of sub-Saharan Africa. The feedstock problem is largely solved by geology.
-
-A 2020 paper in *Nature Plants* ([Taylor et al.](https://www.nature.com/articles/s41477-020-00744-y)) estimated that enhanced weathering on agricultural land could remove **2 gigatonnes of CO₂ per year** with global cropland application — with ranges up to 4.9 Gt/year under optimistic assumptions. That's not a rounding error. That's a meaningful fraction of the roughly 10 Gt/year of CDR the IPCC says we need by mid-century.
-
-## The Co-Benefits Are Substantial
-
-Here's where enhanced weathering departs from most other CDR approaches: it doesn't just remove carbon, it *improves farm economics*.
-
-Crushed basalt:
-- Replenishes silicon, calcium, magnesium, and potassium — nutrients depleted by intensive agriculture
-- Reduces soil acidity (liming effect), cutting the need for agricultural lime applications
-- In trials, has shown yield improvements of 10–40% for crops like sugarcane and maize
-
-This means farmers have an economic incentive to apply basalt independent of carbon markets. The carbon removal is, in a sense, a free co-benefit of better agricultural practice. This is rare in the CDR space.
-
-## Where the Real Challenges Are
-
-Honesty matters here. Enhanced weathering faces genuine hurdles:
-
-**Measurement, Reporting, and Verification (MRV)** is hard. You can't simply weigh the carbon removed — you need soil sampling, leachate analysis, and geochemical modeling to demonstrate actual removals. Companies like [UNDO](https://www.un-do.com/) and [Lithos Carbon](https://www.lithoscarbon.com/) are building out rigorous MRV frameworks, but the science is still maturing.
-
-**Logistics and energy** matter too. The crushing and transport of rock has a carbon footprint that eats into net removals. Current estimates suggest EW achieves roughly **10:1 to 20:1 removal-to-emission ratios** at current energy mixes — strong, but it needs to improve as the approach scales.
-
-**Geographic heterogeneity** complicates modeling. Weathering rates depend on temperature, rainfall, soil chemistry, and rock particle size. What works in tropical Brazil may behave differently in temperate Scotland.
-
-## The Current State of Play
-
-The EW field has moved from academic papers to real-world deployments remarkably quickly:
-
-- **UNDO** has spread over 100,000 tonnes of basalt across farms in the UK, US, and Brazil
-- **Lithos Carbon** has pilots across US corn belt farms with detailed soil carbon monitoring
-- **Eion** is operating in Canada with a focus on MRV standardization
-- **Aarhus University** published field trial results in 2024 showing measurable bicarbonate export consistent with modeled removals
-
-The voluntary carbon market is buying early EW credits — Stripe, Microsoft, and Shopify have all made purchases. These aren't charity purchases; they're funding the MRV science that will make EW credible at scale.
-
-## The Verdict
-
-Enhanced weathering is not simple, and it's not primitive. It's applied geochemistry at agricultural scale, with co-benefits that could make it one of the more economically durable CDR approaches. The "just rocks" framing misses nearly everything interesting about it.
-
-The legitimate questions are about MRV rigor, energy costs, and deployment logistics — not whether it's technologically coherent. It is.
-
----
-
-*This is part of CaptainDrawdown's weekly Misconception of the Week series. Each Friday, we take on one widespread belief about carbon removal that deserves a harder look. Follow along on [Bluesky](https://bsky.app/profile/captaindrawdown.com), [X](https://x.com/CaptainDrawdown), and [LinkedIn](https://www.linkedin.com/company/captaindrawdown/).*
-
----
-
-### 🔗 Related Reading
-
-- [🌍 Dal Italiano: Biochar spiegato a chi non sa ancora cos'è](/posts/biochar-italian-good-in-town-cdr-carbon-removal/)
-- [Steel and Cement Make Wastewater That Can Permanently Sequester 30 Million Tonnes of CO₂](/posts/steel-cement-alkaline-wastewater-carbon-sequestration-30mt/)
+<p>Every week, CaptainDrawdown takes on one widespread misconception about carbon removal. This week: <strong><a href=/posts/what-is-enhanced-weathering/>enhanced weathering</a></strong>.</p><p>The myth: <em>It&rsquo;s just spreading crushed rock on fields. How could something that primitive ever work at gigaton scale?</em></p><p>The reality is considerably more interesting — and more promising.</p><h2 id=what-enhanced-weathering-actually-is>What Enhanced Weathering Actually Is<a hidden class=anchor aria-hidden=true href=#what-enhanced-weathering-actually-is>#</a></h2><p>Enhanced weathering (EW) accelerates a natural process that has regulated Earth&rsquo;s climate for hundreds of millions of years. When silicate rocks like basalt weather, they react with CO₂ dissolved in rainwater to form bicarbonate ions. Those ions eventually wash to sea, where the carbon is effectively locked away for geological timescales — think thousands to millions of years.</p><p>The &ldquo;enhanced&rdquo; part means mining, crushing, and spreading these rocks — particularly basalt — on agricultural land to dramatically speed up this natural process. Instead of waiting a million years for a mountain to erode, you&rsquo;re getting the chemistry done in years to decades.</p><h2 id=the-scale-argument-deserves-scrutiny>The Scale Argument Deserves Scrutiny<a hidden class=anchor aria-hidden=true href=#the-scale-argument-deserves-scrutiny>#</a></h2><p>Critics are right that mining and crushing rock at gigaton scale is a massive undertaking. But let&rsquo;s put it in context:</p><p>The global mining and aggregate industry already moves roughly <strong>50 billion tonnes</strong> of material per year. We&rsquo;re talking about redirecting a fraction of existing industrial capacity, not building something from scratch. Basalt deposits exist in most agricultural regions — the Columbia River Basin in the US, the Deccan Traps in India, large swaths of sub-Saharan Africa. The feedstock problem is largely solved by geology.</p><p>A 2020 paper in <em>Nature Plants</em> (<a href=https://www.nature.com/articles/s41477-020-00744-y>Taylor et al.</a>) estimated that enhanced weathering on agricultural land could remove <strong>2 gigatonnes of CO₂ per year</strong> with global cropland application — with ranges up to 4.9 Gt/year under optimistic assumptions. That&rsquo;s not a rounding error. That&rsquo;s a meaningful fraction of the roughly 10 Gt/year of CDR the IPCC says we need by mid-century.</p><h2 id=the-co-benefits-are-substantial>The Co-Benefits Are Substantial<a hidden class=anchor aria-hidden=true href=#the-co-benefits-are-substantial>#</a></h2><p>Here&rsquo;s where enhanced weathering departs from most other CDR approaches: it doesn&rsquo;t just remove carbon, it <em>improves farm economics</em>.</p><p>Crushed basalt:</p><ul><li>Replenishes silicon, calcium, magnesium, and potassium — nutrients depleted by intensive agriculture</li><li>Reduces soil acidity (liming effect), cutting the need for agricultural lime applications</li><li>In trials, has shown yield improvements of 10–40% for crops like sugarcane and maize</li></ul><p>This means farmers have an economic incentive to apply basalt independent of carbon markets. The carbon removal is, in a sense, a free co-benefit of better agricultural practice. This is rare in the CDR space.</p><h2 id=where-the-real-challenges-are>Where the Real Challenges Are<a hidden class=anchor aria-hidden=true href=#where-the-real-challenges-are>#</a></h2><p>Honesty matters here. Enhanced weathering faces genuine hurdles:</p><p><strong>Measurement, Reporting, and Verification (MRV)</strong> is hard. You can&rsquo;t simply weigh the carbon removed — you need soil sampling, leachate analysis, and geochemical modeling to demonstrate actual removals. Companies like <a href=https://www.un-do.com/>UNDO</a> and <a href=https://www.lithoscarbon.com/>Lithos Carbon</a> are building out rigorous MRV frameworks, but the science is still maturing.</p><p><strong>Logistics and energy</strong> matter too. The crushing and transport of rock has a carbon footprint that eats into net removals. Current estimates suggest EW achieves roughly <strong>10:1 to 20:1 removal-to-emission ratios</strong> at current energy mixes — strong, but it needs to improve as the approach scales.</p><p><strong>Geographic heterogeneity</strong> complicates modeling. Weathering rates depend on temperature, rainfall, soil chemistry, and rock particle size. What works in tropical Brazil may behave differently in temperate Scotland.</p><h2 id=the-current-state-of-play>The Current State of Play<a hidden class=anchor aria-hidden=true href=#the-current-state-of-play>#</a></h2><p>The EW field has moved from academic papers to real-world deployments remarkably quickly:</p><ul><li><strong>UNDO</strong> has spread over 100,000 tonnes of basalt across farms in the UK, US, and Brazil</li><li><strong>Lithos Carbon</strong> has pilots across US corn belt farms with detailed soil carbon monitoring</li><li><strong>Eion</strong> is operating in Canada with a focus on MRV standardization</li><li><strong>Aarhus University</strong> published field trial results in 2024 showing measurable bicarbonate export consistent with modeled removals</li></ul><p>The voluntary carbon market is buying early EW credits — Stripe, Microsoft, and Shopify have all made purchases. These aren&rsquo;t charity purchases; they&rsquo;re funding the MRV science that will make EW credible at scale.</p><h2 id=the-verdict>The Verdict<a hidden class=anchor aria-hidden=true href=#the-verdict>#</a></h2><p>Enhanced weathering is not simple, and it&rsquo;s not primitive. It&rsquo;s applied geochemistry at agricultural scale, with co-benefits that could make it one of the more economically durable CDR approaches. The &ldquo;just rocks&rdquo; framing misses nearly everything interesting about it.</p><p>The legitimate questions are about MRV rigor, energy costs, and deployment logistics — not whether it&rsquo;s technologically coherent. It is.</p><hr><p><em>This is part of CaptainDrawdown&rsquo;s weekly Misconception of the Week series. Each Friday, we take on one widespread belief about carbon removal that deserves a harder look. Follow along on <a href=https://bsky.app/profile/captaindrawdown.com>Bluesky</a>, <a href=https://x.com/CaptainDrawdown>X</a>, and <a href=https://www.linkedin.com/company/captaindrawdown/>LinkedIn</a>.</em></p><hr><h3 id=-related-reading>🔗 Related Reading<a hidden class=anchor aria-hidden=true href=#-related-reading>#</a></h3><ul><li><a href=/posts/biochar-italian-good-in-town-cdr-carbon-removal/>🌍 Dal Italiano: Biochar spiegato a chi non sa ancora cos&rsquo;è</a></li><li><a href=/posts/steel-cement-alkaline-wastewater-carbon-sequestration-30mt/>Steel and Cement Make Wastewater That Can Permanently Sequester 30 Million Tonnes of CO₂</a></li></ul>

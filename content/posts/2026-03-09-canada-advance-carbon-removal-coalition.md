@@ -1,43 +1,13 @@
 ---
 title: "Canada Assembles Its CDR Dream Team With $100M Coalition"
 date: 2026-03-09T08:00:00+01:00
-slug: canada-advance-carbon-removal-coalition
-aliases: ["/s/39"]
-draft: false
-pillar: "global"
-tags: ["carbon removal", "Canada", "policy", "investment"]
-categories: ["Market"]
+description: "Canada just made one of the boldest institutional moves in CDR to date. BMO, RBC, Shopify, Vancity, ClimeFi, NorthX, and the federal government have joined forc"
+tags: ["news"]
+slug: "canada-advance-carbon-removal-coalition"
+author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/20260309-01.png"
-  alt: "Canada Goes All-In on CDR — $100M Coalition with BMO, RBC, Shopify"
+  image: "/images/posts/canada-advance-carbon-removal-coalition.png"
+  alt: "Canada Assembles Its CDR Dream Team With $100M Coalition"
   hidden: false
 ---
-
-Canada just made one of the boldest institutional moves in CDR to date. BMO, RBC, Shopify, Vancity, ClimeFi, NorthX, and the federal government have joined forces under the new **Advance Carbon Removal Coalition**, with a target of attracting **$100 million in project investments by 2030**.
-
-The coalition was announced at an Ottawa conference hosted by Carbon Removal Canada. Together, the partners have already contributed $75 million in financing to the CDR industry.
-
-## Why Canada?
-
-"When it comes to carbon removal, Canada's hot," says founding director Ed Whittingham. And the pitch is compelling: suitable geology for underground CO₂ storage, extensive coastlines for ocean-based approaches, abundant biomass, sophisticated capital markets, and a federal government that's designed regulatory frameworks — including industrial carbon pricing and investment tax credits — specifically for CDR.
-
-The coalition aims to build networks connecting domestic and international investors with CDR projects across the country, spanning direct air capture, biomass carbon removal, and direct ocean capture.
-
-## The Market Opportunity
-
-McKinsey estimates the global CDR market could reach **US$1.2 trillion by 2050**. Canada's bet is that by moving early on institutional infrastructure — finance, regulation, demand signals — it can capture an outsized share of that market.
-
-This coalition model is worth watching. Rather than relying on a single massive government program (see: the US DAC Hubs saga), Canada is building a multi-stakeholder ecosystem. Banks bring capital markets expertise. Shopify brings corporate demand credibility. The federal government provides the policy guardrails.
-
-CDI has [long argued](https://www.carbon-drawdown.de/blog/2026-2-24-cdr-must-shift-from-speed-amp-scale-to-prove-amp-learn) that CDR needs to shift from "speed and scale" rhetoric to "prove and learn" — and a coalition that blends public policy with private capital and corporate buyers is precisely the kind of infrastructure that makes that shift possible.
-
-**Source:** [The Globe and Mail](https://www.theglobeandmail.com/business/article-carbon-removal-coalition-forms-with-goal-of-attracting-100-million-in/)
-
----
-
-### 🔗 Related Reading
-
-- [IEA Report: Carbon Removal Is Now One of the Hottest VC Categories in Energy](/posts/2026-03-08-iea-cdr-top-vc-bet/)
-- [$1.2 Billion in US DAC Hub Funding: Cancelled. What Happens Now?](/posts/2026-03-08-us-dac-hub-funding-cancelled/)
-- [CDR Roundup: What's Moving in Carbon Removal (Feb 2026)](/posts/cdr-roundup-feb-2026/)
-- [Climeworks Opens Calgary HQ — Cold-Climate DAC Testing by Fall 2026](/posts/climeworks-calgary-hq-cold-climate-dac/)
+<p>Canada just made one of the boldest institutional moves in CDR to date. BMO, RBC, Shopify, Vancity, ClimeFi, NorthX, and the federal government have joined forces under the new <strong>Advance Carbon Removal Coalition</strong>, with a target of attracting <strong>$100 million in project investments by 2030</strong>.</p><p>The coalition was announced at an Ottawa conference hosted by Carbon Removal Canada. Together, the partners have already contributed $75 million in financing to the CDR industry.</p><h2 id=why-canada>Why Canada?<a hidden class=anchor aria-hidden=true href=#why-canada>#</a></h2><p>&ldquo;When it comes to carbon removal, Canada&rsquo;s hot,&rdquo; says founding director Ed Whittingham. And the pitch is compelling: suitable geology for underground CO₂ storage, extensive coastlines for ocean-based approaches, abundant biomass, sophisticated capital markets, and a federal government that&rsquo;s designed regulatory frameworks — including industrial carbon pricing and investment tax credits — specifically for CDR.</p><p>The coalition aims to build networks connecting domestic and international investors with CDR projects across the country, spanning direct air capture, biomass carbon removal, and direct ocean capture.</p><h2 id=the-market-opportunity>The Market Opportunity<a hidden class=anchor aria-hidden=true href=#the-market-opportunity>#</a></h2><p>McKinsey estimates the global CDR market could reach <strong>US$1.2 trillion by 2050</strong>. Canada&rsquo;s bet is that by moving early on institutional infrastructure — finance, regulation, demand signals — it can capture an outsized share of that market.</p><p>This coalition model is worth watching. Rather than relying on a single massive government program (see: the US DAC Hubs saga), Canada is building a multi-stakeholder ecosystem. Banks bring capital markets expertise. Shopify brings corporate demand credibility. The federal government provides the policy guardrails.</p><p>CDI has <a href=https://www.carbon-drawdown.de/blog/2026-2-24-cdr-must-shift-from-speed-amp-scale-to-prove-amp-learn>long argued</a> that CDR needs to shift from &ldquo;speed and scale&rdquo; rhetoric to &ldquo;prove and learn&rdquo; — and a coalition that blends public policy with private capital and corporate buyers is precisely the kind of infrastructure that makes that shift possible.</p><p><strong>Source:</strong> <a href=https://www.theglobeandmail.com/business/article-carbon-removal-coalition-forms-with-goal-of-attracting-100-million-in/>The Globe and Mail</a></p><hr><h3 id=-related-reading>🔗 Related Reading<a hidden class=anchor aria-hidden=true href=#-related-reading>#</a></h3><ul><li><a href=/posts/iea-cdr-top-vc-bet/>IEA Report: Carbon Removal Is Now One of the Hottest VC Categories in Energy</a></li><li><a href=/posts/us-dac-hub-funding-cancelled/>$1.2 Billion in US DAC Hub Funding: Cancelled. What Happens Now?</a></li><li><a href=/posts/cdr-roundup-feb-2026/>CDR Roundup: What&rsquo;s Moving in Carbon Removal (Feb 2026)</a></li><li><a href=/posts/climeworks-calgary-hq-cold-climate-dac/>Climeworks Opens Calgary HQ — Cold-Climate DAC Testing by Fall 2026</a></li></ul>

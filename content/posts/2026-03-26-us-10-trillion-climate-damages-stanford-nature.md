@@ -1,74 +1,13 @@
 ---
 title: "Stanford Quantified the Cost of Delay on Carbon Removal. It's $10 Trillion."
-date: 2026-03-26
-slug: us-10-trillion-climate-damages-stanford-nature
-aliases: ["/s/153"]
-description: "A new Stanford study in Nature finds immediate carbon removal would eliminate all climate damages — but a 25-year delay cuts that benefit in half. The US alone has caused $10 trillion in global damages since 1990."
-tags: ["cdr", "carbon removal", "climate damages", "stanford", "nature", "research", "economics"]
-pillar: science
-color_scheme: dark
+date: 2026-03-26T00:00:00Z
+description: "A new Stanford study in Nature finds immediate carbon removal would eliminate all climate damages — but a 25-year delay cuts that benefit in half. The US alone "
+tags: ["news"]
+slug: "us-10-trillion-climate-damages-stanford-nature"
+author: "CaptainDrawdown"
 cover:
-  image: /images/posts/20260326-05.png
+  image: "/images/posts/us-10-trillion-climate-damages-stanford-nature.png"
+  alt: "Stanford Quantified the Cost of Delay on Carbon Removal. It's $10 Trillion."
+  hidden: false
 ---
-
-Immediate carbon removal would eliminate all climate damages. Delay it 25 years and you only get half the benefit. That's the headline finding from a new Stanford study published in *Nature*, and it's the most powerful economic argument for CDR deployment I've seen.
-
-The researchers built a framework linking individual emissions to actual, quantifiable global damages. The numbers are staggering, specific, and uncomfortable.
-
-## The damage ledger
-
-Since 1990, US emissions have caused **$10 trillion in global damages**. Not theoretical future costs — realized economic harm distributed across the planet:
-
-- **$1.39 trillion** in damages to the EU
-- **$500 billion** to India
-- **$330 billion** to Brazil
-
-The US isn't just an emitter. It's the source of measurable economic destruction in specific countries, with specific dollar amounts attached.
-
-The irony: the US itself has suffered **$16.2 trillion** in damages from *all* global emissions — including **$2.97 trillion** from its own. America is simultaneously the biggest damager and one of the biggest damaged.
-
-## The exponential cost of delay
-
-Here's where CDR people need to pay attention.
-
-One tonne of CO₂ emitted in 1990 caused **$180 in damages by 2020**. That same tonne will cause **$1,840 in damages by 2100**. Past emissions don't stop causing harm — they compound. Every year of warming stacks on top of every previous year.
-
-Now apply that to carbon removal timelines:
-
-- **Immediate CDR deployment** → eliminates all future damages from removed CO₂
-- **25-year delay** → only eliminates **50%** of damages
-
-Read that again. Waiting 25 years to do what we could do now cuts the benefit in half. Not because the technology degrades — because the damages accumulate faster than removal can offset them once they've started cascading.
-
-This is the economic case for CDR urgency that the industry has been missing. It's not just "removal is good." It's "every year of delay has a specific, enormous price tag."
-
-## The billionaire footnote
-
-The study also quantified individual emissions. Private jet usage by Gates, Musk, and Bezos each generates **over $1 million in climate damages by 2100**. Per person. From jets alone.
-
-It's a vivid illustration, though the real policy relevance isn't about shaming billionaires. It's that the framework works at every scale — individual, corporate, national — with real dollar amounts. Climate damages are no longer abstract. They're accounting.
-
-## What this means for CDR investment
-
-If delaying carbon removal by 25 years costs trillions in unrealized damage prevention, then the question isn't "can we afford CDR?" It's "can we afford not to deploy it immediately?"
-
-The current global CDR investment is maybe $10-15 billion annually. The study suggests the damages from delayed action are *orders of magnitude* larger. At those ratios, even expensive CDR methods — DAC at $400-600/tonne — look like a bargain compared to the alternative.
-
-Every year the CDR industry argues about costs, permanence, and methodology while deployment stalls, the damage clock is running. Stanford just put a number on the bill.
-
----
-
-### Sources
-
-- Stanford University study, *Nature*, March 2026 — "Framework linking individual emissions to global damages"
-- Damage estimates: US emissions since 1990, cross-country attribution
-- CDR timing analysis: immediate vs. delayed removal effectiveness
-
----
-
-### 🔗 Related Reading
-
-- [New Nature Paper: Scaling CDR to Gigatons Could Strain Global Mineral and Nutrient Supplies](/posts/nature-cdr-resource-limits/)
-- [The Math on DAC Subsidies: $900B to $3T, and It's Worth It (With a Giant Asterisk)](/posts/dac-scaling-subsidy-cost-uncertainty/)
-- [Enhanced Rock Weathering: Promising, But Not Simple](/posts/erw-promising-but-not-simple/)
-- [Reality Check: Cornell Study Says ERW Could Hit 1 Billion Tonnes Per Year — With Caveats](/posts/cornell-erw-billion-tonnes/)
+<p>Immediate carbon removal would eliminate all climate damages. Delay it 25 years and you only get half the benefit. That&rsquo;s the headline finding from a new Stanford study published in <em>Nature</em>, and it&rsquo;s the most powerful economic argument for CDR deployment I&rsquo;ve seen.</p><p>The researchers built a framework linking individual emissions to actual, quantifiable global damages. The numbers are staggering, specific, and uncomfortable.</p><h2 id=the-damage-ledger>The damage ledger<a hidden class=anchor aria-hidden=true href=#the-damage-ledger>#</a></h2><p>Since 1990, US emissions have caused <strong>$10 trillion in global damages</strong>. Not theoretical future costs — realized economic harm distributed across the planet:</p><ul><li><strong>$1.39 trillion</strong> in damages to the EU</li><li><strong>$500 billion</strong> to India</li><li><strong>$330 billion</strong> to Brazil</li></ul><p>The US isn&rsquo;t just an emitter. It&rsquo;s the source of measurable economic destruction in specific countries, with specific dollar amounts attached.</p><p>The irony: the US itself has suffered <strong>$16.2 trillion</strong> in damages from <em>all</em> global emissions — including <strong>$2.97 trillion</strong> from its own. America is simultaneously the biggest damager and one of the biggest damaged.</p><h2 id=the-exponential-cost-of-delay>The exponential cost of delay<a hidden class=anchor aria-hidden=true href=#the-exponential-cost-of-delay>#</a></h2><p>Here&rsquo;s where CDR people need to pay attention.</p><p>One tonne of CO₂ emitted in 1990 caused <strong>$180 in damages by 2020</strong>. That same tonne will cause <strong>$1,840 in damages by 2100</strong>. Past emissions don&rsquo;t stop causing harm — they compound. Every year of warming stacks on top of every previous year.</p><p>Now apply that to carbon removal timelines:</p><ul><li><strong>Immediate CDR deployment</strong> → eliminates all future damages from removed CO₂</li><li><strong>25-year delay</strong> → only eliminates <strong>50%</strong> of damages</li></ul><p>Read that again. Waiting 25 years to do what we could do now cuts the benefit in half. Not because the technology degrades — because the damages accumulate faster than removal can offset them once they&rsquo;ve started cascading.</p><p>This is the economic case for CDR urgency that the industry has been missing. It&rsquo;s not just &ldquo;removal is good.&rdquo; It&rsquo;s &ldquo;every year of delay has a specific, enormous price tag.&rdquo;</p><h2 id=the-billionaire-footnote>The billionaire footnote<a hidden class=anchor aria-hidden=true href=#the-billionaire-footnote>#</a></h2><p>The study also quantified individual emissions. Private jet usage by Gates, Musk, and Bezos each generates <strong>over $1 million in climate damages by 2100</strong>. Per person. From jets alone.</p><p>It&rsquo;s a vivid illustration, though the real policy relevance isn&rsquo;t about shaming billionaires. It&rsquo;s that the framework works at every scale — individual, corporate, national — with real dollar amounts. Climate damages are no longer abstract. They&rsquo;re accounting.</p><h2 id=what-this-means-for-cdr-investment>What this means for CDR investment<a hidden class=anchor aria-hidden=true href=#what-this-means-for-cdr-investment>#</a></h2><p>If delaying carbon removal by 25 years costs trillions in unrealized damage prevention, then the question isn&rsquo;t &ldquo;can we afford CDR?&rdquo; It&rsquo;s &ldquo;can we afford not to deploy it immediately?&rdquo;</p><p>The current global CDR investment is maybe $10-15 billion annually. The study suggests the damages from delayed action are <em>orders of magnitude</em> larger. At those ratios, even expensive CDR methods — DAC at $400-600/tonne — look like a bargain compared to the alternative.</p><p>Every year the CDR industry argues about costs, permanence, and methodology while deployment stalls, the damage clock is running. Stanford just put a number on the bill.</p><hr><h3 id=sources>Sources<a hidden class=anchor aria-hidden=true href=#sources>#</a></h3><ul><li>Stanford University study, <em>Nature</em>, March 2026 — &ldquo;Framework linking individual emissions to global damages&rdquo;</li><li>Damage estimates: US emissions since 1990, cross-country attribution</li><li>CDR timing analysis: immediate vs. delayed removal effectiveness</li></ul><hr><h3 id=-related-reading>🔗 Related Reading<a hidden class=anchor aria-hidden=true href=#-related-reading>#</a></h3><ul><li><a href=/posts/nature-cdr-resource-limits/>New Nature Paper: Scaling CDR to Gigatons Could Strain Global Mineral and Nutrient Supplies</a></li><li><a href=/posts/dac-scaling-subsidy-cost-uncertainty/>The Math on DAC Subsidies: $900B to $3T, and It&rsquo;s Worth It (With a Giant Asterisk)</a></li><li><a href=/posts/erw-promising-but-not-simple/>Enhanced Rock Weathering: Promising, But Not Simple</a></li><li><a href=/posts/cornell-erw-billion-tonnes/>Reality Check: Cornell Study Says ERW Could Hit 1 Billion Tonnes Per Year — With Caveats</a></li></ul>

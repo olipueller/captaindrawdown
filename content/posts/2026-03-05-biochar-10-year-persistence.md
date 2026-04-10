@@ -1,56 +1,13 @@
 ---
 title: "Biochar's Carbon Benefits Last a Decade — New 10-Year Field Study Confirms"
-date: 2026-03-05
-slug: biochar-10-year-persistence
-aliases: ["/s/19"]
-draft: false
-pillar: "science"
-tags: ["biochar", "carbon sequestration", "soil science", "CDR", "Frontiers", "permanence"]
+date: 2026-03-05T00:00:00Z
 description: "A 10-year field study in Oregon confirms that a single biochar application maintains soil carbon gains and pH improvements for over a decade."
+tags: ["news"]
+slug: "biochar-10-year-persistence"
+author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/20260305-01.png"
+  image: "/images/posts/biochar-10-year-persistence.png"
   alt: "Biochar's Carbon Benefits Last a Decade — New 10-Year Field Study Confirms"
-  relative: false
+  hidden: false
 ---
-
-One of the persistent questions about biochar as a carbon removal pathway is permanence. Spread charred biomass on a field — does it actually stay there?
-
-A new study published in [Frontiers in Sustainable Food Systems](https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2026.1638625/full) provides some of the longest field data yet: **a single biochar application in 2013 still shows significant soil carbon and pH benefits ten years later.**
-
-## The Study
-
-Researchers tracked biochar applied once at rates of 11.2, 22.4, and 44.8 tonnes per hectare on dryland wheat fields in eastern Oregon. No reapplication over the entire decade. They measured soil organic carbon (SOC), pH, labile carbon, cation exchange capacity, and nutrient dynamics.
-
-Results:
-
-- **SOC stocks increased 95–207%** and maintained those gains for 10+ years
-- **Soil pH rose by up to 0.9 units**, with improvements persisting across the full study period
-- **Labile carbon (POXC) remained elevated**, though the declining POXC/SOC ratio suggests carbon is shifting into more stable pools over time — exactly what you want for permanence
-- **Nutrient availability improved**: better zinc, calcium, magnesium, and potassium access; reduced iron solubility (which can be toxic at high levels)
-
-## Why Permanence Data Matters
-
-The CDR market has a trust problem. Buyers want to know that a removal credit represents carbon that stays out of the atmosphere for centuries, not years. For biochar, the theoretical permanence — based on the recalcitrant carbon structure — suggests hundreds to thousands of years. But field studies have mostly covered 2-5 year windows.
-
-This 10-year dataset fills a critical gap. The fact that SOC stocks didn't decline meaningfully over a decade, and that carbon appears to be *stabilizing further* over time, supports the theoretical permanence claims.
-
-CDI has [invested in multiple biochar companies](https://www.carbon-drawdown.de/blog/2026-2-9-how-to-make-biochar-at-different-scales-large-and-small-ft-cotierra-amp-syncraft) — from SYNCRAFT's industrial-scale production in Austria to Cotierra's distributed model in the Americas, to Happy Ground in Thailand. The investment thesis rests partly on biochar's permanence advantage over other nature-based approaches. Studies like this validate that thesis.
-
-## The Co-Benefits Story
-
-Beyond carbon, this study highlights something the biochar industry often undersells: **soil rehabilitation.** Eastern Oregon's dryland wheat systems have lost up to 60% of their topsoil carbon through decades of intensive farming. A single biochar application essentially reversed that decline.
-
-For farmers dealing with acidifying soils, declining organic matter, and nutrient deficiency, biochar isn't just a carbon play — it's a soil health tool that pays for itself through improved yields and reduced lime/fertilizer inputs.
-
-**Sources:**
-- [Frontiers in Sustainable Food Systems](https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2026.1638625/full)
-- [CDI: How to Make Biochar at Different Scales](https://www.carbon-drawdown.de/blog/2026-2-9-how-to-make-biochar-at-different-scales-large-and-small-ft-cotierra-amp-syncraft)
-
----
-
-### 🔗 Related Reading
-
-- [Why Carbon Removal Needs More Than Trees](/posts/why-carbon-removal-needs-more-than-trees/)
-- [Biochar: The Quiet Giant of Carbon Removal](/posts/2026-02-25-biochar-quiet-giant-of-cdr/)
-- [Japan-India Biochar Alliance: Industrial-Scale CDR Comes to Asia](/posts/green-carbon-india-biochar-partnership/)
-- [Japan × India: Green Carbon's Biochar Partnership Targets 180,000 Tonnes of CDR](/posts/green-carbon-india-biochar-partnership/)
+<p>One of the persistent questions about biochar as a carbon removal pathway is permanence. Spread charred biomass on a field — does it actually stay there?</p><p>A new study published in <a href=https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2026.1638625/full>Frontiers in Sustainable Food Systems</a> provides some of the longest field data yet: <strong>a single biochar application in 2013 still shows significant soil carbon and pH benefits ten years later.</strong></p><h2 id=the-study>The Study<a hidden class=anchor aria-hidden=true href=#the-study>#</a></h2><p>Researchers tracked biochar applied once at rates of 11.2, 22.4, and 44.8 tonnes per hectare on dryland wheat fields in eastern Oregon. No reapplication over the entire decade. They measured soil organic carbon (SOC), pH, labile carbon, cation exchange capacity, and nutrient dynamics.</p><p>Results:</p><ul><li><strong>SOC stocks increased 95–207%</strong> and maintained those gains for 10+ years</li><li><strong>Soil pH rose by up to 0.9 units</strong>, with improvements persisting across the full study period</li><li><strong>Labile carbon (POXC) remained elevated</strong>, though the declining POXC/SOC ratio suggests carbon is shifting into more stable pools over time — exactly what you want for permanence</li><li><strong>Nutrient availability improved</strong>: better zinc, calcium, magnesium, and potassium access; reduced iron solubility (which can be toxic at high levels)</li></ul><h2 id=why-permanence-data-matters>Why Permanence Data Matters<a hidden class=anchor aria-hidden=true href=#why-permanence-data-matters>#</a></h2><p>The CDR market has a trust problem. Buyers want to know that a removal credit represents carbon that stays out of the atmosphere for centuries, not years. For biochar, the theoretical permanence — based on the recalcitrant carbon structure — suggests hundreds to thousands of years. But field studies have mostly covered 2-5 year windows.</p><p>This 10-year dataset fills a critical gap. The fact that SOC stocks didn&rsquo;t decline meaningfully over a decade, and that carbon appears to be <em>stabilizing further</em> over time, supports the theoretical permanence claims.</p><p>CDI has <a href=https://www.carbon-drawdown.de/blog/2026-2-9-how-to-make-biochar-at-different-scales-large-and-small-ft-cotierra-amp-syncraft>invested in multiple biochar companies</a> — from SYNCRAFT&rsquo;s industrial-scale production in Austria to Cotierra&rsquo;s distributed model in the Americas, to Happy Ground in Thailand. The investment thesis rests partly on biochar&rsquo;s permanence advantage over other nature-based approaches. Studies like this validate that thesis.</p><h2 id=the-co-benefits-story>The Co-Benefits Story<a hidden class=anchor aria-hidden=true href=#the-co-benefits-story>#</a></h2><p>Beyond carbon, this study highlights something the biochar industry often undersells: <strong>soil rehabilitation.</strong> Eastern Oregon&rsquo;s dryland wheat systems have lost up to 60% of their topsoil carbon through decades of intensive farming. A single biochar application essentially reversed that decline.</p><p>For farmers dealing with acidifying soils, declining organic matter, and nutrient deficiency, biochar isn&rsquo;t just a carbon play — it&rsquo;s a soil health tool that pays for itself through improved yields and reduced lime/fertilizer inputs.</p><p><strong>Sources:</strong></p><ul><li><a href=https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2026.1638625/full>Frontiers in Sustainable Food Systems</a></li><li><a href=https://www.carbon-drawdown.de/blog/2026-2-9-how-to-make-biochar-at-different-scales-large-and-small-ft-cotierra-amp-syncraft>CDI: How to Make Biochar at Different Scales</a></li></ul><hr><h3 id=-related-reading>🔗 Related Reading<a hidden class=anchor aria-hidden=true href=#-related-reading>#</a></h3><ul><li><a href=/posts/why-carbon-removal-needs-more-than-trees/>Why Carbon Removal Needs More Than Trees</a></li><li><a href=/posts/biochar-quiet-giant-of-cdr/>Biochar: The Quiet Giant of Carbon Removal</a></li><li><a href=/posts/green-carbon-india-biochar-partnership/>Japan-India Biochar Alliance: Industrial-Scale CDR Comes to Asia</a></li><li><a href=/posts/green-carbon-india-biochar-partnership/>Japan × India: Green Carbon&rsquo;s Biochar Partnership Targets 180,000 Tonnes of CDR</a></li></ul>

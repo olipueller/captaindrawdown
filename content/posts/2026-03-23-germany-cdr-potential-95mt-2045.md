@@ -1,52 +1,13 @@
 ---
 title: "Germany's CDR Potential: Up to 95 Million Tonnes CO₂ Per Year by 2045"
-slug: germany-cdr-potential-95mt-2045
-aliases: ["/s/134"]
-date: 2026-03-23
-draft: false
-description: "A new assessment by Sweco Finland and Carbon Gap finds Germany could remove up to 95 MtCO₂ per year by 2045 — but only with unprecedented coordination between government and industry."
-pillar: "global"
-tags:
-  - Carbon Removal
-  - Germany
-  - CDR Policy
-  - Biochar
-  - BECCS
-  - Carbon Gap
-categories:
-  - Policy & Research
+date: 2026-03-23T00:00:00Z
+description: "A new assessment by Sweco Finland and Carbon Gap finds Germany could remove up to 95 MtCO₂ per year by 2045 — but only with unprecedented coordination between g"
+tags: ["news"]
+slug: "germany-cdr-potential-95mt-2045"
+author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/20260323-02.png"
+  image: "/images/posts/germany-cdr-potential-95mt-2045.png"
+  alt: "Germany's CDR Potential: Up to 95 Million Tonnes CO₂ Per Year by 2045"
+  hidden: false
 ---
-
-Global durable carbon removal today stands at roughly 0.1 million tonnes per year. Germany alone could be doing 95 million tonnes annually by 2045 — if it gets serious.
-
-That's the headline finding from a new [Carbon Removal Readiness Assessment](https://carbongap.org/deploying-cdr-in-germany/) (CRRA) published by Sweco Finland and Carbon Gap. The report is the most comprehensive analysis yet of what CDR deployment could actually look like in Europe's largest economy.
-
-## The Numbers
-
-Germany's climate targets are among the world's most ambitious: climate neutrality by 2045, net-negative emissions by 2050. The theoretical CDR potential is enormous — approximately 258 MtCO₂ per year by 2045. But "theoretical" does a lot of heavy lifting in that sentence.
-
-The report models three realistic scenarios:
-
-- **Scenario A** (low ambition): modest deployment across methods
-- **Scenario B** (high ambition + energy efficiency): aggressive rollout with BECCS as a major contributor
-- **Scenario C** (high ambition, reduced BECCS reliance): the most balanced approach, hitting ~95 MtCO₂/yr
-
-Scenario C is the interesting one. It assumes Germany can't or won't go all-in on bioenergy with carbon capture (BECCS) — a reasonable assumption given the political and logistical complexity — and instead distributes effort across a broader method mix.
-
-## Biochar's Role
-
-For the [biochar](https://german-biochar.org/co₂-entnahme-in-deutschland-potenziale-und-perspektiven/) community, the report is encouraging but measured. Biochar contributes 3–5 MtCO₂ per year depending on the scenario, driven primarily by Germany's available residual biomass from agriculture and forestry. Not the dominant method, but a reliable contributor — and one of the most deployment-ready technologies in the mix.
-
-## The Gap Between Can and Will
-
-Here's the uncomfortable part: most CDR methods assessed are technically feasible in Germany *right now*. The barriers aren't physics — they're coordination, regulation, and political will.
-
-The report is explicit: a method mix is essential for risk distribution. No single CDR technology should carry the load. And strong coordination between federal government, state governments, and industry isn't optional — it's a prerequisite.
-
-To put 95 Mt in perspective: that's nearly 1,000 times current global durable removal. Germany would need to build an entirely new industrial sector from near-zero in under 20 years. The report shows it's physically possible. Whether it's politically possible is the question nobody can model.
-
-## Why It Matters Beyond Germany
-
-Germany reaching even a fraction of 95 Mt/yr would transform the European CDR market. It would create the demand signal that dozens of CDR startups — from [enhanced rock weathering](/posts/what-is-enhanced-weathering/) to DAC — need to scale. The report isn't just a national assessment. It's a roadmap for what industrial CDR deployment looks like in a wealthy, technically capable country that's actually willing to try.
+<p>Global durable carbon removal today stands at roughly 0.1 million tonnes per year. Germany alone could be doing 95 million tonnes annually by 2045 — if it gets serious.</p><p>That&rsquo;s the headline finding from a new <a href=https://carbongap.org/deploying-cdr-in-germany/>Carbon Removal Readiness Assessment</a> (CRRA) published by Sweco Finland and Carbon Gap. The report is the most comprehensive analysis yet of what CDR deployment could actually look like in Europe&rsquo;s largest economy.</p><h2 id=the-numbers>The Numbers<a hidden class=anchor aria-hidden=true href=#the-numbers>#</a></h2><p>Germany&rsquo;s climate targets are among the world&rsquo;s most ambitious: climate neutrality by 2045, net-negative emissions by 2050. The theoretical CDR potential is enormous — approximately 258 MtCO₂ per year by 2045. But &ldquo;theoretical&rdquo; does a lot of heavy lifting in that sentence.</p><p>The report models three realistic scenarios:</p><ul><li><strong>Scenario A</strong> (low ambition): modest deployment across methods</li><li><strong>Scenario B</strong> (high ambition + energy efficiency): aggressive rollout with BECCS as a major contributor</li><li><strong>Scenario C</strong> (high ambition, reduced BECCS reliance): the most balanced approach, hitting ~95 MtCO₂/yr</li></ul><p>Scenario C is the interesting one. It assumes Germany can&rsquo;t or won&rsquo;t go all-in on bioenergy with carbon capture (BECCS) — a reasonable assumption given the political and logistical complexity — and instead distributes effort across a broader method mix.</p><h2 id=biochars-role>Biochar&rsquo;s Role<a hidden class=anchor aria-hidden=true href=#biochars-role>#</a></h2><p>For the <a href=https://german-biochar.org/co%E2%82%82-entnahme-in-deutschland-potenziale-und-perspektiven/>biochar</a> community, the report is encouraging but measured. Biochar contributes 3–5 MtCO₂ per year depending on the scenario, driven primarily by Germany&rsquo;s available residual biomass from agriculture and forestry. Not the dominant method, but a reliable contributor — and one of the most deployment-ready technologies in the mix.</p><h2 id=the-gap-between-can-and-will>The Gap Between Can and Will<a hidden class=anchor aria-hidden=true href=#the-gap-between-can-and-will>#</a></h2><p>Here&rsquo;s the uncomfortable part: most CDR methods assessed are technically feasible in Germany <em>right now</em>. The barriers aren&rsquo;t physics — they&rsquo;re coordination, regulation, and political will.</p><p>The report is explicit: a method mix is essential for risk distribution. No single CDR technology should carry the load. And strong coordination between federal government, state governments, and industry isn&rsquo;t optional — it&rsquo;s a prerequisite.</p><p>To put 95 Mt in perspective: that&rsquo;s nearly 1,000 times current global durable removal. Germany would need to build an entirely new industrial sector from near-zero in under 20 years. The report shows it&rsquo;s physically possible. Whether it&rsquo;s politically possible is the question nobody can model.</p><h2 id=why-it-matters-beyond-germany>Why It Matters Beyond Germany<a hidden class=anchor aria-hidden=true href=#why-it-matters-beyond-germany>#</a></h2><p>Germany reaching even a fraction of 95 Mt/yr would transform the European CDR market. It would create the demand signal that dozens of CDR startups — from <a href=/posts/what-is-enhanced-weathering/>enhanced rock weathering</a> to DAC — need to scale. The report isn&rsquo;t just a national assessment. It&rsquo;s a roadmap for what industrial CDR deployment looks like in a wealthy, technically capable country that&rsquo;s actually willing to try.</p>

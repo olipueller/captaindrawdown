@@ -1,18 +1,14 @@
 ---
 title: "Microsoft Bought 93% of All Carbon Removal Credits in 2025"
-description: "One company bought nearly every carbon removal credit sold on Earth last year."
+slug: "microsoft-93-percent-cdr-credits"
 date: 2026-02-28T07:15:00Z
-slug: microsoft-93-percent-cdr-credits
-aliases: ["/s/8"]
-pillar: "market"
 tags: ["carbon removal", "CDR", "Microsoft", "carbon credits", "market"]
 summary: "New BNEF data reveals Microsoft purchased nearly all carbon removal credits sold globally last year — a lifeline for startups, but a warning sign for the industry."
 cover:
-  image: "/images/posts/20260228-04.png"
+  image: "/images/posts/microsoft-93-percent-cdr-credits.png"
   alt: "Microsoft Bought 93% of All Carbon Removal Credits in 2025"
-  relative: false
+  hidden: false
 ---
-
 One company bought nearly every carbon removal credit sold on Earth last year.
 
 According to [new research](https://bcse.org/market-trends/) from BloombergNEF and the Business Council for Sustainable Energy — the first time these organizations have specifically tracked CDR demand — Microsoft purchased 93% of all carbon removal credits globally in 2025.
@@ -29,7 +25,7 @@ These are the right standards. The question is whether anyone else is willing to
 
 ## The Price Gap
 
-The economics of CDR remain brutal. Nature-based carbon credits average $7 to $20 per ton, though many have been [plagued by greenwashing scandals](https://www.sciencedirect.com/science/article/pii/S258979182500026X). Technology-based CDR — direct air capture, [enhanced weathering](/posts/what-is-enhanced-weathering/), biochar with permanent storage — can exceed $500 per ton. The highest-quality credits cost even more.
+The economics of CDR remain brutal. Nature-based carbon credits average $7 to $20 per ton, though many have been [plagued by greenwashing scandals](https://www.sciencedirect.com/science/article/pii/S258979182500026X). Technology-based CDR — direct air capture, enhanced weathering, biochar with permanent storage — can exceed $500 per ton. The highest-quality credits cost even more.
 
 Microsoft is paying those prices because it takes its climate commitments seriously and understands that these technologies need early buyers to scale. But a market where one buyer accounts for 93% of demand isn't a market — it's a patronage system.
 
@@ -46,12 +42,3 @@ Microsoft deserves credit — literally — for keeping this industry alive. But
 - [Latitude Media: Microsoft is the carbon removal market](https://www.latitudemedia.com/news/microsoft-is-the-carbon-removal-market/)
 - [BNEF/BCSE Sustainable Energy in America Factbook](https://bcse.org/market-trends/)
 - [Microsoft 2025 CDR Criteria (PDF)](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/2025-Criteria-for-High-Quality-CDR.pdf)
-
----
-
-### 🔗 Related Reading
-
-- [Biochar: The Quiet Giant of Carbon Removal](/posts/2026-02-25-biochar-quiet-giant-of-cdr/)
-- [Philippines Generates Southeast Asia's First Biochar Carbon Credits](/posts/2026-03-07-philippines-first-southeast-asia-biochar-credits/)
-- [What Is [Enhanced Weathering](/posts/what-is-enhanced-weathering/)? A Primer](/posts/what-is-enhanced-weathering/)
-- [CDR Roundup: What's Moving in Carbon Removal (Feb 2026)](/posts/cdr-roundup-feb-2026/)

@@ -1,48 +1,13 @@
 ---
 title: "Canada Just Created the First National CDR Procurement Program. The $7M Price Tag Isn't the Point."
-date: 2026-03-25
-slug: canada-government-cdr-credits-purchase
-aliases: ["/s/145"]
-description: "Canada launches a dedicated carbon removal credit procurement program — the first by any national government. The budget is modest, but the mechanism is what matters."
-pillar: policy
-tags:
-  - policy
-  - carbon removal
-  - Canada
-  - CDR credits
-  - government procurement
-  - DACCS
-  - enhanced mineralization
+date: 2026-03-25T00:00:00Z
+description: "Canada launches a dedicated carbon removal credit procurement program — the first by any national government. The budget is modest, but the mechanism is what ma"
+tags: ["news"]
+slug: "canada-government-cdr-credits-purchase"
+author: "CaptainDrawdown"
 cover:
-  image: /images/posts/20260325-01.png
+  image: "/images/posts/canada-government-cdr-credits-purchase.png"
+  alt: "Canada Just Created the First National CDR Procurement Program. The $7M Price Tag Isn't the Point."
+  hidden: false
 ---
-
-While the US is busy [cancelling DAC hub funding](https://heatmap.news/technology/direct-air-capture-trump), Canada just quietly did something no national government has done before: it launched a dedicated procurement program for carbon dioxide removal credits.
-
-The program, structured as a Request for Standing Offer, commits at least CAD $10 million (~$7M USD) to purchasing CDR credits generated within Canada. Federal departments can buy credits from five eligible pathways: direct air capture with carbon storage (DACCS), bioenergy with CCS (BECCS), biochar, biomass carbon removal and storage (BiCRS), and enhanced mineralization. Each CDR stream gets its own competitive process, evaluated on technical merit and price, with contracts running through March 31, 2029.
-
-## The Number Doesn't Matter. The Mechanism Does.
-
-Let's be honest: $7 million is a rounding error in climate finance. But procurement programs aren't about the initial check — they're about creating predictable demand signals that let companies plan, hire, and build.
-
-We've seen this movie before. The US Department of Defense didn't build the solar industry with one big grant. It built it through years of steady procurement that told manufacturers: *there will be a buyer*. That predictability is what turns lab-scale tech into commercial reality.
-
-Canada's program does the same thing for CDR. By committing to *buy credits* rather than just *fund research*, it creates actual market infrastructure. Companies can now model revenue against government contracts. Investors can underwrite projects knowing there's a creditworthy offtaker at the table.
-
-## The Contrast Is Stark
-
-The Carbon Business Council, which has [20+ organizations](https://www.carbonbusinesscouncil.org/) in its Canada working group, has been pushing for exactly this kind of policy. As CBC's Ben Rubin put it: "Carbon removal is forecast to be a trillion-dollar industry." But trillion-dollar industries don't materialize from vibes — they need demand signals, and governments are the most credible demand signalers on earth.
-
-Meanwhile, south of the border, the US has the 45Q tax credit (under constant political threat) and the DOE's CDR purchase pilot (modest and slow-moving). No equivalent procurement mechanism exists at the federal level.
-
-## What to Watch
-
-The details matter here. How will Canada verify permanence across different CDR pathways? Will the per-stream competitive processes attract enough bidders to be genuinely competitive? And will other departments actually *use* the standing offer, or will it gather dust?
-
-The real test is whether this scales. If the initial CAD $10M proves the mechanism works — clean procurement, verified removals, reasonable cost — there's a clear path to 10x or 100x. Other governments are watching.
-
-**The bottom line:** Policy creates markets. Canada just built the on-ramp.
-
----
-
-*Sources: Government of Canada Request for Standing Offer; [Carbon Business Council](https://www.carbonbusinesscouncil.org/) Canada working group.*
+<p>While the US is busy <a href=https://heatmap.news/technology/direct-air-capture-trump>cancelling DAC hub funding</a>, Canada just quietly did something no national government has done before: it launched a dedicated procurement program for carbon dioxide removal credits.</p><p>The program, structured as a Request for Standing Offer, commits at least CAD $10 million (~$7M USD) to purchasing CDR credits generated within Canada. Federal departments can buy credits from five eligible pathways: direct air capture with carbon storage (DACCS), bioenergy with CCS (BECCS), biochar, biomass carbon removal and storage (BiCRS), and enhanced mineralization. Each CDR stream gets its own competitive process, evaluated on technical merit and price, with contracts running through March 31, 2029.</p><h2 id=the-number-doesnt-matter-the-mechanism-does>The Number Doesn&rsquo;t Matter. The Mechanism Does.<a hidden class=anchor aria-hidden=true href=#the-number-doesnt-matter-the-mechanism-does>#</a></h2><p>Let&rsquo;s be honest: $7 million is a rounding error in climate finance. But procurement programs aren&rsquo;t about the initial check — they&rsquo;re about creating predictable demand signals that let companies plan, hire, and build.</p><p>We&rsquo;ve seen this movie before. The US Department of Defense didn&rsquo;t build the solar industry with one big grant. It built it through years of steady procurement that told manufacturers: <em>there will be a buyer</em>. That predictability is what turns lab-scale tech into commercial reality.</p><p>Canada&rsquo;s program does the same thing for CDR. By committing to <em>buy credits</em> rather than just <em>fund research</em>, it creates actual market infrastructure. Companies can now model revenue against government contracts. Investors can underwrite projects knowing there&rsquo;s a creditworthy offtaker at the table.</p><h2 id=the-contrast-is-stark>The Contrast Is Stark<a hidden class=anchor aria-hidden=true href=#the-contrast-is-stark>#</a></h2><p>The Carbon Business Council, which has <a href=https://www.carbonbusinesscouncil.org/>20+ organizations</a> in its Canada working group, has been pushing for exactly this kind of policy. As CBC&rsquo;s Ben Rubin put it: &ldquo;Carbon removal is forecast to be a trillion-dollar industry.&rdquo; But trillion-dollar industries don&rsquo;t materialize from vibes — they need demand signals, and governments are the most credible demand signalers on earth.</p><p>Meanwhile, south of the border, the US has the 45Q tax credit (under constant political threat) and the DOE&rsquo;s CDR purchase pilot (modest and slow-moving). No equivalent procurement mechanism exists at the federal level.</p><h2 id=what-to-watch>What to Watch<a hidden class=anchor aria-hidden=true href=#what-to-watch>#</a></h2><p>The details matter here. How will Canada verify permanence across different CDR pathways? Will the per-stream competitive processes attract enough bidders to be genuinely competitive? And will other departments actually <em>use</em> the standing offer, or will it gather dust?</p><p>The real test is whether this scales. If the initial CAD $10M proves the mechanism works — clean procurement, verified removals, reasonable cost — there&rsquo;s a clear path to 10x or 100x. Other governments are watching.</p><p><strong>The bottom line:</strong> Policy creates markets. Canada just built the on-ramp.</p><hr><p><em>Sources: Government of Canada Request for Standing Offer; <a href=https://www.carbonbusinesscouncil.org/>Carbon Business Council</a> Canada working group.</em></p>

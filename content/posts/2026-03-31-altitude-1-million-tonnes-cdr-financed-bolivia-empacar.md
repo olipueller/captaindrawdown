@@ -1,67 +1,13 @@
 ---
 title: "Altitude Reaches 1 Million Tonnes CDR Financed — With Bolivia"
 date: 2026-03-31T08:00:00Z
-slug: altitude-1-million-tonnes-cdr-financed-bolivia-empacar
-aliases: ["/s/155"]
-description: "CDI portfolio company Altitude Carbon becomes the world's first commercial CDR buyer to cross 1 million tonnes financed. The deal that pushed them over: 305,000 tonnes of Bolivian biochar via Empacar."
-pillar: "global"
-tags: ["biochar", "Latin America", "carbon markets", "milestones", "altitude-carbon"]
+description: "CDI portfolio company Altitude Carbon becomes the world's first commercial CDR buyer to cross 1 million tonnes financed. The deal that pushed them over: 305,000"
+tags: ["news"]
+slug: "altitude-1-million-tonnes-cdr-financed-bolivia-empacar"
+author: "CaptainDrawdown"
 cover:
-  image: /images/posts/20260331-altitude-1m.png
-  alt: "Altitude reaches 1 million tonnes CDR financed — Bolivia biochar milestone"
+  image: "/images/posts/altitude-1-million-tonnes-cdr-financed-bolivia-empacar.png"
+  alt: "Altitude Reaches 1 Million Tonnes CDR Financed — With Bolivia"
+  hidden: false
 ---
-
-There's a number the CDR market has been building toward for years. This week, it arrived.
-
-**[Altitude Carbon](https://www.altitudecarbon.com/)** has become the world's first commercial CDR buyer to cross **1 million tonnes of carbon dioxide removal financed**. The deal that pushed them over the line: a partnership with **Empacar S.A.** of Bolivia for over **305,000 tonnes of biochar carbon removal credits (CORCs)** — on top of the 360,000+ tonnes Altitude had already financed in Southeast Asia and elsewhere.
-
-Altitude has already signalled it will continue growing beyond 1.5 million tonnes.
-
-## Why This Milestone Is Different From Others
-
-CDR milestones usually get announced in tonnes *contracted* or *purchased* — numbers that exist on paper long before any CO₂ moves. This one is about **tonnes financed**: actual capital committed, supply chains activated, facilities in development or operation.
-
-1 million tonnes financed means 1 million tonnes that, absent Altitude's involvement, would not exist as verified carbon removal. That's a meaningful distinction.
-
-For context: the entire global CDR market (excluding forestry) removed roughly 700,000 tonnes in 2023. Altitude has financed more than an entire year's global output — through purchasing commitments that drive real supply.
-
-## The Bolivia Deal
-
-Altitude's partnership with Empacar is the largest piece of this milestone.
-
-**Empacar S.A.** is not a climate startup. It's one of Bolivia's major industrial conglomerates — with decades of operation across industry, finance, retail, and logistics. The company is now entering the CDR market through **Carbon X**, a new business unit dedicated to climate and carbon market activity.
-
-The Bolivian biochar facility is supported by global biochar consultancy **[Bioflux](https://www.bioflux.earth/)**, with credits to be issued under the **Puro.earth methodology**. First credit issuance expected in 2027.
-
-This builds directly on an earlier move: Bolivia's **Ascención de Guarayos** region already had Empacar developing a biochar facility with approximately 70,000 tonnes of annual CO₂ removal capacity. The Altitude deal provides the commercial anchor — 305,000 tonnes of offtake — that justifies scaling up that capacity.
-
-## Southeast Asia, Latin America — and What Comes Next
-
-Before Bolivia, Altitude had already locked in **360,000+ tonnes in Southeast Asia** — across Cambodia and the Philippines. The geographic strategy is deliberate: these are regions with abundant agricultural and forestry residues, lower production costs, and significant potential for community co-benefits.
-
-That's a very different portfolio composition than most CDR buyers, who concentrate heavily on European and North American suppliers.
-
-CDI portfolio company [Altitude Carbon](https://www.altitudecarbon.com/) has now demonstrated that large-scale CDR can be financed and developed in multiple emerging markets simultaneously. The next question is who builds comparable portfolios at this scale.
-
-## The Biochar Supply Chain Is Going Global Faster Than You Think
-
-Biochar gets overlooked in CDR conversations dominated by DAC and BECCS. But the numbers keep compounding.
-
-Altitude alone: 1 million tonnes. [Microsoft's Liferaft deal](/posts/microsoft-liferaft-biggest-us-biochar-deal/) in the US. [Google's 200k-tonne deal](/posts/google-amp-robotics-biochar-200k-tonnes/) with AMP Robotics. [Boeing + CarbonFuture](/posts/boeing-carbonfuture-40000t-cdr-deal/) for 40,000 tonnes.
-
-The supply chain is not just scaling — it's globalizing. Bolivia. Cambodia. Indonesia. Philippines. India. The Philippines became the first Southeast Asian country to issue biochar credits last year. Bolivia is now a CDR supplier.
-
-Most DAC projects haven't poured concrete yet. Biochar projects are already delivering.
-
----
-
-*Source: [CleanTechnica](https://cleantechnica.com/2026/03/30/altitude-partners-with-empacar-bolivia-becomes-first-commercial-buyer-to-reach-1-million-t-cdrs-financed/) | [Altitude Carbon](https://www.altitudecarbon.com/)*
-
----
-
-### 🔗 Related Reading
-
-- [Bolivia Enters CDR Market — Altitude Signs 305K-Tonne Biochar Deal With Empacar](/posts/altitude-empacar-bolivia-biochar-305k-tonnes/)
-- [Microsoft + Liferaft: The Biggest US Biochar CDR Deal Yet](/posts/microsoft-liferaft-biggest-us-biochar-deal/)
-- [Google's 200K-Tonne Biochar Deal With AMP Robotics](/posts/google-amp-robotics-biochar-200k-tonnes/)
-- [Philippines: First Southeast Asia Biochar Credits](/posts/philippines-first-southeast-asia-biochar-credits/)
+<p>There&rsquo;s a number the CDR market has been building toward for years. This week, it arrived.</p><p><strong><a href=https://www.altitudecarbon.com/>Altitude Carbon</a></strong> has become the world&rsquo;s first commercial CDR buyer to cross <strong>1 million tonnes of carbon dioxide removal financed</strong>. The deal that pushed them over the line: a partnership with <strong>Empacar S.A.</strong> of Bolivia for over <strong>305,000 tonnes of biochar carbon removal credits (CORCs)</strong> — on top of the 360,000+ tonnes Altitude had already financed in Southeast Asia and elsewhere.</p><p>Altitude has already signalled it will continue growing beyond 1.5 million tonnes.</p><h2 id=why-this-milestone-is-different-from-others>Why This Milestone Is Different From Others<a hidden class=anchor aria-hidden=true href=#why-this-milestone-is-different-from-others>#</a></h2><p>CDR milestones usually get announced in tonnes <em>contracted</em> or <em>purchased</em> — numbers that exist on paper long before any CO₂ moves. This one is about <strong>tonnes financed</strong>: actual capital committed, supply chains activated, facilities in development or operation.</p><p>1 million tonnes financed means 1 million tonnes that, absent Altitude&rsquo;s involvement, would not exist as verified carbon removal. That&rsquo;s a meaningful distinction.</p><p>For context: the entire global CDR market (excluding forestry) removed roughly 700,000 tonnes in 2023. Altitude has financed more than an entire year&rsquo;s global output — through purchasing commitments that drive real supply.</p><h2 id=the-bolivia-deal>The Bolivia Deal<a hidden class=anchor aria-hidden=true href=#the-bolivia-deal>#</a></h2><p>Altitude&rsquo;s partnership with Empacar is the largest piece of this milestone.</p><p><strong>Empacar S.A.</strong> is not a climate startup. It&rsquo;s one of Bolivia&rsquo;s major industrial conglomerates — with decades of operation across industry, finance, retail, and logistics. The company is now entering the CDR market through <strong>Carbon X</strong>, a new business unit dedicated to climate and carbon market activity.</p><p>The Bolivian biochar facility is supported by global biochar consultancy <strong><a href=https://www.bioflux.earth/>Bioflux</a></strong>, with credits to be issued under the <strong>Puro.earth methodology</strong>. First credit issuance expected in 2027.</p><p>This builds directly on an earlier move: Bolivia&rsquo;s <strong>Ascención de Guarayos</strong> region already had Empacar developing a biochar facility with approximately 70,000 tonnes of annual CO₂ removal capacity. The Altitude deal provides the commercial anchor — 305,000 tonnes of offtake — that justifies scaling up that capacity.</p><h2 id=southeast-asia-latin-america--and-what-comes-next>Southeast Asia, Latin America — and What Comes Next<a hidden class=anchor aria-hidden=true href=#southeast-asia-latin-america--and-what-comes-next>#</a></h2><p>Before Bolivia, Altitude had already locked in <strong>360,000+ tonnes in Southeast Asia</strong> — across Cambodia and the Philippines. The geographic strategy is deliberate: these are regions with abundant agricultural and forestry residues, lower production costs, and significant potential for community co-benefits.</p><p>That&rsquo;s a very different portfolio composition than most CDR buyers, who concentrate heavily on European and North American suppliers.</p><p>CDI portfolio company <a href=https://www.altitudecarbon.com/>Altitude Carbon</a> has now demonstrated that large-scale CDR can be financed and developed in multiple emerging markets simultaneously. The next question is who builds comparable portfolios at this scale.</p><h2 id=the-biochar-supply-chain-is-going-global-faster-than-you-think>The Biochar Supply Chain Is Going Global Faster Than You Think<a hidden class=anchor aria-hidden=true href=#the-biochar-supply-chain-is-going-global-faster-than-you-think>#</a></h2><p>Biochar gets overlooked in CDR conversations dominated by DAC and BECCS. But the numbers keep compounding.</p><p>Altitude alone: 1 million tonnes. <a href=/posts/microsoft-liferaft-biggest-us-biochar-deal/>Microsoft&rsquo;s Liferaft deal</a> in the US. <a href=/posts/google-amp-robotics-biochar-200k-tonnes/>Google&rsquo;s 200k-tonne deal</a> with AMP Robotics. <a href=/posts/boeing-carbonfuture-40000t-cdr-deal/>Boeing + CarbonFuture</a> for 40,000 tonnes.</p><p>The supply chain is not just scaling — it&rsquo;s globalizing. Bolivia. Cambodia. Indonesia. Philippines. India. The Philippines became the first Southeast Asian country to issue biochar credits last year. Bolivia is now a CDR supplier.</p><p>Most DAC projects haven&rsquo;t poured concrete yet. Biochar projects are already delivering.</p><hr><p><em>Source: <a href=https://cleantechnica.com/2026/03/30/altitude-partners-with-empacar-bolivia-becomes-first-commercial-buyer-to-reach-1-million-t-cdrs-financed/>CleanTechnica</a> | <a href=https://www.altitudecarbon.com/>Altitude Carbon</a></em></p><hr><h3 id=-related-reading>🔗 Related Reading<a hidden class=anchor aria-hidden=true href=#-related-reading>#</a></h3><ul><li><a href=/posts/altitude-empacar-bolivia-biochar-305k-tonnes/>Bolivia Enters CDR Market — Altitude Signs 305K-Tonne Biochar Deal With Empacar</a></li><li><a href=/posts/microsoft-liferaft-biggest-us-biochar-deal/>Microsoft + Liferaft: The Biggest US Biochar CDR Deal Yet</a></li><li><a href=/posts/google-amp-robotics-biochar-200k-tonnes/>Google&rsquo;s 200K-Tonne Biochar Deal With AMP Robotics</a></li><li><a href=/posts/philippines-first-southeast-asia-biochar-credits/>Philippines: First Southeast Asia Biochar Credits</a></li></ul>

@@ -1,50 +1,13 @@
 ---
 title: "Can Electrochemical DAC Crack the Cost Problem? Brineworks Thinks So"
 date: 2026-03-30T10:00:00+01:00
+description: "Amsterdam startup Brineworks is designing a DAC electrolyzer that runs on cheap intermittent renewables and co-produces green hydrogen — targeting sub-$100/tonn"
+tags: ["news"]
 slug: "brineworks-dac-electrolyzer-renewable-economics"
-aliases: ["/s/175"]
-description: "Amsterdam startup Brineworks is designing a DAC electrolyzer that runs on cheap intermittent renewables and co-produces green hydrogen — targeting sub-$100/tonne by 2035."
-pillar: "news"
-tags: ["DAC", "direct air capture", "electrochemistry", "green hydrogen", "startups"]
+author: "CaptainDrawdown"
 cover:
-  image: /images/posts/brineworks-dac-electrolyzer-renewable-economics.png
+  image: "/images/posts/brineworks-dac-electrolyzer-renewable-economics.png"
+  alt: "Can Electrochemical DAC Crack the Cost Problem? Brineworks Thinks So"
+  hidden: false
 ---
-
-Direct air capture costs around $200 per tonne of CO₂ today. That's already competitive with some biogenic carbon sources — but it needs to come down dramatically to scale. Brineworks, a 15-person Amsterdam startup, has a specific thesis about how to get there: redesign the electrolyzer from scratch.
-
-CEO Gudfinnur Sveinsson presented their approach at the [European CO2 Summit](https://www.co2summit.eu/) in Rotterdam, speaking to gasworld's industrial gas audience. The talk is worth watching in full.
-
-## The Core Insight: Intermittency Is a Feature, Not a Bug
-
-Most DAC systems are designed for continuous operation — which means they need reliable, round-the-clock power. That's expensive. Brineworks' electrochemical approach is designed to run on cheap, intermittent renewable energy: run hard when wind and solar are abundant, pause when they're not.
-
-This changes the cost structure fundamentally. Instead of competing for baseload power at premium prices, the system can chase the cheapest electrons on the grid.
-
-## Green Hydrogen as a Co-Product
-
-The second piece of the puzzle is co-production. Brineworks' electrolyzer captures CO₂ and produces green hydrogen simultaneously. The hydrogen revenue offsets the cost of capture — a trick that improves the economics without requiring the CO₂ price to do all the work.
-
-This isn't a novel idea in principle, but the integration into a single electrochemical system designed specifically for DAC is what makes their approach distinctive.
-
-## The Market Case: E-Fuels Need CO₂
-
-Sveinsson's framing for why DAC must scale is sharp: the e-fuels industry — critical for decarbonising aviation and shipping — will need "many hundreds of megatons of CO₂" as a feedstock. Natural sources won't be sufficient or reliable enough. DAC is, in his words, the only truly scalable solution.
-
-This is a demand-pull argument rather than a climate-push argument, and it's the more durable one for attracting industrial investment.
-
-## Target: Sub-$100/tonne by 2035
-
-Brineworks is targeting sub-$100 per tonne of CO₂ by 2035. That's aggressive but not implausible given the learning curves of electrochemical systems and the continued decline in renewable energy costs.
-
-Watch the full presentation: [youtu.be/m7TlvhWJb9s](https://www.youtube.com/watch?v=m7TlvhWJb9s)
-
-*Brineworks is not a CDI portfolio company. We cover promising CDR startups regardless of investment relationship.*
-
----
-
-### 🔗 Related Reading
-
-- [500MW of Solar for the World's Largest DAC Plant](/posts/500mw-solar-for-stratos-dac/)
-- [New COF Material Captures CO₂ With Electricity — No Heat Required](/posts/cof-electrochemical-carbon-capture/)
-- [Hamburg Breaks Ground on DACMA: German DAC Engineering Goes Global](/posts/dacma-hamburg-dac-competence-center/)
-- [The DAC-to-Fuel Race Is On: AirCo Gets $15M for Military CO₂ Modules, Prometheus Unveils Electrochemical Kerosene](/posts/airco-prometheus-dac-to-fuel-race/)
+<p>Direct air capture costs around $200 per tonne of CO₂ today. That&rsquo;s already competitive with some biogenic carbon sources — but it needs to come down dramatically to scale. Brineworks, a 15-person Amsterdam startup, has a specific thesis about how to get there: redesign the electrolyzer from scratch.</p><p>CEO Gudfinnur Sveinsson presented their approach at the <a href=https://www.co2summit.eu/>European CO2 Summit</a> in Rotterdam, speaking to gasworld&rsquo;s industrial gas audience. The talk is worth watching in full.</p><h2 id=the-core-insight-intermittency-is-a-feature-not-a-bug>The Core Insight: Intermittency Is a Feature, Not a Bug<a hidden class=anchor aria-hidden=true href=#the-core-insight-intermittency-is-a-feature-not-a-bug>#</a></h2><p>Most DAC systems are designed for continuous operation — which means they need reliable, round-the-clock power. That&rsquo;s expensive. Brineworks&rsquo; electrochemical approach is designed to run on cheap, intermittent renewable energy: run hard when wind and solar are abundant, pause when they&rsquo;re not.</p><p>This changes the cost structure fundamentally. Instead of competing for baseload power at premium prices, the system can chase the cheapest electrons on the grid.</p><h2 id=green-hydrogen-as-a-co-product>Green Hydrogen as a Co-Product<a hidden class=anchor aria-hidden=true href=#green-hydrogen-as-a-co-product>#</a></h2><p>The second piece of the puzzle is co-production. Brineworks&rsquo; electrolyzer captures CO₂ and produces green hydrogen simultaneously. The hydrogen revenue offsets the cost of capture — a trick that improves the economics without requiring the CO₂ price to do all the work.</p><p>This isn&rsquo;t a novel idea in principle, but the integration into a single electrochemical system designed specifically for DAC is what makes their approach distinctive.</p><h2 id=the-market-case-e-fuels-need-co>The Market Case: E-Fuels Need CO₂<a hidden class=anchor aria-hidden=true href=#the-market-case-e-fuels-need-co>#</a></h2><p>Sveinsson&rsquo;s framing for why DAC must scale is sharp: the e-fuels industry — critical for decarbonising aviation and shipping — will need &ldquo;many hundreds of megatons of CO₂&rdquo; as a feedstock. Natural sources won&rsquo;t be sufficient or reliable enough. DAC is, in his words, the only truly scalable solution.</p><p>This is a demand-pull argument rather than a climate-push argument, and it&rsquo;s the more durable one for attracting industrial investment.</p><h2 id=target-sub-100tonne-by-2035>Target: Sub-$100/tonne by 2035<a hidden class=anchor aria-hidden=true href=#target-sub-100tonne-by-2035>#</a></h2><p>Brineworks is targeting sub-$100 per tonne of CO₂ by 2035. That&rsquo;s aggressive but not implausible given the learning curves of electrochemical systems and the continued decline in renewable energy costs.</p><p>Watch the full presentation: <a href="https://www.youtube.com/watch?v=m7TlvhWJb9s">youtu.be/m7TlvhWJb9s</a></p><p><em>Brineworks is not a CDI portfolio company. We cover promising CDR startups regardless of investment relationship.</em></p><hr><h3 id=-related-reading>🔗 Related Reading<a hidden class=anchor aria-hidden=true href=#-related-reading>#</a></h3><ul><li><a href=/posts/500mw-solar-for-stratos-dac/>500MW of Solar for the World&rsquo;s Largest DAC Plant</a></li><li><a href=/posts/cof-electrochemical-carbon-capture/>New COF Material Captures CO₂ With Electricity — No Heat Required</a></li><li><a href=/posts/dacma-hamburg-dac-competence-center/>Hamburg Breaks Ground on DACMA: German DAC Engineering Goes Global</a></li><li><a href=/posts/airco-prometheus-dac-to-fuel-race/>The DAC-to-Fuel Race Is On: AirCo Gets $15M for Military CO₂ Modules, Prometheus Unveils Electrochemical Kerosene</a></li></ul>

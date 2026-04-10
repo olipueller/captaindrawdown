@@ -1,47 +1,13 @@
 ---
 title: "Microbes on Marine Snow May Limit How Deep Carbon Actually Sinks"
-date: 2026-03-10
-slug: microbes-marine-snow-ocean-carbon-sink
-aliases: ["/s/50"]
-draft: false
+date: 2026-03-10T00:00:00Z
 description: "New research reveals bacteria hitchhiking on sinking particles dissolve calcium carbonate faster than expected, with implications for ocean CDR."
+tags: ["news"]
+slug: "microbes-marine-snow-ocean-carbon-sink"
+author: "CaptainDrawdown"
 cover:
-  image: /images/posts/20260310-08.png
+  image: "/images/posts/microbes-marine-snow-ocean-carbon-sink.png"
   alt: "Microbes on Marine Snow May Limit How Deep Carbon Actually Sinks"
   hidden: false
-pillar: "science"
-tags: ["science", "ocean CDR", "marine carbon"]
 ---
-
-A new study adds another wrinkle to ocean carbon removal: the microbes riding sinking particles may be dissolving the very minerals that help carbon reach the deep ocean.
-
-## The Finding
-
-Researchers discovered that bacteria attached to marine snow — the shower of organic debris that carries carbon from the ocean surface toward the deep — can accelerate the dissolution of calcium carbonate. These aren't unusual organisms doing something exotic. They're common ocean bacteria whose metabolic waste creates acidic microenvironments around the particles they colonize.
-
-At intermediate sinking speeds, conditions hit a sweet spot: the bacteria get enough oxygen to stay active while their acidic waste accumulates fast enough to dissolve the carbonate ballast. Lose the ballast, and the particles slow down, break apart, and release their carbon back into shallower water where it can return to the atmosphere.
-
-## Why This Matters
-
-The ocean's "biological pump" — the natural process that moves carbon from the surface to the deep — is a cornerstone of Earth's carbon cycle. Many ocean CDR approaches, from ocean alkalinity enhancement to iron fertilization, ultimately depend on carbon reaching depths where it stays locked away for centuries.
-
-If microbial dissolution is breaking apart sinking particles faster than models assume, then current estimates of deep-ocean carbon storage could be too optimistic. Not catastrophically wrong, but off by enough to matter when you're trying to quantify carbon removal credits.
-
-## The CDR Implication
-
-This doesn't invalidate ocean CDR. But it reinforces a pattern: every carbon removal pathway gets more complicated the closer you look. The simple versions that fit on a slide deck rarely survive contact with real ocean chemistry, real soil biology, or real atmospheric dynamics.
-
-For ocean alkalinity enhancement specifically, the question becomes: does added alkalinity increase the ballast effect (helping particles sink deeper) or does it change the microbial environment in ways we haven't modeled yet?
-
-Honest assessment of these mechanisms is exactly what separates credible CDR from marketing material.
-
-*Source: [Phys.org](https://phys.org/news/2026-03-microbes-hitchhiking-marine-limit-deep.html)*
-
----
-
-### 🔗 Related Reading
-
-- [Gulf of Maine OAE Trial: CO₂ Captured, No Harm to Marine Life](/posts/2026-03-07-gulf-of-maine-oae-trial-results/)
-- [Ocean CDR Has a Nutrient Problem](/posts/ocean-cdr-nutrient-cycling-limits/)
-- [What Is [Enhanced Weathering](/posts/what-is-enhanced-weathering/)? A Primer](/posts/what-is-enhanced-weathering/)
-- [Study Maps the Best US Coastal Sites for Marine Carbon Removal](/posts/2026-02-28-us-coastal-marine-cdr-hubs/)
+<p>A new study adds another wrinkle to ocean carbon removal: the microbes riding sinking particles may be dissolving the very minerals that help carbon reach the deep ocean.</p><h2 id=the-finding>The Finding<a hidden class=anchor aria-hidden=true href=#the-finding>#</a></h2><p>Researchers discovered that bacteria attached to marine snow — the shower of organic debris that carries carbon from the ocean surface toward the deep — can accelerate the dissolution of calcium carbonate. These aren&rsquo;t unusual organisms doing something exotic. They&rsquo;re common ocean bacteria whose metabolic waste creates acidic microenvironments around the particles they colonize.</p><p>At intermediate sinking speeds, conditions hit a sweet spot: the bacteria get enough oxygen to stay active while their acidic waste accumulates fast enough to dissolve the carbonate ballast. Lose the ballast, and the particles slow down, break apart, and release their carbon back into shallower water where it can return to the atmosphere.</p><h2 id=why-this-matters>Why This Matters<a hidden class=anchor aria-hidden=true href=#why-this-matters>#</a></h2><p>The ocean&rsquo;s &ldquo;biological pump&rdquo; — the natural process that moves carbon from the surface to the deep — is a cornerstone of Earth&rsquo;s carbon cycle. Many ocean CDR approaches, from ocean alkalinity enhancement to iron fertilization, ultimately depend on carbon reaching depths where it stays locked away for centuries.</p><p>If microbial dissolution is breaking apart sinking particles faster than models assume, then current estimates of deep-ocean carbon storage could be too optimistic. Not catastrophically wrong, but off by enough to matter when you&rsquo;re trying to quantify carbon removal credits.</p><h2 id=the-cdr-implication>The CDR Implication<a hidden class=anchor aria-hidden=true href=#the-cdr-implication>#</a></h2><p>This doesn&rsquo;t invalidate ocean CDR. But it reinforces a pattern: every carbon removal pathway gets more complicated the closer you look. The simple versions that fit on a slide deck rarely survive contact with real ocean chemistry, real soil biology, or real atmospheric dynamics.</p><p>For ocean alkalinity enhancement specifically, the question becomes: does added alkalinity increase the ballast effect (helping particles sink deeper) or does it change the microbial environment in ways we haven&rsquo;t modeled yet?</p><p>Honest assessment of these mechanisms is exactly what separates credible CDR from marketing material.</p><p><em>Source: <a href=https://phys.org/news/2026-03-microbes-hitchhiking-marine-limit-deep.html>Phys.org</a></em></p><hr><h3 id=-related-reading>🔗 Related Reading<a hidden class=anchor aria-hidden=true href=#-related-reading>#</a></h3><ul><li><a href=/posts/gulf-of-maine-oae-trial-results/>Gulf of Maine OAE Trial: CO₂ Captured, No Harm to Marine Life</a></li><li><a href=/posts/ocean-cdr-nutrient-cycling-limits/>Ocean CDR Has a Nutrient Problem</a></li><li>[What Is <a href=/posts/what-is-enhanced-weathering/>Enhanced Weathering</a>? A Primer](/posts/what-is-enhanced-weathering/)</li><li><a href=/posts/us-coastal-marine-cdr-hubs/>Study Maps the Best US Coastal Sites for Marine Carbon Removal</a></li></ul>

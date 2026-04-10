@@ -1,50 +1,13 @@
 ---
 title: "$3.5 Billion in DAC Hubs Are Stuck in Political Limbo"
-date: 2026-03-21
-slug: doe-dac-hubs-stalled-audit
-aliases: ["/s/126"]
+date: 2026-03-21T00:00:00Z
 description: "The DOE's flagship carbon removal hubs have been frozen for 500+ days under Trump admin audits. Startups can't wait forever."
-pillar: "market"
-tags: ["DAC", "policy", "US", "Climeworks", "Heirloom", "Occidental"]
+tags: ["news"]
+slug: "doe-dac-hubs-stalled-audit"
+author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/20260321-01.png"
+  image: "/images/posts/doe-dac-hubs-stalled-audit.png"
   alt: "$3.5 Billion in DAC Hubs Are Stuck in Political Limbo"
-  relative: false
+  hidden: false
 ---
-
-Project Cypress — the most ambitious direct air capture hub ever proposed in the US — hasn't received a meaningful update from the Department of Energy in over 500 days.
-
-That's not a typo. Five hundred days.
-
-The 2021 Bipartisan Infrastructure Law allocated $3.5 billion for four regional DAC hubs, each designed to capture 1 million tons of CO2 per year. It passed with Republican votes. It was, genuinely, a bipartisan climate win. Two of those hubs are now trapped in an indefinite DOE review that started in May 2025 and shows no signs of ending.
-
-## The two hubs in limbo
-
-**Project Cypress** is a $1 billion hub in Louisiana, led by Battelle with technology from Climeworks and Heirloom. It was in line for up to $550 million in DOE funding. The consortium includes startups — which, as former DOE DAC program manager Grant Faber pointed out before he was fired in March 2025, makes it especially vulnerable. Startups burn cash while they wait. Bureaucratic paralysis is existential when you're pre-revenue.
-
-**Occidental's South Texas hub** has a $500 million DOE award under review. CEO Vicki Hollub briefed investors in August 2025 but still hasn't committed to actually building the thing. Occidental is better positioned to survive the delay — they're a $50B+ oil company, not a startup. They're also better connected: Hollub has dined with Trump, donated to his campaign, and Occidental sent $1 million to his inaugural committee.
-
-The contrast is bleak. "DOE has not articulated a strategy for the DAC hubs," said Noah Deich, former DOE deputy assistant secretary for carbon management. That's diplomatic language for: nobody's driving this bus.
-
-## The startup problem
-
-Climate tech venture capital dropped to $42.2 billion in 2025 — the lowest since 2020 and the fourth consecutive year of decline. DAC startups that were counting on DOE hub partnerships to de-risk their technology are now stuck between shrinking private capital and frozen public funding.
-
-Climeworks and Heirloom aren't going under tomorrow. But every month of delay is a month their competitors elsewhere gain ground.
-
-## Meanwhile, in the Asia-Pacific
-
-While Washington debates whether to honor its own bipartisan law, [Australia and Japan are building new DAC partnerships](/posts/australia-japan-kawasaki-dac-hydrogen/) with Kawasaki Heavy Industries. No audits. No 500-day limbo. Just two governments and a major industrial conglomerate moving forward.
-
-The US still has the money, the technology, and the talent to lead on carbon removal. What it doesn't have right now is anyone willing to sign the paperwork.
-
-**Source:** [E&E News / POLITICO](https://www.eenews.net/articles/carbon-removal-hubs-languish-as-doe-audits-drag-on/)
-
----
-
-### 🔗 Related Reading
-
-- [Australia and Japan Partner on DAC and Hydrogen](/posts/australia-japan-kawasaki-dac-hydrogen/)
-- [Tapestry Signs 10-Year Climeworks DAC Deal](/posts/tapestry-climeworks-10-year-dac-deal/)
-- [500MW Solar for Stratos DAC Plant](/posts/2026-02-25-500mw-solar-for-stratos-dac/)
-- [China's Carbonology Bets on Synthetic Fuel from DAC](/posts/china-carbonology-synthetic-fuel-dac/)
+<p>Project Cypress — the most ambitious direct air capture hub ever proposed in the US — hasn&rsquo;t received a meaningful update from the Department of Energy in over 500 days.</p><p>That&rsquo;s not a typo. Five hundred days.</p><p>The 2021 Bipartisan Infrastructure Law allocated $3.5 billion for four regional DAC hubs, each designed to capture 1 million tons of CO2 per year. It passed with Republican votes. It was, genuinely, a bipartisan climate win. Two of those hubs are now trapped in an indefinite DOE review that started in May 2025 and shows no signs of ending.</p><h2 id=the-two-hubs-in-limbo>The two hubs in limbo<a hidden class=anchor aria-hidden=true href=#the-two-hubs-in-limbo>#</a></h2><p><strong>Project Cypress</strong> is a $1 billion hub in Louisiana, led by Battelle with technology from Climeworks and Heirloom. It was in line for up to $550 million in DOE funding. The consortium includes startups — which, as former DOE DAC program manager Grant Faber pointed out before he was fired in March 2025, makes it especially vulnerable. Startups burn cash while they wait. Bureaucratic paralysis is existential when you&rsquo;re pre-revenue.</p><p><strong>Occidental&rsquo;s South Texas hub</strong> has a $500 million DOE award under review. CEO Vicki Hollub briefed investors in August 2025 but still hasn&rsquo;t committed to actually building the thing. Occidental is better positioned to survive the delay — they&rsquo;re a $50B+ oil company, not a startup. They&rsquo;re also better connected: Hollub has dined with Trump, donated to his campaign, and Occidental sent $1 million to his inaugural committee.</p><p>The contrast is bleak. &ldquo;DOE has not articulated a strategy for the DAC hubs,&rdquo; said Noah Deich, former DOE deputy assistant secretary for carbon management. That&rsquo;s diplomatic language for: nobody&rsquo;s driving this bus.</p><h2 id=the-startup-problem>The startup problem<a hidden class=anchor aria-hidden=true href=#the-startup-problem>#</a></h2><p>Climate tech venture capital dropped to $42.2 billion in 2025 — the lowest since 2020 and the fourth consecutive year of decline. DAC startups that were counting on DOE hub partnerships to de-risk their technology are now stuck between shrinking private capital and frozen public funding.</p><p>Climeworks and Heirloom aren&rsquo;t going under tomorrow. But every month of delay is a month their competitors elsewhere gain ground.</p><h2 id=meanwhile-in-the-asia-pacific>Meanwhile, in the Asia-Pacific<a hidden class=anchor aria-hidden=true href=#meanwhile-in-the-asia-pacific>#</a></h2><p>While Washington debates whether to honor its own bipartisan law, <a href=/posts/australia-japan-kawasaki-dac-hydrogen/>Australia and Japan are building new DAC partnerships</a> with Kawasaki Heavy Industries. No audits. No 500-day limbo. Just two governments and a major industrial conglomerate moving forward.</p><p>The US still has the money, the technology, and the talent to lead on carbon removal. What it doesn&rsquo;t have right now is anyone willing to sign the paperwork.</p><p><strong>Source:</strong> <a href=https://www.eenews.net/articles/carbon-removal-hubs-languish-as-doe-audits-drag-on/>E&amp;E News / POLITICO</a></p><hr><h3 id=-related-reading>🔗 Related Reading<a hidden class=anchor aria-hidden=true href=#-related-reading>#</a></h3><ul><li><a href=/posts/australia-japan-kawasaki-dac-hydrogen/>Australia and Japan Partner on DAC and Hydrogen</a></li><li><a href=/posts/tapestry-climeworks-10-year-dac-deal/>Tapestry Signs 10-Year Climeworks DAC Deal</a></li><li><a href=/posts/500mw-solar-for-stratos-dac/>500MW Solar for Stratos DAC Plant</a></li><li><a href=/posts/china-carbonology-synthetic-fuel-dac/>China&rsquo;s Carbonology Bets on Synthetic Fuel from DAC</a></li></ul>

@@ -1,57 +1,13 @@
 ---
 title: "Lego Just Tripled Down on Carbon Removal — Here's What They're Buying"
-date: 2026-03-12T04:00:00+00:00
-draft: false
-slug: lego-bets-on-carbon-removal
-aliases: ["/s/64"]
-description: "Lego commits another DKK 18 million to four carbon removal projects, bringing its total CDR investment to DKK 54 million ($7.9M). The portfolio spans biomass geological storage, mineralization, marine CDR, and tropical reforestation."
-pillar: "global"
-tags: ["corporate buyers", "Lego", "ClimeFi", "carbon removal", "market"]
+date: 2026-03-12T04:00:00Z
+description: "Lego commits another DKK 18 million to four carbon removal projects, bringing its total CDR investment to DKK 54 million ($7.9M). The portfolio spans biomass ge"
+tags: ["news"]
+slug: "lego-bets-on-carbon-removal"
+author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/20260312-02.png"
-  alt: "Lego Bets $7.9M on Carbon Removal"
+  image: "/images/posts/lego-bets-on-carbon-removal.png"
+  alt: "Lego Just Tripled Down on Carbon Removal — Here's What They're Buying"
   hidden: false
 ---
-
-Lego isn't playing around with carbon removal. The Danish toymaker just committed another DKK 18 million (~€2.4M) to four CDR projects, pushing its total CDR investment to DKK 54 million ($7.9M).
-
-What's interesting isn't just the money — it's the portfolio approach.
-
-## Four Projects, Four Pathways
-
-Working with carbon removal platform ClimeFi and Climate Impact Partners, Lego is spreading bets across fundamentally different removal methods:
-
-**1. Biomass geological storage** — injecting organic waste slurry deep underground. Permanent storage, no reversal risk.
-
-**2. Mineralization** — converting captured CO₂ into manufactured limestone using reactive waste materials. The clever bit: the output is a construction material, so there's a built-in market for the product.
-
-**3. Marine CDR via wastewater alkalinity enhancement** — converting organic carbon to inorganic carbon that stays locked in ocean chemistry for millennia.
-
-**4. Tropical reforestation in Quintana Roo, Mexico** — 14,000+ hectares of degraded forest restoration, with 20% of the budget earmarked for local employment.
-
-## Why This Matters
-
-A few things stand out:
-
-**Portfolio diversification is becoming the norm.** Just like Mercedes F1's six-pathway CDR portfolio we covered last week, Lego is hedging across multiple approaches. Smart companies aren't picking winners — they're buying across the board.
-
-**The numbers are growing fast.** Lego started with DKK 19M in 2024, added DKK 18M now, and already has a long-term Climeworks contract on top. That's a company steadily building CDR into its operations, not running a one-off PR exercise.
-
-**Nature + tech combined.** The Mexico reforestation project alongside three durable tech pathways shows you don't have to choose sides in the nature-vs-tech debate. Both have a role.
-
-## The Bigger Picture
-
-Corporate CDR procurement is no longer just Microsoft and Stripe. When a consumer brand like Lego commits nearly $8 million, that's a signal to the broader market. The question for other companies: if Lego can do this, what's your excuse?
-
-**Source:** [ESG News](https://esgnews.com/lego-group-commits-2-6m-to-carbon-removal-projects-with-climefi/) | [K-Zeitung (German)](https://www.k-zeitung.de/lego-legt-nach-beim-carbon-dioxide-removal)
-
----
-
----
-
-### 🔗 Related Reading
-
-- [LEGO Commits $7.9M to Carbon Removal — Testing Everything from Bio-Oil to Ocean CDR](/posts/lego-carbon-removal-portfolio/)
-- [Two-Thirds of Durable CDR Projects Have Hit Commercialization](/posts/climefi-two-thirds-cdr-projects-commercial/)
-- [Biochar: The Quiet Giant of Carbon Removal](/posts/biochar-quiet-giant-of-cdr/)
-- [Microsoft Bought 93% of All Carbon Removal Credits in 2025](/posts/microsoft-93-percent-cdr-credits/)
+<p>Lego isn&rsquo;t playing around with carbon removal. The Danish toymaker just committed another DKK 18 million (~€2.4M) to four CDR projects, pushing its total CDR investment to DKK 54 million ($7.9M).</p><p>What&rsquo;s interesting isn&rsquo;t just the money — it&rsquo;s the portfolio approach.</p><h2 id=four-projects-four-pathways>Four Projects, Four Pathways<a hidden class=anchor aria-hidden=true href=#four-projects-four-pathways>#</a></h2><p>Working with carbon removal platform ClimeFi and Climate Impact Partners, Lego is spreading bets across fundamentally different removal methods:</p><p><strong>1. Biomass geological storage</strong> — injecting organic waste slurry deep underground. Permanent storage, no reversal risk.</p><p><strong>2. Mineralization</strong> — converting captured CO₂ into manufactured limestone using reactive waste materials. The clever bit: the output is a construction material, so there&rsquo;s a built-in market for the product.</p><p><strong>3. Marine CDR via wastewater alkalinity enhancement</strong> — converting organic carbon to inorganic carbon that stays locked in ocean chemistry for millennia.</p><p><strong>4. Tropical reforestation in Quintana Roo, Mexico</strong> — 14,000+ hectares of degraded forest restoration, with 20% of the budget earmarked for local employment.</p><h2 id=why-this-matters>Why This Matters<a hidden class=anchor aria-hidden=true href=#why-this-matters>#</a></h2><p>A few things stand out:</p><p><strong>Portfolio diversification is becoming the norm.</strong> Just like Mercedes F1&rsquo;s six-pathway CDR portfolio we covered last week, Lego is hedging across multiple approaches. Smart companies aren&rsquo;t picking winners — they&rsquo;re buying across the board.</p><p><strong>The numbers are growing fast.</strong> Lego started with DKK 19M in 2024, added DKK 18M now, and already has a long-term Climeworks contract on top. That&rsquo;s a company steadily building CDR into its operations, not running a one-off PR exercise.</p><p><strong>Nature + tech combined.</strong> The Mexico reforestation project alongside three durable tech pathways shows you don&rsquo;t have to choose sides in the nature-vs-tech debate. Both have a role.</p><h2 id=the-bigger-picture>The Bigger Picture<a hidden class=anchor aria-hidden=true href=#the-bigger-picture>#</a></h2><p>Corporate CDR procurement is no longer just Microsoft and Stripe. When a consumer brand like Lego commits nearly $8 million, that&rsquo;s a signal to the broader market. The question for other companies: if Lego can do this, what&rsquo;s your excuse?</p><p><strong>Source:</strong> <a href=https://esgnews.com/lego-group-commits-2-6m-to-carbon-removal-projects-with-climefi/>ESG News</a> | <a href=https://www.k-zeitung.de/lego-legt-nach-beim-carbon-dioxide-removal>K-Zeitung (German)</a></p><hr><hr><h3 id=-related-reading>🔗 Related Reading<a hidden class=anchor aria-hidden=true href=#-related-reading>#</a></h3><ul><li><a href=/posts/lego-carbon-removal-portfolio/>LEGO Commits $7.9M to Carbon Removal — Testing Everything from Bio-Oil to Ocean CDR</a></li><li><a href=/posts/climefi-two-thirds-cdr-projects-commercial/>Two-Thirds of Durable CDR Projects Have Hit Commercialization</a></li><li><a href=/posts/biochar-quiet-giant-of-cdr/>Biochar: The Quiet Giant of Carbon Removal</a></li><li><a href=/posts/microsoft-93-percent-cdr-credits/>Microsoft Bought 93% of All Carbon Removal Credits in 2025</a></li></ul>

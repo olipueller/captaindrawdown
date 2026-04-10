@@ -1,77 +1,13 @@
 ---
 title: "Canada Becomes First Government to Buy CDR Credits"
-description: "Canada launched a $10M CAD procurement program for carbon dioxide removal credits — making it the first national government with a dedicated CDR purchasing mechanism."
 date: 2026-03-17T10:30:00+01:00
-slug: canada-first-government-cdr-procurement
-aliases: ["/s/95"]
-pillar: "global"
-tags: ["CDR", "carbon removal", "Canada", "policy", "procurement", "DAC", "BECCS", "biochar", "enhanced mineralization"]
-summary: "Canada just became the first national government to launch a dedicated carbon removal procurement program. $10M CAD for federal departments to buy CDR credits across DAC, BECCS, biochar, and enhanced mineralization."
-draft: false
+description: "Canada launched a $10M CAD procurement program for carbon dioxide removal credits — making it the first national government with a dedicated CDR purchasing mech"
+tags: ["news"]
+slug: "canada-first-government-cdr-procurement"
+author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/20260317-02.png"
-  alt: "Canada First Government CDR Procurement"
-  relative: false
+  image: "/images/posts/canada-first-government-cdr-procurement.png"
+  alt: "Canada Becomes First Government to Buy CDR Credits"
+  hidden: false
 ---
-
-Governments talk about carbon removal a lot. Canada just started buying it.
-
-The Government of Canada has launched a new [Request for Standing Offer](https://carbonherald.com/in-a-landmark-motion-the-govt-of-canada-to-invest-at-least-7m-in-cdr-credits/) to invest at least $7 million USD ($10 million CAD) in carbon dioxide removal credits. It's the first national government in the world to create a dedicated CDR procurement program.
-
-That distinction matters more than the dollar amount.
-
-## How It Works
-
-Federal departments will be able to purchase CDR credits through a competitive procurement process — think government contracting, not voluntary offsets. Each CDR pathway gets its own competitive stream, evaluated on technical merit and price:
-
-- **Direct Air Capture and Permanent Storage (DACCS)**
-- **Bioenergy with Carbon Capture and Storage (BECCS)**
-- **Biochar**
-- **Other Biomass Carbon Removal and Storage (BiCRS)**
-- **Enhanced mineralization**
-
-Two critical requirements: every project must be located in Canada, and the standing offer runs until March 31, 2029. This isn't a one-off grant — it's a multi-year procurement framework that federal agencies can draw on.
-
-## Why the First Mover Matters
-
-Ten million Canadian dollars won't transform the CDR market on its own. For context, Big Tech spent billions on carbon removal credits last year. But government procurement carries a different kind of weight.
-
-When a national government builds formal procurement infrastructure for CDR credits — competitive evaluation criteria, standing offers, multi-year timelines — it sends a signal that voluntary corporate purchases can't match. It says: this technology category is real enough for public money.
-
-Ben Rubin of the [Carbon Business Council](https://www.carbonbusinesscouncil.org/canada), which leads a Canada-focused working group of 20+ CDR organizations, called it "catalytic support" that will "boost investor confidence and grow demand." He's not wrong. Private capital follows public validation. It always has.
-
-## The Broader Context
-
-Canada's move sits within a growing pattern of government CDR engagement:
-
-- The **EU's [CRCF](/posts/eu-first-cdr-certification-standard/)** just adopted its [first certification methodologies](/posts/eu-[crcf](/posts/eu-first-cdr-certification-standard/)-certification-methodologies/) for permanent carbon removals — potentially connecting CDR to the world's largest carbon market.
-- **Sweden** just launched [$34M in new funding](/posts/sweden-negative-emissions-funding-industriklivet/) for negative emissions scaling and research.
-- The **UK** has been exploring CDR procurement through its Greenhouse Gas Removals programme.
-
-What makes Canada's approach distinct is the explicit commitment to purchasing credits, not just funding projects or writing standards. It's demand-side intervention — the government acting as a buyer, not just a regulator.
-
-## What's Still Missing
-
-The tech-inclusive approach is smart — DAC, BECCS, biochar, and enhanced mineralization each have different cost curves, readiness levels, and geographic fit. Letting them compete on merit avoids the trap of picking winners too early.
-
-But $10M CAD across five technology streams is thin. If each pathway gets roughly equal allocation, that's $2M per stream — enough for proof-of-concept procurement, not market transformation. The real question is whether this initial commitment grows. If Canada's federal departments find the procurement mechanism useful and the credits credible, the budget will likely expand.
-
-The Canada-only requirement is also worth watching. It's good industrial policy — building domestic CDR capacity — but it limits the pool of eligible projects. Canada has strong DAC potential (Climeworks just [opened a Calgary HQ](/posts/climeworks-calgary-hq-cold-climate-dac/)) and excellent geology for enhanced mineralization, but the field is still young.
-
-## The Signal
-
-Rubin framed CDR as "a trillion-dollar industry" that will "create jobs in countries that establish clear, predictable pathways for deployment." That's the pitch to any government watching: the first movers in CDR procurement are positioning themselves for an industry that barely exists today but that every credible climate pathway says must exist at massive scale by 2050.
-
-Canada just placed the first bet. The question now is who follows.
-
----
-
-*Source: [Carbon Herald](https://carbonherald.com/in-a-landmark-motion-the-govt-of-canada-to-invest-at-least-7m-in-cdr-credits/).*
-
----
-
-### 🔗 Related Reading
-
-- [EU's Carbon Removal Certification Framework Gets Its First Methodologies](/posts/eu-[crcf](/posts/eu-first-cdr-certification-standard/)-certification-methodologies/)
-- [Sweden Backs Negative Emissions With $34M in New Funding](/posts/sweden-negative-emissions-funding-industriklivet/)
-- [Climeworks Opens Calgary HQ — Cold-Climate DAC Testing by Fall 2026](/posts/climeworks-calgary-hq-cold-climate-dac/)
+<p>Governments talk about carbon removal a lot. Canada just started buying it.</p><p>The Government of Canada has launched a new <a href=https://carbonherald.com/in-a-landmark-motion-the-govt-of-canada-to-invest-at-least-7m-in-cdr-credits/>Request for Standing Offer</a> to invest at least $7 million USD ($10 million CAD) in carbon dioxide removal credits. It&rsquo;s the first national government in the world to create a dedicated CDR procurement program.</p><p>That distinction matters more than the dollar amount.</p><h2 id=how-it-works>How It Works<a hidden class=anchor aria-hidden=true href=#how-it-works>#</a></h2><p>Federal departments will be able to purchase CDR credits through a competitive procurement process — think government contracting, not voluntary offsets. Each CDR pathway gets its own competitive stream, evaluated on technical merit and price:</p><ul><li><strong>Direct Air Capture and Permanent Storage (DACCS)</strong></li><li><strong>Bioenergy with Carbon Capture and Storage (BECCS)</strong></li><li><strong>Biochar</strong></li><li><strong>Other Biomass Carbon Removal and Storage (BiCRS)</strong></li><li><strong>Enhanced mineralization</strong></li></ul><p>Two critical requirements: every project must be located in Canada, and the standing offer runs until March 31, 2029. This isn&rsquo;t a one-off grant — it&rsquo;s a multi-year procurement framework that federal agencies can draw on.</p><h2 id=why-the-first-mover-matters>Why the First Mover Matters<a hidden class=anchor aria-hidden=true href=#why-the-first-mover-matters>#</a></h2><p>Ten million Canadian dollars won&rsquo;t transform the CDR market on its own. For context, Big Tech spent billions on carbon removal credits last year. But government procurement carries a different kind of weight.</p><p>When a national government builds formal procurement infrastructure for CDR credits — competitive evaluation criteria, standing offers, multi-year timelines — it sends a signal that voluntary corporate purchases can&rsquo;t match. It says: this technology category is real enough for public money.</p><p>Ben Rubin of the <a href=https://www.carbonbusinesscouncil.org/canada>Carbon Business Council</a>, which leads a Canada-focused working group of 20+ CDR organizations, called it &ldquo;catalytic support&rdquo; that will &ldquo;boost investor confidence and grow demand.&rdquo; He&rsquo;s not wrong. Private capital follows public validation. It always has.</p><h2 id=the-broader-context>The Broader Context<a hidden class=anchor aria-hidden=true href=#the-broader-context>#</a></h2><p>Canada&rsquo;s move sits within a growing pattern of government CDR engagement:</p><ul><li>The <strong>EU&rsquo;s <a href=/posts/eu-first-cdr-certification-standard/>CRCF</a></strong> just adopted its <a href=/posts/eu-crcf-certification-methodologies/>first certification methodologies</a> for permanent carbon removals — potentially connecting CDR to the world&rsquo;s largest carbon market.</li><li><strong>Sweden</strong> just launched <a href=/posts/sweden-negative-emissions-funding-industriklivet/>$34M in new funding</a> for negative emissions scaling and research.</li><li>The <strong>UK</strong> has been exploring CDR procurement through its Greenhouse Gas Removals programme.</li></ul><p>What makes Canada&rsquo;s approach distinct is the explicit commitment to purchasing credits, not just funding projects or writing standards. It&rsquo;s demand-side intervention — the government acting as a buyer, not just a regulator.</p><h2 id=whats-still-missing>What&rsquo;s Still Missing<a hidden class=anchor aria-hidden=true href=#whats-still-missing>#</a></h2><p>The tech-inclusive approach is smart — DAC, BECCS, biochar, and enhanced mineralization each have different cost curves, readiness levels, and geographic fit. Letting them compete on merit avoids the trap of picking winners too early.</p><p>But $10M CAD across five technology streams is thin. If each pathway gets roughly equal allocation, that&rsquo;s $2M per stream — enough for proof-of-concept procurement, not market transformation. The real question is whether this initial commitment grows. If Canada&rsquo;s federal departments find the procurement mechanism useful and the credits credible, the budget will likely expand.</p><p>The Canada-only requirement is also worth watching. It&rsquo;s good industrial policy — building domestic CDR capacity — but it limits the pool of eligible projects. Canada has strong DAC potential (Climeworks just <a href=/posts/climeworks-calgary-hq-cold-climate-dac/>opened a Calgary HQ</a>) and excellent geology for enhanced mineralization, but the field is still young.</p><h2 id=the-signal>The Signal<a hidden class=anchor aria-hidden=true href=#the-signal>#</a></h2><p>Rubin framed CDR as &ldquo;a trillion-dollar industry&rdquo; that will &ldquo;create jobs in countries that establish clear, predictable pathways for deployment.&rdquo; That&rsquo;s the pitch to any government watching: the first movers in CDR procurement are positioning themselves for an industry that barely exists today but that every credible climate pathway says must exist at massive scale by 2050.</p><p>Canada just placed the first bet. The question now is who follows.</p><hr><p><em>Source: <a href=https://carbonherald.com/in-a-landmark-motion-the-govt-of-canada-to-invest-at-least-7m-in-cdr-credits/>Carbon Herald</a>.</em></p><hr><h3 id=-related-reading>🔗 Related Reading<a hidden class=anchor aria-hidden=true href=#-related-reading>#</a></h3><ul><li><a href=/posts/eu-crcf-certification-methodologies/>EU&rsquo;s Carbon Removal Certification Framework Gets Its First Methodologies</a></li><li><a href=/posts/sweden-negative-emissions-funding-industriklivet/>Sweden Backs Negative Emissions With $34M in New Funding</a></li><li><a href=/posts/climeworks-calgary-hq-cold-climate-dac/>Climeworks Opens Calgary HQ — Cold-Climate DAC Testing by Fall 2026</a></li></ul>

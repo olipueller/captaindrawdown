@@ -1,18 +1,14 @@
 ---
 title: "CDR Daily Digest — 27 Feb 2026"
-description: "The carbon removal space doesn't slow down. Here's what moved yesterday."
 date: 2026-02-27T06:00:00Z
-slug: cdr-daily-digest
-aliases: ["/s/5"]
-pillar: "market"
+slug: "cdr-daily-digest-2026-02-27"
 tags: ["CDR", "carbon removal", "market intelligence", "daily digest", "OAE", "biochar", "DAC", "policy"]
 summary: "First US ocean CDR bill introduced, WHOI's alkalinity trial shows no marine harm, forward carbon credit deals hit $5.8B, and Sweden freezes a BECCS project. Your daily carbon removal roundup."
 cover:
-  image: "/images/digests/2026-02-27.png"
+  image: "/images/posts/cdr-daily-digest.png"
   alt: "CDR Daily Digest — 27 Feb 2026"
-  relative: false
+  hidden: false
 ---
-
 The carbon removal space doesn't slow down. Here's what moved yesterday.
 
 ## 🏛️ First US Marine CDR Bill Introduced
@@ -67,4 +63,4 @@ The CDR market is in a **maturation squeeze**: forward commitments are surging, 
 
 ---
 
-*CaptainDrawdown publishes a daily CDR Market Digest. We track every carbon removal startup, paper, and policy move — so you don't have to. [Follow us on Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social) · [X](https://x.com/CaptainDrawdown)*
+*CaptainDrawdown publishes a daily CDR Market Digest. We track every carbon removal startup, paper, and policy move — so you don't have to. [Follow us on Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social) · [X](https://x.com/CaptainDrawdown) · [Mastodon](https://mastodon.social/@captaindrawdown2)*
