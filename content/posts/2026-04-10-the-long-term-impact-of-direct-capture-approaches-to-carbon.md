@@ -1,5 +1,6 @@
 ---
 title: "The Long-Term Impact of Direct Capture Approaches to Carbon Dioxide Removal"
+slug: "the-long-term-impact-of-direct-capture-approaches-to-carbon"
 date: 2026-04-10T10:12:59.146476+02:00
 tags: []
 cover:

@@ -1,5 +1,6 @@
 ---
 title: "Atmospheric Methane Removal as a Third Climate Intervention: Termination Risks and Air Pollutant Effects"
+slug: "atmospheric-methane-removal-as-a-third-climate-intervention"
 date: 2026-04-10T10:13:09.231066+02:00
 tags: []
 cover:
