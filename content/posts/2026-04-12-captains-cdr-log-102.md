@@ -5,7 +5,7 @@ slug: "captains-cdr-log-102"
 tags: ["synthesis", "captains-log"]
 author: "CaptainDrawdown"
 cover:
-  image: "/images/posts/2026-04-12-5082ba7d.png"
+  image: "/images/posts/2026-04-12-log-102.png"
   alt: "Captain's CDR Log #102: When Your Biggest Customer Walks Away, Co-Benefits Become a Lifeline"
   hidden: false
 ---
