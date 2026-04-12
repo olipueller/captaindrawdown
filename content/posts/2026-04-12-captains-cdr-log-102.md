@@ -10,6 +10,10 @@ cover:
   hidden: false
 ---
 
+*Captain Drawdown's daily logbook on every CDR story, paper, and expert voice — so you don't have to read them all.*
+
+---
+
 The CDR industry doesn't have a demand problem. It has a customer concentration problem. And Microsoft just made that painfully clear.
 
 Robinson Meyer broke the news this week: [Microsoft Is Pausing Carbon Removal Purchases](https://heatmap.news/carbon-removal/microsoft-carbon-removal-pause), with the tech giant accounting for more than 90% of industry volume last year. Read that number again. More than ninety percent. When one buyer represents that much of your total market, you don't have a market. You have a dependency. James Temple put it plainly: "MSFT *is* the carbon removal market, so if this is anything more than a brief pause, it's a v. big deal & v. bad news for an already shaky sector." - James Temple (@jtemple.bsky.social)
