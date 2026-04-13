@@ -1,15 +1,11 @@
 ---
-title: "ZEN Carbon has partnered with a concrete plant to deploy its technology, marking our transition into live industrial deployment.
-
-This is a defining step,not just for us, but for how carbon removal… | Zen Carbon"
+title: "ZEN Carbon Moves From Lab to Factory With Concrete Plant Deployment"
 date: 2026-04-13T10:03:59.549673+02:00
 slug: "zen-carbon-has-partnered-with-a-concrete-plant-to-deploy-its"
 tags: ["voice_harvest", "ZEN Carbon"]
 cover:
   image: "/images/posts/2026-04-13-785d973f.png"
-  alt: "ZEN Carbon has partnered with a concrete plant to deploy its technology, marking our transition into live industrial deployment.
-
-This is a defining step,not just for us, but for how carbon removal… | Zen Carbon"
+  alt: "ZEN Carbon Moves From Lab to Factory With Concrete Plant Deployment"
   hidden: false
 ---
 
