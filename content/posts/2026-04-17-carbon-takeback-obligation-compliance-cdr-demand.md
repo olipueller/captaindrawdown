@@ -10,7 +10,6 @@ cover:
   hidden: false
 ---
 
-# The Voluntary Carbon Market Cannot Scale CDR. A Compliance Obligation Might.
 The voluntary carbon market has contracted roughly 44 million tons of carbon removal to date. The world needs billions of tons per year by mid-century. That gap will not close through corporate goodwill alone. A compliance-based mechanism called the Carbon Takeback Obligation, or CTBO, offers a structural alternative worth serious attention.
 ## The Voluntary Market Is Too Small and Too Fragile
 Wil Burns of the Institute for Carbon Removal Law and Policy laid out the core problem in an April 2026 analysis. Microsoft alone accounts for about 80% of all contracted durable carbon removal volume to date. And Microsoft recently told several suppliers it is pausing purchases. When one buyer can reshape an entire market by stepping back, that market is not a foundation for gigatons of removal.

@@ -10,7 +10,6 @@ cover:
   hidden: false
 ---
 
-# Chasing Net Zero Is Futile (For Now). Invest in System Change Instead.
 If just 1% of German air passengers purchased durable carbon removal to offset their flights, global annual CDR purchases would jump by 50%. That single statistic, from a recent essay by Dirk Paessler of the Carbon Drawdown Initiative, captures why system-level thinking matters more than individual purity.
 ## The Purity Trap
 Paessler's argument is blunt: your personal net-zero goal is almost certainly going to fail. So is his. Not because of a lack of effort, but because the systems we live inside have not changed fast enough. When you skip a flight or cut out meat, you make a personal sacrifice. But global air traffic hit 9.5 billion passenger journeys in 2024 and is projected to reach roughly 19.5 billion by 2042. That growth is driven overwhelmingly by people in Asia, the Middle East, and Africa gaining the economic freedom and mobility that Western nations have enjoyed for decades.
