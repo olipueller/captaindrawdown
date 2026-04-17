@@ -32,3 +32,7 @@ This is a useful mental model for companies and individuals deciding where to pu
 Paessler's essay is ultimately a reframing exercise. Stop measuring yourself against an impossible personal net-zero target in 2026. Start asking: where can my money create the most systemic leverage?
 For many people and organizations, the answer will include CDR purchases, not as a substitute for cutting emissions, but as a complement for the emissions they genuinely cannot yet eliminate. The goal is not moral absolution. It is building an industry that the world will desperately need at scale in 25 years.
 The invitation is simple. You do not have to become a climate purist to contribute. You just have to put money into the parts of the system that are small today and need to grow fast. That is a more honest, more effective, and more inclusive ask than demanding everyone ground themselves while 9.5 billion flights happen anyway.
+
+---
+
+*Source: [Dirk Paessler — Chasing Net Zero Is Futile (For Now)](https://www.carbon-drawdown.de/blog/2026-4-13-chasing-net-zero-is-futile-for-now-invest-your-ambitions-into-changing-systems-instead)*

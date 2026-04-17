@@ -29,3 +29,7 @@ Burns notes that pledges made by countries under the Paris Agreement already fal
 A CTBO is not a license for continued fossil fuel extraction. The obligation exists to address residual emissions that persist during the transition away from fossil fuels, not to justify slowing that transition. Burns emphasizes that the larger the temperature overshoot, the greater and riskier the CDR commitment becomes. Aggressive emissions reductions remain the first priority. CDR handles what reductions alone cannot.
 ## The Bottom Line
 Relying on voluntary purchases to build a gigatons-scale CDR industry is like funding a national highway system through donations. The CTBO offers a compliance framework that creates durable demand, sends clear investment signals, and places financial responsibility on the companies whose products generate the emissions. The voluntary market proved the concept. Scaling it will take regulation.
+
+---
+
+*Source: [Wil Burns — Stop Relying on the Kindness of Strangers for Carbon Dioxide Removal](https://www.linkedin.com/pulse/stop-relying-kindness-strangers-carbon-dioxide-removal-wil-burns-zodfc)*
