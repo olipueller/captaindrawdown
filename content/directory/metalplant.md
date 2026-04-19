@@ -14,9 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Enhanced Rock Weathering</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://metalplant.com/" target="_blank" rel="noopener">https://metalplant.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/phytomining/" target="_blank" rel="noopener">phytomining</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
-  <tr><th>Employees</th><td>~204 (+48% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -29,6 +27,7 @@ Metalplant is a US-domiciled startup with field operations in northern Albania t
 
 ## History
 
+- **2026-04-19** — nulled Coresignal enrichment — LinkedIn slug 'phytomining' clearly not the same company; employee count 204 inflated
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://metalplant.com/hyperweathering-enhanced-rock-weathering-for-climate-change-mitigation-meets-phytomining-technology/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://metalplant.com/))

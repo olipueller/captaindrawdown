@@ -19,22 +19,22 @@ url: "/directory/enhanced-weathering/"
 </div>
 
 <div class="directory-stats">
-  <div class="stat-box"><span class="num">27,361</span><span class="label">Total employees (lower bound)</span></div>
-  <div class="stat-box"><span class="num">32/34</span><span class="label">Companies with headcount data</span></div>
+  <div class="stat-box"><span class="num">27,076</span><span class="label">Total employees (lower bound)</span></div>
+  <div class="stat-box"><span class="num">30/34</span><span class="label">Companies with headcount data</span></div>
 </div>
 
 ## Largest companies
 
 - [Anglo American](/directory/anglo-american/) — 26627 employees
-- [Metalplant](/directory/metalplant/) — 204 employees
 - [Terradot](/directory/terradot/) — 93 employees
-- [InPlanet](/directory/inplanet/) — 81 employees
 - [UNDO](/directory/undo/) — 62 employees
 - [Alt Carbon](/directory/alt-carbon/) — 51 employees
 - [Lithos](/directory/lithos/) — 45 employees
 - [Eion](/directory/eion/) — 44 employees
 - [CarbonRun](/directory/carbonrun/) — 23 employees
 - [Cascade Climate](/directory/cascade-climate/) — 22 employees
+- [CREW Carbon](/directory/crew-carbon/) — 20 employees
+- [Flux](/directory/flux/) — 11 employees
 
 ## All Enhanced Weathering companies
 

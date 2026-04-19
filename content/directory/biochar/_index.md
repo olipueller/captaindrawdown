@@ -19,8 +19,8 @@ url: "/directory/biochar/"
 </div>
 
 <div class="directory-stats">
-  <div class="stat-box"><span class="num">10,284</span><span class="label">Total employees (lower bound)</span></div>
-  <div class="stat-box"><span class="num">302/378</span><span class="label">Companies with headcount data</span></div>
+  <div class="stat-box"><span class="num">10,003</span><span class="label">Total employees (lower bound)</span></div>
+  <div class="stat-box"><span class="num">301/378</span><span class="label">Companies with headcount data</span></div>
 </div>
 
 ## Largest companies
@@ -30,11 +30,11 @@ url: "/directory/biochar/"
 - [Industrielle Werke Basel](/directory/industrielle-werke-basel/) — 787 employees
 - [Telge Återvinning](/directory/telge-återvinning/) — 659 employees
 - [Energie 360°](/directory/energie-360/) — 368 employees
-- [Varaha](/directory/varaha/) — 281 employees
 - [Empacar](/directory/empacar/) — 277 employees
 - [SCG Cement](/directory/scg-cement/) — 254 employees
 - [EAD](/directory/ead/) — 248 employees
 - [NetZero](/directory/netzero/) — 207 employees
+- [Südwestdeutsche Salzwerke](/directory/südwestdeutsche-salzwerke/) — 164 employees
 
 ## All Biochar companies
 

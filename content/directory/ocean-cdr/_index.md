@@ -19,13 +19,12 @@ url: "/directory/ocean-cdr/"
 </div>
 
 <div class="directory-stats">
-  <div class="stat-box"><span class="num">2,100</span><span class="label">Total employees (lower bound)</span></div>
-  <div class="stat-box"><span class="num">36/42</span><span class="label">Companies with headcount data</span></div>
+  <div class="stat-box"><span class="num">551</span><span class="label">Total employees (lower bound)</span></div>
+  <div class="stat-box"><span class="num">35/42</span><span class="label">Companies with headcount data</span></div>
 </div>
 
 ## Largest companies
 
-- [Liquid Trees](/directory/liquid-trees/) — 1549 employees
 - [Captura](/directory/captura/) — 82 employees
 - [BlueGreen](/directory/bluegreen/) — 41 employees
 - [Ocean Frontier Institute](/directory/ocean-frontier-institute/) — 36 employees
@@ -35,6 +34,7 @@ url: "/directory/ocean-cdr/"
 - [Ebb Carbon](/directory/ebb-carbon/) — 27 employees
 - [Planeteers](/directory/planeteers/) — 27 employees
 - [Ocean](/directory/ocean/) — 26 employees
+- [Seafields](/directory/seafields/) — 20 employees
 
 ## All Ocean CDR companies
 
