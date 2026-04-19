@@ -2,7 +2,7 @@
 title: "Metalplant"
 layout: "single"
 type: "directory"
-description: "Metalplant is a US-headquartered CDR supplier operating field sites in Albania on serpentine-rich soils of the Mirdita Ophiolite. Its \\"Hyperweathering\\" approach"
+description: "Metalplant is a US-headquartered CDR supplier operating field sites in Albania on serpentine-rich soils of the Mirdita Ophiolite. Its Hyperweathering approach"
 url: "/directory/metalplant/"
 pathway: "Enhanced Weathering"
 liveliness: "🟢 Active"

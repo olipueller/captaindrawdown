@@ -2,7 +2,7 @@
 title: "Carbonauten"
 layout: "single"
 type: "directory"
-description: "Carbonauten GmbH is a German biochar producer based in Giengen an der Brenz that operates the \\"Minus CO2 Factory\\" in Eberswalde (~3,000 tonnes biochar/year) and"
+description: "Carbonauten GmbH is a German biochar producer based in Giengen an der Brenz that operates the Minus CO2 Factory in Eberswalde (~3,000 tonnes biochar/year) and"
 url: "/directory/carbonauten/"
 pathway: "Biochar"
 liveliness: "🟢 Active"

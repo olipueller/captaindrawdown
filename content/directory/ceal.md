@@ -2,7 +2,7 @@
 title: "Ceal"
 layout: "single"
 type: "directory"
-description: "Ceal was founded in April 2024 after receiving a grant under Israel's \\"Blue Economy\\" Program, and its technology is built on an electrochemical mineralization p"
+description: "Ceal was founded in April 2024 after receiving a grant under Israel's Blue Economy Program, and its technology is built on an electrochemical mineralization p"
 url: "/directory/ceal/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
