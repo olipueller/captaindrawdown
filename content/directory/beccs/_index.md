@@ -2,16 +2,16 @@
 title: "BECCS — CDR Pathway"
 layout: "single"
 type: "directory"
-description: "Captain Drawdown's directory of all companies working on BECCS as a primary pathway. 85 companies tracked."
+description: "Captain Drawdown's directory of all companies working on BECCS as a primary pathway. 91 companies tracked."
 url: "/directory/beccs/"
 ---
 
-# BECCS — 85 Companies Tracked
+# BECCS — 91 Companies Tracked
 
 **Market pulse for BECCS (updated 2026-04-19).**
 
 <div class="directory-stats">
-  <div class="stat-box"><span class="num">85</span><span class="label">Companies</span></div>
+  <div class="stat-box"><span class="num">91</span><span class="label">Companies</span></div>
   <div class="stat-box"><span class="num" style="color:#22c55e">73</span><span class="label">🟢 Active</span></div>
   <div class="stat-box"><span class="num" style="color:#eab308">10</span><span class="label">🟡 Moderate</span></div>
   <div class="stat-box"><span class="num" style="color:#f97316">2</span><span class="label">🟠 Suspect</span></div>
@@ -20,7 +20,7 @@ url: "/directory/beccs/"
 
 <div class="directory-stats">
   <div class="stat-box"><span class="num">46,106</span><span class="label">Total employees (lower bound)</span></div>
-  <div class="stat-box"><span class="num">33/85</span><span class="label">Companies with headcount data</span></div>
+  <div class="stat-box"><span class="num">33/91</span><span class="label">Companies with headcount data</span></div>
 </div>
 
 ## Largest companies

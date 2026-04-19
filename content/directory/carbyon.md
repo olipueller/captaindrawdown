@@ -2,7 +2,7 @@
 title: "Carbyon"
 layout: "single"
 type: "directory"
-description: "Carbyon is a Dutch deep-tech startup (TNO spin-off, founded 2019) developing a fast swing direct air capture technology that uses thin-film sorbents to captur"
+description: "Carbyon is a Dutch deep-tech startup (TNO spin-off, founded 2019) developing a \\"fast swing\\" direct air capture technology that uses thin-film sorbents to captur"
 url: "/directory/carbyon/"
 pathway: "DAC"
 liveliness: "🟢 Active"

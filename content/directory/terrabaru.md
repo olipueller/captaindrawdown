@@ -2,7 +2,7 @@
 title: "TerraBaru"
 layout: "single"
 type: "directory"
-description: "TerraBaru is an Indonesian biochar producer that converts agricultural waste into engineered biochar (TerraKarbon) via pyrolysis, generating carbon removal cr"
+description: "TerraBaru is an Indonesian biochar producer that converts agricultural waste into engineered biochar (\\"TerraKarbon\\") via pyrolysis, generating carbon removal cr"
 url: "/directory/terrabaru/"
 pathway: "Biochar"
 liveliness: "🟢 Active"

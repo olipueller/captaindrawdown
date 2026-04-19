@@ -4,19 +4,19 @@ layout: "single"
 type: "directory"
 description: "Bio-Restorative Ideas (BRi) is a Puerto Rico-based biochar producer that converts bamboo residues and post-hurricane biomass waste into biochar using a mobile p"
 url: "/directory/bio-restorative-ideas/"
-pathway: "Biochar"
+pathway: "BiCRS"
 liveliness: "🟠 Suspect"
 ---
 
-**Pathway:** Biochar
+**Pathway:** BiCRS
 **Method:** Biochar
 **Country:** Puerto Rico
 **Website:** [https://bri.earth/](https://bri.earth/)
 **Status:** 🟠 Suspect (score: 40/100)
 **Employees:** ~4 (0% YoY)
 **LinkedIn Followers:** 478
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+**CDR Focus:** unclassified
+**Evidence signals:** cdrfyi_listing
 
 ## About
 
@@ -25,6 +25,7 @@ Bio-Restorative Ideas (BRi) is a Puerto Rico-based biochar producer that convert
 
 ## History
 
+- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/bio-restorative-ideas))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://puro.earth/accelerate/cleaning-up-puerto-rico-by-bri-100079))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

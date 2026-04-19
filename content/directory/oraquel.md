@@ -2,7 +2,7 @@
 title: "Oraquel"
 layout: "single"
 type: "directory"
-description: "Oraquel S.A. is a Warsaw-based DAC technology developer (the website references a Swiss Oraquel Group) building modular, solar-powered direct air capture reac"
+description: "Oraquel S.A. is a Warsaw-based DAC technology developer (the website references a Swiss \\"Oraquel Group\\") building modular, solar-powered direct air capture reac"
 url: "/directory/oraquel/"
 pathway: "DAC"
 liveliness: "🟡 Moderate"

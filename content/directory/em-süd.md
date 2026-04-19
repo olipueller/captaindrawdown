@@ -2,7 +2,7 @@
 title: "EM-Süd"
 layout: "single"
 type: "directory"
-description: "EM-Technologie Zentrum Süd GmbH (EM-Süd) is a German family business based in Haldenwang, Allgäu, that produces biochar under the Pflanzenkohle Allgäu brand a"
+description: "EM-Technologie Zentrum Süd GmbH (EM-Süd) is a German family business based in Haldenwang, Allgäu, that produces biochar under the \\"Pflanzenkohle Allgäu\\" brand a"
 url: "/directory/em-süd/"
 pathway: "Biochar"
 liveliness: "🟢 Active"

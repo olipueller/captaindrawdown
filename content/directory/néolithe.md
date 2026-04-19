@@ -2,7 +2,7 @@
 title: "Néolithe"
 layout: "single"
 type: "directory"
-description: "Néolithe is a French industrial startup (based in Anjou, ~100-200 employees) that operates Fossilizers — machines that transform non-recyclable, non-hazardous"
+description: "Néolithe is a French industrial startup (based in Anjou, ~100-200 employees) that operates \\"Fossilizers\\" — machines that transform non-recyclable, non-hazardous"
 url: "/directory/néolithe/"
 pathway: "Biomass Burial"
 liveliness: "🟢 Active"

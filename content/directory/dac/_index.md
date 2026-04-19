@@ -2,16 +2,16 @@
 title: "DAC — CDR Pathway"
 layout: "single"
 type: "directory"
-description: "Captain Drawdown's directory of all companies working on DAC as a primary pathway. 124 companies tracked."
+description: "Captain Drawdown's directory of all companies working on DAC as a primary pathway. 126 companies tracked."
 url: "/directory/dac/"
 ---
 
-# DAC — 124 Companies Tracked
+# DAC — 126 Companies Tracked
 
 **Market pulse for DAC (updated 2026-04-19).**
 
 <div class="directory-stats">
-  <div class="stat-box"><span class="num">124</span><span class="label">Companies</span></div>
+  <div class="stat-box"><span class="num">126</span><span class="label">Companies</span></div>
   <div class="stat-box"><span class="num" style="color:#22c55e">82</span><span class="label">🟢 Active</span></div>
   <div class="stat-box"><span class="num" style="color:#eab308">26</span><span class="label">🟡 Moderate</span></div>
   <div class="stat-box"><span class="num" style="color:#f97316">16</span><span class="label">🟠 Suspect</span></div>
@@ -20,7 +20,7 @@ url: "/directory/dac/"
 
 <div class="directory-stats">
   <div class="stat-box"><span class="num">121,700</span><span class="label">Total employees (lower bound)</span></div>
-  <div class="stat-box"><span class="num">61/124</span><span class="label">Companies with headcount data</span></div>
+  <div class="stat-box"><span class="num">61/126</span><span class="label">Companies with headcount data</span></div>
 </div>
 
 ## Largest companies

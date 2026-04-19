@@ -2,7 +2,7 @@
 title: "Svante Technologies"
 layout: "single"
 type: "directory"
-description: "Svante Technologies is a Vancouver, BC-based carbon capture and removal technology company that in May 2025 commissioned the Redwood facility, the world's fir"
+description: "Svante Technologies is a Vancouver, BC-based carbon capture and removal technology company that in May 2025 commissioned the \\"Redwood\\" facility, the world's fir"
 url: "/directory/svante-technologies/"
 pathway: "DAC"
 liveliness: "🟢 Active"

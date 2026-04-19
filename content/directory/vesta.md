@@ -2,7 +2,7 @@
 title: "Vesta"
 layout: "single"
 type: "directory"
-description: "Vesta (formerly Project Vesta) is a US-based marine CDR supplier pioneering Coastal Carbon Capture — the deployment of olivine sand in coastal waters to drive"
+description: "Vesta (formerly Project Vesta) is a US-based marine CDR supplier pioneering \\"Coastal Carbon Capture\\" — the deployment of olivine sand in coastal waters to drive"
 url: "/directory/vesta/"
 pathway: "Ocean CDR"
 liveliness: "🟢 Active"

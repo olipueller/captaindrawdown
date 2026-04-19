@@ -14,8 +14,8 @@ liveliness: "🟢 Active"
 **Country:** United Kingdom
 **Website:** [https://oco.co.uk/](https://oco.co.uk/)
 **Status:** 🟢 Active (score: 92/100)
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, registry_puro, registry_cdrjobsearth
+**CDR Focus:** unclassified
+**Evidence signals:** cdrfyi_listing
 
 ## About
 
@@ -30,6 +30,7 @@ O.C.O Technology is a UK-based mineralization CDR supplier operating multiple ag
 
 ## History
 
+- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/oco-technology))
 - **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://oco.co.uk/carbon-capture/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 

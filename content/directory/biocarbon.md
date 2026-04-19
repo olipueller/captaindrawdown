@@ -2,7 +2,7 @@
 title: "BioCarbon"
 layout: "single"
 type: "directory"
-description: "BioCarbon is an Australian climate-tech company using proprietary pyrolysis technology to convert woody agricultural waste into biochar (GreenChar), bio-oil,"
+description: "BioCarbon is an Australian climate-tech company using proprietary pyrolysis technology to convert woody agricultural waste into biochar (\\"GreenChar\\"), bio-oil,"
 url: "/directory/biocarbon/"
 pathway: "Biochar"
 liveliness: "🟢 Active"

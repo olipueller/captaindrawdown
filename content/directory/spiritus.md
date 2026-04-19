@@ -2,7 +2,7 @@
 title: "Spiritus"
 layout: "single"
 type: "directory"
-description: "Spiritus is a US-based climate-tech company developing low-cost Direct Air Capture using a novel solid sorbent and a passive Carbon Orchard contacting system"
+description: "Spiritus is a US-based climate-tech company developing low-cost Direct Air Capture using a novel solid sorbent and a passive \\"Carbon Orchard\\" contacting system"
 url: "/directory/spiritus/"
 pathway: "DAC"
 liveliness: "🟢 Active"

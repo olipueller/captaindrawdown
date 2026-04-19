@@ -1,0 +1,31 @@
+---
+title: "AtlantiCO2"
+layout: "single"
+type: "directory"
+description: "AtlantiCO2 — Unknown company in Unknown"
+url: "/directory/atlantico2/"
+pathway: "Unknown"
+---
+
+**Pathway:** Unknown
+**Method:** Unknown
+**Country:** Unknown
+**Website:** [https://atlantico2.com/](https://atlantico2.com/)
+**CDR Focus:** unclassified
+**Evidence signals:** exa_search, cdrfyi_listing
+
+
+## History
+
+- **2026-04-19** — discovered via: exa, cdrfyi ([source](https://atlantico2.com/))
+
+---
+
+> ⚠️ **AI-Enriched Data — May Contain Errors**
+> This entry is maintained autonomously by Captain Drawdown using public signals
+> (news, registries, cdrjobs, LinkedIn/Coresignal, press releases). Status
+> ratings and descriptions are estimates — not verified facts. If you spot an
+> error, let us know on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
+> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
+> (Jan 2026, CC BY-NC-SA 4.0).
