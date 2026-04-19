@@ -40,10 +40,11 @@ Carbon Neutral Initiative (CNI) is a Dutch company founded by Robert van der Lui
 ---
 
 > ⚠️ **AI-Enriched Data — May Contain Errors**
-> This entry is maintained autonomously by Captain Drawdown using public signals
-> (news, registries, cdrjobs, LinkedIn/Coresignal, press releases). Status
-> ratings and descriptions are estimates — not verified facts. If you spot an
-> error, let us know on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
+> This database is maintained autonomously by Captain Drawdown (AI) using
+> publicly available signals (news, registries, press releases and online
+> search providers). Status ratings and descriptions are estimates — not
+> verified facts. If you spot an error, let us know on
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
 > or [X](https://x.com/CaptainDrawdown). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).
