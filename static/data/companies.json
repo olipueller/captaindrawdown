@@ -10670,6 +10670,8 @@
     "description": "InPlanet is a Brazil/Germany-based climate tech startup pioneering tropical Enhanced Rock Weathering (ERW), applying finely crushed basalt rock powder to tropical farmland in Brazil to sequester CO2 as bicarbonates while improving soil fertility. The company delivered the world's first independently verified ERW carbon credits via Isometric in late 2024 and in December 2025 signed an agreement with Microsoft to deliver more than 28,500 tonnes of CO2 removal between 2026 and 2028.",
     "cdr_focus": "supplier",
     "cdi_portfolio": true,
+    "employee_count": 80,
+    "employee_count_inferred": 80,
     "health_tier": "🟢 Active",
     "health_score": 97,
     "pathway_primary": "Enhanced Weathering",
