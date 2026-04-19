@@ -17759,6 +17759,24 @@
     "cdrjobs_job_count": 1
   },
   {
+    "name": "Sequestra",
+    "slug": "sequestra",
+    "category": "Mineralization",
+    "method": "Unknown",
+    "country": "Austria",
+    "url": "https://sequestra.tech/",
+    "tech_note": "Accelerated ex-situ mineral carbonation: reacts CO2 with alkaline industrial residues (steel slag, biomass/incineration ash, demolition debris) to form stable carbonates usable in construction, with an in-house analytical lab and modular containerized reactors.",
+    "description": "Sequestra is a Vienna-based climate tech startup founded in 2024 that develops accelerated carbonation technology to permanently bind CO2 in industrial residues such as steel slag, biomass ash, incineration ash, and demolition debris. The resulting carbonates can be reused as construction materials, and the company is scaling from its analytical lab toward a first modular containerized mineralisation unit targeted for late 2027.",
+    "cdr_focus": "supplier",
+    "cdi_portfolio": false,
+    "health_tier": "🟢 Active",
+    "health_score": 90,
+    "pathway_primary": "Mineralization",
+    "liveliness_tier": "🟢 Active",
+    "liveliness_score": 90,
+    "cdrjobs_job_count": 0
+  },
+  {
     "name": "Shanghai HaiQi Environmental Technology",
     "slug": "shanghai-haiqi-environmental-technology",
     "category": "Biochar",
