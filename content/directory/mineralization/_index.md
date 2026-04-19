@@ -2,25 +2,25 @@
 title: "Mineralization — CDR Pathway"
 layout: "single"
 type: "directory"
-description: "Captain Drawdown's directory of all companies working on Mineralization as a primary pathway. 45 companies tracked."
+description: "Captain Drawdown's directory of all companies working on Mineralization as a primary pathway. 42 companies tracked."
 url: "/directory/mineralization/"
 ---
 
-# Mineralization — 45 Companies Tracked
+# Mineralization — 42 Companies Tracked
 
 **Market pulse for Mineralization (updated 2026-04-19).**
 
 <div class="directory-stats">
-  <div class="stat-box"><span class="num">45</span><span class="label">Companies</span></div>
-  <div class="stat-box"><span class="num" style="color:#22c55e">27</span><span class="label">🟢 Active</span></div>
-  <div class="stat-box"><span class="num" style="color:#eab308">13</span><span class="label">🟡 Moderate</span></div>
+  <div class="stat-box"><span class="num">42</span><span class="label">Companies</span></div>
+  <div class="stat-box"><span class="num" style="color:#22c55e">25</span><span class="label">🟢 Active</span></div>
+  <div class="stat-box"><span class="num" style="color:#eab308">12</span><span class="label">🟡 Moderate</span></div>
   <div class="stat-box"><span class="num" style="color:#f97316">5</span><span class="label">🟠 Suspect</span></div>
   <div class="stat-box"><span class="num" style="color:#ef4444">0</span><span class="label">🔴 Maybe Dead?</span></div>
 </div>
 
 <div class="directory-stats">
-  <div class="stat-box"><span class="num">1,140</span><span class="label">Total employees (lower bound)</span></div>
-  <div class="stat-box"><span class="num">38/45</span><span class="label">Companies with headcount data</span></div>
+  <div class="stat-box"><span class="num">1,129</span><span class="label">Total employees (lower bound)</span></div>
+  <div class="stat-box"><span class="num">36/42</span><span class="label">Companies with headcount data</span></div>
 </div>
 
 ## Largest companies

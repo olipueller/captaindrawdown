@@ -2,28 +2,33 @@
 title: "Absolute Climate"
 layout: "single"
 type: "directory"
-description: "Absolute Climate is an independent quality-assurance standards provider for carbon dioxide removal, developing the Absolute Carbon Standard (ACS) — a"
+description: "Absolute Climate is an independent quality-assurance and standards developer for carbon dioxide removal, headquartered in San Francisco. Its flagship Absolute"
 url: "/directory/absolute-climate/"
 pathway: "Enabling Tech"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
 <table class="company-facts">
   <tr><th>Pathway</th><td>Enabling Tech</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
-  <tr><th>Website</th><td><a href="https://absoluteclimate.org" target="_blank" rel="noopener">https://absoluteclimate.org</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Website</th><td><a href="https://www.absoluteclimate.com" target="_blank" rel="noopener">https://www.absoluteclimate.com</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
 ## About
 
-Absolute Climate is an independent quality-assurance standards provider for carbon dioxide removal, developing the Absolute Carbon Standard (ACS) — a universal, pathway-agnostic framework for certifying CDR credits. The company deliberately separates standard-setting from credit issuance and partners with registries (e.g. Evident's C-Capsule, Northern Trust Carbon Ecosystem) rather than operating its own. Headquartered in San Francisco and founded by Peter Minor, Greg Becker, and Friedel Pretorius.
+Absolute Climate is an independent quality-assurance and standards developer for carbon dioxide removal, headquartered in San Francisco. Its flagship Absolute Carbon Standard (ACS) is a pathway-agnostic framework for certifying CDR credits, deliberately separating standard-setting from credit issuance by partnering with registries such as Evident's C-Capsule and the Northern Trust Carbon Ecosystem. In 2026 it expanded into certification of low-carbon products (e.g. concrete, green steel, SAF) via Environmental Attribute Certificates.
+
+![Absolute Climate website](/screenshots/absolute-climate.png)
 
 
 ## History
 
+- **2026-04-19** — reactivated — screenshot succeeded in reshoot3
+- **2026-04-19** — deactivated — URL https://www.absoluteclimate.com returns DNS-fail or HTTP-error after 2 shoot attempts; likely defunct
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.globenewswire.com/news-release/2026/02/17/3239352/0/en/Absolute-Climate-Launches-New-Certification-Framework-for-Low-Carbon-Products.html))
 - **2026-04-19** — refresh: liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://absoluteclimate.org))

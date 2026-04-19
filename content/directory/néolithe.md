@@ -2,7 +2,7 @@
 title: "Néolithe"
 layout: "single"
 type: "directory"
-description: "Néolithe is a French industrial startup founded in 2019 and based near Angers (Maine-et-Loire) that operates \"Fossilizers\" — machines that shred mixed"
+description: "Néolithe is a French industrial startup founded in 2019, headquartered near Angers (Maine-et-Loire), that operates patented \"Fossilizers\" transforming"
 url: "/directory/néolithe/"
 pathway: "Biomass Burial"
 liveliness: "🟢 Active"
@@ -15,19 +15,22 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>BiCRS (Other)</td></tr>
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://neolithe.com/" target="_blank" rel="noopener">https://neolithe.com/</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Néolithe is a French industrial startup founded in 2019 and based near Angers (Maine-et-Loire) that operates "Fossilizers" — machines that shred mixed non-recyclable waste and react it with a proprietary mineral binder to produce Anthropocite aggregates for the construction industry. The company claims that for every ton of aggregate produced, 337 kg of CO2 equivalent is stored, by preventing the decomposition/incineration of biogenic carbon in the waste stream. Néolithe operates two R&D pilot lines near Angers and is preparing to install its first large-capacity plant.
+Néolithe is a French industrial startup founded in 2019, headquartered near Angers (Maine-et-Loire), that operates patented "Fossilizers" transforming non-recyclable waste into Anthropocite mineral aggregates for concrete and road base. The company claims that for every ton of aggregate produced, 337 kg of CO2 equivalent is stored, by preventing the landfilling or incineration of the biogenic fraction of the waste. In summer 2025 the firm pivoted away from construction-and-demolition waste due to asbestos contamination risks.
 
 ![Néolithe website](/screenshots/néolithe.png)
 
 
 ## History
 
+- **2026-04-19** — reactivated — screenshot succeeded in reshoot3
+- **2026-04-19** — deactivated — URL https://neolithe.com/ returns DNS-fail or HTTP-error after 2 shoot attempts; likely defunct
+- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://neolithe.fr/))
 - **2026-04-19** — merged 1 duplicate(s): Neolithe
 - **2026-04-19** — refresh: liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
