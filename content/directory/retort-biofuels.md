@@ -13,8 +13,6 @@ liveliness: "🟢 Active"
 **Country:** India
 **Website:** [https://www.indiamart.com/retort-biofuels/](https://www.indiamart.com/retort-biofuels/)
 **Status:** 🟢 Active (score: 70/100)
-**Employees:** ~53728 (+188% YoY)
-**LinkedIn Followers:** 2,118
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
@@ -27,13 +25,12 @@ Retort Biofuels is a small Jaipur, India-based producer of biochar and wood vine
 
 ## History
 
+- **2026-04-19** — nulled Coresignal enrichment — LinkedIn slug "amazom" was misidentified match (Amazon Retail, 53728 employees, not biochar)
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active ([source](N/A))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.indiamart.com/retort-biofuels/other-products.html))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.indiamart.com/retort-biofuels/other-products.html))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/amazom/)
 
 ---
 

@@ -19,13 +19,12 @@ url: "/directory/biochar/"
 </div>
 
 <div class="directory-stats">
-  <div class="stat-box"><span class="num">64,316</span><span class="label">Total employees (lower bound)</span></div>
-  <div class="stat-box"><span class="num">314/400</span><span class="label">Companies with headcount data</span></div>
+  <div class="stat-box"><span class="num">10,588</span><span class="label">Total employees (lower bound)</span></div>
+  <div class="stat-box"><span class="num">313/400</span><span class="label">Companies with headcount data</span></div>
 </div>
 
 ## Largest companies
 
-- [Retort Biofuels](/directory/retort-biofuels/) — 53728 employees
 - [Usinas Itamarati](/directory/usinas-itamarati/) — 1328 employees
 - [Aquafin](/directory/aquafin/) — 1011 employees
 - [Industrielle Werke Basel](/directory/industrielle-werke-basel/) — 787 employees
@@ -35,6 +34,7 @@ url: "/directory/biochar/"
 - [Empacar](/directory/empacar/) — 277 employees
 - [SCG Cement](/directory/scg-cement/) — 254 employees
 - [EAD](/directory/ead/) — 248 employees
+- [NetZero](/directory/netzero/) — 207 employees
 
 ## All Biochar companies
 
