@@ -24,6 +24,8 @@ liveliness: "🟡 Moderate"
 
 Carbon Xtract Corporation is a Fukuoka, Japan-based company established in 2023 by Sojitz Corporation (with Kyushu University as investor) to commercialize membrane-based Direct Air Capture (m-DAC®) technology developed at Kyushu University. The technology uses high-permeability nano-separation membranes to capture CO₂ from ambient air in small-scale, distributed devices. The company has joint-development partnerships with Tokyo Ohka Kogyo and was selected for a Tokyo Metropolitan Government GX project with Shimizu Corporation.
 
+![Carbon Xtract website](/screenshots/carbon-xtract.png)
+
 
 ## History
 

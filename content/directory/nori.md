@@ -25,6 +25,8 @@ liveliness: "🟡 Moderate"
 
 Nori was a Seattle-based carbon removal marketplace and registry that connected buyers with US farmers practicing regenerative agriculture for soil carbon sequestration, tracking credits ("Regenerative Tonnes") on blockchain. The company operated from 2017 until September 2024, when it shut down citing a stagnant voluntary carbon market and tough fundraising environment after raising $17.25M.
 
+![Nori website](/screenshots/nori.png)
+
 
 ## History
 

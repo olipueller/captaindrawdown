@@ -25,6 +25,8 @@ liveliness: "🟡 Moderate"
 
 Bussme Energy AB is a Swedish family-owned company founded in 2010 that operates district heating plants in southern Sweden and produces biochar. It claims to be one of Europe's largest biochar producers, with multiple production facilities in southern Sweden.
 
+![Bussme Energy website](/screenshots/bussme-energy.png)
+
 
 ## History
 

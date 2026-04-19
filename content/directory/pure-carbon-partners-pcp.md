@@ -24,6 +24,8 @@ liveliness: "🟡 Moderate"
 
 Pure Carbon Partners (PCP) is a buyer-side carbon asset management and procurement advisor focused exclusively on durable carbon dioxide removal. The firm aggregates corporate demand to negotiate long-term offtake agreements with CDR suppliers, handling project evaluation, MRV scrutiny, and delivery management. It does not physically remove CO2 itself.
 
+![Pure Carbon Partners (PCP) website](/screenshots/pure-carbon-partners-pcp.png)
+
 
 ## History
 

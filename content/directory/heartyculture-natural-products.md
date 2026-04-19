@@ -22,6 +22,8 @@ liveliness: "🟡 Moderate"
 
 Heartyculture Natural Products LLP is an Indian company based in Telangana that operates a biochar CDR program alongside its nursery and wellness-product businesses. Through a partnership with Circonomy, it runs artisan biochar production sites that convert crop residues (such as cotton stalks) into biochar applied to soil, generating carbon removal credits under Global Artisan C-Sinks guidelines.
 
+![Heartyculture Natural Products website](/screenshots/heartyculture-natural-products.png)
+
 
 ## History
 

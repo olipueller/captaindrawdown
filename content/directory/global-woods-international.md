@@ -25,6 +25,8 @@ liveliness: "🟢 Active"
 
 Global-woods international AG is a German project developer founded in 1987 that develops reforestation and biochar carbon-removal projects across Latin America and Africa, including Paraguay and Uganda. The company has planted over 10 million trees and is expanding into biochar production facilities in Uganda, selling certified carbon removals to corporate and institutional buyers.
 
+![Global Woods International website](/screenshots/global-woods-international.png)
+
 
 ## History
 

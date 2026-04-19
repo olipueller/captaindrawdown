@@ -24,6 +24,8 @@ liveliness: "🟡 Moderate"
 
 Carbon Plant is an Isle of Man-based, FSA-registered carbon credit exchange that uses NFT digital certificates to authenticate ownership of carbon contracts and offers forward contracts and structured/securitised products. It connects corporate buyers and investors to carbon projects rather than physically removing CO2 itself, functioning as marketplace/exchange infrastructure within the broader carbon ecosystem.
 
+![Carbon Plant website](/screenshots/carbon-plant.png)
+
 
 ## History
 

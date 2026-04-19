@@ -25,6 +25,8 @@ liveliness: "🟡 Moderate"
 
 GECA Environnement is a Quebec City-based consulting firm specializing in biochar and pyrolysis project development. They provide services including feedstock/technology selection, project design, life-cycle analysis, carbon credit certification, and brokerage of biochar and carbon credits for producers worldwide. They do not physically produce biochar themselves but support and commercialize projects for biochar producers.
 
+![GECA Environment website](/screenshots/geca-environment.png)
+
 
 ## History
 

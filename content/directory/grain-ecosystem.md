@@ -24,6 +24,8 @@ liveliness: "🟡 Moderate"
 
 Grain Ecosystem was a Boston-based digital platform (founded 2022) that provided software, workflows, and financing tools for biochar project developers, connecting operators with investors and equipment manufacturers. It did not physically produce biochar itself. In April 2026, Mangrove Systems acquired select operating assets and migrated Grain's customer base of biochar operators onto Mangrove's MRV platform, effectively winding down Grain as a standalone entity.
 
+![Grain Ecosystem website](/screenshots/grain-ecosystem.png)
+
 
 ## History
 

@@ -23,6 +23,8 @@ liveliness: "🟢 Active"
 
 CDR.fyi is a market intelligence and data platform for the durable carbon dioxide removal industry, tracking transactions, prices, deliveries, and supplier/buyer rankings. Structured as a Delaware public benefit corporation, it publishes quarterly market updates and operates a subscription-based data portal used by buyers, suppliers, investors, and policymakers.
 
+![CDR.fyi website](/screenshots/cdrfyi.png)
+
 
 ## History
 

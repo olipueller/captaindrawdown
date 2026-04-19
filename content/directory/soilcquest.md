@@ -24,6 +24,8 @@ liveliness: "🟡 Moderate"
 
 SoilCQuest 2031 is an Australian not-for-profit research institute founded in 2012 by Guy Webb, Mick Wettenhall and Mark Shortis to develop a microbial inoculum from a carbon-capturing fungus discovered in soils. The melanised endophytic fungus sequesters long-lasting soil organic carbon around plant roots, and when inoculated onto crop roots via a seed dressing draws down atmospheric carbon at scale. They also run the ForGood Carbon research initiative and soil-carbon education/extension programs for Australian farmers.
 
+![SoilCQuest website](/screenshots/soilcquest.png)
+
 
 ## History
 

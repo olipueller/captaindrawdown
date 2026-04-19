@@ -26,6 +26,8 @@ liveliness: "🟢 Active"
 
 Thalo Labs is a New York City-based climate-tech company that builds the Thalo Capture indoor DAC + mineralization system (deployed at Newark Airport Terminal B and the Empire State Building) alongside an HVAC sensing/AI platform called Copilot. Their main website has pivoted to emphasize predictive HVAC intelligence for contractors, but the Thalo Capture DAC product line remains active with ongoing deployments and Port Authority partnerships on captured-CO₂ concrete.
 
+![Thalo Labs website](/screenshots/thalo-labs.png)
+
 ## Registry Memberships
 
 - Cdrjobsearth

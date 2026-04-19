@@ -24,6 +24,8 @@ liveliness: "🟢 Active"
 
 Bynamic Group is a Calgary, Canada-based consultancy and carbon-credit trading firm founded in 2022. They help organizations navigate voluntary carbon markets, I-REC renewable energy certificates, and project development, acting as a broker and advisor rather than a physical CO2 remover.
 
+![Bynamic Group Inc. website](/screenshots/bynamic-group-inc.png)
+
 
 ## History
 

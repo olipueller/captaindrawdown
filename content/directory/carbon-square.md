@@ -23,6 +23,8 @@ liveliness: "🟡 Moderate"
 
 Carbon Square (CarbonSQR) is an early-stage Indian startup developing Direct Air Capture technology and planning what is described as India's first pilot DAC facility near Hyderabad, targeting up to 8 tonnes of CO₂ per day. The company also mentions carbon reuse alongside permanent sequestration, suggesting a mixed CDR/CCU orientation at this early stage.
 
+![Carbon Square website](/screenshots/carbon-square.png)
+
 
 ## History
 

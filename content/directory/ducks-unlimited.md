@@ -25,6 +25,8 @@ liveliness: "🟢 Active"
 
 Ducks Unlimited (DU) is a North American waterfowl and wetlands conservation nonprofit that runs a carbon program partnering with private landowners. Its projects include avoided grassland conversion in the Northern Great Plains and the Flyway Forests bottomland-hardwood reforestation program in the lower Mississippi River valley. Credits are sold on voluntary carbon markets to fund ongoing conservation and landowner payments.
 
+![Ducks Unlimited website](/screenshots/ducks-unlimited.png)
+
 
 ## History
 

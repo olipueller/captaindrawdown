@@ -23,6 +23,8 @@ liveliness: "🟡 Moderate"
 
 Open Carbon Protocol (OCP) is a collaborative carbon crediting registry and methodology platform operated by oneshot.earth, a Delaware-incorporated company. It uses a peer-review-style process with external expert panels to develop and approve methodologies and validate projects across the voluntary carbon market, covering both emission reductions and removals.
 
+![Open Carbon Protocol website](/screenshots/open-carbon-protocol.png)
+
 
 ## History
 

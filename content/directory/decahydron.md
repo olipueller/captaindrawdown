@@ -24,6 +24,8 @@ liveliness: "🟡 Moderate"
 
 Decahydron is an Irish company developing natural (geologic) hydrogen production coupled with CO₂ mineralisation in ultramafic rock formations. It operates projects in the Northern Emirates and broader MENA region, backed by a November 2025 strategic investment from Weatherford, and has a research partnership with iCRAG in Ireland.
 
+![Decahydron website](/screenshots/decahydron.png)
+
 
 ## History
 

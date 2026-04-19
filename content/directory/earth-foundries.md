@@ -23,6 +23,8 @@ liveliness: "🟢 Active"
 
 Earth Foundries is a California-based, woman-owned Benefit Corporation founded in 2021 that processes unmerchantable forest waste from hazardous fuels reduction projects into biochar using mobile pyrolysis equipment (Slash Attack®). The company operates across California in partnership with CAL FIRE, the US Forest Service and local agencies to reduce wildfire risk while producing carbon-negative biochar for soil, compost, and stormwater applications.
 
+![Earth Foundries website](/screenshots/earth-foundries.png)
+
 
 ## History
 

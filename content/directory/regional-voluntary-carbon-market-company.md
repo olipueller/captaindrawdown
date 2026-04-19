@@ -24,6 +24,8 @@ liveliness: "🟢 Active"
 
 The Regional Voluntary Carbon Market Company (RVCMC/VCM) is a Riyadh-based carbon credit exchange and auction platform established in October 2022 as a joint venture between Saudi Arabia's Public Investment Fund (80%) and Saudi Tadawul Group (20%). It runs auctions and a trading platform (launched Nov 2024, powered by Xpansiv) for CORSIA-eligible and Verra-registered carbon credits, serving MENA and global buyers. It is a marketplace/exchange rather than a CDR supplier.
 
+![Regional Voluntary Carbon Market Company website](/screenshots/regional-voluntary-carbon-market-company.png)
+
 
 ## History
 

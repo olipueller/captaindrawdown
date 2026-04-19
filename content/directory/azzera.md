@@ -24,6 +24,8 @@ liveliness: "🟡 Moderate"
 
 Azzera is a carbon offset marketplace and aviation compliance services provider, founded in 2022 by Puja Mahajan and Nick Houseman, primarily serving business aviation clients with EU ETS, UK ETS, Swiss ETS and CORSIA compliance. It resells a portfolio of avoidance and removal credits (including biochar, nature-based and DAC) through its GHG marketplace rather than producing removals itself.
 
+![Azzera website](/screenshots/azzera.png)
+
 
 ## History
 

@@ -25,6 +25,8 @@ liveliness: "🟢 Active"
 
 Kanadevia Corporation (formerly Hitachi Zosen Corporation, rebranded October 2024) is a major Japanese industrial and engineering company headquartered in Osaka, with roughly 13,000 employees. Through its Swiss subsidiary Kanadevia Inova, it develops and delivers carbon capture technology (amine scrubbing) for waste-to-energy plants — including the UK's first full-scale WtE CCS facility at Protos ERF (~370,000 tCO2/yr, biogenic + fossil) — and biochar-producing anaerobic-digestion/gasification plants such as the Dem-Con HZI BioEnergy project in Minnesota.
 
+![Kanadevia website](/screenshots/kanadevia.png)
+
 
 ## History
 

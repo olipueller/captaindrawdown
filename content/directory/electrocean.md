@@ -24,6 +24,8 @@ liveliness: "🟡 Moderate"
 
 Electrocean is an early-stage US student-founded marine CDR startup developing electrochemical technology to sequester CO2 directly from seawater while co-producing calcium carbonate and hydrogen, with an initial go-to-market in oyster aquaculture. The team is building oyster farming technology that fortifies oysters against mass mortality, quickens their growth, and captures carbon dioxide to fight ocean acidification and climate change. The company was a Purdue Innovates Incubator Spring 2026 Moonshot Pitch Challenge winning team.
 
+![Electrocean website](/screenshots/electrocean.png)
+
 
 ## History
 

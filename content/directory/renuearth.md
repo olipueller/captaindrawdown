@@ -23,6 +23,8 @@ liveliness: "🟡 Moderate"
 
 Renu Earth, Inc. is a US-incorporated biochar carbon-removal company operating a pilot project with a major sawmill in KwaZulu-Natal, South Africa, converting wood residues into biochar and generating Puro.earth-certified CORCs in partnership with Carbonfuture for dMRV and offtake. Carbonfuture committed to purchasing the initial 1,000 CORCs and will broker a total volume of up to 102,000 CORCs yearly. By 2027, Renu Earth plans to expand to 10 additional sites, potentially generating up to 200,000 CORCs annually.
 
+![renu.earth website](/screenshots/renuearth.png)
+
 
 ## History
 

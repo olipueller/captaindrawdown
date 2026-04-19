@@ -25,6 +25,8 @@ liveliness: "🟡 Moderate"
 
 Dotz Nano (ASX: DTZ; operating R&D from Kefar-Sava, Israel with corporate listing in Melbourne, Australia) is a materials-science company whose DOTZearth division develops solid sorbents for Direct Air Capture and point-source carbon capture. They supply sorbent material (including the polymeric p-AMP and carbon-based nanoporous sorbents) to DAC system developers rather than operating capture plants themselves, with an MOU signed in 2025 with CarbonCapture Inc. for kilogram-scale trials and ongoing collaborations with SINTEF and Bar-Ilan University.
 
+![Dotz Nano website](/screenshots/dotz-nano.png)
+
 
 ## History
 

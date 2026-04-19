@@ -25,6 +25,8 @@ liveliness: "🟡 Moderate"
 
 Climate Action Reserve (CAR) is a Los Angeles-based environmental nonprofit carbon offset registry that develops protocols, accredits verifiers, and issues carbon credits for North American voluntary and compliance markets (including California's Cap-and-Trade Program). Founded in 2001 as the California Climate Action Registry, CAR serves as infrastructure for the carbon market rather than developing CDR projects itself, though it publishes protocols covering CDR-relevant pathways such as biochar and forest carbon.
 
+![Climate Action Reserve (CAR) website](/screenshots/climate-action-reserve-car.png)
+
 
 ## History
 

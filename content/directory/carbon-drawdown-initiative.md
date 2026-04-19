@@ -24,6 +24,8 @@ liveliness: "🟢 Active"
 
 Carbon Drawdown Initiative GmbH is a philanthropically-funded German organization founded in 2019 by Dirk Paessler (founder of Paessler AG) that supports the emerging CDR industry through early-stage investments in CDR startups, scientific research, and policy work. Its flagship "Project Carbdown" conducts enhanced rock weathering field and greenhouse experiments in partnership with universities including Hamburg, Wageningen, and the Alfred Wegener Institute to measure CO2 sequestration from basalt/olivine applied to croplands. The organization does not sell removal credits itself but acts as an R&D, investor, and ecosystem actor for the ERW field.
 
+![Carbon Drawdown Initiative website](/screenshots/carbon-drawdown-initiative.png)
+
 
 ## History
 

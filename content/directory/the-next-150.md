@@ -24,6 +24,8 @@ liveliness: "🟡 Moderate"
 
 The Next 150 is a Swiss-based carbon removal venture developer and operator founded in late 2022, focused on scaling CDR projects in emerging markets, particularly Latin America. Its first venture, General Biochar Systems (GBS), operates a biochar production plant in Guanajuato, Mexico, producing credits on the Puro.earth registry. The company has signed multi-year offtake agreements with Microsoft (95,000 tons) and Shell Environmental Products (22,500 tons).
 
+![The Next 150 website](/screenshots/the-next-150.png)
+
 
 ## History
 

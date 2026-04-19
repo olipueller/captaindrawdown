@@ -24,6 +24,8 @@ liveliness: "🟡 Moderate"
 
 Beccs Stockholm is Swedish district-energy company Stockholm Exergi's large-scale Bio-Energy Carbon Capture and Storage project at the Värtaverket biomass combined heat and power plant in Stockholm. The facility is designed to capture up to 800,000 tonnes of biogenic CO2 per year, with the captured CO2 liquefied and shipped to the Northern Lights geological storage site off the Norwegian coast, targeting start-up in 2028. Funded by EU Innovation Fund (€180M), Swedish state aid via reverse auction, and sales of carbon removal credits.
 
+![Beccs Stockholm website](/screenshots/beccs-stockholm.png)
+
 
 ## History
 

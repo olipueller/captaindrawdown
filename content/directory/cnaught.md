@@ -24,6 +24,8 @@ liveliness: "🟢 Active"
 
 CNaught is a US-based carbon credit marketplace and portfolio provider that curates diversified bundles of high-integrity carbon credits (including both avoided emissions and engineered carbon removal) for small and mid-sized business buyers. It does not operate removal projects itself but resells credits from suppliers such as Charm Industrial, Heirloom, CarbonCapture and Lithos, and provides diligence, reporting and API tools.
 
+![Cnaught website](/screenshots/cnaught.png)
+
 
 ## History
 

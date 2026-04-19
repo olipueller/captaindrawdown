@@ -24,6 +24,8 @@ liveliness: "🟢 Active"
 
 Vantaan Energia is a Finnish municipal energy utility majority-owned by the City of Vantaa that is developing Vantaa Carbon Capture, Finland's first industrial-scale CCS project at its waste-to-energy plant. Roughly half of the captured CO2 is biogenic, generating approximately 300,000 carbon removal units per year for sale, with permanent storage planned in North Sea geological formations. An investment decision is targeted for 2027, with operations by 2030–2035.
 
+![Vantaan Energia website](/screenshots/vantaan-energia.png)
+
 
 ## History
 

@@ -25,6 +25,8 @@ liveliness: "🟢 Active"
 
 Planboo is a Swedish biochar carbon removal company founded in Stockholm in 2020 that empowers smallholder farmers and project developers across the tropics (Ghana, India, Namibia and others) to convert agricultural waste biomass into biochar. Its proprietary MRVin™ digital MRV system uses IoT thermal sensors (the Greenbox) on kilns to monitor pyrolysis in real time, and its credits are certified under Puro.earth and Carbon Standards International.
 
+![Planboo website](/screenshots/planboo.png)
+
 
 ## History
 

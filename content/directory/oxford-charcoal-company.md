@@ -23,6 +23,8 @@ liveliness: "🟠 Suspect"
 
 Oxford Charcoal Company is a UK producer of sustainable lumpwood barbecue charcoal whose kilns also yield biochar sold in bagged form to gardeners and horticulturists. They report producing roughly 516,600 kg of biochar, which they claim sequesters about 2,021,760 kg of CO2. Biochar is a secondary product line alongside the core BBQ charcoal business and is not sold into carbon credit registries.
 
+![Oxford Charcoal Company website](/screenshots/oxford-charcoal-company.png)
+
 
 ## History
 

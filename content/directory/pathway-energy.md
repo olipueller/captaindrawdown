@@ -24,6 +24,8 @@ liveliness: "🟡 Moderate"
 
 Pathway Energy is a Houston-based developer of carbon-negative sustainable aviation fuel projects and a wholly-owned subsidiary of Nexus Holdings. Its flagship Port Arthur, Texas project pairs biomass gasification and Fischer-Tropsch SAF production with a BECCS system intended to remove ~1.9 million tonnes of CO2 annually, with construction targeted for early 2026 and commercial operations in 2029. Drax Global is the planned wood pellet feedstock supplier and potential strategic investor.
 
+![Pathway Energy website](/screenshots/pathway-energy.png)
+
 
 ## History
 

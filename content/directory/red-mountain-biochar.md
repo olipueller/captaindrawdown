@@ -23,6 +23,8 @@ liveliness: "🟡 Moderate"
 
 Red Mountain Biochar is a Texas-based (Atlanta, TX) biochar producer that transforms forestry and agricultural waste biomass into biochar, BioCoal, and Carbon Black via pyrolysis. In October 2024 it formed BluMountain Carbon, a 50/50 joint venture with publicly-listed BluSky Carbon Inc., which subsequently signed LOIs for biochar projects in Orlando, Tanzania, and the southeastern US using BluSky's Vulcan pyrolysis equipment. CEO Bill Wyatt continues to publicly promote the company as of mid-2025.
 
+![Red Mountain Biochar website](/screenshots/red-mountain-biochar.png)
+
 
 ## History
 

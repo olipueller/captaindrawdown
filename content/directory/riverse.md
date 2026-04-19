@@ -22,6 +22,8 @@ liveliness: "🟡 Moderate"
 
 Riverse (rebranded as Rainbow Standard in 2025) is a French carbon credit certification standard and registry focused on engineered and circular-economy climate projects in Europe. It validates and issues credits for projects including biochar, biomass carbon removal, enhanced rock weathering, bio-based construction materials, and IT refurbishment, and received ICROA endorsement in 2024.
 
+![Riverse website](/screenshots/riverse.png)
+
 
 ## History
 

@@ -25,6 +25,8 @@ liveliness: "🟡 Moderate"
 
 The Climate Foundation is a US-based 501(c)(3) nonprofit developing Marine Permaculture — submersible seaweed cultivation platforms that restore deep-ocean nutrient upwelling to grow kelp and tropical seaweeds, with residual biomass sunk to the deep seafloor for long-term carbon sequestration. Founded by Dr. Brian Von Herzen, the organization has run pilot and hectare-scale trials in the Philippines and American Samoa.
 
+![Marine Permaculture by Climate Foundation website](/screenshots/marine-permaculture-by-climate-foundation.png)
+
 
 ## History
 

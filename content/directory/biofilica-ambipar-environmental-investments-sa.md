@@ -23,6 +23,8 @@ liveliness: "🟡 Moderate"
 
 Biofílica Ambipar Environment is a Brazilian nature-based solutions carbon project developer, now operating as Ambipar Environment's Carbon Solutions / Decarbon business unit after being acquired by Ambipar Group in 2021. The company develops and markets forest-based carbon credits from REDD+ conservation, afforestation/reforestation (ARR), agricultural land management (ALM), Blue Carbon, and biochar projects across the Amazon, Atlantic Forest, and Pantanal biomes. It is a multi-award-winning forest project developer and one of the largest NbS carbon suppliers in Latin America.
 
+![BIOFILICA AMBIPAR ENVIRONMENTAL INVESTMENTS S.A. website](/screenshots/biofilica-ambipar-environmental-investments-sa.png)
+
 
 ## History
 

@@ -25,6 +25,8 @@ liveliness: "🟢 Active"
 
 Carbone Farmers is a French project developer founded in 2021 that helps farmers and agricultural cooperatives transition to regenerative, low-carbon practices, generating soil carbon credits certified under the French Label Bas Carbone. The company works with cooperatives and agri-food businesses across France, covering over 1,000 farms, and also operates FarmGate Metrics/Credits platforms for MRV and scope 3 reporting.
 
+![Carbone Farmers website](/screenshots/carbone-farmers.png)
+
 
 ## History
 

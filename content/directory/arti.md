@@ -24,6 +24,8 @@ liveliness: "🟡 Moderate"
 
 ARTi (Advanced Renewable Technology International) is a U.S.-based biochar company founded in 2013, headquartered in Prairie City, Iowa. It designs and manufactures containerized pyrolysis reactors (Biochar Production Units) and produces biochar from agricultural and forestry biomass, selling both equipment and biochar products. It is listed as a Puro.earth CORC supplier.
 
+![ARTi website](/screenshots/arti.png)
+
 
 ## History
 

@@ -23,6 +23,8 @@ liveliness: "🟡 Moderate"
 
 Next Wave Carbon Removal is a US-based (Des Moines, Iowa) biochar producer that combines ARTi Biochar's pyrolysis technology with Maxsum Environmental's investment backing. The company produces biochar from local waste wood and operates as a vertically integrated biochar-to-carbon-credit business, with plans to expand from the US into Latin America.
 
+![Next Wave Carbon Removals website](/screenshots/next-wave-carbon-removals.png)
+
 
 ## History
 

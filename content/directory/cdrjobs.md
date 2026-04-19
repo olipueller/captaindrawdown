@@ -24,6 +24,8 @@ liveliness: "🟡 Moderate"
 
 CDRjobs is a dedicated jobs board and industry-insights platform for the carbon dioxide removal sector, launched in May 2024. It aggregates CDR job listings, publishes annual salary reports, and offers embeddable third-party job boards for coalitions like the DAC Coalition and AFEN.
 
+![CDRjobs website](/screenshots/cdrjobs.png)
+
 
 ## History
 

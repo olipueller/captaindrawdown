@@ -24,6 +24,8 @@ liveliness: "🟡 Moderate"
 
 Planet Moja is a UK-based carbon credit portfolio curator and broker with a research focus on Kenya and East Africa. They source independently verified carbon credits (a mix of avoidance and removal projects certified to standards such as Verra, Gold Standard, Plan Vivo and Puro.earth) and resell them to corporate and individual buyers via a proprietary ratings system. They are not a direct CDR supplier — they are a marketplace/broker within the carbon market ecosystem.
 
+![Planet Moja Limited website](/screenshots/planet-moja-limited.png)
+
 
 ## History
 

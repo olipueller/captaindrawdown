@@ -24,6 +24,8 @@ liveliness: "🟢 Active"
 
 Community Climate Solutions (CCS) is a social carbon project developer operating in Zambia's Miombo Woodlands. Working with Climate Impact Partners, its Ecopreneur Movement trains smallholder farmers to plant native trees, manage fires, and restore degraded woodland, targeting removal of up to 2 million tonnes of CO₂ annually by 2030 under Verra's VM0047 reforestation methodology.
 
+![Community Climate Solutions website](/screenshots/community-climate-solutions.png)
+
 
 ## History
 

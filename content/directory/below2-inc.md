@@ -24,6 +24,8 @@ liveliness: "🟢 Active"
 
 BELOW2 Inc. is a San Francisco-based startup (with German founders) that operates a data-driven verification automation platform and standard for carbon credits, called Verified Carbon Impact (VCI). It is an MRV/standards/marketplace ecosystem player rather than a physical CDR supplier, covering both avoidance and removal projects (including biochar). Activity signals are sparse since 2023–2024.
 
+![BELOW2 Inc. website](/screenshots/below2-inc.png)
+
 
 ## History
 

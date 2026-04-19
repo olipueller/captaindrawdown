@@ -23,6 +23,8 @@ liveliness: "🟢 Active"
 
 Carbon Plus is a Malaysia-based biochar project developer operating the Bukit Selar Carbon Station in Kelantan, described as Malaysia's first industrial-scale commercial biochar plant, through its subsidiary Carbon Zero. The demonstration plant, commissioned in 2024, has a nameplate capacity of 500 tonnes of biochar and ~1,200 tCO2e removed annually, uses CrystalTrade's dMRV, and has received an Ae ex ante rating from BeZero Carbon.
 
+![Carbon Plus website](/screenshots/carbon-plus.png)
+
 
 ## History
 

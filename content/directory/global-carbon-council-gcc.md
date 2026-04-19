@@ -25,6 +25,8 @@ liveliness: "🟢 Active"
 
 Global Carbon Council (GCC) is an international carbon crediting program and registry based in Qatar, established in 2016 by the Gulf Organisation for Research and Development (GORD). It certifies GHG emission reduction and removal projects across 45+ countries, issuing Approved Carbon Credits (ACCs) that are eligible under CORSIA, ICROA, and Singapore's Carbon Crediting Programme. GCC operates a carbon registry (maintained by S&P Global Commodity Insights) and is developing methodologies including one for durable biochar.
 
+![Global Carbon Council (GCC) website](/screenshots/global-carbon-council-gcc.png)
+
 
 ## History
 

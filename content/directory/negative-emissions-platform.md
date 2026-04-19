@@ -23,6 +23,8 @@ liveliness: "🟢 Active"
 
 The Negative Emissions Platform (NEP) is a Brussels-based non-profit membership association (ASBL) representing the carbon dioxide removal industry before EU institutions. It does not remove CO2 itself; it engages in policy advocacy, publishes position papers, convenes the Negative Emissions Summit, and initiated the CDR30 Pavilion at COP30. Its sole purpose is to support the CDR ecosystem.
 
+![Negative Emissions Platform website](/screenshots/negative-emissions-platform.png)
+
 
 ## History
 

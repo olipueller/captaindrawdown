@@ -25,6 +25,8 @@ liveliness: "🟡 Moderate"
 
 ClimeCo is a US-based global sustainability and decarbonization solutions firm providing climate strategy consulting, carbon project development, environmental credit trading (carbon offsets, RECs, plastic credits), and certification programs. Founded in 2009, it pioneered US N2O abatement projects and now develops and markets a broad portfolio of tech-based and nature-based credits, including some CDR pathways such as biochar and nature-based solutions, acting primarily as a project developer, broker, and advisor rather than a direct CO2 removal operator.
 
+![ClimeCo website](/screenshots/climeco.png)
+
 
 ## History
 

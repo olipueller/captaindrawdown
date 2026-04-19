@@ -24,6 +24,8 @@ liveliness: "🟡 Moderate"
 
 Senken is a Berlin-based carbon credit procurement platform and marketplace that vets and sells high-integrity carbon credits, including removal credits (biochar, enhanced weathering, afforestation) to corporate buyers. It operates a Sustainability Integrity Index to screen projects and provides end-to-end procurement, retirement, and CSRD reporting support. Part of the CDR ecosystem as a broker/marketplace, not a physical supplier.
 
+![Senken website](/screenshots/senken.png)
+
 
 ## History
 

@@ -24,6 +24,8 @@ liveliness: "🟢 Active"
 
 Frichs Pyrolysis ApS is a Danish development company based in Horsens that supplies patented flash pyrolysis systems converting agricultural residues, food waste, and other biomass into biochar and pyrolysis gas. The company, led by CEO Søren Bruun, received an additional DKK 32m from owners in 2025 and expects to kick off commercial sales of pyrolysis plants around the beginning of 2026. They are a member of the European Biochar Industry Consortium and have active projects including Vrejlev Energi.
 
+![Frichs Pyrolysis Aps website](/screenshots/frichs-pyrolysis-aps.png)
+
 
 ## History
 

@@ -25,6 +25,8 @@ liveliness: "🟢 Active"
 
 Greener Tokens is a climatech that tokenizes carbon credits from Brazilian Amazon forest preservation projects on blockchain (Polygon/Ethereum) via its Greener Preservation Token (GPT), which represents one tonne of CO2e from conserved native forest. The platform sells these tokens to companies and events (e.g. NASCAR Brasil, F1 São Paulo GP, Copa Truck) for voluntary carbon offsetting, functioning as a tokenization marketplace rather than a physical carbon remover. Founded as a joint venture between Dax (blockchain startup) and Reag Investimentos, with HQ in Switzerland and operations in Brazil, US, and Europe.
 
+![Greener Tokens website](/screenshots/greener-tokens.png)
+
 
 ## History
 

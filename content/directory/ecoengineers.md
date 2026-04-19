@@ -24,6 +24,8 @@ liveliness: "🟡 Moderate"
 
 EcoEngineers is a Des Moines, Iowa-based consulting, auditing, and advisory firm focused on the energy transition, low-carbon fuels, and carbon markets. They provide MRV, verification, and carbon project development services — including for CDR projects such as Equatic's electrolytic ocean-based CDR methodology. Acquired by LRQA in March 2025, they operate as an ecosystem/verification player rather than a direct CO2 remover.
 
+![EcoEngineers website](/screenshots/ecoengineers.png)
+
 
 ## History
 

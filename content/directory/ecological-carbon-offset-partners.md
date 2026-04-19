@@ -25,6 +25,8 @@ liveliness: "🟡 Moderate"
 
 EP Carbon (Ecological Carbon Offset Partners LLC) is a US-based carbon project consultancy founded in 2010 that develops nature-based carbon projects and also operates "Carbon Yards," a biomass burial/terrestrial biomass storage product issuing Puro Standard CORCs at ~$65-85/ton. The firm received an investment from Macquarie's Global Carbon in 2022 and works on afforestation (VCS 5500) and REDD+ (VCS 5501) foundations projects using VM0047 and VM0048 methodologies.
 
+![Ecological Carbon Offset Partners website](/screenshots/ecological-carbon-offset-partners.png)
+
 
 ## History
 

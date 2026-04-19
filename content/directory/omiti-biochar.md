@@ -25,6 +25,8 @@ liveliness: "🟢 Active"
 
 Omiti Biochar is a Namibian company that develops community-based biochar carbon removal projects by harvesting encroacher bush biomass and converting it into biochar via flame-curtain kilns. The company partners with rural communities (e.g. Otjimbingwe) and organizations like Planboo and Carbon Standards International to generate and sell carbon removal certificates on the voluntary market, while also producing biochar for agriculture and mine rehabilitation.
 
+![Omiti Biochar website](/screenshots/omiti-biochar.png)
+
 
 ## History
 

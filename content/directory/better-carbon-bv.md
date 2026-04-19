@@ -24,6 +24,8 @@ liveliness: "🟡 Moderate"
 
 Better Carbon B.V. is a Netherlands-based (Goes) biochar producer that converts local biomass waste into biochar and carbon-negative materials for agricultural and industrial use. The company pursues biochar carbon removal alongside product development, with co-founders focused on ecological design and regenerative economy solutions.
 
+![Better Carbon BV website](/screenshots/better-carbon-bv.png)
+
 
 ## History
 

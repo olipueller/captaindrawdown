@@ -23,6 +23,8 @@ liveliness: "🟢 Active"
 
 Three Mountains Cocoa is a Ghanaian organic cocoa cooperative whose biochar project with Terraton is expected to remove more than 20,000 tons of CO2 annually (alongside Terraton's Kenya project), channeling new income to smallholder farmers through waste payments and improved soils. The project has preliminary approval from Puro.earth, and nonprofit climate fund Terraset has committed to a six-figure carbon credit pre-purchase from Three Mountains Cocoa. Puro.earth lists the facility as in early development with feasibility study ongoing, and notes it is fully funded and being implemented.
 
+![Three Mountains Cocoa website](/screenshots/three-mountains-cocoa.png)
+
 
 ## History
 

@@ -23,6 +23,8 @@ liveliness: "🟢 Active"
 
 Unyte Group is a UK-based sustainability holding company headquartered in Market Harborough, Leicestershire, whose Unyte BioChar division (part of Unyte Solutions) produces biochar from hemp and wood waste. The project is registered under Riverse's BECCS and Biochar pyrolysis methodology, with Unyte Biochar as host party, and is expected to generate around 6,976 tCO2eq of removals per year. The parent group also runs hemp cultivation, energy efficiency, retrofit, and waste divisions.
 
+![Unyte website](/screenshots/unyte.png)
+
 
 ## History
 

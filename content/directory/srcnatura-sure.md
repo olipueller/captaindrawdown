@@ -22,6 +22,8 @@ liveliness: "🟡 Moderate"
 
 SRCNatura Sure Pvt Ltd developed the biochar carbon removal project registered by Verra under VCS4679, involving 5,000 farmers. The company's natural farming systems integrate biochar to improve soil health, with biochar helping retain nutrients and water, support beneficial microbes, and lock carbon in the soil. Based in Sonipat, Haryana, India, the company combines rural livelihood development with biochar-based soil carbon sequestration.
 
+![SRCNatura Sure website](/screenshots/srcnatura-sure.png)
+
 
 ## History
 

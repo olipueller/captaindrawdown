@@ -24,6 +24,8 @@ liveliness: "🟡 Moderate"
 
 High Plains Biochar is a Wyoming-based biochar producer and manufacturer of small-scale biochar equipment, including the RocketChar furnace, Earth Kiln, and Boulder Biochar Barrel. The company also produces bagged biochar from pine feedstock and helps small-scale producers verify and market carbon credits through a biochar co-op. Its Earth Kiln is endorsed under the Global Artisan C-Sink Standard.
 
+![High Plains Biochar website](/screenshots/high-plains-biochar.png)
+
 
 ## History
 

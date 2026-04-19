@@ -25,6 +25,8 @@ liveliness: "🟡 Moderate"
 
 Carbon Char Store (CCS) is the UK-based carbon-removal arm of Standard Gas, a waste-to-energy company whose thermal conversion process produces a high-carbon char (up to ~95% carbon) from non-recyclable waste. CCS bundles that char into building materials such as concrete and asphalt for long-term storage and is developing SYLVA, a platform that issues digital removal certificates (SYLVA CRTs) and lets buyers compare novel CDR options.
 
+![Carbon Char Store website](/screenshots/carbon-char-store.png)
+
 
 ## History
 

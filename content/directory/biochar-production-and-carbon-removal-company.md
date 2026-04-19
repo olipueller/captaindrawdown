@@ -24,6 +24,8 @@ liveliness: "🟡 Moderate"
 
 CapChar is a UK carbon removal company developing on-farm biochar production technology, with two operational plants in Cornwall and North Wales. They offer an end-to-end solution combining pyrolysis kilns with a digital MRV software platform, and developed the UK-focused Biochar Carbon Code for quantifying biochar carbon removals into Biochar Carbon Units (BCUs).
 
+![Biochar Production and Carbon Removal Company website](/screenshots/biochar-production-and-carbon-removal-company.png)
+
 
 ## History
 

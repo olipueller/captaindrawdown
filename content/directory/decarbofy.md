@@ -24,6 +24,8 @@ liveliness: "🟡 Moderate"
 
 Decarbofy is an environmental management company establishing operations in Argentina to build a biochar production plant in the Ituzaingó Industrial Park, Corrientes province. The project aims to valorize regional agricultural and forestry biomass residues into biochar. As of late 2024, the company was still seeking investors and at the permitting/siting stage.
 
+![Decarbofy website](/screenshots/decarbofy.png)
+
 
 ## History
 

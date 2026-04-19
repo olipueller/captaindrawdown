@@ -24,6 +24,8 @@ liveliness: "🟡 Moderate"
 
 The Institute for Responsible Carbon Removal is an academic research center at American University's School of International Service in Washington, DC, founded in 2018. It focuses on the social, legal, ethical, and political implications of carbon removal technologies, producing policy research, convening stakeholders, and running fellowships and webinars. It does not physically remove CO2 or develop removal technology.
 
+![Institute for Responsible Carbon Removal website](/screenshots/institute-for-responsible-carbon-removal.png)
+
 
 ## History
 

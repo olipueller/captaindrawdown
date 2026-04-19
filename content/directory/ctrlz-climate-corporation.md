@@ -24,6 +24,8 @@ liveliness: "🟡 Moderate"
 
 CtrlZ Climate Corp. is a California-based early-stage carbon removal startup spun out of Stanford's TomKat Center, founded by Amit Bharti and Ananya Jain. The company is developing a distributed approach to capture CO2 from commercial buildings' HVAC systems and store it, targeting gigaton-scale removal. As of late 2024/2025 the website still states the product is "launching soon."
 
+![CtrlZ Climate Corporation website](/screenshots/ctrlz-climate-corporation.png)
+
 
 ## History
 

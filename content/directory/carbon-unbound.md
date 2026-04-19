@@ -22,6 +22,8 @@ liveliness: "🟡 Moderate"
 
 Carbon Unbound is a CDR-focused events organization that runs the Carbon Unbound Europe and Carbon Unbound USA summits, bringing together business leaders, investors, buyers and policymakers in the carbon removal industry. They also run Buyers' Workshop series and industry showcases. Their main business is convening the CDR ecosystem, not removing carbon themselves.
 
+![Carbon Unbound website](/screenshots/carbon-unbound.png)
+
 
 ## History
 

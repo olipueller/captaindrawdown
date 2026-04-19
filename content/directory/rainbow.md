@@ -24,6 +24,8 @@ liveliness: "🟢 Active"
 
 Rainbow (formerly Riverse) is a France-based carbon credit standard and registry operated by Riverse SAS, headquartered in Fresnes, France. It certifies engineered carbon removal and avoidance projects (biochar, enhanced rock weathering, biomass carbon storage, biogas, etc.), issues credits via a public registry, and is ICROA-endorsed and ICVCM CCP-Eligible. It is a CDR ecosystem participant (registry/standard-setter), not a removal supplier itself.
 
+![Rainbow website](/screenshots/rainbow.png)
+
 
 ## History
 

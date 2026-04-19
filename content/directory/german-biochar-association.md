@@ -24,6 +24,8 @@ liveliness: "🟢 Active"
 
 German Biochar e.V. was founded in 2017, originally as the Fachverband Pflanzenkohle, with the goal of supporting the use of biochar and contributing to environmental protection by removing carbon from the atmosphere. As a professional association, it works to promote favorable political frameworks, assist in translating scientific knowledge into practice, engage in public relations, and support the market in quality management. The association hosts an annual German Biochar conference and convenes producers, scientists, plant developers and policymakers across the German-speaking biochar sector.
 
+![German Biochar Association website](/screenshots/german-biochar-association.png)
+
 
 ## History
 

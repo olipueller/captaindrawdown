@@ -24,6 +24,8 @@ liveliness: "🟡 Moderate"
 
 ACR (formerly American Carbon Registry) is a nonprofit carbon crediting program and registry, founded in 1996 as the world's first private voluntary GHG registry and operated as a subsidiary of Winrock International. It issues standards and methodologies, and runs a registry for voluntary and compliance carbon markets (including California, Washington State, CORSIA). ACR does not itself remove CO2 — it is part of the ecosystem issuing and tracking carbon credits, including CDR credits.
 
+![ACR Carbon (ACR) website](/screenshots/acr-carbon-acr.png)
+
 
 ## History
 

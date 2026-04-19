@@ -25,6 +25,8 @@ liveliness: "🟡 Moderate"
 
 Caspian Environmental Consortium Ltd. is a Kazakhstan-based bio-economy research organization, resident of the Astana International Financial Center since 2023. Its CaspianCDR project adapts Brilliant Planet's microalgae-cultivation-and-burial approach to the eastern coast of the Caspian Sea, aiming to cultivate local algae, convert it to stable biomass, and bury it for long-term CO2 storage. The consortium also runs bioremediation work on oil-contaminated landscapes and participates in UN Ocean Decade (UNESCO-endorsed TeamCASPI) and Global-ONCE networks.
 
+![Caspian Environmental Consortium Ltd. website](/screenshots/caspian-environmental-consortium-ltd.png)
+
 
 ## History
 

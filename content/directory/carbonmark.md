@@ -24,6 +24,8 @@ liveliness: "🟡 Moderate"
 
 Carbonmark is a global carbon credits marketplace that connects project developers and buyers via an open, blockchain-based platform with zero-commission trading, APIs, and instant on-chain retirement. It lists credits from a wide range of methodologies (nature-based, renewable energy, and CDR pathways like DAC, BECCS, biochar, and ocean alkalinity) and also operates Carbonmark Direct to help emerging CDR project developers issue credits on-chain. It is an ecosystem/infrastructure player (marketplace), not a physical carbon remover.
 
+![Carbonmark website](/screenshots/carbonmark.png)
+
 
 ## History
 

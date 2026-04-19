@@ -25,6 +25,8 @@ liveliness: "🟢 Active"
 
 Net Zero Lab is an independent Max Planck Research Group at the Max Planck Institute for Innovation and Competition in Munich, led by environmental economist Benedict Probst since May 2024, aiming to accelerate the development of green technologies that replace fossil fuels and remove CO2 from the atmosphere. The group conducts academic research on carbon markets, climate-tech innovation, and CDR policy — notably a 2024 Nature Communications meta-study on carbon credit quality. It is not a CDR supplier but an ecosystem research actor.
 
+![Net Zero Lab website](/screenshots/net-zero-lab.png)
+
 ## Registry Memberships
 
 - Cdrjobsearth

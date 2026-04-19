@@ -24,6 +24,8 @@ liveliness: "🟡 Moderate"
 
 Climate Vault Solutions, Inc. is the commercial/sales arm of the University of Chicago-founded Climate Vault 501(c)(3). It combines purchasing and retiring compliance-market carbon allowances (RGGI, CARB) with resale of durable carbon removal credits sourced through an RFP program vetted by a Technology Experts Chamber chaired by former US Energy Secretary Ernest Moniz. Winning CDR suppliers (e.g. Octavia Carbon, Carbon Lockdown) are added to its curated portfolio and distributed through its direct sales channel to corporate clients.
 
+![Climate Vault Solutions website](/screenshots/climate-vault-solutions.png)
+
 
 ## History
 

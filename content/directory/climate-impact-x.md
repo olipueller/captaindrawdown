@@ -24,6 +24,8 @@ liveliness: "🟡 Moderate"
 
 Climate Impact X (CIX) is a Singapore-headquartered global carbon exchange and marketplace for verified carbon credits and environmental commodities, with offices in London. It was jointly founded by DBS Bank, GenZero (Temasek), Standard Chartered, Mizuho, and Singapore Exchange (SGX), and operates spot trading, auctions, and a project marketplace including a carbon removals contract series.
 
+![Climate Impact X website](/screenshots/climate-impact-x.png)
+
 
 ## History
 

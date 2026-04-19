@@ -24,6 +24,8 @@ liveliness: "🟠 Suspect"
 
 E-quester is a University of Toronto spinout founded in 2021 and based in Toronto, Ontario. Their technology captures atmospheric CO2 and uses an electrochemical regeneration system to liberate the captured CO2, powered by renewable electricity. The team earned an XPRIZE Carbon Removal Student Award with US $250,000 in seed funding, which was used to further develop their prototype.
 
+![E-quester website](/screenshots/e-quester.png)
+
 
 ## History
 

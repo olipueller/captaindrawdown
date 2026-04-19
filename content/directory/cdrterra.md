@@ -25,6 +25,8 @@ liveliness: "🟡 Moderate"
 
 CDRterra is a German federal research funding program (BMFTR, formerly BMBF) launched in 2021 that coordinates academic research on land-based carbon dioxide removal methods. It funds interdisciplinary consortia investigating afforestation, BECCS, biochar, enhanced weathering, DACCS, and soil carbon sequestration to inform German climate policy toward 2045 greenhouse-gas neutrality. It is a research program, not a CDR supplier.
 
+![CDRterra website](/screenshots/cdrterra.png)
+
 
 ## History
 

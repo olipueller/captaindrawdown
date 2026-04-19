@@ -25,6 +25,8 @@ liveliness: "🟡 Moderate"
 
 Brilliant Planet was a London-headquartered startup (founded 2013) growing marine microalgae in open-air ponds on Morocco's coastal desert, then drying and burying the biomass in engineered landfills for 1,000+ year carbon storage. The company raised a $12M Series A from Union Square Ventures and Toyota Ventures in 2022 and sold 1,500 tons of CDR to Block via Watershed in 2023. UK Companies House records now list the entity as "In Administration," indicating the business has effectively wound down.
 
+![Brilliant Planet | Inactive website](/screenshots/brilliant-planet-inactive.png)
+
 
 ## History
 

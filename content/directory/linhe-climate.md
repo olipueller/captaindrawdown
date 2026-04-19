@@ -22,6 +22,8 @@ liveliness: "🟡 Moderate"
 
 Linhe Climate Technology (霖和气候科技, also Carbon Loop / co2loop) is a Beijing-based climate tech startup founded in 2021 that develops distributed carbon capture systems, including a humidity-swing direct air capture (DAC) technology using proprietary MSCCM ion-exchange resin materials, plus a modular flue-gas capture unit. The company targets downstream CO2 utilization (carbon-rich agriculture, enhanced oil recovery, solid-waste disposal) under a "U determines C" framework, mixing CDR with CCUS. It raised seed and pre-Series A funding in 2023 from CITIC Capital, China Capital Management and others.
 
+![Linhe Climate website](/screenshots/linhe-climate.png)
+
 
 ## History
 

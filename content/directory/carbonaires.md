@@ -25,6 +25,8 @@ liveliness: "🟢 Active"
 
 Carbonaires is a London-based carbon asset management and finance firm that structures investments in high-integrity carbon removal projects. The company has partnered with Klarna and HUSK on a biochar plant in Cambodia and with UBS and The Carbon Removers on a Scotch-whisky-linked CDR finance product. It operates in the CDR ecosystem as a project financier and asset manager rather than a physical CO2 remover.
 
+![Carbonaires website](/screenshots/carbonaires.png)
+
 
 ## History
 

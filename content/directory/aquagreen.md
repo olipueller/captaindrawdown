@@ -24,6 +24,8 @@ liveliness: "🟡 Moderate"
 
 AquaGreen is a Danish cleantech company that has developed a patented integrated steam-drying and pyrolysis solution treating wet biomass, initially focused on municipal wastewater sludge. Its fully automated facilities create revenue through biochar sales, carbon removal credits and excess heat, with each HECLA® Setores 1,000 plant storing 500 tonnes of carbon in biochar annually. In 2024 Marubeni Corporation acquired shares in AquaGreen Holding ApS through a third-party allotment.
 
+![AquaGreen website](/screenshots/aquagreen.png)
+
 
 ## History
 

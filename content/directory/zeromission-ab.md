@@ -25,6 +25,8 @@ liveliness: "🟢 Active"
 
 ZeroMission AB is a Stockholm-based climate strategy consultancy and carbon credit reseller founded in 2006. The company helps businesses measure, reduce, and offset emissions, selling credits from nature-based projects (Plan Vivo afforestation, biochar) and offering climate accounting and advisory services. It is a broker/consultant within the carbon credit ecosystem rather than a CDR supplier.
 
+![ZeroMission AB website](/screenshots/zeromission-ab.png)
+
 
 ## History
 

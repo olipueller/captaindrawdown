@@ -25,6 +25,8 @@ liveliness: "🟡 Moderate"
 
 The Gulf Coast Carbon Center (GCCC) is an industry-funded research programme run by the Bureau of Economic Geology at the University of Texas at Austin, started in 1998 with around 18 industry sponsors. Since 1999, the GCCC has been a global leader in research on geological storage, retention and monitoring of CO₂ in the deep subsurface, enabling the private sector to develop CO₂ storage industry in the Gulf of Mexico, across the U.S., and globally. BEG/GCCC supports the CDR/CCS ecosystem via research, site characterization, monitoring science, and training rather than operating commercial removal projects.
 
+![Bureau of Economic Geology website](/screenshots/bureau-of-economic-geology.png)
+
 
 ## History
 

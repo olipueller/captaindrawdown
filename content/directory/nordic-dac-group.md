@@ -23,6 +23,8 @@ liveliness: "🟡 Moderate"
 
 Nordic DAC Group AB is a Swedish company (est. 2021) that markets and sells Direct Air Capture-based carbon removal certificates via its directairacapture.com storefront, sourcing removal capacity from partner DAC developers rather than operating its own capture plants. It has partnered with Norway's Carbon Removal AS on the Kollsnes project and contributes commercialization, market-development, and exploitation strategy to research initiatives such as the Chalmers-led Passive DAC consortium and the EU REPAIR methane-removal project.
 
+![Nordic DAC Group website](/screenshots/nordic-dac-group.png)
+
 
 ## History
 

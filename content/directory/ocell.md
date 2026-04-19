@@ -25,6 +25,8 @@ liveliness: "🟡 Moderate"
 
 OCELL is a Munich-based climate-tech startup that develops improved forest management (IFM) carbon projects in European forests, using aerial photography and AI-driven MRV (their "Dynamic Forest" platform). They partner with forest owners to transition monocultures to climate-resilient mixed forests and issue carbon credits under the Wald-Klimastandard (WKS).
 
+![Ocell website](/screenshots/ocell.png)
+
 
 ## History
 

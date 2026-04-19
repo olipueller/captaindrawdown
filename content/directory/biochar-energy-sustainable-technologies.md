@@ -24,6 +24,8 @@ liveliness: "🟢 Active"
 
 Biochar Energy Sustainable Technologies (BEST) is a biochar producer that converts biomass into biochar via pyrolysis, marketing proprietary products branded OptiBiomass and Pyroltix alongside certified carbon credits. The company operates under the biocharfarmer.com domain and positions itself toward both soil/agriculture markets and the voluntary carbon removal market.
 
+![Biochar Energy Sustainable Technologies website](/screenshots/biochar-energy-sustainable-technologies.png)
+
 
 ## History
 

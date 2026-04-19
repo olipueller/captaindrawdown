@@ -25,6 +25,8 @@ liveliness: "🟡 Moderate"
 
 NCX (Natural Capital Exchange), formerly SilviaTerra, is a US-based platform that helps private landowners discover, compare, and enroll in natural capital programs including forest carbon, tree planting, solar leasing, timber, and wildlife. The company previously ran its own 1-year harvest-deferral forest carbon program but discontinued it after Verra declined to approve the tonne-year methodology, and has since pivoted to an unconflicted marketplace/advisory role. NCX no longer develops its own carbon projects.
 
+![NCX website](/screenshots/ncx.png)
+
 
 ## History
 

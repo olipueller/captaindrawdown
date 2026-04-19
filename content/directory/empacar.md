@@ -24,6 +24,8 @@ liveliness: "🟢 Active"
 
 Empacar S.A. is Bolivia's largest sustainable packaging and recycling company, headquartered in Santa Cruz de la Sierra, which launched a CDR business unit called CarbonX at the 2026 Bolivia Carbon Forum. Through CarbonX, Empacar is developing biochar production facilities in Bolivia that will convert forestry and agricultural residues (wood waste from local sawmills) into durable CO2 removal, targeting ~70,000 tonnes captured annually at its Ascención de Guarayos site with first credit issuance expected in 2027. Projects will be certified under the Puro.earth standard, with Cula providing dMRV and BioFlux as technical advisor.
 
+![Empacar website](/screenshots/empacar.png)
+
 
 ## History
 

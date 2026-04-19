@@ -24,6 +24,8 @@ liveliness: "🟢 Active"
 
 Rainforest Builder is a UK-headquartered tropical forest restoration company founded in 2022, operating four large-scale reforestation projects in Sierra Leone, Ghana and Guinea within the Upper Guinean Forest ecoregion and employing over 2,500 people. In February 2026 it signed a 15-year, 1.8M-credit carbon removal offtake with Microsoft from Project Buffalo (Sierra Leone), and in March 2026 closed a Series A led by BNP Paribas AM Alts with parallel project financing for Project Colobus in Ghana.
 
+![Rainforest Builder website](/screenshots/rainforest-builder.png)
+
 
 ## History
 

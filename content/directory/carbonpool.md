@@ -24,6 +24,8 @@ liveliness: "🟡 Moderate"
 
 CarbonPool is a Zurich-based carbon credit insurance company founded in 2023 by former Allianz executives. It provides in-kind insurance policies that pay claims in carbon credits rather than cash, covering reversals, shortfalls, and delivery risk in carbon removal projects. The company is part of the CDR ecosystem as a specialized insurer/risk-underwriter, not a supplier of removals.
 
+![CarbonPool website](/screenshots/carbonpool.png)
+
 
 ## History
 

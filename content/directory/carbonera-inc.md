@@ -24,6 +24,8 @@ liveliness: "🟢 Active"
 
 Carbonera eXchange is a small US-based online marketplace platform for buying and selling carbon offsets and carbon removal credits, headquartered in Campbell, California. The platform lists credits validated by registries such as Verra, Gold Standard, and ACR, spanning reforestation, methane capture, biochar, and other carbon removal methods. It operates as a broker/exchange rather than a physical CDR supplier.
 
+![Carbonera, Inc. website](/screenshots/carbonera-inc.png)
+
 
 ## History
 

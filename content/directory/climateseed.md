@@ -24,6 +24,8 @@ liveliness: "🟡 Moderate"
 
 ClimateSeed is a France-based digital marketplace that connects companies with voluntary carbon market projects (both avoidance and removal), offering project due diligence, carbon accounting tools, and climate strategy consulting. Launched in 2018 by BNP Paribas and acquired by AXA IM Alts in 2021, it primarily brokers VCS/Gold Standard credits rather than directly performing CO2 removal.
 
+![ClimateSeed website](/screenshots/climateseed.png)
+
 
 ## History
 

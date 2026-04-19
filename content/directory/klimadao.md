@@ -23,6 +23,8 @@ liveliness: "🟡 Moderate"
 
 KlimaDAO is a decentralized autonomous organization building blockchain-based infrastructure for tokenized carbon markets, operating the Carbonmark marketplace and the KLIMA token on Polygon/Base. It aggregates and facilitates trading/retirement of voluntary carbon credits (predominantly avoidance credits, with some removal credits) rather than physically removing CO2 itself.
 
+![KlimaDAO website](/screenshots/klimadao.png)
+
 
 ## History
 

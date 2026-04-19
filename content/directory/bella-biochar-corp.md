@@ -23,6 +23,8 @@ liveliness: "🟡 Moderate"
 
 Bella Biochar Corporation is a small Ontario, Canada-based biochar producer that converts landfill-diverted forest and wood waste into certified organic biochar. The company describes itself as the first Canadian and first female-founded firm to achieve Puro.earth CDR certification, and markets its biochar for soil amendment, animal bedding, wetland restoration, and CDR credits. Founded in 2019, it remains a small operation (~3 employees) with products sold via Amazon.ca and Ontario garden retailers.
 
+![Bella Biochar Corp website](/screenshots/bella-biochar-corp.png)
+
 
 ## History
 

@@ -23,6 +23,8 @@ liveliness: "🟡 Moderate"
 
 Oceanid MRV (Oceanid Climate and Carbon Solutions) is a US-based public benefit corporation providing measurement, reporting, and verification (MRV) services specifically for marine CDR companies. Originally formed as Coastal Carbon Solutions LLC in 2022 and rebranded/incorporated as Oceanid MRV Inc. in 2023, the company works with ocean alkalinity enhancement, kelp sinking, and coastal enhanced weathering projects (partners have included Capture6, Pronoe, First Gigaton, Carbon Atlantis). They do not physically remove CO2 themselves.
 
+![Oceanid MRV website](/screenshots/oceanid-mrv.png)
+
 
 ## History
 

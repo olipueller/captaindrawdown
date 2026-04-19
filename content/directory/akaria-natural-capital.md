@@ -25,6 +25,8 @@ liveliness: "🟡 Moderate"
 
 Akaria Natural Capital is a Singapore-based impact investment manager founded in 2022 as a joint venture between Schroders and Conservation International. It deploys capital into natural climate solutions projects across Southeast Asia (forests, mangroves, peatlands, oceans) rather than operating removal technology itself, making it part of the CDR/NCS financing ecosystem.
 
+![Akaria Natural Capital website](/screenshots/akaria-natural-capital.png)
+
 
 ## History
 

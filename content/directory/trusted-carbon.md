@@ -24,6 +24,8 @@ liveliness: "🟡 Moderate"
 
 Trusted Carbon is a carbon credit platform focused on nature-based carbon removal solutions including industrial hemp cultivation, afforestation, reforestation, and biochar. The company uses blockchain technology to provide traceability and verification for carbon credits, positioning itself as a marketplace/platform for businesses to purchase verifiable offsets rather than directly operating removal projects.
 
+![Trusted Carbon website](/screenshots/trusted-carbon.png)
+
 
 ## History
 

@@ -25,6 +25,8 @@ liveliness: "🟢 Active"
 
 BluSky Carbon (CSE: BSKY / OTCQB: BSKCF) is a Vancouver, BC–based publicly-listed carbon removal company that converts organic waste into biochar via its Vulcan Heavy biomass pyrolysis systems. Its flagship AR1 facility in Warren, Arkansas began production in late 2024 to service a $105M, 10-year, 382,213-tonne biochar offtake agreement, and the company has signed additional LOIs for an AR2 project and international JVs in Namibia, Tanzania, and Florida. Secondary activities include carbon mineralization (Medusa) and DAC (Kronos) technology development.
 
+![BluSky Carbon website](/screenshots/blusky-carbon.png)
+
 
 ## History
 

@@ -24,6 +24,8 @@ liveliness: "🟢 Active"
 
 The Carbon Business Council (CO2BC) is a nonprofit, tech-neutral trade association representing more than 100 carbon management companies across six continents. It advocates for CDR policy, runs regional working groups (APAC, Latin America, Canada), publishes policy primers, and provides training on responsible deployment of carbon removal.
 
+![Carbon Business Council website](/screenshots/carbon-business-council.png)
+
 
 ## History
 

@@ -23,6 +23,8 @@ liveliness: "🟡 Moderate"
 
 GKF Agro Forestry Pvt Ltd is an India-based company (Khammam, Telangana) incorporated in April 2021 that runs large-scale agroforestry/ARR plantations, biochar production from crop residues, improved cookstove distribution, and alternate wetting-and-drying (AWD) rice projects across nine Indian states. It partners with smallholder and tribal farmers to generate carbon credits from these interventions, with a stated goal of planting on 100,000+ hectares by 2030. ARR and biochar are its CDR-relevant pathways; cookstoves and AWD are emission-avoidance activities.
 
+![GKF AGRO FORESTRY PVT LTD website](/screenshots/gkf-agro-forestry-pvt-ltd.png)
+
 
 ## History
 

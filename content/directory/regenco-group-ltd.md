@@ -24,6 +24,8 @@ liveliness: "🟢 Active"
 
 RegenCo is an Australian natural capital and carbon project developer based in Adelaide, South Australia. Founded in 2019, it partners with Australian landholders to develop Human-Induced Regeneration (HIR) native forest and beef cattle herd management projects under the ACCU scheme, with registered projects spanning roughly 4 million hectares. RegenCo manages project development, MRV, and credit marketing in return for a share of generated carbon credits.
 
+![RegenCo Group Ltd website](/screenshots/regenco-group-ltd.png)
+
 
 ## History
 

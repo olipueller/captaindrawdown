@@ -25,6 +25,8 @@ liveliness: "🟡 Moderate"
 
 Biomass Controls PBC is a Connecticut-based manufacturer of the Biogenic Refinery, a containerized pyrolysis system that thermochemically converts biogenic waste streams (manure, biosolids, food waste, textiles, fecal sludge) into biochar, heat, and electricity. The company holds over 20 patents and has deployed systems across the US, India, and Africa, often in partnership with the Gates Foundation and Cornell's Lehmann Lab.
 
+![Biomass Controls website](/screenshots/biomass-controls.png)
+
 
 ## History
 

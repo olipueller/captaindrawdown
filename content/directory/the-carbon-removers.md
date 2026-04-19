@@ -24,6 +24,8 @@ liveliness: "🟡 Moderate"
 
 The Carbon Removers (formerly Carbon Capture Scotland) is a Scottish CDR supplier founded by brothers Richard and Ed Nimmons, based in Crocketford/Dumfries, that captures biogenic CO₂ from whisky distilleries and biogas plants. The captured CO₂ is stored permanently via mineralization in construction aggregates or geological sequestration under the North Sea (Project Greensand), with credits verified by Puro.earth and Isometric.
 
+![The Carbon Removers website](/screenshots/the-carbon-removers.png)
+
 
 ## History
 

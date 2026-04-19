@@ -22,6 +22,8 @@ liveliness: "🟠 Suspect"
 
 Reverse Carbon is a Stockholm-based climate tech company founded by Jenny Fellenius and Kenneth Möllersten, with a project team in Nairobi, Kenya. It plans to produce biochar from agri-industrial biomass residues via pyrolysis and sequester it in disused mining sites as part of ecological restoration, issuing biochar carbon removal credits. As of 2025, the company remains unfunded and appears to be pre-operational, with Hub 1 in Kenya still in the planning stage.
 
+![Reverse Carbon website](/screenshots/reverse-carbon.png)
+
 
 ## History
 

@@ -24,6 +24,8 @@ liveliness: "🟡 Moderate"
 
 CO2.com is a curated climate portfolio provider that packages and sells carbon credit portfolios to corporate buyers. It was an inaugural partner in Salesforce's Net Zero Marketplace in 2022, alongside other brokers and rating firms. The company does not physically remove CO2 itself; it operates as an aggregator/broker in the voluntary carbon market.
 
+![CO2.com website](/screenshots/co2com.png)
+
 
 ## History
 

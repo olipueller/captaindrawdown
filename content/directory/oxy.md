@@ -25,6 +25,8 @@ liveliness: "🟢 Active"
 
 Occidental (Oxy) is one of the largest U.S. oil & gas producers that, through its Oxy Low Carbon Ventures subsidiary 1PointFive and wholly-owned Carbon Engineering, is building large-scale Direct Air Capture infrastructure. Its flagship STRATOS facility in Ector County, Texas is designed for up to 500,000 tCO2/yr, received EPA Class VI sequestration permits in April 2025, and is expected to begin initial operations in Q2 2026. Offtake customers include Amazon, Microsoft, BlackRock, Airbus, ANA, TD Bank, and Bain & Company.
 
+![Oxy website](/screenshots/oxy.png)
+
 ## Registry Memberships
 
 - Cdrjobsearth

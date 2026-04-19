@@ -24,6 +24,8 @@ liveliness: "🟢 Active"
 
 UK Carbon Registry (UKCR) is a UK-based carbon credit registry that onboards, validates, issues, tracks and retires carbon credits for projects following ISO 14064 and CDM-aligned methodologies. It focuses on STEM-based carbon avoidance and removal projects (solar, EV charging, water purification, waste management, wind, and removal technologies). It is a registry/standards body, not a CO2 remover itself.
 
+![UK Carbon Registry website](/screenshots/uk-carbon-registry.png)
+
 
 ## History
 

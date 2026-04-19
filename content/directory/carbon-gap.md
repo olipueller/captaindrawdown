@@ -25,6 +25,8 @@ liveliness: "🟢 Active"
 
 Carbon Gap is Europe's leading carbon dioxide removal (CDR) advocacy and research NGO, headquartered in the UK with staff also in Belgium and France. Its Carbon Removal Readiness Assessments project develops CDR roadmaps for European countries — having completed France and Norway, and now working on Finland, Germany, Italy, Poland, and Spain. It also runs an EU Policy Tracker and CDR Funding Tracker to support policymakers and the broader CDR ecosystem.
 
+![Carbon Gap website](/screenshots/carbon-gap.png)
+
 ## Registry Memberships
 
 - Cdrjobsearth

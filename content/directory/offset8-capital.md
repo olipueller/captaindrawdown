@@ -25,6 +25,8 @@ liveliness: "🟡 Moderate"
 
 Offset8 Capital is an Abu Dhabi-based proprietary asset management and emissions investment firm, regulated by the ADGM FSRA, that finances and trades carbon credits (voluntary and compliance) with a focus on nature-based removal projects in Africa and Southeast Asia. It announced a planned $250m Middle East carbon fund at COP28 and has early-stage offtake/prepayment deals with developers like Sawa (biochar, Indonesia) and iRise (reforestation, Malawi). The firm is a financier/trader rather than a physical CDR supplier.
 
+![Offset8 Capital website](/screenshots/offset8-capital.png)
+
 
 ## History
 

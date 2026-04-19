@@ -25,6 +25,8 @@ liveliness: "🟡 Moderate"
 
 recarb is a Hamburg-based nature-tech company founded in 2022 that provides a digital due diligence, risk assessment, and rating platform for nature-based carbon removal projects such as tropical reforestation and afforestation. It does not physically remove CO2 itself; instead it helps investors and corporates evaluate project developers, carbon sequestration claims, livelihoods, and ecological recovery across 200+ criteria, with a current focus on Brazilian biomes (Amazon, Cerrado, Atlantic Forest).
 
+![recarb website](/screenshots/recarb.png)
+
 
 ## History
 

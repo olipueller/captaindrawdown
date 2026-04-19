@@ -25,6 +25,8 @@ liveliness: "🟡 Moderate"
 
 Aspiring Materials is a Christchurch, New Zealand-based cleantech company that operates a patented process to transform olivine rock into critical minerals (magnesium hydroxide, NCM hydroxide, reactive silica, iron) with carbon mineralization as a core output. Their magnesium hydroxide product captures CO2 from air or industrial emissions, forming stable magnesium carbonate. The company opened a 250 kg/day pilot plant in Christchurch in April 2025 and announced US expansion in May 2025.
 
+![Aspiring Materials website](/screenshots/aspiring-materials.png)
+
 
 ## History
 

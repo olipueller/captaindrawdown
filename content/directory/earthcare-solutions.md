@@ -23,6 +23,8 @@ liveliness: "🟢 Active"
 
 Earthcare Solutions is a U.S.-based circular waste management company that deploys patented gasification technology to convert biosolids, manure, and other organic wastes into biochar. Its projects are certified under Puro.earth's biochar methodology, and it operates through a family of companies including Earthcare LLC and EcoChar. As of mid-2025 it had 12+ gasifiers running with multiple new projects in the pipeline across the U.S.
 
+![Earthcare Solutions website](/screenshots/earthcare-solutions.png)
+
 ## Registry Memberships
 
 - Puro.earth

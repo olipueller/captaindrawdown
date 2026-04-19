@@ -25,6 +25,8 @@ liveliness: "🟢 Active"
 
 Oncra (Open Natural Carbon Removal Accounting) is a carbon-removal certification framework developed by the Netherlands-based Climate Cleanup Foundation. It quantifies, verifies, and certifies nature-based CDR projects across land, oceans, rocks, and constructions, issuing measurement-based removal credits that are sold via the affiliated Onsets.org platform.
 
+![Oncra website](/screenshots/oncra.png)
+
 
 ## History
 

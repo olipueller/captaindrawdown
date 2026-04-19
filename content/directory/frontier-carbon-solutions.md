@@ -23,6 +23,8 @@ liveliness: "🟡 Moderate"
 
 Frontier Carbon Solutions (now operating under Frontier Infrastructure Holdings) is a Dallas-based developer of carbon capture and storage infrastructure backed by Tailwater Capital. Its Sweetwater Carbon Storage Hub in southwest Wyoming uses Union Pacific rail to transport liquefied biogenic CO2 from Midwest ethanol refineries for permanent Class VI geologic sequestration in the Nugget Formation, generating BECCS-based carbon removal credits. The company holds the first Class VI UIC permits issued by Wyoming and has completed two deep characterization wells as of 2025.
 
+![Frontier Carbon Solutions website](/screenshots/frontier-carbon-solutions.png)
+
 
 ## History
 

@@ -24,6 +24,8 @@ liveliness: "🟡 Moderate"
 
 DACLab is a Palo Alto-based climate-tech startup developing a modular solid-sorbent direct air capture system branded "Kelvin," using a patent-pending Temperature Vacuum Swing Adsorption (TVSA) cycle that regenerates at ~70°C and under 1,800 kWh/ton. The company emerged from stealth in September 2025 with a $3M seed round led by Peter Relan, with participation from Silver Lake co-founder Dave Roux and WovenEarth Ventures, and is targeting e-fuels producers and CO2 sequestration operators. Founded in 2023 by Aditya Bhandari and Samip Bhavsar, the technology was adapted from a TU Wien/Shell point-source capture project.
 
+![DACLAB website](/screenshots/daclab.png)
+
 
 ## History
 

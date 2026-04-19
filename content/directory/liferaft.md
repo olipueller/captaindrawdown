@@ -24,6 +24,8 @@ liveliness: "🟡 Moderate"
 
 Liferaft is a U.S.-based biochar company operating large-scale facilities in Iowa and Illinois that source agricultural and municipal biomass from the surrounding region and process it on site using pyrolysis to produce durable biochar. In March 2026 the company signed an agreement with Microsoft for 1 million biochar carbon removal units to be delivered over 10 years — facilitated by Supercritical and the biggest U.S. biochar deal to date.
 
+![Liferaft website](/screenshots/liferaft.png)
+
 
 ## History
 

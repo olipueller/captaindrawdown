@@ -24,6 +24,8 @@ liveliness: "🟡 Moderate"
 
 Cloverly is an Atlanta-based carbon credit marketplace and software platform founded in 2019. It connects buyers with curated carbon removal and reduction credits via API and a marketplace, and offers Catalyst, a commercial software for project developers to manage inventory, distribution, and sales across channels including the Salesforce Net Zero marketplace.
 
+![Cloverly website](/screenshots/cloverly.png)
+
 
 ## History
 

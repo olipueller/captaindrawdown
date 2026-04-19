@@ -24,6 +24,8 @@ liveliness: "🟢 Active"
 
 Energnist CaptureCo A/S is the dedicated carbon-capture subsidiary of Energnist, West Denmark's largest waste-to-energy company owned by 16 municipalities. It is developing a CCS facility at the Esbjerg waste-incineration plant intended to capture over 200,000 tonnes of CO2 per year, with pipeline transport to a liquefaction terminal at Esbjerg Harbour and eventual geological storage in the North Sea. In January 2026 the board decided not to apply to the Danish state CCS fund due to tender risks, but the project continues and in April 2026 Energnist CaptureCo signed a letter of intent with Carbon Circle to jointly develop the Esbjerg capture project.
 
+![Energnist CaptureCo website](/screenshots/energnist-captureco.png)
+
 
 ## History
 

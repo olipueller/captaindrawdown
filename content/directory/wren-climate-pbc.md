@@ -25,6 +25,8 @@ liveliness: "🟡 Moderate"
 
 Wren Climate, PBC is a US-based public benefit corporation operating a consumer-facing platform that allows individuals and businesses to calculate their carbon footprint and fund carbon removal projects via a monthly subscription. It acts as a retailer/marketplace, sourcing and retiring credits from removal suppliers (e.g. Mati Carbon ERW, Pacific Biochar) rather than removing CO2 itself. The company has operated since 2019 and also runs the Wren Climate Collective, a philanthropic vehicle for early-stage CDR projects.
 
+![Wren Climate, PBC website](/screenshots/wren-climate-pbc.png)
+
 
 ## History
 

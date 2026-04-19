@@ -25,6 +25,8 @@ liveliness: "🟡 Moderate"
 
 The SocialCarbon Standard was developed by the Ecológica Institute in Brazil in 1998 as a methodology focused on enhancing co-benefits such as biodiversity and active participation of local communities. Today the Social Carbon Foundation operates as a standard-setter in the voluntary carbon market, establishing guidelines and methodologies that define how carbon credits are measured, reported, and verified. It issues Social Carbon Units (SCUs) for nature-based projects including afforestation/reforestation, peatland rewetting, regenerative agriculture and conservation.
 
+![Social Carbon website](/screenshots/social-carbon.png)
+
 
 ## History
 

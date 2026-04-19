@@ -24,6 +24,8 @@ liveliness: "🟢 Active"
 
 The Japan CDR Coalition (J-CDR) is a multi-stakeholder platform launched in September 2025 by Mitsubishi Research Institute and Mitsubishi Corporation, operating under MRI's Initiative for Co-creating the Future (ICF). It convenes developers, buyers, government and academia to advance CDR policy, research, training and market development in Japan. Core supporters include MOL, Sumitomo Corporation, Tokio Marine & Nichido and NYK Line.
 
+![Japan CDR Coalition website](/screenshots/japan-cdr-coalition.png)
+
 
 ## History
 

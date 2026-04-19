@@ -25,6 +25,8 @@ liveliness: "🟢 Active"
 
 Carbon Direct is a New York-based science-driven carbon management firm that advises Fortune 500 companies and governments on procuring, diligencing, and verifying high-quality carbon removal and reduction credits. It combines a team of 70+ scientists with MRV technology (expanded via its November 2025 acquisition of Pachama) and does not physically remove CO2 itself — it sits in the CDR ecosystem as an advisor, diligence provider, and portfolio manager for buyers like Microsoft and JPMorgan Chase.
 
+![Carbon Direct website](/screenshots/carbon-direct.png)
+
 ## Registry Memberships
 
 - Cdrjobsearth

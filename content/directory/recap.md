@@ -24,6 +24,8 @@ liveliness: "🟡 Moderate"
 
 reCap Carbon Inc. is a US-based climate-tech company that upcycles yard debris into biochar using a patented pyrolysis process. It partners with cities and counties to operate waste-to-biochar units on site with no capital or operating cost to the municipality, diverting organic waste from landfills and producing durable carbon-removal feedstock.
 
+![Recap website](/screenshots/recap.png)
+
 
 ## History
 

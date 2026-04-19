@@ -22,6 +22,8 @@ liveliness: "🟢 Active"
 
 Sequestra is a Vienna-based climate tech startup founded in 2024 that develops accelerated carbonation technology to permanently bind CO2 in industrial residues such as steel slag, biomass ash, incineration ash, and demolition debris. The resulting carbonates can be reused as construction materials, and the company is scaling from its analytical lab toward a first modular containerized mineralisation unit targeted for late 2027.
 
+![Sequestra website](/screenshots/sequestra.png)
+
 
 ## History
 

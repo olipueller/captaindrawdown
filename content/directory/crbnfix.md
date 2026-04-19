@@ -23,6 +23,8 @@ liveliness: "🟡 Moderate"
 
 CRBNFIX is an India-based climate-tech company producing biochar and bio-carbon from bamboo and agri-residues via pyrolysis, with processes aligned with international carbon standards. The company helps local producers generate carbon credits from artisanal biochar through methodologies such as Verra and Gold Standard and offers MRV platforms using IoT sensors and geospatial analytics. It also develops bamboo-based products like bioinoculants, biodegradable polymers, and soil conditioners.
 
+![crbnfix website](/screenshots/crbnfix.png)
+
 
 ## History
 

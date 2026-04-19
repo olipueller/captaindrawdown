@@ -25,6 +25,8 @@ liveliness: "🟡 Moderate"
 
 Thanks a Ton is a B2C/B2B platform that pairs custom digital greeting cards with bundled carbon dioxide removal credits sourced from vetted third-party CDR suppliers (Climeworks, Charm Industrial, CarbonCure, Living Carbon, Nori, SeaGen, and others). The company does not itself remove CO2; it is a retail reseller/marketplace channel aimed at making CDR accessible to consumers and small businesses through gifting.
 
+![Thanks-A-Ton website](/screenshots/thanks-a-ton.png)
+
 
 ## History
 

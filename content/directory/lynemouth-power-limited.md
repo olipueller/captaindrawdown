@@ -22,6 +22,8 @@ liveliness: "🟡 Moderate"
 
 Lynemouth Power Limited operates a ~420MW biomass power station in Northumberland, UK, converted from coal to wood-pellet firing. Owned by EP UK Investments (EPUKI), part of Czech energy group EPH, the company is developing a Power BECCS retrofit that entered formal bilateral discussions with the UK Government's Department for Energy Security and Net Zero under the Track-1 Phase 2 process. Existing CfD subsidies run through 2027 and the BECCS project aims to contribute to the UK's 5 Mtpa engineered GGR target by 2030.
 
+![Lynemouth Power Limited website](/screenshots/lynemouth-power-limited.png)
+
 
 ## History
 

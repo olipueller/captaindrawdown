@@ -23,6 +23,8 @@ liveliness: "🟡 Moderate"
 
 Pennsaco Technologies is a Radnor, Pennsylvania-based company founded in 2018 that develops a patented thermal conversion process to turn biomass, plastic, and municipal solid waste into "Ultra Green Hydrogen," renewable electricity, and high-purity biochar. The biochar co-product is marketed as a permanent carbon-removal pathway, and the company has explored deployments in the US (Kansas) and Latin America via MOU partners. Funding is undisclosed/unfunded and Tracxn lists only 1 employee as of mid-2024.
 
+![PENNSACO TECHNOLOGIES website](/screenshots/pennsaco-technologies.png)
+
 
 ## History
 

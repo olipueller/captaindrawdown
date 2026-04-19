@@ -25,6 +25,8 @@ liveliness: "🟢 Active"
 
 Catch 23 AB is a Swedish reseller/broker of carbon removal certificates (CRCs), founded in 2020/2021 and headquartered in Stockholm. The company has an agreement with Stockholm Exergi to market and sell CRCs from the latter's planned Värtan BECCS facility to Nordic corporate buyers seeking to neutralize hard-to-abate emissions. Catch 23 does not physically capture or store CO2 itself — it operates purely as a brokerage/retail intermediary in the CDR value chain.
 
+![Catch 23 website](/screenshots/catch-23.png)
+
 
 ## History
 

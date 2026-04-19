@@ -25,6 +25,8 @@ liveliness: "🟡 Moderate"
 
 ClimatePartner GmbH is a Munich-based climate action consultancy and carbon project broker founded in 2006, helping corporate clients calculate carbon footprints, set reduction targets, and finance/offset through climate projects. Through its ClimatePartner Impact subsidiary it also develops certified climate projects. It operates primarily in the voluntary carbon market rather than as a CDR technology supplier.
 
+![ClimatePartner GmbH website](/screenshots/climatepartner-gmbh.png)
+
 
 ## History
 

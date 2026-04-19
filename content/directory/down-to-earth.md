@@ -24,6 +24,8 @@ liveliness: "🟡 Moderate"
 
 Down to Earth (formerly Norsk Karbonlagring) is a Norwegian carbon removal company delivering biochar-based CDR. They source biochar and arrange physical placement in customer locations such as rooftop gardens, farms, or construction materials, issuing verified carbon credits from recognized registries. The company has been active in European CDR policy advocacy around the Carbon Removal Certification Framework.
 
+![Down to Earth website](/screenshots/down-to-earth.png)
+
 
 ## History
 

@@ -25,6 +25,8 @@ liveliness: "🟠 Suspect"
 
 EDAC Labs is a Baltimore-based Johns Hopkins spin-out (founded July 2022) that exclusively licensed an electrochemical salt-splitting technology producing low-cost acid and base for carbon-removal applications. Its in-house CDR project combines critical-metal recovery from mine tailings with permanent CO2 mineralization as carbonates, and it also sells its electrosynthesizer as an enabling input to third-party DAC, OAE, and ERW developers. Backed by a $3M seed round (Grantham Foundation, 2023), a $500K Frontier prepurchase (Stripe/Shopify, 2023), and ARPA-E MINER BOOST program funding.
 
+![EDAC Labs website](/screenshots/edac-labs.png)
+
 
 ## History
 

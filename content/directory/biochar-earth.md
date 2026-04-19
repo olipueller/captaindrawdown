@@ -23,6 +23,8 @@ liveliness: "🟡 Moderate"
 
 Biochar Earth is a biochar-based carbon removal supplier with operations centered in the Philippines, using coconut husk/shell feedstock converted to biochar through pyrolysis for long-term carbon storage. The company sells CDR at a listed price of $199 per tonne of CO2 removed, marketing both climate and local-economy benefits in coconut-growing regions like Palawan.
 
+![Biochar Earth website](/screenshots/biochar-earth.png)
+
 
 ## History
 

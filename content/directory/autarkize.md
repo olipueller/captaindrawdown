@@ -24,6 +24,8 @@ liveliness: "🟢 Active"
 
 Autarkize is a German climate-tech startup based in Allgäu that develops compact, containerized pyrolysis plants that convert low-value biomass into biochar and energy (pyrolysis gas, heat, electricity). The resulting biochar serves as a permanent CO2 sink eligible for CDR certificates, with plants sized to remove roughly 1,000–2,250 tonnes of CO2 per year.
 
+![autarkize website](/screenshots/autarkize.png)
+
 
 ## History
 

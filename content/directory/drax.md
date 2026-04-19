@@ -23,6 +23,8 @@ liveliness: "🟡 Moderate"
 
 Drax Group plc is a UK-listed energy company that launched Elimini, a wholly owned, U.S.-based subsidiary focused on the development of BECCS in North America. More than 20 potential BECCS sites are under review in North America, with additional projects under consideration in six more countries, and Elimini has entered into 11 carbon dioxide removal deals with eight companies. In December 2025 Drax confirmed it will cut more than half of its global CCS division, eliminating around 100 roles across its core business and Elimini, which analysts view as a signal of market recalibration amid BECCS economic headwinds.
 
+![Drax website](/screenshots/drax.png)
+
 
 ## History
 

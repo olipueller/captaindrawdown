@@ -24,6 +24,8 @@ liveliness: "🟡 Moderate"
 
 OpenAir Collective is a distributed global volunteer network advancing carbon dioxide removal through collaborative R&D, citizen science, policy advocacy, and educational initiatives. They run the annual Carbon Removal Challenge (a global student CDR competition), monthly "This is CDR" webinars, and the CDR.ai knowledge platform. They are a CDR ecosystem/advocacy organization, not a physical removal supplier.
 
+![OpenAir Collective website](/screenshots/openair-collective.png)
+
 
 ## History
 

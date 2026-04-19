@@ -25,6 +25,8 @@ liveliness: "🟢 Active"
 
 Mālama Labs is a Hawaii-based carbon removal startup that produces biochar from agricultural waste (macadamia nut shells, albizia) and invasive species at a Maui facility, while operating a blockchain-based digital MRV platform and marketplace for durable carbon credits. Founded in 2024, the company raised a pre-seed round in February 2025 and is pursuing its first commercial deployment with AgEnergy Hawaiʻi. It is also piloting in Prince Edward Island, Canada.
 
+![malama labs inc website](/screenshots/malama-labs-inc.png)
+
 
 ## History
 

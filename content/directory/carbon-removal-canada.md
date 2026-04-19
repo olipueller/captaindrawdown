@@ -24,6 +24,8 @@ liveliness: "🟢 Active"
 
 Carbon Removal Canada is an independent policy advocacy initiative, a project of the Clean Prosperity Foundation, focused on scaling carbon dioxide removal in Canada. It engages with policymakers and stakeholders to advance CDR-supportive policies, procurement programs, and protocols (DAC, biochar, BECCS, mineralization, enhanced weathering, ocean alkalinity enhancement). It does not itself remove CO2 but is part of the CDR ecosystem.
 
+![Carbon Removal Canada website](/screenshots/carbon-removal-canada.png)
+
 
 ## History
 

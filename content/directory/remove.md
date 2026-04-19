@@ -24,6 +24,8 @@ liveliness: "🟡 Moderate"
 
 remove is a non-profit accelerator program focused solely on carbon dioxide removal (CDR) startups, run by the Stichting Carbon Removal Foundation and headquartered in Amsterdam. It has supported more than 80 early-stage CDR companies since 2021 across Europe, India, Africa and Latin America, covering pathways from ERW and biochar to DAC, BECCS, mineralization and ocean CDR. It does not physically remove CO2 itself but is an ecosystem builder supporting the global CDR supplier community.
 
+![remove website](/screenshots/remove.png)
+
 
 ## History
 

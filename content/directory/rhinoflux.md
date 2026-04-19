@@ -24,6 +24,8 @@ liveliness: "🟢 Active"
 
 Rhinoflux is a Kyoto-based startup founded in 2024 and spun out of Kyoto University, developing next-generation Bio-Energy with Carbon Capture & Storage (BECCS) plants. Its proprietary hydro chemical looping technology uses redox reactions of metal ion solutions to generate clean electricity from biomass while capturing CO2 at over 99.9% purity, without combustion. The company raised a JPY 200M seed round in October 2024 and won the KPMG Global Tech Innovator 2025 award at Web Summit Lisbon.
 
+![Rhinoflux website](/screenshots/rhinoflux.png)
+
 
 ## History
 

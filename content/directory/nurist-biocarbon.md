@@ -22,6 +22,8 @@ liveliness: "🟡 Moderate"
 
 Nurist Biocarbon is an early-stage Indian company based in Didwana, Rajasthan that produces biochar from crop residue, dung, and native plant waste via pyrolysis. The company markets biochar as a soil amendment to improve soil health, reduce emissions, and support rural livelihoods. Registered as Nurist Biocarbon Private Limited in India.
 
+![Nurist Biocarbon website](/screenshots/nurist-biocarbon.png)
+
 
 ## History
 

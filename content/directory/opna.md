@@ -24,6 +24,8 @@ liveliness: "🟡 Moderate"
 
 Opna is a UK-based climate finance platform founded in 2022 by Shilpika Gautam that helps corporates discover, finance, and manage high-integrity carbon removal projects through offtakes and forward agreements, backed by an impact assessment framework. In 2025 the company expanded its scope to also mobilise financing for critical power infrastructure, clean energy and AI data-centre infrastructure, while continuing to operate its CDR sourcing and diligence software.
 
+![Opna website](/screenshots/opna.png)
+
 
 ## History
 

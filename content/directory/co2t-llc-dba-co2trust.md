@@ -25,6 +25,8 @@ liveliness: "🟡 Moderate"
 
 CO2Trust (CO2T, LLC) is an Oregon-based carbon credit marketplace platform that enables buying, selling, trading, bridging and retirement of carbon credits, with a tokenized model (CO2T Token) integrating Puro.earth-issued wCORC biochar credits. The platform positions itself as a blockchain-tracked bridge between carbon project suppliers and buyers rather than a removal operator itself.
 
+![CO2T, LLC (DBA CO2Trust) website](/screenshots/co2t-llc-dba-co2trust.png)
+
 
 ## History
 

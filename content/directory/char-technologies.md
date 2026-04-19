@@ -24,6 +24,8 @@ liveliness: "🟢 Active"
 
 CHAR Technologies Ltd. (TSXV:YES) is a Toronto-based cleantech company that operates high-temperature pyrolysis (HTP) systems to convert unmerchantable wood and organic waste into biocarbon (a drop-in replacement for metallurgical coal) alongside renewable natural gas or green hydrogen. Its Thorold, Ontario facility began commissioning in early 2026 targeting 5,000 tpa of biocarbon, with a larger 30,000 tpa Lake Nipigon plant planned and a Québec biocarbon pellet acquisition announced in April 2026. CHAR Tech also supplies biocarbon to steelmakers including ArcelorMittal Dofasco.
 
+![CHAR Technologies website](/screenshots/char-technologies.png)
+
 
 ## History
 

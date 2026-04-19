@@ -24,6 +24,8 @@ liveliness: "🟡 Moderate"
 
 Ökologische Klärschlammtrocknung Offenhausen GmbH is a German farm-based operator in Offenhausen (Bavaria) that runs a biogas plant alongside a sewage sludge/digestate drying facility and two biochar pyrolysis units producing biochar from wood chips (~3,000 tonnes DM/year). The pyrolysis units replaced fossil LPG burners for drying and the biochar output is registered under the Global Biochar C-Sink Standard (project GCSP1126, PDD dated 28.04.2025).
 
+![Ökologische Klärschlammtrocknung Offenhausen GmbH website](/screenshots/ökologische-klärschlammtrocknung-offenhausen-gmbh.png)
+
 
 ## History
 

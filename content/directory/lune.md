@@ -24,6 +24,8 @@ liveliness: "🟢 Active"
 
 Lune (Lune Climate Ltd) is a London-based climate API and platform that helps businesses calculate Scope 3 emissions and purchase carbon credits, including permanent carbon removal, from a curated portfolio of vetted projects. It acts as a marketplace/broker, integrating with partners like Salesforce's Net Zero Marketplace, Visa, and Payhawk rather than physically removing CO2 itself.
 
+![Lune website](/screenshots/lune.png)
+
 
 ## History
 

@@ -24,6 +24,8 @@ liveliness: "🟡 Moderate"
 
 Zopeful Climate is a London-based company that curates ready-made portfolios of durable carbon dioxide removal credits for individuals and businesses, blending solutions across DAC, biochar, enhanced weathering, bio-oil, ocean and nature-based pathways. It also runs free climate education courses. The company aggregates and resells CDR rather than producing removals itself.
 
+![Zopeful Climate website](/screenshots/zopeful-climate.png)
+
 
 ## History
 

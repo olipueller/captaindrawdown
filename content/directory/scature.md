@@ -25,6 +25,8 @@ liveliness: "🟡 Moderate"
 
 Scature is a Netherlands-based broker/marketplace connecting corporate buyers with nature-based carbon removal projects, primarily through partnerships with Dutch regenerative and agroforestry carbon farmers accredited via the ONCRA framework. Founded in 2024 by Bart van Beuzekom and Robert Smits, Scature builds tailored nature-based CDR portfolios and handles project onboarding, accreditation support, and sales on behalf of smallholder carbon farmers.
 
+![Scature website](/screenshots/scature.png)
+
 
 ## History
 

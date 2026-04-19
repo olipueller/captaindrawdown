@@ -24,6 +24,8 @@ liveliness: "🟡 Moderate"
 
 Revata Carbon is a Singapore-incorporated biochar project developer that converts agricultural waste into biochar for durable carbon removal. Revata Carbon manages the in-country development and operation of the gasification units, which convert the cashew shells into high-quality biochar. Its flagship project is a VIPP partnership with Varaha and Valency International in Côte d'Ivoire, producing biochar carbon credits issued under Puro.earth's methodology.
 
+![Revata Carbon PTE LTD website](/screenshots/revata-carbon-pte-ltd.png)
+
 
 ## History
 

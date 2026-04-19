@@ -23,6 +23,8 @@ liveliness: "🟡 Moderate"
 
 Nordic Offset (Nordic Offset Oy) is a Finnish carbon footprint management consultancy and voluntary carbon credit retailer, founded in 2008 and headquartered in Helsinki. It resells certified third-party credits (Gold Standard, Verra, Puro.earth) and offers emission calculation and sustainability (ESG/CSRD) reporting services. The firm has broadened into ESG reporting under the related Nordic Impact brand.
 
+![Nordic Offset website](/screenshots/nordic-offset.png)
+
 
 ## History
 

@@ -25,6 +25,8 @@ liveliness: "🟢 Active"
 
 SoilWatch is a climate tech company that helps nature-based carbon removal projects to deliver and prove their impact, combining science, Earth observation, and digital infrastructure to build measurement, reporting, and verification (MRV) systems. It is a Helsinki-based business with offices in Nairobi and Brussels, providing remote sensing, nature-based solutions, and sustainable land use services with a focus on Africa, Latin America and developing countries. The company sells MRV and project design services rather than physically removing CO2, placing it in the CDR ecosystem/enabling-tech category.
 
+![Soilwatch website](/screenshots/soilwatch.png)
+
 
 ## History
 

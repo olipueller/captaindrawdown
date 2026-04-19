@@ -25,6 +25,8 @@ liveliness: "🟡 Moderate"
 
 Cercarbono is a voluntary carbon certification standard established in Colombia in 2016, with over 200 global projects registered in more than 20 countries, primarily serving Latin American markets. In September 2025 it was named 'Best GHG Crediting Programme / Standards Setter' at the Environmental Finance Voluntary Carbon Market Awards, becoming the first Global South standard to win the award. It certifies and registers both GHG removals and emission reductions across forestry, circular economy, and biodiversity projects.
 
+![Cercarbono website](/screenshots/cercarbono.png)
+
 
 ## History
 

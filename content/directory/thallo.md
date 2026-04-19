@@ -24,6 +24,8 @@ liveliness: "🟡 Moderate"
 
 Thallo is a London-based climate-tech startup founded in 2021 that provides a blockchain-powered carbon credit marketplace and API connecting project developers with companies pursuing net-zero goals. The company integrates with registries such as Puro.Earth, Gold Standard, BioCarbon Registry, and Socialcarbon, and pioneered a two-way bridge between registries and blockchain. Headcount has reportedly shrunk from ~10 to 2 employees, suggesting the business is winding down or dormant.
 
+![Thallo website](/screenshots/thallo.png)
+
 
 ## History
 

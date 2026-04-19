@@ -24,6 +24,8 @@ liveliness: "🟢 Active"
 
 Beyond Captur is a South Korea-based Direct Air Capture company leveraging battery-based carbon capture technology that operates entirely on electricity, eliminating the need for thermal processes, aiming to reduce both energy consumption and operational costs compared to traditional carbon capture technologies. The company signed a Definitive Agreement with Great Carbon Valley to advance collaboration on building a DAC project in Kenya, following an earlier MoU to launch Kenya's first electrochemical DAC pilot.
 
+![Beyond Captur website](/screenshots/beyond-captur.png)
+
 
 ## History
 

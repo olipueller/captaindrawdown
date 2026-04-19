@@ -24,6 +24,8 @@ liveliness: "🟢 Active"
 
 Northmore Gordon is an Australian energy and carbon advisory consultancy (founded 2009, consolidated with Wattly in 2021) with offices in Melbourne, Sydney, Newcastle, the Philippines and Singapore. They act as a Puro.earth sales channel partner, brokering CO2 Removal Certificates (CORCs) and other environmental attribute certificates (ACCUs, Verra, Gold Standard, RECs) for industrial and commercial clients pursuing net-zero goals. They do not physically remove CO2 themselves.
 
+![Northmore Gordon website](/screenshots/northmore-gordon.png)
+
 
 ## History
 

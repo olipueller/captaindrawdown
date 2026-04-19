@@ -25,6 +25,8 @@ liveliness: "🟢 Active"
 
 Carbon Lockdown Project is a US public benefit corporation founded by University of Maryland professor Dr. Ning Zeng that develops engineered "wood vaults" for durable biomass burial carbon removal. Its flagship Potomac Project in Maryland targets 5,000 tCO2e of buried woody biomass, with CORC credits validated via Climate Vault and a first 1,000-ton sale to Kinnevik. The company received $4.7M from the US DOE Carbon Negative Shot Pilots program and is partnering with Mast Reforestation on a Montana site.
 
+![Carbon Lockdown website](/screenshots/carbon-lockdown.png)
+
 ## Registry Memberships
 
 - Cdrjobsearth

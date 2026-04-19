@@ -22,6 +22,8 @@ liveliness: "🟡 Moderate"
 
 WindCapture Technologies is a Dublin, Ireland-based direct air capture startup founded in September 2022 by Aaron Boylan and Ronan Hearne. The company designs novel DAC systems integrated into wind turbine blades, aiming to retrofit existing end-of-life turbines to capture CO2 while the turbine continues to generate power. Early-stage with ~4 employees, grant-funded through Enterprise Ireland, EIT Climate-KIC, AirMiners, and Remove.
 
+![WindCapture Technology website](/screenshots/windcapture-technology.png)
+
 
 ## History
 

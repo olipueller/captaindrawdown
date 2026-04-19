@@ -24,6 +24,8 @@ liveliness: "🟡 Moderate"
 
 SQUAKE is a Berlin-based climate tech company providing an API-based platform for carbon calculations and automated carbon credit procurement, primarily serving the travel and logistics industries. The platform integrates with booking and expense systems to calculate emissions and enables customers to purchase reduction and removal credits (including DAC, reforestation, and SAF) from a network of 150+ providers.
 
+![SQUAKE website](/screenshots/squake.png)
+
 
 ## History
 

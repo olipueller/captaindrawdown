@@ -25,6 +25,8 @@ liveliness: "🟡 Moderate"
 
 Koros is a Philippines-based carbon-smart solutions company that converts local biomass into biochar for rural community development projects. The company partners with the University of the Philippines Los Baños (UPLB) and the Provincial Government of Camiguin to deploy biochar gasification for rural energy, community biofertilizer hubs, and biochar-enhanced cement and metallurgical formulations.
 
+![Koros website](/screenshots/koros.png)
+
 
 ## History
 

@@ -24,6 +24,8 @@ liveliness: "🟢 Active"
 
 Sanctu is a Brazilian reforestation startup focused on restoring the Amazon by partnering with low-income farmers ("Guardians") to transform degraded land into biodiverse native forests. The company monetizes restoration through the sale of carbon credits and bioproducts.
 
+![Sanctu website](/screenshots/sanctu.png)
+
 
 ## History
 

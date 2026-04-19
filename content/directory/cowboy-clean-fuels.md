@@ -25,6 +25,8 @@ liveliness: "🟠 Suspect"
 
 Cowboy Clean Fuels (CCF) is a Denver, Colorado-headquartered climate-tech company, founded in 2020 and spun out of the University of Wyoming, that commercializes a patented Biomass Carbon Removal and Storage plus Renewable Natural Gas (BiCRS+RNG) process. At its Triangle Unit project in Wyoming's Powder River Basin, agricultural biomass is injected into depleted coalbed methane wells where native microbes convert it into CO2 (permanently stored in the geologic formation) and biomethane (delivered as RNG). Credits are verified under the Absolute Carbon Standard and listed on Evident's C-Capsule registry, with Climate Vault Solutions acting as exclusive commercialization partner.
 
+![Cowboy Clean Fuels website](/screenshots/cowboy-clean-fuels.png)
+
 
 ## History
 

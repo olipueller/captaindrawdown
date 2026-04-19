@@ -25,6 +25,8 @@ liveliness: "🟡 Moderate"
 
 ClearSky Limited is an environmental markets platform and carbon project broker/originator backed by precious-metals group MKS PAMP. The company structures transactions (spot, offtake, prepay, options) across nature-based solutions, durable carbon removals (including BECCS, DAC, and Terrestrial Storage of Biomass), plastics credits, and compliance carbon markets, working with registries such as Puro.earth, Isometric, and Verra. They are not themselves a CDR technology developer but a commercial/finance intermediary in the CDR ecosystem.
 
+![Clear Sky Ltd website](/screenshots/clear-sky-ltd.png)
+
 
 ## History
 

@@ -24,6 +24,8 @@ liveliness: "🟡 Moderate"
 
 Climacrux is a Swiss startup founded in 2020 that operates as a CDR reseller/broker, aggregating carbon removal from third-party suppliers (Charm Industrial, Running Tide, greenSand, Octavia Carbon) and reselling via its B2C platform Carbon Removed and its developer API CDR Platform. It does not perform any physical removal itself. The two founders run the company part-time alongside full-time jobs, and the latest notable public activity appears to date from 2023.
 
+![Climacrux website](/screenshots/climacrux.png)
+
 
 ## History
 

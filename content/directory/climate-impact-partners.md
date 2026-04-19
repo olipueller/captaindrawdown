@@ -24,6 +24,8 @@ liveliness: "🟡 Moderate"
 
 Climate Impact Partners is a UK/US-based voluntary carbon market specialist formed from the merger of Natural Capital Partners and ClimateCare. The company sources, originates, and develops carbon credit portfolios (including nature-based removals) and provides MRV, Carbon Asset Development, and CarbonNeutral certification services for corporate buyers. It is a carbon market intermediary/retailer rather than a physical CDR supplier.
 
+![Climate Impact Partners website](/screenshots/climate-impact-partners.png)
+
 
 ## History
 

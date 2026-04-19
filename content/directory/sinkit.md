@@ -25,6 +25,8 @@ liveliness: "🟢 Active"
 
 Sinkit is a Dutch cooperative carbon-removal platform that curates, rates (via its proprietary SCORE methodology), and sells carbon removal credits to companies and individuals. It also co-develops removal projects with partners — notably a biochar retort kiln in Uganda with Bamboo Uganda — and aims to realize at least 55 CDR projects by 2030. It is an initiative of Dutch energy-transition consultancy DAREL.
 
+![Sinkit website](/screenshots/sinkit.png)
+
 
 ## History
 

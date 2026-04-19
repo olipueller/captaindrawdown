@@ -25,6 +25,8 @@ liveliness: "🟢 Active"
 
 UrjanovaC is a Mumbai-based startup incubated at IIT Bombay's SINE, co-founded in 2023 by Prof. Vikram Vishal and Prof. Arnab Dutta, spun out of the DST-supported National Centre of Excellence in Carbon Capture and Utilization. The company is developing a patented aqueous, catalyst-based CO2 capture technology (TRL 5) that captures CO2 from flue gas or ambient air using water, converting it into mineral carbonates, and is deploying a 3-tonne-per-day pilot at IIT Bombay. It has won multiple 2025 awards including NASSCOM Emerge50, the Avinya Energy Startup Challenge at India Energy Week 2025, and the Carbon Capture Technology Hackathon 2025.
 
+![UrjanovaC website](/screenshots/urjanovac.png)
+
 
 ## History
 

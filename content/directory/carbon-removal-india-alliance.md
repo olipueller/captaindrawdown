@@ -25,6 +25,8 @@ liveliness: "🟡 Moderate"
 
 The Carbon Removal India Alliance (CRIA) is a non-partisan membership organisation and industry coalition dedicated to accelerating the development, commercialisation, and deployment of durable carbon dioxide removal technologies in India. It supports its members (biochar, ERW, and other CDR developers such as Mati Carbon, MASH Makes, Varaha, and Takachar) through research, policy engagement, and convenings, and publishes policy briefs on India's CDR sector.
 
+![Carbon Removal India Alliance website](/screenshots/carbon-removal-india-alliance.png)
+
 
 ## History
 

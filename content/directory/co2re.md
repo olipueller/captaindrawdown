@@ -24,6 +24,8 @@ liveliness: "🟢 Active"
 
 CO₂RE is the UK's national research hub on Greenhouse Gas Removal, led by the Smith School, University of Oxford. It conducts research, co-ordinates demonstration projects around the UK, connects to other relevant national and international programmes, and commissions grants through a flexible fund. It also develops the CO2RE GGR Evaluation Framework and policy guidance rather than physically removing CO2 itself.
 
+![CO2Re website](/screenshots/co2re.png)
+
 
 ## History
 

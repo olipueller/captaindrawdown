@@ -24,6 +24,8 @@ liveliness: "🟢 Active"
 
 Capture6 is a US-based direct air capture supplier that integrates CO2 removal with desalination and water treatment infrastructure, using waste brine to generate a solvent that captures atmospheric CO2 while recovering freshwater and green chemicals. Active projects include Project Wallaby in Western Australia (with Pilot Energy), Project Monarch in Los Angeles County (with Palmdale Water District), and a partnership with K-Water in South Korea. In March 2025 the company raised $27.5M in Series A funding led by Tetrad Corp., and in July 2025 partnered with Isometric to issue DAC credits.
 
+![Capture6 website](/screenshots/capture6.png)
+
 ## Registry Memberships
 
 - Cdrjobsearth

@@ -23,6 +23,8 @@ liveliness: "🟢 Active"
 
 Toshiba Energy Systems & Solutions (Toshiba ESS) is the energy division of Toshiba Corporation that developed and operates Japan's first large-scale BECCS demonstration facility at the 50 MW Mikawa biomass power plant (operated by its subsidiary SIGMA POWER Ariake). The project, funded by Japan's Ministry of the Environment as part of the Demonstration of Sustainable CCS Technology Project, uses chemical-absorbent post-combustion capture to remove more than 500 tonnes of CO2 per day from palm kernel shell flue gas. Toshiba ESS is also pursuing commercial deployment of its capture technology internationally, including a 2024 MoU with PLN Nusantara Power in Indonesia.
 
+![Toshiba ESS website](/screenshots/toshiba-ess.png)
+
 
 ## History
 

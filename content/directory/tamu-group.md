@@ -25,6 +25,8 @@ liveliness: "🟢 Active"
 
 Tamu Group is a Kenya/UK-linked holding company that builds and scales environmental businesses across biomass fuels, biochar, enhanced rock weathering, and climate finance. Its operating companies include Tamuwa (renewable biomass briquettes/pellets), Tera (biochar), Flux (enhanced rock weathering on African farmland), and CYNK (emissions credit trading platform). Through Flux and Tera it is a direct CDR supplier; through CYNK it also operates ecosystem-adjacent market infrastructure.
 
+![Tamu group website](/screenshots/tamu-group.png)
+
 
 ## History
 

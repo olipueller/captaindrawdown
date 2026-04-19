@@ -23,6 +23,8 @@ liveliness: "🟢 Active"
 
 Brineworks is an Amsterdam-based climate technology company founded in 2023 by Gudfinnur Sveinsson and Dr. Joseph Perryman, developing Direct Air Capture and hydrogen co-production technologies to enable affordable e-Fuel production for hard-to-abate sectors like aviation and maritime. Its electrolyzer uses saltwater, intermittent electricity and zero precious metals to produce acid and base, where the base captures CO₂ from air into water and the acid liberates it for storage or utilization, co-producing H₂. In September 2025 the company secured €6.8 million in funding led by SeaX Ventures with participation from Pale Blue Dot, First Momentum, AiiM Partners, Energie360°, and Katapult, plus a €1.8 million EIC Accelerator grant to advance R&D and pilot deployment.
 
+![Brineworks website](/screenshots/brineworks.png)
+
 
 ## History
 

@@ -24,6 +24,8 @@ liveliness: "🟡 Moderate"
 
 Carbon180 is a Washington, D.C.-based nonprofit, nonpartisan climate NGO founded in 2015 (formerly the Center for Carbon Removal) that advocates for federal carbon removal policy, appropriations, and R&D funding across DAC, ocean CDR, soil carbon, and forestry. It runs programs including the New Carbon Economy Consortium, environmental-justice regranting, and an Entrepreneur in Residence program (which spun out the Carbon Removal Standards Initiative).
 
+![Carbon180 website](/screenshots/carbon180.png)
+
 
 ## History
 

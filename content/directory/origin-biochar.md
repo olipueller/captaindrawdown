@@ -22,6 +22,8 @@ liveliness: "🟡 Moderate"
 
 Origin Biochar (trading as R & S Biomass Equipment Ltd) is a Northern Ireland-based biochar manufacturer in Newtonstewart, Omagh, County Tyrone. They operate a Biomacon pyrolysis unit producing feedchar products for livestock (cattle, sheep, pigs, poultry, equine) and horticultural biochar, with carbon sequestration and renewable heat positioned as co-benefits of the pyrolysis process. No evidence of CDR credit issuance on major registries.
 
+![Origin Biochar website](/screenshots/origin-biochar.png)
+
 
 ## History
 

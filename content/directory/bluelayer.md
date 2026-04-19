@@ -24,6 +24,8 @@ liveliness: "🟡 Moderate"
 
 BlueLayer is a Berlin-based software platform providing an end-to-end operating system for carbon project developers, covering inventory management, dMRV, credit lifecycle tracking, RFP response, and sales analytics. Customers include major nature-based and CDR developers such as Permian Global, Conservation International, Carbon2Nature, and New Forests. The company raised a $10M seed round led by Point Nine and partners with Sylvera on carbon data exchange.
 
+![BlueLayer website](/screenshots/bluelayer.png)
+
 
 ## History
 

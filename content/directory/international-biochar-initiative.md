@@ -25,6 +25,8 @@ liveliness: "🟢 Active"
 
 The International Biochar Initiative (IBI) is a U.S.-based 501(c)(3) nonprofit member organization founded in 2006 that serves as a global industry platform for the biochar sector. It develops standards, publishes market reports, runs educational programs, and advocates for biochar as a CDR technology, but does not physically produce biochar itself.
 
+![International Biochar Initiative website](/screenshots/international-biochar-initiative.png)
+
 
 ## History
 

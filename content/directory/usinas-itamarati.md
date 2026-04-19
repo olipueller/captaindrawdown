@@ -25,6 +25,8 @@ liveliness: "🟢 Active"
 
 Usinas Itamarati S.A. (UISA) is a Brazilian biorefinery in Mato Grosso state that produces sugar, ethanol, and cogenerated energy from sugarcane and bagasse. It is listed as a carbon removal supplier on Puro.earth, where its facility has passed third-party audits and has been issued CORCs for durable carbon removal operations alongside its core sugarcane business.
 
+![Usinas Itamarati website](/screenshots/usinas-itamarati.png)
+
 
 ## History
 

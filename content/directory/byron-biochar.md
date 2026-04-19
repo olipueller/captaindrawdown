@@ -23,6 +23,8 @@ liveliness: "🟡 Moderate"
 
 Byron Biochar is an Australian social enterprise founded by Don Coyne that produces and distributes biochar and wood vinegar products for agriculture and soil restoration. The company operates out of the Byron Bay/Tyagarah region in New South Wales and sells biochar products Australia-wide.
 
+![Byron Biochar website](/screenshots/byron-biochar.png)
+
 
 ## History
 

@@ -23,6 +23,8 @@ liveliness: "🟢 Active"
 
 Enable Earth is a biochar project developer based in Wiang Pa Pao District, Chiang Rai Province, Thailand. The company converts local corn crop residues (stalks, leaves and cobs) — which would otherwise be openly burned and contribute to PM2.5 pollution — into stable biochar via pyrolysis, with the biochar blended with compost and distributed to local farmers. It has passed Puro.earth's Preliminary Assessment and is listed as a future CORC supplier.
 
+![Enable Earth website](/screenshots/enable-earth.png)
+
 
 ## History
 

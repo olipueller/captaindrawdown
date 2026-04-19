@@ -24,6 +24,8 @@ liveliness: "🟢 Active"
 
 Carbon Lock Tech is a Canadian cleantech startup based in Winnipeg, Manitoba that converts biomass and organic waste into stable biocarbon (biochar and bio-oil) via a patented pyrolysis reactor. The company is preparing Canada's first municipal organics-to-biocarbon facility in Manitoba and is pursuing carbon removal credit sales.
 
+![Carbon Lock Tech website](/screenshots/carbon-lock-tech.png)
+
 
 ## History
 

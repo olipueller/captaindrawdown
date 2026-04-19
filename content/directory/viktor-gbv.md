@@ -25,6 +25,8 @@ liveliness: "🟡 Moderate"
 
 Viktor Goes Green is an Antwerp, Belgium-based company that develops green energy projects, including biomass gasification to green gas and biomass installations. The firm (presented by Marc Moons in a 2023 Green Carbon Webinar) produces biochar and biochar production equipment. They act as a CDR supplier by producing durable biochar and enabling others to do so through their equipment.
 
+![Viktor G.BV website](/screenshots/viktor-gbv.png)
+
 
 ## History
 

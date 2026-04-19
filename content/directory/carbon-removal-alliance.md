@@ -24,6 +24,8 @@ liveliness: "🟢 Active"
 
 Carbon Removal Alliance (CRA) is a US-based policy advocacy coalition founded in 2023 that represents 20+ permanent carbon removal companies. It lobbies Congress and federal agencies on CDR tax credits, procurement (e.g. the CDR Purchase Pilot Prize), MRV standards, and market infrastructure. CRA does not itself remove CO2; it is an industry trade/advocacy organization within the CDR ecosystem.
 
+![Carbon Removal Alliance website](/screenshots/carbon-removal-alliance.png)
+
 
 ## History
 

@@ -25,6 +25,8 @@ liveliness: "🟡 Moderate"
 
 South Pole is a Zurich-based climate consultancy and carbon project developer founded in 2006. It advises corporates on net-zero strategies, develops and finances carbon credit projects (forestry, renewables, cookstoves), and brokers credits — it is a carbon markets intermediary rather than a CDR technology supplier. The company has been under scrutiny since 2023 over the integrity of its Kariba REDD+ project.
 
+![South Pole website](/screenshots/south-pole.png)
+
 
 ## History
 

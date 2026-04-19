@@ -25,6 +25,8 @@ liveliness: "🟡 Moderate"
 
 Forest Energy Inc. is a Tokyo-based company that develops and operates small-scale woody biomass power plants (cogeneration) in rural Japan. At its Shingu, Wakayama plant it produces biochar as a by-product of power generation, and in 2023 became the first in Japan to obtain the European Biochar Certificate (EBC Basic Materials). The biochar is used for soil amendment and generates J-Credits, with sales via partners including Carbonfuture.
 
+![Forest Energy Inc website](/screenshots/forest-energy-inc.png)
+
 
 ## History
 

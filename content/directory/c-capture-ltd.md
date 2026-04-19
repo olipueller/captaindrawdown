@@ -25,6 +25,8 @@ liveliness: "🟡 Moderate"
 
 C-Capture is a Leeds-based spinout from the University of Leeds that develops proprietary solvent-based technology to capture CO2 from flue gas streams. Their technology has been piloted at Drax Power Station for BECCS (bioenergy with carbon capture) and trialed for cement and flat glass decarbonization. When applied to biomass combustion (BECCS), the technology enables carbon dioxide removal.
 
+![C-Capture Ltd website](/screenshots/c-capture-ltd.png)
+
 
 ## History
 

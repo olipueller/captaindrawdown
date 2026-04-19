@@ -21,6 +21,8 @@ liveliness: "🟡 Moderate"
 
 CarbonMeld is an independent carbon-credit screening and scoring tool that publishes quality scores for 650+ voluntary carbon market projects across 9 marketplaces, including CDR project types like biochar, DAC and blue carbon. It applies a standardized AI-assisted scoring pipeline to public registry documents (Verra, Gold Standard, CDM, CORSIA) across four dimensions: registry integrity, transparency, claim safety and documentation quality. Revenue comes from paid document processing, advertising and B2B consulting — it is not a registry, marketplace, or certifier.
 
+![CarbonMeld website](/screenshots/carbonmeld.png)
+
 
 ## History
 

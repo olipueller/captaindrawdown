@@ -25,6 +25,8 @@ liveliness: "🟡 Moderate"
 
 Enchar is a B2B biochar market-maker with a biochar supply database and expertise in biochar characterization, providing buyers with suitable biochar and aggregating supply for large offtakes. The company operates a commission-based brokerage platform connecting biochar producers with buyers, and also supports producers with CO2 certification and sales of carbon credits. Founded in 2022, Enchar is headquartered in Switzerland and has 3 total employees.
 
+![Enchar website](/screenshots/enchar.png)
+
 
 ## History
 

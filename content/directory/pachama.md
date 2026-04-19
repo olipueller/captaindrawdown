@@ -23,6 +23,8 @@ liveliness: "🟡 Moderate"
 
 Pachama, based in California and launched in 2018, provided digital MRV products for forest carbon removal, helping companies identify forest-based carbon removal projects and track their impact over time. In November 2025, Carbon Direct acquired Pachama, with co-founder and CEO Diego Saez Gil and others joining the Carbon Direct team. Pachama operated a forest carbon marketplace and AI-assisted MRV platform rather than physically removing CO2 itself.
 
+![Pachama website](/screenshots/pachama.png)
+
 
 ## History
 

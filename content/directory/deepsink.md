@@ -23,6 +23,8 @@ liveliness: "🟢 Active"
 
 Deepsink is a UK-based fractional sales and commercialization service for engineered carbon dioxide removal projects, helping CDR developers connect with buyers and market makers. The team (co-founder Oliver Erb, partnerships lead Oliver Grogono) was active in 2025, including attending DeCarbon Tokyo 2025. The operating domain is deepsink.co.uk (not deepsink.com).
 
+![Deepsink website](/screenshots/deepsink.png)
+
 ## Registry Memberships
 
 - Cdrjobsearth

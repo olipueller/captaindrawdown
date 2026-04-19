@@ -25,6 +25,8 @@ liveliness: "🟡 Moderate"
 
 Lawrence Livermore National Laboratory (LLNL) is a U.S. Department of Energy national laboratory operated by Lawrence Livermore National Security, LLC for the NNSA. LLNL's Carbon Initiative focuses on advancing Carbon Dioxide Removal (CDR) technologies to support negative CO2 emissions through innovation and research. The lab has established itself as a leading research institute on CDR, conducting basic and applied scientific research on CDR technologies and providing modeling support (e.g. its GEOS simulator) for commercial CO2 storage projects such as the Pelican Carbon Sequestration Project in California.
 
+![Lawrence Livermore National Laboratory website](/screenshots/lawrence-livermore-national-laboratory.png)
+
 
 ## History
 

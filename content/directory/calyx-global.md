@@ -24,6 +24,8 @@ liveliness: "🟡 Moderate"
 
 Calyx Global is an independent carbon credit ratings agency for the voluntary carbon market, providing GHG integrity and SDG impact ratings across 25+ project types including DAC, biochar, and nature-based removals. The company does not remove CO2 itself but evaluates credit quality for buyers and investors, and recently partnered with Bloomberg to deliver ratings via the Bloomberg Terminal.
 
+![Calyx Global website](/screenshots/calyx-global.png)
+
 
 ## History
 

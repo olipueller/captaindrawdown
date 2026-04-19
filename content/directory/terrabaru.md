@@ -25,6 +25,8 @@ liveliness: "🟢 Active"
 
 TerraBaru is an Indonesian biochar producer headquartered in Bali with a Singapore office. It produces TerraKarbon, a stable carbon-rich biochar material made through the pyrolysis of organic agricultural waste to international standards, with applications in soil health, infrastructure, and energy alongside carbon removal credits.
 
+![TerraBaru website](/screenshots/terrabaru.png)
+
 ## Registry Memberships
 
 - Cdrjobsearth

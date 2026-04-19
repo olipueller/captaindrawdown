@@ -24,6 +24,8 @@ liveliness: "🟡 Moderate"
 
 Carbon Engineering is a Canadian direct air capture (DAC) technology developer headquartered in Squamish, British Columbia, founded in 2009. It became a wholly owned subsidiary of Occidental's Oxy Low Carbon Ventures after a $1.1 billion acquisition completed in November 2023. Its liquid-solvent DAC technology is being deployed at commercial scale via Stratos in Texas and the South Texas DAC Hub through sister company 1PointFive.
 
+![Carbon Engineering website](/screenshots/carbon-engineering.png)
+
 
 ## History
 

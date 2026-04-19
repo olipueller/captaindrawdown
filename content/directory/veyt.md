@@ -24,6 +24,8 @@ liveliness: "🟡 Moderate"
 
 Veyt is an Oslo-based independent market intelligence provider for carbon markets and renewable energy, founded in 2016. It delivers subscription-based analytics, price forecasts, and policy analysis across compliance carbon (EU ETS, UK ETS, CCA, RGGI), voluntary carbon markets including removals, guarantees of origin, renewable power, and renewable fuels. Veyt does not produce CDR itself but covers the carbon-credit market — including CDR removals — as part of its analytics platform.
 
+![Veyt website](/screenshots/veyt.png)
+
 
 ## History
 

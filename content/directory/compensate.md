@@ -23,6 +23,8 @@ liveliness: "🟡 Moderate"
 
 Compensate is a Helsinki-based carbon offset broker/retailer that curates a portfolio of third-party carbon projects and resells them as "Compensate Credits" to businesses and individuals. The company does not develop or operate removal projects itself; it screens projects against its own integrity criteria (built on Gold Standard and Verra), bundles them with built-in over-compensation, and provides emission calculation, reporting and communications services. The portfolio is roughly 80% nature-based projects and 20% engineered approaches such as biochar.
 
+![Compensate website](/screenshots/compensate.png)
+
 
 ## History
 

@@ -24,6 +24,8 @@ liveliness: "🟡 Moderate"
 
 Rethinking Removals is a UK-based collaborative non-profit organisation focused on scaling the carbon dioxide removal industry through advocacy, narrative-setting, policy development, and demand-building initiatives. Founded by Gabrielle Walker and Delia Meth-Cohn, it convenes stakeholders (e.g. via The Doers Club and United Front for Nature & Net Zero) and runs programmes at COPs to accelerate high-quality CDR. It does not physically remove CO2 itself.
 
+![Rethinking Removal website](/screenshots/rethinking-removal.png)
+
 
 ## History
 

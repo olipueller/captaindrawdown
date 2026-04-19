@@ -25,6 +25,8 @@ liveliness: "🟡 Moderate"
 
 The Direct Air Capture Coalition was founded in 2022 as a non-profit, multi-stakeholder, climate-focused coalition consisting of over 110 companies, civil society groups, and research and academic institutions focused on educating, engaging, and mobilizing society to scale DAC. It does not remove CO2 itself; instead it acts as an advocacy, convening, and knowledge-sharing body for the DAC sector, organizing conferences and engaging with policymakers.
 
+![Direct Air Capture Coalition website](/screenshots/direct-air-capture-coalition.png)
+
 
 ## History
 

@@ -24,6 +24,8 @@ liveliness: "🟡 Moderate"
 
 Circle Carbon Labs is a Mallorca, Spain-based social enterprise producing biochar from organic waste and applying it on-site to regenerate soil and grow organic produce. The company has pivoted toward education, farm tours, and R&D alongside biochar and compost production.
 
+![Circle Carbon website](/screenshots/circle-carbon.png)
+
 
 ## History
 

@@ -25,6 +25,8 @@ liveliness: "🟡 Moderate"
 
 GreenTrade (GreenTrade Impact GmbH) is a Berlin-based marketplace founded in 2022 that provides forward financing for nature- and tech-based carbon projects via long-term offtake agreements, sometimes tokenised on blockchain. It curates a portfolio of projects for corporate buyers seeking reduction and removal credits, rather than operating removal technology itself.
 
+![greentrade.tech website](/screenshots/greentradetech.png)
+
 
 ## History
 

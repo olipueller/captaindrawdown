@@ -23,6 +23,8 @@ liveliness: "🟡 Moderate"
 
 The Biochar Impact Company is a biochar-focused advisory/consulting firm that helps clients evaluate biochar quality and integrate it into land, agriculture, and carbon credit strategies. They position themselves as industry veterans of the modern biochar movement rather than as biochar producers themselves. Their work centers on advisory services, carbon value creation, and connecting stakeholders in the biochar market.
 
+![The Biochar Impact Company website](/screenshots/the-biochar-impact-company.png)
+
 
 ## History
 

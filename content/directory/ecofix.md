@@ -23,6 +23,8 @@ liveliness: "🟠 Suspect"
 
 EcoFix Kenya Ltd (formerly Eco Fuels Kenya) is a Nanyuki-based social enterprise that processes Croton megalocarpus nuts into biofuel, animal feed, organic fertilizer, and cosmetics. Through a partnership with Terraton (a full-stack biochar platform that closed an $11.5M seed round in August 2025 from Lowercarbon Capital and Gigascale Capital), EcoFix's nut-processing residues are being converted to biochar at a locally owned facility branded "EcoFix Kenya Biochar," which is under review with Isometric and, together with Terraton's Ghana cocoa project, is expected to remove over 20,000 tonnes of CO₂ annually.
 
+![EcoFix website](/screenshots/ecofix.png)
+
 
 ## History
 

@@ -22,6 +22,8 @@ liveliness: "🟡 Moderate"
 
 Punarv Resources Pvt Ltd is an Indian biochar producer based in Raipur, Chhattisgarh, incorporated in 2019. The company pyrolyzes agricultural residues such as cotton stalk and pigeon pea stalk to produce biochar, generating carbon removal credits (CORCs) under the Puro.earth standard.
 
+![Punarv Resources website](/screenshots/punarv-resources.png)
+
 
 ## History
 

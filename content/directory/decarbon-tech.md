@@ -25,6 +25,8 @@ liveliness: "🟡 Moderate"
 
 DeCarbon Tech is a Shenzhen-based climate technology company founded by professors from the Southern University of Science and Technology (SUSTech), developing next-generation CO2 capture technology. The company commercializes academic research on capture materials and operates an AI platform (aidecarbon.org) featuring a carbon capture LLM and materials development tools.
 
+![DeCarbon Tech website](/screenshots/decarbon-tech.png)
+
 
 ## History
 

@@ -24,6 +24,8 @@ liveliness: "🟢 Active"
 
 Xpansiv operates market infrastructure for environmental commodities, including the CBL spot exchange for carbon credits and RECs, Evolution Markets brokerage, and Xpansiv Connect registry/portfolio management integrating 15+ registries. It is a neutral marketplace and data platform rather than a CDR project developer, but carbon credits (including CDR) are a core part of its business.
 
+![Xpansiv website](/screenshots/xpansiv.png)
+
 
 ## History
 

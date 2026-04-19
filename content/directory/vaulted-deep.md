@@ -25,6 +25,8 @@ liveliness: "🟢 Active"
 
 Vaulted Deep is a Houston-based waste management company that turns excess organic material into permanent carbon removal by storing organic waste containing atmospheric CO₂ deep underground. In 2025 it expanded operating capacity, delivered more than 23,000 tonnes of verified CO₂ removal, and secured long-term agreements including a 4.9 million tonne offtake with Microsoft and a 50,000 tonne commitment from Google. The company's methodology is certified by carbon registry Isometric for over 1,000 years of durability.
 
+![Vaulted Deep website](/screenshots/vaulted-deep.png)
+
 ## Registry Memberships
 
 - [Isometric](https://registry.isometric.com/)

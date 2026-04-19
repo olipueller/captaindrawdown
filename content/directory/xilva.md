@@ -25,6 +25,8 @@ liveliness: "🟢 Active"
 
 Xilva is a Zurich-based startup (founded 2021) that provides due diligence, rating, and monitoring services for forest and nature-based carbon removal projects. Its GRADE, SCREEN and MONITOR tools help investors and offtakers assess risk and quality of afforestation/reforestation and REDD+ projects. Xilva is not itself a carbon remover but a ratings/MRV platform in the CDR ecosystem.
 
+![Xilva website](/screenshots/xilva.png)
+
 
 ## History
 

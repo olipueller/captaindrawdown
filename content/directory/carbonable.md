@@ -24,6 +24,8 @@ liveliness: "🟡 Moderate"
 
 Carbonable specializes in the management, monitoring, and reporting of carbon contributions, offering an all-in-one platform that digitizes carbon assets, verifies carbon removal results using advanced technologies, and provides automated ESG reports. It was founded in 2021 and is based in Paris, France. The platform uses the Ethereum scaling overlay built by Starkware to keep tabs on the carbon credit lifecycle, from the selection of the projects to the monitoring, issuance and retirement of carbon credits.
 
+![Carbonable website](/screenshots/carbonable.png)
+
 
 ## History
 

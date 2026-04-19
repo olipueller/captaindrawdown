@@ -24,6 +24,8 @@ liveliness: "🟡 Moderate"
 
 C2X is a green molecules company established in 2022/2023, majority-owned by the A.P. Moller Group with ENEOS as a minority shareholder, that develops and operates green methanol production facilities. Its Beaver Lake Biofuels project in Louisiana will convert forestry residues into bio-methanol via SunGas gasifiers while permanently storing biogenic CO2 in geological formations, generating CDR credits. The project signed a landmark 3.6 Mt offtake agreement with Microsoft over 12 years, with operations targeted for 2029.
 
+![C2X website](/screenshots/c2x.png)
+
 
 ## History
 

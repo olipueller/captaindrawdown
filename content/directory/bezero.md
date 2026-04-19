@@ -24,6 +24,8 @@ liveliness: "🟡 Moderate"
 
 BeZero Carbon is a global ratings agency for the Voluntary Carbon Market whose carbon credit ratings allow market participants to price and manage risk. It is headquartered in London with subsidiaries in New York and Singapore. In January 2025 it closed a US$32 million Series C investment round led by Temasek-founded GenZero, a Singapore-based decarbonisation investment firm.
 
+![BeZero website](/screenshots/bezero.png)
+
 
 ## History
 

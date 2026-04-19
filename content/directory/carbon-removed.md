@@ -23,6 +23,8 @@ liveliness: "🟡 Moderate"
 
 Carbon Removed is a B2C/B2B carbon removal marketplace operated by Climacrux GmbH, a Swiss start-up based in Kastanienbaum/Lucerne. The platform lets individuals and businesses purchase one-time or subscription CDR credits sourced from third-party suppliers such as Climeworks, Charm Industrial, greenSand and Eden Reforestation. Climacrux also offers a developer-facing 'CDR Platform' API for embedding removals into other products.
 
+![Carbon Removed website](/screenshots/carbon-removed.png)
+
 
 ## History
 

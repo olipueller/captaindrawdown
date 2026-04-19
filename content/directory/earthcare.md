@@ -24,6 +24,8 @@ liveliness: "🟡 Moderate"
 
 Earthcare LLC is a US-based company operating gasification systems that convert organic waste streams—including biosolids, manure, food waste, and MSW digestate—into biochar. Projects are certified under Puro.earth and the company sells carbon removal credits alongside the biochar product. As of mid-2025 it had 12 operational gasifiers with additional projects in the pipeline.
 
+![Earthcare website](/screenshots/earthcare.png)
+
 
 ## History
 

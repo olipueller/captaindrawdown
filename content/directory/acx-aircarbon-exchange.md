@@ -24,6 +24,8 @@ liveliness: "🟡 Moderate"
 
 ACX (AirCarbon Exchange) is a global digital exchange for environmental instruments and carbon credits, headquartered in Singapore with a regulated exchange and clearing house in Abu Dhabi Global Market (ADGM). It connects project developers, corporates and traders to buy and sell carbon credits (including removal credits) and other environmental instruments such as I-RECs.
 
+![ACX (AirCarbon Exchange) website](/screenshots/acx-aircarbon-exchange.png)
+
 
 ## History
 

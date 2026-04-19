@@ -25,6 +25,8 @@ liveliness: "🟢 Active"
 
 Open Forest Protocol (Open Forest AG) is a Swiss-based, blockchain-powered MRV and registry platform for nature-based carbon credits, primarily afforestation and reforestation projects. It does not itself remove CO2; instead it digitizes project registration, coordinates a network of expert validators using satellite, AI and LIDAR data, and issues on-chain credits. The company collaborates with forest projects across roughly 20 countries.
 
+![Open Forest Protocol website](/screenshots/open-forest-protocol.png)
+
 
 ## History
 

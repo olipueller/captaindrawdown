@@ -24,6 +24,8 @@ liveliness: "🟠 Suspect"
 
 TorrCoal is a Belgian torrefaction-technology specialist founded in 2005 in Dilsen-Stokkem and acquired by Dutch climate-tech firm Perpetual Next in September 2021, fully integrated as a Perpetual Next company from January 1, 2023. Its technology was used to build ArcelorMittal Ghent's Torero bio-coal plant (commissioned December 2023), which converts 88,000 t/yr of waste wood into 37,500 t/yr of bio-coal for blast furnace use. The TorrCoal brand has largely been absorbed into Perpetual Next, and torrcoal.com currently appears offline, though the underlying technology continues to be deployed by the parent.
 
+![TorrCoal website](/screenshots/torrcoal.png)
+
 
 ## History
 

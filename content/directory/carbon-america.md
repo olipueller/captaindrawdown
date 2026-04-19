@@ -24,6 +24,8 @@ liveliness: "🟡 Moderate"
 
 Carbon America is a Colorado-based vertically integrated CCS developer that finances, builds, owns and operates capture and Class VI geological storage projects. Its flagship BECCS projects are at the Yuma, Sterling (Colorado) and Bridgeport (Nebraska) ethanol plants, targeting ~525,000 tCO2/year of biogenic CO2 storage. The company is also commercializing FrostCC, a proprietary cryogenic point-source capture technology that reached TRL 6 after a 1,000-hour pilot at the National Carbon Capture Center.
 
+![Carbon America website](/screenshots/carbon-america.png)
+
 
 ## History
 

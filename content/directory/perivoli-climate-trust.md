@@ -22,6 +22,8 @@ liveliness: "🟡 Moderate"
 
 Perivoli Climate Trust is a Namibia-domiciled not-for-profit (established 2020) funded by the UK-based Perivoli Foundation. It supports climate research with an Africa focus and implements a biochar-based carbon farming program through its Perivoli Rangeland Institute, which is an accredited C-Sink Manager generating carbon removal credits from Namibian rangeland restoration.
 
+![Perivoli Climate Trust website](/screenshots/perivoli-climate-trust.png)
+
 
 ## History
 

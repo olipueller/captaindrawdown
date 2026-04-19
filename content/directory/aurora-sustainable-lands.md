@@ -23,6 +23,8 @@ liveliness: "🟢 Active"
 
 Aurora Sustainable Lands (formerly Bluesource Sustainable Forests Company) is a US-based forest carbon project developer and landowner that owns and manages roughly 1.65–1.7 million acres of formerly industrial American forestland, shifting them from timber harvesting to carbon-first Improved Forest Management. It is a joint venture between Anew Climate and an equity consortium led by Oak Hill Advisors, with investors including AB CarVal, EIG and GenZero; credits are exclusively marketed by Anew Climate. Recent activity includes issuing credits in Dec 2025 under ACR's IFM 2.1 methodology and a $100M offtake deal with TotalEnergies in 2024.
 
+![Aurora Sustainable Lands website](/screenshots/aurora-sustainable-lands.png)
+
 
 ## History
 

@@ -23,6 +23,8 @@ liveliness: "🟠 Suspect"
 
 Southwest Biochar Products (SOWBiochar) is an Arizona-based biochar producer operating since 2022 in Eagar, AZ. It uses slow pyrolysis to convert wood chips and forest-thinning residues into biochar sold as a soil amendment, and partners with 3Degrees on carbon credit sales. In fall 2024 the company expanded from a single reactor to a 5-reactor system with capacity exceeding 12,000 yards per year.
 
+![Southwest Biochar Products website](/screenshots/southwest-biochar-products.png)
+
 
 ## History
 

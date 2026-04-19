@@ -25,6 +25,8 @@ liveliness: "🟢 Active"
 
 AirSmat is a Lagos, Nigeria-based agritech startup (founded 2019) that works with African farmers on regenerative agriculture, combining biochar deployment for soil carbon sequestration with a proprietary satellite-imagery and machine-learning MRV platform (AnyFarm). The company positions itself as both a biochar-based carbon removal supplier and an MRV enabling-tech provider for soil carbon projects.
 
+![AIRSMAT website](/screenshots/airsmat.png)
+
 
 ## History
 

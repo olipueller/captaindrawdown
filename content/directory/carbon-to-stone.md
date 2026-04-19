@@ -25,6 +25,8 @@ liveliness: "🟢 Active"
 
 Carbon To Stone (CTS) is a Cornell University spinout based in Ithaca, New York, developing a reactive crystallization technology that couples CO2 capture (from air or point sources) with mineralization using alkaline industrial waste streams such as steel slag, aluminum dross, and mine tailings. The process produces solid carbonates suitable for construction use while recovering energy-critical metals (Li, Co, Ni, Mg, etc.) as co-products, targeting hard-to-abate sectors like steel and aluminum. CTS holds a Frontier pre-purchase agreement for 1,269 tons and is backed by the C2V Initiative, Carbontech Development Initiative, and the DOE DAC Pre-Commercial Prize program.
 
+![Carbon To Stone website](/screenshots/carbon-to-stone.png)
+
 
 ## History
 

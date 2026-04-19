@@ -24,6 +24,8 @@ liveliness: "🟡 Moderate"
 
 Carbonplace is a London-based carbon credit transaction and management platform founded in 2020 and backed by nine major international banks including Standard Chartered, UBS, BBVA, BNP Paribas and CIBC. It provides a bank-grade settlement network and multi-registry dashboard that lets buyers and sellers trade, hold and retire carbon credits (including CDR removal credits) across 12+ registries such as Verra, Gold Standard, Puro.earth, Isometric and ICR.
 
+![Carbonplace website](/screenshots/carbonplace.png)
+
 
 ## History
 

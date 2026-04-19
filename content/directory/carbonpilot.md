@@ -23,6 +23,8 @@ liveliness: "🟡 Moderate"
 
 CarbonPilot (now Valorize Systems) is a software platform that helps biochar and biocarbon producers with MRV, life cycle assessments, certification, and carbon credit sales. The company does not physically remove CO2 itself but provides the transaction and compliance infrastructure for removal projects, and is a Puro.earth partner. It is led by co-founder/CEO Tristan Springer.
 
+![CarbonPilot website](/screenshots/carbonpilot.png)
+
 
 ## History
 

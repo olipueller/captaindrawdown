@@ -23,6 +23,8 @@ liveliness: "🟠 Suspect"
 
 Bio-Restorative Ideas (BRi) is a Puerto Rico-based biochar producer converting bamboo residues and post-hurricane biomass into biochar at the Antigua Central Eureka site in Hormigueros. The project uses ARTi pyrolysis equipment, is managed by carbon developer GECA Environnement, and is registered on Puro.earth, with Zurich Insurance among its known credit buyers. The company has a small team (~4 employees) and its website has not been substantially updated since 2023.
 
+![Bio-Restorative Ideas website](/screenshots/bio-restorative-ideas.png)
+
 
 ## History
 

@@ -24,6 +24,8 @@ liveliness: "🟢 Active"
 
 Dimarjan LLC is a US-headquartered (Reston, Virginia) carbon removal supplier operating regenerative agroforestry projects in Angola and Sub-Saharan Africa. They plant diverse tree species alongside food crops to sequester carbon, restore land, and create local jobs, selling verified carbon removal credits to businesses and individuals. They use Carbify's satellite and blockchain technology for MRV.
 
+![Dimarjan LLC website](/screenshots/dimarjan-llc.png)
+
 
 ## History
 

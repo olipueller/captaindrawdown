@@ -22,6 +22,8 @@ liveliness: "🟡 Moderate"
 
 Sanbra Foods Ghana offers services to smallholder farmers including soil testing, precision agriculture, and training. The company is listed as a prospective biochar supplier on Puro.earth, but the facility is in early development with an ongoing feasibility study and the supplier is still collecting data to prove the concept, with zero CORCs issued to date.
 
+![Sanbra Foods website](/screenshots/sanbra-foods.png)
+
 
 ## History
 

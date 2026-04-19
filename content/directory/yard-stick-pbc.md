@@ -25,6 +25,8 @@ liveliness: "🟡 Moderate"
 
 Yard Stick PBC is a Cambridge, Massachusetts-based soil carbon MRV company founded in 2021 that builds a handheld VisNIR spectroscopy probe for in-situ measurement of soil organic carbon stocks. Its technology is used by soil carbon project developers and credit buyers to quantify sequestration at lower cost than traditional lab analysis. The company raised a $10.6M Series A in 2023 led by Toyota Ventures, with backing from Microsoft Climate Innovation Fund, Lowercarbon, Breakthrough Energy Ventures, and others.
 
+![Yard Stick PBC website](/screenshots/yard-stick-pbc.png)
+
 
 ## History
 

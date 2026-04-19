@@ -24,6 +24,8 @@ liveliness: "🟢 Active"
 
 Inspiratus Technologies SA is a biochar-focused carbon removal company, part of Belgium's Durabilis Group, developing pyrolysis-based solutions for carbon credits, soil amendment, renewable energy, and water treatment applications. The firm operates on-site field research for biochar production across Europe and the Americas and is a member of the CDR30 coalition.
 
+![Inspiratus Technologies SA website](/screenshots/inspiratus-technologies-sa.png)
+
 
 ## History
 

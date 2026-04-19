@@ -25,6 +25,8 @@ liveliness: "🟢 Active"
 
 Climate Cleanup Foundation is an Amsterdam-based non-profit (founded 2018) that develops accounting methodologies and certification protocols for nature-based carbon removal, most notably the ONCRA (Open Natural Carbon Removal Accounting) framework covering construction-stored carbon, ocean-stored carbon, and land-based removals. Removal certificates issued under ONCRA are sold via onsets.org, and the foundation partners with actors like ASN Bank, Built by Nature, and Ballast Nedam Development. It is a CDR ecosystem player (methodology/MRV/registry-style) rather than a physical remover.
 
+![Climate Cleanup Foundation website](/screenshots/climate-cleanup-foundation.png)
+
 
 ## History
 

@@ -25,6 +25,8 @@ liveliness: "🟢 Active"
 
 Energie 360° AG is a Zurich-based energy utility (96% owned by the City of Zurich) supplying renewable gas, heat, electricity and mobility solutions across Switzerland. Together with Schweizer Zucker AG, it co-founded and co-owns Bioenergie Frauenfeld AG, a wood-pyrolysis CHP plant in Frauenfeld that produces biochar and delivers carbon removal credits (17,500 t CDR agreement via Carbonfuture announced in 2022). The Frauenfeld facility is described as carbon-negative, removing roughly 9,000 t CO2/year.
 
+![Energie 360° website](/screenshots/energie-360.png)
+
 
 ## History
 

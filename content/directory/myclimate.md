@@ -25,6 +25,8 @@ liveliness: "🟡 Moderate"
 
 myclimate is a Swiss non-profit climate protection foundation, spun out of ETH Zurich in 2002, that develops, finances and advises on voluntary carbon market projects across ~30 countries. Its portfolio spans emissions reductions (cookstoves, biogas, renewables) and carbon removals including biochar in Colombian coffee cultivation, reforestation and peatland rewetting. It operates as a project developer, advisory organisation and offset retailer with offices in Switzerland, Germany, Austria and beyond.
 
+![myclimate website](/screenshots/myclimate.png)
+
 
 ## History
 

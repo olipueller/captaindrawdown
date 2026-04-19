@@ -24,6 +24,8 @@ liveliness: "🟢 Active"
 
 Vlinder is a nature-based climate company that develops mangrove restoration projects in Asia and Africa, generating blue carbon credits. Headquartered in Austria, the company co-designs projects with local communities and has restored over 1,600 hectares of mangroves, with a larger pipeline in development.
 
+![Vlinder website](/screenshots/vlinder.png)
+
 
 ## History
 

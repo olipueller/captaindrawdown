@@ -25,6 +25,8 @@ liveliness: "🟢 Active"
 
 Sysav (Sydskånes avfallsaktiebolag) is owned by 14 municipalities in southern Skåne, Sweden, and handles waste collection, recycling and treatment. The company plans to install CCUS technology at its waste-to-energy plant in Malmö by 2030, targeting ~400,000 tonnes of CO2 captured annually, with the biogenic share stored permanently underground to produce negative emissions. Sysav aims to take an investment decision for a full-scale facility in 2027.
 
+![Sydskånes avfallsaktiebolag (SYSAV) website](/screenshots/sydskånes-avfallsaktiebolag-sysav.png)
+
 
 ## History
 
