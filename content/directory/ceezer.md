@@ -2,7 +2,7 @@
 title: "Ceezer"
 layout: "single"
 type: "directory"
-description: "Ceezer is a digital platform and marketplace that provides enterprises with access to high-quality carbon removal projects, including biochar, direct air captur"
+description: "CEEZER is a Berlin-based B2B enterprise platform and marketplace that connects corporate buyers with carbon credit project developers across removal and avoidan"
 url: "/directory/ceezer/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
@@ -12,14 +12,14 @@ liveliness: "🟢 Active"
 **Method:** CDR Platform/Marketplace
 **Country:** Germany
 **Website:** [https://www.ceezer.earth/](https://www.ceezer.earth/)
-**Status:** 🟢 Active (score: 90/100)
+**Status:** 🟢 Active (score: 88/100)
 **Open roles on cdrjobs:** 4
-**CDR Focus:** supplier
+**CDR Focus:** ecosystem
 **Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-Ceezer is a digital platform and marketplace that provides enterprises with access to high-quality carbon removal projects, including biochar, direct air capture, and enhanced rock weathering, enabling them to screen, purchase, and manage negative emissions.
+CEEZER is a Berlin-based B2B enterprise platform and marketplace that connects corporate buyers with carbon credit project developers across removal and avoidance pathways. It provides risk assessment, MRV data integration, and portfolio-management tools rather than physically removing CO2 itself. It belongs in the CDR ecosystem as a marketplace/enabler, not as a supplier.
 
 ![Ceezer website](/screenshots/v1-thumbnails/ceezer.jpg)
 
@@ -29,6 +29,7 @@ Ceezer is a digital platform and marketplace that provides enterprises with acce
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.ceezer.earth/))
 - **2026-04-18** — backfilled from V1
 
 ---

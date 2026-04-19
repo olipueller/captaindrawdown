@@ -2,7 +2,7 @@
 title: "NetZero"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"6-1\\">NetZero is a French startup founded in 2021 and headquartered in Paris, specializing in large-scale biochar production from unused tropical cr"
+description: "NetZero is a French startup founded in 2021 and headquartered in Paris, specializing in large-scale biochar production from unused tropical crop residues for pe"
 url: "/directory/netzero/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -19,7 +19,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="6-1">NetZero is a French startup founded in 2021 and headquartered in Paris, specializing in large-scale biochar production from unused tropical crop residues for permanent atmospheric carbon removal and soil enhancement.</cite> <cite index="8-17,8-18">It operates three first-generation plants — one in Cameroon processing cocoa husks and two in Brazil dedicated to coffee parchment, together processing 22,000 tonnes of organic waste into biochar per year (≈6,000 tCO2 sequestered annually).</cite> <cite index="6-8">NetZero was first runner-up in the 2025 XPRIZE Carbon Removal competition, earning a $15 million prize.</cite>
+NetZero is a French startup founded in 2021 and headquartered in Paris, specializing in large-scale biochar production from unused tropical crop residues for permanent atmospheric carbon removal and soil enhancement. It operates three first-generation plants — one in Cameroon processing cocoa husks and two in Brazil dedicated to coffee parchment, together processing 22,000 tonnes of organic waste into biochar per year (≈6,000 tCO2 sequestered annually). NetZero was first runner-up in the 2025 XPRIZE Carbon Removal competition, earning a $15 million prize.
 
 ![NetZero website](/screenshots/v1-thumbnails/netzero.jpg)
 

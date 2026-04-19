@@ -2,7 +2,7 @@
 title: "Biosorra"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"1-22\\">Biosorra is a female-led Kenyan biochar producer aiming to remove at least one megaton of CO2 per year by 2030 via deployment of 150+ reactor"
+description: "Biosorra is a female-led Kenyan biochar producer aiming to remove at least one megaton of CO2 per year by 2030 via deployment of 150+ reactors. It runs what it"
 url: "/directory/biosorra/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -20,7 +20,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="1-22">Biosorra is a female-led Kenyan biochar producer aiming to remove at least one megaton of CO2 per year by 2030 via deployment of 150+ reactors.</cite> It runs what it describes as the largest industrial biochar facility in East Africa at Thika/Murang'a and supplies Kenya Nut Company and smallholder farmers. <cite index="3-1">In October 2025 the company secured $3.5 million in seed funding to scale its biochar operations in Kenya.</cite>
+Biosorra is a female-led Kenyan biochar producer aiming to remove at least one megaton of CO2 per year by 2030 via deployment of 150+ reactors. It runs what it describes as the largest industrial biochar facility in East Africa at Thika/Murang'a and supplies Kenya Nut Company and smallholder farmers. In October 2025 the company secured $3.5 million in seed funding to scale its biochar operations in Kenya.
 
 ![Biosorra website](/screenshots/v1-thumbnails/biosorra.jpg)
 

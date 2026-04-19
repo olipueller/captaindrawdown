@@ -2,7 +2,7 @@
 title: "Aries Clean Technologies"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"2-11,2-12\\">Aries Clean Technologies, based in Franklin, Tennessee, develops, designs, and builds proprietary fluidized bed and downdraft gasificati"
+description: "Aries Clean Technologies, based in Franklin, Tennessee, develops, designs, and builds proprietary fluidized bed and downdraft gasification systems that convert"
 url: "/directory/aries-clean-technologies/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -20,7 +20,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="2-11,2-12">Aries Clean Technologies, based in Franklin, Tennessee, develops, designs, and builds proprietary fluidized bed and downdraft gasification systems that convert biosolids and biomass into clean thermal and electrical energy plus Aries GREEN biochar or Bio-Fly-Ash.</cite> <cite index="9-4,9-5">The biochar product is used as an ingredient in green concrete manufacturing and offers permanent carbon sequestration.</cite> <cite index="8-8,8-9">Their first large plant in Linden, NJ operated intermittently for a year before being idled in late 2025 for drier technology upgrades, while the company advances a new $180M Sanford, Maine facility.</cite>
+Aries Clean Technologies, based in Franklin, Tennessee, develops, designs, and builds proprietary fluidized bed and downdraft gasification systems that convert biosolids and biomass into clean thermal and electrical energy plus Aries GREEN biochar or Bio-Fly-Ash. The biochar product is used as an ingredient in green concrete manufacturing and offers permanent carbon sequestration. Their first large plant in Linden, NJ operated intermittently for a year before being idled in late 2025 for drier technology upgrades, while the company advances a new $180M Sanford, Maine facility.
 
 ![Aries Clean Technologies website](/screenshots/v1-thumbnails/aries-clean-technologies.jpg)
 

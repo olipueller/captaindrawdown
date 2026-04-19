@@ -2,7 +2,7 @@
 title: "SeaO2"
 layout: "single"
 type: "directory"
-description: "SeaO2 is a Netherlands-based TU Delft spin-off (founded 2021) developing electrochemical Direct Ocean Capture (DOCC) technology that extracts CO2 directly from "
+description: "SeaO2 is a Netherlands-based TU Delft spin-off (founded 2021) developing electrochemical Direct Ocean Capture (DOCC) technology that extracts CO2 directly from"
 url: "/directory/seao2/"
 pathway: "Ocean CDR"
 liveliness: "🟢 Active"

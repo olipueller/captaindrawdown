@@ -2,17 +2,18 @@
 title: "Clairity Technology"
 layout: "single"
 type: "directory"
-description: "Clairity Technology is a climate tech startup that develops low-cost, scalable Direct Air Capture (DAC) technology using a solid sorbent approach with alkali ca"
+description: "Clairity Technology is a Los Angeles-based DAC startup founded in 2022 by Glen Meyerowitz, developing a low-cost solid-sorbent direct air capture system that pr"
 url: "/directory/clairity-technology/"
 pathway: "DAC"
 liveliness: "🟢 Active"
 ---
 
 **Pathway:** DAC
+**Secondary pathways:** Mineralization
 **Method:** DAC (Solid Sorbent)
 **Country:** United States
 **Website:** [https://www.clairitytech.com/](https://www.clairitytech.com/)
-**Status:** 🟢 Active (score: 80/100)
+**Status:** 🟢 Active (score: 85/100)
 **Employees:** ~4 (-60% YoY)
 **LinkedIn Followers:** 1,005
 **CDR Focus:** supplier
@@ -20,13 +21,14 @@ liveliness: "🟢 Active"
 
 ## About
 
-Clairity Technology is a climate tech startup that develops low-cost, scalable Direct Air Capture (DAC) technology using a solid sorbent approach with alkali carbonate sorbent coated on a ceramic honeycomb substrate to capture CO2, which is then mineralized on-site.
+Clairity Technology is a Los Angeles-based DAC startup founded in 2022 by Glen Meyerowitz, developing a low-cost solid-sorbent direct air capture system that produces a "good enough" ~80% pure CO2 stream rather than chasing high purity. Its Project Juniper in Nevada is undergoing validation by Isometric and expected to be among the first US-issued DAC credits. Backed by a $6.75M seed round from Lowercarbon Capital and Initialized Capital.
 
 ![Clairity Technology website](/screenshots/v1-thumbnails/clairity-technology.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.businesswire.com/news/home/20250520800629/en/Cool-Effect-Adds-First-Direct-Air-Capture-Project-to-Portfolio-Following-Rigorous-Review))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/clairity-tech/)

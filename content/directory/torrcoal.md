@@ -2,7 +2,7 @@
 title: "TorrCoal"
 layout: "single"
 type: "directory"
-description: "TorrCoal is a Belgian torrefaction technology specialist (founded 2005, based in Dilsen-Stokkem) that was acquired by Dutch climate-tech firm Perpetual Next in "
+description: "TorrCoal is a Belgian torrefaction technology specialist (founded 2005, based in Dilsen-Stokkem) that was acquired by Dutch climate-tech firm Perpetual Next in"
 url: "/directory/torrcoal/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"

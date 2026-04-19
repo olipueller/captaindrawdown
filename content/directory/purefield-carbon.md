@@ -2,7 +2,7 @@
 title: "PureField Carbon"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"1-3,1-7\\">PureField Ingredients (operating carbon-capture through its Purefield Carbon Capture LLC subsidiary) received EPA approval in April 2026 t"
+description: "PureField Ingredients (operating carbon-capture through its Purefield Carbon Capture LLC subsidiary) received EPA approval in April 2026 to begin permanent geol"
 url: "/directory/purefield-carbon/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="1-3,1-7">PureField Ingredients (operating carbon-capture through its Purefield Carbon Capture LLC subsidiary) received EPA approval in April 2026 to begin permanent geologic sequestration of CO2 from its Russell, Kansas ethanol and wheat-protein operations, and will launch CCS operations following commissioning.</cite> <cite index="10-1">The permit allows injection of up to 1.8 million metric tons of CO2 into deep rock formations in Russell County over a 12-year period.</cite> The company is an integrated wheat-to-ethanol producer, making the fermentation-CO2 sequestration a BECCS CDR pathway.
+PureField Ingredients (operating carbon-capture through its Purefield Carbon Capture LLC subsidiary) received EPA approval in April 2026 to begin permanent geologic sequestration of CO2 from its Russell, Kansas ethanol and wheat-protein operations, and will launch CCS operations following commissioning. The permit allows injection of up to 1.8 million metric tons of CO2 into deep rock formations in Russell County over a 12-year period. The company is an integrated wheat-to-ethanol producer, making the fermentation-CO2 sequestration a BECCS CDR pathway.
 
 
 ## History

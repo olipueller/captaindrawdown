@@ -2,7 +2,7 @@
 title: "CHAR Technologies"
 layout: "single"
 type: "directory"
-description: "CHAR Technologies Ltd. (TSXV:YES) is a Toronto-based cleantech company operating high-temperature pyrolysis facilities that transform woody biomass and organic "
+description: "CHAR Technologies Ltd. (TSXV:YES) is a Toronto-based cleantech company operating high-temperature pyrolysis facilities that transform woody biomass and organic"
 url: "/directory/char-technologies/"
 pathway: "Biochar"
 liveliness: "🟢 Active"

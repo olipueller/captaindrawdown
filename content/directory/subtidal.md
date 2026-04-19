@@ -2,30 +2,32 @@
 title: "Subtidal"
 layout: "single"
 type: "directory"
-description: "Subtidal is a marine CDR company developing a scalable solution for directly measuring ocean carbon dioxide removals."
+description: "Subtidal is a climate tech startup developing MRV (measurement, reporting, verification) hardware and software for the ocean CDR industry. Their product directl"
 url: "/directory/subtidal/"
-pathway: "Ocean CDR"
-liveliness: "🟡 Moderate"
+pathway: "Enabling Tech"
+liveliness: "🟢 Active"
 ---
 
-**Pathway:** Ocean CDR
+**Pathway:** Enabling Tech
+**Secondary pathways:** Ocean CDR
 **Method:** Marine CDR (Other)
 **Country:** United Kingdom
 **Website:** [https://subtidal.com/](https://subtidal.com/)
-**Status:** 🟡 Moderate (score: 50/100)
+**Status:** 🟢 Active (score: 75/100)
 **CDI Portfolio Company**
-**CDR Focus:** supplier
+**CDR Focus:** ecosystem
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Subtidal is a marine CDR company developing a scalable solution for directly measuring ocean carbon dioxide removals.
+Subtidal is a climate tech startup developing MRV (measurement, reporting, verification) hardware and software for the ocean CDR industry. Their product directly measures ocean CO2 fluxes to quantify net drawdown and generate verifiable carbon credits for ocean CDR operators, rather than removing CO2 themselves.
 
 ![Subtidal website](/screenshots/v1-thumbnails/subtidal.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.linkedin.com/company/subtidal))
 - **2026-04-18** — backfilled from V1 ([source](https://www.carbon-drawdown.de/))
 
 ---

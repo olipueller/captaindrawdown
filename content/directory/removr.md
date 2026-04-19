@@ -2,7 +2,7 @@
 title: "Removr"
 layout: "single"
 type: "directory"
-description: "Removr is a Norwegian Direct Air Capture (DAC) company that develops large-scale solid sorbent DAC plants, specifically utilizing zeolite adsorbents, to remove "
+description: "Removr is a Norwegian DAC company, jointly founded by Vanir Green Industries and GreenCap Solutions, that develops large-scale solid sorbent direct air capture"
 url: "/directory/removr/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -12,19 +12,20 @@ liveliness: "🟢 Active"
 **Method:** DAC (Solid Sorbent)
 **Country:** Norway
 **Website:** [https://www.removr.com/](https://www.removr.com/)
-**Status:** 🟢 Active (score: 85/100)
+**Status:** 🟢 Active (score: 80/100)
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Removr is a Norwegian Direct Air Capture (DAC) company that develops large-scale solid sorbent DAC plants, specifically utilizing zeolite adsorbents, to remove CO2 from the atmosphere.
+Removr is a Norwegian DAC company, jointly founded by Vanir Green Industries and GreenCap Solutions, that develops large-scale solid sorbent direct air capture plants using zeolite molecular sieves. The company is scaling through a stepwise pilot program (TCM Mongstad, the SINTEF-led Genesis pilot, and pilots in the Netherlands/Spain) toward a planned ~50,000 t/yr facility in North America and a long-term 1-million-ton plant. Removr is also a partner in the Ankeron Carbon Management Hub consortium in Washington State.
 
 ![Removr website](/screenshots/v1-thumbnails/removr.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.removr.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 ---

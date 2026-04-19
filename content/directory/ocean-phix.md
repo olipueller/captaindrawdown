@@ -2,7 +2,7 @@
 title: "Ocean pHix"
 layout: "single"
 type: "directory"
-description: "No information about Ocean pHix was found in the provided search results."
+description: "Ocean pHix is a UK-based company listed on the Isometric supplier registry under the Ocean Alkalinity Enhancement (OAE) pathway. Public information on the compa"
 url: "/directory/ocean-phix/"
 pathway: "Ocean CDR"
 liveliness: "🟠 Suspect"
@@ -12,19 +12,20 @@ liveliness: "🟠 Suspect"
 **Method:** Ocean Alkalinity Enhancement
 **Country:** United Kingdom
 **Website:** [https://registry.isometric.com/suppliers](https://registry.isometric.com/suppliers)
-**Status:** 🟠 Suspect (score: 20/100)
+**Status:** 🟠 Suspect (score: 30/100)
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-No information about Ocean pHix was found in the provided search results.
+Ocean pHix is a UK-based company listed on the Isometric supplier registry under the Ocean Alkalinity Enhancement (OAE) pathway. Public information on the company is very limited; it appears to be an early-stage marine CDR supplier working on increasing ocean alkalinity to durably sequester atmospheric CO2. No recent press, hiring activity, or delivery announcements were surfaced in research.
 
 ![Ocean pHix website](/screenshots/v1-thumbnails/ocean-phix.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟠 Suspect ([source](https://registry.isometric.com/suppliers))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 ---

@@ -2,7 +2,7 @@
 title: "Restoration Bioproducts"
 layout: "single"
 type: "directory"
-description: "Restoration Bioproducts is a Virginia-based biochar producer developing pyrolysis-based projects that refine low-value biomass and forestry waste into biochar, "
+description: "Restoration Bioproducts is a Virginia-based biochar producer developing pyrolysis-based projects that refine low-value biomass and forestry waste into biochar,"
 url: "/directory/restoration-bioproducts/"
 pathway: "Biochar"
 liveliness: "🟢 Active"

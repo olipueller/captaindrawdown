@@ -2,7 +2,7 @@
 title: "Nina Energy"
 layout: "single"
 type: "directory"
-description: "Nina Energy is an Ecuadorian company that transforms agro-industrial residues into biochar, renewable energy, and biofuels, promoting a sustainable bioeconomy a"
+description: "Nina Energy Limited is an Ecuadorian start-up founded in 2021 that specializes in developing and deploying thermochemical conversion systems for residual biomas"
 url: "/directory/nina-energy/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -18,13 +18,14 @@ liveliness: "🟢 Active"
 
 ## About
 
-Nina Energy is an Ecuadorian company that transforms agro-industrial residues into biochar, renewable energy, and biofuels, promoting a sustainable bioeconomy across Latin America. They specialize in manufacturing modular, automated reactors for biochar production.
+Nina Energy Limited is an Ecuadorian start-up founded in 2021 that specializes in developing and deploying thermochemical conversion systems for residual biomass, aimed at rural Latin American agro-industries. In November 2025, a pyrolysis plant was launched near Cotopaxi, Ecuador together with atmosfair, converting wood waste from ecological forestry into biochar. The company both operates biochar plants and designs/sells its proprietary pyrolysis reactor technology.
 
 ![Nina Energy website](/screenshots/v1-thumbnails/nina-energy.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://nina.energy/en/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 ---

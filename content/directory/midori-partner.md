@@ -2,7 +2,7 @@
 title: "Midori Partner"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"8-13,8-14,8-15\\">Midori Climate Partner Pte. Ltd. is a Singapore-based carbon credit developer specializing in ecosystem restoration, structuring bi"
+description: "Midori Climate Partner Pte. Ltd. is a Singapore-based carbon credit developer specializing in ecosystem restoration, structuring biochar and agroforestry projec"
 url: "/directory/midori-partner/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -20,7 +20,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="8-13,8-14,8-15">Midori Climate Partner Pte. Ltd. is a Singapore-based carbon credit developer specializing in ecosystem restoration, structuring biochar and agroforestry projects across Southeast Asia including Cambodia, Thailand, Vietnam, and Malaysia.</cite> <cite index="4-3,4-4">In early 2025 the company closed a pre-seed round led by Tokio Marine Holdings to expand biochar carbon removal projects across Asia, with its first project launching in Cambodia.</cite> Note: DB listed as Germany-based, but company is actually headquartered in Singapore.
+Midori Climate Partner Pte. Ltd. is a Singapore-based carbon credit developer specializing in ecosystem restoration, structuring biochar and agroforestry projects across Southeast Asia including Cambodia, Thailand, Vietnam, and Malaysia. In early 2025 the company closed a pre-seed round led by Tokio Marine Holdings to expand biochar carbon removal projects across Asia, with its first project launching in Cambodia. Note: DB listed as Germany-based, but company is actually headquartered in Singapore.
 
 ![Midori Partner website](/screenshots/v1-thumbnails/midori-partner.jpg)
 

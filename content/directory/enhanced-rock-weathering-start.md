@@ -2,7 +2,7 @@
 title: "Enhanced rock weathering start"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"8-2\\">Eion was a U.S.-based enhanced rock weathering (ERW) company known for pioneering olivine-based deployments and an early track record of techn"
+description: "Eion was a U.S.-based enhanced rock weathering (ERW) company known for pioneering olivine-based deployments and an early track record of technical innovation, i"
 url: "/directory/enhanced-rock-weathering-start/"
 pathway: "Enhanced Weathering"
 liveliness: "🟢 Active"
@@ -18,7 +18,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="8-2">Eion was a U.S.-based enhanced rock weathering (ERW) company known for pioneering olivine-based deployments and an early track record of technical innovation, including some of the first issued ERW credits.</cite> <cite index="9-3,9-5">In February 2026, ERW firm Terradot acquired Eion, including its commitment to deliver 8,000 tons of carbon removal credits to Microsoft under a deal signed in 2024.</cite> Eion's assets, IP, team, and contracts are now integrated into Terradot.
+Eion was a U.S.-based enhanced rock weathering (ERW) company known for pioneering olivine-based deployments and an early track record of technical innovation, including some of the first issued ERW credits. In February 2026, ERW firm Terradot acquired Eion, including its commitment to deliver 8,000 tons of carbon removal credits to Microsoft under a deal signed in 2024. Eion's assets, IP, team, and contracts are now integrated into Terradot.
 
 
 ## History

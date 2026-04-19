@@ -2,7 +2,7 @@
 title: "Macrocarbon"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"2-3,2-4\\">MacroCarbon SL is a Spain-based (Gran Canaria) spin-off of Germany's Alfred Wegener Institute and Carbonwave (US), focused on domesticatin"
+description: "MacroCarbon SL is a Spain-based (Gran Canaria) spin-off of Germany's Alfred Wegener Institute and Carbonwave (US), focused on domesticating and cultivating Sarg"
 url: "/directory/macrocarbon/"
 pathway: "Ocean CDR"
 liveliness: "🟢 Active"
@@ -19,7 +19,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="2-3,2-4">MacroCarbon SL is a Spain-based (Gran Canaria) spin-off of Germany's Alfred Wegener Institute and Carbonwave (US), focused on domesticating and cultivating Sargassum seaweed for carbon dioxide removal and industrial feedstock.</cite> <cite index="4-5,4-6">The company produces sustainable aviation fuel and other biofuels from floating seaweeds like pelagic Sargassum, while storing part of the captured carbon in biochar and carbon black for long-term sequestration.</cite> <cite index="7-9,7-10">In October 2025 MacroCarbon received permits from the Canary Islands government for a 40,000 m² seaweed farm near the Plataforma Oceánica de Canarias, bridging pilot and commercial deployment, with a first commercial facility requiring €80 million targeted in the next few years.</cite>
+MacroCarbon SL is a Spain-based (Gran Canaria) spin-off of Germany's Alfred Wegener Institute and Carbonwave (US), focused on domesticating and cultivating Sargassum seaweed for carbon dioxide removal and industrial feedstock. The company produces sustainable aviation fuel and other biofuels from floating seaweeds like pelagic Sargassum, while storing part of the captured carbon in biochar and carbon black for long-term sequestration. In October 2025 MacroCarbon received permits from the Canary Islands government for a 40,000 m² seaweed farm near the Plataforma Oceánica de Canarias, bridging pilot and commercial deployment, with a first commercial facility requiring €80 million targeted in the next few years.
 
 ![Macrocarbon website](/screenshots/v1-thumbnails/macrocarbon.jpg)
 

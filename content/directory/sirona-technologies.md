@@ -2,7 +2,7 @@
 title: "Sirona Technologies"
 layout: "single"
 type: "directory"
-description: "Sirona Technologies is a Belgium-based company that develops modular Direct Air Capture (DAC) systems using solid sorbents to remove CO2 from the atmosphere. Th"
+description: "Sirona Technologies SRL is a Direct Air Capture (DAC) company founded in Belgium in May 2023, with a mission to rapidly scale atmospheric CO₂ removal with perma"
 url: "/directory/sirona-technologies/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -12,13 +12,13 @@ liveliness: "🟢 Active"
 **Method:** DAC (Solid Sorbent)
 **Country:** Belgium
 **Website:** [https://www.sirona.tech/](https://www.sirona.tech/)
-**Status:** 🟢 Active (score: 100/100)
+**Status:** 🟢 Active (score: 90/100)
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, registry_cdrjobsearth
 
 ## About
 
-Sirona Technologies is a Belgium-based company that develops modular Direct Air Capture (DAC) systems using solid sorbents to remove CO2 from the atmosphere. They are actively working on projects in Kenya and the Middle East.
+Sirona Technologies SRL is a Direct Air Capture (DAC) company founded in Belgium in May 2023, with a mission to rapidly scale atmospheric CO₂ removal with permanent geological storage. The company develops and operates modular DAC systems built in Belgium and deployed globally, and following the commissioning of its first commercial units, will begin delivering carbon removal credits in 2026. It raised a €6 million seed round co-led by LocalGlobe and XAnge to scale its technology and deploy its first pilot plant in Kenya.
 
 ![Sirona Technologies website](/screenshots/v1-thumbnails/sirona-technologies.jpg)
 
@@ -28,6 +28,7 @@ Sirona Technologies is a Belgium-based company that develops modular Direct Air 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.sirona.tech/updates/sirona-technologies-completes-multi-year-carbon-removal-offtake-facilitated-by-patch))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 ---

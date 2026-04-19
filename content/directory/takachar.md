@@ -2,7 +2,7 @@
 title: "Takachar"
 layout: "single"
 type: "directory"
-description: "Takachar develops small-scale, low-cost, portable systems that convert agricultural and forest waste biomass into higher-value bio-products like biochar, which "
+description: "Takachar is an MIT-spinoff social enterprise that builds portable, tractor-mounted pyrolysis/torrefaction reactors to convert agricultural and forestry residues"
 url: "/directory/takachar/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -12,14 +12,14 @@ liveliness: "🟢 Active"
 **Method:** Biochar
 **Country:** United States
 **Website:** [https://takachar.com/](https://takachar.com/)
-**Status:** 🟢 Active (score: 100/100)
+**Status:** 🟢 Active (score: 88/100)
 **Open roles on cdrjobs:** 1
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-Takachar develops small-scale, low-cost, portable systems that convert agricultural and forest waste biomass into higher-value bio-products like biochar, which locks away CO2 when applied to soil.
+Takachar is an MIT-spinoff social enterprise that builds portable, tractor-mounted pyrolysis/torrefaction reactors to convert agricultural and forestry residues into biochar at the farm gate. The company launched commercial sales of its Takavator unit in October 2025 and operates in the US, Canada, India, Kenya and other markets. It is a previous Earthshot Prize and XPRIZE Carbon Removal winner.
 
 ![Takachar website](/screenshots/v1-thumbnails/takachar.jpg)
 
@@ -29,6 +29,7 @@ Takachar develops small-scale, low-cost, portable systems that convert agricultu
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://takachar.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 ---

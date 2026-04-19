@@ -2,7 +2,7 @@
 title: "Sinkco Labs"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"4-1,4-8,4-9\\">Sinkco Labs is developing a scalable solution for permanently storing organic carbon in marine sediments, using a delivery system for "
+description: "Sinkco Labs is developing a scalable solution for permanently storing organic carbon in marine sediments, using a delivery system for micro-injecting organic ca"
 url: "/directory/sinkco-labs/"
 pathway: "Biomass Burial"
 liveliness: "🟢 Active"
@@ -20,7 +20,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="4-1,4-8,4-9">Sinkco Labs is developing a scalable solution for permanently storing organic carbon in marine sediments, using a delivery system for micro-injecting organic carbon into marine sediments where anoxic compaction preserves the carbon.</cite> <cite index="2-4,2-6">The company was selected for the Breakthrough Energy Fellows Program, with co-founders Viji Thomas, Victor Choquet, and Brenna Boehman receiving non-dilutive funding to launch a pilot in the Gulf of Mexico.</cite> <cite index="8-4">Sinkco has secured state and federal permits from the Louisiana Department of Natural Resources and the U.S. Army Corps of Engineers to embed waste biomass beneath degraded marsh sediments across 11 acres.</cite>
+Sinkco Labs is developing a scalable solution for permanently storing organic carbon in marine sediments, using a delivery system for micro-injecting organic carbon into marine sediments where anoxic compaction preserves the carbon. The company was selected for the Breakthrough Energy Fellows Program, with co-founders Viji Thomas, Victor Choquet, and Brenna Boehman receiving non-dilutive funding to launch a pilot in the Gulf of Mexico. Sinkco has secured state and federal permits from the Louisiana Department of Natural Resources and the U.S. Army Corps of Engineers to embed waste biomass beneath degraded marsh sediments across 11 acres.
 
 ![Sinkco Labs website](/screenshots/v1-thumbnails/sinkco-labs.jpg)
 

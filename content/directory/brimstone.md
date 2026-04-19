@@ -2,7 +2,7 @@
 title: "Brimstone"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"5-2,5-3\\">Brimstone is a U.S. industrial innovator whose patented Rock Refinery produces portland cement, smelter-grade alumina, and supplementary c"
+description: "Brimstone is a U.S. industrial innovator whose patented Rock Refinery produces portland cement, smelter-grade alumina, and supplementary cementitious materials,"
 url: "/directory/brimstone/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="5-2,5-3">Brimstone is a U.S. industrial innovator whose patented Rock Refinery produces portland cement, smelter-grade alumina, and supplementary cementitious materials, with a roadmap to co-produce steel, aluminum, magnesium, titanium, and other critical minerals from abundant silicate rocks.</cite> <cite index="9-4,9-5">Chemically extracting calcium oxide from silicate avoids CO2 release, and the process yields a magnesium byproduct that absorbs CO2 from the atmosphere.</cite> <cite index="5-15,5-18">Amazon signed a commercial agreement in August 2025 to reserve annual volumes from Brimstone's forthcoming plant, which is being engineered near Reno, Nevada.</cite>
+Brimstone is a U.S. industrial innovator whose patented Rock Refinery produces portland cement, smelter-grade alumina, and supplementary cementitious materials, with a roadmap to co-produce steel, aluminum, magnesium, titanium, and other critical minerals from abundant silicate rocks. Chemically extracting calcium oxide from silicate avoids CO2 release, and the process yields a magnesium byproduct that absorbs CO2 from the atmosphere. Amazon signed a commercial agreement in August 2025 to reserve annual volumes from Brimstone's forthcoming plant, which is being engineered near Reno, Nevada.
 
 ![Brimstone website](/screenshots/v1-thumbnails/brimstone.jpg)
 

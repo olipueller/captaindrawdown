@@ -2,7 +2,7 @@
 title: "Carbon Neutral Initiative"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"7-15,7-16\\">Carbon Neutral Initiative develops green roofs that remove CO2 through the addition of olivine, expecting net removal of 1,804 tonnes of"
+description: "Carbon Neutral Initiative develops green roofs that remove CO2 through the addition of olivine, expecting net removal of 1,804 tonnes of CO2 over 25 years from"
 url: "/directory/carbon-neutral-initiative/"
 pathway: "Enhanced Weathering"
 liveliness: "🟢 Active"
@@ -20,7 +20,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="7-15,7-16">Carbon Neutral Initiative develops green roofs that remove CO2 through the addition of olivine, expecting net removal of 1,804 tonnes of CO2 over 25 years from its flagship project.</cite> <cite index="3-2,3-9">The Netherlands-based company runs the Carbon Green Roof project as part of its bio-enhanced silicate weathering programme and collaborates with TNO, Utrecht University, Hasselt University, and Spanish universities.</cite> <cite index="7-2">It is also initiating similar Enhanced Weathering projects in Suriname and Spain using other suitable rock types beyond olivine.</cite>
+Carbon Neutral Initiative develops green roofs that remove CO2 through the addition of olivine, expecting net removal of 1,804 tonnes of CO2 over 25 years from its flagship project. The Netherlands-based company runs the Carbon Green Roof project as part of its bio-enhanced silicate weathering programme and collaborates with TNO, Utrecht University, Hasselt University, and Spanish universities. It is also initiating similar Enhanced Weathering projects in Suriname and Spain using other suitable rock types beyond olivine.
 
 ![Carbon Neutral Initiative website](/screenshots/v1-thumbnails/carbon-neutral-initiative.jpg)
 

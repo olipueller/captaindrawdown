@@ -2,7 +2,7 @@
 title: "Verora"
 layout: "single"
 type: "directory"
-description: "Verora produces high-quality biochar from agricultural and landscaping residues, which is marketed under the brand name Verora Pflanzenkohle and certified accor"
+description: "Verora is a Swiss cooperative of farmers in Zug that processes green waste and tree/shrub cuttings into climate-friendly products including humus compost, bioch"
 url: "/directory/verora/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -12,19 +12,20 @@ liveliness: "🟢 Active"
 **Method:** Biochar
 **Country:** Switzerland
 **Website:** [https://www.verora.ch/](https://www.verora.ch/)
-**Status:** 🟢 Active (score: 70/100)
+**Status:** 🟢 Active (score: 80/100)
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Verora produces high-quality biochar from agricultural and landscaping residues, which is marketed under the brand name Verora Pflanzenkohle and certified according to the European Biochar Certificate.
+Verora is a Swiss cooperative of farmers in Zug that processes green waste and tree/shrub cuttings into climate-friendly products including humus compost, biochar (Pflanzenkohle), Terra Preta and quality wood chips. The biochar is produced in Neuheim using a PYREG pyrolysis unit, supplemented by partner producers using BIOMACON or CT-Schuster pyrolysis equipment. The CO2 sink services are transferred with the product and already included in the price unless the buyer requests otherwise.
 
 ![Verora website](/screenshots/v1-thumbnails/verora.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.verora.ch/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 ---

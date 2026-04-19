@@ -2,17 +2,18 @@
 title: "BioCarb Solution"
 layout: "single"
 type: "directory"
-description: "BioCarb Solution provides carbon dioxide removal (CDR) credits from the storage of biogenic CO2, helping companies achieve their sustainability goals."
+description: "BioCarb Solution is a Danish biogenic CO2 aggregator based in Hirtshals that collects CO2 from biogas plants, waste incinerators and biomass-fired district heat"
 url: "/directory/biocarb-solution/"
 pathway: "BECCS"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 **Pathway:** BECCS
+**Secondary pathways:** Biochar
 **Method:** BECCS
 **Country:** Denmark
 **Website:** [https://biocarb.dk/](https://biocarb.dk/)
-**Status:** 🟡 Moderate (score: 65/100)
+**Status:** 🟢 Active (score: 72/100)
 **Employees:** ~5 (-17% YoY)
 **LinkedIn Followers:** 467
 **CDR Focus:** supplier
@@ -20,13 +21,14 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-BioCarb Solution provides carbon dioxide removal (CDR) credits from the storage of biogenic CO2, helping companies achieve their sustainability goals.
+BioCarb Solution is a Danish biogenic CO2 aggregator based in Hirtshals that collects CO2 from biogas plants, waste incinerators and biomass-fired district heating, and arranges permanent underground storage in depleted North Sea oil fields via Project Greensand. The company sells Puro.earth-certified CDR credits and is owned by a consortium of Danish biogas investors (Agri Energi, GrønGas, Sindal Biogas, Vrejlev Bioenergi, Bioman) under Danish Bio Commodities.
 
 ![BioCarb Solution website](/screenshots/v1-thumbnails/biocarb-solution.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://biocarb.dk/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/biocarb-solution/)

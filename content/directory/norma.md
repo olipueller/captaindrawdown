@@ -2,7 +2,7 @@
 title: "Norma"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"3-1,3-13\\">Norma is a Paris-based climate tech startup building low-cost, modular machines for direct air capture, co-founded by CTO Silvia Pugliese"
+description: "Norma is a Paris-based climate tech startup building low-cost, modular machines for direct air capture, co-founded by CTO Silvia Pugliese and CEO Mónica Larrazá"
 url: "/directory/norma/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -18,7 +18,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="3-1,3-13">Norma is a Paris-based climate tech startup building low-cost, modular machines for direct air capture, co-founded by CTO Silvia Pugliese and CEO Mónica Larrazábal (ex-McKinsey, MIT MBA).</cite> <cite index="2-3,2-4">The company is developing a breakthrough DAC technology that integrates supercapacitor-based energy storage with carbon capture in a single electrochemical system, storing and reusing the energy required to capture CO₂.</cite> <cite index="3-10,3-11">It secured its first customer for carbon removal through the Milkywire Climate Transformation Fund and is building its first pilot system.</cite>
+Norma is a Paris-based climate tech startup building low-cost, modular machines for direct air capture, co-founded by CTO Silvia Pugliese and CEO Mónica Larrazábal (ex-McKinsey, MIT MBA). The company is developing a breakthrough DAC technology that integrates supercapacitor-based energy storage with carbon capture in a single electrochemical system, storing and reusing the energy required to capture CO₂. It secured its first customer for carbon removal through the Milkywire Climate Transformation Fund and is building its first pilot system.
 
 ![Norma website](/screenshots/v1-thumbnails/norma.jpg)
 

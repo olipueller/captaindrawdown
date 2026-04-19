@@ -2,29 +2,30 @@
 title: "RecyCoal"
 layout: "single"
 type: "directory"
-description: "RecyCoal is a German-financed company that produces biochar from unused crop waste or other biomass. This biochar is used for soil improvement, as an alternativ"
+description: "RecyCoal GmbH is an Aachen, Germany-based biochar startup founded by RWTH Aachen affiliates that produces biochar from unused crop and biomass waste via simple"
 url: "/directory/recycoal/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** Biochar
 **Method:** Biochar
 **Country:** Germany
 **Website:** [https://recycoal.earth/](https://recycoal.earth/)
-**Status:** 🟢 Active (score: 75/100)
+**Status:** 🟡 Moderate (score: 60/100)
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-RecyCoal is a German-financed company that produces biochar from unused crop waste or other biomass. This biochar is used for soil improvement, as an alternative fuel, and for carbon removal.
+RecyCoal GmbH is an Aachen, Germany-based biochar startup founded by RWTH Aachen affiliates that produces biochar from unused crop and biomass waste via simple pyrolysis kilns. The company deploys its systems in East Africa under a "teach the teacher" model, targeting soil improvement, clean cooking, and carbon removal. In April 2025 it received non-equity support from the Africa Carbon Removal Accelerator.
 
 ![RecyCoal website](/screenshots/v1-thumbnails/recycoal.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://recycoal.earth/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 ---

@@ -2,7 +2,7 @@
 title: "Next Wave Carbon Removals"
 layout: "single"
 type: "directory"
-description: "Next Wave Carbon Removal is a US-based (Des Moines, Iowa) biochar producer combining ARTi Biochar's pyrolysis technology with Maxsum Environmental's investment "
+description: "Next Wave Carbon Removal is a US-based (Des Moines, Iowa) biochar producer combining ARTi Biochar's pyrolysis technology with Maxsum Environmental's investment"
 url: "/directory/next-wave-carbon-removals/"
 pathway: "Biochar"
 liveliness: "🟢 Active"

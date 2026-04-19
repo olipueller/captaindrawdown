@@ -2,24 +2,25 @@
 title: "Timber Finance"
 layout: "single"
 type: "directory"
-description: "Timber Finance focuses on biomass carbon removal by promoting the use of timber as a construction material to store CO2 long-term in buildings and by developing"
+description: "Timber Finance (Timber Finance Management AG), founded 2021 in Zurich, is a specialized investment advisor and methodology developer focused on mass timber as a"
 url: "/directory/timber-finance/"
 pathway: "Biomass Burial"
 liveliness: "🟢 Active"
 ---
 
 **Pathway:** Biomass Burial
+**Secondary pathways:** Enabling Tech
 **Method:** Biomass Carbon Removal
 **Country:** Switzerland
 **Website:** [https://timberfinance.ch/](https://timberfinance.ch/)
-**Status:** 🟢 Active (score: 85/100)
+**Status:** 🟢 Active (score: 80/100)
 **Open roles on cdrjobs:** 1
-**CDR Focus:** supplier
+**CDR Focus:** ecosystem
 **Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-Timber Finance focuses on biomass carbon removal by promoting the use of timber as a construction material to store CO2 long-term in buildings and by developing financial instruments for timber investments.
+Timber Finance (Timber Finance Management AG), founded 2021 in Zurich, is a specialized investment advisor and methodology developer focused on mass timber as a carbon storage pathway. They are developing the world's first ICROA-aligned methodology for timber carbon removal certificates and offer financial products channeling capital into the forest-to-frame timber value chain. They do not physically operate removal facilities themselves — they build the financial/MRV infrastructure for timber-based CDR.
 
 ![Timber Finance website](/screenshots/v1-thumbnails/timber-finance.jpg)
 
@@ -29,6 +30,7 @@ Timber Finance focuses on biomass carbon removal by promoting the use of timber 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biomass Burial focus=ecosystem liveliness=🟢 Active ([source](https://timberfinance.ch/en/carbon/randd/))
 - **2026-04-18** — backfilled from V1
 
 ---

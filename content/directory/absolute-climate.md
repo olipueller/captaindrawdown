@@ -2,7 +2,7 @@
 title: "Absolute Climate"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"9-9,9-10\\">Absolute Climate designs independent quality-assurance standards for CDR that certify whether a project's claims match their atmospheric "
+description: "Absolute Climate designs independent quality-assurance standards for CDR that certify whether a project's claims match their atmospheric impacts, with a univers"
 url: "/directory/absolute-climate/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
@@ -18,7 +18,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="9-9,9-10">Absolute Climate designs independent quality-assurance standards for CDR that certify whether a project's claims match their atmospheric impacts, with a universal approach where every removal project is evaluated the same way across all pathways.</cite> <cite index="9-21,9-22,9-23">The company separates quality assurance from credit issuance — it builds standards but does not operate its own registry.</cite> It partners with registries (e.g., Evident/C-Capsule) and financial infrastructure providers (Northern Trust) and certifies projects such as Cowboy Clean Fuels and Vesta.
+Absolute Climate designs independent quality-assurance standards for CDR that certify whether a project's claims match their atmospheric impacts, with a universal approach where every removal project is evaluated the same way across all pathways. The company separates quality assurance from credit issuance — it builds standards but does not operate its own registry. It partners with registries (e.g., Evident/C-Capsule) and financial infrastructure providers (Northern Trust) and certifies projects such as Cowboy Clean Fuels and Vesta.
 
 
 ## History

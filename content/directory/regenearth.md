@@ -2,7 +2,7 @@
 title: "ReGenEarth"
 layout: "single"
 type: "directory"
-description: "ReGenEarth produces biochar through a clean, efficient process to improve soil fertility, boost water retention, and promote plant growth while sequestering car"
+description: "ReGenEarth is a UK-based sustainability venture spun out of Stephen Lansdown's Earth Capital that integrates biochar production into existing anaerobic digestio"
 url: "/directory/regenearth/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -12,19 +12,20 @@ liveliness: "🟢 Active"
 **Method:** Biochar
 **Country:** United Kingdom
 **Website:** [https://regenearth.co.uk/](https://regenearth.co.uk/)
-**Status:** 🟢 Active (score: 80/100)
+**Status:** 🟢 Active (score: 85/100)
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-ReGenEarth produces biochar through a clean, efficient process to improve soil fertility, boost water retention, and promote plant growth while sequestering carbon. They are actively scaling biochar carbon removal technology across the UK.
+ReGenEarth is a UK-based sustainability venture spun out of Stephen Lansdown's Earth Capital that integrates biochar production into existing anaerobic digestion and biomass sites. In June 2025 it launched, with partner RER, a £100m Green Bond programme to finance biochar deployment in the UK, with engineering partner Onnu and verification via Puro.earth and BeZero.
 
 ![ReGenEarth website](/screenshots/v1-thumbnails/regenearth.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://regenearth.co.uk/circularity-products/biochar))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 ---

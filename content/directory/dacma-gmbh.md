@@ -2,7 +2,7 @@
 title: "DACMA GmbH"
 layout: "single"
 type: "directory"
-description: "DACMA GmbH is a German company that manufactures and provides high-quality, modular Direct Air Capture (DAC) systems based on solid sorbent technology, offering"
+description: "DACMA GmbH, headquartered in Hamburg, Germany, is a pioneering DAC manufacturer for high-quality DAC systems and carbon credits. The company has deployed its fi"
 url: "/directory/dacma-gmbh/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -20,7 +20,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-DACMA GmbH is a German company that manufactures and provides high-quality, modular Direct Air Capture (DAC) systems based on solid sorbent technology, offering gigatonne capacities and carbon credits.
+DACMA GmbH, headquartered in Hamburg, Germany, is a pioneering DAC manufacturer for high-quality DAC systems and carbon credits. The company has deployed its first industrialized Direct Air Capture System with a capacity of capturing 300 tons CO2 per year, the largest DAC system running in South America, handed over to the customer in October 2024, and recently signed a long-term joint development agreement with Deep Sky to scale DAC in Canada, including the first DACMA deployment in North America.
 
 ![DACMA GmbH website](/screenshots/v1-thumbnails/dacma-gmbh.jpg)
 
@@ -30,6 +30,7 @@ DACMA GmbH is a German company that manufactures and provides high-quality, modu
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://dacma.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/dacma/)

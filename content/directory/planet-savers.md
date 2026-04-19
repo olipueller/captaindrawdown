@@ -2,7 +2,7 @@
 title: "Planet Savers"
 layout: "single"
 type: "directory"
-description: "Planet Savers is the first Japanese Direct Air Capture (DAC) startup, focusing on DAC (Solid Sorbent) technology, specifically applying innovative zeolite mater"
+description: "Planet Savers is Japan's first Direct Air Capture startup, spun out of the University of Tokyo and founded in 2023, backed by NEDO and Japan's Ministry of Envir"
 url: "/directory/planet-savers/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -19,7 +19,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Planet Savers is the first Japanese Direct Air Capture (DAC) startup, focusing on DAC (Solid Sorbent) technology, specifically applying innovative zeolite material to DAC.
+Planet Savers is Japan's first Direct Air Capture startup, spun out of the University of Tokyo and founded in 2023, backed by NEDO and Japan's Ministry of Environment. It is building a DACCU (DAC + Carbon Utilization) system based on an innovative zeolite adsorbent, having raised a ¥250M seed round in 2024 from Spiral Capital and JAFCO and targeting a 1 ton/day prototype.
 
 ![Planet Savers website](/screenshots/v1-thumbnails/planet-savers.jpg)
 
@@ -29,6 +29,7 @@ Planet Savers is the first Japanese Direct Air Capture (DAC) startup, focusing o
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.nedo.go.jp/english/activities/startups/company77.html))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 ---

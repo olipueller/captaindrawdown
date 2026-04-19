@@ -2,7 +2,7 @@
 title: "ClimateCarbon"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"14-5,14-6,14-7,14-8,14-9\\">ClimateCarbon Eberswalde GmbH & Co. KG is part of the ForestFinance Group and is building a carbonization facility in Ebe"
+description: "ClimateCarbon Eberswalde GmbH & Co. KG is part of the ForestFinance Group and is building a carbonization facility in Eberswalde, Germany, with carbonauten GmbH"
 url: "/directory/climatecarbon/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -19,7 +19,7 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-<cite index="14-5,14-6,14-7,14-8,14-9">ClimateCarbon Eberswalde GmbH & Co. KG is part of the ForestFinance Group and is building a carbonization facility in Eberswalde, Germany, with carbonauten GmbH as technology partner responsible for constructing the production plant and marketing the biochar.</cite> <cite index="11-19,11-20">The plant uses three modules each with two carbonization retorts and is designed to produce 4,800 tonnes of biochar per year.</cite> The company is a genuine biochar CDR supplier funded through limited-partner investor participation.
+ClimateCarbon Eberswalde GmbH & Co. KG is part of the ForestFinance Group and is building a carbonization facility in Eberswalde, Germany, with carbonauten GmbH as technology partner responsible for constructing the production plant and marketing the biochar. The plant uses three modules each with two carbonization retorts and is designed to produce 4,800 tonnes of biochar per year. The company is a genuine biochar CDR supplier funded through limited-partner investor participation.
 
 ![ClimateCarbon website](/screenshots/v1-thumbnails/climatecarbon.jpg)
 

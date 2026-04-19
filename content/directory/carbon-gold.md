@@ -2,7 +2,7 @@
 title: "Carbon Gold"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"10-3\\">Carbon Gold was founded in 2007 by Craig Sams, founder of Green & Blacks Chocolate, and Dan Morrell, founder of the Carbon Neutral Company.</"
+description: "Carbon Gold was founded in 2007 by Craig Sams, founder of Green & Blacks Chocolate, and Dan Morrell, founder of the Carbon Neutral Company. The UK-based B Corp"
 url: "/directory/carbon-gold/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -20,7 +20,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="10-3">Carbon Gold was founded in 2007 by Craig Sams, founder of Green & Blacks Chocolate, and Dan Morrell, founder of the Carbon Neutral Company.</cite> The UK-based B Corp produces enriched biochar products (composts, fertilisers, soil improvers, tree care) that sequester carbon in soil while improving plant health. <cite index="8-1">Retail products have moved to Marshalls Garden</cite>, while the company continues trade sales directly.
+Carbon Gold was founded in 2007 by Craig Sams, founder of Green & Blacks Chocolate, and Dan Morrell, founder of the Carbon Neutral Company. The UK-based B Corp produces enriched biochar products (composts, fertilisers, soil improvers, tree care) that sequester carbon in soil while improving plant health. Retail products have moved to Marshalls Garden, while the company continues trade sales directly.
 
 ![Carbon Gold website](/screenshots/v1-thumbnails/carbon-gold.jpg)
 

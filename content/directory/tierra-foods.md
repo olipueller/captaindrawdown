@@ -2,7 +2,7 @@
 title: "Tierra Foods"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"12-4,12-6,12-7\\">Tierra Foods is a UK climate tech startup developing a carbon-removal system centred on plants that perform biomineralisation — spe"
+description: "Tierra Foods is a UK climate tech startup developing a carbon-removal system centred on plants that perform biomineralisation — specifically oxalogenic species"
 url: "/directory/tierra-foods/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
@@ -19,7 +19,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="12-4,12-6,12-7">Tierra Foods is a UK climate tech startup developing a carbon-removal system centred on plants that perform biomineralisation — specifically oxalogenic species that convert atmospheric CO2 into calcium carbonate stored in soil.</cite> <cite index="5-2,5-3">The company develops agroforestry projects using biomineralisation-capable plants like the Uje/ramón tree (Brosimum alicastrum) via the Oxalate-Carbonate Pathway, producing both permanent carbon removal and sustainable food ingredients.</cite> <cite index="13-3,12-3">It has raised a $520K round announced in early 2025 and is backed by £496,000 of Innovate UK funding for an AI-based MRV methodology with the University of Huddersfield.</cite>
+Tierra Foods is a UK climate tech startup developing a carbon-removal system centred on plants that perform biomineralisation — specifically oxalogenic species that convert atmospheric CO2 into calcium carbonate stored in soil. The company develops agroforestry projects using biomineralisation-capable plants like the Uje/ramón tree (Brosimum alicastrum) via the Oxalate-Carbonate Pathway, producing both permanent carbon removal and sustainable food ingredients. It has raised a $520K round announced in early 2025 and is backed by £496,000 of Innovate UK funding for an AI-based MRV methodology with the University of Huddersfield.
 
 ![Tierra Foods website](/screenshots/v1-thumbnails/tierra-foods.jpg)
 

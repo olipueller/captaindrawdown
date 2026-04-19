@@ -2,7 +2,7 @@
 title: "ÖKT Offenhausen"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"18-4,18-5,18-6\\">ÖKT Offenhausen is a biogas facility in Offenhausen, Bavaria, Germany that dries up to 30,000 tons of locally sourced sewage sludge"
+description: "ÖKT Offenhausen is a biogas facility in Offenhausen, Bavaria, Germany that dries up to 30,000 tons of locally sourced sewage sludge annually, with drying units"
 url: "/directory/ökt-offenhausen/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -18,7 +18,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="18-4,18-5,18-6">ÖKT Offenhausen is a biogas facility in Offenhausen, Bavaria, Germany that dries up to 30,000 tons of locally sourced sewage sludge annually, with drying units powered by sustainable biogas waste heat and CO2-negative Biomass-to-Biochar heat.</cite> <cite index="11-2,11-3,11-4">The pyrolysis system dries sewage sludge and organic residues to create nutrient-rich biochar as a soil additive, produces pyrolysis gas for thermal energy, and is certified by EBC and EBC Agro-Bio.</cite> <cite index="15-1,15-2">Carbon Standards International documented ÖKT as a case study creating a carbon sink of approximately 1,937 tons of CO2e.</cite>
+ÖKT Offenhausen is a biogas facility in Offenhausen, Bavaria, Germany that dries up to 30,000 tons of locally sourced sewage sludge annually, with drying units powered by sustainable biogas waste heat and CO2-negative Biomass-to-Biochar heat. The pyrolysis system dries sewage sludge and organic residues to create nutrient-rich biochar as a soil additive, produces pyrolysis gas for thermal energy, and is certified by EBC and EBC Agro-Bio. Carbon Standards International documented ÖKT as a case study creating a carbon sink of approximately 1,937 tons of CO2e.
 
 ![ÖKT Offenhausen website](/screenshots/v1-thumbnails/kt-offenhausen.jpg)
 

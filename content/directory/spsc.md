@@ -2,27 +2,28 @@
 title: "SPSC"
 layout: "single"
 type: "directory"
-description: "SPSC GmbH is a German technology provider specializing in biochar production. They offer professional retorts and plant systems for converting biomass into bioc"
+description: "SPSC GmbH is a German engineering and plant-construction company based in Ottobrunn that develops biochar production systems (VARIO-series retorts) for agricult"
 url: "/directory/spsc/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 **Pathway:** Biochar
 **Method:** Biochar
 **Country:** Germany
 **Website:** [https://www.sp-sc.de/en/startseitehome/](https://www.sp-sc.de/en/startseitehome/)
-**Status:** 🟡 Moderate (score: 50/100)
+**Status:** 🟢 Active (score: 75/100)
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-SPSC GmbH is a German technology provider specializing in biochar production. They offer professional retorts and plant systems for converting biomass into biochar, ensuring stable production conditions and high environmental compatibility.
+SPSC GmbH is a German engineering and plant-construction company based in Ottobrunn that develops biochar production systems (VARIO-series retorts) for agricultural, forestry, and industrial customers. They also sell finished biochar and have partnered with Carbonfuture to enable carbon-removal crediting for projects using their technology. The company reports having delivered over 20 projects across five countries.
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.sp-sc.de/en/startseitehome/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 ---

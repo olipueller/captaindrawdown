@@ -2,7 +2,7 @@
 title: "Växjö Energi"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"9-8,9-9,9-10\\">Växjö Energi AB is a Swedish municipal energy company collaborating with Sumitomo SHI FW on hot potassium carbonate carbon capture at"
+description: "Växjö Energi AB is a Swedish municipal energy company collaborating with Sumitomo SHI FW on hot potassium carbonate carbon capture at its fully fossil-free CHP"
 url: "/directory/växjö-energi/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
@@ -18,7 +18,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="9-8,9-9,9-10">Växjö Energi AB is a Swedish municipal energy company collaborating with Sumitomo SHI FW on hot potassium carbonate carbon capture at its fully fossil-free CHP plant, aiming to capture approximately 200,000 tonnes of CO2 annually starting in 2028.</cite> <cite index="3-4,3-5,3-6,3-7">Forestry residues fuel their bioenergy plant, flue-gas CO2 is separated and liquefied, then transported for permanent storage in the North Sea 2,000–3,000 m below sea level, yielding carbon dioxide removal.</cite> <cite index="2-27,2-28">A permit application with Mark- och miljödomstolen is in progress, with a scoping consultation held in November 2024.</cite>
+Växjö Energi AB is a Swedish municipal energy company collaborating with Sumitomo SHI FW on hot potassium carbonate carbon capture at its fully fossil-free CHP plant, aiming to capture approximately 200,000 tonnes of CO2 annually starting in 2028. Forestry residues fuel their bioenergy plant, flue-gas CO2 is separated and liquefied, then transported for permanent storage in the North Sea 2,000–3,000 m below sea level, yielding carbon dioxide removal. A permit application with Mark- och miljödomstolen is in progress, with a scoping consultation held in November 2024.
 
 ![Växjö Energi website](/screenshots/v1-thumbnails/v-xj--energi.jpg)
 

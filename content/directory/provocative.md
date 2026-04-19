@@ -2,7 +2,7 @@
 title: "Provocative"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"11-2,11-3\\">Provocative is a Boston-based Greentown Labs member founded in 2024 (CEO Nick Meyer, President Rob Fisher, Head of Engineering Andrew Bo"
+description: "Provocative is a Boston-based Greentown Labs member founded in 2024 (CEO Nick Meyer, President Rob Fisher, Head of Engineering Andrew Bouma) that makes AI carbo"
 url: "/directory/provocative/"
 pathway: "DAC"
 liveliness: "🟡 Moderate"
@@ -18,7 +18,7 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-<cite index="11-2,11-3">Provocative is a Boston-based Greentown Labs member founded in 2024 (CEO Nick Meyer, President Rob Fisher, Head of Engineering Andrew Bouma) that makes AI carbon-negative by combining data centers and direct air capture, replacing conventional cooling systems with carbon capture.</cite> The company is a DAC supplier integrating removal hardware directly into air-cooled high-performance compute facilities.
+Provocative is a Boston-based Greentown Labs member founded in 2024 (CEO Nick Meyer, President Rob Fisher, Head of Engineering Andrew Bouma) that makes AI carbon-negative by combining data centers and direct air capture, replacing conventional cooling systems with carbon capture. The company is a DAC supplier integrating removal hardware directly into air-cooled high-performance compute facilities.
 
 ![Provocative website](/screenshots/v1-thumbnails/provocative.jpg)
 

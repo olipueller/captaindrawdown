@@ -2,7 +2,7 @@
 title: "Hydrogen Naturally"
 layout: "single"
 type: "directory"
-description: "Hydrogen Naturally (H2N) is a Canadian startup developing \\"Bright Green Hydrogen\\" facilities that gasify forestry residuals to co-produce hydrogen and pure CO2 "
+description: "Hydrogen Naturally (H2N) is a Canadian startup developing \\"Bright Green Hydrogen\\" facilities that gasify forestry residuals to co-produce hydrogen and pure CO2"
 url: "/directory/hydrogen-naturally/"
 pathway: "BECCS"
 liveliness: "🟡 Moderate"

@@ -2,17 +2,18 @@
 title: "Carbon Kapture"
 layout: "single"
 type: "directory"
-description: "Carbon Kapture is a UK-based BiCRS company that grows seaweed to remove carbon from the sea. The harvested seaweed is then converted into biochar, a stable form"
+description: "Carbon Kapture is a UK-based CDR supplier that grows kelp (sugar kelp) on rope farms in partnership with shellfish farmers across Europe, then pyrolyzes the har"
 url: "/directory/carbon-kapture/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
 **Pathway:** Biochar
+**Secondary pathways:** Ocean CDR
 **Method:** Biochar
 **Country:** United Kingdom
 **Website:** [https://carbonkapture.com/](https://carbonkapture.com/)
-**Status:** 🟢 Active (score: 80/100)
+**Status:** 🟢 Active (score: 75/100)
 **Employees:** ~5 (0% YoY)
 **LinkedIn Followers:** 3,285
 **CDR Focus:** supplier
@@ -20,13 +21,14 @@ liveliness: "🟢 Active"
 
 ## About
 
-Carbon Kapture is a UK-based BiCRS company that grows seaweed to remove carbon from the sea. The harvested seaweed is then converted into biochar, a stable form of carbon used to enrich soil.
+Carbon Kapture is a UK-based CDR supplier that grows kelp (sugar kelp) on rope farms in partnership with shellfish farmers across Europe, then pyrolyzes the harvested seaweed into biochar that is applied to farmland. As of 2025 the company had expanded from its first Mulroy Bay (Ireland) farm to around a dozen farms across Ireland, UK, France, Spain and Portugal, and was scouting additional sites in Singapore, Newfoundland and the Seychelles.
 
 ![Carbon Kapture website](/screenshots/v1-thumbnails/carbon-kapture.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://carbonkapture.com/what-we-do/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/carbon-kapture/)

@@ -2,23 +2,23 @@
 title: "Carbons Finland"
 layout: "single"
 type: "directory"
-description: "Carbons Finland Oy is a smartup company founded in 2014 that develops and sells biochar-based products made from Finnish wood, focusing on solutions for stormwa"
+description: "Carbons Finland Oy is a production company of biochar-based products located in Kouvola, Finland, selling products under the Carbons brand, with focus on urban"
 url: "/directory/carbons-finland/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟠 Suspect"
 ---
 
 **Pathway:** Biochar
 **Method:** Biochar
 **Country:** Finland
 **Website:** [https://carbons.fi/en/home/](https://carbons.fi/en/home/)
-**Status:** 🟡 Moderate (score: 55/100)
+**Status:** 🟠 Suspect (score: 35/100)
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin, registry_puro
 
 ## About
 
-Carbons Finland Oy is a smartup company founded in 2014 that develops and sells biochar-based products made from Finnish wood, focusing on solutions for stormwater treatment, landscaping, and organic agriculture.
+Carbons Finland Oy is a production company of biochar-based products located in Kouvola, Finland, selling products under the Carbons brand, with focus on urban green spaces as well as filtration and decontamination. The company was founded in 2014 to develop biochar solutions for stormwater treatment, landscaping, composting, nutrient recycling and organic farming. They are registered as a biochar supplier on Puro.earth.
 
 ![Carbons Finland website](/screenshots/v1-thumbnails/carbons-finland.jpg)
 
@@ -28,6 +28,7 @@ Carbons Finland Oy is a smartup company founded in 2014 that develops and sells 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://carbons.fi/en/the-company/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/carbons-finland/)

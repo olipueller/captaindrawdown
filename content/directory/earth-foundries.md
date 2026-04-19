@@ -2,7 +2,7 @@
 title: "Earth Foundries"
 layout: "single"
 type: "directory"
-description: "Earth Foundries processes woody forest waste into biochar, heat, and energy, addressing wildfire threats and developing biochar markets for soil enhancement, fi"
+description: "Earth Foundries is a funded company based in Saratoga, California, founded in 2021 by Dorothea Dede Smullen and Roger Smullen, operating as a developer of carbo"
 url: "/directory/earth-foundries/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -15,16 +15,17 @@ liveliness: "🟡 Moderate"
 **Status:** 🟡 Moderate (score: 55/100)
 **Employees:** ~4 (0% YoY)
 **LinkedIn Followers:** 759
-**CDR Focus:** division
+**CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Earth Foundries processes woody forest waste into biochar, heat, and energy, addressing wildfire threats and developing biochar markets for soil enhancement, filtration, and stormwater mitigation.
+Earth Foundries is a funded company based in Saratoga, California, founded in 2021 by Dorothea Dede Smullen and Roger Smullen, operating as a developer of carbon-negative products from forest waste. Its mission is to reduce the cost and carbon footprint of landscape-scale forest health projects by processing unmerchantable forest material from hazardous fuels reduction projects into biochar on site and at scale with its Slash Attack service. The biochar is sold into compost, stormwater bioswale, and manure management applications.
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.earthfoundriesinc.com/news/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/earth-foundries-inc/)

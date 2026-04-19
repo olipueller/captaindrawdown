@@ -2,7 +2,7 @@
 title: "Klimate"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"3-1,3-2\\">Klimate.co is a Copenhagen-based company founded in 2020 that specializes in carbon asset management, with a platform that enables busines"
+description: "Klimate.co is a Copenhagen-based company founded in 2020 that specializes in carbon asset management, with a platform that enables businesses to secure high-qua"
 url: "/directory/klimate/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
@@ -19,7 +19,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="3-1,3-2">Klimate.co is a Copenhagen-based company founded in 2020 that specializes in carbon asset management, with a platform that enables businesses to secure high-quality carbon removal solutions.</cite> <cite index="7-9,7-10">Klimate buys the removal of CO2 from the atmosphere on behalf of its clients through different removal projects and combines them into portfolios, with options for custom portfolios.</cite> They are a broker/marketplace rather than a technology developer, making them part of the CDR ecosystem.
+Klimate.co is a Copenhagen-based company founded in 2020 that specializes in carbon asset management, with a platform that enables businesses to secure high-quality carbon removal solutions. Klimate buys the removal of CO2 from the atmosphere on behalf of its clients through different removal projects and combines them into portfolios, with options for custom portfolios. They are a broker/marketplace rather than a technology developer, making them part of the CDR ecosystem.
 
 ![Klimate website](/screenshots/v1-thumbnails/klimate.jpg)
 

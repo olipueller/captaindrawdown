@@ -2,7 +2,7 @@
 title: "HerbaCarbo"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"1-1,1-2\\">HerbaCarbo GbR is a production company of biochar-based products located in Andernach, Germany, with products sold under the HerbaCarbo br"
+description: "HerbaCarbo GbR is a production company of biochar-based products located in Andernach, Germany, with products sold under the HerbaCarbo brand. They produce EBC-"
 url: "/directory/herbacarbo/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -18,7 +18,7 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-<cite index="1-1,1-2">HerbaCarbo GbR is a production company of biochar-based products located in Andernach, Germany, with products sold under the HerbaCarbo brand.</cite> They produce EBC-certified biochar from biomass including herbal pomace and woodchips via pyrolysis at 500–700°C, marketed for Terra Preta soil applications and as a feed additive. The company is a small, family-run GbR that has been operating since ~2015.
+HerbaCarbo GbR is a production company of biochar-based products located in Andernach, Germany, with products sold under the HerbaCarbo brand. They produce EBC-certified biochar from biomass including herbal pomace and woodchips via pyrolysis at 500–700°C, marketed for Terra Preta soil applications and as a feed additive. The company is a small, family-run GbR that has been operating since ~2015.
 
 ![HerbaCarbo website](/screenshots/v1-thumbnails/herbacarbo.jpg)
 

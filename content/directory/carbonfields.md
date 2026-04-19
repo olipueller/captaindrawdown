@@ -2,7 +2,7 @@
 title: "CarbonFields"
 layout: "single"
 type: "directory"
-description: "CarbonFields transforms biomass waste into biochar and sustainable bioproducts, offering carbon-negative solutions for agriculture and industry."
+description: "Carbon Fields is a Spain-based biochar producer that transforms biomass waste (e.g. wood waste) into biochar and sustainable bioproducts for agriculture and ind"
 url: "/directory/carbonfields/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -12,7 +12,7 @@ liveliness: "🟢 Active"
 **Method:** Biochar
 **Country:** Spain
 **Website:** [https://www.carbonfields.earth/](https://www.carbonfields.earth/)
-**Status:** 🟢 Active (score: 70/100)
+**Status:** 🟢 Active (score: 72/100)
 **Employees:** ~7 (+133% YoY)
 **LinkedIn Followers:** 140
 **CDR Focus:** supplier
@@ -20,13 +20,14 @@ liveliness: "🟢 Active"
 
 ## About
 
-CarbonFields transforms biomass waste into biochar and sustainable bioproducts, offering carbon-negative solutions for agriculture and industry.
+Carbon Fields is a Spain-based biochar producer that transforms biomass waste (e.g. wood waste) into biochar and sustainable bioproducts for agriculture and industry. The company physically removes CO2 via pyrolysis and markets carbon-negative soil amendments and biochar-based products. Team members (e.g. Eric Suñol, Yann Mercier) are publicly active on LinkedIn through late 2025.
 
 ![CarbonFields website](/screenshots/v1-thumbnails/carbonfields.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.carbonfields.earth/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/carbon-fields/)

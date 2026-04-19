@@ -2,7 +2,7 @@
 title: "Milkywire"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"2-4,2-7\\">Stockholm-based Milkywire is an impact platform that pre-purchases durable carbon removal credits and has purchased from many suppliers th"
+description: "Stockholm-based Milkywire is an impact platform that pre-purchases durable carbon removal credits and has purchased from many suppliers through its Climate Tran"
 url: "/directory/milkywire/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
@@ -18,7 +18,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="2-4,2-7">Stockholm-based Milkywire is an impact platform that pre-purchases durable carbon removal credits and has purchased from many suppliers through its Climate Transformation Fund, backed by companies like Klarna, Spotify and ING Bank.</cite> <cite index="5-5,5-6">Their 2025 round brought total CDR suppliers supported through the CTF to 40, second only to Shopify and Stripe per CDR.fyi data.</cite> They do not remove CO2 themselves — they run open calls, vet projects, and broker procurement for corporate buyers, placing them squarely in the CDR ecosystem.
+Stockholm-based Milkywire is an impact platform that pre-purchases durable carbon removal credits and has purchased from many suppliers through its Climate Transformation Fund, backed by companies like Klarna, Spotify and ING Bank. Their 2025 round brought total CDR suppliers supported through the CTF to 40, second only to Shopify and Stripe per CDR.fyi data. They do not remove CO2 themselves — they run open calls, vet projects, and broker procurement for corporate buyers, placing them squarely in the CDR ecosystem.
 
 
 ## History

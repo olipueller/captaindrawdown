@@ -2,7 +2,7 @@
 title: "APChemi"
 layout: "single"
 type: "directory"
-description: "APChemi is an Indian pyrolysis technology company offering biomass-to-biochar plants alongside plastic and tire pyrolysis systems. <cite index=\\"3-5\\">In April 20"
+description: "APChemi is an Indian pyrolysis technology company offering biomass-to-biochar plants alongside plastic and tire pyrolysis systems. In April 2025 it partnered wi"
 url: "/directory/apchemi/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -20,7 +20,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-APChemi is an Indian pyrolysis technology company offering biomass-to-biochar plants alongside plastic and tire pyrolysis systems. <cite index="3-5">In April 2025 it partnered with PRESPL and Intellecap to set up Biochar India Private Limited (BiocharIND), intended to be India's largest biochar-based carbon credit platform</cite>, with a <cite index="7-5">first facility in Punjab-Haryana producing 10,000 MT of biochar per annum and generating ~25,000 tCO2e of carbon credits per annum</cite>.
+APChemi is an Indian pyrolysis technology company offering biomass-to-biochar plants alongside plastic and tire pyrolysis systems. In April 2025 it partnered with PRESPL and Intellecap to set up Biochar India Private Limited (BiocharIND), intended to be India's largest biochar-based carbon credit platform, with a first facility in Punjab-Haryana producing 10,000 MT of biochar per annum and generating ~25,000 tCO2e of carbon credits per annum.
 
 ![APChemi website](/screenshots/v1-thumbnails/apchemi.jpg)
 

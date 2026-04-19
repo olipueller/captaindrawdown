@@ -2,7 +2,7 @@
 title: "Ionada"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"9-3,9-4\\">Ionada is an Ontario, Canada-based climate technology company that in August 2025 received grant funding from the NGIF Accelerator to adva"
+description: "Ionada is an Ontario, Canada-based climate technology company that in August 2025 received grant funding from the NGIF Accelerator to advance its modular carbon"
 url: "/directory/ionada/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="9-3,9-4">Ionada is an Ontario, Canada-based climate technology company that in August 2025 received grant funding from the NGIF Accelerator to advance its modular carbon capture system, supporting construction and demonstration of an industrial-scale unit.</cite> <cite index="5-3,5-4">In August 2025 the company announced completion and demonstration of the world's first production-scale Hollow Fiber Membrane Contactor (HFMC) carbon capture system.</cite> Its iDAC product applies the same membrane contactor technology to direct air capture, while its core commercial focus is point-source capture for natural gas, marine, hydrogen, steel, cement, and thermal power applications.
+Ionada is an Ontario, Canada-based climate technology company that in August 2025 received grant funding from the NGIF Accelerator to advance its modular carbon capture system, supporting construction and demonstration of an industrial-scale unit. In August 2025 the company announced completion and demonstration of the world's first production-scale Hollow Fiber Membrane Contactor (HFMC) carbon capture system. Its iDAC product applies the same membrane contactor technology to direct air capture, while its core commercial focus is point-source capture for natural gas, marine, hydrogen, steel, cement, and thermal power applications.
 
 ## Registry Memberships
 

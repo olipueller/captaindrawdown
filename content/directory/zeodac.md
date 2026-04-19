@@ -2,7 +2,7 @@
 title: "ZeoDAC"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"7-4,7-9\\">Founded in June 2023, the Atlanta-based company was established by Professor Christopher W. Jones (Georgia Tech) and Professor Mark E. Dav"
+description: "Founded in June 2023, the Atlanta-based company was established by Professor Christopher W. Jones (Georgia Tech) and Professor Mark E. Davis (Caltech) to extrac"
 url: "/directory/zeodac/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -18,7 +18,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="7-4,7-9">Founded in June 2023, the Atlanta-based company was established by Professor Christopher W. Jones (Georgia Tech) and Professor Mark E. Davis (Caltech) to extract carbon dioxide from air using zeolites.</cite> <cite index="3-5">Investors include Wilson Hill Ventures, Caltech, Coca-Cola Europacific Partners, Freeflow Ventures and Global Brain.</cite> Note: captured CO2 may be sequestered or used in beverages/chemicals, so end-use pathway is a mix of CDR and CCU.
+Founded in June 2023, the Atlanta-based company was established by Professor Christopher W. Jones (Georgia Tech) and Professor Mark E. Davis (Caltech) to extract carbon dioxide from air using zeolites. Investors include Wilson Hill Ventures, Caltech, Coca-Cola Europacific Partners, Freeflow Ventures and Global Brain. Note: captured CO2 may be sequestered or used in beverages/chemicals, so end-use pathway is a mix of CDR and CCU.
 
 ![ZeoDAC website](/screenshots/v1-thumbnails/zeodac.jpg)
 

@@ -2,7 +2,7 @@
 title: "Three Mountains Cocoa"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"10-3,10-10,10-11\\">Three Mountains Cocoa (TMC) is a Ghanaian cocoa cooperative founded by Leslie Agyare that works with over 2,000 farmers across 15"
+description: "Three Mountains Cocoa (TMC) is a Ghanaian cocoa cooperative founded by Leslie Agyare that works with over 2,000 farmers across 15 communities producing organic"
 url: "/directory/three-mountains-cocoa/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="10-3,10-10,10-11">Three Mountains Cocoa (TMC) is a Ghanaian cocoa cooperative founded by Leslie Agyare that works with over 2,000 farmers across 15 communities producing organic single-origin cocoa beans.</cite> <cite index="13-1,13-6">The Three Mountains Cocoa biochar project in Ghana, developed with Terraton and with preliminary approval from Puro.earth, is expected to contribute to over 20,000 tons of annual CO₂ removal, and Terraset has committed a six-figure carbon credit pre-purchase from the project.</cite> TMC serves as the host site and feedstock supplier (cocoa pod husk) for the biochar facility, which is listed on Puro.earth under its name.
+Three Mountains Cocoa (TMC) is a Ghanaian cocoa cooperative founded by Leslie Agyare that works with over 2,000 farmers across 15 communities producing organic single-origin cocoa beans. The Three Mountains Cocoa biochar project in Ghana, developed with Terraton and with preliminary approval from Puro.earth, is expected to contribute to over 20,000 tons of annual CO₂ removal, and Terraset has committed a six-figure carbon credit pre-purchase from the project. TMC serves as the host site and feedstock supplier (cocoa pod husk) for the biochar facility, which is listed on Puro.earth under its name.
 
 
 ## History

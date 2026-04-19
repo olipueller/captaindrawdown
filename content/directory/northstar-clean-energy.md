@@ -2,7 +2,7 @@
 title: "NorthStar Clean Energy"
 layout: "single"
 type: "directory"
-description: "NorthStar Clean Energy is a wholly owned subsidiary of CMS Energy (NYSE: CMS) developing one of the first US large-scale BECCS/BiCRS projects at the Filer City "
+description: "NorthStar Clean Energy is a wholly owned subsidiary of CMS Energy (NYSE: CMS) developing one of the first US large-scale BECCS/BiCRS projects at the Filer City"
 url: "/directory/northstar-clean-energy/"
 pathway: "BECCS"
 liveliness: "🟢 Active"

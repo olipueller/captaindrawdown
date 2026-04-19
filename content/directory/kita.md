@@ -2,7 +2,7 @@
 title: "Kita"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"1-2,1-4\\">Kita is a Lloyd's of London Coverholder and carbon insurance specialist</cite>, <cite index=\\"7-19,7-20\\">a UK-based startup formed in Decem"
+description: "Kita is a Lloyd's of London Coverholder and carbon insurance specialist, a UK-based startup formed in December 2021 to insure CO2 removal credits that are often"
 url: "/directory/kita/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
@@ -19,7 +19,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="1-2,1-4">Kita is a Lloyd's of London Coverholder and carbon insurance specialist</cite>, <cite index="7-19,7-20">a UK-based startup formed in December 2021 to insure CO2 removal credits that are often forward-purchased and carry delivery risks</cite>. <cite index="1-9">Its policies provide coverage tailored to carbon and natural capital asset classes, including Delivery, Counterparty, Political and Buffer Depletion</cite>. They are part of the CDR ecosystem as a financial-infrastructure provider rather than a physical CO2 remover.
+Kita is a Lloyd's of London Coverholder and carbon insurance specialist, a UK-based startup formed in December 2021 to insure CO2 removal credits that are often forward-purchased and carry delivery risks. Its policies provide coverage tailored to carbon and natural capital asset classes, including Delivery, Counterparty, Political and Buffer Depletion. They are part of the CDR ecosystem as a financial-infrastructure provider rather than a physical CO2 remover.
 
 ![Kita website](/screenshots/v1-thumbnails/kita.jpg)
 

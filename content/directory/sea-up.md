@@ -2,7 +2,7 @@
 title: "Sea-Up"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"4-1,4-2\\">Sea-Up (The Sea Upwelling Company Inc, formerly Ocean-Based Climate Solutions) is a US ocean CDR developer that pairs deep (450 m) upwelli"
+description: "Sea-Up (The Sea Upwelling Company Inc, formerly Ocean-Based Climate Solutions) is a US ocean CDR developer that pairs deep (450 m) upwelling with an equal-depth"
 url: "/directory/sea-up/"
 pathway: "Ocean CDR"
 liveliness: "🟡 Moderate"
@@ -18,7 +18,7 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-<cite index="4-1,4-2">Sea-Up (The Sea Upwelling Company Inc, formerly Ocean-Based Climate Solutions) is a US ocean CDR developer that pairs deep (450 m) upwelling with an equal-depth downwelling ribbon using wave energy to achieve carbon removal, sea-surface cooling, and sargassum suppression.</cite> <cite index="15-1,15-2,15-3">The company commercializes fractional "Sea-Shares" of its upwelling pumps rather than tons of CDR, measures ocean pH to confirm photosynthesis in real time, and has announced a first deployment off Bermuda.</cite> <cite index="13-8,13-9,13-10">Their planned deployment east of Bermuda, in partnership with the Bermuda Institute of Ocean Sciences (BIOS), was billed as the first open-ocean upwelling CDR project worldwide.</cite>
+Sea-Up (The Sea Upwelling Company Inc, formerly Ocean-Based Climate Solutions) is a US ocean CDR developer that pairs deep (450 m) upwelling with an equal-depth downwelling ribbon using wave energy to achieve carbon removal, sea-surface cooling, and sargassum suppression. The company commercializes fractional "Sea-Shares" of its upwelling pumps rather than tons of CDR, measures ocean pH to confirm photosynthesis in real time, and has announced a first deployment off Bermuda. Their planned deployment east of Bermuda, in partnership with the Bermuda Institute of Ocean Sciences (BIOS), was billed as the first open-ocean upwelling CDR project worldwide.
 
 ![Sea-Up website](/screenshots/v1-thumbnails/sea-up.jpg)
 

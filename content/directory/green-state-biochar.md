@@ -2,27 +2,28 @@
 title: "Green State Biochar"
 layout: "single"
 type: "directory"
-description: "Green State Biochar produces high-quality biochar from biomass waste, primarily for agricultural applications like manure management and runoff control, and is "
+description: "Green State Biochar is a family-run Vermont biochar producer based in Greensboro Bend, making biochar from locally sourced waste wood for soil amendment, manure"
 url: "/directory/green-state-biochar/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟠 Suspect"
 ---
 
 **Pathway:** Biochar
 **Method:** Biochar
 **Country:** United States
 **Website:** [https://greenstatebiochar.com/](https://greenstatebiochar.com/)
-**Status:** 🟡 Moderate (score: 50/100)
+**Status:** 🟠 Suspect (score: 35/100)
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Green State Biochar produces high-quality biochar from biomass waste, primarily for agricultural applications like manure management and runoff control, and is committed to carbon dioxide removal through biochar production.
+Green State Biochar is a family-run Vermont biochar producer based in Greensboro Bend, making biochar from locally sourced waste wood for soil amendment, manure management, and runoff filtration. The company operates a homemade pyrolysis kiln producing a few hundred pounds per day and sells in buckets and supersacks to farmers, consumers, and researchers.
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://greenstatebiochar.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 ---

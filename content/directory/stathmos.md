@@ -2,7 +2,7 @@
 title: "Stathmos"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"7-1,7-4\\">Stathmos is a French startup using Direct Air Capture (DAC) to address both CO2 removal and water scarcity, with Statbox systems designed "
+description: "Stathmos is a French startup using Direct Air Capture (DAC) to address both CO2 removal and water scarcity, with Statbox systems designed to capture up to 1,000"
 url: "/directory/stathmos/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -18,7 +18,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="7-1,7-4">Stathmos is a French startup using Direct Air Capture (DAC) to address both CO2 removal and water scarcity, with Statbox systems designed to capture up to 1,000 tonnes of CO2 annually while producing clean water in arid regions.</cite> <cite index="8-5,8-6">The company was founded in 2023 from Marble Studio by Amandine Cadiau and uses solid alkaline carbonate sorbents</cite> at its headquarters in Le Mans, France.
+Stathmos is a French startup using Direct Air Capture (DAC) to address both CO2 removal and water scarcity, with Statbox systems designed to capture up to 1,000 tonnes of CO2 annually while producing clean water in arid regions. The company was founded in 2023 from Marble Studio by Amandine Cadiau and uses solid alkaline carbonate sorbents at its headquarters in Le Mans, France.
 
 ![Stathmos website](/screenshots/v1-thumbnails/stathmos.jpg)
 

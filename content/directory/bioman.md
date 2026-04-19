@@ -2,7 +2,7 @@
 title: "Bioman"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"14-1,14-2\\">Bioman ApS is a Bigadan-owned Danish biogas company that bid to capture and store 25,000 tonnes of CO2 annually at a support price of DK"
+description: "Bioman ApS is a Bigadan-owned Danish biogas company that bid to capture and store 25,000 tonnes of CO2 annually at a support price of DKK 1,175.5 per tonne unde"
 url: "/directory/bioman/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
@@ -18,7 +18,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="14-1,14-2">Bioman ApS is a Bigadan-owned Danish biogas company that bid to capture and store 25,000 tonnes of CO2 annually at a support price of DKK 1,175.5 per tonne</cite> under the Danish Energy Agency's NECCS fund. <cite index="18-1,18-2">As of August 19, 2025, Bioman merged into its parent group and now operates legally as Bigadan Sourcing & Commodities</cite>, covering the full value chain from biomass and biogas to CO2 storage.
+Bioman ApS is a Bigadan-owned Danish biogas company that bid to capture and store 25,000 tonnes of CO2 annually at a support price of DKK 1,175.5 per tonne under the Danish Energy Agency's NECCS fund. As of August 19, 2025, Bioman merged into its parent group and now operates legally as Bigadan Sourcing & Commodities, covering the full value chain from biomass and biogas to CO2 storage.
 
 ![Bioman website](/screenshots/v1-thumbnails/bioman.jpg)
 

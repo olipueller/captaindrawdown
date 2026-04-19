@@ -2,29 +2,30 @@
 title: "Sponge DAC"
 layout: "single"
 type: "directory"
-description: "Sponge DAC is a Direct Air Capture (DAC) company that removes carbon directly from the atmosphere. They are creating jobs and working towards net-zero."
+description: "Sponge DAC describes itself as a Direct Air Capture (DAC) technology company removing carbon directly from the atmosphere, creating jobs and working towards net"
 url: "/directory/sponge-dac/"
 pathway: "DAC"
-liveliness: "🟡 Moderate"
+liveliness: "🟠 Suspect"
 ---
 
 **Pathway:** DAC
 **Method:** DAC (Other/Undisclosed)
 **Country:** United States
 **Website:** [https://www.linkedin.com/company/sponge-dac/](https://www.linkedin.com/company/sponge-dac/)
-**Status:** 🟡 Moderate (score: 55/100)
+**Status:** 🟠 Suspect (score: 30/100)
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Sponge DAC is a Direct Air Capture (DAC) company that removes carbon directly from the atmosphere. They are creating jobs and working towards net-zero.
+Sponge DAC describes itself as a Direct Air Capture (DAC) technology company removing carbon directly from the atmosphere, creating jobs and working towards net-zero. The firm maintains a minimal LinkedIn presence with very limited public information, and appears to be associated with chemical engineer Marek Nowosielski. No standalone website, funding announcements, or project deployments were discoverable via public search.
 
 ![Sponge DAC website](/screenshots/v1-thumbnails/sponge-dac.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://www.linkedin.com/company/sponge-dac/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 ---

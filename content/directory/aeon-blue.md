@@ -2,13 +2,14 @@
 title: "Aeon Blue"
 layout: "single"
 type: "directory"
-description: "Aeon Blue develops eFuel using direct air capture (DAC) with a liquid solvent (cold capture via chloralkali technology) to produce carbon-absorbing commodities "
+description: "Aeon Blue is a Cape Breton (Sydney, Nova Scotia) startup developing sustainable eFuel production by harnessing wind energy and seawater, integrating hydrogen pr"
 url: "/directory/aeon-blue/"
 pathway: "DAC"
 liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** DAC
+**Secondary pathways:** Enabling Tech
 **Method:** DAC (Liquid Solvent)
 **Country:** Canada
 **Website:** [https://www.aeonbluetechnologies.com/](https://www.aeonbluetechnologies.com/)
@@ -19,7 +20,7 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-Aeon Blue develops eFuel using direct air capture (DAC) with a liquid solvent (cold capture via chloralkali technology) to produce carbon-absorbing commodities and renewable hydrocarbons.
+Aeon Blue is a Cape Breton (Sydney, Nova Scotia) startup developing sustainable eFuel production by harnessing wind energy and seawater, integrating hydrogen production with carbon capture technology using atmospheric CO2. The company's saltwater electrolyzer produces synthetic fuel that can replace gasoline or diesel while capturing CO2 and storing it underground, with some configurations capturing up to six times as much CO2 as the eFuel emits when burned. The company has only three employees and is raising a bridge round before a planned $10M seed round to build a pilot reactor.
 
 ## Registry Memberships
 
@@ -27,6 +28,7 @@ Aeon Blue develops eFuel using direct air capture (DAC) with a liquid solvent (c
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://www.aeonbluetechnologies.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 ---

@@ -2,7 +2,7 @@
 title: "Gigafex"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"4-1,4-2\\">Gigafex helps palm oil mills turn EFB biomass into biochar and verifiable carbon removal credits using proprietary, patent-pending pyrolys"
+description: "Gigafex helps palm oil mills turn EFB biomass into biochar and verifiable carbon removal credits using proprietary, patent-pending pyrolysis reactors purpose-bu"
 url: "/directory/gigafex/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -18,7 +18,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="4-1,4-2">Gigafex helps palm oil mills turn EFB biomass into biochar and verifiable carbon removal credits using proprietary, patent-pending pyrolysis reactors purpose-built for EFB biomass that integrate into existing mill operations at industrial scale.</cite> The company markets the resulting biochar as both a stable carbon removal pathway and a soil amendment that reduces reliance on chemical fertilizers.
+Gigafex helps palm oil mills turn EFB biomass into biochar and verifiable carbon removal credits using proprietary, patent-pending pyrolysis reactors purpose-built for EFB biomass that integrate into existing mill operations at industrial scale. The company markets the resulting biochar as both a stable carbon removal pathway and a soil amendment that reduces reliance on chemical fertilizers.
 
 ![Gigafex website](/screenshots/v1-thumbnails/gigafex.jpg)
 

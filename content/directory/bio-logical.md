@@ -2,7 +2,7 @@
 title: "Bio-Logical"
 layout: "single"
 type: "directory"
-description: "Bio-Logical is a Kenyan company that removes carbon by producing biochar from agricultural waste, which is then used to create a biochar-based fertilizer called"
+description: "Bio-Logical is a Kenya-based climate tech company specializing in biochar carbon removal, producing biochar that sequesters carbon dioxide and serves as a soil"
 url: "/directory/bio-logical/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -12,7 +12,7 @@ liveliness: "🟢 Active"
 **Method:** Biochar
 **Country:** Kenya
 **Website:** [https://www.bio-logical.green/](https://www.bio-logical.green/)
-**Status:** 🟢 Active (score: 100/100)
+**Status:** 🟢 Active (score: 90/100)
 **Employees:** ~53 (+26% YoY)
 **LinkedIn Followers:** 5,923
 **CDR Focus:** supplier
@@ -20,7 +20,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Bio-Logical is a Kenyan company that removes carbon by producing biochar from agricultural waste, which is then used to create a biochar-based fertilizer called Asili. They aim to sequester 1Mt of CO2 annually by 2030 and support smallholder farmers.
+Bio-Logical is a Kenya-based climate tech company specializing in biochar carbon removal, producing biochar that sequesters carbon dioxide and serves as a soil amendment to improve livelihoods of Kenyan smallholder farmers. Its facility in Kabati, claimed to be Africa's largest biochar plant, can produce up to 5,000 tonnes of biochar and 24,000 tonnes of compost annually. The company signed a significant Microsoft offtake deal in 2023, the largest single purchase of biochar carbon removal from an African project to date.
 
 ![Bio-Logical website](/screenshots/v1-thumbnails/bio-logical.jpg)
 
@@ -30,6 +30,7 @@ Bio-Logical is a Kenyan company that removes carbon by producing biochar from ag
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://big3africa.org/2025/11/04/bio-logical-uses-biochar-to-fight-climate-change-and-empower-farmers/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/bio-logical/)

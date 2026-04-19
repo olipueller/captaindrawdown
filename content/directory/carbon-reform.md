@@ -2,7 +2,7 @@
 title: "Carbon Reform"
 layout: "single"
 type: "directory"
-description: "Carbon Reform is a Philadelphia/Wilmington-based climate tech startup (founded 2020) that retrofits commercial building HVAC systems with modular hardware that "
+description: "Carbon Reform is a Philadelphia/Wilmington-based climate tech startup (founded 2020) that retrofits commercial building HVAC systems with modular hardware that"
 url: "/directory/carbon-reform/"
 pathway: "DAC"
 liveliness: "🟢 Active"

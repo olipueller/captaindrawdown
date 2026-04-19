@@ -2,7 +2,7 @@
 title: "Rement"
 layout: "single"
 type: "directory"
-description: "Rement is a Karlsruhe Institute of Technology (KIT) spin-off based in Germany that develops a CO2-negative concrete upcycling process. The technology processes "
+description: "Rement is a Karlsruhe Institute of Technology (KIT) spin-off based in Germany that develops a CO2-negative concrete upcycling process. The technology processes"
 url: "/directory/rement/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"

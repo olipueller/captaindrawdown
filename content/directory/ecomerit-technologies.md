@@ -2,7 +2,7 @@
 title: "Ecomerit Technologies"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"5-3\\">Ecomerit Technologies is a Santa Barbara-based marine-renewable product design studio and laboratory founded in 2010 by Jim and Brent Dehlsen<"
+description: "Ecomerit Technologies is a Santa Barbara-based marine-renewable product design studio and laboratory founded in 2010 by Jim and Brent Dehlsen, developing the Pr"
 url: "/directory/ecomerit-technologies/"
 pathway: "Ocean CDR"
 liveliness: "🟡 Moderate"
@@ -20,7 +20,7 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-<cite index="5-3">Ecomerit Technologies is a Santa Barbara-based marine-renewable product design studio and laboratory founded in 2010 by Jim and Brent Dehlsen</cite>, developing the Precipitor CDR system alongside Aquantis marine current turbines, Anacapa wave energy generators, and SeaWell desalination buoys. <cite index="15-9">The CO2 Precipitor project pursues atmospheric CDR via mineralization and OAE with durable carbon sequestration at ocean depth</cite>, mounting systems on offshore wind turbines, ships, and platforms. They are a CDR technology developer (supplier) operating at early/R&D scale.
+Ecomerit Technologies is a Santa Barbara-based marine-renewable product design studio and laboratory founded in 2010 by Jim and Brent Dehlsen, developing the Precipitor CDR system alongside Aquantis marine current turbines, Anacapa wave energy generators, and SeaWell desalination buoys. The CO2 Precipitor project pursues atmospheric CDR via mineralization and OAE with durable carbon sequestration at ocean depth, mounting systems on offshore wind turbines, ships, and platforms. They are a CDR technology developer (supplier) operating at early/R&D scale.
 
 ![Ecomerit Technologies website](/screenshots/v1-thumbnails/ecomerit-technologies.jpg)
 

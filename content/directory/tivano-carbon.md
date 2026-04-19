@@ -2,7 +2,7 @@
 title: "Tivano Carbon"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"1-1,1-2\\">Tivano Carbon restores Namibia's savanna rangelands by converting invasive encroacher bush into permanently stored carbon using engineered"
+description: "Tivano Carbon restores Namibia's savanna rangelands by converting invasive encroacher bush into permanently stored carbon using engineered underground burial in"
 url: "/directory/tivano-carbon/"
 pathway: "Biomass Burial"
 liveliness: "🟢 Active"
@@ -18,7 +18,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="1-1,1-2">Tivano Carbon restores Namibia's savanna rangelands by converting invasive encroacher bush into permanently stored carbon using engineered underground burial in sensor-monitored vaults with MRV to produce verified carbon removal credits.</cite> <cite index="2-5">The company collaborates with local farmers and experts from TU Berlin on its carbon vaults and landscape regeneration initiatives.</cite> This is a biomass burial supplier, not BECCS.
+Tivano Carbon restores Namibia's savanna rangelands by converting invasive encroacher bush into permanently stored carbon using engineered underground burial in sensor-monitored vaults with MRV to produce verified carbon removal credits. The company collaborates with local farmers and experts from TU Berlin on its carbon vaults and landscape regeneration initiatives. This is a biomass burial supplier, not BECCS.
 
 ![Tivano Carbon website](/screenshots/v1-thumbnails/tivano-carbon.jpg)
 

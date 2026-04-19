@@ -2,7 +2,7 @@
 title: "Anew Climate"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"8-1\\">Anew Climate was formed through the combination of Element Markets and Bluesource</cite> and is a Houston-based carbon project developer and c"
+description: "Anew Climate was formed through the combination of Element Markets and Bluesource and is a Houston-based carbon project developer and credit marketer majority-o"
 url: "/directory/anew-climate/"
 pathway: "Afforestation"
 liveliness: "🟢 Active"
@@ -21,7 +21,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="8-1">Anew Climate was formed through the combination of Element Markets and Bluesource</cite> and is a Houston-based carbon project developer and credit marketer majority-owned by TPG Rise. <cite index="2-3,2-10">They were the first to develop and transact improved forest management (IFM) carbon dioxide removal credits, with verified credits spanning IFM, grasslands, wildfire mitigation, climate-smart agriculture, and afforestation/reforestation.</cite> They also market BECCS credits from Summit Carbon Solutions' bioethanol CCS project and have signed major offtake deals with Microsoft.
+Anew Climate was formed through the combination of Element Markets and Bluesource and is a Houston-based carbon project developer and credit marketer majority-owned by TPG Rise. They were the first to develop and transact improved forest management (IFM) carbon dioxide removal credits, with verified credits spanning IFM, grasslands, wildfire mitigation, climate-smart agriculture, and afforestation/reforestation. They also market BECCS credits from Summit Carbon Solutions' bioethanol CCS project and have signed major offtake deals with Microsoft.
 
 ![Anew Climate website](/screenshots/v1-thumbnails/anew-climate.jpg)
 

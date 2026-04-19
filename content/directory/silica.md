@@ -2,7 +2,7 @@
 title: "Silica"
 layout: "single"
 type: "directory"
-description: "No search results directly refer to 'Silica' as a CDR company. The provided search results discuss 'Silicate' (a different company) or the general method of 'si"
+description: "Silica is an enhanced rock weathering (ERW) project developer based in Mexico, focused on removing CO2 by spreading fine volcanic silicate rocks on agricultural"
 url: "/directory/silica/"
 pathway: "Enhanced Weathering"
 liveliness: "🟡 Moderate"
@@ -12,19 +12,20 @@ liveliness: "🟡 Moderate"
 **Method:** Enhanced Rock Weathering
 **Country:** Mexico
 **Website:** [https://silica.earth/](https://silica.earth/)
-**Status:** 🟡 Moderate (score: 60/100)
+**Status:** 🟡 Moderate (score: 70/100)
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-No search results directly refer to 'Silica' as a CDR company. The provided search results discuss 'Silicate' (a different company) or the general method of 'silicate weathering' and 'enhanced rock weathering'.
+Silica is an enhanced rock weathering (ERW) project developer based in Mexico, focused on removing CO2 by spreading fine volcanic silicate rocks on agricultural fields, starting with Mexican sugarcane regions. The company generates carbon credits while aiming to regenerate soils, boost crop yields, and improve farmer livelihoods in Latin America.
 
 ![Silica website](/screenshots/v1-thumbnails/silica.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟡 Moderate ([source](https://silica.earth))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 ---

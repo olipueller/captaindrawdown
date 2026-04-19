@@ -2,7 +2,7 @@
 title: "Partanna"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"7-9,7-10,7-11,7-12\\">Partanna Global is an advanced materials company co-founded by Rick Fox that has developed a sustainable alternative to Portlan"
+description: "Partanna Global is an advanced materials company co-founded by Rick Fox that has developed a sustainable alternative to Portland cement, eliminating the clinker"
 url: "/directory/partanna/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
@@ -18,7 +18,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="7-9,7-10,7-11,7-12">Partanna Global is an advanced materials company co-founded by Rick Fox that has developed a sustainable alternative to Portland cement, eliminating the clinkering process while permanently removing CO₂ from the atmosphere.</cite> <cite index="8-7">Their concrete substitute uses upcycled brine and steel slag that, when mixed, generate compounds that capture carbon dioxide.</cite> The company has a Verra-registered project and is expanding via partnerships with ADIO and Exeed Industries in the UAE.
+Partanna Global is an advanced materials company co-founded by Rick Fox that has developed a sustainable alternative to Portland cement, eliminating the clinkering process while permanently removing CO₂ from the atmosphere. Their concrete substitute uses upcycled brine and steel slag that, when mixed, generate compounds that capture carbon dioxide. The company has a Verra-registered project and is expanding via partnerships with ADIO and Exeed Industries in the UAE.
 
 ![Partanna website](/screenshots/v1-thumbnails/partanna.jpg)
 

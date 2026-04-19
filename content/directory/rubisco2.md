@@ -2,7 +2,7 @@
 title: "RubisCO2"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"13-1,13-2\\">RubisCO2 is an early-stage startup founded by Pablo Navarro Maldonado, who paused his studies to focus on the company, which leverages a"
+description: "RubisCO2 is an early-stage startup founded by Pablo Navarro Maldonado, who paused his studies to focus on the company, which leverages algae blooms caused by cl"
 url: "/directory/rubisco2/"
 pathway: "Biochar"
 liveliness: "🟠 Suspect"
@@ -19,7 +19,7 @@ liveliness: "🟠 Suspect"
 
 ## About
 
-<cite index="13-1,13-2">RubisCO2 is an early-stage startup founded by Pablo Navarro Maldonado, who paused his studies to focus on the company, which leverages algae blooms caused by climate change to decarbonize construction.</cite> <cite index="1-8,1-9,1-10,1-11">The team developed prototype pyrolysis reactors in Mexico, upscaled via sponsorships and grants, and planned to transport a larger self-sustaining pyrolysis system to the Caribbean for Sargassum testing.</cite> <cite index="13-5">The company is a small team of about three based in Guadalajara, Mexico, with additional German engineers.</cite>
+RubisCO2 is an early-stage startup founded by Pablo Navarro Maldonado, who paused his studies to focus on the company, which leverages algae blooms caused by climate change to decarbonize construction. The team developed prototype pyrolysis reactors in Mexico, upscaled via sponsorships and grants, and planned to transport a larger self-sustaining pyrolysis system to the Caribbean for Sargassum testing. The company is a small team of about three based in Guadalajara, Mexico, with additional German engineers.
 
 ![RubisCO2 website](/screenshots/v1-thumbnails/rubisco2.jpg)
 

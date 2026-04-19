@@ -2,13 +2,14 @@
 title: "LowCarbon"
 layout: "single"
 type: "directory"
-description: "LowCarbon is a South Korean company focused on Direct Air Capture (DAC) technology to remove carbon dioxide from the atmosphere. They are actively involved in p"
+description: "LowCarbon is a South Korean climate-tech company founded in 2016 and based in Gangjin, Jeollanam-do, developing DAC and CCUS technologies. Its Zero C DAC produc"
 url: "/directory/lowcarbon/"
 pathway: "DAC"
 liveliness: "🟢 Active"
 ---
 
 **Pathway:** DAC
+**Secondary pathways:** Mineralization
 **Method:** DAC (Other/Undisclosed)
 **Country:** South Korea
 **Website:** [https://www.lowcarbon.co.kr/en/](https://www.lowcarbon.co.kr/en/)
@@ -20,13 +21,14 @@ liveliness: "🟢 Active"
 
 ## About
 
-LowCarbon is a South Korean company focused on Direct Air Capture (DAC) technology to remove carbon dioxide from the atmosphere. They are actively involved in partnerships and technological advancements in climate tech.
+LowCarbon is a South Korean climate-tech company founded in 2016 and based in Gangjin, Jeollanam-do, developing DAC and CCUS technologies. Its Zero C DAC product captures atmospheric CO2 and its KLC catalyst converts it into carbonate minerals; the company has also signed a DACCS supply contract with Space Florida and an MOA with the Florida state government for a clean hydrogen hub. It is a member of the DAC Coalition and remains operationally active as of 2025.
 
 ![LowCarbon website](/screenshots/v1-thumbnails/lowcarbon.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://daccoalition.org/dac-company-members-directory/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/%eb%a1%9c%ec%9a%b0%ec%b9%b4%eb%b3%b8/)

@@ -2,17 +2,17 @@
 title: "Carbon America"
 layout: "single"
 type: "directory"
-description: "Carbon America develops carbon capture and sequestration projects, delivering the entire CO₂ capture-transport-storage value chain, and is actively hiring for v"
+description: "Carbon America is a Colorado-based vertically integrated CCS developer focused on capturing biogenic CO2 from ethanol plants (Yuma, Sterling, Bridgeport) and se"
 url: "/directory/carbon-america/"
 pathway: "BECCS"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** BECCS
 **Method:** BECCS
 **Country:** United States
 **Website:** [https://www.carbonamerica.com/](https://www.carbonamerica.com/)
-**Status:** 🟢 Active (score: 70/100)
+**Status:** 🟡 Moderate (score: 55/100)
 **Employees:** ~9 (-68% YoY)
 **LinkedIn Followers:** 6,703
 **CDR Focus:** supplier
@@ -20,11 +20,12 @@ liveliness: "🟢 Active"
 
 ## About
 
-Carbon America develops carbon capture and sequestration projects, delivering the entire CO₂ capture-transport-storage value chain, and is actively hiring for various roles.
+Carbon America is a Colorado-based vertically integrated CCS developer focused on capturing biogenic CO2 from ethanol plants (Yuma, Sterling, Bridgeport) and sequestering it in Class VI geological storage wells. It is also developing a proprietary cryogenic point-source capture technology (FrostCC) for industrial emitters. The ethanol CCS projects qualify as BECCS removal; the FrostCC technology applied to fossil point sources would be emissions-avoidance rather than CDR.
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟡 Moderate ([source](https://www.carbonamerica.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/carbonamerica/)

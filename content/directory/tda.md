@@ -2,7 +2,7 @@
 title: "TDA"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"13-3\\">TDA Research, under DOE contract DE-FE0032260, is developing novel 3D-printed sorbent structures that can capture carbon dioxide from air via"
+description: "TDA Research, under DOE contract DE-FE0032260, is developing novel 3D-printed sorbent structures that can capture carbon dioxide from air via a rapid thermal sw"
 url: "/directory/tda/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -19,7 +19,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="13-3">TDA Research, under DOE contract DE-FE0032260, is developing novel 3D-printed sorbent structures that can capture carbon dioxide from air via a rapid thermal swing adsorption (RTSA) process.</cite> <cite index="6-2,6-3">The company was also awarded a DOE contract valued at up to $49 million for a pilot project to evaluate a sorbent-based CO2 capture system after combustion at the Wyoming Integrated Test Center, in collaboration with SLB.</cite> TDA is a contract R&D firm based in Wheat Ridge, CO, with DAC being one of several R&D focus areas.
+TDA Research, under DOE contract DE-FE0032260, is developing novel 3D-printed sorbent structures that can capture carbon dioxide from air via a rapid thermal swing adsorption (RTSA) process. The company was also awarded a DOE contract valued at up to $49 million for a pilot project to evaluate a sorbent-based CO2 capture system after combustion at the Wyoming Integrated Test Center, in collaboration with SLB. TDA is a contract R&D firm based in Wheat Ridge, CO, with DAC being one of several R&D focus areas.
 
 ![TDA website](/screenshots/v1-thumbnails/tda.jpg)
 

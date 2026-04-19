@@ -2,30 +2,31 @@
 title: "CarboHeroes"
 layout: "single"
 type: "directory"
-description: "CarboHeroes is a Climate Technology Product Manufacturing company that scales biochar to remove 500 million tons of CO2 from the atmosphere by 2050, aiming for "
+description: "CarboHeroes GmbH is a Berlin-based biochar developer establishing a circular economy based on organic waste and pyrolysis, aiming to remove 500 million tons of"
 url: "/directory/carboheroes/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟠 Suspect"
 ---
 
 **Pathway:** Biochar
 **Method:** Biochar
 **Country:** Germany
 **Website:** [https://www.carboheroes.com/](https://www.carboheroes.com/)
-**Status:** 🟢 Active (score: 70/100)
+**Status:** 🟠 Suspect (score: 40/100)
 **LinkedIn Followers:** 17
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-CarboHeroes is a Climate Technology Product Manufacturing company that scales biochar to remove 500 million tons of CO2 from the atmosphere by 2050, aiming for a circular economy.
+CarboHeroes GmbH is a Berlin-based biochar developer establishing a circular economy based on organic waste and pyrolysis, aiming to remove 500 million tons of CO2 by 2050. Starting with pilot projects in Costa Rica, they aim to build a global enterprise with local partners, focused on Latin America. Listed on Puro.earth as a biochar supplier in early development with no CORCs currently in stock.
 
 ![CarboHeroes website](/screenshots/v1-thumbnails/carboheroes.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://www.carboheroes.com))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/carboheroes/)

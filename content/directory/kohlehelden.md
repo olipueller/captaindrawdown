@@ -2,7 +2,7 @@
 title: "KohleHelden"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"1-1\\">KohleHelden GmbH & Co. KG is a manufacturing company of biochar located in Zierenberg, Germany.</cite> <cite index=\\"6-1\\">They produce EBC- and"
+description: "KohleHelden GmbH & Co. KG is a manufacturing company of biochar located in Zierenberg, Germany. They produce EBC- and GMP+ certified plant charcoal and feed cha"
 url: "/directory/kohlehelden/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -18,7 +18,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="1-1">KohleHelden GmbH & Co. KG is a manufacturing company of biochar located in Zierenberg, Germany.</cite> <cite index="6-1">They produce EBC- and GMP+ certified plant charcoal and feed charcoal (Pflanzenkohle and Futterkohle), sourced regionally from North Hesse near Kassel.</cite> Products are actively sold via their website and Amazon, providing a permanent biochar carbon sink for agricultural applications.
+KohleHelden GmbH & Co. KG is a manufacturing company of biochar located in Zierenberg, Germany. They produce EBC- and GMP+ certified plant charcoal and feed charcoal (Pflanzenkohle and Futterkohle), sourced regionally from North Hesse near Kassel. Products are actively sold via their website and Amazon, providing a permanent biochar carbon sink for agricultural applications.
 
 ![KohleHelden website](/screenshots/v1-thumbnails/kohlehelden.jpg)
 

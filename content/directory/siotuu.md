@@ -2,7 +2,7 @@
 title: "SIOTUU"
 layout: "single"
 type: "directory"
-description: "SIOTUU Group is an Austrian company that produces high-quality biochar from residual wood biomass, developing customized biochar solutions for CO₂-sequestration"
+description: "SIOTUU Group is an Austrian biochar producer headquartered in Landeck/Fließ that converts residual wood from the Austrian Alps into biochar via Syncraft pyrolys"
 url: "/directory/siotuu/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -12,19 +12,20 @@ liveliness: "🟢 Active"
 **Method:** Biochar
 **Country:** Austria
 **Website:** [https://siotuu.com/en/home-e/](https://siotuu.com/en/home-e/)
-**Status:** 🟢 Active (score: 95/100)
+**Status:** 🟢 Active (score: 75/100)
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-SIOTUU Group is an Austrian company that produces high-quality biochar from residual wood biomass, developing customized biochar solutions for CO₂-sequestration.
+SIOTUU Group is an Austrian biochar producer headquartered in Landeck/Fließ that converts residual wood from the Austrian Alps into biochar via Syncraft pyrolysis technology, generating electricity, heat, and durable carbon removal credits. Products are sold under the Alpenkohle brand across barbecue, agricultural, construction, and industrial/metallurgical segments. Credits have been distributed through platforms such as Klimate.co.
 
 ![SIOTUU website](/screenshots/v1-thumbnails/siotuu.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://siotuu.com/en/home/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 ---

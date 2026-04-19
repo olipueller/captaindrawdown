@@ -2,7 +2,7 @@
 title: "Cler-Verts"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"9-14\\">Cler Verts is a French group established in Occitanie since 2003 that collects, treats and valorizes organic matter for communities and profe"
+description: "Cler Verts is a French group established in Occitanie since 2003 that collects, treats and valorizes organic matter for communities and professionals, with acti"
 url: "/directory/cler-verts/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -20,7 +20,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="9-14">Cler Verts is a French group established in Occitanie since 2003 that collects, treats and valorizes organic matter for communities and professionals, with activities including wood recycling, biomass fuels for boilers, green waste composting, biodéchets valorization, methanization/renewable energy, and biochar and organic soil amendment production.</cite> <cite index="9-10">The company claims to produce the first CE-certified biochar in France.</cite> <cite index="3-11">A new pyrolyzer installation was planned for August 2024.</cite>
+Cler Verts is a French group established in Occitanie since 2003 that collects, treats and valorizes organic matter for communities and professionals, with activities including wood recycling, biomass fuels for boilers, green waste composting, biodéchets valorization, methanization/renewable energy, and biochar and organic soil amendment production. The company claims to produce the first CE-certified biochar in France. A new pyrolyzer installation was planned for August 2024.
 
 ![Cler-Verts website](/screenshots/v1-thumbnails/cler-verts.jpg)
 

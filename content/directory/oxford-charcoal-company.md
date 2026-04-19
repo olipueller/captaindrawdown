@@ -2,7 +2,7 @@
 title: "Oxford Charcoal Company"
 layout: "single"
 type: "directory"
-description: "Oxford Charcoal Company manufactures and sells biochar, a soil enhancer produced from hardwoods as a byproduct of their clean charcoal-making process. They offe"
+description: "Oxford Charcoal Company is a UK-based producer of sustainable lumpwood barbecue charcoal that also manufactures biochar as a byproduct of its low-emission charc"
 url: "/directory/oxford-charcoal-company/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -12,17 +12,18 @@ liveliness: "🟡 Moderate"
 **Method:** Biochar
 **Country:** United Kingdom
 **Website:** [https://www.oxfordcharcoal.co.uk/](https://www.oxfordcharcoal.co.uk/)
-**Status:** 🟡 Moderate (score: 60/100)
+**Status:** 🟡 Moderate (score: 55/100)
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Oxford Charcoal Company manufactures and sells biochar, a soil enhancer produced from hardwoods as a byproduct of their clean charcoal-making process. They offer biochar products for agriculture, gardening, and environmental restoration, contributing to carbon dioxide removal.
+Oxford Charcoal Company is a UK-based producer of sustainable lumpwood barbecue charcoal that also manufactures biochar as a byproduct of its low-emission charcoal kilns. The biochar is sold primarily to gardeners and horticultural users rather than into carbon credit registries, so CDR is a secondary revenue line alongside the core BBQ charcoal business.
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.oxfordcharcoal.co.uk/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 ---

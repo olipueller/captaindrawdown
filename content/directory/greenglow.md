@@ -2,7 +2,7 @@
 title: "GreenGlow"
 layout: "single"
 type: "directory"
-description: "GreenGlow is a Southeast Asian BiCRS company that uses advanced pyrolysis technology to convert agricultural waste and forestry residues into biochar, a stable "
+description: "GreenGlow is a Malaysia-based biochar producer converting Southeast Asian biomass waste into biochar, renewable energy, and carbon removal credits. In September"
 url: "/directory/greenglow/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -12,20 +12,21 @@ liveliness: "🟢 Active"
 **Method:** Biochar
 **Country:** Malaysia
 **Website:** [https://greenglow.earth/](https://greenglow.earth/)
-**Status:** 🟢 Active (score: 95/100)
+**Status:** 🟢 Active (score: 85/100)
 **Employees:** ~4
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-GreenGlow is a Southeast Asian BiCRS company that uses advanced pyrolysis technology to convert agricultural waste and forestry residues into biochar, a stable form of carbon for CO2 removal.
+GreenGlow is a Malaysia-based biochar producer converting Southeast Asian biomass waste into biochar, renewable energy, and carbon removal credits. In September 2025 it signed a 50,000+ ton CORC offtake agreement with Swiss CDR financier Altitude, verified through Puro.earth.
 
 ![GreenGlow website](/screenshots/v1-thumbnails/greenglow.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.altitudecarbon.com/news/corcs-greenglow))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/greenglowasia/)

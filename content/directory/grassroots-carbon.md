@@ -2,7 +2,7 @@
 title: "Grassroots Carbon"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"6-9,6-10,6-11\\">Founded in 2021, Grassroots Carbon is a U.S. company dedicated to measuring, verifying, and rewarding ranchers for storing carbon on"
+description: "Founded in 2021, Grassroots Carbon is a U.S. company dedicated to measuring, verifying, and rewarding ranchers for storing carbon on America's grasslands, now s"
 url: "/directory/grassroots-carbon/"
 pathway: "Afforestation"
 liveliness: "🟢 Active"
@@ -18,7 +18,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="6-9,6-10,6-11">Founded in 2021, Grassroots Carbon is a U.S. company dedicated to measuring, verifying, and rewarding ranchers for storing carbon on America's grasslands, now spanning 2 million acres across 22 states.</cite> They generate soil carbon removal credits through regenerative grazing practices and have delivered credits to buyers including Nestlé, Microsoft, Shopify, and Chevron.
+Founded in 2021, Grassroots Carbon is a U.S. company dedicated to measuring, verifying, and rewarding ranchers for storing carbon on America's grasslands, now spanning 2 million acres across 22 states. They generate soil carbon removal credits through regenerative grazing practices and have delivered credits to buyers including Nestlé, Microsoft, Shopify, and Chevron.
 
 
 ## History

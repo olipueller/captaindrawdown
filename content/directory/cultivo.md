@@ -2,7 +2,7 @@
 title: "Cultivo"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"6-8,6-9,6-10,6-11\\">Cultivo is a platform for developing and operating natural assets, partnering with institutional investors and multinational cor"
+description: "Cultivo is a platform for developing and operating natural assets, partnering with institutional investors and multinational corporations, with a model that gen"
 url: "/directory/cultivo/"
 pathway: "Afforestation"
 liveliness: "🟢 Active"
@@ -20,7 +20,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="6-8,6-9,6-10,6-11">Cultivo is a platform for developing and operating natural assets, partnering with institutional investors and multinational corporations, with a model that generates returns through payments for services, primarily carbon removal, unlocked by land regeneration activities.</cite> They focus heavily on U.S. grasslands but also cover afforestation/reforestation, agroforestry, improved forest management, mangrove restoration, and biochar. <cite index="8-13,8-14,8-15,8-16">Cultivo acquired Kateri, a U.S.-based carbon grasslands project developer, effective December 1, 2025, strengthening its vertically integrated model; combined projects aim to remove over 9 million tonnes CO₂e over 30 years.</cite>
+Cultivo is a platform for developing and operating natural assets, partnering with institutional investors and multinational corporations, with a model that generates returns through payments for services, primarily carbon removal, unlocked by land regeneration activities. They focus heavily on U.S. grasslands but also cover afforestation/reforestation, agroforestry, improved forest management, mangrove restoration, and biochar. Cultivo acquired Kateri, a U.S.-based carbon grasslands project developer, effective December 1, 2025, strengthening its vertically integrated model; combined projects aim to remove over 9 million tonnes CO₂e over 30 years.
 
 ![Cultivo website](/screenshots/v1-thumbnails/cultivo.jpg)
 

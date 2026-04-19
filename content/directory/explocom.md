@@ -2,7 +2,7 @@
 title: "Explocom"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"15-12,15-13\\">Explocom GK SRL is a production company of biochar-based products located in Lupeni Jud-Harghita, Romania, and its products are EBC ce"
+description: "Explocom GK SRL is a production company of biochar-based products located in Lupeni Jud-Harghita, Romania, and its products are EBC certified. The firm is a man"
 url: "/directory/explocom/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -20,7 +20,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="15-12,15-13">Explocom GK SRL is a production company of biochar-based products located in Lupeni Jud-Harghita, Romania, and its products are EBC certified.</cite> <cite index="10-5,10-6,10-7">The firm is a manufacturer of organic chemicals and a producer of charcoal and bulk char, which added wood waste to its production in 2007, and through Innovation Norway financing developed biochar, wood vinegar, wood oil and cellulosic alcohol products.</cite> The company is listed as a biochar supplier on the Puro.earth registry.
+Explocom GK SRL is a production company of biochar-based products located in Lupeni Jud-Harghita, Romania, and its products are EBC certified. The firm is a manufacturer of organic chemicals and a producer of charcoal and bulk char, which added wood waste to its production in 2007, and through Innovation Norway financing developed biochar, wood vinegar, wood oil and cellulosic alcohol products. The company is listed as a biochar supplier on the Puro.earth registry.
 
 ![Explocom website](/screenshots/v1-thumbnails/explocom.jpg)
 

@@ -2,21 +2,28 @@
 title: "Puro.earth"
 layout: "single"
 type: "directory"
-description: "Puro.earth — Biochar company in Unknown"
+description: "Puro.earth is a carbon-crediting platform for durable carbon dioxide removal; via the Puro Standard's methodologies, suppliers that remove CO2 from the atmosphe"
 url: "/directory/puroearth/"
-pathway: "Biochar"
+pathway: "Enabling Tech"
+liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
+**Pathway:** Enabling Tech
 **Method:** Biochar
 **Country:** Unknown
 **Website:** [https://puro.earth](https://puro.earth)
-**CDR Focus:** unclassified
+**Status:** 🟢 Active (score: 95/100)
+**CDR Focus:** ecosystem
 **Evidence signals:** news_mention
+
+## About
+
+Puro.earth is a carbon-crediting platform for durable carbon dioxide removal; via the Puro Standard's methodologies, suppliers that remove CO2 from the atmosphere to durable storages for at least 100 years are certified and issued CORCs into the transparent Puro Registry. It is a Nasdaq-backed standard/registry — part of the CDR ecosystem, not a physical supplier itself.
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://puro.earth/))
 - **2026-04-18** — discovered via: news_feed ([source](https://www.qcintel.com/carbon/article/vcm-project-puro-lists-us-beccs-project-as-future-supplier-62593.html))
 
 ---

@@ -2,7 +2,7 @@
 title: "Blue Flint Ethanol"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"15-3,15-4\\">Blue Flint Ethanol is a wholly owned subsidiary of Harvestone Low Carbon Partners (HLCP) located near Underwood, North Dakota, that gene"
+description: "Blue Flint Ethanol is a wholly owned subsidiary of Harvestone Low Carbon Partners (HLCP) located near Underwood, North Dakota, that generates, captures, and seq"
 url: "/directory/blue-flint-ethanol/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
@@ -20,7 +20,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="15-3,15-4">Blue Flint Ethanol is a wholly owned subsidiary of Harvestone Low Carbon Partners (HLCP) located near Underwood, North Dakota, that generates, captures, and sequesters biogenic CO2, and was the first CCS entity to commence carbon capture operations following the August 2022 passage of the Inflation Reduction Act.</cite> <cite index="9-16,9-17">Using CCS, Blue Flint captures 100% of its CO2 emissions from fermentation, injecting approximately 600 metric tons of CO2 per day permanently stored about one mile below the surface in the Broom Creek formation.</cite> As a CDR-tech operating subsidiary of HLCP, it qualifies as a "division" supplier for the directory.
+Blue Flint Ethanol is a wholly owned subsidiary of Harvestone Low Carbon Partners (HLCP) located near Underwood, North Dakota, that generates, captures, and sequesters biogenic CO2, and was the first CCS entity to commence carbon capture operations following the August 2022 passage of the Inflation Reduction Act. Using CCS, Blue Flint captures 100% of its CO2 emissions from fermentation, injecting approximately 600 metric tons of CO2 per day permanently stored about one mile below the surface in the Broom Creek formation. As a CDR-tech operating subsidiary of HLCP, it qualifies as a "division" supplier for the directory.
 
 ![Blue Flint Ethanol website](/screenshots/v1-thumbnails/blue-flint-ethanol.jpg)
 

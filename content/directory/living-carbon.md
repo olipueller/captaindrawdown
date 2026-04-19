@@ -2,13 +2,13 @@
 title: "Living Carbon"
 layout: "single"
 type: "directory"
-description: "Living Carbon is a biotechnology company that uses genetically enhanced trees to capture and store CO2, focusing on reforestation projects on degraded land to g"
+description: "Founded in 2019, California-based Living Carbon transforms marginal land into high-value environmental assets, with a focus on restoring abandoned mines, degrad"
 url: "/directory/living-carbon/"
-pathway: "Ocean CDR"
+pathway: "Afforestation"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Ocean CDR
+**Pathway:** Afforestation
 **Method:** Ocean-based CDR
 **Country:** United States
 **Website:** [https://www.livingcarbon.com/](https://www.livingcarbon.com/)
@@ -19,7 +19,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Living Carbon is a biotechnology company that uses genetically enhanced trees to capture and store CO2, focusing on reforestation projects on degraded land to generate high-quality carbon removal credits.
+Founded in 2019, California-based Living Carbon transforms marginal land into high-value environmental assets, with a focus on restoring abandoned mines, degraded farmland, and unproductive soils with site-tailored reforestation. The company combines biotech (photosynthesis-enhanced hybrid poplars) with large-scale reforestation of degraded lands, especially former Appalachian coal-mine sites. It is a CDR supplier generating verified reforestation carbon removal credits.
 
 ![Living Carbon website](/screenshots/v1-thumbnails/living-carbon.jpg)
 
@@ -29,6 +29,7 @@ Living Carbon is a biotechnology company that uses genetically enhanced trees to
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.livingcarbon.com/))
 - **2026-04-18** — backfilled from V1
 
 ---

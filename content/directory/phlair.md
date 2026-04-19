@@ -2,7 +2,7 @@
 title: "Phlair"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"3-1,3-3,3-4\\">Founded in 2022 and based in Munich, Germany, Phlair develops hydrolyzer-based Direct Air Capture technology that uses a pH-swing mech"
+description: "Founded in 2022 and based in Munich, Germany, Phlair develops hydrolyzer-based Direct Air Capture technology that uses a pH-swing mechanism for CO2 capture and"
 url: "/directory/phlair/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -19,7 +19,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="3-1,3-3,3-4">Founded in 2022 and based in Munich, Germany, Phlair develops hydrolyzer-based Direct Air Capture technology that uses a pH-swing mechanism for CO2 capture and release, enabling permanent storage or use in CO2-negative chemicals.</cite> <cite index="6-10,6-11,6-12">The company serves buyers including Google, McKinsey, JPMorganChase, Shopify, Stripe, H&M, and Deep Sky, closed a €12M+ seed round in 2024 with a €2.5M EU grant, and announced a $30M offtake agreement in 2025.</cite>
+Founded in 2022 and based in Munich, Germany, Phlair develops hydrolyzer-based Direct Air Capture technology that uses a pH-swing mechanism for CO2 capture and release, enabling permanent storage or use in CO2-negative chemicals. The company serves buyers including Google, McKinsey, JPMorganChase, Shopify, Stripe, H&M, and Deep Sky, closed a €12M+ seed round in 2024 with a €2.5M EU grant, and announced a $30M offtake agreement in 2025.
 
 ![Phlair website](/screenshots/v1-thumbnails/phlair.jpg)
 

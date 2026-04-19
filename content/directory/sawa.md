@@ -2,7 +2,7 @@
 title: "SAWA"
 layout: "single"
 type: "directory"
-description: "SAWA (also known as Sawa EcoSolutions) transforms agricultural residues into high-quality biochar for CO2 removal and soil enhancement. They have opened their f"
+description: "SAWA EcoSolutions (based in Singapore), with Indonesian operating arm Legasi Alam Indonesia, was founded in 2021 and specializes in sustainable agricultural was"
 url: "/directory/sawa/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -12,19 +12,20 @@ liveliness: "🟢 Active"
 **Method:** Biochar
 **Country:** Indonesia
 **Website:** [https://www.sawa.green/](https://www.sawa.green/)
-**Status:** 🟢 Active (score: 75/100)
+**Status:** 🟢 Active (score: 80/100)
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-SAWA (also known as Sawa EcoSolutions) transforms agricultural residues into high-quality biochar for CO2 removal and soil enhancement. They have opened their first commercial biochar factory in Majalengka, West Java, Indonesia.
+SAWA EcoSolutions (based in Singapore), with Indonesian operating arm Legasi Alam Indonesia, was founded in 2021 and specializes in sustainable agricultural waste management in Indonesia. Its first commercial biochar factory opened in Majalengka in April 2024, with expansion plans including franchise sites in Saudi Arabia and Taiwan, backed by an Offset8 Capital carbon-credit financing deal worth approximately $50M over 10 years.
 
 ![SAWA website](/screenshots/v1-thumbnails/sawa.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.sawa.green/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 ---

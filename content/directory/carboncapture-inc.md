@@ -2,7 +2,7 @@
 title: "CarbonCapture Inc."
 layout: "single"
 type: "directory"
-description: "<cite index=\\"5-2,5-3\\">CarbonCapture's DAC systems use solid sorbents that soak up atmospheric CO2 when cooled and release it when heated, capturing CO2 from the"
+description: "CarbonCapture's DAC systems use solid sorbents that soak up atmospheric CO2 when cooled and release it when heated, capturing CO2 from the air and permanently s"
 url: "/directory/carboncapture-inc/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -20,7 +20,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="5-2,5-3">CarbonCapture's DAC systems use solid sorbents that soak up atmospheric CO2 when cooled and release it when heated, capturing CO2 from the air and permanently storing it underground.</cite> Through its Canadian subsidiary True North Carbon, the company is deploying <cite index="1-3">Project Tamarack at Deep Sky Alpha in Alberta, designed to remove up to 2,000 tonnes of CO2 annually</cite>, which <cite index="3-1">achieved "First Capture" on October 22, 2025</cite>.
+CarbonCapture's DAC systems use solid sorbents that soak up atmospheric CO2 when cooled and release it when heated, capturing CO2 from the air and permanently storing it underground. Through its Canadian subsidiary True North Carbon, the company is deploying Project Tamarack at Deep Sky Alpha in Alberta, designed to remove up to 2,000 tonnes of CO2 annually, which achieved "First Capture" on October 22, 2025.
 
 ![CarbonCapture Inc. website](/screenshots/v1-thumbnails/carboncapture-inc.jpg)
 

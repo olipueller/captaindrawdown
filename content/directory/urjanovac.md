@@ -2,7 +2,7 @@
 title: "UrjanovaC"
 layout: "single"
 type: "directory"
-description: "UrjanovaC is a Mumbai-based startup spun out of IIT Bombay's DST-supported National Centre of Excellence in Carbon Capture and Utilization, co-founded by Prof. "
+description: "UrjanovaC is a Mumbai-based startup spun out of IIT Bombay's DST-supported National Centre of Excellence in Carbon Capture and Utilization, co-founded by Prof."
 url: "/directory/urjanovac/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"

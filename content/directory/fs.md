@@ -2,7 +2,7 @@
 title: "FS"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"5-3\\">FS Agrisolutions Indústria de Biocombustíveis Ltda is a joint venture between Summit Brazil Renewables (a subsidiary of Summit Agricultural Gr"
+description: "FS Agrisolutions Indústria de Biocombustíveis Ltda is a joint venture between Summit Brazil Renewables (a subsidiary of Summit Agricultural Group) and Tapajós P"
 url: "/directory/fs/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
@@ -20,7 +20,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="5-3">FS Agrisolutions Indústria de Biocombustíveis Ltda is a joint venture between Summit Brazil Renewables (a subsidiary of Summit Agricultural Group) and Tapajós Participações</cite> and is Brazil's largest corn-based ethanol producer. <cite index="6-5">The BECCS project will prevent the release of approximately 423,000 tons of CO2 into the atmosphere per year from operations in Lucas do Rio Verde</cite>, with <cite index="7-7">construction expected to start once licensing approvals are granted and CO2 injection operations targeted to begin by July 2026</cite>. <cite index="7-4,7-12">FS has signed forward credit sale agreements with Pinheiro Neto Advogados, SLB, and Rubicon Carbon & YvY Capital, with the credits classified as removal credits under the Gold Standard methodology</cite>.
+FS Agrisolutions Indústria de Biocombustíveis Ltda is a joint venture between Summit Brazil Renewables (a subsidiary of Summit Agricultural Group) and Tapajós Participações and is Brazil's largest corn-based ethanol producer. The BECCS project will prevent the release of approximately 423,000 tons of CO2 into the atmosphere per year from operations in Lucas do Rio Verde, with construction expected to start once licensing approvals are granted and CO2 injection operations targeted to begin by July 2026. FS has signed forward credit sale agreements with Pinheiro Neto Advogados, SLB, and Rubicon Carbon & YvY Capital, with the credits classified as removal credits under the Gold Standard methodology.
 
 ![FS website](/screenshots/v1-thumbnails/fs.jpg)
 

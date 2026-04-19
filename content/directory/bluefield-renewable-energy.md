@@ -2,17 +2,17 @@
 title: "Bluefield Renewable Energy"
 layout: "single"
 type: "directory"
-description: "Bluefield Renewable Energy is a Singapore-based company that drives decarbonization efforts by transforming biomass waste into biochar, generating carbon remova"
+description: "Bluefield Renewable Energy is a Singapore-headquartered biochar producer whose operations officially started in 2023. Using proprietary advanced pyrolysis techn"
 url: "/directory/bluefield-renewable-energy/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** Biochar
 **Method:** Biochar
 **Country:** Singapore
 **Website:** [https://bluefieldrenewable.com/](https://bluefieldrenewable.com/)
-**Status:** 🟢 Active (score: 90/100)
+**Status:** 🟡 Moderate (score: 62/100)
 **Employees:** ~2 (-75% YoY)
 **LinkedIn Followers:** 1,366
 **CDR Focus:** supplier
@@ -20,13 +20,14 @@ liveliness: "🟢 Active"
 
 ## About
 
-Bluefield Renewable Energy is a Singapore-based company that drives decarbonization efforts by transforming biomass waste into biochar, generating carbon removal credits, and producing biochar concrete.
+Bluefield Renewable Energy is a Singapore-headquartered biochar producer whose operations officially started in 2023. Using proprietary advanced pyrolysis technology, it converts waste into biochar — a stable, carbon-rich material — with applications including integration into green concrete for lower-embodied-carbon construction. It states it is the sole Asia firm certified by the European Biochar Certificate (EBC) and International Biochar Initiative (IBI), and partners with SembWaste in Singapore to generate carbon removal credits.
 
 ![Bluefield Renewable Energy website](/screenshots/v1-thumbnails/bluefield-renewable-energy.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://bluefieldrenewable.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/bluefieldrenewable/)

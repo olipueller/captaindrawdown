@@ -2,7 +2,7 @@
 title: "Interholco"
 layout: "single"
 type: "directory"
-description: "Interholco AG is a Swiss timber company (founded 1962) that manages 1.16 million hectares of FSC-certified tropical forest in the Republic of Congo via its IFO "
+description: "Interholco AG is a Swiss timber company (founded 1962) that manages 1.16 million hectares of FSC-certified tropical forest in the Republic of Congo via its IFO"
 url: "/directory/interholco/"
 pathway: "Biochar"
 liveliness: "🟢 Active"

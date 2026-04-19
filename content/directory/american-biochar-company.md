@@ -2,7 +2,7 @@
 title: "American BioChar Company"
 layout: "single"
 type: "directory"
-description: "American BioChar Company produces and sells biochar blends in liquid and granular forms, as well as pure biochar, for soil amendment to improve plant health and"
+description: "American BioChar Company manufactures NAKED Char, a pure activated biochar made from 100% recycled Southern Yellow Pine produced through fast pyrolysis at 550-9"
 url: "/directory/american-biochar-company/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -12,18 +12,19 @@ liveliness: "🟢 Active"
 **Method:** Biochar
 **Country:** United States
 **Website:** [https://ambiochar.com/](https://ambiochar.com/)
-**Status:** 🟢 Active (score: 70/100)
+**Status:** 🟢 Active (score: 80/100)
 **LinkedIn Followers:** 2
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-American BioChar Company produces and sells biochar blends in liquid and granular forms, as well as pure biochar, for soil amendment to improve plant health and sequester carbon.
+American BioChar Company manufactures NAKED Char, a pure activated biochar made from 100% recycled Southern Yellow Pine produced through fast pyrolysis at 550-900°C. They produce blended soil amendments combining pure activated biochar with freshwater-sourced Humate, offered in liquid and granular formulations for lawn, agricultural, and arborist applications. Products are OMRI listed and IBI certified, marketed primarily for soil health with carbon sequestration as a co-benefit.
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://ambiochar.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/american-biochar/)

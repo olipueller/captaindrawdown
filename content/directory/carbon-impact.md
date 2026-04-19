@@ -2,7 +2,7 @@
 title: "Carbon Impact"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"2-18,2-19\\">Carbon Impact is a French carbon removal project developer, cofounded by energy experts, that leads the implementation of CO2 capture in"
+description: "Carbon Impact is a French carbon removal project developer, cofounded by energy experts, that leads the implementation of CO2 capture infrastructure in partners"
 url: "/directory/carbon-impact/"
 pathway: "BECCS"
 liveliness: "🟡 Moderate"
@@ -20,7 +20,7 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-<cite index="2-18,2-19">Carbon Impact is a French carbon removal project developer, cofounded by energy experts, that leads the implementation of CO2 capture infrastructure in partnership with local biomethane unit owners.</cite> <cite index="3-6">Together with South Pole and Airfix, the company is launching France's first biogas-based BECCS project near Nancy,</cite> with captured CO2 liquefied on-site and transported to Norway for subsea storage under the North Sea.
+Carbon Impact is a French carbon removal project developer, cofounded by energy experts, that leads the implementation of CO2 capture infrastructure in partnership with local biomethane unit owners. Together with South Pole and Airfix, the company is launching France's first biogas-based BECCS project near Nancy, with captured CO2 liquefied on-site and transported to Norway for subsea storage under the North Sea.
 
 ![Carbon Impact website](/screenshots/v1-thumbnails/carbon-impact.jpg)
 

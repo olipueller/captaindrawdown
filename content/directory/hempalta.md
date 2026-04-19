@@ -2,17 +2,18 @@
 title: "HEMPALTA"
 layout: "single"
 type: "directory"
-description: "HEMPALTA is an agricultural technology company that produces biochar from hemp biomass for soil enhancement and carbon sequestration. The company is also focusi"
+description: "Hempalta Corp. (TSXV: HEMP) is a Calgary-based company that pivoted in 2025 from hemp processing to a nature-based carbon removal program built around industria"
 url: "/directory/hempalta/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
 **Pathway:** Biochar
+**Secondary pathways:** Afforestation, Enabling Tech
 **Method:** Biochar
 **Country:** Canada
 **Website:** [https://www.hempalta.com/](https://www.hempalta.com/)
-**Status:** 🟢 Active (score: 85/100)
+**Status:** 🟢 Active (score: 70/100)
 **Employees:** ~5 (-62% YoY)
 **LinkedIn Followers:** 2,025
 **CDR Focus:** supplier
@@ -20,13 +21,14 @@ liveliness: "🟢 Active"
 
 ## About
 
-HEMPALTA is an agricultural technology company that produces biochar from hemp biomass for soil enhancement and carbon sequestration. The company is also focusing on generating carbon credits through its Hemp Carbon Standard program.
+Hempalta Corp. (TSXV: HEMP) is a Calgary-based company that pivoted in 2025 from hemp processing to a nature-based carbon removal program built around industrial hemp cultivation and biochar application via its wholly owned subsidiary Hemp Carbon Standard (HCS). It also operates a proprietary blockchain-based registry called Trusted Carbon, and sells verified credits via Cloverly and brokers. The company wound down its own hemp/biochar processing plant in September 2025 and now works through a global network of farms to generate credits under ISO 14064-2 and Puro.earth.
 
 ![HEMPALTA website](/screenshots/v1-thumbnails/hempalta.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.cantechletter.com/newswires/hempalta-announces-2-million-private-placement-proposed-share-consolidation-and-expanding-nature-based-carbon-program/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/hemp-alta/)

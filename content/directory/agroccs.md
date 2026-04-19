@@ -2,7 +2,7 @@
 title: "AgroCCS"
 layout: "single"
 type: "directory"
-description: "AgroCCS is a BiCRS company that transforms agricultural waste into biochar using advanced pyrolysis technology to sequester carbon, enhance soil health, and gen"
+description: "AgroCCS B.V. is developing a project in the Varanasi region of Uttar Pradesh, India, that converts agricultural waste (rice husks and straw) into biochar using"
 url: "/directory/agroccs/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -20,13 +20,14 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-AgroCCS is a BiCRS company that transforms agricultural waste into biochar using advanced pyrolysis technology to sequester carbon, enhance soil health, and generate certified CO₂ removal credits.
+AgroCCS B.V. is developing a project in the Varanasi region of Uttar Pradesh, India, that converts agricultural waste (rice husks and straw) into biochar using pyrolysis technology, with the biochar distributed to farmers as a soil amendment. The project's financial model is based on revenue from the sale of carbon credits issued under the Puro.Earth carbon removal standard, and it requires carbon credit financing to operate. The company is headquartered in the Netherlands and operates as a small team (3 employees per Coresignal).
 
 ![AgroCCS website](/screenshots/v1-thumbnails/agroccs.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://agroccs.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/agro-ccs/)

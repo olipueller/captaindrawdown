@@ -2,17 +2,18 @@
 title: "Airbuild"
 layout: "single"
 type: "directory"
-description: "Airbuild is a climate infrastructure company that utilizes microalgae and pyrolysis to clean polluted water and permanently remove carbon by transforming algae "
+description: "Airbuild is a US-based (Troy, NY / San Diego) early-stage climate tech startup founded in 2023 that uses microalgae cultivation integrated with solar panels to"
 url: "/directory/airbuild/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
 **Pathway:** Biochar
+**Secondary pathways:** Ocean CDR
 **Method:** Biochar
 **Country:** United States
 **Website:** [https://www.airbuildinc.com/](https://www.airbuildinc.com/)
-**Status:** 🟢 Active (score: 80/100)
+**Status:** 🟢 Active (score: 75/100)
 **Employees:** ~24 (+300% YoY)
 **LinkedIn Followers:** 2,749
 **CDR Focus:** supplier
@@ -20,13 +21,14 @@ liveliness: "🟢 Active"
 
 ## About
 
-Airbuild is a climate infrastructure company that utilizes microalgae and pyrolysis to clean polluted water and permanently remove carbon by transforming algae biomass and organic waste into biochar.
+Airbuild is a US-based (Troy, NY / San Diego) early-stage climate tech startup founded in 2023 that uses microalgae cultivation integrated with solar panels to clean wastewater and capture CO2, then converts the algal biomass via pyrolysis into biochar. The company is pre-commercial, advancing its first deployment on a 37-acre site in Green River, Utah and pitching similar projects to other rural municipalities.
 
 ![Airbuild website](/screenshots/v1-thumbnails/airbuild.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.airbuildinc.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/airbuild/)

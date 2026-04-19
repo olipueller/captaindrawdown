@@ -2,7 +2,7 @@
 title: "Vycarb"
 layout: "single"
 type: "directory"
-description: "Brooklyn-based climate tech startup founded in 2022 by Dr. Garrett Boudinot that deploys modular autonomous OAE systems to permanently store CO2 as bicarbonate "
+description: "Brooklyn-based climate tech startup founded in 2022 by Dr. Garrett Boudinot that deploys modular autonomous OAE systems to permanently store CO2 as bicarbonate"
 url: "/directory/vycarb/"
 pathway: "Ocean CDR"
 liveliness: "🟢 Active"

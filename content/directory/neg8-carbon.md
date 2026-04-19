@@ -2,7 +2,7 @@
 title: "NEG8 Carbon"
 layout: "single"
 type: "directory"
-description: "NEG8 Carbon is an Irish company that develops and utilizes modular solid sorbent-based Direct Air Capture (DAC) technology to remove CO2 from the atmosphere. Th"
+description: "NEG8 Carbon is a Waterford, Ireland-based Direct Air Capture company that develops proprietary Electrostatic DAC technology using thin-layer sorbent systems. Th"
 url: "/directory/neg8-carbon/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -18,13 +18,14 @@ liveliness: "🟢 Active"
 
 ## About
 
-NEG8 Carbon is an Irish company that develops and utilizes modular solid sorbent-based Direct Air Capture (DAC) technology to remove CO2 from the atmosphere. They aim to capture and store CO2 permanently or for reuse.
+NEG8 Carbon is a Waterford, Ireland-based Direct Air Capture company that develops proprietary Electrostatic DAC technology using thin-layer sorbent systems. The company built Ireland's first DAC prototype (1.2 tpa) and is advancing to a 50 tpa full-scale module in 2026 via a partnership with Prochem Engineering.
 
 ![NEG8 Carbon website](/screenshots/v1-thumbnails/neg8-carbon.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://neg8carbon.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 ---

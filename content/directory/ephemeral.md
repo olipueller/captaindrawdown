@@ -2,7 +2,7 @@
 title: "Ephemeral"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"13-2,13-3\\">Ephemeral Carbon is an unfunded company based in Santa Clara, United States, founded in 2023 by Josh Perfetto, operating as a provider o"
+description: "Ephemeral Carbon is an unfunded company based in Santa Clara, United States, founded in 2023 by Josh Perfetto, operating as a provider of carbon removal solutio"
 url: "/directory/ephemeral/"
 pathway: "Ocean CDR"
 liveliness: "🟡 Moderate"
@@ -21,7 +21,7 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-<cite index="13-2,13-3">Ephemeral Carbon is an unfunded company based in Santa Clara, United States, founded in 2023 by Josh Perfetto, operating as a provider of carbon removal solutions.</cite> <cite index="15-2,15-3">The company specializes in the permanent removal of CO2 through Oceanic Enhanced Weathering, grinding alkaline rock into sand which is then deployed in ocean waters to neutralize acidity and restore marine ecosystems.</cite> It is a pre-revenue, early-stage OAE supplier focused on field trials and community engagement.
+Ephemeral Carbon is an unfunded company based in Santa Clara, United States, founded in 2023 by Josh Perfetto, operating as a provider of carbon removal solutions. The company specializes in the permanent removal of CO2 through Oceanic Enhanced Weathering, grinding alkaline rock into sand which is then deployed in ocean waters to neutralize acidity and restore marine ecosystems. It is a pre-revenue, early-stage OAE supplier focused on field trials and community engagement.
 
 ![Ephemeral website](/screenshots/v1-thumbnails/ephemeral.jpg)
 

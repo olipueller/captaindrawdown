@@ -2,7 +2,7 @@
 title: "Andes"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"10-2\\">Andes is a carbon removal company focused on the generation of inorganic carbon in agricultural soils</cite>, headquartered in Alameda, CA. <"
+description: "Andes is a carbon removal company focused on the generation of inorganic carbon in agricultural soils, headquartered in Alameda, CA. Andes has partnered with Go"
 url: "/directory/andes/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
@@ -21,7 +21,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="10-2">Andes is a carbon removal company focused on the generation of inorganic carbon in agricultural soils</cite>, headquartered in Alameda, CA. <cite index="3-9">Andes has partnered with Gold Standard to release the world's first CDR methodology based on microbial carbon dioxide mineralization in agricultural fields.</cite> <cite index="14-12">The company has raised $38M to date</cite> and deploys microbes across tens of thousands of acres of Midwestern US farmland.
+Andes is a carbon removal company focused on the generation of inorganic carbon in agricultural soils, headquartered in Alameda, CA. Andes has partnered with Gold Standard to release the world's first CDR methodology based on microbial carbon dioxide mineralization in agricultural fields. The company has raised $38M to date and deploys microbes across tens of thousands of acres of Midwestern US farmland.
 
 ![Andes website](/screenshots/v1-thumbnails/andes.jpg)
 

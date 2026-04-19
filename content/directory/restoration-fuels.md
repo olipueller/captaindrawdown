@@ -2,7 +2,7 @@
 title: "Restoration Fuels"
 layout: "single"
 type: "directory"
-description: "Restoration Fuels was a biochar production facility in John Day, Oregon, operated as a subsidiary of the U.S. Endowment for Forestry and Communities. The plant "
+description: "Restoration Fuels was a biochar production facility in John Day, Oregon, operated as a subsidiary of the U.S. Endowment for Forestry and Communities. The plant"
 url: "/directory/restoration-fuels/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"

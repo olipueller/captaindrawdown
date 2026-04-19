@@ -2,29 +2,31 @@
 title: "Rockburst Technologies"
 layout: "single"
 type: "directory"
-description: "Rockburst Technologies utilizes proprietary CoreBurst™ technology, which employs CO₂ to pulverize rocks from within, offering an energy-efficient alternative to"
+description: "Rockburst Technologies is a Vancouver-based cleantech startup developing CoreBurst™, a transcritical CO₂ pulverization technology that fractures rock from withi"
 url: "/directory/rockburst-technologies/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
 ---
 
 **Pathway:** Mineralization
+**Secondary pathways:** Enabling Tech
 **Method:** Mineralization (Other)
 **Country:** Canada
 **Website:** [https://www.rockburst.tech/](https://www.rockburst.tech/)
-**Status:** 🟢 Active (score: 75/100)
+**Status:** 🟢 Active (score: 85/100)
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Rockburst Technologies utilizes proprietary CoreBurst™ technology, which employs CO₂ to pulverize rocks from within, offering an energy-efficient alternative to traditional crushing methods. This technology aims to reduce energy use in mineral extraction and create virtuous GHG emission reduction loops by using CO2 flue gas from industrial processes.
+Rockburst Technologies is a Vancouver-based cleantech startup developing CoreBurst™, a transcritical CO₂ pulverization technology that fractures rock from within using supercritical CO₂, cutting comminution energy by ~50% while mineralizing CO₂ into mine tailings (reportedly ~160 kg CO₂ per tonne of nickel ore). The company is at TRL 5, raising funds for a first pilot targeted for 2027, and has received non-dilutive funding from NorthX, Natural Resources Canada, Innovate BC, and others.
 
 ![Rockburst Technologies website](/screenshots/v1-thumbnails/rockburst-technologies.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.rockburst.tech/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 ---

@@ -2,7 +2,7 @@
 title: "Cquestr8"
 layout: "single"
 type: "directory"
-description: "Cquestr8 is a UK-based startup (Durham) developing a reactor-based accelerated mineral carbonation process using magnesium-rich silicates to sequester CO2 from "
+description: "Cquestr8 is a UK-based startup (Durham) developing a reactor-based accelerated mineral carbonation process using magnesium-rich silicates to sequester CO2 from"
 url: "/directory/cquestr8/"
 pathway: "Mineralization"
 liveliness: "🟠 Suspect"

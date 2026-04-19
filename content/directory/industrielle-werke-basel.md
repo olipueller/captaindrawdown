@@ -2,7 +2,7 @@
 title: "Industrielle Werke Basel"
 layout: "single"
 type: "directory"
-description: "Industrielle Werke Basel is a Swiss energy, water, and telecommunications service provider that produces biochar from organic waste, such as sawdust, wood chips"
+description: "IWB (Industrielle Werke Basel) is the municipal utility of the Swiss canton of Basel-City, providing electricity, natural gas, district heat, drinking water, an"
 url: "/directory/industrielle-werke-basel/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -12,21 +12,22 @@ liveliness: "🟢 Active"
 **Method:** Biochar
 **Country:** Switzerland
 **Website:** [https://biochar-zero.com/company/iwb-industrielle-werke-basel/](https://biochar-zero.com/company/iwb-industrielle-werke-basel/)
-**Status:** 🟢 Active (score: 90/100)
+**Status:** 🟢 Active (score: 85/100)
 **Employees:** ~2 (-33% YoY)
 **LinkedIn Followers:** 4,479
-**CDR Focus:** supplier
+**CDR Focus:** division
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Industrielle Werke Basel is a Swiss energy, water, and telecommunications service provider that produces biochar from organic waste, such as sawdust, wood chips, and Christmas trees, to remove CO2 from the atmosphere.
+IWB (Industrielle Werke Basel) is the municipal utility of the Swiss canton of Basel-City, providing electricity, natural gas, district heat, drinking water, and telecommunications. Within the utility, IWB operates a PYREG pyrolysis plant that carbonises green waste into biochar (~550 t/year) sold to farmers and private customers, and has piloted biochar-infused "CO2-negative" asphalt. CDR is a flagship sustainability initiative but a small part of the utility's overall business.
 
 ![Industrielle Werke Basel website](/screenshots/v1-thumbnails/industrielle-werke-basel.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://pyreg.com/flagship-project-climate-neutral-district-heating-in-basel/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/biochar-zero/)

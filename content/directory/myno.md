@@ -2,7 +2,7 @@
 title: "MYNO"
 layout: "single"
 type: "directory"
-description: "MYNO Carbon is a Washington-based biochar producer founded in 2020 that planned a large-scale Carbon Removal Facility in Port Angeles, WA using forest residual "
+description: "MYNO Carbon is a Washington-based biochar producer founded in 2020 that planned a large-scale Carbon Removal Facility in Port Angeles, WA using forest residual"
 url: "/directory/myno/"
 pathway: "Biochar"
 liveliness: "🟠 Suspect"

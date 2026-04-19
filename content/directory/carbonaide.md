@@ -2,7 +2,7 @@
 title: "Carbonaide"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"6-3\\">Carbonaide is a Finnish spin-out from VTT Technical Research Centre that enables manufacturing of carbon-negative concrete.</cite> <cite index"
+description: "Carbonaide is a Finnish spin-out from VTT Technical Research Centre that enables manufacturing of carbon-negative concrete. It uses ex-situ mineralization based"
 url: "/directory/carbonaide/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
@@ -19,7 +19,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="6-3">Carbonaide is a Finnish spin-out from VTT Technical Research Centre that enables manufacturing of carbon-negative concrete.</cite> <cite index="1-8,1-9,1-10">It uses ex-situ mineralization based on carbonation, where calcium ions from cement react with biogenic CO₂ during curing to form stable carbonate minerals for permanent storage.</cite> <cite index="1-32">Carbon removals are certified by Isometric, enabling verified durable carbon removal credits.</cite>
+Carbonaide is a Finnish spin-out from VTT Technical Research Centre that enables manufacturing of carbon-negative concrete. It uses ex-situ mineralization based on carbonation, where calcium ions from cement react with biogenic CO₂ during curing to form stable carbonate minerals for permanent storage. Carbon removals are certified by Isometric, enabling verified durable carbon removal credits.
 
 ![Carbonaide website](/screenshots/v1-thumbnails/carbonaide.jpg)
 

@@ -2,7 +2,7 @@
 title: "bionero"
 layout: "single"
 type: "directory"
-description: "bionero GmbH is a small biochar producer based in Thurnau, Bavaria (Germany), founded in 2018. They carbonize organic residues using PYREG pyrolysis systems to "
+description: "bionero GmbH is a small biochar producer based in Thurnau, Bavaria (Germany), founded in 2018. They carbonize organic residues using PYREG pyrolysis systems to"
 url: "/directory/bionero/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"

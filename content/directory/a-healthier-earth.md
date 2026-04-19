@@ -2,7 +2,7 @@
 title: "A Healthier Earth"
 layout: "single"
 type: "directory"
-description: "A Healthier Earth (AHE) is a UK climate-tech subsidiary of Pure Data Centres Group (Pure DC) that develops and operates industrial-scale biochar carbon removal."
+description: "A Healthier Earth (AHE) is the UK climate-tech R&D subsidiary of Pure Data Centres Group (Pure DC) operating the PureBiochar facility in Royal Wootton Bassett,"
 url: "/directory/a-healthier-earth/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-A Healthier Earth (AHE) is a UK climate-tech subsidiary of Pure Data Centres Group (Pure DC) that develops and operates industrial-scale biochar carbon removal. Its £24M PureBiochar facility in Royal Wootton Bassett, Wiltshire — billed as the UK's largest biochar plant — uses PYREG PX6000/PX1500/P500 pyrolysis systems and is designed to produce up to 11,500 tonnes of biochar and remove up to 18,500 tonnes of CO2 annually. Phase 1 commissioning began in November 2025 with production slated to start the same month.
+A Healthier Earth (AHE) is the UK climate-tech R&D subsidiary of Pure Data Centres Group (Pure DC) operating the PureBiochar facility in Royal Wootton Bassett, Wiltshire — billed as the UK's largest biochar plant. The £24M site began phased biochar production in November 2025 and at full capacity is designed to produce ~11,500 tonnes of biochar per year, removing up to 18,500 tonnes of CO2, with credits supplied partly to Pure DC's hyperscale data-centre customers.
 
 ![A Healthier Earth website](/screenshots/v1-thumbnails/a-healthier-earth.jpg)
 
@@ -32,6 +32,7 @@ A Healthier Earth (AHE) is a UK climate-tech subsidiary of Pure Data Centres Gro
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://www.datacenterdynamics.com/en/news/pure-dc-commits-24m-to-build-uks-largest-biochar-facility-in-wiltshire/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://www.datacenterdynamics.com/en/news/pure-dc-commits-24m-to-build-uks-largest-biochar-facility-in-wiltshire/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://carbonherald.com/uk-largest-biochar-carbon-removal-plant-wiltshire/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://carbonherald.com/uk-largest-biochar-carbon-removal-plant-wiltshire/))

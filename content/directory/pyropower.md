@@ -2,7 +2,7 @@
 title: "pyropower"
 layout: "single"
 type: "directory"
-description: "pyropower GmbH is a German cleantech engineering firm based in Cottbus that develops decentralized pyrolysis combined heat and power systems producing biochar, "
+description: "pyropower GmbH is a German cleantech engineering firm based in Cottbus that develops decentralized pyrolysis combined heat and power systems producing biochar,"
 url: "/directory/pyropower/"
 pathway: "Biochar"
 liveliness: "🟢 Active"

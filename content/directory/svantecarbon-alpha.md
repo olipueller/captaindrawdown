@@ -2,7 +2,7 @@
 title: "Svante/Carbon Alpha"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"2-15,2-16\\">Svante is a carbon capture and removal solutions provider that makes nanoengineered filters and modular rotating contactor machines that"
+description: "Svante is a carbon capture and removal solutions provider that makes nanoengineered filters and modular rotating contactor machines that capture and remove CO2"
 url: "/directory/svantecarbon-alpha/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
@@ -19,7 +19,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="2-15,2-16">Svante is a carbon capture and removal solutions provider that makes nanoengineered filters and modular rotating contactor machines that capture and remove CO2 from industrial emissions and the air.</cite> <cite index="5-3,5-4">In March 2026 Svante acquired Calgary-based Carbon Alpha Corporation, including its ownership interests in North Star Carbon Solutions and its flagship North Star BECCS project</cite> in Meadow Lake, Saskatchewan. <cite index="20-9">In April 2026 North Star Carbon Solutions LP signed an offtake agreement with Microsoft to deliver 626,000 tonnes of durable CDR credits over 15 years from the North Star BECCS project.</cite>
+Svante is a carbon capture and removal solutions provider that makes nanoengineered filters and modular rotating contactor machines that capture and remove CO2 from industrial emissions and the air. In March 2026 Svante acquired Calgary-based Carbon Alpha Corporation, including its ownership interests in North Star Carbon Solutions and its flagship North Star BECCS project in Meadow Lake, Saskatchewan. In April 2026 North Star Carbon Solutions LP signed an offtake agreement with Microsoft to deliver 626,000 tonnes of durable CDR credits over 15 years from the North Star BECCS project.
 
 ![Svante/Carbon Alpha website](/screenshots/v1-thumbnails/svante-carbon-alpha.jpg)
 

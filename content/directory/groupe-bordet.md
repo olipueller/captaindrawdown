@@ -2,7 +2,7 @@
 title: "Groupe Bordet"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"7-1,7-2\\">Groupe Bordet is a French industrial group transforming wood into charcoal, based in Leuglay, Burgundy since 1860, producing a locally-sou"
+description: "Groupe Bordet is a French industrial group transforming wood into charcoal, based in Leuglay, Burgundy since 1860, producing a locally-sourced plant-based charc"
 url: "/directory/groupe-bordet/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -21,7 +21,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="7-1,7-2">Groupe Bordet is a French industrial group transforming wood into charcoal, based in Leuglay, Burgundy since 1860, producing a locally-sourced plant-based charcoal with over 90% carbon content.</cite> <cite index="3-7">Its biochar production has been certified by Puro.earth with support from Carbonapp</cite>, and <cite index="10-5,10-6,10-7,10-8">the group is investing over €30M in a new plant in Decize (Nièvre), operational in Q1 2027, to add 15,000 tonnes of biochar capacity (from 4,200 t today) and develop bio-oil, aiming for 60,000 tonnes of biochar by 2030.</cite>
+Groupe Bordet is a French industrial group transforming wood into charcoal, based in Leuglay, Burgundy since 1860, producing a locally-sourced plant-based charcoal with over 90% carbon content. Its biochar production has been certified by Puro.earth with support from Carbonapp, and the group is investing over €30M in a new plant in Decize (Nièvre), operational in Q1 2027, to add 15,000 tonnes of biochar capacity (from 4,200 t today) and develop bio-oil, aiming for 60,000 tonnes of biochar by 2030.
 
 ![Groupe Bordet website](/screenshots/v1-thumbnails/groupe-bordet.jpg)
 

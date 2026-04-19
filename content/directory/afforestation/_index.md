@@ -2,25 +2,25 @@
 title: "Afforestation — CDR Pathway"
 layout: "single"
 type: "directory"
-description: "Captain Drawdown's directory of all companies working on Afforestation as a primary pathway. 24 companies tracked."
+description: "Captain Drawdown's directory of all companies working on Afforestation as a primary pathway. 27 companies tracked."
 url: "/directory/afforestation/"
 ---
 
-# Afforestation — 24 Companies Tracked
+# Afforestation — 27 Companies Tracked
 
-**Market pulse for Afforestation (updated 2026-04-18).**
+**Market pulse for Afforestation (updated 2026-04-19).**
 
 <div class="directory-stats">
-  <div class="stat-box"><span class="num">24</span><span class="label">Companies</span></div>
-  <div class="stat-box"><span class="num" style="color:#22c55e">22</span><span class="label">🟢 Active</span></div>
+  <div class="stat-box"><span class="num">27</span><span class="label">Companies</span></div>
+  <div class="stat-box"><span class="num" style="color:#22c55e">27</span><span class="label">🟢 Active</span></div>
   <div class="stat-box"><span class="num" style="color:#eab308">0</span><span class="label">🟡 Moderate</span></div>
   <div class="stat-box"><span class="num" style="color:#f97316">0</span><span class="label">🟠 Suspect</span></div>
   <div class="stat-box"><span class="num" style="color:#ef4444">0</span><span class="label">🔴 Maybe Dead?</span></div>
 </div>
 
 <div class="directory-stats">
-  <div class="stat-box"><span class="num">418</span><span class="label">Total employees (lower bound)</span></div>
-  <div class="stat-box"><span class="num">3/24</span><span class="label">Companies with headcount data</span></div>
+  <div class="stat-box"><span class="num">474</span><span class="label">Total employees (lower bound)</span></div>
+  <div class="stat-box"><span class="num">5/27</span><span class="label">Companies with headcount data</span></div>
 </div>
 
 ## Largest companies
@@ -28,6 +28,8 @@ url: "/directory/afforestation/"
 - [Anew Climate](/directory/anew-climate/) — 227 employees
 - [EcoAct](/directory/ecoact/) — 138 employees
 - [Groundwork BioAg](/directory/groundwork-bioag/) — 53 employees
+- [Boomitra](/directory/boomitra/) — 51 employees
+- [ClimatePartner Impact](/directory/climatepartner-impact/) — 5 employees
 
 ## All Afforestation companies
 

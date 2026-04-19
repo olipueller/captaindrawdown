@@ -2,7 +2,7 @@
 title: "Blue Sky Biochar"
 layout: "single"
 type: "directory"
-description: "Blue Sky Biochar is a BiCRS company that produces and distributes biochar as a soil amendment to create regenerative soil, enhance nutrient density, and improve"
+description: "Blue Sky Biochar is a small Ventura, California-based biochar and soil amendment retailer founded in 2011 by Michael Wittman. They sell biochar-based garden sta"
 url: "/directory/blue-sky-biochar/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -20,11 +20,12 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-Blue Sky Biochar is a BiCRS company that produces and distributes biochar as a soil amendment to create regenerative soil, enhance nutrient density, and improve plant immunity.
+Blue Sky Biochar is a small Ventura, California-based biochar and soil amendment retailer founded in 2011 by Michael Wittman. They sell biochar-based garden starter kits and soil enhancement products primarily to home gardeners and farmers, with a focus on regenerative soil health rather than carbon credit issuance. The company is not listed on any CDR registry and operates as a niche consumer/agricultural biochar supplier.
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.blueskybiocharorganicsoil.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/blue-sky-biochar/)

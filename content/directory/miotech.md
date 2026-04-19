@@ -2,7 +2,7 @@
 title: "MioTech"
 layout: "single"
 type: "directory"
-description: "MioTech is an AI-based ESG data and sustainability analytics company headquartered in Shanghai/Hong Kong that has expanded into CDR project development. <cite i"
+description: "MioTech is an AI-based ESG data and sustainability analytics company headquartered in Shanghai/Hong Kong that has expanded into CDR project development. Its car"
 url: "/directory/miotech/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -19,7 +19,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-MioTech is an AI-based ESG data and sustainability analytics company headquartered in Shanghai/Hong Kong that has expanded into CDR project development. <cite index="3-3,3-4">Its carbon asset team developed China's first biochar carbon credit project, registered on Puro.earth with support from Nanjing Nian'da Environmental Technology and Nanjing Forestry University</cite>, and <cite index="7-4,7-5">became the first biochar supplier in China to issue CORCs, with the Nanjing-based Nian'da project generating 330 CORCs in its first accreditation period</cite>. <cite index="3-14">MioTech has announced plans to develop 50,000 tons of carbon credits by 2027 spanning biochar, geological storage, carbonated materials, and enhanced rock weathering.</cite>
+MioTech is an AI-based ESG data and sustainability analytics company headquartered in Shanghai/Hong Kong that has expanded into CDR project development. Its carbon asset team developed China's first biochar carbon credit project, registered on Puro.earth with support from Nanjing Nian'da Environmental Technology and Nanjing Forestry University, and became the first biochar supplier in China to issue CORCs, with the Nanjing-based Nian'da project generating 330 CORCs in its first accreditation period. MioTech has announced plans to develop 50,000 tons of carbon credits by 2027 spanning biochar, geological storage, carbonated materials, and enhanced rock weathering.
 
 ![MioTech website](/screenshots/v1-thumbnails/miotech.jpg)
 

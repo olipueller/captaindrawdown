@@ -2,7 +2,7 @@
 title: "Beyond Captur"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"2-1\\">Beyond Captur is a South Korea-based Direct Air Capture (DAC) company leveraging battery-based carbon capture technology that operates entirel"
+description: "Beyond Captur is a South Korea-based Direct Air Capture (DAC) company leveraging battery-based carbon capture technology that operates entirely on electricity,"
 url: "/directory/beyond-captur/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -19,7 +19,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="2-1">Beyond Captur is a South Korea-based Direct Air Capture (DAC) company leveraging battery-based carbon capture technology that operates entirely on electricity, eliminating the need for thermal processes.</cite> <cite index="11-4">The company signed an MoU with Great Carbon Valley to launch Kenya's first electrochemical Direct Air Capture pilot project</cite>, followed by a Definitive Agreement to advance that collaboration. It is a technology supplier building removal hardware rather than a buyer or ecosystem actor.
+Beyond Captur is a South Korea-based Direct Air Capture (DAC) company leveraging battery-based carbon capture technology that operates entirely on electricity, eliminating the need for thermal processes. The company signed an MoU with Great Carbon Valley to launch Kenya's first electrochemical Direct Air Capture pilot project, followed by a Definitive Agreement to advance that collaboration. It is a technology supplier building removal hardware rather than a buyer or ecosystem actor.
 
 
 ## History

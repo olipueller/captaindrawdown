@@ -2,21 +2,29 @@
 title: "Carbon Capture Company"
 layout: "single"
 type: "directory"
-description: "Carbon Capture Company — Unknown company in Unknown"
+description: "Carbon Capture Company (CCC) is a Swedish certification body that developed the Carbon Forestry Standard – Sweden, a methodology for certifying carbon credits f"
 url: "/directory/carbon-capture-company/"
-pathway: "Unknown"
+pathway: "Enabling Tech"
+liveliness: "🟢 Active"
 ---
 
-**Pathway:** Unknown
+**Pathway:** Enabling Tech
+**Secondary pathways:** Afforestation
 **Method:** Unknown
 **Country:** Unknown
 **Website:** [https://carboncapturecompany.se/](https://carboncapturecompany.se/)
-**CDR Focus:** unclassified
+**Status:** 🟢 Active (score: 75/100)
+**CDR Focus:** ecosystem
 **Evidence signals:** exa_search
+
+## About
+
+Carbon Capture Company (CCC) is a Swedish certification body that developed the Carbon Forestry Standard – Sweden, a methodology for certifying carbon credits from actively managed Swedish forests. They do not physically remove CO2 themselves; they certify, verify, and issue credits for forest owners and maintain a certification registry, aligning with the EU Carbon Removal Carbon Farming regulation.
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://carboncapturecompany.se/en/about-us/))
 - **2026-04-18** — discovered via: exa ([source](https://carboncapturecompany.se/))
 
 ---

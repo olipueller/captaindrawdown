@@ -2,7 +2,7 @@
 title: "Yggdrasil Trees"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"2-1,2-2\\">Yggdrasil Trees is developing a decentralized, multi-functional direct air capture (DAC) solution designed for integration into urban envi"
+description: "Yggdrasil Trees is developing a decentralized, multi-functional direct air capture (DAC) solution designed for integration into urban environments, aiming to re"
 url: "/directory/yggdrasil-trees/"
 pathway: "DAC"
 liveliness: "🟡 Moderate"
@@ -18,7 +18,7 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-<cite index="2-1,2-2">Yggdrasil Trees is developing a decentralized, multi-functional direct air capture (DAC) solution designed for integration into urban environments, aiming to remove 800 tonnes of CO2 per unit per year.</cite> <cite index="2-7,2-8">The company is positioned as a project developer focusing on licensing sorbent materials from other DAC companies to accelerate deployment.</cite> It is a US-based pre-seed startup in the LACI portfolio.
+Yggdrasil Trees is developing a decentralized, multi-functional direct air capture (DAC) solution designed for integration into urban environments, aiming to remove 800 tonnes of CO2 per unit per year. The company is positioned as a project developer focusing on licensing sorbent materials from other DAC companies to accelerate deployment. It is a US-based pre-seed startup in the LACI portfolio.
 
 ![Yggdrasil Trees website](/screenshots/v1-thumbnails/yggdrasil-trees.jpg)
 

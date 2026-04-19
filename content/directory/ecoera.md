@@ -2,7 +2,7 @@
 title: "Ecoera"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"1-1,14-9\\">Ecoera is a Swedish biochar CDR company founded at Chalmers Ventures in collaboration with Skånefrö AB, and started Sweden's first large-"
+description: "Ecoera is a Swedish biochar CDR company founded at Chalmers Ventures in collaboration with Skånefrö AB, and started Sweden's first large-scale biochar carbon re"
 url: "/directory/ecoera/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -19,7 +19,7 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-<cite index="1-1,14-9">Ecoera is a Swedish biochar CDR company founded at Chalmers Ventures in collaboration with Skånefrö AB, and started Sweden's first large-scale biochar carbon removal work in 2009.</cite> <cite index="3-15,3-16">Biochar is produced in Hammenhög, South Sweden, at one of the largest biochar production facilities in the EU using PYREG P500 and P1500 carbonization systems.</cite> <cite index="3-5,3-7">Output is third-party verified under the European Biochar Certificate and the Puro.earth Biochar methodology, and sold as CORC removal credits on carbon marketplaces.</cite>
+Ecoera is a Swedish biochar CDR company founded at Chalmers Ventures in collaboration with Skånefrö AB, and started Sweden's first large-scale biochar carbon removal work in 2009. Biochar is produced in Hammenhög, South Sweden, at one of the largest biochar production facilities in the EU using PYREG P500 and P1500 carbonization systems. Output is third-party verified under the European Biochar Certificate and the Puro.earth Biochar methodology, and sold as CORC removal credits on carbon marketplaces.
 
 ![Ecoera website](/screenshots/v1-thumbnails/ecoera.jpg)
 

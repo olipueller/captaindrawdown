@@ -2,29 +2,30 @@
 title: "Waterberg Carbon Co"
 layout: "single"
 type: "directory"
-description: "Waterberg Carbon Co is a BiCRS company that utilizes biochar for carbon dioxide removal, partnering with other technology companies for its operations."
+description: "Waterberg Carbon Co is described as a South African biochar-focused CDR company that partners with technology providers to produce biochar for carbon removal. P"
 url: "/directory/waterberg-carbon-co/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟠 Suspect"
 ---
 
 **Pathway:** Biochar
 **Method:** Biochar
 **Country:** South Africa
 **Website:** [https://www.linkedin.com/company/waterberg-carbon-co/about/](https://www.linkedin.com/company/waterberg-carbon-co/about/)
-**Status:** 🟡 Moderate (score: 60/100)
+**Status:** 🟠 Suspect (score: 25/100)
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Waterberg Carbon Co is a BiCRS company that utilizes biochar for carbon dioxide removal, partnering with other technology companies for its operations.
+Waterberg Carbon Co is described as a South African biochar-focused CDR company that partners with technology providers to produce biochar for carbon removal. Public information is very limited — the company's only online presence appears to be a LinkedIn page with no standalone website, and no recent news, deliveries, or registry listings were surfaced. Its operational status is unclear.
 
 ![Waterberg Carbon Co website](/screenshots/v1-thumbnails/waterberg-carbon-co.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://www.linkedin.com/company/waterberg-carbon-co/about/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 ---

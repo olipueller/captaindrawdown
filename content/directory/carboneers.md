@@ -2,7 +2,7 @@
 title: "Carboneers"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"5-1,5-2\\">Carboneers works with farming communities across the Global South to develop biochar and carbon sequestration projects, with a mission to "
+description: "Carboneers works with farming communities across the Global South to develop biochar and carbon sequestration projects, with a mission to remove 1 million tons"
 url: "/directory/carboneers/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -20,7 +20,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="5-1,5-2">Carboneers works with farming communities across the Global South to develop biochar and carbon sequestration projects, with a mission to remove 1 million tons of CO2 by 2028.</cite> The company (originally Dutch Carboneers) operates projects in India and Ghana, and is <cite index="9-7,9-8">listed as a supplier on Isometric with a buffer pool for reversal protection</cite>, partnering with Terrafront Ventures and Together for Restoration.
+Carboneers works with farming communities across the Global South to develop biochar and carbon sequestration projects, with a mission to remove 1 million tons of CO2 by 2028. The company (originally Dutch Carboneers) operates projects in India and Ghana, and is listed as a supplier on Isometric with a buffer pool for reversal protection, partnering with Terrafront Ventures and Together for Restoration.
 
 ![Carboneers website](/screenshots/v1-thumbnails/carboneers.jpg)
 

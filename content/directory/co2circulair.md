@@ -2,7 +2,7 @@
 title: "CO2CirculAir"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"2-1\\">CO2CirculAir is a Dutch R&D and innovation start-up formed by a group of membrane technology experts</cite> developing a direct air capture sy"
+description: "CO2CirculAir is a Dutch R&D and innovation start-up formed by a group of membrane technology experts developing a direct air capture system. Funded under the UK"
 url: "/directory/co2circulair/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -18,7 +18,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="2-1">CO2CirculAir is a Dutch R&D and innovation start-up formed by a group of membrane technology experts</cite> developing a direct air capture system. <cite index="8-5,8-6">Funded under the UK DESNZ Greenhouse Gas Removal Programme, SMART-DAC is a passive wind-driven DAC system using a two-step process with KOH-based absorption and membrane electrolysis/electrodialysis regeneration.</cite> <cite index="8-4">The pilot first captured CO2 in September 2023 and operated at over 80% uptime through April 2025.</cite>
+CO2CirculAir is a Dutch R&D and innovation start-up formed by a group of membrane technology experts developing a direct air capture system. Funded under the UK DESNZ Greenhouse Gas Removal Programme, SMART-DAC is a passive wind-driven DAC system using a two-step process with KOH-based absorption and membrane electrolysis/electrodialysis regeneration. The pilot first captured CO2 in September 2023 and operated at over 80% uptime through April 2025.
 
 ![CO2CirculAir website](/screenshots/v1-thumbnails/co2circulair.jpg)
 

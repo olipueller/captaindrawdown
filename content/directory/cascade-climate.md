@@ -2,24 +2,25 @@
 title: "Cascade Climate"
 layout: "single"
 type: "directory"
-description: "Cascade Climate is a philanthropically-funded global nonprofit that accelerates progress in open-system carbon dioxide removal (CDR), particularly focusing on e"
+description: "Cascade Climate is a philanthropically-backed US-based nonprofit (launched June 2023) that accelerates open-system CDR pathways, with an initial focus on enhanc"
 url: "/directory/cascade-climate/"
-pathway: "Enabling Tech"
-liveliness: "🟡 Moderate"
+pathway: "Enhanced Weathering"
+liveliness: "🟢 Active"
 ---
 
-**Pathway:** Enabling Tech
+**Pathway:** Enhanced Weathering
+**Secondary pathways:** Enabling Tech, Ocean CDR
 **Method:** CDR Platform/Marketplace
 **Country:** United States
 **Website:** [https://www.cascadeclimate.com/](https://www.cascadeclimate.com/)
-**Status:** 🟡 Moderate (score: 60/100)
+**Status:** 🟢 Active (score: 92/100)
 **Open roles on cdrjobs:** 3
-**CDR Focus:** supplier
+**CDR Focus:** ecosystem
 **Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-Cascade Climate is a philanthropically-funded global nonprofit that accelerates progress in open-system carbon dioxide removal (CDR), particularly focusing on enhanced rock weathering (ERW) through platforms, grants, and research.
+Cascade Climate is a philanthropically-backed US-based nonprofit (launched June 2023) that accelerates open-system CDR pathways, with an initial focus on enhanced rock weathering (ERW). It does not remove CO2 itself — instead it runs market-shaping initiatives, develops a Community Quantification Standard, builds tools like the Weathering Potential Explorer and ERW-MAC, and drives science and policy coordination across the ERW field.
 
 ## Registry Memberships
 
@@ -27,6 +28,7 @@ Cascade Climate is a philanthropically-funded global nonprofit that accelerates 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=ecosystem liveliness=🟢 Active ([source](https://cascadeclimate.org/))
 - **2026-04-18** — backfilled from V1
 
 ---

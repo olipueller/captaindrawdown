@@ -2,7 +2,7 @@
 title: "Carbon Containment Lab"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"6-3,6-4,6-5,6-6,6-7\\">Carbon Containment Lab is a 501(c)(3) climate nonprofit supporting the design, testing, and implementation of novel and neglec"
+description: "Carbon Containment Lab is a 501(c)(3) climate nonprofit supporting the design, testing, and implementation of novel and neglected climate solutions, working to"
 url: "/directory/carbon-containment-lab/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
@@ -20,7 +20,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="6-3,6-4,6-5,6-6,6-7">Carbon Containment Lab is a 501(c)(3) climate nonprofit supporting the design, testing, and implementation of novel and neglected climate solutions, working to bring research from laboratories into pilot and commercialization across anthropogenic, biologic, and geologic emissions pathways including BiCRS, carbon mineralization, fluorocarbon recovery, and low-concentration methane measurement.</cite> <cite index="1-1,1-2,1-3">CC Lab is explicitly not a carbon credit registry, validator, verifier, or project developer, engaging market stakeholders only as an independent nonprofit without financial interest.</cite> <cite index="6-9">It spun out of the Yale School of the Environment in early 2024 to operate as an independent nonprofit.</cite>
+Carbon Containment Lab is a 501(c)(3) climate nonprofit supporting the design, testing, and implementation of novel and neglected climate solutions, working to bring research from laboratories into pilot and commercialization across anthropogenic, biologic, and geologic emissions pathways including BiCRS, carbon mineralization, fluorocarbon recovery, and low-concentration methane measurement. CC Lab is explicitly not a carbon credit registry, validator, verifier, or project developer, engaging market stakeholders only as an independent nonprofit without financial interest. It spun out of the Yale School of the Environment in early 2024 to operate as an independent nonprofit.
 
 ![Carbon Containment Lab website](/screenshots/v1-thumbnails/carbon-containment-lab.jpg)
 

@@ -2,29 +2,30 @@
 title: "Positive Biocarbon"
 layout: "single"
 type: "directory"
-description: "Positive Biocarbon is a UK-based manufacturer and distributor specializing in sustainable biochar for commercial horticulture, arboriculture, agriculture, and l"
+description: "Positive BioCarbon is a biochar manufacturing and distribution business operating as a division of Rectella International Ltd, headquartered in Burnley, Lancash"
 url: "/directory/positive-biocarbon/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** Biochar
 **Method:** Biochar
 **Country:** United Kingdom
 **Website:** [https://positivebiocarbon.com/gb/](https://positivebiocarbon.com/gb/)
-**Status:** 🟢 Active (score: 80/100)
-**CDR Focus:** supplier
+**Status:** 🟡 Moderate (score: 60/100)
+**CDR Focus:** division
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Positive Biocarbon is a UK-based manufacturer and distributor specializing in sustainable biochar for commercial horticulture, arboriculture, agriculture, and large-scale environmental projects.
+Positive BioCarbon is a biochar manufacturing and distribution business operating as a division of Rectella International Ltd, headquartered in Burnley, Lancashire, UK. They supply FSC-accredited biochar derived from virgin waste-stream biomass (including invasive species clearance) to commercial horticulture, arboriculture, agriculture, and environmental remediation markets. The company has partnered with Lancashire County Council on soil remediation and atmospheric carbon capture trials.
 
 ![Positive Biocarbon website](/screenshots/v1-thumbnails/positive-biocarbon.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟡 Moderate ([source](https://positivebiocarbon.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 ---

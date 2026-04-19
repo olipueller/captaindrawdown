@@ -2,24 +2,25 @@
 title: "Travertine"
 layout: "single"
 type: "directory"
-description: "Travertine Technologies uses an electrochemical platform to accelerate the Earth's natural carbon cycle, precipitating carbonate minerals from carbon dioxide in"
+description: "Travertine Technologies is a Boulder, CO-based CDR company spun out of UC Berkeley in 2022 by Prof. Laura Lammers. Its electrochemical platform mineralizes atmo"
 url: "/directory/travertine/"
-pathway: "Enhanced Weathering"
+pathway: "Mineralization"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Enhanced Weathering
+**Pathway:** Mineralization
+**Secondary pathways:** DAC
 **Method:** Enhanced Rock Weathering
 **Country:** United States
 **Website:** [https://travertinetech.com/](https://travertinetech.com/)
-**Status:** 🟢 Active (score: 100/100)
+**Status:** 🟢 Active (score: 85/100)
 **Open roles on cdrjobs:** 2
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-Travertine Technologies uses an electrochemical platform to accelerate the Earth's natural carbon cycle, precipitating carbonate minerals from carbon dioxide in the air, inspired by enhanced rock weathering.
+Travertine Technologies is a Boulder, CO-based CDR company spun out of UC Berkeley in 2022 by Prof. Laura Lammers. Its electrochemical platform mineralizes atmospheric CO2 into carbonates while upcycling sulfate waste from mining/fertilizer industries into sulfuric acid, targeting decarbonization of cement, critical-element extraction, and fertilizer production.
 
 ![Travertine website](/screenshots/v1-thumbnails/travertine.jpg)
 
@@ -29,6 +30,7 @@ Travertine Technologies uses an electrochemical platform to accelerate the Earth
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://travertinetech.com/about/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 ---

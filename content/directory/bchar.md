@@ -2,7 +2,7 @@
 title: "BCHAR"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"3-1,3-4\\">BCHAR is a Zurich-based developer of biochar carbon removal technologies that transforms bio-waste into biochar, and offers services for p"
+description: "BCHAR is a Zurich-based developer of biochar carbon removal technologies that transforms bio-waste into biochar, and offers services for project setup, technolo"
 url: "/directory/bchar/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -20,7 +20,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="3-1,3-4">BCHAR is a Zurich-based developer of biochar carbon removal technologies that transforms bio-waste into biochar, and offers services for project setup, technology delivery, MRV, and carbon credit sales.</cite> <cite index="2-5,2-6,2-7">The company launched its first biochar system in Thailand using coconut husks as feedstock as a pilot project, with insights being incorporated into an upcoming full-scale system.</cite> <cite index="6-6,3-11">Founded in 2023 and based in Zurich, Switzerland, BCHAR has raised $743K from VC investors including Riceberg Ventures, BlueLion Incubator, SICTIC, Rockstart, and Founderful Campus.</cite>
+BCHAR is a Zurich-based developer of biochar carbon removal technologies that transforms bio-waste into biochar, and offers services for project setup, technology delivery, MRV, and carbon credit sales. The company launched its first biochar system in Thailand using coconut husks as feedstock as a pilot project, with insights being incorporated into an upcoming full-scale system. Founded in 2023 and based in Zurich, Switzerland, BCHAR has raised $743K from VC investors including Riceberg Ventures, BlueLion Incubator, SICTIC, Rockstart, and Founderful Campus.
 
 ![BCHAR website](/screenshots/v1-thumbnails/bchar.jpg)
 

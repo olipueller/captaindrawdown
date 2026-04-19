@@ -2,7 +2,7 @@
 title: "Energnist CaptureCo"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"19-20,19-21\\">Energnist is West Denmark's largest waste-to-energy company, owned by 16 municipalities and operating waste-energy plants in Esbjerg a"
+description: "Energnist is West Denmark's largest waste-to-energy company, owned by 16 municipalities and operating waste-energy plants in Esbjerg and Kolding. Energnist Capt"
 url: "/directory/energnist-captureco/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
@@ -18,7 +18,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="19-20,19-21">Energnist is West Denmark's largest waste-to-energy company, owned by 16 municipalities and operating waste-energy plants in Esbjerg and Kolding.</cite> Energnist CaptureCo A/S is its dedicated carbon-capture subsidiary developing a CCS facility at the Esbjerg plant to capture over 200,000 tonnes of CO2 per year, with transport via pipeline to an Esbjerg Harbour CO2 terminal for liquefaction and permanent storage. <cite index="16-1,16-5,16-6">It is one of 10 companies prequalified by the Danish Energy Agency to compete for DKK 28.7 billion in CCS funding</cite>, and <cite index="11-1,11-2">signed a letter of intent with Carbon Circle in April 2026 to jointly develop the capture project using Carbon Circle's CaCiMod modular system.</cite>
+Energnist is West Denmark's largest waste-to-energy company, owned by 16 municipalities and operating waste-energy plants in Esbjerg and Kolding. Energnist CaptureCo A/S is its dedicated carbon-capture subsidiary developing a CCS facility at the Esbjerg plant to capture over 200,000 tonnes of CO2 per year, with transport via pipeline to an Esbjerg Harbour CO2 terminal for liquefaction and permanent storage. It is one of 10 companies prequalified by the Danish Energy Agency to compete for DKK 28.7 billion in CCS funding, and signed a letter of intent with Carbon Circle in April 2026 to jointly develop the capture project using Carbon Circle's CaCiMod modular system.
 
 
 ## History

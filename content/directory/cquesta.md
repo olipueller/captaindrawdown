@@ -2,7 +2,7 @@
 title: "Cquesta"
 layout: "single"
 type: "directory"
-description: "Cquesta specializes in harnessing the power of deep-rooted crops, often through gene editing, to enhance soil carbon sequestration and provide farmers with new "
+description: "Cquesta is a US-based agricultural biotech developing gene-edited crop traits that produce deeper, larger root systems so that carbon is deposited further down"
 url: "/directory/cquesta/"
 pathway: "Afforestation"
 liveliness: "🟢 Active"
@@ -12,14 +12,14 @@ liveliness: "🟢 Active"
 **Method:** Soil Carbon Sequestration
 **Country:** United Kingdom
 **Website:** [https://cquesta.com/](https://cquesta.com/)
-**Status:** 🟢 Active (score: 90/100)
+**Status:** 🟢 Active (score: 80/100)
 **Open roles on cdrjobs:** 1
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-Cquesta specializes in harnessing the power of deep-rooted crops, often through gene editing, to enhance soil carbon sequestration and provide farmers with new revenue streams and resilient crops.
+Cquesta is a US-based agricultural biotech developing gene-edited crop traits that produce deeper, larger root systems so that carbon is deposited further down in the soil profile where it is more stable. The company licenses its deep-root traits to seed companies and aims to generate carbon credits for farmers with no change in agronomic practices. Crops being developed include cover crops (CoverCress), soybean, canola, sorghum, corn and rice.
 
 ![Cquesta website](/screenshots/v1-thumbnails/cquesta.jpg)
 
@@ -29,6 +29,7 @@ Cquesta specializes in harnessing the power of deep-rooted crops, often through 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://cquesta.com/))
 - **2026-04-18** — backfilled from V1
 
 ---

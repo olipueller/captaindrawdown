@@ -2,7 +2,7 @@
 title: "Carborok"
 layout: "single"
 type: "directory"
-description: "Carborok is a Nantes-based French startup, a spin-off of engineering firm Voltigital, founded in 2021. It designs, builds and operates CO2 mineralization units "
+description: "Carborok is a Nantes-based French startup, a spin-off of engineering firm Voltigital, founded in 2021. It designs, builds and operates CO2 mineralization units"
 url: "/directory/carborok/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"

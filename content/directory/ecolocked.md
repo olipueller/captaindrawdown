@@ -2,7 +2,7 @@
 title: "ecoLocked"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"5-4,5-5,5-6\\">Berlin-based startup ecoLocked, founded in 2021, is among the few global producers of concrete admixtures utilizing biochar for carbon"
+description: "Berlin-based startup ecoLocked, founded in 2021, is among the few global producers of concrete admixtures utilizing biochar for carbon removal, focusing on eco-"
 url: "/directory/ecolocked/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -21,7 +21,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="5-4,5-5,5-6">Berlin-based startup ecoLocked, founded in 2021, is among the few global producers of concrete admixtures utilizing biochar for carbon removal, focusing on eco-friendly building materials. Its flagship product, eLM Zero, is a carbon-negative admixture designed to reduce concrete's net carbon footprint by up to 100%.</cite> <cite index="7-3,7-6">The company raised €4 million in a seed round led by Matterwave Ventures and Climentum Capital, with proceeds used to expand production, introduce new product lines and grow demand.</cite>
+Berlin-based startup ecoLocked, founded in 2021, is among the few global producers of concrete admixtures utilizing biochar for carbon removal, focusing on eco-friendly building materials. Its flagship product, eLM Zero, is a carbon-negative admixture designed to reduce concrete's net carbon footprint by up to 100%. The company raised €4 million in a seed round led by Matterwave Ventures and Climentum Capital, with proceeds used to expand production, introduce new product lines and grow demand.
 
 ![ecoLocked website](/screenshots/v1-thumbnails/ecolocked.jpg)
 

@@ -2,7 +2,7 @@
 title: "Tropicarbon"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"2-1,2-2\\">Tropicarbon leads Enhanced Rock Weathering in Colombia, targeting 1 million tons of CO2 removal by 2030, with a mission to achieve trustwo"
+description: "Tropicarbon leads Enhanced Rock Weathering in Colombia, targeting 1 million tons of CO2 removal by 2030, with a mission to achieve trustworthy carbon removal wi"
 url: "/directory/tropicarbon/"
 pathway: "Enhanced Weathering"
 liveliness: "🟢 Active"
@@ -19,7 +19,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="2-1,2-2">Tropicarbon leads Enhanced Rock Weathering in Colombia, targeting 1 million tons of CO2 removal by 2030, with a mission to achieve trustworthy carbon removal with innovative technology while optimizing benefits for local farmers.</cite> <cite index="1-9,1-10">In partnership with Universidad del Norte, Tropicarbon launched the Barranquilla Project, testing how its rock powder interacts with dozens of Colombian soils under tropical conditions.</cite> <cite index="4-6,4-7,4-11,4-12">Founded in 2023 and headquartered in Colombia, the company has raised $100K with investment from GLOCAL (Argentina).</cite>
+Tropicarbon leads Enhanced Rock Weathering in Colombia, targeting 1 million tons of CO2 removal by 2030, with a mission to achieve trustworthy carbon removal with innovative technology while optimizing benefits for local farmers. In partnership with Universidad del Norte, Tropicarbon launched the Barranquilla Project, testing how its rock powder interacts with dozens of Colombian soils under tropical conditions. Founded in 2023 and headquartered in Colombia, the company has raised $100K with investment from GLOCAL (Argentina).
 
 ![Tropicarbon website](/screenshots/v1-thumbnails/tropicarbon.jpg)
 

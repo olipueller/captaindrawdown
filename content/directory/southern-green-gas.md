@@ -2,7 +2,7 @@
 title: "Southern Green Gas"
 layout: "single"
 type: "directory"
-description: "Southern Green Gas (SGG) is an Australian DAC technology developer founded in 2018 and based in Southbank, Victoria. They build solar-powered DAC modules using "
+description: "Southern Green Gas (SGG) is an Australian DAC technology developer founded in 2018 and based in Southbank, Victoria. They build solar-powered DAC modules using"
 url: "/directory/southern-green-gas/"
 pathway: "DAC"
 liveliness: "🟡 Moderate"

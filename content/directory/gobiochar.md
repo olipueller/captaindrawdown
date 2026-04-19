@@ -2,7 +2,7 @@
 title: "GoBiochar"
 layout: "single"
 type: "directory"
-description: "GoBiochar LLC is a Salt Lake City, Utah-based biochar supply and consulting company that sources and distributes bulk biochar to agriculture, climate tech, and "
+description: "GoBiochar LLC is a Salt Lake City, Utah-based biochar supply and consulting company that sources and distributes bulk biochar to agriculture, climate tech, and"
 url: "/directory/gobiochar/"
 pathway: "Biochar"
 liveliness: "🟢 Active"

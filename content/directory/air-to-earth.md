@@ -2,30 +2,31 @@
 title: "Air to Earth"
 layout: "single"
 type: "directory"
-description: "AIR TO EARTH® is a developer of industrial gas infrastructure, specializing in purifying CO2 to high-grade pipeline and beverage grade specification, for use or"
+description: "AIR TO EARTH is a developer of industrial gas infrastructure, specializing in purifying atmospheric CO2 to high-grade pipeline and beverage grade specifications"
 url: "/directory/air-to-earth/"
 pathway: "DAC"
-liveliness: "🟡 Moderate"
+liveliness: "🟠 Suspect"
 ---
 
 **Pathway:** DAC
 **Method:** DAC (Solid Sorbent)
 **Country:** United States
 **Website:** [https://www.airtoearth.com/](https://www.airtoearth.com/)
-**Status:** 🟡 Moderate (score: 50/100)
+**Status:** 🟠 Suspect (score: 35/100)
 **Employees:** ~1 (-50% YoY)
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-AIR TO EARTH® is a developer of industrial gas infrastructure, specializing in purifying CO2 to high-grade pipeline and beverage grade specification, for use or sequestration, and is a CDR credit supplier.
+AIR TO EARTH is a developer of industrial gas infrastructure, specializing in purifying atmospheric CO2 to high-grade pipeline and beverage grade specifications, with a flagship 50-ton-per-day Atmospheric CO2 Beverage Grade Factory that combines industrial gas separation, heat recovery and proprietary filter contacting technologies. The company serves both industrial CO2 customers (beverage, food, fertilizer, horticulture) and the CDR credit market via measurement and sequestration of purified atmospheric CO2. It holds US patents on its systems and appears to be a very small US-based outfit (1 employee on LinkedIn).
 
 ![Air to Earth website](/screenshots/v1-thumbnails/air-to-earth.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://www.airtoearth.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/air-to-earth-llc/)

@@ -2,7 +2,7 @@
 title: "Paebbl"
 layout: "single"
 type: "directory"
-description: "Paebbl is a Dutch-Nordic mineralization company that converts captured CO₂ into a stable mineral powder used as a supplementary cementitious material (SCM) for "
+description: "Paebbl is a Dutch-Nordic mineralization company that converts captured CO₂ into a stable mineral powder used as a supplementary cementitious material (SCM) for"
 url: "/directory/paebbl/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"

@@ -2,7 +2,7 @@
 title: "Evero Energy"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"3-10\\">Evero Energy Group Limited (previously known as Bioenergy Infrastructure Group) is a UK low-carbon waste-to-energy company partnering with Mi"
+description: "Evero Energy Group Limited (previously known as Bioenergy Infrastructure Group) is a UK low-carbon waste-to-energy company partnering with Mitsubishi Heavy Indu"
 url: "/directory/evero-energy/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
@@ -20,7 +20,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="3-10">Evero Energy Group Limited (previously known as Bioenergy Infrastructure Group) is a UK low-carbon waste-to-energy company partnering with Mitsubishi Heavy Industries to deliver its InBECCS (Ince Bioenergy with Carbon Capture and Storage) project.</cite> <cite index="2-7,2-8,2-9">The company is retrofitting CCS onto its existing Ince Biopower and Mersey Bioenergy plants, which already process over 300,000 tonnes of waste wood into renewable electricity, with the addition generating up to 400,000 tons of CDRs per annum.</cite> <cite index="5-2,5-4,5-5">Its InBECCS project was listed on Puro.earth's Future Facility program in December 2025, making it the first and only UK BECCS project included in that program.</cite>
+Evero Energy Group Limited (previously known as Bioenergy Infrastructure Group) is a UK low-carbon waste-to-energy company partnering with Mitsubishi Heavy Industries to deliver its InBECCS (Ince Bioenergy with Carbon Capture and Storage) project. The company is retrofitting CCS onto its existing Ince Biopower and Mersey Bioenergy plants, which already process over 300,000 tonnes of waste wood into renewable electricity, with the addition generating up to 400,000 tons of CDRs per annum. Its InBECCS project was listed on Puro.earth's Future Facility program in December 2025, making it the first and only UK BECCS project included in that program.
 
 ![Evero Energy website](/screenshots/v1-thumbnails/evero-energy.jpg)
 

@@ -2,7 +2,7 @@
 title: "InnoSepra"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"16-7,16-3,16-4\\">InnoSepra, founded in 2007 by Dr. Ravi Jain and based in Middlesex, NJ, is testing its second-generation post-combustion carbon cap"
+description: "InnoSepra, founded in 2007 by Dr. Ravi Jain and based in Middlesex, NJ, is testing its second-generation post-combustion carbon capture technology at Technology"
 url: "/directory/innosepra/"
 pathway: "DAC"
 liveliness: "🟡 Moderate"
@@ -21,7 +21,7 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-<cite index="16-7,16-3,16-4">InnoSepra, founded in 2007 by Dr. Ravi Jain and based in Middlesex, NJ, is testing its second-generation post-combustion carbon capture technology at Technology Centre Mongstad (TCM), with partial funding from the US Department of Energy.</cite> The company has received multiple DOE SBIR awards to develop a sorbent-based Direct Air Capture process, <cite index="2-1">advancing a DAC process using sorbent materials with high CO2 capacities and low regeneration energy requirements</cite>. It remains an R&D-stage DAC technology developer and therefore qualifies as a supplier.
+InnoSepra, founded in 2007 by Dr. Ravi Jain and based in Middlesex, NJ, is testing its second-generation post-combustion carbon capture technology at Technology Centre Mongstad (TCM), with partial funding from the US Department of Energy. The company has received multiple DOE SBIR awards to develop a sorbent-based Direct Air Capture process, advancing a DAC process using sorbent materials with high CO2 capacities and low regeneration energy requirements. It remains an R&D-stage DAC technology developer and therefore qualifies as a supplier.
 
 ![InnoSepra website](/screenshots/v1-thumbnails/innosepra.jpg)
 

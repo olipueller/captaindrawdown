@@ -2,28 +2,30 @@
 title: "ACT Group"
 layout: "single"
 type: "directory"
-description: "ACT Group is a sustainability solutions provider that offers decarbonization products and services, including biochar projects, to help organizations reduce and"
+description: "ACT Group is a Netherlands-headquartered decarbonization solutions provider and carbon/environmental commodities broker founded in 2009, with offices in Amsterd"
 url: "/directory/act-group/"
-pathway: "Biochar"
+pathway: "Enabling Tech"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
+**Pathway:** Enabling Tech
+**Secondary pathways:** Biochar
 **Method:** Biochar
 **Country:** Netherlands
-**Status:** 🟢 Active (score: 90/100)
-**CDR Focus:** supplier
+**Status:** 🟢 Active (score: 85/100)
+**CDR Focus:** ecosystem
 **Evidence signals:** last_evidence_url
 
 ## About
 
-ACT Group is a sustainability solutions provider that offers decarbonization products and services, including biochar projects, to help organizations reduce and mitigate their carbon footprint.
+ACT Group is a Netherlands-headquartered decarbonization solutions provider and carbon/environmental commodities broker founded in 2009, with offices in Amsterdam, New York, Shanghai, and Paris. It develops and facilitates climate projects — including biochar-based CDR deals such as the Freres Lumber project sold to Microsoft — but acts as an intermediary/project developer rather than a physical CO2 remover.
 
 ![ACT Group website](/screenshots/v1-thumbnails/act-group.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.actgroup.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 ---

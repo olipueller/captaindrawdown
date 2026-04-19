@@ -2,7 +2,7 @@
 title: "Neustark"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"4-12,4-13\\">Founded in 2019, neustark is a spin-off from ETH Zurich based in Bern, and is expanding across Europe with 38 active capture and storage"
+description: "Founded in 2019, neustark is a spin-off from ETH Zurich based in Bern, and is expanding across Europe with 38 active capture and storage projects in Switzerland"
 url: "/directory/neustark/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
@@ -19,7 +19,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="4-12,4-13">Founded in 2019, neustark is a spin-off from ETH Zurich based in Bern, and is expanding across Europe with 38 active capture and storage projects in Switzerland, Germany, Austria, the UK, France, Italy and Liechtenstein.</cite> <cite index="6-10,6-11,6-12,6-13">The company captures CO2 at point source, then binds it in mineral waste streams via an accelerated mineralization process — biogenic CO2 is captured from partnering biogas plants, liquified and transported to construction waste recycling sites where it is injected into concrete granulates or other mineral waste such as slag, permanently binding the CO2.</cite>
+Founded in 2019, neustark is a spin-off from ETH Zurich based in Bern, and is expanding across Europe with 38 active capture and storage projects in Switzerland, Germany, Austria, the UK, France, Italy and Liechtenstein. The company captures CO2 at point source, then binds it in mineral waste streams via an accelerated mineralization process — biogenic CO2 is captured from partnering biogas plants, liquified and transported to construction waste recycling sites where it is injected into concrete granulates or other mineral waste such as slag, permanently binding the CO2.
 
 ![Neustark website](/screenshots/v1-thumbnails/neustark.jpg)
 

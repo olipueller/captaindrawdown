@@ -18,7 +18,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Terrasols (terrasols.earth) is an India-based enhanced rock weathering supplier that crushes volcanic basalt and applies it on farmers' fields to permanently remove atmospheric CO₂ while improving soil health. <cite index="17-2,17-7">They are profiled in the remove. Carbon Removal Accelerator as "Harnessing the power of ERW to permanently remove CO₂ while regenerating soils and enhancing microbial activity for long-term fertility."</cite> They also describe themselves as a sustainability consulting firm, but the operational activity is ERW deployment on smallholder farms.
+Terrasols (terrasols.earth) is an India-based enhanced rock weathering supplier that crushes volcanic basalt and applies it on farmers' fields to permanently remove atmospheric CO₂ while improving soil health. They are profiled in the remove. Carbon Removal Accelerator as "Harnessing the power of ERW to permanently remove CO₂ while regenerating soils and enhancing microbial activity for long-term fertility." They also describe themselves as a sustainability consulting firm, but the operational activity is ERW deployment on smallholder farms.
 
 ![Terrasols website](/screenshots/v1-thumbnails/terrasols.jpg)
 

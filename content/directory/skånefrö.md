@@ -2,7 +2,7 @@
 title: "Skånefrö"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"2-22\\">Skånefrö is one of Sweden's leading seed companies with one of Europe's most modern seed-cleaning facilities</cite>, and it operates a biocha"
+description: "Skånefrö is one of Sweden's leading seed companies with one of Europe's most modern seed-cleaning facilities, and it operates a biochar business line producing"
 url: "/directory/skånefrö/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -18,7 +18,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="2-22">Skånefrö is one of Sweden's leading seed companies with one of Europe's most modern seed-cleaning facilities</cite>, and it operates a biochar business line producing EBC-certified biochar from plant-based residues. <cite index="10-7,10-8,10-10">The company operates pyrolysis facilities (using Pyreg kit) that process park/garden waste, seaweed, and wastewater sludge into biochar</cite>, and was <cite index="7-1,7-2">the first Swedish producer to receive the European Biochar Certificate, using residues from seed and grass-seed production</cite>.
+Skånefrö is one of Sweden's leading seed companies with one of Europe's most modern seed-cleaning facilities, and it operates a biochar business line producing EBC-certified biochar from plant-based residues. The company operates pyrolysis facilities (using Pyreg kit) that process park/garden waste, seaweed, and wastewater sludge into biochar, and was the first Swedish producer to receive the European Biochar Certificate, using residues from seed and grass-seed production.
 
 ![Skånefrö website](/screenshots/v1-thumbnails/sk-nefr.jpg)
 

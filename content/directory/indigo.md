@@ -19,7 +19,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Indigo Ag is a US-based sustainable agriculture company whose Carbon by Indigo program (operated by subsidiary Indigo Carbon PBC) develops and issues agricultural soil carbon credits. <cite index="6-11,6-12">Since 2018, Indigo Carbon has enrolled more than 8 million acres across 28 U.S. states and sequestered/abated approximately 2.1 million metric tons of CO₂e.</cite> <cite index="4-2">Under a 12-year agreement, Microsoft will purchase 2.85 million soil carbon removal credits from Indigo.</cite>
+Indigo Ag is a US-based sustainable agriculture company whose Carbon by Indigo program (operated by subsidiary Indigo Carbon PBC) develops and issues agricultural soil carbon credits. Since 2018, Indigo Carbon has enrolled more than 8 million acres across 28 U.S. states and sequestered/abated approximately 2.1 million metric tons of CO₂e. Under a 12-year agreement, Microsoft will purchase 2.85 million soil carbon removal credits from Indigo.
 
 ![Indigo website](/screenshots/v1-thumbnails/indigo.jpg)
 

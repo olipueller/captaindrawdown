@@ -2,7 +2,7 @@
 title: "Carbonaught"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"9-3,9-4\\">Carbonaught is a Brisbane-based startup founded by former mining professionals Andrew Pedley, James Lyons and Rhys Heffernan to turn minin"
+description: "Carbonaught is a Brisbane-based startup founded by former mining professionals Andrew Pedley, James Lyons and Rhys Heffernan to turn mining waste into a farm in"
 url: "/directory/carbonaught/"
 pathway: "Enhanced Weathering"
 liveliness: "🟢 Active"
@@ -19,7 +19,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="9-3,9-4">Carbonaught is a Brisbane-based startup founded by former mining professionals Andrew Pedley, James Lyons and Rhys Heffernan to turn mining waste into a farm input that delivers measurable carbon removal.</cite> <cite index="1-10,1-11">Its enhanced rock weathering technology is deployed in trials across Queensland, New South Wales, Western Australia and California, with initial focus on sugarcane and expansion into horticulture, grains, cotton, beef, dairy and rice.</cite> <cite index="9-14,9-15">The company is also developing a digital platform connecting quarry operators, farmers and carbon credit buyers, with GPS-based application tracking and carbon-removal verification.</cite>
+Carbonaught is a Brisbane-based startup founded by former mining professionals Andrew Pedley, James Lyons and Rhys Heffernan to turn mining waste into a farm input that delivers measurable carbon removal. Its enhanced rock weathering technology is deployed in trials across Queensland, New South Wales, Western Australia and California, with initial focus on sugarcane and expansion into horticulture, grains, cotton, beef, dairy and rice. The company is also developing a digital platform connecting quarry operators, farmers and carbon credit buyers, with GPS-based application tracking and carbon-removal verification.
 
 ![Carbonaught website](/screenshots/v1-thumbnails/carbonaught.jpg)
 

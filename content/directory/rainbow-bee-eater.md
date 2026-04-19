@@ -2,7 +2,7 @@
 title: "Rainbow Bee Eater"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"1-1\\">Rainbow Bee Eater's ECHO2 is a modular automated carbon-negative system for transforming low-value biomass residues into energy, biochar, wood"
+description: "Rainbow Bee Eater's ECHO2 is a modular automated carbon-negative system for transforming low-value biomass residues into energy, biochar, wood vinegar, horticul"
 url: "/directory/rainbow-bee-eater/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -18,7 +18,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="1-1">Rainbow Bee Eater's ECHO2 is a modular automated carbon-negative system for transforming low-value biomass residues into energy, biochar, wood vinegar, horticultural CO2 and carbon drawdown certificates.</cite> <cite index="2-10,2-11">They were the first company outside Europe to produce and sell Puro.earth certified CORCs, generating roughly 1 CORC per tonne of feedstock.</cite> <cite index="7-1,7-9">RBE installed a Mark 4 ECHO2 system at Holla-Fresh in June 2024 and is installing six Mark 4 modules at Katunga Fresh in Victoria.</cite>
+Rainbow Bee Eater's ECHO2 is a modular automated carbon-negative system for transforming low-value biomass residues into energy, biochar, wood vinegar, horticultural CO2 and carbon drawdown certificates. They were the first company outside Europe to produce and sell Puro.earth certified CORCs, generating roughly 1 CORC per tonne of feedstock. RBE installed a Mark 4 ECHO2 system at Holla-Fresh in June 2024 and is installing six Mark 4 modules at Katunga Fresh in Victoria.
 
 ![Rainbow Bee Eater website](/screenshots/v1-thumbnails/rainbow-bee-eater.jpg)
 

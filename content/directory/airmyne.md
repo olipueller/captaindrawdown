@@ -2,7 +2,7 @@
 title: "AirMyne"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"9-7,9-8,9-9\\">AirMyne is a next-generation Direct Air Capture company whose patented process uses a liquid capture agent and a low-temperature therm"
+description: "AirMyne is a next-generation Direct Air Capture company whose patented process uses a liquid capture agent and a low-temperature thermal regeneration process th"
 url: "/directory/airmyne/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -21,7 +21,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="9-7,9-8,9-9">AirMyne is a next-generation Direct Air Capture company whose patented process uses a liquid capture agent and a low-temperature thermal regeneration process that can integrate with various low-carbon energy sources.</cite> <cite index="2-17">The company was selected for two DOE Regional DAC Hub projects, including the Red Rocks DAC Hub led by Fervo Energy and the CALDAC Hub led by UC Berkeley.</cite> <cite index="1-3">AirMyne is planning its DeltaDAC initial project for deployment in the Port of Stockton with support from the California Energy Commission.</cite>
+AirMyne is a next-generation Direct Air Capture company whose patented process uses a liquid capture agent and a low-temperature thermal regeneration process that can integrate with various low-carbon energy sources. The company was selected for two DOE Regional DAC Hub projects, including the Red Rocks DAC Hub led by Fervo Energy and the CALDAC Hub led by UC Berkeley. AirMyne is planning its DeltaDAC initial project for deployment in the Port of Stockton with support from the California Energy Commission.
 
 ![AirMyne website](/screenshots/v1-thumbnails/airmyne.jpg)
 

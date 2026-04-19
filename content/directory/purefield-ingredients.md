@@ -2,7 +2,7 @@
 title: "PureField Ingredients"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"1-7,1-8\\">PureField Ingredients operates a U.S.-based integrated food ingredient and advanced biofuels platform in Russell, Kansas, producing wheat "
+description: "PureField Ingredients operates a U.S.-based integrated food ingredient and advanced biofuels platform in Russell, Kansas, producing wheat protein ingredients an"
 url: "/directory/purefield-ingredients/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
@@ -18,7 +18,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="1-7,1-8">PureField Ingredients operates a U.S.-based integrated food ingredient and advanced biofuels platform in Russell, Kansas, producing wheat protein ingredients and low-carbon biofuels from U.S.-grown crops.</cite> <cite index="1-2,1-6">In April 2026, the EPA approved the company's request to begin permanent geologic sequestration of CO2 from the Russell operations, and following final commissioning PureField will begin CCS operations.</cite> <cite index="6-3,6-4">The Class VI well permit allows PureField Carbon Capture LLC to permanently store up to 1.8 million metric tons of CO2 over 12 years at a depth of about 3,500 feet.</cite>
+PureField Ingredients operates a U.S.-based integrated food ingredient and advanced biofuels platform in Russell, Kansas, producing wheat protein ingredients and low-carbon biofuels from U.S.-grown crops. In April 2026, the EPA approved the company's request to begin permanent geologic sequestration of CO2 from the Russell operations, and following final commissioning PureField will begin CCS operations. The Class VI well permit allows PureField Carbon Capture LLC to permanently store up to 1.8 million metric tons of CO2 over 12 years at a depth of about 3,500 feet.
 
 ![PureField Ingredients website](/screenshots/v1-thumbnails/purefield-ingredients.jpg)
 

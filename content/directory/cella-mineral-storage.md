@@ -2,7 +2,7 @@
 title: "Cella Mineral Storage"
 layout: "single"
 type: "directory"
-description: "Cella Mineral Storage is a New York-based startup operating carbon mineralization storage in Kenya's Rift Valley, injecting captured CO2 into basaltic volcanic "
+description: "Cella Mineral Storage is a New York-based startup operating carbon mineralization storage in Kenya's Rift Valley, injecting captured CO2 into basaltic volcanic"
 url: "/directory/cella-mineral-storage/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"

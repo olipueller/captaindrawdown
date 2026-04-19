@@ -2,7 +2,7 @@
 title: "Gaia Refinery"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"2-4\\">Halifax-based Gaia Refinery was founded in 2020 by Dr. Tammy Cai and Genny Shaw to scale up carbon removal systems</cite>. <cite index=\\"4-1,4-"
+description: "Halifax-based Gaia Refinery was founded in 2020 by Dr. Tammy Cai and Genny Shaw to scale up carbon removal systems. The company has developed a dual-capture pro"
 url: "/directory/gaia-refinery/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -21,7 +21,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="2-4">Halifax-based Gaia Refinery was founded in 2020 by Dr. Tammy Cai and Genny Shaw to scale up carbon removal systems</cite>. <cite index="4-1,4-2">The company has developed a dual-capture process that combines biomass carbon removal (BiCRS) with direct air capture (DAC) to remove CO2 from the atmosphere and biogenic sources, designed for integration into industrial operations</cite>. They are a Canadian CDR technology developer (supplier), backed by accelerators including Brinc, Hatcher+, Kiloton Fund, and CICE's Women in Climate Tech program.
+Halifax-based Gaia Refinery was founded in 2020 by Dr. Tammy Cai and Genny Shaw to scale up carbon removal systems. The company has developed a dual-capture process that combines biomass carbon removal (BiCRS) with direct air capture (DAC) to remove CO2 from the atmosphere and biogenic sources, designed for integration into industrial operations. They are a Canadian CDR technology developer (supplier), backed by accelerators including Brinc, Hatcher+, Kiloton Fund, and CICE's Women in Climate Tech program.
 
 ![Gaia Refinery website](/screenshots/v1-thumbnails/gaia-refinery.jpg)
 

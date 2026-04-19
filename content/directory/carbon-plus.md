@@ -2,7 +2,7 @@
 title: "Carbon Plus"
 layout: "single"
 type: "directory"
-description: "Carbon Plus is a Malaysian company that develops and implements industrial-scale biochar facilities, converting biomass into biochar for carbon sequestration an"
+description: "Carbon Plus is a Malaysia-based biochar project developer that operates the Bukit Selar Carbon Station in Kelantan — described as Malaysia's first industrial bi"
 url: "/directory/carbon-plus/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -12,17 +12,18 @@ liveliness: "🟡 Moderate"
 **Method:** Biochar
 **Country:** Malaysia
 **Website:** [https://www.carbonplus.com.my/](https://www.carbonplus.com.my/)
-**Status:** 🟡 Moderate (score: 50/100)
+**Status:** 🟡 Moderate (score: 60/100)
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Carbon Plus is a Malaysian company that develops and implements industrial-scale biochar facilities, converting biomass into biochar for carbon sequestration and producing biochar, pyroligneous acid, and renewable energy.
+Carbon Plus is a Malaysia-based biochar project developer that operates the Bukit Selar Carbon Station in Kelantan — described as Malaysia's first industrial biochar facility — through its subsidiary Carbon Zero. The demo plant has a nameplate capacity of 500 tonnes of biochar and ~1,200 tCO2e removed annually, with dMRV provided by CrystalTrade and credits issued under the Puro.earth standard.
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://carbon-plus.org/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 ---

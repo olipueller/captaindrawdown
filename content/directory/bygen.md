@@ -2,7 +2,7 @@
 title: "Bygen"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"5-1,5-2\\">Founded in 2018 and headquartered in Melbourne, Australia, Bygen produces sustainable activated carbon from renewable agricultural and for"
+description: "Founded in 2018 and headquartered in Melbourne, Australia, Bygen produces sustainable activated carbon from renewable agricultural and forestry by-products. The"
 url: "/directory/bygen/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -20,7 +20,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="5-1,5-2">Founded in 2018 and headquartered in Melbourne, Australia, Bygen produces sustainable activated carbon from renewable agricultural and forestry by-products.</cite> <cite index="2-16,2-17">Their novel 'low-temperature activation' (LTA) technology converts carbon-rich materials like nut shells and wood into activated carbon, optimising pyrolysis and activation to improve energy efficiency and reduce emissions.</cite> <cite index="5-14">At a North American production plant, Bygen's technology was independently validated as carbon-negative via a Life Cycle Assessment (LCA) in accordance with ISO 14040, 14044, and 14067 standards.</cite>
+Founded in 2018 and headquartered in Melbourne, Australia, Bygen produces sustainable activated carbon from renewable agricultural and forestry by-products. Their novel 'low-temperature activation' (LTA) technology converts carbon-rich materials like nut shells and wood into activated carbon, optimising pyrolysis and activation to improve energy efficiency and reduce emissions. At a North American production plant, Bygen's technology was independently validated as carbon-negative via a Life Cycle Assessment (LCA) in accordance with ISO 14040, 14044, and 14067 standards.
 
 ![Bygen website](/screenshots/v1-thumbnails/bygen.jpg)
 

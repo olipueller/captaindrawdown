@@ -2,7 +2,7 @@
 title: "South Ocean Air"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"14-4,14-5,14-6\\">South Ocean Air is a Houston, Texas-based Direct Air Capture company that launched on Earth Day (April 22) 2023, using cellulose as"
+description: "South Ocean Air is a Houston, Texas-based Direct Air Capture company that launched on Earth Day (April 22) 2023, using cellulose as the core material for its ca"
 url: "/directory/south-ocean-air/"
 pathway: "DAC"
 liveliness: "🟡 Moderate"
@@ -18,7 +18,7 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-<cite index="14-4,14-5,14-6">South Ocean Air is a Houston, Texas-based Direct Air Capture company that launched on Earth Day (April 22) 2023, using cellulose as the core material for its carbon removal technology.</cite> <cite index="1-10,1-11">The company uses a low-energy plasma treatment to turn plant cellulose into a passive "carbon magnet" that pulls ambient CO2 from the air for permanent storage or reuse.</cite> The company is pre-commercial, targeting a long-term cost of under $20/ton based on techno-economic projections, with no publicly announced deliveries or funding rounds to date.
+South Ocean Air is a Houston, Texas-based Direct Air Capture company that launched on Earth Day (April 22) 2023, using cellulose as the core material for its carbon removal technology. The company uses a low-energy plasma treatment to turn plant cellulose into a passive "carbon magnet" that pulls ambient CO2 from the air for permanent storage or reuse. The company is pre-commercial, targeting a long-term cost of under $20/ton based on techno-economic projections, with no publicly announced deliveries or funding rounds to date.
 
 ![South Ocean Air website](/screenshots/v1-thumbnails/south-ocean-air.jpg)
 

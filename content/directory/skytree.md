@@ -2,7 +2,7 @@
 title: "Skytree"
 layout: "single"
 type: "directory"
-description: "Skytree is a Dutch direct air capture technology company founded in 2014, headquartered in Amsterdam with offices in Toronto and Nashville. It develops modular "
+description: "Skytree is a Dutch direct air capture technology company founded in 2014, headquartered in Amsterdam with offices in Toronto and Nashville. It develops modular"
 url: "/directory/skytree/"
 pathway: "DAC"
 liveliness: "🟢 Active"

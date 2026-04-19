@@ -2,7 +2,7 @@
 title: "ZEN Carbon"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"3-6,3-7\\">ZEN Carbon is a Kenya-based startup whose mineralization technology injects captured CO₂ directly into concrete, cutting cement use and em"
+description: "ZEN Carbon is a Kenya-based startup whose mineralization technology injects captured CO₂ directly into concrete, cutting cement use and emissions while strength"
 url: "/directory/zen-carbon/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
@@ -19,7 +19,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="3-6,3-7">ZEN Carbon is a Kenya-based startup whose mineralization technology injects captured CO₂ directly into concrete, cutting cement use and emissions while strengthening the material itself.</cite> <cite index="3-11">It sources CO₂ from partners like Octavia Carbon's Direct Air Capture systems and infuses it into concrete during mixing.</cite> <cite index="2-3">In late 2025 the company moved from pilot stage to live industrial deployment by partnering with Flamingo Concrete, a ready-mix concrete supplier in Kenya.</cite>
+ZEN Carbon is a Kenya-based startup whose mineralization technology injects captured CO₂ directly into concrete, cutting cement use and emissions while strengthening the material itself. It sources CO₂ from partners like Octavia Carbon's Direct Air Capture systems and infuses it into concrete during mixing. In late 2025 the company moved from pilot stage to live industrial deployment by partnering with Flamingo Concrete, a ready-mix concrete supplier in Kenya.
 
 ![ZEN Carbon website](/screenshots/v1-thumbnails/zen-carbon.jpg)
 

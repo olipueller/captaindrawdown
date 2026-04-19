@@ -2,7 +2,7 @@
 title: "APD"
 layout: "single"
 type: "directory"
-description: "APD (Auen Pflege Dienst AG) is a Swiss company based in Flaach, Zürich, that produces biochar via certified pyrolysis plants using local biomass feedstocks. It "
+description: "APD (Auen Pflege Dienst AG) is a Swiss company based in Flaach, Zürich, that produces biochar via certified pyrolysis plants using local biomass feedstocks. It"
 url: "/directory/apd/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"

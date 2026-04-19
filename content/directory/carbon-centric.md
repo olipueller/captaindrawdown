@@ -2,7 +2,7 @@
 title: "Carbon Centric"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"4-16,4-17\\">Carbon Centric, established in 2021, develops, builds and operates carbon capture plants for industry and the energy sector, aiming to m"
+description: "Carbon Centric, established in 2021, develops, builds and operates carbon capture plants for industry and the energy sector, aiming to make carbon capture scala"
 url: "/directory/carbon-centric/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
@@ -20,7 +20,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="4-16,4-17">Carbon Centric, established in 2021, develops, builds and operates carbon capture plants for industry and the energy sector, aiming to make carbon capture scalable for small and medium-sized emission sources in Norway and the Nordic region.</cite> Its Rakkestad plant at Østfold Energi's waste-to-energy facility began operations in September 2025 as a CCU demonstrator, while its flagship BECCS project at Kirkenær with Solør Bioenergi targets ~32,000 t/yr of biogenic CO2 removal and <cite index="7-1">has completed the Puro.earth Preliminary Assessment</cite>, backed by a long-term offtake agreement with DNV.
+Carbon Centric, established in 2021, develops, builds and operates carbon capture plants for industry and the energy sector, aiming to make carbon capture scalable for small and medium-sized emission sources in Norway and the Nordic region. Its Rakkestad plant at Østfold Energi's waste-to-energy facility began operations in September 2025 as a CCU demonstrator, while its flagship BECCS project at Kirkenær with Solør Bioenergi targets ~32,000 t/yr of biogenic CO2 removal and has completed the Puro.earth Preliminary Assessment, backed by a long-term offtake agreement with DNV.
 
 ![Carbon Centric website](/screenshots/v1-thumbnails/carbon-centric.jpg)
 

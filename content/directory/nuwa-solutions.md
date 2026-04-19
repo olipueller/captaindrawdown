@@ -2,7 +2,7 @@
 title: "NuWa Solutions"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"13-1,13-2\\">NuWa Solutions is a Delaware-based marine carbon dioxide removal company specializing in ocean alkalinity enhancement and blue carbon ap"
+description: "NuWa Solutions is a Delaware-based marine carbon dioxide removal company specializing in ocean alkalinity enhancement and blue carbon approaches, working with g"
 url: "/directory/nuwa-solutions/"
 pathway: "Ocean CDR"
 liveliness: "🟡 Moderate"
@@ -18,7 +18,7 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-<cite index="13-1,13-2">NuWa Solutions is a Delaware-based marine carbon dioxide removal company specializing in ocean alkalinity enhancement and blue carbon approaches, working with governments, institutions, and enterprises.</cite> <cite index="11-1,11-4">The company develops OAE for verifiable marine CO2 removal with rigorous MRV and safety guardrails, and is currently pre-credit with a buyer interest list.</cite>
+NuWa Solutions is a Delaware-based marine carbon dioxide removal company specializing in ocean alkalinity enhancement and blue carbon approaches, working with governments, institutions, and enterprises. The company develops OAE for verifiable marine CO2 removal with rigorous MRV and safety guardrails, and is currently pre-credit with a buyer interest list.
 
 ![NuWa Solutions website](/screenshots/v1-thumbnails/nuwa-solutions.jpg)
 

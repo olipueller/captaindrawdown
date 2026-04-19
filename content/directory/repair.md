@@ -2,7 +2,7 @@
 title: "RepAir"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"6-9,6-10,6-11\\">RepAir Carbon Capture is an Israeli direct air capture company developing an electrochemical device inspired by batteries and fuel c"
+description: "RepAir Carbon Capture is an Israeli direct air capture company developing an electrochemical device inspired by batteries and fuel cells that uses electricity a"
 url: "/directory/repair/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -18,7 +18,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="6-9,6-10,6-11">RepAir Carbon Capture is an Israeli direct air capture company developing an electrochemical device inspired by batteries and fuel cells that uses electricity and a selective membrane to separate CO2 from the atmosphere.</cite> <cite index="6-12">The company raised a $10M Series A led by Extantia Capital, with participation from Equinor Ventures, Shell Ventures, and Zero Carbon Capital.</cite> <cite index="3-18,3-19,3-20">They received a Frontier purchase for 199 tons of CO2 removal in 2022</cite> and <cite index="9-3,9-4">unveiled a field prototype in November 2023, achieving TRL 6.</cite>
+RepAir Carbon Capture is an Israeli direct air capture company developing an electrochemical device inspired by batteries and fuel cells that uses electricity and a selective membrane to separate CO2 from the atmosphere. The company raised a $10M Series A led by Extantia Capital, with participation from Equinor Ventures, Shell Ventures, and Zero Carbon Capital. They received a Frontier purchase for 199 tons of CO2 removal in 2022 and unveiled a field prototype in November 2023, achieving TRL 6.
 
 ![RepAir website](/screenshots/v1-thumbnails/repair.jpg)
 

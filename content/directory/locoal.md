@@ -2,17 +2,18 @@
 title: "LOCOAL"
 layout: "single"
 type: "directory"
-description: "LOCOAL utilizes proprietary mobile containerized fluidized gasifiers to convert commercial wood waste into clean energy and biochar, which sequesters carbon and"
+description: "LOCOAL is a US waste-to-energy and biochar company that builds the Rainmaker induction pyrolysis platform to convert biomass waste (wood, agricultural, forestry"
 url: "/directory/locoal/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 **Pathway:** Biochar
+**Secondary pathways:** Enabling Tech
 **Method:** Biochar
 **Country:** United States
 **Website:** [https://www.locoal.com/](https://www.locoal.com/)
-**Status:** 🟡 Moderate (score: 55/100)
+**Status:** 🟢 Active (score: 70/100)
 **Employees:** ~21 (0% YoY)
 **LinkedIn Followers:** 2,275
 **CDR Focus:** supplier
@@ -20,13 +21,14 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-LOCOAL utilizes proprietary mobile containerized fluidized gasifiers to convert commercial wood waste into clean energy and biochar, which sequesters carbon and filters soil and water.
+LOCOAL is a US waste-to-energy and biochar company that builds the Rainmaker induction pyrolysis platform to convert biomass waste (wood, agricultural, forestry residues) into biochar, bio-oil/wood vinegar, and syngas for clean electricity. The biochar co-product sequesters carbon, and the company's IMPCT.AI software tracks carbon reductions for carbon credits. Recent 2025 blog posts and LinkedIn activity indicate the company remains operational.
 
 ![LOCOAL website](/screenshots/v1-thumbnails/locoal.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.locoal.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/locoal/)

@@ -2,7 +2,7 @@
 title: "CO2CO"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"11-3,11-4,11-5\\">CO2CO is a UK carbon-removal start-up that has developed a process of growing microalgae and converting the biomass into biochar, u"
+description: "CO2CO is a UK carbon-removal start-up that has developed a process of growing microalgae and converting the biomass into biochar, used for agricultural or affor"
 url: "/directory/co2co/"
 pathway: "Biochar"
 liveliness: "🟠 Suspect"
@@ -18,7 +18,7 @@ liveliness: "🟠 Suspect"
 
 ## About
 
-<cite index="11-3,11-4,11-5">CO2CO is a UK carbon-removal start-up that has developed a process of growing microalgae and converting the biomass into biochar, used for agricultural or afforestation purposes to embed carbon into the soil carbon reservoir, with the aim of delivering the process at scale.</cite> The company is a spin-out involving <cite index="11-6">founders from the energy and infrastructure sectors and academics from Imperial College London</cite>, and has received an Innovate UK feasibility grant to develop microalgal biomass as a bitumen alternative.
+CO2CO is a UK carbon-removal start-up that has developed a process of growing microalgae and converting the biomass into biochar, used for agricultural or afforestation purposes to embed carbon into the soil carbon reservoir, with the aim of delivering the process at scale. The company is a spin-out involving founders from the energy and infrastructure sectors and academics from Imperial College London, and has received an Innovate UK feasibility grant to develop microalgal biomass as a bitumen alternative.
 
 ![CO2CO website](/screenshots/v1-thumbnails/co2co.jpg)
 

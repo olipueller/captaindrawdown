@@ -20,7 +20,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Econew is a Brazilian clean bioenergy company based in northern Minas Gerais that produces biochar via continuous pyrolysis of FSC®/PEFC-certified eucalyptus residues. <cite index="11-1,11-2">Their continuous pyrolysis process converts FSC®/PEFC-certified eucalyptus residues into biochar with a high fixed-carbon content, with each ton of confirmed CO₂ removal corresponding to one carbon credit available in the voluntary market.</cite> They align with Puro.earth standards for permanent carbon removal credits.
+Econew is a Brazilian clean bioenergy company based in northern Minas Gerais that produces biochar via continuous pyrolysis of FSC®/PEFC-certified eucalyptus residues. Their continuous pyrolysis process converts FSC®/PEFC-certified eucalyptus residues into biochar with a high fixed-carbon content, with each ton of confirmed CO₂ removal corresponding to one carbon credit available in the voluntary market. They align with Puro.earth standards for permanent carbon removal credits.
 
 ![Econew website](/screenshots/v1-thumbnails/econew.jpg)
 

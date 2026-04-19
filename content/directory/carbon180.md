@@ -2,7 +2,7 @@
 title: "Carbon180"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"2-1,2-2\\">Carbon180 is a nonprofit environmental organization headquartered in Washington, D.C., co-founded in 2015 by Giana Amador and Noah Deich a"
+description: "Carbon180 is a nonprofit environmental organization headquartered in Washington, D.C., co-founded in 2015 by Giana Amador and Noah Deich at UC Berkeley (formerl"
 url: "/directory/carbon180/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
@@ -19,7 +19,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="2-1,2-2">Carbon180 is a nonprofit environmental organization headquartered in Washington, D.C., co-founded in 2015 by Giana Amador and Noah Deich at UC Berkeley</cite> (formerly known as Center for Carbon Removal). <cite index="2-4,2-5">Its main activities include federal policy advocacy, the New Carbon Economy Consortium, and the Leading with Soil Initiative, and it publishes fact sheets and deep dives on various carbon removal approaches.</cite> CDR is its entire mission, making it part of the CDR ecosystem rather than a physical supplier.
+Carbon180 is a nonprofit environmental organization headquartered in Washington, D.C., co-founded in 2015 by Giana Amador and Noah Deich at UC Berkeley (formerly known as Center for Carbon Removal). Its main activities include federal policy advocacy, the New Carbon Economy Consortium, and the Leading with Soil Initiative, and it publishes fact sheets and deep dives on various carbon removal approaches. CDR is its entire mission, making it part of the CDR ecosystem rather than a physical supplier.
 
 
 ## History

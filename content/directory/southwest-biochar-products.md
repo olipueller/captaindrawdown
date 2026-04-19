@@ -2,7 +2,7 @@
 title: "Southwest Biochar Products"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"4-1,4-2\\">Southwest Biochar Products, operating since 2022, scaled up in fall 2024 from a single reactor to a 5-reactor system with capacity to prod"
+description: "Southwest Biochar Products, operating since 2022, scaled up in fall 2024 from a single reactor to a 5-reactor system with capacity to produce over 12,000 yards"
 url: "/directory/southwest-biochar-products/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -18,7 +18,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="4-1,4-2">Southwest Biochar Products, operating since 2022, scaled up in fall 2024 from a single reactor to a 5-reactor system with capacity to produce over 12,000 yards per year.</cite> <cite index="4-9,4-10,4-11">Feedstock is sourced entirely from National Forest thinning projects, using biomass that would otherwise be burned to reduce wildfire risk.</cite> The company sells biochar as a soil amendment and partners with 3Degrees on carbon credit offtake.
+Southwest Biochar Products, operating since 2022, scaled up in fall 2024 from a single reactor to a 5-reactor system with capacity to produce over 12,000 yards per year. Feedstock is sourced entirely from National Forest thinning projects, using biomass that would otherwise be burned to reduce wildfire risk. The company sells biochar as a soil amendment and partners with 3Degrees on carbon credit offtake.
 
 
 ## History

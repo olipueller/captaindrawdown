@@ -2,7 +2,7 @@
 title: "Catch 23"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"3-1,3-2\\">Catch 23 was founded in 2020 as a Nordic retailer of captured carbon dioxide, working on the brokerage of captured carbon dioxide and comm"
+description: "Catch 23 was founded in 2020 as a Nordic retailer of captured carbon dioxide, working on the brokerage of captured carbon dioxide and communication about the be"
 url: "/directory/catch-23/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
@@ -18,7 +18,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="3-1,3-2">Catch 23 was founded in 2020 as a Nordic retailer of captured carbon dioxide, working on the brokerage of captured carbon dioxide and communication about the benefits of carbon capture.</cite> <cite index="2-1,2-2">The company sells CRC (Carbon Removal Certificate) credits for negative emissions from Stockholm Exergi's planned BECCS facility in Värtan, Stockholm, targeting Nordic corporate customers.</cite> They do not physically remove CO2 themselves but operate as a sales channel for Stockholm Exergi's removals.
+Catch 23 was founded in 2020 as a Nordic retailer of captured carbon dioxide, working on the brokerage of captured carbon dioxide and communication about the benefits of carbon capture. The company sells CRC (Carbon Removal Certificate) credits for negative emissions from Stockholm Exergi's planned BECCS facility in Värtan, Stockholm, targeting Nordic corporate customers. They do not physically remove CO2 themselves but operate as a sales channel for Stockholm Exergi's removals.
 
 
 ## History

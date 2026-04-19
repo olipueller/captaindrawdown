@@ -2,7 +2,7 @@
 title: "Patch"
 layout: "single"
 type: "directory"
-description: "Patch is a platform and marketplace that provides technology to help organizations manage, sell, and buy high-integrity carbon credits from a global network of "
+description: "Patch is a climate solutions provider that offers companies software, data and expertise to streamline purchasing and management of carbon credits. The platform"
 url: "/directory/patch/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
@@ -12,14 +12,14 @@ liveliness: "🟢 Active"
 **Method:** CDR Platform/Marketplace
 **Country:** United States
 **Website:** [https://www.patch.io/](https://www.patch.io/)
-**Status:** 🟢 Active (score: 90/100)
+**Status:** 🟢 Active (score: 92/100)
 **Open roles on cdrjobs:** 12
-**CDR Focus:** supplier
+**CDR Focus:** ecosystem
 **Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-Patch is a platform and marketplace that provides technology to help organizations manage, sell, and buy high-integrity carbon credits from a global network of climate solutions, including various CDR methods.
+Patch is a climate solutions provider that offers companies software, data and expertise to streamline purchasing and management of carbon credits. The platform aggregates a centralized database of more than 25,000 projects, including 100% of the projects from ICROA-endorsed registries. Patch is part of the CDR ecosystem as a marketplace/platform, not a supplier that physically removes CO2.
 
 ![Patch website](/screenshots/v1-thumbnails/patch.jpg)
 
@@ -29,6 +29,7 @@ Patch is a platform and marketplace that provides technology to help organizatio
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.patch.io/))
 - **2026-04-18** — backfilled from V1
 
 ---

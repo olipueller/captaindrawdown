@@ -2,7 +2,7 @@
 title: "NULIFE GreenTech"
 layout: "single"
 type: "directory"
-description: "NULIFE GreenTech transforms waste biomass into stable, carbon-rich bio-oil using Hydrothermal Liquefaction (HTL) technology, which is then permanently sequester"
+description: "NULIFE GreenTech is a Canadian (Saskatoon) BiCRS supplier operating a commercial HTL facility that converts waste biomass into biocrude for permanent geological"
 url: "/directory/nulife-greentech/"
 pathway: "Biomass Burial"
 liveliness: "🟢 Active"
@@ -12,13 +12,13 @@ liveliness: "🟢 Active"
 **Method:** Bio-oil Sequestration
 **Country:** Canada
 **Website:** [https://www.nulifegreentech.com/](https://www.nulifegreentech.com/)
-**Status:** 🟢 Active (score: 100/100)
+**Status:** 🟢 Active (score: 90/100)
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, registry_isometric
 
 ## About
 
-NULIFE GreenTech transforms waste biomass into stable, carbon-rich bio-oil using Hydrothermal Liquefaction (HTL) technology, which is then permanently sequestered in underground reservoirs.
+NULIFE GreenTech is a Canadian (Saskatoon) BiCRS supplier operating a commercial HTL facility that converts waste biomass into biocrude for permanent geological storage, with credits issued via the Isometric registry. It was selected by Frontier buyers for a multi-year 122,000-ton offtake covering 2026–2030 and has been delivering verified CDR credits since September 2025.
 
 ![NULIFE GreenTech website](/screenshots/v1-thumbnails/nulife-greentech.jpg)
 
@@ -28,6 +28,7 @@ NULIFE GreenTech transforms waste biomass into stable, carbon-rich bio-oil using
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://nulifegreentech.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 ---

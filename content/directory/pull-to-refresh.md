@@ -2,29 +2,31 @@
 title: "Pull to Refresh"
 layout: "single"
 type: "directory"
-description: "Pull to Refresh is a BiCRS company that uses a biomass-fueled process to transform shredded garbage into carbon and hydrogen char for long-term soil carbon stor"
+description: "Pull To Refresh Inc. is a California-based (San Francisco/Lucerne) carbon removal startup founded in 2021. Its current focus is a biomass-fueled process that tr"
 url: "/directory/pull-to-refresh/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** Biochar
+**Secondary pathways:** Ocean CDR
 **Method:** Biochar
 **Country:** United States
 **Website:** [https://pulltorefresh.earth/](https://pulltorefresh.earth/)
-**Status:** 🟢 Active (score: 95/100)
+**Status:** 🟡 Moderate (score: 55/100)
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Pull to Refresh is a BiCRS company that uses a biomass-fueled process to transform shredded garbage into carbon and hydrogen char for long-term soil carbon storage, while also generating energy.
+Pull To Refresh Inc. is a California-based (San Francisco/Lucerne) carbon removal startup founded in 2021. Its current focus is a biomass-fueled process that transforms shredded garbage into carbon/hydrogen char for durable soil storage while supplying energy to cement production, having pivoted from an earlier XPRIZE-era concept of sinking invasive seaweed with autonomous solar vessels. The company self-identifies as a carbon removal supplier across biomass, biochar, and ocean pathways.
 
 ![Pull to Refresh website](/screenshots/v1-thumbnails/pull-to-refresh.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://pulltorefresh.earth/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 ---

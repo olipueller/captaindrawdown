@@ -2,17 +2,17 @@
 title: "Drax/Elimini"
 layout: "single"
 type: "directory"
-description: "Elimini, a US-based business launched by Drax, is dedicated to permanently removing carbon from the atmosphere by developing a portfolio of Bioenergy with Carbo"
+description: "Elimini is a wholly owned US-based subsidiary of UK energy group Drax, launched in September 2024 at Climate Week NYC to develop BECCS projects in North America"
 url: "/directory/draxelimini/"
 pathway: "BECCS"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** BECCS
 **Method:** BECCS
 **Country:** United States
 **Website:** [https://elimini.com/](https://elimini.com/)
-**Status:** 🟢 Active (score: 80/100)
+**Status:** 🟡 Moderate (score: 65/100)
 **Employees:** ~44 (-23% YoY)
 **LinkedIn Followers:** 2,303
 **CDR Focus:** division
@@ -20,13 +20,14 @@ liveliness: "🟢 Active"
 
 ## About
 
-Elimini, a US-based business launched by Drax, is dedicated to permanently removing carbon from the atmosphere by developing a portfolio of Bioenergy with Carbon Capture and Storage (BECCS) projects.
+Elimini is a wholly owned US-based subsidiary of UK energy group Drax, launched in September 2024 at Climate Week NYC to develop BECCS projects in North America and internationally and to market carbon removals from Drax Power Station. Its first 300 MW greenfield BECCS project (3Mt CO2/year) is under development with Sargent & Lundy, and in July 2025 it signed a joint development agreement with Copenhagen utility HOFOR for a Danish BECCS facility.
 
 ![Drax/Elimini website](/screenshots/v1-thumbnails/drax-elimini.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟡 Moderate ([source](https://www.prnewswire.com/news-releases/elimini-and-hofor-sign-strategic-agreements-for-landmark-danish-beccs-project-to-permanently-remove-co2-302514970.html))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/elimini/)

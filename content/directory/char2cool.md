@@ -2,29 +2,30 @@
 title: "Char2Cool"
 layout: "single"
 type: "directory"
-description: "Char2Cool is a non-profit association that removes CO2 by harvesting water hyacinths and converting them into biochar, which is then introduced into depleted so"
+description: "Char2Cool e.V. is a registered German non-profit association, run by a two-person core team (Walter and Katharina) based in Reisbach, Lower Bavaria, focused on"
 url: "/directory/char2cool/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** Biochar
 **Method:** Biochar
 **Country:** Germany
 **Website:** [https://char2cool.org/?lang=en](https://char2cool.org/?lang=en)
-**Status:** 🟢 Active (score: 75/100)
+**Status:** 🟡 Moderate (score: 55/100)
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Char2Cool is a non-profit association that removes CO2 by harvesting water hyacinths and converting them into biochar, which is then introduced into depleted soils.
+Char2Cool e.V. is a registered German non-profit association, run by a two-person core team (Walter and Katharina) based in Reisbach, Lower Bavaria, focused on climate protection through the use of water hyacinths. They work with communities across Africa to turn the invasive weed into biochar as a permanent carbon sink, with the Char2Cool team providing know-how while local partners set up and run production and sell the biochar locally as a soil enhancer.
 
 ![Char2Cool website](/screenshots/v1-thumbnails/char2cool.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://char2cool.org/?lang=en))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 ---

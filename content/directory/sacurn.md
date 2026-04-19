@@ -2,27 +2,28 @@
 title: "Sacurn"
 layout: "single"
 type: "directory"
-description: "Sacurn is a Taiwanese company focused on carbon dioxide removal, likely utilizing biochar as its primary method based on its category and the general search con"
+description: "Sacurn Carbon is a Taiwanese carbon credit developer and trader, not a physical CDR supplier. In January 2024 they became the first and only Taiwanese seller on"
 url: "/directory/sacurn/"
-pathway: "Biochar"
-liveliness: "🟠 Suspect"
+pathway: "Enabling Tech"
+liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
+**Pathway:** Enabling Tech
 **Method:** Biochar
 **Country:** Taiwan
 **Website:** [https://sacurn.com/](https://sacurn.com/)
-**Status:** 🟠 Suspect (score: 40/100)
-**CDR Focus:** supplier
+**Status:** 🟡 Moderate (score: 55/100)
+**CDR Focus:** ecosystem
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Sacurn is a Taiwanese company focused on carbon dioxide removal, likely utilizing biochar as its primary method based on its category and the general search context.
+Sacurn Carbon is a Taiwanese carbon credit developer and trader, not a physical CDR supplier. In January 2024 they became the first and only Taiwanese seller on the Taiwan Carbon Solution Exchange (TCX), transacting 6,257 tons of credits from a biogas project in Kenya. They market themselves as developing CDR projects, but their actual business is brokering/trading voluntary carbon credits — making them an ecosystem participant rather than a removal supplier.
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟡 Moderate ([source](https://www.prnewswire.com/apac/news-releases/sacurn-carbon-the-first-and-only-taiwanese-seller-on-the-taiwan-carbon-solution-exchanges-trading-platform-302044195.html))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 ---

@@ -2,7 +2,7 @@
 title: "Captur Tower"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"11-8,11-9,11-10\\">Captur Tower was founded in 2023, is headquartered in Madrid, Spain, and has 5 total employees.</cite> <cite index=\\"2-1\\">The compa"
+description: "Captur Tower was founded in 2023, is headquartered in Madrid, Spain, and has 5 total employees. The company's system integrates direct air capture (DAC) units w"
 url: "/directory/captur-tower/"
 pathway: "DAC"
 liveliness: "🟡 Moderate"
@@ -20,7 +20,7 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-<cite index="11-8,11-9,11-10">Captur Tower was founded in 2023, is headquartered in Madrid, Spain, and has 5 total employees.</cite> <cite index="2-1">The company's system integrates direct air capture (DAC) units with existing cooling towers, leveraging waste heat for efficient CO2 removal directly from the atmosphere.</cite> It is an early-stage supplier building DAC removal technology rather than a broker or buyer.
+Captur Tower was founded in 2023, is headquartered in Madrid, Spain, and has 5 total employees. The company's system integrates direct air capture (DAC) units with existing cooling towers, leveraging waste heat for efficient CO2 removal directly from the atmosphere. It is an early-stage supplier building DAC removal technology rather than a broker or buyer.
 
 ![Captur Tower website](/screenshots/v1-thumbnails/captur-tower.jpg)
 

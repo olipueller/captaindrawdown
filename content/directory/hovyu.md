@@ -2,7 +2,7 @@
 title: "Hovyu"
 layout: "single"
 type: "directory"
-description: "Hovyu is a Netherlands-based carbon capture engineering firm developing the ZEUS (Zero-Emission Ultra-Stripping) liquid-solvent process for Direct Air Capture, "
+description: "Hovyu is a Netherlands-based carbon capture engineering firm developing the ZEUS (Zero-Emission Ultra-Stripping) liquid-solvent process for Direct Air Capture,"
 url: "/directory/hovyu/"
 pathway: "DAC"
 liveliness: "🟡 Moderate"
@@ -21,7 +21,7 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-Hovyu is a Netherlands-based carbon capture engineering firm developing the ZEUS (Zero-Emission Ultra-Stripping) liquid-solvent process for Direct Air Capture, flue gas capture, and biogas upgrading. <cite index="3-1,3-3,3-4">Their ZEUS technology is a flexible and scalable process to remove CO2 from industrial emissions or from air, with CO2 release proceeding at room temperature requiring no heat, which is an advantage where steam availability is constrained.</cite> <cite index="1-2">They have diversified international operations with projects in the Netherlands, Norway and Brazil.</cite>
+Hovyu is a Netherlands-based carbon capture engineering firm developing the ZEUS (Zero-Emission Ultra-Stripping) liquid-solvent process for Direct Air Capture, flue gas capture, and biogas upgrading. Their ZEUS technology is a flexible and scalable process to remove CO2 from industrial emissions or from air, with CO2 release proceeding at room temperature requiring no heat, which is an advantage where steam availability is constrained. They have diversified international operations with projects in the Netherlands, Norway and Brazil.
 
 ![Hovyu website](/screenshots/v1-thumbnails/hovyu.jpg)
 

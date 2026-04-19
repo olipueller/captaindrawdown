@@ -2,23 +2,23 @@
 title: "Pacific Biochar"
 layout: "single"
 type: "directory"
-description: "Pacific Biochar is a BiCRS company that produces biochar from forest residue biomass through pyrolysis, which is then applied to soil to remove and store carbon"
+description: "Pacific Biochar is a California-based benefit corporation that produces biochar by modifying existing biomass power plants (e.g., Humboldt Sawmill, Hat Creek Bi"
 url: "/directory/pacific-biochar/"
-pathway: "Biomass Burial"
+pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biomass Burial
+**Pathway:** Biochar
 **Method:** Biomass Carbon Removal
 **Country:** United States
 **Website:** [https://www.pacificbiochar.com](https://www.pacificbiochar.com)
-**Status:** 🟢 Active (score: 100/100)
+**Status:** 🟢 Active (score: 90/100)
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, registry_puro
 
 ## About
 
-Pacific Biochar is a BiCRS company that produces biochar from forest residue biomass through pyrolysis, which is then applied to soil to remove and store carbon dioxide while improving soil health and aiding forest management.
+Pacific Biochar is a California-based benefit corporation that produces biochar by modifying existing biomass power plants (e.g., Humboldt Sawmill, Hat Creek Bioenergy) to co-produce biochar from forest residue feedstock. The biochar is distributed for agricultural use, primarily blended with compost, delivering durable carbon removal credits registered on Puro.earth. They were CDR.FYI's #1 durable CDR supplier by deliveries in 2023.
 
 ![Pacific Biochar website](/screenshots/v1-thumbnails/pacific-biochar.jpg)
 
@@ -28,6 +28,7 @@ Pacific Biochar is a BiCRS company that produces biochar from forest residue bio
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://pacificbiochar.com/))
 - **2026-04-18** — backfilled from V1
 
 ---

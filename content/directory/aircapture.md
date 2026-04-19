@@ -2,17 +2,18 @@
 title: "Aircapture"
 layout: "single"
 type: "directory"
-description: "Aircapture develops modular, onsite Direct Air Capture (DAC) units that use a proprietary Amine-functionalized solid sorbent to capture CO2 from the atmosphere,"
+description: "Founded in 2019, Aircapture provides modular on-site DAC machines to produce CO2 at the site of industrial demand, and in late 2024 teamed up with 44.01 to laun"
 url: "/directory/aircapture/"
 pathway: "DAC"
 liveliness: "🟢 Active"
 ---
 
 **Pathway:** DAC
+**Secondary pathways:** Mineralization
 **Method:** DAC (Solid Sorbent)
 **Country:** United States
 **Website:** [https://www.aircapture.com/](https://www.aircapture.com/)
-**Status:** 🟢 Active (score: 85/100)
+**Status:** 🟢 Active (score: 95/100)
 **Employees:** ~49 (+17% YoY)
 **LinkedIn Followers:** 5,998
 **Open roles on cdrjobs:** 1
@@ -21,7 +22,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Aircapture develops modular, onsite Direct Air Capture (DAC) units that use a proprietary Amine-functionalized solid sorbent to capture CO2 from the atmosphere, which can then be converted into liquid CO2 or dry ice for industrial and retail use.
+Founded in 2019, Aircapture provides modular on-site DAC machines to produce CO2 at the site of industrial demand, and in late 2024 teamed up with 44.01 to launch a DAC-to-sequestration project in Fujairah, UAE, where captured CO2 is mineralised into rock. In June 2025 the company announced a $50 million Series A round led by the Larsen Lam Climate Change Foundation to scale deployment of its modular DAC systems, following its 2025 XPRIZE Carbon Removal win. Most output serves CO2-as-a-Service (beverage, concrete, agriculture), but Project Hajar provides a permanent removal pathway.
 
 ![Aircapture website](/screenshots/v1-thumbnails/aircapture.jpg)
 
@@ -31,6 +32,7 @@ Aircapture develops modular, onsite Direct Air Capture (DAC) units that use a pr
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://carbonherald.com/aircapture-secures-50m-in-series-a-funding-to-scale-its-modular-dac-tech/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/aircapture-llc/)

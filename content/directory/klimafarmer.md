@@ -2,7 +2,7 @@
 title: "Klimafarmer"
 layout: "single"
 type: "directory"
-description: "Klimafarmer is a German company that produces and trades biochar-based products, primarily for agriculture, to sequester carbon."
+description: "Klimafarmer GmbH is a German biochar company founded in 2019 and based in Nierstein, Rhineland-Palatinate, with production activity across Rhineland-Palatinate,"
 url: "/directory/klimafarmer/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -12,7 +12,7 @@ liveliness: "🟢 Active"
 **Method:** Biochar
 **Country:** Germany
 **Website:** [https://klimafarmer.de/](https://klimafarmer.de/)
-**Status:** 🟢 Active (score: 90/100)
+**Status:** 🟢 Active (score: 78/100)
 **Employees:** ~2 (0% YoY)
 **LinkedIn Followers:** 200
 **CDR Focus:** supplier
@@ -20,13 +20,14 @@ liveliness: "🟢 Active"
 
 ## About
 
-Klimafarmer is a German company that produces and trades biochar-based products, primarily for agriculture, to sequester carbon.
+Klimafarmer GmbH is a German biochar company founded in 2019 and based in Nierstein, Rhineland-Palatinate, with production activity across Rhineland-Palatinate, Hesse and North Rhine-Westphalia. It sells EBC-certified biochar products and runs "Klimawinzer" projects with wineries (e.g. Schloss Vollrads) that carbonize vine cuttings into biochar for soil application and long-term CO2 storage.
 
 ![Klimafarmer website](/screenshots/v1-thumbnails/klimafarmer.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://klimafarmer.de/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/klimafarmer-gmbh/)

@@ -2,18 +2,18 @@
 title: "3Degrees"
 layout: "single"
 type: "directory"
-description: "3Degrees is a San Francisco-based global climate solutions consultancy and B Corp that operates as a carbon credit project developer and retailer, helping Fortu"
+description: "3Degrees is a San Francisco-based Certified B Corporation that helps Fortune 500 companies, utilities, and other organizations achieve renewable energy and deca"
 url: "/directory/3degrees/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
 ---
 
 **Pathway:** Enabling Tech
-**Secondary pathways:** Biochar, Afforestation, Enhanced Weathering, BECCS
+**Secondary pathways:** Biochar, BECCS, Enhanced Weathering, Afforestation
 **Method:** BiCRS (Other)
 **Country:** United States
 **Website:** [https://3degreesinc.com/](https://3degreesinc.com/)
-**Status:** 🟢 Active (score: 90/100)
+**Status:** 🟢 Active (score: 92/100)
 **Employees:** ~325 (-1% YoY)
 **LinkedIn Followers:** 24,692
 **CDR Focus:** ecosystem
@@ -21,13 +21,14 @@ liveliness: "🟢 Active"
 
 ## About
 
-3Degrees is a San Francisco-based global climate solutions consultancy and B Corp that operates as a carbon credit project developer and retailer, helping Fortune 500 companies and utilities procure renewable energy and carbon removal credits. Through its Carbon Removal Suite (CDR Bridge and CDR Catalyst), it aggregates and brokers third-party removal credits across biochar, BECCS, ERW, and improved forest management — notably facilitating Microsoft's 80,000-tonne IFM purchase from Western Rivers Conservancy. It is part of the CDR ecosystem as a broker/retailer/aggregator rather than a direct removal operator.
+3Degrees is a San Francisco-based Certified B Corporation that helps Fortune 500 companies, utilities, and other organizations achieve renewable energy and decarbonization goals. Its Carbon Removal Suite offers two products — CDR Bridge, which facilitates access to verified, primarily nature-based removals complemented by hybrid and engineered solutions, and CDR Catalyst, which focuses on emerging/innovative removal project types. 3Degrees is both a carbon credit project developer and retailer that helps clients find climate finance opportunities to meet long-term climate goals.
 
 ![3Degrees website](/screenshots/v1-thumbnails/3degrees.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://3degreesinc.com/what-we-do/implement-your-strategy/carbon-credits/carbon-removal-suite/))
 - **2026-04-18** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://3degreesinc.com/what-we-do/implement-your-strategy/carbon-credits/carbon-removal-suite/))
 - **2026-04-18** — reclassified: pathway=Enabling Tech focus=buyer_excluded liveliness=🟢 Active ([source](https://3degreesinc.com/what-we-do/implement-your-strategy/carbon-credits/carbon-removal-suite/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))

@@ -2,7 +2,7 @@
 title: "Caligenia"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"7-1\\">Caligenia is an Argentine biotechnology startup that leverages scientific knowledge in biochar, microorganisms, and soil management practices "
+description: "Caligenia is an Argentine biotechnology startup that leverages scientific knowledge in biochar, microorganisms, and soil management practices to restore degrade"
 url: "/directory/caligenia/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -18,7 +18,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="7-1">Caligenia is an Argentine biotechnology startup that leverages scientific knowledge in biochar, microorganisms, and soil management practices to restore degraded soils and remove CO2 from the atmosphere.</cite> <cite index="1-6">The company is building the first biochar production plant in Argentina, located in Luján.</cite> <cite index="10-1,10-4">The Argentina-based firm transforms chicken manure into "bacterchar" to turn degraded soils into farmable land, and is seeking to relocate/expand to Tulsa and test in U.S. fields.</cite>
+Caligenia is an Argentine biotechnology startup that leverages scientific knowledge in biochar, microorganisms, and soil management practices to restore degraded soils and remove CO2 from the atmosphere. The company is building the first biochar production plant in Argentina, located in Luján. The Argentina-based firm transforms chicken manure into "bacterchar" to turn degraded soils into farmable land, and is seeking to relocate/expand to Tulsa and test in U.S. fields.
 
 ![Caligenia website](/screenshots/v1-thumbnails/caligenia.jpg)
 

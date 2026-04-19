@@ -2,7 +2,7 @@
 title: "Orsted"
 layout: "single"
 type: "directory"
-description: "Orsted is a renewable energy company actively involved in Bioenergy with Carbon Capture and Storage (BECCS) projects, capturing CO2 from biomass-fired power pla"
+description: "Ørsted is a Danish renewable energy utility developing the Kalundborg CO2 Hub, a BECCS project capturing biogenic CO2 from its wood-chip-fired Asnæs and straw-f"
 url: "/directory/orsted/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
@@ -12,13 +12,13 @@ liveliness: "🟢 Active"
 **Method:** BECCS
 **Country:** Denmark
 **Website:** [https://orsted.com/](https://orsted.com/)
-**Status:** 🟢 Active (score: 100/100)
-**CDR Focus:** supplier
+**Status:** 🟢 Active (score: 92/100)
+**CDR Focus:** division
 **Evidence signals:** website, last_evidence_url, registry_cdrjobsearth
 
 ## About
 
-Orsted is a renewable energy company actively involved in Bioenergy with Carbon Capture and Storage (BECCS) projects, capturing CO2 from biomass-fired power plants and storing it underground.
+Ørsted is a Danish renewable energy utility developing the Kalundborg CO2 Hub, a BECCS project capturing biogenic CO2 from its wood-chip-fired Asnæs and straw-fired Avedøre power stations for permanent subsea storage via Northern Lights in the Norwegian North Sea. The company has signed major carbon-removal offtake agreements totaling 3.67 Mt with Microsoft and 330,000 tonnes with Equinor, with operations commencing in 2025-2026. While Ørsted's main business is renewable power, its BECCS activities constitute a material CDR supplier division.
 
 ![Orsted website](/screenshots/v1-thumbnails/orsted.jpg)
 
@@ -28,6 +28,7 @@ Orsted is a renewable energy company actively involved in Bioenergy with Carbon 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://orsted.com/en/other-energy-sources/bioenergy/carbon-capture-and-storage))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 ---

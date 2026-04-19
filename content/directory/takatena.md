@@ -2,7 +2,7 @@
 title: "Takatena"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"16-1,16-2\\">Takatena transforms Kenya's organic waste into biochar via pyrolysis plants, aiming to enhance soil health and reduce carbon emissions.<"
+description: "Takatena transforms Kenya's organic waste into biochar via pyrolysis plants, aiming to enhance soil health and reduce carbon emissions. They sell biochar in vol"
 url: "/directory/takatena/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -18,7 +18,7 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-<cite index="16-1,16-2">Takatena transforms Kenya's organic waste into biochar via pyrolysis plants, aiming to enhance soil health and reduce carbon emissions.</cite> They sell biochar in volumes tied to CO2 removal (e.g. <cite index="6-4">1000 kg biochar representing ~3 tons CO2</cite>) and have received early-stage investment from Remove (Netherlands).
+Takatena transforms Kenya's organic waste into biochar via pyrolysis plants, aiming to enhance soil health and reduce carbon emissions. They sell biochar in volumes tied to CO2 removal (e.g. 1000 kg biochar representing ~3 tons CO2) and have received early-stage investment from Remove (Netherlands).
 
 ![Takatena website](/screenshots/v1-thumbnails/takatena.jpg)
 

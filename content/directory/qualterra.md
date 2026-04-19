@@ -2,7 +2,7 @@
 title: "Qualterra"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"6-3,6-4\\">Qualterra is an agricultural technology company whose Cheney, Washington biochar production facility was listed on the Climate Action Rese"
+description: "Qualterra is an agricultural technology company whose Cheney, Washington biochar production facility was listed on the Climate Action Reserve (CAR) registry in"
 url: "/directory/qualterra/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -18,7 +18,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="6-3,6-4">Qualterra is an agricultural technology company whose Cheney, Washington biochar production facility was listed on the Climate Action Reserve (CAR) registry in April 2025 — only the third biochar project globally to achieve registration under CAR's U.S. Biochar Protocol.</cite> <cite index="3-4">Headquartered in Washington State, Qualterra operates three commercial facilities that serve customers all over the world.</cite> They sell biochar to farmers and manufacture/sell biomass processing units to customers such as Vaagen Timbers, and partner with 3Degrees to deliver verified carbon removal credits.
+Qualterra is an agricultural technology company whose Cheney, Washington biochar production facility was listed on the Climate Action Reserve (CAR) registry in April 2025 — only the third biochar project globally to achieve registration under CAR's U.S. Biochar Protocol. Headquartered in Washington State, Qualterra operates three commercial facilities that serve customers all over the world. They sell biochar to farmers and manufacture/sell biomass processing units to customers such as Vaagen Timbers, and partner with 3Degrees to deliver verified carbon removal credits.
 
 ![Qualterra website](/screenshots/v1-thumbnails/qualterra.jpg)
 

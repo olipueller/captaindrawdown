@@ -2,7 +2,7 @@
 title: "BAIE Minerals"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"5-15,5-17,5-18,5-19\\">BAIE Minerals is a Canadian startup extracting critical minerals from mining waste and using what's left over to draw CO2 from"
+description: "BAIE Minerals is a Canadian startup extracting critical minerals from mining waste and using what's left over to draw CO2 from the atmosphere, by leveraging mag"
 url: "/directory/baie-minerals/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
@@ -20,7 +20,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="5-15,5-17,5-18,5-19">BAIE Minerals is a Canadian startup extracting critical minerals from mining waste and using what's left over to draw CO2 from the atmosphere, by leveraging magnesium-rich ultramafic tailings that react with atmospheric CO2 to form magnesium carbonate and permanently sequester carbon.</cite> <cite index="5-8,5-9,5-10">Their process produces high-purity magnesium oxide that absorbs 1.1 tons of CO2 per ton of material within hours; the pilot facility currently processes around 200 pounds of tailings an hour and the company aims to build a full-scale facility in 2027.</cite> Business model combines carbon removal credits with sales of extracted minerals for cement and fertilizer.
+BAIE Minerals is a Canadian startup extracting critical minerals from mining waste and using what's left over to draw CO2 from the atmosphere, by leveraging magnesium-rich ultramafic tailings that react with atmospheric CO2 to form magnesium carbonate and permanently sequester carbon. Their process produces high-purity magnesium oxide that absorbs 1.1 tons of CO2 per ton of material within hours; the pilot facility currently processes around 200 pounds of tailings an hour and the company aims to build a full-scale facility in 2027. Business model combines carbon removal credits with sales of extracted minerals for cement and fertilizer.
 
 ![BAIE Minerals website](/screenshots/v1-thumbnails/baie-minerals.jpg)
 

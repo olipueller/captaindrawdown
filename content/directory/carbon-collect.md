@@ -2,7 +2,7 @@
 title: "Carbon Collect"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"10-3,10-4,10-5,10-6,10-7\\">Carbon Collect, formerly Silicon Kingdom Holdings Limited, specializes in carbon capture technology and offers the Mechan"
+description: "Carbon Collect, formerly Silicon Kingdom Holdings Limited, specializes in carbon capture technology and offers the MechanicalTree, a passive, scalable system de"
 url: "/directory/carbon-collect/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -20,7 +20,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="10-3,10-4,10-5,10-6,10-7">Carbon Collect, formerly Silicon Kingdom Holdings Limited, specializes in carbon capture technology and offers the MechanicalTree, a passive, scalable system designed to capture CO₂ from ambient air without energy-intensive processes; it was founded in 2018 and is based in Dublin, Ireland.</cite> <cite index="2-8,2-9">In 2025, Carbon Collect installed its Gen-II MechanicalTree™, which doubles CO₂ capture per cycle and uses lightweight, non-metallic, recyclable materials.</cite>
+Carbon Collect, formerly Silicon Kingdom Holdings Limited, specializes in carbon capture technology and offers the MechanicalTree, a passive, scalable system designed to capture CO₂ from ambient air without energy-intensive processes; it was founded in 2018 and is based in Dublin, Ireland. In 2025, Carbon Collect installed its Gen-II MechanicalTree™, which doubles CO₂ capture per cycle and uses lightweight, non-metallic, recyclable materials.
 
 ![Carbon Collect website](/screenshots/v1-thumbnails/carbon-collect.jpg)
 

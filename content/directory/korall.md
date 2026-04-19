@@ -2,7 +2,7 @@
 title: "KORALL"
 layout: "single"
 type: "directory"
-description: "KORALL is a Swedish company developing a novel liquid Direct Air Capture (DAC) technology that uses a liquid solvent to filter atmospheric air and bind carbon i"
+description: "KORALL (Korall Carbon Capture AB) is a Swedish DAC startup headquartered in Gothenburg, founded in 2023, developing a novel liquid solvent DAC technology that b"
 url: "/directory/korall/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -12,7 +12,7 @@ liveliness: "🟢 Active"
 **Method:** DAC (Liquid Solvent)
 **Country:** Sweden
 **Website:** [https://www.korall.cc/](https://www.korall.cc/)
-**Status:** 🟢 Active (score: 90/100)
+**Status:** 🟢 Active (score: 70/100)
 **Employees:** ~8 (+60% YoY)
 **LinkedIn Followers:** 701
 **CDR Focus:** supplier
@@ -20,13 +20,14 @@ liveliness: "🟢 Active"
 
 ## About
 
-KORALL is a Swedish company developing a novel liquid Direct Air Capture (DAC) technology that uses a liquid solvent to filter atmospheric air and bind carbon in solid form, aiming to make CO2 removal more efficient.
+KORALL (Korall Carbon Capture AB) is a Swedish DAC startup headquartered in Gothenburg, founded in 2023, developing a novel liquid solvent DAC technology that binds captured CO2 in solid form to reduce process steps and energy use. The company targets both permanent geological storage (mineralization in bedrock) and CO2 utilization for renewable fuels, and designs plants to flex power consumption with renewable grid surplus.
 
 ![KORALL website](/screenshots/v1-thumbnails/korall.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.korall.cc/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/korallcc/)

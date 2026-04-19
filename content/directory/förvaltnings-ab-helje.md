@@ -2,7 +2,7 @@
 title: "Förvaltnings AB Helje"
 layout: "single"
 type: "directory"
-description: "Förvaltnings AB Helje is a real estate company that owns facilities, including biochar production at Essunga Plantskola AB, and sells the produced biochar."
+description: "Förvaltnings AB Helje is a Swedish property/holding company associated with Heljesgården in Essunga, which houses Essunga Plantskola's biochar production facili"
 url: "/directory/förvaltnings-ab-helje/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -12,19 +12,20 @@ liveliness: "🟡 Moderate"
 **Method:** Biochar
 **Country:** Sweden
 **Website:** [https://global-c-registry.org/project-view/1111](https://global-c-registry.org/project-view/1111)
-**Status:** 🟡 Moderate (score: 45/100)
+**Status:** 🟡 Moderate (score: 60/100)
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Förvaltnings AB Helje is a real estate company that owns facilities, including biochar production at Essunga Plantskola AB, and sells the produced biochar.
+Förvaltnings AB Helje is a Swedish property/holding company associated with Heljesgården in Essunga, which houses Essunga Plantskola's biochar production facility (built 2022). Biochar is produced primarily for use in the nursery's own peat-reduced growing substrate, with carbon-removal credits listed on the Global-C Registry. It is a small side-business of a family-owned plant nursery group (Esstella Group).
 
 ![Förvaltnings AB Helje website](/screenshots/v1-thumbnails/f-rvaltnings-ab-helje.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://eplanta.com/producenter/essunga-plantskola/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 ---

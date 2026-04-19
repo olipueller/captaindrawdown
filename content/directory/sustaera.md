@@ -2,7 +2,7 @@
 title: "Sustaera"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"16-12,16-13\\">Founded in 2021 and headquartered in Cary, North Carolina, Sustaera's technology captures CO2 directly from the atmosphere using renew"
+description: "Founded in 2021 and headquartered in Cary, North Carolina, Sustaera's technology captures CO2 directly from the atmosphere using renewable energy, designed for"
 url: "/directory/sustaera/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -18,7 +18,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="16-12,16-13">Founded in 2021 and headquartered in Cary, North Carolina, Sustaera's technology captures CO2 directly from the atmosphere using renewable energy, designed for scalability and cost-effectiveness.</cite> The company is backed by Breakthrough Energy Ventures and the Grantham Foundation, and <cite index="15-8">its technology was selected for the Ankeron Hub, a Department of Energy (DOE)-backed initiative designed to validate technologies at a readiness level of 4-6.</cite> <cite index="17-18,17-19">Sustaera is also changing how its technology reaches the market by offering a technology licensing model, which reduces risk for carbon removal project developers.</cite>
+Founded in 2021 and headquartered in Cary, North Carolina, Sustaera's technology captures CO2 directly from the atmosphere using renewable energy, designed for scalability and cost-effectiveness. The company is backed by Breakthrough Energy Ventures and the Grantham Foundation, and its technology was selected for the Ankeron Hub, a Department of Energy (DOE)-backed initiative designed to validate technologies at a readiness level of 4-6. Sustaera is also changing how its technology reaches the market by offering a technology licensing model, which reduces risk for carbon removal project developers.
 
 ![Sustaera website](/screenshots/v1-thumbnails/sustaera.jpg)
 

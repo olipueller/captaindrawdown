@@ -2,7 +2,7 @@
 title: "Chooose AS"
 layout: "single"
 type: "directory"
-description: "Chooose AS is a CDR platform/marketplace that provides software solutions for integrating climate action, automating emissions calculations, and offering access"
+description: "Chooose AS is an Oslo, Norway-based climate-tech SaaS company that provides software and APIs for enterprises — particularly airlines, travel, and logistics — t"
 url: "/directory/chooose-as/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
@@ -12,14 +12,14 @@ liveliness: "🟢 Active"
 **Method:** CDR Platform/Marketplace
 **Country:** Norway
 **Website:** [https://www.chooose.today/](https://www.chooose.today/)
-**Status:** 🟢 Active (score: 75/100)
+**Status:** 🟢 Active (score: 90/100)
 **Open roles on cdrjobs:** 1
-**CDR Focus:** supplier
+**CDR Focus:** ecosystem
 **Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-Chooose AS is a CDR platform/marketplace that provides software solutions for integrating climate action, automating emissions calculations, and offering access to high-quality carbon removal credits. They also focus on accelerating sustainable aviation fuel programs.
+Chooose AS is an Oslo, Norway-based climate-tech SaaS company that provides software and APIs for enterprises — particularly airlines, travel, and logistics — to manage SAF programs, calculate emissions, and access a vetted marketplace of carbon removals and offsets. They do not physically remove CO2 themselves; instead they operate as an ecosystem platform connecting SAF producers, registries (RSB, SAFc), airlines, and corporate scope-3 buyers. Founded in 2017, backed by GenZero, SOUNDWaves, Shell Ventures and Amadeus.
 
 ![Chooose AS website](/screenshots/v1-thumbnails/chooose-as.jpg)
 
@@ -29,6 +29,7 @@ Chooose AS is a CDR platform/marketplace that provides software solutions for in
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.chooose.today/))
 - **2026-04-18** — backfilled from V1
 
 ---

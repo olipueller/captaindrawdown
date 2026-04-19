@@ -2,7 +2,7 @@
 title: "HyveGeo"
 layout: "single"
 type: "directory"
-description: "HyveGeo is a BiCRS company that transforms biogenic residues into carbon-rich biochar, supercharged with microalgae, to remove carbon and regenerate degraded la"
+description: "HyveGeo is a UK/UAE-based climate-tech startup (founded 2023) that produces engineered biochar from agricultural and forestry residues, charged with microalgae-"
 url: "/directory/hyvegeo/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -12,7 +12,7 @@ liveliness: "🟢 Active"
 **Method:** Biochar
 **Country:** United Kingdom
 **Website:** [https://hyvegeo.com/](https://hyvegeo.com/)
-**Status:** 🟢 Active (score: 70/100)
+**Status:** 🟢 Active (score: 85/100)
 **Employees:** ~6 (-14% YoY)
 **LinkedIn Followers:** 1,400
 **CDR Focus:** supplier
@@ -20,11 +20,12 @@ liveliness: "🟢 Active"
 
 ## About
 
-HyveGeo is a BiCRS company that transforms biogenic residues into carbon-rich biochar, supercharged with microalgae, to remove carbon and regenerate degraded land, particularly in desert environments.
+HyveGeo is a UK/UAE-based climate-tech startup (founded 2023) that produces engineered biochar from agricultural and forestry residues, charged with microalgae-derived biostimulants and beneficial microbes, to regenerate arid desert soils while locking away carbon. The company operates pilots in the UAE and sells CDR credits alongside soil-regeneration products.
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://hyvegeo.com/solutions/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/hyvegeo/)

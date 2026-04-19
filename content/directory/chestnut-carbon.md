@@ -2,7 +2,7 @@
 title: "Chestnut Carbon"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"2-7,2-8,2-9\\">Chestnut Carbon is a U.S. developer of nature-based carbon removal credits, founded in 2022 with support from asset manager Kimmeridge"
+description: "Chestnut Carbon is a U.S. developer of nature-based carbon removal credits, founded in 2022 with support from asset manager Kimmeridge, that develops forest car"
 url: "/directory/chestnut-carbon/"
 pathway: "Afforestation"
 liveliness: "🟢 Active"
@@ -19,7 +19,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="2-7,2-8,2-9">Chestnut Carbon is a U.S. developer of nature-based carbon removal credits, founded in 2022 with support from asset manager Kimmeridge, that develops forest carbon projects on family-owned forestland and marginal crop and pastureland.</cite> <cite index="5-4,5-5,5-6">The company has planted over 17 million trees across 30,000+ acres of marginal land in the Southeastern U.S., spanning states like Arkansas, Mississippi, Alabama, Louisiana, Texas and Oklahoma, and operates the largest U.S.-based afforestation project listed on the Gold Standard.</cite> It also signed a 25-year, 7 million-ton offtake with Microsoft and closed a $210M non-recourse project finance facility led by J.P. Morgan in 2025.
+Chestnut Carbon is a U.S. developer of nature-based carbon removal credits, founded in 2022 with support from asset manager Kimmeridge, that develops forest carbon projects on family-owned forestland and marginal crop and pastureland. The company has planted over 17 million trees across 30,000+ acres of marginal land in the Southeastern U.S., spanning states like Arkansas, Mississippi, Alabama, Louisiana, Texas and Oklahoma, and operates the largest U.S.-based afforestation project listed on the Gold Standard. It also signed a 25-year, 7 million-ton offtake with Microsoft and closed a $210M non-recourse project finance facility led by J.P. Morgan in 2025.
 
 ![Chestnut Carbon website](/screenshots/v1-thumbnails/chestnut-carbon.jpg)
 

@@ -2,29 +2,31 @@
 title: "SUEZ"
 layout: "single"
 type: "directory"
-description: "SUEZ is a French utility company specializing in water and waste management. They are active in Carbon Dioxide Removal (CDR) through BiCRS methods, specifically"
+description: "SUEZ is a French waste and water utility whose UK arm is developing BECCS retrofits on its Teesside energy-from-waste facilities at Haverton Hill and Wilton, ai"
 url: "/directory/suez/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
 ---
 
 **Pathway:** BECCS
+**Secondary pathways:** Biochar
 **Method:** BECCS
 **Country:** United Kingdom
 **Website:** [https://www.suez.co.uk/en-gb](https://www.suez.co.uk/en-gb)
-**Status:** 🟢 Active (score: 80/100)
-**CDR Focus:** supplier
+**Status:** 🟢 Active (score: 85/100)
+**CDR Focus:** division
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-SUEZ is a French utility company specializing in water and waste management. They are active in Carbon Dioxide Removal (CDR) through BiCRS methods, specifically Bioenergy with Carbon Capture and Storage (BECCS) from waste-to-energy plants and anaerobic digestion, and also produce biochar from forestry residues.
+SUEZ is a French waste and water utility whose UK arm is developing BECCS retrofits on its Teesside energy-from-waste facilities at Haverton Hill and Wilton, aiming to capture up to 900,000 t CO2/year for permanent storage under the North Sea via the East Coast Cluster. SUEZ also inaugurated a biogenic CO2 capture unit at its Terres d'Aquitaine anaerobic-digestion site in France in 2025 and partners with Airex Energy on biochar. CDR is a growing but non-core business line inside a much larger environmental-services parent.
 
 ![SUEZ website](/screenshots/v1-thumbnails/suez.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://www.suez.com/en/news/carbon-capture-use-storage-ccus))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 ---

@@ -2,22 +2,22 @@
 title: "Hjelmsäters Egendom"
 layout: "single"
 type: "directory"
-description: "Hjelmsäters Egendom is a Swedish company that produces biochar from forestry residues using BIOMACON technology. The biochar is used for soil amendment in the a"
+description: "Hjelmsäters Egendom is a Swedish agricultural and forestry estate in Hällekis that operates a biochar production unit (branded biokol.se) using BIOMACON pyrolys"
 url: "/directory/hjelmsäters-egendom/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 **Pathway:** Biochar
 **Method:** Biochar
 **Country:** Sweden
-**Status:** 🟢 Active (score: 70/100)
+**Status:** 🟡 Moderate (score: 60/100)
 **CDR Focus:** supplier
 **Evidence signals:** last_evidence_url, registry_puro
 
 ## About
 
-Hjelmsäters Egendom is a Swedish company that produces biochar from forestry residues using BIOMACON technology. The biochar is used for soil amendment in the agricultural sector and they sell CORCs (CO2 Removal Certificates) via Puro.earth.
+Hjelmsäters Egendom is a Swedish agricultural and forestry estate in Hällekis that operates a biochar production unit (branded biokol.se) using BIOMACON pyrolysis technology fed with forestry residues. The biochar is EBC-certified and used as soil amendment in the agricultural sector, and the project generates CORCs issued through Puro.earth.
 
 ![Hjelmsäters Egendom website](/screenshots/v1-thumbnails/hjelms-ters-egendom.jpg)
 
@@ -27,6 +27,7 @@ Hjelmsäters Egendom is a Swedish company that produces biochar from forestry re
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://puro.earth/CORC-co2-removal-certificate/biochar-in-sweden-hjelmsaeters-egendom-100026))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 ---

@@ -2,17 +2,18 @@
 title: "Boomitra"
 layout: "single"
 type: "directory"
-description: "Boomitra develops large-scale carbon removal projects, primarily focusing on soil carbon projects and pioneering Biomass Carbon Removal and Storage (BiCRS) init"
+description: "Boomitra is a US-headquartered carbon project developer that works with over 100,000 farmers and ranchers across 10+ countries on soil carbon and grassland rest"
 url: "/directory/boomitra/"
-pathway: "BECCS"
+pathway: "Afforestation"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** BECCS
+**Pathway:** Afforestation
+**Secondary pathways:** Biomass Burial, Enabling Tech
 **Method:** BiCRS (Other)
 **Country:** United States
 **Website:** [https://boomitra.com/projects/boomitra-oasis-biomass-carbon-removal-and-storage/](https://boomitra.com/projects/boomitra-oasis-biomass-carbon-removal-and-storage/)
-**Status:** 🟢 Active (score: 85/100)
+**Status:** 🟢 Active (score: 95/100)
 **Employees:** ~51 (-4% YoY)
 **LinkedIn Followers:** 19,798
 **Open roles on cdrjobs:** 1
@@ -21,7 +22,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Boomitra develops large-scale carbon removal projects, primarily focusing on soil carbon projects and pioneering Biomass Carbon Removal and Storage (BiCRS) initiatives.
+Boomitra is a US-headquartered carbon project developer that works with over 100,000 farmers and ranchers across 10+ countries on soil carbon and grassland restoration, using proprietary AI and satellite remote sensing for MRV. In 2025 it expanded beyond soil carbon with the Oasis BiCRS project in Botswana, burying encroaching woody biomass for 100+ year storage. It won the 2023 Earthshot Prize and has issued record-scale Verra-verified credits.
 
 ![Boomitra website](/screenshots/v1-thumbnails/boomitra.jpg)
 
@@ -31,6 +32,7 @@ Boomitra develops large-scale carbon removal projects, primarily focusing on soi
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://boomitra.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/conserwater/)

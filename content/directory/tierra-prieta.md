@@ -2,7 +2,7 @@
 title: "Tierra Prieta"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"1-1,1-2\\">Tierra Prieta is a Mexican biochar producer with a facility in Parras, Coahuila that uses pecan shells as feedstock, and is certifying its"
+description: "Tierra Prieta is a Mexican biochar producer with a facility in Parras, Coahuila that uses pecan shells as feedstock, and is certifying its carbon removal for th"
 url: "/directory/tierra-prieta/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -18,7 +18,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="1-1,1-2">Tierra Prieta is a Mexican biochar producer with a facility in Parras, Coahuila that uses pecan shells as feedstock, and is certifying its carbon removal for the voluntary carbon market.</cite> <cite index="12-3,12-4">Carbon removal was to be certified by Puro.earth in Q2 2024, with current biochar production capacity of 500 tons per year, inaugurated in May 2023.</cite> <cite index="17-2">The startup recently obtained certification of its first 1,200 carbon removal credits.</cite>
+Tierra Prieta is a Mexican biochar producer with a facility in Parras, Coahuila that uses pecan shells as feedstock, and is certifying its carbon removal for the voluntary carbon market. Carbon removal was to be certified by Puro.earth in Q2 2024, with current biochar production capacity of 500 tons per year, inaugurated in May 2023. The startup recently obtained certification of its first 1,200 carbon removal credits.
 
 ![Tierra Prieta website](/screenshots/v1-thumbnails/tierra-prieta.jpg)
 

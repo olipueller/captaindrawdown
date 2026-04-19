@@ -2,7 +2,7 @@
 title: "Seqana"
 layout: "single"
 type: "directory"
-description: "Seqana is a Berlin-based SaaS platform that provides data-driven, remote, and cost-efficient MRV (Monitoring, Reporting, and Verification) tools for soil organi"
+description: "Seqana is an EU-funded, earth observation and ML enabled, SaaS company developing soil carbon monitoring, reporting, and verification (MRV) tools for regenerati"
 url: "/directory/seqana/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
@@ -12,14 +12,14 @@ liveliness: "🟢 Active"
 **Method:** CDR Platform/Marketplace
 **Country:** Switzerland
 **Website:** [https://www.seqana.com/](https://www.seqana.com/)
-**Status:** 🟢 Active (score: 75/100)
+**Status:** 🟢 Active (score: 90/100)
 **Open roles on cdrjobs:** 1
-**CDR Focus:** supplier
+**CDR Focus:** ecosystem
 **Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-Seqana is a Berlin-based SaaS platform that provides data-driven, remote, and cost-efficient MRV (Monitoring, Reporting, and Verification) tools for soil organic carbon in regenerative agriculture and carbon farming projects, leveraging earth observation and machine learning.
+Seqana is an EU-funded, earth observation and ML enabled, SaaS company developing soil carbon monitoring, reporting, and verification (MRV) tools for regenerative agriculture. They support project developers with sampling designs, precision modeling, and standards-compliant documentation (Verra VM0042, Gold Standard). They do not physically remove CO2 themselves; they enable and verify soil carbon projects.
 
 ![Seqana website](/screenshots/v1-thumbnails/seqana.jpg)
 
@@ -29,6 +29,7 @@ Seqana is a Berlin-based SaaS platform that provides data-driven, remote, and co
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.seqana.com/))
 - **2026-04-18** — backfilled from V1
 
 ---

@@ -2,29 +2,30 @@
 title: "Carbex"
 layout: "single"
 type: "directory"
-description: "Carbex GmbH is a German manufacturing company that produces biochar and biochar-based products for various applications, utilizing biochar as a carbon dioxide r"
+description: "Carbex GmbH is a manufacturing company of biochar-based products located in Dischingen, Germany, offering a range of biochar and biochar-based products for a va"
 url: "/directory/carbex/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 **Pathway:** Biochar
 **Method:** Biochar
 **Country:** Germany
 **Website:** [https://carbex.one/](https://carbex.one/)
-**Status:** 🟡 Moderate (score: 50/100)
+**Status:** 🟢 Active (score: 72/100)
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Carbex GmbH is a German manufacturing company that produces biochar and biochar-based products for various applications, utilizing biochar as a carbon dioxide removal method.
+Carbex GmbH is a manufacturing company of biochar-based products located in Dischingen, Germany, offering a range of biochar and biochar-based products for a variety of applications. The company's registered purpose covers R&D, production, trading and distribution of carbon-containing products, especially biochar, as well as energy and emissions trading. It operates at the same address as technology provider Carbon Technik Schuster GmbH, with managing director Vanessa Schuster.
 
 ![Carbex website](/screenshots/v1-thumbnails/carbex.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://biochar-zero.com/company/carbex-gmbh/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/carbex-gmbh/)

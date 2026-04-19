@@ -2,7 +2,7 @@
 title: "Yuanchu Technology"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"3-1,3-2\\">Yuanchu Technology is a Beijing-based company founded in 2014 that develops large-scale, low-cost permanent carbon mineralization technolo"
+description: "Yuanchu Technology is a Beijing-based company founded in 2014 that develops large-scale, low-cost permanent carbon mineralization technology. It is developing d"
 url: "/directory/yuanchu-technology/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
@@ -19,7 +19,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="3-1,3-2">Yuanchu Technology is a Beijing-based company founded in 2014 that develops large-scale, low-cost permanent carbon mineralization technology.</cite> <cite index="16-1,16-2">It is developing direct air mineralization (DAM) technology for removing CO2 from air and permanently sequestering it into solid carbonated material, claiming stability for 1000 years.</cite> <cite index="12-5,12-6">It was selected as an XPRIZE Carbon Removal finalist in the Rocks category competing for the $50M Musk Foundation prize.</cite>
+Yuanchu Technology is a Beijing-based company founded in 2014 that develops large-scale, low-cost permanent carbon mineralization technology. It is developing direct air mineralization (DAM) technology for removing CO2 from air and permanently sequestering it into solid carbonated material, claiming stability for 1000 years. It was selected as an XPRIZE Carbon Removal finalist in the Rocks category competing for the $50M Musk Foundation prize.
 
 ![Yuanchu Technology website](/screenshots/v1-thumbnails/yuanchu-technology.jpg)
 

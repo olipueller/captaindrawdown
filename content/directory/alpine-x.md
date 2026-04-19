@@ -2,7 +2,7 @@
 title: "Alpine X"
 layout: "single"
 type: "directory"
-description: "Alpine X is a France-based direct air capture startup developing compact, modular DAC units optimized for high-altitude mountain deployment. <cite index=\\"1-5,1-"
+description: "Alpine X is a France-based direct air capture startup developing compact, modular DAC units optimized for high-altitude mountain deployment. The company pairs a"
 url: "/directory/alpine-x/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -18,7 +18,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Alpine X is a France-based direct air capture startup developing compact, modular DAC units optimized for high-altitude mountain deployment. <cite index="1-5,1-6,1-7">The company pairs altitude-optimized conditions with MOF materials that work better at low temperatures and low humidity naturally found at high altitude.</cite> <cite index="2-3,2-7,2-8">The technology is currently in an early pilot phase, moving from research into real-world operation with initial modular systems being tested under Alpine conditions.</cite>
+Alpine X is a France-based direct air capture startup developing compact, modular DAC units optimized for high-altitude mountain deployment. The company pairs altitude-optimized conditions with MOF materials that work better at low temperatures and low humidity naturally found at high altitude. The technology is currently in an early pilot phase, moving from research into real-world operation with initial modular systems being tested under Alpine conditions.
 
 ![Alpine X website](/screenshots/v1-thumbnails/alpine-x.jpg)
 

@@ -2,7 +2,7 @@
 title: "OBIO"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"6-1,6-2\\">OBIO is a Norwegian biochar company based in the Opland/central region that built the first industrial-scale pyrolysis plant in Norway at "
+description: "OBIO is a Norwegian biochar company based in the Opland/central region that built the first industrial-scale pyrolysis plant in Norway at Rudshøgda in Ringsaker"
 url: "/directory/obio/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -18,7 +18,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="6-1,6-2">OBIO is a Norwegian biochar company based in the Opland/central region that built the first industrial-scale pyrolysis plant in Norway at Rudshøgda in Ringsaker municipality.</cite> <cite index="4-5,4-6,4-7">Obio AS was founded in December 2022 when the pyrolysis business was transferred from Oplandske Bioenergi, and is owned 60% by district heating company Eidsiva Bioenergi and 40% by forest owners cooperative Glommen Mjøsen Skog.</cite> The company sells Puro.earth CORCs and produces biochar for agricultural, livestock feed, and concrete applications.
+OBIO is a Norwegian biochar company based in the Opland/central region that built the first industrial-scale pyrolysis plant in Norway at Rudshøgda in Ringsaker municipality. Obio AS was founded in December 2022 when the pyrolysis business was transferred from Oplandske Bioenergi, and is owned 60% by district heating company Eidsiva Bioenergi and 40% by forest owners cooperative Glommen Mjøsen Skog. The company sells Puro.earth CORCs and produces biochar for agricultural, livestock feed, and concrete applications.
 
 ![OBIO website](/screenshots/v1-thumbnails/obio.jpg)
 

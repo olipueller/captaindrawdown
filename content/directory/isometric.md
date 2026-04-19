@@ -2,7 +2,7 @@
 title: "Isometric"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"3-19,3-20\\">Isometric is a carbon removal registry, which in 2025 signed its 100th supplier (Flux), with suppliers spanning every major CDR pathway."
+description: "Isometric is a carbon removal registry, which in 2025 signed its 100th supplier (Flux), with suppliers spanning every major CDR pathway. In March 2025 it launch"
 url: "/directory/isometric/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
@@ -19,7 +19,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="3-19,3-20">Isometric is a carbon removal registry, which in 2025 signed its 100th supplier (Flux), with suppliers spanning every major CDR pathway.</cite> <cite index="7-2,7-3">In March 2025 it launched Certify, a platform that reduces the CDR verification process from years down to roughly one month.</cite> <cite index="10-14,10-15,10-16">Isometric has received endorsements from ICROA, CORSIA, and ICVCM, allowing it to issue credits under the Core Carbon Principles label.</cite>
+Isometric is a carbon removal registry, which in 2025 signed its 100th supplier (Flux), with suppliers spanning every major CDR pathway. In March 2025 it launched Certify, a platform that reduces the CDR verification process from years down to roughly one month. Isometric has received endorsements from ICROA, CORSIA, and ICVCM, allowing it to issue credits under the Core Carbon Principles label.
 
 ![Isometric website](/screenshots/v1-thumbnails/isometric.jpg)
 

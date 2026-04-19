@@ -2,7 +2,7 @@
 title: "Releaf Earth"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"7-3,7-4,7-5\\">Releaf Earth is a Nigerian climate-agritech startup that launched the country's first operational industrial biochar production facili"
+description: "Releaf Earth is a Nigerian climate-agritech startup that launched the country's first operational industrial biochar production facility in Iwuru, Cross River S"
 url: "/directory/releaf-earth/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -18,7 +18,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="7-3,7-4,7-5">Releaf Earth is a Nigerian climate-agritech startup that launched the country's first operational industrial biochar production facility in Iwuru, Cross River State, using palm kernel shells processed through its proprietary Kraken machine to produce biochar that enhances soil and sequesters carbon.</cite> <cite index="8-3,8-4">In early 2026, the company issued Nigeria's first industrial-scale carbon removal credits — an initial tranche of 190 tCO₂e — purchased by global buyers including Salesforce via Milkywire.</cite>
+Releaf Earth is a Nigerian climate-agritech startup that launched the country's first operational industrial biochar production facility in Iwuru, Cross River State, using palm kernel shells processed through its proprietary Kraken machine to produce biochar that enhances soil and sequesters carbon. In early 2026, the company issued Nigeria's first industrial-scale carbon removal credits — an initial tranche of 190 tCO₂e — purchased by global buyers including Salesforce via Milkywire.
 
 ![Releaf Earth website](/screenshots/v1-thumbnails/releaf-earth.jpg)
 

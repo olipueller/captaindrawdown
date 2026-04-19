@@ -2,7 +2,7 @@
 title: "SeaGen"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"11-8,11-9,11-10\\">Seaweed Generation (trading as SeaGen) was founded in 2021, is headquartered in Falmouth, United Kingdom, and has 19 total employe"
+description: "Seaweed Generation (trading as SeaGen) was founded in 2021, is headquartered in Falmouth, United Kingdom, and has 19 total employees. The company physically rem"
 url: "/directory/seagen/"
 pathway: "Ocean CDR"
 liveliness: "🟢 Active"
@@ -19,7 +19,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="11-8,11-9,11-10">Seaweed Generation (trading as SeaGen) was founded in 2021, is headquartered in Falmouth, United Kingdom, and has 19 total employees.</cite> The company physically removes CO2 by <cite index="13-7">developing its AlgaRay technology, which intercepts and sinks invasive Sargassum into the deep ocean, before it can reach coasts.</cite> <cite index="19-4">It has a 49-year license for trials in Antigua and Barbuda while it develops an autonomous version of the bot.</cite>
+Seaweed Generation (trading as SeaGen) was founded in 2021, is headquartered in Falmouth, United Kingdom, and has 19 total employees. The company physically removes CO2 by developing its AlgaRay technology, which intercepts and sinks invasive Sargassum into the deep ocean, before it can reach coasts. It has a 49-year license for trials in Antigua and Barbuda while it develops an autonomous version of the bot.
 
 ## Registry Memberships
 

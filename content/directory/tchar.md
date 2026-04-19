@@ -2,7 +2,7 @@
 title: "TCHAR"
 layout: "single"
 type: "directory"
-description: "TCHAR is a Taiwanese BiCRS company that converts industrial, agricultural, and wastewater treatment waste into biochar on-site, generating renewable energy and "
+description: "TCHAR (Guangtai Environmental Energy), headquartered in the Central Taiwan Science Park, is the first Taiwanese enterprise to secure international biochar certi"
 url: "/directory/tchar/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -12,19 +12,20 @@ liveliness: "🟢 Active"
 **Method:** Biochar
 **Country:** Taiwan
 **Website:** [https://www.tchar.com.tw/index.html](https://www.tchar.com.tw/index.html)
-**Status:** 🟢 Active (score: 70/100)
+**Status:** 🟢 Active (score: 85/100)
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-TCHAR is a Taiwanese BiCRS company that converts industrial, agricultural, and wastewater treatment waste into biochar on-site, generating renewable energy and offering certified carbon dioxide removal.
+TCHAR (Guangtai Environmental Energy), headquartered in the Central Taiwan Science Park, is the first Taiwanese enterprise to secure international biochar certification. Founded in 2020, the company brought Germany's latest pyrolysis system to Taiwan and was registered on CDR.fyi as Asia's first project of its kind and Taiwan's first biochar supplier. Current daily output is 800–1,000 kg of biochar, with plans to add two additional machines producing three metric tons per day each.
 
 ![TCHAR website](/screenshots/v1-thumbnails/tchar.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.reccessary.com/en/interview/tchar-biochar))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 ---

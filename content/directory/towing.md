@@ -2,7 +2,7 @@
 title: "Towing"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"9-2,9-8\\">TOWING is a Japanese Nagoya University spinout founded in 2020 that has developed a crop cultivation system to enable more sustainable far"
+description: "TOWING is a Japanese Nagoya University spinout founded in 2020 that has developed a crop cultivation system to enable more sustainable farming practices. In Jun"
 url: "/directory/towing/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -19,7 +19,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="9-2,9-8">TOWING is a Japanese Nagoya University spinout founded in 2020 that has developed a crop cultivation system to enable more sustainable farming practices.</cite> <cite index="2-3">In June 2023, a project of Soratan was registered under Japan's J-Credit Scheme for "Biochar Application to Farmland" and has issued carbon credits three times.</cite> The company partners with firms like Suntory and Biocare to scale biochar-based carbon removal globally.
+TOWING is a Japanese Nagoya University spinout founded in 2020 that has developed a crop cultivation system to enable more sustainable farming practices. In June 2023, a project of Soratan was registered under Japan's J-Credit Scheme for "Biochar Application to Farmland" and has issued carbon credits three times. The company partners with firms like Suntory and Biocare to scale biochar-based carbon removal globally.
 
 ![Towing website](/screenshots/v1-thumbnails/towing.jpg)
 

@@ -2,7 +2,7 @@
 title: "AtmosClear"
 layout: "single"
 type: "directory"
-description: "AtmosClear is a BiCRS company that uses Bioenergy with Carbon Capture and Storage (BECCS) to remove carbon dioxide. They have a major contract with Microsoft to"
+description: "AtmosClear is a Fidelis New Energy portfolio company developing a BECCS facility at the Port of Greater Baton Rouge, Louisiana. In April 2025 it signed a 15-yea"
 url: "/directory/atmosclear/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
@@ -12,20 +12,21 @@ liveliness: "🟢 Active"
 **Method:** BECCS
 **Country:** United States
 **Website:** [https://atmosclear.earth/](https://atmosclear.earth/)
-**Status:** 🟢 Active (score: 100/100)
+**Status:** 🟢 Active (score: 85/100)
 **Employees:** ~1
-**CDR Focus:** supplier
+**CDR Focus:** division
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-AtmosClear is a BiCRS company that uses Bioenergy with Carbon Capture and Storage (BECCS) to remove carbon dioxide. They have a major contract with Microsoft to deliver 6.75 million metric tons of engineered carbon removal over 15 years from their planned facility in Louisiana.
+AtmosClear is a Fidelis New Energy portfolio company developing a BECCS facility at the Port of Greater Baton Rouge, Louisiana. In April 2025 it signed a 15-year contract with Microsoft to deliver 6.75 million metric tons of engineered carbon removal — the largest permanent CDR deal announced to date. Construction is planned for 2026 with commercial operation in 2029.
 
 ![AtmosClear website](/screenshots/v1-thumbnails/atmosclear.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://atmosclear.earth/about/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/atmosclearearth/)

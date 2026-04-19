@@ -2,24 +2,24 @@
 title: "Mangrove Systems"
 layout: "single"
 type: "directory"
-description: "Mangrove Systems provides a digital Measurement, Reporting, and Verification (MRV) platform called Mangrove Nexus for CDR and CCS projects. Their platform track"
+description: "Mangrove Systems is a Toronto-based digital MRV software company whose Mangrove Nexus platform tracks CO2 across CDR and CCS project value chains, supporting pa"
 url: "/directory/mangrove-systems/"
 pathway: "Enabling Tech"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 **Pathway:** Enabling Tech
 **Method:** CDR Platform/Marketplace
 **Country:** Germany
 **Website:** [https://www.mangrove-systems.com/](https://www.mangrove-systems.com/)
-**Status:** 🟡 Moderate (score: 60/100)
+**Status:** 🟢 Active (score: 90/100)
 **Open roles on cdrjobs:** 5
-**CDR Focus:** supplier
+**CDR Focus:** ecosystem
 **Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-Mangrove Systems provides a digital Measurement, Reporting, and Verification (MRV) platform called Mangrove Nexus for CDR and CCS projects. Their platform tracks CO2 molecules through project operations, supporting various CDR pathways like biochar, DAC, ERW, and RAE.
+Mangrove Systems is a Toronto-based digital MRV software company whose Mangrove Nexus platform tracks CO2 across CDR and CCS project value chains, supporting pathways including biochar, BECCS, DAC, and ERW. They do not remove CO2 themselves — they provide the data, accounting, and registry-reporting infrastructure used by CDR suppliers such as Pacific Biochar, Charm Industrial, Carbon Alpha, Super6 Carbon, and Summit Carbon Solutions. As an MRV/enabling-tech vendor whose entire business is the CDR/CCS market, they are part of the CDR ecosystem rather than a removal supplier.
 
 ## Registry Memberships
 
@@ -27,6 +27,7 @@ Mangrove Systems provides a digital Measurement, Reporting, and Verification (MR
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.mangrovesystems.com/))
 - **2026-04-18** — backfilled from V1
 
 ---

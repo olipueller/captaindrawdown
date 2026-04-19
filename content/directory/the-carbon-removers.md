@@ -2,7 +2,7 @@
 title: "The Carbon Removers"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"6-1,6-2\\">The Carbon Removers, formerly known as Carbon Capture Scotland, is a Scottish company specializing in engineered biogenic carbon dioxide r"
+description: "The Carbon Removers, formerly known as Carbon Capture Scotland, is a Scottish company specializing in engineered biogenic carbon dioxide removal, co-founded by"
 url: "/directory/the-carbon-removers/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
@@ -19,7 +19,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="6-1,6-2">The Carbon Removers, formerly known as Carbon Capture Scotland, is a Scottish company specializing in engineered biogenic carbon dioxide removal, co-founded by brothers Richard and Ed Nimmons, having grown from dry ice production into a carbon removal provider.</cite> <cite index="2-1">The company scales biogenic carbon capture and storage (BECCS) in Scotland, capturing CO₂ from distilleries and biogas facilities for mineralization into building aggregates and long-term storage.</cite> <cite index="7-9">They also have an agreement to permanently sequester 50,000 tons of CO2 beneath the North Sea for the Greensand Future project.</cite>
+The Carbon Removers, formerly known as Carbon Capture Scotland, is a Scottish company specializing in engineered biogenic carbon dioxide removal, co-founded by brothers Richard and Ed Nimmons, having grown from dry ice production into a carbon removal provider. The company scales biogenic carbon capture and storage (BECCS) in Scotland, capturing CO₂ from distilleries and biogas facilities for mineralization into building aggregates and long-term storage. They also have an agreement to permanently sequester 50,000 tons of CO2 beneath the North Sea for the Greensand Future project.
 
 
 ## History

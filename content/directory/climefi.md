@@ -2,25 +2,28 @@
 title: "ClimeFi"
 layout: "single"
 type: "directory"
-description: "ClimeFi is a Zurich-based CDR portfolio manager and carbon removal intelligence platform. It helps corporate buyers contract, purchase, and manage CDR across al"
+description: "ClimeFi is a Zurich-based CDR portfolio manager and procurement intermediary founded in 2022, with offices in Paris, London, New York, and Singapore. It exclusi"
 url: "/directory/climefi/"
 pathway: "Enabling Tech"
+liveliness: "🟢 Active"
 ---
 
 **Pathway:** Enabling Tech
 **Method:** CDR Portfolio Management
 **Country:** Switzerland
 **Website:** [https://www.climefi.com](https://www.climefi.com)
-**CDR Focus:** supplier
+**Status:** 🟢 Active (score: 95/100)
+**CDR Focus:** ecosystem
 **Evidence signals:** website
 
 ## About
 
-ClimeFi is a Zurich-based CDR portfolio manager and carbon removal intelligence platform. It helps corporate buyers contract, purchase, and manage CDR across all durable removal pathways (DAC, BiCRS, mineralization). Notably, it structured the first Article 6.2 ITMO CDR transfer between Switzerland and Norway in 2025, and has facilitated over CHF 10 million in CDR purchases.
+ClimeFi is a Zurich-based CDR portfolio manager and procurement intermediary founded in 2022, with offices in Paris, London, New York, and Singapore. It exclusively represents corporate buyers, structuring RFPs, sourcing projects, and managing diversified portfolios across durable CDR pathways (DAC, BECCS, ERW, mineralization, marine CDR). Notable milestones include facilitating the first CDR-backed Article 6.2 ITMO transfer (Switzerland–Norway), the first publicly announced EU CRCF transaction, and over 500,000 tonnes of contracted durable CDR.
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.climefi.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://www.climefi.com))
 
 ---

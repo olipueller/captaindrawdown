@@ -2,17 +2,18 @@
 title: "Ag Carbon Solutions"
 layout: "single"
 type: "directory"
-description: "Ag Carbon Solutions uses a \\"Dry Decay Method\\" to convert clean, carbonaceous waste streams into soil amendments, which capture and sequester carbon dioxide and "
+description: "Ag Carbon Solutions (ACS) is a U.S. (Florida-based) CDR supplier that diverts silvicultural and yard-waste residuals from landfills and buries them below the wa"
 url: "/directory/ag-carbon-solutions/"
-pathway: "BECCS"
-liveliness: "🟡 Moderate"
+pathway: "Biomass Burial"
+liveliness: "🟠 Suspect"
 ---
 
-**Pathway:** BECCS
+**Pathway:** Biomass Burial
+**Secondary pathways:** Afforestation
 **Method:** BiCRS (Other)
 **Country:** United States
 **Website:** [https://agcarbonsolutions.com/](https://agcarbonsolutions.com/)
-**Status:** 🟡 Moderate (score: 50/100)
+**Status:** 🟠 Suspect (score: 35/100)
 **Employees:** ~2 (0% YoY)
 **LinkedIn Followers:** 1
 **CDR Focus:** supplier
@@ -20,11 +21,12 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-Ag Carbon Solutions uses a "Dry Decay Method" to convert clean, carbonaceous waste streams into soil amendments, which capture and sequester carbon dioxide and nitrates in the ground and soil.
+Ag Carbon Solutions (ACS) is a U.S. (Florida-based) CDR supplier that diverts silvicultural and yard-waste residuals from landfills and buries them below the water table on agricultural land to sequester carbon while creating Permanent Agricultural Land for grazing/cropland. Their methodology (U.S. Patent 11,511,325) is a biomass-burial pathway rather than BECCS; pilot operations have been reported around Orlando.
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟠 Suspect ([source](https://agcarbonsolutions.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/agricultural-fuels-corp./)

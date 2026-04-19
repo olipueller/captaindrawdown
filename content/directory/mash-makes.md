@@ -2,7 +2,7 @@
 title: "MASH Makes"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"2-10,2-11,2-12\\">MASH Makes A/S is a Danish company established in 2015 as a spin-off from the Technical University of Denmark, whose pyrolysis and "
+description: "MASH Makes A/S is a Danish company established in 2015 as a spin-off from the Technical University of Denmark, whose pyrolysis and gasification technology conve"
 url: "/directory/mash-makes/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -20,7 +20,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="2-10,2-11,2-12">MASH Makes A/S is a Danish company established in 2015 as a spin-off from the Technical University of Denmark, whose pyrolysis and gasification technology converts agricultural waste into carbon-negative energy commodities and biochar that removes CO2 from the atmosphere and produces carbon removal credits.</cite> <cite index="2-13,2-14">The company employs 11 people in Denmark and 49 at its subsidiary in India operating the production facility in Udupi, Karnataka, and aims to scale from two to 30 sites by 2027.</cite> Credits are distributed via Carbonfuture under EBC certification.
+MASH Makes A/S is a Danish company established in 2015 as a spin-off from the Technical University of Denmark, whose pyrolysis and gasification technology converts agricultural waste into carbon-negative energy commodities and biochar that removes CO2 from the atmosphere and produces carbon removal credits. The company employs 11 people in Denmark and 49 at its subsidiary in India operating the production facility in Udupi, Karnataka, and aims to scale from two to 30 sites by 2027. Credits are distributed via Carbonfuture under EBC certification.
 
 ![MASH Makes website](/screenshots/v1-thumbnails/mash-makes.jpg)
 

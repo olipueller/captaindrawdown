@@ -2,7 +2,7 @@
 title: "Green Carbon Solutions"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"3-2,3-3\\">Green Carbon Solutions is a renewable bio-carbon manufacturing company focused on large-scale production of sustainable engineered bio-car"
+description: "Green Carbon Solutions is a renewable bio-carbon manufacturing company focused on large-scale production of sustainable engineered bio-carbon, bio-oil, and bio-"
 url: "/directory/green-carbon-solutions/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -19,7 +19,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="3-2,3-3">Green Carbon Solutions is a renewable bio-carbon manufacturing company focused on large-scale production of sustainable engineered bio-carbon, bio-oil, and bio-energy, leveraging proprietary design-build-operate technology to decarbonize industrial supply chains and deliver CO₂ removal solutions.</cite> <cite index="12-1">Led by Martin Ellis in Indiantown, Florida, the company uses pyrolysis to transform eucalyptus wood into high-quality biochar and activated carbon.</cite> <cite index="14-1,14-2">A March 2025 tour highlighted its 110-foot retort processing eucalyptus wood into biochar for silicon chipmakers, with plans by 2029 to enrich soil, purify water, and generate electricity.</cite>
+Green Carbon Solutions is a renewable bio-carbon manufacturing company focused on large-scale production of sustainable engineered bio-carbon, bio-oil, and bio-energy, leveraging proprietary design-build-operate technology to decarbonize industrial supply chains and deliver CO₂ removal solutions. Led by Martin Ellis in Indiantown, Florida, the company uses pyrolysis to transform eucalyptus wood into high-quality biochar and activated carbon. A March 2025 tour highlighted its 110-foot retort processing eucalyptus wood into biochar for silicon chipmakers, with plans by 2029 to enrich soil, purify water, and generate electricity.
 
 ![Green Carbon Solutions website](/screenshots/v1-thumbnails/green-carbon-solutions.jpg)
 

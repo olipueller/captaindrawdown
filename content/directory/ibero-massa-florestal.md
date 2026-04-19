@@ -2,7 +2,7 @@
 title: "Ibero Massa Florestal"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"10-3,10-4,10-5\\">Ibero Massa Florestal (IMF) is a Portuguese company focused on the production of biochar and bio-based sustainable solutions, based"
+description: "Ibero Massa Florestal (IMF) is a Portuguese company focused on the production of biochar and bio-based sustainable solutions, based in Oliveira de Azeméis, tran"
 url: "/directory/ibero-massa-florestal/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -20,7 +20,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="10-3,10-4,10-5">Ibero Massa Florestal (IMF) is a Portuguese company focused on the production of biochar and bio-based sustainable solutions, based in Oliveira de Azeméis, transforming forest biomass through slow pyrolysis to produce Carvão Zero (a charcoal for household use) and Ecochar (a certified biochar for agriculture, forest restoration, and long-term carbon removal), with an installed capacity of 5,000 tonnes per year and certifications including EBC, GLOBAL C-SINK, FSC, and PEFC.</cite> The company sells biochar carbon removal credits through partners such as Carbonfuture.
+Ibero Massa Florestal (IMF) is a Portuguese company focused on the production of biochar and bio-based sustainable solutions, based in Oliveira de Azeméis, transforming forest biomass through slow pyrolysis to produce Carvão Zero (a charcoal for household use) and Ecochar (a certified biochar for agriculture, forest restoration, and long-term carbon removal), with an installed capacity of 5,000 tonnes per year and certifications including EBC, GLOBAL C-SINK, FSC, and PEFC. The company sells biochar carbon removal credits through partners such as Carbonfuture.
 
 ![Ibero Massa Florestal website](/screenshots/v1-thumbnails/ibero-massa-florestal.jpg)
 

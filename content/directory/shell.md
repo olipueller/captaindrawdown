@@ -2,7 +2,7 @@
 title: "Shell"
 layout: "single"
 type: "directory"
-description: "Shell is developing an in-house solid sorbent Direct Air Capture technology, with an industrial-scale demonstration unit at the Shell Technology Center Houston "
+description: "Shell is developing an in-house solid sorbent Direct Air Capture technology, with an industrial-scale demonstration unit at the Shell Technology Center Houston"
 url: "/directory/shell/"
 pathway: "DAC"
 liveliness: "🟢 Active"

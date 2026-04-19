@@ -2,7 +2,7 @@
 title: "agriCARBON/MicroCHAR"
 layout: "single"
 type: "directory"
-description: "agriCARBON/MicroCHAR produces innovative carbon organic fertilizers and soil conditioners from biomass-derived biochar, supplemented with organic nutrients, rhi"
+description: "MicroCHAR is a Czech biochar-based microgranular soil conditioner developed by the BIOUHEL.CZ team in collaboration with Czech University of Life Sciences Pragu"
 url: "/directory/agricarbonmicrochar/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -12,20 +12,21 @@ liveliness: "🟡 Moderate"
 **Method:** Biochar
 **Country:** Czech Republic
 **Website:** [https://www.microchar.eu/](https://www.microchar.eu/)
-**Status:** 🟡 Moderate (score: 55/100)
+**Status:** 🟡 Moderate (score: 65/100)
 **LinkedIn Followers:** 96
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-agriCARBON/MicroCHAR produces innovative carbon organic fertilizers and soil conditioners from biomass-derived biochar, supplemented with organic nutrients, rhizobacteria, and mycorrhizal fungi. Their method involves pyrolysis of agricultural by-products to create biochar for carbon removal and soil improvement.
+MicroCHAR is a Czech biochar-based microgranular soil conditioner developed by the BIOUHEL.CZ team in collaboration with Czech University of Life Sciences Prague. The product combines biochar (from biomass pyrolysis) with organic nutrients, rhizobacteria, and mycorrhizal fungi for application in ecological agriculture, positioning itself as both a soil amendment and a carbon sequestration tool.
 
 ![agriCARBON/MicroCHAR website](/screenshots/v1-thumbnails/agricarbon-microchar.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.microchar.eu/en/microchar-en/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/microchar/)

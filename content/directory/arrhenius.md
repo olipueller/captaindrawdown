@@ -2,7 +2,7 @@
 title: "Arrhenius"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"1-2\\">Arrhenius AG is a spin-off of Lucerne University of Applied Sciences and Arts</cite> based in Switzerland that <cite index=\\"1-3\\">permanently r"
+description: "Arrhenius AG is a spin-off of Lucerne University of Applied Sciences and Arts based in Switzerland that permanently removes CO2 from the atmosphere by growing a"
 url: "/directory/arrhenius/"
 pathway: "Biomass Burial"
 liveliness: "🟡 Moderate"
@@ -20,7 +20,7 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-<cite index="1-2">Arrhenius AG is a spin-off of Lucerne University of Applied Sciences and Arts</cite> based in Switzerland that <cite index="1-3">permanently removes CO2 from the atmosphere by growing and burying microalgae biomass</cite>. The company is pursuing a pilot plant, <cite index="6-9,6-10">identifying sites in Portugal with Algae for Future SA (A4F), with two locations identified in Lisbon and Matacães</cite>, and plans to adapt an existing reactor for ~2 years of microalgae cultivation data collection.
+Arrhenius AG is a spin-off of Lucerne University of Applied Sciences and Arts based in Switzerland that permanently removes CO2 from the atmosphere by growing and burying microalgae biomass. The company is pursuing a pilot plant, identifying sites in Portugal with Algae for Future SA (A4F), with two locations identified in Lisbon and Matacães, and plans to adapt an existing reactor for ~2 years of microalgae cultivation data collection.
 
 
 ## History

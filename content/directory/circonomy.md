@@ -2,7 +2,7 @@
 title: "Circonomy"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"15-5,15-6\\">Circonomy is a biochar carbon removal project developer that partners with agricultural firms to convert biomass into high-quality bioch"
+description: "Circonomy is a biochar carbon removal project developer that partners with agricultural firms to convert biomass into high-quality biochar. Since 2022, the comp"
 url: "/directory/circonomy/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -19,7 +19,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="15-5,15-6">Circonomy is a biochar carbon removal project developer that partners with agricultural firms to convert biomass into high-quality biochar.</cite> <cite index="4-7,4-9">Since 2022, the company has developed a digital MRV tool and biochar technologies, and is growing into a network across 10 countries in Asia, Africa and Latin America.</cite> <cite index="13-16">Credits are verified and issued under frameworks like Puro.earth and Carbon Standards International.</cite>
+Circonomy is a biochar carbon removal project developer that partners with agricultural firms to convert biomass into high-quality biochar. Since 2022, the company has developed a digital MRV tool and biochar technologies, and is growing into a network across 10 countries in Asia, Africa and Latin America. Credits are verified and issued under frameworks like Puro.earth and Carbon Standards International.
 
 ## Registry Memberships
 

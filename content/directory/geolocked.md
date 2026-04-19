@@ -2,7 +2,7 @@
 title: "Geolocked"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"11-1,11-2,11-3,11-4\\">Geolocked operates in carbon sequestration, focusing on the removal of carbon by utilizing biomass and landfill waste, which i"
+description: "Geolocked operates in carbon sequestration, focusing on the removal of carbon by utilizing biomass and landfill waste, which it stores underground. It is based"
 url: "/directory/geolocked/"
 pathway: "Biomass Burial"
 liveliness: "🟡 Moderate"
@@ -19,7 +19,7 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-<cite index="11-1,11-2,11-3,11-4">Geolocked operates in carbon sequestration, focusing on the removal of carbon by utilizing biomass and landfill waste, which it stores underground. It is based in Houston, Texas.</cite> The company applied to Frontier's 2025 Summer prepurchase round, indicating active participation in the CDR supplier market.
+Geolocked operates in carbon sequestration, focusing on the removal of carbon by utilizing biomass and landfill waste, which it stores underground. It is based in Houston, Texas. The company applied to Frontier's 2025 Summer prepurchase round, indicating active participation in the CDR supplier market.
 
 
 ## History

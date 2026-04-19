@@ -2,7 +2,7 @@
 title: "Varaha"
 layout: "single"
 type: "directory"
-description: "Varaha is an India-based carbon removal project developer operating across India, Nepal, Bangladesh, Bhutan and Ivory Coast, working with ~170,000+ smallholder "
+description: "Varaha is an India-based carbon removal project developer operating across India, Nepal, Bangladesh, Bhutan and Ivory Coast, working with ~170,000+ smallholder"
 url: "/directory/varaha/"
 pathway: "Biochar"
 liveliness: "🟢 Active"

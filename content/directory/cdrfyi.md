@@ -2,21 +2,28 @@
 title: "CDR.fyi"
 layout: "single"
 type: "directory"
-description: "CDR.fyi — Enabling Tech company in Unknown"
+description: "CDR.fyi is a trusted source for durable carbon removal market data that tracks CDR transactions, prices, and supplier rankings, and is used by buyers, suppliers"
 url: "/directory/cdrfyi/"
 pathway: "Enabling Tech"
+liveliness: "🟢 Active"
 ---
 
 **Pathway:** Enabling Tech
 **Method:** Enabling Tech
 **Country:** Unknown
 **Website:** [https://cdr.fyi](https://cdr.fyi)
-**CDR Focus:** unclassified
+**Status:** 🟢 Active (score: 95/100)
+**CDR Focus:** ecosystem
 **Evidence signals:** news_mention
+
+## About
+
+CDR.fyi is a trusted source for durable carbon removal market data that tracks CDR transactions, prices, and supplier rankings, and is used by buyers, suppliers, investors, and policymakers worldwide. Originally a volunteer effort, it structured as a Delaware public benefit corporation (PBC) in 2024 with a "give to get" model, keeping website content free while offering subscription plans for companies to access comprehensive datasets and insights. It is a CDR-ecosystem reporter/analytics provider, not a physical CO2 remover.
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.cdr.fyi/about))
 - **2026-04-18** — discovered via: news_feed ([source](https://www.linkedin.com/feed/update/urn:li:share:7450554592624349185/))
 
 ---

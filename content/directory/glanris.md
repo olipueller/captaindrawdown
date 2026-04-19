@@ -2,7 +2,7 @@
 title: "Glanris"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"12-9,12-10,12-11,12-12\\">Glanris specializes in the production of biocarbon biochar, with offerings including biochar for water filtration and soil "
+description: "Glanris specializes in the production of biocarbon biochar, with offerings including biochar for water filtration and soil enhancement, as well as an additive i"
 url: "/directory/glanris/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -20,7 +20,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="12-9,12-10,12-11,12-12">Glanris specializes in the production of biocarbon biochar, with offerings including biochar for water filtration and soil enhancement, as well as an additive in cement and concrete, all derived from processed agricultural waste such as rice husks. It was founded in 2018 and is based in Olive Branch, Mississippi.</cite> <cite index="11-2,11-3">Its Biocarbon filtration biochar was declared net CO2 negative via a Life Cycle Assessment with Accend, a Puro.Earth partner, and was added to the Puro.Earth CORC exchange.</cite>
+Glanris specializes in the production of biocarbon biochar, with offerings including biochar for water filtration and soil enhancement, as well as an additive in cement and concrete, all derived from processed agricultural waste such as rice husks. It was founded in 2018 and is based in Olive Branch, Mississippi. Its Biocarbon filtration biochar was declared net CO2 negative via a Life Cycle Assessment with Accend, a Puro.Earth partner, and was added to the Puro.Earth CORC exchange.
 
 ![Glanris website](/screenshots/v1-thumbnails/glanris.jpg)
 

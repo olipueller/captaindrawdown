@@ -2,7 +2,7 @@
 title: "Marquis Energy"
 layout: "single"
 type: "directory"
-description: "Marquis Energy operates the world's largest dry-mill ethanol plant in Hennepin, Illinois, and is developing a large-scale BECCS project (via subsidiary Marquis "
+description: "Marquis Energy operates the world's largest dry-mill ethanol plant in Hennepin, Illinois, and is developing a large-scale BECCS project (via subsidiary Marquis"
 url: "/directory/marquis-energy/"
 pathway: "BECCS"
 liveliness: "🟢 Active"

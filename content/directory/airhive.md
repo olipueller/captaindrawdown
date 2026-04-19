@@ -2,7 +2,7 @@
 title: "Airhive"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"4-2\\">Airhive, founded in 2022, is a UK-based DAC company developing a low-cost, energy-efficient and rapidly scalable technology to capture carbon "
+description: "Airhive, founded in 2022, is a UK-based DAC company developing a low-cost, energy-efficient and rapidly scalable technology to capture carbon from the atmospher"
 url: "/directory/airhive/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -20,7 +20,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="4-2">Airhive, founded in 2022, is a UK-based DAC company developing a low-cost, energy-efficient and rapidly scalable technology to capture carbon from the atmosphere.</cite> <cite index="1-5,1-6">Its system uses a novel DAC method based on fluidised beds, a proven industrial technology, and the speed and efficiency of this fluidisation-based capture method, combined with heat recovery and reuse, helps Airhive lower costs.</cite> <cite index="1-9,1-10">Airhive's 1,000-tonne-per-year system is one of the largest operational DAC systems in the world and is operating as part of Deep Sky Alpha, a cross-technology DAC hub in Innisfail, Alberta.</cite>
+Airhive, founded in 2022, is a UK-based DAC company developing a low-cost, energy-efficient and rapidly scalable technology to capture carbon from the atmosphere. Its system uses a novel DAC method based on fluidised beds, a proven industrial technology, and the speed and efficiency of this fluidisation-based capture method, combined with heat recovery and reuse, helps Airhive lower costs. Airhive's 1,000-tonne-per-year system is one of the largest operational DAC systems in the world and is operating as part of Deep Sky Alpha, a cross-technology DAC hub in Innisfail, Alberta.
 
 ![Airhive website](/screenshots/v1-thumbnails/airhive.jpg)
 

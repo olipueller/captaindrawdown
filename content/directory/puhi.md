@@ -2,7 +2,7 @@
 title: "PUHI"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"1-1,1-2\\">PUHI is a Finland-based biochar and carbon removal company offering pyrolysis-based climate tech, biochar products, and biomass piloting s"
+description: "PUHI is a Finland-based biochar and carbon removal company offering pyrolysis-based climate tech, biochar products, and biomass piloting services, with its firs"
 url: "/directory/puhi/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -18,7 +18,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="1-1,1-2">PUHI is a Finland-based biochar and carbon removal company offering pyrolysis-based climate tech, biochar products, and biomass piloting services, with its first biochar production plant in Industrial Park MORE, Hämeenlinna.</cite> <cite index="3-2">Its environmental permit allows PUHI to process up to 20,000 tons of wood- and agriculture-based side streams annually into biochar, district heating, and carbon removal credits.</cite> PUHI is listed as a CORC supplier on Puro.earth and is a member of the European Biochar Industry Consortium.
+PUHI is a Finland-based biochar and carbon removal company offering pyrolysis-based climate tech, biochar products, and biomass piloting services, with its first biochar production plant in Industrial Park MORE, Hämeenlinna. Its environmental permit allows PUHI to process up to 20,000 tons of wood- and agriculture-based side streams annually into biochar, district heating, and carbon removal credits. PUHI is listed as a CORC supplier on Puro.earth and is a member of the European Biochar Industry Consortium.
 
 ![PUHI website](/screenshots/v1-thumbnails/puhi.jpg)
 

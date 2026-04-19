@@ -2,7 +2,7 @@
 title: "Renewables Plus"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"10-1,10-2,10-3,10-4,10-5,10-6\\">Renewables Plus Sdn. Bhd. (R+) is a gasification specialist system provider and EPC contractor, incorporated in Apri"
+description: "Renewables Plus Sdn. Bhd. (R+) is a gasification specialist system provider and EPC contractor, incorporated in April 2004 in Malaysia, with completed projects"
 url: "/directory/renewables-plus/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -19,7 +19,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="10-1,10-2,10-3,10-4,10-5,10-6">Renewables Plus Sdn. Bhd. (R+) is a gasification specialist system provider and EPC contractor, incorporated in April 2004 in Malaysia, with completed projects in 6 countries.</cite> <cite index="1-4,1-5">Their gasification technology powers Malaysia's first industrial biochar facility (Bukit Selar Carbon Station, operated by Carbon Plus), using bamboo and palm kernel shell feedstocks</cite>, generating Puro.earth CORCs. They also market a Biofix biochar product alongside the Blue Flame™ gasifier.
+Renewables Plus Sdn. Bhd. (R+) is a gasification specialist system provider and EPC contractor, incorporated in April 2004 in Malaysia, with completed projects in 6 countries. Their gasification technology powers Malaysia's first industrial biochar facility (Bukit Selar Carbon Station, operated by Carbon Plus), using bamboo and palm kernel shell feedstocks, generating Puro.earth CORCs. They also market a Biofix biochar product alongside the Blue Flame™ gasifier.
 
 ![Renewables Plus website](/screenshots/v1-thumbnails/renewables-plus.jpg)
 

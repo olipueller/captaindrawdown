@@ -2,17 +2,17 @@
 title: "Enable Earth"
 layout: "single"
 type: "directory"
-description: "Enable Earth is a pioneering biochar initiative based in Thailand that develops industrial biochar carbon removal projects from agricultural wastes to tackle po"
+description: "Enable Earth is a biochar project developer based in Wiang Pa Pao District, Chiang Rai Province, Thailand that targets local corn residues otherwise openly burn"
 url: "/directory/enable-earth/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 **Pathway:** Biochar
 **Method:** Biochar
 **Country:** Thailand
 **Website:** [https://enableearth.eco/](https://enableearth.eco/)
-**Status:** 🟡 Moderate (score: 55/100)
+**Status:** 🟢 Active (score: 85/100)
 **Employees:** ~4 (+300% YoY)
 **LinkedIn Followers:** 499
 **CDR Focus:** supplier
@@ -20,11 +20,12 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-Enable Earth is a pioneering biochar initiative based in Thailand that develops industrial biochar carbon removal projects from agricultural wastes to tackle pollution and improve soil.
+Enable Earth is a biochar project developer based in Wiang Pa Pao District, Chiang Rai Province, Thailand that targets local corn residues otherwise openly burned and transforms them into stable carbon via pyrolysis. The company has passed Puro.earth's Preliminary Assessment as a CO2 Removal Supplier and commissioned an imported CharMaker pyrolysis system at the end of 2025 as the first stage of a multimillion-dollar project in Thailand.
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.accend.earth/projects-enable-earth))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/enable-earth/)

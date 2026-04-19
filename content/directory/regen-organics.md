@@ -2,13 +2,14 @@
 title: "Regen Organics"
 layout: "single"
 type: "directory"
-description: "Regen Organics decarbonizes the production of food, feed, and fuel by locally manufacturing regenerative products, including biochar briquettes, organic fertili"
+description: "Regen Organics is a Nairobi, Kenya-based social venture operating the largest organic recycling plant in East Africa, using a circular economy model to upcycle"
 url: "/directory/regen-organics/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
 **Pathway:** Biochar
+**Secondary pathways:** Afforestation
 **Method:** Biochar
 **Country:** Kenya
 **Website:** [https://www.regenorganics.co/products/](https://www.regenorganics.co/products/)
@@ -18,13 +19,14 @@ liveliness: "🟢 Active"
 
 ## About
 
-Regen Organics decarbonizes the production of food, feed, and fuel by locally manufacturing regenerative products, including biochar briquettes, organic fertilizer, and insect protein.
+Regen Organics is a Nairobi, Kenya-based social venture operating the largest organic recycling plant in East Africa, using a circular economy model to upcycle sanitation and organic waste into insect-based protein, organic fertilizer, and biomass fuel. In partnership with TakaChar, it is piloting a pyrolysis plant in Machakos County that converts bagasse and mango/avocado processing waste into biochar to be blended into its fertilizer offering. Regen Organics sells carbon credits through both traditional and on-chain markets.
 
 ![Regen Organics website](/screenshots/v1-thumbnails/regen-organics.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.regenorganics.co/products/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 ---

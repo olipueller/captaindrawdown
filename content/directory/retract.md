@@ -2,7 +2,7 @@
 title: "Retract"
 layout: "single"
 type: "directory"
-description: "Retract is a Boulder, Colorado-based company positioning itself as a U.S. developer, constructor, and operator of direct air capture facilities. The company is "
+description: "Retract is a Boulder, Colorado-based company positioning itself as a U.S. developer, constructor, and operator of direct air capture facilities. The company is"
 url: "/directory/retract/"
 pathway: "DAC"
 liveliness: "🟠 Suspect"

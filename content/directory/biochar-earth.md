@@ -2,7 +2,7 @@
 title: "Biochar Earth"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"2-1,2-2\\">Biochar Earth sells premium carbon dioxide removal at $199 per metric tonne of CO2 removed, grounded in controlled pyrolysis and conversio"
+description: "Biochar Earth sells premium carbon dioxide removal at $199 per metric tonne of CO2 removed, grounded in controlled pyrolysis and conversion into durable biochar"
 url: "/directory/biochar-earth/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -19,7 +19,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="2-1,2-2">Biochar Earth sells premium carbon dioxide removal at $199 per metric tonne of CO2 removed, grounded in controlled pyrolysis and conversion into durable biochar designed for long-term storage, representing CO2 taken from the atmosphere and stored as a material.</cite> <cite index="5-2">The company's BCR operations are currently centered in the Philippines, using coconut biochar to also support the local economy in the Global South.</cite> They also offer separately-priced avoided-emissions credits tied to diverting coconut waste from open burning.
+Biochar Earth sells premium carbon dioxide removal at $199 per metric tonne of CO2 removed, grounded in controlled pyrolysis and conversion into durable biochar designed for long-term storage, representing CO2 taken from the atmosphere and stored as a material. The company's BCR operations are currently centered in the Philippines, using coconut biochar to also support the local economy in the Global South. They also offer separately-priced avoided-emissions credits tied to diverting coconut waste from open burning.
 
 
 ## History

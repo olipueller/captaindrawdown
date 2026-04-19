@@ -2,7 +2,7 @@
 title: "One Earth Energy"
 layout: "single"
 type: "directory"
-description: "One Earth Energy is an ethanol producer that is actively pursuing carbon sequestration through BECCS, specifically by capturing CO2 from its ethanol production "
+description: "One Earth Energy operates a 150-million-gallon corn ethanol plant in Gibson City, Illinois, and (via sister entity One Earth Sequestration, owned by parent REX"
 url: "/directory/one-earth-energy/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
@@ -12,19 +12,20 @@ liveliness: "🟢 Active"
 **Method:** BECCS
 **Country:** United States
 **Website:** [https://www.oneearthenergy.com/](https://www.oneearthenergy.com/)
-**Status:** 🟢 Active (score: 70/100)
+**Status:** 🟢 Active (score: 80/100)
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-One Earth Energy is an ethanol producer that is actively pursuing carbon sequestration through BECCS, specifically by capturing CO2 from its ethanol production and storing it underground.
+One Earth Energy operates a 150-million-gallon corn ethanol plant in Gibson City, Illinois, and (via sister entity One Earth Sequestration, owned by parent REX American Resources) is developing a BECCS project to capture ~460,000 tonnes CO2/year from fermentation and inject it into deep saline formations. As of FY2024, REX had substantially completed capture and compression construction, with >$115M invested, though the pipeline permit has faced Illinois Commerce Commission pushback. The project is progressing but delivery has slipped past mid-2025.
 
 ![One Earth Energy website](/screenshots/v1-thumbnails/one-earth-energy.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://ccusmap.com/markers/project-detail/one-earth-ccs-project-2024-2054))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 ---

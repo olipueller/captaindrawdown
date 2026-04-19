@@ -2,7 +2,7 @@
 title: "Carbo-FORCE"
 layout: "single"
 type: "directory"
-description: "Carbo-FORCE is a German company that specializes in carbon dioxide removal by converting organic residues into biochar using its Carbo-CAP-TEC pyrolysis technol"
+description: "Carbo-FORCE GmbH was founded by Malte Graf and Kai Alberding at the end of 2017 in Preetz, northern Germany, and has developed a pyrolysis system for carbonizin"
 url: "/directory/carbo-force/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -21,7 +21,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Carbo-FORCE is a German company that specializes in carbon dioxide removal by converting organic residues into biochar using its Carbo-CAP-TEC pyrolysis technology, which also produces energy.
+Carbo-FORCE GmbH was founded by Malte Graf and Kai Alberding at the end of 2017 in Preetz, northern Germany, and has developed a pyrolysis system for carbonizing biomass. BAUER Resources GmbH acquired 50% of the company's shares as of January 1, 2023. The company sells modular pyrolysis plants (e.g., CF-250) that produce biochar and renewable heat, with deployments in Germany and Dubai.
 
 ![Carbo-FORCE website](/screenshots/v1-thumbnails/carbo-force.jpg)
 
@@ -31,6 +31,7 @@ Carbo-FORCE is a German company that specializes in carbon dioxide removal by co
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.carbo-force.de/en))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/carbo-force/)

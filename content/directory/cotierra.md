@@ -2,7 +2,7 @@
 title: "Cotierra"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"10-1,10-2\\">Cotierra is a Swiss-Colombian, Zurich-headquartered company focused on decentralized biochar production for carbon removal and emission "
+description: "Cotierra is a Swiss-Colombian, Zurich-headquartered company focused on decentralized biochar production for carbon removal and emission reduction. In partnershi"
 url: "/directory/cotierra/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="10-1,10-2">Cotierra is a Swiss-Colombian, Zurich-headquartered company focused on decentralized biochar production for carbon removal and emission reduction.</cite> <cite index="5-9,5-10,5-11">In partnership with Volcafe and its Colombian entity Carcafe, Cotierra has issued the first biochar-related carbon removal credits under an external carbon standard within Colombia's coffee value chains.</cite> It sells these credits on the voluntary carbon market and partners with myclimate as an exclusive project developer.
+Cotierra is a Swiss-Colombian, Zurich-headquartered company focused on decentralized biochar production for carbon removal and emission reduction. In partnership with Volcafe and its Colombian entity Carcafe, Cotierra has issued the first biochar-related carbon removal credits under an external carbon standard within Colombia's coffee value chains. It sells these credits on the voluntary carbon market and partners with myclimate as an exclusive project developer.
 
 ![Cotierra website](/screenshots/v1-thumbnails/cotierra.jpg)
 

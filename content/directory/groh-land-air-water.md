@@ -18,7 +18,7 @@ liveliness: "🟠 Suspect"
 
 ## About
 
-Groh Land Air & Water is a Wisconsin-based environmental services company that uses biochar as one of several natural tools for sustainable agriculture, water treatment, and ecosystem restoration. <cite index="1-6">They describe biochar as a porous charcoal-like substance created through pyrolysis that sequesters carbon and improves soil health.</cite> They are a member of the US Biochar Initiative but there is no public evidence of CDR credit issuance or registry activity.
+Groh Land Air & Water is a Wisconsin-based environmental services company that uses biochar as one of several natural tools for sustainable agriculture, water treatment, and ecosystem restoration. They describe biochar as a porous charcoal-like substance created through pyrolysis that sequesters carbon and improves soil health. They are a member of the US Biochar Initiative but there is no public evidence of CDR credit issuance or registry activity.
 
 
 ## History

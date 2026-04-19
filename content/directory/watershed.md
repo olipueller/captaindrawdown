@@ -2,7 +2,7 @@
 title: "Watershed"
 layout: "single"
 type: "directory"
-description: "Watershed is an enterprise sustainability platform that helps companies measure, reduce, and report emissions. It operates a marketplace offering a rigorously v"
+description: "Watershed provides enterprise software for measuring, reducing, and reporting corporate emissions, and runs a curated marketplace of scientifically vetted carbo"
 url: "/directory/watershed/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
@@ -12,14 +12,14 @@ liveliness: "🟢 Active"
 **Method:** CDR Platform/Marketplace
 **Country:** United States
 **Website:** [https://watershed.com/](https://watershed.com/)
-**Status:** 🟢 Active (score: 75/100)
+**Status:** 🟢 Active (score: 95/100)
 **Open roles on cdrjobs:** 1
-**CDR Focus:** supplier
+**CDR Focus:** ecosystem
 **Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-Watershed is an enterprise sustainability platform that helps companies measure, reduce, and report emissions. It operates a marketplace offering a rigorously vetted supply of carbon removal options, including nature-based and permanent CDR projects like direct air capture and bio-oil sequestration.
+Watershed provides enterprise software for measuring, reducing, and reporting corporate emissions, and runs a curated marketplace of scientifically vetted carbon removal projects (DAC, bio-oil, biochar, ERW, reforestation, etc.) that customers can purchase from. The company does not physically remove CO2 itself — it acts as an intermediary/marketplace and accounting platform in the CDR ecosystem, similar to Patch or Supercritical, while its primary business is broader sustainability reporting software.
 
 ![Watershed website](/screenshots/v1-thumbnails/watershed.jpg)
 
@@ -29,6 +29,7 @@ Watershed is an enterprise sustainability platform that helps companies measure,
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://watershed.com/platform/marketplace))
 - **2026-04-18** — backfilled from V1
 
 ---

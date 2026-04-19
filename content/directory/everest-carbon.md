@@ -2,7 +2,7 @@
 title: "Everest Carbon"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"7-1,7-2\\">Everest Carbon was founded in late 2022 as an ERW project developer, but at the end of 2023 its co-founders pivoted the company to commerc"
+description: "Everest Carbon was founded in late 2022 as an ERW project developer, but at the end of 2023 its co-founders pivoted the company to commercialize its proprietary"
 url: "/directory/everest-carbon/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
@@ -20,7 +20,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="7-1,7-2">Everest Carbon was founded in late 2022 as an ERW project developer, but at the end of 2023 its co-founders pivoted the company to commercialize its proprietary sensor.</cite> The company now sells hardware and software that enables ERW project developers to measure carbon removal in the field, <cite index="9-26">aiming to reduce MRV costs by over 90%.</cite> They are a technology supplier building core removal-enabling infrastructure for the ERW pathway.
+Everest Carbon was founded in late 2022 as an ERW project developer, but at the end of 2023 its co-founders pivoted the company to commercialize its proprietary sensor. The company now sells hardware and software that enables ERW project developers to measure carbon removal in the field, aiming to reduce MRV costs by over 90%. They are a technology supplier building core removal-enabling infrastructure for the ERW pathway.
 
 ![Everest Carbon website](/screenshots/v1-thumbnails/everest-carbon.jpg)
 

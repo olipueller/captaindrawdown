@@ -2,7 +2,7 @@
 title: "Cap Clean"
 layout: "single"
 type: "directory"
-description: "Cap Clean Energy Corp. is a Calgary, Alberta-based clean energy development company (subsidiary of Aether Catalyst) developing biofuel and bioenergy facilities "
+description: "Cap Clean Energy Corp. is a Calgary, Alberta-based clean energy development company (subsidiary of Aether Catalyst) developing biofuel and bioenergy facilities"
 url: "/directory/cap-clean/"
 pathway: "BECCS"
 liveliness: "🟡 Moderate"

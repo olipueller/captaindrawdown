@@ -2,7 +2,7 @@
 title: "Ashwood Biochar"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"10-1,10-4\\">Ashwood Biochar produces carbon-rich biochar from 100% sustainable woody biomass waste in Lexington, Kentucky, used as a soil amendment "
+description: "Ashwood Biochar produces carbon-rich biochar from 100% sustainable woody biomass waste in Lexington, Kentucky, used as a soil amendment to improve fertility, wa"
 url: "/directory/ashwood-biochar/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -20,7 +20,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="10-1,10-4">Ashwood Biochar produces carbon-rich biochar from 100% sustainable woody biomass waste in Lexington, Kentucky, used as a soil amendment to improve fertility, water retention, and as a method of permanent carbon sequestration.</cite> <cite index="2-1,2-2">They supply large volumes of wood-based biochar in the Southeast US, offering both bulk and granulated products.</cite> The company is part of Ashwood Trinity, which invests in soil health and biochar projects and operates a farmer sign-up program offering per-acre incentives.
+Ashwood Biochar produces carbon-rich biochar from 100% sustainable woody biomass waste in Lexington, Kentucky, used as a soil amendment to improve fertility, water retention, and as a method of permanent carbon sequestration. They supply large volumes of wood-based biochar in the Southeast US, offering both bulk and granulated products. The company is part of Ashwood Trinity, which invests in soil health and biochar projects and operates a farmer sign-up program offering per-acre incentives.
 
 ![Ashwood Biochar website](/screenshots/v1-thumbnails/ashwood-biochar.jpg)
 

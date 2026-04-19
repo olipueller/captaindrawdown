@@ -2,13 +2,14 @@
 title: "Carbonway"
 layout: "single"
 type: "directory"
-description: "Carbonway decarbonizes industry through CO2 mineralization, providing additional revenue to biomethane plants and recyclers for sustainably sequestering carbon "
+description: "Carbonway is a France-based CDR project developer that captures biogenic CO2 from biomethanization plants and mineralizes it in construction and backfill materi"
 url: "/directory/carbonway/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
 ---
 
 **Pathway:** Mineralization
+**Secondary pathways:** BECCS
 **Method:** Mineralization (Other)
 **Country:** France
 **Website:** [https://www.carbonway.org/](https://www.carbonway.org/)
@@ -20,13 +21,14 @@ liveliness: "🟢 Active"
 
 ## About
 
-Carbonway decarbonizes industry through CO2 mineralization, providing additional revenue to biomethane plants and recyclers for sustainably sequestering carbon dioxide in construction materials.
+Carbonway is a France-based CDR project developer that captures biogenic CO2 from biomethanization plants and mineralizes it in construction and backfill materials such as bottom ash and construction debris. They describe themselves as the first tech-agnostic project developer in the space, building local industrial hubs and licensing mineralization technologies rather than owning a proprietary process.
 
 ![Carbonway website](/screenshots/v1-thumbnails/carbonway.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.carbonway.org/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/carbonwayorg/)

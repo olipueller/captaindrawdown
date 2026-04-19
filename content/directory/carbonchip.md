@@ -2,7 +2,7 @@
 title: "CarbonChip"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"15-1,15-2,15-3\\">Carbonchip is a Brisbane-based biochar manufacturer established in 2020 that processes sustainable forestry residue through a mobil"
+description: "Carbonchip is a Brisbane-based biochar manufacturer established in 2020 that processes sustainable forestry residue through a mobile pyrolysis machine to produc"
 url: "/directory/carbonchip/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -20,7 +20,7 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-<cite index="15-1,15-2,15-3">Carbonchip is a Brisbane-based biochar manufacturer established in 2020 that processes sustainable forestry residue through a mobile pyrolysis machine to produce biochar for Queensland farms and larger national projects.</cite> <cite index="14-3,14-4,14-5,14-6">The Carbonchip Mobile Carboniser Project uses a Tigercat 6050 mobile pyrolysis unit to process eucalyptus and pine residues from Queensland plantations in situ under Puro.earth's Biochar Methodology.</cite> <cite index="13-7">As one of Biocare's earliest issued CDR projects (2023), Carbonchip has issued 579 carbon removal credits.</cite>
+Carbonchip is a Brisbane-based biochar manufacturer established in 2020 that processes sustainable forestry residue through a mobile pyrolysis machine to produce biochar for Queensland farms and larger national projects. The Carbonchip Mobile Carboniser Project uses a Tigercat 6050 mobile pyrolysis unit to process eucalyptus and pine residues from Queensland plantations in situ under Puro.earth's Biochar Methodology. As one of Biocare's earliest issued CDR projects (2023), Carbonchip has issued 579 carbon removal credits.
 
 ![CarbonChip website](/screenshots/v1-thumbnails/carbonchip.jpg)
 

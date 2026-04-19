@@ -2,7 +2,7 @@
 title: "Arukah"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"5-9,5-10\\">Arukah has commissioned Southeast Asia's largest biochar plant in Cambodia together with local partners, transforming agricultural by-pro"
+description: "Arukah has commissioned Southeast Asia's largest biochar plant in Cambodia together with local partners, transforming agricultural by-products into durable carb"
 url: "/directory/arukah/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -21,7 +21,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="5-9,5-10">Arukah has commissioned Southeast Asia's largest biochar plant in Cambodia together with local partners, transforming agricultural by-products into durable carbon removal and climate-smart fertiliser, while allocating 50% of gross carbon credit revenues to participating smallholder farmers.</cite> The Singapore-headquartered firm also deploys household biodigesters and operates a digital MRV platform (CarbonCast) using IoT sensors and computer vision to track biomass and issue high-integrity carbon credits.
+Arukah has commissioned Southeast Asia's largest biochar plant in Cambodia together with local partners, transforming agricultural by-products into durable carbon removal and climate-smart fertiliser, while allocating 50% of gross carbon credit revenues to participating smallholder farmers. The Singapore-headquartered firm also deploys household biodigesters and operates a digital MRV platform (CarbonCast) using IoT sensors and computer vision to track biomass and issue high-integrity carbon credits.
 
 ![Arukah website](/screenshots/v1-thumbnails/arukah.jpg)
 

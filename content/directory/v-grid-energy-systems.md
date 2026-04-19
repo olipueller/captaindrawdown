@@ -2,7 +2,7 @@
 title: "V-Grid Energy Systems"
 layout: "single"
 type: "directory"
-description: "V-Grid Energy Systems is a California-based clean energy and biochar producer headquartered in Camarillo, operating Bioserver gasification units in the Central "
+description: "V-Grid Energy Systems is a California-based clean energy and biochar producer headquartered in Camarillo, operating Bioserver gasification units in the Central"
 url: "/directory/v-grid-energy-systems/"
 pathway: "Biochar"
 liveliness: "🟢 Active"

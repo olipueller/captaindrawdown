@@ -2,29 +2,30 @@
 title: "Tau Carbon"
 layout: "single"
 type: "directory"
-description: "Tau Carbon removes CO2 from the atmosphere by preserving dry, densified wood waste in rugged fiberglass tanks and sells carbon credits. Their process involves c"
+description: "Tau Carbon is a Cupertino, CA-based startup (founded 2022) that removes CO2 by preserving dry densified wood waste in aboveground modular fiberglass tanks and s"
 url: "/directory/tau-carbon/"
-pathway: "BECCS"
-liveliness: "🟢 Active"
+pathway: "Biomass Burial"
+liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** BECCS
+**Pathway:** Biomass Burial
 **Method:** BiCRS (Other)
 **Country:** United States
 **Website:** [https://www.taucarbon.com/](https://www.taucarbon.com/)
-**Status:** 🟢 Active (score: 70/100)
+**Status:** 🟡 Moderate (score: 60/100)
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Tau Carbon removes CO2 from the atmosphere by preserving dry, densified wood waste in rugged fiberglass tanks and sells carbon credits. Their process involves collecting, transporting, and storing waste wood in containers to sequester carbon for millennia.
+Tau Carbon is a Cupertino, CA-based startup (founded 2022) that removes CO2 by preserving dry densified wood waste in aboveground modular fiberglass tanks and sells carbon removal credits under a Puro.earth terrestrial biomass storage methodology. The approach is biomass storage/burial (not BECCS — there is no bioenergy step), using forest-thinning waste wood as feedstock. Backed by AirMiners and The Sky Foundation with ~$850K raised and 3 employees.
 
 ![Tau Carbon website](/screenshots/v1-thumbnails/tau-carbon.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟡 Moderate ([source](https://www.taucarbon.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 ---

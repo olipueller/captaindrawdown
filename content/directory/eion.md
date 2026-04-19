@@ -2,7 +2,7 @@
 title: "Eion"
 layout: "single"
 type: "directory"
-description: "Eion is a US-based enhanced rock weathering supplier that deploys olivine (sourced from Sibelco's Norwegian quarry) across farmland in the US Midwest and South "
+description: "Eion is a US-based enhanced rock weathering supplier that deploys olivine (sourced from Sibelco's Norwegian quarry) across farmland in the US Midwest and South"
 url: "/directory/eion/"
 pathway: "Enhanced Weathering"
 liveliness: "🟢 Active"

@@ -2,7 +2,7 @@
 title: "Husk"
 layout: "single"
 type: "directory"
-description: "Husk produces biochar from organic rice husks, which is used as a fertilizer to regenerate soils, improve yields, and increase long-term profitability for farme"
+description: "Husk operates a biochar plant co-located with a rice mill, producing biochar via pyrolysis from rice husks under European Biochar Certification (EBC C-Sink) sta"
 url: "/directory/husk/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -20,13 +20,14 @@ liveliness: "🟢 Active"
 
 ## About
 
-Husk produces biochar from organic rice husks, which is used as a fertilizer to regenerate soils, improve yields, and increase long-term profitability for farmers.
+Husk operates a biochar plant co-located with a rice mill, producing biochar via pyrolysis from rice husks under European Biochar Certification (EBC C-Sink) standards. The company sells biochar-based fertilizers to smallholder farmers in Cambodia and Vietnam and issues EBC C-Sink carbon removal credits. In June 2025, atmosfair and HUSK signed a contract to build a new pyrolysis plant in Kampong Thom, Cambodia, commissioning in November 2025, producing ~3 tons of biochar per day.
 
 ![Husk website](/screenshots/v1-thumbnails/husk.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.huskventures.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/huskventures/)

@@ -2,7 +2,7 @@
 title: "Biochar Byte"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"5-1,5-2\\">Biochar Byte is an unfunded company based in Pune, India, founded in 2024 by Udaykumar Mathapati and Vinayak Patil, operating as a provide"
+description: "Biochar Byte is an unfunded company based in Pune, India, founded in 2024 by Udaykumar Mathapati and Vinayak Patil, operating as a provider of industrial-scale"
 url: "/directory/biochar-byte/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -20,7 +20,7 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-<cite index="5-1,5-2">Biochar Byte is an unfunded company based in Pune, India, founded in 2024 by Udaykumar Mathapati and Vinayak Patil, operating as a provider of industrial-scale biochar production and carbon credit generation.</cite> <cite index="6-10,6-11,6-12">The startup transforms agricultural biomass into carbon-rich material through pyrolysis, integrating geospatial imaging and technology-driven logistics to collect crop residues and prevent open-field burning.</cite>
+Biochar Byte is an unfunded company based in Pune, India, founded in 2024 by Udaykumar Mathapati and Vinayak Patil, operating as a provider of industrial-scale biochar production and carbon credit generation. The startup transforms agricultural biomass into carbon-rich material through pyrolysis, integrating geospatial imaging and technology-driven logistics to collect crop residues and prevent open-field burning.
 
 ![Biochar Byte website](/screenshots/v1-thumbnails/biochar-byte.jpg)
 

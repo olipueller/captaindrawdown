@@ -2,7 +2,7 @@
 title: "Funga"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"9-1\\">Funga is a public benefit corporation focused on restoring the power of fungal biodiversity to working forests, thereby accelerating tree grow"
+description: "Funga is a public benefit corporation focused on restoring the power of fungal biodiversity to working forests, thereby accelerating tree growth and carbon draw"
 url: "/directory/funga/"
 pathway: "Afforestation"
 liveliness: "🟢 Active"
@@ -19,7 +19,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="9-1">Funga is a public benefit corporation focused on restoring the power of fungal biodiversity to working forests, thereby accelerating tree growth and carbon drawdown.</cite> They operate forest microbiome restoration projects in the southeastern US loblolly pine belt and sell nature-based carbon removal credits to corporate buyers. <cite index="3-1">In November 2024 Funga secured its first major deal to deliver more than 500,000 tons of carbon removal to a major corporate buyer.</cite>
+Funga is a public benefit corporation focused on restoring the power of fungal biodiversity to working forests, thereby accelerating tree growth and carbon drawdown. They operate forest microbiome restoration projects in the southeastern US loblolly pine belt and sell nature-based carbon removal credits to corporate buyers. In November 2024 Funga secured its first major deal to deliver more than 500,000 tons of carbon removal to a major corporate buyer.
 
 ![Funga website](/screenshots/v1-thumbnails/funga.jpg)
 

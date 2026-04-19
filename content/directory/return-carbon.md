@@ -2,7 +2,7 @@
 title: "Return Carbon"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"1-1,1-2\\">Return Carbon deploys integrated solutions for DACCS and BECCS developments, aiming at IPCC carbon dioxide removal goals.</cite> The compa"
+description: "Return Carbon deploys integrated solutions for DACCS and BECCS developments, aiming at IPCC carbon dioxide removal goals. The company partners with technology o"
 url: "/directory/return-carbon/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -19,7 +19,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="1-1,1-2">Return Carbon deploys integrated solutions for DACCS and BECCS developments, aiming at IPCC carbon dioxide removal goals.</cite> The company partners with technology owners such as Skytree and Carbon8, storage investors such as CapeOmega, and emitters such as RWE to develop carbon removal projects — including the NoordKaap CCS project servicing RWE's Eemshaven BECCS plant and, as of November 2025, the Trinity Campus DAC testbed in the Permian Basin with PEDL.
+Return Carbon deploys integrated solutions for DACCS and BECCS developments, aiming at IPCC carbon dioxide removal goals. The company partners with technology owners such as Skytree and Carbon8, storage investors such as CapeOmega, and emitters such as RWE to develop carbon removal projects — including the NoordKaap CCS project servicing RWE's Eemshaven BECCS plant and, as of November 2025, the Trinity Campus DAC testbed in the Permian Basin with PEDL.
 
 ![Return Carbon website](/screenshots/v1-thumbnails/return-carbon.jpg)
 

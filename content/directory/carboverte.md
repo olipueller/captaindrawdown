@@ -2,7 +2,7 @@
 title: "CarboVerte"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"14-1,14-2\\">CarboVerte is a German company specialized in producing biochar and biochar-based products using a modern pyrolysis plant.</cite> <cite "
+description: "CarboVerte is a German company specialized in producing biochar and biochar-based products using a modern pyrolysis plant. Based in Eibenstock, its focus is the"
 url: "/directory/carboverte/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -18,7 +18,7 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-<cite index="14-1,14-2">CarboVerte is a German company specialized in producing biochar and biochar-based products using a modern pyrolysis plant.</cite> <cite index="13-1,13-2">Based in Eibenstock, its focus is the agricultural and livestock industry as well as urban green spaces.</cite> Products are sold via their own store and Amazon, marketed as permanent atmospheric CO2 sinks for soil, composting and animal feed applications.
+CarboVerte is a German company specialized in producing biochar and biochar-based products using a modern pyrolysis plant. Based in Eibenstock, its focus is the agricultural and livestock industry as well as urban green spaces. Products are sold via their own store and Amazon, marketed as permanent atmospheric CO2 sinks for soil, composting and animal feed applications.
 
 ![CarboVerte website](/screenshots/v1-thumbnails/carboverte.jpg)
 

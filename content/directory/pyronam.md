@@ -2,7 +2,7 @@
 title: "Pyronam"
 layout: "single"
 type: "directory"
-description: "Pyronam is a Namibian subsidiary of PyroCCS that produces high-quality biochar from invasive bush biomass through pyrolysis to capture carbon, improve soil heal"
+description: "PyroNam is the Namibian subsidiary of German biochar CDR company PyroCCS GmbH, producing biochar from invasive bush biomass using locally-manufactured pyrolysis"
 url: "/directory/pyronam/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -12,19 +12,20 @@ liveliness: "🟢 Active"
 **Method:** Biochar
 **Country:** Namibia
 **Website:** [https://pyronam.com/](https://pyronam.com/)
-**Status:** 🟢 Active (score: 75/100)
-**CDR Focus:** supplier
+**Status:** 🟢 Active (score: 80/100)
+**CDR Focus:** division
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Pyronam is a Namibian subsidiary of PyroCCS that produces high-quality biochar from invasive bush biomass through pyrolysis to capture carbon, improve soil health, and support local farmers.
+PyroNam is the Namibian subsidiary of German biochar CDR company PyroCCS GmbH, producing biochar from invasive bush biomass using locally-manufactured pyrolysis technology. It operates an industrial plant in Otjozondjupa/Otjiwarongo and partners with atmosfair to scale biochar CDR projects, with stated plans to deploy 50 plants across Namibia by 2030.
 
 ![Pyronam website](/screenshots/v1-thumbnails/pyronam.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://pyronam.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 ---

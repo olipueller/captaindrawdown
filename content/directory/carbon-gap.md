@@ -2,7 +2,7 @@
 title: "Carbon Gap"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"4-19\\">Carbon Gap is Europe's leading carbon dioxide removal (CDR) advocacy and research NGO</cite>, based in the UK and focused on shaping EU polic"
+description: "Carbon Gap is Europe's leading carbon dioxide removal (CDR) advocacy and research NGO, based in the UK and focused on shaping EU policy frameworks to enable the"
 url: "/directory/carbon-gap/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
@@ -19,7 +19,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="4-19">Carbon Gap is Europe's leading carbon dioxide removal (CDR) advocacy and research NGO</cite>, based in the UK and focused on shaping EU policy frameworks to enable the scale-up of permanent carbon removal. <cite index="2-11">Carbon Gap LTD is a registered charity (charity number 1200562) and a private company limited by guarantee, registered in England and Wales.</cite> It does not itself remove CO2 — it produces policy briefs, a Policy Tracker, the CARE Calculator, and country readiness assessments to guide European decision-makers.
+Carbon Gap is Europe's leading carbon dioxide removal (CDR) advocacy and research NGO, based in the UK and focused on shaping EU policy frameworks to enable the scale-up of permanent carbon removal. Carbon Gap LTD is a registered charity (charity number 1200562) and a private company limited by guarantee, registered in England and Wales. It does not itself remove CO2 — it produces policy briefs, a Policy Tracker, the CARE Calculator, and country readiness assessments to guide European decision-makers.
 
 ## Registry Memberships
 

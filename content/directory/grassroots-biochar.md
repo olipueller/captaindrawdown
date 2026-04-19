@@ -2,7 +2,7 @@
 title: "Grassroots Biochar"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"15-12,15-13,15-14,15-15\\">Grassroots Biochar AB is a small Swedish company based on Öland that manufactures, refines and innovates biochar products,"
+description: "Grassroots Biochar AB is a small Swedish company based on Öland that manufactures, refines and innovates biochar products, offering charged and activated biocha"
 url: "/directory/grassroots-biochar/"
 pathway: "Biochar"
 liveliness: "🟠 Suspect"
@@ -20,7 +20,7 @@ liveliness: "🟠 Suspect"
 
 ## About
 
-<cite index="15-12,15-13,15-14,15-15">Grassroots Biochar AB is a small Swedish company based on Öland that manufactures, refines and innovates biochar products, offering charged and activated biochar for soil management, fertilizing, water holding, filtration and decontamination.</cite> The company uses the Kon-Tiki method and is focused on the agricultural/gardening market in Sweden, without any listed carbon-sink registry certifications.
+Grassroots Biochar AB is a small Swedish company based on Öland that manufactures, refines and innovates biochar products, offering charged and activated biochar for soil management, fertilizing, water holding, filtration and decontamination. The company uses the Kon-Tiki method and is focused on the agricultural/gardening market in Sweden, without any listed carbon-sink registry certifications.
 
 ![Grassroots Biochar website](/screenshots/v1-thumbnails/grassroots-biochar.jpg)
 

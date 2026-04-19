@@ -2,7 +2,7 @@
 title: "Evident"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"3-1,3-2\\">Evident is a global sustainability certification firm with over two decades of expertise in establishing trusted renewable energy markets<"
+description: "Evident is a global sustainability certification firm with over two decades of expertise in establishing trusted renewable energy markets. Its C-Capsule product"
 url: "/directory/evident/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="3-1,3-2">Evident is a global sustainability certification firm with over two decades of expertise in establishing trusted renewable energy markets</cite>. <cite index="3-10,3-11,3-12">Its C-Capsule product is a standard and registry for durable Carbon Dioxide Removal that certifies only carbon that has been permanently removed from the atmosphere</cite>. <cite index="1-6,1-7">The C-Capsule registry issues CDR credits through partnerships such as with Cowboy Clean Fuels and Absolute Climate, aimed at meeting quality, traceability, and verification expectations</cite>.
+Evident is a global sustainability certification firm with over two decades of expertise in establishing trusted renewable energy markets. Its C-Capsule product is a standard and registry for durable Carbon Dioxide Removal that certifies only carbon that has been permanently removed from the atmosphere. The C-Capsule registry issues CDR credits through partnerships such as with Cowboy Clean Fuels and Absolute Climate, aimed at meeting quality, traceability, and verification expectations.
 
 
 ## History

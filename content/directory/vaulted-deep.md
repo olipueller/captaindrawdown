@@ -2,24 +2,24 @@
 title: "Vaulted Deep"
 layout: "single"
 type: "directory"
-description: "Vaulted Deep is a BiCRS company that removes carbon dioxide by geologically sequestering carbon-filled organic waste, such as excess manure, treated sewage, pap"
+description: "Vaulted Deep is a US-based carbon removal supplier that injects carbon-rich organic waste (biosolids, manure, paper sludge, agricultural residues) deep undergro"
 url: "/directory/vaulted-deep/"
-pathway: "BECCS"
+pathway: "Biomass Burial"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** BECCS
+**Pathway:** Biomass Burial
 **Method:** BiCRS (Other)
 **Country:** United States
 **Website:** [https://vaulteddeep.com/](https://vaulteddeep.com/)
-**Status:** 🟢 Active (score: 85/100)
+**Status:** 🟢 Active (score: 98/100)
 **Open roles on cdrjobs:** 8
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, cdrjobs, registry_isometric, registry_cdrjobsearth
 
 ## About
 
-Vaulted Deep is a BiCRS company that removes carbon dioxide by geologically sequestering carbon-filled organic waste, such as excess manure, treated sewage, paper sludge, and agricultural byproducts, deep underground.
+Vaulted Deep is a US-based carbon removal supplier that injects carbon-rich organic waste (biosolids, manure, paper sludge, agricultural residues) deep underground into sedimentary rock formations and salt caverns for permanent geologic sequestration. The company is certified by Isometric and has signed major offtake deals including a 4.9 Mt agreement with Microsoft (July 2025) and 50kt with Google (Sept 2025).
 
 ## Registry Memberships
 
@@ -28,6 +28,7 @@ Vaulted Deep is a BiCRS company that removes carbon dioxide by geologically sequ
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://vaulteddeep.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 ---

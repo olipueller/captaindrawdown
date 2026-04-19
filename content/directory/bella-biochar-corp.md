@@ -2,7 +2,7 @@
 title: "Bella Biochar Corp"
 layout: "single"
 type: "directory"
-description: "Bella Biochar Corp is a Canadian company that manufactures certified organic biochar from landfilled waste wood using a thermal conversion unit. This biochar is"
+description: "Bella Biochar Corporation is an Ontario, Canada-based biochar producer that converts landfill-diverted forest and wood waste into certified organic biochar. The"
 url: "/directory/bella-biochar-corp/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -19,11 +19,12 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-Bella Biochar Corp is a Canadian company that manufactures certified organic biochar from landfilled waste wood using a thermal conversion unit. This biochar is used as a soil amendment for carbon dioxide removal and to improve agricultural productivity.
+Bella Biochar Corporation is an Ontario, Canada-based biochar producer that converts landfill-diverted forest and wood waste into certified organic biochar. The company is Puro.earth CORC-certified and markets its biochar for soil amendment, animal bedding, wetland restoration, and carbon dioxide removal credits. It is a small, founder-led operation targeting ~5,000 tonnes of CO2 removal per plant at scale.
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://bellabiochar.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/bella-biochar-corporation/)

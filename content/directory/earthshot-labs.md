@@ -2,24 +2,25 @@
 title: "Earthshot Labs"
 layout: "single"
 type: "directory"
-description: "Earthshot Labs is a platform that develops and finances nature-based carbon projects, utilizing AI and remote sensing for ecological monitoring and decentralize"
+description: "Earthshot is a tech-enabled carbon project developer and due diligence provider focused on ARR, REDD, and IFM, having supported more than 60 carbon projects glo"
 url: "/directory/earthshot-labs/"
-pathway: "Enabling Tech"
+pathway: "Afforestation"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Enabling Tech
+**Pathway:** Afforestation
+**Secondary pathways:** Enabling Tech
 **Method:** CDR Platform/Marketplace
 **Country:** United States
 **Website:** [https://www.earthshot.eco/](https://www.earthshot.eco/)
-**Status:** 🟢 Active (score: 75/100)
+**Status:** 🟢 Active (score: 85/100)
 **Open roles on cdrjobs:** 1
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-Earthshot Labs is a platform that develops and finances nature-based carbon projects, utilizing AI and remote sensing for ecological monitoring and decentralized verification to streamline the compliance process for land stewards and project developers.
+Earthshot is a tech-enabled carbon project developer and due diligence provider focused on ARR, REDD, and IFM, having supported more than 60 carbon projects globally, with a LandOS platform that helps assess land eligibility, carbon potential, and technical risk. The company closed a $5.5M Series A in 2024 to expand its platform for nature-based carbon project development and financing, and has directed over $55 million in financing across projects. They develop and co-finance projects with partners like BirdLife International and Tree Aid, earning revenue via credit share, commissions, and carbon development services.
 
 ![Earthshot Labs website](/screenshots/v1-thumbnails/earthshot-labs.jpg)
 
@@ -29,6 +30,7 @@ Earthshot Labs is a platform that develops and finances nature-based carbon proj
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.earthshot.eco/))
 - **2026-04-18** — backfilled from V1
 
 ---

@@ -2,7 +2,7 @@
 title: "SCS"
 layout: "single"
 type: "directory"
-description: "SCS GmbH is a German consultancy specializing in biochar project development. They focus on local biochar production to improve soil and address environmental c"
+description: "SCS GmbH is a Stuttgart-based start-up producing sustainable biochar, originally at a 900 m² site in Stuttgart-Obertürkheim from December 2022. It has since sca"
 url: "/directory/scs/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -12,19 +12,20 @@ liveliness: "🟢 Active"
 **Method:** Biochar
 **Country:** Germany
 **Website:** [https://www.scs.earth/scs/](https://www.scs.earth/scs/)
-**Status:** 🟢 Active (score: 70/100)
+**Status:** 🟢 Active (score: 80/100)
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-SCS GmbH is a German consultancy specializing in biochar project development. They focus on local biochar production to improve soil and address environmental challenges.
+SCS GmbH is a Stuttgart-based start-up producing sustainable biochar, originally at a 900 m² site in Stuttgart-Obertürkheim from December 2022. It has since scaled to a new continuous pyrolysis plant in Leinfelden producing 400 tonnes of EBC-certified biochar per year in 24/7 operation. The company is positioned as a biochar producer (not just a consultancy) focused on regional circular-economy urban greening and carbon removal.
 
 ![SCS website](/screenshots/v1-thumbnails/scs.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.scs.earth/scs/en/home))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 ---

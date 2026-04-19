@@ -2,7 +2,7 @@
 title: "Goal 300"
 layout: "single"
 type: "directory"
-description: "Goal 300 is a US-based (Oregon/Pacific Northwest) Enhanced Rock Weathering supplier that partners with landowners to apply crushed basalt to agricultural soils "
+description: "Goal 300 is a US-based (Oregon/Pacific Northwest) Enhanced Rock Weathering supplier that partners with landowners to apply crushed basalt to agricultural soils"
 url: "/directory/goal-300/"
 pathway: "Enhanced Weathering"
 liveliness: "🟡 Moderate"
@@ -20,7 +20,7 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-Goal 300 is a US-based (Oregon/Pacific Northwest) Enhanced Rock Weathering supplier that partners with landowners to apply crushed basalt to agricultural soils to sequester CO₂ and generate carbon credits. <cite index="16-1,16-2">The company is focused on removing legacy greenhouse gas emissions through Enhanced Rock Weathering in the Pacific Northwest USA and claims the largest active carbon removal project in Washington State.</cite> It is a very small operation (1 employee on Coresignal) with no public registry-listed credits yet.
+Goal 300 is a US-based (Oregon/Pacific Northwest) Enhanced Rock Weathering supplier that partners with landowners to apply crushed basalt to agricultural soils to sequester CO₂ and generate carbon credits. The company is focused on removing legacy greenhouse gas emissions through Enhanced Rock Weathering in the Pacific Northwest USA and claims the largest active carbon removal project in Washington State. It is a very small operation (1 employee on Coresignal) with no public registry-listed credits yet.
 
 
 ## History

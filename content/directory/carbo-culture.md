@@ -2,7 +2,7 @@
 title: "Carbo Culture"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"1-3,1-4,1-5\\">Carbo Culture is a Finland-based climate technology company that uses patented Carbolysis™ reactors to take waste biomass and convert "
+description: "Carbo Culture is a Finland-based climate technology company that uses patented Carbolysis™ reactors to take waste biomass and convert it into stable biochar, lo"
 url: "/directory/carbo-culture/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -21,7 +21,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="1-3,1-4,1-5">Carbo Culture is a Finland-based climate technology company that uses patented Carbolysis™ reactors to take waste biomass and convert it into stable biochar, locking carbon away for centuries while generating renewable energy.</cite> <cite index="2-2,2-3,2-4">In 2025 the company announced ARC Middenmeer, a new biochar plant at the ECW Energy site in Middenmeer, North Holland, expected to remove more than 20,000 tonnes of CO2 annually while producing 40,000 m³ of biochar and 16 MW of sustainable energy.</cite> The company produces premium biochar for carbon removal, horticulture, and industrial decarbonization.
+Carbo Culture is a Finland-based climate technology company that uses patented Carbolysis™ reactors to take waste biomass and convert it into stable biochar, locking carbon away for centuries while generating renewable energy. In 2025 the company announced ARC Middenmeer, a new biochar plant at the ECW Energy site in Middenmeer, North Holland, expected to remove more than 20,000 tonnes of CO2 annually while producing 40,000 m³ of biochar and 16 MW of sustainable energy. The company produces premium biochar for carbon removal, horticulture, and industrial decarbonization.
 
 ![Carbo Culture website](/screenshots/v1-thumbnails/carbo-culture.jpg)
 

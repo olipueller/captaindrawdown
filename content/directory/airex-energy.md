@@ -2,7 +2,7 @@
 title: "Airex Energy"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"1-16,1-17\\">Airex Energy is a Canadian biochar supplier that uses its patented CarbonFX™ technology to transform biomass into biochar, biocarbon and"
+description: "Airex Energy is a Canadian biochar supplier that uses its patented CarbonFX™ technology to transform biomass into biochar, biocarbon and biocoal, and has operat"
 url: "/directory/airex-energy/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -21,7 +21,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="1-16,1-17">Airex Energy is a Canadian biochar supplier that uses its patented CarbonFX™ technology to transform biomass into biochar, biocarbon and biocoal, and has operated Canada's first industrial biochar production plant since 2016.</cite> Through its Carbonity joint venture with SUEZ and Groupe Rémabec, <cite index="2-17,2-18,2-19">the Port-Cartier facility is ramping up to 10,000 tonnes/year and will ultimately produce up to 30,000 tonnes of biochar annually, representing roughly 75,000 tonnes of CO₂ permanently removed from the atmosphere each year.</cite> <cite index="2-10">The project secured a three-year forward offtake agreement with Microsoft for 36,000 carbon credits, with the first credits delivered in 2025 after Puro.earth certification.</cite>
+Airex Energy is a Canadian biochar supplier that uses its patented CarbonFX™ technology to transform biomass into biochar, biocarbon and biocoal, and has operated Canada's first industrial biochar production plant since 2016. Through its Carbonity joint venture with SUEZ and Groupe Rémabec, the Port-Cartier facility is ramping up to 10,000 tonnes/year and will ultimately produce up to 30,000 tonnes of biochar annually, representing roughly 75,000 tonnes of CO₂ permanently removed from the atmosphere each year. The project secured a three-year forward offtake agreement with Microsoft for 36,000 carbon credits, with the first credits delivered in 2025 after Puro.earth certification.
 
 ![Airex Energy website](/screenshots/v1-thumbnails/airex-energy.jpg)
 

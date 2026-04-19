@@ -2,24 +2,25 @@
 title: "Submarine Scientific"
 layout: "single"
 type: "directory"
-description: "Submarine Scientific is a scientific consulting company focused on ocean modeling, expert verification support, and system-wide strategy development for ocean-b"
+description: "Submarine Scientific is a marine consulting company using modeling, satellite observations, ocean data, and AI to support ocean technology sector projects, incl"
 url: "/directory/submarine-scientific/"
-pathway: "Ocean CDR"
-liveliness: "🟡 Moderate"
+pathway: "Enabling Tech"
+liveliness: "🟢 Active"
 ---
 
-**Pathway:** Ocean CDR
+**Pathway:** Enabling Tech
+**Secondary pathways:** Ocean CDR
 **Method:** Ocean-based CDR
 **Country:** Canada
 **Website:** [https://submarinescientific.com/](https://submarinescientific.com/)
-**Status:** 🟡 Moderate (score: 65/100)
+**Status:** 🟢 Active (score: 80/100)
 **Open roles on cdrjobs:** 1
-**CDR Focus:** supplier
+**CDR Focus:** ecosystem
 **Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
 
 ## About
 
-Submarine Scientific is a scientific consulting company focused on ocean modeling, expert verification support, and system-wide strategy development for ocean-based Carbon Dioxide Removal (CDR) applications, specifically Ocean Alkalinity Enhancement (OAE).
+Submarine Scientific is a marine consulting company using modeling, satellite observations, ocean data, and AI to support ocean technology sector projects, including Marine Carbon Dioxide Removal (mCDR) with guidance in MRV and environmental monitoring. They served as third-party subject matter expert in partnership with 350 Solutions for validation and verification of the first OAE credits to be issued under Isometric's protocol. They do not physically remove CO2 themselves; they are part of the CDR ecosystem as an MRV/verification consultancy.
 
 ## Registry Memberships
 
@@ -27,6 +28,7 @@ Submarine Scientific is a scientific consulting company focused on ocean modelin
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.submarine.earth))
 - **2026-04-18** — backfilled from V1
 
 ---

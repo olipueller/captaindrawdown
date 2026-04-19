@@ -2,7 +2,7 @@
 title: "Carbonified"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"2-1,2-3\\">Carbonified is a Canadian company providing high-integrity carbon solutions aimed at reversing climate change with measurable impact.</cit"
+description: "Carbonified is a Canadian company providing high-integrity carbon solutions aimed at reversing climate change with measurable impact. They focus on biochar, reg"
 url: "/directory/carbonified/"
 pathway: "Biochar"
 liveliness: "🟠 Suspect"
@@ -21,7 +21,7 @@ liveliness: "🟠 Suspect"
 
 ## About
 
-<cite index="2-1,2-3">Carbonified is a Canadian company providing high-integrity carbon solutions aimed at reversing climate change with measurable impact.</cite> <cite index="11-2,11-3">They focus on biochar, regenerative agriculture, and ARR as scalable carbon sequestration solutions.</cite> They are a small (~3 employees) project developer listed in Carbon Removal Canada's directory.
+Carbonified is a Canadian company providing high-integrity carbon solutions aimed at reversing climate change with measurable impact. They focus on biochar, regenerative agriculture, and ARR as scalable carbon sequestration solutions. They are a small (~3 employees) project developer listed in Carbon Removal Canada's directory.
 
 ![Carbonified website](/screenshots/v1-thumbnails/carbonified.jpg)
 

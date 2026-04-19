@@ -2,7 +2,7 @@
 title: "InterEarth"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"20-1\\">InterEarth removes CO2 with the woody biomass burial method to store carbon captured within the biomass.</cite> <cite index=\\"6-2,6-3\\">Their b"
+description: "InterEarth removes CO2 with the woody biomass burial method to store carbon captured within the biomass. Their business is harvesting, transporting and stacking"
 url: "/directory/interearth/"
 pathway: "Biomass Burial"
 liveliness: "🟡 Moderate"
@@ -20,7 +20,7 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-<cite index="20-1">InterEarth removes CO2 with the woody biomass burial method to store carbon captured within the biomass.</cite> <cite index="6-2,6-3">Their business is harvesting, transporting and stacking dried biomass within their Dry Stack above-ground storage chamber, using woody biomass from plantation-grown native Australian Eucalyptus and Acacia trees.</cite> <cite index="6-26">InterEarth lodged an Australian Provisional Patent in May 2023 and filed an International PCT in May 2024 for its Dry Stack Biomass Carbon sequestration technology.</cite>
+InterEarth removes CO2 with the woody biomass burial method to store carbon captured within the biomass. Their business is harvesting, transporting and stacking dried biomass within their Dry Stack above-ground storage chamber, using woody biomass from plantation-grown native Australian Eucalyptus and Acacia trees. InterEarth lodged an Australian Provisional Patent in May 2023 and filed an International PCT in May 2024 for its Dry Stack Biomass Carbon sequestration technology.
 
 ![InterEarth website](/screenshots/v1-thumbnails/interearth.jpg)
 

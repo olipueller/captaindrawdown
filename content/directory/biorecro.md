@@ -2,7 +2,7 @@
 title: "Biorecro"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"13-3,13-4,13-5\\">Biorecro is a global project developer with over 15 years of experience focusing on BECCS, integrating BECCS operations into existi"
+description: "Biorecro is a global project developer with over 15 years of experience focusing on BECCS, integrating BECCS operations into existing industrial facilities such"
 url: "/directory/biorecro/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
@@ -20,7 +20,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="13-3,13-4,13-5">Biorecro is a global project developer with over 15 years of experience focusing on BECCS, integrating BECCS operations into existing industrial facilities such as biomass power, CHP, pulp and paper, and bioenergy facilities including ethanol and biogas, to bring carbon removal to market at scale.</cite> <cite index="14-1">In September 2025 Gevo's subsidiary Net-Zero Richardton signed a carbon removal sales agreement that strengthens Biorecro's BECCS project portfolio with an in-operation project.</cite> <cite index="16-9,16-10">In November 2025, Gevo announced its first delivery of Puro.earth-certified CORCs to Biorecro North America, fulfilling a multi-year agreement expected to generate approximately $26 million in revenues over five years.</cite>
+Biorecro is a global project developer with over 15 years of experience focusing on BECCS, integrating BECCS operations into existing industrial facilities such as biomass power, CHP, pulp and paper, and bioenergy facilities including ethanol and biogas, to bring carbon removal to market at scale. In September 2025 Gevo's subsidiary Net-Zero Richardton signed a carbon removal sales agreement that strengthens Biorecro's BECCS project portfolio with an in-operation project. In November 2025, Gevo announced its first delivery of Puro.earth-certified CORCs to Biorecro North America, fulfilling a multi-year agreement expected to generate approximately $26 million in revenues over five years.
 
 ![Biorecro website](/screenshots/v1-thumbnails/biorecro.jpg)
 

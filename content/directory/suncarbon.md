@@ -2,7 +2,7 @@
 title: "SunCarbon"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"1-2\\">SunCarbon, a brand of Teo Ventures, markets itself as India's first biochar-based soil enhancer</cite>, producing biochar from natural biomass"
+description: "SunCarbon, a brand of Teo Ventures, markets itself as India's first biochar-based soil enhancer, producing biochar from natural biomass for agricultural soil ap"
 url: "/directory/suncarbon/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -18,7 +18,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="1-2">SunCarbon, a brand of Teo Ventures, markets itself as India's first biochar-based soil enhancer</cite>, producing biochar from natural biomass for agricultural soil applications. <cite index="4-6,4-7">The company joined Cohort 2 of the Remove India CDR Accelerator Program with a mission to make, monitor, and monetise biochar for carbon removal</cite>, and also operates a SunCarbon Saarthi platform that registers projects, trains farmers, and connects them with carbon markets.
+SunCarbon, a brand of Teo Ventures, markets itself as India's first biochar-based soil enhancer, producing biochar from natural biomass for agricultural soil applications. The company joined Cohort 2 of the Remove India CDR Accelerator Program with a mission to make, monitor, and monetise biochar for carbon removal, and also operates a SunCarbon Saarthi platform that registers projects, trains farmers, and connects them with carbon markets.
 
 ![SunCarbon website](/screenshots/v1-thumbnails/suncarbon.jpg)
 

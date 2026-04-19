@@ -2,7 +2,7 @@
 title: "Karbonwerke"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"11-1,11-2,11-3,11-4\\">Karbonwerke is a Swiss company that captures and stores CO2 from biogenic sources — biogas plants and biorefineries that relea"
+description: "Karbonwerke is a Swiss company that captures and stores CO2 from biogenic sources — biogas plants and biorefineries that release CO2 as a byproduct — to provide"
 url: "/directory/karbonwerke/"
 pathway: "BECCS"
 liveliness: "🟡 Moderate"
@@ -20,7 +20,7 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-<cite index="11-1,11-2,11-3,11-4">Karbonwerke is a Swiss company that captures and stores CO2 from biogenic sources — biogas plants and biorefineries that release CO2 as a byproduct — to provide negative emissions.</cite> They offer carbon removal credits and long-term CO2 offtake to partner facilities, and also run a small advisory arm on CDR technologies.
+Karbonwerke is a Swiss company that captures and stores CO2 from biogenic sources — biogas plants and biorefineries that release CO2 as a byproduct — to provide negative emissions. They offer carbon removal credits and long-term CO2 offtake to partner facilities, and also run a small advisory arm on CDR technologies.
 
 
 ## History

@@ -2,7 +2,7 @@
 title: "Clean Maine Carbon"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"1-1,1-2,1-3\\">Clean Maine Carbon purchased the Greenville Steam Biomass facility in Maine in 2017 and started its first biochar facility in July 202"
+description: "Clean Maine Carbon purchased the Greenville Steam Biomass facility in Maine in 2017 and started its first biochar facility in July 2023, transforming low-value"
 url: "/directory/clean-maine-carbon/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -20,7 +20,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="1-1,1-2,1-3">Clean Maine Carbon purchased the Greenville Steam Biomass facility in Maine in 2017 and started its first biochar facility in July 2023, transforming low-value discarded woody biomass into biochar.</cite> <cite index="6-1,6-2">The company transforms locally sourced woody biomass into premium biochar, repurposing waste and sequestering carbon.</cite> It has issued biochar CORCs on the Puro.earth registry via Flowcarbon as carbon developer.
+Clean Maine Carbon purchased the Greenville Steam Biomass facility in Maine in 2017 and started its first biochar facility in July 2023, transforming low-value discarded woody biomass into biochar. The company transforms locally sourced woody biomass into premium biochar, repurposing waste and sequestering carbon. It has issued biochar CORCs on the Puro.earth registry via Flowcarbon as carbon developer.
 
 ## Registry Memberships
 

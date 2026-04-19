@@ -2,7 +2,7 @@
 title: "Solör Bioenergy"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"4-1,4-2\\">Solör Bioenergy Group is a Scandinavian renewable energy company producing district heating, steam and electricity from wood fuels across "
+description: "Solör Bioenergy Group is a Scandinavian renewable energy company producing district heating, steam and electricity from wood fuels across roughly 300 sites in S"
 url: "/directory/solör-bioenergy/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -18,7 +18,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="4-1,4-2">Solör Bioenergy Group is a Scandinavian renewable energy company producing district heating, steam and electricity from wood fuels across roughly 300 sites in Sweden and Norway.</cite> <cite index="3-27,3-28">It runs biochar production at district heating plants in Skurup, Svedala, Munka-Ljungby and Herrljunga, which together produced over 2,900 m³ of biochar in 2023.</cite> <cite index="3-11,3-12,3-13">In 2025 it commissioned a new pyrolysis-with-carbon-capture (PyCC) facility at Ulricehamn together with local partners, supplementing its existing Herrljunga plant with biochar production.</cite>
+Solör Bioenergy Group is a Scandinavian renewable energy company producing district heating, steam and electricity from wood fuels across roughly 300 sites in Sweden and Norway. It runs biochar production at district heating plants in Skurup, Svedala, Munka-Ljungby and Herrljunga, which together produced over 2,900 m³ of biochar in 2023. In 2025 it commissioned a new pyrolysis-with-carbon-capture (PyCC) facility at Ulricehamn together with local partners, supplementing its existing Herrljunga plant with biochar production.
 
 ![Solör Bioenergy website](/screenshots/v1-thumbnails/sol-r-bioenergy.jpg)
 

@@ -2,7 +2,7 @@
 title: "Svante Technologies"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"7-4,7-5\\">Svante Technologies is a Vancouver, BC-based carbon capture and removal technology company that in May 2025 commissioned the \\"Redwood\\" fac"
+description: "Svante Technologies is a Vancouver, BC-based carbon capture and removal technology company that in May 2025 commissioned the \\"Redwood\\" facility, the world's fir"
 url: "/directory/svante-technologies/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -19,7 +19,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="7-4,7-5">Svante Technologies is a Vancouver, BC-based carbon capture and removal technology company that in May 2025 commissioned the "Redwood" facility, the world's first gigafactory dedicated to producing commercial-scale carbon capture and removal filters designed to trap CO2 from industrial emissions and the atmosphere.</cite> <cite index="7-18">Svante also manufactures filters for Climeworks' Gen 3 direct air capture technology</cite>, and <cite index="5-3">has advanced a joint BECCS project with Mercer International at Mercer's Peace River pulp mill in Alberta targeting biogenic CO₂ from sustainably sourced biomass.</cite>
+Svante Technologies is a Vancouver, BC-based carbon capture and removal technology company that in May 2025 commissioned the "Redwood" facility, the world's first gigafactory dedicated to producing commercial-scale carbon capture and removal filters designed to trap CO2 from industrial emissions and the atmosphere. Svante also manufactures filters for Climeworks' Gen 3 direct air capture technology, and has advanced a joint BECCS project with Mercer International at Mercer's Peace River pulp mill in Alberta targeting biogenic CO₂ from sustainably sourced biomass.
 
 
 ## History

@@ -2,17 +2,18 @@
 title: "Decarbon"
 layout: "single"
 type: "directory"
-description: "No search results directly refer to the company 'Decarbon' (https://www.decarbon.tech/). The provided search results discuss general decarbonization, DAC techno"
+description: "Decarbontek (decarbon.tech) is a Massachusetts-based climate tech startup founded by Dr. Yong Ding that develops proprietary solid fiber adsorbents and modular"
 url: "/directory/decarbon/"
 pathway: "DAC"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 **Pathway:** DAC
+**Secondary pathways:** Enabling Tech
 **Method:** DAC (Solid Sorbent)
 **Country:** United States
 **Website:** [https://www.decarbon.tech/](https://www.decarbon.tech/)
-**Status:** 🟡 Moderate (score: 45/100)
+**Status:** 🟢 Active (score: 75/100)
 **Employees:** ~4 (+33% YoY)
 **LinkedIn Followers:** 1,123
 **CDR Focus:** supplier
@@ -20,13 +21,14 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-No search results directly refer to the company 'Decarbon' (https://www.decarbon.tech/). The provided search results discuss general decarbonization, DAC technology, or other companies.
+Decarbontek (decarbon.tech) is a Massachusetts-based climate tech startup founded by Dr. Yong Ding that develops proprietary solid fiber adsorbents and modular structured capture systems for both point-source CO2 capture and direct air capture. The company manufactures its own MOF-based sorbent (DCF-1) and a patent-pending fiber-winding platform, selling both cartridges/modules and managed capture services. They announced a major product launch in September 2025.
 
 ![Decarbon website](/screenshots/v1-thumbnails/decarbon.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.decarbon.tech/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/decarbontek/)

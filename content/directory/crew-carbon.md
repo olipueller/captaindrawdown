@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-CREW Carbon is a US-based CDR supplier that adds alkaline minerals like limestone to municipal wastewater treatment streams, converting CO2 into stable bicarbonate ions that are eventually discharged to the ocean. <cite index="6-13">In 2025 the company delivered the first-ever Wastewater Alkalinity Enhancement credits under its $32.1M offtake agreement with Frontier for 71,878 tonnes between 2025-2030.</cite> <cite index="5-8">In early 2026 CREW also secured a $2.35M award from the Colorado Energy Office to deploy at a Colorado wastewater facility.</cite>
+CREW Carbon is a US-based CDR supplier that adds alkaline minerals like limestone to municipal wastewater treatment streams, converting CO2 into stable bicarbonate ions that are eventually discharged to the ocean. In 2025 the company delivered the first-ever Wastewater Alkalinity Enhancement credits under its $32.1M offtake agreement with Frontier for 71,878 tonnes between 2025-2030. In early 2026 CREW also secured a $2.35M award from the Colorado Energy Office to deploy at a Colorado wastewater facility.
 
 ![CREW Carbon website](/screenshots/v1-thumbnails/crew-carbon.jpg)
 

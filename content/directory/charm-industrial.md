@@ -2,17 +2,18 @@
 title: "Charm Industrial"
 layout: "single"
 type: "directory"
-description: "Charm Industrial is a carbon sequestration company that converts agricultural waste and biomass into carbon-dense bio-oil and biochar, which is then permanently"
+description: "Charm Industrial is a San Francisco-based CDR supplier that uses mobile pyrolyzers to convert agricultural and forestry biomass into carbon-rich bio-oil, which"
 url: "/directory/charm-industrial/"
 pathway: "Biomass Burial"
 liveliness: "🟢 Active"
 ---
 
 **Pathway:** Biomass Burial
+**Secondary pathways:** Biochar, BECCS
 **Method:** Bio-oil Sequestration
 **Country:** United States
 **Website:** [https://charmindustrial.com/](https://charmindustrial.com/)
-**Status:** 🟢 Active (score: 100/100)
+**Status:** 🟢 Active (score: 92/100)
 **Employees:** ~98 (+1% YoY)
 **LinkedIn Followers:** 14,571
 **Open roles on cdrjobs:** 4
@@ -21,7 +22,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Charm Industrial is a carbon sequestration company that converts agricultural waste and biomass into carbon-dense bio-oil and biochar, which is then permanently sequestered underground.
+Charm Industrial is a San Francisco-based CDR supplier that uses mobile pyrolyzers to convert agricultural and forestry biomass into carbon-rich bio-oil, which is then injected underground into EPA-regulated wells where it solidifies in place. The company also produces biochar as a secondary removal pathway and has delivered carbon removal to Frontier, Google, JPMorgan, and others.
 
 ![Charm Industrial website](/screenshots/v1-thumbnails/charm-industrial.jpg)
 
@@ -32,6 +33,7 @@ Charm Industrial is a carbon sequestration company that converts agricultural wa
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://charmindustrial.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/charm-industrial/)

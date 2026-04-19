@@ -21,13 +21,14 @@ liveliness: "🟢 Active"
 
 ## About
 
-1PointFive is Occidental Petroleum's CCUS subsidiary developing the STRATOS Direct Air Capture facility in Ector County, Texas, designed to capture up to 500,000 tonnes of CO2 per year. Phase 1 is in final startup with Q2 2026 initial operations expected and Phase 2 commissioning beginning the same quarter. The company has signed CDR offtake deals with Microsoft, Amazon, AT&T, Airbus, Bain & Company, and others, and is also developing the Pelican Sequestration Hub in Louisiana.
+1PointFive is Occidental Petroleum's CCUS subsidiary developing the STRATOS Direct Air Capture facility in Ector County, Texas, designed to capture up to 500,000 tonnes of CO2 per year. Phase 1 is in the final stage of startup with Q2 2026 initial operations expected and Phase 2 commissioning beginning the same quarter. The company has signed CDR offtake deals with Microsoft, Amazon, AT&T, Airbus, Bain & Company, and others.
 
 ![1PointFive website](/screenshots/v1-thumbnails/1pointfive.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://www.ogj.com/energy-transition/news/55361290/oxys-1pointfive-expects-stratos-dac-plant-online-in-second-quarter-2026))
 - **2026-04-18** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://www.ogj.com/energy-transition/news/55361290/oxys-1pointfive-expects-stratos-dac-plant-online-in-second-quarter-2026))
 - **2026-04-18** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://www.1pointfive.com/news/1pointfive-and-bain-company-announce-agreement-for-direct-air-capture-carbon-removal-credits))
 - **2026-04-18** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://www.1pointfive.com/news/1pointfive-and-bain-company-announce-agreement-for-direct-air-capture-carbon-removal-credits))

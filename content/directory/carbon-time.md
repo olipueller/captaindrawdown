@@ -2,7 +2,7 @@
 title: "Carbon Time"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"2-1,2-2\\">Carbon Time is a Paris, France–based company founded in 2021 that operates as a developer of ocean alkalinity enhancement for carbon dioxi"
+description: "Carbon Time is a Paris, France–based company founded in 2021 that operates as a developer of ocean alkalinity enhancement for carbon dioxide removal. Its initia"
 url: "/directory/carbon-time/"
 pathway: "Ocean CDR"
 liveliness: "🟡 Moderate"
@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-<cite index="2-1,2-2">Carbon Time is a Paris, France–based company founded in 2021 that operates as a developer of ocean alkalinity enhancement for carbon dioxide removal.</cite> <cite index="1-5,1-6,1-8">Its initial focus is alkalinization via rock weathering using olivine, alongside electrochemical approaches compatible with coastal industries like desalination or water treatment.</cite> <cite index="1-12,1-13">The company was financed by the Team for the Planet citizen-investor movement.</cite>
+Carbon Time is a Paris, France–based company founded in 2021 that operates as a developer of ocean alkalinity enhancement for carbon dioxide removal. Its initial focus is alkalinization via rock weathering using olivine, alongside electrochemical approaches compatible with coastal industries like desalination or water treatment. The company was financed by the Team for the Planet citizen-investor movement.
 
 ![Carbon Time website](/screenshots/v1-thumbnails/carbon-time.jpg)
 

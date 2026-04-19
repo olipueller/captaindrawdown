@@ -2,7 +2,7 @@
 title: "Gaia"
 layout: "single"
 type: "directory"
-description: "Gaia is a BiCRS company based in Denmark that utilizes Bioenergy with Carbon Capture and Storage (BECCS) to convert municipal waste into energy and remove CO2 f"
+description: "Gaia is a joint venture between Copenhagen Infrastructure Partners (CIP, via its Energy Transition Fund) and Danish municipal waste-to-energy operator Vestforbr"
 url: "/directory/gaia/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
@@ -12,19 +12,20 @@ liveliness: "🟢 Active"
 **Method:** BECCS
 **Country:** Denmark
 **Website:** [https://www.gaia-ccs.dk/](https://www.gaia-ccs.dk/)
-**Status:** 🟢 Active (score: 85/100)
+**Status:** 🟢 Active (score: 90/100)
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Gaia is a BiCRS company based in Denmark that utilizes Bioenergy with Carbon Capture and Storage (BECCS) to convert municipal waste into energy and remove CO2 from the atmosphere.
+Gaia is a joint venture between Copenhagen Infrastructure Partners (CIP, via its Energy Transition Fund) and Danish municipal waste-to-energy operator Vestforbrænding, developing a full-scale CCS facility aiming to capture up to 500,000 tonnes of CO2 per year from 2029. The project was pre-qualified for Denmark's CCS Fund in May 2025 and signed a landmark 2.95 Mt offtake agreement with Microsoft in July 2025 for the biogenic (BECCS) portion of captured CO2.
 
 ![Gaia website](/screenshots/v1-thumbnails/gaia.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.gaia-ccs.dk/about-us/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 ---

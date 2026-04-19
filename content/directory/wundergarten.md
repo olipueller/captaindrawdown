@@ -2,7 +2,7 @@
 title: "Wundergarten"
 layout: "single"
 type: "directory"
-description: "Wundergarten is a German consumer gardening brand founded in 2019 that sells biochar-based soils, fertilizers, and biochar-coated seeds to retail customers via "
+description: "Wundergarten is a German consumer gardening brand founded in 2019 that sells biochar-based soils, fertilizers, and biochar-coated seeds to retail customers via"
 url: "/directory/wundergarten/"
 pathway: "Biochar"
 liveliness: "🟢 Active"

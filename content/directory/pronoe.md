@@ -2,7 +2,7 @@
 title: "Pronoe"
 layout: "single"
 type: "directory"
-description: "Pronoe is a French Marine CDR company that removes CO2 by increasing ocean alkalinity through an electrically driven process that dissolves crushed limestone in"
+description: "Pronoe is a French developer of modular water-treatment units designed to connect to desalination plants and other coastal facilities, with systems that dissolv"
 url: "/directory/pronoe/"
 pathway: "Ocean CDR"
 liveliness: "🟢 Active"
@@ -12,19 +12,20 @@ liveliness: "🟢 Active"
 **Method:** Ocean Alkalinity Enhancement
 **Country:** France
 **Website:** [https://www.pronoe.earth/](https://www.pronoe.earth/)
-**Status:** 🟢 Active (score: 100/100)
+**Status:** 🟢 Active (score: 90/100)
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Pronoe is a French Marine CDR company that removes CO2 by increasing ocean alkalinity through an electrically driven process that dissolves crushed limestone into seawater, often connected to desalination plants.
+Pronoe is a French developer of modular water-treatment units designed to connect to desalination plants and other coastal facilities, with systems that dissolve crushed limestone into seawater using an electrically driven process, producing alkaline discharge that boosts ocean CO2 absorption. The company claims its approach avoids lime calcination and on-site CO2 storage, reducing emissions and infrastructure requirements.
 
 ![Pronoe website](/screenshots/v1-thumbnails/pronoe.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.pronoe.earth/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 ---

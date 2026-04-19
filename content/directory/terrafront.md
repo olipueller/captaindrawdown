@@ -2,7 +2,7 @@
 title: "Terrafront"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"1-4\\">Terrafront develops climate change adaptation and mitigation infrastructure in South Asia and Africa</cite>, operating three project lines: Te"
+description: "Terrafront develops climate change adaptation and mitigation infrastructure in South Asia and Africa, operating three project lines: Terrachar for biochar, Terr"
 url: "/directory/terrafront/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -19,7 +19,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="1-4">Terrafront develops climate change adaptation and mitigation infrastructure in South Asia and Africa</cite>, operating three project lines: Terrachar for biochar, Terraroots for agroforestry/reforestation under Verra VM47 and Gold Standard ARR, and TerraRevive for enhanced rock weathering. <cite index="3-1,3-7">They collaborate with Carboneers to process agricultural residues into biochar and heat, and partner with Together for Restoration to work with smallholder farmers in Assam, India.</cite>
+Terrafront develops climate change adaptation and mitigation infrastructure in South Asia and Africa, operating three project lines: Terrachar for biochar, Terraroots for agroforestry/reforestation under Verra VM47 and Gold Standard ARR, and TerraRevive for enhanced rock weathering. They collaborate with Carboneers to process agricultural residues into biochar and heat, and partner with Together for Restoration to work with smallholder farmers in Assam, India.
 
 ![Terrafront website](/screenshots/v1-thumbnails/terrafront.jpg)
 

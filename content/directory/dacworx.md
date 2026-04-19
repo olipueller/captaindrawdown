@@ -2,7 +2,7 @@
 title: "DACworx"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"1-2,1-5,1-6\\">DACworx is a European DAC technology developer offering cost-efficient, scalable carbon capture for project developers, contractors, a"
+description: "DACworx is a European DAC technology developer offering cost-efficient, scalable carbon capture for project developers, contractors, and operators aiming for pe"
 url: "/directory/dacworx/"
 pathway: "DAC"
 liveliness: "🟡 Moderate"
@@ -18,7 +18,7 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-<cite index="1-2,1-5,1-6">DACworx is a European DAC technology developer offering cost-efficient, scalable carbon capture for project developers, contractors, and operators aiming for permanent CO₂ removal or production of sustainable chemicals and fuels, via modular standardized designs.</cite> <cite index="1-7,1-8,1-9">The process uses ambient operating conditions and readily available CO₂ filter materials, backed by in-house manufacturing and partnerships across Europe and the U.S.</cite>
+DACworx is a European DAC technology developer offering cost-efficient, scalable carbon capture for project developers, contractors, and operators aiming for permanent CO₂ removal or production of sustainable chemicals and fuels, via modular standardized designs. The process uses ambient operating conditions and readily available CO₂ filter materials, backed by in-house manufacturing and partnerships across Europe and the U.S.
 
 
 ## History

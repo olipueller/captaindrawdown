@@ -2,7 +2,7 @@
 title: "Preterra"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"3-3,3-4,3-5\\">Preterra BioCarbon Solutions, based on Salt Spring Island, BC, identifies proven European biochar technologies and brings them to Nort"
+description: "Preterra BioCarbon Solutions, based on Salt Spring Island, BC, identifies proven European biochar technologies and brings them to North America, offering tools"
 url: "/directory/preterra/"
 pathway: "Biochar"
 liveliness: "🟠 Suspect"
@@ -18,7 +18,7 @@ liveliness: "🟠 Suspect"
 
 ## About
 
-<cite index="3-3,3-4,3-5">Preterra BioCarbon Solutions, based on Salt Spring Island, BC, identifies proven European biochar technologies and brings them to North America, offering tools to sequester carbon in soils and building materials while improving wildfire resiliency.</cite> <cite index="1-17,1-18,1-19">The company uses BC wood waste (slash from clearcut logging and sawmill residues) as feedstock, focusing on slash from forest-thinning for wildfire resiliency.</cite> They also sell bagged biochar to consumers via Amazon.ca.
+Preterra BioCarbon Solutions, based on Salt Spring Island, BC, identifies proven European biochar technologies and brings them to North America, offering tools to sequester carbon in soils and building materials while improving wildfire resiliency. The company uses BC wood waste (slash from clearcut logging and sawmill residues) as feedstock, focusing on slash from forest-thinning for wildfire resiliency. They also sell bagged biochar to consumers via Amazon.ca.
 
 
 ## History

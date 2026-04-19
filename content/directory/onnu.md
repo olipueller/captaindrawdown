@@ -2,7 +2,7 @@
 title: "Onnu"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"2-1,2-2\\">Onnu is a UK-headquartered project developer and technology provider that develops its own pyrolysis plants and consults on plants for cli"
+description: "Onnu is a UK-headquartered project developer and technology provider that develops its own pyrolysis plants and consults on plants for clients across Europe and"
 url: "/directory/onnu/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -18,7 +18,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="2-1,2-2">Onnu is a UK-headquartered project developer and technology provider that develops its own pyrolysis plants and consults on plants for clients across Europe and SE Asia.</cite> <cite index="2-6,2-7">It operates Onnu Biochar, the biochar trading arm selling EBC-certified biochar for retail customers in Europe, and Onnu Bioflow, the renewable commodities trading arm for larger-scale customers.</cite> <cite index="4-16">Onnu is registered with the Puro.Earth carbon registry and biochar from its Wye Valley hubs qualifies for CO2 Removal Certificates (CORCs).</cite>
+Onnu is a UK-headquartered project developer and technology provider that develops its own pyrolysis plants and consults on plants for clients across Europe and SE Asia. It operates Onnu Biochar, the biochar trading arm selling EBC-certified biochar for retail customers in Europe, and Onnu Bioflow, the renewable commodities trading arm for larger-scale customers. Onnu is registered with the Puro.Earth carbon registry and biochar from its Wye Valley hubs qualifies for CO2 Removal Certificates (CORCs).
 
 ![Onnu website](/screenshots/v1-thumbnails/onnu.jpg)
 

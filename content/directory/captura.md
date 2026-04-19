@@ -2,7 +2,7 @@
 title: "Captura"
 layout: "single"
 type: "directory"
-description: "Captura is a Pasadena, California-based Direct Ocean Capture company spun out of Caltech in 2021 that uses high-performance bipolar-membrane electrodialysis to "
+description: "Captura is a Pasadena, California-based Direct Ocean Capture company spun out of Caltech in 2021 that uses high-performance bipolar-membrane electrodialysis to"
 url: "/directory/captura/"
 pathway: "Ocean CDR"
 liveliness: "🟢 Active"

@@ -2,7 +2,7 @@
 title: "Beston Group"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"1-1,3-2\\">Beston Group Co., Ltd., based in Zhengzhou, China, specializes in waste-to-resource pyrolysis solutions covering oil sludge, plastics, rub"
+description: "Beston Group Co., Ltd., based in Zhengzhou, China, specializes in waste-to-resource pyrolysis solutions covering oil sludge, plastics, rubber, and biomass. On t"
 url: "/directory/beston-group/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="1-1,3-2">Beston Group Co., Ltd., based in Zhengzhou, China, specializes in waste-to-resource pyrolysis solutions covering oil sludge, plastics, rubber, and biomass.</cite> On the biochar side, they supply the pyrolysis equipment used by CDR project developers; <cite index="8-1">Beston Group is an official technology provider for Puro.earth and is the first biochar equipment partner of Isometric.</cite> <cite index="8-3,8-4,8-5">Their BST-50 units power Exomad Green's biochar production, with Phase 2 bringing a total of 15 industrial-grade systems online.</cite>
+Beston Group Co., Ltd., based in Zhengzhou, China, specializes in waste-to-resource pyrolysis solutions covering oil sludge, plastics, rubber, and biomass. On the biochar side, they supply the pyrolysis equipment used by CDR project developers; Beston Group is an official technology provider for Puro.earth and is the first biochar equipment partner of Isometric. Their BST-50 units power Exomad Green's biochar production, with Phase 2 bringing a total of 15 industrial-grade systems online.
 
 
 ## History

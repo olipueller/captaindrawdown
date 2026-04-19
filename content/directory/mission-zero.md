@@ -2,7 +2,7 @@
 title: "Mission Zero"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"2-14,2-15\\">Mission Zero Technologies is a UK-based company that develops electrochemical direct air capture (DAC) technology inspired by biological"
+description: "Mission Zero Technologies is a UK-based company that develops electrochemical direct air capture (DAC) technology inspired by biological reactions that manage C"
 url: "/directory/mission-zero/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -18,7 +18,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="2-14,2-15">Mission Zero Technologies is a UK-based company that develops electrochemical direct air capture (DAC) technology inspired by biological reactions that manage CO₂ in the body, designed to recover atmospheric CO₂ at any scale.</cite> <cite index="10-1,10-2">The company has deployed three systems to date, including a UK plant with O.C.O Technology that pairs DAC with building-materials production and a third system now capturing CO₂ for permanent underground storage at Deep Sky in Canada.</cite>
+Mission Zero Technologies is a UK-based company that develops electrochemical direct air capture (DAC) technology inspired by biological reactions that manage CO₂ in the body, designed to recover atmospheric CO₂ at any scale. The company has deployed three systems to date, including a UK plant with O.C.O Technology that pairs DAC with building-materials production and a third system now capturing CO₂ for permanent underground storage at Deep Sky in Canada.
 
 ![Mission Zero website](/screenshots/v1-thumbnails/mission-zero.jpg)
 

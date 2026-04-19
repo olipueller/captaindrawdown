@@ -2,7 +2,7 @@
 title: "Capital Link"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"12-3\\">Capital Link Green (CLG) transforms waste into premium biochar, while removing carbon, restoring ecosystems, and generating credits backed by"
+description: "Capital Link Green (CLG) transforms waste into premium biochar, while removing carbon, restoring ecosystems, and generating credits backed by science and measur"
 url: "/directory/capital-link/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -18,7 +18,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="12-3">Capital Link Green (CLG) transforms waste into premium biochar, while removing carbon, restoring ecosystems, and generating credits backed by science and measurable results.</cite> <cite index="12-5">Verified Carbon Credits are issued via Isometric, backed by peer-reviewed methodology.</cite> <cite index="12-13">Credits are insurable against reversal through Oka, via Lloyd's of London.</cite>
+Capital Link Green (CLG) transforms waste into premium biochar, while removing carbon, restoring ecosystems, and generating credits backed by science and measurable results. Verified Carbon Credits are issued via Isometric, backed by peer-reviewed methodology. Credits are insurable against reversal through Oka, via Lloyd's of London.
 
 ![Capital Link website](/screenshots/v1-thumbnails/capital-link.jpg)
 

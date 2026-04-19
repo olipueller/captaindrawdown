@@ -2,7 +2,7 @@
 title: "Carbono Capital"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"3-1\\">Carbono Capital SpA is a Chile-based biochar producer whose website emphasizes soil enrichment, carbon sequestration, and promoting healthier "
+description: "Carbono Capital SpA is a Chile-based biochar producer whose website emphasizes soil enrichment, carbon sequestration, and promoting healthier ecosystems through"
 url: "/directory/carbono-capital/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -18,7 +18,7 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-<cite index="3-1">Carbono Capital SpA is a Chile-based biochar producer whose website emphasizes soil enrichment, carbon sequestration, and promoting healthier ecosystems through biochar</cite>. The company operates as a CDR supplier producing biochar-based compost and carbon credits, though public activity signals and news coverage are limited.
+Carbono Capital SpA is a Chile-based biochar producer whose website emphasizes soil enrichment, carbon sequestration, and promoting healthier ecosystems through biochar. The company operates as a CDR supplier producing biochar-based compost and carbon credits, though public activity signals and news coverage are limited.
 
 ![Carbono Capital website](/screenshots/v1-thumbnails/carbono-capital.jpg)
 

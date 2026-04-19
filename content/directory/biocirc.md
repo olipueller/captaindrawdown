@@ -2,7 +2,7 @@
 title: "BioCirc"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"2-15,2-16\\">BioCirc Group, founded in Denmark in 2021, is one of the largest biomethane producers globally, operating eight biogas plants.</cite> <c"
+description: "BioCirc Group, founded in Denmark in 2021, is one of the largest biomethane producers globally, operating eight biogas plants. A Nordic Investment Bank loan is"
 url: "/directory/biocirc/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
@@ -21,7 +21,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="2-15,2-16">BioCirc Group, founded in Denmark in 2021, is one of the largest biomethane producers globally, operating eight biogas plants.</cite> <cite index="4-3,4-4">A Nordic Investment Bank loan is financing infrastructure to clean and liquefy captured CO2 for delivery to Project Greensand, which will store the CO2 underground in the Danish part of the North Sea.</cite> <cite index="1-1,1-2">CCS implementation is underway across five biogas plants, with operations ramping from 2026 to 2032, aiming to capture and store up to 1 million tonnes of CO2.</cite>
+BioCirc Group, founded in Denmark in 2021, is one of the largest biomethane producers globally, operating eight biogas plants. A Nordic Investment Bank loan is financing infrastructure to clean and liquefy captured CO2 for delivery to Project Greensand, which will store the CO2 underground in the Danish part of the North Sea. CCS implementation is underway across five biogas plants, with operations ramping from 2026 to 2032, aiming to capture and store up to 1 million tonnes of CO2.
 
 ![BioCirc website](/screenshots/v1-thumbnails/biocirc.jpg)
 

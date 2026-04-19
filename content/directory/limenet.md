@@ -2,7 +2,7 @@
 title: "Limenet"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"6-9,6-10\\">Limenet is an Italian climate tech company using a patented pH-equilibrated Ocean Alkalinization technology that stores CO₂ in seawater a"
+description: "Limenet is an Italian climate tech company using a patented pH-equilibrated Ocean Alkalinization technology that stores CO₂ in seawater as equilibrated calcium"
 url: "/directory/limenet/"
 pathway: "Ocean CDR"
 liveliness: "🟢 Active"
@@ -21,7 +21,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="6-9,6-10">Limenet is an Italian climate tech company using a patented pH-equilibrated Ocean Alkalinization technology that stores CO₂ in seawater as equilibrated calcium bicarbonates, increasing ocean alkalinity.</cite> <cite index="3-9">Its Augusta (Sicily) plant has been operational since September 2023, currently processes 800 tonnes of CO₂ per year, with plans to scale to 100,000 tonnes annually by 2028.</cite> <cite index="3-3,3-4">In 2025, Carbonmark issued Limenet's first 14.7 OAE credits via Carbonmark Direct, a milestone for ocean-based carbon removal.</cite>
+Limenet is an Italian climate tech company using a patented pH-equilibrated Ocean Alkalinization technology that stores CO₂ in seawater as equilibrated calcium bicarbonates, increasing ocean alkalinity. Its Augusta (Sicily) plant has been operational since September 2023, currently processes 800 tonnes of CO₂ per year, with plans to scale to 100,000 tonnes annually by 2028. In 2025, Carbonmark issued Limenet's first 14.7 OAE credits via Carbonmark Direct, a milestone for ocean-based carbon removal.
 
 ![Limenet website](/screenshots/v1-thumbnails/limenet.jpg)
 

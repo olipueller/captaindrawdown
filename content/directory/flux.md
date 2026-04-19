@@ -2,7 +2,7 @@
 title: "Flux"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"5-4,5-5\\">Flux is a Nairobi-based climate startup that has sold Africa's first carbon dioxide removal credits based on the practice of using crushed"
+description: "Flux is a Nairobi-based climate startup that has sold Africa's first carbon dioxide removal credits based on the practice of using crushed basalt to absorb CO2,"
 url: "/directory/flux/"
 pathway: "Enhanced Weathering"
 liveliness: "🟢 Active"
@@ -21,7 +21,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="5-4,5-5">Flux is a Nairobi-based climate startup that has sold Africa's first carbon dioxide removal credits based on the practice of using crushed basalt to absorb CO2, pre-selling credits for 540 tons of CO2 removal via enhanced rock weathering.</cite> <cite index="6-13,6-14">Flux is working to unlock the potential of ERW across Africa, aiming to sequester hundreds of millions of tonnes of CO2 while improving soils and yields for millions of farmers across the continent.</cite> <cite index="10-13">The company has also signed on to work with African Food Security on a 205,000-hectare maize farming project in Cameroon.</cite>
+Flux is a Nairobi-based climate startup that has sold Africa's first carbon dioxide removal credits based on the practice of using crushed basalt to absorb CO2, pre-selling credits for 540 tons of CO2 removal via enhanced rock weathering. Flux is working to unlock the potential of ERW across Africa, aiming to sequester hundreds of millions of tonnes of CO2 while improving soils and yields for millions of farmers across the continent. The company has also signed on to work with African Food Security on a 205,000-hectare maize farming project in Cameroon.
 
 ![Flux website](/screenshots/v1-thumbnails/flux.jpg)
 

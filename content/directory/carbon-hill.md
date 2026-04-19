@@ -2,7 +2,7 @@
 title: "Carbon Hill"
 layout: "single"
 type: "directory"
-description: "Carbon Hill is a family-run company based in mid-Wales, UK, that produces biochar from locally sourced, underutilized biomass using proprietary low-emission pyr"
+description: "Carbon Hill is a family-run biochar producer at Caebardd farm near Welshpool in mid-Wales, UK, operated by the Jones family alongside their Woodtek engineering"
 url: "/directory/carbon-hill/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -12,7 +12,7 @@ liveliness: "🟢 Active"
 **Method:** Biochar
 **Country:** United Kingdom
 **Website:** [https://www.accend.earth/projects-carbon-hill](https://www.accend.earth/projects-carbon-hill)
-**Status:** 🟢 Active (score: 90/100)
+**Status:** 🟢 Active (score: 80/100)
 **Employees:** ~8 (-11% YoY)
 **LinkedIn Followers:** 1,225
 **CDR Focus:** supplier
@@ -20,7 +20,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Carbon Hill is a family-run company based in mid-Wales, UK, that produces biochar from locally sourced, underutilized biomass using proprietary low-emission pyrolysis systems. They are expanding their operations through a joint venture, Biodynamic Carbon Ltd, to create the UK's largest biochar facility.
+Carbon Hill is a family-run biochar producer at Caebardd farm near Welshpool in mid-Wales, UK, operated by the Jones family alongside their Woodtek engineering arm. It produces biochar from locally sourced biomass such as hedgerow trimmings and municipal green waste using in-house pyrolysis systems, and is expanding via Biodynamic Carbon Ltd — a joint venture with Shropshire Council and Onnu — which aims to be the UK's largest biochar facility.
 
 ![Carbon Hill website](/screenshots/v1-thumbnails/carbon-hill.jpg)
 
@@ -30,6 +30,7 @@ Carbon Hill is a family-run company based in mid-Wales, UK, that produces biocha
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://registry.puro.earth/carbon-sequestration/projects/Biochar/Carbon-Hill/9838a5e7-d5a6-429f-9b16-769535846d1c))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/accend-conusulting/)

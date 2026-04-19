@@ -2,7 +2,7 @@
 title: "Underground Forest"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"3-9,3-10,3-11\\">Founded by Kees de Gruiter in 2023, Underground Forest revives ancient wood-piling techniques for long-term carbon storage, using su"
+description: "Founded by Kees de Gruiter in 2023, Underground Forest revives ancient wood-piling techniques for long-term carbon storage, using sustainably sourced logs to st"
 url: "/directory/underground-forest/"
 pathway: "Biomass Burial"
 liveliness: "🟢 Active"
@@ -18,7 +18,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="3-9,3-10,3-11">Founded by Kees de Gruiter in 2023, Underground Forest revives ancient wood-piling techniques for long-term carbon storage, using sustainably sourced logs to store CO₂ for up to 1,000 years while offering solutions for peatland restoration and climate-neutral housing, with support from CarbonFix preparing to sequester its first kiloton of CO₂ by 2025.</cite> <cite index="1-11">Their method is certified according to the IPCC CDR Taxonomy and the EU CRCF programme with a permanence of more than a thousand years.</cite> <cite index="4-1">In 2025, greenhouse builder KUBO launched a partnership with Underground Forest to use wooden pile foundations that enable long-term CO2 storage.</cite>
+Founded by Kees de Gruiter in 2023, Underground Forest revives ancient wood-piling techniques for long-term carbon storage, using sustainably sourced logs to store CO₂ for up to 1,000 years while offering solutions for peatland restoration and climate-neutral housing, with support from CarbonFix preparing to sequester its first kiloton of CO₂ by 2025. Their method is certified according to the IPCC CDR Taxonomy and the EU CRCF programme with a permanence of more than a thousand years. In 2025, greenhouse builder KUBO launched a partnership with Underground Forest to use wooden pile foundations that enable long-term CO2 storage.
 
 ![Underground Forest website](/screenshots/v1-thumbnails/underground-forest.jpg)
 

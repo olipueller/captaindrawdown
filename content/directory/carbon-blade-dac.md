@@ -2,7 +2,7 @@
 title: "Carbon Blade DAC"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"6-3\\">Carbon Blade is a California-based climate technology company that develops hardware solutions to capture CO2 directly from the air as a clima"
+description: "Carbon Blade is a California-based climate technology company that develops hardware solutions to capture CO2 directly from the air as a climate mitigation stra"
 url: "/directory/carbon-blade-dac/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -18,7 +18,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="6-3">Carbon Blade is a California-based climate technology company that develops hardware solutions to capture CO2 directly from the air as a climate mitigation strategy.</cite> <cite index="6-1">The company acquired foundational DAC IP from RoCo® in 2023.</cite> <cite index="10-12">It is currently collaborating with UC San Diego to construct a pilot carbon capture plant on campus capable of both capturing and storing CO2.</cite>
+Carbon Blade is a California-based climate technology company that develops hardware solutions to capture CO2 directly from the air as a climate mitigation strategy. The company acquired foundational DAC IP from RoCo® in 2023. It is currently collaborating with UC San Diego to construct a pilot carbon capture plant on campus capable of both capturing and storing CO2.
 
 
 ## History

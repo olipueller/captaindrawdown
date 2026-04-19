@@ -2,7 +2,7 @@
 title: "Bioenergie Frauenfeld"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"2-1,2-2,2-3\\">Bioenergie Frauenfeld AG, a joint venture between Energie 360° AG and Schweizer Zucker AG, operates a climate-positive wood-fired powe"
+description: "Bioenergie Frauenfeld AG, a joint venture between Energie 360° AG and Schweizer Zucker AG, operates a climate-positive wood-fired power plant in Frauenfeld that"
 url: "/directory/bioenergie-frauenfeld/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -21,7 +21,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="2-1,2-2,2-3">Bioenergie Frauenfeld AG, a joint venture between Energie 360° AG and Schweizer Zucker AG, operates a climate-positive wood-fired power plant in Frauenfeld that has been in operation since spring 2022, converting regional residual wood via pyrolysis into durable carbon (biochar).</cite> <cite index="3-15,3-16">The carbon-negative plant removes 9,000 metric tons of CO2 annually and was built in collaboration with IWK Integrierte Wärme Kraft AG and SYNCRAFT.</cite> <cite index="7-2">Carbonfuture has signed a partnership with Bioenergie Frauenfeld to enable large-scale carbon removal deliveries.</cite>
+Bioenergie Frauenfeld AG, a joint venture between Energie 360° AG and Schweizer Zucker AG, operates a climate-positive wood-fired power plant in Frauenfeld that has been in operation since spring 2022, converting regional residual wood via pyrolysis into durable carbon (biochar). The carbon-negative plant removes 9,000 metric tons of CO2 annually and was built in collaboration with IWK Integrierte Wärme Kraft AG and SYNCRAFT. Carbonfuture has signed a partnership with Bioenergie Frauenfeld to enable large-scale carbon removal deliveries.
 
 ![Bioenergie Frauenfeld website](/screenshots/v1-thumbnails/bioenergie-frauenfeld.jpg)
 

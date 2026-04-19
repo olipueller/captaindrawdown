@@ -2,7 +2,7 @@
 title: "CarbonMeld"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"1-1,1-2\\">CarbonMeld provides quality scores for 650+ carbon credit projects across 9 marketplaces, with daily updates on integrity, transparency, a"
+description: "CarbonMeld provides quality scores for 650+ carbon credit projects across 9 marketplaces, with daily updates on integrity, transparency, and claim safety. It ap"
 url: "/directory/carbonmeld/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
@@ -18,7 +18,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="1-1,1-2">CarbonMeld provides quality scores for 650+ carbon credit projects across 9 marketplaces, with daily updates on integrity, transparency, and claim safety.</cite> <cite index="2-12,2-13,2-14">It applies a standardized evaluation pipeline to public documents from registries such as Verra, Gold Standard, CDM, and CORSIA, using an LLM-based system to evaluate four dimensions: registry integrity, transparency, claim safety, and documentation quality.</cite> <cite index="2-6,2-7">CarbonMeld is not a marketplace but an independent analysis tool used before negotiation to screen projects.</cite>
+CarbonMeld provides quality scores for 650+ carbon credit projects across 9 marketplaces, with daily updates on integrity, transparency, and claim safety. It applies a standardized evaluation pipeline to public documents from registries such as Verra, Gold Standard, CDM, and CORSIA, using an LLM-based system to evaluate four dimensions: registry integrity, transparency, claim safety, and documentation quality. CarbonMeld is not a marketplace but an independent analysis tool used before negotiation to screen projects.
 
 
 ## History

@@ -2,7 +2,7 @@
 title: "Stockholm Exergi"
 layout: "single"
 type: "directory"
-description: "Stockholm Exergi is a Swedish municipal energy utility (owned by the City of Stockholm and a European pension-fund consortium Ankhiale) constructing one of the "
+description: "Stockholm Exergi is a Swedish municipal energy utility (owned by the City of Stockholm and a European pension-fund consortium Ankhiale) constructing one of the"
 url: "/directory/stockholm-exergi/"
 pathway: "BECCS"
 liveliness: "🟢 Active"

@@ -2,7 +2,7 @@
 title: "Inkan Negro"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"2-1,2-2\\">Inkan Negro is a Peruvian-owned company that manufactures and sells its own ecologically sustainable biochar soil amendment, based on over"
+description: "Inkan Negro is a Peruvian-owned company that manufactures and sells its own ecologically sustainable biochar soil amendment, based on over 10 years of scientifi"
 url: "/directory/inkan-negro/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -20,7 +20,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="2-1,2-2">Inkan Negro is a Peruvian-owned company that manufactures and sells its own ecologically sustainable biochar soil amendment, based on over 10 years of scientific research conducted in Peru.</cite> <cite index="3-1,3-2">They produce biochar by converting urban green and agricultural wastes into an optimized soil amendment that improves soil structural properties and fertility.</cite> The company has engaged with Puro.earth through a Pre-CORC biochar project.
+Inkan Negro is a Peruvian-owned company that manufactures and sells its own ecologically sustainable biochar soil amendment, based on over 10 years of scientific research conducted in Peru. They produce biochar by converting urban green and agricultural wastes into an optimized soil amendment that improves soil structural properties and fertility. The company has engaged with Puro.earth through a Pre-CORC biochar project.
 
 ![Inkan Negro website](/screenshots/v1-thumbnails/inkan-negro.jpg)
 

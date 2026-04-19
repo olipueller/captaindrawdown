@@ -2,7 +2,7 @@
 title: "Carbonfuture"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"2-1,2-2\\">Carbonfuture is the Trust Infrastructure for durable carbon removal, centered on Carbonfuture MRV+, a fully integrated, end-to-end solutio"
+description: "Carbonfuture is the Trust Infrastructure for durable carbon removal, centered on Carbonfuture MRV+, a fully integrated, end-to-end solution for monitoring, repo"
 url: "/directory/carbonfuture/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="2-1,2-2">Carbonfuture is the Trust Infrastructure for durable carbon removal, centered on Carbonfuture MRV+, a fully integrated, end-to-end solution for monitoring, reporting, and verification of carbon removal projects.</cite> They operate as a marketplace/broker rather than a physical remover, aggregating supply from <cite index="1-6">biochar, BECCS, DACCS, and mineralization projects</cite> across five continents. Clients include Microsoft, Swiss Re, Boeing, and the WEF First Movers Coalition.
+Carbonfuture is the Trust Infrastructure for durable carbon removal, centered on Carbonfuture MRV+, a fully integrated, end-to-end solution for monitoring, reporting, and verification of carbon removal projects. They operate as a marketplace/broker rather than a physical remover, aggregating supply from biochar, BECCS, DACCS, and mineralization projects across five continents. Clients include Microsoft, Swiss Re, Boeing, and the WEF First Movers Coalition.
 
 ![Carbonfuture website](/screenshots/v1-thumbnails/carbonfuture.jpg)
 

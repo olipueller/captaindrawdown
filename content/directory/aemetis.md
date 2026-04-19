@@ -2,7 +2,7 @@
 title: "Aemetis"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"8-14,8-15,8-16\\">Aemetis is a renewable natural gas, renewable fuel and biochemicals company headquartered in Cupertino, California, operating a dai"
+description: "Aemetis is a renewable natural gas, renewable fuel and biochemicals company headquartered in Cupertino, California, operating a dairy biogas digester network an"
 url: "/directory/aemetis/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
@@ -20,7 +20,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="8-14,8-15,8-16">Aemetis is a renewable natural gas, renewable fuel and biochemicals company headquartered in Cupertino, California, operating a dairy biogas digester network and a 65-million-gallon-per-year ethanol facility in the Central Valley.</cite> Its Aemetis Carbon Capture subsidiary is developing BECCS projects — <cite index="9-11">engineering and permitting two CCS injection well projects to capture, dehydrate, compress, and sequester CO2 from the Aemetis Biogas anaerobic dairy digester projects, the Aemetis biofuel plants, and CO2 from oil refineries in California.</cite> <cite index="6-3">In 2023 the subsidiary was awarded the first CO2 sequestration characterization well permit issued by the State of California.</cite>
+Aemetis is a renewable natural gas, renewable fuel and biochemicals company headquartered in Cupertino, California, operating a dairy biogas digester network and a 65-million-gallon-per-year ethanol facility in the Central Valley. Its Aemetis Carbon Capture subsidiary is developing BECCS projects — engineering and permitting two CCS injection well projects to capture, dehydrate, compress, and sequester CO2 from the Aemetis Biogas anaerobic dairy digester projects, the Aemetis biofuel plants, and CO2 from oil refineries in California. In 2023 the subsidiary was awarded the first CO2 sequestration characterization well permit issued by the State of California.
 
 
 ## History

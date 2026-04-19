@@ -2,7 +2,7 @@
 title: "OLNEO"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"10-1\\">OLNEO is a climate deeptech startup developing modular carbon removal systems, based in Paris, France with 1-10 employees.</cite> <cite index"
+description: "OLNEO is a climate deeptech startup developing modular carbon removal systems, based in Paris, France with 1-10 employees. The company is building carbon remova"
 url: "/directory/olneo/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -18,7 +18,7 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-<cite index="10-1">OLNEO is a climate deeptech startup developing modular carbon removal systems, based in Paris, France with 1-10 employees.</cite> <cite index="6-1,6-2">The company is building carbon removal infrastructure in Africa using biochar, converting local agricultural residues into high-quality biochar</cite>, <cite index="2-14,2-15">rooted in Algeria and designed to scale across Africa and the MENA region.</cite>
+OLNEO is a climate deeptech startup developing modular carbon removal systems, based in Paris, France with 1-10 employees. The company is building carbon removal infrastructure in Africa using biochar, converting local agricultural residues into high-quality biochar, rooted in Algeria and designed to scale across Africa and the MENA region.
 
 ![OLNEO website](/screenshots/v1-thumbnails/olneo.jpg)
 

@@ -2,17 +2,18 @@
 title: "Heirloom"
 layout: "single"
 type: "directory"
-description: "Heirloom develops a low-cost Direct Air Capture (DAC) technology that uses modified limestone (calcium carbonate/oxide) as a solid sorbent to remove CO2 directl"
+description: "Heirloom is a U.S. Direct Air Capture company that uses limestone (calcium oxide/carbonate) as a solid sorbent to pull CO2 from the atmosphere. It operates Nort"
 url: "/directory/heirloom/"
 pathway: "DAC"
 liveliness: "🟢 Active"
 ---
 
 **Pathway:** DAC
+**Secondary pathways:** Mineralization
 **Method:** DAC (Solid Sorbent)
 **Country:** United States
 **Website:** [https://www.heirloomcarbon.com/](https://www.heirloomcarbon.com/)
-**Status:** 🟢 Active (score: 90/100)
+**Status:** 🟢 Active (score: 95/100)
 **Employees:** ~175 (-12% YoY)
 **LinkedIn Followers:** 34,207
 **Open roles on cdrjobs:** 11
@@ -21,7 +22,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Heirloom develops a low-cost Direct Air Capture (DAC) technology that uses modified limestone (calcium carbonate/oxide) as a solid sorbent to remove CO2 directly from the atmosphere.
+Heirloom is a U.S. Direct Air Capture company that uses limestone (calcium oxide/carbonate) as a solid sorbent to pull CO2 from the atmosphere. It operates North America's first commercial DAC facility in Tracy, California, and is building two additional DAC facilities in Northwest Louisiana, including a contribution to the DOE-funded Project Cypress DAC Hub.
 
 ![Heirloom website](/screenshots/v1-thumbnails/heirloom.jpg)
 
@@ -31,6 +32,7 @@ Heirloom develops a low-cost Direct Air Capture (DAC) technology that uses modif
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.heirloomcarbon.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/heirloom-carbon/)

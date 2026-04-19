@@ -2,7 +2,7 @@
 title: "Salient DOC"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"5-1,5-2\\">Salient Direct Ocean Capture (DOC) is described as pioneering electrochemical technology for scalable, cost-effective carbon dioxide remov"
+description: "Salient Direct Ocean Capture (DOC) is described as pioneering electrochemical technology for scalable, cost-effective carbon dioxide removal (CDR) from seawater"
 url: "/directory/salient-doc/"
 pathway: "Ocean CDR"
 liveliness: "🟠 Suspect"
@@ -18,7 +18,7 @@ liveliness: "🟠 Suspect"
 
 ## About
 
-<cite index="5-1,5-2">Salient Direct Ocean Capture (DOC) is described as pioneering electrochemical technology for scalable, cost-effective carbon dioxide removal (CDR) from seawater, working to scale up technology from concept to pilot to commercial stages.</cite> Public footprint is very limited — no standalone website, no funding announcements, and no press coverage or pilot deployments could be located, with only an advisor's LinkedIn profile referencing the company.
+Salient Direct Ocean Capture (DOC) is described as pioneering electrochemical technology for scalable, cost-effective carbon dioxide removal (CDR) from seawater, working to scale up technology from concept to pilot to commercial stages. Public footprint is very limited — no standalone website, no funding announcements, and no press coverage or pilot deployments could be located, with only an advisor's LinkedIn profile referencing the company.
 
 ![Salient DOC website](/screenshots/v1-thumbnails/salient-doc.jpg)
 

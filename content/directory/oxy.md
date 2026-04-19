@@ -19,7 +19,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Occidental (Oxy) is a major US oil & gas producer that, through its subsidiary 1PointFive (and with Carbon Engineering technology and OxyChem operations), is building large-scale Direct Air Capture facilities including STRATOS in Ector County, Texas. <cite index="8-2">STRATOS, described as the world's largest DAC facility, received EPA Class VI sequestration permits in April 2025 for Ector County, Texas</cite> and <cite index="4-1">in January 2026, 1PointFive announced Bain & Company had purchased 9,000 metric tons of DAC-based CDR credits over three years</cite>.
+Occidental (Oxy) is a major US oil & gas producer that, through its subsidiary 1PointFive (and with Carbon Engineering technology and OxyChem operations), is building large-scale Direct Air Capture facilities including STRATOS in Ector County, Texas. STRATOS, described as the world's largest DAC facility, received EPA Class VI sequestration permits in April 2025 for Ector County, Texas and in January 2026, 1PointFive announced Bain & Company had purchased 9,000 metric tons of DAC-based CDR credits over three years.
 
 ## Registry Memberships
 

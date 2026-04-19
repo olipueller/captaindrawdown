@@ -2,7 +2,7 @@
 title: "Carbon To Stone"
 layout: "single"
 type: "directory"
-description: "Carbon To Stone is a Cornell University spinout developing a low-energy carbon mineralization technology that couples CO2 capture with reactive crystallization "
+description: "Carbon To Stone is a Cornell University spinout developing a low-energy carbon mineralization technology that couples CO2 capture with reactive crystallization"
 url: "/directory/carbon-to-stone/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"

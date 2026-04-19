@@ -2,7 +2,7 @@
 title: "Varhad"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"3-3\\">VCAP, a Varhad Group subsidiary, is India's largest artisanal biochar producer and registered C-sink manager, offering expert advisory on eco-"
+description: "VCAP, a Varhad Group subsidiary, is India's largest artisanal biochar producer and registered C-sink manager, offering expert advisory on eco-friendly biocoal a"
 url: "/directory/varhad/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -19,7 +19,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="3-3">VCAP, a Varhad Group subsidiary, is India's largest artisanal biochar producer and registered C-sink manager, offering expert advisory on eco-friendly biocoal and biochar production.</cite> <cite index="5-6,5-7">The company partnered with Japan's Green Carbon Inc. and Switzerland's Carbonfuture on a large-scale CDR project that will make approximately 120,300 tonnes of carbon removal credits available via Carbonfuture.</cite> <cite index="2-1">As of early 2026, Varhad is scaling up carbon-removal capacity using both biochar and biomethanol pathways in an integrated biomass-to-biofuel and CDR model.</cite>
+VCAP, a Varhad Group subsidiary, is India's largest artisanal biochar producer and registered C-sink manager, offering expert advisory on eco-friendly biocoal and biochar production. The company partnered with Japan's Green Carbon Inc. and Switzerland's Carbonfuture on a large-scale CDR project that will make approximately 120,300 tonnes of carbon removal credits available via Carbonfuture. As of early 2026, Varhad is scaling up carbon-removal capacity using both biochar and biomethanol pathways in an integrated biomass-to-biofuel and CDR model.
 
 ![Varhad website](/screenshots/v1-thumbnails/varhad.jpg)
 

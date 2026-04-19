@@ -2,20 +2,28 @@
 title: "Taranis"
 layout: "single"
 type: "directory"
-description: "Taranis — Enabling Tech company in Unknown"
+description: "Taranis is a France-based investment and project development firm owned by the Perenco Group. Through Taranis Carbon Ventures it provides Series A/B funding to"
 url: "/directory/taranis/"
 pathway: "Enabling Tech"
+liveliness: "🟢 Active"
 ---
 
 **Pathway:** Enabling Tech
+**Secondary pathways:** Afforestation
 **Method:** Enabling Tech
 **Country:** Unknown
-**CDR Focus:** unclassified
+**Status:** 🟢 Active (score: 85/100)
+**CDR Focus:** ecosystem
 **Evidence signals:** news_mention
+
+## About
+
+Taranis is a France-based investment and project development firm owned by the Perenco Group. Through Taranis Carbon Ventures it provides Series A/B funding to carbon capture and CDR hardware startups (e.g. RepAir Carbon), and through its Nature-Based Solutions arm it develops forest conservation and afforestation/reforestation carbon projects. It is part of the CDR ecosystem as an investor and project developer rather than a direct technology supplier.
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://taranis.eu/))
 - **2026-04-18** — discovered via: news_feed ([source](https://www.negative-emissions.org/updates/venture-capital-firm-taranis-joins-nep))
 
 ---

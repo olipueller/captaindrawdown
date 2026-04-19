@@ -2,7 +2,7 @@
 title: "Lucrat"
 layout: "single"
 type: "directory"
-description: "Lucrat GmbH is a German company that produces biochar-based products, focusing on the construction industry and biogas, and has developed efficient biochar thro"
+description: "Lucrat GmbH is a German biochar producer based in Steinfurt, focused on applications in biogas plants and the construction industry. Their products are EBC-cert"
 url: "/directory/lucrat/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -12,19 +12,20 @@ liveliness: "🟡 Moderate"
 **Method:** Biochar
 **Country:** Germany
 **Website:** [https://global-c-registry.org/project-view/1214](https://global-c-registry.org/project-view/1214)
-**Status:** 🟡 Moderate (score: 55/100)
+**Status:** 🟡 Moderate (score: 60/100)
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Lucrat GmbH is a German company that produces biochar-based products, focusing on the construction industry and biogas, and has developed efficient biochar through scientific tests and real-life applications.
+Lucrat GmbH is a German biochar producer based in Steinfurt, focused on applications in biogas plants and the construction industry. Their products are EBC-certified, and they also trade the resulting carbon credits, with biochar applied to agricultural land in Lower Saxony as a permanent sink.
 
 ![Lucrat website](/screenshots/v1-thumbnails/lucrat.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://biochar-zero.com/company/lucrat-gmbh/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 ---

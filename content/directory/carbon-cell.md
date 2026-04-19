@@ -2,7 +2,7 @@
 title: "Carbon Cell"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"8-2,8-3\\">Carbon Cell, founded by Imperial College alumni Elizabeth Lee, Ori Blich, Eden Harrison and Juan Ignacio Rion, produces a patent-pending, "
+description: "Carbon Cell, founded by Imperial College alumni Elizabeth Lee, Ori Blich, Eden Harrison and Juan Ignacio Rion, produces a patent-pending, plastic-free foam with"
 url: "/directory/carbon-cell/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -20,7 +20,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="8-2,8-3">Carbon Cell, founded by Imperial College alumni Elizabeth Lee, Ori Blich, Eden Harrison and Juan Ignacio Rion, produces a patent-pending, plastic-free foam with a low or negative carbon footprint that replaces conventional plastic foams in packaging and insulation.</cite> <cite index="9-3">The company estimates nearly a kilogram of CO2 is removed per kilogram of foam produced.</cite> <cite index="9-9">At end of life the natural polymer composts away, leaving biochar that keeps carbon sequestered for generations while enriching soil.</cite>
+Carbon Cell, founded by Imperial College alumni Elizabeth Lee, Ori Blich, Eden Harrison and Juan Ignacio Rion, produces a patent-pending, plastic-free foam with a low or negative carbon footprint that replaces conventional plastic foams in packaging and insulation. The company estimates nearly a kilogram of CO2 is removed per kilogram of foam produced. At end of life the natural polymer composts away, leaving biochar that keeps carbon sequestered for generations while enriching soil.
 
 ![Carbon Cell website](/screenshots/v1-thumbnails/carbon-cell.jpg)
 

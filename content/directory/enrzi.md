@@ -2,29 +2,30 @@
 title: "Enrzi"
 layout: "single"
 type: "directory"
-description: "Enrzi is a company committed to revolutionizing the energy sector with innovative biomass pyrolysis solutions, sharing expert opinions about sustainability thro"
+description: "Enrzi is an India-based company using biomass pyrolysis to convert organic feedstock into biochar, which they market as a soil amendment with carbon sequestrati"
 url: "/directory/enrzi/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟠 Suspect"
 ---
 
 **Pathway:** Biochar
 **Method:** Biochar
 **Country:** India
 **Website:** [https://www.enrzi.com/](https://www.enrzi.com/)
-**Status:** 🟢 Active (score: 70/100)
+**Status:** 🟠 Suspect (score: 40/100)
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Enrzi is a company committed to revolutionizing the energy sector with innovative biomass pyrolysis solutions, sharing expert opinions about sustainability through their blog.
+Enrzi is an India-based company using biomass pyrolysis to convert organic feedstock into biochar, which they market as a soil amendment with carbon sequestration benefits. Their website is live and describes biochar as a carbon-rich, porous material from their pyrolysis process. Public signals beyond their website are limited — Coresignal shows 0 LinkedIn employees and no registry-listed credits, suggesting a small, early-stage operation.
 
 ![Enrzi website](/screenshots/v1-thumbnails/enrzi.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://www.enrzi.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/enrzibio/)

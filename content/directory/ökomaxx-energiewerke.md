@@ -2,29 +2,31 @@
 title: "ÖkoMAXX Energiewerke"
 layout: "single"
 type: "directory"
-description: "ÖkoMAXX Energiewerke GmbH operates biomass power plants for the generation of electricity and heat. While the company is listed in a biochar registry, the searc"
+description: "ÖkoMAXX Energiewerke GmbH is an Austrian company based in Gänserndorf engaged in the generation of electricity and heat, operation of biomass power plants, and"
 url: "/directory/ökomaxx-energiewerke/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 **Pathway:** Biochar
+**Secondary pathways:** BECCS
 **Method:** Biochar
 **Country:** Austria
 **Website:** [https://global-c-registry.org/project-view/1127](https://global-c-registry.org/project-view/1127)
-**Status:** 🟡 Moderate (score: 55/100)
+**Status:** 🟢 Active (score: 75/100)
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-ÖkoMAXX Energiewerke GmbH operates biomass power plants for the generation of electricity and heat. While the company is listed in a biochar registry, the search results primarily indicate its core business is biomass energy production, not explicitly biochar CDR.
+ÖkoMAXX Energiewerke GmbH is an Austrian company based in Gänserndorf engaged in the generation of electricity and heat, operation of biomass power plants, and trade in goods of all kinds. It is wholly owned by PurEnergy Holding GmbH and has a biochar production site at Altweitra; its biochar project (GCSP1127) was validated under the Global Biochar C-Sink Standard on 2025-06-23, making it an active biochar CDR supplier.
 
 ![ÖkoMAXX Energiewerke website](/screenshots/v1-thumbnails/komaxx-energiewerke.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://global-c-registry.org/project-view/1127))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 ---

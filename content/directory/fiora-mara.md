@@ -2,7 +2,7 @@
 title: "Fiora Mara"
 layout: "single"
 type: "directory"
-description: "Fiora Mara is a marine carbon dioxide removal (CDR) startup that leverages seaweed farming in the open ocean to sequester atmospheric carbon and revitalize ocea"
+description: "Fiora Mara is developing ocean-based carbon removal systems by deploying regenerative seaweed farms designed to sequester atmospheric CO₂. The approach leverage"
 url: "/directory/fiora-mara/"
 pathway: "Ocean CDR"
 liveliness: "🟢 Active"
@@ -12,7 +12,7 @@ liveliness: "🟢 Active"
 **Method:** Marine CDR (Other)
 **Country:** United States
 **Website:** [https://fioramara.com/](https://fioramara.com/)
-**Status:** 🟢 Active (score: 80/100)
+**Status:** 🟢 Active (score: 70/100)
 **Employees:** ~5 (+150% YoY)
 **LinkedIn Followers:** 182
 **CDR Focus:** supplier
@@ -20,13 +20,14 @@ liveliness: "🟢 Active"
 
 ## About
 
-Fiora Mara is a marine carbon dioxide removal (CDR) startup that leverages seaweed farming in the open ocean to sequester atmospheric carbon and revitalize oceans.
+Fiora Mara is developing ocean-based carbon removal systems by deploying regenerative seaweed farms designed to sequester atmospheric CO₂. The approach leverages large-scale, biodegradable cultivation arrays to grow fast-growing macroalgae such as kelp, and once matured the biomass is transported and sequestered in the deep ocean. The company is an early-stage US startup founded in 2024 that aims to generate revenue by selling high-integrity carbon credits.
 
 ![Fiora Mara website](/screenshots/v1-thumbnails/fiora-mara.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://fioramara.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/fiora-mara/)

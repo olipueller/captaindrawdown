@@ -2,29 +2,31 @@
 title: "ClimatePartner Impact"
 layout: "single"
 type: "directory"
-description: "ClimatePartner Impact drives high-integrity solutions aligned with the Sustainable Development Goals (SDGs), including removal technologies like afforestation, "
+description: "ClimatePartner Impact GmbH is a Munich-based subsidiary of ClimatePartner GmbH, founded in 2022, that develops voluntary carbon market projects with a focus on"
 url: "/directory/climatepartner-impact/"
-pathway: "Biochar"
+pathway: "Afforestation"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
+**Pathway:** Afforestation
+**Secondary pathways:** Biochar
 **Method:** Biochar
 **Country:** Germany
 **Website:** [https://climatepartnerimpact.com/](https://climatepartnerimpact.com/)
-**Status:** 🟢 Active (score: 70/100)
+**Status:** 🟢 Active (score: 80/100)
 **Employees:** ~5 (-80% YoY)
 **LinkedIn Followers:** 3,397
-**CDR Focus:** supplier
+**CDR Focus:** division
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-ClimatePartner Impact drives high-integrity solutions aligned with the Sustainable Development Goals (SDGs), including removal technologies like afforestation, reforestation, and revegetation, and improved cookstoves.
+ClimatePartner Impact GmbH is a Munich-based subsidiary of ClimatePartner GmbH, founded in 2022, that develops voluntary carbon market projects with a focus on nature-based removals (afforestation, reforestation, revegetation, soil/blue carbon, biochar) and improved cookstoves. It provides project development, due diligence, portfolio management, and carbon/impact investing opportunities, with a Kenya subsidiary (Sand River Carbon) and projects including Spekboom thicket restoration in South Africa.
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Afforestation focus=division liveliness=🟢 Active ([source](https://climatepartnerimpact.com/about-us/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/climatepartner-impact/)

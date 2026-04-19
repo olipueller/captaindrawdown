@@ -2,7 +2,7 @@
 title: "Sitos Group"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"3-1,3-6\\">Sitos Group launched a pilot-scale biochar production facility at ReGen Monterey in early 2023 using slow pyrolysis technology to produce "
+description: "Sitos Group launched a pilot-scale biochar production facility at ReGen Monterey in early 2023 using slow pyrolysis technology to produce high-quality biochar f"
 url: "/directory/sitos-group/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -18,7 +18,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="3-1,3-6">Sitos Group launched a pilot-scale biochar production facility at ReGen Monterey in early 2023 using slow pyrolysis technology to produce high-quality biochar for agriculture and carbon markets.</cite> <cite index="3-13,3-14">The pilot has concluded and they are now building a commercial biochar production facility in partnership with Treehouse California Almonds.</cite> <cite index="9-1,9-4">They work with sister company Soil Amendment Injection (SAI) to precisely apply biochar at depth for long-term soil health and carbon sequestration.</cite>
+Sitos Group launched a pilot-scale biochar production facility at ReGen Monterey in early 2023 using slow pyrolysis technology to produce high-quality biochar for agriculture and carbon markets. The pilot has concluded and they are now building a commercial biochar production facility in partnership with Treehouse California Almonds. They work with sister company Soil Amendment Injection (SAI) to precisely apply biochar at depth for long-term soil health and carbon sequestration.
 
 ![Sitos Group website](/screenshots/v1-thumbnails/sitos-group.jpg)
 

@@ -19,7 +19,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Terraton is a U.S.-based biochar carbon removal platform that partners with agribusinesses in emerging markets to build and operate biochar production facilities, providing hardware, SaaS, financing, and MRV. <cite index="2-2,2-3,2-4">The company raised an $11.5 million seed round in August 2025 led by Lowercarbon Capital and Gigascale Capital, with participation from ANA Future Frontier Fund, East Japan Railway's Takanawa Gateway fund, and angels including Jeff Dean and Bret Taylor.</cite> <cite index="2-1">It has developed two facilities in Africa, one in Ghana and the other in Kenya.</cite>
+Terraton is a U.S.-based biochar carbon removal platform that partners with agribusinesses in emerging markets to build and operate biochar production facilities, providing hardware, SaaS, financing, and MRV. The company raised an $11.5 million seed round in August 2025 led by Lowercarbon Capital and Gigascale Capital, with participation from ANA Future Frontier Fund, East Japan Railway's Takanawa Gateway fund, and angels including Jeff Dean and Bret Taylor. It has developed two facilities in Africa, one in Ghana and the other in Kenya.
 
 ![Terraton website](/screenshots/v1-thumbnails/terraton.jpg)
 

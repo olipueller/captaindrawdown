@@ -2,7 +2,7 @@
 title: "TerraNova Energy"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"4-1,4-3\\">TerraNova Energy is a technology provider for upgrading organic waste streams via Thermal Hydrolysis Process (THP) and Hydrothermal Carbon"
+description: "TerraNova Energy is a technology provider for upgrading organic waste streams via Thermal Hydrolysis Process (THP) and Hydrothermal Carbonization (HTC). Its Ter"
 url: "/directory/terranova-energy/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -19,7 +19,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="4-1,4-3">TerraNova Energy is a technology provider for upgrading organic waste streams via Thermal Hydrolysis Process (THP) and Hydrothermal Carbonization (HTC).</cite> <cite index="4-9,4-10,4-11">Its TerraNova®ultra process enables the use of moist biomass, particularly waste streams such as sewage sludge or organic waste, to generate "Hydrochar," in which over 90% of the biomass carbon is stored; it has a stability comparable to lignite and is positioned for permanent CO2 removal.</cite> <cite index="2-16,2-17">A plant based on TerraNova HTC technology including a pyrolysis unit was built in Mexico City to process 23,000 tons of organic waste per year.</cite>
+TerraNova Energy is a technology provider for upgrading organic waste streams via Thermal Hydrolysis Process (THP) and Hydrothermal Carbonization (HTC). Its TerraNova®ultra process enables the use of moist biomass, particularly waste streams such as sewage sludge or organic waste, to generate "Hydrochar," in which over 90% of the biomass carbon is stored; it has a stability comparable to lignite and is positioned for permanent CO2 removal. A plant based on TerraNova HTC technology including a pyrolysis unit was built in Mexico City to process 23,000 tons of organic waste per year.
 
 ![TerraNova Energy website](/screenshots/v1-thumbnails/terranova-energy.jpg)
 

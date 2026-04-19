@@ -2,7 +2,7 @@
 title: "Öresundskraft"
 layout: "single"
 type: "directory"
-description: "Öresundskraft is a Swedish energy company actively involved in Carbon Dioxide Removal (CDR) through Bioenergy with Carbon Capture and Storage (BECCS) at its Fil"
+description: "Öresundskraft is a Swedish municipally owned energy utility developing a first-of-its-kind CCS facility at its Filbornaverket waste-fired CHP plant in Helsingbo"
 url: "/directory/öresundskraft/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
@@ -12,13 +12,13 @@ liveliness: "🟢 Active"
 **Method:** BECCS
 **Country:** Sweden
 **Website:** [https://www.energimyndigheten.se/en/news/2025/228-million-sek-to-oresundskraft-major-investment-ccs-helsingborg/](https://www.energimyndigheten.se/en/news/2025/228-million-sek-to-oresundskraft-major-investment-ccs-helsingborg/)
-**Status:** 🟢 Active (score: 80/100)
+**Status:** 🟢 Active (score: 92/100)
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url, registry_cdrjobsearth
 
 ## About
 
-Öresundskraft is a Swedish energy company actively involved in Carbon Dioxide Removal (CDR) through Bioenergy with Carbon Capture and Storage (BECCS) at its Filbornaverket combined heat and power plant in Helsingborg. They are securing funding, signing agreements for CO2 storage, and selling carbon reduction certificates.
+Öresundskraft is a Swedish municipally owned energy utility developing a first-of-its-kind CCS facility at its Filbornaverket waste-fired CHP plant in Helsingborg, expected to cost approximately SEK 3 billion and capture 200,000 tonnes of CO2 annually. The biogenic fraction of the captured waste-derived CO2 is stored permanently to generate bio-CCS negative emissions. The company has already signed agreements for future purchase of negative emissions certificates with buyers including Wihlborgs and Helsingborgshem.
 
 ![Öresundskraft website](/screenshots/v1-thumbnails/resundskraft.jpg)
 
@@ -28,6 +28,7 @@ liveliness: "🟢 Active"
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.energimyndigheten.se/en/news/2025/228-million-sek-to-oresundskraft-major-investment-ccs-helsingborg/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 ---

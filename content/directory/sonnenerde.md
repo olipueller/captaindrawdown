@@ -2,7 +2,7 @@
 title: "Sonnenerde"
 layout: "single"
 type: "directory"
-description: "Sonnenerde GmbH is an Austrian biochar producer based in Riedlingsdorf, Burgenland, operating since 2012 what it claims is the first waste-law-approved biochar "
+description: "Sonnenerde GmbH is an Austrian biochar producer based in Riedlingsdorf, Burgenland, operating since 2012 what it claims is the first waste-law-approved biochar"
 url: "/directory/sonnenerde/"
 pathway: "Biochar"
 liveliness: "🟢 Active"

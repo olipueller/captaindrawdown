@@ -2,7 +2,7 @@
 title: "Húmica"
 layout: "single"
 type: "directory"
-description: "Húmica is a Mexican biotech startup founded in 2019–2020 that works with smallholder farmers (with a focus on women producers in Puebla, Veracruz, Tabasco, and "
+description: "Húmica is a Mexican biotech startup founded in 2019–2020 that works with smallholder farmers (with a focus on women producers in Puebla, Veracruz, Tabasco, and"
 url: "/directory/húmica/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"

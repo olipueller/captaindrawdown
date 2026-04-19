@@ -2,7 +2,7 @@
 title: "Carbfix"
 layout: "single"
 type: "directory"
-description: "Carbfix is an Icelandic company that permanently stores CO2 by dissolving it in water and injecting it into basaltic rock formations, where it mineralizes into "
+description: "Carbfix is an Icelandic company that permanently stores CO2 by dissolving it in water and injecting it into basaltic rock formations, where it mineralizes into"
 url: "/directory/carbfix/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"

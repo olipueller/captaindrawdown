@@ -2,7 +2,7 @@
 title: "DAC Labs"
 layout: "single"
 type: "directory"
-description: "DAC Labs is an Australian company that develops autonomous, scalable direct air capture technology using earth-abundant, low-cost materials to remove atmospheri"
+description: "DAC Labs (Dac Laboratories) is an Australian University of Sydney spinout based in Brookvale, NSW, developing electrochemical direct air capture technology aime"
 url: "/directory/dac-labs/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -20,13 +20,14 @@ liveliness: "🟢 Active"
 
 ## About
 
-DAC Labs is an Australian company that develops autonomous, scalable direct air capture technology using earth-abundant, low-cost materials to remove atmospheric CO₂.
+DAC Labs (Dac Laboratories) is an Australian University of Sydney spinout based in Brookvale, NSW, developing electrochemical direct air capture technology aimed at earth-abundant materials and low-cost equipment. Founded by Dr Sam Wenger, the company is building a ~10 tonne/year demonstration unit with plans to scale to a kilotonne-scale pilot plant, and was backed by the University of Sydney's Pre-Seed Launch Fund.
 
 ![DAC Labs website](/screenshots/v1-thumbnails/dac-labs.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.daclaboratories.com/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/dac-laboratories/)

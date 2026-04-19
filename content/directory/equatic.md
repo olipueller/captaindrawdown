@@ -2,7 +2,7 @@
 title: "Equatic"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"8-3\\">Founded in 2021, California-based Equatic has developed an electrolytic process for atmospheric carbon removal that accelerates the ocean's ab"
+description: "Founded in 2021, California-based Equatic has developed an electrolytic process for atmospheric carbon removal that accelerates the ocean's ability to absorb an"
 url: "/directory/equatic/"
 pathway: "Ocean CDR"
 liveliness: "🟢 Active"
@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="8-3">Founded in 2021, California-based Equatic has developed an electrolytic process for atmospheric carbon removal that accelerates the ocean's ability to absorb and permanently store massive amounts of carbon, while producing carbon negative hydrogen as a co-product.</cite> The company is a UCLA spin-out operating pilot plants in Los Angeles and Singapore, and is building the Equatic-1 demonstration plant in Singapore plus a planned commercial facility in Quebec with Deep Sky. <cite index="8-2">In August 2025 Equatic raised $11.6 million in a Series A funding round</cite> led by Temasek Trust's C3H and Kibo Invest.
+Founded in 2021, California-based Equatic has developed an electrolytic process for atmospheric carbon removal that accelerates the ocean's ability to absorb and permanently store massive amounts of carbon, while producing carbon negative hydrogen as a co-product. The company is a UCLA spin-out operating pilot plants in Los Angeles and Singapore, and is building the Equatic-1 demonstration plant in Singapore plus a planned commercial facility in Quebec with Deep Sky. In August 2025 Equatic raised $11.6 million in a Series A funding round led by Temasek Trust's C3H and Kibo Invest.
 
 ![Equatic website](/screenshots/v1-thumbnails/equatic.jpg)
 

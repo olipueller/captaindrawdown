@@ -2,17 +2,18 @@
 title: "Carbon Energy"
 layout: "single"
 type: "directory"
-description: "No information found about Carbon Energy, a DAC company from South Korea."
+description: "Carbon Energy (CarbonEnergy Inc.) is a seed-stage Daegu, South Korea-based DAC startup founded in 2022. It is piloting an electrochemical direct air capture pro"
 url: "/directory/carbon-energy/"
 pathway: "DAC"
 liveliness: "🟠 Suspect"
 ---
 
 **Pathway:** DAC
+**Secondary pathways:** Mineralization
 **Method:** DAC (Other/Undisclosed)
 **Country:** South Korea
 **Website:** [http://www.carbonenergy.ai/](http://www.carbonenergy.ai/)
-**Status:** 🟠 Suspect (score: 20/100)
+**Status:** 🟠 Suspect (score: 35/100)
 **Employees:** ~4 (+33% YoY)
 **LinkedIn Followers:** 97
 **CDR Focus:** supplier
@@ -20,13 +21,14 @@ liveliness: "🟠 Suspect"
 
 ## About
 
-No information found about Carbon Energy, a DAC company from South Korea.
+Carbon Energy (CarbonEnergy Inc.) is a seed-stage Daegu, South Korea-based DAC startup founded in 2022. It is piloting an electrochemical direct air capture process that simultaneously produces renewable energy/soda ash while removing CO2, with plans to scale and either sequester or recycle the captured CO2. Small team (~4-10 employees).
 
 ![Carbon Energy website](/screenshots/v1-thumbnails/carbon-energy.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://www.crunchbase.com/organization/carbon-energy-cf97))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/carbonenergy/)

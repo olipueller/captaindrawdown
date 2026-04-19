@@ -2,7 +2,7 @@
 title: "Premier Forest"
 layout: "single"
 type: "directory"
-description: "Premier Forest Products is a UK timber importer and distributor based in South Wales that also operates a pyrolysis facility converting wood waste into biochar "
+description: "Premier Forest Products is a UK timber importer and distributor based in South Wales that also operates a pyrolysis facility converting wood waste into biochar"
 url: "/directory/premier-forest/"
 pathway: "Biochar"
 liveliness: "🟢 Active"

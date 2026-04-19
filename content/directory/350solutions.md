@@ -2,7 +2,7 @@
 title: "350solutions"
 layout: "single"
 type: "directory"
-description: "350Solutions is a Raleigh, NC-based independent Validation & Verification Body (VVB) for CDR projects. <cite index=\\"2-6\\">They are accredited by ANAB under ISO 1"
+description: "350Solutions is a Raleigh, NC-based independent Validation & Verification Body (VVB) for CDR projects. They are accredited by ANAB under ISO 17020 for Environme"
 url: "/directory/350solutions/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
@@ -19,7 +19,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-350Solutions is a Raleigh, NC-based independent Validation & Verification Body (VVB) for CDR projects. <cite index="2-6">They are accredited by ANAB under ISO 17020 for Environmental Technology Verification via ISO 14034 and are approved by both Puro and Isometric as VVBs.</cite> <cite index="8-1">Their diligence efforts have been a part of over $200M in CDR purchase agreements and technology investments.</cite> They do not physically remove CO2 themselves — they are part of the CDR ecosystem as a third-party verifier.
+350Solutions is a Raleigh, NC-based independent Validation & Verification Body (VVB) for CDR projects. They are accredited by ANAB under ISO 17020 for Environmental Technology Verification via ISO 14034 and are approved by both Puro and Isometric as VVBs. Their diligence efforts have been a part of over $200M in CDR purchase agreements and technology investments. They do not physically remove CO2 themselves — they are part of the CDR ecosystem as a third-party verifier.
 
 ![350solutions website](/screenshots/v1-thumbnails/350solutions.jpg)
 

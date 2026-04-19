@@ -2,7 +2,7 @@
 title: "Nordic Carbon"
 layout: "single"
 type: "directory"
-description: "Nordic Carbon transforms waste biomass into stable, high-quality biochar through advanced pyrolysis, locking away CO₂ for centuries. They focus on sustainable c"
+description: "Nordic Carbon is a Danish biochar supplier that designs, builds and commissions pyrolysis facilities converting underutilized biomass residues into stable bioch"
 url: "/directory/nordic-carbon/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -12,19 +12,20 @@ liveliness: "🟡 Moderate"
 **Method:** Biochar
 **Country:** Denmark
 **Website:** [https://www.nordiccarbon.dk/](https://www.nordiccarbon.dk/)
-**Status:** 🟡 Moderate (score: 65/100)
+**Status:** 🟡 Moderate (score: 55/100)
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Nordic Carbon transforms waste biomass into stable, high-quality biochar through advanced pyrolysis, locking away CO₂ for centuries. They focus on sustainable carbon dioxide removal.
+Nordic Carbon is a Danish biochar supplier that designs, builds and commissions pyrolysis facilities converting underutilized biomass residues into stable biochar applied to local farmland. The team brings 20+ years of biomass industry experience and generates carbon credits from the sequestered CO₂. Note: distinct from the similarly-named Nordic Carbon Removal Association (nordiccarbon.org).
 
 ![Nordic Carbon website](/screenshots/v1-thumbnails/nordic-carbon.jpg)
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.nordiccarbon.dk/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 ---

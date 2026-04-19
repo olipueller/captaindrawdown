@@ -2,7 +2,7 @@
 title: "[C]Worthy"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"3-9,3-10\\">[C]Worthy is a nonprofit research and development organization focused on delivering the core computational technologies needed to suppor"
+description: "[C]Worthy is a nonprofit research and development organization focused on delivering the core computational technologies needed to support quantitative assessme"
 url: "/directory/cworthy/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
@@ -20,7 +20,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="3-9,3-10">[C]Worthy is a nonprofit research and development organization focused on delivering the core computational technologies needed to support quantitative assessments of ocean-based carbon dioxide removal. They build open-source software, conduct basic research on the efficacy of ocean-based CDR technologies, create and curate publicly available datasets, and promote scientific standards for evaluating the safety and effectiveness of ocean-based CDR activities.</cite> They do not themselves remove CO2; they supply MRV modeling infrastructure (C-Star) used by mCDR developers and verifiers like Isometric.
+[C]Worthy is a nonprofit research and development organization focused on delivering the core computational technologies needed to support quantitative assessments of ocean-based carbon dioxide removal. They build open-source software, conduct basic research on the efficacy of ocean-based CDR technologies, create and curate publicly available datasets, and promote scientific standards for evaluating the safety and effectiveness of ocean-based CDR activities. They do not themselves remove CO2; they supply MRV modeling infrastructure (C-Star) used by mCDR developers and verifiers like Isometric.
 
 ![[C]Worthy website](/screenshots/v1-thumbnails/c-worthy.jpg)
 

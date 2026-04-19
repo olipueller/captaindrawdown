@@ -2,7 +2,7 @@
 title: "Clean Air Tech"
 layout: "single"
 type: "directory"
-description: "Clean Air Tech focuses on carbon capture and permanent sequestration through mineralization, specifically converting basic oxygen steel (BOS) slag and CO2 into "
+description: "Clean Air Tech is a UK-based mineralization company that captures CO2 from emission sources and permanently sequesters it by reacting it with basic oxygen steel"
 url: "/directory/clean-air-tech/"
 pathway: "Mineralization"
 liveliness: "🟡 Moderate"
@@ -12,17 +12,18 @@ liveliness: "🟡 Moderate"
 **Method:** Mineralization (Other)
 **Country:** United Kingdom
 **Website:** [https://www.clean-air-tech.com/](https://www.clean-air-tech.com/)
-**Status:** 🟡 Moderate (score: 45/100)
+**Status:** 🟡 Moderate (score: 55/100)
 **CDR Focus:** supplier
 **Evidence signals:** website, last_evidence_url
 
 ## About
 
-Clean Air Tech focuses on carbon capture and permanent sequestration through mineralization, specifically converting basic oxygen steel (BOS) slag and CO2 into CaCO3 and producing solid carbonates like carbonated recycled concrete aggregate (C-RCA).
+Clean Air Tech is a UK-based mineralization company that captures CO2 from emission sources and permanently sequesters it by reacting it with basic oxygen steel slag to produce calcium carbonate and carbonated aggregates for the concrete/construction industry. Their core technologies are the ZAP-C³ capsule and the ZAP-Microbubbler. Because the CO2 is captured from point sources and stored in construction materials, the activity sits at the boundary of CCS/CCU with permanent mineralization.
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟡 Moderate ([source](https://www.clean-air-tech.com/products))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 ---

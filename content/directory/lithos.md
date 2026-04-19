@@ -2,7 +2,7 @@
 title: "Lithos"
 layout: "single"
 type: "directory"
-description: "Lithos Carbon is a carbon removal company that scales Enhanced Rock Weathering (ERW) by applying crushed basalt rock dust to agricultural fields to permanently "
+description: "Lithos Carbon is a US-based CDR supplier scaling Enhanced Rock Weathering by applying crushed basalt rock dust to farmland, permanently removing CO2 while impro"
 url: "/directory/lithos/"
 pathway: "Enhanced Weathering"
 liveliness: "🟢 Active"
@@ -12,7 +12,7 @@ liveliness: "🟢 Active"
 **Method:** Enhanced Rock Weathering
 **Country:** United States
 **Website:** [https://www.lithoscarbon.com/](https://www.lithoscarbon.com/)
-**Status:** 🟢 Active (score: 100/100)
+**Status:** 🟢 Active (score: 95/100)
 **Employees:** ~43 (+34% YoY)
 **LinkedIn Followers:** 12,709
 **CDI Portfolio Company**
@@ -21,7 +21,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Lithos Carbon is a carbon removal company that scales Enhanced Rock Weathering (ERW) by applying crushed basalt rock dust to agricultural fields to permanently capture carbon dioxide and improve soil health.
+Lithos Carbon is a US-based CDR supplier scaling Enhanced Rock Weathering by applying crushed basalt rock dust to farmland, permanently removing CO2 while improving soil health. The company has signed major offtakes including a $57.1M/154,240-ton deal with Frontier and a multi-year agreement with Microsoft. In December 2025 it issued 5,160 registry-certified tons, billed as the largest ERW issuance to date.
 
 ![Lithos website](/screenshots/v1-thumbnails/lithos.jpg)
 
@@ -32,6 +32,7 @@ Lithos Carbon is a carbon removal company that scales Enhanced Rock Weathering (
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://www.businesswire.com/news/home/20251202793450/en/Lithos-Carbon-Delivers-5160-Registry-Certified-Tons-of-Carbon-Removal-in-Worlds-Largest-Enhanced-Rock-Weathering-Issuance-to-Date))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/lithoscarbon/)

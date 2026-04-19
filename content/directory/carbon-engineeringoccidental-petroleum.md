@@ -2,29 +2,30 @@
 title: "Carbon Engineering/Occidental Petroleum"
 layout: "single"
 type: "directory"
-description: "Carbon Engineering, now a subsidiary of Occidental Petroleum, develops and deploys Direct Air Capture (DAC) technology using a liquid solvent method to capture "
+description: "Carbon Engineering is a Squamish, BC-based DAC technology developer that became a wholly owned subsidiary of Occidental's Oxy Low Carbon Ventures in 2023 after"
 url: "/directory/carbon-engineeringoccidental-petroleum/"
 pathway: "DAC"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 **Pathway:** DAC
 **Method:** DAC (Liquid Solvent)
 **Country:** United States
 **Website:** [https://carbonengineering.com/](https://carbonengineering.com/)
-**Status:** 🟡 Moderate (score: 65/100)
+**Status:** 🟢 Active (score: 90/100)
 **Employees:** ~187 (+3% YoY)
 **LinkedIn Followers:** 61,717
-**CDR Focus:** supplier
+**CDR Focus:** division
 **Evidence signals:** website, last_evidence_url, linkedin
 
 ## About
 
-Carbon Engineering, now a subsidiary of Occidental Petroleum, develops and deploys Direct Air Capture (DAC) technology using a liquid solvent method to capture CO2 from the atmosphere, which can then be used for clean transportation fuels or stored.
+Carbon Engineering is a Squamish, BC-based DAC technology developer that became a wholly owned subsidiary of Occidental's Oxy Low Carbon Ventures in 2023 after a $1.1B acquisition. Its liquid-solvent DAC technology powers 1PointFive's STRATOS plant in West Texas (expected startup mid-2026) and the South Texas DAC Hub, with Occidental targeting ~100 DAC plants by 2035.
 
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://www.oxy.com/news/news-releases/occidental-enters-into-agreement-to-acquire-direct-air-capture-technology-innovator-carbon-engineering/))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/carbon-engineering-limited/)

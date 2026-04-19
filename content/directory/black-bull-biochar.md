@@ -2,7 +2,7 @@
 title: "Black Bull Biochar"
 layout: "single"
 type: "directory"
-description: "Black Bull Biochar is a UK-based company that scales greenhouse gas removal technologies by integrating industry and agriculture through a pioneering platform t"
+description: "Black Bull Biochar is a UK-based biochar producer that operates pyrolysis units (using PYREG and BioMaCon technology) to convert forestry co-products into bioch"
 url: "/directory/black-bull-biochar/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -12,7 +12,7 @@ liveliness: "🟢 Active"
 **Method:** Biochar
 **Country:** United Kingdom
 **Website:** [https://www.blackbullbiochar.com/](https://www.blackbullbiochar.com/)
-**Status:** 🟢 Active (score: 100/100)
+**Status:** 🟢 Active (score: 90/100)
 **Employees:** ~9 (+12% YoY)
 **LinkedIn Followers:** 2,644
 **Open roles on cdrjobs:** 5
@@ -21,7 +21,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Black Bull Biochar is a UK-based company that scales greenhouse gas removal technologies by integrating industry and agriculture through a pioneering platform that utilizes biochar to restore the environment and remove carbon.
+Black Bull Biochar is a UK-based biochar producer that operates pyrolysis units (using PYREG and BioMaCon technology) to convert forestry co-products into biochar for UK agriculture, particularly dairy manure management. The company raised £4 million in late seed funding in December 2025 to scale operations in the North West of England and expand into Denmark, and has previously secured £3.2 million from the UK's Net Zero Innovation Portfolio.
 
 ![Black Bull Biochar website](/screenshots/v1-thumbnails/black-bull-biochar.jpg)
 
@@ -31,6 +31,7 @@ Black Bull Biochar is a UK-based company that scales greenhouse gas removal tech
 
 ## History
 
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.blackbullbiochar.com/about-us))
 - **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
 
 [View on LinkedIn](https://www.linkedin.com/company/black-bull-biochar-ltd/)

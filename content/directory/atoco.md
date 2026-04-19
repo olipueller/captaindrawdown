@@ -2,7 +2,7 @@
 title: "Atoco"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"15-2\\">Atoco is a California-based startup founded by Omar Yaghi in 2020 focused on commercializing advancements in MOF and COF technologies for car"
+description: "Atoco is a California-based startup founded by Omar Yaghi in 2020 focused on commercializing advancements in MOF and COF technologies for carbon capture and atm"
 url: "/directory/atoco/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="15-2">Atoco is a California-based startup founded by Omar Yaghi in 2020 focused on commercializing advancements in MOF and COF technologies for carbon capture and atmospheric water harvesting.</cite> The company develops solid-state DAC and post-combustion capture modules using nano-engineered reticular materials, and its founder won the 2025 Nobel Prize in Chemistry for the development of MOFs. <cite index="19-8">The startup is also targeting data centers in water-stressed regions as customers for its water-harvesting technology.</cite>
+Atoco is a California-based startup founded by Omar Yaghi in 2020 focused on commercializing advancements in MOF and COF technologies for carbon capture and atmospheric water harvesting. The company develops solid-state DAC and post-combustion capture modules using nano-engineered reticular materials, and its founder won the 2025 Nobel Prize in Chemistry for the development of MOFs. The startup is also targeting data centers in water-stressed regions as customers for its water-harvesting technology.
 
 ![Atoco website](/screenshots/v1-thumbnails/atoco.jpg)
 

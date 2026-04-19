@@ -2,7 +2,7 @@
 title: "Climate Impact Partners"
 layout: "single"
 type: "directory"
-description: "Climate Impact Partners is a UK/US-based voluntary carbon market specialist formed from the merger of Natural Capital Partners and ClimateCare, offering carbon "
+description: "Climate Impact Partners is a UK/US-based voluntary carbon market specialist formed from the merger of Natural Capital Partners and ClimateCare, offering carbon"
 url: "/directory/climate-impact-partners/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"

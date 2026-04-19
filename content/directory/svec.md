@@ -2,7 +2,7 @@
 title: "SVEC"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"6-1,6-7\\">Scotts Valley Energy Company (SVEC) is a business enterprise of the Scotts Valley Band of Pomo Indians developing a bioenergy/biochar prod"
+description: "Scotts Valley Energy Company (SVEC) is a business enterprise of the Scotts Valley Band of Pomo Indians developing a bioenergy/biochar production facility on tri"
 url: "/directory/svec/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -19,7 +19,7 @@ liveliness: "🟡 Moderate"
 
 ## About
 
-<cite index="6-1,6-7">Scotts Valley Energy Company (SVEC) is a business enterprise of the Scotts Valley Band of Pomo Indians developing a bioenergy/biochar production facility on tribal lands in Lake County, California, with a sister enterprise (The Clean Carbon Co.) that processes the biochar into activated charcoal.</cite> <cite index="7-1,7-4">A biochar processing plant in Upper Lake, California, had its permit approved in December 2024; the project led by SVEC with the Habematolel Pomo Tribal Nation will convert forest woodchips into syngas to power generators.</cite> <cite index="9-1,9-4,9-5">The company is listed as a Puro.earth CORC supplier (Red Hills, Biochar 2022) in early development status with an ongoing feasibility study.</cite>
+Scotts Valley Energy Company (SVEC) is a business enterprise of the Scotts Valley Band of Pomo Indians developing a bioenergy/biochar production facility on tribal lands in Lake County, California, with a sister enterprise (The Clean Carbon Co.) that processes the biochar into activated charcoal. A biochar processing plant in Upper Lake, California, had its permit approved in December 2024; the project led by SVEC with the Habematolel Pomo Tribal Nation will convert forest woodchips into syngas to power generators. The company is listed as a Puro.earth CORC supplier (Red Hills, Biochar 2022) in early development status with an ongoing feasibility study.
 
 ![SVEC website](/screenshots/v1-thumbnails/svec.jpg)
 

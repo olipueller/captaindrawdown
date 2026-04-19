@@ -2,7 +2,7 @@
 title: "Biocare"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"1-1\\">Biocare is an engineering-focused developer of biochar carbon removal projects, bringing deep technical expertise and project delivery capabil"
+description: "Biocare is an engineering-focused developer of biochar carbon removal projects, bringing deep technical expertise and project delivery capability across Asia, A"
 url: "/directory/biocare/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -21,7 +21,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="1-1">Biocare is an engineering-focused developer of biochar carbon removal projects, bringing deep technical expertise and project delivery capability across Asia, Australia, North America and South America.</cite> <cite index="1-9">They are developing 10+ projects, representing more than 300,000 tonnes of annual CO2e removal.</cite> The company is a registered supplier on Puro.earth with the Kangaroo Island Biochar Project.
+Biocare is an engineering-focused developer of biochar carbon removal projects, bringing deep technical expertise and project delivery capability across Asia, Australia, North America and South America. They are developing 10+ projects, representing more than 300,000 tonnes of annual CO2e removal. The company is a registered supplier on Puro.earth with the Kangaroo Island Biochar Project.
 
 ![Biocare website](/screenshots/v1-thumbnails/biocare.jpg)
 

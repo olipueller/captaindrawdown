@@ -2,7 +2,7 @@
 title: "Banyu Carbon"
 layout: "single"
 type: "directory"
-description: "<cite index=\\"7-7,7-8\\">Banyu Carbon is a Seattle-based company founded in 2022 by Alex Gagnon and Julian Sachs, former University of Washington professors of che"
+description: "Banyu Carbon is a Seattle-based company founded in 2022 by Alex Gagnon and Julian Sachs, former University of Washington professors of chemical oceanography, de"
 url: "/directory/banyu-carbon/"
 pathway: "Ocean CDR"
 liveliness: "🟢 Active"
@@ -20,7 +20,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-<cite index="7-7,7-8">Banyu Carbon is a Seattle-based company founded in 2022 by Alex Gagnon and Julian Sachs, former University of Washington professors of chemical oceanography, developing a sunlight-driven process to strip CO2 from seawater.</cite> <cite index="6-4">The company has raised a $6.5 million seed round from investors including the Grantham Foundation, Propeller, United Airlines Ventures, Carbon Removal Partners and ReGen Ventures.</cite> It is an Ocean CDR supplier physically removing CO2 via photochemical reactions.
+Banyu Carbon is a Seattle-based company founded in 2022 by Alex Gagnon and Julian Sachs, former University of Washington professors of chemical oceanography, developing a sunlight-driven process to strip CO2 from seawater. The company has raised a $6.5 million seed round from investors including the Grantham Foundation, Propeller, United Airlines Ventures, Carbon Removal Partners and ReGen Ventures. It is an Ocean CDR supplier physically removing CO2 via photochemical reactions.
 
 ![Banyu Carbon website](/screenshots/v1-thumbnails/banyu-carbon.jpg)
 
