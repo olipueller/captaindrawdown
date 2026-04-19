@@ -19,8 +19,8 @@ url: "/directory/ocean-cdr/"
 </div>
 
 <div class="directory-stats">
-  <div class="stat-box"><span class="num">551</span><span class="label">Total employees (lower bound)</span></div>
-  <div class="stat-box"><span class="num">35/42</span><span class="label">Companies with headcount data</span></div>
+  <div class="stat-box"><span class="num">544</span><span class="label">Total employees (lower bound)</span></div>
+  <div class="stat-box"><span class="num">34/42</span><span class="label">Companies with headcount data</span></div>
 </div>
 
 ## Largest companies

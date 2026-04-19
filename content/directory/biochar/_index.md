@@ -19,8 +19,8 @@ url: "/directory/biochar/"
 </div>
 
 <div class="directory-stats">
-  <div class="stat-box"><span class="num">10,003</span><span class="label">Total employees (lower bound)</span></div>
-  <div class="stat-box"><span class="num">301/378</span><span class="label">Companies with headcount data</span></div>
+  <div class="stat-box"><span class="num">9,678</span><span class="label">Total employees (lower bound)</span></div>
+  <div class="stat-box"><span class="num">289/378</span><span class="label">Companies with headcount data</span></div>
 </div>
 
 ## Largest companies
@@ -32,9 +32,9 @@ url: "/directory/biochar/"
 - [Energie 360°](/directory/energie-360/) — 368 employees
 - [Empacar](/directory/empacar/) — 277 employees
 - [SCG Cement](/directory/scg-cement/) — 254 employees
-- [EAD](/directory/ead/) — 248 employees
 - [NetZero](/directory/netzero/) — 207 employees
 - [Südwestdeutsche Salzwerke](/directory/südwestdeutsche-salzwerke/) — 164 employees
+- [Interholco](/directory/interholco/) — 156 employees
 
 ## All Biochar companies
 

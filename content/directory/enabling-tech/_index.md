@@ -19,8 +19,8 @@ url: "/directory/enabling-tech/"
 </div>
 
 <div class="directory-stats">
-  <div class="stat-box"><span class="num">49,163</span><span class="label">Total employees (lower bound)</span></div>
-  <div class="stat-box"><span class="num">157/181</span><span class="label">Companies with headcount data</span></div>
+  <div class="stat-box"><span class="num">48,843</span><span class="label">Total employees (lower bound)</span></div>
+  <div class="stat-box"><span class="num">154/181</span><span class="label">Companies with headcount data</span></div>
 </div>
 
 ## Largest companies

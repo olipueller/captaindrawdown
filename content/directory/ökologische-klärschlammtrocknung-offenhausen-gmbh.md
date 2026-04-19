@@ -14,9 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.egrw.de/member/oekologische-klaerschlammtrocknung-offenhausen-gmbh/" target="_blank" rel="noopener">https://www.egrw.de/member/oekologische-klaerschlammtrocknung-offenhausen-gmbh/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/egrw/" target="_blank" rel="noopener">egrw</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~1 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -29,6 +27,7 @@ liveliness: "🟢 Active"
 
 ## History
 
+- **2026-04-19** — nulled Coresignal enrichment — LLM-verified mismatch: EGRW (Entsorgergemeinschaft Regionaler Wirtschaftsverkehr e.V.) is a Frankfurt-based waste-management industry association of which Ökologische Klärschlammtrocknung Offenhausen GmbH is merely a listed
 - **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://global-c-sink.easy-cert.cloud/media/projectfile/None/PZ2aXp0K9MProject_Design_Document_GCSP1126_DE.pdf))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

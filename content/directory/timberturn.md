@@ -14,7 +14,6 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>BiCRS (Other)</td></tr>
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://timberturn.ca/" target="_blank" rel="noopener">https://timberturn.ca/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/wood-safe/" target="_blank" rel="noopener">wood-safe — 234 followers</a></td></tr>
   <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -28,6 +27,7 @@ TimberTurn is a Calgary, Alberta-based carbon removal startup that buries non-me
 
 ## History
 
+- **2026-04-19** — nulled Coresignal enrichment — LLM-verified mismatch: TimberTurn is a Calgary-based carbon removal startup burying waste wood for carbon storage, while the "wood-safe" LinkedIn slug corresponds to an Egyptian fire protection company (Safe wood/Safe zone)
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟡 Moderate ([source](https://timberturn.ca/))
 - **2026-04-19** — merged 1 duplicate(s): Timber Turn Storage Inc
 - **2026-04-19** — refresh: coresignal, screenshot

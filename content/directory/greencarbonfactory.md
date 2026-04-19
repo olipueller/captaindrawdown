@@ -14,9 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Secondary pathways</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Website</th><td><a href="https://www.greencarbonfactory.com/" target="_blank" rel="noopener">https://www.greencarbonfactory.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/osomo/" target="_blank" rel="noopener">osomo</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~4 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -29,6 +27,7 @@ GreenCarbonFactory is an Arnhem-based Dutch startup that installs, owns, and ope
 
 ## History
 
+- **2026-04-19** — nulled Coresignal enrichment — LLM-verified mismatch: Osomo is a separate company (founded 2010, Heteren NL, mechanical engineering inventions) with its own LinkedIn page, while GreenCarbonFactory has its own distinct LinkedIn page (linkedin.com/company/
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.greencarbonfactory.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.greencarbonfactory.com/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness

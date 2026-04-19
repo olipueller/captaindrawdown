@@ -13,9 +13,7 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.moola-pflanzenkohle.de" target="_blank" rel="noopener">https://www.moola-pflanzenkohle.de</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biochar-zero/" target="_blank" rel="noopener">biochar-zero — 4,479 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
-  <tr><th>Employees</th><td>~2 (-33% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -31,6 +29,7 @@ FETZER Rohstoffe + Recycling GmbH is a recycling company in Eislingen, Germany, 
 
 ## History
 
+- **2026-04-19** — nulled Coresignal enrichment — LLM-verified mismatch: Biochar Zero (biochar-zero.com) is a biochar industry platform/directory that lists FETZER Rohstoffe + Recycling as one of many companies in its database. They are separate entities — FETZER is a Germ
 - **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://www.moola-pflanzenkohle.de/))
 - **2026-04-19** — merged 2 duplicate(s): Moola Pflanzenkohle, Fetzer Rohstoffe
 - **2026-04-19** — refresh: liveliness

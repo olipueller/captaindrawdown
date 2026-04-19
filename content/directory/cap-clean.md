@@ -14,9 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Secondary pathways</th><td>Mineralization</td></tr>
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://capclean.com/" target="_blank" rel="noopener">https://capclean.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/raven-renewable-energies/" target="_blank" rel="noopener">raven-renewable-energies — 3,451 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
-  <tr><th>Employees</th><td>~11 (+10% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -29,6 +27,7 @@ Cap Clean Energy Corp. is a Calgary, Alberta-based clean energy development star
 
 ## History
 
+- **2026-04-19** — nulled Coresignal enrichment — LLM-verified mismatch: Cap Clean Energy Corp. is a Calgary-based biofuel developer, while "raven-renewable-energies" appears to refer to Raven SR, a Wyoming-based renewable fuels company that merely signed an MOU partnershi
 - **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness=🟢 Active ([source](https://capclean.com/))
 - **2026-04-19** — refresh: screenshot, liveliness
 - **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://advancedbiofuelsusa.info/raven-sr-and-cap-clean-energy-to-collaborate-on-canadian-saf-and-renewable-diesel-projects/))

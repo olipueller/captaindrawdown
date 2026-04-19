@@ -13,9 +13,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Serbia</td></tr>
   <tr><th>Website</th><td><a href="https://www.basna.net/" target="_blank" rel="noopener">https://www.basna.net/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biochar-zero/" target="_blank" rel="noopener">biochar-zero — 4,479 followers</a></td></tr>
   <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
-  <tr><th>Employees</th><td>~2 (-33% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -31,6 +29,7 @@ Basna d.o.o. is a small Swiss-owned, family-run company founded in 2010 and head
 
 ## History
 
+- **2026-04-19** — nulled Coresignal enrichment — LLM-verified mismatch: "biochar-zero" is a separate biochar industry platform/directory (biochar-zero.com) that merely lists Basna d.o.o. as one of many biochar producers in its database. It is not Basna's LinkedIn page, no
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.basna.net/))
 - **2026-04-19** — merged 1 duplicate(s): Basna d.o.o.
 - **2026-04-19** — refresh: screenshot

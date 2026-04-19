@@ -13,9 +13,7 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://www.swiss-biochar.com/" target="_blank" rel="noopener">https://www.swiss-biochar.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbocontrol/" target="_blank" rel="noopener">carbocontrol — 754 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
-  <tr><th>Employees</th><td>~1</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -28,6 +26,7 @@ Swiss Biochar is a Swiss producer of EBC-certified biochar and soil substrates b
 
 ## History
 
+- **2026-04-19** — nulled Coresignal enrichment — LLM-verified mismatch: Carbo Control is a separate Novocarbo brand offering turnkey industrial pyrolysis solutions, while Swiss Biochar is a distinct subsidiary with its own LinkedIn page (linkedin.com/company/swissbiochar)
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.swiss-biochar.com/?lang=en))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.swiss-biochar.com/?lang=en))

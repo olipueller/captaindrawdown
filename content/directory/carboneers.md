@@ -13,9 +13,7 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Website</th><td><a href="https://www.carboneers.earth/" target="_blank" rel="noopener">https://www.carboneers.earth/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ipcita/" target="_blank" rel="noopener">ipcita — 3,696 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
-  <tr><th>Employees</th><td>~19 (+171% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -31,6 +29,7 @@ Carboneers (formerly Dutch Carboneers) is a Netherlands-based biochar CDR develo
 
 ## History
 
+- **2026-04-19** — nulled Coresignal enrichment — LLM-verified mismatch: Carboneers' actual LinkedIn slug is "dutchcarboneers" (nl.linkedin.com/company/dutchcarboneers). The slug "ipcita" does not correspond to Carboneers and has no apparent connection to the biochar CDR c
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.carboneers.earth/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.carboneers.earth/))

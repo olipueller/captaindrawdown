@@ -19,8 +19,8 @@ url: "/directory/mineralization/"
 </div>
 
 <div class="directory-stats">
-  <div class="stat-box"><span class="num">1,129</span><span class="label">Total employees (lower bound)</span></div>
-  <div class="stat-box"><span class="num">36/42</span><span class="label">Companies with headcount data</span></div>
+  <div class="stat-box"><span class="num">1,099</span><span class="label">Total employees (lower bound)</span></div>
+  <div class="stat-box"><span class="num">34/42</span><span class="label">Companies with headcount data</span></div>
 </div>
 
 ## Largest companies

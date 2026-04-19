@@ -14,9 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>CDR Platform/Marketplace</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://isometric.com/" target="_blank" rel="noopener">https://isometric.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/exponential-hq/" target="_blank" rel="noopener">exponential-hq — 20,708 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 98/100)</td></tr>
-  <tr><th>Employees</th><td>~179</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -33,6 +31,7 @@ Isometric is a carbon removal registry headquartered in London (with offices in 
 
 ## History
 
+- **2026-04-19** — nulled Coresignal enrichment — LLM-verified mismatch: Isometric's actual LinkedIn company page is linkedin.com/company/isometric-hq (confirmed in search results showing Isometric as a carbon removal registry/standard). The slug "exponential-hq" refers to
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://isometric.com/))
 - **2026-04-18** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://carboncredits.com/isometric-hits-100-supplier-milestone-with-flux-setting-new-standard-for-durable-carbon-removal/))

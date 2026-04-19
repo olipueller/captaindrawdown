@@ -13,9 +13,7 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.standardbiocarbon.com/" target="_blank" rel="noopener">https://www.standardbiocarbon.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonx-llc/" target="_blank" rel="noopener">carbonx-llc — 2,195 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 88/100)</td></tr>
-  <tr><th>Employees</th><td>~12 (+9% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -28,6 +26,7 @@ Standard Biocarbon is a Maine-based biochar manufacturer operating a Pyreg-techn
 
 ## History
 
+- **2026-04-19** — nulled Coresignal enrichment — LLM-verified mismatch: Standard Biocarbon has its own LinkedIn page (linkedin.com/company/standardbiocarbon). The "carbonx-llc" slug does not appear associated with Standard Biocarbon in any search results, and no parent/su
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.standardbiocarbon.com/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.standardbiocarbon.com/))

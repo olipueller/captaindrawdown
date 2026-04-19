@@ -14,9 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Secondary pathways</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>Austria</td></tr>
   <tr><th>Website</th><td><a href="https://www.oekokraft.at" target="_blank" rel="noopener">https://www.oekokraft.at</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biochar-zero/" target="_blank" rel="noopener">biochar-zero — 4,479 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~2 (-33% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -29,6 +27,7 @@ KWS Ökokraft GmbH is a small Austrian district-heating and electricity utility 
 
 ## History
 
+- **2026-04-19** — nulled Coresignal enrichment — LLM-verified mismatch: The LinkedIn slug "biochar-zero" corresponds to biochar-zero.com, a third-party biochar producer directory/marketplace that lists KWS Ökokraft GmbH as one of many unclaimed entries ("Not verified. Cla
 - **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://www.syncraft.at/en/references/ternitz/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.syncraft.at/en/references/ternitz/))
 - **2026-04-19** — refresh: screenshot, liveliness

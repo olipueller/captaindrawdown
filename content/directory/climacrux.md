@@ -14,9 +14,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://climacrux.com/" target="_blank" rel="noopener">https://climacrux.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbondashboard/" target="_blank" rel="noopener">carbondashboard — 309 followers</a></td></tr>
   <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
-  <tr><th>Employees</th><td>~2 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -29,6 +27,7 @@ Climacrux is a Swiss startup founded in 2020 that operates as a CDR reseller/bro
 
 ## History
 
+- **2026-04-19** — nulled Coresignal enrichment — LLM-verified mismatch: Climacrux has its own LinkedIn page (linkedin.com/company/climacrux) and its products are "Carbon Removed" and "CDR Platform" — not CarbonDashboard. The "carbondashboard" slug appears to refer to a se
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟠 Suspect → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟠 Suspect ([source](https://climacrux.com/))

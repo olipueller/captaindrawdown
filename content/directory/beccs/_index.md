@@ -19,8 +19,8 @@ url: "/directory/beccs/"
 </div>
 
 <div class="directory-stats">
-  <div class="stat-box"><span class="num">110,168</span><span class="label">Total employees (lower bound)</span></div>
-  <div class="stat-box"><span class="num">76/85</span><span class="label">Companies with headcount data</span></div>
+  <div class="stat-box"><span class="num">110,157</span><span class="label">Total employees (lower bound)</span></div>
+  <div class="stat-box"><span class="num">75/85</span><span class="label">Companies with headcount data</span></div>
 </div>
 
 ## Largest companies
