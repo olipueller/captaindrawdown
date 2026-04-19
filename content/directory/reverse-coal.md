@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Reverse Coal is a UK biochar CDR pilot operated by Lapwing Energy at The Lapwing Estate near Doncaster. The project grows short-rotation coppice willow on rewetted lowland peatland, pyrolyses it into biochar, and buries the biochar in a patented flooded storage repository for permanent sequestration. It was funded through Phase 1 and Phase 2 of the UK DESNZ Direct Air Capture and Greenhouse Gas Removal Innovation Programme.
 
-![Reverse Coal website](/screenshots/v1-thumbnails/reverse-coal.jpg)
+![Reverse Coal website](/screenshots/reverse-coal.png)
 
 
 ## History

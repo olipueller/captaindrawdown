@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 Counteract is a London-based venture capital fund dedicated exclusively to carbon dioxide removal (CDR) startups. Its inaugural Counteract One fund targeted ~£35M/$42M and invests across all CDR pathways including DAC, mineralisation, biomass, enhanced weathering, soil carbon and forestry. The firm does not remove CO2 itself but finances and supports CDR supplier companies.
 
-![Counteract website](/screenshots/counteract/2026-04-19.png)
+![Counteract website](/screenshots/counteract.png)
 
 
 ## History

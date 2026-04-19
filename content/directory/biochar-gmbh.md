@@ -20,7 +20,7 @@ liveliness: "🟡 Moderate"
 
 BIOCHAR GmbH & Co. KG is the biochar production and sales subsidiary of the German CONVORIS Unternehmensgruppe, operating at the Reuden/Draschwitz industrial park near Leipzig. The company uses softwood chips from German forestry as feedstock, with pyrolysis plants supplied by sister company BEHORE Technology, and is listed on the Puro.earth registry. Its biochar is primarily marketed to agriculture as a feed additive and soil amendment.
 
-![BIOCHAR GmbH website](/screenshots/biochar-gmbh/2026-04-19.png)
+![BIOCHAR GmbH website](/screenshots/biochar-gmbh.png)
 
 ## Registry Memberships
 

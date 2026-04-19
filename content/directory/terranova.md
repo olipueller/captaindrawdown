@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Terranova (formerly Levitree) is a San Francisco/Berkeley-based infrastructure startup using autonomous "Ark" and "Prometheus" robots to inject wood-waste slurry deep underground, lifting flood-prone properties while permanently burying biomass for carbon removal. The company emerged from stealth on November 10, 2025 with a $7M seed round (3x oversubscribed) led by Outlander and Congruent Ventures, with participation from GoAhead Ventures, Gothams, and Ponderosa (a Galvanize Climate fund). Its business model splits project revenue with contractors and plans to sell carbon credits since the buried wood remains sequestered underground.
 
-![Terranova website](/screenshots/terranova/2026-04-19.png)
+![Terranova website](/screenshots/terranova.png)
 
 
 ## History

@@ -22,7 +22,7 @@ liveliness: "🟠 Suspect"
 
 8 Rivers Capital is a Durham, North Carolina-based decarbonization technology developer whose Calcite process is a calcium-looping direct air capture technology anchoring the DOE-funded Southeast DAC (SEDAC) Hub in Mobile County, Alabama. Project Cardinal, the first commercial Calcite deployment planned for the U.S. Gulf Coast, began FEED in 2025 backed by a September 2024 investment from JX Nippon Oil Exploration. Calcite is also a Phase I XPRIZE Carbon Removal winner and received initial Frontier pre-purchases.
 
-![8 Rivers/Calcite website](/screenshots/8-riverscalcite/2026-04-19.png)
+![8 Rivers/Calcite website](/screenshots/8-riverscalcite.png)
 
 ## Registry Memberships
 

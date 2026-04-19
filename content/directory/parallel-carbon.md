@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Parallel Carbon is a Manchester, UK-based startup (founded 2021) developing an integrated electrochemical direct air capture and water electrolysis platform that co-produces durable CDR credits and low-cost green/carbon-negative hydrogen. In February 2026 it signed a pre-purchase agreement with Zurich Insurance Group for 1,200 tonnes of CORC-certified CDR under the Puro Standard, and reports that the majority of its CDR supply through 2030 is already sold. It has raised ~$3.6M seed (led by Aramco Ventures) with additional follow-on reported.
 
-![Parallel Carbon website](/screenshots/parallel-carbon/2026-04-19.png)
+![Parallel Carbon website](/screenshots/parallel-carbon.png)
 
 
 ## History

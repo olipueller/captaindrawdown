@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Carbon Centric is a Norwegian carbon capture developer founded in 2021 that builds, owns and operates modular carbon capture plants for small- and medium-scale bio- and waste-incineration emitters across the Nordics. Its first plant at Rakkestad (Østfold Energi waste-to-energy) began operations in September 2025 as a 10,000 tpa CCU facility delivering food-grade CO2 to Linde Gas, while its flagship BECCS project at Kirkenær with Solør Bioenergi targets ~32,000 tpa of permanent biogenic CO2 removals from 2028, with additional BECCS projects at Skogn, Trehørningen, Kalka and Treklyngen in development.
 
-![Carbon Centric website](/screenshots/v1-thumbnails/carbon-centric.jpg)
+![Carbon Centric website](/screenshots/carbon-centric.png)
 
 
 ## History

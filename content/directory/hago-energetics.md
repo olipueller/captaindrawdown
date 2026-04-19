@@ -21,7 +21,7 @@ liveliness: "🟢 Active"
 
 Hago Energetics is a California-based benefit corporation (founded 2017, HQ Camarillo) that uses a proprietary methane pyrolysis process to convert biogas from agricultural, landfill, and wastewater waste into fuel-cell-grade hydrogen and solid biochar for soil amendment. A third-party EcoEngineers LCA validated carbon intensities as low as ‑492 gCO₂e/MJ when biochar sequestration is included. The company has recently expanded toward stranded-gas-to-hydrogen projects (e.g. an April 2026 MOU in Sutton County, Texas), so some production pathways are fossil-derived rather than biogenic.
 
-![Hago Energetics website](/screenshots/hago-energetics/2026-04-19.png)
+![Hago Energetics website](/screenshots/hago-energetics.png)
 
 
 ## History

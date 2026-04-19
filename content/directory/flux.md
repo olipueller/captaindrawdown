@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Flux is a Nairobi-based CDR supplier scaling enhanced rock weathering across Africa by spreading crushed basalt on farmland in Kenya, with expansion plans in Nigeria and Cameroon. The company sells carbon removal credits while providing farmers free rock-powder fertilizer that has shown substantial maize yield improvements in pilot trials.
 
-![Flux website](/screenshots/flux/2026-04-19.png)
+![Flux website](/screenshots/flux.png)
 
 
 ## History

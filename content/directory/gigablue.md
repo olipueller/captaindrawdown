@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Gigablue is a marine carbon dioxide removal developer using its Microalgae Carbon Fixation and Sinking (MCFS) method, which deploys engineered substrates that enhance native phytoplankton growth and sink carbon to the deep ocean. The company signed a 200,000-ton CO2 sequestration agreement with SkiesFifty over four years, announced January 2025, building on a July 2024 partnership. In September 2025 it raised $20 million in fresh financing to scale its microalgae technology, and its MCFS methodology was approved by the Puro.earth Advisory Board.
 
-![Gigablue website](/screenshots/gigablue/2026-04-19.png)
+![Gigablue website](/screenshots/gigablue.png)
 
 ## Registry Memberships
 

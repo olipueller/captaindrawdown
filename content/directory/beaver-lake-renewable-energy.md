@@ -20,7 +20,7 @@ liveliness: "🟡 Moderate"
 
 Beaver Lake Renewable Energy LLC is a wholly-owned subsidiary of SunGas Renewables, developing a ~$2.4 billion green methanol facility in Rapides Parish, Louisiana, using biomass gasification of sustainably sourced forestry residues. The project is designed to sequester nearly 1 million tons/year of biogenic CO2 via Denbury Carbon Solutions, yielding negative-carbon-intensity methanol for marine and aviation fuel. FEED began in May 2025; construction targeted for H2 2026 with operations in 2028.
 
-![Beaver Lake Renewable Energy website](/screenshots/beaver-lake-renewable-energy/2026-04-19.png)
+![Beaver Lake Renewable Energy website](/screenshots/beaver-lake-renewable-energy.png)
 
 
 ## History

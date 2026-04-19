@@ -23,7 +23,7 @@ liveliness: "🟡 Moderate"
 
 Weyerhaeuser is a major U.S. timberland REIT (NYSE: WY) and one of the world's largest private owners of timberlands, with approximately 10.4–11 million acres in the U.S. Its Natural Climate Solutions division develops Improved Forest Management (IFM) forest carbon projects and leases subsurface pore space for geologic CO2 sequestration. The company sold its first IFM credits (Kibby Skinner Project, Maine) in 2023 in partnership with Carbon Direct.
 
-![Weyerhaeuser website](/screenshots/weyerhaeuser/2026-04-19.png)
+![Weyerhaeuser website](/screenshots/weyerhaeuser.png)
 
 
 ## History

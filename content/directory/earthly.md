@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Earthly is a UK-based nature-based carbon credit marketplace that connects businesses with vetted reforestation, mangrove, and biodiversity projects via instant purchases, subscriptions, or bespoke portfolios. It acts as a broker/curator — scoring projects on 106 data points using sources like BeZero and Google Earth Engine — and also supports future carbon sourcing and project origination, but is not itself a project developer.
 
-![Earthly website](/screenshots/earthly/2026-04-19.png)
+![Earthly website](/screenshots/earthly.png)
 
 
 ## History

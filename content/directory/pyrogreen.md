@@ -23,7 +23,7 @@ liveliness: "🟡 Moderate"
 
 Pyrogreen Energy is a biochar equipment brand of Wuxi Powermax Renewable Energy Technology Co., Ltd., based in Wuxi, Jiangsu, China. It designs and manufactures rotary kiln and screw-conveyor biomass carbonization/torrefaction systems that convert agricultural and forestry residues into stable biochar, and offers project development services including dMRV and carbon credit registration under Verra, Puro.earth, Gold Standard and Isometric.
 
-![Pyrogreen website](/screenshots/pyrogreen/2026-04-19.png)
+![Pyrogreen website](/screenshots/pyrogreen.png)
 
 
 ## History

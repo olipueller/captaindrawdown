@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 CPL Industries (Coal Products Limited), part of Invica Industries, is Europe's largest manufacturer of smokeless solid fuel briquettes, headquartered in Chesterfield with its main manufacturing site at Immingham. With £5m of BEIS Direct Air Capture and Greenhouse Gas Removal funding, CPL partnered with Severn Trent Green Power and the University of Nottingham to build a biochar plant at Immingham using hydrothermal carbonisation (HTC) and high-temperature torrefaction (HTT) to convert organic waste — including AD digestate — into sequestration-grade biochar, targeting ~600 t/yr biochar (2,000 tCO2e) in the demonstration phase and commercial deployment by 2030.
 
-![Coal Products Limited (CPL) website](/screenshots/v1-thumbnails/coal-products-limited--cpl.jpg)
+![Coal Products Limited (CPL) website](/screenshots/coal-products-limited-cpl.png)
 
 
 ## History

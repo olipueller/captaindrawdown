@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 AWN (Abfallwirtschaftsgesellschaft des Neckar-Odenwald-Kreises mbH) is a municipal waste-management company based in Buchen, Germany, founded in 1992. At its Biomassezentrum in the Sansenhecken disposal center, the company pyrolyzes the woody portion of roughly 20,000 tonnes/year of regional green waste into biochar and compost/Terra Preta products for agriculture and livestock use. CDR is a side-activity of the core municipal waste operation but produces real biochar.
 
-![AWN website](/screenshots/v1-thumbnails/awn.jpg)
+![AWN website](/screenshots/awn.png)
 
 
 ## History

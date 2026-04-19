@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Jord AB is a Swedish company founded in 2017 and headquartered in Stockholm that cultivates perennial C4 grass on marginal/degraded land in Senegal and the Dominican Republic, producing solid biofuel pellets and biochar. The company is a Puro.earth-listed biochar carbon removal supplier and has active 2024-2025 partnerships with Votion Biorefineries (SAF), TEXEL (electricity), and others. It sells carbon credits combining avoidance and biochar-based removal.
 
-![Jord website](/screenshots/jord/2026-04-19.png)
+![Jord website](/screenshots/jord.png)
 
 
 ## History

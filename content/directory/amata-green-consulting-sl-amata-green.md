@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 Amata Green, SL is a Spain-based biochar company planning a production facility in Jaén, Andalucía that would process olive-industry biomass waste into biochar for soil application and carbon removal credits. The facility will process discarded waste from olive growers and mills, turning it into biochar starting with a minimum of 12,000 tons of CO2 annually and eventually scaling to 24,000 tons annually. The project has been listed on Puro.earth (project code AGSP) for pre-CORC sales and was selected for the AirMiners Launchpad accelerator.
 
-![Amata Green Consulting, SL (Amata Green) website](/screenshots/amata-green-consulting-sl-amata-green/2026-04-19.png)
+![Amata Green Consulting, SL (Amata Green) website](/screenshots/amata-green-consulting-sl-amata-green.png)
 
 
 ## History

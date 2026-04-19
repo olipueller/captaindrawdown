@@ -21,7 +21,7 @@ liveliness: "🟡 Moderate"
 
 Ecoera was founded at Chalmers Ventures with Skånefrö AB and began Sweden's first large-scale biochar application for carbon removal in 2009. Biochar is produced at a large Hammenhög facility in South Sweden using PYREG P500 and P1500 carbonization systems. Output is third-party verified under the European Biochar Certificate and the Puro.earth Biochar methodology, and sold as CO2 Removal Certificates (CORCs).
 
-![Ecoera website](/screenshots/v1-thumbnails/ecoera.jpg)
+![Ecoera website](/screenshots/ecoera.png)
 
 ## Registry Memberships
 

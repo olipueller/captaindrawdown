@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Safi Organics is a Kenyan MIT-spinout (founded 2015) that converts rice husks and other crop residues into biochar-blended organic fertilizer (Safi Sarvi) via decentralized village-level pyrolysis. The biochar component sequesters carbon in soils while increasing smallholder crop yields by ~30%. The company has scaled to tens of thousands of farmers and in 2025 received DFC technical assistance to develop two industrial-scale biochar fertilizer production facilities.
 
-![Safi Organics website](/screenshots/v1-thumbnails/safi-organics.jpg)
+![Safi Organics website](/screenshots/safi-organics.png)
 
 
 ## History

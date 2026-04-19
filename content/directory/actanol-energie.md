@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 ACTANOL Energie GmbH (Kempten, Allgäu, Germany) handles planning, financing and management for operating companies of renewable energy plants, especially pyrolysis plants. The separate company ACTANOL Energie GmbH was founded in 2024 and focuses on renewable-energy plant contracting, offering heat, electricity, biochar and CO₂ certificates from its pyrolysis plants. It is a member of the German Biochar e.V. network.
 
-![Actanol Energie website](/screenshots/actanol-energie/2026-04-19.png)
+![Actanol Energie website](/screenshots/actanol-energie.png)
 
 
 ## History

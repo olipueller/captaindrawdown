@@ -23,7 +23,7 @@ liveliness: "🟡 Moderate"
 
 TerraNova Energy is a German technology provider that builds Hydrothermal Carbonization (HTC) and Thermal Hydrolysis (THP) plants which convert wet organic waste streams — primarily sewage sludge and biowaste — into stable hydrochar. The company positions its TerraNova®ultra "wet pyrolysis" process as a permanent carbon-removal pathway under the EU CRCF (Regulation 2024/3012), with installations in China, Mexico, Turkey, Poland, and Germany.
 
-![TerraNova Energy website](/screenshots/terranova-energy/2026-04-19.png)
+![TerraNova Energy website](/screenshots/terranova-energy.png)
 
 
 ## History

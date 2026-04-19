@@ -22,7 +22,7 @@ liveliness: "🟠 Suspect"
 
 Soil Reef LLC (formerly The Biochar Company / TBC) is a Berwyn, Pennsylvania-based biochar product development, marketing and sales company founded in 2011. It sells Soil Reef-branded pure biochar and Gardener's Blend products, including 1 cubic foot bags and bulk totes, made in the U.S. from sustainably produced wood waste and forest residue. Products have been used in land reclamation projects with the U.S. Forest Service in Colorado, including an early carbon-negative biochar mine reclamation project.
 
-![Soil Reef website](/screenshots/v1-thumbnails/soil-reef.jpg)
+![Soil Reef website](/screenshots/soil-reef.png)
 
 
 ## History

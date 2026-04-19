@@ -23,7 +23,7 @@ liveliness: "🟡 Moderate"
 
 Andes is a carbon removal supplier headquartered in Alameda, California that uses beneficial microorganisms applied with crop seeds to accelerate conversion of atmospheric CO2 into stable soil inorganic carbonates across US Midwest farmland. The company co-developed the first ISO 14064 Microbial Carbon Mineralization (MCM) methodology with EcoEngineers, has partnered with Gold Standard, and has raised $38M from investors including Voyager VC, Yamaha Motor Ventures, and Leaps by Bayer.
 
-![Andes website](/screenshots/andes/2026-04-19.png)
+![Andes website](/screenshots/andes.png)
 
 
 ## History

@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 TREEO is operated by Fairventures Digital GmbH in Stuttgart, Germany, a for-profit spinoff (founded Nov 2021) of the reforestation NGO Fairventures Worldwide. The company connects smallholder tree growers in countries like Uganda and Indonesia with corporate buyers via a single-tree monitoring app, financing reforestation and storing carbon long-term in timber and biochar. TREEO is certified as a C-Sink Manager and dMRV Provider by Carbon Standards International.
 
-![TREEO website](/screenshots/v1-thumbnails/treeo.jpg)
+![TREEO website](/screenshots/treeo.png)
 
 ## Registry Memberships
 

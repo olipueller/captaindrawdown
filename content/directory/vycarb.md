@@ -21,7 +21,7 @@ liveliness: "🟡 Moderate"
 
 Vycarb is a Brooklyn-based climate tech startup founded in 2022 by Dr. Garrett Boudinot that deploys modular ocean alkalinity enhancement (OAE) systems to convert dissolved CO2 into stable bicarbonate in natural waters. Its flagship pilot operates at the Brooklyn Navy Yard on the East River, with additional pilots at Governor's Island and East Hampton. In October 2025 the company closed a $5M seed round led by Twynam with participation from MOL Switch, Hatch Blue, Clocktower Ventures, Idemitsu, and SGInnovate.
 
-![Vycarb website](/screenshots/v1-thumbnails/vycarb.jpg)
+![Vycarb website](/screenshots/vycarb.png)
 
 
 ## History

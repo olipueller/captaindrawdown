@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 Carboliva is a Spanish biochar producer headquartered in Osuna (Seville) that has operated since 2018 a pyrolysis furnace at the Acesur-Coosur facility in Puente del Obispo (Jaén), producing around 5,000 tonnes annually of olive biochar using a patented oxygen-free pyrolysis system developed with the Seville School of Engineers, Inerco and the University of Málaga. The company, founded in 2017 by Álvaro Espuny, is pursuing a five-year, roughly €120 million plan to build up to 20 furnaces in olive-pomace dryers across Spain and Portugal, targeting 200,000 tonnes per year of olive biochar. Carboliva is the first company in Spain to obtain the EBC certification to participate in the voluntary carbon market.
 
-![Carboliva website](/screenshots/v1-thumbnails/carboliva.jpg)
+![Carboliva website](/screenshots/carboliva.png)
 
 
 ## History

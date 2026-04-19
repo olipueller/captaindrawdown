@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Verra is a Washington, DC-based nonprofit that operates the Verified Carbon Standard (VCS) Program, the world's most widely used voluntary carbon crediting program, along with its project registry and methodologies. It sets standards, approves methodologies (including for engineered removals like CCS via VM0049), and credits projects that issue Verified Carbon Units (VCUs). Verra is core ecosystem infrastructure — a standards-setter and registry — rather than a physical CDR supplier.
 
-![Verra website](/screenshots/verra/2026-04-19.png)
+![Verra website](/screenshots/verra.png)
 
 
 ## History

@@ -20,7 +20,7 @@ liveliness: "🟡 Moderate"
 
 Green State Biochar is a small family-run biochar producer in Greensboro Bend, Vermont, founded by Roger and Donna Pion and Luke Persons. They produce biochar via pyrolysis from locally sourced waste wood purchased from Northeast Kingdom sawmills, selling it for soil amendment and using it in on-farm filtration systems for manure runoff and phosphorus capture. Production is bench-scale (hundreds of pounds per day) and the firm has not issued registry-tracked CDR credits.
 
-![Green State Biochar website](/screenshots/green-state-biochar/2026-04-19.png)
+![Green State Biochar website](/screenshots/green-state-biochar.png)
 
 
 ## History

@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Founded in 2023 and based in Arkansas, Graphyte is a US carbon-removal startup that uses a proprietary 'Carbon Casting' process to dry and compress timber and agricultural residues into stable buried carbon blocks. The company operates Project Loblolly in Pine Bluff, Arkansas, which issued 15,000 credits in 2025, and is developing Project Ponderosa in Flagstaff, Arizona. It is backed by Breakthrough Energy Ventures, Prelude Ventures and Carbon Direct Capital and recently signed a 10-year, 60,000-tonne deal with JPMorganChase.
 
-![Graphyte website](/screenshots/graphyte/2026-04-19.png)
+![Graphyte website](/screenshots/graphyte.png)
 
 ## Registry Memberships
 

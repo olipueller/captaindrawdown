@@ -23,7 +23,7 @@ liveliness: "🟡 Moderate"
 
 Alpine X is a French deeptech startup founded in September 2023 in Val d'Isère, developing high-altitude direct air capture (DAC) units optimized for alpine mountain conditions. Its systems use metal-organic framework (MOF) sorbents that benefit from cold temperatures, low humidity, and high-intensity solar at elevations above 1500m, with captured CO₂ intended for regional mineralization into low-carbon building materials.
 
-![Alpine X website](/screenshots/alpine-x/2026-04-19.png)
+![Alpine X website](/screenshots/alpine-x.png)
 
 
 ## History

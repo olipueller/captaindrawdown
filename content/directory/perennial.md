@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 Perennial (formerly Cloud Agronomics) is a Boulder, Colorado-based MRV company for soil-based carbon removal, using digital soil mapping, machine learning (ATLAS-SOC), and remote sensing to quantify soil organic carbon at scale. Perennial led the development of VT0014 — Verra's newly approved tool for quantifying soil carbon using digital soil mapping, the first AI-enabled carbon quantification tool recognized by a major registry, usable across the Verified Carbon Standard for any ALM methodology requiring SOC estimates. They serve project developers, food/ag companies, and corporate sustainability teams — part of the CDR ecosystem as an MRV/verification provider rather than a physical CO2 remover.
 
-![Perennial website](/screenshots/perennial/2026-04-19.png)
+![Perennial website](/screenshots/perennial.png)
 
 ## Registry Memberships
 

@@ -23,7 +23,7 @@ liveliness: "🟠 Suspect"
 
 ZS2 Technologies is a Calgary-based manufacturer of magnesium-cement building materials (boards, panels, sheathing, tiles) that mineralize CO2 into the cement matrix. The company also develops a proprietary direct-air-capture process, was an XPRIZE Carbon Removal Milestone top-60 entrant, and in May 2025 launched its Gen 2 product line as the first large-scale domestic MgO cement producer in North America.
 
-![ZS2 website](/screenshots/v1-thumbnails/zs2.jpg)
+![ZS2 website](/screenshots/zs2.png)
 
 ## Registry Memberships
 

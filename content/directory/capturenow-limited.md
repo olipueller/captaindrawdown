@@ -21,7 +21,7 @@ liveliness: "🟢 Active"
 
 CaptureNow (legal name CAPTURENOW LIMITED) is a London-based pre-seed startup that structures long-term (15-25 year) carbon removal offtake agreements for hard-to-abate sectors such as aviation, logistics, steel, cement, and government. The company acts as a financial intermediary/broker, aggregating demand and hedging against future carbon price increases rather than physically removing CO2 itself. Founded by Ante Kotarac and Michael Harte and backed by Mouro Capital.
 
-![CAPTURENOW LIMITED website](/screenshots/capturenow-limited/2026-04-19.png)
+![CAPTURENOW LIMITED website](/screenshots/capturenow-limited.png)
 
 
 ## History

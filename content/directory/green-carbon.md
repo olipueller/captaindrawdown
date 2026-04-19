@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 Green Carbon Inc. is a Tokyo-based developer of nature-based carbon credits founded in December 2019, operating across Japan, Southeast Asia, Australia, and South America. Its CDR-relevant activity centers on industrial-scale biochar projects, including partnerships with Excellent Enfab (India) targeting Isometric-certified biochar carbon removal (~18,000 t CO2/yr per plant), The Varhad Group (India) targeting Puro.earth certification, and MOUs with the Rubber Authority of Thailand and Living Roots for biochar from rubber-tree residues. The company also develops agricultural J-Credits (rice paddy AWD, livestock methane) which are non-CDR.
 
-![Green Carbon website](/screenshots/green-carbon/2026-04-19.png)
+![Green Carbon website](/screenshots/green-carbon.png)
 
 ## Registry Memberships
 

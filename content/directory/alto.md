@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 Alto Ingredients (NASDAQ: ALTO), formerly Pacific Ethanol, is a U.S. producer of specialty alcohols and renewable fuels headquartered in Pekin, Illinois. The company is developing a BECCS project with Vault 44.01 to capture the ~600,000 metric tons/year of biogenic CO2 generated from corn fermentation at its Pekin campus and permanently sequester it in the Mt. Simon sandstone formation. A definitive CO2 Transportation and Sequestration Agreement was signed in November 2024, though the project still awaits EPA Class VI permit approval, financing, and equipment sourcing.
 
-![Alto website](/screenshots/alto/2026-04-19.png)
+![Alto website](/screenshots/alto.png)
 
 
 ## History

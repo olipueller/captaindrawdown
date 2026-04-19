@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 Respira International is a London-based impact-driven carbon finance business that uses its balance sheet to pre-purchase carbon credits from project developers via long-term offtake and profit-share agreements, then resells them to corporate and financial clients. Its portfolio is primarily nature-based (REDD+, mangroves/blue carbon, ARR) with some engineered CDR offtakes including an MoU with Drax for BECCS and a pre-purchase from Capture6 for DAC. The firm is a broker/financier rather than a physical CDR supplier.
 
-![Respira International website](/screenshots/respira-international/2026-04-19.png)
+![Respira International website](/screenshots/respira-international.png)
 
 
 ## History

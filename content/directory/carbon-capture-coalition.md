@@ -23,7 +23,7 @@ liveliness: "🟡 Moderate"
 
 The Carbon Capture Coalition is a US nonpartisan policy advocacy coalition convened by the Great Plains Institute, uniting 100+ companies, labor unions, and environmental NGOs to advance federal policies supporting carbon capture, removal, transport, utilization, and storage. The Coalition is known for driving bipartisan enhancements to the 45Q tax credit and publishing annual Federal Policy Blueprints. It does not itself remove CO2 — it is an advocacy/convening organization within the carbon management ecosystem.
 
-![Carbon Capture Coalition website](/screenshots/carbon-capture-coalition/2026-04-19.png)
+![Carbon Capture Coalition website](/screenshots/carbon-capture-coalition.png)
 
 
 ## History

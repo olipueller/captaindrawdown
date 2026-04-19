@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 Deep Sky is a Montreal-based, tech-agnostic carbon removal project developer that builds and operates DAC-to-storage infrastructure in Canada, aggregating third-party DAC units at its sites. Its flagship Deep Sky Alpha facility in Innisfail, Alberta began operations in August 2025 as North America's first DAC-to-underground-storage site, with partnerships including Skyrenu, GE Vernova, DACMA, Carbyon, Greenlyte, and others.
 
-![Deep Sky website](/screenshots/v1-thumbnails/deep-sky.jpg)
+![Deep Sky website](/screenshots/deep-sky.png)
 
 ## Registry Memberships
 

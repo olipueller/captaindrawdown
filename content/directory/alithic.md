@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 Alithic (formerly Earth RepAIR) is a University of Wisconsin–Madison spinout based in Madison, WI, developing an integrated direct air capture and mineralization process. Its solvent-based capture reacts CO₂ with industrial wastes (fly ash, steel slag, mine tailings) to produce a supplementary cementitious material (SCM) sold as a cement replacement. The company was selected for Frontier's Fall 2024 prepurchase round and is backed by Kiko Ventures, IP Group, Counteract, Clim8 and others.
 
-![Alithic website](/screenshots/alithic/2026-04-19.png)
+![Alithic website](/screenshots/alithic.png)
 
 ## Registry Memberships
 

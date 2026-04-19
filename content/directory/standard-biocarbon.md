@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Standard Biocarbon is a Maine-based biochar manufacturer that pyrolyzes softwood sawmill residuals from a co-located Pleasant River Lumber mill in Enfield using Pyreg technology, producing 50-60 cubic yards of biochar per day. The company sells bulk biochar to composters, soil blenders, landscapers, nurseries, and turf/agricultural users, and supplies material for PFAS remediation research with Northern Tilth, Purdue, and the University of Maine.
 
-![Standard Biocarbon website](/screenshots/v1-thumbnails/standard-biocarbon.jpg)
+![Standard Biocarbon website](/screenshots/standard-biocarbon.png)
 
 
 ## History

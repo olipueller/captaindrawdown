@@ -23,7 +23,7 @@ liveliness: "🟠 Suspect"
 
 Planetary Technologies is a Canadian ocean alkalinity enhancement (OAE) supplier headquartered in Nova Scotia, with active projects at Tufts Cove (Halifax) and in Virginia. In 2025 they delivered the world's first independently verified OAE credits (625.6 tonnes) to Stripe, Shopify and British Airways under Isometric's OAE protocol, and signed a $31M offtake with Frontier.
 
-![Planetary website](/screenshots/planetary/2026-04-19.png)
+![Planetary website](/screenshots/planetary.png)
 
 ## Registry Memberships
 
@@ -31,6 +31,7 @@ Planetary Technologies is a Canadian ocean alkalinity enhancement (OAE) supplier
 
 ## History
 
+- **2026-04-19** — news mention: Frontiers | Leveraging soil organic carbon credits to enhance smallholder food security and planetar ([source](https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2026.1800887/full))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.planetarytech.com/))
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.planetarytech.com/the-worlds-first-verified-oae-credits/))

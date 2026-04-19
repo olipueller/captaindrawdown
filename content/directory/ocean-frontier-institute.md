@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 The Ocean Frontier Institute (OFI) is a non-profit research and higher education organization dedicated to ocean-based research and data, established in 2016 and based at Dalhousie University in Halifax, Nova Scotia, focused on achieving net zero, protecting ocean biodiversity and sustaining ocean bioresources. OFI is a global hub for ocean research and innovation led by Dalhousie University, and its CONVERGE CDR program is part of OFI's Transforming Climate Action (TCA) program, a $397M research initiative at the intersection of oceans, climate, and human systems. It is part of the CDR ecosystem as a research/MRV enabler rather than a commercial supplier.
 
-![Ocean Frontier Institute website](/screenshots/v1-thumbnails/ocean-frontier-institute.jpg)
+![Ocean Frontier Institute website](/screenshots/ocean-frontier-institute.png)
 
 ## Registry Memberships
 

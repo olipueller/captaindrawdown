@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Südwestdeutsche Salzwerke AG is a Heilbronn-based German salt producer (~1,100 employees; majority-owned by the City of Heilbronn and the State of Baden-Württemberg) active in salt mining, waste disposal, logistics and tourism. As part of its decarbonization strategy it commissioned a SYNCRAFT biomass pyrolysis (reverse power plant) at its Heilbronn site in December 2023, which produces electricity, heat and ~2,200 t/yr of biochar, and it holds a minority stake in biochar refiner Carbuna AG via subsidiary Salzwerke Beteiligungen GmbH. While salt remains the core business, the firm operates a functioning biochar-CDR facility on-site.
 
-![Südwestdeutsche Salzwerke website](/screenshots/südwestdeutsche-salzwerke/2026-04-19.png)
+![Südwestdeutsche Salzwerke website](/screenshots/südwestdeutsche-salzwerke.png)
 
 
 ## History

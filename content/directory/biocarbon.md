@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 BioCarbon is an Australian climate-tech company that uses proprietary pyrolysis and consolidation technology to convert woody biomass waste into GreenChar biochar, a drop-in replacement for metallurgical coke in Electric Arc Furnace steelmaking. It secured AU$4.8M from ARENA in early 2026 to build its first commercial-scale plant at Bulahdelah, NSW, and also plans to sell ACCU-verified carbon credits alongside steel-industry sales.
 
-![BioCarbon website](/screenshots/v1-thumbnails/biocarbon.jpg)
+![BioCarbon website](/screenshots/biocarbon.png)
 
 
 ## History

@@ -20,7 +20,7 @@ liveliness: "🟡 Moderate"
 
 Danube Carbon Storage is a Budapest-based project developer building a full-chain BECCS operation in Central Hungary, backed by ClonBio Group (owner of Pannonia Bio biorefinery) and EMOV Limited. Its Danube Removals project will capture ~500,000 tonnes/year of biogenic CO2 from Pannonia Bio's yeast fermentation and anaerobic digestion processes, transported via a 10-15 km pipeline for permanent storage in an onshore saline aquifer in the Pannonian Basin. The project was selected for EU Innovation Fund support in October 2024 and aims to generate CRCF-compliant carbon removal credits.
 
-![Danube Carbon Storage website](/screenshots/danube-carbon-storage/2026-04-19.png)
+![Danube Carbon Storage website](/screenshots/danube-carbon-storage.png)
 
 
 ## History

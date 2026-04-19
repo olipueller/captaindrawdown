@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Pinwheel (trading name of Messier Holdings Limited) is a UK-based climate engagement platform that curates and brokers carbon removal and biodiversity projects for corporate clients, allowing employees and customers to vote on which projects receive funding. The company identifies, validates and verifies CDR projects (e.g. biochar, mineralization, biomass burial via InterEarth) and sources buyers, rather than operating any physical removal itself.
 
-![Pinwheel (Messier Holdings Limited) website](/screenshots/pinwheel-messier-holdings-limited/2026-04-19.png)
+![Pinwheel (Messier Holdings Limited) website](/screenshots/pinwheel-messier-holdings-limited.png)
 
 
 ## History

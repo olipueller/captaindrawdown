@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 Pacific Biochar is a California-based benefit corporation that partners with bioenergy facilities and sawmills to retrofit them for biochar co-production from forest residues, with biochar applied to agricultural land. The company is among the leading biochar CDR suppliers globally, with credits registered on Puro.earth and, as of December 2025, newly verified under Isometric's Biochar Protocol via the Humboldt Sawmill project.
 
-![Pacific Biochar website](/screenshots/v1-thumbnails/pacific-biochar.jpg)
+![Pacific Biochar website](/screenshots/pacific-biochar.png)
 
 ## Registry Memberships
 

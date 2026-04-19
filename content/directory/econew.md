@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Econew is a Brazilian clean bioenergy company located in northern Minas Gerais that produces biochar through continuous pyrolysis of FSC®/PEFC-certified eucalyptus residues. Each ton of verified CO₂ removal is issued as a carbon credit on the voluntary market. The company installed what it describes as Brazil's largest biochar production reactor in late 2024.
 
-![Econew website](/screenshots/v1-thumbnails/econew.jpg)
+![Econew website](/screenshots/econew.png)
 
 
 ## History

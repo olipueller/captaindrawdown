@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 ADM (Archer Daniels Midland) is a global agribusiness giant whose CCS division operates one of North America's only commercial-scale BECCS facilities, capturing CO2 from corn-to-ethanol fermentation at its Decatur, Illinois complex and injecting it more than a mile underground into the Mt. Simon Sandstone under EPA Class VI permits. Operations resumed in August 2025 after a year-long pause following a 2024 subsurface leak, and in October 2025 ADM signed an MOU with Super6 Carbon to produce CDR credits by storing third-party CO2 at the Decatur site.
 
-![ADM website](/screenshots/adm/2026-04-19.png)
+![ADM website](/screenshots/adm.png)
 
 
 ## History

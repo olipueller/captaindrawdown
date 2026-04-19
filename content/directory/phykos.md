@@ -21,7 +21,7 @@ liveliness: "🟠 Suspect"
 
 Phykos, PBC is an Oakland, California ocean CDR startup founded in 2020 by Jeff Zerger and Nico Julian (ex-Google X), backed by Y Combinator (S21). The company develops mobile, solar-powered autonomous platforms that grow seaweed on the open ocean and sink the biomass to depths over 1,500 m, aiming to sequester carbon for 1,000+ years. Team and funding are very small (~$130K raised), and the company's public-facing news updates appear to stop in 2022.
 
-![Phykos website](/screenshots/phykos/2026-04-19.png)
+![Phykos website](/screenshots/phykos.png)
 
 
 ## History

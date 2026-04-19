@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Forge Minerals is an Edinburgh-based startup founded in 2024 that converts waste CO2 into high-purity carbonate minerals, initially magnesium carbonate, using a low-energy reactor process. The resulting products target existing markets (flame retardants, pharmaceuticals, supplements) while permanently locking CO2 into stable mineral form. The company closed a £1M pre-seed round in early 2026 and opened its first lab at the Edinburgh Innovation Hub, collaborating with the University of Edinburgh's Applied Geosciences Lab.
 
-![Forge Minerals website](/screenshots/forge-minerals/2026-04-19.png)
+![Forge Minerals website](/screenshots/forge-minerals.png)
 
 
 ## History

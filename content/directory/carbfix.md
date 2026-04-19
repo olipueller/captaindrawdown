@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Carbfix is an Icelandic carbon mineralization company and subsidiary of Reykjavík Energy that permanently stores CO2 by dissolving it in water and injecting it into basaltic rock, where it solidifies into carbonate minerals within about two years. It operates injection sites at the Hellisheiði and Nesjavellir geothermal plants, provides storage for DAC partners (e.g. Climeworks, Removr), and is developing the Coda Terminal transport-and-mineralization hub. In April 2025 Carbfix received the EU's first onshore CO2 geological storage permit under the 2009 CCS Directive.
 
-![Carbfix website](/screenshots/carbfix/2026-04-19.png)
+![Carbfix website](/screenshots/carbfix.png)
 
 ## Registry Memberships
 

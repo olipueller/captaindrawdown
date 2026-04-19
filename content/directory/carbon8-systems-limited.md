@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 Carbon8 Systems is a UK-based CCUS company, spun out of the University of Greenwich in 2006, that uses its patented Accelerated Carbonation Technology (ACT) to capture flue-gas CO2 and permanently mineralize it into industrial residues, producing carbon-negative aggregates (CircaBuild) and fertiliser (CircaGrow). Its CO₂ntainer™ modular skid system is deployed commercially with clients including Vicat, Heidelberg/Hanson, CRH and AVR, and its methodology has been validated by DNV against ISO 14064-2.
 
-![Carbon8 Systems Limited website](/screenshots/carbon8-systems-limited/2026-04-19.png)
+![Carbon8 Systems Limited website](/screenshots/carbon8-systems-limited.png)
 
 
 ## History

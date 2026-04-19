@@ -25,7 +25,7 @@ liveliness: "🟢 Active"
 
 Carbonfuture operates a digital Trust Infrastructure for durable carbon removal, combining its MRV+ dMRV platform with a marketplace that connects buyers to biochar, BECCS, DACCS, and TSB suppliers. It does not physically remove CO2 itself; instead it tracks, verifies, and transacts credits from third-party projects. The company closed a Series A2 in late 2025 and facilitated the Microsoft–Exomad Green megatonne biochar deal.
 
-![Carbonfuture website](/screenshots/v1-thumbnails/carbonfuture.jpg)
+![Carbonfuture website](/screenshots/carbonfuture.png)
 
 ## Registry Memberships
 

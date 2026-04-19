@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 Klimate is a Copenhagen-based carbon asset management platform founded in 2020 that curates vetted carbon removal portfolios (biochar, BECCS, forestry, etc.) for corporate clients. It is a broker/platform connecting buyers to CDR suppliers, not a physical remover itself. The company raised a €3.5M seed round in 2023 and continues to publish project work and partnerships through 2025.
 
-![Klimate website](/screenshots/klimate/2026-04-19.png)
+![Klimate website](/screenshots/klimate.png)
 
 ## Registry Memberships
 

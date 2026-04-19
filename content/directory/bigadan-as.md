@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 Bigadan A/S (short for Biogas Danmark) is a Skanderborg-based Danish biogas plant developer and operator with 30+ years of experience, having built more than 40 plants in 14 countries. The company captures biogenic CO2 from its biogas upgrading process and liquefies it; it won a Danish NECCS Fund contract in April 2024 to permanently store 25,000 tonnes of biogenic CO2 per year from its Kalundborg plant between 2026 and 2032. Bigadan also supplies liquid bio-CO2 for industrial/food-grade use (CCU).
 
-![Bigadan A/S website](/screenshots/bigadan-as/2026-04-19.png)
+![Bigadan A/S website](/screenshots/bigadan-as.png)
 
 
 ## History

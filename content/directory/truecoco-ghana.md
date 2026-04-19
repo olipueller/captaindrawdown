@@ -20,7 +20,7 @@ liveliness: "🟡 Moderate"
 
 Truecoco Ghana is a Ghana-based biochar CDR supplier that converts waste coconut husks sourced from smallholder farmer networks in the Western Region into biochar via pyrolysis for soil amendment and durable carbon storage. The project is Puro.earth certified with credits issued ex-post, and received $3.3M in 2024 from GIP Ghana (BII-backed) to scale operations. Truecoco produced its first tons of biochar on Earth Day 2025 and targets removing 250,000 tCO2 by 2030 while supporting 30,000+ farmers.
 
-![Truecoco Ghana website](/screenshots/v1-thumbnails/truecoco-ghana.jpg)
+![Truecoco Ghana website](/screenshots/truecoco-ghana.png)
 
 ## Registry Memberships
 

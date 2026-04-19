@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 Sea-Up (The Sea Upwelling Company Inc, formerly Ocean-Based Climate Solutions) is a small US-based ocean CDR developer led by founder Philip Kithil. The company deploys wave-driven artificial upwelling pumps that bring nutrient-rich deep water to the surface to stimulate phytoplankton photosynthesis, raise ocean pH, and enhance CO2 absorption, with planned deployments east of Bermuda in partnership with BIOS. It sells "Sea-Shares" fractional pump units and T-CDR subscriptions rather than tonnage credits.
 
-![Sea-Up website](/screenshots/v1-thumbnails/sea-up.jpg)
+![Sea-Up website](/screenshots/sea-up.png)
 
 
 ## History

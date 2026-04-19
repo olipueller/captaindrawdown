@@ -21,7 +21,7 @@ liveliness: "🟡 Moderate"
 
 Provocative (Provocative Science Holdings) is a Boston-based startup founded in 2023 that builds carbon-negative data centers by replacing the cooling system with direct air capture. Backed by Samurai Incubate, Greentown Labs, Aera VC, Unbounded Capital, and Valia Ventures, the company aims to make AI compute carbon-negative via integrated DAC.
 
-![Provocative Science Holdings website](/screenshots/provocative-science-holdings/2026-04-19.png)
+![Provocative Science Holdings website](/screenshots/provocative-science-holdings.png)
 
 
 ## History

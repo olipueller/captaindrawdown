@@ -21,7 +21,7 @@ liveliness: "🟠 Suspect"
 
 Applied Gaia Corporation is a pyrolysis CO2 removal business and technology manufacturer offering modular, scalable continuous pyrolysis technologies. Its B3 machine is a continuous-process unit with a 3:1 feedstock-to-biochar ratio that produces 80%+ carbon content biochar and CO2 Removal Certificates (CORCs). The company is based in Houston, Texas and sells equipment and engineering services rather than operating pyrolysis facilities directly.
 
-![Applied Gaia website](/screenshots/applied-gaia/2026-04-19.png)
+![Applied Gaia website](/screenshots/applied-gaia.png)
 
 
 ## History

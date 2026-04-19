@@ -21,7 +21,7 @@ liveliness: "🟢 Active"
 
 bionero GmbH is a small biochar producer based in Thurnau, Bavaria, founded in 2018. The company produces biochar via pyrolysis of organic residues and incorporates it into peat-free Terra Preta potting soils and garden substrates sold to consumers, retailers, and horticultural markets. As of late 2025 they are expanding with additional decentralized pyrolysis production sites.
 
-![bionero website](/screenshots/bionero/2026-04-19.png)
+![bionero website](/screenshots/bionero.png)
 
 
 ## History

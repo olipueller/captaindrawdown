@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Kalp Climate Tech (operating as Krishe Carbon) is a biochar-based carbon removal supplier that deploys decentralized, on-farm pyrolysis kilns to convert crop residue from smallholder farmers into durable biochar. The company uses geo-tagging, AI, and satellite monitoring for MRV, and routes a majority of carbon credit revenue back to farmer communities. It trains rural youth to operate kilns and connects smallholders to the global voluntary carbon market.
 
-![Kalp Climate Tech website](/screenshots/kalp-climate-tech/2026-04-19.png)
+![Kalp Climate Tech website](/screenshots/kalp-climate-tech.png)
 
 
 ## History

@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 enfinium is a leading UK energy-from-waste operator with six facilities across West Yorkshire, Kent and Flintshire, deploying carbon capture to generate durable removals from the biogenic fraction of waste. It is piloting CCS with Kanadevia Inova (at Parc Adfer, North Wales) and Nuada/MOF Technologies (at Ferrybridge-1) and has submitted a planning application (Nov 2025) for full-scale CCS at Parc Adfer (~235kt CO2/yr) plus a planned £800m Ferrybridge project targeting 1.2Mt CO2/yr including ~600kt of removals, with Isometric as carbon registry partner.
 
-![enfinium website](/screenshots/v1-thumbnails/enfinium.jpg)
+![enfinium website](/screenshots/enfinium.png)
 
 
 ## History

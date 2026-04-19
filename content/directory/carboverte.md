@@ -20,7 +20,7 @@ liveliness: "🟢 Active"
 
 CarboVerte GmbH is a small German biochar producer and trader based in Eibenstock, Saxony, founded in 2015. The company processes biomass into biochar and biochar-based soil amendments, feed additives and grilling products sold via its own webshop, Amazon and retail partners. It is primarily a consumer/agriculture retail business rather than a formal CDR credit supplier and is not listed on any CDR registry.
 
-![CarboVerte website](/screenshots/carboverte/2026-04-19.png)
+![CarboVerte website](/screenshots/carboverte.png)
 
 
 ## History

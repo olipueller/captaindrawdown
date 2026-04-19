@@ -21,7 +21,7 @@ liveliness: "🟠 Suspect"
 
 Removr is a Norwegian direct air capture company jointly owned by Vanir Green Industries and GreenCap Solutions, developing solid-sorbent (zeolite) DAC technology. The company is scaling from a pilot at Technology Centre Mongstad toward industrial-scale deployments, including participation in the RMI-led Ankeron Carbon Management Hub feasibility study in the Pacific Northwest, with ambitions for a 1-million-ton-per-year plant.
 
-![Removr website](/screenshots/v1-thumbnails/removr.jpg)
+![Removr website](/screenshots/removr.png)
 
 
 ## History

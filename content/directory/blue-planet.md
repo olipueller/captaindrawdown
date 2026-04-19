@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 Blue Planet Systems focuses on carbon capture technology within the construction materials industry. The company has a mineralization process that captures and sequesters CO2, converting it into synthetic limestone aggregate for use in building materials. These products aim to lower the carbon footprint of concrete and address global CO2 emissions. It was founded in 2013 and is based in Los Gatos, California. The company recently executed a Master Service Contract with Hargrove Engineers & Constructors to advance commercial production facility design and commissioning, as its Geomimetic mineralization approach sequesters and permanently stores CO2 in synthetic limestone.
 
-![Blue Planet website](/screenshots/blue-planet/2026-04-19.png)
+![Blue Planet website](/screenshots/blue-planet.png)
 
 
 ## History

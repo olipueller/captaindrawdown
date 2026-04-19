@@ -22,7 +22,7 @@ liveliness: "🟠 Suspect"
 
 C-Crete Technologies has developed an "activated rock" production process in which abundant, locally sourced, non-carbonate rocks are pulverized and used as a binder, doing away with Portland cement entirely, and already holds 10 patents related to the process. By February 2025 the company had surpassed 3,000 tonnes of near-zero-emissions Portland-cement-free concrete poured across commercial, government, and residential projects. Customers include JPMorgan Chase's 270 Park Avenue HQ, San Francisco International Airport, MnDOT's I-94, Costco, and data-center pilots.
 
-![C-Crete website](/screenshots/c-crete/2026-04-19.png)
+![C-Crete website](/screenshots/c-crete.png)
 
 
 ## History

@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Aemetis is a Cupertino, California-based renewable natural gas, renewable fuel and biochemicals company operating a dairy biogas digester network and a 65-million-gallon-per-year ethanol facility in the Central Valley. Its Aemetis Carbon Capture subsidiary is developing BECCS projects, having received the first CO2 sequestration characterization well permit issued by the State of California for its 24-acre Riverbank site, aimed at sequestering roughly 1 million+ metric tonnes per year of CO2 from its biogas, ethanol and planned SAF/renewable diesel operations.
 
-![Aemetis website](/screenshots/aemetis/2026-04-19.png)
+![Aemetis website](/screenshots/aemetis.png)
 
 
 ## History

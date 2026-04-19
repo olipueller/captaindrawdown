@@ -23,7 +23,7 @@ liveliness: "🟠 Suspect"
 
 Aperam BioEnergia is the Brazilian forestry and renewable-energy subsidiary of Luxembourg-based stainless-steel producer Aperam SA, operating ~156,000 hectares of FSC-certified eucalyptus plantations in Minas Gerais that historically supplied charcoal to Aperam's steel mills. Since 2022 it markets Puro.earth-certified biochar carbon removal credits, and as of mid-2025 ranked as the second-largest CDR supplier on the CDR.fyi leaderboard with ~121,000 tonnes sold and ~40,000 t/yr production capacity. The company announced a 20% expansion of its forestry area in 2025.
 
-![Aperam website](/screenshots/aperam/2026-04-19.png)
+![Aperam website](/screenshots/aperam.png)
 
 ## Registry Memberships
 

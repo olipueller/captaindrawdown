@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Carbon Collect is an Irish-headquartered DAC company (with a US subsidiary Carbon Collect Inc.) commercializing the MechanicalTree passive direct air capture technology, based on research from ASU's Center for Negative Carbon Emissions. In 2025 it was installing its Gen-II MechanicalTree at ASU's Tempe campus and is a partner on an $11.2M DOE-funded Southwest carbon capture hub. The company is preparing a Series A and targets sub-$200/ton capture costs at scale.
 
-![Carbon Collect website](/screenshots/v1-thumbnails/carbon-collect.jpg)
+![Carbon Collect website](/screenshots/carbon-collect.png)
 
 
 ## History

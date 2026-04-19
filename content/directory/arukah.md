@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Arukah is a Singapore-headquartered CDR project developer running Southeast Asia's largest biochar plant in Cambodia together with local partners, converting agricultural waste into durable carbon removal credits and biochar-based fertiliser. In March 2026 it became the first company to issue Puro.earth Biochar CORCs in Cambodia. Arukah shares 50% of gross carbon revenue with participating smallholder farmers and also develops biogas and digital MRV (CarbonCast) solutions.
 
-![Arukah website](/screenshots/arukah/2026-04-19.png)
+![Arukah website](/screenshots/arukah.png)
 
 
 ## History

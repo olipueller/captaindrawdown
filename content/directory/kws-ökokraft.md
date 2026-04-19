@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 KWS Ökokraft GmbH is a small Austrian energy company (founded 2017, HQ Ternitz, Lower Austria) that operates a SynCraft CW1200-400 wood-gas CHP plant commissioned in July 2020. The plant delivers ~400 kW electricity to the grid and ~600 kW heat to the local district-heating network, while co-producing EBC-certified biochar (~3.7 m³/day, sequestering roughly 1.8 t CO2/day) as a permanent carbon sink used for soil improvement.
 
-![KWS Ökokraft website](/screenshots/kws-ökokraft/2026-04-19.png)
+![KWS Ökokraft website](/screenshots/kws-ökokraft.png)
 
 
 ## History

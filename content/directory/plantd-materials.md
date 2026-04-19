@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Plantd is an Oxford, North Carolina-based company founded in 2021 that cultivates fast-growing perennial Arundo donax grass and manufactures it into carbon-negative structural building panels as drop-in replacements for OSB/plywood. The company sequesters atmospheric CO2 in the walls and roofs of new homes via long-lived building materials. It closed a $22M Series B in September 2025, bringing total funding to approximately $35.6M.
 
-![Plantd Materials website](/screenshots/plantd-materials/2026-04-19.png)
+![Plantd Materials website](/screenshots/plantd-materials.png)
 
 ## Registry Memberships
 

@@ -21,7 +21,7 @@ liveliness: "🟠 Suspect"
 
 Soletair Power is a Finnish DAC technology supplier (founded 2016, HQ Lappeenranta) that integrates carbon-capture modules into building HVAC systems, turning commercial buildings into distributed CO2 scrubbers. Recent deployments include Wärtsilä's Sustainable Technology Hub (Vaasa), ZBT in Duisburg (Germany), and Danica Pension's Europaplads building in Aarhus (Denmark); in December 2024 they delivered DAC CO2 to Carbonaide for carbon-negative concrete, and in 2025 they announced a Middle East/India partnership with Aarksee for microalgae-based sequestration.
 
-![Soletair Power website](/screenshots/v1-thumbnails/soletair-power.jpg)
+![Soletair Power website](/screenshots/soletair-power.png)
 
 
 ## History

@@ -20,7 +20,7 @@ liveliness: "🟡 Moderate"
 
 Valiidun is a Lexington, Kentucky-based direct air capture startup founded in 2022 by Seth Norat, aiming to develop large-scale DAC facilities powered by renewable energy using proven third-party capture technology. The company closed an angel round and hired a Chief Strategy Officer in 2022, but has shown no public activity, funding, or site announcements since then, with PitchBook listing only two employees.
 
-![Valiidun website](/screenshots/valiidun/2026-04-19.png)
+![Valiidun website](/screenshots/valiidun.png)
 
 
 ## History

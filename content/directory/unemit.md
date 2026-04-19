@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Unemit is a Berkeley, California-based Direct Air Capture startup backed by Breakthrough Energy Fellows. It is developing a modular, factory-assembled DAC contactor system that uses a chemical sorbent regenerated with low-temperature heat (compatible with concentrated solar or other renewables), with the aim of scaling to gigaton-level atmospheric CO2 removal.
 
-![Unemit website](/screenshots/v1-thumbnails/unemit.jpg)
+![Unemit website](/screenshots/unemit.png)
 
 ## Registry Memberships
 

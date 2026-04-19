@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Founded in 2022 and headquartered in Gilgil, Kenya, Pyrogen is developing its first-of-a-kind biochar-concrete facility in Africa, working with local communities to source invasive biomass species for biochar production. The company is a Puro.earth supplier developing biochar-based cement for affordable and sustainable housing in Kenya, including a pilot with CGAP (World Bank) and Habitat for Humanity. Pyrogen is the exclusive holder of IP for biochar use in concrete in Kenya and received a Terraset pre-purchase supporting its full-scale biochar-concrete plant.
 
-![Pyrogen website](/screenshots/pyrogen/2026-04-19.png)
+![Pyrogen website](/screenshots/pyrogen.png)
 
 
 ## History

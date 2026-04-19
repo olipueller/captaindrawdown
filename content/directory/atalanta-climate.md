@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Atalanta Climate is a Vancouver, BC-based startup building Ovi, an in-home/office direct air capture appliance that uses solid sorbent cartridges ("CapSuls") made from natural gypsum to capture indoor CO₂ and convert it into a solid mineral powder. The device doubles as an air purifier targeting indoor CO₂ health impacts, and the company publicly launched at New York Climate Week 2025. Co-founded by Sally Chen and Prof. Lucas Dong (Georgia Tech), with ion-exchange resin research collaboration with Lehigh University.
 
-![Atalanta Climate website](/screenshots/atalanta-climate/2026-04-19.png)
+![Atalanta Climate website](/screenshots/atalanta-climate.png)
 
 
 ## History

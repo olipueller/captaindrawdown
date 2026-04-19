@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 Seqana is a Berlin-based B2B startup providing satellite and machine-learning-based monitoring, reporting and verification (MRV) tools for soil organic carbon (SOC) in regenerative agriculture projects. They support project developers and agrifood companies with sampling design, precision modeling, and standards-compliant documentation (Verra VM0042, Gold Standard, GHG Protocol). They do not remove CO2 themselves but are a core MRV enabler in the soil-carbon CDR ecosystem.
 
-![Seqana website](/screenshots/seqana/2026-04-19.png)
+![Seqana website](/screenshots/seqana.png)
 
 ## Registry Memberships
 

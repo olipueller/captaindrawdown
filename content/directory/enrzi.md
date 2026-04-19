@@ -20,7 +20,7 @@ liveliness: "🟠 Suspect"
 
 Enrzi is an India-based biochar producer that converts biomass into carbon-rich material via pyrolysis for use as a soil amendment. The company has minimal public footprint — no registry-listed credits, a near-empty LinkedIn presence, no notable press coverage, and no search result presence for its name. Its website is live but external validation of operational scale is absent.
 
-![Enrzi website](/screenshots/v1-thumbnails/enrzi.jpg)
+![Enrzi website](/screenshots/enrzi.png)
 
 
 ## History

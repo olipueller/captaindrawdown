@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 International Carbon Registry (ICR) is an Iceland-based ISO-aligned GHG program and carbon credit registry platform that registers climate projects and issues, tracks, and retires carbon credits (including removals). It operates as a registry/standards body in the voluntary carbon market and does not itself remove CO2, nor operate a marketplace.
 
-![International Carbon Registry (ICR) website](/screenshots/international-carbon-registry-icr/2026-04-19.png)
+![International Carbon Registry (ICR) website](/screenshots/international-carbon-registry-icr.png)
 
 
 ## History

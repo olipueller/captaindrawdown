@@ -23,7 +23,7 @@ liveliness: "🟡 Moderate"
 
 Altitude is a Switzerland-based carbon removal financier that provides structured offtake and financing to CDR suppliers, primarily biochar developers, via its Ascent purchasing facility. Launched in February 2025, Ascent 1 was initially sized at 50,000 tonnes and expanded to 250,000 tonnes in September 2025, with commitments across Southeast Asia and West Africa biochar facilities certified under Puro.earth.
 
-![Altitude website](/screenshots/altitude/2026-04-19.png)
+![Altitude website](/screenshots/altitude.png)
 
 
 ## History

@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 Aquafin is Belgium's Flemish wastewater treatment utility, responsible for collecting and treating domestic wastewater across Flanders. The company is developing a full-scale biochar production unit at its RWZI Menen wastewater treatment site, integrating drying and pyrolysis of sewage sludge to produce biochar and achieve carbon removal. The project is developed in partnership with Ebema, D-CRBN, and Stadsbader Group, with financial backing from the Helios Foundation.
 
-![Aquafin website](/screenshots/aquafin/2026-04-19.png)
+![Aquafin website](/screenshots/aquafin.png)
 
 
 ## History

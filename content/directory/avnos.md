@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 Avnos is a Los Angeles-based Direct Air Capture company developing its proprietary Hybrid Direct Air Capture (HDAC) technology, which uses a moisture-swing sorbent to capture CO2 while co-producing clean water and eliminating the need for external heat input. The company operates a pilot in Bakersfield, CA, an R&D center in Bridgewater, NJ (Project Brighton), and in November 2025 announced Project Cedar, a commercial-scale facility funded by Shell and Mitsubishi Corporation targeting 3,000 tCO2/year by end of 2026.
 
-![Avnos website](/screenshots/v1-thumbnails/avnos.jpg)
+![Avnos website](/screenshots/avnos.png)
 
 
 ## History

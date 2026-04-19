@@ -20,7 +20,7 @@ liveliness: "🟢 Active"
 
 Gigafex helps palm oil mills turn EFB biomass into biochar and carbon removal credits using proprietary, patent-pending pyrolysis reactors purpose-built for EFB biomass that integrate into existing mill operations at industrial scale. The company is backed by F4 Fund and markets biochar as both a carbon removal product and a soil amendment for regenerative agriculture.
 
-![Gigafex website](/screenshots/gigafex/2026-04-19.png)
+![Gigafex website](/screenshots/gigafex.png)
 
 
 ## History

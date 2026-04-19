@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 MK Collect is an Australian direct air capture startup commercializing a nanocatalyst-enhanced liquid solvent process developed at the University of Melbourne by Prof. Kathryn Mumford's group. The company has announced a pilot plant partnership with the University of Melbourne and engineering firm Innaco, and targets DAC costs below $100/tonne before 2030. Capture is paired with mineralization to produce stable carbonate.
 
-![MK Collect website](/screenshots/v1-thumbnails/mk-collect.jpg)
+![MK Collect website](/screenshots/mk-collect.png)
 
 
 ## History

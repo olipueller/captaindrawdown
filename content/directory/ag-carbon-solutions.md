@@ -23,7 +23,7 @@ liveliness: "🟡 Moderate"
 
 Ag Carbon Solutions (ACS) is an Orlando, Florida small operator that buries silvicultural residuals and clean organic waste below the water table on agricultural land using their patented "Agricultural Production System" methodology (U.S. Patent 11,511,325). The process creates Permanent Agricultural Land (PAL) for grazing while sequestering carbon. It is a very small family-run operation at 5361 Young Pine Road run by CEO James Meade.
 
-![Ag Carbon Solutions website](/screenshots/ag-carbon-solutions/2026-04-19.png)
+![Ag Carbon Solutions website](/screenshots/ag-carbon-solutions.png)
 
 
 ## History

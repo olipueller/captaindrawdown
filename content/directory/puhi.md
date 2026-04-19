@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 PUHI is a Finland-based biochar producer operating its first pyrolysis plant at Industrial Park MORE in Hämeenlinna, with an environmental permit to process up to 20,000 tons of wood- and agriculture-based side streams annually into roughly 6,000 tons of biochar plus district heating and carbon removal credits. The company produced its first biochar in March 2024 and sells Biochar Carbon Removal (BCR) credits alongside soil-application products, with plans for additional sites in Finland and Sweden.
 
-![PUHI website](/screenshots/puhi/2026-04-19.png)
+![PUHI website](/screenshots/puhi.png)
 
 
 ## History

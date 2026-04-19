@@ -23,7 +23,7 @@ liveliness: "🟠 Suspect"
 
 Super Biochar is a South Norwalk, Connecticut-based climate-tech startup founded in 2025 that develops biochar-based soil remediation and carbon removal solutions. The company pairs AI-guided SuperChar™ biochar blends with independent soil diagnostics (via a partnership with Ward Laboratories) and a mobile platform that connects soil testing, biochar recommendations, and ordering, targeting brownfield remediation, farms, and turf in the Northeast.
 
-![Super Biochar website](/screenshots/super-biochar/2026-04-19.png)
+![Super Biochar website](/screenshots/super-biochar.png)
 
 
 ## History

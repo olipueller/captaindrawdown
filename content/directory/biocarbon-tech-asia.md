@@ -19,7 +19,7 @@ liveliness: "🟠 Suspect"
 
 Biocarbon Tech Asia is listed as a biochar supplier on Puro.earth with a planned production facility in Malaysia, targeting CORC 100+ durability credits. According to the Puro listing, the project is in early development with 0 CORCs issued and feasibility/implementation work still ongoing. There is no independent website, news coverage, or other public footprint for the company beyond the Puro supplier page.
 
-![Biocarbon Tech Asia website](/screenshots/v1-thumbnails/biocarbon-tech-asia.jpg)
+![Biocarbon Tech Asia website](/screenshots/biocarbon-tech-asia.png)
 
 
 ## History

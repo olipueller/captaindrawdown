@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 SCS GmbH is a Stuttgart-region German startup producing biochar from regional biomass (prunings, green waste, sawmill residues). After a 900 m² proof-of-concept site in Stuttgart-Obertürkheim starting December 2022, it scaled to a new continuous pyrolysis plant in Leinfelden producing 400 tonnes/year of European Biochar Certificate (EBC) certified biochar in 24/7 operation, supplying applications ranging from urban trees to vineyards.
 
-![SCS website](/screenshots/v1-thumbnails/scs.jpg)
+![SCS website](/screenshots/scs.png)
 
 
 ## History

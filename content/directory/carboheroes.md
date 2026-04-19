@@ -21,7 +21,7 @@ liveliness: "🟠 Suspect"
 
 CarboHeroes GmbH is a Berlin-based biochar project developer operating pyrolysis pilots in Costa Rica and Latin America using agricultural residues. The company is listed on Puro.earth as a biochar supplier (Costa Rica 1) and funds operations through CORC carbon-removal credits, with biochar incorporated into agricultural soils for co-benefits. It remains registered as economically active in the German commercial registry but its Puro project is still in early development with zero CORCs issued.
 
-![CarboHeroes website](/screenshots/v1-thumbnails/carboheroes.jpg)
+![CarboHeroes website](/screenshots/carboheroes.png)
 
 
 ## History

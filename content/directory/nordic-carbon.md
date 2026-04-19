@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 Nordic Carbon is a Danish biochar supplier whose team brings 20+ years of biomass industry experience in sourcing, logistics and commercialisation, focused on transforming underutilized biomass into high-quality biochar to create value through carbon sequestration, soil enhancement, and carbon credit generation. The company builds, installs, and commissions complete carbon removal facilities, provides operational support, training and MRV, and uses advanced pyrolysis to transform waste biomass into stable biochar. Distinct from the similarly named Nordic Carbon Removal Association (nordiccarbon.org), which is a non-profit trade association.
 
-![Nordic Carbon website](/screenshots/v1-thumbnails/nordic-carbon.jpg)
+![Nordic Carbon website](/screenshots/nordic-carbon.png)
 
 
 ## History

@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Giner, Inc. is a Newton, Massachusetts electrochemical R&D firm founded in 1973, with a broad portfolio covering fuel cells, electrolyzers, batteries, medical devices, and aerospace hardware. One R&D line is a DOE/ARPA-E-funded DAC prototype using a KOH air contactor paired with a hydrogen-assisted carbonate electrolyzer. DAC is a minor piece of their overall contract-research business, but they are developing removal technology directly.
 
-![Giner website](/screenshots/giner/2026-04-19.png)
+![Giner website](/screenshots/giner.png)
 
 
 ## History

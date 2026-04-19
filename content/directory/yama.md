@@ -21,7 +21,7 @@ liveliness: "🟢 Active"
 
 Yama is a Paris-based Direct Air Capture startup developing a hybrid electrochemical/thermal desorption technology using a proprietary non-toxic liquid sorbent with pH and temperature swing regeneration. The company operates a small pilot near Paris capturing about 25 tCO2/yr and is targeting first-of-a-kind commercial deployment near geological storage sites in Europe, the Nordics, Canada, or the Middle East.
 
-![Yama website](/screenshots/v1-thumbnails/yama.jpg)
+![Yama website](/screenshots/yama.png)
 
 ## Registry Memberships
 

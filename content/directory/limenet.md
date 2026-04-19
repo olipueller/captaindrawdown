@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 Limenet is an Italian climate tech company that operates an ocean alkalinity enhancement (OAE) facility in Augusta, Sicily, where it reacts CO₂ with hydrated lime and seawater to produce a calcium bicarbonate solution released to the ocean for long-duration storage. The company raised €7M in December 2025, received a Frontier prepurchase in 2025 for zero-carbon quicklime development, and issued its first blockchain-based OAE credits via Carbonmark Direct.
 
-![Limenet website](/screenshots/limenet/2026-04-19.png)
+![Limenet website](/screenshots/limenet.png)
 
 ## Registry Memberships
 

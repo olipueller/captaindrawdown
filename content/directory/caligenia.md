@@ -20,7 +20,7 @@ liveliness: "🟢 Active"
 
 Caligenia is an Argentine biotechnology startup producing "Bacterchar," a carbon-negative biofertilizer that combines biochar (made from organic waste) with plant-growth-promoting microorganisms (PGPM) to restore degraded soils. The company is building Argentina's first biochar production plant in Luján and has been publicly active through 2025, presenting at Aapresid 2025 and recruiting staff.
 
-![Caligenia website](/screenshots/caligenia/2026-04-19.png)
+![Caligenia website](/screenshots/caligenia.png)
 
 
 ## History

@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 CO₂Zero is an early-stage Rotterdam-based startup developing a modular, tech-agnostic Direct Air Capture integrator platform that combines multiple DAC technologies with power-to-heat and clean water co-production, targeting capture costs under €150/ton. The company went through the YES!Delft accelerator program and positions itself as an open-innovation DAC integrator.
 
-![CO2Zero website](/screenshots/v1-thumbnails/co2zero.jpg)
+![CO2Zero website](/screenshots/co2zero.png)
 
 
 ## History

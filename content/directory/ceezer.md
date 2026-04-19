@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 CEEZER is a Berlin-based B2B enterprise platform and marketplace connecting corporate carbon credit buyers with project developers across both removal and avoidance pathways. It provides risk assessment, MRV data integration, portfolio management tools, and runs the Carbon Coalition accelerator for CDR startups. It does not physically remove CO2 itself but is a core part of the CDR ecosystem as a marketplace/enabler.
 
-![Ceezer website](/screenshots/ceezer/2026-04-19.png)
+![Ceezer website](/screenshots/ceezer.png)
 
 ## Registry Memberships
 

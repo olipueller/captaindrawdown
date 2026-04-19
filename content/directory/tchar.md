@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 TCHAR (Guangtai Environmental Energy) is a Taiwanese biochar producer headquartered in the Central Taiwan Science Park, founded in 2020. It operates a German-built pyrolysis system ("Formosan Salamander") producing 800–1,000 kg of EBC-certified biochar daily from camphor tree pruning waste, with plans to add two additional 3 t/day machines. The company is registered on CDR.fyi and applies dMRV via Cula Technologies' monitoring platform.
 
-![TCHAR website](/screenshots/tchar/2026-04-19.png)
+![TCHAR website](/screenshots/tchar.png)
 
 
 ## History

@@ -20,7 +20,7 @@ liveliness: "🟡 Moderate"
 
 Jiaxing Tongao Environmental Technology is a Chinese biochar producer and pyrolysis equipment manufacturer based in Zhejiang province. It operates a biochar plant listed on the Puro.earth registry and supplies pyrolysis equipment for international biochar carbon removal projects, including an MOU signed in early 2026 with Stack Carbon and TerraCapX for Uganda's first large-scale biochar facility.
 
-![Jiaxing Tongao Environmental Technology website](/screenshots/jiaxing-tongao-environmental-technology/2026-04-19.png)
+![Jiaxing Tongao Environmental Technology website](/screenshots/jiaxing-tongao-environmental-technology.png)
 
 
 ## History

@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 Earthshot Labs is a tech-enabled nature-based carbon project developer based in Sebastopol, California, that supports land stewards in developing reforestation (ARR), REDD+, and improved forest management (IFM) projects worldwide. The company operates the LandOS platform for project feasibility, carbon modeling, and diligence, and raised a $5.5M Series A in 2024 led by Acorn Pacific Ventures. Its portfolio with partners like BirdLife International and Tree Aid covers over a million hectares.
 
-![Earthshot Labs website](/screenshots/v1-thumbnails/earthshot-labs.jpg)
+![Earthshot Labs website](/screenshots/earthshot-labs.png)
 
 ## Registry Memberships
 

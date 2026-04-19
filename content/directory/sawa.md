@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 SAWA EcoSolutions is a Singapore-based climate technology company with its Indonesian operating arm Legasi Alam Indonesia, founded in 2021, that produces biochar from agricultural residues like sugarcane bagasse and palm oil empty fruit bunches. Its first biochar facility in Majalengka, West Java became operational in April 2024 in partnership with PG Rajawali II sugar factory, and it is financed by a ~$50M carbon credit deal with Abu Dhabi-based Offset8 Capital. The company is listed on Puro.earth's Accelerate program and is expanding via franchise partners in Saudi Arabia and Taiwan.
 
-![SAWA website](/screenshots/v1-thumbnails/sawa.jpg)
+![SAWA website](/screenshots/sawa.png)
 
 
 ## History

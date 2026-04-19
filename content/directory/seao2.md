@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 SeaO2 is a Dutch TU Delft spin-off developing electrochemical Direct Ocean Capture (DOCC) technology that extracts CO2 from seawater using renewable electricity. The company validated its technology in the field in 2025 through a first pilot at the North Sea in the Netherlands and plans longer-term standalone operation in 2026 with a nameplate capacity to remove 25 tonnes of CO2 per year. In fall 2025 it launched DOCKER, a Dutch research collaboration under TKI Deltatechnologie with partners including Wageningen Marine Research, NIOZ, and the University of Exeter, to assess impacts and efficiency of scaled-up DOCC projects.
 
-![SeaO2 website](/screenshots/v1-thumbnails/seao2.jpg)
+![SeaO2 website](/screenshots/seao2.png)
 
 
 ## History

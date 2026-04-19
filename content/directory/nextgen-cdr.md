@@ -23,7 +23,7 @@ liveliness: "🟡 Moderate"
 
 NextGen CDR is a buyers' club and advance-market-commitment facility jointly established by South Pole and Mitsubishi Corporation to aggregate corporate demand for durable carbon removals at an average target price of $200/tonne. Founding buyers include Boston Consulting Group, LGT, Mitsui O.S.K. Lines, Swiss Re, UBS and Mizuho, and the facility has contracted offtakes across DAC, BiCRS, biochar, enhanced weathering and product mineralization.
 
-![NextGen CDR website](/screenshots/nextgen-cdr/2026-04-19.png)
+![NextGen CDR website](/screenshots/nextgen-cdr.png)
 
 
 ## History

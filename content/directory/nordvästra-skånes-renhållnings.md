@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Nordvästra Skånes Renhållnings AB (NSR) is a municipal waste-management company owned by six northwest Skåne municipalities (Bjuv, Båstad, Helsingborg, Höganäs, Åstorp, Ängelholm). At its Filborna site in Helsingborg it operates Sweden's largest biochar production facility, inaugurated in June 2022, converting residual urban garden waste into biochar via BioGreen pyrolysis while supplying district heat. NSR also hosts the Reco Park Biochar Competence Centre, funded in part by Bloomberg Philanthropies.
 
-![Nordvästra Skånes Renhållnings website](/screenshots/v1-thumbnails/nordv-stra-sk-nes-renh-llnings.jpg)
+![Nordvästra Skånes Renhållnings website](/screenshots/nordvästra-skånes-renhållnings.png)
 
 
 ## History

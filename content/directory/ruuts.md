@@ -23,7 +23,7 @@ liveliness: "🟡 Moderate"
 
 Ruuts is a South American regenerative agriculture platform that develops soil carbon sequestration projects with livestock farmers across Argentina, Paraguay, Uruguay, and Chile. It co-developed the SARA programme with Anthesis, achieving Verra VM0042 issuance, and operates an MRV app integrated with remote sensing to monitor ecological outcomes across ~150,000 hectares of rangeland.
 
-![Ruuts website](/screenshots/ruuts/2026-04-19.png)
+![Ruuts website](/screenshots/ruuts.png)
 
 
 ## History

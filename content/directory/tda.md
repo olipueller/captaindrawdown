@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 TDA Research, Inc. is a Wheat Ridge, Colorado-based contract R&D company founded in 1987 that develops catalysts, sorbents, and advanced materials, primarily under U.S. government contracts. Within CDR, TDA develops sorbent-based CO2 capture technology, including a DOE-funded Direct Air Capture and methanol utilization conceptual design (DE-FE0032400) and a pilot sorbent-based post-combustion capture project at the Wyoming Integrated Test Center with SLB, under a DOE award of up to $49 million.
 
-![TDA website](/screenshots/tda/2026-04-19.png)
+![TDA website](/screenshots/tda.png)
 
 
 ## History

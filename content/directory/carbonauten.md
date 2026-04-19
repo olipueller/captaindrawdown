@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Carbonauten GmbH is a German cleantech company (founded 2017, HQ in Giengen an der Brenz) that produces biochar and bio-oils via proprietary modular pyrolysis at its "Minus CO2 Factory 001" in Eberswalde (~3,000 t/yr biochar). A second, much larger facility is under construction in Chibi, Hubei Province, China, targeting ~30,000 t biochar/yr from waste bamboo. The biochar is embedded into NET Materials® (plastic compounds, building materials, agricultural inputs) with industrial partners including Arburg, Deutsche Bahn, VW, Mercedes-Benz and Siemens.
 
-![Carbonauten website](/screenshots/v1-thumbnails/carbonauten.jpg)
+![Carbonauten website](/screenshots/carbonauten.png)
 
 
 ## History

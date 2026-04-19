@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Skytree is a Dutch direct air capture technology company founded in 2014, headquartered in Amsterdam with offices in Toronto and Nashville. It builds modular solid-sorbent DAC machines (Cumulus and Stratus product lines) for both CO₂ utilization (greenhouses, beverages, e-fuels) and permanent carbon removal, including a planned DAC park in Texas with EDF Renewables and Return Carbon. The company manufactures units via a partnership with Scanfil in Finland and Atlanta, and had recent activity in 2025-2026 including funding, partnerships, and a Power-to-X project with Forschungszentrum Jülich.
 
-![Skytree website](/screenshots/v1-thumbnails/skytree.jpg)
+![Skytree website](/screenshots/skytree.png)
 
 ## Registry Memberships
 

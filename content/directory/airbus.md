@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Airbus, through its Defence and Space division, has commercialized a modular Direct Air Capture unit derived from life-support systems used aboard the International Space Station. In November 2025, Airbus delivered and launched operations of a 250 ton/year DAC unit at Deep Sky Alpha in Innisfail, Alberta — its first operational field deployment. The system uses a solid amine-based sorbent with temperature-swing regeneration and an energy-recovery design.
 
-![Airbus website](/screenshots/airbus/2026-04-19.png)
+![Airbus website](/screenshots/airbus.png)
 
 
 ## History

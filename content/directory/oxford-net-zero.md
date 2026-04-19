@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 Oxford Net Zero is an interdisciplinary research initiative based at the University of Oxford, launched in 2021, that produces peer-reviewed research, principles and policy guidance on reaching net zero, including Carbon Dioxide Removal. It is best known for the Oxford Principles for Net Zero Aligned Carbon Offsetting and for co-hosting the Net Zero Tracker. It does not physically remove CO2 but is a key academic/standards actor in the CDR ecosystem.
 
-![Oxford Net Zero website](/screenshots/oxford-net-zero/2026-04-19.png)
+![Oxford Net Zero website](/screenshots/oxford-net-zero.png)
 
 
 ## History

@@ -25,7 +25,7 @@ liveliness: "🟢 Active"
 
 Syncraft is an Austrian high-tech company based in Schwaz, Tyrol that produces electricity, heat and biochar from wood using its self-developed patented floating fixed-bed gasification technology. Syncraft has deployed over 45 such systems, with several additional powerplants currently being built, including one in Waiern, Austria. Its "Reverse power plants" generate renewable energy while sequestering carbon as biochar for long-term storage in construction materials, metallurgy, and soil.
 
-![Syncraft website](/screenshots/syncraft/2026-04-19.png)
+![Syncraft website](/screenshots/syncraft.png)
 
 ## Registry Memberships
 

@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Reverion is a German BECCS company spun out of the Technical University of Munich in 2022 that builds reversible solid oxide fuel cell power plants. Its systems convert biogas (methane + CO2) into clean electricity at 74% efficiency while producing a pure CO2 stream that is liquefied and permanently stored in geological formations. In November 2025 it signed a $41M offtake with Frontier buyers (Google, Stripe, Shopify, H&M, McKinsey, and others) for 96,000 tons of permanent CO2 removal between 2027-2030.
 
-![Reverion website](/screenshots/v1-thumbnails/reverion.jpg)
+![Reverion website](/screenshots/reverion.png)
 
 ## Registry Memberships
 

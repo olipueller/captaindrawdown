@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 Evero Energy Group Limited (previously known as Bioenergy Infrastructure Group) is a UK low-carbon waste-to-energy company partnering with Mitsubishi Heavy Industries to deliver its InBECCS (Ince Bioenergy with Carbon Capture and Storage) project. The company operates waste-wood biomass plants in North-West England and plans to retrofit them with MHI's amine carbon capture technology, linking to the HyNet CO2 transport and storage network. InBECCS, located at Ince BioPower in Cheshire, has the capability to capture and permanently store up to 217,000 tonnes of biogenic CO₂ each year in geological storage via the HyNet North West network, and is currently the first and only UK BECCS project included in Puro.earth's Future Facility program.
 
-![Evero Energy website](/screenshots/evero-energy/2026-04-19.png)
+![Evero Energy website](/screenshots/evero-energy.png)
 
 
 ## History

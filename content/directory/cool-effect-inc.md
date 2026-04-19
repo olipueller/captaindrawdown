@@ -23,7 +23,7 @@ liveliness: "🟡 Moderate"
 
 Cool Effect is a US-based 501(c)(3) nonprofit carbon credit marketplace headquartered in Greenbrae, California. The platform curates and sells vetted carbon credits from third-party projects worldwide — including biochar, forest, soil carbon, cookstove, and renewable energy projects — to individuals and businesses seeking to offset emissions. It is an ecosystem player (retailer/marketplace), not a direct CDR supplier.
 
-![Cool Effect Inc website](/screenshots/cool-effect-inc/2026-04-19.png)
+![Cool Effect Inc website](/screenshots/cool-effect-inc.png)
 
 
 ## History

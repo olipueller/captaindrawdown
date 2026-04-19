@@ -21,7 +21,7 @@ liveliness: "🟢 Active"
 
 eoc energy ocean GmbH is a Lucerne-based Swiss company that produces and sells EBC-certified biochar ("Swiss Pflanzenkohle") from regional forestry wood via pyrolysis at its plant in Luthern, LU, with waste heat used for district heating. The firm received the Albert Koechlin Foundation Environment Award in 2024 and markets its products to agriculture and animal husbandry sectors.
 
-![eoc energy ocean website](/screenshots/v1-thumbnails/eoc-energy-ocean.jpg)
+![eoc energy ocean website](/screenshots/eoc-energy-ocean.png)
 
 
 ## History

@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Biocare Projects is a Sydney-based biochar CDR project developer that identifies, sources, finances, and engineers pyrolysis-based biochar projects globally. Its flagship engagement is the Kangaroo Island project with Kiland/Re-Vi (converting bushfire-damaged timber into biochar), and it has since launched additional initiatives in Vietnam's Mekong Delta, Argentina, Peru, and South Australia processing agri-residues and forestry waste. The company provides end-to-end services including engineering, registry compliance, financing, and CDR credit sales.
 
-![Biocare website](/screenshots/biocare/2026-04-19.png)
+![Biocare website](/screenshots/biocare.png)
 
 ## Registry Memberships
 

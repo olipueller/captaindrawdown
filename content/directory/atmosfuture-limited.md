@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Atmosfuture Limited is a UK early-stage startup developing REVFRACC, a patented cryogenic DAC technology that super-cools atmospheric air to liquefy and separate CO2 while co-producing clean power for data centres and other energy-intensive industries. The company was selected for Remove's Europe CDR accelerator in early 2025 and is pursuing pilot and demonstration projects, though it remains very small (single-digit headcount on LinkedIn) and pre-commercial.
 
-![Atmosfuture Limited website](/screenshots/atmosfuture-limited/2026-04-19.png)
+![Atmosfuture Limited website](/screenshots/atmosfuture-limited.png)
 
 
 ## History

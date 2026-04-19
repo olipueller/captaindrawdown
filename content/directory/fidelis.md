@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Fidelis (Fidelis New Energy, LLC) is a Houston-based energy infrastructure developer whose portfolio company AtmosClear is building an $800M BECCS facility at the Port of Greater Baton Rouge, Louisiana, designed to capture 680,000 tonnes of biogenic CO2 per year starting in 2029. In April 2025 AtmosClear signed a 15-year, 6.75M-tonne CDR offtake with Microsoft — the world's largest permanent carbon removal contract at the time — and in September 2025 selected ExxonMobil as its CO2 transportation and storage partner. Fidelis also operates offices in Copenhagen and develops related biofuels/SAF and hydrogen infrastructure.
 
-![Fidelis website](/screenshots/fidelis/2026-04-19.png)
+![Fidelis website](/screenshots/fidelis.png)
 
 
 ## History

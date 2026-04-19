@@ -21,7 +21,7 @@ liveliness: "🟡 Moderate"
 
 MicroCHAR is marketed by BIOUHEL.CZ s.r.o. as the first fertiliser that removes carbon using the PyCCS method, with a 2025 copyright on the site. Development of MicroCHAR® began in fall 2020 and ended in fall 2021 as corporate research of AIVOTEC s.r.o. and BIOUHEL.CZ, with a patent application submitted 22.12.2021. BIOUHEL.CZ was founded in 2013 to develop biochar production and use as a sustainability tool, based on a biochar production solution at an agricultural biogas plant that won the Czech Innovation 2013 award.
 
-![agriCARBON/MicroCHAR website](/screenshots/agricarbonmicrochar/2026-04-19.png)
+![agriCARBON/MicroCHAR website](/screenshots/agricarbonmicrochar.png)
 
 
 ## History

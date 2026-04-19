@@ -20,7 +20,7 @@ liveliness: "🟢 Active"
 
 PyroNam is the Namibian subsidiary of German PyroCCS GmbH, producing biochar from FSC-certified encroaching bush biomass at its industrial plant in the Otjozondjupa region near Otjiwarongo. The company partners with atmosfair and sells EBC-certified carbon credits on the voluntary market, with plans to scale to 50 plants across Namibia by 2030.
 
-![Pyronam website](/screenshots/pyronam/2026-04-19.png)
+![Pyronam website](/screenshots/pyronam.png)
 
 
 ## History

@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Klimafarmer GmbH is a German biochar company based in Nierstein, Rhineland-Palatinate, founded by Ron Richter and registered in 2020. It produces and sells EBC-certified biochar (marketed as "Klimakohle"/"Carbon-Sink"), Terra Preta soils, substrates and organic fertilizers for agriculture, viticulture, horticulture and urban greening projects, including vineyard-cane carbonization ("Klimawinzer") and Tiny Forest soil preparation.
 
-![Klimafarmer website](/screenshots/klimafarmer/2026-04-19.png)
+![Klimafarmer website](/screenshots/klimafarmer.png)
 
 
 ## History

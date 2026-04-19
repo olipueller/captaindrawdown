@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Zero Carbon Systems is a US-based direct air capture company that acquired pioneer Global Thermostat in May 2024, combining Global Thermostat's solid-sorbent DAC technology with Zero Carbon Systems' engineering design for large-scale units. The company has articulated a roadmap from a 2,500-ton/year demonstration plant in 2025-2026 to a 50,000-ton commercial plant and a million-ton-scale plant by 2030, and its subsidiary Global Thermostat was selected as technology provider for two DOE CDR Purchase Pilot Prize Phase 1 awards.
 
-![Zero Carbon Systems website](/screenshots/v1-thumbnails/zero-carbon-systems.jpg)
+![Zero Carbon Systems website](/screenshots/zero-carbon-systems.png)
 
 ## Registry Memberships
 

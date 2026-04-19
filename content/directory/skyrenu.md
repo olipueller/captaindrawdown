@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Skyrenu Technologies is a Quebec-based DAC company spun out of the Université de Sherbrooke after winning the 2021 XPRIZE Carbon Removal student competition. It designs and manufactures modular solid-sorbent DAC units (~50 t/yr class, scaling to 125 t/yr Bellevue units) with captured CO2 either mineralized in asbestos-mine tailings, stored in carbon-negative concrete via partner CarbiCrete, or injected into deep geological storage with Deep Sky. The company has ~15 FTEs, closed a pre-seed round in June 2025, and in August 2025 achieved North America's first permanent storage of DAC-captured CO2 at Deep Sky Alpha in Alberta.
 
-![Skyrenu website](/screenshots/v1-thumbnails/skyrenu.jpg)
+![Skyrenu website](/screenshots/skyrenu.png)
 
 
 ## History

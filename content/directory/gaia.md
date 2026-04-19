@@ -21,7 +21,7 @@ liveliness: "🟠 Suspect"
 
 Gaia is a Danish joint venture between Copenhagen Infrastructure Partners (majority, via its Energy Transition Fund) and waste-to-energy operator Vestforbrænding, developing a full-scale carbon capture retrofit at the Glostrup incineration facility. The project targets up to 500,000 tonnes of CO₂ captured annually starting 2029, with the biogenic portion sold as carbon removal credits — including a landmark 2.95 Mt offtake to Microsoft.
 
-![Gaia website](/screenshots/gaia/2026-04-19.png)
+![Gaia website](/screenshots/gaia.png)
 
 
 ## History

@@ -22,7 +22,7 @@ liveliness: "🟠 Suspect"
 
 Banyu Carbon is a Seattle-based ocean CDR startup spun out of the University of Washington in 2022 by chemical oceanographers Alex Gagnon and Julian Sachs. It is developing a sunlight-driven process using reversible photoacids to release CO2 from seawater, and has raised a $6.5M seed round from Grantham Foundation, Propeller, United Airlines Ventures, Carbon Removal Partners and ReGen Ventures, plus a Frontier pre-purchase from Stripe, Shopify and H&M.
 
-![Banyu Carbon website](/screenshots/v1-thumbnails/banyu-carbon.jpg)
+![Banyu Carbon website](/screenshots/banyu-carbon.png)
 
 
 ## History

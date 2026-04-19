@@ -20,7 +20,7 @@ liveliness: "🟢 Active"
 
 Verora GmbH/AG is a Swiss cooperative of farmers in the Zug canton that has operated a PYREG pyrolysis facility in Neuheim since 2012, producing EBC-certified biochar (Pflanzenkohle) from tree and shrub cuttings alongside humus compost and Terra Preta products. The company won the Swiss federal Watt d'Or 2022 energy prize for its biochar pioneering work, and sells biochar with CO2 sink performance transferred in the price via multiple retail channels.
 
-![Verora website](/screenshots/v1-thumbnails/verora.jpg)
+![Verora website](/screenshots/verora.png)
 
 
 ## History

@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Carbon Impact is a French carbon removal project developer focused on BECCS at biomethane production units. It is leading the first French BECCS-on-biomethane project near Nancy (partnering with South Pole and Airfix, targeting ~10,000 tCO2/yr from 2026) and co-developed a large BECCS project in Switzerland financed by the Climate Cent Foundation. In 2025 it was selected, with Eosys and the University of Lorraine, as a laureate of GRDF's bioCO2 call for projects to study geological storage in the Grand Est region.
 
-![Carbon Impact website](/screenshots/v1-thumbnails/carbon-impact.jpg)
+![Carbon Impact website](/screenshots/carbon-impact.png)
 
 
 ## History

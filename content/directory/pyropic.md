@@ -20,7 +20,7 @@ liveliness: "🟡 Moderate"
 
 Pyropic designs and builds turn-key pyrolysis systems that convert agricultural residues into biochar for durable carbon dioxide removal. The company positions its technology as a way for agricultural operators to reduce hauling/spreading costs while improving soil health and generating CDR-grade biochar.
 
-![Pyropic website](/screenshots/pyropic/2026-04-19.png)
+![Pyropic website](/screenshots/pyropic.png)
 
 
 ## History

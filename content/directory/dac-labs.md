@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Dac Labs (Dac Laboratories) is a University of Sydney spinout developing a scalable, low-cost electrochemical direct air capture process using earth-abundant materials. Founded by Dr Sam Wenger based on his chemistry PhD, the company has published peer-reviewed work on aqueous electrochemical DAC and secured pre-seed funding from the University of Sydney's Pre-Seed Launch Fund, with a roadmap toward a 10-tonne/year demo and eventual megatonne-scale deployment.
 
-![DAC Labs website](/screenshots/v1-thumbnails/dac-labs.jpg)
+![DAC Labs website](/screenshots/dac-labs.png)
 
 
 ## History

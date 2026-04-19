@@ -23,7 +23,7 @@ liveliness: "🟡 Moderate"
 
 Meva Energy is a Swedish cleantech company (founded 2008, HQ Gothenburg) that builds modular biomass gasification plants converting wood and agricultural residues into industrial-grade biosyngas for manufacturers, with biochar as a carbon-negative by-product. In October 2025 the EIB announced €40M in venture debt to scale plants for Sofidel (Sweden), IKEA (Poland), and a fossil-free copper smelter for Elcowire.
 
-![Meva Energy website](/screenshots/meva-energy/2026-04-19.png)
+![Meva Energy website](/screenshots/meva-energy.png)
 
 
 ## History

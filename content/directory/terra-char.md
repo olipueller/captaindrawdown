@@ -20,7 +20,7 @@ liveliness: "🟡 Moderate"
 
 Terra Char is a brand of BioEnergy Innovations Global, Inc., a Columbia, Missouri biochar producer that has marketed biochar since 2009. The company sells biochar in buckets, super totes, and bulk semi-loads for soil amendment, carbon sink projects, and related applications, and collaborates with the University of Missouri on biochar research.
 
-![Terra Char website](/screenshots/terra-char/2026-04-19.png)
+![Terra Char website](/screenshots/terra-char.png)
 
 
 ## History

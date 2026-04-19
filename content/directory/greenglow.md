@@ -21,7 +21,7 @@ liveliness: "🟢 Active"
 
 GreenGlow is a Malaysia-based biochar producer operating carbon hubs across Southeast Asia that convert agricultural waste and forestry residues into biochar via pyrolysis. In September 2025 the company signed a 50,000+ ton CORC offtake agreement with Swiss CDR financier Altitude, with credits verified through the Puro.earth registry.
 
-![GreenGlow website](/screenshots/greenglow/2026-04-19.png)
+![GreenGlow website](/screenshots/greenglow.png)
 
 
 ## History

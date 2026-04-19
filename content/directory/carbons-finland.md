@@ -20,7 +20,7 @@ liveliness: "🟡 Moderate"
 
 Carbons Finland Oy (formerly Pajupojat Oy) is a small biochar producer based in Kouvola, Finland, founded in 2014 and focused on willow-based porous biochar for stormwater treatment, landscaping, composting, nutrient recycling and organic farming. Products are sold under the Carbons brand through an online shop, and the company is listed on the Puro.earth biochar registry. It is a micro-enterprise (~1 employee, ~€324k revenue in 2023) but remains registered as active in Finnish company records.
 
-![Carbons Finland website](/screenshots/v1-thumbnails/carbons-finland.jpg)
+![Carbons Finland website](/screenshots/carbons-finland.png)
 
 ## Registry Memberships
 

@@ -23,7 +23,7 @@ liveliness: "🟡 Moderate"
 
 The U.S. Biochar Coalition (USBC) is a Washington, DC-based industry trade association founded in May 2023 that advocates for legislative, policy, and regulatory action to expand biochar markets in the United States. It unifies biochar producers, agriculture, forestry, and carbon removal stakeholders, and is managed by SMART Policy Group. USBC is not itself a biochar producer but an advocacy/ecosystem body supporting the biochar CDR industry.
 
-![US Biochar Coalition (USBC) website](/screenshots/us-biochar-coalition-usbc/2026-04-19.png)
+![US Biochar Coalition (USBC) website](/screenshots/us-biochar-coalition-usbc.png)
 
 
 ## History

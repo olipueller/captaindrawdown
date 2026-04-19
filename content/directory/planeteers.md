@@ -25,7 +25,7 @@ liveliness: "🟢 Active"
 
 Planeteers GmbH is a Hamburg-based climate-tech company founded in December 2022 that develops reactor-based ocean alkalinity enhancement technology. Its patented HCM (Hydrated Carbonate Minerals) process captures CO2 from point sources such as wastewater treatment plants and reacts it with limestone to produce bicarbonate and ikaite, which are then released into marine environments to increase ocean alkalinity and lock away carbon. The company closed a seed round in July 2024 (BonVenture, Smart Energy Innovationsfonds, ClimaNow) and is scaling pilots across Germany with an upcoming deployment in Switzerland.
 
-![Planeteers website](/screenshots/planeteers/2026-04-19.png)
+![Planeteers website](/screenshots/planeteers.png)
 
 ## Registry Memberships
 

@@ -22,7 +22,7 @@ liveliness: "🟠 Suspect"
 
 Grassroots Biochar AB is a small Swedish biochar producer based on Öland/Kalmar that makes and refines biochar products for agricultural, horticultural and soil-management uses. The company uses the Kon-Tiki method and focuses on the Swedish agricultural and gardening market, without listed carbon-sink registry certifications.
 
-![Grassroots Biochar website](/screenshots/grassroots-biochar/2026-04-19.png)
+![Grassroots Biochar website](/screenshots/grassroots-biochar.png)
 
 
 ## History

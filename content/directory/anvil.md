@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Anvil Capture Systems is a US-based (Somerville, MA) carbon dioxide removal startup developing direct-air mineralization using alkaline-bearing ores in a proprietary low-energy reactor. The company received a Frontier prepurchase in Fall 2024 (~$500K) and was named a MassCEC climatetech grant awardee in 2025, and is a Greentown Labs member.
 
-![Anvil website](/screenshots/anvil/2026-04-19.png)
+![Anvil website](/screenshots/anvil.png)
 
 
 ## History

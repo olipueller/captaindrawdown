@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Anglo American is a global mining major that has partnered with Isometric and ZeroEx to issue Enhanced Weathering credits from Project Earthstone in Brazil, which uses mining by-products as feedstock. The project uses smelter slag from its Barro Alto and Codemin ferronickel operations in Goiás state, Brazil, as a magnesium-rich mineral fertiliser on agricultural land. Project Earthstone is located close to agricultural land and already has stockpiles of fast-weathering EW feedstock with the potential to remove up to 15 million tonnes of CO2 from the atmosphere.
 
-![Anglo American website](/screenshots/anglo-american/2026-04-19.png)
+![Anglo American website](/screenshots/anglo-american.png)
 
 
 ## History

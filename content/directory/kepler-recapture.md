@@ -23,7 +23,7 @@ liveliness: "🟡 Moderate"
 
 Kepler ReCapture is a division of Austin, Texas-based aerospace consulting firm Kepler Shipyards, founded in 2021 as an XPRIZE Carbon Removal entrant. The company is designing conceptual autonomous deep-water spar platforms that would combine OTEC-powered desalination with ocean and atmospheric CO2 removal, producing freshwater and durable carbon-containing co-products. The work remains at the artist-rendering/pre-deployment stage with no operational systems, deliveries, or registry credits reported.
 
-![Kepler ReCapture website](/screenshots/kepler-recapture/2026-04-19.png)
+![Kepler ReCapture website](/screenshots/kepler-recapture.png)
 
 
 ## History

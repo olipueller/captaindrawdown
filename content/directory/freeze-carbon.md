@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 Freeze Carbon is a Frankfurt, Germany-based online marketplace for carbon credits, founded in 2023 by Thorsten Ratzlaff and Florian Haubner. The platform curates and quality-screens carbon projects (including CDR pathways) and connects corporate buyers with project developers globally, rather than physically removing CO2 itself.
 
-![Freeze Carbon website](/screenshots/freeze-carbon/2026-04-19.png)
+![Freeze Carbon website](/screenshots/freeze-carbon.png)
 
 
 ## History

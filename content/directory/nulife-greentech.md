@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 NULIFE GreenTech is a Saskatoon-based clean-tech company founded in 2016 that uses patented Hydrothermal Liquefaction (HTL) technology to transform food processing waste and agricultural residues into bio-oil for carbon removal. The bio-oil and biochar are transported via trucks to salt cavern storage sites where they are injected for long-term underground storage at a depth of 1,000 meters. In December 2025, Frontier buyers including Google and Stripe agreed to invest $44.2 million for the removal of 122,000 tons of CO2 between 2026 and 2030.
 
-![NULIFE GreenTech website](/screenshots/v1-thumbnails/nulife-greentech.jpg)
+![NULIFE GreenTech website](/screenshots/nulife-greentech.png)
 
 ## Registry Memberships
 

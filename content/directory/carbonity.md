@@ -20,7 +20,7 @@ liveliness: "🟡 Moderate"
 
 Carbonity is a joint venture equally owned by Airex Energy, Groupe Rémabec, and SUEZ, located in Port-Cartier, Québec, that produces carbon-rich biochar from approximately 58,000 tonnes of forest residues from Groupe Rémabec's operations annually. The plant was inaugurated on May 22, 2025 with an initial annual production capacity of 10,000 tonnes of biochar, expected to triple by 2026 to become the largest biochar facility in North America. Microsoft selected the project to purchase 36,000 carbon credits over three years.
 
-![Carbonity website](/screenshots/v1-thumbnails/carbonity.jpg)
+![Carbonity website](/screenshots/carbonity.png)
 
 
 ## History

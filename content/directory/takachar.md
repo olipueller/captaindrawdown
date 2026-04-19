@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Takachar is an MIT-spinoff social enterprise developing small-scale, portable biomass thermochemical conversion units (the Takavator and larger T1000) that produce biochar from crop and forest residues in rural, often off-grid settings. The company commercially launched the Takavator in October 2025 and has deployed units across the US, Canada, India, Kenya and Iraq, with carbon credits sold through the Milkywire Climate Transformation Fund. It is a 2021 Earthshot Prize winner and XPRIZE Carbon Removal finalist.
 
-![Takachar website](/screenshots/takachar/2026-04-19.png)
+![Takachar website](/screenshots/takachar.png)
 
 ## Registry Memberships
 

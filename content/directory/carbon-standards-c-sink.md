@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Carbon Standards International develops reliable solutions for the production of certified biochar and for delivering credible climate services, with innovative standards designed for global application. The company is headquartered in Switzerland. It owns the European Biochar Certificate (EBC), World Biochar Certificate (WBC), Global Biochar C-Sink, Global Artisan C-Sink, and related standards, and runs the Global C-Sink Registry where certified sinks are registered and traded.
 
-![Carbon Standards (C-Sink) website](/screenshots/carbon-standards-c-sink/2026-04-19.png)
+![Carbon Standards (C-Sink) website](/screenshots/carbon-standards-c-sink.png)
 
 
 ## History

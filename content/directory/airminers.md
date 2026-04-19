@@ -20,7 +20,7 @@ liveliness: "🟡 Moderate"
 
 AirMiners is a community, education, and accelerator organization for the carbon dioxide removal sector. It runs the free BootUp learning cohort and the Launchpad accelerator for early-stage CDR founders, and convenes a Slack community of CDR entrepreneurs, scientists, and investors. It does not itself remove CO2 but is a central ecosystem hub for the industry.
 
-![AirMiners website](/screenshots/airminers/2026-04-19.png)
+![AirMiners website](/screenshots/airminers.png)
 
 
 ## History

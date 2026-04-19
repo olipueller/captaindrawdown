@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Solid Carbon is a Canadian research project led by Ocean Networks Canada (a University of Victoria initiative) developing an integrated offshore CDR system combining Direct Air Capture on floating platforms with injection of CO2 into sub-seafloor ocean basalt off British Columbia for permanent mineralization. In March 2025 the project was awarded CA$24M over six years through the Government of Canada's New Frontiers in Research Fund (NFRF) Transformation stream to advance a field demonstration at the Cascadia Basin. The international team includes researchers from UVic, UBC, Columbia University and industry partners.
 
-![Solid Carbon website](/screenshots/v1-thumbnails/solid-carbon.jpg)
+![Solid Carbon website](/screenshots/solid-carbon.png)
 
 
 ## History

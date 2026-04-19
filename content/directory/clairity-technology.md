@@ -23,7 +23,7 @@ liveliness: "🟠 Suspect"
 
 Clairity Technology is a Los Angeles-based direct air capture startup founded in 2022 by former SpaceX engineer Glen Meyerowitz. The company uses low-cost alkali carbonate sorbents on ceramic honeycomb monoliths to capture atmospheric CO2, then permanently sequesters it via ex-situ mineralization into carbonated materials. Its pilot, Project Juniper in Southern Nevada, is sized at 100 tCO2/yr and is undergoing validation by Isometric, expected to produce the first independently verified DAC credits in North America.
 
-![Clairity Technology website](/screenshots/clairity-technology/2026-04-19.png)
+![Clairity Technology website](/screenshots/clairity-technology.png)
 
 
 ## History

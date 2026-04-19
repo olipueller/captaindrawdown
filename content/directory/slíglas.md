@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Slíglas is an Irish biochar startup based in Sligo that transforms residual forestry and woody biomass into biochar for carbon dioxide removal. Founded in 2024 by Paul McGoldrick and Sadhbh McCarrick, the company applies biochar to agricultural soils and has a project listed on the Rainbow Standard registry.
 
-![Slíglas website](/screenshots/v1-thumbnails/sl-glas.jpg)
+![Slíglas website](/screenshots/slíglas.png)
 
 
 ## History

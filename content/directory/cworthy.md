@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 [C]Worthy is a nonprofit research and development organization focused on delivering the core computational technologies needed to support quantitative assessments of ocean-based carbon dioxide removal. They build open-source software, conduct basic research on the efficacy of ocean-based CDR technologies, create and curate publicly available datasets, and promote scientific standards for evaluating the safety and effectiveness of ocean-based CDR activities. The organization operates as a Focused Research Organization in partnership with Convergent Research. Its flagship product is C-Star, an open-source MRV modeling platform for marine CDR.
 
-![[C]Worthy website](/screenshots/cworthy/2026-04-19.png)
+![[C]Worthy website](/screenshots/cworthy.png)
 
 ## Registry Memberships
 

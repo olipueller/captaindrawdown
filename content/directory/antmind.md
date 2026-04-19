@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 AntMind is a Canadian startup developing a biomass gasification platform that converts forestry wood waste into hydrogen fuel while capturing CO2 for sequestration and producing biochar as a stable carbon byproduct. The company is currently designing a pilot facility to process waste from a single sawmill, targeting roughly 20 tons of hydrogen per day, and its business model spans technology licensing, modular plant construction, and on-site compute operations.
 
-![AntMind website](/screenshots/antmind/2026-04-19.png)
+![AntMind website](/screenshots/antmind.png)
 
 
 ## History

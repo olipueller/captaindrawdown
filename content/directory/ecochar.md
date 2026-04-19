@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 EcoChar is a small France-based company developing agroforestry and regenerative agriculture projects that produce biochar and green charcoal briquettes through pyrolysis of biomass waste. They position biochar as both an agricultural bio-stimulant and a carbon sink for soil regeneration. The firm appears very small (~3 employees) with no registry listings and limited public signals, though its website remains live.
 
-![EcoChar website](/screenshots/v1-thumbnails/ecochar.jpg)
+![EcoChar website](/screenshots/ecochar.png)
 
 
 ## History

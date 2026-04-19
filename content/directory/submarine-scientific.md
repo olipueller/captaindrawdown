@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 Submarine Scientific (now branded as "Submarine") is a marine consulting firm providing scientific and technical advisory to ocean industries, including marine carbon dioxide removal (mCDR). Services span MRV, environmental monitoring, modeling, and satellite/AI-based ocean data analysis, supporting projects such as ocean alkalinity enhancement standards work.
 
-![Submarine Scientific website](/screenshots/submarine-scientific/2026-04-19.png)
+![Submarine Scientific website](/screenshots/submarine-scientific.png)
 
 ## Registry Memberships
 

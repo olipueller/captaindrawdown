@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Founded in 2019, California-based Living Carbon transforms marginal land into high-value environmental assets, with a focus on restoring abandoned mines, degraded farmland, and unproductive soils with site-tailored reforestation. The company is a public benefit company and Microsoft has agreed to purchase 1.4 million tonnes of carbon removal credits from Living Carbon's US-based reforestation projects, generated through large-scale reforestation of 25,000 acres of degraded lands in the broader Appalachian region. In 2026, the Symbiosis Coalition also signed long-term offtake agreements with Living Carbon securing 131,240 tonnes of carbon removal over 10 years, with Google, McKinsey, and Meta among the buyers.
 
-![Living Carbon website](/screenshots/v1-thumbnails/living-carbon.jpg)
+![Living Carbon website](/screenshots/living-carbon.png)
 
 ## Registry Memberships
 

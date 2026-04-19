@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 POET LLC is the world's largest bioethanol producer, headquartered in Sioux Falls, South Dakota, with 33 bioprocessing plants across eight states producing bioethanol, animal feed, corn oil, purified alcohol, and bioCO2. Its CDR activity consists of capturing fermentation bioCO2 at its ethanol plants and delivering it to third-party CO2 pipelines — Summit Carbon Solutions (17 Iowa/South Dakota plants, ~4.7 Mt/yr planned) and Tallgrass Trailblazer (Fairmont, Nebraska facility) — for permanent geological sequestration in Wyoming and North Dakota. POET is the biogenic CO2 source in the BECCS value chain, though its main business remains biofuels.
 
-![POET website](/screenshots/poet/2026-04-19.png)
+![POET website](/screenshots/poet.png)
 
 
 ## History

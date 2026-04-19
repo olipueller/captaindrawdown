@@ -25,7 +25,7 @@ liveliness: "🟢 Active"
 
 Octavia Carbon is a Nairobi-based direct air capture company founded in 2022 by Martin Freimüller and Duncan Kariuki that designs, builds, and operates solid-sorbent DAC machines powered by Kenyan geothermal energy. Its Project Hummingbird pilot in the Rift Valley pairs DAC with in-situ basalt mineralization via storage partner Cella, targeting ~1,500 tCO2/yr gross (~1,000 tCO2/yr net) with plans to scale to ~10,000 tCO2/yr. The company has raised seed funding, signed offtakes facilitated by Carbonfuture and Carbon Direct, and is deploying units for customers such as atmosfair.
 
-![Octavia Carbon website](/screenshots/v1-thumbnails/octavia-carbon.jpg)
+![Octavia Carbon website](/screenshots/octavia-carbon.png)
 
 ## Registry Memberships
 

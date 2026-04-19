@@ -23,7 +23,7 @@ liveliness: "🟡 Moderate"
 
 Nordiczero is a Swedish company developing solutions that use biochar and bioash, produced from biogenic residues, for concrete and building materials. By embedding pyrolysis-derived carbon in cementitious products, the company targets durable CO2 storage in the built environment. It appears to be a very small, early-stage venture with a minimal public footprint.
 
-![Nordiczero website](/screenshots/v1-thumbnails/nordiczero.jpg)
+![Nordiczero website](/screenshots/nordiczero.png)
 
 
 ## History

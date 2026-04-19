@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Sizewell C is a 3.2 GW nuclear power station project in Suffolk, UK, owned by NNB Generation Company (an EDF Energy subsidiary with the UK Government holding a 44.9% stake following the July 2025 Final Investment Decision). Alongside the nuclear build, Sizewell C leads a consortium (University of Birmingham, University of Nottingham, AtkinsRéalis, Altrad/Doosan Babcock, Helical Energy, Strata Technology) developing a heat-driven Direct Air Capture demonstrator at the Port of Lowestoft, funded by £3m from BEIS Phase 2 of the Greenhouse Gas Removals competition. The 100 t/yr demonstrator completed construction and was expected operational in early 2025, with ambitions for a future full-scale 1.5 Mt/yr DAC plant powered by low-carbon heat from Sizewell C.
 
-![Sizewell C/EDF Energy website](/screenshots/v1-thumbnails/sizewell-c-edf-energy.jpg)
+![Sizewell C/EDF Energy website](/screenshots/sizewell-cedf-energy.png)
 
 
 ## History

@@ -21,7 +21,7 @@ liveliness: "🟠 Suspect"
 
 Cquestr8 is a Durham, UK-based startup founded in 2020 developing a reactor-based accelerated mineral carbonation process that uses magnesium-rich silicates to sequester CO2 from concentrated industrial sources (cement, lime, steel, biogas, fermentation) and lock it away as stable carbonates and ocean bicarbonate. The company raised a $300K seed round from Counteract in April 2021 and was a finalist at the 2023 SOSV Climate Tech Summit, but has not announced significant news since.
 
-![Cquestr8 website](/screenshots/v1-thumbnails/cquestr8.jpg)
+![Cquestr8 website](/screenshots/cquestr8.png)
 
 
 ## History

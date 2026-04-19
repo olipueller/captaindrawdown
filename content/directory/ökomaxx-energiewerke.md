@@ -21,7 +21,7 @@ liveliness: "🟢 Active"
 
 ÖkoMAXX Energiewerke GmbH is an Austrian company headquartered in Gänserndorf, registered in 2021, engaged in electricity and heat generation, operation of biomass power plants, and general trading. It is wholly owned by PurEnergy Holding GmbH. Its biochar project (GCSP1127) at Altweitra 70, AT-3970 Weitra was validated under the Global Biochar C-Sink Standard with a closing date of 2025-06-23.
 
-![ÖkoMAXX Energiewerke website](/screenshots/v1-thumbnails/komaxx-energiewerke.jpg)
+![ÖkoMAXX Energiewerke website](/screenshots/ökomaxx-energiewerke.png)
 
 
 ## History

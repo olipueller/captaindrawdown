@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Neustark is a Swiss climate-tech company, founded in 2019 as an ETH Zurich spin-off and based in Bern, that permanently stores biogenic CO2 in demolished concrete and other mineral wastes via accelerated mineralization. It operates 30+ capture-and-storage sites across Europe and raised $69M in 2025 to expand into North America and Asia-Pacific.
 
-![Neustark website](/screenshots/v1-thumbnails/neustark.jpg)
+![Neustark website](/screenshots/neustark.png)
 
 ## Registry Memberships
 

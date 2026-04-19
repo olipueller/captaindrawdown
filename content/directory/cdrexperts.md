@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 CDRexperts (cdrexperts.earth / cdrexperts.org) is an independent carbon dioxide removal advisory consultancy led by Dr. Elisabete Trindade Pedrosa, a specialist in mineral-fluid interactions and environmental geochemistry. The firm advises clients on CDR methods including enhanced rock weathering, biochar application, geological carbon storage, and terrestrial biomass sequestration, with a focus on monitoring and experimental design. Note: the cdrexperts.com domain in the DB snapshot belongs to an unrelated Canadian MEP engineering firm (Charland Dubé Robillard).
 
-![CDRexperts website](/screenshots/v1-thumbnails/cdrexperts.jpg)
+![CDRexperts website](/screenshots/cdrexperts.png)
 
 ## Registry Memberships
 

@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 Marquis Energy operates the world's largest dry-mill ethanol plant in Hennepin, Illinois, and through its subsidiary Marquis Carbon Capture LLC is developing a BECCS project to sequester up to 1.5 million metric tons of biogenic CO2 per year in the Mt. Simon saline formation beneath its industrial complex. The U.S. EPA issued a draft Class VI well permit in September 2025, with a final permit expected in February 2026. Ethanol production remains the core business, with CCS pursued to secure 45Q tax credits and advance the complex toward carbon-neutral status.
 
-![Marquis Energy website](/screenshots/marquis-energy/2026-04-19.png)
+![Marquis Energy website](/screenshots/marquis-energy.png)
 
 
 ## History

@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 DACMA GmbH is a Hamburg-based manufacturer of solid-sorbent Direct Air Capture systems, founded by Jörg Spitzner with roots in aerospace engineering. The company has delivered DAC machines since 2023, including units deployed in South America (Repsol Sinopec Brazil), to KIT for the H2Mare offshore hydrogen project, and is supplying systems to Deep Sky in Canada. A DACMA Competence Center at the Port of Hamburg is scheduled to open in spring 2026.
 
-![DACMA GmbH website](/screenshots/v1-thumbnails/dacma-gmbh.jpg)
+![DACMA GmbH website](/screenshots/dacma-gmbh.png)
 
 ## Registry Memberships
 

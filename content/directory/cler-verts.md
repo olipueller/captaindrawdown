@@ -23,7 +23,7 @@ liveliness: "🟠 Suspect"
 
 Cler Verts is a French organic waste valorization group established in Occitanie in 2003, operating a multi-filière platform at Bélesta-en-Lauragais that handles wood recycling, biomass fuels, green waste composting, biodéchet collection, methanization, and biochar production. The group markets the first CE-certified biochar in France under its CHARD'OCC brand, sold alongside its organic amendments for soils. A new pyrolyser was installed in August 2024 as part of a €2.8M investment inaugurated for the company's 20th anniversary.
 
-![Cler-Verts website](/screenshots/cler-verts/2026-04-19.png)
+![Cler-Verts website](/screenshots/cler-verts.png)
 
 
 ## History

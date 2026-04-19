@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Restoration Bioproducts is a Virginia-based biochar producer that deploys pyrolysis-based projects converting low-value biomass and forestry waste into biochar, bio-oil, syngas, and power. Its flagship ~$10M Waverly, VA facility opened in October 2024 and is expected to generate roughly 10,000 tCO2e/year of carbon removal credits, marketed via Carbon Streaming Corporation with Microsoft as an early buyer. The company is majority-owned by FDCE and headquartered in Lynchburg, VA.
 
-![Restoration Bioproducts website](/screenshots/v1-thumbnails/restoration-bioproducts.jpg)
+![Restoration Bioproducts website](/screenshots/restoration-bioproducts.png)
 
 
 ## History

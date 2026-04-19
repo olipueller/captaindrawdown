@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Euthenia Energy Group is a Spain-based renewable energy company operating the Euthenia Energy Center biochar facility in Lucena (Córdoba), Andalusia, designed to produce up to 10,000 tons of biochar from olive orchard residues. The company is registered on Puro.earth with issued CORCs under the Biochar methodology, sells credits through the Supercritical marketplace (e.g., to EcoVadis), and co-organized the October 2025 European Biochar CDR Conference in Málaga with Beston Group.
 
-![Euthenia Energy Group website](/screenshots/euthenia-energy-group/2026-04-19.png)
+![Euthenia Energy Group website](/screenshots/euthenia-energy-group.png)
 
 ## Registry Memberships
 

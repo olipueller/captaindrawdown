@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 Carbondrop is a Vienna, Austria-based climate-tech startup developing enhanced rock weathering (ERW) for carbon removal. The company produces a carbon-removing fertilizer made of micronized basalt in hydrogel-based pellets that can be applied to cropland with standard farm equipment, providing soil pH buffering and nutrients alongside CO2 sequestration. It is an early-stage company (~2 employees) partnering with European farmers.
 
-![Carbondrop website](/screenshots/v1-thumbnails/carbondrop.jpg)
+![Carbondrop website](/screenshots/carbondrop.png)
 
 
 ## History

@@ -22,7 +22,7 @@ liveliness: "🟠 Suspect"
 
 Sonnenerde GmbH is an Austrian biochar producer in Riedlingsdorf, Burgenland, operating the first biochar production plant in Europe approved under waste law, in continuous operation since 2012 and having produced around 2,000 tons of biochar over 10 years. On April 30, 2025 the company opened its new "KOHLOSS" carbonization facility, and after three years of construction the plant is now in full operation. The company sells biochar-based soil, livestock and Terra Preta products and issues Puro.earth carbon removal credits.
 
-![Sonnenerde website](/screenshots/v1-thumbnails/sonnenerde.jpg)
+![Sonnenerde website](/screenshots/sonnenerde.png)
 
 ## Registry Memberships
 

@@ -23,7 +23,7 @@ liveliness: "🟠 Suspect"
 
 Storegga is a UK-based independent decarbonisation developer (parent of Pale Blue Dot Energy) that partnered with Carbon Engineering on a planned 0.5–1 Mt/yr DAC facility in north-east Scotland and led the Acorn CCS and hydrogen project at St Fergus. In December 2025 Storegga announced a structured sales process for its portfolio of assets, including the sale of its 30% stake in Acorn, after a strategic review concluded a new long-term owner was needed for the capital-intensive next phase. Reports in January 2026 also indicate Storegga is set to discontinue its Speyside green hydrogen project, signalling a broader wind-down of its development portfolio.
 
-![Storegga/Pale Blue Dot Energy website](/screenshots/storeggapale-blue-dot-energy/2026-04-19.png)
+![Storegga/Pale Blue Dot Energy website](/screenshots/storeggapale-blue-dot-energy.png)
 
 
 ## History

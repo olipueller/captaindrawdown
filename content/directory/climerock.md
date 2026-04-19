@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 ClimeRock is a French Enhanced Rock Weathering startup founded in 2023, headquartered in Colombes (Île-de-France) with field operations in the Massif Central. The company spreads finely ground basalt sourced from local quarries onto agricultural fields to sequester CO2 as dissolved bicarbonate, while also improving soil health, and sells carbon removal credits to corporate buyers. It is the first ERW specialist in France and a member of AFEN (Association Française pour les Émissions Négatives).
 
-![ClimeRock website](/screenshots/climerock/2026-04-19.png)
+![ClimeRock website](/screenshots/climerock.png)
 
 
 ## History

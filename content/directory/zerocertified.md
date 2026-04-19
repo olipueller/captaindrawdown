@@ -20,7 +20,7 @@ liveliness: "🟡 Moderate"
 
 ZEROCertified was a Netherlands-based voluntary carbon market consultancy and methodology developer that helped project developers enter and scale in the VCM, including carbon-negative/removal projects (e.g. partnership with STERCORE on bio-based carbon). It provided services spanning project assessment, methodology development, certification, financing via pre-purchase agreements, and credit trading. In 2024/2025 the founders announced they are stepping back from ZEROCertified and redirecting their focus elsewhere.
 
-![ZEROCertified website](/screenshots/zerocertified/2026-04-19.png)
+![ZEROCertified website](/screenshots/zerocertified.png)
 
 
 ## History

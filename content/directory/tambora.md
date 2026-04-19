@@ -23,7 +23,7 @@ liveliness: "🟠 Suspect"
 
 Tambora Carbon Removal (TCR) is an Indonesian CDR startup deploying Enhanced Rock Weathering and biochar in partnership with agribusinesses, mining companies, and smallholder farmers across Asia. In April 2025 the company signed an offtake agreement with a US-based asset manager for 4,400 ERW removal credits, confirming active commercial operations.
 
-![Tambora website](/screenshots/tambora/2026-04-19.png)
+![Tambora website](/screenshots/tambora.png)
 
 
 ## History

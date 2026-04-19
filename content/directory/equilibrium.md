@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 Equilibrium is a full-stack carbon project developer with investments from Kalaari Capital, Peak XV Partners, and Avaana Capital, running agroforestry, regenerative agriculture, mangrove restoration, and biochar projects. The operating entity is Climeverse Pvt. Ltd. (operating as Equilibrium), based in Bangalore, and its Murudagiri Biochar Facility transforms invasive Prosopis juliflora and corn cob residues into biochar using pyro-gasification. Funds raised will expand eight ongoing projects across nine Indian states, covering 120,000 hectares and involving more than 150,000 smallholder farmers.
 
-![Equilibrium website](/screenshots/v1-thumbnails/equilibrium.jpg)
+![Equilibrium website](/screenshots/equilibrium.png)
 
 ## Registry Memberships
 

@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Nature Broking is a UK-based natural capital brokerage that builds and manages tailored carbon credit and nature restoration portfolios for corporate clients, including banks, airports, insurers and law firms. They vet projects through an ICVCM-aligned due diligence framework and act as an intermediary connecting buyers with UK and global nature-based carbon projects.
 
-![Nature Broking website](/screenshots/nature-broking/2026-04-19.png)
+![Nature Broking website](/screenshots/nature-broking.png)
 
 
 ## History

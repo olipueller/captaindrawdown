@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 Travertine Technologies is a Boulder, Colorado-based CDR company founded in 2022 by Prof. Laura Lammers (spun out of UC Berkeley). Its electrochemical platform upcycles industrial sulfate waste (e.g. phosphogypsum) and captures CO2 into carbonate minerals for permanent sequestration, while co-producing sulfuric acid and green hydrogen used for critical-element extraction. The company raised $8.5M in 2024 (co-led by Holcim MAQER Ventures) and operates an RD&D facility in Boulder and a demonstration plant in upstate New York.
 
-![Travertine website](/screenshots/v1-thumbnails/travertine.jpg)
+![Travertine website](/screenshots/travertine.png)
 
 ## Registry Memberships
 

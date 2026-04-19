@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 BLOCK Bio Innovationen GmbH & Co. KG (BLOCK Pflanzenkohle) is a family-run biochar producer in Osterrade, Dithmarschen, Schleswig-Holstein, operated by brothers Mathis and Steffen Block. The facility uses a Carbo Force pyrolysis system to carbonize regional biomass (wood chips, landscape-care residues, reed from rewetted moorlands) into EBC-AgroOrganic certified biochar, with waste heat feeding a local district heating network. The project targets approximately 2,000 tonnes of CO2 sequestration per year and holds EBC sink certification.
 
-![BLOCK website](/screenshots/block/2026-04-19.png)
+![BLOCK website](/screenshots/block.png)
 
 
 ## History

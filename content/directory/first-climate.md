@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 First Climate is a German/Swiss carbon asset manager and climate services firm founded in 1999 that develops, finances, certifies, and markets carbon credits—including biochar carbon removal credits—on behalf of project partners. They also provide carbon footprinting, net-zero strategy consulting, and green energy procurement. They do not operate removal technology themselves but are a long-standing broker/developer in the CDR ecosystem.
 
-![First Climate website](/screenshots/first-climate/2026-04-19.png)
+![First Climate website](/screenshots/first-climate.png)
 
 
 ## History

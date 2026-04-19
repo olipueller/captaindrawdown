@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 Treeconomy is a London-based earth-tech company providing MRV and project-enablement services for nature-based carbon removal. It combines high-resolution satellite imagery, drone LiDAR, and machine learning to quantify and monitor forest carbon stocks, supports project developers from design to credit issuance, and operates the Sherwood platform/marketplace connecting corporate buyers with afforestation and rewilding removal credits.
 
-![Treeconomy website](/screenshots/v1-thumbnails/treeconomy.jpg)
+![Treeconomy website](/screenshots/treeconomy.png)
 
 ## Registry Memberships
 

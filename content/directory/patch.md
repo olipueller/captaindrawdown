@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Patch is a San Francisco-based carbon credit platform that combines software, data, and climate-expert services to help corporate buyers source, diligence, purchase, and manage voluntary carbon market credits (including CDR). It launched a relaunched, AI-powered platform in April 2025 aggregating 25,000+ projects across ICROA-endorsed registries. Patch is part of the CDR ecosystem as a marketplace/platform, not a physical CO2 remover.
 
-![Patch website](/screenshots/patch/2026-04-19.png)
+![Patch website](/screenshots/patch.png)
 
 ## Registry Memberships
 

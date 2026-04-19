@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 sus.lab (Sustainability in Business Lab) is a "think and do tank" at ETH Zurich, founded in 2016, that brings sustainability research into practice through industry projects. It runs several CDR-focused ecosystem initiatives including the Remove Accelerator (formerly Carbon Removal ClimAccelerator), the Innosuisse-funded Carbon Removal Booster, and research on CDR MRV methodologies. It does not itself remove CO2 but supports the CDR startup and innovation ecosystem in Europe.
 
-![sus.lab website](/screenshots/suslab/2026-04-19.png)
+![sus.lab website](/screenshots/suslab.png)
 
 
 ## History

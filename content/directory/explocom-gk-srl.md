@@ -20,7 +20,7 @@ liveliness: "🟡 Moderate"
 
 Explocom GK SRL is a Romanian company founded in 1992, originally producing charcoal and now manufacturing biochar and wood vinegar for agricultural use under the GEKKA brand. It operates a patented pyrolysis process and registers carbon removal credits on Puro.earth.
 
-![Explocom GK SRL website](/screenshots/explocom-gk-srl/2026-04-19.png)
+![Explocom GK SRL website](/screenshots/explocom-gk-srl.png)
 
 
 ## History

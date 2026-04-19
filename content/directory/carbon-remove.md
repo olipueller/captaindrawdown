@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 Carbon Remove (Carbon Remove - Biochar Solutions) is a small Brazilian biochar company based in Anhembi, São Paulo, founded and led by Thomas Britze. The company produces biochar from residual biomass via pyrolysis for use as a soil amendment and to generate carbon removal credits under established biochar methodologies.
 
-![Carbon Remove website](/screenshots/v1-thumbnails/carbon-remove.jpg)
+![Carbon Remove website](/screenshots/carbon-remove.png)
 
 
 ## History

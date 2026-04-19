@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 Arbreen is a project developer aiming to implement super-scale reforestation projects across African countries to generate nature-based CDR carbon credits. The company positions itself as a utility delivering carbon dioxide removal via Nature-Climate Solutions, targeting 5-10 million tCO2 annually per country across 5-20 African countries. No recent (2025-2026) public signals of deliveries, funding, or team hiring were found.
 
-![Arbreen website](/screenshots/arbreen/2026-04-19.png)
+![Arbreen website](/screenshots/arbreen.png)
 
 
 ## History

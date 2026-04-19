@@ -23,7 +23,7 @@ liveliness: "🟡 Moderate"
 
 Freshean Corp. is a Scottsdale, Arizona climate-tech startup founded and led by Dr. Xiwang (Michael) Qi, developing a patent-protected Direct Air Capture (DAC) technology targeting cost, efficiency, and scalability challenges. The company's core IP is a nano-engineered DAC sorbent using a proprietary "Nano-in-Nano" platform claiming order-of-magnitude improvements in CO2 capture efficiency and cost. It is an early-stage R&D company with ~1 employee and has participated in accelerators (Venture for ClimateTech Cohort 4, MassChallenge RESOLVE'24) and presented at SEMICON West 2024.
 
-![Freshean website](/screenshots/freshean/2026-04-19.png)
+![Freshean website](/screenshots/freshean.png)
 
 
 ## History

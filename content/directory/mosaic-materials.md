@@ -23,7 +23,7 @@ liveliness: "🟡 Moderate"
 
 Mosaic Materials is a direct air capture (DAC) technology developer based in Alameda, California, spun out of UC Berkeley. It develops metal-organic framework (MOF) adsorbents that selectively capture CO2 from ambient air and from confined spaces (submarines, spacecraft). Mosaic was acquired by Baker Hughes in April 2022 and continues to operate as its DAC technology arm, with pilot units being tested toward commercial-scale deployment.
 
-![Mosaic Materials website](/screenshots/mosaic-materials/2026-04-19.png)
+![Mosaic Materials website](/screenshots/mosaic-materials.png)
 
 
 ## History

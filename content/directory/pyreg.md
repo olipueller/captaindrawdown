@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 PYREG GmbH is a German cleantech company founded in 2009 as a spin-off of TH Bingen University of Applied Sciences, headquartered in Dörth, Germany. It manufactures patented, multi-feedstock pyrolysis machines that upcycle organic waste into CO₂-sequestering biochar and renewable heat. Its 50+ plants commissioned worldwide sequester roughly 30,000 tons of CO2 per year.
 
-![Pyreg website](/screenshots/pyreg/2026-04-19.png)
+![Pyreg website](/screenshots/pyreg.png)
 
 
 ## History

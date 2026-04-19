@@ -22,7 +22,7 @@ liveliness: "🟠 Suspect"
 
 OBIO is a Norwegian biochar company based in the Opland/central region that built the first industrial-scale pyrolysis plant in Norway at Rudshøgda in Ringsaker municipality. Obio AS was founded in December 2022 when the pyrolysis business was transferred from Oplandske Bioenergi; it is owned 60% by district heating company Eidsiva Bioenergi and 40% by forest owners cooperative Glommen Mjøsen Skog. In autumn 2024 the facility was expanded with a new hall, pyrolysis oven and bagging line; with two Biomacon ovens the annual capacity is about 2,700 m3 (750 tonnes).
 
-![OBIO website](/screenshots/v1-thumbnails/obio.jpg)
+![OBIO website](/screenshots/obio.png)
 
 ## Registry Memberships
 

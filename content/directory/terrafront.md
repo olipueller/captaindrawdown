@@ -22,7 +22,7 @@ liveliness: "🟠 Suspect"
 
 Terrafront Ventures develops climate change adaptation and mitigation infrastructure in South Asia and Africa, operating Terrachar (biochar), Terraroots (agroforestry/reforestation under Verra VM47 and Gold Standard ARR methodologies), and TerraRevive (regenerative agriculture). They collaborate with Carboneers to process agricultural residues into biochar and heat, working with rice, cotton and maize farmers in Odisha, Assam, and Nagaland, with projects registered on Isometric.
 
-![Terrafront website](/screenshots/terrafront/2026-04-19.png)
+![Terrafront website](/screenshots/terrafront.png)
 
 
 ## History

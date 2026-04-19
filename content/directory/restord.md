@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Restord is a Cornwall, UK biochar startup founded by Tom Previte that converts local forestry and agricultural waste into biochar via pyrolysis, using CapChar's on-farm technology. The company runs farm-scale pilot production near Liskeard and supplies biochar for soil application and carbon removal, with partnerships including Cormac and the University of Plymouth.
 
-![Restord website](/screenshots/v1-thumbnails/restord.jpg)
+![Restord website](/screenshots/restord.png)
 
 
 ## History

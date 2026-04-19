@@ -23,7 +23,7 @@ liveliness: "🟠 Suspect"
 
 Scaled Carbon is an early-stage US-based marine CDR developer working on a novel tracer-based MRV approach for ocean alkalinity enhancement. The company states it is actively fundraising and working toward an in-ocean pilot deployment. It appears to be a very small (solo-founder-scale) outfit with no registry-issued credits to date.
 
-![Scaled Carbon website](/screenshots/v1-thumbnails/scaled-carbon.jpg)
+![Scaled Carbon website](/screenshots/scaled-carbon.png)
 
 
 ## History

@@ -20,7 +20,7 @@ liveliness: "🟠 Suspect"
 
 Scotia BioChar Inc. is headquartered in Bedford, Nova Scotia, Canada and aims to become a producer of high-quality biochar from waste wood biomass found in central Nova Scotia, including trees blown down during Hurricane Fiona. In October 2024 it signed a master services agreement with BluSky Carbon Inc. to procure pyrolysis equipment and consulting services, with biochar intended for mine reclamation, site remediation, agriculture, asphalt/concrete, and water treatment. Co-founder Liz MacKenzie had secured $3.6 million in government and private capital funding for Scotia projects as of that announcement.
 
-![Scotia BioChar website](/screenshots/v1-thumbnails/scotia-biochar.jpg)
+![Scotia BioChar website](/screenshots/scotia-biochar.png)
 
 
 ## History

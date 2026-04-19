@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 ExxonMobil is a major integrated oil and gas company whose Low Carbon Solutions division operates a proprietary solid-sorbent DAC pilot at its Baytown, Texas manufacturing site, started up in February 2024 after ending its research partnership with Global Thermostat. The division also operates the largest CO2 pipeline network in the U.S. (acquired via Denbury in 2023) and has ~9 MTA of third-party point-source CCS contracts across the Gulf Coast, with its first commercial CCS operation (CF Industries, Louisiana) starting up in 2025. CEO Darren Woods has called DAC the "holy grail" of emissions technologies but has emphasized the need to cut costs from the current $600–$1,000/ton range.
 
-![ExxonMobil website](/screenshots/exxonmobil/2026-04-19.png)
+![ExxonMobil website](/screenshots/exxonmobil.png)
 
 ## Registry Memberships
 

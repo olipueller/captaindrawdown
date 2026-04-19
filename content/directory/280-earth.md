@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 280 Earth is a Direct Air Capture company spun out of Alphabet's X (The Moonshot Factory) in 2022, headquartered in Mountain View, California, with its first commercial demonstration DAC facility in The Dalles, Oregon. The 500 t/yr Phase 1 plant began operations in May 2024, backed by a $50M Series B led by Builders VC and a $40M Frontier offtake agreement for 61,571 tons of CO2 between 2024-2030. The company is scaling toward a 5,000 t/yr module and signed Volotea as its first European airline partner in March 2025.
 
-![280 Earth website](/screenshots/280-earth/2026-04-19.png)
+![280 Earth website](/screenshots/280-earth.png)
 
 ## Registry Memberships
 

@@ -20,7 +20,7 @@ liveliness: "🟢 Active"
 
 CO2CirculAir is a Dutch start-up based in Arnhem developing SMART-DAC, a passive wind-driven direct air capture technology using membrane gas absorption (with a KOH absorbent) and electrodialysis-based regeneration. The company led a UK consortium (with Heriot-Watt, Net Zero Technology Centre, PDC, Optimus and B9 Energy) funded through BEIS/DESNZ GGR Phase 1 and Phase 2, building and operating a ~100 tpa pilot plant in Larne, Northern Ireland through 2024–2025. A Phase 2 final public report covering testing through April 2025 was published, and the company and its pilot remain active.
 
-![CO2CirculAir website](/screenshots/co2circulair/2026-04-19.png)
+![CO2CirculAir website](/screenshots/co2circulair.png)
 
 
 ## History

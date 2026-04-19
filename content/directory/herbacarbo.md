@@ -20,7 +20,7 @@ liveliness: "🟡 Moderate"
 
 HerbaCarbo GbR is a production company of biochar-based products located in Andernach, Germany, with products sold under the HerbaCarbo brand name. The firm sells premium plant biochar and feed biochar directly from the producer, with EBC-certified quality. The company is organized as a small GbR run by Timo Ferdinand and Andreas Scherer and also operates a related Beteiligungsgesellschaft UG registered at the same Andernach address.
 
-![HerbaCarbo website](/screenshots/v1-thumbnails/herbacarbo.jpg)
+![HerbaCarbo website](/screenshots/herbacarbo.png)
 
 
 ## History

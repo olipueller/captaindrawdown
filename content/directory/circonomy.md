@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Circonomy develops high-integrity biochar carbon removal projects in the Global South, connected to the Global C-Sink Registry, and is expanding into industrial biochar production projects meeting Puro and Isometric standards. It operates as an artisanal biochar venture active in India, Malaysia, and Kenya. The company also builds a digital MRV app used by smallholder "Artisan Pro" operators to document biochar production and generate credits.
 
-![Circonomy website](/screenshots/circonomy-pte-ltd/2026-04-19.png)
+![Circonomy website](/screenshots/circonomy.png)
 
 ## Registry Memberships
 

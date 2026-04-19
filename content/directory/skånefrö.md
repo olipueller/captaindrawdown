@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Skånefrö is a Swedish seed company based in Tommarp/Hammenhög that operates a biochar production line, producing Sweden's first EBC-certified biochar through pyrolysis of agricultural residues, park/garden waste, seaweed and sludge using Pyreg units. The biochar is sold for agriculture and landscaping, and the pyrolysis process also supplies district heating. The company partners with Ecoera on carbon-removal aspects.
 
-![Skånefrö website](/screenshots/v1-thumbnails/sk-nefr.jpg)
+![Skånefrö website](/screenshots/skånefrö.png)
 
 
 ## History

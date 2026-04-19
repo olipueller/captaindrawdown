@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 Boomitra is a US-headquartered carbon project developer working with over 100,000 farmers and ranchers across four continents on soil carbon and grassland restoration, using AI and satellite remote sensing for MRV. In July 2025 it expanded beyond soil carbon by launching the Oasis Biomass Carbon Removal and Storage (BiCRS) project in Botswana, which harvests encroaching woody bush, bales it, and buries it underground for 100+ year storage. The company is an Earthshot Prize winner and claims to have removed over 10 million tonnes of CO₂ to date.
 
-![Boomitra website](/screenshots/boomitra/2026-04-19.png)
+![Boomitra website](/screenshots/boomitra.png)
 
 ## Registry Memberships
 

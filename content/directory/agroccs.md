@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 AgroCCS B.V. is a Dutch-registered biochar project developer operating in the Varanasi region of Uttar Pradesh, India, where agricultural waste is pyrolyzed into biochar and applied to farmland. The project is financed through the sale of carbon removal credits issued under the Puro.Earth standard, and the company is currently offering pre-orders to early buyers.
 
-![AgroCCS website](/screenshots/agroccs/2026-04-19.png)
+![AgroCCS website](/screenshots/agroccs.png)
 
 
 ## History

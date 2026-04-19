@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 CUR8 is an intelligence provider for the carbon removal market, positioned at the intersection of climate science and finance, using proprietary scientific models to assess efficacy, quality, value, and delivery risk of carbon removal projects, enabling corporate buyers to build de-risked net-zero portfolios. Its platform is trusted by multinational banks like Standard Chartered and major brands like British Airways. CUR8 describes itself as a market-maker for carbon removals, offering products and services to scale the market and unlock financing for innovative removal projects.
 
-![CUR8 website](/screenshots/cur8/2026-04-19.png)
+![CUR8 website](/screenshots/cur8.png)
 
 ## Registry Memberships
 

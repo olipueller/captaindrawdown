@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Rockburst Technologies is a Vancouver-based cleantech startup developing CoreBurst™, a transcritical CO₂ pulverization technology that uses pressurized CO₂ to fracture mining ore from within, cutting comminution energy by roughly 50% while mineralizing CO₂ into mine tailings (~160 kg CO₂ per tonne of nickel ore). The company is in prototype/R&D stage, received a $500K NorthX Climate Tech investment plus additional funding, and plans its first industrial pilot in 2027.
 
-![Rockburst Technologies website](/screenshots/v1-thumbnails/rockburst-technologies.jpg)
+![Rockburst Technologies website](/screenshots/rockburst-technologies.png)
 
 
 ## History

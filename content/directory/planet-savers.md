@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Planet Savers is Japan's first Direct Air Capture startup, spun out of the University of Tokyo and founded in July 2023. The company develops a zeolite-based CO2 adsorbent and optimized recovery/concentration unit (DACCU system), backed by NEDO, Japan's Ministry of Environment, Spiral Capital and JAFCO (¥250M seed in 2024). It is targeting a 1 ton/day prototype and was selected for the Bosch CarbonCapture Startup Challenge 2025.
 
-![Planet Savers website](/screenshots/planet-savers/2026-04-19.png)
+![Planet Savers website](/screenshots/planet-savers.png)
 
 ## Registry Memberships
 

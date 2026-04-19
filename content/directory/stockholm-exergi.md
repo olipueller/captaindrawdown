@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Stockholm Exergi is a Swedish municipal energy utility (owned by the City of Stockholm and a pension-fund consortium) building one of the world's first large-scale BECCS facilities at its Värtaverket biomass CHP plant. FID was reached in March 2025 with Capsol Technologies providing HPC-based capture technology, Saipem as EPC contractor, and Skanska performing groundworks; operations targeted for 2028 at up to 800,000 tCO2/yr, with offtake from Microsoft and Frontier, EUR 180M from the EU Innovation Fund, and ~SEK 20B in Swedish state support.
 
-![Stockholm Exergi website](/screenshots/stockholm-exergi/2026-04-19.png)
+![Stockholm Exergi website](/screenshots/stockholm-exergi.png)
 
 
 ## History

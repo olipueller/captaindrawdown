@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 Franco-Brazilian company MORFO is a reforestation implementer working with carbon project developers on Afforestation, Reforestation, and Revegetation (ARR) projects in Brazilian biomes (Amazon, Atlantic Forest, Cerrado). The company has designed a complete drone-based reforestation solution combining seed encapsulation, microbiology and computer vision. Since its inception in 2021, MORFO has facilitated 24 ARR projects across compliance and carbon markets, including a partnership with Rio de Janeiro City Hall under the ReflorestaRio program.
 
-![MORFO website](/screenshots/morfo/2026-04-19.png)
+![MORFO website](/screenshots/morfo.png)
 
 
 ## History

@@ -23,7 +23,7 @@ liveliness: "🟡 Moderate"
 
 EnergieWerk Ilg GmbH is a family-owned regional energy company in Dornbirn, Vorarlberg, Austria operating wood-chip gasification CHP plants that produce renewable electricity, district heat and biochar. In September 2025 it commissioned Austria's first coupled biomass-power/carbon-capture/biochar facility (using a Bright Renewables CarboPac-C amine-based capture unit) at its Stöcken plant, and won the Holzenergiepreis Österreich 2025 for the project. Roughly one-third of tree CO2 is durably stored in biochar (CDR), while captured flue-gas CO2 is liquefied for food/beverage use (CCU).
 
-![EnergieWerk Ilg GmbH website](/screenshots/v1-thumbnails/energiewerk-ilg-gmbh.jpg)
+![EnergieWerk Ilg GmbH website](/screenshots/energiewerk-ilg-gmbh.png)
 
 ## Registry Memberships
 

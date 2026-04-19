@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 GoBiochar is a Salt Lake City, Utah-based biochar supply and production company led by John Webster, serving agricultural, livestock, and land-management customers across the Southwestern US. The company converts biomass to biochar via pyrolysis (including mobile in-field units) and also supports partners like Circle Forestry in wildfire-mitigation biochar burns.
 
-![GoBiochar website](/screenshots/gobiochar/2026-04-19.png)
+![GoBiochar website](/screenshots/gobiochar.png)
 
 
 ## History

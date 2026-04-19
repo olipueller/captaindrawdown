@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 RecyCoal GmbH is an Aachen, Germany-based biochar startup that emerged from the RWTH Aachen student initiative Enactus Aachen and was incorporated in 2023. The company produces biochar from agricultural residues using pyrolysis systems deployed in East and West Africa (Rwanda, coffee-growing regions), selling it as a soil amendment while also generating carbon credits shared with local farmer partners. In April 2025 it received non-equity support from the Africa Carbon Removal Accelerator.
 
-![RecyCoal website](/screenshots/recycoal/2026-04-19.png)
+![RecyCoal website](/screenshots/recycoal.png)
 
 
 ## History

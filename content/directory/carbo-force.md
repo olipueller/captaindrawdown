@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Carbo-FORCE GmbH was founded by Malte Graf and Kai Alberding at the end of 2017 as a start-up from Preetz in northern Germany, and has developed a system for carbonizing biomass via pyrolysis. BAUER Resources GmbH acquired 50% of the shares on 1 January 2023, with equipment constructed by Bauer subsidiary SCHACHTBAU NORDHAUSEN GmbH. The company now operates from Kassel, selling modular CF-250 / Carbo-CAP-TEC pyrolysis plants that produce biochar and renewable heat, with deployments in Germany (Osterrade, Grosssolt, Rendsburg) and Dubai.
 
-![Carbo-FORCE website](/screenshots/v1-thumbnails/carbo-force.jpg)
+![Carbo-FORCE website](/screenshots/carbo-force.png)
 
 ## Registry Memberships
 

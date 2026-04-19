@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 Revalue Nature is a London-based climate tech company founded in 2022 that provides end-to-end tools and services to nature-based carbon project developers, from project assessment and financing through credit issuance. Its Revalue Verse platform uses LiDAR, eDNA, bioacoustics, remote sensing, and ML-based Earth observation to monitor carbon stocks and biodiversity in reforestation and conservation projects. They raised a $10M Series A in August 2023 led by Ecosystem Integrity Fund and SJF Ventures.
 
-![Revalue website](/screenshots/revalue/2026-04-19.png)
+![Revalue website](/screenshots/revalue.png)
 
 ## Registry Memberships
 

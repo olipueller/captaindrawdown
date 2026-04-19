@@ -20,7 +20,7 @@ liveliness: "🟡 Moderate"
 
 Sponge DAC, Inc. is an early-stage Direct Air Capture startup based in Cambridge, Massachusetts, led by CEO Marek Herrmann-Nowosielski. The company is developing a sorbent-web DAC apparatus (with a moving web that shuttles between cool absorption and hot desorption zones) and has filed multiple US patents as well as a "SPONGE" trademark for DAC services. It remains very small (roughly 2 employees) with no publicly disclosed funding or deliveries.
 
-![Sponge DAC website](/screenshots/sponge-dac/2026-04-19.png)
+![Sponge DAC website](/screenshots/sponge-dac.png)
 
 
 ## History

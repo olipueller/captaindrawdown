@@ -20,7 +20,7 @@ liveliness: "🟢 Active"
 
 Carbex GmbH is a German biochar producer based in Dischingen, Baden-Württemberg, founded in 2021. The company manufactures a comprehensive range of biochar and biochar-based products for agriculture, livestock, construction, and filtration applications. Its corporate purpose also includes research, production, trade and distribution of biochar and by-products as well as energy and emissions trading.
 
-![Carbex website](/screenshots/v1-thumbnails/carbex.jpg)
+![Carbex website](/screenshots/carbex.png)
 
 
 ## History

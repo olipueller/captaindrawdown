@@ -21,7 +21,7 @@ liveliness: "🟠 Suspect"
 
 ClimateCarbon Eberswalde GmbH & Co. KG is a ForestFinance Group subsidiary established in 2020 to build and operate a biochar carbonization plant in Eberswalde, Brandenburg, with carbonauten GmbH as technology partner. The facility was designed to produce approximately 4,800 tonnes of biocarbon per year plus renewable energy from forestry and industrial biomass residues, financed through a €3.6M limited-partner investment offering. Project commissioning has been repeatedly delayed since the original 2021 target.
 
-![ClimateCarbon website](/screenshots/climatecarbon/2026-04-19.png)
+![ClimateCarbon website](/screenshots/climatecarbon.png)
 
 
 ## History

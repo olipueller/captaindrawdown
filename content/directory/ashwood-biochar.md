@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Ashwood BioChar produces carbon-rich biochar from 100% sustainable woody biomass waste in Lexington, Kentucky, with product used as a soil amendment to improve fertility, water retention, and as a method of permanent carbon sequestration. The company uses woody biomass feedstock via gasification technology and runs a Cover Crops & Carbon Assistance Program paying farmers $100–$300 per acre to adopt biochar, covering upfront costs for participating farmers.
 
-![Ashwood Biochar website](/screenshots/ashwood-biochar/2026-04-19.png)
+![Ashwood Biochar website](/screenshots/ashwood-biochar.png)
 
 
 ## History

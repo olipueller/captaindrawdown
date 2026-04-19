@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 SCW Systems is a Dutch climate-tech company headquartered in Alkmaar that operates the world's first industrial-scale supercritical water gasification plant, partnering with Gasunie to convert wet organic waste streams (manure, sewage sludge, green waste) into green methane, hydrogen and biogenic CO2. It has also built and tested a 5,000 tpa Direct Air Capture tower ("CO2 CleanUp") in Alkmaar, with captured CO2 intended for permanent geological storage. Founded in 2013 by CEO Gerard Essing, the company received a €25M investment from Dutch pension fund PFZW in July 2024.
 
-![SCW Systems website](/screenshots/v1-thumbnails/scw-systems.jpg)
+![SCW Systems website](/screenshots/scw-systems.png)
 
 
 ## History

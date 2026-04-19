@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 Heirloom is a U.S. Direct Air Capture company using limestone-based solid sorbent technology to remove CO2 from the atmosphere. It operates North America's first commercial DAC facility in Tracy, California (opened late 2023), and is building two additional DAC facilities at the Port of Caddo-Bossier in Northwest Louisiana, including its contribution to the DOE-funded Project Cypress DAC Hub. Captured CO2 is stored permanently via CapturePoint's Class VI wells or mineralized in concrete via CarbonCure.
 
-![Heirloom website](/screenshots/heirloom/2026-04-19.png)
+![Heirloom website](/screenshots/heirloom.png)
 
 ## Registry Memberships
 

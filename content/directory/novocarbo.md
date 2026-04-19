@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 Novocarbo is a Hamburg-based climate tech company that builds and operates Carbon Removal Parks across Germany, using pyrolysis to convert biogenic residues into biochar while supplying renewable district heat. The company issues Puro-certified biochar carbon removal credits and has active sites and partnerships in Grevesmühlen, Bochum and Dessau, plus a biochar-in-asphalt pilot with Hansa Asphalt.
 
-![Novocarbo website](/screenshots/v1-thumbnails/novocarbo.jpg)
+![Novocarbo website](/screenshots/novocarbo.png)
 
 ## Registry Memberships
 

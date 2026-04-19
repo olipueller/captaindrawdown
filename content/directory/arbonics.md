@@ -23,7 +23,7 @@ liveliness: "🟡 Moderate"
 
 Arbonics is an Estonian naturetech company founded in 2022 that develops forest-based carbon removal projects across Europe by partnering with landowners on afforestation and improved forest management. It uses a data platform combining satellite imagery, LiDAR, and soil data to plan, monitor, and verify forest carbon projects certified under standards like Verra, and sells the resulting removal credits to corporate buyers.
 
-![Arbonics website](/screenshots/arbonics/2026-04-19.png)
+![Arbonics website](/screenshots/arbonics.png)
 
 
 ## History

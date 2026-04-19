@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 BioCirc is a Danish circular bioeconomy company founded in 2021 that operates eight biogas plants and is implementing biogenic CO2 capture at five of them. Captured CO2 will be liquefied (via Pentair equipment) and transported for permanent geological storage in Project Greensand in the Danish North Sea, with up to 1 million tonnes of CO2 to be stored between 2026-2032, generating CDR credits.
 
-![BioCirc website](/screenshots/biocirc/2026-04-19.png)
+![BioCirc website](/screenshots/biocirc.png)
 
 ## Registry Memberships
 

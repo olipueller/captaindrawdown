@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Isometric is a carbon removal registry headquartered in London (with offices in New York), founded in 2022 by Eamon Jubbawy. It issues science-backed CDR credits across pathways including DAC, enhanced weathering, biochar, reforestation, biomass/bio-oil geological storage and BECCS, via its Certify verification platform and Registry. In 2025 it gained ICVCM CCP approval for six protocols and ICAO/CORSIA approval, positioning itself as the first registry recognized by all three major accreditation bodies (ICVCM, CORSIA, ICROA).
 
-![Isometric website](/screenshots/isometric/2026-04-19.png)
+![Isometric website](/screenshots/isometric.png)
 
 ## Registry Memberships
 

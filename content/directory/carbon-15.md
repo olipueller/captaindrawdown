@@ -20,7 +20,7 @@ liveliness: "🟡 Moderate"
 
 Carbon 1.5 is a France-based direct air capture startup reportedly developing sorbent-based DAC systems. Public information is very limited and independent corroboration of funding, pilots, or recent milestones was not found in web searches, though the company's website at carbon15.eu is referenced as still active.
 
-![Carbon 1.5 website](/screenshots/v1-thumbnails/carbon-1-5.jpg)
+![Carbon 1.5 website](/screenshots/carbon-15.png)
 
 
 ## History

@@ -23,7 +23,7 @@ liveliness: "🟡 Moderate"
 
 Toucan is a blockchain-based carbon market infrastructure provider that tokenizes carbon credits (including biochar CDR credits via Puro.earth) to enable on-chain trading, retirement, and transparency. In May 2025 the company announced Toucan Protocol would become open-source and community-driven, while spinning out Cedar — a separate venture building AI agents for sustainability teams — which also absorbed the acquired Neutral team. Toucan itself is an enabling-tech/marketplace layer for the voluntary carbon market, not a CDR supplier.
 
-![Toucan website](/screenshots/toucan/2026-04-19.png)
+![Toucan website](/screenshots/toucan.png)
 
 
 ## History

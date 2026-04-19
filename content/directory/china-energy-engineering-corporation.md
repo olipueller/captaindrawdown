@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 China Energy Engineering Corporation (CEEC / Energy China) is a Chinese state-owned power and infrastructure EPC conglomerate with ~RMB 453 billion in 2025 revenue, whose core business is engineering, procurement and construction for power, renewables, grid and infrastructure projects. A CEEC subsidiary, together with Shanghai Jiao Tong University, developed CarbonBox — described as Asia's largest DAC module — which captures over 100 tonnes of CO2 per unit annually with 600 t/year total pilot capacity and 99% purity output. CDR is a minor R&D activity within a vast conglomerate, but the DAC technology is proprietary to CEEC and SJTU.
 
-![China Energy Engineering Corporation website](/screenshots/v1-thumbnails/china-energy-engineering-corporation.jpg)
+![China Energy Engineering Corporation website](/screenshots/china-energy-engineering-corporation.png)
 
 
 ## History

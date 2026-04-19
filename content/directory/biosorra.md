@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Biosorra is a female-led Kenyan biochar producer operating what it calls the largest industrial biochar facility in East Africa, based in Murang'a/Thika. It transforms tropical crop waste into biochar (branded Biochar Bora) sold to farmers and Kenya Nut Company, while generating durable carbon removal credits. In October 2025 the company raised $3.5M in seed funding to scale production toward a stated goal of 1 Mt CO2 removed per year by 2030.
 
-![Biosorra website](/screenshots/biosorra/2026-04-19.png)
+![Biosorra website](/screenshots/biosorra.png)
 
 
 ## History

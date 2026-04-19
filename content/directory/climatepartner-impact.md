@@ -23,7 +23,7 @@ liveliness: "🟠 Suspect"
 
 ClimatePartner Impact GmbH is a Munich-based subsidiary of ClimatePartner GmbH, founded in October 2022, that develops voluntary carbon market projects focused on nature-based removals (afforestation, reforestation, revegetation, soil organic carbon, blue carbon, biochar) and improved cookstoves. It handles the full project value chain from design through VER issuance, registry and portfolio management, and also provides structured carbon finance and impact investing vehicles. Flagship projects include Spekboom thicket restoration in South Africa's Eastern Cape.
 
-![ClimatePartner Impact website](/screenshots/climatepartner-impact/2026-04-19.png)
+![ClimatePartner Impact website](/screenshots/climatepartner-impact.png)
 
 
 ## History

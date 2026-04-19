@@ -23,7 +23,7 @@ liveliness: "🟡 Moderate"
 
 CarbonRun is a Nova Scotia-based company founded in 2022 by environmental scientists and freshwater ecologists to combat climate change through innovative river restoration techniques. In January 2026, Isometric issued the world's first certified River Alkalinity Enhancement credits to CarbonRun — 76 credits from the Kvina River Project in southern Norway, delivered to Frontier buyers including Stripe, Shopify, and McKinsey Sustainability. Frontier buyers' total offtake is $25.4M to deliver 55,442 tons between 2025 and 2029.
 
-![CarbonRun website](/screenshots/v1-thumbnails/carbonrun.jpg)
+![CarbonRun website](/screenshots/carbonrun.png)
 
 ## Registry Memberships
 

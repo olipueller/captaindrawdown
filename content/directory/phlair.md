@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Phlair (formerly Carbon Atlantis) is a Munich-based Direct Air Capture startup founded in 2022 that develops an electrochemical, hydrolyzer-powered pH-swing DAC process for low-cost, renewable-powered CO2 capture. The company raised €14.5M seed funding in September 2024 (incl. €2.5M EIC grant) and is deploying its Electra pilot plants with plans for a 15,000+ tCO2/year commercial facility (Project Dawn) in Canada with Deep Sky.
 
-![Phlair website](/screenshots/phlair/2026-04-19.png)
+![Phlair website](/screenshots/phlair.png)
 
 ## Registry Memberships
 

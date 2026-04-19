@@ -20,7 +20,7 @@ liveliness: "🟡 Moderate"
 
 Tupana (Tupana RGN) is a climate-tech startup focused on carbon removal and emission reduction through biochar technology, converting agricultural waste into fixed carbon for sale in voluntary carbon markets. The company is currently validating its solution via laboratory and field experiments, including pilot pyrolysis operations and biochar quality testing for >100-year permanence.
 
-![Tupana website](/screenshots/tupana/2026-04-19.png)
+![Tupana website](/screenshots/tupana.png)
 
 
 ## History

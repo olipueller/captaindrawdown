@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Southern Green Gas (SGG) is an Australian DAC technology developer founded in 2018, headquartered in Southbank, Victoria. The company builds modular, 100% solar-powered DAC units using MOF sorbents and partners with Corporate Carbon and AspiraDAC on pilot projects targeting both sequestration and e-fuels pathways. The firm has raised ~$3.9M and was an XPRIZE Carbon Removal Milestone Award finalist.
 
-![Southern Green Gas website](/screenshots/v1-thumbnails/southern-green-gas.jpg)
+![Southern Green Gas website](/screenshots/southern-green-gas.png)
 
 
 ## History

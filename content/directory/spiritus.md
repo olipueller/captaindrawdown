@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 Los Alamos National Lab spinout Spiritus is developing low-cost Direct Air Capture, having raised $41 million total since emerging from stealth in September 2023, including a $30M Series A in March 2025 led by Aramco Ventures with Khosla Ventures, Mitsubishi Heavy Industries America, and TDK Ventures. The company is building a 1,000-ton/year pilot facility on Nambé Pueblo tribal land in New Mexico targeting operations by early 2026, and is partnering with Casper Carbon Capture to develop Orchard One in Wyoming, which aims to sequester 2 Mt of CO2 annually. In October 2025 Spiritus also announced a partnership with Prometheus Hyperscale and Casper Carbon Capture to build carbon-negative data infrastructure in Wyoming via its Orchard Power platform.
 
-![Spiritus website](/screenshots/v1-thumbnails/spiritus.jpg)
+![Spiritus website](/screenshots/spiritus.png)
 
 
 ## History

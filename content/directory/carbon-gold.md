@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 Carbon Gold is a UK-based biochar company founded in 2007 by Craig Sams (Green & Black's Chocolate). It produces enriched biochar products — soil improvers, composts, fertilisers and tree-care products — for horticultural, agricultural and garden-retail markets, with retail distribution via Marshalls Garden and a 2024 partnership with Westland Horticulture.
 
-![Carbon Gold website](/screenshots/v1-thumbnails/carbon-gold.jpg)
+![Carbon Gold website](/screenshots/carbon-gold.png)
 
 
 ## History

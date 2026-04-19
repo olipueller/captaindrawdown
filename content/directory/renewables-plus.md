@@ -23,7 +23,7 @@ liveliness: "🟡 Moderate"
 
 Renewables Plus Sdn. Bhd. (R+) is a Malaysian biomass gasification specialist and EPC contractor, incorporated in 2004, that builds Blue Flame™ downdraft gasification systems for energy recovery from agricultural residues. Their technology powers Malaysia's first industrial biochar facility — the Bukit Selar Carbon Station operated by Carbon Plus — which produces biochar from bamboo and palm kernel shell and generates Puro.earth CORCs. R+ has completed gasification projects in six countries across ASEAN and West Asia.
 
-![Renewables Plus website](/screenshots/v1-thumbnails/renewables-plus.jpg)
+![Renewables Plus website](/screenshots/renewables-plus.png)
 
 
 ## History

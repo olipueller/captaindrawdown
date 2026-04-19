@@ -23,7 +23,7 @@ liveliness: "🟡 Moderate"
 
 Vesta (formerly Project Vesta) is a US-based Public Benefit Corporation developing "Coastal Carbon Capture," a form of ocean alkalinity enhancement that places olivine sand in coastal waters to accelerate marine enhanced rock weathering and permanently store atmospheric CO2. The company has conducted pilot deployments in Southampton, NY (2022) and Duck, NC (2024, 8,200 tonnes of olivine), and was the first company granted a US federal permit for a standalone ocean-based carbon removal pilot.
 
-![Vesta website](/screenshots/v1-thumbnails/vesta.jpg)
+![Vesta website](/screenshots/vesta.png)
 
 
 ## History

@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Eion was a US-based enhanced rock weathering supplier that deployed olivine (sourced from Sibelco's Åheim, Norway quarry) on Midwest and Southern US farmland via partnerships with agricultural cooperatives including Growmark and Southern Ag. It delivered the first ERW credits to Stripe, signed offtakes with Microsoft and a $33M/78,707-ton Frontier agreement for 2027-2030, and held a patent on direct soil-sampling MRV using trace elements. In February 2026 Terradot agreed to acquire Eion's assets, IP, contracts, and core team, folding the company into Terradot's global ERW platform.
 
-![Eion website](/screenshots/eion-carbon/2026-04-19.png)
+![Eion website](/screenshots/eion.png)
 
 ## Registry Memberships
 

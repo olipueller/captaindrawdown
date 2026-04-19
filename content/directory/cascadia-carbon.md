@@ -23,7 +23,7 @@ liveliness: "🟡 Moderate"
 
 Cascadia Carbon is a US/Canadian public benefit corporation founded in 2019, headquartered in Portland, Oregon, with a Canadian subsidiary in Vancouver, BC. It runs the CODEX / Carbonaut program, which uses blockchain and NFTs ("NFTrees") to tokenize individual trees in certified reforestation projects, effectively operating as a crowdsourced carbon offset marketplace rather than directly removing CO2. Activity signals are low and the website footer reads 2023, suggesting the company is operational but quiet.
 
-![Cascadia Carbon website](/screenshots/cascadia-carbon/2026-04-19.png)
+![Cascadia Carbon website](/screenshots/cascadia-carbon.png)
 
 
 ## History

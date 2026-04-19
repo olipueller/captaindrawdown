@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 Carbon Cycle GmbH & Co. KG is a German biochar producer based in Rieden, Bavaria, manufacturing Pflanzenkohle from PEFC-certified untreated wood chips via pyrolysis for agricultural soil improvement and animal feed applications. The company is EBC-certified and Puro.earth-listed (CORC 100+ durability), with biochar production starting in 2019 and a larger second production system commissioned in 2023. It also offers biochar project-development consultancy under the Biochar Zero brand.
 
-![Carbon Cycle website](/screenshots/v1-thumbnails/carbon-cycle.jpg)
+![Carbon Cycle website](/screenshots/carbon-cycle.png)
 
 ## Registry Memberships
 

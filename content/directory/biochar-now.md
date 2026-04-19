@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 Biochar Now is a Berthoud, Colorado-based biochar producer founded in 2011 that converts waste wood (beetle-kill pine, old pallets, utility poles, wildfire-damaged timber) into biochar via pyrolysis using patented kiln technology. Products serve specialty agriculture, reclamation, oil and gas, odor control, nutrient removal, and as filler in plastics, concrete, and asphalt. The company is expanding feedstock partnerships (e.g. Larimer County landfill diversion) and geographic footprint.
 
-![Biochar Now website](/screenshots/biochar-now/2026-04-19.png)
+![Biochar Now website](/screenshots/biochar-now.png)
 
 
 ## History

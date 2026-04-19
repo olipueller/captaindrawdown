@@ -23,7 +23,7 @@ liveliness: "🟡 Moderate"
 
 Royal Road Carbon Solutions is a US-based carbon offset broker and advisory firm that helps businesses identify and purchase verified carbon reduction/offset projects. Their first initiative with Steinbrenner Management focuses on soil organic carbon sequestration via regenerative agriculture with US farmers. They are affiliated with Royal Road Wealth Partners (a registered investment advisor).
 
-![Royal Road Carbon Solutions website](/screenshots/royal-road-carbon-solutions/2026-04-19.png)
+![Royal Road Carbon Solutions website](/screenshots/royal-road-carbon-solutions.png)
 
 
 ## History

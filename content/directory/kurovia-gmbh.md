@@ -21,7 +21,7 @@ liveliness: "🟡 Moderate"
 
 KuroVia GmbH is a German climate-tech startup based in Meerbusch that develops, builds and operates industrial pyrolysis plants converting biogenic residues (agricultural, municipal, industrial) into biochar, renewable process heat, and CDR credits. The company offers turnkey project services from feasibility studies through construction, monitoring and marketing of heat, biochar and CO₂ certificates. It was awarded the Gründungsstipendium NRW in early 2026.
 
-![KuroVia GmbH website](/screenshots/kurovia-gmbh/2026-04-19.png)
+![KuroVia GmbH website](/screenshots/kurovia-gmbh.png)
 
 
 ## History

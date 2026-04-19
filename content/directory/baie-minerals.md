@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 BAIE Minerals is a Canadian startup based in Baie Verte, Newfoundland (with a Calgary office) that processes asbestos and ultramafic mine tailings to extract critical minerals and sequester CO2 through carbon mineralization. Their process yields high-purity magnesium oxide that reacts with atmospheric CO2 to form stable magnesium carbonate, and they are planning a community demonstration project ahead of a full-scale facility targeted for 2027.
 
-![BAIE Minerals website](/screenshots/v1-thumbnails/baie-minerals.jpg)
+![BAIE Minerals website](/screenshots/baie-minerals.png)
 
 
 ## History

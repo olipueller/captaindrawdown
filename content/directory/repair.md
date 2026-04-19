@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 RepAir Carbon is an Israeli direct air capture company developing a solid-state electrochemical cell (inspired by battery and fuel-cell designs) that uses electricity and a selective membrane to separate CO2 from air or dilute industrial streams without heat or solvents. In April 2025 the company raised a $15M Series A extension co-led by Taranis Carbon Ventures and Extantia Capital, with Ormat, Repsol, and a $3M Israel Innovation Authority grant, and is partnered on the Pelican DAC hub in Louisiana and a C-Questra onshore DAC project in France.
 
-![RepAir website](/screenshots/v1-thumbnails/repair.jpg)
+![RepAir website](/screenshots/repair.png)
 
 
 ## History

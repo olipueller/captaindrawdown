@@ -20,7 +20,7 @@ liveliness: "🟡 Moderate"
 
 Capital Link Green (CLG) transforms waste into premium biochar, while removing carbon, restoring ecosystems, and generating credits backed by science and measurable results. The company produces biochar via pyrolysis and issues carbon credits insurable against reversal through Oka, via Lloyd's of London. They position themselves as a supplier targeting industrial-scale CDR delivery.
 
-![Capital Link Green website](/screenshots/capital-link-green/2026-04-19.png)
+![Capital Link Green website](/screenshots/capital-link-green.png)
 
 
 ## History

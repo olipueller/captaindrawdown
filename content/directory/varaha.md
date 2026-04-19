@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Varaha is a New Delhi-based carbon removal project developer founded in 2022, operating across India, Nepal, Bangladesh, Bhutan and Ivory Coast with ~150,000–175,000 smallholder farmers. Its primary pathway is biochar (registered on Puro.earth), supplemented by soil carbon/regenerative agriculture, agroforestry and enhanced rock weathering. Major offtakes include Google (100,000 t, Jan 2025) and Microsoft (100,000+ t over three years, Jan 2026); the company has raised ~$50M to date.
 
-![Varaha website](/screenshots/v1-thumbnails/varaha.jpg)
+![Varaha website](/screenshots/varaha.png)
 
 ## Registry Memberships
 

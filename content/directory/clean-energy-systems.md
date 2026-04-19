@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Clean Energy Systems (CES) is a Rancho Cordova, California-based technology developer of oxy-fuel combustion systems derived from rocket engine principles, enabling near-complete CO2 capture from power generation and industrial processes. Its flagship CDR initiative is the Mendota BECCS project, a joint venture with Chevron, Schlumberger (SLB) and Microsoft to convert agricultural waste biomass into syngas and geologically sequester >99% of the CO2. CES also licenses its platelet-based oxy-combustor technology for other zero-emission power applications including the ZEUS project with PETRONAS, MISC and Aker Solutions.
 
-![Clean Energy Systems website](/screenshots/clean-energy-systems/2026-04-19.png)
+![Clean Energy Systems website](/screenshots/clean-energy-systems.png)
 
 
 ## History

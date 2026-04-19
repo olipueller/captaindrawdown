@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 Carbon Neutral Initiative (CNI) is a Netherlands-based organization running the Carbon Green Roof project, which aims to become the first bio-enhanced silicate weathering project in Europe. It collaborates with TNO, Utrecht University, Hasselt University, and Salamanca and Alicante Universities in Spain. CNI won the top prize for the Experiments Encouragement Award in Rotterdam in 2023, and its pilot is part of the broader LIFE@Urban Roofs project under the EU LIFE programme.
 
-![Carbon Neutral Initiative website](/screenshots/v1-thumbnails/carbon-neutral-initiative.jpg)
+![Carbon Neutral Initiative website](/screenshots/carbon-neutral-initiative.png)
 
 
 ## History

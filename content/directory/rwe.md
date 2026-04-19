@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 RWE is a major German energy utility developing BECCUS (Bio-Energy Carbon Capture, Utilisation & Storage) at its Dutch Amer and Eemshaven biomass-fired power plants, targeting 11–14 Mt/yr of negative emissions from 2030 subject to technical and economic feasibility. As of early 2025, Amer is running on 100% biomass and Eemshaven on 25% biomass, with captured CO2 intended for permanent storage under the North Sea. The project remains in permitting/development stage with no final investment decision announced, and is facing NGO opposition over biomass-sourcing concerns.
 
-![RWE website](/screenshots/v1-thumbnails/rwe.jpg)
+![RWE website](/screenshots/rwe.png)
 
 
 ## History

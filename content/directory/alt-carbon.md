@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 India-based climate tech startup Alt Carbon raised $12 million in a seed financing round in May 2025 — the largest seed round to date for climate tech in India — to scale its Enhanced Rock Weathering solution across the Global South, targeting 5 million metric tons of CO2 removal by 2030. Alt Carbon is the first Indian-headquartered company to receive a prepurchase agreement from Frontier ($500,000) and the first ERW company globally to receive an offtake from the South Pole & Mitsubishi-led NextGen buyer's coalition. It also signed a historic 10,000-tonne offtake with MOL Group, the world's first direct CDR offtake by a shipping company for ERW.
 
-![Alt Carbon website](/screenshots/alt-carbon/2026-04-19.png)
+![Alt Carbon website](/screenshots/alt-carbon.png)
 
 ## Registry Memberships
 

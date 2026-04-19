@@ -21,7 +21,7 @@ liveliness: "🟢 Active"
 
 Yuanchu Technology (原初科技) is a Beijing-based startup founded in 2014 that develops CO2 mineralization technology, reacting captured CO2 with calcium from industrial solid waste (steel slag, carbide slag) and silicate ores to produce stable calcium carbonate. The company also pursues direct air mineralization (DAM) for permanent atmospheric CO2 removal and was selected as a 2025 Shell New Energy Challenge global top-12 finalist.
 
-![Yuanchu Technology website](/screenshots/v1-thumbnails/yuanchu-technology.jpg)
+![Yuanchu Technology website](/screenshots/yuanchu-technology.png)
 
 
 ## History

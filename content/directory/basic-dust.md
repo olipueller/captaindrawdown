@@ -21,7 +21,7 @@ liveliness: "🟠 Suspect"
 
 Basic Dust is a US-based enhanced weathering project developer that applies finely pulverized alkaline rock powder to water bodies and agricultural land to mineralize CO2 into bicarbonates for permanent removal. The company partners with farmers, tribal shellfish operators, and water administrators as co-owners of projects, with a stated co-benefit of reducing water acidity. Team members are based in Washington State and New York City.
 
-![Basic Dust website](/screenshots/v1-thumbnails/basic-dust.jpg)
+![Basic Dust website](/screenshots/basic-dust.png)
 
 
 ## History

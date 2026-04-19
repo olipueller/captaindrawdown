@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 BioFlux is a consultancy focused on biochar carbon removal project development. It guides project developers and empowers existing biochar producers by working on topics related to biomass waste streams, biochar, pyrolysis, and carbon credits. Services include designing pathways from production to certified carbon credits, including LCAs, project design documentation, MRV system setup, and registry submission support for Puro.Earth, Isometric, Riverse, CSI and VERRA.
 
-![BioFlux website](/screenshots/v1-thumbnails/bioflux.jpg)
+![BioFlux website](/screenshots/bioflux.png)
 
 ## Registry Memberships
 

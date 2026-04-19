@@ -21,7 +21,7 @@ liveliness: "🟡 Moderate"
 
 CO2 Energie AG is a Swiss joint venture between Regionalwerke AG Baden (RWB) and Recycling Energie AG, founded in 2021 to capture and liquefy biogenic CO2 from biogas upgrading. Its first plant in Nesselnbach was commissioned in April 2023 and captures up to 3,000 tonnes per year, with the CO2 sold via Messer Schweiz for industrial use. A second combined biogas-upgrading and CO2-capture plant is under construction in Niederwil with commissioning planned for spring 2026; this new facility is designed to produce net negative emissions by routing the captured CO2 to mineral storage where it turns into stone.
 
-![CO2 Energie website](/screenshots/co2-energie/2026-04-19.png)
+![CO2 Energie website](/screenshots/co2-energie.png)
 
 
 ## History

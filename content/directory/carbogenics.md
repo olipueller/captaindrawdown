@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Carbogenics is a University of Edinburgh spinout (2016) that produces CreChar, a biochar additive made in a high-temperature low-oxygen process using difficult-to-recycle organic waste such as coffee cups and cardboard, which improves the efficiency of anaerobic digestion plants by stabilising digestion and creating better conditions for microorganisms. In early 2026 the company closed a $3M investment and grant round from backers including Dangerous Ventures, Green Angel Ventures, Scottish Enterprise, Old College Capital, Innovate UK and the New Mexico Government to scale UK operations and introduce US manufacturing.
 
-![Carbogenics website](/screenshots/v1-thumbnails/carbogenics.jpg)
+![Carbogenics website](/screenshots/carbogenics.png)
 
 
 ## History

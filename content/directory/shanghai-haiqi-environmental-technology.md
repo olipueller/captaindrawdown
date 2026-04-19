@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Shanghai Haiqi Environmental Protection Technology Co., Ltd. is a Chinese biomass gasification and pyrolysis equipment manufacturer founded in 1995, headquartered in Pudong, Shanghai. The company builds biomass carbonization and gasification systems that produce biochar and green power, and has recently positioned itself as a negative-carbon CDR supplier, including a CCHP-integrated negative-carbon energy project in Brazil aimed at providing green power and CDR credits.
 
-![Shanghai HaiQi Environmental Technology website](/screenshots/shanghai-haiqi-environmental-technology/2026-04-19.png)
+![Shanghai HaiQi Environmental Technology website](/screenshots/shanghai-haiqi-environmental-technology.png)
 
 
 ## History

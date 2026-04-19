@@ -20,7 +20,7 @@ liveliness: "🟡 Moderate"
 
 Woodgas Pyrolytics, Inc. is an Illinois-based small company founded and led by Dr. Paul S. Anderson ("Dr TLUD") that develops and disseminates small- and medium-scale biomass pyrolysis technology, notably the patented Rotatable Covered Cavity (RoCC) kiln, for biochar production and carbon sequestration. The company supports deployments globally, particularly in Africa, Asia, and Latin America, combining clean cookstove/micro-gasification with biochar-based CDR. It is essentially a one-principal technology-provider / consultancy operation rather than a large CDR producer.
 
-![Woodgas Pyrolytics Inc website](/screenshots/woodgas-pyrolytics-inc/2026-04-19.png)
+![Woodgas Pyrolytics Inc website](/screenshots/woodgas-pyrolytics-inc.png)
 
 
 ## History

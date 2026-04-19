@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 Stiesdal SkyClean A/S is the biochar/pyrolysis subsidiary of Danish cleantech group Stiesdal, founded by wind-power pioneer Henrik Stiesdal. It develops turnkey 20 MW pyrolysis plants that convert agricultural and forestry residues into biochar (for permanent soil carbon storage) plus bio-oil and syngas; the first commercial-scale plant was inaugurated in Vrå, North Jutland in October 2024 and became fully operational in Q2 2024. The parent Stiesdal A/S also works on floating offshore wind (TetraSpar), GridScale energy storage and HydroGen electrolyzers, but SkyClean is a dedicated CDR supplier.
 
-![Stiesdal website](/screenshots/stiesdal/2026-04-19.png)
+![Stiesdal website](/screenshots/stiesdal.png)
 
 
 ## History

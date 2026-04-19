@@ -21,7 +21,7 @@ liveliness: "🟢 Active"
 
 Néolithe is a French industrial startup founded in 2019 and based near Angers (Maine-et-Loire) that operates "Fossilizers" — machines that shred mixed non-recyclable waste and react it with a proprietary mineral binder to produce Anthropocite aggregates for the construction industry. The company claims that for every ton of aggregate produced, 337 kg of CO2 equivalent is stored, by preventing the decomposition/incineration of biogenic carbon in the waste stream. Néolithe operates two R&D pilot lines near Angers and is preparing to install its first large-capacity plant.
 
-![Néolithe website](/screenshots/v1-thumbnails/n-olithe.jpg)
+![Néolithe website](/screenshots/néolithe.png)
 
 
 ## History

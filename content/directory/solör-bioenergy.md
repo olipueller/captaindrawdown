@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Solör Bioenergy Group is a leading Scandinavian renewable energy company that produces and distributes district heating, steam and electricity from wood fuels across approximately 300 sites in Sweden and Norway. It operates biochar production (pyrolysis with carbon capture/PyCCS) at multiple district heating plants including Skurup, Svedala, Munka-Ljungby, Herrljunga and a newly built facility in Ulricehamn (2025). In October 2025 the group completed a SEK 22 billion long-term refinancing to support its growth strategy.
 
-![Solör Bioenergy website](/screenshots/v1-thumbnails/sol-r-bioenergy.jpg)
+![Solör Bioenergy website](/screenshots/solör-bioenergy.png)
 
 
 ## History

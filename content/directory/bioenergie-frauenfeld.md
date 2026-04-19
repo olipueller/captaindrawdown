@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Bioenergie Frauenfeld is the largest SynCraft (pyrolysis) plant configuration globally and a joint project of Energie 360° AG and Schweizer Zucker AG, converting residual wood biomass into biochar through pyrolysis. With an electrical output of 4 MW, the plant is one of the largest of its kind in the world, and the carbon-negative facility provides power to 8,000 households as well as heat to the resident sugar factory and the town of Frauenfeld. Overall, the carbon-negative plant removes 9,000 metric tons of CO2 annually from the atmosphere.
 
-![Bioenergie Frauenfeld website](/screenshots/bioenergie-frauenfeld/2026-04-19.png)
+![Bioenergie Frauenfeld website](/screenshots/bioenergie-frauenfeld.png)
 
 
 ## History

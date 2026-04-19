@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Shell is developing proprietary solid-sorbent Direct Air Capture technology with an industrial-scale demonstration unit at Shell Technology Center Houston (FID 2023, targeted 2025 start-up). Through Shell US Gas and Power, it is the technical delivery partner on the Pelican Gulf Coast DAC Hub in Louisiana (with Mitsubishi, LSU and UH), which in 2025 signed commercial agreements with technology providers RepAir Carbon (electrochemical DAC) and Origen (limestone-based DAC).
 
-![Shell website](/screenshots/v1-thumbnails/shell.jpg)
+![Shell website](/screenshots/shell.png)
 
 
 ## History

@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 North Star Carbon Solutions LP is Canada's first majority Indigenous-owned CDR project, jointly developed by the Meadow Lake Tribal Council and Svante (following Svante's acquisition of Carbon Alpha). The project pairs CCS with the MLTC Bioenergy Centre in Saskatchewan, targeting up to 90,000 tonnes/year of CDR credits. Microsoft signed a 15-year offtake covering 626,000 tonnes, and the project is listed on Puro.earth.
 
-![North Star CCS website](/screenshots/north-star-ccs/2026-04-19.png)
+![North Star CCS website](/screenshots/north-star-ccs.png)
 
 
 ## History

@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 Bluefield Renewable Energy (BRE) is a Singapore-headquartered biochar producer that converts waste into biochar via advanced pyrolysis, generating internationally recognized carbon removal credits. The firm is certified under both EBC and IBI, received an IAF-ICP grant from Singapore's A*STAR, and partnered with SembWaste in late 2024 under the Closed-Loop Partners Network to scale biochar production from local waste streams.
 
-![Bluefield Renewable Energy website](/screenshots/bluefield-renewable-energy/2026-04-19.png)
+![Bluefield Renewable Energy website](/screenshots/bluefield-renewable-energy.png)
 
 
 ## History

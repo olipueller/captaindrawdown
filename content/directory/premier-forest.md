@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Premier Forest Products is a UK vertically integrated timber importer, processor and distributor headquartered in Newport, South Wales, with timber/panel-products wholesale as its primary business. As a side operation, it runs a custom-built biomass gasification facility that converts its own wood-waste into biochar, which was previously certified under the Puro.earth biochar methodology and issued CORCs. The parent company is clearly active and growing, but the Puro.earth facility listing appears to no longer be active, suggesting the CDR/biochar stream may have been paused or delisted.
 
-![Premier Forest website](/screenshots/premier-forest/2026-04-19.png)
+![Premier Forest website](/screenshots/premier-forest.png)
 
 ## Registry Memberships
 

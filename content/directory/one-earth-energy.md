@@ -21,7 +21,7 @@ liveliness: "🟢 Active"
 
 One Earth Energy, LLC is a corn ethanol production plant in Gibson City, Illinois, majority-owned by NYSE-listed REX American Resources Corp. Through sister entity One Earth Sequestration, the company is developing a BECCS project to capture fermentation CO2 and inject it into the Mt. Simon Sandstone formation. The EPA Class VI injection well permitting process is moving forward with a final permitting decision expected in 2026, and the capture facility will initially sequester CO2 from the One Earth Energy ethanol plant with potential later capacity for third-party CO2 sequestration for a fee.
 
-![One Earth Energy website](/screenshots/v1-thumbnails/one-earth-energy.jpg)
+![One Earth Energy website](/screenshots/one-earth-energy.png)
 
 
 ## History

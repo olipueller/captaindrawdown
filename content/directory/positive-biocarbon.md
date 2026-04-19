@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Positive BioCarbon is a UK-based biochar manufacturer and distributor operating as a division/brand of Rectella International Ltd, headquartered in Burnley, Lancashire. It supplies FSC-accredited biochar derived from virgin waste-stream biomass (including invasive species clearance), graded 0-20mm, to agriculture, horticulture, arboriculture and industrial customers.
 
-![Positive Biocarbon website](/screenshots/positive-biocarbon/2026-04-19.png)
+![Positive Biocarbon website](/screenshots/positive-biocarbon.png)
 
 
 ## History

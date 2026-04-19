@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Nordbex AB is a Swedish climate-tech company developing modular carbon-negative combined heat and power plants using bioenergy with carbon capture, utilization and storage (BECCUS). Its first facility, Nordbex 1, is scheduled to start operations in Sweden's SE4 region by 2029, converting forestry waste into electricity and district heat while capturing up to 200,000 tonnes of biogenic CO2 per year for transport to storage via Northern Lights or Project Greensand. The company works with Aker Solutions (EPCm) and Aker Carbon Capture (Just Catch 100 units).
 
-![Nordbex website](/screenshots/v1-thumbnails/nordbex.jpg)
+![Nordbex website](/screenshots/nordbex.png)
 
 
 ## History

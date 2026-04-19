@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Chooose AS is an Oslo-based climate-tech SaaS company founded in 2017 that provides software, APIs, and a marketplace platform for enterprises — particularly airlines, travel, and logistics firms — to manage SAF programs, calculate emissions, and access vetted carbon removals and offsets. They do not physically remove CO2; they operate as an ecosystem platform connecting buyers with SAF producers and carbon project developers. Customers include Delta, Air Canada, British Airways, Alaska Airlines, Japan Airlines, and Booking.com.
 
-![Chooose AS website](/screenshots/v1-thumbnails/chooose-as.jpg)
+![Chooose AS website](/screenshots/chooose-as.png)
 
 ## Registry Memberships
 

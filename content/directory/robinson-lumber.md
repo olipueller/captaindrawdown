@@ -22,7 +22,7 @@ liveliness: "🟠 Suspect"
 
 Robinson Lumber Company is a 132-year-old, fifth-generation family-owned wholesale wood products business headquartered in New Orleans, Louisiana, with roughly 100 employees and customers in over 70 countries. In 2025 the company launched a biochar initiative that converts waste wood from its lumber operations into biochar, with the intent to sell carbon credits on the voluntary market. The biochar effort is a secondary business line alongside the core lumber wholesaling and manufacturing operations.
 
-![Robinson Lumber website](/screenshots/v1-thumbnails/robinson-lumber.jpg)
+![Robinson Lumber website](/screenshots/robinson-lumber.png)
 
 
 ## History

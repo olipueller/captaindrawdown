@@ -23,7 +23,7 @@ liveliness: "🟡 Moderate"
 
 Varhad Capital (VCAP), part of the Varhad Group based in Pune/Nagpur, India, is a biochar CDR project developer operating through a network of 165 farmer cooperatives to convert cotton and pigeon pea stalks into biochar via Kon-Tiki kilns and industrial pyrolysis. It has partnered with Japan's Green Carbon Inc. and Switzerland's Carbonfuture to deliver approximately 120,300 tonnes of biochar removal credits, and is expanding into biomethanol and biomass-to-SAF projects that generate additional CDR credits under Carbon Standard International and Isometric.
 
-![Varhad website](/screenshots/v1-thumbnails/varhad.jpg)
+![Varhad website](/screenshots/varhad.png)
 
 
 ## History

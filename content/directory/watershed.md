@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Watershed is an enterprise sustainability software platform that helps companies measure, report, and reduce emissions, and operates a curated marketplace of vetted carbon removal projects (DAC, bio-oil, biochar, ERW, reforestation, and more) that its enterprise customers can purchase from. Watershed does not physically remove CO2; it acts as an accounting platform and marketplace intermediary in the CDR ecosystem. Customers include Walmart, Airbnb, Stripe, Klarna, and Block.
 
-![Watershed website](/screenshots/v1-thumbnails/watershed.jpg)
+![Watershed website](/screenshots/watershed.png)
 
 ## Registry Memberships
 

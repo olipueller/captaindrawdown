@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 NY Carbon is a Saugerties, NY-based biochar producer and the only commercial-scale biochar producer in the Hudson Valley, using 100% locally sourced woody waste feedstock. It partners with 4 Corners Carbon Coalition, Terraset, Sustainable Hudson Valley, and Cornell Cooperative Extension under the Hudson Valley Biochar Pioneers program, which equipped 14 farms with locally produced biochar.
 
-![NY Carbon website](/screenshots/v1-thumbnails/ny-carbon.jpg)
+![NY Carbon website](/screenshots/ny-carbon.png)
 
 
 ## History

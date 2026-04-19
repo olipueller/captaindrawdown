@@ -21,7 +21,7 @@ liveliness: "🟠 Suspect"
 
 Green Carbon Products is a small Ontario-based biochar producer and retailer. They make biochar from sustainably sourced clean wood and sell it as a soil/compost amendment to gardeners and farmers in Canadian dollars. No evidence of carbon credit issuance or registry participation; operates as a small retail biochar supplier with limited operating hours.
 
-![Green Carbon Products website](/screenshots/green-carbon-products/2026-04-19.png)
+![Green Carbon Products website](/screenshots/green-carbon-products.png)
 
 
 ## History

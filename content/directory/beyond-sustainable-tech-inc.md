@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Beyond Sustainable Tech (BST) is a Canadian company based in Kedgwick, New Brunswick that develops biochar-based composite materials for packaging and construction applications. Their products combine biochar with non-recyclable waste to create carbon-negative materials that sequester CO2 while providing functional alternatives to conventional plastics and building materials. The company, founded by Alain Bélanger, is in early commercialization and actively seeking partners and investment to scale.
 
-![Beyond Sustainable Tech inc. website](/screenshots/beyond-sustainable-tech-inc/2026-04-19.png)
+![Beyond Sustainable Tech inc. website](/screenshots/beyond-sustainable-tech-inc.png)
 
 
 ## History

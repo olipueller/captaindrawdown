@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 Frontier Climate is an advance market commitment (AMC) that aggregates buyer demand to purchase over $1 billion of permanent carbon dioxide removal between 2022 and 2030. Launched in April 2022 by Stripe, Alphabet, Shopify, Meta and McKinsey Sustainability, it operates as a Delaware public benefit LLC subsidiary of Stripe and facilitates prepurchases and offtake agreements with CDR suppliers on behalf of its buyer coalition. It is one of the most influential demand-side actors in the CDR market.
 
-![Frontier Climate website](/screenshots/frontier-climate/2026-04-19.png)
+![Frontier Climate website](/screenshots/frontier-climate.png)
 
 
 ## History

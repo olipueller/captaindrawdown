@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Lithos Carbon is a San Francisco-based CDR supplier scaling Enhanced Rock Weathering by applying crushed basalt rock dust to US farmland, permanently removing CO2 while improving soil health and crop yields. The company has signed major offtakes including a $57.1M/154,240-ton agreement with Frontier and a multi-year deal with Microsoft, and in December 2025 it delivered 5,160 registry-certified tons—the largest ERW issuance to date.
 
-![Lithos website](/screenshots/lithos/2026-04-19.png)
+![Lithos website](/screenshots/lithos.png)
 
 ## Registry Memberships
 

@@ -22,7 +22,7 @@ liveliness: "🟠 Suspect"
 
 Swiss Biochar is a Swiss biochar producer based in Belmont-sur-Lausanne (with a 2025 legal-seat change to Zürich), operating since 2010 and part of the Novocarbo Group since 2021. The company produces EBC-certified biochar and activated soil substrates via pyrolysis for agriculture, viticulture, and urban green infrastructure, and its output feeds into Novocarbo's carbon-removal credit programme.
 
-![Swiss Biochar website](/screenshots/swiss-biochar/2026-04-19.png)
+![Swiss Biochar website](/screenshots/swiss-biochar.png)
 
 
 ## History

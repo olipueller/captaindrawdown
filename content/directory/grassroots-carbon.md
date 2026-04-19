@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 Grassroots Carbon is a San Antonio, Texas-based soil carbon removal company founded in 2021 that partners with U.S. ranchers to implement regenerative grazing practices and generate verified soil carbon credits. The company works with ranchers across more than 2 million acres in 22 states and, as of early 2026, has delivered 1.9 million tons of carbon removals to buyers including Nestlé, Microsoft, Shopify, Chevron, Boeing, and Olipop. It measures carbon via one-meter soil core sampling with third-party verification and has paid $40 million directly to ranchers since 2022.
 
-![Grassroots Carbon website](/screenshots/grassroots-carbon/2026-04-19.png)
+![Grassroots Carbon website](/screenshots/grassroots-carbon.png)
 
 
 ## History

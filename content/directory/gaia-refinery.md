@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Gaia Refinery is a Halifax-based carbon removal startup founded in 2020 by Dr. Tammy Cai (CTO) and Genny Shaw (CEO) that combines liquid Direct Air Capture with biomass conversion. Its Bio-DAC plug-in technology processes biomass waste (wood chips, crop residues, wastewater) to produce acetic acid that regenerates the DAC sorbent with minimal heat input, reducing energy demand versus conventional DAC. The company is backed by NorthX, CICE, MaRS and Milkywire's Climate Transformation Fund.
 
-![Gaia Refinery website](/screenshots/gaia-refinery/2026-04-19.png)
+![Gaia Refinery website](/screenshots/gaia-refinery.png)
 
 
 ## History

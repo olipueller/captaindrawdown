@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 BioCarb Solution is a Danish BECCS service provider that aggregates biogenic CO2 from Danish biogas plants, arranges transport (via Greenport Scandinavia / Port of Hirtshals), and delivers it to INEOS' Project Greensand for permanent offshore geological storage in the North Sea, with Puro.earth certification. The company was acquired in October 2024 by Danish Bio Commodities (DBC), which has since consolidated biogas, engineering and substrate operations around it. It also plans to produce biochar from biogas residues starting in 2026.
 
-![BioCarb Solution website](/screenshots/v1-thumbnails/biocarb-solution.jpg)
+![BioCarb Solution website](/screenshots/biocarb-solution.png)
 
 
 ## History

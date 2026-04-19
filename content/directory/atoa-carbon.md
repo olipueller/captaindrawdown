@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 ATOA Carbon is a US-based carbon markets consultancy and project developer that helps clients with offset methodology development, digital MRV, carbon program design, and sustainability consulting. They are not a physical CDR supplier but operate as an ecosystem player serving the broader carbon markets, including CDR project development.
 
-![ATOA Carbon website](/screenshots/atoa-carbon/2026-04-19.png)
+![ATOA Carbon website](/screenshots/atoa-carbon.png)
 
 
 ## History

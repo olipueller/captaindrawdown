@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 CarbonZero.Eco is a Silicon Valley-based, venture-backed climate technology startup that completed its first commercial biochar production facility in Colusa County, California and announced a landmark carbon removal credit purchase agreement with Climeworks in December 2025. Founded by Harper Moss, the company partners with almond farmers across Colusa and Yolo Counties, using almond-shell agricultural waste to produce biochar for long-lasting carbon storage and soil benefits. Puro.earth vetted the planned facility, registering CarbonZero.eco as a biochar CO2 Removal Certificate supplier, with certificates expected to begin generating in summer 2025.
 
-![CarbonZero website](/screenshots/carbonzero/2026-04-19.png)
+![CarbonZero website](/screenshots/carbonzero.png)
 
 
 ## History

@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 ASF GmbH (Abfallwirtschaft und Stadtreinigung Freiburg) is the municipal waste-management and street-cleaning utility for the city of Freiburg, jointly owned by the City of Freiburg (53%) and Remondis (47%). Since 2017 it has operated a PYREG pyrolysis plant on the former Eichelbuck landfill site that carbonises regional green-cuttings into EBC-certified Premium-quality biochar (~80–100 t/year) for agricultural and viticultural use. Biochar is a small side activity relative to its 450+ employee core waste business, and its removal credits are listed via Carbonfuture.
 
-![ASF GmbH website](/screenshots/asf-gmbh/2026-04-19.png)
+![ASF GmbH website](/screenshots/asf-gmbh.png)
 
 
 ## History

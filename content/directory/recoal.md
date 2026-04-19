@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Recoal AG is a Zurich-based CDR startup founded in 2023 that uses hydrothermal carbonization (HTC) to convert wet-waste biomass into hydrochar, a coal-like stable carbon product that is then stored in underground geological formations (e.g. gravel pits) for durable carbon removal. The company's methodology was validated by the Rainbow Standard (formerly Riverse) carbon registry following an independent audit by Enviance under ISO standards. Recoal is preparing to launch its pilot plant in 2026, backed by the Migros Pioneer Fund and the City of Zurich's KlimUp program.
 
-![Recoal website](/screenshots/recoal/2026-04-19.png)
+![Recoal website](/screenshots/recoal.png)
 
 
 ## History

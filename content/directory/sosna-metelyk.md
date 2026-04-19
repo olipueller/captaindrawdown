@@ -20,7 +20,7 @@ liveliness: "🟡 Moderate"
 
 Sosna Metelyk is an early-stage, unfunded American-Ukrainian climate hardware startup founded in 2023 and based in Cherkasy, Ukraine. It is developing a concept for portable solar-powered passive direct-air-capture pods alongside several other unrelated hardware concepts (Gen-IV gas-cooled fast reactor, clean engines, orbital aircraft). The company self-reports TRL 4 R&D phase with no funding, deliveries, or validated technology.
 
-![Sosna Metelyk website](/screenshots/v1-thumbnails/sosna-metelyk.jpg)
+![Sosna Metelyk website](/screenshots/sosna-metelyk.png)
 
 
 ## History

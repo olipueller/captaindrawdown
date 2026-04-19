@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Rainbow Bee Eater is a Melbourne-based biochar technology company that develops and supplies the ECHO2 modular pyrolysis system, which converts biomass residues such as straw and wood into biochar, syngas, wood vinegar and carbon removal certificates. It was the first company outside Europe to produce and sell Puro.earth certified CORCs, with buyers including Microsoft, Shopify and Watershed. A Mark 4 ECHO2 operates at Holla-Fresh in South Australia, and a six-module system is being commissioned at Katunga Fresh in Victoria in 2025.
 
-![Rainbow Bee Eater website](/screenshots/v1-thumbnails/rainbow-bee-eater.jpg)
+![Rainbow Bee Eater website](/screenshots/rainbow-bee-eater.png)
 
 
 ## History

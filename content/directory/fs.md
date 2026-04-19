@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 FS (FS Agrisolutions Indústria de Biocombustíveis / FS Bioenergia) is Brazil's largest corn-based ethanol producer, a joint venture between Summit Brazil Renewables and Tapajós Participações, headquartered in Lucas do Rio Verde, Mato Grosso. The company is developing South America's first BECCS project at its Lucas do Rio Verde plant, which will capture fermentation CO2 and inject it into deep geological storage, aiming to produce carbon-negative ethanol at commercial scale. Construction was slated to proceed with completion targeted around 2025–2026.
 
-![FS website](/screenshots/fs/2026-04-19.png)
+![FS website](/screenshots/fs.png)
 
 
 ## History

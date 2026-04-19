@@ -22,7 +22,7 @@ liveliness: "🟠 Suspect"
 
 South Ocean Air is a Houston, Texas-based direct air capture company that launched on Earth Day, April 22, 2023, using cellulose as the core material for its CO2-capture technology. The company applies a low-energy plasma treatment to plant cellulose to create a passive "carbon magnet" that pulls ambient CO2 from the air for permanent storage or reuse. The firm remains pre-commercial with no public registry deliveries, founder-led, and is targeting an under-$20/tonne cost based on techno-economic modeling.
 
-![South Ocean Air website](/screenshots/v1-thumbnails/south-ocean-air.jpg)
+![South Ocean Air website](/screenshots/south-ocean-air.png)
 
 
 ## History

@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 Aircapture is a Berkeley, California-based direct air capture company founded in 2019 that builds modular, containerized DAC units installed on-site at industrial customers (food, beverage, concrete, manufacturing) to supply high-purity atmospheric CO2. In 2025 it won the XPRIZE Carbon Removal with partner 44.01 for Project Hajar in the UAE, raised a $50M Series A led by the Larsen Lam Climate Change Foundation, and opened Japan's first DAC plant with Aizawa Concrete in Fukushima.
 
-![Aircapture website](/screenshots/aircapture/2026-04-19.png)
+![Aircapture website](/screenshots/aircapture.png)
 
 ## Registry Memberships
 

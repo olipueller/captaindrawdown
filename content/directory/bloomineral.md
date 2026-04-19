@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 Bloomineral is a French climate deeptech startup spun out of the Marble studio and hosted at the LSCE laboratory in Saclay. It uses marine organisms (algae) in open systems with seawater and alkaline industrial residues to biomineralize atmospheric CO2 into ultra-pure calcium carbonate crystals usable as carbon-negative limestone fillers in cement, paint, paper, and cosmetics. The company is moving from lab to pilot, actively hiring (CTO role targeted for Oct 2026), and has engaged partners such as Holcim, Vinci, and Suez.
 
-![Bloomineral website](/screenshots/bloomineral/2026-04-19.png)
+![Bloomineral website](/screenshots/bloomineral.png)
 
 ## Registry Memberships
 

@@ -23,7 +23,7 @@ liveliness: "🟡 Moderate"
 
 Greencarbon is a Dutch broker/marketplace for CO2 removal certificates based in Aalsmeer, Netherlands. The company sells carbon removal credits from Dutch and Belgian projects (farmers and project developers) to SMEs and governments, with credits certified through registries such as ONCRA. They do not physically remove CO2 themselves but act as an intermediary in the CDR ecosystem.
 
-![Greencarbon website](/screenshots/greencarbon/2026-04-19.png)
+![Greencarbon website](/screenshots/greencarbon.png)
 
 
 ## History

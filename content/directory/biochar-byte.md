@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 Biochar Byte (Biochar Byte AgTech Pvt Ltd) is an early-stage Indian startup based in Pune, incorporated September 2024 by Udaykumar Mathapati and Vinayak Patil. It produces biochar at industrial scale by pyrolyzing agricultural residues collected from smallholder farmers, with the goal of preventing open-field burning and generating carbon credits. The company is unfunded with only two employees.
 
-![Biochar Byte website](/screenshots/biochar-byte/2026-04-19.png)
+![Biochar Byte website](/screenshots/biochar-byte.png)
 
 
 ## History

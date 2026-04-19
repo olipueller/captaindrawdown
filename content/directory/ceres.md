@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 CERES (CERtification of Environmental Standards GmbH) is a German inspection and certification body based in Hersbruck that validates and verifies carbon removal projects, including biochar (EBC), humus/soil carbon (CO2-Land standard), and the World-Climate Farm standard developed with Carbon Standards International. It operates an ICROA-endorsed registry and is part of the EASY-CERT group. CERES is a CDR ecosystem player (auditor/verifier), not a direct CO2 removal supplier.
 
-![CERES website](/screenshots/ceres/2026-04-19.png)
+![CERES website](/screenshots/ceres.png)
 
 
 ## History

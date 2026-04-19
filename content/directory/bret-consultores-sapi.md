@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 Bret Consultores SAPI de CV is a Mexico-based carbon project developer that generates forestry-based carbon removal credits through Improved Forest Management (IFM) projects with ejidos and private landowners across Mexican states including Chihuahua, Durango, Jalisco and Quintana Roo. It is a wholly-owned subsidiary of US-listed Arma Services Inc. (OTC: ARMV) following a 2023 reverse merger, and its projects follow the Climate Action Reserve Forest Protocol for Mexico.
 
-![Bret Consultores SAPI website](/screenshots/bret-consultores-sapi/2026-04-19.png)
+![Bret Consultores SAPI website](/screenshots/bret-consultores-sapi.png)
 
 
 ## History

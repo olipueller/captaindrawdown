@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 EcoTree is a French nature-based solutions company that directly plants and manages mixed-species, continuous-cover forests across France, Denmark, the UK, Germany and Belgium, generating third-party verified carbon credits from afforestation/reforestation and peatland restoration projects. It operates its own forestry teams and sells both tree ownership to individuals and carbon credits to corporates for CSRD/SBTi reporting, with credits verified by Bureau Veritas, Label Bas Carbone, MoorFutures, and the Woodland Carbon Code.
 
-![Ecotree website](/screenshots/ecotree/2026-04-19.png)
+![Ecotree website](/screenshots/ecotree.png)
 
 ## Registry Memberships
 

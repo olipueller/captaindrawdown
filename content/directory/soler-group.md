@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 SOLER Group (parent of Carbonex) is a French family-owned renewable carbon producer that operates three biorefineries in France using its own patented pyrolysis technology to convert wood residues from sustainably managed forests into charcoal, biocarbon, biochar, and green electricity. The Group sells biochar carbon removal credits via the Carbonfuture marketplace through its Carbon Centric subsidiary and announced a large biocarbon plant in the US Appalachian region with at least 80,000 tpa capacity.
 
-![SOLER Group website](/screenshots/v1-thumbnails/soler-group.jpg)
+![SOLER Group website](/screenshots/soler-group.png)
 
 
 ## History

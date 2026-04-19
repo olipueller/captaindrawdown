@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 PyroCCS is a Germany-based ClimateTech startup established in March 2022 after participating in the XPRIZE Carbon Removal Milestone Competition, focused on enabling the fastest-to-scale and cheapest biochar carbon dioxide removal. The company develops its own biochar projects in countries like Namibia and India, and also offers "Carbon Credit Plug & Play Packages" to other project developers including proprietary pyrolysis machinery, its dMRV+ Sarva Carbon software, and certifications under Puro CORC or EBC C-Sink. In 2023, PyroCCS generated the first European Biochar Certificate C-Sink carbon credit on the entire African continent.
 
-![PyroCCS website](/screenshots/pyroccs/2026-04-19.png)
+![PyroCCS website](/screenshots/pyroccs.png)
 
 
 ## History

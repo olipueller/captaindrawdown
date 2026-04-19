@@ -24,7 +24,7 @@ liveliness: "🟠 Suspect"
 
 Vault 44.01 is a North American CCS project developer with offices in Calgary and Denver, backed by Grey Rock Investment Partners. It partners with ethanol producers (e.g., Cardinal Ethanol via the One Carbon Partnership JV, and Alto Ingredients) and other industrial emitters to capture, transport, and permanently sequester CO2 in deep geologic reservoirs, delivering BECCS-style removals when the CO2 source is biogenic fermentation.
 
-![Vault 44.01 website](/screenshots/v1-thumbnails/vault-44-01.jpg)
+![Vault 44.01 website](/screenshots/vault-4401.png)
 
 
 ## History

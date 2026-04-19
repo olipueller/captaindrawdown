@@ -21,7 +21,7 @@ liveliness: "🟢 Active"
 
 Green Carbon Solutions is an Indiantown, Florida-based climate-tech company led by founder Martin Ellis that uses pyrolysis to transform eucalyptus wood into biochar and activated carbon. The plant, relocated from Poland and retrofitted for Florida, features a 110-foot retort structure and is designed to generate its own electricity from process emissions in a closed-loop system. Company milestones include commissioning of the retort and production of biochar & bio-oil (Jan 2024), certificate of occupancy (Dec 2023), and an exclusive license for Polchar to market GCS biochar to Europe's metallurgical industry.
 
-![Green Carbon Solutions website](/screenshots/green-carbon-solutions/2026-04-19.png)
+![Green Carbon Solutions website](/screenshots/green-carbon-solutions.png)
 
 
 ## History

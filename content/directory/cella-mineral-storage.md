@@ -23,7 +23,7 @@ liveliness: "🟡 Moderate"
 
 Cella Mineral Storage is a New York-based carbon mineralization startup operating a pilot storage facility in Kenya's Great Rift Valley, where it injects captured CO2 dissolved in water into basaltic volcanic rocks for permanent in-situ mineralization. The company partners with multiple DAC providers (Octavia Carbon, Sirona Technologies, RepAir, Greenlyte, Carbon Atlantis) and has sold credits to Frontier (Stripe/Shopify) and Watershed. In February 2025 it co-launched Project Jacaranda with Sirona at Lake Elementaita, integrating solar-powered DAC with mineralization storage.
 
-![Cella Mineral Storage website](/screenshots/cella-mineral-storage/2026-04-19.png)
+![Cella Mineral Storage website](/screenshots/cella-mineral-storage.png)
 
 
 ## History

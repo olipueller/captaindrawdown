@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 NuAria is a US-based direct air capture startup developing a novel solid sorbent packaged as cylindrical wound membranes for scalable, low-cost CO2 removal. The company sells carbon credits via subscriptions and upfront purchases to industries and governments pursuing net-zero targets. Public signals are limited — the website is live and it was featured on a 2025 DAC watchlist, but no major funding, deliveries, or registry activity is visible.
 
-![NuAria website](/screenshots/v1-thumbnails/nuaria.jpg)
+![NuAria website](/screenshots/nuaria.png)
 
 
 ## History

@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 Underground Forest BV was founded by Kees de Gruiter in 2023 in Rotterdam, sourcing Norway spruce from sustainably managed forests in the Belgian Ardennes, shipping them to the Netherlands, and driving them vertically deep into clay or peat soils for permanent carbon storage. The firm's method is certified under the IPCC CDR Taxonomy and the EU CRCF programme with a permanence of more than a thousand years. They issue credits via Oncra and are pursuing CORCs with Puro.earth, serving both net-negative construction foundations and standalone CDR offtake.
 
-![Underground Forest website](/screenshots/v1-thumbnails/underground-forest.jpg)
+![Underground Forest website](/screenshots/underground-forest.png)
 
 
 ## History

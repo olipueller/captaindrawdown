@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 Airhive is a UK-based direct air capture company founded in 2022 that develops modular, fluidised-bed DAC systems using natural-mineral sorbents. The company is now capturing carbon dioxide directly from the atmosphere with its system in Alberta, Canada, using a novel DAC method based on fluidised beds combined with heat recovery to lower costs. It has commercial pilots with Coca-Cola Europacific Partners and Deep Sky, and was pre-purchased by Frontier in 2023.
 
-![Airhive website](/screenshots/airhive/2026-04-19.png)
+![Airhive website](/screenshots/airhive.png)
 
 
 ## History

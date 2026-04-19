@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Taranis is a France-based investment and asset management company owned by the Perenco Group, operating four funds: Carbon Ventures (CCUS and plastic recycling VC), Energy for Africa (renewables), Decommissioning, and Nature-Based Solutions (forest conservation/afforestation carbon projects). Through Carbon Ventures it provides Series A/B funding to carbon capture hardware startups such as RepAir Carbon, and through its NBS arm it develops tropical forest conservation projects spanning 400,000+ hectares. It participates in the CDR ecosystem as an investor and project developer.
 
-![Taranis website](/screenshots/taranis/2026-04-19.png)
+![Taranis website](/screenshots/taranis.png)
 
 
 ## History

@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 ReGenEarth is a UK-based sustainability venture spun out of Stephen Lansdown's Earth Capital that integrates biochar pyrolysis into operational anaerobic digestion and biomass sites. In June 2025 it launched a £100m Green Bond programme with RER Capital to finance nationwide rollout, and in January 2026 deployed Onnu's CarboFlow pyrolysis technology at its Sedgefield dairy farm (Hope Farm) to create a fully circular AD-pyrolysis hub producing carbon removal credits verified via Puro.earth and rated by BeZero.
 
-![ReGenEarth website](/screenshots/v1-thumbnails/regenearth.jpg)
+![ReGenEarth website](/screenshots/regenearth.png)
 
 
 ## History

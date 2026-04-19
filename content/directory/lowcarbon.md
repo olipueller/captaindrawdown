@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 LowCarbon is a South Korean climate-tech company founded in 2016 in Gangjin County, Jeollanam-do, developing DAC and CCUS technologies including its "Zero C" direct air capture unit and a catalyst (KLC) that mineralizes captured CO2 into carbonates. The company is also pursuing clean-hydrogen hub partnerships in Korea and the United States (Florida, Houston). As of September 2025, CEO Lee Chul was publicly demonstrating the company's "carbon tree" DAC device at Wellness Seoul 2025.
 
-![LowCarbon website](/screenshots/lowcarbon/2026-04-19.png)
+![LowCarbon website](/screenshots/lowcarbon.png)
 
 
 ## History

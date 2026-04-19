@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 KORALL (Korall Carbon Capture AB) is a Gothenburg, Sweden-based DAC startup founded in 2023. It develops a liquid-solvent direct air capture technology whose power draw can dynamically scale with cheap/surplus renewable electricity, targeting both permanent geological mineralization and CO2 utilization for renewable fuels.
 
-![KORALL website](/screenshots/korall/2026-04-19.png)
+![KORALL website](/screenshots/korall.png)
 
 
 ## History

@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 Kanop is a Paris-based MRV software company founded in 2021 that uses AI and satellite imagery (optical, radar, LiDAR) to support monitoring, baselining and verification for nature-based carbon projects and corporate supply-chain reporting. It supports major standards including Verra VCS, Gold Standard, BioCarbon Standard, Cercarbono, Isometric, and Equitable Earth, and was recently selected by Isometric as a nature-based service partner. Kanop does not physically remove CO2 itself — it is an MRV enabling-tech provider in the CDR ecosystem.
 
-![Kanop website](/screenshots/v1-thumbnails/kanop.jpg)
+![Kanop website](/screenshots/kanop.png)
 
 ## Registry Memberships
 

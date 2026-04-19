@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Airex Energy is a Québec-based biochar technology company that uses its patented CarbonFX™ pyrolysis and DryFX™ drying solutions to convert forestry residues into biochar, biocarbon and biocoal. Through its Carbonity joint venture with SUEZ and Groupe Rémabec, it inaugurated Canada's largest industrial biochar plant in Port-Cartier in May 2025, starting at 10,000 t/yr and ramping to 30,000 t/yr (75,000 t CO2/yr sequestered). The project is Puro.earth certified and has delivered the first credits under a 36,000-credit Microsoft offtake.
 
-![Airex Energy website](/screenshots/airex-energy/2026-04-19.png)
+![Airex Energy website](/screenshots/airex-energy.png)
 
 ## Registry Memberships
 

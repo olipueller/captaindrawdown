@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Reforest'Action is a French B-Corp certified reforestation and agroforestry project developer founded in 2010 and headquartered in Rueil-Malmaison. It designs, develops and monitors afforestation, reforestation, mangrove restoration and agroforestry projects across 45+ countries, generating VCS-certified carbon credits funded by 3,600+ corporate clients. The company secured a €20m growth investment from Blisce and Eiffel Essentiel in June 2024 and had 90+ employees as of 2025.
 
-![Reforestaction website](/screenshots/reforestaction/2026-04-19.png)
+![Reforestaction website](/screenshots/reforestaction.png)
 
 ## Registry Memberships
 

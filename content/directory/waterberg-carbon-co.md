@@ -20,7 +20,7 @@ liveliness: "🟡 Moderate"
 
 Waterberg Carbon Co is a South African biochar-focused CDR venture with a LinkedIn presence but no standalone website. A recent LinkedIn post announces a partnership with Cula Technologies (a biochar MRV platform) for carbon removal, indicating they are producing or planning to produce biochar credits. Scale and operational status remain unclear.
 
-![Waterberg Carbon Co website](/screenshots/v1-thumbnails/waterberg-carbon-co.jpg)
+![Waterberg Carbon Co website](/screenshots/waterberg-carbon-co.png)
 
 
 ## History

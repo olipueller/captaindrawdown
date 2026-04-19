@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Cap Clean Energy Corp. is a Calgary, Alberta-based clean energy development company developing biofuel facilities that convert crop residues and other biomass feedstocks into sustainable aviation fuel (SAF) and renewable diesel, with integrated carbon capture and storage. The company has MOUs with Raven SR (2023) for Steam/CO2 Reforming technology and ABB (2024) for automation/electrification, and in May 2025 acquired 40 acres in Beaver County, Alberta for a proposed facility near existing carbon capture infrastructure. Production start is targeted for 2027.
 
-![Cap Clean website](/screenshots/cap-clean/2026-04-19.png)
+![Cap Clean website](/screenshots/cap-clean.png)
 
 
 ## History

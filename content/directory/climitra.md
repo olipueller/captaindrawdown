@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Climitra Carbon Private Limited is a Delhi-based biochar company incorporated on 22 February 2025 and registered at the Registrar of Companies in Delhi. Its core product is engineered biochar designed as a drop-in replacement for PCI coal in blast furnaces without costly retrofits. The company raised $1.8M in pre-seed funding in June 2025 and is scaling projects across India — a first facility in Kutch, plus planned projects in Punjab (rice stubble) and Uttarakhand (carbon removal focus).
 
-![Climitra website](/screenshots/climitra/2026-04-19.png)
+![Climitra website](/screenshots/climitra.png)
 
 
 ## History

@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 SoilLogia LLC is a Delaware-based ag-climate-tech startup producing biochar from organic waste streams (including sewage sludge) via pyrolysis, to enhance soil health and sequester carbon. The small team (~4 employees) is led by CEO Antonio Timoteo, Ph.D., and engages in carbon project development for biochar-based carbon removal.
 
-![SoilLogia LLC website](/screenshots/soillogia-llc/2026-04-19.png)
+![SoilLogia LLC website](/screenshots/soillogia-llc.png)
 
 
 ## History

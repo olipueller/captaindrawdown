@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 Biochar Rendsburg GmbH is a German operating company based in Borgstedt (Schleswig-Holstein) that runs the first commercial Carbo-FORCE pyrolysis plant on the site of the AWR waste-disposal region near Rendsburg. The facility converts woody organic residues into biochar via partial oxidation, producing durable carbon and process heat. It is affiliated with Carbo-FORCE GmbH (the technology provider, now 50% owned by Bauer Resources) and shares managing directors Kai Alberding and Malte Graf.
 
-![Biochar Rendsburg website](/screenshots/v1-thumbnails/biochar-rendsburg.jpg)
+![Biochar Rendsburg website](/screenshots/biochar-rendsburg.png)
 
 
 ## History

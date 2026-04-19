@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 PREOL, a.s. is the largest Czech rapeseed processor and a subsidiary of the AGROFERT Group, operating a facility in Lovosice that produces biodiesel, rapeseed oil, pharmaceutical-grade glycerin, and animal feed. In November 2024 it commissioned a PX1500 pyrolysis unit processing rapeseed chaff (~2,350 t/yr input) to produce ~715 t/yr of biochar, which it markets as a soil amendment and long-term carbon sequestration product.
 
-![Preol website](/screenshots/preol/2026-04-19.png)
+![Preol website](/screenshots/preol.png)
 
 
 ## History

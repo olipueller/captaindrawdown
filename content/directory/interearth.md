@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 InterEarth is a Western Australian CDR startup pursuing woody biomass burial via above-ground "Dry Stack" storage chambers, using plantation-grown native Eucalyptus and Acacia trees on marginal dryland. The company helped co-develop Puro.earth's Terrestrial Storage of Biomass (TSB) methodology and offers its CDR as Puro CORCs, with Counteract as seed investor and Zurich Insurance as a pre-purchaser.
 
-![InterEarth website](/screenshots/v1-thumbnails/interearth.jpg)
+![InterEarth website](/screenshots/interearth.png)
 
 ## Registry Memberships
 

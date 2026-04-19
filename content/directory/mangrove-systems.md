@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Mangrove Systems is a Toronto-based digital MRV software company whose Mangrove Nexus platform tracks CO2 across CDR and CCS project value chains, supporting pathways including biochar, BECCS, DAC, and marine CDR. They do not remove CO2 themselves — they provide the data, accounting, and registry-reporting infrastructure used by CDR suppliers including Charm Industrial, Summit Carbon Solutions, Carbon Capture Scotland, Super6 Carbon, Frontier Carbon Solutions, and Remova.
 
-![Mangrove Systems website](/screenshots/mangrove-systems/2026-04-19.png)
+![Mangrove Systems website](/screenshots/mangrove-systems.png)
 
 ## Registry Memberships
 

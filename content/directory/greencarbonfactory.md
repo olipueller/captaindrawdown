@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 GreenCarbonFactory is an Arnhem-based Dutch sustainable technology company that operates as a Managed Service Provider, installing, owning and maintaining small-scale on-site facilities that produce high-quality biochar and green energy from locally sourced woodchips. Founders Jerom van Roosmalen and Harold Joanknecht convert clean, white-listed woody residue streams into green energy and biochar via thermal conversion. The company has registered a biochar project on the Rainbow Standard registry and remains operationally active in 2025-2026.
 
-![GreenCarbonFactory website](/screenshots/greencarbonfactory/2026-04-19.png)
+![GreenCarbonFactory website](/screenshots/greencarbonfactory.png)
 
 
 ## History

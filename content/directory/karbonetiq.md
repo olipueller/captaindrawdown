@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 Karbonetiq is a Santa Barbara, California-based CDR startup (founded 2022) developing surficial mineralization using alkaline industrial residues (slags, ash) processed through a low-cost passive aeration system with sensor-based MRV. It was selected in Frontier's Summer 2025 prepurchase round for 2,142 tons on behalf of Stripe, Shopify, and Google, and is backed by Evok Innovations and Creative Destruction Lab.
 
-![Karbonetiq website](/screenshots/karbonetiq/2026-04-19.png)
+![Karbonetiq website](/screenshots/karbonetiq.png)
 
 ## Registry Memberships
 

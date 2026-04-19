@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Inkoh AG is a Swiss biochar producer based in Maienfeld, Graubünden, and a subsidiary of Zindel United Holding AG. It operates a Biomacon pyrolysis plant producing around 450 tons of biochar per year from FSC-certified forest waste wood, selling biochar products and issuing CO2 removal certificates via First Climate. In 2024 it received a 7,600 m² site in Landquart to build a new headquarters and expanded production facility called "Biochar Circle Switzerland".
 
-![Inkoh website](/screenshots/v1-thumbnails/inkoh.jpg)
+![Inkoh website](/screenshots/inkoh.png)
 
 
 ## History

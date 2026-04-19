@@ -23,7 +23,7 @@ liveliness: "🟡 Moderate"
 
 Aries Clean Technologies, headquartered in Franklin, Tennessee, designs and builds gasification facilities that process wastewater biosolids and biomass into renewable energy plus biochar products used in concrete, soil amendments, and filtration. The company operates a wood-waste gasification plant in Lebanon, TN and built a first-of-its-kind biosolids gasification facility in Linden, NJ, and is pursuing additional plants including a proposed site in Sanford, Maine.
 
-![Aries Clean Technologies website](/screenshots/aries-clean-technologies/2026-04-19.png)
+![Aries Clean Technologies website](/screenshots/aries-clean-technologies.png)
 
 
 ## History

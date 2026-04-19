@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Carbo Culture's patented Carbolysis™ reactors take waste biomass and convert it into stable biochar, locking carbon safely away for centuries and generating renewable energy in the process. The Finland/California-based company is scaling commercial biochar production, including the announced ARC Middenmeer plant at the ECW Energy site in North Holland, expected to remove more than 20,000 tonnes of CO2 annually while producing 40,000 m³ of biochar and 16 MW of sustainable energy. Carbo Culture has raised $24.9M in funding from investors like True Ventures, Wave Ventures and Lifeline Ventures.
 
-![Carbo Culture website](/screenshots/v1-thumbnails/carbo-culture.jpg)
+![Carbo Culture website](/screenshots/carbo-culture.png)
 
 ## Registry Memberships
 

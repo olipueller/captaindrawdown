@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Carbofex Oy is a Finnish biochar producer headquartered in Nokia, operating a continuous pyrolysis plant that converts PEFC-certified spruce thinnings into high-carbon-content biochar while supplying renewable heat to the local district system. The company issues CO2 Removal Certificates (CORCs) through Puro.earth — it was the first registered commercial CORC trader on the marketplace in 2019 — and has signed multi-year forward offtake deals including one with Shopify. It was also an XPRIZE Carbon Removal Top 60 finalist.
 
-![Carbofex Oy website](/screenshots/v1-thumbnails/carbofex-oy.jpg)
+![Carbofex Oy website](/screenshots/carbofex-oy.png)
 
 ## Registry Memberships
 

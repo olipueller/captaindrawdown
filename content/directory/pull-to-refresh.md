@@ -23,7 +23,7 @@ liveliness: "🟡 Moderate"
 
 Pull To Refresh Inc. is a San Francisco-based carbon removal startup founded in 2021 that originally qualified for the XPRIZE Carbon Removal competition with an autonomous solar-powered vessel concept to sink invasive seaweed in the deep sea. The company has since pivoted to a biomass-fueled process that transforms shredded garbage into carbon/hydrogen char for soil carbon storage while supplying energy to cement factories. Team size is small (11-50 employees on LinkedIn).
 
-![Pull to Refresh website](/screenshots/pull-to-refresh/2026-04-19.png)
+![Pull to Refresh website](/screenshots/pull-to-refresh.png)
 
 
 ## History

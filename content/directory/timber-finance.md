@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 Timber Finance (Timber Finance Management AG) is a Zurich-based competence center founded in 2021 that develops methodology and financial instruments for mass timber as a carbon storage pathway. They developed the world's first ICROA-compliant VCS methodology for mass timber construction (recognized December 2023), certify building projects, and trade Mass Timber Carbon Removal Credits, partnering with real estate developers, timber construction firms, and forest managers rather than physically performing removals themselves.
 
-![Timber Finance website](/screenshots/timber-finance/2026-04-19.png)
+![Timber Finance website](/screenshots/timber-finance.png)
 
 ## Registry Memberships
 

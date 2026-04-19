@@ -23,11 +23,20 @@ liveliness: "🟡 Moderate"
 
 Cotierra (formerly Terra Preta) is a Swiss-Colombian ClimateTech/AgTech startup that produces biochar from agricultural residues on smallholder farms in Latin America, focusing on coffee and cacao supply chains. The company deploys mobile, semi-automated biochar reactors together with an IoT-enabled MRV platform, and generates carbon removal credits validated via Carbon Standards International.
 
-![Terra Preta (Cotierra) website](/screenshots/terra-preta/2026-04-19.png)
+![Terra Preta (Cotierra) website](/screenshots/terra-preta-cotierra.png)
 
+## Registry Memberships
+
+- Cdrjobsearth
 
 ## History
 
+- **2026-04-19** — merged 1 duplicate(s): Cotierra
+- **2026-04-19** — refresh: coresignal
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.cotierra.com/))
+- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.volcafe.com/news/volcafe-cotierra-carbon-credits-biochar))
+- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+- **** — merged duplicate: Cotierra (slug=cotierra)
 - **2026-04-19** — merged 1 duplicate(s): Terra Preta
 - **2026-04-19** — refresh: screenshot, liveliness
 - **2026-04-19** — liveliness: 🔴 Likely Dead → 🟡 Moderate ([source](None))

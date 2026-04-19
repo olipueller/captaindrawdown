@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 HyveGeo is a climate-tech startup with operations in Cambridge (UK) and Abu Dhabi that combines microalgae cultivation with biochar production to regenerate arid desert soils while generating carbon removal credits. Founded in 2023, the company engineers biochar as a carrier for microalgae-derived bioactive compounds and microbes, aiming to turn desert sand into arable land and remove 1 million tonnes of CO2 by 2035.
 
-![Hyve Geo website](/screenshots/hyve-geo/2026-04-19.png)
+![Hyve Geo website](/screenshots/hyve-geo.png)
 
 
 ## History

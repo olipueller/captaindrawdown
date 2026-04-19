@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Greenlyte Carbon Technologies (GCT) is a German Direct Air Capture startup founded in 2022 and headquartered in Essen, that operates a liquid-sorbent DAC process which co-produces green hydrogen via alkaline electrolysis. The company pursues both CDR (partnership with Deep Sky in Quebec) and CCU applications (eMethanol, eSAF, SNG), opened its first LiquidSolar e-fuel plant in late 2025, and is installing a 500-ton commercial module at Chempark Marl in 2026.
 
-![Greenlyte Carbon Technologies website](/screenshots/greenlyte-carbon-technologies/2026-04-19.png)
+![Greenlyte Carbon Technologies website](/screenshots/greenlyte-carbon-technologies.png)
 
 ## Registry Memberships
 

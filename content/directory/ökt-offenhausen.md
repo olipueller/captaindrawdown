@@ -22,7 +22,7 @@ liveliness: "🟠 Suspect"
 
 Ökologische Klärschlammtrocknung Offenhausen GmbH (ÖKT Offenhausen) is a Bavarian facility that operates two pyrolysis units producing biochar from wood chips while providing waste heat to dry sewage sludge and fermentation residues from its integrated biogas plant. The biochar is EBC Agro-Bio certified and credits are issued under the Global C-Sink standard and sold via Carbonfuture and Klimate.
 
-![ÖKT Offenhausen website](/screenshots/v1-thumbnails/kt-offenhausen.jpg)
+![ÖKT Offenhausen website](/screenshots/ökt-offenhausen.png)
 
 
 ## History

@@ -22,7 +22,7 @@ liveliness: "🟠 Suspect"
 
 Sitos Group launched a pilot-scale slow-pyrolysis biochar production facility at ReGen Monterey in early 2023 to prove high-quality biochar production for agriculture and carbon markets. After concluding the pilot, the company is moving to a commercial biochar production facility in partnership with Treehouse California Almonds, focused on efficient throughput and integration with agricultural partners. Sitos also works with sister company Soil Amendment Injection (SAI), which deploys specialized equipment to apply biochar at depth for long-term soil health and carbon sequestration.
 
-![Sitos Group website](/screenshots/v1-thumbnails/sitos-group.jpg)
+![Sitos Group website](/screenshots/sitos-group.png)
 
 
 ## History

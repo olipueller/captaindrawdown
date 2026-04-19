@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 CarbonBlue is an Israeli water-based carbon removal startup founded in 2022 by CEO Dr. Dan Deviri and COO Iddo Tsur, based in Tel Aviv/Haifa. The company has installed the world's first pilot plant for removing carbon dioxide from water at a desalination facility in Ma'agan Michael, Israel, using its proprietary reactor to convert dissolved CO2 into precipitated calcium carbonate (PCC) with calcium hydroxide. The Midway pilot processes 10% of the desalination facility's saline water intake, removing 40 tons of CO2 per year in Phase 1, and will scale to 100% of the inlet stream, removing over 400 tons of CO2 per year.
 
-![CarbonBlue website](/screenshots/v1-thumbnails/carbonblue.jpg)
+![CarbonBlue website](/screenshots/carbonblue.png)
 
 
 ## History

@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Inkan Negro is a Peruvian biochar company that manufactures and sells a biochar soil amendment developed from over a decade of academic research led by Dr. Brenton Ladd. They convert urban green and agricultural waste biomass into biochar formulations for sustainable agriculture, mine reclamation, and heavy-metal soil remediation, and have pursued carbon credits via Puro.earth.
 
-![Inkan Negro website](/screenshots/v1-thumbnails/inkan-negro.jpg)
+![Inkan Negro website](/screenshots/inkan-negro.png)
 
 
 ## History

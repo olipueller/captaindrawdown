@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Brodie Biomass is a UK-based biochar producer in Brockham, Surrey that launched its pyrolysis facility in 2024 and holds EBC Animal Feed Plus grade certification. It sells biochar and biochar-enriched composts for agriculture and gardening, and registers associated carbon removal credits under Puro.earth. In March 2025 it acquired the SoilFixer brand from ACI Innovations Ltd., expanding its soil-improvement product line.
 
-![Brodie Biomass website](/screenshots/brodie-biomass/2026-04-19.png)
+![Brodie Biomass website](/screenshots/brodie-biomass.png)
 
 ## Registry Memberships
 

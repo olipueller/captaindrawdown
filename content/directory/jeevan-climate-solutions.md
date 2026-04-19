@@ -21,7 +21,7 @@ liveliness: "🟡 Moderate"
 
 Jeevan Climate Solutions was founded in 2022 and is based in Bethlehem, Pennsylvania (116 Research Drive). Founder and CEO Arup SenGupta led the Direct Air Capture research paper published in Science Advances (March 2023) on Cu(II)-coordinated chelating weak base ion exchangers, and was most recently the PC Rossin Professor of Chemical and Environmental Engineering at Lehigh University. The company has received over $1 million of innovation funding from the U.S. Department of Energy alongside Lehigh University and Advanced Cooling Technologies, Inc., and was jointly awarded a DOE SBIR Phase I grant with ACT to develop a novel ocean-based abiotic carbon capture technology based on DeCarbonHIX.
 
-![Jeevan Climate Solutions website](/screenshots/jeevan-climate-solutions/2026-04-19.png)
+![Jeevan Climate Solutions website](/screenshots/jeevan-climate-solutions.png)
 
 
 ## History

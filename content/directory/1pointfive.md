@@ -23,7 +23,7 @@ liveliness: "🟠 Suspect"
 
 Houston-based 1PointFive is a subsidiary of Occidental Petroleum Corp. developing the STRATOS direct air capture facility in Ector County, Texas. Phase 1 is in the final stage of startup and Phase 2 will begin commissioning in Q2 2026, with STRATOS designed to capture up to 500,000 tonnes/year of CO2. Offtake buyers include Microsoft, Amazon, AT&T, Airbus, Bain & Company, the Houston Astros and the Houston Texans.
 
-![1PointFive website](/screenshots/1pointfive/2026-04-19.png)
+![1PointFive website](/screenshots/1pointfive.png)
 
 
 ## History

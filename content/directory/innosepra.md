@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 InnoSepra LLC, founded in 2007 by Dr. Ravi Jain and headquartered in Middlesex, New Jersey, develops physical-sorbent-based technologies for Direct Air Capture, post-combustion CO2 capture, flue-gas purification, and renewable natural gas upgrading. The company has been advancing its sorbent DAC process under multiple DOE SBIR/NETL awards (e.g. SC0020740, FE0031953) and as of late 2024 was testing its second-generation post-combustion capture technology at Technology Centre Mongstad (TCM) in Norway.
 
-![InnoSepra website](/screenshots/v1-thumbnails/innosepra.jpg)
+![InnoSepra website](/screenshots/innosepra.png)
 
 
 ## History

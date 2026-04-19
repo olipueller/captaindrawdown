@@ -20,7 +20,7 @@ liveliness: "🟠 Suspect"
 
 Woodcache PBC is a U.S. public benefit corporation that buries waste woody biomass (from wildfire mitigation and forestry thinning) in engineered cold, dry, anaerobic underground vaults for durable CO2 removal. They completed their first production-scale La Veta project in Huerfano County, Colorado in 2024 with support from a 4 Corners Carbon Removal grant, and sell Puro.earth-certified credits. A DOE grant is supporting infrastructure expansion to additional sites in Colorado, Utah, Arizona, and Mississippi.
 
-![Woodcache website](/screenshots/v1-thumbnails/woodcache.jpg)
+![Woodcache website](/screenshots/woodcache.png)
 
 
 ## History

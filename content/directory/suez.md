@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 SUEZ is a French waste and water utility whose UK arm is developing BECCS retrofits on its Teesside energy-from-waste facilities at Haverton Hill and Wilton, with Pre-FEED contractors Fluor and Technip Energies, targeting operations by 2027 with permanent CO2 storage in the North Sea via the East Coast Cluster pipeline. SUEZ also inaugurated a 3,500 t/yr biogenic CO2 capture unit at its Terres d'Aquitaine anaerobic digestion site in Gironde, France in June 2025, though that stream is used in greenhouses (CCU, not permanent storage). The company has additional EfW carbon-capture projects in development including Severnside (Bristol) within the 7CO2 cluster.
 
-![SUEZ website](/screenshots/suez/2026-04-19.png)
+![SUEZ website](/screenshots/suez.png)
 
 
 ## History

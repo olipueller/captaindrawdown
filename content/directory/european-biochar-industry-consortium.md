@@ -23,7 +23,7 @@ liveliness: "🟡 Moderate"
 
 The European Biochar Industry Consortium (EBI), now operating as Biochar Europe, is a non-profit trade association founded in 2019 that represents European biochar producers, equipment suppliers and stakeholders. It publishes annual European Biochar Market Reports, advocates for policy/regulation, and works to define the role of Biochar Carbon Removal (BCR) within EU CDR policy.
 
-![European Biochar Industry Consortium website](/screenshots/european-biochar-industry-consortium/2026-04-19.png)
+![European Biochar Industry Consortium website](/screenshots/european-biochar-industry-consortium.png)
 
 
 ## History

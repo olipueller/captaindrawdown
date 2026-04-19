@@ -21,7 +21,7 @@ liveliness: "🟡 Moderate"
 
 Ulysses Ecosystem Engineering is an ocean carbon removal startup developing autonomous underwater drones and robotics for large-scale seagrass meadow restoration. Founded in 2023 by Irish engineers and now based in San Francisco, the company raised a $2M pre-seed in November 2024 led by Lowercarbon Capital, with partners including The Nature Conservancy and government agencies in Florida and Australia. Its "Mako" UUV was trialed on the Great Barrier Reef in 2025 for seed planting at hectare-scale rates.
 
-![Ulysses Ecosystem Engineering website](/screenshots/ulysses-ecosystem-engineering/2026-04-19.png)
+![Ulysses Ecosystem Engineering website](/screenshots/ulysses-ecosystem-engineering.png)
 
 
 ## History

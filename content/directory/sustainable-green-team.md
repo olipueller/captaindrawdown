@@ -21,7 +21,7 @@ liveliness: "🟡 Moderate"
 
 Sustainable Green Team, Ltd. (OTC: SGTM) is a Florida-based publicly-traded company headquartered in Astatula that converts organic waste streams (yard waste, tree trimmings, storm debris) into biochar, regenerative soils (Water Less Garden™), and carbon removal credits. The company is increasingly repositioning around its Restore.Earth "Physical Truth Infrastructure" — a GPS- and AI-verified blockchain ledger for biochar carbon removal credits — while continuing biochar production via its SGTM Gasifier Forge pyrolysis technology.
 
-![Sustainable Green Team website](/screenshots/sustainable-green-team/2026-04-19.png)
+![Sustainable Green Team website](/screenshots/sustainable-green-team.png)
 
 
 ## History

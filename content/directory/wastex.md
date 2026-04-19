@@ -21,7 +21,7 @@ liveliness: "🟢 Active"
 
 WasteX is a Singapore-based climate tech startup founded in 2022 by Pawel Kuznicki that builds small-scale, semi-automated carbonizer equipment to convert agricultural biomass waste into biochar for farms across Southeast Asia. The company invests in and operates biochar production facilities in partnership with mills in Indonesia and the Philippines, and sells carbon credits alongside agronomic benefits to farmers.
 
-![WasteX website](/screenshots/v1-thumbnails/wastex.jpg)
+![WasteX website](/screenshots/wastex.png)
 
 ## Registry Memberships
 

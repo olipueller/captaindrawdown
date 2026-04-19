@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Bristol, UK-based construction materials company developing Breathaboard, a drop-in carbon-storing alternative to gypsum plasterboard that combines mineral (calcium carbonate) curing with bio-based/cellulosic agricultural feedstocks. The company licenses its patented CCU/CCS technology platform to global construction-product manufacturers and is currently building 'Project Crystal,' an industrial demonstrator facility partnered with SigmaRoc, which is intended to showcase the carbon-credit potential of its technology.
 
-![Adaptavate website](/screenshots/adaptavate/2026-04-19.png)
+![Adaptavate website](/screenshots/adaptavate.png)
 
 
 ## History

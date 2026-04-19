@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Aymium is a U.S. biocarbon producer headquartered in Minnesota that operates multiple North American facilities and holds 600+ patents on biomass-to-biocarbon conversion. In December 2025, it formed TerraForge Biocarbon Solutions, a joint venture with Weyerhaeuser, to build a ~$100M plant in Magnolia, Mississippi (online 2027) and scale toward 1.5M tons/year of metallurgical-grade biocarbon that replaces coal and coke in iron, steel, silicon and ferro-alloy production.
 
-![Aymium website](/screenshots/v1-thumbnails/aymium.jpg)
+![Aymium website](/screenshots/aymium.png)
 
 
 ## History

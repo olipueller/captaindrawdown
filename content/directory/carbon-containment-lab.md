@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 Carbon Containment Lab is a 501(c)(3) climate nonprofit supporting the design, testing, and implementation of novel and neglected climate solutions, bringing research from laboratories into pilot and commercialization across anthropogenic, biologic, and geologic emissions pathways, with current projects in biomass carbon removal and storage (BiCRS), carbon mineralization, fluorocarbon recovery, and low-concentration methane measurement. It operates as an independent nonprofit after spinning out of the Yale School of the Environment in early 2024. CC Lab is explicitly not a carbon credit registry, validator, verifier, or project developer, but engages with market stakeholders as an independent nonprofit.
 
-![Carbon Containment Lab website](/screenshots/v1-thumbnails/carbon-containment-lab.jpg)
+![Carbon Containment Lab website](/screenshots/carbon-containment-lab.png)
 
 ## Registry Memberships
 

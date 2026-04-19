@@ -23,7 +23,7 @@ liveliness: "🟠 Suspect"
 
 Regen Organics is a Nairobi-based social venture and founding member of the Sanergy Collaborative that operates the largest organic recycling plant in East Africa, converting sanitation and agricultural waste into insect protein, organic fertilizer (EverGrow/Farm Star), and biomass fuel. In partnership with TakaChar, it runs a pyrolysis biochar pilot in Machakos County processing bagasse and mango/avocado waste, targeting >800 tonnes/year of biochar and issuing carbon credits through both traditional and on-chain markets.
 
-![Regen Organics website](/screenshots/v1-thumbnails/regen-organics.jpg)
+![Regen Organics website](/screenshots/regen-organics.png)
 
 
 ## History

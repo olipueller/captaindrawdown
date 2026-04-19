@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Oregon Biochar Solutions (OBS), based in White City, Oregon, operates an industrial-scale pyrolysis facility producing Rogue Biochar from Douglas fir and pine logging/mill residues at roughly 45,000 cubic yards per year. The company is a registered Puro.earth biochar CORC supplier and partnered with Oka to issue the first invalidation-insured biochar credits in 2024.
 
-![Oregon Biochar Solutions website](/screenshots/v1-thumbnails/oregon-biochar-solutions.jpg)
+![Oregon Biochar Solutions website](/screenshots/oregon-biochar-solutions.png)
 
 ## Registry Memberships
 

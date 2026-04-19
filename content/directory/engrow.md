@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Engrow Carbon Energy Private Limited is an India-based biochar producer incorporated in 2019 and located in Erode, Tamil Nadu. The company converts agricultural and biomass residues into biochar, bio-furnace oil, and carbon briquettes via pyrolysis and gasification, and operates an integrated forestry-agri model with farmers in South India. It is named by the International Biochar Initiative among scaling biochar producers in India.
 
-![Engrow website](/screenshots/v1-thumbnails/engrow.jpg)
+![Engrow website](/screenshots/engrow.png)
 
 
 ## History

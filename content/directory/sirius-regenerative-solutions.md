@@ -21,7 +21,7 @@ liveliness: "🟡 Moderate"
 
 Sirius Regenerative is a Colombian regenerative-agriculture company that produces biochar-based bioinputs (biochar blends with compost and beneficial microorganisms) for farmers. Their biochar products are applied to soil to sequester carbon for over 100 years while improving soil microbial life and crop yields. The company sponsored the ECI Biochar IV Conference in Santa Marta, Colombia in 2025.
 
-![Sirius Regenerative Solutions website](/screenshots/sirius-regenerative-solutions/2026-04-19.png)
+![Sirius Regenerative Solutions website](/screenshots/sirius-regenerative-solutions.png)
 
 
 ## History

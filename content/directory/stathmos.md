@@ -21,7 +21,7 @@ liveliness: "🟡 Moderate"
 
 Stathmos is a French DAC startup founded in 2023 by Dr. Amandine Cadiau and headquartered in Le Mans. Its modular "Statbox" units use proprietary solid sorbent materials to capture CO2 from ambient air (with co-production of water), targeting up to 1,000 tonnes CO2/year per unit for geological storage or industrial reuse.
 
-![Stathmos website](/screenshots/stathmos/2026-04-19.png)
+![Stathmos website](/screenshots/stathmos.png)
 
 
 ## History

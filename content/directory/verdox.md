@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Verdox is a Boston-area (Woburn, MA) climate technology firm spun out of MIT in 2019, developing an all-electric electrochemical (electro-swing adsorption) CO2 capture system that uses small voltage changes rather than heat or pressure to bind and release CO2. The technology is designed to work on ultra-dilute and contaminated streams, and was demonstrated in a two-month trial on ~1% CO2 aluminum smelter off-gas at Hydro's Sunndal plant in Norway. In October 2025 Verdox commissioned a pilot-scale unit, with customer pilots planned for 2026, a first demonstration unit in 2027, and commercial deployment targeted for 2029.
 
-![Verdox website](/screenshots/v1-thumbnails/verdox.jpg)
+![Verdox website](/screenshots/verdox.png)
 
 
 ## History

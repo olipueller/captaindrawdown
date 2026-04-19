@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Cardinal Ethanol is an Indiana-based corn ethanol producer that, through a 50/50 joint venture with Vault 44.01 called One Carbon Partnership, is developing a BECCS project to capture and permanently sequester biogenic CO2 from its Union City, Indiana ethanol plant. In March 2026 the EPA issued the project's Class VI UIC permit, authorizing injection of up to 450,000 metric tons of CO2 per year (~13.5 million tons over 30 years).
 
-![Cardinal Ethanol website](/screenshots/cardinal-ethanol/2026-04-19.png)
+![Cardinal Ethanol website](/screenshots/cardinal-ethanol.png)
 
 
 ## History

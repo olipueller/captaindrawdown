@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 ZeoDAC, Inc. was founded in June 2023 by Professors Christopher Jones (Georgia Tech) and Mark E. Davis (Caltech), holds an exclusive worldwide license to Caltech zeolite IP, and is hosted at the Advanced Technology Development Center on the Georgia Tech campus in Atlanta. The company secured funding from institutional venture capital and strategic investors led by Wilson Hill Ventures. Captured CO₂ can be used in carbonated beverages, chemical manufacturing, or sequestration, making end-use mixed between CDR and CCU.
 
-![ZeoDAC website](/screenshots/v1-thumbnails/zeodac.jpg)
+![ZeoDAC website](/screenshots/zeodac.png)
 
 
 ## History

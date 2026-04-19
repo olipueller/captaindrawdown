@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 Circular Carbon Pathways (CCP) is a Zambia-based entity positioned around producing biochar carbon removal (BCR) credits from agricultural residues. Its public website contains only a tagline, and no registry issuances, funding, partnerships, or project deliveries have surfaced. With a single LinkedIn employee and no recent public signals, the company appears to be either very early-stage or effectively dormant.
 
-![Circular Carbon Pathways website](/screenshots/circular-carbon-pathways/2026-04-19.png)
+![Circular Carbon Pathways website](/screenshots/circular-carbon-pathways.png)
 
 
 ## History

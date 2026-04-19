@@ -21,7 +21,7 @@ liveliness: "🟢 Active"
 
 Riziki Nature Based Solutions is a Kenya-based company that harvests invasive mesquite (Prosopis juliflora) biomass and converts it into two product lines: industrial biofuel for boilers/kilns and biochar for carbon sequestration and soil amendment. The biochar activity pyrolyzes invasive biomass, locking carbon into soil while restoring degraded rangelands. Website is live and describes active operations across both product lines.
 
-![Riziki Nature Based Solutions website](/screenshots/v1-thumbnails/riziki-nature-based-solutions.jpg)
+![Riziki Nature Based Solutions website](/screenshots/riziki-nature-based-solutions.png)
 
 
 ## History

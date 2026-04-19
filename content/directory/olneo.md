@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 OLNEO is a Paris-based climate deeptech startup developing biochar-based carbon dioxide removal projects, initially rooted in Algeria with plans to expand across Africa and the MENA region. The company converts local agricultural residues into certified biochar through pyrolysis, pairing soil restoration with durable carbon sequestration and digital MRV. It remains an early-stage operation with a small team.
 
-![OLNEO website](/screenshots/v1-thumbnails/olneo.jpg)
+![OLNEO website](/screenshots/olneo.png)
 
 
 ## History

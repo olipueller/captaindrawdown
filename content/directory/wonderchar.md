@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Wonderchar Inc. is a Texas-based biochar producer that converts waste pecan shells into OMRI-certified biochar products (PecanChar Natural, LG+, Soil+, Powder+, EZ MIX, plus WoodChar Natural) for farmers, nurseries, landscapers and fertilizer manufacturers. Products are supplied in bulk bags and sacks for soil amendment, compost, turf and fertilizer blending, with long-term carbon sequestration via pyrolysis as a co-benefit.
 
-![Wonderchar website](/screenshots/v1-thumbnails/wonderchar.jpg)
+![Wonderchar website](/screenshots/wonderchar.png)
 
 
 ## History

@@ -21,7 +21,7 @@ liveliness: "🟢 Active"
 
 SunCarbon is a biochar brand operated by Teo Ventures in India, producing biochar-based soil enhancers from agricultural biomass residues. The product is sold direct-to-consumer (e.g. via their website and Amazon) and through the SunCarbon Saarthi farmer platform, and has been certified as India's first biochar-based soil amendment by ECOCERT India under NPOP/APEDA. The company operates CDR project sites collecting biomass at ~100 tons/month MRR with a second site scaling.
 
-![SunCarbon website](/screenshots/suncarbon/2026-04-19.png)
+![SunCarbon website](/screenshots/suncarbon.png)
 
 
 ## History

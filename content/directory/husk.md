@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 HUSK is a biochar producer operating in Cambodia and Vietnam that converts rice husks (a rice-milling byproduct) into biochar via pyrolysis, which is then processed into carbon-based fertilizers for smallholder farmers. The company issues EBC/Global Biochar C-Sink carbon removal credits and has signed long-term offtake agreements with atmosfair (20,000 tonnes over seven years) and Klarna/Carbonaires. Its second-generation plant in Kampong Thom was commissioned in November 2025 and a Vietnam plant is slated to begin operations in 2026.
 
-![Husk website](/screenshots/v1-thumbnails/husk.jpg)
+![Husk website](/screenshots/husk.png)
 
 
 ## History

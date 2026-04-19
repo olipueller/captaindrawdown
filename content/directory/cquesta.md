@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Cquesta is a US-based agricultural biotech spun out of the Salk Institute's Harnessing Plants Initiative in 2022, developing gene-edited crop varieties with deeper, larger root systems to sequester atmospheric carbon in deep soil layers. The company licenses its root-architecture traits to seed companies, starting with CoverCress and expanding to soybean, canola, corn, sorghum, and rice, aiming to generate carbon credits for farmers with no change in agronomic practices. Field trials are underway in Illinois with additional trials planned, and the company operates from San Diego, Chicago, and St. Louis.
 
-![Cquesta website](/screenshots/v1-thumbnails/cquesta.jpg)
+![Cquesta website](/screenshots/cquesta.png)
 
 ## Registry Memberships
 

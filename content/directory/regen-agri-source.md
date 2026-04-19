@@ -20,7 +20,7 @@ liveliness: "🟠 Suspect"
 
 Regen Agri-Source is a small Missouri-based agricultural company (based in Stover, MO) that sells high-grade biochar (82%+ fixed carbon) alongside BLOOMFIELD-brand microbial and enzyme soil-health products, including CharLit biochar/poultry litter pellets. They market biochar primarily for soil improvement, odor sequestration, and plant health rather than issuing verified carbon removal credits. Operations are active but modest, with retail distribution via their website, eBay, and regional ag channels.
 
-![Regen Agri-Source website](/screenshots/v1-thumbnails/regen-agri-source.jpg)
+![Regen Agri-Source website](/screenshots/regen-agri-source.png)
 
 
 ## History

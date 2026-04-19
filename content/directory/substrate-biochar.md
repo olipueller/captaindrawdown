@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 Substrate Biochar is a UK-headquartered biochar carbon-removal company building industrial pyrolysis operations in southern Africa. It partners with forestry operators to convert sawdust and wood offcuts into biochar, heat, and electrical power, and sells carbon removal credits certified under the Rainbow methodology standard.
 
-![Substrate Biochar website](/screenshots/substrate-biochar/2026-04-19.png)
+![Substrate Biochar website](/screenshots/substrate-biochar.png)
 
 
 ## History

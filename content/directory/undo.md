@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 UNDO is a UK-based carbon removal supplier specializing in Enhanced Rock Weathering (ERW), spreading crushed basalt and wollastonite on agricultural land in the UK and Canada (hub in Kingston, Ontario) to permanently sequester CO2. The company was named one of four global winners of the $100M XPRIZE Carbon Removal competition in April 2025, and has delivered removal credits to Microsoft, Barclays, British Airways, McLaren Racing, and Stripe.
 
-![UNDO website](/screenshots/v1-thumbnails/undo.jpg)
+![UNDO website](/screenshots/undo.png)
 
 ## Registry Memberships
 

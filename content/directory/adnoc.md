@@ -23,7 +23,7 @@ liveliness: "🟡 Moderate"
 
 ADNOC is Abu Dhabi's state-owned energy and petrochemicals group that has entered CDR through its Low Carbon Solutions directorate and its $80B+ XRG investment platform. It is co-developing DAC with Occidental/1PointFive (a preliminary engineering study for a megaton-scale UAE DAC facility, and a May 2025 Strategic DAC Framework Agreement to consider investing up to $500M in the South Texas DAC Hub), partners with 44.01 on CO2 mineralization, and operates Al Reyadah and the Habshan CCUS projects with DNV-certified saline aquifer storage at West Aquifer.
 
-![ADNOC website](/screenshots/adnoc/2026-04-19.png)
+![ADNOC website](/screenshots/adnoc.png)
 
 
 ## History

@@ -20,7 +20,7 @@ liveliness: "🟡 Moderate"
 
 Haliburton Forest Biochar is a subsidiary of Haliburton Forest and Wildlife Reserve in Ontario, producing biochar from sawmill residues via pyrolysis at a facility on Kennaway Road in Haliburton County. The company uses novel exfoliation equipment to develop a high-performance processed biochar replacement for fossil fuel products in the automotive foam sector with production capacity of 17,500 kg/week of micronized biochar. Ontario announced a $4.6 million investment on July 7, 2025 to acquire new technology for engineered biochar production.
 
-![Haliburton Forest Biochar website](/screenshots/haliburton-forest-biochar/2026-04-19.png)
+![Haliburton Forest Biochar website](/screenshots/haliburton-forest-biochar.png)
 
 
 ## History

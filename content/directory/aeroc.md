@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 AEROC (Aeroc GmbH) is a Cologne-based German startup founded in 2024 that develops Enhanced Rock Weathering (ERW) projects by spreading basalt rock powder on agricultural fields to permanently sequester CO2 while improving soil quality. The company has expanded into offering a remote-sensing "Multi-Sensing" soil intelligence layer to help ERW project developers identify viable sites and reduce measurement costs. They run field trials in Germany (including a 2025–2027 collaboration with Naturland) and generate CO2 negative certificates.
 
-![AEROC website](/screenshots/aeroc/2026-04-19.png)
+![AEROC website](/screenshots/aeroc.png)
 
 ## Registry Memberships
 

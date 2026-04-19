@@ -23,7 +23,7 @@ liveliness: "🟡 Moderate"
 
 Kanadevia Inova (formerly Hitachi Zosen Inova) is the Swiss-based green-tech subsidiary of Japan's Kanadevia Corporation, specializing in Waste-to-Energy and Renewable Gas. It is the EPC contractor building the UK's first full-scale Waste-to-Energy carbon capture facility at Protos (~370,000 t CO2/yr captured via amine scrubbing, stored in Liverpool Bay via HyNet), with handover to Encyclis scheduled for mid-2029, following pilots at Ferrybridge and Rookery South.
 
-![Kanadevia Inova website](/screenshots/kanadevia-inova/2026-04-19.png)
+![Kanadevia Inova website](/screenshots/kanadevia-inova.png)
 
 
 ## History

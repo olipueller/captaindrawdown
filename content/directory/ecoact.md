@@ -23,7 +23,7 @@ liveliness: "🔴 Likely Dead"
 
 EcoAct, founded in France in 2006, was an international climate consultancy and carbon project developer acquired by Atos in 2020 and by Schneider Electric in November 2023. As of October/November 2025 the EcoAct brand was officially retired and absorbed into SE Advisory Services, Schneider Electric's new flagship global consulting brand covering sustainability, energy, and digitalization. The underlying team continues to offer net-zero strategy, carbon accounting, and carbon credit/nature-based project advisory under the new brand.
 
-![EcoAct website](/screenshots/v1-thumbnails/ecoact.jpg)
+![EcoAct website](/screenshots/ecoact.png)
 
 
 ## History

@@ -21,7 +21,7 @@ liveliness: "🟡 Moderate"
 
 Based in Berlin, Germany, Carbon2H specializes in advanced biomass gasification systems, with technology that converts biomass into clean syngas using modular, customizable gasifiers housed in shipping containers for easy deployment and scalability. During gasification, CO₂ is captured and stored in the biochar, which sequesters carbon for more than 1,000 years and can be used in soil improvement, construction materials, and more. They also position carbon credits from captured CO₂ as a revenue stream for operators of their equipment.
 
-![Carbon2H website](/screenshots/v1-thumbnails/carbon2h.jpg)
+![Carbon2H website](/screenshots/carbon2h.png)
 
 
 ## History

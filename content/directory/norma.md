@@ -22,7 +22,7 @@ liveliness: "🟠 Suspect"
 
 Norma is a Paris-based climate tech startup developing supercapacitor-based Direct Air Capture technology. It integrates supercapacitor-based energy storage with carbon capture in a single electrochemical system, storing and reusing the energy required to capture CO₂. The company has raised a $1M pre-seed round and signed its first customer over the past 15 months.
 
-![Norma website](/screenshots/v1-thumbnails/norma.jpg)
+![Norma website](/screenshots/norma.png)
 
 
 ## History

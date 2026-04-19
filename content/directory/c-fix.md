@@ -20,7 +20,7 @@ liveliness: "🟠 Suspect"
 
 C-Fix is a pre-seed concept for a solar-powered Direct Air Capture system using alkaline metal sorbents with electrolytic regeneration. The website, which has remained essentially unchanged as a two-sentence placeholder, states the company is still raising seed money to assemble a team and develop the technology. There is no evidence of a pilot, employees, press coverage, registry issuances, or LinkedIn presence.
 
-![C-Fix website](/screenshots/c-fix/2026-04-19.png)
+![C-Fix website](/screenshots/c-fix.png)
 
 
 ## History

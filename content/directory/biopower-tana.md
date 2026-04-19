@@ -20,7 +20,7 @@ liveliness: "🟡 Moderate"
 
 Biopower Tana AS is a Norwegian biochar developer founded in 2020 and based in Austertana, Finnmark. It plans to convert local residual biomass into biochar-based fertilizer and feed supplement, with carbon credit sales via Puro.earth (in partnership with Accend). The project is in early development, with the first plant targeted for commissioning in Austertana and future expansion planned to Børøya (Norway) and Thailand.
 
-![Biopower Tana website](/screenshots/biopower-tana/2026-04-19.png)
+![Biopower Tana website](/screenshots/biopower-tana.png)
 
 
 ## History

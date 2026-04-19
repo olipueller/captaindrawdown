@@ -20,7 +20,7 @@ liveliness: "🟢 Active"
 
 Metzler Biochar is a division of Metzler Forest Products LLC in Reedsville, Pennsylvania, producing wood-based biochar from local hardwood sawmill co-products. The company sells multiple biochar grades (pureCHAR, agriCHAR, primaryCHAR) along with biochar-amended compost and soil blends for agriculture, stormwater management, and livestock uses, and recovers process heat to displace propane at its firewood heat-treating facility.
 
-![Metzler website](/screenshots/v1-thumbnails/metzler.jpg)
+![Metzler website](/screenshots/metzler.png)
 
 
 ## History

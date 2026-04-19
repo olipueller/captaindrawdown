@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Ucaneo is a Berlin-based direct air capture startup developing electrochemical DAC technology that uses a biomimetic solvent to remove CO2 from ambient air at room temperature. The company operates an industrial pilot capturing 30-50 tons CO2/year and is commissioning a first-of-a-kind demonstration plant in Berlin-Marzahn in Q2 2026, targeted to capture up to 150 tons CO2/year. Ucaneo raised €6.75M in seed funding in September 2024 and received additional investment from Aramco Ventures in March 2025.
 
-![Ucaneo website](/screenshots/v1-thumbnails/ucaneo.jpg)
+![Ucaneo website](/screenshots/ucaneo.png)
 
 ## Registry Memberships
 

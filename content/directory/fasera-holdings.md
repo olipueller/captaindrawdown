@@ -23,7 +23,7 @@ liveliness: "🟡 Moderate"
 
 Fasera Holdings is an Australian company founded in 2005 that operates oil mallee plantations in the Western Australian wheatbelt, producing eucalyptus oil, biochar, and wood vinegar from its integrated distillation and pyrolysis plants. It is a registered Puro.earth supplier (Fasera Biochar Plant 1) and is also among the first certified suppliers under Puro's newer Terrestrial Storage of Biomass (TSB) methodology, and generates Australian Carbon Credit Units (ACCUs) from its plantations.
 
-![Fasera Holdings website](/screenshots/fasera-holdings/2026-04-19.png)
+![Fasera Holdings website](/screenshots/fasera-holdings.png)
 
 ## Registry Memberships
 

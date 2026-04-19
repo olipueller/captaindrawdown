@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Essunga Plantskola (operating under Förvaltnings AB Helje at Heljesgården in Essunga, Sweden) is a family-owned tree nursery founded in 1937 that in 2022 commissioned an on-site pyrolysis plant to produce EBC-certified biochar from wood chips. The biochar is used as a peat-replacement growing substrate and is also sold in bulk bags; the nursery launched a new biochar-based product "Biomix" in 2025 and continues active operations with ~30-35 employees.
 
-![Förvaltnings AB Helje website](/screenshots/förvaltnings-ab-helje/2026-04-19.png)
+![Förvaltnings AB Helje website](/screenshots/förvaltnings-ab-helje.png)
 
 
 ## History

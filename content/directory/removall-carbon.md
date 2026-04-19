@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 Removall Carbon is a Paris-based carbon project developer that designs, operates, and invests in nature-based carbon projects including mangrove restoration and reforestation, with offices in Brazil and Kenya. In 2024 it launched "Summit Removall," a joint venture with Sumitomo Corporation that has invested in MozBlue Phase 1, a large-scale mangrove restoration initiative in Mozambique. The company also distributes high-integrity carbon credits to corporates and secured corporate debt financing from French banks in mid-2025.
 
-![Removall Carbon website](/screenshots/v1-thumbnails/removall-carbon.jpg)
+![Removall Carbon website](/screenshots/removall-carbon.png)
 
 ## Registry Memberships
 

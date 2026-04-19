@@ -22,7 +22,7 @@ liveliness: "🟠 Suspect"
 
 Nūxsen is a New York-based direct air capture startup founded in 2022 that is developing electrochemical DAC reactors (CarbonJet and SlipStream) using a patented sorbent activated by variable voltage rather than heat. The company was a Phase 1 semifinalist in the DOE Direct Air Capture Pre-Commercial Technology Prize and tested its sorbent at the NETL Direct Air Capture Center in Pittsburgh, capturing 2.6 grams of CO2 in lab-scale tests. Per Tracxn it remains unfunded, and no public news has appeared since late 2024.
 
-![Nuxsen website](/screenshots/v1-thumbnails/nuxsen.jpg)
+![Nuxsen website](/screenshots/nuxsen.png)
 
 
 ## History

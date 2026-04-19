@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 Ground Up is a Mumbai-based seed-stage biochar startup founded in 2024 (legal entity Ground Up Ecowaste Pvt Ltd registered in 2022). The company develops industrial biochar production hubs that convert Indian agricultural residues into biochar via pyrolysis, selling biochar-based fertilisers to farmers while generating permanent carbon removal credits. Led by CEO Rhea Dabriwala with co-founders Shanay Jhaveri and Naveen Shivalingam.
 
-![Ground Up website](/screenshots/ground-up/2026-04-19.png)
+![Ground Up website](/screenshots/ground-up.png)
 
 
 ## History

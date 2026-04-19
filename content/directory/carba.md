@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 Carba is a Minneapolis/Eden Prairie, Minnesota-based CDR supplier that converts waste biomass into stable biocarbon using a patented autothermal low-temperature pyrolysis (torrefaction) reactor, then sequesters the biochar via anoxic burial in landfills for 1,000+ year durability. The company has signed a 44,000-ton, five-year carbon credit offtake agreement with Microsoft and was selected for a $7 million U.S. Department of Energy grant under the Carbon Negative Shot program. In December 2025, Carba closed a $6M investment round led by Rusheen Capital Management and Canopy Generations Fund.
 
-![Carba website](/screenshots/v1-thumbnails/carba.jpg)
+![Carba website](/screenshots/carba.png)
 
 ## Registry Memberships
 

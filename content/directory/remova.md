@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 Remova Carbon Systems Ltd. is a Calgary-based Canadian carbon dioxide removal developer building a purpose-built bioenergy with carbon capture and storage (BECCS) facility in Central Alberta that will convert sustainably sourced mill and forest residuals into renewable energy while permanently capturing and storing biogenic CO₂ underground. In March 2026 it announced a partnership with Mangrove Systems to deploy digital MRV across the facility, supporting Isometric certification for high-integrity CDR credit issuance.
 
-![Remova website](/screenshots/v1-thumbnails/remova.jpg)
+![Remova website](/screenshots/remova.png)
 
 
 ## History

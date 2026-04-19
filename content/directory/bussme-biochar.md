@@ -22,7 +22,7 @@ liveliness: "🟠 Suspect"
 
 Bussme Biochar AB is a Swedish biochar producer based in Svedala, Skåne, operating since 2020 as a subsidiary of family-owned Bussme Energy AB. The company pyrolyzes biomass (including garden waste from Sysav's Måsalycke facility) to produce EBC-certified biochar and is listed on the Puro.earth registry selling CORCs at €175/tonne. Revenue declined ~59% in 2024 (to 2.85M SEK) and parent Bussme Energy divested its district-heating plants to Solör Bioenergi in 2024, raising questions about the subsidiary's trajectory.
 
-![Bussme Biochar website](/screenshots/v1-thumbnails/bussme-biochar.jpg)
+![Bussme Biochar website](/screenshots/bussme-biochar.png)
 
 ## Registry Memberships
 

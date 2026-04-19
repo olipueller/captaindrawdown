@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Sylvera is a UK-based carbon credit ratings and data platform that independently assesses carbon project quality using geospatial analytics, machine learning and field data. The company offers geospatial analytics, ratings, market data, and carbon intensity assessments for project developers, corporate buyers, investors, and governments, and in 2026 expanded into carbon-differentiated commodity markets for hydrogen, ammonia and cement.
 
-![Sylvera website](/screenshots/sylvera/2026-04-19.png)
+![Sylvera website](/screenshots/sylvera.png)
 
 ## Registry Memberships
 

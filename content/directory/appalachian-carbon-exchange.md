@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 Appalachian Carbon Exchange (ACE) is a non-profit based in Chattanooga, Tennessee that develops nature-based carbon projects across the Southern and Central Appalachian region, including improved forest management, agroforestry, and pocket forests. Spun out of the Tennessee River Gorge Trust in 2021, ACE partners with landowners and corporate buyers, registering credits under the American Carbon Registry in collaboration with Finite Carbon. In 2024 it received a $2M USDA Forest Service grant to expand into coal-affected communities in Kentucky and West Virginia.
 
-![Appalachian Carbon Exchange website](/screenshots/appalachian-carbon-exchange/2026-04-19.png)
+![Appalachian Carbon Exchange website](/screenshots/appalachian-carbon-exchange.png)
 
 
 ## History

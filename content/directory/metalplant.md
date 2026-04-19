@@ -21,7 +21,7 @@ liveliness: "🟢 Active"
 
 Metalplant is a US-domiciled (Delaware) CDR supplier with field operations in northern Albania that combines enhanced rock weathering of olivine with nickel phytomining using hyperaccumulator plants (Odontarrhena chalcidica) to co-produce carbon removal credits and carbon-negative nickel ("NegativeNickel™"). The company has raised ~$3.7M from investors including Carbon Removal Partners and Carbon Drawdown Initiative, and received a $1.72M ARPA-E PHYTOMINES grant in 2024. Metalplant is developing MRV with EcoEngineers targeting Puro.earth ERW methodology compliance.
 
-![Metalplant website](/screenshots/metalplant/2026-04-19.png)
+![Metalplant website](/screenshots/metalplant.png)
 
 
 ## History

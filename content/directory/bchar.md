@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 BCHAR AG is a Zurich, Switzerland-based company founded in 2023 that develops industrial-scale biochar production systems. It launched its first pilot biochar system in Thailand using coconut husks as feedstock, with insights being incorporated into an upcoming full-scale system. The company also provides consulting and engineering services for procuring and commissioning industrial-scale biochar facilities, along with financial modeling and feasibility assessments.
 
-![BCHAR website](/screenshots/v1-thumbnails/bchar.jpg)
+![BCHAR website](/screenshots/bchar.png)
 
 
 ## History

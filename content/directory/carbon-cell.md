@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Carbon Cell is a UK startup founded by Imperial College alumni that produces a plastic-free, compostable rigid foam made from biochar and natural bio-based polymers, intended as a carbon-negative replacement for expanded polystyrene in packaging and building insulation. The biochar locks sequestered carbon into durable products, with the natural polymer binder composting at end of life while the biochar remains to enrich soil. The company raised £1.2m pre-seed in 2025 and was preparing pilot production as of late 2025.
 
-![Carbon Cell website](/screenshots/v1-thumbnails/carbon-cell.jpg)
+![Carbon Cell website](/screenshots/carbon-cell.png)
 
 
 ## History

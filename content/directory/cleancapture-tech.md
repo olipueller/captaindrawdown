@@ -20,7 +20,7 @@ liveliness: "🟠 Suspect"
 
 CleanCapture Tech is an early-stage U.S. direct air capture startup founded in 2021 by MIT-trained engineers with prior experience at Corning and Amoco. The company has developed a gas/solid reactor design using solid sorbents with a plate-and-heat-exchanger architecture, targeting capture costs below $85/ton, and has demonstrated a lab-scale prototype with DOE support. Participated in Creative Destruction Lab and Carbon to Value accelerators.
 
-![CleanCapture Tech website](/screenshots/cleancapture-tech/2026-04-19.png)
+![CleanCapture Tech website](/screenshots/cleancapture-tech.png)
 
 
 ## History

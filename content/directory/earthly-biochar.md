@@ -21,7 +21,7 @@ liveliness: "🟢 Active"
 
 Earthly Biochar is a small UK biochar producer founded in 2018 that sells biochar made from waste wood and manufactures purpose-built smokeless top-lit-updraft kilns for gardeners and land managers. A sister entity, Earthly Biochar Industries Ltd (2023), targets business customers and aims to scale UK biochar production via a larger pyrolysis facility. Both Companies House entities are listed as Active with recent filings.
 
-![Earthly Biochar website](/screenshots/v1-thumbnails/earthly-biochar.jpg)
+![Earthly Biochar website](/screenshots/earthly-biochar.png)
 
 
 ## History

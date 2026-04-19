@@ -21,7 +21,7 @@ liveliness: "🟢 Active"
 
 Levitree is a California-based startup (founded 2021, Berkeley/San Rafael) that sequesters carbon via Subterranean Wood Injection (SWI) — pumping wood-chip slurries 5-100 meters underground into anoxic apertures where the biomass resists decay. The process also raises ground elevation, providing a flood-protection co-benefit for coastal and subsiding areas. The company is affiliated with UC Berkeley's Bakar Labs and is running permitted pilot injections in Sacramento and Wilton, California.
 
-![Levitree website](/screenshots/levitree/2026-04-19.png)
+![Levitree website](/screenshots/levitree.png)
 
 
 ## History

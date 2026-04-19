@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Adsorb is a South African manufacturer of activated carbon operating a plant in Brakpan, east of Johannesburg. The company uses wood chips from pallet repair centres originating from responsibly managed forests, heating the wood at 1,000°C to first produce biochar and then activated charcoal. Adsorb captured approximately 750 tonnes of CO2 in 2024 and supplies activated charcoal to fertiliser, animal feed and cosmetic industries, with ambitions in water treatment, mine rehabilitation and cleaning mercury out of coal gas.
 
-![Adsorb Carbon website](/screenshots/adsorb-carbon/2026-04-19.png)
+![Adsorb Carbon website](/screenshots/adsorb-carbon.png)
 
 
 ## History

@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 The Green Branch is an Amsterdam-based carbon asset developer founded in 2019 that creates nature-based solutions projects for the voluntary carbon market. They develop and manage reforestation, restoration, and sustainable land-management projects primarily in Brazil (including co-developing "Trees for Farmers" with Rabobank) and Tanzania, acting as project proponent through VCS/CCB certification.
 
-![The Green Branch website](/screenshots/the-green-branch/2026-04-19.png)
+![The Green Branch website](/screenshots/the-green-branch.png)
 
 
 ## History

@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 InPlanet is a Brazil/Germany-based AgTech company pioneering tropical Enhanced Rock Weathering (ERW), spreading finely crushed basalt on farmland to permanently sequester CO2 as bicarbonates while improving soil fertility. It delivered the world's first independently verified ERW credits via Isometric in late 2024, and in December 2025 signed an agreement with Microsoft to deliver 28,500+ tonnes between 2026 and 2028. The company operates the largest ERW program in Brazil, covering more than 12,000 hectares of farmland.
 
-![InPlanet website](/screenshots/v1-thumbnails/inplanet.jpg)
+![InPlanet website](/screenshots/inplanet.png)
 
 ## Registry Memberships
 

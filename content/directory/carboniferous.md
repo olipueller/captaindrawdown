@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Carboniferous is a Houston-based CDR startup developing Marine Anoxic Carbon Storage (MACS), a process that places densified terrestrial crop biomass (such as compressed sugarcane bagasse bales) in the deep, hypersaline, anoxic Orca Basin in the Gulf of Mexico, where oxygen-free conditions are expected to preserve the biomass for 1,000+ years. In April 2026 the US EPA issued the company an MPRSA research permit — only the second such permit ever granted — authorizing deployment of up to 16 tonnes of sugarcane biomass beginning September 2026 through February 2028. The company collaborates with UCSB researchers (CSO Morgan Raven) and has received Frontier R&D funding.
 
-![Carboniferous website](/screenshots/v1-thumbnails/carboniferous.jpg)
+![Carboniferous website](/screenshots/carboniferous.png)
 
 
 ## History

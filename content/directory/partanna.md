@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Partanna Global is a Bahamian advanced materials company co-founded by former NBA player Rick Fox that produces a carbon-negative cement alternative made from magnesium compounds derived from desalination brine and recycled ingredients such as steel slag. The product cures at ambient temperature, avoiding clinkering, and is claimed to absorb CO₂ throughout the building's life, generating Verra-certified carbon credits under methodology VM0043.
 
-![Partanna website](/screenshots/partanna/2026-04-19.png)
+![Partanna website](/screenshots/partanna.png)
 
 ## Registry Memberships
 

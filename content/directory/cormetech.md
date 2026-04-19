@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 CORMETECH is a North Carolina-based emissions-control catalyst manufacturer (founded 1989) that has extended its ceramic honeycomb substrate expertise into CO2 capture, producing custom sorbent-loaded adsorbers for DAC developers and point-source capture under its CORAL and PATHWAY product lines. Collaborating with top DAC developers, CORMETECH provides the custom adsorbers at the core of their systems, having adapted its gold-standard catalyst technology since 2018 into a sorbent-substrate adsorber for industrial-scale carbon capture. They hold multiple U.S. DOE awards for both DAC and point-source capture development.
 
-![CORMETECH website](/screenshots/cormetech/2026-04-19.png)
+![CORMETECH website](/screenshots/cormetech.png)
 
 ## Registry Memberships
 

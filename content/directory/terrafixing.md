@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 TerraFixing is an Ottawa-based direct air capture company founded in 2021 by University of Ottawa chemical engineers, developing cold-climate DAC using structured zeolite packing aimed at fitting a 1,000 tonnes/year unit into a shipping container at below $100/tonne. The company is pursuing its first deployment with Tugliq Énergie in northern Quebec and in August 2025 received $2.5M CAD from Canada's Energy Innovation Program to scale its technology.
 
-![TerraFixing website](/screenshots/terrafixing/2026-04-19.png)
+![TerraFixing website](/screenshots/terrafixing.png)
 
 ## Registry Memberships
 

@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 IWB (Industrielle Werke Basel) is the municipal utility of the Swiss canton of Basel-City, providing electricity, natural gas, district heat, drinking water, and telecommunications. As a small business line within the utility, IWB operates biomass pyrolysis plants (including a PYREG unit and a new BIOMACON-supplied plant in Maisprach commissioned December 2025) that carbonise green waste and wood chips into EBC-certified biochar, with by-product heat fed into local district heating networks.
 
-![Industrielle Werke Basel website](/screenshots/v1-thumbnails/industrielle-werke-basel.jpg)
+![Industrielle Werke Basel website](/screenshots/industrielle-werke-basel.png)
 
 
 ## History

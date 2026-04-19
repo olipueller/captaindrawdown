@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 The Pond Foundation is a Swiss-registered non-profit (founded 2021 by Scott Poynton in Carouge/Gingins) that runs the "My Carbon Zero" initiative, offering ISO 14064-aligned GHG reporting, climate advisory services, and a member community that connects companies to carbon removal project partners (e.g. biochar suppliers like Dutch Carboneers). In 2024 it launched Earthtrust, a transparency/verification platform for sustainability claims. It does not physically remove CO2 itself — it operates as an advisory/brokerage and anti-greenwashing verification player in the CDR ecosystem.
 
-![Pond Foundation website](/screenshots/pond-foundation/2026-04-19.png)
+![Pond Foundation website](/screenshots/pond-foundation.png)
 
 
 ## History

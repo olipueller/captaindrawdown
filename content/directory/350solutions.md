@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 350Solutions provides independent evaluation of novel low-carbon and clean technologies, with a focus on emerging carbon removal (CDR) technologies, serving as an approved validation and verification body for leading carbon removal registries and providing due diligence to CDR credit buyers and project investors. They are accredited by ANAB under ISO 17020 for Environmental Technology Verification via ISO 14034 and are approved by both Puro and Isometric as VVBs. They are headquartered in Raleigh, North Carolina and do not physically remove CO2.
 
-![350solutions website](/screenshots/v1-thumbnails/350solutions.jpg)
+![350solutions website](/screenshots/350solutions.png)
 
 ## Registry Memberships
 

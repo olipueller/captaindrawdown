@@ -21,7 +21,7 @@ liveliness: "🟢 Active"
 
 Carbon Removal AS is a Norwegian project development company building a large-scale Direct Air Capture facility at Kollsnes in Øygarden, adjacent to the Northern Lights CO2 storage terminal. Through its subsidiary NorDAC Kollsnes AS, it signed a 2025 agreement with German DAC tech provider Phlair to deploy an electrochemical liquid-solvent DAC plant starting at 60,000 tpa and scaling to 500,000 tpa. NorDAC will be the operator and handle project development and infrastructure.
 
-![Carbon Removal AS/Nordic DAC Group website](/screenshots/v1-thumbnails/carbon-removal-as-nordic-dac-group.jpg)
+![Carbon Removal AS/Nordic DAC Group website](/screenshots/carbon-removal-asnordic-dac-group.png)
 
 
 ## History

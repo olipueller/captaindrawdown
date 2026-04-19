@@ -21,7 +21,7 @@ liveliness: "🟡 Moderate"
 
 Emergent Waste Solutions (EWS) is a British Columbia–based company that operates its proprietary Advanced Thermolysis System (ATS), a pyrolysis technology that converts waste streams such as biomass, plastics, tires, and MSW into products including biochar, bio-oil, bio-coal, carbon black, and renewable natural gas. Its Ruby Creek plant near Hope, BC entered commercial biochar production in 2022 and made early sales in 2023, though the plant was offline pending reassembly as of a March 2025 LOI with Graycliff Exploration to take EWS public via reverse takeover.
 
-![Emergent Waste Solution website](/screenshots/emergent-waste-solution/2026-04-19.png)
+![Emergent Waste Solution website](/screenshots/emergent-waste-solution.png)
 
 
 ## History

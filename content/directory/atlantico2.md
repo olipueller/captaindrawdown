@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 AtlantiCO2 is a Brazilian carbon removal company that has developed its own pyrolysis technology to produce biochar for the agricultural sector. The company stores carbon in soil by converting biomass into stable biochar, aiming to decarbonise Brazil's agriculture industry at industrial scale.
 
-![AtlantiCO2 website](/screenshots/atlantico2/2026-04-19.png)
+![AtlantiCO2 website](/screenshots/atlantico2.png)
 
 
 ## History

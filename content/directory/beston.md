@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Beston Group, founded in 2013 and based in Henan, China, is a manufacturer of biochar pyrolysis and waste-pyrolysis equipment, including the BST-50S biochar reactor that has passed Puro.earth technology vetting. The company supplies turnkey biochar production plants used for CDR projects worldwide and partners with operators such as Euthenia Energy in Spain. Beston also manufactures pyrolysis plants for plastics, tires, and oil sludge alongside its biochar/CDR line.
 
-![Beston website](/screenshots/beston/2026-04-19.png)
+![Beston website](/screenshots/beston.png)
 
 
 ## History

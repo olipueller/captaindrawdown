@@ -21,7 +21,7 @@ liveliness: "🟠 Suspect"
 
 Dair Capture is a U.S.-based direct air capture startup commercializing sorbent-based DAC technology developed at Los Alamos National Laboratory, backed by three pending U.S. patents. The company claims a ~10x cost reduction versus incumbent DAC technologies and markets clean CO2 supply for industrial uses such as cement, healthcare, and beverages, alongside sequestration. Public footprint is minimal — no funding announcements, no recent press, and no detectable LinkedIn employees — though the company website remains live.
 
-![Dair Capture website](/screenshots/v1-thumbnails/dair-capture.jpg)
+![Dair Capture website](/screenshots/dair-capture.png)
 
 
 ## History

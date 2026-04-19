@@ -20,7 +20,7 @@ liveliness: "🟡 Moderate"
 
 Genvision is a Belgium-based (KU Leuven spin-out) AI startup originally focused on satellite-based measurement of CO2 removal by forests and nature-based projects. It has since broadened into an AI suite for the voluntary carbon market, offering a unified cross-registry search (Verra, Gold Standard, Isometric, ACR, CAR), AI-powered validation/audit compliance tools for VVBs, and RFP automation for project developers.
 
-![Genvision website](/screenshots/genvision/2026-04-19.png)
+![Genvision website](/screenshots/genvision.png)
 
 
 ## History

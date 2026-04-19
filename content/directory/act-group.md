@@ -21,11 +21,20 @@ liveliness: "🟡 Moderate"
 
 ACT Group (founded 2009, headquartered in Amsterdam) is a global environmental commodities broker and decarbonization solutions provider operating across carbon credits, EACs, renewable fuels, and emissions allowances. It develops and facilitates climate projects — including biochar-based CDR transactions such as the Freres Lumber project sold to Microsoft — but acts as an intermediary, trader, and project developer rather than operating physical CDR technology itself.
 
-![ACT Group website](/screenshots/act-group/2026-04-19.png)
+![ACT Group website](/screenshots/act-group.png)
 
+## Registry Memberships
+
+- Cdrjobsearth
 
 ## History
 
+- **2026-04-19** — merged 1 duplicate(s): ACT
+- **2026-04-19** — refresh: screenshot
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.actcommodities.com/))
+- **2026-04-18** — reclassified: pathway=Enabling Tech focus=buyer_excluded liveliness=🟢 Active ([source](https://www.actcommodities.com/))
+- **2026-04-18** — backfilled from V1
+- **** — merged duplicate: ACT (slug=act)
 - **2026-04-19** — merged 1 duplicate(s): ACT Commodities
 - **2026-04-19** — refresh: liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

@@ -23,7 +23,7 @@ liveliness: "🟡 Moderate"
 
 Seattle-based Mast Reforestation is a North American post-wildfire reforestation company that generates durable CDR credits via biomass burial. Its MT1 project in Montana received Puro.earth certification for 4,277 carbon removal credits from the burial of more than 10 million pounds of wildfire-killed trees in an engineered underground chamber, and the company was recognized as one of Fast Company's Most Innovative Companies of 2026 and MT1 received an A rating from BeZero Carbon.
 
-![Mast Reforestation website](/screenshots/mast-reforestation/2026-04-19.png)
+![Mast Reforestation website](/screenshots/mast-reforestation.png)
 
 ## Registry Memberships
 

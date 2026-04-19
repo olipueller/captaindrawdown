@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 PureField Carbon Capture, LLC is a subsidiary of PureField Ingredients, a Kansas-based wheat-protein and ethanol producer. In April 2026, EPA Region 7 issued the company the first Class VI well permit in Kansas, authorizing injection of up to 150,000 metric tons of CO2 per year (1.8 million tons total over 12 years) from its Russell, Kansas ethanol fermentation operations into the Arbuckle rock formation. Operations are to start following final commissioning.
 
-![PureField Carbon website](/screenshots/purefield-carbon/2026-04-19.png)
+![PureField Carbon website](/screenshots/purefield-carbon.png)
 
 
 ## History

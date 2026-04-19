@@ -21,7 +21,7 @@ liveliness: "🟠 Suspect"
 
 AtmosClear BR, LLC is a portfolio company of Fidelis New Energy that in April 2025 signed a contract with Microsoft for 6.75 million metric tons of engineered carbon removal over 15 years from bioenergy carbon capture & storage (BECCS) — the world's largest permanent carbon removal deal to date. The facility at the Port of Greater Baton Rouge in Louisiana will use sugarcane bagasse and forest-management trimmings to produce clean energy while capturing 680,000 metric tons of biogenic CO2 per year, with construction planned for 2026 and commercial operations in 2029. In October 2025 AtmosClear selected ExxonMobil to provide CO2 transportation and long-term geological sequestration services for the project.
 
-![AtmosClear website](/screenshots/atmosclear/2026-04-19.png)
+![AtmosClear website](/screenshots/atmosclear.png)
 
 
 ## History

@@ -22,7 +22,7 @@ liveliness: "🟠 Suspect"
 
 Tera (Tera Carbon) is a Kenyan climate-tech startup that converts sugarcane bagasse waste from mills in the Kisumu/Lake Victoria sugarcane belt into biochar via pyrolysis, distributing the resulting biochar to local sugarcane growers as a soil amendment. In June 2025 it became the first African project developer independently validated on the Riverse carbon registry, using a digital MRV system co-developed with Kenyan tech partner CYNK. The company targets producing 450,000 tons of biochar and sequestering ~1 million tons CO2e by 2030.
 
-![Tera website](/screenshots/tera/2026-04-19.png)
+![Tera website](/screenshots/tera.png)
 
 
 ## History

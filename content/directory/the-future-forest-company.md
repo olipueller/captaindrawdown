@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 The Future Forest Company restores nature at scale through award-winning reforestation and peatland restoration projects spanning Scotland and Northern England, issuing validated UK Woodland Carbon Code and Peatland Code units. The company has planted over 1.59 million trees across its UK sites, and its enhanced-weathering arm previously spun out as UNDO in 2022.
 
-![The Future Forest Company website](/screenshots/v1-thumbnails/the-future-forest-company.jpg)
+![The Future Forest Company website](/screenshots/the-future-forest-company.png)
 
 ## Registry Memberships
 

@@ -20,7 +20,7 @@ liveliness: "🟢 Active"
 
 Hjelmsäters Egendom is a Swedish agricultural estate in Hällekis (Kinnekulle) that operates a pyrolysis unit to produce EBC-certified biochar from forestry residues, sold as soil amendment under the biokol.se brand. The estate also resells Brachio Solutions biochar boilers in Sweden and has issued carbon removal credits via Puro.earth. Contact is Edvard Hamilton of the Hamilton family who owns the estate.
 
-![Hjelmsäters Egendom website](/screenshots/hjelmsäters-egendom/2026-04-19.png)
+![Hjelmsäters Egendom website](/screenshots/hjelmsäters-egendom.png)
 
 ## Registry Memberships
 

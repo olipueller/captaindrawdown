@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Nina Energy Limited is an Ecuadorian start-up (founded 2021, formerly Andes Bioenergy) that develops thermochemical conversion systems — principally pyrolysis reactors — for residual biomass from Latin American agro-industries. In November 2025 it launched a pyrolysis plant near Cotopaxi with German partner atmosfair, converting ecological-forestry wood waste into biochar for negative emissions and soil fertility. The company both builds/sells pyrolysis technology and operates biochar production itself.
 
-![Nina Energy website](/screenshots/v1-thumbnails/nina-energy.jpg)
+![Nina Energy website](/screenshots/nina-energy.png)
 
 
 ## History

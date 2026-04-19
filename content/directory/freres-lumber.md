@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Freres Engineered Wood (formerly Freres Lumber Co.) is a family-owned Oregon wood products manufacturer founded in 1922 that produces biochar as a byproduct of its 100% biomass-fired cogeneration boiler at its Evergreen BioPower facility in Lyons, Oregon. The biochar is certified under the Puro.earth Biochar Methodology and sold as CORCs, notably to Microsoft via ACT Commodities' carbon removal program. While wood products (plywood, veneer, Mass Ply Panels) are its core business, it physically generates CDR credits and is included as a supplier.
 
-![Freres Lumber website](/screenshots/freres-lumber/2026-04-19.png)
+![Freres Lumber website](/screenshots/freres-lumber.png)
 
 ## Registry Memberships
 

@@ -22,7 +22,7 @@ liveliness: "🔴 Likely Dead"
 
 Restoration Fuels was a commercial-scale torrefaction and biochar facility in John Day, Oregon, operated as a wholly-owned subsidiary of the U.S. Endowment for Forestry and Communities. The plant closed permanently on July 15, 2024, laying off 11 employees after the endowment's board decided ongoing sole ownership of a manufacturing subsidiary was outside its core mission. The company is defunct.
 
-![Restoration Fuels website](/screenshots/v1-thumbnails/restoration-fuels.jpg)
+![Restoration Fuels website](/screenshots/restoration-fuels.png)
 
 ## Registry Memberships
 

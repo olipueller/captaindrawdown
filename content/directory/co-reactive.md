@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Co-reactive is a Düsseldorf-based climate-tech startup, spun out of RWTH Aachen University in 2024, that operates a continuous ex-situ CO2 mineralization process converting captured CO2 together with magnesium/calcium silicate minerals (olivine) or metallurgical slags (EAF/BOF) into CO2-negative supplementary cementitious materials (CO-SCMs) for cement and concrete. The company claims around 330 kg of CO₂ permanently stored per tonne of CO-SCM, enabling carbon-negative construction materials. In January 2026 it closed a €6.5M seed round led by HTGF with NRW.Bank, HBG Ventures, AFI Ventures, Evercurious VC and climate-tech angels, plus seven-figure BMWE grants, and has since been selected for the EIC Accelerator.
 
-![Co-reactive website](/screenshots/co-reactive/2026-04-19.png)
+![Co-reactive website](/screenshots/co-reactive.png)
 
 
 ## History

@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 Clean Maine Carbon purchased the Greenville Steam Biomass facility in Greenville, Maine in 2017 and started its first biochar facility in July 2023, transforming low-value discarded local woody biomass into high-value biochar. The company operates a biochar manufacturing line comprised of a combustion chamber, retention chamber, rotary kiln, thermal oxidation chamber, and water cooler — a BET 24-PRD model developed by BioMass Energy Techniques Inc. It has issued biochar CORCs on the Puro.earth registry via Flowcarbon as carbon developer.
 
-![Clean Maine Carbon website](/screenshots/clean-maine-carbon/2026-04-19.png)
+![Clean Maine Carbon website](/screenshots/clean-maine-carbon.png)
 
 ## Registry Memberships
 

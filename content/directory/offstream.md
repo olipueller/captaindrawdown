@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Offstream is a U.S.-based software and services platform that helps carbon removal project developers — primarily in biochar — manage carbon credit certification, life-cycle assessments, dMRV, and regulatory compliance across standards like Puro.earth and Isometric. Founded in 2023 by Varsha Ramesh Walsh and Zach Janicki, the company is registry-agnostic and explicitly avoids brokering, positioning itself as compliance infrastructure for the CDR market. It does not physically remove CO2 itself.
 
-![Offstream website](/screenshots/offstream/2026-04-19.png)
+![Offstream website](/screenshots/offstream.png)
 
 
 ## History

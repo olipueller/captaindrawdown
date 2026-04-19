@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Explocom GK SRL, operating under the GEKKA brand, is a Romanian biochar and wood vinegar producer based in Cristuru Secuiesc, Harghita County, using a patented pyrolysis process for biomass carbonization. The company started as a charcoal producer in 1992, patented its pyrolysis method in 2013, and since 2018 has focused on biochar for agricultural soil amendment. Its biochar carbon credits are managed via the Puro.earth registry.
 
-![Explocom website](/screenshots/explocom/2026-04-19.png)
+![Explocom website](/screenshots/explocom.png)
 
 ## Registry Memberships
 

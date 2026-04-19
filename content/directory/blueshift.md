@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 BlueShift is a Cambridge, Massachusetts startup founded in 2024 developing a membrane-free electrochemical system that simultaneously extracts critical minerals and rare earth elements from industrial waste and removes CO2 from seawater as carbonate. The company exited stealth in March 2025 with $2.1M pre-seed funding from ConocoPhillips, Ridgeline, and MassCEC, and is building a pilot facility in Boston Harbor co-located with coal and desalination infrastructure. It operates out of Greentown Labs and The Engine (MIT), with technology co-developed with the University of Michigan and Harvard.
 
-![BlueShift website](/screenshots/blueshift/2026-04-19.png)
+![BlueShift website](/screenshots/blueshift.png)
 
 ## Registry Memberships
 

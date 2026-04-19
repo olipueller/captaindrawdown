@@ -21,7 +21,7 @@ liveliness: "🟡 Moderate"
 
 Carboneyes creates carbon removal credits by permanently storing carbon in soil, supporting smallholder sugarcane farmers and soil health. The company carbonises waste bagasse into biochar, locking carbon into a stable form for at least 1,000 years, and donates the biochar to sugarcane farmers at no cost with on-the-ground training. It aims to remove over 500,000 tonnes of CO2 and donate over 200,000 tonnes of biochar to farmers by 2030.
 
-![Carboneyes website](/screenshots/v1-thumbnails/carboneyes.jpg)
+![Carboneyes website](/screenshots/carboneyes.png)
 
 
 ## History

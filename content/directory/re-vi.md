@@ -22,7 +22,7 @@ liveliness: "🟠 Suspect"
 
 Re-Vi is an Australian CDR developer building one of the world's largest biochar projects on Kangaroo Island, South Australia, converting 4.5 million tonnes of bushfire-damaged timber plantations into biochar and durable CDR credits. At full production (targeted 2026) the facility is expected to produce ~200,000 CDR credits and ~100,000 tonnes of biochar annually. The project is listed on Puro.earth and supplied by timber from majority shareholder Kiland Limited.
 
-![Re-Vi website](/screenshots/re-vi/2026-04-19.png)
+![Re-Vi website](/screenshots/re-vi.png)
 
 
 ## History

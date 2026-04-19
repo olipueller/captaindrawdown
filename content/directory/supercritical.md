@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 Supercritical is a London-based carbon removal marketplace that sources, vets, and distributes permanent CDR credits across biochar, BECCS, DAC, ERW, bio-oil and other pathways. It operates a live-pricing marketplace with a 118-point vetting protocol, co-develops projects (exclusive distributor for Exomad Green biochar), and facilitated a 1M-tonne Microsoft offtake. Backed by Lightspeed Venture Partners, GreenCode, and MMC Ventures.
 
-![Supercritical website](/screenshots/supercritical/2026-04-19.png)
+![Supercritical website](/screenshots/supercritical.png)
 
 ## Registry Memberships
 

@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Tapovanam Organic Farming Systems is a Bangalore-based regenerative agriculture company producing biochar for soil amendment and carbon removal. Founded in 2021, it also operates Organic Tap (a digital marketplace for organic produce) and provides farming consultancy services. Biochar Carbon Removal is one of its three main initiatives.
 
-![Tapovanam Organic Farming Systems website](/screenshots/tapovanam-organic-farming-systems/2026-04-19.png)
+![Tapovanam Organic Farming Systems website](/screenshots/tapovanam-organic-farming-systems.png)
 
 
 ## History

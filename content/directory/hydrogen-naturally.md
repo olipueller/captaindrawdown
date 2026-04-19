@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Hydrogen Naturally (H2N) is a Canadian startup founded by Brian Fehr and Ian MacGregor that plans to build BECCS hubs across North America, gasifying forestry residuals to produce carbon-negative hydrogen while permanently sequestering the biogenic CO2 underground. The company is backed by Peak Renewables and North West Capital Partners, and in April 2025 received $3M from Emissions Reduction Alberta for a Front-End Engineering Design study for its first hydrogen production unit in Alberta's Industrial Heartland.
 
-![Hydrogen Naturally website](/screenshots/v1-thumbnails/hydrogen-naturally.jpg)
+![Hydrogen Naturally website](/screenshots/hydrogen-naturally.png)
 
 
 ## History

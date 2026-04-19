@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 Carbon Limit is a South Florida climate tech company innovating and commercializing scalable solutions for a more sustainable built environment. Its flagship product CaptureCrete® is a pour-in additive used during the concrete manufacturing process that employs CO2 mineralization to capture, store, and reduce concrete's carbon footprint. The company licenses its technology to concrete producers and sells carbon credits generated from CaptureCrete® deployments.
 
-![Carbon Limit website](/screenshots/carbon-limit/2026-04-19.png)
+![Carbon Limit website](/screenshots/carbon-limit.png)
 
 
 ## History

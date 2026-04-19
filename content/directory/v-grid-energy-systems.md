@@ -22,7 +22,7 @@ liveliness: "🟠 Suspect"
 
 VGrid Energy Systems is a California-based clean energy company whose mobile, high-temperature gasification units have been operating in the Central Valley since 2019, converting waste biomass into electricity plus biochar and wood vinegar. The company is Puro.earth-certified, sells CORCs (removing ~2.94 tCO2 per ton of biochar), and markets retail biochar/bio-liquid products under Persist and Karrikaid brands. In 2023 it listed its Lost Hills expansion project on Puro.earth's Accelerate program, offering up to $9M in Pre-CORC purchases.
 
-![V-Grid Energy Systems website](/screenshots/v1-thumbnails/v-grid-energy-systems.jpg)
+![V-Grid Energy Systems website](/screenshots/v-grid-energy-systems.png)
 
 ## Registry Memberships
 

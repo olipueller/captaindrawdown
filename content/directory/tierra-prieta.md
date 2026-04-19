@@ -21,7 +21,7 @@ liveliness: "🟢 Active"
 
 Tierra Prieta (legal name Biochar de Nogal SA de CV) is a Mexican biochar producer based in Parras de la Fuente, Coahuila, that converts waste pecan shells into biochar for soil amendment and carbon removal. The company operates an industrial-scale facility with roughly 500 t/yr capacity inaugurated in May 2023, sells Puro.earth-certified biochar credits, and has a multi-year full-capacity offtake with Wonderchar.
 
-![Tierra Prieta website](/screenshots/v1-thumbnails/tierra-prieta.jpg)
+![Tierra Prieta website](/screenshots/tierra-prieta.png)
 
 ## Registry Memberships
 

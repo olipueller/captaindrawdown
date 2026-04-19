@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Carboneers was initially founded as Dutch Carboneers in September 2021 by Mart de Bruijn, an environmental economist, and Berend de Haas, a biologist. The Netherlands-based company partners with smallholder farming communities in India and Ghana to produce biochar from agricultural residues, issuing carbon removal credits through the Isometric registry. Projects are run in partnership with Terrafront Ventures and Together for Restoration in Assam and other Indian regions, with Isometric maintaining a buffer pool to protect against reversal risk.
 
-![Carboneers website](/screenshots/v1-thumbnails/carboneers.jpg)
+![Carboneers website](/screenshots/carboneers.png)
 
 ## Registry Memberships
 

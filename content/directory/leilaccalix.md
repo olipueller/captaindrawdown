@@ -23,7 +23,7 @@ liveliness: "🟡 Moderate"
 
 Leilac is a 93%-owned subsidiary of ASX-listed Calix Limited that develops indirectly heated electric calcination technology, originally for decarbonising cement and lime production. Its CDR relevance comes from a perpetual, exclusive global licence with Heirloom, whose limestone-based Direct Air Capture facilities (including a ~17,000 tpa Shreveport plant slated for 2026 and Heirloom's contribution to the 300,000 tpa Project Cypress DAC Hub) deploy Leilac's electric kilns to separate CO2 from carbonated lime. Leilac/Calix also recently received a Frontier zero-carbon lime grant (January 2026).
 
-![Leilac/Calix website](/screenshots/leilaccalix/2026-04-19.png)
+![Leilac/Calix website](/screenshots/leilaccalix.png)
 
 
 ## History

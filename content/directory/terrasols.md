@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Terrasols (Terrasols Solutions) is an India-based enhanced rock weathering startup that crushes volcanic basalt and applies it to smallholder farmers' fields to permanently remove atmospheric CO₂ while improving soil health and crop yields. The company is profiled in the remove. Carbon Removal Accelerator and describes digital MRV systems for generating carbon credits.
 
-![Terrasols website](/screenshots/v1-thumbnails/terrasols.jpg)
+![Terrasols website](/screenshots/terrasols.png)
 
 
 ## History

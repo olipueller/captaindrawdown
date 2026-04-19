@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 CarpeCarbon is a Turin-based Italian climate-tech startup founded in 2022 developing a proprietary, energy-efficient Direct Air Capture (DAC) technology, positioned as the first Italian DAC company. It raised a €1.75M pre-seed round in late 2023 from Tech4Planet (CDP Venture Capital), 360 Capital, Club degli Investitori and PiemonteNext to design Italy's first domestically-developed DAC plant in Piedmont, and has been opening a €5M seed round to build its first pilot.
 
-![CarpeCarbon website](/screenshots/carpecarbon/2026-04-19.png)
+![CarpeCarbon website](/screenshots/carpecarbon.png)
 
 
 ## History

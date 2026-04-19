@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 ReGenerate Livermore Falls, LLC is a 39 MW biomass power facility in Livermore Falls, Maine, owned by ReGenerate Energy Holdings (a joint venture of Ember Infrastructure and ReEnergy Biomass Operations). It produces biochar as a byproduct of biomass gasification and is Puro.earth-certified under the Biochar 2022 methodology, having issued 7,316 CORCs as of latest listing. The biochar project was commissioned in February 2024.
 
-![ReGenerate Livermore Falls website](/screenshots/v1-thumbnails/regenerate-livermore-falls.jpg)
+![ReGenerate Livermore Falls website](/screenshots/regenerate-livermore-falls.png)
 
 
 ## History

@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Biochar Life is a Delaware Public Benefit Corporation and impact venture of nonprofit Warm Heart Worldwide, operating primarily in Thailand with programs in Kenya, Malawi, Tanzania and Indonesia. It trains smallholder farmers to convert crop waste into biochar using low-tech kilns, certifies the carbon removed via the EBC/Global Artisan C-Sink standard, and sells c-sink credits through partners like Carbonfuture. By March 2025 it had paid over US$1 million to smallholder farmers and generated 21,000+ tonnes of verified carbon removals.
 
-![Biochar Life website](/screenshots/biochar-life/2026-04-19.png)
+![Biochar Life website](/screenshots/biochar-life.png)
 
 
 ## History

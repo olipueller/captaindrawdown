@@ -22,7 +22,7 @@ liveliness: "🟠 Suspect"
 
 Dowmann is an Irish carbon removal startup that breaks biomass down and separates it into several different products including biochar (a stable form of carbon storage used for soil improvement or as a concrete additive) and a renewable oil used in heavy industrial boilers. The company works with remove as a strategic partner and Puro.earth to verify their carbon removal efforts. The team is very lean — three full-time staff plus two remote workers, dispersed across Carlow, Dublin, and Cork.
 
-![Dowmann website](/screenshots/v1-thumbnails/dowmann.jpg)
+![Dowmann website](/screenshots/dowmann.png)
 
 
 ## History

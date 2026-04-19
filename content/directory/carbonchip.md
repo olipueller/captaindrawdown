@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 Carbonchip is a Brisbane-based biochar manufacturer, established in 2020, that produces biochar from forestry residues via a mobile pyrolysis machine and sells to Queensland farms and national customers. Its Mobile Carboniser #1 project is listed on Puro.earth with CORC 100+ durability certification. The company is small (~2 employees) and operates in early-development CORC issuance mode.
 
-![CarbonChip website](/screenshots/v1-thumbnails/carbonchip.jpg)
+![CarbonChip website](/screenshots/carbonchip.png)
 
 
 ## History

@@ -21,7 +21,7 @@ liveliness: "🟠 Suspect"
 
 Founded in 2022 and based in London, Blusink uses proprietary, traceable technology to enhance ocean alkalinity, accelerating CO2 capture and locking it into stable mineral formations. The startup pioneers the sinking of substrates to help restore rhodolith beds to capture carbon and improve marine biodiversity. MRV relies on total alkalinity analyses and calcification-rate measurements, with pilot deployments in locations including Madeira and Colombia.
 
-![Blusink website](/screenshots/blusink/2026-04-19.png)
+![Blusink website](/screenshots/blusink.png)
 
 
 ## History

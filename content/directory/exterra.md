@@ -22,7 +22,7 @@ liveliness: "🟠 Suspect"
 
 Exterra (formerly Exterra Carbon Solutions, rebranded to Exterra Technologies in early 2026) is a Québec-based cleantech company that processes legacy asbestos mine tailings into low-carbon critical minerals (magnesium oxide, nickel concentrate, amorphous silica) while permanently mineralizing CO2 via its ROC™ process. The company raised a CAD $20M Series A in May 2025 (co-led by Clean Energy Ventures and BDC Capital), has a Frontier Climate pre-purchase agreement, and is developing its Hub I plant in Val-des-Sources, with construction scheduled to begin in 2027.
 
-![Exterra website](/screenshots/exterra/2026-04-19.png)
+![Exterra website](/screenshots/exterra.png)
 
 
 ## History

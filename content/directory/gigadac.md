@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 GigaDAC is a Houston, Texas-based direct air capture startup founded in 2022, spun out of Rice University and based at Greentown Labs Houston. The company uses a proprietary liquid-spray approach instead of filters, claiming roughly six times better airflow efficiency, and was building a commercial-scale pilot targeted for early 2025. Co-founder Harrison Rice was still listed as CEO on the CERAWeek 2025 agenda, indicating continued operation, though the team remains small (~4 employees).
 
-![GigaDAC website](/screenshots/gigadac/2026-04-19.png)
+![GigaDAC website](/screenshots/gigadac.png)
 
 
 ## History

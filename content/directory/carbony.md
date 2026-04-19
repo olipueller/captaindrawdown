@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 Carbony is an Austria-based CDR project developer deploying Enhanced Rock Weathering in managed forests across Central and Eastern Europe, a differentiated approach from the more common cropland ERW model. The company is a member of the Enhanced Weathering Alliance and has corporate partnerships such as with Refurbed.
 
-![Carbony website](/screenshots/v1-thumbnails/carbony.jpg)
+![Carbony website](/screenshots/carbony.png)
 
 
 ## History

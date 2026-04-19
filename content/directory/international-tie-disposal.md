@@ -20,7 +20,7 @@ liveliness: "🟢 Active"
 
 International Tie Disposal (ITD), a subsidiary of North Carolina-based Polivka International, operates a pyrolysis facility in Hamlet, Richmond County, NC that converts legacy creosote-treated railroad ties into biochar using kiln technology supplied by Biochar Now of Colorado. The project has faced years of litigation reaching the NC Supreme Court and community opposition over air and water pollution concerns, but as of 2024-2025 the facility is operational with kilns, staff, and active hiring. Use of creosote-contaminated feedstock raises questions about the permanence and environmental integrity of any CDR credits.
 
-![International Tie Disposal website](/screenshots/international-tie-disposal/2026-04-19.png)
+![International Tie Disposal website](/screenshots/international-tie-disposal.png)
 
 
 ## History

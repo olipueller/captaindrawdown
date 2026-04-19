@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Sirona Technologies develops and operates modular Direct Air Capture systems that permanently remove CO₂ from the atmosphere and store it through geological mineralization. Built in Belgium and deployed globally, Sirona's systems enable carbon removal with durable storage and transparent MRV, and following the commissioning of its first commercial units, Sirona will begin delivering carbon removal credits in 2026. Founded in January 2023 by former Tesla engineer Thoralf Gutierrez and thermodynamics engineer Dr. Gauthier Limpens, the Brussels-based startup raised an initial pre-seed round of $1.09 million.
 
-![Sirona Technologies website](/screenshots/v1-thumbnails/sirona-technologies.jpg)
+![Sirona Technologies website](/screenshots/sirona-technologies.png)
 
 ## Registry Memberships
 

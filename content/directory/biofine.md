@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Biofine Developments Northeast (BDNE) is a Maine-based biorefinery developer commercializing patented Biofine Technology to convert forestry residues and cellulosic waste into ethyl levulinate biofuel, renewable chemicals, and biochar. Its Phase 1 facility at the former Lincoln Pulp & Tissue Mill site in Lincoln, Maine is slated to produce ~3 million gallons of EL and ~20,000 tons of biochar annually. In October 2025 Biofine announced a collaboration agreement with Drax Group to deploy facilities using its cellulose conversion technology across North America.
 
-![Biofine website](/screenshots/biofine/2026-04-19.png)
+![Biofine website](/screenshots/biofine.png)
 
 
 ## History

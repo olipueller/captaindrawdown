@@ -23,7 +23,7 @@ liveliness: "🟡 Moderate"
 
 Africa Climate Ventures (ACV) is a Kigali-based venture builder and early-stage investor founded in 2023 that backs climate-positive businesses across Africa, with a strong focus on boosting continental participation in global carbon markets. Its portfolio and pipeline include CDR-relevant ventures such as Great Carbon Valley (geothermal-powered DAC in Kenya) and Safi Organics (biochar-based fertilizer), alongside non-CDR climate plays in eMobility, solar appliances, and biodigesters.
 
-![Africa Climate Ventures website](/screenshots/africa-climate-ventures/2026-04-19.png)
+![Africa Climate Ventures website](/screenshots/africa-climate-ventures.png)
 
 
 ## History

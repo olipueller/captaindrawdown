@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Captur Tower is an early-stage Spanish DAC startup founded in 2023 and headquartered in Madrid. It is developing direct air capture units designed to integrate with existing industrial cooling towers, using their airflow and waste heat to lower the cost and speed up deployment of atmospheric CO2 removal. The company has around 5 employees and has received backing from Remove (Netherlands).
 
-![Captur Tower website](/screenshots/captur-tower/2026-04-19.png)
+![Captur Tower website](/screenshots/captur-tower.png)
 
 
 ## History

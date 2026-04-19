@@ -24,7 +24,7 @@ liveliness: "🟠 Suspect"
 
 Syntopa was founded in 2023 by Hans Holtan to develop microbial products that address challenges at the intersection of crops and climate, starting with microbes for enhanced rock weathering, and raised a $575,000 pre-seed round from Ponderosa Ventures. Their proprietary Toposight Platform uses a data-driven approach to match microbial strains with specific environmental conditions, aiming to produce measurable increases in rock weathering rates and carbon removal efficiency across various soil conditions. Founded in 2023, Syntopa has grown rapidly with a team of four additional researchers plus advisors, operating out of a lab in Alameda, California.
 
-![Syntopa website](/screenshots/syntopa/2026-04-19.png)
+![Syntopa website](/screenshots/syntopa.png)
 
 
 ## History

@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 A Healthier Earth (AHE) is the UK climate-tech R&D subsidiary of Pure Data Centres Group, operating the £24M PureBiochar facility in Royal Wootton Bassett, Wiltshire — billed as the UK's largest biochar plant. The site began phase 1 commissioning and production in November 2025, and at full capacity is designed to produce ~11,500 tonnes of biochar annually, removing up to 18,500 tonnes of CO2, with credits sold to corporate buyers including hyperscalers. AHE also runs a ForestFactory® climate-resilient forestry program and biochar pilots in West Papua.
 
-![A Healthier Earth website](/screenshots/a-healthier-earth/2026-04-19.png)
+![A Healthier Earth website](/screenshots/a-healthier-earth.png)
 
 ## Registry Memberships
 

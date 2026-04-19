@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Nellie Technologies is a UK-based CDR supplier operating a pilot site at Mwyndy Cross, South Wales, that grows microalgae in proprietary photobioreactors to capture CO2 from ambient air and point sources, then pyrolyses the biomass into biochar and biogenic aggregates. The company sells Puro.earth CORCs, won the Institute of Physics 2025 Business Start-Up Award, and reports scaling to roughly 200 tCO2/year with a target of 10,000 tonnes by end of FY2025-26.
 
-![Nellie website](/screenshots/v1-thumbnails/nellie.jpg)
+![Nellie website](/screenshots/nellie.png)
 
 
 ## History

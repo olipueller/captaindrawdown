@@ -23,7 +23,7 @@ liveliness: "🟡 Moderate"
 
 Super6 Carbon is a U.S.-based engineered CDR project developer that aggregates concentrated biogenic CO2 from multiple capture sites at transload hubs across North America and delivers it for permanent geological storage. In October 2025 it signed a non-binding MOU with ADM to produce CDR credits at ADM's Class VI CCS facility in Decatur, Illinois, with ADM taking a minority stake once definitive agreements are finalized. In early 2026 it partnered with Mangrove Systems for dMRV across its Midwest CDR network, with first carbon expected in 2027.
 
-![Super6 Carbon website](/screenshots/super6-carbon/2026-04-19.png)
+![Super6 Carbon website](/screenshots/super6-carbon.png)
 
 
 ## History

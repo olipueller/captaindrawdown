@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Blue Flint Ethanol is a wholly owned subsidiary of Harvestone Low Carbon Partners (HLCP) located near Underwood, North Dakota, that captures biogenic CO2 from corn ethanol fermentation and injects it into a Class VI well for permanent geologic storage. It was the first U.S. facility to begin CCS operations following the August 2022 Inflation Reduction Act, with over 125,000 metric tons sequestered as of September 2024 and a targeted capacity of ~200,000 tonnes/year.
 
-![Blue Flint Ethanol website](/screenshots/blue-flint-ethanol/2026-04-19.png)
+![Blue Flint Ethanol website](/screenshots/blue-flint-ethanol.png)
 
 
 ## History

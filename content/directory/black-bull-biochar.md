@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Black Bull Biochar is a UK-based biochar producer that operates PYREG and BioMaCon pyrolysis units to convert forestry co-products (sawdust, woodchip) into biochar for UK agriculture, particularly dairy manure management. The company raised £4 million in late seed funding in December 2025 co-led by TSP Ventures and the GMCA Investment Fund to scale operations in North West England and expand into Denmark, building on £3.2 million previously awarded through the UK Net Zero Innovation Portfolio DAC/GGR competition.
 
-![Black Bull Biochar website](/screenshots/black-bull-biochar/2026-04-19.png)
+![Black Bull Biochar website](/screenshots/black-bull-biochar.png)
 
 ## Registry Memberships
 

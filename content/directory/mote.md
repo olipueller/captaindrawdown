@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Mote is a Los Angeles-based BECCS startup, spun out of Lawrence Livermore National Laboratory, that converts wood waste into carbon-negative hydrogen with geological CO2 sequestration. Its flagship Bakersfield facility has completed a FEL-2 study and received a formal DOE Loan Programs Office Part II invitation under the Title 17 Clean Energy Financing program. In March 2025 Mote raised $7 million in the first close of its Series A.
 
-![Mote website](/screenshots/v1-thumbnails/mote.jpg)
+![Mote website](/screenshots/mote.png)
 
 ## Registry Memberships
 

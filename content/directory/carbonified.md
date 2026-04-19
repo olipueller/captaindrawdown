@@ -23,7 +23,7 @@ liveliness: "🟡 Moderate"
 
 Carbonified is a small Canadian carbon project developer focused on biochar, regenerative agriculture, and afforestation/reforestation/restoration (ARR). It is listed in Carbon Removal Canada's Carbon Console supplier directory but has minimal public footprint, ~3 employees, and no registry issuances to date.
 
-![Carbonified website](/screenshots/v1-thumbnails/carbonified.jpg)
+![Carbonified website](/screenshots/carbonified.png)
 
 
 ## History

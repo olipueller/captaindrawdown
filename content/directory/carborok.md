@@ -21,7 +21,7 @@ liveliness: "🟢 Active"
 
 Carborok is a Nantes-based French startup and spin-off of engineering firm Voltigital, focused on CO2 mineralization in recycled concrete and alkaline industrial wastes. The company designs, builds, and operates mineralization reactors, including a pilot at Chauvé (Ocaapi project) in Loire-Atlantique. It partners with biogenic CO2 producers and construction companies like Bouygues to sequester CO2 in carbonated concrete aggregates.
 
-![Carborok website](/screenshots/carborok/2026-04-19.png)
+![Carborok website](/screenshots/carborok.png)
 
 ## Registry Memberships
 

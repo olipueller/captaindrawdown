@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Standard Gas Technologies is a UK-based company whose patented SG100 Advanced Thermal Cracking (pyrolysis/gasification) technology converts non-recyclable and hazardous wastes into clean syngas and carbon-removing biochar. Its Carbon Char Store subsidiary markets and sells the resulting carbon removals, sequestered in soil enhancers and construction aggregates. The first commercial SG100 plant is in pre-commercialisation commissioning at Scottow Enterprise Park, Norfolk.
 
-![Standard Gas/Carbon Char Store website](/screenshots/v1-thumbnails/standard-gas-carbon-char-store.jpg)
+![Standard Gas/Carbon Char Store website](/screenshots/standard-gascarbon-char-store.png)
 
 
 ## History

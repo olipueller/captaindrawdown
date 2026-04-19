@@ -21,7 +21,7 @@ liveliness: "🟡 Moderate"
 
 Nattergal is a UK private nature recovery company founded in 2021 that acquires and rewilds degraded agricultural land at scale, operating Boothby Wildland (Lincolnshire), High Fen Wildland (Norfolk), and Harold's Park (Essex). It generates revenue through carbon removal credits (certified by Wilder Carbon), Biodiversity Net Gain units, water credits, UK Landscape Recovery Scheme funding, and ecotourism. Notable deals include Arup's £1M investment securing 10,000 tCO2e over 30 years and a Treeconomy/Naturalis carbon credit purchase from Boothby Wildland.
 
-![Nattergal website](/screenshots/nattergal/2026-04-19.png)
+![Nattergal website](/screenshots/nattergal.png)
 
 
 ## History

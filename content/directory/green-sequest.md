@@ -23,7 +23,7 @@ liveliness: "🟡 Moderate"
 
 Green Sequest is a Polish CDR startup founded in 2022, based in Nasławice, developing Enhanced Rock Weathering technology using antigorite serpentinite to mineralize atmospheric CO2. The company also commercializes a serpentinite-based mineral fertilizer authorized by Poland's Ministry of Agriculture for use in agriculture and certified for organic farming by IUNG. It has completed the 'remove' and Carbon Removal ClimAccelerator programs and joined the CEEZER Carbon Coalition.
 
-![Green Sequest website](/screenshots/green-sequest/2026-04-19.png)
+![Green Sequest website](/screenshots/green-sequest.png)
 
 
 ## History

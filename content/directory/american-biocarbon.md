@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 American BioCarbon produces biochar, renewable energy, and carbon removal credits at its facility in White Castle, Louisiana, and is constructing one of the largest industrial biochar plants in the U.S., set to go live in 2026. It currently operates a pilot pyrolysis plant able to produce 3,000 tonnes a year of biochar, with plans to expand to 107,000 t/year. Its carbon removal credits (CORCs) are sold via an agreement with Puro.earth.
 
-![American BioCarbon website](/screenshots/american-biocarbon/2026-04-19.png)
+![American BioCarbon website](/screenshots/american-biocarbon.png)
 
 ## Registry Memberships
 

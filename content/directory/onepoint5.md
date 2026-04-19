@@ -20,7 +20,7 @@ liveliness: "🟠 Suspect"
 
 OnePoint5 is an India-based biochar carbon removal supplier that converts agricultural crop residues (stubble) into biochar for soil amendment and infrastructure applications, aiming to displace open-field stubble burning in South Asia. The company operates a batch-tracing platform called StubbleX and is listed as a supplier on the Isometric registry. It claims around 70% of carbon finance revenues go to local smallholder farmers.
 
-![OnePoint5 website](/screenshots/v1-thumbnails/onepoint5.jpg)
+![OnePoint5 website](/screenshots/onepoint5.png)
 
 
 ## History

@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 Cula Technologies is a digital MRV (Monitoring, Reporting and Verification) software provider for carbon removal projects, founded in 2023 by Hasso-Plattner-Institut and HHL Leipzig alumni. The platform integrates machine, IoT, and sensor data from CDR producers—primarily biochar, with BECCS and DAC support—and automates credit issuance into registries such as Puro.earth and Carbon Standards International. Cula itself does not remove CO2 but provides the digital infrastructure that enables verification of removals.
 
-![Cula website](/screenshots/cula/2026-04-19.png)
+![Cula website](/screenshots/cula.png)
 
 ## Registry Memberships
 

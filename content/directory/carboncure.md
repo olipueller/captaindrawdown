@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 CarbonCure Technologies is a Halifax, Canada-based cleantech company that licenses carbon mineralization systems to concrete producers worldwide, injecting captured CO2 into ready-mix, precast, and reclaimed wash water where it mineralizes permanently. The company partners with DAC firms like Heirloom to permanently store atmospheric CO2 in concrete and sells verified carbon removal credits through a shared-revenue model.
 
-![CarbonCure website](/screenshots/v1-thumbnails/carboncure.jpg)
+![CarbonCure website](/screenshots/carboncure.png)
 
 ## Registry Memberships
 

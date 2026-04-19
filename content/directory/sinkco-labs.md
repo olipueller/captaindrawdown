@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 Sinkco Labs is a US-based marine CDR startup developing a micro-injection system that embeds waste biomass into anoxic marine sub-sediments for permanent carbon storage. Founded in 2019 and based in New York, the company was selected for the Breakthrough Energy Fellows Program and is piloting in Louisiana wetlands and the Gulf of Mexico. Its science team co-authored the Rainbow Standard's marine sub-sediment burial methodology.
 
-![Sinkco Labs website](/screenshots/v1-thumbnails/sinkco-labs.jpg)
+![Sinkco Labs website](/screenshots/sinkco-labs.png)
 
 ## Registry Memberships
 

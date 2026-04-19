@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Mati Carbon is a Houston-based (with operations in India, Tanzania, and Zambia) enhanced rock weathering supplier that spreads pulverized basalt on smallholder farms to permanently sequester atmospheric CO2 as bicarbonate while improving soil health and crop yields. The company won the $50M XPRIZE Carbon Removal grand prize in April 2025 and subsequently secured a blended-finance debt facility from J.P. Morgan backed by the Schmidt Family Foundation. Early credit buyers include Stripe, Shopify, H&M, Siemens, Figma, and Frontier.
 
-![Mati website](/screenshots/v1-thumbnails/mati.jpg)
+![Mati website](/screenshots/mati.png)
 
 
 ## History

@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 Taking Root is a Canadian reforestation project developer that partners with smallholder farmers, primarily through its CommuniTree Carbon Program in Nicaragua (co-founded with local implementer APRODEIN/BOSNICA), certified under Plan Vivo. It provides a technology platform (mobile app + web platform combining ground data, satellite imagery and machine learning) to design, manage, monitor and verify forest carbon removals, and sells the resulting credits to corporate buyers.
 
-![Taking Root website](/screenshots/taking-root/2026-04-19.png)
+![Taking Root website](/screenshots/taking-root.png)
 
 ## Registry Memberships
 

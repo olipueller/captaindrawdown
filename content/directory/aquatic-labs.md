@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Aquatic Labs is a Cambridge, Massachusetts-based ocean sensing startup founded in 2022 by MIT physicist Allan Adams. The company builds solid-state sensors that measure pH, total alkalinity, conductivity and temperature for ocean carbon-system monitoring, along with eDNA sampling tools, targeting MRV for ocean CDR, coastal monitoring, and industrial water applications. They are an MRV/enabling-tech provider rather than a direct CO2 remover.
 
-![Aquatic Labs website](/screenshots/aquatic-labs/2026-04-19.png)
+![Aquatic Labs website](/screenshots/aquatic-labs.png)
 
 
 ## History

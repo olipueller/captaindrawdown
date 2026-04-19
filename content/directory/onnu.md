@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Onnu is a project developer and technology provider headquartered in the UK that develops its own pyrolysis plants and consults on plants for clients across Europe and SE Asia. Its Onnu Biochar arm sells EBC-certified biochar and soil products to retail customers in Europe, while Onnu Bioflow is the renewable commodities trading arm for larger-scale customers worldwide. Onnu is registered with the Puro.Earth carbon registry and biochar from its Wye Valley hubs qualifies for CORCs.
 
-![Onnu website](/screenshots/v1-thumbnails/onnu.jpg)
+![Onnu website](/screenshots/onnu.png)
 
 
 ## History

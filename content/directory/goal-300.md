@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 Goal 300 is a small US-based enhanced rock weathering project developer operating in the Pacific Northwest (Oregon/Washington), partnering with landowners to spread finely crushed basalt on agricultural fields to sequester CO₂ and improve soil health. The company, founded by Zachary Price, operates on a model where they apply ERW for free and share resulting carbon credits with partner farmers. It is a very small operation (~1 employee) and the founder appears to split time between Goal 300 and other ventures.
 
-![Goal 300 website](/screenshots/goal-300/2026-04-19.png)
+![Goal 300 website](/screenshots/goal-300.png)
 
 
 ## History

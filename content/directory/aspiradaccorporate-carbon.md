@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 AspiraDAC is a wholly-owned subsidiary of Corporate Carbon Group developing Australia's first solar-powered Direct Air Capture project in partnership with Southern Green Gas. It was selected in Frontier's first 2022 purchase round (Stripe offtake at ~$1,000/tonne for 500 tonnes by 2027) and in 2025 signed an MoU with Great Carbon Valley in Kenya to scale to 5,000 tCO2/year, and appointed a new CTO.
 
-![AspiraDAC/Corporate Carbon website](/screenshots/aspiradaccorporate-carbon/2026-04-19.png)
+![AspiraDAC/Corporate Carbon website](/screenshots/aspiradaccorporate-carbon.png)
 
 
 ## History

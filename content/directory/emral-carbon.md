@@ -20,7 +20,7 @@ liveliness: "🟡 Moderate"
 
 Emral Carbon is a UK-based carbon market brokerage, project finance, and advisory firm led by Simon Puleston Jones. It sources spot/forward buyers and project finance for carbon project developers across a wide range of markets including CORSIA, ITMOs, the EU Carbon Removals and Carbon Farming Regulation (CRCF), and the Paris Agreement Crediting Mechanism (PACM). CDR is one segment of a broader multi-market carbon brokerage business.
 
-![Emral Carbon website](/screenshots/emral-carbon/2026-04-19.png)
+![Emral Carbon website](/screenshots/emral-carbon.png)
 
 
 ## History

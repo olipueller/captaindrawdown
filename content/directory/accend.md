@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Accend advises companies with carbon-negative products on the CORC markets and offers a full-service process including pre-qualification, registration, life cycle analysis, account management, certificate marketing, sales and settlement. They work with leading standards, including as a Puro.earth-accredited partner and C-sink trader, to bring projects to certification and market. They do not operate pyrolysis plants themselves but support biochar and timber producers across Europe and North America.
 
-![Accend website](/screenshots/accend/2026-04-19.png)
+![Accend website](/screenshots/accend.png)
 
 
 ## History

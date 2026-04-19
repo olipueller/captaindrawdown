@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 C2X Ltd (majority-owned by A.P. Moller Holding with ENEOS as minority shareholder) is the majority owner of SunGas Renewables, which is developing the Beaver Lake Renewable Energy biomethanol plant in Pineville, Louisiana on a former paper mill site. The project will produce ~550,000 tonnes/year of bio-methanol from forestry residues using SunGas S1000 gasifiers while capturing and permanently storing ~1 million tonnes of biogenic CO2 annually. In December 2025 it signed a long-term offtake for 3.6 million CRUs to Microsoft over 12 years; FEED is ongoing, FID targeted 2026, operations in 2029.
 
-![C2X/SunGas Renewables website](/screenshots/c2xsungas-renewables/2026-04-19.png)
+![C2X/SunGas Renewables website](/screenshots/c2xsungas-renewables.png)
 
 
 ## History

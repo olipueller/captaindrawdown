@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 EAD (Eigenbetrieb für kommunale Aufgaben und Dienstleistungen) is a 100%-city-owned municipal utility of Darmstadt, Germany, handling waste management and related services for residents and businesses. Via a carbonization plant, EAD processes urban green-cuttings into biochar and returns it to public spaces, closing waste loops. The biochar produced at its Sensfelderweg site is certified under the European Biochar Certificate (EBC-AgroBio) with certificate CC-0375. Biochar is a small CDR-relevant activity of an otherwise non-CDR municipal services operator.
 
-![EAD website](/screenshots/v1-thumbnails/ead.jpg)
+![EAD website](/screenshots/ead.png)
 
 
 ## History

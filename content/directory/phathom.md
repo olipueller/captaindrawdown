@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 pHathom Technologies is a Halifax, Nova Scotia cleantech startup founded in 2024 developing a hybrid BECCS + ocean storage pathway it calls Bioenergy Carbon Capture and Ocean Storage (BECCOS). Its technology bolts onto coastal biomass power plants, using limestone and seawater to convert captured CO2 into stable bicarbonate released into the ocean. The company closed a C$4M seed round in Feb 2026 (led by Propeller Ventures, with Carmeuse Ventures, NBIF, and Invest Nova Scotia), surpassed $12M in total committed capital, and is a Frontier APA supplier with pilots planned at Huntsman Marine Science Centre (2026) and a commercial demo in 2027.
 
-![pHathom website](/screenshots/phathom/2026-04-19.png)
+![pHathom website](/screenshots/phathom.png)
 
 
 ## History

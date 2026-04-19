@@ -21,7 +21,7 @@ liveliness: "🟢 Active"
 
 Carbonaught is a Brisbane, Australia-based agtech startup founded in 2021 that applies enhanced rock weathering (crushed basalt from mining/quarry waste) to farmland to remove CO2 while improving soil health and reducing fertilizer needs. The company runs field trials across Queensland, New South Wales, Western Australia and California on sugarcane, bananas, avocados and other crops, and serves as commercial lead on an Australian-government-funded multi-partner ERW research project with James Cook University and Adelaide University.
 
-![Carbonaught website](/screenshots/v1-thumbnails/carbonaught.jpg)
+![Carbonaught website](/screenshots/carbonaught.png)
 
 
 ## History

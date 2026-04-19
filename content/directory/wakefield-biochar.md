@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Wakefield BioChar (Wakefield Agricultural Carbon LLC) is a US family-owned biochar producer founded in 2014, headquartered in Valdosta, Georgia. It operates four pyrolysis facilities across Georgia (Brunswick, Fitzgerald, Valdosta, and the Wakefield Innovation Center) that convert woody residues from paper/pulp/saw mills into biochar sold for agriculture, retail gardening, and industrial use, with CO2 removal credits registered on Puro.earth.
 
-![Wakefield BioChar website](/screenshots/v1-thumbnails/wakefield-biochar.jpg)
+![Wakefield BioChar website](/screenshots/wakefield-biochar.png)
 
 ## Registry Memberships
 

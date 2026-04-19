@@ -23,7 +23,7 @@ liveliness: "🟡 Moderate"
 
 EcoSecurities is a Geneva/Carouge-based carbon project developer and climate advisory firm founded in 1997 and reactivated in 2019 under new ownership by Pedro Moura Costa and Pablo Fernandez. It sources, develops, and finances climate mitigation projects globally — spanning renewable energy, nature-based solutions, blue carbon, and advisory support for CDR technologies including BECCS, biochar, and enhanced weathering — and trades the resulting credits. It is not itself a physical CO2 removal supplier but a carbon-markets ecosystem actor.
 
-![ecosecurities website](/screenshots/ecosecurities/2026-04-19.png)
+![ecosecurities website](/screenshots/ecosecurities.png)
 
 
 ## History

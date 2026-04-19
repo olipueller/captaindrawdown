@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 alterBiota is a Sydney/Edwardsville, Nova Scotia-based cleantech company that makes deltaC, a biochar-derived liquid admixture that reduces Portland cement use and stores biogenic carbon in concrete, claiming up to 30% embodied-carbon reduction. In December 2025 the company announced that deltaC had moved from R&D into commercial production, following summer 2025 trials delivering over 100 m³ of low-carbon concrete with partners including Casey Concrete and CarbonRun. It also develops digitalAggregate, a computer-vision tool for concrete mix QC, integrated with Giatec's SmartMix platform in October 2025.
 
-![alterBiota website](/screenshots/alterbiota/2026-04-19.png)
+![alterBiota website](/screenshots/alterbiota.png)
 
 
 ## History

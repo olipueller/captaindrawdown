@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Arbon is a Brooklyn, NY-based direct air capture startup spun out of Columbia University, developing humidity-swing sorbent technology that releases captured CO2 using water instead of heat. The company holds a Frontier Climate 2023 offtake contract, was selected into the Activate Fellows and Carbon-to-Value 2025 cohort, and unveiled a 5-ton/year pilot on Governors Island during NY Climate Week 2025.
 
-![Arbon website](/screenshots/arbon/2026-04-19.png)
+![Arbon website](/screenshots/arbon.png)
 
 ## Registry Memberships
 
@@ -31,6 +31,14 @@ Arbon is a Brooklyn, NY-based direct air capture startup spun out of Columbia Un
 
 ## History
 
+- **2026-04-19** — merged 1 duplicate(s): Arbon Earth
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://arbon.earth/about))
+- **2026-04-19** — refresh: coresignal, screenshot, liveliness
+- **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://onsets.org/product/arbon-earth/))
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟡 Moderate ([source](https://arbon.earth/about))
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟡 Moderate ([source](https://arbon.earth/about))
+- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+- **** — merged duplicate: Arbon Earth (slug=arbon-earth)
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.arboncorp.com/))
 - **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.arboncorp.com/))

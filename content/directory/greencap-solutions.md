@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 GreenCap Solutions AS is a Norwegian environmental technology provider of large-scale carbon dioxide removal solutions, applying Direct Air Capture (DAC) technology to fully closed greenhouse systems and industrial applications using patented zeolite-based adsorption. The company was founded in 2016 and is headquartered in Sandnes, Norway. It is the technology partner to Removr, a JV 60% owned by Vanir Green Industries and 40% owned by GreenCap Solutions, established to scale and industrialize DAC.
 
-![GreenCap Solutions website](/screenshots/greencap-solutions/2026-04-19.png)
+![GreenCap Solutions website](/screenshots/greencap-solutions.png)
 
 ## Registry Memberships
 

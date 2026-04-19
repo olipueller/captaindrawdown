@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Klim is a Berlin-based agritech company founded in 2020 that scales regenerative agriculture by partnering with 3,500+ farmers covering roughly 700,000 hectares across Germany and internationally. The company acts as a project developer and MRV provider, generating TÜV-validated (DIN ISO 14064-2) soil carbon reduction and removal credits and Scope 3 insetting projects for corporate buyers such as Nestlé and Kaufland.
 
-![Klim website](/screenshots/klim/2026-04-19.png)
+![Klim website](/screenshots/klim.png)
 
 ## Registry Memberships
 

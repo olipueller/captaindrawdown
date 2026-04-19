@@ -20,7 +20,7 @@ liveliness: "🟡 Moderate"
 
 Releaf Earth is a Nigerian climate-agritech company operating the country's first industrial-scale biochar carbon removal facility, converting palm kernel shells into biochar through pyrolysis. In February 2026 it issued Nigeria's first verified industrial-scale carbon removal credits (initial tranche of 190 tCO2e) through the Rainbow Standard, with purchases including Salesforce via Milkywire. The company targets 40 kt CO2e removal by 2030 and is backed by Y Combinator, Breakthrough Energy Ventures, AirMiners, and Angaza Capital.
 
-![Releaf Earth website](/screenshots/v1-thumbnails/releaf-earth.jpg)
+![Releaf Earth website](/screenshots/releaf-earth.png)
 
 
 ## History

@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 CarbonPlan is a U.S. nonprofit (California public benefit corporation) that produces open data, analyses, and tools evaluating the scientific integrity of carbon removal and carbon offset programs. It does not remove CO2 itself but is a core part of the CDR ecosystem through its transparency research, MRV commentary, and offsets database work.
 
-![CarbonPlan website](/screenshots/carbonplan/2026-04-19.png)
+![CarbonPlan website](/screenshots/carbonplan.png)
 
 
 ## History

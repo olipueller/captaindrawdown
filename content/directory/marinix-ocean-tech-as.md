@@ -23,7 +23,7 @@ liveliness: "🟡 Moderate"
 
 MARINIX Ocean Tech AS is a Norwegian early-stage ocean CDR startup developing technology to stimulate marine snow formation for long-term carbon sequestration in deep-sea sediments. The company is pre-revenue, in R&D phase, and published a 2025 technical white paper outlining an €11M fundraising campaign with a targeted 2029 commercial launch. Operations are constrained by current London Protocol restrictions on commercial ocean CDR.
 
-![MARINIX Ocean Tech AS website](/screenshots/marinix-ocean-tech-as/2026-04-19.png)
+![MARINIX Ocean Tech AS website](/screenshots/marinix-ocean-tech-as.png)
 
 
 ## History

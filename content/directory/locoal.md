@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 LOCOAL is a Texas-based waste-to-energy company operating a biochar pilot plant in Vancouver, WA. Its Rainmaker induction-pyrolysis system converts wood waste into biochar, syngas, and bio-oils, with an IMPCT.AI software platform handling MRV for carbon credits. The company has raised approximately $8.68M from investors including Capital Factory and AFWERX.
 
-![LOCOAL website](/screenshots/locoal/2026-04-19.png)
+![LOCOAL website](/screenshots/locoal.png)
 
 
 ## History

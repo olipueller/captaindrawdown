@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Carbon Instead, founded in Berlin in 2020 by Julia Roth and Joanna Fatorelli, operates as a manufacturer of decarbonized construction materials, aiming to reduce the carbon footprint of these materials by transforming them into long-term carbon stores. Their primary product is a biochar-based additive for concrete and mortar, produced through pyrolysis of biogenic waste, which partially or fully replaces carbon-intensive components like cement and sand. The company is small (~3 employees) and operates across biomass sourcing, carbonization technology and end-use formulation.
 
-![Carbon Instead website](/screenshots/v1-thumbnails/carbon-instead.jpg)
+![Carbon Instead website](/screenshots/carbon-instead.png)
 
 
 ## History

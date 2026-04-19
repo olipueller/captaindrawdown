@@ -23,7 +23,7 @@ liveliness: "🟠 Suspect"
 
 Ephemeral Carbon is a Santa Clara, California-based marine CDR startup founded in 2023 by Josh Perfetto. It is developing Ocean Alkalinity Enhancement (OAE) by deploying ground alkaline silicate rock in coastal waters to lock away CO2 as stable carbonates. The company remains unfunded and pre-revenue with minimal public activity beyond its website and past job listings.
 
-![Ephemeral website](/screenshots/v1-thumbnails/ephemeral.jpg)
+![Ephemeral website](/screenshots/ephemeral.png)
 
 
 ## History

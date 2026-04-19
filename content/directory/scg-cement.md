@@ -23,7 +23,7 @@ liveliness: "🟡 Moderate"
 
 SCG Cement is the cement business unit of Siam Cement Group (SCG), Thailand's largest cement producer. Through its internal startup 'Arbon,' it produces biochar-infused concrete that sequesters carbon from agricultural residues, and it is listed as a Puro.earth CORC supplier. It has also partnered with TOWING (Japan) in late 2025 on microbial-based carbon removal technologies for cement.
 
-![SCG Cement website](/screenshots/scg-cement/2026-04-19.png)
+![SCG Cement website](/screenshots/scg-cement.png)
 
 
 ## History

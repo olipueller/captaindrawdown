@@ -21,7 +21,7 @@ liveliness: "🟢 Active"
 
 EGoS Bio GmbH (trading as Pflanzenkohle24) is a German biochar producer founded in 2002 and based in Bottrop-Kirchhellen, operating a BImSchG-permitted pyrolysis plant that produces biochar, feed charcoal, and Terra Preta for agriculture and livestock. The plant also generates CO2-negative electricity and heat from synthesis gases, reportedly absorbing around 10,000 tonnes of CO2 per year as fixed carbon. Founder Theo Houy retired in July 2025 and was succeeded by managing director Thomas Krause.
 
-![EGoS website](/screenshots/v1-thumbnails/egos.jpg)
+![EGoS website](/screenshots/egos.png)
 
 
 ## History

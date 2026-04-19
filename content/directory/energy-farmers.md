@@ -23,7 +23,7 @@ liveliness: "🟡 Moderate"
 
 Energy Farmers Australia was established in 2010 by a farmer and engineer to help farmers utilise organic waste streams to create energy and by-products, and has been developing pyrolysis technology and trialing biochar use in horticulture, agriculture and industry. FarmChar is a brand of Energy Farmers Australia Pty Ltd, owned and managed by Tom Vogan and Euan Beamont, selling locally produced biochars in Western Australia for livestock feed supplement, soil improvement for broadacre cropping and horticulture. The company focuses on waste-management challenges in Australian agriculture, using a fully automated pyrolysis system to transform organic and inorganic wastes into biochar.
 
-![Energy Farmers website](/screenshots/v1-thumbnails/energy-farmers.jpg)
+![Energy Farmers website](/screenshots/energy-farmers.png)
 
 
 ## History

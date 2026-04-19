@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Groupe Bordet is a French industrial group based in Leuglay (Burgundy) that has transformed wood into charcoal since 1860 using its patented Carboépuré® continuous pyrolysis process, and is expanding into biochar and bio-oils. Its biochar production is Puro.earth-certified (via partner Carbonapp), and the group is investing over €30M — with €14.1M backing from Bpifrance — in a new plant in Decize (Nièvre) expected online in H1 2027, targeting 15,000 t/yr of biochar and 5,000–6,000 t/yr of bio-oils, plus partnerships such as with Holcim (biochar in low-carbon concrete) and SUEZ/CNRS (activated carbon for water treatment).
 
-![Groupe Bordet website](/screenshots/groupe-bordet/2026-04-19.png)
+![Groupe Bordet website](/screenshots/groupe-bordet.png)
 
 ## Registry Memberships
 

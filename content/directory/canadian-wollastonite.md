@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 Canadian Wollastonite is an Ontario-based mining company near Seeley's Bay that produces fast-weathering wollastonite (calcium silicate) used for enhanced rock weathering carbon removal. Through an exclusive partnership with UK-based UNDO, the company supplies and spreads crushed wollastonite on Canadian farmland to permanently remove atmospheric CO2 while improving soil health and crop yields. The mine has access to roughly 17 million tonnes of wollastonite and has been a key feedstock source for ERW credit deals including Microsoft's 25,000-tonne purchase in 2024.
 
-![Canadian Wollastonite website](/screenshots/canadian-wollastonite/2026-04-19.png)
+![Canadian Wollastonite website](/screenshots/canadian-wollastonite.png)
 
 
 ## History

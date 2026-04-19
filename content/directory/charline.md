@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 CharLine GmbH is an Austrian producer of biochar-based products based in Riedlingsdorf, Burgenland, and a subsidiary of Sonnenerde GmbH. The company develops feed charcoal, manure charcoal, and plant biochar for livestock and agriculture, with products certified to the European Biochar Certificate (EBC) standard. Founded in January 2016 by biochar pioneer Gerald Dunst, CharLine also participates in EU LIFE research projects on high-value biochar products.
 
-![CharLine website](/screenshots/charline/2026-04-19.png)
+![CharLine website](/screenshots/charline.png)
 
 
 ## History

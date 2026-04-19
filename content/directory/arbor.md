@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Arbor is a US-based BECCS startup founded in 2022 by SpaceX veterans that converts waste biomass into clean electricity while capturing >99% of CO2 via an oxy-combustion supercritical CO2 turbine system. In July 2025 Frontier signed a $41M offtake for 116,000 tons of CDR delivered 2028-2030, funding Arbor's first commercial facility near Lake Charles, Louisiana. The company also has an offtake deal with Google and uses Isometric as its credit issuer.
 
-![Arbor website](/screenshots/arbor/2026-04-19.png)
+![Arbor website](/screenshots/arbor.png)
 
 
 ## History

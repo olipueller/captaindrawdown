@@ -20,7 +20,7 @@ liveliness: "🟡 Moderate"
 
 Nordgau Carbon is a farm-based biochar producer in Wernberg-Köblitz, Bavaria, Germany, operating since April 2020. They pyrolyze PEFC-certified wood chips from local forestry (~15 km average transport distance) into EBC-certified biochar sold as soil amendment and animal feed additive, with CORCs issued on Puro.earth.
 
-![Nordgau Carbon website](/screenshots/v1-thumbnails/nordgau-carbon.jpg)
+![Nordgau Carbon website](/screenshots/nordgau-carbon.png)
 
 ## Registry Memberships
 

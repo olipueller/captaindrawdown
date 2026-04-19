@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 GE Vernova Inc. (NYSE: GEV) is a global energy technology company headquartered in Cambridge, Massachusetts, spun off from General Electric in 2024, with operations spanning Power, Wind, and Electrification. Its Direct Air Capture program, run out of the Advanced Research Centers in Niskayuna, NY and Bengaluru, India, is developing a proprietary solid sorbent DAC system, and in September 2025 announced a deployment agreement with Deep Sky to install a 1,500 tonne/year DAC unit at the Deep Sky Alpha hub in Innisfail, Alberta, beginning operations in late 2026.
 
-![GE Vernova website](/screenshots/ge-vernova/2026-04-19.png)
+![GE Vernova website](/screenshots/ge-vernova.png)
 
 ## Registry Memberships
 

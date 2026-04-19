@@ -21,7 +21,7 @@ liveliness: "🟡 Moderate"
 
 Cambridge Carbon Capture Ltd was a UK startup developing CO2LOC, a two-stage mineralisation process that reacted magnesium hydroxide with CO2 (from industrial flue gas or direct air capture) to form magnesium carbonate and saleable co-products. The company entered creditors' voluntary liquidation on 3 June 2025 and its co2loc.com domain is now listed for sale.
 
-![Cambridge Carbon Capture website](/screenshots/cambridge-carbon-capture/2026-04-19.png)
+![Cambridge Carbon Capture website](/screenshots/cambridge-carbon-capture.png)
 
 
 ## History

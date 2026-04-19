@@ -23,7 +23,7 @@ liveliness: "🟡 Moderate"
 
 Svante is a Vancouver, BC-based carbon capture and removal technology company that manufactures nanoengineered solid-sorbent filters and modular rotating contactor machines for capturing CO2 from industrial flue gas and air. In March 2026 Svante acquired Calgary-based Carbon Alpha Corp., bringing the North Star BECCS project in Meadow Lake, Saskatchewan (a joint venture with Meadow Lake Tribal Council) into its portfolio; in April 2026 the partnership signed a 15-year, 626,000-tonne CDR offtake with Microsoft, with commercial operations targeted for early 2029.
 
-![Svante/Carbon Alpha website](/screenshots/svantecarbon-alpha/2026-04-19.png)
+![Svante/Carbon Alpha website](/screenshots/svantecarbon-alpha.png)
 
 ## Registry Memberships
 

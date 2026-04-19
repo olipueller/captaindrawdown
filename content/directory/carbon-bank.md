@@ -21,7 +21,7 @@ liveliness: "🟡 Moderate"
 
 Carbon Bank is a UK-based CDR project developer and a division of the Green Britain Group (sister company to Ecotricity), headquartered in Stroud, Gloucestershire. They operate an enhanced rock weathering project in Northumberland using basalt from Breedon quarries spread on local farmland, verified under the Isometric Standard, and are developing afforestation/nature recovery projects aligned with the Woodland Carbon Code and BSI Flex 701.
 
-![Carbon Bank website](/screenshots/v1-thumbnails/carbon-bank.jpg)
+![Carbon Bank website](/screenshots/carbon-bank.png)
 
 
 ## History

@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 Applied Carbon (formerly Climate Robotics) is a Houston-based biochar company that deploys mobile, in-field pyrolysis machines to convert agricultural crop residues into biochar in a single pass, sequestering carbon while improving soil health. It raised a $21.5M Series A in mid-2024 led by TO VC with participation from Microsoft Climate Innovation Fund, Congruent Ventures, Elemental Excelerator and others, and is an XPRIZE Carbon Removal finalist.
 
-![Applied Carbon website](/screenshots/applied-carbon/2026-04-19.png)
+![Applied Carbon website](/screenshots/applied-carbon.png)
 
 ## Registry Memberships
 

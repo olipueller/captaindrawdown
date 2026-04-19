@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 greenSand is a Netherlands-based enhanced rock weathering supplier based in Enkhuizen that mines, grinds and distributes olivine as a replacement for conventional sand and stone to permanently capture atmospheric CO2. The company sells both certified olivine products and ONCRA-certified CO2 removal certificates, with validated projects including the Uithoornlijn and Arnhem Depot rail projects, and is expanding via a greenSand Japan partnership.
 
-![greenSand website](/screenshots/greensand/2026-04-19.png)
+![greenSand website](/screenshots/greensand.png)
 
 
 ## History

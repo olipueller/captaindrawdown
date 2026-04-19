@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 CarStorCon Technologies, a start-up from Marienhafe, Germany, has developed an aggregate that actively removes CO2 from the atmosphere and permanently binds it in building materials, based on technical carbon obtained from regional biogenic waste streams. The company classifies its approach as Biochar Carbon Removal (BCR) and applies the technology in the construction industry. Via its Clim@Add additive, the firm has realized several thousand m³ of climate concrete across industrial buildings, multi-family housing and ÖBB technical buildings.
 
-![CarStorCon website](/screenshots/carstorcon/2026-04-19.png)
+![CarStorCon website](/screenshots/carstorcon.png)
 
 
 ## History

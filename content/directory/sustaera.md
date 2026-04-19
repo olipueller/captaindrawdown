@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 Sustaera is a North Carolina-based Direct Air Capture startup (spun out of Susteon Inc. and founded in 2021) developing a low-cost, modular DAC system using natural-mineral sorbents and electric resistive heating. Backed by Breakthrough Energy Ventures, the Grantham Foundation, the U.S. DOE, and XPRIZE, the company announced a major efficiency breakthrough in March 2026, claiming 90%+ efficiency and a new technology licensing model targeting sub-$100/ton carbon removal.
 
-![Sustaera website](/screenshots/sustaera/2026-04-19.png)
+![Sustaera website](/screenshots/sustaera.png)
 
 
 ## History

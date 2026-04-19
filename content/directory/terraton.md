@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Terraton is a San Francisco-based, full-stack biochar carbon removal platform that partners with agribusinesses in emerging markets to build and operate biochar facilities, providing hardware, SaaS, financing and MRV. It raised $11.5M in seed funding in August 2025, co-led by Lowercarbon Capital and Gigascale Capital, with participation from ANA Future Frontier Fund, East Japan Railway's Takanawa Gateway Global Co-Benefits Fund, and angels including Jeff Dean and Bret Taylor. Its first projects are Three Mountains Cocoa in Ghana (preliminary approval from Puro.earth) and EcoFix in Kenya (under review by Isometric), expected to deliver over 20,000 tonnes of annual CO₂ removal.
 
-![Terraton website](/screenshots/v1-thumbnails/terraton.jpg)
+![Terraton website](/screenshots/terraton.png)
 
 
 ## History

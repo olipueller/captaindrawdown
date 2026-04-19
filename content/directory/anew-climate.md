@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Anew Climate is a Houston-based carbon project developer and credit marketer, majority-owned by TPG Rise Climate, formed from the 2022 merger of Element Markets and Bluesource. The company originates, develops, and markets environmental credits across nature-based CDR (Improved Forest Management, soil carbon, afforestation) and technology-based pathways (BECCS via Summit Carbon Solutions), along with low-carbon fuels (RNG/Bio-LNG) and RECs. It operates primarily as an originator/marketer rather than a direct removal-technology operator, making it a major player in the CDR ecosystem.
 
-![Anew Climate website](/screenshots/anew-climate/2026-04-19.png)
+![Anew Climate website](/screenshots/anew-climate.png)
 
 
 ## History

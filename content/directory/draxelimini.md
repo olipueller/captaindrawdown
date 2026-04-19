@@ -22,7 +22,7 @@ liveliness: "🟠 Suspect"
 
 Elimini is a wholly owned US-based subsidiary of UK energy group Drax, launched in September 2024 at Climate Week NYC to develop BECCS projects in North America and internationally, and to market carbon removals generated at Drax Power Station. Its first greenfield 300 MW BECCS project (designed to capture ~3 Mt CO2/year) is under development with Sargent & Lundy, and in July 2025 it signed a joint development agreement with Copenhagen utility HOFOR to develop a BECCS facility at the Amagerværket CHP plant. Parent Drax scaled back UK BECCS investment and staffing in late 2025 but continues to back Elimini as an Options-for-Growth business.
 
-![Drax/Elimini website](/screenshots/v1-thumbnails/drax-elimini.jpg)
+![Drax/Elimini website](/screenshots/draxelimini.png)
 
 
 ## History

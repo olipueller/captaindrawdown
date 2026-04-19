@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Kodama Systems is a Sonora, California-based forest management and robotics startup that thins fire-prone Western US forests using teleoperated and autonomous skidder technology (RS1/Kodama Autopilot) and sequesters the waste woody biomass in engineered underground "wood vaults" in the Nevada desert in partnership with the Yale Carbon Containment Lab. The company is backed by Breakthrough Energy Ventures, Congruent Ventures, and has received grants/pre-purchases from Frontier and Stripe for its biomass burial CDR pilot.
 
-![Kodama Systems website](/screenshots/kodama-systems/2026-04-19.png)
+![Kodama Systems website](/screenshots/kodama-systems.png)
 
 ## Registry Memberships
 

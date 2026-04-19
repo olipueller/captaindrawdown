@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Poás Bioenergy is a developer of carbon-negative biomass gasification systems designed to serve agriculture and the carbon market, transforming agricultural waste into biochar to regenerate soils and capture carbon while providing clean energy. Founded in 2021 and headquartered in Ann Arbor, MI, the University of Michigan spinout operates pilots in Costa Rica with agribusiness partners like Nicoverde.
 
-![Poás Bioenergy website](/screenshots/poás-bioenergy/2026-04-19.png)
+![Poás Bioenergy website](/screenshots/poás-bioenergy.png)
 
 
 ## History

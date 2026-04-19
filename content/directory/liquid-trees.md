@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 Liquid Trees is a seed-stage ocean CDR company (founded 2022 in San Francisco by Daniel Neetzel, with operations in Noida, India) backed by Unruly Capital. It evolved from freshwater diatom-led bioremediation projects across rivers in Bangladesh, Pakistan, Mexico, and India into Ocean Iron Fertilization research and advocacy in high-nutrient, low-chlorophyll ocean regions. The company also deployed an urban photobioreactor with India's DS Group in 2024.
 
-![Liquid Trees website](/screenshots/liquid-trees/2026-04-19.png)
+![Liquid Trees website](/screenshots/liquid-trees.png)
 
 ## Registry Memberships
 

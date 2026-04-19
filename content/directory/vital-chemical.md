@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Vital Chemical is a long-established (45+ years) Australian environmental products manufacturer headquartered in Darra, Queensland, whose core business is erosion control, dust suppression, water treatment, and revegetation solutions for the mining, civil construction, and infrastructure sectors. Within this portfolio they produce Vital Biochar, pyrolysed from reclaimed construction timber and forestry residues, marketed as a soil amendment, stockfeed additive, and additive to their hydromulch products (VE Char-Matt, VE Organic-Matt). They are a foundation member of the ANZ Biochar Industry Group (ANZBIG) but do not appear to sell registered CDR credits.
 
-![Vital Chemical website](/screenshots/v1-thumbnails/vital-chemical.jpg)
+![Vital Chemical website](/screenshots/vital-chemical.png)
 
 
 ## History

@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Tivano Carbon restores Namibia's savanna rangelands by converting invasive encroacher bush into permanently stored carbon, using science-based carbon vaulting with engineered underground burial in sensor-monitored vaults and rigorous MRV to produce verified carbon removal credits. The company collaborates with local farmers and experts from TU Berlin on its carbon vaults and landscape regeneration initiatives. They are presenting at Climate Week Zurich in May 2026 as a CDR Swiss member, indicating active engagement with the CDR community.
 
-![Tivano Carbon website](/screenshots/v1-thumbnails/tivano-carbon.jpg)
+![Tivano Carbon website](/screenshots/tivano-carbon.png)
 
 
 ## History

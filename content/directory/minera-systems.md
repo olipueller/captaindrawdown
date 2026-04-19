@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Minera Systems is an early-stage Canadian cleantech startup based in Squamish, British Columbia, founded in 2021. The company is developing a biomass-based, "nature-inspired" carbon-removal waste management solution, and has participated in Plug and Play and Foresight Canada cleantech accelerators. Public information remains limited — the website contains little beyond a tagline, and the team is still very small (2-10 employees).
 
-![Minera Systems website](/screenshots/v1-thumbnails/minera-systems.jpg)
+![Minera Systems website](/screenshots/minera-systems.png)
 
 
 ## History

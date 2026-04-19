@@ -20,7 +20,7 @@ liveliness: "🟡 Moderate"
 
 Biokolprodukter is a Swedish company, established in 2019, that develops and sells biochar products and partners with bioenergy facilities to co-produce biochar. Their biochar is certified under the European Biochar Certificate (EBC) Global Biochar C-sink standard, and they sell certified carbon credits alongside the physical biochar products.
 
-![Biokolprodukter website](/screenshots/biokolprodukter/2026-04-19.png)
+![Biokolprodukter website](/screenshots/biokolprodukter.png)
 
 
 ## History

@@ -21,7 +21,7 @@ liveliness: "🟠 Suspect"
 
 Yellow Duck Inc. is a Kobe, Japan startup led by Shigeo Nakayama developing the Wave-DAC, a wave-powered direct air capture and hydrogen generation system that uses the attitude change of floating bodies caused by ocean waves to capture CO2 from the atmosphere while simultaneously producing hydrogen. The company is currently conducting ocean-based basic research using a prototype approximately 2 meters in diameter, with power generation confirmed at wave heights as low as 0.3 m; commercialization is planned only after longer-term validation.
 
-![Yellow Duck website](/screenshots/v1-thumbnails/yellow-duck.jpg)
+![Yellow Duck website](/screenshots/yellow-duck.png)
 
 
 ## History

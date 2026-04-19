@@ -23,7 +23,7 @@ liveliness: "🟠 Suspect"
 
 Low Carbon Materials (LCM) is a Durham University spin-out based in Seaham, UK, that designs and manufactures carbon-negative aggregates — OSTO® for concrete and ACLA® for asphalt — built on a proprietary biochar-mineral matrix that locks biogenic carbon permanently into construction materials. The company closed a £3M growth round led by Ada Ventures (with Green Angel Ventures, Northstar Ventures, Innovate UK and Deloitte) and has deployed ACLA across 40+ infrastructure projects including the M11, A64 and A30 with National Highways, Skanska and Tarmac. LCM was a 2022 Earthshot Prize finalist.
 
-![Low Carbon Materials website](/screenshots/low-carbon-materials/2026-04-19.png)
+![Low Carbon Materials website](/screenshots/low-carbon-materials.png)
 
 
 ## History

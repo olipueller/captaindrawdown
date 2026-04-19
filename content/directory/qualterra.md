@@ -23,7 +23,7 @@ liveliness: "🟠 Suspect"
 
 Qualterra is a Washington State-based agricultural technology company that produces biochar from agricultural waste using its patented Biomass Processing Units at its Cheney, WA facility. In April 2025 its Cheney biochar project was listed on the Climate Action Reserve registry — only the third biochar project globally under CAR's U.S. Biochar Protocol — with 3Degrees as carbon partner. The company also manufactures and sells its BPU units to other operators (e.g. Vaagen Timbers) and received a USDA SBIR Phase I grant in September 2025 to scale its next-generation BPU.
 
-![Qualterra website](/screenshots/qualterra/2026-04-19.png)
+![Qualterra website](/screenshots/qualterra.png)
 
 
 ## History

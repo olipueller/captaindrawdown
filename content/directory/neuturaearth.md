@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Neutura is a Singapore-headquartered carbon removal company operating pyrolysis biochar projects in Indonesia. It converts agricultural waste—primarily empty fruit bunches (EFB) from palm oil mills—into biochar for soil amendment and carbon removal credits. The company launched its first pilot in 2024 with Universitas Sumatera Utara and has since partnered with Indonesian farms on carbon farming deployments.
 
-![Neutura.Earth website](/screenshots/neuturaearth/2026-04-19.png)
+![Neutura.Earth website](/screenshots/neuturaearth.png)
 
 
 ## History

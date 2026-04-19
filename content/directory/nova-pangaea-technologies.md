@@ -23,7 +23,7 @@ liveliness: "🟡 Moderate"
 
 Nova Pangaea Technologies (NPT) is a clean technology company headquartered in Teesside that has developed REFNOVA®, a proprietary patented second generation technology process that converts woody and non-food derived agricultural residues into 2G ethanol and biochar, with the ethanol usable via the alcohol-to-jet pathway for Sustainable Aviation Fuel and the biochar functioning as a natural carbon removal product via sequestration. NPT is in partnership with British Airways and LanzaJet to deliver Project Speedbird, a commercial plant that will produce 102 million litres of SAF per year, and has secured Government funding through the Advanced Fuels Fund of £9 million.
 
-![Nova Pangaea Technologies website](/screenshots/v1-thumbnails/nova-pangaea-technologies.jpg)
+![Nova Pangaea Technologies website](/screenshots/nova-pangaea-technologies.png)
 
 
 ## History

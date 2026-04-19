@@ -20,7 +20,7 @@ liveliness: "🟠 Suspect"
 
 Woodtek Engineering is a family-run business based in Mid Wales designing and manufacturing wood chip dryers and biochar pyrolysis plants. Its flagship C1000 pyrolysis unit underpins multiple UK biochar sites including the Carbon Hill plant at its HQ and a joint venture with Shropshire Council (Biodynamic Carbon Ltd), with output registered on Puro.earth for CORC issuance. Daily output is around 2.5–3 tonnes of biochar from 10–12 tonnes of biomass, running 24/7.
 
-![Woodtek Biochar website](/screenshots/v1-thumbnails/woodtek-biochar.jpg)
+![Woodtek Biochar website](/screenshots/woodtek-biochar.png)
 
 
 ## History

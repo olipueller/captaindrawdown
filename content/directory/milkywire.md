@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 Stockholm-based Milkywire is an impact platform that channels corporate funding into durable CDR pre-purchases through its Climate Transformation Fund, backed by companies like Klarna, Spotify, Salesforce, Bolt and Future Energy Ventures. Their 2025 round added 15 new suppliers bringing total CTF-supported CDR suppliers to 40 — second only to Shopify and Stripe per CDR.fyi. Milkywire does not remove CO2 itself; it is a facilitator/broker in the CDR ecosystem.
 
-![Milkywire website](/screenshots/milkywire/2026-04-19.png)
+![Milkywire website](/screenshots/milkywire.png)
 
 
 ## History

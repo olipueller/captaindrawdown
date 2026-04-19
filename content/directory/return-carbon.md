@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Return Carbon is a Dutch CDR project developer that integrates capture technology, transport and offshore storage to build DACCS and BECCS projects. It partners with technology providers like Skytree (DAC) and Carbon8 (mineralization), storage investors like CapeOmega, and emitters such as RWE, and is involved in the NoordKaap cross-border CO2 shipping/storage project servicing RWE's Eemshaven biomass plant and a Texas-based DAC park with EDF Renewables targeting 500,000 t/yr.
 
-![Return Carbon website](/screenshots/v1-thumbnails/return-carbon.jpg)
+![Return Carbon website](/screenshots/return-carbon.png)
 
 
 ## History

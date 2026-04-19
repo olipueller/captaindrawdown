@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Pratt Energy, LLC operates a fuel ethanol plant in Pratt, Kansas processing regionally grown corn and milo. In late 2023 it filed an EPA Class VI application to construct one of Kansas's first CO2 sequestration wells to store biogenic CO2 from ethanol fermentation. As of late 2025 the EPA had issued the first Kansas Class VI permit to PureField (not Pratt Energy), and Pratt's application appears to remain under review with no recent public milestones.
 
-![Pratt Energy website](/screenshots/pratt-energy/2026-04-19.png)
+![Pratt Energy website](/screenshots/pratt-energy.png)
 
 
 ## History

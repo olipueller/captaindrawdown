@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Uisa is one of Brazil's largest integrated sugarcane biorefineries, headquartered in Nova Olímpia, Mato Grosso, producing sugar, ethanol, renewable electricity, and yeast. The company announced plans for a BECCS project to capture CO2 from ethanol fermentation and inject it into the Parecis Sedimentary Basin roughly 15 km from its plant. However, public progress on Uisa's BECCS project has been quiet since the initial 2023-2024 announcements, while a competing Parecis Basin BECCS project by FS Agrisolutions has advanced with BNDES financing.
 
-![Uisa website](/screenshots/v1-thumbnails/uisa.jpg)
+![Uisa website](/screenshots/uisa.png)
 
 
 ## History

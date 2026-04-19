@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Pannonia Bio is Europe's largest single-site grain biorefinery, located in Dunaföldvár, Hungary, producing bioethanol, biomethane, animal feed, protein concentrates and corn oil from corn and barley. Together with sister company Danube Carbon Storage (backed by parent ClonBio Group and EMOV Limited), it is developing the Danube Removals BECCS project to capture ~500,000 tonnes/year of biogenic CO2 from yeast fermentation and anaerobic digestion and permanently store it in a saline aquifer in the Pannonian Basin, generating CRCF-compliant carbon removal credits.
 
-![Pannonia Bio website](/screenshots/pannonia-bio/2026-04-19.png)
+![Pannonia Bio website](/screenshots/pannonia-bio.png)
 
 
 ## History

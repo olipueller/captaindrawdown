@@ -20,7 +20,7 @@ liveliness: "🟡 Moderate"
 
 Tellus Biocarbon is a Brazilian climate-tech company that converts agricultural biomass residues into biochar, a carbon-negative soil amendment. It partners with local producers to source feedstock and is listed as a member of the CDR30 industry group.
 
-![Tellus website](/screenshots/tellus/2026-04-19.png)
+![Tellus website](/screenshots/tellus.png)
 
 
 ## History

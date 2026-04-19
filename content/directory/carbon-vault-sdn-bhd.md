@@ -23,7 +23,7 @@ liveliness: "🟡 Moderate"
 
 Carbon Vault Sdn Bhd (operating as Carbon Bank) is a Malaysia-based carbon credit platform that provides audit, registry, and trading services, and co-develops a blockchain carbon registry with KPRJ Environment Sdn Bhd. The company also develops nature-based forestry projects such as Improved Forest Management in Terengganu, and integrates Islamic finance principles with carbon markets.
 
-![Carbon Vault Sdn Bhd website](/screenshots/carbon-vault-sdn-bhd/2026-04-19.png)
+![Carbon Vault Sdn Bhd website](/screenshots/carbon-vault-sdn-bhd.png)
 
 
 ## History

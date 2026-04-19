@@ -21,7 +21,7 @@ liveliness: "🟡 Moderate"
 
 OZEN Sp. z o.o. (OZEN Plus) is a Polish charcoal manufacturer based in Wałcz operating since 2011, producing approximately 20,000 tonnes/year of charcoal and charcoal briquettes alongside about 52,000 MWh of renewable electricity from pyrolysis heat and biomass. The company holds a European Biochar Certificate (EBC) C-Sink certification covering a biochar batch produced 25/6/2021–24/06/2022, with a carbon sink potential of 87.7% (3.22 t CO2eq per tonne biochar). Most output is sold as BBQ/industrial charcoal, with the EBC-certified portion qualifying as biochar carbon removal.
 
-![Ozen website](/screenshots/ozen/2026-04-19.png)
+![Ozen website](/screenshots/ozen.png)
 
 
 ## History

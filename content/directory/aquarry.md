@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 Aquarry, headquartered in California, specializes in pit lake alkalinity enhancement, introducing alkaline materials to flooded surface mines to convert them into carbon removal and storage assets while simultaneously improving water quality. The company dosses pit lakes with low-emission sources of alkalinity so that CO2 is passively drawn down from the atmosphere, with lab work and limited-scale field trials underway at Winsome Resources' Renard site in Canada.
 
-![Aquarry website](/screenshots/aquarry/2026-04-19.png)
+![Aquarry website](/screenshots/aquarry.png)
 
 ## Registry Memberships
 

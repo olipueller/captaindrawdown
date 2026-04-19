@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 CyanoCapture is a UK biotech spun out of Oxford in 2021, led by CEO David Kim, developing genetically engineered cyanobacterial strains for CO2 capture from industrial emissions. The company pursues multiple storage pathways including biochar production, carbonate mineralization for construction fillers (Innovate UK-funded), and biomass-to-products biomanufacturing (insulin, recombinant proteins, graphite). It was selected for the Leap stage of the Remove programme and has raised approximately $1.8-3M in seed funding.
 
-![CyanoCapture website](/screenshots/v1-thumbnails/cyanocapture.jpg)
+![CyanoCapture website](/screenshots/cyanocapture.png)
 
 ## Registry Memberships
 

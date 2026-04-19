@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 NEG8 Carbon is a Waterford, Ireland-based Direct Air Capture company that has developed a proprietary Electrostatic DAC technology using thin-layer sorbent systems. It built Ireland's first DAC prototype (1.2 tpa) and, as of January 2026, has partnered with Prochem Engineering on an engineering study for Ireland's first full-scale 50 tpa DAC module at its Waterford headquarters.
 
-![NEG8 Carbon website](/screenshots/v1-thumbnails/neg8-carbon.jpg)
+![NEG8 Carbon website](/screenshots/neg8-carbon.png)
 
 
 ## History

@@ -21,7 +21,7 @@ liveliness: "🟠 Suspect"
 
 High Hopes Labs is an Israeli startup based in Ramat Gan in central Israel, founded by CEO Nadav Mansdorf and CTO Eran Oren, a physicist and alumnus of the army's elite Talpiot program. Their balloons float up to 15 km above Earth, where temperatures range from -60 to -70 °C, and a payload roughly the size of a minibar uses a coolant to bring air down to -80 °C, the freezing point of carbon dioxide, which is then stored in a pressurized container; once one metric ton is captured, the balloon deflates and returns to roughly the same spot. The US Patent and Trademark Office granted the company a patent on its balloon-based capture invention in 2022.
 
-![High Hopes Labs website](/screenshots/high-hopes-labs/2026-04-19.png)
+![High Hopes Labs website](/screenshots/high-hopes-labs.png)
 
 
 ## History

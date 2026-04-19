@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Renergi is an Australian waste-to-energy and carbon removal company based in Collie, Western Australia, spun out of Curtin University in 2012. It operates a patented "grinding pyrolysis" demonstration plant that converts municipal solid waste, forestry and agricultural residues into biochar, bio-oil and wood vinegar, with biochar sold as a soil conditioner and listed on Puro.earth for CORC issuance.
 
-![Renergi website](/screenshots/v1-thumbnails/renergi.jpg)
+![Renergi website](/screenshots/renergi.png)
 
 
 ## History

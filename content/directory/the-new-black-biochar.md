@@ -20,7 +20,7 @@ liveliness: "🟡 Moderate"
 
 The New Black Biochar was co-founded by Christina Giudici and Bodie Cavanagh and grew from an idea to produce biochar from sawmill waste and use the heat generated for drying green timber. It is a small Tasmanian grassroots biochar operation that also runs community workshops and sells biochar for gardens, environmental remediation and industry. Co-founder Christina joined the Biochar Living Lab steering committee in Tasmania, and the business applied for a state government grant to fund an automated feed system for the plant.
 
-![The New Black Biochar website](/screenshots/v1-thumbnails/the-new-black-biochar.jpg)
+![The New Black Biochar website](/screenshots/the-new-black-biochar.png)
 
 
 ## History

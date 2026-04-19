@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Origen (Origen Power Limited) is a UK/US climate-tech company developing limestone-based direct air capture technology, headquartered in Bristol with US operations. It closed a $13M Series A in January 2025 led by Barclays Climate Ventures (with Shell Ventures, Exascale, Elemental Impact, Hatch) and is building a 1,000 tpa demonstration at EERC in North Dakota, while participating in the Pelican Gulf Coast DAC Hub in Louisiana with Shell and Mitsubishi.
 
-![Origen website](/screenshots/v1-thumbnails/origen.jpg)
+![Origen website](/screenshots/origen.png)
 
 
 ## History

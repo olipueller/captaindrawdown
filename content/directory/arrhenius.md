@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Arrhenius AG is a Swiss startup and HSLU (Lucerne University of Applied Sciences and Arts) spin-off founded in 2023 that removes CO2 from the atmosphere by growing microalgae in photobioreactors and geologically storing the resulting biomass. The company is pursuing a pilot plant in Portugal in collaboration with Algae for Future SA (A4F), with sites identified in Lisbon and Matacães. It remains small (~7 employees), unfunded beyond grants (Venture Kick, Gebert Rüf Stiftung).
 
-![Arrhenius website](/screenshots/arrhenius/2026-04-19.png)
+![Arrhenius website](/screenshots/arrhenius.png)
 
 
 ## History

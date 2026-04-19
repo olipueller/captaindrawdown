@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 MYNO Carbon Corp. is a Washington-based biochar startup founded in 2020 that is developing a large-scale Carbon Removal Facility in Port Angeles, WA, using forest residuals as feedstock to produce biochar and renewable energy. The company has executed early biochar field applications with Washington conservation districts and WSU, and its CEO continued to publicly promote the Port Angeles project as of October 2025 despite the cancellation of a $20.4M USDA Fertilizer Production Expansion Program grant.
 
-![MYNO website](/screenshots/v1-thumbnails/myno.jpg)
+![MYNO website](/screenshots/myno.png)
 
 
 ## History

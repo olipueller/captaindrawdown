@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Växjö Energi AB (VEAB) is a Swedish municipal energy company owned by Växjö municipality, operating the Sandviksverket biomass CHP plant. It is developing a BECCS facility in collaboration with Sumitomo SHI FW using hot potassium carbonate (HPC) capture technology, targeting approximately 200,000 tonnes of CO2 captured annually starting in 2028, with storage planned in the North Sea.
 
-![Växjö Energi website](/screenshots/v1-thumbnails/v-xj--energi.jpg)
+![Växjö Energi website](/screenshots/växjö-energi.png)
 
 
 ## History

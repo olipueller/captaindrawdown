@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Carbon Hill is a family-run biochar producer based at Caebardd farm near Welshpool, mid-Wales, operating a pyrolysis facility since 2021 that converts hedgerow trimmings and green waste into biochar. The project is certified on Puro.earth with first CORC issuance in 2022, audited by bio.inspecta. Via the BioDynamic Carbon Ltd joint venture with Shropshire Council, the existing Carbon Hill plant (operated by Woodtek) is being expanded by up to 400% to become what partners call the UK's largest biochar production facility.
 
-![Carbon Hill website](/screenshots/v1-thumbnails/carbon-hill.jpg)
+![Carbon Hill website](/screenshots/carbon-hill.png)
 
 ## Registry Memberships
 

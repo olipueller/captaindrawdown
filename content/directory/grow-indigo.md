@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Grow Indigo is a Mumbai-based joint venture of Mahyco and Indigo Ag, founded in 2018, that develops agricultural carbon projects with smallholder farmers across India. It enrolls farmers in regenerative practices (direct-seeded rice, no-till, biological inputs, biochar, irrigation management) and generates soil carbon credits under Verra's VM0042 methodology, with its Aadi project (VCS 2590) receiving first issuance in January 2026 covering ~30,000 acres across Punjab and Haryana.
 
-![Grow Indigo website](/screenshots/grow-indigo/2026-04-19.png)
+![Grow Indigo website](/screenshots/grow-indigo.png)
 
 
 ## History

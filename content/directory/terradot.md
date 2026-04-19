@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Terradot is a U.S.-headquartered Enhanced Rock Weathering carbon removal supplier founded in 2022 at Stanford University, operating basalt deployments across thousands of hectares of Brazilian farmland. The company has raised $58.2M in Series A funding and holds major offtake agreements with Google (200,000 tonnes), Frontier ($33M/~78,707 tonnes), and Microsoft (12,000 tonnes). In February 2026 Terradot acquired Eion's assets, bringing its contracted portfolio above 400,000 tonnes and adding olivine-based U.S. deployments.
 
-![Terradot website](/screenshots/terradot/2026-04-19.png)
+![Terradot website](/screenshots/terradot.png)
 
 
 ## History

@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Carbonway is a France-based CDR project developer that captures biogenic CO2 from biomethanization plants and mineralizes it in construction and backfill materials such as bottom ash and construction debris. It positions itself as a tech-agnostic project developer focused on mineralising biogenic CO₂ in construction materials, building local industrial hubs rather than owning a proprietary process technology.
 
-![Carbonway website](/screenshots/v1-thumbnails/carbonway.jpg)
+![Carbonway website](/screenshots/carbonway.png)
 
 
 ## History

@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Reclimate is a Malaysia- and Singapore-based biochar project developer that partners with farmers and agricultural operators across Southeast and South Asia to convert agricultural waste (rice straw, bamboo, lemon myrtle trimmings, coconut residues) into biochar. The company handles project design, MRV, and carbon credit certification/sales, holding the European Biochar Certificate and World Biochar Certificate standards. Backed by investors including Antler and Shell Malaysia LiveWIRE.
 
-![Reclimate website](/screenshots/reclimate/2026-04-19.png)
+![Reclimate website](/screenshots/reclimate.png)
 
 
 ## History

@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 Loam Bio is an Australian agritech company (founded 2019, HQ in Orange, NSW) that develops microbial seed treatments using endophytic fungi to increase stable carbon sequestration in agricultural soils. Its CarbonBuilder product and SecondCrop carbon program generate soil carbon credits for broadacre grain farmers in Australia, the US, Canada, and Brazil. The company has raised roughly $120M including a $73M Series B.
 
-![Loam website](/screenshots/loam/2026-04-19.png)
+![Loam website](/screenshots/loam.png)
 
 
 ## History

@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Söderenergi is a Swedish municipal energy utility (owned by Södertälje, Huddinge and Botkyrka via Telge and Södertörns Energi) operating the Igelsta biomass CHP plant in Södertälje. Since 2020 it had been developing a BECCS project targeting 500,000 t/yr of biogenic CO2 removals by 2030, with an AstraZeneca offtake signed in August 2025. In February 2026 the Board paused the project, citing excessive risk, insufficient financing, an immature Nordic voluntary carbon market, and a rejected state-aid application from the Swedish Energy Agency.
 
-![Söderenergi website](/screenshots/söderenergi/2026-04-19.png)
+![Söderenergi website](/screenshots/söderenergi.png)
 
 
 ## History

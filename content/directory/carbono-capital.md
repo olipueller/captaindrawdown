@@ -20,7 +20,7 @@ liveliness: "🟡 Moderate"
 
 Carbono Capital SpA is a Chile-based biochar supplier that transforms waste biomass into biochar through biogenic-fueled pyrolysis using off-grid kilns, with the resulting material blended with compost and applied to agricultural land. The project integrates regenerative agriculture, digital MRV tools, and community-based compost-biochar application on family-owned farmland. The project is listed on the Isometric carbon removal registry.
 
-![Carbono Capital website](/screenshots/v1-thumbnails/carbono-capital.jpg)
+![Carbono Capital website](/screenshots/carbono-capital.png)
 
 
 ## History

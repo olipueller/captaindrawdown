@@ -23,7 +23,7 @@ liveliness: "🟡 Moderate"
 
 Bhumi Sewa Networks is a Pokhara, Nepal-based for-purpose, profit-not-distributing company that partners with farmer cooperatives to convert agricultural residues into biochar and verified carbon removal credits. They provide end-to-end biochar project development services, including agroforestry design, MRV, and financing regenerative practices for smallholder farmers.
 
-![Bhumi Sewa Networks website](/screenshots/v1-thumbnails/bhumi-sewa-networks.jpg)
+![Bhumi Sewa Networks website](/screenshots/bhumi-sewa-networks.png)
 
 
 ## History

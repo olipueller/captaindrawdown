@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 Equinor is a Norwegian energy major that in April 2024 acquired Rolls-Royce's liquid-solvent (amine-based) DAC technology IP and novated the UK DESNZ-funded Project ENCORE contract, taking over a demonstrator plant on the Rolls-Royce Derby campus. The program is now an internal DAC development effort within Equinor, complementing its Northern Lights CO2 transport/storage infrastructure and venture investments in RepAir, Captura and 44.01. A Phase 2 project report was published in June 2025, indicating the program remains active.
 
-![Equinor/Rolls Royce website](/screenshots/equinorrolls-royce/2026-04-19.png)
+![Equinor/Rolls Royce website](/screenshots/equinorrolls-royce.png)
 
 
 ## History

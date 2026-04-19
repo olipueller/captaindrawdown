@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Miraïa is a Toulouse-based French climate-tech startup founded in May 2023 that develops a modernized continuous vertical-furnace wood pyrolysis technology to produce biochar, bio-oils, and renewable energy from wood industry residues. The company is building a pilot demonstrator in Colomiers (Haute-Garonne) and is preparing its first commercial-scale plant in Garlin (Pyrénées-Atlantiques), with longer-term ambitions for 6 industrial units each producing 20,000 t/yr of biochar.
 
-![Miraïa website](/screenshots/v1-thumbnails/mira-a.jpg)
+![Miraïa website](/screenshots/miraïa.png)
 
 
 ## History

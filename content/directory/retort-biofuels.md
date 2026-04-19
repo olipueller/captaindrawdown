@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Retort Biofuels is a small Jaipur, India-based producer of biochar and wood vinegar (pyroligneous acid) from wood-waste pyrolysis, marketed primarily through IndiaMart for agricultural uses such as soil amendment and pest control. The company positions itself as a sustainable agri-input supplier rather than a dedicated carbon-removal credit issuer, and has no registry listings or visible CDR credit sales.
 
-![Retort Biofuels website](/screenshots/v1-thumbnails/retort-biofuels.jpg)
+![Retort Biofuels website](/screenshots/retort-biofuels.png)
 
 
 ## History

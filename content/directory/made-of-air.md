@@ -23,7 +23,7 @@ liveliness: "🟡 Moderate"
 
 Made of Air is a Berlin-based carbon-negative materials company founded in 2016 that converts wood-waste biochar into thermoplastic granules and composites for durable applications in building facades, automotive, and consumer goods. Notable deployments include an Audi dealership cladding in Munich and a limited-edition H&M sunglasses line. The company positions its biochar-filled materials as engineered carbon sinks that permanently lock biogenic carbon in long-lived products.
 
-![Made of Air website](/screenshots/made-of-air/2026-04-19.png)
+![Made of Air website](/screenshots/made-of-air.png)
 
 
 ## History

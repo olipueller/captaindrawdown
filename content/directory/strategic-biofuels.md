@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Strategic Biofuels is a US development company advancing carbon-negative, renewable and dispatchable energy solutions, with its flagship Louisiana Green Fuels (LGF) facility in northern Louisiana to be constructed in phases, beginning with a 100MW clean energy power plant featuring on-site carbon capture and sequestration. The BECCS facility in Caldwell Parish will use regionally sourced forestry residues and sawmill waste to generate firm electricity, sequestering over one million metric tons of CO₂ annually in deep saline formations via three Class VI wells while exporting 75 MW to the grid. A Phase 2 biorefinery producing sustainable aviation fuel is also planned.
 
-![Strategic Biofuels website](/screenshots/strategic-biofuels/2026-04-19.png)
+![Strategic Biofuels website](/screenshots/strategic-biofuels.png)
 
 
 ## History

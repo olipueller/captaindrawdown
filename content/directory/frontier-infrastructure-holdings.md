@@ -23,7 +23,7 @@ liveliness: "🟠 Suspect"
 
 Frontier Infrastructure Holdings is a Tailwater Capital-backed developer of low-carbon infrastructure headquartered in Irving/Dallas, Texas, operating the Sweetwater Carbon Storage Hub in southwest Wyoming. The company holds Class VI permits and is building pipeline, rail, and truck-based CO2 transport and geologic sequestration capacity, with a specific focus on BECCS credits from ethanol producers via partnerships with Gevo, Verity, and Wild Assets.
 
-![Frontier Infrastructure Holdings website](/screenshots/frontier-infrastructure-holdings/2026-04-19.png)
+![Frontier Infrastructure Holdings website](/screenshots/frontier-infrastructure-holdings.png)
 
 
 ## History

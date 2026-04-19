@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 NAWARO ENERGIE Betrieb GmbH is an Austrian bioenergy producer headquartered in Zwettl, Lower Austria, operating biomass power plants in the Waldviertel region plus SynCraft wood-gasification "reverse power plants" in Perg and Groß Gerungs. The Perg plant (two CW1800-500 units, operational since January 2023) co-produces ~800 t of biochar per year, which is EBC- and PEFC-certified and sold to customers for CO2 reduction applications. The company supplies ~30,000 households with green electricity and is a member of the European Biochar Industry Consortium.
 
-![NAWARO ENERGIE Betrieb website](/screenshots/v1-thumbnails/nawaro-energie-betrieb.jpg)
+![NAWARO ENERGIE Betrieb website](/screenshots/nawaro-energie-betrieb.png)
 
 
 ## History

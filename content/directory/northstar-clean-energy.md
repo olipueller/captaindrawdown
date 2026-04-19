@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 NorthStar Clean Energy is a wholly owned unregulated subsidiary of CMS Energy (NYSE: CMS), based in Michigan, developing the Filer City BECCS project — one of the first large-scale US bioenergy with carbon capture and storage projects. The project would convert a 73-MW coal plant to biomass firing with Babcock & Wilcox's SolveBright post-combustion capture, targeting up to 550,000 tons of CO2 captured and permanently stored annually. NorthStar also operates a broader 1.5+ GW portfolio of solar, wind, biomass, and gas assets.
 
-![NorthStar Clean Energy website](/screenshots/v1-thumbnails/northstar-clean-energy.jpg)
+![NorthStar Clean Energy website](/screenshots/northstar-clean-energy.png)
 
 
 ## History

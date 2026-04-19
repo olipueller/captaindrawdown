@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 Holocene Climate Corp. is a Knoxville, Tennessee DAC startup founded in 2022 that developed a liquid, low-temperature amino-acid/guanidine capture process and ran a ~10 tpy pilot plant. In September 2024 it signed a landmark $10M / $100-per-ton / 100,000-ton carbon removal deal with Google, and in April 2025 it was acquired by Occidental Petroleum's Oxy Low Carbon Ventures subsidiary, becoming a sibling to Carbon Engineering within Oxy's DAC portfolio.
 
-![Holocene website](/screenshots/holocene/2026-04-19.png)
+![Holocene website](/screenshots/holocene.png)
 
 
 ## History

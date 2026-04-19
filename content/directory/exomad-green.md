@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Exomad Green is the biochar CDR division of Exomad, Bolivia's largest wood exporter, operating pyrolysis facilities at Riberalta and Concepción with a third under construction in Guarayos. It is among the largest biochar CDR suppliers globally — delivering more than 300,000 Puro-certified CORCs by March 2026 and holding a 1.24Mt 10-year offtake with Microsoft signed in May 2025.
 
-![Exomad Green website](/screenshots/exomad-green/2026-04-19.png)
+![Exomad Green website](/screenshots/exomad-green.png)
 
 ## Registry Memberships
 

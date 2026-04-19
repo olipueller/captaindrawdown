@@ -23,7 +23,7 @@ liveliness: "🟡 Moderate"
 
 RubisCO2 is an early-stage startup founded by Pablo Navarro Maldonado (a former Ludwig-Maximilians-Universität München student) that turns algae blooms into biochar to decarbonize construction. The company operates a pyrolysis reactor ("Tlacuache 1") and aimed to deploy reactors along the Mexican coastline to convert Sargassum into biochar. It participated in the Carbon Removal ClimAccelerator programme of EIT Climate-KIC supported by Munich Re and ERGO.
 
-![RubisCO2 website](/screenshots/v1-thumbnails/rubisco2.jpg)
+![RubisCO2 website](/screenshots/rubisco2.png)
 
 
 ## History

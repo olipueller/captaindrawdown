@@ -21,7 +21,7 @@ liveliness: "🟡 Moderate"
 
 Scotts Valley Energy Company (SVEC) is a tribal enterprise of the Scotts Valley Band of Pomo Indians in Lake County, California, established in 2018 to develop small-scale bioenergy/biochar plants using pyrolysis-gasification technology. After winning unanimous Lake County Planning Commission approval for an Upper Lake biochar facility in December 2024, trade press reported in December 2025 that SVEC and Lake County terminated facility development following grant-funding and land-use conflicts. The company website (copyright 2021) has not been substantively updated, and the project was also listed as an "early development" future facility on Puro.earth with no CORCs issued.
 
-![SVEC website](/screenshots/svec/2026-04-19.png)
+![SVEC website](/screenshots/svec.png)
 
 
 ## History

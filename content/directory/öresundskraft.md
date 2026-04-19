@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Öresundskraft is Sweden's first municipally owned energy company to secure an investment decision for a CCS project, a first-of-its-kind Swedish initiative applying CCS technology to a waste-fired CHP facility at Filbornaverket in Helsingborg. The roughly SEK 3 billion facility will capture 200,000 tonnes of CO2 annually and is targeted to be operational by 2028. The project is backed by 228 million SEK from the Swedish Energy Agency plus approximately 600 million SEK from the EU Innovation Fund, and roughly half of the captured CO₂ is biogenic, producing BECCS removals.
 
-![Öresundskraft website](/screenshots/v1-thumbnails/resundskraft.jpg)
+![Öresundskraft website](/screenshots/öresundskraft.png)
 
 ## Registry Memberships
 

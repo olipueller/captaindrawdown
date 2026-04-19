@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 Varme Energy is developing the Alberta Industrial Heartland (AIH1) project in Strathcona County northeast of Edmonton, Canada's first commercial-scale waste-to-energy facility with integrated carbon capture and storage. The project is expected to divert ~205,000 tonnes of municipal solid waste from landfills and capture over 130,000 tonnes of CO₂ annually for permanent storage, with commercial operations targeted for 2029. In November 2025, Varme announced a collaboration with Carbon Direct, which will contribute technical expertise and bring Varme's carbon removal credits to market.
 
-![Varme website](/screenshots/v1-thumbnails/varme.jpg)
+![Varme website](/screenshots/varme.png)
 
 
 ## History

@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Funga is a US-based public benefit corporation that restores native mycorrhizal fungal communities to working forests (primarily loblolly pine plantations in the southeastern US) to accelerate tree growth and carbon drawdown. The company sells the additional carbon removal as credits; it secured a >500,000-ton carbon deal in November 2024 and scaled operations to approximately 25,000 acres by 2025.
 
-![Funga website](/screenshots/funga/2026-04-19.png)
+![Funga website](/screenshots/funga.png)
 
 ## Registry Memberships
 

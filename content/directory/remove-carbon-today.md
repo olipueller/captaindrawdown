@@ -20,7 +20,7 @@ liveliness: "🟡 Moderate"
 
 Remove Carbon Today is an online retail storefront that enables individuals to purchase certified, durable carbon removal credits. It aggregates small customer purchases and retires Puro.earth CO₂ Removal Certificates (CORCs) on their behalf, sourcing removals from third-party supplier partners. The company does not operate its own removal technology.
 
-![Remove Carbon Today website](/screenshots/remove-carbon-today/2026-04-19.png)
+![Remove Carbon Today website](/screenshots/remove-carbon-today.png)
 
 
 ## History

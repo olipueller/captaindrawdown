@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 Mission Zero Technologies is a UK-based company that develops electrochemical direct air capture (DAC) technology inspired by biological reactions that manage CO₂ in the body, designed to recover atmospheric CO₂ at any scale. The company has deployed three systems across the UK and Canada, including a Norfolk DAC-to-building-materials plant with O.C.O Technology and a third system at Deep Sky's Alpha site in Alberta. Applications span carbon removal, sustainable aviation fuel feedstock, and carbon-negative building materials.
 
-![Mission Zero website](/screenshots/v1-thumbnails/mission-zero.jpg)
+![Mission Zero website](/screenshots/mission-zero.png)
 
 
 ## History

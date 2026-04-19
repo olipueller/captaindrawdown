@@ -21,7 +21,7 @@ liveliness: "🟡 Moderate"
 
 Carbon Capital is a Namibian bioeconomy company established in 2020 by Cirrus Capital and the Viridescent Trust, operating the Farm Gai Kaisa 159 biochar project near Grootfontein in partnership with Planboo. The initiative converts acacia encroacher bush into biochar, which is applied to soils to store carbon, enhance soil fertility, restore ecosystems and regenerate rangelands; the project is the first in Namibia to be registered on the Puro.earth carbon removal registry and is the largest industrial biochar-based initiative in Africa. As of December 2025, Carbon Capital has produced 16,291 tonnes of certified biochar, representing roughly 1.6% of global biochar deliveries, with Boeing among committed buyers.
 
-![Carbon Capital website](/screenshots/v1-thumbnails/carbon-capital.jpg)
+![Carbon Capital website](/screenshots/carbon-capital.png)
 
 
 ## History

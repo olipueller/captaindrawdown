@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Beetle Regen Solutions is an India-based regenerative agriculture company that works with cotton farmers to implement biochar application and regenerative soil practices, generating Carbon Dioxide Removal credits sold via voluntary carbon markets and insetting programs for apparel brands. They partner with organizations like CITI-CDRA to scale regenerative cotton farming across India.
 
-![Beetle Regen Solutions website](/screenshots/beetle-regen-solutions/2026-04-19.png)
+![Beetle Regen Solutions website](/screenshots/beetle-regen-solutions.png)
 
 
 ## History

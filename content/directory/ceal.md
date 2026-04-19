@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Ceal was founded in April 2024 after receiving a grant under Israel's "Blue Economy" Program, which required creation of a company with financial/operational infrastructure and a defined business model. Its technology is built on an electrochemical mineralization process that applies a gentle electric current to seawater to crystallize dissolved calcium and carbon as calcium carbonate, yielding precipitated calcium carbonate (PCC) used in paints, plastics, paper, pharmaceuticals and food. The company's roadmap begins with a pilot project with the Israel Electric Corporation, followed by expanded serial production for smaller industrial facilities.
 
-![Ceal website](/screenshots/ceal/2026-04-19.png)
+![Ceal website](/screenshots/ceal.png)
 
 
 ## History

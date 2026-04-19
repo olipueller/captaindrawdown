@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Pyrocal is a Queensland, Australia-based engineering firm that designs and manufactures proprietary Continuous Carbonisation Technology (CCT) systems, which convert biosolids and organic biomass into biochar via pyrolysis. They built and operate Australia's first biosolids carbonisation facility at Logan Water's Loganholme WWTP and were selected in 2025 to deliver a similar system for the Capital Regional District in British Columbia, Canada. Their biochar projects are certified on the Puro.earth registry for durable carbon removal credits.
 
-![Pyrocal website](/screenshots/pyrocal/2026-04-19.png)
+![Pyrocal website](/screenshots/pyrocal.png)
 
 ## Registry Memberships
 

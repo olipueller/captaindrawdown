@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 ReCarbn was a Netherlands-based Direct Air Capture startup spun out of the University of Twente in 2022, developing a circulating solid-sorbent DAC technology based on research by Professor Wim Brilman. In December 2024, ReCarbn was acquired by Amsterdam-based Skytree, which absorbed its IP and founding team; it no longer operates as a standalone company.
 
-![ReCarbn website](/screenshots/recarbn/2026-04-19.png)
+![ReCarbn website](/screenshots/recarbn.png)
 
 
 ## History

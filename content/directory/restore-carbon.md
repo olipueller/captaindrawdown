@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 Restore Carbon is a Netherlands-based CDR startup developing a patented peatland-based carbon removal method. The company injects plant cuttings below the groundwater table in peat soils, where plant residues do not decompose, creating permanent CO₂ storage while restoring peatland ecosystems. It targets carbon removal costs below $100/ton by 2030.
 
-![Restore Carbon website](/screenshots/restore-carbon/2026-04-19.png)
+![Restore Carbon website](/screenshots/restore-carbon.png)
 
 
 ## History

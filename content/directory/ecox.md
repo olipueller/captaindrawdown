@@ -22,7 +22,7 @@ liveliness: "🟠 Suspect"
 
 ecoX, LLC is a US-based early-stage biochar project developer listed on Puro.earth as a future supplier (ecoX-1) with a planned pyrolysis facility in Namibia. As of the most recent registry snapshot the project remains in feasibility/early-development stage with 0 CORCs issued, and the company appears to be a very small pre-operational venture.
 
-![ecoX website](/screenshots/v1-thumbnails/ecox.jpg)
+![ecoX website](/screenshots/ecox.png)
 
 
 ## History

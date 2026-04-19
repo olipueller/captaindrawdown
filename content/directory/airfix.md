@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Airfix is a Swiss subsidiary of South Pole, backed by the Migros Pioneer Fund, focused on developing Europe's BECCS/BiCRS market by structuring biogenic CO2 capture, transport and storage projects. Its first projects include the CO2 Energie AG biogas BECCS plant near Zurich and a cross-border CO2 storage agreement with INEOS's Greensand site in Denmark, making it Switzerland's first commercial cross-border CO2 storage deal.
 
-![Airfix website](/screenshots/airfix/2026-04-19.png)
+![Airfix website](/screenshots/airfix.png)
 
 
 ## History

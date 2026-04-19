@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Silica is an enhanced rock weathering (ERW) project developer based in Mexico, spreading finely ground volcanic silicate rocks on agricultural fields — starting with Mexican sugarcane regions — to permanently remove CO2 while regenerating soils and benefiting rural communities in Latin America. The company is a member of the Enhanced Weathering Alliance and generates carbon removal credits.
 
-![Silica website](/screenshots/v1-thumbnails/silica.jpg)
+![Silica website](/screenshots/silica.png)
 
 
 ## History

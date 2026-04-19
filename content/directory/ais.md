@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 AiS (Arbeit in Selbsthilfe gGmbH) is a German non-profit inclusion enterprise based in Mössingen/Bodelshausen that employs people with and without disabilities across agriculture, gastronomy, retail, gardening and a manufactory. In May 2025 it commissioned a pyrolysis and heating plant at its Kastanienhof site, operated as a "Reallabor" together with the University of Tübingen, which converts orchard prunings and forestry residues into biochar while supplying heat to the farm's local heat network.
 
-![AiS website](/screenshots/ais/2026-04-19.png)
+![AiS website](/screenshots/ais.png)
 
 
 ## History

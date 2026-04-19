@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Puro.earth is a Finland-based carbon removal standard and registry, majority-owned by Nasdaq since 2021, that certifies engineered CDR suppliers (biochar, BECCS, DAC, enhanced weathering, terrestrial biomass storage) under the Puro Standard. It issues and tracks CO2 Removal Certificates (CORCs) representing verified removals durable for 100+ or 1,000+ years and operates a supplier marketplace connecting buyers such as Microsoft, Shopify and Zurich Insurance with certified project developers.
 
-![Puro website](/screenshots/puro/2026-04-19.png)
+![Puro website](/screenshots/puro.png)
 
 ## Registry Memberships
 

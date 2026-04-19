@@ -20,7 +20,7 @@ liveliness: "🟢 Active"
 
 Char2Cool e.V. is a registered German non-profit association based in Reisbach, Bavaria, that works with local partners in Africa (Nigeria, Ghana, Kenya, Uganda, Ethiopia) and Peru to harvest invasive water hyacinths and carbonize them into biochar using a low-tech C2C-Kiln. The biochar is applied as a soil amendment, and the organization sells CO2 compensation certificates based on verified carbon savings. They operate a decentralized model supporting local entrepreneurs rather than centralized production.
 
-![Char2Cool website](/screenshots/char2cool/2026-04-19.png)
+![Char2Cool website](/screenshots/char2cool.png)
 
 
 ## History

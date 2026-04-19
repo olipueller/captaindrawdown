@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Paebbl is a Dutch-Nordic climate tech company that permanently stores captured CO₂ by mineralizing it with crushed olivine rock to produce a silicon-rich magnesium carbonate powder used as a supplementary cementitious material. Its continuous demo plant in Rotterdam has been operating since late March 2025, and the company is advancing design and site selection for a first-of-a-kind commercial plant targeted for 2028.
 
-![Paebbl website](/screenshots/v1-thumbnails/paebbl.jpg)
+![Paebbl website](/screenshots/paebbl.png)
 
 ## Registry Memberships
 

@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 atdepth MRV is a Cambridge, Massachusetts-based MIT spin-off providing Monitoring, Reporting and Verification (MRV) services to the marine carbon dioxide removal (mCDR) industry. The company combines GPU-based multi-scale ocean and biogeochemical modeling with monitoring data to quantify ocean carbon removal for mCDR project developers. It is funded by the US DOE ARPA-E SEA-CO2 program and has partnered with Deep Sky to monitor direct ocean capture operations in Canada.
 
-![atdepth website](/screenshots/atdepth/2026-04-19.png)
+![atdepth website](/screenshots/atdepth.png)
 
 
 ## History

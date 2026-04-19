@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 Charm Industrial is a San Francisco-based CDR supplier that uses fast pyrolysis to convert agricultural and forestry residues into bio-oil, which is injected into EPA-regulated wells in Kansas for permanent geological sequestration. The company also produces biochar as a secondary pathway and counts Frontier, Google, JPMorgan, and Workday among its offtake customers.
 
-![Charm Industrial website](/screenshots/charm-industrial/2026-04-19.png)
+![Charm Industrial website](/screenshots/charm-industrial.png)
 
 ## Registry Memberships
 

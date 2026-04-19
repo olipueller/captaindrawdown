@@ -20,7 +20,7 @@ liveliness: "🟡 Moderate"
 
 Arigna Fuels is an Irish fifth-generation family-run firm (part of Arigna Group) that transitioned from smokeless coal manufacturing into biochar production. It operates what has been described as one of Europe's largest biochar production facilities in Co. Roscommon, with output used for horticulture, agriculture, construction, carbon sequestration, and as the basis for its Harvest Flame renewable solid fuel.
 
-![Arigna Fuels website](/screenshots/arigna-fuels/2026-04-19.png)
+![Arigna Fuels website](/screenshots/arigna-fuels.png)
 
 
 ## History

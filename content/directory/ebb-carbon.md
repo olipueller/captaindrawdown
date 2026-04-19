@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 Ebb Carbon is a US-based marine CDR supplier that integrates electrochemical bipolar membrane electrodialysis into desalination plants to convert brine into alkaline seawater that stores atmospheric CO2 as stable bicarbonate. The company operates Project Macoma in Port Angeles, WA and a demonstration system at PNNL-Sequim, and holds a 350,000-tonne offtake with Microsoft, a 3,500-tonne prepurchase from Google, and a partnership with the Saudi Water Authority targeting up to 85M tonnes/year capacity.
 
-![Ebb Carbon website](/screenshots/v1-thumbnails/ebb-carbon.jpg)
+![Ebb Carbon website](/screenshots/ebb-carbon.png)
 
 
 ## History

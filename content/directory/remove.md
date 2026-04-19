@@ -25,6 +25,7 @@ remove is a non-profit accelerator program focused solely on carbon dioxide remo
 
 ## History
 
+- **2026-04-19** — news mention: Bioenergy with carbon capture and storage - Wikipedia ([source](https://en.wikipedia.org/wiki/Bioenergy_with_carbon_capture_and_storage))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://remove.global/))

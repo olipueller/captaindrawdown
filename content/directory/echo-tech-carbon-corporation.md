@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 Echo Tech Carbon Corporation is a Vancouver, Canada-based biochar project developer operating in equatorial Africa (notably Uganda and Senegal), converting agricultural residues such as rice husks into biochar for soil amendment and construction materials. The company generates carbon removal credits under standards including Puro.earth, Carbonfuture, EBC, and Verra, and is listed as a supplier on CDR.fyi.
 
-![Echo Tech Carbon Corporation website](/screenshots/v1-thumbnails/echo-tech-carbon-corporation.jpg)
+![Echo Tech Carbon Corporation website](/screenshots/echo-tech-carbon-corporation.png)
 
 ## Registry Memberships
 

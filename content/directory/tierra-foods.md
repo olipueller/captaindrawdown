@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Tierra Foods is a UK-based climate tech startup developing agroforestry carbon-removal projects using oxalogenic plants (notably the ramón/Brosimum alicastrum tree) that convert atmospheric CO2 into stable soil calcium carbonate via the Oxalate-Carbonate Pathway. The company runs pilot sites in Mexico (Rio Tule/Playa Viva) and the UK, and partnered with the University of Huddersfield on Innovate UK-funded AI-based MRV. It sells permanent carbon removal units alongside edible ramón-seed ingredients.
 
-![Tierra Foods website](/screenshots/v1-thumbnails/tierra-foods.jpg)
+![Tierra Foods website](/screenshots/tierra-foods.png)
 
 
 ## History

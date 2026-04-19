@@ -23,7 +23,7 @@ liveliness: "🟡 Moderate"
 
 ZEN Carbon is a Kenya-based startup developing reactor-driven CO₂ mineralization technology that injects CO₂ into ready-mix concrete during mixing, where it forms stable calcium carbonate minerals and enables reduced cement content. In late 2025 the company moved from pilot to industrial deployment via a partnership with Flamingo Concrete, and is backed by the Carbon Drawdown Initiative. It aims to permanently store 50,000 tons of CO₂ by 2030.
 
-![ZEN Carbon website](/screenshots/v1-thumbnails/zen-carbon.jpg)
+![ZEN Carbon website](/screenshots/zen-carbon.png)
 
 
 ## History

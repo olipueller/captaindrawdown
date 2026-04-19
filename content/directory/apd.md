@@ -20,7 +20,7 @@ liveliness: "🟢 Active"
 
 APD (Auen Pflege Dienst AG) is a Swiss landscape-services firm in Flaach, Zürich that has operated a Biomacon pyrolysis plant since 2019, producing biochar ("Pflanzenkohle") from regional green-waste biomass for agricultural soil improvement and livestock feed. The plant runs year-round and, from January 2026, will feed its waste heat into the local Flaach district heating network, offsetting ~300 tonnes of wood chips annually.
 
-![APD website](/screenshots/apd/2026-04-19.png)
+![APD website](/screenshots/apd.png)
 
 
 ## History

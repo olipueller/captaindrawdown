@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 CarbiCrete is a Montreal-based carbon removal technology company that licenses a patented process for producing cement-free concrete by replacing cement with steel slag and mineralizing captured CO2 into the concrete for permanent storage. The company licenses its technology to block and paver manufacturers in Quebec, Ontario, the northeastern US, and — starting Q1 2026 — France via Saint-Gobain's POINT.P brand.
 
-![CarbiCrete website](/screenshots/v1-thumbnails/carbicrete.jpg)
+![CarbiCrete website](/screenshots/carbicrete.png)
 
 ## Registry Memberships
 

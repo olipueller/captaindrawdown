@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Lucrat GmbH is a German biochar producer in Steinfurt (NRW), founded in 2018, selling EBC-certified biochar products (e.g. CarboFerm) primarily for biogas plant process optimization and the construction industry. The company also collaborates on carbon sink certificate schemes for biochar applied to agricultural soils, and is currently running the Carboferro R&D project with the DBFZ (reported July 2025).
 
-![Lucrat website](/screenshots/v1-thumbnails/lucrat.jpg)
+![Lucrat website](/screenshots/lucrat.png)
 
 
 ## History

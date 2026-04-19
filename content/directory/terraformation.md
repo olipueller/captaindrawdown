@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 Terraformation is a Hawaii-based native forest restoration company founded in 2019 by former Reddit CEO Yishan Wong that scales biodiverse reforestation projects across Africa, Latin America, and Southeast Asia. In 2025 it restored 2,155 hectares, planted 5.4 million native trees (up from 2.3 million in 2024), and had two supported projects enter validation under Verra's carbon standards. The company also develops Terraware, an open-source forest management platform, and runs a Seed to Forest Accelerator that trains and finances local reforestation teams.
 
-![Terraformation website](/screenshots/v1-thumbnails/terraformation.jpg)
+![Terraformation website](/screenshots/terraformation.png)
 
 ## Registry Memberships
 

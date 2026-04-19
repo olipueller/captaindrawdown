@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Glanris is a US clean-tech company based in Olive Branch, Mississippi that manufactures Biocarbon, a rice-hull-derived biochar used for water filtration, soil amendment, and construction materials. The company is registered on Puro.Earth's CORC exchange and, as of 2024-2025, was scaling production with plans for a larger California plant using rice hulls and nut shells.
 
-![Glanris website](/screenshots/glanris/2026-04-19.png)
+![Glanris website](/screenshots/glanris.png)
 
 ## Registry Memberships
 

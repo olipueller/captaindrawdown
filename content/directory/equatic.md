@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 Equatic is a UCLA spin-out based in Los Angeles that uses a patented seawater electrolysis process to permanently store atmospheric CO2 as dissolved bicarbonate and solid mineral carbonates, while co-producing green hydrogen. The company operates pilot plants in Los Angeles and Singapore, is building its Equatic-1 demonstration plant in Singapore, and is engineering a commercial-scale facility in Canada with Deep Sky. It closed an $11.6M Series A in August 2025 led by Temasek Trust's C3H and Kibo Invest.
 
-![Equatic website](/screenshots/v1-thumbnails/equatic.jpg)
+![Equatic website](/screenshots/equatic.png)
 
 ## Registry Memberships
 

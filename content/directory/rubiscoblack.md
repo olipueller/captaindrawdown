@@ -22,7 +22,7 @@ liveliness: "🟠 Suspect"
 
 RubiscoBlack Environmental Technologies and Services Pvt Ltd is a DPIIT-recognised Indian CDR startup based in Hyderabad, developing microbial/bio-enhanced weathering technology to address olivine rock powder wastage and passivation layer formation on agricultural fields. Incorporated in May 2023 and registered with the Registrar of Companies, Hyderabad, the company remains officially active but appears to be very early-stage with 1 employee, no reported revenue, and no public registry issuances or funding announcements.
 
-![RubiscoBlack website](/screenshots/v1-thumbnails/rubiscoblack.jpg)
+![RubiscoBlack website](/screenshots/rubiscoblack.png)
 
 
 ## History

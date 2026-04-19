@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 BC Biocarbon is a Canadian company headquartered in McBride, British Columbia, established in 2011, whose proprietary biorefinery technology produces bioenergy and biogenic carbon products including biochar, biocoal, biochemicals, and other valuable products. Through the BioLesna Carbon Technologies LP joint venture with Dunkley Lumber, the company is building a biorefinery in Carrot River, Saskatchewan to convert residual forest biomass into biochar, bio-oil, wood vinegar and pyrolysis gas. In early 2025 BC Biocarbon secured $2.5 million in funding from Natural Resources Canada to advance an innovative process that converts municipal waste into biocoal for the cement industry.
 
-![BC Biocarbon website](/screenshots/v1-thumbnails/bc-biocarbon.jpg)
+![BC Biocarbon website](/screenshots/bc-biocarbon.png)
 
 ## Registry Memberships
 

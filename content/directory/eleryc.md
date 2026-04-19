@@ -21,7 +21,7 @@ liveliness: "🟢 Active"
 
 Eleryc, Inc. is a venture-backed stealth climate-tech startup based in San Jose, California, developing low-energy electrochemical hydroxide-generation technology for direct air capture and industrial decarbonization. The company acquired a portfolio of electrochemical CO2/hydroxide patents from Arelac (dba Fortera), originally traceable to Calera Corporation. In 2025 Eleryc applied to Frontier Climate's summer prepurchase round and leased 45,000 sq ft of industrial space in San Jose to scale up its DAC demonstration.
 
-![Eleryc website](/screenshots/geolocked/2026-04-19.png)
+![Eleryc website](/screenshots/eleryc.png)
 
 
 ## History

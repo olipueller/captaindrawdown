@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Kawasaki Heavy Industries is a Japanese industrial conglomerate whose Kawasaki CO2 Capture (KCC) division develops proprietary solid-sorbent Direct Air Capture technology, originally derived from CO2 control systems for submarines and space stations. In November 2025 it commissioned one of Japan's largest DAC pilots at its Kobe Works (100–200 tCO2/yr), using an amine-coated solid sorbent that regenerates at ~60°C using factory waste heat. The company aims to scale to a commercial 500,000–1,000,000 tCO2/yr system by 2030.
 
-![Kawasaki Heavy Industries website](/screenshots/v1-thumbnails/kawasaki-heavy-industries.jpg)
+![Kawasaki Heavy Industries website](/screenshots/kawasaki-heavy-industries.png)
 
 
 ## History

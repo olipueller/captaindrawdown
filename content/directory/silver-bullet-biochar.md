@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Silver Bullet Biochar is a Singapore-based biochar venture with a minimal public footprint — essentially only a LinkedIn page and a domain. No press coverage, registry listings, or evidence of biochar deliveries or carbon credit issuance could be found. Pathway is biochar (pyrolysis of biomass) rather than the BECCS tag previously applied.
 
-![Silver Bullet Biochar website](/screenshots/v1-thumbnails/silver-bullet-biochar.jpg)
+![Silver Bullet Biochar website](/screenshots/silver-bullet-biochar.png)
 
 
 ## History

@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 DACworx is an Austrian direct air capture technology developer that co-designed and built the Austrian Pilot Unit 1 (APU1), a container-sized DAC pilot plant based on TU Wien research, together with U.S.-based startup DAClab. The pilot, commissioned in 2025 and financed by the Dharma Karma Foundation, extracts around 50 tons of CO₂ per year with energy consumption under 2,000 kWh per ton. The company offers modular, scalable DAC units aimed at permanent CO₂ removal and sustainable fuels/chemicals production.
 
-![DACworx website](/screenshots/dacworx/2026-04-19.png)
+![DACworx website](/screenshots/dacworx.png)
 
 
 ## History

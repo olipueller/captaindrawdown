@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Húmica is a Mexican soil biotechnology startup founded in 2019-2020 that partners with smallholder farmers — with an emphasis on women producers in Puebla, Veracruz, Tabasco, and Oaxaca — to produce site-specific biochar and implement regenerative agroforestry. The company performs soil diagnostics, formulates tailored biochar-based biofertilizers, and helps farmers access carbon credit markets while commercializing their crops. It remains a small team (≈4-5 people) and reports having issued its first agricultural carbon removal certificates in Mexico.
 
-![Húmica website](/screenshots/v1-thumbnails/h-mica.jpg)
+![Húmica website](/screenshots/húmica.png)
 
 
 ## History

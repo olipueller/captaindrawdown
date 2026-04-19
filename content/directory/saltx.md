@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 SaltX is a Swedish greentech company listed on Nasdaq First North Premier Growth Market that develops the Electric Arc Calciner (EAC), a patented electrified plasma-based calcination technology for the lime and cement industries that replaces fossil heating and captures process CO2 in a pure stream. Through its ZEQL partnership with SMA Mineral and thyssenkrupp Polysius, SaltX is building the world's first zero-emission quicklime plant in Mo i Rana, Norway, and received a ~$1.5M Frontier R&D grant to support large-scale zero-carbon lime as a feedstock for carbon removal pathways. The company is highly active with a 2025 breakthrough year, new Holcim partnership, and MSEK 110 rights issue.
 
-![SaltX website](/screenshots/v1-thumbnails/saltx.jpg)
+![SaltX website](/screenshots/saltx.png)
 
 
 ## History

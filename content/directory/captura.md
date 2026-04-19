@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 Captura is a Pasadena, California-based company publicly launched in 2021 focused on ocean-based carbon dioxide capture. The company operates a joint 1,000-ton-per-year pilot facility in Kona, Hawaii, where its Direct Ocean Capture system was tested against 20 key metrics including carbon removal efficiency, safety, operational reliability, and MRV. Captura is now assessing potential sites for its first commercial-scale DOC project, with design underway for a facility that captures between 30,000 and 50,000 tons of CO₂ annually, with locations under consideration in Europe, the UK, and Asia-Pacific.
 
-![Captura website](/screenshots/v1-thumbnails/captura.jpg)
+![Captura website](/screenshots/captura.png)
 
 
 ## History

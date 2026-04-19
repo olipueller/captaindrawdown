@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Lillianah Technologies is a Houston-based ocean CDR startup founded in 2021 by Benjamin Slotnick that cultivates native diatoms in proprietary photobioreactors and disperses them into nutrient-polluted nearshore dead zones to drive carbon sequestration via marine sedimentation. The company is an IndieBio/SOSV portfolio company that has raised roughly $525K–$1.2M from IndieBio, SOSV, Ecosphere Ventures, and AirMiners, and is establishing a research hub in Nova Scotia. It also offers integrated MRV using sediment traps, drifting sensor arrays, and eDNA monitoring.
 
-![Lillianah Technologies website](/screenshots/lillianah-technologies/2026-04-19.png)
+![Lillianah Technologies website](/screenshots/lillianah-technologies.png)
 
 
 ## History

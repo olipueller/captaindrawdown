@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Viochar is a Danish biochar startup producing biochar via pyrolysis for carbon removal and soil amendment. In August 2025 it entered a strategic partnership with Finnish biochar producer PUHI to jointly develop production plants and biochar/CDR sales in Scandinavia.
 
-![Viochar website](/screenshots/v1-thumbnails/viochar.jpg)
+![Viochar website](/screenshots/viochar.png)
 
 
 ## History

@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Kita is a UK-based Lloyd's of London coverholder and carbon insurance specialist offering policies like Carbon Purchase Protection Cover, Carbon Political Risk Cover, Non-Payment and Buffer Depletion insurance tailored to carbon and natural-capital asset classes. In 2025 it expanded underwriting capacity to £22.5m and in 2026 launched a Non-Payment Insurance product with MS Amlin, serving buyers, sellers and financiers of carbon credits across multiple jurisdictions.
 
-![Kita website](/screenshots/v1-thumbnails/kita.jpg)
+![Kita website](/screenshots/kita.png)
 
 ## Registry Memberships
 

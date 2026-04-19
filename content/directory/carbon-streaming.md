@@ -23,7 +23,7 @@ liveliness: "🟡 Moderate"
 
 Carbon Streaming Corporation is a publicly traded (NETZ/OFSTF) carbon credit streaming and royalty company headquartered in Vancouver, Canada. It provides upfront capital to carbon project developers in exchange for rights to purchase future carbon credits at a fixed price, then resells them to corporate buyers. Its portfolio spans both avoidance and removal projects, including biochar (Waverly, Enfield), reforestation (Sheep Creek, Feather River, Baccala Ranch), and blue carbon.
 
-![Carbon Streaming website](/screenshots/carbon-streaming/2026-04-19.png)
+![Carbon Streaming website](/screenshots/carbon-streaming.png)
 
 
 ## History

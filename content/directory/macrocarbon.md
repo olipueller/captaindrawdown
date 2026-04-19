@@ -23,7 +23,7 @@ liveliness: "🟡 Moderate"
 
 MacroCarbon SL is a Las Palmas (Gran Canaria) startup, spun out in March 2023 from Germany's Alfred Wegener Institute and US-based Carbonwave, that cultivates free-floating Sargassum macroalgae in open-ocean aquafarms. It processes the biomass via a thermal biorefinery — screw press, pyrolysis to biochar, and methane pyrolysis — to produce bio-stimulants, sustainable aviation fuel (BlueSAF Plus), and sequestered carbon. In October 2025 the company received permits for a 40,000 m² seaweed farm near PLOCAN, bridging pilot to commercial scale.
 
-![Macrocarbon website](/screenshots/macrocarbon/2026-04-19.png)
+![Macrocarbon website](/screenshots/macrocarbon.png)
 
 
 ## History

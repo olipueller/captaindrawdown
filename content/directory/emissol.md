@@ -21,7 +21,7 @@ liveliness: "🟡 Moderate"
 
 Emissol is a Bothell, Washington-based company founded in 2013 that develops direct air capture technology, in particular a proprietary low-sorbent, low-pressure-drop DAC contactor. It is partnering with Kenyan climate-tech company Octavia Carbon on Project Hummingbird, a DAC + basalt mineralization project in Kenya's Rift Valley. The company also develops adjacent emission-reduction tech (NOx mixers, catalytic converters) for diesel aftertreatment.
 
-![Emissol website](/screenshots/emissol/2026-04-19.png)
+![Emissol website](/screenshots/emissol.png)
 
 
 ## History

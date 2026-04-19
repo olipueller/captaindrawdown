@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Silicate is an Irish enhanced weathering CDR supplier headquartered at NovaUCD in Dublin (founded 2021 in County Sligo by Maurice Bryson), with field operations in Illinois, USA. The company mills waste/returned concrete and limestone and applies it to farmland, measuring durable CO2 removal as dissolved bicarbonate while optimizing soil pH for farmers. It sells removal credits (buyers include Klarna, Milkywire and Carbonfuture) and was a top-20 XPRIZE Carbon Removal finalist.
 
-![Silicate website](/screenshots/v1-thumbnails/silicate.jpg)
+![Silicate website](/screenshots/silicate.png)
 
 
 ## History

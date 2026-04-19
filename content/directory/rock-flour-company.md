@@ -23,7 +23,7 @@ liveliness: "🟠 Suspect"
 
 Rock Flour Company is a Danish/Greenlandic startup founded in 2023 by geologist Minik Rosing and climate investor 2degrees that harvests naturally ultra-fine glacial rock flour from Greenlandic fjord deltas and applies it to croplands in warmer climates, where it fertilizes soils and sequesters atmospheric CO2 as stable bicarbonate via enhanced rock weathering. In September 2025 the company closed a €6.1 million ($7.1M) seed round backed by EIFO (the Danish state export/investment fund), Novo Holdings, and Greenlandic investors, with plans to launch its first commercial GRF project and pursue verified CDR credit issuance.
 
-![Rock Flour Company website](/screenshots/v1-thumbnails/rock-flour-company.jpg)
+![Rock Flour Company website](/screenshots/rock-flour-company.png)
 
 ## Registry Memberships
 

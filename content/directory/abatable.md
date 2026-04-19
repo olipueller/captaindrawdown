@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Abatable is a London-based carbon intelligence and procurement platform for the voluntary carbon market, providing RFP/RFQ tooling, pricing benchmarks across 10,000+ projects, and advisory services to corporate buyers. It is not a physical CDR supplier; it sits in the ecosystem as a broker/marketplace/intelligence provider spanning the VCM including engineered removals. Abatable has supported more than 200 corporate buyers on their carbon credit journeys, sourcing over one billion tonnes of CO2 and transacting 55 million tonnes of high-quality carbon credits.
 
-![Abatable website](/screenshots/v1-thumbnails/abatable.jpg)
+![Abatable website](/screenshots/abatable.png)
 
 ## Registry Memberships
 

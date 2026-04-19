@@ -23,7 +23,7 @@ liveliness: "🟡 Moderate"
 
 Preterra BioCarbon Solutions Ltd. is a Salt Spring Island, BC-based biochar company founded in 2022 that deploys German SP-SC pyrolysis kiln technology to convert BC wood waste (forest thinning slash, sawmill residues) into biochar. The biochar is sold as a soil amendment and is also formulated into a concrete admixture for long-term carbon storage in building materials.
 
-![Preterra website](/screenshots/preterra/2026-04-19.png)
+![Preterra website](/screenshots/preterra.png)
 
 
 ## History

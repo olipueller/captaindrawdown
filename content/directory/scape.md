@@ -23,7 +23,7 @@ liveliness: "🟡 Moderate"
 
 Scape Carbon is a Los Angeles-based startup founded in 2022 that develops modular coastal seawater reactors using olivine and other carbon-removing minerals to permanently store industrial CO2 as bicarbonate while recovering critical metals like nickel and chromium as co-products. The company (also known for its FlueVault system) has raised ~$500K pre-seed and is backed by investors including Wildcard Incubator, Anthropocene Ventures, E8, and Third Derivative's accelerator cohort.
 
-![Scape website](/screenshots/scape/2026-04-19.png)
+![Scape website](/screenshots/scape.png)
 
 
 ## History

@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 APChemi is an Indian pyrolysis technology company based in Navi Mumbai that designs and delivers biomass-to-biochar plants alongside plastic and tire pyrolysis systems. In April 2025 it co-founded BiocharIND with PRESPL and Intellecap, a JV aiming to be India's largest biochar-based carbon credit platform, with a first 10,000 MT/year facility in Punjab-Haryana projected to generate ~25,000 tCO2e of credits annually. The company also delivers large-scale biomass-to-biochar projects for metallurgical applications and is ISCC Plus certified.
 
-![APChemi website](/screenshots/apchemi/2026-04-19.png)
+![APChemi website](/screenshots/apchemi.png)
 
 
 ## History

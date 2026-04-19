@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 CarbonCapture Inc. is a Los Angeles-based direct air capture technology developer founded in 2019 that designs modular solid-sorbent DAC systems (Leo Series). Through its Canadian subsidiary True North Carbon, the company achieved "First Capture" on October 22, 2025 at Project Tamarack at Deep Sky Alpha in Innisfail, Alberta — Canada's largest single-technology DAC deployment, designed to remove up to 2,000 tonnes of CO2 per year. The company previously had its U.S. Project Bison (Wyoming) and DOE Regional DAC Hub funding cancelled, prompting a strategic pivot to Canada.
 
-![CarbonCapture Inc. website](/screenshots/v1-thumbnails/carboncapture-inc.jpg)
+![CarbonCapture Inc. website](/screenshots/carboncapture-inc.png)
 
 
 ## History

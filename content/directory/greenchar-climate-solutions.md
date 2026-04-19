@@ -23,7 +23,7 @@ liveliness: "🟡 Moderate"
 
 GreenChar Climate Solutions is a Singapore-incorporated biochar project developer operating across China and Southeast Asia that converts agricultural and organic waste into biochar and generates carbon removal credits under standards including Puro.Earth, Verra, Isometric, EBC, and CSI. The company partners with regional biochar producers, provides MRV and certification services, and acts as the bridge to international CDR credit buyers. It was incorporated in June 2024 and operates a B2B biochar marketplace alongside its credit business.
 
-![GreenChar Climate Solutions website](/screenshots/greenchar-climate-solutions/2026-04-19.png)
+![GreenChar Climate Solutions website](/screenshots/greenchar-climate-solutions.png)
 
 
 ## History

@@ -20,7 +20,7 @@ liveliness: "🟡 Moderate"
 
 Oraquel S.A. is a Warsaw-based direct air capture technology developer (referencing a Swiss "Oraquel Group") that builds modular, solar-powered DAC reactors using patented replaceable filters. In September 2025 Oraquel partnered with the city of Kielce to deploy Poland's first DAC pilot facility, rated at approximately 500 tCO2/year, under CEO Wojciech Mudyna.
 
-![Oraquel website](/screenshots/v1-thumbnails/oraquel.jpg)
+![Oraquel website](/screenshots/oraquel.png)
 
 
 ## History

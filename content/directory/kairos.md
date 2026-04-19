@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Kairos Carbon is a UK-based carbon dioxide removal startup (incorporated April 2024) developing advanced hydrothermal/supercritical water oxidation technology that processes wet organic wastes such as sewage sludge, livestock manure, and food waste into CO2, clean water, and recoverable minerals. The CO2 is intended for permanent geological sequestration, while phosphorus and other nutrients are recycled as fertilizer. The company has raised ~$770K pre-seed from Zero Carbon Capital, Innovate UK, Grantham Foundation, and others, received a Milkywire CTF purchase in 2025, and is in early pilot development.
 
-![Kairos website](/screenshots/kairos/2026-04-19.png)
+![Kairos website](/screenshots/kairos.png)
 
 
 ## History

@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 MASH Makes A/S is a Danish-Indian cleantech company spun out of the Technical University of Denmark in 2015 that operates containerised pyrolysis plants in Karnataka, India, converting agricultural waste into biochar, advanced biofuel, and carbon removal credits. In 2025 it launched Phase 2 of its Udupi facility (claimed as Asia's largest biochar carbon removal site), doubling capacity to 7,000 t biofuel and 14,000 t biochar per year, and was named to the 2026 Global Cleantech 100.
 
-![MASH Makes website](/screenshots/mash-makes/2026-04-19.png)
+![MASH Makes website](/screenshots/mash-makes.png)
 
 ## Registry Memberships
 

@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 NetZero is a French biochar company founded in 2021 and headquartered in Paris that produces biochar at industrial scale from tropical crop residues (coffee husks, cocoa pods, sugarcane). It operates four plants in Brazil plus its original Cameroon site, and in 2025 won $15M in the XPRIZE Carbon Removal competition and unveiled a next-generation 'Gen2' pyrolysis technology.
 
-![NetZero website](/screenshots/v1-thumbnails/netzero.jpg)
+![NetZero website](/screenshots/netzero.png)
 
 ## Registry Memberships
 

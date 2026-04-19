@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Biomass Projects is an Australian biochar developer behind the Mardie char project in Pilbara, Western Australia, which converts invasive mesquite biomass (a Weed of National Significance) into durable biochar using modular pyrolysis units. The company is an accredited Puro.earth CORC supplier partnered with Carbonfuture for dMRV and Residual for offtake/insurance/ratings, targeting 500,000 tonnes of annual CO2 removal by 2028. It also produces MetChar, a metallurgical biochar intended as a coal substitute in green steel production.
 
-![Biomass Projects website](/screenshots/biomass-projects/2026-04-19.png)
+![Biomass Projects website](/screenshots/biomass-projects.png)
 
 
 ## History

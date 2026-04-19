@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 Biorecro is a Stockholm-based BECCS project developer with 15+ years of experience integrating carbon capture into biomass power, CHP, pulp & paper, and bioenergy facilities. In September 2025 Biorecro and Gevo announced a $26M long-term carbon removal collaboration, and the company is also developing BECCS projects across Denmark and globally with partners including Carbon Clean, Sønderborg Varme, and Söderenergi.
 
-![Biorecro website](/screenshots/biorecro/2026-04-19.png)
+![Biorecro website](/screenshots/biorecro.png)
 
 
 ## History

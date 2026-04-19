@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Tau Carbon is a Cupertino, California-based CDR startup founded by John Lin and Amber Janda that removes atmospheric CO2 by preserving dry, densified wood waste in aboveground modular tanks to prevent decomposition. The company sells carbon removal credits under Puro.earth's Terrestrial Storage of Biomass methodology, using non-merchantable forest-thinning wood waste as feedstock. It is a founding member of the Carbon Business Council's Direct Storage of Biomass (DSB) Coalition launched in March 2026.
 
-![Tau Carbon website](/screenshots/tau-carbon/2026-04-19.png)
+![Tau Carbon website](/screenshots/tau-carbon.png)
 
 
 ## History

@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Airbuild is an early-stage US climate tech startup (Troy, NY / San Diego) that integrates microalgae cultivation with solar panels to treat wastewater and capture CO2, then pyrolyzes algal biomass plus local waste biomass into biochar for permanent carbon storage. The company is pre-commercial and advancing its first deployment on a 37-acre site in Green River, Utah, targeting rural municipalities with sewer-lagoon wastewater systems.
 
-![Airbuild website](/screenshots/airbuild/2026-04-19.png)
+![Airbuild website](/screenshots/airbuild.png)
 
 
 ## History

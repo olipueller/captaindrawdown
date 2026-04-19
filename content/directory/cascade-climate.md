@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 Cascade Climate is a philanthropically-backed US nonprofit (launched June 2023) that accelerates open-system CDR pathways, with an initial focus on enhanced rock weathering (ERW). It does not remove CO2 itself; instead it develops community quantification standards, tools like the Weathering Potential Explorer and ERW-MAC, the Data Quarry data-sharing platform, and funds ERW R&D and policy work. Backers include the Grantham Foundation, Quadrature Climate Foundation, Google, and Frontier.
 
-![Cascade Climate website](/screenshots/cascade-climate/2026-04-19.png)
+![Cascade Climate website](/screenshots/cascade-climate.png)
 
 ## Registry Memberships
 

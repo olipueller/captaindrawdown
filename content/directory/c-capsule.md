@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 C-Capsule is a carbon removal certification and registry service operated by Evident (the registry provider behind International Renewable Energy Certificates / I-RECs). It issues Carbon Removal Units (CRUs) — tradeable certificates representing verified, durable CO2 removal — and in 2024 partnered with Absolute Climate to adopt the Absolute Carbon Standard. C-Capsule itself does not remove CO2; it provides MRV/registry infrastructure to the CDR market.
 
-![C-Capsule website](/screenshots/c-capsule/2026-04-19.png)
+![C-Capsule website](/screenshots/c-capsule.png)
 
 
 ## History

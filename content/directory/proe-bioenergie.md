@@ -21,7 +21,7 @@ liveliness: "🟢 Active"
 
 ProE Bioenergie GmbH is a small German company based in Auenwald (founded 2006) that produces and distributes biochar products under the Carbio® brand and provides consulting on biochar, pyrolysis and renewable-energy projects. They supply EBC-certified and non-certified biochar for agriculture, animal husbandry, horticulture and industrial applications, with pyrolysis plants located in Bavaria and Mecklenburg-Vorpommern. Business orientation is primarily commercial biochar sales rather than issuing CDR carbon-removal credits at scale.
 
-![ProE Bioenergie website](/screenshots/proe-bioenergie/2026-04-19.png)
+![ProE Bioenergie website](/screenshots/proe-bioenergie.png)
 
 
 ## History

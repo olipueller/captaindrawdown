@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 CarbonConnect GmbH is a Hamburg-based biochar carbon removal project developer that trains smallholder farmers ("Climate Agents") in Africa to convert agricultural residues into biochar via flame-curtain pyrolysis. The company manages the full value chain from project design to MRV and sale of CDR certificates, with projects in Nigeria, Cameroon and Zimbabwe endorsed by Carbon Standards International.
 
-![CarbonConnect website](/screenshots/carbonconnect/2026-04-19.png)
+![CarbonConnect website](/screenshots/carbonconnect.png)
 
 
 ## History

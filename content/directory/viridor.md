@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Viridor is a UK resource recovery and recycling company operating the UK's largest fleet of energy-from-waste (EfW) facilities. It is developing the Runcorn CCS project, one of the world's first carbon capture projects on an EfW facility, targeting ~900,000 tCO2/yr of which roughly half is biogenic (~450,000 t/yr of negative emissions), tied into the HyNet cluster. FEED was completed in summer 2025 and the project is now being delivered in two phases, with preparatory-works planning applications pending decision in early 2026.
 
-![Viridor website](/screenshots/v1-thumbnails/viridor.jpg)
+![Viridor website](/screenshots/viridor.png)
 
 
 ## History

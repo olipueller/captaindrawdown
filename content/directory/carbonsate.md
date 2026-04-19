@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Carbonsate is a Berlin-based carbon removal supplier founded in 2023 that operates biomass storage projects in Namibia, Cameroon, Colombia, and Bulgaria. Its flagship Otjiwarongo Project in Namibia harvests encroaching bush biomass and stores it in sealed, oxygen-free underground pits, issuing its first 799 Puro.earth-certified credits in January 2026 as the 100th certified facility on the Puro Registry.
 
-![Carbonsate website](/screenshots/v1-thumbnails/carbonsate.jpg)
+![Carbonsate website](/screenshots/carbonsate.png)
 
 ## Registry Memberships
 

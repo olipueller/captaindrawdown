@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Chestnut Carbon is a New York-based developer of nature-based carbon removal credits, founded in 2022 with support from Kimmeridge. The company runs a large U.S. afforestation program (Chestnut Sustainable Restoration Project) and an Improved Forest Management program (Forest Carbon Works) on family-owned forestland and marginal crop/pastureland across the southeastern U.S. It has major offtake agreements with Microsoft and has raised significant equity and project financing in 2025.
 
-![Chestnut Carbon website](/screenshots/v1-thumbnails/chestnut-carbon.jpg)
+![Chestnut Carbon website](/screenshots/chestnut-carbon.png)
 
 ## Registry Memberships
 

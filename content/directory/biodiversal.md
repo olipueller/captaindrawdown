@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Biodiversal is a Colombian regenerative-agriculture company that partners with smallholder coffee farmers to produce biochar from coffee tree pruning residues. Through its Coffee Biochar Project launched in 2024 with Planboo, it generates durable carbon removal credits while improving soil health; it sold its first 1,500 CDR credits in early 2025 and engages roughly 300–1,600 farmers across Colombia.
 
-![Biodiversal website](/screenshots/biodiversal/2026-04-19.png)
+![Biodiversal website](/screenshots/biodiversal.png)
 
 
 ## History

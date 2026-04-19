@@ -23,7 +23,7 @@ liveliness: "🟡 Moderate"
 
 Clo Carbon Cymru Ltd is an active private limited company registered at Cwmcrymlyn, Bethlehem, Llandeilo, Wales, incorporated on 6 August 2021, classified under environmental consulting and natural-sciences R&D. It offers an alternative approach to the Welsh government's Sustainable Farming Scheme built around agroforestry biomass for biochar conversion, deep soil carbon sequestration, manure/slurry emissions reduction, and a Thermal Aerobic Carbon Production (TACP) process generating heat for farm buildings. Each CLOC is backed by laboratory-verified biochar with chain-of-custody tracking and mandatory biodiversity enhancement on participating farms.
 
-![Clo Carbon Cymru website](/screenshots/clo-carbon-cymru/2026-04-19.png)
+![Clo Carbon Cymru website](/screenshots/clo-carbon-cymru.png)
 
 
 ## History

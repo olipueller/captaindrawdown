@@ -23,7 +23,7 @@ liveliness: "🟠 Suspect"
 
 Precision Combustion, Inc. (PCI) is a North Haven, CT clean-energy R&D firm developing catalytic reactors, fuel processors, combustors, sorbents, and related technologies primarily under SBIR/STTR contracts with DoD, DOE, NASA, and EPA. Their DAC work is a low-temperature solid-sorbent research line leveraging waste and geothermal heat, funded via DOE SBIR awards and still at lab/bench demonstration scale. DAC is one of many parallel research programs (fuel cells, gas-turbine combustors, hydrogen, engine tech) and has not progressed to commercial CO2 removal.
 
-![Precision Combustion website](/screenshots/precision-combustion/2026-04-19.png)
+![Precision Combustion website](/screenshots/precision-combustion.png)
 
 
 ## History

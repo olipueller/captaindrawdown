@@ -23,7 +23,7 @@ liveliness: "🟡 Moderate"
 
 EcoGaia is a carbon project developer that develops and operates climate-positive infrastructure, including biochar-based carbon removal facilities in Argentina in partnership with Emisiones Neutras. In December 2025 it signed an offtake agreement with Altitude for more than 165,000 tonnes of biochar CORCs to be issued via the Puro Registry. The company has worked on 27+ projects across 15 countries spanning biochar, ARR, REDD+, Blue Carbon, cookstoves, and renewables.
 
-![EcoGaia website](/screenshots/ecogaia/2026-04-19.png)
+![EcoGaia website](/screenshots/ecogaia.png)
 
 
 ## History

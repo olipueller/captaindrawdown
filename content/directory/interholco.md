@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Interholco AG is a Swiss timber company (founded 1962) with HQ in Baar that manages 1.16 million hectares of FSC-certified tropical forest in the Republic of Congo via its IFO subsidiary. Through its biochar project, it converts sawmill residues into stable carbon, certified via EBC / Global C-Sink Registry, with production capacity of roughly 15,000 t CO2eq. While timber remains its core business, the biochar operation is an integrated CDR supplier activity.
 
-![Interholco website](/screenshots/v1-thumbnails/interholco.jpg)
+![Interholco website](/screenshots/interholco.png)
 
 
 ## History

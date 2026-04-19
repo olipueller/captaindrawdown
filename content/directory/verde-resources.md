@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Verde Resources Inc. (OTCQB: VRDR) is a St. Louis-based sustainable infrastructure company that produces BioAsphalt™, a road paving material incorporating engineered biochar into cold-mix asphalt to turn roads into durable carbon sinks. The company generated the first-ever Puro.earth-verified carbon removal credits from an asphalt application (8 tons at the NCAT Test Track), and has since signed a 10-year exclusive commercialization agreement with Ergon Asphalt & Emulsions and a supply/credit agreement with Biochar Solutions LLC for up to 38,500 tons/year of engineered biochar.
 
-![Verde Resources website](/screenshots/v1-thumbnails/verde-resources.jpg)
+![Verde Resources website](/screenshots/verde-resources.png)
 
 
 ## History

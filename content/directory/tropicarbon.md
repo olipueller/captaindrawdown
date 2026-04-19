@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 Tropicarbon, founded in 2023, is headquartered in Colombia and develops enhanced rock weathering projects that spread custom silicate rock blends on farmland while monitoring CO2 removal through proprietary MRV. Its Barranquilla Project, in collaboration with Universidad del Norte, represents the largest multi-soil experiment on EW in Latin America, studying soil samples from many locations in Colombia to map their potential for EW. The company aligns its work with leading carbon removal certifiers Isometric and Puro.Earth.
 
-![Tropicarbon website](/screenshots/v1-thumbnails/tropicarbon.jpg)
+![Tropicarbon website](/screenshots/tropicarbon.png)
 
 
 ## History

@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Dark Earth Carbon (DEC) is a Tanzanian biochar producer partnered with German offset provider atmosfair, operating a pyrolysis plant in Iringa that processes roughly 8,000 tonnes of wood residues per year. The company delivered what it describes as the first industrial biochar carbon removals in East Africa, with credits issued via the CSI Registry, and is planning a second plant in Mafinga.
 
-![Dark Earth Carbon website](/screenshots/v1-thumbnails/dark-earth-carbon.jpg)
+![Dark Earth Carbon website](/screenshots/dark-earth-carbon.png)
 
 
 ## History

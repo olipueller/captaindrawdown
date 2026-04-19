@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 goodcarbon is a Berlin-based platform founded in 2021 by Jérôme Cochet and David Diallo that helps companies build and manage carbon credit portfolios sourced from Nature-based Solutions projects. The company offers advisory, project development support, and a proprietary Nature Analytics Framework for assessing climate, biodiversity, and social impact, and has partnered with firms such as Bechtle and Swiss Re Corporate Solutions (on forward-credit insurance).
 
-![goodcarbon website](/screenshots/v1-thumbnails/goodcarbon.jpg)
+![goodcarbon website](/screenshots/goodcarbon.png)
 
 ## Registry Memberships
 

@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Pina Earth is a Munich-based forest carbon project developer that converts vulnerable German, Austrian, and Swiss monoculture stands into biodiverse, climate-resilient mixed forests using a proprietary simulation model and third-party certification (TÜV Nord, ISO 14064-2, eva Forest Climate Standard). In July 2025 it merged with Tree.ly to form what both companies describe as Europe's largest tech-enabled forest carbon platform, spanning six countries in the DACH region and Central Europe.
 
-![Pina Earth website](/screenshots/v1-thumbnails/pina-earth.jpg)
+![Pina Earth website](/screenshots/pina-earth.png)
 
 ## Registry Memberships
 

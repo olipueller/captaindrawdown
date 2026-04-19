@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 Clargreen Technologies is a Nigeria-based climate-smart agribusiness that converts palm kernel shells and black soldier fly frass into biochar-based organic fertilizer (branded CO₂ Savior) sold to smallholder farmers. The company plans to monetize carbon removal via Verra and Puro.earth standards and is operating in both Nigeria and the U.S., with the founder actively engaging the CDR community through AirMiners and Founder Institute.
 
-![Clargreen website](/screenshots/clargreen/2026-04-19.png)
+![Clargreen website](/screenshots/clargreen.png)
 
 
 ## History

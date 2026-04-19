@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Israel-based Rewind was founded in 2022 and is led by Ram Amar, Kobi Kaminitz, Eitan Brettler and a founding team of scientists and environmentalists. In October 2025 the company launched DMS Georgia, the world's first commercial deep mine carbon storage project, storing plant-based carbon in naturally oxygen-free underground environments 1.3 km underground in western Georgia, with capacity projected to reach 50,000 tons per year by 2027. Rewind also runs two Marine Anoxic Carbon Storage (MACS) initiatives, one in Romania and a second in the Mediterranean Sea in Israel.
 
-![Rewind website](/screenshots/v1-thumbnails/rewind.jpg)
+![Rewind website](/screenshots/rewind.png)
 
 
 ## History

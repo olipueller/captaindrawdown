@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 Desired Future Conditions, PBC (DFC) is a U.S. public benefit corporation producing premium in-woods biochar and nature-based carbon solutions for working forests in North America. The company partners with landowners to produce biochar from woody forest residues at in-woods production sites, selling physical biochar as an agricultural soil amendment and associated carbon removal credits while supporting sustainable forest management and wildfire resilience.
 
-![Desired Future Conditions website](/screenshots/v1-thumbnails/desired-future-conditions.jpg)
+![Desired Future Conditions website](/screenshots/desired-future-conditions.png)
 
 
 ## History

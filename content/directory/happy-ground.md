@@ -23,7 +23,7 @@ liveliness: "🟠 Suspect"
 
 Happy Ground is a Thailand-based biochar CDR developer working with smallholder farmers to turn agricultural residues (rice, sugarcane, rubber, oil palm, durian) into biochar-enhanced fertilizers, avoiding open-field burning and PM2.5 pollution. The company is developing a large-scale project engaging 10,000 farmers across 100,000 hectares, is in certification with Carbon Standards International, and targets Puro.earth-aligned verification. In late 2025 it launched its own biochar factory in Suphanburi and runs a three-year agronomic research program across multiple crop sites.
 
-![Happy Ground website](/screenshots/happy-ground/2026-04-19.png)
+![Happy Ground website](/screenshots/happy-ground.png)
 
 
 ## History

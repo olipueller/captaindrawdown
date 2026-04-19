@@ -23,7 +23,7 @@ liveliness: "🟡 Moderate"
 
 NuWa Solutions is dedicated to marine carbon dioxide removal (mCDR), based on transparent science, careful monitoring, and respect for coastal ecosystems and communities. The company's work centers on ocean alkalinity enhancement and blue carbon approaches for scientifically validated ocean-based CO2 removal. It is a Delaware-based, pre-credit supplier with public principles emphasizing removal-first verification and community consent.
 
-![NuWa Solutions website](/screenshots/v1-thumbnails/nuwa-solutions.jpg)
+![NuWa Solutions website](/screenshots/nuwa-solutions.png)
 
 
 ## History

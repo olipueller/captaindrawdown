@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Carbyon is a Dutch deep-tech startup founded in 2019 as a TNO spin-off, developing modular Direct Air Capture machines branded "Carbyon GO." It targets a cost of €100/ton via ultra-fast sorbent cycles and sells the technology to operators rather than running its own projects. The company unveiled its first outdoor demonstrator at High Tech Campus Eindhoven in September 2025 and closed a €15.3M Series A the same month.
 
-![Carbyon website](/screenshots/carbyon/2026-04-19.png)
+![Carbyon website](/screenshots/carbyon.png)
 
 
 ## History

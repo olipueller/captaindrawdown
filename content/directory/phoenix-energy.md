@@ -23,7 +23,7 @@ liveliness: "🟠 Suspect"
 
 Phoenix Energy is a California-based developer and operator of community-scale BECCS plants that gasify forestry and agricultural waste to produce renewable electricity, heat, and biochar. Its flagship North Fork Community Power plant (2 MW) is commissioning, the 3 MW Blue Mountain Electric Company plant is under construction, and a third project at Napa Recycling & Waste Services is planned. The company partners with Carbonfuture for carbon-removal credits and targets 50 plants over the next decade.
 
-![Phoenix Energy website](/screenshots/phoenix-energy/2026-04-19.png)
+![Phoenix Energy website](/screenshots/phoenix-energy.png)
 
 
 ## History

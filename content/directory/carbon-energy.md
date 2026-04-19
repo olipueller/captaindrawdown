@@ -23,7 +23,7 @@ liveliness: "🟡 Moderate"
 
 Carbon Energy (CarbonEnergy Inc.) is a seed-stage Daegu, South Korea-based startup founded in 2022 that is developing an electrochemical direct air capture process. The company claims a technology that simultaneously produces renewable energy/soda ash while removing CO2, with plans to either sequester or recycle the captured CO2. It remains a very small team (~4 employees) with limited public signal in the last 12 months.
 
-![Carbon Energy website](/screenshots/v1-thumbnails/carbon-energy.jpg)
+![Carbon Energy website](/screenshots/carbon-energy.png)
 
 
 ## History

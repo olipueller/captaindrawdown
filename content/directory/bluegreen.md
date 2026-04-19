@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 BlueGreen Water Technologies is a US-headquartered (Israel R&D) environmental technology company that remediates harmful algal blooms in freshwater bodies. It generates Net Blue carbon credits under the Social Carbon Foundation's SOCIALCARBON standard, with first issuance of ~12,913 tonnes in April 2024 and a Series B2 round in 2024 led by TAU Capital with OurCrowd. The company continues to publish peer-reviewed validation work as of late 2025.
 
-![BlueGreen website](/screenshots/bluegreen/2026-04-19.png)
+![BlueGreen website](/screenshots/bluegreen.png)
 
 
 ## History

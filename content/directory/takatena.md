@@ -20,7 +20,7 @@ liveliness: "🟡 Moderate"
 
 Takatena Biochar Solutions is a Kenya-based biochar producer based in Nanyuki that transforms organic waste into biochar, marketed as a circular waste hub. The company sells biochar online with explicit CO2-removal claims (e.g. 1000 kg biochar ≈ 3 t CO2 for $180). It operates as a small CDR supplier tied to waste-to-biochar conversion.
 
-![Takatena website](/screenshots/takatena/2026-04-19.png)
+![Takatena website](/screenshots/takatena.png)
 
 
 ## History

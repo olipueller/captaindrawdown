@@ -25,7 +25,7 @@ liveliness: "🟢 Active"
 
 CREW Carbon is a US-based CDR supplier, founded in 2022 by Joachim Katchinoff and Noah Planavsky, that adds alkaline minerals (such as limestone) to municipal wastewater treatment tanks, converting biogenic CO2 into dissolved bicarbonate that is then discharged to rivers and oceans. In May 2025 the company delivered the world's first verified Wastewater Alkalinity Enhancement (WAE) credits — 104.4 tonnes certified by Isometric — as the first installment of a 71,878-tonne, $32.1M offtake agreement with Frontier running 2025–2030. Its flagship project is integrated into the East Shore Water Pollution Abatement Facility in New Haven, Connecticut.
 
-![CREW Carbon website](/screenshots/v1-thumbnails/crew-carbon.jpg)
+![CREW Carbon website](/screenshots/crew-carbon.png)
 
 ## Registry Memberships
 

@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Residual is a UK-based carbon project developer that partners with industrials to design carbon projects that meet the bar for financiers, ratings, insurance, and offtake. It focuses on designing the methodology, MRV, and documentation needed to issue carbon credits that can generate revenue for biochar and BECCS projects using crop residues and mill waste. The firm sits in the CDR ecosystem as a project developer/structurer rather than operating removal technology directly.
 
-![Residual Carbon website](/screenshots/v1-thumbnails/residual-carbon.jpg)
+![Residual Carbon website](/screenshots/residual-carbon.png)
 
 
 ## History

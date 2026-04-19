@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Carbonaide is a Finnish VTT spin-out (founded 2022) that enables manufacturing of carbon-negative concrete via ex-situ mineralization, injecting biogenic CO₂ during concrete curing so calcium ions react to form stable carbonate minerals. The company raised €3.7M in January 2026 and is deploying commercial units with Lakan Betoni and Lipa-Betoni; its removals are certified by Isometric.
 
-![Carbonaide website](/screenshots/v1-thumbnails/carbonaide.jpg)
+![Carbonaide website](/screenshots/carbonaide.png)
 
 ## Registry Memberships
 

@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Founded in March 2021, Carbonapp is a mission-driven company that develops low-carbon projects in France and internationally. As a recognized agent, Carbonapp certifies projects according to the main standards (Label Bas-Carbone, Rainbow, Puro.earth, etc.) and connects them to committed financiers. The company partners with biochar producers such as Groupe BORDET, which it supports in Puro.earth certification of biochar production, and acts as an aggregator/broker for French carbon projects rather than physically removing CO2 itself.
 
-![Carbonapp website](/screenshots/v1-thumbnails/carbonapp.jpg)
+![Carbonapp website](/screenshots/carbonapp.png)
 
 
 ## History

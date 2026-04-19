@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Hafslund Celsio is Norway's largest district heating supplier and operator of the Klemetsrud waste-to-energy plant in Oslo, owned by Hafslund (60%), Infranode (20%) and HitecVision (20%). It is developing a flagship full-scale BECCS project under Norway's Longship program, which reached FID in January 2025 (NOK 9.5 billion) and is targeted to be operational in 2029, capturing up to ~350,000–400,000 tonnes CO2/year with ~60% biogenic share. The project has secured major CDR offtake agreements with Microsoft (1.1 Mt over 10 years) and Frontier (100,000 t).
 
-![Hafslund Celsio website](/screenshots/hafslund-celsio/2026-04-19.png)
+![Hafslund Celsio website](/screenshots/hafslund-celsio.png)
 
 
 ## History

@@ -23,7 +23,7 @@ liveliness: "🟡 Moderate"
 
 Carbon Sequestration Inc. (CSI) is a Houston, Texas-based CDR supplier founded by CEO Christopher Knop that buries woody biomass waste in engineered underground clay vaults to sequester carbon long-term. The company has completed pilot credit sales (1,100 tCO₂ delivered from its 2022 pilot at $126/ton) and references biochar and terrestrial storage of biomass (TSB) as its core pathways. CSI also restores flood-prone and degraded sites above its vaults as a co-benefit.
 
-![Carbon Sequestration Inc website](/screenshots/v1-thumbnails/carbon-sequestration-inc.jpg)
+![Carbon Sequestration Inc website](/screenshots/carbon-sequestration-inc.png)
 
 
 ## History

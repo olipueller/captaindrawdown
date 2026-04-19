@@ -21,7 +21,7 @@ liveliness: "🟢 Active"
 
 Inherit Carbon Solutions is a Norwegian carbon removal company founded in 2021 and based in Oslo that develops carbon removal projects from organic waste to geological storage and delivers verified carbon removal credits to buyers including Microsoft, DNV and Nordea. In March 2026 it launched what is claimed as the world's first BECCS project storing biogenic CO2 from a wastewater biogas facility: CO2 captured at the Veas plant in Slemmestad is liquefied, trucked to Northern Lights' Øygarden terminal, and piped to storage 2,600 metres below the seabed. Credits are certified through the Puro.earth registry.
 
-![Inherit website](/screenshots/v1-thumbnails/inherit.jpg)
+![Inherit website](/screenshots/inherit.png)
 
 
 ## History

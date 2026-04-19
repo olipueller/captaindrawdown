@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 PlantVillage+ is a worker cooperative originating from Penn State's PlantVillage project that deploys solar-powered "PyroTower" pyrolysis units in African farming communities (Kenya, Uganda, Burkina Faso) to convert agricultural waste biomass into biochar. The coop sells durable carbon removal credits via subscription, passing 95% of revenue to worker-farmers, and uses AI/satellite tools to monitor sequestration. It was a $1M milestone winner in the XPRIZE Carbon Removal Competition.
 
-![PlantVillage+ website](/screenshots/plantvillage/2026-04-19.png)
+![PlantVillage+ website](/screenshots/plantvillage.png)
 
 
 ## History

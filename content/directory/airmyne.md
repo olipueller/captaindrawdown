@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 AirMyne is a Berkeley, California-based DAC startup launched in May 2022 out of Y Combinator, founded by Sudip Mukhopadhyay and Mark Cyffka, who bring combined experience in the chemicals industry. The technology uses fans to pull air through a contactor where a proprietary liquid chemistry binds CO2, then pumps the CO2-rich solvent to a stripping column where low-pressure steam releases high-purity CO2. AirMyne is planning its initial DeltaDAC project for deployment at the Port of Stockton with support from the California Energy Commission.
 
-![AirMyne website](/screenshots/airmyne/2026-04-19.png)
+![AirMyne website](/screenshots/airmyne.png)
 
 ## Registry Memberships
 

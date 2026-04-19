@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 Everest Carbon is a San Francisco- and Linz, Austria-based carbon removal measurement company that builds a patent-pending, in-field alkalinity sensor for Enhanced Rock Weathering (ERW) projects. Originally founded in late 2022 as an ERW project developer, it pivoted in early 2024 to commercialize MRV hardware/software that aims to cut measurement costs by over 90%, selling to ERW project developers.
 
-![Everest Carbon website](/screenshots/v1-thumbnails/everest-carbon.jpg)
+![Everest Carbon website](/screenshots/everest-carbon.png)
 
 ## Registry Memberships
 

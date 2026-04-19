@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Telge Återvinning is a municipal waste management and recycling subsidiary of Telge AB, serving Södertälje municipality since 1998 with household and commercial waste collection and processing. In spring 2021 it installed Sweden's first CharMaker MPP unit from Australia and now converts roughly 2,000 tonnes of branches, twigs and Christmas trees into about 300 tonnes of biochar annually. The project was installed and commissioned in 2020 and registered for C-sink credits in 2021.
 
-![Telge Återvinning website](/screenshots/telge-återvinning/2026-04-19.png)
+![Telge Återvinning website](/screenshots/telge-återvinning.png)
 
 
 ## History

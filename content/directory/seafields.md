@@ -23,7 +23,7 @@ liveliness: "🟠 Suspect"
 
 Seafields is a UK-based aquaculture company that intercepts and farms pelagic Sargassum seaweed in floating AlgaePonix paddocks, primarily deployed in the Caribbean. The company valorises the biomass into biostimulants, bioplastics and other bio-products, with unsold pulp converted to biochar and plans to sink baled Sargassum in ocean gyres for carbon removal.
 
-![Seafields website](/screenshots/v1-thumbnails/seafields.jpg)
+![Seafields website](/screenshots/seafields.png)
 
 
 ## History

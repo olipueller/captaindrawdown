@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 Atoco is a California-based deep-tech startup founded in 2020 by Professor Omar Yaghi (2025 Nobel laureate in Chemistry) that commercializes metal-organic frameworks (MOFs) and covalent organic frameworks (COFs) for carbon capture and atmospheric water harvesting. The company develops solid-state modules for both direct air capture and post-combustion capture, targeting substantially lower energy and cost than incumbent sorbent technologies.
 
-![Atoco website](/screenshots/atoco/2026-04-19.png)
+![Atoco website](/screenshots/atoco.png)
 
 ## Registry Memberships
 

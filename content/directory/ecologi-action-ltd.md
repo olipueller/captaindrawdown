@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Ecologi Action Ltd (trading as Ecologi) is a UK-based all-in-one climate action platform and carbon credit marketplace for businesses, founded in 2019 and headquartered in Bristol/London. It resells a portfolio of verified carbon avoidance, reforestation, habitat restoration, and removal credits (including biochar and enhanced weathering projects) to 20,000+ business customers. It is a marketplace/broker rather than a physical CDR supplier.
 
-![Ecologi Action Ltd website](/screenshots/ecologi-action-ltd/2026-04-19.png)
+![Ecologi Action Ltd website](/screenshots/ecologi-action-ltd.png)
 
 
 ## History

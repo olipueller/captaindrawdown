@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 Carbuna AG is a Memmingen, Germany-based biochar processing and trading company founded in 2015. It sources raw biochar from EBC-certified European producers, conditions/refines it (milling, pelletizing, blending) into agricultural and building-material products, and sells biochar carbon removal (BCR) credits via Carbonfuture's marketplace. The company positions itself as a platform connecting biochar producers to end markets across Europe.
 
-![Carbuna website](/screenshots/carbuna/2026-04-19.png)
+![Carbuna website](/screenshots/carbuna.png)
 
 
 ## History

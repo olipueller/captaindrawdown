@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 Arca Climate Technologies Inc., headquartered in Vancouver, BC, is a UBC spin-off that repurposes alkaline industrial waste — primarily ultramafic mine tailings — to permanently mineralize atmospheric CO2 into solid carbonate rock. The company completed an 18-month demonstration pilot at BHP's Mt. Keith nickel mine in Western Australia, holds a DNV-validated ISO 14064-2 methodology, and in January 2026 signed a 10-year exclusive tailings access agreement with Giga Metals at the Turnagain Nickel Project in BC. Arca has received funding from NRCan, CICE, MICA, and InBC, and announced a Microsoft carbon removal offtake in October 2025.
 
-![Arca website](/screenshots/arca/2026-04-19.png)
+![Arca website](/screenshots/arca.png)
 
 ## Registry Memberships
 

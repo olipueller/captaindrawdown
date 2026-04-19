@@ -23,7 +23,7 @@ liveliness: "🟡 Moderate"
 
 LightNET Carbon Capture (LNCC) is a Barcelona-based ICN2/CSIC spin-off commercializing accelerated ex-situ CO2 mineralization technologies for point-source and DAC applications. Pilots include a CO2atings® mortar test with SACYR on a Barcelona construction site and the Esco2rias project with CELSA Group to mineralize CO2 in steelmaking slags. In November 2025 CSIC formally joined as a shareholder, and the company was a SteelTech Awards 2025 startup finalist.
 
-![LightNET Carbon Capture website](/screenshots/lightnet-carbon-capture/2026-04-19.png)
+![LightNET Carbon Capture website](/screenshots/lightnet-carbon-capture.png)
 
 
 ## History

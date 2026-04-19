@@ -22,7 +22,7 @@ liveliness: "🟠 Suspect"
 
 Carbon Kapture is a UK startup that has partnered with shellfish farmers to establish seaweed farms focused on carbon sequestration, starting with its first farm in Mulroy Bay, County Donegal, Ireland. The kelp is harvested, dried and processed into biochar, which is then spread on agricultural land, and carbon credits are sold on this basis; since 2022 the company has established 12 farms across Ireland, Spain, Portugal, the UK and France.
 
-![Carbon Kapture website](/screenshots/v1-thumbnails/carbon-kapture.jpg)
+![Carbon Kapture website](/screenshots/carbon-kapture.png)
 
 
 ## History

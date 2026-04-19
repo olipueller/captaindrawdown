@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 Cultivo is a California-based nature-tech platform that develops and operates large-scale natural capital projects, primarily U.S. grasslands regeneration for soil carbon removal, along with afforestation/reforestation, agroforestry, improved forest management, mangrove restoration, and biochar. The company uses proprietary remote-sensing and modeling technology, packages projects into investment products, and partners with institutional investors such as Octopus Energy Generation ($100M commitment as of March 2026). Cultivo acquired grasslands developer Kateri in December 2025 and has enrolled over 650,000 acres targeting ~9 Mt CO2e of removals over 30 years.
 
-![Cultivo website](/screenshots/cultivo/2026-04-19.png)
+![Cultivo website](/screenshots/cultivo.png)
 
 ## Registry Memberships
 

@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 AirZyme is a Stockholm, Sweden-based climate tech company (founded 2022) developing biotechnology and material-science-based carbon removal solutions, positioning itself as a supplier for gigaton-scale carbon management. The company combines biotechnology and material sciences to create "Bio-DAC," a biomimetic Direct Air Capture system inspired by lung gas exchange, using Carbonic Anhydrase enzymes to capture CO₂ in a low-energy loop. It has been supported by a Vinnova "Acceleration of Deep Tech Companies" grant of up to SEK 4 million for biomimetic CDR development and was selected for the remove CDR accelerator (Cohort 4) and Baker Hughes Energy Ideas program.
 
-![AirZyme website](/screenshots/airzyme/2026-04-19.png)
+![AirZyme website](/screenshots/airzyme.png)
 
 ## Registry Memberships
 

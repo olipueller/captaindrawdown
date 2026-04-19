@@ -20,7 +20,7 @@ liveliness: "🟡 Moderate"
 
 The Italian Carbon Removal Network (Rete Italiana Rimozione Carbonio, RIRC) is Italy's first dedicated national carbon removal industry network, launched on 14 April 2026 in Padova during Padova Climate Action Week in collaboration with the Negative Emissions Platform (NEP). It serves as a coordinating industry body connecting supply and demand players in the Italian CDR sector, promoting governance and aligning efforts with EU carbon removal policy — analogous to France's AFEN, Germany's DVNE, and the Nordic NCRA.
 
-![Italian Carbon Removal Network website](/screenshots/italian-carbon-removal-network/2026-04-19.png)
+![Italian Carbon Removal Network website](/screenshots/italian-carbon-removal-network.png)
 
 
 ## History

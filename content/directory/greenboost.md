@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 GreenBoost is an Italian consultancy offering carbon removal project due diligence, decarbonization advisory, and ESG services for investors and corporates. They source and assess high-quality CO2 removal projects rather than operating CDR facilities themselves.
 
-![GreenBoost website](/screenshots/greenboost/2026-04-19.png)
+![GreenBoost website](/screenshots/greenboost.png)
 
 
 ## History

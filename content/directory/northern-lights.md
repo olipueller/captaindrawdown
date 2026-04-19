@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Northern Lights is a joint venture of Equinor, Shell, and TotalEnergies providing commercial CO2 transport and permanent geological storage as a service from its Øygarden, Norway terminal, injecting CO2 2,600 m below the North Sea seabed. It began operations in August 2025 and has BECCS removal contracts with Stockholm Exergi (900kt/yr biogenic CO2 from 2028) and Ørsted alongside industrial CCS customers (Heidelberg Materials, Yara, Celsio). Phase 2 FID (March 2025) expands capacity from 1.5 to >5 Mt CO2/yr from 2028.
 
-![Northern Lights website](/screenshots/northern-lights/2026-04-19.png)
+![Northern Lights website](/screenshots/northern-lights.png)
 
 
 ## History

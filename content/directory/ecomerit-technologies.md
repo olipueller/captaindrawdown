@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 Ecomerit Technologies is a Santa Barbara, California-based marine renewable energy product design studio and laboratory, founded in 2010 by Jim and Brent Dehlsen. Alongside their Aquantis marine current turbines, Anacapa wave energy generators, and SeaWell desalination buoys, they are developing the Precipitor — a wind-powered system mounted on offshore platforms that uses electrolysis of seawater to precipitate CO2 directly from the atmosphere while reducing ocean acidity. The CDR work is at the R&D/prototype stage within a broader marine-tech portfolio.
 
-![Ecomerit Technologies website](/screenshots/v1-thumbnails/ecomerit-technologies.jpg)
+![Ecomerit Technologies website](/screenshots/ecomerit-technologies.png)
 
 
 ## History

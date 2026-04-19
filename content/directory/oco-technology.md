@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 O.C.O Technology is a UK-based carbon mineralization supplier headquartered in Brandon, Suffolk, operating multiple aggregate manufacturing facilities (Brandon, Avonmouth, Leeds) that use Accelerated Carbonation Technology (ACT) to react CO2 with air pollution control residues from energy-from-waste plants, producing carbon-negative manufactured limestone (M-LS) aggregate for construction. They sell verified carbon removal credits via Puro.earth and have signed offtake agreements with buyers including Rothschild & Co and Swiss Re. A subsidiary of Grundon Waste Management, they are also partnering with Repsol on a Spanish plant and licensing the technology internationally.
 
-![O.C.O Technology website](/screenshots/v1-thumbnails/o-c-o-technology.jpg)
+![O.C.O Technology website](/screenshots/oco-technology.png)
 
 ## Registry Memberships
 

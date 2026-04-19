@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Fiora Mara is an early-stage US (New York) startup founded in 2024 that cultivates seaweed (macroalgae such as kelp) on biodegradable ocean farms and sinks the biomass to the deep ocean for long-term carbon sequestration. The company emerged from the ClimateBase Fellowship and has since joined accelerators including AirMiners Launchpad and VentureWell, and launched its first seaweed farm with the RETI Center.
 
-![Fiora Mara website](/screenshots/fiora-mara/2026-04-19.png)
+![Fiora Mara website](/screenshots/fiora-mara.png)
 
 
 ## History

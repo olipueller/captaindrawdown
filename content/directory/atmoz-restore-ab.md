@@ -21,7 +21,7 @@ liveliness: "🟡 Moderate"
 
 Atmoz Restore AB is the carbon-credit/offset arm of the Swedish Atmoz group (parent Atmoz AB, Stockholm), which provides carbon management software and consulting. Atmoz Restore curates and resells a portfolio of third-party climate projects — both carbon removal (e.g. biochar via Creturner, Boreal Mix Swedish forestry) and avoidance credits — to corporate customers, and retires credits on their behalf. It is a broker/reseller, not a CDR project developer.
 
-![Atmoz Restore AB website](/screenshots/atmoz-restore-ab/2026-04-19.png)
+![Atmoz Restore AB website](/screenshots/atmoz-restore-ab.png)
 
 
 ## History

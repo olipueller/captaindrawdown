@@ -22,7 +22,7 @@ liveliness: "🟠 Suspect"
 
 Ørsted is a Danish renewable energy utility developing the Ørsted Kalundborg CO2 Hub, a BECCS project capturing biogenic CO2 from its wood-chip-fired Asnæs and straw-fired Avedøre CHP plants for permanent subsea storage via Northern Lights in the Norwegian North Sea. The project was awarded a 20-year contract by the Danish Energy Agency in 2023 and is expected to be operational in early 2026, capturing 430,000 tonnes of biogenic CO2 annually. Ørsted has signed major offtake agreements including 3.67 Mt with Microsoft.
 
-![Orsted website](/screenshots/v1-thumbnails/orsted.jpg)
+![Orsted website](/screenshots/orsted.png)
 
 ## Registry Memberships
 

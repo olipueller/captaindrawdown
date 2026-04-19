@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 FETZER Rohstoffe + Recycling GmbH is a German recycling company in Eislingen that has produced Moola biochar since 2013, a pioneer of industrial biochar production in Germany. Three pyrolysis plants produce about 1,500 m³ of biochar per year and their waste heat is reused in the recycling facility. Products are EBC-AgroBio and EBC-Csink certified and sold as soil amendment, feed additive, bedding, and biogas input.
 
-![FETZER Rohstoffe + Recycling website](/screenshots/fetzer-rohstoffe-recycling/2026-04-19.png)
+![FETZER Rohstoffe + Recycling website](/screenshots/fetzer-rohstoffe-recycling.png)
 
 ## Registry Memberships
 

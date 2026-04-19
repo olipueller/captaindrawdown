@@ -21,7 +21,7 @@ liveliness: "🟢 Active"
 
 TerraWatt SAS is a French startup (founded 2014, based in Meslay-du-Maine) developing a combined pyrolysis and biological methanation process that converts green waste, wood and non-fermentable biomass into biochar plus grid-injectable biomethane. The biochar is sold as a soil amendment, sequestering carbon for hundreds of years, while syngas is biologically converted to renewable gas. The company participates in EU-funded projects including SEMPRE-BIO and FENIX.
 
-![TerraWatt website](/screenshots/v1-thumbnails/terrawatt.jpg)
+![TerraWatt website](/screenshots/terrawatt.png)
 
 
 ## History

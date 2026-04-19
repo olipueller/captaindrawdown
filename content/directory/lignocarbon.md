@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 LignoCarbon Schweiz AG is a Swiss biochar producer based in Illnau-Effretikon (Zurich), founded in 2020 as a subsidiary of ZürichHolz AG. It operates what is described as Switzerland's largest wood-chip pyrolysis plant, producing EBC-certified biochar from local wood chips, with waste heat fed into a district heating network.
 
-![LignoCarbon website](/screenshots/lignocarbon/2026-04-19.png)
+![LignoCarbon website](/screenshots/lignocarbon.png)
 
 
 ## History

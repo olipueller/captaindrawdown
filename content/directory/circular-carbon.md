@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Circular Carbon GmbH is a Hamburg/Straubing-based German biochar producer founded in 2018 and a subsidiary of econnext AG. It operates a first-of-its-kind industrial pyrolysis plant on Hamburg's Peute island that carbonizes cocoa shells into biochar while supplying process steam to a neighboring cocoa producer, and is developing additional CarbonHub facilities.
 
-![Circular Carbon website](/screenshots/circular-carbon/2026-04-19.png)
+![Circular Carbon website](/screenshots/circular-carbon.png)
 
 ## Registry Memberships
 

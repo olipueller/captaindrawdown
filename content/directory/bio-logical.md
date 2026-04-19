@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 Bio-Logical is a Kenya-based climate tech company producing biochar from agricultural waste for carbon removal and soil regeneration. Its Kabati facility, claimed to be Africa's largest biochar plant, can produce up to 5,000 tonnes of biochar and 24,000 tonnes of compost annually, and the company supplies biochar credits to Microsoft under a 2023 offtake. It is listed on the Puro.earth registry and is expanding with plans for three additional Kenyan sites.
 
-![Bio-Logical website](/screenshots/v1-thumbnails/bio-logical.jpg)
+![Bio-Logical website](/screenshots/bio-logical.png)
 
 ## Registry Memberships
 

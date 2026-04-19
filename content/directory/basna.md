@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 Basna is a Swiss company, founded in 2010 and headquartered in Čačak, Serbia, engaged in the conversion of biomass into heat and high quality charcoal. It has been EBC certified since 2016, producing customized biochar products with extra long pores and high carbon content, optimized for improved milk production and anaerobic digesters. It is a small family-run operation (LinkedIn shows ~2 employees) that was previously listed on Puro.earth, though the specific CORC listing page now returns 404.
 
-![Basna website](/screenshots/v1-thumbnails/basna.jpg)
+![Basna website](/screenshots/basna.png)
 
 ## Registry Memberships
 

@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 NeoCarbon GmbH is a Berlin-based climate tech company founded in January 2022 by René Haas and Silvain Toromanoff that focuses on making Direct Air Capture cost-effective and scalable by retrofitting existing industrial infrastructure. Its core business involves developing and installing modular DAC units that integrate with existing industrial sites, leveraging waste heat and airflow from infrastructure like cooling towers to lower the energy costs typically associated with DAC. The firm offers product modules such as the NeoDuo (5 tons CO₂/year) and NeoCore (62.5 tons/year).
 
-![NeoCarbon website](/screenshots/v1-thumbnails/neocarbon.jpg)
+![NeoCarbon website](/screenshots/neocarbon.png)
 
 ## Registry Memberships
 

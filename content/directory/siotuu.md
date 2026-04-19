@@ -20,7 +20,7 @@ liveliness: "🟠 Suspect"
 
 SIOTUU GmbH is an Austrian biochar producer based in Landeck/Fließ that converts residual wood from the Austrian Alps into biochar using Syncraft pyrolysis technology. Products are marketed under the Alpenkohle brand for barbecue, agricultural, construction and metallurgical applications, and carbon removal credits are distributed through partners including Klimate and featured at European Bioenergy Future 2024.
 
-![SIOTUU website](/screenshots/v1-thumbnails/siotuu.jpg)
+![SIOTUU website](/screenshots/siotuu.png)
 
 
 ## History

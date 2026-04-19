@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 ARC (Amager Resource Center) is a Danish inter-municipal waste management company that owns and operates the Amager Bakke (CopenHill) waste-to-energy plant in Copenhagen. Through its CopenCapture partnership with E.ON, ARC is developing a full-scale CCS facility targeting up to 400,000–500,000 tonnes of CO2/year, with the biogenic share qualifying as BECCS and sellable as Carbon Removal Credits. The project is contingent on Denmark's CCS funding scheme, with prequalification submitted in March 2025.
 
-![ARC website](/screenshots/arc/2026-04-19.png)
+![ARC website](/screenshots/arc.png)
 
 
 ## History

@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 BioC is a Singapore-based biochar carbon removal supplier operating PyroCCS pyrolysis facilities that convert biomass into biochar, reformed bio-oil, syngas and clean energy. The company sells certified CDR credits (via registries such as Carbon Standards International and Isometric) alongside engineered biocarbon products for industrial/metallurgical use, and runs its own Sarva Carbon dMRV software stack. It develops projects primarily in the Global South, including Namibia via its PyroNam subsidiary.
 
-![BioC website](/screenshots/v1-thumbnails/bioc.jpg)
+![BioC website](/screenshots/bioc.png)
 
 
 ## History

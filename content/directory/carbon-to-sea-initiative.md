@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Carbon to Sea Initiative is a non-profit research and development effort launched in June 2023 that has raised over $50 million from philanthropic funders to accelerate research into ocean alkalinity enhancement (OAE), and has committed more than $23 million in grants to a network of researchers. The initiative is systematically evaluating OAE as a climate solution through grant making and direct programs, and is the leading philanthropic funder of OAE research without commercial interests. It sits in the CDR ecosystem as a funder/convener rather than a supplier.
 
-![Carbon to Sea Initiative website](/screenshots/carbon-to-sea-initiative/2026-04-19.png)
+![Carbon to Sea Initiative website](/screenshots/carbon-to-sea-initiative.png)
 
 
 ## History

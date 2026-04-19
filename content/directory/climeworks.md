@@ -25,7 +25,7 @@ liveliness: "🟢 Active"
 
 Swiss-based Climeworks is the most visible name in direct air capture, using modular systems that pull CO2 from the air with fans and solid filters; its Orca plant in Iceland captures 4,000 tons of CO2 per year and the newer Mammoth facility scales capacity to 36,000 tons annually. The company combines DAC technology with holistic carbon removal solutions, offering an end-to-end enterprise service with tailored portfolios of nature-based and engineered solutions. In February 2026, Climeworks established its Canadian headquarters in Calgary, with a mobile test facility expected to begin gathering real-time performance data in Fall 2026 ahead of building a larger-scale commercial DAC plant.
 
-![Climeworks website](/screenshots/climeworks/2026-04-19.png)
+![Climeworks website](/screenshots/climeworks.png)
 
 ## Registry Memberships
 

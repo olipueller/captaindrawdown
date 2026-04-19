@@ -21,7 +21,7 @@ liveliness: "🟠 Suspect"
 
 Circularity2 is a Minneapolis, Minnesota-based biochar producer founded in 2022. In August 2025, the company announced plans to construct a flagship biochar facility on a 24-acre site at the Cross City Industrial Park in Dixie County, Florida, using woody biomass residuals from regional forestry and sawmill operations. The company sells biocarbon products and biochar-based carbon removal credits targeting hard-to-decarbonize industries including steel, cement, and agriculture.
 
-![Circularity2 website](/screenshots/circularity2/2026-04-19.png)
+![Circularity2 website](/screenshots/circularity2.png)
 
 
 ## History

@@ -20,7 +20,7 @@ liveliness: "🟡 Moderate"
 
 KohleHelden GmbH & Co. KG is a family-run biochar producer based in Zierenberg, North Hesse, Germany. They use a BIOMACON pyrolysis unit to convert regional wood chips into EBC- and GMP+-certified plant charcoal (Pflanzenkohle) and feed charcoal (Futterkohle) for agriculture, livestock, and soil applications. Products are sold directly through their webshop and Amazon.de.
 
-![KohleHelden website](/screenshots/kohlehelden/2026-04-19.png)
+![KohleHelden website](/screenshots/kohlehelden.png)
 
 
 ## History

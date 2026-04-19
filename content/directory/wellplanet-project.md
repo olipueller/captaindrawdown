@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 WellPlanet Project is a US (Florida)-based early-stage initiative that aspires to build a solar- and geothermal-powered direct air capture and sequestration facility with a stated goal of removing up to 10 Mt CO2 per year via deep underground geologic storage. Public content dates to 2022 and the project appears to still be in fundraising/concept phase with no evidence of an operational facility, recent news, or deliveries.
 
-![WellPlanet Project website](/screenshots/wellplanet-project/2026-04-19.png)
+![WellPlanet Project website](/screenshots/wellplanet-project.png)
 
 
 ## History

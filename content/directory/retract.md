@@ -22,7 +22,7 @@ liveliness: "🟡 Moderate"
 
 Retract is a Boulder, Colorado-based startup positioning itself as a developer, constructor, and operator of direct air capture and sequestration facilities. The company is very small (2-10 employees per LinkedIn) with a minimal website and no public news, funding announcements, project milestones, or registry activity found in search. Operational status is unclear.
 
-![Retract website](/screenshots/v1-thumbnails/retract.jpg)
+![Retract website](/screenshots/retract.png)
 
 
 ## History

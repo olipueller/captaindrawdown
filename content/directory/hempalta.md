@@ -23,7 +23,7 @@ liveliness: "🟡 Moderate"
 
 Hempalta Corp. (TSXV: HEMP) is a Calgary-based publicly listed climate-tech company that in 2025 wound down its in-house hemp processing and biochar production to focus exclusively on nature-based carbon removal credits through its wholly-owned subsidiary Hemp Carbon Standard (HCS). HCS operates an ISO 14064-2-certified methodology combining industrial hemp cultivation, biochar application, and AI/satellite MRV across farms in Canada, USA, UK, Ukraine, Sweden, Germany and Australia, with credits sold via Cloverly, brokers, and its proprietary Trusted Carbon registry. The company verified 29,448 tonnes of CO₂ credits for the 2024 season and has ~14,000 acres under management for 2025, though it is navigating going-concern risk, a Farm Credit Canada forbearance, and a November 2025 $2M private placement plus share consolidation.
 
-![HEMPALTA website](/screenshots/hempalta/2026-04-19.png)
+![HEMPALTA website](/screenshots/hempalta.png)
 
 
 ## History

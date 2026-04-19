@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Ocean Nourishment Corporation (ONC) is an Australian company incorporated in 2004 to develop Ocean Nourishment technology for marine carbon dioxide removal. Its technology combines scientific research with precision nutrient balancing via PhytoPlus, a proprietary biostimulant deployed from ships or offshore platforms to boost phytoplankton growth and carbon storage. It was selected as a Top 100 Global Carbon Removal Innovator in the 2024 XPRIZE Carbon Removal Competition.
 
-![Ocean Nourishment Corporation website](/screenshots/v1-thumbnails/ocean-nourishment-corporation.jpg)
+![Ocean Nourishment Corporation website](/screenshots/ocean-nourishment-corporation.png)
 
 
 ## History

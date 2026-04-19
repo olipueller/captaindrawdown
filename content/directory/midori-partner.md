@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 Midori Climate Partner Pte. Ltd. is a Singapore-based carbon credit developer specializing in biochar carbon removal and ecosystem restoration projects across Southeast Asia (Cambodia, Thailand, Vietnam, Malaysia). It closed a pre-seed round led by Tokio Marine Holdings in early 2025 and is launching its first biochar project in Cambodia targeting >10,000 tCO2e of durable CDR.
 
-![Midori Partner website](/screenshots/v1-thumbnails/midori-partner.jpg)
+![Midori Partner website](/screenshots/midori-partner.png)
 
 ## Registry Memberships
 

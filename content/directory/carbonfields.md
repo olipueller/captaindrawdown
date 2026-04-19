@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Carbon Fields is a Spain-based biochar company that converts biomass waste into biochar and bioproducts for agriculture and industry. Led by CEO Eric Suñol (Madrid), the company is a member of the European Biochar Industry Consortium and participates in EU research projects such as FENIX and PYRAH2.
 
-![CarbonFields website](/screenshots/v1-thumbnails/carbonfields.jpg)
+![CarbonFields website](/screenshots/carbonfields.png)
 
 
 ## History

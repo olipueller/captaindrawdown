@@ -24,7 +24,7 @@ liveliness: "🟢 Active"
 
 Carbon Time is a Paris, France–based startup founded in 2021 and led by CEO Ivan Communod that develops ocean alkalinity enhancement (OAE) approaches for carbon dioxide removal. Its initial focus is alkalinization via olivine rock weathering, alongside electrochemical approaches compatible with coastal industries such as desalination or water-treatment plants. The company was seed-financed by the Team for the Planet citizen-investor movement and has contributed to scientific OAE publications (e.g. mesocosm chapters of the Gattuso-led OAE guide presented at COP28).
 
-![Carbon Time website](/screenshots/v1-thumbnails/carbon-time.jpg)
+![Carbon Time website](/screenshots/carbon-time.png)
 
 ## Registry Memberships
 

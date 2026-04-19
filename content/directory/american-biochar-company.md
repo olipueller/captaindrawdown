@@ -21,7 +21,7 @@ liveliness: "🟡 Moderate"
 
 American BioChar Company sells biochar-based soil amendments under the NAKED Char and VITAL Blend brands, marketed to growers, arborists, and agricultural users. The company explicitly states it does not manufacture biochar itself but sources it from a producer using Southern Yellow Pine feedstock and fast pyrolysis, then blends and charges it with humate for soil application. Products are OMRI Listed, IBI Certified, and USDA BioPreferred.
 
-![American BioChar Company website](/screenshots/american-biochar-company/2026-04-19.png)
+![American BioChar Company website](/screenshots/american-biochar-company.png)
 
 
 ## History

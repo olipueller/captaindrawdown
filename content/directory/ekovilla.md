@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 Ekovilla is the insulation brand of EcoUp Oyj, a Finnish circular-economy company listed on Nasdaq First North, whose insulation segment manufactures Ekovilla, an energy-efficient thermal insulation made from recycled wood fiber that functions as a carbon sink. Ekovilla recycles wood-building-element waste into carbon-negative cellulose fiber insulation (CFI) under Puro.earth's Wooden Building Elements methodology, storing carbon for roughly 50 years. In 2024, 1,500 vintage 2022 CORCs from the Ekovilla project were the first Puro.earth CORCs traded on Xpansiv's CBL spot exchange, sold to thyssenkrupp Materials Trading.
 
-![Ekovilla website](/screenshots/v1-thumbnails/ekovilla.jpg)
+![Ekovilla website](/screenshots/ekovilla.png)
 
 ## Registry Memberships
 

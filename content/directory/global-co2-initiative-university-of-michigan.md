@@ -22,7 +22,7 @@ liveliness: "🟢 Active"
 
 The Global CO2 Initiative is a University of Michigan research program (housed in the College of Engineering) focused on advancing carbon capture, removal, and utilization technologies through research, education, and methodology development. It is best known for co-developing widely used Techno-Economic Assessment (TEA) and Life Cycle Assessment (LCA) guidelines for CCU/CDR projects, rather than operating physical removal infrastructure itself.
 
-![Global CO2 Initiative (University of Michigan) website](/screenshots/global-co2-initiative-university-of-michigan/2026-04-19.png)
+![Global CO2 Initiative (University of Michigan) website](/screenshots/global-co2-initiative-university-of-michigan.png)
 
 
 ## History

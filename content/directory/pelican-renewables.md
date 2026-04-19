@@ -21,7 +21,7 @@ liveliness: "🟢 Active"
 
 Pelican Renewables LLC is developing the Pelican Carbon Sequestration Hub on Rindge Tract in California's Sacramento-San Joaquin Delta, anchored by its Stockton ethanol facility which provides biogenic CO2 for permanent geologic storage. The project received a $45.2M DOE CarbonSAFE Phase III award (shared with LLNL) and will accept third-party CO2 via rail and barge through affiliate ZuCO2 Transport. The Stockton site is also hosting AirMyne's DAC pilot following an October 2025 California Energy Commission grant.
 
-![Pelican Renewables website](/screenshots/pelican-renewables/2026-04-19.png)
+![Pelican Renewables website](/screenshots/pelican-renewables.png)
 
 
 ## History

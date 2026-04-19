@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 Jeffries Group is a long-established South Australian composting and soil products family business that in 2021 commissioned one of the Southern Hemisphere's largest biochar plants, producing roughly 1,500 dry tonnes of biochar annually from recycled green organics. Biochar is sold as a soil amendment and in pelletized CulChar fertiliser, and the company is a Puro.earth-listed CORC supplier with hundreds of CORCs issued and retired under the Biochar 2022 methodology.
 
-![Jeffries Group website](/screenshots/v1-thumbnails/jeffries-group.jpg)
+![Jeffries Group website](/screenshots/jeffries-group.png)
 
 ## Registry Memberships
 
