@@ -8,17 +8,19 @@ pathway: "Enhanced Weathering"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Enhanced Weathering
-**Method:** Enhanced Rock Weathering
-**Country:** Brazil
-**Website:** [https://inplanet.earth/](https://inplanet.earth/)
-**Status:** 🟢 Active (score: 95/100)
-**Employees:** ~81 (+80% YoY)
-**LinkedIn Followers:** 21,373
-**Open roles on cdrjobs:** 4
-**CDI Portfolio Company**
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin, cdrjobs, registry_isometric, registry_cdrjobsearth
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enhanced Weathering</td></tr>
+  <tr><th>Method</th><td>Enhanced Rock Weathering</td></tr>
+  <tr><th>Country</th><td>Brazil</td></tr>
+  <tr><th>Website</th><td><a href="https://inplanet.earth/" target="_blank" rel="noopener">https://inplanet.earth/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/woonderlands/" target="_blank" rel="noopener">woonderlands — 21,373 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
+  <tr><th>Employees</th><td>~81 (+80% YoY)</td></tr>
+  <tr><th>Open roles</th><td>4 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
+  <tr><th>CDI Portfolio</th><td>yes</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -36,9 +38,7 @@ InPlanet is a Brazil/Germany-based AgTech company pioneering tropical Enhanced R
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://inplanet.earth/press/inplanet-secures-agreement-to-deliver-28500-enhanced-rock-weathering-credits-to-microsoft-providing-durable-carbon-removal-and-regenerative-agriculture-benefits-in-brazil/))
 - **2026-04-18** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://inplanet.earth/press/inplanet-secures-agreement-to-deliver-28500-enhanced-rock-weathering-credits-to-microsoft-providing-durable-carbon-removal-and-regenerative-agriculture-benefits-in-brazil/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/woonderlands/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

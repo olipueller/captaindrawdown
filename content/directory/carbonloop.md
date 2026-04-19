@@ -8,16 +8,17 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Secondary pathways:** BECCS
-**Method:** Biochar
-**Country:** France
-**Website:** [https://www.carbonloop.energy](https://www.carbonloop.energy)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~49 (-20% YoY)
-**LinkedIn Followers:** 8,096
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>BECCS</td></tr>
+  <tr><th>Country</th><td>France</td></tr>
+  <tr><th>Website</th><td><a href="https://www.carbonloop.energy" target="_blank" rel="noopener">https://www.carbonloop.energy</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/haffner-energy/" target="_blank" rel="noopener">haffner-energy — 8,096 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~49 (-20% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -31,9 +32,7 @@ Carbonloop is a French startup (launched 2021, backed by Kouros Group) that prov
 - **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://www.bio360expo.com/sheet/559/3850?carbonloop=))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.haffner-energy.com/2023/04/04/carbonloop-and-haffner-energy-announce-order-for-hynoca-equipment-for-first-two-hydrogen-and-biochar-production-sites-from-biomass/?lang=en))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://fr.linkedin.com/company/carbonloop))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/haffner-energy/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

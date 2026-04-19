@@ -8,15 +8,17 @@ pathway: "DAC"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** DAC
-**Method:** DAC (Solid Sorbent)
-**Country:** Netherlands
-**Website:** [https://co2zero.online/](https://co2zero.online/)
-**Status:** 🟡 Moderate (score: 45/100)
-**Employees:** ~1
-**LinkedIn Followers:** 72
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>DAC</td></tr>
+  <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
+  <tr><th>Country</th><td>Netherlands</td></tr>
+  <tr><th>Website</th><td><a href="https://co2zero.online/" target="_blank" rel="noopener">https://co2zero.online/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/co%e2%82%82zero/" target="_blank" rel="noopener">co%e2%82%82zero — 72 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 45/100)</td></tr>
+  <tr><th>Employees</th><td>~1</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -32,9 +34,7 @@ CO₂Zero is an early-stage Rotterdam-based startup developing a modular, tech-a
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://yesdelft.com/startups/co%E2%82%82zero/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://co2zero.online/))
 - **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://co2zero.online/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/co%e2%82%82zero/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

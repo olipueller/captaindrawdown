@@ -8,16 +8,18 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Secondary pathways:** BECCS
-**Method:** Unknown
-**Country:** Philippines
-**Website:** [https://koros.earth/](https://koros.earth/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~3
-**LinkedIn Followers:** 157
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>BECCS</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Philippines</td></tr>
+  <tr><th>Website</th><td><a href="https://koros.earth/" target="_blank" rel="noopener">https://koros.earth/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/koros-biochar/" target="_blank" rel="noopener">koros-biochar — 157 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~3</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -30,8 +32,6 @@ Koros is a Philippines-based carbon-smart solutions company that converts local 
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://koros.earth/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://koros.earth/ ([source](https://www.cdr.fyi/supplier/koros))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/koros))
-
-[View on LinkedIn](https://www.linkedin.com/company/koros-biochar/)
 
 ---
 

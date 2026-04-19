@@ -8,16 +8,18 @@ pathway: "Biomass Burial"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biomass Burial
-**Method:** Biomass Carbon Removal
-**Country:** United States
-**Website:** [https://www.plantdmaterials.com/](https://www.plantdmaterials.com/)
-**Status:** 🟢 Active (score: 92/100)
-**Employees:** ~52 (+33% YoY)
-**LinkedIn Followers:** 7,916
-**Open roles on cdrjobs:** 9
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biomass Burial</td></tr>
+  <tr><th>Method</th><td>Biomass Carbon Removal</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://www.plantdmaterials.com/" target="_blank" rel="noopener">https://www.plantdmaterials.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/plantdmaterials/" target="_blank" rel="noopener">plantdmaterials — 7,916 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Employees</th><td>~52 (+33% YoY)</td></tr>
+  <tr><th>Open roles</th><td>9 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -34,9 +36,7 @@ Plantd is an Oxford, North Carolina-based company founded in 2021 that cultivate
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.ncbiotech.org/news/plantd-raises-22m-develop-green-building-materials))
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.ncbiotech.org/news/plantd-raises-22m-develop-green-building-materials))
-- **2026-04-18** — backfilled from V1
-
-[View on LinkedIn](https://www.linkedin.com/company/plantdmaterials/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

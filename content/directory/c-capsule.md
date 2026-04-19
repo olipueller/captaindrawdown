@@ -8,15 +8,17 @@ pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Enabling Tech
-**Method:** Unknown
-**Country:** Netherlands
-**Website:** [https://c-capsule.com/](https://c-capsule.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~4 (-20% YoY)
-**LinkedIn Followers:** 873
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Netherlands</td></tr>
+  <tr><th>Website</th><td><a href="https://c-capsule.com/" target="_blank" rel="noopener">https://c-capsule.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/c-capsule/" target="_blank" rel="noopener">c-capsule — 873 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~4 (-20% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -32,8 +34,6 @@ C-Capsule is a carbon removal certification and registry service operated by Evi
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://c-capsule.com/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.c-capsule.com/ ([source](https://www.cdr.fyi/marketplace/c-capsule))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/c-capsule))
-
-[View on LinkedIn](https://www.linkedin.com/company/c-capsule/)
 
 ---
 

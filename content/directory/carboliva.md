@@ -8,15 +8,16 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** Spain
-**Website:** [https://www.carboliva.es/](https://www.carboliva.es/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~7 (0% YoY)
-**LinkedIn Followers:** 1,664
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>Spain</td></tr>
+  <tr><th>Website</th><td><a href="https://www.carboliva.es/" target="_blank" rel="noopener">https://www.carboliva.es/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carboliva-biocarb%c3%b3n-sostenible/" target="_blank" rel="noopener">carboliva-biocarb%c3%b3n-sostenible — 1,664 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~7 (0% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -37,9 +38,7 @@ Carboliva is a Spanish biochar producer headquartered in Osuna (Seville) that ha
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.carboliva.es/investigadores-de-la-universidad-de-jaen-y-carboliva-desarrollan-nuevos-materiales-ceramicos-con-biochar-para-la-construccion))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.carboliva.es/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.carboliva.es/en/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/carboliva-biocarb%c3%b3n-sostenible/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

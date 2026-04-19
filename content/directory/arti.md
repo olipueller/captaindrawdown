@@ -8,15 +8,17 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Method:** Unknown
-**Country:** United States
-**Website:** [https://www.arti.com/](https://www.arti.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~74
-**LinkedIn Followers:** 2,534
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://www.arti.com/" target="_blank" rel="noopener">https://www.arti.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/advanced-renewable-technology-international-inc-artichar-/" target="_blank" rel="noopener">advanced-renewable-technology-international-inc-artichar- — 2,534 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~74</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -30,8 +32,6 @@ ARTi (Advanced Renewable Technology International) is a U.S.-based biochar compa
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.arti.com/))
 - **2026-04-19** — url added from cdr.fyi supplier page: http://www.ARTi.com ([source](https://www.cdr.fyi/supplier/arti))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/arti))
-
-[View on LinkedIn](https://www.linkedin.com/company/advanced-renewable-technology-international-inc-artichar-/)
 
 ---
 

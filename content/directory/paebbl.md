@@ -8,16 +8,18 @@ pathway: "Mineralization"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Mineralization
-**Method:** Mineralization (Other)
-**Country:** Netherlands
-**Website:** [https://paebbl.com/](https://paebbl.com/)
-**Status:** 🟢 Active (score: 95/100)
-**Employees:** ~72 (+31% YoY)
-**LinkedIn Followers:** 10,053
-**Open roles on cdrjobs:** 1
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Mineralization</td></tr>
+  <tr><th>Method</th><td>Mineralization (Other)</td></tr>
+  <tr><th>Country</th><td>Netherlands</td></tr>
+  <tr><th>Website</th><td><a href="https://paebbl.com/" target="_blank" rel="noopener">https://paebbl.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/paebbl/" target="_blank" rel="noopener">paebbl — 10,053 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
+  <tr><th>Employees</th><td>~72 (+31% YoY)</td></tr>
+  <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -34,9 +36,7 @@ Paebbl is a Dutch-Nordic climate tech company that permanently stores captured C
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://paebbl.com/news-feed/paebbl-starts-operating-its-continuous-demo-plant-a-world-first-for-co2-mineralisation))
 - **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://paebbl.com/technology))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/paebbl/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

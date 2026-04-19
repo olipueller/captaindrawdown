@@ -8,15 +8,17 @@ pathway: "DAC"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** DAC
-**Method:** Unknown
-**Country:** Netherlands
-**Website:** [https://recarbn.eu/](https://recarbn.eu/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~1
-**LinkedIn Followers:** 1,721
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>DAC</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Netherlands</td></tr>
+  <tr><th>Website</th><td><a href="https://recarbn.eu/" target="_blank" rel="noopener">https://recarbn.eu/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/recarbneu/" target="_blank" rel="noopener">recarbneu — 1,721 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~1</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -32,8 +34,6 @@ ReCarbn was a Netherlands-based Direct Air Capture startup spun out of the Unive
 - **2026-04-19** — url added from cdr.fyi supplier page: https://recarbn.eu/ ([source](https://www.cdr.fyi/supplier/recarbn))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🔴 Likely Dead ([source](https://skytree.tech/en-en/news/skytree-acquires-direct-air-capture-startup-recarbn))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/recarbn))
-
-[View on LinkedIn](https://www.linkedin.com/company/recarbneu/)
 
 ---
 

@@ -8,15 +8,17 @@ pathway: "Afforestation"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Afforestation
-**Method:** Unknown
-**Country:** Netherlands
-**Website:** [https://www.scave.world/](https://www.scave.world/)
-**Status:** 🟢 Active (score: 70/100)
-**Employees:** ~3 (+200% YoY)
-**LinkedIn Followers:** 366
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Afforestation</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Netherlands</td></tr>
+  <tr><th>Website</th><td><a href="https://www.scave.world/" target="_blank" rel="noopener">https://www.scave.world/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/scave-world/" target="_blank" rel="noopener">scave-world — 366 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Employees</th><td>~3 (+200% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -30,8 +32,6 @@ Scave is a Netherlands-based company that converts agricultural land into carbon
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟡 Moderate ([source](https://www.scave.world/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://scave.world ([source](https://www.cdr.fyi/marketplace/scave-world))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/scave-world))
-
-[View on LinkedIn](https://www.linkedin.com/company/scave-world/)
 
 ---
 

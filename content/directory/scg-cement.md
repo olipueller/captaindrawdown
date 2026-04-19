@@ -8,16 +8,18 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Secondary pathways:** Mineralization
-**Method:** Unknown
-**Country:** Thailand
-**Website:** [https://scginternational.com/products/scg-construction-technology/scg-low-carbon-cement/](https://scginternational.com/products/scg-construction-technology/scg-low-carbon-cement/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~254 (-4% YoY)
-**LinkedIn Followers:** 4,532
-**CDR Focus:** division
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>Mineralization</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Thailand</td></tr>
+  <tr><th>Website</th><td><a href="https://scginternational.com/products/scg-construction-technology/scg-low-carbon-cement/" target="_blank" rel="noopener">https://scginternational.com/products/scg-construction-technology/scg-low-carbon-cement/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/scg-international/" target="_blank" rel="noopener">scg-international — 4,532 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~254 (-4% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>division</td></tr>
+</table>
 
 ## About
 
@@ -32,8 +34,6 @@ SCG Cement is the cement business unit of Siam Cement Group (SCG), Thailand's la
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/scg-128))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/scg-cement))
-
-[View on LinkedIn](https://www.linkedin.com/company/scg-international/)
 
 ---
 

@@ -8,14 +8,16 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** Kenya
-**Website:** [https://www.nbs-ea.com/](https://www.nbs-ea.com/)
-**Status:** 🟢 Active (score: 70/100)
-**Employees:** ~3 (+200% YoY)
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>Kenya</td></tr>
+  <tr><th>Website</th><td><a href="https://www.nbs-ea.com/" target="_blank" rel="noopener">https://www.nbs-ea.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/riziki-nature-based-solutions/" target="_blank" rel="noopener">riziki-nature-based-solutions</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Employees</th><td>~3 (+200% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -30,9 +32,7 @@ Riziki Nature Based Solutions is a Kenya-based company that harvests invasive me
 - **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.nbs-ea.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.nbs-ea.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.nbs-ea.com/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/riziki-nature-based-solutions/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

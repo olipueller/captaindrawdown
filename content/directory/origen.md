@@ -8,16 +8,18 @@ pathway: "DAC"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** DAC
-**Secondary pathways:** Mineralization
-**Method:** DAC (Solid Sorbent)
-**Country:** United Kingdom
-**Website:** [https://www.origencarbon.com/](https://www.origencarbon.com/)
-**Status:** 🟢 Active (score: 90/100)
-**Employees:** ~86
-**LinkedIn Followers:** 4,074
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>DAC</td></tr>
+  <tr><th>Secondary pathways</th><td>Mineralization</td></tr>
+  <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
+  <tr><th>Country</th><td>United Kingdom</td></tr>
+  <tr><th>Website</th><td><a href="https://www.origencarbon.com/" target="_blank" rel="noopener">https://www.origencarbon.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/origen-power/" target="_blank" rel="noopener">origen-power — 4,074 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Employees</th><td>~86</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -33,9 +35,7 @@ Origen (Origen Power Limited) is a UK/US climate-tech company developing limesto
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.origencarbon.com/news/origen-series-a/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.origencarbon.com/news/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.origencarbon.com/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/origen-power/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

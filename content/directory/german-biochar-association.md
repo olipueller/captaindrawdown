@@ -8,15 +8,17 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Method:** Unknown
-**Country:** Germany
-**Website:** [https://german-biochar.org/](https://german-biochar.org/)
-**Status:** 🟢 Active (score: 85/100)
-**Employees:** ~7 (+17% YoY)
-**LinkedIn Followers:** 3,831
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Germany</td></tr>
+  <tr><th>Website</th><td><a href="https://german-biochar.org/" target="_blank" rel="noopener">https://german-biochar.org/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/fachverband-pflanzenkohle-e-v/" target="_blank" rel="noopener">fachverband-pflanzenkohle-e-v — 3,831 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Employees</th><td>~7 (+17% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -30,8 +32,6 @@ German Biochar e.V. was founded in 2017, originally as the Fachverband Pflanzenk
 - **2026-04-19** — url added from cdr.fyi supplier page: https://fachverbandpflanzenkohle.org/ ([source](https://www.cdr.fyi/marketplace/german-biochar-association))
 - **2026-04-19** — reclassified: pathway=Biochar focus=ecosystem liveliness=🟢 Active ([source](https://german-biochar.org/en/homepage/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/german-biochar-association))
-
-[View on LinkedIn](https://www.linkedin.com/company/fachverband-pflanzenkohle-e-v/)
 
 ---
 

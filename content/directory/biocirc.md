@@ -8,16 +8,17 @@ pathway: "BECCS"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** BECCS
-**Method:** BECCS
-**Country:** Denmark
-**Website:** [https://biocirc.com/](https://biocirc.com/)
-**Status:** 🟢 Active (score: 90/100)
-**Employees:** ~113 (+9% YoY)
-**LinkedIn Followers:** 6,948
-**Open roles on cdrjobs:** 2
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin, cdrjobs, registry_cdrjobsearth
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>BECCS</td></tr>
+  <tr><th>Country</th><td>Denmark</td></tr>
+  <tr><th>Website</th><td><a href="https://biocirc.com/" target="_blank" rel="noopener">https://biocirc.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biocirc/" target="_blank" rel="noopener">biocirc — 6,948 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Employees</th><td>~113 (+9% YoY)</td></tr>
+  <tr><th>Open roles</th><td>2 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -34,9 +35,7 @@ BioCirc is a Danish circular bioeconomy company founded in 2021 that operates ei
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://biocirc.com/projects))
 - **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://biocirc.com/projects))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/biocirc/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

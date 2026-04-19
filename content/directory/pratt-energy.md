@@ -8,15 +8,16 @@ pathway: "BECCS"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** BECCS
-**Method:** BECCS
-**Country:** United States
-**Website:** [http://prattenergy.com/](http://prattenergy.com/)
-**Status:** 🟢 Active (score: 70/100)
-**Employees:** ~21 (+11% YoY)
-**LinkedIn Followers:** 183
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>BECCS</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="http://prattenergy.com/" target="_blank" rel="noopener">http://prattenergy.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/pratt-energy-llc/" target="_blank" rel="noopener">pratt-energy-llc — 183 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Employees</th><td>~21 (+11% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -31,9 +32,7 @@ Pratt Energy, LLC operates a fuel ethanol plant in Pratt, Kansas processing regi
 - **2026-04-19** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://carbonherald.com/two-ethanol-firms-seek-permission-for-carbon-sequestration-projects-in-kansas/))
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟠 Suspect ([source](https://www.kcur.org/news/2024-02-20/these-ethanol-plants-want-to-bury-co2-in-kansas-to-cut-their-carbon-footprints))
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟠 Suspect ([source](https://prattenergy.com/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/pratt-energy-llc/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

@@ -8,17 +8,19 @@ pathway: "DAC"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** DAC
-**Secondary pathways:** BECCS
-**Method:** BECCS
-**Country:** Sweden
-**Website:** [https://airzy.me/](https://airzy.me/)
-**Status:** 🟢 Active (score: 100/100)
-**Employees:** ~5 (0% YoY)
-**LinkedIn Followers:** 804
-**Open roles on cdrjobs:** 1
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin, cdrjobs, registry_cdrjobsearth
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>DAC</td></tr>
+  <tr><th>Secondary pathways</th><td>BECCS</td></tr>
+  <tr><th>Method</th><td>BECCS</td></tr>
+  <tr><th>Country</th><td>Sweden</td></tr>
+  <tr><th>Website</th><td><a href="https://airzy.me/" target="_blank" rel="noopener">https://airzy.me/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/airzyme/" target="_blank" rel="noopener">airzyme — 804 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
+  <tr><th>Employees</th><td>~5 (0% YoY)</td></tr>
+  <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -43,9 +45,7 @@ AirZyme is a Stockholm, Sweden-based climate tech company (founded 2022) develop
 - **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://o.parsers.vc/startup/airzy.me/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://airzy.me/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://airzy.me/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/airzyme/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

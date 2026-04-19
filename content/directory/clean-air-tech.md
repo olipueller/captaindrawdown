@@ -8,13 +8,15 @@ pathway: "Mineralization"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Mineralization
-**Method:** Mineralization (Other)
-**Country:** United Kingdom
-**Website:** [https://www.clean-air-tech.com/](https://www.clean-air-tech.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Mineralization</td></tr>
+  <tr><th>Method</th><td>Mineralization (Other)</td></tr>
+  <tr><th>Country</th><td>United Kingdom</td></tr>
+  <tr><th>Website</th><td><a href="https://www.clean-air-tech.com/" target="_blank" rel="noopener">https://www.clean-air-tech.com/</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -28,7 +30,7 @@ Clean Air Tech is a UK company commercialising the ZAP-C³ (Zero Air Pollution C
 - **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://chemrxiv.org/engage/chemrxiv/article-details/65b7b32e9138d23161fa119d))
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟡 Moderate ([source](https://www.clean-air-tech.com/products))
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟡 Moderate ([source](https://www.clean-air-tech.com/products))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

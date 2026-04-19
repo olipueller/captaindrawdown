@@ -8,15 +8,16 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** Denmark
-**Website:** [https://www.nordiccarbon.dk/](https://www.nordiccarbon.dk/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~9
-**LinkedIn Followers:** 526
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>Denmark</td></tr>
+  <tr><th>Website</th><td><a href="https://www.nordiccarbon.dk/" target="_blank" rel="noopener">https://www.nordiccarbon.dk/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/nordic-carbon/" target="_blank" rel="noopener">nordic-carbon — 526 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~9</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -32,9 +33,7 @@ Nordic Carbon is a Danish biochar supplier whose team brings 20+ years of biomas
 - **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://www.nordiccarbon.dk/projects/drobonsocarbon))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.nordiccarbon.dk/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.nordiccarbon.dk/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/nordic-carbon/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

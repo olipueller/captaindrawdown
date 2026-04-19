@@ -8,15 +8,17 @@ pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Enabling Tech
-**Method:** Unknown
-**Country:** United States
-**Website:** [https://www.carbonmark.com/](https://www.carbonmark.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~13 (-35% YoY)
-**LinkedIn Followers:** 2,261
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://www.carbonmark.com/" target="_blank" rel="noopener">https://www.carbonmark.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonmarkcom/" target="_blank" rel="noopener">carbonmarkcom — 2,261 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~13 (-35% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -30,8 +32,6 @@ Carbonmark is a global carbon credits marketplace that connects project develope
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.carbonmark.com/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://carbonmark.com/ ([source](https://www.cdr.fyi/marketplace/carbonmark))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/carbonmark))
-
-[View on LinkedIn](https://www.linkedin.com/company/carbonmarkcom/)
 
 ---
 

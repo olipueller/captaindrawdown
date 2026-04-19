@@ -8,15 +8,16 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** Finland
-**Website:** [https://www.puhi.fi/](https://www.puhi.fi/)
-**Status:** 🟡 Moderate (score: 65/100)
-**Employees:** ~4
-**LinkedIn Followers:** 1,429
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>Finland</td></tr>
+  <tr><th>Website</th><td><a href="https://www.puhi.fi/" target="_blank" rel="noopener">https://www.puhi.fi/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/puhi/" target="_blank" rel="noopener">puhi — 1,429 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 65/100)</td></tr>
+  <tr><th>Employees</th><td>~4</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -32,9 +33,7 @@ PUHI is a Finland-based biochar producer operating its first pyrolysis plant at 
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.puhi.fi/news/puhi-receives-environmental-permit))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.puhi.fi/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.puhi.fi/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/puhi/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

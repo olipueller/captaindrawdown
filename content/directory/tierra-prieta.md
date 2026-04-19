@@ -8,14 +8,16 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** Mexico
-**Website:** [https://en.tierraprieta.org/](https://en.tierraprieta.org/)
-**Status:** 🟢 Active (score: 75/100)
-**Employees:** ~4 (-20% YoY)
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, registry_puro
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>Mexico</td></tr>
+  <tr><th>Website</th><td><a href="https://en.tierraprieta.org/" target="_blank" rel="noopener">https://en.tierraprieta.org/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/tierra-prieta/" target="_blank" rel="noopener">tierra-prieta</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Employees</th><td>~4 (-20% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -34,9 +36,7 @@ Tierra Prieta (legal name Biochar de Nogal SA de CV) is a Mexican biochar produc
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://biologicalslatam.com/en/tierra-prieta/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://en.tierraprieta.org/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://en.tierraprieta.org/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/tierra-prieta/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

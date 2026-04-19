@@ -8,16 +8,17 @@ pathway: "BECCS"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** BECCS
-**Secondary pathways:** Biochar
-**Method:** BECCS
-**Country:** Sweden
-**Website:** [https://beccs.se/](https://beccs.se/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~5
-**LinkedIn Followers:** 5,226
-**CDR Focus:** division
-**Evidence signals:** exa_search
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>BECCS</td></tr>
+  <tr><th>Secondary pathways</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>Sweden</td></tr>
+  <tr><th>Website</th><td><a href="https://beccs.se/" target="_blank" rel="noopener">https://beccs.se/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/beccs-stockholm/" target="_blank" rel="noopener">beccs-stockholm — 5,226 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~5</td></tr>
+  <tr><th>CDR Focus</th><td>division</td></tr>
+</table>
 
 ## About
 
@@ -31,8 +32,6 @@ Beccs Stockholm is Swedish district-energy company Stockholm Exergi's large-scal
 - **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://www.stockholmexergi.se/en/beccs/))
 - **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://beccs.se/about-beccs-stockholm/))
 - **2026-04-18** — discovered via: exa ([source](https://beccs.se/))
-
-[View on LinkedIn](https://www.linkedin.com/company/beccs-stockholm/)
 
 ---
 

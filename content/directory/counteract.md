@@ -8,15 +8,17 @@ pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Enabling Tech
-**Method:** Unknown
-**Country:** United Kingdom
-**Website:** [https://counteract.vc/](https://counteract.vc/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~9 (-10% YoY)
-**LinkedIn Followers:** 3,993
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>United Kingdom</td></tr>
+  <tr><th>Website</th><td><a href="https://counteract.vc/" target="_blank" rel="noopener">https://counteract.vc/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/wecounteract/" target="_blank" rel="noopener">wecounteract — 3,993 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~9 (-10% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -32,8 +34,6 @@ Counteract is a London-based venture capital fund dedicated exclusively to carbo
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://counteract.vc/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://counteract.vc/ ([source](https://www.cdr.fyi/marketplace/counteract))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/counteract))
-
-[View on LinkedIn](https://www.linkedin.com/company/wecounteract/)
 
 ---
 

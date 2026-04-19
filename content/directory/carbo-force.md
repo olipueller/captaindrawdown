@@ -8,16 +8,17 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** Germany
-**Website:** [https://www.carbo-force.de/en](https://www.carbo-force.de/en)
-**Status:** 🟢 Active (score: 82/100)
-**Employees:** ~12 (0% YoY)
-**LinkedIn Followers:** 1,211
-**Open roles on cdrjobs:** 3
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin, cdrjobs, registry_cdrjobsearth
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>Germany</td></tr>
+  <tr><th>Website</th><td><a href="https://www.carbo-force.de/en" target="_blank" rel="noopener">https://www.carbo-force.de/en</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbo-force/" target="_blank" rel="noopener">carbo-force — 1,211 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 82/100)</td></tr>
+  <tr><th>Employees</th><td>~12 (0% YoY)</td></tr>
+  <tr><th>Open roles</th><td>3 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -34,9 +35,7 @@ Carbo-FORCE GmbH was founded by Malte Graf and Kai Alberding at the end of 2017 
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.carbo-force.de/en))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.carbo-force.de/en))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/carbo-force/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

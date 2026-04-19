@@ -8,14 +8,16 @@ pathway: "DAC"
 liveliness: "🟠 Suspect"
 ---
 
-**Pathway:** DAC
-**Secondary pathways:** Mineralization
-**Method:** DAC (Other/Undisclosed)
-**Country:** Brazil
-**Website:** [https://www.repsolsinopecbr.com.br/](https://www.repsolsinopecbr.com.br/)
-**Status:** 🟠 Suspect (score: 40/100)
-**CDR Focus:** division
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>DAC</td></tr>
+  <tr><th>Secondary pathways</th><td>Mineralization</td></tr>
+  <tr><th>Method</th><td>DAC (Other/Undisclosed)</td></tr>
+  <tr><th>Country</th><td>Brazil</td></tr>
+  <tr><th>Website</th><td><a href="https://www.repsolsinopecbr.com.br/" target="_blank" rel="noopener">https://www.repsolsinopecbr.com.br/</a></td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>CDR Focus</th><td>division</td></tr>
+</table>
 
 ## About
 
@@ -28,7 +30,7 @@ Repsol Sinopec Brasil is an oil & gas joint venture (Repsol 60% / Sinopec 40%) o
 - **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://dacma.com/partners/))
 - **2026-04-19** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://www.pucrs.br/en/blog/pucrs-and-repsol-sinopec-to-work-on-a-project/))
 - **2026-04-18** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://carbonherald.com/dacma-and-repsol-successfully-launch-the-largest-dac-project-in-brazil/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

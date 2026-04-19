@@ -8,16 +8,18 @@ pathway: "DAC"
 liveliness: "🟠 Suspect"
 ---
 
-**Pathway:** DAC
-**Secondary pathways:** Enabling Tech
-**Method:** DAC (Other/Undisclosed)
-**Country:** United Kingdom
-**Website:** [https://storegga.earth/](https://storegga.earth/)
-**Status:** 🟠 Suspect (score: 30/100)
-**Employees:** ~67 (-39% YoY)
-**LinkedIn Followers:** 10,141
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>DAC</td></tr>
+  <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>DAC (Other/Undisclosed)</td></tr>
+  <tr><th>Country</th><td>United Kingdom</td></tr>
+  <tr><th>Website</th><td><a href="https://storegga.earth/" target="_blank" rel="noopener">https://storegga.earth/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/storegga-geotechnologies/" target="_blank" rel="noopener">storegga-geotechnologies — 10,141 followers</a></td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 30/100)</td></tr>
+  <tr><th>Employees</th><td>~67 (-39% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -38,9 +40,7 @@ Storegga is a UK-based independent decarbonisation developer (parent of Pale Blu
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://www.energyvoice.com/renewables-energy-transition/ccs/uk-ccs/586271/acorn-carbon-capture-project-at-risk-as-storegga-pulls-out/))
 - **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://storegga.earth/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/storegga-geotechnologies/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

@@ -8,16 +8,18 @@ pathway: "Enabling Tech"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Enabling Tech
-**Method:** CDR Platform/Marketplace
-**Country:** United States
-**Website:** [https://watershed.com/](https://watershed.com/)
-**Status:** 🟢 Active (score: 95/100)
-**Employees:** ~603 (+5% YoY)
-**LinkedIn Followers:** 72,687
-**Open roles on cdrjobs:** 1
-**CDR Focus:** ecosystem
-**Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>CDR Platform/Marketplace</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://watershed.com/" target="_blank" rel="noopener">https://watershed.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/watershedclimate/" target="_blank" rel="noopener">watershedclimate — 72,687 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
+  <tr><th>Employees</th><td>~603 (+5% YoY)</td></tr>
+  <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -34,9 +36,7 @@ Watershed is an enterprise sustainability software platform that helps companies
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://watershed.com/platform/marketplace))
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://watershed.com/platform/marketplace))
-- **2026-04-18** — backfilled from V1
-
-[View on LinkedIn](https://www.linkedin.com/company/watershedclimate/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

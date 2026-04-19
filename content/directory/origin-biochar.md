@@ -8,14 +8,15 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** United Kingdom
-**Website:** [https://originbiochar.com/](https://originbiochar.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**LinkedIn Followers:** 106
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>United Kingdom</td></tr>
+  <tr><th>Website</th><td><a href="https://originbiochar.com/" target="_blank" rel="noopener">https://originbiochar.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/origin-biochar/" target="_blank" rel="noopener">origin-biochar — 106 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -29,9 +30,7 @@ Origin Biochar (trading as R & S Biomass Equipment Ltd) is a Northern Ireland-ba
 - **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://originbiochar.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://originbiochar.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://originbiochar.com/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/origin-biochar/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

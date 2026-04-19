@@ -8,14 +8,15 @@ pathway: "BECCS"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** BECCS
-**Secondary pathways:** BECCS
-**Method:** BECCS
-**Country:** Norway
-**Website:** [https://www.inheritcarbonsolutions.com/](https://www.inheritcarbonsolutions.com/)
-**Status:** 🟢 Active (score: 95/100)
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>BECCS</td></tr>
+  <tr><th>Secondary pathways</th><td>BECCS</td></tr>
+  <tr><th>Country</th><td>Norway</td></tr>
+  <tr><th>Website</th><td><a href="https://www.inheritcarbonsolutions.com/" target="_blank" rel="noopener">https://www.inheritcarbonsolutions.com/</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -38,7 +39,7 @@ Inherit Carbon Solutions is a Norwegian carbon removal company founded in 2021 a
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://esgnews.com/nordea-signs-multi-year-deal-to-remove-68000-tonnes-of-co2-with-inherit-carbon-solutions/))
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.inheritcarbonsolutions.com/news/inherit-enters-operation-with-worlds-first-carbon-removal-project-from-biogas-in-norway))
 - **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.inheritcarbonsolutions.com/news/inherit-enters-operation-with-worlds-first-carbon-removal-project-from-biogas-in-norway))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

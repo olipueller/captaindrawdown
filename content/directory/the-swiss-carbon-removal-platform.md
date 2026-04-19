@@ -8,14 +8,16 @@ pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Enabling Tech
-**Method:** Unknown
-**Country:** Switzerland
-**Website:** [https://www.carbon-removal.ch](https://www.carbon-removal.ch)
-**Status:** 🟡 Moderate (score: 55/100)
-**LinkedIn Followers:** 2,281
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Switzerland</td></tr>
+  <tr><th>Website</th><td><a href="https://www.carbon-removal.ch" target="_blank" rel="noopener">https://www.carbon-removal.ch</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/swiss-carbon-removal-platform/" target="_blank" rel="noopener">swiss-carbon-removal-platform — 2,281 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -29,8 +31,6 @@ The Swiss Carbon Removal Platform (CDR Swiss) is a Swiss member-based industry a
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.carbon-removal.ch/en/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.carbon-removal.ch/ ([source](https://www.cdr.fyi/marketplace/the-swiss-carbon-removal-platform))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/the-swiss-carbon-removal-platform))
-
-[View on LinkedIn](https://www.linkedin.com/company/swiss-carbon-removal-platform/)
 
 ---
 

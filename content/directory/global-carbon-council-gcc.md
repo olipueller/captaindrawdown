@@ -8,16 +8,18 @@ pathway: "Enabling Tech"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Enabling Tech
-**Secondary pathways:** Biochar
-**Method:** Unknown
-**Country:** Qatar
-**Website:** [https://globalcarboncouncil.com/](https://globalcarboncouncil.com/)
-**Status:** 🟢 Active (score: 92/100)
-**Employees:** ~49 (+9% YoY)
-**LinkedIn Followers:** 13,405
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Secondary pathways</th><td>Biochar</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Qatar</td></tr>
+  <tr><th>Website</th><td><a href="https://globalcarboncouncil.com/" target="_blank" rel="noopener">https://globalcarboncouncil.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/globalcarboncouncil/" target="_blank" rel="noopener">globalcarboncouncil — 13,405 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Employees</th><td>~49 (+9% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -30,8 +32,6 @@ Global Carbon Council (GCC) is an international carbon crediting program and reg
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://globalcarboncouncil.com/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.globalcarboncouncil.com/ ([source](https://www.cdr.fyi/marketplace/global-carbon-council))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/global-carbon-council))
-
-[View on LinkedIn](https://www.linkedin.com/company/globalcarboncouncil/)
 
 ---
 

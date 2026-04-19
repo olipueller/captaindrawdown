@@ -8,17 +8,19 @@ pathway: "DAC"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** DAC
-**Secondary pathways:** Mineralization
-**Method:** DAC (Solid Sorbent)
-**Country:** United States
-**Website:** [https://www.heirloomcarbon.com/](https://www.heirloomcarbon.com/)
-**Status:** 🟢 Active (score: 95/100)
-**Employees:** ~173 (-14% YoY)
-**LinkedIn Followers:** 35,104
-**Open roles on cdrjobs:** 11
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin, cdrjobs, registry_cdrjobsearth
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>DAC</td></tr>
+  <tr><th>Secondary pathways</th><td>Mineralization</td></tr>
+  <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://www.heirloomcarbon.com/" target="_blank" rel="noopener">https://www.heirloomcarbon.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/heirloom-carbon/" target="_blank" rel="noopener">heirloom-carbon — 35,104 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
+  <tr><th>Employees</th><td>~173 (-14% YoY)</td></tr>
+  <tr><th>Open roles</th><td>11 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -35,9 +37,7 @@ Heirloom is a U.S. Direct Air Capture company using limestone-based solid sorben
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.heirloomcarbon.com/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.heirloomcarbon.com/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/heirloom-carbon/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

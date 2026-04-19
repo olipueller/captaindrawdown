@@ -8,16 +8,17 @@ pathway: "BECCS"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** BECCS
-**Secondary pathways:** Enabling Tech
-**Method:** BECCS
-**Country:** United States
-**Website:** [https://www.cleanenergysystems.com/](https://www.cleanenergysystems.com/)
-**Status:** 🟢 Active (score: 82/100)
-**Employees:** ~33
-**LinkedIn Followers:** 1,619
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>BECCS</td></tr>
+  <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://www.cleanenergysystems.com/" target="_blank" rel="noopener">https://www.cleanenergysystems.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/clean-energy-systems-inc./" target="_blank" rel="noopener">clean-energy-systems-inc. — 1,619 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 82/100)</td></tr>
+  <tr><th>Employees</th><td>~33</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -33,9 +34,7 @@ Clean Energy Systems (CES) is a Rancho Cordova, California-based technology deve
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://globalenergynetwork.net/news-item/schlumberger-new-energy-chevron-and-microsoft-develop-bioenergy-project/))
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.cleanenergysystems.com/))
 - **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.cleanenergysystems.com/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/clean-energy-systems-inc./)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

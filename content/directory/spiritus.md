@@ -8,15 +8,17 @@ pathway: "DAC"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** DAC
-**Method:** DAC (Solid Sorbent)
-**Country:** United States
-**Website:** [https://spiritus.com/](https://spiritus.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~50 (0% YoY)
-**LinkedIn Followers:** 2,509
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>DAC</td></tr>
+  <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://spiritus.com/" target="_blank" rel="noopener">https://spiritus.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/spiritus-cdr/" target="_blank" rel="noopener">spiritus-cdr — 2,509 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~50 (0% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -31,9 +33,7 @@ Los Alamos National Lab spinout Spiritus is developing low-cost Direct Air Captu
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://tracxn.com/d/companies/spiritus/__z3PyRolR1MDwzsGFzFRDqr6V_IKjzeoZ_ammIbxmtAs))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://spiritus.com/news/spiritus-unleashes-a-golden-era-of-carbon-removal-to-power-americas-explosive-growth-30m-series-a-to-scale-direct-air-capture/))
 - **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://spiritus.com/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/spiritus-cdr/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

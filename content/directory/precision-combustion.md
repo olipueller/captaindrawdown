@@ -8,16 +8,18 @@ pathway: "DAC"
 liveliness: "🟠 Suspect"
 ---
 
-**Pathway:** DAC
-**Secondary pathways:** Enabling Tech
-**Method:** DAC (Solid Sorbent)
-**Country:** United States
-**Website:** [https://pci.energy/](https://pci.energy/)
-**Status:** 🟠 Suspect (score: 40/100)
-**Employees:** ~43 (-7% YoY)
-**LinkedIn Followers:** 6,331
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>DAC</td></tr>
+  <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://pci.energy/" target="_blank" rel="noopener">https://pci.energy/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/precision-combustion-inc./" target="_blank" rel="noopener">precision-combustion-inc. — 6,331 followers</a></td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Employees</th><td>~43 (-7% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -32,9 +34,7 @@ Precision Combustion, Inc. (PCI) is a North Haven, CT clean-energy R&D firm deve
 - **2026-04-19** — liveliness: 🟡 Moderate → 🟠 Suspect ([source](https://pci.energy/about-pci/pci-in-the-news/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://www.precision-combustion.com/about-pci/press-releases-pci/168-pci-doe-project-carbondioxide-direct-air-capture))
 - **2026-04-19** — reclassified: pathway=DAC focus=review_needed liveliness=🟡 Moderate ([source](https://www.precision-combustion.com/about-pci/press-releases-pci/168-pci-doe-project-carbondioxide-direct-air-capture))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/precision-combustion-inc./)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

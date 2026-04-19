@@ -8,15 +8,16 @@ pathway: "Biochar"
 liveliness: "🟠 Suspect"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** Kenya
-**Website:** [https://www.teracarbon.earth/](https://www.teracarbon.earth/)
-**Status:** 🟠 Suspect (score: 40/100)
-**Employees:** ~2 (0% YoY)
-**LinkedIn Followers:** 1,716
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>Kenya</td></tr>
+  <tr><th>Website</th><td><a href="https://www.teracarbon.earth/" target="_blank" rel="noopener">https://www.teracarbon.earth/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/teracarbon/" target="_blank" rel="noopener">teracarbon — 1,716 followers</a></td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Employees</th><td>~2 (0% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -38,9 +39,7 @@ Tera (Tera Carbon) is a Kenyan climate-tech startup that converts sugarcane baga
 - **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://allafrica.com/stories/202507230004.html))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://carbonherald.com/tera-becomes-first-african-developer-validated-on-riverse-carbon-registry/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.teracarbon.earth/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/teracarbon/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

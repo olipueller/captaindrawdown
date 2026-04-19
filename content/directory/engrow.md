@@ -8,16 +8,17 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Secondary pathways:** Afforestation
-**Method:** Biochar
-**Country:** India
-**Website:** [https://engrowfuels.com/](https://engrowfuels.com/)
-**Status:** 🟢 Active (score: 75/100)
-**Employees:** ~14 (+27% YoY)
-**LinkedIn Followers:** 507
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>Afforestation</td></tr>
+  <tr><th>Country</th><td>India</td></tr>
+  <tr><th>Website</th><td><a href="https://engrowfuels.com/" target="_blank" rel="noopener">https://engrowfuels.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/engrow-group/" target="_blank" rel="noopener">engrow-group — 507 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Employees</th><td>~14 (+27% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -31,9 +32,7 @@ Engrow Carbon Energy Private Limited is an India-based biochar producer incorpor
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://engrowfuels.com/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://engrowfuels.com/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/engrow-group/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

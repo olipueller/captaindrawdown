@@ -8,16 +8,18 @@ pathway: "DAC"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** DAC
-**Method:** DAC (Liquid Solvent)
-**Country:** Germany
-**Website:** [https://www.ucaneo.com/](https://www.ucaneo.com/)
-**Status:** 🟢 Active (score: 90/100)
-**Employees:** ~26 (+86% YoY)
-**LinkedIn Followers:** 6,684
-**Open roles on cdrjobs:** 4
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>DAC</td></tr>
+  <tr><th>Method</th><td>DAC (Liquid Solvent)</td></tr>
+  <tr><th>Country</th><td>Germany</td></tr>
+  <tr><th>Website</th><td><a href="https://www.ucaneo.com/" target="_blank" rel="noopener">https://www.ucaneo.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ucaneo/" target="_blank" rel="noopener">ucaneo — 6,684 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Employees</th><td>~26 (+86% YoY)</td></tr>
+  <tr><th>Open roles</th><td>4 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -34,9 +36,7 @@ Ucaneo is a Berlin-based direct air capture startup developing electrochemical D
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://aramcoventures.com/news/aramco-ventures-joins-ucaneos-seed-funding-round-to-build-germanys-largest-direct-air-capture/))
 - **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://aramcoventures.com/news/aramco-ventures-joins-ucaneos-seed-funding-round-to-build-germanys-largest-direct-air-capture/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/ucaneo/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

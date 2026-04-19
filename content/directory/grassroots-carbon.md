@@ -8,15 +8,16 @@ pathway: "Afforestation"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Afforestation
-**Method:** Afforestation
-**Country:** United States
-**Website:** [https://grassrootscarbon.com](https://grassrootscarbon.com)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~44
-**LinkedIn Followers:** 5,061
-**CDR Focus:** supplier
-**Evidence signals:** news_mention
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Afforestation</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://grassrootscarbon.com" target="_blank" rel="noopener">https://grassrootscarbon.com</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/grassrootscarbon/" target="_blank" rel="noopener">grassrootscarbon — 5,061 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~44</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -32,8 +33,6 @@ Grassroots Carbon is a San Antonio, Texas-based soil carbon removal company foun
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://grassrootscarbon.com/))
 - **2026-04-18** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://grassrootscarbon.com/))
 - **2026-04-18** — discovered via: news_feed ([source](https://carboncredits.com/boeing-locks-in-40000-tons-of-soil-carbon-removal-with-texas-based-grassroots-carbon/))
-
-[View on LinkedIn](https://www.linkedin.com/company/grassrootscarbon/)
 
 ---
 

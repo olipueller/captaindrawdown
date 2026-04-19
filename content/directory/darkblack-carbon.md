@@ -8,13 +8,16 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Method:** Unknown
-**Country:** United Kingdom
-**Website:** [https://darkblackcarbon.com/](https://darkblackcarbon.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>United Kingdom</td></tr>
+  <tr><th>Website</th><td><a href="https://darkblackcarbon.com/" target="_blank" rel="noopener">https://darkblackcarbon.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/dark-black-carbon/" target="_blank" rel="noopener">dark-black-carbon</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -26,8 +29,6 @@ DarkBlack Carbon is a UK-based biochar producer that converts arboreal wood wast
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://darkblackcarbon.com/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/rpbpalmer))
-
-[View on LinkedIn](https://www.linkedin.com/company/dark-black-carbon/)
 
 ---
 

@@ -8,15 +8,16 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** United States
-**Website:** [https://www.verderesources.com/](https://www.verderesources.com/)
-**Status:** 🟢 Active (score: 90/100)
-**Employees:** ~9 (+50% YoY)
-**LinkedIn Followers:** 1,018
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://www.verderesources.com/" target="_blank" rel="noopener">https://www.verderesources.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/verde-resources-inc-vrdr-/" target="_blank" rel="noopener">verde-resources-inc-vrdr- — 1,018 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Employees</th><td>~9 (+50% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -30,9 +31,7 @@ Verde Resources Inc. (OTCQB: VRDR) is a St. Louis-based sustainable infrastructu
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.prnewswire.com/news-releases/verde-developing-environmental-product-declaration-epd-for-its-engineered-biochar-in-road-materials-302742596.html))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.prnewswire.com/news-releases/verde-secures-key-engineered-biochar-supply-and-carbon-credit-agreement-with-biochar-solutions-llc-302714164.html))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/verde-resources-inc-vrdr-/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

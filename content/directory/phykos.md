@@ -8,14 +8,16 @@ pathway: "Ocean CDR"
 liveliness: "🟠 Suspect"
 ---
 
-**Pathway:** Ocean CDR
-**Secondary pathways:** Biomass Burial
-**Method:** Marine CDR (Other)
-**Country:** United States
-**Website:** [https://www.phykos.co/](https://www.phykos.co/)
-**Status:** 🟠 Suspect (score: 30/100)
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Ocean CDR</td></tr>
+  <tr><th>Secondary pathways</th><td>Biomass Burial</td></tr>
+  <tr><th>Method</th><td>Marine CDR (Other)</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://www.phykos.co/" target="_blank" rel="noopener">https://www.phykos.co/</a></td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 30/100)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -31,7 +33,7 @@ Phykos, PBC is an Oakland, California ocean CDR startup founded in 2020 by Jeff 
 - **2026-04-19** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://newzchain.com/ocean-carbon-removal-a-new-frontier-in-climate-solutions-with-phykos/))
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟠 Suspect ([source](https://www.phykos.co/))
 - **2026-04-18** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟠 Suspect ([source](https://www.phykos.co/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

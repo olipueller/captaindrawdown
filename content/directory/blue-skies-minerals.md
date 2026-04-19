@@ -8,15 +8,17 @@ pathway: "Mineralization"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Mineralization
-**Method:** Unknown
-**Country:** Germany
-**Website:** [https://www.blueskiesminerals.com/](https://www.blueskiesminerals.com/)
-**Status:** 🟢 Active (score: 70/100)
-**Employees:** ~4 (+33% YoY)
-**LinkedIn Followers:** 993
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Mineralization</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Germany</td></tr>
+  <tr><th>Website</th><td><a href="https://www.blueskiesminerals.com/" target="_blank" rel="noopener">https://www.blueskiesminerals.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/blueskiesminerals/" target="_blank" rel="noopener">blueskiesminerals — 993 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Employees</th><td>~4 (+33% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -32,8 +34,6 @@ Blue Skies Minerals is a Berlin-based startup (founded 2023) developing the Carb
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟡 Moderate ([source](https://www.blueskiesminerals.com/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.blueskiesminerals.com/ ([source](https://www.cdr.fyi/supplier/blue-skies-minerals))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/blue-skies-minerals))
-
-[View on LinkedIn](https://www.linkedin.com/company/blueskiesminerals/)
 
 ---
 

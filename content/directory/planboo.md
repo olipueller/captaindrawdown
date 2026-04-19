@@ -8,16 +8,18 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Secondary pathways:** Enabling Tech
-**Method:** Unknown
-**Country:** Sweden
-**Website:** [https://planboo.eco/](https://planboo.eco/)
-**Status:** 🟢 Active (score: 90/100)
-**Employees:** ~21 (+17% YoY)
-**LinkedIn Followers:** 5,966
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Sweden</td></tr>
+  <tr><th>Website</th><td><a href="https://planboo.eco/" target="_blank" rel="noopener">https://planboo.eco/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/planboo/" target="_blank" rel="noopener">planboo — 5,966 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Employees</th><td>~21 (+17% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -30,8 +32,6 @@ Planboo is a Swedish biochar carbon removal company founded in Stockholm in 2020
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://planboo.eco/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://planboo.eco/ ([source](https://www.cdr.fyi/supplier/planboo))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/planboo))
-
-[View on LinkedIn](https://www.linkedin.com/company/planboo/)
 
 ---
 

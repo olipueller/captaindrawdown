@@ -8,13 +8,15 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** Switzerland
-**Website:** [https://www.a-p-d.ch/](https://www.a-p-d.ch/)
-**Status:** 🟢 Active (score: 85/100)
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>Switzerland</td></tr>
+  <tr><th>Website</th><td><a href="https://www.a-p-d.ch/" target="_blank" rel="noopener">https://www.a-p-d.ch/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/apd-auen-pflege-dienst-ag/" target="_blank" rel="noopener">apd-auen-pflege-dienst-ag</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -37,9 +39,7 @@ APD (Auen Pflege Dienst AG) is a Swiss landscape-services firm in Flaach, Züric
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.nadir2022.be/biochar-uitgelegd-cdr-toekan/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.a-p-d.ch/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.a-p-d.ch/pflanzenkohle))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/apd-auen-pflege-dienst-ag/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

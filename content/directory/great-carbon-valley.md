@@ -8,16 +8,18 @@ pathway: "DAC"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** DAC
-**Secondary pathways:** Mineralization
-**Method:** DAC (Other/Undisclosed)
-**Country:** Kenya
-**Website:** [https://greatcarbonvalley.com/](https://greatcarbonvalley.com/)
-**Status:** 🟢 Active (score: 85/100)
-**Employees:** ~2 (-33% YoY)
-**LinkedIn Followers:** 1,350
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>DAC</td></tr>
+  <tr><th>Secondary pathways</th><td>Mineralization</td></tr>
+  <tr><th>Method</th><td>DAC (Other/Undisclosed)</td></tr>
+  <tr><th>Country</th><td>Kenya</td></tr>
+  <tr><th>Website</th><td><a href="https://greatcarbonvalley.com/" target="_blank" rel="noopener">https://greatcarbonvalley.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/great-carbon-valley/" target="_blank" rel="noopener">great-carbon-valley — 1,350 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Employees</th><td>~2 (-33% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -33,9 +35,7 @@ Great Carbon Valley (GCV) is a Kenyan project development venture and systems in
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.third-derivative.org/portfolio/great-carbon-valley))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.greatcarbonvalley.com/about-us))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.technologyreview.com/2025/12/22/1130153/geothermal-energy-carbon-capture-kenya-climate-solution/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/great-carbon-valley/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

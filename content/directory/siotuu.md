@@ -8,13 +8,14 @@ pathway: "Biochar"
 liveliness: "🟠 Suspect"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** Austria
-**Website:** [https://siotuu.com/en/home-e/](https://siotuu.com/en/home-e/)
-**Status:** 🟠 Suspect (score: 40/100)
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>Austria</td></tr>
+  <tr><th>Website</th><td><a href="https://siotuu.com/en/home-e/" target="_blank" rel="noopener">https://siotuu.com/en/home-e/</a></td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -29,7 +30,7 @@ SIOTUU GmbH is an Austrian biochar producer based in Landeck/Fließ that convert
 - **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.klimate.co/project/siotuu-biochar))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://siotuu.com/en/home-e/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://siotuu.com/en/home/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

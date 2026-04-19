@@ -8,15 +8,16 @@ pathway: "Biochar"
 liveliness: "🟠 Suspect"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** Norway
-**Website:** [https://www.obio.no/](https://www.obio.no/)
-**Status:** 🟠 Suspect (score: 40/100)
-**Employees:** ~4
-**LinkedIn Followers:** 18
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, registry_puro
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>Norway</td></tr>
+  <tr><th>Website</th><td><a href="https://www.obio.no/" target="_blank" rel="noopener">https://www.obio.no/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/obio-norge/" target="_blank" rel="noopener">obio-norge — 18 followers</a></td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Employees</th><td>~4</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -41,9 +42,7 @@ OBIO is a Norwegian biochar company based in the Opland/central region that buil
 - **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://biochartoday.com/news/norwegian-startup-obiochar-uses-biochar-for-healthier-livestock-richer-soil-and-carbon-removal/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.obio.no/about-us))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.obio.no/about-us))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/obio-norge/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

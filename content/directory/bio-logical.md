@@ -8,15 +8,16 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** Kenya
-**Website:** [https://www.bio-logical.green/](https://www.bio-logical.green/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~47 (+2% YoY)
-**LinkedIn Followers:** 5,958
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin, registry_puro
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>Kenya</td></tr>
+  <tr><th>Website</th><td><a href="https://www.bio-logical.green/" target="_blank" rel="noopener">https://www.bio-logical.green/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bio-logical/" target="_blank" rel="noopener">bio-logical — 5,958 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~47 (+2% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -34,9 +35,7 @@ Bio-Logical is a Kenya-based climate tech company producing biochar from agricul
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://big3africa.org/2025/11/04/bio-logical-uses-biochar-to-fight-climate-change-and-empower-farmers/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://big3africa.org/2025/11/04/bio-logical-uses-biochar-to-fight-climate-change-and-empower-farmers/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://big3africa.org/2025/11/04/bio-logical-uses-biochar-to-fight-climate-change-and-empower-farmers/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/bio-logical/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

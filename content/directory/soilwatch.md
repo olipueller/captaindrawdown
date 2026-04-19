@@ -8,16 +8,18 @@ pathway: "Enabling Tech"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Enabling Tech
-**Secondary pathways:** Afforestation
-**Method:** Unknown
-**Country:** Finland
-**Website:** [https://soilwatch.eu/](https://soilwatch.eu/)
-**Status:** 🟢 Active (score: 75/100)
-**Employees:** ~9 (+12% YoY)
-**LinkedIn Followers:** 4,303
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Secondary pathways</th><td>Afforestation</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Finland</td></tr>
+  <tr><th>Website</th><td><a href="https://soilwatch.eu/" target="_blank" rel="noopener">https://soilwatch.eu/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/soilwatch/" target="_blank" rel="noopener">soilwatch — 4,303 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Employees</th><td>~9 (+12% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -30,8 +32,6 @@ SoilWatch is a climate tech company that helps nature-based carbon removal proje
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://soilwatch.eu/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://soilwatch.eu/ ([source](https://www.cdr.fyi/marketplace/soilwatch))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/soilwatch))
-
-[View on LinkedIn](https://www.linkedin.com/company/soilwatch/)
 
 ---
 

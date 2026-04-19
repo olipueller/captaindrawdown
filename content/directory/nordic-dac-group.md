@@ -8,14 +8,16 @@ pathway: "DAC"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** DAC
-**Secondary pathways:** Enabling Tech
-**Method:** Unknown
-**Country:** Sweden
-**Website:** [https://www.nordicdacgroup.com/](https://www.nordicdacgroup.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>DAC</td></tr>
+  <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Sweden</td></tr>
+  <tr><th>Website</th><td><a href="https://www.nordicdacgroup.com/" target="_blank" rel="noopener">https://www.nordicdacgroup.com/</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 

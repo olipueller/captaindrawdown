@@ -8,14 +8,16 @@ pathway: "Biomass Burial"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biomass Burial
-**Method:** BiCRS (Other)
-**Country:** Canada
-**Website:** [https://timberturn.ca/](https://timberturn.ca/)
-**Status:** 🟡 Moderate (score: 45/100)
-**LinkedIn Followers:** 234
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biomass Burial</td></tr>
+  <tr><th>Method</th><td>BiCRS (Other)</td></tr>
+  <tr><th>Country</th><td>Canada</td></tr>
+  <tr><th>Website</th><td><a href="https://timberturn.ca/" target="_blank" rel="noopener">https://timberturn.ca/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/wood-safe/" target="_blank" rel="noopener">wood-safe — 234 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 45/100)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -37,9 +39,7 @@ TimberTurn is a Canadian (Calgary, Alberta) CDR supplier that takes uneconomical
 - **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://www.instagram.com/timber.turn/))
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟡 Moderate ([source](https://timberturn.ca/))
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟠 Suspect ([source](https://timberturn.ca/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/wood-safe/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

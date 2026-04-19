@@ -8,13 +8,14 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** Namibia
-**Website:** [https://pyronam.com/](https://pyronam.com/)
-**Status:** 🟢 Active (score: 80/100)
-**CDR Focus:** division
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>Namibia</td></tr>
+  <tr><th>Website</th><td><a href="https://pyronam.com/" target="_blank" rel="noopener">https://pyronam.com/</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>CDR Focus</th><td>division</td></tr>
+</table>
 
 ## About
 
@@ -30,7 +31,7 @@ PyroNam is the Namibian subsidiary of German PyroCCS GmbH, producing biochar fro
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://carbonherald.com/pyroccs-and-atmosfair-join-forces-to-scale-biochar-cdr-in-namibia/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://pyronam.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://pyronam.com/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

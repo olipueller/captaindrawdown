@@ -8,15 +8,17 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Method:** Unknown
-**Country:** India
-**Website:** [https://www.krishecarbon.com/](https://www.krishecarbon.com/)
-**Status:** 🟢 Active (score: 70/100)
-**Employees:** ~12 (+140% YoY)
-**LinkedIn Followers:** 2,126
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>India</td></tr>
+  <tr><th>Website</th><td><a href="https://www.krishecarbon.com/" target="_blank" rel="noopener">https://www.krishecarbon.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/krishe-carbon/" target="_blank" rel="noopener">krishe-carbon — 2,126 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Employees</th><td>~12 (+140% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -32,8 +34,6 @@ Kalp Climate Tech (operating as Krishe Carbon) is a biochar-based carbon removal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.krishecarbon.com/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.krishecarbon.com/ ([source](https://www.cdr.fyi/supplier/kalp-climate-tech))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/kalp-climate-tech))
-
-[View on LinkedIn](https://www.linkedin.com/company/krishe-carbon/)
 
 ---
 

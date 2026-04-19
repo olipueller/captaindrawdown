@@ -8,16 +8,18 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Secondary pathways:** Enabling Tech
-**Method:** Unknown
-**Country:** Canada
-**Website:** [https://gecaenviro.com/](https://gecaenviro.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~9 (-50% YoY)
-**LinkedIn Followers:** 5,861
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Canada</td></tr>
+  <tr><th>Website</th><td><a href="https://gecaenviro.com/" target="_blank" rel="noopener">https://gecaenviro.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/geca-environnement/" target="_blank" rel="noopener">geca-environnement — 5,861 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~9 (-50% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -40,8 +42,6 @@ GECA Environnement is a Quebec City-based consulting firm specializing in biocha
 - **2026-04-19** — url added from cdr.fyi supplier page: https://gecaenviro.com/ ([source](https://www.cdr.fyi/supplier/geca-environment))
 - **2026-04-19** — reclassified: pathway=Biochar focus=ecosystem liveliness=🟢 Active ([source](https://gecaenviro.com/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/geca-environment))
-
-[View on LinkedIn](https://www.linkedin.com/company/geca-environnement/)
 
 ---
 

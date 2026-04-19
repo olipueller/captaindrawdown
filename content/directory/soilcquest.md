@@ -8,15 +8,17 @@ pathway: "Afforestation"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Afforestation
-**Method:** Unknown
-**Country:** Australia
-**Website:** [https://www.soilcquest.org.au/](https://www.soilcquest.org.au/)
-**Status:** 🟡 Moderate (score: 60/100)
-**Employees:** ~5 (-17% YoY)
-**LinkedIn Followers:** 1,359
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Afforestation</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Australia</td></tr>
+  <tr><th>Website</th><td><a href="https://www.soilcquest.org.au/" target="_blank" rel="noopener">https://www.soilcquest.org.au/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/soilcquest/" target="_blank" rel="noopener">soilcquest — 1,359 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 60/100)</td></tr>
+  <tr><th>Employees</th><td>~5 (-17% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -29,8 +31,6 @@ SoilCQuest 2031 is an Australian not-for-profit research institute founded in 20
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟡 Moderate ([source](https://www.soilcquest.org.au/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.soilcquest.org.au/ ([source](https://www.cdr.fyi/supplier/soilcquest))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/soilcquest))
-
-[View on LinkedIn](https://www.linkedin.com/company/soilcquest/)
 
 ---
 

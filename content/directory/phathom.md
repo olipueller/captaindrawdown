@@ -8,16 +8,17 @@ pathway: "BECCS"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** BECCS
-**Secondary pathways:** Ocean CDR, Enhanced Weathering
-**Method:** BECCS
-**Country:** Canada
-**Website:** [https://phathom.tech/](https://phathom.tech/)
-**Status:** 🟢 Active (score: 90/100)
-**Employees:** ~11 (+120% YoY)
-**LinkedIn Followers:** 1,004
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>BECCS</td></tr>
+  <tr><th>Secondary pathways</th><td>Ocean CDR, Enhanced Weathering</td></tr>
+  <tr><th>Country</th><td>Canada</td></tr>
+  <tr><th>Website</th><td><a href="https://phathom.tech/" target="_blank" rel="noopener">https://phathom.tech/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/phathomtech/" target="_blank" rel="noopener">phathomtech — 1,004 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Employees</th><td>~11 (+120% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -39,9 +40,7 @@ pHathom Technologies is a Halifax, Nova Scotia cleantech startup founded in 2024
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://phathom.tech/our-technology/))
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://betakit.com/phathom-technologies-closes-4-million-to-pilot-its-coastal-carbon-capture-tech/))
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.businesswire.com/news/home/20260205623605/en/pHathom-Technologies-Surpasses-$12M-Committed-Capital-with-Closure-of-Seed-Financing-Round))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/phathomtech/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

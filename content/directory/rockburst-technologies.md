@@ -8,16 +8,18 @@ pathway: "Mineralization"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Mineralization
-**Secondary pathways:** Enabling Tech
-**Method:** Mineralization (Other)
-**Country:** Canada
-**Website:** [https://www.rockburst.tech/](https://www.rockburst.tech/)
-**Status:** 🟢 Active (score: 80/100)
-**Employees:** ~4
-**LinkedIn Followers:** 496
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Mineralization</td></tr>
+  <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Mineralization (Other)</td></tr>
+  <tr><th>Country</th><td>Canada</td></tr>
+  <tr><th>Website</th><td><a href="https://www.rockburst.tech/" target="_blank" rel="noopener">https://www.rockburst.tech/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/rockburst-technologies/" target="_blank" rel="noopener">rockburst-technologies — 496 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Employees</th><td>~4</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -33,9 +35,7 @@ Rockburst Technologies is a Vancouver-based cleantech startup developing CoreBur
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://foresightcac.com/article/rockburst-technologies-spotlight))
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.rockburst.tech/))
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.rockburst.tech/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/rockburst-technologies/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

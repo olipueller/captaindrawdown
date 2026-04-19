@@ -8,16 +8,18 @@ pathway: "DAC"
 liveliness: "🟠 Suspect"
 ---
 
-**Pathway:** DAC
-**Secondary pathways:** Enabling Tech
-**Method:** DAC (Cryogenic)
-**Country:** India
-**Website:** [https://bakz4ever.in/](https://bakz4ever.in/)
-**Status:** 🟠 Suspect (score: 25/100)
-**Employees:** ~2
-**LinkedIn Followers:** 77
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>DAC</td></tr>
+  <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>DAC (Cryogenic)</td></tr>
+  <tr><th>Country</th><td>India</td></tr>
+  <tr><th>Website</th><td><a href="https://bakz4ever.in/" target="_blank" rel="noopener">https://bakz4ever.in/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/blue-rats-energy/" target="_blank" rel="noopener">blue-rats-energy — 77 followers</a></td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 25/100)</td></tr>
+  <tr><th>Employees</th><td>~2</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -29,9 +31,7 @@ Founded in 2021, Bakz4ever is an early-stage Indian climate-tech startup with tw
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://www.f6s.com/company/bakz4ever-opc-pvt.-ltd))
 - **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://www.f6s.com/company/bakz4ever-opc-pvt.-ltd))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/blue-rats-energy/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

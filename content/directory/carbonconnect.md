@@ -8,15 +8,17 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Method:** Unknown
-**Country:** Germany
-**Website:** [https://www.carbonconnect.earth/](https://www.carbonconnect.earth/)
-**Status:** 🟢 Active (score: 80/100)
-**Employees:** ~5 (+67% YoY)
-**LinkedIn Followers:** 921
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Germany</td></tr>
+  <tr><th>Website</th><td><a href="https://www.carbonconnect.earth/" target="_blank" rel="noopener">https://www.carbonconnect.earth/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/hempconnecthamburg/" target="_blank" rel="noopener">hempconnecthamburg — 921 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Employees</th><td>~5 (+67% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -31,8 +33,6 @@ CarbonConnect GmbH is a Hamburg-based biochar carbon removal project developer t
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.carbonconnect.earth/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.carbonconnect.earth/ ([source](https://www.cdr.fyi/supplier/carbonconnect))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/carbonconnect))
-
-[View on LinkedIn](https://www.linkedin.com/company/hempconnecthamburg/)
 
 ---
 

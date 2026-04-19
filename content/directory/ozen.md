@@ -8,14 +8,15 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Secondary pathways:** BECCS
-**Method:** Biochar
-**Country:** Poland
-**Website:** [https://ozen.pl/en/homepage/](https://ozen.pl/en/homepage/)
-**Status:** 🟡 Moderate (score: 55/100)
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>BECCS</td></tr>
+  <tr><th>Country</th><td>Poland</td></tr>
+  <tr><th>Website</th><td><a href="https://ozen.pl/en/homepage/" target="_blank" rel="noopener">https://ozen.pl/en/homepage/</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -37,7 +38,7 @@ OZEN Sp. z o.o. (OZEN Plus) is a Polish charcoal manufacturer based in Wałcz op
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://nowa.ozen.pl/wp-content/uploads/2022/11/EBC-C-Sink_2021_OZEN.pdf))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://ozen.pl/en/homepage/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://ozen.pl/en/homepage/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

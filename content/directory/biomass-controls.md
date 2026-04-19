@@ -8,16 +8,18 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Secondary pathways:** Enabling Tech
-**Method:** Unknown
-**Country:** United States
-**Website:** [https://biomasscontrols.com/](https://biomasscontrols.com/)
-**Status:** 🟡 Moderate (score: 70/100)
-**Employees:** ~4
-**LinkedIn Followers:** 2,118
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://biomasscontrols.com/" target="_blank" rel="noopener">https://biomasscontrols.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biomass-controls/" target="_blank" rel="noopener">biomass-controls — 2,118 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 70/100)</td></tr>
+  <tr><th>Employees</th><td>~4</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -30,8 +32,6 @@ Biomass Controls PBC is a Connecticut-based manufacturer of the Biogenic Refiner
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://biomasscontrols.com/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://biomasscontrols.com/ ([source](https://www.cdr.fyi/supplier/biomass-controls))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/biomass-controls))
-
-[View on LinkedIn](https://www.linkedin.com/company/biomass-controls/)
 
 ---
 

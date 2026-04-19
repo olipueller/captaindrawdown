@@ -8,15 +8,16 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** United States
-**Website:** [https://www.appliedcarbon.com/](https://www.appliedcarbon.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~25 (-24% YoY)
-**LinkedIn Followers:** 5,206
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin, registry_puro
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://www.appliedcarbon.com/" target="_blank" rel="noopener">https://www.appliedcarbon.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/applied-carbon/" target="_blank" rel="noopener">applied-carbon — 5,206 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~25 (-24% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -34,9 +35,7 @@ Applied Carbon (formerly Climate Robotics) is a Houston-based biochar company th
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://tracxn.com/d/companies/applied-carbon/__YdS4qB8Ilkbaz2XG3VBz8Oh0jockE4GUVDm6KQl0iSs))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.appliedcarbon.com/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.appliedcarbon.com/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/applied-carbon/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

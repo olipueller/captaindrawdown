@@ -8,15 +8,17 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Method:** Unknown
-**Country:** Denmark
-**Website:** [https://aquagreen.dk/](https://aquagreen.dk/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~47 (-6% YoY)
-**LinkedIn Followers:** 4,232
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Denmark</td></tr>
+  <tr><th>Website</th><td><a href="https://aquagreen.dk/" target="_blank" rel="noopener">https://aquagreen.dk/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/aquagreenaps/" target="_blank" rel="noopener">aquagreenaps — 4,232 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~47 (-6% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -30,8 +32,6 @@ AquaGreen is a Danish cleantech company that has developed a patented integrated
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://aquagreen.dk/))
 - **2026-04-19** — url added from cdr.fyi supplier page: http://www.aquagreen.dk ([source](https://www.cdr.fyi/supplier/aquagreen))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/aquagreen))
-
-[View on LinkedIn](https://www.linkedin.com/company/aquagreenaps/)
 
 ---
 

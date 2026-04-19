@@ -8,16 +8,18 @@ pathway: "DAC"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** DAC
-**Method:** DAC (Solid Sorbent)
-**Country:** United States
-**Website:** [https://www.arboncorp.com/](https://www.arboncorp.com/)
-**Status:** 🟢 Active (score: 85/100)
-**Employees:** ~5 (+67% YoY)
-**LinkedIn Followers:** 514
-**Open roles on cdrjobs:** 1
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin, cdrjobs, registry_cdrjobsearth
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>DAC</td></tr>
+  <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://www.arboncorp.com/" target="_blank" rel="noopener">https://www.arboncorp.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/arbon-corp/" target="_blank" rel="noopener">arbon-corp — 514 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Employees</th><td>~5 (+67% YoY)</td></tr>
+  <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -37,14 +39,12 @@ Arbon is a Brooklyn, NY-based direct air capture startup spun out of Columbia Un
 - **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://onsets.org/product/arbon-earth/))
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟡 Moderate ([source](https://arbon.earth/about))
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟡 Moderate ([source](https://arbon.earth/about))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 - **** — merged duplicate: Arbon Earth (slug=arbon-earth)
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.arboncorp.com/))
 - **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.arboncorp.com/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/arbon-corp/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

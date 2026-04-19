@@ -8,16 +8,17 @@ pathway: "Biochar"
 liveliness: "🟠 Suspect"
 ---
 
-**Pathway:** Biochar
-**Secondary pathways:** Afforestation
-**Method:** Biochar
-**Country:** Brazil
-**Website:** [https://aperambioenergia.com.br/en/biochar/](https://aperambioenergia.com.br/en/biochar/)
-**Status:** 🟠 Suspect (score: 40/100)
-**Employees:** ~139 (-4% YoY)
-**LinkedIn Followers:** 318
-**CDR Focus:** division
-**Evidence signals:** website, last_evidence_url, linkedin, registry_puro
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>Afforestation</td></tr>
+  <tr><th>Country</th><td>Brazil</td></tr>
+  <tr><th>Website</th><td><a href="https://aperambioenergia.com.br/en/biochar/" target="_blank" rel="noopener">https://aperambioenergia.com.br/en/biochar/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/aperam-bioenergia-ltda./" target="_blank" rel="noopener">aperam-bioenergia-ltda. — 318 followers</a></td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Employees</th><td>~139 (-4% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>division</td></tr>
+</table>
 
 ## About
 
@@ -42,9 +43,7 @@ Aperam BioEnergia is the Brazilian forestry and renewable-energy subsidiary of L
 - **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://carbonherald.com/the-top-10-carbon-removal-suppliers-in-mid-2025/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://carbonherald.com/the-top-10-carbon-removal-suppliers-in-mid-2025/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://aperambioenergia.com.br/en/biochar/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/aperam-bioenergia-ltda./)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

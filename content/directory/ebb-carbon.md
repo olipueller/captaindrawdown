@@ -8,15 +8,17 @@ pathway: "Ocean CDR"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Ocean CDR
-**Method:** Ocean Alkalinity Enhancement
-**Country:** United States
-**Website:** [https://www.ebbcarbon.com/](https://www.ebbcarbon.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~27 (-32% YoY)
-**LinkedIn Followers:** 7,058
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Ocean CDR</td></tr>
+  <tr><th>Method</th><td>Ocean Alkalinity Enhancement</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://www.ebbcarbon.com/" target="_blank" rel="noopener">https://www.ebbcarbon.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ebb-carbon/" target="_blank" rel="noopener">ebb-carbon — 7,058 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~27 (-32% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -31,9 +33,7 @@ Ebb Carbon is a US-based marine CDR supplier that integrates electrochemical bip
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](registry_activity))
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.ebbcarbon.com/))
 - **2026-04-18** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.businesswire.com/news/home/20251210046603/en/Ebb-signs-initial-carbon-removal-offtake-agreement-with-Google-to-accelerate-innovation-for-ocean-alkalinity-enhancement))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/ebb-carbon/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

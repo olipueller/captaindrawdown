@@ -8,15 +8,17 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Method:** Unknown
-**Country:** Belgium
-**Website:** [https://inspiratus.tech/](https://inspiratus.tech/)
-**Status:** 🟢 Active (score: 78/100)
-**Employees:** ~31 (+107% YoY)
-**LinkedIn Followers:** 1,457
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Belgium</td></tr>
+  <tr><th>Website</th><td><a href="https://inspiratus.tech/" target="_blank" rel="noopener">https://inspiratus.tech/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/inspiratus-tech/" target="_blank" rel="noopener">inspiratus-tech — 1,457 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 78/100)</td></tr>
+  <tr><th>Employees</th><td>~31 (+107% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -29,14 +31,12 @@ Inspiratus Technologies SA is a biochar-focused carbon removal company, part of 
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://inspiratus.tech/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://inspiratus.tech/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 - **** — merged duplicate: Inspiratus Technology (slug=inspiratus-technology)
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://inspiratus.tech/))
 - **2026-04-19** — url added from cdr.fyi supplier page: http://www.inspiratus.tech/ ([source](https://www.cdr.fyi/supplier/inspiratus-technologies))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/inspiratus-technologies))
-
-[View on LinkedIn](https://www.linkedin.com/company/inspiratus-tech/)
 
 ---
 

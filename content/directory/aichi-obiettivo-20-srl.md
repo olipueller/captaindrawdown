@@ -8,16 +8,18 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Secondary pathways:** Afforestation
-**Method:** Unknown
-**Country:** Italy
-**Website:** [https://www.aichio20.it/](https://www.aichio20.it/)
-**Status:** 🟢 Active (score: 70/100)
-**Employees:** ~4 (+33% YoY)
-**LinkedIn Followers:** 703
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>Afforestation</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Italy</td></tr>
+  <tr><th>Website</th><td><a href="https://www.aichio20.it/" target="_blank" rel="noopener">https://www.aichio20.it/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/aichi-obiettivo-20/" target="_blank" rel="noopener">aichi-obiettivo-20 — 703 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Employees</th><td>~4 (+33% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -30,8 +32,6 @@ Aichi Obiettivo 20 is an Italian innovative social-purpose startup based in Vill
 - **2026-04-19** — liveliness: 🟠 Suspect → 🟢 Active
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://www.aichio20.it/block-co2/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/aichi-obiettivo-20))
-
-[View on LinkedIn](https://www.linkedin.com/company/aichi-obiettivo-20/)
 
 ---
 

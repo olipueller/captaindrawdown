@@ -8,16 +8,18 @@ pathway: "Enabling Tech"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Enabling Tech
-**Secondary pathways:** Afforestation
-**Method:** Unknown
-**Country:** Switzerland
-**Website:** [https://www.greenertokens.com/](https://www.greenertokens.com/)
-**Status:** 🟢 Active (score: 78/100)
-**Employees:** ~13 (+18% YoY)
-**LinkedIn Followers:** 923
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Secondary pathways</th><td>Afforestation</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Switzerland</td></tr>
+  <tr><th>Website</th><td><a href="https://www.greenertokens.com/" target="_blank" rel="noopener">https://www.greenertokens.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/greenertoken/" target="_blank" rel="noopener">greenertoken — 923 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 78/100)</td></tr>
+  <tr><th>Employees</th><td>~13 (+18% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -30,8 +32,6 @@ Greener Tokens is a climatech that tokenizes carbon credits from Brazilian Amazo
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.greenertokens.com/tokens))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.greenertokens.com/ ([source](https://www.cdr.fyi/marketplace/greener-tokens))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/greener-tokens))
-
-[View on LinkedIn](https://www.linkedin.com/company/greenertoken/)
 
 ---
 

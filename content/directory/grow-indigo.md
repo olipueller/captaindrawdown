@@ -8,16 +8,18 @@ pathway: "Afforestation"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Afforestation
-**Secondary pathways:** Biochar
-**Method:** Unknown
-**Country:** India
-**Website:** [https://www.growindigo.co.in/](https://www.growindigo.co.in/)
-**Status:** 🟢 Active (score: 92/100)
-**Employees:** ~368 (+16% YoY)
-**LinkedIn Followers:** 20,598
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Afforestation</td></tr>
+  <tr><th>Secondary pathways</th><td>Biochar</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>India</td></tr>
+  <tr><th>Website</th><td><a href="https://www.growindigo.co.in/" target="_blank" rel="noopener">https://www.growindigo.co.in/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/grow-indigo-pvt-ltd/" target="_blank" rel="noopener">grow-indigo-pvt-ltd — 20,598 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Employees</th><td>~368 (+16% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -31,8 +33,6 @@ Grow Indigo is a Mumbai-based joint venture of Mahyco and Indigo Ag, founded in 
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.growindigo.co.in/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/grow-indigo))
-
-[View on LinkedIn](https://www.linkedin.com/company/grow-indigo-pvt-ltd/)
 
 ---
 

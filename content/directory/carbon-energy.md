@@ -8,16 +8,18 @@ pathway: "DAC"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** DAC
-**Secondary pathways:** Mineralization
-**Method:** DAC (Other/Undisclosed)
-**Country:** South Korea
-**Website:** [http://www.carbonenergy.ai/](http://www.carbonenergy.ai/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~4 (0% YoY)
-**LinkedIn Followers:** 99
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>DAC</td></tr>
+  <tr><th>Secondary pathways</th><td>Mineralization</td></tr>
+  <tr><th>Method</th><td>DAC (Other/Undisclosed)</td></tr>
+  <tr><th>Country</th><td>South Korea</td></tr>
+  <tr><th>Website</th><td><a href="http://www.carbonenergy.ai/" target="_blank" rel="noopener">http://www.carbonenergy.ai/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonenergy/" target="_blank" rel="noopener">carbonenergy — 99 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~4 (0% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -38,9 +40,7 @@ Carbon Energy (CarbonEnergy Inc.) is a seed-stage Daegu, South Korea-based start
 - **2026-04-19** — liveliness: 🟠 Suspect → 🟡 Moderate ([source](N/A))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://shizune.co/investors/energy-investors-south-korea))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://www.crunchbase.com/organization/carbon-energy-cf97))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/carbonenergy/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

@@ -8,15 +8,16 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** Zambia
-**Website:** [https://ccp.africa/](https://ccp.africa/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~2
-**LinkedIn Followers:** 78
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>Zambia</td></tr>
+  <tr><th>Website</th><td><a href="https://ccp.africa/" target="_blank" rel="noopener">https://ccp.africa/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ccpafrica/" target="_blank" rel="noopener">ccpafrica — 78 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~2</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -31,9 +32,7 @@ Circular Carbon Pathways (CCP) is a Zambia-based entity positioned around produc
 - **2026-04-19** — liveliness: 🟠 Suspect → 🟡 Moderate ([source](https://circular-carbon.com/en/carbon-credits/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://ccp.africa/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://ccp.africa/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/ccpafrica/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

@@ -8,16 +8,18 @@ pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Enabling Tech
-**Secondary pathways:** Biochar
-**Method:** Unknown
-**Country:** Germany
-**Website:** [https://toucan.earth](https://toucan.earth)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~12 (-25% YoY)
-**LinkedIn Followers:** 8,388
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Secondary pathways</th><td>Biochar</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Germany</td></tr>
+  <tr><th>Website</th><td><a href="https://toucan.earth" target="_blank" rel="noopener">https://toucan.earth</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/toucan-protocol/" target="_blank" rel="noopener">toucan-protocol — 8,388 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~12 (-25% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -33,8 +35,6 @@ Toucan is a blockchain-based carbon market infrastructure provider that tokenize
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://toucan.earth/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://toucan.earth/ ([source](https://www.cdr.fyi/marketplace/toucan))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/toucan))
-
-[View on LinkedIn](https://www.linkedin.com/company/toucan-protocol/)
 
 ---
 

@@ -8,15 +8,16 @@ pathway: "BECCS"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** BECCS
-**Method:** BECCS
-**Country:** United Kingdom
-**Website:** [https://evero.energy/](https://evero.energy/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~103
-**LinkedIn Followers:** 9,370
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>BECCS</td></tr>
+  <tr><th>Country</th><td>United Kingdom</td></tr>
+  <tr><th>Website</th><td><a href="https://evero.energy/" target="_blank" rel="noopener">https://evero.energy/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bioenergy-infrastructure-limited/" target="_blank" rel="noopener">bioenergy-infrastructure-limited — 9,370 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~103</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -38,9 +39,7 @@ Evero Energy Group Limited (previously known as Bioenergy Infrastructure Group) 
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.bioenergy-news.com/news/everos-inbeccs-project-becomes-uks-first-listed-carbon-removal-facility/))
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://evero.energy/news/Shortlisted))
 - **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://evero.energy/news/Shortlisted))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/bioenergy-infrastructure-limited/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

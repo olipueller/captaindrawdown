@@ -8,15 +8,16 @@ pathway: "BECCS"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** BECCS
-**Method:** BECCS
-**Country:** Switzerland
-**Website:** [https://www.airfixcarbon.com/](https://www.airfixcarbon.com/)
-**Status:** 🟢 Active (score: 88/100)
-**Employees:** ~8 (+33% YoY)
-**LinkedIn Followers:** 2,653
-**CDR Focus:** division
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>BECCS</td></tr>
+  <tr><th>Country</th><td>Switzerland</td></tr>
+  <tr><th>Website</th><td><a href="https://www.airfixcarbon.com/" target="_blank" rel="noopener">https://www.airfixcarbon.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/airfixcarbon/" target="_blank" rel="noopener">airfixcarbon — 2,653 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 88/100)</td></tr>
+  <tr><th>Employees</th><td>~8 (+33% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>division</td></tr>
+</table>
 
 ## About
 
@@ -31,9 +32,7 @@ Airfix is a Swiss subsidiary of South Pole, backed by the Migros Pioneer Fund, f
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://www.airfixcarbon.com/about-airfix/))
 - **2026-04-18** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://www.airfixcarbon.com/about-airfix/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/airfixcarbon/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

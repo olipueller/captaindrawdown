@@ -8,13 +8,15 @@ pathway: "Biochar"
 liveliness: "🟠 Suspect"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** Sweden
-**Website:** [https://www.reversecarbon.com/](https://www.reversecarbon.com/)
-**Status:** 🟠 Suspect (score: 30/100)
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>Sweden</td></tr>
+  <tr><th>Website</th><td><a href="https://www.reversecarbon.com/" target="_blank" rel="noopener">https://www.reversecarbon.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/reverse-carbon/" target="_blank" rel="noopener">reverse-carbon</a></td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 30/100)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -28,9 +30,7 @@ Reverse Carbon is a Stockholm-based climate tech company founded by Jenny Fellen
 - **2026-04-19** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://www.reversecarbon.com/blog/ipcc-biochar-potential-to-remove-26-billion-tonnes-co2))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://www.reversecarbon.com/blog/ipcc-biochar-potential-to-remove-26-billion-tonnes-co2))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://www.f6s.com/company/reverse-carbon))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/reverse-carbon/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

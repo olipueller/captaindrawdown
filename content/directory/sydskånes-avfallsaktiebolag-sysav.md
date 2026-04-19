@@ -8,16 +8,18 @@ pathway: "BECCS"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** BECCS
-**Secondary pathways:** Mineralization
-**Method:** Unknown
-**Country:** Sweden
-**Website:** [https://www.sysav.se](https://www.sysav.se)
-**Status:** 🟢 Active (score: 80/100)
-**Employees:** ~293 (+7% YoY)
-**LinkedIn Followers:** 7,164
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>BECCS</td></tr>
+  <tr><th>Secondary pathways</th><td>Mineralization</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Sweden</td></tr>
+  <tr><th>Website</th><td><a href="https://www.sysav.se" target="_blank" rel="noopener">https://www.sysav.se</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sysav/" target="_blank" rel="noopener">sysav — 7,164 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Employees</th><td>~293 (+7% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -30,8 +32,6 @@ Sysav (Sydskånes avfallsaktiebolag) is owned by 14 municipalities in southern S
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.mynewsdesk.com/se/sysav/pressreleases/sysav-och-polykemi-tecknar-avsiktsfoerklaring-foer-permanenta-minusutslaepp-3340257))
 - **2026-04-19** — url added from cdr.fyi supplier page: http://sysav.se ([source](https://www.cdr.fyi/supplier/sysav))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/sysav))
-
-[View on LinkedIn](https://www.linkedin.com/company/sysav/)
 
 ---
 

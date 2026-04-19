@@ -8,16 +8,17 @@ pathway: "Ocean CDR"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Ocean CDR
-**Secondary pathways:** Mineralization
-**Method:** Ocean CDR
-**Country:** United States
-**Website:** [https://electrocean.eco/](https://electrocean.eco/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~2
-**LinkedIn Followers:** 55
-**CDR Focus:** supplier
-**Evidence signals:** exa_search
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Ocean CDR</td></tr>
+  <tr><th>Secondary pathways</th><td>Mineralization</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://electrocean.eco/" target="_blank" rel="noopener">https://electrocean.eco/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/electrocean/" target="_blank" rel="noopener">electrocean — 55 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~2</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -31,8 +32,6 @@ Electrocean is an early-stage US student-founded marine CDR startup developing e
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://electrocean.eco/))
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://electrocean.eco/))
 - **2026-04-18** — discovered via: exa ([source](https://electrocean.eco/))
-
-[View on LinkedIn](https://www.linkedin.com/company/electrocean/)
 
 ---
 

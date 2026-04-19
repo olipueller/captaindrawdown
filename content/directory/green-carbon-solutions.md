@@ -8,14 +8,15 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Secondary pathways:** Biomass Burial
-**Method:** Biochar
-**Country:** United States
-**Website:** [https://www.greencarbonsolutions.com/](https://www.greencarbonsolutions.com/)
-**Status:** 🟢 Active (score: 80/100)
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>Biomass Burial</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://www.greencarbonsolutions.com/" target="_blank" rel="noopener">https://www.greencarbonsolutions.com/</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -31,7 +32,7 @@ Green Carbon Solutions is an Indiantown, Florida-based climate-tech company led 
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.greencarbonsolutions.com/blog/biochar-basics---what-is-biochar))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.theepochtimes.com/us/south-florida-biochar-plant-poised-to-be-key-for-domestic-silicon-chip-makers-5827011))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.greencarbonsolutions.com/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

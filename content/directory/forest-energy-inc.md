@@ -8,16 +8,18 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Secondary pathways:** BECCS
-**Method:** Unknown
-**Country:** Japan
-**Website:** [https://forestenergy.jp/](https://forestenergy.jp/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~13 (-7% YoY)
-**LinkedIn Followers:** 150
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>BECCS</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Japan</td></tr>
+  <tr><th>Website</th><td><a href="https://forestenergy.jp/" target="_blank" rel="noopener">https://forestenergy.jp/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/forest-energy/" target="_blank" rel="noopener">forest-energy — 150 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~13 (-7% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -31,8 +33,6 @@ Forest Energy Inc. is a Tokyo-based company that develops and operates small-sca
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://forestenergy.jp/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://forestenergy.jp/ ([source](https://www.cdr.fyi/supplier/forest-energy))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/forest-energy))
-
-[View on LinkedIn](https://www.linkedin.com/company/forest-energy/)
 
 ---
 

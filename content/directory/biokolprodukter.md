@@ -8,13 +8,16 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Method:** Unknown
-**Country:** Sweden
-**Website:** [https://biokolprodukter.se/](https://biokolprodukter.se/)
-**Status:** 🟡 Moderate (score: 55/100)
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Sweden</td></tr>
+  <tr><th>Website</th><td><a href="https://biokolprodukter.se/" target="_blank" rel="noopener">https://biokolprodukter.se/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biokolprodukter/" target="_blank" rel="noopener">biokolprodukter</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -30,8 +33,6 @@ Biokolprodukter is a Swedish company, established in 2019, that develops and sel
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://biokolprodukter.se/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://biokolprodukter.se/ ([source](https://www.cdr.fyi/supplier/biokolprodukter))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/biokolprodukter))
-
-[View on LinkedIn](https://www.linkedin.com/company/biokolprodukter/)
 
 ---
 

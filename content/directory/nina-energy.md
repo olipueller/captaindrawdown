@@ -8,15 +8,16 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** Ecuador
-**Website:** [https://nina.energy/en/](https://nina.energy/en/)
-**Status:** 🟢 Active (score: 85/100)
-**Employees:** ~2 (+100% YoY)
-**LinkedIn Followers:** 786
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>Ecuador</td></tr>
+  <tr><th>Website</th><td><a href="https://nina.energy/en/" target="_blank" rel="noopener">https://nina.energy/en/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/nina-energy/" target="_blank" rel="noopener">nina-energy — 786 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Employees</th><td>~2 (+100% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -30,9 +31,7 @@ Nina Energy Limited is an Ecuadorian start-up (founded 2021, formerly Andes Bioe
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://nina.energy/en/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://nina.energy/en/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/nina-energy/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

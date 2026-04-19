@@ -8,16 +8,18 @@ pathway: "Enabling Tech"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Enabling Tech
-**Method:** CDR Platform/Marketplace
-**Country:** Norway
-**Website:** [https://www.chooose.today/](https://www.chooose.today/)
-**Status:** 🟢 Active (score: 85/100)
-**Employees:** ~70 (-7% YoY)
-**LinkedIn Followers:** 9,689
-**Open roles on cdrjobs:** 1
-**CDR Focus:** ecosystem
-**Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>CDR Platform/Marketplace</td></tr>
+  <tr><th>Country</th><td>Norway</td></tr>
+  <tr><th>Website</th><td><a href="https://www.chooose.today/" target="_blank" rel="noopener">https://www.chooose.today/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/chooose/" target="_blank" rel="noopener">chooose — 9,689 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Employees</th><td>~70 (-7% YoY)</td></tr>
+  <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -34,9 +36,7 @@ Chooose AS is an Oslo-based climate-tech SaaS company founded in 2017 that provi
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.chooose.today/))
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.chooose.today/))
-- **2026-04-18** — backfilled from V1
-
-[View on LinkedIn](https://www.linkedin.com/company/chooose/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

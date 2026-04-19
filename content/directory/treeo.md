@@ -8,17 +8,19 @@ pathway: "Afforestation"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Afforestation
-**Secondary pathways:** Biochar
-**Method:** Afforestation/Reforestation
-**Country:** Germany
-**Website:** [https://www.treeo.one/](https://www.treeo.one/)
-**Status:** 🟢 Active (score: 75/100)
-**Employees:** ~36 (-5% YoY)
-**LinkedIn Followers:** 4,460
-**Open roles on cdrjobs:** 3
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Afforestation</td></tr>
+  <tr><th>Secondary pathways</th><td>Biochar</td></tr>
+  <tr><th>Method</th><td>Afforestation/Reforestation</td></tr>
+  <tr><th>Country</th><td>Germany</td></tr>
+  <tr><th>Website</th><td><a href="https://www.treeo.one/" target="_blank" rel="noopener">https://www.treeo.one/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/treeo-org/" target="_blank" rel="noopener">treeo-org — 4,460 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Employees</th><td>~36 (-5% YoY)</td></tr>
+  <tr><th>Open roles</th><td>3 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -35,9 +37,7 @@ TREEO is operated by Fairventures Digital GmbH in Stuttgart, Germany, a for-prof
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://treeo.one/en/treeo/about-us))
 - **2026-04-18** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://treeo.one/en/))
-- **2026-04-18** — backfilled from V1
-
-[View on LinkedIn](https://www.linkedin.com/company/treeo-org/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

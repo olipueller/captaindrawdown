@@ -8,14 +8,15 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** Namibia
-**Website:** [https://www.carboncapital.com.na/](https://www.carboncapital.com.na/)
-**Status:** 🟡 Moderate (score: 55/100)
-**LinkedIn Followers:** 405
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>Namibia</td></tr>
+  <tr><th>Website</th><td><a href="https://www.carboncapital.com.na/" target="_blank" rel="noopener">https://www.carboncapital.com.na/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carboncapitalnamibia/" target="_blank" rel="noopener">carboncapitalnamibia — 405 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -30,9 +31,7 @@ Carbon Capital is a Namibian bioeconomy company established in 2020 by Cirrus Ca
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://theextractormagazine.com/2025/12/12/carbon-capital-produces-16291-tonnes-of-biochar/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://theextractormagazine.com/2025/12/12/carbon-capital-produces-16291-tonnes-of-biochar/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://theextractormagazine.com/2025/12/12/carbon-capital-produces-16291-tonnes-of-biochar/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/carboncapitalnamibia/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

@@ -8,16 +8,18 @@ pathway: "Afforestation"
 liveliness: "🔴 Likely Dead"
 ---
 
-**Pathway:** Afforestation
-**Secondary pathways:** Enabling Tech
-**Method:** BiCRS (Other)
-**Country:** France
-**Website:** [https://eco-act.com/](https://eco-act.com/)
-**Status:** 🔴 Likely Dead (score: 15/100)
-**Employees:** ~131 (-25% YoY)
-**LinkedIn Followers:** 33,009
-**CDR Focus:** ecosystem
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Afforestation</td></tr>
+  <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>BiCRS (Other)</td></tr>
+  <tr><th>Country</th><td>France</td></tr>
+  <tr><th>Website</th><td><a href="https://eco-act.com/" target="_blank" rel="noopener">https://eco-act.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ecoact/" target="_blank" rel="noopener">ecoact — 33,009 followers</a></td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Employees</th><td>~131 (-25% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -40,9 +42,7 @@ EcoAct, founded in France in 2006, was an international climate consultancy and 
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://edscleanenergysustainabilityjobs.com/eds-clean-energy-sustainability-jobs-list-12-08-24/))
 - **2026-04-19** — reclassified: pathway=Afforestation focus=ecosystem liveliness=🟢 Active ([source](https://eco-act.com/blog/introducing-se-advisory-services/))
 - **2026-04-18** — reclassified: pathway=Afforestation focus=ecosystem liveliness=🟢 Active ([source](https://eco-act.com/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/ecoact/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

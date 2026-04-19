@@ -8,15 +8,16 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** United Kingdom
-**Website:** [https://positivebiocarbon.com/gb/](https://positivebiocarbon.com/gb/)
-**Status:** 🟢 Active (score: 70/100)
-**Employees:** ~4 (+33% YoY)
-**LinkedIn Followers:** 86
-**CDR Focus:** division
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>United Kingdom</td></tr>
+  <tr><th>Website</th><td><a href="https://positivebiocarbon.com/gb/" target="_blank" rel="noopener">https://positivebiocarbon.com/gb/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/rectella-international-ltd-positive-biocarbon/" target="_blank" rel="noopener">rectella-international-ltd-positive-biocarbon — 86 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Employees</th><td>~4 (+33% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>division</td></tr>
+</table>
 
 ## About
 
@@ -31,9 +32,7 @@ Positive BioCarbon is a UK-based biochar manufacturer and distributor operating 
 - **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://positivebiocarbon.com/gb/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟡 Moderate ([source](https://positivebiocarbon.com/gb/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟡 Moderate ([source](https://positivebiocarbon.com/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/rectella-international-ltd-positive-biocarbon/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

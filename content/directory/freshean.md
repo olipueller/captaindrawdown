@@ -8,16 +8,18 @@ pathway: "DAC"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** DAC
-**Secondary pathways:** Ocean CDR
-**Method:** DAC (Solid Sorbent)
-**Country:** United States
-**Website:** [https://www.freshean.com/](https://www.freshean.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~1
-**LinkedIn Followers:** 18
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>DAC</td></tr>
+  <tr><th>Secondary pathways</th><td>Ocean CDR</td></tr>
+  <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://www.freshean.com/" target="_blank" rel="noopener">https://www.freshean.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/freshean-corp/" target="_blank" rel="noopener">freshean-corp — 18 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~1</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -33,9 +35,7 @@ Freshean Corp. is a Scottsdale, Arizona climate-tech startup founded and led by 
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://forclimatetech.org/freshean-corp/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://forclimatetech.org/freshean-corp/))
 - **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://forclimatetech.org/freshean-corp/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/freshean-corp/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

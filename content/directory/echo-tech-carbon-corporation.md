@@ -8,15 +8,16 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** Canada
-**Website:** [https://www.echotechcarbon.com/](https://www.echotechcarbon.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~3 (0% YoY)
-**LinkedIn Followers:** 166
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin, registry_puro
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>Canada</td></tr>
+  <tr><th>Website</th><td><a href="https://www.echotechcarbon.com/" target="_blank" rel="noopener">https://www.echotechcarbon.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/echotech-carbon-corporation/" target="_blank" rel="noopener">echotech-carbon-corporation — 166 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~3 (0% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -35,9 +36,7 @@ Echo Tech Carbon Corporation is a Vancouver, Canada-based biochar project develo
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.linkedin.com/posts/cleantech-group_innovation-investments-biochar-activity-7150200963901915136-Q3Du))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.echotechcarbon.com/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.echotechcarbon.com/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/echotech-carbon-corporation/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

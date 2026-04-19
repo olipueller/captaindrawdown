@@ -8,15 +8,16 @@ pathway: "BECCS"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** BECCS
-**Method:** BECCS
-**Country:** United States
-**Website:** [https://marquisinc.com/](https://marquisinc.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~147
-**LinkedIn Followers:** 2,172
-**CDR Focus:** division
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>BECCS</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://marquisinc.com/" target="_blank" rel="noopener">https://marquisinc.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/marquis-energy-llc/" target="_blank" rel="noopener">marquis-energy-llc — 2,172 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~147</td></tr>
+  <tr><th>CDR Focus</th><td>division</td></tr>
+</table>
 
 ## About
 
@@ -31,9 +32,7 @@ Marquis Energy operates the world's largest dry-mill ethanol plant in Hennepin, 
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://marquisinc.com/carbon-and-sustainability/))
 - **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://marquisinc.com/carbon-and-sustainability/))
 - **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://marquisinc.com/carbon-and-sustainability/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/marquis-energy-llc/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

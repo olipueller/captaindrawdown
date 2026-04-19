@@ -8,16 +8,18 @@ pathway: "Enhanced Weathering"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Enhanced Weathering
-**Secondary pathways:** Ocean CDR
-**Method:** Ocean Alkalinity Enhancement
-**Country:** Canada
-**Website:** [https://www.carbonrun.io/](https://www.carbonrun.io/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~23 (0% YoY)
-**LinkedIn Followers:** 4,181
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin, registry_isometric
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enhanced Weathering</td></tr>
+  <tr><th>Secondary pathways</th><td>Ocean CDR</td></tr>
+  <tr><th>Method</th><td>Ocean Alkalinity Enhancement</td></tr>
+  <tr><th>Country</th><td>Canada</td></tr>
+  <tr><th>Website</th><td><a href="https://www.carbonrun.io/" target="_blank" rel="noopener">https://www.carbonrun.io/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonrun/" target="_blank" rel="noopener">carbonrun — 4,181 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~23 (0% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -35,9 +37,7 @@ CarbonRun is a Nova Scotia-based company founded in 2022 by environmental scient
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://fundraiseinsider.com/blog/pre-seed-startups/))
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://isometric.com/writing-articles/the-worlds-first-river-alkalinity-enhancement-credits))
 - **2026-04-18** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://carbonherald.com/carbonrun-issues-worlds-first-river-alkalinity-enhancement-credits/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/carbonrun/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

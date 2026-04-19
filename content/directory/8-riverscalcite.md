@@ -8,15 +8,17 @@ pathway: "DAC"
 liveliness: "🟠 Suspect"
 ---
 
-**Pathway:** DAC
-**Method:** DAC (Solid Sorbent)
-**Country:** United States
-**Website:** [https://8rivers.com/](https://8rivers.com/)
-**Status:** 🟠 Suspect (score: 40/100)
-**Employees:** ~59 (-35% YoY)
-**LinkedIn Followers:** 10,981
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin, registry_cdrjobsearth
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>DAC</td></tr>
+  <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://8rivers.com/" target="_blank" rel="noopener">https://8rivers.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/8-rivers-capital/" target="_blank" rel="noopener">8-rivers-capital — 10,981 followers</a></td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Employees</th><td>~59 (-35% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -49,9 +51,7 @@ liveliness: "🟠 Suspect"
 - **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://8rivers.com/portfolio/calcite/))
 - **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://8rivers.com/portfolio/calcite/))
 - **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://8rivers.com/portfolio/calcite/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/8-rivers-capital/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

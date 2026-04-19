@@ -8,16 +8,18 @@ pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Enabling Tech
-**Secondary pathways:** Biochar, Enhanced Weathering
-**Method:** Unknown
-**Country:** United States
-**Website:** [https://www.wren.co/](https://www.wren.co/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~291 (-10% YoY)
-**LinkedIn Followers:** 4,797
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Secondary pathways</th><td>Biochar, Enhanced Weathering</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://www.wren.co/" target="_blank" rel="noopener">https://www.wren.co/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/project-wren/" target="_blank" rel="noopener">project-wren — 4,797 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~291 (-10% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -31,8 +33,6 @@ Wren Climate, PBC is a US-based public benefit corporation operating a consumer-
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.wren.co/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.wren.co/ ([source](https://www.cdr.fyi/marketplace/wren))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/wren))
-
-[View on LinkedIn](https://www.linkedin.com/company/project-wren/)
 
 ---
 

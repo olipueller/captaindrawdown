@@ -8,16 +8,17 @@ pathway: "BECCS"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** BECCS
-**Secondary pathways:** Mineralization
-**Method:** BECCS
-**Country:** United States
-**Website:** [https://www.adm.com/en-us/standalone-pages/adm-and-carbon-capture-and-storage/](https://www.adm.com/en-us/standalone-pages/adm-and-carbon-capture-and-storage/)
-**Status:** 🟢 Active (score: 90/100)
-**Employees:** ~41049 (+20% YoY)
-**LinkedIn Followers:** 1,036,375
-**CDR Focus:** division
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>BECCS</td></tr>
+  <tr><th>Secondary pathways</th><td>Mineralization</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://www.adm.com/en-us/standalone-pages/adm-and-carbon-capture-and-storage/" target="_blank" rel="noopener">https://www.adm.com/en-us/standalone-pages/adm-and-carbon-capture-and-storage/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/adm/" target="_blank" rel="noopener">adm — 1,036,375 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Employees</th><td>~41049 (+20% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>division</td></tr>
+</table>
 
 ## About
 
@@ -32,9 +33,7 @@ ADM (Archer Daniels Midland) is a global agribusiness giant whose CCS division o
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://www.adm.com/en-us/news/news-releases/2025/10/adm-super6-carbon-announce-plans-to-produce-cdr-credits-in-decatur/))
 - **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://www.adm.com/en-us/news/news-releases/2025/10/adm-super6-carbon-announce-plans-to-produce-cdr-credits-in-decatur/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/adm/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

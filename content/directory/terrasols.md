@@ -8,15 +8,17 @@ pathway: "Enhanced Weathering"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Enhanced Weathering
-**Method:** Enhanced Rock Weathering
-**Country:** India
-**Website:** [https://terrasols.earth/](https://terrasols.earth/)
-**Status:** 🟢 Active (score: 70/100)
-**Employees:** ~4 (+100% YoY)
-**LinkedIn Followers:** 904
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enhanced Weathering</td></tr>
+  <tr><th>Method</th><td>Enhanced Rock Weathering</td></tr>
+  <tr><th>Country</th><td>India</td></tr>
+  <tr><th>Website</th><td><a href="https://terrasols.earth/" target="_blank" rel="noopener">https://terrasols.earth/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/greenlife-sustainability/" target="_blank" rel="noopener">greenlife-sustainability — 904 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Employees</th><td>~4 (+100% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -37,9 +39,7 @@ Terrasols (Terrasols Solutions) is an India-based enhanced rock weathering start
 - **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://terrasols.earth/))
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟡 Moderate ([source](https://terrasols.earth/))
 - **2026-04-18** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://terrasols.earth/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/greenlife-sustainability/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

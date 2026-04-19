@@ -8,14 +8,15 @@ pathway: "Biochar"
 liveliness: "🟠 Suspect"
 ---
 
-**Pathway:** Biochar
-**Secondary pathways:** BECCS
-**Method:** Biochar
-**Country:** Germany
-**Website:** [https://www.climatecarbon.de/](https://www.climatecarbon.de/)
-**Status:** 🟠 Suspect (score: 35/100)
-**CDR Focus:** division
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>BECCS</td></tr>
+  <tr><th>Country</th><td>Germany</td></tr>
+  <tr><th>Website</th><td><a href="https://www.climatecarbon.de/" target="_blank" rel="noopener">https://www.climatecarbon.de/</a></td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 35/100)</td></tr>
+  <tr><th>CDR Focus</th><td>division</td></tr>
+</table>
 
 ## About
 
@@ -31,7 +32,7 @@ ClimateCarbon Eberswalde GmbH & Co. KG is a ForestFinance Group subsidiary estab
 - **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://www.climatecarbon.de/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟡 Moderate ([source](https://www.climatecarbon.de/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.climatecarbon.de/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

@@ -8,16 +8,18 @@ pathway: "DAC"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** DAC
-**Secondary pathways:** Mineralization
-**Method:** DAC (Other/Undisclosed)
-**Country:** South Korea
-**Website:** [https://www.lowcarbon.co.kr/en/](https://www.lowcarbon.co.kr/en/)
-**Status:** 🟢 Active (score: 72/100)
-**Employees:** ~8 (-33% YoY)
-**LinkedIn Followers:** 254
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>DAC</td></tr>
+  <tr><th>Secondary pathways</th><td>Mineralization</td></tr>
+  <tr><th>Method</th><td>DAC (Other/Undisclosed)</td></tr>
+  <tr><th>Country</th><td>South Korea</td></tr>
+  <tr><th>Website</th><td><a href="https://www.lowcarbon.co.kr/en/" target="_blank" rel="noopener">https://www.lowcarbon.co.kr/en/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/%eb%a1%9c%ec%9a%b0%ec%b9%b4%eb%b3%b8/" target="_blank" rel="noopener">%eb%a1%9c%ec%9a%b0%ec%b9%b4%eb%b3%b8 — 254 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 72/100)</td></tr>
+  <tr><th>Employees</th><td>~8 (-33% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -33,9 +35,7 @@ LowCarbon is a South Korean climate-tech company founded in 2016 in Gangjin Coun
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.lowcarbon.co.kr/communication/newsroom/%EB%A1%9C%EC%9A%B0%EC%B9%B4%EB%B3%B8-%ED%99%98%EA%B2%BD%EC%9E%AC%EB%8B%A8%EA%B3%BC-%EB%8C%80%EA%EA%B8%B0-%EC%A4%91-co%E2%82%82-%ED%8F%AC%EC%A7%91%EA%B8%B0-%EC%82%AC%EC%97%85-mou/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.lowcarbon.co.kr/en/business/weather/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://daccoalition.org/dac-company-members-directory/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/%eb%a1%9c%ec%9a%b0%ec%b9%b4%eb%b3%b8/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

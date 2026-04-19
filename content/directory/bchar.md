@@ -8,15 +8,16 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** Switzerland
-**Website:** [https://bchar.earth/](https://bchar.earth/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~8 (-33% YoY)
-**LinkedIn Followers:** 1,946
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>Switzerland</td></tr>
+  <tr><th>Website</th><td><a href="https://bchar.earth/" target="_blank" rel="noopener">https://bchar.earth/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/b-char/" target="_blank" rel="noopener">b-char — 1,946 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~8 (-33% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -31,9 +32,7 @@ BCHAR AG is a Zurich, Switzerland-based company founded in 2023 that develops in
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://pitchbook.com/profiles/company/533180-35))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://bchar.earth/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://bchar.earth/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/b-char/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

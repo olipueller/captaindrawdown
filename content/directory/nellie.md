@@ -8,16 +8,17 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Secondary pathways:** DAC
-**Method:** Biochar
-**Country:** United Kingdom
-**Website:** [https://www.nellie.tech/](https://www.nellie.tech/)
-**Status:** 🟢 Active (score: 88/100)
-**Employees:** ~4 (+33% YoY)
-**LinkedIn Followers:** 924
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>DAC</td></tr>
+  <tr><th>Country</th><td>United Kingdom</td></tr>
+  <tr><th>Website</th><td><a href="https://www.nellie.tech/" target="_blank" rel="noopener">https://www.nellie.tech/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/nellie-tech/" target="_blank" rel="noopener">nellie-tech — 924 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 88/100)</td></tr>
+  <tr><th>Employees</th><td>~4 (+33% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -37,9 +38,7 @@ Nellie Technologies is a UK-based CDR supplier operating a pilot site at Mwyndy 
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.nellie.tech/technology))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.esgtoday.com/zurich-signs-17500-ton-carbon-removal-deal-with-climate-solutions-provider-nellie-technologies/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/nellie-tech/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

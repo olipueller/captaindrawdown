@@ -8,17 +8,19 @@ pathway: "Afforestation"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Afforestation
-**Secondary pathways:** Ocean CDR
-**Method:** CDR Platform/Marketplace
-**Country:** France
-**Website:** [https://www.removall-carbon.com/](https://www.removall-carbon.com/)
-**Status:** 🟢 Active (score: 85/100)
-**Employees:** ~41 (+28% YoY)
-**LinkedIn Followers:** 8,918
-**Open roles on cdrjobs:** 5
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Afforestation</td></tr>
+  <tr><th>Secondary pathways</th><td>Ocean CDR</td></tr>
+  <tr><th>Method</th><td>CDR Platform/Marketplace</td></tr>
+  <tr><th>Country</th><td>France</td></tr>
+  <tr><th>Website</th><td><a href="https://www.removall-carbon.com/" target="_blank" rel="noopener">https://www.removall-carbon.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/removall-carbon/" target="_blank" rel="noopener">removall-carbon — 8,918 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Employees</th><td>~41 (+28% YoY)</td></tr>
+  <tr><th>Open roles</th><td>5 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -41,9 +43,7 @@ Removall Carbon is a Paris-based carbon project developer that designs, operates
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://carboncredits.com/removall-and-sumitomo-team-up-to-expand-high-quality-carbon-credits-exclusive-interview-with-removall-ceo-jerome-beilin-inside/))
 - **2026-04-18** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://carboncredits.com/removall-and-sumitomo-team-up-to-expand-high-quality-carbon-credits-exclusive-interview-with-removall-ceo-jerome-beilin-inside/))
-- **2026-04-18** — backfilled from V1
-
-[View on LinkedIn](https://www.linkedin.com/company/removall-carbon/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

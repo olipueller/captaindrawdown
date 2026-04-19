@@ -8,16 +8,17 @@ pathway: "BECCS"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** BECCS
-**Secondary pathways:** Enabling Tech
-**Method:** BECCS
-**Country:** Canada
-**Website:** [https://www.svanteinc.com/](https://www.svanteinc.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~289 (-2% YoY)
-**LinkedIn Followers:** 25,849
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, registry_cdrjobsearth
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>BECCS</td></tr>
+  <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
+  <tr><th>Country</th><td>Canada</td></tr>
+  <tr><th>Website</th><td><a href="https://www.svanteinc.com/" target="_blank" rel="noopener">https://www.svanteinc.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/svantesolutions/" target="_blank" rel="noopener">svantesolutions — 25,849 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~289 (-2% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -61,8 +62,6 @@ Svante is a Vancouver, BC-based carbon capture and removal technology company th
 - **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://www.svanteinc.com/press-releases/svante-mltc-beccs-cdrs-microsoft/))
 - **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://www.carbonalpha.com/northstar))
 - **2026-04-18** — discovered via: news_feed ([source](https://www.gasworld.com/story/microsoft-signs-15-year-beccs-credit-deal-in-canada/2244832.article/))
-
-[View on LinkedIn](https://www.linkedin.com/company/svantesolutions/)
 
 ---
 

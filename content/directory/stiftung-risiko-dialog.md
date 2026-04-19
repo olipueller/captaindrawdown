@@ -8,15 +8,17 @@ pathway: "Enabling Tech"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Enabling Tech
-**Method:** Unknown
-**Country:** Switzerland
-**Website:** [https://www.risiko-dialog.ch](https://www.risiko-dialog.ch)
-**Status:** 🟢 Active (score: 85/100)
-**Employees:** ~17 (+6% YoY)
-**LinkedIn Followers:** 2,135
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Switzerland</td></tr>
+  <tr><th>Website</th><td><a href="https://www.risiko-dialog.ch" target="_blank" rel="noopener">https://www.risiko-dialog.ch</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/risk-dialogue-foundation/" target="_blank" rel="noopener">risk-dialogue-foundation — 2,135 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Employees</th><td>~17 (+6% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -29,8 +31,6 @@ Stiftung Risiko-Dialog (Risk Dialogue Foundation) is a Swiss non-profit foundati
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.risiko-dialog.ch/en/projekt/swiss-carbon-sinks-platform-2/))
 - **2026-04-19** — url added from cdr.fyi supplier page: http://www.risiko-dialog.ch ([source](https://www.cdr.fyi/marketplace/stiftung-risiko-dialog))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/stiftung-risiko-dialog))
-
-[View on LinkedIn](https://www.linkedin.com/company/risk-dialogue-foundation/)
 
 ---
 

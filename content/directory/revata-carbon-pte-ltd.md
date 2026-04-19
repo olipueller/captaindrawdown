@@ -8,15 +8,17 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Method:** Unknown
-**Country:** Singapore
-**Website:** [https://revatacarbon.com/](https://revatacarbon.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~6
-**LinkedIn Followers:** 1,575
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Singapore</td></tr>
+  <tr><th>Website</th><td><a href="https://revatacarbon.com/" target="_blank" rel="noopener">https://revatacarbon.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/revatacarbon/" target="_blank" rel="noopener">revatacarbon — 1,575 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~6</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -30,8 +32,6 @@ Revata Carbon is a Singapore-incorporated biochar project developer that convert
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://revatacarbon.com/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://revatacarbon.com/ ([source](https://www.cdr.fyi/supplier/revata-carbon))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/revata-carbon))
-
-[View on LinkedIn](https://www.linkedin.com/company/revatacarbon/)
 
 ---
 

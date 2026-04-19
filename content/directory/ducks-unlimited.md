@@ -8,16 +8,18 @@ pathway: "Afforestation"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Afforestation
-**Secondary pathways:** Afforestation
-**Method:** Unknown
-**Country:** United States
-**Website:** [https://www.ducks.org/](https://www.ducks.org/)
-**Status:** 🟢 Active (score: 85/100)
-**Employees:** ~1127 (+7% YoY)
-**LinkedIn Followers:** 72,474
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Afforestation</td></tr>
+  <tr><th>Secondary pathways</th><td>Afforestation</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://www.ducks.org/" target="_blank" rel="noopener">https://www.ducks.org/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ducks-unlimited/" target="_blank" rel="noopener">ducks-unlimited — 72,474 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Employees</th><td>~1127 (+7% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -29,8 +31,6 @@ Ducks Unlimited (DU) is a North American waterfowl and wetlands conservation non
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.ducks.org/conservation/sustainability/ducks-unlimiteds-carbon-program))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/ducks-unlimited ))
-
-[View on LinkedIn](https://www.linkedin.com/company/ducks-unlimited/)
 
 ---
 

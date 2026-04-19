@@ -8,15 +8,16 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** Sweden
-**Website:** [https://www.telge.se/om-telge/vara-bolag/telge-atervinning/](https://www.telge.se/om-telge/vara-bolag/telge-atervinning/)
-**Status:** 🟢 Active (score: 70/100)
-**Employees:** ~659 (+6% YoY)
-**LinkedIn Followers:** 5,997
-**CDR Focus:** division
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>Sweden</td></tr>
+  <tr><th>Website</th><td><a href="https://www.telge.se/om-telge/vara-bolag/telge-atervinning/" target="_blank" rel="noopener">https://www.telge.se/om-telge/vara-bolag/telge-atervinning/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/telge-ab/" target="_blank" rel="noopener">telge-ab — 5,997 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Employees</th><td>~659 (+6% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>division</td></tr>
+</table>
 
 ## About
 
@@ -31,9 +32,7 @@ Telge Återvinning is a municipal waste management and recycling subsidiary of T
 - **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://thecharmaker.com/project/telge-atervinning-ab-biochar-facility/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟡 Moderate ([source](https://www.telge.se/om-telge/vara-bolag/telge-atervinning/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟡 Moderate ([source](https://thecharmaker.com/project/telge-atervinning-ab-biochar-facility/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/telge-ab/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

@@ -8,15 +8,17 @@ pathway: "Mineralization"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Mineralization
-**Method:** Mineralization (Other)
-**Country:** Germany
-**Website:** [https://www.rement.tech/en](https://www.rement.tech/en)
-**Status:** 🟢 Active (score: 82/100)
-**Employees:** ~9 (+80% YoY)
-**LinkedIn Followers:** 1,359
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Mineralization</td></tr>
+  <tr><th>Method</th><td>Mineralization (Other)</td></tr>
+  <tr><th>Country</th><td>Germany</td></tr>
+  <tr><th>Website</th><td><a href="https://www.rement.tech/en" target="_blank" rel="noopener">https://www.rement.tech/en</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/rement/" target="_blank" rel="noopener">rement — 1,359 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 82/100)</td></tr>
+  <tr><th>Employees</th><td>~9 (+80% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -28,9 +30,7 @@ Rement is a Karlsruhe Institute of Technology (KIT) spin-off based in Eggenstein
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.rement.tech/))
 - **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.rement.tech/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/rement/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

@@ -8,15 +8,17 @@ pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Enabling Tech
-**Method:** Unknown
-**Country:** Isle of Man
-**Website:** [https://carbon-plant.com/](https://carbon-plant.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~11
-**LinkedIn Followers:** 316
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Isle of Man</td></tr>
+  <tr><th>Website</th><td><a href="https://carbon-plant.com/" target="_blank" rel="noopener">https://carbon-plant.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-plant/" target="_blank" rel="noopener">carbon-plant — 316 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~11</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -30,8 +32,6 @@ Carbon Plant is an Isle of Man-based, FSA-registered carbon credit exchange that
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://carbon-plant.com/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://carbon-plant.com/ ([source](https://www.cdr.fyi/marketplace/carbon-plant))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/carbon-plant))
-
-[View on LinkedIn](https://www.linkedin.com/company/carbon-plant/)
 
 ---
 

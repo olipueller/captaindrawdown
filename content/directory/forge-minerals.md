@@ -8,15 +8,17 @@ pathway: "Mineralization"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Mineralization
-**Method:** Mineralization (Other)
-**Country:** United Kingdom
-**Website:** [https://forgeminerals.com/](https://forgeminerals.com/)
-**Status:** 🟢 Active (score: 85/100)
-**Employees:** ~5 (+67% YoY)
-**LinkedIn Followers:** 612
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Mineralization</td></tr>
+  <tr><th>Method</th><td>Mineralization (Other)</td></tr>
+  <tr><th>Country</th><td>United Kingdom</td></tr>
+  <tr><th>Website</th><td><a href="https://forgeminerals.com/" target="_blank" rel="noopener">https://forgeminerals.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/forge-minerals/" target="_blank" rel="noopener">forge-minerals — 612 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Employees</th><td>~5 (+67% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -35,9 +37,7 @@ Forge Minerals is an Edinburgh-based startup founded in 2024 that converts waste
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://forgeminerals.com))
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://forgeminerals.com/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/forge-minerals/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

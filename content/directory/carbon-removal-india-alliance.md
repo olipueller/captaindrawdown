@@ -8,16 +8,18 @@ pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Enabling Tech
-**Secondary pathways:** Biochar, Enhanced Weathering
-**Method:** Unknown
-**Country:** India
-**Website:** [https://www.cria.earth/](https://www.cria.earth/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~17 (-11% YoY)
-**LinkedIn Followers:** 5,093
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Secondary pathways</th><td>Biochar, Enhanced Weathering</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>India</td></tr>
+  <tr><th>Website</th><td><a href="https://www.cria.earth/" target="_blank" rel="noopener">https://www.cria.earth/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cria-earth/" target="_blank" rel="noopener">cria-earth — 5,093 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~17 (-11% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -31,8 +33,6 @@ The Carbon Removal India Alliance (CRIA) is a non-partisan membership organisati
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.cria.earth/about))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.cria.earth/ ([source](https://www.cdr.fyi/marketplace/carbon-removal-india-alliance))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/carbon-removal-india-alliance))
-
-[View on LinkedIn](https://www.linkedin.com/company/cria-earth/)
 
 ---
 

@@ -8,16 +8,18 @@ pathway: "Afforestation"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Afforestation
-**Secondary pathways:** Biochar, BECCS, Enhanced Weathering, Ocean CDR
-**Method:** Unknown
-**Country:** Switzerland
-**Website:** [https://ecosecurities.com/](https://ecosecurities.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~273 (-2% YoY)
-**LinkedIn Followers:** 22,671
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Afforestation</td></tr>
+  <tr><th>Secondary pathways</th><td>Biochar, BECCS, Enhanced Weathering, Ocean CDR</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Switzerland</td></tr>
+  <tr><th>Website</th><td><a href="https://ecosecurities.com/" target="_blank" rel="noopener">https://ecosecurities.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ecosecurities/" target="_blank" rel="noopener">ecosecurities — 22,671 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~273 (-2% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -33,8 +35,6 @@ EcoSecurities is a Geneva/Carouge-based carbon project developer and climate adv
 - **2026-04-19** — reclassified: pathway=Afforestation focus=ecosystem liveliness=🟢 Active ([source](https://ecosecurities.com/))
 - **2026-04-19** — reclassified: pathway=Afforestation focus=ecosystem liveliness=🟢 Active ([source](https://ecosecurities.com/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/ecosecurities))
-
-[View on LinkedIn](https://www.linkedin.com/company/ecosecurities/)
 
 ---
 

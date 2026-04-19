@@ -8,15 +8,16 @@ pathway: "BECCS"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** BECCS
-**Method:** BECCS
-**Country:** Japan
-**Website:** [https://www.global.toshiba/ww/products-solutions/thermal/products-technical-services/zero-emissions.html](https://www.global.toshiba/ww/products-solutions/thermal/products-technical-services/zero-emissions.html)
-**Status:** 🟢 Active (score: 75/100)
-**Employees:** ~1965 (+18% YoY)
-**LinkedIn Followers:** 404,967
-**CDR Focus:** division
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>BECCS</td></tr>
+  <tr><th>Country</th><td>Japan</td></tr>
+  <tr><th>Website</th><td><a href="https://www.global.toshiba/ww/products-solutions/thermal/products-technical-services/zero-emissions.html" target="_blank" rel="noopener">https://www.global.toshiba/ww/products-solutions/thermal/products-technical-services/zero-emissions.html</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/toshiba-corporation/" target="_blank" rel="noopener">toshiba-corporation — 404,967 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Employees</th><td>~1965 (+18% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>division</td></tr>
+</table>
 
 ## About
 
@@ -28,9 +29,7 @@ Toshiba Energy Systems & Solutions (Toshiba ESS) is the energy division of Toshi
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://www.global.toshiba/ww/news/energy/2020/10/news-20201031-01.html))
 - **2026-04-18** — reclassified: pathway=BECCS focus=division liveliness=🟡 Moderate ([source](https://www.global.toshiba/ww/news/energy/2020/10/news-20201031-01.html))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/toshiba-corporation/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

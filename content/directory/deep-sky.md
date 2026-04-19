@@ -8,17 +8,19 @@ pathway: "DAC"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** DAC
-**Secondary pathways:** Ocean CDR, Mineralization
-**Method:** DAC (Other/Undisclosed)
-**Country:** Canada
-**Website:** [https://www.deepskyclimate.com/](https://www.deepskyclimate.com/)
-**Status:** 🟢 Active (score: 95/100)
-**Employees:** ~64 (+39% YoY)
-**LinkedIn Followers:** 24,748
-**Open roles on cdrjobs:** 9
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin, cdrjobs, registry_cdrjobsearth
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>DAC</td></tr>
+  <tr><th>Secondary pathways</th><td>Ocean CDR, Mineralization</td></tr>
+  <tr><th>Method</th><td>DAC (Other/Undisclosed)</td></tr>
+  <tr><th>Country</th><td>Canada</td></tr>
+  <tr><th>Website</th><td><a href="https://www.deepskyclimate.com/" target="_blank" rel="noopener">https://www.deepskyclimate.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/deep-sky-climate/" target="_blank" rel="noopener">deep-sky-climate — 24,748 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
+  <tr><th>Employees</th><td>~64 (+39% YoY)</td></tr>
+  <tr><th>Open roles</th><td>9 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -35,9 +37,7 @@ Deep Sky is a Montreal-based, tech-agnostic carbon removal project developer tha
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.deepskyclimate.com/blog/history-made-deep-sky-alpha-begins-operations-with-north-americas-first-co2-storage-via-direct-air-capture-2))
 - **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.deepskyclimate.com/blog/history-made-deep-sky-alpha-begins-operations-with-north-americas-first-co2-storage-via-direct-air-capture-2))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/deep-sky-climate/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

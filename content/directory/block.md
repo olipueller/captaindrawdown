@@ -8,15 +8,16 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** Germany
-**Website:** [https://block-pflanzenkohle.de/](https://block-pflanzenkohle.de/)
-**Status:** 🟡 Moderate (score: 60/100)
-**Employees:** ~1 (0% YoY)
-**LinkedIn Followers:** 292
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>Germany</td></tr>
+  <tr><th>Website</th><td><a href="https://block-pflanzenkohle.de/" target="_blank" rel="noopener">https://block-pflanzenkohle.de/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/block-pflanzenkohle/" target="_blank" rel="noopener">block-pflanzenkohle — 292 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 60/100)</td></tr>
+  <tr><th>Employees</th><td>~1 (0% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -32,9 +33,7 @@ BLOCK Bio Innovationen GmbH & Co. KG (BLOCK Pflanzenkohle) is a family-run bioch
 - **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://block.xyz/inside/clean-energy-portfolios))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://block-pflanzenkohle.de/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://block-pflanzenkohle.de/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/block-pflanzenkohle/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

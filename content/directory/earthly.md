@@ -8,16 +8,17 @@ pathway: "Afforestation"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Afforestation
-**Secondary pathways:** Enabling Tech
-**Method:** Afforestation
-**Country:** United Kingdom
-**Website:** [https://earthly.org](https://earthly.org)
-**Status:** 🟢 Active (score: 85/100)
-**Employees:** ~35 (+13% YoY)
-**LinkedIn Followers:** 24,178
-**CDR Focus:** ecosystem
-**Evidence signals:** news_mention
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Afforestation</td></tr>
+  <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
+  <tr><th>Country</th><td>United Kingdom</td></tr>
+  <tr><th>Website</th><td><a href="https://earthly.org" target="_blank" rel="noopener">https://earthly.org</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/projectearthly/" target="_blank" rel="noopener">projectearthly — 24,178 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Employees</th><td>~35 (+13% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -32,8 +33,6 @@ Earthly is a UK-based nature-based carbon credit marketplace that connects busin
 - **2026-04-19** — reclassified: pathway=Afforestation focus=ecosystem liveliness=🟢 Active ([source](https://earthly.org/home))
 - **2026-04-18** — reclassified: pathway=Afforestation focus=ecosystem liveliness=🟢 Active ([source](https://earthly.org/en-us))
 - **2026-04-18** — discovered via: news_feed ([source](https://carbonherald.com/in-a-new-collab-earthly-and-nattergal-to-bring-biodiversity-credits-to-market/))
-
-[View on LinkedIn](https://www.linkedin.com/company/projectearthly/)
 
 ---
 

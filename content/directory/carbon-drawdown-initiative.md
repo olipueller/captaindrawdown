@@ -8,16 +8,17 @@ pathway: "Enhanced Weathering"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Enhanced Weathering
-**Secondary pathways:** Enabling Tech
-**Method:** Enhanced Weathering
-**Country:** Germany
-**Website:** [https://www.carbon-drawdown.de](https://www.carbon-drawdown.de)
-**Status:** 🟢 Active (score: 88/100)
-**Employees:** ~7 (+17% YoY)
-**LinkedIn Followers:** 2,551
-**CDR Focus:** ecosystem
-**Evidence signals:** news_mention, exa_search
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enhanced Weathering</td></tr>
+  <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
+  <tr><th>Country</th><td>Germany</td></tr>
+  <tr><th>Website</th><td><a href="https://www.carbon-drawdown.de" target="_blank" rel="noopener">https://www.carbon-drawdown.de</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-drawdown-initiative/" target="_blank" rel="noopener">carbon-drawdown-initiative — 2,551 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 88/100)</td></tr>
+  <tr><th>Employees</th><td>~7 (+17% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -30,8 +31,6 @@ Carbon Drawdown Initiative GmbH is a philanthropically-funded German organizatio
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=ecosystem liveliness=🟢 Active ([source](https://www.carbon-drawdown.de/who))
 - **2026-04-18** — reclassified: pathway=Enhanced Weathering focus=ecosystem liveliness=🟢 Active ([source](https://www.carbon-drawdown.de/what-we-do))
 - **2026-04-18** — discovered via: news_feed, exa ([source](https://www.carbon-drawdown.de/blog/2026-4-13-chasing-net-zero-is-futile-for-now-invest-your-ambitions-into-changing-systems-instead))
-
-[View on LinkedIn](https://www.linkedin.com/company/carbon-drawdown-initiative/)
 
 ---
 

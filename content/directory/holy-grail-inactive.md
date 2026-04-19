@@ -8,14 +8,16 @@ pathway: "DAC"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** DAC
-**Secondary pathways:** Mineralization
-**Method:** Unknown
-**Country:** United States
-**Website:** [https://www.holygrailcarbon.com](https://www.holygrailcarbon.com)
-**Status:** 🟡 Moderate (score: 55/100)
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>DAC</td></tr>
+  <tr><th>Secondary pathways</th><td>Mineralization</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://www.holygrailcarbon.com" target="_blank" rel="noopener">https://www.holygrailcarbon.com</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 

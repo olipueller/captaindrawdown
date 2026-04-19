@@ -8,16 +8,17 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Secondary pathways:** Ocean CDR
-**Method:** Biochar
-**Country:** Germany
-**Website:** [https://rubisco2.com/](https://rubisco2.com/)
-**Status:** 🟡 Moderate (score: 45/100)
-**Employees:** ~6 (-14% YoY)
-**LinkedIn Followers:** 360
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>Ocean CDR</td></tr>
+  <tr><th>Country</th><td>Germany</td></tr>
+  <tr><th>Website</th><td><a href="https://rubisco2.com/" target="_blank" rel="noopener">https://rubisco2.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/rubisco2/" target="_blank" rel="noopener">rubisco2 — 360 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 45/100)</td></tr>
+  <tr><th>Employees</th><td>~6 (-14% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -33,9 +34,7 @@ RubisCO2 is an early-stage startup founded by Pablo Navarro Maldonado (a former 
 - **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://climaccelerator.climate-kic.org/news/carbon-removal-climaccelerator-start-up-spotlight-rubisco2/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://rubisco2.com/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://rubisco2.com/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/rubisco2/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

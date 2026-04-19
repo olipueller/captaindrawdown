@@ -8,17 +8,19 @@ pathway: "Ocean CDR"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Ocean CDR
-**Secondary pathways:** Ocean CDR
-**Method:** Ocean Fertilization
-**Country:** United States
-**Website:** [https://www.liquidtrees.org/](https://www.liquidtrees.org/)
-**Status:** 🟢 Active (score: 70/100)
-**Employees:** ~1549
-**LinkedIn Followers:** 15,776
-**Open roles on cdrjobs:** 3
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin, cdrjobs, registry_cdrjobsearth
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Ocean CDR</td></tr>
+  <tr><th>Secondary pathways</th><td>Ocean CDR</td></tr>
+  <tr><th>Method</th><td>Ocean Fertilization</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://www.liquidtrees.org/" target="_blank" rel="noopener">https://www.liquidtrees.org/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/1010so/" target="_blank" rel="noopener">1010so — 15,776 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Employees</th><td>~1549</td></tr>
+  <tr><th>Open roles</th><td>3 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -35,9 +37,7 @@ Liquid Trees is a seed-stage ocean CDR company (founded 2022 in San Francisco by
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.liquidtrees.org/))
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.liquidtrees.org/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/1010so/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

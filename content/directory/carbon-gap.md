@@ -8,16 +8,18 @@ pathway: "Enabling Tech"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Enabling Tech
-**Method:** CDR Platform/Marketplace
-**Country:** United Kingdom
-**Website:** [https://carbongap.org/](https://carbongap.org/)
-**Status:** 🟢 Active (score: 90/100)
-**Employees:** ~25 (-14% YoY)
-**LinkedIn Followers:** 14,204
-**Open roles on cdrjobs:** 2
-**CDR Focus:** ecosystem
-**Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>CDR Platform/Marketplace</td></tr>
+  <tr><th>Country</th><td>United Kingdom</td></tr>
+  <tr><th>Website</th><td><a href="https://carbongap.org/" target="_blank" rel="noopener">https://carbongap.org/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-removal-advocacy-europe/" target="_blank" rel="noopener">carbon-removal-advocacy-europe — 14,204 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Employees</th><td>~25 (-14% YoY)</td></tr>
+  <tr><th>Open roles</th><td>2 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -32,9 +34,7 @@ Carbon Gap is Europe's leading carbon dioxide removal (CDR) advocacy and researc
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://carbongap.org/))
 - **2026-04-18** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://carbongap.org/))
-- **2026-04-18** — backfilled from V1
-
-[View on LinkedIn](https://www.linkedin.com/company/carbon-removal-advocacy-europe/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

@@ -8,14 +8,15 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Secondary pathways:** BECCS
-**Method:** Biochar
-**Country:** Germany
-**Website:** [https://www.pflanzenkohle24.de/](https://www.pflanzenkohle24.de/)
-**Status:** 🟢 Active (score: 80/100)
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>BECCS</td></tr>
+  <tr><th>Country</th><td>Germany</td></tr>
+  <tr><th>Website</th><td><a href="https://www.pflanzenkohle24.de/" target="_blank" rel="noopener">https://www.pflanzenkohle24.de/</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -31,7 +32,7 @@ EGoS Bio GmbH (trading as Pflanzenkohle24) is a German biochar producer founded 
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://gutschein.coupert.com/store/pflanzenkohle24.de))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.pflanzenkohle24.de/info/Anlagentechnik.html))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.pflanzenkohle24.de/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

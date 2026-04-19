@@ -8,14 +8,15 @@ pathway: "BECCS"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** BECCS
-**Secondary pathways:** Mineralization
-**Method:** BECCS
-**Country:** Switzerland
-**Website:** [https://www.co2-energie.ch/](https://www.co2-energie.ch/)
-**Status:** 🟡 Moderate (score: 55/100)
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>BECCS</td></tr>
+  <tr><th>Secondary pathways</th><td>Mineralization</td></tr>
+  <tr><th>Country</th><td>Switzerland</td></tr>
+  <tr><th>Website</th><td><a href="https://www.co2-energie.ch/" target="_blank" rel="noopener">https://www.co2-energie.ch/</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -36,7 +37,7 @@ CO2 Energie AG is a Swiss joint venture between Regionalwerke AG Baden (RWB) and
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://carbonherald.com/swiss-beccs-project-secures-cross-border-co2-storage-deal/))
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.co2-energie.ch/))
 - **2026-04-18** — reclassified: pathway=BECCS focus=review_needed liveliness=🟢 Active ([source](https://bioenergyinternational.com/swiss-circular-economy-best-practice-inaugurated/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

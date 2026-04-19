@@ -8,15 +8,16 @@ pathway: "BECCS"
 liveliness: "🟠 Suspect"
 ---
 
-**Pathway:** BECCS
-**Method:** BECCS
-**Country:** Denmark
-**Website:** [https://orsted.com/](https://orsted.com/)
-**Status:** 🟠 Suspect (score: 40/100)
-**Employees:** ~9667
-**LinkedIn Followers:** 561,817
-**CDR Focus:** division
-**Evidence signals:** website, last_evidence_url, registry_cdrjobsearth
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>BECCS</td></tr>
+  <tr><th>Country</th><td>Denmark</td></tr>
+  <tr><th>Website</th><td><a href="https://orsted.com/" target="_blank" rel="noopener">https://orsted.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/orsted/" target="_blank" rel="noopener">orsted — 561,817 followers</a></td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Employees</th><td>~9667</td></tr>
+  <tr><th>CDR Focus</th><td>division</td></tr>
+</table>
 
 ## About
 
@@ -42,9 +43,7 @@ liveliness: "🟠 Suspect"
 - **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.reuters.com/sustainability/climate-energy/orsted-cut-2000-jobs-by-end-2027-2025-10-09/))
 - **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://orsted.com/en/media/news/2025/02/key-component-installation-marks-important-milesto-14277987))
 - **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://orsted.com/en/other-energy-sources/bioenergy/carbon-capture-and-storage))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/orsted/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

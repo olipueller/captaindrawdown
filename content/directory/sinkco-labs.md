@@ -8,17 +8,19 @@ pathway: "Biomass Burial"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biomass Burial
-**Secondary pathways:** Ocean CDR
-**Method:** Marine CDR (Other)
-**Country:** United States
-**Website:** [https://www.sinkcolabs.com/](https://www.sinkcolabs.com/)
-**Status:** 🟢 Active (score: 85/100)
-**Employees:** ~6 (-25% YoY)
-**LinkedIn Followers:** 1,111
-**Open roles on cdrjobs:** 3
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biomass Burial</td></tr>
+  <tr><th>Secondary pathways</th><td>Ocean CDR</td></tr>
+  <tr><th>Method</th><td>Marine CDR (Other)</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://www.sinkcolabs.com/" target="_blank" rel="noopener">https://www.sinkcolabs.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sinkco-labs/" target="_blank" rel="noopener">sinkco-labs — 1,111 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Employees</th><td>~6 (-25% YoY)</td></tr>
+  <tr><th>Open roles</th><td>3 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -35,9 +37,7 @@ Sinkco Labs is a US-based marine CDR startup developing a micro-injection system
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.sinkcolabs.com/))
 - **2026-04-18** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.sinkcolabs.com/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/sinkco-labs/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

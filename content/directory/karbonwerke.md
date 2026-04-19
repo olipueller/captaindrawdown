@@ -8,15 +8,16 @@ pathway: "BECCS"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** BECCS
-**Method:** BECCS
-**Country:** Switzerland
-**Website:** [https://www.karbonwerke.com/](https://www.karbonwerke.com/)
-**Status:** 🟡 Moderate (score: 40/100)
-**Employees:** ~1 (-50% YoY)
-**LinkedIn Followers:** 200
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>BECCS</td></tr>
+  <tr><th>Country</th><td>Switzerland</td></tr>
+  <tr><th>Website</th><td><a href="https://www.karbonwerke.com/" target="_blank" rel="noopener">https://www.karbonwerke.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/karbonwerkeinternational/" target="_blank" rel="noopener">karbonwerkeinternational — 200 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 40/100)</td></tr>
+  <tr><th>Employees</th><td>~1 (-50% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -30,9 +31,7 @@ Karbonwerke (KWI - Karbonwerke International) is a small Swiss company that capt
 - **2026-04-19** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://www.karbonwerke.com/supply))
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟠 Suspect ([source](https://www.karbonwerke.com/))
 - **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness=🟡 Moderate ([source](https://www.karbonwerke.com/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/karbonwerkeinternational/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

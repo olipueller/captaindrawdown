@@ -8,15 +8,17 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Method:** Biomass Carbon Removal
-**Country:** Australia
-**Website:** [https://www.pyrocal.com.au](https://www.pyrocal.com.au)
-**Status:** 🟢 Active (score: 90/100)
-**Employees:** ~12 (+33% YoY)
-**LinkedIn Followers:** 2,098
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, registry_puro
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Method</th><td>Biomass Carbon Removal</td></tr>
+  <tr><th>Country</th><td>Australia</td></tr>
+  <tr><th>Website</th><td><a href="https://www.pyrocal.com.au" target="_blank" rel="noopener">https://www.pyrocal.com.au</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/pyrocal/" target="_blank" rel="noopener">pyrocal — 2,098 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Employees</th><td>~12 (+33% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -33,9 +35,7 @@ Pyrocal is a Queensland, Australia-based engineering firm that designs and manuf
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.pyrocal.com.au/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.pyrocal.com.au/))
-- **2026-04-18** — backfilled from V1
-
-[View on LinkedIn](https://www.linkedin.com/company/pyrocal/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

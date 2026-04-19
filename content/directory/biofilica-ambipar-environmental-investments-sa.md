@@ -8,14 +8,16 @@ pathway: "Afforestation"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Afforestation
-**Secondary pathways:** Biochar
-**Method:** Unknown
-**Country:** Brazil
-**Website:** [https://biofilica.com.br/en/](https://biofilica.com.br/en/)
-**Status:** 🟡 Moderate (score: 55/100)
-**CDR Focus:** division
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Afforestation</td></tr>
+  <tr><th>Secondary pathways</th><td>Biochar</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Brazil</td></tr>
+  <tr><th>Website</th><td><a href="https://biofilica.com.br/en/" target="_blank" rel="noopener">https://biofilica.com.br/en/</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>CDR Focus</th><td>division</td></tr>
+</table>
 
 ## About
 

@@ -8,16 +8,18 @@ pathway: "Biomass Burial"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biomass Burial
-**Secondary pathways:** Afforestation
-**Method:** Unknown
-**Country:** United States
-**Website:** [https://www.epcarbon.com/](https://www.epcarbon.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~19
-**LinkedIn Followers:** 2,925
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biomass Burial</td></tr>
+  <tr><th>Secondary pathways</th><td>Afforestation</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://www.epcarbon.com/" target="_blank" rel="noopener">https://www.epcarbon.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ecopartners-carbon/" target="_blank" rel="noopener">ecopartners-carbon — 2,925 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~19</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -31,8 +33,6 @@ EP Carbon (Ecological Carbon Offset Partners LLC) is a US-based carbon project c
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.epcarbon.com/carbon-yards/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.epcarbon.com/carbon-yards/ ([source](https://www.cdr.fyi/supplier/ecological-carbon-offset-partners))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/ecological-carbon-offset-partners))
-
-[View on LinkedIn](https://www.linkedin.com/company/ecopartners-carbon/)
 
 ---
 

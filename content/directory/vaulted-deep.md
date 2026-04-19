@@ -8,16 +8,18 @@ pathway: "Biomass Burial"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biomass Burial
-**Method:** BiCRS (Other)
-**Country:** United States
-**Website:** [https://vaulteddeep.com/](https://vaulteddeep.com/)
-**Status:** 🟢 Active (score: 98/100)
-**Employees:** ~57 (+73% YoY)
-**LinkedIn Followers:** 7,057
-**Open roles on cdrjobs:** 8
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, cdrjobs, registry_isometric, registry_cdrjobsearth
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biomass Burial</td></tr>
+  <tr><th>Method</th><td>BiCRS (Other)</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://vaulteddeep.com/" target="_blank" rel="noopener">https://vaulteddeep.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/vaulted-deep/" target="_blank" rel="noopener">vaulted-deep — 7,057 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 98/100)</td></tr>
+  <tr><th>Employees</th><td>~57 (+73% YoY)</td></tr>
+  <tr><th>Open roles</th><td>8 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -33,9 +35,7 @@ Vaulted Deep is a Houston-based waste management company that turns excess organ
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://vaulteddeep.com/))
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://vaulteddeep.com/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/vaulted-deep/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

@@ -8,14 +8,17 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Method:** Unknown
-**Country:** Netherlands
-**Website:** [https://bettercarbon.eu/](https://bettercarbon.eu/)
-**Status:** 🟡 Moderate (score: 65/100)
-**Employees:** ~2
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Netherlands</td></tr>
+  <tr><th>Website</th><td><a href="https://bettercarbon.eu/" target="_blank" rel="noopener">https://bettercarbon.eu/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/better-carbon/" target="_blank" rel="noopener">better-carbon</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 65/100)</td></tr>
+  <tr><th>Employees</th><td>~2</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -28,8 +31,6 @@ Better Carbon B.V. is a Netherlands-based (Goes) biochar producer that converts 
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.bettercarbon.eu/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://bettercarbon.eu/ ([source](https://www.cdr.fyi/supplier/better-carbon-bv))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/better-carbon-bv))
-
-[View on LinkedIn](https://www.linkedin.com/company/better-carbon/)
 
 ---
 

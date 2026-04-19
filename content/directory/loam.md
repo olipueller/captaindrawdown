@@ -8,15 +8,17 @@ pathway: "Afforestation"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Afforestation
-**Method:** Unknown
-**Country:** Australia
-**Website:** [https://www.loambio.com/](https://www.loambio.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~77
-**LinkedIn Followers:** 19,565
-**CDR Focus:** supplier
-**Evidence signals:** cdrjobs, hiring, cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Afforestation</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Australia</td></tr>
+  <tr><th>Website</th><td><a href="https://www.loambio.com/" target="_blank" rel="noopener">https://www.loambio.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/soilcarbonco/" target="_blank" rel="noopener">soilcarbonco — 19,565 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~77</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -31,8 +33,6 @@ Loam Bio is an Australian agritech company (founded 2019, HQ in Orange, NSW) tha
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.loambio.com/us/))
 - **2026-04-19** — discovered via: cdrjobs, cdrfyi ([source](https://www.cdrjobs.earth/job-board))
-
-[View on LinkedIn](https://www.linkedin.com/company/soilcarbonco/)
 
 ---
 

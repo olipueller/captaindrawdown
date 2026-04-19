@@ -8,15 +8,18 @@ pathway: "Afforestation"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Afforestation
-**Secondary pathways:** Ocean CDR
-**Method:** Unknown
-**Country:** Singapore
-**Website:** [https://www.akariacapital.com/](https://www.akariacapital.com/)
-**Status:** 🟡 Moderate (score: 65/100)
-**Employees:** ~2 (0% YoY)
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Afforestation</td></tr>
+  <tr><th>Secondary pathways</th><td>Ocean CDR</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Singapore</td></tr>
+  <tr><th>Website</th><td><a href="https://www.akariacapital.com/" target="_blank" rel="noopener">https://www.akariacapital.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/akaria-natural-capital/" target="_blank" rel="noopener">akaria-natural-capital</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 65/100)</td></tr>
+  <tr><th>Employees</th><td>~2 (0% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -28,8 +31,6 @@ Akaria Natural Capital is a Singapore-based impact investment manager founded in
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Afforestation focus=ecosystem liveliness=🟡 Moderate ([source](https://www.akariacapital.com/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/akaria-natural-capital))
-
-[View on LinkedIn](https://www.linkedin.com/company/akaria-natural-capital/)
 
 ---
 

@@ -8,16 +8,18 @@ pathway: "Enabling Tech"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Enabling Tech
-**Secondary pathways:** Afforestation, Biochar, Enhanced Weathering
-**Method:** Unknown
-**Country:** United Kingdom
-**Website:** [https://ecologi.com/](https://ecologi.com/)
-**Status:** 🟢 Active (score: 88/100)
-**Employees:** ~109 (+14% YoY)
-**LinkedIn Followers:** 56,836
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Secondary pathways</th><td>Afforestation, Biochar, Enhanced Weathering</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>United Kingdom</td></tr>
+  <tr><th>Website</th><td><a href="https://ecologi.com/" target="_blank" rel="noopener">https://ecologi.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/offset-earth/" target="_blank" rel="noopener">offset-earth — 56,836 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 88/100)</td></tr>
+  <tr><th>Employees</th><td>~109 (+14% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -37,8 +39,6 @@ Ecologi Action Ltd (trading as Ecologi) is a UK-based all-in-one climate action 
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://ecologi.com/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/ecologi-action-ltd))
-
-[View on LinkedIn](https://www.linkedin.com/company/offset-earth/)
 
 ---
 

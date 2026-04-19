@@ -8,15 +8,17 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Method:** Unknown
-**Country:** Germany
-**Website:** [https://www.autarkize.com](https://www.autarkize.com)
-**Status:** 🟢 Active (score: 75/100)
-**Employees:** ~22 (+38% YoY)
-**LinkedIn Followers:** 986
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Germany</td></tr>
+  <tr><th>Website</th><td><a href="https://www.autarkize.com" target="_blank" rel="noopener">https://www.autarkize.com</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/autarkize/" target="_blank" rel="noopener">autarkize — 986 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Employees</th><td>~22 (+38% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -28,8 +30,6 @@ Autarkize is a German climate-tech startup based in Allgäu that develops compac
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.autarkize.com/en))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/autarkize))
-
-[View on LinkedIn](https://www.linkedin.com/company/autarkize/)
 
 ---
 

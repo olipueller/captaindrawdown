@@ -8,16 +8,17 @@ pathway: "BECCS"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** BECCS
-**Secondary pathways:** Biochar
-**Method:** BECCS
-**Country:** Switzerland
-**Website:** [https://www.kanadevia-inova.com/](https://www.kanadevia-inova.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~1935 (+3% YoY)
-**LinkedIn Followers:** 88,173
-**CDR Focus:** division
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>BECCS</td></tr>
+  <tr><th>Secondary pathways</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>Switzerland</td></tr>
+  <tr><th>Website</th><td><a href="https://www.kanadevia-inova.com/" target="_blank" rel="noopener">https://www.kanadevia-inova.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/kanadevia-inova/" target="_blank" rel="noopener">kanadevia-inova — 88,173 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~1935 (+3% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>division</td></tr>
+</table>
 
 ## About
 
@@ -32,9 +33,7 @@ Kanadevia Inova (formerly Hitachi Zosen Inova) is the Swiss-based green-tech sub
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.rngcoalition.com/news/2026/3/5/kanadevia-inova-breaks-ground-on-minnesotas-first-organic-waste-to-biochar-renewable-gas-facility))
 - **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://kanadevia-inova.com/discover/news/encyclis-green-lights-kanadevia-inova-to-build-uks-first-full-scale-carbon-capture-facility-at-protos))
 - **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://kanadevia-inova.com/discover/news/encyclis-green-lights-kanadevia-inova-to-build-uks-first-full-scale-carbon-capture-facility-at-protos))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/kanadevia-inova/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

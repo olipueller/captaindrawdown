@@ -8,16 +8,18 @@ pathway: "DAC"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** DAC
-**Method:** DAC (Solid Sorbent)
-**Country:** Japan
-**Website:** [https://planetsavers.earth/](https://planetsavers.earth/)
-**Status:** 🟢 Active (score: 85/100)
-**Employees:** ~13 (+62% YoY)
-**LinkedIn Followers:** 747
-**Open roles on cdrjobs:** 5
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>DAC</td></tr>
+  <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
+  <tr><th>Country</th><td>Japan</td></tr>
+  <tr><th>Website</th><td><a href="https://planetsavers.earth/" target="_blank" rel="noopener">https://planetsavers.earth/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/planetsavers/" target="_blank" rel="noopener">planetsavers — 747 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Employees</th><td>~13 (+62% YoY)</td></tr>
+  <tr><th>Open roles</th><td>5 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -34,9 +36,7 @@ Planet Savers is Japan's first Direct Air Capture startup, spun out of the Unive
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://planetsavers.earth/Home-en))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.nedo.go.jp/english/activities/startups/company77.html))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/planetsavers/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

@@ -8,16 +8,18 @@ pathway: "Enabling Tech"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Enabling Tech
-**Secondary pathways:** Afforestation
-**Method:** Unknown
-**Country:** Sweden
-**Website:** [https://carboncapturecompany.se/](https://carboncapturecompany.se/)
-**Status:** 🟢 Active (score: 72/100)
-**Employees:** ~4 (+33% YoY)
-**LinkedIn Followers:** 324
-**CDR Focus:** ecosystem
-**Evidence signals:** exa_search
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Secondary pathways</th><td>Afforestation</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Sweden</td></tr>
+  <tr><th>Website</th><td><a href="https://carboncapturecompany.se/" target="_blank" rel="noopener">https://carboncapturecompany.se/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carboncapturecompany/" target="_blank" rel="noopener">carboncapturecompany — 324 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 72/100)</td></tr>
+  <tr><th>Employees</th><td>~4 (+33% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -30,8 +32,6 @@ Carbon Capture Company (CCC) is a Swedish certification body that developed the 
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://carboncapturecompany.se/en/))
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://carboncapturecompany.se/en/about-us/))
 - **2026-04-18** — discovered via: exa ([source](https://carboncapturecompany.se/))
-
-[View on LinkedIn](https://www.linkedin.com/company/carboncapturecompany/)
 
 ---
 

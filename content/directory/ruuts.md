@@ -8,16 +8,18 @@ pathway: "Afforestation"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Afforestation
-**Secondary pathways:** Enabling Tech
-**Method:** Unknown
-**Country:** Argentina
-**Website:** [https://ruuts.la](https://ruuts.la)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~33 (-3% YoY)
-**LinkedIn Followers:** 5,790
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Afforestation</td></tr>
+  <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Argentina</td></tr>
+  <tr><th>Website</th><td><a href="https://ruuts.la" target="_blank" rel="noopener">https://ruuts.la</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ruutsnetwork/" target="_blank" rel="noopener">ruutsnetwork — 5,790 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~33 (-3% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -33,8 +35,6 @@ Ruuts is a South American regenerative agriculture platform that develops soil c
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://ruuts.la/))
 - **2026-04-19** — url added from cdr.fyi supplier page: http://ruuts.la ([source](https://www.cdr.fyi/supplier/ruuts))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/ruuts))
-
-[View on LinkedIn](https://www.linkedin.com/company/ruutsnetwork/)
 
 ---
 

@@ -8,15 +8,17 @@ pathway: "DAC"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** DAC
-**Method:** DAC (Other/Undisclosed)
-**Country:** United States
-**Website:** [https://retract.com/](https://retract.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~4 (0% YoY)
-**LinkedIn Followers:** 140
-**CDR Focus:** supplier
-**Evidence signals:** website
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>DAC</td></tr>
+  <tr><th>Method</th><td>DAC (Other/Undisclosed)</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://retract.com/" target="_blank" rel="noopener">https://retract.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/retract/" target="_blank" rel="noopener">retract — 140 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~4 (0% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -31,9 +33,7 @@ Retract is a Boulder, Colorado-based startup positioning itself as a developer, 
 - **2026-04-19** — liveliness: 🟠 Suspect → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://retract.com/))
 - **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://retract.com/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/retract/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

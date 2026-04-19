@@ -8,15 +8,16 @@ pathway: "BECCS"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** BECCS
-**Method:** BECCS
-**Country:** United States
-**Website:** [https://www.aemetis.com](https://www.aemetis.com)
-**Status:** 🟢 Active (score: 80/100)
-**Employees:** ~50 (+9% YoY)
-**LinkedIn Followers:** 4,501
-**CDR Focus:** division
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>BECCS</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://www.aemetis.com" target="_blank" rel="noopener">https://www.aemetis.com</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/aemetis/" target="_blank" rel="noopener">aemetis — 4,501 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Employees</th><td>~50 (+9% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>division</td></tr>
+</table>
 
 ## About
 
@@ -31,9 +32,7 @@ Aemetis is a Cupertino, California-based renewable natural gas, renewable fuel a
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://www.aemetis.com/aemetis-awarded-the-first-co2-sequestration-characterization-well-permit-issued-by-the-state-of-california/))
 - **2026-04-18** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://www.aemetis.com/products/carbon-capture/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/aemetis/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

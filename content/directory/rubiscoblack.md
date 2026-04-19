@@ -8,15 +8,17 @@ pathway: "Enhanced Weathering"
 liveliness: "🟠 Suspect"
 ---
 
-**Pathway:** Enhanced Weathering
-**Method:** Enhanced Rock Weathering
-**Country:** India
-**Website:** [https://rubiscoblack.com/](https://rubiscoblack.com/)
-**Status:** 🟠 Suspect (score: 30/100)
-**Employees:** ~1
-**LinkedIn Followers:** 53
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enhanced Weathering</td></tr>
+  <tr><th>Method</th><td>Enhanced Rock Weathering</td></tr>
+  <tr><th>Country</th><td>India</td></tr>
+  <tr><th>Website</th><td><a href="https://rubiscoblack.com/" target="_blank" rel="noopener">https://rubiscoblack.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/rubiscoblack/" target="_blank" rel="noopener">rubiscoblack — 53 followers</a></td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 30/100)</td></tr>
+  <tr><th>Employees</th><td>~1</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -32,9 +34,7 @@ RubiscoBlack Environmental Technologies and Services Pvt Ltd is a DPIIT-recognis
 - **2026-04-19** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://rubiscoblack.com/))
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟠 Suspect ([source](https://rubiscoblack.com/))
 - **2026-04-18** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟠 Suspect ([source](https://rubiscoblack.com/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/rubiscoblack/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

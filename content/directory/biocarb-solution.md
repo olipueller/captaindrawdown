@@ -8,16 +8,17 @@ pathway: "BECCS"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** BECCS
-**Secondary pathways:** Biochar
-**Method:** BECCS
-**Country:** Denmark
-**Website:** [https://biocarb.dk/](https://biocarb.dk/)
-**Status:** 🟢 Active (score: 80/100)
-**Employees:** ~5 (-17% YoY)
-**LinkedIn Followers:** 477
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>BECCS</td></tr>
+  <tr><th>Secondary pathways</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>Denmark</td></tr>
+  <tr><th>Website</th><td><a href="https://biocarb.dk/" target="_blank" rel="noopener">https://biocarb.dk/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biocarb-solution/" target="_blank" rel="noopener">biocarb-solution — 477 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Employees</th><td>~5 (-17% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -33,9 +34,7 @@ BioCarb Solution is a Danish BECCS service provider that aggregates biogenic CO2
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://biocarb.dk/))
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://biocarb.dk/))
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://biocarb.dk/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/biocarb-solution/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

@@ -8,16 +8,18 @@ pathway: "Ocean CDR"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Ocean CDR
-**Secondary pathways:** Biomass Burial
-**Method:** Marine CDR (Other)
-**Country:** United States
-**Website:** [https://www.carboniferous.co/](https://www.carboniferous.co/)
-**Status:** 🟢 Active (score: 90/100)
-**Employees:** ~4 (0% YoY)
-**LinkedIn Followers:** 827
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Ocean CDR</td></tr>
+  <tr><th>Secondary pathways</th><td>Biomass Burial</td></tr>
+  <tr><th>Method</th><td>Marine CDR (Other)</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://www.carboniferous.co/" target="_blank" rel="noopener">https://www.carboniferous.co/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carboniferous/" target="_blank" rel="noopener">carboniferous — 827 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Employees</th><td>~4 (0% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -33,9 +35,7 @@ Carboniferous is a Houston-based CDR startup developing Marine Anoxic Carbon Sto
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://oceanvisions.org/launchpad/carboniferous-inc/))
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.carboniferous.co/orca-basin-research))
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.carboniferous.co/orca-basin-research))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/carboniferous/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

@@ -8,15 +8,17 @@ pathway: "DAC"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** DAC
-**Secondary pathways:** Enabling Tech
-**Method:** Direct Air Capture
-**Country:** United States
-**Website:** [https://www.cormetech.com/](https://www.cormetech.com/)
-**Status:** 🟢 Active (score: 88/100)
-**Open roles on cdrjobs:** 8
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>DAC</td></tr>
+  <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Direct Air Capture</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://www.cormetech.com/" target="_blank" rel="noopener">https://www.cormetech.com/</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 88/100)</td></tr>
+  <tr><th>Open roles</th><td>8 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -33,7 +35,7 @@ CORMETECH is a North Carolina-based emissions-control catalyst manufacturer (fou
 - **2026-04-19** — refresh: screenshot
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.cormetech.com/carbon-capture/))
 - **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.cormetech.com/direct-air-capture/))
-- **2026-04-18** — backfilled from V1
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

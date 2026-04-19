@@ -8,15 +8,16 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** Germany
-**Website:** [https://www.sp-sc.de/](https://www.sp-sc.de/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~2 (0% YoY)
-**LinkedIn Followers:** 342
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>Germany</td></tr>
+  <tr><th>Website</th><td><a href="https://www.sp-sc.de/" target="_blank" rel="noopener">https://www.sp-sc.de/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/spsc-gmbh/" target="_blank" rel="noopener">spsc-gmbh — 342 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~2 (0% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -30,9 +31,7 @@ SPSC GmbH is a small German engineering and plant construction company based in 
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://preterra.ca/faq/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.sp-sc.de/en/startseitehome/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.sp-sc.de/en/startseitehome/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/spsc-gmbh/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

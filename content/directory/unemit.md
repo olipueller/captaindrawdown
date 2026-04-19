@@ -8,15 +8,18 @@ pathway: "DAC"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** DAC
-**Method:** DAC (Solid Sorbent)
-**Country:** United States
-**Website:** [https://unemit.com/](https://unemit.com/)
-**Status:** 🟢 Active (score: 100/100)
-**Employees:** ~3 (0% YoY)
-**Open roles on cdrjobs:** 1
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>DAC</td></tr>
+  <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://unemit.com/" target="_blank" rel="noopener">https://unemit.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/unemit/" target="_blank" rel="noopener">unemit</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
+  <tr><th>Employees</th><td>~3 (0% YoY)</td></tr>
+  <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -34,9 +37,7 @@ Unemit is a Berkeley, California-based Direct Air Capture startup backed by Brea
 - **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://unemit.com/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://unemit.com/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://unemit.com/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/unemit/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

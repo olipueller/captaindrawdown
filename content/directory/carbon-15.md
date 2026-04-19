@@ -8,13 +8,15 @@ pathway: "DAC"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** DAC
-**Method:** DAC (Solid Sorbent)
-**Country:** France
-**Website:** [https://www.carbon15.eu/](https://www.carbon15.eu/)
-**Status:** 🟡 Moderate (score: 40/100)
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>DAC</td></tr>
+  <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
+  <tr><th>Country</th><td>France</td></tr>
+  <tr><th>Website</th><td><a href="https://www.carbon15.eu/" target="_blank" rel="noopener">https://www.carbon15.eu/</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 40/100)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -30,7 +32,7 @@ Carbon 1.5 is a France-based direct air capture startup reportedly developing so
 - **2026-04-19** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://www.carbon15.eu/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://www.carbon15.eu/))
 - **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://www.carbon15.eu/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

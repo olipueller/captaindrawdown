@@ -8,16 +8,18 @@ pathway: "Enabling Tech"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Enabling Tech
-**Method:** CDR Platform/Marketplace
-**Country:** Canada
-**Website:** [https://www.mangrovesystems.com/](https://www.mangrovesystems.com/)
-**Status:** 🟢 Active (score: 95/100)
-**Employees:** ~18 (+64% YoY)
-**LinkedIn Followers:** 2,536
-**Open roles on cdrjobs:** 5
-**CDR Focus:** ecosystem
-**Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>CDR Platform/Marketplace</td></tr>
+  <tr><th>Country</th><td>Canada</td></tr>
+  <tr><th>Website</th><td><a href="https://www.mangrovesystems.com/" target="_blank" rel="noopener">https://www.mangrovesystems.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/gomangrove/" target="_blank" rel="noopener">gomangrove — 2,536 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
+  <tr><th>Employees</th><td>~18 (+64% YoY)</td></tr>
+  <tr><th>Open roles</th><td>5 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -34,9 +36,7 @@ Mangrove Systems is a Toronto-based digital MRV software company whose Mangrove 
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.mangrovesystems.com/))
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.mangrovesystems.com/))
-- **2026-04-18** — backfilled from V1
-
-[View on LinkedIn](https://www.linkedin.com/company/gomangrove/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

@@ -8,13 +8,14 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** United States
-**Website:** [https://www.metzlerbiochar.com/](https://www.metzlerbiochar.com/)
-**Status:** 🟢 Active (score: 80/100)
-**CDR Focus:** division
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://www.metzlerbiochar.com/" target="_blank" rel="noopener">https://www.metzlerbiochar.com/</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>CDR Focus</th><td>division</td></tr>
+</table>
 
 ## About
 
@@ -30,7 +31,7 @@ Metzler Biochar is a division of Metzler Forest Products LLC in Reedsville, Penn
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.metzlerbiochar.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.metzlerbiochar.com/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.metzlerbiochar.com/research))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

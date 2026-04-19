@@ -8,15 +8,16 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** Peru
-**Website:** [https://inkannegro.com/](https://inkannegro.com/)
-**Status:** 🟢 Active (score: 80/100)
-**Employees:** ~4
-**LinkedIn Followers:** 40
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>Peru</td></tr>
+  <tr><th>Website</th><td><a href="https://inkannegro.com/" target="_blank" rel="noopener">https://inkannegro.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/inkan-negro/" target="_blank" rel="noopener">inkan-negro — 40 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Employees</th><td>~4</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -32,9 +33,7 @@ Inkan Negro is a Peruvian biochar company that manufactures and sells a biochar 
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.biocareprojects.com/post/inkan-negro))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://inkannegro.com/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://inkannegro.com/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/inkan-negro/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

@@ -8,16 +8,17 @@ pathway: "Biochar"
 liveliness: "🟠 Suspect"
 ---
 
-**Pathway:** Biochar
-**Secondary pathways:** Afforestation
-**Method:** Biochar
-**Country:** Kenya
-**Website:** [https://www.regenorganics.co/](https://www.regenorganics.co/)
-**Status:** 🟠 Suspect (score: 40/100)
-**Employees:** ~44 (-10% YoY)
-**LinkedIn Followers:** 5,807
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>Afforestation</td></tr>
+  <tr><th>Country</th><td>Kenya</td></tr>
+  <tr><th>Website</th><td><a href="https://www.regenorganics.co/" target="_blank" rel="noopener">https://www.regenorganics.co/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/regenorganics/" target="_blank" rel="noopener">regenorganics — 5,807 followers</a></td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Employees</th><td>~44 (-10% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -32,9 +33,7 @@ Regen Organics is a Nairobi-based social venture and founding member of the Sane
 - **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.regenorganics.co/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.regenorganics.co/products/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.regenorganics.co/products/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/regenorganics/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

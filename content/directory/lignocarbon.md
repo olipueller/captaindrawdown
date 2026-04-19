@@ -8,15 +8,16 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** Switzerland
-**Website:** [https://lignocarbon.ch/](https://lignocarbon.ch/)
-**Status:** 🟢 Active (score: 80/100)
-**Employees:** ~1 (-50% YoY)
-**LinkedIn Followers:** 5
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>Switzerland</td></tr>
+  <tr><th>Website</th><td><a href="https://lignocarbon.ch/" target="_blank" rel="noopener">https://lignocarbon.ch/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/lignocarbon-schweiz-ag/" target="_blank" rel="noopener">lignocarbon-schweiz-ag — 5 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Employees</th><td>~1 (-50% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -32,9 +33,7 @@ LignoCarbon Schweiz AG is a Swiss biochar producer based in Illnau-Effretikon (Z
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://lignocarbon.ch/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://lignocarbon.ch/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://yellowpages.swiss/location.cfm?key=2495071&company=LignoCarbon-Schweiz-AG&art=HRB))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/lignocarbon-schweiz-ag/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

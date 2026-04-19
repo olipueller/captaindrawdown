@@ -8,16 +8,18 @@ pathway: "Mineralization"
 liveliness: "🟠 Suspect"
 ---
 
-**Pathway:** Mineralization
-**Secondary pathways:** DAC
-**Method:** Mineralization (Other)
-**Country:** Canada
-**Website:** [https://zs2technologies.com/](https://zs2technologies.com/)
-**Status:** 🟠 Suspect (score: 40/100)
-**Employees:** ~49 (+2% YoY)
-**LinkedIn Followers:** 4,048
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, registry_cdrjobsearth
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Mineralization</td></tr>
+  <tr><th>Secondary pathways</th><td>DAC</td></tr>
+  <tr><th>Method</th><td>Mineralization (Other)</td></tr>
+  <tr><th>Country</th><td>Canada</td></tr>
+  <tr><th>Website</th><td><a href="https://zs2technologies.com/" target="_blank" rel="noopener">https://zs2technologies.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/zs2-technologies/" target="_blank" rel="noopener">zs2-technologies — 4,048 followers</a></td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Employees</th><td>~49 (+2% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -42,9 +44,7 @@ ZS2 Technologies is a Calgary-based manufacturer of magnesium-cement building ma
 - **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://zs2technologies.com/zs2-scales-first-domestic-production-of-magnesium-cement-in-north-america/))
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://zs2technologies.com/))
 - **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://zs2technologies.com/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/zs2-technologies/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

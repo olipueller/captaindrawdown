@@ -8,13 +8,14 @@ pathway: "Biochar"
 liveliness: "🟠 Suspect"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** Canada
-**Website:** [https://ca.linkedin.com/company/scotia-biochar-inc](https://ca.linkedin.com/company/scotia-biochar-inc)
-**Status:** 🟠 Suspect (score: 35/100)
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>Canada</td></tr>
+  <tr><th>Website</th><td><a href="https://ca.linkedin.com/company/scotia-biochar-inc" target="_blank" rel="noopener">https://ca.linkedin.com/company/scotia-biochar-inc</a></td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 35/100)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -30,7 +31,7 @@ Scotia BioChar Inc. is headquartered in Bedford, Nova Scotia, Canada and aims to
 - **2026-04-19** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://www.bioenergy-news.com/news/blusky-carbon-secures-biochar-agreement-with-scotia-biochar/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://bluskycarbon.com/blusky-carbon-signs-master-services-agreement-with-scotia-biochar/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://bluskycarbon.com/blusky-carbon-signs-master-services-agreement-with-scotia-biochar/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

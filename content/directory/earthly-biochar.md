@@ -8,14 +8,16 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** United Kingdom
-**Website:** [https://www.earthlybiochar.com](https://www.earthlybiochar.com)
-**Status:** 🟢 Active (score: 70/100)
-**Employees:** ~3 (0% YoY)
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>United Kingdom</td></tr>
+  <tr><th>Website</th><td><a href="https://www.earthlybiochar.com" target="_blank" rel="noopener">https://www.earthlybiochar.com</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/earthlybiochar/" target="_blank" rel="noopener">earthlybiochar</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Employees</th><td>~3 (0% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -31,9 +33,7 @@ Earthly Biochar is a small UK biochar producer founded in 2018 that sells biocha
 - **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://rootsandall.co.uk/podcast/episode-88-biochar-with-lottie-connor-of-earthly-biochar/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.earthlybiochar.com/en-us))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.earthlybiochar.com/en-us))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/earthlybiochar/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

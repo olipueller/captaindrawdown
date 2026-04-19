@@ -8,16 +8,17 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Secondary pathways:** Afforestation
-**Method:** Biochar
-**Country:** Nepal
-**Website:** [https://bhumi.earth/](https://bhumi.earth/)
-**Status:** 🟡 Moderate (score: 60/100)
-**Employees:** ~5
-**LinkedIn Followers:** 243
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>Afforestation</td></tr>
+  <tr><th>Country</th><td>Nepal</td></tr>
+  <tr><th>Website</th><td><a href="https://bhumi.earth/" target="_blank" rel="noopener">https://bhumi.earth/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bhumi-sewa/" target="_blank" rel="noopener">bhumi-sewa — 243 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 60/100)</td></tr>
+  <tr><th>Employees</th><td>~5</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -33,9 +34,7 @@ Bhumi Sewa Networks is a Pokhara, Nepal-based for-purpose, profit-not-distributi
 - **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://bhumi.earth/?page_id=87))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://bhumi.earth/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://bhumi.earth/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/bhumi-sewa/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

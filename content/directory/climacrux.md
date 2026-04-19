@@ -8,15 +8,17 @@ pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Enabling Tech
-**Method:** Unknown
-**Country:** Switzerland
-**Website:** [https://climacrux.com/](https://climacrux.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~2 (0% YoY)
-**LinkedIn Followers:** 309
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Switzerland</td></tr>
+  <tr><th>Website</th><td><a href="https://climacrux.com/" target="_blank" rel="noopener">https://climacrux.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbondashboard/" target="_blank" rel="noopener">carbondashboard — 309 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~2 (0% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -30,8 +32,6 @@ Climacrux is a Swiss startup founded in 2020 that operates as a CDR reseller/bro
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟠 Suspect ([source](https://climacrux.com/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://climacrux.com/ ([source](https://www.cdr.fyi/marketplace/climacrux))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/climacrux))
-
-[View on LinkedIn](https://www.linkedin.com/company/carbondashboard/)
 
 ---
 

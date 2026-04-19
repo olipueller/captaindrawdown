@@ -8,15 +8,16 @@ pathway: "BECCS"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** BECCS
-**Method:** BECCS
-**Country:** Norway
-**Website:** [https://www.carboncentric.no/en](https://www.carboncentric.no/en)
-**Status:** 🟢 Active (score: 92/100)
-**Employees:** ~22 (+16% YoY)
-**LinkedIn Followers:** 4,285
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>BECCS</td></tr>
+  <tr><th>Country</th><td>Norway</td></tr>
+  <tr><th>Website</th><td><a href="https://www.carboncentric.no/en" target="_blank" rel="noopener">https://www.carboncentric.no/en</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carboncentric/" target="_blank" rel="noopener">carboncentric — 4,285 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Employees</th><td>~22 (+16% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -42,9 +43,7 @@ Carbon Centric is a Norwegian carbon capture developer founded in 2021 that buil
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.carboncentric.no/en/rakkestad-ccus))
 - **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.carboncentric.no/en/post/dnv-og-carbon-centric-enter-into-agreement-on-carbon-removal))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/carboncentric/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

@@ -8,13 +8,15 @@ pathway: "DAC"
 liveliness: "🟠 Suspect"
 ---
 
-**Pathway:** DAC
-**Method:** DAC (Solid Sorbent)
-**Country:** United States
-**Website:** [https://www.remove-carbon.org/](https://www.remove-carbon.org/)
-**Status:** 🟠 Suspect (score: 15/100)
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>DAC</td></tr>
+  <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://www.remove-carbon.org/" target="_blank" rel="noopener">https://www.remove-carbon.org/</a></td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 15/100)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -30,7 +32,7 @@ C-Fix is a pre-seed concept for a solar-powered Direct Air Capture system using 
 - **2026-04-19** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://www.remove-carbon.org/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://www.remove-carbon.org/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://www.remove-carbon.org/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

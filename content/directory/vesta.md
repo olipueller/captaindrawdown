@@ -8,16 +8,18 @@ pathway: "Ocean CDR"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Ocean CDR
-**Secondary pathways:** Enhanced Weathering
-**Method:** Ocean Alkalinity Enhancement
-**Country:** United States
-**Website:** [https://www.vesta.earth/](https://www.vesta.earth/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~15
-**LinkedIn Followers:** 5,752
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Ocean CDR</td></tr>
+  <tr><th>Secondary pathways</th><td>Enhanced Weathering</td></tr>
+  <tr><th>Method</th><td>Ocean Alkalinity Enhancement</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://www.vesta.earth/" target="_blank" rel="noopener">https://www.vesta.earth/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/projectvesta/" target="_blank" rel="noopener">projectvesta — 5,752 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~15</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -39,9 +41,7 @@ Vesta (formerly Project Vesta) is a US-based Public Benefit Corporation developi
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://en.wikipedia.org/wiki/Project_Vesta))
 - **2026-04-19** — reclassified: pathway=? focus=supplier liveliness=🟢 Active ([source](https://www.vesta.earth/))
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.vesta.earth/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/projectvesta/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

@@ -8,16 +8,18 @@ pathway: "DAC"
 liveliness: "🟠 Suspect"
 ---
 
-**Pathway:** DAC
-**Secondary pathways:** Mineralization
-**Method:** DAC (Solid Sorbent)
-**Country:** United States
-**Website:** [https://www.clairitytech.com/](https://www.clairitytech.com/)
-**Status:** 🟠 Suspect (score: 40/100)
-**Employees:** ~3 (-73% YoY)
-**LinkedIn Followers:** 1,012
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>DAC</td></tr>
+  <tr><th>Secondary pathways</th><td>Mineralization</td></tr>
+  <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://www.clairitytech.com/" target="_blank" rel="noopener">https://www.clairitytech.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/clairity-tech/" target="_blank" rel="noopener">clairity-tech — 1,012 followers</a></td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Employees</th><td>~3 (-73% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -32,9 +34,7 @@ Clairity Technology is a Los Angeles-based direct air capture startup founded in
 - **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.businesswire.com/news/home/20250520800629/en/Cool-Effect-Adds-First-Direct-Air-Capture-Project-to-Portfolio-Following-Rigorous-Review))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.clairitytech.com/projects))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.businesswire.com/news/home/20250520800629/en/Cool-Effect-Adds-First-Direct-Air-Capture-Project-to-Portfolio-Following-Rigorous-Review))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/clairity-tech/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

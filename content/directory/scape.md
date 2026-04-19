@@ -8,16 +8,18 @@ pathway: "Ocean CDR"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Ocean CDR
-**Secondary pathways:** Mineralization
-**Method:** Unknown
-**Country:** United States
-**Website:** [https://www.scapecarbon.com/](https://www.scapecarbon.com/)
-**Status:** 🟡 Moderate (score: 65/100)
-**Employees:** ~2 (-60% YoY)
-**LinkedIn Followers:** 277
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Ocean CDR</td></tr>
+  <tr><th>Secondary pathways</th><td>Mineralization</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://www.scapecarbon.com/" target="_blank" rel="noopener">https://www.scapecarbon.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/scapecarbon/" target="_blank" rel="noopener">scapecarbon — 277 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 65/100)</td></tr>
+  <tr><th>Employees</th><td>~2 (-60% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -32,8 +34,6 @@ Scape Carbon is a Los Angeles-based startup founded in 2022 that develops modula
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟡 Moderate ([source](https://www.scapecarbon.com/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.scapecarbon.com/ ([source](https://www.cdr.fyi/supplier/scape))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/scape))
-
-[View on LinkedIn](https://www.linkedin.com/company/scapecarbon/)
 
 ---
 

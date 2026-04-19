@@ -8,15 +8,17 @@ pathway: "Afforestation"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Afforestation
-**Method:** Tropical Forest Restoration
-**Country:** United Kingdom
-**Website:** [https://www.rainforestbuilder.com](https://www.rainforestbuilder.com)
-**Status:** 🟢 Active (score: 96/100)
-**Employees:** ~111 (+127% YoY)
-**LinkedIn Followers:** 6,791
-**CDR Focus:** supplier
-**Evidence signals:** website
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Afforestation</td></tr>
+  <tr><th>Method</th><td>Tropical Forest Restoration</td></tr>
+  <tr><th>Country</th><td>United Kingdom</td></tr>
+  <tr><th>Website</th><td><a href="https://www.rainforestbuilder.com" target="_blank" rel="noopener">https://www.rainforestbuilder.com</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/rainforest-builder/" target="_blank" rel="noopener">rainforest-builder — 6,791 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 96/100)</td></tr>
+  <tr><th>Employees</th><td>~111 (+127% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -28,9 +30,7 @@ Rainforest Builder is a UK-headquartered tropical forest restoration company fou
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.rainforestbuilder.com/post/rainforest-builder-sells-carbon-removal-credits-to-microsoft-from-project-buffalo-in-sierra-leone))
 - **2026-04-18** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.rainforestbuilder.com/post/rainforest-builder-sells-carbon-removal-credits-to-microsoft-from-project-buffalo-in-sierra-leone))
-- **2026-04-18** — backfilled from V1 ([source](https://www.esgtoday.com/microsoft-signs-1-8-million-ton-carbon-removal-deal-to-restore-african-rainforest/))
-
-[View on LinkedIn](https://www.linkedin.com/company/rainforest-builder/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

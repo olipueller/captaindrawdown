@@ -8,15 +8,16 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** Switzerland
-**Website:** [https://inkoh.swiss/](https://inkoh.swiss/)
-**Status:** 🟢 Active (score: 85/100)
-**Employees:** ~8 (+33% YoY)
-**LinkedIn Followers:** 788
-**CDR Focus:** division
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>Switzerland</td></tr>
+  <tr><th>Website</th><td><a href="https://inkoh.swiss/" target="_blank" rel="noopener">https://inkoh.swiss/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/inkoh-biochar-and-beyond/" target="_blank" rel="noopener">inkoh-biochar-and-beyond — 788 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Employees</th><td>~8 (+33% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>division</td></tr>
+</table>
 
 ## About
 
@@ -30,9 +31,7 @@ Inkoh AG is a Swiss biochar producer based in Maienfeld, Graubünden, and a subs
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://inkoh.swiss/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.firstclimate.com/projektpartnerschaft/biochar-partner:-inkoh?lang=en))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/inkoh-biochar-and-beyond/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

@@ -8,14 +8,17 @@ pathway: "Enhanced Weathering"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Enhanced Weathering
-**Method:** Enhanced Rock Weathering
-**Country:** Australia
-**Website:** [https://www.carbonaught.io/](https://www.carbonaught.io/)
-**Status:** 🟢 Active (score: 85/100)
-**Employees:** ~4 (-20% YoY)
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enhanced Weathering</td></tr>
+  <tr><th>Method</th><td>Enhanced Rock Weathering</td></tr>
+  <tr><th>Country</th><td>Australia</td></tr>
+  <tr><th>Website</th><td><a href="https://www.carbonaught.io/" target="_blank" rel="noopener">https://www.carbonaught.io/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonaught-pty-ltd/" target="_blank" rel="noopener">carbonaught-pty-ltd</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Employees</th><td>~4 (-20% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -31,9 +34,7 @@ Carbonaught is a Brisbane, Australia-based agtech startup founded in 2021 that a
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://beda.brisbane.qld.au/news-and-events/how-brisbanes-carbonaught-is-changing-the-forecast-for-sustainable-farming))
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://beda.brisbane.qld.au/news-and-events/how-brisbanes-carbonaught-is-changing-the-forecast-for-sustainable-farming))
 - **2026-04-18** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://www.remineralize.org/2025/09/carbonaught-turning-quarry-waste-into-climate-solutions/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/carbonaught-pty-ltd/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

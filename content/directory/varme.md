@@ -8,15 +8,16 @@ pathway: "BECCS"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** BECCS
-**Method:** BECCS
-**Country:** Canada
-**Website:** [https://www.varme.ca/](https://www.varme.ca/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~12 (-8% YoY)
-**LinkedIn Followers:** 3,932
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>BECCS</td></tr>
+  <tr><th>Country</th><td>Canada</td></tr>
+  <tr><th>Website</th><td><a href="https://www.varme.ca/" target="_blank" rel="noopener">https://www.varme.ca/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/varme-energy/" target="_blank" rel="noopener">varme-energy — 3,932 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~12 (-8% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -37,9 +38,7 @@ Varme Energy is developing the Alberta Industrial Heartland (AIH1) project in St
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://esgnews.com/carbon-direct-varme-energy-partner-on-canadas-first-waste-to-energy-with-carbon-capture-project/))
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.carbon-direct.com/press/carbon-direct-varme-energy))
 - **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.carbon-direct.com/press/carbon-direct-varme-energy))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/varme-energy/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

@@ -8,14 +8,15 @@ pathway: "BECCS"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** BECCS
-**Secondary pathways:** DAC
-**Method:** BECCS
-**Country:** United States
-**Website:** [https://pelicanrenewables.com/](https://pelicanrenewables.com/)
-**Status:** 🟢 Active (score: 85/100)
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>BECCS</td></tr>
+  <tr><th>Secondary pathways</th><td>DAC</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://pelicanrenewables.com/" target="_blank" rel="noopener">https://pelicanrenewables.com/</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -31,7 +32,7 @@ Pelican Renewables LLC is developing the Pelican Carbon Sequestration Hub on Rin
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://ghgdata.epa.gov/ghgp/service/facilityDetail/2022?id=1007262&ds=E&et=&popup=true))
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.llnl.gov/article/52346/llnl-supports-co2-storage-californias-delta))
 - **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.llnl.gov/article/52346/llnl-supports-co2-storage-californias-delta))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

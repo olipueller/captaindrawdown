@@ -8,15 +8,17 @@ pathway: "Afforestation"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Afforestation
-**Method:** Unknown
-**Country:** Australia
-**Website:** [https://regenco.earth/](https://regenco.earth/)
-**Status:** 🟢 Active (score: 80/100)
-**Employees:** ~23 (+10% YoY)
-**LinkedIn Followers:** 1,560
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Afforestation</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Australia</td></tr>
+  <tr><th>Website</th><td><a href="https://regenco.earth/" target="_blank" rel="noopener">https://regenco.earth/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/regenco-earth/" target="_blank" rel="noopener">regenco-earth — 1,560 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Employees</th><td>~23 (+10% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -29,8 +31,6 @@ RegenCo is an Australian natural capital and carbon project developer based in A
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://regenco.earth/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://regenco.earth/ ([source](https://www.cdr.fyi/supplier/regenco-group))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/regenco-group))
-
-[View on LinkedIn](https://www.linkedin.com/company/regenco-earth/)
 
 ---
 

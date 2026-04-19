@@ -8,15 +8,17 @@ pathway: "DAC"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** DAC
-**Method:** Unknown
-**Country:** Japan
-**Website:** [https://c-xtract.com/en/](https://c-xtract.com/en/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~6 (0% YoY)
-**LinkedIn Followers:** 182
-**CDR Focus:** division
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>DAC</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Japan</td></tr>
+  <tr><th>Website</th><td><a href="https://c-xtract.com/en/" target="_blank" rel="noopener">https://c-xtract.com/en/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-xtract/" target="_blank" rel="noopener">carbon-xtract — 182 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~6 (0% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>division</td></tr>
+</table>
 
 ## About
 
@@ -30,8 +32,6 @@ Carbon Xtract Corporation is a Fukuoka, Japan-based company established in 2023 
 - **2026-04-19** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://c-xtract.com/en/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://c-xtract.com/en/ ([source](https://www.cdr.fyi/supplier/carbon-xtract))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/carbon-xtract))
-
-[View on LinkedIn](https://www.linkedin.com/company/carbon-xtract/)
 
 ---
 

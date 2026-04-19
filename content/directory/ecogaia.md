@@ -8,16 +8,18 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Secondary pathways:** Afforestation
-**Method:** Unknown
-**Country:** United States
-**Website:** [https://www.ecogaia.earth/](https://www.ecogaia.earth/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~11 (0% YoY)
-**LinkedIn Followers:** 1,309
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>Afforestation</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://www.ecogaia.earth/" target="_blank" rel="noopener">https://www.ecogaia.earth/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/eco2gaia/" target="_blank" rel="noopener">eco2gaia — 1,309 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~11 (0% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -40,8 +42,6 @@ EcoGaia is a carbon project developer that develops and operates climate-positiv
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.altitudecarbon.com/news/altitude-ecogaia-emisiones-neutras))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.ecogaia.earth/ ([source](https://www.cdr.fyi/supplier/ecogaia))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/ecogaia))
-
-[View on LinkedIn](https://www.linkedin.com/company/eco2gaia/)
 
 ---
 

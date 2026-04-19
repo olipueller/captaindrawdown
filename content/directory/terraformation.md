@@ -8,17 +8,19 @@ pathway: "Afforestation"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Afforestation
-**Secondary pathways:** Enabling Tech
-**Method:** Afforestation/Reforestation
-**Country:** United States
-**Website:** [https://terraformation.com/](https://terraformation.com/)
-**Status:** 🟢 Active (score: 92/100)
-**Employees:** ~107 (+5% YoY)
-**LinkedIn Followers:** 20,769
-**Open roles on cdrjobs:** 3
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Afforestation</td></tr>
+  <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Afforestation/Reforestation</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://terraformation.com/" target="_blank" rel="noopener">https://terraformation.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/terraformation/" target="_blank" rel="noopener">terraformation — 20,769 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Employees</th><td>~107 (+5% YoY)</td></tr>
+  <tr><th>Open roles</th><td>3 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -35,9 +37,7 @@ Terraformation is a Hawaii-based native forest restoration company founded in 20
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://terraformation.com/))
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://terraformation.com/press-posts/terraformation-scales-a-locally-led-native-reforestation-model-as-nature-finance-comes-of-age))
-- **2026-04-18** — backfilled from V1
-
-[View on LinkedIn](https://www.linkedin.com/company/terraformation/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

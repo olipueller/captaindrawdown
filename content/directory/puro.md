@@ -8,16 +8,18 @@ pathway: "Enabling Tech"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Enabling Tech
-**Method:** CDR Platform/Marketplace
-**Country:** Finland
-**Website:** [https://puro.earth/](https://puro.earth/)
-**Status:** 🟢 Active (score: 98/100)
-**Employees:** ~52 (-7% YoY)
-**LinkedIn Followers:** 30,028
-**Open roles on cdrjobs:** 4
-**CDR Focus:** ecosystem
-**Evidence signals:** last_evidence_url, cdrjobs, registry_cdrjobsearth
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>CDR Platform/Marketplace</td></tr>
+  <tr><th>Country</th><td>Finland</td></tr>
+  <tr><th>Website</th><td><a href="https://puro.earth/" target="_blank" rel="noopener">https://puro.earth/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/puro-co2-removal-marketplace/" target="_blank" rel="noopener">puro-co2-removal-marketplace — 30,028 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 98/100)</td></tr>
+  <tr><th>Employees</th><td>~52 (-7% YoY)</td></tr>
+  <tr><th>Open roles</th><td>4 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -46,9 +48,7 @@ Puro.earth is a Finland-based carbon removal standard and registry, majority-own
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://puro.earth/))
 - **2026-04-18** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://puro.earth/))
-- **2026-04-18** — backfilled from V1
-
-[View on LinkedIn](https://www.linkedin.com/company/puro-co2-removal-marketplace/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

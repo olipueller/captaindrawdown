@@ -8,15 +8,17 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Method:** Unknown
-**Country:** United States
-**Website:** [https://www.recapcarbon.com/](https://www.recapcarbon.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~3
-**LinkedIn Followers:** 112
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://www.recapcarbon.com/" target="_blank" rel="noopener">https://www.recapcarbon.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/recap-carbon/" target="_blank" rel="noopener">recap-carbon — 112 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~3</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -28,8 +30,6 @@ reCap Carbon Inc. is a US-based climate-tech company that upcycles yard debris i
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.recapcarbon.com/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/recap))
-
-[View on LinkedIn](https://www.linkedin.com/company/recap-carbon/)
 
 ---
 

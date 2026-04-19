@@ -8,16 +8,18 @@ pathway: "BECCS"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** BECCS
-**Secondary pathways:** Biochar
-**Method:** Biochar
-**Country:** Canada
-**Website:** [https://www.antmind.io/](https://www.antmind.io/)
-**Status:** 🟢 Active (score: 70/100)
-**Employees:** ~2 (+100% YoY)
-**LinkedIn Followers:** 31
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>BECCS</td></tr>
+  <tr><th>Secondary pathways</th><td>Biochar</td></tr>
+  <tr><th>Method</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>Canada</td></tr>
+  <tr><th>Website</th><td><a href="https://www.antmind.io/" target="_blank" rel="noopener">https://www.antmind.io/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/antmindenergy/" target="_blank" rel="noopener">antmindenergy — 31 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Employees</th><td>~2 (+100% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -32,9 +34,7 @@ AntMind is a Canadian startup developing a biomass gasification platform that co
 - **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.ibtimes.com/antmind-its-scalable-approach-carbon-negative-energy-forestry-waste-3788373))
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟡 Moderate ([source](https://www.antmind.io/))
 - **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness=🟡 Moderate ([source](https://www.antmind.io/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/antmindenergy/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

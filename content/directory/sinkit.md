@@ -8,16 +8,18 @@ pathway: "Enabling Tech"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Enabling Tech
-**Secondary pathways:** Biochar
-**Method:** Unknown
-**Country:** Netherlands
-**Website:** [https://www.sinkit.org](https://www.sinkit.org)
-**Status:** 🟢 Active (score: 70/100)
-**Employees:** ~8 (+14% YoY)
-**LinkedIn Followers:** 1,170
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Secondary pathways</th><td>Biochar</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Netherlands</td></tr>
+  <tr><th>Website</th><td><a href="https://www.sinkit.org" target="_blank" rel="noopener">https://www.sinkit.org</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sinkit/" target="_blank" rel="noopener">sinkit — 1,170 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Employees</th><td>~8 (+14% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -31,8 +33,6 @@ Sinkit is a Dutch cooperative carbon-removal platform that curates, rates (via i
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟡 Moderate ([source](https://www.sinkit.org/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.sinkit.org/ ([source](https://www.cdr.fyi/marketplace/sinkit))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/sinkit))
-
-[View on LinkedIn](https://www.linkedin.com/company/sinkit/)
 
 ---
 

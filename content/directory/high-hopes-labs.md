@@ -8,14 +8,17 @@ pathway: "DAC"
 liveliness: "🟠 Suspect"
 ---
 
-**Pathway:** DAC
-**Method:** DAC (Cryogenic)
-**Country:** Israel
-**Website:** [https://www.highopeslabs.com/](https://www.highopeslabs.com/)
-**Status:** 🟠 Suspect (score: 35/100)
-**Employees:** ~8 (0% YoY)
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>DAC</td></tr>
+  <tr><th>Method</th><td>DAC (Cryogenic)</td></tr>
+  <tr><th>Country</th><td>Israel</td></tr>
+  <tr><th>Website</th><td><a href="https://www.highopeslabs.com/" target="_blank" rel="noopener">https://www.highopeslabs.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/high-hopes-labs/" target="_blank" rel="noopener">high-hopes-labs</a></td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 35/100)</td></tr>
+  <tr><th>Employees</th><td>~8 (0% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -31,9 +34,7 @@ High Hopes Labs is an Israeli startup based in Ramat Gan in central Israel, foun
 - **2026-04-19** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://carbonherald.com/high-hopes-labs-receives-patent-for-its-carbon-capture-balloons/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://carbonherald.com/high-hopes-labs-receives-patent-for-its-carbon-capture-balloons/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://www.highopeslabs.com/about-us))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/high-hopes-labs/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

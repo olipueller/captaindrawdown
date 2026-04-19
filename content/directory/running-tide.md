@@ -8,16 +8,18 @@ pathway: "Ocean CDR"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Ocean CDR
-**Secondary pathways:** Biomass Burial, Enhanced Weathering
-**Method:** Unknown
-**Country:** United States
-**Website:** [https://runningtide.com/](https://runningtide.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~23 (-21% YoY)
-**LinkedIn Followers:** 10,719
-**CDR Focus:** supplier
-**Evidence signals:** exa_search
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Ocean CDR</td></tr>
+  <tr><th>Secondary pathways</th><td>Biomass Burial, Enhanced Weathering</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://runningtide.com/" target="_blank" rel="noopener">https://runningtide.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/runningtide/" target="_blank" rel="noopener">runningtide — 10,719 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~23 (-21% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -38,8 +40,6 @@ Running Tide was a Portland, Maine-based ocean carbon removal startup founded in
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🔴 Likely Dead ([source](https://carbonherald.com/running-tide-shuts-down-citing-lack-of-demand-from-the-voluntary-market/))
 - **2026-04-18** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🔴 Likely Dead ([source](https://www.seafoodsource.com/news/environment-sustainability/carbon-removal-company-running-tide-shuts-down-operations))
 - **2026-04-18** — discovered via: exa ([source](https://runningtide.com/))
-
-[View on LinkedIn](https://www.linkedin.com/company/runningtide/)
 
 ---
 

@@ -8,14 +8,17 @@ pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Enabling Tech
-**Method:** Unknown
-**Country:** United Kingdom
-**Website:** [https://planetmoja.com/](https://planetmoja.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~2 (-33% YoY)
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>United Kingdom</td></tr>
+  <tr><th>Website</th><td><a href="https://planetmoja.com/" target="_blank" rel="noopener">https://planetmoja.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/planet-moja/" target="_blank" rel="noopener">planet-moja</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~2 (-33% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -27,8 +30,6 @@ Planet Moja is a UK-based carbon credit portfolio curator and broker with a rese
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟡 Moderate ([source](https://planetmoja.com/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/planet-moja-limited))
-
-[View on LinkedIn](https://www.linkedin.com/company/planet-moja/)
 
 ---
 

@@ -8,15 +8,16 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** Germany
-**Website:** [https://www.novocarbo.com/](https://www.novocarbo.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~20 (-44% YoY)
-**LinkedIn Followers:** 10,244
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, registry_puro
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>Germany</td></tr>
+  <tr><th>Website</th><td><a href="https://www.novocarbo.com/" target="_blank" rel="noopener">https://www.novocarbo.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbo3-gmbh/" target="_blank" rel="noopener">carbo3-gmbh — 10,244 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~20 (-44% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -34,9 +35,7 @@ Novocarbo is a Hamburg-based climate tech company that builds and operates Carbo
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.novocarbo.com/biochar/green-construction/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://carbonherald.com/novocarbo-and-stadtwerke-dessau-sign-new-biochar-and-renewable-heat-partnership/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://carbonherald.com/novocarbo-and-stadtwerke-dessau-sign-new-biochar-and-renewable-heat-partnership/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/carbo3-gmbh/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

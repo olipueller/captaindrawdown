@@ -8,15 +8,17 @@ pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Enabling Tech
-**Method:** Unknown
-**Country:** Germany
-**Website:** [https://www.squake.earth](https://www.squake.earth)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~21
-**LinkedIn Followers:** 5,339
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Germany</td></tr>
+  <tr><th>Website</th><td><a href="https://www.squake.earth" target="_blank" rel="noopener">https://www.squake.earth</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/squake/" target="_blank" rel="noopener">squake — 5,339 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~21</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -30,8 +32,6 @@ SQUAKE is a Berlin-based climate tech company providing an API-based platform fo
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.squake.earth/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.squake.earth ([source](https://www.cdr.fyi/marketplace/SQUAKE))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/SQUAKE))
-
-[View on LinkedIn](https://www.linkedin.com/company/squake/)
 
 ---
 

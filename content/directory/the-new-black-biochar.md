@@ -8,13 +8,14 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** Australia
-**Website:** [https://linktr.ee/thenewblackbiochar](https://linktr.ee/thenewblackbiochar)
-**Status:** 🟡 Moderate (score: 45/100)
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>Australia</td></tr>
+  <tr><th>Website</th><td><a href="https://linktr.ee/thenewblackbiochar" target="_blank" rel="noopener">https://linktr.ee/thenewblackbiochar</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 45/100)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -30,7 +31,7 @@ The New Black Biochar was co-founded by Christina Giudici and Bodie Cavanagh and
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://linktr.ee/thenewblackbiochar))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.premier.tas.gov.au/latest-news/2025/march/winner-of-tasmanian-agrifutures-rural-womens-award-2025-announced))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.tasmaniancountry.com/newspaper/tasmanian-country/rural-womens-award-finalist-turning-waste-biochar))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

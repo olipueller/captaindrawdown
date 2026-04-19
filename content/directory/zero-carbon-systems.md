@@ -8,15 +8,18 @@ pathway: "DAC"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** DAC
-**Method:** DAC (Solid Sorbent)
-**Country:** United States
-**Website:** [https://www.zerocarbonsystems.com/](https://www.zerocarbonsystems.com/)
-**Status:** 🟢 Active (score: 100/100)
-**Employees:** ~56 (-10% YoY)
-**Open roles on cdrjobs:** 1
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>DAC</td></tr>
+  <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://www.zerocarbonsystems.com/" target="_blank" rel="noopener">https://www.zerocarbonsystems.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/zero-carbon-systems/" target="_blank" rel="noopener">zero-carbon-systems</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
+  <tr><th>Employees</th><td>~56 (-10% YoY)</td></tr>
+  <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -40,9 +43,7 @@ Zero Carbon Systems is a US-based direct air capture company that acquired pione
 - **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.zerocarbonsystems.com/news))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://www.zerocarbonsystems.com/news))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://www.zerocarbonsystems.com/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/zero-carbon-systems/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

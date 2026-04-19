@@ -8,14 +8,15 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Secondary pathways:** BECCS
-**Method:** Biochar
-**Country:** United States
-**Website:** [https://scottsvalleyenergycompany.com/](https://scottsvalleyenergycompany.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>BECCS</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://scottsvalleyenergycompany.com/" target="_blank" rel="noopener">https://scottsvalleyenergycompany.com/</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -30,7 +31,7 @@ Scotts Valley Energy Company (SVEC) is a tribal enterprise of the Scotts Valley 
 - **2026-04-19** — liveliness: 🔴 Likely Dead → 🟡 Moderate ([source](N/A))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🔴 Likely Dead ([source](https://biochartoday.com/news/scotts-valley-energy-corporation-and-lake-county-terminate-biochar-facility-development-following-grant-funding-and-land-use-conflicts/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.bioenergy-news.com/news/california-woodchip-to-biochar-facility-receives-approval/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

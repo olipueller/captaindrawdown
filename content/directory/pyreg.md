@@ -8,15 +8,17 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Method:** BECCS
-**Country:** Germany
-**Website:** [https://pyreg.com/](https://pyreg.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~44 (-8% YoY)
-**LinkedIn Followers:** 5,861
-**CDR Focus:** supplier
-**Evidence signals:** cdrjobs, hiring, cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Method</th><td>BECCS</td></tr>
+  <tr><th>Country</th><td>Germany</td></tr>
+  <tr><th>Website</th><td><a href="https://pyreg.com/" target="_blank" rel="noopener">https://pyreg.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/pyreg-gmbh/" target="_blank" rel="noopener">pyreg-gmbh — 5,861 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~44 (-8% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -31,8 +33,6 @@ PYREG GmbH is a German cleantech company founded in 2009 as a spin-off of TH Bin
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://pyreg.com/company/))
 - **2026-04-19** — discovered via: cdrjobs, cdrfyi ([source](https://www.cdrjobs.earth/job-board))
-
-[View on LinkedIn](https://www.linkedin.com/company/pyreg-gmbh/)
 
 ---
 

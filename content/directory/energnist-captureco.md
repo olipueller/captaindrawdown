@@ -8,16 +8,17 @@ pathway: "BECCS"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** BECCS
-**Secondary pathways:** BECCS
-**Method:** BECCS
-**Country:** Denmark
-**Website:** [https://energnist.dk](https://energnist.dk)
-**Status:** 🟢 Active (score: 82/100)
-**Employees:** ~50 (+6% YoY)
-**LinkedIn Followers:** 1,358
-**CDR Focus:** division
-**Evidence signals:** news_mention
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>BECCS</td></tr>
+  <tr><th>Secondary pathways</th><td>BECCS</td></tr>
+  <tr><th>Country</th><td>Denmark</td></tr>
+  <tr><th>Website</th><td><a href="https://energnist.dk" target="_blank" rel="noopener">https://energnist.dk</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/energnist/" target="_blank" rel="noopener">energnist — 1,358 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 82/100)</td></tr>
+  <tr><th>Employees</th><td>~50 (+6% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>division</td></tr>
+</table>
 
 ## About
 
@@ -30,8 +31,6 @@ Energnist CaptureCo A/S is the dedicated carbon-capture subsidiary of Energnist,
 - **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://carbonherald.com/carbon-circle-and-energnist-advance-carbon-capture-plans-in-denmark/))
 - **2026-04-18** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://carbonherald.com/carbon-circle-and-energnist-advance-carbon-capture-plans-in-denmark/))
 - **2026-04-18** — discovered via: news_feed ([source](https://carbonherald.com/carbon-circle-and-energnist-advance-carbon-capture-plans-in-denmark/))
-
-[View on LinkedIn](https://www.linkedin.com/company/energnist/)
 
 ---
 

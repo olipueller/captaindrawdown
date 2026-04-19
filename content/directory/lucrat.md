@@ -8,15 +8,16 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** Germany
-**Website:** [https://www.lucrat.de/](https://www.lucrat.de/)
-**Status:** 🟢 Active (score: 78/100)
-**Employees:** ~4 (0% YoY)
-**LinkedIn Followers:** 95
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>Germany</td></tr>
+  <tr><th>Website</th><td><a href="https://www.lucrat.de/" target="_blank" rel="noopener">https://www.lucrat.de/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/lucrat/" target="_blank" rel="noopener">lucrat — 95 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 78/100)</td></tr>
+  <tr><th>Employees</th><td>~4 (0% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -32,9 +33,7 @@ Lucrat GmbH is a German biochar producer in Steinfurt (NRW), founded in 2018, se
 - **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://below2.earth/projects/biochar/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://de.linkedin.com/company/lucrat))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://biochar-zero.com/company/lucrat-gmbh/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/lucrat/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

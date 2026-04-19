@@ -8,16 +8,18 @@ pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Enabling Tech
-**Secondary pathways:** DAC, Biochar, Enhanced Weathering
-**Method:** Unknown
-**Country:** United States
-**Website:** [https://www.tomorrowsair.com/](https://www.tomorrowsair.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~3 (-57% YoY)
-**LinkedIn Followers:** 1,394
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Secondary pathways</th><td>DAC, Biochar, Enhanced Weathering</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://www.tomorrowsair.com/" target="_blank" rel="noopener">https://www.tomorrowsair.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/tomorrows-air/" target="_blank" rel="noopener">tomorrows-air — 1,394 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~3 (-57% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -31,8 +33,6 @@ Tomorrow's Air is a carbon removal collective and marketplace for the travel ind
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.tomorrowsair.com/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.tomorrowsair.com/ ([source](https://www.cdr.fyi/marketplace/tomorrows-air))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/tomorrows-air))
-
-[View on LinkedIn](https://www.linkedin.com/company/tomorrows-air/)
 
 ---
 

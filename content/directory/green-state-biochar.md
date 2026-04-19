@@ -8,13 +8,14 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** United States
-**Website:** [https://greenstatebiochar.com/](https://greenstatebiochar.com/)
-**Status:** 🟡 Moderate (score: 45/100)
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://greenstatebiochar.com/" target="_blank" rel="noopener">https://greenstatebiochar.com/</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 45/100)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -30,7 +31,7 @@ Green State Biochar is a small family-run biochar producer in Greensboro Bend, V
 - **2026-04-19** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://greenstatebiochar.com/newsroom/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://greenstatebiochar.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://greenstatebiochar.com/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

@@ -8,16 +8,18 @@ pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Enabling Tech
-**Secondary pathways:** DAC, Biochar, Mineralization, Afforestation, Ocean CDR
-**Method:** Unknown
-**Country:** United States
-**Website:** [https://thanksaton.earth/](https://thanksaton.earth/)
-**Status:** 🟡 Moderate (score: 45/100)
-**Employees:** ~5 (-50% YoY)
-**LinkedIn Followers:** 754
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Secondary pathways</th><td>DAC, Biochar, Mineralization, Afforestation, Ocean CDR</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://thanksaton.earth/" target="_blank" rel="noopener">https://thanksaton.earth/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/thanks-a-ton/" target="_blank" rel="noopener">thanks-a-ton — 754 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 45/100)</td></tr>
+  <tr><th>Employees</th><td>~5 (-50% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -30,8 +32,6 @@ Thanks a Ton is a B2C/B2B platform that pairs custom digital greeting cards with
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟡 Moderate ([source](https://thanksaton.earth/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://thanksaton.earth/ ([source](https://www.cdr.fyi/marketplace/thanks-a-ton))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/thanks-a-ton))
-
-[View on LinkedIn](https://www.linkedin.com/company/thanks-a-ton/)
 
 ---
 

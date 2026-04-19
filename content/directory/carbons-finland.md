@@ -8,13 +8,15 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** Finland
-**Website:** [https://carbons.fi/en/home/](https://carbons.fi/en/home/)
-**Status:** 🟡 Moderate (score: 45/100)
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin, registry_puro
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>Finland</td></tr>
+  <tr><th>Website</th><td><a href="https://carbons.fi/en/home/" target="_blank" rel="noopener">https://carbons.fi/en/home/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbons-finland/" target="_blank" rel="noopener">carbons-finland</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 45/100)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -33,9 +35,7 @@ Carbons Finland Oy (formerly Pajupojat Oy) is a small biochar producer based in 
 - **2026-04-19** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://www.sitra.fi/en/cases/biochar-enhances-nutrient-recycling-carbon-sequestration/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://carbons.fi/en/home/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://carbons.fi/en/the-company/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/carbons-finland/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

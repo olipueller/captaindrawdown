@@ -8,16 +8,18 @@ pathway: "Biomass Burial"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biomass Burial
-**Secondary pathways:** Ocean CDR, BECCS
-**Method:** Unknown
-**Country:** Kazakhstan
-**Website:** [https://www.caspian.eco/](https://www.caspian.eco/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~1 (-50% YoY)
-**LinkedIn Followers:** 148
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biomass Burial</td></tr>
+  <tr><th>Secondary pathways</th><td>Ocean CDR, BECCS</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Kazakhstan</td></tr>
+  <tr><th>Website</th><td><a href="https://www.caspian.eco/" target="_blank" rel="noopener">https://www.caspian.eco/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/caspian-environmental-consortium-ltd/" target="_blank" rel="noopener">caspian-environmental-consortium-ltd — 148 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~1 (-50% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -31,8 +33,6 @@ Caspian Environmental Consortium Ltd. is a Kazakhstan-based bio-economy research
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.caspian.eco/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.caspian.eco/ ([source](https://www.cdr.fyi/supplier/caspian-environmental-consortium))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/caspian-environmental-consortium))
-
-[View on LinkedIn](https://www.linkedin.com/company/caspian-environmental-consortium-ltd/)
 
 ---
 

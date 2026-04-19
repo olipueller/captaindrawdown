@@ -8,16 +8,18 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Secondary pathways:** Afforestation
-**Method:** Unknown
-**Country:** India
-**Website:** [https://www.tapovanam.earth/](https://www.tapovanam.earth/)
-**Status:** 🟢 Active (score: 70/100)
-**Employees:** ~7 (+75% YoY)
-**LinkedIn Followers:** 459
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>Afforestation</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>India</td></tr>
+  <tr><th>Website</th><td><a href="https://www.tapovanam.earth/" target="_blank" rel="noopener">https://www.tapovanam.earth/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/tapovanam-organic-farming-systems-sustainable-business-regenerative-agriculture/" target="_blank" rel="noopener">tapovanam-organic-farming-systems-sustainable-business-regenerative-agriculture — 459 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Employees</th><td>~7 (+75% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -32,15 +34,13 @@ Tapovanam Organic Farming Systems is a Bangalore-based regenerative agriculture 
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.tapovanam.earth/about))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.tapovanam.earth/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 - **** — merged duplicate: Tapovanam (slug=tapovanam)
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.tapovanam.earth/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.tapovanam.earth ([source](https://www.cdr.fyi/supplier/tapovanam-organic-farming-systems))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/tapovanam-organic-farming-systems))
-
-[View on LinkedIn](https://www.linkedin.com/company/tapovanam-organic-farming-systems-sustainable-business-regenerative-agriculture/)
 
 ---
 

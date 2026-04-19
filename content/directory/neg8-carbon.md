@@ -8,15 +8,17 @@ pathway: "DAC"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** DAC
-**Method:** DAC (Solid Sorbent)
-**Country:** Ireland
-**Website:** [https://neg8carbon.com/](https://neg8carbon.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~11 (0% YoY)
-**LinkedIn Followers:** 3,231
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>DAC</td></tr>
+  <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
+  <tr><th>Country</th><td>Ireland</td></tr>
+  <tr><th>Website</th><td><a href="https://neg8carbon.com/" target="_blank" rel="noopener">https://neg8carbon.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/trinity-green-energies/" target="_blank" rel="noopener">trinity-green-energies — 3,231 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~11 (0% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -31,9 +33,7 @@ NEG8 Carbon is a Waterford, Ireland-based Direct Air Capture company that has de
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://neg8carbon.com/solid-sorbent-dac-compared-with-electrochemical-dac/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://neg8carbon.com/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://neg8carbon.com/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/trinity-green-energies/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

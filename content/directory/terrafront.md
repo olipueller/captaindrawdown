@@ -8,15 +8,17 @@ pathway: "Biochar"
 liveliness: "🟠 Suspect"
 ---
 
-**Pathway:** Biochar
-**Secondary pathways:** Afforestation, Enhanced Weathering
-**Method:** Biochar
-**Country:** United States
-**Website:** [https://terrafront.com/](https://terrafront.com/)
-**Status:** 🟠 Suspect (score: 40/100)
-**Employees:** ~4
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>Afforestation, Enhanced Weathering</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://terrafront.com/" target="_blank" rel="noopener">https://terrafront.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/terrafront/" target="_blank" rel="noopener">terrafront</a></td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Employees</th><td>~4</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -38,9 +40,7 @@ Terrafront Ventures develops climate change adaptation and mitigation infrastruc
 - **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://climateimpactx.com/perspectives/biochar-unlocked-a-buyers-roadmap-to-high-integrity-carbon-removal-credits/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://terrafront.com/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://terrafront.com/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/terrafront/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

@@ -8,16 +8,18 @@ pathway: "Mineralization"
 liveliness: "🟠 Suspect"
 ---
 
-**Pathway:** Mineralization
-**Secondary pathways:** DAC, Enabling Tech, Enhanced Weathering, Ocean CDR
-**Method:** DAC (Liquid Solvent)
-**Country:** United States
-**Website:** [https://edaclabs.com/](https://edaclabs.com/)
-**Status:** 🟠 Suspect (score: 40/100)
-**Employees:** ~7 (-22% YoY)
-**LinkedIn Followers:** 700
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Mineralization</td></tr>
+  <tr><th>Secondary pathways</th><td>DAC, Enabling Tech, Enhanced Weathering, Ocean CDR</td></tr>
+  <tr><th>Method</th><td>DAC (Liquid Solvent)</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://edaclabs.com/" target="_blank" rel="noopener">https://edaclabs.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/edac-labs/" target="_blank" rel="noopener">edac-labs — 700 followers</a></td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Employees</th><td>~7 (-22% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -30,9 +32,7 @@ EDAC Labs is a Baltimore-based Johns Hopkins spin-out (founded July 2022) that e
 - **2026-04-19** — liveliness: 🟡 Moderate → 🟠 Suspect ([source](https://tracxn.com/d/companies/edac-labs/__M0SdvT2c4Zmc4AU5oeGjM6ENTnBhCGSjD30X_47lbXA))
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟡 Moderate ([source](https://edaclabs.com/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://edaclabs.com/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/edac-labs/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

@@ -8,15 +8,17 @@ pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Enabling Tech
-**Method:** Unknown
-**Country:** United Kingdom
-**Website:** [https://bezerocarbon.com/](https://bezerocarbon.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~163 (-21% YoY)
-**LinkedIn Followers:** 39,784
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>United Kingdom</td></tr>
+  <tr><th>Website</th><td><a href="https://bezerocarbon.com/" target="_blank" rel="noopener">https://bezerocarbon.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bezero-carbon/" target="_blank" rel="noopener">bezero-carbon — 39,784 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~163 (-21% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -37,8 +39,6 @@ BeZero Carbon is a global ratings agency for the Voluntary Carbon Market whose c
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://bezerocarbon.com/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.bezerocarbon.com/ ([source](https://www.cdr.fyi/marketplace/bezero))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/bezero))
-
-[View on LinkedIn](https://www.linkedin.com/company/bezero-carbon/)
 
 ---
 

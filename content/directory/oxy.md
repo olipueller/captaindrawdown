@@ -8,16 +8,18 @@ pathway: "DAC"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** DAC
-**Method:** Direct Air Capture
-**Country:** United States
-**Website:** [https://www.oxy.com/](https://www.oxy.com/)
-**Status:** 🟢 Active (score: 95/100)
-**Employees:** ~16340 (+1% YoY)
-**LinkedIn Followers:** 698,459
-**Open roles on cdrjobs:** 9
-**CDR Focus:** division
-**Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>DAC</td></tr>
+  <tr><th>Method</th><td>Direct Air Capture</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://www.oxy.com/" target="_blank" rel="noopener">https://www.oxy.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/oxy/" target="_blank" rel="noopener">oxy — 698,459 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
+  <tr><th>Employees</th><td>~16340 (+1% YoY)</td></tr>
+  <tr><th>Open roles</th><td>9 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
+  <tr><th>CDR Focus</th><td>division</td></tr>
+</table>
 
 ## About
 
@@ -39,9 +41,7 @@ Occidental (Oxy) is one of the largest U.S. oil & gas producers that, through it
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://www.oxy.com/news/news-releases/1pointfive-and-bain--company-announce-agreement-for-direct-air-capture-carbon-removal-credits/))
 - **2026-04-18** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://www.oxy.com/news/news-releases/1pointfive-and-bain--company-announce-agreement-for-direct-air-capture-carbon-removal-credits/))
-- **2026-04-18** — backfilled from V1
-
-[View on LinkedIn](https://www.linkedin.com/company/oxy/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

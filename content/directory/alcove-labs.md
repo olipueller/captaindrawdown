@@ -8,15 +8,17 @@ pathway: "Enabling Tech"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Enabling Tech
-**Method:** Unknown
-**Country:** United States
-**Website:** [https://www.alcove.io/](https://www.alcove.io/)
-**Status:** 🟢 Active (score: 75/100)
-**Employees:** ~16 (+7% YoY)
-**LinkedIn Followers:** 1,173
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://www.alcove.io/" target="_blank" rel="noopener">https://www.alcove.io/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/alcove-io/" target="_blank" rel="noopener">alcove-io — 1,173 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Employees</th><td>~16 (+7% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -30,8 +32,6 @@ Alcove (alcove.io) is a New York-based software company building inventory manag
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.alcove.io/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/alcove-labs))
-
-[View on LinkedIn](https://www.linkedin.com/company/alcove-io/)
 
 ---
 

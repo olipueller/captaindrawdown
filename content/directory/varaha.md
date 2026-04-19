@@ -8,16 +8,17 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Secondary pathways:** Afforestation, Enhanced Weathering
-**Method:** Biochar
-**Country:** India
-**Website:** [https://www.varaha.earth/](https://www.varaha.earth/)
-**Status:** 🟢 Active (score: 98/100)
-**Employees:** ~281 (+34% YoY)
-**LinkedIn Followers:** 30,518
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, registry_puro, registry_cdrjobsearth
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>Afforestation, Enhanced Weathering</td></tr>
+  <tr><th>Country</th><td>India</td></tr>
+  <tr><th>Website</th><td><a href="https://www.varaha.earth/" target="_blank" rel="noopener">https://www.varaha.earth/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/meta-carbontech/" target="_blank" rel="noopener">meta-carbontech — 30,518 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 98/100)</td></tr>
+  <tr><th>Employees</th><td>~281 (+34% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -40,9 +41,7 @@ Varaha is a New Delhi-based carbon removal project developer founded in 2022, op
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://techcrunch.com/2026/02/03/indias-varaha-bags-20m-to-scale-carbon-removal-from-the-global-south/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://techcrunch.com/2026/02/03/indias-varaha-bags-20m-to-scale-carbon-removal-from-the-global-south/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/meta-carbontech/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

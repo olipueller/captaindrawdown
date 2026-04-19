@@ -8,14 +8,17 @@ pathway: "DAC"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** DAC
-**Method:** Unknown
-**Country:** United States
-**Website:** [https://www.provocative.earth/](https://www.provocative.earth/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~15
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>DAC</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://www.provocative.earth/" target="_blank" rel="noopener">https://www.provocative.earth/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/provocative-science/" target="_blank" rel="noopener">provocative-science</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~15</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -31,8 +34,6 @@ Provocative (Provocative Science Holdings) is a Boston-based startup founded in 
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://greentownlabs.com/members/provocative/))
 - **2026-04-19** — url added from cdr.fyi supplier page: http://www.provocative.earth ([source](https://www.cdr.fyi/supplier/provocative-science-holdings))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/provocative-science-holdings))
-
-[View on LinkedIn](https://www.linkedin.com/company/provocative-science/)
 
 ---
 

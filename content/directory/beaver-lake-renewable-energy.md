@@ -8,13 +8,15 @@ pathway: "BECCS"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** BECCS
-**Method:** Unknown
-**Country:** United States
-**Website:** [https://beaverlakerenewable.com/](https://beaverlakerenewable.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**CDR Focus:** division
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>BECCS</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://beaverlakerenewable.com/" target="_blank" rel="noopener">https://beaverlakerenewable.com/</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>CDR Focus</th><td>division</td></tr>
+</table>
 
 ## About
 

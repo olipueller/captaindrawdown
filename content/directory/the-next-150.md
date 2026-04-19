@@ -8,15 +8,17 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Method:** Unknown
-**Country:** Switzerland
-**Website:** [https://thenext150.com/](https://thenext150.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~7 (-36% YoY)
-**LinkedIn Followers:** 2,715
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Switzerland</td></tr>
+  <tr><th>Website</th><td><a href="https://thenext150.com/" target="_blank" rel="noopener">https://thenext150.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/thenext150/" target="_blank" rel="noopener">thenext150 — 2,715 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~7 (-36% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -30,8 +32,6 @@ The Next 150 is a Swiss-based carbon removal venture developer and operator foun
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://thenext150.com/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.thenext150.com ([source](https://www.cdr.fyi/supplier/the-next-150))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/the-next-150))
-
-[View on LinkedIn](https://www.linkedin.com/company/thenext150/)
 
 ---
 

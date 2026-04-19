@@ -8,16 +8,18 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Secondary pathways:** Enabling Tech, Afforestation
-**Method:** Unknown
-**Country:** Nigeria
-**Website:** [https://airsmat.com](https://airsmat.com)
-**Status:** 🟢 Active (score: 70/100)
-**Employees:** ~21 (+5% YoY)
-**LinkedIn Followers:** 3,542
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>Enabling Tech, Afforestation</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Nigeria</td></tr>
+  <tr><th>Website</th><td><a href="https://airsmat.com" target="_blank" rel="noopener">https://airsmat.com</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/airsmat/" target="_blank" rel="noopener">airsmat — 3,542 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Employees</th><td>~21 (+5% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -31,8 +33,6 @@ AirSmat is a Lagos, Nigeria-based agritech startup (founded 2019) that works wit
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://airsmat.com/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.airsmat.com ([source](https://www.cdr.fyi/supplier/airsmat))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/airsmat))
-
-[View on LinkedIn](https://www.linkedin.com/company/airsmat/)
 
 ---
 

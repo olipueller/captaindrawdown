@@ -8,17 +8,18 @@ pathway: "BECCS"
 liveliness: "🟠 Suspect"
 ---
 
-**Pathway:** BECCS
-**Secondary pathways:** Mineralization
-**Method:** BECCS
-**Country:** Canada
-**Website:** [https://www.vault4401.com/](https://www.vault4401.com/)
-**Status:** 🟠 Suspect (score: 40/100)
-**Employees:** ~48
-**LinkedIn Followers:** 4,325
-**CDI Portfolio Company**
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>BECCS</td></tr>
+  <tr><th>Secondary pathways</th><td>Mineralization</td></tr>
+  <tr><th>Country</th><td>Canada</td></tr>
+  <tr><th>Website</th><td><a href="https://www.vault4401.com/" target="_blank" rel="noopener">https://www.vault4401.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/vault-44-01/" target="_blank" rel="noopener">vault-44-01 — 4,325 followers</a></td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Employees</th><td>~48</td></tr>
+  <tr><th>CDI Portfolio</th><td>yes</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -33,9 +34,7 @@ Vault 44.01 is a North American CCS project developer with offices in Calgary an
 - **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://tracxn.com/d/companies/vault-44.01/__v_IIcZ32wXr6Lu8Flc7iUwD4l3M77DTfrnVKCvyMGZo))
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.vault4401.com/))
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.vault4401.com/news))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/vault-44-01/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

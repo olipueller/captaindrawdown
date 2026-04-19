@@ -8,16 +8,18 @@ pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Enabling Tech
-**Secondary pathways:** Afforestation
-**Method:** Unknown
-**Country:** United States
-**Website:** [https://aerial.is/](https://aerial.is/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~5
-**LinkedIn Followers:** 526
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Secondary pathways</th><td>Afforestation</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://aerial.is/" target="_blank" rel="noopener">https://aerial.is/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/withaerial/" target="_blank" rel="noopener">withaerial — 526 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~5</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -31,8 +33,6 @@ Aerial is a San Francisco-based consumer app and platform that tracks users' car
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟠 Suspect ([source](https://www.fastcompany.com/90622939/of-course-there-are-now-carbon-offsets-for-nfts))
 - **2026-04-19** — url added from cdr.fyi supplier page: http://aerial.is/ ([source](https://www.cdr.fyi/marketplace/aerial))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/aerial))
-
-[View on LinkedIn](https://www.linkedin.com/company/withaerial/)
 
 ---
 

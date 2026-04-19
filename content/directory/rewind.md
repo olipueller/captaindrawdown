@@ -8,16 +8,18 @@ pathway: "Biomass Burial"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biomass Burial
-**Secondary pathways:** Ocean CDR
-**Method:** Marine CDR (Other)
-**Country:** Israel
-**Website:** [https://www.rewind.earth/](https://www.rewind.earth/)
-**Status:** 🟢 Active (score: 92/100)
-**Employees:** ~13 (+44% YoY)
-**LinkedIn Followers:** 2,011
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biomass Burial</td></tr>
+  <tr><th>Secondary pathways</th><td>Ocean CDR</td></tr>
+  <tr><th>Method</th><td>Marine CDR (Other)</td></tr>
+  <tr><th>Country</th><td>Israel</td></tr>
+  <tr><th>Website</th><td><a href="https://www.rewind.earth/" target="_blank" rel="noopener">https://www.rewind.earth/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/rewindearth/" target="_blank" rel="noopener">rewindearth — 2,011 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Employees</th><td>~13 (+44% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -37,9 +39,7 @@ Israel-based Rewind was founded in 2022 and is led by Ram Amar, Kobi Kaminitz, E
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://carbonherald.com/rewind-launches-worlds-first-deep-mine-carbon-storage-project-in-georgia/))
 - **2026-04-18** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://carbonherald.com/rewind-launches-worlds-first-deep-mine-carbon-storage-project-in-georgia/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/rewindearth/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

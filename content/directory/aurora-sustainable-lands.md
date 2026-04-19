@@ -8,15 +8,16 @@ pathway: "Afforestation"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Afforestation
-**Method:** Afforestation
-**Country:** United States
-**Website:** [https://aurorasustainablelands.com](https://aurorasustainablelands.com)
-**Status:** 🟢 Active (score: 90/100)
-**Employees:** ~32 (+14% YoY)
-**LinkedIn Followers:** 4,028
-**CDR Focus:** supplier
-**Evidence signals:** news_mention
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Afforestation</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://aurorasustainablelands.com" target="_blank" rel="noopener">https://aurorasustainablelands.com</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/aurora-sustainable-lands/" target="_blank" rel="noopener">aurora-sustainable-lands — 4,028 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Employees</th><td>~32 (+14% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -29,8 +30,6 @@ Aurora Sustainable Lands (formerly Bluesource Sustainable Forests Company) is a 
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://aurorasustainablelands.com/))
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://aurorasustainablelands.com/about/))
 - **2026-04-18** — discovered via: news_feed ([source](https://sustainabilityonline.net/news/anew-climate-issues-85000-metric-tonnes-of-carbon-credits-to-jpmorgan-chase/))
-
-[View on LinkedIn](https://www.linkedin.com/company/aurora-sustainable-lands/)
 
 ---
 

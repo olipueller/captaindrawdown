@@ -8,15 +8,18 @@ pathway: "Afforestation"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Afforestation
-**Secondary pathways:** Enabling Tech
-**Method:** Unknown
-**Country:** Belgium
-**Website:** [https://www.forestmatic.com](https://www.forestmatic.com)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~4
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Afforestation</td></tr>
+  <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Belgium</td></tr>
+  <tr><th>Website</th><td><a href="https://www.forestmatic.com" target="_blank" rel="noopener">https://www.forestmatic.com</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/forestmatic/" target="_blank" rel="noopener">forestmatic</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~4</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -29,8 +32,6 @@ Forestmatic is a Belgium-based sustainability tech company offering digital trac
 - **2026-04-19** — reclassified: pathway=Afforestation focus=ecosystem liveliness=🟡 Moderate ([source](https://www.forestmatic.com/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.forestmatic.com ([source](https://www.cdr.fyi/supplier/forestmatic))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/forestmatic))
-
-[View on LinkedIn](https://www.linkedin.com/company/forestmatic/)
 
 ---
 

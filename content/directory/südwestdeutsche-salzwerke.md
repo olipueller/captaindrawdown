@@ -8,16 +8,17 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Secondary pathways:** BECCS
-**Method:** Biochar
-**Country:** Germany
-**Website:** [https://www.salzwerke.de/](https://www.salzwerke.de/)
-**Status:** 🟢 Active (score: 85/100)
-**Employees:** ~164 (+13% YoY)
-**LinkedIn Followers:** 1,013
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>BECCS</td></tr>
+  <tr><th>Country</th><td>Germany</td></tr>
+  <tr><th>Website</th><td><a href="https://www.salzwerke.de/" target="_blank" rel="noopener">https://www.salzwerke.de/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/suedwestdeutsche-salzwerke-ag/" target="_blank" rel="noopener">suedwestdeutsche-salzwerke-ag — 1,013 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Employees</th><td>~164 (+13% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -31,9 +32,7 @@ Südwestdeutsche Salzwerke AG is a Heilbronn-based German salt producer (~1,100 
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.syncraft.at/news/rueckwaertskraftwerk-in-heilbronn/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=buyer_excluded liveliness=🟢 Active ([source](https://www.salzwerke.de/de/startseite.html))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/suedwestdeutsche-salzwerke-ag/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

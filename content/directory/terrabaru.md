@@ -8,16 +8,18 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Method:** Biomass Carbon Removal
-**Country:** Indonesia
-**Website:** [https://terrabaru.com/](https://terrabaru.com/)
-**Status:** 🟢 Active (score: 80/100)
-**Employees:** ~18 (-14% YoY)
-**LinkedIn Followers:** 7,959
-**Open roles on cdrjobs:** 1
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Method</th><td>Biomass Carbon Removal</td></tr>
+  <tr><th>Country</th><td>Indonesia</td></tr>
+  <tr><th>Website</th><td><a href="https://terrabaru.com/" target="_blank" rel="noopener">https://terrabaru.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/planet-netzero/" target="_blank" rel="noopener">planet-netzero — 7,959 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Employees</th><td>~18 (-14% YoY)</td></tr>
+  <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -32,9 +34,7 @@ TerraBaru is an Indonesian biochar producer headquartered in Bali with a Singapo
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://terrabaru.com/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://terrabaru.com/about-us/))
-- **2026-04-18** — backfilled from V1
-
-[View on LinkedIn](https://www.linkedin.com/company/planet-netzero/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

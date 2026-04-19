@@ -8,16 +8,17 @@ pathway: "BECCS"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** BECCS
-**Secondary pathways:** Mineralization
-**Method:** BECCS
-**Country:** United Kingdom
-**Website:** [https://thecarbonremovers.com/](https://thecarbonremovers.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~12 (-8% YoY)
-**LinkedIn Followers:** 6,781
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>BECCS</td></tr>
+  <tr><th>Secondary pathways</th><td>Mineralization</td></tr>
+  <tr><th>Country</th><td>United Kingdom</td></tr>
+  <tr><th>Website</th><td><a href="https://thecarbonremovers.com/" target="_blank" rel="noopener">https://thecarbonremovers.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/thecarbonremovers/" target="_blank" rel="noopener">thecarbonremovers — 6,781 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~12 (-8% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -37,9 +38,7 @@ The Carbon Removers (formerly Carbon Capture Scotland) is a Scottish CDR supplie
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://carbonherald.com/the-carbon-removers-locks-in-nearly-1-3-million-in-support-from-sose/))
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://thecarbonremovers.com/))
 - **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://thecarbonremovers.com/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/thecarbonremovers/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

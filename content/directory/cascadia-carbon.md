@@ -8,16 +8,18 @@ pathway: "Afforestation"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Afforestation
-**Secondary pathways:** Enabling Tech
-**Method:** Unknown
-**Country:** United States
-**Website:** [https://cascadiacarbon.com/](https://cascadiacarbon.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~1 (-50% YoY)
-**LinkedIn Followers:** 1,233
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Afforestation</td></tr>
+  <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://cascadiacarbon.com/" target="_blank" rel="noopener">https://cascadiacarbon.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cascadiacarbon/" target="_blank" rel="noopener">cascadiacarbon — 1,233 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~1 (-50% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -39,8 +41,6 @@ Cascadia Carbon is a US/Canadian public benefit corporation founded in 2019, hea
 - **2026-04-19** — reclassified: pathway=Afforestation focus=ecosystem liveliness=🟠 Suspect ([source](https://cascadiacarbon.com/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://cascadiacarbon.com/ ([source](https://www.cdr.fyi/supplier/cascadia-carbon))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/cascadia-carbon))
-
-[View on LinkedIn](https://www.linkedin.com/company/cascadiacarbon/)
 
 ---
 

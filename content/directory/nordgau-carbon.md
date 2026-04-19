@@ -8,13 +8,14 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** Germany
-**Website:** [https://www.nordgau-carbon.de/](https://www.nordgau-carbon.de/)
-**Status:** 🟡 Moderate (score: 55/100)
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, registry_puro
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>Germany</td></tr>
+  <tr><th>Website</th><td><a href="https://www.nordgau-carbon.de/" target="_blank" rel="noopener">https://www.nordgau-carbon.de/</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -40,7 +41,7 @@ Nordgau Carbon is a farm-based biochar producer in Wernberg-Köblitz, Bavaria, G
 - **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://puro.earth/CORC-co2-removal-certificate/nordgau-carbon-biochar-se-germany-100027))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/nordgau-carbon-wernberg-koblitz))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://puro.earth/CORC-co2-removal-certificate/nordgau-carbon-biochar-se-germany-100027))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

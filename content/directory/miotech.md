@@ -8,16 +8,17 @@ pathway: "Biochar"
 liveliness: "🟠 Suspect"
 ---
 
-**Pathway:** Biochar
-**Secondary pathways:** Enhanced Weathering, Mineralization
-**Method:** Biochar
-**Country:** Hong Kong
-**Website:** [https://www.miotech.com/](https://www.miotech.com/)
-**Status:** 🟠 Suspect (score: 40/100)
-**Employees:** ~148 (-6% YoY)
-**LinkedIn Followers:** 6,386
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>Enhanced Weathering, Mineralization</td></tr>
+  <tr><th>Country</th><td>Hong Kong</td></tr>
+  <tr><th>Website</th><td><a href="https://www.miotech.com/" target="_blank" rel="noopener">https://www.miotech.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/miotech/" target="_blank" rel="noopener">miotech — 6,386 followers</a></td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Employees</th><td>~148 (-6% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -32,9 +33,7 @@ MioTech is a Hong Kong/Shanghai-based AI-powered ESG data and sustainability sof
 - **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://carbonfreeaviation.com/miotech-becomes-the-first-biochar-supplier-in-china-to-issue-corcs/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.miotech.com/en-US/press/168))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://carbonherald.com/puro-earth-enables-first-corcs-issued-in-china-with-nianda-biochar-project/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/miotech/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

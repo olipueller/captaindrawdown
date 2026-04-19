@@ -8,12 +8,13 @@ pathway: "Biochar"
 liveliness: "🟠 Suspect"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** Malaysia
-**Status:** 🟠 Suspect (score: 25/100)
-**CDR Focus:** supplier
-**Evidence signals:** last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>Malaysia</td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 25/100)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -26,7 +27,7 @@ Biocarbon Tech Asia is listed as a biochar supplier on Puro.earth with a planned
 
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/biocarbon-tech-asia-145))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/biocarbon-tech-asia-145))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

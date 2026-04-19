@@ -8,15 +8,17 @@ pathway: "BECCS"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** BECCS
-**Method:** Unknown
-**Country:** Denmark
-**Website:** [https://bigadan.com/](https://bigadan.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~104
-**LinkedIn Followers:** 3,772
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>BECCS</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Denmark</td></tr>
+  <tr><th>Website</th><td><a href="https://bigadan.com/" target="_blank" rel="noopener">https://bigadan.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bigadan-a-s/" target="_blank" rel="noopener">bigadan-a-s — 3,772 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~104</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -33,14 +35,12 @@ Bigadan A/S (short for Biogas Danmark) is a Skanderborg-based Danish biogas plan
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://theprint.in/environment/how-governments-can-finance-build-and-scale-the-carbon-dioxide-removal-industry/2163884/))
 - **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://ens.dk/en/press/three-new-ccs-projects-have-been-pledged-support-capture-and-store-biogenic-co2))
 - **2026-04-18** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://ens.dk/en/press/three-new-ccs-projects-have-been-pledged-support-capture-and-store-biogenic-co2))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 - **** — merged duplicate: Bioman (slug=bioman)
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://bigadan.com/services/biogenic-co2))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/bigadan-a/s))
-
-[View on LinkedIn](https://www.linkedin.com/company/bigadan-a-s/)
 
 ---
 

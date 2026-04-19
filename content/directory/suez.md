@@ -8,16 +8,17 @@ pathway: "BECCS"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** BECCS
-**Secondary pathways:** Biochar
-**Method:** BECCS
-**Country:** France
-**Website:** [https://www.suez.com/en](https://www.suez.com/en)
-**Status:** 🟢 Active (score: 85/100)
-**Employees:** ~26066 (+3% YoY)
-**LinkedIn Followers:** 898,889
-**CDR Focus:** division
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>BECCS</td></tr>
+  <tr><th>Secondary pathways</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>France</td></tr>
+  <tr><th>Website</th><td><a href="https://www.suez.com/en" target="_blank" rel="noopener">https://www.suez.com/en</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/suez/" target="_blank" rel="noopener">suez — 898,889 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Employees</th><td>~26066 (+3% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>division</td></tr>
+</table>
 
 ## About
 
@@ -42,9 +43,7 @@ SUEZ is a French waste and water utility whose UK arm is developing BECCS retrof
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://www.suez.co.uk/en-gb/news/press-releases/240813-suez-moves-forward-in-carbon-capture-projects-with-the-support-of-technical-design-contractors))
 - **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://www.suez.com/en/news/carbon-capture-use-storage-ccus))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/suez/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

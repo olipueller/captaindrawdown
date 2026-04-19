@@ -8,15 +8,17 @@ pathway: "Afforestation"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Afforestation
-**Method:** Unknown
-**Country:** Netherlands
-**Website:** [https://www.thegreenbranch.nl/](https://www.thegreenbranch.nl/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~16 (0% YoY)
-**LinkedIn Followers:** 5,964
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Afforestation</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Netherlands</td></tr>
+  <tr><th>Website</th><td><a href="https://www.thegreenbranch.nl/" target="_blank" rel="noopener">https://www.thegreenbranch.nl/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/the-green-branch/" target="_blank" rel="noopener">the-green-branch — 5,964 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~16 (0% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -32,8 +34,6 @@ The Green Branch is an Amsterdam-based carbon asset developer founded in 2019 th
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.thegreenbranch.nl/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.thegreenbranch.nl/ ([source](https://www.cdr.fyi/supplier/the-green-branch))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/the-green-branch))
-
-[View on LinkedIn](https://www.linkedin.com/company/the-green-branch/)
 
 ---
 

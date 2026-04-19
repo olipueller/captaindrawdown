@@ -8,16 +8,18 @@ pathway: "Mineralization"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Mineralization
-**Method:** Enhanced Rock Weathering
-**Country:** Germany
-**Website:** [https://www.co-reactive.com/](https://www.co-reactive.com/)
-**Status:** 🟢 Active (score: 92/100)
-**Employees:** ~17 (+70% YoY)
-**LinkedIn Followers:** 2,939
-**CDI Portfolio Company**
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Mineralization</td></tr>
+  <tr><th>Method</th><td>Enhanced Rock Weathering</td></tr>
+  <tr><th>Country</th><td>Germany</td></tr>
+  <tr><th>Website</th><td><a href="https://www.co-reactive.com/" target="_blank" rel="noopener">https://www.co-reactive.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/co-reactive/" target="_blank" rel="noopener">co-reactive — 2,939 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Employees</th><td>~17 (+70% YoY)</td></tr>
+  <tr><th>CDI Portfolio</th><td>yes</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -31,9 +33,7 @@ Co-reactive is a Düsseldorf-based climate-tech startup, spun out of RWTH Aachen
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.co-reactive.com/))
 - **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.co-reactive.com/))
-- **2026-04-18** — backfilled from V1 ([source](https://www.carbon-drawdown.de/))
-
-[View on LinkedIn](https://www.linkedin.com/company/co-reactive/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

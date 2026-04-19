@@ -8,16 +8,18 @@ pathway: "Afforestation"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Afforestation
-**Secondary pathways:** BECCS, Enabling Tech
-**Method:** BiCRS (Other)
-**Country:** United States
-**Website:** [https://www.anewclimate.com/](https://www.anewclimate.com/)
-**Status:** 🟢 Active (score: 95/100)
-**Employees:** ~229
-**LinkedIn Followers:** 24,028
-**CDR Focus:** ecosystem
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Afforestation</td></tr>
+  <tr><th>Secondary pathways</th><td>BECCS, Enabling Tech</td></tr>
+  <tr><th>Method</th><td>BiCRS (Other)</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://www.anewclimate.com/" target="_blank" rel="noopener">https://www.anewclimate.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/blue-source/" target="_blank" rel="noopener">blue-source — 24,028 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
+  <tr><th>Employees</th><td>~229</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -33,9 +35,7 @@ Anew Climate is a Houston-based carbon project developer and credit marketer, ma
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.rngcoalition.com/news/2024/5/10/anew-climate-summit-carbon-solutions-advance-megaton-co2-removal-project))
 - **2026-04-19** — reclassified: pathway=Afforestation focus=ecosystem liveliness=🟢 Active ([source](https://www.anewclimate.com/))
 - **2026-04-18** — reclassified: pathway=Afforestation focus=ecosystem liveliness=🟢 Active ([source](https://www.anewclimate.com/decarbonization-solutions/carbon-credits))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/blue-source/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

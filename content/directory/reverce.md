@@ -8,14 +8,17 @@ pathway: "Enhanced Weathering"
 liveliness: "🟠 Suspect"
 ---
 
-**Pathway:** Enhanced Weathering
-**Method:** Enhanced Rock Weathering
-**Country:** Germany
-**Website:** [https://reverce.com/](https://reverce.com/)
-**Status:** 🟠 Suspect (score: 35/100)
-**Employees:** ~2 (-67% YoY)
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enhanced Weathering</td></tr>
+  <tr><th>Method</th><td>Enhanced Rock Weathering</td></tr>
+  <tr><th>Country</th><td>Germany</td></tr>
+  <tr><th>Website</th><td><a href="https://reverce.com/" target="_blank" rel="noopener">https://reverce.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/reverce-carbon/" target="_blank" rel="noopener">reverce-carbon</a></td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 35/100)</td></tr>
+  <tr><th>Employees</th><td>~2 (-67% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -32,9 +35,7 @@ reverce is a German enhanced rock weathering (ERW) startup spun out of Carbon Dr
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟠 Suspect ([source](https://reverce.com/))
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟠 Suspect ([source](https://reverce.com/))
 - **2026-04-18** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟠 Suspect ([source](https://reverce.com/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/reverce-carbon/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

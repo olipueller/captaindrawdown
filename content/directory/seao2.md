@@ -8,15 +8,17 @@ pathway: "Ocean CDR"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Ocean CDR
-**Method:** Direct Ocean Removal
-**Country:** Netherlands
-**Website:** [https://www.seao2.com/](https://www.seao2.com/)
-**Status:** 🟢 Active (score: 85/100)
-**Employees:** ~19 (+19% YoY)
-**LinkedIn Followers:** 7,336
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Ocean CDR</td></tr>
+  <tr><th>Method</th><td>Direct Ocean Removal</td></tr>
+  <tr><th>Country</th><td>Netherlands</td></tr>
+  <tr><th>Website</th><td><a href="https://www.seao2.com/" target="_blank" rel="noopener">https://www.seao2.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/seao2-io/" target="_blank" rel="noopener">seao2-io — 7,336 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Employees</th><td>~19 (+19% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -30,9 +32,7 @@ SeaO2 is a Dutch TU Delft spin-off developing electrochemical Direct Ocean Captu
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.seao2.com/))
 - **2026-04-18** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.seao2.com))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/seao2-io/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

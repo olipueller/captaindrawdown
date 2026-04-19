@@ -8,15 +8,17 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Method:** Unknown
-**Country:** Denmark
-**Website:** [https://frichs-pyrolysis.com/](https://frichs-pyrolysis.com/)
-**Status:** 🟢 Active (score: 80/100)
-**Employees:** ~27 (+42% YoY)
-**LinkedIn Followers:** 938
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Denmark</td></tr>
+  <tr><th>Website</th><td><a href="https://frichs-pyrolysis.com/" target="_blank" rel="noopener">https://frichs-pyrolysis.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/frichs-pyrolysis/" target="_blank" rel="noopener">frichs-pyrolysis — 938 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Employees</th><td>~27 (+42% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -29,8 +31,6 @@ Frichs Pyrolysis ApS is a Danish development company based in Horsens that suppl
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://frichs-pyrolysis.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.biochareurope.eu/members))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/frichs-pyrolysis-aps))
-
-[View on LinkedIn](https://www.linkedin.com/company/frichs-pyrolysis/)
 
 ---
 

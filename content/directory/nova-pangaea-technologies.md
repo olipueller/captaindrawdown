@@ -8,16 +8,17 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Secondary pathways:** BECCS
-**Method:** Biochar
-**Country:** United Kingdom
-**Website:** [https://www.novapangaea.com/](https://www.novapangaea.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~30 (-19% YoY)
-**LinkedIn Followers:** 3,811
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>BECCS</td></tr>
+  <tr><th>Country</th><td>United Kingdom</td></tr>
+  <tr><th>Website</th><td><a href="https://www.novapangaea.com/" target="_blank" rel="noopener">https://www.novapangaea.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/nova-pangaea-technologies-uk-limited/" target="_blank" rel="noopener">nova-pangaea-technologies-uk-limited — 3,811 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~30 (-19% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -32,9 +33,7 @@ Nova Pangaea Technologies (NPT) is a clean technology company headquartered in T
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.novapangaea.com/about/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.novapangaea.com/about/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.novapangaea.com/about/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/nova-pangaea-technologies-uk-limited/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

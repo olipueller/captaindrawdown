@@ -8,15 +8,17 @@ pathway: "DAC"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** DAC
-**Method:** DAC (Solid Sorbent)
-**Country:** Norway
-**Website:** [https://greencap-solutions.com/](https://greencap-solutions.com/)
-**Status:** 🟢 Active (score: 85/100)
-**Employees:** ~13 (+18% YoY)
-**LinkedIn Followers:** 3,144
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin, registry_cdrjobsearth
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>DAC</td></tr>
+  <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
+  <tr><th>Country</th><td>Norway</td></tr>
+  <tr><th>Website</th><td><a href="https://greencap-solutions.com/" target="_blank" rel="noopener">https://greencap-solutions.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/greencap-solutions-as/" target="_blank" rel="noopener">greencap-solutions-as — 3,144 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Employees</th><td>~13 (+18% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -39,9 +41,7 @@ GreenCap Solutions AS is a Norwegian environmental technology provider of large-
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://greencap-solutions.com/direct-air-capture/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.gasworld.com/story/norway-demo-explores-carbon-capture-in-aluminium-production/2164258.article/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/greencap-solutions-as/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

@@ -8,16 +8,18 @@ pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Enabling Tech
-**Secondary pathways:** DAC, Biochar, Enhanced Weathering, Mineralization, BECCS
-**Method:** Unknown
-**Country:** Switzerland
-**Website:** [https://nextgencdr.com/](https://nextgencdr.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~3 (-25% YoY)
-**LinkedIn Followers:** 2,477
-**CDR Focus:** ecosystem
-**Evidence signals:** exa_search
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Secondary pathways</th><td>DAC, Biochar, Enhanced Weathering, Mineralization, BECCS</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Switzerland</td></tr>
+  <tr><th>Website</th><td><a href="https://nextgencdr.com/" target="_blank" rel="noopener">https://nextgencdr.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/nextgencdr/" target="_blank" rel="noopener">nextgencdr — 2,477 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~3 (-25% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -33,8 +35,6 @@ NextGen CDR is a buyers' club and advance-market-commitment facility jointly est
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.nextgencdr.com/))
 - **2026-04-18** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.nextgencdr.com/))
 - **2026-04-18** — discovered via: exa ([source](https://nextgencdr.com/))
-
-[View on LinkedIn](https://www.linkedin.com/company/nextgencdr/)
 
 ---
 

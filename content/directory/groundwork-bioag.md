@@ -8,16 +8,18 @@ pathway: "Afforestation"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Afforestation
-**Secondary pathways:** Mineralization
-**Method:** Mineralization (Other)
-**Country:** Israel
-**Website:** [https://groundworkbioag.com/](https://groundworkbioag.com/)
-**Status:** 🟢 Active (score: 95/100)
-**Employees:** ~53 (+10% YoY)
-**LinkedIn Followers:** 8,293
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Afforestation</td></tr>
+  <tr><th>Secondary pathways</th><td>Mineralization</td></tr>
+  <tr><th>Method</th><td>Mineralization (Other)</td></tr>
+  <tr><th>Country</th><td>Israel</td></tr>
+  <tr><th>Website</th><td><a href="https://groundworkbioag.com/" target="_blank" rel="noopener">https://groundworkbioag.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/groundwork-bioagriculture/" target="_blank" rel="noopener">groundwork-bioagriculture — 8,293 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
+  <tr><th>Employees</th><td>~53 (+10% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -31,9 +33,7 @@ Groundwork BioAg is an Israeli bioagriculture company headquartered in Mazor tha
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://groundworkbioag.com/))
 - **2026-04-18** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://groundworkbioag.com/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/groundwork-bioagriculture/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

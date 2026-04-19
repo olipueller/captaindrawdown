@@ -8,13 +8,16 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Method:** Unknown
-**Country:** Australia
-**Website:** [https://byronbiochar.com.au/](https://byronbiochar.com.au/)
-**Status:** 🟡 Moderate (score: 60/100)
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Australia</td></tr>
+  <tr><th>Website</th><td><a href="https://byronbiochar.com.au/" target="_blank" rel="noopener">https://byronbiochar.com.au/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/byron-biochar/" target="_blank" rel="noopener">byron-biochar</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 60/100)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -26,8 +29,6 @@ Byron Biochar is an Australian social enterprise founded by Don Coyne that produ
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://byronbiochar.com.au/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/byron-biochar))
-
-[View on LinkedIn](https://www.linkedin.com/company/byron-biochar/)
 
 ---
 

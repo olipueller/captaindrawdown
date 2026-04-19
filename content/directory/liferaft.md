@@ -8,14 +8,17 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Method:** Unknown
-**Country:** United States
-**Website:** [https://www.liferaft.cc/](https://www.liferaft.cc/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~2
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://www.liferaft.cc/" target="_blank" rel="noopener">https://www.liferaft.cc/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/liferaftcc/" target="_blank" rel="noopener">liferaftcc</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~2</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -29,8 +32,6 @@ Liferaft is a U.S.-based biochar company operating large-scale facilities in Iow
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.liferaft.cc/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.liferaft.cc/ ([source](https://www.cdr.fyi/supplier/Liferaft))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/Liferaft))
-
-[View on LinkedIn](https://www.linkedin.com/company/liferaftcc/)
 
 ---
 

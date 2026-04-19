@@ -8,16 +8,17 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Secondary pathways:** Enabling Tech
-**Method:** Biochar
-**Country:** Singapore
-**Website:** [https://www.greenchar.co/](https://www.greenchar.co/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~3
-**LinkedIn Followers:** 30
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
+  <tr><th>Country</th><td>Singapore</td></tr>
+  <tr><th>Website</th><td><a href="https://www.greenchar.co/" target="_blank" rel="noopener">https://www.greenchar.co/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/greenchar-climate-solutions/" target="_blank" rel="noopener">greenchar-climate-solutions — 30 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~3</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -32,9 +33,7 @@ GreenChar Climate Solutions is a Singapore-incorporated biochar project develope
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://tracxn.com/d/legal-entities/singapore/greenchar-climate-solutions-pte.ltd./__GK5flpzvhSJIfr0oru3OW-MTGMyW3sAXY4w8XaDmvNc))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.greenchar.co/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.greenchar.co/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/greenchar-climate-solutions/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

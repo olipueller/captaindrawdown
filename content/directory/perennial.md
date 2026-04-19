@@ -8,17 +8,19 @@ pathway: "Enabling Tech"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Enabling Tech
-**Secondary pathways:** Afforestation
-**Method:** Soil Carbon Sequestration
-**Country:** United States
-**Website:** [https://www.perennial.earth/](https://www.perennial.earth/)
-**Status:** 🟢 Active (score: 90/100)
-**Employees:** ~42 (-5% YoY)
-**LinkedIn Followers:** 10,382
-**Open roles on cdrjobs:** 3
-**CDR Focus:** ecosystem
-**Evidence signals:** website, cdrjobs, registry_cdrjobsearth
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Secondary pathways</th><td>Afforestation</td></tr>
+  <tr><th>Method</th><td>Soil Carbon Sequestration</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://www.perennial.earth/" target="_blank" rel="noopener">https://www.perennial.earth/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/perennial-earth/" target="_blank" rel="noopener">perennial-earth — 10,382 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Employees</th><td>~42 (-5% YoY)</td></tr>
+  <tr><th>Open roles</th><td>3 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -35,9 +37,7 @@ Perennial (formerly Cloud Agronomics) is a Boulder, Colorado-based MRV company f
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.perennial.earth/))
 - **2026-04-18** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.perennial.earth/about))
-- **2026-04-18** — backfilled from V1
-
-[View on LinkedIn](https://www.linkedin.com/company/perennial-earth/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

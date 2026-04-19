@@ -8,15 +8,16 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** Singapore
-**Website:** [https://bluefieldrenewable.com/](https://bluefieldrenewable.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~2 (-75% YoY)
-**LinkedIn Followers:** 1,375
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>Singapore</td></tr>
+  <tr><th>Website</th><td><a href="https://bluefieldrenewable.com/" target="_blank" rel="noopener">https://bluefieldrenewable.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bluefieldrenewable/" target="_blank" rel="noopener">bluefieldrenewable — 1,375 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~2 (-75% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -32,9 +33,7 @@ Bluefield Renewable Energy (BRE) is a Singapore-headquartered biochar producer t
 - **2026-04-19** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://bluefieldrenewable.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://bluefieldrenewable.com/about-us/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://bluefieldrenewable.com/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/bluefieldrenewable/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

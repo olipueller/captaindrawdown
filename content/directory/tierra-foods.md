@@ -8,15 +8,17 @@ pathway: "Mineralization"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Mineralization
-**Secondary pathways:** Afforestation, Enabling Tech
-**Method:** Mineralization (Other)
-**Country:** United Kingdom
-**Website:** [https://tierra-foods.com/](https://tierra-foods.com/)
-**Status:** 🟢 Active (score: 75/100)
-**LinkedIn Followers:** 133
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Mineralization</td></tr>
+  <tr><th>Secondary pathways</th><td>Afforestation, Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Mineralization (Other)</td></tr>
+  <tr><th>Country</th><td>United Kingdom</td></tr>
+  <tr><th>Website</th><td><a href="https://tierra-foods.com/" target="_blank" rel="noopener">https://tierra-foods.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/tierra-foods-mexico/" target="_blank" rel="noopener">tierra-foods-mexico — 133 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -32,9 +34,7 @@ Tierra Foods is a UK-based climate tech startup developing agroforestry carbon-r
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.leadsontrees.com/news/tierrasphere-fuels-tierra-foods-vision-520k-grant-ignites-climate-tech-innovation-for-permanent-carbon-capture-and-restoration))
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://tierra-foods.com/about-us))
 - **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://tierra-foods.com/about-us))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/tierra-foods-mexico/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

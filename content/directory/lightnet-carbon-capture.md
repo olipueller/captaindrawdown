@@ -8,16 +8,18 @@ pathway: "Mineralization"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Mineralization
-**Secondary pathways:** DAC
-**Method:** Mineralization (Other)
-**Country:** Spain
-**Website:** [https://www.lightnetcc.com/en](https://www.lightnetcc.com/en)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~3
-**LinkedIn Followers:** 53
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Mineralization</td></tr>
+  <tr><th>Secondary pathways</th><td>DAC</td></tr>
+  <tr><th>Method</th><td>Mineralization (Other)</td></tr>
+  <tr><th>Country</th><td>Spain</td></tr>
+  <tr><th>Website</th><td><a href="https://www.lightnetcc.com/en" target="_blank" rel="noopener">https://www.lightnetcc.com/en</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/lightnetcc/" target="_blank" rel="noopener">lightnetcc — 53 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~3</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -32,9 +34,7 @@ LightNET Carbon Capture (LNCC) is a Barcelona-based ICN2/CSIC spin-off commercia
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://rdcsic.dicat.csic.es/en/environment/success-stories/the-csic-promotes-green-innovation-with-its-participation-in-the-spin-off-lightnet-carbon-capture))
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.lightnetcc.com/en))
 - **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://rdcsic.dicat.csic.es/en/environment/success-stories/the-csic-promotes-green-innovation-with-its-participation-in-the-spin-off-lightnet-carbon-capture))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/lightnetcc/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

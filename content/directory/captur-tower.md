@@ -8,15 +8,17 @@ pathway: "DAC"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** DAC
-**Method:** DAC (Other/Undisclosed)
-**Country:** Spain
-**Website:** [https://www.capturtower.com/](https://www.capturtower.com/)
-**Status:** 🟢 Active (score: 70/100)
-**Employees:** ~6 (+50% YoY)
-**LinkedIn Followers:** 501
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>DAC</td></tr>
+  <tr><th>Method</th><td>DAC (Other/Undisclosed)</td></tr>
+  <tr><th>Country</th><td>Spain</td></tr>
+  <tr><th>Website</th><td><a href="https://www.capturtower.com/" target="_blank" rel="noopener">https://www.capturtower.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/captur-tower/" target="_blank" rel="noopener">captur-tower — 501 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Employees</th><td>~6 (+50% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -31,9 +33,7 @@ Captur Tower is an early-stage Spanish DAC startup founded in 2023 and headquart
 - **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.linkedin.com/posts/thomas-louagie-7773a44_capturlaunch-dac-directaircapture-activity-7114532240641994752-vmdF?trk=public_profile_like_view))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://www.capturtower.com/))
 - **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://www.capturtower.com/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/captur-tower/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

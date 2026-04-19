@@ -8,12 +8,15 @@ pathway: "Mineralization"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Mineralization
-**Method:** Unknown
-**Country:** Austria
-**Website:** [https://sequestra.tech/](https://sequestra.tech/)
-**Status:** 🟢 Active (score: 90/100)
-**CDR Focus:** supplier
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Mineralization</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Austria</td></tr>
+  <tr><th>Website</th><td><a href="https://sequestra.tech/" target="_blank" rel="noopener">https://sequestra.tech/</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 

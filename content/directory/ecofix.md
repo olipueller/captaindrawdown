@@ -8,15 +8,16 @@ pathway: "Biochar"
 liveliness: "🟠 Suspect"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** Kenya
-**Website:** [https://www.efk.co.ke/](https://www.efk.co.ke/)
-**Status:** 🟠 Suspect (score: 40/100)
-**Employees:** ~16 (-6% YoY)
-**LinkedIn Followers:** 2,157
-**CDR Focus:** supplier
-**Evidence signals:** last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>Kenya</td></tr>
+  <tr><th>Website</th><td><a href="https://www.efk.co.ke/" target="_blank" rel="noopener">https://www.efk.co.ke/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/eco-fuels-kenya/" target="_blank" rel="noopener">eco-fuels-kenya — 2,157 followers</a></td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Employees</th><td>~16 (-6% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -29,9 +30,7 @@ EcoFix Kenya Ltd (formerly Eco Fuels Kenya) is a Nanyuki-based social enterprise
 - **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://esgpost.com/terraton-secures-11-5m-to-scale-biochar-carbon-removal-in-emerging-markets/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.efk.co.ke/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/ecofix-kenya-biochar-176))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/eco-fuels-kenya/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

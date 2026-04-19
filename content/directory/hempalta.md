@@ -8,16 +8,17 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Secondary pathways:** Afforestation, Enabling Tech
-**Method:** Biochar
-**Country:** Canada
-**Website:** [https://www.hempalta.com/](https://www.hempalta.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~5 (-58% YoY)
-**LinkedIn Followers:** 2,029
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>Afforestation, Enabling Tech</td></tr>
+  <tr><th>Country</th><td>Canada</td></tr>
+  <tr><th>Website</th><td><a href="https://www.hempalta.com/" target="_blank" rel="noopener">https://www.hempalta.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/hemp-alta/" target="_blank" rel="noopener">hemp-alta — 2,029 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~5 (-58% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -32,9 +33,7 @@ Hempalta Corp. (TSXV: HEMP) is a Calgary-based publicly listed climate-tech comp
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://investingnews.com/stocks/tsxv-hemp/hempalta/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.cantechletter.com/newswires/hempalta-announces-2-million-private-placement-proposed-share-consolidation-and-expanding-nature-based-carbon-program/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.cantechletter.com/newswires/hempalta-announces-2-million-private-placement-proposed-share-consolidation-and-expanding-nature-based-carbon-program/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/hemp-alta/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

@@ -8,15 +8,16 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** Portugal
-**Website:** [https://en.imflorestal.com/](https://en.imflorestal.com/)
-**Status:** 🟢 Active (score: 85/100)
-**Employees:** ~17
-**LinkedIn Followers:** 1,357
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>Portugal</td></tr>
+  <tr><th>Website</th><td><a href="https://en.imflorestal.com/" target="_blank" rel="noopener">https://en.imflorestal.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/imflorestal/" target="_blank" rel="noopener">imflorestal — 1,357 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Employees</th><td>~17</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -38,9 +39,7 @@ Ibero Massa Florestal (IMF) is a Portuguese biochar producer based in Oliveira d
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://tracxn.com/d/companies/ibero/__BreM4r32ZvwnH0EXNQ0tHL-VfrWWt4samxIgka68OBw))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://en.imflorestal.com/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://en.imflorestal.com/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/imflorestal/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

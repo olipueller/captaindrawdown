@@ -8,15 +8,17 @@ pathway: "Enhanced Weathering"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Enhanced Weathering
-**Method:** Enhanced Rock Weathering
-**Country:** Mexico
-**Website:** [https://silica.earth](https://silica.earth)
-**Status:** 🟢 Active (score: 70/100)
-**Employees:** ~7 (+75% YoY)
-**LinkedIn Followers:** 390
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enhanced Weathering</td></tr>
+  <tr><th>Method</th><td>Enhanced Rock Weathering</td></tr>
+  <tr><th>Country</th><td>Mexico</td></tr>
+  <tr><th>Website</th><td><a href="https://silica.earth" target="_blank" rel="noopener">https://silica.earth</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/silicaearth/" target="_blank" rel="noopener">silicaearth — 390 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Employees</th><td>~7 (+75% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -30,9 +32,7 @@ Silica is an enhanced rock weathering (ERW) project developer based in Mexico, s
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://silica.earth))
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟡 Moderate ([source](https://silica.earth))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/silicaearth/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

@@ -8,16 +8,18 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Secondary pathways:** Enabling Tech
-**Method:** Unknown
-**Country:** Switzerland
-**Website:** [https://www.cotierra.com/](https://www.cotierra.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~16
-**LinkedIn Followers:** 5,103
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Switzerland</td></tr>
+  <tr><th>Website</th><td><a href="https://www.cotierra.com/" target="_blank" rel="noopener">https://www.cotierra.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/terra-preta-carbon/" target="_blank" rel="noopener">terra-preta-carbon — 5,103 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~16</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -35,22 +37,20 @@ Cotierra (formerly Terra Preta) is a Swiss-Colombian ClimateTech/AgTech startup 
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.cotierra.com/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.volcafe.com/news/volcafe-cotierra-carbon-credits-biochar))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 - **** — merged duplicate: Cotierra (slug=cotierra)
 - **2026-04-19** — merged 1 duplicate(s): Terra Preta
 - **2026-04-19** — refresh: screenshot, liveliness
 - **2026-04-19** — liveliness: 🔴 Likely Dead → 🟡 Moderate ([source](None))
 - **2026-04-19** — reclassified: pathway=Biochar focus=review_needed liveliness=🔴 Likely Dead ([source](https://terra-preta.de/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=review_needed liveliness=🔴 Likely Dead ([source](https://terra-preta.de/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 - **** — merged duplicate: Terra Preta (slug=terra-preta)
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.cotierra.com/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://terra-preta.earth ([source](https://www.cdr.fyi/supplier/terra-preta))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/terra-preta))
-
-[View on LinkedIn](https://www.linkedin.com/company/terra-preta-carbon/)
 
 ---
 

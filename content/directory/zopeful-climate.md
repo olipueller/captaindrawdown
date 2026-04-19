@@ -8,15 +8,17 @@ pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Enabling Tech
-**Method:** Unknown
-**Country:** United Kingdom
-**Website:** [https://zopeful.com/](https://zopeful.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~2 (-33% YoY)
-**LinkedIn Followers:** 1,308
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>United Kingdom</td></tr>
+  <tr><th>Website</th><td><a href="https://zopeful.com/" target="_blank" rel="noopener">https://zopeful.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/zopeful/" target="_blank" rel="noopener">zopeful — 1,308 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~2 (-33% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -30,8 +32,6 @@ Zopeful Climate is a London-based company that curates ready-made portfolios of 
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://zopeful.com/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://zopeful.com/ ([source](https://www.cdr.fyi/marketplace/zopeful-climate))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/zopeful-climate))
-
-[View on LinkedIn](https://www.linkedin.com/company/zopeful/)
 
 ---
 

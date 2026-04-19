@@ -8,15 +8,16 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** Germany
-**Website:** [https://arbeit-in-selbsthilfe.de/](https://arbeit-in-selbsthilfe.de/)
-**Status:** 🟢 Active (score: 75/100)
-**Employees:** ~6 (-25% YoY)
-**LinkedIn Followers:** 7
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>Germany</td></tr>
+  <tr><th>Website</th><td><a href="https://arbeit-in-selbsthilfe.de/" target="_blank" rel="noopener">https://arbeit-in-selbsthilfe.de/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/arbeit-in-selbsthilfe-ais-ggmbh/" target="_blank" rel="noopener">arbeit-in-selbsthilfe-ais-ggmbh — 7 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Employees</th><td>~6 (-25% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -32,9 +33,7 @@ AiS (Arbeit in Selbsthilfe gGmbH) is a German non-profit inclusion enterprise ba
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://arbeit-in-selbsthilfe.de/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://arbeit-in-selbsthilfe.de/pyrolyse-und-heizzentrale/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://arbeit-in-selbsthilfe.de/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/arbeit-in-selbsthilfe-ais-ggmbh/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

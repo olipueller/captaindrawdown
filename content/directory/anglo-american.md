@@ -8,15 +8,17 @@ pathway: "Enhanced Weathering"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Enhanced Weathering
-**Method:** Enhanced Rock Weathering
-**Country:** United Kingdom
-**Website:** [https://www.angloamerican.com/our-stories/healthy-environment/turning-waste-into-a-climate-solution-with-enhanced-rock-weathering](https://www.angloamerican.com/our-stories/healthy-environment/turning-waste-into-a-climate-solution-with-enhanced-rock-weathering)
-**Status:** 🟢 Active (score: 88/100)
-**Employees:** ~26627 (+4% YoY)
-**LinkedIn Followers:** 1,421,454
-**CDR Focus:** division
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enhanced Weathering</td></tr>
+  <tr><th>Method</th><td>Enhanced Rock Weathering</td></tr>
+  <tr><th>Country</th><td>United Kingdom</td></tr>
+  <tr><th>Website</th><td><a href="https://www.angloamerican.com/our-stories/healthy-environment/turning-waste-into-a-climate-solution-with-enhanced-rock-weathering" target="_blank" rel="noopener">https://www.angloamerican.com/our-stories/healthy-environment/turning-waste-into-a-climate-solution-with-enhanced-rock-weathering</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/anglo-american/" target="_blank" rel="noopener">anglo-american — 1,421,454 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 88/100)</td></tr>
+  <tr><th>Employees</th><td>~26627 (+4% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>division</td></tr>
+</table>
 
 ## About
 
@@ -30,9 +32,7 @@ Anglo American is a global mining major that has partnered with Isometric and Ze
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=division liveliness=🟢 Active ([source](https://www.angloamerican.com/our-stories/healthy-environment/turning-waste-into-a-climate-solution-with-enhanced-rock-weathering))
 - **2026-04-18** — reclassified: pathway=Enhanced Weathering focus=division liveliness=🟢 Active ([source](https://isometric.com/writing-articles/isometric-partners-with-anglo-american-and-zeroex-to-issue-high-quality-cdr-credits))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/anglo-american/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

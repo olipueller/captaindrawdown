@@ -8,16 +8,17 @@ pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Enabling Tech
-**Secondary pathways:** DAC, Biochar, Enhanced Weathering
-**Method:** Enabling Tech
-**Country:** United States
-**Website:** [https://climatevault.com](https://climatevault.com)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~16 (-27% YoY)
-**LinkedIn Followers:** 3,240
-**CDR Focus:** ecosystem
-**Evidence signals:** news_mention
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Secondary pathways</th><td>DAC, Biochar, Enhanced Weathering</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://climatevault.com" target="_blank" rel="noopener">https://climatevault.com</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/climatevault/" target="_blank" rel="noopener">climatevault — 3,240 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~16 (-27% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -31,8 +32,6 @@ Climate Vault Solutions, Inc. is the commercial/sales arm of the University of C
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://climatevault.com/))
 - **2026-04-18** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://climatevault.com/))
 - **2026-04-18** — discovered via: news_feed ([source](https://carbonherald.com/cowboy-clean-fuels-selected-to-join-climate-vault-solutions-premium-cdr-supplier-portfolio/))
-
-[View on LinkedIn](https://www.linkedin.com/company/climatevault/)
 
 ---
 

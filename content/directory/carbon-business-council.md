@@ -8,15 +8,17 @@ pathway: "Enabling Tech"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Enabling Tech
-**Method:** Unknown
-**Country:** United States
-**Website:** [https://www.carbonbusinesscouncil.org/](https://www.carbonbusinesscouncil.org/)
-**Status:** 🟢 Active (score: 92/100)
-**Employees:** ~18 (+50% YoY)
-**LinkedIn Followers:** 9,920
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://www.carbonbusinesscouncil.org/" target="_blank" rel="noopener">https://www.carbonbusinesscouncil.org/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonbusinesscouncil/" target="_blank" rel="noopener">carbonbusinesscouncil — 9,920 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Employees</th><td>~18 (+50% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -29,8 +31,6 @@ The Carbon Business Council (CO2BC) is a nonprofit, tech-neutral trade associati
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.carbonbusinesscouncil.org))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.carbonbusinesscouncil.org/ ([source](https://www.cdr.fyi/marketplace/carbon-business-council))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/carbon-business-council))
-
-[View on LinkedIn](https://www.linkedin.com/company/carbonbusinesscouncil/)
 
 ---
 

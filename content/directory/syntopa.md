@@ -8,17 +8,19 @@ pathway: "Enhanced Weathering"
 liveliness: "🟠 Suspect"
 ---
 
-**Pathway:** Enhanced Weathering
-**Secondary pathways:** Enabling Tech
-**Method:** Enhanced Rock Weathering
-**Country:** United States
-**Website:** [https://syntopa.com/](https://syntopa.com/)
-**Status:** 🟠 Suspect (score: 40/100)
-**Employees:** ~4 (-43% YoY)
-**LinkedIn Followers:** 727
-**CDI Portfolio Company**
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enhanced Weathering</td></tr>
+  <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Enhanced Rock Weathering</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://syntopa.com/" target="_blank" rel="noopener">https://syntopa.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/syntopa/" target="_blank" rel="noopener">syntopa — 727 followers</a></td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Employees</th><td>~4 (-43% YoY)</td></tr>
+  <tr><th>CDI Portfolio</th><td>yes</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -33,9 +35,7 @@ Syntopa was founded in 2023 by Hans Holtan to develop microbial products that ad
 - **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.carbon-drawdown.de/blog/2025-4-22-portfolio-spotlight-syntopa))
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://syntopa.com))
 - **2026-04-18** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://syntopa.com/))
-- **2026-04-18** — backfilled from V1 ([source](https://www.carbon-drawdown.de/))
-
-[View on LinkedIn](https://www.linkedin.com/company/syntopa/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

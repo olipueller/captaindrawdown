@@ -8,15 +8,17 @@ pathway: "Mineralization"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Mineralization
-**Method:** Unknown
-**Country:** United States
-**Website:** [https://www.carbonlimit.com/](https://www.carbonlimit.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~12 (-40% YoY)
-**LinkedIn Followers:** 2,683
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Mineralization</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://www.carbonlimit.com/" target="_blank" rel="noopener">https://www.carbonlimit.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonlimit/" target="_blank" rel="noopener">carbonlimit — 2,683 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~12 (-40% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -32,8 +34,6 @@ Carbon Limit is a South Florida climate tech company innovating and commercializ
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.carbonlimit.com/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.carbonlimit.com/ ([source](https://www.cdr.fyi/supplier/carbon-limit))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/carbon-limit))
-
-[View on LinkedIn](https://www.linkedin.com/company/carbonlimit/)
 
 ---
 

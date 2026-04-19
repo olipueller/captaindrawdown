@@ -8,16 +8,18 @@ pathway: "Enabling Tech"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Enabling Tech
-**Secondary pathways:** Afforestation, Enhanced Weathering, Ocean CDR
-**Method:** Unknown
-**Country:** Netherlands
-**Website:** [https://oncra.org](https://oncra.org)
-**Status:** 🟢 Active (score: 75/100)
-**Employees:** ~2 (+100% YoY)
-**LinkedIn Followers:** 746
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Secondary pathways</th><td>Afforestation, Enhanced Weathering, Ocean CDR</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Netherlands</td></tr>
+  <tr><th>Website</th><td><a href="https://oncra.org" target="_blank" rel="noopener">https://oncra.org</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/oncra/" target="_blank" rel="noopener">oncra — 746 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Employees</th><td>~2 (+100% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -30,8 +32,6 @@ Oncra (Open Natural Carbon Removal Accounting) is a carbon-removal certification
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://oncra.org/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://oncra.org ([source](https://www.cdr.fyi/marketplace/oncra))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/oncra))
-
-[View on LinkedIn](https://www.linkedin.com/company/oncra/)
 
 ---
 

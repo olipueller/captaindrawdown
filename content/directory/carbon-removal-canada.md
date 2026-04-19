@@ -8,15 +8,17 @@ pathway: "Enabling Tech"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Enabling Tech
-**Method:** Unknown
-**Country:** Canada
-**Website:** [https://carbonremoval.ca/](https://carbonremoval.ca/)
-**Status:** 🟢 Active (score: 95/100)
-**Employees:** ~13 (+8% YoY)
-**LinkedIn Followers:** 7,799
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Canada</td></tr>
+  <tr><th>Website</th><td><a href="https://carbonremoval.ca/" target="_blank" rel="noopener">https://carbonremoval.ca/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-removal-canada/" target="_blank" rel="noopener">carbon-removal-canada — 7,799 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
+  <tr><th>Employees</th><td>~13 (+8% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -29,8 +31,6 @@ Carbon Removal Canada is an independent policy advocacy initiative, a project of
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://carbonremoval.ca/about/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://carbonremoval.ca/ ([source](https://www.cdr.fyi/marketplace/carbon-removal-canada))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/carbon-removal-canada))
-
-[View on LinkedIn](https://www.linkedin.com/company/carbon-removal-canada/)
 
 ---
 

@@ -8,16 +8,18 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Secondary pathways:** Afforestation
-**Method:** Unknown
-**Country:** Germany
-**Website:** [https://www.atmosfair.de/en/](https://www.atmosfair.de/en/)
-**Status:** 🟢 Active (score: 90/100)
-**Employees:** ~78 (+16% YoY)
-**LinkedIn Followers:** 6,700
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>Afforestation</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Germany</td></tr>
+  <tr><th>Website</th><td><a href="https://www.atmosfair.de/en/" target="_blank" rel="noopener">https://www.atmosfair.de/en/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/atmosfair-ggmbh-klimabewusst-reisen/" target="_blank" rel="noopener">atmosfair-ggmbh-klimabewusst-reisen — 6,700 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Employees</th><td>~78 (+16% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -30,8 +32,6 @@ atmosfair gGmbH is a Berlin-based German non-profit founded in 2005 that develop
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.atmosfair.de/en/corporate_services/invest-in-co2-removal/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.atmosfair.de/ ([source](https://www.cdr.fyi/supplier/atmosfair))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/atmosfair))
-
-[View on LinkedIn](https://www.linkedin.com/company/atmosfair-ggmbh-klimabewusst-reisen/)
 
 ---
 

@@ -8,16 +8,18 @@ pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Enabling Tech
-**Secondary pathways:** Mineralization
-**Method:** Unknown
-**Country:** United States
-**Website:** [https://www.beg.utexas.edu/](https://www.beg.utexas.edu/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~26105
-**LinkedIn Followers:** 800,900
-**CDR Focus:** ecosystem
-**Evidence signals:** openalex_paper
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Secondary pathways</th><td>Mineralization</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://www.beg.utexas.edu/" target="_blank" rel="noopener">https://www.beg.utexas.edu/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/theuniversityoftexasataustin-/" target="_blank" rel="noopener">theuniversityoftexasataustin- — 800,900 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~26105</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -31,8 +33,6 @@ The Gulf Coast Carbon Center (GCCC) is an industry-funded research programme run
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://gccc.beg.utexas.edu/))
 - **2026-04-18** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://gccc.beg.utexas.edu/))
 - **2026-04-18** — discovered via: openalex ([source](https://openalex.org/I4403928371))
-
-[View on LinkedIn](https://www.linkedin.com/company/theuniversityoftexasataustin-/)
 
 ---
 

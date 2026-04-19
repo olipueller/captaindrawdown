@@ -8,14 +8,17 @@ pathway: "BECCS"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** BECCS
-**Method:** Unknown
-**Country:** United States
-**Website:** [https://pathwayenergy.com/](https://pathwayenergy.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~6
-**CDR Focus:** division
-**Evidence signals:** exa_search
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>BECCS</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://pathwayenergy.com/" target="_blank" rel="noopener">https://pathwayenergy.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/pathway-energy/" target="_blank" rel="noopener">pathway-energy</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~6</td></tr>
+  <tr><th>CDR Focus</th><td>division</td></tr>
+</table>
 
 ## About
 
@@ -29,8 +32,6 @@ Pathway Energy is a Houston-based developer of carbon-negative sustainable aviat
 - **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://www.drax.com/press_release/drax-and-pathway-energy-agree-heads-of-terms-on-sustainable-biomass-deal-to-supply-new-us-saf-plant/))
 - **2026-04-18** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://pathwayenergy.com/))
 - **2026-04-18** — discovered via: exa ([source](https://pathwayenergy.com/))
-
-[View on LinkedIn](https://www.linkedin.com/company/pathway-energy/)
 
 ---
 

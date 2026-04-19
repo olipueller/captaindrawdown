@@ -8,15 +8,17 @@ pathway: "Enhanced Weathering"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Enhanced Weathering
-**Method:** Enhanced Rock Weathering
-**Country:** United States
-**Website:** [https://goal300.earth/](https://goal300.earth/)
-**Status:** 🟡 Moderate (score: 45/100)
-**Employees:** ~1 (0% YoY)
-**LinkedIn Followers:** 63
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enhanced Weathering</td></tr>
+  <tr><th>Method</th><td>Enhanced Rock Weathering</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://goal300.earth/" target="_blank" rel="noopener">https://goal300.earth/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/goal300/" target="_blank" rel="noopener">goal300 — 63 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 45/100)</td></tr>
+  <tr><th>Employees</th><td>~1 (0% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -32,9 +34,7 @@ Goal 300 is a small US-based enhanced rock weathering project developer operatin
 - **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://goal300.earth/carbon-buyers/))
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟡 Moderate ([source](https://goal300.earth/))
 - **2026-04-18** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟡 Moderate ([source](https://goal300.earth/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/goal300/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

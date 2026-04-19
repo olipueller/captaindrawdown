@@ -8,15 +8,17 @@ pathway: "Ocean CDR"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Ocean CDR
-**Method:** Ocean Fertilization
-**Country:** United States
-**Website:** [https://www.sea-up.life/](https://www.sea-up.life/)
-**Status:** 🟡 Moderate (score: 45/100)
-**Employees:** ~2
-**LinkedIn Followers:** 14
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Ocean CDR</td></tr>
+  <tr><th>Method</th><td>Ocean Fertilization</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://www.sea-up.life/" target="_blank" rel="noopener">https://www.sea-up.life/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/the-sea-upwelling-company/" target="_blank" rel="noopener">the-sea-upwelling-company — 14 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 45/100)</td></tr>
+  <tr><th>Employees</th><td>~2</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -32,9 +34,7 @@ Sea-Up (The Sea Upwelling Company Inc, formerly Ocean-Based Climate Solutions) i
 - **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://www.climate.gov/news-features/understanding-climate/carbon-dioxide-removal-noaa-state-science-factsheet))
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟡 Moderate ([source](https://climatebase.org/company/1141620/the-sea-upwelling-company-inc-dba-sea-up))
 - **2026-04-18** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟡 Moderate ([source](https://www.sea-up.life/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/the-sea-upwelling-company/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

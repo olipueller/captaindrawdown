@@ -8,15 +8,16 @@ pathway: "BECCS"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** BECCS
-**Method:** BECCS
-**Country:** Brazil
-**Website:** [https://www.fs.agr.br/en/](https://www.fs.agr.br/en/)
-**Status:** 🟢 Active (score: 85/100)
-**Employees:** ~1642 (+17% YoY)
-**LinkedIn Followers:** 130,472
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>BECCS</td></tr>
+  <tr><th>Country</th><td>Brazil</td></tr>
+  <tr><th>Website</th><td><a href="https://www.fs.agr.br/en/" target="_blank" rel="noopener">https://www.fs.agr.br/en/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/fs-bioenergia/" target="_blank" rel="noopener">fs-bioenergia — 130,472 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Employees</th><td>~1642 (+17% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -36,9 +37,7 @@ FS (FS Agrisolutions Indústria de Biocombustíveis / FS Bioenergia) is Brazil's
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.fs.agr.br/en/our-business/carbon/))
 - **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.theagribiz.com/empresas/bioenergia/bndes-libera-384-milhoes-para-projeto-de-estocagem-de-carbono-da-fs))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/fs-bioenergia/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

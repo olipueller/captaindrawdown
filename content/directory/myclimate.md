@@ -8,16 +8,18 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Secondary pathways:** Afforestation
-**Method:** Afforestation
-**Country:** Switzerland
-**Website:** [https://www.myclimate.org/](https://www.myclimate.org/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~155 (-16% YoY)
-**LinkedIn Followers:** 27,233
-**CDR Focus:** ecosystem
-**Evidence signals:** news_mention
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>Afforestation</td></tr>
+  <tr><th>Method</th><td>Afforestation</td></tr>
+  <tr><th>Country</th><td>Switzerland</td></tr>
+  <tr><th>Website</th><td><a href="https://www.myclimate.org/" target="_blank" rel="noopener">https://www.myclimate.org/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/myclimate---the-climate-protection-partnership/" target="_blank" rel="noopener">myclimate---the-climate-protection-partnership — 27,233 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~155 (-16% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -32,8 +34,6 @@ myclimate is a Swiss non-profit climate protection foundation, spun out of ETH Z
 - **2026-04-19** — reclassified: pathway=Afforestation focus=ecosystem liveliness=🟢 Active ([source](https://www.myclimate.org/en/))
 - **2026-04-19** — reclassified: pathway=Afforestation focus=ecosystem liveliness=🟢 Active ([source](https://www.myclimate.org/en/))
 - **2026-04-18** — discovered via: news_feed ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7450519880702779392/))
-
-[View on LinkedIn](https://www.linkedin.com/company/myclimate---the-climate-protection-partnership/)
 
 ---
 

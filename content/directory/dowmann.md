@@ -8,15 +8,16 @@ pathway: "Biochar"
 liveliness: "🟠 Suspect"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** Ireland
-**Website:** [https://www.dowmann.com/](https://www.dowmann.com/)
-**Status:** 🟠 Suspect (score: 35/100)
-**Employees:** ~4 (0% YoY)
-**LinkedIn Followers:** 207
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>Ireland</td></tr>
+  <tr><th>Website</th><td><a href="https://www.dowmann.com/" target="_blank" rel="noopener">https://www.dowmann.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/dowmann/" target="_blank" rel="noopener">dowmann — 207 followers</a></td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 35/100)</td></tr>
+  <tr><th>Employees</th><td>~4 (0% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -32,9 +33,7 @@ Dowmann is an Irish carbon removal startup that breaks biomass down and separate
 - **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://climaccelerator.climate-kic.org/news/carbon-removal-climaccelerator-start-up-spotlight-downmann/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.dowmann.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.dowmann.com/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/dowmann/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

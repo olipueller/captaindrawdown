@@ -8,13 +8,14 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** Sweden
-**Website:** [https://www.biokol.se/](https://www.biokol.se/)
-**Status:** 🟢 Active (score: 75/100)
-**CDR Focus:** supplier
-**Evidence signals:** last_evidence_url, registry_puro
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>Sweden</td></tr>
+  <tr><th>Website</th><td><a href="https://www.biokol.se/" target="_blank" rel="noopener">https://www.biokol.se/</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -43,7 +44,7 @@ Hjelmsäters Egendom is a Swedish agricultural estate in Hällekis (Kinnekulle) 
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.biokol.se/vad-ar-biokol/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.biokol.se/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://registry.rainbowstandard.io/projects/RIV-2025-PROJ-104?mechanism=REMOVAL))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 - **** — merged duplicate: Biokol.se (slug=biokolse)
 - **** — merged duplicate: BC Trading AB (slug=bc-trading-ab)
 - **** — merged duplicate: Biokol (slug=biokol)
@@ -52,7 +53,7 @@ Hjelmsäters Egendom is a Swedish agricultural estate in Hällekis (Kinnekulle) 
 - **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://www.hjelmsater.se/egendom/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/hjelmsaters-egendom))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://puro.earth/CORC-co2-removal-certificate/biochar-in-sweden-hjelmsaeters-egendom-100026))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

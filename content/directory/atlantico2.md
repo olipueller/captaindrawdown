@@ -8,15 +8,17 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Method:** Unknown
-**Country:** Brazil
-**Website:** [https://atlantico2.com/](https://atlantico2.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~1 (0% YoY)
-**LinkedIn Followers:** 73
-**CDR Focus:** supplier
-**Evidence signals:** exa_search, cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Brazil</td></tr>
+  <tr><th>Website</th><td><a href="https://atlantico2.com/" target="_blank" rel="noopener">https://atlantico2.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/atlantico2/" target="_blank" rel="noopener">atlantico2 — 73 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~1 (0% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -30,8 +32,6 @@ AtlantiCO2 is a Brazilian carbon removal company that has developed its own pyro
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.atlantico2.com/))
 - **2026-04-19** — discovered via: exa, cdrfyi ([source](https://atlantico2.com/))
-
-[View on LinkedIn](https://www.linkedin.com/company/atlantico2/)
 
 ---
 

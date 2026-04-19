@@ -8,15 +8,17 @@ pathway: "Enabling Tech"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Enabling Tech
-**Method:** Unknown
-**Country:** United States
-**Website:** [https://www.carbonremovalalliance.org/](https://www.carbonremovalalliance.org/)
-**Status:** 🟢 Active (score: 88/100)
-**Employees:** ~7 (+40% YoY)
-**LinkedIn Followers:** 3,242
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://www.carbonremovalalliance.org/" target="_blank" rel="noopener">https://www.carbonremovalalliance.org/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-removal-alliance/" target="_blank" rel="noopener">carbon-removal-alliance — 3,242 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 88/100)</td></tr>
+  <tr><th>Employees</th><td>~7 (+40% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -29,8 +31,6 @@ Carbon Removal Alliance (CRA) is a US-based policy advocacy coalition founded in
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.carbonremovalalliance.org/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.carbonremovalalliance.org/ ([source](https://www.cdr.fyi/marketplace/carbon-removal-alliance))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/carbon-removal-alliance))
-
-[View on LinkedIn](https://www.linkedin.com/company/carbon-removal-alliance/)
 
 ---
 

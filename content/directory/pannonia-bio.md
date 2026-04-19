@@ -8,15 +8,16 @@ pathway: "BECCS"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** BECCS
-**Method:** BECCS
-**Country:** Hungary
-**Website:** [https://www.pannoniabio.com/](https://www.pannoniabio.com/)
-**Status:** 🟢 Active (score: 90/100)
-**Employees:** ~155 (+11% YoY)
-**LinkedIn Followers:** 3,434
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>BECCS</td></tr>
+  <tr><th>Country</th><td>Hungary</td></tr>
+  <tr><th>Website</th><td><a href="https://www.pannoniabio.com/" target="_blank" rel="noopener">https://www.pannoniabio.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/pannonia-bio-zrt/" target="_blank" rel="noopener">pannonia-bio-zrt — 3,434 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Employees</th><td>~155 (+11% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -30,9 +31,7 @@ Pannonia Bio is Europe's largest single-site grain biorefinery, located in Dunaf
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://danubeenergy.com/danube-removals/))
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://carbon-pulse.com/206719/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/pannonia-bio-zrt/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

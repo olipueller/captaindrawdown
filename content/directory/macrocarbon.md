@@ -8,16 +8,18 @@ pathway: "Ocean CDR"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Ocean CDR
-**Secondary pathways:** Biochar, BECCS
-**Method:** Biochar
-**Country:** Spain
-**Website:** [https://www.macrocarbon.world/](https://www.macrocarbon.world/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~7 (0% YoY)
-**LinkedIn Followers:** 1,981
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Ocean CDR</td></tr>
+  <tr><th>Secondary pathways</th><td>Biochar, BECCS</td></tr>
+  <tr><th>Method</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>Spain</td></tr>
+  <tr><th>Website</th><td><a href="https://www.macrocarbon.world/" target="_blank" rel="noopener">https://www.macrocarbon.world/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/macrocarbon/" target="_blank" rel="noopener">macrocarbon — 1,981 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~7 (0% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -32,9 +34,7 @@ MacroCarbon SL is a Las Palmas (Gran Canaria) startup, spun out in March 2023 fr
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://climatedrift.substack.com/p/what-if-seaweed-could-build-its-own))
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://green.simpliflying.com/p/dr-mar-fernandez-mendez-macrocarbon))
 - **2026-04-18** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://green.simpliflying.com/p/dr-mar-fernandez-mendez-macrocarbon))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/macrocarbon/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

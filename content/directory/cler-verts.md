@@ -8,16 +8,17 @@ pathway: "Biochar"
 liveliness: "🟠 Suspect"
 ---
 
-**Pathway:** Biochar
-**Secondary pathways:** BECCS
-**Method:** Biochar
-**Country:** France
-**Website:** [https://www.cler-verts.fr](https://www.cler-verts.fr)
-**Status:** 🟠 Suspect (score: 40/100)
-**Employees:** ~34
-**LinkedIn Followers:** 2,851
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>BECCS</td></tr>
+  <tr><th>Country</th><td>France</td></tr>
+  <tr><th>Website</th><td><a href="https://www.cler-verts.fr" target="_blank" rel="noopener">https://www.cler-verts.fr</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cler-verts/" target="_blank" rel="noopener">cler-verts — 2,851 followers</a></td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Employees</th><td>~34</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -32,9 +33,7 @@ Cler Verts is a French organic waste valorization group established in Occitanie
 - **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://lesjourneesterritoriales.fr/portfolio/cler-verts-terre-dantan/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.cler-verts.fr/actualites-liste/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.cler-verts.fr/actualites-liste/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/cler-verts/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

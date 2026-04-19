@@ -8,16 +8,17 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Secondary pathways:** BECCS
-**Method:** Biochar
-**Country:** Austria
-**Website:** [https://www.oekokraft.at](https://www.oekokraft.at)
-**Status:** 🟢 Active (score: 72/100)
-**Employees:** ~2 (-33% YoY)
-**LinkedIn Followers:** 4,479
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>BECCS</td></tr>
+  <tr><th>Country</th><td>Austria</td></tr>
+  <tr><th>Website</th><td><a href="https://www.oekokraft.at" target="_blank" rel="noopener">https://www.oekokraft.at</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biochar-zero/" target="_blank" rel="noopener">biochar-zero — 4,479 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 72/100)</td></tr>
+  <tr><th>Employees</th><td>~2 (-33% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -33,9 +34,7 @@ KWS Ökokraft GmbH is a small Austrian energy company (founded 2017, HQ Ternitz,
 - **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://www.biomasseverband.at/wp-content/uploads/Holzenergiepreis2023SiegerHACKGUT.pdf))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.syncraft.at/en/references/ternitz/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://biochar-zero.com/company/kws-okokraft-gmbh/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/biochar-zero/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

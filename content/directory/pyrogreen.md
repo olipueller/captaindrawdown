@@ -8,16 +8,18 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Secondary pathways:** Enabling Tech
-**Method:** Unknown
-**Country:** China
-**Website:** [https://www.pyrogreen-energy.com/](https://www.pyrogreen-energy.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~16
-**LinkedIn Followers:** 10,733
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>China</td></tr>
+  <tr><th>Website</th><td><a href="https://www.pyrogreen-energy.com/" target="_blank" rel="noopener">https://www.pyrogreen-energy.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/wuxi-pyrogreen-energy-technology-co-ltd/" target="_blank" rel="noopener">wuxi-pyrogreen-energy-technology-co-ltd — 10,733 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~16</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -40,8 +42,6 @@ Pyrogreen Energy is a biochar equipment brand of Wuxi Powermax Renewable Energy 
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.pyrogreen-energy.com/ ([source](https://www.cdr.fyi/supplier/pyrogreen))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.pyrogreen-energy.com/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/pyrogreen))
-
-[View on LinkedIn](https://www.linkedin.com/company/wuxi-pyrogreen-energy-technology-co-ltd/)
 
 ---
 

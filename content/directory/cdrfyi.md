@@ -8,15 +8,16 @@ pathway: "Enabling Tech"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Enabling Tech
-**Method:** Enabling Tech
-**Country:** United States
-**Website:** [https://cdr.fyi](https://cdr.fyi)
-**Status:** 🟢 Active (score: 95/100)
-**Employees:** ~31 (+72% YoY)
-**LinkedIn Followers:** 16,781
-**CDR Focus:** ecosystem
-**Evidence signals:** news_mention
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://cdr.fyi" target="_blank" rel="noopener">https://cdr.fyi</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cdr-fyi/" target="_blank" rel="noopener">cdr-fyi — 16,781 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
+  <tr><th>Employees</th><td>~31 (+72% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -29,8 +30,6 @@ CDR.fyi is a market intelligence and data platform for the durable carbon dioxid
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.cdr.fyi/))
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.cdr.fyi/about))
 - **2026-04-18** — discovered via: news_feed ([source](https://www.linkedin.com/feed/update/urn:li:share:7450554592624349185/))
-
-[View on LinkedIn](https://www.linkedin.com/company/cdr-fyi/)
 
 ---
 

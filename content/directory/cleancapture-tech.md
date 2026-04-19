@@ -8,13 +8,16 @@ pathway: "DAC"
 liveliness: "🟠 Suspect"
 ---
 
-**Pathway:** DAC
-**Method:** DAC (Solid Sorbent)
-**Country:** United States
-**Website:** [https://cleancapturetech.com/](https://cleancapturetech.com/)
-**Status:** 🟠 Suspect (score: 25/100)
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>DAC</td></tr>
+  <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://cleancapturetech.com/" target="_blank" rel="noopener">https://cleancapturetech.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cleancapturetech/" target="_blank" rel="noopener">cleancapturetech</a></td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 25/100)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -30,9 +33,7 @@ CleanCapture Tech is an early-stage U.S. direct air capture startup founded in 2
 - **2026-04-19** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://cleancapturetech.com/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://cleancapturetech.com/about-us))
 - **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://cleancapturetech.com/about-us))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/cleancapturetech/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

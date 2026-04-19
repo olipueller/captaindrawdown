@@ -8,15 +8,17 @@ pathway: "DAC"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** DAC
-**Method:** DAC (Membrane)
-**Country:** Netherlands
-**Website:** [https://carbyon.com/](https://carbyon.com/)
-**Status:** 🟢 Active (score: 92/100)
-**Employees:** ~45 (-20% YoY)
-**LinkedIn Followers:** 10,859
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>DAC</td></tr>
+  <tr><th>Method</th><td>DAC (Membrane)</td></tr>
+  <tr><th>Country</th><td>Netherlands</td></tr>
+  <tr><th>Website</th><td><a href="https://carbyon.com/" target="_blank" rel="noopener">https://carbyon.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbyon/" target="_blank" rel="noopener">carbyon — 10,859 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Employees</th><td>~45 (-20% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -32,9 +34,7 @@ Carbyon is a Dutch deep-tech startup founded in 2019 as a TNO spin-off, developi
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.carbyon.com/news/canadas-deep-sky-to-pilot-dac-unit-from-dutch-startup-carbyon))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.carbyon.com/news/carbyon-unveils-worlds-fastest-direct-air-capture-dac-machine))
 - **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.carbyon.com/news/carbyon-unveils-worlds-fastest-direct-air-capture-dac-machine))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/carbyon/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

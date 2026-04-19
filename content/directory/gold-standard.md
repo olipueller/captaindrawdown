@@ -8,15 +8,17 @@ pathway: "Enabling Tech"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Enabling Tech
-**Method:** Unknown
-**Country:** Switzerland
-**Website:** [https://www.goldstandard.org/](https://www.goldstandard.org/)
-**Status:** 🟢 Active (score: 95/100)
-**Employees:** ~195 (+39% YoY)
-**LinkedIn Followers:** 54,727
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Switzerland</td></tr>
+  <tr><th>Website</th><td><a href="https://www.goldstandard.org/" target="_blank" rel="noopener">https://www.goldstandard.org/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/gold-standard/" target="_blank" rel="noopener">gold-standard — 54,727 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
+  <tr><th>Employees</th><td>~195 (+39% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -29,8 +31,6 @@ Gold Standard is a non-profit carbon credit certification standard and registry 
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.goldstandard.org/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.goldstandard.org/ ([source](https://www.cdr.fyi/marketplace/gold-standard))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/gold-standard))
-
-[View on LinkedIn](https://www.linkedin.com/company/gold-standard/)
 
 ---
 

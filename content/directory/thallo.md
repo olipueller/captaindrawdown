@@ -8,15 +8,17 @@ pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Enabling Tech
-**Method:** Unknown
-**Country:** United Kingdom
-**Website:** [https://www.thallo.io/](https://www.thallo.io/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~1 (-67% YoY)
-**LinkedIn Followers:** 3,610
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>United Kingdom</td></tr>
+  <tr><th>Website</th><td><a href="https://www.thallo.io/" target="_blank" rel="noopener">https://www.thallo.io/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/thallo-io/" target="_blank" rel="noopener">thallo-io — 3,610 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~1 (-67% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -30,8 +32,6 @@ Thallo is a London-based climate-tech startup founded in 2021 that provides a bl
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟠 Suspect ([source](https://www.thallo.io/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.thallo.io/ ([source](https://www.cdr.fyi/marketplace/thallo))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/thallo))
-
-[View on LinkedIn](https://www.linkedin.com/company/thallo-io/)
 
 ---
 

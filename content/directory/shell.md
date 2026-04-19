@@ -8,16 +8,18 @@ pathway: "DAC"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** DAC
-**Secondary pathways:** BECCS
-**Method:** DAC (Solid Sorbent)
-**Country:** United Kingdom
-**Website:** [https://www.shell.com/what-we-do/technology-and-innovation/technology-for-a-sustainable-energy-industry/dac-technology.html](https://www.shell.com/what-we-do/technology-and-innovation/technology-for-a-sustainable-energy-industry/dac-technology.html)
-**Status:** 🟢 Active (score: 85/100)
-**Employees:** ~192273 (+25% YoY)
-**LinkedIn Followers:** 7,625,535
-**CDR Focus:** division
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>DAC</td></tr>
+  <tr><th>Secondary pathways</th><td>BECCS</td></tr>
+  <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
+  <tr><th>Country</th><td>United Kingdom</td></tr>
+  <tr><th>Website</th><td><a href="https://www.shell.com/what-we-do/technology-and-innovation/technology-for-a-sustainable-energy-industry/dac-technology.html" target="_blank" rel="noopener">https://www.shell.com/what-we-do/technology-and-innovation/technology-for-a-sustainable-energy-industry/dac-technology.html</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/shell/" target="_blank" rel="noopener">shell — 7,625,535 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Employees</th><td>~192273 (+25% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>division</td></tr>
+</table>
 
 ## About
 
@@ -31,9 +33,7 @@ Shell is developing proprietary solid-sorbent Direct Air Capture technology with
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://www.shell.com/what-we-do/technology-and-innovation/technology-for-a-sustainable-energy-industry/dac-technology.html))
 - **2026-04-18** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://www.shell.com/what-we-do/technology-and-innovation/technology-for-a-sustainable-energy-industry/dac-technology.html))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/shell/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

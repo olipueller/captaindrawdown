@@ -8,14 +8,16 @@ pathway: "Biomass Burial"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biomass Burial
-**Secondary pathways:** Mineralization
-**Method:** BiCRS (Other)
-**Country:** France
-**Website:** [https://neolithe.com/](https://neolithe.com/)
-**Status:** 🟢 Active (score: 85/100)
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biomass Burial</td></tr>
+  <tr><th>Secondary pathways</th><td>Mineralization</td></tr>
+  <tr><th>Method</th><td>BiCRS (Other)</td></tr>
+  <tr><th>Country</th><td>France</td></tr>
+  <tr><th>Website</th><td><a href="https://neolithe.com/" target="_blank" rel="noopener">https://neolithe.com/</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -38,7 +40,7 @@ Néolithe is a French industrial startup founded in 2019 and based near Angers (
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://neolithe.fr/))
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://neolithe.com/))
 - **2026-04-18** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://neolithe.com/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

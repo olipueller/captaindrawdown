@@ -8,15 +8,17 @@ pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Enabling Tech
-**Method:** Unknown
-**Country:** Germany
-**Website:** [https://www.senken.io/](https://www.senken.io/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~24 (-8% YoY)
-**LinkedIn Followers:** 8,424
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Germany</td></tr>
+  <tr><th>Website</th><td><a href="https://www.senken.io/" target="_blank" rel="noopener">https://www.senken.io/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/senken/" target="_blank" rel="noopener">senken — 8,424 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~24 (-8% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -30,8 +32,6 @@ Senken is a Berlin-based carbon credit procurement platform and marketplace that
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.senken.io/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.senken.io/ ([source](https://www.cdr.fyi/marketplace/senken))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/senken))
-
-[View on LinkedIn](https://www.linkedin.com/company/senken/)
 
 ---
 

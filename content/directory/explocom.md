@@ -8,15 +8,16 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** Romania
-**Website:** [https://gekka.bio/](https://gekka.bio/)
-**Status:** 🟢 Active (score: 78/100)
-**Employees:** ~3 (0% YoY)
-**LinkedIn Followers:** 28
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin, registry_puro
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>Romania</td></tr>
+  <tr><th>Website</th><td><a href="https://gekka.bio/" target="_blank" rel="noopener">https://gekka.bio/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biogekka/" target="_blank" rel="noopener">biogekka — 28 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 78/100)</td></tr>
+  <tr><th>Employees</th><td>~3 (0% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -43,9 +44,7 @@ Explocom GK SRL, operating under the GEKKA brand, is a Romanian biochar and wood
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.trustpilot.com/review/gekka.bio))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://carbuni.ro/despre-noi/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/explocom-1-lupeni))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/biogekka/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

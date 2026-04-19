@@ -8,16 +8,18 @@ pathway: "Biomass Burial"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biomass Burial
-**Secondary pathways:** Afforestation
-**Method:** BiCRS (Other)
-**Country:** Australia
-**Website:** [https://www.inter.earth/](https://www.inter.earth/)
-**Status:** 🟢 Active (score: 70/100)
-**Employees:** ~4 (+33% YoY)
-**LinkedIn Followers:** 389
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin, registry_puro
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biomass Burial</td></tr>
+  <tr><th>Secondary pathways</th><td>Afforestation</td></tr>
+  <tr><th>Method</th><td>BiCRS (Other)</td></tr>
+  <tr><th>Country</th><td>Australia</td></tr>
+  <tr><th>Website</th><td><a href="https://www.inter.earth/" target="_blank" rel="noopener">https://www.inter.earth/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/interearth/" target="_blank" rel="noopener">interearth — 389 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Employees</th><td>~4 (+33% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -35,9 +37,7 @@ InterEarth is a Western Australian CDR startup pursuing woody biomass burial via
 - **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.cdr.fyi/blog/cdr-monthly-recap-july-24))
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟡 Moderate ([source](https://www.inter.earth/whatwedo))
 - **2026-04-18** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟡 Moderate ([source](https://www.inter.earth/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/interearth/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

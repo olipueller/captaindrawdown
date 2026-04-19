@@ -8,16 +8,18 @@ pathway: "Afforestation"
 liveliness: "🟠 Suspect"
 ---
 
-**Pathway:** Afforestation
-**Secondary pathways:** Biochar
-**Method:** Biochar
-**Country:** Germany
-**Website:** [https://climatepartnerimpact.com/](https://climatepartnerimpact.com/)
-**Status:** 🟠 Suspect (score: 40/100)
-**Employees:** ~6 (-76% YoY)
-**LinkedIn Followers:** 3,415
-**CDR Focus:** division
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Afforestation</td></tr>
+  <tr><th>Secondary pathways</th><td>Biochar</td></tr>
+  <tr><th>Method</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>Germany</td></tr>
+  <tr><th>Website</th><td><a href="https://climatepartnerimpact.com/" target="_blank" rel="noopener">https://climatepartnerimpact.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/climatepartner-impact/" target="_blank" rel="noopener">climatepartner-impact — 3,415 followers</a></td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Employees</th><td>~6 (-76% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>division</td></tr>
+</table>
 
 ## About
 
@@ -32,9 +34,7 @@ ClimatePartner Impact GmbH is a Munich-based subsidiary of ClimatePartner GmbH, 
 - **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://climatepartnerimpact.com/))
 - **2026-04-19** — reclassified: pathway=Afforestation focus=division liveliness=🟢 Active ([source](https://climatepartnerimpact.com/))
 - **2026-04-19** — reclassified: pathway=Afforestation focus=division liveliness=🟢 Active ([source](https://climatepartnerimpact.com/about-us/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/climatepartner-impact/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

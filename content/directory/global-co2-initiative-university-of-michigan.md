@@ -8,15 +8,17 @@ pathway: "Enabling Tech"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Enabling Tech
-**Method:** Afforestation
-**Country:** United States
-**Website:** [https://www.globalco2initiative.org/](https://www.globalco2initiative.org/)
-**Status:** 🟢 Active (score: 85/100)
-**Employees:** ~13 (+18% YoY)
-**LinkedIn Followers:** 6,757
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrjobs, hiring
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Afforestation</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://www.globalco2initiative.org/" target="_blank" rel="noopener">https://www.globalco2initiative.org/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/global-co2-initiative/" target="_blank" rel="noopener">global-co2-initiative — 6,757 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Employees</th><td>~13 (+18% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -30,8 +32,6 @@ The Global CO2 Initiative is a University of Michigan research program (housed i
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.globalco2initiative.org/))
 - **2026-04-19** — discovered via: cdrjobs ([source](https://www.cdrjobs.earth/job-board))
-
-[View on LinkedIn](https://www.linkedin.com/company/global-co2-initiative/)
 
 ---
 

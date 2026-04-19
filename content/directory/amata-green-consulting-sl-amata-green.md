@@ -8,15 +8,17 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Method:** Unknown
-**Country:** Spain
-**Website:** [https://www.amatagreen.com/](https://www.amatagreen.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~3 (0% YoY)
-**LinkedIn Followers:** 804
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Spain</td></tr>
+  <tr><th>Website</th><td><a href="https://www.amatagreen.com/" target="_blank" rel="noopener">https://www.amatagreen.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/amata-green-llc/" target="_blank" rel="noopener">amata-green-llc — 804 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~3 (0% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -31,8 +33,6 @@ Amata Green, SL is a Spain-based biochar company planning a production facility 
 - **2026-04-19** — liveliness: 🟠 Suspect → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://www.amatagreen.com/blog/amata-green-secures-spot-in-air-miners-launchpad))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/amata-green-consulting))
-
-[View on LinkedIn](https://www.linkedin.com/company/amata-green-llc/)
 
 ---
 

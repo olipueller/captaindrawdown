@@ -8,15 +8,17 @@ pathway: "Biochar"
 liveliness: "🟠 Suspect"
 ---
 
-**Pathway:** Biochar
-**Secondary pathways:** BECCS
-**Method:** Biochar
-**Country:** Belgium
-**Website:** [https://www.torrcoal.com/](https://www.torrcoal.com/)
-**Status:** 🟠 Suspect (score: 40/100)
-**Employees:** ~5 (-29% YoY)
-**CDR Focus:** division
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>BECCS</td></tr>
+  <tr><th>Country</th><td>Belgium</td></tr>
+  <tr><th>Website</th><td><a href="https://www.torrcoal.com/" target="_blank" rel="noopener">https://www.torrcoal.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/torr-coal-international-bv/" target="_blank" rel="noopener">torr-coal-international-bv</a></td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Employees</th><td>~5 (-29% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>division</td></tr>
+</table>
 
 ## About
 
@@ -28,9 +30,7 @@ TorrCoal is a Belgian torrefaction-technology specialist founded in 2005 in Dils
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟠 Suspect ([source](https://perpetualnext.com/en/news/press-release-perpetual-next-integrates-torrcoal-to-form-the-largest-global-player-in-sustainable-technology-to-replace-fossil-coal/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=division liveliness=🟡 Moderate ([source](https://perpetualnext.com/en/news/press-release-perpetual-next-integrates-torrcoal-to-form-the-largest-global-player-in-sustainable-technology-to-replace-fossil-coal/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/torr-coal-international-bv/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

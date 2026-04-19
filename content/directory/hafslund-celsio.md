@@ -8,15 +8,16 @@ pathway: "BECCS"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** BECCS
-**Method:** BECCS
-**Country:** Norway
-**Website:** [https://www.hafslund.no/en/produkter-og-tjenester/oslo-ccs](https://www.hafslund.no/en/produkter-og-tjenester/oslo-ccs)
-**Status:** 🟢 Active (score: 95/100)
-**Employees:** ~952 (+23% YoY)
-**LinkedIn Followers:** 13,382
-**CDR Focus:** division
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>BECCS</td></tr>
+  <tr><th>Country</th><td>Norway</td></tr>
+  <tr><th>Website</th><td><a href="https://www.hafslund.no/en/produkter-og-tjenester/oslo-ccs" target="_blank" rel="noopener">https://www.hafslund.no/en/produkter-og-tjenester/oslo-ccs</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/hafslundeco/" target="_blank" rel="noopener">hafslundeco — 13,382 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
+  <tr><th>Employees</th><td>~952 (+23% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>division</td></tr>
+</table>
 
 ## About
 
@@ -30,9 +31,7 @@ Hafslund Celsio is Norway's largest district heating supplier and operator of th
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://www.slb.com/news-and-insights/newsroom/press-release/2025/slb-capturi-and-aker-solutions-win-contract-to-deliver-carbon-capture-solution-for-hafslund-celsio))
 - **2026-04-18** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://www.slb.com/news-and-insights/newsroom/press-release/2025/slb-capturi-and-aker-solutions-win-contract-to-deliver-carbon-capture-solution-for-hafslund-celsio))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/hafslundeco/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

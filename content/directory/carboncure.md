@@ -8,16 +8,18 @@ pathway: "Mineralization"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Mineralization
-**Method:** Carbon Utilization
-**Country:** Canada
-**Website:** [https://www.carboncure.com/](https://www.carboncure.com/)
-**Status:** 🟢 Active (score: 92/100)
-**Employees:** ~81 (-14% YoY)
-**LinkedIn Followers:** 36,159
-**Open roles on cdrjobs:** 4
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Mineralization</td></tr>
+  <tr><th>Method</th><td>Carbon Utilization</td></tr>
+  <tr><th>Country</th><td>Canada</td></tr>
+  <tr><th>Website</th><td><a href="https://www.carboncure.com/" target="_blank" rel="noopener">https://www.carboncure.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carboncure-technologies/" target="_blank" rel="noopener">carboncure-technologies — 36,159 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Employees</th><td>~81 (-14% YoY)</td></tr>
+  <tr><th>Open roles</th><td>4 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -34,9 +36,7 @@ CarbonCure Technologies is a Halifax, Canada-based cleantech company that licens
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://carbonherald.com/carboncure-hits-10-million-low-carbon-concrete-truckloads/))
 - **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.carboncure.com/news/carboncure-producers-reach-milestone-of-10-million-truckloads/))
-- **2026-04-18** — backfilled from V1
-
-[View on LinkedIn](https://www.linkedin.com/company/carboncure-technologies/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

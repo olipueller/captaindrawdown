@@ -8,16 +8,18 @@ pathway: "Biomass Burial"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biomass Burial
-**Secondary pathways:** Enabling Tech
-**Method:** Biomass Carbon Removal
-**Country:** United States
-**Website:** [https://www.kodama.ai](https://www.kodama.ai)
-**Status:** 🟢 Active (score: 85/100)
-**Employees:** ~18 (+6% YoY)
-**LinkedIn Followers:** 2,175
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, registry_puro, registry_cdrjobsearth
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biomass Burial</td></tr>
+  <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Biomass Carbon Removal</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://www.kodama.ai" target="_blank" rel="noopener">https://www.kodama.ai</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/kodama-systems/" target="_blank" rel="noopener">kodama-systems — 2,175 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Employees</th><td>~18 (+6% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -40,9 +42,7 @@ Kodama Systems is a Sonora, California-based forest management and robotics star
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://kodama.ai/))
 - **2026-04-18** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.kodama.ai/news))
-- **2026-04-18** — backfilled from V1
-
-[View on LinkedIn](https://www.linkedin.com/company/kodama-systems/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

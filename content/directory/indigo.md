@@ -8,16 +8,18 @@ pathway: "Afforestation"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Afforestation
-**Method:** Soil Carbon Sequestration
-**Country:** United States
-**Website:** [https://www.indigoag.com/](https://www.indigoag.com/)
-**Status:** 🟢 Active (score: 95/100)
-**Employees:** ~1404 (-0% YoY)
-**LinkedIn Followers:** 92,608
-**Open roles on cdrjobs:** 1
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Afforestation</td></tr>
+  <tr><th>Method</th><td>Soil Carbon Sequestration</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://www.indigoag.com/" target="_blank" rel="noopener">https://www.indigoag.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/indigoag/" target="_blank" rel="noopener">indigoag — 92,608 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
+  <tr><th>Employees</th><td>~1404 (-0% YoY)</td></tr>
+  <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -34,9 +36,7 @@ Indigo Ag is a US-based sustainable agriculture company whose Carbon by Indigo p
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.indigoag.com/pages/news/indigo-surpasses-2-million-metric-tons-of-verified-soil-carbon-impact-with-fifth-credit-issuance))
 - **2026-04-18** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.indigoag.com/pages/news/indigo-surpasses-2-million-metric-tons-of-verified-soil-carbon-impact-with-fifth-credit-issuance))
-- **2026-04-18** — backfilled from V1
-
-[View on LinkedIn](https://www.linkedin.com/company/indigoag/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

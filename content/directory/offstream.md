@@ -8,16 +8,18 @@ pathway: "Enabling Tech"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Enabling Tech
-**Secondary pathways:** Biochar
-**Method:** Afforestation
-**Country:** United States
-**Website:** [https://www.useoffstream.com/](https://www.useoffstream.com/)
-**Status:** 🟢 Active (score: 82/100)
-**Employees:** ~12 (+100% YoY)
-**LinkedIn Followers:** 2,291
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrjobs, hiring, cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Secondary pathways</th><td>Biochar</td></tr>
+  <tr><th>Method</th><td>Afforestation</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://www.useoffstream.com/" target="_blank" rel="noopener">https://www.useoffstream.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/useoffstream/" target="_blank" rel="noopener">useoffstream — 2,291 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 82/100)</td></tr>
+  <tr><th>Employees</th><td>~12 (+100% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -31,8 +33,6 @@ Offstream is a U.S.-based software and services platform that helps carbon remov
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.useoffstream.com/))
 - **2026-04-19** — discovered via: cdrjobs, cdrfyi ([source](https://www.cdrjobs.earth/job-board))
-
-[View on LinkedIn](https://www.linkedin.com/company/useoffstream/)
 
 ---
 

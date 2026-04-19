@@ -8,15 +8,17 @@ pathway: "BECCS"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** BECCS
-**Method:** Unknown
-**Country:** Japan
-**Website:** [https://rhinoflux.com](https://rhinoflux.com)
-**Status:** 🟢 Active (score: 85/100)
-**Employees:** ~4 (+100% YoY)
-**LinkedIn Followers:** 172
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>BECCS</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Japan</td></tr>
+  <tr><th>Website</th><td><a href="https://rhinoflux.com" target="_blank" rel="noopener">https://rhinoflux.com</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/rhinoflux/" target="_blank" rel="noopener">rhinoflux — 172 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Employees</th><td>~4 (+100% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -29,8 +31,6 @@ Rhinoflux is a Kyoto-based startup founded in 2024 and spun out of Kyoto Univers
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.shimadzu.com/news/2024/rerin779fc7gg23o.html))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://rhinoflux.com ([source](https://www.cdr.fyi/supplier/rhinoflux))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/rhinoflux))
-
-[View on LinkedIn](https://www.linkedin.com/company/rhinoflux/)
 
 ---
 

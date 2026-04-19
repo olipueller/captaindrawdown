@@ -8,15 +8,16 @@ pathway: "BECCS"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** BECCS
-**Method:** BECCS
-**Country:** United States
-**Website:** [https://sungasrenewables.com/](https://sungasrenewables.com/)
-**Status:** 🟢 Active (score: 92/100)
-**Employees:** ~25 (+14% YoY)
-**LinkedIn Followers:** 3,608
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>BECCS</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://sungasrenewables.com/" target="_blank" rel="noopener">https://sungasrenewables.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sungas-renewables%20/" target="_blank" rel="noopener">sungas-renewables%20 — 3,608 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Employees</th><td>~25 (+14% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -30,9 +31,7 @@ C2X Ltd (majority-owned by A.P. Moller Holding with ENEOS as minority shareholde
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://sungasrenewables.com/c2x-to-deliver-3-6-million-metric-tons-of-carbon-removal-to-microsoft-over-12-years/))
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://c2x.com/news/c2x-to-deliver-36-million-metric-tons-of-carbon-removal-to-microsoft-over-12-years/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/sungas-renewables%20/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

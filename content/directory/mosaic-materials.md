@@ -8,16 +8,18 @@ pathway: "DAC"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** DAC
-**Secondary pathways:** Enabling Tech
-**Method:** Unknown
-**Country:** United States
-**Website:** [https://mosaicmaterials.com/](https://mosaicmaterials.com/)
-**Status:** 🟡 Moderate (score: 65/100)
-**Employees:** ~4 (-67% YoY)
-**LinkedIn Followers:** 2,629
-**CDR Focus:** division
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>DAC</td></tr>
+  <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://mosaicmaterials.com/" target="_blank" rel="noopener">https://mosaicmaterials.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/mosaicmaterials/" target="_blank" rel="noopener">mosaicmaterials — 2,629 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 65/100)</td></tr>
+  <tr><th>Employees</th><td>~4 (-67% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>division</td></tr>
+</table>
 
 ## About
 
@@ -32,8 +34,6 @@ Mosaic Materials is a direct air capture (DAC) technology developer based in Ala
 - **2026-04-19** — reclassified: pathway=DAC focus=division liveliness=🟡 Moderate ([source](https://mosaicmaterials.com/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://mosaicmaterials.com/ ([source](https://www.cdr.fyi/supplier/mosaic))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/mosaic))
-
-[View on LinkedIn](https://www.linkedin.com/company/mosaicmaterials/)
 
 ---
 

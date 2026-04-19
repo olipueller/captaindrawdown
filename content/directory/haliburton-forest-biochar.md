@@ -8,13 +8,14 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** Canada
-**Website:** [https://www.haliburtonforestbiochar.com/](https://www.haliburtonforestbiochar.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**CDR Focus:** division
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>Canada</td></tr>
+  <tr><th>Website</th><td><a href="https://www.haliburtonforestbiochar.com/" target="_blank" rel="noopener">https://www.haliburtonforestbiochar.com/</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>CDR Focus</th><td>division</td></tr>
+</table>
 
 ## About
 
@@ -29,7 +30,7 @@ Haliburton Forest Biochar is a subsidiary of Haliburton Forest and Wildlife Rese
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.ontario.ca/page/2025-interim-report-forest-biomass-action-plan))
 - **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://www.haliburtonforestbiochar.com/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://www.haliburtonforestbiochar.com/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

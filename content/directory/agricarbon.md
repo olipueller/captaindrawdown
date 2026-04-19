@@ -8,16 +8,18 @@ pathway: "Enabling Tech"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Enabling Tech
-**Secondary pathways:** Afforestation
-**Method:** Unknown
-**Country:** United Kingdom
-**Website:** [https://www.agricarbon.co.uk/](https://www.agricarbon.co.uk/)
-**Status:** 🟢 Active (score: 90/100)
-**Employees:** ~74 (+17% YoY)
-**LinkedIn Followers:** 14,440
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Secondary pathways</th><td>Afforestation</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>United Kingdom</td></tr>
+  <tr><th>Website</th><td><a href="https://www.agricarbon.co.uk/" target="_blank" rel="noopener">https://www.agricarbon.co.uk/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/agricarbon-earth/" target="_blank" rel="noopener">agricarbon-earth — 14,440 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Employees</th><td>~74 (+17% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -30,8 +32,6 @@ Agricarbon is a Dundee, Scotland-based soil carbon measurement company that oper
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.agricarbon.co.uk/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.microchar.eu ([source](https://www.cdr.fyi/supplier/agricarbon))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/agricarbon))
-
-[View on LinkedIn](https://www.linkedin.com/company/agricarbon-earth/)
 
 ---
 

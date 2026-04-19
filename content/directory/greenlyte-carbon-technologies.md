@@ -8,16 +8,18 @@ pathway: "DAC"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** DAC
-**Method:** DAC (Liquid Solvent)
-**Country:** Germany
-**Website:** [https://www.greenlyte.tech/](https://www.greenlyte.tech/)
-**Status:** 🟢 Active (score: 92/100)
-**Employees:** ~70 (+40% YoY)
-**LinkedIn Followers:** 10,603
-**Open roles on cdrjobs:** 2
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin, cdrjobs, registry_cdrjobsearth
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>DAC</td></tr>
+  <tr><th>Method</th><td>DAC (Liquid Solvent)</td></tr>
+  <tr><th>Country</th><td>Germany</td></tr>
+  <tr><th>Website</th><td><a href="https://www.greenlyte.tech/" target="_blank" rel="noopener">https://www.greenlyte.tech/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/greenlyte-carbon-technologies/" target="_blank" rel="noopener">greenlyte-carbon-technologies — 10,603 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Employees</th><td>~70 (+40% YoY)</td></tr>
+  <tr><th>Open roles</th><td>2 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -34,9 +36,7 @@ Greenlyte Carbon Technologies (GCT) is a German Direct Air Capture startup found
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.greenlyte.tech/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.hydrocarbonprocessing.com/news/2025/11/greenlyte-launches-world-s-first-liquidsolar-efuel-plant/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/greenlyte-carbon-technologies/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

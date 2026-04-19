@@ -8,16 +8,17 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Secondary pathways:** BECCS
-**Method:** Biochar
-**Country:** Austria
-**Website:** [https://www.biomassehof.at/energiewerk-ilg/](https://www.biomassehof.at/energiewerk-ilg/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~1
-**LinkedIn Followers:** 182
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin, registry_cdrjobsearth
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>BECCS</td></tr>
+  <tr><th>Country</th><td>Austria</td></tr>
+  <tr><th>Website</th><td><a href="https://www.biomassehof.at/energiewerk-ilg/" target="_blank" rel="noopener">https://www.biomassehof.at/energiewerk-ilg/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/energiewerk-ilg/" target="_blank" rel="noopener">energiewerk-ilg — 182 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~1</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -35,9 +36,7 @@ EnergieWerk Ilg GmbH is a family-owned regional energy company in Dornbirn, Vora
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](registry_activity))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.bright-renewables.com/austrias-carbon-capture-breakthrough-co2-capture-liquefacation-facility-at-energiewerk-ilg-operational/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.bright-renewables.com/austrias-carbon-capture-breakthrough-co2-capture-liquefacation-facility-at-energiewerk-ilg-operational/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/energiewerk-ilg/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

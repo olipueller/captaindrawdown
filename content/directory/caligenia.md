@@ -8,13 +8,14 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** Argentina
-**Website:** [https://www.caligenia.com/](https://www.caligenia.com/)
-**Status:** 🟢 Active (score: 80/100)
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>Argentina</td></tr>
+  <tr><th>Website</th><td><a href="https://www.caligenia.com/" target="_blank" rel="noopener">https://www.caligenia.com/</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -30,7 +31,7 @@ Caligenia is an Argentine biotechnology startup producing "Bacterchar," a carbon
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://tracxn.com/d/companies/caligenia/__nyWPrjpJ2QMzgA8TeflWFrLVGOjzmztO-CTDdlb7lak))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.fan.org.ar/noticias/caligenia-una-nueva-empresa-agro-se-incuba-en-la-fan/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.fan.org.ar/noticias/caligenia-una-nueva-empresa-agro-se-incuba-en-la-fan/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

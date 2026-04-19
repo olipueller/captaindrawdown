@@ -8,15 +8,17 @@ pathway: "Enabling Tech"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Enabling Tech
-**Method:** Unknown
-**Country:** United Kingdom
-**Website:** [https://co2re.org/](https://co2re.org/)
-**Status:** 🟢 Active (score: 80/100)
-**Employees:** ~11 (+38% YoY)
-**LinkedIn Followers:** 3,992
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>United Kingdom</td></tr>
+  <tr><th>Website</th><td><a href="https://co2re.org/" target="_blank" rel="noopener">https://co2re.org/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/co2re/" target="_blank" rel="noopener">co2re — 3,992 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Employees</th><td>~11 (+38% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -29,8 +31,6 @@ CO₂RE is the UK's national research hub on Greenhouse Gas Removal, led by the 
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://co2re.org/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://co2re.org/ ([source](https://www.cdr.fyi/marketplace/co2re))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/co2re))
-
-[View on LinkedIn](https://www.linkedin.com/company/co2re/)
 
 ---
 

@@ -8,14 +8,16 @@ pathway: "DAC"
 liveliness: "🟠 Suspect"
 ---
 
-**Pathway:** DAC
-**Secondary pathways:** Mineralization
-**Method:** DAC (Solid Sorbent)
-**Country:** Finland
-**Website:** [https://www.soletairpower.fi/](https://www.soletairpower.fi/)
-**Status:** 🟠 Suspect (score: 40/100)
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>DAC</td></tr>
+  <tr><th>Secondary pathways</th><td>Mineralization</td></tr>
+  <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
+  <tr><th>Country</th><td>Finland</td></tr>
+  <tr><th>Website</th><td><a href="https://www.soletairpower.fi/" target="_blank" rel="noopener">https://www.soletairpower.fi/</a></td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -30,7 +32,7 @@ Soletair Power is a Finnish DAC technology supplier (founded 2016, HQ Lappeenran
 - **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.soletairpower.fi/technical-specs-soletair-power-dac-unit-for-zbt/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.soletairpower.fi/))
 - **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.soletairpower.fi/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

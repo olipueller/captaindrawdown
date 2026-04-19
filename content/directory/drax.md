@@ -8,15 +8,16 @@ pathway: "BECCS"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** BECCS
-**Method:** BECCS
-**Country:** United Kingdom
-**Website:** [https://www.drax.com](https://www.drax.com)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~2081 (-5% YoY)
-**LinkedIn Followers:** 57,910
-**CDR Focus:** supplier
-**Evidence signals:** news_mention
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>BECCS</td></tr>
+  <tr><th>Country</th><td>United Kingdom</td></tr>
+  <tr><th>Website</th><td><a href="https://www.drax.com" target="_blank" rel="noopener">https://www.drax.com</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/drax-power/" target="_blank" rel="noopener">drax-power — 57,910 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~2081 (-5% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -30,8 +31,6 @@ Drax Group plc is a UK-listed energy company that launched Elimini, a wholly own
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.drax.com/financial-news/full-year-results-for-the-twelve-months-ended-31-december-2025/))
 - **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.drax.com/bioenergy-with-carbon-capture-and-storage-beccs/))
 - **2026-04-18** — discovered via: news_feed ([source](https://www.bode-living.com/2026/04/14/the-flawed-promise-of-bioenergy-with-carbon-capture-and-storage-beccs/))
-
-[View on LinkedIn](https://www.linkedin.com/company/drax-power/)
 
 ---
 

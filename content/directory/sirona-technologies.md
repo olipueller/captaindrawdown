@@ -8,16 +8,18 @@ pathway: "DAC"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** DAC
-**Secondary pathways:** Mineralization
-**Method:** DAC (Solid Sorbent)
-**Country:** Belgium
-**Website:** [https://www.sirona.tech/](https://www.sirona.tech/)
-**Status:** 🟢 Active (score: 90/100)
-**Employees:** ~34 (+48% YoY)
-**LinkedIn Followers:** 6,947
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, registry_cdrjobsearth
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>DAC</td></tr>
+  <tr><th>Secondary pathways</th><td>Mineralization</td></tr>
+  <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
+  <tr><th>Country</th><td>Belgium</td></tr>
+  <tr><th>Website</th><td><a href="https://www.sirona.tech/" target="_blank" rel="noopener">https://www.sirona.tech/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sirona-technologies/" target="_blank" rel="noopener">sirona-technologies — 6,947 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Employees</th><td>~34 (+48% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -34,9 +36,7 @@ Sirona Technologies develops and operates modular Direct Air Capture systems tha
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.sirona.tech/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.sirona.tech/updates/sirona-technologies-completes-multi-year-carbon-removal-offtake-facilitated-by-patch))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/sirona-technologies/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

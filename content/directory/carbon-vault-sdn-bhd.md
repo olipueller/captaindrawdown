@@ -8,16 +8,18 @@ pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Enabling Tech
-**Secondary pathways:** Afforestation
-**Method:** Unknown
-**Country:** Malaysia
-**Website:** [https://co2bank.asia/](https://co2bank.asia/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~7 (-59% YoY)
-**LinkedIn Followers:** 1,428
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Secondary pathways</th><td>Afforestation</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Malaysia</td></tr>
+  <tr><th>Website</th><td><a href="https://co2bank.asia/" target="_blank" rel="noopener">https://co2bank.asia/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonbank/" target="_blank" rel="noopener">carbonbank — 1,428 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~7 (-59% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -32,8 +34,6 @@ Carbon Vault Sdn Bhd (operating as Carbon Bank) is a Malaysia-based carbon credi
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟡 Moderate ([source](https://co2bank.asia/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://co2bank.asia/ ([source](https://www.cdr.fyi/supplier/carbon-vault))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/carbon-vault))
-
-[View on LinkedIn](https://www.linkedin.com/company/carbonbank/)
 
 ---
 

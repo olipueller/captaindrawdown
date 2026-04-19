@@ -8,16 +8,17 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Secondary pathways:** BECCS
-**Method:** Biochar
-**Country:** Canada
-**Website:** [https://www.chartechnologies.com](https://www.chartechnologies.com)
-**Status:** 🟢 Active (score: 95/100)
-**Employees:** ~32 (+7% YoY)
-**LinkedIn Followers:** 4,584
-**CDR Focus:** supplier
-**Evidence signals:** news_mention
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>BECCS</td></tr>
+  <tr><th>Country</th><td>Canada</td></tr>
+  <tr><th>Website</th><td><a href="https://www.chartechnologies.com" target="_blank" rel="noopener">https://www.chartechnologies.com</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/char-technologies/" target="_blank" rel="noopener">char-technologies — 4,584 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
+  <tr><th>Employees</th><td>~32 (+7% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -30,8 +31,6 @@ CHAR Technologies Ltd. (TSXV:YES) is a Toronto-based cleantech company that oper
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.chartechnologies.com/post/char-tech-announces-planned-acquisition-of-biocarbon-assets-in-qu%C3%A9bec-including-62-500-tonne-offtak))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.chartechnologies.com/))
 - **2026-04-18** — discovered via: news_feed ([source](https://www.webdisclosure.com/press-release/char-technologies-ltd-cve-yes-char-tech-annonce-lacquisition-projetee-dactifs-de-biocarbone-au-quebec-incluant-un-accord-dachat-de-62-500-tonnes-une-installation-et-de-la-propriete-intellectuelle-yk6w8YfVBu0))
-
-[View on LinkedIn](https://www.linkedin.com/company/char-technologies/)
 
 ---
 

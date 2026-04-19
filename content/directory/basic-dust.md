@@ -8,14 +8,16 @@ pathway: "Enhanced Weathering"
 liveliness: "🟠 Suspect"
 ---
 
-**Pathway:** Enhanced Weathering
-**Secondary pathways:** Ocean CDR
-**Method:** Enhanced Rock Weathering
-**Country:** United States
-**Website:** [https://basicdust.com/](https://basicdust.com/)
-**Status:** 🟠 Suspect (score: 35/100)
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enhanced Weathering</td></tr>
+  <tr><th>Secondary pathways</th><td>Ocean CDR</td></tr>
+  <tr><th>Method</th><td>Enhanced Rock Weathering</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://basicdust.com/" target="_blank" rel="noopener">https://basicdust.com/</a></td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 35/100)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -38,7 +40,7 @@ Basic Dust is a US-based enhanced weathering project developer that applies fine
 - **2026-04-19** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://basicdust.com/))
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟠 Suspect ([source](https://basicdust.com/))
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟠 Suspect ([source](https://basicdust.com/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

@@ -8,16 +8,17 @@ pathway: "BECCS"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** BECCS
-**Method:** BECCS
-**Country:** Germany
-**Website:** [https://reverion.com/en/](https://reverion.com/en/)
-**Status:** 🟢 Active (score: 95/100)
-**Employees:** ~149 (+39% YoY)
-**LinkedIn Followers:** 10,154
-**Open roles on cdrjobs:** 21
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>BECCS</td></tr>
+  <tr><th>Country</th><td>Germany</td></tr>
+  <tr><th>Website</th><td><a href="https://reverion.com/en/" target="_blank" rel="noopener">https://reverion.com/en/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/reverion/" target="_blank" rel="noopener">reverion — 10,154 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
+  <tr><th>Employees</th><td>~149 (+39% YoY)</td></tr>
+  <tr><th>Open roles</th><td>21 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -34,9 +35,7 @@ Reverion is a German BECCS company spun out of the Technical University of Munic
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://reverion.com/en/reverion-and-frontier-advance-new-biogas-carbon-removal-pathway/))
 - **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://carbonherald.com/frontier-buyers-sign-41m-offtake-agreement-with-reverion/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/reverion/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

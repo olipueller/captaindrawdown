@@ -8,14 +8,15 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** Switzerland
-**Website:** [https://energyocean.ch/](https://energyocean.ch/)
-**Status:** 🟢 Active (score: 72/100)
-**LinkedIn Followers:** 192
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>Switzerland</td></tr>
+  <tr><th>Website</th><td><a href="https://energyocean.ch/" target="_blank" rel="noopener">https://energyocean.ch/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/eoc-energy-ocean-gmbh/" target="_blank" rel="noopener">eoc-energy-ocean-gmbh — 192 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 72/100)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -32,7 +33,7 @@ eoc energy ocean GmbH is a Lucerne-based Swiss company that produces and sells E
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://energyocean.ch/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://energyocean.ch/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.schweizerpflanzenkohle.ch/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 - **** — merged duplicate: Energy Ocean (slug=energy-ocean)
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://energyocean.ch/))
 - **2026-04-19** — refresh: coresignal, liveliness
@@ -40,9 +41,7 @@ eoc energy ocean GmbH is a Lucerne-based Swiss company that produces and sells E
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://energyocean.ch/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.schweizerpflanzenkohle.ch/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://energyocean.ch/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/eoc-energy-ocean-gmbh/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

@@ -8,16 +8,18 @@ pathway: "DAC"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** DAC
-**Secondary pathways:** Enabling Tech
-**Method:** DAC (Solid Sorbent)
-**Country:** United States
-**Website:** [https://lowcarbon.exxonmobil.com/](https://lowcarbon.exxonmobil.com/)
-**Status:** 🟢 Active (score: 92/100)
-**Employees:** ~68441 (+10% YoY)
-**LinkedIn Followers:** 3,743,535
-**CDR Focus:** division
-**Evidence signals:** website, last_evidence_url, linkedin, registry_cdrjobsearth
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>DAC</td></tr>
+  <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://lowcarbon.exxonmobil.com/" target="_blank" rel="noopener">https://lowcarbon.exxonmobil.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/exxonmobil/" target="_blank" rel="noopener">exxonmobil — 3,743,535 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Employees</th><td>~68441 (+10% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>division</td></tr>
+</table>
 
 ## About
 
@@ -34,9 +36,7 @@ ExxonMobil is a major integrated oil and gas company whose Low Carbon Solutions 
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://corporate.exxonmobil.com/what-we-do/delivering-industrial-solutions/direct-air-capture-technology/insights-from-our-direct-air-capture-pilot))
 - **2026-04-18** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://corporate.exxonmobil.com/what-we-do/delivering-industrial-solutions/direct-air-capture-technology))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/exxonmobil/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

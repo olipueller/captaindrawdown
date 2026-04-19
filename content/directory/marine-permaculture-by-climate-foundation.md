@@ -8,16 +8,18 @@ pathway: "Ocean CDR"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Ocean CDR
-**Secondary pathways:** Afforestation
-**Method:** Unknown
-**Country:** United States
-**Website:** [https://www.climatefoundation.org/](https://www.climatefoundation.org/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~19
-**LinkedIn Followers:** 2,747
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Ocean CDR</td></tr>
+  <tr><th>Secondary pathways</th><td>Afforestation</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://www.climatefoundation.org/" target="_blank" rel="noopener">https://www.climatefoundation.org/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/the-climate-foundation/" target="_blank" rel="noopener">the-climate-foundation — 2,747 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~19</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -31,8 +33,6 @@ The Climate Foundation is a US-based 501(c)(3) nonprofit developing Marine Perma
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.climatefoundation.org/marine-permaculture.html))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.climatefoundation.org/marine-permaculture.html ([source](https://www.cdr.fyi/supplier/marine-permaculture-by-climate-foundation))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/marine-permaculture-by-climate-foundation))
-
-[View on LinkedIn](https://www.linkedin.com/company/the-climate-foundation/)
 
 ---
 

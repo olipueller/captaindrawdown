@@ -8,15 +8,17 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Method:** Unknown
-**Country:** United States
-**Website:** [https://www.hpbiochar.com/](https://www.hpbiochar.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~3
-**LinkedIn Followers:** 556
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://www.hpbiochar.com/" target="_blank" rel="noopener">https://www.hpbiochar.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/high-plains-biochar-llc/" target="_blank" rel="noopener">high-plains-biochar-llc — 556 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~3</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -30,8 +32,6 @@ High Plains Biochar is a Wyoming-based biochar producer and manufacturer of smal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.hpbiochar.com/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.hpbiochar.com/ ([source](https://www.cdr.fyi/supplier/high-plains-biochar))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/high-plains-biochar))
-
-[View on LinkedIn](https://www.linkedin.com/company/high-plains-biochar-llc/)
 
 ---
 

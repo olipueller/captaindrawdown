@@ -8,14 +8,16 @@ pathway: "Biochar"
 liveliness: "🟠 Suspect"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** Puerto Rico
-**Website:** [https://bri.earth/](https://bri.earth/)
-**Status:** 🟠 Suspect (score: 45/100)
-**Employees:** ~4
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>Puerto Rico</td></tr>
+  <tr><th>Website</th><td><a href="https://bri.earth/" target="_blank" rel="noopener">https://bri.earth/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bio-restorative-ideas-llc/" target="_blank" rel="noopener">bio-restorative-ideas-llc</a></td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 45/100)</td></tr>
+  <tr><th>Employees</th><td>~4</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -28,9 +30,7 @@ Bio-Restorative Ideas (BRi) is a Puerto Rico-based biochar producer converting b
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://bri.earth/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/bio-restorative-ideas))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://puro.earth/accelerate/cleaning-up-puerto-rico-by-bri-100079))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/bio-restorative-ideas-llc/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

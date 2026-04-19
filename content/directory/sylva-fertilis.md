@@ -8,15 +8,16 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** France
-**Website:** [https://terrafertilis.com/](https://terrafertilis.com/)
-**Status:** 🟢 Active (score: 80/100)
-**Employees:** ~9 (-25% YoY)
-**LinkedIn Followers:** 3,564
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, registry_puro
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>France</td></tr>
+  <tr><th>Website</th><td><a href="https://terrafertilis.com/" target="_blank" rel="noopener">https://terrafertilis.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/terra-fertilis/" target="_blank" rel="noopener">terra-fertilis — 3,564 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Employees</th><td>~9 (-25% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -41,7 +42,7 @@ Sylva Fertilis is a French biochar manufacturer based in Argentan, Normandy, par
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://terrafertilis.com/produit/biochar-fertilisant-sols-special-pro-5-kg/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://terrafertilis.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://terrafertilis.com/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 - **** — merged duplicate: Terra Fertilis | Sylva Fertilis (slug=terra-fertilis-sylva-fertilis)
 - **** — merged duplicate: Terra fertilis (slug=terra-fertilis)
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://terrafertilis.com/qui-sommes-nous/))
@@ -49,9 +50,7 @@ Sylva Fertilis is a French biochar manufacturer based in Argentan, Normandy, par
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://terrafertilis.com/qui-sommes-nous/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://terrafertilis.com/qui-sommes-nous/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://terrafertilis.com/qui-sommes-nous/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/terra-fertilis/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

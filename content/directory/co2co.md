@@ -8,14 +8,15 @@ pathway: "Biochar"
 liveliness: "🟠 Suspect"
 ---
 
-**Pathway:** Biochar
-**Secondary pathways:** Ocean CDR
-**Method:** Biochar
-**Country:** United Kingdom
-**Website:** [https://www.co2co.earth/](https://www.co2co.earth/)
-**Status:** 🟠 Suspect (score: 45/100)
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>Ocean CDR</td></tr>
+  <tr><th>Country</th><td>United Kingdom</td></tr>
+  <tr><th>Website</th><td><a href="https://www.co2co.earth/" target="_blank" rel="noopener">https://www.co2co.earth/</a></td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 45/100)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -29,7 +30,7 @@ CO2CO Ltd is a UK carbon-removal startup spun out of Imperial College London in 
 - **2026-04-19** — refresh: screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://www.co2co.earth/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://www.co2co.earth/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

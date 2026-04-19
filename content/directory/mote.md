@@ -8,16 +8,17 @@ pathway: "BECCS"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** BECCS
-**Method:** BECCS
-**Country:** United States
-**Website:** [https://www.motehydrogen.com/](https://www.motehydrogen.com/)
-**Status:** 🟢 Active (score: 85/100)
-**Employees:** ~17
-**LinkedIn Followers:** 2,490
-**Open roles on cdrjobs:** 3
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>BECCS</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://www.motehydrogen.com/" target="_blank" rel="noopener">https://www.motehydrogen.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/motehydrogen/" target="_blank" rel="noopener">motehydrogen — 2,490 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Employees</th><td>~17</td></tr>
+  <tr><th>Open roles</th><td>3 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -34,9 +35,7 @@ Mote is a Los Angeles-based BECCS startup, spun out of Lawrence Livermore Nation
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.motehydrogen.com/news/mote-kicks-off-second-biomass-to-hydrogen-project-in-northern-california))
 - **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.businesswire.com/news/home/20250304282371/en/Mote-Secures-$7-Million-Funding-in-First-Close-of-Series-A-Round-to-Advance-Companys-Carbon-Negative-Biomass-to-Energy-Technology))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/motehydrogen/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

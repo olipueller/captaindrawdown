@@ -8,16 +8,18 @@ pathway: "Enhanced Weathering"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Enhanced Weathering
-**Method:** Enhanced Rock Weathering
-**Country:** Ireland
-**Website:** [https://www.silicatecarbon.com/](https://www.silicatecarbon.com/)
-**Status:** 🟢 Active (score: 85/100)
-**Employees:** ~6 (-40% YoY)
-**LinkedIn Followers:** 3,148
-**CDI Portfolio Company**
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enhanced Weathering</td></tr>
+  <tr><th>Method</th><td>Enhanced Rock Weathering</td></tr>
+  <tr><th>Country</th><td>Ireland</td></tr>
+  <tr><th>Website</th><td><a href="https://www.silicatecarbon.com/" target="_blank" rel="noopener">https://www.silicatecarbon.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/silicate-carbon/" target="_blank" rel="noopener">silicate-carbon — 3,148 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Employees</th><td>~6 (-40% YoY)</td></tr>
+  <tr><th>CDI Portfolio</th><td>yes</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -32,9 +34,7 @@ Silicate is an Irish enhanced weathering CDR supplier headquartered at NovaUCD i
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://www.silicatecarbon.com/))
 - **2026-04-18** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://www.silicatecarbon.com/))
 - **2026-04-18** — news mention: Carbon Solution - The Portugal News ([source](https://www.theportugalnews.com/news/2026-04-18/carbon-solution/1007131))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/silicate-carbon/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

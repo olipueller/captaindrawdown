@@ -8,15 +8,17 @@ pathway: "Enabling Tech"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Enabling Tech
-**Method:** Unknown
-**Country:** United States
-**Website:** [https://atoacarbon.com/](https://atoacarbon.com/)
-**Status:** 🟢 Active (score: 75/100)
-**Employees:** ~9 (+29% YoY)
-**LinkedIn Followers:** 329
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://atoacarbon.com/" target="_blank" rel="noopener">https://atoacarbon.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/atoa-carbon/" target="_blank" rel="noopener">atoa-carbon — 329 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Employees</th><td>~9 (+29% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -30,8 +32,6 @@ ATOA Carbon is a US-based carbon markets consultancy and project developer that 
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://atoacarbon.com/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/atoa-carbon))
-
-[View on LinkedIn](https://www.linkedin.com/company/atoa-carbon/)
 
 ---
 

@@ -8,17 +8,19 @@ pathway: "Ocean CDR"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Ocean CDR
-**Secondary pathways:** Enhanced Weathering
-**Method:** Ocean Alkalinity Enhancement
-**Country:** France
-**Website:** [https://www.carbon-time.com/](https://www.carbon-time.com/)
-**Status:** 🟢 Active (score: 100/100)
-**Employees:** ~2 (0% YoY)
-**LinkedIn Followers:** 1,850
-**Open roles on cdrjobs:** 1
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin, cdrjobs, registry_cdrjobsearth
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Ocean CDR</td></tr>
+  <tr><th>Secondary pathways</th><td>Enhanced Weathering</td></tr>
+  <tr><th>Method</th><td>Ocean Alkalinity Enhancement</td></tr>
+  <tr><th>Country</th><td>France</td></tr>
+  <tr><th>Website</th><td><a href="https://www.carbon-time.com/" target="_blank" rel="noopener">https://www.carbon-time.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-time/" target="_blank" rel="noopener">carbon-time — 1,850 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
+  <tr><th>Employees</th><td>~2 (0% YoY)</td></tr>
+  <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -36,9 +38,7 @@ Carbon Time is a Paris, France–based startup founded in 2021 and led by CEO Iv
 - **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://tracxn.com/d/companies/carbon-time/__17zs-noFXGmUi1E9rKCypx2b_9Mo8-kdJdKqSYefPb8))
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟡 Moderate ([source](https://www.carbon-time.com/))
 - **2026-04-18** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟡 Moderate ([source](https://www.carbon-time.com/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/carbon-time/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

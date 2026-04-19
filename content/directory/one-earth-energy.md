@@ -8,14 +8,16 @@ pathway: "BECCS"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** BECCS
-**Method:** BECCS
-**Country:** United States
-**Website:** [https://www.oneearthenergy.com/](https://www.oneearthenergy.com/)
-**Status:** 🟢 Active (score: 80/100)
-**Employees:** ~16 (0% YoY)
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>BECCS</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://www.oneearthenergy.com/" target="_blank" rel="noopener">https://www.oneearthenergy.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/one-earth-enegry/" target="_blank" rel="noopener">one-earth-enegry</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Employees</th><td>~16 (0% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -31,9 +33,7 @@ One Earth Energy, LLC is a corn ethanol production plant in Gibson City, Illinoi
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://carbonherald.com/illinois-rejects-carbon-pipeline-permit-for-one-earth-energy/))
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://investors.rexamerican.com/news-releases/news-release-details/rex-american-resources-reports-record-high-full-fiscal-year-2025))
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://ccusmap.com/markers/project-detail/one-earth-ccs-project-2024-2054))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/one-earth-enegry/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

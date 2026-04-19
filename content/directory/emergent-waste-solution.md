@@ -8,14 +8,17 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Method:** Unknown
-**Country:** Canada
-**Website:** [https://www.ewscanada.com/](https://www.ewscanada.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~1 (-50% YoY)
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Canada</td></tr>
+  <tr><th>Website</th><td><a href="https://www.ewscanada.com/" target="_blank" rel="noopener">https://www.ewscanada.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/emergent-waste-solutions/" target="_blank" rel="noopener">emergent-waste-solutions</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~1 (-50% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -30,8 +33,6 @@ Emergent Waste Solutions (EWS) is a British Columbia–based company that operat
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.ewscanada.com/about))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.ewscanada.com/ ([source](https://www.cdr.fyi/supplier/emergent-waste-solutions))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/emergent-waste-solutions))
-
-[View on LinkedIn](https://www.linkedin.com/company/emergent-waste-solutions/)
 
 ---
 

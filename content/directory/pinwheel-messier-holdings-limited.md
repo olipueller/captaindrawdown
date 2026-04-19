@@ -8,16 +8,18 @@ pathway: "Enabling Tech"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Enabling Tech
-**Secondary pathways:** Biochar, Mineralization, Biomass Burial, Afforestation
-**Method:** Unknown
-**Country:** United Kingdom
-**Website:** [https://www.pinwheel.earth/](https://www.pinwheel.earth/)
-**Status:** 🟢 Active (score: 78/100)
-**Employees:** ~23 (+10% YoY)
-**LinkedIn Followers:** 1,772
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Secondary pathways</th><td>Biochar, Mineralization, Biomass Burial, Afforestation</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>United Kingdom</td></tr>
+  <tr><th>Website</th><td><a href="https://www.pinwheel.earth/" target="_blank" rel="noopener">https://www.pinwheel.earth/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/pinwheelworld/" target="_blank" rel="noopener">pinwheelworld — 1,772 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 78/100)</td></tr>
+  <tr><th>Employees</th><td>~23 (+10% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -32,8 +34,6 @@ Pinwheel (trading name of Messier Holdings Limited) is a UK-based climate engage
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.pinwheel.earth/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.pinwheel.earth/ ([source](https://www.cdr.fyi/marketplace/pinwheel))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/pinwheel))
-
-[View on LinkedIn](https://www.linkedin.com/company/pinwheelworld/)
 
 ---
 

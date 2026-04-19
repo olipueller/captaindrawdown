@@ -8,16 +8,18 @@ pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Enabling Tech
-**Secondary pathways:** Afforestation, Biochar
-**Method:** Unknown
-**Country:** United States
-**Website:** [https://www.cooleffect.org/](https://www.cooleffect.org/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~13
-**LinkedIn Followers:** 3,283
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Secondary pathways</th><td>Afforestation, Biochar</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://www.cooleffect.org/" target="_blank" rel="noopener">https://www.cooleffect.org/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cool-effect/" target="_blank" rel="noopener">cool-effect — 3,283 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~13</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -32,8 +34,6 @@ Cool Effect is a US-based 501(c)(3) nonprofit carbon credit marketplace headquar
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.cooleffect.org/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/cool-effect-inc))
-
-[View on LinkedIn](https://www.linkedin.com/company/cool-effect/)
 
 ---
 

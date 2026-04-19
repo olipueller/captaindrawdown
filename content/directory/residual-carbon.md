@@ -8,16 +8,18 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Secondary pathways:** BECCS
-**Method:** BiCRS (Other)
-**Country:** United Kingdom
-**Website:** [https://www.residualcarbon.com/](https://www.residualcarbon.com/)
-**Status:** 🟢 Active (score: 72/100)
-**Employees:** ~12 (+300% YoY)
-**LinkedIn Followers:** 3,336
-**CDR Focus:** ecosystem
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>BECCS</td></tr>
+  <tr><th>Method</th><td>BiCRS (Other)</td></tr>
+  <tr><th>Country</th><td>United Kingdom</td></tr>
+  <tr><th>Website</th><td><a href="https://www.residualcarbon.com/" target="_blank" rel="noopener">https://www.residualcarbon.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/residualcarbon/" target="_blank" rel="noopener">residualcarbon — 3,336 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 72/100)</td></tr>
+  <tr><th>Employees</th><td>~12 (+300% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -31,9 +33,7 @@ Residual is a UK-based carbon project developer that partners with industrials t
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=ecosystem liveliness=🟢 Active ([source](https://www.residualcarbon.com/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=ecosystem liveliness=🟢 Active ([source](https://www.residualcarbon.com/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/residualcarbon/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

@@ -8,15 +8,17 @@ pathway: "Mineralization"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Mineralization
-**Method:** Unknown
-**Country:** Ireland
-**Website:** [https://www.decahydron.com/](https://www.decahydron.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~3 (-40% YoY)
-**LinkedIn Followers:** 1,374
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Mineralization</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Ireland</td></tr>
+  <tr><th>Website</th><td><a href="https://www.decahydron.com/" target="_blank" rel="noopener">https://www.decahydron.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/decahydron/" target="_blank" rel="noopener">decahydron — 1,374 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~3 (-40% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -30,8 +32,6 @@ Decahydron is an Irish company developing natural (geologic) hydrogen production
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.decahydron.com/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.decahydron.com/ ([source](https://www.cdr.fyi/supplier/decahydron))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/decahydron))
-
-[View on LinkedIn](https://www.linkedin.com/company/decahydron/)
 
 ---
 

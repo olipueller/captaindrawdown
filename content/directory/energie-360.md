@@ -8,16 +8,18 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Secondary pathways:** BECCS
-**Method:** Unknown
-**Country:** Switzerland
-**Website:** [https://www.energie360.ch/](https://www.energie360.ch/)
-**Status:** 🟢 Active (score: 85/100)
-**Employees:** ~368 (+6% YoY)
-**LinkedIn Followers:** 15,773
-**CDR Focus:** division
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>BECCS</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Switzerland</td></tr>
+  <tr><th>Website</th><td><a href="https://www.energie360.ch/" target="_blank" rel="noopener">https://www.energie360.ch/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/energie360/" target="_blank" rel="noopener">energie360 — 15,773 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Employees</th><td>~368 (+6% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>division</td></tr>
+</table>
 
 ## About
 
@@ -30,8 +32,6 @@ Energie 360° AG is a Zurich-based energy utility (96% owned by the City of Zuri
 - **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://www.bioenergie-frauenfeld.ch/))
 - **2026-04-19** — url added from cdr.fyi supplier page: http://energie360.ch/ ([source](https://www.cdr.fyi/supplier/energie-360))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/energie-360))
-
-[View on LinkedIn](https://www.linkedin.com/company/energie360/)
 
 ---
 

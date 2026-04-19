@@ -8,16 +8,18 @@ pathway: "Biomass Burial"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biomass Burial
-**Secondary pathways:** Ocean CDR
-**Method:** BiCRS (Other)
-**Country:** Switzerland
-**Website:** [https://arrhenius.com/](https://arrhenius.com/)
-**Status:** 🟢 Active (score: 70/100)
-**Employees:** ~7 (+40% YoY)
-**LinkedIn Followers:** 991
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biomass Burial</td></tr>
+  <tr><th>Secondary pathways</th><td>Ocean CDR</td></tr>
+  <tr><th>Method</th><td>BiCRS (Other)</td></tr>
+  <tr><th>Country</th><td>Switzerland</td></tr>
+  <tr><th>Website</th><td><a href="https://arrhenius.com/" target="_blank" rel="noopener">https://arrhenius.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/arrhenius-ag/" target="_blank" rel="noopener">arrhenius-ag — 991 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Employees</th><td>~7 (+40% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -31,9 +33,7 @@ Arrhenius AG is a Swiss startup and HSLU (Lucerne University of Applied Sciences
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://arrhenius.com/))
 - **2026-04-18** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟡 Moderate ([source](https://arrhenius.com/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/arrhenius-ag/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

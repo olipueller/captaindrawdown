@@ -8,15 +8,18 @@ pathway: "Biomass Burial"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biomass Burial
-**Secondary pathways:** Ocean CDR
-**Method:** Unknown
-**Country:** United Kingdom
-**Website:** [https://www.brilliantplanet.com](https://www.brilliantplanet.com)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~14 (-48% YoY)
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biomass Burial</td></tr>
+  <tr><th>Secondary pathways</th><td>Ocean CDR</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>United Kingdom</td></tr>
+  <tr><th>Website</th><td><a href="https://www.brilliantplanet.com" target="_blank" rel="noopener">https://www.brilliantplanet.com</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/brilliantplanet/" target="_blank" rel="noopener">brilliantplanet</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~14 (-48% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -30,8 +33,6 @@ Brilliant Planet was a London-headquartered startup (founded 2013) growing marin
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🔴 Likely Dead ([source](https://find-and-update.company-information.service.gov.uk/company/08491368))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.brilliantplanet.com/ ([source](https://www.cdr.fyi/supplier/brilliant-planet))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/brilliant-planet))
-
-[View on LinkedIn](https://www.linkedin.com/company/brilliantplanet/)
 
 ---
 

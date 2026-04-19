@@ -8,14 +8,16 @@ pathway: "DAC"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** DAC
-**Secondary pathways:** Ocean CDR
-**Method:** DAC (Liquid Solvent)
-**Country:** United States
-**Website:** [https://github.com/frontierclimate/carbon-removal-source-materials/blob/main/Project%20Applications/2025%20Summer/%5BEleryc%5D%20Prepurchase%20Application%202025.pdf](https://github.com/frontierclimate/carbon-removal-source-materials/blob/main/Project%20Applications/2025%20Summer/%5BEleryc%5D%20Prepurchase%20Application%202025.pdf)
-**Status:** 🟢 Active (score: 85/100)
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>DAC</td></tr>
+  <tr><th>Secondary pathways</th><td>Ocean CDR</td></tr>
+  <tr><th>Method</th><td>DAC (Liquid Solvent)</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://github.com/frontierclimate/carbon-removal-source-materials/blob/main/Project%20Applications/2025%20Summer/%5BEleryc%5D%20Prepurchase%20Application%202025.pdf" target="_blank" rel="noopener">https://github.com/frontierclimate/carbon-removal-source-materials/blob/main/Project%20Applications/2025%20Summer/%5BEleryc%5D%20Prepurchase%20Application%202025.pdf</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -31,14 +33,14 @@ Eleryc, Inc. is a venture-backed stealth climate-tech startup based in San Jose,
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟡 Moderate ([source](https://github.com/frontierclimate/carbon-removal-source-materials/blob/main/Project%20Applications/2025%20Summer/%5BGeolocked%5D%20Frontier%202025%20Prepurchase%20Application%20vF.pdf))
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟡 Moderate ([source](https://github.com/frontierclimate/carbon-removal-source-materials/blob/main/Project%20Applications/2025%20Summer/%5BGeolocked%5D%20Frontier%202025%20Prepurchase%20Application%20vF.pdf))
 - **2026-04-18** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟡 Moderate ([source](https://github.com/frontierclimate/carbon-removal-source-materials))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 - **** — merged duplicate: Geolocked (slug=geolocked)
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://github.com/frontierclimate/carbon-removal-source-materials/blob/main/Project%20Applications/2025%20Summer/%5BEleryc%5D%20Prepurchase%20Application%202025.pdf))
 - **2026-04-19** — refresh: liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://github.com/frontierclimate/carbon-removal-source-materials/blob/main/Project%20Applications/2025%20Summer/%5BEleryc%5D%20Prepurchase%20Application%202025.pdf))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://patents.google.com/patent/US7790012B2/en))
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟡 Moderate ([source](https://github.com/frontierclimate/carbon-removal-source-materials/blob/main/Project%20Applications/2025%20Summer/%5BEleryc%5D%20Prepurchase%20Application%202025.pdf))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

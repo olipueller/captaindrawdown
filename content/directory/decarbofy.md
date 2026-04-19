@@ -8,14 +8,17 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Method:** Unknown
-**Country:** Argentina
-**Website:** [https://decarbofy.com/](https://decarbofy.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~1 (0% YoY)
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Argentina</td></tr>
+  <tr><th>Website</th><td><a href="https://decarbofy.com/" target="_blank" rel="noopener">https://decarbofy.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/decarbofy/" target="_blank" rel="noopener">decarbofy</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~1 (0% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -28,8 +31,6 @@ Decarbofy is an environmental management company establishing operations in Arge
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://agroempresario.com/publicacion/96714/decarbofy-planea-instalar-una-planta-de-biochar-en-el-parque-industrial-de-ituzaingo/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://decarbofy.com/ ([source](https://www.cdr.fyi/supplier/decarbofy))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/decarbofy))
-
-[View on LinkedIn](https://www.linkedin.com/company/decarbofy/)
 
 ---
 

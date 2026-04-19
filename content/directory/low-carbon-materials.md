@@ -8,16 +8,18 @@ pathway: "Biochar"
 liveliness: "🟠 Suspect"
 ---
 
-**Pathway:** Biochar
-**Secondary pathways:** Mineralization
-**Method:** BiCRS (Other)
-**Country:** United Kingdom
-**Website:** [https://www.lowcarbonmaterials.com/](https://www.lowcarbonmaterials.com/)
-**Status:** 🟠 Suspect (score: 40/100)
-**Employees:** ~20
-**LinkedIn Followers:** 5,744
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>Mineralization</td></tr>
+  <tr><th>Method</th><td>BiCRS (Other)</td></tr>
+  <tr><th>Country</th><td>United Kingdom</td></tr>
+  <tr><th>Website</th><td><a href="https://www.lowcarbonmaterials.com/" target="_blank" rel="noopener">https://www.lowcarbonmaterials.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/spherauk/" target="_blank" rel="noopener">spherauk — 5,744 followers</a></td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Employees</th><td>~20</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -32,9 +34,7 @@ Low Carbon Materials (LCM) is a Durham University spin-out based in Seaham, UK, 
 - **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://tracxn.com/d/companies/low-carbon-materials/__2WVJBc6xiAV9Y3XnRrYTGlrHAqIYfYtYY-z3ZurBvcc/funding-and-investors))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.lowcarbonmaterials.com/acla))
 - **2026-04-18** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.lowcarbonmaterials.com/news))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/spherauk/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

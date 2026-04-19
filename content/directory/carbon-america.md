@@ -8,16 +8,17 @@ pathway: "BECCS"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** BECCS
-**Secondary pathways:** Enabling Tech
-**Method:** BECCS
-**Country:** United States
-**Website:** [https://www.carbonamerica.com/](https://www.carbonamerica.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~9 (-59% YoY)
-**LinkedIn Followers:** 6,724
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>BECCS</td></tr>
+  <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://www.carbonamerica.com/" target="_blank" rel="noopener">https://www.carbonamerica.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonamerica/" target="_blank" rel="noopener">carbonamerica — 6,724 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~9 (-59% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -30,9 +31,7 @@ Carbon America is a Colorado-based vertically integrated CCS developer that fina
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.climatory.com/company/carbon-america))
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.carbonamerica.com/news/carbon-americas-frostcc-technology-demostrates-ultraclean-carbon-capture))
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟡 Moderate ([source](https://www.carbonamerica.com/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/carbonamerica/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

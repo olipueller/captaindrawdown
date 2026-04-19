@@ -8,14 +8,17 @@ pathway: "Enabling Tech"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Enabling Tech
-**Method:** Unknown
-**Country:** Japan
-**Website:** [https://icf.mri.co.jp/j-cdr/](https://icf.mri.co.jp/j-cdr/)
-**Status:** 🟢 Active (score: 90/100)
-**Employees:** ~506 (+7% YoY)
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Japan</td></tr>
+  <tr><th>Website</th><td><a href="https://icf.mri.co.jp/j-cdr/" target="_blank" rel="noopener">https://icf.mri.co.jp/j-cdr/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/mitsubishi-research-institute-inc/" target="_blank" rel="noopener">mitsubishi-research-institute-inc</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Employees</th><td>~506 (+7% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -28,8 +31,6 @@ The Japan CDR Coalition (J-CDR) is a multi-stakeholder platform launched in Sept
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.mri.co.jp/en/news/20250806.html))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://icf.mri.co.jp/j-cdr/ ([source](https://www.cdr.fyi/marketplace/japan-cdr-coalition))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/japan-cdr-coalition))
-
-[View on LinkedIn](https://www.linkedin.com/company/mitsubishi-research-institute-inc/)
 
 ---
 

@@ -8,15 +8,17 @@ pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Enabling Tech
-**Method:** Unknown
-**Country:** Iceland
-**Website:** [https://www.carbonregistry.com/](https://www.carbonregistry.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~10 (-17% YoY)
-**LinkedIn Followers:** 6,857
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Iceland</td></tr>
+  <tr><th>Website</th><td><a href="https://www.carbonregistry.com/" target="_blank" rel="noopener">https://www.carbonregistry.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/international-carbon-registry/" target="_blank" rel="noopener">international-carbon-registry — 6,857 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~10 (-17% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -31,8 +33,6 @@ International Carbon Registry (ICR) is an Iceland-based ISO-aligned GHG program 
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.carbonregistry.com/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/international-carbon-registry))
-
-[View on LinkedIn](https://www.linkedin.com/company/international-carbon-registry/)
 
 ---
 

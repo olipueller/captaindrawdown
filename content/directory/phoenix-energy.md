@@ -8,16 +8,17 @@ pathway: "BECCS"
 liveliness: "🟠 Suspect"
 ---
 
-**Pathway:** BECCS
-**Secondary pathways:** Biochar
-**Method:** BECCS
-**Country:** United States
-**Website:** [https://www.phoenixenergy.net/](https://www.phoenixenergy.net/)
-**Status:** 🟠 Suspect (score: 40/100)
-**Employees:** ~18 (-5% YoY)
-**LinkedIn Followers:** 1,382
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>BECCS</td></tr>
+  <tr><th>Secondary pathways</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://www.phoenixenergy.net/" target="_blank" rel="noopener">https://www.phoenixenergy.net/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/phoenix-energy-1/" target="_blank" rel="noopener">phoenix-energy-1 — 1,382 followers</a></td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Employees</th><td>~18 (-5% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -32,9 +33,7 @@ Phoenix Energy is a California-based developer and operator of community-scale B
 - **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://carbonherald.com/podcast-beccs-is-the-way-forward-greg-stangl-phoenix-energy-ceo/))
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.phoenixenergy.net/project-sites))
 - **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.phoenixenergy.net/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/phoenix-energy-1/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

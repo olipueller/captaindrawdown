@@ -8,16 +8,18 @@ pathway: "Enhanced Weathering"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Enhanced Weathering
-**Method:** Enhanced Rock Weathering
-**Country:** United States
-**Website:** [https://www.lithoscarbon.com/](https://www.lithoscarbon.com/)
-**Status:** 🟢 Active (score: 95/100)
-**Employees:** ~45 (+15% YoY)
-**LinkedIn Followers:** 13,122
-**CDI Portfolio Company**
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin, registry_puro, registry_cdrjobsearth
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enhanced Weathering</td></tr>
+  <tr><th>Method</th><td>Enhanced Rock Weathering</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://www.lithoscarbon.com/" target="_blank" rel="noopener">https://www.lithoscarbon.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/lithoscarbon/" target="_blank" rel="noopener">lithoscarbon — 13,122 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
+  <tr><th>Employees</th><td>~45 (+15% YoY)</td></tr>
+  <tr><th>CDI Portfolio</th><td>yes</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -40,9 +42,7 @@ Lithos Carbon is a San Francisco-based CDR supplier scaling Enhanced Rock Weathe
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://www.businesswire.com/news/home/20251202793450/en/Lithos-Carbon-Delivers-5160-Registry-Certified-Tons-of-Carbon-Removal-in-Worlds-Largest-Enhanced-Rock-Weathering-Issuance-to-Date))
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://www.businesswire.com/news/home/20251202793450/en/Lithos-Carbon-Delivers-5160-Registry-Certified-Tons-of-Carbon-Removal-in-Worlds-Largest-Enhanced-Rock-Weathering-Issuance-to-Date))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/lithoscarbon/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

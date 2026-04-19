@@ -8,16 +8,18 @@ pathway: "Afforestation"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Afforestation
-**Secondary pathways:** Ocean CDR, Biomass Burial
-**Method:** Unknown
-**Country:** Netherlands
-**Website:** [https://www.scature.com/](https://www.scature.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~4
-**LinkedIn Followers:** 774
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Afforestation</td></tr>
+  <tr><th>Secondary pathways</th><td>Ocean CDR, Biomass Burial</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Netherlands</td></tr>
+  <tr><th>Website</th><td><a href="https://www.scature.com/" target="_blank" rel="noopener">https://www.scature.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/scature/" target="_blank" rel="noopener">scature — 774 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~4</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -31,8 +33,6 @@ Scature is a Netherlands-based broker/marketplace connecting corporate buyers wi
 - **2026-04-19** — reclassified: pathway=Afforestation focus=ecosystem liveliness=🟢 Active ([source](https://www.scature.com/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.scature.com/ ([source](https://www.cdr.fyi/marketplace/scature))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/scature))
-
-[View on LinkedIn](https://www.linkedin.com/company/scature/)
 
 ---
 

@@ -8,16 +8,18 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Secondary pathways:** BECCS
-**Method:** Biomass Carbon Removal
-**Country:** United Kingdom
-**Website:** [https://www.premierforest.co.uk](https://www.premierforest.co.uk)
-**Status:** 🟢 Active (score: 70/100)
-**Employees:** ~117 (+30% YoY)
-**LinkedIn Followers:** 4,886
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, registry_puro
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>BECCS</td></tr>
+  <tr><th>Method</th><td>Biomass Carbon Removal</td></tr>
+  <tr><th>Country</th><td>United Kingdom</td></tr>
+  <tr><th>Website</th><td><a href="https://www.premierforest.co.uk" target="_blank" rel="noopener">https://www.premierforest.co.uk</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/premier-forest-products-ltd/" target="_blank" rel="noopener">premier-forest-products-ltd — 4,886 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Employees</th><td>~117 (+30% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -35,9 +37,7 @@ Premier Forest Products is a UK vertically integrated timber importer, processor
 - **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.regreener.earth/blog/the-5-best-biochar-carbon-credit-and-offset-projects-of-2026))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://puro.earth/CORC-co2-removal-certificate/biochar-corcs-from-premier-forest-wales-100136))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://premierforest.co.uk/))
-- **2026-04-18** — backfilled from V1
-
-[View on LinkedIn](https://www.linkedin.com/company/premier-forest-products-ltd/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

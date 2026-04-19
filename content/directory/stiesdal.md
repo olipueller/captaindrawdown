@@ -8,15 +8,16 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** Denmark
-**Website:** [https://www.stiesdal.com/skyclean/](https://www.stiesdal.com/skyclean/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~116 (-13% YoY)
-**LinkedIn Followers:** 22,361
-**CDR Focus:** division
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>Denmark</td></tr>
+  <tr><th>Website</th><td><a href="https://www.stiesdal.com/skyclean/" target="_blank" rel="noopener">https://www.stiesdal.com/skyclean/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/stiesdal/" target="_blank" rel="noopener">stiesdal — 22,361 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~116 (-13% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>division</td></tr>
+</table>
 
 ## About
 
@@ -31,9 +32,7 @@ Stiesdal SkyClean A/S is the biochar/pyrolysis subsidiary of Danish cleantech gr
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://tracxn.com/d/companies/stiesdal/__h79S2VOWg66WGirOIAPhibfIMmPE3iLgz6ll_MtiuFU))
 - **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://www.stiesdal.com/skyclean/the-skyclean-technology-explained/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://www.stiesdal.com/skyclean/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/stiesdal/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

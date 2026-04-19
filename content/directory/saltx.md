@@ -8,16 +8,18 @@ pathway: "Enabling Tech"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Enabling Tech
-**Secondary pathways:** Mineralization
-**Method:** Ocean Alkalinity Enhancement
-**Country:** Sweden
-**Website:** [https://www.saltxtechnology.com/](https://www.saltxtechnology.com/)
-**Status:** 🟢 Active (score: 92/100)
-**Employees:** ~33 (+14% YoY)
-**LinkedIn Followers:** 8,548
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Secondary pathways</th><td>Mineralization</td></tr>
+  <tr><th>Method</th><td>Ocean Alkalinity Enhancement</td></tr>
+  <tr><th>Country</th><td>Sweden</td></tr>
+  <tr><th>Website</th><td><a href="https://www.saltxtechnology.com/" target="_blank" rel="noopener">https://www.saltxtechnology.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/saltx/" target="_blank" rel="noopener">saltx — 8,548 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Employees</th><td>~33 (+14% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -31,9 +33,7 @@ SaltX is a Swedish greentech company listed on Nasdaq First North Premier Growth
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=supplier liveliness=🟢 Active ([source](https://www.saltxtechnology.com/))
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=supplier liveliness=🟢 Active ([source](https://frontierclimate.com/writing/zero-carbon-lime-grants))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/saltx/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

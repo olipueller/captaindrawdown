@@ -8,15 +8,16 @@ pathway: "BECCS"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** BECCS
-**Method:** BECCS
-**Country:** United States
-**Website:** [https://northstarcleanenergy.com/](https://northstarcleanenergy.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~109
-**LinkedIn Followers:** 3,165
-**CDR Focus:** division
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>BECCS</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://northstarcleanenergy.com/" target="_blank" rel="noopener">https://northstarcleanenergy.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/northstarcleanenergy/" target="_blank" rel="noopener">northstarcleanenergy — 3,165 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~109</td></tr>
+  <tr><th>CDR Focus</th><td>division</td></tr>
+</table>
 
 ## About
 
@@ -31,9 +32,7 @@ NorthStar Clean Energy is a wholly owned unregulated subsidiary of CMS Energy (N
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://tracxn.com/d/companies/northstarcleanenergy/__21wCHSYa3jZVH7X4S9fEwqmCdanhA4k1DbMbmjF2qQE))
 - **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://www.powermag.com/michigan-coal-plant-eyes-beccs-retrofit-could-become-first-us-facility-with-carbon-negative-power/))
 - **2026-04-18** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://northstarcleanenergy.com/solutions/carbon-management-solutions/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/northstarcleanenergy/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

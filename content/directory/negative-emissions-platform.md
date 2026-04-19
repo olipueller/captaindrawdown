@@ -8,15 +8,16 @@ pathway: "Enabling Tech"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Enabling Tech
-**Method:** Enabling Tech
-**Country:** Belgium
-**Website:** [https://www.negative-emissions.org](https://www.negative-emissions.org)
-**Status:** 🟢 Active (score: 95/100)
-**Employees:** ~13 (+8% YoY)
-**LinkedIn Followers:** 7,278
-**CDR Focus:** ecosystem
-**Evidence signals:** news_mention
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Country</th><td>Belgium</td></tr>
+  <tr><th>Website</th><td><a href="https://www.negative-emissions.org" target="_blank" rel="noopener">https://www.negative-emissions.org</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/negative-emissions-platform/" target="_blank" rel="noopener">negative-emissions-platform — 7,278 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
+  <tr><th>Employees</th><td>~13 (+8% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -29,8 +30,6 @@ The Negative Emissions Platform (NEP) is a Brussels-based non-profit membership 
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.negative-emissions.org/updates/negative-emissions-platform-publishes-2025-annual-report))
 - **2026-04-18** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.negative-emissions.org/))
 - **2026-04-18** — discovered via: news_feed ([source](https://www.negative-emissions.org/updates/the-italian-carbon-removal-network-is-live))
-
-[View on LinkedIn](https://www.linkedin.com/company/negative-emissions-platform/)
 
 ---
 

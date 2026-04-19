@@ -8,17 +8,19 @@ pathway: "Enabling Tech"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Enabling Tech
-**Secondary pathways:** Enhanced Weathering
-**Method:** Enhanced Rock Weathering
-**Country:** United States
-**Website:** [https://www.everestcarbon.com/](https://www.everestcarbon.com/)
-**Status:** 🟢 Active (score: 85/100)
-**Employees:** ~10 (-23% YoY)
-**LinkedIn Followers:** 4,471
-**Open roles on cdrjobs:** 1
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Secondary pathways</th><td>Enhanced Weathering</td></tr>
+  <tr><th>Method</th><td>Enhanced Rock Weathering</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://www.everestcarbon.com/" target="_blank" rel="noopener">https://www.everestcarbon.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/everest-carbon/" target="_blank" rel="noopener">everest-carbon — 4,471 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Employees</th><td>~10 (-23% YoY)</td></tr>
+  <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -35,9 +37,7 @@ Everest Carbon is a San Francisco- and Linz, Austria-based carbon removal measur
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=supplier liveliness=🟢 Active ([source](https://www.everestcarbon.com/))
 - **2026-04-18** — reclassified: pathway=Enabling Tech focus=supplier liveliness=🟢 Active ([source](https://www.everestcarbon.com/))
-- **2026-04-18** — backfilled from V1
-
-[View on LinkedIn](https://www.linkedin.com/company/everest-carbon/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

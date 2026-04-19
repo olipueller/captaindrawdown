@@ -8,16 +8,18 @@ pathway: "Mineralization"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Mineralization
-**Method:** Mineralization (Other)
-**Country:** United States
-**Website:** [https://www.cellamineralstorage.com/](https://www.cellamineralstorage.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~9 (-10% YoY)
-**LinkedIn Followers:** 4,224
-**CDI Portfolio Company**
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Mineralization</td></tr>
+  <tr><th>Method</th><td>Mineralization (Other)</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://www.cellamineralstorage.com/" target="_blank" rel="noopener">https://www.cellamineralstorage.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cellamineral/" target="_blank" rel="noopener">cellamineral — 4,224 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~9 (-10% YoY)</td></tr>
+  <tr><th>CDI Portfolio</th><td>yes</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -38,9 +40,7 @@ Cella Mineral Storage is a New York-based carbon mineralization startup operatin
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](registry_activity))
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.cellamineralstorage.com/))
 - **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.sirona.tech/updates/sirona-technologies-and-cella-launch-project-jacaranda))
-- **2026-04-18** — backfilled from V1 ([source](https://www.carbon-drawdown.de/))
-
-[View on LinkedIn](https://www.linkedin.com/company/cellamineral/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

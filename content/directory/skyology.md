@@ -8,15 +8,17 @@ pathway: "Ocean CDR"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Ocean CDR
-**Secondary pathways:** Enhanced Weathering
-**Method:** Direct Air Capture
-**Country:** United Kingdom
-**Website:** [https://skyology.co.uk/](https://skyology.co.uk/)
-**Status:** 🟢 Active (score: 100/100)
-**Open roles on cdrjobs:** 1
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Ocean CDR</td></tr>
+  <tr><th>Secondary pathways</th><td>Enhanced Weathering</td></tr>
+  <tr><th>Method</th><td>Direct Air Capture</td></tr>
+  <tr><th>Country</th><td>United Kingdom</td></tr>
+  <tr><th>Website</th><td><a href="https://skyology.co.uk/" target="_blank" rel="noopener">https://skyology.co.uk/</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
+  <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -32,7 +34,7 @@ Skyology is an early-stage ocean CDR developer pursuing ocean alkalinity enhance
 - **2026-04-19** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://www.ecomagazine.com/news/opportunity/ocean-career-skyology-project-scientist-biogeochemistry))
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟠 Suspect ([source](https://skyology.co.uk/))
 - **2026-04-18** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟠 Suspect ([source](https://www.skyology.io/))
-- **2026-04-18** — backfilled from V1
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

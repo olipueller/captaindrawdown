@@ -8,16 +8,18 @@ pathway: "DAC"
 liveliness: "🟠 Suspect"
 ---
 
-**Pathway:** DAC
-**Secondary pathways:** Mineralization
-**Method:** DAC (Other/Undisclosed)
-**Country:** United States
-**Website:** [https://www.1pointfive.com/](https://www.1pointfive.com/)
-**Status:** 🟠 Suspect (score: 40/100)
-**Employees:** ~32 (0% YoY)
-**LinkedIn Followers:** 28,248
-**CDR Focus:** division
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>DAC</td></tr>
+  <tr><th>Secondary pathways</th><td>Mineralization</td></tr>
+  <tr><th>Method</th><td>DAC (Other/Undisclosed)</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://www.1pointfive.com/" target="_blank" rel="noopener">https://www.1pointfive.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/1pointfive/" target="_blank" rel="noopener">1pointfive — 28,248 followers</a></td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Employees</th><td>~32 (0% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>division</td></tr>
+</table>
 
 ## About
 
@@ -36,9 +38,7 @@ Houston-based 1PointFive is a subsidiary of Occidental Petroleum Corp. developin
 - **2026-04-18** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://www.ogj.com/energy-transition/news/55361290/oxys-1pointfive-expects-stratos-dac-plant-online-in-second-quarter-2026))
 - **2026-04-18** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://www.1pointfive.com/news/1pointfive-and-bain-company-announce-agreement-for-direct-air-capture-carbon-removal-credits))
 - **2026-04-18** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://www.1pointfive.com/news/1pointfive-and-bain-company-announce-agreement-for-direct-air-capture-carbon-removal-credits))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/1pointfive/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

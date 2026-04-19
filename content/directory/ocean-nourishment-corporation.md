@@ -8,15 +8,17 @@ pathway: "Ocean CDR"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Ocean CDR
-**Method:** Ocean Fertilization
-**Country:** Australia
-**Website:** [https://www.oceannourishment.com/](https://www.oceannourishment.com/)
-**Status:** 🟢 Active (score: 70/100)
-**Employees:** ~6 (+20% YoY)
-**LinkedIn Followers:** 304
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Ocean CDR</td></tr>
+  <tr><th>Method</th><td>Ocean Fertilization</td></tr>
+  <tr><th>Country</th><td>Australia</td></tr>
+  <tr><th>Website</th><td><a href="https://www.oceannourishment.com/" target="_blank" rel="noopener">https://www.oceannourishment.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ocean-nourishment-corporation/" target="_blank" rel="noopener">ocean-nourishment-corporation — 304 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Employees</th><td>~6 (+20% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -31,9 +33,7 @@ Ocean Nourishment Corporation (ONC) is an Australian company incorporated in 200
 - **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://hakaimagazine.com/news/iron-fertilization-isnt-going-to-save-us/))
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟡 Moderate ([source](https://www.oceannourishment.com/))
 - **2026-04-18** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟡 Moderate ([source](https://www.oceannourishment.com/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/ocean-nourishment-corporation/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

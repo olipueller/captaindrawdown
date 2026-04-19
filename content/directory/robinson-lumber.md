@@ -8,15 +8,16 @@ pathway: "Biochar"
 liveliness: "🟠 Suspect"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** United States
-**Website:** [https://www.roblumco.com/](https://www.roblumco.com/)
-**Status:** 🟠 Suspect (score: 40/100)
-**Employees:** ~60 (-5% YoY)
-**LinkedIn Followers:** 2,069
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://www.roblumco.com/" target="_blank" rel="noopener">https://www.roblumco.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/robinson-lumber-company-inc-/" target="_blank" rel="noopener">robinson-lumber-company-inc- — 2,069 followers</a></td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Employees</th><td>~60 (-5% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -31,9 +32,7 @@ Robinson Lumber Company is a 132-year-old, fifth-generation family-owned wholesa
 - **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://millerwoodtradepub.com/robinson-lumber-company-five-generations-of-innovation-rooted-in-tradition-2/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.nola.com/news/business/innovation/this-south-louisiana-family-owned-business-is-going-strong-after-132-years/article_a4757320-2615-4b9b-a845-c432ec0b2f69.html))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.nola.com/news/business/innovation/this-south-louisiana-family-owned-business-is-going-strong-after-132-years/article_a4757320-2615-4b9b-a845-c432ec0b2f69.html))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/robinson-lumber-company-inc-/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

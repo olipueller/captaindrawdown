@@ -8,16 +8,17 @@ pathway: "Biochar"
 liveliness: "🟠 Suspect"
 ---
 
-**Pathway:** Biochar
-**Secondary pathways:** Enabling Tech
-**Method:** Biochar
-**Country:** United States
-**Website:** [https://www.qualterraag.com/](https://www.qualterraag.com/)
-**Status:** 🟠 Suspect (score: 40/100)
-**Employees:** ~20
-**LinkedIn Followers:** 1,083
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://www.qualterraag.com/" target="_blank" rel="noopener">https://www.qualterraag.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/nuphyplants/" target="_blank" rel="noopener">nuphyplants — 1,083 followers</a></td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Employees</th><td>~20</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -32,9 +33,7 @@ Qualterra is a Washington State-based agricultural technology company that produ
 - **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.qualterraag.com/what-we-do/biomass-processing-and-biochar-production/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.qualterraag.com/qualterra-achieves-climate-action-reserve-car-listing-for-biochar-project-in-cheney-washington/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.qualterraag.com/qualterra-inc-and-prairie-view-am-university-implement-new-biomass-processing-and-biochar-production-site-in-texas/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/nuphyplants/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

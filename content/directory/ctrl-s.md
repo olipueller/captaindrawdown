@@ -8,16 +8,18 @@ pathway: "Enabling Tech"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Enabling Tech
-**Secondary pathways:** DAC
-**Method:** DAC IP Preservation
-**Country:** United States
-**Website:** [https://heatmap.news/carbon-removal/ctrl-s-direct-air-capture](https://heatmap.news/carbon-removal/ctrl-s-direct-air-capture)
-**Status:** 🟢 Active (score: 80/100)
-**Employees:** ~25 (+4% YoY)
-**LinkedIn Followers:** 7,072
-**CDR Focus:** ecosystem
-**Evidence signals:** website
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Secondary pathways</th><td>DAC</td></tr>
+  <tr><th>Method</th><td>DAC IP Preservation</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://heatmap.news/carbon-removal/ctrl-s-direct-air-capture" target="_blank" rel="noopener">https://heatmap.news/carbon-removal/ctrl-s-direct-air-capture</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/heatmap-news/" target="_blank" rel="noopener">heatmap-news — 7,072 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Employees</th><td>~25 (+4% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -29,9 +31,7 @@ Ctrl-S is a US startup founded by Jason Hochman (co-founder of the Direct Air Ca
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://heatmap.news/carbon-removal/ctrl-s-direct-air-capture))
 - **2026-04-18** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://heatmap.news/carbon-removal/ctrl-s-direct-air-capture))
-- **2026-04-18** — backfilled from V1 ([source](https://heatmap.news/carbon-removal/ctrl-s-direct-air-capture))
-
-[View on LinkedIn](https://www.linkedin.com/company/heatmap-news/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

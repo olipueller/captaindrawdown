@@ -8,14 +8,16 @@ pathway: "DAC"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** DAC
-**Method:** Direct Air Capture
-**Country:** Germany
-**Website:** [https://www.normatech-dac.com/](https://www.normatech-dac.com/)
-**Status:** 🟢 Active (score: 100/100)
-**Open roles on cdrjobs:** 2
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>DAC</td></tr>
+  <tr><th>Method</th><td>Direct Air Capture</td></tr>
+  <tr><th>Country</th><td>Germany</td></tr>
+  <tr><th>Website</th><td><a href="https://www.normatech-dac.com/" target="_blank" rel="noopener">https://www.normatech-dac.com/</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
+  <tr><th>Open roles</th><td>2 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -31,7 +33,7 @@ NormaTech is a German direct air capture company with a website at normatech-dac
 - **2026-04-19** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://www.normatech-dac.com/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://www.normatech-dac.com/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://www.normatech-dac.com/))
-- **2026-04-18** — backfilled from V1
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

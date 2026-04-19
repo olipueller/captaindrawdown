@@ -8,16 +8,17 @@ pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Enabling Tech
-**Secondary pathways:** Afforestation
-**Method:** Enabling Tech
-**Country:** United Kingdom
-**Website:** [https://www.climateimpact.com](https://www.climateimpact.com)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~118 (-33% YoY)
-**LinkedIn Followers:** 35,911
-**CDR Focus:** ecosystem
-**Evidence signals:** news_mention
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Secondary pathways</th><td>Afforestation</td></tr>
+  <tr><th>Country</th><td>United Kingdom</td></tr>
+  <tr><th>Website</th><td><a href="https://www.climateimpact.com" target="_blank" rel="noopener">https://www.climateimpact.com</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/climate-impact-partners/" target="_blank" rel="noopener">climate-impact-partners — 35,911 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~118 (-33% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -31,8 +32,6 @@ Climate Impact Partners is a UK/US-based voluntary carbon market specialist form
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.climateimpact.com/))
 - **2026-04-18** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.climateimpact.com/))
 - **2026-04-18** — discovered via: news_feed ([source](https://carbonherald.com/opinion-the-banks-are-right-if-carbon-markets-are-to-scale-contracts-need-to-reflect-reality/))
-
-[View on LinkedIn](https://www.linkedin.com/company/climate-impact-partners/)
 
 ---
 

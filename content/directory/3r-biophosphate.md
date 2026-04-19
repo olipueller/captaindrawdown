@@ -8,15 +8,16 @@ pathway: "Biochar"
 liveliness: "🟠 Suspect"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** Hungary
-**Website:** [https://biophosphate.net/](https://biophosphate.net/)
-**Status:** 🟠 Suspect (score: 40/100)
-**Employees:** ~2 (0% YoY)
-**LinkedIn Followers:** 113
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>Hungary</td></tr>
+  <tr><th>Website</th><td><a href="https://biophosphate.net/" target="_blank" rel="noopener">https://biophosphate.net/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/terra-humana-clean-technology-development-engineering-and-manufacturing-ltd./" target="_blank" rel="noopener">terra-humana-clean-technology-development-engineering-and-manufacturing-ltd. — 113 followers</a></td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Employees</th><td>~2 (0% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -35,9 +36,7 @@ liveliness: "🟠 Suspect"
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://biophosphate.net/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://biophosphate.net/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://biophosphate.net/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/terra-humana-clean-technology-development-engineering-and-manufacturing-ltd./)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

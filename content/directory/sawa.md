@@ -8,15 +8,16 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** Singapore
-**Website:** [https://www.sawa.green/](https://www.sawa.green/)
-**Status:** 🟢 Active (score: 75/100)
-**Employees:** ~12
-**LinkedIn Followers:** 472
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>Singapore</td></tr>
+  <tr><th>Website</th><td><a href="https://www.sawa.green/" target="_blank" rel="noopener">https://www.sawa.green/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sawa-eco-solution/" target="_blank" rel="noopener">sawa-eco-solution — 472 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Employees</th><td>~12</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -38,9 +39,7 @@ SAWA EcoSolutions is a Singapore-based climate technology company with its Indon
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://tb.che.itb.ac.id/en/2024/04/25/kunjungan-pembukaan-pabrik-biochar-majalengka/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.sawa.green/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.sawa.green/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/sawa-eco-solution/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

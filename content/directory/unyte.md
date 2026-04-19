@@ -8,15 +8,16 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** United Kingdom
-**Website:** [https://unyte.co.uk/](https://unyte.co.uk/)
-**Status:** 🟢 Active (score: 75/100)
-**Employees:** ~8 (-43% YoY)
-**LinkedIn Followers:** 775
-**CDR Focus:** division
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>United Kingdom</td></tr>
+  <tr><th>Website</th><td><a href="https://unyte.co.uk/" target="_blank" rel="noopener">https://unyte.co.uk/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/unyte-capital/" target="_blank" rel="noopener">unyte-capital — 775 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Employees</th><td>~8 (-43% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>division</td></tr>
+</table>
 
 ## About
 
@@ -37,9 +38,7 @@ Unyte Group is a UK-based sustainability holding company headquartered in Market
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://carboncheck.org/sites/default/files/2024-11/RIVERSE%20CCIPL%202313%20Validation%20Report_Final.pdf))
 - **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://unyte.co.uk/unyte-solutions/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://unyte.co.uk/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/unyte-capital/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

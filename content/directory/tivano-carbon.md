@@ -8,15 +8,17 @@ pathway: "Biomass Burial"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biomass Burial
-**Method:** BiCRS (Other)
-**Country:** Namibia
-**Website:** [https://www.tivano-carbon.com/](https://www.tivano-carbon.com/)
-**Status:** 🟢 Active (score: 80/100)
-**Employees:** ~5 (+67% YoY)
-**LinkedIn Followers:** 156
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biomass Burial</td></tr>
+  <tr><th>Method</th><td>BiCRS (Other)</td></tr>
+  <tr><th>Country</th><td>Namibia</td></tr>
+  <tr><th>Website</th><td><a href="https://www.tivano-carbon.com/" target="_blank" rel="noopener">https://www.tivano-carbon.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/tivano-namibia/" target="_blank" rel="noopener">tivano-namibia — 156 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Employees</th><td>~5 (+67% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -30,9 +32,7 @@ Tivano Carbon restores Namibia's savanna rangelands by converting invasive encro
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.tivano-carbon.com/))
 - **2026-04-18** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.tivano-carbon.com/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/tivano-namibia/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

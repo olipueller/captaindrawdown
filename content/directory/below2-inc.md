@@ -8,15 +8,17 @@ pathway: "Enabling Tech"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Enabling Tech
-**Method:** Unknown
-**Country:** United States
-**Website:** [https://below2.earth/](https://below2.earth/)
-**Status:** 🟢 Active (score: 70/100)
-**Employees:** ~3 (+50% YoY)
-**LinkedIn Followers:** 390
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://below2.earth/" target="_blank" rel="noopener">https://below2.earth/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/below2/" target="_blank" rel="noopener">below2 — 390 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Employees</th><td>~3 (+50% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -30,8 +32,6 @@ BELOW2 Inc. is a San Francisco-based startup (with German founders) that operate
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟠 Suspect ([source](https://below2.earth/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://below2.earth/ ([source](https://www.cdr.fyi/supplier/below2-inc))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/below2-inc))
-
-[View on LinkedIn](https://www.linkedin.com/company/below2/)
 
 ---
 

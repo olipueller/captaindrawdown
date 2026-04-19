@@ -8,15 +8,18 @@ pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Enabling Tech
-**Secondary pathways:** Afforestation
-**Method:** Unknown
-**Country:** France
-**Website:** [https://www.qaptur.earth/](https://www.qaptur.earth/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~2 (0% YoY)
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Secondary pathways</th><td>Afforestation</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>France</td></tr>
+  <tr><th>Website</th><td><a href="https://www.qaptur.earth/" target="_blank" rel="noopener">https://www.qaptur.earth/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/qaptur-earth/" target="_blank" rel="noopener">qaptur-earth</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~2 (0% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -29,8 +32,6 @@ Qaptur is a developer of a carbon credits management platform that provides acce
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.qaptur.earth/ ([source](https://www.cdr.fyi/marketplace/qaptur))
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟡 Moderate ([source](https://www.qaptur.earth/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/qaptur))
-
-[View on LinkedIn](https://www.linkedin.com/company/qaptur-earth/)
 
 ---
 

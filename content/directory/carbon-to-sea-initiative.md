@@ -8,16 +8,18 @@ pathway: "Ocean CDR"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Ocean CDR
-**Secondary pathways:** Enabling Tech
-**Method:** Unknown
-**Country:** United States
-**Website:** [https://carbontosea.org/](https://carbontosea.org/)
-**Status:** 🟢 Active (score: 92/100)
-**Employees:** ~16 (+23% YoY)
-**LinkedIn Followers:** 6,088
-**CDR Focus:** ecosystem
-**Evidence signals:** exa_search
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Ocean CDR</td></tr>
+  <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://carbontosea.org/" target="_blank" rel="noopener">https://carbontosea.org/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbontosea/" target="_blank" rel="noopener">carbontosea — 6,088 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Employees</th><td>~16 (+23% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -32,8 +34,6 @@ Carbon to Sea Initiative is a non-profit research and development effort launche
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=ecosystem liveliness=🟢 Active ([source](https://www.carbontosea.org/))
 - **2026-04-18** — reclassified: pathway=Ocean CDR focus=ecosystem liveliness=🟢 Active ([source](https://www.carbontosea.org/))
 - **2026-04-18** — discovered via: exa ([source](https://carbontosea.org/))
-
-[View on LinkedIn](https://www.linkedin.com/company/carbontosea/)
 
 ---
 

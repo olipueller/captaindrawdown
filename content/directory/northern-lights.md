@@ -8,16 +8,18 @@ pathway: "BECCS"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** BECCS
-**Secondary pathways:** Enabling Tech
-**Method:** Enabling Tech
-**Country:** Norway
-**Website:** [https://norlights.com](https://norlights.com)
-**Status:** 🟢 Active (score: 98/100)
-**Employees:** ~70 (+27% YoY)
-**LinkedIn Followers:** 25,881
-**CDR Focus:** division
-**Evidence signals:** news_mention
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>BECCS</td></tr>
+  <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Enabling Tech</td></tr>
+  <tr><th>Country</th><td>Norway</td></tr>
+  <tr><th>Website</th><td><a href="https://norlights.com" target="_blank" rel="noopener">https://norlights.com</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/northern-lights-jv/" target="_blank" rel="noopener">northern-lights-jv — 25,881 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 98/100)</td></tr>
+  <tr><th>Employees</th><td>~70 (+27% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>division</td></tr>
+</table>
 
 ## About
 
@@ -32,8 +34,6 @@ Northern Lights is a joint venture of Equinor, Shell, and TotalEnergies providin
 - **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://norlights.com/news/green-light-for-co2-injection-and-storage/))
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://norlights.com/news/northern-lights-jv-has-successfully-stored-first-co%E2%82%82/))
 - **2026-04-18** — discovered via: news_feed ([source](https://www.carboncapturejournal.com/news/third-co2-vessels-added-to-northern-lights-fleet/7212.aspx))
-
-[View on LinkedIn](https://www.linkedin.com/company/northern-lights-jv/)
 
 ---
 

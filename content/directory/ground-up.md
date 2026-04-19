@@ -8,15 +8,16 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** India
-**Website:** [https://www.ground-up.in](https://www.ground-up.in)
-**Status:** 🟡 Moderate (score: 50/100)
-**Employees:** ~15
-**LinkedIn Followers:** 597
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>India</td></tr>
+  <tr><th>Website</th><td><a href="https://www.ground-up.in" target="_blank" rel="noopener">https://www.ground-up.in</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ground-zero-in/" target="_blank" rel="noopener">ground-zero-in — 597 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 50/100)</td></tr>
+  <tr><th>Employees</th><td>~15</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -32,9 +33,7 @@ Ground Up is a Mumbai-based seed-stage biochar startup founded in 2024 (legal en
 - **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://www.ground-up.in/news-and-resources))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.ground-up.in/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.ground-up.in))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/ground-zero-in/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

@@ -8,15 +8,17 @@ pathway: "Enabling Tech"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Enabling Tech
-**Method:** Unknown
-**Country:** Switzerland
-**Website:** [https://www.carbonremoval.partners](https://www.carbonremoval.partners)
-**Status:** 🟢 Active (score: 88/100)
-**Employees:** ~10 (+67% YoY)
-**LinkedIn Followers:** 5,538
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Switzerland</td></tr>
+  <tr><th>Website</th><td><a href="https://www.carbonremoval.partners" target="_blank" rel="noopener">https://www.carbonremoval.partners</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-removal-partners/" target="_blank" rel="noopener">carbon-removal-partners — 5,538 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 88/100)</td></tr>
+  <tr><th>Employees</th><td>~10 (+67% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -29,8 +31,6 @@ Carbon Removal Partners (CRP) is a Zurich-based venture capital firm exclusively
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.carbonremoval.partners/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.carbonremoval.partners ([source](https://www.cdr.fyi/marketplace/carbon-removal-partners))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/carbon-removal-partners))
-
-[View on LinkedIn](https://www.linkedin.com/company/carbon-removal-partners/)
 
 ---
 

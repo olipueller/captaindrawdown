@@ -8,15 +8,16 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** Bolivia
-**Website:** [https://www.exomadgreen.com/](https://www.exomadgreen.com/)
-**Status:** 🟢 Active (score: 98/100)
-**Employees:** ~28 (+40% YoY)
-**LinkedIn Followers:** 7,664
-**CDR Focus:** division
-**Evidence signals:** website, last_evidence_url, linkedin, registry_cdrfyi, registry_puro
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>Bolivia</td></tr>
+  <tr><th>Website</th><td><a href="https://www.exomadgreen.com/" target="_blank" rel="noopener">https://www.exomadgreen.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/exomad-green/" target="_blank" rel="noopener">exomad-green — 7,664 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 98/100)</td></tr>
+  <tr><th>Employees</th><td>~28 (+40% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>division</td></tr>
+</table>
 
 ## About
 
@@ -34,9 +35,7 @@ Exomad Green is the biochar CDR division of Exomad, Bolivia's largest wood expor
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://www.exomadgreen.com/news))
 - **2026-04-18** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://www.exomadgreen.com/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/exomad-green/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

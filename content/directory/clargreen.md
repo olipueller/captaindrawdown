@@ -8,15 +8,16 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** Nigeria
-**Website:** [https://clargreen.earth/](https://clargreen.earth/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~1
-**LinkedIn Followers:** 212
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>Nigeria</td></tr>
+  <tr><th>Website</th><td><a href="https://clargreen.earth/" target="_blank" rel="noopener">https://clargreen.earth/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/clargreen-technologies/" target="_blank" rel="noopener">clargreen-technologies — 212 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~1</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -31,9 +32,7 @@ Clargreen Technologies is a Nigeria-based climate-smart agribusiness that conver
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.linkedin.com/in/tobechukwu-obi-1ab751263/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://clargreen.earth/about/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.linkedin.com/in/tobechukwu-obi-1ab751263/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/clargreen-technologies/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

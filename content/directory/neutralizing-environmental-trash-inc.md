@@ -8,15 +8,16 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** United States
-**Website:** [https://www.netforcarbon.com/](https://www.netforcarbon.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~1
-**LinkedIn Followers:** 15
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://www.netforcarbon.com/" target="_blank" rel="noopener">https://www.netforcarbon.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/netforcarbon/" target="_blank" rel="noopener">netforcarbon — 15 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~1</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -30,9 +31,7 @@ Neutralizing Environmental Trash Inc. (N.E.T. Inc.) is a Medford, Oregon-based b
 - **2026-04-19** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://bluskycarbon.com/blusky-carbon-joint-venture-inks-binding-lois-for-biochar-projects-in-orlando-and-tanzania/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://www.netforcarbon.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.tennesseedaily.com/news/274746351/blusky-carbon-joint-venture-inks-binding-lois-for-biochar-projects-in-orlando-and-tanzania))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/netforcarbon/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

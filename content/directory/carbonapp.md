@@ -8,16 +8,18 @@ pathway: "Enabling Tech"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Enabling Tech
-**Secondary pathways:** Biochar, Afforestation
-**Method:** Biochar
-**Country:** France
-**Website:** [https://www.carbonapp.fr/](https://www.carbonapp.fr/)
-**Status:** 🟢 Active (score: 80/100)
-**Employees:** ~16 (-6% YoY)
-**LinkedIn Followers:** 6,167
-**CDR Focus:** ecosystem
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Secondary pathways</th><td>Biochar, Afforestation</td></tr>
+  <tr><th>Method</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>France</td></tr>
+  <tr><th>Website</th><td><a href="https://www.carbonapp.fr/" target="_blank" rel="noopener">https://www.carbonapp.fr/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonapp-fr/" target="_blank" rel="noopener">carbonapp-fr — 6,167 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Employees</th><td>~16 (-6% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -33,9 +35,7 @@ Founded in March 2021, Carbonapp is a mission-driven company that develops low-c
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://fr.linkedin.com/posts/carbonapp-fr_biochar-d%C3%A9carbonation-changementclimatique-activity-7175755444404002816-FbLv))
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.carbonapp.fr/en/a-propos))
 - **2026-04-18** — reclassified: pathway=Biochar focus=ecosystem liveliness=🟢 Active ([source](https://www.carbonapp.fr/en))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/carbonapp-fr/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

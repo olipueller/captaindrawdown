@@ -8,15 +8,16 @@ pathway: "Biochar"
 liveliness: "🟠 Suspect"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** Germany
-**Website:** [https://biochar-zero.com/company/okologische-klarschlammtrocknung-offenhausen-gmbh/](https://biochar-zero.com/company/okologische-klarschlammtrocknung-offenhausen-gmbh/)
-**Status:** 🟠 Suspect (score: 40/100)
-**Employees:** ~2
-**LinkedIn Followers:** 4,517
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>Germany</td></tr>
+  <tr><th>Website</th><td><a href="https://biochar-zero.com/company/okologische-klarschlammtrocknung-offenhausen-gmbh/" target="_blank" rel="noopener">https://biochar-zero.com/company/okologische-klarschlammtrocknung-offenhausen-gmbh/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biochar-zero/" target="_blank" rel="noopener">biochar-zero — 4,517 followers</a></td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Employees</th><td>~2</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -38,9 +39,7 @@ liveliness: "🟠 Suspect"
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://global-c-sink.easy-cert.cloud/media/projectfile/None/PZ2aXp0K9MProject_Design_Document_GCSP1126_DE.pdf))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://biochar-zero.com/company/okologische-klarschlammtrocknung-offenhausen-gmbh/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.klimate.co/project/okt-offenhausen))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/biochar-zero/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

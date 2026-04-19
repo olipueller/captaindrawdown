@@ -8,15 +8,17 @@ pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Enabling Tech
-**Method:** Unknown
-**Country:** Germany
-**Website:** [https://www.freezecarbon.com/](https://www.freezecarbon.com/)
-**Status:** 🟡 Moderate (score: 60/100)
-**Employees:** ~3 (-62% YoY)
-**LinkedIn Followers:** 1,476
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Germany</td></tr>
+  <tr><th>Website</th><td><a href="https://www.freezecarbon.com/" target="_blank" rel="noopener">https://www.freezecarbon.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/freeze-carbon/" target="_blank" rel="noopener">freeze-carbon — 1,476 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 60/100)</td></tr>
+  <tr><th>Employees</th><td>~3 (-62% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -31,8 +33,6 @@ Freeze Carbon is a Frankfurt, Germany-based online marketplace for carbon credit
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟡 Moderate ([source](https://www.freezecarbon.com/))
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟡 Moderate ([source](https://www.freezecarbon.com/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/freeze-carbon))
-
-[View on LinkedIn](https://www.linkedin.com/company/freeze-carbon/)
 
 ---
 

@@ -8,15 +8,17 @@ pathway: "Ocean CDR"
 liveliness: "🟠 Suspect"
 ---
 
-**Pathway:** Ocean CDR
-**Method:** Direct Ocean Removal
-**Country:** United States
-**Website:** [https://www.banyucarbon.com/](https://www.banyucarbon.com/)
-**Status:** 🟠 Suspect (score: 40/100)
-**Employees:** ~10 (-17% YoY)
-**LinkedIn Followers:** 2,151
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Ocean CDR</td></tr>
+  <tr><th>Method</th><td>Direct Ocean Removal</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://www.banyucarbon.com/" target="_blank" rel="noopener">https://www.banyucarbon.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/banyu-carbon/" target="_blank" rel="noopener">banyu-carbon — 2,151 followers</a></td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Employees</th><td>~10 (-17% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -31,9 +33,7 @@ Banyu Carbon is a Seattle-based ocean CDR startup spun out of the University of 
 - **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.youtube.com/watch?v=eIh_6oiK4U0))
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.banyucarbon.com/news/))
 - **2026-04-18** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.banyucarbon.com/news/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/banyu-carbon/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

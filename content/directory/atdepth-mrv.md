@@ -8,16 +8,18 @@ pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Enabling Tech
-**Secondary pathways:** Ocean CDR
-**Method:** Unknown
-**Country:** United States
-**Website:** [https://www.atdepth.org](https://www.atdepth.org)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~8
-**LinkedIn Followers:** 629
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Secondary pathways</th><td>Ocean CDR</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://www.atdepth.org" target="_blank" rel="noopener">https://www.atdepth.org</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/atdepth-mrv/" target="_blank" rel="noopener">atdepth-mrv — 629 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~8</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -30,8 +32,6 @@ atdepth MRV is an MIT spin-off based in Cambridge, Massachusetts that provides M
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟡 Moderate ([source](https://www.atdepth.org/deepsky-pressrelease))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.atdepthmrv.com ([source](https://www.cdr.fyi/marketplace/atdepth-mrv))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/atdepth-mrv))
-
-[View on LinkedIn](https://www.linkedin.com/company/atdepth-mrv/)
 
 ---
 

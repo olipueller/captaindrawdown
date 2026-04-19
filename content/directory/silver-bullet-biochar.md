@@ -8,15 +8,17 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Method:** BiCRS (Other)
-**Country:** Singapore
-**Website:** [https://silverbulletbiochar.com/](https://silverbulletbiochar.com/)
-**Status:** 🟢 Active (score: 70/100)
-**Employees:** ~2 (+100% YoY)
-**LinkedIn Followers:** 87
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Method</th><td>BiCRS (Other)</td></tr>
+  <tr><th>Country</th><td>Singapore</td></tr>
+  <tr><th>Website</th><td><a href="https://silverbulletbiochar.com/" target="_blank" rel="noopener">https://silverbulletbiochar.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/silver-bullet-biochar/" target="_blank" rel="noopener">silver-bullet-biochar — 87 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Employees</th><td>~2 (+100% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -31,9 +33,7 @@ Silver Bullet Biochar is a Singapore-based biochar venture with a minimal public
 - **2026-04-19** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://www.linkedin.com/company/silver-bullet-biochar))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://silverbulletbiochar.com/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://www.linkedin.com/company/silver-bullet-biochar))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/silver-bullet-biochar/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

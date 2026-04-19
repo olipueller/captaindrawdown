@@ -8,16 +8,17 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Secondary pathways:** BECCS
-**Method:** Biochar
-**Country:** United Kingdom
-**Website:** [https://cplindustries.co.uk/](https://cplindustries.co.uk/)
-**Status:** 🟢 Active (score: 75/100)
-**Employees:** ~116 (-5% YoY)
-**LinkedIn Followers:** 2,168
-**CDR Focus:** division
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>BECCS</td></tr>
+  <tr><th>Country</th><td>United Kingdom</td></tr>
+  <tr><th>Website</th><td><a href="https://cplindustries.co.uk/" target="_blank" rel="noopener">https://cplindustries.co.uk/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cpl-industries/" target="_blank" rel="noopener">cpl-industries — 2,168 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Employees</th><td>~116 (-5% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>division</td></tr>
+</table>
 
 ## About
 
@@ -33,9 +34,7 @@ CPL Industries (Coal Products Limited), part of Invica Industries, is Europe's l
 - **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://cplrefractories.co.uk/about/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://cplindustries.co.uk/cpl-building-biochar-plant/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.resolute-project.eu/coal-products-limited/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/cpl-industries/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

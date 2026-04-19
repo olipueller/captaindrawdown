@@ -8,14 +8,16 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** United States
-**Website:** [https://biocharimpact.com/](https://biocharimpact.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~1 (-67% YoY)
-**CDR Focus:** ecosystem
-**Evidence signals:** exa_search
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://biocharimpact.com/" target="_blank" rel="noopener">https://biocharimpact.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/the-biochar-impact-company/" target="_blank" rel="noopener">the-biochar-impact-company</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~1 (-67% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -28,8 +30,6 @@ The Biochar Impact Company is a biochar-focused advisory/consulting firm that he
 - **2026-04-19** — liveliness: 🟠 Suspect → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Biochar focus=ecosystem liveliness=🟠 Suspect ([source](https://biocharimpact.com/))
 - **2026-04-19** — discovered via: exa ([source](https://biocharimpact.com/))
-
-[View on LinkedIn](https://www.linkedin.com/company/the-biochar-impact-company/)
 
 ---
 

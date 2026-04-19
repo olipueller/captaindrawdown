@@ -8,15 +8,17 @@ pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Enabling Tech
-**Secondary pathways:** Afforestation, Biochar
-**Method:** Unknown
-**Country:** United States
-**Website:** [https://trustedcarbon.org/](https://trustedcarbon.org/)
-**Status:** 🟡 Moderate (score: 55/100)
-**LinkedIn Followers:** 739
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Secondary pathways</th><td>Afforestation, Biochar</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://trustedcarbon.org/" target="_blank" rel="noopener">https://trustedcarbon.org/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/trusted-carbon/" target="_blank" rel="noopener">trusted-carbon — 739 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -30,8 +32,6 @@ Trusted Carbon is a carbon credit platform focused on nature-based carbon remova
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟠 Suspect ([source](https://trustedcarbon.org/company/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://trustedcarbon.org ([source](https://www.cdr.fyi/marketplace/trusted-carbon))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/trusted-carbon))
-
-[View on LinkedIn](https://www.linkedin.com/company/trusted-carbon/)
 
 ---
 

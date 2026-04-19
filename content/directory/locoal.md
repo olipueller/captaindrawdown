@@ -8,16 +8,17 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Secondary pathways:** Enabling Tech
-**Method:** Biochar
-**Country:** United States
-**Website:** [https://www.locoal.com/](https://www.locoal.com/)
-**Status:** 🟢 Active (score: 78/100)
-**Employees:** ~19 (-10% YoY)
-**LinkedIn Followers:** 2,320
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://www.locoal.com/" target="_blank" rel="noopener">https://www.locoal.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/locoal/" target="_blank" rel="noopener">locoal — 2,320 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 78/100)</td></tr>
+  <tr><th>Employees</th><td>~19 (-10% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -33,9 +34,7 @@ LOCOAL is a Texas-based waste-to-energy company operating a biochar pilot plant 
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://spectrumlocalnews.com/tx/south-texas-el-paso/news/2021/08/11/texas-startup-turns-old-wood-into-new-energy))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.locoal.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.locoal.com/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/locoal/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

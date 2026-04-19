@@ -8,16 +8,17 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Secondary pathways:** Enabling Tech
-**Method:** Biochar
-**Country:** United Kingdom
-**Website:** [https://capchar.com/](https://capchar.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~7
-**LinkedIn Followers:** 802
-**CDR Focus:** supplier
-**Evidence signals:** brave_search
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
+  <tr><th>Country</th><td>United Kingdom</td></tr>
+  <tr><th>Website</th><td><a href="https://capchar.com/" target="_blank" rel="noopener">https://capchar.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/capchar/" target="_blank" rel="noopener">capchar — 802 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~7</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -31,8 +32,6 @@ CapChar is a UK carbon removal company developing on-farm biochar production tec
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://capchar.com/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://capchar.com/))
 - **2026-04-18** — discovered via: brave ([source](https://capchar.com/))
-
-[View on LinkedIn](https://www.linkedin.com/company/capchar/)
 
 ---
 

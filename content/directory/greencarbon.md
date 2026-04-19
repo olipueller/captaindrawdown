@@ -8,16 +8,18 @@ pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Enabling Tech
-**Secondary pathways:** Afforestation, Biochar
-**Method:** Unknown
-**Country:** Netherlands
-**Website:** [https://www.greencarbon.nl](https://www.greencarbon.nl)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~3 (0% YoY)
-**LinkedIn Followers:** 35
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Secondary pathways</th><td>Afforestation, Biochar</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Netherlands</td></tr>
+  <tr><th>Website</th><td><a href="https://www.greencarbon.nl" target="_blank" rel="noopener">https://www.greencarbon.nl</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/greencarbon-bv/" target="_blank" rel="noopener">greencarbon-bv — 35 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~3 (0% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -33,8 +35,6 @@ Greencarbon is a Dutch broker/marketplace for CO2 removal certificates based in 
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://greencarbon.nl/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.greencarbon.nl ([source](https://www.cdr.fyi/supplier/greencarbon))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/greencarbon))
-
-[View on LinkedIn](https://www.linkedin.com/company/greencarbon-bv/)
 
 ---
 

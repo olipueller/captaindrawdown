@@ -8,14 +8,15 @@ pathway: "Biochar"
 liveliness: "🟠 Suspect"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** Canada
-**Website:** [https://www.greencarbonproducts.com/](https://www.greencarbonproducts.com/)
-**Status:** 🟠 Suspect (score: 40/100)
-**LinkedIn Followers:** 85
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>Canada</td></tr>
+  <tr><th>Website</th><td><a href="https://www.greencarbonproducts.com/" target="_blank" rel="noopener">https://www.greencarbonproducts.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/green-carbon-products/" target="_blank" rel="noopener">green-carbon-products — 85 followers</a></td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -30,9 +31,7 @@ Green Carbon Products is a small Ontario-based biochar producer and retailer. Th
 - **2026-04-19** — liveliness: 🟡 Moderate → 🟠 Suspect ([source](https://www.cdr.fyi/blog/cdr-monthly-recap-september-2025))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.greencarbonproducts.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.greencarbonproducts.com/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/green-carbon-products/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

@@ -8,16 +8,18 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Secondary pathways:** Enabling Tech
-**Method:** Unknown
-**Country:** United States
-**Website:** [https://biochar-international.org/](https://biochar-international.org/)
-**Status:** 🟢 Active (score: 85/100)
-**Employees:** ~16 (+14% YoY)
-**LinkedIn Followers:** 16,843
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://biochar-international.org/" target="_blank" rel="noopener">https://biochar-international.org/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/international-biochar-initiative/" target="_blank" rel="noopener">international-biochar-initiative — 16,843 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Employees</th><td>~16 (+14% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -30,8 +32,6 @@ The International Biochar Initiative (IBI) is a U.S.-based 501(c)(3) nonprofit m
 - **2026-04-19** — reclassified: pathway=Biochar focus=ecosystem liveliness=🟢 Active ([source](https://biochar-international.org/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://biochar-international.org/ ([source](https://www.cdr.fyi/marketplace/international-biochar-initiative))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/international-biochar-initiative))
-
-[View on LinkedIn](https://www.linkedin.com/company/international-biochar-initiative/)
 
 ---
 

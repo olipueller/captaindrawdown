@@ -8,15 +8,17 @@ pathway: "Mineralization"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Mineralization
-**Method:** Mineralization (Other)
-**Country:** Bahamas
-**Website:** [https://partanna.com/](https://partanna.com/)
-**Status:** 🟢 Active (score: 90/100)
-**Employees:** ~3 (-73% YoY)
-**LinkedIn Followers:** 7,886
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, registry_verra
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Mineralization</td></tr>
+  <tr><th>Method</th><td>Mineralization (Other)</td></tr>
+  <tr><th>Country</th><td>Bahamas</td></tr>
+  <tr><th>Website</th><td><a href="https://partanna.com/" target="_blank" rel="noopener">https://partanna.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/partannaglobal/" target="_blank" rel="noopener">partannaglobal — 7,886 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Employees</th><td>~3 (-73% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -35,9 +37,7 @@ Partanna Global is a Bahamian advanced materials company co-founded by former NB
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://industrytoday.com/partanna-makes-senior-hires-as-it-continues-to-scale/))
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://partanna.com/))
 - **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://partanna.com/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/partannaglobal/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

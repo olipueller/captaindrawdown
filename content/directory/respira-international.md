@@ -8,15 +8,18 @@ pathway: "Afforestation"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Afforestation
-**Secondary pathways:** BECCS, DAC
-**Method:** Unknown
-**Country:** United Kingdom
-**Website:** [https://www.respira-international.com/](https://www.respira-international.com/)
-**Status:** 🟡 Moderate (score: 65/100)
-**Employees:** ~8 (-56% YoY)
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Afforestation</td></tr>
+  <tr><th>Secondary pathways</th><td>BECCS, DAC</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>United Kingdom</td></tr>
+  <tr><th>Website</th><td><a href="https://www.respira-international.com/" target="_blank" rel="noopener">https://www.respira-international.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/respira-international/" target="_blank" rel="noopener">respira-international</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 65/100)</td></tr>
+  <tr><th>Employees</th><td>~8 (-56% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -31,8 +34,6 @@ Respira International is a London-based impact-driven carbon finance business th
 - **2026-04-19** — reclassified: pathway=Afforestation focus=ecosystem liveliness=🟡 Moderate ([source](https://www.respira-international.com/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.respira-international.com/ ([source](https://www.cdr.fyi/marketplace/respira))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/respira))
-
-[View on LinkedIn](https://www.linkedin.com/company/respira-international/)
 
 ---
 

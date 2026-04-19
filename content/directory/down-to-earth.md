@@ -8,15 +8,17 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Method:** Unknown
-**Country:** Norway
-**Website:** [https://www.downcarbon.earth/](https://www.downcarbon.earth/)
-**Status:** 🟡 Moderate (score: 70/100)
-**Employees:** ~7 (0% YoY)
-**LinkedIn Followers:** 1,092
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Norway</td></tr>
+  <tr><th>Website</th><td><a href="https://www.downcarbon.earth/" target="_blank" rel="noopener">https://www.downcarbon.earth/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/dte-carbonremoval/" target="_blank" rel="noopener">dte-carbonremoval — 1,092 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 70/100)</td></tr>
+  <tr><th>Employees</th><td>~7 (0% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -29,8 +31,6 @@ Down to Earth (formerly Norsk Karbonlagring) is a Norwegian carbon removal compa
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.downcarbon.earth/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.downcarbon.earth/ ([source](https://www.cdr.fyi/marketplace/down-to-earth))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/down-to-earth))
-
-[View on LinkedIn](https://www.linkedin.com/company/dte-carbonremoval/)
 
 ---
 

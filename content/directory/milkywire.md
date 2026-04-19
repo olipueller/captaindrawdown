@@ -8,15 +8,16 @@ pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Enabling Tech
-**Method:** Enabling Tech
-**Country:** Sweden
-**Website:** [https://www.milkywire.com](https://www.milkywire.com)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~29 (-3% YoY)
-**LinkedIn Followers:** 9,748
-**CDR Focus:** ecosystem
-**Evidence signals:** news_mention
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Country</th><td>Sweden</td></tr>
+  <tr><th>Website</th><td><a href="https://www.milkywire.com" target="_blank" rel="noopener">https://www.milkywire.com</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/milkywire/" target="_blank" rel="noopener">milkywire — 9,748 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~29 (-3% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -32,8 +33,6 @@ Stockholm-based Milkywire is an impact platform that channels corporate funding 
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://milkywire.com/articles/new-cdr-2025))
 - **2026-04-18** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.milkywire.com/articles/open-call))
 - **2026-04-18** — discovered via: news_feed ([source](https://medium.com/milkywire/why-is-it-so-difficult-to-fund-projects-that-reduce-emissions-ef1f85c08fc7))
-
-[View on LinkedIn](https://www.linkedin.com/company/milkywire/)
 
 ---
 

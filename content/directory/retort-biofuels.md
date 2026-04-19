@@ -8,13 +8,14 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** India
-**Website:** [https://www.indiamart.com/retort-biofuels/](https://www.indiamart.com/retort-biofuels/)
-**Status:** 🟢 Active (score: 70/100)
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>India</td></tr>
+  <tr><th>Website</th><td><a href="https://www.indiamart.com/retort-biofuels/" target="_blank" rel="noopener">https://www.indiamart.com/retort-biofuels/</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -30,7 +31,7 @@ Retort Biofuels is a small Jaipur, India-based producer of biochar and wood vine
 - **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active ([source](N/A))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.indiamart.com/retort-biofuels/other-products.html))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.indiamart.com/retort-biofuels/other-products.html))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

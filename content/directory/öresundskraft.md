@@ -8,15 +8,16 @@ pathway: "BECCS"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** BECCS
-**Method:** BECCS
-**Country:** Sweden
-**Website:** [https://www.oresundskraft.se/](https://www.oresundskraft.se/)
-**Status:** 🟢 Active (score: 90/100)
-**Employees:** ~428 (+9% YoY)
-**LinkedIn Followers:** 11,144
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, registry_cdrjobsearth
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>BECCS</td></tr>
+  <tr><th>Country</th><td>Sweden</td></tr>
+  <tr><th>Website</th><td><a href="https://www.oresundskraft.se/" target="_blank" rel="noopener">https://www.oresundskraft.se/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/oresundskraft-ab/" target="_blank" rel="noopener">oresundskraft-ab — 11,144 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Employees</th><td>~428 (+9% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -40,9 +41,7 @@ liveliness: "🟢 Active"
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.energimyndigheten.se/en/news/2025/228-million-sek-to-oresundskraft-major-investment-ccs-helsingborg/))
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.energimyndigheten.se/en/news/2025/228-million-sek-to-oresundskraft-major-investment-ccs-helsingborg/))
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.energimyndigheten.se/en/news/2025/228-million-sek-to-oresundskraft-major-investment-ccs-helsingborg/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/oresundskraft-ab/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

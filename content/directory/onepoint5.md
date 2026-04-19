@@ -8,13 +8,14 @@ pathway: "Biochar"
 liveliness: "🟠 Suspect"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** India
-**Website:** [https://www.onepoint5.org/](https://www.onepoint5.org/)
-**Status:** 🟠 Suspect (score: 40/100)
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>India</td></tr>
+  <tr><th>Website</th><td><a href="https://www.onepoint5.org/" target="_blank" rel="noopener">https://www.onepoint5.org/</a></td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -29,7 +30,7 @@ OnePoint5 is an India-based biochar carbon removal supplier that converts agricu
 - **2026-04-19** — liveliness: 🟡 Moderate → 🟠 Suspect ([source](https://www.safinvestor.com/event/145508/saf-investor-london-2025/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.onepoint5.org/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.onepoint5.org/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

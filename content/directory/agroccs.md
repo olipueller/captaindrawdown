@@ -8,15 +8,16 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** Netherlands
-**Website:** [https://agroccs.com/](https://agroccs.com/)
-**Status:** 🟢 Active (score: 70/100)
-**Employees:** ~3 (+50% YoY)
-**LinkedIn Followers:** 503
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>Netherlands</td></tr>
+  <tr><th>Website</th><td><a href="https://agroccs.com/" target="_blank" rel="noopener">https://agroccs.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/agro-ccs/" target="_blank" rel="noopener">agro-ccs — 503 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Employees</th><td>~3 (+50% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -32,9 +33,7 @@ AgroCCS B.V. is a Dutch-registered biochar project developer operating in the Va
 - **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.linkedin.com/posts/agro-ccs_agroccs-carbonremoval-biochar-activity-7307710950319550465-f8pS))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://agroccs.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://agroccs.com/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/agro-ccs/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

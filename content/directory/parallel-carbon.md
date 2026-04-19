@@ -8,16 +8,18 @@ pathway: "DAC"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** DAC
-**Secondary pathways:** Enabling Tech
-**Method:** DAC (Solid Sorbent)
-**Country:** United Kingdom
-**Website:** [https://www.parallelcarbon.com/](https://www.parallelcarbon.com/)
-**Status:** 🟢 Active (score: 85/100)
-**Employees:** ~10 (0% YoY)
-**LinkedIn Followers:** 3,003
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>DAC</td></tr>
+  <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
+  <tr><th>Country</th><td>United Kingdom</td></tr>
+  <tr><th>Website</th><td><a href="https://www.parallelcarbon.com/" target="_blank" rel="noopener">https://www.parallelcarbon.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/parallel-carbon/" target="_blank" rel="noopener">parallel-carbon — 3,003 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Employees</th><td>~10 (0% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -33,9 +35,7 @@ Parallel Carbon is a Manchester, UK-based startup (founded 2021) developing an i
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.parallelcarbon.com/post/parallel-carbon-unlocking-cost-effective-carbon-removal-and-hydrogen-co-production))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.parallelcarbon.com/))
 - **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.parallelcarbon.com/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/parallel-carbon/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

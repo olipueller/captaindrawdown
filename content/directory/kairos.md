@@ -8,16 +8,18 @@ pathway: "BECCS"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** BECCS
-**Secondary pathways:** Biomass Burial
-**Method:** Enabling Tech
-**Country:** United Kingdom
-**Website:** [https://www.kairoscarbon.com/](https://www.kairoscarbon.com/)
-**Status:** 🟢 Active (score: 78/100)
-**Employees:** ~6 (+50% YoY)
-**LinkedIn Followers:** 799
-**CDR Focus:** supplier
-**Evidence signals:** llm_web_search
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>BECCS</td></tr>
+  <tr><th>Secondary pathways</th><td>Biomass Burial</td></tr>
+  <tr><th>Method</th><td>Enabling Tech</td></tr>
+  <tr><th>Country</th><td>United Kingdom</td></tr>
+  <tr><th>Website</th><td><a href="https://www.kairoscarbon.com/" target="_blank" rel="noopener">https://www.kairoscarbon.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/kairos-carbon/" target="_blank" rel="noopener">kairos-carbon — 799 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 78/100)</td></tr>
+  <tr><th>Employees</th><td>~6 (+50% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -32,14 +34,12 @@ Kairos Carbon is a UK-based carbon dioxide removal startup (incorporated April 2
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://milkywire.com/articles/new-cdr-2025))
 - **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.zerocarbon.vc/post/breaking-the-cdr-energy-barrier-zcc-invests-in-kairos-carbon))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 - **** — merged duplicate: Kairos Carbon (slug=kairos-carbon)
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.kairoscarbon.com/))
 - **2026-04-19** — reclassified: pathway=BECCS focus=review_needed liveliness=🟡 Moderate ([source](https://www.kairoscarbon.com/news))
 - **2026-04-18** — discovered via: web_search_ai ([source](https://kairos.earth))
-
-[View on LinkedIn](https://www.linkedin.com/company/kairos-carbon/)
 
 ---
 

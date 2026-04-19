@@ -8,16 +8,18 @@ pathway: "Ocean CDR"
 liveliness: "🟠 Suspect"
 ---
 
-**Pathway:** Ocean CDR
-**Secondary pathways:** Biochar, Biomass Burial
-**Method:** Marine CDR (Other)
-**Country:** United Kingdom
-**Website:** [https://www.seafields.eco/](https://www.seafields.eco/)
-**Status:** 🟠 Suspect (score: 40/100)
-**Employees:** ~20 (0% YoY)
-**LinkedIn Followers:** 2,369
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Ocean CDR</td></tr>
+  <tr><th>Secondary pathways</th><td>Biochar, Biomass Burial</td></tr>
+  <tr><th>Method</th><td>Marine CDR (Other)</td></tr>
+  <tr><th>Country</th><td>United Kingdom</td></tr>
+  <tr><th>Website</th><td><a href="https://www.seafields.eco/" target="_blank" rel="noopener">https://www.seafields.eco/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/seafieldssl/" target="_blank" rel="noopener">seafieldssl — 2,369 followers</a></td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Employees</th><td>~20 (0% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -39,9 +41,7 @@ Seafields is a UK-based aquaculture company that intercepts and farms pelagic Sa
 - **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://carbonherald.com/seafields-is-gathering-funds-to-turn-coastal-seaweed-crisis-into-a-cdr-solution/))
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.seafields.eco/))
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.seafields.eco/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/seafieldssl/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

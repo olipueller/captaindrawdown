@@ -8,15 +8,17 @@ pathway: "DAC"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** DAC
-**Method:** DAC (Other/Undisclosed)
-**Country:** Italy
-**Website:** [https://www.carpecarbon.com/](https://www.carpecarbon.com/)
-**Status:** 🟢 Active (score: 70/100)
-**Employees:** ~16 (+23% YoY)
-**LinkedIn Followers:** 3,267
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>DAC</td></tr>
+  <tr><th>Method</th><td>DAC (Other/Undisclosed)</td></tr>
+  <tr><th>Country</th><td>Italy</td></tr>
+  <tr><th>Website</th><td><a href="https://www.carpecarbon.com/" target="_blank" rel="noopener">https://www.carpecarbon.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carpecarbon/" target="_blank" rel="noopener">carpecarbon — 3,267 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Employees</th><td>~16 (+23% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -31,9 +33,7 @@ CarpeCarbon is a Turin-based Italian climate-tech startup founded in 2022 develo
 - **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://carpecarbon.com/news-events/different-acronyms-for-different-technologies-it-is-not-easy-to-find-your-way-around-the-world-of-carbon-capture/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://carpecarbon.com/))
 - **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://carpecarbon.com/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/carpecarbon/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

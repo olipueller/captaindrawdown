@@ -8,16 +8,18 @@ pathway: "Mineralization"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Mineralization
-**Method:** Carbon Mineralization
-**Country:** Iceland
-**Website:** [https://www.carbfix.com/](https://www.carbfix.com/)
-**Status:** 🟢 Active (score: 95/100)
-**Employees:** ~51 (-7% YoY)
-**LinkedIn Followers:** 30,730
-**Open roles on cdrjobs:** 1
-**CDR Focus:** division
-**Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Mineralization</td></tr>
+  <tr><th>Method</th><td>Carbon Mineralization</td></tr>
+  <tr><th>Country</th><td>Iceland</td></tr>
+  <tr><th>Website</th><td><a href="https://www.carbfix.com/" target="_blank" rel="noopener">https://www.carbfix.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbfix/" target="_blank" rel="noopener">carbfix — 30,730 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
+  <tr><th>Employees</th><td>~51 (-7% YoY)</td></tr>
+  <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
+  <tr><th>CDR Focus</th><td>division</td></tr>
+</table>
 
 ## About
 
@@ -34,9 +36,7 @@ Carbfix is an Icelandic carbon mineralization company and subsidiary of Reykjav�
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Mineralization focus=division liveliness=🟢 Active ([source](https://www.carbfix.com/))
 - **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.carbfix.com/))
-- **2026-04-18** — backfilled from V1
-
-[View on LinkedIn](https://www.linkedin.com/company/carbfix/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

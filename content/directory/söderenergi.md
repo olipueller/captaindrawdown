@@ -8,15 +8,16 @@ pathway: "BECCS"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** BECCS
-**Method:** BECCS
-**Country:** Sweden
-**Website:** [https://www.soderenergi.se/](https://www.soderenergi.se/)
-**Status:** 🟢 Active (score: 70/100)
-**Employees:** ~137 (+9% YoY)
-**LinkedIn Followers:** 3,464
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>BECCS</td></tr>
+  <tr><th>Country</th><td>Sweden</td></tr>
+  <tr><th>Website</th><td><a href="https://www.soderenergi.se/" target="_blank" rel="noopener">https://www.soderenergi.se/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/s%c3%b6derenergi-ab/" target="_blank" rel="noopener">s%c3%b6derenergi-ab — 3,464 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Employees</th><td>~137 (+9% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -37,9 +38,7 @@ Söderenergi is a Swedish municipal energy utility (owned by Södertälje, Huddi
 - **2026-04-19** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://storageterminalsmag.com/soderenergi-pauses-carbon-capture-project/))
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟠 Suspect ([source](https://www.soderenergi.se/english/))
 - **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness=🟠 Suspect ([source](https://bioenergyinternational.com/soderenergi-pauses-beccs-project/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/s%c3%b6derenergi-ab/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

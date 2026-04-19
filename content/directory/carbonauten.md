@@ -8,16 +8,17 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Secondary pathways:** BECCS
-**Method:** Biochar
-**Country:** Germany
-**Website:** [https://carbonauten.com/en/](https://carbonauten.com/en/)
-**Status:** 🟢 Active (score: 85/100)
-**Employees:** ~1 (-50% YoY)
-**LinkedIn Followers:** 585
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>BECCS</td></tr>
+  <tr><th>Country</th><td>Germany</td></tr>
+  <tr><th>Website</th><td><a href="https://carbonauten.com/en/" target="_blank" rel="noopener">https://carbonauten.com/en/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonauten-polymers/" target="_blank" rel="noopener">carbonauten-polymers — 585 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Employees</th><td>~1 (-50% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -33,9 +34,7 @@ Carbonauten GmbH is a German cleantech company (founded 2017, HQ in Giengen an d
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://ambivation.com/2024/12/26/fuck-co2-carbonauten-and-arburg-cooperate-in-the-production-of-co2-negative-materials/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://carbonauten.com/en/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://ndion.de/en/carbonauten-biochar/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/carbonauten-polymers/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

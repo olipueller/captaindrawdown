@@ -8,15 +8,17 @@ pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Enabling Tech
-**Method:** Unknown
-**Country:** Singapore
-**Website:** [https://acx.net/](https://acx.net/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~33 (-20% YoY)
-**LinkedIn Followers:** 16,196
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Singapore</td></tr>
+  <tr><th>Website</th><td><a href="https://acx.net/" target="_blank" rel="noopener">https://acx.net/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/aircarbon-pte-ltd/" target="_blank" rel="noopener">aircarbon-pte-ltd — 16,196 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~33 (-20% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -37,8 +39,6 @@ ACX (AirCarbon Exchange) is a global digital exchange for environmental instrume
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://acx.net/))
 - **2026-04-19** — url added from cdr.fyi supplier page: http://www.acx.net ([source](https://www.cdr.fyi/marketplace/acx-(aircarbon-exchange)))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/acx-(aircarbon-exchange)))
-
-[View on LinkedIn](https://www.linkedin.com/company/aircarbon-pte-ltd/)
 
 ---
 

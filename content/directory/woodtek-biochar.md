@@ -8,13 +8,14 @@ pathway: "Biochar"
 liveliness: "🟠 Suspect"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** United Kingdom
-**Website:** [https://www.woodtekbiochar.com/](https://www.woodtekbiochar.com/)
-**Status:** 🟠 Suspect (score: 40/100)
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>United Kingdom</td></tr>
+  <tr><th>Website</th><td><a href="https://www.woodtekbiochar.com/" target="_blank" rel="noopener">https://www.woodtekbiochar.com/</a></td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -29,7 +30,7 @@ Woodtek Engineering is a family-run business based in Mid Wales designing and ma
 - **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://biochartoday.com/news/ibi-study-tour-day-2-woodtek-biochar/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://biochartoday.com/news/ibi-study-tour-day-2-woodtek-biochar/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.onnu.com/projects/biodynamic-carbon))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

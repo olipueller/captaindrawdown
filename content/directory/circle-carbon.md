@@ -8,15 +8,17 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Method:** Unknown
-**Country:** Spain
-**Website:** [https://circlecarbon.com/](https://circlecarbon.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~1 (0% YoY)
-**LinkedIn Followers:** 262
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Spain</td></tr>
+  <tr><th>Website</th><td><a href="https://circlecarbon.com/" target="_blank" rel="noopener">https://circlecarbon.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/circlecarbon/" target="_blank" rel="noopener">circlecarbon — 262 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~1 (0% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -28,8 +30,6 @@ Circle Carbon Labs is a Mallorca, Spain-based social enterprise producing biocha
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://circlecarbon.com/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/circle-carbon))
-
-[View on LinkedIn](https://www.linkedin.com/company/circlecarbon/)
 
 ---
 

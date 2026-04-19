@@ -8,15 +8,17 @@ pathway: "Afforestation"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Afforestation
-**Method:** Unknown
-**Country:** United States
-**Website:** [https://www.appalachiancarbonexchange.com/](https://www.appalachiancarbonexchange.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~4
-**LinkedIn Followers:** 284
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Afforestation</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://www.appalachiancarbonexchange.com/" target="_blank" rel="noopener">https://www.appalachiancarbonexchange.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/appalachian-carbon-exchange/" target="_blank" rel="noopener">appalachian-carbon-exchange — 284 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~4</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -31,8 +33,6 @@ Appalachian Carbon Exchange (ACE) is a non-profit based in Chattanooga, Tennesse
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.appalachiancarbonexchange.com/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/appalachian-carbon-exchange))
-
-[View on LinkedIn](https://www.linkedin.com/company/appalachian-carbon-exchange/)
 
 ---
 

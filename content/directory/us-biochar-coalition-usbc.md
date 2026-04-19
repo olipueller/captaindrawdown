@@ -8,16 +8,18 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Secondary pathways:** Enabling Tech
-**Method:** Unknown
-**Country:** United States
-**Website:** [https://usbiocharcoalition.org](https://usbiocharcoalition.org)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~6 (-14% YoY)
-**LinkedIn Followers:** 3,104
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://usbiocharcoalition.org" target="_blank" rel="noopener">https://usbiocharcoalition.org</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/u-s-biochar-coalition/" target="_blank" rel="noopener">u-s-biochar-coalition — 3,104 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~6 (-14% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -33,8 +35,6 @@ The U.S. Biochar Coalition (USBC) is a Washington, DC-based industry trade assoc
 - **2026-04-19** — reclassified: pathway=Biochar focus=ecosystem liveliness=🟢 Active ([source](https://usbiocharcoalition.org/team-1))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://usbiocharcoalition.org/ ([source](https://www.cdr.fyi/marketplace/us-biochar-coalition-(usbc)))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/us-biochar-coalition-(usbc)))
-
-[View on LinkedIn](https://www.linkedin.com/company/u-s-biochar-coalition/)
 
 ---
 

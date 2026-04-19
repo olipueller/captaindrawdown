@@ -8,16 +8,18 @@ pathway: "Enabling Tech"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Enabling Tech
-**Secondary pathways:** Biochar, Afforestation, DAC, Enhanced Weathering
-**Method:** Unknown
-**Country:** Netherlands
-**Website:** [https://www.cawa.tech/](https://www.cawa.tech/)
-**Status:** 🟢 Active (score: 80/100)
-**Employees:** ~6 (+100% YoY)
-**LinkedIn Followers:** 1,279
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Secondary pathways</th><td>Biochar, Afforestation, DAC, Enhanced Weathering</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Netherlands</td></tr>
+  <tr><th>Website</th><td><a href="https://www.cawa.tech/" target="_blank" rel="noopener">https://www.cawa.tech/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cawa-tech/" target="_blank" rel="noopener">cawa-tech — 1,279 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Employees</th><td>~6 (+100% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -30,8 +32,6 @@ Cawa is an Amsterdam-based software startup (founded 2022) that provides API inf
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.cawa.tech/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.cawa.tech/ ([source](https://www.cdr.fyi/marketplace/cawa))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/cawa))
-
-[View on LinkedIn](https://www.linkedin.com/company/cawa-tech/)
 
 ---
 

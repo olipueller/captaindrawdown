@@ -8,15 +8,17 @@ pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Enabling Tech
-**Method:** Unknown
-**Country:** Netherlands
-**Website:** [https://remove.global/](https://remove.global/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~24 (0% YoY)
-**LinkedIn Followers:** 8,398
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Netherlands</td></tr>
+  <tr><th>Website</th><td><a href="https://remove.global/" target="_blank" rel="noopener">https://remove.global/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cdr-accelerator/" target="_blank" rel="noopener">cdr-accelerator — 8,398 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~24 (0% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -32,8 +34,6 @@ remove is a non-profit accelerator program focused solely on carbon dioxide remo
 - **2026-04-19** — url added from cdr.fyi supplier page: https://remove.global/ ([source](https://www.cdr.fyi/marketplace/remove))
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://remove.global/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/remove))
-
-[View on LinkedIn](https://www.linkedin.com/company/cdr-accelerator/)
 
 ---
 

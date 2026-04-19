@@ -8,16 +8,18 @@ pathway: "BECCS"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** BECCS
-**Secondary pathways:** DAC
-**Method:** DAC (Other/Undisclosed)
-**Country:** Netherlands
-**Website:** [https://www.scwsystems.com/](https://www.scwsystems.com/)
-**Status:** 🟢 Active (score: 90/100)
-**Employees:** ~72 (-23% YoY)
-**LinkedIn Followers:** 3,820
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>BECCS</td></tr>
+  <tr><th>Secondary pathways</th><td>DAC</td></tr>
+  <tr><th>Method</th><td>DAC (Other/Undisclosed)</td></tr>
+  <tr><th>Country</th><td>Netherlands</td></tr>
+  <tr><th>Website</th><td><a href="https://www.scwsystems.com/" target="_blank" rel="noopener">https://www.scwsystems.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/scw-systems/" target="_blank" rel="noopener">scw-systems — 3,820 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Employees</th><td>~72 (-23% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -40,9 +42,7 @@ SCW Systems is a Dutch climate-tech company headquartered in Alkmaar that operat
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://tracxn.com/d/companies/scw-systems/__hOHKyc6IYxk3Js88F7noQAnbzcnYjmEtfhIalUBdUEY/funding-and-investors))
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.scwsystems.com/co2-cleanup))
 - **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.scwsystems.com/co2-cleanup))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/scw-systems/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

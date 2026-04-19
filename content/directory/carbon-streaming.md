@@ -8,16 +8,18 @@ pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Enabling Tech
-**Secondary pathways:** Biochar, Afforestation
-**Method:** Unknown
-**Country:** Canada
-**Website:** [https://www.carbonstreaming.com/](https://www.carbonstreaming.com/)
-**Status:** 🟡 Moderate (score: 65/100)
-**Employees:** ~5
-**LinkedIn Followers:** 5,759
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Secondary pathways</th><td>Biochar, Afforestation</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Canada</td></tr>
+  <tr><th>Website</th><td><a href="https://www.carbonstreaming.com/" target="_blank" rel="noopener">https://www.carbonstreaming.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-streaming-corp/" target="_blank" rel="noopener">carbon-streaming-corp — 5,759 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 65/100)</td></tr>
+  <tr><th>Employees</th><td>~5</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -32,8 +34,6 @@ Carbon Streaming Corporation is a publicly traded (NETZ/OFSTF) carbon credit str
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟡 Moderate ([source](https://www.carbonstreaming.com/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.carbonstreaming.com/ ([source](https://www.cdr.fyi/supplier/carbon-streaming))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/carbon-streaming))
-
-[View on LinkedIn](https://www.linkedin.com/company/carbon-streaming-corp/)
 
 ---
 

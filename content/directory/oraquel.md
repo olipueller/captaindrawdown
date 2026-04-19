@@ -8,13 +8,15 @@ pathway: "DAC"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** DAC
-**Method:** DAC (Solid Sorbent)
-**Country:** Poland
-**Website:** [https://www.oraquel.com/](https://www.oraquel.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>DAC</td></tr>
+  <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
+  <tr><th>Country</th><td>Poland</td></tr>
+  <tr><th>Website</th><td><a href="https://www.oraquel.com/" target="_blank" rel="noopener">https://www.oraquel.com/</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -29,7 +31,7 @@ Oraquel S.A. is a Warsaw-based direct air capture technology developer (referenc
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.oraquel.com/de/how-many-liters-of-water-are-there-in-the-world-de))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://carbonherald.com/poland-to-introduce-its-first-direct-air-capture-pilot/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://www.oraquel.com/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

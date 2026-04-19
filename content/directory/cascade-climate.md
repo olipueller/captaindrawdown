@@ -8,17 +8,19 @@ pathway: "Enhanced Weathering"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Enhanced Weathering
-**Secondary pathways:** Enabling Tech
-**Method:** CDR Platform/Marketplace
-**Country:** United States
-**Website:** [https://cascadeclimate.org/](https://cascadeclimate.org/)
-**Status:** 🟢 Active (score: 95/100)
-**Employees:** ~22 (+5% YoY)
-**LinkedIn Followers:** 7,556
-**Open roles on cdrjobs:** 3
-**CDR Focus:** ecosystem
-**Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enhanced Weathering</td></tr>
+  <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>CDR Platform/Marketplace</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://cascadeclimate.org/" target="_blank" rel="noopener">https://cascadeclimate.org/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cascade-climate/" target="_blank" rel="noopener">cascade-climate — 7,556 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
+  <tr><th>Employees</th><td>~22 (+5% YoY)</td></tr>
+  <tr><th>Open roles</th><td>3 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -35,9 +37,7 @@ Cascade Climate is a philanthropically-backed US nonprofit (launched June 2023) 
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=ecosystem liveliness=🟢 Active ([source](https://cascadeclimate.org/))
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=ecosystem liveliness=🟢 Active ([source](https://cascadeclimate.org/))
-- **2026-04-18** — backfilled from V1
-
-[View on LinkedIn](https://www.linkedin.com/company/cascade-climate/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

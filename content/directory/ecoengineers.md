@@ -8,15 +8,17 @@ pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Enabling Tech
-**Method:** Unknown
-**Country:** United States
-**Website:** [https://www.ecoengineers.us/](https://www.ecoengineers.us/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~104 (-25% YoY)
-**LinkedIn Followers:** 12,858
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://www.ecoengineers.us/" target="_blank" rel="noopener">https://www.ecoengineers.us/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ecoengineers/" target="_blank" rel="noopener">ecoengineers — 12,858 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~104 (-25% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -30,8 +32,6 @@ EcoEngineers is a Des Moines, Iowa-based consulting, auditing, and advisory firm
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.ecoengineers.us/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.ecoengineers.us/ ([source](https://www.cdr.fyi/marketplace/ecoengineers))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/ecoengineers))
-
-[View on LinkedIn](https://www.linkedin.com/company/ecoengineers/)
 
 ---
 

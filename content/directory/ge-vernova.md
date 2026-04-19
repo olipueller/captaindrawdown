@@ -8,15 +8,18 @@ pathway: "DAC"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** DAC
-**Method:** DAC (Solid Sorbent)
-**Country:** United States
-**Website:** [https://www.gevernova.com/gas-power/future-of-energy/direct-air-capture](https://www.gevernova.com/gas-power/future-of-energy/direct-air-capture)
-**Status:** 🟢 Active (score: 92/100)
-**Employees:** ~6535 (-1% YoY)
-**Open roles on cdrjobs:** 3
-**CDR Focus:** division
-**Evidence signals:** website, last_evidence_url, linkedin, cdrjobs, registry_cdrjobsearth
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>DAC</td></tr>
+  <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://www.gevernova.com/gas-power/future-of-energy/direct-air-capture" target="_blank" rel="noopener">https://www.gevernova.com/gas-power/future-of-energy/direct-air-capture</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/alstom-power/" target="_blank" rel="noopener">alstom-power</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Employees</th><td>~6535 (-1% YoY)</td></tr>
+  <tr><th>Open roles</th><td>3 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
+  <tr><th>CDR Focus</th><td>division</td></tr>
+</table>
 
 ## About
 
@@ -34,9 +37,7 @@ GE Vernova Inc. (NYSE: GEV) is a global energy technology company headquartered 
 - **2026-04-19** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://www.gevernova.com/news/press-releases/ge-vernova-deploy-pioneering-direct-air-capture-technology-deep-sky-alpha-canada))
 - **2026-04-19** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://www.gevernova.com/news/press-releases/ge-vernova-deploy-pioneering-direct-air-capture-technology-deep-sky-alpha-canada))
 - **2026-04-18** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://www.gevernova.com/news/press-releases/ge-vernova-deploy-pioneering-direct-air-capture-technology-deep-sky-alpha-canada))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/alstom-power/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

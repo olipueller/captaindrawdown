@@ -8,16 +8,18 @@ pathway: "Mineralization"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Mineralization
-**Secondary pathways:** Enhanced Weathering
-**Method:** Unknown
-**Country:** New Zealand
-**Website:** [https://www.aspiringmaterials.com/](https://www.aspiringmaterials.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~13 (0% YoY)
-**LinkedIn Followers:** 2,119
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Mineralization</td></tr>
+  <tr><th>Secondary pathways</th><td>Enhanced Weathering</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>New Zealand</td></tr>
+  <tr><th>Website</th><td><a href="https://www.aspiringmaterials.com/" target="_blank" rel="noopener">https://www.aspiringmaterials.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/aspiring-materials/" target="_blank" rel="noopener">aspiring-materials — 2,119 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~13 (0% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -31,8 +33,6 @@ Aspiring Materials is a Christchurch, New Zealand-based cleantech company that o
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.aspiringmaterials.com/faqs))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.aspiringmaterials.com/ ([source](https://www.cdr.fyi/supplier/aspiring-materials))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/aspiring-materials))
-
-[View on LinkedIn](https://www.linkedin.com/company/aspiring-materials/)
 
 ---
 

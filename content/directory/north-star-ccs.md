@@ -8,15 +8,16 @@ pathway: "BECCS"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** BECCS
-**Method:** BECCS
-**Country:** Canada
-**Website:** [https://www.carbonalpha.com/northstar](https://www.carbonalpha.com/northstar)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~10 (-29% YoY)
-**LinkedIn Followers:** 2,136
-**CDR Focus:** supplier
-**Evidence signals:** news_mention
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>BECCS</td></tr>
+  <tr><th>Country</th><td>Canada</td></tr>
+  <tr><th>Website</th><td><a href="https://www.carbonalpha.com/northstar" target="_blank" rel="noopener">https://www.carbonalpha.com/northstar</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-alpha/" target="_blank" rel="noopener">carbon-alpha — 2,136 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~10 (-29% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -38,8 +39,6 @@ North Star Carbon Solutions LP is Canada's first majority Indigenous-owned CDR p
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.carbonalpha.com/northstar))
 - **2026-04-19** — discovered via: news_feed ([source](https://www.gasworld.com/story/microsoft-signs-15-year-beccs-credit-deal-in-canada/2244832.article/))
-
-[View on LinkedIn](https://www.linkedin.com/company/carbon-alpha/)
 
 ---
 

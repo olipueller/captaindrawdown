@@ -8,14 +8,16 @@ pathway: "DAC"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** DAC
-**Secondary pathways:** Enabling Tech
-**Method:** DAC (Solid Sorbent)
-**Country:** United Kingdom
-**Website:** [https://www.orbitalmaterials.com](https://www.orbitalmaterials.com)
-**Status:** 🟡 Moderate (score: 55/100)
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>DAC</td></tr>
+  <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
+  <tr><th>Country</th><td>United Kingdom</td></tr>
+  <tr><th>Website</th><td><a href="https://www.orbitalmaterials.com" target="_blank" rel="noopener">https://www.orbitalmaterials.com</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -28,7 +30,7 @@ Orbital Materials is a UK/US advanced materials startup founded in 2022 that use
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://tracxn.com/d/companies/orbital-materials/__BnXe7XTnvbT8EtTO5E13os14IjecGZGmscLm-cFWR3Q))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.semafor.com/article/04/09/2025/data-center-in-uk-becomes-proving-ground-for-new-carbon-capture-technology-from-startup-orbital))
 - **2026-04-18** — reclassified: pathway=DAC focus=review_needed liveliness=🟢 Active ([source](https://www.crunchbase.com/organization/orbital-materials))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

@@ -8,15 +8,16 @@ pathway: "DAC"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** DAC
-**Method:** DAC
-**Country:** Austria
-**Website:** [https://dacworx.eu/](https://dacworx.eu/)
-**Status:** 🟢 Active (score: 78/100)
-**Employees:** ~3 (+200% YoY)
-**LinkedIn Followers:** 81
-**CDR Focus:** supplier
-**Evidence signals:** exa_search
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>DAC</td></tr>
+  <tr><th>Country</th><td>Austria</td></tr>
+  <tr><th>Website</th><td><a href="https://dacworx.eu/" target="_blank" rel="noopener">https://dacworx.eu/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/dacworx-engineering-gmbh/" target="_blank" rel="noopener">dacworx-engineering-gmbh — 81 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 78/100)</td></tr>
+  <tr><th>Employees</th><td>~3 (+200% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -36,8 +37,6 @@ DACworx is an Austrian direct air capture technology developer that co-designed 
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://dacworx.eu/))
 - **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://dacworx.eu/))
 - **2026-04-18** — discovered via: exa ([source](https://dacworx.eu/))
-
-[View on LinkedIn](https://www.linkedin.com/company/dacworx-engineering-gmbh/)
 
 ---
 

@@ -8,16 +8,17 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Secondary pathways:** BECCS
-**Method:** Biochar
-**Country:** Malaysia
-**Website:** [https://www.renewablesplus.com/](https://www.renewablesplus.com/)
-**Status:** 🟡 Moderate (score: 65/100)
-**Employees:** ~13
-**LinkedIn Followers:** 415
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>BECCS</td></tr>
+  <tr><th>Country</th><td>Malaysia</td></tr>
+  <tr><th>Website</th><td><a href="https://www.renewablesplus.com/" target="_blank" rel="noopener">https://www.renewablesplus.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/renewables-plus/" target="_blank" rel="noopener">renewables-plus — 415 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 65/100)</td></tr>
+  <tr><th>Employees</th><td>~13</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -33,9 +34,7 @@ Renewables Plus Sdn. Bhd. (R+) is a Malaysian biomass gasification specialist an
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.greenstories.org.uk/anthology-for-cop27/solutions/biochar/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.renewablesplus.com/about-us/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.renewablesplus.com/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/renewables-plus/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

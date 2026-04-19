@@ -8,16 +8,18 @@ pathway: "Enabling Tech"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Enabling Tech
-**Secondary pathways:** DAC, Ocean CDR, Enhanced Weathering, Mineralization
-**Method:** Unknown
-**Country:** France
-**Website:** [https://marble.studio/](https://marble.studio/)
-**Status:** 🟢 Active (score: 80/100)
-**Employees:** ~299 (+53% YoY)
-**LinkedIn Followers:** 20,775
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Secondary pathways</th><td>DAC, Ocean CDR, Enhanced Weathering, Mineralization</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>France</td></tr>
+  <tr><th>Website</th><td><a href="https://marble.studio/" target="_blank" rel="noopener">https://marble.studio/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/marble-climate/" target="_blank" rel="noopener">marble-climate — 20,775 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Employees</th><td>~299 (+53% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -30,8 +32,6 @@ Marble is a Paris-based climate-tech venture studio founded in 2021 by Benjamin 
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://marble.studio/about))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://marble.studio/ ([source](https://www.cdr.fyi/marketplace/marble))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/marble))
-
-[View on LinkedIn](https://www.linkedin.com/company/marble-climate/)
 
 ---
 

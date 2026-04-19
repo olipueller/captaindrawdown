@@ -8,16 +8,18 @@ pathway: "Mineralization"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Mineralization
-**Method:** Mineralization (Construction)
-**Country:** Kenya
-**Website:** [https://www.zencarbon.org/](https://www.zencarbon.org/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~6
-**LinkedIn Followers:** 399
-**CDI Portfolio Company**
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Mineralization</td></tr>
+  <tr><th>Method</th><td>Mineralization (Construction)</td></tr>
+  <tr><th>Country</th><td>Kenya</td></tr>
+  <tr><th>Website</th><td><a href="https://www.zencarbon.org/" target="_blank" rel="noopener">https://www.zencarbon.org/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/clitruct/" target="_blank" rel="noopener">clitruct — 399 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~6</td></tr>
+  <tr><th>CDI Portfolio</th><td>yes</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -32,9 +34,7 @@ ZEN Carbon is a Kenya-based startup developing reactor-driven CO₂ mineralizati
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://carbondrawdown.substack.com/p/portfolio-spotlight-zen-carbon-building))
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.zencarbon.org/))
 - **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.zencarbon.org/))
-- **2026-04-18** — backfilled from V1 ([source](https://www.carbon-drawdown.de/))
-
-[View on LinkedIn](https://www.linkedin.com/company/clitruct/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

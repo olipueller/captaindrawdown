@@ -8,15 +8,16 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** South Africa
-**Website:** [https://adsorb.co.za/](https://adsorb.co.za/)
-**Status:** 🟢 Active (score: 80/100)
-**Employees:** ~4 (-20% YoY)
-**LinkedIn Followers:** 90
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>South Africa</td></tr>
+  <tr><th>Website</th><td><a href="https://adsorb.co.za/" target="_blank" rel="noopener">https://adsorb.co.za/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/adsorb-technologies-pty-ltd/" target="_blank" rel="noopener">adsorb-technologies-pty-ltd — 90 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Employees</th><td>~4 (-20% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -33,9 +34,7 @@ Adsorb is a South African manufacturer of activated carbon operating a plant in 
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://adsorb.co.za/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.context.news/just-transition/biochar-boom-south-africa-bets-on-super-charcoal-for-green-jobs))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://adsorb.co.za/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/adsorb-technologies-pty-ltd/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

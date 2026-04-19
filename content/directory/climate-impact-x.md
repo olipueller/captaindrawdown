@@ -8,14 +8,17 @@ pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Enabling Tech
-**Method:** Unknown
-**Country:** Singapore
-**Website:** [https://www.climateimpactx.com/](https://www.climateimpactx.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~139 (-3% YoY)
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Singapore</td></tr>
+  <tr><th>Website</th><td><a href="https://www.climateimpactx.com/" target="_blank" rel="noopener">https://www.climateimpactx.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/new-york-mercantile-exchange/" target="_blank" rel="noopener">new-york-mercantile-exchange</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~139 (-3% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -29,8 +32,6 @@ Climate Impact X (CIX) is a Singapore-headquartered global carbon exchange and m
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://climateimpactx.com/about/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.climateimpactx.com/ ([source](https://www.cdr.fyi/marketplace/climate-impact-x))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/climate-impact-x))
-
-[View on LinkedIn](https://www.linkedin.com/company/new-york-mercantile-exchange/)
 
 ---
 

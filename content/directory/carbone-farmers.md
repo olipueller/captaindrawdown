@@ -8,16 +8,18 @@ pathway: "Afforestation"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Afforestation
-**Secondary pathways:** Enabling Tech
-**Method:** Unknown
-**Country:** France
-**Website:** [https://www.carbonefarmers.com/](https://www.carbonefarmers.com/)
-**Status:** 🟢 Active (score: 80/100)
-**Employees:** ~36 (+50% YoY)
-**LinkedIn Followers:** 6,234
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Afforestation</td></tr>
+  <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>France</td></tr>
+  <tr><th>Website</th><td><a href="https://www.carbonefarmers.com/" target="_blank" rel="noopener">https://www.carbonefarmers.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbone-farmers/" target="_blank" rel="noopener">carbone-farmers — 6,234 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Employees</th><td>~36 (+50% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -30,8 +32,6 @@ Carbone Farmers is a French project developer founded in 2021 that helps farmers
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.carbonefarmers.com/accueil/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.carbonefarmers.com/ ([source](https://www.cdr.fyi/supplier/carbone-farmers))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/carbone-farmers))
-
-[View on LinkedIn](https://www.linkedin.com/company/carbone-farmers/)
 
 ---
 

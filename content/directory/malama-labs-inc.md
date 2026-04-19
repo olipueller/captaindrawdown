@@ -8,16 +8,18 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Secondary pathways:** Enabling Tech
-**Method:** Unknown
-**Country:** United States
-**Website:** [https://www.malamalabs.com/](https://www.malamalabs.com/)
-**Status:** 🟢 Active (score: 72/100)
-**Employees:** ~3 (+50% YoY)
-**LinkedIn Followers:** 69
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://www.malamalabs.com/" target="_blank" rel="noopener">https://www.malamalabs.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/malama-labs-incorporated/" target="_blank" rel="noopener">malama-labs-incorporated — 69 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 72/100)</td></tr>
+  <tr><th>Employees</th><td>~3 (+50% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -31,8 +33,6 @@ Mālama Labs is a Hawaii-based carbon removal startup that produces biochar from
 - **2026-04-19** — url added from cdr.fyi supplier page: https://malamaproject.org ([source](https://www.cdr.fyi/supplier/malama-labs))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.malamalabs.com/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/malama-labs))
-
-[View on LinkedIn](https://www.linkedin.com/company/malama-labs-incorporated/)
 
 ---
 

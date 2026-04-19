@@ -8,15 +8,18 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Secondary pathways:** Enabling Tech
-**Method:** Unknown
-**Country:** Switzerland
-**Website:** [https://enchar.co/](https://enchar.co/)
-**Status:** 🟡 Moderate (score: 60/100)
-**Employees:** ~3 (0% YoY)
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Switzerland</td></tr>
+  <tr><th>Website</th><td><a href="https://enchar.co/" target="_blank" rel="noopener">https://enchar.co/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/enchar/" target="_blank" rel="noopener">enchar</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 60/100)</td></tr>
+  <tr><th>Employees</th><td>~3 (0% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -29,8 +32,6 @@ Enchar is a B2B biochar market-maker with a biochar supply database and expertis
 - **2026-04-19** — reclassified: pathway=Biochar focus=ecosystem liveliness=🟡 Moderate ([source](https://enchar.co/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://enchar.co/ ([source](https://www.cdr.fyi/marketplace/enchar))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/enchar))
-
-[View on LinkedIn](https://www.linkedin.com/company/enchar/)
 
 ---
 

@@ -8,14 +8,16 @@ pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Enabling Tech
-**Secondary pathways:** Biochar
-**Method:** Biochar
-**Country:** Netherlands
-**Website:** [https://www.actgroup.com/](https://www.actgroup.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**CDR Focus:** ecosystem
-**Evidence signals:** last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Secondary pathways</th><td>Biochar</td></tr>
+  <tr><th>Method</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>Netherlands</td></tr>
+  <tr><th>Website</th><td><a href="https://www.actgroup.com/" target="_blank" rel="noopener">https://www.actgroup.com/</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -33,7 +35,7 @@ ACT Group (founded 2009, headquartered in Amsterdam) is a global environmental c
 - **2026-04-19** — refresh: screenshot
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.actcommodities.com/))
 - **2026-04-18** — reclassified: pathway=Enabling Tech focus=buyer_excluded liveliness=🟢 Active ([source](https://www.actcommodities.com/))
-- **2026-04-18** — backfilled from V1
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 - **** — merged duplicate: ACT (slug=act)
 - **2026-04-19** — merged 1 duplicate(s): ACT Commodities
 - **2026-04-19** — refresh: liveliness
@@ -47,7 +49,7 @@ ACT Group (founded 2009, headquartered in Amsterdam) is a global environmental c
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://tracxn.com/d/companies/act/__GAJU5-yrR0sqroC2dU8aCTG3YwtV7m-Rp1lslgoR15Y/funding-and-investors))
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.actgroup.com/))
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.actgroup.com/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

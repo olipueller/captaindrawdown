@@ -8,16 +8,18 @@ pathway: "Enhanced Weathering"
 liveliness: "🟠 Suspect"
 ---
 
-**Pathway:** Enhanced Weathering
-**Method:** Enhanced Rock Weathering
-**Country:** Denmark
-**Website:** [https://www.rockflour.co/](https://www.rockflour.co/)
-**Status:** 🟠 Suspect (score: 40/100)
-**Employees:** ~8 (0% YoY)
-**LinkedIn Followers:** 2,071
-**CDI Portfolio Company**
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, registry_cdrjobsearth
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enhanced Weathering</td></tr>
+  <tr><th>Method</th><td>Enhanced Rock Weathering</td></tr>
+  <tr><th>Country</th><td>Denmark</td></tr>
+  <tr><th>Website</th><td><a href="https://www.rockflour.co/" target="_blank" rel="noopener">https://www.rockflour.co/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/rockflourcompany/" target="_blank" rel="noopener">rockflourcompany — 2,071 followers</a></td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Employees</th><td>~8 (0% YoY)</td></tr>
+  <tr><th>CDI Portfolio</th><td>yes</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -41,9 +43,7 @@ Rock Flour Company is a Danish/Greenlandic startup founded in 2023 by geologist 
 - **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.cleancluster.dk/en/case/rock-flour-company-receives-6-1-million/))
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://www.rockflour.co/))
 - **2026-04-18** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://www.rockflour.co/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/rockflourcompany/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

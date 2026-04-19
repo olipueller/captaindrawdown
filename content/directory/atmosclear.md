@@ -8,14 +8,16 @@ pathway: "BECCS"
 liveliness: "🟠 Suspect"
 ---
 
-**Pathway:** BECCS
-**Method:** BECCS
-**Country:** United States
-**Website:** [https://atmosclear.earth/](https://atmosclear.earth/)
-**Status:** 🟠 Suspect (score: 40/100)
-**Employees:** ~1
-**CDR Focus:** division
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>BECCS</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://atmosclear.earth/" target="_blank" rel="noopener">https://atmosclear.earth/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/atmosclearearth/" target="_blank" rel="noopener">atmosclearearth</a></td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Employees</th><td>~1</td></tr>
+  <tr><th>CDR Focus</th><td>division</td></tr>
+</table>
 
 ## About
 
@@ -30,9 +32,7 @@ AtmosClear BR, LLC is a portfolio company of Fidelis New Energy that in April 20
 - **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://esgnews.com/exxonmobil-secures-contract-to-store-atmosclears-biomass-co%E2%82%82-in-louisiana/))
 - **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://fidelisinfra.com/project/atmosclear/))
 - **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://atmosclear.earth/about/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/atmosclearearth/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

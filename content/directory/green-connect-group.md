@@ -8,13 +8,16 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Method:** Unknown
-**Country:** Unknown
-**Website:** [https://greenconnectgroup.com/](https://greenconnectgroup.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Unknown</td></tr>
+  <tr><th>Website</th><td><a href="https://greenconnectgroup.com/" target="_blank" rel="noopener">https://greenconnectgroup.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/green-connect-group/" target="_blank" rel="noopener">green-connect-group</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -27,8 +30,6 @@ Green Connect Group (GCG) is a biochar producer that converts organic residual w
 - **2026-04-19** — liveliness: 🟠 Suspect → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://greenconnectgroup.com/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/green-connect-group))
-
-[View on LinkedIn](https://www.linkedin.com/company/green-connect-group/)
 
 ---
 

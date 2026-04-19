@@ -8,15 +8,16 @@ pathway: "BECCS"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** BECCS
-**Method:** BECCS
-**Country:** United States
-**Website:** [https://harvestonelcp.com/fccp-blue-flint-19634](https://harvestonelcp.com/fccp-blue-flint-19634)
-**Status:** 🟢 Active (score: 85/100)
-**Employees:** ~42 (+11% YoY)
-**LinkedIn Followers:** 1,388
-**CDR Focus:** division
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>BECCS</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://harvestonelcp.com/fccp-blue-flint-19634" target="_blank" rel="noopener">https://harvestonelcp.com/fccp-blue-flint-19634</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/harvestonelcp/" target="_blank" rel="noopener">harvestonelcp — 1,388 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Employees</th><td>~42 (+11% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>division</td></tr>
+</table>
 
 ## About
 
@@ -31,14 +32,12 @@ Blue Flint Ethanol is a wholly owned subsidiary of Harvestone Low Carbon Partner
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://harvestonelcp.com/))
 - **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://harvestonelcp.com/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 - **** — merged duplicate: Harvestone (slug=harvestone)
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://harvestonelcp.com/story-harvestone-low-carbon-partners-bank-america-close-205-million-carbon-capture-sequestration-tax-equity-financing-375-247776))
 - **2026-04-18** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://harvestonelcp.com/story-harvestone-low-carbon-partners-bank-america-close-205-million-carbon-capture-sequestration-tax-equity-financing-375-247776))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/harvestonelcp/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

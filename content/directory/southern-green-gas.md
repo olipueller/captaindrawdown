@@ -8,15 +8,17 @@ pathway: "DAC"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** DAC
-**Method:** DAC (Solid Sorbent)
-**Country:** Australia
-**Website:** [https://www.southerngreengas.com.au/](https://www.southerngreengas.com.au/)
-**Status:** 🟢 Active (score: 70/100)
-**Employees:** ~5 (-17% YoY)
-**LinkedIn Followers:** 891
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>DAC</td></tr>
+  <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
+  <tr><th>Country</th><td>Australia</td></tr>
+  <tr><th>Website</th><td><a href="https://www.southerngreengas.com.au/" target="_blank" rel="noopener">https://www.southerngreengas.com.au/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/southern-green-gas/" target="_blank" rel="noopener">southern-green-gas — 891 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Employees</th><td>~5 (-17% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -32,9 +34,7 @@ Southern Green Gas (SGG) is an Australian DAC technology developer founded in 20
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://southerngreengas.com.au/news/southern-green-gas-secures-22m-order-to-develop-renewable-methane-demonstration-project))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://southerngreengas.com.au/))
 - **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://www.southerngreengas.com.au/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/southern-green-gas/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

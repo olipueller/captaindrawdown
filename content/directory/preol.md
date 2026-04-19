@@ -8,15 +8,16 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** Czech Republic
-**Website:** [https://www.preol.cz/](https://www.preol.cz/)
-**Status:** 🟢 Active (score: 80/100)
-**Employees:** ~9
-**LinkedIn Followers:** 91
-**CDR Focus:** division
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>Czech Republic</td></tr>
+  <tr><th>Website</th><td><a href="https://www.preol.cz/" target="_blank" rel="noopener">https://www.preol.cz/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/aspreol/" target="_blank" rel="noopener">aspreol — 91 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Employees</th><td>~9</td></tr>
+  <tr><th>CDR Focus</th><td>division</td></tr>
+</table>
 
 ## About
 
@@ -38,9 +39,7 @@ PREOL, a.s. is the largest Czech rapeseed processor and a subsidiary of the AGRO
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://uroda.cz/zaostreno-na-snizeni-emisi-z-repky/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://preol.cz/en/trade/biochar/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://preol.cz/en/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/aspreol/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

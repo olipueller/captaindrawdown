@@ -8,16 +8,18 @@ pathway: "Ocean CDR"
 liveliness: "🟠 Suspect"
 ---
 
-**Pathway:** Ocean CDR
-**Secondary pathways:** Enhanced Weathering
-**Method:** Ocean Alkalinity Enhancement
-**Country:** United States
-**Website:** [https://ephemeralcarbon.com/](https://ephemeralcarbon.com/)
-**Status:** 🟠 Suspect (score: 35/100)
-**Employees:** ~1 (-100% YoY)
-**LinkedIn Followers:** 450
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Ocean CDR</td></tr>
+  <tr><th>Secondary pathways</th><td>Enhanced Weathering</td></tr>
+  <tr><th>Method</th><td>Ocean Alkalinity Enhancement</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://ephemeralcarbon.com/" target="_blank" rel="noopener">https://ephemeralcarbon.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ephemeral-carbon/" target="_blank" rel="noopener">ephemeral-carbon — 450 followers</a></td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 35/100)</td></tr>
+  <tr><th>Employees</th><td>~1 (-100% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -33,9 +35,7 @@ Ephemeral Carbon is a Santa Clara, California-based marine CDR startup founded i
 - **2026-04-19** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://www.career.com/job/ephemeral-carbon/marine-biogeochemist/j202403292107340478052))
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟠 Suspect ([source](https://ephemeralcarbon.com/))
 - **2026-04-18** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟡 Moderate ([source](https://ephemeralcarbon.com/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/ephemeral-carbon/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

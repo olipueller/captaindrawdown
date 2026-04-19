@@ -8,16 +8,18 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Secondary pathways:** Afforestation
-**Method:** Unknown
-**Country:** Colombia
-**Website:** [https://biodiversal.com/](https://biodiversal.com/)
-**Status:** 🟢 Active (score: 80/100)
-**Employees:** ~20 (+25% YoY)
-**LinkedIn Followers:** 1,132
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>Afforestation</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Colombia</td></tr>
+  <tr><th>Website</th><td><a href="https://biodiversal.com/" target="_blank" rel="noopener">https://biodiversal.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biodiversal-biogrowth/" target="_blank" rel="noopener">biodiversal-biogrowth — 1,132 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Employees</th><td>~20 (+25% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -32,8 +34,6 @@ Biodiversal is a Colombian regenerative-agriculture company that partners with s
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://biodiversal.com/en))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://biodiversal.com/ ([source](https://www.cdr.fyi/supplier/biodiversal))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/biodiversal))
-
-[View on LinkedIn](https://www.linkedin.com/company/biodiversal-biogrowth/)
 
 ---
 

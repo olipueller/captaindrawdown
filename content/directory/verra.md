@@ -8,15 +8,16 @@ pathway: "Enabling Tech"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Enabling Tech
-**Method:** Enabling Tech
-**Country:** United States
-**Website:** [https://verra.org](https://verra.org)
-**Status:** 🟢 Active (score: 98/100)
-**Employees:** ~299 (+4% YoY)
-**LinkedIn Followers:** 98,225
-**CDR Focus:** ecosystem
-**Evidence signals:** news_mention
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://verra.org" target="_blank" rel="noopener">https://verra.org</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/verrastandards/" target="_blank" rel="noopener">verrastandards — 98,225 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 98/100)</td></tr>
+  <tr><th>Employees</th><td>~299 (+4% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -31,8 +32,6 @@ Verra is a Washington, DC-based nonprofit that operates the Verified Carbon Stan
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://verra.org/verra-launches-updated-landmark-standard-with-communities-at-its-core/))
 - **2026-04-18** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://verra.org/))
 - **2026-04-18** — discovered via: news_feed ([source](https://carbonherald.com/verra-updates-article-6-and-corsia-label-guidance-releases-new-tool-for-credit-buyers/))
-
-[View on LinkedIn](https://www.linkedin.com/company/verrastandards/)
 
 ---
 

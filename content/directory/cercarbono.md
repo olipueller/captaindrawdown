@@ -8,16 +8,18 @@ pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Enabling Tech
-**Secondary pathways:** Afforestation
-**Method:** Unknown
-**Country:** Colombia
-**Website:** [https://www.cercarbono.com/](https://www.cercarbono.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~14 (0% YoY)
-**LinkedIn Followers:** 9,077
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Secondary pathways</th><td>Afforestation</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Colombia</td></tr>
+  <tr><th>Website</th><td><a href="https://www.cercarbono.com/" target="_blank" rel="noopener">https://www.cercarbono.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cercarbono/" target="_blank" rel="noopener">cercarbono — 9,077 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~14 (0% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -31,8 +33,6 @@ Cercarbono is a voluntary carbon certification standard established in Colombia 
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.cercarbono.com/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.cercarbono.com/ ([source](https://www.cdr.fyi/marketplace/cercarbono))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/cercarbono))
-
-[View on LinkedIn](https://www.linkedin.com/company/cercarbono/)
 
 ---
 

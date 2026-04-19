@@ -8,15 +8,16 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** United States
-**Website:** [https://ashwoodbiochar.com/](https://ashwoodbiochar.com/)
-**Status:** 🟢 Active (score: 75/100)
-**Employees:** ~1 (-100% YoY)
-**LinkedIn Followers:** 228
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://ashwoodbiochar.com/" target="_blank" rel="noopener">https://ashwoodbiochar.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ashwood-trinity/" target="_blank" rel="noopener">ashwood-trinity — 228 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Employees</th><td>~1 (-100% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -32,9 +33,7 @@ Ashwood BioChar produces carbon-rich biochar from 100% sustainable woody biomass
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://ecmc.colorado.gov/sites/ecmc/files/documents/CO_HB_23_1069_Pilot_Study_Recommendation.pdf))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://ashwoodbiochar.com/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://ashwoodbiochar.com/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/ashwood-trinity/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

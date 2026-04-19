@@ -8,15 +8,16 @@ pathway: "BECCS"
 liveliness: "🟠 Suspect"
 ---
 
-**Pathway:** BECCS
-**Method:** BECCS
-**Country:** United States
-**Website:** [https://elimini.com/](https://elimini.com/)
-**Status:** 🟠 Suspect (score: 40/100)
-**Employees:** ~39 (-38% YoY)
-**LinkedIn Followers:** 2,332
-**CDR Focus:** division
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>BECCS</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://elimini.com/" target="_blank" rel="noopener">https://elimini.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/elimini/" target="_blank" rel="noopener">elimini — 2,332 followers</a></td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Employees</th><td>~39 (-38% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>division</td></tr>
+</table>
 
 ## About
 
@@ -38,9 +39,7 @@ Elimini is a wholly owned US-based subsidiary of UK energy group Drax, launched 
 - **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.drax.com/financial-news/half-year-results-for-the-six-months-ended-30-june-2025/))
 - **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://elimini.com/))
 - **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟡 Moderate ([source](https://www.prnewswire.com/news-releases/elimini-and-hofor-sign-strategic-agreements-for-landmark-danish-beccs-project-to-permanently-remove-co2-302514970.html))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/elimini/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

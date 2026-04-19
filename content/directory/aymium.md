@@ -8,16 +8,17 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Secondary pathways:** BECCS
-**Method:** Biochar
-**Country:** United States
-**Website:** [https://aymium.com/](https://aymium.com/)
-**Status:** 🟢 Active (score: 92/100)
-**Employees:** ~29 (+4% YoY)
-**LinkedIn Followers:** 1,032
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>BECCS</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://aymium.com/" target="_blank" rel="noopener">https://aymium.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/aymium/" target="_blank" rel="noopener">aymium — 1,032 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Employees</th><td>~29 (+4% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -31,9 +32,7 @@ Aymium is a U.S. biocarbon producer headquartered in Minnesota that operates mul
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://investor.weyerhaeuser.com/2025-12-11-Weyerhaeuser-and-Aymium-Enter-Agreement-to-Rapidly-Scale-Biocarbon-Market))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://investor.weyerhaeuser.com/2025-12-11-Weyerhaeuser-and-Aymium-Enter-Agreement-to-Rapidly-Scale-Biocarbon-Market))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/aymium/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

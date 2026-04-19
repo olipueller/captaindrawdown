@@ -8,16 +8,18 @@ pathway: "Enabling Tech"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Enabling Tech
-**Secondary pathways:** Biomass Burial, Ocean CDR, Afforestation
-**Method:** Unknown
-**Country:** Netherlands
-**Website:** [https://climatecleanup.org](https://climatecleanup.org)
-**Status:** 🟢 Active (score: 80/100)
-**Employees:** ~20 (+18% YoY)
-**LinkedIn Followers:** 5,993
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Secondary pathways</th><td>Biomass Burial, Ocean CDR, Afforestation</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Netherlands</td></tr>
+  <tr><th>Website</th><td><a href="https://climatecleanup.org" target="_blank" rel="noopener">https://climatecleanup.org</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/climatecleanup/" target="_blank" rel="noopener">climatecleanup — 5,993 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Employees</th><td>~20 (+18% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -30,8 +32,6 @@ Climate Cleanup Foundation is an Amsterdam-based non-profit (founded 2018) that 
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://climatecleanup.org/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://climatecleanup.org ([source](https://www.cdr.fyi/marketplace/climate-cleanup-foundation))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/climate-cleanup-foundation))
-
-[View on LinkedIn](https://www.linkedin.com/company/climatecleanup/)
 
 ---
 

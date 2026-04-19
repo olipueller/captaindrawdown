@@ -8,15 +8,16 @@ pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** United States
-**Website:** [https://restorationfuels.com/](https://restorationfuels.com/)
-**Status:** 🔴 Likely Dead (score: 5/100)
-**Employees:** ~1 (-50% YoY)
-**LinkedIn Followers:** 1
-**CDR Focus:** supplier
-**Evidence signals:** last_evidence_url, registry_puro
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://restorationfuels.com/" target="_blank" rel="noopener">https://restorationfuels.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/restoration-fuels/" target="_blank" rel="noopener">restoration-fuels — 1 followers</a></td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 5/100)</td></tr>
+  <tr><th>Employees</th><td>~1 (-50% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -40,9 +41,7 @@ Restoration Fuels was a commercial-scale torrefaction and biochar facility in Jo
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🔴 Likely Dead ([source](https://bluemountaineagle.com/2024/07/31/restoration-fuels-shutters-john-day-torrefaction-plant/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🔴 Likely Dead ([source](https://bluemountaineagle.com/2024/07/31/restoration-fuels-shutters-john-day-torrefaction-plant/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/restoration-fuels/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

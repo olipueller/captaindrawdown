@@ -8,16 +8,17 @@ pathway: "BECCS"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** BECCS
-**Secondary pathways:** Enabling Tech
-**Method:** BECCS
-**Country:** Sweden
-**Website:** [https://recarber.com/](https://recarber.com/)
-**Status:** 🟢 Active (score: 85/100)
-**Employees:** ~12 (+71% YoY)
-**LinkedIn Followers:** 668
-**CDR Focus:** ecosystem
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>BECCS</td></tr>
+  <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
+  <tr><th>Country</th><td>Sweden</td></tr>
+  <tr><th>Website</th><td><a href="https://recarber.com/" target="_blank" rel="noopener">https://recarber.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/recarber/" target="_blank" rel="noopener">recarber — 668 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Employees</th><td>~12 (+71% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -32,9 +33,7 @@ ReCarber is a Stockholm-based startup founded in 2024 that operates a platform t
 - **2026-04-19** — reclassified: pathway=BECCS focus=ecosystem liveliness=🟢 Active ([source](https://recarber.com/))
 - **2026-04-19** — reclassified: pathway=BECCS focus=ecosystem liveliness=🟢 Active ([source](https://recarber.com/))
 - **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://recarber.com/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/recarber/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

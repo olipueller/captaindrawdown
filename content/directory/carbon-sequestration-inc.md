@@ -8,16 +8,18 @@ pathway: "Biomass Burial"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biomass Burial
-**Secondary pathways:** Biochar
-**Method:** BiCRS (Other)
-**Country:** United States
-**Website:** [https://www.carbonsequestration-inc.com/](https://www.carbonsequestration-inc.com/)
-**Status:** 🟡 Moderate (score: 70/100)
-**Employees:** ~3 (-40% YoY)
-**LinkedIn Followers:** 683
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biomass Burial</td></tr>
+  <tr><th>Secondary pathways</th><td>Biochar</td></tr>
+  <tr><th>Method</th><td>BiCRS (Other)</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://www.carbonsequestration-inc.com/" target="_blank" rel="noopener">https://www.carbonsequestration-inc.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-sequestration-inc/" target="_blank" rel="noopener">carbon-sequestration-inc — 683 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 70/100)</td></tr>
+  <tr><th>Employees</th><td>~3 (-40% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -33,9 +35,7 @@ Carbon Sequestration Inc. (CSI) is a Houston, Texas-based CDR supplier founded b
 - **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](registry_activity))
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟡 Moderate ([source](https://www.carbonsequestration-inc.com/))
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟡 Moderate ([source](https://www.carbonsequestration-inc.com/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/carbon-sequestration-inc/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

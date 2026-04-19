@@ -8,16 +8,18 @@ pathway: "Ocean CDR"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Ocean CDR
-**Secondary pathways:** Biomass Burial
-**Method:** Marine CDR (Other)
-**Country:** United States
-**Website:** [https://bluegreenwatertech.com/](https://bluegreenwatertech.com/)
-**Status:** 🟢 Active (score: 80/100)
-**Employees:** ~41 (+2% YoY)
-**LinkedIn Followers:** 5,539
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Ocean CDR</td></tr>
+  <tr><th>Secondary pathways</th><td>Biomass Burial</td></tr>
+  <tr><th>Method</th><td>Marine CDR (Other)</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://bluegreenwatertech.com/" target="_blank" rel="noopener">https://bluegreenwatertech.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bluegreen-water-tech/" target="_blank" rel="noopener">bluegreen-water-tech — 5,539 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Employees</th><td>~41 (+2% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -39,9 +41,7 @@ BlueGreen Water Technologies is a US-headquartered (Israel R&D) environmental te
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://carbonherald.com/bluegreen-water-technologies-raises-millions-in-series-b-funding-to-accelerate-water-based-co2-removal-at-scale/))
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://bluegreenwatertech.com/news))
 - **2026-04-18** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://carbonherald.com/first-ever-carbon-credits-from-toxic-algal-remediation-are-issued/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/bluegreen-water-tech/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

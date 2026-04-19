@@ -8,16 +8,17 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Secondary pathways:** Enabling Tech
-**Method:** Biochar
-**Country:** Switzerland
-**Website:** [https://www.altitudecarbon.com/](https://www.altitudecarbon.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~1 (0% YoY)
-**LinkedIn Followers:** 687
-**CDR Focus:** ecosystem
-**Evidence signals:** news_mention
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
+  <tr><th>Country</th><td>Switzerland</td></tr>
+  <tr><th>Website</th><td><a href="https://www.altitudecarbon.com/" target="_blank" rel="noopener">https://www.altitudecarbon.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/altitude-sustainable/" target="_blank" rel="noopener">altitude-sustainable — 687 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~1 (0% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -33,15 +34,13 @@ Altitude is a Switzerland-based carbon removal financier that provides structure
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.cdr.fyi/blog/cdr-monthly-recap-august-2025))
 - **2026-04-19** — reclassified: pathway=Biochar focus=ecosystem liveliness=🟢 Active ([source](https://www.altitudecarbon.com/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=ecosystem liveliness=🟢 Active ([source](https://www.altitudecarbon.com/))
-- **2026-04-18** — backfilled from V1 ([source](https://www.carbon-drawdown.de/))
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 - **** — merged duplicate: Altitude Carbon (slug=altitude-carbon)
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Biochar focus=ecosystem liveliness=🟢 Active ([source](https://www.altitudecarbon.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=ecosystem liveliness=🟢 Active ([source](https://www.altitudecarbon.com/))
 - **2026-04-18** — discovered via: news_feed ([source](https://www.qcintel.com/carbon/article/interview-cdr-trader-altitude-eyes-more-biochar-credit-purchases-62435.html))
-
-[View on LinkedIn](https://www.linkedin.com/company/altitude-sustainable/)
 
 ---
 

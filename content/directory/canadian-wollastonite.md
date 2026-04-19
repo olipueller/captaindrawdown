@@ -8,15 +8,17 @@ pathway: "Enhanced Weathering"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Enhanced Weathering
-**Method:** Unknown
-**Country:** Canada
-**Website:** [https://canadianwollastonite.com](https://canadianwollastonite.com)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~2 (-50% YoY)
-**LinkedIn Followers:** 481
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enhanced Weathering</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Canada</td></tr>
+  <tr><th>Website</th><td><a href="https://canadianwollastonite.com" target="_blank" rel="noopener">https://canadianwollastonite.com</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/canadian-wollastonite/" target="_blank" rel="noopener">canadian-wollastonite — 481 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~2 (-50% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -32,8 +34,6 @@ Canadian Wollastonite is an Ontario-based mining company near Seeley's Bay that 
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://canadianwollastonite.com/a-deep-dive-into-the-science-of-proving-carbon-capture/))
 - **2026-04-19** — url added from cdr.fyi supplier page: http://canadianwollastonite.com ([source](https://www.cdr.fyi/supplier/canadian-wollastonite))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/canadian-wollastonite))
-
-[View on LinkedIn](https://www.linkedin.com/company/canadian-wollastonite/)
 
 ---
 

@@ -8,13 +8,16 @@ pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Enabling Tech
-**Method:** Unknown
-**Country:** United Kingdom
-**Website:** [https://www.zeru.earth/](https://www.zeru.earth/)
-**Status:** 🟡 Moderate (score: 55/100)
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>United Kingdom</td></tr>
+  <tr><th>Website</th><td><a href="https://www.zeru.earth/" target="_blank" rel="noopener">https://www.zeru.earth/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-captors/" target="_blank" rel="noopener">carbon-captors</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -28,8 +31,6 @@ Zeru.Earth was a UK-based Web3 carbon removal marketplace and subscription clima
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🔴 Likely Dead ([source](https://find-and-update.company-information.service.gov.uk/company/14371166))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.zeru.earth/ ([source](https://www.cdr.fyi/marketplace/zeru-earth))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/zeru-earth))
-
-[View on LinkedIn](https://www.linkedin.com/company/carbon-captors/)
 
 ---
 

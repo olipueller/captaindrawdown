@@ -8,15 +8,17 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Method:** Unknown
-**Country:** Bolivia
-**Website:** [https://www.empacar.com.bo/](https://www.empacar.com.bo/)
-**Status:** 🟢 Active (score: 90/100)
-**Employees:** ~277 (+19% YoY)
-**LinkedIn Followers:** 55,768
-**CDR Focus:** division
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Bolivia</td></tr>
+  <tr><th>Website</th><td><a href="https://www.empacar.com.bo/" target="_blank" rel="noopener">https://www.empacar.com.bo/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/empacar-s-a/" target="_blank" rel="noopener">empacar-s-a — 55,768 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Employees</th><td>~277 (+19% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>division</td></tr>
+</table>
 
 ## About
 
@@ -29,8 +31,6 @@ Empacar S.A. is Bolivia's largest sustainable packaging and recycling company, h
 - **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://puro.earth/our-blog/368-empacar-to-scale-biochar-as-high-integrity-carbon-dioxide-removal-pathway-in-bolivia))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.empacar.com.bo/ ([source](https://www.cdr.fyi/supplier/empacar))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/empacar))
-
-[View on LinkedIn](https://www.linkedin.com/company/empacar-s-a/)
 
 ---
 

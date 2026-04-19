@@ -8,13 +8,15 @@ pathway: "BECCS"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** BECCS
-**Method:** Enabling Tech
-**Country:** Hungary
-**Website:** [https://danubecarbon.com/](https://danubecarbon.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**CDR Focus:** supplier
-**Evidence signals:** news_mention
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>BECCS</td></tr>
+  <tr><th>Method</th><td>Enabling Tech</td></tr>
+  <tr><th>Country</th><td>Hungary</td></tr>
+  <tr><th>Website</th><td><a href="https://danubecarbon.com/" target="_blank" rel="noopener">https://danubecarbon.com/</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 

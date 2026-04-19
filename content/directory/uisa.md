@@ -8,15 +8,16 @@ pathway: "BECCS"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** BECCS
-**Method:** BECCS
-**Country:** Brazil
-**Website:** [https://wp.uisa.com.br/en/](https://wp.uisa.com.br/en/)
-**Status:** 🟢 Active (score: 70/100)
-**Employees:** ~1328 (+10% YoY)
-**LinkedIn Followers:** 41,674
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>BECCS</td></tr>
+  <tr><th>Country</th><td>Brazil</td></tr>
+  <tr><th>Website</th><td><a href="https://wp.uisa.com.br/en/" target="_blank" rel="noopener">https://wp.uisa.com.br/en/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/uisa/" target="_blank" rel="noopener">uisa — 41,674 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Employees</th><td>~1328 (+10% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -31,9 +32,7 @@ Uisa is one of Brazil's largest integrated sugarcane biorefineries, headquartere
 - **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.linkedin.com/in/drcaetanogrossi/))
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟡 Moderate ([source](https://wp.uisa.com.br/en/))
 - **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness=🟡 Moderate ([source](https://www.geoengineeringmonitor.org/geo-map-beccs-nov24))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/uisa/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

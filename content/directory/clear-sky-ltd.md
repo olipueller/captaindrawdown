@@ -8,15 +8,18 @@ pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Enabling Tech
-**Secondary pathways:** Biomass Burial, BECCS, DAC, Afforestation
-**Method:** Unknown
-**Country:** Switzerland
-**Website:** [https://clearskyltd.com/](https://clearskyltd.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~4 (-56% YoY)
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Secondary pathways</th><td>Biomass Burial, BECCS, DAC, Afforestation</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Switzerland</td></tr>
+  <tr><th>Website</th><td><a href="https://clearskyltd.com/" target="_blank" rel="noopener">https://clearskyltd.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/clear-sky-limited/" target="_blank" rel="noopener">clear-sky-limited</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~4 (-56% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -29,8 +32,6 @@ ClearSky Limited is an environmental markets platform and carbon project broker/
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://clearskyltd.com/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/clear-sky))
-
-[View on LinkedIn](https://www.linkedin.com/company/clear-sky-limited/)
 
 ---
 

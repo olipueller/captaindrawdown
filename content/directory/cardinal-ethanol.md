@@ -8,15 +8,16 @@ pathway: "BECCS"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** BECCS
-**Method:** BECCS
-**Country:** United States
-**Website:** [https://www.cardinalethanol.com/](https://www.cardinalethanol.com/)
-**Status:** 🟢 Active (score: 90/100)
-**Employees:** ~65 (+16% YoY)
-**LinkedIn Followers:** 637
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>BECCS</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://www.cardinalethanol.com/" target="_blank" rel="noopener">https://www.cardinalethanol.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cardinal-ethanol-llc/" target="_blank" rel="noopener">cardinal-ethanol-llc — 637 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Employees</th><td>~65 (+16% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -30,9 +31,7 @@ Cardinal Ethanol is an Indiana-based corn ethanol producer that, through a 50/50
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.prnewswire.com/news-releases/vault-44-01-to-construct-first-ccs-project-in-indiana-with-epa-class-vi-permit-approval-302737596.html))
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.epa.gov/newsreleases/epa-approves-carbon-storage-permit-randolph-county-indiana))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/cardinal-ethanol-llc/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

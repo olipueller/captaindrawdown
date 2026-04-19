@@ -8,15 +8,17 @@ pathway: "DAC"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** DAC
-**Method:** DAC (Solid Sorbent)
-**Country:** United Kingdom
-**Website:** [https://airhive.earth/](https://airhive.earth/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~19 (-10% YoY)
-**LinkedIn Followers:** 2,856
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>DAC</td></tr>
+  <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
+  <tr><th>Country</th><td>United Kingdom</td></tr>
+  <tr><th>Website</th><td><a href="https://airhive.earth/" target="_blank" rel="noopener">https://airhive.earth/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonnet-limited/" target="_blank" rel="noopener">carbonnet-limited — 2,856 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~19 (-10% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -32,9 +34,7 @@ Airhive is a UK-based direct air capture company founded in 2022 that develops m
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://tracxn.com/d/companies/airhive/__58otEpxQIKuZ3IUk3wwzVyXRekF9iOrUoIuzs9evcG0))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.airhive.earth/publications/airhive-opens-one-of-the-worlds-largest-and-lowest-cost-direct-air-capture-systems))
 - **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.airhive.earth/publications/airhive-opens-one-of-the-worlds-largest-and-lowest-cost-direct-air-capture-systems))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/carbonnet-limited/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

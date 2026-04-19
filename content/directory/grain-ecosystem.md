@@ -8,16 +8,17 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Secondary pathways:** Enabling Tech
-**Method:** Biochar
-**Country:** United States
-**Website:** [https://grainecosystem.com/](https://grainecosystem.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~10 (-17% YoY)
-**LinkedIn Followers:** 5,380
-**CDR Focus:** ecosystem
-**Evidence signals:** news_mention
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://grainecosystem.com/" target="_blank" rel="noopener">https://grainecosystem.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/grain-ecosystem/" target="_blank" rel="noopener">grain-ecosystem — 5,380 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~10 (-17% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -31,8 +32,6 @@ Grain Ecosystem was a Boston-based digital platform (founded 2022) that provided
 - **2026-04-19** — reclassified: pathway=Biochar focus=ecosystem liveliness=🔴 Likely Dead ([source](https://carbonherald.com/in-a-strategic-biochar-move-mangrove-systems-acquires-grain-ecosystem/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=ecosystem liveliness=🟠 Suspect ([source](https://carbonherald.com/in-a-strategic-biochar-move-mangrove-systems-acquires-grain-ecosystem/))
 - **2026-04-18** — discovered via: news_feed ([source](https://carbonherald.com/in-a-strategic-biochar-move-mangrove-systems-acquires-grain-ecosystem/))
-
-[View on LinkedIn](https://www.linkedin.com/company/grain-ecosystem/)
 
 ---
 

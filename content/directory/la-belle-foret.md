@@ -8,15 +8,18 @@ pathway: "Afforestation"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Afforestation
-**Secondary pathways:** Enabling Tech
-**Method:** Unknown
-**Country:** France
-**Website:** [https://www.labelleforet.co/](https://www.labelleforet.co/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~4 (-75% YoY)
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Afforestation</td></tr>
+  <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>France</td></tr>
+  <tr><th>Website</th><td><a href="https://www.labelleforet.co/" target="_blank" rel="noopener">https://www.labelleforet.co/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/la-belle-for%c3%aat/" target="_blank" rel="noopener">la-belle-for%c3%aat</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~4 (-75% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -30,8 +33,6 @@ La Belle Forêt is a French startup founded in 2021 that develops forest carbon 
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟠 Suspect ([source](https://www.labelleforet.co/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.labelleforet.co/ ([source](https://www.cdr.fyi/supplier/la-belle-foret))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/la-belle-foret))
-
-[View on LinkedIn](https://www.linkedin.com/company/la-belle-for%c3%aat/)
 
 ---
 

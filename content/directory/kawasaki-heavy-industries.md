@@ -8,16 +8,18 @@ pathway: "DAC"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** DAC
-**Secondary pathways:** Mineralization
-**Method:** DAC (Solid Sorbent)
-**Country:** Japan
-**Website:** [https://global.kawasaki.com/en/energy/equipment/co2sr/index.html](https://global.kawasaki.com/en/energy/equipment/co2sr/index.html)
-**Status:** 🟢 Active (score: 92/100)
-**Employees:** ~1694 (+8% YoY)
-**LinkedIn Followers:** 61,711
-**CDR Focus:** division
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>DAC</td></tr>
+  <tr><th>Secondary pathways</th><td>Mineralization</td></tr>
+  <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
+  <tr><th>Country</th><td>Japan</td></tr>
+  <tr><th>Website</th><td><a href="https://global.kawasaki.com/en/energy/equipment/co2sr/index.html" target="_blank" rel="noopener">https://global.kawasaki.com/en/energy/equipment/co2sr/index.html</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/kawasaki-motors-corp.-u.s.a./" target="_blank" rel="noopener">kawasaki-motors-corp.-u.s.a. — 61,711 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Employees</th><td>~1694 (+8% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>division</td></tr>
+</table>
 
 ## About
 
@@ -31,9 +33,7 @@ Kawasaki Heavy Industries is a Japanese industrial conglomerate whose Kawasaki C
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://global.kawasaki.com/en/corp/newsroom/news/detail/?f=20251112_6035))
 - **2026-04-19** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://carbonherald.com/kawasaki-heavy-industries-completes-one-of-japans-largest-dac-pilots/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/kawasaki-motors-corp.-u.s.a./)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

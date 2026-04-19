@@ -8,15 +8,16 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** Australia
-**Website:** [https://www.rainbowbeeeater.com.au/](https://www.rainbowbeeeater.com.au/)
-**Status:** 🟢 Active (score: 85/100)
-**Employees:** ~4 (0% YoY)
-**LinkedIn Followers:** 2
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>Australia</td></tr>
+  <tr><th>Website</th><td><a href="https://www.rainbowbeeeater.com.au/" target="_blank" rel="noopener">https://www.rainbowbeeeater.com.au/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/rainbow-bee-eater/" target="_blank" rel="noopener">rainbow-bee-eater — 2 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Employees</th><td>~4 (0% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -39,9 +40,7 @@ Rainbow Bee Eater is a Melbourne-based biochar technology company that develops 
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.reuters.com/business/sustainable-business/biochar-black-gold-soils-that-is-getting-big-bets-offset-markets-2022-10-05/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.rainbowbeeeater.com.au/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.rainbowbeeeater.com.au/what-we-do))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/rainbow-bee-eater/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

@@ -8,16 +8,18 @@ pathway: "Enabling Tech"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Enabling Tech
-**Secondary pathways:** Biochar
-**Method:** Unknown
-**Country:** United Kingdom
-**Website:** [https://carbonaires.com/](https://carbonaires.com/)
-**Status:** 🟢 Active (score: 70/100)
-**Employees:** ~23 (+15% YoY)
-**LinkedIn Followers:** 10,739
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Secondary pathways</th><td>Biochar</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>United Kingdom</td></tr>
+  <tr><th>Website</th><td><a href="https://carbonaires.com/" target="_blank" rel="noopener">https://carbonaires.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonaires/" target="_blank" rel="noopener">carbonaires — 10,739 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Employees</th><td>~23 (+15% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -31,8 +33,6 @@ Carbonaires is a London-based carbon asset management and finance firm that stru
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟡 Moderate ([source](https://carbonaires.com/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://carbonaires.com/ ([source](https://www.cdr.fyi/marketplace/carbonaires))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/carbonaires))
-
-[View on LinkedIn](https://www.linkedin.com/company/carbonaires/)
 
 ---
 

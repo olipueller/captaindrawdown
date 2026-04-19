@@ -8,15 +8,16 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** Tanzania
-**Website:** [https://www.darkearthcarbon.com/](https://www.darkearthcarbon.com/)
-**Status:** 🟢 Active (score: 80/100)
-**Employees:** ~38 (+23% YoY)
-**LinkedIn Followers:** 849
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>Tanzania</td></tr>
+  <tr><th>Website</th><td><a href="https://www.darkearthcarbon.com/" target="_blank" rel="noopener">https://www.darkearthcarbon.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/dark-earth-carbon/" target="_blank" rel="noopener">dark-earth-carbon — 849 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Employees</th><td>~38 (+23% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -30,9 +31,7 @@ Dark Earth Carbon (DEC) is a Tanzanian biochar producer partnered with German of
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.darkearthcarbon.com/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.atmosfair.de/en/climate-protection-projects/negative-emissions/tanzania-industrial-production-of-biochar/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/dark-earth-carbon/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

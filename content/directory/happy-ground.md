@@ -8,16 +8,17 @@ pathway: "Biochar"
 liveliness: "🟠 Suspect"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** Thailand
-**Website:** [https://happyground.org/](https://happyground.org/)
-**Status:** 🟠 Suspect (score: 40/100)
-**Employees:** ~2 (-33% YoY)
-**LinkedIn Followers:** 435
-**CDI Portfolio Company**
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>Thailand</td></tr>
+  <tr><th>Website</th><td><a href="https://happyground.org/" target="_blank" rel="noopener">https://happyground.org/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/happy-ground/" target="_blank" rel="noopener">happy-ground — 435 followers</a></td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Employees</th><td>~2 (-33% YoY)</td></tr>
+  <tr><th>CDI Portfolio</th><td>yes</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -32,9 +33,7 @@ Happy Ground is a Thailand-based biochar CDR developer working with smallholder 
 - **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.carbon-drawdown.de/blog/2025-9-10-portfolio-spotlight-happy-ground-biochar-in-thailand))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://happyground.org/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://happyground.org/))
-- **2026-04-18** — backfilled from V1 ([source](https://www.carbon-drawdown.de/))
-
-[View on LinkedIn](https://www.linkedin.com/company/happy-ground/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

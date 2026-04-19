@@ -8,16 +8,18 @@ pathway: "Afforestation"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Afforestation
-**Secondary pathways:** Enabling Tech
-**Method:** Unknown
-**Country:** Germany
-**Website:** [https://www.ocell.io/](https://www.ocell.io/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~50 (-18% YoY)
-**LinkedIn Followers:** 7,569
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Afforestation</td></tr>
+  <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Germany</td></tr>
+  <tr><th>Website</th><td><a href="https://www.ocell.io/" target="_blank" rel="noopener">https://www.ocell.io/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ocell-aero/" target="_blank" rel="noopener">ocell-aero — 7,569 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~50 (-18% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -31,8 +33,6 @@ OCELL is a Munich-based climate-tech startup that develops improved forest manag
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.ocell.io/en-us))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.ocell.io/ ([source](https://www.cdr.fyi/supplier/ocell))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/ocell))
-
-[View on LinkedIn](https://www.linkedin.com/company/ocell-aero/)
 
 ---
 

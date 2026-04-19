@@ -8,15 +8,17 @@ pathway: "Ocean CDR"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Ocean CDR
-**Method:** Unknown
-**Country:** United States
-**Website:** [https://oceanvisions.org/](https://oceanvisions.org/)
-**Status:** 🟢 Active (score: 92/100)
-**Employees:** ~26 (+13% YoY)
-**LinkedIn Followers:** 16,333
-**CDR Focus:** ecosystem
-**Evidence signals:** brave_search
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Ocean CDR</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://oceanvisions.org/" target="_blank" rel="noopener">https://oceanvisions.org/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ocean-visions/" target="_blank" rel="noopener">ocean-visions — 16,333 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 92/100)</td></tr>
+  <tr><th>Employees</th><td>~26 (+13% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -35,8 +37,6 @@ Ocean Visions is a US-based science-focused nonprofit that catalyzes research, r
 - **2026-04-19** — reclassified: pathway=? focus=ecosystem liveliness=🟢 Active ([source](https://oceanvisions.org/))
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=ecosystem liveliness=🟢 Active ([source](https://oceanvisions.org/))
 - **2026-04-18** — discovered via: brave ([source](https://oceanvisions.org/ocean-based-carbon-dioxide-removal/))
-
-[View on LinkedIn](https://www.linkedin.com/company/ocean-visions/)
 
 ---
 

@@ -8,16 +8,18 @@ pathway: "Ocean CDR"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Ocean CDR
-**Secondary pathways:** DAC
-**Method:** Direct Ocean Removal
-**Country:** United States
-**Website:** [https://keplerrecapture.com/](https://keplerrecapture.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~10 (-17% YoY)
-**LinkedIn Followers:** 291
-**CDR Focus:** division
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Ocean CDR</td></tr>
+  <tr><th>Secondary pathways</th><td>DAC</td></tr>
+  <tr><th>Method</th><td>Direct Ocean Removal</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://keplerrecapture.com/" target="_blank" rel="noopener">https://keplerrecapture.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/kepler-carbon-recapture/" target="_blank" rel="noopener">kepler-carbon-recapture — 291 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~10 (-17% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>division</td></tr>
+</table>
 
 ## About
 
@@ -32,9 +34,7 @@ Kepler ReCapture is a division of Austin, Texas-based aerospace consulting firm 
 - **2026-04-19** — liveliness: 🟠 Suspect → 🟡 Moderate ([source](https://keplerrecapture.com/))
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=division liveliness=🟠 Suspect ([source](https://keplerrecapture.com/))
 - **2026-04-18** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟠 Suspect ([source](https://keplerrecapture.com/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/kepler-carbon-recapture/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

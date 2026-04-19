@@ -8,16 +8,17 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Secondary pathways:** Biomass Burial
-**Method:** Biochar
-**Country:** United Kingdom
-**Website:** [https://www.reversecoal.co.uk/](https://www.reversecoal.co.uk/)
-**Status:** 🟢 Active (score: 82/100)
-**Employees:** ~2 (0% YoY)
-**LinkedIn Followers:** 256
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>Biomass Burial</td></tr>
+  <tr><th>Country</th><td>United Kingdom</td></tr>
+  <tr><th>Website</th><td><a href="https://www.reversecoal.co.uk/" target="_blank" rel="noopener">https://www.reversecoal.co.uk/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/lapwing-energy-ltd/" target="_blank" rel="noopener">lapwing-energy-ltd — 256 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 82/100)</td></tr>
+  <tr><th>Employees</th><td>~2 (0% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -33,9 +34,7 @@ Reverse Coal is a UK biochar CDR pilot operated by Lapwing Energy at The Lapwing
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.greaterlincolnshirelep.co.uk/funding-and-projects/uk-food-valley/uk-food-valley-news/reverse-coal-on-display-at-climate-safe-event/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.reversecoal.co.uk/reverse-coal-phase-2-report-live/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.reversecoal.co.uk/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/lapwing-energy-ltd/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

@@ -8,16 +8,17 @@ pathway: "Enabling Tech"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Enabling Tech
-**Secondary pathways:** Afforestation, DAC
-**Method:** Enabling Tech
-**Country:** France
-**Website:** [https://taranis.eu](https://taranis.eu)
-**Status:** 🟢 Active (score: 85/100)
-**Employees:** ~37 (+118% YoY)
-**LinkedIn Followers:** 6,285
-**CDR Focus:** ecosystem
-**Evidence signals:** news_mention
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Secondary pathways</th><td>Afforestation, DAC</td></tr>
+  <tr><th>Country</th><td>France</td></tr>
+  <tr><th>Website</th><td><a href="https://taranis.eu" target="_blank" rel="noopener">https://taranis.eu</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/taranis-investment/" target="_blank" rel="noopener">taranis-investment — 6,285 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Employees</th><td>~37 (+118% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -32,8 +33,6 @@ Taranis is a France-based investment and asset management company owned by the P
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://taranis.eu/carbon-ventures/))
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://taranis.eu/))
 - **2026-04-18** — discovered via: news_feed ([source](https://www.negative-emissions.org/updates/venture-capital-firm-taranis-joins-nep))
-
-[View on LinkedIn](https://www.linkedin.com/company/taranis-investment/)
 
 ---
 

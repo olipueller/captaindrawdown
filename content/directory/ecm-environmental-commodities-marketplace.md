@@ -8,15 +8,17 @@ pathway: "Enabling Tech"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Enabling Tech
-**Method:** Unknown
-**Country:** Turkey
-**Website:** [https://www.erguvan.co/](https://www.erguvan.co/)
-**Status:** 🟢 Active (score: 75/100)
-**Employees:** ~62 (+5% YoY)
-**LinkedIn Followers:** 3,373
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Turkey</td></tr>
+  <tr><th>Website</th><td><a href="https://www.erguvan.co/" target="_blank" rel="noopener">https://www.erguvan.co/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/erguvan/" target="_blank" rel="noopener">erguvan — 3,373 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Employees</th><td>~62 (+5% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -35,8 +37,6 @@ ECM (Environmental Commodities Marketplace) is the flagship platform of Erguvan,
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.erguvan.co/ecm))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.erguvan.co/ ([source](https://www.cdr.fyi/marketplace/ecm.erguvan.co))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/ecm.erguvan.co))
-
-[View on LinkedIn](https://www.linkedin.com/company/erguvan/)
 
 ---
 

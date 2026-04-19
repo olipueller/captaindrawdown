@@ -8,15 +8,16 @@ pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Enabling Tech
-**Method:** Enabling Tech
-**Country:** United Kingdom
-**Website:** [https://evident.global](https://evident.global)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~42
-**LinkedIn Followers:** 8,338
-**CDR Focus:** ecosystem
-**Evidence signals:** news_mention
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Country</th><td>United Kingdom</td></tr>
+  <tr><th>Website</th><td><a href="https://evident.global" target="_blank" rel="noopener">https://evident.global</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/international-rec-services/" target="_blank" rel="noopener">international-rec-services — 8,338 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~42</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -32,8 +33,6 @@ Evident is a Sheffield, UK-based certification and registry provider, best known
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://evident.global/carbon))
 - **2026-04-18** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://evident.global/carbon))
 - **2026-04-18** — discovered via: news_feed ([source](https://carbonherald.com/cowboy-clean-fuels-absolute-climate-and-evident-team-up-for-high-integrity-cdr/))
-
-[View on LinkedIn](https://www.linkedin.com/company/international-rec-services/)
 
 ---
 

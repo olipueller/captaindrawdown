@@ -8,16 +8,18 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Secondary pathways:** BECCS
-**Method:** Unknown
-**Country:** Singapore
-**Website:** [https://alcomcm.com](https://alcomcm.com)
-**Status:** 🟡 Moderate (score: 65/100)
-**Employees:** ~27
-**LinkedIn Followers:** 1,705
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>BECCS</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Singapore</td></tr>
+  <tr><th>Website</th><td><a href="https://alcomcm.com" target="_blank" rel="noopener">https://alcomcm.com</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/alcom-pte-ltd/" target="_blank" rel="noopener">alcom-pte-ltd — 1,705 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 65/100)</td></tr>
+  <tr><th>Employees</th><td>~27</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -37,14 +39,12 @@ Alcom Carbon Markets (ACM) is a Singapore-based climate-tech company that develo
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://cleantechnica.com/2026/02/09/altitude-partners-with-alcom-for-360-000t-carbon-removals/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.alcomsg.com/carbon-removal))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.alcomsg.com/carbon-removal))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 - **** — merged duplicate: Alcom (slug=alcom)
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://alcomcm.com/about/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://alcomcm.com ([source](https://www.cdr.fyi/supplier/alcom-carbon-markets))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/alcom-carbon-markets))
-
-[View on LinkedIn](https://www.linkedin.com/company/alcom-pte-ltd/)
 
 ---
 

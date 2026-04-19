@@ -8,16 +8,17 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Secondary pathways:** Afforestation
-**Method:** Biochar
-**Country:** Mexico
-**Website:** [https://humica.mx/](https://humica.mx/)
-**Status:** 🟢 Active (score: 70/100)
-**Employees:** ~5 (+25% YoY)
-**LinkedIn Followers:** 263
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>Afforestation</td></tr>
+  <tr><th>Country</th><td>Mexico</td></tr>
+  <tr><th>Website</th><td><a href="https://humica.mx/" target="_blank" rel="noopener">https://humica.mx/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/h%c3%bamica/" target="_blank" rel="noopener">h%c3%bamica — 263 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Employees</th><td>~5 (+25% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -32,9 +33,7 @@ Húmica is a Mexican soil biotechnology startup founded in 2019-2020 that partne
 - **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://thoughtforfood.org/content-hub/meet-humica-a-mexican-startup-on-a-mission-to-solve-climate-change-by-reviving-ancient-soil-tech/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://humica.mx/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://humica.mx/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/h%c3%bamica/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

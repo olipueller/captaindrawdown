@@ -8,16 +8,18 @@ pathway: "DAC"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** DAC
-**Secondary pathways:** Enabling Tech
-**Method:** Unknown
-**Country:** China
-**Website:** [https://www.de-carbon.com.cn/en](https://www.de-carbon.com.cn/en)
-**Status:** 🟡 Moderate (score: 60/100)
-**Employees:** ~2 (0% YoY)
-**LinkedIn Followers:** 49
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>DAC</td></tr>
+  <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>China</td></tr>
+  <tr><th>Website</th><td><a href="https://www.de-carbon.com.cn/en" target="_blank" rel="noopener">https://www.de-carbon.com.cn/en</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/decarbon-tech/" target="_blank" rel="noopener">decarbon-tech — 49 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 60/100)</td></tr>
+  <tr><th>Employees</th><td>~2 (0% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -36,8 +38,6 @@ DeCarbon Tech is a Shenzhen-based climate technology company founded by professo
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://www.de-carbon.com.cn/en))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://de-carbon.com.cn/ ([source](https://www.cdr.fyi/supplier/decarbon-tech))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/decarbon-tech))
-
-[View on LinkedIn](https://www.linkedin.com/company/decarbon-tech/)
 
 ---
 

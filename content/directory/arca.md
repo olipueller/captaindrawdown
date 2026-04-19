@@ -8,15 +8,17 @@ pathway: "Mineralization"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Mineralization
-**Method:** Mineralization (Other)
-**Country:** Canada
-**Website:** [https://arcaclimate.com/](https://arcaclimate.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~33 (-8% YoY)
-**LinkedIn Followers:** 5,571
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin, registry_cdrjobsearth
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Mineralization</td></tr>
+  <tr><th>Method</th><td>Mineralization (Other)</td></tr>
+  <tr><th>Country</th><td>Canada</td></tr>
+  <tr><th>Website</th><td><a href="https://arcaclimate.com/" target="_blank" rel="noopener">https://arcaclimate.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/arcaclimate/" target="_blank" rel="noopener">arcaclimate — 5,571 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~33 (-8% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -34,9 +36,7 @@ Arca Climate Technologies Inc., headquartered in Vancouver, BC, is a UBC spin-of
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://tracxn.com/d/companies/arca/__5q2gep_5KQ2LVib8z2XQv0nQADM4iUhgs-ZJTCuVVys))
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://arcaclimate.com/what-we-do/))
 - **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://arcaclimate.com/newsroom/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/arcaclimate/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

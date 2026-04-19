@@ -8,15 +8,17 @@ pathway: "Afforestation"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Afforestation
-**Method:** Unknown
-**Country:** France
-**Website:** [https://www.morfo.rest](https://www.morfo.rest)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~37 (-27% YoY)
-**LinkedIn Followers:** 17,277
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Afforestation</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>France</td></tr>
+  <tr><th>Website</th><td><a href="https://www.morfo.rest" target="_blank" rel="noopener">https://www.morfo.rest</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/morforest/" target="_blank" rel="noopener">morforest — 17,277 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~37 (-27% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -32,8 +34,6 @@ Franco-Brazilian company MORFO is a reforestation implementer working with carbo
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.morfo.rest/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.morfo.rest/en ([source](https://www.cdr.fyi/supplier/morfo))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/morfo))
-
-[View on LinkedIn](https://www.linkedin.com/company/morforest/)
 
 ---
 

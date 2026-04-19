@@ -8,15 +8,17 @@ pathway: "DAC"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** DAC
-**Method:** DAC (Membrane)
-**Country:** Israel
-**Website:** [https://www.repair-carbon.com/](https://www.repair-carbon.com/)
-**Status:** 🟢 Active (score: 90/100)
-**Employees:** ~51 (+34% YoY)
-**LinkedIn Followers:** 9,619
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>DAC</td></tr>
+  <tr><th>Method</th><td>DAC (Membrane)</td></tr>
+  <tr><th>Country</th><td>Israel</td></tr>
+  <tr><th>Website</th><td><a href="https://www.repair-carbon.com/" target="_blank" rel="noopener">https://www.repair-carbon.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/repair-carbon/" target="_blank" rel="noopener">repair-carbon — 9,619 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Employees</th><td>~51 (+34% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -30,9 +32,7 @@ RepAir Carbon is an Israeli direct air capture company developing a solid-state 
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.repair-carbon.com/press-posts/repair-carbon-raises-15m-to-commercialize-breakthrough-technology))
 - **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.repair-carbon.com/press-posts/repair-unveils-direct-air-capture-field-prototype))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/repair-carbon/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

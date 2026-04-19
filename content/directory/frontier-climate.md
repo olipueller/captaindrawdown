@@ -8,15 +8,16 @@ pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Enabling Tech
-**Method:** Enabling Tech
-**Country:** United States
-**Website:** [https://frontierclimate.com/](https://frontierclimate.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~12
-**LinkedIn Followers:** 1,797
-**CDR Focus:** ecosystem
-**Evidence signals:** news_mention
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://frontierclimate.com/" target="_blank" rel="noopener">https://frontierclimate.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/frontierclimate/" target="_blank" rel="noopener">frontierclimate — 1,797 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~12</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -32,8 +33,6 @@ Frontier Climate is an advance market commitment (AMC) that aggregates buyer dem
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://frontierclimate.com/))
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://frontierclimate.com/))
 - **2026-04-19** — discovered via: news_feed ([source](https://en.wikipedia.org/wiki/Frontier_Climate))
-
-[View on LinkedIn](https://www.linkedin.com/company/frontierclimate/)
 
 ---
 

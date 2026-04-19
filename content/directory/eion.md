@@ -8,16 +8,18 @@ pathway: "Enhanced Weathering"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Enhanced Weathering
-**Method:** Enhanced Rock Weathering
-**Country:** United States
-**Website:** [https://eioncarbon.com/](https://eioncarbon.com/)
-**Status:** 🟢 Active (score: 100/100)
-**Employees:** ~44 (-31% YoY)
-**LinkedIn Followers:** 5,861
-**Open roles on cdrjobs:** 1
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, cdrjobs, registry_puro, registry_cdrjobsearth
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enhanced Weathering</td></tr>
+  <tr><th>Method</th><td>Enhanced Rock Weathering</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://eioncarbon.com/" target="_blank" rel="noopener">https://eioncarbon.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/eioncarbon/" target="_blank" rel="noopener">eioncarbon — 5,861 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
+  <tr><th>Employees</th><td>~44 (-31% YoY)</td></tr>
+  <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -49,9 +51,7 @@ Eion was a US-based enhanced rock weathering supplier that deployed olivine (sou
 - **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active ([source](registry_activity))
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟡 Moderate ([source](https://www.businesswire.com/news/home/20260206062937/en/Terradot-Acquires-Eion-to-Form-Leading-Global-Enhanced-Rock-Weathering-Carbon-Removal-Platform))
 - **2026-04-18** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://www.axios.com/2025/03/25/eion-carbon-removal-enhanced-rock-weathering-frontier))
-- **2026-04-18** — backfilled from V1
-
-[View on LinkedIn](https://www.linkedin.com/company/eioncarbon/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

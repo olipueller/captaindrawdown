@@ -8,16 +8,18 @@ pathway: "Enabling Tech"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Enabling Tech
-**Secondary pathways:** Afforestation
-**Method:** Unknown
-**Country:** Switzerland
-**Website:** [https://xilva.global/](https://xilva.global/)
-**Status:** 🟢 Active (score: 85/100)
-**Employees:** ~17 (+55% YoY)
-**LinkedIn Followers:** 4,061
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Secondary pathways</th><td>Afforestation</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Switzerland</td></tr>
+  <tr><th>Website</th><td><a href="https://xilva.global/" target="_blank" rel="noopener">https://xilva.global/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/xilva/" target="_blank" rel="noopener">xilva — 4,061 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Employees</th><td>~17 (+55% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -30,8 +32,6 @@ Xilva is a Zurich-based startup (founded 2021) that provides due diligence, rati
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://xilva.global/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://xilva.global ([source](https://www.cdr.fyi/supplier/xilva))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/xilva))
-
-[View on LinkedIn](https://www.linkedin.com/company/xilva/)
 
 ---
 

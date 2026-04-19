@@ -8,16 +8,18 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Secondary pathways:** Mineralization, DAC
-**Method:** Unknown
-**Country:** Canada
-**Website:** [https://bluskycarbon.com/](https://bluskycarbon.com/)
-**Status:** 🟢 Active (score: 80/100)
-**Employees:** ~85 (+6% YoY)
-**LinkedIn Followers:** 249
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>Mineralization, DAC</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Canada</td></tr>
+  <tr><th>Website</th><td><a href="https://bluskycarbon.com/" target="_blank" rel="noopener">https://bluskycarbon.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/blu-sky-creative/" target="_blank" rel="noopener">blu-sky-creative — 249 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Employees</th><td>~85 (+6% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -30,8 +32,6 @@ BluSky Carbon (CSE: BSKY / OTCQB: BSKCF) is a Vancouver, BC–based publicly-lis
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://bluskycarbon.com/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://bluskycarbon.com/ ([source](https://www.cdr.fyi/supplier/blusky-carbon))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/blusky-carbon))
-
-[View on LinkedIn](https://www.linkedin.com/company/blu-sky-creative/)
 
 ---
 

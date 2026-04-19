@@ -8,15 +8,16 @@ pathway: "BECCS"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** BECCS
-**Method:** BECCS
-**Country:** Sweden
-**Website:** [https://www.stockholmexergi.se/en/](https://www.stockholmexergi.se/en/)
-**Status:** 🟢 Active (score: 98/100)
-**Employees:** ~826 (+12% YoY)
-**LinkedIn Followers:** 19,652
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>BECCS</td></tr>
+  <tr><th>Country</th><td>Sweden</td></tr>
+  <tr><th>Website</th><td><a href="https://www.stockholmexergi.se/en/" target="_blank" rel="noopener">https://www.stockholmexergi.se/en/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/stockholm-exergi/" target="_blank" rel="noopener">stockholm-exergi — 19,652 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 98/100)</td></tr>
+  <tr><th>Employees</th><td>~826 (+12% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -30,9 +31,7 @@ Stockholm Exergi is a Swedish municipal energy utility (owned by the City of Sto
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.prnewswire.com/news-releases/stockholm-exergi-takes-final-investment-decision-on-worlds-first-large-scale-beccs-project-using-capsols-carbon-capture-technology-302413617.html))
 - **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.stockholmexergi.se/en/beccs/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/stockholm-exergi/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

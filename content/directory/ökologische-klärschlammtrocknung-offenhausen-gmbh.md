@@ -8,14 +8,17 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Method:** Unknown
-**Country:** Germany
-**Website:** [https://www.egrw.de/member/oekologische-klaerschlammtrocknung-offenhausen-gmbh/](https://www.egrw.de/member/oekologische-klaerschlammtrocknung-offenhausen-gmbh/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~1 (0% YoY)
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Germany</td></tr>
+  <tr><th>Website</th><td><a href="https://www.egrw.de/member/oekologische-klaerschlammtrocknung-offenhausen-gmbh/" target="_blank" rel="noopener">https://www.egrw.de/member/oekologische-klaerschlammtrocknung-offenhausen-gmbh/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/egrw/" target="_blank" rel="noopener">egrw</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~1 (0% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -30,8 +33,6 @@ liveliness: "🟡 Moderate"
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.egrw.de/member/oekologische-klaerschlammtrocknung-offenhausen-gmbh/ ([source](https://www.cdr.fyi/supplier/okt-offenhausen))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://global-c-sink.easy-cert.cloud/media/projectfile/None/PZ2aXp0K9MProject_Design_Document_GCSP1126_DE.pdf))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/okt-offenhausen))
-
-[View on LinkedIn](https://www.linkedin.com/company/egrw/)
 
 ---
 

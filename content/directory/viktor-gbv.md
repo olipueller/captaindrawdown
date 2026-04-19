@@ -8,15 +8,18 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Secondary pathways:** BECCS
-**Method:** Unknown
-**Country:** Belgium
-**Website:** [https://www.viktorgoesgreen.be/](https://www.viktorgoesgreen.be/)
-**Status:** 🟡 Moderate (score: 60/100)
-**Employees:** ~3 (0% YoY)
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>BECCS</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Belgium</td></tr>
+  <tr><th>Website</th><td><a href="https://www.viktorgoesgreen.be/" target="_blank" rel="noopener">https://www.viktorgoesgreen.be/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/viktor-goes-green.be/" target="_blank" rel="noopener">viktor-goes-green.be</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 60/100)</td></tr>
+  <tr><th>Employees</th><td>~3 (0% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -29,8 +32,6 @@ Viktor Goes Green is an Antwerp, Belgium-based company that develops green energ
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.viktorgoesgreen.be/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.viktorgoesgreen.be ([source](https://www.cdr.fyi/supplier/viktor))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/viktor))
-
-[View on LinkedIn](https://www.linkedin.com/company/viktor-goes-green.be/)
 
 ---
 

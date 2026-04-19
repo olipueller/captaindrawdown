@@ -8,15 +8,17 @@ pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Enabling Tech
-**Method:** Unknown
-**Country:** Germany
-**Website:** [https://bluelayer.io/](https://bluelayer.io/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~23 (-26% YoY)
-**LinkedIn Followers:** 3,972
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Germany</td></tr>
+  <tr><th>Website</th><td><a href="https://bluelayer.io/" target="_blank" rel="noopener">https://bluelayer.io/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/getbluelayer/" target="_blank" rel="noopener">getbluelayer — 3,972 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~23 (-26% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -30,8 +32,6 @@ BlueLayer is a Berlin-based software platform providing an end-to-end operating 
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://bluelayer.io/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://bluelayer.io/ ([source](https://www.cdr.fyi/marketplace/bluelayer))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/bluelayer))
-
-[View on LinkedIn](https://www.linkedin.com/company/getbluelayer/)
 
 ---
 

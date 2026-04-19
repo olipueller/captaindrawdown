@@ -8,16 +8,18 @@ pathway: "Enabling Tech"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Enabling Tech
-**Method:** CDR Platform/Marketplace
-**Country:** Germany
-**Website:** [https://www.netzerolab.science/](https://www.netzerolab.science/)
-**Status:** 🟢 Active (score: 85/100)
-**Employees:** ~3 (+200% YoY)
-**LinkedIn Followers:** 201
-**Open roles on cdrjobs:** 1
-**CDR Focus:** ecosystem
-**Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>CDR Platform/Marketplace</td></tr>
+  <tr><th>Country</th><td>Germany</td></tr>
+  <tr><th>Website</th><td><a href="https://www.netzerolab.science/" target="_blank" rel="noopener">https://www.netzerolab.science/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/net-zero-lab-%e2%80%93-max-planck-institute-for-innovation-and-competition/" target="_blank" rel="noopener">net-zero-lab-%e2%80%93-max-planck-institute-for-innovation-and-competition — 201 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Employees</th><td>~3 (+200% YoY)</td></tr>
+  <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -32,9 +34,7 @@ Net Zero Lab is an independent Max Planck Research Group at the Max Planck Insti
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.ip.mpg.de/en/the-institute/institute-news/the-institute-welcomes-new-max-planck-research-group-leader-benedict-probst-net-zero-lab.html))
 - **2026-04-18** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://netzerolab.science/))
-- **2026-04-18** — backfilled from V1
-
-[View on LinkedIn](https://www.linkedin.com/company/net-zero-lab-%e2%80%93-max-planck-institute-for-innovation-and-competition/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

@@ -8,16 +8,18 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Secondary pathways:** Mineralization, Enabling Tech
-**Method:** Unknown
-**Country:** United Kingdom
-**Website:** [https://www.carboncharstore.com](https://www.carboncharstore.com)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~1 (-50% YoY)
-**LinkedIn Followers:** 546
-**CDR Focus:** division
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>Mineralization, Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>United Kingdom</td></tr>
+  <tr><th>Website</th><td><a href="https://www.carboncharstore.com" target="_blank" rel="noopener">https://www.carboncharstore.com</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-char-store/" target="_blank" rel="noopener">carbon-char-store — 546 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~1 (-50% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>division</td></tr>
+</table>
 
 ## About
 
@@ -30,8 +32,6 @@ Carbon Char Store (CCS) is the UK-based carbon-removal arm of Standard Gas, a wa
 - **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟡 Moderate ([source](https://carboncharstore.com/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.carboncharstore.com ([source](https://www.cdr.fyi/marketplace/carbon-char-store))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/carbon-char-store))
-
-[View on LinkedIn](https://www.linkedin.com/company/carbon-char-store/)
 
 ---
 

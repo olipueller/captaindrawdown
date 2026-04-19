@@ -8,15 +8,16 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** Belgium
-**Website:** [https://www.aquafin.be/](https://www.aquafin.be/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~1011 (+3% YoY)
-**LinkedIn Followers:** 22,951
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>Belgium</td></tr>
+  <tr><th>Website</th><td><a href="https://www.aquafin.be/" target="_blank" rel="noopener">https://www.aquafin.be/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/aquafin/" target="_blank" rel="noopener">aquafin — 22,951 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~1011 (+3% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -31,9 +32,7 @@ Aquafin is Belgium's Flemish wastewater treatment utility, responsible for colle
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://carbonherald.com/belgian-wastewater-treatment-expert-aquafin-to-develop-a-biochar-project/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://carbonherald.com/belgian-wastewater-treatment-expert-aquafin-to-develop-a-biochar-project/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://carbonherald.com/belgian-wastewater-treatment-expert-aquafin-to-develop-a-biochar-project/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/aquafin/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

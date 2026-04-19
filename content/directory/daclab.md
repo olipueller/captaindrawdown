@@ -8,15 +8,17 @@ pathway: "DAC"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** DAC
-**Method:** DAC (Solid Sorbent)
-**Country:** United States
-**Website:** [https://www.daclab.us](https://www.daclab.us)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~3 (0% YoY)
-**LinkedIn Followers:** 288
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>DAC</td></tr>
+  <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://www.daclab.us" target="_blank" rel="noopener">https://www.daclab.us</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/daclab-us/" target="_blank" rel="noopener">daclab-us — 288 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~3 (0% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -29,9 +31,7 @@ DACLab is a Palo Alto-based climate-tech startup developing a modular solid-sorb
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://carbonherald.com/cdr-in-2025-the-shifts-and-strides-that-redefined-the-sector/))
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://techcrunch.com/2025/09/18/daclab-says-it-can-remove-co2-using-less-electricity-than-many-competitors/))
 - **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.daclab.us/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/daclab-us/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

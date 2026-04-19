@@ -8,16 +8,17 @@ pathway: "Ocean CDR"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Ocean CDR
-**Secondary pathways:** Enabling Tech
-**Method:** Ocean CDR
-**Country:** Norway
-**Website:** [https://marinix.org/](https://marinix.org/)
-**Status:** 🟡 Moderate (score: 45/100)
-**Employees:** ~7 (0% YoY)
-**LinkedIn Followers:** 217
-**CDR Focus:** supplier
-**Evidence signals:** exa_search
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Ocean CDR</td></tr>
+  <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
+  <tr><th>Country</th><td>Norway</td></tr>
+  <tr><th>Website</th><td><a href="https://marinix.org/" target="_blank" rel="noopener">https://marinix.org/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/gea-carbon-capture/" target="_blank" rel="noopener">gea-carbon-capture — 217 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 45/100)</td></tr>
+  <tr><th>Employees</th><td>~7 (0% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -32,8 +33,6 @@ MARINIX Ocean Tech AS is a Norwegian early-stage ocean CDR startup developing te
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟡 Moderate ([source](https://marinix.org/wp-content/uploads/2025/02/TWP2025.pdf))
 - **2026-04-18** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟡 Moderate ([source](https://marinix.org/wp-content/uploads/2025/02/TWP2025.pdf))
 - **2026-04-18** — discovered via: exa ([source](https://marinix.org/))
-
-[View on LinkedIn](https://www.linkedin.com/company/gea-carbon-capture/)
 
 ---
 

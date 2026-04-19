@@ -8,16 +8,17 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Secondary pathways:** BECCS
-**Method:** Biochar
-**Country:** Sweden
-**Website:** [https://solorbioenergi.com/](https://solorbioenergi.com/)
-**Status:** 🟢 Active (score: 95/100)
-**Employees:** ~63
-**LinkedIn Followers:** 557
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>BECCS</td></tr>
+  <tr><th>Country</th><td>Sweden</td></tr>
+  <tr><th>Website</th><td><a href="https://solorbioenergi.com/" target="_blank" rel="noopener">https://solorbioenergi.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sol%c3%b6r-bioenergi-ab/" target="_blank" rel="noopener">sol%c3%b6r-bioenergi-ab — 557 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
+  <tr><th>Employees</th><td>~63</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -40,9 +41,7 @@ Solör Bioenergy Group is a leading Scandinavian renewable energy company that p
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://solorbioenergi.com/about-solor-bioenergi/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://bioenergyinternational.com/solor-bioenergi-enters-biochar-production-collaboration/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://bioenergyinternational.com/solor-bioenergi-enters-biochar-production-collaboration/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/sol%c3%b6r-bioenergi-ab/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

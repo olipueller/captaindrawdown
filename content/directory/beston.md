@@ -8,15 +8,17 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Method:** Unknown
-**Country:** China
-**Website:** [https://www.bestongroup.com/](https://www.bestongroup.com/)
-**Status:** 🟢 Active (score: 85/100)
-**Employees:** ~102 (+12% YoY)
-**LinkedIn Followers:** 35,299
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>China</td></tr>
+  <tr><th>Website</th><td><a href="https://www.bestongroup.com/" target="_blank" rel="noopener">https://www.bestongroup.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/beston-henan-machinery-co-ltd-/" target="_blank" rel="noopener">beston-henan-machinery-co-ltd- — 35,299 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Employees</th><td>~102 (+12% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -37,8 +39,6 @@ Beston Group, founded in 2013 and based in Henan, China, is a manufacturer of bi
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.bestongroup.com/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.bestongroup.com/ ([source](https://www.cdr.fyi/marketplace/beston))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/beston))
-
-[View on LinkedIn](https://www.linkedin.com/company/beston-henan-machinery-co-ltd-/)
 
 ---
 

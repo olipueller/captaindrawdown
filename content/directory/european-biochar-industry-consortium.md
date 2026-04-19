@@ -8,16 +8,18 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Secondary pathways:** Enabling Tech
-**Method:** Unknown
-**Country:** Germany
-**Website:** [https://www.biochareurope.eu/](https://www.biochareurope.eu/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~9
-**LinkedIn Followers:** 10,244
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Germany</td></tr>
+  <tr><th>Website</th><td><a href="https://www.biochareurope.eu/" target="_blank" rel="noopener">https://www.biochareurope.eu/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ebi-consortium/" target="_blank" rel="noopener">ebi-consortium — 10,244 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~9</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -33,8 +35,6 @@ The European Biochar Industry Consortium (EBI), now operating as Biochar Europe,
 - **2026-04-19** — reclassified: pathway=Biochar focus=ecosystem liveliness=🟢 Active ([source](https://www.biochareurope.eu/))
 - **2026-04-19** — url added from cdr.fyi supplier page: http://www.biochar-industry.com ([source](https://www.cdr.fyi/marketplace/european-biochar-industry-consortium))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/european-biochar-industry-consortium))
-
-[View on LinkedIn](https://www.linkedin.com/company/ebi-consortium/)
 
 ---
 

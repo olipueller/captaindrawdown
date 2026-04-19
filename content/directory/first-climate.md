@@ -8,16 +8,18 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Secondary pathways:** Afforestation
-**Method:** BiCRS (Other)
-**Country:** Germany
-**Website:** [https://www.firstclimate.com/](https://www.firstclimate.com/)
-**Status:** 🟢 Active (score: 90/100)
-**Employees:** ~89
-**LinkedIn Followers:** 17,309
-**CDR Focus:** ecosystem
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>Afforestation</td></tr>
+  <tr><th>Method</th><td>BiCRS (Other)</td></tr>
+  <tr><th>Country</th><td>Germany</td></tr>
+  <tr><th>Website</th><td><a href="https://www.firstclimate.com/" target="_blank" rel="noopener">https://www.firstclimate.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/first-climate/" target="_blank" rel="noopener">first-climate — 17,309 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Employees</th><td>~89</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -33,9 +35,7 @@ First Climate is a German/Swiss carbon asset manager and climate services firm f
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.firstclimate.com/?lang=en))
 - **2026-04-19** — reclassified: pathway=Biochar focus=ecosystem liveliness=🟢 Active ([source](https://www.firstclimate.com/pflanzenkohleprogramm?lang=en))
 - **2026-04-18** — reclassified: pathway=Biochar focus=ecosystem liveliness=🟢 Active ([source](https://www.firstclimate.com/carbon-removals?lang=en))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/first-climate/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

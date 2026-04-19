@@ -8,13 +8,16 @@ pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Enabling Tech
-**Method:** Unknown
-**Country:** Singapore
-**Website:** [https://www.klimadao.finance/](https://www.klimadao.finance/)
-**Status:** 🟡 Moderate (score: 55/100)
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Singapore</td></tr>
+  <tr><th>Website</th><td><a href="https://www.klimadao.finance/" target="_blank" rel="noopener">https://www.klimadao.finance/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/klima-dao/" target="_blank" rel="noopener">klima-dao</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -28,8 +31,6 @@ KlimaDAO is a decentralized autonomous organization building blockchain-based in
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.klimadao.finance/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.klimadao.finance/ ([source](https://www.cdr.fyi/supplier/klimadao))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/klimadao))
-
-[View on LinkedIn](https://www.linkedin.com/company/klima-dao/)
 
 ---
 

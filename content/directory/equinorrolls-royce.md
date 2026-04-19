@@ -8,15 +8,17 @@ pathway: "DAC"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** DAC
-**Method:** DAC (Liquid Solvent)
-**Country:** Norway
-**Website:** [https://www.equinor.com/](https://www.equinor.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~16593 (+1% YoY)
-**LinkedIn Followers:** 1,061,784
-**CDR Focus:** division
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>DAC</td></tr>
+  <tr><th>Method</th><td>DAC (Liquid Solvent)</td></tr>
+  <tr><th>Country</th><td>Norway</td></tr>
+  <tr><th>Website</th><td><a href="https://www.equinor.com/" target="_blank" rel="noopener">https://www.equinor.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/equinor/" target="_blank" rel="noopener">equinor — 1,061,784 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~16593 (+1% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>division</td></tr>
+</table>
 
 ## About
 
@@ -31,9 +33,7 @@ Equinor is a Norwegian energy major that in April 2024 acquired Rolls-Royce's li
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.gov.uk/government/publications/direct-air-capture-and-greenhouse-gas-removal-innovation-programme-selected-projects/direct-air-capture-and-greenhouse-gas-removal-innovation-programme-phase-2-projects))
 - **2026-04-19** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://assets.publishing.service.gov.uk/media/695cf2d4f41883f4e50ed996/Equinor_ENCORE_GGR_Phase_2_Report_for_publication.pdf))
 - **2026-04-18** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://www.equinor.com/energy/direct-air-capture))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/equinor/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

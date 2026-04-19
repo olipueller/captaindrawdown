@@ -8,16 +8,17 @@ pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Enabling Tech
-**Secondary pathways:** DAC, Afforestation, Enhanced Weathering
-**Method:** Enabling Tech
-**Country:** United States
-**Website:** [https://carbon180.org](https://carbon180.org)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~34
-**LinkedIn Followers:** 13,777
-**CDR Focus:** ecosystem
-**Evidence signals:** news_mention
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Secondary pathways</th><td>DAC, Afforestation, Enhanced Weathering</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://carbon180.org" target="_blank" rel="noopener">https://carbon180.org</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/the-center-for-carbon-removal/" target="_blank" rel="noopener">the-center-for-carbon-removal — 13,777 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~34</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -31,8 +32,6 @@ Carbon180 is a Washington, D.C.-based nonprofit, nonpartisan climate NGO founded
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://carbon180.org/))
 - **2026-04-18** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://carbon180.org/))
 - **2026-04-18** — discovered via: news_feed ([source](https://carbonherald.com/carbon180-unveils-a-first-of-its-kind-framework-for-responsible-cdr/))
-
-[View on LinkedIn](https://www.linkedin.com/company/the-center-for-carbon-removal/)
 
 ---
 

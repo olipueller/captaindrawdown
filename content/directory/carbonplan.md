@@ -8,15 +8,17 @@ pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Enabling Tech
-**Method:** Unknown
-**Country:** United States
-**Website:** [https://carbonplan.org/](https://carbonplan.org/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~15 (0% YoY)
-**LinkedIn Followers:** 6,155
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://carbonplan.org/" target="_blank" rel="noopener">https://carbonplan.org/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonplan/" target="_blank" rel="noopener">carbonplan — 6,155 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~15 (0% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -32,8 +34,6 @@ CarbonPlan is a U.S. nonprofit (California public benefit corporation) that prod
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://carbonplan.org/about))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://carbonplan.org/ ([source](https://www.cdr.fyi/marketplace/carbonplan))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/carbonplan))
-
-[View on LinkedIn](https://www.linkedin.com/company/carbonplan/)
 
 ---
 

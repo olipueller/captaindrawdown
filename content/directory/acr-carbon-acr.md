@@ -8,15 +8,17 @@ pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Enabling Tech
-**Method:** Unknown
-**Country:** United States
-**Website:** [https://acrcarbon.org/](https://acrcarbon.org/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~25
-**LinkedIn Followers:** 5,954
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://acrcarbon.org/" target="_blank" rel="noopener">https://acrcarbon.org/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/americancarbonregistry/" target="_blank" rel="noopener">americancarbonregistry — 5,954 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~25</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -30,8 +32,6 @@ ACR (formerly American Carbon Registry) is a nonprofit carbon crediting program 
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://acrcarbon.org/about-us/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://acrcarbon.org/ ([source](https://www.cdr.fyi/marketplace/acr-carbon))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/acr-carbon))
-
-[View on LinkedIn](https://www.linkedin.com/company/americancarbonregistry/)
 
 ---
 

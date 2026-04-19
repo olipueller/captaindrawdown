@@ -8,15 +8,17 @@ pathway: "DAC"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** DAC
-**Method:** Unknown
-**Country:** United States
-**Website:** [https://wellplanet.pro/](https://wellplanet.pro/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~2 (-33% YoY)
-**LinkedIn Followers:** 198
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>DAC</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://wellplanet.pro/" target="_blank" rel="noopener">https://wellplanet.pro/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/wellplanetpro/" target="_blank" rel="noopener">wellplanetpro — 198 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~2 (-33% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -32,8 +34,6 @@ WellPlanet Project is a US (Florida)-based early-stage initiative that aspires t
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://wellplanet.pro/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://wellplanet.pro/ ([source](https://www.cdr.fyi/supplier/wellplanet-project))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/wellplanet-project))
-
-[View on LinkedIn](https://www.linkedin.com/company/wellplanetpro/)
 
 ---
 

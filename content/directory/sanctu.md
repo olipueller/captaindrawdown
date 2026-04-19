@@ -8,15 +8,17 @@ pathway: "Afforestation"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Afforestation
-**Method:** Unknown
-**Country:** Brazil
-**Website:** [http://www.sanctu.com](http://www.sanctu.com)
-**Status:** 🟢 Active (score: 70/100)
-**Employees:** ~23 (+28% YoY)
-**LinkedIn Followers:** 2,472
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Afforestation</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Brazil</td></tr>
+  <tr><th>Website</th><td><a href="http://www.sanctu.com" target="_blank" rel="noopener">http://www.sanctu.com</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sanctu/" target="_blank" rel="noopener">sanctu — 2,472 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Employees</th><td>~23 (+28% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -30,8 +32,6 @@ Sanctu is a Brazilian reforestation startup focused on restoring the Amazon by p
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟡 Moderate ([source](https://www.linkedin.com/company/sanctu/))
 - **2026-04-19** — url added from cdr.fyi supplier page: http://www.sanctu.com ([source](https://www.cdr.fyi/supplier/sanctu))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/sanctu))
-
-[View on LinkedIn](https://www.linkedin.com/company/sanctu/)
 
 ---
 

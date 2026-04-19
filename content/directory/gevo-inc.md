@@ -8,16 +8,18 @@ pathway: "BECCS"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** BECCS
-**Secondary pathways:** Enabling Tech
-**Method:** Unknown
-**Country:** United States
-**Website:** [https://gevo.com](https://gevo.com)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~124 (0% YoY)
-**LinkedIn Followers:** 22,538
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>BECCS</td></tr>
+  <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://gevo.com" target="_blank" rel="noopener">https://gevo.com</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/gevo/" target="_blank" rel="noopener">gevo — 22,538 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~124 (0% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -37,7 +39,7 @@ Gevo, Inc. (NASDAQ: GEVO) is a US-based renewable fuels and chemicals company he
 - **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://investors.gevo.com/news-releases/news-release-details/gevo-completes-acquisition-red-trail-energy-assets-north-dakota))
 - **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://investors.gevo.com/news-releases/news-release-details/gevo-completes-acquisition-red-trail-energy-assets-north-dakota))
 - **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://investors.gevo.com/news-releases/news-release-details/gevo-completes-acquisition-red-trail-energy-assets-north-dakota))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 - **** — merged duplicate: Gevo (Red Trail Energy) (slug=gevo-red-trail-energy)
 - **2026-04-19** — merged 1 duplicate(s): Gevo
 - **2026-04-19** — refresh: coresignal, liveliness
@@ -52,8 +54,6 @@ Gevo, Inc. (NASDAQ: GEVO) is a US-based renewable fuels and chemicals company he
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://investors.gevo.com/news-releases/news-release-details/gevo-achieves-industry-milestone-500000-high-quality-carbon))
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://investors.gevo.com/news-releases/news-release-details/gevo-achieves-industry-milestone-500000-high-quality-carbon))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/gevo))
-
-[View on LinkedIn](https://www.linkedin.com/company/gevo/)
 
 ---
 

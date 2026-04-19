@@ -8,15 +8,17 @@ pathway: "Afforestation"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Afforestation
-**Method:** Unknown
-**Country:** Mexico
-**Website:** [https://bret-co.com/](https://bret-co.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~5 (0% YoY)
-**LinkedIn Followers:** 142
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Afforestation</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Mexico</td></tr>
+  <tr><th>Website</th><td><a href="https://bret-co.com/" target="_blank" rel="noopener">https://bret-co.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bret-consultores/" target="_blank" rel="noopener">bret-consultores — 142 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~5 (0% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -31,8 +33,6 @@ Bret Consultores SAPI de CV is a Mexico-based carbon project developer that gene
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://bret-co.com/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/bret-consultores))
-
-[View on LinkedIn](https://www.linkedin.com/company/bret-consultores/)
 
 ---
 

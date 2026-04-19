@@ -8,16 +8,18 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Secondary pathways:** Afforestation, Enabling Tech
-**Method:** Unknown
-**Country:** United States
-**Website:** [https://plantvillageplus.coop/](https://plantvillageplus.coop/)
-**Status:** 🟢 Active (score: 85/100)
-**Employees:** ~30 (+400% YoY)
-**LinkedIn Followers:** 2,074
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>Afforestation, Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://plantvillageplus.coop/" target="_blank" rel="noopener">https://plantvillageplus.coop/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon4good.net/" target="_blank" rel="noopener">carbon4good.net — 2,074 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Employees</th><td>~30 (+400% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -33,8 +35,6 @@ PlantVillage+ is a worker cooperative originating from Penn State's PlantVillage
 - **2026-04-19** — url added from cdr.fyi supplier page: https://plantvillageplus.coop/ ([source](https://www.cdr.fyi/supplier/plantvillageplus))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/plantvillage))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/plantvillageplus))
-
-[View on LinkedIn](https://www.linkedin.com/company/carbon4good.net/)
 
 ---
 

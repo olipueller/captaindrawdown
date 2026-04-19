@@ -8,16 +8,17 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Secondary pathways:** BECCS
-**Method:** Biochar
-**Country:** Austria
-**Website:** [https://www.nawaro-energie.at](https://www.nawaro-energie.at)
-**Status:** 🟢 Active (score: 88/100)
-**Employees:** ~9 (-10% YoY)
-**LinkedIn Followers:** 377
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>BECCS</td></tr>
+  <tr><th>Country</th><td>Austria</td></tr>
+  <tr><th>Website</th><td><a href="https://www.nawaro-energie.at" target="_blank" rel="noopener">https://www.nawaro-energie.at</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/nawaro-energie/" target="_blank" rel="noopener">nawaro-energie — 377 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 88/100)</td></tr>
+  <tr><th>Employees</th><td>~9 (-10% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -33,9 +34,7 @@ NAWARO ENERGIE Betrieb GmbH is an Austrian bioenergy producer headquartered in Z
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.nawaro-energie.at/willkommen-auf-der-website-von-nawaro-energie/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.nawaro-energie.at/nawaro-investiert/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.kaup.de/en/info-center/case-studies/nawaro-energie-betrieb-gmbh))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/nawaro-energie/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

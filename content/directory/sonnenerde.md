@@ -8,15 +8,16 @@ pathway: "Biochar"
 liveliness: "🟠 Suspect"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** Austria
-**Website:** [https://www.sonnenerde.at](https://www.sonnenerde.at)
-**Status:** 🟠 Suspect (score: 40/100)
-**Employees:** ~4 (0% YoY)
-**LinkedIn Followers:** 1,146
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, registry_puro
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>Austria</td></tr>
+  <tr><th>Website</th><td><a href="https://www.sonnenerde.at" target="_blank" rel="noopener">https://www.sonnenerde.at</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sonnenerde/" target="_blank" rel="noopener">sonnenerde — 1,146 followers</a></td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Employees</th><td>~4 (0% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -34,9 +35,7 @@ Sonnenerde GmbH is an Austrian biochar producer in Riedlingsdorf, Burgenland, op
 - **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://jumbo-group.de/en/eroffnungsfeier-bei-sonnenerde-biochar/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.sonnenerde.at/en/climate-protection/sonnenerde-biochar-plant))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.sonnenerde.at/en/climate-protection/sonnenerde-biochar-plant))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/sonnenerde/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

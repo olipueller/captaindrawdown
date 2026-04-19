@@ -8,16 +8,18 @@ pathway: "Afforestation"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Afforestation
-**Secondary pathways:** Biochar
-**Method:** Unknown
-**Country:** Germany
-**Website:** [https://global-woods-international.com/](https://global-woods-international.com/)
-**Status:** 🟢 Active (score: 80/100)
-**Employees:** ~11 (+57% YoY)
-**LinkedIn Followers:** 967
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Afforestation</td></tr>
+  <tr><th>Secondary pathways</th><td>Biochar</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Germany</td></tr>
+  <tr><th>Website</th><td><a href="https://global-woods-international.com/" target="_blank" rel="noopener">https://global-woods-international.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/global-woods-international-ag/" target="_blank" rel="noopener">global-woods-international-ag — 967 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Employees</th><td>~11 (+57% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -30,8 +32,6 @@ Global-woods international AG is a German project developer founded in 1987 that
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://global-woods-international.com/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.global-woods-international.com/ ([source](https://www.cdr.fyi/supplier/global-woods-international))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/global-woods-international))
-
-[View on LinkedIn](https://www.linkedin.com/company/global-woods-international-ag/)
 
 ---
 

@@ -8,14 +8,16 @@ pathway: "Enhanced Weathering"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Enhanced Weathering
-**Secondary pathways:** Afforestation
-**Method:** Enhanced Rock Weathering
-**Country:** United Kingdom
-**Website:** [https://www.carbonbank.co.uk/](https://www.carbonbank.co.uk/)
-**Status:** 🟡 Moderate (score: 55/100)
-**CDR Focus:** division
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enhanced Weathering</td></tr>
+  <tr><th>Secondary pathways</th><td>Afforestation</td></tr>
+  <tr><th>Method</th><td>Enhanced Rock Weathering</td></tr>
+  <tr><th>Country</th><td>United Kingdom</td></tr>
+  <tr><th>Website</th><td><a href="https://www.carbonbank.co.uk/" target="_blank" rel="noopener">https://www.carbonbank.co.uk/</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>CDR Focus</th><td>division</td></tr>
+</table>
 
 ## About
 
@@ -30,7 +32,7 @@ Carbon Bank is a UK-based CDR project developer and a division of the Green Brit
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.carbonbank.co.uk/))
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=division liveliness=🟢 Active ([source](https://www.carbonbank.co.uk/what-we-do/))
 - **2026-04-18** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://www.carbonbank.co.uk/what-we-do/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

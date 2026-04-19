@@ -8,17 +8,19 @@ pathway: "Ocean CDR"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Ocean CDR
-**Secondary pathways:** Enabling Tech
-**Method:** Ocean-based CDR
-**Country:** Canada
-**Website:** [https://www.ofi.ca/](https://www.ofi.ca/)
-**Status:** 🟢 Active (score: 90/100)
-**Employees:** ~36 (-5% YoY)
-**LinkedIn Followers:** 7,063
-**Open roles on cdrjobs:** 3
-**CDR Focus:** ecosystem
-**Evidence signals:** website, last_evidence_url, cdrjobs, registry_cdrjobsearth
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Ocean CDR</td></tr>
+  <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Ocean-based CDR</td></tr>
+  <tr><th>Country</th><td>Canada</td></tr>
+  <tr><th>Website</th><td><a href="https://www.ofi.ca/" target="_blank" rel="noopener">https://www.ofi.ca/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ocean-frontier-institute/" target="_blank" rel="noopener">ocean-frontier-institute — 7,063 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 90/100)</td></tr>
+  <tr><th>Employees</th><td>~36 (-5% YoY)</td></tr>
+  <tr><th>Open roles</th><td>3 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -35,9 +37,7 @@ The Ocean Frontier Institute (OFI) is a non-profit research and higher education
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=ecosystem liveliness=🟢 Active ([source](https://www.ofi.ca/))
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=ecosystem liveliness=🟢 Active ([source](https://www.ofi.ca/))
-- **2026-04-18** — backfilled from V1
-
-[View on LinkedIn](https://www.linkedin.com/company/ocean-frontier-institute/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

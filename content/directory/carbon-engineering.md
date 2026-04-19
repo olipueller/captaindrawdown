@@ -8,15 +8,17 @@ pathway: "DAC"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** DAC
-**Method:** Unknown
-**Country:** Canada
-**Website:** [https://carbonengineering.com/](https://carbonengineering.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~186 (+1% YoY)
-**LinkedIn Followers:** 61,943
-**CDR Focus:** division
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>DAC</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Canada</td></tr>
+  <tr><th>Website</th><td><a href="https://carbonengineering.com/" target="_blank" rel="noopener">https://carbonengineering.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-engineering-limited/" target="_blank" rel="noopener">carbon-engineering-limited — 61,943 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~186 (+1% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>division</td></tr>
+</table>
 
 ## About
 
@@ -30,15 +32,13 @@ Carbon Engineering is a Canadian direct air capture (DAC) technology developer h
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://carbonengineering.com/news-updates/carbon-engineering-to-invest-in-technology-development-and-research-facilities/))
 - **2026-04-19** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://carbonengineering.com/))
 - **2026-04-19** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://www.oxy.com/news/news-releases/occidental-enters-into-agreement-to-acquire-direct-air-capture-technology-innovator-carbon-engineering/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 - **** — merged duplicate: Carbon Engineering/Occidental Petroleum (slug=carbon-engineeringoccidental-petroleum)
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://www.oxy.com/news/news-releases/occidental-enters-into-agreement-to-acquire-direct-air-capture-technology-innovator-carbon-engineering/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://carbonengineering.com/ ([source](https://www.cdr.fyi/supplier/carbon-engineering))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/carbon-engineering))
-
-[View on LinkedIn](https://www.linkedin.com/company/carbon-engineering-limited/)
 
 ---
 

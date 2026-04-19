@@ -8,16 +8,17 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Secondary pathways:** BECCS
-**Method:** Biochar
-**Country:** India
-**Website:** [https://varhad.in/](https://varhad.in/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~17
-**LinkedIn Followers:** 6,337
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>BECCS</td></tr>
+  <tr><th>Country</th><td>India</td></tr>
+  <tr><th>Website</th><td><a href="https://varhad.in/" target="_blank" rel="noopener">https://varhad.in/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/the-varhad-group/" target="_blank" rel="noopener">the-varhad-group — 6,337 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~17</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -38,9 +39,7 @@ Varhad Capital (VCAP), part of the Varhad Group based in Pune/Nagpur, India, is 
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.argusmedia.com/en/news-and-insights/latest-market-news/2789227-india-s-varhad-advances-multi-pathway-carbon-removal))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://varhad.in/about-us/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://varhad.in/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/the-varhad-group/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

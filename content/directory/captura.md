@@ -8,15 +8,17 @@ pathway: "Ocean CDR"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Ocean CDR
-**Method:** Direct Ocean Removal
-**Country:** United States
-**Website:** [https://capturacorp.com/](https://capturacorp.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~82 (-4% YoY)
-**LinkedIn Followers:** 15,800
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Ocean CDR</td></tr>
+  <tr><th>Method</th><td>Direct Ocean Removal</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://capturacorp.com/" target="_blank" rel="noopener">https://capturacorp.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/capturaco2/" target="_blank" rel="noopener">capturaco2 — 15,800 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~82 (-4% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -31,9 +33,7 @@ Captura is a Pasadena, California-based company publicly launched in 2021 focuse
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://capturacorp.com/))
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://capturacorp.com/))
 - **2026-04-18** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://capturacorp.com/equinor-and-captura-validate-doc/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/capturaco2/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

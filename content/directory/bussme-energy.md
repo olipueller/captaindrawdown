@@ -8,15 +8,18 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Secondary pathways:** BECCS
-**Method:** Unknown
-**Country:** Sweden
-**Website:** [https://www.bussmeenergy.se/](https://www.bussmeenergy.se/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~4 (0% YoY)
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>BECCS</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Sweden</td></tr>
+  <tr><th>Website</th><td><a href="https://www.bussmeenergy.se/" target="_blank" rel="noopener">https://www.bussmeenergy.se/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bussme-energy/" target="_blank" rel="noopener">bussme-energy</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~4 (0% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -30,8 +33,6 @@ Bussme Energy AB is a Swedish family-owned company founded in 2010 that operates
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.bussmeenergy.se/biokol/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.bussmeenergy.se/ ([source](https://www.cdr.fyi/supplier/bussme))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/bussme))
-
-[View on LinkedIn](https://www.linkedin.com/company/bussme-energy/)
 
 ---
 

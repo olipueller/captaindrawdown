@@ -8,16 +8,18 @@ pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Enabling Tech
-**Secondary pathways:** Biochar, Afforestation
-**Method:** Unknown
-**Country:** United Arab Emirates
-**Website:** [https://offset8capital.com/](https://offset8capital.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~10 (0% YoY)
-**LinkedIn Followers:** 6,176
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Secondary pathways</th><td>Biochar, Afforestation</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>United Arab Emirates</td></tr>
+  <tr><th>Website</th><td><a href="https://offset8capital.com/" target="_blank" rel="noopener">https://offset8capital.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/offset8-capital/" target="_blank" rel="noopener">offset8-capital — 6,176 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~10 (0% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -31,8 +33,6 @@ Offset8 Capital is an Abu Dhabi-based proprietary asset management and emissions
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://offset8capital.com/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://offset8capital.com/ ([source](https://www.cdr.fyi/marketplace/offset8-capital))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/offset8-capital))
-
-[View on LinkedIn](https://www.linkedin.com/company/offset8-capital/)
 
 ---
 

@@ -8,16 +8,18 @@ pathway: "Afforestation"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Afforestation
-**Secondary pathways:** Biochar, Biomass Burial
-**Method:** Unknown
-**Country:** Canada
-**Website:** [https://hempcarbonstandard.org](https://hempcarbonstandard.org)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~1 (-67% YoY)
-**LinkedIn Followers:** 4,075
-**CDR Focus:** division
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Afforestation</td></tr>
+  <tr><th>Secondary pathways</th><td>Biochar, Biomass Burial</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Canada</td></tr>
+  <tr><th>Website</th><td><a href="https://hempcarbonstandard.org" target="_blank" rel="noopener">https://hempcarbonstandard.org</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/hemp-carbon-standard/" target="_blank" rel="noopener">hemp-carbon-standard — 4,075 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~1 (-67% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>division</td></tr>
+</table>
 
 ## About
 
@@ -31,8 +33,6 @@ Hemp Carbon Standard (HCS) is a wholly-owned subsidiary of Calgary-based Hempalt
 - **2026-04-19** — reclassified: pathway=Afforestation focus=division liveliness=🟢 Active ([source](https://hempcarbonstandard.org/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://hempcarbonstandard.org ([source](https://www.cdr.fyi/supplier/hemp-carbon-standard))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/hemp-carbon-standard))
-
-[View on LinkedIn](https://www.linkedin.com/company/hemp-carbon-standard/)
 
 ---
 

@@ -8,15 +8,16 @@ pathway: "BECCS"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** BECCS
-**Method:** BECCS
-**Country:** United Kingdom
-**Website:** [https://enfinium.co.uk/](https://enfinium.co.uk/)
-**Status:** 🟢 Active (score: 95/100)
-**Employees:** ~258 (+13% YoY)
-**LinkedIn Followers:** 14,899
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>BECCS</td></tr>
+  <tr><th>Country</th><td>United Kingdom</td></tr>
+  <tr><th>Website</th><td><a href="https://enfinium.co.uk/" target="_blank" rel="noopener">https://enfinium.co.uk/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/enfiniumuk/" target="_blank" rel="noopener">enfiniumuk — 14,899 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
+  <tr><th>Employees</th><td>~258 (+13% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -38,9 +39,7 @@ enfinium is a leading UK energy-from-waste operator with six facilities across W
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.letsrecycle.com/news/enfinium-submits-plan-for-full-scale-carbon-capture-at-parc-adfer-efw/))
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://enfinium.co.uk/enfinium-announces-next-phase-of-carbon-capture-technology-programme-trialling-next-generation-british-technology-and-accelerating-carbon-capture-in-wales/))
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://enfinium.co.uk/nuadas-next-generation-carbon-capture-technology-goes-live-at-enfiniums-energy-from-waste-plant/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/enfiniumuk/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

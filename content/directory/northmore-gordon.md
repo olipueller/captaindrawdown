@@ -8,15 +8,17 @@ pathway: "Enabling Tech"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Enabling Tech
-**Method:** Unknown
-**Country:** Australia
-**Website:** [https://northmoregordon.com/](https://northmoregordon.com/)
-**Status:** 🟢 Active (score: 85/100)
-**Employees:** ~37 (+23% YoY)
-**LinkedIn Followers:** 2,788
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Australia</td></tr>
+  <tr><th>Website</th><td><a href="https://northmoregordon.com/" target="_blank" rel="noopener">https://northmoregordon.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/northmore-gordon-pty-ltd/" target="_blank" rel="noopener">northmore-gordon-pty-ltd — 2,788 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Employees</th><td>~37 (+23% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -28,8 +30,6 @@ Northmore Gordon is an Australian energy and carbon advisory consultancy (founde
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://northmoregordon.com/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/northmore-gordon))
-
-[View on LinkedIn](https://www.linkedin.com/company/northmore-gordon-pty-ltd/)
 
 ---
 

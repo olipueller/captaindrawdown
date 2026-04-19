@@ -8,16 +8,18 @@ pathway: "Enabling Tech"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Enabling Tech
-**Secondary pathways:** Biochar, Afforestation, Enhanced Weathering, Mineralization
-**Method:** BiCRS (Other)
-**Country:** United States
-**Website:** [https://3degreesinc.com/](https://3degreesinc.com/)
-**Status:** 🟢 Active (score: 95/100)
-**Employees:** ~308 (-8% YoY)
-**LinkedIn Followers:** 25,140
-**CDR Focus:** ecosystem
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Secondary pathways</th><td>Biochar, Afforestation, Enhanced Weathering, Mineralization</td></tr>
+  <tr><th>Method</th><td>BiCRS (Other)</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://3degreesinc.com/" target="_blank" rel="noopener">https://3degreesinc.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/3degrees/" target="_blank" rel="noopener">3degrees — 25,140 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 95/100)</td></tr>
+  <tr><th>Employees</th><td>~308 (-8% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -42,9 +44,7 @@ liveliness: "🟢 Active"
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://3degreesinc.com/what-we-do/implement-your-strategy/carbon-credits/carbon-removal-suite/))
 - **2026-04-18** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://3degreesinc.com/what-we-do/implement-your-strategy/carbon-credits/carbon-removal-suite/))
 - **2026-04-18** — reclassified: pathway=Enabling Tech focus=buyer_excluded liveliness=🟢 Active ([source](https://3degreesinc.com/what-we-do/implement-your-strategy/carbon-credits/carbon-removal-suite/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/3degrees/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

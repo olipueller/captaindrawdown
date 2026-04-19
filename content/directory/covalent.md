@@ -8,14 +8,17 @@ pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Enabling Tech
-**Method:** Unknown
-**Country:** United States
-**Website:** [https://www.covalent.earth/](https://www.covalent.earth/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~5 (-17% YoY)
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://www.covalent.earth/" target="_blank" rel="noopener">https://www.covalent.earth/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/covalentinc/" target="_blank" rel="noopener">covalentinc</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~5 (-17% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -29,8 +32,6 @@ Covalent (Covalent Climate Tech, Inc.) is a San Francisco-based climate fintech 
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟠 Suspect ([source](https://covalent.earth/blog/public-consultation))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.covalent.earth/ ([source](https://www.cdr.fyi/marketplace/covalent))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/covalent))
-
-[View on LinkedIn](https://www.linkedin.com/company/covalentinc/)
 
 ---
 

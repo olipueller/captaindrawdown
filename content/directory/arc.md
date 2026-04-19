@@ -8,16 +8,17 @@ pathway: "BECCS"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** BECCS
-**Secondary pathways:** BECCS
-**Method:** BECCS
-**Country:** Denmark
-**Website:** [https://a-r-c.dk/](https://a-r-c.dk/)
-**Status:** 🟢 Active (score: 85/100)
-**Employees:** ~268 (+5% YoY)
-**LinkedIn Followers:** 6,171
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>BECCS</td></tr>
+  <tr><th>Secondary pathways</th><td>BECCS</td></tr>
+  <tr><th>Country</th><td>Denmark</td></tr>
+  <tr><th>Website</th><td><a href="https://a-r-c.dk/" target="_blank" rel="noopener">https://a-r-c.dk/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/amagerressourcecenter/" target="_blank" rel="noopener">amagerressourcecenter — 6,171 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 85/100)</td></tr>
+  <tr><th>Employees</th><td>~268 (+5% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -31,9 +32,7 @@ ARC (Amager Resource Center) is a Danish inter-municipal waste management compan
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://bioenergyinternational.com/e-on-and-arc-upgrade-copencapture-partnership/))
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://bioenergyinternational.com/e-on-and-arc-upgrade-copencapture-partnership/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/amagerressourcecenter/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

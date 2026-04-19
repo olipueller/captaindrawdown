@@ -8,15 +8,17 @@ pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Enabling Tech
-**Method:** Unknown
-**Country:** France
-**Website:** [https://www.carbonable.io/](https://www.carbonable.io/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~101 (-13% YoY)
-**LinkedIn Followers:** 5,098
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>France</td></tr>
+  <tr><th>Website</th><td><a href="https://www.carbonable.io/" target="_blank" rel="noopener">https://www.carbonable.io/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonable/" target="_blank" rel="noopener">carbonable — 5,098 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~101 (-13% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -29,8 +31,6 @@ Carbonable specializes in the management, monitoring, and reporting of carbon co
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟡 Moderate ([source](https://www.carbonable.io/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.carbonable.io/ ([source](https://www.cdr.fyi/marketplace/carbonable))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/carbonable))
-
-[View on LinkedIn](https://www.linkedin.com/company/carbonable/)
 
 ---
 

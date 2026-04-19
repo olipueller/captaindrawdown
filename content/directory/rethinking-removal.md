@@ -8,15 +8,17 @@ pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Enabling Tech
-**Method:** Unknown
-**Country:** United Kingdom
-**Website:** [https://rethinkingremovals.org/](https://rethinkingremovals.org/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~5 (-17% YoY)
-**LinkedIn Followers:** 1,143
-**CDR Focus:** ecosystem
-**Evidence signals:** cdrfyi_listing, marketplace
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>United Kingdom</td></tr>
+  <tr><th>Website</th><td><a href="https://rethinkingremovals.org/" target="_blank" rel="noopener">https://rethinkingremovals.org/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/rethinking-removals/" target="_blank" rel="noopener">rethinking-removals — 1,143 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~5 (-17% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>ecosystem</td></tr>
+</table>
 
 ## About
 
@@ -36,8 +38,6 @@ Rethinking Removals is a UK-based collaborative non-profit organisation focused 
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://rethinkingremovals.org/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://rethinkingremovals.org/ ([source](https://www.cdr.fyi/marketplace/rethinking-removal))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/rethinking-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/rethinking-removals/)
 
 ---
 

@@ -8,15 +8,17 @@ pathway: "Mineralization"
 liveliness: "🟠 Suspect"
 ---
 
-**Pathway:** Mineralization
-**Method:** Mineralization (Other)
-**Country:** Canada
-**Website:** [https://exterratechnologies.com/](https://exterratechnologies.com/)
-**Status:** 🟠 Suspect (score: 40/100)
-**Employees:** ~24
-**LinkedIn Followers:** 3,018
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Mineralization</td></tr>
+  <tr><th>Method</th><td>Mineralization (Other)</td></tr>
+  <tr><th>Country</th><td>Canada</td></tr>
+  <tr><th>Website</th><td><a href="https://exterratechnologies.com/" target="_blank" rel="noopener">https://exterratechnologies.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/esgnr/" target="_blank" rel="noopener">esgnr — 3,018 followers</a></td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Employees</th><td>~24</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -38,9 +40,7 @@ Exterra (formerly Exterra Carbon Solutions, rebranded to Exterra Technologies in
 - **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://enkiai.com/exterra-carbon-solutions-dac-initiatives-for-2025-key-projects-strategies-and-partnerships))
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://exterratechnologies.com/news/exterra-carbon-solutions-becomes-exterra-technologies))
 - **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://cleanenergyventures.com/clean-energy-venture-capital/exterra-20m-series-a-to-transform-mining-waste-into-low-carbon-critical-minerals/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/esgnr/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

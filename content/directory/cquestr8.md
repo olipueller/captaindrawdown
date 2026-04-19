@@ -8,14 +8,16 @@ pathway: "Mineralization"
 liveliness: "🟠 Suspect"
 ---
 
-**Pathway:** Mineralization
-**Secondary pathways:** Ocean CDR
-**Method:** Mineralization (Other)
-**Country:** United Kingdom
-**Website:** [https://cquestr8.com/](https://cquestr8.com/)
-**Status:** 🟠 Suspect (score: 30/100)
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Mineralization</td></tr>
+  <tr><th>Secondary pathways</th><td>Ocean CDR</td></tr>
+  <tr><th>Method</th><td>Mineralization (Other)</td></tr>
+  <tr><th>Country</th><td>United Kingdom</td></tr>
+  <tr><th>Website</th><td><a href="https://cquestr8.com/" target="_blank" rel="noopener">https://cquestr8.com/</a></td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 30/100)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -28,7 +30,7 @@ Cquestr8 is a Durham, UK-based startup founded in 2020 developing a reactor-base
 
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟠 Suspect ([source](https://find-and-update.company-information.service.gov.uk/company/12990074))
 - **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness=🟠 Suspect ([source](https://find-and-update.company-information.service.gov.uk/company/12990074))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

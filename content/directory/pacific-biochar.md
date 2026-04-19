@@ -8,15 +8,17 @@ pathway: "Biochar"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Biochar
-**Method:** Biomass Carbon Removal
-**Country:** United States
-**Website:** [https://www.pacificbiochar.com](https://www.pacificbiochar.com)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~3 (-25% YoY)
-**LinkedIn Followers:** 2,096
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, registry_puro
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Method</th><td>Biomass Carbon Removal</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://www.pacificbiochar.com" target="_blank" rel="noopener">https://www.pacificbiochar.com</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/pacific-biochar/" target="_blank" rel="noopener">pacific-biochar — 2,096 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~3 (-25% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -36,15 +38,13 @@ Pacific Biochar is a California-based benefit corporation that partners with bio
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://pacificbiochar.com/how-we-produce-biochar/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://isometric.com/writing-articles/first-credits-issued-to-pacific-biochar-under-isometrics-biochar-protocol))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://isometric.com/writing-articles/first-credits-issued-to-pacific-biochar-under-isometrics-biochar-protocol))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 - **** — merged duplicate: Pacific Biochar/Wren (slug=pacific-biocharwren)
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://pacificbiochar.com/carbon-removal-with-co-benefits/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://isometric.com/writing-articles/first-credits-issued-to-pacific-biochar-under-isometrics-biochar-protocol))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://pacificbiochar.com/))
-- **2026-04-18** — backfilled from V1
-
-[View on LinkedIn](https://www.linkedin.com/company/pacific-biochar/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

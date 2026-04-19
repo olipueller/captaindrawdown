@@ -8,14 +8,16 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Method:** Biochar
-**Country:** United States
-**Website:** [http://www.dcfp.com/](http://www.dcfp.com/)
-**Status:** 🟢 Active (score: 70/100)
-**Employees:** ~32 (+10% YoY)
-**CDR Focus:** supplier
-**Evidence signals:** last_evidence_url, registry_puro
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="http://www.dcfp.com/" target="_blank" rel="noopener">http://www.dcfp.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/douglas-county-forest-products/" target="_blank" rel="noopener">douglas-county-forest-products</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Employees</th><td>~32 (+10% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -33,9 +35,7 @@ Douglas County Forest Products is an independently owned sawmill in Roseburg, Or
 - **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active ([source](http://www.dcfp.com/contact/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](http://www.dcfp.com/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.cdr.fyi/supplier/douglascountyforest))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/douglas-county-forest-products/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

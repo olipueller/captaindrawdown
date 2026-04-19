@@ -8,16 +8,18 @@ pathway: "Biomass Burial"
 liveliness: "🟠 Suspect"
 ---
 
-**Pathway:** Biomass Burial
-**Secondary pathways:** BECCS
-**Method:** BiCRS (Other)
-**Country:** United States
-**Website:** [https://cowboycleanfuels.com/](https://cowboycleanfuels.com/)
-**Status:** 🟠 Suspect (score: 40/100)
-**Employees:** ~15
-**LinkedIn Followers:** 1,153
-**CDR Focus:** supplier
-**Evidence signals:** website, last_evidence_url, linkedin
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biomass Burial</td></tr>
+  <tr><th>Secondary pathways</th><td>BECCS</td></tr>
+  <tr><th>Method</th><td>BiCRS (Other)</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Website</th><td><a href="https://cowboycleanfuels.com/" target="_blank" rel="noopener">https://cowboycleanfuels.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cowboy-clean-fuels/" target="_blank" rel="noopener">cowboy-clean-fuels — 1,153 followers</a></td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Employees</th><td>~15</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -30,9 +32,7 @@ Cowboy Clean Fuels (CCF) is a Denver, Colorado-headquartered climate-tech compan
 - **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://carbonherald.com/cowboy-clean-fuels-and-mangrove-systems-to-deploy-digital-mrv-in-groundbreaking-carbon-removal-projects/))
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://cowboycleanfuels.com/))
 - **2026-04-18** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://cowboycleanfuels.com/cdr/))
-- **2026-04-18** — backfilled from V1 ([source](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal))
-
-[View on LinkedIn](https://www.linkedin.com/company/cowboy-clean-fuels/)
+- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

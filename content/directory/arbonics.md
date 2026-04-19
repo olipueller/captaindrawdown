@@ -8,16 +8,17 @@ pathway: "Afforestation"
 liveliness: "🟡 Moderate"
 ---
 
-**Pathway:** Afforestation
-**Secondary pathways:** Enabling Tech
-**Method:** Afforestation
-**Country:** Estonia
-**Website:** [https://www.arbonics.com/](https://www.arbonics.com/)
-**Status:** 🟡 Moderate (score: 55/100)
-**Employees:** ~27 (-23% YoY)
-**LinkedIn Followers:** 6,036
-**CDR Focus:** supplier
-**Evidence signals:** cdrjobs, hiring
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Afforestation</td></tr>
+  <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
+  <tr><th>Country</th><td>Estonia</td></tr>
+  <tr><th>Website</th><td><a href="https://www.arbonics.com/" target="_blank" rel="noopener">https://www.arbonics.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/arbonics/" target="_blank" rel="noopener">arbonics — 6,036 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~27 (-23% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -32,8 +33,6 @@ Arbonics is an Estonian naturetech company founded in 2022 that develops forest-
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.arbonics.com/))
 - **2026-04-19** — discovered via: cdrjobs ([source](https://www.cdrjobs.earth/job-board))
-
-[View on LinkedIn](https://www.linkedin.com/company/arbonics/)
 
 ---
 

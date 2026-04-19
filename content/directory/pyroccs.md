@@ -8,16 +8,18 @@ pathway: "Biochar"
 liveliness: "🟢 Active"
 ---
 
-**Pathway:** Biochar
-**Secondary pathways:** Enabling Tech
-**Method:** Unknown
-**Country:** Germany
-**Website:** [https://www.pyroccs.com](https://www.pyroccs.com)
-**Status:** 🟢 Active (score: 80/100)
-**Employees:** ~4 (+100% YoY)
-**LinkedIn Followers:** 2,947
-**CDR Focus:** supplier
-**Evidence signals:** cdrfyi_listing
+
+<table class="company-facts">
+  <tr><th>Pathway</th><td>Biochar</td></tr>
+  <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
+  <tr><th>Method</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Germany</td></tr>
+  <tr><th>Website</th><td><a href="https://www.pyroccs.com" target="_blank" rel="noopener">https://www.pyroccs.com</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/pyroccs/" target="_blank" rel="noopener">pyroccs — 2,947 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100)</td></tr>
+  <tr><th>Employees</th><td>~4 (+100% YoY)</td></tr>
+  <tr><th>CDR Focus</th><td>supplier</td></tr>
+</table>
 
 ## About
 
@@ -32,8 +34,6 @@ PyroCCS is a Germany-based ClimateTech startup established in March 2022 after p
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.pyroccs.com ([source](https://www.cdr.fyi/supplier/pyroccs))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://pyroccs.com/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/pyroccs))
-
-[View on LinkedIn](https://www.linkedin.com/company/pyroccs/)
 
 ---
 
