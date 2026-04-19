@@ -2,7 +2,7 @@
 title: "Syncraft"
 layout: "single"
 type: "directory"
-description: "Syncraft is an Austrian technology firm (founded 2009, based in Schwaz, Tyrol) that builds \\"Reversepowerplants\\" — biomass gasification plants using a patented f"
+description: "Syncraft is an Austrian technology firm (founded 2009, based in Schwaz, Tyrol) that builds Reversepowerplants — biomass gasification plants using a patented f"
 url: "/directory/syncraft/"
 pathway: "Biochar"
 liveliness: "🟢 Active"

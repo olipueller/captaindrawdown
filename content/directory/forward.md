@@ -2,7 +2,7 @@
 title: "Forward"
 layout: "single"
 type: "directory"
-description: "Svante Inc. (website tagline \\"Forward-Thinking Carbon Capture\\") is a Vancouver/Burnaby-based carbon capture technology company that builds solid-sorbent filters"
+description: "Svante Inc. (website tagline Forward-Thinking Carbon Capture) is a Vancouver/Burnaby-based carbon capture technology company that builds solid-sorbent filters"
 url: "/directory/forward/"
 pathway: "BECCS"
 liveliness: "🟢 Active"

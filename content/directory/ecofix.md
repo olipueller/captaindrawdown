@@ -2,7 +2,7 @@
 title: "EcoFix"
 layout: "single"
 type: "directory"
-description: "EcoFix is a nut processor in Kenya whose agricultural waste is being converted to biochar through a partnership with Terraton Biochar Platform. The \\"EcoFix Keny"
+description: "EcoFix is a nut processor in Kenya whose agricultural waste is being converted to biochar through a partnership with Terraton Biochar Platform. The EcoFix Kenya"
 url: "/directory/ecofix/"
 pathway: "Biochar"
 liveliness: "🟢 Active"

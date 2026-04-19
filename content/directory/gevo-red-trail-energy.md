@@ -2,7 +2,7 @@
 title: "Gevo (Red Trail Energy)"
 layout: "single"
 type: "directory"
-description: "Gevo North Dakota (formerly Red Trail Energy, now renamed \\"Net-Zero North\\") is an operating ethanol plant with adjacent CCS assets in Richardton, ND, acquired b"
+description: "Gevo North Dakota (formerly Red Trail Energy, now renamed Net-Zero North) is an operating ethanol plant with adjacent CCS assets in Richardton, ND, acquired b"
 url: "/directory/gevo-red-trail-energy/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
